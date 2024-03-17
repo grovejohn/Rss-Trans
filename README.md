@@ -11,8 +11,8 @@
  📢查看[ 已翻译的订阅源列表 ](https://tjsky.github.io/Rss-Translation) 修改自[ rss-translate ](https://github.com/rcy1314/Rss-Translation)
 
 ## 已转换翻译源
- - source001 [https://rsshub.app/telegram/channel/Artificial_intelligence_in](https://rsshub.app/telegram/channel/Artificial_intelligence_in) -> [Artificial_intelligence_in](rss/Artificial_intelligence_in.xml)
- - source002 [https://www.reddit.com/r/automation.rss](https://www.reddit.com/r/automation.rss) -> [reddit_automation](rss/reddit_automation.xml)
+ - source001 [https://www.voanews.com/api/](https://www.voanews.com/api/) -> [Voice of America](rss/Voice%20of%20America.xml)
+ - source002 [http://feeds.feedburner.com/brainpickings/rss](http://feeds.feedburner.com/brainpickings/rss) -> [The Marginalian](rss/The%20Marginalian.xml)
  - source003 [https://huggingface.co/blog/feed.xml](https://huggingface.co/blog/feed.xml) -> [huggingface_blog](rss/huggingface_blog.xml)
  - source004 [https://www.reddit.com/r/ArtificialInteligence.rss](https://www.reddit.com/r/ArtificialInteligence.rss) -> [reddit_ArtificialInteligence](rss/reddit_ArtificialInteligence.xml)
  - source005 [https://rsshub.app/telegram/channel/AiIndiaJobs](https://rsshub.app/telegram/channel/AiIndiaJobs) -> [AiIndiaJobs](rss/AiIndiaJobs.xml)
