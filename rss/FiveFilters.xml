@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>FiveFilters.org</title>
+    <link>https://www.fivefilters.org/</link>
+    <description>网络文章变得可访问</description>
+    <lastBuildDate>Sun, 17 Mar 2024 13:15:48 GMT</lastBuildDate>
+    <item>
+      <title>测试旧代码的 PHP 8 兼容性</title>
+      <link>https://www.fivefilters.org/2023/testing-old-code-for-php-8-compatibility/</link>
+      <description><![CDATA[这篇文章将向您展示如何使用 PHP 兼容性来测试您的代码与较新版本 PHP 的兼容性。您可以使用它来测试整个文件夹或特定文件。
+帖子测试旧代码的 PHP 8 兼容性 首先出现在 FiveFilters.org 上。]]></description>
+      <guid>https://www.fivefilters.org/2023/testing-old-code-for-php-8-compatibility/</guid>
+      <pubDate>Thu, 07 Sep 2023 15:57:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>格伦·格林沃尔德谈维基百科偏见</title>
+      <link>https://www.fivefilters.org/2023/glenn-greenwald-on-wikipedia-bias/</link>
+      <description><![CDATA[格伦·格林沃尔德 (Glenn Greenwald) 关于维基百科建制派偏见的系统更新一集值得一看。格林沃尔德还讨论了维基百科的“可靠来源”政策如何在其中发挥作用。
+格伦·格林沃尔德 (Glenn Greenwald) 关于维基百科偏见的帖子首先出现在 FiveFilters.org 上。]]></description>
+      <guid>https://www.fivefilters.org/2023/glenn-greenwald-on-wikipedia-bias/</guid>
+      <pubDate>Mon, 14 Aug 2023 19:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Summate.it：使用 GPT 快速总结网络文章</title>
+      <link>https://www.fivefilters.org/2023/summate-it-quickly-summarize-web-articles-with-gpt/</link>
+      <description><![CDATA[我们的最新工具 Summate.it 可以让您概述文章的要点。只需单击一下，您就可以立即获得您感兴趣的文章的摘要，让您快速决定是否值得阅读整篇文章。
+帖子Summate.it：快速使用 GPT 总结网络文章首先出现在 FiveFilters.org 上。]]></description>
+      <guid>https://www.fivefilters.org/2023/summate-it-quickly-summarize-web-articles-with-gpt/</guid>
+      <pubDate>Wed, 28 Jun 2023 23:23:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 Push to Kindle iOS 应用程序</title>
+      <link>https://www.fivefilters.org/2023/new-push-to-kindle-ios-app/</link>
+      <description><![CDATA[我们在 Apple App Store 上推出了新版本的 Push to Kindle iOS 应用程序。 Push to Kindle 将网络文章转换为电子书，并将其发送到您的 Kindle 帐户，以获得更好的阅读体验。
+帖子Kindle iOS 应用程序的新推送 首先出现在 FiveFilters.org 上。]]></description>
+      <guid>https://www.fivefilters.org/2023/new-push-to-kindle-ios-app/</guid>
+      <pubDate>Wed, 08 Mar 2023 16:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对全文 RSS 和 Feed Creator 的 PHP 8.1 和 8.2 更新</title>
+      <link>https://www.fivefilters.org/2022/php-8-1-and-8-2-updates-for-full-text-rss-and-feed-creator/</link>
+      <description><![CDATA[新版本的 Feed Creator 和全文 RSS 现已可用于自我托管。他们修复了 PHP 8.1 和 8.2 的问题。
+帖子全文 RSS 和 Feed Creator 的 PHP 8.1 和 8.2 更新首先出现在 FiveFilters 上。组织。]]></description>
+      <guid>https://www.fivefilters.org/2022/php-8-1-and-8-2-updates-for-full-text-rss-and-feed-creator/</guid>
+      <pubDate>Sat, 31 Dec 2022 18:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kobo Elipsa：标记网络文章和 EPUB</title>
+      <link>https://www.fivefilters.org/2022/kobo-elipsa-marking-up-web-articles-and-epubs/</link>
+      <description><![CDATA[Kobo Elipsa 是一款 10.3 英寸电子阅读器。它配备了一支手写笔，可让您以与使用笔和纸类似的方式标记文档。在这篇文章中，我们将向您展示如何在 Kobo Elipsa 上标记由我们的 Push to Kindle 服务生成的网络文章。
+帖子 Kobo Elipsa：标记网络文章和 EPUB 首先出现在 FiveFilters.org 上。]]></description>
+      <guid>https://www.fivefilters.org/2022/kobo-elipsa-marking-up-web-articles-and-epubs/</guid>
+      <pubDate>Sun, 13 Nov 2022 17:30:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>推送到 Kindle：封面图像和速度改进</title>
+      <link>https://www.fivefilters.org/2022/push-to-kindle-cover-images-and-speed-improvements/</link>
+      <description><![CDATA[过去，亚马逊会自动为没有封面图片的文档生成封面，将标题和作者显示为封面。他们不再这样做，因此 Push to Kindle 现在会生成自己的。
+帖子推送到 Kindle：封面图像和速度改进首先出现在FiveFilters.org上。]]></description>
+      <guid>https://www.fivefilters.org/2022/push-to-kindle-cover-images-and-speed-improvements/</guid>
+      <pubDate>Sun, 06 Nov 2022 21:19:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kindle EPUB 问题</title>
+      <link>https://www.fivefilters.org/2022/kindle-epub-issues/</link>
+      <description><![CDATA[亚马逊目前在正确处理通过其 Kindle 个人文档服务发送的 EPUB 元数据时遇到问题。如果您通过电子邮件将 EPUB 发送到您的 Kindle 帐户，或使用第三方应用程序（例如我们的 Push to Kindle 服务）发送网络文章，您可能会受到影响。
+帖子Kindle EPUB问题首先出现在FiveFilters.org。]]></description>
+      <guid>https://www.fivefilters.org/2022/kindle-epub-issues/</guid>
+      <pubDate>Fri, 30 Sep 2022 12:06:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>将网络文章发送到 Dropbox、reMarkable 等...</title>
+      <link>https://www.fivefilters.org/2022/send-web-articles-to-dropbox-remarkable-and-more/</link>
+      <description><![CDATA[Push to Kindle 现在支持将网络文章发送到 Dropbox 帐户。如果您的电子阅读器提供 Dropbox 集成，请尝试一下。我们还让 Android 上的其他应用更容易访问我们的 EPUB。
+帖子将网络文章发送到 Dropbox 、reMarkable 等… 首先出现在 FiveFilters.org 上。]]></description>
+      <guid>https://www.fivefilters.org/2022/send-web-articles-to-dropbox-remarkable-and-more/</guid>
+      <pubDate>Mon, 29 Aug 2022 22:19:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>将网络文章发送到 PocketBook</title>
+      <link>https://www.fivefilters.org/2022/send-web-articles-to-a-pocketbook/</link>
+      <description><![CDATA[如何使用我们的 Push to Kindle 应用程序将网络文章发送到您的 PocketBook。
+帖子将网络文章发送到 PocketBook 首先出现在 FiveFilters.org 上。]]></description>
+      <guid>https://www.fivefilters.org/2022/send-web-articles-to-a-pocketbook/</guid>
+      <pubDate>Sun, 14 Aug 2022 12:46:25 GMT</pubDate>
+    </item>
+    </channel>
+</rss>

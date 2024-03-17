@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>星球在哪里|英语</title>
+    <link>https://planet.kde.org/uk/</link>
+    <description></description>
+    <lastBuildDate>Sun, 17 Mar 2024 13:15:13 GMT</lastBuildDate>
+    <item>
+      <title>微风图标更新于 2024 年 3 月 16 日</title>
+      <link>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[大家好，
+我回来了另一个更新，使图标适应 24 像素网格并进行一些更大的编辑。这周，我工作了 3 行，这很棒，并且能够达到刚刚超过 50% 的分数，看起来 
+这是一个包含更改的视频：
+
+]]></description>
+      <guid>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 16 Mar 2024 15:11:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个周末我正在为 Transitous 做贡献。你也应该。</title>
+      <link>https://quickfix.es/2024/03/this-weekend-i-am-contributing-to-transitous-you-should-too/?utm_source=atom_feed</link>
+      <description><![CDATA[Transitous 是一项新的社区驱动的路由服务。添加您自己的城市并帮助它变得更加美好。]]></description>
+      <guid>https://quickfix.es/2024/03/this-weekend-i-am-contributing-to-transitous-you-should-too/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 16 Mar 2024 11:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>海豚24.02</title>
+      <link>https://meven.github.io/dolphin-24-02/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://meven.github.io/dolphin-24-02/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 16 Mar 2024 10:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>完成 KDE Frameworks 6 过渡</title>
+      <link>https://www.volkerkrause.eu/2024/03/16/kf6-completing-the-transition.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/03/16/kf6-completing-the-transition.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 16 Mar 2024 09:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 KDE：Dolphin 等级提升</title>
+      <link>https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 16 Mar 2024 04:36:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络评论，2024-11 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 15 Mar 2024 11:59:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt 6.7 及更高版本中的 RESTful 客户端应用程序</title>
+      <link>https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt 6.7 引入了实现典型 RESTful/HTTP 客户端应用程序的便捷改进。目标是通过以更方便的方式解决小但系统重复的需求，将重复的网络样板代码减少多达 40%。其中包括用于表示 HTTP 的新 QHttpHeaders 类标头，用于创建特定于 API 的请求的 QNetworkRequestFactory，用于处理小型但经常重复的代码片段的 QRestAccessManager 类，以及用于从回复中提取数据并检查错误的 QRestReply 类。 QNetworkRequestFactory、QRestAccessManager 和 QRestReply 在 Qt 6.7 中作为技术预览版发布。
+]]></description>
+      <guid>https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed</guid>
+      <pubDate>Fri, 15 Mar 2024 07:39:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>新版本团队博客</title>
+      <link>https://blogs.kde.org/2024/03/15/new-release-team-blog/?utm_source=atom_feed</link>
+      <description><![CDATA[该博客将由发布团队用于需要发布公告的公共维护项目。
+KDE Frameworks、Plasma 和 KDE Gear 将保留在 kde.org 上。但是可以在此处宣布获得自己版本的应用程序和库的单独版本。]]></description>
+      <guid>https://blogs.kde.org/2024/03/15/new-release-team-blog/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>鲁科拉2.1.1</title>
+      <link>https://blogs.kde.org/2024/03/15/ruqola-2.1.1/?utm_source=atom_feed</link>
+      <description><![CDATA[Ruqola 2.1.1 是 Rocket.chat 应用程序的错误修复版本。
+改进：
+预览网址已修复 我实现了“阻止操作” （当我们邀请用户时，在 RC 6.6.x 中这是必需的） 修复 OauthAppsUpdateJob 支持（管理） 修复翻译消息时的更新视图（视图未在私人频道中更新） 在组合框服务器中显示服务器图标 修复显示表情符号弹出菜单时的显示图标我们显示线程消息修复 jitsi 支持修复暗模式 URL：https://download。]]></description>
+      <guid>https://blogs.kde.org/2024/03/15/ruqola-2.1.1/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt Creator 13 RC 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-13-rc-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 13 RC 发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-13-rc-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 14 Mar 2024 11:33:55 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
