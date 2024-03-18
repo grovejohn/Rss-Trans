@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 05:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 06:16:31 GMT</lastBuildDate>
     <item>
       <title>VideoAgent：以大语言模型为代理的长格式视频理解</title>
       <link>https://arxiv.org/abs/2403.10517</link>
@@ -43,7 +43,7 @@
     <item>
       <title>Alignment Studio：使大型语言模型与特定上下文规则保持一致</title>
       <link>https://arxiv.org/abs/2403.09704</link>
-      <description><![CDATA[大型语言模型的对齐通常由模型提供者完成，以添加或控制跨用例和上下文常见或普遍理解的行为。相比之下，在本文中，我们提出了一种方法和架构，使应用程序开发人员能够根据其特定价值观、社会规范、法律和其他法规调整模型，并在上下文中协调潜在冲突的需求。我们提出了这种 Alignment Studio 架构的三个主要组件：Framers、Instructors 和 Auditors，它们协同工作来控制语言模型的行为。我们通过一个运行示例来说明这种方法，该示例将公司面向内部的企业聊天机器人与其业务行为准则保持一致。]]></description>
+      <description><![CDATA[大型语言模型的对齐通常由模型提供者完成，以添加或控制跨用例和上下文常见或普遍理解的行为。相比之下，在本文中，我们提出了一种方法和架构，使应用程序开发人员能够根据其特定价值观、社会规范、法律和其他法规调整模型，并在上下文中协调潜在冲突的需求。我们列出了这种 Alignment Studio 架构的三个主要组件：Framers、Instructors 和 Auditors，它们协同工作来控制语言模型的行为。我们通过一个运行示例来说明这种方法，该示例将公司面向内部的企业聊天机器人与其业务行为准则保持一致。]]></description>
       <guid>https://arxiv.org/abs/2403.09704</guid>
       <pubDate>Mon, 18 Mar 2024 02:17:58 GMT</pubDate>
     </item>
