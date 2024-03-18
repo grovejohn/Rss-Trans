@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 02:18:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 02:35:31 GMT</lastBuildDate>
     <item>
       <title>StreamMultiDiffusion：具有基于区域的语义控制的实时交互生成</title>
       <link>https://arxiv.org/abs/2403.09055</link>
@@ -15,7 +15,7 @@
     <item>
       <title>3D-VLA：3D 视觉-语言-动作生成世界模型</title>
       <link>https://arxiv.org/abs/2403.09631</link>
-      <description><![CDATA[最近的视觉-语言-动作 (VLA) 模型依赖于 2D 输入，缺乏与更广泛的 3D 物理世界领域的集成。此外，他们通过学习从感知到行动的直接映射来进行行动预测，忽略了世界的巨大动态以及行动与动态之间的关系。相比之下，人类被赋予了世界模型，可以描绘对未来场景的想象力，从而计划相应的行动。为此，我们通过引入一系列新的具体化基础模型来提出 3D-VLA，这些模型通过生成世界模型无缝链接 3D 感知、推理和行动。具体来说，3D-VLA 构建在基于 3D 的大语言模型 (LLM) 之上，并引入了一组交互令牌来与具体环境进行交互。此外，为了将生成能力注入到模型中，我们训练了一系列具体扩散模型并将它们对齐到 LLM 中以预测目标图像和点云。为了训练我们的 3D-VLA，我们通过从现有机器人数据集中提取大量 3D 相关信息来构建大规模 3D 体现指令数据集。我们对保留数据集的实验表明，3D-VLA 显着提高了具体环境中的推理、多模态生成和规划能力，展示了其在现实世界应用中的潜力。]]></description>
+      <description><![CDATA[最近的视觉-语言-动作 (VLA) 模型依赖于 2D 输入，缺乏与更广泛的 3D 物理世界领域的集成。此外，他们通过学习从感知到行动的直接映射来进行行动预测，忽略了世界的巨大动态以及行动与动态之间的关系。相比之下，人类被赋予了世界模型，可以描绘对未来场景的想象力，从而计划相应的行动。为此，我们通过引入一系列新的具体化基础模型来提出 3D-VLA，这些模型通过生成世界模型无缝链接 3D 感知、推理和行动。具体来说，3D-VLA 构建在基于 3D 的大语言模型 (LLM) 之上，并引入了一组交互令牌来与具体环境进行交互。此外，为了将生成能力注入模型中，我们训练了一系列具体扩散模型并将它们对齐到 LLM 中以预测目标图像和点云。为了训练我们的 3D-VLA，我们通过从现有机器人数据集中提取大量 3D 相关信息来构建大规模 3D 体现指令数据集。我们对保留数据集的实验表明，3D-VLA 显着提高了具体环境中的推理、多模态生成和规划能力，展示了其在现实世界应用中的潜力。]]></description>
       <guid>https://arxiv.org/abs/2403.09631</guid>
       <pubDate>Fri, 15 Mar 2024 04:09:06 GMT</pubDate>
     </item>
