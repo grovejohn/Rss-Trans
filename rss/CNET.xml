@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Mon, 18 Mar 2024 03:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 05:35:35 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳生酮送餐服务 - CNET</title>
+      <link>https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e</link>
+      <description><![CDATA[坚持你的低碳水化合物饮食计划并执行这些宏指令。这些是最好的高蛋白膳食酮餐套件送货服务，没有任何麻烦。]]></description>
+      <guid>https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e</guid>
+      <pubDate>Mon, 18 Mar 2024 04:58:00 GMT</pubDate>
+    </item>
     <item>
       <title>FluffCo 推出床上用品促销活动庆祝睡眠周 - CNET</title>
       <link>https://www.cnet.com/deals/fluffco-is-celebrating-sleep-week-with-its-bedding-sale/#ftag=CAD590a51e</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[过敏很容易让你彻夜难眠。通过这八种方法获得更好的休息。]]></description>
       <guid>https://www.cnet.com/health/sleep/8-tips-to-stop-allergies-from-ruining-your-sleep/#ftag=CAD590a51e</guid>
       <pubDate>Sun, 17 Mar 2024 16:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳无线蓝牙音箱 - CNET</title>
-      <link>https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e</link>
-      <description><![CDATA[没有音乐，任何聚会都是不完整的。查看 CNET 最喜爱的无线蓝牙扬声器型号。]]></description>
-      <guid>https://www.cnet.com/tech/home-entertainment/best-wireless-bluetooth-boombox/#ftag=CAD590a51e</guid>
-      <pubDate>Sun, 17 Mar 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
