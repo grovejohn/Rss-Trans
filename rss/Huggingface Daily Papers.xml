@@ -4,18 +4,18 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 18 Mar 2024 20:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 20:37:38 GMT</lastBuildDate>
     <item>
       <title>NeuFlow：使用边缘设备对机器人进行实时、高精度光流估计</title>
       <link>https://arxiv.org/abs/2403.10425</link>
-      <description><![CDATA[实时高精度光流估计是各种应用中的关键组成部分，包括机器人技术中的定位和建图、对象跟踪以及计算机视觉中的活动识别。虽然最近基于学习的光流方法已经实现了高精度，但它们通常会带来沉重的计算成本。在本文中，我们提出了一种高效的光流架构，称为 NeuFlow，它解决了高精度和计算成本问题。该架构遵循全局到本地的方案。考虑到在不同空间分辨率下提取的输入图像的特征，采用全局匹配来估计 1/16 分辨率上的初始光流，捕获大位移，然后使用轻量级 CNN 层在 1/8 分辨率上进行细化，以获得更好的效果。准确性。我们在 Jetson Orin Nano 和 RTX 2080 上评估我们的方法，以展示不同计算平台上的效率改进。与几种最先进的方法相比，我们的速度显着提高了 10 倍至 80 倍，同时保持了相当的精度。我们的方法在边缘计算平台上实现了约 30 FPS，这代表了在无人机等小型机器人上部署 SLAM 等复杂计算机视觉任务的重大突破。完整的培训和评估代码可在 https://github.com/neufieldrobotics/NeuFlow 获取。]]></description>
+      <description><![CDATA[实时高精度光流估计是各种应用中的关键组成部分，包括机器人技术中的定位和建图、对象跟踪以及计算机视觉中的活动识别。虽然最近基于学习的光流方法已经实现了高精度，但它们通常会带来沉重的计算成本。在本文中，我们提出了一种高效的光流架构，称为 NeuFlow，它解决了高精度和计算成本问题。该架构遵循全局到本地的方案。考虑到在不同空间分辨率下提取的输入图像的特征，采用全局匹配来估计 1/16 分辨率上的初始光流，捕获大位移，然后使用轻量级 CNN 层在 1/8 分辨率上进行细化以获得更好的效果准确性。我们在 Jetson Orin Nano 和 RTX 2080 上评估我们的方法，以展示不同计算平台上的效率改进。与几种最先进的方法相比，我们的速度显着提高了 10 倍至 80 倍，同时保持了相当的精度。我们的方法在边缘计算平台上实现了约 30 FPS，这代表了在无人机等小型机器人上部署 SLAM 等复杂计算机视觉任务的重大突破。完整的培训和评估代码可在 https://github.com/neufieldrobotics/NeuFlow 获取。]]></description>
       <guid>https://arxiv.org/abs/2403.10425</guid>
       <pubDate>Mon, 18 Mar 2024 10:37:21 GMT</pubDate>
     </item>
     <item>
       <title>FDGaussian：通过几何感知扩散模型从单幅图像进行快速高斯泼溅</title>
       <link>https://arxiv.org/abs/2403.10242</link>
-      <description><![CDATA[由于可用信息有限，从单视图图像重建详细的 3D 对象仍然是一项具有挑战性的任务。在本文中，我们介绍了 FDGaussian，这是一种用于单图像 3D 重建的新型两阶段框架。最近的方法通常利用预先训练的二维扩散模型从输入图像生成可信的新颖视图，但它们遇到多视图不一致或缺乏几何保真度的问题。为了克服这些挑战，我们提出了一种正交平面分解机制，从 2D 输入中提取 3D 几何特征，从而生成一致的多视图图像。此外，我们进一步加速了最先进的高斯泼溅，结合极点注意力来融合来自不同视点的图像。我们证明 FDGaussian 可以在不同视图中生成具有高度一致性的图像，并在定性和定量上重建高质量的 3D 对象。更多示例可以在我们的网站 https://qjfeng.net/FDGaussian/ 找到。]]></description>
+      <description><![CDATA[由于可用信息有限，从单视图图像重建详细的 3D 对象仍然是一项具有挑战性的任务。在本文中，我们介绍了 FDGaussian，这是一种用于单图像 3D 重建的新型两阶段框架。最近的方法通常利用预先训练的二维扩散模型从输入图像生成可信的新颖视图，但它们遇到多视图不一致或缺乏几何保真度的问题。为了克服这些挑战，我们提出了一种正交平面分解机制，从 2D 输入中提取 3D 几何特征，从而生成一致的多视图图像。此外，我们进一步加速了最先进的高斯泼溅，结合了极点注意力来融合来自不同视点的图像。我们证明 FDGaussian 可以在不同视图中生成具有高度一致性的图像，并在定性和定量上重建高质量的 3D 对象。更多示例可以在我们的网站 https://qjfeng.net/FDGaussian/ 找到。]]></description>
       <guid>https://arxiv.org/abs/2403.10242</guid>
       <pubDate>Mon, 18 Mar 2024 10:22:50 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>Alignment Studio：使大型语言模型与特定上下文规则保持一致</title>
       <link>https://arxiv.org/abs/2403.09704</link>
-      <description><![CDATA[大型语言模型的对齐通常由模型提供者完成，以添加或控制跨用例和上下文常见或普遍理解的行为。相比之下，在本文中，我们提出了一种方法和架构，使应用程序开发人员能够根据其特定价值观、社会规范、法律和其他法规调整模型，并在上下文中协调潜在冲突的需求。我们提出了这种 Alignment Studio 架构的三个主要组件：Framers、Instructors 和 Auditors，它们协同工作来控制语言模型的行为。我们通过一个运行示例来说明这种方法，该示例将公司面向内部的企业聊天机器人与其业务行为准则保持一致。]]></description>
+      <description><![CDATA[大型语言模型的对齐通常由模型提供者完成，以添加或控制跨用例和上下文常见或普遍理解的行为。相比之下，在本文中，我们提出了一种方法和架构，使应用程序开发人员能够根据其特定价值观、社会规范、法律和其他法规调整模型，并在上下文中协调潜在冲突的需求。我们列出了这种 Alignment Studio 架构的三个主要组件：Framers、Instructors 和 Auditors，它们协同工作来控制语言模型的行为。我们通过一个运行示例来说明这种方法，该示例将公司面向内部的企业聊天机器人与其业务行为准则保持一致。]]></description>
       <guid>https://arxiv.org/abs/2403.09704</guid>
       <pubDate>Mon, 18 Mar 2024 02:17:58 GMT</pubDate>
     </item>
