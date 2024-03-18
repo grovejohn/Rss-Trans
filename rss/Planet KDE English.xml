@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Mar 2024 22:35:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2024 00:54:11 GMT</lastBuildDate>
     <item>
       <title>Kile 2.9.95 / 3.0 beta 4 发布</title>
       <link>https://gruenich.blogspot.com/2024/03/kile-2995-30-beta-4-released.html?utm_source=atom_feed</link>
@@ -18,6 +18,7 @@
       <description><![CDATA[大家好，
 我回来了，带来了另一个更新，使图标适应 24 像素网格并进行一些更大的编辑。这周，我工作了 3 行，这很棒，并且能够达到刚刚超过 50% 的分数，看起来 
 这是一个包含更改的视频：
+&lt; div 类 =“wp-block-embed__wrapper”&gt;
 
 ]]></description>
       <guid>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</guid>
@@ -64,7 +65,7 @@
       <description><![CDATA[
   
 
-Qt 6.7 引入了实现典型 RESTful/HTTP 客户端应用程序的便捷改进。目标是通过以更方便的方式解决小但系统重复的需求，将重复的网络样板代码减少多达 40%。其中包括用于表示 HTTP 的新 QHttpHeaders 类标头，用于创建特定于 API 的请求的 QNetworkRequestFactory，用于处理小型但经常重复的代码片段的 QRestAccessManager 类，以及用于从回复中提取数据并检查错误的 QRestReply 类。 QNetworkRequestFactory、QRestAccessManager 和 QRestReply 在 Qt 6.7 中作为技术预览版发布。
+Qt 6.7 引入了实现典型 RESTful/HTTP 客户端应用程序的便捷改进。目标是通过以更方便的方式解决小但系统重复的需求，将重复的网络样板代码减少多达 40%。其中包括用于表示 HTTP 的新 QHttpHeaders 类标头、用于创建特定于 API 的请求的 QNetworkRequestFactory、用于处理小型但经常重复的代码片段的 QRestAccessManager 类以及用于从回复中提取数据并检查错误的 QRestReply 类。 QNetworkRequestFactory、QRestAccessManager 和 QRestReply 在 Qt 6.7 中作为技术预览版发布。
 ]]></description>
       <guid>https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed</guid>
       <pubDate>Fri, 15 Mar 2024 07:39:52 GMT</pubDate>
