@@ -4,13 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 18 Mar 2024 14:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 02:35:23 GMT</lastBuildDate>
     <item>
       <title>如何为KWin编写QML效果</title>
       <link>https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed</guid>
       <pubDate>Mon, 18 Mar 2024 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 KDE Plasma 6 中设置可切换侧面板</title>
+      <link>https://nathanupchurch.com/blog/kde-plasma-side-panel/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://nathanupchurch.com/blog/kde-plasma-side-panel/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Kile 2.9.95 / 3.0 beta 4 发布</title>
@@ -76,14 +83,6 @@ Qt 6.7 引入了实现典型 RESTful/HTTP 客户端应用程序的便捷改进�
 ]]></description>
       <guid>https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed</guid>
       <pubDate>Fri, 15 Mar 2024 07:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>新版本团队博客</title>
-      <link>https://blogs.kde.org/2024/03/15/new-release-team-blog/?utm_source=atom_feed</link>
-      <description><![CDATA[该博客将由发布团队用于需要发布公告的公共维护项目。
-KDE Frameworks、Plasma 和 KDE Gear 将保留在 kde.org 上。但是可以在此处宣布获得自己版本的应用程序和库的单独版本。]]></description>
-      <guid>https://blogs.kde.org/2024/03/15/new-release-team-blog/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 15 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
