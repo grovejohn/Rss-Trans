@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 19 Mar 2024 20:13:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 20:36:20 GMT</lastBuildDate>
+    <item>
+      <title>苹果的 MM1 AI 模型显示沉睡的巨人正在苏醒</title>
+      <link>https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/</link>
+      <description><![CDATA[苹果悄悄发布的一篇研究论文描述了一种名为 MM1 的 AI 模型，可以回答问题并分析图像。这是苹果正在开发生成式人工智能功能的最大迹象。]]></description>
+      <guid>https://www.wired.com/story/apples-mm1-ai-model-sleeping-giant-waking-up/</guid>
+      <pubDate>Tue, 19 Mar 2024 20:25:29 GMT</pubDate>
+    </item>
     <item>
       <title>目前 Hulu 上最好的 35 部节目</title>
       <link>https://www.wired.com/story/best-tv-shows-hulu-this-week/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在塞拉·格里尔的新小说《安妮·博特》中，一个名叫道格的男人发现了拥有“完美”女朋友意味着什么。]]></description>
       <guid>https://www.wired.com/story/annie-bot-sierra-greer-book-excerpt/</guid>
       <pubDate>Tue, 19 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>儿童卡通片可免遭 YouTube Deepfake 披露规则的限制</title>
-      <link>https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</link>
-      <description><![CDATA[YouTube 现在需要为某些生成式 AI 内容添加标签。为儿童制作的动画除外。]]></description>
-      <guid>https://www.wired.com/story/kids-cartoons-free-pass-youtube-deepfake-disclosure-rules/</guid>
-      <pubDate>Tue, 19 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
