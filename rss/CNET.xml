@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Tue, 19 Mar 2024 03:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 05:13:17 GMT</lastBuildDate>
+    <item>
+      <title>今天节省挡风雨条，全年节省能源 - CNET</title>
+      <link>https://www.cnet.com/deals/save-on-weatherstripping-today-and-save-on-energy-all-year/#ftag=CAD590a51e</link>
+      <description><![CDATA[挡风雨条是一个简单的 DIY 项目，可以降低您多年的供暖和制冷费用。在亚马逊春季促销期间购买一些产品可享受 40% 的折扣。]]></description>
+      <guid>https://www.cnet.com/deals/save-on-weatherstripping-today-and-save-on-energy-all-year/#ftag=CAD590a51e</guid>
+      <pubDate>Tue, 19 Mar 2024 03:54:01 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊首个“春季大促销”活动即将到来。这是你需要知道的 - CNET</title>
       <link>https://www.cnet.com/deals/amazon-announces-first-ever-big-spring-sale-event-is-coming-heres-what-you-need-to-know/#ftag=CAD590a51e</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[正在寻找最好的降噪耳机来掩盖背景噪音？我们收集了最好的 ANC 耳机，帮助您专注于您想听到的声音。]]></description>
       <guid>https://www.cnet.com/tech/mobile/best-noise-canceling-headphones/#ftag=CAD590a51e</guid>
       <pubDate>Mon, 18 Mar 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 向 Vision Pro 视频展示 Omniverse Cloud Streams - CNET</title>
-      <link>https://www.cnet.com/videos/nvidia-reveals-omniverse-cloud-streams-to-the-vision-pro/#ftag=CAD590a51e</link>
-      <description><![CDATA[观看 Nvidia 首席执行官 Jensen Huang 展示 Nvidia 的 Omniverse Cloud 如何将流传输到 Apple 的 Vision Pro 耳机。]]></description>
-      <guid>https://www.cnet.com/videos/nvidia-reveals-omniverse-cloud-streams-to-the-vision-pro/#ftag=CAD590a51e</guid>
-      <pubDate>Mon, 18 Mar 2024 22:49:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
