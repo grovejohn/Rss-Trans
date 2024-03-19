@@ -4,11 +4,11 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 22:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 23:12:41 GMT</lastBuildDate>
     <item>
       <title>PERL：根据人类反馈进行参数高效强化学习</title>
       <link>https://arxiv.org/abs/2403.10704</link>
-      <description><![CDATA[人类反馈强化学习 (RLHF) 已被证明是一种使预训练大型语言模型 (LLM) 与人类偏好保持一致的强大方法。但使用 RLHF 训练模型的计算成本很高，而且整个过程很复杂。在这项工作中，我们研究了 RLHF，其中底层模型使用 Hu 等人引入的低秩适应（LoRA）参数有效方法进行训练。 [2021]。我们研究了“参数高效强化学习”(PERL) 的设置，其中我们使用 LoRA 执行奖励模型训练和强化学习。我们将 PERL 与传统的微调（全面调整）在 7 个基准的各种配置上进行比较，其中包括奖励建模和强化学习的 2 个新颖数据集。我们发现 PERL 的性能与传统的 RLHF 设置相当，同时训练速度更快，内存更少。这实现了 RLHF 的高性能，同时减少了限制其作为大型语言模型对齐技术采用的计算负担。我们还发布了 2 个新颖的点赞/反对偏好数据集：“Taskmaster Coffee”和“Taskmaster Ticketing”，以促进围绕 RLHF 的研究。]]></description>
+      <description><![CDATA[人类反馈强化学习 (RLHF) 已被证明是一种使预训练大型语言模型 (LLM) 与人类偏好保持一致的强大方法。但使用 RLHF 训练模型的计算成本很高，而且整个过程很复杂。在这项工作中，我们研究了 RLHF，其中底层模型使用 Hu 等人引入的低秩适应（LoRA）参数有效方法进行训练。 [2021]。我们研究了“参数高效强化学习”（PERL）的设置，其中我们使用 LoRA 进行奖励模型训练和强化学习。我们将 PERL 与传统的微调（全面调整）进行了比较，针对 7 个基准（包括 2 个新颖的奖励建模和强化学习数据集）的配置。我们发现 PERL 的性能与传统的 RLHF 设置相当，同时训练速度更快，内存更少。这实现了 RLHF 的高性能，同时减少了限制其作为大型语言模型对齐技术采用的计算负担。我们还发布了 2 个新颖的点赞/反对偏好数据集：“Taskmaster Coffee”和“Taskmaster Ticketing”，以促进围绕 RLHF 的研究。]]></description>
       <guid>https://arxiv.org/abs/2403.10704</guid>
       <pubDate>Tue, 19 Mar 2024 05:05:26 GMT</pubDate>
     </item>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 19 Mar 2024 04:00:37 GMT</pubDate>
     </item>
     <item>
-      <title>SV3D：使用潜在视频扩散从单个图像中进行新颖的多视图合成和 3D 生成</title>
+      <title>SV3D：使用潜在视频扩散从单个图像进行新颖的多视图合成和 3D 生成</title>
       <link>https://arxiv.org/abs/2403.12008</link>
       <description><![CDATA[我们提出了稳定视频 3D (SV3D)——一种潜在视频扩散模型，用于围绕 3D 对象生成高分辨率、图像到多视图的轨道视频。最近关于 3D 生成的工作提出了调整 2D 生成模型以实现新视图合成 (NVS) 和 3D 优化的技术。然而，由于视图有限或 NVS 不一致，这些方法存在一些缺点，从而影响 3D 对象生成的性能。在这项工作中，我们提出了 SV3D，它采用图像到视频扩散模型来实现新颖的多视图合成和 3D 生成，从而利用视频模型的泛化和多视图一致性，同时进一步为 NVS 添加显式摄像机控制。我们还提出了改进的 3D 优化技术，以使用 SV3D 及其 NVS 输出进行图像到 3D 的生成。对具有 2D 和 3D 指标的多个数据集的广泛实验结果以及用户研究证明，与之前的作品相比，SV3D 在 NVS 以及 3D 重建方面具有最先进的性能。]]></description>
       <guid>https://arxiv.org/abs/2403.12008</guid>

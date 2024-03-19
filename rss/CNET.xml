@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>科技网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Tue, 19 Mar 2024 22:11:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 23:13:01 GMT</lastBuildDate>
+    <item>
+      <title>PlayStation 最佳优惠：游戏机捆绑包、游戏、配件等大优惠 - CNET</title>
+      <link>https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e</link>
+      <description><![CDATA[如果您已经等待购买 PS5 一段时间了，那么这些捆绑包将为您节省一大笔钱，并为您提供一些游戏和配件的实惠优惠。]]></description>
+      <guid>https://www.cnet.com/deals/best-playstation-deals/#ftag=CAD590a51e</guid>
+      <pubDate>Tue, 19 Mar 2024 22:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳 VPN 优惠：每月低至 2 美元即可订阅 VPN - CNET</title>
+      <link>https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e</link>
+      <description><![CDATA[通过这些高评价 VPN 服务的优惠，无需支付过多费用即可获得保护。]]></description>
+      <guid>https://www.cnet.com/deals/best-vpn-sales-and-deals-right-now/#ftag=CAD590a51e</guid>
+      <pubDate>Tue, 19 Mar 2024 21:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最佳扫地机器人 - CNET</title>
+      <link>https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e</link>
+      <description><![CDATA[经过多年来精心调整的广泛测试方法，我们选出了最好的机器人真空吸尘器。]]></description>
+      <guid>https://www.cnet.com/home/kitchen-and-household/best-robot-vacuum/#ftag=CAD590a51e</guid>
+      <pubDate>Tue, 19 Mar 2024 21:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>Netflix 的《三体问题》系列：发布时间、预告片和须知 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/netflixs-3-body-problem-series-release-time-trailer-what-to-know/#ftag=CAD590a51e</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[如果您想购买一副新的耳机或耳塞，可以利用很多超值优惠。]]></description>
       <guid>https://www.cnet.com/deals/best-headphone-deals/#ftag=CAD590a51e</guid>
       <pubDate>Tue, 19 Mar 2024 20:47:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合您游戏之夜的最佳龙与地下城配件 - CNET</title>
-      <link>https://www.cnet.com/tech/gaming/the-best-dungeons-and-dragons-accessories/#ftag=CAD590a51e</link>
-      <description><![CDATA[《D&amp;D》可以完全在心灵剧场中进行，但当你有合适的配件来增强它时，它会变得更有趣。]]></description>
-      <guid>https://www.cnet.com/tech/gaming/the-best-dungeons-and-dragons-accessories/#ftag=CAD590a51e</guid>
-      <pubDate>Tue, 19 Mar 2024 20:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳送餐服务 - CNET</title>
-      <link>https://www.cnet.com/health/nutrition/best-meal-delivery-service/#ftag=CAD590a51e</link>
-      <description><![CDATA[通过送餐服务消除晚餐的压力。我们勇敢地测试（并品尝）了所有最好的送餐服务，以找到顶级品牌。]]></description>
-      <guid>https://www.cnet.com/health/nutrition/best-meal-delivery-service/#ftag=CAD590a51e</guid>
-      <pubDate>Tue, 19 Mar 2024 20:17:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 13 优惠：以旧换新优惠或免费获得新产品 - CNET</title>
-      <link>https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e</link>
-      <description><![CDATA[尽管 iPhone 13 已经推出几年了，但它仍然是一款功能相对强大的手机，如果你想在保留 iPhone 的同时节省一些现金，那么这是一个不错的选择。]]></description>
-      <guid>https://www.cnet.com/deals/best-iphone-13-deals/#ftag=CAD590a51e</guid>
-      <pubDate>Tue, 19 Mar 2024 20:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
