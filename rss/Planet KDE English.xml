@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 19 Mar 2024 02:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 07:12:20 GMT</lastBuildDate>
     <item>
       <title>如何为KWin编写QML效果</title>
       <link>https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed</link>
@@ -27,10 +27,19 @@
       <pubDate>Sun, 17 Mar 2024 20:25:00 GMT</pubDate>
     </item>
     <item>
+      <title>digiKam 8.3.0 发布</title>
+      <link>https://digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</link>
+      <description><![CDATA[亲爱的 digiKam 粉丝和用户，
+经过四个月的积极维护和长时间的错误分类，digiKam 团队很自豪地推出其开源数码照片管理器的 8.3.0 版本。
+此版本随内部 RAW 解码器 Libraw 一起发布，更新为滚动发布快照 2024 年 2 月 2 日。旧版本中存在的长期错误已得到修复，我们花费大量时间联系用户来验证预发布中的更改，以在将程序部署到生产环境之前确认修复。]]></description>
+      <guid>https://digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>微风图标更新于 2024 年 3 月 16 日</title>
       <link>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</link>
       <description><![CDATA[大家好，
-我回来了，带来了另一个更新，使图标适应 24 像素网格并进行一些更大的编辑。这周，我工作了 3 行，这很棒，并且能够达到刚刚超过 50% 的分数，看起来 
+我回来了另一个更新，使图标适应 24 像素网格并进行一些更大的编辑。这周，我工作了 3 行，这很棒，并且能够达到刚刚超过 50% 的分数，看起来 
 这是一个包含更改的视频：
 &lt; div 类=“wp-block-embed__wrapper”&gt;
 
@@ -72,17 +81,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/03/15/web-review-week-2024-11/?utm_source=atom_feed</guid>
       <pubDate>Fri, 15 Mar 2024 11:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 6.7 及更高版本中的 RESTful 客户端应用程序</title>
-      <link>https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt 6.7 引入了实现典型 RESTful/HTTP 客户端应用程序的便捷改进。目标是通过以更方便的方式解决小但系统重复的需求，将重复的网络样板代码减少多达 40%。其中包括用于表示 HTTP 的新 QHttpHeaders 类标头，用于创建特定于 API 的请求的 QNetworkRequestFactory，用于处理小型但经常重复的代码片段的 QRestAccessManager 类，以及用于从回复中提取数据并检查错误的 QRestReply 类。 QNetworkRequestFactory、QRestAccessManager 和 QRestReply 在 Qt 6.7 中作为技术预览版发布。
-]]></description>
-      <guid>https://www.qt.io/blog/restful-client-applications-in-qt-6.7-and-forward?utm_source=atom_feed</guid>
-      <pubDate>Fri, 15 Mar 2024 07:39:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
