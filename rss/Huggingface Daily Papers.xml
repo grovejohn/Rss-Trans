@@ -3,10 +3,10 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 19 Mar 2024 06:15:32 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 19 Mar 2024 06:35:15 GMT</lastBuildDate>
     <item>
-      <title>SV3D：使用潜在视频扩散从单个图像中进行新颖的多视图合成和 3D 生成</title>
+      <title>SV3D：使用潜在视频扩散从单个图像进行新颖的多视图合成和 3D 生成</title>
       <link>https://arxiv.org/abs/2403.12008</link>
       <description><![CDATA[我们提出了稳定视频 3D (SV3D)——一种潜在视频扩散模型，用于围绕 3D 对象生成高分辨率、图像到多视图的轨道视频。最近关于 3D 生成的工作提出了调整 2D 生成模型以实现新视图合成 (NVS) 和 3D 优化的技术。然而，由于视图有限或 NVS 不一致，这些方法存在一些缺点，从而影响 3D 对象生成的性能。在这项工作中，我们提出了 SV3D，它采用图像到视频扩散模型来实现新颖的多视图合成和 3D 生成，从而利用视频模型的泛化和多视图一致性，同时进一步为 NVS 添加显式摄像机控制。我们还提出了改进的 3D 优化技术，以使用 SV3D 及其 NVS 输出进行图像到 3D 的生成。对具有 2D 和 3D 指标的多个数据集的广泛实验结果以及用户研究证明，与之前的作品相比，SV3D 在 NVS 以及 3D 重建方面具有最先进的性能。]]></description>
       <guid>https://arxiv.org/abs/2403.12008</guid>
