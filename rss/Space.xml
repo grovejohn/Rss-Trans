@@ -4,7 +4,14 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Tue, 19 Mar 2024 09:12:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 09:36:52 GMT</lastBuildDate>
+    <item>
+      <title>NASA 的詹姆斯·韦伯太空望远镜任务 — 实时更新</title>
+      <link>https://www.space.com/news/live/james-webb-space-telescope-updates</link>
+      <description><![CDATA[阅读有关美国宇航局詹姆斯·韦伯太空望远镜的最新新闻。]]></description>
+      <guid>https://www.space.com/news/live/james-webb-space-telescope-updates</guid>
+      <pubDate>Tue, 19 Mar 2024 09:27:03 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 在黄昏的夜晚从加利福尼亚州发射了 22 颗 Starlink 卫星</title>
       <link>https://www.space.com/spacex-starlink-launch-group-7-16</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[新的理论研究表明，一种被称为“非粒子”的神秘物质形式可能是宇宙膨胀背后的驱动力。]]></description>
       <guid>https://www.space.com/universe-unparticles-matter-expansion</guid>
       <pubDate>Mon, 18 Mar 2024 16:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 将于本周为 NASA 发射第 30 次前往国际空间站的货运任务</title>
-      <link>https://www.space.com/spacex-dragon-cargo-mission-crs-30-this-week</link>
-      <description><![CDATA[SpaceX 计划于周四（3 月 21 日）向 NASA 的国际空间站发射第 30 次货运任务。]]></description>
-      <guid>https://www.space.com/spacex-dragon-cargo-mission-crs-30-this-week</guid>
-      <pubDate>Mon, 18 Mar 2024 15:00:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
