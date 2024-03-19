@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 19 Mar 2024 15:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Mar 2024 16:39:57 GMT</lastBuildDate>
+    <item>
+      <title>随着病例上升，健康专家呼吁未接种疫苗的美国人注射麻疹疫苗</title>
+      <link>https://arstechnica.com/?p=2011181</link>
+      <description><![CDATA[美国在不到 12 周的时间内就达到了去年的总量，这表明我们正处于一段糟糕的时期。]]></description>
+      <guid>https://arstechnica.com/?p=2011181</guid>
+      <pubDate>Tue, 19 Mar 2024 16:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia推出Blackwell B200，专为人工智能设计的“世界上最强大的芯片”</title>
+      <link>https://arstechnica.com/?p=2011117</link>
+      <description><![CDATA[据报道，208B 晶体管芯片可将 AI 成本和能耗降低高达 25 倍。]]></description>
+      <guid>https://arstechnica.com/?p=2011117</guid>
+      <pubDate>Tue, 19 Mar 2024 15:27:33 GMT</pubDate>
+    </item>
     <item>
       <title>味道像鸡肉吗？再想一想——可食用的蚂蚁具有独特的风味特征。</title>
       <link>https://arstechnica.com/?p=2009716</link>
-      <description><![CDATA[来吧，吃一些蚂蚁。我们三狗敢于挑战你。]]></description>
+      <description><![CDATA[来吧，吃一些蚂蚁。我们三只狗敢于挑战你。]]></description>
       <guid>https://arstechnica.com/?p=2009716</guid>
       <pubDate>Tue, 19 Mar 2024 14:29:54 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[在 Cyanogen 前首席执行官的领导下，它是一个可能不完全开放的 Linux 操作系统。]]></description>
       <guid>https://arstechnica.com/?p=2010961</guid>
       <pubDate>Mon, 18 Mar 2024 20:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的手机应用程序不再搜索谷歌地图</title>
-      <link>https://arstechnica.com/?p=2010954</link>
-      <description><![CDATA[几年前，谷歌的搜索手机应用程序被吹捧为一项主要功能。]]></description>
-      <guid>https://arstechnica.com/?p=2010954</guid>
-      <pubDate>Mon, 18 Mar 2024 20:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>USB 集线器、打印机、Java 等似乎被 macOS 14.4 更新破坏</title>
-      <link>https://arstechnica.com/?p=2010801</link>
-      <description><![CDATA[问题似乎与苹果最新操作系统中的安全修复有关。]]></description>
-      <guid>https://arstechnica.com/?p=2010801</guid>
-      <pubDate>Mon, 18 Mar 2024 20:06:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
