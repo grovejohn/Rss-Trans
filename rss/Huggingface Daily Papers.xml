@@ -4,7 +4,63 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Wed, 20 Mar 2024 05:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 06:15:47 GMT</lastBuildDate>
+    <item>
+      <title>GaussianFlow：用于 4D 内容创建的泼溅高斯动力学</title>
+      <link>https://arxiv.org/abs/2403.12365</link>
+      <description><![CDATA[由于其约束不足的性质，从图像或视频创建 4D 高斯泼溅场是一项具有挑战性的任务。虽然优化可以从输入视频中获取光度参考或通过生成模型进行调节，但直接监督高斯运动仍未得到充分探索。在本文中，我们引入了一个新概念，即高斯流，它将 3D 高斯动力学和连续帧之间的像素速度联系起来。通过将高斯动力学分布到图像空间中可以有效地获得高斯流。这种可微分的过程可以从光流中进行直接动态监控。我们的方法显着有利于 4D 动态内容生成和使用高斯泼溅的 4D 新颖视图合成，特别是对于现有方法难以处理的丰富运动的内容。 4D 生成中常见的颜色漂移问题也可以通过改进的高斯动力学得到解决。大量实验的卓越视觉质量证明了我们方法的有效性。定量和定性评估表明，我们的方法在 4D 生成和 4D 新颖视图合成任务上均取得了最先进的结果。项目页面：https://zerg-overmind.github.io/GaussianFlow.github.io/]]></description>
+      <guid>https://arxiv.org/abs/2403.12365</guid>
+      <pubDate>Wed, 20 Mar 2024 04:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMLingua-2：数据提炼，实现高效且可靠的任务无关即时压缩</title>
+      <link>https://arxiv.org/abs/2403.12968</link>
+      <description><![CDATA[本文重点关注与任务无关的提示压缩，以提高通用性和效率。考虑到自然语言中的冗余，现有方法通过根据从因果语言模型（例如LLaMa-7B）获得的信息熵删除标记或词汇单元来压缩提示。挑战在于信息熵可能是次优压缩指标：（i）它仅利用单向上下文，可能无法捕获即时压缩所需的所有基本信息； (ii) 它与即时压缩目标不一致。为了解决这些问题，我们提出了一种数据蒸馏程序，从法学硕士中获取知识来压缩提示，而不会丢失关键信息，同时引入提取文本压缩数据集。我们将提示压缩制定为令牌分类问题，以保证压缩提示与原始提示的忠实度，并使用 Transformer 编码器作为基础架构，从完整的双向上下文中捕获提示压缩的所有基本信息。我们的方法通过使用较小的模型（例如 XLM-RoBERTa-large 和 mBERT）显式学习压缩目标来降低延迟。我们在域内和域外数据集（包括 MeetingBank、LongBench、ZeroScrolls、GSM8K 和 BBH）上评估我们的方法。尽管规模很小，但我们的模型在强大的基线上显示出显着的性能提升，并在不同的法学硕士中展示了强大的泛化能力。此外，我们的模型比现有的即时压缩方法快 3 倍到 6 倍，同时将端到端延迟加快 1.6 倍到 2.9 倍，压缩率为 2 倍到 5 倍。]]></description>
+      <guid>https://arxiv.org/abs/2403.12968</guid>
+      <pubDate>Wed, 20 Mar 2024 04:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>mPLUG-DocOwl 1.5：无OCR文档理解的统一结构学习</title>
+      <link>https://arxiv.org/abs/2403.12895</link>
+      <description><![CDATA[结构信息对于理解富含文本的图像（例如文档、表格和图表）的语义至关重要。现有的用于视觉文档理解的多模态大语言模型（MLLM）具备文本识别能力，但缺乏对文本丰富的文档图像的通用结构理解能力。在这项工作中，我们强调了结构信息在视觉文档理解中的重要性，并提出了统一结构学习来提高 MLLM 的性能。我们的统一结构学习包括跨 5 个领域的结构感知解析任务和多粒度文本本地化任务：文档、网页、表格、图表和自然图像。为了更好地编码结构信息，我们设计了一个简单有效的视觉到文本模块H-Reducer，它不仅可以保持布局信息，还可以通过卷积合并水平相邻补丁来减少视觉特征的长度，使LLM能够更有效地理解高分辨率图像。此外，通过为公开的富含文本的图像构建结构感知文本序列和多粒度文本对和边界框，我们构建了一个全面的训练集 DocStruct4M 来支持结构学习。最后，我们构建了一个小型但高质量的推理调优数据集DocReason25K，以触发文档领域的详细解释能力。我们的模型 DocOwl 1.5 在 10 个视觉文档理解基准上实现了最先进的性能，在 5/10 基准中将 7B LLM 的 MLLM 的 SOTA 性能提高了 10 个多点。我们的代码、模型和数据集可在 https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5 上公开获取。]]></description>
+      <guid>https://arxiv.org/abs/2403.12895</guid>
+      <pubDate>Wed, 20 Mar 2024 04:15:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent-FLAN：大型语言模型有效代理调优的设计数据和方法</title>
+      <link>https://arxiv.org/abs/2403.12881</link>
+      <description><![CDATA[开源的大型语言模型（LLM）在各种 NLP 任务中取得了巨大的成功，但在充当代理时，它们仍然远远不如基于 API 的模型。如何将代理能力融入到普通法学硕士课程中成为一个至关重要而紧迫的问题。本文首先提出了三个关键观察结果：（1）当前的智能体训练语料库与格式遵循和智能体推理纠缠在一起，这与预训练数据的分布发生了显着的变化； (2) LLM 对代理任务所需的能力表现出不同的学习速度； (3)当前的方法在通过引入幻觉来提高代理能力时存在副作用。基于上述发现，我们提出 Agent-FLAN 来有效地微调 Agent 的语言模型。通过对训练语料库的仔细分解和重新设计，Agent-FLAN 使 Llama2-7B 在各种代理评估数据集上的表现比之前的最佳作品高出 3.5%。通过全面构建负样本，Agent-FLAN 根据我们建立的评估基准极大地缓解了幻觉问题。此外，它在扩展模型大小时持续提高了 LLM 的代理能力，同时略微增强了 LLM 的一般能力。该代码可在 https://github.com/InternLM/Agent-FLAN 上获取。]]></description>
+      <guid>https://arxiv.org/abs/2403.12881</guid>
+      <pubDate>Wed, 20 Mar 2024 04:12:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vid2Robot：使用交叉注意力变压器的端到端视频调节策略学习</title>
+      <link>https://arxiv.org/abs/2403.12943</link>
+      <description><![CDATA[虽然大型机器人系统通常依赖于任务的文本指令，但这项工作探索了一种不同的方法：机器人可以直接通过观察人类来推断任务吗？这种转变需要机器人能够解码人类意图并将其转化为在其物理约束和环境内的可执行动作。我们介绍 Vid2Robot，一种新颖的基于视频的机器人学习框架。给定操作任务的视频演示和当前的视觉观察，Vid2Robot 可以直接生成机器人动作。这是通过在人类视频和机器人轨迹的大型数据集上训练的统一表示模型来实现的。该模型利用交叉注意机制将提示视频特征融合到机器人的当前状态，并生成模仿观察到的任务的适当动作。为了进一步提高策略性能，我们提出了辅助对比损失，以增强人类和机器人视频表示之间的一致性。我们在现实世界的机器人上评估了 Vid2Robot，结果表明，在使用人类演示视频时，与其他视频条件策略相比，性能提高了 20%。此外，我们的模型还展示了新兴功能，例如成功地将观察到的运动从一个物体转移到另一个物体，以及长视野合成，从而展示了其在现实世界应用中的潜力。项目网站：vid2robot.github.io]]></description>
+      <guid>https://arxiv.org/abs/2403.12943</guid>
+      <pubDate>Wed, 20 Mar 2024 04:08:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>TnT-LLM：使用大型语言模型进行大规模文本挖掘</title>
+      <link>https://arxiv.org/abs/2403.12173</link>
+      <description><![CDATA[将非结构化文本转换为由有用的类别标签组织的结构化且有意义的形式，是下游分析和应用的文本挖掘的基本步骤。然而，大多数用于生成标签分类和构建基于文本的标签分类器的现有方法仍然严重依赖于领域专业知识和手动管理，使得该过程既昂贵又耗时。当标签空间未指定并且大规模数据注释不可用时，这尤其具有挑战性。在本文中，我们通过大型语言模型（LLM）解决这些挑战，其基于提示的界面有助于大规模伪标签的归纳和使用。我们提出了 TnT-LLM，这是一个两阶段框架，它利用 LLM 来自动化端到端标签生成和分配的过程，对于任何给定的用例，只需最少的人力。在第一阶段，我们引入了一种零样本、多阶段推理方法，使法学硕士能够迭代地生成和完善标签分类法。在第二阶段，LLM 被用作生成训练样本的数据标记器，以便可以可靠地构建、部署和大规模服务轻量级监督分类器。我们将 TnT-LLM 应用于 Bing Copilot（以前称为 Bing Chat）（一种基于聊天的开放域搜索引擎）的用户意图和对话域分析。使用人工和自动评估指标进行的大量实验表明，与最先进的基线相比，TnT-LLM 可以生成更准确、更相关的标签分类法，并在大规模分类的准确性和效率之间实现良好的平衡。我们还分享了关于在实际应用中使用法学硕士进行大规模文本挖掘的挑战和机遇的实践经验和见解。]]></description>
+      <guid>https://arxiv.org/abs/2403.12173</guid>
+      <pubDate>Wed, 20 Mar 2024 03:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于图表的推理：将能力从 LLM 转移到 VLM</title>
+      <link>https://arxiv.org/abs/2403.12596</link>
+      <description><![CDATA[视觉语言模型 (VLM) 在多模式任务上取得了越来越强的性能。然而，推理能力仍然有限，特别是对于较小的 VLM，而大型语言模型 (LLM) 的推理能力已经有了许多改进。我们提出了一种将能力从 LLM 转移到 VLM 的技术。在最近推出的 ChartQA 上，我们的方法在 chen2023pali3 应用于 PaLI3-5B VLM 上时获得了最先进的性能，同时在 PlotQA 和 FigureQA 上也实现了更好的性能。我们首先使用 liu2023deplot 的图表到表格转换任务的改进版本继续预训练阶段，从而改进图表表示。然后，我们建议构建一个比原始训练集大 20 倍的数据集。为了提高一般推理能力并改进数值运算，我们使用图表的表格表示来综合推理轨迹。最后，我们的模型使用 hsieh2023distilling 引入的多任务损失进行了微调。我们的变体 ChartPaLI-5B 在不使用上游 OCR 系统的情况下甚至优于 10 倍大的模型（例如 PaLIX-55B），同时与 PaLI3-5B 基线相比保持推理时间恒定。当使用简单的思维程序提示 chen2023program 进一步完善基本原理时，我们的模型优于最近推出的 Gemini Ultra 和 GPT-4V。]]></description>
+      <guid>https://arxiv.org/abs/2403.12596</guid>
+      <pubDate>Wed, 20 Mar 2024 03:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>GVGEN：具有体积表示的文本到 3D 生成</title>
+      <link>https://arxiv.org/abs/2403.12957</link>
+      <description><![CDATA[近年来，3D 高斯喷射已成为一种强大的 3D 重建和生成技术，以其快速、高质量的渲染能力而闻名。为了解决这些缺点，本文引入了一种新颖的基于扩散的框架 GVGEN，旨在从文本输入有效生成 3D 高斯表示。我们提出了两种创新技术：（1）结构化体积表示。我们首先将无序的 3D 高斯点排列为结构化形式 GaussianVolume。这种变换允许捕获由固定数量的高斯组成的体积内的复杂纹理细节。为了更好地优化这些细节的表示，我们提出了一种独特的修剪和致密化方法，称为候选池策略，通过选择性优化来增强细节保真度。 (2)由粗到细的生成管道。为了简化 GaussianVolume 的生成并使模型能够生成具有详细 3D 几何形状的实例，我们提出了一个从粗到细的管道。它首先构建基本的几何结构，然后预测完整的高斯属性。与现有的 3D 生成方法相比，我们的框架 GVGEN 在定性和定量评估方面表现出了卓越的性能。同时，它保持了快速的生成速度（sim7秒），有效地平衡了质量和效率。]]></description>
+      <guid>https://arxiv.org/abs/2403.12957</guid>
+      <pubDate>Wed, 20 Mar 2024 03:12:02 GMT</pubDate>
+    </item>
     <item>
       <title>ComboVerse：使用空间感知扩散指导创建组合 3D 资产</title>
       <link>https://arxiv.org/abs/2403.12409</link>
@@ -18,13 +74,6 @@
       <description><![CDATA[在这项研究中，我们深入研究了从预先训练的扩散模型生成高分辨率图像，解决了当模型应用超出其训练分辨率时出现的持续挑战，例如重复模式和结构扭曲。为了解决这个问题，我们从频域分析的角度引入了一种创新的、免训练的方法 FouriScale。我们通过结合膨胀技术和低通操作来替换预训练扩散模型中的原始卷积层，旨在分别实现跨分辨率的结构一致性和尺度一致性。通过填充然后裁剪策略进一步增强，我们的方法可以灵活处理各种长宽比的文本到图像的生成。通过使用 FouriScale 为指导，我们的方法成功地平衡了生成图像的结构完整性和保真度，实现了惊人的任意尺寸、高分辨率和高质量生成能力。凭借其简单性和兼容性，我们的方法可以为未来探索超高分辨率图像的合成提供有价值的见解。代码将在 https://github.com/LeonHLJ/FouriScale 发布。]]></description>
       <guid>https://arxiv.org/abs/2403.12963</guid>
       <pubDate>Wed, 20 Mar 2024 02:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>AnimateDiff-Lightning：跨模型扩散蒸馏</title>
-      <link>https://arxiv.org/abs/2403.12706</link>
-      <description><![CDATA[我们推出 AnimateDiff-Lightning，用于快速生成视频。我们的模型使用渐进式对抗扩散蒸馏来在几步视频生成中实现新的最先进技术。我们讨论我们的修改以使其适应视频模式。此外，我们建议同时提取多个基础扩散模型的概率流，从而产生具有更广泛风格兼容性的单个提取运动模块。我们很高兴发布我们精炼的 AnimateDiff-Lightning 模型供社区使用。]]></description>
-      <guid>https://arxiv.org/abs/2403.12706</guid>
-      <pubDate>Wed, 20 Mar 2024 01:52:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Wed, 20 Mar 2024 04:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 06:16:02 GMT</lastBuildDate>
+    <item>
+      <title>您认为您的手机很酷。观看这些设计概念视频 - CNET</title>
+      <link>https://www.cnet.com/videos/you-thought-your-phone-was-cool-check-out-these-design-concepts/#ftag=CAD590a51e</link>
+      <description><![CDATA[从可以作为手环佩戴的摩托罗拉可弯曲手机到用眼睛控制的手机，这些都是我们在 2024 年见过的最疯狂的手机概念。]]></description>
+      <guid>https://www.cnet.com/videos/you-thought-your-phone-was-cool-check-out-these-design-concepts/#ftag=CAD590a51e</guid>
+      <pubDate>Wed, 20 Mar 2024 05:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年最佳健身镜 - CNET</title>
       <link>https://www.cnet.com/health/fitness/best-mirror-workout/#ftag=CAD590a51e</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在“展示州”寻找太阳能电池板安装工？我们列出了最好的安装公司以及可以为您带来经济增长的激励措施。]]></description>
       <guid>https://www.cnet.com/home/energy-and-utilities/missouri-solar-panels/#ftag=CAD590a51e</guid>
       <pubDate>Tue, 19 Mar 2024 23:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>PS5 Pro：我们所知道的发布日期、规格以及它可能如何叠加 - CNET</title>
-      <link>https://www.cnet.com/tech/gaming/ps5-pro-what-we-know-about-release-date-specs-and-how-it-might-stack-up/#ftag=CAD590a51e</link>
-      <description><![CDATA[索尼表示 PS5 正处于其生命周期的后期，但下一次更新可能仍会带来冲击力。]]></description>
-      <guid>https://www.cnet.com/tech/gaming/ps5-pro-what-we-know-about-release-date-specs-and-how-it-might-stack-up/#ftag=CAD590a51e</guid>
-      <pubDate>Tue, 19 Mar 2024 22:24:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
