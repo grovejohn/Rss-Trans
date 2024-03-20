@@ -4,7 +4,34 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 20 Mar 2024 06:37:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 12:46:34 GMT</lastBuildDate>
+    <item>
+      <title>信任 KDE 商店上的内容</title>
+      <link>http://blog.davidedmundson.co.uk/blog/kde-store-content/?utm_source=atom_feed</link>
+      <description><![CDATA[最近事件
+kde 第三方商店上的全局主题存在问题，它执行了删除用户数据的脚本。它并不是恶意的，而是某些 shell 解析中的错误。它很快就被识别并删除，但在此之前对该用户造成了一些损害。
+这引发了围绕商店、安全和上游 KDE 概念的大量讨论。主要问题是主题如何才能做到这一点？
+对于开发人员来说，第三方插件可以做这种事情并不奇怪。这正如预期的那样。全局主题可以提供自定义锁屏、自定义小程序、自定义设置，所有这些都可以运行任意捆绑代码。您不能在不限制功能的情况下限制这一点。
+为此，下载插件时会出现明确的警告。
+
+期望
+我们的主要问题归结为期望管理和沟通。
+用户可以通过很多其他方式从互联网下载并运行任何其他不受约束的代码； Arch 用户存储库 (AUR)，添加 ubuntu PPA 等。这并不是一件坏事 - 它很有用，人们可以用它做一些令人惊奇的事情来使用户受益。
+如果没有明确的用户交互，KDE 存储上也不会发生任何事情。
+一个问题是，人们期望因为它是程序，所以它本质上是不安全的，并且用户需要信任源。我们的问题是像“全球主题”这样的短语。或“Plasma applet”不要总是携带此消息。
+在过去的十年里，科技世界发生了很大的变化，虽然我们的代码没有改变，但用户的期望却发生了变化。越来越多的地方提供了保存完好的围墙花园，其中通过用户界面访问的大多数操作默认都是安全的 - 或者至少声称是安全的！
+我还发现了一些困惑，因为我们的许多 UI 都是用高级语言 (QML) 编写的，该语言通过 javascript 进行了丰富，所有浏览器沙箱都会自动应用。尽管这不是我们所声称的。
+但最终，如果与期望存在差距，我们就需要解决这个问题。
+我们可以在哪些方面做得更好？
+短期内，我们需要清楚地传达 Plasma 用户对下载到桌面的扩展程序应有的安全期望。小程序、脚本和服务都是程序，很容易被认为是潜在风险。很难认识到 Plasma 主题、壁纸插件和 kwin 脚本不仅仅是被动的艺术作品和数据，而且还可能包含可能产生意外或恶意后果的脚本。
+我们需要改善访问第三方内容的平衡，使创作者能够共享并让用户轻松获取这些内容，并进行足够的减速和检查，确保每个人都知道其中涉及哪些风险。 
+kiosk 片段。
+/etc/xdg/kdeglobals
+[KDE 操作限制][$i]
+ghns=false]]></description>
+      <guid>http://blog.davidedmundson.co.uk/blog/kde-store-content/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 20 Mar 2024 10:59:10 GMT</pubDate>
+    </item>
     <item>
       <title>启动画面贡献</title>
       <link>https://digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed</link>
@@ -38,7 +65,7 @@
       <title>digiKam 8.3.0 发布</title>
       <link>https://digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</link>
       <description><![CDATA[亲爱的 digiKam 粉丝和用户，
-经过四个月的积极维护和长时间的错误分类，digiKam 团队很自豪地推出其开源数码照片管理器的 8.3.0 版本。
+经过四个月的积极维护和长时间的错误分类，digiKam 团队很自豪地推出其开源数码照片管理器 8.3.0 版本。
 此版本随内部 RAW 解码器 Libraw 一起发布，更新为滚动发布快照 2024 年 2 月 2 日。旧版本中存在的长期错误已得到修复，我们花费大量时间联系用户来验证预发布中的更改，以在将程序部署到生产环境之前确认修复。]]></description>
       <guid>https://digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</guid>
       <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
@@ -49,7 +76,7 @@
       <description><![CDATA[大家好，
 我回来了另一个更新，使图标适应 24 像素网格并进行一些更大的编辑。这周，我工作了 3 行，这很棒，并且能够达到刚刚超过 50% 的分数，看起来 
 这是一个包含更改的视频：
-&lt; div 类=“wp-block-embed__wrapper”&gt;
+&lt; div 类 =“wp-block-embed__wrapper”&gt;
 
 ]]></description>
       <guid>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</guid>
@@ -75,13 +102,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/03/16/kf6-completing-the-transition.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 16 Mar 2024 09:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：Dolphin 等级提升</title>
-      <link>https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/03/15/this-week-in-kde-dolphin-levels-up/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 16 Mar 2024 04:36:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
