@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 20 Mar 2024 12:46:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2024 22:36:50 GMT</lastBuildDate>
     <item>
       <title>信任 KDE 商店上的内容</title>
       <link>http://blog.davidedmundson.co.uk/blog/kde-store-content/?utm_source=atom_feed</link>
@@ -34,10 +34,10 @@ ghns=false]]></description>
     </item>
     <item>
       <title>启动画面贡献</title>
-      <link>https://digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed</link>
+      <link>https://www.digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed</link>
       <description><![CDATA[对于下一个 digiKam 版本，digiKam 团队需要 digiKam 和 Showfoto 启动画面的照片。将照片样本建议为启动画面是用户为 digiKam 项目做出贡献的一种简单方法。照片必须正确曝光/构图，并且主题必须从真正的摄影师的灵感中选择。请注意，我们将在图像底部添加一个水平框架，如当前的启动画面所示。
 如果有人想贡献漂亮的照片，您可以查看之前选择的项目，然后按照说明向专用页面贡献。]]></description>
-      <guid>https://digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed</guid>
+      <guid>https://www.digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed</guid>
       <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -63,11 +63,11 @@ ghns=false]]></description>
     </item>
     <item>
       <title>digiKam 8.3.0 发布</title>
-      <link>https://digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</link>
+      <link>https://www.digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</link>
       <description><![CDATA[亲爱的 digiKam 粉丝和用户，
 经过四个月的积极维护和长时间的错误分类，digiKam 团队很自豪地推出其开源数码照片管理器 8.3.0 版本。
 此版本随内部 RAW 解码器 Libraw 一起发布，更新为滚动发布快照 2024 年 2 月 2 日。旧版本中存在的长期错误已得到修复，我们花费大量时间联系用户来验证预发布中的更改，以在将程序部署到生产环境之前确认修复。]]></description>
-      <guid>https://digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</guid>
+      <guid>https://www.digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</guid>
       <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
