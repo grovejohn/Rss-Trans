@@ -3,12 +3,12 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 20 Mar 2024 04:16:11 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 20 Mar 2024 04:35:26 GMT</lastBuildDate>
     <item>
       <title>ComboVerse：使用空间感知扩散指导创建组合 3D 资产</title>
       <link>https://arxiv.org/abs/2403.12409</link>
-      <description><![CDATA[在 AR/VR 等各种应用中，非常需要从给定图像生成高质量 3D 资源。单图像 3D 生成的最新进展探索了前馈模型，该模型可以学习在不进行优化的情况下推断对象的 3D 模型。尽管在单个对象生成方面取得了可喜的结果，但这些方法通常难以对本质上包含多个对象的复杂 3D 资产进行建模。在这项工作中，我们提出了 ComboVerse，这是一个 3D 生成框架，它通过学习组合多个模型来生成具有复杂成分的高质量 3D 资产。 1）我们首先从模型和数据的角度对这种“多对象差距”进行深入分析。 2) 接下来，通过重建不同物体的 3D 模型，我们寻求调整它们的大小、旋转角度和位置，以创建与给定图像匹配的 3D 资源。 3）为了自动化这个过程，我们应用来自预训练扩散模型的空间感知分数蒸馏采样（SSDS）来指导对象的定位。与标准分数蒸馏采样相比，我们提出的框架强调对象的空间对齐，从而获得更准确的结果。大量实验验证了 ComboVerse 在生成组合 3D 资产方面比现有方法取得了明显改进。]]></description>
+      <description><![CDATA[在 AR/VR 等各种应用中，非常需要从给定图像生成高质量 3D 资源。单图像 3D 生成的最新进展探索了前馈模型，该模型可以学习在不进行优化的情况下推断对象的 3D 模型。尽管在单个对象生成方面取得了可喜的成果，但这些方法通常难以对本质上包含多个对象的复杂 3D 资产进行建模。在这项工作中，我们提出了 ComboVerse，这是一个 3D 生成框架，它通过学习组合多个模型来生成具有复杂成分的高质量 3D 资产。 1）我们首先从模型和数据的角度对这种“多对象差距”进行深入分析。 2) 接下来，通过重建不同物体的 3D 模型，我们寻求调整它们的大小、旋转角度和位置，以创建与给定图像匹配的 3D 资源。 3）为了自动化这个过程，我们应用来自预训练扩散模型的空间感知分数蒸馏采样（SSDS）来指导对象的定位。与标准分数蒸馏采样相比，我们提出的框架强调对象的空间对齐，从而获得更准确的结果。大量实验验证了 ComboVerse 在生成组合 3D 资产方面比现有方法取得了明显改进。]]></description>
       <guid>https://arxiv.org/abs/2403.12409</guid>
       <pubDate>Wed, 20 Mar 2024 02:09:57 GMT</pubDate>
     </item>
@@ -22,7 +22,7 @@
     <item>
       <title>AnimateDiff-Lightning：跨模型扩散蒸馏</title>
       <link>https://arxiv.org/abs/2403.12706</link>
-      <description><![CDATA[我们推出 AnimateDiff-Lightning，用于快速生成视频。我们的模型使用渐进式对抗扩散蒸馏来在几步视频生成中实现新的最先进技术。我们讨论我们的修改以使其适应视频模式。此外，我们建议同时提取多个基础扩散模型的概率流，从而产生具有更广泛风格兼容性的单个提取运动模块。我们很高兴发布我们精炼的 AnimateDiff-Lightning 模型供社区使用。]]></description>
+      <description><![CDATA[我们推出 AnimateDiff-Lightning，可实现闪电般快速的视频生成。我们的模型使用渐进式对抗扩散蒸馏来在几步视频生成中实现新的最先进技术。我们讨论我们的修改以使其适应视频模式。此外，我们建议同时提取多个基础扩散模型的概率流，从而产生具有更广泛风格兼容性的单个提取运动模块。我们很高兴发布我们精炼的 AnimateDiff-Lightning 模型供社区使用。]]></description>
       <guid>https://arxiv.org/abs/2403.12706</guid>
       <pubDate>Wed, 20 Mar 2024 01:52:01 GMT</pubDate>
     </item>
