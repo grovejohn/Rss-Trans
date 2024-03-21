@@ -4,11 +4,18 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 21 Mar 2024 05:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 06:16:04 GMT</lastBuildDate>
+    <item>
+      <title>欧洲正努力与野熊共存</title>
+      <link>https://www.wired.com/story/bear-attacks-europe-slovakia/</link>
+      <description><![CDATA[斯洛伐克发生的熊致死事件再次引发人们对自然资源保护主义者以牺牲人类安全为代价来保护动物的指责。专家认为这是人的问题，而不是熊的问题。]]></description>
+      <guid>https://www.wired.com/story/bear-attacks-europe-slovakia/</guid>
+      <pubDate>Thu, 21 Mar 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Swatch x Omega 史努比 MoonSwatch 现已登陆</title>
       <link>https://www.wired.com/story/the-swatch-x-omega-snoopy-moonswatch-has-landed/</link>
-      <description><![CDATA[绝对必备的 MoonSwatch 现已上市，配备月相功能。它的全白外观非常适合 NASA 粉丝。]]></description>
+      <description><![CDATA[绝对必备的 MoonSwatch 现已上市，配备月相功能。它的全白色外观非常适合 NASA 粉丝。]]></description>
       <guid>https://www.wired.com/story/the-swatch-x-omega-snoopy-moonswatch-has-landed/</guid>
       <pubDate>Thu, 21 Mar 2024 00:57:10 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[在使用人工智能工具制作电影之前，威洛尼斯·哈切尔 (Willonius Hatcher) 并没有引起人们的注意。现在，他的人工智能生成的短片正在疯传，好莱坞也在召唤他。]]></description>
       <guid>https://www.wired.com/story/willonius-hatcher-the-filmmaker-who-says-ai-is-reparations/</guid>
       <pubDate>Wed, 20 Mar 2024 16:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是你可以在不滥用受版权保护的内容的情况下训练人工智能模型的证据</title>
-      <link>https://www.wired.com/story/proof-you-can-train-ai-without-slurping-copyrighted-content/</link>
-      <description><![CDATA[OpenAI 声称，如果不使用受版权保护的数据，“不可能”构建良好的人工智能模型。 “合乎道德地创建”的大型语言模型和公共领域文本的巨大人工智能数据集表明情况并非如此。]]></description>
-      <guid>https://www.wired.com/story/proof-you-can-train-ai-without-slurping-copyrighted-content/</guid>
-      <pubDate>Wed, 20 Mar 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
