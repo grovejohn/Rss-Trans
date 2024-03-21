@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 21 Mar 2024 04:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 05:12:35 GMT</lastBuildDate>
     <item>
       <title>Magic Fixup：通过观看动态视频简化照片编辑</title>
       <link>https://arxiv.org/abs/2403.13044</link>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 21 Mar 2024 02:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>逆向训练以护理逆向诅咒</title>
+      <title>逆向训练以护理逆向咒语</title>
       <link>https://arxiv.org/abs/2403.13799</link>
       <description><![CDATA[大型语言模型 (LLM) 有一个令人惊讶的失败：当训练“A 有一个特征 B”时，它们不会概括为“B 是 A 的一个特征”，这被称为“逆转诅咒”。即使使用数万亿个代币进行训练，由于齐普夫定律，这个问题仍然会出现 - 因此即使我们在整个互联网上进行训练。这项工作提出了一种替代训练方案，称为反向训练，其中所有单词都使用两次，使可用标记的数量加倍。通过反转训练字符串，同时保留（即不反转）选定的子字符串（例如实体），LLM 可以在正向和反向方向上进行训练。我们表明，数据匹配的反向训练模型在标准任务上提供了比标准模型更优越的性能，而计算匹配的反向训练模型在逆转任务上提供了远为优越的性能，有助于解决逆转诅咒问题。]]></description>
       <guid>https://arxiv.org/abs/2403.13799</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>IDAdapter：学习混合特征以实现文本到图像模型的免调整个性化</title>
       <link>https://arxiv.org/abs/2403.13535</link>
-      <description><![CDATA[利用稳定扩散来生成个性化肖像已成为一种强大且值得注意的工具，使用户能够根据其特定提示创建高保真、自定义角色头像。然而，现有的个性化方法面临着挑战，包括测试时微调、需要多个输入图像、身份保留度低以及生成结果的多样性有限。为了克服这些挑战，我们引入了 IDAdapter，这是一种免调整方法，可以增强从单张人脸图像生成个性化图像的多样性和身份保留。 IDAdapter 通过文本和视觉注入以及面部身份丢失的组合，将个性化概念集成到生成过程中。在训练阶段，我们融合了特定身份的多个参考图像的混合特征，以丰富与身份相关的内容细节，引导模型生成与之前的作品相比风格、表情和角度更加多样化的图像。广泛的评估证明了我们方法的有效性，在生成的图像中实现了多样性和身份保真度。]]></description>
+      <description><![CDATA[利用稳定扩散来生成个性化肖像已成为一种强大且值得注意的工具，使用户能够根据其特定提示创建高保真、自定义角色头像。然而，现有的个性化方法面临着挑战，包括测试时微调、需要多个输入图像、身份保留度低以及生成结果的多样性有限。为了克服这些挑战，我们引入了 IDAdapter，这是一种免调整方法，可以增强从单张人脸图像生成个性化图像的多样性和身份保留。 IDAdapter 通过文本和视觉注入以及面部身份丢失的组合，将个性化概念集成到生成过程中。在训练阶段，我们融合了特定身份的多个参考图像的混合特征，以丰富与身份相关的内容细节，指导模型生成与之前的作品相比风格、表情和角度更加多样化的图像。广泛的评估证明了我们方法的有效性，在生成的图像中实现了多样性和身份保真度。]]></description>
       <guid>https://arxiv.org/abs/2403.13535</guid>
       <pubDate>Thu, 21 Mar 2024 02:36:47 GMT</pubDate>
     </item>
