@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 21 Mar 2024 12:21:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Mar 2024 12:47:42 GMT</lastBuildDate>
     <item>
       <title>模型合并配方的进化优化</title>
       <link>https://arxiv.org/abs/2403.13187</link>
@@ -22,7 +22,7 @@
     <item>
       <title>成为你的外画师：通过特定于输入的适应掌握视频外画</title>
       <link>https://arxiv.org/abs/2403.13745</link>
-      <description><![CDATA[视频绘制是一项具有挑战性的任务，旨在在输入视频的视口之外生成视频内容，同时保持帧间和帧内的一致性。现有方法在生成质量或灵活性方面都存在缺陷。我们引入了 MOTIA 通过特定于输入的适应来掌握视频外画，这是一种基于扩散的管道，它利用源视频的固有数据特定模式和图像/视频生成先验来进行有效的外画。 MOTIA 包括两个主要阶段：输入特定的适应和模式感知的外画。输入特定的适应阶段涉及对单镜头源视频进行高效且有效的伪外画学习。此过程鼓励模型识别和学习源视频中的模式，并弥合标准生成过程和绘制之间的差距。后续阶段是模式感知外画，致力于泛化这些学习模式以生成外画结果。提出了包括空间感知插入和噪声传播在内的其他策略，以更好地利用扩散模型的生成先验和从源视频获取的视频模式。广泛的评估强调了 MOTIA 的优越性，在广泛认可的基准中优于现有的最先进方法。值得注意的是，这些进步是在不需要进行广泛的、特定于任务的调整的情况下实现的。]]></description>
+      <description><![CDATA[视频绘制是一项具有挑战性的任务，旨在在输入视频的视口之外生成视频内容，同时保持帧间和帧内的一致性。现有方法在生成质量或灵活性方面都存在不足。我们引入了 MOTIA 通过特定于输入的适应来掌握视频外画，这是一种基于扩散的管道，它利用源视频的固有数据特定模式和图像/视频生成先验来进行有效的外画。 MOTIA 包括两个主要阶段：输入特定的适应和模式感知的外画。输入特定的适应阶段涉及对单镜头源视频进行高效且有效的伪外画学习。此过程鼓励模型识别和学习源视频中的模式，并弥合标准生成过程和绘制之间的差距。后续阶段是模式感知外画，致力于泛化这些学习模式以生成外画结果。提出了包括空间感知插入和噪声传播在内的其他策略，以更好地利用扩散模型的生成先验和从源视频获取的视频模式。广泛的评估强调了 MOTIA 的优越性，在广泛认可的基准中优于现有的最先进方法。值得注意的是，这些进步是在不需要进行广泛的、针对特定任务的调整的情况下实现的。]]></description>
       <guid>https://arxiv.org/abs/2403.13745</guid>
       <pubDate>Thu, 21 Mar 2024 04:40:16 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>ZigMa：之字形曼巴扩散模型</title>
       <link>https://arxiv.org/abs/2403.13802</link>
-      <description><![CDATA[扩散模型长期以来一直受到可扩展性和二次复杂性问题的困扰，特别是在基于变压器的结构中。在本研究中，我们的目标是利用称为 Mamba 的状态空间模型的长序列建模功能，将其适用性扩展到可视数据生成。首先，我们发现大多数当前基于 Mamba 的视觉方法存在一个关键的疏忽，即 Mamba 扫描方案中缺乏对空间连续性的考虑。其次，基于这一见解，我们引入了一种名为 Zigzag Mamba 的简单、即插即用、零参数方法，该方法优于基于 Mamba 的基线，并且与基于 Transformer 的基线相比，速度和内存利用率得到了提高。最后，我们将 Zigzag Mamba 与随机插值框架集成，以研究模型在大分辨率视觉数据集上的可扩展性，例如 FacesHQ 1024times 1024 和 UCF101、MultiModal-CelebA-HQ 和 MS COCO 256times 256。代码将在以下位置发布： https://taohu.me/zigma/]]></description>
+      <description><![CDATA[扩散模型长期以来一直受到可扩展性和二次复杂性问题的困扰，特别是在基于变压器的结构中。在本研究中，我们的目标是利用称为 Mamba 的状态空间模型的长序列建模功能，将其适用性扩展到视觉数据生成。首先，我们发现大多数当前基于 Mamba 的视觉方法存在一个关键的疏忽，即 Mamba 扫描方案中缺乏对空间连续性的考虑。其次，基于这一见解，我们引入了一种名为 Zigzag Mamba 的简单、即插即用、零参数方法，该方法优于基于 Mamba 的基线，并且与基于 Transformer 的基线相比，速度和内存利用率得到了提高。最后，我们将 Zigzag Mamba 与随机插值框架集成，以研究模型在大分辨率视觉数据集上的可扩展性，例如 FacesHQ 1024times 1024 和 UCF101、MultiModal-CelebA-HQ 和 MS COCO 256times 256。代码将在以下位置发布： https://taohu.me/zigma/]]></description>
       <guid>https://arxiv.org/abs/2403.13802</guid>
       <pubDate>Thu, 21 Mar 2024 04:26:48 GMT</pubDate>
     </item>
