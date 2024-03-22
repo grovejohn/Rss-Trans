@@ -4,13 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Mar 2024 10:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 12:46:08 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，2024-12 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 22 Mar 2024 11:59:28 GMT</pubDate>
+    </item>
     <item>
       <title>Kubuntu 壁纸 24.04 – 征集作品</title>
       <link>https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed</link>
       <description><![CDATA[我们很高兴地宣布征集 Kubuntu 24.04 官方桌面壁纸！对于艺术家、设计师和 Kubuntu 爱好者来说，这是一个绝佳的机会，可以展示他们的才华，并为即将发布的 Kubuntu 版本的视觉形象做出贡献。
 我们正在寻找什么
-我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时也体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
+我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
 提交指南
 分辨率：提交的像素必须至少为 3840×2160 像素，以确保所有显示器上的高质量。
 **格式：**首选 JPEG 或 PNG 格式。
@@ -34,7 +41,7 @@
 今天，他们都获得了新的错误修复源代码版本以及更新的翻译，包括：
 
 dolphin：最小化后不要隐藏面板（Commit，修复了错误#481952）
-konversation：修复关闭系统托盘的问题（提交，修复错误#482316)
+konversation：修复关闭系统托盘的问题（Commit，修复错误#482316)
 knights：修复游戏结束时的崩溃问题（提交，修复错误#481546)
 
 发行版和应用程序商店打包商应更新其应用程序包。
@@ -107,8 +114,8 @@ ghns=false]]></description>
       <title>digiKam 8.3.0 发布</title>
       <link>https://www.digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</link>
       <description><![CDATA[亲爱的 digiKam 粉丝和用户，
-经过四个月的积极维护和长时间的错误分类，digiKam 团队很自豪地推出其开源数码照片管理器的 8.3.0 版本。
-此版本随内部 RAW 解码器 Libraw 一起发布，已更新为滚动发布快照 2024 年 2 月 2 日。旧版本中存在的长期错误已得到修复，我们花费大量时间联系用户来验证预发布中的更改，以在将程序部署到生产环境之前确认修复。]]></description>
+经过四个月的积极维护和长时间的错误分类，digiKam 团队很自豪地推出其开源数码照片管理器 8.3.0 版本。
+此版本随内部 RAW 解码器 Libraw 一起发布，更新为滚动发布快照 2024 年 2 月 2 日。旧版本中存在的长期错误已得到修复，我们花费大量时间联系用户来验证预发布中的更改，以在将程序部署到生产环境之前确认修复。]]></description>
       <guid>https://www.digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</guid>
       <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
     </item>
@@ -116,20 +123,13 @@ ghns=false]]></description>
       <title>微风图标更新于 2024 年 3 月 16 日</title>
       <link>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</link>
       <description><![CDATA[大家好，
-我回来了，带来了另一个更新，使图标适应 24 像素网格并进行一些更大的编辑。这周，我工作了 3 行，这很棒，并且能够达到刚刚超过 50% 的分数，看起来 
+我回来了另一个更新，使图标适应 24 像素网格并进行一些更大的编辑。这周，我工作了 3 行，这很棒，并且能够达到刚刚超过 50% 的分数，看起来 
 这是一个包含更改的视频：
-&lt; div 类 =“wp-block-embed__wrapper”&gt;
+&lt; div 类=“wp-block-embed__wrapper”&gt;
 
 ]]></description>
       <guid>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</guid>
       <pubDate>Sat, 16 Mar 2024 15:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个周末我正在为 Transitous 做贡献。你也应该。</title>
-      <link>https://quickfix.es/2024/03/this-weekend-i-am-contributing-to-transitous-you-should-too/?utm_source=atom_feed</link>
-      <description><![CDATA[Transitous 是一项新的社区驱动的路由服务。添加您自己的城市并帮助它变得更加美好。]]></description>
-      <guid>https://quickfix.es/2024/03/this-weekend-i-am-contributing-to-transitous-you-should-too/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 16 Mar 2024 11:41:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
