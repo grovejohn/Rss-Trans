@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 22 Mar 2024 18:15:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2024 19:36:10 GMT</lastBuildDate>
     <item>
-      <title>用户抱怨三星 Galaxy S24 手写笔……气味难闻？</title>
+      <title>有线电视 ISP 因向 FCC 谎报其提供宽带的地点而被罚款 10,000 美元</title>
+      <link>https://arstechnica.com/?p=2012235</link>
+      <description><![CDATA[小型 ISP 承认向 FCC 谎报网络规模，以阻止向竞争对手提供资金。]]></description>
+      <guid>https://arstechnica.com/?p=2012235</guid>
+      <pubDate>Fri, 22 Mar 2024 19:00:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>三星用户问：“为什么 S-Pen 闻起来这么难闻？”</title>
       <link>https://arstechnica.com/?p=2012171</link>
       <description><![CDATA[显然，“Ultra”手机的 S-Pen 经常闻起来像燃烧的塑料。]]></description>
       <guid>https://arstechnica.com/?p=2012171</guid>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 22 Mar 2024 16:56:47 GMT</pubDate>
     </item>
     <item>
-      <title>修复后的《星际迷航》进取号 D 桥将于五月展出</title>
+      <title>修复后的《星际迷航企业号-D》大桥将于五月展出</title>
       <link>https://arstechnica.com/?p=2012173</link>
       <description><![CDATA[这座桥正在加利福尼亚州圣莫尼卡的科幻世界博物馆展出。]]></description>
       <guid>https://arstechnica.com/?p=2012173</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[“我认为我们真的会专注于确保重返大气层的正确性。”]]></description>
       <guid>https://arstechnica.com/?p=2012042</guid>
       <pubDate>Fri, 22 Mar 2024 11:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯可能对乌克兰使用了前所未见的数据擦除器</title>
-      <link>https://arstechnica.com/?p=2012093</link>
-      <description><![CDATA[AcidRain 于 2022 年发现，与 AcidPour 相关。两者都归因于俄罗斯。]]></description>
-      <guid>https://arstechnica.com/?p=2012093</guid>
-      <pubDate>Fri, 22 Mar 2024 00:37:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
