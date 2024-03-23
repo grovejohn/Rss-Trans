@@ -4,7 +4,24 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 23 Mar 2024 16:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 18:35:51 GMT</lastBuildDate>
+    <item>
+      <title>Tellico 3.5.4 发布</title>
+      <link>https://tellico-project.org/tellico-3-5-4-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Tellico 3.5.4 现已推出，并进行了一些修复。
+改进和错误修复
+
+修复了从配置对话框打开帮助的错误（错误 479591）。 
+更新了开放库源代码以搜索漫画（错误 479506）。&lt; /里&gt;
+修复了过滤器对话框按钮的错误（错误 479771）。
+修复了条目状态的显示错误（错误 479843）。
+修复了更改组字段后条目选择的错误（错误 480297）。 
+修复了带有标题重音符号的 DVDFr 搜索。
+更新了 FilmAffinity 数据源。
+]]></description>
+      <guid>https://tellico-project.org/tellico-3-5-4-released/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 23 Mar 2024 17:52:02 GMT</pubDate>
+    </item>
     <item>
       <title>使用 QML 语言服务器进行 KDE 开发</title>
       <link>https://nicolasfella.de/posts/qmlls-for-kde-development/?utm_source=atom_feed?utm_source=atom_feed</link>
@@ -128,13 +145,6 @@ ghns=false]]></description>
       <description><![CDATA[]]></description>
       <guid>https://nathanupchurch.com/blog/kde-plasma-side-panel/?utm_source=atom_feed</guid>
       <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kile 2.9.95 / 3.0 beta 4 发布</title>
-      <link>https://gruenich.blogspot.com/2024/03/kile-2995-30-beta-4-released.html?utm_source=atom_feed</link>
-      <description><![CDATA[我们发布了 Kile 2.9.95，也称为 3.0 beta 4！今天早些时候，Michel Ludwig 标记当前的 Git 大师。这是自 2019 年 10 月以来的第一个测试版。除了移植到 KDE Frameworks 6 和 Qt 6 之外，它还提供了一些新功能和错误修复。 新功能移植到 KDE Frameworks 6 和 KDE Frameworks Qt 6（由 Carl Schwan 移植）启用高 dpi 支持提供隐藏菜单栏的选项（Daniel Fichtner 的补丁，#372295)LivePreview 引擎的可配置全局默认设置（Florian Zumkeller-Quast 的补丁，#450332)删除“LaTeX2e：非官方版本”的离线副本参考手册”，请使用在线版本（我自己修补，Christoph Grüninger，问题 #7 )修复错误&lt; li style=&quot;text-align: left;&quot;&gt;选择“浏览”或“缩放”进行文档预览时 Kile 崩溃（Carl Schwan 的补丁，#465547、#476207、#467435、#452618、#429452)Kile 在以下情况下崩溃生成新文档（Carl Schwan 的补丁，#436837）&lt; li style=&quot;text-align: left;&quot;&gt;即使用户使用选项卡，也确保 \end{env} 插入到正确的位置用于缩进（Kishore Gopalakrishnan 的补丁，#322654）避免在 bash 历史记录中保存控制台命令（Alessio Bonfiglio 的补丁，#391537、#453935)删除模板时不要崩溃 (#413506)避免关闭正在运行的文档时崩溃已解析（#404164）谢谢致所有贡献者。他们修复了错误、编写了文档、对代码进行了现代化改造，并总体上照顾了 Kile。享受最新的 Kile 版本！]]></description>
-      <guid>https://gruenich.blogspot.com/2024/03/kile-2995-30-beta-4-released.html?utm_source=atom_feed</guid>
-      <pubDate>Sun, 17 Mar 2024 20:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
