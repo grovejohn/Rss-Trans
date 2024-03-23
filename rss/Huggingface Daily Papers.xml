@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 23 Mar 2024 08:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 09:12:40 GMT</lastBuildDate>
     <item>
       <title>GRM：用于高效 3D 重建和生成的大型高斯重建模型</title>
       <link>https://arxiv.org/abs/2403.14621</link>
@@ -43,7 +43,7 @@
     <item>
       <title>MathVerse：您的多模式法学硕士能否真正看到视觉数学问题中的图表？</title>
       <link>https://arxiv.org/abs/2403.14624</link>
-      <description><![CDATA[多模态大语言模型（MLLM）的显着进步因其在视觉环境中的卓越性能而引起了无与伦比的关注。然而，他们解决视觉数学问题的能力仍然没有得到充分的评估和理解。我们研究了当前的基准，将过多的视觉内容纳入文本问题中，这可能有助于 MLLM 在不真正解释输入图的情况下推导出答案。为此，我们推出了 MathVerse，这是一个全方位的可视化数学基准，旨在对 MLLM 进行公平和深入的评估。我们从公开来源精心收集了 2,612 个高质量、多学科的数学问题以及图表。然后，每个问题都由人类注释者转换为六个不同的版本，每个版本都以多模态方式提供不同程度的信息内容，总共贡献了 15K 个测试样本。这种方法使 MathVerse 能够全面评估 MLLM 是否能够以及在多大程度上能够真正理解数学推理的可视化图表。此外，我们提出了一种思想链（CoT）评估策略，用于对输出答案进行细粒度评估。我们没有天真地判断 True 或 False，而是采用 GPT-4(V) 自适应地提取关键推理步骤，然后通过详细的错误分析对每个步骤进行评分，这可以揭示 MLLM 的中间 CoT 推理质量。我们希望 MathVerse 基准能够提供独特的见解来指导 MLLM 的未来发展。项目页面：https://mathverse-cuhk.github.io]]></description>
+      <description><![CDATA[多模态大语言模型（MLLM）的显着进步因其在视觉环境中的卓越性能而引起了无与伦比的关注。然而，他们解决视觉数学问题的能力仍然没有得到充分的评估和理解。我们研究了当前的基准，将过多的视觉内容纳入文本问题中，这可能有助于 MLLM 在不真正解释输入图的情况下推导出答案。为此，我们推出了 MathVerse，这是一个全方位的可视化数学基准，旨在对 MLLM 进行公平和深入的评估。我们从公开来源精心收集了 2,612 个高质量、多学科的数学问题以及图表。然后，每个问题都由人类注释者转换为六个不同的版本，每个版本以多模态方式提供不同程度的信息内容，总共贡献了 15K 个测试样本。这种方法使 MathVerse 能够全面评估 MLLM 是否能够以及在多大程度上能够真正理解数学推理的可视化图表。此外，我们提出了一种思想链（CoT）评估策略，用于对输出答案进行细粒度评估。我们没有天真地判断 True 或 False，而是采用 GPT-4(V) 自适应地提取关键推理步骤，然后通过详细的错误分析对每个步骤进行评分，这可以揭示 MLLM 的中间 CoT 推理质量。我们希望 MathVerse 基准能够提供独特的见解来指导 MLLM 的未来发展。项目页面：https://mathverse-cuhk.github.io]]></description>
       <guid>https://arxiv.org/abs/2403.14624</guid>
       <pubDate>Fri, 22 Mar 2024 03:38:21 GMT</pubDate>
     </item>
