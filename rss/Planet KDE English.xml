@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Mar 2024 12:46:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Mar 2024 06:37:03 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE</title>
+      <link>https://pointieststick.com/2024/03/22/this-week-in-kde-4/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/03/22/this-week-in-kde-4/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 23 Mar 2024 05:24:14 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，2024-12 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/?utm_source=atom_feed</link>
@@ -114,22 +121,10 @@ ghns=false]]></description>
       <title>digiKam 8.3.0 发布</title>
       <link>https://www.digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</link>
       <description><![CDATA[亲爱的 digiKam 粉丝和用户，
-经过四个月的积极维护和长时间的错误分类，digiKam 团队很自豪地推出其开源数码照片管理器 8.3.0 版本。
+经过四个月的积极维护和长时间的错误分类，digiKam 团队很自豪地推出其开源数码照片管理器的 8.3.0 版本。
 此版本随内部 RAW 解码器 Libraw 一起发布，更新为滚动发布快照 2024 年 2 月 2 日。旧版本中存在的长期错误已得到修复，我们花费大量时间联系用户来验证预发布中的更改，以在将程序部署到生产环境之前确认修复。]]></description>
       <guid>https://www.digikam.org/news/2024-03-17-8.3.0_release_announcement/?utm_source=atom_feed</guid>
       <pubDate>Sun, 17 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微风图标更新于 2024 年 3 月 16 日</title>
-      <link>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[大家好，
-我回来了另一个更新，使图标适应 24 像素网格并进行一些更大的编辑。这周，我工作了 3 行，这很棒，并且能够达到刚刚超过 50% 的分数，看起来 
-这是一个包含更改的视频：
-&lt; div 类=“wp-block-embed__wrapper”&gt;
-
-]]></description>
-      <guid>https://anditosan.wordpress.com/2024/03/16/breeze-icon-update-march-16-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 16 Mar 2024 15:11:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
