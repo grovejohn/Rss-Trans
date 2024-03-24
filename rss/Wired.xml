@@ -4,7 +4,7 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 24 Mar 2024 23:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 23:36:15 GMT</lastBuildDate>
     <item>
       <title>如何为您的旧宝丽来相机找到胶片（2024）</title>
       <link>https://www.wired.com/story/how-to-find-film-for-your-old-polaroid-camera/</link>
@@ -15,7 +15,7 @@
     <item>
       <title>DJI Air 3 无人机评测：严重的视频剪辑</title>
       <link>https://www.wired.com/review/dji-air-3/</link>
-      <description><![CDATA[DJI Air 3 是一款高度通用、易于飞行的无人机，具有出色的摄像技术。]]></description>
+      <description><![CDATA[DJI Air 3 是一款高度通用、易于飞行的无人机，具有强大的摄像技术。]]></description>
       <guid>https://www.wired.com/review/dji-air-3/</guid>
       <pubDate>Sun, 24 Mar 2024 13:00:00 GMT</pubDate>
     </item>
@@ -34,20 +34,6 @@
       <pubDate>Sun, 24 Mar 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>您对噪音敏感吗？这是如何分辨的</title>
-      <link>https://www.wired.com/story/noise-sensitive-how-to-tell/</link>
-      <description><![CDATA[每个人对于噪音“大声”的原因都有不同的看法，但我们都可以采取一些措施将音量调低一些。]]></description>
-      <guid>https://www.wired.com/story/noise-sensitive-how-to-tell/</guid>
-      <pubDate>Sun, 24 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在线和亲自观看四月的日全食</title>
-      <link>https://www.wired.com/story/solar-eclipse-2024-how-to-watch/</link>
-      <description><![CDATA[4 月 8 日，当月亮在墨西哥、美国和加拿大东部投下细长的阴影时，这里有一些安全体验日全食的建议。]]></description>
-      <guid>https://www.wired.com/story/solar-eclipse-2024-how-to-watch/</guid>
-      <pubDate>Sun, 24 Mar 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>苹果反垄断案和绿色泡沫的“耻辱”</title>
       <link>https://www.wired.com/story/antitrust-case-against-apple-weaponizes-the-cult-of-cupertino/</link>
       <description><![CDATA[美国政府对苹果公司的诉讼以不拥有 iPhone 的社会成本为依据，这是反垄断的一个不同寻常的论点。]]></description>
@@ -55,14 +41,7 @@
       <pubDate>Sun, 24 Mar 2024 08:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>8 款最佳吸奶器 (2024)：可穿戴、便携式、易于清洁</title>
-      <link>https://www.wired.com/gallery/breast-pump-buying-guide/</link>
-      <description><![CDATA[有牛奶吗？从可穿戴设备到流行的便携式设备，这些是我们为您的哺乳时代推荐的吸奶器。]]></description>
-      <guid>https://www.wired.com/gallery/breast-pump-buying-guide/</guid>
-      <pubDate>Sat, 23 Mar 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 个最佳 MagSafe 无线充电器（2024 年）：移动电源、支架、充电垫和旅行充电器</title>
+      <title>10 个最佳 MagSafe 无线充电器 (2024)：移动电源、支架、充电垫和旅行充电器</title>
       <link>https://www.wired.com/gallery/best-magsafe-wireless-chargers/</link>
       <description><![CDATA[使用磁性 MagSafe 无线充电器让您的 iPhone 电池充满电。]]></description>
       <guid>https://www.wired.com/gallery/best-magsafe-wireless-chargers/</guid>
@@ -74,6 +53,27 @@
       <description><![CDATA[这些 Keychron 机械键盘价格昂贵且体积庞大，但它们可修复、可定制且耐用。]]></description>
       <guid>https://www.wired.com/review/keychron-q5-pro-keychron-q6-pro/</guid>
       <pubDate>Sat, 23 Mar 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>DJI Mini 4 Pro 无人机评测：最好的小型无人机</title>
+      <link>https://www.wired.com/review/dji-mini-4-drone/</link>
+      <description><![CDATA[基于 Mini 3 Pro 的强大基础，DJI 最小的无人机型号也是最具吸引力的。]]></description>
+      <guid>https://www.wired.com/review/dji-mini-4-drone/</guid>
+      <pubDate>Sat, 23 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国即将淹没在小猫的海洋中</title>
+      <link>https://www.wired.com/story/kitten-season-global-warming-cat-breeding/</link>
+      <description><![CDATA[猫在夏季最容易繁殖，但近年来“小猫季节”开始得更早，持续时间更长。这种趋势对于庇护所和野生动物来说都是坏消息。]]></description>
+      <guid>https://www.wired.com/story/kitten-season-global-warming-cat-breeding/</guid>
+      <pubDate>Sat, 23 Mar 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果芯片缺陷泄露秘密加密密钥</title>
+      <link>https://www.wired.com/story/apple-m-chip-flaw-leak-encryption-keys/</link>
+      <description><![CDATA[另外：拜登政府警告称，美国供水系统可能会遭受全国范围的攻击，俄罗斯新型雨刷恶意软件的出现，以及与中国有关的黑客在全球范围内发动攻击狂潮。]]></description>
+      <guid>https://www.wired.com/story/apple-m-chip-flaw-leak-encryption-keys/</guid>
+      <pubDate>Sat, 23 Mar 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
