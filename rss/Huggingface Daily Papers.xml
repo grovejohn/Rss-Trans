@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 24 Mar 2024 12:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Mar 2024 12:47:01 GMT</lastBuildDate>
     <item>
       <title>GRM：用于高效 3D 重建和生成的大型高斯重建模型</title>
       <link>https://arxiv.org/abs/2403.14621</link>
@@ -22,7 +22,7 @@
     <item>
       <title>MyVLM：针对特定于用户的查询个性化 VLM</title>
       <link>https://arxiv.org/abs/2403.14599</link>
-      <description><![CDATA[最近的大规模视觉语言模型（VLM）在理解和生成视觉内容的文本描述方面表现出了卓越的能力。然而，这些模型缺乏对用户特定概念的理解。在这项工作中，我们向 VLM 个性化迈出了第一步，使它们能够学习和推理用户提供的概念。例如，我们探索这些模型是否可以学习在图像中识别您并传达您正在做的事情，从而定制模型以反映您的个人经历和关系。为了有效地识别各种用户特定的概念，我们用外部概念头来增强 VLM，这些概念头充当模型的切换开关，使 VLM 能够识别给定图像中特定目标概念的存在。认识到这个概念后，我们学习了一个嵌入 VLM 中间特征空间的新概念。这种嵌入的任务是引导语言模型将目标概念自然地集成到其生成的响应中。我们将我们的技术应用于 BLIP-2 和 LLaVA 来实现个性化图像字幕，并进一步展示其对个性化视觉问答的适用性。我们的实验证明了我们能够泛化到所学概念的未见图像，同时保留不相关输入的模型行为。]]></description>
+      <description><![CDATA[最近的大规模视觉语言模型（VLM）在理解和生成视觉内容的文本描述方面表现出了卓越的能力。然而，这些模型缺乏对用户特定概念的理解。在这项工作中，我们朝着 VLM 的个性化迈出了第一步，使它们能够学习和推理用户提供的概念。例如，我们探索这些模型是否可以学习在图像中识别您并传达您正在做的事情，从而定制模型以反映您的个人经历和关系。为了有效地识别各种用户特定的概念，我们用外部概念头来增强 VLM，这些概念头充当模型的切换开关，使 VLM 能够识别给定图像中特定目标概念的存在。认识到这个概念后，我们学习了一个嵌入 VLM 中间特征空间的新概念。这种嵌入的任务是引导语言模型将目标概念自然地集成到其生成的响应中。我们将我们的技术应用于 BLIP-2 和 LLaVA 来实现个性化图像字幕，并进一步展示其对个性化视觉问答的适用性。我们的实验证明了我们能够泛化到所学概念的未见图像，同时保留不相关输入的模型行为。]]></description>
       <guid>https://arxiv.org/abs/2403.14599</guid>
       <pubDate>Fri, 22 Mar 2024 04:40:03 GMT</pubDate>
     </item>
