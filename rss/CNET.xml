@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>科技网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Mon, 25 Mar 2024 04:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 06:17:19 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳生酮送餐服务 - CNET</title>
+      <link>https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e</link>
+      <description><![CDATA[这些酮餐配送服务将帮助您坚持低碳水化合物、高蛋白饮食目标。]]></description>
+      <guid>https://www.cnet.com/health/nutrition/best-keto-meal-delivery/#ftag=CAD590a51e</guid>
+      <pubDate>Mon, 25 Mar 2024 04:58:00 GMT</pubDate>
+    </item>
     <item>
       <title>三星 Galaxy S23 优惠：亚马逊春季大促销以及以旧换新优惠立省 150 美元 - CNET</title>
       <link>https://www.cnet.com/deals/best-galaxy-s23-deals/#ftag=CAD590a51e</link>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 24 Mar 2024 22:15:05 GMT</pubDate>
     </item>
     <item>
-      <title>最佳智能家居优惠：亚马逊春季大促销最多可节省 81 美元 - CNET</title>
+      <title>最佳智能家居优惠：亚马逊春季大促销高达 81 美元 - CNET</title>
       <link>https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e</link>
       <description><![CDATA[您可以在亚马逊春季大促销期间购买一些经济实惠的智能家居技术]]></description>
       <guid>https://www.cnet.com/deals/best-smart-home-deals/#ftag=CAD590a51e</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[处理房子周围的 Wi-Fi 死角可能很困难，但网状路由器是一个很好的选择，这些优惠将为您在升级时节省一些费用。]]></description>
       <guid>https://www.cnet.com/deals/best-mesh-router-deals/#ftag=CAD590a51e</guid>
       <pubDate>Sun, 24 Mar 2024 20:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 9 款最佳荷兰烤箱 - CNET</title>
-      <link>https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e</link>
-      <description><![CDATA[你应该花 400 美元买一辆高档的 Le Creuset，还是买一辆 50 美元的 Lodge，把剩下的钱存起来以备不时之需？查看我们的首选。]]></description>
-      <guid>https://www.cnet.com/home/kitchen-and-household/best-dutch-oven/#ftag=CAD590a51e</guid>
-      <pubDate>Sun, 24 Mar 2024 20:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
