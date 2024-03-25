@@ -4,7 +4,21 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 25 Mar 2024 05:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 05:35:04 GMT</lastBuildDate>
+    <item>
+      <title>LATTE3D：大规模摊销文本到增强型 3D 合成</title>
+      <link>https://arxiv.org/abs/2403.15385</link>
+      <description><![CDATA[最近的文本到 3D 生成方法可产生令人印象深刻的 3D 结果，但需要耗时的优化，每个提示可能需要长达一个小时。 ATT3D 等摊销方法可同时优化多个提示以提高效率，从而实现快速文本到 3D 合成。然而，它们无法捕获高频几何和纹理细节，并且很难扩展到大型提示集，因此泛化能力很差。我们引入了 LATTE3D，解决了这些限制，以在更大的提示集上实现快速、高质量的生成。我们方法的关键是 1) 构建可扩展的架构，2) 在优化期间通过 3D 感知扩散先验、形状正则化和模型初始化利用 3D 数据，以实现对多样化和复杂的训练提示的鲁棒性。 LATTE3D 分摊神经场和纹理表面生成，以在单次前向传递中生成高度详细的纹理网格。 LATTE3D 在 400 毫秒内生成 3D 对象，并且可以通过快速测试时间优化进一步增强。]]></description>
+      <guid>https://arxiv.org/abs/2403.15385</guid>
+      <pubDate>Mon, 25 Mar 2024 04:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>ThemeStation：从少数示例中生成主题感知的 3D 资源</title>
+      <link>https://arxiv.org/abs/2403.15383</link>
+      <description><![CDATA[现实世界的应用程序通常需要大量共享一致主题的 3D 资源。虽然从文本或图像创建一般 3D 内容已经取得了显着的进步，但按照输入 3D 示例的共享主题合成定制 3D 资产仍然是一个开放且具有挑战性的问题。在这项工作中，我们提出了 ThemeStation，这是一种用于主题感知 3D 到 3D 生成的新颖方法。 ThemeStation 根据给定的几个示例合成定制的 3D 资产，其目标有两个：1) 统一性，用于生成与给定示例主题一致的 3D 资产；2) 多样性，用于生成具有高度变化的 3D 资产。为此，我们设计了一个两阶段框架，首先绘制概念图像，然后是参考参考的 3D 建模阶段。我们提出了一种新颖的双分数蒸馏（DSD）损失来联合利用输入样本和合成概念图像的先验。大量的实验和用户研究证实，ThemeStation 在生成各种主题感知 3D 模型方面超越了之前的作品，质量令人印象深刻。 ThemeStation 还支持各种应用，例如可控 3D 到 3D 生成。]]></description>
+      <guid>https://arxiv.org/abs/2403.15383</guid>
+      <pubDate>Mon, 25 Mar 2024 04:20:28 GMT</pubDate>
+    </item>
     <item>
       <title>InternVideo2：扩展视频基础模型以实现多模态视频理解</title>
       <link>https://arxiv.org/abs/2403.15377</link>
