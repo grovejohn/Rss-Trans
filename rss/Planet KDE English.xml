@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Mar 2024 20:36:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 22:36:23 GMT</lastBuildDate>
     <item>
       <title>Plasma 5：早年</title>
       <link>https://blog.broulik.de/2024/03/plasma-5-the-early-years/?utm_source=atom_feed</link>
@@ -32,7 +32,7 @@
     <item>
       <title>使用 QML 语言服务器进行 KDE 开发</title>
       <link>https://nicolasfella.de/posts/qmlls-for-kde-development/?utm_source=atom_feed?utm_source=atom_feed</link>
-      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
+      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的文本编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
 自然很多人都渴望用它来破解 KDE 代码。当尝试这样做时，您可能会遇到一些挫折，因为事情没有按预期进行。那么那里发生了什么，我们怎样才能让它发挥作用呢？
 首先必须提到的是，qmlls 仍在大力开发中。您缺少许多一些东西 ；期望实现功能齐全的 LSP。如果您遇到看似应该有效但实际上无效的情况，请立即提交错误报告。 
 那么如何使用 qmlls 呢？在 Kate 中，打开 QML 文件时应该立即激活它。如果这不起作用，您可能需要调整 LSP 客户端设置。对于其他编辑器，请查阅他们的文档，了解如何启用 LSP 支持。
@@ -67,7 +67,7 @@ QML 黑客快乐！]]></description>
       <link>https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed</link>
       <description><![CDATA[我们很高兴地宣布征集 Kubuntu 24.04 官方桌面壁纸！对于艺术家、设计师和 Kubuntu 爱好者来说，这是一个绝佳的机会，可以展示他们的才华，并为即将发布的 Kubuntu 版本的视觉形象做出贡献。
 我们正在寻找什么
-我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时也体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
+我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
 提交指南
 分辨率：提交的像素必须至少为 3840×2160 像素，以确保所有显示器上的高质量。
 **格式：**首选 JPEG 或 PNG 格式。
@@ -80,7 +80,7 @@ QML 黑客快乐！]]></description>
 提交的截止日期是 2024 年 3 月 31 日。我们将审核所有提交的内容并选择要包含在 Kubuntu 24.04 版本中的设计。选定的艺术家将在发行说明和我们的社交媒体平台上获得荣誉，展示您对全球用户的贡献。
 让你的创造力大放异彩
 这是您在 Kubuntu 社区留下印记并参与激动人心的新版本之旅的机会。我们迫不及待地想看到您提交的内容以及对 Kubuntu 向您所代表的内容的不同解释。
-抓住这个机会，发挥您的创造力，帮助让 Kubuntu 24.04 成为迄今为止视觉上最令人惊叹的版本。祝所有参与者好运！]]></description>
+抓住这个机会，发挥您的创造力，帮助 Kubuntu 24.04 成为迄今为止视觉上最令人惊叹的版本。祝所有参与者好运！]]></description>
       <guid>https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed</guid>
       <pubDate>Fri, 22 Mar 2024 08:19:03 GMT</pubDate>
     </item>
@@ -91,7 +91,7 @@ QML 黑客快乐！]]></description>
 今天，他们都获得了新的错误修复源代码版本以及更新的翻译，包括：
 
 dolphin：最小化后不要隐藏面板（Commit，修复了错误#481952）
-konversation：修复关闭系统托盘的问题（Commit，修复错误#482316)
+konversation：修复关闭系统托盘的问题（提交，修复错误#482316)
 knights：修复游戏结束时的崩溃问题（提交，修复错误#481546)
 
 发行版和应用程序商店打包商应更新其应用程序包。
