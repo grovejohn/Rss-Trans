@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 23 Mar 2024 18:35:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2024 18:35:28 GMT</lastBuildDate>
+    <item>
+      <title>Plasma 5：早年</title>
+      <link>https://blog.broulik.de/2024/03/plasma-5-the-early-years/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.broulik.de/2024/03/plasma-5-the-early-years/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 25 Mar 2024 18:09:22 GMT</pubDate>
+    </item>
     <item>
       <title>Tellico 3.5.4 发布</title>
       <link>https://tellico-project.org/tellico-3-5-4-released/?utm_source=atom_feed</link>
@@ -60,7 +67,7 @@ QML 黑客快乐！]]></description>
       <link>https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed</link>
       <description><![CDATA[我们很高兴地宣布征集 Kubuntu 24.04 官方桌面壁纸！对于艺术家、设计师和 Kubuntu 爱好者来说，这是一个绝佳的机会，可以展示他们的才华，并为即将发布的 Kubuntu 版本的视觉形象做出贡献。
 我们正在寻找什么
-我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
+我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时也体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
 提交指南
 分辨率：提交的像素必须至少为 3840×2160 像素，以确保所有显示器上的高质量。
 **格式：**首选 JPEG 或 PNG 格式。
@@ -138,13 +145,6 @@ ghns=false]]></description>
       <description><![CDATA[]]></description>
       <guid>https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed</guid>
       <pubDate>Mon, 18 Mar 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 KDE Plasma 6 中设置可切换侧面板</title>
-      <link>https://nathanupchurch.com/blog/kde-plasma-side-panel/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://nathanupchurch.com/blog/kde-plasma-side-panel/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 18 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
