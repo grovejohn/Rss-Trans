@@ -4,7 +4,65 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Mar 2024 22:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 14:35:24 GMT</lastBuildDate>
+    <item>
+      <title>生成式人工智能时代的软件工程培训</title>
+      <link>https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed</link>
+      <description><![CDATA[这是我也为 enioka 博客写的一篇文章，所以有一个 法语版本可用。
+
+&lt;小时/&gt;
+
+在enioka Haute Couture，我们开始提供培训不久前。
+秉承我们的 DNA，我们专注于软件工程实践，而不是
+给定的工具、框架或 API。这就是为什么我们开设软件等主题的课程
+架构、重构、处理遗留代码、测试驱动开发（TDD）、
+代码审查等等。
+此外，并非每个团队都有相同的需求。有些人更喜欢在训练期间度过几天密集的时光
+在一周内，其他人更喜欢在较长时间内进行较小的会议。这就是为什么我们的
+课程设计灵活。它们可以定制以构建多日
+会议，或一直到许多一小时的知识构建会议。
+希望这一切对你来说听起来很棒（当然对我来说听起来很棒）。所以为什么
+现在谈论这个？这是某种广告噱头吗？嗯……不是真的。
+你看，在我们进行培训时发生了一些事情。快三年了
+之前 GitHub 发布了 GitHub Copilot。当时这只是一个技术预览。
+从那时起，大型语言模型（LLM）领域就开始了一场军备竞赛。
+不管你喜欢与否，生成式人工智能将会继续存在，并且基于这种人工智能的代码助理
+模型的使用越来越多。
+我不是那些声称此类模特和助理即将消失的末日论者之一
+接管我们的工作。同样，我不认为他们会加倍
+开发人员的日常生产力。尽管如此，它们必然会影响我们的工作方式
+以及生成的代码。因此，关注开发实践，我就更少了
+担心开发人员工作岗位消失，更担心工资下降
+生成的代码的质量。
+事实上，早期研究表明，代码助手在引入时
+未经检查的方式往往会降低代码质量并且往往会增加
+引入的安全问题数量。有趣的是主要因素
+突出显示的是行为。这意味着在等待神奇的新产品之前
+可以完美编码的助手（剧透：这不会发生），我们应该宁愿
+改进我们引入和使用这些工具的方式。
+这让我回到了[enioka 高级时装培训]。在这个新时代，
+我们必须在培训期间感谢编码助理。这充满了所有
+我之前提到的话题。现在我们所有的软件都有一个棘手的问题
+开发实践：编码助理什么时候是适合这项工作的工具？
+如果您正在练习 TDD 或尝试提高对它的使用，这是一个好的选择吗？
+想让编码助理为您编写测试吗？也许不是……因为它是
+当你做出重要的设计决策时，你可能想继续掌舵。
+可能会派上用场来生成必须通过测试的代码。
+如果您正在处理需要现代化的遗留代码库，为此
+编码助手会让你更快地完成这个过程吗？更新代码
+到新版本的语言或依赖项？提取更清晰的模块
+和功能？编写批准测试来确保所有这些？
+这样的问题还有很多……您可以与我们一起探索答案
+在我们的一次培训课程中。我们将继续讨论 TDD、遗留代码……
+有点扭曲！
+当然，就像任何其他工具一样，我们提议的并不是特定于
+给定的解决方案。你使用 GitHub Copilot 吗？科迪姆？具体的内部微调
+模型？这可以。我们将在培训期间考虑到这一点以适应
+尽可能多地向所涉及的开发人员及其上下文提供信息。
+如果您想进一步讨论此问题，请随时与我们联系。]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 26 Mar 2024 13:48:08 GMT</pubDate>
+    </item>
     <item>
       <title>Plasma 5：早年</title>
       <link>https://blog.broulik.de/2024/03/plasma-5-the-early-years/?utm_source=atom_feed</link>
@@ -32,7 +90,7 @@
     <item>
       <title>使用 QML 语言服务器进行 KDE 开发</title>
       <link>https://nicolasfella.de/posts/qmlls-for-kde-development/?utm_source=atom_feed?utm_source=atom_feed</link>
-      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的文本编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
+      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
 自然很多人都渴望用它来破解 KDE 代码。当尝试这样做时，您可能会遇到一些挫折，因为事情没有按预期进行。那么那里发生了什么，我们怎样才能让它发挥作用呢？
 首先必须提到的是，qmlls 仍在大力开发中。您缺少许多一些东西 ；期望实现功能齐全的 LSP。如果您遇到看似应该有效但实际上无效的情况，请立即提交错误报告。 
 那么如何使用 qmlls 呢？在 Kate 中，打开 QML 文件时应该立即激活它。如果这不起作用，您可能需要调整 LSP 客户端设置。对于其他编辑器，请查阅他们的文档，了解如何启用 LSP 支持。
@@ -67,7 +125,7 @@ QML 黑客快乐！]]></description>
       <link>https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed</link>
       <description><![CDATA[我们很高兴地宣布征集 Kubuntu 24.04 官方桌面壁纸！对于艺术家、设计师和 Kubuntu 爱好者来说，这是一个绝佳的机会，可以展示他们的才华，并为即将发布的 Kubuntu 版本的视觉形象做出贡献。
 我们正在寻找什么
-我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
+我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时也体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
 提交指南
 分辨率：提交的像素必须至少为 3840×2160 像素，以确保所有显示器上的高质量。
 **格式：**首选 JPEG 或 PNG 格式。
@@ -80,7 +138,7 @@ QML 黑客快乐！]]></description>
 提交的截止日期是 2024 年 3 月 31 日。我们将审核所有提交的内容并选择要包含在 Kubuntu 24.04 版本中的设计。选定的艺术家将在发行说明和我们的社交媒体平台上获得荣誉，展示您对全球用户的贡献。
 让你的创造力大放异彩
 这是您在 Kubuntu 社区留下印记并参与激动人心的新版本之旅的机会。我们迫不及待地想看到您提交的内容以及对 Kubuntu 向您所代表的内容的不同解释。
-抓住这个机会，发挥您的创造力，帮助 Kubuntu 24.04 成为迄今为止视觉上最令人惊叹的版本。祝所有参与者好运！]]></description>
+抓住这个机会，发挥您的创造力，帮助让 Kubuntu 24.04 成为迄今为止视觉上最令人惊叹的版本。祝所有参与者好运！]]></description>
       <guid>https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed</guid>
       <pubDate>Fri, 22 Mar 2024 08:19:03 GMT</pubDate>
     </item>
@@ -91,7 +149,7 @@ QML 黑客快乐！]]></description>
 今天，他们都获得了新的错误修复源代码版本以及更新的翻译，包括：
 
 dolphin：最小化后不要隐藏面板（Commit，修复了错误#481952）
-konversation：修复关闭系统托盘的问题（提交，修复错误#482316)
+konversation：修复关闭系统托盘的问题（Commit，修复错误#482316)
 knights：修复游戏结束时的崩溃问题（提交，修复错误#481546)
 
 发行版和应用程序商店打包商应更新其应用程序包。
@@ -138,13 +196,6 @@ ghns=false]]></description>
 如果有人想贡献漂亮的照片，您可以查看之前选择的项目，然后按照说明向专用页面贡献。]]></description>
       <guid>https://www.digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed</guid>
       <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为KWin编写QML效果</title>
-      <link>https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.vladzahorodnii.com/2024/03/18/how-to-write-a-qml-effect-for-kwin/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 18 Mar 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
