@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 26 Mar 2024 14:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 18:36:02 GMT</lastBuildDate>
     <item>
       <title>生成式人工智能时代的软件工程培训</title>
       <link>https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed</link>
@@ -62,6 +62,21 @@
 如果您想进一步讨论此问题，请随时与我们联系。]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed</guid>
       <pubDate>Tue, 26 Mar 2024 13:48:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.0.3，三月份发布错误修复</title>
+      <link>https://kde.org/announcements/plasma/6/6.0.3/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 3 月 26 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.3 的错误修复更新。
+
+此版本添加了 KDE 贡献者为期两周的新翻译和修复。错误修复通常很小但很重要，包括：
+
+系统监视器：Colorgrid：使用与饼图/条形图相同的背景颜色。 提交。修复错误#482664
+Plasma SDK：修复图标资源管理器的桌面文件名。 提交。
+Startplasma：使用启动声音的声音主题设置。 提交。
+
+查看完整变更日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.0.3/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Plasma 5：早年</title>
@@ -188,14 +203,6 @@ kiosk 片段。
 ghns=false]]></description>
       <guid>http://blog.davidedmundson.co.uk/blog/kde-store-content/?utm_source=atom_feed</guid>
       <pubDate>Wed, 20 Mar 2024 10:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动画面贡献</title>
-      <link>https://www.digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed</link>
-      <description><![CDATA[对于下一个 digiKam 版本，digiKam 团队需要 digiKam 和 Showfoto 启动画面的照片。将照片样本建议为启动画面是用户为 digiKam 项目做出贡献的一种简单方法。照片必须正确曝光/构图，并且主题必须从真正的摄影师的灵感中选择。请注意，我们将在图像底部添加一个水平框架，如当前的启动画面所示。
-如果有人想贡献漂亮的照片，您可以查看之前选择的项目，然后按照说明向专用页面贡献。]]></description>
-      <guid>https://www.digikam.org/news/2024-03-20-splashscreen_contributions/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 20 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
