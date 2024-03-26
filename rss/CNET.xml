@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>科技网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Tue, 26 Mar 2024 03:12:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Mar 2024 04:14:40 GMT</lastBuildDate>
+    <item>
+      <title>Ally Bank：2024 年银行业回顾 - CNET</title>
+      <link>https://www.cnet.com/personal-finance/banking/ally-bank/#ftag=CAD590a51e</link>
+      <description><![CDATA[一家提供纯粹数字银行体验的全方位服务银行。]]></description>
+      <guid>https://www.cnet.com/personal-finance/banking/ally-bank/#ftag=CAD590a51e</guid>
+      <pubDate>Tue, 26 Mar 2024 02:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年最佳主力替代方案 - CNET</title>
       <link>https://www.cnet.com/health/fitness/best-peloton-alternative/#ftag=CAD590a51e</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果您想购买 Apple Watch，您会很高兴知道亚马逊春季大促销期间仍然有折扣。]]></description>
       <guid>https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e</guid>
       <pubDate>Tue, 26 Mar 2024 00:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>SanDisk iXpand 闪存盘 Go - CNET</title>
-      <link>https://www.cnet.com/tech/computing/sandisk-ixpand-flash-drive-go-dpnl/#ftag=CAD590a51e</link>
-      <description><![CDATA[256GB，适用于 iPhone 和 iPad]]></description>
-      <guid>https://www.cnet.com/tech/computing/sandisk-ixpand-flash-drive-go-dpnl/#ftag=CAD590a51e</guid>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
