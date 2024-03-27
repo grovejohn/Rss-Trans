@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>英国广播公司新闻</title>
+    <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Tue, 26 Mar 2024 23:35:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 00:53:35 GMT</lastBuildDate>
+    <item>
+      <title>公众对 NHS 的满意度处于历史最低水平</title>
+      <link>https://www.bbc.co.uk/news/health-68669866</link>
+      <description><![CDATA[只有 24% 的英国人表示满意，并指出等待时间和缺乏员工是主要问题。]]></description>
+      <guid>https://www.bbc.co.uk/news/health-68669866</guid>
+      <pubDate>Wed, 27 Mar 2024 00:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴尔的摩搜索结束，推测六人在桥梁灾难中死亡</title>
+      <link>https://www.bbc.co.uk/news/world-us-canada-68663318</link>
+      <description><![CDATA[地标性建筑弗朗西斯·斯科特基大桥垮塌后，据推测已造成六人死亡。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-us-canada-68663318</guid>
+      <pubDate>Wed, 27 Mar 2024 00:28:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>巴克莱银行对付款因中断而受影响表示歉意</title>
+      <link>https://www.bbc.co.uk/news/business-68671228</link>
+      <description><![CDATA[由于一些客户在账户付款和付款时遇到问题，该银行深表歉意。]]></description>
+      <guid>https://www.bbc.co.uk/news/business-68671228</guid>
+      <pubDate>Tue, 26 Mar 2024 23:51:06 GMT</pubDate>
+    </item>
     <item>
       <title>以色列称联合国决议破坏了加沙停战谈判</title>
       <link>https://www.bbc.co.uk/news/world-middle-east-68665247</link>
@@ -22,7 +43,7 @@
     <item>
       <title>巴尔的摩大桥倒塌前断电、求救并坠毁</title>
       <link>https://www.bbc.co.uk/news/world-us-canada-68670567</link>
-      <description><![CDATA[集装箱船发出求救信号两分钟后，就发生事故，导致巴尔的摩一座重要桥梁垮塌。六人失踪。]]></description>
+      <description><![CDATA[一艘集装箱船发出求救信号几分钟后，就发生事故并导致一座桥梁倒塌。推定六人死亡。]]></description>
       <guid>https://www.bbc.co.uk/news/world-us-canada-68670567</guid>
       <pubDate>Tue, 26 Mar 2024 22:31:43 GMT</pubDate>
     </item>
@@ -41,13 +62,6 @@
       <pubDate>Tue, 26 Mar 2024 20:04:44 GMT</pubDate>
     </item>
     <item>
-      <title>两名部长在小规模改组中退出政府</title>
-      <link>https://www.bbc.co.uk/news/uk-68669507</link>
-      <description><![CDATA[教育部长罗伯特·哈方（Robert Halfon）和武装部队部长詹姆斯·希佩（James Heappey）也辞去议员职务。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-68669507</guid>
-      <pubDate>Tue, 26 Mar 2024 18:51:50 GMT</pubDate>
-    </item>
-    <item>
       <title>阿桑奇法官寻求美国不判处死刑</title>
       <link>https://www.bbc.co.uk/news/uk-68662881</link>
       <description><![CDATA[法院推迟对维基解密创始人案件的判决，以便给美国时间做出保证。]]></description>
@@ -55,25 +69,11 @@
       <pubDate>Tue, 26 Mar 2024 16:28:33 GMT</pubDate>
     </item>
     <item>
-      <title>凯特谣言与俄罗斯虚假信息有关</title>
-      <link>https://www.bbc.co.uk/news/entertainment-arts-68637136</link>
-      <description><![CDATA[研究人员表示，一场协调一致的活动故意加剧了有关威尔士王妃的谣言。]]></description>
-      <guid>https://www.bbc.co.uk/news/entertainment-arts-68637136</guid>
-      <pubDate>Tue, 26 Mar 2024 15:12:57 GMT</pubDate>
-    </item>
-    <item>
       <title>俄罗斯指责西方和基辅对莫斯科圣战分子袭击负责</title>
       <link>https://www.bbc.co.uk/news/world-europe-68663043</link>
       <description><![CDATA[乌克兰指责克里姆林宫撒谎，称基辅和西方参与了这一暴行。]]></description>
       <guid>https://www.bbc.co.uk/news/world-europe-68663043</guid>
       <pubDate>Tue, 26 Mar 2024 15:09:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>船舶与巴尔的摩大桥相撞后，六人推测死亡</title>
-      <link>https://www.bbc.co.uk/news/live/world-us-canada-68663071</link>
-      <description><![CDATA[美国海岸警卫队表示，据推测有六人死亡，搜救工作已取消。]]></description>
-      <guid>https://www.bbc.co.uk/news/live/world-us-canada-68663071</guid>
-      <pubDate>Tue, 26 Mar 2024 07:03:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
