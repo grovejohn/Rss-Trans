@@ -4,7 +4,38 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 26 Mar 2024 22:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2024 12:48:04 GMT</lastBuildDate>
+    <item>
+      <title>榛名1.0.2</title>
+      <link>https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed</link>
+      <description><![CDATA[Haruna 版本 1.0.2 已发布。
+此版本中没有太多变化，因为重点是移植到 Qt6 和 KF6 以及代码重构。
+一些 hwdec 选项已被删除，如果需要，可以在“自定义命令”下的设置中进行设置设置 hwdec解码方法名称并选择“启动时运行”。
+您现在可以在 flathub 上获取它：
+
+Windows 版本可以在此处找到。
+其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
+如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
+功能请求和错误应发布在 bugs.kde.org&lt; /a&gt;，但对于错误，请确保填写模板并提供尽可能多的信息。
+&lt;小时/&gt;
+变更日志：
+1.0.2
+特点：
+
+从播放列表中打开项目的速度更快
+如果最大最近文件数设置设为零，则最近文件将从配置文件中删除
+
+错误修复：
+
+通过打开文件操作打开文件时未播放该文件
+从播放列表标题打开播放列表文件没有执行任何操作
+隐藏/显示播放列表工具栏设置不起作用
+音频和字幕全局菜单中的轨道子菜单为空
+打开汉堡菜单时冻结
+]]></description>
+      <guid>https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 27 Mar 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>自由软件智慧</title>
       <link>https://pointieststick.com/2024/03/26/free-software-wisdom/?utm_source=atom_feed</link>
@@ -126,7 +157,7 @@ Startplasma：使用启动声音的声音主题设置。 提交。
     <item>
       <title>使用 QML 语言服务器进行 KDE 开发</title>
       <link>https://nicolasfella.de/posts/qmlls-for-kde-development/?utm_source=atom_feed?utm_source=atom_feed</link>
-      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的文本编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
+      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
 自然很多人都渴望用它来破解 KDE 代码。当尝试这样做时，您可能会遇到一些挫折，因为事情没有按预期进行。那么那里发生了什么，我们怎样才能让它发挥作用呢？
 首先必须提到的是，qmlls 仍在大力开发中。您缺少许多一些东西 ；期望实现功能齐全的 LSP。如果您遇到看似应该有效但实际上无效的情况，请立即提交错误报告。 
 那么如何使用 qmlls 呢？在 Kate 中，打开 QML 文件时应该立即激活它。如果这不起作用，您可能需要调整 LSP 客户端设置。对于其他编辑器，请查阅他们的文档，了解如何启用 LSP 支持。
@@ -161,14 +192,14 @@ QML 黑客快乐！]]></description>
       <link>https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed</link>
       <description><![CDATA[我们很高兴地宣布征集 Kubuntu 24.04 官方桌面壁纸！对于艺术家、设计师和 Kubuntu 爱好者来说，这是一个绝佳的机会，可以展示他们的才华，并为即将发布的 Kubuntu 版本的视觉形象做出贡献。
 我们正在寻找什么
-我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
+我们正在寻找独特、鼓舞人心且美丽的壁纸，以反映 Kubuntu 及其社区的精神。您的设计应该以其创造力吸引用户，同时也体现 Kubuntu 致力于自由、优雅和技术卓越的精髓。
 提交指南
 分辨率：提交的像素必须至少为 3840×2160 像素，以确保所有显示器上的高质量。
 **格式：**首选 JPEG 或 PNG 格式。
-原创作品：您提交的作品必须是您的原创作品，不得包含任何受版权保护的材料，除非您获得使用许可。
+原创作品：您提交的作品必须是您的原创作品，并且不得包含任何受版权保护的材料，除非您获得使用许可。
 主题：虽然我们鼓励创造力，但您的设计应该适合广泛的受众，并符合 Kubuntu 社区的价值观和美学。
 如何提交
-请通过以下方式之一将您提交的壁纸发送给 Kubuntu 委员会的 Rick Timmis：
+请将您提交的壁纸通过以下方式之一发送给 Kubuntu 委员会的 Rick Timmis：
 电报：https://t.me/Rick_Timmis矩阵：@rick-timmis:ubuntu.com乳齿象：@RickTimmis@mastodon.social电子邮件：rick-timmis@kubuntu.orgIRC：irc.libera.chat #kubuntu -devel @rick-timmis。
 截止日期
 提交的截止日期是 2024 年 3 月 31 日。我们将审核所有提交的内容并选择要包含在 Kubuntu 24.04 版本中的设计。选定的艺术家将在发行说明和我们的社交媒体平台上获得荣誉，展示您对全球用户的贡献。
@@ -177,26 +208,6 @@ QML 黑客快乐！]]></description>
 抓住这个机会，发挥您的创造力，帮助 Kubuntu 24.04 成为迄今为止视觉上最令人惊叹的版本。祝所有参与者好运！]]></description>
       <guid>https://kubuntu.org/news/kubuntu-wallpaper-24-04-call-for-submissions/?utm_source=atom_feed</guid>
       <pubDate>Fri, 22 Mar 2024 08:19:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 齿轮 24.02.1</title>
-      <link>https://kde.org/announcements/gear/24.02.1/?utm_source=atom_feed</link>
-      <description><![CDATA[超过 180 个单独的程序以及数十个程序员库和功能插件作为 KDE Gear 的一部分同时发布。
-今天，他们都获得了新的错误修复源代码版本以及更新的翻译，包括：
-
-dolphin：最小化后不要隐藏面板（Commit，修复了错误#481952）
-konversation：修复关闭系统托盘的问题（提交，修复错误#482316)
-knights：修复游戏结束时的崩溃问题（提交，修复错误#481546)
-
-发行版和应用程序商店打包商应更新其应用程序包。
-
-24.02 发行说明，了解有关 tarball 和已知问题的信息。
-软件包下载 wiki 页面
-24.02.1 源信息页面
-24.02.1 完整变更日志
-]]></description>
-      <guid>https://kde.org/announcements/gear/24.02.1/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 21 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
