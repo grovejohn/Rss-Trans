@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 27 Mar 2024 16:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 00:53:35 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.02.1 发布</title>
+      <link>https://kdenlive.org/en/2024/03/kdenlive-24-02-1-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kdenlive.org/en/2024/03/kdenlive-24-02-1-released/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 27 Mar 2024 22:52:33 GMT</pubDate>
+    </item>
     <item>
       <title>榛名1.0.2</title>
       <link>https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed</link>
@@ -188,13 +195,6 @@ QML 黑客快乐！]]></description>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/03/22/this-week-in-kde-4/?utm_source=atom_feed</guid>
       <pubDate>Sat, 23 Mar 2024 05:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，2024-12 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/03/22/web-review-week-2024-12/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 22 Mar 2024 11:59:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
