@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 28 Mar 2024 18:36:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 20:35:54 GMT</lastBuildDate>
     <item>
-      <title>中国的超级淋病发病率迅速增加两倍，目前是美国的 40 倍</title>
+      <title>天文学家解开了黑洞为何会打嗝的谜团</title>
+      <link>https://arstechnica.com/?p=2013019</link>
+      <description><![CDATA[将其归咎于一个较小的绕轨道运行的黑洞反复穿过吸积盘。]]></description>
+      <guid>https://arstechnica.com/?p=2013019</guid>
+      <pubDate>Thu, 28 Mar 2024 19:56:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>PyPI 在抵御供应链攻击的同时停止了新用户和项目</title>
+      <link>https://arstechnica.com/?p=2013233</link>
+      <description><![CDATA[自动化使得针对开源代码存储库的攻击变得更加难以应对。]]></description>
+      <guid>https://arstechnica.com/?p=2013233</guid>
+      <pubDate>Thu, 28 Mar 2024 18:50:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 将在加密钱包诈骗后手动审查 Snap Store</title>
+      <link>https://arstechnica.com/?p=2013152</link>
+      <description><![CDATA[Canonical 前员工指出 Snap 应用程序贴有“安全”标签。]]></description>
+      <guid>https://arstechnica.com/?p=2013152</guid>
+      <pubDate>Thu, 28 Mar 2024 18:23:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究发现中国存在超级淋病问题</title>
       <link>https://arstechnica.com/?p=2013217</link>
       <description><![CDATA[耐药性淋病是一个日益严重的问题，并且不分国界。]]></description>
       <guid>https://arstechnica.com/?p=2013217</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[瑞典巨头发布了其类似片魂的工作室系列中最大的一块。]]></description>
       <guid>https://arstechnica.com/?p=2013096</guid>
       <pubDate>Thu, 28 Mar 2024 13:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日望远镜：凝视一颗 800 岁超新星的遗迹</title>
-      <link>https://arstechnica.com/?p=2012976</link>
-      <description><![CDATA[不完全的爆炸会留下一种“僵尸”恒星。]]></description>
-      <guid>https://arstechnica.com/?p=2012976</guid>
-      <pubDate>Thu, 28 Mar 2024 12:00:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>德尔塔 IV 重型火箭，时代已过，将再次飞翔</title>
-      <link>https://arstechnica.com/?p=2012923</link>
-      <description><![CDATA[如果天气允许，最后一枚 Delta IV 重型火箭定于周四发射。]]></description>
-      <guid>https://arstechnica.com/?p=2012923</guid>
-      <pubDate>Wed, 27 Mar 2024 23:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对 Ray AI 框架的持续攻击导致数千台服务器遭到黑客攻击</title>
-      <link>https://arstechnica.com/?p=2013046</link>
-      <description><![CDATA[研究人员表示，这是已知的首个针对人工智能工作负载的野外攻击。]]></description>
-      <guid>https://arstechnica.com/?p=2013046</guid>
-      <pubDate>Wed, 27 Mar 2024 22:40:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
