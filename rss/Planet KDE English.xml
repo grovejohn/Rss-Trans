@@ -4,7 +4,34 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 28 Mar 2024 12:47:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 18:36:31 GMT</lastBuildDate>
+    <item>
+      <title>Kubuntu，KDE 报告。纪念我儿子。</title>
+      <link>https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+个人：
+正如你们很多人所知，我于 3 月 9 日失去了我心爱的儿子。这对我打击很大，但我会保持坚强并保留所有美好的回忆。他长大后成为一个了不起的人、虔诚的基督徒和出色的父亲。他受到所有认识他的人的喜爱，我们所有人都会真正怀念他。有人问我可以提供什么帮助。他留下了 7 岁的儿子梅森。梅森是比利的世界，我想确保梅森得到照顾。我为梅森设立了一个gofundme，所有收益将用于他未来的照顾。 
+https://gofund.me/25dbff0c
+工作报告
+库班图：
+打击错误！我正在对 Plasma 的所有 bug 进行分类，可以在此处看到：
+https://bugs.launchpad.net/plasma-5.27/+bug/ 2053125
+我很高兴地报告许多剩余的错误已在最新的错误修复版本 5.27.11 中得到修复。
+我准备了https://kde.org/announcements/plasma/5/5.27 .11/ 和 Rik 上传至存档，谢谢。不幸的是，这个和其他几个关键修复被困在 time_t64 转换中，您可以在此处阅读：https://wiki.debian.org/ReleaseGoals/64bit-time。这是 Debian/Ubuntu 历史上最大的转变，而且发生在最糟糕的时刻。我们知道我们的 ISO 安装程序目前已损坏，calamares 是此过渡中遇到的问题之一。错误报告的评论中有一个解决方法： https://bugs .launchpad.net/ubuntu/+source/calamares/+bug/2054795
+修复了 Plasma-welcome 的问题。
+找到了表情符号的修复程序，Aaron 已经与 fontconfig 维护者一起推动了这一工作。谢谢！
+我收到了https://kfocus.org/spec/spec-ir14.html&lt; /a&gt; 笔记本电脑，它确实是一台很棒的机器，现在是我的日常驱动程序。非常感谢 Kfocus 团队！我迫不及待地想在 https://linuxfestnorthwest.org/ 上展示它。
+KDE 快照：
+随着 KDEneon 核心项目终于启动，您将看到此阶段的活动有所回升！我将以兼职身份参与该项目，让 Enokia 团队中的每个人都能快速掌握我的知识，帮助准备 qt6/kf6 过渡，打包 Plasma，最重要的是，我将专注于为未来贡献者提供文档。
+我已经创建了（现已拆分）qt6，具有 KDE 补丁集支持和 KDE 框架 6 SDK 和运行时快照。我已经制作了 kde-neon-6 扩展，PR 位于：https://github.com/canonical/snapcraft/pull/4698 。未来的扩展工作将包括多版本轨道支持和 core24 支持。
+
+我已经成功创建了我们的第一个 qt6/kf6 snap ark。一旦所有必需的部分被合并并发布，它们就会出现在商店中。
+感谢您的光临。
+~斯嘉丽]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 28 Mar 2024 17:54:44 GMT</pubDate>
+    </item>
     <item>
       <title>SoK24 中的 KEcoLab：将能耗测量纳入 CI/CD 管道</title>
       <link>https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/?utm_source=atom_feed</link>
@@ -110,7 +137,7 @@ Windows 版本可以在此处找到。
 担心开发人员工作岗位消失，更担心工资下降
 生成的代码的质量。
 事实上，早期研究表明，代码助手在引入时
-未经检查的方式往往会降低代码质量并且往往会增加
+未经检查的方式往往会降低代码质量并且往往增加
 引入的安全问题数量。有趣的是主要因素
 突出显示的是行为。这意味着在等待神奇的新产品之前
 可以完美编码的助手（剧透：这不会发生），我们应该宁愿
@@ -176,25 +203,6 @@ Startplasma：使用启动声音的声音主题设置。 提交。
 ]]></description>
       <guid>https://tellico-project.org/tellico-3-5-4-released/?utm_source=atom_feed</guid>
       <pubDate>Sat, 23 Mar 2024 17:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 QML 语言服务器进行 KDE 开发</title>
-      <link>https://nicolasfella.de/posts/qmlls-for-kde-development/?utm_source=atom_feed?utm_source=atom_feed</link>
-      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的文本编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
-自然很多人都渴望用它来破解 KDE 代码。当尝试这样做时，您可能会遇到一些挫折，因为事情没有按预期进行。那么那里发生了什么，我们怎样才能让它发挥作用呢？
-首先必须提到的是，qmlls 仍在大力开发中。您缺少许多一些东西 ；期望实现功能齐全的 LSP。如果您遇到看似应该有效但实际上无效的情况，请立即提交错误报告。 
-那么如何使用 qmlls 呢？在 Kate 中，打开 QML 文件时应该立即激活它。如果这不起作用，您可能需要调整 LSP 客户端设置。对于其他编辑器，请查阅他们的文档，了解如何启用 LSP 支持。
-在 KDE 代码上使用 qmlls 时可能会遇到的一个问题是它无法找到 KDE 提供的 QML 模块（例如 Kirigami）。当模块安装到例如计算机中时，就会发生这种情况。 ~/kde/usr，Qt 不会搜索该目录。解决这个问题的一种方法是构建你自己的 Qt 并将其安装到 ~/kde/usr 中，因为这样模块将被安装到与 Qt 相同的前缀中，并且 Qt 会找到它们。虽然构建自己的 Qt 是一件值得做的事情，但总的来说，这并不是一个非常令人满意的解决方案。我希望我们能尽快找到更好的解决方案。请参阅此处获取相关错误报告。
-如果您的安装设置为 qmlls 可以找到 KDE 提供的模块，您可能仍然会遇到未知模块或类型的警告。为了让 qmlls 显示模块的信息，该模块需要一个 qmltypes 文件。这些文件提供有关模块公开的类型的机器可读信息。使这些可用的最简单方法是将模块移植到 ecm_add_qml_module 并声明类型注册。许多 KDE 模块已完成此操作，但仍有许多模块缺失。非常欢迎提供帮助！不明显的是，为了使工具正常工作，需要通过 ecm_add_qml_module 中的 DEPENDENCIES 参数明确标记模块依赖项。
-如果正确找到所有模块和类型，您仍然会遇到一些警告，但其中大多数应该对应于实际问题和非最佳实践，例如使用不合格的属性查找和上下文属性。 qmlls 是一个很好的工具，可以指导您解决这些问题，从而实现代码现代化和优化。然而，对于某些类型的警告，我们还没有适当的解决方案：
-
-我们的翻译函数 i18n 和其他函数被 qmllint/qmlls 视为不合格的查找。这是因为它们在运行时神奇地注入到引擎中。目前还不清楚这个问题的解决方案是什么样的。
-编写 KCM 时，我们通过 kcm 上下文属性公开模块的 C++ 类，该属性对工具来说是不透明的。需要采取不同的方法。
-
-尽管当前存在限制，假设项目设置正确，qmlls 已经是处理 QML 代码的非常有用的工具。
-QML 黑客快乐！]]></description>
-      <guid>https://nicolasfella.de/posts/qmlls-for-kde-development/?utm_source=atom_feed?utm_source=atom_feed</guid>
-      <pubDate>Sat, 23 Mar 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
