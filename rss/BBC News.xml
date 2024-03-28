@@ -4,11 +4,18 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Thu, 28 Mar 2024 19:09:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 19:36:27 GMT</lastBuildDate>
+    <item>
+      <title>FTX 的 Sam Bankman-Fried 被判 25 年监禁</title>
+      <link>https://www.bbc.co.uk/news/business-68677487</link>
+      <description><![CDATA[这位加密货币交易所联合创始人去年因从投资者那里窃取 80 亿美元而被定罪。]]></description>
+      <guid>https://www.bbc.co.uk/news/business-68677487</guid>
+      <pubDate>Thu, 28 Mar 2024 19:23:09 GMT</pubDate>
+    </item>
     <item>
       <title>复活节度假胜地因旅行中断而受到影响</title>
       <link>https://www.bbc.co.uk/news/uk-68688810</link>
-      <description><![CDATA[复活节前夕，英国部分地区出现潮湿多风的天气，许多学校也正值学期结束。]]></description>
+      <description><![CDATA[复活节前夕，英国部分地区遭遇潮湿多风的天气，许多学校也正值学期结束。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-68688810</guid>
       <pubDate>Thu, 28 Mar 2024 19:00:51 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[乔治·吉尔贝在工作时从高处坠落，警方正在审问一名男子。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-england-essex-68683086</guid>
       <pubDate>Thu, 28 Mar 2024 15:30:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>“加密货币之王”Sam Bankman-Fried 被判 25 年监禁</title>
-      <link>https://www.bbc.co.uk/news/live/world-us-canada-68656415</link>
-      <description><![CDATA[这位前亿万富翁因大规模欺诈和洗钱罪被判刑。]]></description>
-      <guid>https://www.bbc.co.uk/news/live/world-us-canada-68656415</guid>
-      <pubDate>Thu, 28 Mar 2024 11:42:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
