@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Thu, 28 Mar 2024 01:46:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 03:36:45 GMT</lastBuildDate>
+    <item>
+      <title>Robinhood 的新金卡与苹果和 PayPal 正面交锋 - CNET</title>
+      <link>https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e</link>
+      <description><![CDATA[这张卡提供 3% 的现金返还和高端卡的福利 - 那么有什么好处呢？]]></description>
+      <guid>https://www.cnet.com/personal-finance/robinhoods-new-gold-card-goes-head-to-head-with-apple-and-paypal/#ftag=CAD590a51e</guid>
+      <pubDate>Thu, 28 Mar 2024 02:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最佳多点蓝牙耳机和耳塞 - CNET</title>
+      <link>https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e</link>
+      <description><![CDATA[多点耳机从未如此实惠。以下是经过 CNET 专家审查的顶级模型。]]></description>
+      <guid>https://www.cnet.com/tech/mobile/best-multipoint-bluetooth-headphones-and-earbuds/#ftag=CAD590a51e</guid>
+      <pubDate>Thu, 28 Mar 2024 02:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年最佳电子阅读器 - CNET</title>
       <link>https://www.cnet.com/tech/computing/best-e-reader/#ftag=CAD590a51e</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[对于城里的大多数家庭来说，Xfinity 是城里唯一的游戏。]]></description>
       <guid>https://www.cnet.com/home/internet/best-internet-providers-in-kent-wa/#ftag=CAD590a51e</guid>
       <pubDate>Wed, 27 Mar 2024 23:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳送花优惠：立即购买美丽的母亲节花束 - CNET</title>
-      <link>https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e</link>
-      <description><![CDATA[利用这些优惠并立即订购以安排母亲节送货。]]></description>
-      <guid>https://www.cnet.com/deals/best-flower-delivery-deals/#ftag=CAD590a51e</guid>
-      <pubDate>Wed, 27 Mar 2024 23:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>笔记本电脑最佳优惠：工作、学习和游戏笔记本电脑大优惠 - CNET</title>
-      <link>https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e</link>
-      <description><![CDATA[现在有很多很棒的笔记本电脑优惠，我们收集了一些我们最喜欢的。]]></description>
-      <guid>https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e</guid>
-      <pubDate>Wed, 27 Mar 2024 23:00:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
