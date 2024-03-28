@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 28 Mar 2024 00:53:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Mar 2024 12:47:40 GMT</lastBuildDate>
+    <item>
+      <title>SoK24 中的 KEcoLab：将能耗测量纳入 CI/CD 管道</title>
+      <link>https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.02.1 发布</title>
       <link>https://kdenlive.org/en/2024/03/kdenlive-24-02-1-released/?utm_source=atom_feed</link>
@@ -103,7 +110,7 @@ Windows 版本可以在此处找到。
 担心开发人员工作岗位消失，更担心工资下降
 生成的代码的质量。
 事实上，早期研究表明，代码助手在引入时
-未经检查的方式往往会降低代码质量并且往往增加
+未经检查的方式往往会降低代码质量并且往往会增加
 引入的安全问题数量。有趣的是主要因素
 突出显示的是行为。这意味着在等待神奇的新产品之前
 可以完美编码的助手（剧透：这不会发生），我们应该宁愿
@@ -173,7 +180,7 @@ Startplasma：使用启动声音的声音主题设置。 提交。
     <item>
       <title>使用 QML 语言服务器进行 KDE 开发</title>
       <link>https://nicolasfella.de/posts/qmlls-for-kde-development/?utm_source=atom_feed?utm_source=atom_feed</link>
-      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
+      <description><![CDATA[Qt 提供 qmlls 一段时间了，它是 QML 的语言服务器协议实现。这允许流行的文本编辑器（如 Kate）（以及一些不太知名的文本编辑器（如 Visual Studio Code））使用 QML 代码，而无需为其编写专门的支持。
 自然很多人都渴望用它来破解 KDE 代码。当尝试这样做时，您可能会遇到一些挫折，因为事情没有按预期进行。那么那里发生了什么，我们怎样才能让它发挥作用呢？
 首先必须提到的是，qmlls 仍在大力开发中。您缺少许多一些东西 ；期望实现功能齐全的 LSP。如果您遇到看似应该有效但实际上无效的情况，请立即提交错误报告。 
 那么如何使用 qmlls 呢？在 Kate 中，打开 QML 文件时应该立即激活它。如果这不起作用，您可能需要调整 LSP 客户端设置。对于其他编辑器，请查阅他们的文档，了解如何启用 LSP 支持。
@@ -188,13 +195,6 @@ Startplasma：使用启动声音的声音主题设置。 提交。
 QML 黑客快乐！]]></description>
       <guid>https://nicolasfella.de/posts/qmlls-for-kde-development/?utm_source=atom_feed?utm_source=atom_feed</guid>
       <pubDate>Sat, 23 Mar 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE</title>
-      <link>https://pointieststick.com/2024/03/22/this-week-in-kde-4/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/03/22/this-week-in-kde-4/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 23 Mar 2024 05:24:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
