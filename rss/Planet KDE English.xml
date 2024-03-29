@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 29 Mar 2024 08:35:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 14:35:41 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，2024-13 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 29 Mar 2024 12:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>FOSSGIS 会议 2024</title>
       <link>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</link>
@@ -144,7 +151,7 @@ Windows 版本可以在此处找到。
 担心开发人员工作岗位消失，更担心工资下降
 生成的代码的质量。
 事实上，早期研究表明，代码助手在引入时
-未经检查的方式往往会降低代码质量并且往往会增加
+未经检查的方式往往会降低代码质量并且往往增加
 引入的安全问题数量。有趣的是主要因素
 突出显示的是行为。这意味着在等待神奇的新产品之前
 可以完美编码的助手（剧透：这不会发生），我们应该宁愿
@@ -186,13 +193,6 @@ Startplasma：使用启动声音的声音主题设置。 提交。
 查看完整变更日志]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.0.3/?utm_source=atom_feed</guid>
       <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma 5：早年</title>
-      <link>https://blog.broulik.de/2024/03/plasma-5-the-early-years/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.broulik.de/2024/03/plasma-5-the-early-years/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 25 Mar 2024 18:09:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
