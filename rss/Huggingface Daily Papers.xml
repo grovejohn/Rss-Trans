@@ -3,12 +3,12 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Fri, 29 Mar 2024 13:13:08 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Fri, 29 Mar 2024 13:37:42 GMT</lastBuildDate>
     <item>
       <title>sDPO：不要一次性使用所有数据</title>
       <link>https://arxiv.org/abs/2403.19270</link>
-      <description><![CDATA[随着大型语言模型 (LLM) 开发的进展，使其与人类偏好保持一致变得越来越重要。我们提出了逐步 DPO (sDPO)，这是最近流行的用于对齐调整的直接偏好优化 (DPO) 的扩展。这种方法涉及划分可用的偏好数据集并逐步使用它们，而不是一次性使用它们。我们证明，这种方法有助于在 DPO 培训框架内使用更精确对齐的参考模型。此外，sDPO 训练的最终模型性能更高，甚至优于其他具有更多参数的流行法学硕士。]]></description>
+      <description><![CDATA[随着大型语言模型（LLM）的发展，使其与人类偏好保持一致变得越来越重要。我们提出了逐步 DPO (sDPO)，这是最近流行的用于对齐调整的直接偏好优化 (DPO) 的扩展。这种方法涉及划分可用的偏好数据集并逐步使用它们，而不是一次性使用它们。我们证明，这种方法有助于在 DPO 培训框架内使用更精确对齐的参考模型。此外，sDPO 训练的最终模型性能更高，甚至优于其他具有更多参数的流行法学硕士。]]></description>
       <guid>https://arxiv.org/abs/2403.19270</guid>
       <pubDate>Fri, 29 Mar 2024 04:40:11 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>Mesh2NeRF：用于神经辐射场表示和生成的直接网格监督</title>
       <link>https://arxiv.org/abs/2403.19319</link>
-      <description><![CDATA[我们提出了 Mesh2NeRF，一种从用于 3D 生成任务的纹理网格导出地面实况辐射场的方法。许多 3D 生成方法将 3D 场景表示为用于训练的辐射场。它们的地面实况辐射场通常根据大规模合成 3D 数据集的多视图渲染进行拟合，这通常会因遮挡或拟合不足问题而产生伪影。在 Mesh2NeRF 中，我们提出了一种解析解决方案，可以直接从 3D 网格获取地面实况辐射场，使用具有定义表面厚度的占用函数来表征密度场，并通过考虑网格和环境的反射函​​数确定与视图相关的颜色灯光。 Mesh2NeRF 提取准确的辐射场，为训练生成 NeRF 和单场景表示提供直接监督。我们验证了 Mesh2NeRF 在各种任务中的有效性，在 ABO 数据集上的单场景表示视图合成中实现了 3.12dB 的 PSNR 显着改进，在 ShapeNet Cars 的单视图条件生成中实现了 0.69 PSNR 增强，并且显着改进了网格提取来自 NeRF 的 Objaverse Mugs 无条件生成。]]></description>
+      <description><![CDATA[我们提出了 Mesh2NeRF，一种从用于 3D 生成任务的纹理网格导出地面实况辐射场的方法。许多 3D 生成方法将 3D 场景表示为用于训练的辐射场。它们的地面实况辐射场通常是根据大型合成 3D 数据集的多视图渲染进行拟合的，这通常会因遮挡或拟合不足问题而导致伪影。在 Mesh2NeRF 中，我们提出了一种解析解决方案，可以直接从 3D 网格获取地面实况辐射场，使用具有定义表面厚度的占用函数来表征密度场，并通过考虑网格和环境的反射函​​数确定与视图相关的颜色灯光。 Mesh2NeRF 提取准确的辐射场，为训练生成 NeRF 和单场景表示提供直接监督。我们验证了 Mesh2NeRF 在各种任务中的有效性，在 ABO 数据集上的单场景表示中的视图合成 PSNR 方面实现了 3.12dB 的显着改进，在 ShapeNet Cars 的单视图条件生成中实现了 0.69 PSNR 的增强，并且显着改进了网格提取来自 NeRF 在 Objaverse Mugs 无条件生成中的应用。]]></description>
       <guid>https://arxiv.org/abs/2403.19319</guid>
       <pubDate>Fri, 29 Mar 2024 04:01:00 GMT</pubDate>
     </item>
