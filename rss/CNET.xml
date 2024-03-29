@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Fri, 29 Mar 2024 10:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 11:36:04 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳 iPhone：你应该购买哪款苹果手机？ - CNET</title>
+      <link>https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e</link>
+      <description><![CDATA[Apple 拥有多种 iPhone 型号，可满足各种预算并满足您对智能手机的所有需求。]]></description>
+      <guid>https://www.cnet.com/tech/mobile/best-iphone/#ftag=CAD590a51e</guid>
+      <pubDate>Fri, 29 Mar 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>iPad 2024 传闻：新款 iPad Pro 和 Air 型号将于 5 月初上市 - CNET</title>
       <link>https://www.cnet.com/tech/computing/ipad-2024-rumors-new-ipad-pro-and-air-models-arriving-in-early-may/#ftag=CAD590a51e</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 29 Mar 2024 02:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年疯狂三月：如何在没有有线电视的情况下观看、直播今晚的 Sweet 16 赛事 - CNET</title>
+      <title>2024 年疯狂三月：如何在没有有线电视的情况下观看、直播今晚的甜蜜 16 强赛 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-basketball-tournament-sweet-16-without-cable/#ftag=CAD590a51e</link>
       <description><![CDATA[NCAA 锦标赛已经开始了 Sweet 16 阶段，您只需要两个流媒体应用程序即可观看每场比赛。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/march-madness-2024-how-to-watch-livestream-the-ncaa-basketball-tournament-sweet-16-without-cable/#ftag=CAD590a51e</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>希拉里·克林顿表示，人工智能可以增强选举虚假信息 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/ai-could-supercharge-election-disinformation-hillary-clinton-says/#ftag=CAD590a51e</link>
-      <description><![CDATA[这位前国务卿表示，虽然网络虚假信息并不是什么新鲜事，但人工智能可能会将其提升到令人恐惧的新水平。]]></description>
+      <description><![CDATA[这位前国务卿表示，虽然网络虚假信息并不新鲜，但人工智能可能会将其提升到令人恐惧的新水平。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/ai-could-supercharge-election-disinformation-hillary-clinton-says/#ftag=CAD590a51e</guid>
       <pubDate>Thu, 28 Mar 2024 23:28:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[日食即将到来，如果你在日全食路径附近，你就会想要拍照。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/solar-snap-app-is-just-one-way-you-can-take-photos-of-april-8-eclipse/#ftag=CAD590a51e</guid>
       <pubDate>Thu, 28 Mar 2024 22:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>新 Xbox 泄露视频 - CNET</title>
-      <link>https://www.cnet.com/videos/new-xbox-leaked/#ftag=CAD590a51e</link>
-      <description><![CDATA[三张白色、无光驱 Xbox Series X 的图片已在网上泄露，发布日期指向今年夏天。]]></description>
-      <guid>https://www.cnet.com/videos/new-xbox-leaked/#ftag=CAD590a51e</guid>
-      <pubDate>Thu, 28 Mar 2024 22:33:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
