@@ -3,77 +3,28 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 29 Mar 2024 04:36:52 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 29 Mar 2024 05:35:41 GMT</lastBuildDate>
     <item>
-      <title>EgoLifter：用于自我中心感知的开放世界 3D 分割</title>
-      <link>https://arxiv.org/abs/2403.18118</link>
-      <description><![CDATA[在本文中，我们提出了 EgoLifter，这是一种新颖的系统，可以自动将从以自我为中心的传感器捕获的场景分割为单个 3D 对象的完整分解。该系统专为以自我为中心的数据而设计，其中场景包含从自然（非扫描）运动中捕获的数百个对象。 EgoLifter 采用 3D 高斯作为 3D 场景和对象的底层表示，并使用分段任意模型 (SAM) 中的分段掩码作为弱监督来学习对象实例的灵活且快速的定义，而无需任何特定的对象分类法。为了应对以自我为中心的视频中动态对象的挑战，我们设计了一个瞬态预测模块，可以学习在 3D 重建中过滤掉动态对象。结果是一个全自动管道，能够将 3D 对象实例重建为共同构成整个场景的 3D 高斯集合。我们在 Aria 数字孪生数据集上创建了一个新基准，该基准定量展示了其在基于自然自我中心输入的开放世界 3D 分割中的最先进性能。我们在各种以自我为中心的活动数据集上运行 EgoLifter，这显示了该方法在大规模 3D 自我中心感知方面的前景。]]></description>
-      <guid>https://arxiv.org/abs/2403.18118</guid>
-      <pubDate>Thu, 28 Mar 2024 03:41:34 GMT</pubDate>
+      <title>GaussianCube：使用 3D 生成建模的最佳传输构建高斯泼溅</title>
+      <link>https://arxiv.org/abs/2403.19655</link>
+      <description><![CDATA[3D 高斯分布 (GS) 在 3D 拟合保真度和渲染速度方面比神经辐射场取得了相当大的改进。然而，这种具有分散高斯分布的非结构化表示对生成建模提出了重大挑战。为了解决这个问题，我们引入了 GaussianCube，一种结构化的 GS 表示形式，对于生成建模来说既强大又高效。我们通过首先提出一种改进的致密化约束 GS 拟合算法来实现这一目标，该算法可以使用固定数量的自由高斯函数产生高质量的拟合结果，然后通过最佳传输将高斯函数重新排列到预定义的体素网格中。结构化网格表示允许我们使用标准 3D U-Net 作为扩散生成建模的骨干，而无需精心设计。在 ShapeNet 和 OmniObject3D 上进行的大量实验表明，我们的模型在定性和定量上都实现了最先进的生成结果，强调了 GaussianCube 作为强大且多功能的 3D 表示的潜力。]]></description>
+      <guid>https://arxiv.org/abs/2403.19655</guid>
+      <pubDate>Fri, 29 Mar 2024 04:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>ObjectDrop：引导反事实以实现逼真的对象删除和插入</title>
-      <link>https://arxiv.org/abs/2403.18818</link>
-      <description><![CDATA[扩散模型彻底改变了图像编辑，但生成的图像常常违反物理定律，特别是场景中物体的影响，例如遮挡、阴影和反射。通过分析自监督方法的局限性，我们提出了一种以反事实数据集为中心的实用解决方案。我们的方法包括捕获移除单个对象之前和之后的场景，同时最大限度地减少其他变化。通过在此数据集上微调扩散模型，我们不仅能够删除对象，还能够删除它们对场景的影响。然而，我们发现应用这种方法进行逼真的对象插入需要一个不切实际的大数据集。为了应对这一挑战，我们提出引导监督；利用在小型反事实数据集上训练的对象删除模型，我们综合扩展了该数据集。我们的方法在逼真的对象移除和插入方面显着优于先前的方法，特别是在建模对象对场景的影响方面。]]></description>
-      <guid>https://arxiv.org/abs/2403.18818</guid>
-      <pubDate>Thu, 28 Mar 2024 03:28:17 GMT</pubDate>
+      <title>Mesh2NeRF：用于神经辐射场表示和生成的直接网格监督</title>
+      <link>https://arxiv.org/abs/2403.19319</link>
+      <description><![CDATA[我们提出了 Mesh2NeRF，一种从用于 3D 生成任务的纹理网格导出地面实况辐射场的方法。许多 3D 生成方法将 3D 场景表示为用于训练的辐射场。它们的地面实况辐射场通常根据大规模合成 3D 数据集的多视图渲染进行拟合，这通常会因遮挡或拟合不足问题而产生伪影。在 Mesh2NeRF 中，我们提出了一种解析解决方案，可以直接从 3D 网格获取地面实况辐射场，使用具有定义表面厚度的占用函数来表征密度场，并通过考虑网格和环境的反射函​​数确定与视图相关的颜色灯光。 Mesh2NeRF 提取准确的辐射场，为训练生成 NeRF 和单场景表示提供直接监督。我们验证了 Mesh2NeRF 在各种任务中的有效性，在 ABO 数据集上的单场景表示视图合成中实现了 3.12dB 的 PSNR 显着改进，在 ShapeNet Cars 的单视图条件生成中实现了 0.69 PSNR 增强，并且显着改进了网格提取来自 NeRF 的 Objaverse Mugs 无条件生成。]]></description>
+      <guid>https://arxiv.org/abs/2403.19319</guid>
+      <pubDate>Fri, 29 Mar 2024 04:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>Garment3DGen：3D 服装风格化和纹理生成</title>
-      <link>https://arxiv.org/abs/2403.18816</link>
-      <description><![CDATA[我们引入了 Garment3DGen 一种新方法，以单个输入图像作为指导，从基础网格合成 3D 服装资产。我们提出的方法允许用户基于真实图像和合成图像（例如通过文本提示生成的图像）​​生成 3D 纹理衣服。生成的资产可以直接覆盖并模拟在人体上。首先，我们利用图像到 3D 扩散方法的最新进展来生成 3D 服装几何形状。然而，由于这些几何形状不能直接用于下游任务，我们建议将它们用作伪地面实况，并建立一个网格变形优化程序，使基础模板网格变形以匹配生成的 3D 目标。其次，我们引入了精心设计的损失，允许输入基础网格向所需目标自由变形，同时保留网格质量和拓扑，以便可以对其进行模拟。最后，纹理估计模块生成全局和局部一致的高保真纹理图，并忠实地捕获输入指导，使我们能够渲染生成的 3D 资源。借助 Garment3DGen，用户可以生成自己选择的纹理 3D 服装，而无需艺术家干预。人们可以提供文字提示来描述他们想要生成模拟就绪的 3D 资产的服装。我们对各种真实和生成的资产进行了大量的定量和定性比较，并提供了如何生成可用于模拟的 3D 服装的用例。]]></description>
-      <guid>https://arxiv.org/abs/2403.18816</guid>
-      <pubDate>Thu, 28 Mar 2024 03:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>FlexEdit：灵活可控的基于扩散的以对象为中心的图像编辑</title>
-      <link>https://arxiv.org/abs/2403.18605</link>
-      <description><![CDATA[我们的工作解决了以前以对象为中心的编辑问题方法中出现的局限性，例如由于形状差异以及对象替换或插入的有限控制而导致的不切实际的结果。为此，我们引入了 FlexEdit，这是一种灵活且可控的对象编辑框架，我们使用 FlexEdit 块在每个去噪步骤中迭代调整潜伏。最初，我们在测试时优化潜在变量以与指定的对象约束保持一致。然后，我们的框架采用在去噪过程中自动提取的自适应掩模来保护背景，同时将新内容无缝地混合到目标图像中。我们展示了 FlexEdit 在各种对象编辑任务中的多功能性，并使用来自真实图像和合成图像的样本以及专为以对象为中心的编辑而设计的新颖评估指标来策划评估测试套件。我们对不同的编辑场景进行了广泛的实验，证明了我们的编辑框架相对于最新先进的文本引导图像编辑方法的优越性。我们的项目页面发布在 https://flex-edit.github.io/。]]></description>
-      <guid>https://arxiv.org/abs/2403.18605</guid>
-      <pubDate>Thu, 28 Mar 2024 03:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>为设备上的虚拟助理建立世界英语语言模型</title>
-      <link>https://arxiv.org/abs/2403.18783</link>
-      <description><![CDATA[虚拟助理 (VA) 的神经网络语言模型 (NNLM) 通常与语言、区域相关，在某些情况下与设备相关，这增加了扩展和维护它们的工作量。将 NNLM 组合用于一个或多个类别是提高可扩展性的一种方法。在这项工作中，我们结合了英语的区域变体，为设备上的 VA 构建了“世界英语”NNLM。特别是，我们研究了适配器瓶颈的应用，以在我们现有的生产 NNLM 中对方言特定特征进行建模{并增强多方言基线}。我们发现适配器模块在方言建模方面比专门化整个子网络更有效。基于这一见解并利用我们生产模型的设计，我们为世界英语 NNLM 引入了一种新架构，该架构满足我们单方言模型的准确性、延迟和内存限制。]]></description>
-      <guid>https://arxiv.org/abs/2403.18783</guid>
-      <pubDate>Thu, 28 Mar 2024 03:05:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>ViTAR：任何分辨率的视觉转换器</title>
-      <link>https://arxiv.org/abs/2403.18361</link>
-      <description><![CDATA[他的论文解决了视觉变换器 (ViTs) 面临的重大挑战：它们在不同图像分辨率下的可扩展性受到限制。通常，当处理的分辨率与训练期间看到的分辨率不同时，ViT 会出现性能下降。我们的工作引入了两项关键创新来解决这个问题。首先，我们提出了一种用于动态分辨率调整的新颖模块，该模块采用单个 Transformer 块设计，专门用于实现高效的增量代币集成。其次，我们在 Vision Transformer 中引入模糊位置编码，以在多个分辨率下提供一致的位置感知，从而防止对任何单一训练分辨率的过度拟合。我们的最终模型 ViTAR（任意分辨率的视觉变换器）展现了令人印象深刻的适应性，在 1120x1120 分辨率下实现了 83.3% 的 top-1 精度，在 4032x4032 分辨率下实现了 80.4% 的精度，同时降低了计算成本。 ViTAR 在实例和语义分割等下游任务中也表现出了强大的性能，并且可以轻松地与 Masked AutoEncoder 等自监督学习技术相结合。我们的工作为增强 ViT 的分辨率可扩展性提供了一种经济高效的解决方案，为更通用、更高效的高分辨率图像处理铺平了道路。]]></description>
-      <guid>https://arxiv.org/abs/2403.18361</guid>
-      <pubDate>Thu, 28 Mar 2024 02:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>BioMedLM：基于生物医学文本训练的 2.7B 参数语言模型</title>
-      <link>https://arxiv.org/abs/2403.18421</link>
-      <description><![CDATA[GPT-4 和 Med-PaLM 2 等模型在各种生物医学 NLP 任务中表现出了令人印象深刻的性能。然而，这些模型具有数千亿个参数，运行计算成本昂贵，需要用户通过互联网发送输入数据，并且需要在未知数据源上进行训练。更小、更有针对性的模型可以竞争吗？为了解决这个问题，我们构建并发布了 BioMedLM，这是一个 27 亿参数的 GPT 式自回归模型，专门在 PubMed 摘要和完整文章上进行训练。经过微调后，BioMedLM 可以产生强大的多项选择生物医学问答结果，可与更大的模型相媲美，例如在 MedMCQA (dev) 上获得 57.3% 的分数，在 MMLU 医学遗传学考试中获得 69.0% 的分数。 BioMedLM 还可以进行微调，为患者提出的医学主题问题提供有用的答案。这表明较小的模型有可能成为特定 NLP 应用（例如生物医学）的透明、隐私保护、经济和环保的基础。该模型可在 Hugging Face Hub 上找到：https://huggingface.co/stanford-crfm/BioMedLM。]]></description>
-      <guid>https://arxiv.org/abs/2403.18421</guid>
-      <pubDate>Thu, 28 Mar 2024 02:10:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mini-Gemini：挖掘多模态视觉语言模型的潜力</title>
-      <link>https://arxiv.org/abs/2403.18814</link>
-      <description><![CDATA[在这项工作中，我们介绍了 Mini-Gemini，这是一个增强多模态视觉语言模型（VLM）的简单而有效的框架。尽管 VLM 取得了进步，促进了基本的视觉对话和推理，但与 GPT-4 和 Gemini 等高级模型相比，性能差距仍然存在。我们试图从高分辨率视觉标记、高质量数据和 VLM 引导生成三个方面挖掘 VLM 的潜力，以实现更好的性能和任意工作流程，从而缩小差距。为了增强视觉标记，我们建议利用额外的视觉编码器进行高分辨率细化，而不增加视觉标记数量。我们进一步构建了一个高质量的数据集，促进精确的图像理解和基于推理的生成，扩大了当前 VLM 的操作范围。总的来说，Mini-Gemini 进一步挖掘了 VLM 的潜力，并同时为现有框架提供图像理解、推理和生成的能力。 Mini-Gemini 支持一系列从 2B 到 34B 的密集和 MoE 大型语言模型 (LLM)。它在多个零样本基准测试中表现出领先的性能，甚至超越了已开发的私有模型。代码和模型可在 https://github.com/dvlab-research/MiniGemini 获取。]]></description>
-      <guid>https://arxiv.org/abs/2403.18814</guid>
-      <pubDate>Thu, 28 Mar 2024 02:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型语言模型中的长篇事实性</title>
-      <link>https://arxiv.org/abs/2403.18802</link>
-      <description><![CDATA[大型语言模型 (LLM) 在响应有关开放式主题的事实寻求提示时，通常会生成包含事实错误的内容。为了在开放领域对模型的长格式事实性进行基准测试，我们首先使用 GPT-4 生成 LongFact，这是一个包含 38 个主题的数千个问题的提示集。然后，我们建议 LLM 代理可以通过我们称为搜索增强事实评估器（SAFE）的方法用作长形式事实性的自动评估器。 SAFE 利用 LLM 将长格式响应分解为一组单独的事实，并使用多步骤推理过程评估每个事实的准确性，包括将搜索查询发送到 Google 搜索并确定搜索是否支持事实结果。此外，我们建议将 F1 分数扩展为长篇事实性的聚合指标。为此，我们平衡响应中支持的事实的百分比（精度）与相对于表示用户首选响应长度（召回）的超参数提供的事实的百分比。根据经验，我们证明 LLM 代理可以实现超人的评级性能 - 在一组约 16k 个单独事实上，SAFE 在 72% 的时间内与众包人类注释者一致，并且在 100 个分歧案例的随机子集上，SAFE 赢得了 76% 的结果时间。同时，SAFE 的成本比人类注释者便宜 20 倍以上。我们还在 LongFact 上对四个模型系列（Gemini、GPT、Claude 和 PaLM-2）的 13 种语言模型进行了基准测试，发现较大的语言模型通常可以实现更好的长格式事实性。 LongFact、SAFE 和所有实验代码均可在 https://github.com/google-deepmind/long-form-factuality 上获取。]]></description>
-      <guid>https://arxiv.org/abs/2403.18802</guid>
-      <pubDate>Thu, 28 Mar 2024 02:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gamba：将高斯泼溅法与 Mamba 结合起来进行单视图 3D 重建</title>
-      <link>https://arxiv.org/abs/2403.18795</link>
-      <description><![CDATA[随着对自动化 3D 内容创建管道的需求不断增长，我们应对从单个图像高效重建 3D 资产的挑战。以前的方法主要依赖于分数蒸馏采样（SDS）和神经辐射场（NeRF）。尽管取得了巨大的成功，但由于冗长的优化和大量的内存使用，这些方法遇到了实际限制。在本报告中，我们介绍了 Gamba，一种来自单视图图像的端到端摊销 3D 重建模型，强调了两个主要见解：（1）3D 表示：利用大量 3D 高斯进行高效的 3D 高斯泼溅过程； （2）主干设计：引入基于Mamba的顺序网络，促进上下文相关推理和序列（令牌）长度的线性可扩展性，容纳大量高斯。 Gamba 在数据预处理、正则化设计和训练方法方面取得了重大进展。我们使用现实世界扫描的 OmniObject3D 数据集根据现有的基于优化和前馈 3D 生成方法评估了 Gamba。在这里，Gamba 在质量和数量上都展示了具有竞争力的生成能力，同时实现了惊人的速度，在单个 NVIDIA A100 GPU 上约为 0.6 秒。]]></description>
-      <guid>https://arxiv.org/abs/2403.18795</guid>
-      <pubDate>Thu, 28 Mar 2024 01:45:01 GMT</pubDate>
+      <title>TextCrraftor：您的文本编码器可以是图像质量控制器</title>
+      <link>https://arxiv.org/abs/2403.18978</link>
+      <description><![CDATA[基于扩散的文本到图像生成模型，例如稳定扩散，彻底改变了内容生成领域，使图像编辑和视频合成等领域取得了重大进步。尽管这些模型具有强大的功能，但也有其局限性。合成与输入文本良好对齐的图像仍然具有挑战性，并且需要使用精心设计的提示进行多次运行才能获得满意的结果。为了减轻这些限制，许多研究都试图利用各种技术来微调预先训练的扩散模型，即 UNet。然而，在这些努力中，文本到图像扩散模型训练的一个关键问题在很大程度上仍未得到探索：微调文本编码器以提高文本到图像扩散模型的性能是否可能且可行？我们的研究结果表明，我们可以通过我们提出的微调方法 TextCrraftor 来增强它，从而在定量基准和人类评估方面取得实质性改进，而不是用其他大型语言模型替换稳定扩散中使用的 CLIP 文本编码器。有趣的是，我们的技术还通过不同文本编码器的插值来实现可控图像生成，并通过各种奖励进行微调。我们还证明 TextCraftor 与 UNet 微调是正交的，并且可以结合起来进一步提高生成质量。]]></description>
+      <guid>https://arxiv.org/abs/2403.18978</guid>
+      <pubDate>Fri, 29 Mar 2024 03:48:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
