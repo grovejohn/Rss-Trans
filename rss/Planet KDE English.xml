@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 28 Mar 2024 18:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2024 08:35:40 GMT</lastBuildDate>
+    <item>
+      <title>FOSSGIS 会议 2024</title>
+      <link>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 29 Mar 2024 06:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kubuntu，KDE 报告。纪念我儿子。</title>
       <link>https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed</link>
@@ -137,7 +144,7 @@ Windows 版本可以在此处找到。
 担心开发人员工作岗位消失，更担心工资下降
 生成的代码的质量。
 事实上，早期研究表明，代码助手在引入时
-未经检查的方式往往会降低代码质量并且往往增加
+未经检查的方式往往会降低代码质量并且往往会增加
 引入的安全问题数量。有趣的是主要因素
 突出显示的是行为。这意味着在等待神奇的新产品之前
 可以完美编码的助手（剧透：这不会发生），我们应该宁愿
@@ -186,23 +193,6 @@ Startplasma：使用启动声音的声音主题设置。 提交。
       <description><![CDATA[]]></description>
       <guid>https://blog.broulik.de/2024/03/plasma-5-the-early-years/?utm_source=atom_feed</guid>
       <pubDate>Mon, 25 Mar 2024 18:09:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tellico 3.5.4 发布</title>
-      <link>https://tellico-project.org/tellico-3-5-4-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Tellico 3.5.4 现已推出，并进行了一些修复。
-改进和错误修复
-
-修复了从配置对话框打开帮助的错误（错误 479591）。 
-更新了开放库源代码以搜索漫画（错误 479506）。&lt; /里&gt;
-修复了过滤器对话框按钮的错误（错误 479771）。
-修复了条目状态的显示错误（错误 479843）。
-修复了更改组字段后条目选择的错误（错误 480297）。 
-修复了带有标题重音符号的 DVDFr 搜索。
-更新了 FilmAffinity 数据源。
-]]></description>
-      <guid>https://tellico-project.org/tellico-3-5-4-released/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 23 Mar 2024 17:52:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
