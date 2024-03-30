@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 30 Mar 2024 00:51:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 06:35:39 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：期待 Plasma 6.1</title>
+      <link>https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 30 Mar 2024 05:23:50 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，2024-13 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/?utm_source=atom_feed</link>
@@ -127,64 +134,6 @@ Windows 版本可以在此处找到。
 但是请查看整个事情！]]></description>
       <guid>https://pointieststick.com/2024/03/26/free-software-wisdom/?utm_source=atom_feed</guid>
       <pubDate>Tue, 26 Mar 2024 21:35:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成式人工智能时代的软件工程培训</title>
-      <link>https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed</link>
-      <description><![CDATA[这是我也为 enioka 博客写的一篇文章，所以有一个 法语版本可用。
-
-&lt;小时/&gt;
-
-在enioka Haute Couture，我们开始提供培训不久前。
-秉承我们的 DNA，我们专注于软件工程实践，而不是
-给定的工具、框架或 API。这就是为什么我们开设软件等主题的课程
-架构、重构、处理遗留代码、测试驱动开发（TDD）、
-代码审查等等。
-此外，并非每个团队都有相同的需求。有些人更喜欢在训练期间度过几天密集的时光
-在一周内，其他人更喜欢在较长时间内进行较小的会议。这就是为什么我们的
-课程设计灵活。它们可以定制以构建多日
-会议，或一直到许多一小时的知识构建会议。
-希望这一切对你来说听起来很棒（当然对我来说听起来很棒）。所以为什么
-现在谈论这个？这是某种广告噱头吗？嗯……不是真的。
-你看，在我们进行培训时发生了一些事情。快三年了
-之前 GitHub 发布了 GitHub Copilot。当时这只是一个技术预览。
-从那时起，大型语言模型（LLM）领域就开始了一场军备竞赛。
-不管你喜欢与否，生成式人工智能将会继续存在，并且基于这种人工智能的代码助理
-模型的使用越来越多。
-我不是那些声称此类模特和助理即将消失的末日论者之一
-接管我们的工作。同样，我不认为他们会加倍
-开发人员的日常生产力。尽管如此，它们必然会影响我们的工作方式
-以及生成的代码。因此，关注开发实践，我就更少了
-担心开发人员工作岗位消失，更担心工资下降
-生成的代码的质量。
-事实上，早期研究表明，代码助手在引入时
-未经检查的方式往往会降低代码质量并且往往增加
-引入的安全问题数量。有趣的是主要因素
-突出显示的是行为。这意味着在等待神奇的新产品之前
-可以完美编码的助手（剧透：这不会发生），我们应该宁愿
-改进我们引入和使用这些工具的方式。
-这让我回到了[enioka 高级时装培训]。在这个新时代，
-我们必须在培训期间感谢编码助理。这充满了所有
-我之前提到的话题。现在我们所有的软件都有一个棘手的问题
-开发实践：编码助理什么时候是适合这项工作的工具？
-如果您正在练习 TDD 或尝试提高对它的使用，这是一个好的选择吗？
-想让编码助理为您编写测试吗？也许不是……因为它是
-当你做出重要的设计决策时，你可能想继续掌舵。
-可能会派上用场来生成必须通过测试的代码。
-如果您正在处理需要现代化的遗留代码库，为此
-编码助手会让你更快地完成这个过程吗？更新代码
-到新版本的语言或依赖项？提取更清晰的模块
-和功能？编写批准测试来确保所有这些？
-这样的问题还有很多……您可以与我们一起探索答案
-在我们的一次培训课程中。我们将继续讨论 TDD、遗留代码……
-有点扭曲！
-当然，就像任何其他工具一样，我们提议的并不是特定于
-给定的解决方案。你使用 GitHub Copilot 吗？科迪姆？具体的内部微调
-模型？这可以。我们将在培训期间考虑到这一点以适应
-尽可能多地向所涉及的开发人员及其上下文提供信息。
-如果您想进一步讨论此问题，请随时与我们联系。]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 26 Mar 2024 13:48:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
