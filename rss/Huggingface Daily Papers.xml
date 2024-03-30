@@ -4,11 +4,11 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 30 Mar 2024 00:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 01:41:34 GMT</lastBuildDate>
     <item>
       <title>sDPO：不要一次性使用所有数据</title>
       <link>https://arxiv.org/abs/2403.19270</link>
-      <description><![CDATA[随着大型语言模型 (LLM) 开发的进展，使其与人类偏好保持一致变得越来越重要。我们提出了逐步 DPO (sDPO)，这是最近流行的用于对齐调整的直接偏好优化 (DPO) 的扩展。这种方法涉及划分可用的偏好数据集并逐步使用它们，而不是一次性使用它们。我们证明，这种方法有助于在 DPO 培训框架内使用更精确对齐的参考模型。此外，sDPO 训练的最终模型性能更高，甚至优于其他具有更多参数的流行法学硕士。]]></description>
+      <description><![CDATA[随着大型语言模型（LLM）的发展，使其与人类偏好保持一致变得越来越重要。我们提出了逐步 DPO (sDPO)，这是最近流行的用于对齐调整的直接偏好优化 (DPO) 的扩展。这种方法涉及划分可用的偏好数据集并逐步使用它们，而不是一次性使用它们。我们证明，这种方法有助于在 DPO 培训框架内使用更精确对齐的参考模型。此外，sDPO 训练的最终模型性能更高，甚至优于其他具有更多参数的流行法学硕士。]]></description>
       <guid>https://arxiv.org/abs/2403.19270</guid>
       <pubDate>Fri, 29 Mar 2024 04:40:11 GMT</pubDate>
     </item>
