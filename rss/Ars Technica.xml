@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 30 Mar 2024 05:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 11:35:18 GMT</lastBuildDate>
+    <item>
+      <title>整个伊利诺伊州将被蝉爬满</title>
+      <link>https://arstechnica.com/?p=2013710</link>
+      <description><![CDATA[而这片土地将会以他们的死者为盛宴。]]></description>
+      <guid>https://arstechnica.com/?p=2013710</guid>
+      <pubDate>Sat, 30 Mar 2024 10:30:03 GMT</pubDate>
+    </item>
     <item>
       <title>蛋白质让细胞记住它们上次分裂的进展情况</title>
       <link>https://arstechnica.com/?p=2013795</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Google 希望 AI 模型能够 24/7 加载，因此 8GB RAM 可能不够。]]></description>
       <guid>https://arstechnica.com/?p=2013446</guid>
       <pubDate>Fri, 29 Mar 2024 17:16:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于滥用问题，OpenAI 推迟了语音克隆技术的广泛发布</title>
-      <link>https://arstechnica.com/?p=2008632</link>
-      <description><![CDATA[语音引擎可以克隆 15 秒音频的语音，但 OpenAI 警告潜在危害。]]></description>
-      <guid>https://arstechnica.com/?p=2008632</guid>
-      <pubDate>Fri, 29 Mar 2024 17:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
