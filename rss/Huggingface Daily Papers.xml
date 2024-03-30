@@ -4,18 +4,18 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 30 Mar 2024 13:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 13:35:30 GMT</lastBuildDate>
     <item>
       <title>sDPO：不要一次性使用所有数据</title>
       <link>https://arxiv.org/abs/2403.19270</link>
-      <description><![CDATA[随着大型语言模型 (LLM) 开发的进展，使其与人类偏好保持一致变得越来越重要。我们提出了逐步 DPO (sDPO)，这是最近流行的用于对齐调整的直接偏好优化 (DPO) 的扩展。这种方法涉及划分可用的偏好数据集并逐步使用它们，而不是一次性使用它们。我们证明，这种方法有助于在 DPO 培训框架内使用更精确对齐的参考模型。此外，sDPO 训练的最终模型性能更高，甚至优于其他具有更多参数的流行法学硕士。]]></description>
+      <description><![CDATA[随着大型语言模型（LLM）的发展，使其与人类偏好保持一致变得越来越重要。我们提出了逐步 DPO (sDPO)，这是最近流行的用于对齐调整的直接偏好优化 (DPO) 的扩展。这种方法涉及划分可用的偏好数据集并逐步使用它们，而不是一次性使用它们。我们证明，这种方法有助于在 DPO 培训框架内使用更精确对齐的参考模型。此外，sDPO 训练的最终模型性能更高，甚至优于其他具有更多参数的流行法学硕士。]]></description>
       <guid>https://arxiv.org/abs/2403.19270</guid>
       <pubDate>Fri, 29 Mar 2024 04:40:11 GMT</pubDate>
     </item>
     <item>
       <title>LITA：语言指导的时间本地化助手</title>
       <link>https://arxiv.org/abs/2403.19046</link>
-      <description><![CDATA[多模式大语言模型 (LLM) 取得了巨大进展。最近的工作已将这些模型扩展到视频输入，并具有良好的指令跟随能力。然而，一个重要的缺失部分是时间定位。这些模型无法准确回答“何时？”问题。我们确定了限制其时间定位能力的三个关键方面：（i）时间表示，（ii）架构和（iii）数据。我们通过提出具有以下功能的语言指导时间本地化助手（LITA）来解决这些缺点：（1）我们引入了时间标记，对相对于视频长度的时间戳进行编码，以更好地表示视频中的时间。 (2) 我们在架构中引入 SlowFast 令牌，以精细的时间分辨率捕获时间信息。 (3) 我们强调 LITA 的时间定位数据。除了利用带有时间戳的现有视频数据集之外，我们还提出了一项新任务：推理时间定位（RTL）以及数据集 ActivityNet-RTL，用于学习和评估该任务。推理时间本地化需要视频 LLM 的推理和时间本地化。 LITA 在这项具有挑战性的任务中表现出了出色的性能，几乎使基线的时间平均交并集 (mIoU) 提高了一倍。此外，我们表明，与现有的视频法学硕士相比，我们对时间本地化的重视也大大改善了基于视频的文本生成，包括时间理解相对提高了 36%。代码位于：https://github.com/NVlabs/LITA]]></description>
+      <description><![CDATA[多模式大语言模型 (LLM) 取得了巨大进展。最近的工作已将这些模型扩展到视频输入，并具有良好的指令跟随能力。然而，一个重要的缺失部分是时间定位。这些模型无法准确回答“何时？”问题。我们确定了限制其时间定位能力的三个关键方面：（i）时间表示，（ii）架构和（iii）数据。我们通过提出具有以下功能的语言指导时间本地化助手（LITA）来解决这些缺点：（1）我们引入了时间标记，对相对于视频长度的时间戳进行编码，以更好地表示视频中的时间。 (2) 我们在架构中引入 SlowFast 令牌，以精细的时间分辨率捕获时间信息。 (3) 我们强调 LITA 的时间定位数据。除了利用带有时间戳的现有视频数据集之外，我们还提出了一项新任务：推理时间定位（RTL）以及数据集 ActivityNet-RTL，用于学习和评估该任务。推理时间定位需要视频 LLM 的推理和时间定位。 LITA 在这项具有挑战性的任务中表现出了出色的性能，几乎使基线的时间平均交并集 (mIoU) 提高了一倍。此外，我们表明，与现有的视频法学硕士相比，我们对时间本地化的重视也大大改善了基于视频的文本生成，包括时间理解相对提高了 36%。代码位于：https://github.com/NVlabs/LITA]]></description>
       <guid>https://arxiv.org/abs/2403.19046</guid>
       <pubDate>Fri, 29 Mar 2024 04:36:23 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>Mesh2NeRF：用于神经辐射场表示和生成的直接网格监督</title>
       <link>https://arxiv.org/abs/2403.19319</link>
-      <description><![CDATA[我们提出了 Mesh2NeRF，一种从用于 3D 生成任务的纹理网格导出地面实况辐射场的方法。许多 3D 生成方法将 3D 场景表示为用于训练的辐射场。它们的地面实况辐射场通常根据大规模合成 3D 数据集的多视图渲染进行拟合，这通常会因遮挡或拟合不足问题而产生伪影。在 Mesh2NeRF 中，我们提出了一种解析解决方案，可以直接从 3D 网格获取地面实况辐射场，使用具有定义表面厚度的占用函数来表征密度场，并通过考虑网格和环境的反射函​​数确定与视图相关的颜色灯光。 Mesh2NeRF 提取准确的辐射场，为训练生成 NeRF 和单场景表示提供直接监督。我们验证了 Mesh2NeRF 在各种任务中的有效性，在 ABO 数据集上的单场景表示视图合成中实现了 3.12dB 的 PSNR 显着改进，在 ShapeNet Cars 的单视图条件生成中实现了 0.69 PSNR 增强，并且显着改进了网格提取来自 NeRF 的 Objaverse Mugs 无条件生成。]]></description>
+      <description><![CDATA[我们提出了 Mesh2NeRF，一种从用于 3D 生成任务的纹理网格导出地面实况辐射场的方法。许多 3D 生成方法将 3D 场景表示为用于训练的辐射场。它们的地面实况辐射场通常是根据大型合成 3D 数据集的多视图渲染进行拟合的，这通常会因遮挡或拟合不足问题而导致伪影。在 Mesh2NeRF 中，我们提出了一种解析解决方案，可以直接从 3D 网格获取地面实况辐射场，使用具有定义表面厚度的占用函数来表征密度场，并通过考虑网格和环境的反射函​​数确定与视图相关的颜色灯光。 Mesh2NeRF 提取准确的辐射场，为训练生成 NeRF 和单场景表示提供直接监督。我们验证了 Mesh2NeRF 在各种任务中的有效性，在 ABO 数据集上的单场景表示中的视图合成 PSNR 方面实现了 3.12dB 的显着改进，在 ShapeNet Cars 的单视图条件生成中实现了 0.69 PSNR 的增强，并且显着改进了网格提取来自 NeRF 在 Objaverse Mugs 无条件生成中的应用。]]></description>
       <guid>https://arxiv.org/abs/2403.19319</guid>
       <pubDate>Fri, 29 Mar 2024 04:01:00 GMT</pubDate>
     </item>
