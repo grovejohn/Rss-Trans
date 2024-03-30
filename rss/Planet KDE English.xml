@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 29 Mar 2024 14:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2024 00:51:44 GMT</lastBuildDate>
     <item>
       <title>网络评论，2024-13 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/?utm_source=atom_feed</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 29 Mar 2024 06:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marknote终于发布了！</title>
+      <link>https://blogs.kde.org/2024/03/29/marknote-finally-released/?utm_source=atom_feed</link>
+      <description><![CDATA[KDE 的 WYSIWYG 笔记应用程序 Marknote 终于准备好首次发布了。 Marknote 可让您创建富文本注释并轻松将它们整理到笔记本中。您可以通过为每个笔记本选择图标和强调色来个性化您的笔记本，从而轻松区分它们并使笔记触手可及。]]></description>
+      <guid>https://blogs.kde.org/2024/03/29/marknote-finally-released/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Kubuntu，KDE 报告。纪念我儿子。</title>
@@ -178,21 +185,6 @@ Windows 版本可以在此处找到。
 如果您想进一步讨论此问题，请随时与我们联系。]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/03/26/software-engineering-training-in-the-age-of-generative-ai/?utm_source=atom_feed</guid>
       <pubDate>Tue, 26 Mar 2024 13:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.0.3，三月份发布错误修复</title>
-      <link>https://kde.org/announcements/plasma/6/6.0.3/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 3 月 26 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.3 的错误修复更新。
-
-此版本添加了 KDE 贡献者为期两周的新翻译和修复。错误修复通常很小但很重要，包括：
-
-系统监视器：Colorgrid：使用与饼图/条形图相同的背景颜色。 提交。修复错误#482664
-Plasma SDK：修复图标资源管理器的桌面文件名。 提交。
-Startplasma：使用启动声音的声音主题设置。 提交。
-
-查看完整变更日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.0.3/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 26 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
