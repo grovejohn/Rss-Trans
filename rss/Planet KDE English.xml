@@ -4,9 +4,9 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 31 Mar 2024 14:35:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 18:35:39 GMT</lastBuildDate>
     <item>
-      <title>什么是费多拉？你需要知道的一切......</title>
+      <title>什么是费多拉？您需要知道的一切...</title>
       <link>https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed</guid>
@@ -17,6 +17,13 @@
       <link>https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>等离子 6 和我</title>
+      <link>https://akselmo.dev/posts/plasma-6-and-me/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://akselmo.dev/posts/plasma-6-and-me/?utm_source=atom_feed</guid>
       <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -68,7 +75,7 @@ KDE 快照：
 随着 KDEneon 核心项目终于启动，您将看到此阶段的活动有所回升！我将以兼职身份参与该项目，让 Enokia 团队中的每个人都能快速掌握我的知识，帮助准备 qt6/kf6 过渡，打包 Plasma，最重要的是，我将专注于为未来贡献者提供文档。
 我已经创建了（现已拆分）qt6，具有 KDE 补丁集支持和 KDE 框架 6 SDK 和运行时快照。我已经制作了 kde-neon-6 扩展，PR 位于：https://github.com/canonical/snapcraft/pull/4698 。未来的扩展工作将包括多版本轨道支持和 core24 支持。
 
-我已经成功创建了我们的第一个 qt6/kf6 snap ark。一旦所有必需的部分被合并并发布，它们就会出现在商店中。
+我已经成功创建了我们的第一个 qt6/kf6 snap ark。一旦所有必需的部分被合并和发布，它们就会出现在商店中。
 感谢您的光临。
 ~斯嘉丽]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed</guid>
@@ -87,37 +94,6 @@ KDE 快照：
       <description><![CDATA[]]></description>
       <guid>https://kdenlive.org/en/2024/03/kdenlive-24-02-1-released/?utm_source=atom_feed</guid>
       <pubDate>Wed, 27 Mar 2024 22:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>榛名1.0.2</title>
-      <link>https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed</link>
-      <description><![CDATA[Haruna 版本 1.0.2 已发布。
-此版本中没有太多变化，因为重点是移植到 Qt6 和 KF6 以及代码重构。
-一些 hwdec 选项已被删除，如果需要，可以在“自定义命令”下的设置中进行设置设置 hwdec解码方法名称并选择“启动时运行”。
-您现在可以在 flathub 上获取它：
-
-Windows 版本可以在此处找到。
-其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
-如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
-功能请求和错误应发布在 bugs.kde.org&lt; /a&gt;，但对于错误，请确保填写模板并提供尽可能多的信息。
-&lt;小时/&gt;
-变更日志：
-1.0.2
-特点：
-
-从播放列表中打开项目的速度更快
-如果最大最近文件数设置设为零，则最近文件将从配置文件中删除
-
-错误修复：
-
-通过打开文件操作打开文件时未播放该文件
-从播放列表标题打开播放列表文件没有执行任何操作
-隐藏/显示播放列表工具栏设置不起作用
-音频和字幕全局菜单中的轨道子菜单为空
-打开汉堡菜单时冻结
-]]></description>
-      <guid>https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 27 Mar 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
