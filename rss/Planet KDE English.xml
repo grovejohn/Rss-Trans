@@ -4,13 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 31 Mar 2024 10:35:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 Mar 2024 14:35:34 GMT</lastBuildDate>
     <item>
-      <title>什么是费多拉？您需要知道的一切...</title>
+      <title>什么是费多拉？你需要知道的一切......</title>
       <link>https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 31 Mar 2024 09:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我 2024 年 3 月在 KDE 的工作</title>
+      <link>https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>本周 KDE：期待 Plasma 6.1</title>
@@ -111,15 +118,6 @@ Windows 版本可以在此处找到。
 ]]></description>
       <guid>https://haruna.kde.org/blog/2024-03-27-haruna-1.0.2/?utm_source=atom_feed</guid>
       <pubDate>Wed, 27 Mar 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KTextAddons 1.5.4</title>
-      <link>https://blogs.kde.org/2024/03/27/ktextaddons-1.5.4/?utm_source=atom_feed</link>
-      <description><![CDATA[KTextAddons 1.5.4 是我们的文本显示和处理库的错误修复版本
-它修复了两个值得注意的错误并更新了翻译
-修复错误 484328：Kmail 配置对话框需要大约 40 秒才能显示使用 QListView::clicked（在表情符号弹出菜单中）URL：https://download。]]></description>
-      <guid>https://blogs.kde.org/2024/03/27/ktextaddons-1.5.4/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 27 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
