@@ -3,10 +3,10 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 31 Mar 2024 10:35:41 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sun, 31 Mar 2024 11:10:32 GMT</lastBuildDate>
     <item>
-      <title>sDPO：不要一次性使用所有数据</title>
+      <title>sDPO：不要一次性使用您的所有数据</title>
       <link>https://arxiv.org/abs/2403.19270</link>
       <description><![CDATA[随着大型语言模型（LLM）的发展，使其与人类偏好保持一致变得越来越重要。我们提出了逐步 DPO (sDPO)，这是最近流行的用于对齐调整的直接偏好优化 (DPO) 的扩展。这种方法涉及划分可用的偏好数据集并逐步使用它们，而不是一次性使用它们。我们证明，这种方法有助于在 DPO 培训框架内使用更精确对齐的参考模型。此外，sDPO 训练的最终模型性能更高，甚至优于其他具有更多参数的流行法学硕士。]]></description>
       <guid>https://arxiv.org/abs/2403.19270</guid>
@@ -15,7 +15,7 @@
     <item>
       <title>LITA：语言指导的时间本地化助手</title>
       <link>https://arxiv.org/abs/2403.19046</link>
-      <description><![CDATA[多模式大语言模型 (LLM) 取得了巨大进展。最近的工作已将这些模型扩展到视频输入，并具有良好的指令跟随能力。然而，一个重要的缺失部分是时间定位。这些模型无法准确回答“何时？”问题。我们确定了限制其时间定位能力的三个关键方面：（i）时间表示，（ii）架构和（iii）数据。我们通过提出具有以下功能的语言指导时间本地化助手（LITA）来解决这些缺点：（1）我们引入了时间标记，对相对于视频长度的时间戳进行编码，以更好地表示视频中的时间。 (2) 我们在架构中引入 SlowFast 令牌，以精细的时间分辨率捕获时间信息。 (3) 我们强调 LITA 的时间定位数据。除了利用带有时间戳的现有视频数据集之外，我们还提出了一项新任务：推理时间定位（RTL）以及数据集 ActivityNet-RTL，用于学习和评估该任务。推理时间定位需要视频 LLM 的推理和时间定位。 LITA 在这项具有挑战性的任务中表现出了出色的性能，几乎使基线的时间平均交并集 (mIoU) 提高了一倍。此外，我们表明，与现有的视频法学硕士相比，我们对时间本地化的重视也大大改善了基于视频的文本生成，包括时间理解相对提高了 36%。代码位于：https://github.com/NVlabs/LITA]]></description>
+      <description><![CDATA[多模式大语言模型 (LLM) 取得了巨大进展。最近的工作已将这些模型扩展到视频输入，并具有良好的指令跟随能力。然而，一个重要的缺失部分是时间定位。这些模型无法准确回答“何时？”问题。我们确定了限制其时间定位能力的三个关键方面：（i）时间表示，（ii）架构和（iii）数据。我们通过提出具有以下功能的语言指导时间本地化助手（LITA）来解决这些缺点：（1）我们引入了时间标记，对相对于视频长度的时间戳进行编码，以更好地表示视频中的时间。 (2) 我们在架构中引入 SlowFast 令牌，以精细的时间分辨率捕获时间信息。 (3) 我们强调 LITA 的时间定位数据。除了利用带有时间戳的现有视频数据集之外，我们还提出了一项新任务：推理时间定位（RTL）以及数据集 ActivityNet-RTL，用于学习和评估该任务。推理时间本地化需要视频 LLM 的推理和时间本地化。 LITA 在这项具有挑战性的任务中表现出了出色的性能，几乎使基线的时间平均交并集 (mIoU) 提高了一倍。此外，我们表明，与现有的视频法学硕士相比，我们对时间本地化的重视也大大改善了基于视频的文本生成，包括时间理解相对提高了 36%。代码位于：https://github.com/NVlabs/LITA]]></description>
       <guid>https://arxiv.org/abs/2403.19046</guid>
       <pubDate>Fri, 29 Mar 2024 04:36:23 GMT</pubDate>
     </item>
