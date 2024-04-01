@@ -4,7 +4,95 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 01 Apr 2024 14:37:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 16:39:28 GMT</lastBuildDate>
+    <item>
+      <title>马克笔记1.1.0</title>
+      <link>https://carlschwan.eu/2024/04/01/marknote-1.1.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Marknote 1.1.0 已发布！ Marknote 是一款新的所见即所得笔记应用程序
+KDE。尽管最新版本才几天前发布，但我们一直在努力
+工作并添加了一些新功能，更重要的是修复了一些错误。
+Marknote 现在拥有更广泛的 Markdown 支持，现在可以显示图像和
+编辑器中的任务列表。编辑完笔记后，您可以
+将它们导出为各种格式，包括 PDF、HTML 和 ODT。
+&lt;图&gt;
+
+
+
+导出为 PDF、HTML 和 ODT
+
+Marknote 的界面现在可以无缝集成分配给您的颜色
+笔记本，增强其视觉连贯性并使其更易于区分
+一台笔记本与另一台笔记本。此外，您的笔记本会记住最后的
+打开的笔记，选择后自动重新打开它。
+&lt;图&gt;
+
+
+
+列表委托中的强调色
+
+我们还引入了一个类似于 Merkuro 中的便捷命令栏。
+这样可以快速访问 Marknote 中的基本操作。目前它
+只创建一个新的笔记本和笔记，但我们计划采取更多行动
+未来可用。最后我们重新设计了 Markdown 中的所有对话框
+使用新引入的 来自 KirigamiAddons 的 FormCardDialog.
+&lt;图&gt;
+
+
+
+命令栏
+
+我们创建了一个小型功能路线图
+以及我们希望在未来添加的功能。欢迎贡献！
+打包器部分
+git 标签已经可用，压缩包的发布仍在进行中。
+一旦 download.kde.org 上发布了这篇文章，我就会立即更新。
+请注意，此版本引入了新的推荐依赖项：md4c 和 require
+最新的 Kirigami Addons 版本（几个小时前发布）。]]></description>
+      <guid>https://carlschwan.eu/2024/04/01/marknote-1.1.0/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 01 Apr 2024 15:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>剪纸插件 1.1.0</title>
+      <link>https://carlschwan.eu/2024/04/01/kirigami-addons-1.1.0/?utm_source=atom_feed</link>
+      <description><![CDATA[又到了新的 Kirigami Addons 发布的时候了。 Kirigami Addons 是一个
+对您的 QML 和 Kirigami 应用程序有用的组件集合。
+表单卡
+我添加了一个新的 FormCard 委托：FormColorDelegate，它允许选择
+颜色和一个新的委托容器：FormCardDialog，这是一种新型的
+对话框。
+&lt;图&gt;
+
+表格视图
+这个新组件旨在提供一个强大的表格视图
+QtQuick 提供的准系统，类似于我们在我们的
+QtWidgets 应用程序。
+这是由 Evgeny Chesnokov 贡献的。谢谢！
+&lt;图&gt;
+
+其他组件
+MessageDialog 的默认大小已减小，现在更加合适。
+&lt;图&gt;
+
+
+
+MessageDialog新的默认大小
+
+詹姆斯·格雷厄姆修复了最大化专辑的视频代表的自动播放问题
+组件。
+打包器部分
+git 标签已经可用，压缩包的发布仍在进行中。我会尽快更新这篇文章
+它可以在 download.kde.org 上找到。
+]]></description>
+      <guid>https://carlschwan.eu/2024/04/01/kirigami-addons-1.1.0/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 01 Apr 2024 15:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>xz-utils 妥协的人际方面</title>
+      <link>http://dilfridge.blogspot.com/2024/04/the-interpersonal-side-of-xz-utils.html?utm_source=atom_feed</link>
+      <description><![CDATA[当大家忙着分析最近发现 xz-utils 妥协 目前正在震撼互联网，值得研究一下使这种妥协成为可能的潜在非技术问题。可以找到一篇非常好的文章Rob Mensching 的博客...”开源项目中交互的缩影&quot;]]></description>
+      <guid>http://dilfridge.blogspot.com/2024/04/the-interpersonal-side-of-xz-utils.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 01 Apr 2024 14:54:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE - 肉馅卷饼亭</title>
       <link>https://tube.kockatoo.org/w/qA1ejzhsAn81GeGH9MXJbf?utm_source=atom_feed</link>
@@ -53,47 +141,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 29 Mar 2024 06:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marknote终于发布了！</title>
-      <link>https://blogs.kde.org/2024/03/29/marknote-finally-released/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 的 WYSIWYG 笔记应用程序 Marknote 终于准备好首次发布了。 Marknote 可让您创建富文本注释并轻松将它们整理到笔记本中。您可以通过为每个笔记本选择图标和强调色来个性化您的笔记本，从而轻松区分它们并使笔记触手可及。]]></description>
-      <guid>https://blogs.kde.org/2024/03/29/marknote-finally-released/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu，KDE 报告。纪念我儿子。</title>
-      <link>https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-个人：
-正如你们很多人所知，我于 3 月 9 日失去了我心爱的儿子。这对我打击很大，但我会保持坚强并保留所有美好的回忆。他长大后成为一个了不起的人、虔诚的基督徒和出色的父亲。他受到所有认识他的人的喜爱，我们所有人都会真正怀念他。有人问我可以提供什么帮助。他留下了 7 岁的儿子梅森。梅森是比利的世界，我想确保梅森得到照顾。我为梅森设立了一个gofundme，所有收益将用于他未来的照顾。 
-https://gofund.me/25dbff0c
-工作报告
-库班图：
-打击错误！我正在对 Plasma 的所有 bug 进行分类，可以在此处看到：
-https://bugs.launchpad.net/plasma-5.27/+bug/ 2053125
-我很高兴地报告许多剩余的错误已在最新的错误修复版本 5.27.11 中得到修复。
-我准备了https://kde.org/announcements/plasma/5/5.27 .11/ 和 Rik 上传至存档，谢谢。不幸的是，这个和其他几个关键修复被困在 time_t64 转换中，您可以在此处阅读：https://wiki.debian.org/ReleaseGoals/64bit-time。这是 Debian/Ubuntu 历史上最大的转变，而且发生在最糟糕的时刻。我们知道我们的 ISO 安装程序目前已损坏，calamares 是此过渡中遇到的问题之一。错误报告的评论中有一个解决方法： https://bugs .launchpad.net/ubuntu/+source/calamares/+bug/2054795
-修复了 Plasma-welcome 的问题。
-找到了表情符号的修复程序，Aaron 已经与 fontconfig 维护者一起推动了这一工作。谢谢！
-我收到了https://kfocus.org/spec/spec-ir14.html&lt; /a&gt; 笔记本电脑，它确实是一台很棒的机器，现在是我的日常驱动程序。非常感谢 Kfocus 团队！我迫不及待地想在 https://linuxfestnorthwest.org/ 上展示它。
-KDE 快照：
-随着 KDEneon 核心项目终于启动，您将看到此阶段的活动有所回升！我将以兼职身份参与该项目，让 Enokia 团队中的每个人都能快速掌握我的知识，帮助准备 qt6/kf6 过渡，打包 Plasma，最重要的是，我将专注于为未来贡献者提供文档。
-我已经创建了（现已拆分）qt6，具有 KDE 补丁集支持和 KDE 框架 6 SDK 和运行时快照。我已经制作了 kde-neon-6 扩展，PR 位于：https://github.com/canonical/snapcraft/pull/4698 。未来的扩展工作将包括多版本轨道支持和 core24 支持。
-
-我已经成功创建了我们的第一个 qt6/kf6 snap ark。一旦所有必需的部分被合并和发布，它们就会出现在商店中。
-感谢您的光临。
-~斯嘉丽]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kubuntu-kde-report-in-loving-memory-of-my-son/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 28 Mar 2024 17:54:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>SoK24 中的 KEcoLab：将能耗测量纳入 CI/CD 管道</title>
-      <link>https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://eco.kde.org/blog/2024-03-28-sok24-energy-measurement-lab/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 28 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
