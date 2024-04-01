@@ -3,12 +3,12 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 01 Apr 2024 06:16:34 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 01 Apr 2024 06:36:16 GMT</lastBuildDate>
     <item>
       <title>Jamba：混合 Transformer-Mamba 语言模型</title>
       <link>https://arxiv.org/abs/2403.19887</link>
-      <description><![CDATA[我们推出了 Jamba，这是一种基于新型混合 Transformer-Mamba 专家混合 (MoE) 架构的新基础大型语言模型。具体来说，Jamba 将 Transformer 层和 Mamba 层的块交错在一起，享受这两个模型系列的优点。 MoE 添加到其中一些层中，以提高模型容量，同时保持活动参数使用的可控性。这种灵活的架构允许特定于资源和目标的配置。在我们实现的特定配置中，我们最终得到了一个适合单个 80GB GPU 的强大模型。与普通 Transformer 相比，Jamba 是大规模构建的，可提供高吞吐量和较小的内存占用，同时在标准语言模型基准测试和长上下文评估上具有最先进的性能。值得注意的是，该模型在高达 256K 令牌上下文长度的情况下呈现出强劲的结果。我们研究了各种架构决策，例如如何组合 Transformer 和 Mamba 层，以及如何混合专家，并表明其中一些决策对于大规模建模至关重要。我们还描述了 Jamba 的训练和评估所揭示的这些架构的几个有趣的属性，并计划从各种消融运行中发布检查点，以鼓励进一步探索这种新颖的架构。我们在许可下公开 Jamba 实施的权重。]]></description>
+      <description><![CDATA[我们推出了 Jamba，这是一种基于新型混合 Transformer-Mamba 专家混合 (MoE) 架构的新基础大型语言模型。具体来说，Jamba 将 Transformer 层和 Mamba 层的块交错在一起，享受这两个模型系列的优点。 MoE 添加到其中一些层中，以提高模型容量，同时保持活动参数使用的可控性。这种灵活的架构允许特定于资源和目标的配置。在我们实现的特定配置中，我们最终得到了一个适合单个 80GB GPU 的强大模型。与普通 Transformer 相比，Jamba 是大规模构建的，可提供高吞吐量和较小的内存占用，同时在标准语言模型基准和长上下文评估上具有最先进的性能。值得注意的是，该模型在高达 256K 令牌上下文长度的情况下呈现出强劲的结果。我们研究了各种架构决策，例如如何组合 Transformer 和 Mamba 层，以及如何混合专家，并表明其中一些决策对于大规模建模至关重要。我们还描述了 Jamba 的训练和评估所揭示的这些架构的几个有趣的属性，并计划从各种消融运行中发布检查点，以鼓励进一步探索这种新颖的架构。我们在许可下公开 Jamba 实施的权重。]]></description>
       <guid>https://arxiv.org/abs/2403.19887</guid>
       <pubDate>Mon, 01 Apr 2024 03:49:48 GMT</pubDate>
     </item>
@@ -22,7 +22,7 @@
     <item>
       <title>Snap-it、Tap-it、Splat-it：用于重建具有挑战性的表面的触觉通知 3D 高斯喷射</title>
       <link>https://arxiv.org/abs/2403.20275</link>
-      <description><![CDATA[触觉和视觉齐头并进，共同增强我们理解世界的能力。从研究的角度来看，混合触觉和视觉的问题尚未得到充分探索，并提出了有趣的挑战。为此，我们提出了触觉信息 3DGS，这是一种将触摸数据（局部深度图）与多视图视觉数据相结合的新颖方法，以实现表面重建和新颖的视图合成。我们的方法优化了 3D 高斯基元，以准确地对接触点处的物体几何形状进行建模。通过创建一个降低触摸位置透射率的框架，我们实现了精细的表面重建，确保了均匀平滑的深度图。在考虑非朗伯物体（例如闪亮或反射表面）时，触摸特别有用，因为当代方法往往无法以保真度镜面高光进行重建。通过将视觉和触觉传感相结合，我们用比以前的方法更少的图像实现了更准确的几何重建。我们对具有光泽和反射表面的物体进行评估，并证明我们方法的有效性，从而显着提高重建质量。]]></description>
+      <description><![CDATA[触觉和视觉齐头并进，共同增强我们理解世界的能力。从研究的角度来看，混合触觉和视觉的问题尚未得到充分探索，并提出了有趣的挑战。为此，我们提出了触觉信息 3DGS，这是一种将触摸数据（局部深度图）与多视图视觉数据相结合的新颖方法，以实现表面重建和新颖的视图合成。我们的方法优化了 3D 高斯基元，以准确地对接触点处的物体几何形状进行建模。通过创建一个降低触摸位置透射率的框架，我们实现了精细的表面重建，确保了均匀平滑的深度图。在考虑非朗伯物体（例如闪亮或反射表面）时，触摸特别有用，因为当代方法往往无法以保真度镜面高光进行重建。通过结合视觉和触觉传感，我们用比以前的方法更少的图像实现了更准确的几何重建。我们对具有光泽和反光表面的物体进行评估，并证明我们方法的有效性，从而显着提高重建质量。]]></description>
       <guid>https://arxiv.org/abs/2403.20275</guid>
       <pubDate>Mon, 01 Apr 2024 03:29:47 GMT</pubDate>
     </item>
