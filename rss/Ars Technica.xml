@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 01 Apr 2024 18:15:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 19:09:46 GMT</lastBuildDate>
+    <item>
+      <title>AT&T 承认数据泄露影响了 7300 万当前和前用户</title>
+      <link>https://arstechnica.com/?p=2014073</link>
+      <description><![CDATA[数据泄露影响了 760 万 AT&amp;T 当前用户和 6540 万前用户。]]></description>
+      <guid>https://arstechnica.com/?p=2014073</guid>
+      <pubDate>Mon, 01 Apr 2024 19:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Redis 的许可证变更和分叉一团糟，每个人都会感到难过</title>
+      <link>https://arstechnica.com/?p=2014018</link>
+      <description><![CDATA[云公司希望 Redis 版本仍可以托管服务转售。]]></description>
+      <guid>https://arstechnica.com/?p=2014018</guid>
+      <pubDate>Mon, 01 Apr 2024 17:47:34 GMT</pubDate>
+    </item>
     <item>
       <title>Google 播客将于明天（4 月 2 日）关闭</title>
       <link>https://arstechnica.com/?p=2014008</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[这是一只鸟……这是一架飞机……这是一架望远镜。]]></description>
       <guid>https://arstechnica.com/?p=2013723</guid>
       <pubDate>Mon, 01 Apr 2024 12:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们对几乎感染全世界的 xz Utils 后门了解多少</title>
-      <link>https://arstechnica.com/?p=2013894</link>
-      <description><![CDATA[对无处不在的工具进行的恶意更新距离成为主流还有几周的时间。]]></description>
-      <guid>https://arstechnica.com/?p=2013894</guid>
-      <pubDate>Mon, 01 Apr 2024 06:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>整个伊利诺伊州将被蝉爬满</title>
-      <link>https://arstechnica.com/?p=2013710</link>
-      <description><![CDATA[而这片土地将会以他们的死者为盛宴。]]></description>
-      <guid>https://arstechnica.com/?p=2013710</guid>
-      <pubDate>Sat, 30 Mar 2024 10:30:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
