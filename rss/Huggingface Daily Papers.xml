@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 01 Apr 2024 12:48:47 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 01 Apr 2024 14:37:22 GMT</lastBuildDate>
     <item>
       <title>本地化语言模型中的段落记忆</title>
       <link>https://arxiv.org/abs/2403.19851</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Transformer-Lite：大型语言模型在手机GPU上的高效部署</title>
       <link>https://arxiv.org/abs/2403.20041</link>
-      <description><![CDATA[大语言模型（LLM）广泛应用于智能助理、文本摘要、翻译和手机上的多模态等任务。然而，当前设备上LLM部署方法的推理速度较慢，导致用户体验较差。为了促进设备 GPU 上高效的 LLM 部署，我们提出了四种优化技术：（a）基于符号表达式的方法来支持动态形状模型推理； (b) 操作员优化和执行优先级设置，以提高推理速度并减少手机延迟； (c) 称为 M0E4 的 FP4 量化方法，用于减少反量化开销； (d) 基于子张量的技术，无需在 LLM 推理后复制 KV 缓存。此外，我们在移动推理引擎 Transformer-Lite 中实现了这些方法，该引擎与 Qualcomm 和 MTK 处理器兼容。我们使用具有从 2B 到 14B 不同架构和参数的 LLM 评估了 Transformer-Lite 的性能。具体来说，我们在 ChatGLM2 6B 中分别实现了 121 个令牌/秒和 14 个令牌/秒的预填充和解码速度，在较小的 Gemma 2B 中分别实现了 330 个令牌/秒和 30 个令牌/秒。与基于CPU的FastLLM和基于GPU的MLC-LLM相比，我们的引擎在预填充速度方面获得了超过10倍的加速，在解码速度方面获得了2~3倍的加速。]]></description>
+      <description><![CDATA[大语言模型（LLM）广泛应用于智能助理、文本摘要、翻译和手机上的多模态等任务。然而，目前设备上LLM部署方法的推理速度较慢，导致用户体验较差。为了促进设备 GPU 上高效的 LLM 部署，我们提出了四种优化技术：（a）基于符号表达式的方法来支持动态形状模型推理； (b) 操作员优化和执行优先级设置，以提高推理速度并减少手机延迟； (c) 称为 M0E4 的 FP4 量化方法，用于减少反量化开销； (d) 基于子张量的技术，无需在 LLM 推理后复制 KV 缓存。此外，我们在移动推理引擎 Transformer-Lite 中实现了这些方法，该引擎与 Qualcomm 和 MTK 处理器兼容。我们使用具有从 2B 到 14B 不同架构和参数的 LLM 评估了 Transformer-Lite 的性能。具体来说，我们在 ChatGLM2 6B 中分别实现了 121 个令牌/秒和 14 个令牌/秒的预填充和解码速度，在较小的 Gemma 2B 中分别实现了 330 个令牌/秒和 30 个令牌/秒。与基于CPU的FastLLM和基于GPU的MLC-LLM相比，我们的引擎在预填充速度方面获得了超过10倍的加速，在解码速度方面获得了2~3倍的加速。]]></description>
       <guid>https://arxiv.org/abs/2403.20041</guid>
       <pubDate>Mon, 01 Apr 2024 05:11:50 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>Jamba：混合 Transformer-Mamba 语言模型</title>
       <link>https://arxiv.org/abs/2403.19887</link>
-      <description><![CDATA[我们推出了 Jamba，这是一种基于新型混合 Transformer-Mamba 专家混合 (MoE) 架构的新基础大型语言模型。具体来说，Jamba 将 Transformer 层和 Mamba 层的块交错在一起，享受这两个模型系列的优点。 MoE 添加到其中一些层中，以提高模型容量，同时保持活动参数使用的可控性。这种灵活的架构允许特定于资源和目标的配置。在我们实现的特定配置中，我们最终得到了一个适合单个 80GB GPU 的强大模型。与普通 Transformer 相比，Jamba 是大规模构建的，可提供高吞吐量和较小的内存占用，同时在标准语言模型基准测试和长上下文评估上具有最先进的性能。值得注意的是，该模型在高达 256K 令牌上下文长度的情况下呈现出强劲的结果。我们研究了各种架构决策，例如如何组合 Transformer 和 Mamba 层，以及如何混合专家，并表明其中一些决策对于大规模建模至关重要。我们还描述了 Jamba 的训练和评估所揭示的这些架构的几个有趣的属性，并计划从各种消融运行中发布检查点，以鼓励进一步探索这种新颖的架构。我们在许可下公开 Jamba 实施的权重。]]></description>
+      <description><![CDATA[我们推出了 Jamba，这是一种基于新型混合 Transformer-Mamba 专家混合 (MoE) 架构的新基础大型语言模型。具体来说，Jamba 将 Transformer 层和 Mamba 层的块交错在一起，享受这两个模型系列的优点。 MoE 添加到其中一些层中，以提高模型容量，同时保持活动参数使用的可控性。这种灵活的架构允许特定于资源和目标的配置。在我们实现的特定配置中，我们最终得到了一个适合单个 80GB GPU 的强大模型。与普通 Transformer 相比，Jamba 是大规模构建的，可提供高吞吐量和较小的内存占用，同时在标准语言模型基准和长上下文评估上具有最先进的性能。值得注意的是，该模型在高达 256K 令牌上下文长度的情况下呈现出强劲的结果。我们研究了各种架构决策，例如如何组合 Transformer 和 Mamba 层，以及如何混合专家，并表明其中一些决策对于大规模建模至关重要。我们还描述了 Jamba 的训练和评估所揭示的这些架构的几个有趣的属性，并计划从各种消融运行中发布检查点，以鼓励进一步探索这种新颖的架构。我们在许可下公开 Jamba 实施的权重。]]></description>
       <guid>https://arxiv.org/abs/2403.19887</guid>
       <pubDate>Mon, 01 Apr 2024 03:49:48 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>Snap-it、Tap-it、Splat-it：用于重建具有挑战性的表面的触觉通知 3D 高斯喷射</title>
       <link>https://arxiv.org/abs/2403.20275</link>
-      <description><![CDATA[触觉和视觉齐头并进，共同增强我们理解世界的能力。从研究的角度来看，混合触觉和视觉的问题尚未得到充分探索，并提出了有趣的挑战。为此，我们提出了触觉信息 3DGS，这是一种将触摸数据（局部深度图）与多视图视觉数据相结合的新颖方法，以实现表面重建和新颖的视图合成。我们的方法优化了 3D 高斯基元，以准确地对接触点处的物体几何形状进行建模。通过创建一个降低触摸位置透射率的框架，我们实现了精细的表面重建，确保了均匀平滑的深度图。在考虑非朗伯物体（例如闪亮或反射表面）时，触摸特别有用，因为当代方法往往无法以保真度镜面高光进行重建。通过将视觉和触觉传感相结合，我们用比以前的方法更少的图像实现了更准确的几何重建。我们对具有光泽和反射表面的物体进行评估，并证明我们方法的有效性，从而显着提高重建质量。]]></description>
+      <description><![CDATA[触觉和视觉齐头并进，共同增强我们理解世界的能力。从研究的角度来看，混合触觉和视觉的问题尚未得到充分探索，并提出了有趣的挑战。为此，我们提出了触觉信息 3DGS，这是一种将触摸数据（局部深度图）与多视图视觉数据相结合的新颖方法，以实现表面重建和新颖的视图合成。我们的方法优化了 3D 高斯基元，以准确地对接触点处的物体几何形状进行建模。通过创建一个降低触摸位置透射率的框架，我们实现了精细的表面重建，确保了均匀平滑的深度图。在考虑非朗伯物体（例如闪亮或反射表面）时，触摸特别有用，因为当代方法往往无法以保真度镜面高光进行重建。通过结合视觉和触觉传感，我们用比以前的方法更少的图像实现了更准确的几何重建。我们对具有光泽和反光表面的物体进行评估，并证明我们方法的有效性，从而显着提高重建质量。]]></description>
       <guid>https://arxiv.org/abs/2403.20275</guid>
       <pubDate>Mon, 01 Apr 2024 03:29:47 GMT</pubDate>
     </item>
