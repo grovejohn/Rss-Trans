@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 01 Apr 2024 15:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 16:17:12 GMT</lastBuildDate>
     <item>
-      <title>迫于压力，微软在全球范围内将 Teams 与 Microsoft 365 分拆</title>
+      <title>俄罗斯有计划“恢复”其在全球发射市场的主导地位</title>
+      <link>https://arstechnica.com/?p=2013957</link>
+      <description><![CDATA[“所以我们正在沿着科罗廖夫开辟的同一条道路努力。”]]></description>
+      <guid>https://arstechnica.com/?p=2013957</guid>
+      <pubDate>Mon, 01 Apr 2024 15:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>继欧盟分裂之后，微软在全球范围内拆分了 Teams 和 Office 应用</title>
       <link>https://arstechnica.com/?p=2013950</link>
       <description><![CDATA[Salesforce 旗下的 Slack 和其他公司声称微软滥用了其市场地位。]]></description>
       <guid>https://arstechnica.com/?p=2013950</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[“Lenna”图像在计算机图像处理研究中的使用可以追溯到 20 世纪 70 年代。]]></description>
       <guid>https://arstechnica.com/?p=2013640</guid>
       <pubDate>Fri, 29 Mar 2024 21:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约市政府聊天机器人在城市法律法规方面撒谎</title>
-      <link>https://arstechnica.com/?p=2013719</link>
-      <description><![CDATA[无论“MyCity”聊天机器人怎么说，您都可能因不付租金而被驱逐。]]></description>
-      <guid>https://arstechnica.com/?p=2013719</guid>
-      <pubDate>Fri, 29 Mar 2024 20:22:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
