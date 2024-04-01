@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 01 Apr 2024 20:35:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 22:36:12 GMT</lastBuildDate>
     <item>
       <title>马克笔记1.1.0</title>
       <link>https://carlschwan.eu/2024/04/01/marknote-1.1.0/?utm_source=atom_feed</link>
@@ -95,13 +95,6 @@ download.kde.org
       <pubDate>Mon, 01 Apr 2024 14:54:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE - 肉馅卷饼亭</title>
-      <link>https://tube.kockatoo.org/w/qA1ejzhsAn81GeGH9MXJbf?utm_source=atom_feed</link>
-      <description><![CDATA[你喜欢好吃的！在 KDE，我们尝到了美味！]]></description>
-      <guid>https://tube.kockatoo.org/w/qA1ejzhsAn81GeGH9MXJbf?utm_source=atom_feed</guid>
-      <pubDate>Mon, 01 Apr 2024 13:47:17 GMT</pubDate>
-    </item>
-    <item>
       <title>什么是费多拉？您需要知道的一切...</title>
       <link>https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -142,6 +135,13 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 29 Mar 2024 06:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marknote终于发布了！</title>
+      <link>https://blogs.kde.org/2024/03/29/marknote-finally-released/?utm_source=atom_feed</link>
+      <description><![CDATA[KDE 的 WYSIWYG 笔记应用程序 Marknote 终于准备好首次发布了。 Marknote 可让您创建富文本注释并轻松将它们整理到笔记本中。您可以通过为每个笔记本选择图标和强调色来个性化您的笔记本，从而轻松区分它们并使笔记触手可及。]]></description>
+      <guid>https://blogs.kde.org/2024/03/29/marknote-finally-released/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
