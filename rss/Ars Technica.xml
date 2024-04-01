@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 30 Mar 2024 11:35:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 07:36:51 GMT</lastBuildDate>
+    <item>
+      <title>我们对几乎感染全世界的 xz Utils 后门了解多少</title>
+      <link>https://arstechnica.com/?p=2013894</link>
+      <description><![CDATA[对无处不在的工具进行的恶意更新距离成为主流还有几周的时间。]]></description>
+      <guid>https://arstechnica.com/?p=2013894</guid>
+      <pubDate>Mon, 01 Apr 2024 06:55:22 GMT</pubDate>
+    </item>
     <item>
       <title>整个伊利诺伊州将被蝉爬满</title>
       <link>https://arstechnica.com/?p=2013710</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 29 Mar 2024 20:22:21 GMT</pubDate>
     </item>
     <item>
-      <title>广泛使用的 Linux 实用程序中发现的后门会破坏加密的 SSH 连接</title>
+      <title>广泛使用的 Linux 实用程序中发现的后门以加密的 SSH 连接为目标</title>
       <link>https://arstechnica.com/?p=2013674</link>
       <description><![CDATA[xz Utils 中植入的恶意代码已经传播了一个多月。]]></description>
       <guid>https://arstechnica.com/?p=2013674</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[下一代 iPad 将是 Apple 自 2022 年底以来的首款新平板电脑。]]></description>
       <guid>https://arstechnica.com/?p=2013454</guid>
       <pubDate>Fri, 29 Mar 2024 17:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌称在手机上运行人工智能模型会消耗巨大的内存</title>
-      <link>https://arstechnica.com/?p=2013446</link>
-      <description><![CDATA[Google 希望 AI 模型能够 24/7 加载，因此 8GB RAM 可能不够。]]></description>
-      <guid>https://arstechnica.com/?p=2013446</guid>
-      <pubDate>Fri, 29 Mar 2024 17:16:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
