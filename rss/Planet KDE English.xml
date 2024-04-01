@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 01 Apr 2024 16:39:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 20:35:30 GMT</lastBuildDate>
     <item>
       <title>马克笔记1.1.0</title>
       <link>https://carlschwan.eu/2024/04/01/marknote-1.1.0/?utm_source=atom_feed</link>
@@ -44,8 +44,9 @@ Marknote 的界面现在可以无缝集成分配给您的颜色
 我们创建了一个小型功能路线图
 以及我们希望在未来添加的功能。欢迎贡献！
 打包器部分
-git 标签已经可用，压缩包的发布仍在进行中。
-一旦 download.kde.org 上发布了这篇文章，我就会立即更新。
+您可以在以下位置找到该软件包
+download.kde .org
+它已使用我的 GPG 密钥 进行签名。
 请注意，此版本引入了新的推荐依赖项：md4c 和 require
 最新的 Kirigami Addons 版本（几个小时前发布）。]]></description>
       <guid>https://carlschwan.eu/2024/04/01/marknote-1.1.0/?utm_source=atom_feed</guid>
@@ -80,9 +81,9 @@ MessageDialog新的默认大小
 詹姆斯·格雷厄姆修复了最大化专辑的视频代表的自动播放问题
 组件。
 打包器部分
-git 标签已经可用，压缩包的发布仍在进行中。我会尽快更新这篇文章
-它可以在 download.kde.org 上找到。
-]]></description>
+您可以在以下位置找到该软件包
+download.kde.org
+它已使用我的 GPG 密钥 进行签名。]]></description>
       <guid>https://carlschwan.eu/2024/04/01/kirigami-addons-1.1.0/?utm_source=atom_feed</guid>
       <pubDate>Mon, 01 Apr 2024 15:00:00 GMT</pubDate>
     </item>
