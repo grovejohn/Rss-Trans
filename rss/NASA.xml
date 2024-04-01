@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Mon, 01 Apr 2024 21:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2024 21:35:36 GMT</lastBuildDate>
+    <item>
+      <title>日食资源</title>
+      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/solar-eclipse-resources/</link>
+      <description><![CDATA[2024 年 4 月 8 日，一场壮观的日食将席卷北美！享受太平洋天文学会的这些免费资源！]]></description>
+      <guid>https://science.nasa.gov/solar-system/skywatching/night-sky-network/solar-eclipse-resources/</guid>
+      <pubDate>Mon, 01 Apr 2024 20:40:35 GMT</pubDate>
+    </item>
     <item>
       <title>亚历克斯·博拉夫专访</title>
       <link>https://www.nasa.gov/general/interview-with-alex-borlaff/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[四月是 NASA 的公民科学月。以下是您在 4 月 8 日日食期间及之后参与的一些项目！]]></description>
       <guid>https://science.nasa.gov/solar-system/skywatching/night-sky-network/participate-in-eclipse-science/</guid>
       <pubDate>Mon, 01 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新动态：2024 年 3 月 NASA 的天空观测提示</title>
-      <link>https://science.nasa.gov/solar-system/skywatching/whats-up-march-2024-skywatching-tips-from-nasa/</link>
-      <description><![CDATA[3 月 14 日，木星掠过昴宿星团，有机会在月底看到水星以及微妙的月食，还有一颗值得关注的彗星！]]></description>
-      <guid>https://science.nasa.gov/solar-system/skywatching/whats-up-march-2024-skywatching-tips-from-nasa/</guid>
-      <pubDate>Fri, 29 Mar 2024 22:57:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
