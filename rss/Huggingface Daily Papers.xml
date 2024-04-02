@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 02 Apr 2024 14:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 15:12:05 GMT</lastBuildDate>
     <item>
       <title>正确做法：提高文本到图像模型的空间一致性</title>
       <link>https://arxiv.org/abs/2404.01197</link>
@@ -34,7 +34,7 @@
       <pubDate>Tue, 02 Apr 2024 05:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>MaGRITTe：从图像、顶视图和文本中进行操作和生成 3D 实现</title>
+      <title>MaGRITTe：从图像、俯视图和文本中进行操作和生成 3D 实现</title>
       <link>https://arxiv.org/abs/2404.00345</link>
       <description><![CDATA[根据用户指定的条件生成 3D 场景为减轻 3D 应用中的制作负担提供了一条有前途的途径。由于控制条件有限，之前的研究需要付出巨大的努力才能实现所需的场景。我们提出了一种使用部分图像、顶视图中表示的布局信息和文本提示在多模态条件下控制和生成 3D 场景的方法。结合这些条件来生成 3D 场景涉及以下重大困难：(1) 大型数据集的创建，(2) 反映多模态条件的交互，以及 (3) 布局条件的域依赖性。我们将 3D 场景生成过程分解为根据给定条件生成 2D 图像和根据 2D 图像生成 3D 场景。 2D 图像生成是通过使用部分图像和布局的小型人工数据集微调预训练的文本到图像模型来实现的，3D 场景生成是通过布局条件深度估计和神经辐射场 (NeRF) 来实现的，从而避免了大型数据集的创建。使用 360 度图像的空间信息的通用表示允许考虑多模态条件交互并减少布局控制的域依赖性。实验结果定性和定量地表明，所提出的方法可以根据多模态条件生成从室内到室外的不同领域的 3D 场景。]]></description>
       <guid>https://arxiv.org/abs/2404.00345</guid>
