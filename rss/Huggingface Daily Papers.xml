@@ -3,12 +3,12 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 02 Apr 2024 10:35:48 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 02 Apr 2024 11:11:07 GMT</lastBuildDate>
     <item>
       <title>正确做法：提高文本到图像模型的空间一致性</title>
       <link>https://arxiv.org/abs/2404.01197</link>
-      <description><![CDATA[当前文本到图像（T2I）模型的主要缺点之一是它们无法一致地生成忠实遵循文本提示中指定的空间关系的图像。在本文中，我们对这一限制进行了全面的研究，同时还开发了实现最先进性能的数据集和方法。首先，我们发现当前的视觉语言数据集不能很好地表示空间关系；为了缓解这一瓶颈，我们通过重新描述来自 4 个广泛使用的视觉数据集的 600 万张图像，创建了 SPRIGHT，这是第一个以空间为中心的大型数据集。通过三重评估和分析流程，我们发现 SPRIGHT 在捕获空间关系方面极大地改进了现有数据集。为了证明其功效，我们仅利用约 0.25% 的 SPRIGHT，在生成空间精确图像方面实现了 22% 的改进，同时还提高了 FID 和 CMMD 分数。其次，我们发现对包含大量对象的图像进行训练可以显着提高空间一致性。值得注意的是，通过对 &lt;500 张图像进行微调，我们在 T2I-CompBench 上达到了最先进的水平，空间得分为 0.2133。最后，通过一组受控实验和消融，我们记录了多项发现，我们相信这些发现将增强对影响文本到图像模型空间一致性的因素的理解。我们公开发布我们的数据集和模型，以促进该领域的进一步研究。]]></description>
+      <description><![CDATA[当前文本到图像（T2I）模型的主要缺点之一是它们无法一致地生成忠实遵循文本提示中指定的空间关系的图像。在本文中，我们对这一限制进行了全面的研究，同时还开发了实现最先进性能的数据集和方法。首先，我们发现当前的视觉语言数据集不能很好地表示空间关系；为了缓解这一瓶颈，我们通过重新描述来自 4 个广泛使用的视觉数据集的 600 万张图像，创建了 SPRIGHT，这是第一个以空间为中心的大型数据集。通过三重评估和分析流程，我们发现 SPRIGHT 在捕获空间关系方面大大改进了现有数据集。为了证明其功效，我们仅利用约 0.25% 的 SPRIGHT，在生成空间精确图像方面实现了 22% 的改进，同时还提高了 FID 和 CMMD 分数。其次，我们发现对包含大量对象的图像进行训练可以显着提高空间一致性。值得注意的是，通过对 &lt;500 张图像进行微调，我们在 T2I-CompBench 上达到了最先进的水平，空间得分为 0.2133。最后，通过一组受控实验和消融，我们记录了多项发现，我们相信这些发现将增强对影响文本到图像模型空间一致性的因素的理解。我们公开发布我们的数据集和模型，以促进该领域的进一步研究。]]></description>
       <guid>https://arxiv.org/abs/2404.01197</guid>
       <pubDate>Tue, 02 Apr 2024 05:41:30 GMT</pubDate>
     </item>
