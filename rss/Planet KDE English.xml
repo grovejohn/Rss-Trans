@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 02 Apr 2024 10:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 12:48:05 GMT</lastBuildDate>
+    <item>
+      <title>Qt 6.7 发布了！</title>
+      <link>https://www.qt.io/blog/qt-6.7-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt 6.7 为我们所有喜欢在构建现代应用程序和用户体验时享受乐趣的人带来了许多大大小小的改进。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-6.7-released?utm_source=atom_feed</guid>
+      <pubDate>Tue, 02 Apr 2024 09:54:53 GMT</pubDate>
+    </item>
     <item>
       <title>SoK 2024 - 通过 GUI 将包管理功能从 RKWard 实现到 Cantor</title>
       <link>https://mentorship.kde.org/blog/2024-02-14-cantor/?utm_source=atom_feed</link>
@@ -135,13 +146,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/03/29/web-review-week-2024-13/?utm_source=atom_feed</guid>
       <pubDate>Fri, 29 Mar 2024 12:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSSGIS 会议 2024</title>
-      <link>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 29 Mar 2024 06:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
