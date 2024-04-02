@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 01 Apr 2024 22:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 10:35:44 GMT</lastBuildDate>
+    <item>
+      <title>SoK 2024 - 通过 GUI 将包管理功能从 RKWard 实现到 Cantor</title>
+      <link>https://mentorship.kde.org/blog/2024-02-14-cantor/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://mentorship.kde.org/blog/2024-02-14-cantor/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>马克笔记1.1.0</title>
       <link>https://carlschwan.eu/2024/04/01/marknote-1.1.0/?utm_source=atom_feed</link>
@@ -135,13 +142,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/03/29/osm-fossgis-conference-2024.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 29 Mar 2024 06:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marknote终于发布了！</title>
-      <link>https://blogs.kde.org/2024/03/29/marknote-finally-released/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 的 WYSIWYG 笔记应用程序 Marknote 终于准备好首次发布了。 Marknote 可让您创建富文本注释并轻松将它们整理到笔记本中。您可以通过为每个笔记本选择图标和强调色来个性化您的笔记本，从而轻松区分它们并使笔记触手可及。]]></description>
-      <guid>https://blogs.kde.org/2024/03/29/marknote-finally-released/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 29 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
