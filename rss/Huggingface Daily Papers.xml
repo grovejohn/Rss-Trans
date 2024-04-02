@@ -3,8 +3,29 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 02 Apr 2024 07:13:39 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 02 Apr 2024 09:13:08 GMT</lastBuildDate>
+    <item>
+      <title>正确做法：提高文本到图像模型的空间一致性</title>
+      <link>https://arxiv.org/abs/2404.01197</link>
+      <description><![CDATA[当前文本到图像（T2I）模型的主要缺点之一是它们无法一致地生成忠实遵循文本提示中指定的空间关系的图像。在本文中，我们对这一限制进行了全面的研究，同时还开发了实现最先进性能的数据集和方法。首先，我们发现当前的视觉语言数据集不能很好地表示空间关系；为了缓解这一瓶颈，我们通过重新描述来自 4 个广泛使用的视觉数据集的 600 万张图像，创建了 SPRIGHT，这是第一个以空间为中心的大型数据集。通过三重评估和分析流程，我们发现 SPRIGHT 在捕获空间关系方面大大改进了现有数据集。为了证明其功效，我们仅利用约 0.25% 的 SPRIGHT，在生成空间精确图像方面实现了 22% 的改进，同时还提高了 FID 和 CMMD 分数。其次，我们发现对包含大量对象的图像进行训练可以显着提高空间一致性。值得注意的是，通过对 &lt;500 张图像进行微调，我们在 T2I-CompBench 上达到了最先进的水平，空间得分为 0.2133。最后，通过一组受控实验和消融，我们记录了多项发现，我们相信这些发现将增强对影响文本到图像模型空间一致性的因素的理解。我们公开发布我们的数据集和模型，以促进该领域的进一步研究。]]></description>
+      <guid>https://arxiv.org/abs/2404.01197</guid>
+      <pubDate>Tue, 02 Apr 2024 05:41:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>FlexiDreamer：使用 FlexiCube 生成单一图像到 3D</title>
+      <link>https://arxiv.org/abs/2404.00987</link>
+      <description><![CDATA[最近，通过文本提示或单个图像生成 3D 内容在质量和速度方面取得了显着进步。其主要范例之一涉及生成一致的多视图图像，然后进行稀疏视图重建。然而，由于直接变形网格表示以接近目标拓扑的挑战，大多数方法在稀疏视图重建期间学习隐式表示（例如 NeRF），并通过后处理提取来获取目标网格。尽管隐式表示可以有效地对丰富的 3D 信息进行建模，但其训练通常需要较长的收敛时间。此外，从隐式场中进行的后提取操作也会导致不良的视觉伪影。在本文中，我们提出了 FlexiDreamer，一种新颖的单图像到 3D 生成框架，它以端到端的方式重建目标网格。通过利用灵活的基于梯度的提取（称为 FlexiCubes），我们的方法避免了后处理带来的缺陷，并有助于直接获取目标网格。此外，我们采用了多分辨率哈希网格编码方案，该方案逐步将编码级别激活到 FlexiCube 中的隐式字段中，以帮助捕获每步优化的几何细节。值得注意的是，FlexiDreamer 在单个 NVIDIA A100 GPU 上大约 1 分钟内从单视图图像中恢复密集的 3D 结构，大大优于以前的方法。]]></description>
+      <guid>https://arxiv.org/abs/2404.00987</guid>
+      <pubDate>Tue, 02 Apr 2024 05:22:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自语言模型奖励的视频大型多模态模型的直接偏好优化</title>
+      <link>https://arxiv.org/abs/2404.01258</link>
+      <description><![CDATA[偏好建模技术，例如直接偏好优化（DPO），在增强大语言模型（LLM）的泛化能力方面已被证明是有效的。然而，在涉及遵循视频指令的任务中，提供信息反馈，尤其是检测生成的响应中的幻觉，仍然是一个重大挑战。先前的研究已经探索使用大型多模态模型（LMM）作为奖励模型来指导偏好建模，但它们准确评估生成的响应与相应视频相比的真实性的能力尚未最终确定。本文介绍了一种新颖的框架，该框架利用详细的视频字幕作为视频内容的代理，使语言模型能够将此信息合并为视频问答（QA）预测评分的支持证据。我们的方法展示了与 OpenAI GPT-4V 模型的奖励机制的稳健一致性，该机制直接将视频帧作为输入。此外，我们还表明，通过 DPO 应用这种定制奖励可以显着提高视频 LMM 在视频 QA 任务上的性能。]]></description>
+      <guid>https://arxiv.org/abs/2404.01258</guid>
+      <pubDate>Tue, 02 Apr 2024 05:17:22 GMT</pubDate>
+    </item>
     <item>
       <title>用于受控图像生成的条件感知神经网络</title>
       <link>https://arxiv.org/abs/2404.01143</link>
