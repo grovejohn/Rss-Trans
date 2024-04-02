@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 02 Apr 2024 16:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 17:13:21 GMT</lastBuildDate>
+    <item>
+      <title>医疗费用变得如此之大，医疗保险不得不在表格上添加两位额外的数字</title>
+      <link>https://arstechnica.com/?p=2014290</link>
+      <description><![CDATA[此前，一些医生必须将账单除以 10 并提交 10 份索赔才能覆盖费用。]]></description>
+      <guid>https://arstechnica.com/?p=2014290</guid>
+      <pubDate>Tue, 02 Apr 2024 16:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>危险识别软件无法理解袋鼠</title>
+      <link>https://arstechnica.com/?p=2014220</link>
+      <description><![CDATA[澳大利亚正在转向虚拟围栏来减少汽车袋鼠的影响。]]></description>
+      <guid>https://arstechnica.com/?p=2014220</guid>
+      <pubDate>Tue, 02 Apr 2024 16:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉交付量同比下降 8.5%，为 2020 年以来首次下降</title>
+      <link>https://arstechnica.com/?p=2014264</link>
+      <description><![CDATA[特斯拉股价今天继续下跌，2024 年将下跌 33%。]]></description>
+      <guid>https://arstechnica.com/?p=2014264</guid>
+      <pubDate>Tue, 02 Apr 2024 15:59:29 GMT</pubDate>
+    </item>
     <item>
       <title>美国和英国签署了以英特尔共享协议为蓝本的人工智能协议</title>
       <link>https://arstechnica.com/?p=2014246</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[律师称之为“历史性的一步”，谷歌认为并不那么“重要”。]]></description>
       <guid>https://arstechnica.com/?p=2014074</guid>
       <pubDate>Mon, 01 Apr 2024 19:11:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 承认数据泄露影响了 7300 万当前和前用户</title>
-      <link>https://arstechnica.com/?p=2014073</link>
-      <description><![CDATA[数据泄露影响了 760 万 AT&amp;T 当前用户和 6540 万前用户。]]></description>
-      <guid>https://arstechnica.com/?p=2014073</guid>
-      <pubDate>Mon, 01 Apr 2024 19:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redis 的许可证变更和分叉一团糟，每个人都会感到难过</title>
-      <link>https://arstechnica.com/?p=2014018</link>
-      <description><![CDATA[云公司希望 Redis 版本仍可以托管服务转售。]]></description>
-      <guid>https://arstechnica.com/?p=2014018</guid>
-      <pubDate>Mon, 01 Apr 2024 17:47:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 播客将于明天（4 月 2 日）关闭</title>
-      <link>https://arstechnica.com/?p=2014008</link>
-      <description><![CDATA[在 Google 搜索中构建播客播放器一直是一个奇怪的计划。]]></description>
-      <guid>https://arstechnica.com/?p=2014008</guid>
-      <pubDate>Mon, 01 Apr 2024 17:37:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
