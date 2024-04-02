@@ -4,76 +4,20 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 02 Apr 2024 06:16:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 06:36:57 GMT</lastBuildDate>
     <item>
-      <title>本地化语言模型中的段落记忆</title>
-      <link>https://arxiv.org/abs/2403.19851</link>
-      <description><![CDATA[我们能否本地化语言模型用于记忆和背诵其训练数据的整个段落的权重和机制？在本文中，我们表明，虽然记忆分布在多个层和模型组件中，但记忆段落的梯度具有可区分的空间模式，在较低模型层中比未记忆示例的梯度更大。此外，可以通过仅微调高梯度权重来忘记记忆的示例。我们定位了一个低层注意力头，它似乎特别参与段落记忆。该头主要将注意力集中在语料库级一元分布中最不常见的独特、稀有标记上。接下来，我们通过扰动标记并测量解码中引起的变化来研究前缀中标记的本地化记忆如何。前缀中早期的一些独特标记通常会破坏整个延续。总体而言，记忆的延续不仅更难忘记，而且比未记忆的延续更容易损坏。]]></description>
-      <guid>https://arxiv.org/abs/2403.19851</guid>
-      <pubDate>Mon, 01 Apr 2024 05:20:00 GMT</pubDate>
+      <title>用于受控图像生成的条件感知神经网络</title>
+      <link>https://arxiv.org/abs/2404.01143</link>
+      <description><![CDATA[我们提出了条件感知神经网络（CAN），这是一种向图像生成模型添加控制的新方法。与现有的条件控制方法并行，CAN 通过动态操纵神经网络的权重来控制图像生成过程。这是通过引入条件感知权重生成模块来实现的，该模块根据输入条件为卷积/线性层生成条件权重。我们在 ImageNet 上测试 CAN 的类条件图像生成，在 COCO 上测试文本到图像生成。 CAN 始终如一地为扩散变压器模型（包括 DiT 和 UViT）提供显着改进。特别是，CAN 与 EfficientViT (CaT) 相结合，在 ImageNet 512x512 上实现了 2.78 FID，超越了 DiT-XL/2，同时每个采样步骤所需的 MAC 数量减少了 52 倍。]]></description>
+      <guid>https://arxiv.org/abs/2404.01143</guid>
+      <pubDate>Tue, 02 Apr 2024 05:13:44 GMT</pubDate>
     </item>
     <item>
-      <title>Transformer-Lite：大型语言模型在手机GPU上的高效部署</title>
-      <link>https://arxiv.org/abs/2403.20041</link>
-      <description><![CDATA[大语言模型（LLM）广泛应用于智能助理、文本摘要、翻译和手机上的多模态等任务。然而，当前设备上LLM部署方法的推理速度较慢，导致用户体验较差。为了促进设备 GPU 上高效的 LLM 部署，我们提出了四种优化技术：（a）基于符号表达式的方法来支持动态形状模型推理； (b) 操作员优化和执行优先级设置，以提高推理速度并减少手机延迟； (c) 称为 M0E4 的 FP4 量化方法，用于减少反量化开销； (d) 基于子张量的技术，无需在 LLM 推理后复制 KV 缓存。此外，我们在移动推理引擎 Transformer-Lite 中实现了这些方法，该引擎与 Qualcomm 和 MTK 处理器兼容。我们使用具有从 2B 到 14B 不同架构和参数的 LLM 评估了 Transformer-Lite 的性能。具体来说，我们在 ChatGLM2 6B 中分别实现了 121 个令牌/秒和 14 个令牌/秒的预填充和解码速度，在较小的 Gemma 2B 中分别实现了 330 个令牌/秒和 30 个令牌/秒。与基于CPU的FastLLM和基于GPU的MLC-LLM相比，我们的引擎在预填充速度方面获得了超过10倍的加速，在解码速度方面获得了2~3倍的加速。]]></description>
-      <guid>https://arxiv.org/abs/2403.20041</guid>
-      <pubDate>Mon, 01 Apr 2024 05:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>MambaMixer：具有双令牌和通道选择的高效选择性状态空间模型</title>
-      <link>https://arxiv.org/abs/2403.19888</link>
-      <description><![CDATA[由于 Transformer 的数据依赖性和大规模学习能力，深度学习的最新进展主要依赖于 Transformer。然而，这些架构中的注意力模块在输入大小上表现出二次时间和空间，限制了它们长序列建模的可扩展性。尽管最近尝试为多维数据（例如图像和多元时间序列）设计高效且有效的架构主干，但现有模型要么是数据独立的，要么无法允许维度间和维度内通信。最近，状态空间模型（SSM），更具体地说是选择性状态空间模型，具有高效的硬件感知实现，在长序列建模方面表现出了巨大的潜力。受 SSM 成功的激励，我们推出了 MambaMixer，这是一种具有数据相关权重的新架构，它使用跨令牌和通道的双重选择机制，称为选择性令牌和通道混合器。 MambaMixer 使用加权平均机制连接选择性混合器，允许各层直接访问早期特征。作为概念验证，我们基于 MambaMixer 模块设计了 Vision MambaMixer (ViM2) 和 Time Series MambaMixer (TSM2) 架构，并探索了它们在各种视觉和时间序列预测任务中的性能。我们的结果强调了跨代币和渠道选择性混合的重要性。在 ImageNet 分类、​​目标检测和语义分割任务中，ViM2 凭借成熟的视觉模型实现了具有竞争力的性能，并且优于基于 SSM 的视觉模型。在时间序列预测中，与最先进的方法相比，TSM2 实现了出色的性能，同时显着降低了计算成本。这些结果表明，虽然 Transformer、跨渠道注意力和 MLP 足以在时间序列预测中获得良好的性能，但两者都不是必要的。]]></description>
-      <guid>https://arxiv.org/abs/2403.19888</guid>
-      <pubDate>Mon, 01 Apr 2024 05:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>DiJiang：通过紧凑内核化实现高效的大型语言模型</title>
-      <link>https://arxiv.org/abs/2403.19928</link>
-      <description><![CDATA[为了减少 Transformer 的计算负载，线性注意力的研究取得了巨大的进展。然而，注意力机制的改进策略通常需要大量的再训练，这对于具有大量参数的大型语言模型来说是不切实际的。在本文中，我们提出了 DiJiang，一种新颖的频域核化方法，可以将预训练的普通 Transformer 转换为线性复杂度模型，且训练成本极低。通过采用加权准蒙特卡罗方法进行采样，该方法理论上提供了优越的逼近效率。为了进一步降低训练计算复杂度，我们的核化基于离散余弦变换（DCT）运算。大量实验表明，所提出的方法实现了与原始 Transformer 相当的性能，但训练成本显着降低，推理速度更快。我们的 DiJiang-7B 在各种基准测试中都达到了与 LLaMA2-7B 相当的性能，而仅需要约 1/50 的训练成本。代码可在 https://github.com/YuchuanTian/DiJiang 获取。]]></description>
-      <guid>https://arxiv.org/abs/2403.19928</guid>
-      <pubDate>Mon, 01 Apr 2024 05:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gecko：从大型语言模型中提取的多功能文本嵌入</title>
-      <link>https://arxiv.org/abs/2403.20327</link>
-      <description><![CDATA[我们推出了 Gecko，一种紧凑且多功能的文本嵌入模型。 Gecko 通过利用一个关键思想实现了强大的检索性能：将大型语言模型 (LLM) 中的知识提取到检索器中。我们的两步蒸馏过程首先使用法学硕士生成多样化的合成配对数据。接下来，我们通过检索每个查询的一组候选段落，并使用相同的 LLM 重新标记正向和硬负向段落，进一步细化数据质量。 Gecko 的紧凑性证明了我们方法的有效性。在大规模文本嵌入基准 (MTEB) 上，嵌入尺寸为 256 的 Gecko 优于嵌入尺寸为 768 的所有现有条目。具有 768 个嵌入维度的 Gecko 平均得分为 66.31，与大 7 倍的模型和高 5 倍维度的嵌入竞争。]]></description>
-      <guid>https://arxiv.org/abs/2403.20327</guid>
-      <pubDate>Mon, 01 Apr 2024 04:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jamba：混合 Transformer-Mamba 语言模型</title>
-      <link>https://arxiv.org/abs/2403.19887</link>
-      <description><![CDATA[我们推出了 Jamba，这是一种基于新型混合 Transformer-Mamba 专家混合 (MoE) 架构的新基础大型语言模型。具体来说，Jamba 将 Transformer 层和 Mamba 层的块交错在一起，享受这两个模型系列的优点。 MoE 添加到其中一些层中，以提高模型容量，同时保持活动参数使用的可控性。这种灵活的架构允许特定于资源和目标的配置。在我们实现的特定配置中，我们最终得到了一个适合单个 80GB GPU 的强大模型。与普通 Transformer 相比，Jamba 是大规模构建的，可提供高吞吐量和较小的内存占用，同时在标准语言模型基准测试和长上下文评估上具有最先进的性能。值得注意的是，该模型在高达 256K 令牌上下文长度的情况下呈现出强劲的结果。我们研究了各种架构决策，例如如何组合 Transformer 和 Mamba 层，以及如何混合专家，并表明其中一些决策对于大规模建模至关重要。我们还描述了 Jamba 的训练和评估所揭示的这些架构的几个有趣的属性，并计划从各种消融运行中发布检查点，以鼓励进一步探索这种新颖的架构。我们在许可下公开 Jamba 实施的权重。]]></description>
-      <guid>https://arxiv.org/abs/2403.19887</guid>
-      <pubDate>Mon, 01 Apr 2024 03:49:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>InstantSplat：40 秒内无界稀疏视图无姿势高斯泼溅</title>
-      <link>https://arxiv.org/abs/2403.20309</link>
-      <description><![CDATA[虽然新颖的视图合成 (NVS) 在 3D 计算机视觉领域取得了实质性进展，但它通常需要从密集视点对相机内部和外部进行初步估计。这种预处理通常通过运动结构 (SfM) 管道进行，该过程可能缓慢且不可靠，特别是在匹配特征不足以进行精确重建的稀疏视图场景中。在这项工作中，我们将基于点的表示（例如 3D Gaussian Splatting、3D-GS）的优势与端到端密集立体模型（DUSt3R）相结合，以解决无约束设置下 NVS 中复杂但尚未解决的问题，这包括无姿势和稀疏视图挑战。我们的框架 InstantSplat 将密集立体先验与 3D-GS 相结合，从稀疏视图和稀疏视图中构建大规模场景的 3D 高斯模型。不到 1 分钟即可获得无姿势图像。具体来说，InstantSplat 包含一个粗略几何初始化 (CGI) 模块，该模块利用从预训练的密集立体管道导出的全局对齐 3D 点图，快速建立所有训练视图中的初步场景结构和相机参数。接下来是快速 3D 高斯优化 (F-3DGO) 模块，该模块通过姿势正则化联合优化 3D 高斯属性和初始化姿势。在大型户外坦克和大型坦克上进行的实验Temples 数据集表明，InstantSplat 显着改进了 SSIM（提高了 32%），同时将绝对轨迹误差 (ATE) 降低了 80%。这些使 InstantSplat 成为涉及无姿势和稀疏视图条件的场景的可行解决方案。项目页面：instantsplat.github.io。]]></description>
-      <guid>https://arxiv.org/abs/2403.20309</guid>
-      <pubDate>Mon, 01 Apr 2024 03:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snap-it、Tap-it、Splat-it：用于重建具有挑战性的表面的触觉通知 3D 高斯喷射</title>
-      <link>https://arxiv.org/abs/2403.20275</link>
-      <description><![CDATA[触觉和视觉齐头并进，共同增强我们理解世界的能力。从研究的角度来看，混合触觉和视觉的问题尚未得到充分探索，并提出了有趣的挑战。为此，我们提出了触觉信息 3DGS，这是一种将触摸数据（局部深度图）与多视图视觉数据相结合的新颖方法，以实现表面重建和新颖的视图合成。我们的方法优化了 3D 高斯基元，以准确地对接触点处的物体几何形状进行建模。通过创建一个降低触摸位置透射率的框架，我们实现了精细的表面重建，确保了均匀平滑的深度图。在考虑非朗伯物体（例如闪亮或反射表面）时，触摸特别有用，因为当代方法往往无法以保真度镜面高光进行重建。通过将视觉和触觉传感相结合，我们用比以前的方法更少的图像实现了更准确的几何重建。我们对具有光泽和反射表面的物体进行评估，并证明我们方法的有效性，从而显着提高重建质量。]]></description>
-      <guid>https://arxiv.org/abs/2403.20275</guid>
-      <pubDate>Mon, 01 Apr 2024 03:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法解决的问题检测：评估视觉语言模型的可信度</title>
-      <link>https://arxiv.org/abs/2403.20331</link>
-      <description><![CDATA[本文介绍了视觉语言模型 (VLM) 的一项新颖且重大的挑战，称为不可解决问题检测 (UPD)。 UPD 检查 VLM 在视觉问答 (VQA) 任务中遇到无法解决的问题时保留答案的能力。 UPD 包含三种不同的设置：缺席答案检测 (AAD)、不兼容答案集检测 (IASD) 和不兼容视觉问题检测 (IVQD)。为了深入研究 UPD 问题，大量实验表明，大多数 VLM（包括 GPT-4V 和 LLaVA-Next-34B）都在不同程度上与我们的基准测试相悖，凸显了巨大的改进空间。为了解决 UPD 问题，我们探索了免培训和基于培训的解决方案，并对其有效性和局限性提供了新的见解。我们希望我们的见解以及未来在拟议的 UPD 设置中的努力将增强对更实用和可靠的 VLM 的更广泛的理解和开发。]]></description>
-      <guid>https://arxiv.org/abs/2403.20331</guid>
-      <pubDate>Mon, 01 Apr 2024 03:12:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>ReALM：参考解析作为语言建模</title>
-      <link>https://arxiv.org/abs/2403.20329</link>
-      <description><![CDATA[参考解析是一个重要的问题，对于理解和成功处理不同类型的上下文至关重要。此上下文包括先前的轮次和与非会话实体相关的上下文，例如用户屏幕上的实体或在后台运行的实体。虽然法学硕士已被证明对于各种任务都非常强大，但它们在参考解析中的使用，特别是对于非会话实体，仍然没有得到充分利用。本文通过展示如何将引用解析转换为语言建模问题，展示了如何使用法学硕士来创建一个极其有效的系统来解析各种类型的引用，尽管涉及到传统上不利于解决问题的屏幕上的实体形式。被简化为纯文本模式。我们展示了对不同类型参考具有类似功能的现有系统的巨大改进，我们最小的模型在屏幕参考上获得了超过 5% 的绝对增益。我们还针对 GPT-3.5 和 GPT-4 进行了基准测试，我们最小的模型实现了与 GPT-4 相当的性能，而我们较大的模型则远远优于 GPT-4。]]></description>
-      <guid>https://arxiv.org/abs/2403.20329</guid>
-      <pubDate>Mon, 01 Apr 2024 03:07:34 GMT</pubDate>
+      <title>MaGRITTe：从图像、俯视图和文本中进行操作和生成 3D 实现</title>
+      <link>https://arxiv.org/abs/2404.00345</link>
+      <description><![CDATA[根据用户指定的条件生成 3D 场景为减轻 3D 应用中的制作负担提供了一条有前途的途径。由于控制条件有限，之前的研究需要付出巨大的努力才能实现所需的场景。我们提出了一种使用部分图像、顶视图中表示的布局信息和文本提示在多模态条件下控制和生成 3D 场景的方法。结合这些条件来生成 3D 场景涉及以下重大困难：(1) 大型数据集的创建，(2) 反映多模态条件的交互，以及 (3) 布局条件的域依赖性。我们将 3D 场景生成过程分解为根据给定条件生成 2D 图像和根据 2D 图像生成 3D 场景。 2D 图像生成是通过使用部分图像和布局的小型人工数据集微调预训练的文本到图像模型来实现的，3D 场景生成是通过布局条件深度估计和神经辐射场 (NeRF) 来实现的，从而避免了大型数据集的创建。使用 360 度图像的空间信息的通用表示允许考虑多模态条件交互并减少布局控制的域依赖性。实验结果定性和定量地表明，所提出的方法可以根据多模态条件生成从室内到室外的不同领域的 3D 场景。]]></description>
+      <guid>https://arxiv.org/abs/2404.00345</guid>
+      <pubDate>Tue, 02 Apr 2024 05:10:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
