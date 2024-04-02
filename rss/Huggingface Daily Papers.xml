@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 02 Apr 2024 04:14:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 04:37:04 GMT</lastBuildDate>
     <item>
       <title>本地化语言模型中的段落记忆</title>
       <link>https://arxiv.org/abs/2403.19851</link>
@@ -15,14 +15,14 @@
     <item>
       <title>Transformer-Lite：大型语言模型在手机GPU上的高效部署</title>
       <link>https://arxiv.org/abs/2403.20041</link>
-      <description><![CDATA[大语言模型（LLM）广泛应用于智能助理、文本摘要、翻译和手机上的多模态等任务。然而，当前设备上LLM部署方法的推理速度较慢，导致用户体验较差。为了促进设备 GPU 上高效的 LLM 部署，我们提出了四种优化技术：（a）基于符号表达式的方法来支持动态形状模型推理； (b) 操作员优化和执行优先级设置，以提高推理速度并减少手机延迟； (c) 称为 M0E4 的 FP4 量化方法，用于减少反量化开销； (d) 基于子张量的技术，无需在 LLM 推理后复制 KV 缓存。此外，我们在移动推理引擎 Transformer-Lite 中实现了这些方法，该引擎与 Qualcomm 和 MTK 处理器兼容。我们使用具有从 2B 到 14B 不同架构和参数的 LLM 评估了 Transformer-Lite 的性能。具体来说，我们在 ChatGLM2 6B 中分别实现了 121 个令牌/秒和 14 个令牌/秒的预填充和解码速度，在较小的 Gemma 2B 中分别实现了 330 个令牌/秒和 30 个令牌/秒。与基于CPU的FastLLM和基于GPU的MLC-LLM相比，我们的引擎在预填充速度方面获得了超过10倍的加速，在解码速度方面获得了2~3倍的加速。]]></description>
+      <description><![CDATA[大语言模型（LLM）广泛应用于智能助理、文本摘要、翻译和手机上的多模态等任务。然而，目前设备上LLM部署方法的推理速度较慢，导致用户体验较差。为了促进设备 GPU 上高效的 LLM 部署，我们提出了四种优化技术：（a）基于符号表达式的方法来支持动态形状模型推理； (b) 操作员优化和执行优先级设置，以提高推理速度并减少手机延迟； (c) 称为 M0E4 的 FP4 量化方法，用于减少反量化开销； (d) 基于子张量的技术，无需在 LLM 推理后复制 KV 缓存。此外，我们在移动推理引擎 Transformer-Lite 中实现了这些方法，该引擎与 Qualcomm 和 MTK 处理器兼容。我们使用具有从 2B 到 14B 不同架构和参数的 LLM 评估了 Transformer-Lite 的性能。具体来说，我们在 ChatGLM2 6B 中分别实现了 121 个令牌/秒和 14 个令牌/秒的预填充和解码速度，在较小的 Gemma 2B 中分别实现了 330 个令牌/秒和 30 个令牌/秒。与基于CPU的FastLLM和基于GPU的MLC-LLM相比，我们的引擎在预填充速度方面获得了超过10倍的加速，在解码速度方面获得了2~3倍的加速。]]></description>
       <guid>https://arxiv.org/abs/2403.20041</guid>
       <pubDate>Mon, 01 Apr 2024 05:11:50 GMT</pubDate>
     </item>
     <item>
       <title>MambaMixer：具有双令牌和通道选择的高效选择性状态空间模型</title>
       <link>https://arxiv.org/abs/2403.19888</link>
-      <description><![CDATA[由于 Transformer 的数据依赖性和大规模学习能力，深度学习的最新进展主要依赖于 Transformer。然而，这些架构中的注意力模块在输入大小上表现出二次时间和空间，限制了它们长序列建模的可扩展性。尽管最近尝试为多维数据（例如图像和多元时间序列）设计高效且有效的架构主干，但现有模型要么是数据独立的，要么无法允许维度间和维度内通信。最近，状态空间模型（SSM），更具体地说是选择性状态空间模型，具有高效的硬件感知实现，在长序列建模方面表现出了巨大的潜力。受 SSM 成功的激励，我们推出了 MambaMixer，这是一种具有数据相关权重的新架构，它使用跨令牌和通道的双重选择机制，称为选择性令牌和通道混合器。 MambaMixer 使用加权平均机制连接选择性混合器，允许各层直接访问早期特征。作为概念验证，我们基于 MambaMixer 模块设计了 Vision MambaMixer (ViM2) 和 Time Series MambaMixer (TSM2) 架构，并探索了它们在各种视觉和时间序列预测任务中的性能。我们的结果强调了跨代币和渠道选择性混合的重要性。在 ImageNet 分类、​​目标检测和语义分割任务中，ViM2 凭借成熟的视觉模型实现了具有竞争力的性能，并且优于基于 SSM 的视觉模型。在时间序列预测中，与最先进的方法相比，TSM2 实现了出色的性能，同时显着降低了计算成本。这些结果表明，虽然 Transformer、跨渠道注意力和 MLP 足以在时间序列预测中获得良好的性能，但两者都不是必要的。]]></description>
+      <description><![CDATA[深度学习的最新进展主要依赖于 Transformer，因为它们的数据依赖性和大规模学习的能力。然而，这些架构中的注意力模块在输入大小上表现出二次时间和空间，限制了它们长序列建模的可扩展性。尽管最近尝试为多维数据（例如图像和多元时间序列）设计高效且有效的架构主干，但现有模型要么是数据独立的，要么无法允许维度间和维度内通信。最近，状态空间模型（SSM），更具体地说是选择性状态空间模型，具有高效的硬件感知实现，在长序列建模方面表现出了巨大的潜力。受 SSM 成功的激励，我们推出了 MambaMixer，这是一种具有数据相关权重的新架构，它使用跨令牌和通道的双重选择机制，称为选择性令牌和通道混合器。 MambaMixer 使用加权平均机制连接选择性混合器，允许各层直接访问早期特征。作为概念验证，我们基于 MambaMixer 模块设计了 Vision MambaMixer (ViM2) 和 Time Series MambaMixer (TSM2) 架构，并探索了它们在各种视觉和时间序列预测任务中的性能。我们的结果强调了跨代币和渠道选择性混合的重要性。在 ImageNet 分类、​​目标检测和语义分割任务中，ViM2 凭借成熟的视觉模型实现了具有竞争力的性能，并且优于基于 SSM 的视觉模型。在时间序列预测中，与最先进的方法相比，TSM2 实现了出色的性能，同时显着降低了计算成本。这些结果表明，虽然 Transformer、跨渠道注意力和 MLP 足以在时间序列预测中获得良好的性能，但两者都不是必要的。]]></description>
       <guid>https://arxiv.org/abs/2403.19888</guid>
       <pubDate>Mon, 01 Apr 2024 05:05:01 GMT</pubDate>
     </item>
