@@ -4,7 +4,21 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Tue, 02 Apr 2024 19:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Apr 2024 20:12:37 GMT</lastBuildDate>
+    <item>
+      <title>NASA 航空月刊 STEM 通讯</title>
+      <link>https://www.nasa.gov/general/nasa-aeronautics-monthly-stem-newsletter/</link>
+      <description><![CDATA[2024 年 NASA 航空 STEM 月刊通讯：第 35 期 NASA 航空 STEM 月刊通讯：第 34 期 航空 STEM]]></description>
+      <guid>https://www.nasa.gov/general/nasa-aeronautics-monthly-stem-newsletter/</guid>
+      <pubDate>Tue, 02 Apr 2024 19:32:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>月球周围宇航员的家</title>
+      <link>https://www.nasa.gov/image-article/a-home-for-astronauts-around-the-moon/</link>
+      <description><![CDATA[Gateway 空间站的 HALO（居住和后勤前哨站）模块是 Gateway 的两个居住单元之一，宇航员将在其中居住、进行科学研究并为月球表面任务做准备，在意大利都灵完成焊接后，距离发射又近了一步。这张 2023 年 10 月 23 日的图像中显示的 HALO 接下来将经历一系列[…]]]></description>
+      <guid>https://www.nasa.gov/image-article/a-home-for-astronauts-around-the-moon/</guid>
+      <pubDate>Tue, 02 Apr 2024 19:11:21 GMT</pubDate>
+    </item>
     <item>
       <title>Veronica T. Pinnick 完成 NASA 的 PACE 任务</title>
       <link>https://www.nasa.gov/missions/pace/veronica-t-pinnick-put-nasas-pace-mission-through-its-paces/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>科学家利用美国宇航局数据预测日食前的日冕</title>
       <link>https://science.nasa.gov/solar-system/skywatching/scientists-use-nasa-data-to-predict-solar-corona-before-eclipse/</link>
-      <description><![CDATA[我们的太阳，像许多星星一样，戴着一顶王冠。它被称为日冕（拉丁语，意为“王冠”或“花环”），由从太阳表面滚滚而出的长而线状的等离子体线组成。太阳强大的磁场定义了这些股线，使它们产生波纹并不断演化其结构。这些股线是[…]]]></description>
+      <description><![CDATA[我们的太阳，像许多星星一样，戴着一顶王冠。它被称为日冕（拉丁语，意为“王冠”或“花环”），由从太阳表面滚滚而出的长线状等离子体组成。太阳强大的磁场定义了这些股线，使它们产生波纹并不断演化其结构。这些股线是[…]]]></description>
       <guid>https://science.nasa.gov/solar-system/skywatching/scientists-use-nasa-data-to-predict-solar-corona-before-eclipse/</guid>
       <pubDate>Tue, 02 Apr 2024 17:54:01 GMT</pubDate>
     </item>
@@ -57,23 +71,9 @@
     <item>
       <title>日食资源</title>
       <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/solar-eclipse-resources/</link>
-      <description><![CDATA[2024 年 4 月 8 日，一场壮观的日食将席卷北美！享受太平洋天文学会提供的这些免费资源！]]></description>
+      <description><![CDATA[2024 年 4 月 8 日，一场壮观的日食将席卷北美！享受太平洋天文学会的这些免费资源！]]></description>
       <guid>https://science.nasa.gov/solar-system/skywatching/night-sky-network/solar-eclipse-resources/</guid>
       <pubDate>Mon, 01 Apr 2024 20:40:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚历克斯·博拉夫专访</title>
-      <link>https://www.nasa.gov/general/interview-with-alex-borlaff/</link>
-      <description><![CDATA[好的，我们通常从您的早年、童年、您来自哪里以及当时的家庭情况开始。你在哪里长大，我想是在西班牙吧？你有兄弟姐妹吗？你的父母是做什么的，之类的。 在你生命中多久[…]]]></description>
-      <guid>https://www.nasa.gov/general/interview-with-alex-borlaff/</guid>
-      <pubDate>Mon, 01 Apr 2024 20:39:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的“日食观察”工具可随时显示太空中的日食</title>
-      <link>https://science.nasa.gov/solar-system/skywatching/new-eclipse-watch-tool-shows-eclipses-from-space-any-time/</link>
-      <description><![CDATA[您希望每天都能看到日全食吗？借助名为 Eclipse Watch 的新在线工具，您可以在我们倒计时地球上的下一次日全食时，通过来自太空的类似日食的图像实时观察太阳的外层大气或日冕。新的 Helioviewer Eclipse 观察数据 [...]]]></description>
-      <guid>https://science.nasa.gov/solar-system/skywatching/new-eclipse-watch-tool-shows-eclipses-from-space-any-time/</guid>
-      <pubDate>Mon, 01 Apr 2024 19:07:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
