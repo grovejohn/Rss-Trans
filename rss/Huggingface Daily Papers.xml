@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 03 Apr 2024 13:14:52 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 03 Apr 2024 13:35:29 GMT</lastBuildDate>
     <item>
       <title>3D 凝结：野外 3D 感知图像对齐</title>
       <link>https://arxiv.org/abs/2404.02125</link>
@@ -71,7 +71,7 @@
     <item>
       <title>长情境法学硕士在长时间的情境学习中苦苦挣扎</title>
       <link>https://arxiv.org/abs/2404.02060</link>
-      <description><![CDATA[大型语言模型 (LLM) 在处理超过 32K 标记的长序列方面取得了重大进展。然而，他们的绩效评估在很大程度上仅限于困惑度和综合任务等指标，这些指标可能无法完全捕捉他们在更细致的现实场景中的能力。这项研究引入了一个专门的基准（LIConBench），专注于极端标签分类领域内的长期上下文学习。我们精心选择了 6 个数据集，其标签范围涵盖 28 到 174 个类别，涵盖从 2K 到 50K 的不同输入（少量演示）长度。我们的基准要求法学硕士理解整个输入，识别大量标签空间，从而做出正确的预测。我们根据基准评估了 13 个长背景法学硕士。我们发现长上下文 LLM 在 20K 的 token 长度下表现相对较好，并且性能受益于利用长上下文窗口。然而，上下文窗口超过 20K 后，除 GPT-4 之外的大多数 LLM 都会急剧下降。这表明当前法学硕士在处理和理解长的、上下文丰富的序列方面的能力存在显着差距。进一步的分析揭示了模型倾向于预测序列末尾出现的标签的趋势。他们对长序列中的多个片段进行推理的能力还有待提高。我们的研究表明，对于现有的法学硕士来说，长上下文理解和推理仍然是一项具有挑战性的任务。我们相信 LIConBench 可以为未来的长期背景法学硕士提供更现实的评估。]]></description>
+      <description><![CDATA[大型语言模型 (LLM) 在处理超过 32K 标记的长序列方面取得了重大进展。然而，他们的绩效评估很大程度上局限于复杂度和综合任务等指标，这些指标可能无法完全捕捉他们在更细致的现实场景中的能力。这项研究引入了一个专门的基准（LIConBench），专注于极端标签分类领域内的长期上下文学习。我们精心选择了 6 个数据集，其标签范围涵盖 28 到 174 个类别，涵盖从 2K 到 50K 的不同输入（少量演示）长度。我们的基准要求法学硕士理解整个输入，识别大量标签空间，从而做出正确的预测。我们根据基准评估了 13 个长背景法学硕士。我们发现长上下文 LLM 在 20K 的 token 长度下表现相对较好，并且性能受益于利用长上下文窗口。然而，上下文窗口超过 20K 后，除 GPT-4 之外的大多数 LLM 都会急剧下降。这表明当前法学硕士在处理和理解长的、上下文丰富的序列方面的能力存在显着差距。进一步的分析揭示了模型倾向于预测序列末尾出现的标签的趋势。他们对长序列中的多个片段进行推理的能力还有待提高。我们的研究表明，对于现有的法学硕士来说，长上下文理解和推理仍然是一项具有挑战性的任务。我们相信 LIConBench 可以为未来的长期背景法学硕士提供更现实的评估。]]></description>
       <guid>https://arxiv.org/abs/2404.02060</guid>
       <pubDate>Wed, 03 Apr 2024 02:15:18 GMT</pubDate>
     </item>
