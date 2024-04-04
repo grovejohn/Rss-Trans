@@ -4,7 +4,14 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 04 Apr 2024 08:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 08:36:16 GMT</lastBuildDate>
+    <item>
+      <title>Freditor：通过频率分解进行高保真且可转移的 NeRF 编辑</title>
+      <link>https://arxiv.org/abs/2404.02514</link>
+      <description><![CDATA[本文通过频率分解实现了高保真、可转移的 NeRF 编辑。最近的 NeRF 编辑管道将 2D 风格化结果提升到 3D 场景，但结果模糊，并且由于 2D 编辑之间的不一致而无法捕获详细结构。我们的重要见解是，与高频部分相比，编辑后图像的低频部分更具多视图一致性。而且外观风格主要表现在低频部分，内容细节尤其集中在高频部分。这促使我们对低频成分进行编辑，从而产生高保真的编辑场景。此外，编辑是在低频特征空间中进行的，可以实现稳定的强度控制和新颖的场景传输。在真实感数据集上进行的综合实验证明了高保真和可转移 NeRF 编辑的卓越性能。项目页面位于 https://aigc3d.github.io/freditor。]]></description>
+      <guid>https://arxiv.org/abs/2404.02514</guid>
+      <pubDate>Thu, 04 Apr 2024 06:11:51 GMT</pubDate>
+    </item>
     <item>
       <title>作为编译器的语言模型：模拟伪代码执行改进语言模型中的算法推理</title>
       <link>https://arxiv.org/abs/2404.02575</link>

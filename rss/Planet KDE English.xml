@@ -4,7 +4,36 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Apr 2024 08:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 08:36:09 GMT</lastBuildDate>
+    <item>
+      <title>简化嵌入式软件开发策略</title>
+      <link>https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 04 Apr 2024 08:00:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Qt 和 KWin 中实现 xdg-dialog-v1</title>
+      <link>https://blog.david-redondo.de/kde/wayland/qt/2024/04/04/xdg-dialog.html?utm_source=atom_feed</link>
+      <description><![CDATA[如果您使用过中等复杂的应用程序，那么您很可能会
+与所谓的“模式”对话框进行交互。模态对话框是这样的对话框
+要求您先关闭/解决它，然后才能继续与主要交互
+应用程序窗口。这可以由应用程序以简单的方式实现
+方式，但合成器不知道对话框是否是模态的。
+到目前为止，这是新的 xdg-dialog-v1 协议
+允许应用程序标记它们的
+对话框为模态或非模态。这允许合成器调整其行为
+根据这个提示。例如，当尝试激活主窗口时，它可以
+而是激活模式对话框。它还使 KWin 能够使用变暗效果
+在 Wayland 的父窗口上。
+我在 KWin 中实现了对该协议的支持
+和 Qt 这将是一部分
+分别是 Plasma 6.1 和 Qt 6.8 版本。该协议是从创建的
+Carlos Garnacho 在 GTK 和 Mutter 中的功能，我很高兴看到整体
+Wayland 生态系统现在能够从中受益。]]></description>
+      <guid>https://blog.david-redondo.de/kde/wayland/qt/2024/04/04/xdg-dialog.html?utm_source=atom_feed</guid>
+      <pubDate>Thu, 04 Apr 2024 06:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kubuntu品牌平面设计大赛截止日期延长！</title>
       <link>https://kubuntu.org/news/kubuntu-brand-graphic-design-contest-deadline-extended/?utm_source=atom_feed</link>
@@ -143,20 +172,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed</guid>
       <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>等离子 6 和我</title>
-      <link>https://akselmo.dev/posts/plasma-6-and-me/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://akselmo.dev/posts/plasma-6-and-me/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：期待 Plasma 6.1</title>
-      <link>https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/03/29/this-week-in-kde-looking-forward-towards-plasma-6-1/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 30 Mar 2024 05:23:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
