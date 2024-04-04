@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Apr 2024 08:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Apr 2024 10:35:26 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 13 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-13-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 13 发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-13-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 04 Apr 2024 10:11:07 GMT</pubDate>
+    </item>
     <item>
       <title>简化嵌入式软件开发策略</title>
       <link>https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed</link>
@@ -124,7 +132,7 @@ download.kde .org
 对您的 QML 和 Kirigami 应用程序有用的组件集合。
 表单卡
 我添加了一个新的 FormCard 委托：FormColorDelegate，它允许选择
-颜色和一个新的委托容器：FormCardDialog，这是一种新型的
+颜色和新的委托容器：FormCardDialog，这是一种新型的
 对话框。
 &lt;图&gt;
 
@@ -165,13 +173,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 31 Mar 2024 09:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我 2024 年 3 月在 KDE 的工作</title>
-      <link>https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://redstrate.com/blog/2024/03/my-work-in-kde-for-march-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 31 Mar 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
