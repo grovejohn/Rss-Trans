@@ -4,7 +4,21 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Apr 2024 16:37:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 10:35:43 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，2024-14 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 05 Apr 2024 09:22:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Qt 中嵌入 Servo Web 引擎</title>
+      <link>https://www.kdab.com/embedding-servo-in-qt/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/embedding-servo-in-qt/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 05 Apr 2024 08:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>简化嵌入式软件开发策略</title>
       <link>https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed</link>
@@ -52,7 +66,7 @@ Wayland 生态系统现在能够从中受益。]]></description>
 延长提交截止日期：2024 年 4 月 6 日星期六 23:59Kubuntu 理事会审核：2024 年 4 月 7 日星期日结果公布：2024 年 4 月 8 日星期一 20:00 UTC
 结果将通过 Kubuntu 网站上的更新公布，敬请关注！
 此扩展是我们对 Kubuntu 社区的巨大努力和参与表示感谢的方式。我们希望确保每个希望做出贡献的人都有机会这样做。无论您是要对设计进行最后的润色还是刚刚开始，现在都是您参与塑造 Kubuntu 视觉未来的机会。
-我们期待看到您的创意理念和设计。让我们通过这次比赛来展示我们社区的才华和热情。祝所有参与者好运，感谢你们使 Kubuntu 不仅成为一个强大的 Linux 发行版，而且成为一个充满活力的社区。
+我们期待看到您的创意概念和设计。让我们通过这次比赛来展示我们社区的才华和热情。祝所有参与者好运，并感谢你们使 Kubuntu 不仅成为一个强大的 Linux 发行版，而且成为一个充满活力的社区。
 有关竞赛详细信息、提交指南以及提交您的作品，请访问我们网站上的官方 Kubuntu 品牌平面设计竞赛页面。让我们一起创造一些令人惊奇的东西！
 Kubuntu 理事会
 其他信息可在原始 Kubuntu 平面设计竞赛帖子中找到
@@ -159,20 +173,6 @@ download.kde.org
 它已使用我的 GPG 密钥 进行签名。]]></description>
       <guid>https://carlschwan.eu/2024/04/01/kirigami-addons-1.1.0/?utm_source=atom_feed</guid>
       <pubDate>Mon, 01 Apr 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>xz-utils 妥协的人际方面</title>
-      <link>http://dilfridge.blogspot.com/2024/04/the-interpersonal-side-of-xz-utils.html?utm_source=atom_feed</link>
-      <description><![CDATA[当大家忙着分析最近发现 xz-utils 妥协 目前正在震撼互联网，值得研究一下使这种妥协成为可能的潜在非技术问题。可以找到一篇非常好的文章Rob Mensching 的博客...”开源项目中交互的缩影&quot;]]></description>
-      <guid>http://dilfridge.blogspot.com/2024/04/the-interpersonal-side-of-xz-utils.html?utm_source=atom_feed</guid>
-      <pubDate>Mon, 01 Apr 2024 14:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是费多拉？您需要知道的一切...</title>
-      <link>https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://eiosifidis.blogspot.com/2023/08/ti-einai-to-fedora-ti-prepei-na-gnorizete.html?utm_source=atom_feed</guid>
-      <pubDate>Sun, 31 Mar 2024 09:37:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
