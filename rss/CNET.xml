@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Fri, 05 Apr 2024 04:18:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 10:14:17 GMT</lastBuildDate>
+    <item>
+      <title>Momentum Solar 评论：优点多于缺点 - CNET</title>
+      <link>https://www.cnet.com/home/energy-and-utilities/momentum-solar-review/#ftag=CAD590a51e</link>
+      <description><![CDATA[Momentum Solar 在太阳能行业已经存在很长时间了，他们提供完整的客户体验。了解他们是否在您所在的州运营。]]></description>
+      <guid>https://www.cnet.com/home/energy-and-utilities/momentum-solar-review/#ftag=CAD590a51e</guid>
+      <pubDate>Fri, 05 Apr 2024 08:46:02 GMT</pubDate>
+    </item>
     <item>
       <title>今天的 Wordle 提示和解答：4 月 5 日的帮助，#1021 - CNET</title>
       <link>https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-5-1021/#ftag=CAD590a51e</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[纸牌游戏的价格和质量范围很广。我去了以前从未去过的地方，睡在近 900 美元的床单上，看看奢华意味着什么。]]></description>
       <guid>https://www.cnet.com/health/sleep/should-you-buy-800-sheets-i-slept-on-some-to-see-if-theyre-worth-your-money/#ftag=CAD590a51e</guid>
       <pubDate>Thu, 04 Apr 2024 22:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>传闻苹果 iPhone 16 Pro 的屏幕边框会更薄 - CNET</title>
-      <link>https://www.cnet.com/tech/mobile/apples-iphone-16-pro-rumored-to-have-thinner-screen-bezels/#ftag=CAD590a51e</link>
-      <description><![CDATA[据报道，预计今年秋季推出的下一代 iPhone 的某些型号将配备新型屏幕，可以对其边框设计进行调整。]]></description>
-      <guid>https://www.cnet.com/tech/mobile/apples-iphone-16-pro-rumored-to-have-thinner-screen-bezels/#ftag=CAD590a51e</guid>
-      <pubDate>Thu, 04 Apr 2024 21:34:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

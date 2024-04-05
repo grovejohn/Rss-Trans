@@ -4,11 +4,11 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 05 Apr 2024 09:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 10:14:01 GMT</lastBuildDate>
     <item>
       <title>RALL-E：具有文本转语音合成思想链提示的鲁棒编解码器语言建模</title>
       <link>https://arxiv.org/abs/2404.03204</link>
-      <description><![CDATA[我们提出了 RALL-E，一种用于文本转语音 (TTS) 合成的强大语言建模方法。虽然之前基于大语言模型 (LLM) 的工作在零样本 TTS 上表现出了令人印象深刻的性能，但此类方法通常稳健性较差，例如韵律不稳定（怪异的音高和节奏/持续时间）和较高的单词错误率 (WER)，由于语言模型的自回归预测风格。 RALL-E背后的核心思想是思想链（CoT）提示，它将任务分解为更简单的步骤，以增强基于LLM的TTS的稳健性。为了实现这个想法，RALL-E 首先预测输入文本的韵律特征（音高和持续时间），并将它们用作中间条件来预测 CoT 风格的语音标记。其次，RALL-E利用预测的持续时间提示来指导Transformer中自注意力权重的计算，以强制模型在预测语音标记时关注相应的音素和韵律特征。综合客观和主观评估的结果表明，与强大的基线方法 VALL-E 相比，RALL-E 显着提高了零样本 TTS 的 WER，从 6.3%（没有重新排序）和 2.1%（有重新排序）提高到 2.8%，并且分别为 1.0%。此外，我们证明 RALL-E 可以正确合成 VALL-E 难以理解的句子，并将错误率从 68% 降低到 4%。]]></description>
+      <description><![CDATA[我们提出了 RALL-E，一种用于文本到语音 (TTS) 合成的强大语言建模方法。虽然之前基于大语言模型 (LLM) 的工作在零样本 TTS 上表现出了令人印象深刻的性能，但此类方法通常稳健性较差，例如韵律不稳定（怪异的音高和节奏/持续时间）和较高的单词错误率 (WER)，由于语言模型的自回归预测风格。 RALL-E背后的核心思想是思想链（CoT）提示，它将任务分解为更简单的步骤，以增强基于LLM的TTS的稳健性。为了实现这个想法，RALL-E 首先预测输入文本的韵律特征（音调和持续时间），并将它们用作中间条件来预测 CoT 风格的语音标记。其次，RALL-E利用预测的持续时间提示来指导Transformer中自注意力权重的计算，以强制模型在预测语音标记时关注相应的音素和韵律特征。综合客观和主观评估的结果表明，与强大的基线方法 VALL-E 相比，RALL-E 显着提高了零样本 TTS 的 WER，从 6.3%（没有重新排序）和 2.1%（有重新排序）提高到 2.8%，并且分别为 1.0%。此外，我们证明 RALL-E 可以正确合成 VALL-E 难以理解的句子，并将错误率从 68% 降低到 4%。]]></description>
       <guid>https://arxiv.org/abs/2404.03204</guid>
       <pubDate>Fri, 05 Apr 2024 03:00:34 GMT</pubDate>
     </item>
@@ -50,21 +50,21 @@
     <item>
       <title>AutoWebGLM：引导和强化基于大型语言模型的 Web 导航代理</title>
       <link>https://arxiv.org/abs/2404.03648</link>
-      <description><![CDATA[大型语言模型 (LLM) 推动了许多智能代理任务，例如网络导航，但由于以下三个因素，大多数现有代理在现实网页中的表现远远不能令人满意：(1) 网页上操作的多功能性，(2) HTML 文本超出模型处理能力，以及 (3) 由于 Web 的开放域性质而导致决策的复杂性。鉴于这一挑战，我们开发了 AutoWebGLM，这是一种基于 ChatGLM3-6B 构建的、性能优于 GPT-4 的自动 Web 导航代理。受人类浏览模式的启发，我们设计了一种 HTML 简化算法来表示网页，简洁地保留重要信息。我们采用人类与人工智能混合的方法来构建用于课程培训的网络浏览数据。然后，我们通过强化学习和拒绝采样来引导模型，以进一步促进网页理解、浏览器操作和高效的任务分解。为了进行测试，我们为现实世界的网页浏览任务建立了一个双语基准——AutoWebBench。我们通过不同的网络导航基准评估 AutoWebGLM，揭示其改进，但也揭示了应对真实环境的潜在挑战。相关代码、模型和数据将在https://github.com/THUDM/AutoWebGLM发布。]]></description>
+      <description><![CDATA[大型语言模型 (LLM) 推动了许多智能代理任务，例如网络导航，但由于以下三个因素，大多数现有代理在现实网页中的表现远不能令人满意：(1) 网页上操作的多功能性，(2) HTML 文本超出模型处理能力，以及 (3) 由于 Web 的开放域性质而导致决策的复杂性。鉴于这一挑战，我们开发了 AutoWebGLM，这是一种基于 ChatGLM3-6B 构建的、性能优于 GPT-4 的自动 Web 导航代理。受人类浏览模式的启发，我们设计了一种 HTML 简化算法来表示网页，简洁地保留重要信息。我们采用混合人类人工智能方法来构建用于课程培训的网络浏览数据。然后，我们通过强化学习和拒绝采样来引导模型，以进一步促进网页理解、浏览器操作和高效的任务分解。为了进行测试，我们为现实世界的网页浏览任务建立了一个双语基准——AutoWebBench。我们通过不同的网络导航基准评估 AutoWebGLM，揭示其改进，但也揭示了应对真实环境的潜在挑战。相关代码、模型和数据将在https://github.com/THUDM/AutoWebGLM发布。]]></description>
       <guid>https://arxiv.org/abs/2404.03648</guid>
       <pubDate>Fri, 05 Apr 2024 02:39:20 GMT</pubDate>
     </item>
     <item>
       <title>红队 GPT-4V：GPT-4V 能否安全抵御单/多模式越狱攻击？</title>
       <link>https://arxiv.org/abs/2404.03411</link>
-      <description><![CDATA[针对大型语言模型 (LLM) 的红队提出了各种越狱攻击，并揭示了 LLM 的脆弱保护措施。此外，一些方法不限于文本模态，通过扰乱视觉输入将越狱攻击扩展到多模态大型语言模型（MLLM）。然而，缺乏通用的评估基准使性能再现和公平比较变得复杂。此外，缺乏对闭源最先进（SOTA）模型的全面评估，特别是MLLM，例如GPT-4V。为了解决这些问题，这项工作首先构建了一个全面的越狱评估数据集，其中包含涵盖 11 种不同安全政策的 1445 个有害问题。基于此数据集，对 11 个不同的 LLM 和 MLLM 进行了广泛的红队实验，包括 SOTA 专有模型和开源模型。然后，我们对评估结果进行深入分析，发现（1）与开源 LLM 和 MLLM 相比，GPT4 和 GPT-4V 表现出更好的针对越狱攻击的鲁棒性。 (2) 与其他开源模型相比，Llama2 和 Qwen-VL-Chat 更加稳健。 (3)与文本越狱方法相比，视觉越狱方法的可移植性相对有限。数据集和代码可以在这里找到 https://anonymous.4open.science/r/red_teaming_gpt4-C1CE/README.md 。]]></description>
+      <description><![CDATA[人们对大型语言模型 (LLM) 进行了各种越狱攻击，并揭示了 LLM 的脆弱保护措施。此外，一些方法不限于文本模态，通过扰乱视觉输入将越狱攻击扩展到多模态大型语言模型（MLLM）。然而，缺乏通用的评估基准使性能再现和公平比较变得复杂。此外，缺乏对闭源最先进（SOTA）模型的全面评估，特别是MLLM，例如GPT-4V。为了解决这些问题，这项工作首先构建了一个全面的越狱评估数据集，其中包含涵盖 11 种不同安全政策的 1445 个有害问题。基于此数据集，对 11 个不同的 LLM 和 MLLM 进行了广泛的红队实验，包括 SOTA 专有模型和开源模型。然后，我们对评估结果进行深入分析，发现（1）与开源 LLM 和 MLLM 相比，GPT4 和 GPT-4V 表现出更好的针对越狱攻击的鲁棒性。 (2) 与其他开源模型相比，Llama2 和 Qwen-VL-Chat 更加稳健。 (3)与文本越狱方法相比，视觉越狱方法的可移植性相对有限。数据集和代码可以在这里找到 https://anonymous.4open.science/r/red_teaming_gpt4-C1CE/README.md 。]]></description>
       <guid>https://arxiv.org/abs/2404.03411</guid>
       <pubDate>Fri, 05 Apr 2024 02:35:20 GMT</pubDate>
     </item>
     <item>
       <title>CodeEditorBench：评估大型语言模型的代码编辑能力</title>
       <link>https://arxiv.org/abs/2404.03543</link>
-      <description><![CDATA[代码的大型语言模型 (LLM) 正在迅速发展，代码编辑逐渐成为一项关键功能。我们推出了 CodeEditorBench，这是一个评估框架，旨在严格评估法学硕士在代码编辑任务中的表现，包括调试、翻译、润色和需求切换。与仅关注代码生成的现有基准测试不同，CodeEditorBench 强调软件开发的真实场景和实际方面。我们从五个来源策划各种编码挑战和场景，涵盖各种编程语言、复杂程度和编辑任务。对 19 个法学硕士的评估表明，闭源模型（特别是 Gemini-Ultra 和 GPT-4）在 CodeEditorBench 中的表现优于开源模型，突出了基于问题类型和提示敏感性的模型性能差异。 CodeEditorBench 旨在通过提供一个用于评估代码编辑能力的强大平台来促进法学硕士的进步。我们将发布所有提示和数据集，以使社区能够扩展数据集并对新兴法学硕士进行基准测试。通过引入 CodeEditorBench，我们为法学硕士在代码编辑方面的进步做出了贡献，并为研究人员和从业者提供了宝贵的资源。]]></description>
+      <description><![CDATA[代码的大型语言模型 (LLM) 正在迅速发展，代码编辑逐渐成为一项关键功能。我们推出了 CodeEditorBench，这是一个评估框架，旨在严格评估法学硕士在代码编辑任务中的表现，包括调试、翻译、润色和需求切换。与仅关注代码生成的现有基准测试不同，CodeEditorBench 强调软件开发的真实场景和实际方面。我们从五个来源策划各种编码挑战和场景，涵盖各种编程语言、复杂程度和编辑任务。对 19 个法学硕士的评估表明，闭源模型（特别是 Gemini-Ultra 和 GPT-4）在 CodeEditorBench 中的性能优于开源模型，突出了基于问题类型和提示敏感性的模型性能差异。 CodeEditorBench 旨在通过提供一个用于评估代码编辑能力的强大平台来促进法学硕士的进步。我们将发布所有提示和数据集，以使社区能够扩展数据集并对新兴法学硕士进行基准测试。通过引入 CodeEditorBench，我们为法学硕士在代码编辑方面的进步做出了贡献，并为研究人员和从业者提供了宝贵的资源。]]></description>
       <guid>https://arxiv.org/abs/2404.03543</guid>
       <pubDate>Fri, 05 Apr 2024 02:32:28 GMT</pubDate>
     </item>
