@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 05 Apr 2024 14:35:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Apr 2024 16:37:32 GMT</lastBuildDate>
     <item>
       <title>Qt Creator 13 - CMake 更新</title>
       <link>https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed</link>
@@ -57,6 +57,13 @@ KDE：运行命令
       <pubDate>Fri, 05 Apr 2024 08:00:03 GMT</pubDate>
     </item>
     <item>
+      <title>显式同步</title>
+      <link>https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>简化嵌入式软件开发策略</title>
       <link>https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -103,24 +110,13 @@ Wayland 生态系统现在能够从中受益。]]></description>
 延长提交截止日期：2024 年 4 月 6 日星期六 23:59Kubuntu 理事会审核：2024 年 4 月 7 日星期日结果公布：2024 年 4 月 8 日星期一 20:00 UTC
 结果将通过 Kubuntu 网站上的更新公布，敬请关注！
 此扩展是我们对 Kubuntu 社区的巨大努力和参与表示感谢的方式。我们希望确保每个希望做出贡献的人都有机会这样做。无论您是要对设计进行最后的润色还是刚刚开始，现在都是您参与塑造 Kubuntu 视觉未来的机会。
-我们期待看到您的创意概念和设计。让我们通过这次比赛来展示我们社区的才华和热情。祝所有参与者好运，并感谢你们使 Kubuntu 不仅成为一个强大的 Linux 发行版，而且成为一个充满活力的社区。
+我们期待看到您的创意理念和设计。让我们通过这次比赛来展示我们社区的才华和热情。祝所有参与者好运，感谢你们使 Kubuntu 不仅成为一个强大的 Linux 发行版，而且成为一个充满活力的社区。
 有关竞赛详细信息、提交指南以及提交您的作品，请访问我们网站上的官方 Kubuntu 品牌平面设计竞赛页面。让我们一起创造一些令人惊奇的东西！
 Kubuntu 理事会
 其他信息可在原始 Kubuntu 平面设计竞赛帖子中找到
 立即申请：竞赛页面]]></description>
       <guid>https://kubuntu.org/news/kubuntu-brand-graphic-design-contest-deadline-extended/?utm_source=atom_feed</guid>
       <pubDate>Wed, 03 Apr 2024 05:28:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 6.7 发布了！</title>
-      <link>https://www.qt.io/blog/qt-6.7-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt 6.7 为我们所有喜欢在构建现代应用程序和用户体验时享受乐趣的人带来了许多大大小小的改进。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-6.7-released?utm_source=atom_feed</guid>
-      <pubDate>Tue, 02 Apr 2024 09:54:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
