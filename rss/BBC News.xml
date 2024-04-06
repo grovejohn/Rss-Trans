@@ -4,7 +4,14 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 06 Apr 2024 08:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 08:36:59 GMT</lastBuildDate>
+    <item>
+      <title>风暴凯瑟琳将为一些人带来大风和迄今为止最温暖的一天</title>
+      <link>https://www.bbc.com/weather/articles/c876zjmr25yo</link>
+      <description><![CDATA[在经历了最近的潮湿天气之后，随着风暴凯瑟琳袭击英国，本周末将变得非常温暖和多风。]]></description>
+      <guid>https://www.bbc.com/weather/articles/c876zjmr25yo</guid>
+      <pubDate>Sat, 06 Apr 2024 08:36:11 GMT</pubDate>
+    </item>
     <item>
       <title>大使馆遭袭后墨西哥与厄瓜多尔断绝关系</title>
       <link>https://www.bbc.co.uk/news/world-latin-america-68748011</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[纽约市及其周边地区发生了 4.8 级地震，这是该地区几十年来最严重的地震。]]></description>
       <guid>https://www.bbc.co.uk/news/world-us-canada-68744775</guid>
       <pubDate>Fri, 05 Apr 2024 18:11:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>风暴凯瑟琳将为一些人带来大风和迄今为止最温暖的一天</title>
-      <link>https://www.bbc.com/weather/articles/c876zjmr25yo</link>
-      <description><![CDATA[在经历了最近的潮湿天气之后，随着风暴凯瑟琳袭击英国，本周末将变得非常温暖和多风。]]></description>
-      <guid>https://www.bbc.com/weather/articles/c876zjmr25yo</guid>
-      <pubDate>Fri, 05 Apr 2024 12:43:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
