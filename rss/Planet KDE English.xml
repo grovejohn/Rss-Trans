@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 06 Apr 2024 04:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Apr 2024 06:36:34 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：Spectacle 中真正的仅修改器快捷方式和裁剪</title>
+      <link>https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 06 Apr 2024 04:56:26 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Creator 13 - CMake 更新</title>
       <link>https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed</link>
@@ -98,14 +105,6 @@ Wayland 生态系统现在能够从中受益。]]></description>
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/monthly-update-14/?utm_source=atom_feed</guid>
       <pubDate>Thu, 04 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 13 发布</title>
-      <link>https://www.qt.io/blog/qt-creator-13-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Qt Creator 13 发布！
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-13-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 03 Apr 2024 22:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
