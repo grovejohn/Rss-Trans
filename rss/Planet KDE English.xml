@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 07 Apr 2024 04:35:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 08:35:05 GMT</lastBuildDate>
     <item>
       <title>KDE 二月/三月行程</title>
       <link>https://www.volkerkrause.eu/2024/04/06/kde-itinerary-february-march-2024.html?utm_source=atom_feed</link>
@@ -39,7 +39,7 @@ KDE：运行命令
 我的解决方案是使用文本转语音 (TTS) 引擎。我已经使用 语音调度程序 设置了 语音调度程序 rhasspy/piper&quot; target=&quot;_blank&quot;&gt;piper-tts 在我的系统上。当提醒触发时，它会显示：“Andreas，10 分钟后您有一个约会：桑巴会议”。
 你可以找到我使用的python脚本这里。
 无限可能
-机会无穷无尽。以下是您还可以做的一些想法：
+用它来做很酷的事情的机会是无穷无尽的。以下是您还可以做的一些想法：
 
 在会议之前启动您的会议/会议申请
 在会议前更改桌面活动
