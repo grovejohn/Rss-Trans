@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 07 Apr 2024 03:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Apr 2024 03:36:52 GMT</lastBuildDate>
     <item>
       <title>RALL-E：具有文本转语音合成思想链提示的鲁棒编解码器语言建模</title>
       <link>https://arxiv.org/abs/2404.03204</link>
@@ -64,7 +64,7 @@
     <item>
       <title>CodeEditorBench：评估大型语言模型的代码编辑能力</title>
       <link>https://arxiv.org/abs/2404.03543</link>
-      <description><![CDATA[代码的大型语言模型 (LLM) 正在迅速发展，代码编辑逐渐成为一项关键功能。我们推出了 CodeEditorBench，这是一个评估框架，旨在严格评估法学硕士在代码编辑任务中的表现，包括调试、翻译、润色和需求切换。与仅关注代码生成的现有基准测试不同，CodeEditorBench 强调软件开发的真实场景和实际方面。我们从五个来源策划各种编码挑战和场景，涵盖各种编程语言、复杂程度和编辑任务。对 19 个法学硕士的评估表明，闭源模型（特别是 Gemini-Ultra 和 GPT-4）在 CodeEditorBench 中的表现优于开源模型，突出了基于问题类型和提示敏感性的模型性能差异。 CodeEditorBench 旨在通过提供一个用于评估代码编辑能力的强大平台来促进法学硕士的进步。我们将发布所有提示和数据集，以使社区能够扩展数据集并对新兴法学硕士进行基准测试。通过引入 CodeEditorBench，我们为法学硕士在代码编辑方面的进步做出了贡献，并为研究人员和从业者提供了宝贵的资源。]]></description>
+      <description><![CDATA[代码的大型语言模型 (LLM) 正在迅速发展，代码编辑逐渐成为一项关键功能。我们推出了 CodeEditorBench，这是一个评估框架，旨在严格评估法学硕士在代码编辑任务中的表现，包括调试、翻译、润色和需求切换。与仅关注代码生成的现有基准测试不同，CodeEditorBench 强调软件开发的真实场景和实际方面。我们从五个来源策划各种编码挑战和场景，涵盖各种编程语言、复杂程度和编辑任务。对 19 个法学硕士的评估表明，闭源模型（特别是 Gemini-Ultra 和 GPT-4）在 CodeEditorBench 中的性能优于开源模型，突出了基于问题类型和提示敏感性的模型性能差异。 CodeEditorBench 旨在通过提供一个用于评估代码编辑能力的强大平台来促进法学硕士的进步。我们将发布所有提示和数据集，以使社区能够扩展数据集并对新兴法学硕士进行基准测试。通过引入 CodeEditorBench，我们为法学硕士在代码编辑方面的进步做出了贡献，并为研究人员和从业者提供了宝贵的资源。]]></description>
       <guid>https://arxiv.org/abs/2404.03543</guid>
       <pubDate>Fri, 05 Apr 2024 02:32:28 GMT</pubDate>
     </item>
