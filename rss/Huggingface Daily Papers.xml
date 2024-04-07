@@ -3,12 +3,12 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 07 Apr 2024 02:38:11 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sun, 07 Apr 2024 03:13:30 GMT</lastBuildDate>
     <item>
       <title>RALL-E：具有文本转语音合成思想链提示的鲁棒编解码器语言建模</title>
       <link>https://arxiv.org/abs/2404.03204</link>
-      <description><![CDATA[我们提出了 RALL-E，一种用于文本到语音 (TTS) 合成的强大语言建模方法。虽然之前基于大语言模型 (LLM) 的工作在零样本 TTS 上表现出了令人印象深刻的性能，但此类方法通常稳健性较差，例如韵律不稳定（怪异的音高和节奏/持续时间）和较高的单词错误率 (WER)，由于语言模型的自回归预测风格。 RALL-E背后的核心思想是思想链（CoT）提示，它将任务分解为更简单的步骤，以增强基于LLM的TTS的稳健性。为了实现这个想法，RALL-E 首先预测输入文本的韵律特征（音高和持续时间），并将它们用作中间条件来预测 CoT 风格的语音标记。其次，RALL-E利用预测的持续时间提示来指导Transformer中自注意力权重的计算，以强制模型在预测语音标记时关注相应的音素和韵律特征。综合客观和主观评估的结果表明，与强大的基线方法 VALL-E 相比，RALL-E 显着提高了零样本 TTS 的 WER，从 6.3%（没有重新排序）和 2.1%（有重新排序）提高到 2.8%，并且分别为 1.0%。此外，我们证明 RALL-E 可以正确合成 VALL-E 难以理解的句子，并将错误率从 68% 降低到 4%。]]></description>
+      <description><![CDATA[我们提出了 RALL-E，一种用于文本到语音 (TTS) 合成的强大语言建模方法。虽然之前基于大语言模型 (LLM) 的工作在零样本 TTS 上表现出了令人印象深刻的性能，但此类方法往往鲁棒性较差，例如韵律不稳定（怪异的音高和节奏/持续时间）和较高的单词错误率 (WER)，由于语言模型的自回归预测风格。 RALL-E背后的核心思想是思想链（CoT）提示，它将任务分解为更简单的步骤，以增强基于LLM的TTS的稳健性。为了实现这个想法，RALL-E 首先预测输入文本的韵律特征（音高和持续时间），并将它们用作中间条件来预测 CoT 风格的语音标记。其次，RALL-E利用预测的持续时间提示来指导Transformer中自注意力权重的计算，以强制模型在预测语音标记时关注相应的音素和韵律特征。综合客观和主观评估的结果表明，与强大的基线方法 VALL-E 相比，RALL-E 显着提高了零样本 TTS 的 WER，从 6.3%（没有重新排序）和 2.1%（有重新排序）提高到 2.8%，并且分别为 1.0%。此外，我们证明 RALL-E 可以正确合成 VALL-E 难以理解的句子，并将错误率从 68% 降低到 4%。]]></description>
       <guid>https://arxiv.org/abs/2404.03204</guid>
       <pubDate>Fri, 05 Apr 2024 03:00:34 GMT</pubDate>
     </item>
