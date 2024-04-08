@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 08 Apr 2024 08:36:11 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 08 Apr 2024 09:13:49 GMT</lastBuildDate>
     <item>
       <title>鲁棒高斯泼溅</title>
       <link>https://arxiv.org/abs/2404.04211</link>
@@ -22,14 +22,14 @@
     <item>
       <title>CantTalkAboutThis：调整语言模型以保持对话主题</title>
       <link>https://arxiv.org/abs/2404.03820</link>
-      <description><![CDATA[指令调整数据集的最新进展主要集中在数学或逻辑推理等特定任务上。旨在调整语言模型以保持对话中主题相关性的数据存在显着差距——这是将聊天机器人部署到生产中的一个关键方面。我们引入 CantTalkAboutThis 数据集来帮助语言模型在面向任务的交互过程中保持关注当前的主题。它由来自不同领域的广泛对话主题的综合对话组成。这些对话中穿插着一些干扰性的对话，有意将聊天机器人从预定义的主题上转移开。与 GPT-4-turbo 和 Mixtral-Instruct 等通用指令调整的 LLM 相比，在此数据集上微调语言模型有助于使它们能够适应偏离分配的角色，并提高其保持主题连贯性的能力。此外，初步观察表明，该数据集上的训练模型还可以提高其在细粒度指令跟踪任务中的性能。]]></description>
+      <description><![CDATA[指令调整数据集的最新进展主要集中在数学或逻辑推理等特定任务上。旨在调整语言模型以保持对话中主题相关性的数据存在显着差距——这是将聊天机器人部署到生产中的一个关键方面。我们引入 CantTalkAboutThis 数据集来帮助语言模型在面向任务的交互过程中保持关注当前的主题。它由来自不同领域的广泛对话主题的综合对话组成。这些对话中穿插着一些干扰性的对话，有意将聊天机器人从预定义的主题上转移开。与 GPT-4-turbo 和 Mixtral-Instruct 等通用指令调整的 LLM 相比，在此数据集上微调语言模型有助于使它们能够适应偏离分配的角色，并提高它们保持主题连贯性的能力。此外，初步观察表明，该数据集上的训练模型还可以提高其在细粒度指令跟踪任务中的性能。]]></description>
       <guid>https://arxiv.org/abs/2404.03820</guid>
       <pubDate>Mon, 08 Apr 2024 04:20:43 GMT</pubDate>
     </item>
     <item>
       <title>AutoWebGLM：引导和强化基于大型语言模型的 Web 导航代理</title>
       <link>https://arxiv.org/abs/2404.03648</link>
-      <description><![CDATA[大型语言模型 (LLM) 推动了许多智能代理任务，例如网络导航，但由于以下三个因素，大多数现有代理在现实网页中的表现远不能令人满意：(1) 网页上操作的多功能性，(2) HTML 文本超出模型处理能力，以及 (3) 由于 Web 的开放域性质而导致决策的复杂性。鉴于这一挑战，我们开发了 AutoWebGLM，这是一种基于 ChatGLM3-6B 构建的、性能优于 GPT-4 的自动 Web 导航代理。受人类浏览模式的启发，我们设计了一种 HTML 简化算法来表示网页，简洁地保留重要信息。我们采用人类与人工智能混合的方法来构建用于课程培训的网络浏览数据。然后，我们通过强化学习和拒绝采样来引导模型，以进一步促进网页理解、浏览器操作和高效的任务分解。为了进行测试，我们为现实世界的网页浏览任务建立了一个双语基准——AutoWebBench。我们通过不同的网络导航基准评估 AutoWebGLM，揭示其改进，但也揭示了应对真实环境的潜在挑战。相关代码、模型和数据将在https://github.com/THUDM/AutoWebGLM发布。]]></description>
+      <description><![CDATA[大型语言模型 (LLM) 推动了许多智能代理任务，例如网络导航，但由于以下三个因素，大多数现有代理在现实网页中的表现远不能令人满意：(1) 网页上操作的多功能性，(2) HTML 文本超出模型处理能力，以及 (3) 由于 Web 的开放域性质而导致决策的复杂性。鉴于这一挑战，我们开发了 AutoWebGLM，这是一种基于 ChatGLM3-6B 构建的、性能优于 GPT-4 的自动 Web 导航代理。受人类浏览模式的启发，我们设计了一种 HTML 简化算法来表示网页，简洁地保留重要信息。我们采用混合人类人工智能方法来构建用于课程培训的网络浏览数据。然后，我们通过强化学习和拒绝采样来引导模型，以进一步促进网页理解、浏览器操作和高效的任务分解。为了进行测试，我们为现实世界的网页浏览任务建立了一个双语基准——AutoWebBench。我们通过不同的网络导航基准评估 AutoWebGLM，揭示其改进，但也揭示了应对真实环境的潜在挑战。相关代码、模型和数据将在https://github.com/THUDM/AutoWebGLM发布。]]></description>
       <guid>https://arxiv.org/abs/2404.03648</guid>
       <pubDate>Mon, 08 Apr 2024 04:15:05 GMT</pubDate>
     </item>
