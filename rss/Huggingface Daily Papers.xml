@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 08 Apr 2024 03:14:27 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Mon, 08 Apr 2024 03:36:44 GMT</lastBuildDate>
     <item>
       <title>RALL-E：具有文本转语音合成思想链提示的鲁棒编解码器语言建模</title>
       <link>https://arxiv.org/abs/2404.03204</link>
@@ -50,7 +50,7 @@
     <item>
       <title>AutoWebGLM：引导和强化基于大型语言模型的 Web 导航代理</title>
       <link>https://arxiv.org/abs/2404.03648</link>
-      <description><![CDATA[大型语言模型 (LLM) 推动了许多智能代理任务，例如网络导航，但由于以下三个因素，大多数现有代理在现实网页中的表现远不能令人满意：(1) 网页上操作的多功能性，(2) HTML 文本超出模型处理能力，以及 (3) 由于 Web 的开放域性质而导致决策的复杂性。鉴于这一挑战，我们开发了 AutoWebGLM，这是一种基于 ChatGLM3-6B 构建的、性能优于 GPT-4 的自动 Web 导航代理。受人类浏览模式的启发，我们设计了一种 HTML 简化算法来表示网页，简洁地保留重要信息。我们采用人类与人工智能混合的方法来构建用于课程培训的网络浏览数据。然后，我们通过强化学习和拒绝采样来引导模型，以进一步促进网页理解、浏览器操作和高效的任务分解。为了进行测试，我们为现实世界的网页浏览任务建立了一个双语基准——AutoWebBench。我们通过不同的网络导航基准评估 AutoWebGLM，揭示其改进，但也揭示了应对真实环境的潜在挑战。相关代码、模型和数据将在https://github.com/THUDM/AutoWebGLM发布。]]></description>
+      <description><![CDATA[大型语言模型 (LLM) 推动了许多智能代理任务，例如网络导航，但由于以下三个因素，大多数现有代理在现实网页中的表现远不能令人满意：(1) 网页上操作的多功能性，(2) HTML 文本超出模型处理能力，以及 (3) 由于 Web 的开放域性质而导致决策的复杂性。鉴于这一挑战，我们开发了 AutoWebGLM，这是一种基于 ChatGLM3-6B 构建的、性能优于 GPT-4 的自动 Web 导航代理。受人类浏览模式的启发，我们设计了一种 HTML 简化算法来表示网页，简洁地保留重要信息。我们采用混合人类人工智能方法来构建用于课程培训的网络浏览数据。然后，我们通过强化学习和拒绝采样来引导模型，以进一步促进网页理解、浏览器操作和高效的任务分解。为了进行测试，我们为现实世界的网页浏览任务建立了一个双语基准——AutoWebBench。我们通过不同的网络导航基准评估 AutoWebGLM，揭示其改进，但也揭示了应对真实环境的潜在挑战。相关代码、模型和数据将在https://github.com/THUDM/AutoWebGLM发布。]]></description>
       <guid>https://arxiv.org/abs/2404.03648</guid>
       <pubDate>Fri, 05 Apr 2024 02:39:20 GMT</pubDate>
     </item>
