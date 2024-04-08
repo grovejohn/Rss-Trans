@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 08 Apr 2024 06:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 08:36:03 GMT</lastBuildDate>
     <item>
       <title>KDE 季节：为 Labplot 添加 MCAP 支持</title>
       <link>https://wirthual.github.io/posts/season-of-kde/?utm_source=atom_feed</link>
@@ -64,6 +64,14 @@ KDE：运行命令
       <pubDate>Fri, 05 Apr 2024 11:03:00 GMT</pubDate>
     </item>
     <item>
+      <title>Qt Quick Controls 的大小策略</title>
+      <link>https://www.qt.io/blog/size-policy-for-qt-quick-controls?utm_source=atom_feed</link>
+      <description><![CDATA[使用 Qt 快速布局时，用户需要指定附加属性 Layout.fillWidth 或 Layout.fillHeight 来拉伸子组件。随着更多组件需要，此过程可能会变得很麻烦。内联组件可以作为替代方案，但在处理不同的组件类型时它们可能不那么有效。为了应对这些挑战，Qt Quick Controls 6.7 版（技术预览版）中引入了大小策略功能，反映了小部件中的类似功能。
+]]></description>
+      <guid>https://www.qt.io/blog/size-policy-for-qt-quick-controls?utm_source=atom_feed</guid>
+      <pubDate>Fri, 05 Apr 2024 10:57:52 GMT</pubDate>
+    </item>
+    <item>
       <title>网络评论，2024-14 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -83,13 +91,6 @@ KDE：运行命令
       <description><![CDATA[]]></description>
       <guid>https://zamundaaa.github.io/wayland/2024/04/05/explicit-sync.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 05 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>简化嵌入式软件开发策略</title>
-      <link>https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/streamlining-strategies-for-embedded-software-development/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 04 Apr 2024 08:00:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
