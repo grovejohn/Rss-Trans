@@ -4,7 +4,14 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 08 Apr 2024 11:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Apr 2024 11:35:51 GMT</lastBuildDate>
+    <item>
+      <title>Sigma：用于多模态语义分割的暹罗曼巴网络</title>
+      <link>https://arxiv.org/abs/2404.04256</link>
+      <description><![CDATA[多模态语义分割显着增强了人工智能代理的感知和场景理解，特别是在弱光或过度曝光环境等不利条件下。利用热和深度等附加模态（X 模态）与传统 RGB 一起提供补充信息，从而实现更强大、更可靠的分割。在这项工作中，我们引入了 Sigma，这是一种利用选择性结构化状态空间模型 Mamba 进行多模态语义分割的 Siamese Mamba 网络。与依赖于局部感受野有限的 CNN 或视觉变换器 (ViT) 的传统方法不同，后者以二次复杂度为代价提供全局感受野，我们的模型以线性复杂度实现了全局感受野覆盖。通过采用 Siamese 编码器并创新 Mamba 融合机制，我们有效地从不同模态中选择重要信息。然后开发解码器来增强模型的通道建模能力。我们的方法 Sigma 在 RGB-Thermal 和 RGB-Depth 分割任务上进行了严格评估，证明了其优越性，并标志着状态空间模型（SSM）在多模态感知任务中的首次成功应用。代码可在 https://github.com/zifuwan/Sigma 获取。]]></description>
+      <guid>https://arxiv.org/abs/2404.04256</guid>
+      <pubDate>Mon, 08 Apr 2024 09:46:16 GMT</pubDate>
+    </item>
     <item>
       <title>鲁棒高斯泼溅</title>
       <link>https://arxiv.org/abs/2404.04211</link>
