@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 09 Apr 2024 02:36:25 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 09 Apr 2024 03:36:24 GMT</lastBuildDate>
     <item>
       <title>Sigma：用于多模态语义分割的暹罗曼巴网络</title>
       <link>https://arxiv.org/abs/2404.04256</link>
@@ -29,7 +29,7 @@
     <item>
       <title>CantTalkAboutThis：调整语言模型以保持对话主题</title>
       <link>https://arxiv.org/abs/2404.03820</link>
-      <description><![CDATA[指令调整数据集的最新进展主要集中在数学或逻辑推理等特定任务上。旨在调整语言模型以保持对话中主题相关性的数据存在显着差距——这是将聊天机器人部署到生产中的一个关键方面。我们引入 CantTalkAboutThis 数据集来帮助语言模型在面向任务的交互过程中保持关注当前的主题。它由来自不同领域的广泛对话主题的综合对话组成。这些对话中穿插着一些干扰性的对话，有意将聊天机器人从预定义的主题上转移开。与 GPT-4-turbo 和 Mixtral-Instruct 等通用指令调整的 LLM 相比，在此数据集上微调语言模型有助于使它们能够适应偏离分配的角色，并提高其保持主题连贯性的能力。此外，初步观察表明，该数据集上的训练模型还可以提高其在细粒度指令跟踪任务中的性能。]]></description>
+      <description><![CDATA[指令调整数据集的最新进展主要集中在数学或逻辑推理等特定任务上。旨在调整语言模型以保持对话中主题相关性的数据存在显着差距——这是将聊天机器人部署到生产中的一个关键方面。我们引入 CantTalkAboutThis 数据集来帮助语言模型在面向任务的交互过程中保持关注当前的主题。它由来自不同领域的广泛对话主题的综合对话组成。这些对话中穿插着一些干扰性的对话，有意将聊天机器人从预定义的主题上转移开。与 GPT-4-turbo 和 Mixtral-Instruct 等通用指令调整的 LLM 相比，在此数据集上微调语言模型有助于使它们能够适应偏离分配的角色，并提高它们保持主题连贯性的能力。此外，初步观察表明，该数据集上的训练模型还可以提高其在细粒度指令跟踪任务中的性能。]]></description>
       <guid>https://arxiv.org/abs/2404.03820</guid>
       <pubDate>Mon, 08 Apr 2024 04:20:43 GMT</pubDate>
     </item>
