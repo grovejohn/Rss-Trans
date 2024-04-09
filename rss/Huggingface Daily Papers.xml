@@ -3,12 +3,12 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 09 Apr 2024 06:36:00 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 09 Apr 2024 07:13:44 GMT</lastBuildDate>
     <item>
       <title>Koala：关键帧调节长视频-LLM</title>
       <link>https://arxiv.org/abs/2404.04346</link>
-      <description><![CDATA[长视频问答是一项具有挑战性的任务，涉及识别短期活动并推理其细粒度关系。最先进的视频大语言模型（vLLM）因其在新任务上展示的新兴能力而有望成为可行的解决方案。然而，尽管 vLLM 接受了数百万个长达数秒的短视频的训练，但仍无法理解长达数分钟的视频并准确回答有关它们的问题。为了解决这个限制，我们提出了一种轻量级的自监督方法，即关键帧调节的长视频 LLM (Koala)，它引入了可学习的时空查询来调整预训练的 vLLM 以推广到更长的视频。我们的方法引入了两个新的标记器，它们以从稀疏视频关键帧计算出的视觉标记为条件，以理解短视频时刻和长视频时刻。我们在 HowTo100M 上训练我们提出的方法，并在零样本长视频理解基准上展示其有效性，在所有任务中，它的绝对准确度比最先进的大型模型高 3 - 6%。令人惊讶的是，我们还凭经验表明，我们的方法不仅有助于预训练的 vLLM 理解长视频，而且还提高了其短期动作识别的准确性。]]></description>
+      <description><![CDATA[长视频问答是一项具有挑战性的任务，涉及识别短期活动并推理其细粒度关系。最先进的视频大语言模型 (vLLM) 因其在新任务上展示的新兴功能而有望成为可行的解决方案。然而，尽管 vLLM 接受了数百万个长达数秒的短视频的训练，但仍无法理解长达数分钟的视频并准确回答有关它们的问题。为了解决这个限制，我们提出了一种轻量级的自监督方法，即关键帧调节的长视频 LLM (Koala)，它引入了可学习的时空查询来调整预训练的 vLLM 以推广到更长的视频。我们的方法引入了两个新的标记器，它们以从稀疏视频关键帧计算出的视觉标记为条件，以理解短视频时刻和长视频时刻。我们在 HowTo100M 上训练我们提出的方法，并在零样本长视频理解基准上展示其有效性，在所有任务中，它的绝对准确度比最先进的大型模型高出 3 - 6%。令人惊讶的是，我们还凭经验表明，我们的方法不仅有助于预训练的 vLLM 理解长视频，而且还提高了其短期动作识别的准确性。]]></description>
       <guid>https://arxiv.org/abs/2404.04346</guid>
       <pubDate>Tue, 09 Apr 2024 03:59:08 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>UniFL：通过统一反馈学习提高稳定扩散</title>
       <link>https://arxiv.org/abs/2404.05595</link>
-      <description><![CDATA[扩散模型彻底改变了图像生成领域，导致高质量模型和多样化下游应用的激增。然而，尽管取得了这些重大进步，当前的竞争解决方案仍然存在一些局限性，包括视觉质量较差、缺乏审美吸引力、推理效率低下，而且还没有全面的解决方案。为了应对这些挑战，我们提出了 UniFL，这是一个利用反馈学习来全面增强扩散模型的统一框架。 UniFL 是一种通用、有效且可推广的解决方案，适用于各种扩散模型，例如 SD1.5 和 SDXL。值得注意的是，UniFL 包含三个关键组成部分：感知反馈学习，提高视觉质量；解耦反馈学习，提高审美吸引力；以及对抗性反馈学习，可优化推理速度。深入的实验和广泛的用户研究验证了我们提出的方法在提高生成模型的质量及其加速方面的卓越性能。例如，UniFL 在生成质量方面超过 ImageReward 17% 用户偏好，并在 4 步推理中比 LCM 和 SDXL Turbo 分别高出 57% 和 20%。此外，我们还验证了我们的方法在下游任务中的有效性，包括 Lora、ControlNet 和 AnimateDiff。]]></description>
+      <description><![CDATA[扩散模型彻底改变了图像生成领域，导致高质量模型和多样化下游应用的激增。然而，尽管取得了这些重大进步，当前的竞争解决方案仍然存在一些局限性，包括视觉质量差、缺乏美感、推理效率低，而且还没有全面的解决方案。为了应对这些挑战，我们提出了 UniFL，这是一个利用反馈学习来全面增强扩散模型的统一框架。 UniFL 是一种通用、有效且可推广的解决方案，适用于各种扩散模型，例如 SD1.5 和 SDXL。值得注意的是，UniFL 包含三个关键组成部分：感知反馈学习，提高视觉质量；解耦反馈学习，提高审美吸引力；以及对抗性反馈学习，可优化推理速度。深入的实验和广泛的用户研究验证了我们提出的方法在提高生成模型的质量及其加速方面的卓越性能。例如，UniFL 在生成质量方面超过 ImageReward 17% 用户偏好，并在 4 步推理中比 LCM 和 SDXL Turbo 分别高出 57% 和 20%。此外，我们还验证了我们的方法在下游任务中的有效性，包括 Lora、ControlNet 和 AnimateDiff。]]></description>
       <guid>https://arxiv.org/abs/2404.05595</guid>
       <pubDate>Tue, 09 Apr 2024 03:18:40 GMT</pubDate>
     </item>
