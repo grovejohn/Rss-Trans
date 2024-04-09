@@ -1,10 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>科技网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Mon, 08 Apr 2024 23:13:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Apr 2024 00:54:34 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳炊具套装 - CNET</title>
+      <link>https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e</link>
+      <description><![CDATA[用新锅碗瓢盆升级您的厨房。我们测试了顶级品牌的最佳炊具，以找到适合每个空间和每个预算的东西。]]></description>
+      <guid>https://www.cnet.com/news/best-cookware-sets/#ftag=CAD590a51e</guid>
+      <pubDate>Mon, 08 Apr 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最佳牙齿美白贴 - CNET</title>
+      <link>https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e</link>
+      <description><![CDATA[如果您想要更白的牙齿，使用这些套件之一可以轻松在家中美白牙齿。]]></description>
+      <guid>https://www.cnet.com/health/personal-care/best-teeth-whitening-strips/#ftag=CAD590a51e</guid>
+      <pubDate>Mon, 08 Apr 2024 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>重温日全食：迄今为止最好的照片 - CNET</title>
+      <link>https://www.cnet.com/pictures/relive-the-total-solar-eclipse-best-photos-so-far/#ftag=CAD590a51e</link>
+      <description><![CDATA[北美地区未来 20 年来最后一次日全食出现在周一，摄影师捕捉到了这一天体事件的令人惊叹的照片。]]></description>
+      <guid>https://www.cnet.com/pictures/relive-the-total-solar-eclipse-best-photos-so-far/#ftag=CAD590a51e</guid>
+      <pubDate>Mon, 08 Apr 2024 22:30:24 GMT</pubDate>
+    </item>
     <item>
       <title>你奇怪的梦意味着什么？ - CNET</title>
       <link>https://www.cnet.com/health/sleep/what-do-your-strange-dreams-mean/#ftag=CAD590a51e</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[如果社交媒体帖子“在重要问题上具有特别高的实质性欺骗公众的风险”，Meta 甚至可能会添加一个更大的标签。]]></description>
       <guid>https://www.cnet.com/how-to/heres-what-metas-ai-warning-labels-will-look-like-on-images-video-and-audio-posts/#ftag=CAD590a51e</guid>
       <pubDate>Mon, 08 Apr 2024 21:32:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fire 7 儿童平板电脑 - CNET</title>
-      <link>https://www.cnet.com/tech/computing/fire-7-kids-tableta-dpnl/#ftag=CAD590a51e</link>
-      <description><![CDATA[适合 3-7 岁（含 1 岁亚马逊儿童+）。]]></description>
-      <guid>https://www.cnet.com/tech/computing/fire-7-kids-tableta-dpnl/#ftag=CAD590a51e</guid>
-      <pubDate>Mon, 08 Apr 2024 21:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>KYY 便携式显示器 - CNET</title>
-      <link>https://www.cnet.com/tech/computing/kyy-portable-monitora-dpnl/#ftag=CAD590a51e</link>
-      <description><![CDATA[15.6 英寸 HDR，带扬声器和盖子。]]></description>
-      <guid>https://www.cnet.com/tech/computing/kyy-portable-monitora-dpnl/#ftag=CAD590a51e</guid>
-      <pubDate>Mon, 08 Apr 2024 21:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tessan 插头适配器 - CNET</title>
-      <link>https://www.cnet.com/tech/mobile/tessan-plug-adaptera-dpnl/#ftag=CAD590a51e</link>
-      <description><![CDATA[2 件装，适用于美国的 C 型插座。]]></description>
-      <guid>https://www.cnet.com/tech/mobile/tessan-plug-adaptera-dpnl/#ftag=CAD590a51e</guid>
-      <pubDate>Mon, 08 Apr 2024 21:23:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
