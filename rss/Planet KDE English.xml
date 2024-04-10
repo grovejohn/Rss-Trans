@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 10 Apr 2024 14:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Apr 2024 16:40:17 GMT</lastBuildDate>
+    <item>
+      <title>权利的酸味</title>
+      <link>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</link>
+      <description><![CDATA[所以这个人，我们姑且称他们为乔，很饿，也没有钱。走在街上，他们看到一个广场，一群人正在公共开放式厨房里工作，免费提供美味的热饭菜。]]></description>
+      <guid>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 10 Apr 2024 16:22:19 GMT</pubDate>
+    </item>
     <item>
       <title>庆祝创造力：宣布 Kubuntu 竞赛获奖者！</title>
       <link>https://kubuntu.org/news/celebrating-creativity-announcing-the-winners-of-the-kubuntu-contests/?utm_source=atom_feed</link>
@@ -100,13 +107,6 @@ KDE：运行命令
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/?utm_source=atom_feed</guid>
       <pubDate>Fri, 05 Apr 2024 09:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Qt 中嵌入 Servo Web 引擎</title>
-      <link>https://www.kdab.com/embedding-servo-in-qt/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/embedding-servo-in-qt/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 05 Apr 2024 08:00:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
