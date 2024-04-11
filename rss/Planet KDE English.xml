@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 11 Apr 2024 12:47:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 14:35:44 GMT</lastBuildDate>
+    <item>
+      <title>Qt for MCU 2.5.3 LTS 发布</title>
+      <link>https://www.qt.io/blog/qt-for-mcus-2.5.3-lts-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt for MCUs 2.5.3 LTS（长期支持）已发布并可供下载。 作为补丁版本，Qt for MCUs 2.5.3 LTS 提供错误修复和其他改进，并保持与 Qt for MCUs 2.5.x 的源兼容性。它不会添加任何新功能。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-for-mcus-2.5.3-lts-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 11 Apr 2024 13:16:42 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Qt Quick 和 JSON 进行递归实例化</title>
       <link>https://www.kdab.com/recursive-instantiation-with-qt-quick-and-json/?utm_source=atom_feed</link>
@@ -99,14 +110,6 @@ KDE：运行命令
       <description><![CDATA[]]></description>
       <guid>http://knro.blogspot.com/2024/04/kstars-370-is-released.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 05 Apr 2024 11:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Quick Controls 的大小策略</title>
-      <link>https://www.qt.io/blog/size-policy-for-qt-quick-controls?utm_source=atom_feed</link>
-      <description><![CDATA[使用 Qt 快速布局时，用户需要指定附加属性 Layout.fillWidth 或 Layout.fillHeight 来拉伸子组件。随着更多组件需要，此过程可能会变得很麻烦。内联组件可以作为替代方案，但在处理不同的组件类型时它们可能不那么有效。为了应对这些挑战，Qt Quick Controls 6.7 版（技术预览版）中引入了大小策略功能，反映了小部件中的类似功能。
-]]></description>
-      <guid>https://www.qt.io/blog/size-policy-for-qt-quick-controls?utm_source=atom_feed</guid>
-      <pubDate>Fri, 05 Apr 2024 10:57:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
