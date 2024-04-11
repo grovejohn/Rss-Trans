@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 11 Apr 2024 11:12:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 11:35:48 GMT</lastBuildDate>
+    <item>
+      <title>选举否认者不会等到 11 月</title>
+      <link>https://www.wired.com/story/election-deniers-election-workers-november/</link>
+      <description><![CDATA[虚假信息、数字工具和生成人工智能的有毒组合正在给全国各地的选举官员带来挑战。]]></description>
+      <guid>https://www.wired.com/story/election-deniers-election-workers-november/</guid>
+      <pubDate>Thu, 11 Apr 2024 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>埃里克·施密特对中国人工智能产业发出警告。电子邮件显示他也寻求与之建立联系</title>
       <link>https://www.wired.com/story/eric-schmidt-china-ai-ties/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[您想要或需要攻击 Google 帐户的原因有很多。值得庆幸的是，与谷歌分手非常容易。]]></description>
       <guid>https://www.wired.com/story/how-to-delete-a-google-account/</guid>
       <pubDate>Wed, 10 Apr 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何阻止您的数据被用于训练人工智能</title>
-      <link>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</link>
-      <description><![CDATA[有些公司允许您选择不允许您的内容用于生成人工智能。以下是如何从 ChatGPT、Google 的 Gemini 等夺回（至少一点）控制权。]]></description>
-      <guid>https://www.wired.com/story/how-to-stop-your-data-from-being-used-to-train-ai/</guid>
-      <pubDate>Wed, 10 Apr 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
