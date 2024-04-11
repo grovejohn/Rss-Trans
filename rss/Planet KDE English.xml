@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 11 Apr 2024 14:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 16:35:56 GMT</lastBuildDate>
     <item>
       <title>Qt for MCU 2.5.3 LTS 发布</title>
       <link>https://www.qt.io/blog/qt-for-mcus-2.5.3-lts-released?utm_source=atom_feed</link>
@@ -24,9 +24,36 @@ Qt for MCUs 2.5.3 LTS（长期支持）已发布并可供下载。 作为补丁
       <pubDate>Thu, 11 Apr 2024 07:00:37 GMT</pubDate>
     </item>
     <item>
+      <title>Selenium 如何帮助构建可持续软件（及更多）</title>
+      <link>https://eco.kde.org/blog/2024-04-11-sok24-selenium/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://eco.kde.org/blog/2024-04-11-sok24-selenium/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 齿轮 24.02.2</title>
+      <link>https://kde.org/announcements/gear/24.02.2/?utm_source=atom_feed</link>
+      <description><![CDATA[超过 180 个单独的程序以及数十个程序员库和功能插件作为 KDE Gear 的一部分同时发布。
+今天，他们都获得了新的错误修复源代码版本以及更新的翻译，包括：
+
+kcachegrind：修复打开历史菜单时的崩溃（提交，修复错误#483973)
+gwenview：查看图像时不再禁止暂停（提交，修复了错误#481481)
+elisa：使用 Qt Multimedia 后端修复损坏的音量滑块（提交，修复错误#392501)
+
+发行版和应用程序商店打包商应更新其应用程序包。
+
+24.02 发行说明，了解有关 tarball 和已知问题的信息。
+软件包下载 wiki 页面
+24.02.2 源信息页面
+24.02.2 完整变更日志
+]]></description>
+      <guid>https://kde.org/announcements/gear/24.02.2/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>权利的酸味</title>
       <link>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</link>
-      <description><![CDATA[所以这个人，我们姑且称他们为乔，很饿，也没有钱。走在街上，他们看到一个广场，一群人正在公共开放式厨房里工作，免费提供美味的热饭菜。]]></description>
+      <description><![CDATA[所以这个人，我们姑且称他们为乔，很饿，也没有钱。走在街上，他们遇到了一个广场，一群人正在公共开放式厨房里工作，免费提供美味的热饭菜。]]></description>
       <guid>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</guid>
       <pubDate>Wed, 10 Apr 2024 16:22:19 GMT</pubDate>
     </item>
@@ -81,35 +108,6 @@ Kubuntu 理事会对这些竞赛的成功感到非常兴奋，我们已经期待
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed</guid>
       <pubDate>Fri, 05 Apr 2024 14:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE：在通知触发器上“运行命令”</title>
-      <link>https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 有一个很多人不知道的功能。您可以在触发通知时运行命令。该功能没有得到很好的记录，也没有人真正在博客上介绍它。
-但是，随着 KDE Plasma 6 的发布，该功能被删除。我偶然了解到它，因为它是由 Bug #481069 跟踪的。我确实需要该功能，因此我在 KDE Plasma 6 中重新实现了它。我将在 KDE Plasma 6.1 和 KDE Frameworks 6.1 中可用。
-
-KDE：运行命令
-日历事件的文本转语音
-我正在使用“运行命令”日历事件功能。通常您会收到弹出通知。弹出通知很小，并且会弹出并显示所有通知。当我全神贯注地编写某些代码时，我就会想念它们。如果我玩游戏，我就会想念他们。
-我的解决方案是使用文本转语音 (TTS) 引擎。我已经使用 语音调度程序 设置了 语音调度程序 rhasspy/piper&quot; target=&quot;_blank&quot;&gt;piper-tts 在我的系统上。当提醒触发时，它会显示：“Andreas，10 分钟后您有一个约会：桑巴会议”。
-你可以找到我使用的python脚本这里。
-无限可能
-用它来做很酷的事情的机会是无穷无尽的。以下是您还可以做的一些想法：
-
-在会议之前启动您的会议/会议申请
-在会议前更改桌面活动
-如果特定 WiFi 断开连接，则锁定屏幕
-
-如果您有一些好主意或过去已经使用过它，请发表评论，让我知道您还可以做什么。]]></description>
-      <guid>https://blog.cryptomilk.org/2024/04/05/kde-run-a-command-on-notification-trigger/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 05 Apr 2024 11:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>科星3.7.0发布</title>
-      <link>http://knro.blogspot.com/2024/04/kstars-370-is-released.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>http://knro.blogspot.com/2024/04/kstars-370-is-released.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 05 Apr 2024 11:03:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
