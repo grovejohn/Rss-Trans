@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 10 Apr 2024 23:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 00:54:39 GMT</lastBuildDate>
     <item>
       <title>修改高斯泼溅中的致密化</title>
       <link>https://arxiv.org/abs/2404.06109</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Hash3D：免训练加速 3D 生成</title>
       <link>https://arxiv.org/abs/2404.06091</link>
-      <description><![CDATA[2D 扩散模型的采用显着推动了 3D 生成建模的发展。尽管取得了这些进展，但繁琐的优化过程本身却是效率的关键障碍。在本文中，我们介绍了 Hash3D，这是一种无需模型训练的 3D 生成通用加速器。 Hash3D 的核心是认识到特征图冗余在从相机位置和邻近的扩散时间步渲染的图像中普遍存在。通过跨相邻时间步长和摄像机角度有效地散列和重用这些特征图，Hash3D 基本上防止了冗余计算，从而加速了扩散模型在 3D 生成任务中的推理。我们通过基于自适应网格的哈希来实现这一点。令人惊讶的是，这种特征共享机制不仅加快了生成速度，还增强了合成 3D 对象的平滑度和视图一致性。我们的实验涵盖了 5 个文本转 3D 模型和 3 个图像转 3D 模型，展示了 Hash3D 加速优化的多功能性，将效率提高了 1.3 至 4 倍。此外，Hash3D 与 3D 高斯喷射的集成大大加快了 3D 模型的创建速度，将文本到 3D 的处理时间减少到大约 10 分钟，将图像到 3D 的转换时间减少到大约 30 秒。项目页面位于 https://adamdad.github.io/hash3D/。]]></description>
+      <description><![CDATA[2D 扩散模型的采用显着推动了 3D 生成建模的发展。尽管取得了这些进展，但繁琐的优化过程本身却是效率的关键障碍。在本文中，我们介绍了 Hash3D，这是一种无需模型训练的 3D 生成通用加速器。 Hash3D 的核心是认识到特征图冗余在从相机位置和邻近的扩散时间步长渲染的图像中普遍存在。通过跨相邻时间步长和摄像机角度有效地散列和重用这些特征图，Hash3D 基本上防止了冗余计算，从而加速了扩散模型在 3D 生成任务中的推理。我们通过基于自适应网格的哈希来实现这一点。令人惊讶的是，这种特征共享机制不仅加快了生成速度，还增强了合成 3D 对象的平滑度和视图一致性。我们的实验涵盖了 5 个文本转 3D 和 3 个图像转 3D 模型，证明了 Hash3D 加速优化的多功能性，将效率提高了 1.3 至 4 倍。此外，Hash3D 与 3D 高斯喷射的集成大大加快了 3D 模型的创建速度，将文本到 3D 的处理时间减少到大约 10 分钟，将图像到 3D 的转换时间减少到大约 30 秒。项目页面位于 https://adamdad.github.io/hash3D/。]]></description>
       <guid>https://arxiv.org/abs/2404.06091</guid>
       <pubDate>Wed, 10 Apr 2024 03:57:27 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>MiniCPM：通过可扩展的训练策略揭示小语言模型的潜力</title>
       <link>https://arxiv.org/abs/2404.06395</link>
-      <description><![CDATA[人们对开发具有多达万亿个参数的大型语言模型 (LLM) 的兴趣日益浓厚，但也引起了对资源效率和实际费用的担忧，特别是考虑到实验成本巨大。这种情况强调了探索小语言模型 (SLM) 作为资源高效替代方案的潜力的重要性。在这种情况下，我们引入了 MiniCPM，特别是 1.2B 和 2.4B 非嵌入参数变体，它们不仅在各自的类别中表现出色，而且还展示了与 7B-13B LLM 相当的功能。在专注于 SLM 的同时，我们的方法在模型和数据维度上都表现出了可扩展性，适合未来的 LLM 研究。关于模型缩放，我们采用广泛的模型风洞实验来实现稳定和最佳的缩放。对于数据扩展，我们引入了预热-稳定-衰减（WSD）学习率调度器（LRS），有利于持续训练和领域适应。我们对 WSD LRS 中发生的有趣的训练动态进行了深入分析。借助 WSD LRS，我们现在能够有效地研究数据模型缩放定律，而无需在模型和数据两个轴上进行大量的再训练实验，从中我们得出比 Chinchilla Optimal 更高的计算最佳数据模型比率。此外，我们还推出了MiniCPM系列，包括MiniCPM-DPO、MiniCPM-MoE和MiniCPM-128K，其卓越的性能进一步巩固了MiniCPM在各种SLM应用中的基础。 MiniCPM 模型可在 https://github.com/OpenBMB/MiniCPM 上公开获取。]]></description>
+      <description><![CDATA[人们对开发具有多达万亿个参数的大型语言模型 (LLM) 的兴趣日益浓厚，但也引起了对资源效率和实际费用的担忧，特别是考虑到实验成本巨大。这种情况强调了探索小语言模型 (SLM) 作为资源高效替代方案的潜力的重要性。在这种情况下，我们引入了 MiniCPM，特别是 1.2B 和 2.4B 非嵌入参数变体，它们不仅在各自的类别中表现出色，而且还展示了与 7B-13B LLM 相当的功能。在专注于 SLM 的同时，我们的方法在模型和数据维度上都表现出了可扩展性，适合未来的 LLM 研究。关于模型缩放，我们采用广泛的模型风洞实验来实现稳定和最佳的缩放。对于数据扩展，我们引入了预热-稳定-衰减（WSD）学习率调度器（LRS），有利于持续训练和领域适应。我们对 WSD LRS 中发生的有趣的训练动态进行了深入分析。借助 WSD LRS，我们现在能够有效地研究数据模型缩放定律，而无需在模型和数据的两个轴上进行大量的再训练实验，从中我们得出比 Chinchilla Optimal 更高的计算最佳数据模型比率。此外，我们还推出了MiniCPM系列，包括MiniCPM-DPO、MiniCPM-MoE和MiniCPM-128K，其卓越的性能进一步巩固了MiniCPM在各种SLM应用中的基础。 MiniCPM 模型可在 https://github.com/OpenBMB/MiniCPM 上公开获取。]]></description>
       <guid>https://arxiv.org/abs/2404.06395</guid>
       <pubDate>Wed, 10 Apr 2024 02:24:17 GMT</pubDate>
     </item>
