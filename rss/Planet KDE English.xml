@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 11 Apr 2024 06:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Apr 2024 08:38:04 GMT</lastBuildDate>
+    <item>
+      <title>使用 Qt Quick 和 JSON 进行递归实例化</title>
+      <link>https://www.kdab.com/recursive-instantiation-with-qt-quick-and-json/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/recursive-instantiation-with-qt-quick-and-json/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 11 Apr 2024 07:00:37 GMT</pubDate>
+    </item>
     <item>
       <title>权利的酸味</title>
       <link>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</link>
@@ -100,13 +107,6 @@ KDE：运行命令
 ]]></description>
       <guid>https://www.qt.io/blog/size-policy-for-qt-quick-controls?utm_source=atom_feed</guid>
       <pubDate>Fri, 05 Apr 2024 10:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，2024-14 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/04/05/web-review-week-2024-14/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 05 Apr 2024 09:22:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
