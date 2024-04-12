@@ -4,7 +4,40 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Apr 2024 18:35:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 20:36:19 GMT</lastBuildDate>
+    <item>
+      <title>Kubuntu：Noble Numbat Beta 版上线！ Qt6 快照即将推出。</title>
+      <link>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</link>
+      <description><![CDATA[
+这几周非常忙碌，因为我们致力于一些重大转变和需要重建 $world 的安全修复。我很高兴地向大家报告，尽管困难重重，我们还是发布了测试版！您可以在这里阅读所有相关内容：https://kubuntu.org/news/ kubuntu-24-04-beta-released/ 测试版冻结后我今天已经开始推动对已知问题的修复。我们的新品牌是一件大事！ Kubuntu 世界中非常激动人心的时刻。
+在 snap 世界中，我将利用空闲时间开始开发 KDE 应用程序（项目未涵盖）。我还招募了一些帮助，所以您应该很快就会开始在边缘频道中看到这些弹出！
+现在我们即将发布 Noble Numbat，我与 Kubuntu 的合同即将结束。如果您希望在下一个版本和 Noble 的 PPA 中看到 Plasma 6，请考虑通过 https 捐款以延长我的合同： //kubuntu.org/donate！
+就个人而言，我仍然希望帮助我的孙子，您可以在这里找到：https://www.gofundme.com/f/in-loving-memory-of-william-billy-dean-scalf
+感谢您的光临，
+斯嘉丽]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 19:29:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kubuntu 24.04 Beta 发布</title>
+      <link>https://kubuntu.org/news/kubuntu-24-04-beta-released/?utm_source=atom_feed</link>
+      <description><![CDATA[加入兴奋：
+测试 Kubuntu 24.04 Beta 并通过 KubuQA 体验创新！
+
+我们很高兴地宣布 Kubuntu 24.04 Beta 现已推出！&lt; /a&gt; 此版本包含新功能和增强功能，我们邀请您，我们尊贵的社区，与我们一起微调这个令人兴奋的新版本。无论您是经验丰富的测试人员还是软件测试新手，您的反馈对于让 Kubuntu 24.04 成为最好的产品至关重要。
+为了让您的测试之旅变得简单，我们推出了一款出色的新工具：&lt;强&gt;KubuQA。 KubuQA 在设计时考虑了新用户和有经验的用户，通过自​​动化下载、VirtualBox 设置和配置步骤来简化测试过程。现在，每个人都可以轻松参与 Kubuntu 测试！
+此测试版还首次推出了我们全新的品牌、艺术作品和壁纸，这些都是由我们自己的社区通过最近的 品牌和壁纸竞赛。这些新增内容反映了 Kubuntu 家族的精神和创造力，我们迫不及待地想让您看到他们。
+进行测试
+通过参与 Kubuntu 24.04 的 Beta 测试，您不仅可以帮助改进软件，还可以帮助改进软件。您正在成为重视开放协作和创新的全球社区不可或缺的一部分。您的贡献有助于我们发现并解决问题，确保 Kubuntu 始终是一个高质量、稳定且用户友好的 Linux 发行版。
+加入我们的测试团队的好处不仅仅是改进软件。您将获得宝贵的经验，结识志趣相投的人，也许还会在开源软件世界中发现新的热情。
+那为什么要等呢？立即下载 Kubuntu 24.04 Beta，试用KubuQA，或关注我们的 wiki 升级并帮助我们使 Kubuntu 变得比以往更好！请记住，您的反馈是我们成功的关键。
+准备好产生影响了吗？ 
+加入我们这个激动人心的开发阶段，看看您的想法在 Kubuntu 中变成现实。另外，您还可以因为知道自己为全世界数百万人使用的项目做出了贡献而感到满足。立即成为测试人员并参与重大活动！
+不仅仅对测试感兴趣？ 
+顺便问一下，您是否考虑过成为 Kubuntu 社区的一员？这是更积极地做出贡献并帮助塑造 Kubuntu 未来的绝佳方式。详细了解加入社区]]></description>
+      <guid>https://kubuntu.org/news/kubuntu-24-04-beta-released/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 18:33:28 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，2024-15 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</link>
@@ -81,36 +114,6 @@ elisa：使用 Qt Multimedia 后端修复损坏的音量滑块（提交，修复
 ]]></description>
       <guid>https://kde.org/announcements/gear/24.02.2/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>权利的酸味</title>
-      <link>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</link>
-      <description><![CDATA[所以这个人，我们姑且称他们为乔，很饿，也没有钱。走在街上，他们遇到了一个广场，一群人正在公共开放式厨房里工作，免费提供美味的热饭菜。]]></description>
-      <guid>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 10 Apr 2024 16:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>庆祝创造力：宣布 Kubuntu 竞赛获奖者！</title>
-      <link>https://kubuntu.org/news/celebrating-creativity-announcing-the-winners-of-the-kubuntu-contests/?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Kubuntu 品牌平面设计大赛和壁纸大赛的获奖者！这些竞赛激发了 Kubuntu 社区最好的创造力、创新和热情，我们对结果非常满意。
-
-Kubuntu品牌平面设计大赛获奖者 
-Kubuntu 理事会很高兴地宣布，经过深思熟虑和对所展示的绝对才华的敬畏，Kubuntu 品牌平面设计大赛的获胜者是 Fabio Maricato！ Fabio’ ;的参赛作品以其创新的方法和对 Kubuntu 品牌精髓的深刻理解吸引了我们。紧随其后的是Desodi，他的创意天赋和原创设计给我们所有人留下了深刻的印象。第三名是John Tolorunlojo，他的作品展示了非凡的创造力和技巧。
-壁纸大赛荣誉 
-在壁纸大赛中，我们有幸选出了三幅优秀作品，它们将为全球 Kubuntu 24.04 LTS 用户的屏幕增光添彩。祝贺 Gregorio、Dilip 和 Jack Sharp 贡献了令人惊叹的壁纸。每个设计都为 Kubuntu 桌面体验带来了独特的风格，体现了我们社区的精神。
-衷心感谢
-我们向每一位与我们分享他们的艺术和愿景的参与者表示最深切的感谢。提交的作品数量和质量确实超出了我们的预期，体现了 Kubuntu 社区充满活力和创造力的精神。正是您的热情和参与使 Kubuntu 不仅是一个强大的操作系统，而且还是一个创造力的画布。
-展望未来 
-Kubuntu 理事会对这些竞赛的成功感到非常兴奋，我们已经期待着未来有机会在我们的社区中展示才华。我们相信，这些获奖设计不仅颂扬其背后的个人，还象征着 Kubuntu 所代表的集体创造力和创新。
-请继续关注 Kubuntu 24.04 LTS 中获奖壁纸设计的正式发布，并关注我们的网站以了解未来的竞赛和社区活动。
-再次祝贺我们的获奖者，并对所有参与者表示衷心的感谢。您的贡献将继续塑造和丰富全球用户的 Kubuntu 体验。
-与我们一起庆祝！ 
-查看我们纪念该公告的特别横幅，并与我们一起庆祝获奖者和参与者的创造力和奉献精神。你们的努力确实让这次比赛成为一场令人难忘的比赛。
-向 Kubuntu 世界多年来的创新、创造力和社区致敬。
-我们的比赛结果自豪地展示在我们的 Github 存储库
-干杯！]]></description>
-      <guid>https://kubuntu.org/news/celebrating-creativity-announcing-the-winners-of-the-kubuntu-contests/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 09 Apr 2024 20:38:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
