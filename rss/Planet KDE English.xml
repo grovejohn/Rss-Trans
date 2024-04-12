@@ -4,13 +4,24 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Apr 2024 16:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 18:35:48 GMT</lastBuildDate>
     <item>
       <title>网络评论，2024-15 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 14:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tellico 印地语翻译 - SoK 2024</title>
+      <link>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[这是我关于参加 KDE 2024 赛季经历的最后一篇博客。
+作为我最后一个学期的一部分，我将tellico 翻译成印地语。 Tellico 包含 2070 个跨越消息和文档消息的语句。
+我使用 lokalize 应用程序进行翻译。
+除了翻译的单词有些含糊之外，我在翻译工作中几乎没有遇到任何问题。感谢 Raghavendra Kamath 帮助我解决了这几个问题。
+总的来说，在整个计划中这是一次很棒的经历。]]></description>
+      <guid>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 09:13:24 GMT</pubDate>
     </item>
     <item>
       <title>确保 KEcoLab 稳定性：引入专用 CI 测试</title>
@@ -84,9 +95,9 @@ elisa：使用 Qt Multimedia 后端修复损坏的音量滑块（提交，修复
       <description><![CDATA[我们很高兴地宣布 Kubuntu 品牌平面设计大赛和壁纸大赛的获奖者！这些竞赛激发了 Kubuntu 社区最好的创造力、创新和热情，我们对结果非常满意。
 
 Kubuntu品牌平面设计大赛获奖者 
-Kubuntu 理事会很高兴地宣布，经过深思熟虑和对所展示的绝对才华的敬畏，Kubuntu 品牌平面设计大赛的获胜者是 Fabio Maricato！ Fabio’ ;的参赛作品以其创新的方法和对 Kubuntu 品牌精髓的深刻理解吸引了我们。紧随其后的是Desodi，他的创意天赋和原创设计给我们所有人留下了深刻的印象。位居第三的是 John Tolorunlojo，他的作品展示了非凡的创造力和技巧。
+Kubuntu 理事会很高兴地宣布，经过深思熟虑和对所展示的绝对才华的敬畏，Kubuntu 品牌平面设计大赛的获胜者是 Fabio Maricato！ Fabio’ ;的参赛作品以其创新的方法和对 Kubuntu 品牌精髓的深刻理解吸引了我们。紧随其后的是Desodi，他的创意天赋和原创设计给我们所有人留下了深刻的印象。第三名是John Tolorunlojo，他的作品展示了非凡的创造力和技巧。
 壁纸大赛荣誉 
-在壁纸大赛中，我们很荣幸选出了三幅优秀作品，它们将为全球 Kubuntu 24.04 LTS 用户的屏幕增光添彩。祝贺 Gregorio、Dilip 和 Jack Sharp 贡献了令人惊叹的壁纸。每个设计都为 Kubuntu 桌面体验带来了独特的风格，体现了我们社区的精神。
+在壁纸大赛中，我们有幸选出了三幅优秀作品，它们将为全球 Kubuntu 24.04 LTS 用户的屏幕增光添彩。祝贺 Gregorio、Dilip 和 Jack Sharp 贡献了令人惊叹的壁纸。每个设计都为 Kubuntu 桌面体验带来了独特的风格，体现了我们社区的精神。
 衷心感谢
 我们向每一位与我们分享他们的艺术和愿景的参与者表示最深切的感谢。提交的作品数量和质量确实超出了我们的预期，体现了 Kubuntu 社区充满活力和创造力的精神。正是您的热情和参与使 Kubuntu 不仅是一个强大的操作系统，而且还是一个创造力的画布。
 展望未来 
@@ -100,13 +111,6 @@ Kubuntu 理事会对这些竞赛的成功感到非常兴奋，我们已经期待
 干杯！]]></description>
       <guid>https://kubuntu.org/news/celebrating-creativity-announcing-the-winners-of-the-kubuntu-contests/?utm_source=atom_feed</guid>
       <pubDate>Tue, 09 Apr 2024 20:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 季节：为 Labplot 添加 MCAP 支持</title>
-      <link>https://wirthual.github.io/posts/season-of-kde/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://wirthual.github.io/posts/season-of-kde/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 07 Apr 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
