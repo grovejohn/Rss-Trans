@@ -4,7 +4,21 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Apr 2024 12:46:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 14:35:15 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，2024-15 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 14:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>确保 KEcoLab 稳定性：引入专用 CI 测试</title>
+      <link>https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qt for MCU 2.5.3 LTS 发布</title>
       <link>https://www.qt.io/blog/qt-for-mcus-2.5.3-lts-released?utm_source=atom_feed</link>
@@ -53,7 +67,7 @@ elisa：使用 Qt Multimedia 后端修复损坏的音量滑块（提交，修复
     <item>
       <title>权利的酸味</title>
       <link>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</link>
-      <description><![CDATA[所以这个人，我们姑且称他们为乔，很饿，也没有钱。走在街上，他们看到一个广场，一群人正在公共开放式厨房里工作，免费提供美味的热饭菜。]]></description>
+      <description><![CDATA[所以这个人，我们姑且称他们为乔，很饿，也没有钱。走在街上，他们遇到了一个广场，一群人正在公共开放式厨房里工作，免费提供美味的热饭菜。]]></description>
       <guid>https://quickfix.es/2024/04/the-sour-taste-of-entitlement/?utm_source=atom_feed</guid>
       <pubDate>Wed, 10 Apr 2024 16:22:19 GMT</pubDate>
     </item>
@@ -93,21 +107,6 @@ Kubuntu 理事会对这些竞赛的成功感到非常兴奋，我们已经期待
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/04/06/kde-itinerary-february-march-2024.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 06 Apr 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：Spectacle 中真正的仅修改器快捷方式和裁剪</title>
-      <link>https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/04/05/this-week-in-kde-real-modifier-only-shortcuts-and-cropping-in-spectacle/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 06 Apr 2024 04:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 13 - CMake 更新</title>
-      <link>https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed</link>
-      <description><![CDATA[这里是 Qt Creator 13 中一组突出显示的 CMake 功能和修复。请查看 ChangeLog 用于所有 CMake 更改。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-13-cmake-update?utm_source=atom_feed</guid>
-      <pubDate>Fri, 05 Apr 2024 14:07:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
