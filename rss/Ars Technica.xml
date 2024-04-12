@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 12 Apr 2024 01:50:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 10:36:05 GMT</lastBuildDate>
+    <item>
+      <title>JWST 数据证实，超新星引发了 BOAT 伽马射线暴</title>
+      <link>https://arstechnica.com/?p=2016267</link>
+      <description><![CDATA[但天文学家对缺乏预期的重元素特征感到困惑。]]></description>
+      <guid>https://arstechnica.com/?p=2016267</guid>
+      <pubDate>Fri, 12 Apr 2024 09:00:09 GMT</pubDate>
+    </item>
     <item>
       <title>太空部队正在计划首次在轨军事演习</title>
       <link>https://arstechnica.com/?p=2016629</link>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 11 Apr 2024 21:27:59 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔的“Gaudi 3”人工智能加速器芯片可能会与英伟达的 H100 竞争</title>
+      <title>英特尔的“Gaudi 3”人工智能加速器芯片可能会与 Nvidia 的 H100 竞争</title>
       <link>https://arstechnica.com/?p=2016421</link>
       <description><![CDATA[英特尔声称，与市场领导者相比，运行 AI 语言模型的速度提高了 50%。]]></description>
       <guid>https://arstechnica.com/?p=2016421</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[自动文本替换让用户可以欺骗以 x 结尾的 URL，例如 netflix.com。]]></description>
       <guid>https://arstechnica.com/?p=2016566</guid>
       <pubDate>Thu, 11 Apr 2024 19:30:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果将​​允许重复使用 iPhone 零部件进行维修，但有一个值得注意的问题</title>
-      <link>https://arstechnica.com/?p=2016470</link>
-      <description><![CDATA[科罗拉多州参议院听取一项禁止零件配对的法案后，宣布了这一消息。]]></description>
-      <guid>https://arstechnica.com/?p=2016470</guid>
-      <pubDate>Thu, 11 Apr 2024 19:13:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
