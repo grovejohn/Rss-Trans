@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Apr 2024 14:35:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Apr 2024 16:36:13 GMT</lastBuildDate>
     <item>
       <title>网络评论，2024-15 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</link>
@@ -17,6 +17,13 @@
       <link>https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 发布框架 6.1.0</title>
+      <link>https://kde.org/announcements/frameworks/6/6.1.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/frameworks/6/6.1.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -100,13 +107,6 @@ Kubuntu 理事会对这些竞赛的成功感到非常兴奋，我们已经期待
       <description><![CDATA[]]></description>
       <guid>https://wirthual.github.io/posts/season-of-kde/?utm_source=atom_feed</guid>
       <pubDate>Sun, 07 Apr 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 二月/三月行程</title>
-      <link>https://www.volkerkrause.eu/2024/04/06/kde-itinerary-february-march-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/04/06/kde-itinerary-february-march-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 06 Apr 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
