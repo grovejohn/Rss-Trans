@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 13 Apr 2024 04:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 06:36:32 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：显式同步</title>
+      <link>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 13 Apr 2024 05:46:23 GMT</pubDate>
+    </item>
     <item>
       <title>Kubuntu：Noble Numbat Beta 版上线！ Qt6 快照即将推出。</title>
       <link>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</link>
@@ -93,26 +100,6 @@ Qt for MCUs 2.5.3 LTS（长期支持）已发布并可供下载。 作为补丁
       <link>https://eco.kde.org/blog/2024-04-11-sok24-selenium/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://eco.kde.org/blog/2024-04-11-sok24-selenium/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 齿轮 24.02.2</title>
-      <link>https://kde.org/announcements/gear/24.02.2/?utm_source=atom_feed</link>
-      <description><![CDATA[超过 180 个单独的程序以及数十个程序员库和功能插件作为 KDE Gear 的一部分同时发布。
-今天，他们都获得了新的错误修复源代码版本以及更新的翻译，包括：
-
-kcachegrind：修复打开历史菜单时的崩溃（提交，修复错误#483973)
-gwenview：查看图像时不再禁止暂停（提交，修复了错误#481481)
-elisa：使用 Qt Multimedia 后端修复损坏的音量滑块（提交，修复错误#392501)
-
-发行版和应用程序商店打包商应更新其应用程序包。
-
-24.02 发行说明，了解有关 tarball 和已知问题的信息。
-软件包下载 wiki 页面
-24.02.2 源信息页面
-24.02.2 完整变更日志
-]]></description>
-      <guid>https://kde.org/announcements/gear/24.02.2/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
