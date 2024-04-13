@@ -4,13 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 13 Apr 2024 18:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Apr 2024 20:35:16 GMT</lastBuildDate>
     <item>
       <title>本周 KDE：显式同步</title>
       <link>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</guid>
       <pubDate>Sat, 13 Apr 2024 05:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cantor 和 KDE Con​​nect 的印地语翻译 - SoK 2024</title>
+      <link>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[Cantor 和 KDE 连接的印地语翻译 - KDE 2024 年赛季 这是 SoK 2024 的第二篇也是最后一篇博客。
+在 KDE 赛季的后半段，我翻译了 Cantor 和 KDE connect 的印地语。 Cantor 和 KDE connect 分别有大约 1000 和 500 行。
+为了翻译这些软件，我参考了谷歌翻译和人工智能模型来改进我的翻译。翻译记忆库在查找重复项方面表现出色，并帮助我避免再次翻译相同的单词。]]></description>
+      <guid>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Kubuntu：Noble Numbat Beta 版上线！ Qt6 快照即将推出。</title>
@@ -37,7 +46,7 @@
 进行测试
 通过参与 Kubuntu 24.04 的 Beta 测试，您不仅可以帮助改进软件，还可以帮助改进软件。您正在成为重视开放协作和创新的全球社区不可或缺的一部分。您的贡献有助于我们发现并解决问题，确保 Kubuntu 始终是一个高质量、稳定且用户友好的 Linux 发行版。
 加入我们的测试团队的好处不仅仅是改进软件。您将获得宝贵的经验，结识志趣相投的人，也许还会在开源软件世界中发现新的热情。
-那为什么要等呢？立即下载 Kubuntu 24.04 测试版，试用KubuQA，或关注我们的 wiki 升级并帮助我们使 Kubuntu 变得比以往更好！请记住，您的反馈是我们成功的关键。
+那为什么要等呢？立即下载 Kubuntu 24.04 Beta，试用KubuQA，或关注我们的 wiki 升级并帮助我们使 Kubuntu 变得比以往更好！请记住，您的反馈是我们成功的关键。
 准备好产生影响了吗？ 
 加入我们这个激动人心的开发阶段，看看您的想法在 Kubuntu 中变成现实。另外，您还可以因为知道自己为全世界数百万人使用的项目做出了贡献而感到满足。立即成为测试人员并参与重大活动！
 不仅仅对测试感兴趣？ 
@@ -94,13 +103,6 @@ Qt for MCUs 2.5.3 LTS（长期支持）已发布并可供下载。 作为补丁
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/recursive-instantiation-with-qt-quick-and-json/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Apr 2024 07:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Selenium 如何帮助构建可持续软件（及更多）</title>
-      <link>https://eco.kde.org/blog/2024-04-11-sok24-selenium/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://eco.kde.org/blog/2024-04-11-sok24-selenium/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 11 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
