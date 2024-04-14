@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 14 Apr 2024 15:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2024 22:23:11 GMT</lastBuildDate>
     <item>
       <title>WILBUR：用于稳健且准确的网络代理的自适应上下文学习</title>
       <link>https://arxiv.org/abs/2404.05902</link>
@@ -22,7 +22,7 @@
     <item>
       <title>语言模型合成数据的最佳实践和经验教训</title>
       <link>https://arxiv.org/abs/2404.07503</link>
-      <description><![CDATA[人工智能模型的成功依赖于大型、多样化和高质量数据集的可用性，但由于数据稀缺、隐私问题和高成本，这些数据集的获取可能具有挑战性。通过生成模仿现实世界模式的人工数据，合成数据已成为一种有前途的解决方案。本文概述了合成数据研究，讨论了其应用、挑战和未来方向。我们提供现有技术的经验证据来证明其有效性，并强调确保其真实性、保真度和公正性的重要性。我们强调需要负责任地使用合成数据来构建更强大、更具包容性和值得信赖的语言模型。]]></description>
+      <description><![CDATA[人工智能模型的成功依赖于大型、多样化和高质量数据集的可用性，但由于数据稀缺、隐私问题和高成本，这些数据集的获取可能具有挑战性。通过生成模仿现实世界模式的人工数据，合成数据已成为一种有前景的解决方案。本文概述了合成数据研究，讨论了其应用、挑战和未来方向。我们提供现有技术的经验证据来证明其有效性，并强调确保其真实性、保真度和公正性的重要性。我们强调需要负责任地使用合成数据来构建更强大、更具包容性和值得信赖的语言模型。]]></description>
       <guid>https://arxiv.org/abs/2404.07503</guid>
       <pubDate>Fri, 12 Apr 2024 02:32:36 GMT</pubDate>
     </item>
@@ -34,7 +34,7 @@
       <pubDate>Fri, 12 Apr 2024 02:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>在有限的时间间隔内应用指导可提高扩散模型中的样本和分布质量</title>
+      <title>在有限的时间间隔内应用指导可以提高扩散模型中的样本和分布质量</title>
       <link>https://arxiv.org/abs/2404.07724</link>
       <description><![CDATA[引导是从图像生成扩散模型中提取最佳性能的关键技术。传统上，在图像的整个采样链中应用恒定的引导权重。我们表明，指导显然对链的开头（高噪音水平）有害，对末端（低噪音水平）基本上没有必要，并且只对中间有利。因此，我们将其限制在特定的噪声水平范围内，从而提高推理速度和结果质量。这种有限的指导区间显着提高了 ImageNet-512 中的记录 FID，从 1.81 提高到 1.40。我们证明，它在不同的采样器参数、网络架构和数据集（包括稳定扩散 XL 的大规模设置）中在定量和定性上都是有益的。因此，我们建议将指导间隔作为所有使用指导的扩散模型中的超参数。]]></description>
       <guid>https://arxiv.org/abs/2404.07724</guid>
