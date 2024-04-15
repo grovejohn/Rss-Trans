@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 15 Apr 2024 12:44:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 13:14:20 GMT</lastBuildDate>
     <item>
       <title>缩放（缩小）CLIP：数据、架构和训练策略的综合分析</title>
       <link>https://arxiv.org/abs/2404.08197</link>
@@ -43,7 +43,7 @@
     <item>
       <title>使用更少的代币预训练小型 LM</title>
       <link>https://arxiv.org/abs/2404.08634</link>
-      <description><![CDATA[我们研究了从现有大型基础语言模型 (LM) 开始开发小型基础语言模型 (LM) 的简单方法的有效性：首先从较大的 LM 继承一些 Transformer 块，然后在非常小的子集（0.1 \%) 较大模型的原始预训练数据。我们将我们的简单配方称为 Inheritune，并首先演示它如何使用 1B 代币（以及 3B 参数的较大 LM 的起始几层）构建具有 1.5B 参数的小型基本 LM；我们使用单个 A6000 GPU 花费了不到半天的时间完成此任务。在 9 个不同的评估数据集以及 MMLU 基准中，生成的模型与公开可用的 1B-2B 大小的基本模型相比具有优势，其中一些模型已经使用 50-1000 倍的令牌进行了训练。我们在稍微不同的环境中研究 Inheritune，我们利用较大的 LM 及其完整的预训练数据集来训练小型 LM。在这里，我们表明，当从头开始训练相同数量的训练步骤时，使用 GPT2-medium (355M) 和 GPT-2-large (770M) 的某些层训练的较小 LM 可以有效地匹配其较大对应层的 val 损失。具有 9B 个标记的 OpenWebText 数据集。我们通过大量实验分析我们的配方，并证明其在不同环境下的功效。我们的代码可在 https://github.com/sanyalsunny111/LLM-Inheritune 获取。]]></description>
+      <description><![CDATA[我们研究了从现有大型基础语言模型 (LM) 开始开发小型基础语言模型 (LM) 的简单方法的有效性：首先从较大的 LM 继承一些 Transformer 块，然后在非常小的子集（0.1 \%) 较大模型的原始预训练数据。我们将我们的简单配方称为 Inheritune，并首先演示它如何使用 1B 代币（以及 3B 参数的较大 LM 的起始几层）构建具有 1.5B 参数的小型基础 LM；我们使用单个 A6000 GPU 花费了不到半天的时间完成此任务。在 9 个不同的评估数据集以及 MMLU 基准中，生成的模型与公开可用的 1B-2B 大小的基本模型相比具有优势，其中一些模型已经使用 50-1000 倍的令牌进行了训练。我们在稍微不同的环境中研究 Inheritune，我们利用较大的 LM 及其完整的预训练数据集来训练小型 LM。在这里，我们表明，当从头开始训练相同数量的训练步骤时，使用 GPT2-medium (355M) 和 GPT-2-large (770M) 的某些层训练的较小 LM 可以有效地匹配其较大对应层的 val 损失。具有 9B 个标记的 OpenWebText 数据集。我们通过大量实验分析我们的配方，并证明其在不同环境下的功效。我们的代码可在 https://github.com/sanyalsunny111/LLM-Inheritune 获取。]]></description>
       <guid>https://arxiv.org/abs/2404.08634</guid>
       <pubDate>Mon, 15 Apr 2024 01:42:26 GMT</pubDate>
     </item>
