@@ -4,11 +4,21 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Apr 2024 08:36:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 10:35:02 GMT</lastBuildDate>
+    <item>
+      <title>KDE 霓虹灯开门聊天</title>
+      <link>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</link>
+      <description><![CDATA[KDE 6 Megarelease 已经过去几周了，虽然很多人都觉得它运行良好，但 KDE neon 的推出过程中存在太多问题。
+我们将于明天（4 月 16 日星期二）在 KDE 上举办两场 Open Door Chat，用户可以与开发人员讨论您遇到的任何问题。
+https://meet.kde.org/b/jon-0yw- xqi-sk6 访问代码将发布在 KDE neon Telegram 群组和 Matrix 聊天室或发送电子邮件至 jr@jriddell.org
+2024 年 4 月 16 日星期二 09:00 UTC（10:00 BST、11:00 CEST）和 19:00 UTC（20:00 BST、21:00 CEST）聊天]]></description>
+      <guid>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Apr 2024 10:16:34 GMT</pubDate>
+    </item>
     <item>
       <title>QTextDocument 的改进</title>
       <link>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</link>
-      <description><![CDATA[ 使用 QTextDocument 实现所见即所得
+      <description><![CDATA[Marknote 使用 QTextDocument 实现所见即所得
 文本编辑器。这出乎意料地非常强大，并且感谢借用了一些代码
 从 KMail 富文本编辑器中，实现大部分内容并不难
 降价规范。
@@ -135,7 +145,7 @@ Qt 以前仅支持 % 单位 px 和 em。
       <description><![CDATA[这是我关于参加 KDE 2024 赛季经历的最后一篇博客。
 作为我最后一个学期的一部分，我将tellico 翻译成印地语。 Tellico 包含 2070 个跨越消息和文档消息的语句。
 我使用 lokalize 应用程序进行翻译。
-我在翻译过程中几乎没有遇到任何问题，除了翻译的单词有些歧义之外。感谢 Raghavendra Kamath 帮助我解决了这几个问题。
+除了翻译的单词有些含糊之外，我在翻译工作中几乎没有遇到任何问题。感谢 Raghavendra Kamath 帮助我解决了这几个问题。
 总的来说，在整个计划中这是一次很棒的经历。]]></description>
       <guid>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 09:13:24 GMT</pubDate>
@@ -145,13 +155,6 @@ Qt 以前仅支持 % 单位 px 和 em。
       <link>https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 发布框架 6.1.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.1.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.1.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
