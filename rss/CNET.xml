@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>科技网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Mon, 15 Apr 2024 04:21:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 04:41:33 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳剃须俱乐部：Dollar Shave Club、Harry's and More - CNET</title>
+      <link>https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e</link>
+      <description><![CDATA[使用这些出色的剃须棒提升您的剃须习惯。]]></description>
+      <guid>https://www.cnet.com/health/personal-care/best-shave-club/#ftag=CAD590a51e</guid>
+      <pubDate>Mon, 15 Apr 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>今天的 Wordle 提示和答案：4 月 15 日的帮助，#1031 - CNET</title>
       <link>https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-15-1031/#ftag=CAD590a51e</link>
@@ -27,7 +34,7 @@
       <pubDate>Sun, 14 Apr 2024 22:54:05 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年最佳华夫饼制造商 - CNET</title>
+      <title>2024 年最佳华夫饼机 - CNET</title>
       <link>https://www.cnet.com/home/kitchen-and-household/best-waffle-makers/#ftag=CAD590a51e</link>
       <description><![CDATA[使用我们精选的最佳华夫饼机，成为您家庭的早餐冠军。]]></description>
       <guid>https://www.cnet.com/home/kitchen-and-household/best-waffle-makers/#ftag=CAD590a51e</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[这些经过验证的技巧将帮助您自然地缓解焦虑。]]></description>
       <guid>https://www.cnet.com/health/mental/9-natural-remedies-for-soothing-anxiety-without-medication/#ftag=CAD590a51e</guid>
       <pubDate>Sun, 14 Apr 2024 17:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳三星 Galaxy Z Flip 4 保护壳 - CNET</title>
-      <link>https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-4-cases/#ftag=CAD590a51e</link>
-      <description><![CDATA[使用我们最喜爱的保护壳，可保护您老化的 Galaxy Z Flip 4 免受跌落、破裂和泼溅。]]></description>
-      <guid>https://www.cnet.com/tech/mobile/best-samsung-galaxy-z-flip-4-cases/#ftag=CAD590a51e</guid>
-      <pubDate>Sun, 14 Apr 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
