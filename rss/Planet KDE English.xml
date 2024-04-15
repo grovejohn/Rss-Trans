@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Apr 2024 10:35:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 16:35:13 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.02.2 发布</title>
+      <link>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Apr 2024 13:53:10 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 霓虹灯开门聊天</title>
       <link>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</link>
@@ -149,13 +156,6 @@ Qt 以前仅支持 % 单位 px 和 em。
 总的来说，在整个计划中这是一次很棒的经历。]]></description>
       <guid>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 09:13:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>确保 KEcoLab 稳定性：引入专用 CI 测试</title>
-      <link>https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://eco.kde.org/blog/2024-04-12-sok24-energy-measurement-lab/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
