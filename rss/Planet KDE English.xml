@@ -4,7 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Apr 2024 18:36:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 22:37:12 GMT</lastBuildDate>
+    <item>
+      <title>Trung Thanh Dinh - digiKam 中使用 OpenCV 进行 AI 人脸识别 - Akademy 2019</title>
+      <link>https://tube.kockatoo.org/w/qTp36oaEYBBBx1oHerztBN?utm_source=atom_feed</link>
+      <description><![CDATA[目前，我们正在观察技术的惊人发展，特别是在人工智能领域。事实上，通过从海量数据中学习，人工智能特别擅长一些普通算法无法达到良好性能水平的任务，例如：图像分类、语音识别、目标检测、趋势预测、特征提取等。此外，新的人工智能随着神经网络和深度学习的出现，算法甚至使人工智能模型变得更加鲁棒，因此它们现在可以提供更好的预测，而不受自我改进的限制。
+意识到这些资产，digiKam 团队已考虑在 digiKam 中使用深度学习。因此，本次演讲旨在介绍一种基于深度学习模型和OpenCV DNN模块的digiKam中人脸识别的新实现，从而提高人脸识别模块的性能。]]></description>
+      <guid>https://tube.kockatoo.org/w/qTp36oaEYBBBx1oHerztBN?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Apr 2024 22:24:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ivana Isadora Devcic - 为什么您的社区需要开发者门户 - Akademy 2019</title>
+      <link>https://tube.kockatoo.org/w/jhS8wMP4ftzVcL5drzSAiW?utm_source=atom_feed</link>
+      <description><![CDATA[像 KDE 这样的社区如何从开发者门户中受益......什么是开发者门户？本次演讲旨在回答这些问题，并为构建开发人员门户提供实用建议。本次会议的见解可以为所有希望确保其社区不断发展和繁荣的贡献者提供指导和启发。]]></description>
+      <guid>https://tube.kockatoo.org/w/jhS8wMP4ftzVcL5drzSAiW?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Apr 2024 21:24:05 GMT</pubDate>
+    </item>
     <item>
       <title>Okular 获得有趣的新功能</title>
       <link>https://tube.kockatoo.org/w/7FxQEQHm6hZBbDd5bmYiWS?utm_source=atom_feed</link>
@@ -137,33 +152,6 @@ Qt 以前仅支持 % 单位 px 和 em。
 斯嘉丽]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 19:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu 24.04 Beta 发布</title>
-      <link>https://kubuntu.org/news/kubuntu-24-04-beta-released/?utm_source=atom_feed</link>
-      <description><![CDATA[加入兴奋：
-测试 Kubuntu 24.04 Beta 并通过 KubuQA 体验创新！
-
-我们很高兴地宣布 Kubuntu 24.04 Beta 现已推出！&lt; /a&gt; 此版本包含新功能和增强功能，我们邀请您，我们尊贵的社区，与我们一起微调这个令人兴奋的新版本。无论您是经验丰富的测试人员还是软件测试新手，您的反馈对于让 Kubuntu 24.04 成为最好的产品至关重要。
-为了让您的测试之旅变得简单，我们推出了一款出色的新工具：&lt;强&gt;KubuQA。 KubuQA 在设计时考虑了新用户和有经验的用户，通过自​​动化下载、VirtualBox 设置和配置步骤来简化测试过程。现在，每个人都可以轻松参与 Kubuntu 测试！
-此测试版还首次推出了我们全新的品牌、艺术作品和壁纸，这些都是由我们自己的社区通过最近的 品牌和壁纸竞赛。这些新增内容反映了 Kubuntu 家族的精神和创造力，我们迫不及待地想让您看到他们。
-进行测试
-通过参与 Kubuntu 24.04 的 Beta 测试，您不仅可以帮助改进软件，还可以帮助改进软件。您正在成为重视开放协作和创新的全球社区不可或缺的一部分。您的贡献有助于我们发现并解决问题，确保 Kubuntu 始终是一个高质量、稳定且用户友好的 Linux 发行版。
-加入我们的测试团队的好处不仅仅是改进软件。您将获得宝贵的经验，结识志趣相投的人，也许还会在开源软件世界中发现新的热情。
-那为什么要等呢？立即下载 Kubuntu 24.04 测试版，试用KubuQA，或关注我们的 wiki 升级并帮助我们使 Kubuntu 变得比以往更好！请记住，您的反馈是我们成功的关键。
-准备好产生影响了吗？ 
-加入我们这个激动人心的开发阶段，看看您的想法在 Kubuntu 中变成现实。另外，您还可以因为知道自己为全世界数百万人使用的项目做出了贡献而感到满足。立即成为测试人员并参与重大活动！
-不仅仅对测试感兴趣？ 
-顺便问一下，您是否考虑过成为 Kubuntu 社区的一员？这是更积极地做出贡献并帮助塑造 Kubuntu 未来的绝佳方式。详细了解加入社区]]></description>
-      <guid>https://kubuntu.org/news/kubuntu-24-04-beta-released/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 18:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，2024-15 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 14:19:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
