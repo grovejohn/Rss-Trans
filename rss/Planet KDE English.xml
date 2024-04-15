@@ -4,7 +4,26 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Apr 2024 16:35:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 18:36:40 GMT</lastBuildDate>
+    <item>
+      <title>Okular 获得有趣的新功能</title>
+      <link>https://tube.kockatoo.org/w/7FxQEQHm6hZBbDd5bmYiWS?utm_source=atom_feed</link>
+      <description><![CDATA[下周 KDE 将发布应用程序 19.04，彻底修改通常与 KDE Plasma 桌面一起打包的大部分程序套件。这个新版本使 KDE 的应用程序更加用户友好、彼此一致且全面流畅。
+除了其他改进之外，Okular 还支持显示和验证 PDF 上的数字签名。此功能对于使用 KDE 的文档查看器进行业务或如果您需要以任何官方身份交换文档...例如在谈判国际和平条约时至关重要。数字签名可让您确定文档的真实性（无论其是否被篡改），并确认文档的来源和发送者。
+归因：
+老歌公共领域的镜头和法国 Reel Victor 军乐队 Burchenal 音乐可从以下位置获取：
+https://archive.org
+Steadman CC By-NC-ND 的“防晒乳液”可从：
+http://freemusicarchive.org/music/Steadman/The_Bitter_End/08_sun_lotion
+（还有更多震撼人心的曲调）
+和平条约镜头可从：
+Clintonlibrary 42：https://www.youtube.com/channel/UCMkYd9teJEBlCOwDan6qPpg
+新西兰一新闻：https://www.youtube.com/channel/UCRdbeElPWvSumxERqoR7ZUA&lt; /a&gt;
+欧盟委员会：https://www.youtube.com/channel/UCMPaviJxybo1RTdzvYcU91A
+非常感谢内容创作者在慷慨的免费许可下免费提供他们的作品。没有您的慷慨，就不可能制作出这样的视频。]]></description>
+      <guid>https://tube.kockatoo.org/w/7FxQEQHm6hZBbDd5bmYiWS?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Apr 2024 17:31:57 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.02.2 发布</title>
       <link>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</link>
@@ -145,17 +164,6 @@ Qt 以前仅支持 % 单位 px 和 em。
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 14:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tellico 印地语翻译 - SoK 2024</title>
-      <link>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[这是我关于参加 KDE 2024 赛季经历的最后一篇博客。
-作为我最后一个学期的一部分，我将tellico 翻译成印地语。 Tellico 包含 2070 个跨越消息和文档消息的语句。
-我使用 lokalize 应用程序进行翻译。
-除了翻译的单词有些含糊之外，我在翻译工作中几乎没有遇到任何问题。感谢 Raghavendra Kamath 帮助我解决了这几个问题。
-总的来说，在整个计划中这是一次很棒的经历。]]></description>
-      <guid>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 09:13:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
