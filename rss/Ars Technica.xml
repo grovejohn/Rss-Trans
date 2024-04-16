@@ -4,11 +4,32 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 16 Apr 2024 21:12:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 22:12:40 GMT</lastBuildDate>
+    <item>
+      <title>Linus Torvalds 通过内核陷阱重申了制表符与空格的立场</title>
+      <link>https://arstechnica.com/?p=2017554</link>
+      <description><![CDATA[人们并不只是建议更改内核行来帮助解析工具。]]></description>
+      <guid>https://arstechnica.com/?p=2017554</guid>
+      <pubDate>Tue, 16 Apr 2024 21:51:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>攻击者通过数百万次登录尝试攻击世界各地的网络</title>
+      <link>https://arstechnica.com/?p=2017646</link>
+      <description><![CDATA[来自近 4,000 个 IP 地址的攻击针对 VPN、SSH 和 Web 应用程序。]]></description>
+      <guid>https://arstechnica.com/?p=2017646</guid>
+      <pubDate>Tue, 16 Apr 2024 21:31:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>CDC称假肉毒杆菌中毒疫情已蔓延至9个州</title>
+      <link>https://arstechnica.com/?p=2017617</link>
+      <description><![CDATA[所有病例均为女性，其中九人住院。]]></description>
+      <guid>https://arstechnica.com/?p=2017617</guid>
+      <pubDate>Tue, 16 Apr 2024 21:10:52 GMT</pubDate>
+    </item>
     <item>
       <title>研究揭示了缓步动物如何在强辐射下生存的新线索</title>
       <link>https://arstechnica.com/?p=2017449</link>
-      <description><![CDATA[辐射会损害他们的 DNA；他们能够很快修复损坏。]]></description>
+      <description><![CDATA[辐射会损害它们的 DNA；但它们能够很快修复这种损伤。]]></description>
       <guid>https://arstechnica.com/?p=2017449</guid>
       <pubDate>Tue, 16 Apr 2024 20:55:02 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[如果每个人都只付费购买 YouTube Premium，谷歌会非常高兴。]]></description>
       <guid>https://arstechnica.com/?p=2017446</guid>
       <pubDate>Tue, 16 Apr 2024 17:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 监督委员会将调查人工智能色情图片删除的主观政策</title>
-      <link>https://arstechnica.com/?p=2017451</link>
-      <description><![CDATA[名人人工智能性感图像丑闻促使 Meta 寻求政策改革的意见。]]></description>
-      <guid>https://arstechnica.com/?p=2017451</guid>
-      <pubDate>Tue, 16 Apr 2024 17:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国新法律针对制造人工智能性爱深度假货的“卑鄙个人”</title>
-      <link>https://arstechnica.com/?p=2017401</link>
-      <description><![CDATA[根据新法律，这些图像的创作者将面临罚款，甚至可能入狱。]]></description>
-      <guid>https://arstechnica.com/?p=2017401</guid>
-      <pubDate>Tue, 16 Apr 2024 14:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯航天局局长称新火箭将使猎鹰9号的重复使用相形见绌</title>
-      <link>https://arstechnica.com/?p=2017380</link>
-      <description><![CDATA[只有一个问题...]]></description>
-      <guid>https://arstechnica.com/?p=2017380</guid>
-      <pubDate>Tue, 16 Apr 2024 13:57:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
