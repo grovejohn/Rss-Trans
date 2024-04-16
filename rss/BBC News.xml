@@ -4,11 +4,25 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Tue, 16 Apr 2024 04:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 05:13:34 GMT</lastBuildDate>
+    <item>
+      <title>巴基斯坦闪电和降雨造成数十人死亡</title>
+      <link>https://www.bbc.co.uk/news/world-asia-68823490</link>
+      <description><![CDATA[当局还警告未来几天可能会发生山体滑坡和山洪。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-asia-68823490</guid>
+      <pubDate>Tue, 16 Apr 2024 04:29:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>悉尼教堂刺伤事件被宣布为“恐怖”袭击</title>
+      <link>https://www.bbc.co.uk/news/world-australia-68823240</link>
+      <description><![CDATA[周一，一名主教和几名去教堂的人受伤，一名 16 岁男孩被捕。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-australia-68823240</guid>
+      <pubDate>Tue, 16 Apr 2024 03:53:24 GMT</pubDate>
+    </item>
     <item>
       <title>国会议员将对阿尔法一代禁烟令进行投票</title>
       <link>https://www.bbc.co.uk/news/uk-politics-68816566</link>
-      <description><![CDATA[Rishi Sunak 希望禁止 2009 年之后出生的人购买香烟，制定了一些最严厉的反烟草法律。]]></description>
+      <description><![CDATA[Rishi Sunak 希望禁止 2009 年之后出生的人购买香烟，制定了一些最严厉的反烟草法。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-politics-68816566</guid>
       <pubDate>Tue, 16 Apr 2024 03:31:13 GMT</pubDate>
     </item>
@@ -55,23 +69,9 @@
       <pubDate>Mon, 15 Apr 2024 21:32:17 GMT</pubDate>
     </item>
     <item>
-      <title>亲巴勒斯坦抗议封锁金门大桥</title>
-      <link>https://www.bbc.co.uk/news/world-us-canada-68822317</link>
-      <description><![CDATA[旧金山金门大桥在亲巴勒斯坦示威期间被封锁数小时。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-us-canada-68822317</guid>
-      <pubDate>Mon, 15 Apr 2024 20:10:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>总理未出席开斋节派对 客人抵制</title>
-      <link>https://www.bbc.co.uk/news/uk-england-london-68818484</link>
-      <description><![CDATA[里希·苏纳克 (Rishi Sunak) 发表了有关伊朗问题的声明，而许多客人却避开了在 10 号举行的年度招待会。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-london-68818484</guid>
-      <pubDate>Mon, 15 Apr 2024 19:46:14 GMT</pubDate>
-    </item>
-    <item>
       <title>为亚历克·鲍德温装枪的 Rust 电影军械匠被判 18 个月监禁</title>
       <link>https://www.bbc.co.uk/news/entertainment-arts-68819796</link>
-      <description><![CDATA[2021 年片场枪击事件后，法官判处汉娜·古铁雷斯-里德入狱。]]></description>
+      <description><![CDATA[2021 年片场枪击事件后，一名法官判处汉娜·古铁雷斯-里德入狱。]]></description>
       <guid>https://www.bbc.co.uk/news/entertainment-arts-68819796</guid>
       <pubDate>Mon, 15 Apr 2024 18:56:10 GMT</pubDate>
     </item>

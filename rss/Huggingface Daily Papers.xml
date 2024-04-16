@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 04:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 05:13:29 GMT</lastBuildDate>
     <item>
       <title>驯服神经辐射场修复的潜在扩散模型</title>
       <link>https://arxiv.org/abs/2404.09995</link>
@@ -29,14 +29,14 @@
     <item>
       <title>Ctrl-Adapter：一个高效且多功能的框架，用于使各种控制适应任何扩散模型</title>
       <link>https://arxiv.org/abs/2404.09967</link>
-      <description><![CDATA[ControlNet 广泛用于在不同条件下的图像生成中添加空间控制，例如深度图、精明边缘和人体姿势。然而，利用预训练图像 ControlNet 进行受控视频生成时存在一些挑战。首先，由于特征空间的不匹配，预训练的ControlNet无法直接插入新的骨干模型，并且为新的骨干网络训练ControlNet的成本是一个很大的负担。其次，不同帧的 ControlNet 特征可能无法有效处理时间一致性。为了应对这些挑战，我们引入了 Ctrl-Adapter，这是一种高效且多功能的框架，通过调整预训练的 ControlNet（并改进视频的​​时间对齐），为任何图像/视频扩散模型添加多种控制。 Ctrl-Adapter 提供多种功能，包括图像控制、视频控制、稀疏帧视频控制、多条件控制、与不同骨干网的兼容性、适应不可见的控制条件以及视频编辑。在 Ctrl-Adapter 中，我们训练适配器层，将预训练的 ControlNet 特征融合到不同的图像/视频扩散模型，同时保持 ControlNet 和扩散模型的参数冻结。 Ctrl-Adapter由时间和空间模块组成，可以有效处理视频的时间一致性。我们还提出了潜在跳跃和反时间步采样，以实现鲁棒自适应和稀疏控制。此外，Ctrl-Adapter 只需取 ControlNet 输出的（加权）平均值即可实现多种条件下的控制。凭借不同的图像/视频扩散主干（SDXL、Hotshot-XL、I2VGen-XL 和 SVD），Ctrl-Adapter 在图像控制方面与 ControlNet 相匹配，并优于视频控制的所有基线（在 DAVIS 2017 数据集上实现了 SOTA 精度）更低的计算成本（少于 10 个 GPU 小时）。]]></description>
+      <description><![CDATA[ControlNet 广泛用于在不同条件下的图像生成中添加空间控制，例如深度图、精明边缘和人体姿势。然而，利用预训练图像 ControlNet 进行受控视频生成时存在一些挑战。首先，由于特征空间的不匹配，预训练的ControlNet无法直接插入新的骨干模型，并且为新的骨干网络训练ControlNet的成本是一个很大的负担。其次，不同帧的 ControlNet 特征可能无法有效处理时间一致性。为了应对这些挑战，我们引入了 Ctrl-Adapter，这是一种高效且多功能的框架，通过调整预训练的 ControlNet（并改进视频的​​时间对齐），为任何图像/视频扩散模型添加多种控制。 Ctrl-Adapter 提供多种功能，包括图像控制、视频控制、稀疏帧视频控制、多条件控制、与不同骨干网的兼容性、适应不可见的控制条件以及视频编辑。在 Ctrl-Adapter 中，我们训练适配器层，将预训练的 ControlNet 特征融合到不同的图像/视频扩散模型，同时保持 ControlNet 和扩散模型的参数冻结。 Ctrl-Adapter由时间和空间模块组成，可以有效处理视频的时间一致性。我们还提出了潜在跳跃和反时间步采样，以实现鲁棒自适应和稀疏控制。此外，Ctrl-Adapter 只需取 ControlNet 输出的（加权）平均值即可实现多种条件下的控制。凭借不同的图像/视频扩散主干（SDXL、Hotshot-XL、I2VGen-XL 和 SVD），Ctrl-Adapter 在图像控制方面与 ControlNet 相匹配，并优于视频控制的所有基线（在 DAVIS 2017 数据集上实现了 SOTA 精度）较低的计算成本（少于 10 个 GPU 小时）。]]></description>
       <guid>https://arxiv.org/abs/2404.09967</guid>
       <pubDate>Tue, 16 Apr 2024 02:55:25 GMT</pubDate>
     </item>
     <item>
       <title>Tango 2：通过直接偏好优化调整基于扩散的文本到音频生成</title>
       <link>https://arxiv.org/abs/2404.09956</link>
-      <description><![CDATA[生成式多模式内容在许多内容创作领域越来越普遍，因为它有潜力允许艺术家和媒体人员通过快速将他们的想法变为现实来创建预制作模型。从文本提示生成音频是音乐和电影行业此类过程的一个重要方面。最近许多基于扩散的文本到音频模型都专注于在大量提示音频对数据集上训练日益复杂的扩散模型。这些模型没有明确关注概念或事件的存在及其在输出音频中相对于输入提示的时间顺序。我们的假设重点是音频生成的这些方面如何在数据有限的情况下提高音频生成性能。因此，在这项工作中，我们使用现有的文本到音频模型 Tango，综合创建一个偏好数据集，其中每个提示都有一个获胜者音频输出和一些失败者音频输出，供扩散模型学习。理论上，失败者的输出有一些来自提示的概念缺失或顺序不正确。我们在偏好数据集上使用扩散-DPO（直接偏好优化）损失对公开可用的 Tango 文本到音频模型进行了微调，并表明它在自动和手动方面都比 Tango 和 AudioLDM2 改进了音频输出- 评估指标。]]></description>
+      <description><![CDATA[生成式多模式内容在许多内容创作领域越来越普遍，因为它有潜力允许艺术家和媒体人员通过快速将他们的想法变为现实来创建预制作模型。从文本提示生成音频是音乐和电影行业此类过程的一个重要方面。最近许多基于扩散的文本到音频模型都专注于在大量提示音频对数据集上训练日益复杂的扩散模型。这些模型没有明确关注概念或事件的存在及其在输出音频中相对于输入提示的时间顺序。我们的假设重点是音频生成的这些方面如何在数据有限的情况下提高音频生成性能。因此，在这项工作中，我们使用现有的文本到音频模型 Tango，综合创建一个偏好数据集，其中每个提示都有一个获胜者音频输出和一些失败者音频输出，供扩散模型学习。从理论上讲，失败者的输出有一些来自提示的概念缺失或顺序不正确。我们在偏好数据集上使用扩散-DPO（直接偏好优化）损失对公开可用的 Tango 文本到音频模型进行了微调，并表明它在自动和手动方面都比 Tango 和 AudioLDM2 改进了音频输出- 评估指标。]]></description>
       <guid>https://arxiv.org/abs/2404.09956</guid>
       <pubDate>Tue, 16 Apr 2024 02:41:27 GMT</pubDate>
     </item>
