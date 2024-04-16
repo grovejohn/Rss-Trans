@@ -4,55 +4,41 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 04:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 04:35:58 GMT</lastBuildDate>
     <item>
-      <title>缩放（缩小）CLIP：数据、架构和训练策略的综合分析</title>
-      <link>https://arxiv.org/abs/2404.08197</link>
-      <description><![CDATA[本文研究了对比语言图像预训练（CLIP）在缩小到有限计算预算时的性能。我们从数据、架构和训练策略三个维度来探索 CLIP。在数据方面，我们证明了高质量训练数据的重要性，并表明较小的高质量数据集可以胜过较大但质量较低的数据集。我们还研究了模型性能如何随不同数据集大小而变化，表明较小的 ViT 模型更适合较小的数据集，而较大的模型在具有固定计算的较大数据集上表现更好。此外，我们还提供了关于何时选择基于 CNN 的架构或基于 ViT 的架构进行 CLIP 训练的指导。我们比较了四种 CLIP 训练策略 - SLIP、FLIP、CLIP 和 CLIP+数据增强 - 并表明训练策略的选择取决于可用的计算资源。我们的分析表明，CLIP+数据增强仅使用一半的训练数据即可实现与 CLIP 相当的性能。这项工作提供了有关如何有效训练和部署 CLIP 模型的实用见解，使它们在各种应用中更易于访问且更经济实惠。]]></description>
-      <guid>https://arxiv.org/abs/2404.08197</guid>
-      <pubDate>Mon, 15 Apr 2024 02:04:38 GMT</pubDate>
+      <title>驯服神经辐射场修复的潜在扩散模型</title>
+      <link>https://arxiv.org/abs/2404.09995</link>
+      <description><![CDATA[神经辐射场 (NeRF) 是多视图图像 3D 重建的一种表示。尽管最近的一些工作显示在使用扩散先验编辑重建的 NeRF 方面取得了初步成功，但他们仍然在努力在完全未覆盖的区域中合成合理的几何结构。一个主要原因是扩散模型合成内容的高度多样性，这阻碍了辐射场收敛到清晰且确定性的几何形状。此外，由于自动编码错误，在实际数据上应用潜在扩散模型通常会产生与图像条件不相干的纹理变化。使用像素距离损失进一步加剧了这两个问题。为了解决这些问题，我们建议通过按场景定制来调节扩散模型的随机性，并通过蒙面对抗训练来减轻纹理变化。在分析过程中，我们还发现常用的像素和感知损失在 NeRF 修复任务中是有害的。通过严格的实验，我们的框架在各种现实场景中产生了最先进的 NeRF 修复结果。项目页面：https://hubert0527.github.io/MALD-NeRF]]></description>
+      <guid>https://arxiv.org/abs/2404.09995</guid>
+      <pubDate>Tue, 16 Apr 2024 03:11:46 GMT</pubDate>
     </item>
     <item>
-      <title>COCONut：现代化 COCO 分割</title>
-      <link>https://arxiv.org/abs/2404.08639</link>
-      <description><![CDATA[近几十年来，视觉界见证了视觉识别方面的显着进步，部分原因在于数据集基准的进步。值得注意的是，已建立的 COCO 基准推动了现代检测和分割系统的发展。然而，COCO 分割基准在过去十年中进步相对缓慢。它最初配备了针对事物实例的粗略多边形注释，后来逐渐合并了针对事物区域的粗略超像素注释，这些注释随后被启发式合并以产生全景分割注释。这些由不同的评估者组执行的注释不仅导致粗分割掩模，而且导致分割类型之间的不一致。在本研究中，我们对 COCO 分割注释进行了全面的重新评估。通过提高注释质量和扩展数据集以包含 383K 图像和超过 518 万个全景蒙版，我们引入了 COCONut，即 COCO Next Universal segmentation 数据集。 COCONut 通过精心制作的高质量掩模协调语义、实例和全景分割的分割注释，并为所有分割任务建立了强大的基准。据我们所知，COCONut 是首个经过人类评估者验证的大规模通用分割数据集。我们预计 COCONut 的发布将极大地提高社区评估新型神经网络进展的能力。]]></description>
-      <guid>https://arxiv.org/abs/2404.08639</guid>
-      <pubDate>Mon, 15 Apr 2024 02:00:41 GMT</pubDate>
+      <title>HQ-Edit：用于基于指令的图像编辑的高质量数据集</title>
+      <link>https://arxiv.org/abs/2404.09990</link>
+      <description><![CDATA[本研究引入了 HQ-Edit，这是一个基于指令的高质量图像编辑数据集，包含约 200,000 次编辑。与之前依赖属性指导或人工反馈来构建数据集的方法不同，我们利用先进的基础模型（即 GPT-4V 和 DALL-E 3）设计了一个可扩展的数据收集管道。为了确保其高质量，首先在线收集不同的示例，然后进行扩展，然后用于创建高质量的双联画，其中包含带有详细文本提示的输入和输出图像，然后通过后处理确保精确对齐。此外，我们提出了两个评估指标：对齐和连贯性，以使用 GPT-4V 定量评估图像编辑对的质量。 HQ-Edits 高分辨率图像，细节丰富，并配有全面的编辑提示，大大增强了现有图像编辑模型的功能。例如，经过 HQ-Edit 微调的 InstructPix2Pix 可以获得最先进的图像编辑性能，甚至超越那些使用人工注释数据微调的模型。项目页面为https://thefllood.github.io/HQEdit_web。]]></description>
+      <guid>https://arxiv.org/abs/2404.09990</guid>
+      <pubDate>Tue, 16 Apr 2024 03:04:31 GMT</pubDate>
     </item>
     <item>
-      <title>RLHF 数据集重置策略优化</title>
-      <link>https://arxiv.org/abs/2404.08495</link>
-      <description><![CDATA[基于人类偏好反馈的强化学习 (RL) 是微调生成模型的流行范例，它已经产生了令人印象深刻的模型，例如 GPT-4 和 Claude3 Opus。该框架通常包含两个步骤：从离线偏好数据集中学习奖励模型，然后运行在线强化学习以优化学习的奖励模型。在这项工作中，利用重置的思想，我们提出了一种具有可证明保证的新 RLHF 算法。由于离线偏好数据集提供信息状态（即标记者首选的数据），我们的新算法数据集重置策略优化（DR-PO）通过以下方式将现有的离线偏好数据集集成到在线策略训练过程中：数据集重置：它直接将策略优化器重置为离线数据集中的状态，而不是总是从初始状态分布开始。理论上，我们表明 DR-PO 在具有有限样本复杂性的通用函数逼近下学习的性能至少与离线数据集涵盖的任何策略一样好。在实验中，我们证明在 TL;DR 摘要和人择有益有害（HH）数据集上，DR-PO 的生成优于近端策略优化（PPO）和方向偏好优化（DPO），在GPT4 获胜率的指标。这项工作的代码可以在 https://github.com/Cornell-RL/drpo 找到。]]></description>
-      <guid>https://arxiv.org/abs/2404.08495</guid>
-      <pubDate>Mon, 15 Apr 2024 01:56:55 GMT</pubDate>
+      <title>了解您的参考模型以实现真正的良好对准</title>
+      <link>https://arxiv.org/abs/2404.09656</link>
+      <description><![CDATA[对齐问题的复杂性源于现有方法不稳定。研究人员不断发明各种技巧来解决这个缺点。例如，在语言模型对齐的基本人类反馈强化学习 (RLHF) 技术中，除了奖励最大化之外，可训练策略和 SFT 策略之间的 Kullback-Leibler 差异也被最小化。此添加可防止模型过度拟合奖励模型 (RM) 并生成 RM 域外的文本。直接偏好优化（DPO）方法重新表述了RLHF的优化任务，消除了奖励模型，同时默认保持策略接近SFT策略的要求。在我们的论文中，我们认为 DPO 方法中的这种隐含限制会导致次优结果。我们提出了一种称为信任区域 DPO (TR-DPO) 的新方法，它在训练期间更新参考策略。通过如此简单的更新，我们在 Anthropic HH 和 TLDR 数据集上证明了 TR-DPO 相对于 DPO 的有效性。我们通过 GPT-4 自动评估进行测量，结果表明 TR-DPO 的性能比 DPO 高出 19%。我们提出的新对齐方法使我们能够同时提高多个参数的模型质量，例如连贯性、正确性、细节水平、有用性和无害性。]]></description>
+      <guid>https://arxiv.org/abs/2404.09656</guid>
+      <pubDate>Tue, 16 Apr 2024 03:00:09 GMT</pubDate>
     </item>
     <item>
-      <title>关于低级视觉任务的语言指导的鲁棒性：深度估计的发现</title>
-      <link>https://arxiv.org/abs/2404.08540</link>
-      <description><![CDATA[通过将自然语言作为附加指导，单眼深度估计取得了最新进展。尽管取得了令人印象深刻的结果，但该语言先验的影响，特别是在泛化性和鲁棒性方面，仍有待探索。在本文中，我们通过量化此先验的影响来解决这一差距，并介绍在各种设置中对其有效性进行基准测试的方法。我们生成传达以对象为中心的三维空间关系的“低级”句子，将它们合并为额外的语言先验，并评估它们对深度估计的下游影响。我们的主要发现是，当前的语言引导深度估计器仅在场景级描述中表现最佳，而与直觉相反，在低级描述中表现更差。尽管利用了额外的数据，这些方法对于定向对抗攻击并不稳健，并且随着分布转移的增加而导致性能下降。最后，为了为未来的研究奠定基础，我们确定了失败点并提供见解以更好地理解这些缺点。随着越来越多的使用语言进行深度估计的方法，我们的研究结果强调了在现实环境中有效部署需要仔细考虑的机会和陷阱]]></description>
-      <guid>https://arxiv.org/abs/2404.08540</guid>
-      <pubDate>Mon, 15 Apr 2024 01:49:21 GMT</pubDate>
+      <title>Ctrl-Adapter：一个高效且多功能的框架，用于使各种控制适应任何扩散模型</title>
+      <link>https://arxiv.org/abs/2404.09967</link>
+      <description><![CDATA[ControlNet 广泛用于在不同条件下的图像生成中添加空间控制，例如深度图、精明边缘和人体姿势。然而，利用预训练图像 ControlNet 进行受控视频生成时存在一些挑战。首先，由于特征空间的不匹配，预训练的ControlNet无法直接插入新的骨干模型，并且为新的骨干网络训练ControlNet的成本是一个很大的负担。其次，不同帧的 ControlNet 特征可能无法有效处理时间一致性。为了应对这些挑战，我们引入了 Ctrl-Adapter，这是一种高效且多功能的框架，通过调整预训练的 ControlNet（并改进视频的​​时间对齐），为任何图像/视频扩散模型添加多种控制。 Ctrl-Adapter 提供多种功能，包括图像控制、视频控制、稀疏帧视频控制、多条件控制、与不同骨干网的兼容性、适应不可见的控制条件以及视频编辑。在 Ctrl-Adapter 中，我们训练适配器层，将预训练的 ControlNet 特征融合到不同的图像/视频扩散模型，同时保持 ControlNet 和扩散模型的参数冻结。 Ctrl-Adapter由时间和空间模块组成，可以有效处理视频的时间一致性。我们还提出了潜在跳跃和反时间步采样，以实现鲁棒自适应和稀疏控制。此外，Ctrl-Adapter 只需取 ControlNet 输出的（加权）平均值即可实现多种条件下的控制。凭借不同的图像/视频扩散主干（SDXL、Hotshot-XL、I2VGen-XL 和 SVD），Ctrl-Adapter 在图像控制方面与 ControlNet 相匹配，并优于视频控制的所有基线（在 DAVIS 2017 数据集上实现了 SOTA 精度）更低的计算成本（少于 10 个 GPU 小时）。]]></description>
+      <guid>https://arxiv.org/abs/2404.09967</guid>
+      <pubDate>Tue, 16 Apr 2024 02:55:25 GMT</pubDate>
     </item>
     <item>
-      <title>探索视觉基础模型的 3D 意识</title>
-      <link>https://arxiv.org/abs/2404.08636</link>
-      <description><![CDATA[大规模预训练的最新进展已经产生了具有强大功能的视觉基础模型。最近的模型不仅可以推广到用于训练任务的任意图像，它们的中间表示对于其他视觉任务（例如检测和分割）也很有用。鉴于此类模型可以对 2D 对象进行分类、描绘和定位，我们要问它们是否也代表其 3D 结构？在这项工作中，我们分析了视觉基础模型的 3D 感知。我们假设 3D 感知意味着表示 (1) 对场景的 3D 结构进行编码，以及 (2) 一致地表示跨视图的表面。我们使用特定于任务的探针和零样本推理程序对冻结特征进行了一系列实验。我们的实验揭示了当前模型的一些局限性。我们的代码和分析可以在 https://github.com/mbanani/probe3d 找到。]]></description>
-      <guid>https://arxiv.org/abs/2404.08636</guid>
-      <pubDate>Mon, 15 Apr 2024 01:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用更少的代币预训练小型 LM</title>
-      <link>https://arxiv.org/abs/2404.08634</link>
-      <description><![CDATA[我们研究了从现有大型基础语言模型 (LM) 开始开发小型基础语言模型 (LM) 的简单方法的有效性：首先从较大的 LM 继承一些 Transformer 块，然后在非常小的子集（0.1 \%) 较大模型的原始预训练数据。我们将我们的简单配方称为 Inheritune，并首先演示它如何使用 1B 代币（以及 3B 参数的较大 LM 的起始几层）构建具有 1.5B 参数的小型基础 LM；我们使用单个 A6000 GPU 花费了不到半天的时间完成此任务。在 9 个不同的评估数据集以及 MMLU 基准中，生成的模型与公开可用的 1B-2B 大小的基本模型相比具有优势，其中一些模型已经使用 50-1000 倍的令牌进行了训练。我们在稍微不同的环境中研究 Inheritune，我们利用较大的 LM 及其完整的预训练数据集来训练小型 LM。在这里，我们表明，当从头开始训练相同数量的训练步骤时，使用 GPT2-medium (355M) 和 GPT-2-large (770M) 的某些层训练的较小 LM 可以有效地匹配其较大对应层的 val 损失。具有 9B 个标记的 OpenWebText 数据集。我们通过大量实验分析我们的配方，并证明其在不同环境下的功效。我们的代码可在 https://github.com/sanyalsunny111/LLM-Inheritune 获取。]]></description>
-      <guid>https://arxiv.org/abs/2404.08634</guid>
-      <pubDate>Mon, 15 Apr 2024 01:42:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>MonoPatchNeRF：通过基于贴片的单目引导改善神经辐射场</title>
-      <link>https://arxiv.org/abs/2404.08252</link>
-      <description><![CDATA[最新的正则化神经辐射场 (NeRF) 方法为多视图立体 (MVS) 基准（例如 ETH3D）生成较差的几何形状和视图外推。在本文中，我们的目标是创建提供精确几何和视图合成的 3D 模型，部分缩小 NeRF 和传统 MVS 方法之间巨大的几何性能差距。我们提出了一种基于补丁的方法，可以有效地利用单眼表面法线和相对深度预测。基于补丁的射线采样还可以实现随机采样的虚拟视图和训练视图之间的归一化互相关（NCC）和结构相似性（SSIM）的外观正则化。我们进一步表明，基于运动点的稀疏结构的“密度限制”可以帮助极大地提高几何精度，同时新颖的视图合成指标略有下降。我们的实验表明，在 ETH3D MVS 基准测试中，平均 F1@2cm 的性能是 RegNeRF 的 4 倍，是 FreeNeRF 的 8 倍，这表明了一个富有成效的研究方向，以提高基于 NeRF 的模型的几何精度，并揭示了未来实现 NeRF 的潜在方法基于优化，最终超越传统 MVS。]]></description>
-      <guid>https://arxiv.org/abs/2404.08252</guid>
-      <pubDate>Mon, 15 Apr 2024 01:32:57 GMT</pubDate>
+      <title>Tango 2：通过直接偏好优化调整基于扩散的文本到音频生成</title>
+      <link>https://arxiv.org/abs/2404.09956</link>
+      <description><![CDATA[生成式多模式内容在许多内容创作领域越来越普遍，因为它有潜力允许艺术家和媒体人员通过快速将他们的想法变为现实来创建预制作模型。从文本提示生成音频是音乐和电影行业此类过程的一个重要方面。最近许多基于扩散的文本到音频模型都专注于在大量提示音频对数据集上训练日益复杂的扩散模型。这些模型没有明确关注概念或事件的存在及其在输出音频中相对于输入提示的时间顺序。我们的假设重点是音频生成的这些方面如何在数据有限的情况下提高音频生成性能。因此，在这项工作中，我们使用现有的文本到音频模型 Tango，综合创建一个偏好数据集，其中每个提示都有一个获胜者音频输出和一些失败者音频输出，供扩散模型学习。理论上，失败者的输出有一些来自提示的概念缺失或顺序不正确。我们在偏好数据集上使用扩散-DPO（直接偏好优化）损失对公开可用的 Tango 文本到音频模型进行了微调，并表明它在自动和手动方面都比 Tango 和 AudioLDM2 改进了音频输出- 评估指标。]]></description>
+      <guid>https://arxiv.org/abs/2404.09956</guid>
+      <pubDate>Tue, 16 Apr 2024 02:41:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
