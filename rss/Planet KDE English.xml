@@ -4,80 +4,88 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Apr 2024 08:36:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 10:35:43 GMT</lastBuildDate>
     <item>
-      <title>赞助商讲座 - 学院 2019</title>
-      <link>https://tube.kockatoo.org/w/w18RuEbZicYLyWZcS4nGX4?utm_source=atom_feed</link>
-      <description><![CDATA[我们的赞助商会说几句话。]]></description>
-      <guid>https://tube.kockatoo.org/w/w18RuEbZicYLyWZcS4nGX4?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 08:29:54 GMT</pubDate>
+      <title>2020 年学院 - Timothée Giet - 庆祝 GCompris 成立 20 周年</title>
+      <link>https://tube.kockatoo.org/w/vqpu5HzP2ctEh9bsPeeX9q?utm_source=atom_feed</link>
+      <description><![CDATA[今年是 GCompris 的 20 岁生日，因此我们决定以多种方式庆祝！
+有关今年该项目发生的情况以及预计很快会发生什么的一些消息。]]></description>
+      <guid>https://tube.kockatoo.org/w/vqpu5HzP2ctEh9bsPeeX9q?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 10:30:39 GMT</pubDate>
     </item>
     <item>
-      <title>Michiel Leenaars - NGI0：为互联网工作 - 学院 2019</title>
-      <link>https://tube.kockatoo.org/w/9HuN9t6MZAwSD3ny2gTZua?utm_source=atom_feed</link>
-      <description><![CDATA[下一代互联网计划是第一个真正的机会，可以投入大量公共资金来真正修复斯诺登后的互联网。 NGI 在欧盟委员会的倡议下于 2016 年启动。 NGI 的雄心是“重新构想和重新设计第三个千年及以后的互联网”——这实际上并没有夸大这项努力的重要性。互联网影响并塑造了我们整个现代社会，因此无论在社会、经济还是环境方面，它都必须是值得信赖和可持续的。它需要强大且有弹性，这样我们的社会才能负责任地依赖它。作为一个技术社区，我们需要提前思考和发明，通过设计真正实现安全、公平和隐私。
-在本次演讲中，Michiel Leenaars 将介绍 NGI Zero，这是一项独特的合作资助项目，建立在数十年的非营利专业知识的基础上，其历史可以追溯到上世纪 80 年代欧洲互联网的引入。&lt; /p&gt;]]></description>
-      <guid>https://tube.kockatoo.org/w/9HuN9t6MZAwSD3ny2gTZua?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 08:23:38 GMT</pubDate>
+      <title>Academy 2020 - Méven Car - Wayland 目标状态更新</title>
+      <link>https://tube.kockatoo.org/w/5Hvj3TgYG9fMrXSDxD9vf7?utm_source=atom_feed</link>
+      <description><![CDATA[Wayland 是我们古老的 X 窗口系统的替代品。
+社区通过 Wayland Goal 一直致力于让 KDE 软件在 Wayland 上运行得更好。
+Wayland 的目标是一项艰巨的任务，需要更新多个组件，并使我们重新构建整个显示堆栈。自 2019 年 Akademy 以来，社区取得了重大进展。
+到目前为止我们已经取得了哪些成就。
+我们一路走来学到了什么。
+接下来会发生什么。
+您如何帮助我们进一步推动 Wayland、KDE ​​和免费软件。]]></description>
+      <guid>https://tube.kockatoo.org/w/5Hvj3TgYG9fMrXSDxD9vf7?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 10:24:39 GMT</pubDate>
     </item>
     <item>
-      <title>主讲人：Leonardo Fvario - Developers Italia 和新指南 - Akademy 2019</title>
-      <link>https://tube.kockatoo.org/w/aPNmhF5vjEi1QKHvtHMFCQ?utm_source=atom_feed</link>
-      <description><![CDATA[有很多指标可用于衡量开源社区的健康状况。在评估您对社区的贡献时，重要的是要超越可量化的指标，还要考虑诸如建立社区意识、解决成员（通常是内在的）动机、培育多元化社区等领域。
-在本次会议中，将讨论对开源社区健康的可量化和不可量化的贡献。随着社区的不断发展，还将讨论重新审视社区目标。]]></description>
-      <guid>https://tube.kockatoo.org/w/aPNmhF5vjEi1QKHvtHMFCQ?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 08:09:36 GMT</pubDate>
+      <title>Akademy 2020 - David Faure - KIO：年轻和年老工作的故事</title>
+      <link>https://tube.kockatoo.org/w/ppRyDvoP8qQR1f5LgkJz89?utm_source=atom_feed</link>
+      <description><![CDATA[今年早些时候迁移到 GitLab 为所有 KDE 项目开辟了许多新的可能性。其中之一是在 GitLab CI 上引入自定义作业。在本次演讲中，我想展示使用静态分析工具和 linter 自动检查代码质量的好处，并解释如何配置 GitLab CI 以在每个拉取请求上自动运行这些工具或作为常规构建的一部分。]]></description>
+      <guid>https://tube.kockatoo.org/w/ppRyDvoP8qQR1f5LgkJz89?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 10:18:21 GMT</pubDate>
     </item>
     <item>
-      <title>Dan Leinir Turthra Jensen - 软件分发：讨论 + 闪电演讲 - Akademy 2019</title>
-      <link>https://tube.kockatoo.org/w/jAyYcfCheS1nmZ4VMyytqg?utm_source=atom_feed</link>
-      <description><![CDATA[将软件提供给最终用户一直是软件创建者担心的问题。针对这个问题已经提出并尝试了很多解决方案。在这个小组中，将讨论不同的方法并回答观众的问题。
-在闪电演讲中，您会听到相关人员提出的不同方法。]]></description>
-      <guid>https://tube.kockatoo.org/w/jAyYcfCheS1nmZ4VMyytqg?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 07:51:02 GMT</pubDate>
+      <title>2020 年学院 - Dan Leinir Turthra Jensen 和 Andrew Shoben - KDE Wags Your Tail</title>
+      <link>https://tube.kockatoo.org/w/bKWBvRFFtFA7J8SCMWdeaM?utm_source=atom_feed</link>
+      <description><![CDATA[了解 The Tail Company 如何与 KDE 技术合作，让他们的尾巴摇摆、耳朵摇摆，他们如何意识到自己已经拥有自由软件思维，并了解其硬件的本质。
+2018 年秋天，The Tail Company 认为简单的遥控器不足以满足他们想要对电子动画尾巴做的事情，因此他们发起了一项众筹活动，以构建一款基于蓝牙的应用程序控制的尾巴。本演示讲述了如何将其转变为直接与自由软件社区合作的实验，所有控制软件都基于自由软件和 KDE 的 Kirigami 框架。从那时起，名字越来越不幸的Tail Company推出了他们的电子动画耳朵EarGear，由相同的软件控制。您还可以看到两者的底层，了解应用程序如何在不同平台上工作的概述，以及尾部和耳朵硬件如何组合在一起。]]></description>
+      <guid>https://tube.kockatoo.org/w/bKWBvRFFtFA7J8SCMWdeaM?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 10:11:30 GMT</pubDate>
     </item>
     <item>
-      <title>Ivan Čukić 和 Lydia Pintscher - 隐藏的一切：帮助保护我们用户的隐私 - Akademy 2019</title>
-      <link>https://tube.kockatoo.org/w/164uapDcY7YdGju82REFL4?utm_source=atom_feed</link>
-      <description><![CDATA[在本次会议中，一些致力于部分隐私目标的人员将概述他们的工作，以了解我们迄今为止所取得的进展。]]></description>
-      <guid>https://tube.kockatoo.org/w/164uapDcY7YdGju82REFL4?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 07:42:45 GMT</pubDate>
+      <title>学院 2020 - Rohan Garg - Linux 图形 101</title>
+      <link>https://tube.kockatoo.org/w/vjgHWzdsrvyGUrESd7gqYo?utm_source=atom_feed</link>
+      <description><![CDATA[ARM 设备的日益普及意味着 KDE 产品的新市场。然而，与我们享受经过良好测试的图形堆栈的稳定性的传统平台不同，基于 ARM 架构的平台往往更加古怪。
+在本次演讲中，Rohan 将讨论 Linux 图形堆栈如何工作的基础知识，涉及 DRM、DRI 和 Mesa 等技术如何相互交互，以及我们如何发展到当前 Gallium 背后的历史台面设计。]]></description>
+      <guid>https://tube.kockatoo.org/w/vjgHWzdsrvyGUrESd7gqYo?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 10:06:33 GMT</pubDate>
     </item>
     <item>
-      <title>主讲人：Lars Knoll - 迈向 Qt 6 - Academy 2019</title>
-      <link>https://tube.kockatoo.org/w/7VE9T6ts4ow9DNzrkqYfce?utm_source=atom_feed</link>
-      <description><![CDATA[自 20 多年前诞生以来，Qt 一直是 KDE 的基础。 Qt 5 使用了 7 年之后，现在已经开始开发该框架的新主要版本。本次演讲将介绍 Qt 6 的主要思想和目标，重点关注高层思想，同时也会讨论一些具体细节。]]></description>
-      <guid>https://tube.kockatoo.org/w/7VE9T6ts4ow9DNzrkqYfce?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 07:30:02 GMT</pubDate>
+      <title>2020 年学院 - Marta Rybczynska - 来自外部的 KDE 一年</title>
+      <link>https://tube.kockatoo.org/w/661ApiZyHmsSN3eJqnEJ42?utm_source=atom_feed</link>
+      <description><![CDATA[大多数 KDE 人从 KDE 人那里了解 KDE 新闻。但社区外的人怎么说呢？你在说什么？让我们探讨一下非 KDE 新闻网站、博客和播客对 KDE 的评价。
+在本次演讲中，我们将涵盖未链接到 KDE 的网站在 2019-20 年对 KDE 的新闻报道。我们将展示 Wayland 上的 KWin 是否比 KDE 目标获得更多报道、当前最热门的主题是什么等等。令人惊讶的是，该分析准备...]]></description>
+      <guid>https://tube.kockatoo.org/w/661ApiZyHmsSN3eJqnEJ42?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 10:00:30 GMT</pubDate>
     </item>
     <item>
-      <title>KDE e.V.董事会 - KDE 的目标 - 学院 2019</title>
-      <link>https://tube.kockatoo.org/w/cZd7Xa2Y6yafxPRyaSfMp6?utm_source=atom_feed</link>
-      <description><![CDATA[让我们看看我们的第一组目标已经取得了多大的进展，并公布了下一个目标。]]></description>
-      <guid>https://tube.kockatoo.org/w/cZd7Xa2Y6yafxPRyaSfMp6?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 07:20:28 GMT</pubDate>
+      <title>2020 年学院 - Nicolás Alvarez - 改进 KDE 服务器基础设施</title>
+      <link>https://tube.kockatoo.org/w/fz63gs3x4x7GJqHcoQDMEd?utm_source=atom_feed</link>
+      <description><![CDATA[KDE 系统管理团队已开始在幕后进行一些工作，以减少我们管理服务器方式中的“技术债务”。一些手动任务正在变成脚本，我们有更好的文档，并且更多的东西可以在将它们放入真实服务器之前在本地进行测试。 Nicolás 将快速概述这些变化以及我们将这些变化扩展到更多服务的进展。
+Nicolás 还将展示这些改进如何让新系统管理员和 Web 开发人员更轻松地做出贡献！]]></description>
+      <guid>https://tube.kockatoo.org/w/fz63gs3x4x7GJqHcoQDMEd?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 09:57:46 GMT</pubDate>
     </item>
     <item>
-      <title>Ray Paik - 我如何知道我是否在构建开源社区方面有所作为 - Akademy 2019</title>
-      <link>https://tube.kockatoo.org/w/oHVYswTzrRgSbXXyN81odF?utm_source=atom_feed</link>
-      <description><![CDATA[有很多指标可用于衡量开源社区的健康状况。在评估您对社区的贡献时，重要的是要超越可量化的指标，还要考虑诸如建立社区意识、解决成员（通常是内在的）动机、培育多元化社区等领域。
-在本次会议中，将讨论对开源社区健康的可量化和不可量化的贡献。随着社区的不断发展，还将讨论重新审视社区目标。]]></description>
-      <guid>https://tube.kockatoo.org/w/oHVYswTzrRgSbXXyN81odF?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 07:14:56 GMT</pubDate>
+      <title>Akademy 2020 - Daniel Vrátil - 使用 Gitlab CI 进行静态代码分析</title>
+      <link>https://tube.kockatoo.org/w/tCNx1TVDTw6rEpzHwKT6Xc?utm_source=atom_feed</link>
+      <description><![CDATA[今年早些时候迁移到 GitLab 为所有 KDE 项目开辟了许多新的可能性。其中之一是在 GitLab CI 上引入自定义作业。在本次演讲中，我想展示使用静态分析工具和 linter 自动检查代码质量的好处，并解释如何配置 GitLab CI 以在每个拉取请求上自动运行这些工具或作为常规构建的一部分。]]></description>
+      <guid>https://tube.kockatoo.org/w/tCNx1TVDTw6rEpzHwKT6Xc?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 09:51:26 GMT</pubDate>
     </item>
     <item>
-      <title>Aditya Mehra - Mycroft 等离子汽车演示 - 学院 2019</title>
-      <link>https://tube.kockatoo.org/w/am1hT3BQx6hpSgTCSCzbAR?utm_source=atom_feed</link>
-      <description><![CDATA[开源语音助手不适用于家庭和桌面，更现代的车辆正在配备语音助手，以帮助驾驶员完成以车辆为中心的任务，本演示文稿展示了由 Plasma 和 Kirigami 技术支持的 Mycroft AI 的汽车演示。 ]]></description>
-      <guid>https://tube.kockatoo.org/w/am1hT3BQx6hpSgTCSCzbAR?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 07:09:32 GMT</pubDate>
+      <title>学院 2020 - Tej Shah - Clear Dental</title>
+      <link>https://tube.kockatoo.org/w/sRoAgYbjWwMDyBKqfLexVW?utm_source=atom_feed</link>
+      <description><![CDATA[演讲将介绍 Clear.Dental 的范围、基本设计、历史、现状和未来。本演讲还将讨论在临床环境中使用 Linux 和 FLOSS 的一些主要障碍，并向其他试图将 EHR 迁移到对 FLOSS 更加友好的环境的人提出建议。我可能还会在演示结束时向 KDE 团队推荐对牙科诊所非常有用的功能。]]></description>
+      <guid>https://tube.kockatoo.org/w/sRoAgYbjWwMDyBKqfLexVW?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 09:45:28 GMT</pubDate>
     </item>
     <item>
-      <title>Daniel Vrátil - 使用现代 C++ 构建富有表现力的 API - Akademy 2019</title>
-      <link>https://tube.kockatoo.org/w/8PiQsQpVem7LxvAc1Aiftw?utm_source=atom_feed</link>
-      <description><![CDATA[Qt 有自己的做事方式，我们一直在我们的代码和 API 中遵循这种方式。然而，从 C++11 开始，语言本身开始引入越来越多的功能，以使代码更安全、更容易理解。在本次演讲中，我将展示一些示例，说明现代 C++ 必须提供哪些工具来使您的代码和 API 更具表现力，以及如何将这些工具与 Qt 一起使用。]]></description>
-      <guid>https://tube.kockatoo.org/w/8PiQsQpVem7LxvAc1Aiftw?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 07:02:33 GMT</pubDate>
+      <title>Akademy 2020 - Carson Black - API 设计和 QML</title>
+      <link>https://tube.kockatoo.org/w/fBWw8Xp8AS7HW7qQi5XPBe?utm_source=atom_feed</link>
+      <description><![CDATA[有关 QML API 设计的演示，分享创建 QML API 时应遵循的最佳实践和应避免的事项，以及更通用的 API 优先设计流程。
+涵盖了设计和实现 QML API 时要依赖的习惯用法，列出了创建它们时要避免的一些反模式，并分享了示例以帮助在实践中演示 API 设计的习惯用法。]]></description>
+      <guid>https://tube.kockatoo.org/w/fBWw8Xp8AS7HW7qQi5XPBe?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 09:40:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
