@@ -4,7 +4,49 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 05:35:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 07:14:48 GMT</lastBuildDate>
+    <item>
+      <title>多模态大语言模型的推测解码</title>
+      <link>https://arxiv.org/abs/2404.08856</link>
+      <description><![CDATA[多模态大型语言模型（MLLM）的推理速度很慢，因为它们的大型语言模型主干受到内存带宽瓶颈的影响并自动回归生成令牌。在本文中，我们探索了推测解码的应用来提高 MLLM 的推理效率，特别是 LLaVA 7B 模型。我们证明，仅语言模型可以作为使用 LLaVA 7B 进行推测解码的良好草稿模型，从而绕过草稿模型中对图像标记及其相关处理组件的需求。我们在三个不同任务上的实验表明，使用我们从头开始训练的 115M 参数语言模型，推测性解码可以实现高达 2.37 倍的内存限制加速。此外，我们还引入了一个包含图像适配器的紧凑型 LLaVA 草稿模型，该模型显示了图像字幕方面的边际性能提升，同时在其他任务中保持了可比较的结果。]]></description>
+      <guid>https://arxiv.org/abs/2404.08856</guid>
+      <pubDate>Tue, 16 Apr 2024 04:12:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>CompGS：通过压缩高斯泼溅进行高效 3D 场景表示</title>
+      <link>https://arxiv.org/abs/2404.09458</link>
+      <description><![CDATA[高斯喷射以其卓越的渲染质量和效率而闻名，已成为 3D 场景表示中的一项重要技术。然而，高斯泼溅的大量数据阻碍了其在实际应用中的实用性。在此，我们提出了一种高效的 3D 场景表示，称为压缩高斯分布 (CompGS)，它利用紧凑的高斯基元进行忠实的 3D 场景建模，并显着减少数据大小。为了确保高斯原语的紧凑性，我们设计了一种混合原语结构来捕获彼此之间的预测关系。然后，我们利用一小组锚基元进行预测，允许将大多数基元封装成高度紧凑的残差形式。此外，我们开发了一种速率受限的优化方案，以消除此类混合原语中的冗余，引导我们的 CompGS 在比特率消耗和表示效率之间实现最佳权衡。实验结果表明，所提出的 CompGS 显着优于现有方法，在 3D 场景表示中实现了卓越的紧凑性，同时又不影响模型精度和渲染质量。我们的代码将在 GitHub 上发布以供进一步研究。]]></description>
+      <guid>https://arxiv.org/abs/2404.09458</guid>
+      <pubDate>Tue, 16 Apr 2024 04:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>压缩线性代表智能</title>
+      <link>https://arxiv.org/abs/2404.09937</link>
+      <description><![CDATA[人们相信，学习良好的压缩会带来智慧。最近，语言建模已被证明等同于压缩，这为大型语言模型（LLM）的成功提供了令人信服的理由：更高级语言模型的开发本质上是增强压缩，从而促进智能。尽管讨论如此吸引人，但关于压缩和智能之间相互作用的实证证据却很少。在这项工作中，我们在法学硕士的背景下研究了它们的关系，将法学硕士视为数据压缩器。考虑到“智力”的抽象概念，我们采用平均下游基准分数作为替代，特别针对与知识和常识、编码和数学推理相关的智力。我们的研究涵盖 12 个基准，汇集了来自不同组织的 30 名公共法学硕士。值得注意的是，我们发现法学硕士的智力（通过平均基准分数反映出来）几乎与他们压缩外部文本语料库的能力线性相关。这些结果提供了具体的证据，支持这样的观点：卓越的压缩能力意味着更高的智力。此外，我们的研究结果表明，压缩效率作为源自原始文本语料库的无监督指标，可以作为与模型功能线性相关的可靠评估指标。我们开源我们的压缩数据集以及数据收集管道，以方便未来的研究人员正确评估压缩。]]></description>
+      <guid>https://arxiv.org/abs/2404.09937</guid>
+      <pubDate>Tue, 16 Apr 2024 04:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Megalodon：具有无限上下文长度的高效 LLM 预训练和推理</title>
+      <link>https://arxiv.org/abs/2404.08801</link>
+      <description><![CDATA[Transformers 的二次复杂度和弱长度外推限制了它们扩展到长序列的能力，虽然存在线性注意力和状态空间模型等次二次解决方案，但从经验来看，它们在预训练效率和下游任务准确性方面表现不佳 Transformers。我们引入了 Megalodon，一种用于高效序列建模的神经架构，具有无限的上下文长度。 Megalodon继承了Mega（带有门控注意力的指数移动平均）的架构，并进一步引入了多种技术组件来提高其能力和稳定性，包括复杂指数移动平均（CEMA）、时间步标准化层、标准化注意力机制和具有两个特征的预标准化-hop 剩余配置。在与 Llama2 的受控头对头比较中，Megalodon 在 70 亿个参数和 2 万亿个训练 token 的规模上取得了比 Transformer 更好的效率。巨齿鲨的训练损失达到 1.70，落在 Llama2-7B (1.75) 和 13B (1.67) 之间。代码：https://github.com/XuezheMax/megalodon]]></description>
+      <guid>https://arxiv.org/abs/2404.08801</guid>
+      <pubDate>Tue, 16 Apr 2024 03:55:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Video2Game：来自单个视频的实时、交互式、真实且与浏览器兼容的环境</title>
+      <link>https://arxiv.org/abs/2404.09833</link>
+      <description><![CDATA[创建高质量的交互式虚拟环境（例如游戏和模拟器）通常涉及复杂且成本高昂的手动建模过程。在本文中，我们提出了 Video2Game，这是一种新颖的方法，可以自动将现实世界场景的视频转换为逼真的交互式游戏环境。我们系统的核心是三个核心组件：(i) 神经辐射场 (NeRF) 模块，可有效捕获场景的几何形状和视觉外观； (ii) 一个网格模块，可从 NeRF 中提取知识以实现更快的渲染； (iii) 物理模块，用于模拟对象之间的相互作用和物理动力学。通过遵循精心设计的流程，人们可以构建现实世界的可交互且可操作的数字复制品。我们在室内和大型室外场景上对我们的系统进行基准测试。我们证明，我们不仅可以实时生成高度逼真的渲染，还可以在此基础上构建互动游戏。]]></description>
+      <guid>https://arxiv.org/abs/2404.09833</guid>
+      <pubDate>Tue, 16 Apr 2024 03:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>TransformerFAM：反馈注意力就是工作记忆</title>
+      <link>https://arxiv.org/abs/2404.09173</link>
+      <description><![CDATA[虽然 Transformer 彻底改变了深度学习，但它们的二次注意力复杂性阻碍了它们处理无限长输入的能力。我们提出了反馈注意记忆（FAM），这是一种新颖的 Transformer 架构，它利用反馈循环使网络能够关注其自身的潜在表示。这种设计促进了 Transformer 中工作记忆的出现，使其能够处理无限长的序列。 TransformerFAM 不需要额外的权重，可以与预先训练的模型无缝集成。我们的实验表明，TransformerFAM 显着提高了 Transformer 在各种模型大小（1B、8B 和 24B）的长上下文任务上的性能。这些结果展示了大型语言模型 (LLM) 处理无限长度序列的潜力。]]></description>
+      <guid>https://arxiv.org/abs/2404.09173</guid>
+      <pubDate>Tue, 16 Apr 2024 03:49:58 GMT</pubDate>
+    </item>
     <item>
       <title>驯服神经辐射场修复的潜在扩散模型</title>
       <link>https://arxiv.org/abs/2404.09995</link>
@@ -32,13 +74,6 @@
       <description><![CDATA[ControlNet 广泛用于在不同条件下的图像生成中添加空间控制，例如深度图、精明边缘和人体姿势。然而，利用预训练图像 ControlNet 进行受控视频生成时存在一些挑战。首先，由于特征空间的不匹配，预训练的ControlNet无法直接插入新的骨干模型，并且为新的骨干网络训练ControlNet的成本是一个很大的负担。其次，不同帧的 ControlNet 特征可能无法有效处理时间一致性。为了应对这些挑战，我们引入了 Ctrl-Adapter，这是一种高效且多功能的框架，通过调整预训练的 ControlNet（并改进视频的​​时间对齐），为任何图像/视频扩散模型添加多种控制。 Ctrl-Adapter 提供多种功能，包括图像控制、视频控制、稀疏帧视频控制、多条件控制、与不同骨干网的兼容性、适应不可见的控制条件以及视频编辑。在 Ctrl-Adapter 中，我们训练适配器层，将预训练的 ControlNet 特征融合到不同的图像/视频扩散模型，同时保持 ControlNet 和扩散模型的参数冻结。 Ctrl-Adapter由时间和空间模块组成，可以有效处理视频的时间一致性。我们还提出了潜在跳跃和反时间步采样，以实现鲁棒自适应和稀疏控制。此外，Ctrl-Adapter 只需取 ControlNet 输出的（加权）平均值即可实现多种条件下的控制。凭借不同的图像/视频扩散主干（SDXL、Hotshot-XL、I2VGen-XL 和 SVD），Ctrl-Adapter 在图像控制方面与 ControlNet 相匹配，并优于视频控制的所有基线（在 DAVIS 2017 数据集上实现了 SOTA 精度）更低的计算成本（少于 10 个 GPU 小时）。]]></description>
       <guid>https://arxiv.org/abs/2404.09967</guid>
       <pubDate>Tue, 16 Apr 2024 02:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tango 2：通过直接偏好优化调整基于扩散的文本到音频生成</title>
-      <link>https://arxiv.org/abs/2404.09956</link>
-      <description><![CDATA[生成式多模式内容在许多内容创作领域越来越普遍，因为它有潜力允许艺术家和媒体人员通过快速将他们的想法变为现实来创建预制作模型。从文本提示生成音频是音乐和电影行业此类过程的一个重要方面。最近许多基于扩散的文本到音频模型都专注于在大量提示音频对数据集上训练日益复杂的扩散模型。这些模型没有明确关注概念或事件的存在及其在输出音频中相对于输入提示的时间顺序。我们的假设重点是音频生成的这些方面如何在数据有限的情况下提高音频生成性能。因此，在这项工作中，我们使用现有的文本到音频模型 Tango，综合创建一个偏好数据集，其中每个提示都有一个获胜者音频输出和一些失败者音频输出，供扩散模型学习。从理论上讲，失败者的输出有一些来自提示的概念缺失或顺序不正确。我们在偏好数据集上使用扩散-DPO（直接偏好优化）损失对公开可用的 Tango 文本到音频模型进行了微调，并表明它在自动和手动方面都比 Tango 和 AudioLDM2 改进了音频输出- 评估指标。]]></description>
-      <guid>https://arxiv.org/abs/2404.09956</guid>
-      <pubDate>Tue, 16 Apr 2024 02:41:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
