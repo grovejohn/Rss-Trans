@@ -4,7 +4,14 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 16 Apr 2024 07:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 08:15:38 GMT</lastBuildDate>
+    <item>
+      <title>TextHawk：探索多模态大语言模型的高效细粒度感知</title>
+      <link>https://arxiv.org/abs/2404.09204</link>
+      <description><![CDATA[多模态大语言模型 (MLLM) 在各种多模态任务上显示出令人印象深刻的结果。然而，大多数现有的 MLLM 不太适合面向文档的任务，这些任务需要细粒度的图像感知和信息压缩。在本文中，我们提出了 TextHawk，这是一种专为面向文档的任务而设计的 MLLM，同时保留了 MLLM 的一般功能。 TextHawk 旨在通过设计四个专用组件来探索高效的细粒度感知。首先，提出了重新采样和重新排列（ReSA）模块来减少文档文本中的冗余并降低MLLM的计算成本。我们通过提出可扩展位置嵌入（SPE）来探索对每个局部特征的位置进行编码，它可以保留各种图像尺寸的可扩展性。然后采用查询提议网络（QPN）来动态初始化不同子图像之间的查询。为了进一步增强 MLLM 的细粒度视觉感知能力，我们设计了一种多级交叉注意（MLCA）机制来捕获文档图像的层次结构和语义关系。此外，我们通过使用 Gemini Pro 丰富多模式文档数据，为面向文档的任务创建了一个新的指令调整数据集。我们对通用和面向文档的 MLLM 基准进行了广泛的实验，结果表明 TextHawk 优于最先进的方法，展示了其在细粒度文档感知和通用能力方面的有效性和优越性。]]></description>
+      <guid>https://arxiv.org/abs/2404.09204</guid>
+      <pubDate>Tue, 16 Apr 2024 05:58:31 GMT</pubDate>
+    </item>
     <item>
       <title>多模态大语言模型的推测解码</title>
       <link>https://arxiv.org/abs/2404.08856</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[对齐问题的复杂性源于现有方法不稳定。研究人员不断发明各种技巧来解决这个缺点。例如，在语言模型对齐的基本人类反馈强化学习 (RLHF) 技术中，除了奖励最大化之外，可训练策略和 SFT 策略之间的 Kullback-Leibler 差异也被最小化。此添加可防止模型过度拟合奖励模型 (RM) 并生成 RM 域外的文本。直接偏好优化（DPO）方法重新表述了RLHF的优化任务，消除了奖励模型，同时默认保持策略接近SFT策略的要求。在我们的论文中，我们认为 DPO 方法中的这种隐含限制会导致次优结果。我们提出了一种称为信任区域 DPO (TR-DPO) 的新方法，它在训练期间更新参考策略。通过如此简单的更新，我们在 Anthropic HH 和 TLDR 数据集上证明了 TR-DPO 相对于 DPO 的有效性。我们通过 GPT-4 自动评估进行测量，结果表明 TR-DPO 的性能比 DPO 高出 19%。我们提出的新对齐方法使我们能够同时提高多个参数的模型质量，例如连贯性、正确性、细节水平、有用性和无害性。]]></description>
       <guid>https://arxiv.org/abs/2404.09656</guid>
       <pubDate>Tue, 16 Apr 2024 03:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ctrl-Adapter：一个高效且多功能的框架，用于使各种控制适应任何扩散模型</title>
-      <link>https://arxiv.org/abs/2404.09967</link>
-      <description><![CDATA[ControlNet 广泛用于在不同条件下的图像生成中添加空间控制，例如深度图、精明边缘和人体姿势。然而，利用预训练图像 ControlNet 进行受控视频生成时存在一些挑战。首先，由于特征空间的不匹配，预训练的ControlNet无法直接插入新的骨干模型，并且为新的骨干网络训练ControlNet的成本是一个很大的负担。其次，不同帧的 ControlNet 特征可能无法有效处理时间一致性。为了应对这些挑战，我们引入了 Ctrl-Adapter，这是一种高效且多功能的框架，通过调整预训练的 ControlNet（并改进视频的​​时间对齐），为任何图像/视频扩散模型添加多种控制。 Ctrl-Adapter 提供多种功能，包括图像控制、视频控制、稀疏帧视频控制、多条件控制、与不同骨干网的兼容性、适应不可见的控制条件以及视频编辑。在 Ctrl-Adapter 中，我们训练适配器层，将预训练的 ControlNet 特征融合到不同的图像/视频扩散模型，同时保持 ControlNet 和扩散模型的参数冻结。 Ctrl-Adapter由时间和空间模块组成，可以有效处理视频的时间一致性。我们还提出了潜在跳跃和反时间步采样，以实现鲁棒自适应和稀疏控制。此外，Ctrl-Adapter 只需取 ControlNet 输出的（加权）平均值即可实现多种条件下的控制。凭借不同的图像/视频扩散主干（SDXL、Hotshot-XL、I2VGen-XL 和 SVD），Ctrl-Adapter 在图像控制方面与 ControlNet 相匹配，并优于视频控制的所有基线（在 DAVIS 2017 数据集上实现了 SOTA 精度）较低的计算成本（少于 10 个 GPU 小时）。]]></description>
-      <guid>https://arxiv.org/abs/2404.09967</guid>
-      <pubDate>Tue, 16 Apr 2024 02:55:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
