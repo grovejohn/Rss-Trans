@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Apr 2024 22:37:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 00:54:01 GMT</lastBuildDate>
+    <item>
+      <title>Dan Leinir Turthra Jensen - 快速获得热门新东西（ly） - 学院 2019</title>
+      <link>https://tube.kockatoo.org/w/1ZXGth8rT7eumYQ4RHbHc9?utm_source=atom_feed</link>
+      <description><![CDATA[了解基于 Qt Quick 的 KNewStuff 组件及其存在的背景，并了解如何在自己的应用程序中使用它们。]]></description>
+      <guid>https://tube.kockatoo.org/w/1ZXGth8rT7eumYQ4RHbHc9?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 00:10:35 GMT</pubDate>
+    </item>
     <item>
       <title>Trung Thanh Dinh - digiKam 中使用 OpenCV 进行 AI 人脸识别 - Akademy 2019</title>
       <link>https://tube.kockatoo.org/w/qTp36oaEYBBBx1oHerztBN?utm_source=atom_feed</link>
@@ -16,7 +23,7 @@
     <item>
       <title>Ivana Isadora Devcic - 为什么您的社区需要开发者门户 - Akademy 2019</title>
       <link>https://tube.kockatoo.org/w/jhS8wMP4ftzVcL5drzSAiW?utm_source=atom_feed</link>
-      <description><![CDATA[像 KDE 这样的社区如何从开发者门户中受益......什么是开发者门户？本次演讲旨在回答这些问题，并为构建开发人员门户提供实用建议。本次会议的见解可以为所有希望确保其社区不断发展和繁荣的贡献者提供指导和启发。]]></description>
+      <description><![CDATA[像 KDE 这样的社区如何从开发者门户中受益......什么是开发者门户？本演讲旨在回答这些问题，并为构建开发人员门户提供实用建议。本次会议的见解可以为所有希望确保其社区不断发展和繁荣的贡献者提供指导和启发。]]></description>
       <guid>https://tube.kockatoo.org/w/jhS8wMP4ftzVcL5drzSAiW?utm_source=atom_feed</guid>
       <pubDate>Mon, 15 Apr 2024 21:24:05 GMT</pubDate>
     </item>
@@ -139,19 +146,6 @@ Qt 以前仅支持 % 单位 px 和 em。
 为了翻译这些软件，我参考了谷歌翻译和人工智能模型来改进我的翻译。翻译记忆库在查找重复项方面表现出色，并帮助我避免再次翻译相同的单词。]]></description>
       <guid>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
       <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu：Noble Numbat Beta 版上线！ Qt6 快照即将推出。</title>
-      <link>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</link>
-      <description><![CDATA[
-这几周非常忙碌，因为我们致力于一些重大转变和需要重建 $world 的安全修复。我很高兴地向大家报告，尽管困难重重，我们还是发布了测试版！您可以在这里阅读所有相关内容：https://kubuntu.org/news/ kubuntu-24-04-beta-released/ 测试版冻结后我今天已经开始推动对已知问题的修复。我们的新品牌是一件大事！ Kubuntu 世界中非常激动人心的时刻。
-在 snap 世界中，我将利用空闲时间开始开发 KDE 应用程序（项目未涵盖）。我还招募了一些帮助，所以您应该很快就会开始在边缘频道中看到这些弹出！
-现在我们即将发布 Noble Numbat，我与 Kubuntu 的合同即将结束。如果您希望在下一个版本和 Noble 的 PPA 中看到 Plasma 6，请考虑通过 https 捐款以延长我的合同： //kubuntu.org/donate！
-就个人而言，我仍然希望帮助我的孙子，您可以在这里找到：https://www.gofundme.com/f/in-loving-memory-of-william-billy-dean-scalf
-感谢您的光临，
-斯嘉丽]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 19:29:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
