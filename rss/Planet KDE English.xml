@@ -4,7 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Apr 2024 11:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 14:35:47 GMT</lastBuildDate>
+    <item>
+      <title>KDE Plasma 6.0.4，四月份发布错误修复</title>
+      <link>https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 4 月 16 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.4 的错误修复更新。
+
+此版本添加了 KDE 贡献者为期三周的新翻译和修复。错误修复通常很小但很重要，包括：
+
+Foldermodel：通过拖动和复制将 URL 导出到桌面门户。 提交。
+系统监视器：修复了概览页面上的列配置对话框太小的问题。 提交。修复错误#482008
+小程序/电池：检查实际电池的充电状态解决方法。 提交。
+
+查看完整变更日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.02.2 发布</title>
       <link>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</link>
@@ -145,17 +160,6 @@ Qt 以前仅支持 % 单位 px 和 em。
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 14:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tellico 印地语翻译 - SoK 2024</title>
-      <link>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[这是我关于参加 KDE 2024 赛季经历的最后一篇博客。
-作为我最后一个学期的一部分，我将tellico 翻译成印地语。 Tellico 包含 2070 个跨越消息和文档消息的语句。
-我使用 lokalize 应用程序进行翻译。
-除了翻译的单词有些含糊之外，我在翻译工作中几乎没有遇到任何问题。感谢 Raghavendra Kamath 帮助我解决了这几个问题。
-总的来说，在整个计划中这是一次很棒的经历。]]></description>
-      <guid>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 09:13:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
