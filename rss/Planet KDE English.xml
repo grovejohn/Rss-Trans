@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Apr 2024 00:54:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 02:36:23 GMT</lastBuildDate>
+    <item>
+      <title>Katarina Behrens - 查看 KDE Plasma 软件上的 LibreOffice - Academy 2019</title>
+      <link>https://tube.kockatoo.org/w/uCTJzTcgdD7RcS3ocveTpr?utm_source=atom_feed</link>
+      <description><![CDATA[本演讲介绍了 LibreOffice 基于 Qt5 的新 KDE 前端，因为归根结底，最好的免费开源办公套件应该很好地集成到最好的免费开源桌面环境中 😃]]></description>
+      <guid>https://tube.kockatoo.org/w/uCTJzTcgdD7RcS3ocveTpr?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 01:59:56 GMT</pubDate>
+    </item>
     <item>
       <title>Dan Leinir Turthra Jensen - 快速获得热门新东西（ly） - 学院 2019</title>
       <link>https://tube.kockatoo.org/w/1ZXGth8rT7eumYQ4RHbHc9?utm_source=atom_feed</link>
@@ -137,15 +144,6 @@ Qt 以前仅支持 % 单位 px 和 em。
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</guid>
       <pubDate>Sat, 13 Apr 2024 05:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cantor 和 KDE Con​​nect 的印地语翻译 - SoK 2024</title>
-      <link>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[Cantor 和 KDE 连接的印地语翻译 - KDE 2024 年赛季 这是 SoK 2024 的第二篇也是最后一篇博客。
-在 KDE 赛季的后半段，我翻译了 Cantor 和 KDE connect 的印地语。 Cantor 和 KDE connect 分别有大约 1000 和 500 行。
-为了翻译这些软件，我参考了谷歌翻译和人工智能模型来改进我的翻译。翻译记忆库在查找重复项方面表现出色，并帮助我避免再次翻译相同的单词。]]></description>
-      <guid>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
