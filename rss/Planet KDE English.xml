@@ -4,7 +4,21 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Apr 2024 02:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 06:36:03 GMT</lastBuildDate>
+    <item>
+      <title>Volker Krause - 安全 HTTP 使用 - 学院 2019</title>
+      <link>https://tube.kockatoo.org/w/aCEFjt2qQvkQbPQa1v8DCp?utm_source=atom_feed</link>
+      <description><![CDATA[为了保护用户的隐私及其系统的安全性和完整性，传输加密和身份验证的使用对于任何网络通信都至关重要。 HTTP over TLS (HTTPS) 可能是最广泛使用的协议集。在我们的应用程序中使用它时需要注意什么？]]></description>
+      <guid>https://tube.kockatoo.org/w/aCEFjt2qQvkQbPQa1v8DCp?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 06:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Volker Krause - Android 上的 KDE 框架 - Academy 2019</title>
+      <link>https://tube.kockatoo.org/w/vc7qW8wHbBTgQ9wTq3ni3Y?utm_source=atom_feed</link>
+      <description><![CDATA[将 Android 作为一个平台对于我们的应用程序来说很有吸引力，既可以作为 Plasma Mobile 的中间试验场，也可以因为其巨大的市场份额。对于基于 Kirigami 的新应用程序来说，由于 Qt 的可移植性，这是一个相当简单的过程。然而，在移动 UI 考虑之前还有许多有价值的代码，以及 Qt 中的功能差距，而这正是 KDE 框架可以提供帮助的地方。我们已经做了什么，还需要做什么，我们该怎么做？]]></description>
+      <guid>https://tube.kockatoo.org/w/vc7qW8wHbBTgQ9wTq3ni3Y?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 04:37:09 GMT</pubDate>
+    </item>
     <item>
       <title>Katarina Behrens - 查看 KDE Plasma 软件上的 LibreOffice - Academy 2019</title>
       <link>https://tube.kockatoo.org/w/uCTJzTcgdD7RcS3ocveTpr?utm_source=atom_feed</link>
@@ -20,7 +34,7 @@
       <pubDate>Tue, 16 Apr 2024 00:10:35 GMT</pubDate>
     </item>
     <item>
-      <title>Trung Thanh Dinh - digiKam 中使用 OpenCV 进行 AI 人脸识别 - Akademy 2019</title>
+      <title>Trung Thanh Dinh - 在 digiKam 中使用 OpenCV 进行 AI 人脸识别 - Akademy 2019</title>
       <link>https://tube.kockatoo.org/w/qTp36oaEYBBBx1oHerztBN?utm_source=atom_feed</link>
       <description><![CDATA[目前，我们正在观察技术的惊人发展，特别是在人工智能领域。事实上，通过从海量数据中学习，人工智能特别擅长一些普通算法无法达到良好性能水平的任务，例如：图像分类、语音识别、目标检测、趋势预测、特征提取等。此外，新的人工智能随着神经网络和深度学习的出现，算法甚至使人工智能模型变得更加鲁棒，因此它们现在可以提供更好的预测，而不受自我改进的限制。
 意识到这些资产，digiKam 团队已考虑在 digiKam 中使用深度学习。因此，本次演讲旨在介绍一种基于深度学习模型和OpenCV DNN模块的digiKam中人脸识别的新实现，从而提高人脸识别模块的性能。]]></description>
@@ -130,20 +144,6 @@ Qt 以前仅支持 % 单位 px 和 em。
 电子邮件）。]]></description>
       <guid>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</guid>
       <pubDate>Sun, 14 Apr 2024 20:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯特在所有平台上 - 2024</title>
-      <link>https://cullmann.io/posts/kate-on-all-platforms-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://cullmann.io/posts/kate-on-all-platforms-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 14 Apr 2024 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：显式同步</title>
-      <link>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 13 Apr 2024 05:46:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
