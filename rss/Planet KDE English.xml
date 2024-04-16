@@ -4,88 +4,158 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Apr 2024 10:35:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 11:10:27 GMT</lastBuildDate>
     <item>
-      <title>2020 年学院 - Timothée Giet - 庆祝 GCompris 成立 20 周年</title>
-      <link>https://tube.kockatoo.org/w/vqpu5HzP2ctEh9bsPeeX9q?utm_source=atom_feed</link>
-      <description><![CDATA[今年是 GCompris 的 20 岁生日，因此我们决定以多种方式庆祝！
-有关今年该项目发生的情况以及预计很快会发生什么的一些消息。]]></description>
-      <guid>https://tube.kockatoo.org/w/vqpu5HzP2ctEh9bsPeeX9q?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 10:30:39 GMT</pubDate>
+      <title>Kdenlive 24.02.2 发布</title>
+      <link>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Apr 2024 13:53:10 GMT</pubDate>
     </item>
     <item>
-      <title>Academy 2020 - Méven Car - Wayland 目标状态更新</title>
-      <link>https://tube.kockatoo.org/w/5Hvj3TgYG9fMrXSDxD9vf7?utm_source=atom_feed</link>
-      <description><![CDATA[Wayland 是我们古老的 X 窗口系统的替代品。
-社区通过 Wayland Goal 一直致力于让 KDE 软件在 Wayland 上运行得更好。
-Wayland 的目标是一项艰巨的任务，需要更新多个组件，并使我们重新构建整个显示堆栈。自 2019 年 Akademy 以来，社区取得了重大进展。
-到目前为止我们已经取得了哪些成就。
-我们一路走来学到了什么。
-接下来会发生什么。
-您如何帮助我们进一步推动 Wayland、KDE ​​和免费软件。]]></description>
-      <guid>https://tube.kockatoo.org/w/5Hvj3TgYG9fMrXSDxD9vf7?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 10:24:39 GMT</pubDate>
+      <title>KDE 霓虹灯开门聊天</title>
+      <link>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</link>
+      <description><![CDATA[KDE 6 Megarelease 已经过去几周了，虽然很多人都觉得它运行良好，但 KDE neon 的推出过程中存在太多问题。
+我们将于明天（4 月 16 日星期二）在 KDE 上举办两场 Open Door Chat，用户可以与开发人员讨论您遇到的任何问题。
+https://meet.kde.org/b/jon-0yw- xqi-sk6 访问代码将发布在 KDE neon Telegram 群组和 Matrix 聊天室或发送电子邮件至 jr@jriddell.org
+2024 年 4 月 16 日星期二 09:00 UTC（10:00 BST、11:00 CEST）和 19:00 UTC（20:00 BST、21:00 CEST）聊天]]></description>
+      <guid>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Apr 2024 10:16:34 GMT</pubDate>
     </item>
     <item>
-      <title>Akademy 2020 - David Faure - KIO：年轻和年老工作的故事</title>
-      <link>https://tube.kockatoo.org/w/ppRyDvoP8qQR1f5LgkJz89?utm_source=atom_feed</link>
-      <description><![CDATA[今年早些时候迁移到 GitLab 为所有 KDE 项目开辟了许多新的可能性。其中之一是在 GitLab CI 上引入自定义作业。在本次演讲中，我想展示使用静态分析工具和 linter 自动检查代码质量的好处，并解释如何配置 GitLab CI 以在每个拉取请求上自动运行这些工具或作为常规构建的一部分。]]></description>
-      <guid>https://tube.kockatoo.org/w/ppRyDvoP8qQR1f5LgkJz89?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 10:18:21 GMT</pubDate>
+      <title>QTextDocument 的改进</title>
+      <link>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</link>
+      <description><![CDATA[Marknote 使用 QTextDocument 实现所见即所得
+文本编辑器。这出乎意料地非常强大，并且感谢借用了一些代码
+从 KMail 富文本编辑器中，实现大部分内容并不难
+降价规范。
+虽然 QTextDocument 很棒，但我很快就遇到了一些限制。这就是为什么我
+开始修复其中一些问题，并且我已经在 Qt 中进行了一些修补程序以供审核。
+默认表格样式
+默认情况下，表格的样式看起来直接来自 90 年代，我提交了
+补丁以使用更好的东西： https://codereview.qt-project.org/c/qt/qtbase/+/554132
+&lt;图&gt;
+
+
+
+旧风格
+
+&lt;图&gt;
+
+
+
+新风格
+
+这在应用程序本身中很容易更改，并且已经是这种情况
+Marknote 和 NeoChat 表格渲染，但默认情况下我相信 Qt 应该
+提供了一个很好的样式，以便应用程序不需要弄清楚如何覆盖
+默认样式。
+在研究这个问题时，我还注意到 border-collapse 属性不是
+由 QtQuick 中的布局引擎支持，并且仅在 QtWidget 中支持。这导致了
+表格边框的厚度是应有的两倍。这是
+幸运的是，通过一个简单的补丁修复了：
+https:// codereview.qt-project.org/c/qt/qtdeclarative/+/554151
+响应式图片
+可以使用以下方法将宽度和高度分配给 QTextDocument 中的图像
+各自的 html 属性 。这有效
+当窗口大小已知且静态时正确，但不如窗口大小
+可以根据用户的需要调整大小。网页设计中的一种常见技术是添加
+网站的以下样式：
+img {
+最大宽度： 100%;
+}
+虽然 QTextDocument 支持一些 CSS 属性，但 max-width 不支持
+实施的。在 HTML 和 CSS 中添加对更多属性的支持
+解析器非常简单，因为它只是转发最大宽度的值
+属性到 QTextImageHandler，处理有点复杂
+Qt 以前仅支持 % 单位 px 和 em。
+这导致了另外两个补丁，一个用于 QtTextDocument 和 QtWidget
+一个用于 QtQuick .
+
+
+
+未来
+希望这些补丁能够尽快得到审查和合并。之后我想要
+添加对更多 CSS 属性的支持，例如：图像的 border-radius
+和一些其他元素，以及 border-{width, style, color} 属性
+让段落更好地支持  （显示时很重要
+电子邮件）。]]></description>
+      <guid>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 14 Apr 2024 20:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>2020 年学院 - Dan Leinir Turthra Jensen 和 Andrew Shoben - KDE Wags Your Tail</title>
-      <link>https://tube.kockatoo.org/w/bKWBvRFFtFA7J8SCMWdeaM?utm_source=atom_feed</link>
-      <description><![CDATA[了解 The Tail Company 如何与 KDE 技术合作，让他们的尾巴摇摆、耳朵摇摆，他们如何意识到自己已经拥有自由软件思维，并了解其硬件的本质。
-2018 年秋天，The Tail Company 认为简单的遥控器不足以满足他们想要对电子动画尾巴做的事情，因此他们发起了一项众筹活动，以构建一款基于蓝牙的应用程序控制的尾巴。本演示讲述了如何将其转变为直接与自由软件社区合作的实验，所有控制软件都基于自由软件和 KDE 的 Kirigami 框架。从那时起，名字越来越不幸的Tail Company推出了他们的电子动画耳朵EarGear，由相同的软件控制。您还可以看到两者的底层，了解应用程序如何在不同平台上工作的概述，以及尾部和耳朵硬件如何组合在一起。]]></description>
-      <guid>https://tube.kockatoo.org/w/bKWBvRFFtFA7J8SCMWdeaM?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 10:11:30 GMT</pubDate>
+      <title>凯特在所有平台上 - 2024</title>
+      <link>https://cullmann.io/posts/kate-on-all-platforms-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://cullmann.io/posts/kate-on-all-platforms-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 14 Apr 2024 17:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>学院 2020 - Rohan Garg - Linux 图形 101</title>
-      <link>https://tube.kockatoo.org/w/vjgHWzdsrvyGUrESd7gqYo?utm_source=atom_feed</link>
-      <description><![CDATA[ARM 设备的日益普及意味着 KDE 产品的新市场。然而，与我们享受经过良好测试的图形堆栈的稳定性的传统平台不同，基于 ARM 架构的平台往往更加古怪。
-在本次演讲中，Rohan 将讨论 Linux 图形堆栈如何工作的基础知识，涉及 DRM、DRI 和 Mesa 等技术如何相互交互，以及我们如何发展到当前 Gallium 背后的历史台面设计。]]></description>
-      <guid>https://tube.kockatoo.org/w/vjgHWzdsrvyGUrESd7gqYo?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 10:06:33 GMT</pubDate>
+      <title>本周 KDE：显式同步</title>
+      <link>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 13 Apr 2024 05:46:23 GMT</pubDate>
     </item>
     <item>
-      <title>2020 年学院 - Marta Rybczynska - 来自外部的 KDE 一年</title>
-      <link>https://tube.kockatoo.org/w/661ApiZyHmsSN3eJqnEJ42?utm_source=atom_feed</link>
-      <description><![CDATA[大多数 KDE 人从 KDE 人那里了解 KDE 新闻。但社区外的人怎么说呢？你在说什么？让我们探讨一下非 KDE 新闻网站、博客和播客对 KDE 的评价。
-在本次演讲中，我们将涵盖未链接到 KDE 的网站在 2019-20 年对 KDE 的新闻报道。我们将展示 Wayland 上的 KWin 是否比 KDE 目标获得更多报道、当前最热门的主题是什么等等。令人惊讶的是，该分析准备...]]></description>
-      <guid>https://tube.kockatoo.org/w/661ApiZyHmsSN3eJqnEJ42?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 10:00:30 GMT</pubDate>
+      <title>Cantor 和 KDE Con​​nect 的印地语翻译 - SoK 2024</title>
+      <link>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[Cantor 和 KDE 连接的印地语翻译 - KDE 2024 年赛季 这是 SoK 2024 的第二篇也是最后一篇博客。
+在 KDE 赛季的后半段，我翻译了 Cantor 和 KDE connect 的印地语。 Cantor 和 KDE connect 分别有大约 1000 和 500 行。
+为了翻译这些软件，我参考了谷歌翻译和人工智能模型来改进我的翻译。翻译记忆库在查找重复项方面表现出色，并帮助我避免再次翻译相同的单词。]]></description>
+      <guid>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2020 年学院 - Nicolás Alvarez - 改进 KDE 服务器基础设施</title>
-      <link>https://tube.kockatoo.org/w/fz63gs3x4x7GJqHcoQDMEd?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 系统管理团队已开始在幕后进行一些工作，以减少我们管理服务器方式中的“技术债务”。一些手动任务正在变成脚本，我们有更好的文档，并且更多的东西可以在将它们放入真实服务器之前在本地进行测试。 Nicolás 将快速概述这些变化以及我们将这些变化扩展到更多服务的进展。
-Nicolás 还将展示这些改进如何让新系统管理员和 Web 开发人员更轻松地做出贡献！]]></description>
-      <guid>https://tube.kockatoo.org/w/fz63gs3x4x7GJqHcoQDMEd?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 09:57:46 GMT</pubDate>
+      <title>Kubuntu：Noble Numbat Beta 版上线！ Qt6 快照即将推出。</title>
+      <link>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</link>
+      <description><![CDATA[
+这几周非常忙碌，因为我们致力于一些重大转变和需要重建 $world 的安全修复。我很高兴地向大家报告，尽管困难重重，我们还是发布了测试版！您可以在这里阅读所有相关内容：https://kubuntu.org/news/ kubuntu-24-04-beta-released/ 测试版冻结后我今天已经开始推动对已知问题的修复。我们的新品牌是一件大事！ Kubuntu 世界中非常激动人心的时刻。
+在 snap 世界中，我将利用空闲时间开始开发 KDE 应用程序（项目未涵盖）。我还招募了一些帮助，所以您应该很快就会开始在边缘频道中看到这些弹出！
+现在我们即将发布 Noble Numbat，我与 Kubuntu 的合同即将结束。如果您希望在下一个版本和 Noble 的 PPA 中看到 Plasma 6，请考虑通过 https 捐款以延长我的合同： //kubuntu.org/donate！
+就个人而言，我仍然希望帮助我的孙子，您可以在这里找到：https://www.gofundme.com/f/in-loving-memory-of-william-billy-dean-scalf
+感谢您的光临，
+斯嘉丽]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 19:29:58 GMT</pubDate>
     </item>
     <item>
-      <title>Akademy 2020 - Daniel Vrátil - 使用 Gitlab CI 进行静态代码分析</title>
-      <link>https://tube.kockatoo.org/w/tCNx1TVDTw6rEpzHwKT6Xc?utm_source=atom_feed</link>
-      <description><![CDATA[今年早些时候迁移到 GitLab 为所有 KDE 项目开辟了许多新的可能性。其中之一是在 GitLab CI 上引入自定义作业。在本次演讲中，我想展示使用静态分析工具和 linter 自动检查代码质量的好处，并解释如何配置 GitLab CI 以在每个拉取请求上自动运行这些工具或作为常规构建的一部分。]]></description>
-      <guid>https://tube.kockatoo.org/w/tCNx1TVDTw6rEpzHwKT6Xc?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 09:51:26 GMT</pubDate>
+      <title>Kubuntu 24.04 Beta 发布</title>
+      <link>https://kubuntu.org/news/kubuntu-24-04-beta-released/?utm_source=atom_feed</link>
+      <description><![CDATA[加入兴奋：
+测试 Kubuntu 24.04 Beta 并通过 KubuQA 体验创新！
+
+我们很高兴地宣布 Kubuntu 24.04 Beta 现已推出！&lt; /a&gt; 此版本包含新功能和增强功能，我们邀请您，我们尊贵的社区，与我们一起微调这个令人兴奋的新版本。无论您是经验丰富的测试人员还是软件测试新手，您的反馈对于让 Kubuntu 24.04 成为最好的产品至关重要。
+为了让您的测试之旅变得简单，我们推出了一款出色的新工具：&lt;强&gt;KubuQA。 KubuQA 在设计时考虑了新用户和有经验的用户，通过自​​动化下载、VirtualBox 设置和配置步骤来简化测试过程。现在，每个人都可以轻松参与 Kubuntu 测试！
+此测试版还首次推出了我们全新的品牌、艺术作品和壁纸，这些都是由我们自己的社区通过最近的 品牌和壁纸竞赛。这些新增内容反映了 Kubuntu 家族的精神和创造力，我们迫不及待地想让您看到他们。
+进行测试
+通过参与 Kubuntu 24.04 的 Beta 测试，您不仅可以帮助改进软件，还可以帮助改进软件。您正在成为重视开放协作和创新的全球社区不可或缺的一部分。您的贡献有助于我们发现并解决问题，确保 Kubuntu 始终是一个高质量、稳定且用户友好的 Linux 发行版。
+加入我们的测试团队的好处不仅仅是改进软件。您将获得宝贵的经验，结识志趣相投的人，也许还会在开源软件世界中发现新的热情。
+那为什么要等呢？立即下载 Kubuntu 24.04 测试版，试用KubuQA，或关注我们的 wiki 升级并帮助我们使 Kubuntu 变得比以往更好！请记住，您的反馈是我们成功的关键。
+准备好产生影响了吗？ 
+加入我们这个激动人心的开发阶段，看看您的想法在 Kubuntu 中变成现实。另外，您还可以因为知道自己为全世界数百万人使用的项目做出了贡献而感到满足。立即成为测试人员并参与重大活动！
+不仅仅对测试感兴趣？ 
+顺便问一下，您是否考虑过成为 Kubuntu 社区的一员？这是一种更积极地做出贡献并帮助塑造 Kubuntu 未来的绝佳方式。详细了解加入社区]]></description>
+      <guid>https://kubuntu.org/news/kubuntu-24-04-beta-released/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 18:33:28 GMT</pubDate>
     </item>
     <item>
-      <title>学院 2020 - Tej Shah - Clear Dental</title>
-      <link>https://tube.kockatoo.org/w/sRoAgYbjWwMDyBKqfLexVW?utm_source=atom_feed</link>
-      <description><![CDATA[演讲将介绍 Clear.Dental 的范围、基本设计、历史、现状和未来。本演讲还将讨论在临床环境中使用 Linux 和 FLOSS 的一些主要障碍，并向其他试图将 EHR 迁移到对 FLOSS 更加友好的环境的人提出建议。我可能还会在演示结束时向 KDE 团队推荐对牙科诊所非常有用的功能。]]></description>
-      <guid>https://tube.kockatoo.org/w/sRoAgYbjWwMDyBKqfLexVW?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 09:45:28 GMT</pubDate>
+      <title>网络评论，2024-15 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 14:19:44 GMT</pubDate>
     </item>
     <item>
-      <title>Akademy 2020 - Carson Black - API 设计和 QML</title>
-      <link>https://tube.kockatoo.org/w/fBWw8Xp8AS7HW7qQi5XPBe?utm_source=atom_feed</link>
-      <description><![CDATA[有关 QML API 设计的演示，分享创建 QML API 时应遵循的最佳实践和应避免的事项，以及更通用的 API 优先设计流程。
-涵盖了设计和实现 QML API 时要依赖的习惯用法，列出了创建它们时要避免的一些反模式，并分享了示例以帮助在实践中演示 API 设计的习惯用法。]]></description>
-      <guid>https://tube.kockatoo.org/w/fBWw8Xp8AS7HW7qQi5XPBe?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 09:40:53 GMT</pubDate>
+      <title>Tellico 印地语翻译 - SoK 2024</title>
+      <link>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[这是我关于参加 KDE 2024 赛季经历的最后一篇博客。
+作为我最后一个学期的一部分，我将tellico 翻译成印地语。 Tellico 包含 2070 个跨越消息和文档消息的语句。
+我使用 lokalize 应用程序进行翻译。
+除了翻译的单词有些含糊之外，我在翻译工作中几乎没有遇到任何问题。感谢 Raghavendra Kamath 帮助我解决了这几个问题。
+总的来说，在整个计划中这是一次很棒的经历。]]></description>
+      <guid>https://akashkumar7902.github.io/blog/tellico-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Apr 2024 09:13:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
