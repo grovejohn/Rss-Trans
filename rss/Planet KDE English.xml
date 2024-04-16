@@ -4,146 +4,80 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Apr 2024 06:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Apr 2024 08:36:10 GMT</lastBuildDate>
     <item>
-      <title>Volker Krause - 安全 HTTP 使用 - 学院 2019</title>
-      <link>https://tube.kockatoo.org/w/aCEFjt2qQvkQbPQa1v8DCp?utm_source=atom_feed</link>
-      <description><![CDATA[为了保护用户的隐私及其系统的安全性和完整性，传输加密和身份验证的使用对于任何网络通信都至关重要。 HTTP over TLS (HTTPS) 可能是最广泛使用的协议集。在我们的应用程序中使用它时需要注意什么？]]></description>
-      <guid>https://tube.kockatoo.org/w/aCEFjt2qQvkQbPQa1v8DCp?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 06:23:46 GMT</pubDate>
+      <title>赞助商讲座 - 学院 2019</title>
+      <link>https://tube.kockatoo.org/w/w18RuEbZicYLyWZcS4nGX4?utm_source=atom_feed</link>
+      <description><![CDATA[我们的赞助商会说几句话。]]></description>
+      <guid>https://tube.kockatoo.org/w/w18RuEbZicYLyWZcS4nGX4?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 08:29:54 GMT</pubDate>
     </item>
     <item>
-      <title>Volker Krause - Android 上的 KDE 框架 - Academy 2019</title>
-      <link>https://tube.kockatoo.org/w/vc7qW8wHbBTgQ9wTq3ni3Y?utm_source=atom_feed</link>
-      <description><![CDATA[将 Android 作为一个平台对于我们的应用程序来说很有吸引力，既可以作为 Plasma Mobile 的中间试验场，也可以因为其巨大的市场份额。对于基于 Kirigami 的新应用程序来说，由于 Qt 的可移植性，这是一个相当简单的过程。然而，在移动 UI 考虑之前还有许多有价值的代码，以及 Qt 中的功能差距，而这正是 KDE 框架可以提供帮助的地方。我们已经做了什么，还需要做什么，我们该怎么做？]]></description>
-      <guid>https://tube.kockatoo.org/w/vc7qW8wHbBTgQ9wTq3ni3Y?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 04:37:09 GMT</pubDate>
+      <title>Michiel Leenaars - NGI0：为互联网工作 - 学院 2019</title>
+      <link>https://tube.kockatoo.org/w/9HuN9t6MZAwSD3ny2gTZua?utm_source=atom_feed</link>
+      <description><![CDATA[下一代互联网计划是第一个真正的机会，可以投入大量公共资金来真正修复斯诺登后的互联网。 NGI 在欧盟委员会的倡议下于 2016 年启动。 NGI 的雄心是“重新构想和重新设计第三个千年及以后的互联网”——这实际上并没有夸大这项努力的重要性。互联网影响并塑造了我们整个现代社会，因此无论在社会、经济还是环境方面，它都必须是值得信赖和可持续的。它需要强大且有弹性，这样我们的社会才能负责任地依赖它。作为一个技术社区，我们需要提前思考和发明，通过设计真正实现安全、公平和隐私。
+在本次演讲中，Michiel Leenaars 将介绍 NGI Zero，这是一项独特的合作资助项目，建立在数十年的非营利专业知识的基础上，其历史可以追溯到上世纪 80 年代欧洲互联网的引入。&lt; /p&gt;]]></description>
+      <guid>https://tube.kockatoo.org/w/9HuN9t6MZAwSD3ny2gTZua?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 08:23:38 GMT</pubDate>
     </item>
     <item>
-      <title>Katarina Behrens - 查看 KDE Plasma 软件上的 LibreOffice - Academy 2019</title>
-      <link>https://tube.kockatoo.org/w/uCTJzTcgdD7RcS3ocveTpr?utm_source=atom_feed</link>
-      <description><![CDATA[本演讲介绍了 LibreOffice 基于 Qt5 的新 KDE 前端，因为归根结底，最好的免费开源办公套件应该很好地集成到最好的免费开源桌面环境中 😃]]></description>
-      <guid>https://tube.kockatoo.org/w/uCTJzTcgdD7RcS3ocveTpr?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 01:59:56 GMT</pubDate>
+      <title>主讲人：Leonardo Fvario - Developers Italia 和新指南 - Akademy 2019</title>
+      <link>https://tube.kockatoo.org/w/aPNmhF5vjEi1QKHvtHMFCQ?utm_source=atom_feed</link>
+      <description><![CDATA[有很多指标可用于衡量开源社区的健康状况。在评估您对社区的贡献时，重要的是要超越可量化的指标，还要考虑诸如建立社区意识、解决成员（通常是内在的）动机、培育多元化社区等领域。
+在本次会议中，将讨论对开源社区健康的可量化和不可量化的贡献。随着社区的不断发展，还将讨论重新审视社区目标。]]></description>
+      <guid>https://tube.kockatoo.org/w/aPNmhF5vjEi1QKHvtHMFCQ?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 08:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>Dan Leinir Turthra Jensen - 快速获得热门新东西（ly） - 学院 2019</title>
-      <link>https://tube.kockatoo.org/w/1ZXGth8rT7eumYQ4RHbHc9?utm_source=atom_feed</link>
-      <description><![CDATA[了解基于 Qt Quick 的 KNewStuff 组件及其存在的背景，并了解如何在自己的应用程序中使用它们。]]></description>
-      <guid>https://tube.kockatoo.org/w/1ZXGth8rT7eumYQ4RHbHc9?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 00:10:35 GMT</pubDate>
+      <title>Dan Leinir Turthra Jensen - 软件分发：讨论 + 闪电演讲 - Akademy 2019</title>
+      <link>https://tube.kockatoo.org/w/jAyYcfCheS1nmZ4VMyytqg?utm_source=atom_feed</link>
+      <description><![CDATA[将软件提供给最终用户一直是软件创建者担心的问题。针对这个问题已经提出并尝试了很多解决方案。在这个小组中，将讨论不同的方法并回答观众的问题。
+在闪电演讲中，您会听到相关人员提出的不同方法。]]></description>
+      <guid>https://tube.kockatoo.org/w/jAyYcfCheS1nmZ4VMyytqg?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 07:51:02 GMT</pubDate>
     </item>
     <item>
-      <title>Trung Thanh Dinh - 在 digiKam 中使用 OpenCV 进行 AI 人脸识别 - Akademy 2019</title>
-      <link>https://tube.kockatoo.org/w/qTp36oaEYBBBx1oHerztBN?utm_source=atom_feed</link>
-      <description><![CDATA[目前，我们正在观察技术的惊人发展，特别是在人工智能领域。事实上，通过从海量数据中学习，人工智能特别擅长一些普通算法无法达到良好性能水平的任务，例如：图像分类、语音识别、目标检测、趋势预测、特征提取等。此外，新的人工智能随着神经网络和深度学习的出现，算法甚至使人工智能模型变得更加鲁棒，因此它们现在可以提供更好的预测，而不受自我改进的限制。
-意识到这些资产，digiKam 团队已考虑在 digiKam 中使用深度学习。因此，本次演讲旨在介绍一种基于深度学习模型和OpenCV DNN模块的digiKam中人脸识别的新实现，从而提高人脸识别模块的性能。]]></description>
-      <guid>https://tube.kockatoo.org/w/qTp36oaEYBBBx1oHerztBN?utm_source=atom_feed</guid>
-      <pubDate>Mon, 15 Apr 2024 22:24:21 GMT</pubDate>
+      <title>Ivan Čukić 和 Lydia Pintscher - 隐藏的一切：帮助保护我们用户的隐私 - Akademy 2019</title>
+      <link>https://tube.kockatoo.org/w/164uapDcY7YdGju82REFL4?utm_source=atom_feed</link>
+      <description><![CDATA[在本次会议中，一些致力于部分隐私目标的人员将概述他们的工作，以了解我们迄今为止所取得的进展。]]></description>
+      <guid>https://tube.kockatoo.org/w/164uapDcY7YdGju82REFL4?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 07:42:45 GMT</pubDate>
     </item>
     <item>
-      <title>Ivana Isadora Devcic - 为什么您的社区需要开发者门户 - Akademy 2019</title>
-      <link>https://tube.kockatoo.org/w/jhS8wMP4ftzVcL5drzSAiW?utm_source=atom_feed</link>
-      <description><![CDATA[像 KDE 这样的社区如何从开发者门户中受益......什么是开发者门户？本演讲旨在回答这些问题，并为构建开发人员门户提供实用建议。本次会议的见解可以为所有希望确保其社区不断发展和繁荣的贡献者提供指导和启发。]]></description>
-      <guid>https://tube.kockatoo.org/w/jhS8wMP4ftzVcL5drzSAiW?utm_source=atom_feed</guid>
-      <pubDate>Mon, 15 Apr 2024 21:24:05 GMT</pubDate>
+      <title>主讲人：Lars Knoll - 迈向 Qt 6 - Academy 2019</title>
+      <link>https://tube.kockatoo.org/w/7VE9T6ts4ow9DNzrkqYfce?utm_source=atom_feed</link>
+      <description><![CDATA[自 20 多年前诞生以来，Qt 一直是 KDE 的基础。 Qt 5 使用了 7 年之后，现在已经开始开发该框架的新主要版本。本次演讲将介绍 Qt 6 的主要思想和目标，重点关注高层思想，同时也会讨论一些具体细节。]]></description>
+      <guid>https://tube.kockatoo.org/w/7VE9T6ts4ow9DNzrkqYfce?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 07:30:02 GMT</pubDate>
     </item>
     <item>
-      <title>Okular 获得有趣的新功能</title>
-      <link>https://tube.kockatoo.org/w/7FxQEQHm6hZBbDd5bmYiWS?utm_source=atom_feed</link>
-      <description><![CDATA[下周 KDE 将发布应用程序 19.04，彻底修改通常与 KDE Plasma 桌面一起打包的大部分程序套件。这个新版本使 KDE 的应用程序更加用户友好、彼此一致且全面流畅。
-除了其他改进之外，Okular 还支持显示和验证 PDF 上的数字签名。此功能对于使用 KDE 的文档查看器进行业务或如果您需要以任何官方身份交换文档...例如在谈判国际和平条约时至关重要。数字签名可让您确定文档的真实性（无论其是否被篡改），并确认文档的来源和发送者。
-归因：
-老歌公共领域的镜头和法国 Reel Victor 军乐队 Burchenal 音乐可从以下位置获取：
-https://archive.org
-Steadman CC By-NC-ND 的“防晒乳液”可从：
-http://freemusicarchive.org/music/Steadman/The_Bitter_End/08_sun_lotion
-（还有更多震撼人心的曲调）
-和平条约镜头可从：
-Clintonlibrary 42：https://www.youtube.com/channel/UCMkYd9teJEBlCOwDan6qPpg
-新西兰一新闻：https://www.youtube.com/channel/UCRdbeElPWvSumxERqoR7ZUA&lt; /a&gt;
-欧盟委员会：https://www.youtube.com/channel/UCMPaviJxybo1RTdzvYcU91A
-非常感谢内容创作者在慷慨的免费许可下免费提供他们的作品。没有您的慷慨，就不可能制作出这样的视频。]]></description>
-      <guid>https://tube.kockatoo.org/w/7FxQEQHm6hZBbDd5bmYiWS?utm_source=atom_feed</guid>
-      <pubDate>Mon, 15 Apr 2024 17:31:57 GMT</pubDate>
+      <title>KDE e.V.董事会 - KDE 的目标 - 学院 2019</title>
+      <link>https://tube.kockatoo.org/w/cZd7Xa2Y6yafxPRyaSfMp6?utm_source=atom_feed</link>
+      <description><![CDATA[让我们看看我们的第一组目标已经取得了多大的进展，并公布了下一个目标。]]></description>
+      <guid>https://tube.kockatoo.org/w/cZd7Xa2Y6yafxPRyaSfMp6?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 07:20:28 GMT</pubDate>
     </item>
     <item>
-      <title>Kdenlive 24.02.2 发布</title>
-      <link>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 15 Apr 2024 13:53:10 GMT</pubDate>
+      <title>Ray Paik - 我如何知道我是否在构建开源社区方面有所作为 - Akademy 2019</title>
+      <link>https://tube.kockatoo.org/w/oHVYswTzrRgSbXXyN81odF?utm_source=atom_feed</link>
+      <description><![CDATA[有很多指标可用于衡量开源社区的健康状况。在评估您对社区的贡献时，重要的是要超越可量化的指标，还要考虑诸如建立社区意识、解决成员（通常是内在的）动机、培育多元化社区等领域。
+在本次会议中，将讨论对开源社区健康的可量化和不可量化的贡献。随着社区的不断发展，还将讨论重新审视社区目标。]]></description>
+      <guid>https://tube.kockatoo.org/w/oHVYswTzrRgSbXXyN81odF?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 07:14:56 GMT</pubDate>
     </item>
     <item>
-      <title>KDE 霓虹灯开门聊天</title>
-      <link>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 6 Megarelease 已经过去几周了，虽然很多人都觉得它运行良好，但 KDE neon 的推出过程中存在太多问题。
-我们将于明天（4 月 16 日星期二）在 KDE 上举办两场 Open Door Chat，用户可以与开发人员讨论您遇到的任何问题。
-https://meet.kde.org/b/jon-0yw- xqi-sk6 访问代码将发布在 KDE neon Telegram 群组和 Matrix 聊天室或发送电子邮件至 jr@jriddell.org
-2024 年 4 月 16 日星期二 09:00 UTC（10:00 BST、11:00 CEST）和 19:00 UTC（20:00 BST、21:00 CEST）聊天]]></description>
-      <guid>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 15 Apr 2024 10:16:34 GMT</pubDate>
+      <title>Aditya Mehra - Mycroft 等离子汽车演示 - 学院 2019</title>
+      <link>https://tube.kockatoo.org/w/am1hT3BQx6hpSgTCSCzbAR?utm_source=atom_feed</link>
+      <description><![CDATA[开源语音助手不适用于家庭和桌面，更现代的车辆正在配备语音助手，以帮助驾驶员完成以车辆为中心的任务，本演示文稿展示了由 Plasma 和 Kirigami 技术支持的 Mycroft AI 的汽车演示。 ]]></description>
+      <guid>https://tube.kockatoo.org/w/am1hT3BQx6hpSgTCSCzbAR?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 07:09:32 GMT</pubDate>
     </item>
     <item>
-      <title>QTextDocument 的改进</title>
-      <link>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</link>
-      <description><![CDATA[Marknote 使用 QTextDocument 实现所见即所得
-文本编辑器。这出乎意料地非常强大，并且感谢借用了一些代码
-从 KMail 富文本编辑器中，实现大部分内容并不难
-降价规范。
-虽然 QTextDocument 很棒，但我很快就遇到了一些限制。这就是为什么我
-开始修复其中一些问题，并且我已经在 Qt 中进行了一些修补程序以供审核。
-默认表格样式
-默认情况下，表格的样式看起来直接来自 90 年代，我提交了
-补丁以使用更好的东西： https://codereview.qt-project.org/c/qt/qtbase/+/554132
-&lt;图&gt;
-
-
-
-旧风格
-
-&lt;图&gt;
-
-
-
-新风格
-
-这在应用程序本身中很容易更改，并且已经是这种情况
-Marknote 和 NeoChat 表格渲染，但默认情况下我相信 Qt 应该
-提供了一个很好的样式，以便应用程序不需要弄清楚如何覆盖
-默认样式。
-在研究这个问题时，我还注意到 border-collapse 属性不是
-由 QtQuick 中的布局引擎支持，并且仅在 QtWidget 中支持。这导致了
-表格边框的厚度是应有的两倍。这是
-幸运的是，通过一个简单的补丁修复了：
-https:// codereview.qt-project.org/c/qt/qtdeclarative/+/554151
-响应式图片
-可以使用以下方法将宽度和高度分配给 QTextDocument 中的图像
-各自的 html 属性 。这有效
-当窗口大小已知且静态时正确，但不如窗口大小
-可以根据用户的需要调整大小。网页设计中的一种常见技术是添加
-网站的以下样式：
-img {
-最大宽度： 100%;
-}
-虽然 QTextDocument 支持一些 CSS 属性，但 max-width 不支持
-实施的。在 HTML 和 CSS 中添加对更多属性的支持
-解析器非常简单，因为它只是转发最大宽度的值
-属性到 QTextImageHandler，处理有点复杂
-Qt 以前仅支持 % 单位 px 和 em。
-这导致了另外两个补丁，一个用于 QtTextDocument 和 QtWidget
-一个用于 QtQuick .
-
-
-
-未来
-希望这些补丁能够尽快得到审查和合并。之后我想要
-添加对更多 CSS 属性的支持，例如：图像的 border-radius
-和一些其他元素，以及 border-{width, style, color} 属性
-让段落更好地支持  （显示时很重要
-电子邮件）。]]></description>
-      <guid>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 14 Apr 2024 20:00:35 GMT</pubDate>
+      <title>Daniel Vrátil - 使用现代 C++ 构建富有表现力的 API - Akademy 2019</title>
+      <link>https://tube.kockatoo.org/w/8PiQsQpVem7LxvAc1Aiftw?utm_source=atom_feed</link>
+      <description><![CDATA[Qt 有自己的做事方式，我们一直在我们的代码和 API 中遵循这种方式。然而，从 C++11 开始，语言本身开始引入越来越多的功能，以使代码更安全、更容易理解。在本次演讲中，我将展示一些示例，说明现代 C++ 必须提供哪些工具来使您的代码和 API 更具表现力，以及如何将这些工具与 Qt 一起使用。]]></description>
+      <guid>https://tube.kockatoo.org/w/8PiQsQpVem7LxvAc1Aiftw?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 07:02:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
