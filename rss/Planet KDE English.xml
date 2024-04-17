@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 17 Apr 2024 14:35:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 15:35:21 GMT</lastBuildDate>
+    <item>
+      <title>Academy 2024：注册现已开放</title>
+      <link>https://akademy.kde.org/news/2024-04_akademy-2024-registration-now-open/?utm_source=atom_feed</link>
+      <description><![CDATA[Akademy 2024 将是一项混合活动，在德国维尔茨堡和在线上同时举行。
+来自全球 KDE 社区、更广泛的自由开源软件社区、当地组织和软件公司的数百名参与者将齐聚今年的 Akademy 2024 会议。该活动将于 9 月 7 日星期六至 9 月 12 日星期四在维尔茨堡在线举行。
+来自世界各地的 KDE 开发者、艺术家、设计师、翻译者、用户、作家、赞助商和支持者将面对面讨论关键技术问题、探索新想法并加强 KDE 的创新和充满活力的文化。
+立即注册并加入我们，参加精彩的讲座、研讨会、BoF 和编码会议。与其他 KDE 贡献者合作修复错误、开发新功能并沉浸在开源世界中。
+有关会议的更多信息，请访问 Akademy 2024 网站。]]></description>
+      <guid>https://akademy.kde.org/news/2024-04_akademy-2024-registration-now-open/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Apr 2024 06:12:13 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Plasma 6.0.4，四月份发布错误修复</title>
       <link>https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed</link>
@@ -153,13 +164,6 @@ Qt 以前仅支持 % 单位 px 和 em。
 顺便问一下，您是否考虑过成为 Kubuntu 社区的一员？这是一种更积极地做出贡献并帮助塑造 Kubuntu 未来的绝佳方式。详细了解加入社区]]></description>
       <guid>https://kubuntu.org/news/kubuntu-24-04-beta-released/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Apr 2024 18:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，2024-15 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/04/12/web-review-week-2024-15/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 14:19:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
