@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 17 Apr 2024 19:09:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 20:13:11 GMT</lastBuildDate>
     <item>
-      <title>特斯拉要求股东批准德克萨斯州的此举并恢复埃隆·马斯克 (Elon Musk) 的 56B 美元薪酬</title>
+      <title>数十亿条公共 Discord 消息可能通过抓取服务出售</title>
+      <link>https://arstechnica.com/?p=2017957</link>
+      <description><![CDATA[跨服务器跟踪提出了对“公共”聊天服务器的新理解。]]></description>
+      <guid>https://arstechnica.com/?p=2017957</guid>
+      <pubDate>Wed, 17 Apr 2024 19:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>新石器时代坑中发现的尸体可能是仪式谋杀的受害者</title>
+      <link>https://arstechnica.com/?p=2015478</link>
+      <description><![CDATA[一名受害者可能被活活绑在坑里，就像黑手党式的勒索一样。]]></description>
+      <guid>https://arstechnica.com/?p=2015478</guid>
+      <pubDate>Wed, 17 Apr 2024 19:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>到 2050 年，气候损失将是将升温限制在 2° 的成本的 6 倍</title>
+      <link>https://arstechnica.com/?p=2018002</link>
+      <description><![CDATA[研究追踪气候事件过去的成本并将其预测到未来。]]></description>
+      <guid>https://arstechnica.com/?p=2018002</guid>
+      <pubDate>Wed, 17 Apr 2024 19:06:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉请求股东批准德克萨斯州此举并恢复埃隆·马斯克 (Elon Musk) 的 56B 美元薪酬</title>
       <link>https://arstechnica.com/?p=2017920</link>
       <description><![CDATA[特斯拉董事会将于 6 月 13 日召开股东大会，就马斯克的薪酬和搬迁至德克萨斯州进行投票。]]></description>
       <guid>https://arstechnica.com/?p=2017920</guid>
@@ -20,14 +41,14 @@
       <pubDate>Wed, 17 Apr 2024 17:02:55 GMT</pubDate>
     </item>
     <item>
-      <title>博通表示“许多”VMware 永久许可证获得了支持延期</title>
+      <title>Broadcom 表示“许多”VMware 永久许可证获得了支持延期</title>
       <link>https://arstechnica.com/?p=2017717</link>
       <description><![CDATA[据报道，博通被指控改变 VMware 许可和支持条件。]]></description>
       <guid>https://arstechnica.com/?p=2017717</guid>
       <pubDate>Wed, 17 Apr 2024 16:44:44 GMT</pubDate>
     </item>
     <item>
-      <title>矮人要塞的冒险模式将模拟游戏的混乱精神带入 CRPG 中</title>
+      <title>《矮人要塞》的冒险模式将模拟游戏的混乱精神带入 CRPG 中</title>
       <link>https://arstechnica.com/?p=2017764</link>
       <description><![CDATA[旅行你自己的世界，遇见迷人的生物，并用螺栓拧住他们的脖子。]]></description>
       <guid>https://arstechnica.com/?p=2017764</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[数据中心正在成为人工智能发展的瓶颈。]]></description>
       <guid>https://arstechnica.com/?p=2017729</guid>
       <pubDate>Wed, 17 Apr 2024 13:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌地图中的电动汽车充电更新包括“人工智能驱动”的车站信息</title>
-      <link>https://arstechnica.com/?p=2017708</link>
-      <description><![CDATA[该更新将首先推广到内置谷歌地图的汽车。]]></description>
-      <guid>https://arstechnica.com/?p=2017708</guid>
-      <pubDate>Wed, 17 Apr 2024 13:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linus Torvalds 通过内核陷阱重申了制表符与空格的立场</title>
-      <link>https://arstechnica.com/?p=2017554</link>
-      <description><![CDATA[人们并不只是建议更改内核行来帮助解析工具。]]></description>
-      <guid>https://arstechnica.com/?p=2017554</guid>
-      <pubDate>Tue, 16 Apr 2024 21:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>攻击者通过数百万次登录尝试攻击世界各地的网络</title>
-      <link>https://arstechnica.com/?p=2017646</link>
-      <description><![CDATA[来自近 4,000 个 IP 地址的攻击针对 VPN、SSH 和 Web 应用程序。]]></description>
-      <guid>https://arstechnica.com/?p=2017646</guid>
-      <pubDate>Tue, 16 Apr 2024 21:31:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
