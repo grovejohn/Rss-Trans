@@ -4,76 +4,13 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 14:11:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 14:35:22 GMT</lastBuildDate>
     <item>
-      <title>TextHawk：探索多模态大语言模型的高效细粒度感知</title>
-      <link>https://arxiv.org/abs/2404.09204</link>
-      <description><![CDATA[多模态大语言模型 (MLLM) 在各种多模态任务上显示出令人印象深刻的结果。然而，大多数现有的 MLLM 不太适合面向文档的任务，这些任务需要细粒度的图像感知和信息压缩。在本文中，我们提出了 TextHawk，这是一种专为面向文档的任务而设计的 MLLM，同时保留了 MLLM 的一般功能。 TextHawk 旨在通过设计四个专用组件来探索高效的细粒度感知。首先，提出了重新采样和重新排列（ReSA）模块来减少文档文本中的冗余并降低MLLM的计算成本。我们通过提出可扩展位置嵌入（SPE）来探索对每个局部特征的位置进行编码，它可以保留各种图像尺寸的可扩展性。然后采用查询提议网络（QPN）来动态初始化不同子图像之间的查询。为了进一步增强 MLLM 的细粒度视觉感知能力，我们设计了一种多级交叉注意（MLCA）机制来捕获文档图像的层次结构和语义关系。此外，我们通过使用 Gemini Pro 丰富多模式文档数据，为面向文档的任务创建了一个新的指令调整数据集。我们对通用和面向文档的 MLLM 基准进行了广泛的实验，结果表明 TextHawk 优于最先进的方法，展示了其在细粒度文档感知和通用能力方面的有效性和优越性。]]></description>
-      <guid>https://arxiv.org/abs/2404.09204</guid>
-      <pubDate>Tue, 16 Apr 2024 05:58:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>多模态大语言模型的推测解码</title>
-      <link>https://arxiv.org/abs/2404.08856</link>
-      <description><![CDATA[多模态大型语言模型（MLLM）的推理速度很慢，因为它们的大型语言模型主干遭受内存带宽瓶颈并自动回归生成令牌。在本文中，我们探索了推测解码的应用来提高 MLLM 的推理效率，特别是 LLaVA 7B 模型。我们证明，仅语言模型可以作为使用 LLaVA 7B 进行推测解码的良好草稿模型，从而绕过草稿模型中对图像标记及其相关处理组件的需求。我们在三个不同任务上的实验表明，使用我们从头开始训练的 115M 参数语言模型，推测性解码可以实现高达 2.37 倍的内存限制加速。此外，我们还引入了一个包含图像适配器的紧凑型 LLaVA 草稿模型，该模型显示了图像字幕方面的边际性能提升，同时在其他任务中保持了可比较的结果。]]></description>
-      <guid>https://arxiv.org/abs/2404.08856</guid>
-      <pubDate>Tue, 16 Apr 2024 04:12:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>CompGS：通过压缩高斯泼溅进行高效 3D 场景表示</title>
-      <link>https://arxiv.org/abs/2404.09458</link>
-      <description><![CDATA[高斯喷射以其卓越的渲染质量和效率而闻名，已成为 3D 场景表示中的一项重要技术。然而，高斯泼溅的大量数据阻碍了其在实际应用中的实用性。在此，我们提出了一种高效的 3D 场景表示，称为压缩高斯分布 (CompGS)，它利用紧凑的高斯基元进行忠实的 3D 场景建模，并显着减少数据大小。为了确保高斯原语的紧凑性，我们设计了一种混合原语结构来捕获彼此之间的预测关系。然后，我们利用一小组锚基元进行预测，允许将大多数基元封装成高度紧凑的残差形式。此外，我们开发了一种速率受限的优化方案，以消除此类混合原语中的冗余，引导我们的 CompGS 在比特率消耗和表示效率之间实现最佳权衡。实验结果表明，所提出的 CompGS 显着优于现有方法，在 3D 场景表示中实现了卓越的紧凑性，同时又不影响模型精度和渲染质量。我们的代码将在 GitHub 上发布以供进一步研究。]]></description>
-      <guid>https://arxiv.org/abs/2404.09458</guid>
-      <pubDate>Tue, 16 Apr 2024 04:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>压缩线性代表智能</title>
-      <link>https://arxiv.org/abs/2404.09937</link>
-      <description><![CDATA[人们相信，学习良好的压缩会带来智慧。最近，语言建模已被证明等同于压缩，这为大型语言模型（LLM）的成功提供了令人信服的理由：更高级语言模型的开发本质上是增强压缩，从而促进智能。尽管讨论如此吸引人，但关于压缩和智能之间相互作用的实证证据却很少。在这项工作中，我们在法学硕士的背景下研究了它们的关系，将法学硕士视为数据压缩器。考虑到“智力”的抽象概念，我们采用平均下游基准分数作为替代，特别针对与知识和常识、编码和数学推理相关的智力。我们的研究涵盖 12 个基准，汇集了来自不同组织的 30 名公共法学硕士。值得注意的是，我们发现法学硕士的智力（通过平均基准分数反映出来）几乎与他们压缩外部文本语料库的能力线性相关。这些结果提供了具体的证据，支持这样的观点：卓越的压缩能力意味着更高的智力。此外，我们的研究结果表明，压缩效率作为源自原始文本语料库的无监督指标，可以作为与模型功能线性相关的可靠评估指标。我们开源我们的压缩数据集以及数据收集管道，以方便未来的研究人员正确评估压缩。]]></description>
-      <guid>https://arxiv.org/abs/2404.09937</guid>
-      <pubDate>Tue, 16 Apr 2024 04:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Megalodon：具有无限上下文长度的高效 LLM 预训练和推理</title>
-      <link>https://arxiv.org/abs/2404.08801</link>
-      <description><![CDATA[Transformers 的二次复杂度和弱长度外推限制了它们扩展到长序列的能力，虽然存在线性注意力和状态空间模型等次二次解决方案，但从经验来看，它们在预训练效率和下游任务准确性方面表现不佳 Transformers。我们引入了 Megalodon，一种用于高效序列建模的神经架构，具有无限的上下文长度。 Megalodon继承了Mega（具有门控注意力的指数移动平均）的架构，并进一步引入了多种技术组件来提高其能力和稳定性，包括复杂指数移动平均（CEMA）、时间步标准化层、标准化注意力机制和具有两个特征的预标准化-hop 剩余配置。在与 Llama2 的受控头对头比较中，Megalodon 在 70 亿个参数和 2 万亿个训练 token 的规模上取得了比 Transformer 更好的效率。巨齿鲨的训练损失达到 1.70，落在 Llama2-7B (1.75) 和 13B (1.67) 之间。代码：https://github.com/XuezheMax/megalodon]]></description>
-      <guid>https://arxiv.org/abs/2404.08801</guid>
-      <pubDate>Tue, 16 Apr 2024 03:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Video2Game：来自单个视频的实时、交互式、真实且与浏览器兼容的环境</title>
-      <link>https://arxiv.org/abs/2404.09833</link>
-      <description><![CDATA[创建高质量的交互式虚拟环境（例如游戏和模拟器）通常涉及复杂且成本高昂的手动建模过程。在本文中，我们提出了 Video2Game，这是一种新颖的方法，可以自动将现实世界场景的视频转换为逼真的交互式游戏环境。我们系统的核心是三个核心组件：(i) 神经辐射场 (NeRF) 模块，可有效捕获场景的几何形状和视觉外观； (ii) 一个网格模块，可从 NeRF 中提取知识以实现更快的渲染； (iii) 物理模块，用于模拟对象之间的相互作用和物理动力学。通过遵循精心设计的流程，人们可以构建现实世界的可交互且可操作的数字复制品。我们在室内和大型室外场景上对我们的系统进行基准测试。我们证明，我们不仅可以实时生成高度逼真的渲染，还可以在此基础上构建互动游戏。]]></description>
-      <guid>https://arxiv.org/abs/2404.09833</guid>
-      <pubDate>Tue, 16 Apr 2024 03:53:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>TransformerFAM：反馈注意力就是工作记忆</title>
-      <link>https://arxiv.org/abs/2404.09173</link>
-      <description><![CDATA[虽然 Transformer 彻底改变了深度学习，但它们的二次注意力复杂性阻碍了它们处理无限长输入的能力。我们提出了反馈注意记忆（FAM），这是一种新颖的 Transformer 架构，它利用反馈循环使网络能够关注其自身的潜在表示。这种设计促进了 Transformer 中工作记忆的出现，使其能够处理无限长的序列。 TransformerFAM 不需要额外的权重，可以与预先训练的模型无缝集成。我们的实验表明，TransformerFAM 显着提高了 Transformer 在各种模型大小（1B、8B 和 24B）的长上下文任务上的性能。这些结果展示了大型语言模型 (LLM) 处理无限长度序列的潜力。]]></description>
-      <guid>https://arxiv.org/abs/2404.09173</guid>
-      <pubDate>Tue, 16 Apr 2024 03:49:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>驯服神经辐射场修复的潜在扩散模型</title>
-      <link>https://arxiv.org/abs/2404.09995</link>
-      <description><![CDATA[神经辐射场 (NeRF) 是多视图图像 3D 重建的一种表示。尽管最近的一些工作显示在使用扩散先验编辑重建的 NeRF 方面取得了初步成功，但他们仍然在努力在完全未覆盖的区域中合成合理的几何结构。一个主要原因是扩散模型合成内容的高度多样性，这阻碍了辐射场收敛到清晰且确定性的几何形状。此外，由于自动编码错误，在实际数据上应用潜在扩散模型通常会产生与图像条件不相干的纹理变化。使用像素距离损失进一步加剧了这两个问题。为了解决这些问题，我们建议通过按场景定制来调节扩散模型的随机性，并通过蒙面对抗训练来减轻纹理变化。在分析过程中，我们还发现常用的像素和感知损失在 NeRF 修复任务中是有害的。通过严格的实验，我们的框架在各种现实场景中产生了最先进的 NeRF 修复结果。项目页面：https://hubert0527.github.io/MALD-NeRF]]></description>
-      <guid>https://arxiv.org/abs/2404.09995</guid>
-      <pubDate>Tue, 16 Apr 2024 03:11:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>HQ-Edit：用于基于指令的图像编辑的高质量数据集</title>
-      <link>https://arxiv.org/abs/2404.09990</link>
-      <description><![CDATA[本研究引入了 HQ-Edit，这是一个基于指令的高质量图像编辑数据集，包含约 200,000 次编辑。与之前依赖属性指导或人工反馈来构建数据集的方法不同，我们利用先进的基础模型（即 GPT-4V 和 DALL-E 3）设计了一个可扩展的数据收集管道。为了确保其高质量，首先在线收集不同的示例，然后进行扩展，然后用于创建高质量的双联画，其中包含带有详细文本提示的输入和输出图像，然后通过后处理确保精确对齐。此外，我们提出了两个评估指标：对齐和连贯性，以使用 GPT-4V 定量评估图像编辑对的质量。 HQ-Edits 高分辨率图像，细节丰富，并配有全面的编辑提示，大大增强了现有图像编辑模型的功能。例如，经过 HQ-Edit 微调的 InstructPix2Pix 可以获得最先进的图像编辑性能，甚至超越那些使用人工注释数据微调的模型。项目页面为https://thefllood.github.io/HQEdit_web。]]></description>
-      <guid>https://arxiv.org/abs/2404.09990</guid>
-      <pubDate>Tue, 16 Apr 2024 03:04:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解您的参考模型以实现真正的良好对准</title>
-      <link>https://arxiv.org/abs/2404.09656</link>
-      <description><![CDATA[对齐问题的复杂性源于现有方法不稳定。研究人员不断发明各种技巧来解决这个缺点。例如，在语言模型对齐的基本人类反馈强化学习 (RLHF) 技术中，除了奖励最大化之外，可训练策略和 SFT 策略之间的 Kullback-Leibler 差异也被最小化。此添加可防止模型过度拟合奖励模型 (RM) 并生成 RM 域外的文本。直接偏好优化（DPO）方法重新表述了RLHF的优化任务，消除了奖励模型，同时默认保持策略接近SFT策略的要求。在我们的论文中，我们认为 DPO 方法中的这种隐含限制会导致次优结果。我们提出了一种称为信任区域 DPO (TR-DPO) 的新方法，它在训练期间更新参考策略。通过如此简单的更新，我们在 Anthropic HH 和 TLDR 数据集上证明了 TR-DPO 相对于 DPO 的有效性。我们通过 GPT-4 自动评估进行测量，结果表明 TR-DPO 的性能比 DPO 高出 19%。我们提出的新对齐方法使我们能够同时提高多个参数的模型质量，例如连贯性、正确性、细节水平、有用性和无害性。]]></description>
-      <guid>https://arxiv.org/abs/2404.09656</guid>
-      <pubDate>Tue, 16 Apr 2024 03:00:09 GMT</pubDate>
+      <title>在许多模拟世界中扩展可指导的代理</title>
+      <link>https://arxiv.org/abs/2404.10179</link>
+      <description><![CDATA[构建可以在任何 3D 环境中遵循任意语言指令的具体 AI 系统是创建通用 AI 的关键挑战。实现这一目标需要学习将语言融入感知和具体行动中，以完成复杂的任务。可扩展、可指导、多世界代理 (SIMA) 项目通过训练代理在各种虚拟 3D 环境中遵循自由形式的指令来解决这个问题，包括策划的研究环境以及开放式商业视频游戏。我们的目标是开发一种可指导的代理，可以完成人类在任何模拟 3D 环境中可以做的任何事情。我们的方法侧重于语言驱动的通用性，同时施加最小的假设。我们的代理使用通用的类人界面与环境实时交互：输入是图像观察和语言指令，输出是键盘和鼠标操作。这种通用方法具有挑战性，但它允许代理在许多视觉上复杂且语义丰富的环境中使用语言，同时也允许我们在新环境中轻松运行代理。在本文中，我们描述了我们的动机和目标、我们取得的初步进展，以及在几种不同的研究环境和各种商业视频游戏上有望取得的初步结果。]]></description>
+      <guid>https://arxiv.org/abs/2404.10179</guid>
+      <pubDate>Wed, 17 Apr 2024 13:41:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
