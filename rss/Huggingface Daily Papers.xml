@@ -4,11 +4,11 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 17 Apr 2024 02:38:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 03:36:48 GMT</lastBuildDate>
     <item>
       <title>TextHawk：探索多模态大语言模型的高效细粒度感知</title>
       <link>https://arxiv.org/abs/2404.09204</link>
-      <description><![CDATA[多模态大型语言模型 (MLLM) 在各种多模态任务上都表现出色。然而，大多数现有的 MLLM 并不适用于面向文档的任务，因为这些任务需要细粒度的图像感知和信息压缩。在本文中，我们提出了 TextHawk，这是一种专为面向文档的任务而设计的 MLLM，同时保留了 MLLM 的一般功能。TextHawk 旨在通过设计四个专用组件来探索高效的细粒度感知。首先，提出了一个重采样和重排 (ReSA) 模块来减少文档文本中的冗余并降低 MLLM 的计算成本。我们通过提出可扩展位置嵌入 (SPE) 来探索对每个局部特征的位置进行编码，这可以保留各种图像大小的可扩展性。然后采用查询提议网络 (QPN) 在不同的子图像之间动态初始化查询。为了进一步增强 MLLM 的细粒度视觉感知能力，我们设计了一种多级交叉注意 (MLCA) 机制，用于捕获文档图像的层次结构和语义关系。此外，我们通过使用 Gemini Pro 丰富多模态文档数据，为面向文档的任务创建了一个新指令调整数据集。我们在通用和面向文档的 MLLM 基准上进行了广泛的实验，并表明 TextHawk 的表现优于最先进的方法，证明了其在细粒度文档感知和通用能力方面的有效性和优越性。]]></description>
+      <description><![CDATA[多模态大语言模型 (MLLM) 在各种多模态任务上显示出令人印象深刻的结果。然而，大多数现有的 MLLM 不太适合面向文档的任务，这些任务需要细粒度的图像感知和信息压缩。在本文中，我们提出了 TextHawk，这是一种专为面向文档的任务而设计的 MLLM，同时保留了 MLLM 的一般功能。 TextHawk 旨在通过设计四个专用组件来探索高效的细粒度感知。首先，提出了重新采样和重新排列（ReSA）模块来减少文档文本中的冗余并降低MLLM的计算成本。我们通过提出可扩展位置嵌入（SPE）来探索对每个局部特征的位置进行编码，它可以保留各种图像尺寸的可扩展性。然后采用查询提议网络（QPN）来动态初始化不同子图像之间的查询。为了进一步增强 MLLM 的细粒度视觉感知能力，我们设计了一种多级交叉注意（MLCA）机制来捕获文档图像的层次结构和语义关系。此外，我们通过使用 Gemini Pro 丰富多模式文档数据，为面向文档的任务创建了一个新的指令调整数据集。我们对通用和面向文档的 MLLM 基准进行了广泛的实验，结果表明 TextHawk 优于最先进的方法，展示了其在细粒度文档感知和通用能力方面的有效性和优越性。]]></description>
       <guid>https://arxiv.org/abs/2404.09204</guid>
       <pubDate>Tue, 16 Apr 2024 05:58:31 GMT</pubDate>
     </item>
