@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Wed, 17 Apr 2024 16:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2024 16:39:00 GMT</lastBuildDate>
+    <item>
+      <title>NASA 宣布探索力量挑战赛获奖者</title>
+      <link>https://www.nasa.gov/news-release/nasa-announces-winners-of-power-to-explore-challenge/</link>
+      <description><![CDATA[NASA 于周三公布了第三届年度“探索力量挑战赛”的获奖者，这是一项全国性写作竞赛，旨在向 K-12 学生传授放射性同位素在太空探索中的力量。竞赛要求学生了解 NASA 的放射性同位素动力系统 (RPS)，该机构使用“核电池”来探索一些最极端的[…]]]></description>
+      <guid>https://www.nasa.gov/news-release/nasa-announces-winners-of-power-to-explore-challenge/</guid>
+      <pubDate>Wed, 17 Apr 2024 15:56:28 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局邀请媒体报道气候更新和新地球任务</title>
       <link>https://www.nasa.gov/news-release/nasa-invites-media-for-climate-update-new-earth-missions/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[用于长期任务的按需营养生产系统当宇航员开始长期太空任务时，他们需要自己种植食物，因为来自地球的预包装膳食会随着时间的推移而失去营养价值。艾姆斯研究中心空间生物科学部的生物营养项目通过利用基因工程创造基于微生物的食物来解决这个问题，该食物可以[]]]></description>
       <guid>https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/bionutrients-flight-experiments/</guid>
       <pubDate>Tue, 16 Apr 2024 22:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>用机器学习研究太空飞行萎缩</title>
-      <link>https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/spaceflight-atrophy-studied-with-machine-learning/</link>
-      <description><![CDATA[背景：即使宇航员进行剧烈运动也无法弥补微重力引起的肌肉萎缩。萎缩在一定程度上是通过调节钙吸收的潜在机制发生的。最近的研究表明，太空飞行会改变肌肉对钙的吸收。然而，驱动这些变化的分子机制尚未得到充分研究。研究人员[…]]]></description>
-      <guid>https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/spaceflight-atrophy-studied-with-machine-learning/</guid>
-      <pubDate>Tue, 16 Apr 2024 22:25:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
