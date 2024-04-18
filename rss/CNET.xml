@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>科技网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Thu, 18 Apr 2024 04:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 09:13:34 GMT</lastBuildDate>
+    <item>
+      <title>狗能吃蝉吗？以下是您需要了解的内容 - CNET</title>
+      <link>https://www.cnet.com/home/kitchen-and-household/can-dogs-eat-cicadas-heres-what-to-know/#ftag=CAD590a51e</link>
+      <description><![CDATA[2024 年蝉的出现即将到来，如果你的狗和我的狗一样对吃蝉感到兴奋，你会想知道如何保证它们的安全。]]></description>
+      <guid>https://www.cnet.com/home/kitchen-and-household/can-dogs-eat-cicadas-heres-what-to-know/#ftag=CAD590a51e</guid>
+      <pubDate>Thu, 18 Apr 2024 08:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>今天的 Wordle 提示和答案：4 月 18 日的帮助，#1034 - CNET</title>
       <link>https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-18-1034/#ftag=CAD590a51e</link>
@@ -64,16 +71,9 @@
     <item>
       <title>2024 年最佳无线汽车充电器 - CNET</title>
       <link>https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e</link>
-      <description><![CDATA[使用这些出色的无线充电器，您可以 100% 到达下一个目的地并保持汽车清洁。]]></description>
+      <description><![CDATA[使用这些出色的无线充电器，100% 顺利到达您的下一个目的地并保持您的汽车清洁。]]></description>
       <guid>https://www.cnet.com/tech/mobile/best-wireless-car-charger-and-mount/#ftag=CAD590a51e</guid>
       <pubDate>Thu, 18 Apr 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟的苹果用户现在可以使用新的第三方应用商店 - CNET</title>
-      <link>https://www.cnet.com/tech/apple-users-in-the-eu-now-have-a-new-third-party-app-store-to-play-with/#ftag=CAD590a51e</link>
-      <description><![CDATA[Altstore PAL 仅适用于欧盟居民，这是《数字市场法案》的一部分，该法案规定 Apple 必须允许第三方应用商店。]]></description>
-      <guid>https://www.cnet.com/tech/apple-users-in-the-eu-now-have-a-new-third-party-app-store-to-play-with/#ftag=CAD590a51e</guid>
-      <pubDate>Thu, 18 Apr 2024 00:25:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
