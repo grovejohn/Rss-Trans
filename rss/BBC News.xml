@@ -4,7 +4,14 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Thu, 18 Apr 2024 07:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 07:36:07 GMT</lastBuildDate>
+    <item>
+      <title>“停止石油”抗议后，GP可能被取消</title>
+      <link>https://www.bbc.com/news/articles/cv20p4e1zy5o</link>
+      <description><![CDATA[来自伯明翰的 Sarah Benn 博士参加了 2022 年在金斯伯里石油码头举行的示威活动。]]></description>
+      <guid>https://www.bbc.com/news/articles/cv20p4e1zy5o</guid>
+      <pubDate>Thu, 18 Apr 2024 05:40:32 GMT</pubDate>
+    </item>
     <item>
       <title>保守党议员因涉嫌滥用资金而被停职</title>
       <link>https://www.bbc.co.uk/news/uk-politics-68841840</link>
@@ -13,14 +20,7 @@
       <pubDate>Thu, 18 Apr 2024 05:37:42 GMT</pubDate>
     </item>
     <item>
-      <title>人为变暖导致非洲致命高温</title>
-      <link>https://www.bbc.co.uk/news/science-environment-68835575</link>
-      <description><![CDATA[如果没有全球变暖，就不会发生导致数百人死亡的极端高温。]]></description>
-      <guid>https://www.bbc.co.uk/news/science-environment-68835575</guid>
-      <pubDate>Thu, 18 Apr 2024 04:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>海湾遭受致命风暴袭击，迪拜机场陷入混乱</title>
+      <title>海湾遭受致命风暴袭击，迪拜机场一片混乱</title>
       <link>https://www.bbc.co.uk/news/world-middle-east-68831408</link>
       <description><![CDATA[世界第二繁忙的机场警告说，在其跑道被山洪淹没后，“恢复需要一段时间”。]]></description>
       <guid>https://www.bbc.co.uk/news/world-middle-east-68831408</guid>
@@ -55,13 +55,6 @@
       <pubDate>Wed, 17 Apr 2024 23:46:55 GMT</pubDate>
     </item>
     <item>
-      <title>“曼城的三冠王梦想被皇马打碎了”</title>
-      <link>https://www.bbc.co.uk/sport/football/68842149</link>
-      <description><![CDATA[菲尔·麦克纳尔蒂写道，曼城连续第二次夺得三冠王的梦想被皇家马德里击碎了。]]></description>
-      <guid>https://www.bbc.co.uk/sport/football/68842149</guid>
-      <pubDate>Wed, 17 Apr 2024 23:32:05 GMT</pubDate>
-    </item>
-    <item>
       <title>内政部工作人员因“出售”英国居留权被捕</title>
       <link>https://www.bbc.co.uk/news/uk-northern-ireland-68828054</link>
       <description><![CDATA[据称，该官员联系了一名男子并索要 2,000 英镑以批准他的难民申请。]]></description>
@@ -74,6 +67,13 @@
       <description><![CDATA[这位《星球大战》演员在妻子萨曼莎 (Samantha) 53 岁去世后将她描述为他“最喜欢的人”。]]></description>
       <guid>https://www.bbc.co.uk/news/entertainment-arts-68839035</guid>
       <pubDate>Wed, 17 Apr 2024 20:34:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏格兰放弃关键气候变化目标</title>
+      <link>https://www.bbc.co.uk/news/uk-scotland-68841141</link>
+      <description><![CDATA[苏格兰政府将放弃到 2030 年将温室气体排放量减少 75% 的旗舰目标。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-scotland-68841141</guid>
+      <pubDate>Wed, 17 Apr 2024 20:32:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
