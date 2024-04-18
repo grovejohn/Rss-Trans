@@ -4,7 +4,7 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Thu, 18 Apr 2024 00:53:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Apr 2024 01:48:29 GMT</lastBuildDate>
     <item>
       <title>OSDR 主办 Blue Origin Erika Wagner</title>
       <link>https://www.nasa.gov/centers-and-facilities/ames/ames-science/ames-space-biosciences/osdr-hosts-blue-origin-erika-wagner/</link>
@@ -18,13 +18,6 @@
       <description><![CDATA[NASA 的 TESS（凌日系外行星勘测卫星）在 4 月 8 日暂停科学观测后恢复工作，当时航天器进入安全模式。所有仪器均已启动，在成功下载之前收集的存储在任务记录器中的科学数据后，现在正在进行新的科学观察。分析触发因素 [...]]]></description>
       <guid>https://science.nasa.gov/missions/tess/nasas-tess-temporarily-pauses-science-observations/</guid>
       <pubDate>Wed, 17 Apr 2024 22:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>太空记忆：航行者号送给总统的礼物。乔治·H.W.衬套</title>
-      <link>https://science.nasa.gov/missions/voyager-program/space-memory-voyager-gift-for-pres-george-h-w-bush/</link>
-      <description><![CDATA[航海家号项目科学家埃德·斯通和其他任务团队成员向乔治·H·W·布什总统赠送了一张航海家一号太阳系标志性图像的镶框副本，其中地球是一个“淡蓝点”。 1990 年 6 月 7 日，布什总统的演讲在白宫椭圆形办公室进行。白色的房子]]></description>
-      <guid>https://science.nasa.gov/missions/voyager-program/space-memory-voyager-gift-for-pres-george-h-w-bush/</guid>
-      <pubDate>Wed, 17 Apr 2024 22:13:12 GMT</pubDate>
     </item>
     <item>
       <title>马歇尔之星 2024 年 4 月 17 日</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[火山爆发、洪水和龙卷风等自然灾害可以极大地改变地球表面，甚至在太空中都可以看到变化。由人类活动和干预（例如采矿和森林砍伐）驱动的变化也可以在卫星图像中看到。 50 多年来，NASA 的陆地卫星记录了地球表面的变化。 […]]]></description>
       <guid>https://www.nasa.gov/directorates/stmd/tech-transfer/tech-today-taking-earths-pulse-with-nasa-satellites/</guid>
       <pubDate>Wed, 17 Apr 2024 14:49:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>宇航员修补 NASA 的 NICER 望远镜</title>
+      <link>https://science.nasa.gov/missions/station/iss-research/nicer/astronauts-to-patch-up-nasas-nicer-telescope/</link>
+      <description><![CDATA[NASA 计划在今年晚些时候的太空行走中修复国际空间站上的 X 射线望远镜 NICER（中子星内部成分探测器）。这将是第四个由宇航员服务的轨道科学观测站。 2023年5月，科学家发现NICER出现了“漏光”。不需要的阳光进入仪器 [...]]]></description>
+      <guid>https://science.nasa.gov/missions/station/iss-research/nicer/astronauts-to-patch-up-nasas-nicer-telescope/</guid>
+      <pubDate>Wed, 17 Apr 2024 14:43:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
