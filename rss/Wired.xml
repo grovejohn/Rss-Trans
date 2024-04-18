@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 18 Apr 2024 17:12:02 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Thu, 18 Apr 2024 17:37:05 GMT</lastBuildDate>
+    <item>
+      <title>极右翼治安官希望一支公民军队阻止“非法移民”选民</title>
+      <link>https://www.wired.com/story/constitutional-sheriffs-election-deniers-immigrants-voting/</link>
+      <description><![CDATA[宪法治安官会议上的发言者声称，民兵需要在投票站巡逻，以阻止移民选民“预期的洪流”。]]></description>
+      <guid>https://www.wired.com/story/constitutional-sheriffs-election-deniers-immigrants-voting/</guid>
+      <pubDate>Thu, 18 Apr 2024 17:26:29 GMT</pubDate>
+    </item>
     <item>
       <title>6 款最佳手持游戏机（2024 年）：Switch、Steam Deck 等</title>
       <link>https://www.wired.com/gallery/best-gaming-handhelds/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[本周，我们将讨论一款热门的新社交媒体应用程序，该应用程序不允许打字。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-640/</guid>
       <pubDate>Thu, 18 Apr 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>唐纳德·特朗普正在“认真考虑”杰克·保罗的比赛邀请</title>
-      <link>https://www.wired.com/story/donald-trump-jake-paul-fight-invite/</link>
-      <description><![CDATA[像杰克·保罗这样的有影响力的人可以让唐纳德·特朗普接触到他的基地之外的观众，并在重大活动中获得主要席位。]]></description>
-      <guid>https://www.wired.com/story/donald-trump-jake-paul-fight-invite/</guid>
-      <pubDate>Thu, 18 Apr 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
