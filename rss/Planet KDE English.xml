@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 19 Apr 2024 18:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 22:36:29 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：冲刺、增强和烤肉串</title>
+      <link>https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 19 Apr 2024 21:18:21 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，2024-16 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed</link>
@@ -15,7 +22,7 @@
     <item>
       <title>2024 年 4 月微风图标更新 – 为您献上一颗小小的心！</title>
       <link>https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed</link>
-      <description><![CDATA[&lt; div 类=“wp-block-embed__wrapper”&gt;
+      <description><![CDATA[&lt; div 类 =“wp-block-embed__wrapper”&gt;
 
 
 大家好！这是我们所做的更改的新视频解释。这次我们解决了 Labplot、地图和媒体图标！你相信吗？我们现在正式超过了图标的中间位置。太令人兴奋了！]]></description>
@@ -139,15 +146,6 @@ Qt 以前仅支持 % 单位 px 和 em。
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</guid>
       <pubDate>Sat, 13 Apr 2024 05:46:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cantor 和 KDE Con​​nect 的印地语翻译 - SoK 2024</title>
-      <link>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[Cantor 和 KDE 连接的印地语翻译 - KDE 2024 年赛季 这是 SoK 2024 的第二篇也是最后一篇博客。
-在 KDE 赛季的后半段，我翻译了 Cantor 和 KDE connect 的印地语。 Cantor 和 KDE connect 分别有大约 1000 和 500 行。
-为了翻译这些软件，我参考了谷歌翻译和人工智能模型来改进我的翻译。翻译记忆库在查找重复项方面表现出色，并帮助我避免再次翻译相同的单词。]]></description>
-      <guid>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
