@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 18 Apr 2024 02:39:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2024 14:36:36 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，2024-16 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 19 Apr 2024 13:23:52 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 4 月微风图标更新 – 为您献上一颗小小的心！</title>
       <link>https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed</link>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 16 Apr 2024 06:12:13 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.0.4，四月份发布错误修复</title>
+      <title>KDE Plasma 6.0.4，四月份发布错误修正</title>
       <link>https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed</link>
       <description><![CDATA[2024 年 4 月 16 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.4 的错误修复更新。
 
@@ -141,19 +148,6 @@ Qt 以前仅支持 % 单位 px 和 em。
 为了翻译这些软件，我参考了谷歌翻译和人工智能模型来改进我的翻译。翻译记忆库在查找重复项方面表现出色，并帮助我避免再次翻译相同的单词。]]></description>
       <guid>https://officialasishkumar.github.io/blogs/cantor-kdeconnect-hindi-translation-sok-2024/?utm_source=atom_feed</guid>
       <pubDate>Sat, 13 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu：Noble Numbat Beta 版上线！ Qt6 快照即将推出。</title>
-      <link>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</link>
-      <description><![CDATA[
-这几周非常忙碌，因为我们致力于一些重大转变和需要重建 $world 的安全修复。我很高兴地向大家报告，尽管困难重重，我们还是发布了测试版！您可以在这里阅读所有相关内容：https://kubuntu.org/news/ kubuntu-24-04-beta-released/ 测试版冻结后我今天已经开始推动对已知问题的修复。我们的新品牌是一件大事！ Kubuntu 世界中非常激动人心的时刻。
-在 snap 世界中，我将利用空闲时间开始开发 KDE 应用程序（项目未涵盖）。我还招募了一些帮助，所以您应该很快就会开始在边缘频道中看到这些弹出！
-现在我们即将发布 Noble Numbat，我与 Kubuntu 的合同即将结束。如果您希望在下一个版本和 Noble 的 PPA 中看到 Plasma 6，请考虑通过 https 捐款以延长我的合同： //kubuntu.org/donate！
-就个人而言，我仍然希望帮助我的孙子，您可以在这里找到：https://www.gofundme.com/f/in-loving-memory-of-william-billy-dean-scalf
-感谢您的光临，
-斯嘉丽]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kubuntu-noble-numbat-beta-available-qt6-snaps-coming-soon/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 12 Apr 2024 19:29:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
