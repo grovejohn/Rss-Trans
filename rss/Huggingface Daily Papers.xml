@@ -3,36 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 19 Apr 2024 05:13:09 GMT</lastBuildDate>
-    <item>
-      <title>MeshLRM：高质量网格的大型重建模型</title>
-      <link>https://arxiv.org/abs/2404.12385</link>
-      <description><![CDATA[我们提出了 MeshLRM，这是一种基于 LRM 的新颖方法，可以在不到一秒的时间内仅从四个输入图像重建高质量网格。与之前专注于基于 NeRF 重建的大型重建模型 (LRM) 不同，MeshLRM 在 LRM 框架内结合了可微分网格提取和渲染。这允许通过使用网格渲染微调预先训练的 NeRF LRM 来进行端到端网格重建。此外，我们通过简化以前 LRM 中的几个复杂设计来改进 LRM 架构。 MeshLRM的NeRF初始化是用低分辨率和高分辨率图像顺序训练的；这种新的 LRM 训练策略可以显着加快收敛速度​​，从而以更少的计算量获得更好的质量。我们的方法从稀疏视图输入实现了最先进的网格重建，并且还允许许多下游应用，包括文本到 3D 和单图像到 3D 生成。项目页面：https://sarahweiiii.github.io/meshlrm/]]></description>
-      <guid>https://arxiv.org/abs/2404.12385</guid>
-      <pubDate>Fri, 19 Apr 2024 04:38:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>EdgeFusion：设备上文本到图像生成</title>
-      <link>https://arxiv.org/abs/2404.11925</link>
-      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬行数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
-      <guid>https://arxiv.org/abs/2404.11925</guid>
-      <pubDate>Fri, 19 Apr 2024 04:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>动态版式：让文字栩栩如生</title>
-      <link>https://arxiv.org/abs/2404.11614</link>
-      <description><![CDATA[文本动画作为一种表达媒介，通过将文字与动作相结合来唤起情感、强调意义并构建引人入胜的叙述，将静态交流转化为动态体验。制作语义感知的动画提出了重大挑战，需要图形设计和动画方面的专业知识。我们提出了一种自动文本动画方案，称为“动态版式”，它结合了两个具有挑战性的任务。它使字母变形以传达语义，并根据用户提示为它们注入充满活力的动作。我们的技术利用矢量图形表示和基于端到端优化的框架。该框架采用神经位移场将字母转换为基本形状并应用每帧运动，鼓励与预期文本概念的一致性。采用形状保存技术和感知损失正则化来保持整个动画过程的易读性和结构完整性。我们展示了我们的方法在各种文本到视频模型中的通用性，并强调了我们的端到端方法相对于基线方法的优越性，基线方法可能包含单独的任务。通过定量和定性评估，我们展示了我们的框架在生成连贯的文本动画方面的有效性，这些动画忠实地解释用户提示，同时保持可读性。我们的代码位于：https://animate-your-word.github.io/demo/。]]></description>
-      <guid>https://arxiv.org/abs/2404.11614</guid>
-      <pubDate>Fri, 19 Apr 2024 04:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>重用你的奖励：零样本跨语言对齐的奖励模型转移</title>
-      <link>https://arxiv.org/abs/2404.12318</link>
-      <description><![CDATA[基于人工注释的偏好数据调整语言模型 (LM) 是获得实用且高性能的基于 LM 的系统的关键一步。然而，多语言人类偏好数据很难大规模获得，这使得将该框架扩展到多种语言具有挑战性。在这项工作中，我们评估了一种零样本跨语言对齐的简单方法，其中奖励模型根据一种源语言的偏好数据进行训练，然后直接应用于其他目标语言。在摘要和开放式对话生成方面，我们表明该方法在综合评估设置（包括人类评估）下始终是成功的：在高达 70% 以上的评估实例中，人类更喜欢跨语言对齐的模型，而不是未对齐的模型。此外，我们发现不同语言奖励模型有时会比同语言奖励模型产生更好的一致性模型。当没有特定于语言的数据甚至监督微调（另一个对齐的组件）时，我们还确定了最佳实践。]]></description>
-      <guid>https://arxiv.org/abs/2404.12318</guid>
-      <pubDate>Fri, 19 Apr 2024 02:37:26 GMT</pubDate>
-    </item>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Fri, 19 Apr 2024 05:35:25 GMT</lastBuildDate>
     <item>
       <title>MoA：个性化图像生成中主题上下文解开的混合注意力</title>
       <link>https://arxiv.org/abs/2404.11565</link>
@@ -57,7 +29,7 @@
     <item>
       <title>TriForce：使用分层推测解码对长序列生成进行无损加速</title>
       <link>https://arxiv.org/abs/2404.11912</link>
-      <description><![CDATA[近年来，随着大型语言模型（LLM）在长内容生成中的广泛部署，对高效长序列推理支持的需求日益增长。然而，存储键值（KV）缓存以避免重新计算，其大小随着序列长度线性增长，已成为关键瓶颈。由于LLM的自回归性质，将为每个生成的令牌加载整个KV缓存，导致计算核心利用率低和延迟高。虽然已经提出了各种 KV 缓存压缩方法来缓解这个问题，但它们的生成质量会下降。我们引入了 TriForce，这是一种分层推测解码系统，可扩展至长序列生成。这种方法通过检索利用原始模型权重和动态稀疏 KV 缓存作为草稿模型，充当层次结构中的中间层，并由较小的模型进一步推测以减少其草稿延迟。 TriForce 不仅为 Llama2-7B-128K 带来令人印象深刻的加速，在 A100 GPU 上实现高达 2.31 倍，而且还展示了处理更长上下文的可扩展性。对于两个 RTX 4090 GPU 上的卸载设置，TriForce 实现了 0.108s/tokenx2014，仅比 A100 上的自回归基线慢一半，在我们优化的卸载系统上达到了 7.78 倍。此外，TriForce 在单个 RTX 4090 GPU 上的性能是 DeepSpeed-Zero-Inference 的 4.86 倍。 TriForce 的坚固性因其在各种温度下始终如一的出色性能而得以凸显。该代码可在 https://github.com/Infini-AI-Lab/TriForce 获取。]]></description>
+      <description><![CDATA[近年来，随着大型语言模型（LLM）在长内容生成中的广泛部署，对高效长序列推理支持的需求日益增长。然而，存储键值（KV）缓存以避免重新计算，其大小随着序列长度线性增长，已成为关键瓶颈。由于LLM的自回归性质，将为每个生成的令牌加载整个KV缓存，导致计算核心利用率低和延迟高。虽然已经提出了各种 KV 缓存压缩方法来缓解这个问题，但它们的生成质量会下降。我们引入了 TriForce，这是一种分层推测解码系统，可扩展至长序列生成。这种方法通过检索利用原始模型权重和动态稀疏 KV 缓存作为草稿模型，充当层次结构中的中间层，并由较小的模型进一步推测以减少其草稿延迟。 TriForce 不仅为 Llama2-7B-128K 带来令人印象深刻的加速，在 A100 GPU 上实现高达 2.31 倍，而且还展示了处理更长上下文的可扩展性。对于两个 RTX 4090 GPU 上的卸载设置，TriForce 实现了 0.108s/tokenx2014，仅比 A100 上的自回归基线慢一半，在我们优化的卸载系统上达到了 7.78 倍。此外，TriForce 在单个 RTX 4090 GPU 上的性能是 DeepSpeed-Zero-Inference 的 4.86 倍。 TriForce 的坚固性以其在各种温度下始终如一的出色性能而著称。该代码可在 https://github.com/Infini-AI-Lab/TriForce 获取。]]></description>
       <guid>https://arxiv.org/abs/2404.11912</guid>
       <pubDate>Fri, 19 Apr 2024 01:37:40 GMT</pubDate>
     </item>
@@ -74,6 +46,20 @@
       <description><![CDATA[我们推出了 Blink，这是多模式语言模型 (LLM) 的新基准，专注于其他评估中未发现的核心视觉感知能力。大多数 Blink 任务都可以由人类“眨眼间”解决（例如，相对深度估计、视觉对应、取证检测和多视图推理）。然而，我们发现这些需要感知的任务给当前的多模式法学硕士带来了重大挑战，因为它们抵制通过自然语言进行调解。 Blink 将 14 个经典计算机视觉任务重新格式化为 3,807 个多项选择题，并配有单个或多个图像和视觉提示。虽然人类的平均准确率达到 95.70%，但 Blink 对于现有的多模态 LLM 来说却具有惊人的挑战性：即使是表现最好的 GPT-4V 和 Gemini 也能达到 51.26% 和 45.72% 的准确率，仅比随机猜测高 13.17% 和 7.63%，这表明在最近的多模式法学硕士中，这种感知能力尚未“出现”。我们的分析还强调，专业的 CV 模型可以更好地解决这些问题，并提出未来改进的潜在途径。我们相信 Blink 将激励社区帮助多模式法学硕士赶上人类水平的视觉感知。]]></description>
       <guid>https://arxiv.org/abs/2404.12390</guid>
       <pubDate>Fri, 19 Apr 2024 01:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reka Core、Flash 和 Edge：一系列强大的多模式语言模型</title>
+      <link>https://arxiv.org/abs/2404.12387</link>
+      <description><![CDATA[我们介绍 Reka Core、Flash 和 Edge，这是 Reka 从头开始​​训练的一系列强大的多模态语言模型。 Reka 模型能够对文本、图像、视频和音频输入进行处理和推理。该技术报告讨论了其中一些模型的训练细节，并提供了综合评估结果。我们证明 Reka Edge 和 Reka Flash 不仅是最先进的，而且还优于许多更大的模型，为各自的计算类别提供了巨​​大的价值。与此同时，我们最强大、最大的模型 Reka Core 在自动评估和盲人评估方面都接近最佳前沿模型。在图像问答基准（例如 MMMU、VQAv2）上，Core 的表现与 GPT4-V 相当。同时，在多模态聊天中，Core 在第三方盲人评估设置下排名第二，优于 Claude 3 Opus 等其他模型。在文本基准测试中，Core 不仅在一组完善的基准测试（例如 MMLU、GSM8K）上与其他前沿模型相比具有竞争力，而且在人类评估方面也优于 GPT4-0613。在视频问答（感知测试）方面，Core 优于 Gemini Ultra。模型在生产中发货：http://chat.reka.ai。还可以在 http://showcase.reka.ai 上找到非精选定性示例的展示。]]></description>
+      <guid>https://arxiv.org/abs/2404.12387</guid>
+      <pubDate>Fri, 19 Apr 2024 01:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>AniClipart：具有文本到视频先验的剪贴画动画</title>
+      <link>https://arxiv.org/abs/2404.12347</link>
+      <description><![CDATA[剪贴画是一种预制的图形艺术形式，提供了一种方便有效的方式来说明视觉内容。将静态剪贴画图像转换为运动序列的传统工作流程既费力又耗时，涉及许多复杂的步骤，如绑定、关键动画和中间处理。文本到视频生成的最新进展在解决这个问题方面具有巨大的潜力。然而，直接应用文本到视频生成模型通常很难保留剪贴画图像的视觉特征或生成卡通风格的动作，导致动画结果不令人满意。在本文中，我们介绍了 AniClipart，这是一个将静态剪贴画图像转换为由文本到视频先验引导的高质量运动序列的系统。为了生成卡通风格且平滑的运动，我们首先定义剪贴画图像关键点上的 B\&#39;{e}zier 曲线作为运动正则化的一种形式。然后，我们通过优化视频分数蒸馏采样（VSDS）损失，将关键点的运动轨迹与提供的文本提示对齐，该损失在预训练的文本到视频扩散模型中编码了足够的自然运动知识。通过可微分的 As-Rigid-As-Possible 形状变形算法，我们的方法可以在保持变形刚度的同时进行端到端优化。实验结果表明，所提出的 AniClipart 在文本视频对齐、视觉身份保留和运动一致性方面始终优于现有的图像到视频生成模型。此外，我们还展示了 AniClipart 的多功能性，使其能够生成更广泛的动画格式，例如允许拓扑变化的分层动画。]]></description>
+      <guid>https://arxiv.org/abs/2404.12347</guid>
+      <pubDate>Fri, 19 Apr 2024 01:03:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
