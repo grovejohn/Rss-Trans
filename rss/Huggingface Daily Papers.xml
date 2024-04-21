@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 20 Apr 2024 23:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 00:58:52 GMT</lastBuildDate>
     <item>
       <title>MeshLRM：高质量网格的大型重建模型</title>
       <link>https://arxiv.org/abs/2404.12385</link>
@@ -15,7 +15,7 @@
     <item>
       <title>EdgeFusion：设备上文本到图像生成</title>
       <link>https://arxiv.org/abs/2404.11925</link>
-      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬行数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
+      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬取数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
       <guid>https://arxiv.org/abs/2404.11925</guid>
       <pubDate>Fri, 19 Apr 2024 04:30:35 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>MoA：个性化图像生成中主题上下文解开的混合注意力</title>
       <link>https://arxiv.org/abs/2404.11565</link>
-      <description><![CDATA[我们引入了一种用于文本到图像扩散模型个性化的新架构，创造了混合注意力（MoA）。受到大型语言模型 (LLM) 中使用的专家混合机制的启发，MoA 将生成工作负载分配在两个注意力路径之间：个性化分支和非个性化先验分支。 MoA 旨在通过将注意力层固定在先前分支中来保留原始模型的先验，同时通过学习将主题嵌入到先前分支生成的布局和上下文中的个性化分支最小化地干预生成过程。一种新颖的路由机制管理跨这些分支的每一层中的像素分布，以优化个性化和通用内容创建的混合。经过训练后，MoA 可以促进创建高质量、个性化的图像，该图像具有多个主题，其构图和交互与原始模型生成的图像一样多样化。至关重要的是，MoA 增强了模型预先存在的功能与新增强的个性化干预之间的区别，从而提供了以前无法实现的更加清晰的主题上下文控制。项目页面：https://snap-research.github.io/mixture-of-attention]]></description>
+      <description><![CDATA[我们引入了一种用于个性化文本到图像传播模型的新架构，称为混合注意力 (MoA)。受大型语言模型 (LLM) 中使用的混合专家机制的启发，MoA 将生成工作负载分配到两个注意力路径之间：个性化分支和非个性化先前分支。MoA 旨在通过将其注意力层固定在先前分支中来保留原始模型的先前，同时通过个性化分支尽量减少对生成过程的干预，该分支学习将主题嵌入先前分支生成的布局和上下文中。一种新颖的路由机制管理这些分支中每个层像素的分布，以优化个性化和通用内容创建的融合。经过训练后，MoA 有助于创建高质量的个性化图像，这些图像具有多个主题，其构图和交互与原始模型生成的一样多样化。至关重要的是，MoA 增强了模型的预先存在的能力与新增强的个性化干预之间的区别，从而提供了以前无法实现的更解开的主题上下文控制。项目页面：https://snap-research.github.io/mixture-of-attention]]></description>
       <guid>https://arxiv.org/abs/2404.11565</guid>
       <pubDate>Fri, 19 Apr 2024 02:30:36 GMT</pubDate>
     </item>
