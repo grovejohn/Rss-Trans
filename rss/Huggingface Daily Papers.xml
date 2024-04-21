@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 21 Apr 2024 07:36:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 08:14:46 GMT</lastBuildDate>
     <item>
       <title>MeshLRM：高质量网格的大型重建模型</title>
       <link>https://arxiv.org/abs/2404.12385</link>
@@ -29,7 +29,7 @@
     <item>
       <title>重用你的奖励：零样本跨语言对齐的奖励模型转移</title>
       <link>https://arxiv.org/abs/2404.12318</link>
-      <description><![CDATA[基于人工注释的偏好数据调整语言模型 (LM) 是获得实用且高性能的基于 LM 的系统的关键一步。然而，多语言人类偏好数据很难大规模获得，这使得将该框架扩展到多种语言具有挑战性。在这项工作中，我们评估了一种零样本跨语言对齐的简单方法，其中奖励模型根据一种源语言的偏好数据进行训练，然后直接应用于其他目标语言。在摘要和开放式对话生成方面，我们表明该方法在综合评估设置（包括人类评估）下始终是成功的：在高达 70% 以上的评估实例中，人类更喜欢跨语言对齐的模型，而不是未对齐的模型。此外，我们发现不同语言奖励模型有时会比同语言奖励模型产生更好的一致性模型。当没有特定于语言的数据甚至监督微调（另一个对齐的组件）时，我们还确定了最佳实践。]]></description>
+      <description><![CDATA[根据人工注释的偏好数据对齐语言模型 (LM) 是获得实用且高效的基于 LM 的系统的关键步骤。然而，多语言人类偏好数据难以大规模获取，因此将此框架扩展到多种语言具有挑战性。在这项工作中，我们评估了一种简单的零样本跨语言对齐方法，其中奖励模型在一种源语言的偏好数据上进行训练，并直接应用于其他目标语言。在摘要和开放式对话生成方面，我们表明该方法在包括人工评估在内的综合评估设置下始终成功：在高达 70% 以上的评估实例中，人类更喜欢跨语言对齐的模型而不是未对齐的模型。此外，我们发现不同语言的奖励模型有时会产生比同种语言奖励模型更好的对齐模型。我们还确定了在没有特定语言数据的情况下进行监督微调的最佳实践，这是对齐的另一个组成部分。]]></description>
       <guid>https://arxiv.org/abs/2404.12318</guid>
       <pubDate>Fri, 19 Apr 2024 02:37:26 GMT</pubDate>
     </item>
