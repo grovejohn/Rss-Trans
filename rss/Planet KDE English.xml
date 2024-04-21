@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 20 Apr 2024 22:35:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 12:21:51 GMT</lastBuildDate>
+    <item>
+      <title>创建 KDE Gear 24.05 分支</title>
+      <link>https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed</link>
+      <description><![CDATA[确保您向他们提交了您想要在 KDE Gear 24.05 版本中完成的所有内容下一个日期&lt; li&gt;2024 年 4 月 25 日：24.05 冻结和 Beta (24.04.80) 标签&amp;发布 2024 年 5 月 9 日：24.05 RC (24.04.90) 标记和发布2024 年 5 月 16 日：24.05 标记2024 年 5 月 23 日：24.05发布https://community.kde.org/时间表/KDE_Gear_24.05_Schedule]]></description>
+      <guid>https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed</guid>
+      <pubDate>Sun, 21 Apr 2024 10:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE：冲刺、增强和烤肉串</title>
       <link>https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/?utm_source=atom_feed</link>
@@ -80,7 +87,7 @@ https://meet.kde.org/b/jon-0yw- xqi-sk6 访问代码将发布在 KDE neon Telegr
 从 KMail 富文本编辑器中，实现大部分内容并不难
 降价规范。
 虽然 QTextDocument 很棒，但我很快就遇到了一些限制。这就是为什么我
-开始修复其中一些问题，并且我已经在 Qt 中进行了一些修补程序以供审核。
+开始修复其中的一些问题，并且我已经在 Qt 中进行了一些修补程序以供审核。
 默认表格样式
 默认情况下，表格的样式看起来直接来自 90 年代，我提交了
 补丁以使用更好的东西： https://codereview.qt-project.org/c/qt/qtbase/+/554132
@@ -139,13 +146,6 @@ Qt 以前仅支持 % 单位 px 和 em。
       <description><![CDATA[]]></description>
       <guid>https://cullmann.io/posts/kate-on-all-platforms-2024/?utm_source=atom_feed</guid>
       <pubDate>Sun, 14 Apr 2024 17:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：显式同步</title>
-      <link>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/04/12/this-week-in-kde-explicit-sync/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 13 Apr 2024 05:46:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

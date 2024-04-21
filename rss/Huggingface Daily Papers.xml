@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 21 Apr 2024 11:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 12:22:01 GMT</lastBuildDate>
     <item>
       <title>MeshLRM：高质量网格的大型重建模型</title>
       <link>https://arxiv.org/abs/2404.12385</link>
@@ -15,7 +15,7 @@
     <item>
       <title>EdgeFusion：设备上文本到图像生成</title>
       <link>https://arxiv.org/abs/2404.11925</link>
-      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬行数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
+      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬取数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
       <guid>https://arxiv.org/abs/2404.11925</guid>
       <pubDate>Fri, 19 Apr 2024 04:30:35 GMT</pubDate>
     </item>
