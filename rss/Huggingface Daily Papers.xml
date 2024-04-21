@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 21 Apr 2024 20:36:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 21:11:16 GMT</lastBuildDate>
     <item>
       <title>MeshLRM：高质量网格的大型重建模型</title>
       <link>https://arxiv.org/abs/2404.12385</link>
@@ -15,14 +15,14 @@
     <item>
       <title>EdgeFusion：设备上文本到图像生成</title>
       <link>https://arxiv.org/abs/2404.11925</link>
-      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬行数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
+      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬取数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
       <guid>https://arxiv.org/abs/2404.11925</guid>
       <pubDate>Fri, 19 Apr 2024 04:30:35 GMT</pubDate>
     </item>
     <item>
       <title>动态版式：让文字栩栩如生</title>
       <link>https://arxiv.org/abs/2404.11614</link>
-      <description><![CDATA[文本动画作为一种表达媒介，通过将文字与动作相结合来唤起情感、强调意义并构建引人入胜的叙述，将静态交流转化为动态体验。制作语义感知的动画提出了重大挑战，需要图形设计和动画方面的专业知识。我们提出了一种自动文本动画方案，称为“动态版式”，它结合了两个具有挑战性的任务。它使字母变形以传达语义，并根据用户提示为它们注入充满活力的动作。我们的技术利用矢量图形表示和基于端到端优化的框架。该框架采用神经位移场将字母转换为基本形状并应用每帧运动，鼓励与预期文本概念的一致性。采用形状保存技术和感知损失正则化来保持整个动画过程的易读性和结构完整性。我们展示了我们的方法在各种文本到视频模型中的通用性，并强调了我们的端到端方法相对于基线方法的优越性，基线方法可能包含单独的任务。通过定量和定性评估，我们证明了我们的框架在生成连贯的文本动画方面的有效性，这些动画忠实地解释了用户提示，同时保持了可读性。我们的代码位于：https://animate-your-word.github.io/demo/。]]></description>
+      <description><![CDATA[文本动画作为一种表达媒介，通过将文字与动作相结合来唤起情感、强调意义并构建引人入胜的叙述，将静态交流转化为动态体验。制作具有语义意识的动画面临着巨大的挑战，需要图形设计和动画方面的专业知识。我们提出了一种自动文本动画方案，称为“动态版式”，它结合了两个具有挑战性的任务。它使字母变形以传达语义，并根据用户提示为它们注入充满活力的动作。我们的技术利用矢量图形表示和基于端到端优化的框架。该框架采用神经位移场将字母转换为基本形状并应用每帧运动，鼓励与预期文本概念的一致性。采用形状保存技术和感知损失正则化来保持整个动画过程的易读性和结构完整性。我们展示了我们的方法在各种文本到视频模型中的通用性，并强调了我们的端到端方法相对于基线方法的优越性，基线方法可能包含单独的任务。通过定量和定性评估，我们展示了我们的框架在生成连贯的文本动画方面的有效性，这些动画忠实地解释用户提示，同时保持可读性。我们的代码位于：https://animate-your-word.github.io/demo/。]]></description>
       <guid>https://arxiv.org/abs/2404.11614</guid>
       <pubDate>Fri, 19 Apr 2024 04:25:03 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>MoA：个性化图像生成中主题上下文解开的混合注意力</title>
       <link>https://arxiv.org/abs/2404.11565</link>
-      <description><![CDATA[我们引入了一种用于文本到图像扩散模型个性化的新架构，创造了混合注意力（MoA）。受到大型语言模型 (LLM) 中使用的专家混合机制的启发，MoA 将生成工作负载分配在两个注意力路径之间：个性化分支和非个性化先验分支。 MoA 旨在通过将注意力层固定在先前分支中来保留原始模型的先验，同时通过学习将主题嵌入到先前分支生成的布局和上下文中的个性化分支最小化地干预生成过程。一种新颖的路由机制管理跨这些分支的每一层中的像素分布，以优化个性化和通用内容创建的混合。经过训练后，MoA 可以促进创建高质量、个性化的图像，该图像具有多个主题，其构图和交互与原始模型生成的图像一样多样化。至关重要的是，MoA 增强了模型预先存在的功能与新增强的个性化干预之间的区别，从而提供了以前无法实现的更加清晰的主题上下文控制。项目页面：https://snap-research.github.io/mixture-of-attention]]></description>
+      <description><![CDATA[我们引入了一种用于文本到图像扩散模型个性化的新架构，创造了混合注意力（MoA）。受到大型语言模型 (LLM) 中使用的专家混合机制的启发，MoA 在两个注意力路径之间分配生成工作负载：个性化分支和非个性化先验分支。 MoA 旨在通过将注意力层固定在先前分支中来保留原始模型的先验，同时通过学习将主题嵌入到先前分支生成的布局和上下文中的个性化分支最小化地干预生成过程。一种新颖的路由机制管理跨这些分支的每一层中的像素分布，以优化个性化和通用内容创建的混合。经过训练后，MoA 可以促进创建高质量、个性化的图像，该图像具有多个主题，其构图和交互与原始模型生成的图像一样多样化。至关重要的是，MoA 增强了模型预先存在的功能与新增强的个性化干预之间的区别，从而提供了以前无法实现的更加清晰的主题上下文控制。项目页面：https://snap-research.github.io/mixture-of-attention]]></description>
       <guid>https://arxiv.org/abs/2404.11565</guid>
       <pubDate>Fri, 19 Apr 2024 02:30:36 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>OpenBezoar：小型、经济高效且开放的模型，基于混合指令数据进行训练</title>
       <link>https://arxiv.org/abs/2404.12195</link>
-      <description><![CDATA[针对各种下游任务的指令微调预训练 LLM 已取得显著成功，并引起了学术界和实践者的兴趣。为了确保这种微调的 LLM 符合人类偏好，出现了 RLHF 和 DPO 等技术。与此同时，人们对模型中较小参数数量的兴趣日益增加。在这项工作中，我们使用 OpenLLaMA 3Bv2 作为基础模型，描述了用于微调 OpenBezoar 系列模型的方法。在此方法中：我们首先使用基于以下三种方案的开放且商业上非限制性的指令微调 Falcon-40B 模型变体生成合成指令微调数据：LaMini-LM、WizardLM/Evol-Instruct（使用 databricks-dolly-15k 作为种子数据集）和 Orca（使用 Flan Collection 作为种子数据集），然后使用 GPT-4 作为人工代理过滤这些代。然后，我们按顺序对每个方案执行基于 QLoRA 的具有成本效益的监督微调。在使用 DPO 损失获得最终检查点之前，使用 HH-RLHF 数据集的子集对生成的检查点进行进一步微调，以最小化分布偏移。使用 LM Eval Harness 任务/指标以及在 MT-Bench 上使用 Claude 2.1 的“LLM-as-a-judge”框架进行评估，结果发现最终检查点“OpenBezoar-HH-RLHF-DPO”在 3B 参数规模上表现出优于许多模型的性能，甚至在 Huggingface Open LLM 排行榜上的某个类别中超越了顶级模型。我们在 HuggingFace 上发布了“OpenBezoar-SFT”、“OpenBezoar-HH-RLHF-SFT”、“OpenBezoar-HH-RLHF-DPO”检查点，以及我们在 https://huggingface.co/collections/Sur​​geGlobal/open-bezoar-6620a24923e12127e9e2b9cc 上生成的数据集，并在 https://bitbucket.org/paladinanalytics/workspace/projects/OP 上发布了我们的代码库。]]></description>
+      <description><![CDATA[针对不同下游任务对预训练的法学硕士进行指令微调已取得了显着的成功，并引起了学者和从业者的兴趣。为了确保这种经过微调的法学硕士符合人类的偏好，诸如 RLHF 和 DPO 等技术应运而生。与此同时，人们对模型的较小参数数量越来越感兴趣。在这项工作中，我们使用 OpenLLaMA 3Bv2 作为基本模型，描述了用于微调 OpenBezoar 系列模型的方法。在本秘籍中：我们首先使用开放且商业上非限制性的 Falcon-40B 模型指令微调变体在基于 LaMini-LM、WizardLM/Evol-Instruct（带有 databricks）的三种方案下生成合成指令微调数据-dolly-15k 作为种子数据集）和 Orca（以 Flan Collection 作为种子数据集），然后使用 GPT-4 作为人类代理来过滤这些代。然后，我们对每个方案依次执行经济有效的基于 QLoRA 的监督微调。在使用 DPO 损失获得最终检查点之前，使用 HH-RLHF 数据集的子集进一步微调生成的检查点，以最小化分布偏移。使用 LM Eval Harness 任务/指标以及使用 Claude 2.1 的“LLM-as-a-judge”框架在 MT-Bench 上完成评估，结果发现最终检查点“OpenBezoar-HH-RLHF-DPO” ”，在 3B 参数尺度上表现出了优于许多模型的性能，甚至超越了 Huggingface Open LLM 排行榜的某一类别中的顶级模型。我们发布了“OpenBezoar-SFT”、“OpenBezoar-HH-RLHF-SFT”、“OpenBezoar-HH-RLHF-DPO”检查点，以及我们在 HuggingFace 上生成的数据集：https://huggingface.co/collections/Sur​​geGlobal/open- bezoar-6620a24923e12127e9e2b9cc 和我们的代码库 https://bitbucket.org/paladinanalytics/workspace/projects/OP。]]></description>
       <guid>https://arxiv.org/abs/2404.12195</guid>
       <pubDate>Fri, 19 Apr 2024 01:22:28 GMT</pubDate>
     </item>
