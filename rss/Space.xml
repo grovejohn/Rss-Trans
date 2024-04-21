@@ -4,7 +4,14 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:46:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 13:13:29 GMT</lastBuildDate>
+    <item>
+      <title>为什么将人类送回月球如此困难？</title>
+      <link>https://www.space.com/why-is-getting-to-the-moon-so-hard</link>
+      <description><![CDATA[1969 年，阿波罗计划将人类送上月球。那为什么我们没有再送上月球呢？]]></description>
+      <guid>https://www.space.com/why-is-getting-to-the-moon-so-hard</guid>
+      <pubDate>Sun, 21 Apr 2024 13:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>日食专家杰米·卡特因广泛的日食报道而荣获媒体奖</title>
       <link>https://www.space.com/eclipse-expert-jamie-carter-wins-solar-physics-division-popular-media-award</link>
@@ -27,7 +34,7 @@
       <pubDate>Sat, 20 Apr 2024 15:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>本周太空播客：第 107 集 — 火星样本返回布鲁斯</title>
+      <title>本周太空播客：第 107 集 — 火星样本返回蓝调</title>
       <link>https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-107-mars-sample-return-blues</link>
       <description><![CDATA[在《本周太空》第 107 集中，罗德和塔里克与记者 Leonard David 谈论了 NASA 陷入困境的火星样本返回任务。]]></description>
       <guid>https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-107-mars-sample-return-blues</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国宇航局的朱诺号探测器继续让我们更深入地了解木星和这颗巨大行星的卫星，包括太阳系中火山最活跃的天体木卫一。]]></description>
       <guid>https://www.space.com/jupiter-moon-io-juno-flyover-video-2024</guid>
       <pubDate>Fri, 19 Apr 2024 21:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA阿耳忒弥斯3号宇航员将在月球表面放置月震探测器</title>
-      <link>https://www.space.com/moonquake-detector-nasa-artemis-3-mission</link>
-      <description><![CDATA[NASA 正在为其即将到来的阿尔忒弥斯 3 号任务建造月震探测器，希望更多地了解月球震动和月球内部结构。]]></description>
-      <guid>https://www.space.com/moonquake-detector-nasa-artemis-3-mission</guid>
-      <pubDate>Fri, 19 Apr 2024 20:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
