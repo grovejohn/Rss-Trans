@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Sun, 21 Apr 2024 21:35:35 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Sun, 21 Apr 2024 22:12:18 GMT</lastBuildDate>
     <item>
       <title>MeshLRM：高质量网格的大型重建模型</title>
       <link>https://arxiv.org/abs/2404.12385</link>
@@ -15,14 +15,14 @@
     <item>
       <title>EdgeFusion：设备上文本到图像生成</title>
       <link>https://arxiv.org/abs/2404.11925</link>
-      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬行数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
+      <description><![CDATA[文本到图像生成的稳定扩散（SD）的密集计算负担为其实际应用带来了重大障碍。为了应对这一挑战，最近的研究重点是减少采样步骤的方法，例如潜在一致性模型（LCM），以及采用架构优化，包括剪枝和知识蒸馏。与现有方法不同，我们独特地从紧凑型 SD 变体 BK-SDM 开始。我们观察到，使用常用的爬取数据集直接将 LCM 应用于 BK-SDM 会产生不令人满意的结果。它引导我们制定两种策略：(1) 利用领先生成模型中的高质量图像文本对；(2) 设计专为 LCM 量身定制的先进蒸馏流程。通过对量化、分析和设备上部署的深入探索，我们只需两步即可快速生成逼真的文本对齐图像，并且在资源有限的边缘设备上延迟低于一秒。]]></description>
       <guid>https://arxiv.org/abs/2404.11925</guid>
       <pubDate>Fri, 19 Apr 2024 04:30:35 GMT</pubDate>
     </item>
     <item>
       <title>动态版式：让文字栩栩如生</title>
       <link>https://arxiv.org/abs/2404.11614</link>
-      <description><![CDATA[文本动画作为一种表达媒介，通过将文字与动作相结合来唤起情感、强调意义并构建引人入胜的叙述，将静态交流转化为动态体验。制作语义感知的动画提出了重大挑战，需要图形设计和动画方面的专业知识。我们提出了一种自动文本动画方案，称为“动态版式”，它结合了两个具有挑战性的任务。它使字母变形以传达语义，并根据用户提示为它们注入充满活力的动作。我们的技术利用矢量图形表示和基于端到端优化的框架。该框架采用神经位移场将字母转换为基本形状并应用每帧运动，鼓励与预期文本概念的一致性。采用形状保存技术和感知损失正则化来保持整个动画过程的易读性和结构完整性。我们展示了我们的方法在各种文本到视频模型中的通用性，并强调了我们的端到端方法相对于基线方法的优越性，基线方法可能包含单独的任务。通过定量和定性评估，我们证明了我们的框架在生成连贯的文本动画方面的有效性，这些动画忠实地解释了用户提示，同时保持了可读性。我们的代码位于：https://animate-your-word.github.io/demo/。]]></description>
+      <description><![CDATA[文本动画作为一种表达媒介，通过将文字与动作相结合来唤起情感、强调意义并构建引人入胜的叙述，将静态交流转化为动态体验。制作具有语义意识的动画面临着巨大的挑战，需要图形设计和动画方面的专业知识。我们提出了一种自动文本动画方案，称为“动态版式”，它结合了两个具有挑战性的任务。它使字母变形以传达语义，并根据用户提示为它们注入充满活力的动作。我们的技术利用矢量图形表示和基于端到端优化的框架。该框架采用神经位移场将字母转换为基本形状并应用每帧运动，鼓励与预期文本概念的一致性。采用形状保存技术和感知损失正则化来保持整个动画过程的易读性和结构完整性。我们展示了我们的方法在各种文本到视频模型中的通用性，并强调了我们的端到端方法相对于基线方法的优越性，基线方法可能包含单独的任务。通过定量和定性评估，我们展示了我们的框架在生成连贯的文本动画方面的有效性，这些动画忠实地解释用户提示，同时保持可读性。我们的代码位于：https://animate-your-word.github.io/demo/。]]></description>
       <guid>https://arxiv.org/abs/2404.11614</guid>
       <pubDate>Fri, 19 Apr 2024 04:25:03 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 19 Apr 2024 01:54:29 GMT</pubDate>
     </item>
     <item>
-      <title>TriForce：通过分层推测解码实现长序列生成的无损加速</title>
+      <title>TriForce：使用分层推测解码对长序列生成进行无损加速</title>
       <link>https://arxiv.org/abs/2404.11912</link>
       <description><![CDATA[近年来，随着大型语言模型（LLM）在长内容生成中的广泛部署，对高效长序列推理支持的需求日益增长。然而，存储键值（KV）缓存以避免重新计算，其大小随着序列长度线性增长，已成为关键瓶颈。由于LLM的自回归性质，将为每个生成的令牌加载整个KV缓存，导致计算核心利用率低和延迟高。虽然已经提出了各种 KV 缓存压缩方法来缓解这个问题，但它们的生成质量会下降。我们引入了 TriForce，这是一种分层推测解码系统，可扩展至长序列生成。这种方法通过检索利用原始模型权重和动态稀疏 KV 缓存作为草稿模型，充当层次结构中的中间层，并由较小的模型进一步推测以减少其草稿延迟。 TriForce 不仅为 Llama2-7B-128K 带来令人印象深刻的加速，在 A100 GPU 上实现高达 2.31 倍，而且还展示了处理更长上下文的可扩展性。对于两个 RTX 4090 GPU 上的卸载设置，TriForce 实现了 0.108s/tokenx2014，仅比 A100 上的自回归基线慢一半，在我们优化的卸载系统上达到了 7.78 倍。此外，TriForce 在单个 RTX 4090 GPU 上的性能是 DeepSpeed-Zero-Inference 的 4.86 倍。 TriForce 的坚固性以其在各种温度下始终如一的出色性能而著称。该代码可在 https://github.com/Infini-AI-Lab/TriForce 获取。]]></description>
       <guid>https://arxiv.org/abs/2404.11912</guid>
