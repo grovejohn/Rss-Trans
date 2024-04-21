@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Sun, 21 Apr 2024 08:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2024 10:35:28 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳 AT&T 手机 - CNET</title>
+      <link>https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e</link>
+      <description><![CDATA[无论您想要最新的 iPhone 15 还是闪亮的 Android 手机，这些都是 AT&amp;T 2024 年最好的智能手机。]]></description>
+      <guid>https://www.cnet.com/tech/mobile/best-at-t-phones/#ftag=CAD590a51e</guid>
+      <pubDate>Sun, 21 Apr 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>今天的 Wordle 提示和解答：4 月 21 日的帮助，#1037 - CNET</title>
       <link>https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-21-1037/#ftag=CAD590a51e</link>
@@ -34,7 +41,7 @@
       <pubDate>Sat, 20 Apr 2024 21:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Housewise's Fire Pits 等产品可享受 15% 折扣 - CNET</title>
+      <title>Housewise's Fire Pits 等产品可享受 15% 优惠 - CNET</title>
       <link>https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e</link>
       <description><![CDATA[温暖的日子即将到来，Houswise 提供火坑、烧烤架等设施，帮助您享受户外活动。]]></description>
       <guid>https://www.cnet.com/deals/save-15-off-houswises-fire-pits-and-more/#ftag=CAD590a51e</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[通过将这些健康习惯融入您的生活方式来控制您的健康。以下是最值得尝试的。]]></description>
       <guid>https://www.cnet.com/health/try-these-12-daily-habits-and-become-a-healthier-you/#ftag=CAD590a51e</guid>
       <pubDate>Sat, 20 Apr 2024 19:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonos 最佳优惠：购买顶级便携式扬声器、条形音箱等产品最高可节省 110 美元 - CNET</title>
-      <link>https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e</link>
-      <description><![CDATA[Sonos 是蓝牙音箱领域备受好评的品牌，现在您可以以优惠价格购买一些最受欢迎的型号。]]></description>
-      <guid>https://www.cnet.com/deals/best-sonos-deals/#ftag=CAD590a51e</guid>
-      <pubDate>Sat, 20 Apr 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
