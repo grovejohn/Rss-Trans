@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 22 Apr 2024 07:12:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 07:35:15 GMT</lastBuildDate>
     <item>
       <title>实用的功能级程序修复能走多远？</title>
       <link>https://arxiv.org/abs/2404.12833</link>
@@ -20,7 +20,7 @@
       <pubDate>Mon, 22 Apr 2024 05:17:43 GMT</pubDate>
     </item>
     <item>
-      <title>LLM-R2：一种用于提高查询效率的大型语言模型增强规则重写系统</title>
+      <title>LLM-R2：大型语言模型增强型基于规则的重写系统，用于提高查询效率</title>
       <link>https://arxiv.org/abs/2404.12872</link>
       <description><![CDATA[查询重写，旨在通过改变SQL查询的结构而不改变查询结果来生成更有效的查询，一直是一个重要的研究问题。为了在重写过程中保持重写后的查询与原始查询的等价性，传统的查询重写方法总是遵循一定的重写规则来重写查询。然而，一些问题仍然存在。首先，现有的寻找重写规则的最佳选择或顺序的方法仍然有限，并且该过程总是花费大量资源。涉及发现新重写规则的方法通常需要复杂的结构逻辑证明或广泛的用户交互。其次，当前的查询重写方法通常高度依赖 DBMS 成本估算器，而这些估算器通常不准确。在本文中，我们通过提出一种名为LLM-R2的新型查询重写方法来解决这些问题，采用大语言模型（LLM）为数据库重写系统提出可能的重写规则。为了进一步提高LLM推荐重写规则的推理能力，我们通过课程训练对比模型来学习查询表示并为LLM选择有效的查询演示。实验结果表明，我们的方法可以显着提高查询执行效率并优于基线方法。此外，我们的方法在不同数据集上具有很高的鲁棒性。]]></description>
       <guid>https://arxiv.org/abs/2404.12872</guid>
