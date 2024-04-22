@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 21 Apr 2024 12:21:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 16:36:45 GMT</lastBuildDate>
+    <item>
+      <title>贡献不仅仅是代码</title>
+      <link>https://blog.broulik.de/2024/04/contributing-is-more-than-just-code/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.broulik.de/2024/04/contributing-is-more-than-just-code/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 22 Apr 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>创建 KDE Gear 24.05 分支</title>
       <link>https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed</link>
@@ -139,13 +146,6 @@ Qt 以前仅支持 % 单位 px 和 em。
 电子邮件）。]]></description>
       <guid>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</guid>
       <pubDate>Sun, 14 Apr 2024 20:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯特在所有平台上 - 2024</title>
-      <link>https://cullmann.io/posts/kate-on-all-platforms-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://cullmann.io/posts/kate-on-all-platforms-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 14 Apr 2024 17:32:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
