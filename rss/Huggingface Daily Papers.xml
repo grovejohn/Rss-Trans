@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 22 Apr 2024 17:35:45 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Mon, 22 Apr 2024 18:15:40 GMT</lastBuildDate>
     <item>
       <title>实用的功能级程序修复能走多远？</title>
       <link>https://arxiv.org/abs/2404.12833</link>
@@ -15,7 +15,7 @@
     <item>
       <title>AutoCrawler：用于生成网络爬虫的渐进式理解网络代理</title>
       <link>https://arxiv.org/abs/2404.12753</link>
-      <description><![CDATA[Web 自动化是一项重要技术，它通过自动化常见的 Web 操作、提高操作效率并减少手动干预的需要来完成复杂的 Web 任务。传统方法（例如包装器）在面对新网站时，适应性和可扩展性有限。另一方面，由大型语言模型（LLM）支持的生成代理在开放世界场景中表现出较差的性能和可重用性。在这项工作中，我们引入了垂直信息网页的爬虫生成任务以及LLM与爬虫相结合的范例，这有助于爬虫更有效地处理多样化且不断变化的网络环境。我们提出了 AutoCrawler，这是一个两阶段框架，它利用 HTML 的层次结构来逐步理解。通过自顶向下和后退操作，AutoCrawler 可以从错误的操作中学习，并不断修剪 HTML 以更好地生成操作。我们对多个法学硕士进行了全面的实验，并证明了我们框架的有效性。本文资源可以在 https://github.com/EZ-hwh/AutoCrawler 找到]]></description>
+      <description><![CDATA[Web 自动化是一项重要技术，它通过自动化常见的 Web 操作、提高操作效率并减少手动干预的需要来完成复杂的 Web 任务。传统方法（例如包装器）在面对新网站时的适应性和可扩展性有限。另一方面，由大型语言模型（LLM）支持的生成代理在开放世界场景中表现出较差的性能和可重用性。在这项工作中，我们引入了垂直信息网页的爬虫生成任务以及LLM与爬虫相结合的范例，这有助于爬虫更有效地处理多样化且不断变化的网络环境。我们提出了 AutoCrawler，这是一个两阶段框架，它利用 HTML 的层次结构来逐步理解。通过自上而下和后退操作，AutoCrawler 可以从错误的操作中学习，并不断修剪 HTML 以更好地生成操作。我们对多个法学硕士进行了全面的实验，并证明了我们框架的有效性。本文资源可以在 https://github.com/EZ-hwh/AutoCrawler 找到]]></description>
       <guid>https://arxiv.org/abs/2404.12753</guid>
       <pubDate>Mon, 22 Apr 2024 05:17:43 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>Gaussian Splatting 是否需要 SFM 初始化？</title>
       <link>https://arxiv.org/abs/2404.12547</link>
-      <description><![CDATA[由于其高质量的结果以及与硬件光栅化的兼容性，3D 高斯分布最近被认为是场景重建和新颖视图合成的通用且有效的方法。尽管高斯溅射有其优点，但它对运动结构 (SFM) 算法的高质量点云初始化的依赖是一个需要克服的重大限制。为此，我们研究了高斯分布的各种初始化策略，并深入研究了如何利用神经辐射场 (NeRF) 的体积重建来绕过对 SFM 数据的依赖。我们的研究结果表明，如果精心设计，随机初始化可以表现得更好，并且通过采用改进的初始化策略和低成本 NeRF 模型的结构蒸馏相结合，可以获得相同的结果，有时甚至优于所获得的结果从 SFM 初始化。]]></description>
+      <description><![CDATA[由于其高质量的结果以及与硬件光栅化的兼容性，3D 高斯分布最近被认为是场景重建和新颖视图合成的通用且有效的方法。尽管高斯溅射有其优点，但它对运动结构 (SFM) 算法的高质量点云初始化的依赖是一个需要克服的重大限制。为此，我们研究了高斯分布的各种初始化策略，并深入研究了如何利用神经辐射场 (NeRF) 的体积重建来绕过对 SFM 数据的依赖。我们的研究结果表明，如果精心设计，随机初始化可以表现得更好，并且通过采用改进的初始化策略和低成本 NeRF 模型的结构蒸馏相结合，可以获得相同的结果，有时甚至优于所获得的结果来自 SFM 初始化。]]></description>
       <guid>https://arxiv.org/abs/2404.12547</guid>
       <pubDate>Mon, 22 Apr 2024 05:02:11 GMT</pubDate>
     </item>
