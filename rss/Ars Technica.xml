@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 23 Apr 2024 14:12:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 15:36:17 GMT</lastBuildDate>
+    <item>
+      <title>Linux 终于可以运行汽车的安全系统和驾驶辅助功能</title>
+      <link>https://arstechnica.com/?p=2019282</link>
+      <description><![CDATA[我们的汽车将越来越多地由少数强大的计算机控制。]]></description>
+      <guid>https://arstechnica.com/?p=2019282</guid>
+      <pubDate>Tue, 23 Apr 2024 14:43:57 GMT</pubDate>
+    </item>
     <item>
       <title>朝鲜通过动画麦克斯和亚马逊节目来逃避制裁</title>
       <link>https://arstechnica.com/?p=2019275</link>
@@ -41,7 +48,7 @@
       <pubDate>Mon, 22 Apr 2024 21:19:56 GMT</pubDate>
     </item>
     <item>
-      <title>美国国家安全局报告的 Windows 漏洞被用来安装俄罗斯恶意软件</title>
+      <title>NSA 报告的 Windows 漏洞被用来安装俄罗斯恶意软件</title>
       <link>https://arstechnica.com/?p=2019186</link>
       <description><![CDATA[微软直到现在才披露克里姆林宫支持的组织的野外攻击行为。]]></description>
       <guid>https://arstechnica.com/?p=2019186</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[FISA 更新要求更多服务提供商与政府合作。]]></description>
       <guid>https://arstechnica.com/?p=2019133</guid>
       <pubDate>Mon, 22 Apr 2024 17:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一张真机 Pixel 9 Pro 图片泄露，它有 16GB RAM</title>
-      <link>https://arstechnica.com/?p=2019066</link>
-      <description><![CDATA[凭借 16GB 的 RAM，Google 的 AI 模型有足够的内存空间。]]></description>
-      <guid>https://arstechnica.com/?p=2019066</guid>
-      <pubDate>Mon, 22 Apr 2024 17:43:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
