@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Tue, 23 Apr 2024 00:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 01:52:54 GMT</lastBuildDate>
+    <item>
+      <title>印第安纳州卡梅尔最佳互联网提供商 - CNET</title>
+      <link>https://www.cnet.com/home/internet/best-internet-providers-in-carmel-in/#ftag=CAD590a51e</link>
+      <description><![CDATA[无论您寻求快速的网络速度还是低廉的价格，卡梅尔居民都可以使用优质的互联网选项。]]></description>
+      <guid>https://www.cnet.com/home/internet/best-internet-providers-in-carmel-in/#ftag=CAD590a51e</guid>
+      <pubDate>Tue, 23 Apr 2024 00:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>折叠躺椅 - CNET</title>
       <link>https://www.cnet.com/news/folding-chaise-lounge-dpnl/#ftag=CAD590a51e</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[更改电话号码的过程很简单，有几种方法可以实现。]]></description>
       <guid>https://www.cnet.com/tech/mobile/how-to-change-your-phone-number/#ftag=CAD590a51e</guid>
       <pubDate>Mon, 22 Apr 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看微软 AI 提供的《蒙娜丽莎说唱》：它就像你想象的那样令人毛骨悚然 - CNET</title>
-      <link>https://www.cnet.com/tech/services-and-software/watch-the-mona-lisa-rap-courtesy-of-microsofts-ai-its-as-creepy-as-you-think/#ftag=CAD590a51e</link>
-      <description><![CDATA[微软到底是真正的 Slim Shady 吗？我们还没有准备好。]]></description>
-      <guid>https://www.cnet.com/tech/services-and-software/watch-the-mona-lisa-rap-courtesy-of-microsofts-ai-its-as-creepy-as-you-think/#ftag=CAD590a51e</guid>
-      <pubDate>Mon, 22 Apr 2024 21:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
