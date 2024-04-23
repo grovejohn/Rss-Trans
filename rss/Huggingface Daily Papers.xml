@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Tue, 23 Apr 2024 06:38:08 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 23 Apr 2024 07:12:03 GMT</lastBuildDate>
     <item>
       <title>学习 H-Infinity 运动控制</title>
       <link>https://arxiv.org/abs/2404.14405</link>
@@ -15,7 +15,7 @@
     <item>
       <title>场景坐标重建：通过重新定位器的增量学习来摆出图像集合的姿势</title>
       <link>https://arxiv.org/abs/2404.14351</link>
-      <description><![CDATA[我们解决从一组描绘场景的图像估计相机参数的任务。流行的基于特征的运动结构 (SfM) 工具通过增量重建来解决此任务：它们重复稀疏 3D 点的三角测量并将更多摄像机视图注册到稀疏点云。我们将增量运动结构重新解释为视觉重定位器的迭代应用和细化，即将新视图注册到重建的当前状态的方法。这个视角使我们能够研究不植根于局部特征匹配的替代视觉重定位器。我们展示了场景坐标回归，一种基于学习的重定位方法，允许我们从未摆出的图像构建隐式的神经场景表示。与其他基于学习的重建方法不同，我们不需要先验姿势，也不需要顺序输入，并且我们可以对数千张图像进行有效优化。我们的方法 ACE0（ACE Zero）估计相机姿态的精度与基于特征的 SfM 相当，正如新颖的视图合成所证明的那样。项目页面：https://nianticlabs.github.io/acezero/]]></description>
+      <description><![CDATA[我们解决从一组描绘场景的图像估计相机参数的任务。流行的基于特征的运动结构 (SfM) 工具通过增量重建来解决此任务：它们重复稀疏 3D 点的三角测量并将更多摄像机视图注册到稀疏点云。我们将增量运动结构重新解释为视觉重定位器的迭代应用和细化，即将新视图注册到重建的当前状态的方法。这个视角使我们能够研究不植根于局部特征匹配的替代视觉重定位器。我们展示了场景坐标回归，一种基于学习的重定位方法，允许我们从未摆出的图像构建隐式的神经场景表示。与其他基于学习的重建方法不同，我们不需要先验姿势，也不需要顺序输入，并且我们可以对数千张图像进行有效优化。我们的方法 ACE0（ACE Zero）估计相机姿势的精度与基于特征的 SfM 相当，正如新颖的视图合成所证明的那样。项目页面：https://nianticlabs.github.io/acezero/]]></description>
       <guid>https://arxiv.org/abs/2404.14351</guid>
       <pubDate>Tue, 23 Apr 2024 03:14:32 GMT</pubDate>
     </item>
@@ -36,7 +36,7 @@
     <item>
       <title>FlowMind：使用法学硕士自动生成工作流程</title>
       <link>https://arxiv.org/abs/2404.13050</link>
-      <description><![CDATA[快速发展的机器人流程自动化 (RPA) 领域在自动化重复流程方面取得了重大进展，但在需要用户要求的自发或不可预测任务的场景中，其有效性会降低。本文介绍了一种新颖的方法 FlowMind，利用大型语言模型 (LLM)（例如生成预训练变换器 (GPT)）的功能来解决此限制并创建自动工作流生成系统。在 FlowMind 中，我们提出了一个通用的讲座提示方案，有助于通过可靠的应用程序编程接口 (API) 奠定 LLM 推理的基础。这样，FlowMind 不仅可以缓解法学硕士中常见的幻觉问题，还可以消除法学硕士与专有数据或代码之间的直接交互，从而确保信息的完整性和机密性 - 这是金融服务的基石。 FlowMind 通过呈现自动生成的工作流程的高级描述来进一步简化用户交互，使用户能够有效地检查和提供反馈。我们还引入了 NCEN-QA，这是一个新的金融数据集，用于对 N-CEN 基金报告中的问答任务进行基准测试。我们使用 NCEN-QA 对照 FlowMind 的基线和消融变体来评估 FlowMind 生成的工作流程的性能。我们展示了 FlowMind 的成功、拟议讲座方案中每个组件的重要性以及 FlowMind 中用户交互和反馈的有效性。]]></description>
+      <description><![CDATA[快速发展的机器人流程自动化 (RPA) 领域在自动化重复流程方面取得了重大进展，但在需要用户要求的自发或不可预测任务的场景中，其有效性会降低。本文介绍了一种新颖的方法 FlowMind，利用大型语言模型 (LLM)（例如生成预训练变换器 (GPT)）的功能来解决此限制并创建自动工作流生成系统。在 FlowMind 中，我们提出了一个通用的讲座提示方案，通过可靠的应用程序编程接口 (API) 帮助奠定 LLM 推理的基础。这样，FlowMind 不仅可以缓解法学硕士中常见的幻觉问题，还可以消除法学硕士与专有数据或代码之间的直接交互，从而确保信息的完整性和机密性 - 这是金融服务的基石。 FlowMind 通过呈现自动生成的工作流程的高级描述来进一步简化用户交互，使用户能够有效地检查和提供反馈。我们还引入了 NCEN-QA，这是一个新的金融数据集，用于对 N-CEN 基金报告中的问答任务进行基准测试。我们使用 NCEN-QA 对照 FlowMind 的基线和消融变体来评估 FlowMind 生成的工作流程的性能。我们展示了 FlowMind 的成功、拟议讲座方案中每个组件的重要性以及 FlowMind 中用户交互和反馈的有效性。]]></description>
       <guid>https://arxiv.org/abs/2404.13050</guid>
       <pubDate>Tue, 23 Apr 2024 02:53:01 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>MultiBooth：从文本生成图像中的所有概念</title>
       <link>https://arxiv.org/abs/2404.14239</link>
-      <description><![CDATA[本文介绍了 MultiBooth，这是一种新颖且高效的技术，用于从文本生成图像中进行多概念定制。尽管定制生成方法取得了显着进步，特别是随着扩散模型的成功，但由于概念保真度低和推理成本高，现有方法常常难以应对多概念场景。 MultiBooth 通过将多概念生成过程分为两个阶段来解决这些问题：单概念学习阶段和多概念集成阶段。在单概念学习阶段，我们采用多模态图像编码器和有效的概念编码技术来学习每个概念的简洁且有区别的表示。在多概念整合阶段，我们使用边界框来定义交叉注意力图中每个概念的生成区域。该方法使得能够在其指定区域内创建单独的概念，从而促进多概念图像的形成。这种策略不仅提高了概念保真度，还降低了额外的推理成本。 MultiBooth 在定性和定量评估方面都超越了各种基线，展示了其卓越的性能和计算效率。项目页面：https://multibooth.github.io/]]></description>
+      <description><![CDATA[本文介绍了 MultiBooth，这是一种新颖且高效的技术，用于从文本生成图像中进行多概念定制。尽管定制生成方法取得了显着进步，特别是随着扩散模型的成功，但由于概念保真度低和推理成本高，现有方法常常难以应对多概念场景。 MultiBooth 通过将多概念生成过程分为两个阶段来解决这些问题：单概念学习阶段和多概念集成阶段。在单概念学习阶段，我们采用多模态图像编码器和有效的概念编码技术来学习每个概念的简洁且有区别的表示。在多概念整合阶段，我们使用边界框来定义交叉注意力图中每个概念的生成区域。该方法使得能够在其指定区域内创建单独的概念，从而促进多概念图像的形成。该策略不仅提高了概念保真度，还降低了额外的推理成本。 MultiBooth 在定性和定量评估方面都超越了各种基线，展示了其卓越的性能和计算效率。项目页面：https://multibooth.github.io/]]></description>
       <guid>https://arxiv.org/abs/2404.14239</guid>
       <pubDate>Tue, 23 Apr 2024 01:52:56 GMT</pubDate>
     </item>
