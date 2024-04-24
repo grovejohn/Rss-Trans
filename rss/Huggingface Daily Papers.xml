@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 03:36:44 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Wed, 24 Apr 2024 04:14:41 GMT</lastBuildDate>
     <item>
       <title>FlashSpeech：高效的零样本语音合成</title>
       <link>https://arxiv.org/abs/2404.14700</link>
@@ -15,7 +15,7 @@
     <item>
       <title>Pegasus-v1 技术报告</title>
       <link>https://arxiv.org/abs/2404.14687</link>
-      <description><![CDATA[本技术报告介绍了 Pegasus-1，这是一种专门用于通过自然语言理解视频内容和交互的多模态语言模型。 Pegasus-1 旨在解决视频数据带来的独特挑战，例如解释时空信息，以提供各种长度的细致入微的视频内容理解。这份技术报告概述了 Pegasus-1 的架构、训练策略及其在视频对话、零样本视频问答和视频摘要基准测试中的表现。我们还探讨了 Pegasus-1 的定性特征，展示了其能力和局限性，以便为读者提供对其当前状态和未来方向的平衡看法。]]></description>
+      <description><![CDATA[本技术报告介绍了 Pegasus-1，一种专门用于通过自然语言理解视频内容和交互的多模态语言模型。 Pegasus-1 旨在解决视频数据带来的独特挑战，例如解释时空信息，以提供各种长度的细致入微的视频内容理解。这份技术报告概述了 Pegasus-1 的架构、训练策略及其在视频对话、零样本视频问答和视频摘要基准测试中的表现。我们还探讨了 Pegasus-1 的定性特征，展示其功能和局限性，以便为读者提供对其当前状态和未来方向的平衡看法。]]></description>
       <guid>https://arxiv.org/abs/2404.14687</guid>
       <pubDate>Wed, 24 Apr 2024 01:59:40 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>OpenELM：具有开源训练和推理框架的高效语言模型系列</title>
       <link>https://arxiv.org/abs/2404.14619</link>
-      <description><![CDATA[大型语言模型的可重复性和透明度对于推进开放研究、确保结果的可信性以及对数据和模型偏差以及潜在风险的调查至关重要。为此，我们发布了 OpenELM，一种最先进的开放语言模型。 OpenELM 使用分层缩放策略来有效地分配变压器模型每一层内的参数，从而提高准确性。例如，在参数预算约为 10 亿个参数的情况下，OpenELM 与 OLMo 相比，精度提高了 2.36%，同时需要的预训练令牌减少了 2 倍。与之前仅提供模型权重和推理代码以及在私有数据集上进行预训练的做法不同，我们的版本包括在公开数据集上训练和评估语言模型的完整框架，包括训练日志、多个检查点和预训练。训练配置。我们还发布了将模型转换为 MLX 库的代码，以便在 Apple 设备上进行推理和微调。这一全面的发布旨在增强和加强开放研究社区，为未来的开放研究努力铺平道路。我们的源代码以及预训练的模型权重和训练配方可在 https://github.com/apple/corenet 上获取。此外，\model 模型可以在 HuggingFace 上找到：https://huggingface.co/apple/OpenELM。]]></description>
+      <description><![CDATA[大型语言模型的可重复性和透明度对于推进开放研究、确保结果的可信性以及对数据和模型偏差以及潜在风险的调查至关重要。为此，我们发布了 OpenELM，一种最先进的开放语言模型。 OpenELM 使用分层缩放策略来有效地分配变压器模型每一层内的参数，从而提高准确性。例如，在参数预算约为 10 亿个参数的情况下，OpenELM 与 OLMo 相比，精度提高了 2.36%，同时需要的预训练令牌减少了 2 倍。与之前仅提供模型权重和推理代码以及在私有数据集上进行预训练的做法不同，我们的版本包括在公开数据集上训练和评估语言模型的完整框架，包括训练日志、多个检查点和预训练。训练配置。我们还发布了将模型转换为 MLX 库的代码，以便在 Apple 设备上进行推理和微调。这一全面的发布旨在增强和加强开放研究社区的力量，为未来的开放研究努力铺平道路。我们的源代码以及预训练的模型权重和训练配方可在 https://github.com/apple/corenet 上获取。此外，\model 模型可以在 HuggingFace 上找到：https://huggingface.co/apple/OpenELM。]]></description>
       <guid>https://arxiv.org/abs/2404.14619</guid>
       <pubDate>Wed, 24 Apr 2024 01:44:11 GMT</pubDate>
     </item>
