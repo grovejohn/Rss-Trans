@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 23 Apr 2024 12:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 08:16:47 GMT</lastBuildDate>
+    <item>
+      <title>Plasma 6.0 及更高版本中的 PowerDevil</title>
+      <link>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</link>
+      <description><![CDATA[大家好，我是 Jakob，这是我的新 KDE 博客。让我们看看情况如何，因为我已经有几十年没有写博客了。
+我从去年的某个时候开始从事 Plasma 代码的工作，希望能像许多其他出色且专注的贡献者每周所做的那样，在为统治世界奠定基础、改善用户体验方面发挥一小部分作用。]]></description>
+      <guid>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>贡献不仅仅是代码</title>
       <link>https://blog.broulik.de/2024/04/contributing-is-more-than-just-code/?utm_source=atom_feed</link>
@@ -85,67 +93,6 @@ https://meet.kde.org/b/jon-0yw- xqi-sk6 访问代码将发布在 KDE neon Telegr
 2024 年 4 月 16 日星期二 09:00 UTC（10:00 BST、11:00 CEST）和 19:00 UTC（20:00 BST、21:00 CEST）聊天]]></description>
       <guid>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</guid>
       <pubDate>Mon, 15 Apr 2024 10:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>QTextDocument 的改进</title>
-      <link>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</link>
-      <description><![CDATA[Marknote 使用 QTextDocument 实现所见即所得
-文本编辑器。这出乎意料地非常强大，并且感谢借用了一些代码
-从 KMail 富文本编辑器中，实现大部分内容并不难
-降价规范。
-虽然 QTextDocument 很棒，但我很快就遇到了一些限制。这就是为什么我
-开始修复其中一些问题，并且我已经在 Qt 中进行了一些修补程序以供审核。
-默认表格样式
-默认情况下，表格的样式看起来直接来自 90 年代，我提交了
-补丁以使用更好的东西： https://codereview.qt-project.org/c/qt/qtbase/+/554132
-&lt;图&gt;
-
-
-
-旧风格
-
-&lt;图&gt;
-
-
-
-新风格
-
-这在应用程序本身中很容易更改，并且已经是这种情况
-Marknote 和 NeoChat 表格渲染，但默认情况下我相信 Qt 应该
-提供了一个很好的样式，以便应用程序不需要弄清楚如何覆盖
-默认样式。
-在研究这个问题时，我还注意到 border-collapse 属性不是
-由 QtQuick 中的布局引擎支持，并且仅在 QtWidget 中支持。这导致了
-表格边框的厚度是应有的两倍。这是
-幸运的是，通过一个简单的补丁修复了：
-https:// codereview.qt-project.org/c/qt/qtdeclarative/+/554151
-响应式图片
-可以使用以下方法将宽度和高度分配给 QTextDocument 中的图像
-各自的 html 属性 。这有效
-当窗口大小已知且静态时正确，但不如窗口大小
-可以根据用户的需要调整大小。网页设计中的一种常见技术是添加
-网站的以下样式：
-img {
-最大宽度： 100%;
-}
-虽然 QTextDocument 支持一些 CSS 属性，但 max-width 不支持
-实施的。在 HTML 和 CSS 中添加对更多属性的支持
-解析器非常简单，因为它只是转发最大宽度的值
-属性到 QTextImageHandler，处理有点复杂
-Qt 以前仅支持 % 单位 px 和 em。
-这导致了另外两个补丁，一个用于 QtTextDocument 和 QtWidget
-一个用于 QtQuick .
-
-
-
-未来
-希望这些补丁能够尽快得到审查和合并。之后我想要
-添加对更多 CSS 属性的支持，例如：图像的 border-radius
-和一些其他元素，以及 border-{width, style, color} 属性
-让段落更好地支持  （显示时很重要
-电子邮件）。]]></description>
-      <guid>https://carlschwan.eu/2024/04/14/improvements-to-qtextdocument/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 14 Apr 2024 20:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
