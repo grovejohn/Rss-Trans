@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 24 Apr 2024 15:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 16:15:51 GMT</lastBuildDate>
+    <item>
+      <title>“ArcaneDoor”网络间谍入侵思科防火墙以访问政府网络</title>
+      <link>https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/</link>
+      <description><![CDATA[消息人士怀疑中国是有针对性地利用思科安全设备中两个零日漏洞的幕后黑手。]]></description>
+      <guid>https://www.wired.com/story/arcanedoor-cyberspies-hacked-cisco-firewalls-to-access-government-networks/</guid>
+      <pubDate>Wed, 24 Apr 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>拜登总统签署可能禁止 TikTok 的法案</title>
       <link>https://www.wired.com/story/biden-sign-tiktok-ban/</link>
@@ -34,9 +41,9 @@
       <pubDate>Wed, 24 Apr 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>5 种最佳 VPN 服务 (2024)：适用于路由器、PC、iPhone、Android 等</title>
+      <title>5 项最佳 VPN 服务 (2024)：适用于路由器、PC、iPhone、Android 等</title>
       <link>https://www.wired.com/story/best-vpn/</link>
-      <description><![CDATA[它无法解决您所有的隐私问题，但虚拟专用网络可以让您不再成为黑客的诱惑目标。]]></description>
+      <description><![CDATA[它无法解决您所有的隐私问题，但虚拟专用网络可以使您不再成为黑客的诱惑目标。]]></description>
       <guid>https://www.wired.com/story/best-vpn/</guid>
       <pubDate>Wed, 24 Apr 2024 13:30:00 GMT</pubDate>
     </item>
@@ -48,18 +55,11 @@
       <pubDate>Wed, 24 Apr 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>兔子的AI助手来了。很快，可穿戴相机也将成为现实</title>
+      <title>Rabbit 的 AI 助手已经问世。很快，可穿戴相机也将问世</title>
       <link>https://www.wired.com/story/rabbit-r1-launch-event-nyc/</link>
       <description><![CDATA[《连线》杂志参加了该公司的发布会，客户在会上拿起了第一台 R1，并了解到了一款“全视”的人工智能设备。]]></description>
       <guid>https://www.wired.com/story/rabbit-r1-launch-event-nyc/</guid>
       <pubDate>Wed, 24 Apr 2024 11:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>当网络骚扰发生在你身上时如何处理</title>
-      <link>https://www.wired.com/story/how-to-deal-with-online-harassment/</link>
-      <description><![CDATA[如果您的提及、收件箱和私信中充斥着仇恨评论，这里是您度过难关所需的技术和心理工具。]]></description>
-      <guid>https://www.wired.com/story/how-to-deal-with-online-harassment/</guid>
-      <pubDate>Wed, 24 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>TikTok 的创作者经济凝视深渊</title>
@@ -69,11 +69,11 @@
       <pubDate>Wed, 24 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>谁能建造下一个德罗宁的对决</title>
-      <link>https://www.wired.com/story/delorean-showdown/</link>
-      <description><![CDATA[凯特·德洛林 (Kat DeLorean) 的父亲的标志性跑车穿越时空进入电影史几十年后，她希望打造一款现代翻拍版。只有一个问题：其他人拥有她名字上的商标。]]></description>
-      <guid>https://www.wired.com/story/delorean-showdown/</guid>
-      <pubDate>Wed, 24 Apr 2024 10:00:00 GMT</pubDate>
+      <title>当网络骚扰发生在你身上时如何处理</title>
+      <link>https://www.wired.com/story/how-to-deal-with-online-harassment/</link>
+      <description><![CDATA[如果您的提及、收件箱和私信中充斥着仇恨评论，这里是您度过难关所需的技术和心理工具。]]></description>
+      <guid>https://www.wired.com/story/how-to-deal-with-online-harassment/</guid>
+      <pubDate>Wed, 24 Apr 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
