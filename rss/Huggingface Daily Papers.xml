@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 24 Apr 2024 20:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Apr 2024 20:36:57 GMT</lastBuildDate>
     <item>
       <title>Transformer 可以表示 $n$-gram 语言模型</title>
       <link>https://arxiv.org/abs/2404.14994</link>
@@ -36,7 +36,7 @@
     <item>
       <title>OpenELM：具有开源训练和推理框架的高效语言模型系列</title>
       <link>https://arxiv.org/abs/2404.14619</link>
-      <description><![CDATA[大型语言模型的可重复性和透明度对于推进开放研究、确保结果的可靠性以及调查数据和模型偏差以及潜在风险至关重要。为此，我们发布了最先进的开放语言模型 OpenELM。OpenELM 使用分层缩放策略来高效分配 Transformer 模型每层内的参数，从而提高准确性。例如，在参数预算约为 10 亿个参数的情况下，OpenELM 与 OLMo 相比，准确度提高了 2.36%，同时所需的预训练 token 减少了 2 倍。与仅提供模型权重和推理代码并在私有数据集上进行预训练的先前做法不同，我们的发布包括在公开可用数据集上训练和评估语言模型的完整框架，包括训练日志、多个检查点和预训练配置。我们还发布了将模型转换为 MLX 库的代码，以便在 Apple 设备上进行推理和微调。此次全面发布旨在增强开放研究社区的力量，为未来的开放研究工作铺平道路。我们的源代码以及预训练模型权重和训练配方可在 https://github.com/apple/corenet 上找到。此外，\model 模型可在 HuggingFace 上找到：https://huggingface.co/apple/OpenELM。]]></description>
+      <description><![CDATA[大型语言模型的可重复性和透明度对于推进开放研究、确保结果的可信性以及对数据和模型偏差以及潜在风险的调查至关重要。为此，我们发布了 OpenELM，一种最先进的开放语言模型。 OpenELM 使用分层缩放策略来有效地分配变压器模型每一层内的参数，从而提高准确性。例如，在参数预算约为 10 亿个参数的情况下，OpenELM 与 OLMo 相比，精度提高了 2.36%，同时需要的预训练令牌减少了 2 倍。与之前仅提供模型权重和推理代码以及在私有数据集上进行预训练的做法不同，我们的版本包括在公开数据集上训练和评估语言模型的完整框架，包括训练日志、多个检查点和预训练。训练配置。我们还发布了将模型转换为 MLX 库的代码，以便在 Apple 设备上进行推理和微调。这一全面的发布旨在增强和加强开放研究社区的力量，为未来的开放研究努力铺平道路。我们的源代码以及预训练的模型权重和训练配方可在 https://github.com/apple/corenet 上获取。此外，\model 模型可以在 HuggingFace 上找到：https://huggingface.co/apple/OpenELM。]]></description>
       <guid>https://arxiv.org/abs/2404.14619</guid>
       <pubDate>Wed, 24 Apr 2024 01:44:11 GMT</pubDate>
     </item>
