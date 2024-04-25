@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 22:11:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 22:35:21 GMT</lastBuildDate>
     <item>
       <title>MoDE：通过聚类获得 CLIP 数据专家</title>
       <link>https://arxiv.org/abs/2404.16030</link>
@@ -22,14 +22,14 @@
     <item>
       <title>MaGGIe：蒙面引导渐进人体实例抠图</title>
       <link>https://arxiv.org/abs/2404.16035</link>
-      <description><![CDATA[人体抠图是图像和视频处理中的一项基础任务，其中从输入中提取人体前景像素。先前的工作要么通过额外的指导来提高准确性，要么提高跨帧的单个实例的时间一致性。我们提出了一个新的框架 MaGGIe，Masked Guided Gradual Human Instance Matting，它逐步预测每个人类实例的 alpha mattes，同时保持计算成本、精度和一致性。我们的方法利用现代架构，包括变压器注意力和稀疏卷积，同时输出所有实例遮罩，而不会增加内存和延迟。尽管在多实例场景中保持恒定的推理成本，但我们的框架在我们提出的综合基准上实现了稳健且通用的性能。通过更高质量的图像和视频抠图基准，引入了来自公开来源的新颖的多实例合成方法，以提高模型在现实场景中的泛化能力。]]></description>
+      <description><![CDATA[人体抠图是图像和视频处理中的一项基础任务，其中从输入中提取人体前景像素。先前的工作要么通过额外的指导来提高准确性，要么提高跨帧的单个实例的时间一致性。我们提出了一个新的框架 MaGGIe，Masked Guided Gradual Human Instance Matting，它逐步预测每个人类实例的 alpha mattes，同时保持计算成本、精度和一致性。我们的方法利用现代架构，包括变压器注意力和稀疏卷积，同时输出所有实例遮罩，而不会增加内存和延迟。尽管在多实例场景中保持恒定的推理成本，但我们的框架在我们提出的综合基准上实现了稳健且通用的性能。随着更高质量的图像和视频抠图基准，引入了来自公开来源的新颖的多实例合成方法，以提高模型在现实场景中的泛化能力。]]></description>
       <guid>https://arxiv.org/abs/2404.16035</guid>
       <pubDate>Thu, 25 Apr 2024 17:56:33 GMT</pubDate>
     </item>
     <item>
       <title>XC-Cache：交叉参与缓存上下文以实现高效的 LLM 推理</title>
       <link>https://arxiv.org/abs/2404.15420</link>
-      <description><![CDATA[上下文学习 (ICL) 方法通常利用提示来根据参考信息对仅解码器的语言模型生成进行条件化。由于自注意力操作的二次成本，上下文的即时处理效率低下，因此缓存是理想的选择。但是，缓存转换器状态很容易需要与模型参数几乎一样多的空间。当事先不知道正确的上下文时，缓存 ICL 可能具有挑战性。这项工作通过引入受编码器-解码器架构启发的模型来解决这些限制，这些模型使用交叉注意力对参考文本进行条件生成，而无需提示。更准确地说，我们利用预先训练的仅解码器模型，并且只训练少量的附加层。我们使用问答 (QA) 作为测试平台来评估我们的模型执行条件生成的能力，并观察到它们的表现优于 ICL，与微调提示的 LLM 相当，并且与标准 KV 缓存相比，空间占用量大幅减少了两个数量级。]]></description>
+      <description><![CDATA[上下文学习 (ICL) 方法通常利用提示来根据参考信息生成仅解码器的语言模型。由于自注意力操作的二次成本，上下文的即时处理效率低下，因此需要缓存。然而，缓存变压器状态很容易需要几乎与模型参数一样多的空间。当事先不知道正确的上下文时，缓存 ICL 可能会很困难。这项工作通过引入模型来解决这些限制，这些模型受编码器-解码器架构的启发，使用交叉注意力来在没有提示的情况下对参考文本进行条件生成。更准确地说，我们利用预训练的仅解码器模型，并且仅训练少量的添加层。我们使用问答（QA）作为测试平台来评估我们的模型执行条件生成的能力，并观察到它们的性能优于 ICL，与微调提示的 LLM 相当，并且相对于标准 KV 缓存大幅减少了空间占用：两个数量级。]]></description>
       <guid>https://arxiv.org/abs/2404.15420</guid>
       <pubDate>Thu, 25 Apr 2024 17:48:48 GMT</pubDate>
     </item>
