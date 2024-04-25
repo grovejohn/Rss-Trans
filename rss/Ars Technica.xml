@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 13:11:28 GMT</lastBuildDate>
+    <item>
+      <title>高通称低端骁龙 X Plus 芯片仍能超越苹果 M3</title>
+      <link>https://arstechnica.com/?p=2019890</link>
+      <description><![CDATA[与 X Elite 相同的 NPU、相同的架构，但内核更少、时钟速度更低。]]></description>
+      <guid>https://arstechnica.com/?p=2019890</guid>
+      <pubDate>Thu, 25 Apr 2024 12:26:27 GMT</pubDate>
+    </item>
     <item>
       <title>Palm OS 和运行它的设备：Ars 回顾展</title>
       <link>https://arstechnica.com/?p=2013776</link>
@@ -36,14 +43,14 @@
     <item>
       <title>民族国家黑客利用思科防火墙 0day 后门政府网络</title>
       <link>https://arstechnica.com/?p=2019790</link>
-      <description><![CDATA[边界设备应该能够防止网络黑客攻击。为什么有这么多设备允许攻击？]]></description>
+      <description><![CDATA[外围设备应该防止网络黑客攻击。为什么这么多设备允许攻击？]]></description>
       <guid>https://arstechnica.com/?p=2019790</guid>
       <pubDate>Wed, 24 Apr 2024 20:55:20 GMT</pubDate>
     </item>
     <item>
       <title>法庭上的 Deepfakes：美国司法小组讨论新的人工智能证据规则</title>
       <link>https://arstechnica.com/?p=2019174</link>
-      <description><![CDATA[由八名法官组成的小组面临着可能破坏法律审判的深度伪造人工智能技术。]]></description>
+      <description><![CDATA[由八名法官组成的小组面临可能破坏法律审判的深度伪造人工智能技术。]]></description>
       <guid>https://arstechnica.com/?p=2019174</guid>
       <pubDate>Wed, 24 Apr 2024 20:14:34 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[谷歌表示，英国监管机构测试意味着该广告技术将持续到 2025 年。]]></description>
       <guid>https://arstechnica.com/?p=2019664</guid>
       <pubDate>Wed, 24 Apr 2024 17:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新加州电动汽车电网可能耗资高达 200 亿美元</title>
-      <link>https://arstechnica.com/?p=2019669</link>
-      <description><![CDATA[在家中为电动汽车充电将超出大多数电力线的容量。]]></description>
-      <guid>https://arstechnica.com/?p=2019669</guid>
-      <pubDate>Wed, 24 Apr 2024 17:06:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

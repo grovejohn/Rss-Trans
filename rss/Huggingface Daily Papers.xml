@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>拥抱日报</title>
+    <title>Huggingface 日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 12:41:09 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 25 Apr 2024 13:11:17 GMT</lastBuildDate>
     <item>
       <title>Transformer 可以表示 $n$-gram 语言模型</title>
       <link>https://arxiv.org/abs/2404.14994</link>
-      <description><![CDATA[大量现有工作通过用形式计算模型描述变压器架构的表示能力来分析变压器架构的能力。然而，到目前为止，重点是从语言接受方面分析架构。我们认为，这在语言模型（LM）研究中是一个不合适的问题，语言模型在定义上是字符串上的概率分布。在本文中，我们重点关注 Transformer LM 和 n-gram LM 之间的关系，n-gram LM 是一类简单且与历史相关的语言模型。我们证明，使用硬注意力或稀疏注意力机制的 Transformer LM 可以精确地表示任何 n 元 LM，从而为我们提供了其概率表示能力的具体下限。这为理解 Transformer LM 可用来表示字符串概率分布的机制迈出了第一步。]]></description>
+      <description><![CDATA[大量现有工作通过用形式计算模型描述变压器架构的表示能力来分析变压器架构的能力。然而，到目前为止，重点是从语言接受方面分析架构。我们认为，这在语言模型（LM）研究中是一个不合适的问题，语言模型在定义上是字符串上的概率分布。在本文中，我们重点关注 Transformer LM 和 n-gram LM 之间的关系，n-gram LM 是一类简单且与历史相关的语言模型。我们证明，使用硬注意力或稀疏注意力机制的 Transformer LM 可以准确地表示任何 n 元 LM，从而为我们提供了其概率表示能力的具体下限。这为理解 Transformer LM 可用来表示字符串概率分布的机制迈出了第一步。]]></description>
       <guid>https://arxiv.org/abs/2404.14994</guid>
       <pubDate>Wed, 24 Apr 2024 03:50:26 GMT</pubDate>
     </item>
@@ -22,7 +22,7 @@
     <item>
       <title>Pegasus-v1 技术报告</title>
       <link>https://arxiv.org/abs/2404.14687</link>
-      <description><![CDATA[本技术报告介绍了 Pegasus-1，一种专门用于通过自然语言理解视频内容和交互的多模态语言模型。 Pegasus-1 旨在解决视频数据带来的独特挑战，例如解释时空信息，以提供各种长度的细致入微的视频内容理解。这份技术报告概述了 Pegasus-1 的架构、训练策略及其在视频对话、零样本视频问答和视频摘要基准测试中的表现。我们还探讨了 Pegasus-1 的定性特征，展示了其能力和局限性，以便为读者提供对其当前状态和未来方向的平衡看法。]]></description>
+      <description><![CDATA[本技术报告介绍了 Pegasus-1，这是一种专门用于通过自然语言理解视频内容和交互的多模态语言模型。 Pegasus-1 旨在解决视频数据带来的独特挑战，例如解释时空信息，以提供各种长度的细致入微的视频内容理解。这份技术报告概述了 Pegasus-1 的架构、训练策略及其在视频对话、零样本视频问答和视频摘要基准测试中的表现。我们还探讨了 Pegasus-1 的定性特征，展示了其能力和局限性，以便为读者提供对其当前状态和未来方向的平衡看法。]]></description>
       <guid>https://arxiv.org/abs/2404.14687</guid>
       <pubDate>Wed, 24 Apr 2024 01:59:40 GMT</pubDate>
     </item>
@@ -36,14 +36,14 @@
     <item>
       <title>OpenELM：具有开源训练和推理框架的高效语言模型系列</title>
       <link>https://arxiv.org/abs/2404.14619</link>
-      <description><![CDATA[大型语言模型的可重复性和透明度对于推进开放研究、确保结果的可信性以及对数据和模型偏差以及潜在风险的调查至关重要。为此，我们发布了 OpenELM，一种最先进的开放语言模型。 OpenELM 使用分层缩放策略来有效地分配变压器模型每一层内的参数，从而提高准确性。例如，在参数预算约为 10 亿个参数的情况下，OpenELM 与 OLMo 相比，精度提高了 2.36%，同时需要的预训练令牌减少了 2 倍。与之前仅提供模型权重和推理代码以及在私有数据集上进行预训练的做法不同，我们的版本包括在公开数据集上训练和评估语言模型的完整框架，包括训练日志、多个检查点和预训练。训练配置。我们还发布了将模型转换为 MLX 库的代码，以便在 Apple 设备上进行推理和微调。这一全面的发布旨在增强和加强开放研究社区，为未来的开放研究努力铺平道路。我们的源代码以及预训练的模型权重和训练配方可在 https://github.com/apple/corenet 上获取。此外，\model 模型可以在 HuggingFace 上找到：https://huggingface.co/apple/OpenELM。]]></description>
+      <description><![CDATA[大型语言模型的可重复性和透明度对于推进开放研究、确保结果的可靠性以及调查数据和模型偏差以及潜在风险至关重要。为此，我们发布了最先进的开放语言模型 OpenELM。OpenELM 使用分层缩放策略来高效分配 Transformer 模型每层内的参数，从而提高准确性。例如，在参数预算约为 10 亿个参数的情况下，OpenELM 与 OLMo 相比，准确度提高了 2.36%，同时所需的预训练 token 减少了 2 倍。与仅提供模型权重和推理代码并在私有数据集上进行预训练的先前做法不同，我们的发布包括在公开可用数据集上训练和评估语言模型的完整框架，包括训练日志、多个检查点和预训练配置。我们还发布了将模型转换为 MLX 库的代码，以便在 Apple 设备上进行推理和微调。此次全面发布旨在增强开放研究社区的力量，为未来的开放研究工作铺平道路。我们的源代码以及预训练模型权重和训练配方可在 https://github.com/apple/corenet 上找到。此外，\model 模型可在 HuggingFace 上找到：https://huggingface.co/apple/OpenELM。]]></description>
       <guid>https://arxiv.org/abs/2404.14619</guid>
       <pubDate>Wed, 24 Apr 2024 01:44:11 GMT</pubDate>
     </item>
     <item>
       <title>调整您的步骤：优化扩散模型中的采样计划</title>
       <link>https://arxiv.org/abs/2404.14507</link>
-      <description><![CDATA[扩散模型 (DM) 已成为视觉领域及其他领域最先进的生成建模方法。DM 的一个关键缺点是其采样速度慢，依赖于通过大型神经网络进行许多顺序函数评估。从 DM 采样可以看作是通过一组离散的噪声水平（称为采样时间表）求解微分方程。虽然过去的研究主要侧重于推导高效的求解器，但很少有人关注寻找最佳采样时间表，整个文献都依赖于手工制作的启发式方法。在这项工作中，我们首次提出了一种通用且有原则的方法来优化 DM 的采样时间表以获得高质量的输出，称为 Align Your Steps。我们利用随机微积分的方法，并找到特定于不同求解器、经过训练的 DM 和数据集的最佳时间表。我们使用各种不同的采样器在多个图像、视频以及 2D 玩具数据合成基准上评估了我们的新方法，并观察到我们的优化计划在几乎所有实验中都优于以前手工制作的计划。我们的方法展示了采样计划优化尚未开发的潜力，尤其是在几步合成机制中。]]></description>
+      <description><![CDATA[扩散模型 (DM) 已成为视觉领域及其他领域最先进的生成建模方法。 DM 的一个关键缺点是采样速度慢，依赖于通过大型神经网络进行的许多顺序函数评估。从 DM 采样可以被视为通过一组离散化的噪声水平（称为采样计划）求解微分方程。虽然过去的工作主要集中在推导有效的求解器，但很少关注寻找最佳采样计划，并且整个文献都依赖于手工设计的启发式方法。在这项工作中，我们首次提出了一种通用且有原则的方法来优化 DM 的采样计划以获得高质量的输出，称为“对齐您的步骤”。我们利用随机微积分的方法，找到针对不同求解器、经过训练的 DM 和数据集的最佳调度。我们使用各种不同的采样器在多个图像、视频以及 2D 玩具数据合成基准上评估我们的新颖方法，并观察到我们的优化计划在几乎所有实验中都优于以前手工制作的计划。我们的方法展示了采样计划优化的未开发潜力，特别是在少步合成机制中。]]></description>
       <guid>https://arxiv.org/abs/2404.14507</guid>
       <pubDate>Wed, 24 Apr 2024 01:40:49 GMT</pubDate>
     </item>
