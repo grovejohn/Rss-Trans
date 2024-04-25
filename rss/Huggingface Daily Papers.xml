@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 23:13:05 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 25 Apr 2024 23:37:04 GMT</lastBuildDate>
     <item>
       <title>MoDE：通过聚类获得 CLIP 数据专家</title>
       <link>https://arxiv.org/abs/2404.16030</link>
@@ -41,7 +41,7 @@
       <pubDate>Thu, 25 Apr 2024 17:44:33 GMT</pubDate>
     </item>
     <item>
-      <title>BASS：分批注意力优化推测采样</title>
+      <title>BASS：批量注意力优化推测采样</title>
       <link>https://arxiv.org/abs/2404.15778</link>
       <description><![CDATA[推测性解码已成为改善托管大型语言模型的延迟和吞吐量的强大方法。然而，大多数现有的实现都集中于生成单个序列。现实世界的生成式人工智能应用程序通常需要多个响应，如何在批量设置中执行推测性解码，同时保留其延迟优势带来了不小的挑战。本文描述了一种批量推测解码系统，该系统在多序列生成延迟方面设定了新的技术水平，并展示了卓越的 GPU 利用率以及时间预算内的生成质量。例如，对于单个 A100 GPU 上的 7.8B 大小的模型，批量大小为 8，每个序列的生成速度平均为每个令牌 5.8 毫秒，总体吞吐量为每秒 1.1K 个令牌。这些结果代表了最先进的延迟，并且比优化的常规解码速度提高了 2.15 倍。在常规解码无法完成的时间预算内，我们的系统能够生成 HumanEval Pass@First 为 43% 和 Pass@All 为 61% 的序列，远远超过单序列推测解码的可行性。我们在解码过程中的峰值 GPU 利用率高达 15.8%，是常规解码最高利用率的 3 倍以上，是单序列推测解码最高利用率的 10 倍左右。]]></description>
       <guid>https://arxiv.org/abs/2404.15778</guid>
