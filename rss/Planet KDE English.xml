@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Apr 2024 00:57:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 08:36:37 GMT</lastBuildDate>
+    <item>
+      <title>混合 C++ 和 Rust 以获得乐趣和利润：第 3 部分</title>
+      <link>https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 25 Apr 2024 07:00:10 GMT</pubDate>
+    </item>
     <item>
       <title>柏林超级冲刺赛回顾</title>
       <link>https://pointieststick.com/2024/04/24/berlin-mega-sprint-recap/?utm_source=atom_feed</link>
@@ -51,9 +58,10 @@
     <item>
       <title>2024 年 4 月微风图标更新 – 为您献上一颗小小的心！</title>
       <link>https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed</link>
-      <description><![CDATA[
+      <description><![CDATA[&lt; div 类 =“wp-block-embed__wrapper”&gt;
 
-大家好！这里有一个新的视频解释我们所做的更改。这次我们解决了 Labplot、地图和媒体图标！你能相信吗？我们现在已经正式完成了图标的一半。太令人兴奋了！]]></description>
+
+大家好！这是我们所做的更改的新视频解释。这次我们解决了 Labplot、地图和媒体图标！你相信吗？我们现在正式超过了图标的中间位置。太令人兴奋了！]]></description>
       <guid>https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed</guid>
       <pubDate>Thu, 18 Apr 2024 00:57:00 GMT</pubDate>
     </item>
@@ -82,13 +90,6 @@ Foldermodel：通过拖动和复制将 URL 导出到桌面门户。 提交。
 查看完整变更日志]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.0.4/?utm_source=atom_feed</guid>
       <pubDate>Tue, 16 Apr 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 24.02.2 发布</title>
-      <link>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 15 Apr 2024 13:53:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
