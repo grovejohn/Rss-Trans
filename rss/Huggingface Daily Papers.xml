@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 16:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 17:13:32 GMT</lastBuildDate>
     <item>
       <title>MotionMaster：用于视频生成的免训练相机运动传输</title>
       <link>https://arxiv.org/abs/2404.15789</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 25 Apr 2024 15:28:40 GMT</pubDate>
     </item>
     <item>
-      <title>PuLID：通过对比对齐实现 Pure 和 Lightning ID 定制</title>
+      <title>PuLID：通过对比对齐进行 Pure 和 Lightning ID 定制</title>
       <link>https://arxiv.org/abs/2404.16022</link>
       <description><![CDATA[我们提出了 Pure 和 Lightning ID 定制（PuLID），这是一种用于文本到图像生成的新颖的免调整 ID 定制方法。通过将 Lightning T2I 分支与标准扩散分支相结合，PuLID 引入了对比对准损失和精确 ID 损失，最大限度地减少对原始模型的破坏并确保高 ID 保真度。实验表明，PuLID 在 ID 保真度和可编辑性方面均取得了优异的性能。 PuLID 的另一个吸引人的特性是 ID 插入前后的图像元素（例如背景、灯光、构图和风格）尽可能保持一致。代码和模型将在 https://github.com/ToTheBeginning/PuLID 上提供]]></description>
       <guid>https://arxiv.org/abs/2404.16022</guid>
