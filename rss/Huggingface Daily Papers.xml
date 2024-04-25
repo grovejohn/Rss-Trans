@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Huggingface 日报</title>
+    <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 25 Apr 2024 17:35:35 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 25 Apr 2024 18:15:57 GMT</lastBuildDate>
+    <item>
+      <title>BASS：批量注意力优化推测采样</title>
+      <link>https://arxiv.org/abs/2404.15778</link>
+      <description><![CDATA[推测性解码已成为改善托管大型语言模型的延迟和吞吐量的强大方法。然而，大多数现有的实现都集中于生成单个序列。现实世界的生成式人工智能应用程序通常需要多个响应，如何在批量设置中执行推测性解码，同时保留其延迟优势带来了不小的挑战。本文描述了一种批量推测解码系统，该系统在多序列生成延迟方面设定了新的技术水平，并展示了卓越的 GPU 利用率以及时间预算内的生成质量。例如，对于单个 A100 GPU 上的 7.8B 大小的模型，批量大小为 8，每个序列的生成速度平均为每个令牌 5.8 毫秒，总体吞吐量为每秒 1.1K 个令牌。这些结果代表了最先进的延迟，并且比优化的常规解码速度提高了 2.15 倍。在常规解码无法完成的时间预算内，我们的系统能够生成 HumanEval Pass@First 为 43% 和 Pass@All 为 61% 的序列，远远超过单序列推测解码的可行性。我们在解码过程中的峰值 GPU 利用率高达 15.8%，是常规解码最高利用率的 3 倍以上，是单序列推测解码最高利用率的 10 倍左右。]]></description>
+      <guid>https://arxiv.org/abs/2404.15778</guid>
+      <pubDate>Thu, 25 Apr 2024 17:30:25 GMT</pubDate>
+    </item>
     <item>
       <title>MotionMaster：用于视频生成的免训练相机运动传输</title>
       <link>https://arxiv.org/abs/2404.15789</link>
@@ -22,7 +29,7 @@
     <item>
       <title>ID-Aligner：通过奖励反馈学习增强保留身份的文本到图像的生成</title>
       <link>https://arxiv.org/abs/2404.15449</link>
-      <description><![CDATA[传播模型的快速发展引发了各种应用。身份保留的文本到图像生成 (ID-T2I) 尤其受到广泛关注，因为它具有广泛的应用场景，如 AI 肖像和广告。虽然现有的 ID-T2I 方法已经取得了令人印象深刻的成果，但仍存在几个关键挑战：（1）很难准确地保持参考肖像的身份特征，（2）生成的图像缺乏美感，尤其是在强制身份保留时，（3）存在不能同时与基于 LoRA 和基于 Adapter 的方法兼容的限制。为了解决这些问题，我们提出了 ID-Aligner，这是一个通用的反馈学习框架，可以增强 ID-T2I 的性能。为了解决身份特征丢失的问题，我们引入了身份一致性奖励微调，利用人脸检测和识别模型的反馈来改进生成的身份保留。此外，我们提出了身份美学奖励微调，利用来自人工注释的偏好数据的奖励和自动构建的角色结构生成反馈来提供美学调整信号。得益于其通用的反馈微调框架，我们的方法可以很容易地应用于 LoRA 和 Adapter 模型，实现一致的性能提升。在 SD1.5 和 SDXL 扩散模型上进行的大量实验验证了我们方法的有效性。项目页面：\url{https://idaligner.github.io/}]]></description>
+      <description><![CDATA[扩散模型的快速发展引发了多样化的应用。身份保留文本到图像生成（ID-T2I）因其广泛的应用场景（例如人工智能肖像和广告）而受到广泛关注。虽然现有的 ID-T2I 方法已经展示了令人印象深刻的结果，但仍然存在一些关键挑战：（1）很难准确地保持参考肖像的身份特征，（2）生成的图像缺乏审美吸引力，特别是在执行身份保留时，以及（3） ）存在无法同时兼容基于LoRA和基于Adapter的方法的限制。为了解决这些问题，我们提出了 ID-Aligner，这是一个用于增强 ID-T2I 性能的通用反馈学习框架。为了解决身份特征丢失的问题，我们引入了身份一致性奖励微调，以利用人脸检测和识别模型的反馈来改善生成的身份保留。此外，我们提出身份美学奖励微调，利用人类注释的偏好数据的奖励和自动构建的角色结构生成反馈来提供美学调整信号。得益于其通用反馈微调框架，我们的方法可以轻松应用于 LoRA 和 Adapter 模型，从而实现一致的性能增益。 SD1.5 和 SDXL 扩散模型的大量实验验证了我们方法的有效性。项目页面：\url{https://idaligner.github.io/}]]></description>
       <guid>https://arxiv.org/abs/2404.15449</guid>
       <pubDate>Thu, 25 Apr 2024 15:02:19 GMT</pubDate>
     </item>
