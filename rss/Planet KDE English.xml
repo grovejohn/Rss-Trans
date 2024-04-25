@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 24 Apr 2024 12:55:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 00:57:16 GMT</lastBuildDate>
+    <item>
+      <title>柏林超级冲刺赛回顾</title>
+      <link>https://pointieststick.com/2024/04/24/berlin-mega-sprint-recap/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/04/24/berlin-mega-sprint-recap/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 25 Apr 2024 00:16:01 GMT</pubDate>
+    </item>
     <item>
       <title>Plasma 6.0 及更高版本中的 PowerDevil</title>
       <link>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</link>
@@ -23,7 +30,7 @@
     <item>
       <title>创建 KDE Gear 24.05 分支</title>
       <link>https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed</link>
-      <description><![CDATA[确保您向他们提交了您想要在 KDE Gear 24.05 中最终发布的所有内容下一个日期&lt; li&gt;2024 年 4 月 25 日：24.05 冻结和 Beta (24.04.80) 标签&amp;发布 2024 年 5 月 9 日：24.05 RC (24.04.90) 标记和发布2024 年 5 月 16 日：24.05 标记2024 年 5 月 23 日：24.05发布https://community.kde.org/时间表/KDE_Gear_24.05_Schedule]]></description>
+      <description><![CDATA[确保您向他们提交了您想要在 KDE Gear 24.05 版本中完成的所有内容下一个日期&lt; li&gt;2024 年 4 月 25 日：24.05 冻结和 Beta (24.04.80) 标签&amp;发布 2024 年 5 月 9 日：24.05 RC (24.04.90) 标记和发布2024 年 5 月 16 日：24.05 标记2024 年 5 月 23 日：24.05发布https://community.kde.org/时间表/KDE_Gear_24.05_Schedule]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 21 Apr 2024 10:39:00 GMT</pubDate>
     </item>
@@ -44,10 +51,9 @@
     <item>
       <title>2024 年 4 月微风图标更新 – 为您献上一颗小小的心！</title>
       <link>https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed</link>
-      <description><![CDATA[&lt; div 类 =“wp-block-embed__wrapper”&gt;
+      <description><![CDATA[
 
-
-大家好！这是我们所做的更改的新视频解释。这次我们解决了 Labplot、地图和媒体图标！你相信吗？我们现在正式超过了图标的中间位置。太令人兴奋了！]]></description>
+大家好！这里有一个新的视频解释我们所做的更改。这次我们解决了 Labplot、地图和媒体图标！你能相信吗？我们现在已经正式完成了图标的一半。太令人兴奋了！]]></description>
       <guid>https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed</guid>
       <pubDate>Thu, 18 Apr 2024 00:57:00 GMT</pubDate>
     </item>
@@ -83,16 +89,6 @@ Foldermodel：通过拖动和复制将 URL 导出到桌面门户。 提交。
       <description><![CDATA[]]></description>
       <guid>https://kdenlive.org/en/2024/04/kdenlive-24-02-2-released/?utm_source=atom_feed</guid>
       <pubDate>Mon, 15 Apr 2024 13:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 霓虹灯开门聊天</title>
-      <link>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 6 Megarelease 已经过去几周了，虽然很多人都觉得它运行良好，但 KDE neon 的推出过程中存在太多问题。
-我们将于明天（4 月 16 日星期二）在 KDE 上举办两场 Open Door Chat，用户可以与开发人员讨论您遇到的任何问题。
-https://meet.kde.org/b/jon-0yw- xqi-sk6 访问代码将发布在 KDE neon Telegram 群组和 Matrix 聊天室或发送电子邮件至 jr@jriddell.org
-2024 年 4 月 16 日星期二 09:00 UTC（10:00 BST、11:00 CEST）和 19:00 UTC（20:00 BST、21:00 CEST）聊天]]></description>
-      <guid>https://blog.neon.kde.org/2024/04/15/kde-neon-open-door-chat/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 15 Apr 2024 10:16:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
