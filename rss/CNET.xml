@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>CNET</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Thu, 25 Apr 2024 04:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 05:12:34 GMT</lastBuildDate>
+    <item>
+      <title>印第安纳州格林伍德最佳互联网提供商 - CNET</title>
+      <link>https://www.cnet.com/home/internet/best-internet-providers-in-greenwood-in/#ftag=CAD590a51e</link>
+      <description><![CDATA[由于光纤提供商的选择范围广泛，大多数格林伍德居民都有多种家庭互联网选择。]]></description>
+      <guid>https://www.cnet.com/home/internet/best-internet-providers-in-greenwood-in/#ftag=CAD590a51e</guid>
+      <pubDate>Thu, 25 Apr 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>今天的 Wordle 提示和解答：4 月 25 日的帮助，#1041 - CNET</title>
       <link>https://www.cnet.com/tech/todays-wordle-hints-and-answer-help-for-april-25-1041/#ftag=CAD590a51e</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[虽然 Meta Quest 3 耳机目前没有大幅折扣，但您仍然可以获得包括免费游戏等在内的优惠。]]></description>
       <guid>https://www.cnet.com/deals/best-meta-quest-3-deals/#ftag=CAD590a51e</guid>
       <pubDate>Wed, 24 Apr 2024 23:30:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11 的开始菜单很快就会出现广告：以下是关闭广告的方法 - CNET</title>
-      <link>https://www.cnet.com/tech/windows-11s-start-menu-will-soon-have-ads-heres-how-to-turn-them-off/#ftag=CAD590a51e</link>
-      <description><![CDATA[此更新目前是可选的，但下个月将开始向所有 Windows 11 用户推出。]]></description>
-      <guid>https://www.cnet.com/tech/windows-11s-start-menu-will-soon-have-ads-heres-how-to-turn-them-off/#ftag=CAD590a51e</guid>
-      <pubDate>Wed, 24 Apr 2024 23:20:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
