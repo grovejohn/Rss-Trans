@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 25 Apr 2024 13:11:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 14:10:00 GMT</lastBuildDate>
     <item>
-      <title>高通称低端骁龙 X Plus 芯片仍能超越苹果 M3</title>
+      <title>面对禁令，字节跳动加强对美国 TikTok 业务的控制</title>
+      <link>https://arstechnica.com/?p=2019930</link>
+      <description><![CDATA[随着应用程序所有权问题的紧张局势升级，TikTok 与字节跳动之间的关系不断加深。]]></description>
+      <guid>https://arstechnica.com/?p=2019930</guid>
+      <pubDate>Thu, 25 Apr 2024 13:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果星舰是真实的，我们将需要月球和火星上的大型货运车</title>
+      <link>https://arstechnica.com/?p=2019216</link>
+      <description><![CDATA[“我离开 SpaceX 时就知道星舰门的宽度。”]]></description>
+      <guid>https://arstechnica.com/?p=2019216</guid>
+      <pubDate>Thu, 25 Apr 2024 13:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>高通表示低端 Snapdragon X Plus 芯片仍能超越苹果 M3</title>
       <link>https://arstechnica.com/?p=2019890</link>
       <description><![CDATA[与 X Elite 相同的 NPU、相同的架构，但内核更少、时钟速度更低。]]></description>
       <guid>https://arstechnica.com/?p=2019890</guid>
@@ -50,7 +64,7 @@
     <item>
       <title>法庭上的 Deepfakes：美国司法小组讨论新的人工智能证据规则</title>
       <link>https://arstechnica.com/?p=2019174</link>
-      <description><![CDATA[由八名法官组成的小组面临可能破坏法律审判的深度伪造人工智能技术。]]></description>
+      <description><![CDATA[由八名法官组成的小组面临着可能破坏法律审判的深度伪造人工智能技术。]]></description>
       <guid>https://arstechnica.com/?p=2019174</guid>
       <pubDate>Wed, 24 Apr 2024 20:14:34 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[钱伯告诉法庭，非竞争条款“对雇主和工人都有利”。]]></description>
       <guid>https://arstechnica.com/?p=2019787</guid>
       <pubDate>Wed, 24 Apr 2024 19:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>100 小时后不再退款：Steam 关​​闭抢先体验游戏时间漏洞</title>
-      <link>https://arstechnica.com/?p=2019648</link>
-      <description><![CDATA[这在很大程度上是对诈骗者的胜利，但简单的政策并不适合所有游戏。]]></description>
-      <guid>https://arstechnica.com/?p=2019648</guid>
-      <pubDate>Wed, 24 Apr 2024 17:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌无法退出第三方cookie——延迟第三次被关闭</title>
-      <link>https://arstechnica.com/?p=2019664</link>
-      <description><![CDATA[谷歌表示，英国监管机构测试意味着该广告技术将持续到 2025 年。]]></description>
-      <guid>https://arstechnica.com/?p=2019664</guid>
-      <pubDate>Wed, 24 Apr 2024 17:30:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
