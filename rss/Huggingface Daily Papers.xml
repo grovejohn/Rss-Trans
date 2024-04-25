@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface 日报 - 由 RSSHub(https://github.com/DIYgod/RSSHub) 精心制作</description>
-    <lastBuildDate>Thu, 25 Apr 2024 08:36:45 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 25 Apr 2024 09:13:03 GMT</lastBuildDate>
     <item>
       <title>Transformer 可以表示 $n$-gram 语言模型</title>
       <link>https://arxiv.org/abs/2404.14994</link>
@@ -29,7 +29,7 @@
     <item>
       <title>多头专家混合</title>
       <link>https://arxiv.org/abs/2404.15045</link>
-      <description><![CDATA[稀疏专家混合 (SMoE) 可以在不显着增加训练和推理成本的情况下扩展模型容量，但存在以下两个问题：(1) 专家激活率低，仅激活一小部分专家进行优化。 (2)缺乏对单个token内多个语义概念的细粒度分析能力。我们提出多头专家混合（MH-MoE），它采用多头机制将每个令牌拆分为多个子令牌。然后，这些子代币被分配给一组不同的专家并行处理，并无缝地重新集成到原始代币形式中。多头机制使模型能够共同关注来自不同专家内的各种表示空间的信息，同时显着增强专家激活，从而加深上下文理解并缓解过度拟合。此外，我们的 MH-MoE 易于实现，并且与其他 SMoE 优化方法解耦，从而可以轻松与其他 SMoE 模型集成以增强性能。跨三个任务的广泛实验结果：以英语为中心的语言建模、多语言语言建模和 Masked 多模态建模任务，证明了 MH-MoE 的有效性。]]></description>
+      <description><![CDATA[稀疏混合专家 (SMoE) 可以在不显著增加训练和推理成本的情况下扩展模型容量，但存在以下两个问题：（1）专家激活度低，只有一小部分专家被激活进行优化。（2）缺乏对单个 token 中多个语义概念的细粒度分析能力。我们提出了多头混合专家 (MH-MoE)，它采用多头机制将每个 token 拆分为多个子 token。然后，这些子 token 被分配给一组不同的专家并由他们并行处理，然后无缝地重新集成到原始 token 形式中。多头机制使模型能够集体关注不同专家内来自各种表示空间的信息，同时显著增强专家激活，从而加深上下文理解并缓解过度拟合。此外，我们的 MH-MoE 易于实现，与其他 SMoE 优化方法分离，使其易于与其他 SMoE 模型集成以增强性能。针对三项任务的大量实验结果：以英语为中心的语言建模、多语言语言建模和掩蔽多模态建模任务，证明了 MH-MoE 的有效性。]]></description>
       <guid>https://arxiv.org/abs/2404.15045</guid>
       <pubDate>Wed, 24 Apr 2024 01:56:00 GMT</pubDate>
     </item>
