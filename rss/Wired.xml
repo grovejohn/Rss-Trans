@@ -4,11 +4,18 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 25 Apr 2024 14:10:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Apr 2024 14:36:06 GMT</lastBuildDate>
+    <item>
+      <title>如何在路由器上设置 VPN 来保护您的家庭 Wi-Fi 网络</title>
+      <link>https://www.wired.com/story/how-to-set-up-a-vpn-on-your-router/</link>
+      <description><![CDATA[通过在路由器上运行虚拟专用网络，为您的智能家居小工具、流媒体盒和家中的每台设备添加额外的安全性和隐私性。]]></description>
+      <guid>https://www.wired.com/story/how-to-set-up-a-vpn-on-your-router/</guid>
+      <pubDate>Thu, 25 Apr 2024 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Dreame X30 Ultra 评测：带有弯曲臂和可拆卸拖把垫的扫地机器人</title>
       <link>https://www.wired.com/review/dreame-x30-ultra-robot-vac-mop/</link>
-      <description><![CDATA[想要一个可以拖地的机器人真空吸尘器，但又不想让湿垫拖在地毯上？ Dreame X30 Ultra 是昂贵的解决方案。]]></description>
+      <description><![CDATA[想要一个可以拖地的扫地机器人，但又不想让湿垫拖在地毯上？ Dreame X30 Ultra 是昂贵的解决方案。]]></description>
       <guid>https://www.wired.com/review/dreame-x30-ultra-robot-vac-mop/</guid>
       <pubDate>Thu, 25 Apr 2024 14:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Atlus 承诺将于今年晚些时候推出的下一款游戏将成为其所有深受喜爱的角色扮演游戏的巅峰之作。]]></description>
       <guid>https://www.wired.com/story/metaphor-refantazio-steals-the-best-ideas-from-persona-5/</guid>
       <pubDate>Wed, 24 Apr 2024 20:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 如何在 150 亿英里之外修复航行者 1 号</title>
-      <link>https://www.wired.com/story/nasa-repair-voyager-1-spacecraft-data/</link>
-      <description><![CDATA[在一次故障导致数月的乱码之后，这艘远行的太空探测器再次传输可用数据。]]></description>
-      <guid>https://www.wired.com/story/nasa-repair-voyager-1-spacecraft-data/</guid>
-      <pubDate>Wed, 24 Apr 2024 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
