@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 26 Apr 2024 14:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 15:13:49 GMT</lastBuildDate>
     <item>
-      <title>尼克松政府本可以开始监测二氧化碳水平，但没有</title>
+      <title>20%的杂货店牛奶含有禽流感痕迹，表明疫情范围更广</title>
+      <link>https://arstechnica.com/?p=2020213</link>
+      <description><![CDATA[虽然这种牛奶仍被认为是安全的，但疾病专家对其流行程度感到震惊。]]></description>
+      <guid>https://arstechnica.com/?p=2020213</guid>
+      <pubDate>Fri, 26 Apr 2024 14:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>失去的机会：我们本可以在 1971 年就开始应对气候变化</title>
       <link>https://arstechnica.com/?p=2020216</link>
       <description><![CDATA[尼克松总统的科学顾问建议建立全球二氧化碳监测网络。]]></description>
       <guid>https://arstechnica.com/?p=2020216</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>科技品牌正在迫使人工智能进入你的小工具——无论你是否要求它</title>
       <link>https://arstechnica.com/?p=2019927</link>
-      <description><![CDATA[“人工智能鼠标”仅仅是一个开始。]]></description>
+      <description><![CDATA[“AI鼠标”只是一个开始。]]></description>
       <guid>https://arstechnica.com/?p=2019927</guid>
       <pubDate>Thu, 25 Apr 2024 22:34:04 GMT</pubDate>
     </item>
@@ -57,23 +64,16 @@
     <item>
       <title>经典电子游戏在线图书馆可以合法吗？</title>
       <link>https://arstechnica.com/?p=2020063</link>
-      <description><![CDATA[保护主义者提出限制访问，但业界担心免费的“在线游戏厅”。]]></description>
+      <description><![CDATA[保护主义者提议限制访问，但业界担心免费的“网上游乐场”。]]></description>
       <guid>https://arstechnica.com/?p=2020063</guid>
       <pubDate>Thu, 25 Apr 2024 19:31:24 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 24.04 LTS，Noble Numbat，彻底改变了其安装和应用程序体验</title>
+      <title>Ubuntu 24.04 LTS，Noble Numbat，彻底改进了其安装和应用体验</title>
       <link>https://arstechnica.com/?p=2020002</link>
       <description><![CDATA[另外还支持 Raspberry Pi 5、更强大的笔记本电脑功能以及许多其他变化。]]></description>
       <guid>https://arstechnica.com/?p=2020002</guid>
       <pubDate>Thu, 25 Apr 2024 18:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 USB 蠕虫病毒的创建者将其置之死地数年之后，仍有数百万 IP 地址受到感染</title>
-      <link>https://arstechnica.com/?p=2020055</link>
-      <description><![CDATA[PlugX 蠕虫病毒的生存能力带来了一个令人烦恼的困境：删除它还是保留它。]]></description>
-      <guid>https://arstechnica.com/?p=2020055</guid>
-      <pubDate>Thu, 25 Apr 2024 18:49:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
