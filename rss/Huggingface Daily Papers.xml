@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 02:22:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 02:38:02 GMT</lastBuildDate>
     <item>
       <title>MoDE：通过聚类获得 CLIP 数据专家</title>
       <link>https://arxiv.org/abs/2404.16030</link>
@@ -13,7 +13,7 @@
       <pubDate>Thu, 25 Apr 2024 18:10:52 GMT</pubDate>
     </item>
     <item>
-      <title>CatLIP：在 Web 规模图像文本数据上实现 CLIP 级视觉识别准确率，预训练速度提升 2.7 倍</title>
+      <title>CatLIP：CLIP 级视觉识别精度，网络规模图像文本数据预训练速度提高 2.7 倍</title>
       <link>https://arxiv.org/abs/2404.15653</link>
       <description><![CDATA[对比学习已成为一种通过图像和文本嵌入的对齐来学习有效视觉表示的变革方法。然而，图像和文本对之间的对比损失中的成对相似性计算提出了计算挑战。本文提出了一种基于网络规模图像文本数据的视觉模型的新型弱监督预训练。该方法将图像文本数据的预训练重新定义为分类任务。因此，它消除了对比损失中成对相似性计算的需要，与网络规模数据的对比学习相比，训练速度显着提高了 2.7 倍。通过跨越不同视觉任务（包括检测和分割）的广泛实验，我们证明所提出的方法保持了较高的表示质量。我们的源代码以及预训练的模型权重和训练配方可在 https://github.com/apple/corenet 上获取。]]></description>
       <guid>https://arxiv.org/abs/2404.15653</guid>
