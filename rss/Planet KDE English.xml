@@ -4,7 +4,73 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Apr 2024 22:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 10:38:41 GMT</lastBuildDate>
+    <item>
+      <title>热点 v1.5.0 发布</title>
+      <link>https://www.kdab.com/hotspot-v1-5-0-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Hotspot 是一个独立的 GUI，旨在提供用户友好的界面来分析性能数据。它采用 perf.data 文件，解析和评估其内容，并以视觉上有吸引力且易于理解的方式呈现结果。我们 Hotspot 的目标是提供性能报告的现代替代方案，使 Linux 系统上的性能分析更加直观和高效。
+Hotspot v1.5.0 变更日志
+它包含大量代码清理、错误修复和新功能。最值得注意的是，反汇编视图得到了进一步改进，具有更好的搜索、突出显示和更快的性能。
+
+此外，我们重新设计了身份验证机制，允许通过 pkexec 以提升的权限直接运行 perf record，从而废弃了容易出错的旧机制（另请参阅&lt; a href=&quot;https://nvd.nist.gov/vuln/detail/CVE-2023-28144&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;https://nvd.nist.gov/vuln/detail/CVE -2023-28144）。
+我们现在还完全支持 Qt6 和 KF6，同时保持与 Qt5 和 KF5 的兼容性。下面的 AppImage 仍然是使用 Qt5 构建的，但这可能是我们最后一次这样做。下一个版本可能只是Qt6。
+非常感谢通过编写代码和报告错误来帮助构建此软件的各种贡献者。
+要更详细地了解此新版本中的所有更改，请查看完整的 GitHub 上的变更日志。有关 Hotspot 的更多信息，请访问其 GitHub 页面 或观看 此视频。
+祝大家分析愉快🚀
+
+关于 KDAB
+
+如果您喜欢本文并想阅读类似材料，请考虑通过我们的 RSS feed 订阅&lt; /a&gt;.
+订阅KDAB TV以获取类似的信息丰富的短视频内容。 
+KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/OpenGL 中进行训练。 联系我们。
+
+ 
+帖子Hotspot v1.5.0 已发布首先出现在 &lt; a href=&quot;https://www.kdab.com&quot; target=&quot;_blank&quot;&gt;KDAB。]]></description>
+      <guid>https://www.kdab.com/hotspot-v1-5-0-released/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 26 Apr 2024 10:30:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年目标冲刺</title>
+      <link>https://blog.david-redondo.de/kde/2024/04/26/goals-sprint.html?utm_source=atom_feed</link>
+      <description><![CDATA[从上周五到周三，我在柏林参加 2024 年 KDE 综合目标赛
+MBition 盛情主办了 sprint。与之前的目标冲刺相比
+有单独的冲刺今年的目标不同，因为这三个冲刺都发生了
+立即在同一区域。这使得与会者可以自由地切换不同的
+主题并提供更多合作机会。让我们看看效果如何
+我。
+我的大部分时间实际上都花在了可访问性目标上。我变成了
+QML 组合框的一般情况和 Kirigami 附加组件如何更新的讨论的一部分
+辅助功能部门缺少选择器。当讨论转向如何
+标准组合框的默认表示可以改进，问题
+如果仍然有可能为定制做一些特殊的事情，则提出
+组合框。这导致使用第一种方法在日期选择器上进行原型设计
+放弃 QtQuick 中的内置支持并实现相关接口
+像 QtWidgets 那样手动操作。这是很多无聊的样板代码
+但事实证明，这个选项适用于非常特殊的用例。
+我们最终为我们的用例提出的解决方案是提供所需的
+向辅助工具公开实际控件的代理项中的属性和角色。
+在自动化方面，我参与创建了两项新的 CI 检查。首先
+一种是重用 lint 检查，仅检查新文件的合规性，从而使
+旧项目至少要强制覆盖新文件。第二个是一个想法
+在 sprint 期间出现的问题是我们可以检测 QML 文件中未翻译的字符串
+因为这些通常是 text 属性。虽然它永远无法捕获期间的所有情况
+测试中我们已经在 Plasma 存储库中发现了一些有问题的情况。我们还讨论了
+想法列表中的其他一些要点，例如像 Qt 项目这样的精选机器人
+使用并自动更新 bugzilla 上的修复版本字段，但这些无害
+看起来问题有一些极端情况，需要更多的思考。
+对于可持续软件目标，我贡献最少。但和阿莱克斯在一起
+和 Joseph 我们调试了为什么 KDE Eco Lab 机器的 VNC 设置不起作用
+不再并修复它。所以最终我与这三个目标都进行了互动。
+联合冲刺是一次很好的经历，并促进了许多关于
+目标，但一如既往地也涉及其他 KDE 主题，这在 KDE 时是不可避免的
+社区成员被集中在一个房间里。不过我觉得当它启用时
+人们会跳过不同的目标 我很谨慎，在我看来，这种设置会消除一点
+与专门的冲刺相比，每个目标的重点。
+感谢 Mbition 接待我们，并提醒您向 KDE e.V 捐款
+让这样的冲刺成为可能。]]></description>
+      <guid>https://blog.david-redondo.de/kde/2024/04/26/goals-sprint.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 26 Apr 2024 09:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kubuntu 24.04 LTS Noble Numbat 发布</title>
       <link>https://kubuntu.org/news/kubuntu-24-04-lts-noble-numbat-released/?utm_source=atom_feed</link>
@@ -39,7 +105,7 @@ Haruna、Krita、Kdevelop、Yakuake 以及更多应用程序已更新。
       <title>Plasma 6.0 及更高版本中的 PowerDevil</title>
       <link>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</link>
       <description><![CDATA[大家好，我是 Jakob，这是我的新 KDE 博客。让我们看看情况如何，因为我已经有几十年没有写博客了。
-我从去年的某个时候开始从事 Plasma 代码的工作，希望能像许多其他出色且专注的贡献者每周所做的那样，为统治世界奠定基础，改善用户体验，发挥一小部分作用。]]></description>
+我从去年的某个时候开始从事 Plasma 代码的工作，希望能像许多其他出色且专注的贡献者每周所做的那样，在为统治世界奠定基础、改善用户体验方面发挥一小部分作用。]]></description>
       <guid>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</guid>
       <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     </item>
@@ -65,32 +131,11 @@ Haruna、Krita、Kdevelop、Yakuake 以及更多应用程序已更新。
       <pubDate>Fri, 19 Apr 2024 21:18:21 GMT</pubDate>
     </item>
     <item>
-      <title>网络评论，第 2024-16 周</title>
+      <title>网络评论，2024-16 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/04/19/web-review-week-2024-16/?utm_source=atom_feed</guid>
       <pubDate>Fri, 19 Apr 2024 13:23:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 4 月微风图标更新 – 为您献上一颗小小的心！</title>
-      <link>https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed</link>
-      <description><![CDATA[&lt; div 类=“wp-block-embed__wrapper”&gt;
-
-
-大家好！这是我们所做的更改的新视频解释。这次我们解决了 Labplot、地图和媒体图标！你相信吗？我们现在正式超过了图标的中间位置。太令人兴奋了！]]></description>
-      <guid>https://anditosan.wordpress.com/2024/04/18/breeze-icon-updates-for-april-2024-with-a-little-heart-for-you/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 18 Apr 2024 00:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Academy 2024：注册现已开放</title>
-      <link>https://akademy.kde.org/news/2024-04_akademy-2024-registration-now-open/?utm_source=atom_feed</link>
-      <description><![CDATA[Akademy 2024 将是一项混合活动，在德国维尔茨堡和在线上同时举行。
-来自全球 KDE 社区、更广泛的自由开源软件社区、当地组织和软件公司的数百名参与者将齐聚今年的 Akademy 2024 会议。该活动将于 9 月 7 日星期六至 9 月 12 日星期四在维尔茨堡在线举行。
-来自世界各地的 KDE 开发者、艺术家、设计师、翻译者、用户、作家、赞助商和支持者将面对面讨论关键技术问题、探索新想法并加强 KDE 的创新和充满活力的文化。
-立即注册并加入我们，参加精彩的讲座、研讨会、BoF 和编码会议。与其他 KDE 贡献者合作修复错误、开发新功能并沉浸在开源世界中。
-有关会议的更多信息，请访问 Akademy 2024 网站。]]></description>
-      <guid>https://akademy.kde.org/news/2024-04_akademy-2024-registration-now-open/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Apr 2024 06:12:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
