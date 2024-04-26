@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Fri, 26 Apr 2024 19:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 20:13:32 GMT</lastBuildDate>
     <item>
       <title>重新审视 Gecko 的文本到图像评估：关于指标、提示和人类评级</title>
       <link>https://arxiv.org/abs/2404.16820</link>
@@ -27,7 +27,7 @@
       <pubDate>Fri, 26 Apr 2024 04:11:25 GMT</pubDate>
     </item>
     <item>
-      <title>ConsistentID：使用多模态细粒度身份保留技术生成肖像</title>
+      <title>ConsolidatedID：具有多模式细粒度身份保护的肖像生成</title>
       <link>https://arxiv.org/abs/2404.16771</link>
       <description><![CDATA[基于扩散的技术已经取得了重大进展，特别是在个性化和定制的面部生成方面。然而，现有方法在实现高保真和详细的身份（ID）一致性方面面临挑战，这主要是由于对面部区域的细粒度控制不足，并且缺乏充分考虑复杂的面部细节和整体面部的全面的身份保存策略。为了解决这些限制，我们引入了 ConcientID，这是一种创新方法，专门用于在细粒度多模态面部提示下生成多样化身份保留的肖像，仅利用单个参考图像。 ConsolidatedID 包含两个关键组件：一个多模态面部提示生成器，它结合了面部特征、相应的面部描述和整体面部上下文，以提高面部细节的精确度；以及通过面部注意力定位策略优化的 ID 保存网络，旨在保持 ID 一致性在面部区域。这些组件通过引入来自面部区域的细粒度多模态 ID 信息，显着提高了 ID 保存的准确性。为了促进ConstantID的训练，我们提出了一个细粒度的肖像数据集FGID，其中包含超过500,000张面部图像，比现有的公共面部数据集提供了更大的多样性和全面性。 % 例如 LAION-Face、CelebA、FFHQ 和 SFHQ。实验结果证实，我们的 ConcientID 在个性化面部生成方面实现了卓越的精度和多样性，超越了 MyStyle 数据集中的现有方法。此外，虽然ConstantID引入了更多的多模态ID信息，但它在生成过程中保持了快速的推理速度。]]></description>
       <guid>https://arxiv.org/abs/2404.16771</guid>
@@ -41,7 +41,7 @@
       <pubDate>Fri, 26 Apr 2024 03:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>层跳跃：启用提前退出推理和自推测解码</title>
+      <title>层跳过：实现早期退出推理和自我推测解码</title>
       <link>https://arxiv.org/abs/2404.16710</link>
       <description><![CDATA[我们推出了 LayerSkip，这是一种用于加速大型语言模型 (LLM) 推理的端到端解决方案。首先，在训练期间，我们应用层丢失，早期层的丢失率较低，后面层的丢失率较高，以及所有变压器层共享相同出口的早期退出损失。其次，在推理过程中，我们表明这种训练方法提高了早期层提前退出的准确性，而无需向模型添加任何辅助层或模块。第三，我们提出了一种新颖的自推测解码解决方案，我们在早期层退出并验证和纠正模型的其余层。我们提出的自推测解码方法比其他推测解码方法具有更少的内存占用，并且受益于草稿和验证阶段的共享计算和激活。我们在不同类型的训练中对不同大小的 Llama 模型进行实验：从头开始预训练、持续预训练、特定数据域的微调以及特定任务的微调。我们实现了推理解决方案，并在 CNN/DM 文档的摘要方面显示了高达 2.16 倍的加速，在编码方面加速了 1.82 倍，在 TOPv2 语义解析任务上加速了 2.0 倍。]]></description>
       <guid>https://arxiv.org/abs/2404.16710</guid>
@@ -71,7 +71,7 @@
     <item>
       <title>Interactive3D：通过交互式 3D 生成创建您想要的内容</title>
       <link>https://arxiv.org/abs/2404.16510</link>
-      <description><![CDATA[3D 对象生成已取得重大进展，并产生了高质量的结果。然而，由于未能实现精确的用户控制，通常产生的结果与用户期望不符，从而限制了它们的适用性。由于交互能力有限，用户设想的 3D 对象生成在使用当前生成模型实现其概念时面临重大挑战。现有方法主要提供两种方法：(i) 以受限的可控性解释文本指令，或 (ii) 从 2D 图像重建 3D 对象。它们都将定制限制在 2D 参考的范围内，并可能在 3D 提升过程中引入不良伪影，从而限制了直接和多功能 3D 修改的范围。在这项工作中，我们介绍了 Interactive3D，这是一个用于交互式 3D 生成的创新框架，它通过广泛的 3D 交互功能让用户精确控制生成过程。Interactive3D 由两个级联阶段构建，利用不同的 3D 表示。第一阶段采用高斯 Splatting 进行直接用户交互，允许在任何中间步骤通过 (i) 添加和删除组件、(ii) 可变形和刚性拖动、(iii) 几何变换和 (iv) 语义编辑修改和指导生成方向。随后，将高斯 Splat 转换为 InstantNGP。我们引入了一个新颖的 (v) 交互式哈希细化模块，以在第二阶段进一步添加细节并提取几何图形。我们的实验表明，Interactive3D 显著提高了 3D 生成的可控性和质量。我们的项目网页位于 https://interactive-3d.github.io/。]]></description>
+      <description><![CDATA[3D 对象生成取得了显着进步，产生了高质量的结果。然而，无法实现精确的用户控制，通常会产生与用户期望不符的结果，从而限制了它们的适用性。由于交互能力有限，用户想象的 3D 对象生成在使用当前的生成模型实现其概念时面临着重大挑战。现有方法主要提供两种方法：（i）解释具有受限可控性的文本指令，或（ii）从 2D 图像重建 3D 对象。它们都将定制限制在 2D 参考范围内，并可能在 3D 提升过程中引入不良伪影，从而限制了直接和通用 3D 修改的范围。在这项工作中，我们介绍了 Interactive3D，这是一种用于交互式 3D 生成的创新框架，可让用户通过广泛的 3D 交互功能精确控制生成过程。 Interactive3D 通过两个级联阶段构建，利用不同的 3D 表示。第一阶段采用高斯溅射进行直接用户交互，允许在任何中间步骤修改和指导生成方向，通过（i）添加和删除组件，（ii）可变形和刚性拖动，（iii）几何变换，以及（iv）语义编辑。随后，高斯图被转换为 InstantNGP。我们引入了一种新颖的 (v) 交互式哈希细化模块，以在第二阶段进一步添加细节并提取几何图形。我们的实验表明，Interactive3D 显着提高了 3D 生成的可控性和质量。我们的项目网页位于 https://interactive-3d.github.io/。]]></description>
       <guid>https://arxiv.org/abs/2404.16510</guid>
       <pubDate>Fri, 26 Apr 2024 01:51:11 GMT</pubDate>
     </item>
