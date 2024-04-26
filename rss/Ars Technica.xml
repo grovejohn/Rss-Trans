@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 26 Apr 2024 18:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 19:36:15 GMT</lastBuildDate>
+    <item>
+      <title>黑客进行了数百万次尝试利用 WordPress 插件漏洞</title>
+      <link>https://arstechnica.com/?p=2020304</link>
+      <description><![CDATA[WP 自动插件已修补，但发行说明没有提及关键修复。]]></description>
+      <guid>https://arstechnica.com/?p=2020304</guid>
+      <pubDate>Fri, 26 Apr 2024 19:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国电网继续降低排放——其他一切，但幅度不大</title>
+      <link>https://arstechnica.com/?p=2020298</link>
+      <description><![CDATA[排除大流行年份，排放量低于 20 世纪 80 年代以来的水平。]]></description>
+      <guid>https://arstechnica.com/?p=2020298</guid>
+      <pubDate>Fri, 26 Apr 2024 18:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息抓取、用户跟踪服务 Spy Pet 被 Discord 关闭</title>
+      <link>https://arstechnica.com/?p=2020247</link>
+      <description><![CDATA[机器人驱动的服务还连接到目标骚扰网站 Kiwi Farms。]]></description>
+      <guid>https://arstechnica.com/?p=2020247</guid>
+      <pubDate>Fri, 26 Apr 2024 18:06:28 GMT</pubDate>
+    </item>
     <item>
       <title>教授称，TikTok 所有者对美国禁令提出强有力的第一修正案诉讼</title>
       <link>https://arstechnica.com/?p=2020276</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[“这是我们发射准备工作的重要组成部分。”]]></description>
       <guid>https://arstechnica.com/?p=2019995</guid>
       <pubDate>Fri, 26 Apr 2024 11:00:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯独自否决了联合国关于太空核武器的决议</title>
-      <link>https://arstechnica.com/?p=2020070</link>
-      <description><![CDATA[“美国评估俄罗斯正在开发一颗携带核装置的新卫星。”]]></description>
-      <guid>https://arstechnica.com/?p=2020070</guid>
-      <pubDate>Thu, 25 Apr 2024 23:09:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技品牌正在迫使人工智能进入你的小工具——无论你是否要求它</title>
-      <link>https://arstechnica.com/?p=2019927</link>
-      <description><![CDATA[“AI鼠标”只是一个开始。]]></description>
-      <guid>https://arstechnica.com/?p=2019927</guid>
-      <pubDate>Thu, 25 Apr 2024 22:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>三名女性因在无证水疗中心进行肮脏的“吸血鬼面部护理”而感染艾滋病毒</title>
-      <link>https://arstechnica.com/?p=2020165</link>
-      <description><![CDATA[五名与该水疗中心有联系的患者的病毒基因序列非常匹配。]]></description>
-      <guid>https://arstechnica.com/?p=2020165</guid>
-      <pubDate>Thu, 25 Apr 2024 21:37:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
