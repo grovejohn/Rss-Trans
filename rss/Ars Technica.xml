@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 26 Apr 2024 19:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 20:38:17 GMT</lastBuildDate>
     <item>
-      <title>黑客进行了数百万次尝试利用 WordPress 插件漏洞</title>
+      <title>Android TV 可以访问您的整个帐户，但 Google 正在改变这一点</title>
+      <link>https://arstechnica.com/?p=2020252</link>
+      <description><![CDATA[在旧智能电视上侧载 Chrome 真的会损害您的整个帐户吗？]]></description>
+      <guid>https://arstechnica.com/?p=2020252</guid>
+      <pubDate>Fri, 26 Apr 2024 19:35:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客试图利用 WordPress 插件漏洞，该漏洞非常严重</title>
       <link>https://arstechnica.com/?p=2020304</link>
       <description><![CDATA[WP 自动插件已修补，但发行说明没有提及关键修复。]]></description>
       <guid>https://arstechnica.com/?p=2020304</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[尼克松总统的科学顾问建议建立全球二氧化碳监测网络。]]></description>
       <guid>https://arstechnica.com/?p=2020216</guid>
       <pubDate>Fri, 26 Apr 2024 14:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rocket Report：SLS 裁员；新格伦号将于初秋推出</title>
-      <link>https://arstechnica.com/?p=2019995</link>
-      <description><![CDATA[“这是我们发射准备工作的重要组成部分。”]]></description>
-      <guid>https://arstechnica.com/?p=2019995</guid>
-      <pubDate>Fri, 26 Apr 2024 11:00:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
