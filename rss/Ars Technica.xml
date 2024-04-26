@@ -4,11 +4,18 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 26 Apr 2024 15:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Apr 2024 16:16:27 GMT</lastBuildDate>
+    <item>
+      <title>据报道 Switch 2 用磁性附件取代了滑入式 Joy-Con</title>
+      <link>https://arstechnica.com/?p=2020227</link>
+      <description><![CDATA[设计选择可能会对当前 Joy-Con 兼容性产生影响。]]></description>
+      <guid>https://arstechnica.com/?p=2020227</guid>
+      <pubDate>Fri, 26 Apr 2024 15:23:20 GMT</pubDate>
+    </item>
     <item>
       <title>20%的杂货店牛奶含有禽流感痕迹，表明疫情范围更广</title>
       <link>https://arstechnica.com/?p=2020213</link>
-      <description><![CDATA[虽然这种牛奶仍被认为是安全的，但疾病专家对其流行程度感到震惊。]]></description>
+      <description><![CDATA[这种牛奶仍然被认为是安全的，但疾病专家对这种牛奶的流行感到震惊。]]></description>
       <guid>https://arstechnica.com/?p=2020213</guid>
       <pubDate>Fri, 26 Apr 2024 14:26:25 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 25 Apr 2024 21:37:54 GMT</pubDate>
     </item>
     <item>
-      <title>HMD 首款自有品牌手机售价均低于 200 美元</title>
+      <title>HMD 首批自有品牌手机售价均低于 200 美元</title>
       <link>https://arstechnica.com/?p=2019993</link>
       <description><![CDATA[HMD 仍将生产诺基亚手机，但也会销售自有品牌手机。]]></description>
       <guid>https://arstechnica.com/?p=2019993</guid>
@@ -62,18 +69,11 @@
       <pubDate>Thu, 25 Apr 2024 20:55:43 GMT</pubDate>
     </item>
     <item>
-      <title>经典电子游戏在线图书馆可以合法吗？</title>
+      <title>经典视频游戏的在线图书馆可以合法吗？</title>
       <link>https://arstechnica.com/?p=2020063</link>
-      <description><![CDATA[保护主义者提议限制访问，但业界担心免费的“网上游乐场”。]]></description>
+      <description><![CDATA[保护主义者提出限制访问，但业界担心免费的“在线游戏厅”。]]></description>
       <guid>https://arstechnica.com/?p=2020063</guid>
       <pubDate>Thu, 25 Apr 2024 19:31:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 24.04 LTS，Noble Numbat，彻底改进了其安装和应用体验</title>
-      <link>https://arstechnica.com/?p=2020002</link>
-      <description><![CDATA[另外还支持 Raspberry Pi 5、更强大的笔记本电脑功能以及许多其他变化。]]></description>
-      <guid>https://arstechnica.com/?p=2020002</guid>
-      <pubDate>Thu, 25 Apr 2024 18:59:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
