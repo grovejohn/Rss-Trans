@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface 日报 - 由 RSSHub(https://github.com/DIYgod/RSSHub) 精心制作</description>
-    <lastBuildDate>Fri, 26 Apr 2024 21:11:14 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Fri, 26 Apr 2024 21:36:38 GMT</lastBuildDate>
     <item>
       <title>重新审视 Gecko 的文本到图像评估：关于指标、提示和人类评级</title>
       <link>https://arxiv.org/abs/2404.16820</link>
@@ -43,7 +43,7 @@
     <item>
       <title>层跳跃：启用提前退出推理和自推测解码</title>
       <link>https://arxiv.org/abs/2404.16710</link>
-      <description><![CDATA[我们提出了 LayerSkip，这是一种端到端解决方案，用于加速大型语言模型 (LLM) 的推理。首先，在训练期间，我们应用层 dropout，较早层的 dropout 率较低，较晚层的 dropout 率较高，以及所有 Transformer 层共享相同出口的早期退出损失。其次，在推理期间，我们表明这种训练方法提高了早期层早期退出的准确性，而无需向模型添加任何辅助层或模块。第三，我们提出了一种新颖的自推测解码解决方案，我们在早期层退出并使用模型的其余层进行验证和纠正。我们提出的自推测解码方法比其他推测解码方法占用的内存更少，并且受益于草稿和验证阶段的共享计算和激活。我们对不同类型的训练在不同大小的 Llama 模型上进行实验：从头开始预训练、持续预训练、特定数据域的微调以及特定任务的微调。我们实现了我们的推理解决方案，并显示 CNN/DM 文档摘要的速度提高了 2.16 倍，编码的速度提高了 1.82 倍，TOPv2 语义解析任务的速度提高了 2.0 倍。]]></description>
+      <description><![CDATA[我们推出了 LayerSkip，这是一种用于加速大型语言模型 (LLM) 推理的端到端解决方案。首先，在训练期间，我们应用层丢失，早期层的丢失率较低，后面层的丢失率较高，以及所有变压器层共享相同出口的早期退出损失。其次，在推理过程中，我们表明这种训练方法提高了早期层提前退出的准确性，而无需向模型添加任何辅助层或模块。第三，我们提出了一种新颖的自推测解码解决方案，我们在早期层退出并验证和纠正模型的其余层。我们提出的自推测解码方法比其他推测解码方法具有更少的内存占用，并且受益于草稿和验证阶段的共享计算和激活。我们在不同类型的训练中对不同大小的 Llama 模型进行实验：从头开始预训练、持续预训练、特定数据域的微调以及特定任务的微调。我们实现了推理解决方案，并在 CNN/DM 文档的摘要方面显示了高达 2.16 倍的加速，在编码方面加速了 1.82 倍，在 TOPv2 语义解析任务上加速了 2.0 倍。]]></description>
       <guid>https://arxiv.org/abs/2404.16710</guid>
       <pubDate>Fri, 26 Apr 2024 02:58:11 GMT</pubDate>
     </item>
