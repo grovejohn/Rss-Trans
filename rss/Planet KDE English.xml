@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 27 Apr 2024 04:35:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 06:36:13 GMT</lastBuildDate>
     <item>
       <title>本周 KDE：所有人的兆字节和千兆字节</title>
       <link>https://pointieststick.com/2024/04/26/this-week-in-kde-megabytes-and-gigabytes-for-all/?utm_source=atom_feed</link>
@@ -47,10 +47,10 @@ KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/Open
       <title>2024 年目标冲刺</title>
       <link>https://blog.david-redondo.de/kde/2024/04/26/goals-sprint.html?utm_source=atom_feed</link>
       <description><![CDATA[从上周五到周三，我在柏林参加 2024 年 KDE 综合目标赛
-MBition 慷慨地主办了 sprint。与之前的目标冲刺相比
+MBition 盛情主办了 sprint。与之前的目标冲刺相比
 有单独的冲刺今年的目标不同，因为这三个冲刺都发生了
 立即在同一区域。这使得与会者可以自由地切换不同的
-主题并提供更多合作机会。让我们看看结果如何
+主题并提供更多合作机会。让我们看看效果如何
 我。
 我的大部分时间实际上都花在了可访问性目标上。我变成了
 QML 组合框的一般情况和 Kirigami 附加组件如何更新的讨论的一部分
@@ -119,7 +119,7 @@ Haruna、Krita、Kdevelop、Yakuake 以及更多应用程序已更新。
       <title>Plasma 6.0 及更高版本中的 PowerDevil</title>
       <link>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</link>
       <description><![CDATA[大家好，我是 Jakob，这是我的新 KDE 博客。让我们看看情况如何，因为我已经有几十年没有写博客了。
-我从去年的某个时候开始从事 Plasma 代码的工作，希望能像许多其他出色且专注的贡献者每周所做的那样，为统治世界奠定基础，改善用户体验，发挥一小部分作用。]]></description>
+我从去年的某个时候开始从事 Plasma 代码的工作，希望能像许多其他出色且专注的贡献者每周所做的那样，在为统治世界奠定基础、改善用户体验方面发挥一小部分作用。]]></description>
       <guid>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</guid>
       <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     </item>
