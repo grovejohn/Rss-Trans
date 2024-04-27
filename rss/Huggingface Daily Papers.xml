@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sat, 27 Apr 2024 18:14:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 18:36:56 GMT</lastBuildDate>
     <item>
       <title>重新审视 Gecko 的文本到图像评估：关于指标、提示和人类评级</title>
       <link>https://arxiv.org/abs/2404.16820</link>
@@ -71,7 +71,7 @@
     <item>
       <title>Interactive3D：通过交互式 3D 生成创建您想要的内容</title>
       <link>https://arxiv.org/abs/2404.16510</link>
-      <description><![CDATA[3D 对象生成已取得重大进展，并产生了高质量的结果。然而，由于未能实现精确的用户控制，通常产生的结果与用户期望不符，从而限制了它们的适用性。由于交互能力有限，用户设想的 3D 对象生成在使用当前生成模型实现其概念时面临重大挑战。现有方法主要提供两种方法：(i) 以受限的可控性解释文本指令，或 (ii) 从 2D 图像重建 3D 对象。它们都将定制限制在 2D 参考的范围内，并可能在 3D 提升过程中引入不良伪影，从而限制了直接和多功能 3D 修改的范围。在这项工作中，我们介绍了 Interactive3D，这是一个用于交互式 3D 生成的创新框架，它通过广泛的 3D 交互功能让用户精确控制生成过程。Interactive3D 由两个级联阶段构建，利用不同的 3D 表示。第一阶段采用高斯 Splatting 进行直接用户交互，允许在任何中间步骤通过 (i) 添加和删除组件、(ii) 可变形和刚性拖动、(iii) 几何变换和 (iv) 语义编辑修改和指导生成方向。随后，将高斯 Splat 转换为 InstantNGP。我们引入了一个新颖的 (v) 交互式哈希细化模块，以在第二阶段进一步添加细节并提取几何图形。我们的实验表明，Interactive3D 显著提高了 3D 生成的可控性和质量。我们的项目网页位于 https://interactive-3d.github.io/。]]></description>
+      <description><![CDATA[3D 对象生成取得了显着进步，产生了高质量的结果。然而，无法实现精确的用户控制，通常会产生与用户期望不符的结果，从而限制了它们的适用性。由于交互能力有限，用户想象的 3D 对象生成在使用当前的生成模型实现其概念时面临着重大挑战。现有方法主要提供两种方法：（i）解释具有受限可控性的文本指令，或（ii）从 2D 图像重建 3D 对象。它们都将定制限制在 2D 参考范围内，并可能在 3D 提升过程中引入不良伪影，从而限制了直接和通用 3D 修改的范围。在这项工作中，我们介绍了 Interactive3D，这是一种用于交互式 3D 生成的创新框架，可让用户通过广泛的 3D 交互功能精确控制生成过程。 Interactive3D 通过两个级联阶段构建，利用不同的 3D 表示。第一阶段采用高斯溅射进行直接用户交互，允许在任何中间步骤修改和指导生成方向，通过（i）添加和删除组件，（ii）可变形和刚性拖动，（iii）几何变换，以及（iv）语义编辑。随后，高斯图被转换为 InstantNGP。我们引入了一种新颖的 (v) 交互式哈希细化模块，以在第二阶段进一步添加细节并提取几何图形。我们的实验表明，Interactive3D 显着提高了 3D 生成的可控性和质量。我们的项目网页位于 https://interactive-3d.github.io/。]]></description>
       <guid>https://arxiv.org/abs/2404.16510</guid>
       <pubDate>Fri, 26 Apr 2024 01:51:11 GMT</pubDate>
     </item>
