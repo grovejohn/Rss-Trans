@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 27 Apr 2024 10:36:33 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Sat, 27 Apr 2024 11:10:01 GMT</lastBuildDate>
+    <item>
+      <title>三分之一的美国人生活在空气污染危险的地区</title>
+      <link>https://www.wired.com/story/one-in-three-americans-live-in-areas-with-dangerous-air-pollution/</link>
+      <description><![CDATA[气候变化正在增加人们遭受有害污染的天数，对本已处于不利地位的社区造成的影响最大。]]></description>
+      <guid>https://www.wired.com/story/one-in-three-americans-live-in-areas-with-dangerous-air-pollution/</guid>
+      <pubDate>Sat, 27 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>学校员工涉嫌用种族主义深造咆哮陷害校长</title>
       <link>https://www.wired.com/story/racist-deepfake-google-cookies-gm-driver-surveillance-security-roundup/</link>
@@ -22,14 +29,14 @@
     <item>
       <title>Roborock 的机器人吸尘器（包括 WIRED 的首选产品）现已发售</title>
       <link>https://www.wired.com/story/roborock-robot-vacuum-deals-april-2024/</link>
-      <description><![CDATA[更像机器人摇滚，我说得对吗？ （抱歉。）这些是周围最好的除尘器，而且比平常便宜。]]></description>
+      <description><![CDATA[更像机器人摇滚，对吗？ （抱歉。）这些是周围最好的除尘器，而且比平常便宜。]]></description>
       <guid>https://www.wired.com/story/roborock-robot-vacuum-deals-april-2024/</guid>
       <pubDate>Fri, 26 Apr 2024 22:36:11 GMT</pubDate>
     </item>
     <item>
       <title>特斯拉自动驾驶仪具有独特的风险——而且可能仍然存在</title>
       <link>https://www.wired.com/story/tesla-autopilot-risky-deaths-crashes-nhtsa-investigation/</link>
-      <description><![CDATA[在一份针对特斯拉自动驾驶仪相关事故和死亡事件的调查报告中，联邦监管机构得出的结论是，该系统缺乏标准保护。]]></description>
+      <description><![CDATA[在一份针对特斯拉自动驾驶仪相关事故和死亡的调查报告中，联邦监管机构得出的结论是，该系统缺乏标准保护。]]></description>
       <guid>https://www.wired.com/story/tesla-autopilot-risky-deaths-crashes-nhtsa-investigation/</guid>
       <pubDate>Fri, 26 Apr 2024 19:38:55 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 26 Apr 2024 19:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>亚马逊 Prime 上目前最好的 17 部电影</title>
+      <title>目前亚马逊 Prime 上最好的 17 部电影</title>
       <link>https://www.wired.com/story/best-amazon-prime-movies/</link>
       <description><![CDATA[从《Road House》到《Bottoms》，这些都是 Amazon Prime Video 上必看的电影。]]></description>
       <guid>https://www.wired.com/story/best-amazon-prime-movies/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>几十年来任天堂上传的 Garry 模组正在消失</title>
       <link>https://www.wired.com/story/garrys-mod-nintendo-takedowns/</link>
-      <description><![CDATA[任天堂再次展示其版权实力，在流行的游戏平台上提交了对用户生成内容的删除请求。]]></description>
+      <description><![CDATA[任天堂再次展示其版权实力，对该流行游戏平台上的用户生成内容提出删除请求。]]></description>
       <guid>https://www.wired.com/story/garrys-mod-nintendo-takedowns/</guid>
       <pubDate>Fri, 26 Apr 2024 18:22:41 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Fri, 26 Apr 2024 15:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>最佳 Govee 智能灯 (2024)：M1 灯带、Envisual T2 和更多提示</title>
+      <title>最佳 Govee 智能灯 (2024)：M1 灯条、Envisual T2 和更多提示</title>
       <link>https://www.wired.com/gallery/best-govee-smart-lights/</link>
-      <description><![CDATA[Govee 生产的智能灯价格实惠，但种类繁多，让人眼花缭乱。下面介绍如何为您的家选择合适的产品。]]></description>
+      <description><![CDATA[Govee 生产一些最实惠的智能灯，但其范围之广可能会让人不知所措和困惑。以下是如何选择适合您家的产品。]]></description>
       <guid>https://www.wired.com/gallery/best-govee-smart-lights/</guid>
       <pubDate>Fri, 26 Apr 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>16 款最佳 USB-C 线缆（2024 年）：适用于 iPhone、Android 手机、平板电脑和笔记本电脑</title>
-      <link>https://www.wired.com/gallery/best-usb-c-cables/</link>
-      <description><![CDATA[解开纠结的电线世界，找到为您的小工具充电和传输数据所需的电线。]]></description>
-      <guid>https://www.wired.com/gallery/best-usb-c-cables/</guid>
-      <pubDate>Fri, 26 Apr 2024 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
