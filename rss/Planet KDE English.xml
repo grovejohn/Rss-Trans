@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 27 Apr 2024 02:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 04:35:24 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：所有人的兆字节和千兆字节</title>
+      <link>https://pointieststick.com/2024/04/26/this-week-in-kde-megabytes-and-gigabytes-for-all/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/04/26/this-week-in-kde-megabytes-and-gigabytes-for-all/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 27 Apr 2024 04:20:40 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，2024-17 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/?utm_source=atom_feed</link>
@@ -129,13 +136,6 @@ Haruna、Krita、Kdevelop、Yakuake 以及更多应用程序已更新。
       <description><![CDATA[确保您向他们提交了您想要在 KDE Gear 24.05 版本中完成的所有内容下一个日期&lt; li&gt;2024 年 4 月 25 日：24.05 冻结和 Beta (24.04.80) 标签&amp;发布 2024 年 5 月 9 日：24.05 RC (24.04.90) 标记和发布2024 年 5 月 16 日：24.05 标记2024 年 5 月 23 日：24.05发布https://community.kde.org/时间表/KDE_Gear_24.05_Schedule]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/04/kde-gear-2405-branches-created.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 21 Apr 2024 10:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：冲刺、增强和烤肉串</title>
-      <link>https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/04/19/this-week-in-kde-sprints-enhancements-and-kebabs/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 19 Apr 2024 21:18:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
