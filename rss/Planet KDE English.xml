@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 27 Apr 2024 00:54:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2024 02:37:22 GMT</lastBuildDate>
     <item>
       <title>网络评论，2024-17 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/04/26/web-review-week-2024-17/?utm_source=atom_feed</link>
@@ -32,7 +32,7 @@ Hotspot v1.5.0 变更日志
 KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/OpenGL 中进行训练。 联系我们。
 
  
-帖子Hotspot v1.5.0 已发布首先出现在&lt; a href=&quot;https://www.kdab.com&quot; target=&quot;_blank&quot;&gt;KDAB。]]></description>
+帖子Hotspot v1.5.0 已发布首先出现在 &lt; a href=&quot;https://www.kdab.com&quot; target=&quot;_blank&quot;&gt;KDAB。]]></description>
       <guid>https://www.kdab.com/hotspot-v1-5-0-released/?utm_source=atom_feed</guid>
       <pubDate>Fri, 26 Apr 2024 10:30:06 GMT</pubDate>
     </item>
@@ -40,16 +40,16 @@ KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/Open
       <title>2024 年目标冲刺</title>
       <link>https://blog.david-redondo.de/kde/2024/04/26/goals-sprint.html?utm_source=atom_feed</link>
       <description><![CDATA[从上周五到周三，我在柏林参加 2024 年 KDE 综合目标赛
-MBition 盛情主办了 sprint。与之前的目标冲刺相比
+MBition 慷慨地主办了 sprint。与之前的目标冲刺相比
 有单独的冲刺今年的目标不同，因为这三个冲刺都发生了
 立即在同一区域。这使得与会者可以自由地切换不同的
 主题并提供更多合作机会。让我们看看结果如何
 我。
 我的大部分时间实际上都花在了可访问性目标上。我变成了
-QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部分
+QML 组合框的一般情况和 Kirigami 附加组件如何更新的讨论的一部分
 辅助功能部门缺少选择器。当讨论转向如何
 标准组合框的默认表示可以改进，问题
-如果仍然有可能为定制做一些特别的事情，则提出
+如果仍然有可能为定制做一些特殊的事情，则提出
 组合框。这导致使用第一种方法在日期选择器上进行原型设计
 放弃 QtQuick 中的内置支持并实现相关接口
 像 QtWidgets 那样手动操作。这是很多无聊的样板代码
@@ -62,7 +62,7 @@ QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部
 在 sprint 期间出现的问题是我们可以检测 QML 文件中未翻译的字符串
 因为这些通常是 text 属性。虽然它永远无法捕获期间的所有情况
 测试中我们已经在 Plasma 存储库中发现了一些有问题的情况。我们还讨论了
-想法列表中的一些其他要点，例如像 Qt 项目这样的精选机器人
+想法列表中的其他一些要点，例如像 Qt 项目这样的精选机器人
 使用并自动更新 bugzilla 上的修复版本字段，但这些无害
 看起来问题有一些极端情况，需要更多的思考。
 对于可持续软件目标，我贡献最少。但和阿莱克斯在一起
@@ -112,7 +112,7 @@ Haruna、Krita、Kdevelop、Yakuake 以及更多应用程序已更新。
       <title>Plasma 6.0 及更高版本中的 PowerDevil</title>
       <link>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</link>
       <description><![CDATA[大家好，我是 Jakob，这是我的新 KDE 博客。让我们看看情况如何，因为我已经有几十年没有写博客了。
-我从去年的某个时候开始从事 Plasma 代码的工作，希望能像许多其他出色且专注的贡献者每周所做的那样，在为统治世界奠定基础、改善用户体验方面发挥一小部分作用。]]></description>
+我从去年的某个时候开始从事 Plasma 代码的工作，希望能像许多其他出色且专注的贡献者每周所做的那样，为统治世界奠定基础，改善用户体验，发挥一小部分作用。]]></description>
       <guid>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</guid>
       <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     </item>
