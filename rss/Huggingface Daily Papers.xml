@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Huggingface 日报</title>
+    <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 28 Apr 2024 19:10:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 19:36:08 GMT</lastBuildDate>
     <item>
       <title>重新审视 Gecko 的文本到图像评估：关于指标、提示和人类评级</title>
       <link>https://arxiv.org/abs/2404.16820</link>
@@ -22,7 +22,7 @@
     <item>
       <title>NeRF-XL：使用多个 GPU 扩展 NeRF</title>
       <link>https://arxiv.org/abs/2404.16221</link>
-      <description><![CDATA[我们提出了 NeRF-XL，这是一种在多个 GPU 上分布神经辐射场 (NeRF) 的原理性方法，从而能够以任意大的容量训练和渲染 NeRF。我们首先重新审视现有的多 GPU 方法，将大场景分解为多个独立训练的 NeRF，并确定这些方法的几个基本问​​题，这些问题阻碍了在训练中使用额外计算资源 (GPU) 时重建质量的提高。NeRF-XL 解决了这些问题，并且只需使用更多硬件即可训练和渲染具有任意数量参数的 NeRF。我们方法的核心是一种新颖的分布式训练和渲染公式，它在数学上等同于经典的单 GPU 情况，并最大限度地减少了 GPU 之间的通信。通过解锁具有任意大参数数量的 NeRF，我们的方法首次揭示了 NeRF 的多 GPU 缩放定律，显示随着参数数量的增加重建质量有所提高，随着 GPU 数量的增加速度有所提高。我们在各种数据集上证明了 NeRF-XL 的有效性，包括迄今为止最大的开源数据集 MatrixCity，包含覆盖 25 平方公里城市区域的 258K 张图像。]]></description>
+      <description><![CDATA[我们提出了 NeRF-XL，这是一种在多个 GPU 上分布神经辐射场 (NeRF) 的原理方法，从而能够以任意大的容量训练和渲染 NeRF。我们首先重新审视现有的多 GPU 方法，这些方法将大场景分解为多个独立训练的 NeRF，并确定这些方法的几个基本问​​题，这些问题阻碍了重建质量的提高，因为在训练中使用了额外的计算资源 (GPU)。 NeRF-XL 解决了这些问题，只需使用更多硬件即可使用任意数量的参数来训练和渲染 NeRF。我们方法的核心在于一种新颖的分布式训练和渲染公式，它在数学上等同于经典的单 GPU 情况，并最大限度地减少了 GPU 之间的通信。通过解锁具有任意大参数数量的 NeRF，我们的方法是第一个揭示 NeRF 的多 GPU 缩放定律的方法，显示出通过更大的参数数量可以提高重建质量，并通过更多 GPU 来提高速度。我们展示了 NeRF-XL 在各种数据集上的有效性，包括迄今为止最大的开源数据集 MatrixCity，其中包含覆盖 25km^2 城市区域的 258K 图像。]]></description>
       <guid>https://arxiv.org/abs/2404.16221</guid>
       <pubDate>Fri, 26 Apr 2024 04:11:25 GMT</pubDate>
     </item>
@@ -41,7 +41,7 @@
       <pubDate>Fri, 26 Apr 2024 03:20:06 GMT</pubDate>
     </item>
     <item>
-      <title>层跳跃：启用提前退出推理和自推测解码</title>
+      <title>层跳过：实现早期退出推理和自我推测解码</title>
       <link>https://arxiv.org/abs/2404.16710</link>
       <description><![CDATA[我们推出了 LayerSkip，这是一种用于加速大型语言模型 (LLM) 推理的端到端解决方案。首先，在训练期间，我们应用层丢失，早期层的丢失率较低，后面层的丢失率较高，以及所有变压器层共享相同出口的早期退出损失。其次，在推理过程中，我们表明这种训练方法提高了早期层提前退出的准确性，而无需向模型添加任何辅助层或模块。第三，我们提出了一种新颖的自推测解码解决方案，我们在早期层退出并验证和纠正模型的其余层。我们提出的自推测解码方法比其他推测解码方法具有更少的内存占用，并且受益于草稿和验证阶段的共享计算和激活。我们在不同类型的训练中对不同大小的 Llama 模型进行实验：从头开始预训练、持续预训练、特定数据域的微调以及特定任务的微调。我们实现了推理解决方案，并在 CNN/DM 文档的摘要方面显示了高达 2.16 倍的加速，在编码方面加速了 1.82 倍，在 TOPv2 语义解析任务上加速了 2.0 倍。]]></description>
       <guid>https://arxiv.org/abs/2404.16710</guid>
