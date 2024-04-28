@@ -4,18 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 28 Apr 2024 10:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2024 12:47:03 GMT</lastBuildDate>
     <item>
       <title>下一个自由贸易区——北方</title>
       <link>http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed</link>
-      <description><![CDATA[今年的foss-north是第十次。我从 2013 年开始组织 foss-gbg，从 2016 年开始组织 foss-north（2020 年举办了两场活动，总共举办了十场）。这是一段相当长的旅程——在三个场地之间穿梭，与出色的演讲者和赞助商合作，找到应对这一流行病的方法，同时结识了很多人。
+      <description><![CDATA[今年的 foss-north 是第十届。我从 2013 年开始组织 foss-gbg，从 2016 年开始组织 foss-north（2020 年有两场活动，总共十场）。这是一段相当漫长的旅程 ——在三个会场之间往返，与出色的演讲者和赞助商合作，找到度过疫情的方法，同时结识了很多人。
 
-当 fscons 搬离城镇时，会议继续进行。 Henrik 帮助创办了 fscons，在 foss-north 的岁月里发挥了无价的作用。
+当 fscons 离开城镇时，会议仍在继续。 Henrik 帮助创办了 fscons，在 foss-north 期间发挥了重要作用。
 
-多年来，一直有很多人帮忙做一些事情，比如宣布演讲者、管理登记处、寻找演讲者和创建节目。托比亚斯（Tobias）是一直在场的人之一，他今年主持了大部分展会，并接管了主要组织者的角色。
-过去两年，私人生活一直很艰难，因此从北方自由贸易区退出的决定或多或少是不可避免的。因此，能够坐下来欣赏演出并知道托比亚斯对这项活动进行了很好的管理，这种感觉真是太棒了。
+多年来，有许多人帮助我宣布演讲者、负责注册等展位、寻找演讲者并制定计划。Tobias 是全程在场的人之一，他负责今年展会的大部分工作，并担任主要组织者。
+过去两年，他的私人生活一直很艰难，因此决定退出 foss-north 几乎是不可避免的。因此，能够坐下来欣赏这场演出，并知道这场活动在 Tobias 的精心安排下，感觉很棒。
 
-感谢大家的发言、访问、帮助和赞助 foss-north。明年的活动见。我将有比以往更多的时间交往！ ;-)]]></description>
+感谢大家的发言、访问、帮助和赞助 foss-north。明年的活动见。我将有比以往更多的时间与大家交流！;-)]]></description>
       <guid>http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed</guid>
       <pubDate>Sat, 27 Apr 2024 11:03:02 GMT</pubDate>
     </item>
@@ -109,16 +109,16 @@ QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部
     <item>
       <title>Kubuntu 24.04 LTS Noble Numbat 发布</title>
       <link>https://kubuntu.org/news/kubuntu-24-04-lts-noble-numbat-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Kubuntu 团队很高兴地宣布 Kubuntu 24.04 已经发布，具有“美丽”的KDE Plasma 5.27 默认简单，需要时功能强大。
-代号为“Noble Numbat”的 Kubuntu 24.04 延续了我们为您提供友好计算的传统，将最新和最优秀的开源技术集成到高质量、易于使用的 Linux 发行版中。
-在底层，许多核心软件包都进行了更新，包括一个新的基于 6.8 的内核，KDE Frameworks 5.115、KDE Plasma 5.27 和 KDE Gear 23.08。
-Kubuntu 24.04 带有 Plasma 5.27.11
-Kubuntu 已经看到许多其他应用程序的更新，无论是在我们的默认安装中，还是可从 Ubuntu 存档中安装。
-Haruna、Krita、Kdevelop、Yakuake 和许多其他应用程序都已更新。
-包括并更新了核心日常使用的应用程序，例如 Firefox 和 LibreOffice。
-如需查看其他应用程序更新和已知错误的列表，请务必阅读我们的发行说明。
-下载 Kubuntu 24.04，或了解如何从 23.10 或 22.04 升级LTS。
-注意：对于从 23.10 升级，官方发布公告和 Ubuntu 发布团队启用升级之间可能会有几个小时到几天的延迟。]]></description>
+      <description><![CDATA[Kubuntu 团队很高兴地宣布 Kubuntu 24.04 已经发布，其中包含“美丽的”功能。 KDE Plasma 5.27 默认情况下简单，需要时功能强大。
+代号为“Noble Numbat”的 Kubuntu 24.04 延续了我们的传统，即通过将最新、最好的开源技术集成到高质量、简单的环境中，为您提供友好计算。 -使用Linux发行版。
+在幕后，许多核心软件包都进行了更新，包括基于 6.8 的新内核，KDE 框架 5.115，KDE Plasma 5.27 和 KDE Gear 23.08 .
+Kubuntu 24.04 和 Plasma 5.27.11
+Kubuntu 已经看到了许多其他应用程序的更新，无论是在我们的默认安装中，还是可以从 Ubuntu 存档安装。
+Haruna、Krita、Kdevelop、Yakuake 以及更多应用程序已更新。
+包含并更新了核心日常使用的应用程序，例如 Firefox 和 LibreOffice。
+有关其他应用程序更新和已知错误的列表，请务必阅读我们的 发行说明。
+下载 Kubuntu 24.04，或 &lt; a href=&quot;https://help.ubuntu.com/community/NobleUpgrades/Kubuntu&quot; target=&quot;_blank&quot;&gt;了解如何从 23.10 或 22.04 LTS 升级。
+注意：对于从 23.10 开始的升级，官方发布公告与 Ubuntu 发行团队启用升级之间可能会有几个小时到几天的延迟.]]></description>
       <guid>https://kubuntu.org/news/kubuntu-24-04-lts-noble-numbat-released/?utm_source=atom_feed</guid>
       <pubDate>Thu, 25 Apr 2024 16:16:27 GMT</pubDate>
     </item>
@@ -139,8 +139,8 @@ Haruna、Krita、Kdevelop、Yakuake 和许多其他应用程序都已更新。
     <item>
       <title>Plasma 6.0 及更高版本中的 PowerDevil</title>
       <link>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</link>
-      <description><![CDATA[大家好，我是 Jakob，这是我的新 KDE 博客。让我们看看进展如何，因为我已经有几十年没有写博客了。
-去年某个时候，我开始研究 Plasma 代码，希望能为改善用户体验、统治世界奠定基础，就像其他许多优秀而敬业的贡献者每周所做的那样。]]></description>
+      <description><![CDATA[大家好，我是 Jakob，这是我的新 KDE 博客。让我们看看情况如何，因为我已经有几十年没有写博客了。
+我从去年的某个时候开始从事 Plasma 代码的工作，希望能像许多其他出色且专注的贡献者每周所做的那样，在为统治世界奠定基础、改善用户体验方面发挥一小部分作用。]]></description>
       <guid>https://blogs.kde.org/2024/04/23/powerdevil-in-plasma-6.0-and-beyond/?utm_source=atom_feed</guid>
       <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
     </item>
