@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Apr 2024 04:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 06:37:13 GMT</lastBuildDate>
     <item>
       <title>下一个自由贸易区——北方</title>
       <link>http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed</link>
@@ -77,7 +77,7 @@ MBition 盛情主办了 sprint。与之前的目标冲刺相比
 QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部分
 辅助功能部门缺少选择器。当讨论转向如何
 标准组合框的默认表示可以改进，问题
-如果仍然有可能为定制做一些特别的事情，则提出
+如果仍然可以为定制做一些特殊的事情，则提出
 组合框。这导致使用第一种方法在日期选择器上进行原型设计
 放弃 QtQuick 中的内置支持并实现相关接口
 手动，就像对 QtWidgets 所做的那样。这是很多无聊的样板代码
