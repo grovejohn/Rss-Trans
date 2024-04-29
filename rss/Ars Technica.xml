@@ -4,18 +4,32 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 29 Apr 2024 12:23:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 14:35:41 GMT</lastBuildDate>
+    <item>
+      <title>福特 BlueCruise 司机在 2 人死亡后协助接受联邦调查</title>
+      <link>https://arstechnica.com/?p=2020402</link>
+      <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 在夜间发生两起致命车祸后展开调查。]]></description>
+      <guid>https://arstechnica.com/?p=2020402</guid>
+      <pubDate>Mon, 29 Apr 2024 13:48:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta因未能采取足够措施阻止俄罗斯虚假信息而面临欧盟调查</title>
+      <link>https://arstechnica.com/?p=2020406</link>
+      <description><![CDATA[政治广告节制不足可能会破坏选举进程。]]></description>
+      <guid>https://arstechnica.com/?p=2020406</guid>
+      <pubDate>Mon, 29 Apr 2024 13:40:28 GMT</pubDate>
+    </item>
     <item>
       <title>第一篇文章：在线公共消息传递的历史</title>
       <link>https://arstechnica.com/?p=2017574</link>
-      <description><![CDATA[与我们一起了解消息传递平台及其多年来的演变。]]></description>
+      <description><![CDATA[从 BBS 到 Facebook，以下是消息传递平台多年来的变化。]]></description>
       <guid>https://arstechnica.com/?p=2017574</guid>
       <pubDate>Mon, 29 Apr 2024 11:30:13 GMT</pubDate>
     </item>
     <item>
       <title>游泳和旋转的水生蜘蛛使用灵活的生存策略</title>
       <link>https://arstechnica.com/?p=2020345</link>
-      <description><![CDATA[有些蝴蝶在贝壳里筑巢，有些蝴蝶背上带着气泡。]]></description>
+      <description><![CDATA[有些在贝壳内筑巢，有些则背着气泡。]]></description>
       <guid>https://arstechnica.com/?p=2020345</guid>
       <pubDate>Sun, 28 Apr 2024 11:11:16 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>美国宇航局仍然不明白猎户座隔热罩问题的根本原因</title>
       <link>https://arstechnica.com/?p=2020378</link>
-      <description><![CDATA[“当我们把它们整合在一起时，我们要么有飞行理由，要么没有。”]]></description>
+      <description><![CDATA[“当我们把它们拼凑在一起时，我们要么有飞行理由，要么没有。”]]></description>
       <guid>https://arstechnica.com/?p=2020378</guid>
       <pubDate>Sat, 27 Apr 2024 00:22:09 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[在旧智能电视上侧载 Chrome 真的会损害您的整个帐户吗？]]></description>
       <guid>https://arstechnica.com/?p=2020252</guid>
       <pubDate>Fri, 26 Apr 2024 19:35:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客试图利用 WordPress 插件漏洞，该漏洞非常严重</title>
-      <link>https://arstechnica.com/?p=2020304</link>
-      <description><![CDATA[WP 自动插件已修补，但发行说明没有提及关键修复。]]></description>
-      <guid>https://arstechnica.com/?p=2020304</guid>
-      <pubDate>Fri, 26 Apr 2024 19:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国电网继续降低排放——其他一切，但幅度不大</title>
-      <link>https://arstechnica.com/?p=2020298</link>
-      <description><![CDATA[排除大流行年份，排放量低于 20 世纪 80 年代以来的水平。]]></description>
-      <guid>https://arstechnica.com/?p=2020298</guid>
-      <pubDate>Fri, 26 Apr 2024 18:51:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
