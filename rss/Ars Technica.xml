@@ -4,11 +4,18 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 29 Apr 2024 05:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 12:23:44 GMT</lastBuildDate>
+    <item>
+      <title>第一篇文章：在线公共消息传递的历史</title>
+      <link>https://arstechnica.com/?p=2017574</link>
+      <description><![CDATA[与我们一起了解消息传递平台及其多年来的演变。]]></description>
+      <guid>https://arstechnica.com/?p=2017574</guid>
+      <pubDate>Mon, 29 Apr 2024 11:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>游泳和旋转的水生蜘蛛使用灵活的生存策略</title>
       <link>https://arstechnica.com/?p=2020345</link>
-      <description><![CDATA[有些在贝壳内筑巢，有些则背着气泡。]]></description>
+      <description><![CDATA[有些蝴蝶在贝壳里筑巢，有些蝴蝶背上带着气泡。]]></description>
       <guid>https://arstechnica.com/?p=2020345</guid>
       <pubDate>Sun, 28 Apr 2024 11:11:16 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[排除大流行年份，排放量低于 20 世纪 80 年代以来的水平。]]></description>
       <guid>https://arstechnica.com/?p=2020298</guid>
       <pubDate>Fri, 26 Apr 2024 18:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息抓取、用户跟踪服务 Spy Pet 被 Discord 关闭</title>
-      <link>https://arstechnica.com/?p=2020247</link>
-      <description><![CDATA[机器人驱动的服务还连接到目标骚扰网站 Kiwi Farms。]]></description>
-      <guid>https://arstechnica.com/?p=2020247</guid>
-      <pubDate>Fri, 26 Apr 2024 18:06:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
