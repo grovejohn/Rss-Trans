@@ -4,18 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Apr 2024 00:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 02:39:26 GMT</lastBuildDate>
     <item>
       <title>下一个自由贸易区——北方</title>
       <link>http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed</link>
-      <description><![CDATA[今年的foss-north是第十次。我从 2013 年开始组织 foss-gbg，从 2016 年开始组织 foss-north（2020 年举办了两场活动，总共举办了十场）。这是一段相当长的旅程——在三个场地之间穿梭，与出色的演讲者和赞助商合作，找到应对这一流行病的方法，同时结识了很多人。
+      <description><![CDATA[今年的 foss-north 是第十届。我从 2013 年开始组织 foss-gbg，从 2016 年开始组织 foss-north（2020 年有两场活动，总共十场）。这是一段相当漫长的旅程 ——在三个会场之间往返，与出色的演讲者和赞助商合作，找到度过疫情的方法，同时结识了很多人。
 
-当 fscons 搬离城镇时，会议继续进行。 Henrik 帮助创办了 fscons，在 foss-north 的岁月里发挥了无价的作用。
+当 fscons 离开城镇时，会议仍在继续。 Henrik 帮助创办了 fscons，在 foss-north 期间发挥了重要作用。
 
-多年来，一直有很多人帮忙做一些事情，比如宣布演讲者、管理登记处、寻找演讲者和创建节目。托比亚斯（Tobias）是一直在场的人之一，他今年主持了大部分展会，并接管了主要组织者的角色。
-过去两年，私人生活一直很艰难，因此从北方自由贸易区退出的决定或多或少是不可避免的。因此，能够坐下来欣赏演出并知道托比亚斯对这项活动进行了很好的管理，这种感觉真是太棒了。
+多年来，有许多人帮助我宣布演讲者、负责注册等展位、寻找演讲者并创建节目。Tobias 是一直在场的人之一，他负责今年展会的大部分工作，并担任主要组织者。
+过去两年，他的私人生活一直很艰难，因此决定退出 foss-north 几乎是不可避免的。因此，能够坐下来欣赏这场演出，并知道这场活动在 Tobias 的精心安排下，感觉很棒。
 
-感谢大家的发言、访问、帮助和赞助 foss-north。明年的活动见。我将有比以往更多的时间交往！ ;-)]]></description>
+感谢大家的发言、访问、帮助和赞助 foss-north。明年的活动见。我将有比以往更多的时间与大家交流！;-)]]></description>
       <guid>http://www.thelins.se/johan/blog/2024/04/the-next-foss-north/?utm_source=atom_feed</guid>
       <pubDate>Sat, 27 Apr 2024 11:03:02 GMT</pubDate>
     </item>
@@ -67,42 +67,15 @@ KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/Open
     <item>
       <title>2024 年目标冲刺</title>
       <link>https://blog.david-redondo.de/kde/2024/04/26/goals-sprint.html?utm_source=atom_feed</link>
-      <description><![CDATA[从上周五到周三，我在柏林参加 2024 年 KDE 综合目标赛
-MBition 盛情主办了 sprint。与之前的目标冲刺相比
-有单独的冲刺今年的目标不同，因为这三个冲刺都发生了
-立即在同一区域。这使得与会者可以自由地切换不同的
-主题并提供更多合作机会。让我们看看结果如何
-我。
-我的大部分时间实际上都花在了可访问性目标上。我变成了
-QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部分
-辅助功能部门缺少选择器。当讨论转向如何
-标准组合框的默认表示可以改进，问题
-如果仍然有可能为定制做一些特殊的事情，则提出
-组合框。这导致使用第一种方法在日期选择器上进行原型设计
-放弃 QtQuick 中的内置支持并实现相关接口
-像 QtWidgets 那样手动操作。这是很多无聊的样板代码
-但事实证明，这个选项适用于非常特殊的用例。
-我们最终为我们的用例提出的解决方案是提供所需的
-向辅助工具公开实际控件的代理项中的属性和角色。
-在自动化方面，我参与创建了两项新的 CI 检查。首先
-一种是重用 lint 检查，仅检查新文件的合规性，从而使
-旧项目至少要强制覆盖新文件。第二个是一个想法
-在 sprint 期间出现的问题是我们可以检测 QML 文件中未翻译的字符串
-因为这些通常是 text 属性。虽然它永远无法捕获期间的所有情况
-测试中我们已经在 Plasma 存储库中发现了一些有问题的情况。我们还讨论了
-想法列表中的其他一些要点，例如像 Qt 项目这样的精选机器人
-使用并自动更新 bugzilla 上的修复版本字段，但这些无害
-看起来问题有一些极端情况，需要更多的思考。
-对于可持续软件目标，我贡献最少。但和阿莱克斯在一起
-和 Joseph 我们调试了为什么 KDE Eco Lab 机器的 VNC 设置不起作用
-不再并修复它。所以最终我与这三个目标都进行了互动。
-联合冲刺是一次很好的经历，并促进了许多关于
-目标，但一如既往地也涉及其他 KDE 主题，这在 KDE 时是不可避免的
-社区成员被集中在一个房间里。不过我觉得当它启用时
-人们会跳过不同的目标 我很谨慎，在我看来，这种设置会消除一点
-与专门的冲刺相比，每个目标的重点。
-感谢 Mbition 接待我们，并提醒您向 KDE e.V 捐款
-让这样的冲刺成为可能。]]></description>
+      <description><![CDATA[从上周五到周三，我都在柏林参加由 MBition 慷慨主办的 2024 KDE 目标冲刺。与之前的目标冲刺（有单独的冲刺）相比，今年的目标有所不同，因为所有三个冲刺都在同一地区同时发生。这允许与会者自由切换不同的主题，并提供更多的协作机会。让我们看看这对我有什么作用。
+我的大部分时间实际上都花在了可访问性目标的背景下。我参与了一场关于 QML 组合框和 Kirigami Add-ons 日期选择器在可访问性方面的不足的讨论。当讨论如何改进标准组合框的默认表示时，提出了一个问题：是否仍然可以为自定义组合框做一些特别的事情。这导致在日期选择器上进行原型设计，第一种方法是放弃 QtQuick 中的内置支持并手动实现相关接口，就像对 QtWidgets 所做的那样。这是很多无聊的样板代码，但它证明了此选项可用于非常专业的用例。我们最终为我们的用例提出的解决方案是在代理项目中提供所需的属性和角色，该代理项目将实际控件公开给可访问性工具。
+在自动化方面，我参与创建了两个新的 CI 检查。第一个是重用 lint 检查，它只检查新文件的合规性，这使得旧项目至少可以强制覆盖新文件。第二个是在冲刺期间提出的一个想法，我们可以检测 QML 文件中未翻译的字符串，因为这些字符串通常属于 text 属性。虽然在测试期间它永远无法捕获所有情况，但我们已在 Plasma 存储库中发现了一些有问题的情况。我们还讨论了想法列表中的其他一些要点，例如 Qt Project 使用的挑选机器人和 Bugzilla 上的修复版本字段的自动更新，但这些看似无害的问题有一些需要更多思考的极端情况。
+对于可持续软件目标，我的贡献最少。但与 Aleix
+和 Joseph 一起，我们调试了 KDE Eco Lab 机器的 VNC 设置不再工作的原因并修复了它。所以最后我与所有三个目标进行了互动。
+联合冲刺是一次不错的体验，促进了许多关于目标的讨论，但一如既往，也促进了其他 KDE 主题的讨论，因为当 KDE 社区成员聚集在一个房间里时，这是不可避免的。然而，我觉得虽然它允许人们在不同的目标之间跳跃，但我担心，在我看来，与专门的冲刺相比，这种设置会稍微分散每个目标的注意力。
+感谢 Mbition 对我们的接待，并提醒您向 KDE e.V 捐款
+
+使这样的冲刺成为可能。]]></description>
       <guid>https://blog.david-redondo.de/kde/2024/04/26/goals-sprint.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 26 Apr 2024 09:15:00 GMT</pubDate>
     </item>
@@ -123,7 +96,7 @@ Haruna、Krita、Kdevelop、Yakuake 以及更多应用程序已更新。
       <pubDate>Thu, 25 Apr 2024 16:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>混合使用 C++ 和 Rust 以获得乐趣和收益：第 3 部分</title>
+      <title>混合 C++ 和 Rust 以获得乐趣和利润：第 3 部分</title>
       <link>https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/mixing-c-and-rust-for-fun-and-profit-part-3/?utm_source=atom_feed</guid>
