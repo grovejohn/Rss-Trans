@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Mon, 29 Apr 2024 22:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 23:37:14 GMT</lastBuildDate>
+    <item>
+      <title>笔记本电脑最佳优惠：MacBook、Surface、Acer 等产品可节省数百美元 - CNET</title>
+      <link>https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e</link>
+      <description><![CDATA[无论您正在寻找 500 美元以下的笔记本电脑，还是想在高端型号上节省 500 美元，这些都是一些最优惠的笔记本电脑。]]></description>
+      <guid>https://www.cnet.com/deals/best-laptop-deals/#ftag=CAD590a51e</guid>
+      <pubDate>Mon, 29 Apr 2024 22:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最佳智能家居设备 - CNET</title>
+      <link>https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e</link>
+      <description><![CDATA[使用经过我们专家审核的最佳智能家居设备，最大限度地提高您的家庭效率。]]></description>
+      <guid>https://www.cnet.com/home/smart-home/best-smart-home-devices/#ftag=CAD590a51e</guid>
+      <pubDate>Mon, 29 Apr 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>立即行动即可在亚马逊购买 Anker Space One 耳机 20% 折扣 - CNET</title>
       <link>https://www.cnet.com/deals/act-now-to-score-anker-space-one-headphones-for-20-off-at-amazon/#ftag=CAD590a51e</link>
@@ -50,7 +64,7 @@
     <item>
       <title>2024 年最佳身份盗窃保护和监控服务 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/best-identity-theft-protection/#ftag=CAD590a51e</link>
-      <description><![CDATA[如果您怀疑您的身份可能已被盗，这些身份盗用保护服务可以为您提供帮助。]]></description>
+      <description><![CDATA[如果您怀疑自己的身份可能被盗，这些身份盗窃保护服务可以为您提供帮助。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/best-identity-theft-protection/#ftag=CAD590a51e</guid>
       <pubDate>Mon, 29 Apr 2024 21:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[Siri 有一些您可能不知道的功能，特别是如果您运行的是 iOS 17。]]></description>
       <guid>https://www.cnet.com/tech/mobile/did-you-know-siri-could-do-this/#ftag=CAD590a51e</guid>
       <pubDate>Mon, 29 Apr 2024 20:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳跑步耳机和耳塞 - CNET</title>
-      <link>https://www.cnet.com/tech/mobile/best-running-headphones/#ftag=CAD590a51e</link>
-      <description><![CDATA[无论您是跑马拉松还是快跑，一副跑步耳机都能发挥作用。]]></description>
-      <guid>https://www.cnet.com/tech/mobile/best-running-headphones/#ftag=CAD590a51e</guid>
-      <pubDate>Mon, 29 Apr 2024 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>补水指南：每日饮水量需求说明 - CNET</title>
-      <link>https://www.cnet.com/health/medical/hydration-guide-your-daily-water-intake-needs-explained/#ftag=CAD590a51e</link>
-      <description><![CDATA[每天喝足够的水至关重要。这是您的身体需要多少。]]></description>
-      <guid>https://www.cnet.com/health/medical/hydration-guide-your-daily-water-intake-needs-explained/#ftag=CAD590a51e</guid>
-      <pubDate>Mon, 29 Apr 2024 19:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
