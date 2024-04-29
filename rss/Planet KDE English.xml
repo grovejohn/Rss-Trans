@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Apr 2024 18:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 20:13:09 GMT</lastBuildDate>
     <item>
       <title>KDE neon 后 Plasma 6 更新回顾</title>
       <link>https://blog.neon.kde.org/2024/04/29/kde-neon-post-plasma-6-updates-review/?utm_source=atom_feed</link>
@@ -20,6 +20,14 @@
 ]]></description>
       <guid>https://www.qt.io/blog/qt-visual-studio-tools-3.2.0-released?utm_source=atom_feed</guid>
       <pubDate>Mon, 29 Apr 2024 08:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amarok 3.0“漂流者”发布！</title>
+      <link>https://blogs.kde.org/2024/04/29/amarok-3.0-castaway-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Amarok 开发团队很高兴地宣布 Amarok 3.0“Castaway”立即可用！
+新的 3.0 是 Amarok 的第一个基于 Qt5/KDE Frameworks 5 的稳定版本，也是自 2018 年（当时基于 Qt4 的最终版本 2）以来的第一个稳定版本。]]></description>
+      <guid>https://blogs.kde.org/2024/04/29/amarok-3.0-castaway-released/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 29 Apr 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Fedora 40 中 Fedora Atomic 桌面的新增功能</title>
@@ -64,7 +72,7 @@
       <pubDate>Fri, 26 Apr 2024 10:37:17 GMT</pubDate>
     </item>
     <item>
-      <title>热点 v1.5.0 发布</title>
+      <title>Hotspot v1.5.0 发布</title>
       <link>https://www.kdab.com/hotspot-v1-5-0-released/?utm_source=atom_feed</link>
       <description><![CDATA[Hotspot 是一个独立的 GUI，旨在提供用户友好的界面来分析性能数据。它采用 perf.data 文件，解析和评估其内容，并以视觉上有吸引力且易于理解的方式呈现结果。我们 Hotspot 的目标是提供性能报告的现代替代方案，使 Linux 系统上的性能分析更加直观和高效。
 Hotspot v1.5.0 变更日志
@@ -83,7 +91,7 @@ Hotspot v1.5.0 变更日志
 KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/OpenGL 中进行训练。 联系我们。
 
  
-帖子Hotspot v1.5.0 已发布首先出现在 &lt; a href=&quot;https://www.kdab.com&quot; target=&quot;_blank&quot;&gt;KDAB。]]></description>
+帖子Hotspot v1.5.0 已发布首先出现在&lt; a href=&quot;https://www.kdab.com&quot; target=&quot;_blank&quot;&gt;KDAB。]]></description>
       <guid>https://www.kdab.com/hotspot-v1-5-0-released/?utm_source=atom_feed</guid>
       <pubDate>Fri, 26 Apr 2024 10:30:06 GMT</pubDate>
     </item>
@@ -91,19 +99,19 @@ KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/Open
       <title>2024 年目标冲刺</title>
       <link>https://blog.david-redondo.de/kde/2024/04/26/goals-sprint.html?utm_source=atom_feed</link>
       <description><![CDATA[从上周五到周三，我在柏林参加 2024 年 KDE 综合目标赛
-MBition 盛情主办了 sprint。与之前的目标冲刺相比
+MBition 慷慨地主办了 sprint。与之前的目标冲刺相比
 有单独的冲刺今年的目标不同，因为这三个冲刺都发生了
 立即在同一区域。这使得与会者可以自由地切换不同的
 主题并提供更多合作机会。让我们看看效果如何
 我。
 我的大部分时间实际上都花在了可访问性目标上。我变成了
-QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部分
+QML 组合框的一般情况和 Kirigami 附加组件如何更新的讨论的一部分
 辅助功能部门缺少选择器。当讨论转向如何
 标准组合框的默认表示可以改进，问题
-如果仍然有可能为定制做一些特别的事情，则提出
+如果仍然有可能为定制做一些特殊的事情，则提出
 组合框。这导致使用第一种方法在日期选择器上进行原型设计
 放弃 QtQuick 中的内置支持并实现相关接口
-手动，就像对 QtWidgets 所做的那样。这是很多无聊的样板代码
+像 QtWidgets 那样手动操作。这是很多无聊的样板代码
 但事实证明，这个选项适用于非常特殊的用例。
 我们最终为我们的用例提出的解决方案是提供所需的
 向辅助工具公开实际控件的代理项中的属性和角色。
@@ -128,14 +136,6 @@ QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部
 让这样的冲刺成为可能。]]></description>
       <guid>https://blog.david-redondo.de/kde/2024/04/26/goals-sprint.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 26 Apr 2024 09:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在实践中使用现代 QML 工具</title>
-      <link>https://www.basyskom.de/2024/how-to-use-modern-qml-tooling-in-practice/?utm_source=atom_feed</link>
-      <description><![CDATA[Qt 5.15 引入了“自动类型注册”。有了它，C++类可以被标记为“QML_ELEMENT”，以自动注册到QML引擎。 Qt 6 将其提升到了一个新的水平，并围绕所谓的 QML 模块构建了所有工具。让我们来谈谈这个新的基础设施对您的应用程序在实践中意味着什么，以及如何在现有项目中从中受益。
-继续阅读如何在 basysKom GmbH 实践中使用现代 QML 工具。]]></description>
-      <guid>https://www.basyskom.de/2024/how-to-use-modern-qml-tooling-in-practice/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 26 Apr 2024 07:37:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
