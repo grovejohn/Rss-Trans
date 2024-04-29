@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 29 Apr 2024 18:16:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 19:10:26 GMT</lastBuildDate>
     <item>
-      <title>主板制造商显然要为高端英特尔酷睿 i9 CPU 故障负责</title>
+      <title>客户表示 Meta 的广告购买人工智能在几个小时内就耗尽了预算</title>
+      <link>https://arstechnica.com/?p=2020445</link>
+      <description><![CDATA[根据你的观点，人工智能要么不起作用，要么效果太好。]]></description>
+      <guid>https://arstechnica.com/?p=2020445</guid>
+      <pubDate>Mon, 29 Apr 2024 18:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>主板制造商显然是高端英特尔酷睿 i9 CPU 故障的罪魁祸首</title>
       <link>https://arstechnica.com/?p=2020417</link>
       <description><![CDATA[主板制造商默认“禁用热量和电力传输保护措施”。]]></description>
       <guid>https://arstechnica.com/?p=2020417</guid>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 29 Apr 2024 15:05:54 GMT</pubDate>
     </item>
     <item>
-      <title>福特 BlueCruise 司机在 2 人死亡后协助接受联邦调查</title>
+      <title>福特 BlueCruise 驾驶辅助系统在造成两人死亡后受到联邦审查</title>
       <link>https://arstechnica.com/?p=2020402</link>
       <description><![CDATA[美国国家公路交通安全管理局 (NHTSA) 在夜间发生两起致命车祸后展开调查。]]></description>
       <guid>https://arstechnica.com/?p=2020402</guid>
@@ -43,12 +50,12 @@
     <item>
       <title>第一篇文章：在线公共消息传递的历史</title>
       <link>https://arstechnica.com/?p=2017574</link>
-      <description><![CDATA[从 BBS 到 Facebook，这些年来消息传递平台发生了怎样的变化。]]></description>
+      <description><![CDATA[从 BBS 到 Facebook，以下是消息传递平台多年来的变化。]]></description>
       <guid>https://arstechnica.com/?p=2017574</guid>
       <pubDate>Mon, 29 Apr 2024 11:30:13 GMT</pubDate>
     </item>
     <item>
-      <title>游泳和旋转的水生蜘蛛使用巧妙的生存策略</title>
+      <title>游泳和旋转的水生蜘蛛使用灵活的生存策略</title>
       <link>https://arstechnica.com/?p=2020345</link>
       <description><![CDATA[有些在贝壳内筑巢，有些则背着气泡。]]></description>
       <guid>https://arstechnica.com/?p=2020345</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[辐射 76 现在很好。其实，一直都很好。]]></description>
       <guid>https://arstechnica.com/?p=2019560</guid>
       <pubDate>Sat, 27 Apr 2024 11:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局仍然不明白猎户座隔热罩问题的根本原因</title>
-      <link>https://arstechnica.com/?p=2020378</link>
-      <description><![CDATA[“当我们把它们整合在一起时，我们要么有飞行理由，要么没有。”]]></description>
-      <guid>https://arstechnica.com/?p=2020378</guid>
-      <pubDate>Sat, 27 Apr 2024 00:22:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
