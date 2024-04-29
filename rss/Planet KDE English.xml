@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Apr 2024 15:13:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 16:37:23 GMT</lastBuildDate>
     <item>
       <title>KDE neon 后 Plasma 6 更新回顾</title>
       <link>https://blog.neon.kde.org/2024/04/29/kde-neon-post-plasma-6-updates-review/?utm_source=atom_feed</link>
@@ -93,7 +93,7 @@ MBition 盛情主办了 sprint。与之前的目标冲刺相比
 QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部分
 辅助功能部门缺少选择器。当讨论转向如何
 标准组合框的默认表示可以改进，问题
-如果仍然有可能为定制做一些特别的事情，则提出
+如果仍然有可能为定制做一些特殊的事情，则提出
 组合框。这导致使用第一种方法在日期选择器上进行原型设计
 放弃 QtQuick 中的内置支持并实现相关接口
 手动，就像对 QtWidgets 所做的那样。这是很多无聊的样板代码
@@ -133,16 +133,16 @@ QML 组合框一般情况和 Kirigami 附加组件如何更新的讨论的一部
     <item>
       <title>Kubuntu 24.04 LTS Noble Numbat 发布</title>
       <link>https://kubuntu.org/news/kubuntu-24-04-lts-noble-numbat-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Kubuntu 团队很高兴地宣布 Kubuntu 24.04 已经发布，其中包含“美丽的”功能。 KDE Plasma 5.27 默认情况下简单，需要时功能强大。
-代号为“Noble Numbat”的 Kubuntu 24.04 延续了我们的传统，即通过将最新、最好的开源技术集成到高质量、简单的环境中，为您提供友好计算。 -使用Linux发行版。
-在幕后，许多核心软件包都进行了更新，包括基于 6.8 的新内核，KDE 框架 5.115，KDE Plasma 5.27 和 KDE Gear 23.08 .
-Kubuntu 24.04 和 Plasma 5.27.11
-Kubuntu 已经看到了许多其他应用程序的更新，无论是在我们的默认安装中，还是可以从 Ubuntu 存档安装。
-Haruna、Krita、Kdevelop、Yakuake 以及更多应用程序已更新。
-包含并更新了核心日常使用的应用程序，例如 Firefox 和 LibreOffice。
-有关其他应用程序更新和已知错误的列表，请务必阅读我们的 发行说明。
-下载 Kubuntu 24.04，或 &lt; a href=&quot;https://help.ubuntu.com/community/NobleUpgrades/Kubuntu&quot; target=&quot;_blank&quot;&gt;了解如何从 23.10 或 22.04 LTS 升级。
-注意：对于从 23.10 开始的升级，官方发布公告与 Ubuntu 发行团队启用升级之间可能会有几个小时到几天的延迟.]]></description>
+      <description><![CDATA[Kubuntu 团队很高兴地宣布 Kubuntu 24.04 已经发布，具有“美丽”的KDE Plasma 5.27 默认简单，需要时功能强大。
+代号为“Noble Numbat”的 Kubuntu 24.04 延续了我们为您提供友好计算的传统，将最新和最优秀的开源技术集成到高质量、易于使用的 Linux 发行版中。
+在底层，许多核心软件包都进行了更新，包括一个新的基于 6.8 的内核，KDE Frameworks 5.115、KDE Plasma 5.27 和 KDE Gear 23.08。
+Kubuntu 24.04 带有 Plasma 5.27.11
+Kubuntu 已经看到许多其他应用程序的更新，无论是在我们的默认安装中，还是可从 Ubuntu 存档中安装。
+Haruna、Krita、Kdevelop、Yakuake 和许多其他应用程序都已更新。
+包括并更新了核心日常使用的应用程序，例如 Firefox 和 LibreOffice。
+如需查看其他应用程序更新和已知错误的列表，请务必阅读我们的发行说明。
+下载 Kubuntu 24.04，或了解如何从 23.10 或 22.04 升级LTS。
+注意：对于从 23.10 升级，官方发布公告和 Ubuntu 发布团队启用升级之间可能会有几个小时到几天的延迟。]]></description>
       <guid>https://kubuntu.org/news/kubuntu-24-04-lts-noble-numbat-released/?utm_source=atom_feed</guid>
       <pubDate>Thu, 25 Apr 2024 16:16:27 GMT</pubDate>
     </item>
