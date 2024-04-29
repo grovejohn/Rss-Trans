@@ -4,11 +4,11 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Mon, 29 Apr 2024 09:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2024 09:37:30 GMT</lastBuildDate>
     <item>
       <title>MaPa：文本驱动的 3D 形状真实感材质绘画</title>
       <link>https://arxiv.org/abs/2404.17569</link>
-      <description><![CDATA[本文旨在从文本描述生成 3D 网格材料。与合成纹理图的现有方法不同，我们建议生成分段程序材质图作为外观表示，它支持高质量渲染并在编辑方面提供很大的灵活性。我们建议利用预先训练的 2D 扩散模型作为连接文本和材料图的桥梁，而不是依赖广泛的配对数据（即具有材料图和相应文本描述的 3D 网格）来训练材料图生成模型。具体来说，我们的方法将形状分解为一组分段，并设计分段控制的扩散模型来合成与网格部分对齐的 2D 图像。基于生成的图像，我们初始化材质图的参数，并通过可微分渲染模块对其进行微调，以生成符合文本描述的材质。大量的实验证明了我们的框架在真实感、分辨率和可编辑性方面比现有方法具有优越的性能。项目页面：https://zhanghe3z.github.io/MaPa/]]></description>
+      <description><![CDATA[本文旨在从文本描述中生成 3D 网格的材质。与现有的合成纹理贴图的方法不同，我们提出生成分段式程序材质图作为外观表示，这支持高质量渲染并在编辑方面提供了相当大的灵活性。我们建议利用预先训练的 2D 扩散模型作为连接文本和材质图的桥梁，而不是依赖大量配对数据（即带有材质图和相应文本描述的 3D 网格）来训练材质图生成模型。具体来说，我们的方法将形状分解为一组片段，并设计一个片段控制的扩散模型来合成与网格部分对齐的 2D 图像。基于生成的图像，我们初始化材质图的参数并通过可微分渲染模块对其进行微调，以根据文本描述生成材质。大量实验表明，我们的框架在照片级真实感、分辨率和可编辑性方面优于现有方法。项目页面：https://zhanghe3z.github.io/MaPa/]]></description>
       <guid>https://arxiv.org/abs/2404.17569</guid>
       <pubDate>Mon, 29 Apr 2024 02:33:17 GMT</pubDate>
     </item>
@@ -29,7 +29,7 @@
     <item>
       <title>PLLaVA：从图像到视频的无参数 LLaVA 扩展，用于视频密集字幕</title>
       <link>https://arxiv.org/abs/2404.16994</link>
-      <description><![CDATA[视觉语言预训练显着提高了各种图像语言应用程序的性能。然而，视频相关任务的预训练过程需要异常大量的计算和数据资源，这阻碍了视频语言模型的进步。本文研究了一种简单、高效且资源匮乏的方法，以适应现有的图像语言预训练模型以实现密集视频理解。我们的初步实验表明，直接微调以多个帧作为视频数据集输入的预训练图像语言模型会导致性能饱和甚至下降。我们的进一步调查表明，这很大程度上归因于习得的高规范视觉特征的偏差。受这一发现的启发，我们提出了一种简单但有效的池策略来平滑沿时间维度的特征分布，从而减少极端特征的主要影响。新模型被称为“Pooling LLaVA”，简称为“Pooling LLaVA”。在视频问答和字幕任务的现代基准数据集上实现了新的最先进的性能。值得注意的是，在最近流行的Video ChatGPT基准测试中，PLLaVA在五个评估维度上的平均得分为3.48分（满分5分），比之前GPT4V（IG-VLM）的SOTA结果高出9%。在最新的多选基准 MVBench 上，PLLaVA 在 20 个子任务中平均准确率达到 58.1%，比 GPT4V (IG-VLM) 高出 14.5%。代码可在 https://github.com/magic-research/PLLaVA 获取。]]></description>
+      <description><![CDATA[视觉语言预训练已显著提升了各种图像语言应用的性能。然而，视频相关任务的预训练过程需要异常大的计算和数据资源，这阻碍了视频语言模型的进步。本文研究了一种简单、高效且资源少的方法来调整现有的图像语言预训练模型以进行密集视频理解。我们的初步实验表明，直接在视频数据集上使用多帧作为输入对预训练的图像语言模型进行微调会导致性能饱和甚至下降。我们进一步的研究表明，这在很大程度上归因于学习到的高范数视觉特征的偏差。受这一发现的启发，我们提出了一种简单但有效的池化策略来平滑时间维度上的特征分布，从而减少极端特征的主导影响。新模型称为 Pooling LLaVA，简称为 Pooling LLaVA，在现代基准数据集上实现了视频问答和字幕任务的全新最佳性能。值得注意的是，在最近流行的 Video ChatGPT 基准测试中，PLLaVA 在五个评估维度上的平均得分为 3.48（满分 5 分），比 GPT4V（IG-VLM）之前的 SOTA 结果高出 9%。在最新的多选基准 MVBench 上，PLLaVA 在 20 个子任务中的平均准确率为 58.1%，比 GPT4V（IG-VLM）高出 14.5%。代码可在 https://github.com/magic-research/PLLaVA 上找到。]]></description>
       <guid>https://arxiv.org/abs/2404.16994</guid>
       <pubDate>Mon, 29 Apr 2024 01:12:08 GMT</pubDate>
     </item>
