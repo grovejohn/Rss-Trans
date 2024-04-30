@@ -4,11 +4,18 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Apr 2024 22:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 23:12:43 GMT</lastBuildDate>
+    <item>
+      <title>这是您拥有一台退役的美国政府超级计算机的机会</title>
+      <link>https://arstechnica.com/?p=2020861</link>
+      <description><![CDATA[拥有 145,152 核的夏延超级计算机在 2016 年全球排名第 20 位。]]></description>
+      <guid>https://arstechnica.com/?p=2020861</guid>
+      <pubDate>Tue, 30 Apr 2024 21:52:24 GMT</pubDate>
+    </item>
     <item>
       <title>iPhone 的下一款 AAA 游戏《刺客信条幻影》公布了发布日期</title>
       <link>https://arstechnica.com/?p=2020857</link>
-      <description><![CDATA[该游戏几个月前在游戏机和个人电脑上推出。]]></description>
+      <description><![CDATA[该游戏几个月前已在游戏机和个人电脑上推出。]]></description>
       <guid>https://arstechnica.com/?p=2020857</guid>
       <pubDate>Tue, 30 Apr 2024 21:16:57 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>币安亿万富翁创始人因违反洗钱法被判 4 个月监禁</title>
       <link>https://arstechnica.com/?p=2020851</link>
-      <description><![CDATA[美国检察官寻求对币安创始人赵长鹏判处 3 年徒刑。]]></description>
+      <description><![CDATA[美国检察官要求判处币安创始人赵长鹏 3 年徒刑。]]></description>
       <guid>https://arstechnica.com/?p=2020851</guid>
       <pubDate>Tue, 30 Apr 2024 20:55:30 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 30 Apr 2024 20:11:01 GMT</pubDate>
     </item>
     <item>
-      <title>名称不吉利的 AWS S3 存储桶几乎让开发人员损失 1,300 美元</title>
+      <title>名字不吉利的 AWS S3 存储桶几乎让开发人员损失了 1,300 美元</title>
       <link>https://arstechnica.com/?p=2020714</link>
       <description><![CDATA[亚马逊表示，它正在努力阻止其他人“让你的 AWS 账单激增”。]]></description>
       <guid>https://arstechnica.com/?p=2020714</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>神秘“gpt2-chatbot”AI模型突然出现，令专家困惑</title>
       <link>https://arstechnica.com/?p=2020588</link>
-      <description><![CDATA[Mystery LLM 强调人工智能测试中的透明度问题。]]></description>
+      <description><![CDATA[Mystery LLM 强调了人工智能测试中的透明度问题。]]></description>
       <guid>https://arstechnica.com/?p=2020588</guid>
       <pubDate>Tue, 30 Apr 2024 19:31:01 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>FTC 对 Razer 销售假冒“N95 级”RGB 面罩的每一分钱进行罚款</title>
       <link>https://arstechnica.com/?p=2020701</link>
-      <description><![CDATA[“欺骗性广告和错误信息对公共健康构成风险。”]]></description>
+      <description><![CDATA[“欺骗性广告和错误信息对公众健康构成威胁。”]]></description>
       <guid>https://arstechnica.com/?p=2020701</guid>
       <pubDate>Tue, 30 Apr 2024 18:52:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟调查 Meta 是否存在可实现实时选举监控的杀毒工具</title>
-      <link>https://arstechnica.com/?p=2020750</link>
-      <description><![CDATA[欧盟对 Facebook/Instagram 所有者可能违反《数字服务法》的行为进行调查。]]></description>
-      <guid>https://arstechnica.com/?p=2020750</guid>
-      <pubDate>Tue, 30 Apr 2024 18:24:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
