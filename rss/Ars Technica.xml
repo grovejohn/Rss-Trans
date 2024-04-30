@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Apr 2024 19:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 20:12:59 GMT</lastBuildDate>
+    <item>
+      <title>名字不吉利的 AWS S3 存储桶几乎让开发人员损失了 1,300 美元</title>
+      <link>https://arstechnica.com/?p=2020714</link>
+      <description><![CDATA[亚马逊表示，它正在努力阻止其他人“让你的 AWS 账单激增”。]]></description>
+      <guid>https://arstechnica.com/?p=2020714</guid>
+      <pubDate>Tue, 30 Apr 2024 19:43:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>神秘“GPT2-Chatbot”人工智能模型突然出现，让专家感到困惑</title>
+      <link>https://arstechnica.com/?p=2020588</link>
+      <description><![CDATA[Mystery LLM 强调人工智能测试中的透明度问题。]]></description>
+      <guid>https://arstechnica.com/?p=2020588</guid>
+      <pubDate>Tue, 30 Apr 2024 19:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple 确认存在导致部分 iPhone 闹钟无法响起的错误</title>
+      <link>https://arstechnica.com/?p=2020772</link>
+      <description><![CDATA[如果您的 iPhone 最近没有叫醒您，那么您并不孤单。]]></description>
+      <guid>https://arstechnica.com/?p=2020772</guid>
+      <pubDate>Tue, 30 Apr 2024 18:58:56 GMT</pubDate>
+    </item>
     <item>
       <title>FTC 对 Razer 销售假冒“N95 级”RGB 面罩的每一分钱进行罚款</title>
       <link>https://arstechnica.com/?p=2020701</link>
@@ -15,7 +36,7 @@
     <item>
       <title>欧盟调查 Meta 是否存在可实现实时选举监控的杀毒工具</title>
       <link>https://arstechnica.com/?p=2020750</link>
-      <description><![CDATA[欧盟对 Facebook/Instagram 所有者可能违反《数字服务法》的行为进行调查。]]></description>
+      <description><![CDATA[欧盟调查 Facebook/Instagram 所有者是否可能违反《数字服务法》。]]></description>
       <guid>https://arstechnica.com/?p=2020750</guid>
       <pubDate>Tue, 30 Apr 2024 18:24:11 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[“如果我们要拥有真正的太空经济，那就意味着物流和供应服务。”]]></description>
       <guid>https://arstechnica.com/?p=2020625</guid>
       <pubDate>Tue, 30 Apr 2024 13:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉将解雇所有从事超级充电站和新车工作的人员</title>
-      <link>https://arstechnica.com/?p=2020655</link>
-      <description><![CDATA[尽管特斯拉雄心勃勃，但它也正在摆脱其公共政策团队。]]></description>
-      <guid>https://arstechnica.com/?p=2020655</guid>
-      <pubDate>Tue, 30 Apr 2024 13:20:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 阐述 SpaceX 将如何在低地球轨道为星际飞船补充燃料</title>
-      <link>https://arstechnica.com/?p=2020606</link>
-      <description><![CDATA[“基本的流动机制是脐带上的压力增量。”]]></description>
-      <guid>https://arstechnica.com/?p=2020606</guid>
-      <pubDate>Tue, 30 Apr 2024 00:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>猫喝生奶后患H5N1脑部感染、失明甚至死亡</title>
-      <link>https://arstechnica.com/?p=2020641</link>
-      <description><![CDATA[哺乳动物之间的传播引发了人们对病毒传播能力的新担忧。]]></description>
-      <guid>https://arstechnica.com/?p=2020641</guid>
-      <pubDate>Mon, 29 Apr 2024 22:41:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
