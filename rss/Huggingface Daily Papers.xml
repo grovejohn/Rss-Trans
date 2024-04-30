@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 17:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 18:18:07 GMT</lastBuildDate>
     <item>
       <title>Stylus：扩散模型的自动适配器选择</title>
       <link>https://arxiv.org/abs/2404.18928</link>
@@ -50,7 +50,7 @@
     <item>
       <title>双子座模型在医学中的能力</title>
       <link>https://arxiv.org/abs/2404.18416</link>
-      <description><![CDATA[各种医疗应用的卓越表现给人工智能带来了巨大的挑战，需要先进的推理、获取最新的医学知识以及对复杂的多模态数据的理解。 Gemini 模型在多模式和长上下文推理方面具有强大的通用能力，为医学领域提供了令人兴奋的可能性。基于 Gemini 的这些核心优势，我们推出了 Med-Gemini，这是一个功能强大的多模式模型系列，专门用于医学，能够无缝使用网络搜索，并且可以使用自定义编码器有效地针对新颖的模式进行定制。我们在 14 个医疗基准上评估 Med-Gemini，在其中 10 个基准上建立了新的最先进 (SoTA) 性能，并在每个可以进行直接比较的基准上超越了 GPT-4 模型系列，通常是广泛的利润。在流行的 MedQA (USMLE) 基准上，我们性能最佳的 Med-Gemini 模型使用新颖的不确定性引导搜索策略，实现了 91.1% 准确度的 SoTA 性能。在包括 NEJM Image Challenges 和 MMMU（健康与医学）在内的 7 个多模态基准测试中，Med-Gemini 比 GPT-4V 提高了 44.5% 的平均相对优势。我们通过从长期去识别化的健康记录和医疗视频问答中进行大海捞针检索任务的 SoTA 性能，证明了 Med-Gemini 的长上下文能力的有效性，超越了之前仅使用上下文学习的定制方法。最后，Med-Gemini 的表现表明了其在现实世界中的实用性，在医学文本摘要等任务上超越了人类专家，同时展示了多模式医学对话、医学研究和教育的巨大潜力。总而言之，我们的结果为 Med-Gemini 的潜力提供了令人信服的证据，尽管在这个安全关键领域的实际部署之前，进一步严格的评估至关重要。]]></description>
+      <description><![CDATA[在各种医疗应用中取得卓越表现对 AI 提出了巨大挑战，需要高级推理、获取最新医学知识以及理解复杂的多模态数据。Gemini 模型在多模态和长上下文推理方面具有强大的通用能力，为医学提供了令人兴奋的可能性。基于 Gemini 的这些核心优势，我们推出了 Med-Gemini，这是一系列功能强大的多模态模型，专门用于医学，能够无缝使用网络搜索，并且可以使用自定义编码器有效地针对新模态进行定制。我们在 14 个医学基准上对 Med-Gemini 进行了评估，在其中 10 个基准上建立了新的最先进 (SoTA) 性能，并在每个可直接比较的基准上超越 GPT-4 模型系列，而且通常领先幅度很大。在流行的 MedQA (USMLE) 基准上，我们表现最佳的 Med-Gemini 模型使用新颖的不确定性引导搜索策略实现了 91.1% 准确率的 SoTA 性能。在包括 NEJM 图像挑战赛和 MMMU（健康与医学）在内的 7 个多模态基准测试中，Med-Gemini 比 GPT-4V 平均提高了 44.5%。我们通过 SoTA 在从长篇匿名健康记录和医学视频问答中进行的大海捞针检索任务中的表现证明了 Med-Gemini 长上下文能力的有效性，超越了之前仅使用上下文学习的定制方法。最后，Med-Gemini 的表现表明它在现实世界中的实用性，它在医学文本摘要等任务上超越了人类专家，同时也展示了多模态医学对话、医学研究和教育方面的巨大潜力。总之，我们的结果为 Med-Gemini 的潜力提供了令人信服的证据，尽管在这个安全关键领域进行实际部署之前，进一步的严格评估将是至关重要的。]]></description>
       <guid>https://arxiv.org/abs/2404.18416</guid>
       <pubDate>Tue, 30 Apr 2024 02:38:38 GMT</pubDate>
     </item>
