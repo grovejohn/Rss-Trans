@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 00:55:13 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Tue, 30 Apr 2024 01:51:37 GMT</lastBuildDate>
     <item>
       <title>MaPa：文本驱动的 3D 形状真实感材质绘画</title>
       <link>https://arxiv.org/abs/2404.17569</link>
@@ -15,7 +15,7 @@
     <item>
       <title>AdvPrompter：法学硕士的快速自适应对抗性提示</title>
       <link>https://arxiv.org/abs/2404.16873</link>
-      <description><![CDATA[虽然大型语言模型 (LLM) 最近取得了显著的成功，但它们很容易受到某些越狱攻击，从而导致生成不适当或有害的内容。手动红队测试需要找到导致此类越狱的对抗性提示，例如通过在给定指令后附加后缀，这既低效又耗时。另一方面，自动对抗性提示生成通常会导致语义上毫无意义的攻击，这些攻击很容易被基于困惑度的过滤器检测到，可能需要来自 TargetLLM 的梯度信息，或者由于在标记空间上耗时的离散优化过程而无法很好地扩展。在本文中，我们提出了一种新方法，该方法使用另一个 LLM（称为 AdvPrompter）在几秒钟内生成人类可读的对抗性提示，比现有的基于优化的方法快 800 倍。我们使用一种不需要访问 TargetLLM 梯度的新算法来训练 AdvPrompter。此过程在两个步骤之间交替进行：(1) 通过优化 AdvPrompter 预测生成高质量的目标对抗后缀，以及 (2) 使用生成的对抗后缀对 AdvPrompter 进行低秩微调。经过训练的 AdvPrompter 会生成后缀，这些后缀会掩盖输入指令而不改变其含义，从而诱使 TargetLLM 做出有害响应。在流行的开源 TargetLLM 上进行的实验结果显示了 AdvBench 数据集上的最新结果，这些结果也可以转移到闭源黑盒 LLM API。此外，我们证明，通过在 AdvPrompter 生成的合成数据集上进行微调，LLM 可以更有效地抵御越狱攻击，同时保持性能，即高 MMLU 分数。]]></description>
+      <description><![CDATA[虽然最近大型语言模型 (LLM) 取得了显着的成功，但它们很容易受到某些越狱攻击，从而导致生成不适当或有害的内容。手动红队需要找到导致此类越狱的对抗性提示，例如通过向给定指令添加后缀，这种方式效率低下且耗时。另一方面，自动对抗性提示生成通常会导致语义上无意义的攻击，这些攻击很容易被基于困惑的过滤器检测到，可能需要来自 TargetLLM 的梯度信息，或者由于令牌上耗时的离散优化过程而无法很好地扩展空间。在本文中，我们提出了一种新颖的方法，该方法使用另一种 LLM（称为 AdvPrompter）在几秒钟内生成人类可读的对抗性提示，比现有的基于优化的方法快 800 倍。我们使用一种新颖的算法来训练 AdvPrompter，该算法不需要访问 TargetLLM 的梯度。该过程在两个步骤之间交替：（1）通过优化 AdvPrompter 预测生成高质量的目标对抗性后缀，以及（2）使用生成的对抗性后缀对 AdvPrompter 进行低秩微调。经过训练的 AdvPrompter 会生成后缀，这些后缀会掩盖输入指令而不改变其含义，从而引诱 TargetLLM 给出有害的响应。流行的开源 TargetLLM 上的实验结果显示了 AdvBench 数据集上最先进的结果，这些结果也转移到闭源黑盒 LLM API。此外，我们证明，通过对 AdvPrompter 生成的合成数据集进行微调，LLM 可以更加稳健地抵御越狱攻击，同时保持性能，即高 MMLU 分数。]]></description>
       <guid>https://arxiv.org/abs/2404.16873</guid>
       <pubDate>Mon, 29 Apr 2024 01:43:06 GMT</pubDate>
     </item>
