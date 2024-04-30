@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>拥抱日报</title>
+    <title>Huggingface 日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Tue, 30 Apr 2024 21:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 22:12:16 GMT</lastBuildDate>
     <item>
       <title>Stylus：扩散模型的自动适配器选择</title>
       <link>https://arxiv.org/abs/2404.18928</link>
@@ -20,7 +20,7 @@
       <pubDate>Tue, 30 Apr 2024 04:08:23 GMT</pubDate>
     </item>
     <item>
-      <title>袋鼠：通过双提前退出进行无损自推测解码</title>
+      <title>袋鼠：通过双重提前退出实现无损自推测解码</title>
       <link>https://arxiv.org/abs/2404.18911</link>
       <description><![CDATA[推测解码已证明其在加速大型语言模型的推理同时保持一致的采样分布方面的有效性。然而，训练单独的草稿模型以获得令人满意的令牌接受率的传统方法可能成本高昂。从早期退出中汲取灵感，我们提出了一种新颖的自推测解码框架 Kangaroo，它使用固定的浅层子网络作为自拟模型，其余层作为更大的目标模型。我们在子网络之上训练一个轻量级且高效的适配器模块，以弥合子网络和完整模型表示能力之间的差距。值得注意的是，与大模型相比，自起草模型的推理延迟可能不再可以忽略不计，因此需要采取策略来提高令牌接受率，同时最大限度地减少小模型的起草步骤。为了应对这一挑战，我们引入了一种额外的提前退出机制来生成草稿代币。具体来说，一旦当前令牌的置信水平低于某个阈值，我们就会在起草阶段停止小模型的后续预测。 Spec-Bench 上的大量实验证明了 Kangaroo 的有效性。在单序列验证下，Kangaroo 在 Spec-Bench 上实现了高达 1.68 倍的加速，优于 Medusa-1，附加参数减少了 88.7%（67M 与 591M 相比）。 Kangaroo 的代码可在 https://github.com/Equationliu/Kangaroo 获取。]]></description>
       <guid>https://arxiv.org/abs/2404.18911</guid>
