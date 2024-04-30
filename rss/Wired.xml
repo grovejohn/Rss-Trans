@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 30 Apr 2024 10:36:35 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Tue, 30 Apr 2024 11:12:23 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 的 AI 探测器：您需要了解的一切</title>
+      <link>https://www.wired.com/story/ai-detector-chatgpt/</link>
+      <description><![CDATA[您正在阅读的内容是由人类编写的，还是由人工智能生成的？此文章列表将帮助您了解 AI 文本检测。]]></description>
+      <guid>https://www.wired.com/story/ai-detector-chatgpt/</guid>
+      <pubDate>Tue, 30 Apr 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>经济实惠的连接计划今天结束。数百万美国人可能失去互联网接入</title>
       <link>https://www.wired.com/story/affordable-connectivity-program-ending/</link>
@@ -20,9 +27,9 @@
       <pubDate>Mon, 29 Apr 2024 21:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克的亚洲之行无法解决特斯拉的中国危机</title>
+      <title>埃隆·马斯克绝望的亚洲之行无法解决特斯拉的中国危机</title>
       <link>https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/</link>
-      <description><![CDATA[特斯拉与百度的交易并不新鲜，特斯拉收集的地图数据很可能不能离开中国，而全自动驾驶无法与更先进的中国替代品竞争。]]></description>
+      <description><![CDATA[特斯拉与百度的交易并不新鲜，特斯拉收集的地图数据可能无法离开中国，而且全自动驾驶无法与更先进的中国替代方案竞争。]]></description>
       <guid>https://www.wired.com/story/elon-musk-cant-solve-teslas-china-crisis-with-his-desperate-asia-visit/</guid>
       <pubDate>Mon, 29 Apr 2024 19:50:29 GMT</pubDate>
     </item>
@@ -34,16 +41,16 @@
       <pubDate>Mon, 29 Apr 2024 19:37:48 GMT</pubDate>
     </item>
     <item>
-      <title>14 款最佳笔记本电脑支架（2024 年）：可调节、便携式、膝上型桌</title>
+      <title>14 个最佳笔记本电脑支架 (2024)：可调节、便携式、笔记本电脑支架</title>
       <link>https://www.wired.com/gallery/best-laptop-stands/</link>
-      <description><![CDATA[提高电脑屏幕是保持更健康姿势的简单方法。这些支架、膝上桌、垫子和立管可能会有所帮助。]]></description>
+      <description><![CDATA[抬高电脑屏幕是保持健康坐姿的简单方法。这些支架、膝上桌、垫子和升降器可能会有所帮助。]]></description>
       <guid>https://www.wired.com/gallery/best-laptop-stands/</guid>
       <pubDate>Mon, 29 Apr 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
       <title>7 个最佳便携式发电站（2024 年）：发电容量、豪华度、预算等</title>
       <link>https://www.wired.com/gallery/best-portable-power-stations/</link>
-      <description><![CDATA[无论您是脱离电网还是防止停电，这些强大的、经过 WIRED 测试的电池都可以保持灯亮。]]></description>
+      <description><![CDATA[无论您是要脱离电网还是防止停电，这些经过 WIRED 测试的坚固电池都可以让灯保持亮着。]]></description>
       <guid>https://www.wired.com/gallery/best-portable-power-stations/</guid>
       <pubDate>Mon, 29 Apr 2024 13:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[《连线》的建议专栏作家回答了有关幻想与现实的问题。]]></description>
       <guid>https://www.wired.com/story/cloud-support-gender-avatar-video-games/</guid>
       <pubDate>Mon, 29 Apr 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>招聘人员正采用模拟技术应对人工智能应用程序过载</title>
-      <link>https://www.wired.com/story/recruiters-ai-application-overload/</link>
-      <description><![CDATA[Indeed 和 LinkedIn 正在整合更具生成性的人工智能，以改善招聘和求职流程。一些招聘人员仍然不相信。]]></description>
-      <guid>https://www.wired.com/story/recruiters-ai-application-overload/</guid>
-      <pubDate>Mon, 29 Apr 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
