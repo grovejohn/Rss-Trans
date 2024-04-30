@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface 日报 - 由 RSSHub(https://github.com/DIYgod/RSSHub) 精心制作</description>
-    <lastBuildDate>Tue, 30 Apr 2024 15:35:54 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 30 Apr 2024 16:16:31 GMT</lastBuildDate>
     <item>
       <title>Stylus：扩散模型的自动适配器选择</title>
       <link>https://arxiv.org/abs/2404.18928</link>
