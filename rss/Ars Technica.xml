@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Apr 2024 14:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2024 15:36:01 GMT</lastBuildDate>
+    <item>
+      <title>苹果从谷歌挖来人工智能专家，创建秘密欧洲人工智能实验室</title>
+      <link>https://arstechnica.com/?p=2020677</link>
+      <description><![CDATA[至少有 36 名前谷歌员工现在为苹果公司从事人工智能工作。]]></description>
+      <guid>https://arstechnica.com/?p=2020677</guid>
+      <pubDate>Tue, 30 Apr 2024 14:16:15 GMT</pubDate>
+    </item>
     <item>
       <title>新太空公司寻求利用高 Delta-V 航天器解决轨道机动性问题</title>
       <link>https://arstechnica.com/?p=2020625</link>
@@ -22,7 +29,7 @@
     <item>
       <title>NASA 阐述了 SpaceX 将如何在近地轨道为星际飞船加油</title>
       <link>https://arstechnica.com/?p=2020606</link>
-      <description><![CDATA[“基本的流动机制是脐带上的压力增量。”]]></description>
+      <description><![CDATA[“根本的流动机制是脐带管两端的压力增量。”]]></description>
       <guid>https://arstechnica.com/?p=2020606</guid>
       <pubDate>Tue, 30 Apr 2024 00:19:38 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[FCC 最终对 2018 年披露的位置数据销售处以 1.96 亿美元的罚款。]]></description>
       <guid>https://arstechnica.com/?p=2020533</guid>
       <pubDate>Mon, 29 Apr 2024 19:51:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国禁止联网设备上使用糟糕的默认密码</title>
-      <link>https://arstechnica.com/?p=2020491</link>
-      <description><![CDATA[该法律旨在防止全球范围的僵尸网络攻击。]]></description>
-      <guid>https://arstechnica.com/?p=2020491</guid>
-      <pubDate>Mon, 29 Apr 2024 19:45:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
