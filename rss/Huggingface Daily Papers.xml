@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Wed, 01 May 2024 15:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 15:35:40 GMT</lastBuildDate>
     <item>
       <title>Lightplane：神经 3D 场的高度可扩展组件</title>
       <link>https://arxiv.org/abs/2404.19760</link>
@@ -41,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 04:31:22 GMT</pubDate>
     </item>
     <item>
-      <title>视觉事实检查器：实现高保真详细字幕生成</title>
+      <title>视觉事实核查器：实现高保真详细字幕生成</title>
       <link>https://arxiv.org/abs/2404.19752</link>
       <description><![CDATA[现有的视觉内容自动字幕方法面临着缺乏细节、内容幻觉和指令跟随性差等挑战。在这项工作中，我们提出了 VisualFactChecker (VFC)，这是一种灵活的免训练管道，可为 2D 图像和 3D 对象生成高保真且详细的字幕。 VFC 包含三个步骤：1）提议，其中图像到文本字幕模型提出多个初始字幕； 2) 验证，其中大型语言模型 (LLM) 利用对象检测和 VQA 模型等工具来对提议的标题进行事实检查； 3）字幕，法学硕士通过总结字幕提案和事实检查验证结果生成最终字幕。在这一步中，VFC可以按照复杂的指令灵活地生成各种风格的字幕。我们使用四个指标进行全面的字幕评估：1）图像文本相似度的 CLIP-Score； 2）CLIP-Image-Score，用于测量原始图像与使用标题的文本到图像模型生成的重建图像之间的图像相似度。 3）亚马逊Mechanical Turk上的人体研究； 4）GPT-4V用于细粒度评估。评估结果表明，对于 COCO 数据集上的 2D 图像和 Objaverse 数据集上的 3D 资产，VFC 的性能优于最先进的开源字幕方法。我们的研究表明，通过将开源模型组合到管道中，我们可以获得与 GPT-4V 等专有模型相当的字幕功能，尽管模型大小小 10 倍以上。]]></description>
       <guid>https://arxiv.org/abs/2404.19752</guid>
@@ -50,7 +50,7 @@
     <item>
       <title>一夜之间将 Llama-3 的上下文扩展十倍</title>
       <link>https://arxiv.org/abs/2404.19553</link>
-      <description><![CDATA[我们通过 QLoRA 微调将 Llama-3-8B-Instruct 的上下文长度从 8K 扩展到 80K。整个训练周期非常高效，在一台 8xA800 (80G) GPU 机器上需要 8 个小时。所得到的模型在广泛的评估任务中表现出卓越的性能，例如 NIHS、主题检索和长上下文语言理解；同时，它也很好地保留了短上下文中的原始能力。戏剧性的上下文扩展主要归因于 GPT-4 生成的仅 3.5K 合成训练样本，这表明法学硕士具有扩展其原始上下文长度的固有（但在很大程度上被低估）潜力。事实上，使用更多的计算资源，上下文长度可以远远超出 80K。因此，团队将公开发布全部资源（包括数据、模型、数据生成管道、训练代码），以方便社区未来的研究：https://github.com/FlagOpen/FlagEmbedding。]]></description>
+      <description><![CDATA[我们通过 QLoRA 微调将 Llama-3-8B-Instruct 的上下文长度从 8K 扩展到 80K。整个训练周期非常高效，在一台 8xA800 (80G) GPU 机器上仅需 8 小时。生成的模型在 NIHS、主题检索和长上下文语言理解等广泛评估任务中表现出色；同时，它还很好地保留了短上下文中的原始能力。上下文的显著扩展主要归功于 GPT-4 生成的仅 3.5K 合成训练样本，这表明 LLM 具有扩展其原始上下文长度的内在（但被大大低估）潜力。事实上，如果有更多的计算资源，上下文长度可以远远超过 80K。因此，团队将公开发布整个资源（包括数据、模型、数据生成管道、训练代码），以方便社区未来的研究：https://github.com/FlagOpen/FlagEmbedding。]]></description>
       <guid>https://arxiv.org/abs/2404.19553</guid>
       <pubDate>Wed, 01 May 2024 03:25:29 GMT</pubDate>
     </item>
@@ -64,12 +64,12 @@
     <item>
       <title>迭代推理偏好优化</title>
       <link>https://arxiv.org/abs/2404.19733</link>
-      <description><![CDATA[迭代偏好优化方法最近被证明对于一般指令调整任务表现良好，但通常对推理任务几乎没有改进（Yuan 等人，2024；Chen 等人，2024）。在这项工作中，我们开发了一种迭代方法，通过优化导致正确答案的获胜与失败推理步骤来优化竞争生成的思想链（CoT）候选者之间的偏好。我们使用修改后的 DPO 损失（Rafailov 等人，2023）和附加的负对数似然项进行训练，我们发现这至关重要。我们展示了该方案的重复迭代中推理能力的提高。虽然仅依赖训练集中的示例，但我们的方法使 Llama-2-70B-Chat 在 GSM8K 上的准确率从 55.6% 提高到 81.6%（32 个样本中的多数投票为 88.7%），从 12.5% 提高到 20.8 MATH 上的得分从 77.8% 上升到 86.7%，ARC-Challenge 的得分优于其他基于 Llama-2 且不依赖额外来源数据集的模型。]]></description>
+      <description><![CDATA[迭代偏好优化方法最近被证明对于一般指令调整任务表现良好，但通常对推理任务几乎没有改进（Yuan 等人，2024；Chen 等人，2024）。在这项工作中，我们开发了一种迭代方法，通过优化导致正确答案的获胜与失败推理步骤来优化竞争生成的思想链 (CoT) 候选者之间的偏好。我们使用修改后的 DPO 损失（Rafailov 等人，2023）和附加的负对数似然项进行训练，我们发现这至关重要。我们展示了该方案的重复迭代中推理能力的提高。虽然仅依赖训练集中的示例，但我们的方法使 Llama-2-70B-Chat 在 GSM8K 上的准确率从 55.6% 提高到 81.6%（32 个样本中的多数投票为 88.7%），从 12.5% 提高到 20.8 MATH 上的得分从 77.8% 上升到 86.7%，ARC-Challenge 的得分优于其他基于 Llama-2 且不依赖额外来源数据集的模型。]]></description>
       <guid>https://arxiv.org/abs/2404.19733</guid>
       <pubDate>Wed, 01 May 2024 02:15:48 GMT</pubDate>
     </item>
     <item>
-      <title>SAGS：结构感知 3D 高斯泼溅</title>
+      <title>SAGS：结构感知 3D 高斯溅射</title>
       <link>https://arxiv.org/abs/2404.19149</link>
       <description><![CDATA[随着 NeRF 的出现，3D 高斯分布 (3D-GS) 为实时神经渲染铺平了道路，克服了体积方法的计算负担。继 3D-GS 的开创性工作之后，多种方法尝试实现可压缩和高保真性能替代方案。然而，通过采用与几何无关的优化方案，这些方法忽略了场景固有的 3D 结构，从而限制了表现力和表示质量，导致出现各种浮点和伪影。在这项工作中，我们提出了一种结构感知高斯泼溅方法（SAGS），该方法隐式编码场景的几何形状，这反映了最先进的渲染性能并减少了基准新颖视图合成数据集的存储要求。 SAGS 基于局部全局图形表示，有助于复杂场景的学习并强制执行有意义的点位移，以保留场景的几何形状。此外，我们引入了 SAGS 的轻量级版本，使用简单而有效的中点插值方案，该方案展示了场景的紧凑表示，尺寸减少了 24 倍，而无需依赖任何压缩策略。跨多个基准数据集的大量实验证明了 SAGS 在渲染质量和模型大小方面均优于最先进的 3D-GS 方法。此外，我们证明了我们的结构感知方法可以有效减轻先前方法的浮动伪影和不规则失真，同时获得精确的深度图。项目页面 https://eververas.github.io/SAGS/。]]></description>
       <guid>https://arxiv.org/abs/2404.19149</guid>
