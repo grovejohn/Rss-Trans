@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 01 May 2024 03:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 11:10:54 GMT</lastBuildDate>
     <item>
-      <title>卫星通信行业两大巨头联手对抗星链</title>
+      <title>CenturyLink 让用户两个月没有服务，然后向他们收取 239 美元的费用</title>
+      <link>https://arstechnica.com/?p=2020483</link>
+      <description><![CDATA[在 Ars 向该公司发送电子邮件之前，CenturyLink 再次未能解决长时间的中断问题。]]></description>
+      <guid>https://arstechnica.com/?p=2020483</guid>
+      <pubDate>Wed, 01 May 2024 11:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫星电信行业两大巨头联手对抗Starlink</title>
       <link>https://arstechnica.com/?p=2020892</link>
       <description><![CDATA[SES 将以 31 亿美元收购全球第一家商业卫星运营商 Intelsat。]]></description>
       <guid>https://arstechnica.com/?p=2020892</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>这是您拥有一台退役的美国政府超级计算机的机会</title>
       <link>https://arstechnica.com/?p=2020861</link>
-      <description><![CDATA[拥有 145,152 核的夏延超级计算机在 2016 年全球排名第 20 位。]]></description>
+      <description><![CDATA[拥有 145,152 个核心的夏延超级计算机在 2016 年的全球超级计算机排名中位列第 20 位。]]></description>
       <guid>https://arstechnica.com/?p=2020861</guid>
       <pubDate>Tue, 30 Apr 2024 21:52:24 GMT</pubDate>
     </item>
@@ -41,14 +48,14 @@
       <pubDate>Tue, 30 Apr 2024 20:55:30 GMT</pubDate>
     </item>
     <item>
-      <title>医疗保健巨头坦白了最近的黑客攻击和支付的赎金</title>
+      <title>医疗保健巨头坦白近期黑客攻击和勒索事件</title>
       <link>https://arstechnica.com/?p=2020827</link>
-      <description><![CDATA[针对价值 3710 亿美元的公司的勒索软件攻击削弱了美国处方药市场。]]></description>
+      <description><![CDATA[对这家价值 3710 亿美元的公司的勒索软件攻击严重阻碍了美国处方药市场的发展。]]></description>
       <guid>https://arstechnica.com/?p=2020827</guid>
       <pubDate>Tue, 30 Apr 2024 20:44:58 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员制作出一种塑料，其中含有可以消化它的细菌</title>
+      <title>研究人员制造了一种塑料，其中含有可以消化它的细菌</title>
       <link>https://arstechnica.com/?p=2020830</link>
       <description><![CDATA[细菌孢子增强了塑料的强度，然后在垃圾填埋场中复活并消化它。]]></description>
       <guid>https://arstechnica.com/?p=2020830</guid>
@@ -62,18 +69,11 @@
       <pubDate>Tue, 30 Apr 2024 19:43:07 GMT</pubDate>
     </item>
     <item>
-      <title>神秘的“gpt2-chatbot”AI模型突然出现，令专家困惑</title>
+      <title>神秘“GPT2-Chatbot”人工智能模型突然出现，让专家感到困惑</title>
       <link>https://arstechnica.com/?p=2020588</link>
       <description><![CDATA[Mystery LLM 强调人工智能测试中的透明度问题。]]></description>
       <guid>https://arstechnica.com/?p=2020588</guid>
       <pubDate>Tue, 30 Apr 2024 19:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 确认存在导致部分 iPhone 闹钟无法响起的错误</title>
-      <link>https://arstechnica.com/?p=2020772</link>
-      <description><![CDATA[如果您的 iPhone 最近没有叫醒您，那么您并不孤单。]]></description>
-      <guid>https://arstechnica.com/?p=2020772</guid>
-      <pubDate>Tue, 30 Apr 2024 18:58:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
