@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 01 May 2024 00:59:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 02:00:33 GMT</lastBuildDate>
+    <item>
+      <title>卫星通信行业两大巨头联手对抗星链</title>
+      <link>https://arstechnica.com/?p=2020892</link>
+      <description><![CDATA[SES 将以 31 亿美元收购全球第一家商业卫星运营商 Intelsat。]]></description>
+      <guid>https://arstechnica.com/?p=2020892</guid>
+      <pubDate>Wed, 01 May 2024 01:30:23 GMT</pubDate>
+    </item>
     <item>
       <title>这是您拥有一台退役的美国政府超级计算机的机会</title>
       <link>https://arstechnica.com/?p=2020861</link>
@@ -20,9 +27,9 @@
       <pubDate>Tue, 30 Apr 2024 21:16:57 GMT</pubDate>
     </item>
     <item>
-      <title>据报道，美国缉毒局将把大麻重新归类为低风险药物</title>
+      <title>报道称，DEA 将大麻重新归类为低风险药物</title>
       <link>https://arstechnica.com/?p=2020872</link>
-      <description><![CDATA[大麻将从最危险的毒品类别“附表 1”移至“附表 3”。]]></description>
+      <description><![CDATA[大麻将从最危险的毒品组别 1 移至附表 3。]]></description>
       <guid>https://arstechnica.com/?p=2020872</guid>
       <pubDate>Tue, 30 Apr 2024 21:16:33 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>医疗保健巨头坦白了最近的黑客攻击和支付的赎金</title>
       <link>https://arstechnica.com/?p=2020827</link>
-      <description><![CDATA[针对价值 3710 亿美元的公司的勒索软件攻击削弱了美国处方药市场。]]></description>
+      <description><![CDATA[对价值 3710 亿美元的公司的勒索软件攻击削弱了美国处方药市场。]]></description>
       <guid>https://arstechnica.com/?p=2020827</guid>
       <pubDate>Tue, 30 Apr 2024 20:44:58 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Tue, 30 Apr 2024 20:11:01 GMT</pubDate>
     </item>
     <item>
-      <title>名字不吉利的 AWS S3 存储桶几乎让开发人员损失了 1,300 美元</title>
+      <title>名称不吉利的 AWS S3 存储桶几乎让开发人员损失 1,300 美元</title>
       <link>https://arstechnica.com/?p=2020714</link>
       <description><![CDATA[亚马逊表示，它正在努力阻止其他人“让你的 AWS 账单激增”。]]></description>
       <guid>https://arstechnica.com/?p=2020714</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果您的 iPhone 最近没有叫醒您，那么您并不孤单。]]></description>
       <guid>https://arstechnica.com/?p=2020772</guid>
       <pubDate>Tue, 30 Apr 2024 18:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>FTC 对 Razer 销售假冒“N95 级”RGB 面罩的每一分钱进行罚款</title>
-      <link>https://arstechnica.com/?p=2020701</link>
-      <description><![CDATA[“欺骗性广告和错误信息对公共健康构成风险。”]]></description>
-      <guid>https://arstechnica.com/?p=2020701</guid>
-      <pubDate>Tue, 30 Apr 2024 18:52:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
