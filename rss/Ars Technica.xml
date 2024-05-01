@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 01 May 2024 12:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 13:13:43 GMT</lastBuildDate>
+    <item>
+      <title>每日望远镜：我们以前从未见过的马头星云</title>
+      <link>https://arstechnica.com/?p=2020621</link>
+      <description><![CDATA[韦伯为标志性经典带来新面貌。]]></description>
+      <guid>https://arstechnica.com/?p=2020621</guid>
+      <pubDate>Wed, 01 May 2024 12:00:25 GMT</pubDate>
+    </item>
     <item>
       <title>CenturyLink 让用户两个月没有服务，然后向他们收取 239 美元的费用</title>
       <link>https://arstechnica.com/?p=2020483</link>
@@ -15,14 +22,14 @@
     <item>
       <title>卫星通信行业两大巨头联手对抗星链</title>
       <link>https://arstechnica.com/?p=2020892</link>
-      <description><![CDATA[SES 将以 31 亿美元的价格收购世界上第一家商业卫星运营商 Intelsat。]]></description>
+      <description><![CDATA[SES 以 31 亿美元收购了全球首家商业卫星运营商 Intelsat。]]></description>
       <guid>https://arstechnica.com/?p=2020892</guid>
       <pubDate>Wed, 01 May 2024 01:30:23 GMT</pubDate>
     </item>
     <item>
       <title>这是您拥有一台退役的美国政府超级计算机的机会</title>
       <link>https://arstechnica.com/?p=2020861</link>
-      <description><![CDATA[拥有 145,152 核的夏延超级计算机在 2016 年全球排名第 20 位。]]></description>
+      <description><![CDATA[拥有 145,152 个核心的夏延超级计算机在 2016 年的全球超级计算机排名中位列第 20 位。]]></description>
       <guid>https://arstechnica.com/?p=2020861</guid>
       <pubDate>Tue, 30 Apr 2024 21:52:24 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>名字不吉利的 AWS S3 存储桶几乎让开发人员损失了 1,300 美元</title>
       <link>https://arstechnica.com/?p=2020714</link>
-      <description><![CDATA[亚马逊表示，它正在努力阻止其他人“让你的 AWS 账单激增”。]]></description>
+      <description><![CDATA[亚马逊表示，它正在努力阻止其他人“让你的 AWS 账单爆炸式增长”。]]></description>
       <guid>https://arstechnica.com/?p=2020714</guid>
       <pubDate>Tue, 30 Apr 2024 19:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>神秘“gpt2-chatbot”AI模型突然出现，令专家困惑</title>
-      <link>https://arstechnica.com/?p=2020588</link>
-      <description><![CDATA[Mystery LLM 强调人工智能测试中的透明度问题。]]></description>
-      <guid>https://arstechnica.com/?p=2020588</guid>
-      <pubDate>Tue, 30 Apr 2024 19:31:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
