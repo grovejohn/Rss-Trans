@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface 日报 - 由 RSSHub(https://github.com/DIYgod/RSSHub) 精心制作</description>
-    <lastBuildDate>Wed, 01 May 2024 08:39:42 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Wed, 01 May 2024 09:35:35 GMT</lastBuildDate>
     <item>
       <title>Lightplane：神经 3D 场的高度可扩展组件</title>
       <link>https://arxiv.org/abs/2404.19760</link>
@@ -64,7 +64,7 @@
     <item>
       <title>迭代推理偏好优化</title>
       <link>https://arxiv.org/abs/2404.19733</link>
-      <description><![CDATA[迭代偏好优化方法最近被证明对于一般指令调整任务表现良好，但通常对推理任务几乎没有改进（Yuan 等人，2024；Chen 等人，2024）。在这项工作中，我们开发了一种迭代方法，通过优化导致正确答案的获胜与失败推理步骤来优化竞争生成的思想链 (CoT) 候选者之间的偏好。我们使用修改后的 DPO 损失（Rafailov 等人，2023）和附加的负对数似然项进行训练，我们发现这至关重要。我们展示了该方案的重复迭代中推理能力的提高。虽然仅依赖于训练集中的示例，但我们的方法使 Llama-2-70B-Chat 在 GSM8K 上的准确率从 55.6% 提高到 81.6%（32 个样本中的多数投票为 88.7%），从 12.5% 提高到 20.8% MATH 上的得分从 77.8% 上升到 86.7%，ARC-Challenge 的得分优于其他基于 Llama-2 且不依赖额外来源数据集的模型。]]></description>
+      <description><![CDATA[最近，迭代偏好优化方法已被证明在一般指令调整任务中表现良好，但通常在推理任务上几乎没有改进（Yuan 等人，2024 年，Chen 等人，2024 年）。在这项工作中，我们开发了一种迭代方法，通过优化导致正确答案的获胜与失败推理步骤来优化竞争生成的思路 (CoT) 候选之间的偏好。我们使用修改后的 DPO 损失（Rafailov 等人，2023 年）进行训练，并附加一个负对数似然项，我们发现这至关重要。我们表明，通过重复迭代此方案，推理能力得到了提高。虽然仅依赖训练集中的示例，但我们的方法却将 Llama-2-70B-Chat 在 GSM8K 上的准确率从 55.6% 提高到了 81.6%（在 32 个样本中通过多数投票达到 88.7%），在 MATH 上的准确率从 12.5% 提高到了 20.8%，在 ARC-Challenge 上的准确率从 77.8% 提高到了 86.7%，其表现优于其他不依赖于额外来源数据集的基于 Llama-2 的模型。]]></description>
       <guid>https://arxiv.org/abs/2404.19733</guid>
       <pubDate>Wed, 01 May 2024 02:15:48 GMT</pubDate>
     </item>
