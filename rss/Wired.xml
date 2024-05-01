@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 01 May 2024 15:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 May 2024 16:16:21 GMT</lastBuildDate>
+    <item>
+      <title>一项诉讼称，法律要求 Meta 让你控制自己的信息流</title>
+      <link>https://www.wired.com/story/meta-section-230-users-algorithm/</link>
+      <description><![CDATA[学者 Ethan Zuckerman 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的信息流。]]></description>
+      <guid>https://www.wired.com/story/meta-section-230-users-algorithm/</guid>
+      <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国政府要求大型科技公司承诺提供更好的网络安全</title>
+      <link>https://www.wired.com/story/cisa-cybersecurity-pledge/</link>
+      <description><![CDATA[拜登政府要求科技公司签署《连线》杂志获得的承诺，以提高其数字安全性，包括减少默认密码的使用和改进漏洞披露。]]></description>
+      <guid>https://www.wired.com/story/cisa-cybersecurity-pledge/</guid>
+      <pubDate>Wed, 01 May 2024 16:01:53 GMT</pubDate>
+    </item>
     <item>
       <title>Coconu Wave 按摩器评论：具有唤醒不对称性的振动器</title>
       <link>https://www.wired.com/review/coconu-wave-massager/</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 01 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>庞大的新数据集或将助力人工智能搜寻加密货币洗钱活动</title>
+      <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
       <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
@@ -50,7 +64,7 @@
     <item>
       <title>Instagram 是我的错觉伊甸园。我永远不想离开</title>
       <link>https://www.wired.com/story/instagram-is-my-eden-of-delusion-i-never-want-to-leave/</link>
-      <description><![CDATA[当我重新使用该应用程序并很快上瘾时，我意识到这正是我所需要的：不是现实本身，而是现实的幻觉。]]></description>
+      <description><![CDATA[当我重新加入该应用程序并很快上瘾时，我意识到这正是我所需要的：不是现实本身，而是它的幻象。]]></description>
       <guid>https://www.wired.com/story/instagram-is-my-eden-of-delusion-i-never-want-to-leave/</guid>
       <pubDate>Wed, 01 May 2024 11:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[阿拉蒂·普拉巴卡 (Arati Prabhakar) 得到了美国总统的青睐，并肩负着一项艰巨的使命：帮助管理人工智能、重振半导体行业以及实现癌症登月计划。]]></description>
       <guid>https://www.wired.com/story/arati-prabhakar-ostp-biden-science-tech-adviser/</guid>
       <pubDate>Wed, 01 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>经济实惠的连接计划让他们保持在线。现在该怎么办？</title>
-      <link>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</link>
-      <description><![CDATA[数百万人依靠联邦平价连接计划保持在线状态并获得工作、医疗保健和学校服务。现在该计划已经过期，一些人担心会被取消。]]></description>
-      <guid>https://www.wired.com/story/affordable-connectivity-program-kept-them-online-what-now/</guid>
-      <pubDate>Wed, 01 May 2024 00:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 Pixel 8A 即将上市，但去年的 Pixel 7A 价格仍处于最低水平</title>
-      <link>https://www.wired.com/story/google-pixel-deals-april-2024/</link>
-      <description><![CDATA[如果您想加入 Google Pixel 生态系统，那么您很幸运。谷歌的 A 系列手机与 Pixel Watch 2 一起发售。]]></description>
-      <guid>https://www.wired.com/story/google-pixel-deals-april-2024/</guid>
-      <pubDate>Tue, 30 Apr 2024 21:32:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
