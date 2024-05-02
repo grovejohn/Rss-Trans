@@ -1,79 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Huggingface 日报</title>
+    <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 03:36:41 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 02 May 2024 04:15:18 GMT</lastBuildDate>
     <item>
-      <title>Lightplane：神经 3D 场的高度可扩展组件</title>
-      <link>https://arxiv.org/abs/2404.19760</link>
-      <description><![CDATA[当代 3D 研究，特别是在重建和生成方面，严重依赖 2D 图像进行输入或监督。然而，目前这些 2D-3D 映射的设计是内存密集型的，给现有方法带来了重大瓶颈，并阻碍了新的应用。为此，我们为 3D 神经领域提出了一对高度可扩展的组件：Lightplane Render 和 Splatter，它们可显着减少 2D-3D 映射中的内存使用量。这些创新使得能够以较小的内存和计算成本处理更多、更高分辨率的图像。我们展示了它们在各种应用中的实用性，从受益于具有图像级损失的单场景优化，到实现用于大幅扩展 3D 重建和生成的多功能管道。代码：https://github.com/facebookresearch/lightplane。]]></description>
-      <guid>https://arxiv.org/abs/2404.19760</guid>
-      <pubDate>Wed, 01 May 2024 04:50:37 GMT</pubDate>
+      <title>编辑批量大小总是越大越好吗？ -- Llama-3模型编辑的实证研究</title>
+      <link>https://arxiv.org/abs/2405.00664</link>
+      <description><![CDATA[本研究针对最新的大型语言模型 Llama-3 进行了有针对性的模型编辑分析。我们探索了流行的模型编辑技术 ROME、MEMIT 和 EMMET 的有效性，这些技术旨在进行精确的层干预。我们通过评估确定了针对性编辑最有效的层，该评估涵盖了三种不同策略的多达 4096 次编辑：顺序编辑、批量编辑和我们称之为顺序批量编辑的混合方法。我们的研究结果表明，增加编辑批量大小可能会比顺序使用较小的编辑批量进行相同数量的编辑更显著地降低模型性能。据此，我们认为顺序模型编辑是扩展模型编辑方法的重要组成部分，未来的研究应该侧重于结合批量和顺序编辑的方法。这一观察结果表明，当前模型编辑方法存在潜在的局限性，这推动了更大的编辑批量大小，我们希望它为未来优化批量大小和模型编辑性能的研究铺平道路。]]></description>
+      <guid>https://arxiv.org/abs/2405.00664</guid>
+      <pubDate>Thu, 02 May 2024 03:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>MotionLCM：通过潜在一致性模型生成实时可控运动</title>
-      <link>https://arxiv.org/abs/2404.19759</link>
-      <description><![CDATA[这项工作引入了 MotionLCM，将可控运动生成扩展到实时水平。文本条件运动生成中的现有空间控制方法存在显着的运行时效率低下的问题。为了解决这个问题，我们首先在潜在扩散模型（MLD）的基础上提出了用于运动生成的运动潜在一致性模型（MotionLCM）。通过采用一步（或少步）推理，我们进一步提高了运动生成的运动潜在扩散模型的运行效率。为了确保有效的可控性，我们在 MotionLCM 的潜在空间中加入了一个运动 ControlNet，并在普通运动空间中启用显式控制信号（例如骨盆轨迹）来直接控制生成过程，类似于控制其他运动的无潜在扩散模型一代。通过采用这些技术，我们的方法可以实时生成带有文本和控制信号的人体动作。实验结果证明了 MotionLCM 卓越的生成和控制能力，同时保持了实时运行效率。]]></description>
-      <guid>https://arxiv.org/abs/2404.19759</guid>
-      <pubDate>Wed, 01 May 2024 04:44:26 GMT</pubDate>
+      <title>仔细检查大型语言模型在小学算术中的表现</title>
+      <link>https://arxiv.org/abs/2405.00332</link>
+      <description><![CDATA[大型语言模型 (LLM) 在许多数学推理基准上取得了令人瞩目的成功。然而，人们越来越担心，其中一些性能实际上反映了数据集污染，即与基准问题非常相似的数据泄漏到训练数据中，而不是真正的推理能力。为了严格调查这一说法，我们委托 Grade School Math 1000 (GSM1k)。 GSM1k 的设计反映了已建立的 GSM8k 基准的风格和复杂性，GSM8k 基准是衡量基本数学推理的黄金标准。我们确保这两个基准在人类解决率、解决步骤数、答案大小等重要指标上具有可比性。在评估 GSM1k 上领先的开源和闭源法学硕士时，我们观察到准确性下降高达 13%，几个模型系列（例如 Phi 和 Mistral）显示出几乎所有模型大小的系统过度拟合的证据。与此同时，许多模型，尤其是前沿模型（例如 Gemini/GPT/Claude）显示出最小的过度拟合迹象。进一步的分析表明，模型从 GSM8k 生成示例的概率与其在 GSM8k 和 GSM1k 之间的性能差距之间存在正相关关系（Spearman&#39;s r^2=0.32），这表明许多模型可能部分记住了 GSM8k。]]></description>
+      <guid>https://arxiv.org/abs/2405.00332</guid>
+      <pubDate>Thu, 02 May 2024 02:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>KAN：柯尔莫哥洛夫-阿诺德网络</title>
-      <link>https://arxiv.org/abs/2404.19756</link>
-      <description><![CDATA[受柯尔莫哥洛夫-阿诺德表示定理的启发，我们提出柯尔莫哥洛夫-阿诺德网络（KAN）作为多层感知器（MLP）的有前途的替代品。 MLP 在节点（“神经元”）上具有固定的激活函数，而 KAN 在边缘（“权重”）上具有可学习的激活函数。 KAN 根本没有线性权重——每个权重参数都被参数化为样条函数的单变量函数所取代。我们证明，这种看似简单的改变使得 KAN 在准确性和可解释性方面优于 MLP。就准确性而言，在数据拟合和 PDE 求解中，较小的 KAN 可以比较大的 MLP 获得可比或更好的准确性。从理论上和经验上来说，KAN 比 MLP 拥有更快的神经尺度法则。为了可解释性，KAN 可以直观地可视化，并且可以轻松地与人类用户交互。通过数学和物理领域的两个例子，KAN 被证明是帮助科学家（重新）发现数学和物理定律的有用合作者。总之，KAN 是 MLP 的有前途的替代品，为进一步改进当今严重依赖 MLP 的深度学习模型提供了机会。]]></description>
-      <guid>https://arxiv.org/abs/2404.19756</guid>
-      <pubDate>Wed, 01 May 2024 04:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>隐形缝合：通过深度修复生成平滑的 3D 场景</title>
-      <link>https://arxiv.org/abs/2404.19758</link>
-      <description><![CDATA[在 2D 生成扩散模型的持续改进的推动下，3D 场景生成已迅速成为一个具有挑战性的新研究方向。该领域的大多数先前工作都是通过将新生成的帧与现有几何体迭代拼接来生成场景。这些工作通常依赖于预先训练的单目深度估计器来将生成的图像提升为 3D，并将其与现有的场景表示融合。然后，通常通过文本度量来评估这些方法，测量生成的图像和给定文本提示之间的相似性。在这项工作中，我们对 3D 场景生成领域做出了两项基本贡献。首先，我们注意到使用单目深度估计模型将图像提升到 3D 并不是最优的，因为它忽略了现有场景的几何形状。因此，我们引入了一种新颖的深度补全模型，通过教师蒸馏和自我训练进行训练，以学习 3D 融合过程，从而提高场景的几何一致性。其次，我们引入了一种基于地面实况几何的场景生成方法的新基准测试方案，从而衡量场景结构的质量。]]></description>
-      <guid>https://arxiv.org/abs/2404.19758</guid>
-      <pubDate>Wed, 01 May 2024 04:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>MicroDreamer：通过基于分数的迭代重建在大约 20 秒内实现零样本 3D 生成</title>
-      <link>https://arxiv.org/abs/2404.19525</link>
-      <description><![CDATA[基于优化的方法，例如分数蒸馏采样 (SDS)，在零样本 3D 生成中显示出前景，但效率较低，这主要是由于每个样本需要大量的函数评估 (NFE)。在本文中，我们介绍了基于分数的迭代重建 (SIR)，这是一种使用基于多视图分数的扩散模型进行 3D 生成的高效且通用的算法。给定扩散模型生成的图像，SIR 通过重复优化 3D 参数来减少 NFE，这与 SDS 中的单一优化不同，模仿 3D 重建过程。通过像素空间优化等其他改进，我们提出了一种称为 MicroDreamer 的有效方法，该方法通常适用于各种 3D 表示和 3D 生成任务。特别是，在保持相当性能的情况下，MicroDreamer 生成神经辐射场的速度比 SDS 快 5-20 倍，在单个 A100 GPU 上通过 3D 高斯分裂生成网格只需约 20 秒，将最快零样本基线的时间减半，梦幻高斯。我们的代码可在 https://github.com/ML-GSAI/MicroDreamer 获取。]]></description>
-      <guid>https://arxiv.org/abs/2404.19525</guid>
-      <pubDate>Wed, 01 May 2024 04:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉事实检查器：实现高保真详细字幕生成</title>
-      <link>https://arxiv.org/abs/2404.19752</link>
-      <description><![CDATA[现有的视觉内容自动字幕方法面临着缺乏细节、内容幻觉和指令跟随性差等挑战。在这项工作中，我们提出了 VisualFactChecker (VFC)，这是一种灵活的免训练管道，可为 2D 图像和 3D 对象生成高保真且详细的字幕。 VFC 包含三个步骤：1）提议，其中图像到文本字幕模型提出多个初始字幕； 2) 验证，其中大型语言模型 (LLM) 利用对象检测和 VQA 模型等工具来对提议的标题进行事实检查； 3）字幕，法学硕士通过总结字幕提案和事实检查验证结果生成最终字幕。在这一步中，VFC可以按照复杂的指令灵活地生成各种风格的字幕。我们使用四个指标进行全面的字幕评估：1）图像文本相似度的 CLIP-Score； 2）CLIP-Image-Score，用于测量原始图像与使用标题的文本到图像模型生成的重建图像之间的图像相似度。 3）亚马逊Mechanical Turk上的人体研究； 4）GPT-4V用于细粒度评估。评估结果表明，对于 COCO 数据集上的 2D 图像和 Objaverse 数据集上的 3D 资产，VFC 的性能优于最先进的开源字幕方法。我们的研究表明，通过将开源模型组合到管道中，我们可以获得与 GPT-4V 等专有模型相当的字幕功能，尽管模型大小小 10 倍以上。]]></description>
-      <guid>https://arxiv.org/abs/2404.19752</guid>
-      <pubDate>Wed, 01 May 2024 03:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>一夜之间将 Llama-3 的上下文扩展十倍</title>
-      <link>https://arxiv.org/abs/2404.19553</link>
-      <description><![CDATA[我们通过 QLoRA 微调将 Llama-3-8B-Instruct 的上下文长度从 8K 扩展到 80K。整个训练周期非常高效，在一台 8xA800 (80G) GPU 机器上需要 8 个小时。所得到的模型在广泛的评估任务中表现出卓越的性能，例如 NIHS、主题检索和长上下文语言理解；同时，它也很好地保留了短上下文中的原始能力。戏剧性的上下文扩展主要归因于 GPT-4 生成的仅 3.5K 合成训练样本，这表明法学硕士具有扩展其原始上下文长度的固有（但在很大程度上被低估）潜力。事实上，使用更多的计算资源，上下文长度可以远远超出 80K。因此，团队将公开发布全部资源（包括数据、模型、数据生成管道、训练代码），以方便社区未来的研究：https://github.com/FlagOpen/FlagEmbedding。]]></description>
-      <guid>https://arxiv.org/abs/2404.19553</guid>
-      <pubDate>Wed, 01 May 2024 03:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Octopus v4：语言模型图</title>
-      <link>https://arxiv.org/abs/2404.19296</link>
-      <description><![CDATA[语言模型在广泛的应用中都很有效，但最复杂的模型通常是专有的。例如，OpenAI 的 GPT-4 和 Anthropic 的各种模型价格昂贵且消耗大量能源。相比之下，开源社区已经产生了具有竞争力的模型，例如 Llama3。此外，特定领域的较小语言模型，例如为法律、医疗或金融任务量身定制的语言模型，其性能优于其专有同行。本文介绍了一种新颖的方法，该方法采用功能代币来集成多个开源模型，每个模型都针对特定任务进行了优化。我们新开发的 Octopus v4 模型利用功能令牌智能地将用户查询引导到最合适的垂直模型，并重新格式化查询以实现最佳性能。 Octopus v4 是 Octopus v1、v2 和 v3 模型的演变，在选择、参数理解和重新格式化方面表现出色。此外，我们探索使用图作为一种多功能数据结构，通过利用章鱼模型和功能令牌的功能来有效协调多个开源模型。使用我们的开源 GitHub (https://www.nexa4ai.com/) 尝试 Octopus v4 模型 (https://huggingface.co/NexaAIDev/Octopus-v4)，并感谢更大的语言模型图。通过激活少于 10B 参数的模型，我们在同级别模型中获得了 74.8 的 SOTA MMLU 分数。]]></description>
-      <guid>https://arxiv.org/abs/2404.19296</guid>
-      <pubDate>Wed, 01 May 2024 03:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>迭代推理偏好优化</title>
-      <link>https://arxiv.org/abs/2404.19733</link>
-      <description><![CDATA[最近，迭代偏好优化方法已被证明在一般指令调整任务中表现良好，但通常在推理任务上几乎没有改进（Yuan 等人，2024 年，Chen 等人，2024 年）。在这项工作中，我们开发了一种迭代方法，通过优化导致正确答案的获胜与失败推理步骤来优化竞争生成的思路 (CoT) 候选之间的偏好。我们使用修改后的 DPO 损失（Rafailov 等人，2023 年）进行训练，并附加一个负对数似然项，我们发现这至关重要。我们表明，通过重复迭代此方案，推理能力得到了提高。虽然仅依赖训练集中的示例，但我们的方法却将 Llama-2-70B-Chat 在 GSM8K 上的准确率从 55.6% 提高到了 81.6%（在 32 个样本中通过多数投票达到 88.7%），在 MATH 上的准确率从 12.5% 提高到了 20.8%，在 ARC-Challenge 上的准确率从 77.8% 提高到了 86.7%，其表现优于其他不依赖于额外来源数据集的基于 Llama-2 的模型。]]></description>
-      <guid>https://arxiv.org/abs/2404.19733</guid>
-      <pubDate>Wed, 01 May 2024 02:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>SAGS：结构感知 3D 高斯溅射</title>
-      <link>https://arxiv.org/abs/2404.19149</link>
-      <description><![CDATA[随着 NeRF 的出现，3D 高斯分布 (3D-GS) 为实时神经渲染铺平了道路，克服了体积方法的计算负担。继 3D-GS 的开创性工作之后，多种方法尝试实现可压缩和高保真性能替代方案。然而，通过采用与几何无关的优化方案，这些方法忽略了场景固有的 3D 结构，从而限制了表现力和表示质量，导致出现各种浮点和伪影。在这项工作中，我们提出了一种结构感知高斯泼溅方法（SAGS），该方法隐式编码场景的几何形状，这反映了最先进的渲染性能并减少了基准新颖视图合成数据集的存储要求。 SAGS 基于局部全局图形表示，有助于复杂场景的学习并强制执行有意义的点位移，以保留场景的几何形状。此外，我们引入了 SAGS 的轻量级版本，使用简单而有效的中点插值方案，该方案展示了场景的紧凑表示，尺寸减少了 24 倍，而无需依赖任何压缩策略。跨多个基准数据集的大量实验证明了 SAGS 在渲染质量和模型大小方面均优于最先进的 3D-GS 方法。此外，我们证明了我们的结构感知方法可以有效减轻先前方法的浮动伪影和不规则失真，同时获得精确的深度图。项目页面 https://eververas.github.io/SAGS/。]]></description>
-      <guid>https://arxiv.org/abs/2404.19149</guid>
-      <pubDate>Wed, 01 May 2024 02:12:03 GMT</pubDate>
+      <title>具有神经补偿的光谱修剪高斯场</title>
+      <link>https://arxiv.org/abs/2405.00676</link>
+      <description><![CDATA[近年来，3D高斯溅射作为一种新颖的3D表示方法，因其渲染速度快、渲染质量高而受到人们的关注。然而，这会带来高内存消耗，例如，训练有素的高斯场可能会利用 300 万个高斯基元和超过 700 MB 的内存。我们将这种高内存占用归因于缺乏对基元之间关系的考虑。在本文中，我们提出了一种具有谱修剪和神经补偿功能的内存高效高斯场，名为 SUNDAE。一方面，我们在高斯基元集上构建一个图来建模它们的关系，并设计一个频谱下采样模块来修剪基元，同时保留所需的信号。另一方面，为了补偿剪枝高斯的质量损失，我们利用轻量级神经网络头来混合分散特征，这可以有效地补偿质量损失，同时捕获其权重中基元之间的关系。我们通过广泛的成果展示了圣代的性能。例如，在 Mip-NeRF360 数据集上，SUNDAE 使用 104 MB 内存可在 145 FPS 下实现 26.80 PSNR，而普通高斯泼溅算法可使用 523 MB 内存在 160 FPS 下实现 25.60 PSNR。代码可在 https://runyiyang.github.io/projects/SUNDAE/ 上公开获取。]]></description>
+      <guid>https://arxiv.org/abs/2405.00676</guid>
+      <pubDate>Thu, 02 May 2024 02:14:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
