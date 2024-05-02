@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>拥抱日报</title>
+    <title>Huggingface 日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 19:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 20:13:53 GMT</lastBuildDate>
     <item>
       <title>STT：使用 Transformer 进行自动驾驶的状态跟踪</title>
       <link>https://arxiv.org/abs/2405.00236</link>
@@ -55,7 +55,7 @@
       <pubDate>Thu, 02 May 2024 03:09:06 GMT</pubDate>
     </item>
     <item>
-      <title>仔细检查大型语言模型在小学算术中的表现</title>
+      <title>仔细检查大型语言模型对小学算术的表现</title>
       <link>https://arxiv.org/abs/2405.00332</link>
       <description><![CDATA[大型语言模型 (LLM) 在许多数学推理基准上取得了令人瞩目的成功。然而，人们越来越担心，这种性能的一部分实际上反映了数据集污染，即与基准问题非常相似的数据泄漏到训练数据中，而不是真正的推理能力。为了严格调查这一说法，我们委托 Grade School Math 1000 (GSM1k)。 GSM1k 的设计反映了已建立的 GSM8k 基准的风格和复杂性，GSM8k 基准是衡量基本数学推理的黄金标准。我们确保这两个基准在人类解决率、解决步骤数、答案大小等重要指标上具有可比性。在评估 GSM1k 上领先的开源和闭源法学硕士时，我们观察到准确性下降高达 13%，几个模型系列（例如 Phi 和 Mistral）显示出几乎所有模型大小的系统过度拟合的证据。与此同时，许多模型，尤其是前沿模型（例如 Gemini/GPT/Claude）显示出最小的过度拟合迹象。进一步的分析表明，模型从 GSM8k 生成示例的概率与其 GSM8k 和 GSM1k 之间的性能差距之间存在正相关关系（Spearman 的 r^2=0.32），这表明许多模型可能部分记住了 GSM8k。]]></description>
       <guid>https://arxiv.org/abs/2405.00332</guid>
