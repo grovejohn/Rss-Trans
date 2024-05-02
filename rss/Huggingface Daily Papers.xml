@@ -3,19 +3,19 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 01:52:06 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Thu, 02 May 2024 02:23:04 GMT</lastBuildDate>
     <item>
-      <title>Lightplane：神经 3D 场的高度可扩展组件</title>
+      <title>Lightplane：用于神经 3D 场的高度可扩展组件</title>
       <link>https://arxiv.org/abs/2404.19760</link>
-      <description><![CDATA[当代 3D 研究，尤其是重建和生成方面的研究，严重依赖 2D 图像作为输入或监督。然而，这些 2D-3D 映射的当前设计是内存密集型的，对现有方法构成了重大瓶颈，并阻碍了新应用的发展。为此，我们提出了一对高度可扩展的 3D 神经场组件：Lightplane Render 和 Splatter，它们可显著减少 2D-3D 映射中的内存使用量。这些创新能够以较小的内存和计算成本处理更多、分辨率更高的图像。我们在各种应用中展示了它们的实用性，从受益于具有图像级损失的单场景优化到实现用于大幅扩展 3D 重建和生成的多功能管道。代码：https://github.com/facebookresearch/lightplane。]]></description>
+      <description><![CDATA[当代 3D 研究，特别是在重建和生成方面，严重依赖 2D 图像进行输入或监督。然而，目前这些 2D-3D 映射的设计是内存密集型的，给现有方法带来了重大瓶颈，并阻碍了新的应用。为此，我们为 3D 神经领域提出了一对高度可扩展的组件：Lightplane Render 和 Splatter，它们可显着减少 2D-3D 映射中的内存使用量。这些创新使得能够以较小的内存和计算成本处理更多、更高分辨率的图像。我们展示了它们在各种应用中的实用性，从受益于具有图像级损失的单场景优化，到实现用于大幅扩展 3D 重建和生成的多功能管道。代码：https://github.com/facebookresearch/lightplane。]]></description>
       <guid>https://arxiv.org/abs/2404.19760</guid>
       <pubDate>Wed, 01 May 2024 04:50:37 GMT</pubDate>
     </item>
     <item>
       <title>MotionLCM：通过潜在一致性模型生成实时可控运动</title>
       <link>https://arxiv.org/abs/2404.19759</link>
-      <description><![CDATA[这项工作引入了 MotionLCM，将可控运动生成扩展到实时水平。文本条件运动生成中的现有空间控制方法存在显着的运行时效率低下的问题。为了解决这个问题，我们首先在潜在扩散模型（MLD）的基础上提出了用于运动生成的运动潜在一致性模型（MotionLCM）。通过采用一步（或少步）推理，我们进一步提高了运动生成的运动潜在扩散模型的运行效率。为了确保有效的可控性，我们在 MotionLCM 的潜在空间中加入了一个运动 ControlNet，并在普通运动空间中启用显式控制信号（例如骨盆轨迹）来直接控制生成过程，类似于控制其他运动的无潜在扩散模型一代。通过采用这些技术，我们的方法可以实时生成带有文本和控制信号的人体动作。实验结果证明了 MotionLCM 卓越的生成和控制能力，同时保持了实时运行效率。]]></description>
+      <description><![CDATA[这项工作引入了 MotionLCM，将可控运动生成扩展到实时级别。现有的文本条件运动生成中的空间控制方法存在严重的运行时效率低下问题。为了解决这个问题，我们首先提出了基于潜在扩散模型 (MLD) 的运动生成运动潜在一致性模型 (MotionLCM)。通过采用一步（或几步）推理，我们进一步提高了用于运动生成的运动潜在扩散模型的运行时效率。为了确保有效的可控性，我们在 MotionLCM 的潜在空间中加入了运动控制网，并在原始运动空间中启用显式控制信号（例如骨盆轨迹）来直接控制生成过程，类似于控制其他无潜在扩散模型进行运动生成。通过采用这些技术，我们的方法可以实时生成带有文本和控制信号的人体运动。实验结果表明，MotionLCM 具有出色的生成和控制能力，同时保持了实时运行时效率。]]></description>
       <guid>https://arxiv.org/abs/2404.19759</guid>
       <pubDate>Wed, 01 May 2024 04:44:26 GMT</pubDate>
     </item>
@@ -43,7 +43,7 @@
     <item>
       <title>视觉事实检查器：实现高保真详细字幕生成</title>
       <link>https://arxiv.org/abs/2404.19752</link>
-      <description><![CDATA[现有的视觉内容自动字幕方法面临着缺乏细节、内容幻觉和指令跟随性差等挑战。在这项工作中，我们提出了 VisualFactChecker (VFC)，这是一种灵活的免训练管道，可为 2D 图像和 3D 对象生成高保真且详细的字幕。 VFC 包含三个步骤：1）提议，其中图像到文本字幕模型提出多个初始字幕； 2) 验证，其中大型语言模型 (LLM) 利用对象检测和 VQA 模型等工具来对提议的标题进行事实检查； 3）字幕，法学硕士通过总结字幕提案和事实检查验证结果生成最终字幕。在这一步中，VFC可以按照复杂的指令灵活地生成各种风格的字幕。我们使用四个指标进行全面的字幕评估：1）图像文本相似度的 CLIP-Score； 2）CLIP-Image-Score，用于测量原始图像与使用标题的文本到图像模型生成的重建图像之间的图像相似度。 3）亚马逊Mechanical Turk上的人体研究； 4）GPT-4V用于细粒度评估。评估结果表明，对于 COCO 数据集上的 2D 图像和 Objaverse 数据集上的 3D 资产，VFC 的性能优于最先进的开源字幕方法。我们的研究表明，通过将开源模型组合到管道中，我们可以获得与 GPT-4V 等专有模型相当的字幕功能，尽管模型大小小 10 倍以上。]]></description>
+      <description><![CDATA[现有的视觉内容自动字幕方法面临着缺乏细节、内容幻觉和指令跟随性差等挑战。在这项工作中，我们提出了 VisualFactChecker (VFC)，这是一种灵活的免训练管道，可为 2D 图像和 3D 对象生成高保真且详细的字幕。 VFC 包含三个步骤：1）提议，其中图像到文本字幕模型提出多个初始字幕； 2) 验证，其中大型语言模型 (LLM) 利用对象检测和 VQA 模型等工具来对提议的标题进行事实检查； 3）字幕，法学硕士通过总结字幕提案和事实检查验证结果生成最终字幕。在这一步中，VFC可以按照复杂的指令灵活地生成各种风格的字幕。我们使用四个指标进行全面的字幕评估：1）图像文本相似度的 CLIP-Score； 2) CLIP-Image-Score，用于测量原始图像与使用标题的文本到图像模型生成的重建图像之间的图像相似度。 3）亚马逊Mechanical Turk上的人体研究； 4）GPT-4V用于细粒度评估。评估结果表明，对于 COCO 数据集上的 2D 图像和 Objaverse 数据集上的 3D 资产，VFC 的性能优于最先进的开源字幕方法。我们的研究表明，通过将开源模型组合到管道中，我们可以获得与 GPT-4V 等专有模型相当的字幕功能，尽管模型大小小 10 倍以上。]]></description>
       <guid>https://arxiv.org/abs/2404.19752</guid>
       <pubDate>Wed, 01 May 2024 03:29:03 GMT</pubDate>
     </item>
@@ -57,14 +57,14 @@
     <item>
       <title>Octopus v4：语言模型图</title>
       <link>https://arxiv.org/abs/2404.19296</link>
-      <description><![CDATA[语言模型在广泛的应用中都很有效，但最复杂的模型通常是专有的。例如，OpenAI 的 GPT-4 和 Anthropic 的各种模型价格昂贵且消耗大量能源。相比之下，开源社区已经产生了具有竞争力的模型，例如 Llama3。此外，针对特定领域的小型语言模型（例如为法律、医疗或金融任务量身定制的模型）的表现优于其专有模型。本文介绍了一种新方法，该方法使用功能标记来集成多个开源模型，每个模型都针对特定任务进行了优化。我们新开发的 Octopus v4 模型利用功能标记将用户查询智能地引导到最合适的垂直模型并重新格式化查询以实现最佳性能。Octopus v4 是 Octopus v1、v2 和 v3 模型的演变，在选择和参数理解以及重新格式化方面表现出色。此外，我们探索了将图用作一种多功能数据结构，通过利用 Octopus 模型和功能标记的功能有效地协调多个开源模型。使用我们的开源 GitHub (https://www.nexa4ai.com/) 尝试 Octopus v4 模型 (https://huggingface.co/NexaAIDev/Octopus-v4)，并向更大的语言模型图致敬。通过激活少于 10B 参数的模型，我们在同级别模型中取得了 74.8 的 SOTA MMLU 分数。]]></description>
+      <description><![CDATA[语言模型在广泛的应用中都很有效，但最复杂的模型通常是专有的。例如，OpenAI 的 GPT-4 和 Anthropic 的各种模型价格昂贵且消耗大量能源。相比之下，开源社区已经产生了具有竞争力的模型，例如 Llama3。此外，针对特定领域的较小语言模型，例如为法律、医疗或金融任务量身定制的语言模型，其性能优于其专有同行。本文介绍了一种新颖的方法，该方法采用功能代币来集成多个开源模型，每个模型都针对特定任务进行了优化。我们新开发的 Octopus v4 模型利用功能令牌智能地将用户查询引导到最合适的垂直模型，并重新格式化查询以实现最佳性能。 Octopus v4 是 Octopus v1、v2 和 v3 模型的演变，在选择、参数理解和重新格式化方面表现出色。此外，我们探索使用图作为一种多功能数据结构，通过利用章鱼模型和功能令牌的功能来有效协调多个开源模型。使用我们的开源 GitHub (https://www.nexa4ai.com/) 尝试 Octopus v4 模型 (https://huggingface.co/NexaAIDev/Octopus-v4)，并感谢更大的语言模型图。通过激活少于 10B 参数的模型，我们在同级别模型中获得了 74.8 的 SOTA MMLU 分数。]]></description>
       <guid>https://arxiv.org/abs/2404.19296</guid>
       <pubDate>Wed, 01 May 2024 03:20:41 GMT</pubDate>
     </item>
     <item>
       <title>迭代推理偏好优化</title>
       <link>https://arxiv.org/abs/2404.19733</link>
-      <description><![CDATA[迭代偏好优化方法最近被证明对于一般指令调整任务表现良好，但通常对推理任务几乎没有改进（Yuan 等人，2024；Chen 等人，2024）。在这项工作中，我们开发了一种迭代方法，通过优化导致正确答案的获胜与失败推理步骤来优化竞争生成的思想链 (CoT) 候选者之间的偏好。我们使用修改后的 DPO 损失（Rafailov 等人，2023）和附加的负对数似然项进行训练，我们发现这至关重要。我们展示了该方案的重复迭代中推理能力的提高。虽然仅依赖训练集中的示例，但我们的方法使 Llama-2-70B-Chat 在 GSM8K 上的准确率从 55.6% 提高到 81.6%（32 个样本中的多数投票为 88.7%），从 12.5% 提高到 20.8 MATH 上的得分从 77.8% 上升到 86.7%，ARC-Challenge 的得分优于其他基于 Llama-2 且不依赖额外来源数据集的模型。]]></description>
+      <description><![CDATA[最近，迭代偏好优化方法已被证明在一般指令调整任务中表现良好，但通常在推理任务上几乎没有改进（Yuan 等人，2024 年，Chen 等人，2024 年）。在这项工作中，我们开发了一种迭代方法，通过优化导致正确答案的获胜与失败推理步骤来优化竞争生成的思路 (CoT) 候选之间的偏好。我们使用修改后的 DPO 损失（Rafailov 等人，2023 年）进行训练，并附加一个负对数似然项，我们发现这至关重要。我们表明，通过重复迭代此方案，推理能力得到了提高。虽然仅依赖训练集中的示例，但我们的方法却将 Llama-2-70B-Chat 在 GSM8K 上的准确率从 55.6% 提高到了 81.6%（在 32 个样本中通过多数投票达到 88.7%），在 MATH 上的准确率从 12.5% 提高到了 20.8%，在 ARC-Challenge 上的准确率从 77.8% 提高到了 86.7%，其表现优于其他不依赖于额外来源数据集的基于 Llama-2 的模型。]]></description>
       <guid>https://arxiv.org/abs/2404.19733</guid>
       <pubDate>Wed, 01 May 2024 02:15:48 GMT</pubDate>
     </item>
