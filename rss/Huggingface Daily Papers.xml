@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 17:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 18:17:05 GMT</lastBuildDate>
     <item>
       <title>STT：利用 Transformers 实现自动驾驶状态跟踪</title>
       <link>https://arxiv.org/abs/2405.00236</link>
@@ -20,7 +20,7 @@
       <pubDate>Thu, 02 May 2024 05:53:15 GMT</pubDate>
     </item>
     <item>
-      <title>Inpaint 绘画：通过先移除图像对象来学习添加图像对象</title>
+      <title>Paint by Inpaint：学习通过先删除图像对象来添加图像对象</title>
       <link>https://arxiv.org/abs/2404.18212</link>
       <description><![CDATA[随着文本条件扩散模型的引入，图像编辑取得了显着进步。尽管取得了这些进展，但基于文本指令将对象无缝添加到图像而不需要用户提供的输入掩码仍然是一个挑战。我们通过利用这样的见解来解决这个问题：删除对象（修复）比添加对象的逆过程（绘制）要简单得多，这归因于使用分段掩模数据集以及在这些掩模内进行修复的修复模型。利用这种实现，通过实现自动化和广泛的管道，我们策划了一个过滤后的大规模图像数据集，其中包含图像对及其相应的对象删除版本。使用这些对，我们训练扩散模型来反转修复过程，有效地将对象添加到图像中。与其他编辑数据集不同，我们的数据集具有自然目标图像而不是合成图像；此外，它通过构造来保持源和目标之间的一致性。此外，我们利用大型视觉语言模型来提供删除对象的详细描述，并利用大型语言模型将这些描述转换为各种自然语言指令。我们表明，训练后的模型在质量和数量上都超越了现有模型，并将大规模数据集与训练后的模型一起发布给社区。]]></description>
       <guid>https://arxiv.org/abs/2404.18212</guid>
@@ -43,7 +43,7 @@
     <item>
       <title>SemantiCodec：适用于一般声音的超低比特率语义音频编解码器</title>
       <link>https://arxiv.org/abs/2405.00233</link>
-      <description><![CDATA[大型语言模型 (LLM) 通过将音频编解码器将音频转换为离散标记，显著提高了音频处理能力，从而可以将语言建模技术应用于音频数据。然而，传统的编解码器通常以高比特率或在语音等狭窄领域内运行，并且缺乏高效语言建模所需的语义线索。为了应对这些挑战，我们推出了 SemantiCodec，这是一种新颖的编解码器，旨在将音频压缩为每秒少于一百个标记，涵盖各种音频类型，包括语音、一般音频和音乐，而不会影响质量。SemantiCodec 具有双编码器架构：使用自监督 AudioMAE 的语义编码器，使用 k 均值聚类对大量音频数据进行离散化，以及用于捕获其余细节的声学编码器。语义和声学编码器输出用于通过基于扩散模型的解码器重建音频。 SemantiCodec 有三种变体，令牌速率分别为每秒 25、50 和 100，支持 0.31 kbps 至 1.43 kbps 之间的一系列超低比特率。实验结果表明，SemantiCodec 在重建质量方面明显优于最先进的 Descript 编解码器。我们的结果还表明，即使在比特率明显较低的情况下，SemantiCodec 也包含比所有评估的音频编解码器更丰富的语义信息。我们的代码和演示可在 https://haoheliu.github.io/SemantiCodec/ 上找到。]]></description>
+      <description><![CDATA[大型语言模型 (LLM) 通过将音频转换为离散标记的音频编解码器具有显着先进的音频处理能力，从而能够将语言建模技术应用于音频数据。然而，传统编解码器通常以高比特率或在语音等狭窄领域内运行，并且缺乏有效语言建模所需的语义线索。为了解决这些挑战，我们推出了 SemantiCodec，这是一种新颖的编解码器，旨在将不同音频类型（包括语音、一般音频和音乐）的音频压缩成每秒不到一百个令牌，而不会影响质量。 SemantiCodec 采用双编码器架构：使用自监督 AudioMAE 的语义编码器，在大量音频数据上使用 k 均值聚类进行离散化，以及用于捕获剩余细节的声学编码器。语义和声学编码器输出用于通过基于扩散模型的解码器重建音频。 SemantiCodec 提供三种变体，令牌速率分别为每秒 25、50 和 100，支持 0.31 kbps 到 1.43 kbps 之间的一系列超低比特率。实验结果表明 SemantiCodec 在重建质量方面明显优于最先进的 Descript 编解码器。我们的结果还表明，SemantiCodec 比所有评估的音频编解码器包含更丰富的语义信息，即使比特率明显较低。我们的代码和演示可在 https://haoheliu.github.io/SemantiCodec/ 获取。]]></description>
       <guid>https://arxiv.org/abs/2405.00233</guid>
       <pubDate>Thu, 02 May 2024 04:44:14 GMT</pubDate>
     </item>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 02 May 2024 02:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>具有神经补偿的光谱修剪高斯场</title>
+      <title>具有神经补偿的谱剪枝高斯场</title>
       <link>https://arxiv.org/abs/2405.00676</link>
       <description><![CDATA[近年来，3D高斯溅射作为一种新颖的3D表示方法，因其渲染速度快、渲染质量高而受到人们的关注。然而，这会带来高内存消耗，例如，训练有素的高斯场可能会利用 300 万个高斯基元和超过 700 MB 的内存。我们将这种高内存占用归因于缺乏对基元之间关系的考虑。在本文中，我们提出了一种具有谱修剪和神经补偿功能的内存高效高斯场，名为 SUNDAE。一方面，我们在高斯基元集上构建一个图来建模它们的关系，并设计一个频谱下采样模块来修剪基元，同时保留所需的信号。另一方面，为了补偿剪枝高斯的质量损失，我们利用轻量级神经网络头来混合分散特征，这可以有效地补偿质量损失，同时捕获其权重中基元之间的关系。我们通过广泛的成果展示了圣代的性能。例如，在 Mip-NeRF360 数据集上，SUNDAE 使用 104 MB 内存可在 145 FPS 下实现 26.80 PSNR，而普通高斯泼溅算法可使用 523 MB 内存在 160 FPS 下实现 25.60 PSNR。代码可在 https://runyiyang.github.io/projects/SUNDAE/ 上公开获取。]]></description>
       <guid>https://arxiv.org/abs/2405.00676</guid>
