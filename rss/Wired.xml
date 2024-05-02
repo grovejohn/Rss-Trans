@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 02 May 2024 12:23:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:49:56 GMT</lastBuildDate>
+    <item>
+      <title>华硕 Zenbook 14 OLED (2024) 评测：性价比高</title>
+      <link>https://www.wired.com/review/asus-zenbook-14-oled-2024/</link>
+      <description><![CDATA[这款超轻 14 英寸笔记本电脑的价格不到 1,000 美元，如果您能忽略这些怪癖的话，对于学生来说是一个不错的选择。]]></description>
+      <guid>https://www.wired.com/review/asus-zenbook-14-oled-2024/</guid>
+      <pubDate>Thu, 02 May 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>考虑购买混合动力汽车吗？听好了</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-642/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>迈克尔·科恩 (Michael Cohen) 无法停止在 TikTok 上的直播</title>
       <link>https://www.wired.com/story/michael-cohen-livestreaming-tiktok/</link>
-      <description><![CDATA[特朗普的前调解者现在是政治内容创造者。]]></description>
+      <description><![CDATA[特朗普的前助手现在是一名政治内容创作者。]]></description>
       <guid>https://www.wired.com/story/michael-cohen-livestreaming-tiktok/</guid>
       <pubDate>Thu, 02 May 2024 11:30:00 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>极端主义民兵正在 100 多个 Facebook 群组中进行协调</title>
+      <title>极端民兵在 100 多个 Facebook 群组中协调行动</title>
       <link>https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/</link>
       <description><![CDATA[独家报道显示，自 1 月 6 日事件发生以来，民兵极端主义团体和档案在 1 月 6 日事件之后一直保持低调，并一直在悄然重组，并在 Facebook 上加大招募力度和言论力度。]]></description>
       <guid>https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/</guid>
@@ -43,14 +50,14 @@
     <item>
       <title>乌克兰杀手级无人机初创行业内部</title>
       <link>https://www.wired.com/story/ukraine-drone-startups-russia/</link>
-      <description><![CDATA[乌克兰需要小型无人机来对抗俄罗斯军队，并且正在国内发展自己的无人机产业。]]></description>
+      <description><![CDATA[乌克兰需要小型无人机来对抗俄罗斯军队，并且正在国内引导自己的产业。]]></description>
       <guid>https://www.wired.com/story/ukraine-drone-startups-russia/</guid>
       <pubDate>Thu, 02 May 2024 06:00:00 GMT</pubDate>
     </item>
     <item>
       <title>随着特斯拉超级充电桩的质疑不断，填补电力缺口的竞赛已经开始</title>
       <link>https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/</link>
-      <description><![CDATA[该公司决定取消充电基础设施建设团队的决定正值电动汽车行业的一个微妙时刻。其他玩家都渴望接续特斯拉的脚步。]]></description>
+      <description><![CDATA[特斯拉决定裁减充电基础设施建设团队，这一决定对电动汽车行业来说正值一个微妙时刻。其他参与者都渴望接替特斯拉的职位。]]></description>
       <guid>https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/</guid>
       <pubDate>Thu, 02 May 2024 00:27:04 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Wed, 01 May 2024 21:38:03 GMT</pubDate>
     </item>
     <item>
-      <title>诉讼称法律要求 Meta 让你控制自己的 Feed</title>
+      <title>一项诉讼称，法律要求 Meta 让你控制自己的信息流</title>
       <link>https://www.wired.com/story/meta-section-230-users-algorithm/</link>
       <description><![CDATA[学者 Ethan Zuckerman 正在起诉 Meta，以赢得对附加组件的保护，这些附加组件可以帮助研究人员研究该平台并让用户更好地控制自己的信息流。]]></description>
       <guid>https://www.wired.com/story/meta-section-230-users-algorithm/</guid>
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国政府要求大型科技公司承诺更好的网络安全</title>
-      <link>https://www.wired.com/story/cisa-cybersecurity-pledge/</link>
-      <description><![CDATA[拜登政府要求科技公司签署《连线》杂志获得的承诺，以提高其数字安全性，包括减少默认密码的使用和改进漏洞披露。]]></description>
-      <guid>https://www.wired.com/story/cisa-cybersecurity-pledge/</guid>
-      <pubDate>Wed, 01 May 2024 16:01:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
