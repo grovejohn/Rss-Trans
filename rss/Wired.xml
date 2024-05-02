@@ -4,11 +4,18 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 02 May 2024 05:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 06:16:46 GMT</lastBuildDate>
+    <item>
+      <title>乌克兰杀手级无人机初创行业内部</title>
+      <link>https://www.wired.com/story/ukraine-drone-startups-russia/</link>
+      <description><![CDATA[乌克兰需要小型无人机来对抗俄罗斯军队，并且正在国内引导自己的产业。]]></description>
+      <guid>https://www.wired.com/story/ukraine-drone-startups-russia/</guid>
+      <pubDate>Thu, 02 May 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>随着特斯拉超级充电桩的质疑不断，填补电力缺口的竞赛已经开始</title>
       <link>https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/</link>
-      <description><![CDATA[该公司决定取消充电基础设施建设团队的决定正值电动汽车行业的一个微妙时期。其他玩家都渴望接续特斯拉的脚步。]]></description>
+      <description><![CDATA[该公司决定取消充电基础设施建设团队的决定正值电动汽车行业的一个微妙时刻。其他玩家都渴望接续特斯拉的脚步。]]></description>
       <guid>https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/</guid>
       <pubDate>Thu, 02 May 2024 00:27:04 GMT</pubDate>
     </item>
@@ -27,16 +34,16 @@
       <pubDate>Wed, 01 May 2024 16:09:27 GMT</pubDate>
     </item>
     <item>
-      <title>美国政府要求大型科技公司承诺更好的网络安全</title>
+      <title>美国政府要求大型科技公司承诺提供更好的网络安全</title>
       <link>https://www.wired.com/story/cisa-cybersecurity-pledge/</link>
       <description><![CDATA[拜登政府要求科技公司签署《连线》杂志获得的承诺，以提高其数字安全性，包括减少默认密码的使用和改进漏洞披露。]]></description>
       <guid>https://www.wired.com/story/cisa-cybersecurity-pledge/</guid>
       <pubDate>Wed, 01 May 2024 16:01:53 GMT</pubDate>
     </item>
     <item>
-      <title>Coconu Wave 按摩器评论：具有唤醒不对称性的振动器</title>
+      <title>Coconu Wave 按摩器评测：一款能激发不对称性情的振动器</title>
       <link>https://www.wired.com/review/coconu-wave-massager/</link>
-      <description><![CDATA[Coconu 的振动器使用起来很方便，价格实惠，而且非常直观。]]></description>
+      <description><![CDATA[Coconu 的振动器平易近人，价格实惠，而且非常直观。]]></description>
       <guid>https://www.wired.com/review/coconu-wave-massager/</guid>
       <pubDate>Wed, 01 May 2024 15:00:00 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>大量新数据集可以增强人工智能对加密货币洗钱的追捕</title>
       <link>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</link>
-      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
+      <description><![CDATA[区块链分析公司 Elliptic、麻省理工学院和 IBM 发布了一个新的人工智能模型及其训练的 2 亿笔交易数据集，旨在发现比特币洗钱的“形态”。]]></description>
       <guid>https://www.wired.com/story/ai-crypto-tracing-model-money-laundering/</guid>
       <pubDate>Wed, 01 May 2024 13:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[超越 MoonSwatch——TAG 与 Kith 合作，重新发行了 10 款经典塑料运动手表的改良版。是的，它们可以在线获取（如果你的速度足够快的话）。]]></description>
       <guid>https://www.wired.com/story/tag-heuer-kith-formula-1-watch-reborn-2024/</guid>
       <pubDate>Wed, 01 May 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>宏碁 Swift Go 14 (2024) 评测：1000 美元以下的强大功能</title>
-      <link>https://www.wired.com/review/acer-swift-go-14-2024/</link>
-      <description><![CDATA[这款售价低于 1,000 美元的笔记本电脑配备了英特尔 Core Ultra 7 芯片，但牺牲了构建质量和不错的扬声器。]]></description>
-      <guid>https://www.wired.com/review/acer-swift-go-14-2024/</guid>
-      <pubDate>Wed, 01 May 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
