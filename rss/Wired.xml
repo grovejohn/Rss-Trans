@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 02 May 2024 14:12:30 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Thu, 02 May 2024 14:36:26 GMT</lastBuildDate>
+    <item>
+      <title>最佳 Sonos 设置（2024 年）：您应该购买哪些扬声器和条形音箱？</title>
+      <link>https://www.wired.com/story/best-sonos-speakers-buying-guide/</link>
+      <description><![CDATA[从 Move 到 Beam，我们测试了这个古老品牌的几乎所有扬声器。我们都喜欢它们，但这里有一些适合您生活方式的最佳选择。]]></description>
+      <guid>https://www.wired.com/story/best-sonos-speakers-buying-guide/</guid>
+      <pubDate>Thu, 02 May 2024 14:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Loopy Pro 评测：最好的 iPad 音乐录制软件</title>
       <link>https://www.wired.com/story/loopy-pro-rave/</link>
@@ -13,9 +20,9 @@
       <pubDate>Thu, 02 May 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Le Wand 压铸按摩器评论：魔杖鉴赏家的魔杖</title>
+      <title>Le Wand 压铸按摩器评测：专为按摩器鉴赏家打造的按摩器</title>
       <link>https://www.wired.com/review/le-wand-die-cast-vibrating-massager/</link>
-      <description><![CDATA[Le Wand 的振动器是对性技术经典的优雅重新演绎，可以立即振动您的牛仔裤。]]></description>
+      <description><![CDATA[Le Wand 的振动器是对性爱科技经典产品的优雅重塑，它可以让您的牛仔裤立刻振动起来。]]></description>
       <guid>https://www.wired.com/review/le-wand-die-cast-vibrating-massager/</guid>
       <pubDate>Thu, 02 May 2024 13:30:00 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>华硕 Zenbook 14 OLED (2024) 评测：性价比高</title>
       <link>https://www.wired.com/review/asus-zenbook-14-oled-2024/</link>
-      <description><![CDATA[这款超轻 14 英寸笔记本电脑的价格不到 1,000 美元，如果您能忽略这些怪癖的话，对于学生来说是一个不错的选择。]]></description>
+      <description><![CDATA[这款超轻 14 英寸笔记本电脑售价不到 1,000 美元，如果您可以忽略它的缺点，对于学生来说是一个不错的选择。]]></description>
       <guid>https://www.wired.com/review/asus-zenbook-14-oled-2024/</guid>
       <pubDate>Thu, 02 May 2024 12:30:00 GMT</pubDate>
     </item>
@@ -50,12 +57,12 @@
     <item>
       <title>迈克尔·科恩 (Michael Cohen) 无法停止在 TikTok 上的直播</title>
       <link>https://www.wired.com/story/michael-cohen-livestreaming-tiktok/</link>
-      <description><![CDATA[特朗普的前助手现在是一名政治内容创作者。]]></description>
+      <description><![CDATA[特朗普的前调解者现在是政治内容创造者。]]></description>
       <guid>https://www.wired.com/story/michael-cohen-livestreaming-tiktok/</guid>
       <pubDate>Thu, 02 May 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>当浪漫作家被 Google 文档锁定时会发生什么</title>
+      <title>当浪漫小说作家被锁定在 Google Docs 之外时会发生什么</title>
       <link>https://www.wired.com/story/what-happens-when-a-romance-author-gets-locked-out-of-google-docs/</link>
       <description><![CDATA[三月份，一位有抱负的作家收到了一条令人不安的消息：她所有正在创作的作品都无法再访问。接下来发生的事情是每个作家最担心的事情。]]></description>
       <guid>https://www.wired.com/story/what-happens-when-a-romance-author-gets-locked-out-of-google-docs/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[一些推出热门生成式人工智能产品的初创公司现在正在缩小其产品范围，试图使其对商业客户更有用。]]></description>
       <guid>https://www.wired.com/story/unsexy-future-generative-ai-enterprise-apps/</guid>
       <pubDate>Thu, 02 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>极端主义民兵正在 100 多个 Facebook 群组中进行协调</title>
-      <link>https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/</link>
-      <description><![CDATA[独家报道显示，自 1 月 6 日事件发生以来，民兵极端主义团体和档案在 1 月 6 日事件之后一直保持低调，并一直在悄然重组，并在 Facebook 上加大招募力度和言论力度。]]></description>
-      <guid>https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/</guid>
-      <pubDate>Thu, 02 May 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
