@@ -3,19 +3,19 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Thu, 02 May 2024 04:15:18 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 02 May 2024 04:37:16 GMT</lastBuildDate>
     <item>
-      <title>编辑批量大小总是越大越好吗？ -- Llama-3模型编辑的实证研究</title>
+      <title>编辑批量大小越大越好吗？ -- Llama-3模型编辑的实证研究</title>
       <link>https://arxiv.org/abs/2405.00664</link>
-      <description><![CDATA[本研究针对最新的大型语言模型 Llama-3 进行了有针对性的模型编辑分析。我们探索了流行的模型编辑技术 ROME、MEMIT 和 EMMET 的有效性，这些技术旨在进行精确的层干预。我们通过评估确定了针对性编辑最有效的层，该评估涵盖了三种不同策略的多达 4096 次编辑：顺序编辑、批量编辑和我们称之为顺序批量编辑的混合方法。我们的研究结果表明，增加编辑批量大小可能会比顺序使用较小的编辑批量进行相同数量的编辑更显著地降低模型性能。据此，我们认为顺序模型编辑是扩展模型编辑方法的重要组成部分，未来的研究应该侧重于结合批量和顺序编辑的方法。这一观察结果表明，当前模型编辑方法存在潜在的局限性，这推动了更大的编辑批量大小，我们希望它为未来优化批量大小和模型编辑性能的研究铺平道路。]]></description>
+      <description><![CDATA[本研究提出了针对最新大型语言模型 Llama-3 的有针对性的模型编辑分析。我们探索流行的模型编辑技术 - ROME、MEMIT 和 EMMET 的功效，这些技术专为精确的图层干预而设计。我们通过评估确定了最有效的目标编辑层，该评估涵盖三种不同策略的多达 4096 次编辑：顺序编辑、批量编辑和我们称为顺序批量编辑的混合方法。我们的研究结果表明，与在相同数量的编辑中顺序使用较小的编辑批次相比，增加编辑批次大小可能会更显着地降低模型性能。因此，我们认为顺序模型编辑是扩展模型编辑方法的重要组成部分，未来的研究应该集中在结合批量和顺序编辑的方法上。这一观察表明当前模型编辑方法存在潜在的局限性，这些方法推动了更大的编辑批量大小，我们希望它为未来优化批量大小和模型编辑性能的研究铺平道路。]]></description>
       <guid>https://arxiv.org/abs/2405.00664</guid>
       <pubDate>Thu, 02 May 2024 03:09:06 GMT</pubDate>
     </item>
     <item>
       <title>仔细检查大型语言模型在小学算术中的表现</title>
       <link>https://arxiv.org/abs/2405.00332</link>
-      <description><![CDATA[大型语言模型 (LLM) 在许多数学推理基准上取得了令人瞩目的成功。然而，人们越来越担心，其中一些性能实际上反映了数据集污染，即与基准问题非常相似的数据泄漏到训练数据中，而不是真正的推理能力。为了严格调查这一说法，我们委托 Grade School Math 1000 (GSM1k)。 GSM1k 的设计反映了已建立的 GSM8k 基准的风格和复杂性，GSM8k 基准是衡量基本数学推理的黄金标准。我们确保这两个基准在人类解决率、解决步骤数、答案大小等重要指标上具有可比性。在评估 GSM1k 上领先的开源和闭源法学硕士时，我们观察到准确性下降高达 13%，几个模型系列（例如 Phi 和 Mistral）显示出几乎所有模型大小的系统过度拟合的证据。与此同时，许多模型，尤其是前沿模型（例如 Gemini/GPT/Claude）显示出最小的过度拟合迹象。进一步的分析表明，模型从 GSM8k 生成示例的概率与其在 GSM8k 和 GSM1k 之间的性能差距之间存在正相关关系（Spearman&#39;s r^2=0.32），这表明许多模型可能部分记住了 GSM8k。]]></description>
+      <description><![CDATA[大型语言模型 (LLM) 在许多数学推理基准上取得了令人瞩目的成功。然而，人们越来越担心，这种性能的一部分实际上反映了数据集污染，即与基准问题非常相似的数据泄漏到训练数据中，而不是真正的推理能力。为了严格调查这一说法，我们委托 Grade School Math 1000 (GSM1k)。 GSM1k 的设计反映了已建立的 GSM8k 基准的风格和复杂性，GSM8k 基准是衡量基本数学推理的黄金标准。我们确保这两个基准在人类解决率、解决步骤数、答案大小等重要指标上具有可比性。在评估 GSM1k 上领先的开源和闭源法学硕士时，我们观察到准确性下降高达 13%，几个模型系列（例如 Phi 和 Mistral）显示出几乎所有模型大小的系统过度拟合的证据。与此同时，许多模型，尤其是前沿模型（例如 Gemini/GPT/Claude）显示出最小的过度拟合迹象。进一步的分析表明，模型从 GSM8k 生成示例的概率与其 GSM8k 和 GSM1k 之间的性能差距之间存在正相关关系（Spearman 的 r^2=0.32），这表明许多模型可能部分记住了 GSM8k。]]></description>
       <guid>https://arxiv.org/abs/2405.00332</guid>
       <pubDate>Thu, 02 May 2024 02:56:03 GMT</pubDate>
     </item>
