@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Huggingface 日报</title>
+    <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 07:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 08:16:23 GMT</lastBuildDate>
+    <item>
+      <title>STT：利用 Transformers 实现自动驾驶状态跟踪</title>
+      <link>https://arxiv.org/abs/2405.00236</link>
+      <description><![CDATA[跟踪三维空间中的物体对于自动驾驶至关重要。为了确保驾驶安全，跟踪器必须能够跨帧可靠地跟踪物体，并准确估计它们当前的速度和加速度等状态。现有的工作经常关注关联任务，而忽略状态估计的模型性能或部署复杂的启发式方法来预测状态。在本文中，我们提出了 STT，一种使用 Transformer 构建的状态跟踪模型，它可以持续跟踪场景中的对象，同时准确预测其状态。 STT 通过长期的检测历史消耗丰富的外观、几何和运动信号，并针对数据关联和状态估计任务进行联合优化。由于像 MOTA 和 MOTP 这样的标准跟踪指标无法捕获两个任务在更广泛的对象状态下的综合性能，因此我们使用称为 S-MOTA 和 MOTPS 的新指标来扩展它们，以解决这一限制。 STT 在 Waymo 开放数据集上实现了具有竞争力的实时性能。]]></description>
+      <guid>https://arxiv.org/abs/2405.00236</guid>
+      <pubDate>Thu, 02 May 2024 05:56:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有跨模式匹配的自动创意选择</title>
+      <link>https://arxiv.org/abs/2405.00029</link>
+      <description><![CDATA[应用程序开发人员通过使用应用程序图像创建产品页面并对搜索词进行竞价来宣传他们的应用程序。因此，应用程序图像与搜索词高度相关至关重要。该问题的解决方案需要图像文本匹配模型来预测所选图像和搜索词之间的匹配质量。在这项工作中，我们提出了一种基于微调预训练 LXMERT 模型的新颖方法，将应用程序图像与搜索词进行匹配。我们表明，与 CLIP 模型以及使用 Transformer 模型搜索词和 ResNet 模型搜索图像的基线相比，我们显着提高了匹配精度。我们使用两组标签来评估我们的方法：给定应用程序的广告商关联（图像，搜索词）对，以及对（图像，搜索词）对之间相关性的人工评分。我们的方法在广告商相关的真实数据方面实现了 0.96 AUC 分数，比 Transformer+ResNet 基线和微调 CLIP 模型高出 8% 和 14%。对于人类标记的真实情况，我们的方法达到了 0.95 AUC 分数，比 Transformer+ResNet 基线和微调 CLIP 模型高出 16% 和 17%。]]></description>
+      <guid>https://arxiv.org/abs/2405.00029</guid>
+      <pubDate>Thu, 02 May 2024 05:53:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paint by Inpaint：学习通过先删除图像对象来添加图像对象</title>
+      <link>https://arxiv.org/abs/2404.18212</link>
+      <description><![CDATA[随着文本条件扩散模型的引入，图像编辑取得了显着进步。尽管取得了这些进展，但基于文本指令将对象无缝添加到图像而不需要用户提供的输入掩码仍然是一个挑战。我们通过利用这样的见解来解决这个问题：删除对象（修复）比添加对象的逆过程（绘制）要简单得多，这归因于使用分段掩模数据集以及在这些掩模内进行修复的修复模型。利用这种实现，通过实现自动化和广泛的管道，我们策划了一个过滤后的大规模图像数据集，其中包含图像对及其相应的对象删除版本。使用这些对，我们训练扩散模型来反转修复过程，有效地将对象添加到图像中。与其他编辑数据集不同，我们的数据集具有自然目标图像而不是合成图像；此外，它通过构造来保持源和目标之间的一致性。此外，我们利用大型视觉语言模型来提供删除对象的详细描述，并利用大型语言模型将这些描述转换为各种自然语言指令。我们表明，训练后的模型在质量和数量上都超越了现有模型，并将大规模数据集与训练后的模型一起发布给社区。]]></description>
+      <guid>https://arxiv.org/abs/2404.18212</guid>
+      <pubDate>Thu, 02 May 2024 05:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于语言模型对齐的自我博弈偏好优化</title>
+      <link>https://arxiv.org/abs/2405.00675</link>
+      <description><![CDATA[传统的人类反馈强化学习 (RLHF) 方法依赖于 Bradley-Terry 模型等参数模型，无法捕捉人类偏好中的不及物性和非理性。最近的进展表明，直接使用偏好概率可以更准确地反映人类偏好，从而实现更灵活和准确的语言模型对齐。在本文中，我们提出了一种基于自我博弈的语言模型对齐方法，该方法将问题视为恒定和两人博弈，旨在确定纳什均衡策略。我们的方法被称为自我博弈偏好优化（SPPO），通过迭代策略更新来逼近纳什均衡，并享有理论收敛保证。我们的方法可以有效地增加所选响应的对数似然并降低被拒绝响应的对数似然，这是通过直接偏好优化（DPO）和身份偏好优化（IPO）等对称成对损失无法轻松实现的。在我们的实验中，仅使用来自 UltraFeedback 数据集的 60k 提示（无响应）并且没有任何提示增强，通过利用仅具有 0.4B 参数的预训练偏好模型 PairRM，SPPO 可以通过微调 Mistral-7B 获得模型Instruct-v0.2 在 AlpacaEval 2.0 上对 GPT-4-Turbo 实现了 28.53% 的最先进的长度控制胜率。它还在 MT-Bench 和 Open LLM 排行榜上优于（迭代）DPO 和 IPO。值得注意的是，SPPO 的强大性能是在没有来自 GPT-4 或其他更强的语言模型的额外外部监督（例如响应、偏好等）的情况下实现的。]]></description>
+      <guid>https://arxiv.org/abs/2405.00675</guid>
+      <pubDate>Thu, 02 May 2024 05:45:17 GMT</pubDate>
+    </item>
     <item>
       <title>Clover：具有顺序知识的回归轻量级推测解码</title>
       <link>https://arxiv.org/abs/2405.00263</link>
@@ -15,7 +43,7 @@
     <item>
       <title>SemantiCodec：适用于一般声音的超低比特率语义音频编解码器</title>
       <link>https://arxiv.org/abs/2405.00233</link>
-      <description><![CDATA[大型语言模型 (LLM) 通过将音频转换为离散标记的音频编解码器具有显着先进的音频处理能力，从而能够将语言建模技术应用于音频数据。然而，传统编解码器通常以高比特率或在语音等狭窄领域内运行，并且缺乏有效语言建模所需的语义线索。为了解决这些挑战，我们推出了 SemantiCodec，这是一种新颖的编解码器，旨在将不同音频类型（包括语音、一般音频和音乐）的音频压缩成每秒不到一百个令牌，而不会影响质量。 SemantiCodec 采用双编码器架构：使用自监督 AudioMAE 的语义编码器，在大量音频数据上使用 k 均值聚类进行离散化，以及用于捕获剩余细节的声学编码器。语义和声学编码器输出用于通过基于扩散模型的解码器重建音频。 SemantiCodec 提供三种变体，令牌速率分别为每秒 25、50 和 100，支持 0.31 kbps 到 1.43 kbps 之间的一系列超低比特率。实验结果表明 SemantiCodec 在重建质量方面明显优于最先进的 Descript 编解码器。我们的结果还表明，SemantiCodec 比所有评估的音频编解码器包含更丰富的语义信息，即使比特率明显较低。我们的代码和演示可在 https://haoheliu.github.io/SemantiCodec/ 获取。]]></description>
+      <description><![CDATA[大型语言模型 (LLM) 通过将音频编解码器将音频转换为离散标记，显著提高了音频处理能力，从而可以将语言建模技术应用于音频数据。然而，传统的编解码器通常以高比特率或在语音等狭窄领域内运行，并且缺乏高效语言建模所需的语义线索。为了应对这些挑战，我们推出了 SemantiCodec，这是一种新颖的编解码器，旨在将音频压缩为每秒少于一百个标记，涵盖各种音频类型，包括语音、一般音频和音乐，而不会影响质量。SemantiCodec 具有双编码器架构：使用自监督 AudioMAE 的语义编码器，使用 k 均值聚类对大量音频数据进行离散化，以及用于捕获其余细节的声学编码器。语义和声学编码器输出用于通过基于扩散模型的解码器重建音频。 SemantiCodec 有三种变体，令牌速率分别为每秒 25、50 和 100，支持 0.31 kbps 至 1.43 kbps 之间的一系列超低比特率。实验结果表明，SemantiCodec 在重建质量方面明显优于最先进的 Descript 编解码器。我们的结果还表明，即使在比特率明显较低的情况下，SemantiCodec 也包含比所有评估的音频编解码器更丰富的语义信息。我们的代码和演示可在 https://haoheliu.github.io/SemantiCodec/ 上找到。]]></description>
       <guid>https://arxiv.org/abs/2405.00233</guid>
       <pubDate>Thu, 02 May 2024 04:44:14 GMT</pubDate>
     </item>
