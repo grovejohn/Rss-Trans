@@ -4,11 +4,11 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Thu, 02 May 2024 00:55:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 01:52:06 GMT</lastBuildDate>
     <item>
       <title>Lightplane：神经 3D 场的高度可扩展组件</title>
       <link>https://arxiv.org/abs/2404.19760</link>
-      <description><![CDATA[当代 3D 研究，特别是在重建和生成方面，严重依赖 2D 图像进行输入或监督。然而，目前这些 2D-3D 映射的设计是内存密集型的，给现有方法带来了重大瓶颈，并阻碍了新的应用。为此，我们为 3D 神经领域提出了一对高度可扩展的组件：Lightplane Render 和 Splatter，它们可显着减少 2D-3D 映射中的内存使用量。这些创新使得能够以较小的内存和计算成本处理更多、更高分辨率的图像。我们展示了它们在各种应用中的实用性，从受益于具有图像级损失的单场景优化，到实现用于大幅扩展 3D 重建和生成的多功能管道。代码：https://github.com/facebookresearch/lightplane。]]></description>
+      <description><![CDATA[当代 3D 研究，尤其是重建和生成方面的研究，严重依赖 2D 图像作为输入或监督。然而，这些 2D-3D 映射的当前设计是内存密集型的，对现有方法构成了重大瓶颈，并阻碍了新应用的发展。为此，我们提出了一对高度可扩展的 3D 神经场组件：Lightplane Render 和 Splatter，它们可显著减少 2D-3D 映射中的内存使用量。这些创新能够以较小的内存和计算成本处理更多、分辨率更高的图像。我们在各种应用中展示了它们的实用性，从受益于具有图像级损失的单场景优化到实现用于大幅扩展 3D 重建和生成的多功能管道。代码：https://github.com/facebookresearch/lightplane。]]></description>
       <guid>https://arxiv.org/abs/2404.19760</guid>
       <pubDate>Wed, 01 May 2024 04:50:37 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>Octopus v4：语言模型图</title>
       <link>https://arxiv.org/abs/2404.19296</link>
-      <description><![CDATA[语言模型在广泛的应用中都很有效，但最复杂的模型通常是专有的。例如，OpenAI 的 GPT-4 和 Anthropic 的各种模型价格昂贵且消耗大量能源。相比之下，开源社区已经产生了具有竞争力的模型，例如 Llama3。此外，特定领域的较小语言模型，例如为法律、医疗或金融任务量身定制的语言模型，其性能优于其专有同行。本文介绍了一种新颖的方法，该方法采用功能代币来集成多个开源模型，每个模型都针对特定任务进行了优化。我们新开发的 Octopus v4 模型利用功能令牌智能地将用户查询引导到最合适的垂直模型，并重新格式化查询以实现最佳性能。 Octopus v4 是 Octopus v1、v2 和 v3 模型的演变，在选择、参数理解和重新格式化方面表现出色。此外，我们探索使用图作为一种多功能数据结构，通过利用章鱼模型和功能令牌的功能来有效协调多个开源模型。使用我们的开源 GitHub (https://www.nexa4ai.com/) 尝试 Octopus v4 模型 (https://huggingface.co/NexaAIDev/Octopus-v4)，并感谢更大的语言模型图。通过激活少于 10B 参数的模型，我们在同级别模型中获得了 74.8 的 SOTA MMLU 分数。]]></description>
+      <description><![CDATA[语言模型在广泛的应用中都很有效，但最复杂的模型通常是专有的。例如，OpenAI 的 GPT-4 和 Anthropic 的各种模型价格昂贵且消耗大量能源。相比之下，开源社区已经产生了具有竞争力的模型，例如 Llama3。此外，针对特定领域的小型语言模型（例如为法律、医疗或金融任务量身定制的模型）的表现优于其专有模型。本文介绍了一种新方法，该方法使用功能标记来集成多个开源模型，每个模型都针对特定任务进行了优化。我们新开发的 Octopus v4 模型利用功能标记将用户查询智能地引导到最合适的垂直模型并重新格式化查询以实现最佳性能。Octopus v4 是 Octopus v1、v2 和 v3 模型的演变，在选择和参数理解以及重新格式化方面表现出色。此外，我们探索了将图用作一种多功能数据结构，通过利用 Octopus 模型和功能标记的功能有效地协调多个开源模型。使用我们的开源 GitHub (https://www.nexa4ai.com/) 尝试 Octopus v4 模型 (https://huggingface.co/NexaAIDev/Octopus-v4)，并向更大的语言模型图致敬。通过激活少于 10B 参数的模型，我们在同级别模型中取得了 74.8 的 SOTA MMLU 分数。]]></description>
       <guid>https://arxiv.org/abs/2404.19296</guid>
       <pubDate>Wed, 01 May 2024 03:20:41 GMT</pubDate>
     </item>
