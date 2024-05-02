@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 01 May 2024 23:36:02 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Thu, 02 May 2024 00:55:33 GMT</lastBuildDate>
+    <item>
+      <title>随着特斯拉超级充电桩的质疑不断，填补电力缺口的竞赛已经开始</title>
+      <link>https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/</link>
+      <description><![CDATA[该公司决定取消充电基础设施建设团队的决定正值电动汽车行业的一个微妙时刻。其他玩家都渴望接续特斯拉的脚步。]]></description>
+      <guid>https://www.wired.com/story/tesla-supercharger-pullback-filling-the-power-gap/</guid>
+      <pubDate>Thu, 02 May 2024 00:27:04 GMT</pubDate>
+    </item>
     <item>
       <title>Sidechat 如何煽动大学校园抗议的火焰</title>
       <link>https://www.wired.com/story/how-sidechat-fanned-the-flames-of-university-campus-protests/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>我们的编辑尝试过并喜爱的 30 个母亲节礼物创意 (2024)</title>
       <link>https://www.wired.com/gallery/best-mothers-day-gifts-2024/</link>
-      <description><![CDATA[从美发工具和 iPad，到棋盘游戏和自行车包，我们为各种类型的妈妈和妈妈形象提供了合适的选择。]]></description>
+      <description><![CDATA[从美发工具和 iPad 到棋盘游戏和自行车包，我们为各种类型的妈妈和妈妈形象提供精选商品。]]></description>
       <guid>https://www.wired.com/gallery/best-mothers-day-gifts-2024/</guid>
       <pubDate>Wed, 01 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这款售价低于 1,000 美元的笔记本电脑配备了英特尔 Core Ultra 7 芯片，但牺牲了构建质量和不错的扬声器。]]></description>
       <guid>https://www.wired.com/review/acer-swift-go-14-2024/</guid>
       <pubDate>Wed, 01 May 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 是我的错觉伊甸园。我永远不想离开</title>
-      <link>https://www.wired.com/story/instagram-is-my-eden-of-delusion-i-never-want-to-leave/</link>
-      <description><![CDATA[当我重新加入该应用程序并很快上瘾时，我意识到这正是我所需要的：不是现实本身，而是它的幻象。]]></description>
-      <guid>https://www.wired.com/story/instagram-is-my-eden-of-delusion-i-never-want-to-leave/</guid>
-      <pubDate>Wed, 01 May 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
