@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 02 May 2024 13:36:23 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Thu, 02 May 2024 14:12:30 GMT</lastBuildDate>
+    <item>
+      <title>Loopy Pro 评测：最好的 iPad 音乐录制软件</title>
+      <link>https://www.wired.com/story/loopy-pro-rave/</link>
+      <description><![CDATA[我们已经花了很多时间在 iPad 上制作音乐的大多数可用应用程序上，而这个循环站、DAW 和采样器组合是最好的免费（和付费）应用程序。]]></description>
+      <guid>https://www.wired.com/story/loopy-pro-rave/</guid>
+      <pubDate>Thu, 02 May 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Le Wand 压铸按摩器评论：魔杖鉴赏家的魔杖</title>
       <link>https://www.wired.com/review/le-wand-die-cast-vibrating-massager/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>迈克尔·科恩 (Michael Cohen) 无法停止在 TikTok 上的直播</title>
       <link>https://www.wired.com/story/michael-cohen-livestreaming-tiktok/</link>
-      <description><![CDATA[特朗普的前调解者现在是政治内容创造者。]]></description>
+      <description><![CDATA[特朗普的前助手现在是一名政治内容创作者。]]></description>
       <guid>https://www.wired.com/story/michael-cohen-livestreaming-tiktok/</guid>
       <pubDate>Thu, 02 May 2024 11:30:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[独家报道显示，自 1 月 6 日事件发生以来，民兵极端主义团体和档案在 1 月 6 日事件之后一直保持低调，并一直在悄然重组，并在 Facebook 上加大招募力度和言论力度。]]></description>
       <guid>https://www.wired.com/story/extremist-militias-are-coordinating-on-facebook/</guid>
       <pubDate>Thu, 02 May 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰杀手级无人机初创行业内部</title>
-      <link>https://www.wired.com/story/ukraine-drone-startups-russia/</link>
-      <description><![CDATA[乌克兰需要小型无人机来对抗俄罗斯军队，并且正在国内引导自己的产业。]]></description>
-      <guid>https://www.wired.com/story/ukraine-drone-startups-russia/</guid>
-      <pubDate>Thu, 02 May 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
