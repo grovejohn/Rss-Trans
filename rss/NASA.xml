@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Thu, 02 May 2024 11:35:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 May 2024 12:23:24 GMT</lastBuildDate>
+    <item>
+      <title>X射线卫星XMM-Newton以新的视角看待“太空三叶草”</title>
+      <link>https://www.nasa.gov/missions/xmm-newton/x-ray-satellite-xmm-newton-sees-space-clover-in-a-new-light/</link>
+      <description><![CDATA[天文学家在一些星系周围发现了来源不明的巨大圆形射电特征。现在，对一个被称为“三叶草”的星系的新观察表明，它是由相互冲突的星系群创建的。以不同的方式研究这些统称为 ORC（奇数无线电圈）的结构，为科学家们提供了探索超音速冲击中一切事物的机会 […]]]></description>
+      <guid>https://www.nasa.gov/missions/xmm-newton/x-ray-satellite-xmm-newton-sees-space-clover-in-a-new-light/</guid>
+      <pubDate>Thu, 02 May 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>马歇尔之星 2024 年 5 月 1 日</title>
       <link>https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-may-1-2024/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>长波长大天文台 (GO-LoW)</title>
       <link>https://www.nasa.gov/directorates/stmd/niac/niac-studies/the-great-observatory-for-long-wavelengths-go-low/</link>
-      <description><![CDATA[玛丽·纳普麻省理工学院人类以前从未见过低频射电天空。它被地球电离层隐藏在地面望远镜之外，并且通过传统任务从太空进入它具有挑战性，因为所涉及的长波长（米到公里尺度）需要难以置信的巨型望远镜才能清晰地看到。这些低频的电磁辐射携带着重要的信息[…]]]></description>
+      <description><![CDATA[Mary KnappMIT 人类从未见过低频射电天空。地球电离层遮挡了地面望远镜的视线，传统任务很难从太空中获取，因为涉及的长波长（米到公里级）需要非常大的望远镜才能看清楚。这些低频的电磁辐射携带着至关重要的信息 […]]]></description>
       <guid>https://www.nasa.gov/directorates/stmd/niac/niac-studies/the-great-observatory-for-long-wavelengths-go-low/</guid>
       <pubDate>Wed, 01 May 2024 18:39:29 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>美国宇航局的两颗小型卫星将测量土壤湿度和火山气体</title>
       <link>https://science.nasa.gov/earth/two-small-nasa-satellites-will-measure-soil-moisture-volcanic-gases/</link>
-      <description><![CDATA[美国宇航局的两个探路任务最近被部署到近地轨道，在那里展示了观察大气气体、测量淡水、甚至检测潜在火山喷发迹象的新技术。机会 P 波段调查信号 (SNoOPI) 是一种低噪声无线电接收器，它测试了一种通过利用产生的无线电信号来测量根区土壤湿度的新技术 [...]]]></description>
+      <description><![CDATA[美国宇航局的两项探路任务最近被部署到低地球轨道，在那里它们展示了用于观察大气气体、测量淡水甚至探测潜在火山喷发迹象的新技术。机会信号 P 波段调查 (SNoOPI) 是一种低噪声无线电接收器，它通过利用产生的无线电信号来测试一种测量根区土壤水分的新技术 […]]]></description>
       <guid>https://science.nasa.gov/earth/two-small-nasa-satellites-will-measure-soil-moisture-volcanic-gases/</guid>
       <pubDate>Wed, 01 May 2024 18:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>凭借他们的力量</title>
-      <link>https://www.nasa.gov/image-article/by-their-powers-combined/</link>
-      <description><![CDATA[2024 年 4 月 20 日，图像显示了第一个：马德里深空通信综合体（NASA 深空网络 (DSN) 的一部分）的所有六个射频天线进行了测试，以接收来自该机构的数据与此同时，航海家一号飞船。结合天线的接收功率或阵列，让 DSN 收集[…]]]></description>
-      <guid>https://www.nasa.gov/image-article/by-their-powers-combined/</guid>
-      <pubDate>Wed, 01 May 2024 17:42:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
