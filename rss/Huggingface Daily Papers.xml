@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface 日报 - 由 RSSHub(https://github.com/DIYgod/RSSHub) 精心制作</description>
-    <lastBuildDate>Thu, 02 May 2024 12:49:33 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Thu, 02 May 2024 13:13:16 GMT</lastBuildDate>
     <item>
       <title>STT：利用 Transformers 实现自动驾驶状态跟踪</title>
       <link>https://arxiv.org/abs/2405.00236</link>
@@ -22,7 +22,7 @@
     <item>
       <title>Paint by Inpaint：学习通过先删除图像对象来添加图像对象</title>
       <link>https://arxiv.org/abs/2404.18212</link>
-      <description><![CDATA[随着文本条件扩散模型的引入，图像编辑取得了长足进步。尽管取得了这些进展，但根据文本指令无缝地将对象添加到图像中而无需用户提供的输入掩码仍然是一项挑战。我们利用删除对象（Inpaint）比添加对象的逆过程（Paint）简单得多的洞察力来解决这个问题，这归因于使用分割掩码数据集以及在这些掩码内进行修复的修复模型。利用这一认识，通过实施自动化和广泛的管道，我们整理了一个经过过滤的大规模图像数据集，其中包含图像对及其相应的对象删除版本。使用这些对，我们训练扩散模型来逆向修复过程，有效地将对象添加到图像中。与其他编辑数据集不同，我们的数据集以自然目标图像而不是合成图像为特色；此外，它通过构造保持源和目标之间的一致性。此外，我们利用大型视觉语言模型来提供已删除对象的详细描述，并使用大型语言模型将这些描述转换为多样化的自然语言指令。我们证明了训练后的模型在质量和数量上都超越了现有的模型，并向社区发布了与训练后的模型一起的大规模数据集。]]></description>
+      <description><![CDATA[随着文本条件扩散模型的引入，图像编辑取得了显着进步。尽管取得了这些进展，但基于文本指令将对象无缝添加到图像而不需要用户提供的输入掩码仍然是一个挑战。我们通过利用这样的见解来解决这个问题：删除对象（修复）比添加对象的逆过程（绘制）要简单得多，这归因于使用分段掩模数据集以及在这些掩模内进行修复的修复模型。利用这种实现，通过实现自动化和广泛的管道，我们策划了一个过滤后的大规模图像数据集，其中包含图像对及其相应的对象删除版本。使用这些对，我们训练扩散模型来反转修复过程，有效地将对象添加到图像中。与其他编辑数据集不同，我们的数据集具有自然目标图像而不是合成图像；此外，它通过构造来保持源和目标之间的一致性。此外，我们利用大型视觉语言模型来提供删除对象的详细描述，并利用大型语言模型将这些描述转换为各种自然语言指令。我们表明，训练后的模型在质量和数量上都超越了现有模型，并将大规模数据集与训练后的模型一起发布给社区。]]></description>
       <guid>https://arxiv.org/abs/2404.18212</guid>
       <pubDate>Thu, 02 May 2024 05:48:18 GMT</pubDate>
     </item>
