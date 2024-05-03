@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 06:37:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 08:35:49 GMT</lastBuildDate>
     <item>
       <title>让每个人都知道您将参加 2024 年学院电子横幅</title>
       <link>https://akademy.kde.org/news/2024-05_let-everyone-know-you-are-going-to-akademy-2024-e-banners/?utm_source=atom_feed</link>
@@ -168,7 +168,7 @@ Amarok 度假归来
       <pubDate>Mon, 29 Apr 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Bugzilla Bot 在自动化 Sprint 中的改进</title>
+      <title>自动化冲刺中的 Bugzilla Bot 改进</title>
       <link>https://blogs.kde.org/2024/04/29/bugzilla-bot-improvements-in-the-automation-sprint/?utm_source=atom_feed</link>
       <description><![CDATA[我很高兴能够参加我的第一次现场 KDE 活动，即自动化和会议。柏林系统化冲刺。此前，我对 KDE 的贡献包括提交和分类错误报告。在这个周末，我能够亲自见到 KDE 团队的一些成员，并更多地参与其中。我已经开始使用 Bugzilla Bot 代码，并计划开始深入研究自动化测试代码。
 Bugzilla 产品列表已过时，因此我首先更新那（是的，我的第一个接受的MR！）。我还开始致力于使用 GitLab API 来自动执行这些更新。在不久的将来，我将解决 Bugzilla 机器人的一些改进请求。这将减少无聊的手动 bug 杂务，让人们有时间去做更有价值的工作。
