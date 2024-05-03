@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 18:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 20:36:06 GMT</lastBuildDate>
     <item>
       <title>网络评论，2024-18 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed</link>
@@ -63,7 +63,7 @@
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE 和 Google Summer of Code 2024</title>
+      <title>KDE 和 Google 2024 年编程之夏</title>
       <link>https://mentorship.kde.org/blog/2024-05-gsoc-2024/?utm_source=atom_feed</link>
       <description><![CDATA[
 &lt;图&gt;
@@ -177,9 +177,9 @@ Amarok 度假归来
     <item>
       <title>Bugzilla Bot 在自动化 Sprint 中的改进</title>
       <link>https://blogs.kde.org/2024/04/29/bugzilla-bot-improvements-in-the-automation-sprint/?utm_source=atom_feed</link>
-      <description><![CDATA[我很高兴能够参加我的第一个亲临现场的 KDE 活动，即柏林的自动化和系统化冲刺。此前，我对 KDE 的贡献包括提交和分类错误报告。在这个周末，我能够亲自会见一些 KDE 团队的成员，并更多地参与其中。我已经开始使用 Bugzilla Bot 代码，并计划开始深入研究自动测试代码。
-Bugzilla 产品列表已经过时，所以我首先更新了它（耶，我的第一个接受 MR！）。我还开始使用 GitLab API 来自动执行这些更新。在不久的将来，我将着手解决 Bugzilla Bot 的一些改进请求。这将减少无聊的手动错误处理工作，并让人们有时间做更有价值的工作。
-感谢 KDE 团队如此友好，愿意帮助我学习开发环境。我很高兴找到了更多我喜欢的贡献方式，这对项目很有价值。]]></description>
+      <description><![CDATA[我很高兴能够参加我的第一次现场 KDE 活动，即自动化和会议。柏林系统化冲刺。此前，我对 KDE 的贡献包括提交和分类错误报告。在这个周末，我能够亲自见到 KDE 团队的一些成员，并更多地参与其中。我已经开始使用 Bugzilla Bot 代码，并计划开始深入研究自动化测试代码。
+Bugzilla 产品列表已过时，因此我首先更新那（是的，我的第一个接受的MR！）。我还开始致力于使用 GitLab API 来自动执行这些更新。在不久的将来，我将解决 Bugzilla 机器人的一些改进请求。这将减少无聊的手动 bug 杂务，让人们有时间去做更有价值的工作。
+感谢KDE团队如此友好并愿意帮助我学习开发环境。我很高兴找到了更多我喜欢的贡献方式，并且对项目很有价值。]]></description>
       <guid>https://blogs.kde.org/2024/04/29/bugzilla-bot-improvements-in-the-automation-sprint/?utm_source=atom_feed</guid>
       <pubDate>Mon, 29 Apr 2024 21:30:00 GMT</pubDate>
     </item>
