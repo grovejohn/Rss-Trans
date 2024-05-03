@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 12:47:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 14:35:11 GMT</lastBuildDate>
     <item>
       <title>网络评论，2024-18 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed</link>
@@ -54,7 +54,7 @@
 让我们互相帮助，尽我们所能做到这一点。
 “哦，这是你做的吗？”没有任何问题。好好看这个！然而，友好的竞争类型，
 它让我们继续做我们最擅长的事情。 :)
-我只是想把它写下来作为某种提醒，我们必须记住
+我只是想把这个写下来作为某种提醒，我们必须记住
 如果我们想成功，就共同努力。即使沮丧。
 不，我并不是一个高高在上的人，我也有过自己的挫败感和俏皮话。
 这篇文章也给我自己一个提醒。
@@ -105,7 +105,7 @@ Scarlett 的方向是将 Snap 生态系统与 KDE 更紧密地整合在一起。
 从 Plasma 系统设置更改权限。
 Krita
 Ken Lo 将在 Tiar 的监督下工作
-和 Emmet O&#39;Neill 谈论通过添加 Pixel 来改进像素艺术工作流程
+和 Emmet O&#39;Neill 通过添加 Pixel 改进像素艺术工作流程
 平滑像素艺术曲线的完美选择。
 KDE 游戏
 João Gouveia 将实现后端
@@ -160,7 +160,7 @@ Amarok 度假归来
 一切构建完毕，ninja install 做了正确的事情，然后就开始了！
 嘟嘟声、嘟嘟声、叮当声、砰砰声、光点声和布卢普声都用
 出色的保真度。
-那么，恭喜 Amarok 人民。它甚至可能返回 FreeBSD 端口
+那么，恭喜 Amarok 人。它甚至可能返回 FreeBSD 端口
 收藏，不过——我在这里说实话——我不确定它能为我提供什么
 任何与音乐欣赏方式有关的命令行gst-play
 不给我。我只是更上一代。]]></description>
@@ -177,9 +177,9 @@ Amarok 度假归来
     <item>
       <title>Bugzilla Bot 在自动化 Sprint 中的改进</title>
       <link>https://blogs.kde.org/2024/04/29/bugzilla-bot-improvements-in-the-automation-sprint/?utm_source=atom_feed</link>
-      <description><![CDATA[我很高兴能够参加我的第一次现场 KDE 活动，即自动化和会议。柏林系统化冲刺。此前，我对 KDE 的贡献包括提交和分类错误报告。在这个周末，我能够亲自见到 KDE 团队的一些成员，并更多地参与其中。我已经开始使用 Bugzilla Bot 代码，并计划开始深入研究自动化测试代码。
-Bugzilla 产品列表已过时，因此我首先更新那（是的，我的第一个接受的MR！）。我还开始致力于使用 GitLab API 来自动执行这些更新。在不久的将来，我将解决 Bugzilla 机器人的一些改进请求。这将减少无聊的手动 bug 杂务，让人们有时间去做更有价值的工作。
-感谢KDE团队如此友好并愿意帮助我学习开发环境。我很高兴找到了更多我喜欢的贡献方式，并且对项目很有价值。]]></description>
+      <description><![CDATA[我很高兴能够参加我的第一个亲临现场的 KDE 活动，即柏林的自动化和系统化冲刺。此前，我对 KDE 的贡献包括提交和分类错误报告。在这个周末，我能够亲自会见一些 KDE 团队的成员，并更多地参与其中。我已经开始使用 Bugzilla Bot 代码，并计划开始深入研究自动测试代码。
+Bugzilla 产品列表已经过时，所以我首先更新了它（耶，我的第一个接受 MR！）。我还开始使用 GitLab API 来自动执行这些更新。在不久的将来，我将着手解决 Bugzilla Bot 的一些改进请求。这将减少无聊的手动错误处理工作，并让人们有时间做更有价值的工作。
+感谢 KDE 团队如此友好，愿意帮助我学习开发环境。我很高兴找到了更多我喜欢的贡献方式，这对项目很有价值。]]></description>
       <guid>https://blogs.kde.org/2024/04/29/bugzilla-bot-improvements-in-the-automation-sprint/?utm_source=atom_feed</guid>
       <pubDate>Mon, 29 Apr 2024 21:30:00 GMT</pubDate>
     </item>
