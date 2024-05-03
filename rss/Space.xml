@@ -4,7 +4,14 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Fri, 03 May 2024 12:22:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2024 12:48:11 GMT</lastBuildDate>
+    <item>
+      <title>星球大战中西斯教团的历史</title>
+      <link>https://www.space.com/history-of-the-sith-order-in-star-wars</link>
+      <description><![CDATA[很久很久以前，在一个遥远的星系里，正义与邪恶的终极之战开始了。这是西斯教团的完整历史。]]></description>
+      <guid>https://www.space.com/history-of-the-sith-order-in-star-wars</guid>
+      <pubDate>Fri, 03 May 2024 12:27:28 GMT</pubDate>
+    </item>
     <item>
       <title>XRISM航天器如何仅用36个像素研究X射线宇宙</title>
       <link>https://www.space.com/xrism-x-ray-36-pixels-resolve-instrument</link>
@@ -15,7 +22,7 @@
     <item>
       <title>2024 年日食：实时更新</title>
       <link>https://www.space.com/news/live/solar-eclipse-live-updates</link>
-      <description><![CDATA[了解即将发生的日食的最新消息，包括 2024 年 10 月 2 日的日环食。]]></description>
+      <description><![CDATA[及时了解即将到来的日食的最新消息，包括 2024 年 10 月 2 日的日环食。]]></description>
       <guid>https://www.space.com/news/live/solar-eclipse-live-updates</guid>
       <pubDate>Fri, 03 May 2024 11:28:18 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Thu, 02 May 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局的哈勃望远镜重新投入使用——但它的 TESS 系外行星猎人现在可能陷入困境</title>
+      <title>NASA 的哈勃望远镜重新投入使用，但其 TESS 系外行星猎人现在可能遇到麻烦了</title>
       <link>https://www.space.com/hubble-space-telescope-tess-exoplanet-hunter-safe-mode</link>
       <description><![CDATA[4 月 23 日，哈勃望远镜和 TESS 系外行星探测器都进入安全模式。哈勃望远镜重新开启，但 TESS 仍处于关闭状态。]]></description>
       <guid>https://www.space.com/hubble-space-telescope-tess-exoplanet-hunter-safe-mode</guid>
       <pubDate>Thu, 02 May 2024 16:37:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局选择火箭实验室进行连续气候变化研究发射</title>
-      <link>https://www.space.com/rocket-lab-back-to-back-nasa-climate-change-launches-prefire</link>
-      <description><![CDATA[美国宇航局的 PREFIRE 任务将在火箭实验室的电子火箭上部署两颗卫星，这将为北极和南极洲的气候变化研究做出贡献。]]></description>
-      <guid>https://www.space.com/rocket-lab-back-to-back-nasa-climate-change-launches-prefire</guid>
-      <pubDate>Thu, 02 May 2024 16:00:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
