@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 04 May 2024 21:35:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 22:35:13 GMT</lastBuildDate>
     <item>
       <title>postmarketOS 播客</title>
       <link>https://plasma-mobile.org/2024/05/04/postmarketos-podcast/?utm_source=atom_feed</link>
@@ -30,12 +30,12 @@
     <item>
       <title>Tech Over Tea 采访 KDE 在世界上的地位</title>
       <link>https://pointieststick.com/2024/05/03/interview-on-tech-over-tea-about-kdes-position-in-the-world/?utm_source=atom_feed</link>
-      <description><![CDATA[我最近第二次上了 Brodie Robertson 的 Tech Over Tea 频道。我想第一次没能惹怒他，因为他又邀请我回来了！让我们看看这次我是否做得更好，告诉他 Arch 用错了。
-无论如何，Brodie 是一位出色的主持人，我们讨论了许多话题，例如 KDE 在世界上的地位、机构连续性、筹款和财务稳定性、报告和分类错误的难度、打包软件的挑战以及阻止 WiFi 信号的窗口。
-希望你喜欢它！
+      <description><![CDATA[我最近第二次访问布罗迪·罗伯逊 (Brodie Robertson) 的 Tech Over Tea 频道。我想我在第一次复飞时没有成功地激怒他，因为他邀请我回来！让我们看看这次我是否做得更好，告诉他他错误地使用了 Arch。 
+无论如何，Brodie 是一位出色的主持人，我们讨论了许多话题，例如 KDE 在世界上的地位、机构连续性、筹款和财务稳定性、报告和分类错误的难度、打包软件以及阻止 WiFi 信号的窗口。
+希望您喜欢！
 
 
-这是我在最后提到的链接：https://kde.org/community/donations  ]]></description>
+这是我在最后提到的链接：https://kde.org/community/捐款  ]]></description>
       <guid>https://pointieststick.com/2024/05/03/interview-on-tech-over-tea-about-kdes-position-in-the-world/?utm_source=atom_feed</guid>
       <pubDate>Sat, 04 May 2024 01:46:32 GMT</pubDate>
     </item>
@@ -50,25 +50,25 @@
       <title>让每个人都知道您将参加 2024 年学院电子横幅</title>
       <link>https://akademy.kde.org/news/2024-05_let-everyone-know-you-are-going-to-akademy-2024-e-banners/?utm_source=atom_feed</link>
       <description><![CDATA[#Akademy2024 的电子横幅现已推出！
-使用它们在您的网站、博客、社交媒体标题或任何其他平台上宣传 Akademy。
-共有三种不同尺寸可供选择。如果您决定使用横幅，如果您可以将它们链接到 Akademy 网站以帮助吸引更多访问者，那就太好了。
-让我们传播有关学院的信息并使其取得成功！
-
-&lt;图&gt;
+使用它们在您的网站、博客、社交媒体标题或任何其他平台上推广 Akademy。
+有三种不同尺寸可供选择。如果您决定使用横幅，最好将它们链接到 Akademy 网站，以帮助吸引更多访问者。
+让我们传播有关 Akademy 的信息并使其取得成功！
 
 
 
 
-&lt;图&gt;
 
 
 
 
-&lt;图&gt;
 
 
 
-（这些横幅是由 Andy B 创建的。）]]></description>
+
+
+
+
+（这些横幅由 Andy B. 创建）]]></description>
       <guid>https://akademy.kde.org/news/2024-05_let-everyone-know-you-are-going-to-akademy-2024-e-banners/?utm_source=atom_feed</guid>
       <pubDate>Thu, 02 May 2024 08:11:11 GMT</pubDate>
     </item>
@@ -100,47 +100,62 @@
       <title>KDE 和 Google 2024 年编程之夏</title>
       <link>https://mentorship.kde.org/blog/2024-05-gsoc-2024/?utm_source=atom_feed</link>
       <description><![CDATA[
+&lt;图&gt;
 
 
 
-
-今年，KDE 将指导 Google Summer of Code (GSoC) 中的十个项目。 GSoC
-是一个让新加入开源项目的贡献者花费 175 到 350
-个小时参与开源项目的计划。
+KDE 今年将在 Google 编程之夏 (GSoC) 中指导 10 个项目。通用SoC
+是一个项目，其中刚接触开源的贡献者花费在 175 到 350 之间
+在开源项目上工作的时间。
 项目
-KDE Con​​nect
-ShellWen Chen 将致力于更新 KDE Con​​nect Android 应用程序中的 SSHD 库，这将提高应用程序的安全性和稳定性。Albert Vaca
+KDE 连接
+ShellWen Chen 将致力于更新 KDE Con​​nect Android 应用程序中的 SSHD 库
+这将提高应用程序的安全性和稳定性。阿尔伯特·瓦卡
 Cintora 将指导该项目。
 Labplot
-LabPlot 是一个数据可视化和分析平台。今年夏天，Kuntal
-Bar 将致力于添加 3D 绘图支持，以满足不断变化的科学研究需求。Israel
-Galadima 将致力于围绕 LabPlot C++ API 开发 Python 包装器。 Alexander Semke 将指导这两个项目。
-Arianna
-Arianna 是 KDE 的 Epub 查看器，而 Ajay 将
-致力于将 Javascript 前端从 epub.js 移植到 Foliate.js，即支持 Foliate 的库。 Carl Schwan 将指导该项目。
+LabPlot 是一个数据可视化和分析平台。今年夏天，昆塔尔
+Bar 将致力于添加 3D 绘图支持
+以满足科学研究不断变化的需求。 以色列
+Galadima 将在 Python 包装器上工作
+LabPlot C++ API。 Alexander Semke 将指导这两个项目。
+阿里安娜
+Arianna 是 KDE 的 Epub 查看器，Ajay 将
+致力于将 Javascript 前端从 epub.js 移植到 Foliate.js 库
+为叶提供力量。 Carl Schwan 将指导该项目。
 框架
-Manuel Alcaraz 将致力于为一些 KDE 框架添加对 Qt for Python 的支持，使大型 Python 生态系统能够使用它们。Carl Schwan 也将指导该项目。
+Manuel Alcaraz 将致力于增加支持
+将 Qt for Python 移植到某些 KDE 框架，从而支持大型 Python
+使用它们的生态系统。 Carl Schwan 也将指导该项目。
 Okular
-Pratham Gandhi 将致力于改进 Okular 对 Javascript 表单的支持。这一点尤其重要，因为
-地方政府提供的 PDF 中经常使用基于 Javascript 的表单，尽管 Okular 已经部分支持它们，但许多功能尚未实现。Albert Astals Cid 将指导该项目。
-Snaps
-Soumyadeep Ghosh 将在 Scarlett 的指导下工作，并将 Snap 生态系统与 KDE 更紧密地结合起来。这包括修复 Discover 与 Snap 的集成，并添加 Snap KCM 以从 Plasma 系统设置更改权限。
+普拉萨姆·甘地将致力于改进
+Okular 对 Javascript 表单的支持。这一点特别重要，因为
+本地提供的 PDF 中经常使用 JavaScript 支持的表单
+政府，虽然 Okular 已经部分支持它们，但许多功能
+没有实施。 Albert Astals Cid 将指导该项目。
+快照
+Soumyadeep Ghosh 将在
+Scarlett 的方向是将 Snap 生态系统与 KDE 更紧密地整合在一起。这
+包括修复 Discover 与 Snap 的集成以及添加 Snap KCM
+从 Plasma 系统设置更改权限。
 Krita
-Ken Lo 将在 Tiar
-和 Emmet O&#39;Neill 的监督下工作，通过添加 Pixel
-Perfect 选项来平滑像素艺术曲线，从而改进像素艺术工作流程。
+Ken Lo 将在 Tiar 的监督下工作
+和 Emmet O&#39;Neill 通过添加 Pixel 改进像素艺术工作流程
+平滑像素艺术曲线的完美选择。
 KDE 游戏
-João Gouveia 将实施后端
-用于 Mancala 游戏的一个变体以及由 Benson Muite 和 Harsh Kumar 监督的解算器。
+João Gouveia 将实现后端
+对于曼卡拉游戏的变体以及在监督下的求解器
+本森·穆特和哈什·库马尔。
 Kdenlive
-Chengkun Chen 将致力于改进 Kdenlive 对字幕的支持。更具体地说，他将为包含 Kdenlive 样式信息的
-Sub Station Alpha v4.00+ 格式添加全面支持。Jean-Baptiste Mardelle 将指导该项目。
+Chengkun Chen 将致力于改善支持
+在 Kdenlive 中获取字幕。更具体地说，他将全力支持
+Sub Station Alpha v4.00+ 格式，其中包含以下样式信息
+克登利夫。 Jean-Baptiste Mardelle 将指导该项目。
 让我们热烈欢迎所有新贡献者，并祝他们在 KDE 度过一个愉快的夏天！]]></description>
       <guid>https://mentorship.kde.org/blog/2024-05-gsoc-2024/?utm_source=atom_feed</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>凯特与偶像</title>
+      <title>凯特与图标</title>
       <link>https://cullmann.io/posts/kate-and-icons/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://cullmann.io/posts/kate-and-icons/?utm_source=atom_feed</guid>
