@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sat, 04 May 2024 12:46:23 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Sat, 04 May 2024 13:13:40 GMT</lastBuildDate>
+    <item>
+      <title>Ambient Weather WS-5000 评论：出色的气象站</title>
+      <link>https://www.wired.com/review/ambient-weather-ws-5000/</link>
+      <description><![CDATA[Ambient Weather WS-5000 是送给那些在不知道露点和风速的情况下无法离开家的亲人的完美礼物。]]></description>
+      <guid>https://www.wired.com/review/ambient-weather-ws-5000/</guid>
+      <pubDate>Sat, 04 May 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Fitbit 追踪您的睡眠</title>
       <link>https://www.wired.com/story/how-to-track-your-sleep-using-your-fitbit/</link>
@@ -36,12 +43,12 @@
     <item>
       <title>一种新的监控工具入侵边境城镇</title>
       <link>https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/</link>
-      <description><![CDATA[另外还有：暗杀阴谋、人工智能安全法案、光环计划披露，以及本周更多热门安全新闻。]]></description>
+      <description><![CDATA[另外：暗杀阴谋、人工智能安全法案、雨云计划的揭露以及更多本周的顶级安全新闻。]]></description>
       <guid>https://www.wired.com/story/border-surveillance-india-assassination-project-nimbus-security-roundup/</guid>
       <pubDate>Sat, 04 May 2024 10:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>您需要什么样的电池来为光剑供电？</title>
+      <title>需要什么样的电池来为光剑供电？</title>
       <link>https://www.wired.com/story/what-kind-of-battery-would-you-need-to-power-a-lightsaber/</link>
       <description><![CDATA[在星球大战日，我们使用一些基本物理学来测量原力的力量。很强！]]></description>
       <guid>https://www.wired.com/story/what-kind-of-battery-would-you-need-to-power-a-lightsaber/</guid>
@@ -57,23 +64,16 @@
     <item>
       <title>汽车制造商希望汽车配备调幅收音机。国会即将要求他们</title>
       <link>https://www.wired.com/story/am-radio-cars-law-requires/</link>
-      <description><![CDATA[一项受欢迎的法案将迫使汽车公司在车辆上免费安装 AM 收音机，尽管驾驶员对此的兴趣正在减少，而且可能会产生电磁干扰。]]></description>
+      <description><![CDATA[一项受欢迎的法案将迫使汽车公司在车辆中免费安装调幅收音机，尽管驾驶员的兴趣下降并且存在潜在的电磁干扰。]]></description>
       <guid>https://www.wired.com/story/am-radio-cars-law-requires/</guid>
       <pubDate>Fri, 03 May 2024 17:35:02 GMT</pubDate>
     </item>
     <item>
       <title>27 件真正值得一看的病毒式 TikTok 礼物 (2024)</title>
       <link>https://www.wired.com/gallery/best-viral-tiktok-gadgets/</link>
-      <description><![CDATA[我们正在测试不断出现在我们的源中的小工具。以下是值得大肆宣传的产品，并且可以制作精美的礼物。]]></description>
+      <description><![CDATA[我们正在测试那些不断出现在我们推送中的小玩意。以下是值得大肆宣传的小玩意——而且可以作为很棒的礼物。]]></description>
       <guid>https://www.wired.com/gallery/best-viral-tiktok-gadgets/</guid>
       <pubDate>Fri, 03 May 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>没人知道禽流感已经蔓延到多远</title>
-      <link>https://www.wired.com/story/bird-avian-flu-us-cattle-h5n1-human-infection-missed-cases/</link>
-      <description><![CDATA[由于美国农民没有动力测试他们的牛，而且奶牛场有许多无证劳工，因此疫情的全面规模尚不清楚。]]></description>
-      <guid>https://www.wired.com/story/bird-avian-flu-us-cattle-h5n1-human-infection-missed-cases/</guid>
-      <pubDate>Fri, 03 May 2024 16:26:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
