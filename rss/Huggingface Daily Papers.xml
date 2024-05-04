@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface 日报 - 由 RSSHub(https://github.com/DIYgod/RSSHub) 精心制作</description>
-    <lastBuildDate>Sat, 04 May 2024 18:35:50 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
+    <lastBuildDate>Sat, 04 May 2024 19:11:33 GMT</lastBuildDate>
     <item>
       <title>使用单个图像对自定义文本到图像模型</title>
       <link>https://arxiv.org/abs/2405.01536</link>
@@ -34,9 +34,9 @@
       <pubDate>Fri, 03 May 2024 02:22:40 GMT</pubDate>
     </item>
     <item>
-      <title>LLM-AD：基于大型语言模型的音频描述系统</title>
+      <title>LLM-AD：基于大语言模型的音频描述系统</title>
       <link>https://arxiv.org/abs/2405.00983</link>
-      <description><![CDATA[音频描述 (AD) 的开发是使视频内容更易于访问和包容的关键一步。传统上，AD 制作需要大量熟练劳动力，而现有的自动化方法仍然需要大量培训来集成多模态输入并将输出从字幕样式定制为 AD 样式。在本文中，我们介绍了一种自动化 AD 生成流程，该流程利用了 GPT-4V(ision) 强大的多模态和指令跟踪能力。值得注意的是，我们的方法采用了现成的组件，无需额外培训。它生成的 AD 不仅符合既定的自然语言 AD 制作标准，而且还通过基于跟踪的字符识别模块在各帧之间保持上下文一致的字符信息。对 MAD 数据集的彻底分析表明，我们的方法在自动化 AD 制作中实现了与基于学习的方法相当的性能，CIDEr 得分为 20.5 证实了这一点。]]></description>
+      <description><![CDATA[音频描述 (AD) 的发展是使视频内容更易于访问和更具包容性的关键一步。传统上，广告制作需要大量熟练劳动力，而现有的自动化方法仍然需要大量培训来集成多模式输入并将输出从字幕风格定制为广告风格。在本文中，我们介绍了一种自动 AD 生成管道，该管道利用了 GPT-4V(ision) 强大的多模式和指令跟踪能力。值得注意的是，我们的方法采用现成的组件，无需额外培训。它生成的广告不仅符合既定的自然语言广告制作标准，而且得益于基于跟踪的字符识别模块，跨帧保持上下文一致的字符信息。对 MAD 数据集的彻底分析表明，我们的方法在自动化 AD 生产中的性能与基于学习的方法相当，CIDEr 得分为 20.5。]]></description>
       <guid>https://arxiv.org/abs/2405.00983</guid>
       <pubDate>Fri, 03 May 2024 02:20:08 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>LoRA Land：310 个可与 GPT-4 竞争的微调法学硕士，技术报告</title>
       <link>https://arxiv.org/abs/2405.00732</link>
-      <description><![CDATA[低秩适应 (LoRA) 已成为大型语言模型 (LLM) 参数高效微调 (PEFT) 最广泛采用的方法之一。 LoRA 减少了可训练参数的数量和内存使用量，同时实现了与完全微调相当的性能。我们的目标是评估在现实应用中使用 LoRA 进行微调的法学硕士培训和服务的可行性。首先，我们测量了在 10 个基本模型和 31 个任务（总共 310 个模型）中使用量化低等级适配器进行微调的 LLM 的质量。我们发现 4 位 LoRA 微调模型平均比基础模型高 34 个点，比 GPT-4 平均高 10 个点。其次，我们研究了最有效的微调基础模型，并评估了任务复杂性启发法在预测微调结果方面的相关性和预测能力。最后，我们评估了 LoRAX 的延迟和并发能力，LoRAX 是一款开源多 LoRA 推理服务器，它有助于使用共享基础模型权重和动态适配器加载在单个 GPU 上部署多个 LoRA 微调模型。 LoRAX 为 LoRA Land 提供支持，LoRA Land 是一个 Web 应用程序，在具有 80GB 内存的单个 NVIDIA A100 GPU 上托管 25 个经过 LoRA 微调的 Mistral-7B LLM。 LoRA Land 强调聘用多个专业法学硕士相对于单一通用法学硕士的质量和成本效益。]]></description>
+      <description><![CDATA[低秩自适应 (LoRA) 已成为大型语言模型 (LLM) 参数高效微调 (PEFT) 最广泛采用的方法之一。LoRA 减少了可训练参数的数量和内存使用量，同时实现了与完全微调相当的性能。我们的目标是评估在实际应用中训练和使用 LoRA 微调的 LLM 的可行性。首先，我们测量了使用量化低秩适配器在 10 个基础模型和 31 个任务（总共 310 个模型）中微调的 LLM 的质量。我们发现 4 位 LoRA 微调模型的平均表现比基础模型高出 34 分，比 GPT-4 高出 10 分。其次，我们研究了最有效的微调基础模型，并评估了任务复杂性启发式方法在预测微调结果方面的相关性和预测能力。最后，我们评估了 LoRAX 的延迟和并发能力，LoRAX 是一个开源多 LoRA 推理服务器，它使用共享基础模型权重和动态适配器加载，有助于在单个 GPU 上部署多个 LoRA 微调模型。LoRAX 为 LoRA Land 提供支持，LoRA Land 是一个 Web 应用程序，它在具有 80GB 内存的单个 NVIDIA A100 GPU 上托管 25 个 LoRA 微调 Mistral-7B LLM。LoRA Land 强调了使用多个专用 LLM 而不是单个通用 LLM 的质量和成本效益。]]></description>
       <guid>https://arxiv.org/abs/2405.00732</guid>
       <pubDate>Fri, 03 May 2024 02:11:46 GMT</pubDate>
     </item>
