@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>CNET</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Sat, 04 May 2024 09:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 11:10:48 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳三星手机 - CNET</title>
+      <link>https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e</link>
+      <description><![CDATA[无论您是在寻找价格实惠的手机，还是想要一款可对折的手机，以下都是我们对 2024 年最佳三星 Galaxy 手机的推荐。]]></description>
+      <guid>https://www.cnet.com/tech/mobile/best-samsung-galaxy-phone/#ftag=CAD590a51e</guid>
+      <pubDate>Sat, 04 May 2024 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>霉菌可能藏在你家里的 7 个地方 - CNET</title>
+      <link>https://www.cnet.com/how-to/7-places-mold-could-be-hiding-in-your-home/#ftag=CAD590a51e</link>
+      <description><![CDATA[我们将向您展示在哪里检查家中是否有霉菌，以及如果发现霉菌该怎么办。]]></description>
+      <guid>https://www.cnet.com/how-to/7-places-mold-could-be-hiding-in-your-home/#ftag=CAD590a51e</guid>
+      <pubDate>Sat, 04 May 2024 09:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>有趣还是烦人？谷歌新的“音频表情符号”功能如何在 Android 上运行 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/funny-or-annoying-how-googles-new-audio-emoji-feature-works-on-android/#ftag=CAD590a51e</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[这是 2024 年赛季的首场大环赛。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/giro-ditalia-2024-how-to-watch-a-uci-world-tour-cycling-livestream-for-free/#ftag=CAD590a51e</guid>
       <pubDate>Sat, 04 May 2024 01:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳惠普笔记本电脑 - CNET</title>
-      <link>https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e</link>
-      <description><![CDATA[这些是我们最喜欢的 HP 笔记本电脑，包括 Pavilion 型号、Victus 游戏笔记本电脑和可折叠 Spectre，所有这些均经过 CNET 编辑的测试和审查。]]></description>
-      <guid>https://www.cnet.com/tech/computing/best-hp-laptops/#ftag=CAD590a51e</guid>
-      <pubDate>Sat, 04 May 2024 00:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>此充电站立减 16 美元，让您的所有设备保持供电 - CNET</title>
-      <link>https://www.cnet.com/deals/keep-all-your-devices-powered-with-16-off-this-power-station/#ftag=CAD590a51e</link>
-      <description><![CDATA[您再也不用担心充电站只有一个充电插座了，现在您可以在专为 Apple 设备设计的无线版本上节省一点钱。]]></description>
-      <guid>https://www.cnet.com/deals/keep-all-your-devices-powered-with-16-off-this-power-station/#ftag=CAD590a51e</guid>
-      <pubDate>Fri, 03 May 2024 23:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
