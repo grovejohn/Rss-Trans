@@ -4,9 +4,16 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 04 May 2024 04:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 May 2024 06:35:52 GMT</lastBuildDate>
     <item>
-      <title>Tech Over Tea 采访 KDE 在世界上的地位</title>
+      <title>本周 KDE：展望 Plasma 6.1</title>
+      <link>https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 04 May 2024 04:57:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Tech Over Tea 上接受采访，谈论 KDE 在世界上的地位</title>
       <link>https://pointieststick.com/2024/05/03/interview-on-tech-over-tea-about-kdes-position-in-the-world/?utm_source=atom_feed</link>
       <description><![CDATA[我最近第二次访问布罗迪·罗伯逊 (Brodie Robertson) 的 Tech Over Tea 频道。我想我在第一次复飞时没有成功地激怒他，因为他邀请我回来！让我们看看这次我是否做得更好，告诉他他错误地使用了 Arch。 
 无论如何，Brodie 是一位出色的主持人，我们讨论了许多话题，例如 KDE 在世界上的地位、机构连续性、筹款和财务稳定性、报告和分类错误的难度、打包软件以及阻止 WiFi 信号的窗口。
@@ -66,7 +73,7 @@
 让我们互相帮助，尽我们所能做到这一点。
 “哦，这是你做的吗？”没有任何问题。好好看这个！然而，友好的竞争类型，
 它让我们继续做我们最擅长的事情。 :)
-我只是想把这个写下来作为某种提醒，我们必须记住
+我只是想把它写下来作为某种提醒，我们必须记住
 如果我们想成功，就共同努力。即使沮丧。
 不，我并不是一个高高在上的人，我也有过自己的挫败感和俏皮话。
 这篇文章也给我自己一个提醒。
@@ -75,7 +82,7 @@
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE 和 Google Summer of Code 2024</title>
+      <title>KDE 和 Google 2024 年编程之夏</title>
       <link>https://mentorship.kde.org/blog/2024-05-gsoc-2024/?utm_source=atom_feed</link>
       <description><![CDATA[
 &lt;图&gt;
@@ -117,7 +124,7 @@ Scarlett 的方向是将 Snap 生态系统与 KDE 更紧密地整合在一起。
 从 Plasma 系统设置更改权限。
 Krita
 Ken Lo 将在 Tiar 的监督下工作
-和 Emmet O&#39;Neill 通过添加 Pixel 改进像素艺术工作流程
+和 Emmet O&#39;Neill 谈论通过添加 Pixel 来改进像素艺术工作流程
 平滑像素艺术曲线的完美选择。
 KDE 游戏
 João Gouveia 将实现后端
@@ -140,7 +147,7 @@ Sub Station Alpha v4.00+ 格式，其中包含以下样式信息
       <pubDate>Wed, 01 May 2024 22:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年目标冲刺</title>
+      <title>2024 目标冲刺</title>
       <link>https://nicolasfella.de/posts/goal-sprint-2024/?utm_source=atom_feed?utm_source=atom_feed</link>
       <description><![CDATA[上周，和许多其他人一样，我在柏林参加 Mega^WGoals 冲刺。自然地，这三个目标（可持续性、可访问性和自动化；三种能力）吸引了各种各样的人，他们也带来了其他话题，因此它变成了一场真正的超级冲刺。
 不幸的是，对所有三个目标感兴趣使得关注所有相关讨论变得有点困难，但另一方面它永远不会变得无聊。
@@ -185,15 +192,6 @@ Amarok 度假归来
       <description><![CDATA[]]></description>
       <guid>https://euroquis.nl//blabla/2024/04/30/chmod.html?utm_source=atom_feed</guid>
       <pubDate>Mon, 29 Apr 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化冲刺中的 Bugzilla Bot 改进</title>
-      <link>https://blogs.kde.org/2024/04/29/bugzilla-bot-improvements-in-the-automation-sprint/?utm_source=atom_feed</link>
-      <description><![CDATA[我很高兴能够参加我的第一次现场 KDE 活动，即自动化和会议。柏林系统化冲刺。此前，我对 KDE 的贡献包括提交和分类错误报告。在这个周末，我能够亲自见到 KDE 团队的一些成员，并更多地参与其中。我已经开始使用 Bugzilla Bot 代码，并计划开始深入研究自动化测试代码。
-Bugzilla 产品列表已过时，因此我首先更新那（是的，我的第一个接受的MR！）。我还开始致力于使用 GitLab API 来自动执行这些更新。在不久的将来，我将解决 Bugzilla 机器人的一些改进请求。这将减少无聊的手动 bug 杂务，让人们有时间去做更有价值的工作。
-感谢KDE团队如此友好并愿意帮助我学习开发环境。我很高兴找到了更多我喜欢的贡献方式，并且对项目很有价值。]]></description>
-      <guid>https://blogs.kde.org/2024/04/29/bugzilla-bot-improvements-in-the-automation-sprint/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 29 Apr 2024 21:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
