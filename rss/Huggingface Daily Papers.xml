@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>拥抱日报</title>
+    <title>Huggingface 日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
-    <lastBuildDate>Sun, 05 May 2024 17:35:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 18:15:17 GMT</lastBuildDate>
     <item>
       <title>使用单个图像对自定义文本到图像模型</title>
       <link>https://arxiv.org/abs/2405.01536</link>
@@ -36,7 +36,7 @@
     <item>
       <title>LLM-AD：基于大语言模型的音频描述系统</title>
       <link>https://arxiv.org/abs/2405.00983</link>
-      <description><![CDATA[音频描述 (AD) 的发展是使视频内容更易于访问和更具包容性的关键一步。传统上，广告制作需要大量熟练劳动力，而现有的自动化方法仍然需要大量培训来集成多模式输入并将输出从字幕风格定制为广告风格。在本文中，我们介绍了一种自动 AD 生成管道，该管道利用了 GPT-4V(ision) 强大的多模式和指令跟踪能力。值得注意的是，我们的方法采用现成的组件，无需额外培训。它生成的广告不仅符合既定的自然语言广告制作标准，而且得益于基于跟踪的字符识别模块，跨帧保持上下文一致的字符信息。对 MAD 数据集的彻底分析表明，我们的方法在自动化 AD 生产中的性能与基于学习的方法相当，CIDEr 得分为 20.5。]]></description>
+      <description><![CDATA[音频描述 (AD) 的开发是使视频内容更易于访问和包容的关键一步。传统上，AD 制作需要大量熟练劳动力，而现有的自动化方法仍然需要大量培训来集成多模态输入并将输出从字幕样式定制为 AD 样式。在本文中，我们介绍了一种自动化 AD 生成流程，该流程利用了 GPT-4V(ision) 强大的多模态和指令跟踪能力。值得注意的是，我们的方法采用了现成的组件，无需额外培训。它生成的 AD 不仅符合既定的自然语言 AD 制作标准，而且还通过基于跟踪的字符识别模块在各帧之间保持上下文一致的字符信息。对 MAD 数据集的彻底分析表明，我们的方法在自动化 AD 制作中实现了与基于学习的方法相当的性能，CIDEr 得分为 20.5 证实了这一点。]]></description>
       <guid>https://arxiv.org/abs/2405.00983</guid>
       <pubDate>Fri, 03 May 2024 02:20:08 GMT</pubDate>
     </item>
