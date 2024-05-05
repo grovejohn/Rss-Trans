@@ -4,7 +4,36 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 05 May 2024 14:11:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 May 2024 14:36:07 GMT</lastBuildDate>
+    <item>
+      <title>2024 年柏林目标冲刺</title>
+      <link>https://meven.github.io/berlin-goals-sprint-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[正如您可能听说的那样，两周前，一群 KDE 贡献者聚集在柏林，参加冲刺，以推动 当前 KDE 社区目标。
+我参加了冲刺，很高兴与其他 KDE 贡献者聚在一起，讨论我们的经验、计划和愿望。
+目标工作
+我这个目标的主要目标是为 Dolphin 合并自动化 GUI 测试。
+这很重要，因为它为更好的测试、可访问性改进和功耗测量铺平了道路，从而在实现三个目标方面取得了进展。
+从上个学院起我就想完成这个工作，我尝试过，但当时没有成果。
+这次有Harald在身边，selenium webdriver at spi 作者，我将有机会戳他来克服我的困难。
+事实上，Harald 非常乐于助人。我花了一段时间才正确设置本地测试环境。
+但是然后我可以更新 Marco 的现有 MR 并稍微修改一下以使其合并  .
+我来柏林的另一个目标是改善 KIO 的 CI 测试情况。
+目前，大量测试失败，我们不要求 KIO 通过测试。
+KIO 对于 Dolphin 来说是一个非常重要的库，因此我花费了贡献者时间的重要部分来改进它，所以这对我来说非常重要。
+我发送了修复测试，但 CI 无法真正运行它一种测试。
+这些测试使用 systemd 启动程序，但我们的测试在容器内运行，这限制了测试在运行时可以执行的操作。
+我们取得了一些进展，我了解到需要采取哪些措施来解决这个问题。
+对于这些，我们需要在开发运营方面做一些工作。
+许多其他测试仍然需要修复。
+海豚
+我正忙着做海豚评论。
+开发人员特别感兴趣的一个是会有一个 git 克隆对话框 在海豚插件中。
+功能贡献者 Nikolai Krasheninnikov 和我本人仍在对其进行改进，使其变得既美观又实用。
+我一直在审查另一个功能，但现在公开谈论还为时过早。
+我也是第一次尝试neochat，我很高兴。]]></description>
+      <guid>https://meven.github.io/berlin-goals-sprint-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 05 May 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>日常驾驶等离子手机</title>
       <link>https://fam-ribbers.com/blog/2024-05-05-daily-driving-plasma-mobile/?utm_source=atom_feed</link>
@@ -21,7 +50,7 @@
       <pubDate>Sat, 04 May 2024 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>立即向 Akademy 发送您的演讲！</title>
+      <title>立即发送您的演讲稿！</title>
       <link>https://tsdgeos.blogspot.com/2024/05/sent-your-talks-for-akademy-now.html?utm_source=atom_feed</link>
       <description><![CDATA[Akademy 2024（KDE 年度世界峰会）将于 7 日星期六至星期四在维尔茨堡举行9 月 12 日。 （我希望你知道这一点）首先，如果你正在阅读本文并思考，“我应该去学院吗？” p&gt;答案是[最有可能]是的！ Akademy 适合每个人，无论是程序员、翻译者、推广者、设计师、爱好者等。现在，解决这个问题，让学院感到高兴的众多事情之一就是周末的演讲，你知道谁有话要说吗？ *你*是的，*你*。我确信您一直在研究一些有趣的事情，或者有一个好主意要分享。*您*可能认为您的想法并非如此很棒或者你所做的事情并不有趣，但很少会出现这种情况，当有人向我解释他们一直在做的“无聊”事情时，我总是想“哇，那太棒了”。好的，既然我已经说服您发送谈话提案，那么什么时候发送比*今天*更好呢？ 是的，我知道征集活动开放至 5 月 24 日，但截止日期今天发送，请确保您不会忘记稍后发送，而且[对我来说更重要]您可以帮助我们计划委员会中的人在最终日期开始临近时不用担心，而我们还没有进行很多会谈因为你们都喜欢在最后一刻发送演讲。所以停止阅读并今天发送您的演讲;-)]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/05/sent-your-talks-for-akademy-now.html?utm_source=atom_feed</guid>
@@ -37,17 +66,17 @@
     <item>
       <title>Tech Over Tea 采访 KDE 在世界上的地位</title>
       <link>https://pointieststick.com/2024/05/03/interview-on-tech-over-tea-about-kdes-position-in-the-world/?utm_source=atom_feed</link>
-      <description><![CDATA[我最近第二次上了 Brodie Robertson 的 Tech Over Tea 频道。我想第一次没能惹怒他，因为他又邀请我回来了！让我们看看这次我是否做得更好，告诉他 Arch 用错了。
-无论如何，Brodie 是一位出色的主持人，我们讨论了许多话题，例如 KDE 在世界上的地位、机构连续性、筹款和财务稳定性、报告和分类错误的难度、打包软件的挑战以及阻止 WiFi 信号的窗口。
-希望你喜欢它！
+      <description><![CDATA[我最近第二次访问布罗迪·罗伯逊 (Brodie Robertson) 的 Tech Over Tea 频道。我想我在第一次复飞时没有成功地激怒他，因为他邀请我回来！让我们看看这次我是否做得更好，告诉他他错误地使用了 Arch。 
+无论如何，Brodie 是一位出色的主持人，我们讨论了许多话题，例如 KDE 在世界上的地位、机构连续性、筹款和财务稳定性、报告和分类错误的难度、打包软件以及阻止 WiFi 信号的窗口。
+希望您喜欢！
 
 
-这是我在最后提到的链接：https://kde.org/community/donations  ]]></description>
+这是我在最后提到的链接：https://kde.org/community/捐款  ]]></description>
       <guid>https://pointieststick.com/2024/05/03/interview-on-tech-over-tea-about-kdes-position-in-the-world/?utm_source=atom_feed</guid>
       <pubDate>Sat, 04 May 2024 01:46:32 GMT</pubDate>
     </item>
     <item>
-      <title>网络评论，第 2024-18 周</title>
+      <title>网络评论，2024-18 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/05/03/web-review-week-2024-18/?utm_source=atom_feed</guid>
@@ -104,7 +133,7 @@
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE 和 Google Summer of Code 2024</title>
+      <title>KDE 和 Google 2024 年编程之夏</title>
       <link>https://mentorship.kde.org/blog/2024-05-gsoc-2024/?utm_source=atom_feed</link>
       <description><![CDATA[
 &lt;图&gt;
@@ -160,13 +189,6 @@ Sub Station Alpha v4.00+ 格式，其中包含以下样式信息
 让我们热烈欢迎所有新贡献者，并祝他们在 KDE 度过一个愉快的夏天！]]></description>
       <guid>https://mentorship.kde.org/blog/2024-05-gsoc-2024/?utm_source=atom_feed</guid>
       <pubDate>Thu, 02 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯特与图标</title>
-      <link>https://cullmann.io/posts/kate-and-icons/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://cullmann.io/posts/kate-and-icons/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 01 May 2024 22:36:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
