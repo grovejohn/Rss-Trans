@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Mon, 06 May 2024 08:37:27 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Mon, 06 May 2024 09:15:01 GMT</lastBuildDate>
+    <item>
+      <title>他们在监狱里购买了平板电脑，却发现自己的承诺落空了</title>
+      <link>https://www.wired.com/story/electronic-tablets-in-federal-prisons-chat-apps-disabled/</link>
+      <description><![CDATA[出售手持平板电脑的目的是希望监狱里的人可以使用它们与亲人保持联系。但《连线》杂志的一项调查发现，联邦监狱禁用了平板电脑的聊天应用程序。]]></description>
+      <guid>https://www.wired.com/story/electronic-tablets-in-federal-prisons-chat-apps-disabled/</guid>
+      <pubDate>Mon, 06 May 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>以太坊联合创始人表示美国证券交易委员会正在“煤气灯操纵”每个人关于加密货币的问题</title>
       <link>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Vodafone Pro II Ultra Hub 评测：带 4G 备份的 Wi-Fi 6E</title>
       <link>https://www.wired.com/review/vodafone-pro-ii-ultra-hub/</link>
-      <description><![CDATA[随着沃达丰在英国提供具有备份移动网络服务的 Wi-Fi 6E Ultra Hub，ISP 提供的路由器正在得到改进。]]></description>
+      <description><![CDATA[随着沃达丰在英国提供带有备用移动网络服务的 Wi-Fi 6E Ultra Hub，ISP 提供的路由器正在得到改进。]]></description>
       <guid>https://www.wired.com/review/vodafone-pro-ii-ultra-hub/</guid>
       <pubDate>Mon, 06 May 2024 08:00:00 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>埃隆·马斯克 (Elon Musk) 放弃了 2.5 万美元的特斯拉，这款电动汽车的成本仅为 4,400 美元</title>
       <link>https://www.wired.com/story/zhidou-rainbow-ev-costs-just-dollar4400/</link>
-      <description><![CDATA[来认识一下知豆彩虹吧——它的成本比电动自行车还低，并且能够完成美国平均每天的通勤，而且还省电。]]></description>
+      <description><![CDATA[看看知豆彩虹吧——它的价格比电动自行车还便宜，而且在充电后还能完成美国人每天的平均通勤。]]></description>
       <guid>https://www.wired.com/story/zhidou-rainbow-ev-costs-just-dollar4400/</guid>
       <pubDate>Sun, 05 May 2024 12:30:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[数学家认为辛几何领域的抽象工具可能有助于规划遥远的卫星和行星的任务。]]></description>
       <guid>https://www.wired.com/story/old-abstract-field-math-spacecraft-orbits-jupiter-europa/</guid>
       <pubDate>Sun, 05 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 款最佳便携式烤架（2024 年）：木炭、丙烷、电动等</title>
-      <link>https://www.wired.com/story/best-portable-grills/</link>
-      <description><![CDATA[我们烧烤了数周，寻找适合公路旅行或小型家庭使用的木炭和丙烷烤架。]]></description>
-      <guid>https://www.wired.com/story/best-portable-grills/</guid>
-      <pubDate>Sat, 04 May 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
