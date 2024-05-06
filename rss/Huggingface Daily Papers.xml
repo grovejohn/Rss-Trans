@@ -4,7 +4,7 @@
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
     <description>Huggingface Daily Papers - RSSHub 用爱制作的(https://github.com/DIYgod/RSSHub)</description>
-    <lastBuildDate>Mon, 06 May 2024 21:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 22:12:44 GMT</lastBuildDate>
     <item>
       <title>使用单个图像对自定义文本到图像模型</title>
       <link>https://arxiv.org/abs/2405.01536</link>
@@ -22,7 +22,7 @@
     <item>
       <title>NeMo-Aligner：用于高效模型对齐的可扩展工具包</title>
       <link>https://arxiv.org/abs/2405.01481</link>
-      <description><![CDATA[让大型语言模型 (LLM) 与人类价值观和偏好保持一致对于使其有用且安全至关重要。然而，构建高效的工具来执行对齐可能具有挑战性，特别是对于通常包含数百或数千亿参数的最大和最有能力的法学硕士而言。我们创建了 NeMo-Aligner，这是一个用于模型对齐的工具包，可以有效地扩展到使用数百个 GPU 进行训练。 NeMo-Aligner 为模型对齐的主要范例提供了高度优化和可扩展的实现，例如：来自人类反馈的强化学习 (RLHF)、直接偏好优化 (DPO)、SteerLM 和自玩微调 (SPIN)。此外，我们的工具包支持在参数高效微调 (PEFT) 设置中运行大多数对齐技术。 NeMo-Aligner 专为可扩展性而设计，可以轻松支持其他对齐技术。它是开源的，具有 Apache 2.0 许可证，我们邀请社区贡献 https://github.com/NVIDIA/NeMo-Aligner]]></description>
+      <description><![CDATA[将大型语言模型 (LLM) 与人类价值观和偏好对齐对于使其有用和安全至关重要。但是，构建有效的工具来执行对齐可能具有挑战性，尤其是对于通常包含数百或数千亿个参数的最大和最称职的 LLM。我们创建了 NeMo-Aligner，这是一个用于模型对齐的工具包，可以有效地扩展到使用数百个 GPU 进行训练。NeMo-Aligner 带有高度优化和可扩展的实现，适用于模型对齐的主要范例，例如：从人类反馈中进行强化学习 (RLHF)、直接偏好优化 (DPO)、SteerLM 和自我游戏微调 (SPIN)。此外，我们的工具包支持在参数高效微调 (PEFT) 设置中运行大多数对齐技术。NeMo-Aligner 专为可扩展性而设计，允许以最小的努力支持其他对齐技术。它是使用 Apache 2.0 许可证开源的，我们邀请社区在 https://github.com/NVIDIA/NeMo-Aligner 上做出贡献]]></description>
       <guid>https://arxiv.org/abs/2405.01481</guid>
       <pubDate>Fri, 03 May 2024 02:30:01 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>StoryDiffusion：用于长距离图像和视频生成的一致自注意力</title>
       <link>https://arxiv.org/abs/2405.01434</link>
-      <description><![CDATA[对于最近基于扩散的生成模型，在一系列生成的图像中保持一致的内容，尤其是那些包含主题和复杂细节的图像，是一项重大挑战。在本文中，我们提出了一种新的自注意力计算方法，称为一致性自注意力，它显著提高了生成的图像之间的一致性，并以零样本方式增强了流行的基于扩散的预训练文本到图像模型。为了将我们的方法扩展到远程视频生成，我们进一步引入了一个新颖的语义空间时间运动预测模块，称为语义运动预测器。它经过训练可以估计语义空间中两个提供的图像之间的运动条件。该模块将生成的图像序列转换为具有平滑过渡和一致主题的视频，这些视频比仅基于潜在空间的模块稳定得多，尤其是在长视频生成的情况下。通过合并这两个新颖的组件，我们的框架（称为 StoryDiffusion）可以描述一个基于文本的故事，其中包含包含丰富内容的一致图像或视频。所提出的 StoryDiffusion 包含了通过图像和视频呈现视觉故事生成方面的开创性探索，我们希望这可以从架构修改的角度激发更多的研究。我们的代码已在 https://github.com/HVision-NKU/StoryDiffusion 上公开发布。]]></description>
+      <description><![CDATA[对于最近基于扩散的生成模型，在一系列生成的图像中保持一致的内容，特别是那些包含主题和复杂细节的图像，提出了重大挑战。在本文中，我们提出了一种新的自注意力计算方法，称为一致性自注意力，它显着提高了生成图像之间的一致性，并以零样本方式增强了流行的基于预训练扩散的文本到图像模型。为了将我们的方法扩展到远程视频生成，我们进一步引入了一种新颖的语义空间时间运动预测模块，称为语义运动预测器。它被训练来估计语义空间中两个提供的图像之间的运动条件。该模块将生成的图像序列转换为具有平滑过渡和一致主题的视频，比仅基于潜在空间的模块更加稳定，特别是在长视频生成的情况下。通过合并这两个新颖的组件，我们的框架（称为 StoryDiffusion）可以描述基于文本的故事，其中包含包含丰富内容的一致图像或视频。所提出的 StoryDiffusion 涵盖了通过图像和视频的呈现来生成视觉故事的开创性探索，我们希望这可以激发建筑修改方面的更多研究。我们的代码已在 https://github.com/HVision-NKU/StoryDiffusion 上公开发布。]]></description>
       <guid>https://arxiv.org/abs/2405.01434</guid>
       <pubDate>Fri, 03 May 2024 01:53:55 GMT</pubDate>
     </item>
