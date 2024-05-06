@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 06 May 2024 08:16:53 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Mon, 06 May 2024 08:37:27 GMT</lastBuildDate>
+    <item>
+      <title>以太坊联合创始人表示美国证券交易委员会正在“煤气灯操纵”每个人关于加密货币的问题</title>
+      <link>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</link>
+      <description><![CDATA[乔·鲁宾 (Joe Lubin) 是以太坊的联合创始人。现在他的公司正在起诉美国证券交易委员会，他表示互联网的未来受到威胁。]]></description>
+      <guid>https://www.wired.com/story/ethereums-co-founder-says-sec-is-gaslighting-us-about-crypto/</guid>
+      <pubDate>Mon, 06 May 2024 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Vodafone Pro II Ultra Hub 评测：带 4G 备份的 Wi-Fi 6E</title>
       <link>https://www.wired.com/review/vodafone-pro-ii-ultra-hub/</link>
@@ -48,7 +55,7 @@
       <pubDate>Sun, 05 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>翻译技术令人惊叹，但有时却并非如此</title>
+      <title>翻译技术是惊人的，除非它不是</title>
       <link>https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/</link>
       <description><![CDATA[我们可以使用手机上的简单应用程序进行跨语言的令人惊讶的深入对话。但即使这些应用程序从人工智能中获得了新的推动力，它们仍然可能会导致一些尴尬的时刻。]]></description>
       <guid>https://www.wired.com/story/translation-tech-is-amazing-except-when-its-not/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们烧烤了数周，寻找适合公路旅行或小型家庭使用的木炭和丙烷烤架。]]></description>
       <guid>https://www.wired.com/story/best-portable-grills/</guid>
       <pubDate>Sat, 04 May 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Orka 2 评测：时尚的助听器</title>
-      <link>https://www.wired.com/review/orka-two-hearing-aids/</link>
-      <description><![CDATA[它们会花费你一些钱，但这些助听器具有“人工智能”调谐功能，实际上很有帮助。]]></description>
-      <guid>https://www.wired.com/review/orka-two-hearing-aids/</guid>
-      <pubDate>Sat, 04 May 2024 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
