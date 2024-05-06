@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 06 May 2024 22:12:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 23:12:47 GMT</lastBuildDate>
     <item>
-      <title>几乎所有 VPN 应用都遭遇新型攻击，彻底破坏其存在的目的</title>
+      <title>黑客发现如何在游戏中重新编程 NES 俄罗斯方块</title>
+      <link>https://arstechnica.com/?p=2022293</link>
+      <description><![CDATA[新方法可以帮助高分追逐者避免游戏结束时的崩溃。]]></description>
+      <guid>https://arstechnica.com/?p=2022293</guid>
+      <pubDate>Mon, 06 May 2024 22:16:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对几乎所有 VPN 应用程序的新型攻击破坏了它们的全部目的</title>
       <link>https://arstechnica.com/?p=2022250</link>
       <description><![CDATA[TunnelVision 漏洞自 2002 年以来就已存在，并且可能已为攻击者所知。]]></description>
       <guid>https://arstechnica.com/?p=2022250</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>Google Fit API 将于 2025 年关闭，可能会破坏健身设备</title>
       <link>https://arstechnica.com/?p=2022139</link>
-      <description><![CDATA[未更新的体重秤、追踪器和其他健身设备将停止同步]]></description>
+      <description><![CDATA[体重秤、追踪器和其他未更新的健身设备将停止同步]]></description>
       <guid>https://arstechnica.com/?p=2022139</guid>
       <pubDate>Mon, 06 May 2024 20:01:34 GMT</pubDate>
     </item>
@@ -36,12 +43,12 @@
     <item>
       <title>由于国会不作为，电信公司继续使用“不安全”的中国设备</title>
       <link>https://arstechnica.com/?p=2022171</link>
-      <description><![CDATA[联邦通信委员会主席称，国会仅提供了“拆除和更换”所需资金的 38%。]]></description>
+      <description><![CDATA[FCC 主席表示，国会只提供了“拆除和更换”所需资金的 38%。]]></description>
       <guid>https://arstechnica.com/?p=2022171</guid>
       <pubDate>Mon, 06 May 2024 18:39:29 GMT</pubDate>
     </item>
     <item>
-      <title>随着诉讼迫在眉睫，SEC 继续对 Robinhood 进行加密货币打击</title>
+      <title>随着诉讼迫在眉睫，美国证券交易委员会对 Robinhood 的加密货币打击仍在继续</title>
       <link>https://arstechnica.com/?p=2022159</link>
       <description><![CDATA[Robinhood 指责 SEC 创造了一个“围绕加密货币的混乱世界”。]]></description>
       <guid>https://arstechnica.com/?p=2022159</guid>
@@ -62,18 +69,11 @@
       <pubDate>Mon, 06 May 2024 15:54:06 GMT</pubDate>
     </item>
     <item>
-      <title>索尼做出让步，不会在 Steam 上强制执行《地狱潜伏者 2》PC 玩家的 PSN 帐户</title>
+      <title>索尼让步，不再强制要求 Steam 上的《地狱潜行者 2》PC 玩家使用 PSN 账户</title>
       <link>https://arstechnica.com/?p=2022100</link>
       <description><![CDATA[对于喜欢其游戏但不喜欢其网络的观众，索尼下一步将采取什么措施？]]></description>
       <guid>https://arstechnica.com/?p=2022100</guid>
       <pubDate>Mon, 06 May 2024 13:33:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>《神秘博士》闪亮的新一季感觉像是重新回归状态</title>
-      <link>https://arstechnica.com/?p=2021749</link>
-      <description><![CDATA[拉塞尔·T·戴维斯 (Russell T. Davies) 与明星努蒂·加特瓦 (Ncuti Gatwa) 和米莉·吉布森 (Millie Gibson) 共同探讨新冒险。]]></description>
-      <guid>https://arstechnica.com/?p=2021749</guid>
-      <pubDate>Mon, 06 May 2024 13:00:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
