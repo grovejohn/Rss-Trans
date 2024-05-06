@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 06 May 2024 12:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2024 14:13:31 GMT</lastBuildDate>
     <item>
-      <title>令人惊讶的不是波音失去了商业机组人员，而是它最终完成了任务</title>
+      <title>索尼做出让步，不会在 Steam 上强制执行《地狱潜伏者 2》PC 玩家的 PSN 帐户</title>
+      <link>https://arstechnica.com/?p=2022100</link>
+      <description><![CDATA[对于喜欢其游戏但不喜欢其网络的观众，索尼下一步将采取什么措施？]]></description>
+      <guid>https://arstechnica.com/?p=2022100</guid>
+      <pubDate>Mon, 06 May 2024 13:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>《神秘博士》闪亮的新一季感觉像是重新回归状态</title>
+      <link>https://arstechnica.com/?p=2021749</link>
+      <description><![CDATA[拉塞尔·T·戴维斯 (Russell T. Davies) 与明星努蒂·加特瓦 (Ncuti Gatwa) 和米莉·吉布森 (Millie Gibson) 共同探讨新冒险。]]></description>
+      <guid>https://arstechnica.com/?p=2021749</guid>
+      <pubDate>Mon, 06 May 2024 13:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>令人惊讶的不是波音公司失去了商业机组人员，而是它最终完成了任务</title>
       <link>https://arstechnica.com/?p=2020256</link>
-      <description><![CDATA[“结构性低效率是一个大问题。”]]></description>
+      <description><![CDATA[“结构性低效率是一件大事。”]]></description>
       <guid>https://arstechnica.com/?p=2020256</guid>
       <pubDate>Mon, 06 May 2024 11:00:46 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>这些危险的骗子甚至懒得隐藏他们的罪行</title>
       <link>https://arstechnica.com/?p=2022009</link>
-      <description><![CDATA[网络犯罪分子在社交媒体和通讯应用程序上公开实施数十起诈骗行为。]]></description>
+      <description><![CDATA[网络犯罪分子在社交媒体和消息应用程序上公开实施数十起诈骗。]]></description>
       <guid>https://arstechnica.com/?p=2022009</guid>
       <pubDate>Sat, 04 May 2024 11:37:56 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Sat, 04 May 2024 11:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>微软计划以前所未有的方式锁定 Windows DNS。具体方法如下。</title>
+      <title>微软计划以前所未有的方式锁定 Windows DNS。就是这样。</title>
       <link>https://arstechnica.com/?p=2021987</link>
       <description><![CDATA[ZTDNS 为 DNS 带来了两全其美的优点：加密和细粒度控制。]]></description>
       <guid>https://arstechnica.com/?p=2021987</guid>
@@ -57,23 +71,9 @@
     <item>
       <title>法官考虑对谷歌“令人震惊”地破坏内部聊天记录进行制裁</title>
       <link>https://arstechnica.com/?p=2021979</link>
-      <description><![CDATA[律师辩称，惩罚谷歌是最好的，这将是“前所未有的”。]]></description>
+      <description><![CDATA[律师认为，惩罚谷歌是最好的，这将是“前所未有的”。]]></description>
       <guid>https://arstechnica.com/?p=2021979</guid>
       <pubDate>Fri, 03 May 2024 23:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼要求《地狱潜行者 2》PC 版玩家加入 PSN 账户，但进展不顺利</title>
-      <link>https://arstechnica.com/?p=2021773</link>
-      <description><![CDATA[出人意料的打击、带有残酷包袱的网络以及 Steam 的利润悖论。]]></description>
-      <guid>https://arstechnica.com/?p=2021773</guid>
-      <pubDate>Fri, 03 May 2024 22:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>假冒思科设备最终流入美国军事基地，用于作战行动</title>
-      <link>https://arstechnica.com/?p=2021747</link>
-      <description><![CDATA[“这是有史以来最大的假冒商品贩卖行动之一。”]]></description>
-      <guid>https://arstechnica.com/?p=2021747</guid>
-      <pubDate>Fri, 03 May 2024 21:58:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
