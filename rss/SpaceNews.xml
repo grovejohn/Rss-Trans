@@ -3,8 +3,18 @@
   <channel>
     <title>太空新闻</title>
     <link>https://spacenews.com</link>
-    <description>涵盖太空商业和政治</description>
-    <lastBuildDate>Tue, 07 May 2024 01:55:49 GMT</lastBuildDate>
+    <description>报道太空商业和政治</description>
+    <lastBuildDate>Tue, 07 May 2024 02:30:43 GMT</lastBuildDate>
+    <item>
+      <title>火箭实验室宣布军用卫星项目供应商协议</title>
+      <link>https://spacenews.com/rocket-lab-announces-supplier-agreements-for-military-satellite-project/</link>
+      <description><![CDATA[
+
+该公司透露了其太空发展局卫星合同的有效载荷和地面系统分包商
+帖子Rocket Lab宣布军用卫星项目供应商协议 首先出现在 SpaceNews 上。]]></description>
+      <guid>https://spacenews.com/rocket-lab-announces-supplier-agreements-for-military-satellite-project/</guid>
+      <pubDate>Tue, 07 May 2024 02:09:01 GMT</pubDate>
+    </item>
     <item>
       <title>火箭问题阻碍了星际客机载人试飞的发射</title>
       <link>https://spacenews.com/rocket-issue-scrubs-launch-of-starliner-crewed-test-flight/</link>
@@ -31,7 +41,7 @@
       <description><![CDATA[
 
 Danti 的 500 万美元种子轮融资由国防科技风险投资公司 Shield Capital 领投
-文章专注于地球数据的搜索引擎获得新投资者首次出现在SpaceNews上。]]></description>
+帖子专注于地球数据的搜索引擎吸引了新投资者 首先出现在 SpaceNews 上。]]></description>
       <guid>https://spacenews.com/search-engine-focused-on-earth-data-gets-new-investors/</guid>
       <pubDate>Mon, 06 May 2024 21:00:00 GMT</pubDate>
     </item>
@@ -76,7 +86,7 @@ Danti 的 500 万美元种子轮融资由国防科技风险投资公司 Shield C
       <pubDate>Mon, 06 May 2024 16:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>Capella Space 使用人工智能实现船舶自动识别</title>
+      <title>Capella Space 使用人工智能自动识别船舶</title>
       <link>https://spacenews.com/capella-space-using-ai-to-automate-ship-identification/</link>
       <description><![CDATA[
 
@@ -94,16 +104,6 @@ Danti 的 500 万美元种子轮融资由国防科技风险投资公司 Shield C
 帖子Muon Space和地球火灾联盟建立野火检测和响应星座首先出现在太空新闻上。]]></description>
       <guid>https://spacenews.com/muon-space-and-earth-fire-alliance-to-build-constellation-for-wildfire-detection-and-response/</guid>
       <pubDate>Mon, 06 May 2024 13:10:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Maxar 与洛克希德·马丁公司签署协议，为 F-35 训练模拟器提供图像</title>
-      <link>https://spacenews.com/maxar-inks-agreement-with-lockheed-martin-to-supply-imagery-for-f-35-training-simulators/</link>
-      <description><![CDATA[
-
-洛克希德·马丁公司将使用 Maxar 的图像底图和 3D 模型
-帖子Maxar 墨水与洛克希德·马丁公司签订的为 F-35 训练模拟器提供图像的协议首先出现在 SpaceNews 上。]]></description>
-      <guid>https://spacenews.com/maxar-inks-agreement-with-lockheed-martin-to-supply-imagery-for-f-35-training-simulators/</guid>
-      <pubDate>Mon, 06 May 2024 12:52:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

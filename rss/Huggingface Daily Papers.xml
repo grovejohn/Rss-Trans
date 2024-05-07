@@ -3,8 +3,8 @@
   <channel>
     <title>拥抱日报</title>
     <link>https://huggingface.co/papers</link>
-    <description>Huggingface 日报 - 由 RSSHub(https://github.com/DIYgod/RSSHub) 精心制作</description>
-    <lastBuildDate>Tue, 07 May 2024 01:55:25 GMT</lastBuildDate>
+    <description>Huggingface Daily Papers - 由 RSSHub 用爱制作（https://github.com/DIYgod/RSSHub）</description>
+    <lastBuildDate>Tue, 07 May 2024 02:30:22 GMT</lastBuildDate>
     <item>
       <title>使用单个图像对自定义文本到图像模型</title>
       <link>https://arxiv.org/abs/2405.01536</link>
