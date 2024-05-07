@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 07 May 2024 12:48:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 14:35:44 GMT</lastBuildDate>
     <item>
       <title>Qt Creator 13.0.1 发布</title>
       <link>https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed</link>
@@ -12,6 +12,31 @@
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed</guid>
       <pubDate>Tue, 07 May 2024 10:59:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>MBition 成为 KDE 赞助人</title>
+      <link>https://ev.kde.org/2024/05/07/decisions/?utm_source=atom_feed</link>
+      <description><![CDATA[
+&lt;图&gt;
+
+
+
+MBition 通过慷慨赞助支持 KDE 社区的工作。
+MBition 设计并实现信息娱乐系统
+适用于下一代梅赛德斯-奔驰汽车，并依赖 KDE 的技术和
+其产品的专业知识。
+“经过多年的跨领域合作，我们认为成为 KDE e.V 的赞助人是深化我们的合作伙伴关系并进一步推进我们的开源战略的下一步” MBition 技术主管 Marcus Mennemeier 说道。
+“我们很高兴欢迎 MBition 成为赞助人，” KDE e.V. 副总裁 Lydia Pintscher 说道。 &quot;MBition 一直在为 KDE 软件以及我们在其上构建的堆栈做出贡献。这是拉近我们距离并支持 KDE 社区的重要一步，并进一步证明了 KDE 软件产品的稳健性和硬件就绪性。”
+MBition 加入了 KDE e.V. 的其他赞助者行列：Blue Systems、Canonical、g10 Code、Google、Kubuntu Focus、Slimbook、SUSE、The Qt Company 和 TUXEDO Computers，他们通过 KDE e.V 支持免费开源软件和 KDE 开发。]]></description>
+      <guid>https://ev.kde.org/2024/05/07/decisions/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 07 May 2024 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krita 每月更新 – 第 15 版</title>
+      <link>https://krita.org/en/posts/2024/monthly-update-15/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2024/monthly-update-15/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>关于 QML 效率：编译器、语言服务器和类型注释</title>
@@ -31,30 +56,29 @@
     <item>
       <title>2024 年柏林目标冲刺</title>
       <link>https://meven.github.io/berlin-goals-sprint-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[您可能已经听说，两周前，一群 KDE 贡献者聚集在柏林，参加一场冲刺活动，以推进当前 KDE 社区目标。
-我参加了这次冲刺活动，很高兴能与其他 KDE 贡献者聚在一起，讨论我们的经验、计划和愿望。
+      <description><![CDATA[正如您可能听说的那样，两周前，一群 KDE 贡献者聚集在柏林，参加冲刺，以推动 当前 KDE 社区目标。
+我参加了冲刺，很高兴与其他 KDE 贡献者聚在一起，讨论我们的经验、计划和愿望。
 目标工作
-我实现这一目标的主要目标是将自动化 GUI 测试合并到 Dolphin。
-这很重要，因为它为更好的测试、可访问性改进和功耗测量铺平了道路，同时朝着这三个目标迈进了一步。
-从上届学院开始，我就想完成这件事，我尝试了一下，但当时没有成果。
-这次有了 Harald，selenium webdriver at spi 的作者，我有机会鼓励他克服我的困难。
-Harald 确实非常有帮助。我花了一段时间才正确设置我的本地测试环境。
-但随后我可以更新 Marco 的现有 MR，并稍微完善它以它合并。
+我这个目标的主要目标是为 Dolphin 合并自动化 GUI 测试。
+这很重要，因为它为更好的测试、可访问性改进和功耗测量铺平了道路，从而在实现三个目标方面取得了进展。
+从上个学院起我就想完成这个工作，我尝试过，但当时没有成果。
+这次有Harald在身边，selenium webdriver at spi 作者，我将有机会戳他来克服我的困难。
+事实上，Harald 非常乐于助人。我花了一段时间才正确设置本地测试环境。
+但随后我可以更新 Marco 现有的 MR，并稍微完善一下以使其合并。 .
 我来柏林的另一个目标是改善 KIO 的 CI 测试情况。
-目前，许多测试都失败了，我们不要求 KIO 通过测试。
-KIO 是 Dolphin 的一个非常重要的库，因此我花了很大一部分贡献时间来改进它，所以这对我来说非常重要。
-我发送了测试修复，但 CI 无法真正运行这种测试。
-那些测试使用 systemd 启动程序，但我们的测试在容器内运行，这限制了测试在运行时可以执行的操作。
-我们取得了一些进展，我了解了需要做些什么来解决这个问题。
-我们需要在开发运营方面做一些工作。
-许多其他测试仍需要修复。
-Dolphin
-我忙着做 Dolphin 审查。
-开发人员特别感兴趣的一点是，dolphin-plugins 中将有一个 git clone 对话框。
-
-该功能贡献者 Nikolai Krasheninnikov 和我仍在改进它，使其既美观又实用。
+目前，大量测试失败，我们不要求 KIO 通过测试。
+KIO 对于 Dolphin 来说是一个非常重要的库，因此我花费了贡献者时间的重要部分来改进它，所以这对我来说非常重要。
+我发送了修复测试，但 CI 无法真正运行它一种测试。
+这些测试使用 systemd 启动程序，但我们的测试在容器内运行，这限制了测试在运行时可以执行的操作。
+我们取得了一些进展，我了解到需要采取哪些措施来解决这个问题。
+对于这些，我们需要在开发运营方面做一些工作。
+许多其他测试仍然需要修复。
+海豚
+我正忙着做海豚评论。
+开发人员特别感兴趣的一个是会有一个 git 克隆对话框 在海豚插件中。
+功能贡献者 Nikolai Krasheninnikov 和我本人仍在对其进行改进，使其变得既美观又实用。
 我一直在审查另一个功能，但现在公开谈论还为时过早。
-我也第一次尝试了 neochat，我很高兴。]]></description>
+我也是第一次尝试neochat，我很高兴。]]></description>
       <guid>https://meven.github.io/berlin-goals-sprint-2024/?utm_source=atom_feed</guid>
       <pubDate>Sun, 05 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -81,30 +105,11 @@ Dolphin
       <pubDate>Sat, 04 May 2024 18:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>立即发送您的演讲稿！</title>
+      <title>立即向 Akademy 发送您的演讲！</title>
       <link>https://tsdgeos.blogspot.com/2024/05/sent-your-talks-for-akademy-now.html?utm_source=atom_feed</link>
-      <description><![CDATA[Akademy 2024（KDE 的年度世界峰会）将于 9 月 7 日星期六至 9 月 12 日星期四在维尔茨堡举行。（我希望您知道这一点）首先，如果您正在阅读这篇文章并想，“我应该去 Akademy 吗？” 答案 [很可能] 是肯定的！Akademy 为每个人提供一些东西，无论是程序员、翻译人员、推广者、设计师、爱好者等。现在，有了这些，Akademy 的众多活动之一就是周末的演讲，您知道谁有话要说吗？*您*是的，*您*。我确信你一直在研究一些有趣的事情，或者有一个很棒的想法要分享。*你*可能会认为你的想法并不那么好，或者你正在研究的事情并不有趣，但这种情况很少发生。当有人向我解释他们一直在研究的“无聊”事情时，我总是会想“哇，这太棒了”。好的，既然我已经说服你发送演讲提案，还有什么比*今天*发送更好的呢？是的，我知道参与征集开放至 5 月 24 日，但今天发送可以确保你不会忘记稍后发送，而且[对我来说更重要的是]你可以帮助我们计划委员会的成员在截止日期临近时不用担心我们没有时间还有很多演讲，因为你们都喜欢在最后一刻发送演讲。所以不要再读下去了，今天就发送你的演讲 ;-)]]></description>
+      <description><![CDATA[Akademy 2024（KDE 年度世界峰会）将于 7 日星期六至星期四在维尔茨堡举行9 月 12 日。 （我希望你知道这一点）首先，如果你正在阅读本文并思考，“我应该去学院吗？” p&gt;答案是[最有可能]是的！ Akademy 适合每个人，无论是程序员、翻译者、推广者、设计师、爱好者等。现在，解决这个问题，让学院感到高兴的众多事情之一就是周末的演讲，你知道谁有话要说吗？ *你*是的，*你*。我确信您一直在研究一些有趣的事情，或者有一个好主意要分享。*您*可能认为您的想法并非如此很棒或者你所做的事情并不有趣，但很少会出现这种情况，当有人向我解释他们一直在做的“无聊”事情时，我总是想“哇，那太棒了”。好的，既然我已经说服您发送谈话提案，那么什么时候发送比*今天*更好呢？ 是的，我知道征集活动开放至 5 月 24 日，但截止日期今天发送它，你确保你不会忘记稍后发送它，而且[对我来说更重要]你帮助我们计划委员会的人在最终日期开始临近时不用担心，而且我们还没有很多会谈因为你们都喜欢在最后一刻发送演讲。所以停止阅读并今天发送您的演讲;-)]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/05/sent-your-talks-for-akademy-now.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 04 May 2024 10:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：展望 Plasma 6.1</title>
-      <link>https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/05/03/this-week-in-kde-looking-towards-plasma-6-1/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 04 May 2024 04:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tech Over Tea 采访 KDE 在世界上的地位</title>
-      <link>https://pointieststick.com/2024/05/03/interview-on-tech-over-tea-about-kdes-position-in-the-world/?utm_source=atom_feed</link>
-      <description><![CDATA[我最近第二次访问布罗迪·罗伯逊 (Brodie Robertson) 的 Tech Over Tea 频道。我想我在第一次复飞时没有成功地激怒他，因为他邀请我回来！让我们看看这次我是否做得更好，告诉他他错误地使用了 Arch。 
-无论如何，Brodie 是一位出色的主持人，我们讨论了许多话题，例如 KDE 在世界上的地位、机构连续性、筹款和财务稳定性、报告和分类错误的难度、打包软件以及阻止 WiFi 信号的窗口。
-希望您喜欢！
-
-
-这是我在最后提到的链接：https://kde.org/community/捐款  ]]></description>
-      <guid>https://pointieststick.com/2024/05/03/interview-on-tech-over-tea-about-kdes-position-in-the-world/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 04 May 2024 01:46:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
