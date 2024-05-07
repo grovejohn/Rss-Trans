@@ -4,7 +4,14 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Tue, 07 May 2024 12:48:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 13:13:30 GMT</lastBuildDate>
+    <item>
+      <title>基辅称俄罗斯刺杀泽伦斯基的阴谋被挫败</title>
+      <link>https://www.bbc.co.uk/news/world-europe-68968256</link>
+      <description><![CDATA[乌克兰称，两名乌克兰安全官员因俄罗斯密谋刺杀总统而被拘留。]]></description>
+      <guid>https://www.bbc.co.uk/news/world-europe-68968256</guid>
+      <pubDate>Tue, 07 May 2024 12:54:41 GMT</pubDate>
+    </item>
     <item>
       <title>剑谋杀案被指控“从后面袭击男孩”</title>
       <link>https://www.bbc.co.uk/news/uk-england-london-68968817</link>
@@ -13,28 +20,21 @@
       <pubDate>Tue, 07 May 2024 12:29:44 GMT</pubDate>
     </item>
     <item>
-      <title>基辅称俄罗斯暗杀泽连斯基的阴谋被挫败</title>
-      <link>https://www.bbc.co.uk/news/world-europe-68968256</link>
-      <description><![CDATA[基辅称，两名乌克兰安全官员因俄罗斯密谋刺杀泽连斯基总统而被捕。]]></description>
-      <guid>https://www.bbc.co.uk/news/world-europe-68968256</guid>
-      <pubDate>Tue, 07 May 2024 12:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>胡姆扎·优素福正式辞去苏格兰首席部长职务</title>
-      <link>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-68968015</link>
-      <description><![CDATA[在约翰·斯温尼当选该党新领导人后，这位前苏格兰民族党领导人签署了一封致国王的信。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-scotland-scotland-politics-68968015</guid>
-      <pubDate>Tue, 07 May 2024 12:07:48 GMT</pubDate>
+      <title>P&O 老板承认他无法靠每小时 4.87 英镑生活</title>
+      <link>https://www.bbc.com/articles/ceq3pw038g8o</link>
+      <description><![CDATA[Ferry 集团首席执行官 Peter Hebblethwaite 去年的收入超过 50 万英镑。]]></description>
+      <guid>https://www.bbc.com/articles/ceq3pw038g8o</guid>
+      <pubDate>Tue, 07 May 2024 12:16:22 GMT</pubDate>
     </item>
     <item>
       <title>里夫斯：政府在经济问题上给人们带来压力</title>
       <link>https://www.bbc.co.uk/news/business-68965212</link>
-      <description><![CDATA[影子财政大臣的讲话是在可能显示英国已摆脱衰退的数据公布之前发表的。]]></description>
+      <description><![CDATA[影子财政大臣的讲话出现在可能显示英国已走出衰退的数据之前。]]></description>
       <guid>https://www.bbc.co.uk/news/business-68965212</guid>
       <pubDate>Tue, 07 May 2024 11:48:37 GMT</pubDate>
     </item>
     <item>
-      <title>女性专用博物馆变成了阻止男性进入的厕所</title>
+      <title>女性专用博物馆变身厕所，阻止男性进入</title>
       <link>https://www.bbc.com/news/articles/cd1wpegrnrxo</link>
       <description><![CDATA[澳大利亚的莫娜请求法院推翻其允许男性进入女性专用空间的裁决。]]></description>
       <guid>https://www.bbc.com/news/articles/cd1wpegrnrxo</guid>
@@ -48,6 +48,13 @@
       <pubDate>Tue, 07 May 2024 11:09:38 GMT</pubDate>
     </item>
     <item>
+      <title>苏格兰新任首席部长将由苏格兰议会选出</title>
+      <link>https://www.bbc.co.uk/news/live/uk-scotland-68969037</link>
+      <description><![CDATA[约翰·斯温尼预计将在成为苏格兰民族党领袖后的第二天赢得苏格兰议会的投票。]]></description>
+      <guid>https://www.bbc.co.uk/news/live/uk-scotland-68969037</guid>
+      <pubDate>Tue, 07 May 2024 11:01:32 GMT</pubDate>
+    </item>
+    <item>
       <title>凯蒂·佩里 (Katy Perry) 表示，妈妈被人工智能 Met Gala 假照片欺骗了</title>
       <link>https://www.bbc.co.uk/news/entertainment-arts-68968708</link>
       <description><![CDATA[社交媒体上也有数百万人观看了雷安娜 (Rhianna) 和杜阿·利帕 (Dua Lipa) 的假 Met Gala 照片。]]></description>
@@ -57,16 +64,9 @@
     <item>
       <title>Met Gala 上最引人注目的 26 个造型</title>
       <link>https://www.bbc.co.uk/news/entertainment-arts-68938637</link>
-      <description><![CDATA[赞达亚 (Zendaya)、萨布丽娜·卡彭特 (Sabrina Carpenter) 和吉吉·哈迪德 (Gigi Hadid) 等明星均出席了纽约红毯。]]></description>
+      <description><![CDATA[赞达亚、萨布丽娜·卡彭特和吉吉·哈迪德等明星走在纽约的红地毯上。]]></description>
       <guid>https://www.bbc.co.uk/news/entertainment-arts-68938637</guid>
       <pubDate>Tue, 07 May 2024 08:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着抵押贷款利率上升，房价停滞不前</title>
-      <link>https://www.bbc.com/news/articles/cqenp5zpen6o</link>
-      <description><![CDATA[随着即将降息的预期逐渐消退，抵押贷款交易一直在增加。]]></description>
-      <guid>https://www.bbc.com/news/articles/cqenp5zpen6o</guid>
-      <pubDate>Tue, 07 May 2024 06:45:16 GMT</pubDate>
     </item>
     <item>
       <title>以色列称其控制拉法过境点加沙一侧，停战谈判恢复</title>
