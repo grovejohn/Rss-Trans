@@ -4,7 +4,14 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Tue, 07 May 2024 09:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 10:14:38 GMT</lastBuildDate>
+    <item>
+      <title>火箭问题将波音 Starliner 太空舱的第一次宇航员发射推迟至 5 月 10 日</title>
+      <link>https://www.space.com/starliner-crew-flight-test-launch-delay-may-10</link>
+      <description><![CDATA[由于火箭飞行出现问题，波音新型 Starliner 宇航员出租车的历史性首次载人发射已被推迟到周五（5 月 10 日）。]]></description>
+      <guid>https://www.space.com/starliner-crew-flight-test-launch-delay-may-10</guid>
+      <pubDate>Tue, 07 May 2024 10:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>波音 Starliner 第一次宇航员飞行：实时更新</title>
       <link>https://www.space.com/news/live/boeing-starliner-live-updates</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 07 May 2024 01:17:26 GMT</pubDate>
     </item>
     <item>
-      <title>波音 Starliner 历史性的首次宇航员发射因 Atlas V 火箭问题而推迟</title>
+      <title>波音星际客机历史性首次宇航员发射因 Atlas V 火箭问题推迟</title>
       <link>https://www.space.com/boeing-starliner-1st-launch-attempt-scrub</link>
       <description><![CDATA[ULA 的 Atlas V 火箭出现问题，导致 5 月 6 日波音 Starliner 太空舱历史性的第一次载人发射尝试失败。5 月 10 日是目前最早可能的发射日期。]]></description>
       <guid>https://www.space.com/boeing-starliner-1st-launch-attempt-scrub</guid>
@@ -64,16 +71,9 @@
     <item>
       <title>波音公司的 Starliner 发射将是阿特拉斯 V 号火箭的首次宇航员飞行。 NASA 和 ULA 是如何为宇航员做好准备的？ （独家的）</title>
       <link>https://www.space.com/atlas-v-starliner-astronauts-rocket-build</link>
-      <description><![CDATA[NASA 宇航员将于 5 月 6 日首次乘坐联合发射联盟 Atlas V 号火箭。为了让这艘长期运行的火箭为人类做好准备，需要进行数千次检查。]]></description>
+      <description><![CDATA[NASA 宇航员将于 5 月 6 日首次乘坐联合发射联盟 Atlas V 号。为了让这艘长期运行的火箭为人类做好准备，需要进行数千次检查。]]></description>
       <guid>https://www.space.com/atlas-v-starliner-astronauts-rocket-build</guid>
       <pubDate>Mon, 06 May 2024 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>太阳释放 X 级太阳耀斑，据报道无线电中断（视频）</title>
-      <link>https://www.space.com/sun-x-class-solar-flare-may-6-2024-radio-blackouts</link>
-      <description><![CDATA[最近检测到的太阳黑子区域周一清晨释放了强大的 X4.5 太阳耀斑，导致东半球部分地区无线电中断。]]></description>
-      <guid>https://www.space.com/sun-x-class-solar-flare-may-6-2024-radio-blackouts</guid>
-      <pubDate>Mon, 06 May 2024 17:43:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
