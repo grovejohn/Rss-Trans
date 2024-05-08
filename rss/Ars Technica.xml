@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 08 May 2024 17:11:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 19:10:44 GMT</lastBuildDate>
+    <item>
+      <title>M4 iPad Pro CPU 核心和 RAM 数量与存储容量相关</title>
+      <link>https://arstechnica.com/?p=2022820</link>
+      <description><![CDATA[Apple 在 iPad 中将 RAM 与存储容量捆绑在一起，但对于 CPU 来说这还是第一次。]]></description>
+      <guid>https://arstechnica.com/?p=2022820</guid>
+      <pubDate>Wed, 08 May 2024 17:32:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>FCC 明确禁止快速通道，堵住可能的网络中立漏洞</title>
+      <link>https://arstechnica.com/?p=2022823</link>
+      <description><![CDATA[将应用程序置于快速通道将违反 FCC 的无限制规则。]]></description>
+      <guid>https://arstechnica.com/?p=2022823</guid>
+      <pubDate>Wed, 08 May 2024 17:25:50 GMT</pubDate>
+    </item>
     <item>
       <title>特斯拉因误导投资者而受到联邦电信欺诈调查</title>
       <link>https://arstechnica.com/?p=2022790</link>
@@ -20,7 +34,7 @@
       <pubDate>Wed, 08 May 2024 14:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>没有人看过泰森“气候友好牛肉”主张背后的数据</title>
+      <title>没有人看到泰森“气候友好型牛肉”声明背后的数据</title>
       <link>https://arstechnica.com/?p=2022789</link>
       <description><![CDATA[数百万纳税人的钱流向饲养“低碳”牛肉的畜牧公司。]]></description>
       <guid>https://arstechnica.com/?p=2022789</guid>
@@ -34,9 +48,9 @@
       <pubDate>Tue, 07 May 2024 22:55:31 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 在 2024 年大选前标记深度伪造视频的计划存在缺陷</title>
+      <title>OpenAI 在 2024 年选举前标记深度造假的计划存在缺陷</title>
       <link>https://arstechnica.com/?p=2022700</link>
-      <description><![CDATA[OpenAI 正在招募研究人员来测试其新的 Deepfake 探测器。]]></description>
+      <description><![CDATA[OpenAI 正在招募研究人员来测试其新的深度伪造检测器。]]></description>
       <guid>https://arstechnica.com/?p=2022700</guid>
       <pubDate>Tue, 07 May 2024 22:19:08 GMT</pubDate>
     </item>
@@ -57,23 +71,9 @@
     <item>
       <title>亲身体验全新 iPad Pros 和 Airs：令人惊喜的耳目一新</title>
       <link>https://arstechnica.com/?p=2022530</link>
-      <description><![CDATA[而且新款 Apple Pencil Pro 也有一些很酷的功能。]]></description>
+      <description><![CDATA[新款 Apple Pencil Pro 也做了一些很酷的事情。]]></description>
       <guid>https://arstechnica.com/?p=2022530</guid>
       <pubDate>Tue, 07 May 2024 20:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>勒索软件主谋 LockBitSupp 沉迷于自己的匿名性——现在他的身份已被查明</title>
-      <link>https://arstechnica.com/?p=2022656</link>
-      <description><![CDATA[美国悬赏 1000 万美元逮捕德米特里·尤里耶维奇·霍罗舍夫。]]></description>
-      <guid>https://arstechnica.com/?p=2022656</guid>
-      <pubDate>Tue, 07 May 2024 19:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软推出间谍人工智能聊天机器人</title>
-      <link>https://arstechnica.com/?p=2022611</link>
-      <description><![CDATA[安全网络上的 GPT-4 模型隔离并不能阻止其可能捏造事实。]]></description>
-      <guid>https://arstechnica.com/?p=2022611</guid>
-      <pubDate>Tue, 07 May 2024 19:22:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
