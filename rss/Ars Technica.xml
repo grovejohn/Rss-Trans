@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 08 May 2024 19:10:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 20:13:18 GMT</lastBuildDate>
+    <item>
+      <title>DeepMind 在最新的蛋白质折叠软件中添加了扩散引擎</title>
+      <link>https://arstechnica.com/?p=2022871</link>
+      <description><![CDATA[主要的底层变化让 AlphaFold 能够处理蛋白质-DNA 复合物等。]]></description>
+      <guid>https://arstechnica.com/?p=2022871</guid>
+      <pubDate>Wed, 08 May 2024 19:45:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔和高通的华为出口许可证被吊销</title>
+      <link>https://arstechnica.com/?p=2022821</link>
+      <description><![CDATA[华为的手机部门已经继续前进，但如果没有英特尔，笔记本电脑将受到影响。]]></description>
+      <guid>https://arstechnica.com/?p=2022821</guid>
+      <pubDate>Wed, 08 May 2024 19:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>自行车品牌开始采用 C-V2X 来警告骑车人注意汽车</title>
+      <link>https://arstechnica.com/?p=2022851</link>
+      <description><![CDATA[不过，更多汽车制造商需要采用 C-V2X 才能看到真正的好处。]]></description>
+      <guid>https://arstechnica.com/?p=2022851</guid>
+      <pubDate>Wed, 08 May 2024 18:59:22 GMT</pubDate>
+    </item>
     <item>
       <title>M4 iPad Pro CPU 核心和 RAM 数量与存储容量相关</title>
       <link>https://arstechnica.com/?p=2022820</link>
@@ -20,7 +41,7 @@
       <pubDate>Wed, 08 May 2024 17:25:50 GMT</pubDate>
     </item>
     <item>
-      <title>特斯拉因误导投资者而受到联邦电信欺诈调查</title>
+      <title>特斯拉因误导投资者而接受联邦电汇欺诈调查</title>
       <link>https://arstechnica.com/?p=2022790</link>
       <description><![CDATA[检察官正在梳理传票材料，寻找特斯拉故意误导的证据。]]></description>
       <guid>https://arstechnica.com/?p=2022790</guid>
@@ -34,7 +55,7 @@
       <pubDate>Wed, 08 May 2024 14:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>没有人看到泰森“气候友好型牛肉”声明背后的数据</title>
+      <title>没有人看过泰森“气候友好牛肉”主张背后的数据</title>
       <link>https://arstechnica.com/?p=2022789</link>
       <description><![CDATA[数百万纳税人的钱流向饲养“低碳”牛肉的畜牧公司。]]></description>
       <guid>https://arstechnica.com/?p=2022789</guid>
@@ -48,32 +69,11 @@
       <pubDate>Tue, 07 May 2024 22:55:31 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 在 2024 年选举前标记深度造假的计划存在缺陷</title>
+      <title>OpenAI 在 2024 年大选前标记深度伪造视频的计划存在缺陷</title>
       <link>https://arstechnica.com/?p=2022700</link>
-      <description><![CDATA[OpenAI 正在招募研究人员来测试其新的深度伪造检测器。]]></description>
+      <description><![CDATA[OpenAI 正在招募研究人员来测试其新的 Deepfake 探测器。]]></description>
       <guid>https://arstechnica.com/?p=2022700</guid>
       <pubDate>Tue, 07 May 2024 22:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi 拥有内置远程访问工具：Raspberry Pi Connect</title>
-      <link>https://arstechnica.com/?p=2022695</link>
-      <description><![CDATA[几乎可以从任何浏览器访问您的小 Pi，并释放您的 RealVNC 插槽。]]></description>
-      <guid>https://arstechnica.com/?p=2022695</guid>
-      <pubDate>Tue, 07 May 2024 21:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>在两起非正常死亡诉讼中，Panera 停止销售“收费”饮料</title>
-      <link>https://arstechnica.com/?p=2022740</link>
-      <description><![CDATA[此前，一大杯咖啡的咖啡因含量几乎达到了 FDA 的每日安全限量。]]></description>
-      <guid>https://arstechnica.com/?p=2022740</guid>
-      <pubDate>Tue, 07 May 2024 21:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲身体验全新 iPad Pros 和 Airs：令人惊喜的耳目一新</title>
-      <link>https://arstechnica.com/?p=2022530</link>
-      <description><![CDATA[新款 Apple Pencil Pro 也做了一些很酷的事情。]]></description>
-      <guid>https://arstechnica.com/?p=2022530</guid>
-      <pubDate>Tue, 07 May 2024 20:06:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
