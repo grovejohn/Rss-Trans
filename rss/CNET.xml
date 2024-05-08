@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Wed, 08 May 2024 09:13:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 11:12:10 GMT</lastBuildDate>
+    <item>
+      <title>2024 年最佳 Verizon 手机 - CNET</title>
+      <link>https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e</link>
+      <description><![CDATA[想要一部新的 Verizon 手机吗？这些是最好的选择。]]></description>
+      <guid>https://www.cnet.com/tech/mobile/best-verizon-phone/#ftag=CAD590a51e</guid>
+      <pubDate>Wed, 08 May 2024 09:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>过去 6 年在沃尔玛购物吗？您可能可以获得高达 500 美元的和解现金 - CNET</title>
+      <link>https://www.cnet.com/personal-finance/if-youve-shopped-at-walmart-over-the-last-few-years-you-could-claim-up-to-500-in-settlement-cash/#ftag=CAD590a51e</link>
+      <description><![CDATA[以下是该零售商最近因人为抬高加权杂货价格而获得 4500 万美元和解金的相关信息。]]></description>
+      <guid>https://www.cnet.com/personal-finance/if-youve-shopped-at-walmart-over-the-last-few-years-you-could-claim-up-to-500-in-settlement-cash/#ftag=CAD590a51e</guid>
+      <pubDate>Wed, 08 May 2024 09:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>即将搬家？您可以获得的所有折扣 - CNET</title>
       <link>https://www.cnet.com/home/services/moving-soon-all-the-discounts-you-can-get/#ftag=CAD590a51e</link>
@@ -15,14 +29,14 @@
     <item>
       <title>纸板箱还是塑料箱：哪一个最适合您？ - CNET</title>
       <link>https://www.cnet.com/how-to/cardboard-or-plastic-which-is-the-right-moving-box-for-you/#ftag=CAD590a51e</link>
-      <description><![CDATA[租用塑料板条箱的好处可能超过成本。]]></description>
+      <description><![CDATA[租用塑料箱的好处可能超过其成本。]]></description>
       <guid>https://www.cnet.com/how-to/cardboard-or-plastic-which-is-the-right-moving-box-for-you/#ftag=CAD590a51e</guid>
       <pubDate>Wed, 08 May 2024 07:30:05 GMT</pubDate>
     </item>
     <item>
       <title>2024 年最佳网球 - CNET</title>
       <link>https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e</link>
-      <description><![CDATA[用这些网球提高你的比赛水平。]]></description>
+      <description><![CDATA[使用这些网球来提高你的比赛水平。]]></description>
       <guid>https://www.cnet.com/health/fitness/best-tennis-balls/#ftag=CAD590a51e</guid>
       <pubDate>Wed, 08 May 2024 05:52:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[如果您正在寻找最好的健身应用程序，我们测试了顶级的女性健身应用程序，以帮助您提前实现健身目标。]]></description>
       <guid>https://www.cnet.com/health/fitness/best-workout-apps-for-women/#ftag=CAD590a51e</guid>
       <pubDate>Wed, 08 May 2024 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳无线耳机 - CNET</title>
-      <link>https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e</link>
-      <description><![CDATA[我们测试了市场上最好的无线耳机，为您找到最完美的一副。以下是我们目前最喜欢的无线耳机，其中包括一些超值精选。]]></description>
-      <guid>https://www.cnet.com/tech/mobile/best-wireless-headphones/#ftag=CAD590a51e</guid>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳合作棋盘游戏 - CNET</title>
-      <link>https://www.cnet.com/culture/entertainment/best-cooperative-board-games/#ftag=CAD590a51e</link>
-      <description><![CDATA[与大家一起度过一个充满最佳合作棋盘游戏的夜晚。]]></description>
-      <guid>https://www.cnet.com/culture/entertainment/best-cooperative-board-games/#ftag=CAD590a51e</guid>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
