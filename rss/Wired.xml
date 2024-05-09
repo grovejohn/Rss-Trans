@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 09 May 2024 13:36:13 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Thu, 09 May 2024 14:13:31 GMT</lastBuildDate>
+    <item>
+      <title>宏碁 Chromebook Plus 514 评测：一款出色的经济型笔记本电脑</title>
+      <link>https://www.wired.com/review/acer-chromebook-plus-514/</link>
+      <description><![CDATA[这款 Chromebook 的价格不到 400 美元，您找不到比它更强大的主力了。]]></description>
+      <guid>https://www.wired.com/review/acer-chromebook-plus-514/</guid>
+      <pubDate>Thu, 09 May 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年最值得购买的 Kindle</title>
       <link>https://www.wired.com/gallery/best-kindle/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>三星 Galaxy A35 5G 评测：努力脱颖而出</title>
       <link>https://www.wired.com/review/samsung-galaxy-a35-5g/</link>
-      <description><![CDATA[三星的中端智能手机介于 Pixel 8A 和最新的 Moto G Power 之间，难以脱颖而出。]]></description>
+      <description><![CDATA[三星的这款中端智能手机处于 Pixel 8A 和最新的 Moto G Power 之间，难以脱颖而出。]]></description>
       <guid>https://www.wired.com/review/samsung-galaxy-a35-5g/</guid>
       <pubDate>Thu, 09 May 2024 12:30:00 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 09 May 2024 11:37:58 GMT</pubDate>
     </item>
     <item>
-      <title>学生记者面临校园抗议风暴和虚假信息</title>
+      <title>学生记者面临校园抗议虚假信息的风暴</title>
       <link>https://www.wired.com/story/student-journalists-campus-protests-disinformation/</link>
       <description><![CDATA[《连线》杂志采访了全国各地的学生记者，讲述了他们如何应对亲巴勒斯坦抗议活动后出现的大量虚假信息。]]></description>
       <guid>https://www.wired.com/story/student-journalists-campus-protests-disinformation/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>如何避免食脑蠕虫和汞中毒</title>
       <link>https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/</link>
-      <description><![CDATA[独立总统候选人小罗伯特·F·肯尼迪同时患有脑寄生虫和汞中毒。每种情况的罕见程度如何？]]></description>
+      <description><![CDATA[独立总统候选人小罗伯特·肯尼迪同时患有脑寄生虫病和汞中毒。这两种情况到底有多罕见？]]></description>
       <guid>https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/</guid>
       <pubDate>Thu, 09 May 2024 00:55:41 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[OpenAI 发布了关于希望 ChatGPT 内的人工智能技术如何运作的指南草案，并透露它正在探索如何“负责任地”生成露骨内容。]]></description>
       <guid>https://www.wired.com/story/openai-is-exploring-how-to-responsibly-generate-ai-porn/</guid>
       <pubDate>Wed, 08 May 2024 19:13:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>联邦调查局高级官员敦促特工在美国境内使用无证窃听</title>
-      <link>https://www.wired.com/story/fbi-section-702-us-person-queries-email/</link>
-      <description><![CDATA[《连线》杂志获得的一封来自联邦调查局副局长保罗·阿巴特的内部电子邮件，要求员工在一个有争议的间谍计划数据库中搜索“美国人”，而调查人员曾多次滥用该数据库。]]></description>
-      <guid>https://www.wired.com/story/fbi-section-702-us-person-queries-email/</guid>
-      <pubDate>Wed, 08 May 2024 17:48:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
