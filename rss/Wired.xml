@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 09 May 2024 11:11:47 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Thu, 09 May 2024 11:37:23 GMT</lastBuildDate>
+    <item>
+      <title>学生记者面临校园抗议虚假信息的风暴</title>
+      <link>https://www.wired.com/story/student-journalists-campus-protests-disinformation/</link>
+      <description><![CDATA[《连线》采访了全国各地的学生记者，了解他们如何应对巴勒斯坦抗议活动爆发后大量的虚假信息。]]></description>
+      <guid>https://www.wired.com/story/student-journalists-campus-protests-disinformation/</guid>
+      <pubDate>Thu, 09 May 2024 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>城市树木拯救生命</title>
       <link>https://www.wired.com/story/city-trees-save-lives/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>如何避免食脑蠕虫和汞中毒</title>
       <link>https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/</link>
-      <description><![CDATA[独立总统候选人小罗伯特·F·肯尼迪同时患有脑寄生虫和汞中毒。每种情况的罕见程度如何？]]></description>
+      <description><![CDATA[独立总统候选人小罗伯特·肯尼迪同时患有脑寄生虫病和汞中毒。这两种情况到底有多罕见？]]></description>
       <guid>https://www.wired.com/story/brain-parasite-worm-mercury-fish-robert-kennedy-rfk/</guid>
       <pubDate>Thu, 09 May 2024 00:55:41 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>谷歌 DeepMind 突破性的蛋白质结构人工智能现在可以模拟 DNA</title>
       <link>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</link>
-      <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯 (Demis Hassabis) 表示，彻底改变蛋白质研究的 AlphaFold 软件已经获得重大升级，将推动药物开发。]]></description>
+      <description><![CDATA[谷歌人工智能主管德米斯·哈萨比斯 (Demis Hassabis) 表示，彻底改变蛋白质研究的 AlphaFold 软件已获得重大升级，将推动药物开发。]]></description>
       <guid>https://www.wired.com/story/alphafold-3-google-deepmind-ai-protein-structure-dna/</guid>
       <pubDate>Wed, 08 May 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>6 款带耳机插孔的最佳手机（2024 年）：旗舰、预算和适配器推荐</title>
-      <link>https://www.wired.com/gallery/best-headphone-jack-phones/</link>
-      <description><![CDATA[耳机插孔虽然濒临灭绝，但并未消失。以下是我们最喜欢的仍支持即插即用的智能手机。]]></description>
-      <guid>https://www.wired.com/gallery/best-headphone-jack-phones/</guid>
-      <pubDate>Wed, 08 May 2024 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
