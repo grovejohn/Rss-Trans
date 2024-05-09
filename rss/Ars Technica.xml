@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 08 May 2024 23:14:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 00:56:28 GMT</lastBuildDate>
     <item>
-      <title>BIG-IP 设备存在严重漏洞，导致大型网络容易受到入侵</title>
+      <title>Logic Pro 获得了一些重要的 AI 功能，并针对 Mac 和 iPad 进行了版本升级</title>
+      <link>https://arstechnica.com/?p=2023010</link>
+      <description><![CDATA[逻辑现在转到11。]]></description>
+      <guid>https://arstechnica.com/?p=2023010</guid>
+      <pubDate>Wed, 08 May 2024 23:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>BIG-IP 设备中的关键漏洞使大型网络容易受到入侵</title>
       <link>https://arstechnica.com/?p=2022973</link>
       <description><![CDATA[黑客可以利用它们来获得对内部设备的完全管理控制。]]></description>
       <guid>https://arstechnica.com/?p=2022973</guid>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 08 May 2024 19:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔和高通的华为出口许可证被吊销</title>
+      <title>英特尔和高通的华为出口许可证被撤销</title>
       <link>https://arstechnica.com/?p=2022821</link>
       <description><![CDATA[华为的手机部门已经继续前进，但如果没有英特尔，笔记本电脑将受到影响。]]></description>
       <guid>https://arstechnica.com/?p=2022821</guid>
@@ -62,18 +69,11 @@
       <pubDate>Wed, 08 May 2024 17:32:42 GMT</pubDate>
     </item>
     <item>
-      <title>FCC 明确禁止快速通道，堵住可能的网络中立漏洞</title>
+      <title>FCC 明确禁止快速通道，填补可能的网络中立漏洞</title>
       <link>https://arstechnica.com/?p=2022823</link>
-      <description><![CDATA[将应用程序放入快速通道会违反联邦通信委员会的不限制规则。]]></description>
+      <description><![CDATA[将应用程序置于快速通道将违反 FCC 的无限制规则。]]></description>
       <guid>https://arstechnica.com/?p=2022823</guid>
       <pubDate>Wed, 08 May 2024 17:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉因误导投资者而接受联邦电汇欺诈调查</title>
-      <link>https://arstechnica.com/?p=2022790</link>
-      <description><![CDATA[检察官正在仔细检查传票材料，寻找特斯拉故意误导的证据。]]></description>
-      <guid>https://arstechnica.com/?p=2022790</guid>
-      <pubDate>Wed, 08 May 2024 15:05:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
