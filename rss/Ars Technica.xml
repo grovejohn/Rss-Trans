@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 09 May 2024 12:23:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 14:35:47 GMT</lastBuildDate>
     <item>
-      <title>教授起诉 Meta 以允许发布 Facebook 的 feed killer 工具</title>
+      <title>苹果新 iPad 广告遭到强烈反对</title>
+      <link>https://arstechnica.com/?p=2023053</link>
+      <description><![CDATA[液压机摧毁“创造力的象征”让人们抓狂。]]></description>
+      <guid>https://arstechnica.com/?p=2023053</guid>
+      <pubDate>Thu, 09 May 2024 13:15:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>NASA 确认对猎户座隔热罩问题进行“独立审查”</title>
+      <link>https://arstechnica.com/?p=2023003</link>
+      <description><![CDATA[阿尔特弥斯二号飞行员表示：“改变轨迹并不能保证解决问题。”]]></description>
+      <guid>https://arstechnica.com/?p=2023003</guid>
+      <pubDate>Thu, 09 May 2024 12:46:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>教授起诉 Meta，要求其为 Facebook 发布扼杀工具</title>
       <link>https://arstechnica.com/?p=2022922</link>
       <description><![CDATA[诉讼称，第 230 条豁免权不仅仅适用于大型科技公司。]]></description>
       <guid>https://arstechnica.com/?p=2022922</guid>
@@ -20,14 +34,14 @@
       <pubDate>Wed, 08 May 2024 23:22:22 GMT</pubDate>
     </item>
     <item>
-      <title>BIG-IP 设备存在严重漏洞，导致大型网络容易受到入侵</title>
+      <title>BIG-IP 设备中的关键漏洞使大型网络容易受到入侵</title>
       <link>https://arstechnica.com/?p=2022973</link>
       <description><![CDATA[黑客可以利用它们来获得对内部设备的完全管理控制。]]></description>
       <guid>https://arstechnica.com/?p=2022973</guid>
       <pubDate>Wed, 08 May 2024 21:35:08 GMT</pubDate>
     </item>
     <item>
-      <title>戴尔通过 VPN、徽章跟踪应对返回办公室的阻力</title>
+      <title>戴尔通过 VPN 和徽章追踪应对复工阻力</title>
       <link>https://arstechnica.com/?p=2022891</link>
       <description><![CDATA[报告称新的追踪将于 5 月 13 日开始，但后果尚不清楚。]]></description>
       <guid>https://arstechnica.com/?p=2022891</guid>
@@ -55,25 +69,11 @@
       <pubDate>Wed, 08 May 2024 19:45:12 GMT</pubDate>
     </item>
     <item>
-      <title>英特尔和高通的华为出口许可证被撤销</title>
+      <title>英特尔和高通的华为出口许可证被吊销</title>
       <link>https://arstechnica.com/?p=2022821</link>
       <description><![CDATA[华为的手机部门已经继续前进，但如果没有英特尔，笔记本电脑将受到影响。]]></description>
       <guid>https://arstechnica.com/?p=2022821</guid>
       <pubDate>Wed, 08 May 2024 19:19:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>自行车品牌开始采用 C-V2X 来警告骑车者注意汽车</title>
-      <link>https://arstechnica.com/?p=2022851</link>
-      <description><![CDATA[不过，更多汽车制造商需要采用 C-V2X 才能看到真正的好处。]]></description>
-      <guid>https://arstechnica.com/?p=2022851</guid>
-      <pubDate>Wed, 08 May 2024 18:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>M4 iPad Pro CPU 核心和 RAM 数量与存储容量相关</title>
-      <link>https://arstechnica.com/?p=2022820</link>
-      <description><![CDATA[在旧款 iPad 中，Apple 已将 RAM 与存储容量绑定在一起；对于 CPU 而言，这尚属首次。]]></description>
-      <guid>https://arstechnica.com/?p=2022820</guid>
-      <pubDate>Wed, 08 May 2024 17:32:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
