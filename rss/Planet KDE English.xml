@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 09 May 2024 12:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 20:37:20 GMT</lastBuildDate>
+    <item>
+      <title>剪纸插件 1.2</title>
+      <link>https://carlschwan.eu/2024/05/09/kirigami-addons-1.2/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://carlschwan.eu/2024/05/09/kirigami-addons-1.2/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 09 May 2024 20:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Ubuntu Noble 上的 KDE neon 变基</title>
       <link>https://blog.neon.kde.org/2024/05/09/kde-neon-rebasing-on-ubuntu-noble/?utm_source=atom_feed</link>
@@ -24,9 +31,9 @@
     <item>
       <title>Archlinux 中 KDE 应用程序和 Plasma 的现状</title>
       <link>https://tcanabrava.github.io/state-kde-arch/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 与许多 Linux 发行版有着共生关系，因为在我们开发软件的同时，我们也使用特定版本的 Linux，我个人多年来一直使用 archlinux 作为我的首选发行版，它是我唯一能忍受超过六个月的发行版（而且我相信我已经使用它超过 15 年了，所以这算数）。
-为 arch 打包 KDE 软件的“秘诀”很大，因为我们很大，打包大量软件绝非易事，因此我和 Antonio Rojas 开始更新构建脚本，以减少手动操作和减少错误。所有为 arch 打包的 Plasma 6 版本都以某种方式使用这些脚本（或者在我们破坏一切时手动使用 :)
-这项工作正在一个单独的分支中完成，以免破坏当前的工作流程，但一切看起来都很好，我们希望很快将其合并到 master 中，这样为 arch 部署新版本的 KDE 软件将只需一个命令，这意味着开发人员可以投入更多时间，而创建软件包的时间则更少。]]></description>
+      <description><![CDATA[KDE 与许多 Linux 发行版有着共生关系，因为在我们开发软件的同时，我们也使用特定版本的 Linux，我个人多年来一直使用 archlinux 作为我选择的发行版，这是我能够获得更多支持的唯一发行版超过六个月（我相信我已经使用它超过 15 年了，所以这很重要）。
+“食谱”为 arch 打包 KDE 软件是一件大事，因为我们很大，打包大量软件并不是一件容易的事，所以我和 Antonio Rojas 开始更新构建脚本，以减少手动操作并减少出错的可能性。已打包用于 arch 的所有 Plasma 6 版本都以一种或另一种方式使用此脚本（或者当我们破坏所有内容时手动使用:)
+这项工作正在一个单独的分支中完成，以免破坏当前的工作流程，但事情看起来不错，我们希望尽快将其合并到 master 中，以便为 arch 部署较新版本的 KDE 软件将是一个命令，这意味着开发人员可以有更多的时间来减少创建包的时间。]]></description>
       <guid>https://tcanabrava.github.io/state-kde-arch/?utm_source=atom_feed</guid>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
     </item>
@@ -84,13 +91,6 @@ MBition 设计并实现信息娱乐系统
 MBition 加入了 KDE e.V. 的其他赞助者行列：Blue Systems、Canonical、g10 Code、Google、Kubuntu Focus、Slimbook、SUSE、The Qt Company 和 TUXEDO Computers，他们通过 KDE e.V 支持免费开源软件和 KDE 开发。]]></description>
       <guid>https://ev.kde.org/2024/05/07/mbition-becomes-kde-patron/?utm_source=atom_feed</guid>
       <pubDate>Tue, 07 May 2024 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 每月更新 - 第 15 版</title>
-      <link>https://krita.org/en/posts/2024/monthly-update-15/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/monthly-update-15/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 07 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
