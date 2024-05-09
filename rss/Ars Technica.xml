@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 09 May 2024 00:56:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2024 12:23:04 GMT</lastBuildDate>
+    <item>
+      <title>教授起诉 Meta 以允许发布 Facebook 的 feed killer 工具</title>
+      <link>https://arstechnica.com/?p=2022922</link>
+      <description><![CDATA[诉讼称，第 230 条豁免权不仅仅适用于大型科技公司。]]></description>
+      <guid>https://arstechnica.com/?p=2022922</guid>
+      <pubDate>Thu, 09 May 2024 11:00:34 GMT</pubDate>
+    </item>
     <item>
       <title>Logic Pro 获得了一些重要的 AI 功能，并针对 Mac 和 iPad 进行了版本升级</title>
       <link>https://arstechnica.com/?p=2023010</link>
@@ -13,7 +20,7 @@
       <pubDate>Wed, 08 May 2024 23:22:22 GMT</pubDate>
     </item>
     <item>
-      <title>BIG-IP 设备中的关键漏洞使大型网络容易受到入侵</title>
+      <title>BIG-IP 设备存在严重漏洞，导致大型网络容易受到入侵</title>
       <link>https://arstechnica.com/?p=2022973</link>
       <description><![CDATA[黑客可以利用它们来获得对内部设备的完全管理控制。]]></description>
       <guid>https://arstechnica.com/?p=2022973</guid>
@@ -64,16 +71,9 @@
     <item>
       <title>M4 iPad Pro CPU 核心和 RAM 数量与存储容量相关</title>
       <link>https://arstechnica.com/?p=2022820</link>
-      <description><![CDATA[Apple 将 RAM 与旧款 iPad 的存储容量挂钩；这对于 CPU 来说是第一次。]]></description>
+      <description><![CDATA[在旧款 iPad 中，Apple 已将 RAM 与存储容量绑定在一起；对于 CPU 而言，这尚属首次。]]></description>
       <guid>https://arstechnica.com/?p=2022820</guid>
       <pubDate>Wed, 08 May 2024 17:32:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 明确禁止快速通道，填补可能的网络中立漏洞</title>
-      <link>https://arstechnica.com/?p=2022823</link>
-      <description><![CDATA[将应用程序置于快速通道将违反 FCC 的无限制规则。]]></description>
-      <guid>https://arstechnica.com/?p=2022823</guid>
-      <pubDate>Wed, 08 May 2024 17:25:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
