@@ -3,12 +3,26 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 10 May 2024 12:49:37 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Fri, 10 May 2024 13:14:50 GMT</lastBuildDate>
     <item>
-      <title>5 个最佳 USB 集线器 (2024)：USB-C、USB-A、便携式</title>
+      <title>气候抗议者冲击特斯拉欧洲超级工厂</title>
+      <link>https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/</link>
+      <description><![CDATA[自宣布扩张计划以来，这家汽车制造商唯一的欧洲超级工厂已成为日益激进抗议的目标。]]></description>
+      <guid>https://www.wired.com/story/climate-protestors-storm-teslas-europe-gigafactory/</guid>
+      <pubDate>Fri, 10 May 2024 13:08:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>科技对童年的重大重塑是不可逆转的</title>
+      <link>https://www.wired.com/story/plaintext-theres-no-undoing-techs-great-rewiring-of-childhood/</link>
+      <description><![CDATA[心理学家乔纳森·海特警告说，社交媒体会伤害儿童，但很难找到确切的证据。无论您对儿童和技术有何看法，数字连接现在已成为童年的一部分。]]></description>
+      <guid>https://www.wired.com/story/plaintext-theres-no-undoing-techs-great-rewiring-of-childhood/</guid>
+      <pubDate>Fri, 10 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 款最佳 USB 集线器（2024 年）：USB-C、USB-A、便携式</title>
       <link>https://www.wired.com/gallery/best-usb-hubs/</link>
-      <description><![CDATA[放弃加密狗。这些多端口适配器最大限度地增加了笔记本电脑的选择。]]></description>
+      <description><![CDATA[抛弃加密狗。这些多端口适配器使您的笔记本电脑的选择最大化。]]></description>
       <guid>https://www.wired.com/gallery/best-usb-hubs/</guid>
       <pubDate>Fri, 10 May 2024 12:30:00 GMT</pubDate>
     </item>
@@ -27,14 +41,14 @@
       <pubDate>Fri, 10 May 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>迪士尼和华纳兄弟探索频道刚刚重新发明了有线电视</title>
+      <title>迪士尼和华纳兄弟探索频道重新发明了有线电视</title>
       <link>https://www.wired.com/story/disney-and-warner-bros-discovery-just-reinvented-cable/</link>
       <description><![CDATA[两家公司宣布推出将 Disney+、Hulu 和 Max 结合在一起的捆绑包。这可能不是粉丝想要的对 #DontStreamOnMax 的回应。]]></description>
       <guid>https://www.wired.com/story/disney-and-warner-bros-discovery-just-reinvented-cable/</guid>
       <pubDate>Fri, 10 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>埃隆·马斯克 (Elon Musk) 的 Neuralink 大脑植入遭遇挫折。这可能归结于设计</title>
+      <title>伊隆·马斯克的 Neuralink 大脑植入失败。这可能归结于设计</title>
       <link>https://www.wired.com/story/neuralinks-brain-implant-issues/</link>
       <description><![CDATA[Neuralink 在其第一个人脑机接口植入物上遇到了机械问题。其新颖的设计可能使其更容易出现故障。]]></description>
       <guid>https://www.wired.com/story/neuralinks-brain-implant-issues/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>为什么黑人推特的声音值得拯救</title>
       <link>https://www.wired.com/story/why-the-voices-of-black-twitter-were-worth-saving/</link>
-      <description><![CDATA[十多年来，黑人推特一直是文化引擎。它也可能随时消失。]]></description>
+      <description><![CDATA[十多年来，黑人推特一直是文化引擎。但它也随时可能消失。]]></description>
       <guid>https://www.wired.com/story/why-the-voices-of-black-twitter-were-worth-saving/</guid>
       <pubDate>Thu, 09 May 2024 19:18:21 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[Anthropic 最近为其 Claude 聊天机器人推出了一款 iOS 应用程序。我们询问了该公司的产品设计主管如何充分利用人工智能助手。]]></description>
       <guid>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</guid>
       <pubDate>Thu, 09 May 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阴谋席卷校园抗议</title>
-      <link>https://www.wired.com/story/campus-protests-gaza-conspiracy/</link>
-      <description><![CDATA[上周，警察部门在支持巴勒斯坦的抗议活动中突袭了全国各地的大学校园，虚假信息和阴谋失控。]]></description>
-      <guid>https://www.wired.com/story/campus-protests-gaza-conspiracy/</guid>
-      <pubDate>Thu, 09 May 2024 15:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>在阿拉巴马州出售实验室培育的肉类，你可能会入狱</title>
-      <link>https://www.wired.com/story/lab-grown-fake-meat-ban-alabama-florida/</link>
-      <description><![CDATA[任何在阿拉巴马州销售或制造人造肉罪名成立的人将面临三个月监禁和 500 美元罚款。]]></description>
-      <guid>https://www.wired.com/story/lab-grown-fake-meat-ban-alabama-florida/</guid>
-      <pubDate>Thu, 09 May 2024 15:49:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
