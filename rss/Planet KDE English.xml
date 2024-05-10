@@ -4,7 +4,21 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 09 May 2024 20:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 May 2024 10:36:37 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，2024-19 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/05/10/web-review-week-2024-19/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/05/10/web-review-week-2024-19/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 10 May 2024 09:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 发布框架 6.2.0</title>
+      <link>https://kde.org/announcements/frameworks/6/6.2.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/frameworks/6/6.2.0/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>剪纸插件 1.2</title>
       <link>https://carlschwan.eu/2024/05/09/kirigami-addons-1.2/?utm_source=atom_feed</link>
@@ -29,7 +43,7 @@
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Archlinux 中 KDE 应用程序和 Plasma 的现状</title>
+      <title>Archlinux 中的 KDE 应用和 Plasma 状态</title>
       <link>https://tcanabrava.github.io/state-kde-arch/?utm_source=atom_feed</link>
       <description><![CDATA[KDE 与许多 Linux 发行版有着共生关系，因为在我们开发软件的同时，我们也使用特定版本的 Linux，我个人多年来一直使用 archlinux 作为我选择的发行版，这是我能够获得更多支持的唯一发行版超过六个月（我相信我已经使用它超过 15 年了，所以这很重要）。
 “食谱”为 arch 打包 KDE 软件是一件大事，因为我们很大，打包大量软件并不是一件容易的事，所以我和 Antonio Rojas 开始更新构建脚本，以减少手动操作并减少出错的可能性。已打包用于 arch 的所有 Plasma 6 版本都以一种或另一种方式使用此脚本（或者当我们破坏所有内容时手动使用:)
@@ -65,32 +79,6 @@
       <description><![CDATA[]]></description>
       <guid>https://kontact.kde.org/blog/2024/2024-05-01-kde-pim-march-april-2024/?utm_source=atom_feed</guid>
       <pubDate>Tue, 07 May 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 13.0.1 发布</title>
-      <link>https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Qt Creator 13.0.1 正式发布！
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-13.0.1-released?utm_source=atom_feed</guid>
-      <pubDate>Tue, 07 May 2024 10:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>MBition 成为 KDE 赞助人</title>
-      <link>https://ev.kde.org/2024/05/07/mbition-becomes-kde-patron/?utm_source=atom_feed</link>
-      <description><![CDATA[
-&lt;图&gt;
-
-
-
-MBition 通过慷慨赞助支持 KDE 社区的工作。
-MBition 设计并实现信息娱乐系统
-适用于下一代梅赛德斯-奔驰汽车，并利用 KDE 的技术和
-其产品的专业知识。
-“经过多年的跨领域合作，我们认为成为 KDE e.V 的赞助人是深化我们的合作伙伴关系并进一步推进我们的开源战略的下一步” MBition 技术主管 Marcus Mennemeier 说道。
-“我们很高兴欢迎 MBition 成为赞助人，” KDE e.V. 副总裁 Lydia Pintscher 说道。 &quot;MBition 一直在为 KDE 软件以及我们在其上构建的堆栈做出贡献。这是拉近我们距离并支持 KDE 社区的重要一步，并进一步证明了 KDE 软件产品的稳健性和硬件就绪性。”
-MBition 加入了 KDE e.V. 的其他赞助者行列：Blue Systems、Canonical、g10 Code、Google、Kubuntu Focus、Slimbook、SUSE、The Qt Company 和 TUXEDO Computers，他们通过 KDE e.V 支持免费开源软件和 KDE 开发。]]></description>
-      <guid>https://ev.kde.org/2024/05/07/mbition-becomes-kde-patron/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 07 May 2024 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
