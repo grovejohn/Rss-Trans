@@ -3,8 +3,22 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 10 May 2024 12:23:16 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Fri, 10 May 2024 12:49:37 GMT</lastBuildDate>
+    <item>
+      <title>5 个最佳 USB 集线器 (2024)：USB-C、USB-A、便携式</title>
+      <link>https://www.wired.com/gallery/best-usb-hubs/</link>
+      <description><![CDATA[放弃加密狗。这些多端口适配器最大限度地增加了笔记本电脑的选择。]]></description>
+      <guid>https://www.wired.com/gallery/best-usb-hubs/</guid>
+      <pubDate>Fri, 10 May 2024 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 款最佳榨汁机 (2023)：离心式、慢速、咀嚼式</title>
+      <link>https://www.wired.com/gallery/best-juicers/</link>
+      <description><![CDATA[使用久经考验的榨汁机保持水分，提供清爽的日间饮料和亮眼的晚间饮料。]]></description>
+      <guid>https://www.wired.com/gallery/best-juicers/</guid>
+      <pubDate>Fri, 10 May 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Eureka E10 评论：一个可爱的笨机器人真空吸尘器</title>
       <link>https://www.wired.com/review/eureka-e10/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>使用 Anthropic 的 Claude 聊天机器人的 6 个实用技巧</title>
       <link>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</link>
-      <description><![CDATA[Anthropic 最近为其 Claude 聊天机器人推出了一款 iOS 应用。我们询问了该公司的产品设计主管，如何最大限度地利用这款人工智能助手。]]></description>
+      <description><![CDATA[Anthropic 最近为其 Claude 聊天机器人推出了一款 iOS 应用程序。我们询问了该公司的产品设计主管如何充分利用人工智能助手。]]></description>
       <guid>https://www.wired.com/story/six-practical-tips-for-using-anthropic-claude-chatbot/</guid>
       <pubDate>Thu, 09 May 2024 16:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[任何在阿拉巴马州销售或制造人造肉罪名成立的人将面临三个月监禁和 500 美元罚款。]]></description>
       <guid>https://www.wired.com/story/lab-grown-fake-meat-ban-alabama-florida/</guid>
       <pubDate>Thu, 09 May 2024 15:49:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 款最佳振动器（2024 年）：价格便宜、功能强大、灵活</title>
-      <link>https://www.wired.com/gallery/best-vibrators/</link>
-      <description><![CDATA[性别？我甚至不认识她！无论你拥有什么，这些工具都能为所有人带来良好的氛围。]]></description>
-      <guid>https://www.wired.com/gallery/best-vibrators/</guid>
-      <pubDate>Thu, 09 May 2024 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 项最佳在线照片打印服务 (2024)：提示、打印质量等</title>
-      <link>https://www.wired.com/story/best-photo-printing-services/</link>
-      <description><![CDATA[打印回忆，您可以挂在墙上，藏在钱包里，或者握在手里。]]></description>
-      <guid>https://www.wired.com/story/best-photo-printing-services/</guid>
-      <pubDate>Thu, 09 May 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
