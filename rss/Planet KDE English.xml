@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 11 May 2024 04:35:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 15:12:29 GMT</lastBuildDate>
     <item>
       <title>本周 KDE：我们的杯子里充满了为您准备的酷玩意儿</title>
       <link>https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/?utm_source=atom_feed</link>
@@ -24,7 +24,7 @@
       <link>https://nicolasfella.de/posts/qmlls-for-kde-development-2/?utm_source=atom_feed?utm_source=atom_feed</link>
       <description><![CDATA[在上一篇文章中，我谈到了使用 QML 语言服务器进行 KDE 开发。自从写那篇文章以来，发生了一些事情，所以是时候进行更新了。
 我提到过，使用 Kate qmllls 在打开 QML 文件时应该开箱即用。这基本上是正确的，但有一个问题。根据您的发行版，qmlls 的二进制文件具有不同的名称。有时是 qmlls，有时是 qmlls6 或 qmlls-qt6。您可能需要调整 Kate 中的 LSP 服务器设置以匹配您系统上的名称。
-为了让 qmlls 找到在应用程序的 C++ 代码中定义的类型，这些类型不仅必须以声明方式注册，还需要告诉 qmlls 在哪里可以找到类型信息。幸运的是 Qt 6.7 附带了一个方便的方法来做到这一点。通过将 -DQT_QML_GENERATE_QMLLS_INI=ON 传递给 CMake，您将生成一个适当的配置文件。这将被放置到项目的源目录中，但特定于您的设置，因此将其添加到您的 gitignore 文件中（PS：您可以为您的系统设置一个全局 gitignore 文件，因此您不需要将其添加到您的所有项目）。不幸的是，最初的实现为某些模块产生了错误配置，但这是已在 Qt 6.7.2 中修复。
+为了让 qmlls 找到在应用程序的 C++ 代码中定义的类型，这些类型不仅必须以声明方式注册，还需要告诉 qmlls 在哪里可以找到类型信息。幸运的是 Qt 6.7 附带了一个方便的方法来做到这一点。通过将 -DQT_QML_GENERATE_QMLLS_INI=ON 传递给 CMake，您将生成一个适当的配置文件。这将被放置到项目的源目录中，但特定于您的设置，因此将其添加到您的 gitignore 文件中（PS：您可以为您的系统设置一个全局 gitignore 文件，因此您不需要将其添加到您的所有项目）。不幸的是，最初的实现为某些模块产生了错误的配置，但这是已在 Qt 6.7.2 中修复。
 我提到的一个问题是 qmlls 找不到未安装到与 Qt 相同路径的模块。 Qt 6.8 将有两个新选项。 -I 参数允许将自定义导入路径添加到 qmlls 中。搜索路径。 -E 参数使 qmlls 考虑其搜索路径的 QML_IMPORT_PATH 环境变量的值。
 为了使 qmll 正常工作，需要使用 CMake API 创建模块并使用声明式类型注册。自撰写上一篇文章以来，一些 KDE 模块已转换为这些模块，但仍有更多工作要做。
 感谢 QML 团队的快速改进！]]></description>
@@ -72,7 +72,7 @@
       <title>Archlinux 中 KDE 应用程序和 Plasma 的现状</title>
       <link>https://tcanabrava.github.io/state-kde-arch/?utm_source=atom_feed</link>
       <description><![CDATA[KDE 与许多 Linux 发行版有着共生关系，因为在我们开发软件的同时，我们也使用特定版本的 Linux，我个人多年来一直使用 archlinux 作为我选择的发行版，这是我能够获得更多支持的唯一发行版超过六个月（我相信我已经使用它超过 15 年了，所以这很重要）。
-“食谱”为 arch 打包 KDE 软件是一件大事，因为我们很大，打包大量软件并不是一件容易的事，所以我和 Antonio Rojas 开始更新构建脚本，以减少手动操作并减少出错的可能性。已打包用于 arch 的所有 Plasma 6 版本都以一种或另一种方式使用此脚本（或者当我们破坏所有内容时手动使用:)
+“食谱”为 arch 打包 KDE 软件规模很大，因为我们很大，打包大量软件并不是一件容易的事，所以我和 Antonio Rojas 开始更新构建脚本，以减少手动操作并减少出错的可能性。已打包用于 arch 的所有 Plasma 6 版本都以一种或另一种方式使用此脚本（或者当我们破坏所有内容时手动使用:)
 这项工作正在一个单独的分支中完成，以免破坏当前的工作流程，但事情看起来不错，我们希望尽快将其合并到 master 中，以便为 arch 部署较新版本的 KDE 软件将是一个命令，这意味着开发人员可以有更多的时间来减少创建包的时间。]]></description>
       <guid>https://tcanabrava.github.io/state-kde-arch/?utm_source=atom_feed</guid>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
