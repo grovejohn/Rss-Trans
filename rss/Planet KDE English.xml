@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 10 May 2024 14:11:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2024 02:37:47 GMT</lastBuildDate>
+    <item>
+      <title>KWin 中的 HDR 和色彩管理，第 3 部分</title>
+      <link>https://zamundaaa.github.io/wayland/2024/05/11/more-hdr-and-color.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://zamundaaa.github.io/wayland/2024/05/11/more-hdr-and-color.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 11 May 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 QML 语言服务器进行 KDE 开发（更新）</title>
       <link>https://nicolasfella.de/posts/qmlls-for-kde-development-2/?utm_source=atom_feed?utm_source=atom_feed</link>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 09 May 2024 12:04:18 GMT</pubDate>
     </item>
     <item>
-      <title>KDE 2024 赛季总结</title>
+      <title>KDE 2024 年赛季结束</title>
       <link>https://mentorship.kde.org/blog/2024-05-09-sok-conclusion/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://mentorship.kde.org/blog/2024-05-09-sok-conclusion/?utm_source=atom_feed</guid>
@@ -76,13 +83,6 @@
       <link>https://blogs.kde.org/2024/05/08/kgraphviewer-2.5.0-released/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/05/08/kgraphviewer-2.5.0-released/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Massif Visualizer 0.8.0 发布</title>
-      <link>https://blogs.kde.org/2024/05/08/massif-visualizer-0.8.0-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/05/08/massif-visualizer-0.8.0-released/?utm_source=atom_feed</guid>
       <pubDate>Wed, 08 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
