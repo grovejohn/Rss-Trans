@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Sun, 12 May 2024 05:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 06:17:43 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局 (NASA) 探索太阳</title>
+      <link>https://www.wired.com/story/parker-solar-probe-sun-solar-energy-magnetism-wind/</link>
+      <description><![CDATA[太阳大气层的外层比其表面温度高出百万度。美国宇航局派出了一个探测器，通过比以往任何时候都更接近这颗恒星来找出原因。]]></description>
+      <guid>https://www.wired.com/story/parker-solar-probe-sun-solar-energy-magnetism-wind/</guid>
+      <pubDate>Sun, 12 May 2024 06:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>3 种最佳智能秤（2024 年）：豪华型、经济型和所有应用程序连接</title>
       <link>https://www.wired.com/gallery/best-smart-scales/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[没有寄生虫，大自然就无法运转，而气候变化正在导致一些寄生虫灭绝。当它们开始消失时会发生什么？]]></description>
       <guid>https://www.wired.com/story/parasites-worms-climate-change-rfk/</guid>
       <pubDate>Sat, 11 May 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 Google I/O 大会有何期待以及如何观看</title>
-      <link>https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/</link>
-      <description><![CDATA[年度开发者大会将于周二以主题演讲拉开帷幕。关注 Android、搜索和 Assistant 的更新，以及大量 AI 新闻。]]></description>
-      <guid>https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/</guid>
-      <pubDate>Fri, 10 May 2024 21:53:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
