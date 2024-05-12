@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 11 May 2024 15:12:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 10:35:21 GMT</lastBuildDate>
+    <item>
+      <title>由爆炸恒星驱动的巨大银河外流</title>
+      <link>https://arstechnica.com/?p=2023554</link>
+      <description><![CDATA[恒星的死亡和诞生都有助于将物质赶出星系。]]></description>
+      <guid>https://arstechnica.com/?p=2023554</guid>
+      <pubDate>Sun, 12 May 2024 10:00:51 GMT</pubDate>
+    </item>
     <item>
       <title>美国国家海洋和大气管理局表示“极端”太阳风暴将持续整个周末</title>
       <link>https://arstechnica.com/?p=2023700</link>
@@ -57,7 +64,7 @@
     <item>
       <title>如何使用超声波在 3 分钟内制作冷泡咖啡</title>
       <link>https://arstechnica.com/?p=2023421</link>
-      <description><![CDATA[1 到 3 分钟的“超声处理”时间是获得完美冷萃咖啡的理想选择。]]></description>
+      <description><![CDATA[1 到 3 分钟之间的“超声处理”时间是获得完美冷萃咖啡的理想选择。]]></description>
       <guid>https://arstechnica.com/?p=2023421</guid>
       <pubDate>Fri, 10 May 2024 19:31:50 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[各州已达成和解，但尚不清楚消费者是否会获得退款。]]></description>
       <guid>https://arstechnica.com/?p=2023535</guid>
       <pubDate>Fri, 10 May 2024 18:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>以探索为中心的培训让机器人 AI 立即处理新任务</title>
-      <link>https://arstechnica.com/?p=2023543</link>
-      <description><![CDATA[最大扩散强化学习将训练重点放在最终状态，而不是过程。]]></description>
-      <guid>https://arstechnica.com/?p=2023543</guid>
-      <pubDate>Fri, 10 May 2024 18:22:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
