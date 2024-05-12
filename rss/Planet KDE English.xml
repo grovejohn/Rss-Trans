@@ -4,7 +4,28 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 12 May 2024 20:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2024 22:35:23 GMT</lastBuildDate>
+    <item>
+      <title>增强版 KubuQA 简介：跨 Ubuntu 风格彻底改变 ISO 测试</title>
+      <link>https://kubuntu.org/news/introducing-the-enhanced-kubuqa-revolutionising-iso-testing-across-ubuntu-flavors/?utm_source=atom_feed</link>
+      <description><![CDATA[Kubuntu 团队很高兴地宣布对 KubuQA 进行重大更新，这是我们简化的 ISO 测试工具，现已将其功能扩展到 Kubuntu 之外，以支持 Ubuntu 及其所有其他版本。凭借这些增强功能，KubuQA 成为一种多功能资源，可确保即将发布的版本（包括 24.04 Noble Numbat 和 24.10 Oraulous Oriole）的测试过程更顺畅、更直观。
+什么是 KubuQA？
+KubuQA 是 Kubuntu 团队开发的一款专门工具，用于简化 ISO 测试过程。 KubuQA 利用 Kdialog 的强大用户友好图形界面和 VirtualBox 的强大功能来创建和管理虚拟环境，让测试人员能够高效评估 ISO 映像。其设计侧重于可访问性，通过提供清晰的指导性 ISO 测试步骤，使所有技能水平的测试人员都能轻松参与开发过程。
+新功能和扩展
+KubuQA 的最新更新标志着其实用性的显着扩展：
+更广泛的覆盖范围：KubuQA 最初是为 Kubuntu 定制的，现在支持测试 Ubuntu 和所有其他 Ubuntu 版本的 ISO 映像。这种扩大的覆盖范围确保任何基于 Ubuntu 的社区都可以从 KubuQA 提供的强大测试框架中受益。支持最新版本：KubuQA 已更新，包括对最新版本的支持Ubuntu 发布周期，包括 24.04 Noble Numbat 和即将推出的 24.10 Oraulous Oriole。这确保社区可以尽早、经常地开始测试，从而发布更稳定、更完善的版本。增强的用户体验：通过改进 Kdialog 交互，测试人员会发现界面更加流畅。直观且响应灵敏，增强了整体测试体验。
+呼吁 Ubuntu Flavor 潜在客户采取行动
+Kubuntu 团队热衷于与所有 Ubuntu 版本的领导者和测试人员密切合作，采用和调整 KubuQA 以满足他们的测试需求。我们相信，通过共享这个工具，我们可以在整个 Ubuntu 生态系统中培育一个更强大、更有凝聚力的测试社区。
+我们鼓励风味主管尝试 KubuQA，将其集成到他们的测试流程中，并与我们分享反馈。此次合作不仅将改进该工具，还将确保所有 Ubuntu 版本都能在其版本中实现更高的质量和稳定性。
+参与其中
+对于那些有兴趣使用 KubuQA 参与 ISO 测试的人：
+下载工具：您可以在 Kubuntu 上找到 KubuQA Github 团队。加入社区：加入 Kubuntu 社区以获得支持并与其他测试人员联系。您的贡献和反馈对于 KubuQA 的持续改进非常宝贵。
+结论
+KubuQA 的增强体现了我们对提高 Ubuntu 及其衍生产品的质量和可靠性的承诺。通过扩大其覆盖范围并简化测试流程，我们的目标是让更多的贡献者参与开发周期。无论您是经验丰富的测试人员还是社区新手，您的努力对于 Ubuntu 的成功都至关重要。
+我们期待看到不同的社区将如何利用 KubuQA 来增强他们的测试实践。顺便问一下，您是否考虑过成为 Kubuntu 社区 的成员？立即加入我们，为开源软件世界带来改变！]]></description>
+      <guid>https://kubuntu.org/news/introducing-the-enhanced-kubuqa-revolutionising-iso-testing-across-ubuntu-flavors/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 12 May 2024 21:28:33 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 应用程序和图标</title>
       <link>https://cullmann.io/posts/kde-applications-and-icons/?utm_source=atom_feed</link>
@@ -63,7 +84,7 @@
       <title>Ubuntu Noble 上的 KDE neon 变基</title>
       <link>https://blog.neon.kde.org/2024/05/09/kde-neon-rebasing-on-ubuntu-noble/?utm_source=atom_feed</link>
       <description><![CDATA[新的 Ubuntu LTS 已于 4 月发布，祝贺所有参与其中的人。我知道 Scarlett 努力让 Kubuntu 恢复正常，所以如果您想要稳定的 Plasma 5 桌面，请尝试一下。
-在 KDE neon 项目中，我们不喜欢久坐不动，因此我们现在在版本 24.04 的 Ubuntu Noble 上构建所有 KDE 软件包。这总是比想象中需要更长的时间，主要是因为随着更多 KDE 软件的发布，保持所有内容都编译是一个不断变化的目标，因此无法承诺何时准备就绪，但我们会尝试速度要快，因为 jammy (22.04) 的旧 Ubuntu 基础已经显示出它的年龄，像 Krita 这样的项目不再能够在那里编译。
+在 KDE neon 项目中，我们不喜欢长时间坐着不动，因此我们现在在版本 24.04 的 Ubuntu Noble 上构建所有 KDE 软件包。这总是比想象中需要的时间更长，主要是因为随着更多 KDE 软件的发布，保持所有内容都编译是一个不断变化的目标，因此无法承诺何时准备就绪，但我们会尝试速度要快，因为旧的 Ubuntu 基础 jammy (22.04) 已经显示出它的年龄，像 Krita 这样的项目不再能够在那里编译。
 到目前为止，主要问题是 64 位 time_t 解决 y2k38 问题所需的所有更改，我们知道您不希望时钟在 2038 年归零。]]></description>
       <guid>https://blog.neon.kde.org/2024/05/09/kde-neon-rebasing-on-ubuntu-noble/?utm_source=atom_feed</guid>
       <pubDate>Thu, 09 May 2024 12:04:18 GMT</pubDate>
@@ -73,15 +94,6 @@
       <link>https://mentorship.kde.org/blog/2024-05-09-sok-conclusion/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://mentorship.kde.org/blog/2024-05-09-sok-conclusion/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Archlinux 中 KDE 应用程序和 Plasma 的现状</title>
-      <link>https://tcanabrava.github.io/state-kde-arch/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 与许多 Linux 发行版有着共生关系，因为在我们开发软件的同时，我们也使用特定版本的 Linux，我个人多年来一直使用 archlinux 作为我选择的发行版，这是我能够获得更多支持的唯一发行版超过六个月（我相信我已经使用它超过 15 年了，所以这很重要）。
-“食谱”为 arch 打包 KDE 软件规模很大，因为我们很大，打包大量软件并不是一件容易的事，所以我和 Antonio Rojas 开始更新构建脚本，以减少手动操作并减少出错的可能性。已打包用于 arch 的所有 Plasma 6 版本都以一种或另一种方式使用此脚本（或者当我们破坏所有内容时手动使用:)
-这项工作正在一个单独的分支中完成，以免破坏当前的工作流程，但事情看起来不错，我们希望尽快将其合并到 master 中，以便为 arch 部署较新版本的 KDE 软件将是一个命令，这意味着开发人员可以有更多的时间来减少创建包的时间。]]></description>
-      <guid>https://tcanabrava.github.io/state-kde-arch/?utm_source=atom_feed</guid>
       <pubDate>Thu, 09 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
