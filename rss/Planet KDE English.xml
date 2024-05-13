@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 13 May 2024 16:17:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 22:35:56 GMT</lastBuildDate>
+    <item>
+      <title>介绍格式化插件</title>
+      <link>https://kate-editor.org/post/2024/2024-05-13-kate-formatting-plugin/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kate-editor.org/post/2024/2024-05-13-kate-formatting-plugin/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 13 May 2024 17:35:50 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 目标 2024 年 4 月冲刺</title>
       <link>https://tsdgeos.blogspot.com/2024/05/kde-goals-april-2024-sprint.html?utm_source=atom_feed</link>
@@ -87,13 +94,6 @@ KubuQA 的增强体现了我们对提高 Ubuntu 及其衍生产品的质量和�
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.2.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪纸插件 1.2</title>
-      <link>https://carlschwan.eu/2024/05/09/kirigami-addons-1.2/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://carlschwan.eu/2024/05/09/kirigami-addons-1.2/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 09 May 2024 20:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
