@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 13 May 2024 10:14:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 10:37:10 GMT</lastBuildDate>
+    <item>
+      <title>生成式人工智能并不会降低硬件的难度</title>
+      <link>https://www.wired.com/story/generative-ai-doesnt-make-hardware-less-hard/</link>
+      <description><![CDATA[Rabbit 和 Humane 的可穿戴人工智能产品遭到了《连线》等评论家的严厉批评。他们的表情表明，在 ChatGPT 时代与大型科技公司竞争仍然很困难。]]></description>
+      <guid>https://www.wired.com/story/generative-ai-doesnt-make-hardware-less-hard/</guid>
+      <pubDate>Mon, 13 May 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Haskell 程序员崇拜的内部</title>
       <link>https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[与通常的电动汽车动力装置相比，轴向磁通电机更小、更轻，并且具有更大的扭矩。但它们很难大规模生产。现在梅赛德斯正在将它们带给大众。]]></description>
       <guid>https://www.wired.com/story/yasa-motors-mercedes-axial-flux-2024/</guid>
       <pubDate>Sun, 12 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局 (NASA) 探索太阳</title>
-      <link>https://www.wired.com/story/parker-solar-probe-sun-solar-energy-magnetism-wind/</link>
-      <description><![CDATA[太阳大气层的外层比其表面温度高出百万度。美国宇航局派出了一个探测器，通过比以往任何时候都更接近这颗恒星来找出原因。]]></description>
-      <guid>https://www.wired.com/story/parker-solar-probe-sun-solar-energy-magnetism-wind/</guid>
-      <pubDate>Sun, 12 May 2024 06:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
