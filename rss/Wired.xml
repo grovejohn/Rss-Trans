@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 13 May 2024 08:37:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 09:14:13 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到激光战争</title>
+      <link>https://www.wired.com/story/laser-wars-us-military-laser-weapons/</link>
+      <description><![CDATA[在敌方无人机和导弹攻击不断增加的情况下，激光武器终于准备进入战场。]]></description>
+      <guid>https://www.wired.com/story/laser-wars-us-military-laser-weapons/</guid>
+      <pubDate>Mon, 13 May 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>这些人造血小板有一天可以拯救生命</title>
       <link>https://www.wired.com/story/synthetic-artificial-blood-platelets/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Apollo 的中档电动滑板车在 46 磅的合理包装中配备了您想要的所有功能。]]></description>
       <guid>https://www.wired.com/review/apollo-go-2024/</guid>
       <pubDate>Sat, 11 May 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stack Overflow 用户反对 OpenAI 交易</title>
-      <link>https://www.wired.com/story/stack-overflow-users-openai-revolt/</link>
-      <description><![CDATA[软件开发者社区的成员报告称，他们删除或更改了自己的帖子，以防止 OpenAI 使用这些帖子。]]></description>
-      <guid>https://www.wired.com/story/stack-overflow-users-openai-revolt/</guid>
-      <pubDate>Sat, 11 May 2024 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
