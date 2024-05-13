@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Mon, 13 May 2024 19:10:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 19:36:53 GMT</lastBuildDate>
+    <item>
+      <title>Apple iOS 17 和 iPadOS 17 的主要功能：兼容设备、更新</title>
+      <link>https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/</link>
+      <description><![CDATA[苹果刚刚在 iPhone 和 iPad 上推出了 iOS 17.5。以下是最新功能，包括添加第三方蓝牙跟踪器的警报。]]></description>
+      <guid>https://www.wired.com/story/apple-iphone-ios-17-ipados-17-new-features/</guid>
+      <pubDate>Mon, 13 May 2024 19:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>第一个接受猪肾移植的人去世了</title>
       <link>https://www.wired.com/story/pig-kidney-death-rick-slayman-transplant-animal-xenotransplantation/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>OpenAI 的 GPT-4o 模型为 ChatGPT 带来了敏捷、性感的升级</title>
       <link>https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</link>
-      <description><![CDATA[为 ChatGPT 做好准备，变得更加情绪化。 OpenAI 展示了使聊天机器人能够进行更快速对话的升级，并展示了 AI 助手能够捕捉并表达情感线索]]></description>
+      <description><![CDATA[为 ChatGPT 做好准备，变得更加情绪化。 OpenAI 展示了使聊天机器人能够进行更快速对话的升级，并展示了人工智能助手能够捕捉并表达情感线索。]]></description>
       <guid>https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</guid>
       <pubDate>Mon, 13 May 2024 18:35:21 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Rabbit 和 Humane 的可穿戴人工智能产品遭到了《连线》等评论家的严厉批评。他们的表情表明，在 ChatGPT 时代与大型科技公司竞争仍然很困难。]]></description>
       <guid>https://www.wired.com/story/generative-ai-doesnt-make-hardware-less-hard/</guid>
       <pubDate>Mon, 13 May 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haskell 程序员崇拜的内部</title>
-      <link>https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/</link>
-      <description><![CDATA[太诡异了。这是深奥的。这也是理解函数式编程的兴起和相关性的关键。]]></description>
-      <guid>https://www.wired.com/story/inside-the-cult-of-the-haskell-programmer/</guid>
-      <pubDate>Mon, 13 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
