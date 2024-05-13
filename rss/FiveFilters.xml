@@ -4,7 +4,15 @@
     <title>FiveFilters.org</title>
     <link>https://www.fivefilters.org/</link>
     <description>网络文章变得可访问</description>
-    <lastBuildDate>Sun, 17 Mar 2024 13:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 May 2024 10:14:20 GMT</lastBuildDate>
+    <item>
+      <title>Feed 控制和项目可见性中的精选 Feed</title>
+      <link>https://www.fivefilters.org/2024/curated-feeds-in-feed-control-and-item-visibility/</link>
+      <description><![CDATA[在 Feed Control 中，您现在可以在 Feed 上启用“管理模式”。 Feed 将像以前一样受到监控，但您现在必须选择应包含在 Feed 输出中的项目。
+帖子 Feed Control 中的精选 Feed项目可见性首先出现在FiveFilters.org上。]]></description>
+      <guid>https://www.fivefilters.org/2024/curated-feeds-in-feed-control-and-item-visibility/</guid>
+      <pubDate>Mon, 13 May 2024 10:06:54 GMT</pubDate>
+    </item>
     <item>
       <title>测试旧代码的 PHP 8 兼容性</title>
       <link>https://www.fivefilters.org/2023/testing-old-code-for-php-8-compatibility/</link>
@@ -76,14 +84,6 @@
 帖子将网络文章发送到 Dropbox 、reMarkable 等… 首先出现在 FiveFilters.org 上。]]></description>
       <guid>https://www.fivefilters.org/2022/send-web-articles-to-dropbox-remarkable-and-more/</guid>
       <pubDate>Mon, 29 Aug 2022 22:19:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>将网络文章发送到 PocketBook</title>
-      <link>https://www.fivefilters.org/2022/send-web-articles-to-a-pocketbook/</link>
-      <description><![CDATA[如何使用我们的 Push to Kindle 应用程序将网络文章发送到您的 PocketBook。
-帖子将网络文章发送到 PocketBook 首先出现在 FiveFilters.org 上。]]></description>
-      <guid>https://www.fivefilters.org/2022/send-web-articles-to-a-pocketbook/</guid>
-      <pubDate>Sun, 14 Aug 2022 12:46:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
