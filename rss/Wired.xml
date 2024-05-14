@@ -4,9 +4,16 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 14 May 2024 18:16:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 18:37:23 GMT</lastBuildDate>
     <item>
-      <title>通过 Android 上的 Gemini，Google 指出了移动计算的未来和过去</title>
+      <title>《哈迪斯 2》证明闪电可以击中两次</title>
+      <link>https://www.wired.com/story/hades-ii-first-impressions/</link>
+      <description><![CDATA[人们说完美是不可能的，但不知何故，Supergiant Games 的《哈迪斯》续作却做到了。]]></description>
+      <guid>https://www.wired.com/story/hades-ii-first-impressions/</guid>
+      <pubDate>Tue, 14 May 2024 18:14:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>借助 Android 上的 Gemini，Google 指出了移动计算的未来和过去</title>
       <link>https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/</link>
       <description><![CDATA[谷歌对 Gemini 和 Circle 的新升级让我们得以了解操作系统将如何改变并围绕人工智能展开。]]></description>
       <guid>https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>Astra 是 Google 对新 ChatGPT 的“多模式”回应</title>
       <link>https://www.wired.com/story/google-io-astra-multimodal-answer-chatgpt/</link>
-      <description><![CDATA[谷歌新推出的语音操作人工智能助手 Astra 可以理解手机摄像头所看到的内容。该消息是在 OpenAI 透露 ChatGPT 类似愿景的一天后宣布的。]]></description>
+      <description><![CDATA[谷歌全新的语音操作人工智能助手 Astra 可以理解手机摄像头所看到的内容。该消息是在 OpenAI 透露 ChatGPT 类似愿景的一天后宣布的。]]></description>
       <guid>https://www.wired.com/story/google-io-astra-multimodal-answer-chatgpt/</guid>
       <pubDate>Tue, 14 May 2024 17:54:48 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[《纽约时报》前科技记者兼媒体企业家内莉·鲍尔斯 (Nellie Bowles) 的书《革命后的早晨》(Morning After the Revolution) 标榜自己是一篇大胆的逆势文章，但却提供了冷淡的教条。]]></description>
       <guid>https://www.wired.com/story/morning-after-the-revolution-nellie-bowles-book/</guid>
       <pubDate>Tue, 14 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google I/O 2024 直播博客：Android、Gemini 和搜索的最新新闻</title>
-      <link>https://www.wired.com/live/google-io-2024-liveblog/</link>
-      <description><![CDATA[加入我们，了解 WIRED 记者在 Google I/O 2024 现场的最新报道。]]></description>
-      <guid>https://www.wired.com/live/google-io-2024-liveblog/</guid>
-      <pubDate>Tue, 14 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
