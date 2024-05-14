@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 13 May 2024 22:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 09:35:44 GMT</lastBuildDate>
     <item>
       <title>介绍格式化插件</title>
       <link>https://kate-editor.org/post/2024/2024-05-13-kate-formatting-plugin/?utm_source=atom_feed</link>
@@ -56,6 +56,14 @@ KubuQA 的增强体现了我们对提高 Ubuntu 及其衍生产品的质量和�
       <pubDate>Sat, 11 May 2024 18:30:01 GMT</pubDate>
     </item>
     <item>
+      <title>你好，星球在哪里！</title>
+      <link>https://alcarazzam.dev/posts/hello-planet-kde/?utm_source=atom_feed</link>
+      <description><![CDATA[你好 KDE 星球！
+我今年将参加 Google Summer of Code，为 KDE 框架的子集添加 Python 支持。您可以在此博客上关注我的进展。]]></description>
+      <guid>https://alcarazzam.dev/posts/hello-planet-kde/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 11 May 2024 13:31:23 GMT</pubDate>
+    </item>
+    <item>
       <title>本周 KDE：我们的杯子里充满了为您准备的酷玩意儿</title>
       <link>https://pointieststick.com/2024/05/10/this-week-in-kde-our-cup-overfloweth-with-cool-stuff-for-you/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -87,13 +95,6 @@ KubuQA 的增强体现了我们对提高 Ubuntu 及其衍生产品的质量和�
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/05/10/web-review-week-2024-19/?utm_source=atom_feed</guid>
       <pubDate>Fri, 10 May 2024 09:18:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 发布框架 6.2.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.2.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.2.0/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 10 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
