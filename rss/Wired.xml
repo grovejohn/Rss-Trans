@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Tue, 14 May 2024 09:36:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 10:15:51 GMT</lastBuildDate>
+    <item>
+      <title>Google I/O 2024 直播博客：Android、Gemini 和搜索的最新新闻</title>
+      <link>https://www.wired.com/live/google-io-2024-liveblog/</link>
+      <description><![CDATA[加入我们，了解 WIRED 记者在 Google I/O 2024 现场的最新报道。]]></description>
+      <guid>https://www.wired.com/live/google-io-2024-liveblog/</guid>
+      <pubDate>Tue, 14 May 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何观看 Google I/O 2024 以及期待什么</title>
       <link>https://www.wired.com/story/google-io-2024-how-to-watch-what-to-expect/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[为 ChatGPT 做好准备，变得更加情绪化。 OpenAI 展示了使聊天机器人能够进行更快速对话的升级，并展示了人工智能助手能够捕捉并表达情感线索。]]></description>
       <guid>https://www.wired.com/story/openai-gpt-4o-model-gives-chatgpt-a-snappy-flirty-upgrade/</guid>
       <pubDate>Mon, 13 May 2024 18:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>内部电子邮件揭示了有争议的枪支检测人工智能系统如何进入纽约</title>
-      <link>https://www.wired.com/story/evolv-gun-detection-nyc-subways-emails/</link>
-      <description><![CDATA[纽约市市长埃里克·亚当斯 (Eric Adams) 希望在地铁站测试 Evolv 的枪支探测技术，尽管该公司表示该技术并非针对该环境而设计。 《连线》杂志获得的电子邮件显示，该公司仍然找到了一个人。]]></description>
-      <guid>https://www.wired.com/story/evolv-gun-detection-nyc-subways-emails/</guid>
-      <pubDate>Mon, 13 May 2024 16:59:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
