@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Tue, 14 May 2024 02:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 May 2024 04:15:38 GMT</lastBuildDate>
+    <item>
+      <title>加入 CNET 的 Google I/O 2024 观看派对：与我们一起了解 Gemini AI、Android - CNET</title>
+      <link>https://www.cnet.com/tech/mobile/join-cnets-google-io-2024-watch-party-see-gemini-ai-android-reveals-with-us/#ftag=CAD590a51e</link>
+      <description><![CDATA[在周二的 CNET 直播中观看 Google 发布的所有新内容。]]></description>
+      <guid>https://www.cnet.com/tech/mobile/join-cnets-google-io-2024-watch-party-see-gemini-ai-android-reveals-with-us/#ftag=CAD590a51e</guid>
+      <pubDate>Tue, 14 May 2024 01:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>这款转盘非常适合初学者收藏家 - CNET</title>
       <link>https://www.cnet.com/deals/this-turntable-is-the-perfect-pick-for-a-beginner-collector/#ftag=CAD590a51e</link>
@@ -22,9 +29,9 @@
     <item>
       <title>OpenAI 在春季更新活动视频中宣布的一切 - CNET</title>
       <link>https://www.cnet.com/videos/everything-openai-announced-at-its-spring-update-event/#ftag=CAD590a51e</link>
-      <description><![CDATA[OpenAI举办了最新的产品更新活动，并展示了其ChatGPT软件的新AI模型和桌面版本。]]></description>
+      <description><![CDATA[OpenAI 发布了新的人工智能模型及其 ChatGPT 软件的桌面版本。]]></description>
       <guid>https://www.cnet.com/videos/everything-openai-announced-at-its-spring-update-event/#ftag=CAD590a51e</guid>
-      <pubDate>Tue, 14 May 2024 00:03:34 GMT</pubDate>
+      <pubDate>Tue, 14 May 2024 00:03:00 GMT</pubDate>
     </item>
     <item>
       <title>今天的 Wordle 提示和答案：5 月 14 日的帮助，#1060 - CNET</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[记住这些回收外卖容器的规则并保持系统平稳运行。]]></description>
       <guid>https://www.cnet.com/how-to/i-was-shocked-to-find-out-these-takeout-containers-arent-recyclable/#ftag=CAD590a51e</guid>
       <pubDate>Mon, 13 May 2024 22:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府将信用卡滞纳金降至 8 美元的尝试刚刚被阻止 - CNET</title>
-      <link>https://www.cnet.com/personal-finance/cfpb-slashes-credit-card-late-fees/#ftag=CAD590a51e</link>
-      <description><![CDATA[CFPB 限制滞纳金的决定将于明天生效。这就是停止对你的钱意味着什么。]]></description>
-      <guid>https://www.cnet.com/personal-finance/cfpb-slashes-credit-card-late-fees/#ftag=CAD590a51e</guid>
-      <pubDate>Mon, 13 May 2024 22:43:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
