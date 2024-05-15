@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 15 May 2024 13:15:20 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Wed, 15 May 2024 13:35:47 GMT</lastBuildDate>
+    <item>
+      <title>2000 美元以下最便宜的电动自行车（2024 年）：通勤、折叠、货运</title>
+      <link>https://www.wired.com/gallery/best-cheap-electric-bikes/</link>
+      <description><![CDATA[拉链变焦！经过几个月的测试，这些是我们最喜欢的电动自行车，而且不会花太多钱。]]></description>
+      <guid>https://www.wired.com/gallery/best-cheap-electric-bikes/</guid>
+      <pubDate>Wed, 15 May 2024 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft PowerToys 是终极 Windows 11 自定义工具</title>
       <link>https://www.wired.com/story/microsoft-powertoys-ultimate-tweaking-kit-for-windows-11/</link>
@@ -13,21 +20,21 @@
       <pubDate>Wed, 15 May 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>尽管存在禽流感风险，生奶饮用者仍无所畏惧</title>
+      <title>尽管存在禽流感风险，生牛奶饮用者仍无所畏惧</title>
       <link>https://www.wired.com/story/raw-milk-drinkers-h5n1-bird-flu/</link>
       <description><![CDATA[随着 H5N1 病毒继续在美国牛群中传播，原奶爱好者仍然完全不担心。]]></description>
       <guid>https://www.wired.com/story/raw-milk-drinkers-h5n1-bird-flu/</guid>
       <pubDate>Wed, 15 May 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Deadspin 的新东家透露了他们的计划：投注内容，但没有人工智能</title>
+      <title>Deadspin 的新东家透露了他们的计划：博彩内容——但没有人工智能</title>
       <link>https://www.wired.com/story/deadspin-new-owners-reveal-plans-betting-content-no-ai/</link>
       <description><![CDATA[一度受人喜爱的体育博客 Deadspin 自从 3 月份被一家名为 Lineup Publishing 的不知名公司收购以来，其未来一直不明朗。新的所有权与《连线》杂志分享了其计划。]]></description>
       <guid>https://www.wired.com/story/deadspin-new-owners-reveal-plans-betting-content-no-ai/</guid>
       <pubDate>Wed, 15 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>我作为一个秘密的“OnlyFans Chatter”进行卧底。这并不漂亮</title>
+      <title>我以秘密粉丝闲聊的身份卧底。这并不漂亮</title>
       <link>https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/</link>
       <description><![CDATA[你的网红女友实际上是轮流的低薪工人。我成为了他们中的一员。]]></description>
       <guid>https://www.wired.com/story/i-went-undercover-secret-onlyfans-chatter-wasnt-pretty/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Wed, 15 May 2024 00:36:00 GMT</pubDate>
     </item>
     <item>
-      <title>Google 在 I/O 2024 上宣布的一切：Gemini、搜索、Project Astra、诈骗检测</title>
+      <title>Google 在 2024 年 I/O 大会上宣布的一切：Gemini、搜索、Project Astra、诈骗检测</title>
       <link>https://www.wired.com/story/everything-google-announced-at-io-2024/</link>
       <description><![CDATA[谷歌的开发者主题演讲一整天都是人工智能。该公司展示了新的人工智能聊天机器人工具、新的搜索功能以及一系列针对 Android 的机器智能升级。]]></description>
       <guid>https://www.wired.com/story/everything-google-announced-at-io-2024/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[人们说完美是不可能的，但不知何故，Supergiant Games 的《哈迪斯》续作却做到了。]]></description>
       <guid>https://www.wired.com/story/hades-ii-first-impressions/</guid>
       <pubDate>Tue, 14 May 2024 18:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 Android 上的 Gemini，Google 指出了移动计算的未来和过去</title>
-      <link>https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/</link>
-      <description><![CDATA[谷歌对 Gemini 和 Circle 的新升级让我们得以了解操作系统将如何改变并围绕人工智能展开。]]></description>
-      <guid>https://www.wired.com/story/google-io-gemini-on-android-circle-to-search/</guid>
-      <pubDate>Tue, 14 May 2024 18:05:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
