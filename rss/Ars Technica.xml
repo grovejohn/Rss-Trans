@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 15 May 2024 20:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 21:13:19 GMT</lastBuildDate>
+    <item>
+      <title>谷歌推出 Veo，一款可能与 Sora 竞争的高清人工智能视频生成器</title>
+      <link>https://arstechnica.com/?p=2024749</link>
+      <description><![CDATA[Google 的视频合成模型可根据书面提示创建一分钟长的 1080p 视频。]]></description>
+      <guid>https://arstechnica.com/?p=2024749</guid>
+      <pubDate>Wed, 15 May 2024 20:51:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国司法部称，麻省理工学院的学生利用 ETH 区块链漏洞在几秒钟内窃取了 2500 万美元</title>
+      <link>https://arstechnica.com/?p=2024782</link>
+      <description><![CDATA[因新颖的加密货币计划而被指控的兄弟可能面临数十年的监禁。]]></description>
+      <guid>https://arstechnica.com/?p=2024782</guid>
+      <pubDate>Wed, 15 May 2024 20:21:44 GMT</pubDate>
+    </item>
     <item>
       <title>RealVNC 正在放弃其“Home”计划，几乎没有注意到其免费的“Lite”选项</title>
       <link>https://arstechnica.com/?p=2024689</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 15 May 2024 17:21:29 GMT</pubDate>
     </item>
     <item>
-      <title>美国司法部称波音因违反 737 Max 坠机协议面临刑事指控</title>
+      <title>美国司法部称波音公司因违反 737 Max 坠机事故协议而面临刑事指控</title>
       <link>https://arstechnica.com/?p=2024655</link>
       <description><![CDATA[美国司法部认定波音因两起致命坠机事件违反了 2021 年协议。]]></description>
       <guid>https://arstechnica.com/?p=2024655</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[诗人划掉了一段生动的段落，认为它是“一个不恰当的历史故事”]]></description>
       <guid>https://arstechnica.com/?p=2024241</guid>
       <pubDate>Wed, 15 May 2024 15:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>VMware Fusion、Workstation 现在免费供家庭使用，仅供企业订阅</title>
-      <link>https://arstechnica.com/?p=2024573</link>
-      <description><![CDATA[个人免费使用，但企业每年必须支付 120 美元以上。]]></description>
-      <guid>https://arstechnica.com/?p=2024573</guid>
-      <pubDate>Wed, 15 May 2024 15:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的汽车能为你的家供电吗？通用汽车在电动卡车演示中使其成为现实。</title>
-      <link>https://arstechnica.com/?p=2024596</link>
-      <description><![CDATA[通用汽车基于 Ultium 的电动汽车可以在停电期间为您的房屋供电。]]></description>
-      <guid>https://arstechnica.com/?p=2024596</guid>
-      <pubDate>Wed, 15 May 2024 15:37:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
