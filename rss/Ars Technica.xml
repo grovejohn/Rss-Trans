@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 15 May 2024 16:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 17:13:43 GMT</lastBuildDate>
     <item>
-      <title>约翰·弥尔顿的手写笔记使这本 16 世纪的历史书成为罕见的发现</title>
+      <title>15 年来 SSH 后门已感染 40 万台 Linux 服务器并持续蔓延</title>
+      <link>https://arstechnica.com/?p=2024591</link>
+      <description><![CDATA[Ebury 在托管提供商中设置 SSH 服务器后门，使恶意软件具有非凡的影响力。]]></description>
+      <guid>https://arstechnica.com/?p=2024591</guid>
+      <pubDate>Wed, 15 May 2024 16:56:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>联网汽车的非法数据收集和使用现已成为联邦贸易委员会的“雷达”</title>
+      <link>https://arstechnica.com/?p=2024643</link>
+      <description><![CDATA[该监管机构警告原始设备制造商尊重数据隐私，否则会生气。]]></description>
+      <guid>https://arstechnica.com/?p=2024643</guid>
+      <pubDate>Wed, 15 May 2024 16:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>学者们发现了罕见的 16 世纪巨著，上面有约翰·弥尔顿 (John Milton) 的手写笔记</title>
       <link>https://arstechnica.com/?p=2024241</link>
       <description><![CDATA[诗人划掉了一段生动的段落，认为它是“一个不恰当的历史故事”]]></description>
       <guid>https://arstechnica.com/?p=2024241</guid>
@@ -36,12 +50,12 @@
     <item>
       <title>Virtual Boy：任天堂神秘红色游戏机的离奇崛起和快速衰落</title>
       <link>https://arstechnica.com/?p=2017218</link>
-      <description><![CDATA[任天堂如何在 90 年代押注于一种新型游戏体验。]]></description>
+      <description><![CDATA[任天堂在 90 年代如何尝试一种新的游戏体验。]]></description>
       <guid>https://arstechnica.com/?p=2017218</guid>
       <pubDate>Wed, 15 May 2024 11:00:07 GMT</pubDate>
     </item>
     <item>
-      <title>首席科学家 Ilya Sutskever 在 Altman 被驱逐六个月后离开 OpenAI</title>
+      <title>首席科学家 Ilya Sutskever 在 Altman 下台六个月后离开 OpenAI</title>
       <link>https://arstechnica.com/?p=2024533</link>
       <description><![CDATA[首席执行官 Altman：“如果没有他，OpenAI 就不会是现在的样子。”]]></description>
       <guid>https://arstechnica.com/?p=2024533</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[“外面的敌人可以用刀剑战斗，里面的敌人更阴险。”]]></description>
       <guid>https://arstechnica.com/?p=2024395</guid>
       <pubDate>Tue, 14 May 2024 22:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>索伦的黑暗崛起是《权力之戒》S2 预告片中的焦点</title>
-      <link>https://arstechnica.com/?p=2024317</link>
-      <description><![CDATA[另外还有一个额外的幕后花絮，让我们了解所有角色。]]></description>
-      <guid>https://arstechnica.com/?p=2024317</guid>
-      <pubDate>Tue, 14 May 2024 22:09:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>受害者表示，降级并不能阻止谷歌的深度伪造色情问题</title>
-      <link>https://arstechnica.com/?p=2024472</link>
-      <description><![CDATA[受害者表示，在谷歌上删除未经同意的深度伪造色情内容正在“耗尽”。]]></description>
-      <guid>https://arstechnica.com/?p=2024472</guid>
-      <pubDate>Tue, 14 May 2024 22:00:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
