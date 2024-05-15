@@ -4,9 +4,37 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 15 May 2024 17:13:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 May 2024 18:17:41 GMT</lastBuildDate>
     <item>
-      <title>15 年来 SSH 后门已感染 40 万台 Linux 服务器并持续蔓延</title>
+      <title>Netflix 与 NFL 签订三年合约，本赛季将于圣诞节开始</title>
+      <link>https://arstechnica.com/?p=2024680</link>
+      <description><![CDATA[NFL 比其他内容更能吸引眼球，订阅者也确实会留下来。]]></description>
+      <guid>https://arstechnica.com/?p=2024680</guid>
+      <pubDate>Wed, 15 May 2024 17:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>有线电视提供商毁了有线电视——现在他们开始转向流媒体</title>
+      <link>https://arstechnica.com/?p=2024632</link>
+      <description><![CDATA[康卡斯特希望将其有线/互联网与您的流媒体订阅联系起来。]]></description>
+      <guid>https://arstechnica.com/?p=2024632</guid>
+      <pubDate>Wed, 15 May 2024 17:21:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国司法部称波音公司因违反 737 Max 坠机事故协议而面临刑事指控</title>
+      <link>https://arstechnica.com/?p=2024655</link>
+      <description><![CDATA[美国司法部认定波音因两起致命坠机事件违反了 2021 年协议。]]></description>
+      <guid>https://arstechnica.com/?p=2024655</guid>
+      <pubDate>Wed, 15 May 2024 17:04:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android 15 获得“私人空间”、盗窃检测和 AV1 支持</title>
+      <link>https://arstechnica.com/?p=2024211</link>
+      <description><![CDATA[Android 15 Beta 2 现已推出适用于 Pixel 和多种第三方设备的版本。]]></description>
+      <guid>https://arstechnica.com/?p=2024211</guid>
+      <pubDate>Wed, 15 May 2024 17:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 维护人员被影响范围巨大的 SSH 后门感染了两年</title>
       <link>https://arstechnica.com/?p=2024591</link>
       <description><![CDATA[Ebury 在托管提供商中设置 SSH 服务器后门，使恶意软件具有非凡的影响力。]]></description>
       <guid>https://arstechnica.com/?p=2024591</guid>
@@ -46,34 +74,6 @@
       <description><![CDATA[让小行星的速度减慢十分之一秒就会产生很大的不同。]]></description>
       <guid>https://arstechnica.com/?p=2024593</guid>
       <pubDate>Wed, 15 May 2024 14:54:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Virtual Boy：任天堂神秘红色游戏机的离奇崛起和快速衰落</title>
-      <link>https://arstechnica.com/?p=2017218</link>
-      <description><![CDATA[任天堂在 90 年代如何尝试一种新的游戏体验。]]></description>
-      <guid>https://arstechnica.com/?p=2017218</guid>
-      <pubDate>Wed, 15 May 2024 11:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>首席科学家 Ilya Sutskever 在 Altman 下台六个月后离开 OpenAI</title>
-      <link>https://arstechnica.com/?p=2024533</link>
-      <description><![CDATA[首席执行官 Altman：“如果没有他，OpenAI 就不会是现在的样子。”]]></description>
-      <guid>https://arstechnica.com/?p=2024533</guid>
-      <pubDate>Wed, 15 May 2024 03:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>试验显示，Wegovy 的减肥效果可持续长达四年</title>
-      <link>https://arstechnica.com/?p=2024518</link>
-      <description><![CDATA[目前尚不清楚人们需要服用药物多长时间才能维持效果。]]></description>
-      <guid>https://arstechnica.com/?p=2024518</guid>
-      <pubDate>Tue, 14 May 2024 23:04:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>《龙之屋》S2 预告片中“火与血”来到维斯特洛</title>
-      <link>https://arstechnica.com/?p=2024395</link>
-      <description><![CDATA[“外面的敌人可以用刀剑战斗，里面的敌人更阴险。”]]></description>
-      <guid>https://arstechnica.com/?p=2024395</guid>
-      <pubDate>Tue, 14 May 2024 22:43:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
