@@ -4,18 +4,32 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 16 May 2024 11:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 11:37:09 GMT</lastBuildDate>
+    <item>
+      <title>哈桑·派克不会告诉你投票给乔·拜登</title>
+      <link>https://www.wired.com/story/hasan-piker-twitch-voting-joe-biden/</link>
+      <description><![CDATA[Twitch 的彩带可能会对选举产生严重影响——即使不参加选举也是如此。]]></description>
+      <guid>https://www.wired.com/story/hasan-piker-twitch-voting-joe-biden/</guid>
+      <pubDate>Thu, 16 May 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 因对儿童的“成瘾”影响而面临新调查</title>
+      <link>https://www.wired.com/story/meta-faces-fresh-probe-over-addictive-effect-on-kids/</link>
+      <description><![CDATA[欧盟对 Facebook 和 Instagram 的儿童保护措施展开调查，这是人们对未成年人使用社交媒体日益担忧的一部分。]]></description>
+      <guid>https://www.wired.com/story/meta-faces-fresh-probe-over-addictive-effect-on-kids/</guid>
+      <pubDate>Thu, 16 May 2024 11:09:22 GMT</pubDate>
+    </item>
     <item>
       <title>研究表明，Wegovy 可以在至少 4 年内保持体重减轻</title>
       <link>https://www.wired.com/story/weight-loss-from-wegovy-sustained-for-up-to-four-years-trial-shows/</link>
-      <description><![CDATA[在为期四年的试验过程中，每周注射一次的用户的体重下降、稳定并稳定下来，但目前尚不清楚这些效果在停止服用药物后会持续多久。]]></description>
+      <description><![CDATA[每周注射一次的用户在四年的试验过程中发现体重下降、稳定并稳定下来，但目前尚不清楚停止用药后这些效果会持续多久。]]></description>
       <guid>https://www.wired.com/story/weight-loss-from-wegovy-sustained-for-up-to-four-years-trial-shows/</guid>
       <pubDate>Thu, 16 May 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Maven 是一个新的社交网络，可以消除追随者，并希望消除压力</title>
       <link>https://www.wired.com/story/maven-social-network-that-eliminates-followers-and-stress/</link>
-      <description><![CDATA[Twitter 联合创始人埃夫·威廉姆斯 (Ev Williams) 支持一个名为 Maven 的新社交网络，该网络通过点赞和关注来换取旨在促进偶然性和深入讨论的算法。]]></description>
+      <description><![CDATA[Twitter 联合创始人埃夫·威廉姆斯 (Ev Williams) 支持一个名为 Maven 的新社交网络，该网络通过点赞和关注来换取旨在促进意外发现和深入讨论的算法。]]></description>
       <guid>https://www.wired.com/story/maven-social-network-that-eliminates-followers-and-stress/</guid>
       <pubDate>Thu, 16 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -43,14 +57,14 @@
     <item>
       <title>准备好被情感表达的聊天机器人操纵</title>
       <link>https://www.wired.com/story/prepare-to-get-manipulated-by-emotionally-expressive-chatbots/</link>
-      <description><![CDATA[OpenAI 新版 ChatGPT 的情感模仿可能会将人工智能助手引向一些奇怪甚至危险的方向。]]></description>
+      <description><![CDATA[OpenAI 新版 ChatGPT 的情感模仿可能会引导人工智能助手走向一些奇怪甚至危险的方向。]]></description>
       <guid>https://www.wired.com/story/prepare-to-get-manipulated-by-emotionally-expressive-chatbots/</guid>
       <pubDate>Wed, 15 May 2024 19:56:27 GMT</pubDate>
     </item>
     <item>
       <title>桑拿是对抗抑郁症的下一个前沿</title>
       <link>https://www.wired.com/story/sauna-heat-therapy-depression-cbt-mental-health-trial/</link>
-      <description><![CDATA[一项利用高温来对抗抑郁症的临床试验的初步结果已经出来，并引发了人们对桑拿练习可能成为一种公认的治疗方法的谨慎乐观态度。]]></description>
+      <description><![CDATA[一项利用高温来对抗抑郁症的临床试验的初步结果已经出来，并且引发了人们对桑拿练习可能成为一种公认的治疗方法的谨慎乐观态度。]]></description>
       <guid>https://www.wired.com/story/sauna-heat-therapy-depression-cbt-mental-health-trial/</guid>
       <pubDate>Wed, 15 May 2024 17:48:03 GMT</pubDate>
     </item>
@@ -59,20 +73,6 @@
       <link>https://www.wired.com/story/android-15-theft-detection-lock/</link>
       <description><![CDATA[谷歌在 Android 15 中引入了新的人工智能驱动的安全工具，如果小偷抓住你的手机，它可以锁定你的手机。]]></description>
       <guid>https://www.wired.com/story/android-15-theft-detection-lock/</guid>
-      <pubDate>Wed, 15 May 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>今年 Android 手机、手表和电视将推出所有新功能</title>
-      <link>https://www.wired.com/story/google-io-android-ecosystem-updates-new-features/</link>
-      <description><![CDATA[在 I/O 大会上，谷歌展示了 Android 15 的新功能、最新版本的 Wear OS、Google TV 的改进等等。]]></description>
-      <guid>https://www.wired.com/story/google-io-android-ecosystem-updates-new-features/</guid>
-      <pubDate>Wed, 15 May 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>15 个最热门的 Android 15 新功能 (2024)：如何安装、功能、发布日期</title>
-      <link>https://www.wired.com/story/how-to-download-android-15-and-features/</link>
-      <description><![CDATA[Android 15 的发布日期越来越近。以下是谷歌即将推出的显着功能和升级。]]></description>
-      <guid>https://www.wired.com/story/how-to-download-android-15-and-features/</guid>
       <pubDate>Wed, 15 May 2024 17:00:00 GMT</pubDate>
     </item>
     </channel>
