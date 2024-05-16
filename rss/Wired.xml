@@ -3,8 +3,22 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 16 May 2024 21:36:01 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Thu, 16 May 2024 22:13:27 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊将举办大型图书销售活动</title>
+      <link>https://www.wired.com/story/amazon-book-sale-spring-2024/</link>
+      <description><![CDATA[5 月 20 日之前，电子书、平装书和精装版均享有大幅折扣。]]></description>
+      <guid>https://www.wired.com/story/amazon-book-sale-spring-2024/</guid>
+      <pubDate>Thu, 16 May 2024 21:56:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的人工智能概述如何工作，以及如何关闭它们（你不能）</title>
+      <link>https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/</link>
+      <description><![CDATA[谷歌由 Gemini 驱动的新搜索体验正在向美国用户推出。以下是有关如何导航的一些建议。如果你想关闭人工智能概述，那就太糟糕了。]]></description>
+      <guid>https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/</guid>
+      <pubDate>Thu, 16 May 2024 21:42:52 GMT</pubDate>
+    </item>
     <item>
       <title>Twitch 主播如何塑造 2024 年选举</title>
       <link>https://www.wired.com/story/hasan-piker-twitch-joe-biden/</link>
@@ -13,7 +27,7 @@
       <pubDate>Thu, 16 May 2024 20:14:54 GMT</pubDate>
     </item>
     <item>
-      <title>Max（又名 HBO Max）目前 35 部最佳节目</title>
+      <title>目前 HBO Max 上 35 部最佳剧集</title>
       <link>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</link>
       <description><![CDATA[《Hacks》、《The Jinx》和《Conan O’Brien Must Go》只是本月您需要在 Max 上观看的几部节目。]]></description>
       <guid>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</guid>
@@ -34,16 +48,16 @@
       <pubDate>Thu, 16 May 2024 18:03:51 GMT</pubDate>
     </item>
     <item>
-      <title>简·舍恩布伦想炸毁你的电视</title>
+      <title>Jane Schoenbrun 想炸毁你的电视</title>
       <link>https://www.wired.com/story/i-saw-the-tv-glow-director-jane-schoenbrun/</link>
       <description><![CDATA[在成长过程中，导演简·舍恩布伦（Jane Schoenbrun）曾出演《X档案》和《双峰》等电视剧。他们的新电影讲述的是迷失在银幕中的轻松和危险。]]></description>
       <guid>https://www.wired.com/story/i-saw-the-tv-glow-director-jane-schoenbrun/</guid>
       <pubDate>Thu, 16 May 2024 16:37:56 GMT</pubDate>
     </item>
     <item>
-      <title>小罗伯特·肯尼迪正在引导他的听众接受否认主义</title>
+      <title>罗伯特·肯尼迪 (RFK) 正在向他的听众灌输选举否定论</title>
       <link>https://www.wired.com/story/rfk-jr-election-denialism/</link>
-      <description><![CDATA[罗伯特·F·肯尼迪的竞选活动——以及他一生的工作——为支持者将他不可避免的失败归咎于精英阴谋奠定了基础。]]></description>
+      <description><![CDATA[罗伯特·F·肯尼迪的竞选活动以及他一生的工作为支持者将他不可避免的失败归咎于精英阴谋奠定了基础。]]></description>
       <guid>https://www.wired.com/story/rfk-jr-election-denialism/</guid>
       <pubDate>Thu, 16 May 2024 15:10:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[这款数字指板是一款独特的独立乐器，价格实惠，是 MIDI 和弦表达 (MPE) 的入门之选。]]></description>
       <guid>https://www.wired.com/review/artiphon-chorda/</guid>
       <pubDate>Thu, 16 May 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SVS Ultra Evolution 评测：简洁的外观、精致的声音</title>
-      <link>https://www.wired.com/review/svs-ultra-evolution-bookshelf/</link>
-      <description><![CDATA[SVS 重新设计了其 Ultra 系列扬声器，以实现卓越的风格和音质。]]></description>
-      <guid>https://www.wired.com/review/svs-ultra-evolution-bookshelf/</guid>
-      <pubDate>Thu, 16 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>实验室培育的肉类现已上架。但有一个问题</title>
-      <link>https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/</link>
-      <description><![CDATA[新加坡的一家商店正在销售实验室培育的鸡肉，但它只含有 3% 的动物细胞。]]></description>
-      <guid>https://www.wired.com/story/eat-just-good-meat-singapore-cultivated-lab-grown-chicken/</guid>
-      <pubDate>Thu, 16 May 2024 12:36:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
