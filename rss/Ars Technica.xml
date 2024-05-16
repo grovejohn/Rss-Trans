@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 16 May 2024 12:50:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 May 2024 14:13:20 GMT</lastBuildDate>
+    <item>
+      <title>对孩子上瘾的担忧促使人们对 Meta 及其对黑暗模式的使用进行调查</title>
+      <link>https://arstechnica.com/?p=2024851</link>
+      <description><![CDATA[欧盟担心 Meta 在保护使用其应用程序的儿童方面做得不够。]]></description>
+      <guid>https://arstechnica.com/?p=2024851</guid>
+      <pubDate>Thu, 16 May 2024 13:25:16 GMT</pubDate>
+    </item>
     <item>
       <title>每日望远镜：我用我的小眼睛监视国际空间站</title>
       <link>https://arstechnica.com/?p=2024772</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Android 15 Beta 2 现已推出适用于 Pixel 和多种第三方设备的版本。]]></description>
       <guid>https://arstechnica.com/?p=2024211</guid>
       <pubDate>Wed, 15 May 2024 17:00:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 维护人员被影响范围巨大的 SSH 后门感染了两年</title>
-      <link>https://arstechnica.com/?p=2024591</link>
-      <description><![CDATA[Ebury 在托管提供商中设置 SSH 服务器后门，使恶意软件具有非凡的影响力。]]></description>
-      <guid>https://arstechnica.com/?p=2024591</guid>
-      <pubDate>Wed, 15 May 2024 16:56:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
