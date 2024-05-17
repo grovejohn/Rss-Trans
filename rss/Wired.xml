@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 17 May 2024 14:36:12 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Fri, 17 May 2024 15:13:57 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的长期人工智能风险团队已解散</title>
+      <link>https://www.wired.com/story/openai-superalignment-team-disbanded/</link>
+      <description><![CDATA[《连线》证实，整个 OpenAI 团队专注于人工智能的生存危险，要么辞职，要么被并入其他研究小组。]]></description>
+      <guid>https://www.wired.com/story/openai-superalignment-team-disbanded/</guid>
+      <pubDate>Fri, 17 May 2024 14:54:19 GMT</pubDate>
+    </item>
     <item>
       <title>推特终于死了。一直是X</title>
       <link>https://www.wired.com/story/twitter-dead-x-elon-musk/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>9 款最佳冷却器 WIRED 经过测试，适合各种预算、任何情况</title>
       <link>https://www.wired.com/gallery/best-coolers/</link>
-      <description><![CDATA[我们大口喝着冰镇饮料，为您带来适合各种情况的我们最喜欢的冷却器。]]></description>
+      <description><![CDATA[我们为您提供适合各种情况的我们最喜欢的冰镇饮料。]]></description>
       <guid>https://www.wired.com/gallery/best-coolers/</guid>
       <pubDate>Fri, 17 May 2024 14:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[睡眠开始不再像一种奢侈？可能是时候买新床垫了，而且它们经常打折。]]></description>
       <guid>https://www.wired.com/story/best-mattress-deals/</guid>
       <pubDate>Fri, 17 May 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊将举办大型图书销售活动</title>
-      <link>https://www.wired.com/story/amazon-book-sale-spring-2024/</link>
-      <description><![CDATA[5 月 20 日之前，电子书、平装书和精装版均享有大幅折扣。]]></description>
-      <guid>https://www.wired.com/story/amazon-book-sale-spring-2024/</guid>
-      <pubDate>Thu, 16 May 2024 21:56:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
