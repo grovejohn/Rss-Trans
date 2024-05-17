@@ -3,10 +3,17 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 17 May 2024 21:36:43 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Fri, 17 May 2024 22:12:52 GMT</lastBuildDate>
     <item>
-      <title>六字科幻小说：你写的故事</title>
+      <title>罗技 Pro X 60 键盘评测：最好、最亮、现在更小</title>
+      <link>https://www.wired.com/review/logitech-pro-x-60/</link>
+      <description><![CDATA[这是一款 60% 的键盘，具有更大、更宽敞的键盘的大部分优点。]]></description>
+      <guid>https://www.wired.com/review/logitech-pro-x-60/</guid>
+      <pubDate>Fri, 17 May 2024 22:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>六字科幻：你写的故事</title>
       <link>https://www.wired.com/story/six-word-sci-fi/</link>
       <description><![CDATA[以下是本月的提示、如何提交以及过去收藏的图文并茂的存档。]]></description>
       <guid>https://www.wired.com/story/six-word-sci-fi/</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>OpenAI 的长期人工智能风险团队已解散</title>
       <link>https://www.wired.com/story/openai-superalignment-team-disbanded/</link>
-      <description><![CDATA[《连线》杂志证实，整个 OpenAI 团队专注于人工智能的生存危险，要么辞职，要么被并入其他研究小组。]]></description>
+      <description><![CDATA[《连线》杂志证实，专注于研究人工智能生存危机的整个 OpenAI 团队要么已经辞职，要么被其他研究小组吸收。]]></description>
       <guid>https://www.wired.com/story/openai-superalignment-team-disbanded/</guid>
       <pubDate>Fri, 17 May 2024 14:54:19 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Corsair 终于推出了我们期待已久的升级版多按钮游戏鼠标。]]></description>
       <guid>https://www.wired.com/review/corsair-scimitar-elite-wireless/</guid>
       <pubDate>Fri, 17 May 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候相信人工智能的炒作了</title>
-      <link>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</link>
-      <description><![CDATA[一些专家认为生成式人工智能不再变得更聪明。本周开始，OpenAI 和谷歌的爆炸性演示表明，未来还会有更多的颠覆。]]></description>
-      <guid>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</guid>
-      <pubDate>Fri, 17 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
