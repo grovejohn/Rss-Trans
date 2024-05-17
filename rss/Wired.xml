@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 17 May 2024 13:14:41 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Fri, 17 May 2024 13:36:07 GMT</lastBuildDate>
+    <item>
+      <title>Corsair Scimitar Elite 无线鼠标评测：定制游戏完美</title>
+      <link>https://www.wired.com/review/corsair-scimitar-elite-wireless/</link>
+      <description><![CDATA[Corsair 终于推出了我们一直在等待的升级版多按钮游戏鼠标。]]></description>
+      <guid>https://www.wired.com/review/corsair-scimitar-elite-wireless/</guid>
+      <pubDate>Fri, 17 May 2024 13:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>是时候相信人工智能的炒作了</title>
       <link>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</link>
@@ -13,16 +20,16 @@
       <pubDate>Fri, 17 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>6 款最佳廉价智能手机（2024 年）：iPhone、Android、5G</title>
+      <title>6 款最便宜的智能手机（2024 年）：iPhone、Android、5G</title>
       <link>https://www.wired.com/story/best-cheap-phones/</link>
-      <description><![CDATA[没有必要花大价钱购买智能手机。这些 iPhone 和 Android 设备（价格从 150 美元到 500 美元不等）经受住了《连线》杂志的测试。]]></description>
+      <description><![CDATA[没有理由花高价购买智能手机。这些 iPhone 和 Android 设备（价格从 150 美元到 500 美元不等）经受住了 WIRED 的测试。]]></description>
       <guid>https://www.wired.com/story/best-cheap-phones/</guid>
       <pubDate>Fri, 17 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
       <title>如何在 Android 手机上使用“圈子搜索”</title>
       <link>https://www.wired.com/story/how-to-use-circle-to-search-android/</link>
-      <description><![CDATA[Android 上有一种新的、人工智能驱动的搜索方式。只需轻轻一挥手指即可。]]></description>
+      <description><![CDATA[有一种全新的、由人工智能驱动的 Android 搜索方式。只需轻轻一挥手指即可。]]></description>
       <guid>https://www.wired.com/story/how-to-use-circle-to-search-android/</guid>
       <pubDate>Fri, 17 May 2024 12:00:00 GMT</pubDate>
     </item>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 17 May 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix 不再只是电影</title>
+      <title>Netflix 不再是电影</title>
       <link>https://www.wired.com/story/netflix-isnt-about-flicks-anymore/</link>
       <description><![CDATA[不仅仅是 Netflix，Max、Disney+，甚至 YouTube 也将注意力转向电视剧、体育和短片。]]></description>
       <guid>https://www.wired.com/story/netflix-isnt-about-flicks-anymore/</guid>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 16 May 2024 21:56:31 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌的人工智能概览如何工作，以及如何关闭它们（你不能关闭）</title>
+      <title>谷歌的人工智能概述如何工作，以及如何关闭它们（你不能）</title>
       <link>https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/</link>
       <description><![CDATA[谷歌由 Gemini 驱动的新搜索体验正在向美国用户推出。以下是有关如何导航的一些建议。如果你想关闭人工智能概述，那就太糟糕了。]]></description>
       <guid>https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[《连线》杂志采访了政治流媒体哈桑·派克，谈论了乔·拜登、青年投票以及他对加沙的支持。]]></description>
       <guid>https://www.wired.com/story/hasan-piker-twitch-joe-biden/</guid>
       <pubDate>Thu, 16 May 2024 20:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Max（又名 HBO Max）目前 35 部最佳节目</title>
-      <link>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</link>
-      <description><![CDATA[《Hacks》、《The Jinx》和《Conan O’Brien Must Go》只是本月您需要在 Max 上观看的几部节目。]]></description>
-      <guid>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</guid>
-      <pubDate>Thu, 16 May 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
