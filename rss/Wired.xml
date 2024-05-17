@@ -3,10 +3,17 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 17 May 2024 15:35:59 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Fri, 17 May 2024 16:16:46 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 的长期人工智能风险团队已解散</title>
+      <title>收购 TikTok 的竞赛已经开始，但可能没有赢家</title>
+      <link>https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/</link>
+      <description><![CDATA[投资者有意收购 TikTok，以便避免美国禁令。但即使字节跳动接受收购，收购也绝非易事。]]></description>
+      <guid>https://www.wired.com/story/tiktoks-suitors-face-an-uphill-battle/</guid>
+      <pubDate>Fri, 17 May 2024 15:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 长期人工智能风险团队已解散</title>
       <link>https://www.wired.com/story/openai-superalignment-team-disbanded/</link>
       <description><![CDATA[《连线》杂志证实，整个 OpenAI 团队专注于人工智能的生存危险，要么辞职，要么被并入其他研究小组。]]></description>
       <guid>https://www.wired.com/story/openai-superalignment-team-disbanded/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>Corsair Scimitar Elite 无线鼠标评测：定制游戏完美</title>
       <link>https://www.wired.com/review/corsair-scimitar-elite-wireless/</link>
-      <description><![CDATA[Corsair 终于推出了我们期待已久的升级版多按钮游戏鼠标。]]></description>
+      <description><![CDATA[Corsair 终于推出了我们一直在等待的升级版多按钮游戏鼠标。]]></description>
       <guid>https://www.wired.com/review/corsair-scimitar-elite-wireless/</guid>
       <pubDate>Fri, 17 May 2024 13:30:00 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>Netflix 不再是电影</title>
       <link>https://www.wired.com/story/netflix-isnt-about-flicks-anymore/</link>
-      <description><![CDATA[不仅仅是 Netflix，Max、Disney+，甚至 YouTube 也将注意力转向电视剧、体育和短片。]]></description>
+      <description><![CDATA[不仅仅是 Netflix——Max、Disney+ 甚至 YouTube 也将注意力转向连续剧、体育和短片。]]></description>
       <guid>https://www.wired.com/story/netflix-isnt-about-flicks-anymore/</guid>
       <pubDate>Fri, 17 May 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年阵亡将士纪念日 11 项最佳早期床垫优惠</title>
-      <link>https://www.wired.com/story/best-mattress-deals/</link>
-      <description><![CDATA[睡眠开始不再像一种奢侈？可能是时候买新床垫了，而且它们经常打折。]]></description>
-      <guid>https://www.wired.com/story/best-mattress-deals/</guid>
-      <pubDate>Fri, 17 May 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
