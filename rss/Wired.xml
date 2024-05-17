@@ -3,12 +3,19 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 17 May 2024 13:36:07 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Fri, 17 May 2024 14:13:22 GMT</lastBuildDate>
+    <item>
+      <title>9 款最佳冷却器 WIRED 经过测试，适合各种预算、任何情况</title>
+      <link>https://www.wired.com/gallery/best-coolers/</link>
+      <description><![CDATA[我们为您提供适合各种情况的我们最喜欢的冰镇饮料。]]></description>
+      <guid>https://www.wired.com/gallery/best-coolers/</guid>
+      <pubDate>Fri, 17 May 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Corsair Scimitar Elite 无线鼠标评测：定制游戏完美</title>
       <link>https://www.wired.com/review/corsair-scimitar-elite-wireless/</link>
-      <description><![CDATA[Corsair 终于推出了我们一直在等待的升级版多按钮游戏鼠标。]]></description>
+      <description><![CDATA[Corsair 终于推出了我们期待已久的升级版多按钮游戏鼠标。]]></description>
       <guid>https://www.wired.com/review/corsair-scimitar-elite-wireless/</guid>
       <pubDate>Fri, 17 May 2024 13:30:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[谷歌由 Gemini 驱动的新搜索体验正在向美国用户推出。以下是有关如何导航的一些建议。如果你想关闭人工智能概述，那就太糟糕了。]]></description>
       <guid>https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/</guid>
       <pubDate>Thu, 16 May 2024 21:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitch 主播如何塑造 2024 年选举</title>
-      <link>https://www.wired.com/story/hasan-piker-twitch-joe-biden/</link>
-      <description><![CDATA[《连线》杂志采访了政治流媒体哈桑·派克，谈论了乔·拜登、青年投票以及他对加沙的支持。]]></description>
-      <guid>https://www.wired.com/story/hasan-piker-twitch-joe-biden/</guid>
-      <pubDate>Thu, 16 May 2024 20:14:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
