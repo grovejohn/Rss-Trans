@@ -3,12 +3,19 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Fri, 17 May 2024 12:50:07 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Fri, 17 May 2024 13:14:41 GMT</lastBuildDate>
     <item>
-      <title>6 款最便宜的智能手机（2024 年）：iPhone、Android、5G</title>
+      <title>是时候相信人工智能的炒作了</title>
+      <link>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</link>
+      <description><![CDATA[一些专家认为生成式人工智能不再变得更聪明。本周开始，OpenAI 和谷歌的爆炸性演示表明，未来还会有更多的颠覆。]]></description>
+      <guid>https://www.wired.com/story/its-time-to-believe-the-ai-hype/</guid>
+      <pubDate>Fri, 17 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>6 款最佳廉价智能手机（2024 年）：iPhone、Android、5G</title>
       <link>https://www.wired.com/story/best-cheap-phones/</link>
-      <description><![CDATA[没有理由花高价购买智能手机。这些 iPhone 和 Android 设备（价格从 150 美元到 500 美元不等）经受住了 WIRED 的测试。]]></description>
+      <description><![CDATA[没有必要花大价钱购买智能手机。这些 iPhone 和 Android 设备（价格从 150 美元到 500 美元不等）经受住了《连线》杂志的测试。]]></description>
       <guid>https://www.wired.com/story/best-cheap-phones/</guid>
       <pubDate>Fri, 17 May 2024 12:30:00 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 17 May 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>Netflix 不再是电影</title>
+      <title>Netflix 不再只是电影</title>
       <link>https://www.wired.com/story/netflix-isnt-about-flicks-anymore/</link>
       <description><![CDATA[不仅仅是 Netflix，Max、Disney+，甚至 YouTube 也将注意力转向电视剧、体育和短片。]]></description>
       <guid>https://www.wired.com/story/netflix-isnt-about-flicks-anymore/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Thu, 16 May 2024 21:56:31 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌的人工智能概述如何工作，以及如何关闭它们（你不能）</title>
+      <title>谷歌的人工智能概览如何工作，以及如何关闭它们（你不能关闭）</title>
       <link>https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/</link>
       <description><![CDATA[谷歌由 Gemini 驱动的新搜索体验正在向美国用户推出。以下是有关如何导航的一些建议。如果你想关闭人工智能概述，那就太糟糕了。]]></description>
       <guid>https://www.wired.com/story/google-ai-overviews-how-to-use-how-to-turn-off/</guid>
@@ -57,7 +64,7 @@
     <item>
       <title>Twitch 主播如何塑造 2024 年选举</title>
       <link>https://www.wired.com/story/hasan-piker-twitch-joe-biden/</link>
-      <description><![CDATA[《连线》杂志采访了政治流媒体哈桑·派克（Hasan Piker），谈论了乔·拜登、青年投票以及他对加沙的支持。]]></description>
+      <description><![CDATA[《连线》杂志采访了政治流媒体哈桑·派克，谈论了乔·拜登、青年投票以及他对加沙的支持。]]></description>
       <guid>https://www.wired.com/story/hasan-piker-twitch-joe-biden/</guid>
       <pubDate>Thu, 16 May 2024 20:14:54 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[《Hacks》、《The Jinx》和《Conan O’Brien Must Go》只是本月您需要在 Max 上观看的几部节目。]]></description>
       <guid>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</guid>
       <pubDate>Thu, 16 May 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉备受争议的工厂扩建获得批准</title>
-      <link>https://www.wired.com/story/teslas-controversial-factory-expansion-is-approved/</link>
-      <description><![CDATA[上周，反特斯拉活动人士在德国与警方发生冲突后，当地议员今天支持埃隆·马斯克 (Elon Musk) 扩大特斯拉唯一的欧洲超级工厂规模的计划。]]></description>
-      <guid>https://www.wired.com/story/teslas-controversial-factory-expansion-is-approved/</guid>
-      <pubDate>Thu, 16 May 2024 18:43:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
