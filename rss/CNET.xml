@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>科技网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
     <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Sat, 18 May 2024 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2024 16:15:01 GMT</lastBuildDate>
     <item>
-      <title>2024 年普里克内斯锦标赛：如何从任何地方观看今天的比赛 - CNET</title>
+      <title>改变抑郁症管理方式的 7 种技巧 - CNET</title>
+      <link>https://www.cnet.com/health/mental/7-techniques-to-transform-how-you-manage-your-depression/#ftag=CAD590a51e</link>
+      <description><![CDATA[如果您感觉有点情绪低落，请尝试以下提示来改善情绪。]]></description>
+      <guid>https://www.cnet.com/health/mental/7-techniques-to-transform-how-you-manage-your-depression/#ftag=CAD590a51e</guid>
+      <pubDate>Sat, 18 May 2024 15:00:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年普利克内斯锦标赛：如何从任何地方观看今天的比赛 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/the-preakness-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e</link>
       <description><![CDATA[米斯蒂克·丹 (Mystik Dan) 能否继续在皮姆利科赛马场 (Pimlico Race Course) 争夺三冠王？]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/the-preakness-stakes-2024-how-to-watch-todays-race-from-anywhere/#ftag=CAD590a51e</guid>
@@ -22,7 +29,7 @@
     <item>
       <title>Apple Watch 最佳优惠：Series 9、Ultra 2、SE 等优惠 - CNET</title>
       <link>https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e</link>
-      <description><![CDATA[如果您一直想升级当前的 Apple Watch 或第一次尝试，现在是省钱购买的好时机。]]></description>
+      <description><![CDATA[如果您想升级当前的 Apple Watch 或首次尝试，现在是省钱购买手表的好时机。]]></description>
       <guid>https://www.cnet.com/deals/best-apple-watch-deals/#ftag=CAD590a51e</guid>
       <pubDate>Sat, 18 May 2024 14:09:00 GMT</pubDate>
     </item>
@@ -34,14 +41,14 @@
       <pubDate>Sat, 18 May 2024 14:00:29 GMT</pubDate>
     </item>
     <item>
-      <title>Max：34 部绝对最值得观看的电视节目 - CNET</title>
+      <title>Max：绝对值得一看的 34 部最佳电视节目 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/max-the-34-absolute-best-tv-shows-to-stream-may-2024/#ftag=CAD590a51e</link>
       <description><![CDATA[以下是一些值得在 Max 上观看的高评价剧集，以及 5 月份的新内容。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/max-the-34-absolute-best-tv-shows-to-stream-may-2024/#ftag=CAD590a51e</guid>
       <pubDate>Sat, 18 May 2024 14:00:05 GMT</pubDate>
     </item>
     <item>
-      <title>最佳 Verizon 套餐：2024 年 5 月如何选择以及选择哪些套餐 - CNET</title>
+      <title>最佳 Verizon 套餐：如何选择以及 2024 年 5 月该选哪些套餐 - CNET</title>
       <link>https://www.cnet.com/tech/mobile/best-verizon-plans/#ftag=CAD590a51e</link>
       <description><![CDATA[Verizon 有很多计划。我们试图理解它们。]]></description>
       <guid>https://www.cnet.com/tech/mobile/best-verizon-plans/#ftag=CAD590a51e</guid>
@@ -62,18 +69,11 @@
       <pubDate>Sat, 18 May 2024 13:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>Bambu Lab A1 评测：3D 打印机的最佳花销方式 - CNET</title>
+      <title>Bambu Lab A1 评测：3D 打印机花钱的最佳方式 - CNET</title>
       <link>https://www.cnet.com/tech/computing/bambulab-a1-review-as-close-to-perfect-as-ive-ever-used/#ftag=CAD590a51e</link>
       <description><![CDATA[我从未使用过比 A1 Combo 更有意义的 3D 打印机。它是适合任何用户的完整软件包。]]></description>
       <guid>https://www.cnet.com/tech/computing/bambulab-a1-review-as-close-to-perfect-as-ive-ever-used/#ftag=CAD590a51e</guid>
       <pubDate>Sat, 18 May 2024 13:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳智能锁 - CNET</title>
-      <link>https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e</link>
-      <description><![CDATA[智能锁是可定制前门访问的首选：查看我们最喜欢的 August、Aqara、Schlage 等型号。]]></description>
-      <guid>https://www.cnet.com/home/security/best-smart-locks/#ftag=CAD590a51e</guid>
-      <pubDate>Sat, 18 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
