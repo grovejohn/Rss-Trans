@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技网</title>
+    <title>科技资讯网</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
-    <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
-    <lastBuildDate>Sat, 18 May 2024 20:35:50 GMT</lastBuildDate>
+    <description>CNET 新闻编辑和记者提供顶级技术新闻，包括调查性报道和对技术问题和事件的深入报道。</description>
+    <lastBuildDate>Sat, 18 May 2024 21:35:53 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊最佳优惠：100 美元以下购买科技产品、户外装备等 - CNET</title>
+      <link>https://www.cnet.com/deals/best-amazon-deals-get-tech-gadgets-outdoor-gear-and-more-under-100/#ftag=CAD590a51e</link>
+      <description><![CDATA[亚马逊目前在所有类别中都有大量超值优惠。限时抢购，您可以找到许多售价 100 美元或更低的商品。]]></description>
+      <guid>https://www.cnet.com/deals/best-amazon-deals-get-tech-gadgets-outdoor-gear-and-more-under-100/#ftag=CAD590a51e</guid>
+      <pubDate>Sat, 18 May 2024 20:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最佳 iPhone 13、iPhone 13 Pro 和 iPhone 13 Pro Max 手机壳 - CNET</title>
+      <link>https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e</link>
+      <description><![CDATA[以下是我们挑选的 2024 年最佳 iPhone 13、iPhone 13 Pro 和 iPhone 13 Pro Max 手机壳。]]></description>
+      <guid>https://www.cnet.com/tech/mobile/best-iphone-13-cases/#ftag=CAD590a51e</guid>
+      <pubDate>Sat, 18 May 2024 20:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>最佳 Galaxy Watch 优惠：以旧换新免费或 Galaxy Watch 6 立减 60 美元，Galaxy Watch 5 Pro 最高立减 197 美元 - CNET</title>
       <link>https://www.cnet.com/deals/best-galaxy-watch-deals/#ftag=CAD590a51e</link>
@@ -34,7 +48,7 @@
       <pubDate>Sat, 18 May 2024 19:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>蛋白质独家新闻：每日蛋白质需求量的视觉指南 - CNET</title>
+      <title>蛋白质独家新闻：关于您每天需要多少蛋白质的视觉指南 - CNET</title>
       <link>https://www.cnet.com/health/nutrition/the-scoop-on-protein-a-visual-guide-of-how-much-protein-you-need-each-day/#ftag=CAD590a51e</link>
       <description><![CDATA[如果您不知道从哪里开始，那么获取足够的蛋白质来满足您的健康需求可能会很困难。使用这个常用指南来提供帮助。]]></description>
       <guid>https://www.cnet.com/health/nutrition/the-scoop-on-protein-a-visual-guide-of-how-much-protein-you-need-each-day/#ftag=CAD590a51e</guid>
@@ -57,23 +71,9 @@
     <item>
       <title>关闭了您的 Chime 帐户？你可能被欠 150 美元 - CNET</title>
       <link>https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e</link>
-      <description><![CDATA[这家金融科技公司因延迟退款长达三个月而欠下 450 万美元。]]></description>
+      <description><![CDATA[这家金融科技公司因延迟退款长达三个月而欠款 450 万美元。]]></description>
       <guid>https://www.cnet.com/personal-finance/closed-a-chime-account-you-could-get-150-if-you-didnt-get-a-refund-on-time/#ftag=CAD590a51e</guid>
       <pubDate>Sat, 18 May 2024 17:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳内置弹簧床垫 - CNET</title>
-      <link>https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e</link>
-      <description><![CDATA[寻找传统的弹性感觉和增强的支撑？以下是市场上顶级的内置弹簧床，经过我们的专家测试和审查。]]></description>
-      <guid>https://www.cnet.com/health/sleep/best-innerspring-mattress/#ftag=CAD590a51e</guid>
-      <pubDate>Sat, 18 May 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 iPhone 15 优惠：通过以旧换新或换新产品获得免费手机 - CNET</title>
-      <link>https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e</link>
-      <description><![CDATA[iPhone 15 系列是 Apple 迄今为止最好的产品。优惠很少，但还是有的，我们会帮你找到合适的。]]></description>
-      <guid>https://www.cnet.com/deals/best-iphone-15-deals/#ftag=CAD590a51e</guid>
-      <pubDate>Sat, 18 May 2024 16:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
