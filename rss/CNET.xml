@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>科技资讯网</title>
+    <title>CNET</title>
     <link>https://www.cnet.com/#ftag=CAD590a51e</link>
-    <description>CNET 新闻编辑和记者提供顶级技术新闻，包括调查性报道和对技术问题和事件的深入报道。</description>
-    <lastBuildDate>Sun, 19 May 2024 16:15:47 GMT</lastBuildDate>
+    <description>CNET 新闻编辑和记者提供顶级科技新闻，包括对科技问题和事件的调查报道和深入报道。</description>
+    <lastBuildDate>Sun, 19 May 2024 16:38:07 GMT</lastBuildDate>
+    <item>
+      <title>你可能需要电工来安装家用电动汽车充电器 - CNET</title>
+      <link>https://www.cnet.com/roadshow/news/you-might-need-an-electrician-to-install-a-home-ev-charger/#ftag=CAD590a51e</link>
+      <description><![CDATA[根据您需要（或想要）的电动汽车充电器的速度以及您家现有的布线容量，您可能需要完成电气工作。]]></description>
+      <guid>https://www.cnet.com/roadshow/news/you-might-need-an-electrician-to-install-a-home-ev-charger/#ftag=CAD590a51e</guid>
+      <pubDate>Sun, 19 May 2024 16:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>一切改变之前的最后一次 D&D 战役是一场疯狂的旅程 - CNET</title>
       <link>https://www.cnet.com/culture/entertainment/the-last-d-d-campaign-before-everything-changes-is-a-wild-ride/#ftag=CAD590a51e</link>
@@ -36,7 +43,7 @@
     <item>
       <title>2024 年最佳 iPhone VPN - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e</link>
-      <description><![CDATA[使用我们测试过的最佳 iPhone VPN 来随时随地增强您的浏览隐私。]]></description>
+      <description><![CDATA[使用我们测试过的最佳 iPhone VPN 增强您的移动浏览隐私。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/best-iphone-vpn/#ftag=CAD590a51e</guid>
       <pubDate>Sun, 19 May 2024 13:00:00 GMT</pubDate>
     </item>
@@ -48,14 +55,14 @@
       <pubDate>Sun, 19 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>水晶宫对阵阿斯顿维拉的现场直播：如何在任何地方观看英超足球联赛 - CNET</title>
+      <title>水晶宫对阵阿斯顿维拉直播：如何从任何地方观看英超联赛 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/crystal-palace-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e</link>
       <description><![CDATA[老鹰队希望在本赛季继续保持强势，因为他们将面对欧冠联赛的恶棍队。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/crystal-palace-vs-aston-villa-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e</guid>
       <pubDate>Sun, 19 May 2024 12:03:08 GMT</pubDate>
     </item>
     <item>
-      <title>阿森纳对阵埃弗顿的现场直播：如何在任何地方观看英超足球联赛 - CNET</title>
+      <title>阿森纳 vs 埃弗顿直播：如何从任何地方观看英超联赛 - CNET</title>
       <link>https://www.cnet.com/tech/services-and-software/arsenal-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e</link>
       <description><![CDATA[枪手需要在主场取得一场胜利，并希望曼城的失误才能实现他们的冠军梦想。]]></description>
       <guid>https://www.cnet.com/tech/services-and-software/arsenal-vs-everton-livestream-how-to-watch-english-premier-league-soccer-from-anywhere/#ftag=CAD590a51e</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[CNET 评选的杰克逊维尔最佳互联网服务提供商首选是 AT&amp;T 的光纤服务。然而，也有许多替代选择。]]></description>
       <guid>https://www.cnet.com/home/internet/best-internet-providers-in-jacksonville-fl/#ftag=CAD590a51e</guid>
       <pubDate>Sun, 19 May 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何查看您预计的每月社会保障金额 - CNET</title>
-      <link>https://www.cnet.com/personal-finance/how-to-see-your-estimated-monthly-social-security-amount/#ftag=CAD590a51e</link>
-      <description><![CDATA[使用此工具可以帮助您计算退休时的福利金额。]]></description>
-      <guid>https://www.cnet.com/personal-finance/how-to-see-your-estimated-monthly-social-security-amount/#ftag=CAD590a51e</guid>
-      <pubDate>Sun, 19 May 2024 11:15:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
