@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 19 May 2024 11:11:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 May 2024 18:35:33 GMT</lastBuildDate>
+    <item>
+      <title>KDE 框架的 Python 绑定</title>
+      <link>https://alcarazzam.dev/posts/python-bindings-for-kde-frameworks/?utm_source=atom_feed</link>
+      <description><![CDATA[这是我今年夏天将做的项目的简要概述，作为 Google Summer of Code 的一部分。
+正如本文标题所述，我将为 KDE 框架创建 Python 绑定。有超过 70 个库，因此目标是添加对其中三个库的支持：KWidgetsAddons、KCoreAddons 和 KI18n。由于预测每个库需要多少时间有点复杂，如果时间允许，我可能会结束添加对其他库的支持。]]></description>
+      <guid>https://alcarazzam.dev/posts/python-bindings-for-kde-frameworks/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 19 May 2024 17:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 发布框架 5.116.0</title>
       <link>https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed</link>
@@ -191,7 +199,7 @@ Mathis 为 MarkNote 创建了一个 Matrix 通道：
       <pubDate>Fri, 17 May 2024 10:34:59 GMT</pubDate>
     </item>
     <item>
-      <title>KDE e.V.正在寻找环境可持续项目的平面设计师</title>
+      <title>KDE e.V. 正在为环境可持续发展项目寻找平面设计师</title>
       <link>https://ev.kde.org/2024/05/14/2024-05-14-job-kde-eco-graphic-design/?utm_source=atom_feed</link>
       <description><![CDATA[KDE e.V. 是支持 KDE 社区的非营利组织，正在寻找一名图形设计师来为 KDE Eco 内的新环境可持续发展活动实施材料（印刷设计、徽标设计、信息图表等）。请参阅招聘广告，了解有关此职位的更多详细信息机会。
 我们期待您的申请。]]></description>
@@ -219,27 +227,6 @@ Mathis 为 MarkNote 创建了一个 Matrix 通道：
 如果您通过 Gumroad 购买了该书，您将在“图书馆”部分找到新版本。通过 Google Play 购买的图书应该会自动更新到最新版本。如果您在获取本书的最新版本时遇到问题，请通过 dmpop@cameracode 与作者联系。]]></description>
       <guid>https://www.digikam.org/news/2024-04-13_digikam_recipes_2024-05-13_released/?utm_source=atom_feed</guid>
       <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>增强版 KubuQA 简介：跨 Ubuntu 风格彻底改变 ISO 测试</title>
-      <link>https://kubuntu.org/news/introducing-the-enhanced-kubuqa-revolutionising-iso-testing-across-ubuntu-flavors/?utm_source=atom_feed</link>
-      <description><![CDATA[Kubuntu 团队很高兴地宣布对 KubuQA 进行重大更新，这是我们简化的 ISO 测试工具，现已将其功能扩展到 Kubuntu 之外，以支持 Ubuntu 及其所有其他版本。通过这些增强功能，KubuQA 成为一种多功能资源，可确保即将发布的版本（包括 24.04 Noble Numbat 和 24.10 Oraulous Oriole）的测试过程更加流畅、更加直观。
-什么是 KubuQA？
-KubuQA 是 Kubuntu 团队开发的一款专门工具，用于简化 ISO 测试过程。 KubuQA 利用 Kdialog 的强大用户友好图形界面和 VirtualBox 的强大功能来创建和管理虚拟环境，让测试人员能够高效评估 ISO 映像。其设计侧重于可访问性，通过提供清晰的指导性 ISO 测试步骤，使所有技能水平的测试人员都能轻松参与开发过程。
-新功能和扩展
-KubuQA 的最新更新标志着其实用性的显着扩展：
-更广泛的覆盖范围：KubuQA 最初是为 Kubuntu 定制的，现在支持测试 Ubuntu 和所有其他 Ubuntu 版本的 ISO 映像。这种扩大的覆盖范围确保任何基于 Ubuntu 的社区都可以从 KubuQA 提供的强大测试框架中受益。支持最新版本：KubuQA 已更新，包括对最新版本的支持Ubuntu 发布周期，包括 24.04 Noble Numbat 和即将推出的 24.10 Oraulous Oriole。这确保社区可以尽早、经常地开始测试，从而发布更稳定、更完善的版本。增强的用户体验：通过改进 Kdialog 交互，测试人员会发现界面更加流畅。直观且响应灵敏，增强了整体测试体验。
-呼吁 Ubuntu Flavor 潜在客户采取行动
-Kubuntu 团队热衷于与所有 Ubuntu 版本的领导者和测试人员密切合作，采用和调整 KubuQA 以满足他们的测试需求。我们相信，通过共享这个工具，我们可以在整个 Ubuntu 生态系统中培育一个更强大、更有凝聚力的测试社区。
-我们鼓励风味主管尝试 KubuQA，将其集成到他们的测试流程中，并与我们分享反馈。此次合作不仅将改进该工具，还将确保所有 Ubuntu 版本都能在其版本中实现更高的质量和稳定性。
-参与其中
-对于那些有兴趣使用 KubuQA 参与 ISO 测试的人：
-下载工具：您可以在 Kubuntu 上找到 KubuQA Github 团队。加入社区：加入 Kubuntu 社区以获得支持并与其他测试人员联系。您的贡献和反馈对于 KubuQA 的持续改进非常宝贵。
-结论
-KubuQA 的增强体现了我们对提高 Ubuntu 及其衍生产品的质量和可靠性的承诺。通过扩大其覆盖范围并简化测试流程，我们的目标是让更多的贡献者参与开发周期。无论您是经验丰富的测试人员还是社区新手，您的努力对于 Ubuntu 的成功都至关重要。
-我们期待看到不同的社区将如何利用 KubuQA 来增强他们的测试实践。顺便问一下，您是否考虑过成为 Kubuntu 社区 的成员？立即加入我们，为开源软件世界带来改变！]]></description>
-      <guid>https://kubuntu.org/news/introducing-the-enhanced-kubuqa-revolutionising-iso-testing-across-ubuntu-flavors/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 12 May 2024 21:28:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
