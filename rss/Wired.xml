@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 19 May 2024 11:35:59 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Sun, 19 May 2024 12:23:19 GMT</lastBuildDate>
+    <item>
+      <title>Freewrite Alpha 评论：适合只想完成工作的人</title>
+      <link>https://www.wired.com/review/review-freewrite-alpha/</link>
+      <description><![CDATA[我们顽皮地要求我们的审阅者在整整一周内只使用这款无干扰的键盘计算机，几乎没有显示屏。令人烦恼的是，他却喜欢它。]]></description>
+      <guid>https://www.wired.com/review/review-freewrite-alpha/</guid>
+      <pubDate>Sun, 19 May 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>病毒复杂的社会生活</title>
       <link>https://www.wired.com/story/the-complex-social-lives-of-viruses/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sun, 19 May 2024 06:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Razer Fujin Pro 游戏椅评测：让我的背部焕发活力</title>
+      <title>Razer Fujin Pro 游戏椅评测：给我的背部额外的生命</title>
       <link>https://www.wired.com/review/razer-fujin-pro/</link>
       <description><![CDATA[多年来，我一直在努力寻找一把适合我背部的椅子，而不是相反。我的搜索可能已经结束了。]]></description>
       <guid>https://www.wired.com/review/razer-fujin-pro/</guid>
@@ -50,30 +57,23 @@
     <item>
       <title>苹果让你在车里看手机变得更容易</title>
       <link>https://www.wired.com/story/apple-vehicle-motion-cues/</link>
-      <description><![CDATA[另外：索尼音乐试图使其目录摆脱人工智能的控制，有一个高耸的新指环王乐高套装，以及谷歌的新人工智能功能进军网络。]]></description>
+      <description><![CDATA[另外：索尼音乐试图使其目录摆脱人工智能的控制，有一个高耸的新指环王乐高套装，谷歌的新人工智能功能进军网络。]]></description>
       <guid>https://www.wired.com/story/apple-vehicle-motion-cues/</guid>
       <pubDate>Sat, 18 May 2024 11:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>美国官员警告称，蜂窝网络缺陷正被用于间谍活动</title>
+      <title>美国官员警告称，手机网络漏洞可能被用于间谍活动</title>
       <link>https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/</link>
-      <description><![CDATA[另外：朝鲜 IT 工作者诈骗团伙三人被捕，特斯拉员工分享了车主汽车的视频，等等。]]></description>
+      <description><![CDATA[另外：三人在朝鲜 IT 工人欺诈团伙中被捕、特斯拉员工分享了车主汽车的视频等等。]]></description>
       <guid>https://www.wired.com/story/ss7-vulnerability-spies-north-korea-tesla-breachforums/</guid>
       <pubDate>Sat, 18 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Big Dairy 如何在山姆大叔的帮助下接管你的 TikTok Feed</title>
       <link>https://www.wired.com/story/milk-dairy-tiktok-x-instagram-social-feed-takeover/</link>
-      <description><![CDATA[从凯莉·里帕 (Kelly Ripa) 到麦当劳吉祥物鬼脸 (Grimace)，众多名人都帮助推动了乳制品的销售。]]></description>
+      <description><![CDATA[从凯莉·瑞帕 (Kelly Ripa) 到麦当劳吉祥物鬼脸 (Grimace) 等众多名人都为推动乳制品销售做出了贡献。]]></description>
       <guid>https://www.wired.com/story/milk-dairy-tiktok-x-instagram-social-feed-takeover/</guid>
       <pubDate>Sat, 18 May 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗技 Pro X 60 键盘评测：最好、最亮、现在更小</title>
-      <link>https://www.wired.com/review/logitech-pro-x-60/</link>
-      <description><![CDATA[这是一款 60% 的键盘，具有更大、更宽敞的键盘的大部分优点。]]></description>
-      <guid>https://www.wired.com/review/logitech-pro-x-60/</guid>
-      <pubDate>Fri, 17 May 2024 22:02:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
