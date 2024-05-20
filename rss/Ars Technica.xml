@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 20 May 2024 21:36:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 22:36:26 GMT</lastBuildDate>
+    <item>
+      <title>有人真的需要 1,000 Hz 游戏显示器吗？</title>
+      <link>https://arstechnica.com/?p=2025737</link>
+      <description><![CDATA[TCL 的超快 4K LCD 原型让我们思考平滑度回报递减的问题。]]></description>
+      <guid>https://arstechnica.com/?p=2025737</guid>
+      <pubDate>Mon, 20 May 2024 22:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>单个大脑植入物为瘫痪男子提供双语交流</title>
+      <link>https://arstechnica.com/?p=2025698</link>
+      <description><![CDATA[跟踪单词的音节可以让英语和西班牙语训练互相帮助。]]></description>
+      <guid>https://arstechnica.com/?p=2025698</guid>
+      <pubDate>Mon, 20 May 2024 21:50:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 Windows AI 功能会记录您在 PC 上所做的一切</title>
+      <link>https://arstechnica.com/?p=2025690</link>
+      <description><![CDATA[Recall 使用人工智能功能“每隔几秒就拍摄一次活动屏幕的图像”。]]></description>
+      <guid>https://arstechnica.com/?p=2025690</guid>
+      <pubDate>Mon, 20 May 2024 21:43:24 GMT</pubDate>
+    </item>
     <item>
       <title>全新 Arm 驱动的 Surface Pro 和 Surface Laptop 直接瞄准 Apple Silicon Mac</title>
       <link>https://arstechnica.com/?p=2025365</link>
@@ -15,12 +36,12 @@
     <item>
       <title>一周内多次公关受挫后 OpenAI 处于守势</title>
       <link>https://arstechnica.com/?p=2025400</link>
-      <description><![CDATA[性感的声音、离职的员工和 NDA 谣言给这家人工智能公司带来了挑战。]]></description>
+      <description><![CDATA[性感的声音、离职员工以及保密协议谣言都对这家人工智能公司提出了挑战。]]></description>
       <guid>https://arstechnica.com/?p=2025400</guid>
       <pubDate>Mon, 20 May 2024 20:51:57 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 和 iPadOS 17.5.1 修复了旧照片重新出现的严重错误</title>
+      <title>iOS 和 iPadOS 17.5.1 修复了重新出现旧照片的严重错误</title>
       <link>https://arstechnica.com/?p=2025622</link>
       <description><![CDATA[几天前，Reddit 用户和论坛用户发现了该错误。]]></description>
       <guid>https://arstechnica.com/?p=2025622</guid>
@@ -34,7 +55,7 @@
       <pubDate>Mon, 20 May 2024 20:23:37 GMT</pubDate>
     </item>
     <item>
-      <title>你现在可以花 16,000 美元购买一个 4 英尺高的人形机器人</title>
+      <title>现在你可以花 16,000 美元购买一个 4 英尺高的人形机器人</title>
       <link>https://arstechnica.com/?p=2025436</link>
       <description><![CDATA[没有人确切知道你应该用这个机器人做什么，但你可以买一个。]]></description>
       <guid>https://arstechnica.com/?p=2025436</guid>
@@ -50,30 +71,9 @@
     <item>
       <title>M4 iPad Pro 拆解发现更容易使用的电池，一睹串联 OLED 设计</title>
       <link>https://arstechnica.com/?p=2025552</link>
-      <description><![CDATA[简单易懂的平板电脑拆解之后，接下来就是难度可笑的铅笔拆解。]]></description>
+      <description><![CDATA[简单易懂的平板电脑拆解之后，接下来就是难度大得可笑的铅笔拆解。]]></description>
       <guid>https://arstechnica.com/?p=2025552</guid>
       <pubDate>Mon, 20 May 2024 19:35:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>这不是“Windows 12”：尽管发生了重大变化，微软仍保留 Windows 11 品牌</title>
-      <link>https://arstechnica.com/?p=2021701</link>
-      <description><![CDATA[24H2 更新带来了新的编译器、内核和调度程序以及其他更改。]]></description>
-      <guid>https://arstechnica.com/?p=2021701</guid>
-      <pubDate>Mon, 20 May 2024 19:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软“Copilot+”AI PC要求让Intel、AMD尴尬</title>
-      <link>https://arstechnica.com/?p=2025348</link>
-      <description><![CDATA[微软要求 NPU 每秒至少能够执行 40 万亿次运算。]]></description>
-      <guid>https://arstechnica.com/?p=2025348</guid>
-      <pubDate>Mon, 20 May 2024 19:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软表示“Prism”翻译层对 Arm PC 的作用就像 Rosetta 对 Mac 的作用一样</title>
-      <link>https://arstechnica.com/?p=2025352</link>
-      <description><![CDATA[Prism 层是 Windows 11 24H2 中的几项底层检修之一。]]></description>
-      <guid>https://arstechnica.com/?p=2025352</guid>
-      <pubDate>Mon, 20 May 2024 19:00:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
