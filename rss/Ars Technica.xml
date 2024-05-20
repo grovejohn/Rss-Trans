@@ -4,9 +4,44 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 20 May 2024 18:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 19:37:16 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 暂停了 ChatGPT-4o 语音，粉丝称该语音抄袭了斯嘉丽约翰逊</title>
+      <title>这不是“Windows 12”：尽管发生了重大变化，微软仍保留 Windows 11 品牌</title>
+      <link>https://arstechnica.com/?p=2021701</link>
+      <description><![CDATA[24H2 更新带来了新的编译器、内核和调度程序以及其他更改。]]></description>
+      <guid>https://arstechnica.com/?p=2021701</guid>
+      <pubDate>Mon, 20 May 2024 19:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软“Copilot+”AI PC要求让Intel、AMD尴尬</title>
+      <link>https://arstechnica.com/?p=2025348</link>
+      <description><![CDATA[微软要求 NPU 每秒至少能够执行 40 万亿次运算。]]></description>
+      <guid>https://arstechnica.com/?p=2025348</guid>
+      <pubDate>Mon, 20 May 2024 19:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软称“Prism”翻译层对 Arm PC 的作用就像 Rosetta 对 Mac 的作用一样</title>
+      <link>https://arstechnica.com/?p=2025352</link>
+      <description><![CDATA[Prism 层是 Windows 11 24H2 中的几项底层检修之一。]]></description>
+      <guid>https://arstechnica.com/?p=2025352</guid>
+      <pubDate>Mon, 20 May 2024 19:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neuralink 将为第二个人植入大脑芯片，第一人中 85% 的线回缩</title>
+      <link>https://arstechnica.com/?p=2025511</link>
+      <description><![CDATA[算法的调整弥补了损失，Neuralink 认为它已经为下一位患者解决了问题。]]></description>
+      <guid>https://arstechnica.com/?p=2025511</guid>
+      <pubDate>Mon, 20 May 2024 18:48:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>BLM 终止未来在保德河盆地联邦土地上的煤炭开采</title>
+      <link>https://arstechnica.com/?p=2025541</link>
+      <description><![CDATA[此举加剧了煤炭社区实现经济多元化的压力。]]></description>
+      <guid>https://arstechnica.com/?p=2025541</guid>
+      <pubDate>Mon, 20 May 2024 18:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 暂停 ChatGPT-4o 语音，粉丝称其抄袭斯嘉丽·约翰逊</title>
       <link>https://arstechnica.com/?p=2025464</link>
       <description><![CDATA[“Sky 的声音不是斯嘉丽约翰逊的模仿，”OpenAI 坚称。]]></description>
       <guid>https://arstechnica.com/?p=2025464</guid>
@@ -20,9 +55,9 @@
       <pubDate>Mon, 20 May 2024 17:16:17 GMT</pubDate>
     </item>
     <item>
-      <title>大西洋飓风季节即将开始——坚持住</title>
+      <title>大西洋飓风季即将到来——注意安全</title>
       <link>https://arstechnica.com/?p=2025368</link>
-      <description><![CDATA[一支信誉良好的预报团队预测了 33 场命名风暴。]]></description>
+      <description><![CDATA[一个著名的预报小组预测将有 33 场命名风暴。]]></description>
       <guid>https://arstechnica.com/?p=2025368</guid>
       <pubDate>Mon, 20 May 2024 17:00:13 GMT</pubDate>
     </item>
@@ -39,41 +74,6 @@
       <description><![CDATA[这个游戏中的每一个选择都是有代价的。选择参加比赛似乎是一个不错的选择。]]></description>
       <guid>https://arstechnica.com/?p=2025391</guid>
       <pubDate>Mon, 20 May 2024 16:00:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们尝试解读 SpaceX 在佛罗里达州不断变化的星际飞船计划</title>
-      <link>https://arstechnica.com/?p=2024867</link>
-      <description><![CDATA[“在阿耳忒弥斯三号上，我们预计至少使用两个发射场：一个在 KSC，一个在 Starbase。”]]></description>
-      <guid>https://arstechnica.com/?p=2024867</guid>
-      <pubDate>Mon, 20 May 2024 12:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>太空的危险如何影响小行星龙宫</title>
-      <link>https://arstechnica.com/?p=2025328</link>
-      <description><![CDATA[龙宫的母体似乎也含有大量的水。]]></description>
-      <guid>https://arstechnica.com/?p=2025328</guid>
-      <pubDate>Sun, 19 May 2024 11:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>新研究显示燃气灶排放每年导致 19,000 人死亡</title>
-      <link>https://arstechnica.com/?p=2025260</link>
-      <description><![CDATA[加州正在考虑制定一项法律，要求在燃气灶上贴上警告标签。]]></description>
-      <guid>https://arstechnica.com/?p=2025260</guid>
-      <pubDate>Sun, 19 May 2024 11:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的长期 AI 风险团队怎么了？</title>
-      <link>https://arstechnica.com/?p=2025250</link>
-      <description><![CDATA[前团队成员要么辞职，要么被吸收到其他研究小组。]]></description>
-      <guid>https://arstechnica.com/?p=2025250</guid>
-      <pubDate>Sat, 18 May 2024 15:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>意识的本质，以及如何尽可能地享受它</title>
-      <link>https://arstechnica.com/?p=2025246</link>
-      <description><![CDATA[克里斯托夫·科赫在他的新书中将意识视为理论家和爱好者。]]></description>
-      <guid>https://arstechnica.com/?p=2025246</guid>
-      <pubDate>Sat, 18 May 2024 11:31:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
