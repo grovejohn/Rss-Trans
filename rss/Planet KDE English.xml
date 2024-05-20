@@ -4,7 +4,16 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 19 May 2024 18:35:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 12:26:25 GMT</lastBuildDate>
+    <item>
+      <title>请在即将举行的欧洲选举中投票</title>
+      <link>https://wordsmith.social/felix-ernst/please-vote-in-the-upcoming-european-election?utm_source=atom_feed</link>
+      <description><![CDATA[很抱歉打扰您，我也不想处理政治，但考虑到Mastodon 最近在德国失去了非营利组织的地位，而且没有任何解释 我们不能忽视政治对我们所做的事情有很大的直接影响。 
+作为一个每天都与一群友善而聪明的国际人士合作的人，我反对所有那些不断将每次政治失败归咎于移民和外国人的政党，这可能并不奇怪。让我们努力支持遭受恐怖组织或国家袭击的无辜人民。太多的政党对那些试图过上幸福、诚实的生活而忽视或低估公平税收和减少温室气体排放的重要性的人怀有敌意。
+你可能会说：“但是各方都腐败了！” – 嗯，是的。每个群体中都有一定比例的精神病患者。我们甚至在 KDE 中也有一些！ （不过数量少得出奇！）这不应该阻止您做出贡献。请成为您希望在世界上看到的改变并投票给最糟糕的政党！或者不，这是你的生活，我不是你的妈妈。谢谢阅读。 :^)]]></description>
+      <guid>https://wordsmith.social/felix-ernst/please-vote-in-the-upcoming-european-election?utm_source=atom_feed</guid>
+      <pubDate>Mon, 20 May 2024 10:52:08 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 框架的 Python 绑定</title>
       <link>https://alcarazzam.dev/posts/python-bindings-for-kde-frameworks/?utm_source=atom_feed</link>
@@ -199,7 +208,7 @@ Mathis 为 MarkNote 创建了一个 Matrix 通道：
       <pubDate>Fri, 17 May 2024 10:34:59 GMT</pubDate>
     </item>
     <item>
-      <title>KDE e.V. 正在为环境可持续发展项目寻找平面设计师</title>
+      <title>KDE e.V.正在寻找环境可持续项目的平面设计师</title>
       <link>https://ev.kde.org/2024/05/14/2024-05-14-job-kde-eco-graphic-design/?utm_source=atom_feed</link>
       <description><![CDATA[KDE e.V. 是支持 KDE 社区的非营利组织，正在寻找一名图形设计师来为 KDE Eco 内的新环境可持续发展活动实施材料（印刷设计、徽标设计、信息图表等）。请参阅招聘广告，了解有关此职位的更多详细信息机会。
 我们期待您的申请。]]></description>
@@ -219,14 +228,6 @@ Mathis 为 MarkNote 创建了一个 Matrix 通道：
       <description><![CDATA[几周前，我参加了2024 年 4 月 KDE 目标冲刺 我是作为自动化和技术项目的一部分在那里的。鉴于我参与了发布过程，系统化冲刺，关于 CI 状态的“不是很自动化”的每周电子邮件KDE Gear 和 KDE 框架等，但我认为也许我更多的是作为“已经存在很长时间的人，如果你对通过口头传统记录的事情有疑问”我最终并没有在 sprint 主题上做很多工作（尽管我参与了各种讨论，与 Aleix 就 QML 可访问性问题进行了一些结对编程，启发 DavidR 做了 QML-text-missing -i18n 检查他在他的博客中的描述）；相反，我作了一点，并使用冲刺来专注于我积压的一些 KDE 内容，创建 KDE Gear 版本/24.05 分支和大量 MR 审查等等！您的持续捐款&lt; p&gt;请记住，Academy 演讲提交期将在 10 天后结束，立即发送您的演讲！]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/05/kde-goals-april-2024-sprint.html?utm_source=atom_feed</guid>
       <pubDate>Mon, 13 May 2024 12:41:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>digiKam 食谱 2024-05-13 发布</title>
-      <link>https://www.digikam.org/news/2024-04-13_digikam_recipes_2024-05-13_released/?utm_source=atom_feed</link>
-      <description><![CDATA[digiKam 食谱的新版本可供您阅读。新版本涵盖了 digiKam 8.3 中引入的自动标记功能，并解释了如何在容器中运行 digiKam。
-如果您通过 Gumroad 购买了该书，您将在“图书馆”部分找到新版本。通过 Google Play 购买的图书应该会自动更新到最新版本。如果您在获取本书的最新版本时遇到问题，请通过 dmpop@cameracode 与作者联系。]]></description>
-      <guid>https://www.digikam.org/news/2024-04-13_digikam_recipes_2024-05-13_released/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 13 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
