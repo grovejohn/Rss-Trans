@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 20 May 2024 22:36:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 23:36:01 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 暂停了 ChatGPT-4o 语音，粉丝称该语音抄袭了斯嘉丽约翰逊</title>
+      <link>https://arstechnica.com/?p=2025464</link>
+      <description><![CDATA[Johansson 表示，OpenAI 在 9 个月前联系了她，希望她能成为人工智能的代言人。]]></description>
+      <guid>https://arstechnica.com/?p=2025464</guid>
+      <pubDate>Mon, 20 May 2024 22:45:39 GMT</pubDate>
+    </item>
     <item>
       <title>有人真的需要 1,000 Hz 游戏显示器吗？</title>
       <link>https://arstechnica.com/?p=2025737</link>
@@ -20,7 +27,7 @@
       <pubDate>Mon, 20 May 2024 21:50:20 GMT</pubDate>
     </item>
     <item>
-      <title>新的 Windows AI 功能会记录您在 PC 上所做的一切</title>
+      <title>新的 Windows AI 功能可记录你在 PC 上所做的一切</title>
       <link>https://arstechnica.com/?p=2025690</link>
       <description><![CDATA[Recall 使用人工智能功能“每隔几秒就拍摄一次活动屏幕的图像”。]]></description>
       <guid>https://arstechnica.com/?p=2025690</guid>
@@ -36,12 +43,12 @@
     <item>
       <title>一周内多次公关受挫后 OpenAI 处于守势</title>
       <link>https://arstechnica.com/?p=2025400</link>
-      <description><![CDATA[性感的声音、离职员工以及保密协议谣言都对这家人工智能公司提出了挑战。]]></description>
+      <description><![CDATA[性感的声音、离职的员工和 NDA 谣言都给这家人工智能公司带来了挑战。]]></description>
       <guid>https://arstechnica.com/?p=2025400</guid>
       <pubDate>Mon, 20 May 2024 20:51:57 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 和 iPadOS 17.5.1 修复了重新出现旧照片的严重错误</title>
+      <title>iOS 和 iPadOS 17.5.1 修复了旧照片重新出现的严重错误</title>
       <link>https://arstechnica.com/?p=2025622</link>
       <description><![CDATA[几天前，Reddit 用户和论坛用户发现了该错误。]]></description>
       <guid>https://arstechnica.com/?p=2025622</guid>
@@ -64,16 +71,9 @@
     <item>
       <title>惠普复兴 90 年代 OmniBook 品牌，淘汰 Spectre、Dragonfly</title>
       <link>https://arstechnica.com/?p=2025414</link>
-      <description><![CDATA[大多数新款 HP 笔记本电脑都是 OmniBook、ProBook 或 EliteBook。]]></description>
+      <description><![CDATA[大多数新款 HP 笔记本电脑将是 OmniBook、ProBook 或 EliteBook。]]></description>
       <guid>https://arstechnica.com/?p=2025414</guid>
       <pubDate>Mon, 20 May 2024 20:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>M4 iPad Pro 拆解发现更容易使用的电池，一睹串联 OLED 设计</title>
-      <link>https://arstechnica.com/?p=2025552</link>
-      <description><![CDATA[简单易懂的平板电脑拆解之后，接下来就是难度大得可笑的铅笔拆解。]]></description>
-      <guid>https://arstechnica.com/?p=2025552</guid>
-      <pubDate>Mon, 20 May 2024 19:35:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
