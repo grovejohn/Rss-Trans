@@ -4,7 +4,14 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 20 May 2024 14:12:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 14:36:28 GMT</lastBuildDate>
+    <item>
+      <title>幼儿园工作人员误杀婴儿罪名成立</title>
+      <link>https://www.bbc.co.uk/news/uk-england-manchester-69026072</link>
+      <description><![CDATA[凯特·鲁利 (Kate Roughley) 将 9 个月大的婴儿吉纳维夫·米汉 (Genevieve Meehan) 绑在豆袋上，然后离开了她 90 分钟。]]></description>
+      <guid>https://www.bbc.co.uk/news/uk-england-manchester-69026072</guid>
+      <pubDate>Mon, 20 May 2024 14:32:04 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT 因与约翰逊相似而失去声音</title>
       <link>https://www.bbc.com/news/articles/c51188y6n6yo</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[托特尼斯议员安东尼·曼纳尔表示，他希望西南水务公司向德文郡的公司支付他们“应得的”费用。]]></description>
       <guid>https://www.bbc.com/news/articles/c2eep2g95rpo</guid>
       <pubDate>Mon, 20 May 2024 13:52:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>托儿所工作人员犯过失杀害婴儿罪</title>
-      <link>https://www.bbc.co.uk/news/uk-england-manchester-69026072</link>
-      <description><![CDATA[凯特·鲁利 (Kate Roughley) 将 9 个月大的婴儿吉纳维夫·米汉 (Genevieve Meehan) 绑在豆袋上，然后离开了她 90 分钟。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-england-manchester-69026072</guid>
-      <pubDate>Mon, 20 May 2024 13:51:35 GMT</pubDate>
     </item>
     <item>
       <title>央行副行长表示夏季可能降息</title>
@@ -50,7 +50,7 @@
     <item>
       <title>GB News 违规后可能面临 Ofcom 处罚</title>
       <link>https://www.bbc.com/news/articles/cyxxlge97deo</link>
-      <description><![CDATA[广播监管机构表示，该网络被发现违反了应有的公正性规则。]]></description>
+      <description><![CDATA[广播监管机构表示，该网络被发现违反了公正性规则。]]></description>
       <guid>https://www.bbc.com/news/articles/cyxxlge97deo</guid>
       <pubDate>Mon, 20 May 2024 10:28:54 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>巴黎残奥会地铁残疾人通道“耻辱”</title>
       <link>https://www.bbc.com/news/articles/cyrlr5m4rj0o</link>
-      <description><![CDATA[慈善机构表示，在奥运会之前缺乏改善巴黎地铁交通的工作是“可耻的”。]]></description>
+      <description><![CDATA[慈善机构称，奥运会前未能改善巴黎地铁的交通是“可耻的”。]]></description>
       <guid>https://www.bbc.com/news/articles/cyrlr5m4rj0o</guid>
       <pubDate>Mon, 20 May 2024 00:57:42 GMT</pubDate>
     </item>
