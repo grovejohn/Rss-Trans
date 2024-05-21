@@ -4,32 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 20 May 2024 15:36:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 12:51:11 GMT</lastBuildDate>
     <item>
-      <title>6.1 中的新 Plasma 编辑模式</title>
-      <link>https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed</link>
-      <description><![CDATA[在 Plasma 中，当用户想要在桌面中进行一些重大布局更改（例如添加、移动或删除面板或添加和管理桌面小部件）时，将进入所谓的“编辑模式”； ，通过鼠标驱动时通过上下文菜单条目，或通过触摸屏驱动时在桌面上长按。
-让我向您介绍 Plasma 6.1 改进的编辑模式工作流程：
-&lt;视频控件=&quot;controls&quot; src=&quot;https://notmart.org/blog/wp-content/uploads/2024/05/plasma_6.1_edit_mode.webm&quot;&gt;&lt; /视频&gt;
-“编辑模式”这是必要的，因为这是一个潜在破坏性的操作，我们确实希望避免用户在日常使用过程中错误地删除自己的任务栏或某些类似的操作。
-“模式” UI 中的界面是一件微妙的事情：它们也有优势，也有许多可能的问题，当不能立即清楚用户处于哪种模式时就会出现这些问题，并且可以尝试按原样使用 UI。在另一种模式下—— （请参阅 https://www.nngroup.com/articles/modes/ 作为快速介绍模式的优点和缺点）。
-这是 Plasma 中编辑模式的一个问题，因为编辑模式与日常 Plasma 使用的正常 UI 工作流程在视觉上没有明显分离。
-存在的另一个问题是编辑模式工具栏的操作按钮通常被面板配置窗口或添加小部件侧边栏隐藏。
-这种新模式会缩小桌面，并具有与窗口概览效果相同的视觉效果（为了一致性），以很好地区分正常模式和编辑模式。使用相同的缩放效果，它可以使整个桌面“不碍事”。当面板配置窗口的添加小部件侧边栏出现时，确保整个桌面区域始终可访问，小程序可以放置在桌面上的任何位置，并且编辑模式工具栏始终完全可访问。]]></description>
-      <guid>https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 20 May 2024 14:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>榛名1.1.1</title>
+      <title>榛名 1.1.1（更新）</title>
       <link>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</link>
-      <description><![CDATA[Haruna 版本 1.1.1 已发布。
+      <description><![CDATA[更新：Windows 版本因损坏而被删除。
+&lt;小时/&gt;
+Haruna 版本 1.1.1 已发布。
 您现在可以在 flathub 上获取它：
-
-Windows 版本：
-
-haruna-1.1.1-windows- gcc-x86_64.exe
-haruna-1.1.1-windows- gcc-x86_64.7z
-haruna-1.1.1- windows-gcc-x86_64-dbg.7z
 
 其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
 如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
@@ -56,7 +38,60 @@ AB 循环未重置
 播放列表中的播放项目不再是粗体，这使得文本在某些情况下难以阅读
 ]]></description>
       <guid>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 20 May 2024 12:00:00 GMT</pubDate>
+      <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>与 mpv 交互</title>
+      <link>https://haruna.kde.org/blog/2024-05-21-interacting-with-mpv/?utm_source=atom_feed</link>
+      <description><![CDATA[Haruna 允许您通过它的 mpv 命令运行&lt; code&gt;自定义命令设置页面。
+最有用的命令是 set 命令可让您将 mpv 属性设置为某个值。例如，要将 hwdec 属性设置为 vaapi，您可以在 Haruna 的自定义命令页面的命令字段中使用set hwdec vaapi；如果值包含空格，请将其用引号引起来。
+自定义命令可以在启动时触发，也可以通过快捷方式触发（这可以在创建自定义命令时设置）。
+如果您想设置多个命令，您可以创建一个 mpv 配置文件并使用 set include &quot;/path/to/config/file.conf&quot; 加载它。
+&lt;小时/&gt;
+mpv脚本也可以加载，但是使用起来比较麻烦。创建一个加载脚本的自定义命令load-script &quot;/path/to/script.lua&quot;。
+如果您想与脚本交互，则必须创建另一个自定义命令script-message-to target arg1 arg2 ... 脚本消息-to。
+
+target - 脚本的文件名（不带文件扩展名）
+arg1 - 由 register_script_message，可以与函数名相同
+arg2、arg3 等 - 传递给函数的参数
+
+示例：
+-- my_simple_script.lua
+功能 set_volume(音量跨度&gt; &lt;跨度风格=“颜色：#000;字体重量：粗体;”&gt;）
+ mp.commandv(&quot;设置&quot;, &quot;音量&quot;, 体积）
+结束
+
+mp.register_script_message(&quot;set_volume&quot;, set_volume)
+-- ........ ...................^ 在 script-message-to 调用中使用的名称
+
+-- mp.register_script_message(&quot;set_volume&quot;,设置音量）
+-- ........ ................................^函数名称
+
+创建一个包含上述代码的 my_simple_script.lua
+创建自定义命令来加载脚本load-script &quot;/path/to/my_simple_script.lua&quot;
+创建自定义命令（由快捷方式触发）以与脚本交互 script-message-to my_simple_script set_volume 56
+为 script-message-to 自定义命令指定快捷方式
+加载脚本后触发 script-message-to 命令（取决于您如何加载脚本，在启动时还是通过快捷方式加载）
+
+&lt;小时/&gt;
+注意
+运行 flatpak 版本时，脚本将无法访问系统程序/二进制文件/可执行文件。]]></description>
+      <guid>https://haruna.kde.org/blog/2024-05-21-interacting-with-mpv/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>6.1 中的新 Plasma 编辑模式</title>
+      <link>https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed</link>
+      <description><![CDATA[在 Plasma 中，当用户想要在桌面中进行一些重大布局更改（例如添加、移动或删除面板或添加和管理桌面小部件）时，将进入所谓的“编辑模式”； ，通过鼠标驱动时通过上下文菜单条目，或通过触摸屏驱动时在桌面上长按。
+让我向您介绍 Plasma 6.1 改进的编辑模式工作流程：
+&lt;视频控件=&quot;controls&quot; src=&quot;https://notmart.org/blog/wp-content/uploads/2024/05/plasma_6.1_edit_mode.webm&quot;&gt;&lt; /视频&gt;
+“编辑模式”这是必要的，因为这是一个潜在破坏性的操作，我们确实希望避免用户在日常使用过程中错误地删除自己的任务栏或某些类似的操作。
+“模式” UI 中的界面是一件微妙的事情：它们也有优势，也有许多可能的问题，当不能立即清楚用户处于哪种模式时就会出现这些问题，并且可以尝试按原样使用 UI。在另一种模式下—— （请参阅 https://www.nngroup.com/articles/modes/ 作为快速介绍模式的优点和缺点）。
+这是 Plasma 中编辑模式的一个问题，因为编辑模式与日常 Plasma 使用的正常 UI 工作流程在视觉上没有明显分离。
+存在的另一个问题是编辑模式工具栏的操作按钮通常被面板配置窗口或添加小部件侧边栏隐藏。
+这种新模式会缩小桌面，并具有与窗口概览效果相同的视觉效果（为了一致性），以很好地区分正常模式和编辑模式。使用相同的缩放效果，它可以使整个桌面“不碍事”。当面板配置窗口的添加小部件侧边栏出现时，确保整个桌面区域始终可访问，小程序可以放置在桌面上的任何位置，并且编辑模式工具栏始终完全可访问。]]></description>
+      <guid>https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 20 May 2024 14:50:58 GMT</pubDate>
     </item>
     <item>
       <title>请在即将举行的欧洲选举中投票</title>
@@ -259,13 +294,6 @@ Mathis 为 MarkNote 创建了一个 Matrix 通道：
 关于你可以做什么。]]></description>
       <guid>https://carlschwan.eu/2024/05/17/marknote-1.2/?utm_source=atom_feed</guid>
       <pubDate>Fri, 17 May 2024 16:15:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，2024-20 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/05/17/web-review-week-2024-20/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 17 May 2024 10:34:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
