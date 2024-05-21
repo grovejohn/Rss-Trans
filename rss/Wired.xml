@@ -3,12 +3,19 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 21 May 2024 11:12:25 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Tue, 21 May 2024 11:37:12 GMT</lastBuildDate>
     <item>
-      <title>Eventbrite 向寻求成瘾康复帮助的人们推销非法阿片类药物</title>
+      <title>加密货币占星师通过星象观察价格走势</title>
+      <link>https://www.wired.com/story/crypto-astrologers-predictions/</link>
+      <description><![CDATA[他们根据行星运动预测比特币的涨跌，而他们超级隐秘的客户会倾听。]]></description>
+      <guid>https://www.wired.com/story/crypto-astrologers-predictions/</guid>
+      <pubDate>Tue, 21 May 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eventbrite 向寻求戒毒帮助的人们推销非法阿片类药物</title>
       <link>https://www.wired.com/story/sex-drugs-and-eventbrite/</link>
-      <description><![CDATA[《连线》杂志的一项调查发现，数千个 Eventbrite 帖子出售陪护服务以及 Xanax 和羟考酮等药物——该公司的算法将其中一些与成瘾恢复活动一起推荐。]]></description>
+      <description><![CDATA[《连线》杂志的一项调查发现，数千个 Eventbrite 帖子出售陪护服务以及 Xanax 和羟考酮等药物——该公司的算法将其中一些与成瘾康复活动一起推荐。]]></description>
       <guid>https://www.wired.com/story/sex-drugs-and-eventbrite/</guid>
       <pubDate>Tue, 21 May 2024 10:30:00 GMT</pubDate>
     </item>
@@ -27,16 +34,16 @@
       <pubDate>Mon, 20 May 2024 23:38:57 GMT</pubDate>
     </item>
     <item>
-      <title>苹果照片漏洞揭露“已删除”的神话</title>
+      <title>苹果的照片错误揭露了“已删除”的神话</title>
       <link>https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/</link>
-      <description><![CDATA[Apple Photos 的一个故障（现已修复）提醒您，您生活的数字片段将永远存在。]]></description>
+      <description><![CDATA[苹果照片的一个故障现已修复，它提醒您，您生活中的数字片段将永远存在。]]></description>
       <guid>https://www.wired.com/story/apple-photo-bug-resurfaced-fix-icloud/</guid>
       <pubDate>Mon, 20 May 2024 21:57:33 GMT</pubDate>
     </item>
     <item>
       <title>Microsoft Surface Pro（第 11 版）和 Surface Laptop（第 7 版）：规格、价格、功能、发布日期</title>
       <link>https://www.wired.com/story/everything-announced-microsoft-surface-event-2024/</link>
-      <description><![CDATA[有新的 Surface Laptop 和 Surface Pro，以及大量适用于 Windows 的人工智能驱动技巧。]]></description>
+      <description><![CDATA[有新的 Surface Laptop 和 Surface Pro，以及一系列适用于 Windows 的人工智能驱动技巧。]]></description>
       <guid>https://www.wired.com/story/everything-announced-microsoft-surface-event-2024/</guid>
       <pubDate>Mon, 20 May 2024 19:55:07 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 20 May 2024 19:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Discover Samsung 促销活动中的 10 项最佳优惠：电视、智能手机、耳机</title>
+      <title>Discover Samsung 促销活动中的 10 项超值优惠：电视、智能手机、耳机</title>
       <link>https://www.wired.com/story/discover-samsung-summer-event-2024/</link>
       <description><![CDATA[在三星季节性促销活动期间，您可以以优惠价格购买 Galaxy 智能手机和智能手表、Frame 电视等。]]></description>
       <guid>https://www.wired.com/story/discover-samsung-summer-event-2024/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[伦敦的两名法官裁定，维基解密创始人朱利安·阿桑奇可以以言论自由为由对其引渡到美国提出上诉。]]></description>
       <guid>https://www.wired.com/story/julian-assange-court-hearing-appeal-extradition/</guid>
       <pubDate>Mon, 20 May 2024 12:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 款最佳视频门铃摄像头（2024 年）：智能、电池、人工智能、预算和免费订阅</title>
-      <link>https://www.wired.com/gallery/best-video-doorbells/</link>
-      <description><![CDATA[绝不会错过任何一次送货。这些经过 WIRED 测试的镐将帮助您从任何地方密切关注前门。]]></description>
-      <guid>https://www.wired.com/gallery/best-video-doorbells/</guid>
-      <pubDate>Mon, 20 May 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
