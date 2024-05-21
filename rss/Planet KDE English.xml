@@ -4,19 +4,19 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 21 May 2024 12:51:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 May 2024 18:37:12 GMT</lastBuildDate>
     <item>
       <title>榛名 1.1.1（更新）</title>
       <link>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</link>
-      <description><![CDATA[更新：Windows 版本因损坏而被删除。
-&lt;小时/&gt;
-Haruna 版本 1.1.1 已发布。
+      <description><![CDATA[更新：Windows 版本已被删除，因为它们有问题。
+
+Haruna 1.1.1 版已发布。
 您现在可以在 flathub 上获取它：
 
 其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
 如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
-功能请求和错误应发布在 bugs.kde.org&lt; /a&gt;，但对于错误，请确保填写模板并提供尽可能多的信息。
-&lt;小时/&gt;
+功能请求和错误应发布在 bugs.kde.org 上，但对于错误，请确保填写模板并提供尽可能多的信息。
+
 变更日志：
 1.1.1
 错误修复：
@@ -24,18 +24,18 @@ Haruna 版本 1.1.1 已发布。
 字幕菜单不包括手动添加的字幕
 播放列表中的持续时间为 0
 音频文件的预览弹出窗口可见
-AB 循环未重置
+AB 循环不重置
 
 1.1.0
-特点：
+功能：
 
-设置为通过单击打开播放列表项目
+设置为单击打开播放列表项
 
 错误修复：
 
-使用 mpv 版本 0.38.0 时在单独的窗口中打开视频
-打开新文件时重置静音
-播放列表中的播放项目不再是粗体，这使得文本在某些情况下难以阅读
+使用 mpv 版本 0.38.0 时在单独窗口中打开视频
+打开新文件时静音重置
+播放列表中的播放项不再加粗，在某些情况下会使文本难以阅读
 ]]></description>
       <guid>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</guid>
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
@@ -80,6 +80,21 @@ mp.register_script_message(&quot;set_volume&quot;, set_volume)
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>KDE Plasma 6.0.5，五月份发布错误修正</title>
+      <link>https://kde.org/announcements/plasma/6/6.0.5/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 5 月 21 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.5 的错误修复更新。
+
+此版本添加了 KDE 贡献者一个月的新翻译和修复。错误修复通常很小但很重要，包括：
+
+Konqi 博士：邮递员：别跑得太频繁。 提交。
+每日壁纸：修复 Qt6.7 中拖动预览图像的问题。 提交。
+修复键盘导航。 提交。修复错误#485588。修复错误 #477348
+
+查看完整变更日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.0.5/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>6.1 中的新 Plasma 编辑模式</title>
       <link>https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed</link>
       <description><![CDATA[在 Plasma 中，当用户想要在桌面中进行一些重大布局更改（例如添加、移动或删除面板或添加和管理桌面小部件）时，将进入所谓的“编辑模式”； ，通过鼠标驱动时通过上下文菜单条目，或通过触摸屏驱动时在桌面上长按。
@@ -98,7 +113,7 @@ mp.register_script_message(&quot;set_volume&quot;, set_volume)
       <link>https://wordsmith.social/felix-ernst/please-vote-in-the-upcoming-european-election?utm_source=atom_feed</link>
       <description><![CDATA[很抱歉打扰您，我也不想处理政治，但考虑到Mastodon 最近在德国失去了非营利组织的地位，而且没有任何解释 我们不能忽视政治对我们所做的事情有很大的直接影响。 
 作为一个每天都与一群友善而聪明的国际人士合作的人，我反对所有那些不断将每次政治失败归咎于移民和外国人的政党，这可能并不奇怪。让我们努力支持遭受恐怖组织或国家袭击的无辜人民。太多的政党对那些试图过上幸福、诚实的生活而忽视或低估公平税收和减少温室气体排放的重要性的人怀有敌意。
-你可能会说：“但是各方都腐败了！” – 嗯，是的。每个群体中都有一定比例的精神病患者。我们甚至在 KDE 中也有一些！ （不过数量少得出奇！）这不应该阻止您做出贡献。请成为您希望在世界上看到的改变并投票给最糟糕的政党！或者不，这是你的生活，我不是你的妈妈。谢谢阅读。 :^)]]></description>
+你可能会说：“但是各方都腐败了！” – 嗯，确实如此。每个群体中都有一定比例的精神病患者。我们甚至在 KDE 中也有一些！ （不过数量少得出奇！）这不应该阻止您做出贡献。请成为您希望在世界上看到的改变并投票给最糟糕的政党！或者不，这是你的生活，我不是你的妈妈。谢谢阅读。 :^)]]></description>
       <guid>https://wordsmith.social/felix-ernst/please-vote-in-the-upcoming-european-election?utm_source=atom_feed</guid>
       <pubDate>Mon, 20 May 2024 10:52:08 GMT</pubDate>
     </item>
@@ -215,85 +230,6 @@ pub rsa2048/58D0EE648A48B3BB 2016-09-05 大卫·福尔 faure@kde.org
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/05/17/this-week-in-kde-all-about-those-apps/?utm_source=atom_feed</guid>
       <pubDate>Sat, 18 May 2024 04:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克笔记1.2</title>
-      <link>https://carlschwan.eu/2024/05/17/marknote-1.2/?utm_source=atom_feed</link>
-      <description><![CDATA[MarkNote 团队很高兴地宣布发布 KDE 的 MarkNote 1.2 版本
-所见即所得笔记应用程序。 Marknote 可让您创建富文本注释并
-轻松地将它们整理到笔记本中。您可以通过以下方式个性化您的笔记本
-为每个图标选择一个图标和强调色，使其易于区分
-并让您的笔记触手可及。您的笔记另存为
-Documents 文件夹中的 Markdown 文件，让您轻松使用笔记
-Marknote 外部以及应用程序内部。
-笔记管理
-此版本带来了人们非常想要的功能，例如选择自定义的功能
-存储笔记的文件夹。 Mathis Brüchert 还添加了以下功能：
-将笔记排序从字母顺序更改为按日期排序。
-Mathis 使侧边栏可折叠，并添加了焦点模式，除了
-显示编辑页面。
-
-
-
-最后，如果您更喜欢仅使用 Marknote 作为 Markdown 编辑器，我们做到了
-可以直接从文件浏览器或
-安慰。此外，Marknote 支持带有所谓的 front 的 Markdown 文件
-Matter，这是静态网站中向 Markdown 注入元数据的常用方法
-像 Hugo 和 Jekyll 这样的生成器。
-编辑
-版本支持方面，支持的markdown子集再次增加。
-现在可以添加和编辑表格。
-&lt;图&gt;
-
-
-
-
-此外，我们开始将内联 Markdown 直接转换为富文本：
-你输入。支持仅限于一些降价结构，但很可能
-随着时间的推移而成长。
-
-
-
-您现在可以自定义编辑器使用的字体。
-&lt;图&gt;
-
-
-
-
-除了能够编辑文本之外，现在还可以创建草图
-直接来自 MarkNote。
-&lt;图&gt;
-
-
-
-
-移动支持
-Mathis 负责确保 MarkNote 在与 Plasma Mobile 一起使用时完全可用。
-
-
-
-Windows 和 macOS 支持
-Marknote 现在提供适用于 Windows 和 macOS 的夜间版本。虽然Windows
-构建应该完全可用，macOS 构建仍然存在一个问题，大多数
-不显示图标。一旦我们可以利用这个问题就应该解决
-新的 KIconTheme 版本。
-作为改进 macOS 支持工作的一部分，Marknote 也获得了全球关注
-Linux 的菜单支持。
-其他
-
-命令栏将显示翻译后的快捷方式。 （洛朗·蒙特尔）
-统一 MarkNote 的拼写并修复 README.md 中的拼写错误 (Jonah Brüchert)
-
-参与其中
-Mathis 为 MarkNote 创建了一个 Matrix 通道：
-#marknote:kde.org。有
-还有很多可以在任何地方进行的小改进
-不需要很多编程经验。看看这两个任务
-!31 和
-!27 获取一些灵感
-关于你可以做什么。]]></description>
-      <guid>https://carlschwan.eu/2024/05/17/marknote-1.2/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 17 May 2024 16:15:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
