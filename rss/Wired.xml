@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 22 May 2024 13:35:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 14:12:41 GMT</lastBuildDate>
+    <item>
+      <title>尽管有新的无钥匙技术，特斯拉仍然可以通过廉价的无线电黑客被盗</title>
+      <link>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</link>
+      <description><![CDATA[超宽带无线电被誉为“中继攻击”的解决方案，可在几秒钟内窃取汽车。但研究人员发现配备它的特斯拉仍然像以前一样容易受到攻击。]]></description>
+      <guid>https://www.wired.com/story/tesla-ultra-wideband-radio-relay-attacks/</guid>
+      <pubDate>Wed, 22 May 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能背后的低薪人类要求拜登将他们从“现代奴隶制”中解放出来</title>
       <link>https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>如何清除浏览器的缓存，以及为什么应该这样做</title>
       <link>https://www.wired.com/story/how-to-clear-your-browsers-cache/</link>
-      <description><![CDATA[所有浏览器都会自动在本地存储数据，这可以加快网页浏览速度，但也会引起问题。以下是如何解决这个问题。]]></description>
+      <description><![CDATA[所有浏览器都会自动将数据存储在本地，这可以加快网页浏览速度，但也会带来问题。下面介绍如何解决此问题。]]></description>
       <guid>https://www.wired.com/story/how-to-clear-your-browsers-cache/</guid>
       <pubDate>Wed, 22 May 2024 12:00:00 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>我们站在纽约-都柏林门户的两侧，这是光荣的</title>
       <link>https://www.wired.com/story/new-york-dublin-portal-reopening/</link>
-      <description><![CDATA[数百人和两名《连线》记者聚集在该门户前，该门户因“不当行为”而关闭后再次开放。]]></description>
+      <description><![CDATA[数百人和两名《连线》杂志记者聚集在该门户网站，该门户网站因“不当行为”而关闭后再次开放。]]></description>
       <guid>https://www.wired.com/story/new-york-dublin-portal-reopening/</guid>
       <pubDate>Wed, 22 May 2024 09:00:00 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>Neuralink 的第一位用户通过他的大脑植入物“不断地处理多项任务”</title>
       <link>https://www.wired.com/story/neuralink-first-patient-interview-noland-arbaugh-elon-musk/</link>
-      <description><![CDATA[诺兰·阿博 (Noland Arbaugh) 是第一个获得埃隆·马斯克 (Elon Musk) 大脑设备的人。这位 30 岁的年轻人向《连线》杂志讲述了用自己的思维使用电脑并获得新的独立感的感觉。]]></description>
+      <description><![CDATA[诺兰·阿博是第一个获得伊隆·马斯克大脑设备的人。这位 30 岁的年轻人向《连线》杂志讲述了用大脑操控电脑的感受——以及获得一种新的独立感。]]></description>
       <guid>https://www.wired.com/story/neuralink-first-patient-interview-noland-arbaugh-elon-musk/</guid>
       <pubDate>Wed, 22 May 2024 06:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hulu 上目前最佳的 36 部节目（2024 年 5 月）</title>
-      <link>https://www.wired.com/story/best-tv-shows-hulu-this-week/</link>
-      <description><![CDATA[《黑色推特：人民的历史》、《幕府将军》和《桥下》只是本月您应该在 Hulu 上观看的几个节目。]]></description>
-      <guid>https://www.wired.com/story/best-tv-shows-hulu-this-week/</guid>
-      <pubDate>Tue, 21 May 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
