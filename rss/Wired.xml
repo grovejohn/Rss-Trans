@@ -4,9 +4,23 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Wed, 22 May 2024 05:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 06:18:04 GMT</lastBuildDate>
     <item>
-      <title>目前 Hulu 上最好的 36 部节目（2024 年 5 月）</title>
+      <title>Neuralink 的首位用户正在用他的大脑植入物“不断地进行多任务处理”</title>
+      <link>https://www.wired.com/story/neuralink-first-patient-interview-noland-arbaugh-elon-musk/</link>
+      <description><![CDATA[诺兰·阿博 (Noland Arbaugh) 是第一个获得埃隆·马斯克 (Elon Musk) 大脑设备的人。这位 30 岁的年轻人向《连线》杂志讲述了用自己的思维使用电脑并获得新的独立感的感觉。]]></description>
+      <guid>https://www.wired.com/story/neuralink-first-patient-interview-noland-arbaugh-elon-musk/</guid>
+      <pubDate>Wed, 22 May 2024 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>印度极右新闻网站发布种族主义阴谋。美国科技公司不断将其平台化</title>
+      <link>https://www.wired.com/story/india-opindia-google-facebook-advertising/</link>
+      <description><![CDATA[OpIndia 声称“伊斯兰恐惧症不存在”。与《连线》杂志独家分享的一份新报告发现，谷歌的程序化广告正在其内容旁边投放。]]></description>
+      <guid>https://www.wired.com/story/india-opindia-google-facebook-advertising/</guid>
+      <pubDate>Wed, 22 May 2024 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hulu 上目前最佳的 36 部节目（2024 年 5 月）</title>
       <link>https://www.wired.com/story/best-tv-shows-hulu-this-week/</link>
       <description><![CDATA[《黑色推特：人民的历史》、《幕府将军》和《桥下》只是本月您应该在 Hulu 上观看的几个节目。]]></description>
       <guid>https://www.wired.com/story/best-tv-shows-hulu-this-week/</guid>
@@ -22,12 +36,12 @@
     <item>
       <title>谷歌利用人工智能向购物者展示衣服如何适合不同的身体</title>
       <link>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</link>
-      <description><![CDATA[一种新型在线广告允许品牌向谷歌付费，为购物者提供人工智能生成的图像，展示服装在不同肤色和体型上的外观。]]></description>
+      <description><![CDATA[一种新型在线广告允许品牌向谷歌付费，为购物者提供人工智能生成的图像，展示服装在不同肤色和体型上的效果。]]></description>
       <guid>https://www.wired.com/story/google-ai-shopping-clothes-fit-different-bodies/</guid>
       <pubDate>Tue, 21 May 2024 16:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能是一个黑匣子。Anthropic 找到了一种观察其内部的方法</title>
+      <title>人工智能是一个黑匣子。人类想出了一种观察内部的方法</title>
       <link>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</link>
       <description><![CDATA[人工神经网络的工作原理在很大程度上是一个谜，即使对于它们的创造者来说也是如此。但 Anthropic 的研究人员已经看到了这一点。]]></description>
       <guid>https://www.wired.com/story/anthropic-black-box-ai-research-neurons-features/</guid>
@@ -36,7 +50,7 @@
     <item>
       <title>8 款最佳电动牙刷（2024 年）：便宜、智能、儿童和替代品</title>
       <link>https://www.wired.com/gallery/best-electric-toothbrushes/</link>
-      <description><![CDATA[这些可充电和电池供电的型号让更好的口腔卫生变得触手可及。]]></description>
+      <description><![CDATA[这些可充电和电池供电的型号让更好的口腔卫生触手可及。]]></description>
       <guid>https://www.wired.com/gallery/best-electric-toothbrushes/</guid>
       <pubDate>Tue, 21 May 2024 14:30:00 GMT</pubDate>
     </item>
@@ -57,23 +71,9 @@
     <item>
       <title>Adobe Lightroom 中由 AI 驱动的生成删除功能可在几秒钟内删除难看的对象</title>
       <link>https://www.wired.com/story/adobe-lightroom-generative-remove/</link>
-      <description><![CDATA[Adobe 的新技巧借鉴了 Google 的 Magic Eraser，在生成式 AI 的帮助下改进了现有工具。]]></description>
+      <description><![CDATA[受到谷歌 Magic Eraser 的启发，Adobe 的新技巧在生成式人工智能的帮助下改进了现有工具。]]></description>
       <guid>https://www.wired.com/story/adobe-lightroom-generative-remove/</guid>
       <pubDate>Tue, 21 May 2024 13:39:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国正在与主要盟友组建全球人工智能安全网络</title>
-      <link>https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/</link>
-      <description><![CDATA[美国商务部长吉娜·雷蒙多表示，美国正在与英国、日本和加拿大等其他国家合作，管理人工智能带来的风险。]]></description>
-      <guid>https://www.wired.com/story/us-forming-global-ai-safety-network-key-allies/</guid>
-      <pubDate>Tue, 21 May 2024 13:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonos 终于推出耳机了，我们很兴奋</title>
-      <link>https://www.wired.com/story/sonos-ace-news/</link>
-      <description><![CDATA[虽然已经等了很长时间了，但 Sonos Ace 是您一直在等待的耳机。]]></description>
-      <guid>https://www.wired.com/story/sonos-ace-news/</guid>
-      <pubDate>Tue, 21 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
