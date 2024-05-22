@@ -3,8 +3,15 @@
   <channel>
     <title>美国之音</title>
     <link>https://www.voanews.com</link>
-    <description>美国之音是一个国际新闻和广播组织，服务于中欧和东欧、高加索、中亚、俄罗斯、中东和巴尔干国家</description>
-    <lastBuildDate>Wed, 22 May 2024 11:12:10 GMT</lastBuildDate>
+    <description>美国之音是一家国际新闻和广播机构，服务于中欧和东欧、高加索、中亚、俄罗斯、中东和巴尔干国家</description>
+    <lastBuildDate>Wed, 22 May 2024 11:36:36 GMT</lastBuildDate>
+    <item>
+      <title>美国之音新闻广播</title>
+      <link>https://www.voanews.com/a/7602098.html</link>
+      <description><![CDATA[给我们 5 分钟，我们将给您整个世界。美国之音全天候让您了解最新新闻。我们为您带来我们记者的报道以及对世界各地新闻人物的采访。]]></description>
+      <guid>https://www.voanews.com/a/7602098.html</guid>
+      <pubDate>Wed, 22 May 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>五角大楼称俄罗斯在美国卫星路径上发射了太空武器</title>
       <link>https://www.voanews.com/a/pentagon-says-russia-launched-space-weapon-in-path-of-us-satellite-/7622198.html</link>
@@ -79,16 +86,16 @@
 研究人员表示，这种所谓的 Hydro Harvester 每天能够生产多达 1,000 升饮用水，可以“在干旱或紧急情况下挽救生命”。
 
 
-该装置从大气中吸收水分。例如，利用工业过程中产生的太阳能或热量来产生湿热空气。然后冷却，产生用于饮用或灌溉的水。
+该装置从大气中吸收水分。例如，工业过程中利用的太阳能或热量可用来产生湿热的空气。然后冷却，产生用于饮用或灌溉的水。
 
 
 澳大利亚团队表示，与其他商用大气水发生器不同，他们的发明通过加热空气而不是冷却空气来工作。
 
 
-化学工程师、纽卡斯尔大学创新能源技术中心主任、获奖者贝达德·莫塔德里 (Behdad Moghtaderi) 教授向美国之音介绍了该技术的运作方式。
+化学工程师、纽卡斯尔大学创新能源技术中心主任、获奖者贝达德·莫塔德里 (Behdad Moghtaderi) 教授向美国之音介绍了该技术的运作方式。  
 
 
-“水力收割机使用吸收材料来吸收和溶解空气中的水分。因此，本质上，我们使用可再生能源，例如太阳能或废热。我们基本上从系统中产生超饱和、热、潮湿的空气，”莫塔德里说。“当你冷凝空气中的水时，你就可以得到饮用水了。”
+“水力收割机使用吸收材料来吸收和溶解空气中的水分。因此，本质上，我们使用可再生能源，例如太阳能或废热。我们基本上在系统外产生超饱和、热、潮湿的空气，”莫塔德里说。“当你冷凝空气中的水时，你就可以得到饮用水了。”
 
 
 研究人员表示，该设备每天可以生产足够的饮用水来维持一个最多 400 人的乡村小镇的用水。它还可以帮助农民在干旱期间保持牲畜的生存。
@@ -109,7 +116,7 @@
 国际研究组织世界经济论坛表示，“水资源短缺仍然是一个普遍的全球挑战。”
 
 
-它认为，大气制水技术是一种“有前途的应急解决方案，可以利用空气中的水分立即生成饮用水。”
+它认为，大气制水技术是一种“有前途的应急解决方案，可以利用空气中的水分立即生成饮用水”。
 
 
 然而，它警告说，一般来说，这项技术并不便宜，并估计一个中型商业装置的成本可能在 30,000 到 50,000 美元之间。]]></description>
@@ -150,13 +157,6 @@
       <description><![CDATA[给我们 5 分钟，我们将给您整个世界。美国之音全天候让您了解最新新闻。我们为您带来我们记者的报道以及对世界各地新闻人物的采访。]]></description>
       <guid>https://www.voanews.com/a/7602038.html</guid>
       <pubDate>Wed, 22 May 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯报告在西部地区击落乌克兰无人机和导弹</title>
-      <link>https://www.voanews.com/a/russia-reports-downing-ukrainian-drones-missiles-in-western-regions/7622096.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.voanews.com/a/russia-reports-downing-ukrainian-drones-missiles-in-western-regions/7622096.html</guid>
-      <pubDate>Wed, 22 May 2024 06:56:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
