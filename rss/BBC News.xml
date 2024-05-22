@@ -4,7 +4,14 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 22 May 2024 07:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 08:17:37 GMT</lastBuildDate>
+    <item>
+      <title>发布暴雨和洪水黄色预警</title>
+      <link>https://www.bbc.com/news/articles/cljjrndg90eo</link>
+      <description><![CDATA[许多地区可能会在周三和周四面临旅行中断。]]></description>
+      <guid>https://www.bbc.com/news/articles/cljjrndg90eo</guid>
+      <pubDate>Wed, 22 May 2024 08:02:59 GMT</pubDate>
+    </item>
     <item>
       <title>前邮局局长保拉·文内尔斯 (Paula Vennells) 到场在调查中提供证据</title>
       <link>https://www.bbc.co.uk/news/live/uk-69042928</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[杰夫·基钦（Geoff Kitchen）是“一位极其诚实和正直的绅士”，他帮助管理的当地剧团说道。]]></description>
       <guid>https://www.bbc.com/news/articles/c4nnqgexjp1o</guid>
       <pubDate>Wed, 22 May 2024 06:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布暴雨和洪水黄色预警</title>
-      <link>https://www.bbc.com/news/articles/cljjrndg90eo</link>
-      <description><![CDATA[许多地区可能会在周三和周四面临旅行中断。]]></description>
-      <guid>https://www.bbc.com/news/articles/cljjrndg90eo</guid>
-      <pubDate>Wed, 22 May 2024 06:54:43 GMT</pubDate>
     </item>
     <item>
       <title>观看：乘客走过新加坡航空失事客舱</title>
@@ -41,21 +41,21 @@
       <pubDate>Wed, 22 May 2024 06:23:18 GMT</pubDate>
     </item>
     <item>
-      <title>爱尔兰、挪威和西班牙承认巴勒斯坦国</title>
+      <title>爱尔兰、挪威和西班牙下周承认巴勒斯坦国</title>
       <link>https://www.bbc.co.uk/news/live/world-69047220</link>
-      <description><![CDATA[以色列外交部警告称，此举将“助长极端主义和不稳定”。]]></description>
+      <description><![CDATA[以色列外长称这三个国家的决定是“扭曲的一步”，这表明“恐怖主义是有代价的”。]]></description>
       <guid>https://www.bbc.co.uk/news/live/world-69047220</guid>
       <pubDate>Wed, 22 May 2024 06:12:16 GMT</pubDate>
     </item>
     <item>
-      <title>英国通胀率降至2.3%，近三年来最低水平</title>
+      <title>随着能源价格降温，英国通胀率降至 2.3%</title>
       <link>https://www.bbc.co.uk/news/live/business-69027403</link>
       <description><![CDATA[“今天标志着经济的一个重要时刻，通货膨胀恢复正常，”Rishi Sunak 说。]]></description>
       <guid>https://www.bbc.co.uk/news/live/business-69027403</guid>
       <pubDate>Wed, 22 May 2024 05:08:55 GMT</pubDate>
     </item>
     <item>
-      <title>因鲜为人知的命令而被拘留的儿童在年满 18 岁后发声</title>
+      <title>被鲜为人知的命令拘留的儿童在年满 18 岁后发声</title>
       <link>https://www.bbc.com/news/articles/c9xxyl3gp39o</link>
       <description><![CDATA[因剥夺自由令而被拘留的年轻人讲述了他们的经历。]]></description>
       <guid>https://www.bbc.com/news/articles/c9xxyl3gp39o</guid>
@@ -64,7 +64,7 @@
     <item>
       <title>英国监管机构正在调查微软人工智能截图</title>
       <link>https://www.bbc.com/news/articles/cpwwqp6nx14o</link>
-      <description><![CDATA[ICO 想了解 Recall 的安全措施，它可以每隔几秒就截取你的屏幕截图。]]></description>
+      <description><![CDATA[ICO 希望了解 Recall 周围的安全措施，它可以每隔几秒抓取您的屏幕截图。]]></description>
       <guid>https://www.bbc.com/news/articles/cpwwqp6nx14o</guid>
       <pubDate>Tue, 21 May 2024 23:00:11 GMT</pubDate>
     </item>
