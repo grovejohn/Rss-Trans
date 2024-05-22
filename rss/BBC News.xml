@@ -4,7 +4,7 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Wed, 22 May 2024 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 May 2024 15:35:22 GMT</lastBuildDate>
     <item>
       <title>幼儿园工作人员因婴儿死亡被判入狱14年</title>
       <link>https://www.bbc.co.uk/news/uk-england-manchester-69048043</link>
@@ -15,7 +15,7 @@
     <item>
       <title>英国的突破可能会减少水泥的排放</title>
       <link>https://www.bbc.com/news/articles/cxee01m5yero</link>
-      <description><![CDATA[剑桥大学的科学家找到了一种巧妙的方法来对世界上污染最严重的物质之一进行脱碳。]]></description>
+      <description><![CDATA[剑桥大学的科学家找到了一种巧妙的方法来使世界上污染最严重的材料之一脱碳。]]></description>
       <guid>https://www.bbc.com/news/articles/cxee01m5yero</guid>
       <pubDate>Wed, 22 May 2024 15:01:10 GMT</pubDate>
     </item>
@@ -27,13 +27,6 @@
       <pubDate>Wed, 22 May 2024 14:39:55 GMT</pubDate>
     </item>
     <item>
-      <title>克里斯·梅森：这次选举猜测感觉不同</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-69048696</link>
-      <description><![CDATA[威斯敏斯特正被提前大选的传闻所困扰——现在所有人的目光都集中在里希·苏纳克身上，以澄清此事。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-69048696</guid>
-      <pubDate>Wed, 22 May 2024 14:12:16 GMT</pubDate>
-    </item>
-    <item>
       <title>爱尔兰、挪威和西班牙承认巴勒斯坦国</title>
       <link>https://www.bbc.com/news/articles/c4nn78r3w3ko</link>
       <description><![CDATA[以色列表示，此举不会在该地区创造和平，正中哈马斯的下怀。]]></description>
@@ -41,9 +34,16 @@
       <pubDate>Wed, 22 May 2024 14:08:17 GMT</pubDate>
     </item>
     <item>
+      <title>前邮局老板作证时哭泣</title>
+      <link>https://www.bbc.co.uk/news/business-69047667</link>
+      <description><![CDATA[前邮局老板保拉·文内尔斯 (Paula Vennells) 十年来首次谈论这一事件。]]></description>
+      <guid>https://www.bbc.co.uk/news/business-69047667</guid>
+      <pubDate>Wed, 22 May 2024 12:05:36 GMT</pubDate>
+    </item>
+    <item>
       <title>下议院为因败血症失去肢体的议员鼓掌</title>
       <link>https://www.bbc.co.uk/news/uk-politics-69048172</link>
-      <description><![CDATA[保守党议员克雷格·麦金莱 (Craig Mackinlay) 因败血症失去手脚后抵达下议院。]]></description>
+      <description><![CDATA[保守党议员克雷格·麦金莱因败血症失去手脚后抵达下议院。]]></description>
       <guid>https://www.bbc.co.uk/news/uk-politics-69048172</guid>
       <pubDate>Wed, 22 May 2024 11:08:50 GMT</pubDate>
     </item>
@@ -62,14 +62,14 @@
       <pubDate>Wed, 22 May 2024 11:02:13 GMT</pubDate>
     </item>
     <item>
-      <title>随着选举讨论的增加，内阁会议和“日记被清除”</title>
+      <title>Rishi Sunak 预计将很快宣布夏季大选</title>
       <link>https://www.bbc.co.uk/news/live/uk-politics-69042935</link>
-      <description><![CDATA[随着卡梅伦勋爵和格兰特·沙普斯改变计划，唐宁街仅表示选举将于 2024 年下半年举行。]]></description>
+      <description><![CDATA[在猜测不断增加后，预计首相很快将在唐宁街发表声明。]]></description>
       <guid>https://www.bbc.co.uk/news/live/uk-politics-69042935</guid>
       <pubDate>Wed, 22 May 2024 10:17:13 GMT</pubDate>
     </item>
     <item>
-      <title>前邮局老板保拉·文内尔斯 (Paula Vennells) 在调查中哭泣，并承认向国会议员提供的证据并不真实</title>
+      <title>前邮局局长 Paula Vennells 在调查中哭泣并承认向议员提供的证据不属实</title>
       <link>https://www.bbc.co.uk/news/live/uk-69042928</link>
       <description><![CDATA[这位前首席执行官还表示，她多年来并不知道邮局正在进行自己的起诉。]]></description>
       <guid>https://www.bbc.co.uk/news/live/uk-69042928</guid>
