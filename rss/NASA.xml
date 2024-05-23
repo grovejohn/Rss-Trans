@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Thu, 23 May 2024 18:37:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 19:11:36 GMT</lastBuildDate>
+    <item>
+      <title>什么是 3D-MAT？</title>
+      <link>https://www.nasa.gov/centers-and-facilities/ames/what-is-3d-mat/</link>
+      <description><![CDATA[适用于 Artemis 一代的热防护材料 3 维多功能烧蚀热防护系统 (3D-MAT) 是一种热防护材料，是作为 NASA 为人类深空任务建造的最新航天器 Orion 的关键组件而开发的。它能够在重返地球期间保持高强度，同时承受极端温度[…]]]></description>
+      <guid>https://www.nasa.gov/centers-and-facilities/ames/what-is-3d-mat/</guid>
+      <pubDate>Thu, 23 May 2024 18:38:26 GMT</pubDate>
+    </item>
     <item>
       <title>早期宇宙中活跃形成的星系以冷气体为食</title>
       <link>https://science.nasa.gov/missions/webb/galaxies-actively-forming-in-early-universe-caught-feeding-on-cold-gas/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[配备各种轻型滤光片的新型高分辨率红外相机可以探测地球高层大气和表面反射的阳光，改善森林火灾警报，并揭示其他行星的分子组成。这些相机使用灵敏的高分辨率应变层超晶格传感器，最初是在马里兰州格林贝尔特的 NASA 戈达德太空飞行中心使用 IRAD 开发的，[…]]]></description>
       <guid>https://www.nasa.gov/technology/goddard-tech/compact-infrared-cameras/</guid>
       <pubDate>Wed, 22 May 2024 18:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA和IBM研究院将发布针对天气和气候的新型AI模型</title>
-      <link>https://science.nasa.gov/open-science/ai-model-weather-climate/</link>
-      <description><![CDATA[作者：Jessica Barnett NASA 和 IBM 研究中心合作开发了一种新的人工智能模型来支持各种天气和气候应用。新模型 - 被称为 Prithvi 天气气候基础模型 - 使用人工智能 (AI) 的方式可以大大提高我们能够获得的分辨率，打开 [...]]]></description>
-      <guid>https://science.nasa.gov/open-science/ai-model-weather-climate/</guid>
-      <pubDate>Wed, 22 May 2024 17:19:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
