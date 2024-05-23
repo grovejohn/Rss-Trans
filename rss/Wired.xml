@@ -3,8 +3,8 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>来自 www.wired.com 的最新消息</description>
-    <lastBuildDate>Thu, 23 May 2024 03:14:46 GMT</lastBuildDate>
+    <description>www.wired.com 上的最新消息</description>
+    <lastBuildDate>Thu, 23 May 2024 03:36:17 GMT</lastBuildDate>
     <item>
       <title>15 种可以在线购买的最佳床垫 (2024) |经过测试和审查</title>
       <link>https://www.wired.com/gallery/best-mattresses/</link>
@@ -27,6 +27,13 @@
       <pubDate>Wed, 22 May 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>20 个阵亡将士纪念日早期最佳床垫优惠 (2024)</title>
+      <link>https://www.wired.com/story/best-mattress-deals/</link>
+      <description><![CDATA[睡眠开始不再像一种奢侈？可能是时候换新床垫或床单了。好在很多东西都在打折。]]></description>
+      <guid>https://www.wired.com/story/best-mattress-deals/</guid>
+      <pubDate>Wed, 22 May 2024 13:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>人工智能背后的低薪人类要求拜登将他们从“现代奴隶制”中解放出来</title>
       <link>https://www.wired.com/story/low-paid-humans-ai-biden-modern-day-slavery/</link>
       <description><![CDATA[为美国科技巨头标记人工智能数据或筛选社交帖子的非洲工人呼吁拜登总统向本周访问美国的肯尼亚总统威廉·鲁托提出他们的困境。]]></description>
@@ -34,16 +41,9 @@
       <pubDate>Wed, 22 May 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>20 个阵亡将士纪念日早期最佳床垫优惠 (2024)</title>
-      <link>https://www.wired.com/story/best-mattress-deals/</link>
-      <description><![CDATA[睡眠开始不再是一种奢侈？也许是时候换一张新床垫或床单了。幸好有很多特价商品。]]></description>
-      <guid>https://www.wired.com/story/best-mattress-deals/</guid>
-      <pubDate>Wed, 22 May 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何清除浏览器的缓存，以及为什么应该这样做</title>
+      <title>如何清除浏览器缓存以及为什么要这样做</title>
       <link>https://www.wired.com/story/how-to-clear-your-browsers-cache/</link>
-      <description><![CDATA[所有浏览器都会自动将数据存储在本地，这可以加快网页浏览速度，但也会带来问题。下面介绍如何解决此问题。]]></description>
+      <description><![CDATA[所有浏览器都会自动在本地存储数据，这可以加快网页浏览速度，但也会引起问题。以下是如何解决这个问题。]]></description>
       <guid>https://www.wired.com/story/how-to-clear-your-browsers-cache/</guid>
       <pubDate>Wed, 22 May 2024 12:00:00 GMT</pubDate>
     </item>
@@ -64,7 +64,7 @@
     <item>
       <title>WeWork 不敢去的地方，本地联合办公空间蓬勃发展</title>
       <link>https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/</link>
-      <description><![CDATA[一座废弃的教堂、一所学校和一个摩托车车库都是为远程工作者提供办公场所而涌现的超本地化新型共享办公空间之一。]]></description>
+      <description><![CDATA[一座废弃的教堂、一所学校和一个摩托车车库等超本地化的新联合办公空间突然出现，为远程工作者提供了一个去处。]]></description>
       <guid>https://www.wired.com/story/local-coworking-spaces-thrive-where-wework-dared-not-go/</guid>
       <pubDate>Wed, 22 May 2024 10:00:00 GMT</pubDate>
     </item>
