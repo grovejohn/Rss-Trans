@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 23 May 2024 12:49:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 May 2024 14:35:39 GMT</lastBuildDate>
     <item>
       <title>KDE 齿轮 24.05.0</title>
       <link>https://kde.org/announcements/gear/24.05.0/?utm_source=atom_feed</link>
@@ -20,7 +20,7 @@
       <pubDate>Wed, 22 May 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Haruna 1.1.1 (已更新)</title>
+      <title>榛名 1.1.1（更新）</title>
       <link>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</link>
       <description><![CDATA[更新：Windows 版本因损坏而被删除。
 &lt;小时/&gt;
@@ -57,50 +57,50 @@ AB 循环未重置
     <item>
       <title>与 mpv 交互</title>
       <link>https://haruna.kde.org/blog/2024-05-21-interacting-with-mpv/?utm_source=atom_feed</link>
-      <description><![CDATA[Haruna 允许您通过其 自定义命令 设置页面运行任何 mpv 命令。
-最有用的命令是 set 命令，该命令允许您将 mpv 属性设置为某个值。例如，要将 hwdec 属性设置为 vaapi，您可以在 Haruna 的 自定义命令 页面的命令字段中使用 set hwdec vaapi；如果值包含空格，请用引号括起来。
-自定义命令可以在启动时或通过快捷方式触发（可以在创建自定义命令时设置）。
-如果要设置多个命令，可以创建一个 mpv 配置文件并使用 set include &quot;/path/to/config/file.conf&quot; 加载它。
-
-也可以加载 mpv 脚本，但使用起来比较麻烦。创建一个自定义命令来加载您的脚本 load-script &quot;/path/to/script.lua&quot;。
-如果您想与脚本交互，则必须创建另一个自定义命令 script-message-to target arg1 arg2 ... script-message-to。
+      <description><![CDATA[Haruna 允许您通过它的 mpv 命令运行&lt; code&gt;自定义命令设置页面。
+最有用的命令是 set 命令可让您将 mpv 属性设置为某个值。例如，要将 hwdec 属性设置为 vaapi，您可以在 Haruna 的自定义命令页面的命令字段中使用set hwdec vaapi；如果值包含空格，请将其用引号引起来。
+自定义命令可以在启动时触发，也可以通过快捷方式触发（这可以在创建自定义命令时设置）。
+如果您想设置多个命令，您可以创建一个 mpv 配置文件并使用 set include &quot;/path/to/config/file.conf&quot; 加载它。
+&lt;小时/&gt;
+mpv脚本也可以加载，但是使用起来比较麻烦。创建一个加载脚本的自定义命令load-script &quot;/path/to/script.lua&quot;。
+如果您想与脚本交互，则必须创建另一个自定义命令script-message-to target arg1 arg2 ... 脚本消息-to。
 
 target - 脚本的文件名（不带文件扩展名）
-arg1 - 由 register_script_message 分配给脚本内函数的名称，可以与函数相同name
+arg1 - 由 register_script_message，可以与函数名相同
 arg2、arg3 等 - 传递给函数的参数
 
 示例：
 -- my_simple_script.lua
-function set_volume(音量)
- mp.commandv(&quot;设置&quot;,&quot;音量&quot;,音量)
+功能 set_volume(音量跨度&gt; &lt;跨度风格=“颜色：#000;字体重量：粗体;”&gt;）
+ mp.commandv(&quot;设置&quot;, &quot;音量&quot;, 体积）
 结束
 
 mp.register_script_message(&quot;set_volume&quot;, set_volume)
--- ................................^ 在要调用的脚本消息中使用的名称
+-- ........ ...................^ 在 script-message-to 调用中使用的名称
 
--- mp.register_script_message(&quot;set_volume&quot;, set_volume)
--- .............................................^ 函数名称
+-- mp.register_script_message(&quot;set_volume&quot;,设置音量）
+-- ........ ................................^函数名称
 
 创建一个包含上述代码的 my_simple_script.lua
-创建一个自定义命令来加载脚本 load-script &quot;/path/to/my_simple_script.lua&quot;
-创建一个自定义命令（由快捷方式触发）来与脚本交互 script-message-to my_simple_script set_volume 56
-为 script-message-to 自定义命令分配快捷方式
-在脚本加载后触发 script-message-to 命令（取决于您如何加载脚本，在启动时还是通过快捷方式加载）
+创建自定义命令来加载脚本load-script &quot;/path/to/my_simple_script.lua&quot;
+创建自定义命令（通过快捷方式触发）以与脚本交互 script-message-to my_simple_script set_volume 56
+为 script-message-to 自定义命令指定快捷方式
+加载脚本后触发 script-message-to 命令（取决于您如何加载脚本，在启动时还是通过快捷方式加载）
 
-
+&lt;小时/&gt;
 注意
 运行 flatpak 版本时，脚本将无法访问系统程序/二进制文件/可执行文件。]]></description>
       <guid>https://haruna.kde.org/blog/2024-05-21-interacting-with-mpv/?utm_source=atom_feed</guid>
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.0.5，5 月错误修复版本</title>
+      <title>KDE Plasma 6.0.5，五月份发布错误修正</title>
       <link>https://kde.org/announcements/plasma/6/6.0.5/?utm_source=atom_feed</link>
       <description><![CDATA[2024 年 5 月 21 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.5 的错误修复更新。
 
 此版本添加了 KDE 贡献者一个月的新翻译和修复。错误修复通常很小但很重要，包括：
 
-Konqi 博士：邮递员：别跑得太频繁。 提交。
+Konqi 博士：邮递员：不要跑得太频繁。 提交。
 每日壁纸：修复 Qt6.7 中拖动预览图像的问题。 提交。
 修复键盘导航。 提交。修复错误#485588。修复错误 #477348
 
@@ -114,8 +114,8 @@ Konqi 博士：邮递员：别跑得太频繁。 提交。
       <description><![CDATA[在 Plasma 中，当用户想要在桌面中进行一些重大布局更改（例如添加、移动或删除面板或添加和管理桌面小部件）时，将进入所谓的“编辑模式”； ，通过鼠标驱动时通过上下文菜单条目，或通过触摸屏驱动时在桌面上长按。
 让我向您介绍 Plasma 6.1 改进的编辑模式工作流程：
 &lt;视频控件=&quot;controls&quot; src=&quot;https://notmart.org/blog/wp-content/uploads/2024/05/plasma_6.1_edit_mode.webm&quot;&gt;&lt; /视频&gt;
-“编辑模式”这是必要的，因为这是一个潜在破坏性的操作，我们确实希望避免用户在日常使用过程中错误地删除自己的任务栏或某些类似的操作。
-“模式” UI 中的界面是一件微妙的事情：它们也有优势，也有许多可能的问题，当不能立即清楚用户处于哪种模式时就会出现这些问题，并且可以尝试按原样使用 UI。在另一种模式下—— （请参阅 https://www.nngroup.com/articles/modes/ 作为快速介绍模式的优点和缺点）。
+“编辑模式”是必要的，因为由于这是一个具有潜在破坏性的操作，我们确实希望避免用户在日常使用过程中错误地删除自己的任务栏或某些类似的操作。
+“模式” UI 中的设计是一件微妙的事情：它们也有优势，也有许多可能出现的问题，当用户不能立即清楚用户处于哪种模式时，这些问题就会出现，并且可以尝试按原样使用 UI。在另一种模式下—— （请参阅 https://www.nngroup.com/articles/modes/ 作为快速介绍模式的优点和缺点）。
 这是 Plasma 中编辑模式的一个问题，因为编辑模式与日常 Plasma 使用的正常 UI 工作流程在视觉上没有明显分离。
 存在的另一个问题是编辑模式工具栏的操作按钮通常被面板配置窗口或添加小部件侧边栏隐藏。
 这种新模式会缩小桌面，并具有与窗口概览效果相同的视觉效果（为了一致性），以很好地区分正常模式和编辑模式。使用相同的缩放效果，它可以使整个桌面“不碍事”。当面板配置窗口的添加小部件侧边栏出现时，确保整个桌面区域始终可访问，小程序可以放置在桌面上的任何位置，并且编辑模式工具栏始终完全可访问。]]></description>
