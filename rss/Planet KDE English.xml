@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 24 May 2024 10:37:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 18:37:20 GMT</lastBuildDate>
     <item>
       <title>网络评论，2024-21 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</link>
@@ -52,6 +52,53 @@ KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/Open
 帖子KDDockWidgets 2.1已发布首先出现在KDAB。]]></description>
       <guid>https://www.kdab.com/kddockwidgets-2-1-released/?utm_source=atom_feed</guid>
       <pubDate>Fri, 24 May 2024 09:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.1 测试版</title>
+      <link>https://kde.org/announcements/plasma/6/6.0.90/?utm_source=atom_feed</link>
+      <description><![CDATA[以下是 Plasma 6.1 测试版中的主要变化：
+
+KWin 中的三重缓冲可实现更流畅的渲染和动画
+支持 Wayland Explicit Sync 协议，这将特别改善 NVIDIA 用户的生活
+支持输入捕获门户
+远程桌面系统集成，允许 RDP 客户端连接到 Plasma 桌面，并在系统设置中添加一个用于配置此功能的新页面
+Plasma 编辑模式的新用户体验使其模式更加明显、视觉效果更加精美
+在屏幕之间添加了可配置的边缘屏障，以便更轻松地点击触摸屏幕之间边缘的 UI 元素。这还允许自动隐藏屏幕边缘的面板正常工作
+Wayland 上的虚假会话恢复至少会重新打开上次打开的应用程序，即使它们没有位于同一位置。对真实会话恢复的支持仍在开发中
+支持将键盘的 RGB 背光颜色与 Plasma 的强调色同步
+支持使用嵌入到显示器中的颜色配置文件，适用于捆绑这些配置文件的显示器
+Discover 支持用其替代品替换已终止支持的 Flatpak 应用
+支持许多 Lenovo IdeaPad 和 Legion 笔记本电脑上的省电模式功能
+支持无密码屏幕锁定，以便在没有安全问题的环境中将其用作屏幕保护程序
+您现在可以中键单击“电源”和“电源”按钮。电池小部件可阻止和取消阻止自动睡眠和屏幕锁定，并在其上滚动以切换活动电源配置文件
+拐角稍圆，各处拐角半径之间更加一致
+更好的概览窗口布局算法
+“摇动光标找到它”默认启用效果
+新的默认关闭效果，可在一段时间不活动后隐藏鼠标指针
+系统设置键盘页面已用 QML 重写
+
+查看完整变更日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.0.90/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plasma Wayland 协议 1.13.0</title>
+      <link>https://blogs.kde.org/2024/05/24/plasma-wayland-protocols-1.13.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Plasma Wayland Protocls 1.13.0 现已可供打包。
+这增加了 Plasma 6.1 beta 所需的功能。
+URL： https://download.kde。 org/stable/plasma-wayland-protocols/ 
+SHA256： dd477e352f5ff6e6ac686286c4b22b19bf5a4921b85ee5a7da02bb7aa115d57e
+签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18D 乔纳森·埃斯克-里德尔 jr@jriddell.org
+完整变更日志：
+
+plasma-window-management：添加堆叠顺序对象
+输出设备、输出管理：添加亮度设置
+outputdevice,outputconfiguration：添加一种使用 EDID 提供的颜色配置文件的方法
+强制通过测试
+输出设备，管理：更改 SDR 色域宽度的描述
+]]></description>
+      <guid>https://blogs.kde.org/2024/05/24/plasma-wayland-protocols-1.13.0/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>KDE 齿轮 24.05.0</title>
@@ -142,7 +189,7 @@ mp.register_script_message(&quot;set_volume&quot;, set_volume)
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.0.5，五月份发布错误修正</title>
+      <title>KDE Plasma 6.0.5，5 月错误修复版本</title>
       <link>https://kde.org/announcements/plasma/6/6.0.5/?utm_source=atom_feed</link>
       <description><![CDATA[2024 年 5 月 21 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.5 的错误修复更新。
 
@@ -169,22 +216,6 @@ Konqi 博士：邮递员：别跑得太频繁。 提交。
 这种新模式会缩小桌面，并具有与窗口概览效果相同的视觉效果（为了一致性），以很好地区分正常模式和编辑模式。使用相同的缩放效果，它可以使整个桌面“不碍事”。当面板配置窗口的添加小部件侧边栏出现时，确保整个桌面区域始终可访问，小程序可以放置在桌面上的任何位置，并且编辑模式工具栏始终完全可访问。]]></description>
       <guid>https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed</guid>
       <pubDate>Mon, 20 May 2024 14:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>请在即将举行的欧洲选举中投票</title>
-      <link>https://wordsmith.social/felix-ernst/please-vote-in-the-upcoming-european-election?utm_source=atom_feed</link>
-      <description><![CDATA[很抱歉打扰您，我也不想处理政治，但考虑到Mastodon 最近在德国失去了非营利组织的地位，而且没有任何解释 我们不能忽视政治对我们所做的事情有很大的直接影响。 
-作为一个每天都与一群友善而聪明的国际人士合作的人，我反对所有那些不断将每次政治失败归咎于移民和外国人的政党，这可能并不奇怪。让我们努力支持遭受恐怖组织或国家袭击的无辜人民。太多的政党对那些试图过上幸福、诚实的生活而忽视或低估公平税收和减少温室气体排放的重要性的人怀有敌意。
-你可能会说：“但是各方都腐败了！” – 嗯，确实如此。每个群体中都有一定比例的精神病患者。我们甚至在 KDE 中也有一些！ （不过数量少得出奇！）这不应该阻止您做出贡献。请成为您希望在世界上看到的改变并投票给最糟糕的政党！或者不，这是你的生活，我不是你的妈妈。谢谢阅读。 :^)]]></description>
-      <guid>https://wordsmith.social/felix-ernst/please-vote-in-the-upcoming-european-election?utm_source=atom_feed</guid>
-      <pubDate>Mon, 20 May 2024 10:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>柏林 KDE 目标冲刺的可访问性和一点自动化</title>
-      <link>https://blogs.kde.org/2024/05/20/accessibility-and-a-bit-of-automation-at-the-kde-goals-sprint-in-berlin/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/05/20/accessibility-and-a-bit-of-automation-at-the-kde-goals-sprint-in-berlin/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
