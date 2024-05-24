@@ -1,10 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 23 May 2024 14:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 10:37:10 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，2024-21 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 24 May 2024 09:39:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDDockWidgets 2.1 发布</title>
+      <link>https://www.kdab.com/kddockwidgets-2-1-released/?utm_source=atom_feed</link>
+      <description><![CDATA[ KDDockWidgets 已推出最新的版本 2.1。此版本包含超过 500 个提交，比其前身版本 2.0 提供了增强的稳定性，而没有引入任何重大更改。
+KDDockWidgets是一个用于定制对接系统的多功能框架由 KDAB 的 Sérgio Martins 编写的 Qt 语言。有关其丰富功能的更多信息，请查看其 GitHub 存储库。
+2.1 版本有哪些变化？
+以下是主要亮点：
+错误修复：
+首先，KDDW 2.1引入了一系列旨在增强稳定性和用户体验的错误修复。 嵌套主窗口和自动隐藏等不太受欢迎的功能受到了广泛关注，并且解决了恢复最大化窗口等窗口管理器特定的错误。 
+KDDW 现在无内存泄漏，之前有几个单例发生过泄漏。我们添加了 valgrind GitHub Actions 工作流程，以防止有关泄漏的回归。
+QtQuick：
+KDDW 2.1 还引入了 QtQuick 的改进。新功能包括用于通过 QML 设置亲和力的 API，支持类似于 QtWidgets 的混合 MDI 与对接，以及修复 TitleBar.qml 在 150% 和 200% 时实现更好的缩放。此外，它还解决了单击时 MDI 小部件未引发以及与 MDI 模式相关的各种崩溃等问题。
+QtWidgets：
+对于 QtWidgets，我们改进了添加停靠小部件时对 preferredSize 参数的处理。在某些情况下它被忽略了。现在可以重写DockWidget::closeEvent()来防止关闭。修复了一些崩溃问题，并且我们添加了一个 GitHub Actions 工作流程，该工作流程针对使用 AddressSanitizer 构建的 Qt 运行测试。
+这些增强功能提高了 KDDW 2.1 在不同 Qt 环境中的功能和稳定性。
+其他：
+KDDW 2.1 带来了各种更新，包括升级到 nlohmann json v3.11.3、添加了使用 UI 工具包 Slint，以及对 CI 的广泛测试。此外，还添加了 Config::setLayoutSpacing(int) 以增强自定义功能。
+在此处了解所有更改。让我们知道您的想法。
+有关 KDDockWidgets 的更多信息
+
+
+
+由 KDAB 的 Sérgio Martins 编写的安装和使用手册 .
+详细了解KDAB 的 Qt 工具。
+有关 KDDockWidgets 的 YouTube 视频：
+
+
+
+
+
+关于 KDAB
+
+如果您喜欢本文并想阅读类似材料，请考虑通过我们的 RSS feed 订阅&lt; /a&gt;.
+订阅KDAB TV以获取类似的信息丰富的短视频内容。 
+KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/OpenGL 中进行训练。 联系我们。
+
+ 
+帖子KDDockWidgets 2.1已发布首先出现在KDAB。]]></description>
+      <guid>https://www.kdab.com/kddockwidgets-2-1-released/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 24 May 2024 09:00:35 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 齿轮 24.05.0</title>
       <link>https://kde.org/announcements/gear/24.05.0/?utm_source=atom_feed</link>
@@ -83,7 +131,7 @@ mp.register_script_message(&quot;set_volume&quot;, set_volume)
 
 创建一个包含上述代码的 my_simple_script.lua
 创建自定义命令来加载脚本load-script &quot;/path/to/my_simple_script.lua&quot;
-创建自定义命令（通过快捷方式触发）以与脚本交互 script-message-to my_simple_script set_volume 56
+创建自定义命令（由快捷方式触发）以与脚本交互 script-message-to my_simple_script set_volume 56
 为 script-message-to 自定义命令指定快捷方式
 加载脚本后触发 script-message-to 命令（取决于您如何加载脚本，在启动时还是通过快捷方式加载）
 
@@ -100,7 +148,7 @@ mp.register_script_message(&quot;set_volume&quot;, set_volume)
 
 此版本添加了 KDE 贡献者一个月的新翻译和修复。错误修复通常很小但很重要，包括：
 
-Konqi 博士：邮递员：不要跑得太频繁。 提交。
+Konqi 博士：邮递员：别跑得太频繁。 提交。
 每日壁纸：修复 Qt6.7 中拖动预览图像的问题。 提交。
 修复键盘导航。 提交。修复错误#485588。修复错误 #477348
 
@@ -114,8 +162,8 @@ Konqi 博士：邮递员：不要跑得太频繁。 提交。
       <description><![CDATA[在 Plasma 中，当用户想要在桌面中进行一些重大布局更改（例如添加、移动或删除面板或添加和管理桌面小部件）时，将进入所谓的“编辑模式”； ，通过鼠标驱动时通过上下文菜单条目，或通过触摸屏驱动时在桌面上长按。
 让我向您介绍 Plasma 6.1 改进的编辑模式工作流程：
 &lt;视频控件=&quot;controls&quot; src=&quot;https://notmart.org/blog/wp-content/uploads/2024/05/plasma_6.1_edit_mode.webm&quot;&gt;&lt; /视频&gt;
-“编辑模式”是必要的，因为由于这是一个具有潜在破坏性的操作，我们确实希望避免用户在日常使用过程中错误地删除自己的任务栏或某些类似的操作。
-“模式” UI 中的设计是一件微妙的事情：它们也有优势，也有许多可能出现的问题，当用户不能立即清楚用户处于哪种模式时，这些问题就会出现，并且可以尝试按原样使用 UI。在另一种模式下—— （请参阅 https://www.nngroup.com/articles/modes/ 作为快速介绍模式的优点和缺点）。
+“编辑模式”这是必要的，因为这是一个潜在破坏性的操作，我们确实希望避免用户在日常使用过程中错误地删除自己的任务栏或某些类似的操作。
+“模式” UI 中的界面是一件微妙的事情：它们也有优势，也有许多可能的问题，当不能立即清楚用户处于哪种模式时就会出现这些问题，并且可以尝试按原样使用 UI。在另一种模式下—— （请参阅 https://www.nngroup.com/articles/modes/ 作为快速介绍模式的优点和缺点）。
 这是 Plasma 中编辑模式的一个问题，因为编辑模式与日常 Plasma 使用的正常 UI 工作流程在视觉上没有明显分离。
 存在的另一个问题是编辑模式工具栏的操作按钮通常被面板配置窗口或添加小部件侧边栏隐藏。
 这种新模式会缩小桌面，并具有与窗口概览效果相同的视觉效果（为了一致性），以很好地区分正常模式和编辑模式。使用相同的缩放效果，它可以使整个桌面“不碍事”。当面板配置窗口的添加小部件侧边栏出现时，确保整个桌面区域始终可访问，小程序可以放置在桌面上的任何位置，并且编辑模式工具栏始终完全可访问。]]></description>
@@ -137,99 +185,6 @@ Konqi 博士：邮递员：不要跑得太频繁。 提交。
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/05/20/accessibility-and-a-bit-of-automation-at-the-kde-goals-sprint-in-berlin/?utm_source=atom_feed</guid>
       <pubDate>Mon, 20 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 框架的 Python 绑定</title>
-      <link>https://alcarazzam.dev/posts/python-bindings-for-kde-frameworks/?utm_source=atom_feed</link>
-      <description><![CDATA[这是我今年夏天将做的项目的简要概述，作为 Google Summer of Code 的一部分。
-正如本文标题所述，我将为 KDE 框架创建 Python 绑定。有超过 70 个库，因此目标是添加对其中三个库的支持：KWidgetsAddons、KCoreAddons 和 KI18n。由于预测每个库需要多少时间有点复杂，如果时间允许，我可能会结束添加对其他库的支持。]]></description>
-      <guid>https://alcarazzam.dev/posts/python-bindings-for-kde-frameworks/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 19 May 2024 17:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 发布框架 5.116.0</title>
-      <link>https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 5 月 19 日，星期日
-KDE 今天宣布发布 KDE Frameworks 5.116.0。
-KDE 框架是 Qt 的 83 个附加库，它们在成熟、经过同行评审和经过充分测试的库中提供了各种常用功能，并具有友好的许可条款。有关介绍，请参阅KDE 框架发布公告。
-此版本是一系列计划的每月版本的一部分，使开发人员能够以快速且可预测的方式进行改进。
-此版本的新增功能
-微风图标
-
-添加audio/ogg 和audio/x-vorbis+ogg 图标
-添加audio/vnd.wave MIME类型
-
-额外的 CMake 模块
-
-ECMAddQch：放弃尝试在已安装配置的目标上设置 IMPORTED
-删除 api.kde.org 切换到 Gitlab CI 后不再需要的无关文档构建 CI 作业
-
-KActivitiesStats
-
-结果集：修复代理转义字符串
-
-KCalendarCore
-
-修复 Calendar::updateNotebook 事件可见性更新
-
-K联系人
-
-恢复 FreeBSD 上的国家/地区检测测试
-禁用最近在 CI 中开始失败的 FreeBSD 测试
-
-KDED
-
-等待 kconf_update 完成
-
-KFileMetaData
-
-修复属性命名空间的处理
-
-KI18n
-
-KF5I18nMacros.cmake.in - 不要在 Windows 上查找 python[2,3]
-KCountrySubdivision：完整支持 iso 代码 &gt;= 4.16
-
-KImageFormats
-
-TGA：添加了选项支持（错误 479612）
-更多标头检查（CCBUG：479612）（错误 479612））
-
-KIO
-
-去除 iconForStandardPath 中的尾部斜杠
-
-KItemModels
-
-修复了未设置 sourceModel 时 buddy() 崩溃的问题
-
-KPackage 框架
-
-testpackage：添加网站以便测试成功
-
-KRunner
-
-将默认参数添加到 AbstractRunner QVariantList 构造函数
-
-KService
-
-修复警告：mimeType“x-scheme-handler/file”未找到（错误 442721）
-
-QQC2StyleBridge
-
-本地化支持
-
-语法突出显示
-
-修复参考
-使用 (?:sub){0,2} 来处理所有 PCRE 版本
-
-安全信息
-已发布的代码已使用以下密钥进行 GPG 签名：
-pub rsa2048/58D0EE648A48B3BB 2016-09-05 大卫·福尔 faure@kde.org
-主密钥指纹：53E6 B47B 45CE A3E0 D5B7 4577 58D0 EE64 8A48 B3BB]]></description>
-      <guid>https://kde.org/announcements/frameworks/5/5.116.0/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 19 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
