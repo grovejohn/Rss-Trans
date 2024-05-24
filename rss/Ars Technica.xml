@@ -4,11 +4,18 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 24 May 2024 19:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 May 2024 23:12:58 GMT</lastBuildDate>
+    <item>
+      <title>新发现的勒索软件使用 BitLocker 加密受害者数据</title>
+      <link>https://arstechnica.com/?p=2027056</link>
+      <description><![CDATA[ShrinkLocker 是最新使用 Windows 全盘加密的勒索软件。]]></description>
+      <guid>https://arstechnica.com/?p=2027056</guid>
+      <pubDate>Fri, 24 May 2024 22:06:57 GMT</pubDate>
+    </item>
     <item>
       <title>美国另一个州废除了保护互联网服务提供商免受市政竞争的法律</title>
       <link>https://arstechnica.com/?p=2027041</link>
-      <description><![CDATA[随着明尼苏达州的废除，限制公共宽带的州数量降至 16 个。]]></description>
+      <description><![CDATA[随着明尼苏达州的废除，限制公共宽带的州数量减少到 16 个。]]></description>
       <guid>https://arstechnica.com/?p=2027041</guid>
       <pubDate>Fri, 24 May 2024 18:25:00 GMT</pubDate>
     </item>
@@ -22,12 +29,12 @@
     <item>
       <title>谷歌搜索的“udm=14”技巧可以让你永远杀死人工智能搜索</title>
       <link>https://arstechnica.com/?p=2026948</link>
-      <description><![CDATA[URL 参数的强大功能让您可以非正式地关闭 Google 的 AI 概览。]]></description>
+      <description><![CDATA[URL 参数的强大功能可让您非正式地关闭 Google 的 AI 概述。]]></description>
       <guid>https://arstechnica.com/?p=2026948</guid>
       <pubDate>Fri, 24 May 2024 17:54:01 GMT</pubDate>
     </item>
     <item>
-      <title>拜登的新进口规则也将影响电动自行车电池</title>
+      <title>拜登的新进口规定也将打击电动自行车电池</title>
       <link>https://arstechnica.com/?p=2026997</link>
       <description><![CDATA[关税对自行车行业的影响仍然悬而未决。]]></description>
       <guid>https://arstechnica.com/?p=2026997</guid>
@@ -43,7 +50,7 @@
     <item>
       <title>苹果澄清 iOS 17.5 暴露已删除照片的错误</title>
       <link>https://arstechnica.com/?p=2026970</link>
-      <description><![CDATA[iOS 17.5.1修复了该错误，但用户仍然存在疑问。]]></description>
+      <description><![CDATA[iOS 17.5.1 修复了该错误，但用户仍有疑问。]]></description>
       <guid>https://arstechnica.com/?p=2026970</guid>
       <pubDate>Fri, 24 May 2024 16:28:37 GMT</pubDate>
     </item>
@@ -62,18 +69,11 @@
       <pubDate>Fri, 24 May 2024 15:44:39 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 放弃了让前员工保持沉默的丑闻策略</title>
+      <title>OpenAI 不再采取让前员工噤声的丑闻手段</title>
       <link>https://arstechnica.com/?p=2026952</link>
       <description><![CDATA[OpenAI 在全体员工备忘录中解除了员工的邪恶退出协议。]]></description>
       <guid>https://arstechnica.com/?p=2026952</guid>
       <pubDate>Fri, 24 May 2024 15:32:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭报道：SpaceX 专注于星舰再入；萤火虫可能会出售</title>
-      <link>https://arstechnica.com/?p=2026434</link>
-      <description><![CDATA[“团队正在完成后续推进系统评估。”]]></description>
-      <guid>https://arstechnica.com/?p=2026434</guid>
-      <pubDate>Fri, 24 May 2024 12:00:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
