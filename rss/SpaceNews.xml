@@ -3,8 +3,18 @@
   <channel>
     <title>太空新闻</title>
     <link>https://spacenews.com</link>
-    <description>涵盖太空商业和政治</description>
-    <lastBuildDate>Fri, 24 May 2024 20:14:11 GMT</lastBuildDate>
+    <description>报道太空商业和政治</description>
+    <lastBuildDate>Fri, 24 May 2024 21:12:26 GMT</lastBuildDate>
+    <item>
+      <title>将生成式人工智能带入太空</title>
+      <link>https://spacenews.com/bringing-generative-artificial-intelligence-to-space/</link>
+      <description><![CDATA[
+
+亚马逊网络服务正忙于定位其云基础设施业务，以利用生成式人工智能的前景来改变太空和其他行业。
+帖子将生成人工智能带入太空首先出现在太空新闻。]]></description>
+      <guid>https://spacenews.com/bringing-generative-artificial-intelligence-to-space/</guid>
+      <pubDate>Fri, 24 May 2024 20:40:54 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 定于 6 月初发射下一次 Starship 试飞</title>
       <link>https://spacenews.com/spacex-sets-early-june-launch-of-next-starship-test-flight/</link>
@@ -26,7 +36,7 @@ SpaceX 已将其下一次 Starship 综合测试飞行定于 6 月 5 日发射，
       <pubDate>Fri, 24 May 2024 18:58:14 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟与欧空局寻求增强欧洲航天领域竞争力</title>
+      <title>欧盟和欧空局寻求提高欧洲航天领域的竞争力</title>
       <link>https://spacenews.com/eu-and-esa-seek-increased-competitiveness-of-european-space-sector/</link>
       <description><![CDATA[
 
@@ -51,7 +61,7 @@ SpaceX 已将其下一次 Starship 综合测试飞行定于 6 月 5 日发射，
       <description><![CDATA[
 
 空间测试计划办公室发布了空间测试实验平台 (STEP) 2.0 合同的最终征求建议书
-文章美国寻求卫星制造商竞标军事空间测试计划首先出现在SpaceNews上。]]></description>
+帖子美国寻求卫星制造商对军事太空测试计划的投标首先出现在SpaceNews上。]]></description>
       <guid>https://spacenews.com/u-s-seeks-bids-from-satellite-manufacturers-for-military-space-test-program/</guid>
       <pubDate>Thu, 23 May 2024 18:07:22 GMT</pubDate>
     </item>
@@ -94,16 +104,6 @@ Intelsat 已签署协议，使用目前与其 10-02 卫星对接的 MEV-2 服务
 帖子空中客车公司建造欧空局空间科学卫星首先出现在太空新闻。]]></description>
       <guid>https://spacenews.com/airbus-to-build-esa-space-science-satellite/</guid>
       <pubDate>Thu, 23 May 2024 11:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>众议院军事委员会推进 2025 年国防政策法案</title>
-      <link>https://spacenews.com/house-armed-services-committee-advances-2025-defense-policy-bill/</link>
-      <description><![CDATA[
-
-众议员乔·威尔逊提出的修正案将要求太空部队在吸收任何空军国民警卫队太空部队加入服役之前必须获得州长的批准
-帖子众议院军事委员会推进2025年国防政策法案 首先出现在 SpaceNews 上。]]></description>
-      <guid>https://spacenews.com/house-armed-services-committee-advances-2025-defense-policy-bill/</guid>
-      <pubDate>Thu, 23 May 2024 08:58:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
