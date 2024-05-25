@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 24 May 2024 18:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 May 2024 06:39:13 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：三重缓冲和其他令人惊奇的来源</title>
+      <link>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 25 May 2024 06:04:38 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，2024-21 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</link>
@@ -61,9 +68,9 @@ KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/Open
 KWin 中的三重缓冲可实现更流畅的渲染和动画
 支持 Wayland Explicit Sync 协议，这将特别改善 NVIDIA 用户的生活
 支持输入捕获门户
-远程桌面系统集成，允许 RDP 客户端连接到 Plasma 桌面，并在系统设置中添加一个用于配置此功能的新页面
+远程桌面系统集成，允许 RDP 客户端连接到 Plasma 桌面，以及系统设置中用于配置此功能的新页面
 Plasma 编辑模式的新用户体验使其模式更加明显、视觉效果更加精美
-在屏幕之间添加了可配置的边缘屏障，以便更轻松地点击触摸屏幕之间边缘的 UI 元素。这还允许自动隐藏屏幕边缘的面板正常工作
+在屏幕之间添加了可配置的边缘屏障，以便更轻松地击中触摸屏幕之间边缘的 UI 元素。这还允许自动隐藏屏幕边缘的面板正常工作
 Wayland 上的虚假会话恢复至少会重新打开上次打开的应用程序，即使它们没有位于同一位置。对真实会话恢复的支持仍在开发中
 支持将键盘的 RGB 背光颜色与 Plasma 的强调色同步
 支持使用嵌入到显示器中的颜色配置文件，适用于捆绑这些配置文件的显示器
@@ -71,7 +78,7 @@ Discover 支持用其替代品替换已终止支持的 Flatpak 应用
 支持许多 Lenovo IdeaPad 和 Legion 笔记本电脑上的省电模式功能
 支持无密码屏幕锁定，以便在没有安全问题的环境中将其用作屏幕保护程序
 您现在可以中键单击“电源”和“电源”按钮。电池小部件可阻止和取消阻止自动睡眠和屏幕锁定，并在其上滚动以切换活动电源配置文件
-拐角稍圆，各处拐角半径之间更加一致
+拐角稍微圆一些，各处拐角半径之间更加一致
 更好的概览窗口布局算法
 “摇动光标找到它”默认启用效果
 新的默认关闭效果，可在一段时间不活动后隐藏鼠标指针
@@ -115,7 +122,7 @@ outputdevice,outputconfiguration：添加一种使用 EDID 提供的颜色配置
       <pubDate>Wed, 22 May 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>榛名 1.1.1（更新）</title>
+      <title>Haruna 1.1.1 (已更新)</title>
       <link>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</link>
       <description><![CDATA[更新：Windows 版本因损坏而被删除。
 &lt;小时/&gt;
@@ -189,7 +196,7 @@ mp.register_script_message(&quot;set_volume&quot;, set_volume)
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.0.5，5 月错误修复版本</title>
+      <title>KDE Plasma 6.0.5，五月发布错误修正</title>
       <link>https://kde.org/announcements/plasma/6/6.0.5/?utm_source=atom_feed</link>
       <description><![CDATA[2024 年 5 月 21 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.5 的错误修复更新。
 
@@ -202,20 +209,6 @@ Konqi 博士：邮递员：别跑得太频繁。 提交。
 查看完整变更日志]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.0.5/?utm_source=atom_feed</guid>
       <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>6.1 中的新 Plasma 编辑模式</title>
-      <link>https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed</link>
-      <description><![CDATA[在 Plasma 中，当用户想要在桌面中进行一些重大布局更改（例如添加、移动或删除面板或添加和管理桌面小部件）时，将进入所谓的“编辑模式”； ，通过鼠标驱动时通过上下文菜单条目，或通过触摸屏驱动时在桌面上长按。
-让我向您介绍 Plasma 6.1 改进的编辑模式工作流程：
-&lt;视频控件=&quot;controls&quot; src=&quot;https://notmart.org/blog/wp-content/uploads/2024/05/plasma_6.1_edit_mode.webm&quot;&gt;&lt; /视频&gt;
-“编辑模式”这是必要的，因为这是一个潜在破坏性的操作，我们确实希望避免用户在日常使用过程中错误地删除自己的任务栏或某些类似的操作。
-“模式” UI 中的界面是一件微妙的事情：它们也有优势，也有许多可能的问题，当不能立即清楚用户处于哪种模式时就会出现这些问题，并且可以尝试按原样使用 UI。在另一种模式下—— （请参阅 https://www.nngroup.com/articles/modes/ 作为快速介绍模式的优点和缺点）。
-这是 Plasma 中编辑模式的一个问题，因为编辑模式与日常 Plasma 使用的正常 UI 工作流程在视觉上没有明显分离。
-存在的另一个问题是编辑模式工具栏的操作按钮通常被面板配置窗口或添加小部件侧边栏隐藏。
-这种新模式会缩小桌面，并具有与窗口概览效果相同的视觉效果（为了一致性），以很好地区分正常模式和编辑模式。使用相同的缩放效果，它可以使整个桌面“不碍事”。当面板配置窗口的添加小部件侧边栏出现时，确保整个桌面区域始终可访问，小程序可以放置在桌面上的任何位置，并且编辑模式工具栏始终完全可访问。]]></description>
-      <guid>https://notmart.org/blog/2024/05/new-plasma-edit-mode-in-6-1/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 20 May 2024 14:50:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
