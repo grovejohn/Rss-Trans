@@ -4,16 +4,35 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 25 May 2024 06:39:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 May 2024 18:36:08 GMT</lastBuildDate>
     <item>
-      <title>本周 KDE：三重缓冲和其他令人惊奇的来源</title>
+      <title>XRechnung 查看器版本 1.0</title>
+      <link>https://dragotin.codeberg.page/posts/xrv-release-1-0/?utm_source=atom_feed</link>
+      <description><![CDATA[不久前，我快速编写了一个小实用程序，用于在免费桌面上渲染 XRechnung 文档，称为 XRView。这是最初的Bogpost。这是一个非常基本的 Qt Widget 应用程序，它以人类可读的视图显示 XRechnung XML 格式的电子发票文档。
+它从未正确发布过，所以最近我决定将其打包并最终发布第一个版本，人们可以找到它Codeberg 的发布页面。
+从技术上讲，它使用 Kosit 并调用本地计算机上的外部 java 进程以通过特定的 Saxon 处理器。为此，XRView 需要安装 java 运行时。
+由于这些依赖项的设置有点麻烦，新版本 1.0 为用户做到了这一点。它从上游存储库下载样式表和 saxon 处理器运行时，并将它们存储在本地计算机上以供将来使用。当然，强烈建议仔细检查下载的资源的有效性和完整性，并且不要运行其他代码下载的软件。
+第一个版本中的更多新功能包括：
+
+国际化，第一个可用语言是德语
+带有“关于”对话框等的基本应用程序菜单
+如上所述的设置例程
+
+请注意，这是该软件的第一个版本。然而，我认为它很有用，并且是该领域进一步活动的有趣起点。由于 XRechnung 将成为德国所有公司的强制性标准（至少），我认为拥有一个自由软件替代方案非常重要。已经有许多商业产品。
+但是，我不想将其开发和维持为“独角戏”。永远。我对当今免费软件的使用方式感到有点沮丧，如果有比“免费给我”更多的兴趣，我将很乐意继续为它做出贡献。由其他人或组织。
+让我们看看这是否会发生:-)]]></description>
+      <guid>https://dragotin.codeberg.page/posts/xrv-release-1-0/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 26 May 2024 14:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 KDE：三重缓冲和其他令人惊奇的事物</title>
       <link>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</guid>
       <pubDate>Sat, 25 May 2024 06:04:38 GMT</pubDate>
     </item>
     <item>
-      <title>网络评论，2024-21 周</title>
+      <title>网络评论，第 2024-21 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</guid>
@@ -68,9 +87,9 @@ KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/Open
 KWin 中的三重缓冲可实现更流畅的渲染和动画
 支持 Wayland Explicit Sync 协议，这将特别改善 NVIDIA 用户的生活
 支持输入捕获门户
-远程桌面系统集成，允许 RDP 客户端连接到 Plasma 桌面，以及系统设置中用于配置此功能的新页面
+远程桌面系统集成，允许 RDP 客户端连接到 Plasma 桌面，并在系统设置中添加一个用于配置此功能的新页面
 Plasma 编辑模式的新用户体验使其模式更加明显、视觉效果更加精美
-在屏幕之间添加了可配置的边缘屏障，以便更轻松地击中触摸屏幕之间边缘的 UI 元素。这还允许自动隐藏屏幕边缘的面板正常工作
+在屏幕之间添加了可配置的边缘屏障，以便更轻松地点击触摸屏幕之间边缘的 UI 元素。这还允许自动隐藏屏幕边缘的面板正常工作
 Wayland 上的虚假会话恢复至少会重新打开上次打开的应用程序，即使它们没有位于同一位置。对真实会话恢复的支持仍在开发中
 支持将键盘的 RGB 背光颜色与 Plasma 的强调色同步
 支持使用嵌入到显示器中的颜色配置文件，适用于捆绑这些配置文件的显示器
@@ -78,7 +97,7 @@ Discover 支持用其替代品替换已终止支持的 Flatpak 应用
 支持许多 Lenovo IdeaPad 和 Legion 笔记本电脑上的省电模式功能
 支持无密码屏幕锁定，以便在没有安全问题的环境中将其用作屏幕保护程序
 您现在可以中键单击“电源”和“电源”按钮。电池小部件可阻止和取消阻止自动睡眠和屏幕锁定，并在其上滚动以切换活动电源配置文件
-拐角稍微圆一些，各处拐角半径之间更加一致
+拐角稍圆，各处拐角半径之间更加一致
 更好的概览窗口布局算法
 “摇动光标找到它”默认启用效果
 新的默认关闭效果，可在一段时间不活动后隐藏鼠标指针
@@ -122,17 +141,17 @@ outputdevice,outputconfiguration：添加一种使用 EDID 提供的颜色配置
       <pubDate>Wed, 22 May 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Haruna 1.1.1 (已更新)</title>
+      <title>榛名 1.1.1（更新）</title>
       <link>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</link>
-      <description><![CDATA[更新：Windows 版本因损坏而被删除。
-&lt;小时/&gt;
-Haruna 版本 1.1.1 已发布。
+      <description><![CDATA[更新：Windows 版本已被删除，因为它们有问题。
+
+Haruna 1.1.1 版已发布。
 您现在可以在 flathub 上获取它：
 
 其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
 如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
-功能请求和错误应发布在 bugs.kde.org&lt; /a&gt;，但对于错误，请确保填写模板并提供尽可能多的信息。
-&lt;小时/&gt;
+功能请求和错误应发布在 bugs.kde.org 上，但对于错误，请确保填写模板并提供尽可能多的信息。
+
 变更日志：
 1.1.1
 错误修复：
@@ -140,18 +159,18 @@ Haruna 版本 1.1.1 已发布。
 字幕菜单不包括手动添加的字幕
 播放列表中的持续时间为 0
 音频文件的预览弹出窗口可见
-AB 循环未重置
+AB 循环不重置
 
 1.1.0
-特点：
+功能：
 
-设置为通过单击打开播放列表项目
+设置为单击打开播放列表项
 
 错误修复：
 
-使用 mpv 版本 0.38.0 时在单独的窗口中打开视频
-打开新文件时重置静音
-播放列表中的播放项目不再是粗体，这使得文本在某些情况下难以阅读
+使用 mpv 版本 0.38.0 时在单独窗口中打开视频
+打开新文件时静音重置
+播放列表中的播放项不再加粗，在某些情况下会使文本难以阅读
 ]]></description>
       <guid>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</guid>
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
@@ -194,21 +213,6 @@ mp.register_script_message(&quot;set_volume&quot;, set_volume)
 运行 flatpak 版本时，脚本将无法访问系统程序/二进制文件/可执行文件。]]></description>
       <guid>https://haruna.kde.org/blog/2024-05-21-interacting-with-mpv/?utm_source=atom_feed</guid>
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.0.5，五月发布错误修正</title>
-      <link>https://kde.org/announcements/plasma/6/6.0.5/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 5 月 21 日，星期二。今天 KDE 发布了 KDE Plasma 6 版本 6.0.5 的错误修复更新。
-
-此版本添加了 KDE 贡献者一个月的新翻译和修复。错误修复通常很小但很重要，包括：
-
-Konqi 博士：邮递员：别跑得太频繁。 提交。
-每日壁纸：修复 Qt6.7 中拖动预览图像的问题。 提交。
-修复键盘导航。 提交。修复错误#485588。修复错误 #477348
-
-查看完整变更日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.0.5/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
