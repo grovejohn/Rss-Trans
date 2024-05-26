@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 26 May 2024 12:47:55 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Sun, 26 May 2024 13:13:13 GMT</lastBuildDate>
+    <item>
+      <title>给喜欢听整张专辑的人的 Spotify 提示</title>
+      <link>https://www.wired.com/story/how-to-get-spotify-to-play-whole-albums/</link>
+      <description><![CDATA[Spotify 更倾向于提供算法策划的播放列表，而不是完整的专辑。如果您喜欢长时间演奏，这里有一些技巧可以帮助您重新控制您的聆听过程。]]></description>
+      <guid>https://www.wired.com/story/how-to-get-spotify-to-play-whole-albums/</guid>
+      <pubDate>Sun, 26 May 2024 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>7 款最佳 Google Assistant 音箱（2024 年）：智能显示器、便携式音箱和条形音箱</title>
       <link>https://www.wired.com/gallery/best-google-speakers-buying-guide/</link>
@@ -13,7 +20,7 @@
       <pubDate>Sun, 26 May 2024 12:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>弦理论真的描述了世界吗？人工智能也许能够告诉我们</title>
+      <title>弦理论真的能描述世界吗？人工智能或许能分辨</title>
       <link>https://www.wired.com/story/ai-starts-to-sift-through-string-theorys-near-endless-possibilities/</link>
       <description><![CDATA[利用机器学习，弦理论家最终展示了额外维度的微观结构如何转化为基本粒子组——尽管还不是我们宇宙中的基本粒子组。]]></description>
       <guid>https://www.wired.com/story/ai-starts-to-sift-through-string-theorys-near-endless-possibilities/</guid>
@@ -29,14 +36,14 @@
     <item>
       <title>美国海上风电场正被繁文缛节扼杀</title>
       <link>https://www.wired.com/story/why-us-offshore-wind-power-is-struggling/</link>
-      <description><![CDATA[今年，由于开发商与不透明的法规和坚决的反对作斗争，风电场成本上升，许多项目被取消，但该行业还远未消亡。]]></description>
+      <description><![CDATA[由于开发商面临不透明的监管和强烈的反对，今年风电场成本上升，许多项目被取消——但该行业远未消亡。]]></description>
       <guid>https://www.wired.com/story/why-us-offshore-wind-power-is-struggling/</guid>
       <pubDate>Sun, 26 May 2024 10:30:00 GMT</pubDate>
     </item>
     <item>
       <title>大海正在吞噬这个墨西哥小镇</title>
       <link>https://www.wired.com/story/the-sea-is-swallowing-this-mexican-town/</link>
-      <description><![CDATA[位于韦拉克鲁斯州的拉斯巴兰卡斯镇已经与墨西哥湾上涨的海水抗争了 10 年。它最大的希望或许寄托在红树林上。]]></description>
+      <description><![CDATA[韦拉克鲁斯州的拉斯巴兰卡斯十年来一直在与墨西哥湾海水上涨作斗争。它最大的希望可能在于红树林。]]></description>
       <guid>https://www.wired.com/story/the-sea-is-swallowing-this-mexican-town/</guid>
       <pubDate>Sun, 26 May 2024 10:00:00 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Sat, 25 May 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Insta360 X4 评测：微小封装中的 8K 360 度视频</title>
+      <title>Insta360 X4 评测：小巧便携的 8K 360 镜头</title>
       <link>https://www.wired.com/review/insta360-x4-360-camera/</link>
       <description><![CDATA[Insta360 X4 360 的混合运动相机在一个小巧、消费者友好的包装中提供 8K 360 度镜头。]]></description>
       <guid>https://www.wired.com/review/insta360-x4-360-camera/</guid>
@@ -64,16 +71,9 @@
     <item>
       <title>17 款最佳 Android 手机（2024 年）：无锁、便宜、可折叠</title>
       <link>https://www.wired.com/gallery/best-android-phones/</link>
-      <description><![CDATA[购买新手机可能是一件痛苦的事。让我们通过这些《连线》杂志测试过的精选和技巧来减轻你的痛苦。]]></description>
+      <description><![CDATA[购买新手机可能是一场考验。让我们用这些经过 WIRED 测试的拨片和技巧来减轻一些痛苦。]]></description>
       <guid>https://www.wired.com/gallery/best-android-phones/</guid>
       <pubDate>Sat, 25 May 2024 13:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的自行车轮胎太薄。使用肥厚、柔软的轮胎骑行效果更好</title>
-      <link>https://www.wired.com/story/fat-bike-tires-are-better-than-skinny-bike-tires/</link>
-      <description><![CDATA[我以前到处都骑着薄的高压轮胎。但坚持“柔顺生活”并使用更宽、低压的轮胎骑行提高了我的舒适度和稳定性，而不会减慢我的速度。]]></description>
-      <guid>https://www.wired.com/story/fat-bike-tires-are-better-than-skinny-bike-tires/</guid>
-      <pubDate>Sat, 25 May 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
