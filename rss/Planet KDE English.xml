@@ -4,35 +4,42 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 26 May 2024 18:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 May 2024 14:35:55 GMT</lastBuildDate>
+    <item>
+      <title>毛伊岛报告 23</title>
+      <link>https://mauikit.org/blog/maui-report-23/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://mauikit.org/blog/maui-report-23/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 27 May 2024 13:47:43 GMT</pubDate>
+    </item>
     <item>
       <title>XRechnung 查看器版本 1.0</title>
       <link>https://dragotin.codeberg.page/posts/xrv-release-1-0/?utm_source=atom_feed</link>
-      <description><![CDATA[不久前，我快速编写了一个小实用程序，用于在免费桌面上渲染 XRechnung 文档，称为 XRView。这是最初的Bogpost。这是一个非常基本的 Qt Widget 应用程序，它以人类可读的视图显示 XRechnung XML 格式的电子发票文档。
-它从未正确发布过，所以最近我决定将其打包并最终发布第一个版本，人们可以找到它Codeberg 的发布页面。
-从技术上讲，它使用 Kosit 并调用本地计算机上的外部 java 进程以通过特定的 Saxon 处理器。为此，XRView 需要安装 java 运行时。
-由于这些依赖项的设置有点麻烦，新版本 1.0 为用户做到了这一点。它从上游存储库下载样式表和 saxon 处理器运行时，并将它们存储在本地计算机上以供将来使用。当然，强烈建议仔细检查下载的资源的有效性和完整性，并且不要运行其他代码下载的软件。
-第一个版本中的更多新功能包括：
+      <description><![CDATA[前段时间，我快速编写了一个小实用程序，用于在免费桌面上呈现 XRechnung 文档，名为 XRView。这是最初的 Bogpost。这是一个非常基本的 Qt Widget 应用程序，可以以人类可读的视图显示 XRechnung XML 格式的电子发票文档。
+它从未正式发布过，所以最近我决定将其打包并最终发布第一个版本，人们可以在Codeberg 的发布页面上找到它。
+从技术上讲，它使用了 Kosit 提供的 XSLT 样式表，并在本地计算机上调用外部 java 进程，通过特定的Saxon 处理器。为此，XRView 需要安装 Java 运行时。
+由于这些依赖项的设置有点麻烦，新版本 1.0 为用户完成了此操作。它从其上游存储库下载样式表和 Saxon 处理器运行时，并将它们存储在本地机器上以备将来使用。当然，强烈建议仔细检查下载的资源的有效性和完整性，并且不要运行其他代码下载的软件。
+此第一版中的更多新功能包括：
 
 国际化，第一个可用语言是德语
-带有“关于”对话框等的基本应用程序菜单
+带有关于对话框等的基本应用程序菜单
 如上所述的设置例程
 
-请注意，这是该软件的第一个版本。然而，我认为它很有用，并且是该领域进一步活动的有趣起点。由于 XRechnung 将成为德国所有公司的强制性标准（至少），我认为拥有一个自由软件替代方案非常重要。已经有许多商业产品。
-但是，我不想将其开发和维持为“独角戏”。永远。我对当今免费软件的使用方式感到有点沮丧，如果有比“免费给我”更多的兴趣，我将很乐意继续为它做出贡献。由其他人或组织。
-让我们看看这是否会发生:-)]]></description>
+请注意，这是该软件的第一版。但是，我认为它很有用，并且是该领域进一步活动的有趣起点。由于 XRechnung 将成为德国所有公司的强制性标准（至少），我认为拥有免费软件替代品非常重要。目前已经有许多商业产品。
+但是，我并不打算永远以“一人秀”的方式开发和维护它。我对如今免费软件的使用方式感到有点沮丧，如果其他人或组织对它的兴趣比“免费赠送”更多，我会很乐意继续为它做出贡献。
+让我们看看这是否会有所进展 :-)]]></description>
       <guid>https://dragotin.codeberg.page/posts/xrv-release-1-0/?utm_source=atom_feed</guid>
       <pubDate>Sun, 26 May 2024 14:48:12 GMT</pubDate>
     </item>
     <item>
-      <title>本周 KDE：三重缓冲和其他令人惊奇的事物</title>
+      <title>本周 KDE：三重缓冲和其他令人惊叹的来源</title>
       <link>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</guid>
       <pubDate>Sat, 25 May 2024 06:04:38 GMT</pubDate>
     </item>
     <item>
-      <title>网络评论，第 2024-21 周</title>
+      <title>网络评论，2024-21 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</guid>
@@ -141,17 +148,17 @@ outputdevice,outputconfiguration：添加一种使用 EDID 提供的颜色配置
       <pubDate>Wed, 22 May 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>榛名 1.1.1（更新）</title>
+      <title>Haruna 1.1.1 (已更新)</title>
       <link>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</link>
-      <description><![CDATA[更新：Windows 版本已被删除，因为它们有问题。
-
-Haruna 1.1.1 版已发布。
+      <description><![CDATA[更新：Windows 版本因损坏而被删除。
+&lt;小时/&gt;
+Haruna 版本 1.1.1 已发布。
 您现在可以在 flathub 上获取它：
 
 其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
 如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
-功能请求和错误应发布在 bugs.kde.org 上，但对于错误，请确保填写模板并提供尽可能多的信息。
-
+功能请求和错误应发布在 bugs.kde.org&lt; /a&gt;，但对于错误，请确保填写模板并提供尽可能多的信息。
+&lt;小时/&gt;
 变更日志：
 1.1.1
 错误修复：
@@ -159,59 +166,20 @@ Haruna 1.1.1 版已发布。
 字幕菜单不包括手动添加的字幕
 播放列表中的持续时间为 0
 音频文件的预览弹出窗口可见
-AB 循环不重置
+AB 循环未重置
 
 1.1.0
-功能：
+特点：
 
-设置为单击打开播放列表项
+设置为通过单击打开播放列表项目
 
 错误修复：
 
-使用 mpv 版本 0.38.0 时在单独窗口中打开视频
-打开新文件时静音重置
-播放列表中的播放项不再加粗，在某些情况下会使文本难以阅读
+使用 mpv 版本 0.38.0 时在单独的窗口中打开视频
+打开新文件时重置静音
+播放列表中的播放项目不再是粗体，这使得文本在某些情况下难以阅读
 ]]></description>
       <guid>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 mpv 交互</title>
-      <link>https://haruna.kde.org/blog/2024-05-21-interacting-with-mpv/?utm_source=atom_feed</link>
-      <description><![CDATA[Haruna 允许您通过它的 mpv 命令运行&lt; code&gt;自定义命令设置页面。
-最有用的命令是 set 命令可让您将 mpv 属性设置为某个值。例如，要将 hwdec 属性设置为 vaapi，您可以在 Haruna 的自定义命令页面的命令字段中使用set hwdec vaapi；如果值包含空格，请将其用引号引起来。
-自定义命令可以在启动时触发，也可以通过快捷方式触发（这可以在创建自定义命令时设置）。
-如果您想设置多个命令，您可以创建一个 mpv 配置文件并使用 set include &quot;/path/to/config/file.conf&quot; 加载它。
-&lt;小时/&gt;
-mpv脚本也可以加载，但是使用起来比较麻烦。创建一个加载脚本的自定义命令load-script &quot;/path/to/script.lua&quot;。
-如果您想与脚本交互，则必须创建另一个自定义命令script-message-to target arg1 arg2 ... 脚本消息-to。
-
-target - 脚本的文件名（不带文件扩展名）
-arg1 - 由 register_script_message，可以与函数名相同
-arg2、arg3 等 - 传递给函数的参数
-
-示例：
--- my_simple_script.lua
-功能 set_volume(音量跨度&gt; &lt;跨度风格=“颜色：#000;字体重量：粗体;”&gt;）
- mp.commandv(&quot;设置&quot;, &quot;音量&quot;, 体积）
-结束
-
-mp.register_script_message(&quot;set_volume&quot;, set_volume)
--- ........ ...................^ 在 script-message-to 调用中使用的名称
-
--- mp.register_script_message(&quot;set_volume&quot;,设置音量）
--- ........ ................................^函数名称
-
-创建一个包含上述代码的 my_simple_script.lua
-创建自定义命令来加载脚本load-script &quot;/path/to/my_simple_script.lua&quot;
-创建自定义命令（由快捷方式触发）以与脚本交互 script-message-to my_simple_script set_volume 56
-为 script-message-to 自定义命令指定快捷方式
-加载脚本后触发 script-message-to 命令（取决于您如何加载脚本，在启动时还是通过快捷方式加载）
-
-&lt;小时/&gt;
-注意
-运行 flatpak 版本时，脚本将无法访问系统程序/二进制文件/可执行文件。]]></description>
-      <guid>https://haruna.kde.org/blog/2024-05-21-interacting-with-mpv/?utm_source=atom_feed</guid>
       <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
