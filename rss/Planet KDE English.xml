@@ -4,13 +4,37 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 28 May 2024 00:57:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 06:38:36 GMT</lastBuildDate>
+    <item>
+      <title>马拉雅拉姆语公开字体设计竞赛宣布</title>
+      <link>https://rajeeshknambiar.wordpress.com/2024/05/28/malayalam-open-font-design-competition-announced/?utm_source=atom_feed</link>
+      <description><![CDATA[Rachana 印刷研究所，与 KaChaTaThaPa 基金会 和 Sayahna 基金会，正在为学生、专业人士和业余设计师发起马拉雅拉姆语字体设计竞赛。 
+选定的字体将在开放字体许可证下发布，供免费使用。 
+无需了解字体技术细节；设计角色的技能就足够了。
+时间表、规定、奖品和更多详细信息请访问以下网址。
+英文：https://sayahna.net/fcomp-en&lt; br /&gt;马拉雅拉姆语：https://sayahna.net/fcomp-ml&lt; /p&gt;
+
+
+
+注册
+有兴趣的参与者可以在https://sayahna.net/fcomp注册
+注册最后一天是 2024 年 6 月 30 日。]]></description>
+      <guid>https://rajeeshknambiar.wordpress.com/2024/05/28/malayalam-open-font-design-competition-announced/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 28 May 2024 04:52:36 GMT</pubDate>
+    </item>
     <item>
       <title>毛伊岛报告 23</title>
       <link>https://mauikit.org/blog/maui-report-23/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://mauikit.org/blog/maui-report-23/?utm_source=atom_feed</guid>
       <pubDate>Mon, 27 May 2024 13:47:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>FOSSASIA 2024：越南难忘的经历</title>
+      <link>https://piyushaggarwal.in/2024/05/27/fossasia-2024-an-unforgettable-experience-in-vietnam/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://piyushaggarwal.in/2024/05/27/fossasia-2024-an-unforgettable-experience-in-vietnam/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 26 May 2024 22:53:10 GMT</pubDate>
     </item>
     <item>
       <title>XRechnung 查看器版本 1.0</title>
@@ -32,7 +56,7 @@
       <pubDate>Sun, 26 May 2024 14:48:12 GMT</pubDate>
     </item>
     <item>
-      <title>本周 KDE：三重缓冲和其他令人惊叹的来源</title>
+      <title>本周 KDE：三重缓冲和其他令人惊奇的来源</title>
       <link>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</guid>
@@ -87,14 +111,14 @@ KDAB 提供市场领先的软件咨询和开发服务和在 Qt、C++ 和 3D/Open
       <pubDate>Fri, 24 May 2024 09:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.1 测试版发布</title>
+      <title>KDE Plasma 6.1 测试版</title>
       <link>https://kde.org/announcements/plasma/6/6.0.90/?utm_source=atom_feed</link>
       <description><![CDATA[以下是 Plasma 6.1 测试版中的主要变化：
 
 KWin 中的三重缓冲可实现更流畅的渲染和动画
 支持 Wayland Explicit Sync 协议，这将特别改善 NVIDIA 用户的生活
 支持输入捕获门户
-远程桌面系统集成，允许 RDP 客户端连接到 Plasma 桌面，并在系统设置中添加一个用于配置此功能的新页面
+远程桌面系统集成，允许 RDP 客户端连接到 Plasma 桌面，以及系统设置中用于配置此功能的新页面
 Plasma 编辑模式的新用户体验使其模式更加明显、视觉效果更加精美
 在屏幕之间添加了可配置的边缘屏障，以便更轻松地击中触摸屏幕之间边缘的 UI 元素。这还允许自动隐藏屏幕边缘的面板正常工作
 Wayland 上的虚假会话恢复至少会重新打开上次打开的应用程序，即使它们没有位于同一位置。对真实会话恢复的支持仍在开发中
@@ -104,7 +128,7 @@ Discover 支持用其替代品替换已终止支持的 Flatpak 应用
 支持许多 Lenovo IdeaPad 和 Legion 笔记本电脑上的省电模式功能
 支持无密码屏幕锁定，以便在没有安全问题的环境中将其用作屏幕保护程序
 您现在可以中键单击“电源”和“电源”按钮。电池小部件可阻止和取消阻止自动睡眠和屏幕锁定，并在其上滚动以切换活动电源配置文件
-拐角稍微圆一些，各处拐角半径之间更加一致
+拐角稍圆，各处拐角半径之间更加一致
 更好的概览窗口布局算法
 “摇动光标找到它”默认启用效果
 新的默认关闭效果，可在一段时间不活动后隐藏鼠标指针
@@ -118,17 +142,17 @@ Discover 支持用其替代品替换已终止支持的 Flatpak 应用
       <title>Plasma Wayland 协议 1.13.0</title>
       <link>https://blogs.kde.org/2024/05/24/plasma-wayland-protocols-1.13.0/?utm_source=atom_feed</link>
       <description><![CDATA[Plasma Wayland Protocls 1.13.0 现已可供打包。
-这增加了 Plasma 6.1 beta 所需的功能。
-URL： https://download.kde。 org/stable/plasma-wayland-protocols/ 
+这添加了 Plasma 6.1 测试版所需的功能。
+URL： https://download.kde.org/stable/plasma-wayland-protocols/ 
 SHA256： dd477e352f5ff6e6ac686286c4b22b19bf5a4921b85ee5a7da02bb7aa115d57e
-签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18D 乔纳森·埃斯克-里德尔 jr@jriddell.org
-完整变更日志：
+签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Esk-Riddell jr@jriddell.org
+完整更新日志：
 
 plasma-window-management：添加堆叠顺序对象
 输出设备、输出管理：添加亮度设置
-outputdevice,outputconfiguration：添加使用 EDID 提供的颜色配置文件的方法
+outputdevice、outputconfiguration：添加使用 EDID 提供的颜色配置文件的方法
 强制通过测试
-输出设备，管理：更改 SDR 色域宽度的描述
+输出设备、管理：更改 sdr 的描述色域宽度
 ]]></description>
       <guid>https://blogs.kde.org/2024/05/24/plasma-wayland-protocols-1.13.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 24 May 2024 00:00:00 GMT</pubDate>
@@ -139,48 +163,6 @@ outputdevice,outputconfiguration：添加使用 EDID 提供的颜色配置文件
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/gear/24.05.0/?utm_source=atom_feed</guid>
       <pubDate>Thu, 23 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布 GCompris 4.1</title>
-      <link>https://www.gcompris.net/newsall-en.html#2024-05-23?utm_source=atom_feed</link>
-      <description><![CDATA[ 今天我们发布了 GCompris 4.1 版。 它修复了多个活动中的错误并改进了图形。 它已完全翻译成以下语言：  阿拉伯语 保加利亚语 布列塔尼语 加泰罗尼亚语 加泰罗尼亚语（巴伦西亚语） 希腊语 西班牙语 巴斯克语 法语 加利西亚语 克罗地亚语 匈牙利语 意大利语 立陶宛语 马拉雅拉姆语 荷兰语 挪威尼诺斯克语 波兰语 巴西葡萄牙语 罗马尼亚语 俄语 斯洛文尼亚语 瑞典语 土耳其语 乌克兰语  本文档还部分翻译为以下语言：  阿塞拜疆语 (97%) 白俄罗斯语 (86%) 捷克语 (95%) 德语 (95%) 英国英语 (95%) 世界语 (99%) 爱沙尼亚语 (95%) 芬兰语 (94%) 希伯来语 (95%) 印度尼西亚语 (99%) 马其顿语 (90%) 葡萄牙语 (95%) 斯洛伐克语 (83%) 阿尔巴尼亚语 (99%) 斯瓦希里语 (99%) 繁体中文 (95%)  您可以在 下载页面。此更新也将很快在 Android Play 商店、F-Droid 存储库和 Windows 商店中推出。 谢谢大家，Timothée &amp; Johnny  ]]></description>
-      <guid>https://www.gcompris.net/newsall-en.html#2024-05-23?utm_source=atom_feed</guid>
-      <pubDate>Wed, 22 May 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>榛名 1.1.1（更新）</title>
-      <link>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</link>
-      <description><![CDATA[更新：Windows 版本因损坏而被删除。
-&lt;小时/&gt;
-Haruna 版本 1.1.1 已发布。
-您现在可以在 flathub 上获取它：
-
-其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
-如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
-功能请求和错误应发布在 bugs.kde.org&lt; /a&gt;，但对于错误，请确保填写模板并提供尽可能多的信息。
-&lt;小时/&gt;
-变更日志：
-1.1.1
-错误修复：
-
-字幕菜单不包括手动添加的字幕
-播放列表中的持续时间为 0
-音频文件的预览弹出窗口可见
-AB 循环未重置
-
-1.1.0
-特点：
-
-设置为通过单击打开播放列表项目
-
-错误修复：
-
-使用 mpv 版本 0.38.0 时在单独的窗口中打开视频
-打开新文件时重置静音
-播放列表中的播放项目不再是粗体，这使得文本在某些情况下难以阅读
-]]></description>
-      <guid>https://haruna.kde.org/blog/2024-05-20-haruna-1.1.1/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 21 May 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
