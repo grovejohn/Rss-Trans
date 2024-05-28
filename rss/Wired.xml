@@ -3,8 +3,15 @@
   <channel>
     <title>有线</title>
     <link>https://www.wired.com</link>
-    <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 28 May 2024 09:14:20 GMT</lastBuildDate>
+    <description>来自 www.wired.com 的最新消息</description>
+    <lastBuildDate>Tue, 28 May 2024 09:35:59 GMT</lastBuildDate>
+    <item>
+      <title>警察现在只是在对付网络犯罪分子</title>
+      <link>https://www.wired.com/story/cop-cybercriminal-hacker-psyops/</link>
+      <description><![CDATA[警方正在对勒索软件团伙采取微妙的心理行动，在他们的队伍中播下不信任的种子，并诱骗他们走出阴影。]]></description>
+      <guid>https://www.wired.com/story/cop-cybercriminal-hacker-psyops/</guid>
+      <pubDate>Tue, 28 May 2024 09:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>35 个阵亡将士纪念日最佳销售（2024 年）：电视、办公椅和电动自行车</title>
       <link>https://www.wired.com/story/best-memorial-day-sales-2024/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>28 个阵亡将士纪念日最佳床垫优惠 (2024)</title>
       <link>https://www.wired.com/story/best-mattress-deals/</link>
-      <description><![CDATA[睡眠开始不再像一种奢侈？可能是时候换新床垫或床单了。好在很多东西都在打折。]]></description>
+      <description><![CDATA[睡眠开始不再是一种奢侈？也许是时候换一张新床垫或床单了。幸好有很多特价商品。]]></description>
       <guid>https://www.wired.com/story/best-mattress-deals/</guid>
       <pubDate>Mon, 27 May 2024 14:32:56 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Mon, 27 May 2024 14:22:34 GMT</pubDate>
     </item>
     <item>
-      <title>Unitree G1 是一款身材矮小的人形机器人，售价仅为 16,000 美元</title>
+      <title>Unitree G1 是一款短型人形机器人，售价仅为 16,000 美元</title>
       <link>https://www.wired.com/story/unitree-g1-humanoid-robot/</link>
       <description><![CDATA[Unitree G1 是一款售价 16,000 美元（但仍然有限）的小型人形机器人。]]></description>
       <guid>https://www.wired.com/story/unitree-g1-humanoid-robot/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[明年太阳活动的增加可能会带来更多观看北极光的机会。]]></description>
       <guid>https://www.wired.com/story/solar-maximum-aurora-northern-lights-2024-cme-sunspots/</guid>
       <pubDate>Mon, 27 May 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何选择最佳 Roku 设备 (2024)：每种型号指南</title>
-      <link>https://www.wired.com/gallery/how-to-pick-the-right-roku/</link>
-      <description><![CDATA[该公司拥有令人眼花缭乱的流媒体棒、盒子和条形音箱可供选择，但不用担心——这些才是值得购买的。]]></description>
-      <guid>https://www.wired.com/gallery/how-to-pick-the-right-roku/</guid>
-      <pubDate>Sun, 26 May 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
