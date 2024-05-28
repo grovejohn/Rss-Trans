@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 28 May 2024 20:14:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 May 2024 21:13:23 GMT</lastBuildDate>
+    <item>
+      <title>Bungie 赢得对《命运 2》作弊软件制造商 AimJunkies 的里程碑式诉讼</title>
+      <link>https://arstechnica.com/?p=2027163</link>
+      <description><![CDATA[三年的诉讼声称存在隐藏加密货币、假乌克兰人和反黑客行为。]]></description>
+      <guid>https://arstechnica.com/?p=2027163</guid>
+      <pubDate>Tue, 28 May 2024 19:55:49 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 否认盗版电子书网站是“影子图书馆” 欲关闭诉讼</title>
       <link>https://arstechnica.com/?p=2027205</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[修复氦气泄漏将导致星际航线机组人员的试飞推迟数月。]]></description>
       <guid>https://arstechnica.com/?p=2027053</guid>
       <pubDate>Sat, 25 May 2024 03:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>新发现的勒索软件使用 BitLocker 加密受害者数据</title>
-      <link>https://arstechnica.com/?p=2027056</link>
-      <description><![CDATA[ShrinkLocker 是最新使用 Windows 全盘加密的勒索软件。]]></description>
-      <guid>https://arstechnica.com/?p=2027056</guid>
-      <pubDate>Fri, 24 May 2024 22:06:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
