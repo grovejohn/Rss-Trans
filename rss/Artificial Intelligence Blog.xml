@@ -4,7 +4,14 @@
     <title>人工智能博客和新闻 • 人工智能新闻 • 人工智能博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Wed, 29 May 2024 11:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 May 2024 23:13:45 GMT</lastBuildDate>
+    <item>
+      <title>对法学硕士 (LLM) 执行 GDPR 的谜团</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/the-enigma-of-enforcing-gdpr-on-llms</link>
+      <description><![CDATA[本文探讨了将 GDPR 法规应用于大型语言模型 (LLM) 所面临的重大挑战，例如由于其复杂的数据处理和存储机制而确保数据擦除、匿名化和合规性。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/the-enigma-of-enforcing-gdpr-on-llms</guid>
+      <pubDate>Wed, 29 May 2024 22:47:44 GMT</pubDate>
+    </item>
     <item>
       <title>GPT-3.5 与 GPT-4o：打造货币轰炸机</title>
       <link>https://www.artificial-intelligence.blog/ai-news/gpt-35-vs-gpt-4o-building-a-money-blaster</link>
@@ -62,18 +69,11 @@
       <pubDate>Wed, 22 May 2024 01:43:47 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能语音与个人权利之争：以“天空”事件为例</title>
+      <title>AI语音与个人权利之争：以“天空”事件为例</title>
       <link>https://www.artificial-intelligence.blog/ai-news/the-controversy-of-ai-voices-and-personal-rights-the-case-of-sky</link>
       <description><![CDATA[ChatGPT 中删除“Sky”凸显了人工智能生成声音的复杂性，以及在创新与保护个人权利和肖像之间取得平衡的必要性。]]></description>
       <guid>https://www.artificial-intelligence.blog/ai-news/the-controversy-of-ai-voices-and-personal-rights-the-case-of-sky</guid>
       <pubDate>Tue, 21 May 2024 01:22:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 创造了她：GPT-4o 的诞生</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/openai-created-her-the-birth-of-gpt-4o</link>
-      <description><![CDATA[OpenAI 的 GPT-4o 具有先进的多模式功能、实时响应能力、情商以及个性化互动的潜力，让我们更接近电影《她》中描绘的类人人工智能。]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/openai-created-her-the-birth-of-gpt-4o</guid>
-      <pubDate>Mon, 13 May 2024 16:48:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
