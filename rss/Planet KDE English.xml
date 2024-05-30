@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 30 May 2024 16:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 May 2024 18:38:57 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.05.0 发布</title>
+      <link>https://kdenlive.org/en/2024/05/kdenlive-24-05-0-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kdenlive.org/en/2024/05/kdenlive-24-05-0-released/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 30 May 2024 18:31:07 GMT</pubDate>
+    </item>
     <item>
       <title>KDGpu 0.5.0 来了！</title>
       <link>https://www.kdab.com/kdgpu-0-5-0-is-here/?utm_source=atom_feed</link>
@@ -92,13 +99,6 @@ Qt World Summit 又回来了，而且比以往更盛大！我们正在寻找演�
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/05/25/this-week-in-kde-triple-buffering-and-other-sources-of-amazingness/?utm_source=atom_feed</guid>
       <pubDate>Sat, 25 May 2024 06:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-21 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/05/24/web-review-week-2024-21/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 24 May 2024 09:39:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
