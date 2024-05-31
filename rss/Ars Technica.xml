@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 31 May 2024 17:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 18:17:57 GMT</lastBuildDate>
+    <item>
+      <title>联邦机构警告称，Linux 关键漏洞正被积极利用</title>
+      <link>https://arstechnica.com/?p=2028017</link>
+      <description><![CDATA[网络安全和基础设施安全局敦促受影响的用户尽快更新。]]></description>
+      <guid>https://arstechnica.com/?p=2028017</guid>
+      <pubDate>Fri, 31 May 2024 17:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>与智力障碍相关的非编码基因突变</title>
+      <link>https://arstechnica.com/?p=2028013</link>
+      <description><![CDATA[仅产生 RNA 的基因与神经发育问题有关。]]></description>
+      <guid>https://arstechnica.com/?p=2028013</guid>
+      <pubDate>Fri, 31 May 2024 17:30:26 GMT</pubDate>
+    </item>
     <item>
       <title>《纽约时报》瞄准街景 Worldle 游戏，力图消灭 Wordle 克隆版</title>
       <link>https://arstechnica.com/?p=2027980</link>
@@ -15,7 +29,7 @@
     <item>
       <title>吉普的第一款电动车是 600 马力、续航里程 300 英里的 Wagoneer S</title>
       <link>https://arstechnica.com/?p=2027967</link>
-      <description><![CDATA[吉普于 1963 年发明了豪华 SUV。现在它已经变成了电动的。]]></description>
+      <description><![CDATA[吉普于 1963 年发明了豪华 SUV。现在它已经变成了电动 SUV。]]></description>
       <guid>https://arstechnica.com/?p=2027967</guid>
       <pubDate>Fri, 31 May 2024 15:16:20 GMT</pubDate>
     </item>
@@ -57,23 +71,16 @@
     <item>
       <title>报道称：苹果与 OpenAI 签署 AI 合作协议</title>
       <link>https://arstechnica.com/?p=2027758</link>
-      <description><![CDATA[该交易与苹果与谷歌之间臭名昭著的搜索交易有相似之处。]]></description>
+      <description><![CDATA[
+
+
+放大 / OpenAI 首席执行官 Sam Altman。 （来源：JASON REDMOND / 撰稿人 | 法新社） 
+
+据The Information报道，苹果和 OpenAI 已成功达成协议，将 OpenAI 的生成式 AI 技术纳入苹果的软件中，该消息援引了一位曾与 OpenAI 首席执行官 Sam Altman 谈论该交易的消息人士。
+彭博社此前报道称，该交易正在进行中有效。这则新闻出现在一篇关于 Altman 及其在公司内部日益增长的影响力的长篇文章中。
+“现在，[Altman] 已经实现了一个长期目标，与 Apple 达成协议，在其产品中使用 OpenAI 的对话式人工智能，如果进展顺利，这可能会为这家初创公司带来数十亿美元的价值，”据 The Information 的消息来源称。阅读剩余 7 段 | 评论]]></description>
       <guid>https://arstechnica.com/?p=2027758</guid>
       <pubDate>Thu, 30 May 2024 21:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技巨头组建 AI 联盟，制定新互连标准对抗英伟达</title>
-      <link>https://arstechnica.com/?p=2027773</link>
-      <description><![CDATA[“Ultra Accelerator Link”旨在连接高性能GPU和服务器。]]></description>
-      <guid>https://arstechnica.com/?p=2027773</guid>
-      <pubDate>Thu, 30 May 2024 20:42:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitter 上的主要错误信息“超级传播者”：老年女性</title>
-      <link>https://arstechnica.com/?p=2027838</link>
-      <description><![CDATA[我们的一些同胞似乎自愿从事传播虚假新闻的工作。]]></description>
-      <guid>https://arstechnica.com/?p=2027838</guid>
-      <pubDate>Thu, 30 May 2024 20:28:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
