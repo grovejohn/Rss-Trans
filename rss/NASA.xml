@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 31 May 2024 23:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 23:36:01 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局哈勃望远镜暂停科学探测</title>
+      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-temporarily-pauses-science/</link>
+      <description><![CDATA[由于陀螺仪 (gyro) 持续出现问题，NASA 的哈勃太空望远镜于 5 月 24 日进入安全模式，暂停科学运行。哈勃的仪器稳定，望远镜状况良好。当望远镜的三个陀螺仪之一给出错误的遥测读数时，望远镜会自动进入安全模式。哈勃的陀螺仪测量望远镜的摆动率，并且 […]]]></description>
+      <guid>https://science.nasa.gov/missions/hubble/nasas-hubble-temporarily-pauses-science/</guid>
+      <pubDate>Fri, 31 May 2024 22:11:39 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局为未来宜居世界任务授予先进技术</title>
       <link>https://www.nasa.gov/news-release/nasa-awards-advance-technologies-for-future-habitable-worlds-mission/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[6 月 1 日标志着 2024 年大西洋飓风季节的开始。NASA 通过空间站和卫星观测和研究太空中的飓风。这一有利位置有助于科学家了解气候变化如何影响飓风，并了解社区如何在更温暖的环境中更好地应对热带气旋。]]></description>
       <guid>https://www.nasa.gov/image-article/hurricane-season-begins/</guid>
       <pubDate>Fri, 31 May 2024 15:13:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局太空技术艺术大赛获奖者名单公布</title>
-      <link>https://www.nasa.gov/image-article/winners-named-in-nasa-space-tech-art-challenge/</link>
-      <description><![CDATA[几十年后，太空技术可能会有所不同。NASA 创新先进概念 (NIAC) 计划研究创新、技术可靠、先进的项目，这些项目有朝一日可能会“改变”航空航天业。为了帮助人们了解这些创新可能是什么样子，NIAC 邀请艺术家和平面设计师参加全球竞赛，以 […]]]></description>
-      <guid>https://www.nasa.gov/image-article/winners-named-in-nasa-space-tech-art-challenge/</guid>
-      <pubDate>Fri, 31 May 2024 15:01:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
