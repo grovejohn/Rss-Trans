@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 31 May 2024 20:14:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 20:36:49 GMT</lastBuildDate>
+    <item>
+      <title>谷歌的人工智能概述将永远被打破。这就是人工智能的工作原理</title>
+      <link>https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/</link>
+      <description><![CDATA[谷歌在其 AI 搜索功能出现错误并被广泛传播后匆忙发布了修复程序。生成式 AI 的根本限制意味着它有时仍会出错。]]></description>
+      <guid>https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/</guid>
+      <pubDate>Fri, 31 May 2024 20:22:03 GMT</pubDate>
+    </item>
     <item>
       <title>这是人工智能选举年</title>
       <link>https://www.wired.com/story/ai-election-2024/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[这些无毒的床和床单对环境和您的健康更友好，而且感觉就像梦一样。]]></description>
       <guid>https://www.wired.com/story/best-organic-mattresses/</guid>
       <pubDate>Fri, 31 May 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软 Recall 的替代品，可以记住屏幕上的所有内容：Windrecorder、Rewind</title>
-      <link>https://www.wired.com/story/microsoft-recall-alternatives/</link>
-      <description><![CDATA[这些适用于 Windows 11 和 macOS 的实用程序会记录您的所有桌面操作，为您提供可搜索的日志。这些应用程序的工作原理与仍处于预览阶段的 Microsoft Recall 类似，但它们现已可用。]]></description>
-      <guid>https://www.wired.com/story/microsoft-recall-alternatives/</guid>
-      <pubDate>Fri, 31 May 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
