@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 31 May 2024 18:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 May 2024 19:36:24 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 含糊其辞地驳斥了有关其正在开发一款仅限美国市场的应用程序的报道</title>
+      <link>https://arstechnica.com/?p=2028059</link>
+      <description><![CDATA[业内人士称，TikTok 花了数月时间分离仅适用于美国的算法代码。]]></description>
+      <guid>https://arstechnica.com/?p=2028059</guid>
+      <pubDate>Fri, 31 May 2024 18:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Chrome 限制广告拦截扩展程序的计划将于下周启动</title>
+      <link>https://arstechnica.com/?p=2028009</link>
+      <description><![CDATA[Chrome 的 Manifest V3 转换现已开始。首先是针对任何 V2 扩展的警告。]]></description>
+      <guid>https://arstechnica.com/?p=2028009</guid>
+      <pubDate>Fri, 31 May 2024 18:08:03 GMT</pubDate>
+    </item>
     <item>
       <title>联邦机构警告称，Linux 关键漏洞正被积极利用</title>
       <link>https://arstechnica.com/?p=2028017</link>
@@ -60,27 +74,6 @@
       <description><![CDATA[在马斯克向美国证券交易委员会作证之前，集体诉讼指控 Twitter 存在秘密股票欺诈行为。]]></description>
       <guid>https://arstechnica.com/?p=2027885</guid>
       <pubDate>Thu, 30 May 2024 22:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spotify 不会开源 Car Thing，但会启动退款流程</title>
-      <link>https://arstechnica.com/?p=2027824</link>
-      <description><![CDATA[Spotify 将在今年 12 月将其 2022 年向公众发布的硬件变成砖头。]]></description>
-      <guid>https://arstechnica.com/?p=2027824</guid>
-      <pubDate>Thu, 30 May 2024 22:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>报道称：苹果与 OpenAI 签署 AI 合作协议</title>
-      <link>https://arstechnica.com/?p=2027758</link>
-      <description><![CDATA[
-
-
-放大 / OpenAI 首席执行官 Sam Altman。 （来源：JASON REDMOND / 撰稿人 | 法新社） 
-
-据The Information报道，苹果和 OpenAI 已成功达成协议，将 OpenAI 的生成式 AI 技术纳入苹果的软件中，该消息援引了一位曾与 OpenAI 首席执行官 Sam Altman 谈论该交易的消息人士。
-彭博社此前报道称，该交易正在进行中有效。这则新闻出现在一篇关于 Altman 及其在公司内部日益增长的影响力的长篇文章中。
-“现在，[Altman] 已经实现了一个长期目标，与 Apple 达成协议，在其产品中使用 OpenAI 的对话式人工智能，如果进展顺利，这可能会为这家初创公司带来数十亿美元的价值，”据 The Information 的消息来源称。阅读剩余 7 段 | 评论]]></description>
-      <guid>https://arstechnica.com/?p=2027758</guid>
-      <pubDate>Thu, 30 May 2024 21:39:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
