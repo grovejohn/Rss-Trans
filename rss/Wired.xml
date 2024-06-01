@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sat, 01 Jun 2024 13:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Jun 2024 14:12:39 GMT</lastBuildDate>
+    <item>
+      <title>HMD Vibe 评测：性能还行，其他都一般</title>
+      <link>https://www.wired.com/review/hmd-vibe/</link>
+      <description><![CDATA[这款售价 150 美元的 Android 手机性能不错，但并未通过氛围测试。]]></description>
+      <guid>https://www.wired.com/review/hmd-vibe/</guid>
+      <pubDate>Sat, 01 Jun 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ticketmaster 数据泄露事件可能只是个开始</title>
+      <link>https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/</link>
+      <description><![CDATA[Ticketmaster 和金融服务公司 Santander 的数据泄露与针对云提供商 Snowflake 的攻击有关。研究人员担心很快会发现更多数据泄露事件。]]></description>
+      <guid>https://www.wired.com/story/snowflake-breach-ticketmaster-santander-ticketek-hacked/</guid>
+      <pubDate>Sat, 01 Jun 2024 13:43:04 GMT</pubDate>
+    </item>
     <item>
       <title>3 款最佳智能显示器（2024 年）：Google Assistant 和 Amazon Alexa</title>
       <link>https://www.wired.com/gallery/best-smart-displays/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>Android 现在允许您编辑短信</title>
       <link>https://www.wired.com/story/android-now-lets-you-edit-text-messages/</link>
-      <description><![CDATA[另外：Spotify 将向已停产的 Car Thing 用户退款，亚马逊获得 FAA 批准进行更多无人机送货，而且我们都很喜欢与拉斐尔·纳达尔合作推出的新款手表。]]></description>
+      <description><![CDATA[另外：Spotify 将向已停产的 Car Thing 用户退款，亚马逊获得 FAA 批准进行更多无人机送货，而且我们非常喜欢与拉斐尔·纳达尔合作推出的新款手表。]]></description>
       <guid>https://www.wired.com/story/android-now-lets-you-edit-text-messages/</guid>
       <pubDate>Sat, 01 Jun 2024 12:00:00 GMT</pubDate>
     </item>
@@ -43,7 +57,7 @@
     <item>
       <title>神秘黑客攻击摧毁了 60 万台互联网路由器</title>
       <link>https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/</link>
-      <description><![CDATA[此外：一名举报人声称拜登政府伪造了一份有关加沙的报告，“终局行动”破坏了僵尸网络生态系统等等。]]></description>
+      <description><![CDATA[另外：一名举报人声称拜登政府伪造了一份有关加沙的报告，“终局行动”破坏了僵尸网络生态系统等等。]]></description>
       <guid>https://www.wired.com/story/mysterious-hack-600000-routers-destroyed/</guid>
       <pubDate>Sat, 01 Jun 2024 10:30:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[从游戏到游戏机再到配件，索尼 PlayStation 装备截至 6 月 12 日均有大幅折扣。]]></description>
       <guid>https://www.wired.com/story/sony-days-of-play-sale-2024/</guid>
       <pubDate>Fri, 31 May 2024 21:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的人工智能概述将永远被打破。这就是人工智能的工作原理</title>
-      <link>https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/</link>
-      <description><![CDATA[谷歌在其 AI 搜索功能出现错误并被广泛传播后匆忙发布了修复程序。生成式 AI 的根本限制意味着它有时仍会出错。]]></description>
-      <guid>https://www.wired.com/story/google-ai-overviews-broken-how-ai-works/</guid>
-      <pubDate>Fri, 31 May 2024 20:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是人工智能选举年</title>
-      <link>https://www.wired.com/story/ai-election-2024/</link>
-      <description><![CDATA[2024 年将有 60 多个国家举行选举，深度伪造和自动电话被用来操纵世界各地的选民。《连线》杂志正在追踪这一关键选举年中每一次人工智能干预事件。]]></description>
-      <guid>https://www.wired.com/story/ai-election-2024/</guid>
-      <pubDate>Fri, 31 May 2024 18:16:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
