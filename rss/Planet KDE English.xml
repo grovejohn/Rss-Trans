@@ -4,7 +4,44 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 02 Jun 2024 20:36:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Jun 2024 22:35:43 GMT</lastBuildDate>
+    <item>
+      <title>Amarok 3.0.1 发布</title>
+      <link>https://blogs.kde.org/2024/06/02/amarok-3.0.1-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Amarok 开发小组很高兴地宣布 Amarok 3.0.1 现已发布，这是 Amarok 3.0 &quot;Castaway&quot; 的第一个错误修复版本
+3.0.1 包含许多小改进和错误修复，这是最早实现的功能请求，可追溯到 2010 年。维基百科小程序、UI 字符串以及播放列表生成和集合过滤
+是此版本中得到多项改进的组件之一。
+进一步完善 Qt5/KF5 版本以及不断进行清理和准备以使 Qt6/KF6 版本更接近的努力一直在进行中，并且将继续下去。
+自 3.0.0 以来的更改
+功能：
+
+在 Wikipedia 小程序中添加了将图像复制到剪贴板的选项，如果单击了非 Wikipedia 链接，则会显示可单击的通知。
+添加了一个选项，用于选择是否在上下文浏览器中为不同艺术家/不同专辑艺术家下的条目显示曲目的艺术家（BR 276039、BR 248101)
+指示 Wikipedia 小程序中哪个搜索选项处于活动状态 (BR 332010)
+
+更改：
+
+Amarok 现在依赖于 KDE Frameworks 5.78。
+改进用户界面中的字符串（包括 BR 343896、BR 234854)
+通过最小化/隐藏分析器减少 CPU 使用率 (BR 390063）和其他组件。
+
+BUGFIXES：
+
+各种标签匹配偏差、APG 和集合过滤相关修复（BR 375565、BR 406751、BR 435810、BR 382456)
+读取重放增益标签时忽略任何无限值 (BR 486084)
+避免在 phonon-vlc 播放停止时将音量设置为 0 (BR 442319)
+播放列表重复曲目删除修复 (BR 313791)
+
+获取 Amarok
+除了 源代码，Amarok 可从许多发行版的软件包存储库安装，这些存储库可能很快就会更新到 3.0.1。
+Flatpak 目前可在 flathub-beta 上获取。
+Packager 部分
+您可以在
+download.kde.org 上找到 tarball 包
+并且已使用 Tuomas Nurmi 的 GPG 密钥。]]></description>
+      <guid>https://blogs.kde.org/2024/06/02/amarok-3.0.1-released/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 02 Jun 2024 20:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Git 生活质量（2）</title>
       <link>https://euroquis.nl//blabla/2024/06/01/git.html?utm_source=atom_feed</link>
@@ -85,19 +122,6 @@ git alligator history
       <description><![CDATA[]]></description>
       <guid>https://eco.kde.org/blog/2024-05-29_introducing-ns4nh/?utm_source=atom_feed</guid>
       <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>征文通知 – 2025 年慕尼黑 Qt World 峰会</title>
-      <link>https://www.qt.io/blog/call-for-papers-qtworldsummit-2025?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
- 
-Qt World Summit 又回来了，而且比以往更盛大！我们正在寻找演讲者、合作者和行业思想领袖，在即将举行的 Qt World Summit 2025 上分享他们的专业知识和想法。2025 年 5 月 6 日至 7 日，Qt World Summit 2025 将在德国慕尼黑举行。 
-*请注意，我们只寻找现场演讲者。
-]]></description>
-      <guid>https://www.qt.io/blog/call-for-papers-qtworldsummit-2025?utm_source=atom_feed</guid>
-      <pubDate>Tue, 28 May 2024 08:57:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
