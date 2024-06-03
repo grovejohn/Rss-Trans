@@ -4,11 +4,34 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Jun 2024 16:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 18:39:20 GMT</lastBuildDate>
     <item>
       <title>GSoC'24 Okular | 一个惊人的开始</title>
       <link>https://prathamgandhi.github.io/posts/gsoc24-update1/?utm_source=atom_feed</link>
-      <description><![CDATA[简要概述我在 GSoC&#39;24 期间在 KDE 与 Okular 一起开展的工作以及第一周工作的回顾。]]></description>
+      <description><![CDATA[互联网人士，
+虽然到目前为止，我在博客文章中大多保持沉默，但我想说的是，KDE 的 GSoC&#39;24 对我来说一直很强大。
+项目：Okular 的表单/Javascript 支持改进
+KDE 开发的跨平台通用文档查看器 Okular
+支持带有表单的 PDF。
+这些表单通常使用 Javascript 来让表单对用户更方便。
+但是，截至今天，Okular 中对 Javascript 的支持不足。
+在此 Google Summer of Code 时间线期间，我将致力于改进此表单和 Okular 中的 javascript 支持。
+Okular 使用 Qt 框架提供的 QJSEngine 在沙盒环境中运行 javascript。虽然 QJSEngine 提供了引擎，但 PDF 规范支持的所有必要 JS 对象都需要我们支持。
+除此之外，还需要实现许多 Acrobat 特定的预定义脚本，以便 PDF 能够与其他 PDF 阅读器（如 Adob​​e Reader、PDF.js 等）一致地工作。
+我的项目涉及为 Okular 表单中的尽可能多的功能提供支持。我要感谢 Albert Astals Cid 为我提供这个项目的指导。
+第 1 周回顾
+编码期从 5 月 27 日正式开始，在第 1 周，我合并了以下合并请求（太棒了！！）。
+
+event.selStart &amp;&amp; event.selEnd：这些事件属性允许脚本编写者正确使用在 Keystroke 事件期间通过 event.selStart 和 event.selEnd 选择的文本部分。这些属性还将帮助我进一步实现 Keystroke 事件的预定义方法。!MR981
+AFPercent_Format：此预定义方法允许正确格式化在百分比表单字段中输入的数据。 !MR982
+
+除此之外，我还有一些 MR 正在审核中。
+
+AFTime_Keystroke：此预定义方法仅允许在表单字段中输入可接受的输入，这些字段应该是时间数据。 !MR987
+event.change：虽然 event.change 已经有实现，但它与其他 PDF 阅读器不一致。它目前评估从第一个差异点到字符串末尾的变化。事实上，它应该只反映传入的变化。 !MR998
+
+虽然第一周开局不错，但这里还有更多功能需要实现。接下来的几周，我计划合并上述 MR，然后研究其他按键预定义方法。
+本博客就到此为止，下次见。干杯！]]></description>
       <guid>https://prathamgandhi.github.io/posts/gsoc24-update1/?utm_source=atom_feed</guid>
       <pubDate>Mon, 03 Jun 2024 04:30:21 GMT</pubDate>
     </item>
@@ -103,7 +126,7 @@ git alligator history
       <pubDate>Fri, 31 May 2024 10:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>Krita 诞生 25 周年！</title>
+      <title>Krita 25 周年！</title>
       <link>https://krita.org/en/posts/2024/krita-25-years/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/krita-25-years/?utm_source=atom_feed</guid>
