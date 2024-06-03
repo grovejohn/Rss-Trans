@@ -4,7 +4,53 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Jun 2024 20:37:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 22:36:23 GMT</lastBuildDate>
+    <item>
+      <title>最近的业余项目</title>
+      <link>https://jbb.ghsq.de/kde/2024/06/03/My-side-projects.html?utm_source=atom_feed</link>
+      <description><![CDATA[除了我在 KDE 和其他地方的大型项目外，
+多年来，我一直在从事一些小型项目。
+由于这些项目自然很难找到，我想在这里简要介绍一下。
+也许你会发现其中一些很有用。
+MatePay
+MatePay 是一个为我所在的学生黑客空间 Spline 开发的小型支付系统。
+它有一个小型内置商店，我们主要用它来出售我们在空间中提供的饮料。
+但是，它还具有一个应用程序可以用来处理付款的 API。我们用它来运行大学的公共打印机。
+MatePay 基于一个简单的 SQLite 数据库，只有在信任托管它的一方时才有意义。
+
+
+
+Mateprint
+Mateprint 是一个具有支付功能的打印 Web 界面。
+它还可以打印多份副本和双面页面。
+它只是一个用 Rust 编写的简单静态可执行文件。
+所有艰苦的工作都由 CUPS 完成。
+
+
+
+Rawqueued
+最初，公共打印机都是通过网络连接的，使用 HP 网络附加卡。
+不幸的是，就像打印机一样，这些卡也变得非常老旧（约 30 年），并且最近开始频繁报废。
+由于某些原因，这些卡很贵，所以我决定用 Raspberry Pi 替换它们。我编写了一个小型 IPP 服务器，它只是将收到的有效负载转发到打印机，这几乎也是网卡所做的。
+此设置比在多个设备上维护 cups 过滤器要简单一些，因此更复杂的部分都可以在中央虚拟机上运行。
+您可以在此处找到存储库。
+Wasfaehrt
+
+
+
+在大学里，我们在一间学生管理的房间里设置了离校公告板。
+它由与 KDE Itinerary (KPublicTransport) 相同的代码提供支持。
+您可以在Codeberg上找到它。
+
+
+
+SpaceAPI
+对于 Spline 房间，我们当然需要一个 SpaceAPI 端点。
+有一个小型服务器，它提供 SpaceAPI 端点和一个 API，用于更新门是否打开。
+更新由在 Raspberry Pi 上运行的守护程序发送。]]></description>
+      <guid>https://jbb.ghsq.de/kde/2024/06/03/My-side-projects.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 03 Jun 2024 11:55:02 GMT</pubDate>
+    </item>
     <item>
       <title>GSoC'24 Okular | 一个惊人的开始</title>
       <link>https://prathamgandhi.github.io/posts/gsoc24-update1/?utm_source=atom_feed</link>
@@ -126,7 +172,7 @@ git alligator history
       <pubDate>Fri, 31 May 2024 10:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>Krita 诞生 25 周年！</title>
+      <title>Krita 25 周年！</title>
       <link>https://krita.org/en/posts/2024/krita-25-years/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/krita-25-years/?utm_source=atom_feed</guid>
@@ -138,13 +184,6 @@ git alligator history
       <description><![CDATA[]]></description>
       <guid>https://kdenlive.org/en/2024/05/kdenlive-24-05-0-released/?utm_source=atom_feed</guid>
       <pubDate>Thu, 30 May 2024 18:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDGpu 0.5.0 来了！</title>
-      <link>https://www.kdab.com/kdgpu-0-5-0-is-here/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/kdgpu-0-5-0-is-here/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 30 May 2024 07:30:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
