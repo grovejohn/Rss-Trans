@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Jun 2024 00:59:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 02:44:40 GMT</lastBuildDate>
+    <item>
+      <title>第一周回顾——研究和准备</title>
+      <link>https://kenlo.hashnode.dev/week-1-recap-research-and-prep?utm_source=atom_feed</link>
+      <description><![CDATA[欢迎来到博客。这是第一周，大部分时间都用于研究和学习代码库的工作原理。重点是，我试图了解 Krita 究竟是如何“绘制”的，也就是将多边形放到画布上。现在...]]></description>
+      <guid>https://kenlo.hashnode.dev/week-1-recap-research-and-prep?utm_source=atom_feed</guid>
+      <pubDate>Mon, 03 Jun 2024 00:57:51 GMT</pubDate>
+    </item>
     <item>
       <title>Amarok 3.0.1 发布</title>
       <link>https://blogs.kde.org/2024/06/02/amarok-3.0.1-released/?utm_source=atom_feed</link>
@@ -89,7 +96,7 @@ git alligator history
       <pubDate>Fri, 31 May 2024 10:06:41 GMT</pubDate>
     </item>
     <item>
-      <title>Krita 25 周年！</title>
+      <title>Krita 诞生 25 周年！</title>
       <link>https://krita.org/en/posts/2024/krita-25-years/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/krita-25-years/?utm_source=atom_feed</guid>
@@ -115,13 +122,6 @@ git alligator history
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/05/30/kde-itinerary-april-may-2024.html?utm_source=atom_feed</guid>
       <pubDate>Thu, 30 May 2024 06:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opt Green：KDE Eco 的新可持续软件项目</title>
-      <link>https://eco.kde.org/blog/2024-05-29_introducing-ns4nh/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://eco.kde.org/blog/2024-05-29_introducing-ns4nh/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 29 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
