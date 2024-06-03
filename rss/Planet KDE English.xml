@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Jun 2024 10:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2024 12:25:38 GMT</lastBuildDate>
+    <item>
+      <title>GSoC'24 Okular | 一个惊人的开始</title>
+      <link>https://prathamgandhi.github.io/posts/gsoc24-update1/?utm_source=atom_feed</link>
+      <description><![CDATA[简要概述我在 GSoC&#39;24 期间在 KDE 与 Okular 一起开展的工作以及第一周工作的回顾。]]></description>
+      <guid>https://prathamgandhi.github.io/posts/gsoc24-update1/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 03 Jun 2024 04:30:21 GMT</pubDate>
+    </item>
     <item>
       <title>第一周回顾——研究和准备</title>
       <link>https://kenlo.hashnode.dev/week-1-recap-research-and-prep?utm_source=atom_feed</link>
@@ -115,13 +122,6 @@ git alligator history
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/kdgpu-0-5-0-is-here/?utm_source=atom_feed</guid>
       <pubDate>Thu, 30 May 2024 07:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 行程中的 4 月/5 月</title>
-      <link>https://www.volkerkrause.eu/2024/05/30/kde-itinerary-april-may-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/05/30/kde-itinerary-april-may-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Thu, 30 May 2024 06:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
