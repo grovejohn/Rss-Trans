@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Jun 2024 18:38:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 20:36:36 GMT</lastBuildDate>
     <item>
       <title>春奈 1.1.2</title>
       <link>https://haruna.kde.org/blog/2024-06-04-haruna-1.1.2/?utm_source=atom_feed</link>
@@ -35,6 +35,24 @@ haruna-1.1.2-windows-gcc-x86_64-dbg.7z
       <pubDate>Tue, 04 Jun 2024 03:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Plasma 6 和“传统”窗口平铺</title>
+      <link>https://cukic.co/2024/06/04/plasma-6-and-tiling/index.html?utm_source=atom_feed</link>
+      <description><![CDATA[直到最近，我仍在使用 Plasma 5.x。我已经习惯了 KWin 的 Bismuth 窗口平铺脚本，以至于我无法想象自己更新到无法使用 Bismuth 的 Plasma 6.x。
+不幸的是 (?)，最近的 Debian 更新之一也破坏了 Plasma 5.x 中的 Bismuth，所以我再也无法使用旧版本了。我现在（再次）运行（大多数）KDE 软件的开发版本。
+自更新以来，我设法使 Qtile 平铺窗口管理器在一定程度上与 Plasma 配合使用。但是我破解的 Qtile 和 Plasma 之间的集成并不理想，我一直在 KWin 和 Frankenstein Qtile 之间切换，KWin 运行完美，但没有平铺，而我的 Frankenstein Qtile 运行得不是很好，但有平铺。
+也许我会在重新破解 Qtile 时写下这篇文章，但这可能不会很快发生，因为……
+Krohnkite
+然后我看到了 Bismuth 的前身——Krohnkite 脚本已经移植到 KWin 6 的消息——请参阅 reddit 上的公告，github 获取并查看代码，以及 kde store 中您可以安装的软件包。
+向所有参与重生的人致以崇高的敬意，该脚本的运行效果与 KWin 5 一样好。
+窗口装饰
+唯一缺少的是 Bismuth 所具有的简单的“窗口周围只有一条线”窗口装饰。
+KWin 6 和 Krohnkite + Bismuth 装饰
+现在我们也有了这个，我已经将原始的 Bismuth 窗口装饰移植到 KWin 6（没什么大不了的，只需进行一些微小的更改即可编译）。代码和安装说明可在 github 上找到。
+]]></description>
+      <guid>https://cukic.co/2024/06/04/plasma-6-and-tiling/index.html?utm_source=atom_feed</guid>
+      <pubDate>Tue, 04 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>FreeBSD 13 测试</title>
       <link>https://euroquis.nl//freebsd/2024/06/04/freebsd13.html?utm_source=atom_feed</link>
       <description><![CDATA[截至撰写本文时，FreeBSD 13 仍受支持（这让 KDE-FreeBSD 的人们非常懊恼，他们希望尽快推出仅限 14 的版本，以便于支持和修补）。
@@ -49,7 +67,7 @@ haruna-1.1.2-windows-gcc-x86_64-dbg.7z
 设置带有 CD 驱动器和 40GiB 硬盘的 VirtualBox VM，
 获取 FreeBSD 13.2 安装 ISO 映像，
 完成 FreeBSD 安装。这可能需要 5 分钟，
-所有设置均采用默认设置并创建一个用户。
+使用所有默认设置并创建一个用户。
 我在整个虚拟磁盘上使用了自动 UFS。不要为 ports 树而烦恼。
 
 启动新安装的系统后，即可开始配置 ports 测试。
@@ -60,7 +78,7 @@ haruna-1.1.2-windows-gcc-x86_64-dbg.7z
 使用包管理器找出所需端口的依赖项。使用 pkg rquery %dn 后跟所需端口的名称，即可获得端口的依赖项。由于大多数 FreeBSD 端口都包含开发人员电池，因此这些也是构建依赖项。
 使用 pkg install 安装它们。反引号扩展可以使事情变得更容易。
 如果没有可用的软件包，则 ports 框架会提供 make build-depends-list run-depends-list
-它将打印依赖项 ports 目录的完整路径。通过一点 sed(1)
+它将打印依赖项 ports 目录的完整路径。经过一点 sed(1)
 处理，它会变成可安装软件包的列表。
 
 系统启动后，ports 构建可以照常进行。]]></description>
@@ -102,7 +120,7 @@ Wasfaehrt
 
 在大学里，我们在一间学生管理的房间里放了一块离校公告板。
 它由与 KDE Itinerary (KPublicTransport) 相同的代码提供支持。
-您可以在Codeberg上找到它。
+您可以在 Codeberg 上找到它。
 
 
 
@@ -225,13 +243,6 @@ git alligator history
       <description><![CDATA[]]></description>
       <guid>https://carlschwan.eu/2024/05/31/kde-apps-initiative/?utm_source=atom_feed</guid>
       <pubDate>Fri, 31 May 2024 15:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-22 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/05/31/web-review-week-2024-22/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/05/31/web-review-week-2024-22/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 31 May 2024 10:06:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
