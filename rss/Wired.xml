@@ -4,11 +4,18 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 04 Jun 2024 17:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 18:18:21 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 黑客通过 DM 攻击“高知名度”用户</title>
+      <link>https://www.wired.com/story/tiktok-dm-exploit/</link>
+      <description><![CDATA[TikTok 已确认存在一个“潜在漏洞”，该漏洞被用于通过直接消息追踪包括 CNN 和帕丽斯·希尔顿在内的媒体组织和名人的账户。]]></description>
+      <guid>https://www.wired.com/story/tiktok-dm-exploit/</guid>
+      <pubDate>Tue, 04 Jun 2024 18:11:11 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌在“披萨胶”丑闻爆发前就已削减了搜索领域的人工智能概览</title>
       <link>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</link>
-      <description><![CDATA[有关谷歌新 AI 概览功能在搜索结果中出现频率的数据表明，该公司在诸如在披萨酱中添加胶水等建议流行起来之前就已经降低了其知名度。]]></description>
+      <description><![CDATA[有关谷歌新 AI 概览功能在搜索结果中出现频率的数据表明，该公司甚至在向披萨酱中添加胶水等建议流行起来之前就降低了其知名度。]]></description>
       <guid>https://www.wired.com/story/google-cut-back-ai-overviews-before-pizza-glue/</guid>
       <pubDate>Tue, 04 Jun 2024 16:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[透明、色彩鲜艳的 AeroPress 很不错，但笨重、难看的 Go Plus 就不怎么样了。]]></description>
       <guid>https://www.wired.com/review/aeropress-clear-and-go-plus/</guid>
       <pubDate>Tue, 04 Jun 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonos 想要让音响走出书架，随处拥有属于自己的音乐</title>
-      <link>https://www.wired.com/story/sonos-wants-to-get-off-your-shelf-and-own-audio-everywhere/</link>
-      <description><![CDATA[首席执行官帕特里克·斯宾塞 (Patrick Spence) 接受《连线》杂志采访时解释道，该公司将如何超越扬声器，主宰你听觉生活的方方面面。]]></description>
-      <guid>https://www.wired.com/story/sonos-wants-to-get-off-your-shelf-and-own-audio-everywhere/</guid>
-      <pubDate>Tue, 04 Jun 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
