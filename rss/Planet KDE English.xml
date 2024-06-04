@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Jun 2024 12:51:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Jun 2024 14:36:35 GMT</lastBuildDate>
     <item>
       <title>春奈 1.1.2</title>
       <link>https://haruna.kde.org/blog/2024-06-04-haruna-1.1.2/?utm_source=atom_feed</link>
@@ -33,6 +33,39 @@ haruna-1.1.2-windows-gcc-x86_64-dbg.7z
 ]]></description>
       <guid>https://haruna.kde.org/blog/2024-06-04-haruna-1.1.2/?utm_source=atom_feed</guid>
       <pubDate>Tue, 04 Jun 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>FreeBSD 13 测试</title>
+      <link>https://euroquis.nl//freebsd/2024/06/04/freebsd13.html?utm_source=atom_feed</link>
+      <description><![CDATA[截至撰写本文时，FreeBSD 13 仍受支持（这让 KDE-FreeBSD 的人们非常懊恼，他们希望尽快推出仅限 14 的版本，以便于支持和修补）。
+
+我自己的机器是一个奇怪的怪兽，介于 13.2 和 13.3 之间，但我一直在努力解决 FreeBSD 集群机器上一些软件包构建失败的问题，包括 13.2、13.3 和 14.0 的所有版本 - 它在我的机器上构建，然后在集群上因编译器错误而失败。更奇怪的是，它看起来像“明显缺少 C++ 头文件”，所以我不明白为什么它对我有用。以下是我为未来自己准备的一些笔记，关于如何快速设置虚拟机进行端口测试。
+
+在我记下这些并开始进行一些测试后，
+我发现我有一个本地修复程序，但我忘了推送。
+虽然有点尴尬，但至少我有一些笔记，可以供将来遇到实际问题时参考。
+
+
+设置带有 CD 驱动器和 40GiB 硬盘的 VirtualBox VM，
+获取 FreeBSD 13.2 安装 ISO 映像，
+完成 FreeBSD 安装。这可能需要 5 分钟，
+所有设置均采用默认设置并创建一个用户。
+我在整个虚拟磁盘上使用了自动 UFS。不要为 ports 树而烦恼。
+
+启动新安装的系统后，即可开始配置 ports 测试。
+
+以 root 身份执行 pkg install git cmake ，这将首先安装包管理器，
+然后是 git 和 cmake，这两者都是我们无论如何都需要的。
+以 root 身份克隆 ports 树。我使用 git clone --depth 50 -b 2024Q2 https://git.freebsd.org/ports.git /usr/ports 获取季度分支。
+使用包管理器找出所需端口的依赖项。使用 pkg rquery %dn 后跟所需端口的名称，即可获得端口的依赖项。由于大多数 FreeBSD 端口都包含开发人员电池，因此这些也是构建依赖项。
+使用 pkg install 安装它们。反引号扩展可以使事情变得更容易。
+如果没有可用的软件包，则 ports 框架会提供 make build-depends-list run-depends-list
+它将打印依赖项 ports 目录的完整路径。通过一点 sed(1)
+处理，它会变成可安装软件包的列表。
+
+系统启动后，ports 构建可以照常进行。]]></description>
+      <guid>https://euroquis.nl//freebsd/2024/06/04/freebsd13.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 03 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>最近的业余项目</title>
@@ -199,13 +232,6 @@ git alligator history
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/05/31/web-review-week-2024-22/?utm_source=atom_feed</guid>
       <pubDate>Fri, 31 May 2024 10:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 25 周年！</title>
-      <link>https://krita.org/en/posts/2024/krita-25-years/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/krita-25-years/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 31 May 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
