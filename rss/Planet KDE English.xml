@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Jun 2024 06:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 08:37:18 GMT</lastBuildDate>
+    <item>
+      <title>Krita 5.2.3 首个 Beta 版发布</title>
+      <link>https://krita.org/en/posts/2024/krita-5-2-3-beta1/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2024/krita-5-2-3-beta1/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>春奈 1.1.2</title>
       <link>https://haruna.kde.org/blog/2024-06-04-haruna-1.1.2/?utm_source=atom_feed</link>
@@ -236,13 +243,6 @@ git alligator history
       <description><![CDATA[我们下周回来！]]></description>
       <guid>https://pointieststick.com/2024/05/31/no-twik-this-week-2/?utm_source=atom_feed</guid>
       <pubDate>Fri, 31 May 2024 17:23:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 应用程序计划</title>
-      <link>https://carlschwan.eu/2024/05/31/kde-apps-initiative/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://carlschwan.eu/2024/05/31/kde-apps-initiative/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 31 May 2024 15:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
