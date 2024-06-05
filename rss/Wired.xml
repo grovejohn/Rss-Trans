@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 05 Jun 2024 09:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2024 10:14:24 GMT</lastBuildDate>
+    <item>
+      <title>无人机警察时代已经到来</title>
+      <link>https://www.wired.com/story/the-age-of-the-drone-police-is-here/</link>
+      <description><![CDATA[《连线》杂志基于超过 2200 万个飞行坐标开展了一项调查，揭示了美国首个全面警用无人机计划的复杂真相，以及为什么你的城市可能成为下一个。]]></description>
+      <guid>https://www.wired.com/story/the-age-of-the-drone-police-is-here/</guid>
+      <pubDate>Wed, 05 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>一家美国公司帮助朝鲜骗取资金用于大规模杀伤性武器</title>
       <link>https://www.wired.com/story/registered-agents-north-korean-scam-wmds/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[OpenAI 和其他人工智能巨头的前任和现任员工签署了一封公开信，呼吁在人工智能快速发展之际对举报人进行保护。]]></description>
       <guid>https://www.wired.com/story/openai-right-to-warn-open-letter-ai-risk/</guid>
       <pubDate>Tue, 04 Jun 2024 15:13:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>这款黑客工具可提取 Windows 新召回 AI 收集的所有数据</title>
-      <link>https://www.wired.com/story/total-recall-windows-recall-ai/</link>
-      <description><![CDATA[Windows Recall 每五秒截取一次屏幕截图。网络安全研究人员表示，该系统很容易被滥用——一位道德黑客已经开发出一款工具来证明它是多么容易。]]></description>
-      <guid>https://www.wired.com/story/total-recall-windows-recall-ai/</guid>
-      <pubDate>Tue, 04 Jun 2024 15:08:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
