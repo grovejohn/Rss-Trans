@@ -4,11 +4,18 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Jun 2024 08:17:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Jun 2024 12:26:18 GMT</lastBuildDate>
+    <item>
+      <title>一种名为 RAG 的技术可以阻止 AI 模型捏造东西吗？</title>
+      <link>https://arstechnica.com/?p=2028618</link>
+      <description><![CDATA[该框架引入了外部资源来提高准确性。它是否名副其实？]]></description>
+      <guid>https://arstechnica.com/?p=2028618</guid>
+      <pubDate>Thu, 06 Jun 2024 11:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>波音公司的星际客机终于升空，但任务控制中心报告了更多氦气泄漏</title>
       <link>https://arstechnica.com/?p=2029190</link>
-      <description><![CDATA[“我们准备查明您所说的再次发现氦气泄漏到底是什么意思。”]]></description>
+      <description><![CDATA[尽管出现了新的泄漏，但任务控制中心表示星际航线仍然可以与空间站对接。]]></description>
       <guid>https://arstechnica.com/?p=2029190</guid>
       <pubDate>Thu, 06 Jun 2024 06:39:20 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[丰田表示，经验告诉了它如何提高热效率。]]></description>
       <guid>https://arstechnica.com/?p=2029224</guid>
       <pubDate>Wed, 05 Jun 2024 17:40:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大要求 Netflix、Spotify 和其他流媒体服务商缴纳 5% 的收入</title>
-      <link>https://arstechnica.com/?p=2029192</link>
-      <description><![CDATA[加拿大表示，每年 2 亿美元的费用将用于支持当地新闻和其他内容。]]></description>
-      <guid>https://arstechnica.com/?p=2029192</guid>
-      <pubDate>Wed, 05 Jun 2024 16:53:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
