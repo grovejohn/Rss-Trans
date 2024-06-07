@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 07 Jun 2024 17:12:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 18:39:19 GMT</lastBuildDate>
     <item>
-      <title>微软在安全和隐私问题上默认关闭召回功能</title>
+      <title>奇异的卵生哺乳动物曾统治澳大利亚——后来失去了牙齿</title>
+      <link>https://arstechnica.com/?p=2029837</link>
+      <description><![CDATA[这些发现可能表明鸭嘴兽和针鼹的共同祖先的样子。]]></description>
+      <guid>https://arstechnica.com/?p=2029837</guid>
+      <pubDate>Fri, 07 Jun 2024 18:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告：新的“Apple Intelligence” AI 功能将默认启用</title>
+      <link>https://arstechnica.com/?p=2029805</link>
+      <description><![CDATA[据报道，苹果计划在 WWDC 上发布其首批 AI 功能。]]></description>
+      <guid>https://arstechnica.com/?p=2029805</guid>
+      <pubDate>Fri, 07 Jun 2024 17:47:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>特斯拉董事长称埃隆·马斯克需要 460 亿美元的薪酬计划来保持动力</title>
+      <link>https://arstechnica.com/?p=2029818</link>
+      <description><![CDATA[股东们获悉，如果薪酬问题未得到重新批准，马斯克可能会减少在特斯拉的工作时间。]]></description>
+      <guid>https://arstechnica.com/?p=2029818</guid>
+      <pubDate>Fri, 07 Jun 2024 17:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员指出 Recall 存在安全问题后，微软正在重新设计 Recall</title>
       <link>https://arstechnica.com/?p=2029806</link>
       <description><![CDATA[Windows Hello 身份验证，添加了额外的加密来保护数据。]]></description>
       <guid>https://arstechnica.com/?p=2029806</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[发动机可以弥补其自然的缺点，但仍然有一个学习曲线。]]></description>
       <guid>https://arstechnica.com/?p=2024219</guid>
       <pubDate>Fri, 07 Jun 2024 11:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭报道：星际客机飞向空间站；星际飞船的疯狂飞行</title>
-      <link>https://arstechnica.com/?p=2029281</link>
-      <description><![CDATA[“这枚强大的火箭是多年奉献和智慧的结晶。”]]></description>
-      <guid>https://arstechnica.com/?p=2029281</guid>
-      <pubDate>Fri, 07 Jun 2024 11:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过充满戏剧性的一天，波音公司的星际客机终于找到了出路</title>
-      <link>https://arstechnica.com/?p=2029550</link>
-      <description><![CDATA[“我认为我们忽略了推进器内部发生的一些基本现象。”]]></description>
-      <guid>https://arstechnica.com/?p=2029550</guid>
-      <pubDate>Fri, 07 Jun 2024 00:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 的星际飞船遭受重创，但坚持首次从太空返回</title>
-      <link>https://arstechnica.com/?p=2029471</link>
-      <description><![CDATA[“我认为我们应该在下次飞行中尝试用机械阿卡西拉手臂抓住助推器！”]]></description>
-      <guid>https://arstechnica.com/?p=2029471</guid>
-      <pubDate>Thu, 06 Jun 2024 22:14:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
