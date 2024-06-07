@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 07 Jun 2024 09:36:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 10:14:51 GMT</lastBuildDate>
+    <item>
+      <title>人工智能卡通可能会为你下一份工作进行面试</title>
+      <link>https://www.wired.com/story/ai-cartoon-next-job/</link>
+      <description><![CDATA[好像试图找到一份新工作还不够令人沮丧，求职者正在与由生成人工智能驱动的角色会面，这些角色能够与无数的候选人会面以判断他们的技能。]]></description>
+      <guid>https://www.wired.com/story/ai-cartoon-next-job/</guid>
+      <pubDate>Fri, 07 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>微软的召回功能比你想象的更容易被黑客入侵</title>
       <link>https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/</link>
@@ -64,16 +71,9 @@
     <item>
       <title>星际飞船测试成功，SpaceX 距离火星又近了一步</title>
       <link>https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/</link>
-      <description><![CDATA[该火箭在发射和再入过程中基本完好无损，这是历史上最大火箭投入飞行的关键一步。]]></description>
+      <description><![CDATA[该火箭在发射和再入过程中基本完好无损，这是历史上最大火箭投入飞行的关键基石。]]></description>
       <guid>https://www.wired.com/story/spacex-starship-superheavy-mars-launch-elon-musk/</guid>
       <pubDate>Thu, 06 Jun 2024 16:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>聊天机器人团队合作让人工智能梦想成真</title>
-      <link>https://www.wired.com/story/chatbot-teamwork-makes-the-ai-dream-work/</link>
-      <description><![CDATA[实验表明，让人工智能聊天机器人共同解决问题可以弥补它们的一些不足。《连线》杂志招募了两个机器人来帮助策划这篇文章。]]></description>
-      <guid>https://www.wired.com/story/chatbot-teamwork-makes-the-ai-dream-work/</guid>
-      <pubDate>Thu, 06 Jun 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
