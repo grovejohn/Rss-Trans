@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 06 Jun 2024 23:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 01:01:30 GMT</lastBuildDate>
+    <item>
+      <title>微软的召回功能比你想象的更容易被黑客入侵</title>
+      <link>https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/</link>
+      <description><![CDATA[一项新发现表明，即使没有管理员权限的黑客也可以访问人工智能功能的历史数据，这只会让人们越来越觉得该功能是“垃圾桶里的火焰”。]]></description>
+      <guid>https://www.wired.com/story/microsoft-windows-recall-privilege-escalation/</guid>
+      <pubDate>Fri, 07 Jun 2024 00:42:44 GMT</pubDate>
+    </item>
     <item>
       <title>Oral-B 卖出了一款售价 230 美元的 Alexa 牙刷，然后停产</title>
       <link>https://www.wired.com/story/oral-b-guide-alexa-app-brick/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[实验表明，让人工智能聊天机器人共同解决问题可以弥补它们的一些不足。《连线》杂志招募了两个机器人来帮助策划这篇文章。]]></description>
       <guid>https://www.wired.com/story/chatbot-teamwork-makes-the-ai-dream-work/</guid>
       <pubDate>Thu, 06 Jun 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>十大最佳追踪器（2024 年）：GPS、蓝牙、Wi-Fi 和蜂窝网络</title>
-      <link>https://www.wired.com/gallery/best-trackers/</link>
-      <description><![CDATA[这些是最好的蓝牙、Wi-Fi、GPS 和蜂窝设备，可确保您永远不会再丢失任何东西。]]></description>
-      <guid>https://www.wired.com/gallery/best-trackers/</guid>
-      <pubDate>Thu, 06 Jun 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
