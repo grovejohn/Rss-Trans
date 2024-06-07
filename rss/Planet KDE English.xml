@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Jun 2024 04:37:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 06:39:51 GMT</lastBuildDate>
     <item>
       <title>不必要的公开</title>
       <link>https://euroquis.nl//kde/2024/06/06/public.html?utm_source=atom_feed</link>
@@ -163,7 +163,7 @@ KWin 6 和 Krohnkite + Bismuth 装饰
 设置带有 CD 驱动器和 40GiB 硬盘的 VirtualBox VM，
 获取 FreeBSD 13.2 安装 ISO 映像，
 完成 FreeBSD 安装。这可能需要 5 分钟，
-使用所有默认设置并创建一个用户。
+所有设置均采用默认设置并创建一个用户。
 我在整个虚拟磁盘上使用了自动 UFS。不要为 ports 树而烦恼。
 
 启动新安装的系统后，即可开始配置 ports 测试。
@@ -174,7 +174,7 @@ KWin 6 和 Krohnkite + Bismuth 装饰
 使用包管理器找出所需端口的依赖项。使用 pkg rquery %dn 后跟所需端口的名称，即可获得端口的依赖项。由于大多数 FreeBSD 端口都包含开发人员电池，因此这些也是构建依赖项。
 使用 pkg install 安装它们。反引号扩展可以使事情变得更容易。
 如果没有可用的软件包，则 ports 框架会提供 make build-depends-list run-depends-list
-它将打印依赖项 ports 目录的完整路径。经过一点 sed(1)
+它将打印依赖项 ports 目录的完整路径。通过一点 sed(1)
 处理，它会变成可安装软件包的列表。
 
 系统启动后，ports 构建可以照常进行。]]></description>
