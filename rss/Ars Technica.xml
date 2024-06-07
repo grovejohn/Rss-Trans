@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 07 Jun 2024 21:35:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 22:13:16 GMT</lastBuildDate>
+    <item>
+      <title>PHP 漏洞允许攻击者在 Windows 服务器上运行恶意代码</title>
+      <link>https://arstechnica.com/?p=2029943</link>
+      <description><![CDATA[在 PoC 代码可用且互联网扫描活跃的情况下，速度至关重要。]]></description>
+      <guid>https://arstechnica.com/?p=2029943</guid>
+      <pubDate>Fri, 07 Jun 2024 21:57:49 GMT</pubDate>
+    </item>
     <item>
       <title>谷歌向美国政府寄出 230 万美元支票，避免陪审团审判</title>
       <link>https://arstechnica.com/?p=2029910</link>
@@ -13,7 +20,7 @@
       <pubDate>Fri, 07 Jun 2024 21:05:49 GMT</pubDate>
     </item>
     <item>
-      <title>Ars 与 Precision 进行交流，这家大脑芯片制造商正在走非侵入性之路</title>
+      <title>Ars 采访了 Precision，这家走低侵入性道路的大脑芯片制造商</title>
       <link>https://arstechnica.com/?p=2029917</link>
       <description><![CDATA[目前 Precision 已在 14 人身上测试了 BCI。本月还将有两人进行测试。]]></description>
       <guid>https://arstechnica.com/?p=2029917</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[股东们获悉，如果薪酬问题未得到重新批准，马斯克可能会减少在特斯拉的工作时间。]]></description>
       <guid>https://arstechnica.com/?p=2029818</guid>
       <pubDate>Fri, 07 Jun 2024 17:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员指出 Recall 存在安全问题后，微软正在重新设计 Recall</title>
-      <link>https://arstechnica.com/?p=2029806</link>
-      <description><![CDATA[Windows Hello 身份验证，添加了额外的加密来保护数据。]]></description>
-      <guid>https://arstechnica.com/?p=2029806</guid>
-      <pubDate>Fri, 07 Jun 2024 16:59:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
