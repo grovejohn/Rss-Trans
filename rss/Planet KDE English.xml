@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Jun 2024 08:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 11:12:41 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-23 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/06/07/web-review-week-2024-23/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/06/07/web-review-week-2024-23/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 07 Jun 2024 09:56:06 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Creator 13.0.2 发布</title>
       <link>https://www.qt.io/blog/qt-creator-13.0.2-released?utm_source=atom_feed</link>
@@ -21,7 +28,7 @@
       <pubDate>Wed, 05 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kubuntu、KDE、Debian：我仍然在这里，深情怀念我的兄弟。</title>
+      <title>Kubuntu、KDE、Debian：我仍然在这里，深情地怀念我的兄弟。</title>
       <link>https://www.scarlettgatelymoore.dev/kubuntu-kde-debian-i-am-still-here-in-loving-memory-of-my-brother/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kubuntu-kde-debian-i-am-still-here-in-loving-memory-of-my-brother/?utm_source=atom_feed</guid>
@@ -188,52 +195,6 @@ KWin 6 和 Krohnkite + Bismuth 装饰
 系统启动后，ports 构建可以照常进行。]]></description>
       <guid>https://euroquis.nl//freebsd/2024/06/04/freebsd13.html?utm_source=atom_feed</guid>
       <pubDate>Mon, 03 Jun 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近的业余项目</title>
-      <link>https://jbb.ghsq.de/kde/2024/06/03/My-side-projects.html?utm_source=atom_feed</link>
-      <description><![CDATA[除了我在 KDE 和其他地方的大型项目外，
-多年来，我一直在从事一些小型项目。
-由于这些项目自然很难找到，我想在这里简要介绍一下。
-也许你会发现其中一些很有用。
-MatePay
-MatePay 是一个为我所在的学生黑客空间 Spline 开发的小型支付系统。
-它有一个小型内置商店，我们主要用它来出售我们在空间中提供的饮料。
-但是，它还具有一个应用程序可以用来处理付款的 API。我们用它来运行大学的公共打印机。
-MatePay 基于一个简单的 SQLite 数据库，只有在信任托管它的一方时才有意义。
-
-
-
-Mateprint
-Mateprint 是一个具有支付功能的打印 Web 界面。
-它还可以打印多份副本和双面页面。
-它只是一个用 Rust 编写的简单静态可执行文件。
-所有艰苦的工作都由 CUPS 完成。
-
-
-
-Rawqueued
-最初，公共打印机都是通过网络连接的，使用 HP 网络附加卡。
-不幸的是，就像打印机一样，这些卡也变得非常老旧（约 30 年），并且最近开始频繁报废。
-由于某些原因，这些卡很贵，所以我决定用 Raspberry Pi 替换它们。我编写了一个小型 IPP 服务器，它只是将收到的有效负载转发到打印机，这几乎也是网卡所做的。
-此设置比在多个设备上维护 cups 过滤器要简单一些，因此更复杂的部分都可以在中央虚拟机上运行。
-您可以在此处找到存储库。
-Wasfaehrt
-
-
-
-在大学里，我们在一间学生管理的房间里设置了离校公告板。
-它由与 KDE Itinerary (KPublicTransport) 相同的代码提供支持。
-您可以在 Codeberg 上找到它。
-
-
-
-SpaceAPI
-对于 Spline 房间，我们当然需要一个 SpaceAPI 端点。
-有一个小型服务器，它提供 SpaceAPI 端点和一个 API，用于更新门是否打开。
-更新由在 Raspberry Pi 上运行的守护程序发送。]]></description>
-      <guid>https://jbb.ghsq.de/kde/2024/06/03/My-side-projects.html?utm_source=atom_feed</guid>
-      <pubDate>Mon, 03 Jun 2024 11:55:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
