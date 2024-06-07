@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 07 Jun 2024 22:13:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Jun 2024 23:36:01 GMT</lastBuildDate>
     <item>
-      <title>PHP 漏洞允许攻击者在 Windows 服务器上运行恶意代码</title>
+      <title>人们在吃了微量巧克力后出现癫痫，甚至被插管</title>
+      <link>https://arstechnica.com/?p=2029953</link>
+      <description><![CDATA[由于至少有 4 个州的 8 人患病，6 人住院，因此建议“极其谨慎”。]]></description>
+      <guid>https://arstechnica.com/?p=2029953</guid>
+      <pubDate>Fri, 07 Jun 2024 22:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>周末，一个非常简单的漏洞袭击了 PHP</title>
       <link>https://arstechnica.com/?p=2029943</link>
       <description><![CDATA[在 PoC 代码可用且互联网扫描活跃的情况下，速度至关重要。]]></description>
       <guid>https://arstechnica.com/?p=2029943</guid>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 07 Jun 2024 21:05:49 GMT</pubDate>
     </item>
     <item>
-      <title>Ars 采访了 Precision，这家走低侵入性道路的大脑芯片制造商</title>
+      <title>Ars 与 Precision 进行交流，这家大脑芯片制造商正在走非侵入性之路</title>
       <link>https://arstechnica.com/?p=2029917</link>
       <description><![CDATA[目前 Precision 已在 14 人身上测试了 BCI。本月还将有两人进行测试。]]></description>
       <guid>https://arstechnica.com/?p=2029917</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[据报道，苹果计划在 WWDC 上发布其首批 AI 功能。]]></description>
       <guid>https://arstechnica.com/?p=2029805</guid>
       <pubDate>Fri, 07 Jun 2024 17:47:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉董事长称埃隆·马斯克需要 460 亿美元的薪酬计划来保持动力</title>
-      <link>https://arstechnica.com/?p=2029818</link>
-      <description><![CDATA[股东们获悉，如果薪酬问题未得到重新批准，马斯克可能会减少在特斯拉的工作时间。]]></description>
-      <guid>https://arstechnica.com/?p=2029818</guid>
-      <pubDate>Fri, 07 Jun 2024 17:26:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
