@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Jun 2024 15:13:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 16:39:12 GMT</lastBuildDate>
     <item>
       <title>GPN22</title>
       <link>https://www.volkerkrause.eu/2024/06/08/gpn22.html?utm_source=atom_feed</link>
@@ -18,6 +18,28 @@
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/06/07/these-past-two-weeks-in-kde-massive-stability-work-for-plasma-6-1/?utm_source=atom_feed</guid>
       <pubDate>Sat, 08 Jun 2024 05:33:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Firefox 配置文件和 Plasma 启动器</title>
+      <link>https://cukic.co/2024/06/08/firefox-profiles/index.html?utm_source=atom_feed</link>
+      <description><![CDATA[我是 Firefox 配置文件的重度用户。除了为不同的活动使用不同的配置文件外，我还有几个额外的配置文件，它们都在 Default 活动中运行。
+这意味着我需要在 Plasma 的面板中显示不同的图标，以便能够轻松区分窗口属于哪个配置文件。
+当然，我使用显示窗口标题而不是仅显示图标的任务小程序（我更喜欢可用性而不是极简主义），但这还不够，因为有时 Firefox 窗口中的活动选项卡可能没有最具信息量的标题。
+在选择面板中显示的图标时，Plasma 似乎依赖于应用程序名称和窗口类。这意味着，默认情况下，所有 Firefox 实例最终都会具有相同的图标。
+Librewolf with a custom profile icon
+幸运的是，Firefox 允许您通过命令行参数指定它应该使用的窗口类。
+firefox -P ProfileName --class WindowClassName
+并且，要将启动器连接到特定的窗口类，您只需将以下行添加到 .desktop 文件：
+StartupWMClass=WindowClassName
+因此，为了一个得到良好支持的 Firefox 配置文件，您可以创建一个启动器，其中包含类似于以下内容的桌面文件：
+[桌面条目]
+Exec=firefox -P SocialSites --class FirefoxSocialSites
+Icon=user-available-symbolic
+StartupWMClass=FirefoxSocialSites
+它还适用于 Firefox 衍生产品，例如 Librewolf（可以在上面的屏幕截图中看到）和其他产品。
+]]></description>
+      <guid>https://cukic.co/2024/06/08/firefox-profiles/index.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 08 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>网络评论，第 2024-23 周</title>
@@ -100,13 +122,6 @@ KDE 社区邮件列表。
 ]]></description>
       <guid>https://blog.lydiapintscher.de/2024/06/05/what-should-kde-focus-on-for-the-next-2-years-you-can-propose-a-goal/?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Jun 2024 10:51:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 5.2.3 首个 Beta 版发布</title>
-      <link>https://krita.org/en/posts/2024/krita-5-2-3-beta1/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/krita-5-2-3-beta1/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
