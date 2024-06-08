@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Jun 2024 13:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jun 2024 15:13:39 GMT</lastBuildDate>
     <item>
       <title>GPN22</title>
       <link>https://www.volkerkrause.eu/2024/06/08/gpn22.html?utm_source=atom_feed</link>
@@ -49,11 +49,19 @@
       <pubDate>Wed, 05 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kubuntu、KDE、Debian：我仍然在这里，深情地怀念我的兄弟。</title>
+      <title>Kubuntu、KDE、Debian：我仍然在这里，深情怀念我的兄弟。</title>
       <link>https://www.scarlettgatelymoore.dev/kubuntu-kde-debian-i-am-still-here-in-loving-memory-of-my-brother/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kubuntu-kde-debian-i-am-still-here-in-loving-memory-of-my-brother/?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Jun 2024 17:30:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE e.V. 正在寻找承包商来协调 KDE 目标流程</title>
+      <link>https://ev.kde.org/2024/06/05/2024-06-06-job-project-coordinator/?utm_source=atom_feed</link>
+      <description><![CDATA[KDE e.V. 是一家支持 KDE 社区的非营利组织，正在寻找积极主动的承包商来支持和协调 KDE 目标流程。该职位涉及提供项目管理、社区参与、活动策划和其他所需服务，以帮助推动 KDE 目标的成功。请参阅招聘广告，了解有关此承包机会的更多详细信息。
+我们期待您的申请。]]></description>
+      <guid>https://ev.kde.org/2024/06/05/2024-06-06-job-project-coordinator/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 05 Jun 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
       <title>KDE 未来两年应该关注什么？你可以提出一个目标！</title>
@@ -98,43 +106,6 @@ KDE 社区邮件列表。
       <link>https://krita.org/en/posts/2024/krita-5-2-3-beta1/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/krita-5-2-3-beta1/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载2.2.0</title>
-      <link>https://blogs.kde.org/2024/06/05/ruqola-2.2.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Ruqola 2.2.0 是 Rocket.chat 应用程序的一个功能和错误修复版本。
-改进：
-
-允许增大/减小字体 (CTRL++/CTRL+-)
-添加频道列表样式 (精简/中等/扩展)
-添加转发消息
-改进提及支持。
-添加对深度链接 Deep Linking 的支持。
-实施阻止操作。
-实施个人令牌身份验证。 Bug 481400
-添加 Plasma 活动支持
-添加报告用户支持
-实现频道声音通知。
-实现新房间声音通知。
-实现已排序/未排序的 markdown 列表。
-
-一些错误修复：
-
-修复暗模式支持。
-修复 jitsi 支持。修复直接频道中的翻译消息。
-不将 @here/@all 显示为用户。
-减少内存占用。
-使用 RESTAPI 进行日志记录。
-允许发送多个文件。
-修复预览网址。
-
-网址： https://download.kde.org/stable/ruqola/
-来源：ruqola-2.2.0.tar.xz
-SHA256： 4091126316ab0cd2d4a131facd3cd8fc8c659f348103b852db8b6d1fd4f164e2
-签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18DJonathan Esk-Riddell jr@jriddell.org
-https://jriddell.org/esk-riddell.gpg]]></description>
-      <guid>https://blogs.kde.org/2024/06/05/ruqola-2.2.0/?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
