@@ -4,7 +4,30 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 09 Jun 2024 18:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 23:13:05 GMT</lastBuildDate>
+    <item>
+      <title>新的人机界面指南</title>
+      <link>https://pointieststick.com/2024/06/09/new-human-interface-guidelines/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/06/09/new-human-interface-guidelines/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 09 Jun 2024 22:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Stopmotion 0.8.7 发布</title>
+      <link>https://gruenich.blogspot.com/2024/06/release-of-kde-stopmotion-087.html?utm_source=atom_feed</link>
+      <description><![CDATA[今天 KDE Stopmotion 0.8.7 正式发布！关于 StopmotionStopmotion
+是一款用于创建定格动画的免费开源应用程序。它
+可帮助您捕获和编辑动画帧并将其
+导出为单个文件。可从网络摄像头、MiniDV 摄像机和 DSLR 摄像机直接
+捕获。它提供
+洋葱皮、从磁盘导入图像和延时摄影功能。
+Stopmotion 支持多个场景、帧编辑、基本音轨、
+以不同帧速率播放动画以及用于
+图像的 GIMP 集成。可以将影片导出到文件和 Cinelerra 帧列表。从技术上讲，它是一个 C++ / Qt 应用程序，具有对相机捕获库的可选依赖项。0.8.7 版中的更改此版本没有新功能，但对项目本身进行了改进。更改该项目现在正式命名为 KDE Stopmotion。不再使用以前的名称 Linux Stopmotion。已删除对 qmake 的支持。改用 CMake。功能将序列化移植到 libarchive。放弃了 libtar。（感谢 Bastian Germann）错误修复.sto 文件缺少 tar 尾部。 （#16，感谢 Bastian Germann 提供修复）改进使用 pkg-config 查找依赖项 vorbisfile 和 xml2（感谢 Barak Pearlmutter）删除依赖于 Qt 5 中弃用的代码；这是为迁移到 Qt 6 所做的准备。未来计划从 Qt 5 过渡到版本 6。我被困在了  QAudioDeviceInfo  的移植中，该移植已在 Qt 6 中被删除。我需要一些帮助，以便将 Stopmotion 移植到使用 Qt 6 / Qt Mulimedia 处理音频的新方式。我们应该更好地集成到 KDE 的技术堆栈中：国际化，使用 KDE 库，更新和重新格式化文档。参与进来！如果您有兴趣，请尝试 Stopmotion。联系我们的邮件列表 stopmotion@kde.org 或查看 我们的项目。分享您的想法或参与进来！
+]]></description>
+      <guid>https://gruenich.blogspot.com/2024/06/release-of-kde-stopmotion-087.html?utm_source=atom_feed</guid>
+      <pubDate>Sun, 09 Jun 2024 21:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Firefox 配置文件和 Plasma 启动器 (X11)</title>
       <link>https://cukic.co/2024/06/08/firefox-profiles/index.html?utm_source=atom_feed</link>
@@ -97,21 +120,6 @@ G2 根据 CC BY-NC-SA 4.0 许可了这些文件。
       <description><![CDATA[]]></description>
       <guid>https://euroquis.nl//kde/2024/06/06/public.html?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Jun 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu、KDE、Debian：我仍然在这里，深情地怀念我的兄弟。</title>
-      <link>https://www.scarlettgatelymoore.dev/kubuntu-kde-debian-i-am-still-here-in-loving-memory-of-my-brother/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kubuntu-kde-debian-i-am-still-here-in-loving-memory-of-my-brother/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Jun 2024 17:30:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE e.V. 正在寻找承包商来协调 KDE 目标流程</title>
-      <link>https://ev.kde.org/2024/06/05/2024-06-06-job-project-coordinator/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE e.V. 是一家支持 KDE 社区的非营利组织，正在寻找积极主动的承包商来支持和协调 KDE 目标流程。该职位涉及提供项目管理、社区参与、活动策划和其他所需服务，以帮助推动 KDE 目标的成功。请参阅招聘广告，了解有关此承包机会的更多详细信息。
-我们期待您的申请。]]></description>
-      <guid>https://ev.kde.org/2024/06/05/2024-06-06-job-project-coordinator/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Jun 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
