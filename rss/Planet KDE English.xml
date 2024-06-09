@@ -4,7 +4,32 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 09 Jun 2024 10:13:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Jun 2024 18:36:31 GMT</lastBuildDate>
+    <item>
+      <title>Firefox 配置文件和 Plasma 启动器 (X11)</title>
+      <link>https://cukic.co/2024/06/08/firefox-profiles/index.html?utm_source=atom_feed</link>
+      <description><![CDATA[我是 Firefox 配置文件的重度用户。除了为不同的活动使用不同的配置文件外，我还有几个额外的配置文件，它们都在 Default 活动中运行。
+这意味着我需要在 Plasma 的面板中显示不同的图标，以便能够轻松区分窗口属于哪个配置文件。
+当然，我使用显示窗口标题的任务小程序，而不是仅显示图标的标题（我更喜欢可用性而不是极简主义），但这还不够，因为有时 Firefox 窗口中的活动选项卡可能没有最具信息量的标题。
+当选择将在面板中显示的图标时，Plasma 似乎依赖于应用程序名称和窗口类。这意味着，默认情况下，所有 Firefox 实例最终都具有相同的图标。
+
+
+Librewolf 具有自定义配置文件图标
+
+幸运的是，Firefox 允许您通过命令行参数指定它应该使用的窗口类。
+firefox -P ProfileName --class WindowClassName
+并且，要将启动器连接到特定的窗口类，您只需将以下行添加到 .desktop 文件：
+StartupWMClass=WindowClassName
+因此，为了获得良好支持的 Firefox 配置文件，您可以创建一个启动器，其桌面文件类似于以下：
+[桌面条目]
+Exec=firefox -P SocialSites --class FirefoxSocialSites
+Icon=user-available-symbolic
+StartupWMClass=FirefoxSocialSites
+它还适用于 Firefox 衍生产品，例如 Librewolf（可以在上面的屏幕截图中看到）和其他产品。
+]]></description>
+      <guid>https://cukic.co/2024/06/08/firefox-profiles/index.html?utm_source=atom_feed</guid>
+      <pubDate>Sun, 09 Jun 2024 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>凯特趣味标志</title>
       <link>https://kate-editor.org/post/2024/2024-06-08-kate-fun-logo/?utm_source=atom_feed</link>
@@ -87,44 +112,6 @@ G2 根据 CC BY-NC-SA 4.0 许可了这些文件。
 我们期待您的申请。]]></description>
       <guid>https://ev.kde.org/2024/06/05/2024-06-06-job-project-coordinator/?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Jun 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 未来两年应该关注什么？你可以提出一个目标！</title>
-      <link>https://blog.lydiapintscher.de/2024/06/05/what-should-kde-focus-on-for-the-next-2-years-you-can-propose-a-goal/?utm_source=atom_feed</link>
-      <description><![CDATA[每 2 到 3 年，KDE 都会选择 3 个目标，供整个社区在未来几年关注。在过去的 2 年里，我们专注于提高应用程序的可访问性，努力使我们的软件更具可持续性和自动化，并改进了许多流程，使 KDE 中的软件开发更加顺畅。要了解有关这些目标的更多信息，请查看 KDE 目标页面。我们将在今年晚些时候在 维尔茨堡学院 上总结这些目标。
-现在是时候确定下一个目标了。我们今天开始征集提案。这意味着您（没错，就是您！）可以为您和其他人在未来 2 年内想要做的事情而努力，并团结 KDE 社区。为了给你一些灵感，你可以看看我们前几年制定的完整目标列表。
-它是如何工作的？
-你（和一小群其他人）可以通过在这个 Phabricator 论坛上开立工单来提交提案。将模板复制到新工单中并解释你的想法。模板会给你一些提示，帮助你创建一个有意义的提案。这个过程开放至 7 月 5 日。 （7 月 5 日我们将开始完善阶段，届时其他人可以进一步帮助您改进提案。）
-需要注意的事项
-
-该流程明确向尚未成为 KDE 贡献者的人员开放。
-该流程明确向所有人开放，而不仅仅是开发人员。
-我们希望目标的拥护者成为拥护者，而不是唯一为实现目标而努力的人。同时，他们需要付出大量努力来团结人们实现他们的目标。
-
-与以前的版本相比有什么不同？
-这次我们对流程进行了一些调整。如果您熟悉前几年的流程，以下是最重要的变化：
-
-我们正在从个人拥护者转变为一个小的拥护者团队。每个目标都应该有一个人来推动目标的愿景，一个人在技术上引导它，一个人在推动它。其他设置也是可能的，只要它对特定目标有意义，但目标需要一个小团队。还没有团队吗？没关系。提交一份提案并说出你的需求。我们会尽力帮助寻找其他人加入。
-我们更注重让冠军角色通过其他人推动目标向前发展，而不是自己做所有的工作。
-我们将与目标冠军合作，为支持他们目标的特定项目筹集资金。
-
-时间表是什么？
-
-从今天开始到 7 月 5 日：提出目标并寻找团队
-7 月 5 日至 8 月 15 日：与社区一起完善提案（确定问题、消除阻碍、完善提案等）
-8 月 15 日至 31 日：由活跃的 KDE 贡献者对提议的目标进行投票
-9 月 6/7 日：在 Akademy 上公布选定的目标
-
-还有问题吗？
-如果您还有问题，可以在不同的地方提问：
-
-6 月 14 日晚上 7 点柏林时间办公时间。您可以在此处找到您所在时区的时间。会议将在 BigBlueButton 上举行。
-KDE 目标矩阵 频道。
-KDE 社区邮件列表。
-直接联系我。
-]]></description>
-      <guid>https://blog.lydiapintscher.de/2024/06/05/what-should-kde-focus-on-for-the-next-2-years-you-can-propose-a-goal/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Jun 2024 10:51:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
