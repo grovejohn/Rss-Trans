@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 10 Jun 2024 21:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 22:14:35 GMT</lastBuildDate>
+    <item>
+      <title>黑客窃取数百名 Snowflake 客户的“大量”数据</title>
+      <link>https://arstechnica.com/?p=2030619</link>
+      <description><![CDATA[考虑到 Snowflake 及其客户的缺点，需要承担的责任有很多。]]></description>
+      <guid>https://arstechnica.com/?p=2030619</guid>
+      <pubDate>Mon, 10 Jun 2024 22:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究：三个中世纪维京女性的头骨被故意拉长</title>
+      <link>https://arstechnica.com/?p=2014895</link>
+      <description><![CDATA[还有证据表明，大约 130 个男性维京人头骨上有经过刻意锉磨的牙齿。]]></description>
+      <guid>https://arstechnica.com/?p=2014895</guid>
+      <pubDate>Mon, 10 Jun 2024 21:53:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Pay 应用已停用</title>
+      <link>https://arstechnica.com/?p=2030018</link>
+      <description><![CDATA[Google Wallet 接管了应用程序职责，但看起来谷歌正在退出 P2P 支付。]]></description>
+      <guid>https://arstechnica.com/?p=2030018</guid>
+      <pubDate>Mon, 10 Jun 2024 21:41:02 GMT</pubDate>
+    </item>
     <item>
       <title>这些是所有兼容 iOS 18 和 iPadOS 18 的设备</title>
       <link>https://arstechnica.com/?p=2030142</link>
@@ -27,7 +48,7 @@
       <pubDate>Mon, 10 Jun 2024 19:15:42 GMT</pubDate>
     </item>
     <item>
-      <title>苹果的人工智能承诺：“苹果绝不会存储或访问你的数据”</title>
+      <title>苹果的人工智能承诺：“你的数据绝不会被存储，也不会被苹果获取”</title>
       <link>https://arstechnica.com/?p=2030487</link>
       <description><![CDATA[并且可公开审查的服务器代码意味着专家可以“验证这一隐私承诺”。]]></description>
       <guid>https://arstechnica.com/?p=2030487</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[USTelecom 以折扣计划已终止为由，要求科技巨头支付新款项。]]></description>
       <guid>https://arstechnica.com/?p=2030318</guid>
       <pubDate>Mon, 10 Jun 2024 18:40:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPadOS 18 增加了机器学习功能，包括手写和数学功能</title>
-      <link>https://arstechnica.com/?p=2030308</link>
-      <description><![CDATA[同时还将推出：新的 SharePlay 功能和用于第一方应用程序的新“标签栏”。]]></description>
-      <guid>https://arstechnica.com/?p=2030308</guid>
-      <pubDate>Mon, 10 Jun 2024 18:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果宣布推出 macOS 15 Sequoia，具有窗口平铺、iPhone 镜像等功能</title>
-      <link>https://arstechnica.com/?p=2030136</link>
-      <description><![CDATA[新版本带来了 iOS 18 的功能以及一些 Mac 特有的附加功能。]]></description>
-      <guid>https://arstechnica.com/?p=2030136</guid>
-      <pubDate>Mon, 10 Jun 2024 17:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18 增加了 Apple Intelligence、自定义功能，并使 Android SMS 更加友好</title>
-      <link>https://arstechnica.com/?p=2030149</link>
-      <description><![CDATA[邮件新增类别，信息获得更多点击返回，应用程序现在可以锁定。]]></description>
-      <guid>https://arstechnica.com/?p=2030149</guid>
-      <pubDate>Mon, 10 Jun 2024 17:47:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
