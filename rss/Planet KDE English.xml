@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Jun 2024 04:38:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 18:18:12 GMT</lastBuildDate>
     <item>
       <title>第 2 周回顾 - Aseprite 的像素完美</title>
       <link>https://kenlo.hashnode.dev/week-2-recap-aseprites-pixel-perfect?utm_source=atom_feed</link>
@@ -61,6 +61,66 @@ StartupWMClass=FirefoxSocialSites
       <pubDate>Sun, 09 Jun 2024 17:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Selenium 入门 - 第 1 部分：Selenium 简介</title>
+      <link>https://tube.kockatoo.org/w/nLh4pn9P3dfqGeAYs4NXkW?utm_source=atom_feed</link>
+      <description><![CDATA[在此视频中，我介绍了用于测试 KDE 应用程序的 Selenium AT-SPI。我介绍了 KDE 的可持续软件、可访问性和系统测试自动化目标，以及 Selenium 如何帮助实现所有这些目标。
+Selenium AT-SPI 是一款出色的软件，由 KDE 开发人员 Harald Sitter 编写。它是 KDE 中用于自动测试 GUI 应用程序的工具。这使开发人员能够设计所有人都可以访问的应用程序并提高其能源效率。作为 KDE 2024 季的一部分，我决定为 KDE 开发人员制作一个视频教程。
+如果您觉得此视频有用，您可以通过 Gitter 与我联系。我很乐意收到您的回复 😃
+该视频由 Pradyot Ranjan (@pradyotranjan:gitter.im) 制作。
+
+第 2 部分：设置 Selenium
+第 3 部分：识别可访问性问题
+第 4 部分：编写 Selenium 测试
+]]></description>
+      <guid>https://tube.kockatoo.org/w/nLh4pn9P3dfqGeAYs4NXkW?utm_source=atom_feed</guid>
+      <pubDate>Sat, 08 Jun 2024 19:31:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selenium 入门 - 第 4 部分：编写 Selenium 测试</title>
+      <link>https://tube.kockatoo.org/w/4AZiuGLD9qz1c1qNxySMfv?utm_source=atom_feed</link>
+      <description><![CDATA[在此视频中，我深入研究了如何使用 Selenium 编写测试。我为 KCalc 计算器应用程序创建了一个简单的测试，并使用 Selenium AT-SPI 运行它。可以按照类似的步骤为任何 KDE 应用程序编写 GUI 测试。
+Selenium AT-SPI 是一款出色的软件，由 KDE 开发人员 Harald Sitter 编写。它是 KDE 中用于自动测试 GUI 应用程序的工具。这使开发人员能够设计所有人都可以访问的应用程序并提高其能源效率。作为 KDE 2024 季的一部分，我决定为 KDE 开发人员制作一个视频教程。
+如果您觉得这个视频有用，您可以在 Gitter 上联系我。我很乐意收到您的回复 😃
+该视频由 Pradyot Ranjan (@pradyotranjan:gitter.im) 制作。
+
+第 1 部分：Selenium 简介
+第 2 部分：设置 Selenium
+第 3 部分：识别可访问性问题
+]]></description>
+      <guid>https://tube.kockatoo.org/w/4AZiuGLD9qz1c1qNxySMfv?utm_source=atom_feed</guid>
+      <pubDate>Sat, 08 Jun 2024 19:20:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selenium 入门 - 第 3 部分：识别可访问性问题</title>
+      <link>https://tube.kockatoo.org/w/qx66EDtn9psvQb4jtqtXwL?utm_source=atom_feed</link>
+      <description><![CDATA[在此视频中，我解释了 accerciser 实用程序的工作原理。Accerciser 是一种用于识别和测试 GUI 可访问性元素的工具。我还在 KDE 计算器应用程序 KCalc 上运行 accerciser。
+Selenium AT-SPI 是一款出色的软件，由 KDE 开发人员 Harald Sitter 编写。它是 KDE 中用于自动测试 GUI 应用程序的工具。这使开发人员能够设计所有人都可以访问的应用程序并提高其能源效率。作为 KDE 2024 季的一部分，我决定为 KDE 开发人员制作一个视频教程。
+如果您觉得这个视频有用，您可以在 Gitter 上联系我。我很乐意收到您的回复 😃
+该视频由 Pradyot Ranjan (@pradyotranjan:gitter.im) 制作。
+
+第 1 部分：Selenium 简介
+第 2 部分：设置 Selenium
+第 4 部分：编写 Selenium 测试
+]]></description>
+      <guid>https://tube.kockatoo.org/w/qx66EDtn9psvQb4jtqtXwL?utm_source=atom_feed</guid>
+      <pubDate>Sat, 08 Jun 2024 19:19:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Selenium 入门 - 第 2 部分：设置 Selenium</title>
+      <link>https://tube.kockatoo.org/w/xvaoVsAgka1rnQjwQ5sBkK?utm_source=atom_feed</link>
+      <description><![CDATA[在此视频中，我在 KDE Neon 上本地设置了 Selenium AT-SPI。此视频遵循此处的 Selenium 设置指南：https://community.kde.org/Selenium。
+Selenium AT-SPI 是由 KDE 开发人员 Harald Sitter 编写的一款出色的软件。它是 KDE 中用于自动测试 GUI 应用程序的工具。这使开发人员能够设计所有人都可以访问的应用程序并提高其能源效率。作为 KDE 2024 季的一部分，我决定为 KDE 开发人员制作一个视频教程。
+如果您觉得此视频有用，您可以通过 Gitter 与我联系。我很乐意收到您的回复 😃
+该视频由 Pradyot Ranjan (@pradyotranjan:gitter.im) 制作。
+
+第 1 部分：Selenium 简介
+第 3 部分：识别可访问性问题
+第 4 部分：编写 Selenium 测试
+]]></description>
+      <guid>https://tube.kockatoo.org/w/xvaoVsAgka1rnQjwQ5sBkK?utm_source=atom_feed</guid>
+      <pubDate>Sat, 08 Jun 2024 19:19:27 GMT</pubDate>
+    </item>
+    <item>
       <title>凯特趣味标志</title>
       <link>https://kate-editor.org/post/2024/2024-06-08-kate-fun-logo/?utm_source=atom_feed</link>
       <description><![CDATA[G2 在 reddit 上为 Kate 发布了一些有趣的徽标。
@@ -91,35 +151,6 @@ G2 根据 CC BY-NC-SA 4.0 许可了这些文件。
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/06/08/gpn22.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 08 Jun 2024 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 过去两周：Plasma 6.1 的大规模稳定性工作</title>
-      <link>https://pointieststick.com/2024/06/07/these-past-two-weeks-in-kde-massive-stability-work-for-plasma-6-1/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/06/07/these-past-two-weeks-in-kde-massive-stability-work-for-plasma-6-1/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 08 Jun 2024 05:33:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-23 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/06/07/web-review-week-2024-23/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/06/07/web-review-week-2024-23/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 07 Jun 2024 09:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 13.0.2 发布</title>
-      <link>https://www.qt.io/blog/qt-creator-13.0.2-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Qt Creator 13.0.2 正式发布！
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-13.0.2-released?utm_source=atom_feed</guid>
-      <pubDate>Fri, 07 Jun 2024 06:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 发布框架 6.3.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.3.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.3.0/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
