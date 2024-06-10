@@ -4,7 +4,14 @@
     <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Jun 2024 01:01:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2024 04:38:50 GMT</lastBuildDate>
+    <item>
+      <title>第 2 周回顾 - Aseprite 的像素完美</title>
+      <link>https://kenlo.hashnode.dev/week-2-recap-aseprites-pixel-perfect?utm_source=atom_feed</link>
+      <description><![CDATA[大家好，这是第二周，也是我计划进行研究的最后一周。这周我仔细研究了 Krita 的代码库和像素完美算法。重点关注了如何实现像素完美的示例（特别是在 Aseprite 中）。...]]></description>
+      <guid>https://kenlo.hashnode.dev/week-2-recap-aseprites-pixel-perfect?utm_source=atom_feed</guid>
+      <pubDate>Mon, 10 Jun 2024 03:59:27 GMT</pubDate>
+    </item>
     <item>
       <title>新的人机界面指南</title>
       <link>https://pointieststick.com/2024/06/09/new-human-interface-guidelines/?utm_source=atom_feed</link>
@@ -113,13 +120,6 @@ G2 根据 CC BY-NC-SA 4.0 许可了这些文件。
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.3.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 07 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>不必要的公开</title>
-      <link>https://euroquis.nl//kde/2024/06/06/public.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://euroquis.nl//kde/2024/06/06/public.html?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
