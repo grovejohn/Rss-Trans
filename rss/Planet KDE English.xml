@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Jun 2024 00:59:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 08:38:37 GMT</lastBuildDate>
     <item>
       <title>需要帮助！将 KDE 框架 oss-fuzz 版本移植到 Qt6/KF6</title>
       <link>https://tsdgeos.blogspot.com/2024/06/help-wanted-port-kde-frameworks-oss.html?utm_source=atom_feed</link>
@@ -43,26 +43,33 @@ Stopmotion 支持多个场景、帧编辑、基本音轨、
       <pubDate>Sun, 09 Jun 2024 21:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>Firefox 配置文件和 Plasma 启动器 (X11)</title>
+      <title>Firefox 配置文件和 Plasma 启动器（X11 /编辑：和 Wayland/）</title>
       <link>https://cukic.co/2024/06/08/firefox-profiles/index.html?utm_source=atom_feed</link>
       <description><![CDATA[我是 Firefox 配置文件的重度用户。除了为不同的活动使用不同的配置文件外，我还有几个额外的配置文件，它们都在 Default 活动中运行。
 这意味着我需要在 Plasma 的面板中显示不同的图标，以便能够轻松区分窗口属于哪个配置文件。
 当然，我使用显示窗口标题的任务小程序，而不是仅显示图标的标题（我更喜欢可用性而不是极简主义），但这还不够，因为有时 Firefox 窗口中的活动选项卡可能没有最具信息量的标题。
-当选择将在面板中显示的图标时，Plasma 似乎依赖于应用程序名称和窗口类。这意味着，默认情况下，所有 Firefox 实例最终都具有相同的图标。
+当选择将在面板中显示的图标时，Plasma 似乎依赖于应用程序名称和窗口类。这意味着，默认情况下，所有 Firefox 实例最终都会具有相同的图标。
 
 
-Librewolf 具有自定义配置文件图标
+Librewolf with a custom profile icon
 
 幸运的是，Firefox 允许您通过命令行参数指定它应该使用的窗口类。
 firefox -P ProfileName --class WindowClassName
-并且，要将启动器连接到特定的窗口类，您只需将以下行添加到 .desktop 文件：
+并且，要将启动器连接到特定的窗口类，您只需将以下行添加到 .desktop文件：
 StartupWMClass=WindowClassName
-因此，为了获得良好支持的 Firefox 配置文件，您可以创建一个启动器，其桌面文件类似于以下：
+因此，为了获得良好支持的 Firefox 配置文件，您可以
+创建一个具有类似以下内容的桌面文件的启动器：
 [桌面条目]
 Exec=firefox -P SocialSites --class FirefoxSocialSites
 Icon=user-available-symbolic
 StartupWMClass=FirefoxSocialSites
 它还适用于 Firefox 衍生产品，例如 Librewolf（可以在上面的屏幕截图中看到）和其他产品。
+Wayland
+对于 Wayland 用户，John Kizer 的评论可能会有用：
+
+在 Wayland 上，我最终只使用 KWin 窗口规则（基于窗口标题的子字符串，并设置桌面文件名）与启动 Firefox 的 .desktop 文件结合使用有问题的网站
+并关联所需的图标。
+
 ]]></description>
       <guid>https://cukic.co/2024/06/08/firefox-profiles/index.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 09 Jun 2024 17:00:00 GMT</pubDate>
