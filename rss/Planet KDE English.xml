@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Jun 2024 18:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 00:59:42 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助！将 KDE 框架 oss-fuzz 版本移植到 Qt6/KF6</title>
+      <link>https://tsdgeos.blogspot.com/2024/06/help-wanted-port-kde-frameworks-oss.html?utm_source=atom_feed</link>
+      <description><![CDATA[如果您正在寻找一种独立且直接的方式来开始为 KDE 做出贡献，那么您来对地方了。在 KDE，我们通过 oss-fuzz 使用模糊测试来尝试确保我们的库能够抵御损坏的输入。以下是您可以如何帮助我们完成这项重要任务。什么是模糊测试？模糊测试涉及将“随机” [1] 数据输入到我们的代码中，以检查其对无效或意外输入的鲁棒性。这对于确保在没有直接用户控制的情况下处理数据的应用程序的安全性和稳定性至关重要。为什么模糊测试很重要？想象一下通过电子邮件收到一张图片，将其保存到您的磁盘并在 Dolphin 中打开它。这将使 Dolphin 创建该图片的缩略图。如果图片已损坏并且我们的图片插件代码不可靠，那么最好的情况就是 Dolphin 崩溃。在最坏的情况下，它可能会导致安全漏洞。因此，模糊测试有助于防止此类漏洞。您可以如何提供帮助：我们需要更新 oss-fuzz 中的 KDE 库版本以使用 Qt6。此任务可能具有挑战性，因为它涉及静态编译并确保为所有编译单元传递了正确的标志。贡献步骤：从 karchive 项目开始下载oss-fuzz并进入karchive 子文件夹。更新 Dockerfile 以从 dev 分支下载 Qt 并从 master 分支下载 KDE 框架。更新 build.sh 脚本：修改 build.sh 脚本以编译 Qt6（这将更难，因为它涉及移动在 karchive_fuzzer.cc 的顶部，您会发现一条注释，其中包含 oss-fuzz 运行的三个命令。使用这些命令来测试映像构建、模糊测试器构建和运行过程。需要帮忙？如果您有疑问或需要帮助，请通过 aacid@kde.org 与我联系，或在 Matrix 上通过 @tsdgeos:kde.org 与我联系注意：[1] 智能模糊测试引擎不会生成纯随机数据。他们使用半随机和半智能技术来有效地查找代码中的问题。]]></description>
+      <guid>https://tsdgeos.blogspot.com/2024/06/help-wanted-port-kde-frameworks-oss.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 10 Jun 2024 23:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>第 2 周回顾 - Aseprite 的像素完美</title>
       <link>https://kenlo.hashnode.dev/week-2-recap-aseprites-pixel-perfect?utm_source=atom_feed</link>
@@ -144,13 +151,6 @@ G2 根据 CC BY-NC-SA 4.0 许可了这些文件。
 可以在 r/KDE 上找到与此相匹配的帖子。]]></description>
       <guid>https://kate-editor.org/post/2024/2024-06-08-kate-fun-logo/?utm_source=atom_feed</guid>
       <pubDate>Sat, 08 Jun 2024 19:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPN22</title>
-      <link>https://www.volkerkrause.eu/2024/06/08/gpn22.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/06/08/gpn22.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 08 Jun 2024 07:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
