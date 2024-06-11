@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 11 Jun 2024 12:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Jun 2024 14:13:02 GMT</lastBuildDate>
+    <item>
+      <title>斯托克空间首次点燃雄心勃勃的主发动机</title>
+      <link>https://arstechnica.com/?p=2030683</link>
+      <description><![CDATA[“这个行业正在走向完全可重复使用。对我来说，这是不可避免的最终状态。”]]></description>
+      <guid>https://arstechnica.com/?p=2030683</guid>
+      <pubDate>Tue, 11 Jun 2024 13:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>勒索软件团伙在打击行动中采取“更残酷”的策略</title>
+      <link>https://arstechnica.com/?p=2030699</link>
+      <description><![CDATA[由于执法部门与犯罪团伙玩打地鼠游戏，研究人员担心现实世界中会出现暴力事件。]]></description>
+      <guid>https://arstechnica.com/?p=2030699</guid>
+      <pubDate>Tue, 11 Jun 2024 13:22:22 GMT</pubDate>
+    </item>
     <item>
       <title>中微子：让科学家抓狂的神秘“幽灵粒子”</title>
       <link>https://arstechnica.com/?p=2030571</link>
-      <description><![CDATA[这些粒子是新物理学的关键。如果我们能理解它们就好了。]]></description>
+      <description><![CDATA[它们掌握着新物理学的钥匙。如果我们能理解它们就好了。]]></description>
       <guid>https://arstechnica.com/?p=2030571</guid>
       <pubDate>Tue, 11 Jun 2024 11:00:29 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[苹果在 WWDC 2024 主题演讲中首次推出了全新的综合 AI 品牌和生成功能。]]></description>
       <guid>https://arstechnica.com/?p=2030143</guid>
       <pubDate>Mon, 10 Jun 2024 19:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果的人工智能承诺：“你的数据绝不会被存储，也不会被苹果获取”</title>
-      <link>https://arstechnica.com/?p=2030487</link>
-      <description><![CDATA[并且可公开审查的服务器代码意味着专家可以“验证这一隐私承诺”。]]></description>
-      <guid>https://arstechnica.com/?p=2030487</guid>
-      <pubDate>Mon, 10 Jun 2024 19:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是所有将运行 macOS 15 Sequoia 的 Intel 和 Apple Silicon Mac</title>
-      <link>https://arstechnica.com/?p=2030138</link>
-      <description><![CDATA[除一个主要例外外，Sequoia 可以在所有能够运行 Sonoma 的设备上运行。]]></description>
-      <guid>https://arstechnica.com/?p=2030138</guid>
-      <pubDate>Mon, 10 Jun 2024 19:04:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
