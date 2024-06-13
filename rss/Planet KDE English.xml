@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Jun 2024 16:41:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Jun 2024 18:39:09 GMT</lastBuildDate>
     <item>
       <title>GSoC '24 进展：第 1 周和第 2 周</title>
       <link>https://seri037.github.io/blog/posts/development/2/?utm_source=atom_feed</link>
@@ -12,8 +12,8 @@
 在花了一些时间审查代码后，我决定从重构现有的与 ASS 格式字幕相关的代码开始。这有两个主要目标：首先，使 Kdenlive 能够从 ASS 字幕（具体来说，是 libass 支持的功能）中读取尽可能多的信息并将其加载到内存中；其次，确保 Kdenlive 可以将所有这些信息保存回文件中。由于 SubtitleModel 已经包含了大量 ASS 格式字幕的代码，我的工作主要是在保持兼容性的同时完善和扩展这些现有代码。
 到目前为止，我已经完成了以下工作：
 
-增加了对 ASS 字幕中嵌入字体的读取和保存的初步支持
-优化了字幕样式的存储方式
+增加了对读取和保存 ASS 字幕中嵌入字体的初始支持
+优化了字幕样式的存储方法
 从 V4Style 迁移到 V4+Style
 
 尚待完成的任务：
@@ -58,6 +58,12 @@
 现在，这篇文章的主要目的不是让我发泄一下，而是分享一个由 Dan Brown 发起的伟大项目，该项目试图找到并列出所有声称是开源但其许可证却不是这样规定的项目。
 它可以在他的
 Github 帐户。
+与 FSFE 分享您的观点
+Albert 指出，FSFE 也对此话题感兴趣：
+
+FSFE 正在寻找有关openwashing的示例和想法
+如果您愿意，我相信他们会欢迎您的意见mastodon.social/@johas/112524760073638652
+
 ]]></description>
       <guid>https://cukic.co/2024/06/13/open-source/index.html?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Jun 2024 12:30:00 GMT</pubDate>
