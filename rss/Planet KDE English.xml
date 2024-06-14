@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 20:36:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 22:13:34 GMT</lastBuildDate>
+    <item>
+      <title>GSOC 第 1 周 第 2 周</title>
+      <link>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-1-week-2/?utm_source=atom_feed</link>
+      <description><![CDATA[这是我 GSOC 之旅的第一篇博文。我将在这里分享我的作品和经历。请继续关注更多更新。在这篇博客中，我将分享我在 GSOC 的前两周的经历，我做了哪些工作，我面临的挑战是什么，以及我是如何克服这些挑战的（我真的克服了这些挑战吗：P）。
+在第一周，我首先尝试通过做一些小改动来了解 discover 的代码库。]]></description>
+      <guid>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-1-week-2/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Jun 2024 18:37:37 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Gear 24.08 发布时间表</title>
       <link>https://tsdgeos.blogspot.com/2024/06/kde-gear-2408-release-schedule.html?utm_source=atom_feed</link>
@@ -155,17 +163,6 @@ ports$ git daemon --reuseaddr --base-path=. --export-all --verbose
 本周我将为 KWidgetAddons 添加一些示例，因为它现在处于可用状态。如果您想了解进展如何，可以查看代码。]]></description>
       <guid>https://alcarazzam.dev/posts/the-last-2-weeks-in-gsoc/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Jun 2024 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS 15 Sequoia 上的 Qt</title>
-      <link>https://www.qt.io/blog/qt-on-macos-15-sequoia?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-按照惯例，Apple 昨天在 WWDC 上发布了其最新的操作系统版本，其中包括 macOS 15 Sequoia，以内华达山脉国家公园命名。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-on-macos-15-sequoia?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Jun 2024 13:19:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
