@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 18:38:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jun 2024 20:36:43 GMT</lastBuildDate>
     <item>
       <title>KDE Gear 24.08 发布时间表</title>
       <link>https://tsdgeos.blogspot.com/2024/06/kde-gear-2408-release-schedule.html?utm_source=atom_feed</link>
@@ -26,6 +26,15 @@
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-14-beta-released?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Jun 2024 10:21:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kirigami 教程现已移植到 Qt6</title>
+      <link>https://rabbitictranslator.com/kirigami-port-qt6/?utm_source=atom_feed</link>
+      <description><![CDATA[三个月后，KDE 的 Kirigami 教程已移植到 Qt6。
+如果您不知道 Kirigami 是什么：
+Qt 提供两种 GUI 技术来创建桌面应用程序：QtWidgets 和 QtQuick QtWidgets 仅使用 C++，而 QtQuick 使用 QML（加上可选的 C++ 和 JavaScript）Kirigami 是由 KDE 制作的一个库，它扩展了 QtQuick，并提供了许多精美的功能和生活质量组件。严格来说，Kirigami 的 API 变化并不多。]]></description>
+      <guid>https://rabbitictranslator.com/kirigami-port-qt6/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GSoC '24 进展：第 1 周和第 2 周</title>
@@ -153,34 +162,10 @@ ports$ git daemon --reuseaddr --base-path=. --export-all --verbose
       <description><![CDATA[
   
 
-按照惯例，苹果昨天在 WWDC 上发布了最新的操作系统版本，包括 macOS 15 Sequoia，以内华达山脉国家公园命名。
+按照惯例，Apple 昨天在 WWDC 上发布了其最新的操作系统版本，其中包括 macOS 15 Sequoia，以内华达山脉国家公园命名。
 ]]></description>
       <guid>https://www.qt.io/blog/qt-on-macos-15-sequoia?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Jun 2024 13:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma 浏览器集成 1.9.1</title>
-      <link>https://blog.broulik.de/2024/06/plasma-browser-integration-1-9-1/?utm_source=atom_feed</link>
-      <description><![CDATA[我很高兴地宣布，Plasma Browser Integration 1.9.1 版现已在 Firefox Web Store 上发布。这是 Firefox 版本的 1.9 版，早在 2023 年 11 月就发布了。我们不确定它是如何卡在附加组件审核中的，我们也没有意识到这一点，但无论原因是什么，它现在都发布了！这是一个维护版本，其中包含一些重要更改以及常规的翻译更新。当然，Plasma 6 完全支持该扩展！
-Konqi 正在浏览万维网
-Plasma 浏览器集成弥合了浏览器和 Plasma 桌面 之间的差距。它允许您共享链接、在 KRunner 中查找浏览器选项卡和访问过的网站、在通知中心监控下载进度，以及随时在 Plasma 中控制音乐和视频播放，甚至可以使用 KDE Con​​nect 从手机控制音乐和视频播放！
-
-下一个版本可能是移植到 Manifest v3 的 2.0 版本，因为 Chrome 将继续推出强制执行新清单版本。我们仍在尝试寻找一种方法来保持统一的代码库以支持 Firefox 和 Chrome。例如，Chrome 现在需要服务工作者来扩展，而 Firefox 继续仅支持后台页面。不过，最近的 Firefox 和 Chrome 版本似乎支持彼此的清单属性，因此我们有信心在不引入特定于浏览器的 git 分支的情况下完成这项工作。
-有什么新东西？
-如果您是 Firefox 用户，请查看上一版本公告，了解有关新功能的更多详细信息：
-
-重新编写页面注入代码（例如修复 Spotify）
-远离已弃用的 InstallTrigger
-“共享...”菜单现在也在选项卡上下文菜单中
-选项卡运行器仅查询“正常”窗口（无应用程序）
-历史记录运行器跳过“blob” URL
-在向本机消息主机发送消息之前对其进行检查（修复不受支持的平台（例如 Windows）上令人讨厌的控制台警告）
-更漂亮的控制台调试输出
-性能和资源使用改进
-
-（另请参阅我们社区 Wiki 上的变更日志页面）]]></description>
-      <guid>https://blog.broulik.de/2024/06/plasma-browser-integration-1-9-1/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Jun 2024 10:35:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
