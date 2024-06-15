@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Jun 2024 22:13:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Jun 2024 06:37:22 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：Plasma 6.1 最终完善和 6.2 的新功能</title>
+      <link>https://pointieststick.com/2024/06/14/this-week-in-kde-final-plasma-6-1-polishing-and-new-features-for-6-2/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/06/14/this-week-in-kde-final-plasma-6-1-polishing-and-new-features-for-6-2/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 15 Jun 2024 05:11:08 GMT</pubDate>
+    </item>
     <item>
       <title>GSOC 第 1 周 第 2 周</title>
       <link>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-1-week-2/?utm_source=atom_feed</link>
@@ -86,7 +93,7 @@ Qt 提供两种 GUI 技术来创建桌面应用程序：QtWidgets 和 QtQuick Qt
 您不得以任何形式将本软件或任何衍生作品用于商业目的。商业用途的例子包括开展业务运营、许可、租赁或销售软件，或分发软件用于商业产品。
 – Floorp private components/LICENSE
 
-措辞很奇怪，因为看起来您无法使用 Floorp 网络浏览器访问工作电子邮件帐户等，因为那样会将其用于商业用途。这可能不是许可证作者的本意——许可证的意图是禁止通过分叉 Floorp 创建商业产品。
+这句话写得很奇怪，因为看起来你不能使用 Floorp 网络浏览器访问工作电子邮件帐户等，因为那样会将其用于商业用途。这可能不是许可证作者的本意——许可证的意图是禁止通过分叉 Floorp 创建商业产品。
 虽然作者不希望别人从他的作品中获利，但这正是 Floorp 网络浏览器不是开源的原因。
 你可以称它为‘源代码可用’，你可以称它为‘公平代码’，但你不能不称它为开源。
 重新定义开源
@@ -154,15 +161,6 @@ ports$ git daemon --reuseaddr --base-path=. --export-all --verbose
 瞧！这可以快速完成端口修复，而这些修复需要在与我通常进行端口树检查（以及我的 GPG 密钥等）的机器不同的机器上完成。]]></description>
       <guid>https://euroquis.nl//freebsd/2024/06/13/freebsd13_2.html?utm_source=atom_feed</guid>
       <pubDate>Wed, 12 Jun 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 GSoC 中的最后两周</title>
-      <link>https://alcarazzam.dev/posts/the-last-2-weeks-in-gsoc/?utm_source=atom_feed</link>
-      <description><![CDATA[我们已经进入了 Google Summer of Code 编码阶段的第三周！提醒一下，我正在为一些 KDE 框架添加 Python 支持。在前两周，我添加了对 KWidgetsAddons 的支持，现在几乎完成了，除了两个小部件，它们的绑定没有正确生成并且无法编译。
-我还编写了（在我的导师 Carl 的帮助下）构建库所需的 CMake 代码。这部分可能（希望）会在 extra-cmake-modules 中结束，以便任何人都可以轻松使用它。计划最终将每个绑定提交到他们的存储库，以便更容易使 C++ 库与它们的 Python 绑定保持同步。
-本周我将为 KWidgetAddons 添加一些示例，因为它现在处于可用状态。如果您想了解进展如何，可以查看代码。]]></description>
-      <guid>https://alcarazzam.dev/posts/the-last-2-weeks-in-gsoc/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Jun 2024 15:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
