@@ -4,13 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Jun 2024 14:35:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 22:37:16 GMT</lastBuildDate>
     <item>
       <title>KDEPIM 2024 年春季冲刺报告</title>
       <link>https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/?utm_source=atom_feed</guid>
       <pubDate>Sun, 16 Jun 2024 14:04:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE PIM Sprint 2024 版</title>
+      <link>https://carlschwan.eu/2024/06/16/kde-pim-sprint-2024-edition/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://carlschwan.eu/2024/06/16/kde-pim-sprint-2024-edition/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 16 Jun 2024 10:10:35 GMT</pubDate>
     </item>
     <item>
       <title>本周 KDE：Plasma 6.1 最终完善和 6.2 的新功能</title>
@@ -120,26 +127,6 @@ FSFE 正在寻找有关openwashing的示例和想法
 ]]></description>
       <guid>https://cukic.co/2024/06/13/open-source/index.html?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Jun 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 齿轮 24.05.1</title>
-      <link>https://kde.org/announcements/gear/24.05.1/?utm_source=atom_feed</link>
-      <description><![CDATA[作为 KDE Gear 的一部分，超过 180 个独立程序以及数十个程序员库和功能插件同时发布。
-今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
-
-elisa：修复 DBus 服务激活（提交，修复错误#487905）
-kcalc：正确处理某些表达式（提交，修复错误 #487614)
-kcolorpicker：允许使用 Wayland 选择屏幕颜色 (提交，修复错误 #479406)
-
-发行版和应用商店打包者应更新其应用程序包。
-
-24.05 发行说明，了解有关 tarball 和已知问题的信息。
-软件包下载 wiki 页面
-24.05.1 源信息页面
-24.05.1 完整更新日志
-]]></description>
-      <guid>https://kde.org/announcements/gear/24.05.1/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
