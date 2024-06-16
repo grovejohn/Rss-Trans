@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 16 Jun 2024 10:37:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 11:12:20 GMT</lastBuildDate>
+    <item>
+      <title>基于光的芯片或能满足人工智能日益增长的能源需求</title>
+      <link>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</link>
+      <description><![CDATA[光学神经网络使用光子代替电子，与传统系统相比具有优势，但也面临重大障碍。]]></description>
+      <guid>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</guid>
+      <pubDate>Sun, 16 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>让战争机器狗溜走</title>
       <link>https://www.wired.com/story/let-slip-the-robot-dogs-of-war/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一位微生物学家解释了如何在烧烤、游泳池或小路上避免感染夏季细菌。]]></description>
       <guid>https://www.wired.com/story/summer-sickness-illness-flu-germs-backyard-water/</guid>
       <pubDate>Sat, 15 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple Intelligence 无法在数亿部 iPhone 上运行，但或许可以</title>
-      <link>https://www.wired.com/story/apple-intelligence-wont-work-on-100s-of-millions-of-iphones-but-maybe-it-could/</link>
-      <description><![CDATA[老款 iPhone 或许能够应对苹果的 AI，那么为什么你那台售价 900 美元的旧款 iPhone 却无法运行它呢？原因如下。]]></description>
-      <guid>https://www.wired.com/story/apple-intelligence-wont-work-on-100s-of-millions-of-iphones-but-maybe-it-could/</guid>
-      <pubDate>Sat, 15 Jun 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
