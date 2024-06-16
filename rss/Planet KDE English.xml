@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Jun 2024 06:37:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Jun 2024 14:35:23 GMT</lastBuildDate>
+    <item>
+      <title>KDEPIM 2024 年春季冲刺报告</title>
+      <link>https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 16 Jun 2024 14:04:39 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE：Plasma 6.1 最终完善和 6.2 的新功能</title>
       <link>https://pointieststick.com/2024/06/14/this-week-in-kde-final-plasma-6-1-polishing-and-new-features-for-6-2/?utm_source=atom_feed</link>
@@ -15,7 +22,7 @@
     <item>
       <title>GSOC 第 1 周 第 2 周</title>
       <link>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-1-week-2/?utm_source=atom_feed</link>
-      <description><![CDATA[这是我 GSOC 之旅的第一篇博文。我将在这里分享我的作品和经历。请继续关注更多更新。在这篇博客中，我将分享我在 GSOC 的前两周的经历，我做了哪些工作，我面临的挑战是什么，以及我是如何克服这些挑战的（我真的克服了这些挑战吗：P）。
+      <description><![CDATA[这是我 GSOC 之旅的第一篇博文。我将在这里分享我的作品和经历。请继续关注更多更新。在这篇博客中，我将分享我在 GSOC 的前两周的经历，我做了哪些工作，我面临的挑战是什么，以及我是如何克服这些挑战的（我真的克服了它们吗：P）。
 在第一周，我首先尝试通过做一些小改动来了解 discover 的代码库。]]></description>
       <guid>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-1-week-2/?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Jun 2024 18:37:37 GMT</pubDate>
@@ -58,8 +65,8 @@ Qt 提供两种 GUI 技术来创建桌面应用程序：QtWidgets 和 QtQuick Qt
 在花了一些时间审查代码后，我决定从重构现有的与 ASS 格式字幕相关的代码开始。这有两个主要目标：首先，使 Kdenlive 能够从 ASS 字幕（具体来说，是 libass 支持的功能）中读取尽可能多的信息并将其加载到内存中；其次，确保 Kdenlive 可以将所有这些信息保存回文件中。由于 SubtitleModel 已经包含了大量 ASS 格式字幕的代码，我的工作主要是在保持兼容性的同时完善和扩展这些现有代码。
 到目前为止，我已经完成了以下工作：
 
-增加了对读取和保存 ASS 字幕中嵌入字体的初始支持
-优化了字幕样式的存储方法
+增加了对读取和保存 ASS 字幕中嵌入字体的初步支持
+优化了字幕样式的存储方式
 从 V4Style 迁移到 V4+Style
 
 尚待完成的任务：
@@ -93,7 +100,7 @@ Qt 提供两种 GUI 技术来创建桌面应用程序：QtWidgets 和 QtQuick Qt
 您不得以任何形式将本软件或任何衍生作品用于商业目的。商业用途的例子包括开展业务运营、许可、租赁或销售软件，或分发软件用于商业产品。
 – Floorp private components/LICENSE
 
-这句话写得很奇怪，因为看起来你不能使用 Floorp 网络浏览器访问工作电子邮件帐户等，因为那样会将其用于商业用途。这可能不是许可证作者的本意——许可证的意图是禁止通过分叉 Floorp 创建商业产品。
+措辞很奇怪，因为看起来您无法使用 Floorp 网络浏览器访问工作电子邮件帐户等，因为那样会将其用于商业用途。这可能不是许可证作者的本意——许可证的意图是禁止通过分叉 Floorp 创建商业产品。
 虽然作者不希望别人从他的作品中获利，但这正是 Floorp 网络浏览器不是开源的原因。
 你可以称它为‘源代码可用’，你可以称它为‘公平代码’，但你不能不称它为开源。
 重新定义开源
@@ -133,34 +140,6 @@ kcolorpicker：允许使用 Wayland 选择屏幕颜色 (提交，修复错误 #4
 ]]></description>
       <guid>https://kde.org/announcements/gear/24.05.1/?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>提供 git 树</title>
-      <link>https://euroquis.nl//freebsd/2024/06/13/freebsd13_2.html?utm_source=atom_feed</link>
-      <description><![CDATA[对于 FreeBSD 打包（编写所谓的“端口”），我通常
-只是在我的主机系统上构建 - 无论是在实际主机中，还是使用
-poudriere - 然后就结束了。如果它在 amd64 上编译，那么它应该
-在任何地方都能工作，对吧？（毕竟，“全世界都是 VAX”）
-
-顺便说一句，这里没有令人兴奋的软件工程，只是“这是我如何
-设置一些基础设施来帮助我在各种环境中本地构建端口。”
-
-我最近终于修复了 amd64 上我非常喜欢的音频播放器 Sayonara 的构建。但是，它在 i386 上仍然失败，
-因为 GStreamer 整数大小和主机整数大小不匹配，
-而 Sayonara 大小的代码假设它们是相同的。值得庆幸的是，如今 32 位代码很少被构建和测试，但它却不断向我发送构建失败的垃圾邮件。因此，我开始使用运行 FreeBSD 13.2 i386 的 i386 VM 来修复它。
-我想要做的是使用主机上的端口树 - 它是上游 FreeBSD 端口树的 git 签出 - 并将其克隆到我的 VM 中。然后，我可以在主机上执行打包修复，在本地提交它们，在 VM 中更新签出，并在那里测试打包修复。我想将这些提交保留在本地，这样我就不会用大量“也许这有效”之类的提交污染全局上游存储库。一旦我完成了，我可以将其压缩为一个提交并推送，一劳永逸地修复构建（哈哈！）。
-因此，为某个远程提供 git 签出。它非常简单（只要 StackOverflow
-答案仍然显示在网络搜索中；为了防止将来被 enshittification，
-这些注释是我自己复制的）：
-ports$ git daemon --reuseaddr --base-path=. --export-all --verbose
-
-在我的 ports/ 目录中，运行随附的简单且不安全的 git 服务器。
-导出端口树。在接收端（即在 VM 中），使用 git:// 协议进行克隆。
-# git clone git://host/ /usr/ports
-
-瞧！这可以快速完成端口修复，而这些修复需要在与我通常进行端口树检查（以及我的 GPG 密钥等）的机器不同的机器上完成。]]></description>
-      <guid>https://euroquis.nl//freebsd/2024/06/13/freebsd13_2.html?utm_source=atom_feed</guid>
-      <pubDate>Wed, 12 Jun 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
