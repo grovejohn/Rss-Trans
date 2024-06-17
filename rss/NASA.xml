@@ -4,7 +4,7 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Mon, 17 Jun 2024 16:17:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 16:39:29 GMT</lastBuildDate>
     <item>
       <title>利用 NASA 的韦伯望远镜探究蟹状星云的起源</title>
       <link>https://science.nasa.gov/missions/webb/investigating-the-origins-of-the-crab-nebula-with-nasas-webb/</link>
@@ -18,6 +18,13 @@
       <description><![CDATA[美国宇航局及其国际合作伙伴正在使用相同的通用机翼设计来创建物理和数字研究模型，以更好地了解飞机起飞和降落时空气在飞机周围的流动情况。各组织正在使用计算工具进行计算机建模，并使用相同的高升力通用研究模型进行风洞测试[…]]]></description>
       <guid>https://www.nasa.gov/aeronautics/research-model-increases-accuracy/</guid>
       <pubDate>Mon, 17 Jun 2024 09:59:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>热带至日阴影</title>
+      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/tropical-solstice-shadows/</link>
+      <description><![CDATA[至日是我们最早的天文观测之一，历史上人们通过许多夏季和冬季庆祝活动来庆祝。]]></description>
+      <guid>https://science.nasa.gov/solar-system/skywatching/night-sky-network/tropical-solstice-shadows/</guid>
+      <pubDate>Sat, 15 Jun 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
       <title>美国宇航局与波音公司讨论星际航线任务</title>
@@ -50,7 +57,7 @@
     <item>
       <title>美国宇航局牵头绘制美国东西海岸空气污染地图</title>
       <link>https://www.nasa.gov/earth/nasa-led-mission-to-map-air-pollution-over-both-u-s-coasts/</link>
-      <description><![CDATA[今年夏天，即 6 月 17 日至 7 月 2 日，NASA 将飞行飞机飞越巴尔的摩、费城、弗吉尼亚州部分地区和加利福尼亚州，收集空气污染物和温室气体排放数据。   该活动支持 NASA 面向本科实习生的学生空中研究计划。 东海岸飞行将于 6 月 17 日至 26 日进行。研究人员和 […]]]></description>
+      <description><![CDATA[今年夏天，即 6 月 17 日至 7 月 2 日，NASA 将飞行器飞越巴尔的摩、费城、弗吉尼亚州部分地区和加利福尼亚州，收集空气污染物和温室气体排放数据。   该活动支持 NASA 面向本科实习生的学生空中研究计划。 东海岸飞行将于 6 月 17 日至 26 日进行。研究人员和 […]]]></description>
       <guid>https://www.nasa.gov/earth/nasa-led-mission-to-map-air-pollution-over-both-u-s-coasts/</guid>
       <pubDate>Fri, 14 Jun 2024 18:30:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[简介 第九次深空气候观测站 (DSCOVR) 地球多色相机 (EPIC) 和国家标准与技术研究所 (NIST) 高级辐射计 [NISTAR] 科学团队会议 (STM) 于 2023 年 10 月 16 日至 17 日以虚拟方式举行。超过 35 位科学家参加了会议，其中大多数来自美国宇航局戈达德太空飞行中心 (GSFC)，还有几位来自美国宇航局其他领域的科学家 […]]]></description>
       <guid>https://science.nasa.gov/uncategorized/summary-of-the-ninth-dscovr-epic-and-nistar-science-team-meeting/</guid>
       <pubDate>Fri, 14 Jun 2024 17:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局哈勃望远镜以新指向模式重启科学研究</title>
-      <link>https://science.nasa.gov/missions/hubble/nasas-hubble-restarts-science-in-new-pointing-mode/</link>
-      <description><![CDATA[美国宇航局成功将该机构的哈勃太空望远镜的运行模式转换为使用一个陀螺仪的替代运行模式，使航天器于周五恢复日常科学运行。望远镜及其仪器稳定且运行正常。哈勃望远镜于 5 月 24 日进入安全模式，原因是其中一个陀螺仪 (gyros) 持续存在问题，[…]]]></description>
-      <guid>https://science.nasa.gov/missions/hubble/nasas-hubble-restarts-science-in-new-pointing-mode/</guid>
-      <pubDate>Fri, 14 Jun 2024 17:34:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
