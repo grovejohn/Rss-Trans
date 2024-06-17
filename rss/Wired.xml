@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Mon, 17 Jun 2024 09:35:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2024 10:16:09 GMT</lastBuildDate>
+    <item>
+      <title>人工智能正在取代大型科技公司的工作——但方式和你想象的不一样</title>
+      <link>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</link>
+      <description><![CDATA[公司尚未用人工智能取代工人。但他们在技术进一步创新的竞赛中牺牲了数千个工作岗位。]]></description>
+      <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
+      <pubDate>Mon, 17 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>黑客详细说明他们如何从 Snowflake 窃取 Ticketmaster 数据</title>
       <link>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在这种常见的电子邮件诈骗中，犯罪分子会假装您的老板或同事向您发送电子邮件，要求您提供涉及金钱的帮助。以下是当恶意攻击者进入您的收件箱时应采取的措施。]]></description>
       <guid>https://www.wired.com/story/how-to-spot-business-email-compromise-scam/</guid>
       <pubDate>Sun, 16 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于光的芯片或能满足人工智能日益增长的能源需求</title>
-      <link>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</link>
-      <description><![CDATA[光学神经网络使用光子代替电子，与传统系统相比具有优势，但也面临重大障碍。]]></description>
-      <guid>https://www.wired.com/story/ai-needs-enormous-computing-power-could-light-based-chips-help/</guid>
-      <pubDate>Sun, 16 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
