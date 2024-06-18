@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 18 Jun 2024 07:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2024 08:18:27 GMT</lastBuildDate>
+    <item>
+      <title>加密货币骗子瞄准特朗普的 MAGA 支持者</title>
+      <link>https://www.wired.com/story/maga-crypto-scammers-donald-trump/</link>
+      <description><![CDATA[在唐纳德·特朗普的竞选团队宣布将接受加密货币后，一系列欺诈网站的运营商都试图欺骗他的支持者。]]></description>
+      <guid>https://www.wired.com/story/maga-crypto-scammers-donald-trump/</guid>
+      <pubDate>Tue, 18 Jun 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>也许人们不应该开采深海，而应该修复东西</title>
       <link>https://www.wired.com/story/instead-of-mining-the-deep-sea-maybe-people-should-just-fix-stuff/</link>
@@ -29,21 +36,21 @@
     <item>
       <title>评论：WaterField 新宿 iPad 邮差包</title>
       <link>https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/</link>
-      <description><![CDATA[WaterField 专门设计的 iPad 邮差包容量宽敞、防水，能以时尚的方式安全保护您珍贵的新 iPad。]]></description>
+      <description><![CDATA[WaterField 专门设计的 iPad 邮差包空间宽敞、防水，能以时尚的方式安全保管您珍贵的新 iPad。]]></description>
       <guid>https://www.wired.com/review/waterfield-shinjuku-ipad-messenger-bag/</guid>
       <pubDate>Mon, 17 Jun 2024 13:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Orkut 创始人仍在梦想社交媒体乌托邦</title>
       <link>https://www.wired.com/story/orkut-founder-social-media-utopia/</link>
-      <description><![CDATA[2000 年代中期，谷歌工程师 Orkut Büyükkökten 的同名社交网络曾一度风靡全球，但很快便销声匿迹。如今，他又回来了，带着一个让社交媒体更快乐的计划。]]></description>
+      <description><![CDATA[2000 年代中期，谷歌工程师 Orkut Büyükkökten 的同名社交网络曾一度风靡全球，随后便销声匿迹。如今他又回来了，带着一个让社交媒体更快乐的计划。]]></description>
       <guid>https://www.wired.com/story/orkut-founder-social-media-utopia/</guid>
       <pubDate>Mon, 17 Jun 2024 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Strava 是最后一款优秀的社交媒体应用</title>
       <link>https://www.wired.com/story/strava-race-denver-airport-last-good-place/</link>
-      <description><![CDATA[您可以随时随地在 Strava 上与任何人竞争 — 即使是在凌晨 2 点的国际机场。这比滚动浏览要好得多。]]></description>
+      <description><![CDATA[您可以随时随地在 Strava 上与任何人竞争 — 即使是在凌晨 2 点的国际机场。这比浏览厄运页面要好得多。]]></description>
       <guid>https://www.wired.com/story/strava-race-denver-airport-last-good-place/</guid>
       <pubDate>Mon, 17 Jun 2024 11:30:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[公司尚未用人工智能取代工人。但他们在技术进一步创新的竞赛中牺牲了数千个工作岗位。]]></description>
       <guid>https://www.wired.com/story/ai-is-coming-for-big-tech-jobs-but-not-in-the-way-you-think/</guid>
       <pubDate>Mon, 17 Jun 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客详细说明他们如何从 Snowflake 窃取 Ticketmaster 数据</title>
-      <link>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</link>
-      <description><![CDATA[ShinyHunters 的一名黑客告诉《连线》杂志，他们首先攻破了第三方承包商，从而获得了 Ticketmaster 的 Snowflake 云帐户以及其他帐户的访问权。]]></description>
-      <guid>https://www.wired.com/story/epam-snowflake-ticketmaster-breach-shinyhunters/</guid>
-      <pubDate>Mon, 17 Jun 2024 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
