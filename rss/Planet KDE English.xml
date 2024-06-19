@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 19 Jun 2024 10:37:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2024 20:36:22 GMT</lastBuildDate>
+    <item>
+      <title>KDE PIM Sprint 2024 报告</title>
+      <link>https://dvratil.cz/2024/06/kde-pim-sprint-2024-report/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://dvratil.cz/2024/06/kde-pim-sprint-2024-report/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 19 Jun 2024 18:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qt for MCUs 2.8 LTS 发布</title>
       <link>https://www.qt.io/blog/qt-for-mcus-2.8-lts-released?utm_source=atom_feed</link>
@@ -91,13 +98,6 @@ Poppler 中的其他文档操作：在 Poppler 的 qt5 和 qt6 前端中实现�
       <description><![CDATA[ 这是发布团队商定的发布时间表  https://community.kde.org/Schedules/KDE_Gear_24.08_Schedule依赖关系冻结时间约为 4 周（7 月 18 日），功能冻结时间约为 1 周后。准备好你的东西吧！ ]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/06/kde-gear-2408-release-schedule.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Jun 2024 17:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-24 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/06/14/web-review-week-2024-24/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/06/14/web-review-week-2024-24/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 14 Jun 2024 13:14:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
