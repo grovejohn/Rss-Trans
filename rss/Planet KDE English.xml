@@ -4,7 +4,21 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 21 Jun 2024 20:36:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2024 08:36:31 GMT</lastBuildDate>
+    <item>
+      <title>KDE PIM Sprint 2024 年 6 月</title>
+      <link>https://www.volkerkrause.eu/2024/06/22/kde-pim-sprint-june-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/06/22/kde-pim-sprint-june-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 22 Jun 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 KDE：Plasma 6.1 清理</title>
+      <link>https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 22 Jun 2024 06:38:36 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-25 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/06/21/web-review-week-2024-25/?utm_source=atom_feed</link>
@@ -83,20 +97,6 @@ Poppler 中的其他文档操作：在 Poppler 的 qt5 和 qt6 前端中实现�
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/06/16/report-from-kdepim-spring-sprint-2024/?utm_source=atom_feed</guid>
       <pubDate>Sun, 16 Jun 2024 14:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE PIM Sprint 2024 版</title>
-      <link>https://carlschwan.eu/2024/06/16/kde-pim-sprint-2024-edition/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://carlschwan.eu/2024/06/16/kde-pim-sprint-2024-edition/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 16 Jun 2024 10:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：Plasma 6.1 最终完善和 6.2 的新功能</title>
-      <link>https://pointieststick.com/2024/06/14/this-week-in-kde-final-plasma-6-1-polishing-and-new-features-for-6-2/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/06/14/this-week-in-kde-final-plasma-6-1-polishing-and-new-features-for-6-2/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 15 Jun 2024 05:11:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
