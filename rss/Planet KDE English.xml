@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 22 Jun 2024 16:38:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Jun 2024 12:49:21 GMT</lastBuildDate>
+    <item>
+      <title>提出更好的论点，使论点更好</title>
+      <link>https://quickfix.es/2024/06/make-better-arguments-make-arguments-better/?utm_source=atom_feed</link>
+      <description><![CDATA[快速消除无意义的争论并使项目讨论更有成效。]]></description>
+      <guid>https://quickfix.es/2024/06/make-better-arguments-make-arguments-better/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 23 Jun 2024 12:08:17 GMT</pubDate>
+    </item>
     <item>
       <title>KDE PIM Sprint 2024 年 6 月</title>
       <link>https://www.volkerkrause.eu/2024/06/22/kde-pim-sprint-june-2024.html?utm_source=atom_feed</link>
@@ -71,32 +78,6 @@
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.1.0/?utm_source=atom_feed</guid>
       <pubDate>Tue, 18 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSoC'24 Okular | 第 2-3 周回顾</title>
-      <link>https://prathamgandhi.github.io/posts/gsoc24-update2/?utm_source=atom_feed</link>
-      <description><![CDATA[互联网人士，
-在处理按键事件时，我意识到我对 event.change 属性的改进对于某些 Unicode 字符仍然不一致。这促使我深入研究代码单元、代码点、字素和其他很酷的 Unicode 概念。我发现这篇博文非常有启发性。
-以下是我过去两周的进展更新：
-MRs 合并：
-
-event.change：事件对象的 change 属性现在可以正确处理 Unicode，并对 selStart 和 selEnd 计算进行了调整。 !MR998
-光标位置和撤消/重做修复：修复了光标位置计算，以考虑被拒绝的输入文本，并解决了文本字段中撤消/重做命令的合并问题。 !MR1011
-DocOpen 事件实现：通过实现 DocOpen 事件，使文档级脚本能够访问事件对象。 !MR1003
-正确执行验证事件：修复了 Okular 中 KeystrokeCommit 脚本之后验证脚本无法运行的错误。 !MR999
-RadioButton、ListEdit 和 ComboEdit 的小部件刷新函数：添加了刷新函数作为 RadioButton、ListEdit 和 ComboEdit 小部件的插槽，有助于重置功能和脚本更新。 !MR1012
-Poppler 中的其他文档操作：在 Poppler 的 qt5 和 qt6 前端中实现了读取其他文档操作（CloseDocument、SaveDocumentStart、SaveDocumentFinish、PrintDocumentStart、PrintDocumentFinish）。 !MR1561（在 Poppler 中）
-
-当前正在审核的 MR：
-
-在 qt6 前端为 Okular 重置表单实现：正在处理 Okular 中的重置表单功能，目前专注于 qt6 前端细节。 !MR1564（在 Poppler 中）
-在 Okular 中重置表单：使用 Poppler API 在 Okular 中重置表单。 !MR1007
-修复文本表单字段事件的执行顺序：解决某些事件（例如计算脚本）的错误执行顺序，并确保在通过 JavaScript 设置字段时正确评估按键提交、验证和格式脚本。 !MR1002
-
-在接下来的几周里，我将专注于实现重置表单、增强按键和格式化脚本，并可能开始提交表单。让我们看看进展如何。
-下次见。干杯！]]></description>
-      <guid>https://prathamgandhi.github.io/posts/gsoc24-update2/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 17 Jun 2024 05:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
