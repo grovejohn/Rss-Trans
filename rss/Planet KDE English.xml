@@ -4,7 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 24 Jun 2024 06:40:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 18:38:23 GMT</lastBuildDate>
+    <item>
+      <title>我的 GSoC II 中的最后两周</title>
+      <link>https://alcarazzam.dev/posts/the-last-2-weeks-in-gsoc-ii/?utm_source=atom_feed</link>
+      <description><![CDATA[GSoC 编码期的第一个月已经过去了！自上次更新以来，我为 KWidgetsAddons 的其余类添加了 Python 支持。直到最近我才发现，除了 C++ 类之外，库中还有我甚至不知道的命名空间。所以事实证明它实际上并没有完成。但无论如何，只有几个，所以现在已经完成了。我还添加了对自动为绑定构建 Python wheel 的支持。
+上周我改进了一些 Python 演示并添加了 KCoreAddons 的绑定。这比我预期的要快，所以我最终可能会添加对最初计划的 5-7 个库的支持。以下是我计划在夏季剩余时间添加的库列表：
+
+KI18n
+KGuiAddons
+KNotifications
+KUnitConversion
+KXMLGui
+]]></description>
+      <guid>https://alcarazzam.dev/posts/the-last-2-weeks-in-gsoc-ii/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 24 Jun 2024 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>第四周回顾 - Kisbrushop 和 drawDDAline</title>
       <link>https://kenlo.hashnode.dev/week-4-recap-kisbrushop-and-drawddaline?utm_source=atom_feed</link>
@@ -72,13 +87,6 @@ void KisBrushOp::paintLine(co...]]></description>
 ]]></description>
       <guid>https://www.qt.io/blog/qt-for-mcus-2.8-lts-released?utm_source=atom_feed</guid>
       <pubDate>Wed, 19 Jun 2024 10:05:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 3 周回顾 - 画布上的要点</title>
-      <link>https://kenlo.hashnode.dev/week-3-recap-points-on-a-canvas?utm_source=atom_feed</link>
-      <description><![CDATA[欢迎来到第 3 周回顾博客。经过一些测试后，使用像素艺术画笔预设并单击画布上的单个像素将触发 kis_paintop:paintAt 和 kis_brushop:paintAt 等函数。KisBrushOp 代表特定 pa...]]></description>
-      <guid>https://kenlo.hashnode.dev/week-3-recap-points-on-a-canvas?utm_source=atom_feed</guid>
-      <pubDate>Tue, 18 Jun 2024 04:56:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
