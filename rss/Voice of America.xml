@@ -4,7 +4,135 @@
     <title>美国之音</title>
     <link>https://www.voanews.com</link>
     <description>美国之音是一家国际新闻和广播机构，服务于中欧和东欧、高加索、中亚、俄罗斯、中东和巴尔干国家</description>
-    <lastBuildDate>Mon, 24 Jun 2024 11:36:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 12:25:30 GMT</lastBuildDate>
+    <item>
+      <title>网络安全公司称中国黑客加强了对台湾组织的攻击</title>
+      <link>https://www.voanews.com/a/chinese-hackers-have-stepped-up-attacks-on-taiwanese-organizations-cybersecurity-firm-says/7667774.html</link>
+      <description><![CDATA[香港——网络安全情报公司 Recorded Future 称，一个疑似受中国政府支持的黑客组织已加强针对台湾组织的攻击，特别是政府、教育、技术和外交等领域的组织。
+
+近年来，中国与台湾的关系恶化。台湾是位于台湾海峡对岸的自治岛屿，北京声称台湾是其领土。2023 年 11 月至 2024 年 4 月期间，在台湾 1 月总统大选和随后的政府更迭之前，观察到一个名为 RedJulliett 的组织发动了网络攻击。
+
+Recorded Future 的一位分析师表示，RedJuliett 过去曾针对过台湾组织，但这是首次出现如此大规模的活动。出于安全考虑，这位分析师不愿透露姓名。
+
+报道称，RedJuliett 袭击了 24 个组织，包括老挝、肯尼亚和卢旺达等地以及台湾的政府机构。
+
+它还入侵了香港和韩国的宗教组织、美国大学和吉布提大学的网站。报告没有透露这些组织的名称。
+
+Recorded Future 表示，RedJuliett 通过其 SoftEther 企业虚拟专用网络或 VPN 软件中的漏洞访问了这些地方的服务器，该软件是一种开源 VPN，允许远程连接到组织的网络。
+
+RedJuliett 被发现试图入侵 70 多个台湾组织的系统，其中包括三所大学、一家光电公司和一家与政府有合同的面部识别公司。
+
+目前尚不清楚 RedJuliett 是否成功入侵了这些组织：Recorded Future 仅表示它观察到了试图识别其网络漏洞的尝试。
+
+据 Recorded Future 称，RedJuliett 的黑客攻击模式与中国政府支持的组织的模式相匹配。
+
+它表示，根据 IP 地址的地理位置，RedJulliett 很可能位于中国南部福建省福州市，其海岸面向台湾。
+
+报道称：“鉴于福州和台湾地理位置接近，在福州运营的中国情报机构很可能负责针对台湾目标的情报收集。”
+
+“RedJuliett 很可能以台湾为目标收集情报，并支持北京制定两岸关系政策，”Recorded Future 报告称。
+
+台湾外交部没有立即发表评论。
+
+中国外交部发言人驳斥了这些指控。
+
+“我不知道你提到的具体情况，但我可以告诉你，你提到的这家公司已经不是第一次捏造所谓中国黑客行动的虚假信息了。这家公司的做法绝对没有任何专业性和可信度可言，”发言人毛宁说。
+
+微软去年 8 月报告称，微软以 Flax Typhoon 为名追踪的 RedJuliett 正在针对台湾组织。
+
+近年来，中国加强了在台湾周边的军事演习，并对台湾施加了经济和外交压力。
+
+今年 1 月，台湾新总统赖清德当选，中国视其为“分裂分子”，赖清德在就职演说中称台湾和中国并不隶属于对方。此后，台湾与北京的关系进一步恶化。赖清德与前任蔡英文一样，都表示没有必要宣布台湾独立，因为台湾已经是一个独立的主权国家。
+
+
+众所周知，中国与包括美国在内的许多其他国家一样，也从事网络间谍活动。今年早些时候，美国和英国指责中国开展了大规模网络间谍活动，据称有数百万人受到影响。
+
+
+北京一直否认参与任何形式的国家支持的黑客活动，而是表示中国本身就是网络攻击的主要目标。
+
+
+据 Recorded Future 称，中国国家支持的组织可能会继续通过开源 VPN 软件等“面向公众”的设备攻击台湾政府机构、大学和关键技术公司，这些设备的可见性和日志记录功能有限。
+
+Recorded Future 的威胁情报分析师表示，公司和组织可以通过在发现漏洞后确定其优先级并进行修补来最好地保护自己。]]></description>
+      <guid>https://www.voanews.com/a/chinese-hackers-have-stepped-up-attacks-on-taiwanese-organizations-cybersecurity-firm-says/7667774.html</guid>
+      <pubDate>Mon, 24 Jun 2024 12:07:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国之音新闻广播</title>
+      <link>https://www.voanews.com/a/7649143.html</link>
+      <description><![CDATA[给我们五分钟，我们将带您了解世界。美国之音全天候为您提供最新新闻。我们为您带来我们记者的报道和对来自世界各地的新闻人物的采访。]]></description>
+      <guid>https://www.voanews.com/a/7649143.html</guid>
+      <pubDate>Mon, 24 Jun 2024 12:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>谈判重启之际，中国希望欧盟在 7 月 4 日前取消电动汽车关税</title>
+      <link>https://www.voanews.com/a/china-wants-eu-to-remove-tariffs-on-evs-by-july-4-as-talks-resume-/7667748.html</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.voanews.com/a/china-wants-eu-to-remove-tariffs-on-evs-by-july-4-as-talks-resume-/7667748.html</guid>
+      <pubDate>Mon, 24 Jun 2024 11:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>金融调查：美国女性退休储蓄仅为男性的三分之一</title>
+      <link>https://www.voanews.com/a/financial-survey-women-in-us-have-just-1-3-of-men-s-retirement-savings/7667746.html</link>
+      <description><![CDATA[纽约——根据保诚金融周一发布的一项调查，美国女性的退休储蓄仅为男性的三分之一，这给女性退休人员带来了潜在的危机。
+
+根据对 905 名年龄在 55 岁至 75 岁之间的美国成年人的调查，男性平均为退休储蓄 15.7 万美元，而女性仅为退休储蓄 5 万美元。
+
+“某些群体（例如女性）的财务未来尤其不稳定，”保诚美国业务首席执行官卡罗琳·菲尼在一份声明中表示。“女性在为退休储蓄方面面临更大的挑战，”她补充道，并指出通货膨胀、房价和税收政策变化是主要障碍。
+
+与接受调查的男性相比，女性专注于养家糊口的可能性是储蓄的三倍。
+
+调查显示，46%的受访者表示期待退休且有更多计划，而女性受访者的这一比例仅为 27%。]]></description>
+      <guid>https://www.voanews.com/a/financial-survey-women-in-us-have-just-1-3-of-men-s-retirement-savings/7667746.html</guid>
+      <pubDate>Mon, 24 Jun 2024 11:44:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院推翻判决后，堕胎权利团体向美国大选投入资金</title>
+      <link>https://www.voanews.com/a/abortion-rights-interests-plow-money-into-us-election-races-after-supreme-court-reversal-/7667732.html</link>
+      <description><![CDATA[纽约——自美国最高法院推翻妇女的宪法堕胎权以来的两年里，旨在保护堕胎权的政治捐款远远超过了支持反堕胎事业的捐款。
+
+根据追踪政治资金的 OpenSecrets 的数据，在 11 月 5 日投票前的 2023-2024 年选举周期中，支持堕胎权的利益集团向联邦候选人、政党、政治行动委员会 (PAC) 和外部团体捐赠了 337 万美元，而反堕胎利益集团捐赠了约 27.3 万美元。
+
+支持堕胎权利益集团的支出水平预计将为一些民主党候选人的竞选活动提供资金支持，其中包括美国总统乔·拜登，他已将保护堕胎权作为其连任竞选信息的核心部分。
+
+最高法院以 6 比 3 的保守派多数票通过了最高法院，该法院在 2022 年推翻了 1973 年罗诉韦德案的先例，该先例使堕胎在全国范围内合法化，促使 14 个州自此颁布了禁止或严格限制堕胎的措施。
+
+据路透社对 OpenSecrets 数据的分析显示，在本届选举周期中，超级政治行动委员会等团体从支持堕胎权的人那里获得了 65.8% 的捐款。
+
+共和党候选人和党委员会从反堕胎权利益团体那里获得了大部分捐款（约 75.9%）。
+
+政治行动委员会通常是为了为候选人或政治事业筹集资金而设立的。它们与超级政治行动委员会等外部资金团体不同，后者可以接受无限量的捐款，但不能直接与竞选活动协调。
+
+OpenSecrets 数据显示，到目前为止，在本届选举周期中，与反堕胎事业结盟的政治行动委员会和超级政治行动委员会已经筹集了 354 万美元，而堕胎权团体已经筹集了 1530 万美元。
+
+加州大学戴维斯分校法学教授玛丽·齐格勒说：“支持堕胎权和反对堕胎权的团体之间的支出平衡始终反映出这样一个事实：支持堕胎权的人比不支持堕胎权的人多。”
+
+齐格勒表示，如果 2024 年选举周期支持或反对堕胎权的政治捐款与 2020 年选举周期相比有所增加，她不会感到惊讶。
+
+2020 年选举周期创下纪录
+
+OpenSecrets 数据显示，迄今为止报告的金额与 2020 年选举周期相比相形见绌，其中堕胎权利益团体投入了 1133 万美元的政治捐款，2022 年中期选举周期的支出位居第二，捐款金额为 1067 万美元。
+
+2020 年周期中，反堕胎利益团体的捐款总额为 641 万美元，2022 年中期周期为 270 万美元，在此期间，投票措施和竞争性竞选的结果似乎表明选民渴望在州一级保护堕胎权。
+
+距离 11 月大选还有四个多月的时间，本轮选举周期中来自堕胎权和反堕胎事业的捐款是否会超过 2020 年周期，还有待观察，当时拜登击败了共和党现任总统唐纳德·特朗普。
+
+齐格勒说，政治捐款对竞选结果的影响很复杂，因为选民在投票箱中有各种优先事项。
+
+“你不能忽视它的重要性，但这并不意味着 [更多捐款] 就一定意味着投票倡议会通过，民主党会获胜等。事情没那么简单，”齐格勒说。
+
+在特朗普 2017 年开始的总统任期内，他任命了现任最高法院三分之一的成员和一半的保守派，他挑选的三位大法官均来自保守派法律活动家编制的名单。
+
+特朗普竞选团队本月早些时候表示，他支持各州对堕胎做出决定的权利，支持在强奸、乱伦和母亲生命的情况下堕胎的例外，并支持保护获得避孕和体外受精的机会。
+
+向候选人和团体捐款最多的两个组织是倡导堕胎权的计划生育组织和游说反对堕胎权的苏珊·安东尼美国生命保护组织。
+
+到目前为止，本届选举周期，计划生育组织已捐款 253 万美元，其中大部分捐给了自由派团体、民主党及其候选人。
+
+苏珊·安东尼美国生命保护组织捐款约 92,600 美元，几乎全部捐给了共和党候选人及其政党。]]></description>
+      <guid>https://www.voanews.com/a/abortion-rights-interests-plow-money-into-us-election-races-after-supreme-court-reversal-/7667732.html</guid>
+      <pubDate>Mon, 24 Jun 2024 11:35:47 GMT</pubDate>
+    </item>
     <item>
       <title>越南干旱为何可能导致全球浓缩咖啡价格飙升</title>
       <link>https://www.voanews.com/a/why-vietnam-drought-may-spike-global-espresso-prices/7667718.html</link>
@@ -13,7 +141,7 @@
 该国是世界第二大咖啡生产国，也是罗布斯塔咖啡豆的最大生产国，罗布斯塔咖啡豆是浓缩咖啡和速溶咖啡中最常用的品种。
 
 
-越南国内对下一季收成的预测仍然不容乐观，该国商品交易所预计，由于极端高温，产量将下降 10-16%。
+越南国内对下一季收成的预测仍然不容乐观，该国商品交易所预计由于极端高温，产量将下降 10-16%。
 
 
 Doan Van Thang 是来自中部嘉莱省的 39 岁咖啡农。
@@ -96,91 +224,6 @@ Doan Van Thang 是来自中部嘉莱省的 39 岁咖啡农。
       <description><![CDATA[给我们五分钟，我们将带您了解世界。美国之音全天候为您提供最新新闻。我们为您带来我们记者的报道和对来自世界各地的新闻人物的采访。]]></description>
       <guid>https://www.voanews.com/a/7649107.html</guid>
       <pubDate>Mon, 24 Jun 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>乌克兰称欧盟新制裁将“进一步扼杀普京的战争经济”</title>
-      <link>https://www.voanews.com/a/ukraine-says-new-eu-sanctions-will-further-strangle-putin-s-war-economy-/7667642.html</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.voanews.com/a/ukraine-says-new-eu-sanctions-will-further-strangle-putin-s-war-economy-/7667642.html</guid>
-      <pubDate>Mon, 24 Jun 2024 09:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟监管机构称苹果应用商店规则违反欧盟技术规则</title>
-      <link>https://www.voanews.com/a/apple-s-app-store-rules-breach-eu-tech-rules-eu-regulators-say/7667644.html</link>
-      <description><![CDATA[阿姆斯特丹——欧盟反垄断监管机构周一表示，苹果的应用商店规则违反了欧盟技术规则，因为它们阻止应用开发商引导消费者购买其他产品，这一指控可能会导致这家 iPhone 制造商面临巨额罚款。
-
-欧盟委员会同时也是欧盟反垄断和技术监管机构，该委员会表示，在 3 月份启动一项调查后，已向苹果提交了初步调查结果。
-
-这是欧盟委员会根据其具有里程碑意义的《数字市场法案》对苹果提出的第一项指控，该法案旨在控制大型科技公司的权力，并确保小型竞争对手的公平竞争环境。委员会必须在明年 3 月之前做出最终决定。
-
-欧盟反垄断负责人玛格丽特·维斯塔格 (Margrethe Vestager) 指出了苹果新条款的问题。
-
-她在一次会议上表示：“就目前情况而言，我们认为这些新条款不允许应用开发商与最终用户自由沟通，也不允许他们签订合同。”
-
-委员会表示，根据大多数商业条款，苹果只允许通过“链接”进行引导，这意味着应用程序开发人员可以在其应用程序中包含一个链接，将客户重定向到客户可以签订合同的网页。
-
-委员会还批评了苹果通过应用商店帮助开发人员首次获得新客户而收取的费用，称这些费用超出了这种报酬所严格要求的范围。
-
-苹果表示，在收到开发人员和委员会的反馈后，它在过去几个月中做出了许多改变，以遵守 DMA。
-
-该公司在一封电子邮件中表示：“我们相信我们的计划符合法律规定，并估计在我们制定的新商业条款下，超过 99% 的开发人员将向苹果支付相同或更少的费用。”
-
-欧盟执行委员会表示，它还将对这家 iPhone 制造商展开调查，调查其对第三方应用程序开发人员和应用程序商店的新合同要求，以及这些要求是否必要和适度。
-
-违反 DMA 可能会使公司面临高达其全球年营业额 10% 的罚款。]]></description>
-      <guid>https://www.voanews.com/a/apple-s-app-store-rules-breach-eu-tech-rules-eu-regulators-say/7667644.html</guid>
-      <pubDate>Mon, 24 Jun 2024 09:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国之音新闻广播</title>
-      <link>https://www.voanews.com/a/7649091.html</link>
-      <description><![CDATA[给我们五分钟，我们将带您了解世界。美国之音全天候为您提供最新新闻。我们为您带来我们记者的报道和对来自世界各地的新闻人物的采访。]]></description>
-      <guid>https://www.voanews.com/a/7649091.html</guid>
-      <pubDate>Mon, 24 Jun 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度莫迪呼吁议会选举后达成“共识”</title>
-      <link>https://www.voanews.com/a/india-s-modi-calls-for-consensus-as-parliament-opens-after-polls/7667622.html</link>
-      <description><![CDATA[新德里——印度总理纳伦德拉·莫迪周一在议会开幕时呼吁反对派“达成共识”。此前，选举受挫迫使莫迪十年来首次组建联合政府。
-
-预计第一届会议将持续到 7 月 3 日，届时将预告莫迪的第三任期计划，并可能正式任命拉胡尔·甘地为反对党领袖，该职位自 2014 年以来一直空缺。
-
-莫迪执政的前两个任期是在他所在的右翼印度人民党 (BJP) 取得压倒性胜利之后，他的政府只需经过粗略的辩论就能推动议会通过法律。
-
-但现在，分析人士预计，73 岁的莫迪将缓和他的印度民族主义议程，以安抚他的联盟伙伴，更多地关注基础设施、社会福利和经济改革。
-
-“要管理国家，达成共识至关重要，”莫迪在进入议会前不久的一次演讲中表示，并呼吁反对派发挥建设性作用。
-
-“人们希望他们的代表辩论和讨论对国家重要的问题……他们不希望议会程序出现骚乱或阻碍，”他说。
-
-“人们想要实质内容，而不是口号。”
-
-莫迪带领议员宣誓就职，他的支持者欢呼雀跃，拍打桌子表示支持，反对派成员挥舞宪法表示抗议。
-
-他说他“很自豪能为印度服务”。
-
-议会事务部长基伦·里吉朱周一呼吁举行“和平而富有成效”的会议，但印度媒体表示，他们预计会与更强大的反对派进行激烈的辩论。
-
-“一切准备就绪”，《印度斯坦时报》周一的一篇标题写道。
-
-“复兴的反对派将推动政府”，《印度快报》头版报道。
-
-54 岁的拉胡尔·甘地 (Rahul Gandhi) 不负分析师的预期，帮助国大党在议会席位几乎翻了一番，这是自十年前莫迪上台以来该党取得的最好成绩。
-
-甘地是主宰印度政坛数十年的王朝的后裔，也是前几任总理的儿子、孙子和曾孙，最早是独立领袖贾瓦哈拉尔·尼赫鲁 (Jawaharlal Nehru)。
-
-议会规定要求反对党领袖来自一个在 543 个议席的下议院中占据至少 10% 议员席位的政党。
-
-该职位空缺了 10 年，因为曾经是印度主导政党的国大党在两次选举中惨淡表现，未能达到这一门槛。]]></description>
-      <guid>https://www.voanews.com/a/india-s-modi-calls-for-consensus-as-parliament-opens-after-polls/7667622.html</guid>
-      <pubDate>Mon, 24 Jun 2024 08:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国之音新闻广播</title>
-      <link>https://www.voanews.com/a/7649083.html</link>
-      <description><![CDATA[给我们五分钟，我们将带您了解世界。美国之音全天候为您提供最新新闻。我们为您带来我们记者的报道和对来自世界各地的新闻人物的采访。]]></description>
-      <guid>https://www.voanews.com/a/7649083.html</guid>
-      <pubDate>Mon, 24 Jun 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
