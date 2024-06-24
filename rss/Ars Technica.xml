@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 24 Jun 2024 19:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2024 20:35:55 GMT</lastBuildDate>
+    <item>
+      <title>iOS 和 iPadOS 18 添加了格式化外部驱动器的选项</title>
+      <link>https://arstechnica.com/?p=2033190</link>
+      <description><![CDATA[测试版的文件应用程序允许您以 APFS、exFat 和 FAT 格式化外部驱动器。]]></description>
+      <guid>https://arstechnica.com/?p=2033190</guid>
+      <pubDate>Mon, 24 Jun 2024 20:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软删除了 Windows 11 中切换到本地帐户的文档</title>
+      <link>https://arstechnica.com/?p=2033155</link>
+      <description><![CDATA[但 Windows 11 的大多数 Microsoft 帐户登录解决方法仍然有效。]]></description>
+      <guid>https://arstechnica.com/?p=2033155</guid>
+      <pubDate>Mon, 24 Jun 2024 19:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Larry Finger 使 Linux 无线技术得以应用，并带领其他人一起学习</title>
+      <link>https://arstechnica.com/?p=2033066</link>
+      <description><![CDATA[缅怀 84 岁的芬格，他边走边学，给很多人留下了自己的印记。]]></description>
+      <guid>https://arstechnica.com/?p=2033066</guid>
+      <pubDate>Mon, 24 Jun 2024 19:21:27 GMT</pubDate>
+    </item>
     <item>
       <title>音乐行业巨头指控人工智能公司大规模侵犯版权</title>
       <link>https://arstechnica.com/?p=2033128</link>
@@ -36,7 +57,7 @@
     <item>
       <title>养宠物对你有好处吗？养宠物的模糊科学</title>
       <link>https://arstechnica.com/?p=2033058</link>
-      <description><![CDATA[事实证明宠物护理行业已经资助了很多研究。]]></description>
+      <description><![CDATA[事实证明，宠物护理行业已经资助了大量研究。]]></description>
       <guid>https://arstechnica.com/?p=2033058</guid>
       <pubDate>Mon, 24 Jun 2024 14:13:16 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[“我们让数据来推动我们的决定。”]]></description>
       <guid>https://arstechnica.com/?p=2032970</guid>
       <pubDate>Sat, 22 Jun 2024 01:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>出版商胜诉后，互联网档案馆被迫删除 50 万本书</title>
-      <link>https://arstechnica.com/?p=2032890</link>
-      <description><![CDATA[互联网档案馆的粉丝恳求出版商停止清空开放图书馆。]]></description>
-      <guid>https://arstechnica.com/?p=2032890</guid>
-      <pubDate>Fri, 21 Jun 2024 21:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>FDA 高级官员否决了工作人员批准试验失败的基因疗法的决定</title>
-      <link>https://arstechnica.com/?p=2032919</link>
-      <description><![CDATA[彼得·马克斯否决了三个团队和两名高层董事的决定。]]></description>
-      <guid>https://arstechnica.com/?p=2032919</guid>
-      <pubDate>Fri, 21 Jun 2024 21:26:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>售价 200 美元左右的笔记本电脑，配备 386 和 8MB 内存，是 Windows 3.1 时代的现代版本</title>
-      <link>https://arstechnica.com/?p=2032811</link>
-      <description><![CDATA[Pocket 386 支持外部配件，只能勉强运行 Windows 95。]]></description>
-      <guid>https://arstechnica.com/?p=2032811</guid>
-      <pubDate>Fri, 21 Jun 2024 21:18:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
