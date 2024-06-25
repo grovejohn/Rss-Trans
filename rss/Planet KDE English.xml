@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 02:45:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 10:37:30 GMT</lastBuildDate>
+    <item>
+      <title>了解如何使用 Squish 自动化 GUI 测试：Qt Academy 上的免费课程</title>
+      <link>https://www.qt.io/blog/learn-how-to-automate-gui-testing-with-squish-free-courses-on-qt-academy?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt Academy 是学习 Qt 框架和工具的免费在线平台，不断更新新内容。我们的新学习路径由 9 门课程组成，专为 Squish 设计，为对自动化 GUI 测试感兴趣的人提供了理想的基础。此路径由 Qt 的客户成功工程师团队创建，提供了掌握 Squish 的全面指南，并将为您提供轻松入门所需的所有技能。 
+]]></description>
+      <guid>https://www.qt.io/blog/learn-how-to-automate-gui-testing-with-squish-free-courses-on-qt-academy?utm_source=atom_feed</guid>
+      <pubDate>Tue, 25 Jun 2024 09:03:37 GMT</pubDate>
+    </item>
     <item>
       <title>Tellico 3.5.5 发布</title>
       <link>https://tellico-project.org/tellico-3-5-5-released/?utm_source=atom_feed</link>
@@ -17,6 +28,32 @@
 ]]></description>
       <guid>https://tellico-project.org/tellico-3-5-5-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Jun 2024 01:39:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>提交1.6.0</title>
+      <link>https://blogs.kde.org/2024/06/25/kommit-1.6.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Kommit 1.6.0 是我们 Git repo 应用程序的一个功能和错误修复版本，现在可以使用 Q 5 或 6 进行构建。
+改进：
+
+在 Windows 上构建时无需 kdbusaddons
+添加 flatpak 支持
+修复显示日期（使用 QLocale）
+修复内存泄漏
+在 qt6 中重新激活外部应用程序中的打开文件
+在报告图表小部件中添加缩放支持
+在报告页面中用 QTreeWidget 替换 QTableWidget
+修复未打开 git 存储库时崩溃的问题
+修复 Windows 上的加载样式/图标（KF &gt;= 6.3）
+实现 gravatar 缓存
+修复i18n
+
+URL： https://download.kde.org/stable/kommit
+来源： kommit-1.6.0.tar.xz
+SHA256： 4091126316ab0cd2d4a131facd3cd8fc8c659f348103b852db8b6d1fd4f164e2
+签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Esk-Riddell jr@jriddell.org
+https://jriddell.org/esk-riddell.gpg]]></description>
+      <guid>https://blogs.kde.org/2024/06/25/kommit-1.6.0/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>我的 GSoC II 中的最后两周</title>
@@ -75,20 +112,6 @@ void KisBrushOp::paintLine(co...]]></description>
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/monthly-update-16/?utm_source=atom_feed</guid>
       <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 24.05.1 发布</title>
-      <link>https://kdenlive.org/en/2024/06/kdenlive-24-05-1-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kdenlive.org/en/2024/06/kdenlive-24-05-1-released/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 20 Jun 2024 12:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE PIM Sprint 2024 报告</title>
-      <link>https://dvratil.cz/2024/06/kde-pim-sprint-2024-report/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://dvratil.cz/2024/06/kde-pim-sprint-2024-report/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 19 Jun 2024 18:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
