@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 10:37:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 12:51:41 GMT</lastBuildDate>
     <item>
       <title>了解如何使用 Squish 自动化 GUI 测试：Qt Academy 上的免费课程</title>
       <link>https://www.qt.io/blog/learn-how-to-automate-gui-testing-with-squish-free-courses-on-qt-academy?utm_source=atom_feed</link>
@@ -28,6 +28,13 @@ Qt Academy 是学习 Qt 框架和工具的免费在线平台，不断更新新�
 ]]></description>
       <guid>https://tellico-project.org/tellico-3-5-5-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Jun 2024 01:39:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复 KWin 在旧硬件上的性能</title>
+      <link>https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html?utm_source=atom_feed</guid>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>提交1.6.0</title>
@@ -105,13 +112,6 @@ void KisBrushOp::paintLine(co...]]></description>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/06/21/web-review-week-2024-25/?utm_source=atom_feed</guid>
       <pubDate>Fri, 21 Jun 2024 11:55:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 每月更新 - 第 16 版</title>
-      <link>https://krita.org/en/posts/2024/monthly-update-16/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/monthly-update-16/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 21 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
