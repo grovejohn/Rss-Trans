@@ -4,16 +4,30 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 25 Jun 2024 18:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 19:35:56 GMT</lastBuildDate>
     <item>
-      <title>未玩过的 Steam 游戏总价值真的有 190 亿美元吗？可能不是。</title>
+      <title>美国宇航局的商业宇航服项目刚刚遭遇重大障碍</title>
+      <link>https://arstechnica.com/?p=2033392</link>
+      <description><![CDATA[“不幸的是，柯林斯的进度已经严重落后于计划。”]]></description>
+      <guid>https://arstechnica.com/?p=2033392</guid>
+      <pubDate>Tue, 25 Jun 2024 19:22:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Verizon 失误导致 6 个州的 911 中断——运营商同意支付 100 万美元罚款</title>
+      <link>https://arstechnica.com/?p=2033451</link>
+      <description><![CDATA[Verizon 最初未能删除导致两次中断的有缺陷的更新文件。]]></description>
+      <guid>https://arstechnica.com/?p=2033451</guid>
+      <pubDate>Tue, 25 Jun 2024 18:31:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Steam 上未玩过游戏的“耻辱”数字完全错误，也没有必要感到内疚</title>
       <link>https://arstechnica.com/?p=2033313</link>
-      <description><![CDATA[推测很有趣，但销售和图书馆的怪癖让我们无法知道。]]></description>
+      <description><![CDATA[推测很有趣，但销售和图书馆的怪癖让我们无法知晓。]]></description>
       <guid>https://arstechnica.com/?p=2033313</guid>
       <pubDate>Tue, 25 Jun 2024 18:06:44 GMT</pubDate>
     </item>
     <item>
-      <title>生成式人工智能真的会“破坏”电网吗？</title>
+      <title>深入研究人工智能可能带来的能源灾难</title>
       <link>https://arstechnica.com/?p=2033273</link>
       <description><![CDATA[人工智能只是数据中心能源消耗飙升的一小部分。]]></description>
       <guid>https://arstechnica.com/?p=2033273</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[此次任务对于中美之间的月球竞赛具有重要意义。]]></description>
       <guid>https://arstechnica.com/?p=2033288</guid>
       <pubDate>Tue, 25 Jun 2024 12:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>彼得·贝克爵士拔掉插头：“Transporter 可以免费为我们服务”</title>
-      <link>https://arstechnica.com/?p=2033175</link>
-      <description><![CDATA[“你看，这不是偶然的垄断。他们是一个无情的竞争对手。”]]></description>
-      <guid>https://arstechnica.com/?p=2033175</guid>
-      <pubDate>Mon, 24 Jun 2024 22:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在持续的供应链攻击中，后门潜入多个 WordPress 插件</title>
-      <link>https://arstechnica.com/?p=2033226</link>
-      <description><![CDATA[WordPress.org 提供的恶意更新会创建攻击者控制的管理员帐户。]]></description>
-      <guid>https://arstechnica.com/?p=2033226</guid>
-      <pubDate>Mon, 24 Jun 2024 21:00:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
