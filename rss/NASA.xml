@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Tue, 25 Jun 2024 15:13:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 15:35:31 GMT</lastBuildDate>
+    <item>
+      <title>NASA 与 IBM 合作开发用于高级科学研究的 INDUS 大型语言模型</title>
+      <link>https://science.nasa.gov/open-science/ai-language-model-science-research/</link>
+      <description><![CDATA[作者：Derek Koehl 通过《太空法案协议》与私人非联邦合作伙伴的合作是 NASA 跨部门实施和高级概念团队 (IMPACT) 工作的关键组成部分。与国际商业机器公司 (IBM) 的合作开发了 INDUS，这是一套全面的大型语言模型 (LLM)，专门针对地球科学、生物学等领域量身定制 […]]]></description>
+      <guid>https://science.nasa.gov/open-science/ai-language-model-science-research/</guid>
+      <pubDate>Tue, 25 Jun 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>门户：近距离欣赏令人惊叹的细节</title>
       <link>https://www.nasa.gov/missions/artemis/gateway/gateway-up-close-in-stunning-detail/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[高超音速技术项目分为四个研究主题领域。第一个研究主题是系统级设计、分析和验证，探讨技术对飞行器性能的影响。第二和第三个主题更具体地关注推进技术和实现高超音速飞行的飞行器技术。第四个主题领域探索材料技术[…]]]></description>
       <guid>https://www.nasa.gov/directorates/armd/aavp/ht/hypersonic-research-topics/</guid>
       <pubDate>Fri, 21 Jun 2024 20:36:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局的 ELaNa 43 为 Firefly Aerospace 发射做准备</title>
-      <link>https://www.nasa.gov/missions/small-satellite-missions/nasas-elana-43-prepares-for-firefly-aerospace-launch/</link>
-      <description><![CDATA[作为该机构立方体卫星发射计划的一部分，NASA 正准备将几颗小型卫星发射到太空，这些卫星是在来自全国各地的学生、教育工作者和研究人员的帮助下建造的。ELaNa 43（纳米卫星教育发射 43）任务包括八颗立方体卫星，它们将搭载在 Firefly Aerospace 的 Alpha 火箭上，用于其“噪音”项目。]]></description>
-      <guid>https://www.nasa.gov/missions/small-satellite-missions/nasas-elana-43-prepares-for-firefly-aerospace-launch/</guid>
-      <pubDate>Fri, 21 Jun 2024 18:37:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
