@@ -4,7 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 24 Jun 2024 18:38:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Jun 2024 02:45:33 GMT</lastBuildDate>
+    <item>
+      <title>Tellico 3.5.5 发布</title>
+      <link>https://tellico-project.org/tellico-3-5-5-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Tellico 3.5.5 现已发布，并进行了一些重要修复。
+改进和错误修复
+
+修复了 XSLT 文件加载问题，使其能够与 libxml2 &gt;= 2.13 一起正确运行（错误 488707）。
+修复了显示大内容条目的错误（错误 487079）。
+改进了 SRU 获取器，允许用户定义搜索索引（Bug 488931）。
+]]></description>
+      <guid>https://tellico-project.org/tellico-3-5-5-released/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 25 Jun 2024 01:39:41 GMT</pubDate>
+    </item>
     <item>
       <title>我的 GSoC II 中的最后两周</title>
       <link>https://alcarazzam.dev/posts/the-last-2-weeks-in-gsoc-ii/?utm_source=atom_feed</link>
@@ -76,17 +89,6 @@ void KisBrushOp::paintLine(co...]]></description>
       <description><![CDATA[]]></description>
       <guid>https://dvratil.cz/2024/06/kde-pim-sprint-2024-report/?utm_source=atom_feed</guid>
       <pubDate>Wed, 19 Jun 2024 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt for MCUs 2.8 LTS 发布</title>
-      <link>https://www.qt.io/blog/qt-for-mcus-2.8-lts-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-我们很高兴地宣布发布 Qt for MCUs 2.8 LTS，它配备了令人兴奋的新 GUI 构建块、构建工具工作流程的改进、对 Infineon TRAVEO T2G 微控制器的扩展支持等等。Qt for MCUs 2.8 是一个长期支持版本，可在整个开发过程中提供更高的稳定性。因此，它是所有新项目的首选版本。标准支持将持续 18 个月，直到 2025 年 12 月。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-for-mcus-2.8-lts-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 19 Jun 2024 10:05:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
