@@ -4,7 +4,28 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Jun 2024 18:39:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2024 12:53:26 GMT</lastBuildDate>
+    <item>
+      <title>剪纸插件 1.3.0</title>
+      <link>https://carlschwan.eu/2024/06/26/kirigami-addons-1.3.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://carlschwan.eu/2024/06/26/kirigami-addons-1.3.0/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 26 Jun 2024 11:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hash-o-Matic 1.0.1</title>
+      <link>https://carlschwan.eu/2024/06/25/hash-o-matic-1.0.1/?utm_source=atom_feed</link>
+      <description><![CDATA[Hash-o-Matic 1.0.1 已发布！Hash-o-Matic 是一款用于比较和生成文件校验和以验证其真实性的工具。它还通过使用 PGP 签名来验证文件。
+Hash-o-Matic 的这个新版本提供了更新的翻译和一些小的视觉变化。在后台，应用程序被移植到新的 QML
+类型注册，我们现在支持在 Haiku 上构建 Hash-o-Matic，并且我们现在
+需要 KDE Frameworks 的发布版本，而不是预发布版本。
+Packager Section
+您可以在
+download.kde.org
+找到该软件包，并且它已使用我的GPG 密钥签名。]]></description>
+      <guid>https://carlschwan.eu/2024/06/25/hash-o-matic-1.0.1/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 25 Jun 2024 10:10:35 GMT</pubDate>
+    </item>
     <item>
       <title>了解如何使用 Squish 自动化 GUI 测试：Qt Academy 上的免费课程</title>
       <link>https://www.qt.io/blog/learn-how-to-automate-gui-testing-with-squish-free-courses-on-qt-academy?utm_source=atom_feed</link>
@@ -106,20 +127,6 @@ void KisBrushOp::paintLine(co...]]></description>
       <description><![CDATA[快速消除无意义的争论并使项目讨论更有成效。]]></description>
       <guid>https://quickfix.es/2024/06/make-better-arguments-make-arguments-better/?utm_source=atom_feed</guid>
       <pubDate>Sun, 23 Jun 2024 12:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE PIM Sprint 2024 年 6 月</title>
-      <link>https://www.volkerkrause.eu/2024/06/22/kde-pim-sprint-june-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/06/22/kde-pim-sprint-june-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 22 Jun 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：Plasma 6.1 清理</title>
-      <link>https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/06/22/this-week-in-kde-plasma-6-1-cleanups/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 22 Jun 2024 06:38:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
