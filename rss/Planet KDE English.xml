@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 16:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 20:35:57 GMT</lastBuildDate>
     <item>
       <title>Qt Creator 14 Beta2 发布</title>
       <link>https://www.qt.io/blog/qt-creator-14-beta2-released?utm_source=atom_feed</link>
@@ -27,7 +27,7 @@
 克服 Rust 的局限性
 尽管 Rust 的生态系统正在不断发展，但它仍然相对年轻。依赖小团队或个人维护的软件包具有固有风险。此外，由于 Rust 仍处于语言快速发展的时期，这可能会导致频繁更新，对大型或长期项目构成挑战。在某些情况下，例如非常大的代码库、特定的嵌入式支持要求或开发周期较长的项目，C++ 可能仍然是更实用的选择。在稳定性和寿命很重要的地方使用 C++ 是明智的，在安全性至关重要但可以接受一定程度的开发流动性的地方使用 Rust 是明智的。
 摘要
-通过将 C++ 的可靠性与 Rust 的安全性相结合，开发人员可以设计持久的系统，同时最大限度地降低常见编程陷阱的风险。如果您有兴趣阅读更多关于此主题的内容，您可以阅读我们关于Rust/C++ 集成的最佳实践指南，该指南由我们与Ferrous System联合创始人 Florian Gilcher 合作创建。
+通过将 C++ 的可靠性与 Rust 的安全性相结合，开发人员可以设计持久的系统，同时最大限度地降低常见编程陷阱的风险。如果您有兴趣阅读更多关于此主题的内容，您可以阅读我们关于Rust/C++ 集成的最佳实践指南，该指南由我们与Ferrous Systems联合创始人 Florian Gilcher 合作创建。
 
 关于 KDAB
 
