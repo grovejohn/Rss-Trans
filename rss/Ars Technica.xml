@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 26 Jun 2024 21:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 01:00:00 GMT</lastBuildDate>
+    <item>
+      <title>MOVEit 存在严重漏洞，使大量互联网面临严重风险</title>
+      <link>https://arstechnica.com/?p=2033848</link>
+      <description><![CDATA[去年，类似的漏洞导致 1,800 个网络遭到入侵。最新漏洞的威力会一样大吗？]]></description>
+      <guid>https://arstechnica.com/?p=2033848</guid>
+      <pubDate>Wed, 26 Jun 2024 23:31:21 GMT</pubDate>
+    </item>
     <item>
       <title>专利文件展示了从未实现过的仅支持云的流媒体 Xbox 游戏机</title>
       <link>https://arstechnica.com/?p=2033759</link>
@@ -64,16 +71,9 @@
     <item>
       <title>大众向资金匮乏的 Rivian 投资 50 亿美元，Rivian 将帮助修复大众的软件</title>
       <link>https://arstechnica.com/?p=2033613</link>
-      <description><![CDATA[Rivian 获得了第三个主要合作伙伴，新车将于本世纪晚些时候上市。]]></description>
+      <description><![CDATA[Rivian 迎来第三个主要合作伙伴，新车将在本世纪末上市。]]></description>
       <guid>https://arstechnica.com/?p=2033613</guid>
       <pubDate>Wed, 26 Jun 2024 16:07:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube 试图说服唱片公司为 AI 歌曲生成器授权音乐</title>
-      <link>https://arstechnica.com/?p=2033608</link>
-      <description><![CDATA[视频网站需要唱片公司的内容来合法训练 AI 歌曲生成器。]]></description>
-      <guid>https://arstechnica.com/?p=2033608</guid>
-      <pubDate>Wed, 26 Jun 2024 13:48:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
