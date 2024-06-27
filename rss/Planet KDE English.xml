@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 14:36:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 16:40:57 GMT</lastBuildDate>
     <item>
       <title>Qt Creator 14 Beta2 发布</title>
       <link>https://www.qt.io/blog/qt-creator-14-beta2-released?utm_source=atom_feed</link>
@@ -36,7 +36,7 @@
 KDAB 提供市场领先的软件咨询和开发服务以及 Qt、C++ 和 3D/OpenGL 方面的培训。 联系我们。
 
  
-文章更智能的 Rust 之道首先出现在KDAB上。]]></description>
+文章更智能的 Rust 之路首先出现在KDAB上。]]></description>
       <guid>https://www.kdab.com/the-smarter-way-to-rust/?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Jun 2024 08:00:04 GMT</pubDate>
     </item>
@@ -98,7 +98,7 @@ Image
 经常被问到的一件事是 KRdp 是否允许远程用户在没有当前正在运行的会话的情况下登录。不幸的是，目前不支持此功能，并且没有明确的路线图说明何时会支持此功能。远程登录需要相当多的额外基础设施才能完全工作，不仅在 Plasma 中，而且在其他项目中也是如此。
 如果您认为这对您来说是一个重要的用例，并且您有能力处理这样的事情，请随时与我们联系以讨论。
 最终，让对用例充满热情的人来处理它将确保事情更快地得到开发。请参阅 KDE 社区 wiki 上的参与页面，了解如何开始。对于 KRdp 特定的问题，请随时在
-Matrix 上的#plasma 中提问。
+#plasma on Matrix 中提问。
 在 KDE 讨论 上讨论此帖子
 
 ahiemstra
