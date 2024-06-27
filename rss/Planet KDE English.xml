@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Jun 2024 10:38:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jun 2024 12:52:16 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 14 Beta2 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-14-beta2-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 14 Beta2 正式发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-14-beta2-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 27 Jun 2024 10:34:48 GMT</pubDate>
+    </item>
     <item>
       <title>更智能的 Rust 方式</title>
       <link>https://www.kdab.com/the-smarter-way-to-rust/?utm_source=atom_feed</link>
@@ -139,14 +147,6 @@ KXMLGui
 ]]></description>
       <guid>https://alcarazzam.dev/posts/the-last-2-weeks-in-gsoc-ii/?utm_source=atom_feed</guid>
       <pubDate>Mon, 24 Jun 2024 17:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第四周回顾 - Kisbrushop 和 drawDDAline</title>
-      <link>https://kenlo.hashnode.dev/week-4-recap-kisbrushop-and-drawddaline?utm_source=atom_feed</link>
-      <description><![CDATA[目前，我的目标是在转到其他画笔选项之前，仅在已检查清晰度且不大于 1 像素的画笔上实现像素完美算法。如果我们在这里查看 KisBrushOp::paintLine：
-void KisBrushOp::paintLine(co...]]></description>
-      <guid>https://kenlo.hashnode.dev/week-4-recap-kisbrushop-and-drawddaline?utm_source=atom_feed</guid>
-      <pubDate>Mon, 24 Jun 2024 06:24:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
