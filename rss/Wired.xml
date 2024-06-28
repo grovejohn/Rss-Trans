@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 28 Jun 2024 10:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 10:38:03 GMT</lastBuildDate>
+    <item>
+      <title>这款病毒式 AI 聊天机器人会撒谎并声称自己是人类</title>
+      <link>https://www.wired.com/story/bland-ai-chatbot-human/</link>
+      <description><![CDATA[Bland AI 的客户服务和销售机器人是人工智能“洗白”的最新例子。专家警告现实模糊的后果。]]></description>
+      <guid>https://www.wired.com/story/bland-ai-chatbot-human/</guid>
+      <pubDate>Fri, 28 Jun 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>法国人工智能初创企业似乎势不可挡。然后选举来了</title>
       <link>https://www.wired.com/story/french-ai-startups-felt-unstoppable-then-came-the-election/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>亚马逊正在调查有关数据抓取滥用的指控</title>
       <link>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</link>
-      <description><![CDATA[AWS 托管了一个与贝索斯家族和 Nvidia 支持的搜索初创公司相连的服务器，该服务器似乎被用于抓取主要媒体的网站内容，这引发了对潜在违反规则的调查。]]></description>
+      <description><![CDATA[AWS 托管了一个与贝索斯家族和 Nvidia 支持的搜索初创公司相关的服务器，该服务器似乎被用于抓取主要媒体的网站内容，这引发了对潜在违反规则的调查。]]></description>
       <guid>https://www.wired.com/story/aws-perplexity-bot-scraping-investigation/</guid>
       <pubDate>Thu, 27 Jun 2024 22:15:21 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[图像和视频处理领域的顶尖专家 Hany Farid 表示，检测深度伪造作品需要的不仅仅是人工智能。]]></description>
       <guid>https://www.wired.com/story/deepfake-detection-get-real-labs/</guid>
       <pubDate>Thu, 27 Jun 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>意外！美国最新“全面”隐私法案注定失败</title>
-      <link>https://www.wired.com/story/apra-privacy-bill-doomed/</link>
-      <description><![CDATA[为了讨好亲商界的共和党人，民主党人放弃了对公民权利的保护，《美国隐私权法案》在一次重要的国会听证会上被撤回，而且似乎不太可能获得全体投票。]]></description>
-      <guid>https://www.wired.com/story/apra-privacy-bill-doomed/</guid>
-      <pubDate>Thu, 27 Jun 2024 15:55:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
