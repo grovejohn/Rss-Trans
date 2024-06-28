@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Jun 2024 10:37:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 12:52:37 GMT</lastBuildDate>
+    <item>
+      <title>马克诺特 1.3</title>
+      <link>https://blogs.kde.org/2024/06/28/marknote-1.3/?utm_source=atom_feed</link>
+      <description><![CDATA[Marknote 1.2 发布至今已近两个月。Marknote 是一款使用 Markdown 的富文本编辑器和笔记管理工具。自发布以来，由于所有贡献者的努力，它发生了很大变化，并添加了许多新功能！
+用户界面
+在小手机屏幕上，您希望有尽可能多的空间来书写和阅读您的笔记。 Marknote 现在允许您在移动设备上隐藏编辑器工具栏，这样您就可以专注于重要内容，同时只需轻点一下即可获得格式选项。
+
+
+
+在桌面上，您现在可以通过拖动分隔符来调整笔记列表和编辑器的宽度，就像在其他桌面应用程序中一样。
+
+
+
+现在您可以使用 UI 中的按钮撤消和重做更改，而不必依赖键盘快捷键，如果您使用的虚拟键盘可能没有控制键，这尤其有用。
+应用程序菜单已重新组织并简化为让它不那么杂乱。
+Carl 在响应式图像方面的工作终于在 Qt 中实现，现在也出现在 Marknote 中。这意味着图像不再在小屏幕上被裁剪。
+Volker 实现了可点击链接！您现在可以按住 Ctrl 键并单击链接来打开它们。
+切换到 Marknote
+为了更轻松地从当前的笔记应用程序切换到 Marknote，Marknote 现在提供了几个导入选项。现在，您可以从 KNotes 和 maildir 导入笔记。
+首选项
+设置现在不再在覆盖对话框中打开，现在显示在 Kirigami Addons 的新 ConfigurationView 中。
+感谢 Garry Wang，您现在可以直接从 Marknote 的首选项中更改颜色主题。
+
+
+
+
+
+错误修复
+
+如果笔记列表的标题太长，它不再与按钮重叠，现在它被隐藏了。
+笔记列表现在滚动时与标题重叠的时间更长。
+在触摸设备上打开笔记不再每次都打开选项菜单。
+感谢 Carl，Windows 上的文件创建问题已得到修复，因此您也可以在那里使用
+草图功能。
+
+获取它
+Marknote 可在 Flathub 上获得。
+Packager 部分
+您可以在
+download.kde.org
+找到该软件包，并且它已与我的 Carl 的 GPG 密钥。]]></description>
+      <guid>https://blogs.kde.org/2024/06/28/marknote-1.3/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 28 Jun 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Creator 14 Beta2 发布</title>
       <link>https://www.qt.io/blog/qt-creator-14-beta2-released?utm_source=atom_feed</link>
@@ -36,7 +80,7 @@
 KDAB 提供市场领先的软件咨询和开发服务以及 Qt、C++ 和 3D/OpenGL 方面的培训。 联系我们。
 
  
-文章更智能的 Rust 之路首先出现在KDAB上。]]></description>
+文章更智能的 Rust 之道首先出现在KDAB上。]]></description>
       <guid>https://www.kdab.com/the-smarter-way-to-rust/?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Jun 2024 08:00:04 GMT</pubDate>
     </item>
@@ -131,21 +175,6 @@ ahiemstra
       <link>https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html?utm_source=atom_feed</guid>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.1.1，6 月份错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.1.1/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 6 月 25 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.1。
-Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
-此版本添加了 KDE 贡献者一周的新翻译和修复。这些错误修复通常很小但很重要，包括：
-
-KScreenLocker Greeter：修复 Shader Wallpaper 插件以及可能的其他插件。 提交。
-将最低 Plasma Wayland 协议版本提高至 1.13。提交。
-在仅支持 snap 的发行版上使用 snap:// URL，而不是 appstream:// URL。 提交。
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.1.1/?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
