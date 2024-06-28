@@ -4,7 +4,14 @@
     <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Jun 2024 12:52:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2024 16:38:38 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-26 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 28 Jun 2024 15:52:28 GMT</pubDate>
+    </item>
     <item>
       <title>马克诺特 1.3</title>
       <link>https://blogs.kde.org/2024/06/28/marknote-1.3/?utm_source=atom_feed</link>
@@ -169,13 +176,6 @@ ahiemstra
 ]]></description>
       <guid>https://tellico-project.org/tellico-3-5-5-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Jun 2024 01:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复 KWin 在旧硬件上的性能</title>
-      <link>https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html?utm_source=atom_feed</guid>
-      <pubDate>Tue, 25 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
