@@ -4,7 +4,14 @@
     <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Jun 2024 16:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 00:58:44 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 中：我认为一切</title>
+      <link>https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 29 Jun 2024 00:18:24 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-26 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/?utm_source=atom_feed</link>
@@ -87,7 +94,7 @@ download.kde.org
 KDAB 提供市场领先的软件咨询和开发服务以及 Qt、C++ 和 3D/OpenGL 方面的培训。 联系我们。
 
  
-文章更智能的 Rust 之道首先出现在KDAB上。]]></description>
+文章更智能的 Rust 之路首先出现在KDAB上。]]></description>
       <guid>https://www.kdab.com/the-smarter-way-to-rust/?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Jun 2024 08:00:04 GMT</pubDate>
     </item>
@@ -163,19 +170,6 @@ ahiemstra
 2024 年 6 月 25 日星期二 - 10:45]]></description>
       <guid>https://quantumproductions.info/articles/2024-06/krdp-plasma-61?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Jun 2024 08:45:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tellico 3.5.5 发布</title>
-      <link>https://tellico-project.org/tellico-3-5-5-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Tellico 3.5.5 现已发布，并进行了一些重要修复。
-改进和错误修复
-
-修复了 XSLT 文件加载问题，使其能够与 libxml2 &gt;= 2.13 一起正确运行（错误 488707）。
-修复了显示大内容条目的错误（错误 487079）。
-改进了 SRU 获取器，允许用户定义搜索索引（Bug 488931）。
-]]></description>
-      <guid>https://tellico-project.org/tellico-3-5-5-released/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 25 Jun 2024 01:39:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
