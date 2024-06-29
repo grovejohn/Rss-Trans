@@ -4,7 +4,14 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Sat, 29 Jun 2024 14:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 15:13:17 GMT</lastBuildDate>
+    <item>
+      <title>什么是流浪行星？</title>
+      <link>https://www.space.com/rogue-planets-guide</link>
+      <description><![CDATA[探索不受任何恒星束缚，在宇宙中漫游的流浪行星的奇异世界。]]></description>
+      <guid>https://www.space.com/rogue-planets-guide</guid>
+      <pubDate>Sat, 29 Jun 2024 14:59:05 GMT</pubDate>
+    </item>
     <item>
       <title>本周太空播客：第 117 集 — 月球上的家园</title>
       <link>https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-117-home_on_moon</link>
@@ -36,7 +43,7 @@
     <item>
       <title>Benro Mach3 9X CF 系列 3 三脚架评测</title>
       <link>https://www.space.com/benro-mach3-9x-cf-series-3-tripod-review</link>
-      <description><![CDATA[它是 Benro 产品目录中最先进的三脚架之一——我们正在测试 Mach3 以了解它在包括天文摄影在内的各种摄影风格中的表现如何。]]></description>
+      <description><![CDATA[它是 Benro 产品目录中最先进的三脚架之一 — — 我们正在测试 Mach3 以了解它在包括天文摄影在内的各种摄影风格中的表现如何。]]></description>
       <guid>https://www.space.com/benro-mach3-9x-cf-series-3-tripod-review</guid>
       <pubDate>Sat, 29 Jun 2024 11:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[毅力号火星车的 SHERLOC 仪器已恢复运行，继续寻找火星上存在微生物生命的证据。]]></description>
       <guid>https://www.space.com/perseverance-mars-rover-sherloc-instrument-revived</guid>
       <pubDate>Fri, 28 Jun 2024 20:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>国际空间站：实时更新</title>
-      <link>https://www.space.com/news/live/international-space-station-live-updates</link>
-      <description><![CDATA[了解国际空间站的情况。]]></description>
-      <guid>https://www.space.com/news/live/international-space-station-live-updates</guid>
-      <pubDate>Fri, 28 Jun 2024 19:44:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
