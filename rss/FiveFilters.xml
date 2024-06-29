@@ -4,7 +4,15 @@
     <title>FiveFilters.org</title>
     <link>https://www.fivefilters.org/</link>
     <description>网络文章变得易于访问</description>
-    <lastBuildDate>Wed, 26 Jun 2024 18:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Jun 2024 16:16:26 GMT</lastBuildDate>
+    <item>
+      <title>信息流模板和 AI 语音播客</title>
+      <link>https://www.fivefilters.org/2024/feed-templates-and-ai-voiced-podcasts/</link>
+      <description><![CDATA[Feed Control 很快将允许您在从内容生成 RSS feed 时选择 feed 模板。并且还将支持播客创建。
+文章Feed 模板和 AI 语音播客首先出现在FiveFilters.org上。]]></description>
+      <guid>https://www.fivefilters.org/2024/feed-templates-and-ai-voiced-podcasts/</guid>
+      <pubDate>Sat, 29 Jun 2024 16:12:27 GMT</pubDate>
+    </item>
     <item>
       <title>Feed 控制中的精选 Feed</title>
       <link>https://www.fivefilters.org/2024/curated-feeds-in-feed-control-and-item-visibility/</link>
@@ -76,14 +84,6 @@
 帖子Kindle EPUB 问题首先出现在FiveFilters.org上。]]></description>
       <guid>https://www.fivefilters.org/2022/kindle-epub-issues/</guid>
       <pubDate>Fri, 30 Sep 2022 12:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>将网络文章发送至 Dropbox、reMarkable 等……</title>
-      <link>https://www.fivefilters.org/2022/send-web-articles-to-dropbox-remarkable-and-more/</link>
-      <description><![CDATA[Push to Kindle 现在支持将网络文章发送到 Dropbox 帐户。如果您的电子阅读器提供 Dropbox 集成，请尝试一下。我们还使我们的 EPUB 更易于 Android 上的其他应用程序访问。
-帖子将网络文章发送到 Dropbox、reMarkable 等…首先出现在FiveFilters.org上。]]></description>
-      <guid>https://www.fivefilters.org/2022/send-web-articles-to-dropbox-remarkable-and-more/</guid>
-      <pubDate>Mon, 29 Aug 2022 22:19:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
