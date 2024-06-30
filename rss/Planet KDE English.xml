@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 29 Jun 2024 12:49:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 10:36:13 GMT</lastBuildDate>
+    <item>
+      <title>KDE 参加 OSPP 2024</title>
+      <link>https://mentorship.kde.org/blog/2024-06-30-ospp/?utm_source=atom_feed</link>
+      <description><![CDATA[KDE 参与 OSPP 2024
+我们很高兴地宣布，我们将参与 开源促进计划 (OSPP) 2024。KDE 将指导该计划内的一个项目。OSPP 主要由中国科学院软件研究所组织。其目标是鼓励大学生参与开发和维护开源软件。
+这是 KDE 社区参与 OSPP 的第一年，我们指导了一个项目。
+将 KDE 游戏移植到 Android 平台
+KDE 游戏和教育游戏是 KDE Gear 套件不可或缺的一部分。今年，在Benson Muite的指导下，Hanyang Zhang 将承担这方面的工作。Hanyang Zhang将负责将一到两款 KDE 游戏移植到 Android 平台。
+让我们热烈欢迎新的贡献者，并祝他们在 KDE 度过一个愉快的夏天！]]></description>
+      <guid>https://mentorship.kde.org/blog/2024-06-30-ospp/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE 中：我认为一切</title>
       <link>https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/?utm_source=atom_feed</link>
@@ -101,7 +113,7 @@ download.kde.org
 KDAB 提供市场领先的软件咨询和开发服务以及 Qt、C++ 和 3D/OpenGL 方面的培训。 联系我们。
 
  
-文章更智能的 Rust 之路首先出现在KDAB上。]]></description>
+文章更智能的 Rust 之道首先出现在KDAB上。]]></description>
       <guid>https://www.kdab.com/the-smarter-way-to-rust/?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Jun 2024 08:00:04 GMT</pubDate>
     </item>
@@ -132,17 +144,6 @@ download.kde.org
 找到该软件包，并且它已使用我的GPG 密钥签名。]]></description>
       <guid>https://carlschwan.eu/2024/06/25/hash-o-matic-1.0.1/?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Jun 2024 10:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解如何使用 Squish 自动化 GUI 测试：Qt Academy 上的免费课程</title>
-      <link>https://www.qt.io/blog/learn-how-to-automate-gui-testing-with-squish-free-courses-on-qt-academy?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt Academy 是学习 Qt 框架和工具的免费在线平台，不断更新新内容。我们的新学习路径由 9 门课程组成，专为 Squish 设计，为对自动化 GUI 测试感兴趣的人提供了理想的基础。此路径由 Qt 的客户成功工程师团队创建，提供了掌握 Squish 的全面指南，并将为您提供轻松入门所需的所有技能。 
-]]></description>
-      <guid>https://www.qt.io/blog/learn-how-to-automate-gui-testing-with-squish-free-courses-on-qt-academy?utm_source=atom_feed</guid>
-      <pubDate>Tue, 25 Jun 2024 09:03:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
