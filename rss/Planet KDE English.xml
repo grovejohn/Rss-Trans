@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 30 Jun 2024 18:37:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 22:35:11 GMT</lastBuildDate>
     <item>
       <title>KDE 参加 OSPP 2024</title>
       <link>https://mentorship.kde.org/blog/2024-06-30-ospp/?utm_source=atom_feed</link>
@@ -15,6 +15,13 @@
 KDE 游戏和教育游戏是 KDE Gear 套件不可或缺的一部分。今年，在Benson Muite的指导下，Hanyang Zhang 将承担这方面的工作。Hanyang Zhang将负责将一到两款 KDE 游戏移植到 Android 平台。
 让我们热烈欢迎新的贡献者，并祝他们在 KDE 度过一个愉快的夏天！]]></description>
       <guid>https://mentorship.kde.org/blog/2024-06-30-ospp/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 6 月我在 KDE 上的工作</title>
+      <link>https://redstrate.com/blog/2024/06/my-work-in-kde-for-june-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://redstrate.com/blog/2024/06/my-work-in-kde-for-june-2024/?utm_source=atom_feed</guid>
       <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -130,20 +137,6 @@ KDAB 提供市场领先的软件咨询和开发服务以及 Qt、C++ 和 3D/Open
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/krita-5-2-3-released/?utm_source=atom_feed</guid>
       <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hash-o-Matic 1.0.1</title>
-      <link>https://carlschwan.eu/2024/06/25/hash-o-matic-1.0.1/?utm_source=atom_feed</link>
-      <description><![CDATA[Hash-o-Matic 1.0.1 已发布！Hash-o-Matic 是一款用于比较和生成文件校验和以验证其真实性的工具。它还通过使用 PGP 签名来验证文件。
-Hash-o-Matic 的这个新版本提供了更新的翻译和一些小的视觉变化。在后台，应用程序被移植到新的 QML
-类型注册，我们现在支持在 Haiku 上构建 Hash-o-Matic，并且我们现在
-需要 KDE Frameworks 的发布版本，而不是预发布版本。
-Packager Section
-您可以在
-download.kde.org
-找到该软件包，并且它已使用我的GPG 密钥签名。]]></description>
-      <guid>https://carlschwan.eu/2024/06/25/hash-o-matic-1.0.1/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 25 Jun 2024 10:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
