@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 30 Jun 2024 10:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Jun 2024 11:36:01 GMT</lastBuildDate>
+    <item>
+      <title>密码学家正在发现量子加密的新规则</title>
+      <link>https://www.wired.com/story/cryptographers-are-discovering-new-rules-for-quantum-encryption/</link>
+      <description><![CDATA[研究人员已经证明，安全量子加密在没有难题的世界中是可能的，为确保信息安全奠定了新的基础。]]></description>
+      <guid>https://www.wired.com/story/cryptographers-are-discovering-new-rules-for-quantum-encryption/</guid>
+      <pubDate>Sun, 30 Jun 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>菲斯克破产了。其电动汽车车主下一步该怎么做？</title>
       <link>https://www.wired.com/story/fisker-went-bankrupt-what-do-its-ev-owners-do-next/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[随着越来越多的基础设施部署在太空，网络攻击的风险也随之增加。美国军方希望与私营部门合作，保护大家所依赖的资产。]]></description>
       <guid>https://www.wired.com/story/space-cyber-attacks-security/</guid>
       <pubDate>Sat, 29 Jun 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>极端冰雹风暴正在摧毁太阳能发电场——但保护它们可能比看起来更容易</title>
-      <link>https://www.wired.com/story/solar-energy-hale-protection/</link>
-      <description><![CDATA[气候变化使冰雹风暴更加猛烈，因此设计师必须找到新颖的解决方案来保护太阳能电池板免受昂贵的损坏。]]></description>
-      <guid>https://www.wired.com/story/solar-energy-hale-protection/</guid>
-      <pubDate>Sat, 29 Jun 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
