@@ -4,7 +4,44 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 30 Jun 2024 22:35:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 01:06:47 GMT</lastBuildDate>
+    <item>
+      <title>Keychain 的初步工作</title>
+      <link>https://carlschwan.eu/2024/07/01/initial-work-on-keychain/?utm_source=atom_feed</link>
+      <description><![CDATA[一个月前，我开始开发一款新应用来管理 Plasma 中的密码。虽然仍处于 PoC 状态，但这个周末，它终于开始看起来像是可以使用的东西了，所以听起来是个写一篇关于它的小博客文章的好机会。
+当前名称为“Keychain”或“Plasma Keychain”，但可能会更改，欢迎提出建议。
+我的最终目标是为老化的 KWallet 应用程序提供更具未来性的替代品。从技术角度来看，这是 KeepassXC 内部的一个分支，带有完全从头开始编写的 Kirigami GUI。这意味着它
+使用标准化的 Keepass 格式将密码存储在数据库中
+该格式由许多应用程序实现，包括 Android 和 iOS 等其他平台上的应用程序（请参阅 Keepass 端口列表）。虽然 GUI 中尚未显示，但基于 KeepassXC 的工作可以实现 KWallet 中没有的许多有趣功能，例如 Yubikey 和 PassKey 支持、密码共享、导出和导入各种其他密码数据库格式、TOTP 支持和浏览器集成……
+同时还为桌面集成提供了重要功能，例如 KWallet 中也有的 Freedesktop Secret Service 协议。
+以下是当前状态的一些屏幕截图。
+这是主视图，其中已经可以查看、添加、编辑和删除条目。
+
+
+
+
+主视图
+
+这是数据库生成器页面，不幸的是，它还不能工作。
+
+
+
+
+数据库生成器
+
+这是 UI打开现有数据库。
+
+
+
+
+Database generator
+
+如您所见，还有很多工作要做，因此如果有人
+有兴趣提供帮助或查看当前进度，代码位于
+KDE 的 gitlab 上实例。]]></description>
+      <guid>https://carlschwan.eu/2024/07/01/initial-work-on-keychain/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 参加 OSPP 2024</title>
       <link>https://mentorship.kde.org/blog/2024-06-30-ospp/?utm_source=atom_feed</link>
@@ -130,13 +167,6 @@ KDAB 提供市场领先的软件咨询和开发服务以及 Qt、C++ 和 3D/Open
       <description><![CDATA[]]></description>
       <guid>https://carlschwan.eu/2024/06/26/kirigami-addons-1.3.0/?utm_source=atom_feed</guid>
       <pubDate>Wed, 26 Jun 2024 11:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 5.2.3 发布！</title>
-      <link>https://krita.org/en/posts/2024/krita-5-2-3-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/krita-5-2-3-released/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 26 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
