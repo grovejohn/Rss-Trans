@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 01 Jul 2024 12:54:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2024 14:12:50 GMT</lastBuildDate>
+    <item>
+      <title>中国航天公司意外发射新火箭</title>
+      <link>https://arstechnica.com/?p=2034603</link>
+      <description><![CDATA[太空先锋公司一直在为今年夏天晚些时候的首次发射做准备。]]></description>
+      <guid>https://arstechnica.com/?p=2034603</guid>
+      <pubDate>Mon, 01 Jul 2024 12:52:47 GMT</pubDate>
+    </item>
     <item>
       <title>可以识别生成式人工智能文本的线索</title>
       <link>https://arstechnica.com/?p=2034045</link>
@@ -43,7 +50,7 @@
     <item>
       <title>30 年后，FreeDOS 仍然保持着命令提示符的梦想</title>
       <link>https://arstechnica.com/?p=2033083</link>
-      <description><![CDATA[项目的创建者向 Ars 谈论了 FreeDOS 的发展历程和未来发展方向。]]></description>
+      <description><![CDATA[项目的创建者向 Ars 讲述了 FreeDOS 的发展历程和未来发展方向。]]></description>
       <guid>https://arstechnica.com/?p=2033083</guid>
       <pubDate>Sat, 29 Jun 2024 11:30:55 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[“安全往往不会成为首要考虑的问题，除非它真的需要被放在首位。”]]></description>
       <guid>https://arstechnica.com/?p=2033944</guid>
       <pubDate>Sat, 29 Jun 2024 00:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局下令对星际客机进行更多测试，但表示机组人员并未被困在太空</title>
-      <link>https://arstechnica.com/?p=2034431</link>
-      <description><![CDATA[“我想明确表示，布奇和苏尼并没有被困在太空。”]]></description>
-      <guid>https://arstechnica.com/?p=2034431</guid>
-      <pubDate>Fri, 28 Jun 2024 22:58:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
