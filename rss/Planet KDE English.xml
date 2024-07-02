@@ -4,11 +4,32 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 01 Jul 2024 04:37:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 12:51:08 GMT</lastBuildDate>
+    <item>
+      <title>开始使用 Selenium：4 个简短的视频教程</title>
+      <link>https://eco.kde.org/blog/2024-07-02_selenium-guides/?utm_source=atom_feed</link>
+      <description><![CDATA[只需 8 分钟，您也将准备好开始使用 Selenium AT-SPI。
+努力让您的应用可供所有人使用，同时通过进行更多系统测试来降低其功耗并提高其质量，这似乎与攀登珠穆朗玛峰一样艰巨。幸运的是，KDE 为您提供了 Selenium AT-SPI 的帮助。
+查看以下四部分指南，开始使用这个出色的工具！第 1 部分“Selenium 简介”可以在此处查看：
+
+点击观看第 2 部分“设置 Selenium”、第 3 部分“识别可访问性问题”和第4 “编写 Selenium 测试”。
+Selenium AT-SPI 最初基于 Selenium Web 应用程序，用于自动化测试目的，现已由 Harald Sitter 移植到 Qt。使用此工具，KDE 可以实现其当前的所有三个目标：
+
+KDE For All
+可持续软件
+自动化和系统化内部流程
+
+我们感谢KDE 2024 季贡献者 Pradyot Ranjan感谢他出色地准备这些视频指南。
+让我们将 KDE 社区的软件做到最好。祝您使用愉快！
+有兴趣贡献吗？
+Selenium AT-SPI 托管于此处。如果您有兴趣贡献，可以加入 Matrix 频道 KDE Eco 和 自动化和系统化目标 并介绍自己。感谢 KDE 2024 季管理和指导团队、KDE ​​e.V. 以及出色的 KDE 社区对该项目的支持。]]></description>
+      <guid>https://eco.kde.org/blog/2024-07-02_selenium-guides/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>第 5 周回顾</title>
       <link>https://kenlo.hashnode.dev/week-5-recap?utm_source=atom_feed</link>
-      <description><![CDATA[尝试使用大多数其他具有像素完美算法的程序使用的矢量方法。因此，目前我们在 kistoolfreehand 中启动了一个矢量 strokeCoordinate，因为这是启动 strokes、doStroke 和 endStroke 的地方。...]]></description>
+      <description><![CDATA[尝试使用大多数其他具有像素完美算法的程序所使用的矢量方法。因此，目前我们在 kistoolfreehand 中启动了一个矢量 strokeCoordinate，因为这是启动 strokes、doStroke 和 endStroke 的地方。...]]></description>
       <guid>https://kenlo.hashnode.dev/week-5-recap?utm_source=atom_feed</guid>
       <pubDate>Mon, 01 Jul 2024 03:05:01 GMT</pubDate>
     </item>
@@ -140,33 +161,6 @@ download.kde.org
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-14-beta2-released?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Jun 2024 10:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>更智能的 Rust 方式</title>
-      <link>https://www.kdab.com/the-smarter-way-to-rust/?utm_source=atom_feed</link>
-      <description><![CDATA[如果您一直在关注我们的博客，您可能已经意识到 Rust 在嵌入式系统中的影响力越来越大。虽然 Rust 在安全设计方面表现出色，但它也经常与 C++ 集成。这种战略方法充分利用了两种语言的优势，包括多年来在复杂嵌入式系统中磨练出的大量 C++ 功能。让我们深入研究集成 Rust 和 C++ 的一些关键概念。
-将 Rust 添加到 C++
-如果您要将 Rust 添加到现有的 C++ 项目中，则需要从正确的地方开始。首先氧化（即将代码转换为 Rust）容易出现错误、难以维护或存在安全漏洞的区域。这些是 Rust 可以提供即时改进的地方。专注于自包含、具有干净接口且主要为程序而非面向对象的模块。例如，处理媒体或图像处理的库可能是用 Rust 重写的主要候选者，因为这些库通常容易受到内存安全问题的影响。解析器和输入处理例程也将受益于 Rust 的安全保证。
-决定从外到内还是从内到外使用 Rust
-随着项目规模的扩大，请权衡使用 Rust 组件维护 C++ 核心与使用 C++ 库维护以 Rust 为中心的应用程序的优点。对于规模较小、较新的项目，从 Rust 开始可能有助于您避免处理 C 外部函数接口 (FFI) 的复杂性。此决定可能取决于您的安全优先级：如果您的项目的核心租户是安全，那么以 Rust 为中心的方法可能更可取。相反，如果仅在 C++ 项目的某些领域需要安全，则将核心保留在 C++ 中可能更实用。
-另一个考虑因素是您的项目如何处理多线程。在 Rust 和 C++ 之间混合线程和内存所有权非常复杂，并且容易出错。根据应用程序使用线程的方式，这可能会使决策倾向于选择 C++ 或 Rust 作为主要“主机”应用程序。
-让 C++ 发挥其优势
-虽然 Rust 具有许多优势，特别是在安全性方面，但 C++ 也有其自身的优点，不应草率地否定。重写决定应具有战略性，基于实际需求而不是追求语言纯度，因为通过重写经过充分测试和稳定的 C++ 代码引入新错误的风险超过了 Rust 重写的好处。经过时间考验的 C++ 代码，特别是在信号处理或加密等领域，最好保持原样。这样的代码通常经过高度优化、稳定，并且不易出现与内存相关的问题。俗话说，如果它没有坏，就不要“修复”它。
-克服 Rust 的局限性
-尽管 Rust 的生态系统正在不断发展，但它仍然相对年轻。依赖小团队或个人维护的软件包具有固有风险。此外，由于 Rust 仍处于语言快速发展的时期，这可能会导致频繁更新，对大型或长期项目构成挑战。在某些情况下，例如非常大的代码库、特定的嵌入式支持要求或开发周期较长的项目，C++ 可能仍然是更实用的选择。在稳定性和寿命很重要的地方使用 C++ 是明智的，在安全性至关重要但可以接受一定程度的开发流动性的地方使用 Rust 是明智的。
-摘要
-通过将 C++ 的可靠性与 Rust 的安全性相结合，开发人员可以设计持久的系统，同时最大限度地降低常见编程陷阱的风险。如果您有兴趣阅读更多关于此主题的内容，您可以阅读我们关于Rust/C++ 集成的最佳实践指南，该指南由我们与Ferrous Systems联合创始人 Florian Gilcher 合作创建。
-
-关于 KDAB
-
-如果您喜欢这篇文章并想阅读类似的材料，请考虑通过我们的 RSS 源订阅。
-订阅KDAB TV 提供类似的信息性短视频内容。 
-KDAB 提供市场领先的软件咨询和开发服务以及 Qt、C++ 和 3D/OpenGL 方面的培训。 联系我们。
-
- 
-文章更智能的 Rust 之道首先出现在KDAB上。]]></description>
-      <guid>https://www.kdab.com/the-smarter-way-to-rust/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 27 Jun 2024 08:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
