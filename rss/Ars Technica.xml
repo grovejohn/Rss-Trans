@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 02 Jul 2024 18:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2024 20:15:29 GMT</lastBuildDate>
+    <item>
+      <title>即使父母使用严格的隐私设置，人工智能仍会利用孩子的照片进行训练</title>
+      <link>https://arstechnica.com/?p=2035015</link>
+      <description><![CDATA[监管机构警告说，甚至未公开的 YouTube 视频也被用于训练人工智能。]]></description>
+      <guid>https://arstechnica.com/?p=2035015</guid>
+      <pubDate>Tue, 02 Jul 2024 19:37:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国与 Moderna 签署 1.76 亿美元疫苗协议，为应对禽流感大流行做好准备</title>
+      <link>https://arstechnica.com/?p=2035014</link>
+      <description><![CDATA[第三阶段试验预计将于明年开始。]]></description>
+      <guid>https://arstechnica.com/?p=2035014</guid>
+      <pubDate>Tue, 02 Jul 2024 19:14:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenSSH 中的“RegreSSHion”漏洞使攻击者能够获得 Linux 的 root 权限</title>
+      <link>https://arstechnica.com/?p=2035011</link>
+      <description><![CDATA[通过向服务器发送数千个连接请求，可能会危及整个系统的安全。]]></description>
+      <guid>https://arstechnica.com/?p=2035011</guid>
+      <pubDate>Tue, 02 Jul 2024 19:03:17 GMT</pubDate>
+    </item>
     <item>
       <title>最高法院同意审查导致 Pornhub 离开德克萨斯州的法律</title>
       <link>https://arstechnica.com/?p=2034992</link>
@@ -34,7 +55,7 @@
       <pubDate>Tue, 02 Jul 2024 15:59:55 GMT</pubDate>
     </item>
     <item>
-      <title>呼叫蚂蚁医生：截肢可以帮助受伤的蚂蚁抵抗感染</title>
+      <title>呼叫蚂蚁医生：截肢可以帮助受伤的蚂蚁预防感染</title>
       <link>https://arstechnica.com/?p=2034534</link>
       <description><![CDATA[“蚂蚁能够诊断伤口，查看是否被感染......并进行相应的治疗。”]]></description>
       <guid>https://arstechnica.com/?p=2034534</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[多余的 AI 功能和兼容性问题不会损害优质 PC 的性能。]]></description>
       <guid>https://arstechnica.com/?p=2032066</guid>
       <pubDate>Tue, 02 Jul 2024 14:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>是的，你应该对飓风贝丽尔感到有点害怕</title>
-      <link>https://arstechnica.com/?p=2034854</link>
-      <description><![CDATA[“很难用言语表达这有多么令人难以置信。”]]></description>
-      <guid>https://arstechnica.com/?p=2034854</guid>
-      <pubDate>Tue, 02 Jul 2024 13:12:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ars Live：7 月 9 日加入我们，就电影中的时间旅行展开热烈讨论</title>
-      <link>https://arstechnica.com/?p=2034631</link>
-      <description><![CDATA[比尔和泰德的联合创作者 Ed Solomon 与物理学家 Sean Carroll 和 Jim Kakalios 联手]]></description>
-      <guid>https://arstechnica.com/?p=2034631</guid>
-      <pubDate>Tue, 02 Jul 2024 11:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefly 正在快速发展并在可重复使用火箭的道路上取得突破</title>
-      <link>https://arstechnica.com/?p=2034632</link>
-      <description><![CDATA[“对于我们的基础设计，我们是围绕返回发射场推进着陆进行设计的。”]]></description>
-      <guid>https://arstechnica.com/?p=2034632</guid>
-      <pubDate>Tue, 02 Jul 2024 00:29:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
