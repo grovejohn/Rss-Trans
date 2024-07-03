@@ -1,10 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jul 2024 08:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jul 2024 22:36:14 GMT</lastBuildDate>
+    <item>
+      <title>鱿鱼和一些发行版说明</title>
+      <link>https://euroquis.nl//calamares/2024/07/03/kubuntu.html?utm_source=atom_feed</link>
+      <description><![CDATA[Calamares 是一个独立的 Linux 发行版安装程序，
+我们刚刚发布了 Calamares 3.3.7。
+有几个已知问题需要追踪，但这是一个缓慢的过程——完全取决于志愿者
+能够并愿意投入多少时间仔细报告（和重现）错误，
+然后处理代码来修复它们。无论如何，这里有一些关于 Calamares 和发行版、问题和其他事情的半连贯的笔记。
+安装 Kubuntu
+我最近必须为我妈妈安装一台“应急电脑”，
+并选择了 Kubuntu – 我必须说，这是相当随意的。
+安装 Kubuntu 图标看起来不像 Calamares，首先出现了一些不同风格的其他选择对话框，所以我很高兴
+惊讶地看到它之后使用 Calamares。
+它从地理位置中挑选了荷兰语，这很好。不太好的是
+荷兰语翻译不完整。我很确定我可以解决这个问题。
+安装很简单，虽然我总是选择“擦除整个磁盘”
+并点击几乎所有的默认设置。对我来说，安装过程并不复杂，
+
+而且它运行起来没有任何问题。
+
+妈妈毕竟不需要应急电脑，所以现在我有一台装有 Kubuntu 的备用低端台式机。我可能会把它变成一个
+
+试用安装盒一段时间。
+
+在 KDE Neon 上构建 Calamares
+KDE Neon 长期以来一直是 Calamares 的 CI 目标，
+
+但我在 2024 年 3 月将其关闭。当时依赖关系很乱，自动 CI 构建
+
+每晚都会失败。其他发行版没有这种困难，所以我把更多的 CI 权重放在 Fedora 上。
+我确实保留了一台安装了 KDE Neon 的台式机，
+
+作为游戏机。至少我可以看到 Plasma 6 应该是什么样子，作为我们将其放入 FreeBSD 时的参考。
+
+解开混乱的软件包并将其返回到开发机器
+
+实在是太麻烦了。
+
+有一次我删除了 Qt5 – 以及所有依赖它的东西 –
+
+然后重新安装了一些部分并执行了 pkcon 更新 等操作
+
+机器最终再次处于可用于开发的状态，但不要问我到底做了什么，也不要跟我谈论升级体验。
+
+在 FreeBSD 上构建 Calamares
+有可能，只是可能不太有用。 Clang 发出大量警告，我偶尔会尝试解决。
+并非所有警告都那么有用 – 例如，在处理命令行参数时。 main() 中的 argc 和 argv（参数的常规名称）之间的关系很明确，但两者的 type 中都没有任何内容可以表达这一点，因此您会收到类似这样的警告：
+src/libcalamares/geoip/test_geoip.cpp:37:45: 警告：不安全的缓冲区访问 [-Wunsafe-buffer-usage]
+37 | QString selector = argc == 3 ? QString( argv[ 2 ] ) : QString();
+
+在 EndeavourOS 上构建 Calamares
+EndeavourOS 的 live-ISO 是我最喜欢的之一。
+我不知道为什么他们在实时映像中发送带有git的 ISO，但这意味着
+我有一个带有有效 Calamares 配置的系统，
+我可以用最新版本更新它：
+git clone http://github.com/calamares/calamares
+cd calamares
+sudo ./ci/deps-endeavouros.sh
+sudo pacman -Scc
+export CMAKE_ARGS=&quot;-DWITH_QT6=ON -DCMAKE_BUILD_TYPE=Debug&quot;
+export BUILDDIR=build
+./ci/build.sh
+
+我有一个带有实时 ISO 的 VM，但也连接了两个虚拟磁盘。
+通过对其中一个磁盘进行签出和软件包下载，
+并在另一个磁盘上进行测试安装，这是目前为止我拥有的最简单
+和最愉快的开发和测试设置。
+而且壁纸也很漂亮。]]></description>
+      <guid>https://euroquis.nl//calamares/2024/07/03/kubuntu.html?utm_source=atom_feed</guid>
+      <pubDate>Tue, 02 Jul 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>开始使用 Selenium：4 个简短的视频教程</title>
       <link>https://eco.kde.org/blog/2024-07-02_selenium-guides/?utm_source=atom_feed</link>
@@ -27,15 +98,15 @@ Selenium AT-SPI 托管于此处。如果您有兴趣贡献，可以加入 Matrix
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.1.2，7 月错误修复版本</title>
+      <title>KDE Plasma 6.1.2，七月错误修复版本</title>
       <link>https://kde.org/announcements/plasma/6/6.1.2/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 7 月 2 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.2。
+      <description><![CDATA[2024 年 7 月 2 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.2。
 Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
 此版本添加了 KDE 贡献者一周的新翻译和修复。这些错误修复通常很小但很重要，包括：
 
 发现：修复共享对话框。 提交。修复错误#488976
 Libtaskmanager：提高窗口图标频繁更改时的效率。 提交。修复错误#487390
-当面板父级对话框获得焦点时，不要隐藏面板设置。 提交。修复错误#487161
+当面板父级对话框获得焦点时，不要隐藏面板设置。 提交。 修复错误 #487161
 
 查看完整更新日志]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.1.2/?utm_source=atom_feed</guid>
@@ -89,7 +160,7 @@ KDE 的 gitlab 上实例。]]></description>
       <title>KDE 参加 OSPP 2024</title>
       <link>https://mentorship.kde.org/blog/2024-06-30-ospp/?utm_source=atom_feed</link>
       <description><![CDATA[KDE 参与 OSPP 2024
-我们很高兴地宣布，我们将参与 2024 年开源促进计划 (OSPP)。KDE 将指导该计划内的一个项目。OSPP 主要由中国科学院软件研究所组织。其目标是鼓励大学生参与开发和维护开源软件。
+我们很高兴地宣布，我们将参与 开源促进计划 (OSPP) 2024。KDE 将指导该计划内的一个项目。OSPP 主要由中国科学院软件研究所组织。其目标是鼓励大学生参与开发和维护开源软件。
 这是 KDE 社区参与 OSPP 的第一年，我们指导了一个项目。
 将 KDE 游戏移植到 Android 平台
 KDE 游戏和教育游戏是 KDE Gear 套件不可或缺的一部分。今年，在Benson Muite的指导下，Hanyang Zhang 将承担这方面的工作。Hanyang Zhang将负责将一到两款 KDE 游戏移植到 Android 平台。
@@ -124,50 +195,6 @@ KDE 游戏和教育游戏是 KDE Gear 套件不可或缺的一部分。今年，
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/?utm_source=atom_feed</guid>
       <pubDate>Fri, 28 Jun 2024 15:52:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克诺特 1.3</title>
-      <link>https://blogs.kde.org/2024/06/28/marknote-1.3/?utm_source=atom_feed</link>
-      <description><![CDATA[Marknote 1.2 发布至今已近两个月。Marknote 是一款使用 Markdown 的富文本编辑器和笔记管理工具。自发布以来，由于所有贡献者的努力，它发生了很大变化，并添加了许多新功能！
-用户界面
-在小手机屏幕上，您希望有尽可能多的空间来书写和阅读您的笔记。 Marknote 现在允许您在移动设备上隐藏编辑器工具栏，这样您就可以专注于重要内容，同时只需轻点一下即可获得格式选项。
-
-
-
-在桌面上，您现在可以通过拖动分隔符来调整笔记列表和编辑器的宽度，就像在其他桌面应用程序中一样。
-
-
-
-现在您可以使用 UI 中的按钮撤消和重做更改，而不必依赖键盘快捷键，如果您使用的虚拟键盘可能没有控制键，这尤其有用。
-应用程序菜单已重新组织并简化为让它不那么杂乱。
-Carl 在响应式图像方面的工作终于在 Qt 中实现，现在也出现在 Marknote 中。这意味着图像不再在小屏幕上被裁剪。
-Volker 实现了可点击链接！您现在可以按住 Ctrl 键并单击链接来打开它们。
-切换到 Marknote
-为了更轻松地从当前的笔记应用程序切换到 Marknote，Marknote 现在提供了几个导入选项。现在，您可以从 KNotes 和 maildir 导入笔记。
-首选项
-设置现在不再在覆盖对话框中打开，现在显示在 Kirigami Addons 的新 ConfigurationView 中。
-感谢 Garry Wang，您现在可以直接从 Marknote 的首选项中更改颜色主题。
-
-
-
-
-
-错误修复
-
-如果笔记列表的标题太长，它不再与按钮重叠，现在它被隐藏了。
-笔记列表现在滚动时与标题重叠的时间更长。
-在触摸设备上打开笔记不再每次都打开选项菜单。
-感谢 Carl，Windows 上的文件创建问题已得到修复，因此您也可以在那里使用
-草图功能。
-
-获取它
-Marknote 可在 Flathub 上获得。
-Packager 部分
-您可以在
-download.kde.org
-找到该软件包，并且它已与我的 Carl 的 GPG 密钥。]]></description>
-      <guid>https://blogs.kde.org/2024/06/28/marknote-1.3/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 28 Jun 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
