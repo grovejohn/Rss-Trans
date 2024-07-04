@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jul 2024 01:00:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 10:36:13 GMT</lastBuildDate>
+    <item>
+      <title>KDE PIM 的五月和六月</title>
+      <link>https://kontact.kde.org/blog/2024/2024-07-01-kde-pim-may-june-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kontact.kde.org/blog/2024/2024-07-01-kde-pim-may-june-2024/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 04 Jul 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>钥匙串开发更新：Yubikey 支持</title>
       <link>https://carlschwan.eu/2024/07/04/keychain-development-update-yubikey-support/?utm_source=atom_feed</link>
@@ -211,13 +218,6 @@ KDE 游戏和教育游戏是 KDE Gear 套件不可或缺的一部分。今年，
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/06/28/this-week-in-kde-everything-i-think/?utm_source=atom_feed</guid>
       <pubDate>Sat, 29 Jun 2024 00:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于我参与创作 Plasma 6.1 壁纸“Reef”</title>
-      <link>https://wordsmith.social/felix-ernst/about-my-part-in-the-creation-of-the-plasma-6-1-wallpaper-reef?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://wordsmith.social/felix-ernst/about-my-part-in-the-creation-of-the-plasma-6-1-wallpaper-reef?utm_source=atom_feed</guid>
-      <pubDate>Fri, 28 Jun 2024 18:33:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
