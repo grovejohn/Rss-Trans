@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jul 2024 22:36:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jul 2024 01:00:09 GMT</lastBuildDate>
+    <item>
+      <title>钥匙串开发更新：Yubikey 支持</title>
+      <link>https://carlschwan.eu/2024/07/04/keychain-development-update-yubikey-support/?utm_source=atom_feed</link>
+      <description><![CDATA[继我关于 Keychain 的最新帖子之后，
+这里有一个新的开发更新。现在支持 Yubikey 和密钥文件，
+这允许您需要 YubiKey 来打开密码数据库，也可以
+保存它。
+
+
+
+现在也可以保存和编辑组。
+
+
+
+
+组编辑对话框
+
+现在我开始着手数据库创建过程。UI 已准备就绪，但
+
+我仍然需要将其绑定到后端。
+感谢所有给我发送鼓励消息的人，也感谢 Laurent，他
+
+在代码库中做了很多
+
+清理
+。
+下次开发更新再见。]]></description>
+      <guid>https://carlschwan.eu/2024/07/04/keychain-development-update-yubikey-support/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>鱿鱼和一些发行版说明</title>
       <link>https://euroquis.nl//calamares/2024/07/03/kubuntu.html?utm_source=atom_feed</link>
@@ -98,15 +128,15 @@ Selenium AT-SPI 托管于此处。如果您有兴趣贡献，可以加入 Matrix
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.1.2，七月错误修复版本</title>
+      <title>KDE Plasma 6.1.2，7 月错误修复版本</title>
       <link>https://kde.org/announcements/plasma/6/6.1.2/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 7 月 2 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.2。
+      <description><![CDATA[2024 年 7 月 2 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.2。
 Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
 此版本添加了 KDE 贡献者一周的新翻译和修复。这些错误修复通常很小但很重要，包括：
 
 发现：修复共享对话框。 提交。修复错误#488976
 Libtaskmanager：提高窗口图标频繁更改时的效率。 提交。修复错误#487390
-当面板父级对话框获得焦点时，不要隐藏面板设置。 提交。 修复错误 #487161
+当面板父级对话框获得焦点时，不要隐藏面板设置。 提交。修复错误#487161
 
 查看完整更新日志]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.1.2/?utm_source=atom_feed</guid>
@@ -160,7 +190,7 @@ KDE 的 gitlab 上实例。]]></description>
       <title>KDE 参加 OSPP 2024</title>
       <link>https://mentorship.kde.org/blog/2024-06-30-ospp/?utm_source=atom_feed</link>
       <description><![CDATA[KDE 参与 OSPP 2024
-我们很高兴地宣布，我们将参与 开源促进计划 (OSPP) 2024。KDE 将指导该计划内的一个项目。OSPP 主要由中国科学院软件研究所组织。其目标是鼓励大学生参与开发和维护开源软件。
+我们很高兴地宣布，我们将参与 2024 年开源促进计划 (OSPP)。KDE 将指导该计划内的一个项目。OSPP 主要由中国科学院软件研究所组织。其目标是鼓励大学生参与开发和维护开源软件。
 这是 KDE 社区参与 OSPP 的第一年，我们指导了一个项目。
 将 KDE 游戏移植到 Android 平台
 KDE 游戏和教育游戏是 KDE Gear 套件不可或缺的一部分。今年，在Benson Muite的指导下，Hanyang Zhang 将承担这方面的工作。Hanyang Zhang将负责将一到两款 KDE 游戏移植到 Android 平台。
@@ -188,13 +218,6 @@ KDE 游戏和教育游戏是 KDE Gear 套件不可或缺的一部分。今年，
       <description><![CDATA[]]></description>
       <guid>https://wordsmith.social/felix-ernst/about-my-part-in-the-creation-of-the-plasma-6-1-wallpaper-reef?utm_source=atom_feed</guid>
       <pubDate>Fri, 28 Jun 2024 18:33:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-26 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/06/28/web-review-week-2024-26/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 28 Jun 2024 15:52:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
