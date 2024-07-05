@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jul 2024 14:36:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 16:38:54 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-27 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/07/05/web-review-week-2024-27/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/07/05/web-review-week-2024-27/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 05 Jul 2024 15:12:21 GMT</pubDate>
+    </item>
     <item>
       <title>KDE PIM 的五月和六月</title>
       <link>https://kontact.kde.org/blog/2024/2024-07-01-kde-pim-may-june-2024/?utm_source=atom_feed</link>
@@ -101,10 +108,9 @@ KDE Neon 长期以来一直是 Calamares 的 CI 目标，
 实在是太麻烦了。
 
 有一次我删除了 Qt5 – 以及所有依赖它的东西 –
-
 然后重新安装了一些部分并执行了 pkcon 更新 等操作
 
-机器最终再次处于可用于开发的状态，但不要问我到底做了什么，也不要跟我谈论升级体验。
+机器最终又处于可用于开发的状态，但不要问我到底做了什么，也不要跟我谈论升级体验。
 
 在 FreeBSD 上构建 Calamares
 有可能，只是可能不太有用。 Clang 发出大量警告，我偶尔会尝试解决。
@@ -155,7 +161,7 @@ Selenium AT-SPI 托管于此处。如果您有兴趣贡献，可以加入 Matrix
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.1.2，七月错误修复版本</title>
+      <title>KDE Plasma 6.1.2，7 月错误修复版本</title>
       <link>https://kde.org/announcements/plasma/6/6.1.2/?utm_source=atom_feed</link>
       <description><![CDATA[2024 年 7 月 2 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.2。
 Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
@@ -223,13 +229,6 @@ KDE 的 gitlab 上实例。]]></description>
 KDE 游戏和教育游戏是 KDE Gear 套件不可或缺的一部分。今年，在Benson Muite的指导下，Hanyang Zhang 将承担这方面的工作。Hanyang Zhang将负责将一到两款 KDE 游戏移植到 Android 平台。
 让我们热烈欢迎新的贡献者，并祝他们在 KDE 度过一个愉快的夏天！]]></description>
       <guid>https://mentorship.kde.org/blog/2024-06-30-ospp/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 6 月我在 KDE 上的工作</title>
-      <link>https://redstrate.com/blog/2024/06/my-work-in-kde-for-june-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://redstrate.com/blog/2024/06/my-work-in-kde-for-june-2024/?utm_source=atom_feed</guid>
       <pubDate>Sun, 30 Jun 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
