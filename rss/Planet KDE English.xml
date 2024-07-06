@@ -4,7 +4,21 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 06 Jul 2024 06:38:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jul 2024 08:37:15 GMT</lastBuildDate>
+    <item>
+      <title>将 Arianna 移植到 Foliate-js - GSoC '24</title>
+      <link>https://ajay2.vercel.app/posts/gsoc/?utm_source=atom_feed</link>
+      <description><![CDATA[第一个 GSoC 博客 - Arianna 的 foliate-js 集成的初步进展，实现 TOC 和元数据处理。]]></description>
+      <guid>https://ajay2.vercel.app/posts/gsoc/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 06 Jul 2024 08:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>会议场地地图</title>
+      <link>https://www.volkerkrause.eu/2024/07/06/kde-kongress-venue-maps.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/07/06/kde-kongress-venue-maps.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 06 Jul 2024 06:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE：自动滚动</title>
       <link>https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/?utm_source=atom_feed</link>
@@ -173,28 +187,6 @@ KDE For All
 Selenium AT-SPI 托管于此处。如果您有兴趣贡献，可以加入 Matrix 频道 KDE Eco 和 自动化和系统化目标 并介绍自己。感谢 KDE 2024 季管理和指导团队、KDE ​​e.V. 以及出色的 KDE 社区对该项目的支持。]]></description>
       <guid>https://eco.kde.org/blog/2024-07-02_selenium-guides/?utm_source=atom_feed</guid>
       <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.1.2，7 月错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.1.2/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 7 月 2 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.2。
-Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
-此版本添加了 KDE 贡献者一周的新翻译和修复。这些错误修复通常很小但很重要，包括：
-
-发现：修复共享对话框。 提交。修复错误#488976
-Libtaskmanager：提高窗口图标频繁更改时的效率。 提交。修复错误#487390
-当面板父级对话框获得焦点时，不要隐藏面板设置。 提交。 修复错误 #487161
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.1.2/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 02 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 5 周回顾</title>
-      <link>https://kenlo.hashnode.dev/week-5-recap?utm_source=atom_feed</link>
-      <description><![CDATA[尝试使用大多数其他具有像素完美算法的程序所使用的矢量方法。因此，目前我们在 kistoolfreehand 中启动了一个矢量 strokeCoordinate，因为这是启动 strokes、doStroke 和 endStroke 的地方。...]]></description>
-      <guid>https://kenlo.hashnode.dev/week-5-recap?utm_source=atom_feed</guid>
-      <pubDate>Mon, 01 Jul 2024 03:05:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
