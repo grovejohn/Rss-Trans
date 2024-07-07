@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 06 Jul 2024 20:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2024 04:36:22 GMT</lastBuildDate>
     <item>
       <title>RIT 马拉雅拉姆字体：支持一系列 OpenType 塑造器</title>
       <link>https://rajeeshknambiar.wordpress.com/2024/07/06/rit-malayalam-fonts-supporting-a-range-of-opentype-shapers/?utm_source=atom_feed</link>
@@ -143,9 +143,10 @@ KDE Neon 长期以来一直是 Calamares 的 CI 目标，
 实在是太麻烦了。
 
 有一次我删除了 Qt5 – 以及所有依赖它的东西 –
+
 然后重新安装了一些部分并执行了 pkcon 更新 等操作
 
-机器最终又处于可用于开发的状态，但不要问我到底做了什么，也不要跟我谈论升级体验。
+机器最终再次处于可用于开发的状态，但不要问我到底做了什么，也不要跟我谈论升级体验。
 
 在 FreeBSD 上构建 Calamares
 有可能，只是可能不太有用。 Clang 发出大量警告，我偶尔会尝试解决。
