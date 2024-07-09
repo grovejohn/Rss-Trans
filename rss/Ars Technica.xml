@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 09 Jul 2024 19:11:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 20:15:08 GMT</lastBuildDate>
+    <item>
+      <title>为什么每台量子计算机都需要一台强大的经典计算机</title>
+      <link>https://arstechnica.com/?p=2035942</link>
+      <description><![CDATA[纠错量子计算机意味着每秒处理 100TB。]]></description>
+      <guid>https://arstechnica.com/?p=2035942</guid>
+      <pubDate>Tue, 09 Jul 2024 19:09:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的 Blast-RADIUS 攻击破坏了世界各地网络中使用的已有 30 年历史的协议</title>
+      <link>https://arstechnica.com/?p=2035809</link>
+      <description><![CDATA[无处不在的 RADIUS 方案使用基于 MD5 的自主研发身份验证。是的，您没听错。]]></description>
+      <guid>https://arstechnica.com/?p=2035809</guid>
+      <pubDate>Tue, 09 Jul 2024 19:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>三星废弃的 NX 相机可通过 20 美元的 LTE 棒上网</title>
       <link>https://arstechnica.com/?p=2035842</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[《比尔和泰德历险记》的联合创作者 Ed Solomon 与物理学家 Sean Carroll 和 Jim Kakalios 联手]]></description>
       <guid>https://arstechnica.com/?p=2034631</guid>
       <pubDate>Tue, 09 Jul 2024 13:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲拖延已久的旗舰火箭即将首次发射</title>
-      <link>https://arstechnica.com/?p=2035544</link>
-      <description><![CDATA[“该发射器的主要创新之一是上面级。”]]></description>
-      <guid>https://arstechnica.com/?p=2035544</guid>
-      <pubDate>Tue, 09 Jul 2024 12:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄勒冈州要求化石燃料公司对极端高温负责</title>
-      <link>https://arstechnica.com/?p=2035696</link>
-      <description><![CDATA[2021 年，穆特诺玛县的热浪天气导致 69 人死亡。]]></description>
-      <guid>https://arstechnica.com/?p=2035696</guid>
-      <pubDate>Tue, 09 Jul 2024 11:15:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
