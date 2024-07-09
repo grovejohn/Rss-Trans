@@ -4,11 +4,18 @@
     <title>英国广播公司的新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Tue, 09 Jul 2024 16:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jul 2024 17:13:25 GMT</lastBuildDate>
+    <item>
+      <title>警方公布家庭住宅致命纵火袭击的录像</title>
+      <link>https://www.bbc.com/news/videos/c51yk85ye42o</link>
+      <description><![CDATA[伍尔弗汉普顿夜间的大火还造成四人受伤。]]></description>
+      <guid>https://www.bbc.com/news/videos/c51yk85ye42o</guid>
+      <pubDate>Tue, 09 Jul 2024 17:01:32 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯法院下令逮捕尤利娅·纳瓦尔纳亚</title>
       <link>https://www.bbc.com/news/articles/cg3mjzyp40go</link>
-      <description><![CDATA[莫斯科一家法院缺席向反对派领导人阿列克谢·纳瓦尔尼的遗孀发出了逮捕令。]]></description>
+      <description><![CDATA[莫斯科一家法院缺席逮捕了反对派领导人阿列克谢·纳瓦尔尼的遗孀。]]></description>
       <guid>https://www.bbc.com/news/articles/cg3mjzyp40go</guid>
       <pubDate>Tue, 09 Jul 2024 16:32:44 GMT</pubDate>
     </item>
@@ -34,13 +41,6 @@
       <pubDate>Tue, 09 Jul 2024 14:16:41 GMT</pubDate>
     </item>
     <item>
-      <title>观看：议长被拖到下议院议席上的时刻</title>
-      <link>https://www.bbc.co.uk/news/uk-politics-69181280</link>
-      <description><![CDATA[在流程的传统部分，成功的候选人会假装不愿意担任该职位。]]></description>
-      <guid>https://www.bbc.co.uk/news/uk-politics-69181280</guid>
-      <pubDate>Tue, 09 Jul 2024 14:08:04 GMT</pubDate>
-    </item>
-    <item>
       <title>斯特里廷开始谈判阻止初级医生罢工</title>
       <link>https://www.bbc.com/news/articles/ckvgql945y5o</link>
       <description><![CDATA[新任卫生部长表示，达成公平的薪酬协议是首要任务。]]></description>
@@ -62,7 +62,7 @@
       <pubDate>Tue, 09 Jul 2024 13:33:05 GMT</pubDate>
     </item>
     <item>
-      <title>醉酒司机拍照 因时速 140 英里的车祸致人死亡被判入狱</title>
+      <title>醉酒司机自拍导致两人死亡被判入狱</title>
       <link>https://www.bbc.com/news/articles/cxe2j8x222go</link>
       <description><![CDATA[法庭获悉，达里尔·安德森 (Darryl Anderson) 醉酒驾驶并以 141 英里/小时的速度行驶并在当时拍摄照片。]]></description>
       <guid>https://www.bbc.com/news/articles/cxe2j8x222go</guid>
