@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 10 Jul 2024 15:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2024 16:17:15 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 董事会改组：微软退出，苹果在 AI 合作审查中退缩</title>
+      <link>https://arstechnica.com/?p=2036094</link>
+      <description><![CDATA[微软放弃了无投票权的观察员董事会角色；苹果重新考虑计划中的类似职位。]]></description>
+      <guid>https://arstechnica.com/?p=2036094</guid>
+      <pubDate>Wed, 10 Jul 2024 15:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Galaxy Z Fold & Z Flip 6、Watch Ultra 和新款 Ring 是三星的 AI 载体</title>
+      <link>https://arstechnica.com/?p=2036085</link>
+      <description><![CDATA[三星的规格升级产品在展示时均采用 Galaxy AI 漆涂层。]]></description>
+      <guid>https://arstechnica.com/?p=2036085</guid>
+      <pubDate>Wed, 10 Jul 2024 14:59:30 GMT</pubDate>
+    </item>
     <item>
       <title>迫使乌克兰投资者出售火箭公司的联邦政府多年后改口</title>
       <link>https://arstechnica.com/?p=2035991</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[使用我在摘要中写过很长时间的东西感觉很奇怪。]]></description>
       <guid>https://arstechnica.com/?p=2035885</guid>
       <pubDate>Tue, 09 Jul 2024 20:32:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么每台量子计算机都需要一台强大的经典计算机</title>
-      <link>https://arstechnica.com/?p=2035942</link>
-      <description><![CDATA[纠错量子计算机意味着每秒处理 100TB。]]></description>
-      <guid>https://arstechnica.com/?p=2035942</guid>
-      <pubDate>Tue, 09 Jul 2024 19:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Blast-RADIUS 攻击破坏了世界各地网络中使用的已有 30 年历史的协议</title>
-      <link>https://arstechnica.com/?p=2035809</link>
-      <description><![CDATA[无处不在的 RADIUS 方案使用基于 MD5 的自主研发身份验证。是的，您没听错。]]></description>
-      <guid>https://arstechnica.com/?p=2035809</guid>
-      <pubDate>Tue, 09 Jul 2024 19:02:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
