@@ -4,9 +4,37 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 11 Jul 2024 21:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 23:15:41 GMT</lastBuildDate>
     <item>
-      <title>超过 150 万台运行 Exim 的电子邮件服务器易受攻击</title>
+      <title>寻找配偶的狮子兄弟创造了已知最长游泳纪录</title>
+      <link>https://arstechnica.com/?p=2035440</link>
+      <description><![CDATA[雅各布和蒂布兄弟勇敢地克服了饥饿的河马和鳄鱼的威胁，成功渡河。]]></description>
+      <guid>https://arstechnica.com/?p=2035440</guid>
+      <pubDate>Thu, 11 Jul 2024 22:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>首届“AI 小姐”大赛因推行不切实际的选美标准而引发众怒</title>
+      <link>https://arstechnica.com/?p=2036414</link>
+      <description><![CDATA[影响力平台备受争议的比赛将奖品颁发给了三个不存在的人。]]></description>
+      <guid>https://arstechnica.com/?p=2036414</guid>
+      <pubDate>Thu, 11 Jul 2024 21:45:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克呼吁对 X 广告抵制行为者进行“刑事起诉”</title>
+      <link>https://arstechnica.com/?p=2036575</link>
+      <description><![CDATA[国会指控广告商团体合谋削减X的收入。]]></description>
+      <guid>https://arstechnica.com/?p=2036575</guid>
+      <pubDate>Thu, 11 Jul 2024 21:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>不法公司重新推出热门旧科技博客，窃取作者身份</title>
+      <link>https://arstechnica.com/?p=2036525</link>
+      <description><![CDATA[这不仅威胁到作家的作品，也对网络产生了腐蚀作用。]]></description>
+      <guid>https://arstechnica.com/?p=2036525</guid>
+      <pubDate>Thu, 11 Jul 2024 21:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>影响 150 万台服务器的 Exim 漏洞使攻击者能够附加恶意文件</title>
       <link>https://arstechnica.com/?p=2036607</link>
       <description><![CDATA[根据过去的攻击情况，这次出现主动攻击也就不足为奇了。]]></description>
       <guid>https://arstechnica.com/?p=2036607</guid>
@@ -46,34 +74,6 @@
       <description><![CDATA[Arm“精度超分辨率”针对电源使用和集成 GPU 进行了优化。]]></description>
       <guid>https://arstechnica.com/?p=2036378</guid>
       <pubDate>Thu, 11 Jul 2024 16:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果开放其移动支付系统以解决欧盟调查</title>
-      <link>https://arstechnica.com/?p=2036401</link>
-      <description><![CDATA[iPhone 用户将获得更多在欧盟进行“一触即付”支付的选择。]]></description>
-      <guid>https://arstechnica.com/?p=2036401</guid>
-      <pubDate>Thu, 11 Jul 2024 15:47:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intuit 的 AI 豪赌：大规模裁员 1800 人并大举招聘</title>
-      <link>https://arstechnica.com/?p=2036383</link>
-      <description><![CDATA[Intuit 首席执行官：“没有准备好利用 [AI] 的公司将会落后。”]]></description>
-      <guid>https://arstechnica.com/?p=2036383</guid>
-      <pubDate>Thu, 11 Jul 2024 15:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>为了应对气候变化，碳捕获必须不断发展</title>
-      <link>https://arstechnica.com/?p=2036280</link>
-      <description><![CDATA[这些技术是有用的工具，但还不足以让我们摆脱化石燃料。]]></description>
-      <guid>https://arstechnica.com/?p=2036280</guid>
-      <pubDate>Thu, 11 Jul 2024 11:11:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 关于星际航线推进器问题的最新进展：一切正常</title>
-      <link>https://arstechnica.com/?p=2036270</link>
-      <description><![CDATA[“我们想知道的是推进器是否能够发挥作用，”星际线号的飞行员说。]]></description>
-      <guid>https://arstechnica.com/?p=2036270</guid>
-      <pubDate>Thu, 11 Jul 2024 00:30:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
