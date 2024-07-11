@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Jul 2024 22:36:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2024 08:37:52 GMT</lastBuildDate>
+    <item>
+      <title>使用 Nix 作为 Yocto 的替代品</title>
+      <link>https://www.kdab.com/using-nix-as-a-yocto-alternative/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/using-nix-as-a-yocto-alternative/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 11 Jul 2024 07:00:07 GMT</pubDate>
+    </item>
     <item>
       <title>如何管理我的 KDE 电子邮件</title>
       <link>https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/?utm_source=atom_feed</link>
@@ -163,13 +170,6 @@ Van Tastik 让我想起了 Reverend Deadeye。这是一支单人乐队，舞台�
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/07/05/this-week-in-kde-autoscrolling/?utm_source=atom_feed</guid>
       <pubDate>Sat, 06 Jul 2024 03:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-27 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/07/05/web-review-week-2024-27/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/07/05/web-review-week-2024-27/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 05 Jul 2024 15:12:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
