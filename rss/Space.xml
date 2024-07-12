@@ -4,11 +4,18 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Jul 2024 05:36:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 06:19:22 GMT</lastBuildDate>
     <item>
-      <title>观看私人天鹅座货运飞船于 7 月 12 日清晨离开国际空间站</title>
+      <title>SpaceX 猎鹰 9 号火箭在 Starlink 卫星发射过程中出现异常</title>
+      <link>https://www.space.com/spacex-starlink-launch-anomaly-july-2024</link>
+      <description><![CDATA[周四晚上（7 月 11 日），SpaceX 的猎鹰 9 号火箭的上级发动机在发射该公司的 Starlink 卫星时出现故障。]]></description>
+      <guid>https://www.space.com/spacex-starlink-launch-anomaly-july-2024</guid>
+      <pubDate>Fri, 12 Jul 2024 05:45:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天观看私人天鹅座货运飞船离开国际空间站</title>
       <link>https://www.space.com/northrop-grumman-cygnus-iss-departure-july-2024</link>
-      <description><![CDATA[诺斯罗普·格鲁曼公司的天鹅座机器人太空船将于周五早上（7 月 12 日）离开国际空间站，您可以现场观看。]]></description>
+      <description><![CDATA[诺斯罗普·格鲁曼公司的天鹅座机器人太空船将于今天早上（7 月 12 日）离开国际空间站，您可以现场观看。]]></description>
       <guid>https://www.space.com/northrop-grumman-cygnus-iss-departure-july-2024</guid>
       <pubDate>Thu, 11 Jul 2024 22:00:30 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[欧洲航天局的EarthCARE卫星发回了第一批图像；它们应该能够帮助科学家更好地研究地球的能量平衡。]]></description>
       <guid>https://www.space.com/earthcare-first-images-energy-balance-climate-change</guid>
       <pubDate>Thu, 11 Jul 2024 15:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>私人太空垃圾探测器近距离观察轨道上废弃的火箭（图）</title>
-      <link>https://www.space.com/astrobotic-space-junk-probe-rocket-photo</link>
-      <description><![CDATA[Astroscale 的 ADRAS-J 航天器拍摄到了一张令人惊叹的图像：火箭主体毫无生气地漂浮在蓝白色的地球上方，太阳的光芒反射在其上。]]></description>
-      <guid>https://www.space.com/astrobotic-space-junk-probe-rocket-photo</guid>
-      <pubDate>Thu, 11 Jul 2024 14:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
