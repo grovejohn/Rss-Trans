@@ -1,16 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Jul 2024 08:38:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 10:37:33 GMT</lastBuildDate>
+    <item>
+      <title>Academy 2024 T 恤订单开放</title>
+      <link>https://akademy.kde.org/news/2024-07_akademy-2024-t-shirt-orders-open/?utm_source=atom_feed</link>
+      <description><![CDATA[现在已开放 Akademy 2024 T 恤 的预订，仅限亲自参加维尔茨堡 Akademy 的人
+预订将于 7 月 31 日截止
+我们将在几周后为无法亲自参加的人开放 T 恤的单独在线订单]]></description>
+      <guid>https://akademy.kde.org/news/2024-07_akademy-2024-t-shirt-orders-open/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Jul 2024 08:47:06 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-28 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/07/12/web-review-week-2024-28/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/07/12/web-review-week-2024-28/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Jul 2024 08:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 发布框架 6.4.0</title>
+      <link>https://kde.org/announcements/frameworks/6/6.4.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/frameworks/6/6.4.0/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>OPC UA：根据类型描述进行编程</title>
@@ -73,7 +89,7 @@
     <item>
       <title>Calamares ABI 检查</title>
       <link>https://euroquis.nl//calamares/2024/07/08/abi.html?utm_source=atom_feed</link>
-      <description><![CDATA[似乎3 年前我写了一些关于 ABI 稳定性检查的内容，并研究了一些如何使用工具来帮助维护 Calamares 的 ABI 稳定性。以下是一些回调注释。
+      <description><![CDATA[似乎 3 年前 我写了一些关于 ABI 稳定性检查 的内容，并研究了一些如何使用工具来帮助维护 Calamares 的 ABI 稳定性。以下是一些回调注释。
 工具选择
 我最终使用 abigail 进行 ABI
 检查，因为它在 FreeBSD 和 Ubuntu 上可用，而且似乎
@@ -135,45 +151,6 @@ Calamares 重大 ABI 变化
       <description><![CDATA[]]></description>
       <guid>https://akselmo.dev/posts/kate-and-orgmode/?utm_source=atom_feed</guid>
       <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kids ‘n Billies 2024（音乐评论）</title>
-      <link>https://euroquis.nl//blabla/2024/07/07/billies.html?utm_source=atom_feed</link>
-      <description><![CDATA[Kids ‘n Billies 是奈梅亨一年一度的音乐节。
-音乐类型包括摇滚乐、民谣、50 年代音乐、朋克。这是一个适合全家参与的音乐节，在 Goffert 这个相当小的露天剧场（900 个座位）举行。2012 年，我在两位猫王模仿者的帮助下与我的 nepgenoot 结为夫妇，所以这是我们一年一度的音乐之旅。
-以下是今年音乐节的一些笔记，已经是两周前了。
-音乐节围绕两个舞台展开。主舞台是中央剧场，灌木丛中有一个 bospodium（森林舞台），大约 4 米乘 3 米的舞台可以容纳 50 人。我更喜欢bospodium，因为它是一种更亲密的体验。
-总的来说，这也是一个适合孩子的节日（比如，如果是晴天，你可以用水桶重新装水枪）。鸟儿在歌唱，你坐在草地上或站在树下。这确实让一些流派感觉有点不合时宜。
-主舞台笔记
-
-The Gories 感觉不合时宜。如果我在一个黑暗而醉醺醺的聚会上，在坑边闲逛，那就没问题了。不是在白天。
-King Salami 和 Cumberland 3 看起来像是他们自己的种族主义漫画。看着他们表演，我感到有点不舒服——因为是我投射了种族主义的期望，是他们在玩弄我的期望，还是我们都只是在玩玩——但他们在舞台上玩得很开心，和孩子们相处得很好。King Salami 是一流的主唱。
-Slim Cessna 的 Auto Club 根本没有引起我的共鸣。有点华而不实的乡村音乐，我觉得 George Cessna 的独奏 (Bospodium) 更好。
-Tornado Beat! 动作正确，阵容非常传统。适合跳舞，而且表演紧凑。
-Angry Zeta 是一群浣熊（他们后来给我翻译成 mapaches），来自布宜诺斯艾利斯，穿着朋克摇滚服装，具有摇滚乐的感觉，还有一群非常可爱的人。我学了一些西班牙语，他们的巡演海报让我想起了各种独立运动——比如，他们的巡演地点在 Euskal Herria、加泰罗尼亚、瑞士、荷兰……他们看起来很吓人，会发出很大的噪音，而且玩得很开心。
-
-公园笔记
-感谢 Korte Metta 为我做头发，所以我有可爱的花朵和 50 年代女孩蝴蝶结和其他东西。在节日上，她主要为孩子和一些成年人做头发，我赞扬她让一个毛茸茸的大家伙手提包变得可爱。
-Bospodium 笔记
-
-Posessed by Paul James 有两场演出，几天后他们在埃因霍温演出，表现非常好，我不得不再次去看他。一个人拿着吉他、班卓琴和小提琴。“着魔”这个词非常准确。它很个人化，很狂野。
-Hymn for Her 是一个三重奏乐队——这次巡演中没有狗——演出非常精彩。还有一架合成钢琴，我觉得在摇滚音乐节上这样做有点大胆，但 Diver（钢琴家）做得很好。一家人一起演奏的方式真的很棒。
-George Cessna 看起来像个潮人，他之前录制了一首伴奏曲目，既深情又有乡村风，我真的很喜欢。后来，我对汽车俱乐部抱有希望，但结果令人失望。
-Van Tastik 让我想起了 Reverend Deadeye。这是一支单人乐队，舞台表现力出色，与观众的联系紧密。我的 nepgenoot 不喜欢第一组的一些表演，但优秀的 Reverend Van Tastik 承诺会提供更友好的第二组表演，并做到了。这是像这样的小型节日的一个非常好的部分——你真的可以和艺术家们一起喝啤酒，坐下来休息一会儿。无论如何，对于粗犷有力的一人乐队来说，这是一个值得关注的人。
-
-
-艺术家们反复出现的主题是，从财务角度来看，社交对他们来说真的很重要。我个人没有加入任何社交媒体（YouTube、Twitter、Instagram 等），所以我无法帮助他们，但我想我至少可以为他们所有人发出一点声音。
-并购买 T 恤。
-]]></description>
-      <guid>https://euroquis.nl//blabla/2024/07/07/billies.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 06 Jul 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>RIT 马拉雅拉姆字体：支持一系列 OpenType 塑造器</title>
-      <link>https://rajeeshknambiar.wordpress.com/2024/07/06/rit-malayalam-fonts-supporting-a-range-of-opentype-shapers/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rajeeshknambiar.wordpress.com/2024/07/06/rit-malayalam-fonts-supporting-a-range-of-opentype-shapers/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 06 Jul 2024 11:13:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
