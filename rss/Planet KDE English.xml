@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Jul 2024 12:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 14:37:00 GMT</lastBuildDate>
     <item>
       <title>Academy 2024 T 恤订单开放</title>
       <link>https://akademy.kde.org/news/2024-07_akademy-2024-t-shirt-orders-open/?utm_source=atom_feed</link>
@@ -35,6 +35,25 @@
 继续阅读 OPC UA：针对 basysKom GmbH 的类型描述进行编程。]]></description>
       <guid>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Jul 2024 18:07:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt Creator 14 RC 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-14-rc-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 14 RC 现已发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-14-rc-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 11 Jul 2024 10:59:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt for Android 支持版本指南</title>
+      <link>https://www.qt.io/blog/qt-for-android-supported-versions-guidelines?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt for Android 通常支持多种 Android 版本，有些版本非常旧。 为了将支持的版本保持在 Qt 可维护的水平，尤其是对于预计使用三年的 LTS 版本，Qt for Android 正在采用新的指南来选择特定 Qt 版本的支持版本，希望这一努力能够使选择清晰透明，并帮助形成对每个 Qt for Android 版本的支持期望。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-for-android-supported-versions-guidelines?utm_source=atom_feed</guid>
+      <pubDate>Thu, 11 Jul 2024 09:14:20 GMT</pubDate>
     </item>
     <item>
       <title>使用 Nix 作为 Yocto 的替代品</title>
@@ -85,72 +104,6 @@
 文章Kdenlive 24.05.2 发布首先出现在Kdenlive上。]]></description>
       <guid>https://kdenlive.org/en/2024/07/kdenlive-24-05-2-released/?utm_source=atom_feed</guid>
       <pubDate>Mon, 08 Jul 2024 19:41:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calamares ABI 检查</title>
-      <link>https://euroquis.nl//calamares/2024/07/08/abi.html?utm_source=atom_feed</link>
-      <description><![CDATA[似乎 3 年前 我写了一些关于 ABI 稳定性检查 的内容，并研究了一些如何使用工具来帮助维护 Calamares 的 ABI 稳定性。以下是一些回调注释。
-工具选择
-我最终使用 abigail 进行 ABI
-检查，因为它在 FreeBSD 和 Ubuntu 上可用，而且似乎
-它与我想要做的事情具有兼容的思维方式：告诉我
-两个 Calamares 版本之间的 ABI 差异。
-用于此目的的工具是 abidiff，应用该工具实际上是获取共享对象的两个版本（.so）并运行 diff。
-在 Calamares 中，我编写了一些脚本来自动执行此操作，
-因为构建 Calamares 共享对象的版本并不是一件简单的事情。这些脚本还有助于实现 ABI 稳定性
-承诺（或者，嗯……也许可以）。
-Calamares ABI 稳定性政策
-当 Calamares 3.3 系列开始时，其中一个想法是
-在 3.3 中，ABI 应该是稳定的，这样 Calamares 的外部/第三方
-模块就可以继续工作而无需重新编译。
-在 3.2 开发期间，一切都非常不稳定，所有东西都需要
-一直重新编译 - 并且 Boost 依赖关系也没有多大帮助，因为有太多发行版的 .so 卫生状况不佳。
-因此，我们的想法是保持 ABI 稳定性，并检查它是否如此。
-不幸的是，3.3.0 发布了完全开放的 ABI，因为我忘记
-默认打开隐藏可见性，并且仍然需要进行许多
-尚未完成的清理工作。
-三个月后，当 3.3.3 发布时，情况有所好转。
-现在，我将 3.3.3 定义为“稳定的起点”，并且
-不时地检查 ABI 兼容性。不定期，
-不作为发布的一部分（我想我会接受一个 PR，它添加了一个检查，将其作为发布脚本的一部分强制执行）。
-无论如何，我们的想法是应该有“最小”的 ABI 更改。
-这比 KDE 框架政策 关于 C++ 兼容性的规定要宽松得多（嗯……这些页面谈论的 kdelibs 和 KDE4 比我预期的要多得多）。新课程是
-可以的，而且它们在“稳定下来”之前经过几个版本也是可以的。
-Calamares 当前 ABI 问题
-Abigail 对变化的描述相当冗长和明确；我喜欢这一点。
-以下是 3.3.3 和
-3.3.9（尚未发布，开发分支）之间的摘要信息摘要：
-更改的叶子类型摘要：1 个叶子类型已更改
-
-已删除/更改/添加的功能摘要：0 个已删除，2 个已更改，8 个已添加的功能
-
-已删除/更改/添加的变量摘要：0 个已删除，0 个已更改，1 个已添加的变量
-
-函数符号更改摘要：0 个已删除，4 个已添加的函数符号未被调试信息引用
-
-变量符号更改摘要：0 个已删除，3 个已添加的变量符号未被调试信息引用
-
-
-添加不是问题（存在一个问题，即如果您没有按下鼠标，PC 会在安装过程中暂停/睡眠，我添加了一个类
-来管理睡眠抑制XDG DBus API）。更改的内容更为严重：
-&#39;struct Calamares::CommandLine at CommandList.h:31:1&#39; 已更改：
-类型大小从 128 更改为 256（以位为单位）
-2 个数据成员插入：
-&#39;std::__1::chrono::seconds m_timeout&#39;，偏移量为 128（以位为单位）位于 CommandList.h:101:1
-&#39;std::__1::optional&lt;bool&gt; m_verbose&#39;，偏移量 192（以位为单位）在 CommandList.h:102:1
-
-我已经决定这个类足够“内部化”并且足够新，所以我不会担心它——无论是否有人为使用它的 Calamares 构建外部 C++ 模块。
-Calamares 重大 ABI 变化
-仅供参考，没有任何计划。我可以想象有一两件事会引发重大的 ABI 动荡：一是向模块添加虚拟函数以帮助实现一致的配置加载——这样我们就可以更好地提前检查发行版正在将什么放入配置文件中，而不是等待安装失败。]]></description>
-      <guid>https://euroquis.nl//calamares/2024/07/08/abi.html?utm_source=atom_feed</guid>
-      <pubDate>Sun, 07 Jul 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kate 和 OrgMode</title>
-      <link>https://akselmo.dev/posts/kate-and-orgmode/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://akselmo.dev/posts/kate-and-orgmode/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
