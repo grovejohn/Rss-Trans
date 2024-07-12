@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 12 Jul 2024 05:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 11:35:55 GMT</lastBuildDate>
+    <item>
+      <title>哈勃测量超新星的距离</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-measures-the-distance-to-a-supernova/</link>
+      <description><![CDATA[测量星系、类星体和星系团等真正遥远物体的距离是天体物理学的一项重要任务，尤其是在研究早期宇宙时，但这项任务很难完成。我们只能直接测量太阳、行星和一些附近恒星等少数物体的距离。[…]]]></description>
+      <guid>https://science.nasa.gov/missions/hubble/hubble-measures-the-distance-to-a-supernova/</guid>
+      <pubDate>Fri, 12 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局缅怀退役宇航员、美国空军飞行员乔·恩格尔</title>
       <link>https://www.nasa.gov/news-release/nasa-remembers-retired-astronaut-us-air-force-pilot-joe-engle/</link>
@@ -13,7 +20,7 @@
       <pubDate>Thu, 11 Jul 2024 21:33:40 GMT</pubDate>
     </item>
     <item>
-      <title>45 年前：天空实验室重返地球大气层</title>
+      <title>45年前：天空实验室重返地球大气层</title>
       <link>https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/</link>
       <description><![CDATA[1974 年 2 月 8 日，在离开天空实验室的前几天，最后一批进入空间站的宇航员提高了空间站的高度，希望将其保持在轨道上，直到未来的航天飞机能够再次造访空间站。但太阳活动比预期的要强烈，导致地球大气层膨胀，增加了对这架大型航天器的阻力，导致其 [̷]]]></description>
       <guid>https://www.nasa.gov/history/45-years-ago-skylab-reenters-earths-atmosphere/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国宇航局格伦研究中心退休公务员受邀参加 2024 年夏季盛典！  8 月 7 日星期三，上​​午 11 点至下午 2:30   位于刘易斯机场泰勒路  如需了解更多信息或回复，请联系 Kathy Clark，电话 216-433-8354，电子邮件 kathy.m.clark@nasa.gov  报名截止日期：7 月 26 日 ]]></description>
       <guid>https://www.nasa.gov/centers-and-facilities/glenn/attention-civil-servant-retirees/</guid>
       <pubDate>Thu, 11 Jul 2024 13:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于总法律顾问办公室</title>
-      <link>https://www.nasa.gov/organizations/about-the-office-of-the-general-counsel/</link>
-      <description><![CDATA[总法律顾问办公室为 NASA 中心主任和专利顾问提供法律服务和问题方面的职能领导，并负责全机构问题，包括局长。这些服务和问题包括制定和传播法律政策以及解释新法规和案例。总法律顾问办公室 […]]]></description>
-      <guid>https://www.nasa.gov/organizations/about-the-office-of-the-general-counsel/</guid>
-      <pubDate>Wed, 10 Jul 2024 21:59:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
