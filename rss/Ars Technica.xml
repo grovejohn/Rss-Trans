@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 11 Jul 2024 23:36:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 05:13:13 GMT</lastBuildDate>
+    <item>
+      <title>科学家制造了真实的“蒸馏服”，用于回收太空行走中宇航员的尿液</title>
+      <link>https://arstechnica.com/?p=2035963</link>
+      <description><![CDATA[原型将取代目前太空行走时穿着的多层成人尿布。]]></description>
+      <guid>https://arstechnica.com/?p=2035963</guid>
+      <pubDate>Fri, 12 Jul 2024 04:15:35 GMT</pubDate>
+    </item>
     <item>
       <title>寻找配偶的狮子兄弟创造了已知最长游泳纪录</title>
       <link>https://arstechnica.com/?p=2035440</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[对于人类来说简单的抽象分析往往会阻碍 GPT-4o、Gemini 和 Sonnet。]]></description>
       <guid>https://arstechnica.com/?p=2036427</guid>
       <pubDate>Thu, 11 Jul 2024 16:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arm 调整 AMD 的 FSR，为手机和平板电脑带来省电的 GPU 升级</title>
-      <link>https://arstechnica.com/?p=2036378</link>
-      <description><![CDATA[Arm“精度超分辨率”针对电源使用和集成 GPU 进行了优化。]]></description>
-      <guid>https://arstechnica.com/?p=2036378</guid>
-      <pubDate>Thu, 11 Jul 2024 16:22:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
