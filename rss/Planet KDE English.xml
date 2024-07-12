@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Jul 2024 10:37:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jul 2024 12:53:06 GMT</lastBuildDate>
     <item>
       <title>Academy 2024 T 恤订单开放</title>
       <link>https://akademy.kde.org/news/2024-07_akademy-2024-t-shirt-orders-open/?utm_source=atom_feed</link>
@@ -31,7 +31,7 @@
     <item>
       <title>OPC UA：根据类型描述进行编程</title>
       <link>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</link>
-      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写稳健且可移植的 OPC UA 客户端代码的正确方法。
+      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写强大且可移植的 OPC UA 客户端代码的正确方法。
 继续阅读 OPC UA：针对 basysKom GmbH 的类型描述进行编程。]]></description>
       <guid>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Jul 2024 18:07:35 GMT</pubDate>
