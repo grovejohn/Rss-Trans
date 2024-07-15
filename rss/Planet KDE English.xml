@@ -4,7 +4,17 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Jul 2024 12:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 16:41:39 GMT</lastBuildDate>
+    <item>
+      <title>KDE 框架的 Python 绑定：GSoC 期中复习</title>
+      <link>https://alcarazzam.dev/posts/python-bindings-for-kde-frameworks-gsoc-midterm-review/?utm_source=atom_feed</link>
+      <description><![CDATA[我的 14 周 GSoC 项目的第 7 周已经结束，这意味着是时候进行期中更新了！自上次更新以来发生了很多事情。
+我添加了对 KI18n、KGuiAddons、KNotifications、KUnitConversion 和 KXMLGui 的支持。这比预期的要快。我还使用 KUnitConversion 创建了一个小型单位转换演示（它是用 Python 编写的）：
+
+我们决定继续将绑定上游到其相应的存储库。为此，我设置了一个开发环境，现在我正在将代码添加到每个库中。]]></description>
+      <guid>https://alcarazzam.dev/posts/python-bindings-for-kde-frameworks-gsoc-midterm-review/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Jul 2024 14:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>第 7 周回顾 - 矢量方法</title>
       <link>https://kenlo.hashnode.dev/week-7-recap-vector-approach?utm_source=atom_feed</link>
@@ -73,13 +83,6 @@
 敬请期待！]]></description>
       <guid>https://seri037.github.io/blog/posts/development/3/?utm_source=atom_feed</guid>
       <pubDate>Wed, 10 Jul 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何管理我的 KDE 电子邮件</title>
-      <link>https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 09 Jul 2024 21:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>

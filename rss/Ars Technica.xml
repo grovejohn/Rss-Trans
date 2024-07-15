@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 15 Jul 2024 15:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 16:41:52 GMT</lastBuildDate>
+    <item>
+      <title>PC 模拟器登陆 iOS，但苹果的限制影响其性能</title>
+      <link>https://arstechnica.com/?p=2037072</link>
+      <description><![CDATA[UTM SE 缺少 JIT 编译，这意味着“SE 代表慢速版本”。]]></description>
+      <guid>https://arstechnica.com/?p=2037072</guid>
+      <pubDate>Mon, 15 Jul 2024 15:54:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国向世贸组织表示，美国电动汽车补贴是不公平的贸易壁垒</title>
+      <link>https://arstechnica.com/?p=2037076</link>
+      <description><![CDATA[中国表示，只有在北美生产的电动汽车才有资格享受税收抵免，这是不公平的。]]></description>
+      <guid>https://arstechnica.com/?p=2037076</guid>
+      <pubDate>Mon, 15 Jul 2024 15:32:58 GMT</pubDate>
+    </item>
     <item>
       <title>报道：Alphabet 接近以 230 亿美元收购网络安全初创公司 Wiz</title>
       <link>https://arstechnica.com/?p=2037057</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[人们对血液干细胞进行了改造，以保护它们免受致命疗法的伤害。]]></description>
       <guid>https://arstechnica.com/?p=2032102</guid>
       <pubDate>Mon, 15 Jul 2024 13:53:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是奥迪的下一代 A5——以及我们在美国买不到的所有东西</title>
-      <link>https://arstechnica.com/?p=2036784</link>
-      <description><![CDATA[随着内燃机时代八年多的终结，奥迪开发了一个全新的平台。]]></description>
-      <guid>https://arstechnica.com/?p=2036784</guid>
-      <pubDate>Mon, 15 Jul 2024 09:01:00 GMT</pubDate>
     </item>
     <item>
       <title>动物会使用物理原理吗？让我们来数一数</title>
@@ -57,7 +64,7 @@
     <item>
       <title>据报道，OpenAI 在“推理”人工智能方面即将取得突破，并公布了进展框架</title>
       <link>https://arstechnica.com/?p=2036853</link>
-      <description><![CDATA[五级人工智能分类系统可能最好被看作是一种营销活动。]]></description>
+      <description><![CDATA[五级人工智能分类系统可能最好被视为一种营销活动。]]></description>
       <guid>https://arstechnica.com/?p=2036853</guid>
       <pubDate>Fri, 12 Jul 2024 21:58:05 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[事实证明，填补“最坏情况”算法漏洞比预想的要困难得多。]]></description>
       <guid>https://arstechnica.com/?p=2036897</guid>
       <pubDate>Fri, 12 Jul 2024 20:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国海军仍在使用 8 英寸软盘，并致力于模拟替代品</title>
-      <link>https://arstechnica.com/?p=2036848</link>
-      <description><![CDATA[四艘勃兰登堡级 F123 战舰使用软盘作为数据采集系统。]]></description>
-      <guid>https://arstechnica.com/?p=2036848</guid>
-      <pubDate>Fri, 12 Jul 2024 19:59:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
