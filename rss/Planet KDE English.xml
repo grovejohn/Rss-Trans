@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 15 Jul 2024 20:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 22:36:06 GMT</lastBuildDate>
+    <item>
+      <title>如何：在 Plasma Wayland 会话中分析你的显示器</title>
+      <link>https://zamundaaa.github.io/wayland/2024/07/16/how-to-profile.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://zamundaaa.github.io/wayland/2024/07/16/how-to-profile.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Jul 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 框架的 Python 绑定：GSoC 期中复习</title>
       <link>https://alcarazzam.dev/posts/python-bindings-for-kde-frameworks-gsoc-midterm-review/?utm_source=atom_feed</link>
@@ -62,7 +69,7 @@
     <item>
       <title>OPC UA：根据类型描述进行编程</title>
       <link>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</link>
-      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写稳健且可移植的 OPC UA 客户端代码的正确方法。
+      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写强大且可移植的 OPC UA 客户端代码的正确方法。
 继续阅读 OPC UA：针对 basysKom GmbH 的类型描述进行编程。]]></description>
       <guid>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Jul 2024 18:07:35 GMT</pubDate>
@@ -73,16 +80,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/using-nix-as-a-yocto-alternative/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Jul 2024 07:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSoC '24 进展：第 3 至第 6 周</title>
-      <link>https://seri037.github.io/blog/posts/development/3/?utm_source=atom_feed</link>
-      <description><![CDATA[大家好！过去几周，我的期末考试非常忙碌，所以我不得不放慢工作进度。以下是我过去 4 周进展的简要状态报告：
-我创建了一个 SubtitleEvent 类来帮助我们更好地管理字幕事件信息，它可以替代原来的 SubtitledTime 类。为了区分不同层的字幕，我还添加了对字幕层作为多个字幕轨道的基本显示支持。
-目前，我专注于完善这些功能。还有一些小任务需要完成，还有一些错误需要修复。您可以在此 MR 中找到更多信息。
-敬请期待！]]></description>
-      <guid>https://seri037.github.io/blog/posts/development/3/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 10 Jul 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
