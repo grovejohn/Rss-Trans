@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 13 Jul 2024 14:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 12:54:49 GMT</lastBuildDate>
+    <item>
+      <title>第 7 周回顾 - 矢量方法</title>
+      <link>https://kenlo.hashnode.dev/week-7-recap-vector-approach?utm_source=atom_feed</link>
+      <description><![CDATA[目前，我有三个不同的想法。第一个想法是在 kis_tool_freehand 中，在存在笔触初始化和结束笔触的地方，我们填充一个向量，过滤掉多余的点，然后在传递之前取出角像素。我遇到的问题是……]]></description>
+      <guid>https://kenlo.hashnode.dev/week-7-recap-vector-approach?utm_source=atom_feed</guid>
+      <pubDate>Mon, 15 Jul 2024 12:30:25 GMT</pubDate>
+    </item>
     <item>
       <title>代价是什么 “代价是什么”</title>
       <link>https://quickfix.es/2024/07/at-what-cost-what-cost/?utm_source=atom_feed</link>
@@ -45,7 +52,7 @@
     <item>
       <title>OPC UA：根据类型描述进行编程</title>
       <link>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</link>
-      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写强大且可移植的 OPC UA 客户端代码的正确方法。
+      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写稳健且可移植的 OPC UA 客户端代码的正确方法。
 继续阅读 OPC UA：针对 basysKom GmbH 的类型描述进行编程。]]></description>
       <guid>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Jul 2024 18:07:35 GMT</pubDate>
@@ -73,32 +80,6 @@
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/?utm_source=atom_feed</guid>
       <pubDate>Tue, 09 Jul 2024 21:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 24.05.2 发布</title>
-      <link>https://kdenlive.org/en/2024/07/kdenlive-24-05-2-released/?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-
-
-24.05 系列的第二个维护版本已经发布，
-完整更新日志
-
-修复指南类别未正确保存在文档中的问题。 提交。修复错误#489079。
-修复添加录音轨道时添加普通音轨的问题。提交。修复错误 #489080。
-修复宽高比变化的渲染始终使用代理进行渲染的问题。提交。
-修复使用 KF 6.3.0 在 Windows 上进行编译的问题。 提交。
-修复时间线持续时间未正确更新，导致音频/视频在 5 分钟后在时间线上冻结的问题。提交。
-修复没有 DBUS 的 Windows 版本。 提交。
-修复带字幕的间隔工具崩溃问题。 提交。
-
-
-
-
-
-文章Kdenlive 24.05.2 发布首先出现在Kdenlive上。]]></description>
-      <guid>https://kdenlive.org/en/2024/07/kdenlive-24-05-2-released/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 08 Jul 2024 19:41:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
