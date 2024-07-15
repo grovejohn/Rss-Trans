@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Mon, 15 Jul 2024 17:13:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jul 2024 18:18:30 GMT</lastBuildDate>
+    <item>
+      <title>美国参议员秘密行动阻止防范监控滥用的保障措施</title>
+      <link>https://www.wired.com/story/fisa-ecsp-surveillance-limits-us-senate/</link>
+      <description><![CDATA[参议员马克·沃纳 (Mark Warner) 正试图通过新法案，限制政府何时可以窃听美国人。至少有两名参议员正在悄悄地试图阻止他。]]></description>
+      <guid>https://www.wired.com/story/fisa-ecsp-surveillance-limits-us-senate/</guid>
+      <pubDate>Mon, 15 Jul 2024 17:48:33 GMT</pubDate>
+    </item>
     <item>
       <title>民兵组织因特朗普枪击事件而招募新兵</title>
       <link>https://www.wired.com/story/militia-recruitment-trump-shooting-assassination-attempt/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[一个人写道：“他们都应该被吊死在大街上。”另一个人写道：“现在就开战。”]]></description>
       <guid>https://www.wired.com/story/trump-shooting-far-right-calling-for-violence-war/</guid>
       <pubDate>Sun, 14 Jul 2024 18:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 向黑客支付 37 万美元以删除被盗电话记录</title>
-      <link>https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/</link>
-      <description><![CDATA[协助完成该交易的一位安全研究员表示，他认为“几乎所有” AT&amp;T 客户的通话和短信记录完整数据集的唯一副本已被删除——但一些风险可能仍然存在。]]></description>
-      <guid>https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/</guid>
-      <pubDate>Sun, 14 Jul 2024 17:57:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
