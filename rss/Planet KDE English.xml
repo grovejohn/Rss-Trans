@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Jul 2024 01:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 04:37:19 GMT</lastBuildDate>
     <item>
       <title>如何：在 Plasma Wayland 会话中分析你的显示器</title>
       <link>https://zamundaaa.github.io/wayland/2024/07/16/how-to-profile.html?utm_source=atom_feed</link>
@@ -28,6 +28,16 @@
       <description><![CDATA[目前，我有三个不同的想法。第一个想法是在 kis_tool_freehand 中，在存在笔触初始化和结束笔触的地方，我们填充一个向量，过滤掉多余的点，然后在传递之前取出角像素。我遇到的问题是……]]></description>
       <guid>https://kenlo.hashnode.dev/week-7-recap-vector-approach?utm_source=atom_feed</guid>
       <pubDate>Mon, 15 Jul 2024 12:30:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>digiKam 8.4.0 发布</title>
+      <link>https://www.digikam.org/news/2024-07-14-8.4.0_release_announcement/?utm_source=atom_feed</link>
+      <description><![CDATA[亲爱的 digiKam 粉丝和用户，
+经过五个月的积极维护和长期的错误分类，digiKam 团队自豪地推出了其开源数字照片管理器 8.4.0 版本。
+旧版本中长期存在的错误已得到修复，我们花了很多时间联系用户验证预发布中的更改，以便在将程序部署到生产中之前确认修复。
+应用程序国际化也已更新。]]></description>
+      <guid>https://www.digikam.org/news/2024-07-14-8.4.0_release_announcement/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>代价是什么 “代价是什么”</title>
@@ -69,17 +79,10 @@
     <item>
       <title>OPC UA：根据类型描述进行编程</title>
       <link>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</link>
-      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写稳健且可移植的 OPC UA 客户端代码的正确方法。
+      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写强大且可移植的 OPC UA 客户端代码的正确方法。
 继续阅读 OPC UA：针对 basysKom GmbH 的类型描述进行编程。]]></description>
       <guid>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</guid>
       <pubDate>Thu, 11 Jul 2024 18:07:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Nix 作为 Yocto 的替代品</title>
-      <link>https://www.kdab.com/using-nix-as-a-yocto-alternative/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/using-nix-as-a-yocto-alternative/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 11 Jul 2024 07:00:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
