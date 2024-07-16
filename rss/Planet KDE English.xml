@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Jul 2024 04:37:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2024 12:49:44 GMT</lastBuildDate>
+    <item>
+      <title>KDE Plasma 6.1.3，七月错误修复版本</title>
+      <link>https://kde.org/announcements/plasma/6/6.1.3/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 7 月 16 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.3。
+Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
+此版本添加了两周的新翻译和来自 KDE 贡献者的修复。这些错误修复通常很小但很重要，包括：
+FIXME
+查看完整更新日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.1.3/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何：在 Plasma Wayland 会话中分析你的显示器</title>
       <link>https://zamundaaa.github.io/wayland/2024/07/16/how-to-profile.html?utm_source=atom_feed</link>
@@ -75,14 +86,6 @@
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.4.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 12 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPC UA：根据类型描述进行编程</title>
-      <link>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</link>
-      <description><![CDATA[依赖于硬编码 NodeIds 的 OPC UA 客户端代码很脆弱，通常仅适用于特定的 OPC UA 服务器实例。本文介绍了编写强大且可移植的 OPC UA 客户端代码的正确方法。
-继续阅读 OPC UA：针对 basysKom GmbH 的类型描述进行编程。]]></description>
-      <guid>https://www.basyskom.de/2024/opc-ua-programming-against-type-descriptions/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 11 Jul 2024 18:07:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
