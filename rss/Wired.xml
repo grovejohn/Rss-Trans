@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 18 Jul 2024 15:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 15:36:50 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 利用“迷你”模型大幅降低 AI 使用成本</title>
+      <link>https://www.wired.com/story/openai-gpt-4o-mini/</link>
+      <description><![CDATA[随着竞争模型（包括许多免费模型）涌入市场，OpenAI 宣布了一种更便宜的 AI 使用方式。]]></description>
+      <guid>https://www.wired.com/story/openai-gpt-4o-mini/</guid>
+      <pubDate>Thu, 18 Jul 2024 14:55:03 GMT</pubDate>
+    </item>
     <item>
       <title>Fortnite 存在政治暴力问题</title>
       <link>https://www.wired.com/story/fortnite-has-a-political-violence-problem/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>人工智能“洗脑”的模糊现实</title>
       <link>https://www.wired.com/story/gadget-lab-podcast-651/</link>
-      <description><![CDATA[本周，我们将研究生成式人工智能聊天机器人的调情、结巴以及试图让我们相信它们是人类的趋势——一些研究人员认为这种发展超越了道德界限。]]></description>
+      <description><![CDATA[本周，我们将研究生成式人工智能聊天机器人的调情、结巴以及试图让我们相信它们是人类的趋势——一些研究人员认为这一发展超越了道德界限。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-651/</guid>
       <pubDate>Thu, 18 Jul 2024 12:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[音乐流媒体服务在播客下添加了评论功能。它到底是为谁准备的？]]></description>
       <guid>https://www.wired.com/story/spotify-podcast-comments-social-media/</guid>
       <pubDate>Thu, 18 Jul 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新发现的月球洞穴未来可能成为宇航员的住所</title>
-      <link>https://www.wired.com/story/moon-tunnels-caves-astronauts-moon-colony/</link>
-      <description><![CDATA[对月球图像的分析结束了关于月球上是否存在可进入地下区域的长期争论；静海中的空熔岩管尤其令人感兴趣。]]></description>
-      <guid>https://www.wired.com/story/moon-tunnels-caves-astronauts-moon-colony/</guid>
-      <pubDate>Thu, 18 Jul 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
