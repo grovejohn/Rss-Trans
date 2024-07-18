@@ -4,13 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 18 Jul 2024 08:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jul 2024 16:39:29 GMT</lastBuildDate>
     <item>
       <title>嵌入式更新的幕后</title>
       <link>https://www.kdab.com/behind-the-scenes-of-embedded-updates/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/behind-the-scenes-of-embedded-updates/?utm_source=atom_feed</guid>
       <pubDate>Thu, 18 Jul 2024 08:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>GSoC 2024：MankalaEngine 的中期更新</title>
+      <link>https://joaotgouveia.com/blog/gsoc-2024-midterm-updates-for-mankalaengine?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://joaotgouveia.com/blog/gsoc-2024-midterm-updates-for-mankalaengine?utm_source=atom_feed</guid>
+      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Akademy 2024 项目现已上线</title>
@@ -89,13 +96,6 @@ KWin 平铺：不要将最大化的窗口放在平铺中。 提交。 修复错�
 应用程序国际化也已更新。]]></description>
       <guid>https://www.digikam.org/news/2024-07-14-8.4.0_release_announcement/?utm_source=atom_feed</guid>
       <pubDate>Sun, 14 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>代价是什么 “代价是什么”</title>
-      <link>https://quickfix.es/2024/07/at-what-cost-what-cost/?utm_source=atom_feed</link>
-      <description><![CDATA[我对“代价是什么”的争论有点警惕。你知道这种说法……]]></description>
-      <guid>https://quickfix.es/2024/07/at-what-cost-what-cost/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 13 Jul 2024 11:07:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
