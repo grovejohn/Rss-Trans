@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 21:12:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 21:36:16 GMT</lastBuildDate>
+    <item>
+      <title>Crowdstrike 全球宕机为何对机场造成如此严重打击</title>
+      <link>https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/</link>
+      <description><![CDATA[航空业的优化程度堪称无微不至。网络安全公司 Crowdstrike 的一次软件更新失误导致运行 Microsoft Windows 的计算机瘫痪，并导致一系列机场瘫痪。]]></description>
+      <guid>https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/</guid>
+      <pubDate>Fri, 19 Jul 2024 21:08:48 GMT</pubDate>
+    </item>
     <item>
       <title>Clickolding 的混乱历史，今年最令人不安的游戏</title>
       <link>https://www.wired.com/story/video-game-clickolding-oral-history/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>CrowdStrike 的一次错误更新如何导致全球计算机崩溃</title>
       <link>https://www.wired.com/story/crowdstrike-outage-update-windows/</link>
-      <description><![CDATA[有缺陷的 CrowdStrike 内核驱动程序导致全球各地的计算机陷入重启死亡漩涡，导致航空旅行、医院、银行等业务中断。以下是造成这种情况的原因。]]></description>
+      <description><![CDATA[有缺陷的 CrowdStrike 内核驱动程序导致全球各地的计算机陷入重启死亡漩涡，导致航空旅行、医院、银行等业务中断。以下是这种情况发生的原因。]]></description>
       <guid>https://www.wired.com/story/crowdstrike-outage-update-windows/</guid>
       <pubDate>Fri, 19 Jul 2024 14:46:19 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这款价格实惠的桌面音序器可以帮助您用两行音乐创建迷宫。]]></description>
       <guid>https://www.wired.com/review/moog-labyrinth/</guid>
       <pubDate>Fri, 19 Jul 2024 10:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们让人工智能带我们参观我们的城市。结果一片混乱</title>
-      <link>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</link>
-      <description><![CDATA[我们有一个专门的聊天机器人，可以帮我们策划在伦敦和纽约的完美一日游，费用不到 100 美元。我们仍在从旅途中恢复过来。]]></description>
-      <guid>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</guid>
-      <pubDate>Fri, 19 Jul 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
