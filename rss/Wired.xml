@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 17:37:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 18:18:32 GMT</lastBuildDate>
+    <item>
+      <title>Clickolding 的混乱历史，今年最令人不安的游戏</title>
+      <link>https://www.wired.com/story/video-game-clickolding-oral-history/</link>
+      <description><![CDATA[如果没有朋友们的帮助，以及一个自成体系的深夜笑话，Strange Scaffold 不可能成功。以下是今年夏天最受欢迎的游戏的口述历史。]]></description>
+      <guid>https://www.wired.com/story/video-game-clickolding-oral-history/</guid>
+      <pubDate>Fri, 19 Jul 2024 17:24:07 GMT</pubDate>
+    </item>
     <item>
       <title>科技巨头支持特朗普是必然的</title>
       <link>https://www.wired.com/story/dial-up-jared-clemons/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>CrowdStrike 的一次错误更新如何导致全球计算机崩溃</title>
       <link>https://www.wired.com/story/crowdstrike-outage-update-windows/</link>
-      <description><![CDATA[有缺陷的 CrowdStrike 内核驱动程序导致全球各地的计算机陷入重启死亡漩涡，导致航空旅行、医院、银行等业务中断。以下是这种情况发生的原因。]]></description>
+      <description><![CDATA[有缺陷的 CrowdStrike 内核驱动程序导致全球各地的计算机陷入重启死亡漩涡，导致航空旅行、医院、银行等业务中断。以下是造成这种情况的原因。]]></description>
       <guid>https://www.wired.com/story/crowdstrike-outage-update-windows/</guid>
       <pubDate>Fri, 19 Jul 2024 14:46:19 GMT</pubDate>
     </item>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 19 Jul 2024 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>唐纳德·特朗普与硅谷亿万富翁的挽歌</title>
+      <title>硅谷的无情富豪们投奔唐纳德·特朗普——以保住自己的数十亿美元</title>
       <link>https://www.wired.com/story/donald-trump-and-silicon-valleys-billionaire-elegy/</link>
       <description><![CDATA[风险投资家本·霍洛维茨 (Ben Horowitz) 和马克·安德森 (Marc Andreessen) 声称，如果我们不拥抱这位前总统，科技行业、加利福尼亚州和整个国家都将注定失败。]]></description>
       <guid>https://www.wired.com/story/donald-trump-and-silicon-valleys-billionaire-elegy/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们有一个专门的聊天机器人，可以帮我们策划在伦敦和纽约的完美一日游，费用不到 100 美元。我们仍在从旅途中恢复过来。]]></description>
       <guid>https://www.wired.com/story/littlefoot-ai-chatbot-travel-planner/</guid>
       <pubDate>Fri, 19 Jul 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 CrowdStrike 相关的大规模 Microsoft 中断导致全球各地的计算机瘫痪</title>
-      <link>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</link>
-      <description><![CDATA[网络安全公司 CrowdStrike 的软件更新似乎无意中破坏了全球 IT 系统。]]></description>
-      <guid>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</guid>
-      <pubDate>Fri, 19 Jul 2024 08:40:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
