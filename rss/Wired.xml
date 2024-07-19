@@ -4,11 +4,25 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 21:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 22:14:32 GMT</lastBuildDate>
     <item>
-      <title>Crowdstrike 全球宕机为何对机场造成如此严重打击</title>
+      <title>CrowdStrike 全球中断引发现金意外回升</title>
+      <link>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</link>
+      <description><![CDATA[该事件导致机场、杂货店和星巴克门店陷入混乱。]]></description>
+      <guid>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</guid>
+      <pubDate>Fri, 19 Jul 2024 21:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>信息技术大崩溃后，世界各地的医院都陷入困境</title>
+      <link>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</link>
+      <description><![CDATA[医生们发现自己失去了关键系统和诊断工具，并且面临着严峻的现实：在 CrowdStrike 拙劣地部署软件更新后，完全康复可能需要数天时间。]]></description>
+      <guid>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</guid>
+      <pubDate>Fri, 19 Jul 2024 21:23:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>CrowdStrike 全球中断为何对机场造成如此严重影响</title>
       <link>https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/</link>
-      <description><![CDATA[航空业的优化程度堪称无微不至。网络安全公司 Crowdstrike 的一次软件更新失误导致运行 Microsoft Windows 的计算机瘫痪，并导致一系列机场瘫痪。]]></description>
+      <description><![CDATA[航空业的优化程度堪称无微不至。网络安全公司 CrowdStrike 的一次软件更新导致运行 Microsoft Windows 的计算机瘫痪，并导致一系列机场瘫痪。]]></description>
       <guid>https://www.wired.com/story/crowdstrike-windows-outage-airport-travel-delays/</guid>
       <pubDate>Fri, 19 Jul 2024 21:08:48 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>CrowdStrike 的一次错误更新如何导致全球计算机崩溃</title>
       <link>https://www.wired.com/story/crowdstrike-outage-update-windows/</link>
-      <description><![CDATA[有缺陷的 CrowdStrike 内核驱动程序导致全球各地的计算机陷入重启死亡漩涡，导致航空旅行、医院、银行等业务中断。以下是这种情况发生的原因。]]></description>
+      <description><![CDATA[有缺陷的 CrowdStrike 内核驱动程序导致全球各地的计算机陷入重启死亡漩涡，导致航空旅行、医院、银行等业务中断。以下是造成这种情况的原因。]]></description>
       <guid>https://www.wired.com/story/crowdstrike-outage-update-windows/</guid>
       <pubDate>Fri, 19 Jul 2024 14:46:19 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[隔绝野火烟雾、烟雾和过敏原。我们测试了标准和 HEPA 空气净化器型号，以找到适合您家庭的型号。]]></description>
       <guid>https://www.wired.com/gallery/best-air-purifiers/</guid>
       <pubDate>Fri, 19 Jul 2024 11:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普枪击事件引发网络贴纸大战</title>
-      <link>https://www.wired.com/story/the-trump-shooting-fueled-an-online-sticker-battle/</link>
-      <description><![CDATA[上周末，美国前总统唐纳德·特朗普遭遇暗杀未遂后，Sticker Mule 向客户发送消息，建议他们支持特朗普，并要求他们“停止仇恨”。但事实并非如此。]]></description>
-      <guid>https://www.wired.com/story/the-trump-shooting-fueled-an-online-sticker-battle/</guid>
-      <pubDate>Fri, 19 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moog Labyrinth 评测：一种新的测序方式</title>
-      <link>https://www.wired.com/review/moog-labyrinth/</link>
-      <description><![CDATA[这款价格实惠的桌面音序器可以帮助您用两行音乐创建迷宫。]]></description>
-      <guid>https://www.wired.com/review/moog-labyrinth/</guid>
-      <pubDate>Fri, 19 Jul 2024 10:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
