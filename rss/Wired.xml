@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 22:14:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 23:14:16 GMT</lastBuildDate>
+    <item>
+      <title>不要陷入 CrowdStrike 中断诈骗</title>
+      <link>https://www.wired.com/story/crowdstrike-outage-support-scams/</link>
+      <description><![CDATA[在该安全公司发布灾难性的软件更新后，骗子们纷纷创建虚假网站，试图通过“CrowdStrike 支持”骗局来欺骗人们。]]></description>
+      <guid>https://www.wired.com/story/crowdstrike-outage-support-scams/</guid>
+      <pubDate>Fri, 19 Jul 2024 22:19:42 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike 全球中断引发现金意外回升</title>
       <link>https://www.wired.com/story/microsoft-crowdstrike-outage-cash/</link>
@@ -13,9 +20,9 @@
       <pubDate>Fri, 19 Jul 2024 21:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>信息技术大崩溃后，世界各地的医院都陷入困境</title>
+      <title>全球 IT 中断使医院陷入困境</title>
       <link>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</link>
-      <description><![CDATA[医生们发现自己失去了关键系统和诊断工具，并且面临着严峻的现实：在 CrowdStrike 拙劣地部署软件更新后，完全康复可能需要数天时间。]]></description>
+      <description><![CDATA[在 CrowdStrike 拙劣地部署软件更新后，医生们发现自己失去了关键系统和诊断工具，并且面临着完全康复可能需要数天时间的严峻现实。]]></description>
       <guid>https://www.wired.com/story/hospitals-crowdstrike-microsoft-it-outage-meltdown/</guid>
       <pubDate>Fri, 19 Jul 2024 21:23:43 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这些变化预计将为被监禁的人员及其家人每年节省至少 5 亿美元的高昂电话和视频通话费用。]]></description>
       <guid>https://www.wired.com/story/prison-phone-call-fees-fcc-caps/</guid>
       <pubDate>Fri, 19 Jul 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳空气净化器：测试与评测（2024 年）</title>
-      <link>https://www.wired.com/gallery/best-air-purifiers/</link>
-      <description><![CDATA[隔绝野火烟雾、烟雾和过敏原。我们测试了标准和 HEPA 空气净化器型号，以找到适合您家庭的型号。]]></description>
-      <guid>https://www.wired.com/gallery/best-air-purifiers/</guid>
-      <pubDate>Fri, 19 Jul 2024 11:33:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
