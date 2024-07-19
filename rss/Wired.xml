@@ -4,11 +4,18 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 19 Jul 2024 15:37:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jul 2024 16:17:11 GMT</lastBuildDate>
+    <item>
+      <title>科技巨头支持特朗普是必然的</title>
+      <link>https://www.wired.com/story/dial-up-jared-clemons/</link>
+      <description><![CDATA[硅谷贪婪成性，为了自己的利益行事，试图影响 2024 年总统大选。政治学家贾里德·克莱蒙斯确信资本主义不会拯救我们。]]></description>
+      <guid>https://www.wired.com/story/dial-up-jared-clemons/</guid>
+      <pubDate>Fri, 19 Jul 2024 15:50:16 GMT</pubDate>
+    </item>
     <item>
       <title>CrowdStrike 的一次错误更新如何导致全球计算机崩溃</title>
       <link>https://www.wired.com/story/crowdstrike-outage-update-windows/</link>
-      <description><![CDATA[有缺陷的 CrowdStrike 内核驱动程序导致全球各地的计算机陷入重启死亡漩涡，导致航空旅行、医院、银行等业务中断。以下是造成这种情况的原因。]]></description>
+      <description><![CDATA[有缺陷的 CrowdStrike 内核驱动程序导致全球各地的计算机陷入重启死亡漩涡，导致航空旅行、医院、银行等业务中断。以下是这种情况发生的原因。]]></description>
       <guid>https://www.wired.com/story/crowdstrike-outage-update-windows/</guid>
       <pubDate>Fri, 19 Jul 2024 14:46:19 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[网络安全公司 CrowdStrike 的软件更新似乎无意中破坏了全球 IT 系统。]]></description>
       <guid>https://www.wired.com/story/microsoft-windows-outage-crowdstrike-global-it-probems/</guid>
       <pubDate>Fri, 19 Jul 2024 08:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Hulu 上最佳 31 部电影（2024 年 7 月）</title>
-      <link>https://www.wired.com/story/best-movies-hulu-right-now/</link>
-      <description><![CDATA[《法拉利》、《完美日子》和《逃出绝命镇》只是您现在需要在 Hulu 上观看的几部电影。]]></description>
-      <guid>https://www.wired.com/story/best-movies-hulu-right-now/</guid>
-      <pubDate>Thu, 18 Jul 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
