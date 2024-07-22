@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Jul 2024 09:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:54:32 GMT</lastBuildDate>
+    <item>
+      <title>每个开发人员都应该知道的时间知识</title>
+      <link>https://medium.com/@davidebriani/what-every-developer-should-know-about-time-9668ea0ae693?source=rss-c2d702205637------2?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://medium.com/@davidebriani/what-every-developer-should-know-about-time-9668ea0ae693?source=rss-c2d702205637------2?utm_source=atom_feed</guid>
+      <pubDate>Mon, 22 Jul 2024 11:44:10 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Gear 24.08 分支已创建</title>
       <link>https://tsdgeos.blogspot.com/2024/07/kde-gear-2408-branches-created.html?utm_source=atom_feed</link>
@@ -75,21 +82,6 @@ Akademy 将于 9 月 6 日星期五举行欢迎活动，正式拉开帷幕，随
       <description><![CDATA[]]></description>
       <guid>https://labplot.kde.org/2024/07/16/labplot-2-11-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 16 Jul 2024 14:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.1.3，七月错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.1.3/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 7 月 16 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.3。
-Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
-此版本添加了两周的新翻译和来自 KDE 贡献者的修复。这些错误修复通常很小但很重要，包括：
-
-KWin 插件夜灯：放宽自定义时间限制。 提交。 修复错误 #489366
-修复非 systemd 发行版上的 KCM 时钟保存。提交。
-KWin 平铺：不要将最大化的窗口放在平铺中。 提交。 修复错误 #489463
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.1.3/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
