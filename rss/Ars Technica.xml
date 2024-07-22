@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 20 Jul 2024 12:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2024 12:27:14 GMT</lastBuildDate>
+    <item>
+      <title>我们再次建造热核宇宙飞船——这次是真的</title>
+      <link>https://arstechnica.com/?p=2038124</link>
+      <description><![CDATA[军方和美国宇航局似乎非常认真地考虑建造演示硬件。]]></description>
+      <guid>https://arstechnica.com/?p=2038124</guid>
+      <pubDate>Mon, 22 Jul 2024 11:00:25 GMT</pubDate>
+    </item>
     <item>
       <title>将生物质埋入地下可以抑制气候变化吗？</title>
       <link>https://arstechnica.com/?p=2038257</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[X 通过让用户请求社区说明来打击激增的虚假信息。]]></description>
       <guid>https://arstechnica.com/?p=2038170</guid>
       <pubDate>Fri, 19 Jul 2024 16:19:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 的修复从“最多重启 15 次”开始，然后变得更加复杂</title>
-      <link>https://arstechnica.com/?p=2038144</link>
-      <description><![CDATA[管理员还可以恢复备份或手动删除 CrowdStrike 的错误驱动程序。]]></description>
-      <guid>https://arstechnica.com/?p=2038144</guid>
-      <pubDate>Fri, 19 Jul 2024 15:43:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
