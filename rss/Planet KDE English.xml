@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Jul 2024 20:35:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 01:01:59 GMT</lastBuildDate>
     <item>
       <title>第 8 周回顾</title>
       <link>https://kenlo.hashnode.dev/week-8-recap?utm_source=atom_feed</link>
@@ -18,6 +18,15 @@
       <description><![CDATA[]]></description>
       <guid>https://medium.com/@davidebriani/what-every-developer-should-know-about-time-9668ea0ae693?source=rss-c2d702205637------2?utm_source=atom_feed</guid>
       <pubDate>Mon, 22 Jul 2024 11:44:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>你可以用非 C++ 代码为 KDE 做出贡献</title>
+      <link>https://rabbitictranslator.com/contribute-to-kde-without-cpp/?utm_source=atom_feed</link>
+      <description><![CDATA[KDE 制作的并非所有东西都使用 C++。这对某些人来说可能很明显，但仍然值得一提。
+我的意思并不是“嗯，KDE 使用用 C++ 和 QML 编写的 QtQuick”。我的意思也不是“嗯，Qt 与其他语言有很多绑定”。我的意思是“KDE 的工具主要用某些语言和专门的格式编写”。
+请注意，我说的是“专门的格式”。]]></description>
+      <guid>https://rabbitictranslator.com/contribute-to-kde-without-cpp/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>KDE Gear 24.08 分支已创建</title>
@@ -68,20 +77,6 @@
       <description><![CDATA[]]></description>
       <guid>https://joaotgouveia.com/blog/gsoc-2024-midterm-updates-for-mankalaengine?utm_source=atom_feed</guid>
       <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 2024 项目现已上线</title>
-      <link>https://akademy.kde.org/news/2024-07_akademy-2024-program-now-live/?utm_source=atom_feed</link>
-      <description><![CDATA[Akademy 2024 计划现已推出。
-今年的 Akademy 将在维尔茨堡举行，这是一个美丽的城市，您可以在这里享受有趣而迷人的演讲、小组讨论和主题演讲。对于那些喜欢远程参与的人，Akademy 也将在线提供。
-Akademy 将于 9 月 6 日星期五举行欢迎活动，正式拉开帷幕，随后于 9 月 7 日星期六和 9 月 8 日星期日举行一系列演讲。从 9 月 9 日星期一到 9 月 12 日星期四，将有 BoF（Birds of a Feather）、研讨会、会议、一日游和培训课程。
-演讲将涵盖 KDE 的目标、我们如何实现其他语言来为 KDE 编码（Rust 有人用吗？）、最新一波桌面和移动应用程序中的新功能、KDE ​​Eco 如何拯救环境、后端、前端、KDE ​​用于工作、生活和娱乐。
-例如，Nicolas Fella 将告诉我们软件维护者做什么以及为什么他们对项目的生存至关重要，Aleix Pol Gonzalez 将揭开嵌入式 Linux 的神秘面纱，Kevin Ottens 将带我们深入了解 KDE Neon 的核心。您还将了解有关 Plasma Mobile、资助您的梦想项目和酷炫的新 KWin 效果的更多信息。
-您可以从充满激动人心的演讲和令人大开眼界的演示的日程安排中期待更多。只需查看完整计划即可了解将要发生的一切。
-这还不是全部！请继续关注我们即将在 Planet 上发布的两位主题演讲者的公告。
-在本周，KDE 社区成员将参加 BoF 并与有相似兴趣的同事会面，共同开展他们的项目。他们还将参加研讨会、会议、培训课程和一日游，直到活动于 9 月 12 日结束。]]></description>
-      <guid>https://akademy.kde.org/news/2024-07_akademy-2024-program-now-live/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 17 Jul 2024 08:41:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
