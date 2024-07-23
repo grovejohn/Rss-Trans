@@ -4,7 +4,42 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 23 Jul 2024 17:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 19:10:50 GMT</lastBuildDate>
+    <item>
+      <title>通用汽车告诉投资者 Cruise Origin 无人驾驶舱计划已失败</title>
+      <link>https://arstechnica.com/?p=2038723</link>
+      <description><![CDATA[无人驾驶的 Orion 已经停产；相反，Cruise 将使用下一代 Bolt EV。]]></description>
+      <guid>https://arstechnica.com/?p=2038723</guid>
+      <pubDate>Tue, 23 Jul 2024 18:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Waymo 起诉涉嫌砸毁和砍伤其自动驾驶出租车的人</title>
+      <link>https://arstechnica.com/?p=2038514</link>
+      <description><![CDATA[无人驾驶汽车服务正在严厉打击涉嫌破坏行为。]]></description>
+      <guid>https://arstechnica.com/?p=2038514</guid>
+      <pubDate>Tue, 23 Jul 2024 18:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔终于找到了导致第 13 代和第 14 代 CPU 崩溃的问题</title>
+      <link>https://arstechnica.com/?p=2038549</link>
+      <description><![CDATA[但是微码更新无法修复已经崩溃或不稳定的 CPU。]]></description>
+      <guid>https://arstechnica.com/?p=2038549</guid>
+      <pubDate>Tue, 23 Jul 2024 17:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌暂停了为期四年多的在 Chrome 中默认关闭跟踪 cookie 的计划</title>
+      <link>https://arstechnica.com/?p=2038576</link>
+      <description><![CDATA[Google 有关 Cookie 替代品的想法、提议和 API 的简要历史。]]></description>
+      <guid>https://arstechnica.com/?p=2038576</guid>
+      <pubDate>Tue, 23 Jul 2024 17:22:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gaga 饰演的哈莉·奎茵在《小丑：疯狂疯狂》预告片中与犯罪王子小丑携手亮相</title>
+      <link>https://arstechnica.com/?p=2038604</link>
+      <description><![CDATA[“我一生中第一次遇到需要我的人。”]]></description>
+      <guid>https://arstechnica.com/?p=2038604</guid>
+      <pubDate>Tue, 23 Jul 2024 17:03:38 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 刚刚击败竞争对手赢得新合同——这可不是什么好事</title>
       <link>https://arstechnica.com/?p=2038574</link>
@@ -39,41 +74,6 @@
       <description><![CDATA[科罗拉多州本月已报告 7 例，使病例总数增至 11 例。]]></description>
       <guid>https://arstechnica.com/?p=2038535</guid>
       <pubDate>Mon, 22 Jul 2024 22:22:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>不完善的 Linux 驱动 DIY 智能电视是广告疲劳的体现</title>
-      <link>https://arstechnica.com/?p=2038479</link>
-      <description><![CDATA[DIYer 选择了一种看起来“有点疯狂”的设置，以实现更少的跟踪和更多的控制。]]></description>
-      <guid>https://arstechnica.com/?p=2038479</guid>
-      <pubDate>Mon, 22 Jul 2024 21:10:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟称 Meta 因“鬼鬼祟祟”的无广告计划让用户困惑而面临制裁风险</title>
-      <link>https://arstechnica.com/?p=2038473</link>
-      <description><![CDATA[在欧盟的数字打击行动之前，消费者法律可能会改变 Meta 的无广告计划。]]></description>
-      <guid>https://arstechnica.com/?p=2038473</guid>
-      <pubDate>Mon, 22 Jul 2024 19:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>模型结合人工智能和物理学进行全球预测</title>
-      <link>https://arstechnica.com/?p=2038449</link>
-      <description><![CDATA[Google/学术项目在天气方面表现出色，但对气候有一些限制。]]></description>
-      <guid>https://arstechnica.com/?p=2038449</guid>
-      <pubDate>Mon, 22 Jul 2024 17:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>太阳能产业能否维持供电？</title>
-      <link>https://arstechnica.com/?p=2038454</link>
-      <description><![CDATA[全球太阳能电池板供应过剩对生产商造成了伤害，但同时也促进了安装。]]></description>
-      <guid>https://arstechnica.com/?p=2038454</guid>
-      <pubDate>Mon, 22 Jul 2024 17:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软称 850 万台系统受到 CrowdStrike BSOD 攻击，发布 USB 恢复工具</title>
-      <link>https://arstechnica.com/?p=2038277</link>
-      <description><![CDATA[当重启不起作用时，可启动的 USB 记忆棒可能有助于轻松修复某些 PC。]]></description>
-      <guid>https://arstechnica.com/?p=2038277</guid>
-      <pubDate>Mon, 22 Jul 2024 17:07:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
