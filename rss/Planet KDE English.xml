@@ -4,7 +4,32 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 23 Jul 2024 01:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jul 2024 22:36:15 GMT</lastBuildDate>
+    <item>
+      <title>Amarok 3.1 测试版现已推出</title>
+      <link>https://blogs.kde.org/2024/07/23/beta-for-amarok-3.1-available/?utm_source=atom_feed</link>
+      <description><![CDATA[亲爱的音乐和开源音乐播放器爱好者们，
+为准备即将发布的 Amarok 3.1 版本，我们已准备好一个测试版本 (3.0.81)。
+从 ChangeLog 中可以看出，
+除了各种错误修复之外，即将发布的版本中还会包含一些新功能，但不会很多。
+但是，我们已经在幕后完成了大量的 Qt6 兼容性准备工作，因此版本号 3.1 比 3.0.2 更能反映更改的代码量。
+3.1.0 可能会在 8 月初发布，在此期间，我们非常感谢所有帮助捕捉任何回归问题的人士。 （请注意，目前还无法使用 3.1 编译 Qt6 Amarok，但也许可以使用最终的 3.2）
+源 tarball 可在
+download.kde.org
+获取，并且已使用 Tuomas Nurmi 的 GPG 密钥 进行签名。
+至少目前看来，可用的测试版二进制包并不多，但各种出色的打包程序提供的各种夜间 git 构建
+也基于相应的源代码，因此使用它们并报告结果也是参与测试工作的有效方式。
+祝您收听愉快！]]></description>
+      <guid>https://blogs.kde.org/2024/07/23/beta-for-amarok-3.1-available/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 23 Jul 2024 21:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>剪纸插件 1.4</title>
+      <link>https://carlschwan.eu/2024/07/23/kirigami-addons-1.4/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://carlschwan.eu/2024/07/23/kirigami-addons-1.4/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 23 Jul 2024 21:20:35 GMT</pubDate>
+    </item>
     <item>
       <title>第 8 周回顾</title>
       <link>https://kenlo.hashnode.dev/week-8-recap?utm_source=atom_feed</link>
@@ -63,20 +88,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/07/19/web-review-week-2024-29/?utm_source=atom_feed</guid>
       <pubDate>Fri, 19 Jul 2024 14:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>嵌入式更新的幕后</title>
-      <link>https://www.kdab.com/behind-the-scenes-of-embedded-updates/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/behind-the-scenes-of-embedded-updates/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 18 Jul 2024 08:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSoC 2024：MankalaEngine 的中期更新</title>
-      <link>https://joaotgouveia.com/blog/gsoc-2024-midterm-updates-for-mankalaengine?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://joaotgouveia.com/blog/gsoc-2024-midterm-updates-for-mankalaengine?utm_source=atom_feed</guid>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
