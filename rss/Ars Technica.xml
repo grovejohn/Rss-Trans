@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 24 Jul 2024 12:25:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 13:35:19 GMT</lastBuildDate>
+    <item>
+      <title>俄罗斯恶意软件如何在深冬切断乌克兰 600 栋建筑的暖气</title>
+      <link>https://arstechnica.com/?p=2038848</link>
+      <description><![CDATA[该代码被用来在一年中最冷的时候破坏利沃夫的供热设施。]]></description>
+      <guid>https://arstechnica.com/?p=2038848</guid>
+      <pubDate>Wed, 24 Jul 2024 11:15:43 GMT</pubDate>
+    </item>
     <item>
       <title>想像尼安德特人一样做饭吗？考古学家正在研究其中的秘密</title>
       <link>https://arstechnica.com/?p=2038699</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[但是微码更新无法修复已经崩溃或不稳定的 CPU。]]></description>
       <guid>https://arstechnica.com/?p=2038549</guid>
       <pubDate>Tue, 23 Jul 2024 17:45:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌暂停了为期四年多的在 Chrome 中默认关闭跟踪 cookie 的计划</title>
-      <link>https://arstechnica.com/?p=2038576</link>
-      <description><![CDATA[Google 有关 Cookie 替代品的想法、提议和 API 的简要历史。]]></description>
-      <guid>https://arstechnica.com/?p=2038576</guid>
-      <pubDate>Tue, 23 Jul 2024 17:22:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
