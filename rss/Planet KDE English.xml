@@ -4,7 +4,26 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 23 Jul 2024 22:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jul 2024 14:37:48 GMT</lastBuildDate>
+    <item>
+      <title>GSoC '24 进展：第 7 周和第 8 周</title>
+      <link>https://seri037.github.io/blog/posts/development/4/?utm_source=atom_feed</link>
+      <description><![CDATA[多字幕轨道
+我继续完善上一篇博客中提出的功能。现在，我们只需将现有字幕拖出字幕轨道的底部边框，即可直接在时间线上添加新图层。添加、移动和删除字幕的工作方式与以前一样，现在有了图层支持。
+我还在字幕轨道的标题中添加了一个指示器。它看起来像这样：
+
+除了为特定字幕事件设置样式外，我还计划添加为不同字幕层设置不同默认样式的功能。这样我们就能轻松地将一致的样式应用于每个图层内的字幕组。
+改进的字幕管理器
+图层管理现已集成到字幕管理器中，使其焕然一新。
+
+复制和删除操作现在也适用于图层。
+.srt 字幕的自动转换
+为了更好地测试和开发样式功能，我将字幕存储格式切换为 .ass。在导师的帮助下，我们现在可以自动将旧项目中的 .srt 文件转换为 .ass 文件，同时保留原始 .srt 文件。
+
+样式转换仍然存在一些小问题，例如字体大小不正确。不过，我认为现在是时候将注意力转移到样式小部件上，稍后再解决这些错误了。接下来的两周将专注于样式管理，这是项目中最重要的部分，敬请期待！]]></description>
+      <guid>https://seri037.github.io/blog/posts/development/4/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 24 Jul 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Amarok 3.1 测试版现已推出</title>
       <link>https://blogs.kde.org/2024/07/23/beta-for-amarok-3.1-available/?utm_source=atom_feed</link>
@@ -29,6 +48,55 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://carlschwan.eu/2024/07/23/kirigami-addons-1.4/?utm_source=atom_feed</guid>
       <pubDate>Tue, 23 Jul 2024 21:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建和运行 QML Android 应用程序</title>
+      <link>https://heeiya.github.io/KDEBlog/posts/QML%20%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E6%9E%84%E5%BB%BA%E4%B8%8E%E8%BF%90%E8%A1%8C.html?utm_source=atom_feed</link>
+      <description><![CDATA[构建 QML Android 应用程序
+Qt Creator 使用 Gradle 进行项目构建。项目代码准备就绪后，在 Qt Creator 中选择用于构建的 Android 套件。单击构建，Qt Creator 将为您生成 Gradle 配置文件。但是，您可能会遇到以下错误：
+
+任务“:processDebugResources”执行失败。
+执行 com.android.build.gradle.internal.res.LinkApplicationAndroidResourcesTask$TaskAction 时发生故障
+Android 资源链接失败
+aapt2 E 07-​​23 15:59:44 51907 51907 LoadedArsc.cpp:94] RES_TABLE_TYPE_TYPE 条目偏移与实际条目数据重叠。
+aapt2 E 07-​​23 15:59:44 51907 51907 ApkAssets.cpp:149] 无法加载 APK“/home/zhy/Android/Sdk/platforms/android-35/android.jar”中的资源表。
+
+这是因为当前的 Gradle 插件版本不支持 android-35。请参阅如何修复“任务‘:app:processDebugResources’执行失败。&gt; Android 资源链接失败”[Android/Flutter] - Stack Overflow
+要解决此问题，您需要修改 Gradle 配置。
+导航到项目中的 /build/Qt_6_7_2_Clang_arm64_v8a-Debug/android-build 文件夹。
+打开 build.gradle 文件并找到 dependencies 块：
+dependencies {
+ classpath &#39;com.android.tools.build:gradle:7.4.1&#39;
+ 
+
+
+com.android.tools.build:gradle:7.4.1 指的是 Android Gradle 插件 (AGP)。此默认版本来自 2022 年，已经过时了。
+您可以在此处找到最新版本：Maven Repository：com.android.tools.build » gradle
+将插件版本更新为较新的版本，例如：
+ dependency {
+ classpath &#39;com.android.tools.build:gradle:8.4.1&#39;
+ 
+此外，在升级插件版本时，请确保与Gradle 版本。
+在此处查看 Gradle 和 AGP 版本之间的关系：Android Gradle 插件 8.5 发行说明 | Android Studio | Android 开发者
+
+参考：找不到 com.android.tools.build:gradle:7.3.3。在 build.gradle 文件中发现错误 - Stack Overflow
+
+因此，您至少应使用 Gradle 版本 8.6 来支持此插件。
+导航到 ./gradle/wrapper 文件夹并打开 gradle-wrapper.properties 文件。此文件定义项目使用的 Gradle 版本。
+找到以下行：
+distributionUrl=https\://services.gradle.org/distributions/gradle-8.3-bin.zip
+将其更改为：
+distributionUrl=https\://services.gradle.org/distributions/gradle-8.6-bin.zip
+此更新指定项目将使用 Gradle 版本 8.6。
+进行这些更改后，单击“构建”。它会自动下载指定版本的 Gradle，然后下载必要的 Gradle 插件。
+如果成功，您可以在 ./build/outputs/apk/debug 找到构建的 APK。
+运行和安装 APK
+在 Linux 环境中，您可以使用 adb 命令在 Android 设备上安装 APK。或者，您可以使用 Qt Creator 进行一键部署。
+通过 USB 连接 Android 设备后，使用 adb 命令安装 APK：
+adb install android-build-debug.apk
+确保您的 Android 设备已启用开发者模式。您可以通过在线搜索找到根据您的设备型号启用开发者模式的具体说明。]]></description>
+      <guid>https://heeiya.github.io/KDEBlog/posts/QML%20%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E6%9E%84%E5%BB%BA%E4%B8%8E%E8%BF%90%E8%A1%8C.html?utm_source=atom_feed</guid>
+      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>第 8 周回顾</title>
@@ -61,33 +129,43 @@ download.kde.org
       <pubDate>Sun, 21 Jul 2024 10:17:00 GMT</pubDate>
     </item>
     <item>
+      <title>2024 年 OSPP KDE 项目中期总结</title>
+      <link>https://heeiya.github.io/KDEBlog/posts/2024OSPP%20KDE%E9%A1%B9%E7%9B%AE%E4%B8%AD%E6%9C%9F%E6%80%BB%E7%BB%93.html?utm_source=atom_feed</link>
+      <description><![CDATA[OSPP项目启动已经三周了，在此期间我的项目取得了一些进展。
+第一周，7月1日至7月7日
+在项目的第一周，在导师的帮助下，我首先搭建了一个合适的开发环境，并确定Blinken是项目第一个要迁移的应用程序。除此之外，我还搭建了这个项目的博客，目前已经收录到KDE Planet中。
+目前，我使用的是运行 Fedora Workstation 40 的 VirtualBox 虚拟机上的开发环境，通过这个设置，我可以编译和构建 KDE 应用程序，并进行 Qt 开发。
+对于 KDE 开发环境的搭建，建议使用 KDE 官方提供的kdesrc-build，也建议在 KDE Neon 系统下开发，可以使用docker或虚拟机
+设置 Qt Android 开发环境的一种简单方法是使用[Qt Online Installer](获取并安装 Qt | Qt 6.7) 和 Qt Creator。安装 Qt Creator 后，导航至编辑 -&gt; 首选项 -&gt; 设备 -&gt; Android 以选择必要的开发工具包。 Qt Creator 将自动下载所需的 SDK 和 NDK。
+第 2 周，7 月 8 日至 7 月 14 日
+根据导师的建议，我开发了一个简单的井字游戏 QML 游戏作为练习。这款游戏使用 QML 创建了一个简单的界面，并使用 C++ 类来处理游戏逻辑，这也将成为即将到来的游戏迁移的架构。
+游戏中目前实现的功能有：
+
+多语言本地化支持
+单元测试能力
+跨平台兼容性
+
+井字游戏已经在 KDE Invent 上开源：hanyang zhang / TicTacToe · GitLab
+支持 QML 应用程序的本地化需要使用 Qt 的本地化工具，如 lupdate 和 lrelease。不过由于项目是使用 CMake 构建的，所以 Qt 也提供了相应的 CMake 方法：qt_add_translations | Qt Linguist 手册
+此外，我在构建 QML Android 应用程序时遇到了一些困难，如下所述：
+构建和运行 QML Android 应用程序 | Blog
+第 3 周，7 月 15 日至 7 月 21 日
+本周，我正式开始了 Blinken 的迁移工作。
+在研究了 Blinken 的源代码后，我发现 Blinken 的界面是由一个名为 Blinken 的类绘制的，这个类长达 1000 多行。绘制逻辑涉及从 Blinken.svg 中操作元素以及使用 QPainter 直接绘制。
+遗憾的是，QML 并不像 QtWidgets 那样提供对操作 SVG 图像的内置支持。因此，我将 SVG 图像拆分成单独的文件，并使用 QML 组装这些元素。
+
+修改 UI 所花的时间比我预期的要长。不过，经过一周的时间，我已经接近完成 Blinken 的界面绘制。接下来的步骤涉及完善一些页面细节，并迁移 Blinken 的逻辑。
+值得一提的是，QML 不提供非矩形的 MouseArea 供使用，需要创建自定义类才能实现此功能。幸运的是，早期版本的文档中有一个示例：maskedmousearea 示例。虽然这个示例似乎在最新版本中已被删除，但根据参考应该仍然可以实现。]]></description>
+      <guid>https://heeiya.github.io/KDEBlog/posts/2024OSPP%20KDE%E9%A1%B9%E7%9B%AE%E4%B8%AD%E6%9C%9F%E6%80%BB%E7%BB%93.html?utm_source=atom_feed</guid>
+      <pubDate>Sun, 21 Jul 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GSOC：事故周！</title>
       <link>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-3-week-7/?utm_source=atom_feed</link>
       <description><![CDATA[是的，没错。标题和这漫长的几周很配！从第 3 周到第 7 周！
 首先，先来介绍一下标题的背景故事。6 月 25 日，我的期末考试结束了。我正要回家乡，在路上，我遭遇了一场自行车事故。我的右手在路上被撞伤了。幸运的是，它没有断。但是，纯粹的疼痛足以让我哭泣。]]></description>
       <guid>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-3-week-7/?utm_source=atom_feed</guid>
       <pubDate>Sat, 20 Jul 2024 11:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 过去两周：修复粘滞键和最严重的崩溃</title>
-      <link>https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/07/19/this-past-two-weeks-in-kde-fixing-sticky-keys-and-the-worst-crashes/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 20 Jul 2024 05:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 签署请愿书，呼吁欧盟继续资助自由软件</title>
-      <link>https://kde.org/announcements/2024_ngi_openletter/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/2024_ngi_openletter/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 20 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-29 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/07/19/web-review-week-2024-29/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/07/19/web-review-week-2024-29/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 19 Jul 2024 14:11:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
