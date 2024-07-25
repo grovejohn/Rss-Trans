@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 25 Jul 2024 01:02:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 11:36:26 GMT</lastBuildDate>
+    <item>
+      <title>一位化学家解释了脱咖啡因咖啡背后的化学原理</title>
+      <link>https://arstechnica.com/?p=2039127</link>
+      <description><![CDATA[有三种方法力求在去除咖啡因的同时保留咖啡豆的风味。]]></description>
+      <guid>https://arstechnica.com/?p=2039127</guid>
+      <pubDate>Thu, 25 Jul 2024 11:07:10 GMT</pubDate>
+    </item>
     <item>
       <title>我们用 Runway 的 AI 视频生成器让一只猫喝了一杯啤酒，它就长出了手</title>
       <link>https://arstechnica.com/?p=2036379</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[因非合同价格保证计划的价格上涨而提起集体诉讼。]]></description>
       <guid>https://arstechnica.com/?p=2038978</guid>
       <pubDate>Wed, 24 Jul 2024 18:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 将安全更新测试漏洞归咎于导致 850 万台 Windows PC 瘫痪</title>
-      <link>https://arstechnica.com/?p=2038917</link>
-      <description><![CDATA[该公司表示正在改进测试流程以避免重演。]]></description>
-      <guid>https://arstechnica.com/?p=2038917</guid>
-      <pubDate>Wed, 24 Jul 2024 17:33:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
