@@ -4,7 +4,30 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jul 2024 12:52:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2024 20:36:00 GMT</lastBuildDate>
+    <item>
+      <title>GSoC'24 Okular | 第 4-8 周回顾</title>
+      <link>https://prathamgandhi.github.io/posts/gsoc24-update3/?utm_source=atom_feed</link>
+      <description><![CDATA[过去几周，围绕 Acrobat 特定方法处理表单字段的实现、增加对不同类型表单小部件的支持以及一些 UI 改进已经完成或正在进行中，我们做了大量工作。下面列出了已合并和提出的 MR 的详细列表。
+已合并的 MR：
+
+AFTime_Keystroke 实现：此方法实现指定在接受时间信息的表单字段中允许哪些输入按键。!MR987
+AFSpecial_Keystroke 实现：此方法实现指定在特殊类型的表单字段中允许哪些输入按键，即接受电话号码、社会安全号码和邮政编码作为输入的表单字段。 !MR1013
+已实现 AFPercent_Keystroke 和 AFNumber_Keystroke 方法：这些方法指定百分比和数值数据的输入按键。 !MR988
+实现 AFDate_KeystrokeEx 和 AFDate_FormatEx 方法。：用于正确接受输入日期并根据某些预先指定的格式对其进行格式化。 !MR1017
+全局对象实现：全局对象的一个​​非常基本的实现，允许用户读取和写入全局对象。目前不支持持久性和订阅。 !MR1016
+提交值并恢复：实现了在输入被按键操作拒绝的值时将值恢复为先前提交的值的功能。!MR985
+修复表单字段中的数值解释：计算存在一个重大错误 474661，导致使用不同语言环境时结果不正确。此问题已在 !MR992 中修复。MR 重点关注表单字段中的数值解释方式。
+已实现 DocClose、DocWillPrint、DocDidPrint、DocWillSave 和 DocDidSave 事件：现在，这些事件期间会触发操作，并引入 !MR1019 中的更改。
+单选按钮和复选框大小修复：现在，单选按钮和复选框会以正确的大小绘制，并在缩放时调整大小，以提供更好的用户体验。 !MR1015
+为 FormFieldChoices 实现 value (getter)、numItems、currentValueIndices 属性和 getItemAt：引入这些方法是为了改进 FormFieldChoices 的功能。 !MR1031
+Poppler 中的 ResetForm 功能：Poppler 中的 Qt 前端添加了 Reset form 功能。在此提交中引入
+
+除此之外，还有更多 MR 正在进行中，例如在使用表单字段时实现 UI 体验以及扩展不同类型的表单字段和操作的功能。
+下次见。干杯！]]></description>
+      <guid>https://prathamgandhi.github.io/posts/gsoc24-update3/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 25 Jul 2024 17:30:21 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Creator 14 发布</title>
       <link>https://www.qt.io/blog/qt-creator-14-released?utm_source=atom_feed</link>
@@ -35,7 +58,7 @@
 .srt 字幕的自动转换
 为了更好地测试和开发样式功能，我将字幕存储格式切换为 .ass。在导师的帮助下，我们现在可以自动将旧项目中的 .srt 文件转换为 .ass 文件，同时保留原始 .srt 文件。
 
-样式转换仍然存在一些小问题，例如字体大小不正确。但是，我认为是时候将注意力转移到样式小部件上，稍后再解决这些错误了。接下来的两周将专注于样式管理，这是项目中最重要的部分，敬请期待！]]></description>
+样式转换仍然存在一些小问题，例如字体大小不正确。不过，我认为现在是时候将注意力转移到样式小部件上，稍后再解决这些错误了。接下来的两周将专注于样式管理，这是项目中最重要的部分，敬请期待！]]></description>
       <guid>https://seri037.github.io/blog/posts/development/4/?utm_source=atom_feed</guid>
       <pubDate>Wed, 24 Jul 2024 12:00:00 GMT</pubDate>
     </item>
@@ -46,8 +69,8 @@
 为准备即将发布的 Amarok 3.1 版本，我们已准备好一个测试版本 (3.0.81)。
 从 ChangeLog 中可以看出，
 除了各种错误修复之外，即将发布的版本中还会包含一些新功能，但不会很多。
-但是，我们已经在幕后完成了大量的 Qt6 兼容性准备工作，因此版本号 3.1 比 3.0.2 更能反映出代码更改量。
-3.1.0 可能会在 8 月初发布，在此期间，我们非常感谢大家帮助解决任何回归问题。 （请注意，目前还无法使用 3.1 编译 Qt6 Amarok，但也许可以使用最终的 3.2）
+但是，我们已经在幕后完成了大量的 Qt6 兼容性准备工作，因此版本号 3.1 比 3.0.2 更能反映更改的代码量。
+3.1.0 可能会在 8 月初发布，在此期间，我们非常感谢所有帮助捕捉任何回归问题的人士。 （请注意，目前还无法使用 3.1 编译 Qt6 Amarok，但也许可以使用最终的 3.2）
 源 tarball 可在
 download.kde.org
 获取，并且已使用 Tuomas Nurmi 的 GPG 密钥 进行签名。
@@ -135,13 +158,6 @@ adb install android-build-debug.apk
 请注意，我说的是“专门的格式”。]]></description>
       <guid>https://rabbitictranslator.com/contribute-to-kde-without-cpp/?utm_source=atom_feed</guid>
       <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear 24.08 分支已创建</title>
-      <link>https://tsdgeos.blogspot.com/2024/07/kde-gear-2408-branches-created.html?utm_source=atom_feed</link>
-      <description><![CDATA[确保将希望最终包含在 KDE Gear 24.08 版本中的任何内容提交给他们下一个日期  2024 年 7 月 25 日：24.08 Freeze 和 Beta (24.07.80) 标签和发布8 月2024 年 8 月 8 日：24.08 RC（24.07.90）标记和发布2024 年 8 月 15 日：24.08 标记2024 年 8 月 22 日：24.08 发布https://community.kde.org/Schedules/KDE_Gear_24.08_Schedule]]></description>
-      <guid>https://tsdgeos.blogspot.com/2024/07/kde-gear-2408-branches-created.html?utm_source=atom_feed</guid>
-      <pubDate>Sun, 21 Jul 2024 10:17:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
