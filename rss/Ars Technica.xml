@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 26 Jul 2024 18:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 20:16:48 GMT</lastBuildDate>
+    <item>
+      <title>人工智能和机器学习进入赛车运动：通用汽车如何利用它们赢得更多比赛</title>
+      <link>https://arstechnica.com/?p=2039592</link>
+      <description><![CDATA[从模拟轮胎磨损和燃料使用情况到根据无线电通讯预测警告。]]></description>
+      <guid>https://arstechnica.com/?p=2039592</guid>
+      <pubDate>Fri, 26 Jul 2024 19:27:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求政府资助的互联网服务提供商尽量避免提供低成本宽带</title>
+      <link>https://arstechnica.com/?p=2039582</link>
+      <description><![CDATA[尽管得到补贴，互联网服务提供商仍然反对针对低收入人群的 30 美元套餐。]]></description>
+      <guid>https://arstechnica.com/?p=2039582</guid>
+      <pubDate>Fri, 26 Jul 2024 18:33:11 GMT</pubDate>
+    </item>
     <item>
       <title>X 正在用你的数据训练 Grok AI——以下是如何阻止它</title>
       <link>https://arstechnica.com/?p=2039543</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[“该团队正在调查根本原因。”]]></description>
       <guid>https://arstechnica.com/?p=2039318</guid>
       <pubDate>Fri, 26 Jul 2024 11:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 1972 年以来，火箭首次运抵发射场，人类将首次登月</title>
-      <link>https://arstechnica.com/?p=2039154</link>
-      <description><![CDATA[我们正在等待美国宇航局关于如何处理猎户座隔热板的决定的新闻。]]></description>
-      <guid>https://arstechnica.com/?p=2039154</guid>
-      <pubDate>Thu, 25 Jul 2024 22:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌宣称利用解决证明问题的人工智能模型取得数学突破</title>
-      <link>https://arstechnica.com/?p=2039221</link>
-      <description><![CDATA[AlphaProof 和 A​​lphaGeometry 2 解决问题，并及时发出警告并提供人工协助。]]></description>
-      <guid>https://arstechnica.com/?p=2039221</guid>
-      <pubDate>Thu, 25 Jul 2024 21:54:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
