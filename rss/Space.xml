@@ -4,7 +4,14 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Jul 2024 17:35:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2024 18:18:54 GMT</lastBuildDate>
+    <item>
+      <title>国际空间站：实时更新</title>
+      <link>https://www.space.com/news/live/international-space-station-live-updates</link>
+      <description><![CDATA[了解国际空间站的情况。]]></description>
+      <guid>https://www.space.com/news/live/international-space-station-live-updates</guid>
+      <pubDate>Fri, 26 Jul 2024 17:57:05 GMT</pubDate>
+    </item>
     <item>
       <title>国际空间站宇航员在太空中拍摄令人惊叹的极光和流星延时摄影（视频）</title>
       <link>https://www.space.com/international-space-station-stars-auroras-meteor-video</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[亚利桑那州参议员马克·凯利曾是美国国家航空航天局 (NASA) 的宇航员，也是美国副总统卡玛拉·哈里斯的竞选搭档候选人之一，哈里斯正在争取成为美国下一任总统。]]></description>
       <guid>https://www.space.com/astronaut-mark-kelly-harris-vice-president-candidate</guid>
       <pubDate>Fri, 26 Jul 2024 10:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 找到猎鹰 9 号故障原因，最快将于 7 月 27 日恢复飞行</title>
-      <link>https://www.space.com/spacex-finds-cause-falcon-9-rocket-failure</link>
-      <description><![CDATA[据 SpaceX 称，该公司已经解决了导致其猎鹰 9 号火箭在 7 月 11 日发射时失败的问题，并计划于 7 月 27 日恢复飞行。]]></description>
-      <guid>https://www.space.com/spacex-finds-cause-falcon-9-rocket-failure</guid>
-      <pubDate>Fri, 26 Jul 2024 00:10:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
