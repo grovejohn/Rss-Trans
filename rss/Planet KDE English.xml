@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 26 Jul 2024 10:37:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jul 2024 06:38:46 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：功能和 UI 优化</title>
+      <link>https://pointieststick.com/2024/07/26/this-week-in-kde-features-and-ui-polish/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/07/26/this-week-in-kde-features-and-ui-polish/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 27 Jul 2024 04:36:37 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-30 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/07/26/web-review-week-2024-30/?utm_source=atom_feed</link>
@@ -190,13 +197,6 @@ adb install android-build-debug.apk
 确保您的 Android 设备已启用开发者模式。您可以通过在线搜索找到根据您的设备型号启用开发者模式的具体说明。]]></description>
       <guid>https://heeiya.github.io/KDEBlog/posts/QML%20%E5%AE%89%E5%8D%93%E5%BA%94%E7%94%A8%E6%9E%84%E5%BB%BA%E4%B8%8E%E8%BF%90%E8%A1%8C.html?utm_source=atom_feed</guid>
       <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 8 周回顾</title>
-      <link>https://kenlo.hashnode.dev/week-8-recap?utm_source=atom_feed</link>
-      <description><![CDATA[由于到目前为止我们的主要问题是处理不断的微像素调用，我们决定在所有这些 &lt; 1 像素的移动中，通过在 KisToolFreehandHelper::pai 中的管道之前滤除小于 1 像素的距离来丢弃它们...]]></description>
-      <guid>https://kenlo.hashnode.dev/week-8-recap?utm_source=atom_feed</guid>
-      <pubDate>Mon, 22 Jul 2024 14:06:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
