@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Mon, 29 Jul 2024 11:12:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 11:36:24 GMT</lastBuildDate>
+    <item>
+      <title>信息窃取者如何窃取全球密码</title>
+      <link>https://www.wired.com/story/infostealer-malware-password-theft/</link>
+      <description><![CDATA[信息窃取恶意软件正在窃取数百万个密码、cookie 和搜索历史记录。对于黑客来说，这是一座金矿，但对于任何成为目标的人来说，这都是一场灾难。]]></description>
+      <guid>https://www.wired.com/story/infostealer-malware-password-theft/</guid>
+      <pubDate>Mon, 29 Jul 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们正在使用 Memecoins 押注美国大选</title>
+      <link>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</link>
+      <description><![CDATA[当一场关于美国大选押注的争斗在法庭上展开时，科技迷们正在向受政客启发的加密货币投入数亿美元。]]></description>
+      <guid>https://www.wired.com/story/political-memecoins-betting-trump-biden-harris/</guid>
+      <pubDate>Mon, 29 Jul 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>回归 BASIC——计算机史上最重要的编程语言</title>
       <link>https://www.wired.com/story/back-to-basic-the-most-consequential-programming-language/</link>
@@ -57,23 +71,9 @@
     <item>
       <title>揭开磁力在银河系中的神秘作用</title>
       <link>https://www.wired.com/story/uncovering-magnetisms-mysterious-role-in-the-galaxy/</link>
-      <description><![CDATA[苏珊·克拉克 (Susan Clark) 正在帮助解开银河系磁场的神秘运作之谜，这是银河系之谜中缺失的关键一块。]]></description>
+      <description><![CDATA[苏珊·克拉克 (Susan Clark) 正在帮助解开银河系磁场的神秘运作之谜，这是银河系之谜中缺失的一个关键部分。]]></description>
       <guid>https://www.wired.com/story/uncovering-magnetisms-mysterious-role-in-the-galaxy/</guid>
       <pubDate>Sun, 28 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>唐纳德·特朗普在对加密货币忠实粉丝的演讲中支持“战略性比特币储备”</title>
-      <link>https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/</link>
-      <description><![CDATA[特朗普在比特币 2024 大会上还承诺“解雇”美国证券交易委员会主席加里·根斯勒 (Gary Gensler)，成立加密货币咨询委员会，并让美国成为“世界加密货币之都”。]]></description>
-      <guid>https://www.wired.com/story/donald-trump-strategic-bitcoin-stockpile-bitcoin-2024/</guid>
-      <pubDate>Sat, 27 Jul 2024 22:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最适合侧卧者的床垫，经过测试和评测</title>
-      <link>https://www.wired.com/gallery/best-side-sleeper-mattresses/</link>
-      <description><![CDATA[如果你习惯侧卧，那么你需要一张能提供支撑并缓解压力的床垫。我习惯侧卧，我测试了顶部泡沫、冷却和硬床垫，以找到最好的床垫。]]></description>
-      <guid>https://www.wired.com/gallery/best-side-sleeper-mattresses/</guid>
-      <pubDate>Sat, 27 Jul 2024 15:09:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
