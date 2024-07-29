@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Mon, 29 Jul 2024 09:35:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2024 10:16:37 GMT</lastBuildDate>
+    <item>
+      <title>TikTok 存在纳粹问题</title>
+      <link>https://www.wired.com/story/tiktok-nazi-content-moderation/</link>
+      <description><![CDATA[TikTok 的算法不仅推广新纳粹内容，极端组织还在利用该平台招募新成员并鼓励现实世界的行动。]]></description>
+      <guid>https://www.wired.com/story/tiktok-nazi-content-moderation/</guid>
+      <pubDate>Mon, 29 Jul 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>12 款最佳智能手表，由编辑测试和评测（2024 年）：Apple Watch、Wear OS、混合手表、儿童手表</title>
       <link>https://www.wired.com/gallery/best-smartwatches/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>揭开磁力在银河系中的神秘作用</title>
       <link>https://www.wired.com/story/uncovering-magnetisms-mysterious-role-in-the-galaxy/</link>
-      <description><![CDATA[苏珊·克拉克 (Susan Clark) 正在帮助解开银河系磁场的神秘运作之谜，这是银河系之谜中缺失的一个关键部分。]]></description>
+      <description><![CDATA[苏珊·克拉克 (Susan Clark) 正在帮助解开银河系磁场的神秘运作之谜，这是银河系之谜中缺失的关键一块。]]></description>
       <guid>https://www.wired.com/story/uncovering-magnetisms-mysterious-role-in-the-galaxy/</guid>
       <pubDate>Sun, 28 Jul 2024 11:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[三星第三代耳机抄袭了苹果过时的塑料头设计，价格更高，而且降噪效果较差。]]></description>
       <guid>https://www.wired.com/review/samsung-galaxy-buds3/</guid>
       <pubDate>Sat, 27 Jul 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阻止 X 的 Grok AI 对您的推文进行训练</title>
-      <link>https://www.wired.com/story/x-grok-ai-training-pegasus/</link>
-      <description><![CDATA[另外：更多有关 Pegasus 间谍软件的争议、重大 BIOS 争议以及本周更多重要安全新闻。]]></description>
-      <guid>https://www.wired.com/story/x-grok-ai-training-pegasus/</guid>
-      <pubDate>Sat, 27 Jul 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
