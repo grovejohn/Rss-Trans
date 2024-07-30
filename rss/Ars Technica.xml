@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Jul 2024 18:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 19:12:31 GMT</lastBuildDate>
+    <item>
+      <title>Charter 未能向 911 呼叫中心和 FCC 通报 VoIP 电话中断情况</title>
+      <link>https://arstechnica.com/?p=2040032</link>
+      <description><![CDATA[查特将此归咎于电子邮件通知中的错误以及对联邦通信委员会规则的误解。]]></description>
+      <guid>https://arstechnica.com/?p=2040032</guid>
+      <pubDate>Tue, 30 Jul 2024 17:56:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚马逊被迫召回 40 万种可能致人死亡或触电的产品</title>
+      <link>https://arstechnica.com/?p=2040006</link>
+      <description><![CDATA[人们可能仍在使用亚马逊销售和转售的不安全产品。]]></description>
+      <guid>https://arstechnica.com/?p=2040006</guid>
+      <pubDate>Tue, 30 Jul 2024 17:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>罗技想出一款需要订阅的“永久鼠标”</title>
+      <link>https://arstechnica.com/?p=2039972</link>
+      <description><![CDATA[高管表示，鼠标需要定期支付软件更新费用是可能的。]]></description>
+      <guid>https://arstechnica.com/?p=2039972</guid>
+      <pubDate>Tue, 30 Jul 2024 17:49:07 GMT</pubDate>
+    </item>
     <item>
       <title>流行的 2FA 工具的丢失使注重安全的 GrapheneOS 陷入了困境</title>
       <link>https://arstechnica.com/?p=2039975</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[让我们开始熬夜研究海滩男孩的每一张专辑吧。]]></description>
       <guid>https://arstechnica.com/?p=2039811</guid>
       <pubDate>Mon, 29 Jul 2024 21:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客利用 VMware 漏洞获得虚拟机管理程序管理员权限</title>
-      <link>https://arstechnica.com/?p=2039863</link>
-      <description><![CDATA[创建名为“ESX Admins”的新组，ESXi 自动授予其管理员权限。]]></description>
-      <guid>https://arstechnica.com/?p=2039863</guid>
-      <pubDate>Mon, 29 Jul 2024 21:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>《星际迷航：下层舰员》第 5 季预告片为塞里托斯号船员提供了最后一次任务</title>
-      <link>https://arstechnica.com/?p=2039676</link>
-      <description><![CDATA[另外：第 31 节的预告片、奇异新世界 S3、星际舰队学院 的新闻，等等。]]></description>
-      <guid>https://arstechnica.com/?p=2039676</guid>
-      <pubDate>Mon, 29 Jul 2024 20:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>国会取消折扣计划后，低收入家庭放弃互联网服务</title>
-      <link>https://arstechnica.com/?p=2039833</link>
-      <description><![CDATA[Charter 首席执行官表示，30 美元的折扣结束后，“客户的支付能力”令人担忧。]]></description>
-      <guid>https://arstechnica.com/?p=2039833</guid>
-      <pubDate>Mon, 29 Jul 2024 20:40:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
