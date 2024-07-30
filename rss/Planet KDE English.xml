@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 30 Jul 2024 12:54:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 16:40:44 GMT</lastBuildDate>
+    <item>
+      <title>理解字体选择</title>
+      <link>https://wolthera.info/2024/07/making-sense-of-font-selection/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://wolthera.info/2024/07/making-sense-of-font-selection/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 30 Jul 2024 14:54:46 GMT</pubDate>
+    </item>
     <item>
       <title>LabPlot 由 NGIO 核心基金资助</title>
       <link>https://labplot.kde.org/2024/07/30/labplot-funded-through-ngio-core-fund/?utm_source=atom_feed</link>
@@ -149,13 +156,6 @@ Visual Design Matrix
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/07/26/this-week-in-kde-features-and-ui-polish/?utm_source=atom_feed</guid>
       <pubDate>Sat, 27 Jul 2024 04:36:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-30 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/07/26/web-review-week-2024-30/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/07/26/web-review-week-2024-30/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 26 Jul 2024 09:35:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
