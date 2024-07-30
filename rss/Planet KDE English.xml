@@ -4,7 +4,24 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 29 Jul 2024 20:35:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jul 2024 12:54:00 GMT</lastBuildDate>
+    <item>
+      <title>LabPlot 由 NGIO 核心基金资助</title>
+      <link>https://labplot.kde.org/2024/07/30/labplot-funded-through-ngio-core-fund/?utm_source=atom_feed</link>
+      <description><![CDATA[今年，我们申请了 NLnet 于 2024 年 2 月发起的 NGI Zero Core 公开征集提案。在 NLnet 基金会进行全面审查后，LabPlot 的申请被接受，并将由 NGI0 Core 基金资助，该基金由 NLnet 在欧洲委员会下一代互联网计划的资金支持下成立，由通信网络、内容和技术总司主持，资助协议编号为 101092990。
+NGI Zero Core 是一项资助计划，专注于免费和开源项目，以完全透明和用户授权的方式向社会提供免费和开放的技术。 查看今年资助的项目完整列表。
+作为这笔资金的一部分，LabPlot 团队将主要致力于以下三个功能：
+
+实时数据分析，我们希望在实时数据上启用现有的分析功能（FFT、平滑等）
+Python 脚本，允许用户通过外部应用程序中的 Python 绑定利用 LabPlot 的 C++ API，还允许在应用程序的运行实例中控制 LabPlot
+统计分析，计划实施最相关的统计假设检验和相关系数，这些系数经常使用在统计社区中。
+
+在这些领域，我们并不是从零开始。对于所有这些主题，我们过去已经收到了来自用户的大量请求和建议，并且团队内部已经进行了讨论。我们还为我们想要实现的目标定义了一些具体的任务（例如，参见统计分析的计划路线图），我们甚至做了一些概念验证实施。有了资金支持，团队现在将更加专注于这些问题，完成开发并在不久的将来向我们的用户发布这些重要功能。
+我们要感谢 NLnet 基金会和欧盟委员会的支持！
+]]></description>
+      <guid>https://labplot.kde.org/2024/07/30/labplot-funded-through-ngio-core-fund/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 30 Jul 2024 12:22:54 GMT</pubDate>
+    </item>
     <item>
       <title>第 9 周回顾</title>
       <link>https://kenlo.hashnode.dev/week-9-recap?utm_source=atom_feed</link>
@@ -139,54 +156,6 @@ Visual Design Matrix
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/07/26/web-review-week-2024-30/?utm_source=atom_feed</guid>
       <pubDate>Fri, 26 Jul 2024 09:35:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 人机界面指南更新</title>
-      <link>https://pointieststick.com/2024/07/25/kde-human-interface-guidelines-update/?utm_source=atom_feed</link>
-      <description><![CDATA[自从我撰写 KDE 的新人机界面指南 (HIG) 以来，已经过去了一个半月。事实证明，自那时以来，有令人惊讶的大量报道！
-首先，Linux Magazine 报道了这一消息，并报道，其中包括对我的采访！感觉很好。
-接下来，有许多贡献和增强：
-Joshua Goins
-
-修复了许多拼写错误、措辞不当和小错误。
-添加了有关使用 Qt 直接设置任务管理器徽章的信息。
-扩展了对 HIG 做出贡献的说明。
-
-Thiago Sueto
-
-纠正了几个拼写错误。
-
-Christoph Wolk
-
-改进了其中一个语法正确性文本建议。
-
-Nate Graham (我)
-
-进一步完善了文本。
-添加了其他建议的包容性相关文本替换。
-澄清汉堡菜单何时合适，何时不合适。
-更新了图标大小建议。
-添加了常见首字母缩略词的示例和建议替换。
-就如何实施“回家”提出了建议导航。
-提及首次运行向导是否合适，从我们的旧“经常讨论的主题”迁移一些内容wiki 页面。
-改进了按钮长度和组合框文本大写的建议。
-描述了何时适合缩短按钮标签，因为附近的上下文表明它们会影响什么。
-扩展了图标页面，以提供有关如何选择图标和使用哪种样式的更具体指南，并添加了更多图片。
-
-总的来说，我认为它现在看起来相当不错，尤其是最近受到很多关注的图标页面。
-
-
-此外，还有 Christoph Wolk、Emir Sari 和我提出的更多待处理的合并请求。所以现在感觉就像一个真正的团队项目！我认为鼓励更多贡献的目标可以称为成功。
-最后，Christoph Wolk 和我一直在浏览系统设置页面并对其进行调整以符合 HIG。系统设置是一个很好的唾手可得的成果，因为目前它几乎都是 QML，所以更改很容易。而且页面数量很多，因此不难发现细微的不一致之处。
-但我们还没有完成！需要更多关注。一些待办事项需要解决。更多图片可能会有所帮助。因此，请查看这两个链接以了解如何贡献更改：
-
-https://develop.kde.org/hig/#contributing
-https://invent.kde.org/documentation/develop-kde-org/-/blob/master/README.md
-
-即使是初级开发人员也可以通过调整用户界面以符合 HIG 来提供帮助。如果您是一名铁杆开发人员，我们仍然需要一些更多组件来编写强大的 QML 应用程序。
-还是太可怕？那么向 KDE 捐款。我们的预算很少，所以您的钱确实会产生影响！]]></description>
-      <guid>https://pointieststick.com/2024/07/25/kde-human-interface-guidelines-update/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 26 Jul 2024 04:57:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
