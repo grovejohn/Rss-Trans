@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 31 Jul 2024 22:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 23:37:17 GMT</lastBuildDate>
+    <item>
+      <title>Cloudflare 因允许滥用网站而再次面临压力</title>
+      <link>https://arstechnica.com/?p=2040424</link>
+      <description><![CDATA[监管机构称，Cloudflare 掩盖了大约 10% 滥用域名的来源。]]></description>
+      <guid>https://arstechnica.com/?p=2040424</guid>
+      <pubDate>Wed, 31 Jul 2024 23:22:54 GMT</pubDate>
+    </item>
     <item>
       <title>微软取消 Skype 广告，转向“以用户为中心的设计”</title>
       <link>https://arstechnica.com/?p=2040411</link>
@@ -62,18 +69,11 @@
       <pubDate>Wed, 31 Jul 2024 18:14:18 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 解决 AI 幻觉问题，聊天机器人称特朗普枪击事件没有发生</title>
+      <title>Meta 解决人工智能幻觉问题，聊天机器人称特朗普枪击事件没有发生</title>
       <link>https://arstechnica.com/?p=2040277</link>
       <description><![CDATA[Meta“被编程为根本不回答问题”，但它还是回答了。]]></description>
       <guid>https://arstechnica.com/?p=2040277</guid>
       <pubDate>Wed, 31 Jul 2024 17:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>配备增强型 GPU 和 NPU 的下一代英特尔酷睿超芯片将于 9 月上市</title>
-      <link>https://arstechnica.com/?p=2040211</link>
-      <description><![CDATA[Lunar Lake将是英特尔对Ryzen AI和Snapdragon X Elite芯片的回应。]]></description>
-      <guid>https://arstechnica.com/?p=2040211</guid>
-      <pubDate>Wed, 31 Jul 2024 16:59:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
