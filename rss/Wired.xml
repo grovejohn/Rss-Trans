@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 31 Jul 2024 21:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 21:35:50 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊必须召回 40 多万种危险产品</title>
+      <link>https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/</link>
+      <description><![CDATA[监管机构发现，亚马逊应对其第三方供应商销售的有缺陷的产品负责，其中包括易燃睡衣、有故障的一氧化碳探测器以及可能触电的吹风机。]]></description>
+      <guid>https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/</guid>
+      <pubDate>Wed, 31 Jul 2024 21:29:08 GMT</pubDate>
+    </item>
     <item>
       <title>选举否认者正在加大力度剥夺美国选民的选举权</title>
       <link>https://www.wired.com/story/election-deniers-efforts-disenfranchise-voters/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[这个 DIY 编码项目可以为 Chrome、Firefox 或您的日常网络浏览器添加有用的实用程序。]]></description>
       <guid>https://www.wired.com/story/how-to-write-your-own-browser-extension/</guid>
       <pubDate>Wed, 31 Jul 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-4o 可以信任你的私人数据吗？</title>
-      <link>https://www.wired.com/story/can-chatgpt-4o-be-trusted-with-your-private-data/</link>
-      <description><![CDATA[一位专家表示，OpenAI 的最新模型是“强化版的数据吸尘器”——但仍有办法使用它同时最大限度地降低风险。]]></description>
-      <guid>https://www.wired.com/story/can-chatgpt-4o-be-trusted-with-your-private-data/</guid>
-      <pubDate>Wed, 31 Jul 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
