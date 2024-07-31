@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 30 Jul 2024 22:35:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 00:52:05 GMT</lastBuildDate>
+    <item>
+      <title>神秘恶意软件家族隐藏在 Google Play 中多年</title>
+      <link>https://arstechnica.com/?p=2040171</link>
+      <description><![CDATA[Mandrake 之所以能够不被察觉，是因为它采用了在 Android 恶意软件中并不常见的设计。]]></description>
+      <guid>https://arstechnica.com/?p=2040171</guid>
+      <pubDate>Tue, 30 Jul 2024 23:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>随着一次具有里程碑意义的发射，五角大楼终于摆脱了俄罗斯火箭发动机</title>
       <link>https://arstechnica.com/?p=2039968</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[失去对 Authy 的访问权限将导致对 Google 安全模型的另一次清算。]]></description>
       <guid>https://arstechnica.com/?p=2039975</guid>
       <pubDate>Tue, 30 Jul 2024 16:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>德州人脸识别投诉后 Meta 将支付 14 亿美元和解金</title>
-      <link>https://arstechnica.com/?p=2039989</link>
-      <description><![CDATA[Facebook 母公司被指控在未经“知情同意”的情况下收集照片和视频数据。]]></description>
-      <guid>https://arstechnica.com/?p=2039989</guid>
-      <pubDate>Tue, 30 Jul 2024 16:21:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
