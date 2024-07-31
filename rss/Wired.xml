@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 31 Jul 2024 21:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 22:13:22 GMT</lastBuildDate>
+    <item>
+      <title>西蒙·拜尔斯的尤尔琴科双体派克的惊人物理原理</title>
+      <link>https://www.wired.com/story/the-incredible-physics-of-simone-biles-yurchenko-double-pike/</link>
+      <description><![CDATA[计算角速度和转动惯量并不像参加 2024 年夏季奥运会体操比赛那么难，但也相当困难。]]></description>
+      <guid>https://www.wired.com/story/the-incredible-physics-of-simone-biles-yurchenko-double-pike/</guid>
+      <pubDate>Wed, 31 Jul 2024 21:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊必须召回 40 多万种危险产品</title>
       <link>https://www.wired.com/story/amazon-third-party-defective-recall-legally-responsible/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[从一罐午餐肉到一个迷你手提箱，这些都是我们最喜欢的伪装（和保护）Apple 无线耳塞和耳罩式耳机的方式。]]></description>
       <guid>https://www.wired.com/gallery/best-apple-airpods-cases/</guid>
       <pubDate>Wed, 31 Jul 2024 12:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建自己的浏览器扩展</title>
-      <link>https://www.wired.com/story/how-to-write-your-own-browser-extension/</link>
-      <description><![CDATA[这个 DIY 编码项目可以为 Chrome、Firefox 或您的日常网络浏览器添加有用的实用程序。]]></description>
-      <guid>https://www.wired.com/story/how-to-write-your-own-browser-extension/</guid>
-      <pubDate>Wed, 31 Jul 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
