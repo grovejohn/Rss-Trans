@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 31 Jul 2024 19:12:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 20:14:33 GMT</lastBuildDate>
+    <item>
+      <title>韦伯证实：大爆炸后不久就形成了巨大明亮的星系</title>
+      <link>https://arstechnica.com/?p=2040341</link>
+      <description><![CDATA[星系结构早期规则被推翻，明亮的物体是超大质量黑洞。]]></description>
+      <guid>https://arstechnica.com/?p=2040341</guid>
+      <pubDate>Wed, 31 Jul 2024 18:55:00 GMT</pubDate>
+    </item>
     <item>
       <title>Palworld 是一款“死游戏”吗？游戏开发商称，没人在乎</title>
       <link>https://arstechnica.com/?p=2040257</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 31 Jul 2024 18:14:18 GMT</pubDate>
     </item>
     <item>
-      <title>Meta 解决 AI 幻觉问题，聊天机器人称特朗普枪击事件没有发生</title>
+      <title>Meta 解决人工智能幻觉问题，聊天机器人称特朗普枪击事件没有发生</title>
       <link>https://arstechnica.com/?p=2040277</link>
       <description><![CDATA[Meta“被编程为根本不回答问题”，但它还是回答了。]]></description>
       <guid>https://arstechnica.com/?p=2040277</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[几十年前的统计数据已不再能代表当今的情况。]]></description>
       <guid>https://arstechnica.com/?p=2040166</guid>
       <pubDate>Wed, 31 Jul 2024 10:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>神秘恶意软件家族隐藏在 Google Play 中多年</title>
-      <link>https://arstechnica.com/?p=2040171</link>
-      <description><![CDATA[Mandrake 之所以能够不被察觉，是因为它采用了在 Android 恶意软件中并不常见的设计。]]></description>
-      <guid>https://arstechnica.com/?p=2040171</guid>
-      <pubDate>Tue, 30 Jul 2024 23:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Wed, 31 Jul 2024 19:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jul 2024 20:14:17 GMT</lastBuildDate>
+    <item>
+      <title>完美肖像：伊丽莎·霍夫曼笔下的多萝西·沃恩</title>
+      <link>https://www.nasa.gov/centers-and-facilities/a-picture-perfect-portrait-eliza-hoffmans-take-on-dorothy-vaughan/</link>
+      <description><![CDATA[2024 年 7 月 19 日，NASA 正式将约翰逊航天中心 12 号楼命名为“多萝西·沃恩中心，以纪念阿波罗女性”。多萝西·沃恩的肖像现在是新命名建筑入口处的中心特征。这幅肖像是由 Eliza Hoffman 手绘的，她是一位成就卓著的艺术家，也是一位 […]]]></description>
+      <guid>https://www.nasa.gov/centers-and-facilities/a-picture-perfect-portrait-eliza-hoffmans-take-on-dorothy-vaughan/</guid>
+      <pubDate>Wed, 31 Jul 2024 20:00:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年度软件共同获奖者 – 轨道碎片工程模型 (ORDEM)</title>
+      <link>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/</link>
+      <description><![CDATA[美国宇航局约翰逊航天中心：ORDEM 代表了用于工程分析的轨道碎片模型的最新技术。它是一个数据驱动的模型，依赖于大量雷达、光学、现场和实验室测量数据。发布时，它是第一个包含不同轨道碎片物质密度、数量模型的软件代码[…]]]></description>
+      <guid>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/</guid>
+      <pubDate>Wed, 31 Jul 2024 19:48:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年度软件奖共同获奖者 -Prognostics Python 软件包 (ProgPy)</title>
+      <link>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/</link>
+      <description><![CDATA[美国宇航局艾姆斯研究中心：ProgPy 是一个开源 Python 包，支持预测、健康管理和预测性维护工具的研究和开发。预测是一门预测科学，预测和健康管理 (PHM) 领域旨在评估系统（例如电机、电池等）当前的物理健康状况，并预测 […]]]></description>
+      <guid>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/</guid>
+      <pubDate>Wed, 31 Jul 2024 19:47:58 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年度发明奖得主 – 推力室衬套及制造方法</title>
       <link>https://www.nasa.gov/organizations/otps/2024-invention-of-the-year-winner/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[编者注：本媒体咨询于 2024 年 7 月 31 日更新，以反映现在的发射时间为美国东部时间 8 月 3 日星期六上午 11:29。NASA、诺斯罗普·格鲁曼公司和 SpaceX 计划于美国东部时间 8 月 3 日星期六上午 11:29 进行下一次发射，向国际空间站运送科学调查、补给品和设备。[…]]]></description>
       <guid>https://www.nasa.gov/news-release/nasa-sets-coverage-for-northrop-grummans-21st-station-resupply-launch/</guid>
       <pubDate>Tue, 30 Jul 2024 20:48:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局诺斯罗普·格鲁曼公司第 21 次商业补给任务概述</title>
-      <link>https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/</link>
-      <description><![CDATA[美国宇航局、诺斯罗普·格鲁曼公司和 SpaceX 公司计划在 8 月 3 日星期六美国东部时间上午 11:29 之前进行下一次发射，向国际空间站运送科学调查、补给和设备。天鹅座货运飞船装载着超过 8,200 磅的补给，由 SpaceX 猎鹰 9 号火箭运载，从佛罗里达州卡纳维拉尔角太空军基地的 40 号航天发射中心发射。这次发射是诺斯罗普·格鲁曼公司为该机构执行的第 21 次商业补给服务任务。]]></description>
-      <guid>https://www.nasa.gov/general/overview-for-nasas-northrop-grumman-21st-commercial-resupply-mission/</guid>
-      <pubDate>Tue, 30 Jul 2024 19:18:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局 NICER 任务维修套件即将运往空间站</title>
-      <link>https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/</link>
-      <description><![CDATA[美国宇航局将在该机构的诺斯罗普·格鲁曼第 21 次商业补给任务中为国际空间站上的 X 射线望远镜 NICER（中子星内部成分探测器）运送一套修补套件。宇航员将进行太空行走以完成修复。NICER 位于空间站右舷太阳能电池阵列附近，于 2023 年 5 月受损。任务 […]]]></description>
-      <guid>https://science.nasa.gov/missions/station/iss-research/nicer/repair-kit-for-nasas-nicer-mission-heading-to-space-station/</guid>
-      <pubDate>Tue, 30 Jul 2024 17:47:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>艾姆斯科学理事会 2024 年 7 月月度之星</title>
-      <link>https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2024/</link>
-      <description><![CDATA[美国宇航局艾姆斯科学理事会表彰了（从左到右）Ryan T. Scott、Mike Kubo、Ehsan (Sam) Gharib-Nezhad 和 Kristen Okorn 的杰出贡献。他们对美国宇航局任务的承诺代表了探索这个世界及更广阔世界所需的天赋、情谊和远见。太空生物科学之星：Ryan T. Scott Ryan Scott，太空生物科学 […]]]></description>
-      <guid>https://www.nasa.gov/general/ames-science-directorates-stars-of-the-month-july-2024/</guid>
-      <pubDate>Tue, 30 Jul 2024 17:25:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
