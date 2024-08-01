@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Thu, 01 Aug 2024 20:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 21:15:32 GMT</lastBuildDate>
+    <item>
+      <title>NASA 分享 SpaceX Crew-10 的空间站任务任务</title>
+      <link>https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/</link>
+      <description><![CDATA[作为 NASA 的 SpaceX Crew-10 任务的一部分，四名机组人员正准备发射升空，在国际空间站上进行长期停留。NASA 宇航员指挥官 Anne McClain 和飞行员 Nichole Ayers、日本宇宙航空研究开发机构 (JAXA) 宇航员任务专家 Takuy​​a Onishi 和俄罗斯航天局宇航员任务专家 Kirill Peskov 将与宇航员一起在轨道上 […]]]></description>
+      <guid>https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/</guid>
+      <pubDate>Thu, 01 Aug 2024 20:21:32 GMT</pubDate>
+    </item>
     <item>
       <title>探索深空：NASA 宣布 2025 年 RASC-AL 竞赛</title>
       <link>https://www.nasa.gov/centers-and-facilities/langley/exploring-deep-space-nasa-announces-2025-rasc-al-competition/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国宇航局约翰逊航天中心：“ORDEM 代表了用于工程分析的轨道碎片模型的最新技术。它是一个数据驱动的模型，依赖于大量雷达、光学、现场和实验室测量数据。发布时，它是第一个包含不同轨道碎片物质密度、数量模型的软件代码[…]]]></description>
       <guid>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/</guid>
       <pubDate>Wed, 31 Jul 2024 19:48:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年度软件奖共同获奖者 -Prognostics Python 软件包 (ProgPy)</title>
-      <link>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/</link>
-      <description><![CDATA[美国宇航局艾姆斯研究中心：ProgPy 是一个开源 Python 包，支持预测、健康管理和预测性维护工具的研究和开发。预测是一门预测科学，预测和健康管理 (PHM) 领域旨在评估系统（例如电机、电池等）当前的物理健康状况，并预测 […]]]></description>
-      <guid>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-award-co-winner-prognostics-python-packages-progpy/</guid>
-      <pubDate>Wed, 31 Jul 2024 19:47:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
