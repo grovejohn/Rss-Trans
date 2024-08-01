@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 31 Jul 2024 16:39:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 08:38:42 GMT</lastBuildDate>
+    <item>
+      <title>更多生锈的方式</title>
+      <link>https://www.kdab.com/more-ways-to-rust/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/more-ways-to-rust/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 01 Aug 2024 07:35:29 GMT</pubDate>
+    </item>
     <item>
       <title>GPG 密钥更新</title>
       <link>https://euroquis.nl//blabla/2024/07/31/gpg.html?utm_source=atom_feed</link>
@@ -154,13 +161,6 @@ Visual Design Matrix
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/07/27/triaging-your-own-projects-bugzilla-tickets/?utm_source=atom_feed</guid>
       <pubDate>Sat, 27 Jul 2024 20:47:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 六月/七月行程</title>
-      <link>https://www.volkerkrause.eu/2024/07/27/kde-itinerary-june-july-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/07/27/kde-itinerary-june-july-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 27 Jul 2024 06:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
