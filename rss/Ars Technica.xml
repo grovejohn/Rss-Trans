@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 01 Aug 2024 18:18:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Aug 2024 20:15:24 GMT</lastBuildDate>
     <item>
-      <title>参议院的《禁止伪造法案》希望将未经授权的“数字复制品”定为非法</title>
+      <title>旧金山将禁止使用“允许房东串通价格”的软件</title>
+      <link>https://arstechnica.com/?p=2040600</link>
+      <description><![CDATA[软件通过分享非公开信息帮助房东“间接协调”。]]></description>
+      <guid>https://arstechnica.com/?p=2040600</guid>
+      <pubDate>Thu, 01 Aug 2024 19:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>一些组织警告称，英伟达对芯片的控制将使人工智能的未来面临严重危险</title>
+      <link>https://arstechnica.com/?p=2040556</link>
+      <description><![CDATA[反垄断组织希望美国司法部对英伟达的人工智能芯片捆绑销售和涉嫌价格操纵进行调查。]]></description>
+      <guid>https://arstechnica.com/?p=2040556</guid>
+      <pubDate>Thu, 01 Aug 2024 18:14:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>参议员提议将肖像“数字复制权”延长至死后 70 年</title>
       <link>https://arstechnica.com/?p=2040488</link>
       <description><![CDATA[法律将追究美国个人和公司对盗用他人数字肖像的责任。]]></description>
       <guid>https://arstechnica.com/?p=2040488</guid>
@@ -27,7 +41,7 @@
       <pubDate>Thu, 01 Aug 2024 15:38:23 GMT</pubDate>
     </item>
     <item>
-      <title>购车者希望在下一辆汽车中做到的 10 件事</title>
+      <title>购车者表示他们希望在下一辆汽车中做到的 10 件事</title>
       <link>https://arstechnica.com/?p=2040501</link>
       <description><![CDATA[数据解释了为什么我们不断在许多新车上看到某些功能。]]></description>
       <guid>https://arstechnica.com/?p=2040501</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[当局担心受污染的肉类仍然存放在人们的冰箱里。]]></description>
       <guid>https://arstechnica.com/?p=2040456</guid>
       <pubDate>Thu, 01 Aug 2024 00:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 因允许滥用网站而再次面临压力</title>
-      <link>https://arstechnica.com/?p=2040424</link>
-      <description><![CDATA[监管机构称，Cloudflare 掩盖了大约 10% 滥用域名的来源。]]></description>
-      <guid>https://arstechnica.com/?p=2040424</guid>
-      <pubDate>Wed, 31 Jul 2024 23:22:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软取消 Skype 广告，转向“以用户为中心的设计”</title>
-      <link>https://arstechnica.com/?p=2040411</link>
-      <description><![CDATA[更新还改进了 AI 图像功能，并在 iOS 上添加了 OneAuth 支持。]]></description>
-      <guid>https://arstechnica.com/?p=2040411</guid>
-      <pubDate>Wed, 31 Jul 2024 21:48:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
