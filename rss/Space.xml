@@ -4,7 +4,21 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Fri, 02 Aug 2024 13:16:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 13:35:57 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX Crew-9 宇航员任务：实时更新</title>
+      <link>https://www.space.com/news/live/spacex-crew-dragon-mission-updates</link>
+      <description><![CDATA[阅读有关 SpaceX 为 NASA 执行国际空间站 Crew-9 任务的最新消息。]]></description>
+      <guid>https://www.space.com/news/live/spacex-crew-dragon-mission-updates</guid>
+      <pubDate>Fri, 02 Aug 2024 13:27:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的大气证据表明金星可能适合生命存在</title>
+      <link>https://www.space.com/venus-atmosphere-phosphine-ammonia-possibility-of-life</link>
+      <description><![CDATA[在金星大气中发现了可能作为生物特征的气体的初步证据，但即使这些生物特征是真实的，是否一定意味着存在生命？]]></description>
+      <guid>https://www.space.com/venus-atmosphere-phosphine-ammonia-possibility-of-life</guid>
+      <pubDate>Fri, 02 Aug 2024 13:20:03 GMT</pubDate>
+    </item>
     <item>
       <title>国际空间站：实时更新</title>
       <link>https://www.space.com/news/live/international-space-station-live-updates</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[周五（8 月 2 日）凌晨，SpaceX 将另外 23 颗 Starlink 卫星送入轨道，延续了该公司从 7 月 11 日失败中复苏的势头。]]></description>
       <guid>https://www.space.com/spacex-starlink-launch-group-10-6</guid>
       <pubDate>Thu, 01 Aug 2024 21:00:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>从未玩过《无主之地》游戏？以下是你在《无主之地》电影上映前需要了解的内容</title>
-      <link>https://www.space.com/what-you-need-to-know-ahead-of-the-borderlands-movie</link>
-      <description><![CDATA[不知道《小丑》和《英俊杰克》有什么区别？以下是观看电影前你需要了解的有关《无主之地》电子游戏的所有信息。]]></description>
-      <guid>https://www.space.com/what-you-need-to-know-ahead-of-the-borderlands-movie</guid>
-      <pubDate>Thu, 01 Aug 2024 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>星系团碰撞可以用作暗物质探测器吗？</title>
-      <link>https://www.space.com/galaxy-cluster-collisions-dark-matter</link>
-      <description><![CDATA[大型强子对撞机等粒子加速器未能发现潜在的暗物质候选者，但星系团碰撞可以用作宇宙暗物质对撞机吗？]]></description>
-      <guid>https://www.space.com/galaxy-cluster-collisions-dark-matter</guid>
-      <pubDate>Thu, 01 Aug 2024 19:00:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

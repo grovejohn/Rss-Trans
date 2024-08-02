@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 02 Aug 2024 13:16:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 13:35:30 GMT</lastBuildDate>
+    <item>
+      <title>哈勃望远镜发现微小星系</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-spies-a-diminutive-galaxy/</link>
+      <description><![CDATA[这张 NASA/ESA 哈勃太空望远镜图像展示了 IC 3430 星系的微弱光芒，该星系位于室女座，距离地球 4500 万光年。这个矮椭圆星系是室女座星系团的一部分，该星系团由大大小小星系组成，其中许多星系的类型与此非常相似 […]]]></description>
+      <guid>https://science.nasa.gov/missions/hubble/hubble-spies-a-diminutive-galaxy/</guid>
+      <pubDate>Fri, 02 Aug 2024 12:19:07 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 分享 SpaceX Crew-10 的空间站任务任务</title>
       <link>https://www.nasa.gov/news-release/nasa-shares-its-spacex-crew-10-assignments-for-space-station-mission/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>2024 年 7 月 31 日马歇尔之星</title>
       <link>https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-31-2024/</link>
-      <description><![CDATA[SLS 核心级进入肯尼迪航天中心的航天器装配大楼 NASA 的 SLS（太空发射系统）火箭核心级用于 Artemis II 任务，位于该机构肯尼迪航天中心的航天器装配大楼内。拖船和牵引船将驳船和核心级从 NASA 的米丘德装配厂运送到 900 英里外的佛罗里达航天港，在那里 [#8230;]]]></description>
+      <description><![CDATA[SLS 核心级进入肯尼迪航天中心的航天器装配大楼 NASA 的 SLS（太空发射系统）火箭核心级（用于 Artemis II 任务）位于该机构肯尼迪航天中心的航天器装配大楼内。拖船和牵引船将驳船和核心级从 NASA 的米丘德装配厂运送到 900 英里外的佛罗里达航天港，在那里 [#8230;]]]></description>
       <guid>https://www.nasa.gov/centers-and-facilities/marshall/the-marshall-star-for-july-31-2024/</guid>
       <pubDate>Wed, 31 Jul 2024 20:29:42 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[2024 年 7 月 19 日，NASA 正式将约翰逊航天中心 12 号楼命名为“多萝西·沃恩中心，以纪念阿波罗女性”。多萝西·沃恩的肖像现在是新命名建筑入口处的中心特征。这幅肖像是由 Eliza Hoffman 手绘的，她是一位成就卓著的艺术家，也是一位 […]]]></description>
       <guid>https://www.nasa.gov/centers-and-facilities/a-picture-perfect-portrait-eliza-hoffmans-take-on-dorothy-vaughan/</guid>
       <pubDate>Wed, 31 Jul 2024 20:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年度软件共同获奖者 – 轨道碎片工程模型 (ORDEM)</title>
-      <link>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/</link>
-      <description><![CDATA[美国宇航局约翰逊航天中心：“ORDEM 代表了用于工程分析的轨道碎片模型的最新技术。它是一个数据驱动的模型，依赖于大量雷达、光学、现场和实验室测量数据。发布时，它是第一个包含不同轨道碎片物质密度、数量模型的软件代码[…]]]></description>
-      <guid>https://www.nasa.gov/organizations/otps/2024-software-of-the-year-co-winner-orbital-debris-engineering-model-ordem/</guid>
-      <pubDate>Wed, 31 Jul 2024 19:48:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
