@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 02 Aug 2024 17:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 18:19:26 GMT</lastBuildDate>
+    <item>
+      <title>FLUX：这款新型 AI 图像生成器在创建人手方面非常出色</title>
+      <link>https://arstechnica.com/?p=2040748</link>
+      <description><![CDATA[FLUX.1 是 Stable Diffusion 的开放权重继承者，可以将文本转换为图像。]]></description>
+      <guid>https://arstechnica.com/?p=2040748</guid>
+      <pubDate>Fri, 02 Aug 2024 17:47:26 GMT</pubDate>
+    </item>
     <item>
       <title>美国调查英伟达收购以色列人工智能初创公司</title>
       <link>https://arstechnica.com/?p=2040841</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[只需对农场工人进行一小部分调查就足以证实对 H5N1 疫情爆发的担忧。]]></description>
       <guid>https://arstechnica.com/?p=2040675</guid>
       <pubDate>Thu, 01 Aug 2024 23:17:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局表示正在“评估所有选项”，以确保星际线机组人员安全返回</title>
-      <link>https://arstechnica.com/?p=2040615</link>
-      <description><![CDATA[SpaceX 正在积极制定星际航线机组人员返程计划。]]></description>
-      <guid>https://arstechnica.com/?p=2040615</guid>
-      <pubDate>Thu, 01 Aug 2024 22:59:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
