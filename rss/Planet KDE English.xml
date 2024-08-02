@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 02 Aug 2024 12:52:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 22:36:24 GMT</lastBuildDate>
+    <item>
+      <title>Amarok 3.1“光的把戏”发布！</title>
+      <link>https://blogs.kde.org/2024/08/02/amarok-3.1-tricks-of-the-light-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/08/02/amarok-3.1-tricks-of-the-light-released/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 02 Aug 2024 21:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，2024-31 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/08/02/web-review-week-2024-31/?utm_source=atom_feed</link>
@@ -154,13 +161,6 @@ Visual Design Matrix
 ]]></description>
       <guid>https://anditosan.wordpress.com/2024/07/28/new-plasma-icons-a-visual-design-update/?utm_source=atom_feed</guid>
       <pubDate>Sun, 28 Jul 2024 01:44:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 7 月份在 KDE/Plasma Mobile 上做了什么</title>
-      <link>https://lprod.dev/blog/monthly_2024_07.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://lprod.dev/blog/monthly_2024_07.html?utm_source=atom_feed</guid>
-      <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
