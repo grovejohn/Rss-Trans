@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 02 Aug 2024 16:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 16:41:35 GMT</lastBuildDate>
+    <item>
+      <title>MESSENGER – 从挫折到成功</title>
+      <link>https://www.nasa.gov/history/messenger-from-setbacks-to-success/</link>
+      <description><![CDATA[以下摘录自苏珊·尼伯尔博士于 2009 年进行的发现计划口述历史访谈，讲述了信使号（水星表面、空间环境、地球化学和测距）任务团队面临的障碍，包括访问水星的技术要求、预算挑战和时间表影响——同时还要保持他们的任务目标 […]]]></description>
+      <guid>https://www.nasa.gov/history/messenger-from-setbacks-to-success/</guid>
+      <pubDate>Fri, 02 Aug 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局邀请媒体、公众参加深空食品挑战赛决赛</title>
       <link>https://www.nasa.gov/news-release/nasa-invites-media-public-to-attend-deep-space-food-challenge-finale/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>系统工程师 Douglas Wong</title>
       <link>https://www.nasa.gov/image-article/systems-engineer-douglas-wong/</link>
-      <description><![CDATA[“当我 16 或 17 岁左右的时候，我偶然读到了亚瑟·克拉克的《太空漫游 2001》。这实际上是我读过的第一本科幻小说。我被他写的东西深深吸引，因为他写的东西并不是在遥远的未来发生的，[......]]]></description>
+      <description><![CDATA[“当我 16 或 17 岁左右的时候，我偶然读到了亚瑟·克拉克的《太空漫游 2001》。这实际上是我读过的第一本科幻小说。我被他写的东西深深吸引，因为他写的东西并不发生在遥远的未来，[......]]]></description>
       <guid>https://www.nasa.gov/image-article/systems-engineer-douglas-wong/</guid>
       <pubDate>Fri, 02 Aug 2024 14:18:27 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[你的眼睛没有欺骗你——你通过望远镜看到的是双星！通过八月的《夜空笔记》了解今年夏天可以发现哪些双星！]]></description>
       <guid>https://science.nasa.gov/solar-system/skywatching/night-sky-network/aug2024-night-sky-notes/</guid>
       <pubDate>Thu, 01 Aug 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 4261-4262 个火星日：训练火星日 1…第二次</title>
-      <link>https://science.nasa.gov/blogs/sols-4261-4262-drill-sol-1take-2/</link>
-      <description><![CDATA[地球计划日期：2024 年 7 月 31 日星期三 正如 Cat 周一提到的那样，今天的计划是第二次尝试我们的 Drill Sol 1 活动。我们稍微改变了 Kings Canyon 的目标，但活动保持不变 — 进行预加载测试以确保我们能够安全地在这里钻探，并联系 […]]]></description>
-      <guid>https://science.nasa.gov/blogs/sols-4261-4262-drill-sol-1take-2/</guid>
-      <pubDate>Thu, 01 Aug 2024 08:30:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
