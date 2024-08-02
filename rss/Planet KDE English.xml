@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 01 Aug 2024 08:38:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Aug 2024 12:52:53 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，2024-31 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/08/02/web-review-week-2024-31/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/08/02/web-review-week-2024-31/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 02 Aug 2024 11:20:41 GMT</pubDate>
+    </item>
     <item>
       <title>更多生锈的方式</title>
       <link>https://www.kdab.com/more-ways-to-rust/?utm_source=atom_feed</link>
@@ -154,13 +161,6 @@ Visual Design Matrix
       <description><![CDATA[]]></description>
       <guid>https://lprod.dev/blog/monthly_2024_07.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 28 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>对你自己项目的 Bugzilla 票进行分类</title>
-      <link>https://pointieststick.com/2024/07/27/triaging-your-own-projects-bugzilla-tickets/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/07/27/triaging-your-own-projects-bugzilla-tickets/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 27 Jul 2024 20:47:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
