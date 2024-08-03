@@ -4,9 +4,9 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 03 Aug 2024 10:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 12:49:50 GMT</lastBuildDate>
     <item>
-      <title>本周 KDE 内容：发现及更多</title>
+      <title>本周 KDE：发现及更多</title>
       <link>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</guid>
@@ -86,69 +86,7 @@ Python 脚本，允许用户通过外部应用程序中的 Python 绑定利用 L
     <item>
       <title>KDE Snaps、Kubuntu、Debian 更新和“哦不，不要再来了……”</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snaps-kubuntu-debian-updates-and-oh-no-not-again/?utm_source=atom_feed</link>
-      <description><![CDATA[
-本周，我们家又失去了姐夫。我们会非常想念他。在我们去凤凰城慰问刚失去父亲的侄子的路上，我们的车爆炸了。上周，我们的卡车发生了翻车事故，我的胳膊骨折了。我们现在急需一辆新车。请考虑向该基金捐款：https://gofund.me/033eb25d 。Kubuntu 没钱了，我正处于“项目”的工作包之间。我们距离最近的城镇有 50 英里，需要补给，水等必需品需要车辆。
-我以前经历过糟糕的几年（新冠疫情），失去了我在 Blue Systems 心爱的工作。我发誓再也不会让我的个人生活影响我的工作。到目前为止，我一直信守着自己的诺言，现在我不再多说，向你们介绍我的工作。
-Kubuntu：
-
-许多 SRU 正在等待验证阶段，包括大规模 apparmor 策略错误。
-针对第二次启动时黑屏的 sddm 修复已通过验证，应该会发布 .1 版本。
-请参阅 Debian，了解 qt6 Plasma / 应用程序的工作方式。
-
-Debian：
-
-qtmpv – 已发布
-arianna – 已发布
-kamera – 正在上传
-kcharselect –实验性
-Tokodon – 已完成，但需要 qtmpv 才能通过 NEW
-Gwenview – WIP 需要相机、kio-extras
-kio-extras – WIP
-
-KDE Snaps：
-请注意：除了“项目”中经过严格测试的少数几个之外，大多数 Qt6 snaps 都处于“边缘”状态。请帮助测试“edge snap”，以便我可以推广它们。
-
-Elisa
-Okular
-Konsole（请注意，这是“项目”的受限终端，除了 ssh 到主机系统外没有多大用处）
-Kwrite
-Gwenview
-Kate（“经典”版）
-Gcompris
-Alligator
-Ark
-Blinken
-Bomber 
-Bovo
-Calindori
-Digikam
-Dragon
-Falkon
-Filelight
-
-WIP Snaps 或 MR 制作
-
-KSpacedual
-Ksquares
-KSudoku
-KTuberling
-库布里克
-lskat
-帕拉佩利
-卡琼格
-卡尔齐姆
-Kanagram
-Kapman
-Katomic
-KBlackBox
-KBlocks
-KBounce
-KBreakOut
-KBruch
-
-请注意，95% 的 snap 都是空闲时间的工作。该项目涵盖 5 个。我会尽可能快地在 Kubuntu/Debian 和项目承诺之间奔波。更不用说我只有一只手臂！我的 GSOC 学生也在提供帮助，您可以在此处阅读所有相关信息：https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-3-week-7/
-Kubuntu 中仍有许多工作要做，才能为 Oracular 做好 Plasma 6 的准备，而且他们已经没有资金了。无论如何，我仍会继续我的工作，但请考虑捐款，直到我们能够获得稳定的资金流：https://kubuntu.org/donate/
-感谢您的阅读，祝您有美好的一天！]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-snaps-kubuntu-debian-updates-and-oh-no-not-again/?utm_source=atom_feed</guid>
       <pubDate>Sun, 28 Jul 2024 16:24:05 GMT</pubDate>
     </item>
