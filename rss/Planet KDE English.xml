@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 03 Aug 2024 16:39:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 20:36:16 GMT</lastBuildDate>
     <item>
-      <title>本周 KDE：发现及更多</title>
+      <title>KStars 3.7.2 发布</title>
+      <link>http://knro.blogspot.com/2024/08/kstars-372-released.html?utm_source=atom_feed</link>
+      <description><![CDATA[KStars v3.7.2 于 2024.08.03 发布，适用于 Windows、MacOS 和 Linux。这是每两个月发布一次的错误修复版本，具有一些令人兴奋的功能。过去几周，KStars 开发团队的一些成员正在享受暑假，但此版本中我们仍有几个令人兴奋的功能！多相机支持Wolfgang Reissenberger 投入了无数个小时来实现这一复杂功能，该功能需要在 Ekos 中进行大量架构更改。如果您有双机（甚至更多），我们将提供一项很棒的新功能：多相机支持！如果您的支架上有多个光学系统，您现在可以从同一个 KStars 实例并行运行每个光学系统的捕获序列。您只需为支架上的每台望远镜创建一个光学系统，为每个光学系统创建相机标签，创建它们自己的序列并让它们并行运行即可。此新功能还可与调度程序结合使用：在此版本中，调度程序本身将控制第一个摄像头。除此之外，您还可以在捕获选项卡中配置其他摄像头，这些摄像头可以执行自己的捕获序列。增强调度程序以使其能够并行控制多个光学系统的工作已在开发中，并将成为下一个版本的一部分。敬请期待！Focus Advisor v4John Evans 重构了 Focus Advisor，使其更简单，同时仍提供了很多关于参数调整。现在新用户更容易使用，并增加了优化两个较难对焦参数值的功能：步长和反冲（或 AF 过扫描）。此外，Focus Advisor 还包含一个便捷工具，可通过搜索调焦器的运动范围来定位星星，还有另一个便捷工具可突出显示当前 Focus 参数设置与 Focus Advisor 推荐的设置之间的差异。]]></description>
+      <guid>http://knro.blogspot.com/2024/08/kstars-372-released.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 03 Aug 2024 19:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 KDE 内容：发现及更多</title>
       <link>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</guid>
@@ -15,7 +22,7 @@
     <item>
       <title>学院 2023 和 2024</title>
       <link>https://blog.bshah.in/2024/08/03/akademy-2023-conference/?utm_source=atom_feed</link>
-      <description><![CDATA[Akademy 2023 已经过去快一年了，很快 Akademy 2024 就要到来了。现在可能是谈论 Akademy 2023 的好时机。我知道已经过去很久了，但一些认识我的人/专业人士都知道，去年对我来说情绪上就像过山车一样，我没有在恢复期间写下这件事。
+      <description><![CDATA[2023 年 Akademy 已经过去快一年了，2024 年 Akademy 也即将到来。现在可能是谈论 2023 年 Akademy 的好时机。我知道时间已经过去很久了，但一些认识我的人/专业人士都知道，去年对我来说，情绪就像过山车一样，我没有在恢复的过程中写下这件事。
 但由于这篇文章已经搁置了很长时间，现在终于可以完成并发布了。]]></description>
       <guid>https://blog.bshah.in/2024/08/03/akademy-2023-conference/?utm_source=atom_feed</guid>
       <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
@@ -83,13 +90,6 @@ Python 脚本，允许用户通过外部应用程序中的 Python 绑定利用 L
       <description><![CDATA[因此，在过滤掉微小的移动和重复的输出后，剩下的就是查看小角落的输入。这是我在 kis_tool_freehand:paint: 中处理的三个指针（假设场景是我们从... 画一条直线]]></description>
       <guid>https://kenlo.hashnode.dev/week-9-recap?utm_source=atom_feed</guid>
       <pubDate>Mon, 29 Jul 2024 14:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 7 月我在 KDE 上的工作</title>
-      <link>https://redstrate.com/blog/2024/07/my-work-in-kde-for-july-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://redstrate.com/blog/2024/07/my-work-in-kde-for-july-2024/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
