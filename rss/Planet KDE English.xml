@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 03 Aug 2024 12:49:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Aug 2024 16:39:36 GMT</lastBuildDate>
     <item>
       <title>本周 KDE：发现及更多</title>
       <link>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</guid>
       <pubDate>Sat, 03 Aug 2024 05:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>学院 2023 和 2024</title>
+      <link>https://blog.bshah.in/2024/08/03/akademy-2023-conference/?utm_source=atom_feed</link>
+      <description><![CDATA[Akademy 2023 已经过去快一年了，很快 Akademy 2024 就要到来了。现在可能是谈论 Akademy 2023 的好时机。我知道已经过去很久了，但一些认识我的人/专业人士都知道，去年对我来说情绪上就像过山车一样，我没有在恢复期间写下这件事。
+但由于这篇文章已经搁置了很长时间，现在终于可以完成并发布了。]]></description>
+      <guid>https://blog.bshah.in/2024/08/03/akademy-2023-conference/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Amarok 3.1“光的把戏”发布！</title>
@@ -82,13 +90,6 @@ Python 脚本，允许用户通过外部应用程序中的 Python 绑定利用 L
       <description><![CDATA[]]></description>
       <guid>https://redstrate.com/blog/2024/07/my-work-in-kde-for-july-2024/?utm_source=atom_feed</guid>
       <pubDate>Mon, 29 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Snaps、Kubuntu、Debian 更新和“哦不，不要再来了……”</title>
-      <link>https://www.scarlettgatelymoore.dev/kde-snaps-kubuntu-debian-updates-and-oh-no-not-again/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kde-snaps-kubuntu-debian-updates-and-oh-no-not-again/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 28 Jul 2024 16:24:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
