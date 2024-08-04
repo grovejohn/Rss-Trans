@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 04 Aug 2024 08:36:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 14:36:49 GMT</lastBuildDate>
+    <item>
+      <title>KDE、Kubuntu、Debian：每周进度报告 Qt6 更新。</title>
+      <link>https://www.scarlettgatelymoore.dev/kde-kubuntu-debian-weekly-progress-report-qt6-updates/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kde-kubuntu-debian-weekly-progress-report-qt6-updates/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 04 Aug 2024 12:35:04 GMT</pubDate>
+    </item>
     <item>
       <title>git bisecting kernel：一些陷阱</title>
       <link>https://blog.bshah.in/2024/08/04/git-bisecting-kernel-some-pitfalls/?utm_source=atom_feed</link>
@@ -74,23 +81,6 @@ Calamares 签名子密钥的有效期至 2024 年 11 月。
       <description><![CDATA[]]></description>
       <guid>https://wolthera.info/2024/07/making-sense-of-font-selection/?utm_source=atom_feed</guid>
       <pubDate>Tue, 30 Jul 2024 14:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>LabPlot 由 NGIO 核心基金资助</title>
-      <link>https://labplot.kde.org/2024/07/30/labplot-funded-through-ngio-core-fund/?utm_source=atom_feed</link>
-      <description><![CDATA[今年，我们申请了 NLnet 于 2024 年 2 月发起的 NGI Zero Core 公开征集提案。在 NLnet 基金会进行全面审查后，LabPlot 的申请被接受，并将由 NGI0 Core 基金资助，该基金由 NLnet 在欧洲委员会下一代互联网计划的资金支持下成立，由通信网络、内容和技术总司主持，资助协议编号为 101092990。
-NGI Zero Core 是一项资助计划，专注于免费和开源项目，以完全透明和用户授权的方式向社会提供免费和开放的技术。 查看今年资助的项目完整列表。
-作为这笔资金的一部分，LabPlot 团队将主要致力于以下三个功能：
-
-实时数据分析，我们希望在实时数据上启用现有的分析功能（FFT、平滑等）
-Python 脚本，允许用户通过外部应用程序中的 Python 绑定利用 LabPlot 的 C++ API，还允许在应用程序的运行实例中控制 LabPlot
-统计分析，计划实施最相关的统计假设检验和相关系数，这些系数经常使用在统计社区中。
-
-在这些领域，我们并不是从零开始。对于所有这些主题，我们过去已经收到了来自用户的大量请求和建议，并且团队内部已经进行了讨论。我们还为我们想要实现的目标定义了一些具体的任务（例如，参见统计分析的计划路线图），我们甚至做了一些概念验证实施。有了资金支持，团队现在将更加专注于这些问题，完成开发并在不久的将来向我们的用户发布这些重要功能。
-我们要感谢 NLnet 基金会和欧盟委员会的支持！
-]]></description>
-      <guid>https://labplot.kde.org/2024/07/30/labplot-funded-through-ngio-core-fund/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 30 Jul 2024 12:22:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

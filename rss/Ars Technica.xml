@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 04 Aug 2024 11:36:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 14:37:06 GMT</lastBuildDate>
+    <item>
+      <title>飓风黛比袭击美国东南部，可能引发历史性洪水</title>
+      <link>https://arstechnica.com/?p=2040979</link>
+      <description><![CDATA[热带降雨和训练带，将会是一片湿透的混乱。]]></description>
+      <guid>https://arstechnica.com/?p=2040979</guid>
+      <pubDate>Sun, 04 Aug 2024 13:35:32 GMT</pubDate>
+    </item>
     <item>
       <title>数据中心需要大量能源。以下是一些州应对该行业影响的方法。</title>
       <link>https://arstechnica.com/?p=2040917</link>
@@ -13,7 +20,7 @@
       <pubDate>Sun, 04 Aug 2024 11:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>致最高法院的备忘录：研究称《清洁空气法案》针对二氧化碳作为气候污染物</title>
+      <title>最高法院备忘录：研究称《清洁空气法案》将二氧化碳作为气候污染物</title>
       <link>https://arstechnica.com/?p=2040871</link>
       <description><![CDATA[新报纸深入挖掘国会档案来解决法律争论。]]></description>
       <guid>https://arstechnica.com/?p=2040871</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[OpenAI 首席执行官 Sam Altman 着力解释安全工作方面的最新变化。]]></description>
       <guid>https://arstechnica.com/?p=2040870</guid>
       <pubDate>Fri, 02 Aug 2024 18:08:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>FLUX：这款新型 AI 图像生成器在创建人手方面非常出色</title>
-      <link>https://arstechnica.com/?p=2040748</link>
-      <description><![CDATA[FLUX.1 是 Stable Diffusion 的开放权重继承者，可以将文本转换为图像。]]></description>
-      <guid>https://arstechnica.com/?p=2040748</guid>
-      <pubDate>Fri, 02 Aug 2024 17:47:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
