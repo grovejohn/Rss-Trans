@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 03 Aug 2024 20:36:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Aug 2024 08:36:49 GMT</lastBuildDate>
+    <item>
+      <title>git bisecting kernel：一些陷阱</title>
+      <link>https://blog.bshah.in/2024/08/04/git-bisecting-kernel-some-pitfalls/?utm_source=atom_feed</link>
+      <description><![CDATA[我喜欢称自己为 git“专家”，但几周前我失败了，我需要对内核源代码进行二分法来找出一个错误。
+一般的 git 二分法流程是，你有两个已知的提交，一个是好的，一个是坏的，你通过将历史记录一分为二来不断搜索坏的提交。假设你有以下更改日志（不是我正在调试的实际更改日志，而是示例）：]]></description>
+      <guid>https://blog.bshah.in/2024/08/04/git-bisecting-kernel-some-pitfalls/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KStars 3.7.2 发布</title>
       <link>http://knro.blogspot.com/2024/08/kstars-372-released.html?utm_source=atom_feed</link>
@@ -83,13 +91,6 @@ Python 脚本，允许用户通过外部应用程序中的 Python 绑定利用 L
 ]]></description>
       <guid>https://labplot.kde.org/2024/07/30/labplot-funded-through-ngio-core-fund/?utm_source=atom_feed</guid>
       <pubDate>Tue, 30 Jul 2024 12:22:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 9 周回顾</title>
-      <link>https://kenlo.hashnode.dev/week-9-recap?utm_source=atom_feed</link>
-      <description><![CDATA[因此，在过滤掉微小的移动和重复的输出后，剩下的就是查看小角落的输入。这是我在 kis_tool_freehand:paint: 中处理的三个指针（假设场景是我们从... 画一条直线]]></description>
-      <guid>https://kenlo.hashnode.dev/week-9-recap?utm_source=atom_feed</guid>
-      <pubDate>Mon, 29 Jul 2024 14:12:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
