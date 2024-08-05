@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 05 Aug 2024 17:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 18:19:13 GMT</lastBuildDate>
+    <item>
+      <title>Chrome Manifest V3 及其针对广告拦截的变更即将推出</title>
+      <link>https://arstechnica.com/?p=2041032</link>
+      <description><![CDATA[Chrome 警告用户其扩展程序制作者需要尽快更新。]]></description>
+      <guid>https://arstechnica.com/?p=2041032</guid>
+      <pubDate>Mon, 05 Aug 2024 17:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克起诉 OpenAI 和萨姆·奥特曼，指控他们“愚弄”他</title>
+      <link>https://arstechnica.com/?p=2041054</link>
+      <description><![CDATA[埃隆·马斯克请求法院取消微软与 OpenAI 的独家协议。]]></description>
+      <guid>https://arstechnica.com/?p=2041054</guid>
+      <pubDate>Mon, 05 Aug 2024 17:49:48 GMT</pubDate>
+    </item>
     <item>
       <title>研究发现游戏化可以让司机放下手机</title>
       <link>https://arstechnica.com/?p=2041031</link>
@@ -13,7 +27,7 @@
       <pubDate>Mon, 05 Aug 2024 15:54:45 GMT</pubDate>
     </item>
     <item>
-      <title>由于星际航线问题，NASA 可能会大幅推迟 Crew 9 的发射</title>
+      <title>由于星际客机问题，NASA 可能会大幅推迟 Crew 9 的发射</title>
       <link>https://arstechnica.com/?p=2040999</link>
       <description><![CDATA[延迟的主要原因相当令人惊讶。]]></description>
       <guid>https://arstechnica.com/?p=2040999</guid>
@@ -48,7 +62,7 @@
       <pubDate>Sun, 04 Aug 2024 11:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>最高法院备忘录：研究称《清洁空气法案》将二氧化碳作为气候污染物</title>
+      <title>致最高法院的备忘录：研究称《清洁空气法案》针对二氧化碳作为气候污染物</title>
       <link>https://arstechnica.com/?p=2040871</link>
       <description><![CDATA[新报纸深入挖掘国会档案来解决法律争论。]]></description>
       <guid>https://arstechnica.com/?p=2040871</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[将“人际交流”中的“人”去掉。]]></description>
       <guid>https://arstechnica.com/?p=2040972</guid>
       <pubDate>Fri, 02 Aug 2024 22:42:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你想知道，在网上购买不正规的减肥药是个坏主意</title>
-      <link>https://arstechnica.com/?p=2040959</link>
-      <description><![CDATA[非法网上药店的风险评估研究提供了一些不足为奇的数据。]]></description>
-      <guid>https://arstechnica.com/?p=2040959</guid>
-      <pubDate>Fri, 02 Aug 2024 21:52:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国司法部起诉 TikTok，指控其“大规模侵犯儿童隐私”</title>
-      <link>https://arstechnica.com/?p=2040944</link>
-      <description><![CDATA[司法部声称，就连 TikTok 的儿童模式也违反了《儿童在线隐私保护法》。]]></description>
-      <guid>https://arstechnica.com/?p=2040944</guid>
-      <pubDate>Fri, 02 Aug 2024 21:26:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
