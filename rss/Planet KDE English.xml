@@ -4,7 +4,16 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 04 Aug 2024 20:37:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Aug 2024 14:37:01 GMT</lastBuildDate>
+    <item>
+      <title>第十周</title>
+      <link>https://kenlo.hashnode.dev/week-10?utm_source=atom_feed</link>
+      <description><![CDATA[这是我在 kis_tool_freehandhelper::paint 中处理的新代码的相关部分：
+if (m_d-&gt;smoothingOptions-&gt;smoothingType() == KisSmoothingOptions::SIMPLE_SMOOTHING
+|| m_d-&gt;smoothingOptions-&gt;smoothingType() == KisS...]]></description>
+      <guid>https://kenlo.hashnode.dev/week-10?utm_source=atom_feed</guid>
+      <pubDate>Mon, 05 Aug 2024 13:51:43 GMT</pubDate>
+    </item>
     <item>
       <title>Freedesktop 规格网站更新</title>
       <link>https://blog.tenstral.net/2024/08/freedesktop-specs-website-update.html?utm_source=atom_feed</link>
@@ -41,7 +50,7 @@ DocBook 是一种文档标记语言，已经存在很长时间了，因此有较
       <pubDate>Sat, 03 Aug 2024 19:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>本周 KDE 内容：发现及更多</title>
+      <title>本周 KDE：发现及更多</title>
       <link>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</guid>
@@ -75,18 +84,6 @@ DocBook 是一种文档标记语言，已经存在很长时间了，因此有较
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/more-ways-to-rust/?utm_source=atom_feed</guid>
       <pubDate>Thu, 01 Aug 2024 07:35:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPG 密钥更新</title>
-      <link>https://euroquis.nl//blabla/2024/07/31/gpg.html?utm_source=atom_feed</link>
-      <description><![CDATA[请注意，每年一次的 GPG 密钥到期延长都在今年早些时候发生，
-因为我意识到我的 FreeBSD 基础设施上的 GPG 信息已经过时了。
-这不会延长 Calamares 签名子密钥（目前还没有），但会添加新的
-EC 子密钥（如果您愿意的话）。
-Calamares 签名子密钥的有效期至 2024 年 11 月。
-从此处获取导出的公钥块。]]></description>
-      <guid>https://euroquis.nl//blabla/2024/07/31/gpg.html?utm_source=atom_feed</guid>
-      <pubDate>Tue, 30 Jul 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
