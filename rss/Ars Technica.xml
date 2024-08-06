@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 05 Aug 2024 23:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Aug 2024 01:02:30 GMT</lastBuildDate>
     <item>
-      <title>减肥速度超过医生能跟上的危险</title>
+      <title>被黑客入侵的 ISP 会感染正在接收不安全软件更新的用户</title>
+      <link>https://arstechnica.com/?p=2041175</link>
+      <description><![CDATA[即使目标使用 Google 和 Cloudflare 的 DNS，DNS 中毒攻击也会起作用。]]></description>
+      <guid>https://arstechnica.com/?p=2041175</guid>
+      <pubDate>Mon, 05 Aug 2024 23:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>男子快速减肥后患上心脏问题：GLP-1 的警示故事</title>
       <link>https://arstechnica.com/?p=2041166</link>
       <description><![CDATA[该男子出现心房颤动，需要住院治疗。]]></description>
       <guid>https://arstechnica.com/?p=2041166</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[延迟的主要原因相当令人惊讶。]]></description>
       <guid>https://arstechnica.com/?p=2040999</guid>
       <pubDate>Mon, 05 Aug 2024 15:37:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrowdStrike 回击达美航空，称航空公司拒绝提供帮助</title>
-      <link>https://arstechnica.com/?p=2041007</link>
-      <description><![CDATA[CrowdStrike 的律师表示，达美航空正在编造“误导性的说法”。]]></description>
-      <guid>https://arstechnica.com/?p=2041007</guid>
-      <pubDate>Mon, 05 Aug 2024 13:37:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
