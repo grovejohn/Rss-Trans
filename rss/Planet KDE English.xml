@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 06 Aug 2024 14:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 12:56:01 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 14.0.1 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 14.0.1 正式发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</guid>
+      <pubDate>Wed, 07 Aug 2024 10:34:35 GMT</pubDate>
+    </item>
     <item>
       <title>Akademy 2024 T 恤在线订购现已开放，现场订购时间延长</title>
       <link>https://akademy.kde.org/news/2024-08_akademy-2024-t-shirt-online-orders-now-open-in-person-extended/?utm_source=atom_feed</link>
@@ -38,7 +46,7 @@ KWin：修复 AltGr 的粘滞键。提交。 请参阅错误 #444335
       <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>第十周</title>
+      <title>第 10 周回顾</title>
       <link>https://kenlo.hashnode.dev/week-10?utm_source=atom_feed</link>
       <description><![CDATA[这是我在 kis_tool_freehandhelper::paint 中处理的新代码的相关部分：
 if (m_d-&gt;smoothingOptions-&gt;smoothingType() == KisSmoothingOptions::SIMPLE_SMOOTHING
@@ -53,7 +61,7 @@ if (m_d-&gt;smoothingOptions-&gt;smoothingType() == KisSmoothingOptions::SIMPLE_
 不幸的是，构建 HTML 规范和维护可用规范的目录已成为一项艰巨的任务，因为构建网站的流程已经变得相当陈旧且无人维护（部分内容仍然依赖于 Python 2）。为了让我更轻松地维护 Freedesktop 的这一部分，我打算仔细地对网站进行现代化改造。我确实有更大的计划，也许最终会重组网站，使其更易于导航，而不仅仅是简单的按字母顺序排列的规范列表，并将其与 Wiki 集成，但为了向后兼容并及时完成任何事情（而不是承担无法完成的大型项目），我决定先进行最低限度的现代化，以获得一个可行的网站，然后再做其余的事情。
 长话短说：大多数 Freedesktop 规范都是用 DocBook XML 编写的。有些是纯 HTML 文档，有些是 DocBook SGML，还有一些是纯文本文件。为了更易于维护，现在几乎每个规范都用 DocBook 编写。这也简化了审查过程，如果我们愿意，我们以后可以切换到其他东西，例如 AsciiDoc。当然，人们可以切换到 DocBook 以外的其他语言，但那样会是一项更大的工作，而且会有很多断开的链接，我不想让它变成一个比现在更大的项目，并希望它的范围保持得比较窄。
 DocBook 是一种文档标记语言，已经存在很长时间了，因此有较旧的工具围绕它。但幸运的是，openSUSE 的朋友创建了 DAPS（DocBook 创作和发布套件），作为一种将 DocBook 文档呈现为 HTML 和其他文件格式的现代方式。DAPS 现在用于生成我们网站上的所有 Freedesktop 规范。网站索引和规范修订现在也在结构化的 TOML 文件中定义，以使其更易于阅读和扩展。原始网站中缺少的大量规范也已添加到索引中，现在已在网站上呈现。
-最初，我想将网站上线放在一个临时位置并征求反馈，特别是因为一些链接已更改，并且并非所有链接都可能有重定向。但是，由于 GitLab Pages 的工作方式（以及由于我对 GitLab CI 不够了解......），更改在实际合并 MR 之前就已生效。我决定保留更改（因为旧网站不再能正常构建），而不是恢复更改，并查看是否有任何异常。到目前为止，还没有发现死链接或不良副作用，但是：
+最初，我想将网站上线放在一个临时位置并征求反馈，特别是因为一些链接已更改，并且并非所有链接都可能有重定向。但是，由于 GitLab Pages 的工作方式（以及由于我对 GitLab CI 不够了解......），更改在实际合并 MR 之前就已生效。我决定保留更改（因为旧网站不再能正常构建），而不是恢复更改，并查看是否有任何异常。到目前为止，没有发现死链接或不良副作用，但是：
 如果您发现任何指向 specifications.fd.o 的链接已损坏或出现任何其他异常，请提交错误，以便我们修复它！
 谢谢，希望您喜欢以更好的渲染和更连贯的外观阅读规范！]]></description>
       <guid>https://blog.tenstral.net/2024/08/freedesktop-specs-website-update.html?utm_source=atom_feed</guid>
@@ -82,7 +90,7 @@ DocBook 是一种文档标记语言，已经存在很长时间了，因此有较
       <pubDate>Sat, 03 Aug 2024 19:45:00 GMT</pubDate>
     </item>
     <item>
-      <title>本周 KDE：发现及更多</title>
+      <title>本周 KDE 内容：发现及更多</title>
       <link>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/08/02/this-week-in-kde-discover-and-more/?utm_source=atom_feed</guid>
@@ -95,13 +103,6 @@ DocBook 是一种文档标记语言，已经存在很长时间了，因此有较
 但由于这篇文章已经搁置了很长时间，现在终于可以完成并发布了。]]></description>
       <guid>https://blog.bshah.in/2024/08/03/akademy-2023-conference/?utm_source=atom_feed</guid>
       <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amarok 3.1“光的把戏”发布！</title>
-      <link>https://blogs.kde.org/2024/08/02/amarok-3.1-tricks-of-the-light-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/08/02/amarok-3.1-tricks-of-the-light-released/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 02 Aug 2024 21:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
