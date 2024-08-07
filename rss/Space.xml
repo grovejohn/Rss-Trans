@@ -4,9 +4,23 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Aug 2024 19:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Aug 2024 20:15:06 GMT</lastBuildDate>
     <item>
-      <title>美国宇航局可能利用 SpaceX Dragon 将波音星际线宇航员送回地球</title>
+      <title>SpaceX Crew-9 宇航员任务：实时更新</title>
+      <link>https://www.space.com/news/live/spacex-crew-dragon-mission-updates</link>
+      <description><![CDATA[阅读有关 SpaceX 为 NASA 执行国际空间站 Crew-9 任务的最新消息。]]></description>
+      <guid>https://www.space.com/news/live/spacex-crew-dragon-mission-updates</guid>
+      <pubDate>Wed, 07 Aug 2024 19:48:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>波音星际客机首次宇航员飞行：实时更新</title>
+      <link>https://www.space.com/news/live/boeing-starliner-live-updates</link>
+      <description><![CDATA[波音公司将于 6 月 1 日为美国国家航空航天局 (NASA) 发射其首个星际航线宇航员飞行任务。]]></description>
+      <guid>https://www.space.com/news/live/boeing-starliner-live-updates</guid>
+      <pubDate>Wed, 07 Aug 2024 19:45:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局考虑用 SpaceX Dragon 将波音星际线宇航员送回家</title>
       <link>https://www.space.com/boeing-starliner-iss-astronaut-schedule-flux</link>
       <description><![CDATA[由于 Starliner 计划的 10 天任务延长了两个月，SpaceX 的下一次国际空间站发射将推迟到 9 月，以便 NASA 可以选择让 Starliner 机组人员随其返回。]]></description>
       <guid>https://www.space.com/boeing-starliner-iss-astronaut-schedule-flux</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[了解今晚夜空中可以看到什么，从行星和恒星到耀眼的流星雨。]]></description>
       <guid>https://www.space.com/news/live/night-sky-for-tonight-what-to-see</guid>
       <pubDate>Wed, 07 Aug 2024 15:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>太空中的这一天！1976 年 8 月 7 日：火星和 NASA 海盗号任务的重要日子</title>
-      <link>https://www.space.com/39251-on-this-day-in-space.html</link>
-      <description><![CDATA[1976 年 8 月 7 日，美国宇航局的海盗 2 号飞船到达火星轨道，同时宣布海盗 1 号飞船在红色星球上发现了可能的生命迹象。]]></description>
-      <guid>https://www.space.com/39251-on-this-day-in-space.html</guid>
-      <pubDate>Wed, 07 Aug 2024 15:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局的帕克太阳探测器为解决围绕太阳的数十年之谜找到了新的线索</title>
-      <link>https://www.space.com/sun-parker-solar-probe-solar-heating-mystery</link>
-      <description><![CDATA[在寻找太阳日冕为何比太阳表面温度更高时，美国宇航局的帕克太阳探测器排除了一种解释。]]></description>
-      <guid>https://www.space.com/sun-parker-solar-probe-solar-heating-mystery</guid>
-      <pubDate>Wed, 07 Aug 2024 15:00:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
