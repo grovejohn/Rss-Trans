@@ -4,53 +4,13 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 08 Aug 2024 10:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 12:54:38 GMT</lastBuildDate>
     <item>
       <title>Akademy 2024 志愿者招募</title>
       <link>https://akademy.kde.org/news/2024-08_akademy-2024-volunteer-call/?utm_source=atom_feed</link>
       <description><![CDATA[Akademy 需要你！志愿服务是结交新朋友的好方法，如果没有我们大家的共同努力，Akademy 就不可能实现。找到一两个听起来有趣的任务并报名参加！你需要做的就是在wiki 页面上将自己添加到时间段中]]></description>
       <guid>https://akademy.kde.org/news/2024-08_akademy-2024-volunteer-call/?utm_source=atom_feed</guid>
       <pubDate>Thu, 08 Aug 2024 09:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 14.0.1 发布</title>
-      <link>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Qt Creator 14.0.1 正式发布！
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 07 Aug 2024 10:34:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 2024 T 恤在线订购现已开放，现场订购时间延长</title>
-      <link>https://akademy.kde.org/news/2024-08_akademy-2024-t-shirt-online-orders-now-open-in-person-extended/?utm_source=atom_feed</link>
-      <description><![CDATA[在线参加 Akademy 2024 T 恤的订单现已开放至 9 月 29 日，这些 T 恤将在 Akademy 结束后发货。对于亲自参加的人，订单截止日期已延长至 11 日星期日
-完整详情请参阅 Akademy 2024 T 恤页面
-
-
- 
-
-
-Jens Reuterberg 设计的 Akademy 2024 T 恤模型
- 
-
-]]></description>
-      <guid>https://akademy.kde.org/news/2024-08_akademy-2024-t-shirt-online-orders-now-open-in-person-extended/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 06 Aug 2024 06:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.1.4，8 月份错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.1.4/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 8 月 6 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.4。
-Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
-此版本添加了 KDE 贡献者三周的新翻译和修复。错误修复通常很小但很重要，包括：
-
-DrKonqi：使用来自 kcrash 的框架版本号。 提交。
-KWin：修复 AltGr 的粘滞键。提交。 请参阅错误 #444335
-[kcms/access] 设置可视铃声持续时间选择器的范围。 提交。
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.1.4/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>KIO 缩略图支持</title>
@@ -93,6 +53,46 @@ KDE 缩略图程序插件
 任何测试帮助都将非常有帮助欢迎！:)
 请让我知道任何可能的改进和错误！]]></description>
       <guid>https://akselmo.dev/posts/kio-thumbnailer-support/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt Creator 14.0.1 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 14.0.1 正式发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</guid>
+      <pubDate>Wed, 07 Aug 2024 10:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akademy 2024 T 恤在线订购现已开放，现场订购时间延长</title>
+      <link>https://akademy.kde.org/news/2024-08_akademy-2024-t-shirt-online-orders-now-open-in-person-extended/?utm_source=atom_feed</link>
+      <description><![CDATA[在线参加 Akademy 2024 T 恤的订单现已开放至 9 月 29 日，这些 T 恤将在 Akademy 结束后发货。对于亲自参加的人，订单截止日期已延长至 11 日星期日
+完整详情请参阅 Akademy 2024 T 恤页面
+
+
+ 
+
+
+Jens Reuterberg 设计的 Akademy 2024 T 恤模型
+ 
+
+]]></description>
+      <guid>https://akademy.kde.org/news/2024-08_akademy-2024-t-shirt-online-orders-now-open-in-person-extended/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 06 Aug 2024 06:15:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.1.4，8 月份错误修复版本</title>
+      <link>https://kde.org/announcements/plasma/6/6.1.4/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 8 月 6 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.4。
+Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
+此版本添加了 KDE 贡献者三周的新翻译和修复。错误修复通常很小但很重要，包括：
+
+DrKonqi：使用来自 kcrash 的框架版本号。 提交。
+KWin：修复 AltGr 的粘滞键。提交。 请参阅错误 #444335
+[kcms/access] 设置可视铃声持续时间选择器的范围。 提交。
+
+查看完整更新日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.1.4/?utm_source=atom_feed</guid>
       <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
