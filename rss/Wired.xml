@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 08 Aug 2024 10:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 11:13:21 GMT</lastBuildDate>
+    <item>
+      <title>看看黑客如何使用红外激光监视你的笔记本电脑的按键操作</title>
+      <link>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</link>
+      <description><![CDATA[黑客 Samy Kamkar 推出了他自己的激光麦克风开源版本 - 这是一种间谍工具，它可以通过窗户无形地拾取你家里的声音，甚至是你正在输入的文本。]]></description>
+      <guid>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</guid>
+      <pubDate>Thu, 08 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>生成式人工智能存在“偷窃”问题。这位初创公司首席执行官有计划解决这个问题</title>
       <link>https://www.wired.com/story/bill-gross-prorata-generative-ai-business/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[告别破碎的显示屏、糟糕的屏幕保护膜和破旧的手机壳。]]></description>
       <guid>https://www.wired.com/story/wildflower-iphone-case-rave/</guid>
       <pubDate>Wed, 07 Aug 2024 13:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NBC 的奥运会转播不仅让人上瘾，还开启了流媒体的新时代</title>
-      <link>https://www.wired.com/story/nbc-peacock-2024-summer-olympics-coverage/</link>
-      <description><![CDATA[在 Peacock 的大力协助下，2024 年夏季奥运会的转播得以以正确的方式碎片化。]]></description>
-      <guid>https://www.wired.com/story/nbc-peacock-2024-summer-olympics-coverage/</guid>
-      <pubDate>Wed, 07 Aug 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
