@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 08 Aug 2024 14:35:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 16:40:44 GMT</lastBuildDate>
+    <item>
+      <title>一份新报告发现波音公司的火箭是由不合格的劳动力制造的</title>
+      <link>https://arstechnica.com/?p=2041826</link>
+      <description><![CDATA[美国宇航局拒绝因波音公司的缺陷对其进行处罚。]]></description>
+      <guid>https://arstechnica.com/?p=2041826</guid>
+      <pubDate>Thu, 08 Aug 2024 16:25:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>你可以试用 System76 的 Cosmic，一款新的 Linux 桌面</title>
+      <link>https://arstechnica.com/?p=2041716</link>
+      <description><![CDATA[全新的桌面旨在通过平铺、主题和更安全的 Rust 核心来吸引人们。]]></description>
+      <guid>https://arstechnica.com/?p=2041716</guid>
+      <pubDate>Thu, 08 Aug 2024 15:30:32 GMT</pubDate>
+    </item>
     <item>
       <title>这款新型充电器可让所有电动汽车无需适配器即可充电</title>
       <link>https://arstechnica.com/?p=2041806</link>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 07 Aug 2024 21:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 的重大转变引发人们对即将到来的 AGI 时间表的怀疑</title>
+      <title>OpenAI 的重大转变引发了人们对即将到来的 AGI 时间表的怀疑</title>
       <link>https://arstechnica.com/?p=2041450</link>
       <description><![CDATA[De Kraker：“如果 OpenAI 正处于 AGI 的边缘，为什么杰出人才不断离开？”]]></description>
       <guid>https://arstechnica.com/?p=2041450</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[当司法部寻求结束谷歌的垄断时，搜索的未来可能会是什么样子。]]></description>
       <guid>https://arstechnica.com/?p=2041575</guid>
       <pubDate>Wed, 07 Aug 2024 18:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS 15 Sequoia 需要你通过更多步骤来禁用 Gatekeeper 应用程序检查</title>
-      <link>https://arstechnica.com/?p=2041568</link>
-      <description><![CDATA[但可以在 Mac 上运行的软件种类没有任何变化。]]></description>
-      <guid>https://arstechnica.com/?p=2041568</guid>
-      <pubDate>Wed, 07 Aug 2024 18:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 考虑未来推出搜索广告和付费内容</title>
-      <link>https://arstechnica.com/?p=2041507</link>
-      <description><![CDATA[首席运营官表示，目前的广告负载相对“较少”。]]></description>
-      <guid>https://arstechnica.com/?p=2041507</guid>
-      <pubDate>Wed, 07 Aug 2024 17:26:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
