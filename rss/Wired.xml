@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 08 Aug 2024 18:20:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Aug 2024 18:41:44 GMT</lastBuildDate>
+    <item>
+      <title>微软的人工智能可以变成自动网络钓鱼机器</title>
+      <link>https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/</link>
+      <description><![CDATA[新研究表明，对微软 Copilot AI 的攻击会导致答案被操纵、数据被提取，以及安全保护被绕过。]]></description>
+      <guid>https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/</guid>
+      <pubDate>Thu, 08 Aug 2024 18:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twitch 的新 DJ 程序有缺陷，但它是最好的</title>
+      <link>https://www.wired.com/story/twitchs-new-dj-program-may-be-doomed-but-its-the-best-there-is/</link>
+      <description><![CDATA[Twitch 终于为 DJ 们提供了一个平台，让他们可以通过直播获得报酬，并为他们播放的歌手提供报酬。其有限的歌曲目录和不透明的收入计划可能会让一些主播感到失望。]]></description>
+      <guid>https://www.wired.com/story/twitchs-new-dj-program-may-be-doomed-but-its-the-best-there-is/</guid>
+      <pubDate>Thu, 08 Aug 2024 18:19:26 GMT</pubDate>
+    </item>
     <item>
       <title>10 款最佳智能音箱（2024 年）：Alexa、Google Assistant、Siri</title>
       <link>https://www.wired.com/story/best-smart-speakers/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>右翼仍在推动选举否决——以及枕头</title>
       <link>https://www.wired.com/story/election-deniers-far-right/</link>
-      <description><![CDATA[临近十一月，极右翼选举否认者变得更加有组织。]]></description>
+      <description><![CDATA[临近十一月，极右翼选举否认者将变得更加有组织。]]></description>
       <guid>https://www.wired.com/story/election-deniers-far-right/</guid>
       <pubDate>Thu, 08 Aug 2024 16:01:56 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[本周，我们讨论大型科技公司从小型人工智能公司收购关键人才的当前趋势。]]></description>
       <guid>https://www.wired.com/story/gadget-lab-podcast-654/</guid>
       <pubDate>Thu, 08 Aug 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ozempic 的益处正在成倍增加</title>
-      <link>https://www.wired.com/story/the-benefits-of-ozempic-are-multiplying/</link>
-      <description><![CDATA[越来越多的证据表明，GLP-1 药物除了治疗糖尿病和减肥之外，还对多种疾病有益，包括治疗成瘾和帕金森症等，而科学家正在不断探寻其中的原因。]]></description>
-      <guid>https://www.wired.com/story/the-benefits-of-ozempic-are-multiplying/</guid>
-      <pubDate>Thu, 08 Aug 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看黑客如何使用红外激光监视你的笔记本电脑的按键操作</title>
-      <link>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</link>
-      <description><![CDATA[黑客 Samy Kamkar 推出了他自己的激光麦克风开源版本 - 这是一种间谍工具，它可以通过窗户无形地拾取你家里的声音，甚至是你正在输入的文本。]]></description>
-      <guid>https://www.wired.com/story/infrared-laser-microphone-keystroke-surveillance/</guid>
-      <pubDate>Thu, 08 Aug 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
