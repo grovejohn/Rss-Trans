@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 09 Aug 2024 13:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 14:37:33 GMT</lastBuildDate>
     <item>
-      <title>美国军方追踪中国发射的 300 多块残骸</title>
+      <title>一家初创公司计划解决人工智能“偷窃”问题</title>
+      <link>https://arstechnica.com/?p=2042108</link>
+      <description><![CDATA[算法将识别生成式人工智能所使用的来源，并对其使用进行补偿。]]></description>
+      <guid>https://arstechnica.com/?p=2042108</guid>
+      <pubDate>Fri, 09 Aug 2024 13:26:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>家庭能源系统中的 512 位 RSA 密钥可控制“虚拟发电厂”</title>
+      <link>https://arstechnica.com/?p=2042026</link>
+      <description><![CDATA[Ryan Castellucci 花费了 70 美元和 24 小时才获得 200 兆瓦的容量。]]></description>
+      <guid>https://arstechnica.com/?p=2042026</guid>
+      <pubDate>Fri, 09 Aug 2024 13:07:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国的长征六号甲火箭在低地球轨道上陷入困境</title>
       <link>https://arstechnica.com/?p=2041957</link>
       <description><![CDATA[几乎每次飞行后，该火箭的上面级都会在轨道上解体。]]></description>
       <guid>https://arstechnica.com/?p=2041957</guid>
@@ -50,7 +64,7 @@
     <item>
       <title>FTX 将向 Sam Bankman-Fried 大规模欺诈案的受害者赔偿 127 亿美元</title>
       <link>https://arstechnica.com/?p=2041998</link>
-      <description><![CDATA[美国商品交易机构宣布为 FTX 受害者进行了有史以来最大规模的救援。]]></description>
+      <description><![CDATA[美国商品交易机构宣布为 FTX 受害者提供了有史以来最大规模的救援。]]></description>
       <guid>https://arstechnica.com/?p=2041998</guid>
       <pubDate>Thu, 08 Aug 2024 21:21:40 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[由于应用程序的问题，Sonos 推迟了两款硬件的发布。]]></description>
       <guid>https://arstechnica.com/?p=2041920</guid>
       <pubDate>Thu, 08 Aug 2024 21:11:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯棋手首次用水银毒害对手棋盘</title>
-      <link>https://arstechnica.com/?p=2041958</link>
-      <description><![CDATA[至少它不是诺维乔克。]]></description>
-      <guid>https://arstechnica.com/?p=2041958</guid>
-      <pubDate>Thu, 08 Aug 2024 20:23:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克的 X 提起诉讼后，广告行业倡议突然关闭</title>
-      <link>https://arstechnica.com/?p=2041956</link>
-      <description><![CDATA[全球负责任媒体联盟对X诉讼提出异议但停止运营。]]></description>
-      <guid>https://arstechnica.com/?p=2041956</guid>
-      <pubDate>Thu, 08 Aug 2024 19:58:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
