@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 09 Aug 2024 22:37:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 23:14:27 GMT</lastBuildDate>
+    <item>
+      <title>谷歌研究人员在高通流行的移动 GPU 软件中发现了近十几个缺陷</title>
+      <link>https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/</link>
+      <description><![CDATA[这些漏洞已被修补，但对于攻击者来说，它们可能具有新的吸引力，成为入侵手机的途径。]]></description>
+      <guid>https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:55:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>FDA 刚刚拒绝了 MDMA 用于治疗创伤后应激障碍的申请</title>
+      <link>https://www.wired.com/story/fda-rejects-mdma-ptsd-treatment/</link>
+      <description><![CDATA[该机构已要求制药商 Lykos Therapeutics 对患有创伤后应激障碍的患者使用迷幻药的情况进行额外研究，并将其下一次提案推迟数年。]]></description>
+      <guid>https://www.wired.com/story/fda-rejects-mdma-ptsd-treatment/</guid>
+      <pubDate>Fri, 09 Aug 2024 22:50:32 GMT</pubDate>
+    </item>
     <item>
       <title>诺亚·莱尔斯的奥运之行是新冠疫情下生活的新常态</title>
       <link>https://www.wired.com/story/noah-lyles-covid-olympics-new-normal/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[自己组装计算机是了解计算机工作原理的好方法。]]></description>
       <guid>https://www.wired.com/story/how-to-build-a-pc/</guid>
       <pubDate>Fri, 09 Aug 2024 13:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的崛起是不可避免的。其反垄断裁决也是如此</title>
-      <link>https://www.wired.com/story/googles-rise-was-inevitable-so-was-its-antitrust-ruling/</link>
-      <description><![CDATA[本周，美国联邦地区法院法官裁定谷歌为垄断者。这一判决已经持续了很长时间。]]></description>
-      <guid>https://www.wired.com/story/googles-rise-was-inevitable-so-was-its-antitrust-ruling/</guid>
-      <pubDate>Fri, 09 Aug 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>4 款最佳智能显示器（2024 年）：Google Assistant 和 Amazon Alexa</title>
-      <link>https://www.wired.com/gallery/best-smart-displays/</link>
-      <description><![CDATA[您是否曾想过将平板电脑和智能音箱结合在一起？这些设备兼具两者的优点。]]></description>
-      <guid>https://www.wired.com/gallery/best-smart-displays/</guid>
-      <pubDate>Fri, 09 Aug 2024 12:32:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
