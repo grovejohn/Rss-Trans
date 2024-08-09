@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 09 Aug 2024 09:36:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 10:15:33 GMT</lastBuildDate>
+    <item>
+      <title>奥运会的敌对建筑预示着未来的发展</title>
+      <link>https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/</link>
+      <description><![CDATA[在巴黎的一座桥下，无家可归者的营地已被数十块巨大的乐高积木所取代。活动人士表示，2028 年洛杉矶奥运会的情况可能会变得更糟。]]></description>
+      <guid>https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/</guid>
+      <pubDate>Fri, 09 Aug 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>珠宝和大头发会减慢奥运会跑步运动员的速度吗？</title>
       <link>https://www.wired.com/story/does-jewelry-slow-down-olympic-runners/</link>
@@ -64,16 +71,9 @@
     <item>
       <title>目前（2024 年 8 月）Max（又名 HBO Max）上最佳的 40 部节目</title>
       <link>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</link>
-      <description><![CDATA[《龙之屋》、《黑道家族》和《工业》只是本月您需要在 Max 上观看的几部电视剧。]]></description>
+      <description><![CDATA[《龙之屋》、《黑道家族》和《工业》只是本月你需要在 Max 上观看的几部电视剧。]]></description>
       <guid>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</guid>
       <pubDate>Thu, 08 Aug 2024 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软的人工智能可以变成自动网络钓鱼机器</title>
-      <link>https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/</link>
-      <description><![CDATA[新研究表明，对微软 Copilot AI 的攻击会导致答案被操纵、数据被提取，以及安全保护被绕过。]]></description>
-      <guid>https://www.wired.com/story/microsoft-copilot-phishing-data-extraction/</guid>
-      <pubDate>Thu, 08 Aug 2024 18:20:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
