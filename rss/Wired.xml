@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 09 Aug 2024 10:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 11:13:01 GMT</lastBuildDate>
+    <item>
+      <title>迷彩帽如何瞬间成为一种流行元素</title>
+      <link>https://www.wired.com/story/camo-hats-harris-walz-instant-meme/</link>
+      <description><![CDATA[本周，副总统卡马拉·哈里斯和明尼苏达州州长蒂姆·沃尔兹用一些迷彩帽巩固了他们竞选白宫的地位。这顶帽子即将升级为红色 MAGA 帽子。]]></description>
+      <guid>https://www.wired.com/story/camo-hats-harris-walz-instant-meme/</guid>
+      <pubDate>Fri, 09 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑客如何窃取“王国钥匙”来克隆 HID 钥匙卡</title>
+      <link>https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/</link>
+      <description><![CDATA[一组研究人员开发出一种从 HID 编码器中提取身份验证密钥的方法，这可以让黑客克隆用于保护世界各地办公室和其他区域的钥匙卡类型。]]></description>
+      <guid>https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/</guid>
+      <pubDate>Fri, 09 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>奥运会的敌对建筑预示着未来的发展</title>
       <link>https://www.wired.com/story/paris-los-angeles-olympics-hostile-architecture-homeless/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>奥运会变装艺术家 Nicky Doll 回击网络仇恨暴徒</title>
       <link>https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/</link>
-      <description><![CDATA[自从在巴黎奥运会开幕式上表演以来，变装艺术家 Nicky Doll 一直受到网络恶搞。现在，她开始反击，起诉了她认为是恶搞主谋的男子：Laurence Fox。]]></description>
+      <description><![CDATA[自从在巴黎奥运会开幕式上表演以来，变装艺术家尼基·多尔就一直受到网络恶搞者的骚扰。现在，她开始反击，起诉了她认为是恶搞者头目的劳伦斯·福克斯 (Laurence Fox)。]]></description>
       <guid>https://www.wired.com/story/olympics-opening-ceremony-drag-artist-nicky-doll-harassment/</guid>
       <pubDate>Fri, 09 Aug 2024 07:00:00 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[新的研究表明，已知的查找网站弱点的技术实际上对于发现漏洞是实用的，无论好坏。]]></description>
       <guid>https://www.wired.com/story/web-timing-attacks-black-hat-2024/</guid>
       <pubDate>Thu, 08 Aug 2024 21:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beyond Meat 在美国停滞不前。欧洲或将迎来另一个故事</title>
-      <link>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</link>
-      <description><![CDATA[这家曾经被大肆宣传的公司如今成为植物肉行业整体下滑的最突出受害者。]]></description>
-      <guid>https://www.wired.com/story/beyond-plant-based-meat-sales-trends-us-europe/</guid>
-      <pubDate>Thu, 08 Aug 2024 19:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前（2024 年 8 月）Max（又名 HBO Max）上最佳的 40 部节目</title>
-      <link>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</link>
-      <description><![CDATA[《龙之屋》、《黑道家族》和《工业》只是本月您需要在 Max 上观看的几部电视剧。]]></description>
-      <guid>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</guid>
-      <pubDate>Thu, 08 Aug 2024 19:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
