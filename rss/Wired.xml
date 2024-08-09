@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 09 Aug 2024 18:19:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Aug 2024 18:40:30 GMT</lastBuildDate>
+    <item>
+      <title>无处不在的 ATM 软件漏洞可能让攻击者控制自动取款机</title>
+      <link>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</link>
+      <description><![CDATA[ATM 制造商 Diebold Nixdorf 广受欢迎的 Vynamic 安全套件中存在六个漏洞，可被利用通过“相对简单的攻击”来控制 ATM。]]></description>
+      <guid>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</guid>
+      <pubDate>Fri, 09 Aug 2024 18:37:12 GMT</pubDate>
+    </item>
     <item>
       <title>19 款最佳返校优惠（2024 年）：背包、充电器、笔记本电脑</title>
       <link>https://www.wired.com/story/back-to-school-deals-2024/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[研究人员警告称，AMD 芯片中存在一个漏洞，可让攻击者侵入计算机中某些权限最高的部分，而且该漏洞已在该公司的处理器中存在数十年。]]></description>
       <guid>https://www.wired.com/story/amd-chip-sinkclose-flaw/</guid>
       <pubDate>Fri, 09 Aug 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客如何窃取“王国钥匙”来克隆 HID 钥匙卡</title>
-      <link>https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/</link>
-      <description><![CDATA[一组研究人员开发出一种从 HID 编码器中提取身份验证密钥的方法，这可以让黑客克隆用于保护世界各地办公室和其他区域的钥匙卡类型。]]></description>
-      <guid>https://www.wired.com/story/hid-keycard-authentication-key-vulnerability/</guid>
-      <pubDate>Fri, 09 Aug 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
