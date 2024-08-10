@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sat, 10 Aug 2024 22:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 23:14:54 GMT</lastBuildDate>
+    <item>
+      <title>数以千计的公司机密被曝光。这个人发现了它们全部</title>
+      <link>https://www.wired.com/story/secret-hunting-bill-demirkapi/</link>
+      <description><![CDATA[安全研究员 Bill Demirkapi 通过搜索被忽视的数据源，发现了超过 15,000 个硬编码秘密和 66,000 个易受攻击的网站。]]></description>
+      <guid>https://www.wired.com/story/secret-hunting-bill-demirkapi/</guid>
+      <pubDate>Sat, 10 Aug 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>追捕电子游戏速通作弊者的黑客</title>
       <link>https://www.wired.com/story/the-hacker-who-hunts-video-game-speedrunning-cheaters/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[《男孩们》、《蝙蝠侠：披风斗士》和《全面瓦解》只是本周您应该在 Amazon Prime Video 上观看的几部剧。]]></description>
       <guid>https://www.wired.com/story/best-shows-amazon-prime/</guid>
       <pubDate>Sat, 10 Aug 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将药物送入大脑？或许可以试试寄生虫</title>
-      <link>https://www.wired.com/story/parasite-drug-delivery/</link>
-      <description><![CDATA[一种常见的寄生虫有一天能将药物输送到大脑。以下是科学家如何将弓形虫从敌人变成朋友。]]></description>
-      <guid>https://www.wired.com/story/parasite-drug-delivery/</guid>
-      <pubDate>Sat, 10 Aug 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
