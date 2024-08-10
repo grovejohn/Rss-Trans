@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sat, 10 Aug 2024 19:36:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 20:14:30 GMT</lastBuildDate>
+    <item>
+      <title>苹果原型机和公司机密在网上出售——只要你知道去哪里找</title>
+      <link>https://www.wired.com/story/apple-prototypes-corporate-data/</link>
+      <description><![CDATA[在寻找二手出售的公司设备时，一位研究人员发现了大量苹果公司数据、一台来自富士康装配线的 Mac Mini、一台 iPhone 14 原型机等等。]]></description>
+      <guid>https://www.wired.com/story/apple-prototypes-corporate-data/</guid>
+      <pubDate>Sat, 10 Aug 2024 19:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>YouTube 前首席执行官苏珊·沃西基去世，享年 56 岁</title>
       <link>https://www.wired.com/story/susan-wojcicki-former-youtube-ceo-dies-at-56/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[2024 年巴黎奥运会闭幕式将举行从巴黎到洛杉矶的象征性交接仪式，红辣椒乐队也将进行表演。]]></description>
       <guid>https://www.wired.com/story/how-to-watch-billie-eilish-and-snoop-dogg-at-summer-olympics-closing-ceremony/</guid>
       <pubDate>Sat, 10 Aug 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌研究人员在高通流行的移动 GPU 软件中发现了近十几个缺陷</title>
-      <link>https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/</link>
-      <description><![CDATA[这些漏洞已被修补，但对于攻击者来说，它们可能具有新的吸引力，成为入侵手机的途径。]]></description>
-      <guid>https://www.wired.com/story/google-android-red-team-qualcomm-gpu-flaws/</guid>
-      <pubDate>Fri, 09 Aug 2024 22:55:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
