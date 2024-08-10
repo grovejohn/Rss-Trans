@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sat, 10 Aug 2024 12:25:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Aug 2024 12:51:51 GMT</lastBuildDate>
+    <item>
+      <title>LG S95TR 9.1.5 条形音箱系统评测：为您的 OLED 提供完美音频</title>
+      <link>https://www.wired.com/review/lg-s95tr/</link>
+      <description><![CDATA[LG 的这款无线环绕音响系统音质极佳，尤其是当您拥有该品牌的最新款电视时。]]></description>
+      <guid>https://www.wired.com/review/lg-s95tr/</guid>
+      <pubDate>Sat, 10 Aug 2024 12:32:00 GMT</pubDate>
+    </item>
     <item>
       <title>据称，一名俄罗斯棋手用水银毒死了她的对手</title>
       <link>https://www.wired.com/story/russian-chess-player-poison-board-mercury/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[数十名奥运会运动员在比赛中感染了新冠病毒，而社会却越来越将新冠病毒当做流感或普通感冒来对待。公共卫生专家警告称，新冠病毒绝非如此。]]></description>
       <guid>https://www.wired.com/story/noah-lyles-covid-olympics-new-normal/</guid>
       <pubDate>Fri, 09 Aug 2024 22:20:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>ATM 软件漏洞导致大量现金被盗</title>
-      <link>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</link>
-      <description><![CDATA[ATM 制造商 Diebold Nixdorf 广受欢迎的 Vynamic 安全套件中存在六个漏洞，可被利用通过“相对简单的攻击”来控制 ATM。]]></description>
-      <guid>https://www.wired.com/story/vss-atm-vulnerabilities-defcon-2024/</guid>
-      <pubDate>Fri, 09 Aug 2024 18:37:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
