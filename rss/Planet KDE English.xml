@@ -4,7 +4,16 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 11 Aug 2024 01:07:59 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Aug 2024 12:51:29 GMT</lastBuildDate>
+    <item>
+      <title>GSoC 的最后一个月</title>
+      <link>https://alcarazzam.dev/posts/the-last-month-in-gsoc/?utm_source=atom_feed</link>
+      <description><![CDATA[我意识到距离我上次更新 GSoC 项目已经过去了将近一个月，所以是时候发布一个新的了。
+我一直在将 Python 绑定上传到其相应的存储库并处理评论。非常感谢 Nico、Christophe、Volker、Ben 和 Carl（我的导师）的评论！CMake 部分已经改进了很多，几乎可以合并了。CI 支持应该适用于 FreeBSD 和 Linux。如果人们感兴趣，我们可以添加对 Windows 的支持。
+我可能会在下周写一篇关于如何将 Python 绑定添加到库的教程。]]></description>
+      <guid>https://alcarazzam.dev/posts/the-last-month-in-gsoc/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 11 Aug 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>先整理？建议阅读 Kent Beck 的书</title>
       <link>https://gruenich.blogspot.com/2024/08/tidy-first-recommendation-to-read-kent.html?utm_source=atom_feed</link>
@@ -116,21 +125,6 @@ Jens Reuterberg 设计的 Akademy 2024 T 恤模型
 ]]></description>
       <guid>https://akademy.kde.org/news/2024-08_akademy-2024-t-shirt-online-orders-now-open-in-person-extended/?utm_source=atom_feed</guid>
       <pubDate>Tue, 06 Aug 2024 06:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.1.4，8 月份错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.1.4/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 8 月 6 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.4。
-Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
-此版本添加了 KDE 贡献者三周的新翻译和修复。错误修复通常很小但很重要，包括：
-
-DrKonqi：使用来自 kcrash 的框架版本号。 提交。
-KWin：修复 AltGr 的粘滞键。提交。 请参阅错误 #444335
-[kcms/access] 设置可视铃声持续时间选择器的范围。 提交。
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.1.4/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
