@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 11 Aug 2024 12:51:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 14:38:18 GMT</lastBuildDate>
+    <item>
+      <title>第 11 周回顾 - 最后冲刺</title>
+      <link>https://kenlo.hashnode.dev/week-11-recap-final-stretch?utm_source=atom_feed</link>
+      <description><![CDATA[随着 GSOC 接近尾声，我正在收尾并准备好代码以供最终审查。仍然会偶尔出现罕见的边缘情况，但总体而言，新的像素完美功能运行良好，可用于像素 ar...]]></description>
+      <guid>https://kenlo.hashnode.dev/week-11-recap-final-stretch?utm_source=atom_feed</guid>
+      <pubDate>Mon, 12 Aug 2024 13:53:53 GMT</pubDate>
+    </item>
     <item>
       <title>GSoC 的最后一个月</title>
       <link>https://alcarazzam.dev/posts/the-last-month-in-gsoc/?utm_source=atom_feed</link>
@@ -26,7 +33,7 @@
       <title>发挥作用</title>
       <link>https://tube.kockatoo.org/w/op6JnEknfotW9QnQFginJp?utm_source=atom_feed</link>
       <description><![CDATA[如何通过 KDE 社区做出贡献并开启您的自由软件职业生涯
-与 KDE e.V. 总裁兼 KDE Con​​nect、Plasma、Discover 和 KAlgebra 等项目的核心开发人员 Aleix Pol 一起。]]></description>
+与 Aleix Pol 一起，他是 KDE e.V. 总裁，也是 KDE Con​​nect、Plasma、Discover 和 KAlgebra 等产品的核心贡献开发者。]]></description>
       <guid>https://tube.kockatoo.org/w/op6JnEknfotW9QnQFginJp?utm_source=atom_feed</guid>
       <pubDate>Sat, 10 Aug 2024 15:32:27 GMT</pubDate>
     </item>
@@ -108,23 +115,6 @@ KDE 缩略图程序插件
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</guid>
       <pubDate>Wed, 07 Aug 2024 10:34:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 2024 T 恤在线订购现已开放，现场订购时间延长</title>
-      <link>https://akademy.kde.org/news/2024-08_akademy-2024-t-shirt-online-orders-now-open-in-person-extended/?utm_source=atom_feed</link>
-      <description><![CDATA[在线参加 Akademy 2024 T 恤的订单现已开放至 9 月 29 日，这些 T 恤将在 Akademy 结束后发货。对于亲自参加的人，订单截止日期已延长至 11 日星期日
-完整详情请参阅 Akademy 2024 T 恤页面
-
-
- 
-
-
-Jens Reuterberg 设计的 Akademy 2024 T 恤模型
- 
-
-]]></description>
-      <guid>https://akademy.kde.org/news/2024-08_akademy-2024-t-shirt-online-orders-now-open-in-person-extended/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 06 Aug 2024 06:15:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
