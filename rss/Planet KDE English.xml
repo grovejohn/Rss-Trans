@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 12 Aug 2024 14:38:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Aug 2024 18:41:34 GMT</lastBuildDate>
+    <item>
+      <title>KDE、Kubuntu、Debian Qt6 更新以及 Kubuntu Noble .1 更新。</title>
+      <link>https://www.scarlettgatelymoore.dev/kde-kubuntu-debian-qt6-updates-plus-kubuntu-noble-1-updates/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kde-kubuntu-debian-qt6-updates-plus-kubuntu-noble-1-updates/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 12 Aug 2024 16:33:37 GMT</pubDate>
+    </item>
     <item>
       <title>第 11 周回顾 - 最后冲刺</title>
       <link>https://kenlo.hashnode.dev/week-11-recap-final-stretch?utm_source=atom_feed</link>
@@ -33,7 +40,7 @@
       <title>发挥作用</title>
       <link>https://tube.kockatoo.org/w/op6JnEknfotW9QnQFginJp?utm_source=atom_feed</link>
       <description><![CDATA[如何通过 KDE 社区做出贡献并开启您的自由软件职业生涯
-与 Aleix Pol 一起，他是 KDE e.V. 总裁，也是 KDE Con​​nect、Plasma、Discover 和 KAlgebra 等产品的核心贡献开发者。]]></description>
+与 KDE e.V. 总裁兼 KDE Con​​nect、Plasma、Discover 和 KAlgebra 等项目的核心开发人员 Aleix Pol 一起。]]></description>
       <guid>https://tube.kockatoo.org/w/op6JnEknfotW9QnQFginJp?utm_source=atom_feed</guid>
       <pubDate>Sat, 10 Aug 2024 15:32:27 GMT</pubDate>
     </item>
@@ -107,14 +114,6 @@ KDE 缩略图程序插件
 请让我知道任何可能的改进和错误！]]></description>
       <guid>https://akselmo.dev/posts/kio-thumbnailer-support/?utm_source=atom_feed</guid>
       <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 14.0.1 发布</title>
-      <link>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Qt Creator 14.0.1 正式发布！
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-14.0.1-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 07 Aug 2024 10:34:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
