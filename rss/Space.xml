@@ -4,9 +4,16 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Tue, 13 Aug 2024 14:13:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 14:37:41 GMT</lastBuildDate>
     <item>
-      <title>新发现恒星体积为太阳的 30 倍，具有意想不到的化学成分</title>
+      <title>《星球大战：骷髅队》首支冒险预告片亮相迪士尼 D23 粉丝活动</title>
+      <link>https://www.space.com/star-wars-skeleton-crew-disney-trailer</link>
+      <description><![CDATA[Disney+ 的《星球大战：骷髅船员》首支预告片在卢卡斯影业的 D23 展台上发布。]]></description>
+      <guid>https://www.space.com/star-wars-skeleton-crew-disney-trailer</guid>
+      <pubDate>Tue, 13 Aug 2024 14:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>新发现恒星大小为太阳的 30 倍，具有意想不到的化学成分</title>
       <link>https://www.space.com/large-star-discovery-stellar-evolution</link>
       <description><![CDATA[新发现的一颗恒星大小是太阳的 30 倍，其化学成分令人困惑，可能会引发恒星演化模型的修改。]]></description>
       <guid>https://www.space.com/large-star-discovery-stellar-evolution</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国宇航局称，由于国际空间站机组人员所需的审批程序，Axiom Space 的下一次宇航员任务将被推迟。]]></description>
       <guid>https://www.space.com/axiom-space-ax-4-delay-spring-2025</guid>
       <pubDate>Mon, 12 Aug 2024 21:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局卫星数据将关键污染物添加到国家环境正义数据库</title>
-      <link>https://www.space.com/national-environmental-justice-database-satellite-tracking</link>
-      <description><![CDATA[卫星数据帮助科学家开始追踪一种之前在国家数据库中缺失的关键空气污染物，这标志着监测美国各地空气质量差异和识别健康受到不公平影响的群体迈出了关键的一步。]]></description>
-      <guid>https://www.space.com/national-environmental-justice-database-satellite-tracking</guid>
-      <pubDate>Mon, 12 Aug 2024 20:00:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
