@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 12 Aug 2024 18:41:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2024 08:39:08 GMT</lastBuildDate>
+    <item>
+      <title>坏信息驱逐好信息或者我们对维基百科的信任程度有多高？</title>
+      <link>https://labplot.kde.org/2024/08/13/bad-information-drives-out-good-or-how-much-can-we-trust-wikipedia/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://labplot.kde.org/2024/08/13/bad-information-drives-out-good-or-how-much-can-we-trust-wikipedia/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 13 Aug 2024 08:29:11 GMT</pubDate>
+    </item>
     <item>
       <title>KDE、Kubuntu、Debian Qt6 更新以及 Kubuntu Noble .1 更新。</title>
       <link>https://www.scarlettgatelymoore.dev/kde-kubuntu-debian-qt6-updates-plus-kubuntu-noble-1-updates/?utm_source=atom_feed</link>
@@ -71,49 +78,6 @@
       <description><![CDATA[Akademy 需要你！志愿服务是结交新朋友的好方法，如果没有我们大家的共同努力，Akademy 就不可能实现。找到一两个听起来有趣的任务并报名参加！你需要做的就是在wiki 页面上将自己添加到时间段中]]></description>
       <guid>https://akademy.kde.org/news/2024-08_akademy-2024-volunteer-call/?utm_source=atom_feed</guid>
       <pubDate>Thu, 08 Aug 2024 09:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>KIO 缩略图支持</title>
-      <link>https://akselmo.dev/posts/kio-thumbnailer-support/?utm_source=atom_feed</link>
-      <description><![CDATA[KIO 框架已获得对事实上的标准、跨桌面缩略图生成器的支持。
-这意味着我们支持来自第三方应用程序的缩略图！
-在 Linux 系统上，许多产生某种输出（例如 3D 文件或文本文档）的应用程序都会发送一个缩略图文件，告诉文件管理员如何创建其文件的缩略图。
-我在这里图像中使用的一个具体示例是 STL 文件，我们没有自己的 KDE 专用缩略图插件。
-
-
-这些缩略图文件目前由 Nautilus 和 Thunar 使用，
-所以我们觉得自己错过了机会，想加入这个行列！ :)
-缩略图文件
-缩略图文件是简单的文本文件，用于告诉系统我们应该运行什么程序来生成缩略图。您可以通过运行 ls /usr/share/thumbnailers 来检查您安装了哪些缩略图程序
-例如，STL 缩略图程序文件如下所示：
-[缩略图程序条目]
-TryExec=stl-thumb
-Exec=xvfb-run --auto-servernum -w 0 stl-thumb -f png -s %s %i %o
-MimeType=model/stl;model/x.stl-ascii;model/x.stl-binary;application/sla;
-
-它告诉运行缩略图程序的软件使用什么命令来生成缩略图，
-以及它支持哪些 mimetype。
-KDE 缩略图程序插件
-在 KDE 方面，我们使用了 KIO 插件，这些插件位于 kio-extras 存储库中。
-它们对于我们在 KDE 应用程序中的用例来说工作得很好，但没有人需要为他们的应用程序编写 KIO 特定的插件。
-对 KIO 的更改
-您可以查看合并请求以了解更多详细信息，但这里是我如何使其与我们的插件系统并行工作的摘要：
-如果可能，我们总是首先使用 KIO 插件，因为我们确信它们有效。这是为了避免任何可能的回归和异常，并尽可能保持更改不具侵入性。当我们遇到插件不支持的 mimetype（如 STL 文件）时，我们会改用缩略图文件。
-这也意味着它对用户是透明的。 用户不必担心他们安装了哪一个。
-那么为什么要支持缩略图文件呢？
-如前所述，任何应用程序都不需要为 KIO 创建插件，只是为了让缩略图
-显示在我们的应用程序中。
-缩略图文件还提供了其他好处，例如简化未来的过渡（例如从 KF6 到 KF7）；与沙盒配合良好，并可在 Flatpak 包中分发。
-我还在努力将我们自己的插件移到缩略图中，
-因此我们也从中受益。
-我如何测试它？
-目前它仅在 KIO 的主分支中，因此如果您真的想尝试它，
-您必须设置 KDE Plasma 开发环境：https://develop.kde.org/docs/getting-started/building/kdesrc-build-setup/
-在开发环境中，打开 Dolphin 并从预览设置中启用缩略图。
-任何测试帮助都将非常有帮助欢迎！:)
-请让我知道任何可能的改进和错误！]]></description>
-      <guid>https://akselmo.dev/posts/kio-thumbnailer-support/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
