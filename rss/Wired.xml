@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 14 Aug 2024 17:36:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Aug 2024 18:18:57 GMT</lastBuildDate>
+    <item>
+      <title>你的健身房储物柜可能被黑客入侵</title>
+      <link>https://www.wired.com/story/electronic-locker-vulnerability/</link>
+      <description><![CDATA[安全研究人员称，他们已经从选定的电子储物柜中提取了数字管理钥匙，并揭示了如何克隆这些钥匙。]]></description>
+      <guid>https://www.wired.com/story/electronic-locker-vulnerability/</guid>
+      <pubDate>Wed, 14 Aug 2024 17:59:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 并未保护女性政治家免遭仇恨言论侵害</title>
+      <link>https://www.wired.com/story/instagram-gendered-abuse/</link>
+      <description><![CDATA[一份报告发现，Instagram 上 93% 针对女性候选人的暴力评论都被保留了下来，这种网络辱骂导致女性候选人放弃了竞选公职。]]></description>
+      <guid>https://www.wired.com/story/instagram-gendered-abuse/</guid>
+      <pubDate>Wed, 14 Aug 2024 17:59:19 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普枪击事件让 QAnon 信徒感到震惊。然后他们加倍下注</title>
       <link>https://www.wired.com/story/trumps-shooting-rattled-qanon-believers-then-they-doubled-down/</link>
@@ -57,23 +71,9 @@
     <item>
       <title>HMD Skyline 评测：首款 Qi2 Android 智能手机</title>
       <link>https://www.wired.com/review/hmd-skyline/</link>
-      <description><![CDATA[我试用了全球首款Qi2安卓智能手机，增加了类似MagSafe的充电体验。]]></description>
+      <description><![CDATA[我试用了全球首款Qi2安卓智能手机，它增加了类似MagSafe的充电体验。]]></description>
       <guid>https://www.wired.com/review/hmd-skyline/</guid>
       <pubDate>Wed, 14 Aug 2024 10:05:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳学生折扣（2024 年）：笔记本电脑、流媒体服务、科技和软件</title>
-      <link>https://www.wired.com/story/best-student-discounts/</link>
-      <description><![CDATA[该 .edu 电子邮件是您在笔记本电脑、流媒体服务、软件等方面享受独家优惠的门票。]]></description>
-      <guid>https://www.wired.com/story/best-student-discounts/</guid>
-      <pubDate>Wed, 14 Aug 2024 09:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>英超联赛将放弃其令人讨厌的 VAR 越位技术，转而使用 iPhone</title>
-      <link>https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/</link>
-      <description><![CDATA[本赛季晚些时候，英国顶级足球联赛将用苹果智能手机取代备受争议的 VAR 越位检测系统。]]></description>
-      <guid>https://www.wired.com/story/the-english-premier-league-has-a-new-iphone-powered-offside-detection-system/</guid>
-      <pubDate>Wed, 14 Aug 2024 07:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
