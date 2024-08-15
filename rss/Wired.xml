@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 15 Aug 2024 21:37:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 22:14:27 GMT</lastBuildDate>
+    <item>
+      <title>这次的 Mpox 疫情与上次不同</title>
+      <link>https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/</link>
+      <description><![CDATA[据信，造成当前全球卫生紧急情况的 mpox 病毒株比 2022 年席卷全球的病毒株致命性高出 10 倍。]]></description>
+      <guid>https://www.wired.com/story/mpox-outbreak-global-public-health-emergency/</guid>
+      <pubDate>Thu, 15 Aug 2024 21:52:11 GMT</pubDate>
+    </item>
     <item>
       <title>迷幻药的不确定未来之路</title>
       <link>https://www.wired.com/story/where-does-psychedelic-assisted-therapy-go-next-mdma-fda-lykos/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[这款二线电视是一款色彩丰富、功能强大且价值十足的电视。]]></description>
       <guid>https://www.wired.com/review/samsung-s90d-qd-oled/</guid>
       <pubDate>Thu, 15 Aug 2024 14:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>几乎所有 Google Pixel 手机都受到未修复的 Android 隐藏应用程序漏洞的影响</title>
-      <link>https://www.wired.com/story/google-android-pixel-showcase-vulnerability/</link>
-      <description><![CDATA[修复即将推出，但数据分析巨头 Palantir 表示将全面放弃 Android 设备，因为谷歌对该漏洞的回应令人担忧。]]></description>
-      <guid>https://www.wired.com/story/google-android-pixel-showcase-vulnerability/</guid>
-      <pubDate>Thu, 15 Aug 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
