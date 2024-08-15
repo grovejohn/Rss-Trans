@@ -4,11 +4,18 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 15 Aug 2024 13:35:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 14:13:22 GMT</lastBuildDate>
+    <item>
+      <title>三星 S90D QD-OLED 电视评测：价格低廉的旗舰级电视</title>
+      <link>https://www.wired.com/review/samsung-s90d-qd-oled/</link>
+      <description><![CDATA[这款二线电视是一款色彩丰富、功能强大且价值十足的电视。]]></description>
+      <guid>https://www.wired.com/review/samsung-s90d-qd-oled/</guid>
+      <pubDate>Thu, 15 Aug 2024 14:02:00 GMT</pubDate>
+    </item>
     <item>
       <title>几乎所有 Google Pixel 手机都受到未修复的 Android 隐藏应用程序漏洞的影响</title>
       <link>https://www.wired.com/story/google-android-pixel-showcase-vulnerability/</link>
-      <description><![CDATA[修复即将推出，但数据分析巨头 Palantir 表示将全面放弃 Android 设备，因为谷歌对该漏洞的回应令人担忧。]]></description>
+      <description><![CDATA[修复即将推出，但数据分析巨头 Palantir 表示将全面放弃 Android 设备，因为谷歌对该漏洞的响应令人担忧。]]></description>
       <guid>https://www.wired.com/story/google-android-pixel-showcase-vulnerability/</guid>
       <pubDate>Thu, 15 Aug 2024 13:00:00 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>谷歌对黑客和诈骗者采取法律行动</title>
       <link>https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/</link>
-      <description><![CDATA[这家科技巨头表示，其“积极诉讼”可以阻止不良行为并提高人们对不良行为的认识。但怀疑者怀疑这些诉讼是否太微不足道。]]></description>
+      <description><![CDATA[这家科技巨头表示，其“积极诉讼”可以阻止不良行为并提高人们对不良行为的认识。但怀疑者怀疑这些诉讼是否只是小事一桩。]]></description>
       <guid>https://www.wired.com/story/google-affirmative-litigation-hacker-scammer-lawsuits/</guid>
       <pubDate>Thu, 15 Aug 2024 10:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[安全研究人员称，他们已经从选定的电子储物柜中提取了数字管理钥匙，并揭示了如何克隆这些钥匙。]]></description>
       <guid>https://www.wired.com/story/electronic-locker-vulnerability/</guid>
       <pubDate>Wed, 14 Aug 2024 17:59:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 并未保护女性政治家免遭仇恨言论侵害</title>
-      <link>https://www.wired.com/story/instagram-gendered-abuse/</link>
-      <description><![CDATA[一份报告发现，Instagram 上 93% 针对女性候选人的暴力评论都被保留了下来，这种网络辱骂导致女性候选人放弃了竞选公职。]]></description>
-      <guid>https://www.wired.com/story/instagram-gendered-abuse/</guid>
-      <pubDate>Wed, 14 Aug 2024 17:59:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

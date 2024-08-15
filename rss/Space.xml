@@ -4,7 +4,14 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Thu, 15 Aug 2024 13:35:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 14:13:15 GMT</lastBuildDate>
+    <item>
+      <title>请愿书呼吁停止巨型星座发射以进行环境审查</title>
+      <link>https://www.space.com/petition-fcc-stop-megaconstellation-launches</link>
+      <description><![CDATA[美国一家非营利组织呼吁美国联邦通信委员会暂停卫星巨型星座的发射，直到对其对环境的影响进行评估。]]></description>
+      <guid>https://www.space.com/petition-fcc-stop-megaconstellation-launches</guid>
+      <pubDate>Thu, 15 Aug 2024 14:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 于 8 月 15 日发射两颗精准地球成像卫星（视频）</title>
       <link>https://www.space.com/spacex-maxar-worldview-legion-launch-august-2024</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[机器学习可以帮助科学家快速筛选有关这颗红色星球的数据，也许有一天还能帮助筛选有关宇宙其他方面的数据。]]></description>
       <guid>https://www.space.com/machine-learning-offworld-analysis-mars-missions</guid>
       <pubDate>Wed, 14 Aug 2024 19:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 驳斥有关其星际飞船发射台系统污染德克萨斯州水域的报道</title>
-      <link>https://www.space.com/spacex-starship-starbase-water-pollution-response</link>
-      <description><![CDATA[SpaceX 强烈驳斥了媒体的报道，该报道称该公司在南德克萨斯州排放与星际飞船发射有关的污染物，违反了环境法规。]]></description>
-      <guid>https://www.space.com/spacex-starship-starbase-water-pollution-response</guid>
-      <pubDate>Wed, 14 Aug 2024 18:30:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
