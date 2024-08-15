@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 15 Aug 2024 08:38:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2024 16:40:32 GMT</lastBuildDate>
+    <item>
+      <title>使用 Shiboken 为 C++ 代码生成 Python 绑定</title>
+      <link>https://alcarazzam.dev/posts/generate-python-bindings-shiboken/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://alcarazzam.dev/posts/generate-python-bindings-shiboken/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 15 Aug 2024 16:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>掌握跨平台桌面应用程序</title>
       <link>https://www.kdab.com/mastering-cross-platform-desktop-apps/?utm_source=atom_feed</link>
@@ -85,13 +92,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/08/09/this-week-in-kde-svg-breeze-cursors-and-more-thumbnails/?utm_source=atom_feed</guid>
       <pubDate>Sat, 10 Aug 2024 04:31:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-32 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/08/09/web-review-week-2024-32/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/08/09/web-review-week-2024-32/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 09 Aug 2024 12:16:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
