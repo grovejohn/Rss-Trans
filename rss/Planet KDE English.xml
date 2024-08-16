@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 15 Aug 2024 16:40:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 06:40:54 GMT</lastBuildDate>
+    <item>
+      <title>本地化旋转框前缀/后缀</title>
+      <link>https://www.volkerkrause.eu/2024/08/16/kf6-localized-spin-box-prefix-suffix.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/08/16/kf6-localized-spin-box-prefix-suffix.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 16 Aug 2024 05:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Shiboken 为 C++ 代码生成 Python 绑定</title>
       <link>https://alcarazzam.dev/posts/generate-python-bindings-shiboken/?utm_source=atom_feed</link>
@@ -85,13 +92,6 @@ download.kde.org
 与 Aleix Pol 一起，他是 KDE e.V. 总裁，也是 KDE Con​​nect、Plasma、Discover 和 KAlgebra 等产品的核心贡献开发者。]]></description>
       <guid>https://tube.kockatoo.org/w/op6JnEknfotW9QnQFginJp?utm_source=atom_feed</guid>
       <pubDate>Sat, 10 Aug 2024 15:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：SVG Breeze 光标和更多缩略图</title>
-      <link>https://pointieststick.com/2024/08/09/this-week-in-kde-svg-breeze-cursors-and-more-thumbnails/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/08/09/this-week-in-kde-svg-breeze-cursors-and-more-thumbnails/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 10 Aug 2024 04:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
