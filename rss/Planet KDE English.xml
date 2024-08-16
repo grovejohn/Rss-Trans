@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 16 Aug 2024 12:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2024 15:35:34 GMT</lastBuildDate>
     <item>
       <title>以新视角看待事物</title>
       <link>https://blog.broulik.de/2024/08/a-fresh-perspective-on-things/?utm_source=atom_feed</link>
@@ -71,7 +71,7 @@ download.kde.org
     <item>
       <title>第 11 周回顾 - 最后冲刺</title>
       <link>https://kenlo.hashnode.dev/week-11-recap-final-stretch?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[随着 GSOC 接近尾声，我正在收尾并准备好代码以供最终审查。仍然会偶尔出现罕见的极端情况，但总体而言，新的像素完美功能运行良好，可用于像素艺术。现在，重点是完成一些 UI 更改并将此新选项与良好的用户体验相结合。以下是我的导师 Emmett 演示的画笔操作示例：总之，我从这次经历中学到了很多东西，现在我已经从事了更大更复杂的任务，比如制作像素完美的工具，我感觉自己更有能力做出更多/更好的贡献。虽然我编写实际有意义的代码的速度相当慢，但我了解到，大部分工作实际上只是研究和尝试了解现有代码的工作原理。]]></description>
       <guid>https://kenlo.hashnode.dev/week-11-recap-final-stretch?utm_source=atom_feed</guid>
       <pubDate>Mon, 12 Aug 2024 13:53:53 GMT</pubDate>
     </item>
