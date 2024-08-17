@@ -4,7 +4,14 @@
     <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Fri, 16 Aug 2024 18:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2024 04:38:29 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE：系统设置现代化和 Wayland 色彩管理</title>
+      <link>https://pointieststick.com/2024/08/16/this-week-in-kde-system-settings-modernization-and-wayland-color-management/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/08/16/this-week-in-kde-system-settings-modernization-and-wayland-color-management/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 17 Aug 2024 03:23:49 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-33 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/08/16/web-review-week-2024-33/?utm_source=atom_feed</link>
@@ -81,15 +88,6 @@ download.kde.org
       <description><![CDATA[随着 GSOC 接近尾声，我正在收尾并准备好代码以供最终审查。仍然会偶尔出现罕见的极端情况，但总体而言，新的像素完美功能运行良好，可用于像素艺术。现在，重点是完成一些 UI 更改并将此新选项与良好的用户体验相结合。以下是我的导师 Emmett 演示的画笔操作示例：总之，我从这次经历中学到了很多东西，现在我已经从事了更大更复杂的任务，比如制作像素完美的工具，我感觉自己更有能力做出更多/更好的贡献。虽然我编写实际有意义的代码的速度相当慢，但我了解到，大部分工作实际上只是研究和尝试了解现有代码的工作原理。]]></description>
       <guid>https://kenlo.hashnode.dev/week-11-recap-final-stretch?utm_source=atom_feed</guid>
       <pubDate>Mon, 12 Aug 2024 13:53:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSoC 的最后一个月</title>
-      <link>https://alcarazzam.dev/posts/the-last-month-in-gsoc/?utm_source=atom_feed</link>
-      <description><![CDATA[我意识到距离我上次更新 GSoC 项目已经过去了将近一个月，所以是时候发布一个新的了。
-我一直在将 Python 绑定上传到其相应的存储库并处理评论。非常感谢 Nico、Christophe、Volker、Ben 和 Carl（我的导师）的评论！CMake 部分已经改进了很多，几乎可以合并了。CI 支持应该适用于 FreeBSD 和 Linux。如果人们感兴趣，我们可以添加对 Windows 的支持。
-我可能会在下周写一篇关于如何将 Python 绑定添加到库的教程。]]></description>
-      <guid>https://alcarazzam.dev/posts/the-last-month-in-gsoc/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 11 Aug 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
