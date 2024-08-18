@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 18 Aug 2024 12:52:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 17:36:03 GMT</lastBuildDate>
     <item>
       <title>GSoC 2024：进度更新</title>
       <link>https://joaotgouveia.com/blog/gsoc-2024-progress-update?utm_source=atom_feed</link>
@@ -47,6 +47,28 @@ Mankala，它将提供
 
 将 Mankala 和 MankalaEngine 集成到 KDE 中。]]></description>
       <guid>https://joaotgouveia.com/blog/gsoc-2024-progress-update?utm_source=atom_feed</guid>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>新 Craft 缓存 24.08 发布</title>
+      <link>https://blogs.kde.org/2024/08/18/new-craft-cache-24.08-published/?utm_source=atom_feed</link>
+      <description><![CDATA[新的 Craft 缓存刚刚发布。此更新已可用于 KDE 的 CD，CI 将在接下来的几小时或几天内推出。
+请注意，这仅适用于 Qt6 缓存。 Qt5 缓存自 2024 年 4 月起处于 LTS 模式，不再接收重大更新。
+更改（亮点）
+
+Qt 6.7.2
+FFmpeg 7.0.1
+llvm 18.1.8
+boost 1.86.0
+OpenSSL 3.3.1（也适用于 Android，直到最近仍为 1.1.1v）
+CMake 3.30.0
+Ninja 1.12.1
+删除了 qt-installer-framework（Windows）
+
+关于 KDE Craft
+KDE Craft 是一个开源元构建系统和包管理器。它管理依赖项并从源代码在 Windows、macOS、Linux、FreeBSD 和 Android 上构建库和应用程序。
+在 https://community.kde.org/Craft 上了解更多信息或加入 Matrix 房间 #kde-craft:kde.org]]></description>
+      <guid>https://blogs.kde.org/2024/08/18/new-craft-cache-24.08-published/?utm_source=atom_feed</guid>
       <pubDate>Sun, 18 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -118,13 +140,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://labplot.kde.org/2024/08/13/bad-information-drives-out-good-or-how-much-can-we-trust-wikipedia/?utm_source=atom_feed</guid>
       <pubDate>Tue, 13 Aug 2024 08:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE、Kubuntu、Debian Qt6 更新以及 Kubuntu Noble .1 更新。</title>
-      <link>https://www.scarlettgatelymoore.dev/kde-kubuntu-debian-qt6-updates-plus-kubuntu-noble-1-updates/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kde-kubuntu-debian-qt6-updates-plus-kubuntu-noble-1-updates/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 12 Aug 2024 16:33:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
