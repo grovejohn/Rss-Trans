@@ -4,7 +4,51 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 17 Aug 2024 18:38:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Aug 2024 12:52:43 GMT</lastBuildDate>
+    <item>
+      <title>GSoC 2024：进度更新</title>
+      <link>https://joaotgouveia.com/blog/gsoc-2024-progress-update?utm_source=atom_feed</link>
+      <description><![CDATA[构建
+ECM
+我已将 ECM 添加为依赖项，
+现在正在使用它的一些模块。虽然这会带来添加额外依赖项的缺点，但 ECM 在 KDE 应用程序中相当常见，因此可以合理地假设大多数用户已经在其系统上安装了它。
+该项目现在使用
+KDEInstallDirs6、
+KDECMakeSettings 和
+KDECompilerSettings
+ECM 模块，使默认构建设置与 KDE 软件的其余部分保持一致。
+我还集成了
+ECMAddTests，它
+大大简化了与测试相关的 CMakeLists 文件。
+PImpl
+库中的类已重构为使用 PImpl 习语，正如
+Albert 所建议的那样。
+这提高了 ABI 兼容性，并与
+KDE 关于 C++ 二进制兼容性问题的政策保持一致。
+测试
+库使用的测试框架已从 Google Test 切换到
+Qt Test。Google Test 严格遵守一些 Google 政策，这些政策
+可能会在未来带来麻烦，例如迅速放弃对
+旧编译器的支持。此外，Qt Test 似乎与 KDE 的 CI 集成得更好。
+例如，Google Test 无法在 Android 管道上编译，但
+
+迁移到 Qt Test 完全解决了这个问题，无需任何
+
+解决方法。
+Mankala
+为了使用 MankalaEngine，我正在开发一个 GUI，
+
+Mankala，它将提供
+
+来自 Mancala 系列的游戏。我已经开始学习 Qt，
+
+在 GSoC 的剩余几周里，开发它将是我的主要工作重点。
+我计划在 GSoC 结束后继续从事这个项目，并最终
+
+将 Mankala 和 MankalaEngine 集成到 KDE 中。]]></description>
+      <guid>https://joaotgouveia.com/blog/gsoc-2024-progress-update?utm_source=atom_feed</guid>
+      <pubDate>Sun, 18 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE：系统设置现代化和 Wayland 色彩管理</title>
       <link>https://pointieststick.com/2024/08/16/this-week-in-kde-system-settings-modernization-and-wayland-color-management/?utm_source=atom_feed</link>
@@ -81,13 +125,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-kubuntu-debian-qt6-updates-plus-kubuntu-noble-1-updates/?utm_source=atom_feed</guid>
       <pubDate>Mon, 12 Aug 2024 16:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 11 周回顾 - 最后冲刺</title>
-      <link>https://kenlo.hashnode.dev/week-11-recap-final-stretch?utm_source=atom_feed</link>
-      <description><![CDATA[随着 GSOC 接近尾声，我正在收尾并准备好代码以供最终审查。仍然会偶尔出现罕见的极端情况，但总体而言，新的像素完美功能运行良好，可用于像素艺术。现在，重点是完成一些 UI 更改并将此新选项与良好的用户体验相结合。以下是我的导师 Emmett 演示的画笔操作示例：总之，我从这次经历中学到了很多东西，现在我已经从事了更大更复杂的任务，比如制作像素完美的工具，我感觉自己更有能力做出更多/更好的贡献。虽然我编写实际有意义的代码的速度相当慢，但我了解到，大部分工作实际上只是研究和尝试了解现有代码的工作原理。]]></description>
-      <guid>https://kenlo.hashnode.dev/week-11-recap-final-stretch?utm_source=atom_feed</guid>
-      <pubDate>Mon, 12 Aug 2024 13:53:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
