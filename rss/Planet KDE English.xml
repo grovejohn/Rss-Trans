@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 20 Aug 2024 14:37:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 17:13:07 GMT</lastBuildDate>
+    <item>
+      <title>等离子速成课程 - KCrash</title>
+      <link>https://kde.haraldsitter.eu/posts/plasma-crash-course-kcrash/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.haraldsitter.eu/posts/plasma-crash-course-kcrash/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 20 Aug 2024 16:42:58 GMT</pubDate>
+    </item>
     <item>
       <title>消息传递 API（SIMPL）</title>
       <link>https://euroquis.nl//blabla/2024/08/20/simpl.html?utm_source=atom_feed</link>
@@ -154,13 +161,6 @@ KDE Craft 是一个开源元构建系统和包管理器。它管理依赖项并�
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/08/16/kf6-localized-spin-box-prefix-suffix.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 16 Aug 2024 05:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Shiboken 为 C++ 代码生成 Python 绑定</title>
-      <link>https://alcarazzam.dev/posts/generate-python-bindings-shiboken/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://alcarazzam.dev/posts/generate-python-bindings-shiboken/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 15 Aug 2024 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
