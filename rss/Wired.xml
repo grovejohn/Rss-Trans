@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Tue, 20 Aug 2024 21:36:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Aug 2024 22:13:18 GMT</lastBuildDate>
+    <item>
+      <title>AWS 配置问题可能暴露数千个 Web 应用程序</title>
+      <link>https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/</link>
+      <description><![CDATA[亚马逊已更新了有关客户如何更安全地实施 AWS 流量路由服务（称为应用程序负载均衡器）的说明，但目前尚不清楚每个人都会收到这份备忘录。]]></description>
+      <guid>https://www.wired.com/story/aws-application-load-balancer-implementation-compromise/</guid>
+      <pubDate>Tue, 20 Aug 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>23 款最佳返校优惠（2024 年）：背包、充电器、笔记本电脑</title>
       <link>https://www.wired.com/story/back-to-school-deals-2024/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该应用将从免费工作区中删除旧帖子。以下是存档所有内容的方法——如果您愿意，还可以将您的社区转移到 Discord。]]></description>
       <guid>https://www.wired.com/story/how-to-move-slack-archive-to-discord/</guid>
       <pubDate>Tue, 20 Aug 2024 13:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 22 款最佳无线充电器，经过测试和评测</title>
-      <link>https://www.wired.com/gallery/best-wireless-chargers/</link>
-      <description><![CDATA[别再在黑暗中摸索着找电缆了。这些经过 WIRED 测试的支架和垫子将让您轻松为手机、无线耳机和手表充电。]]></description>
-      <guid>https://www.wired.com/gallery/best-wireless-chargers/</guid>
-      <pubDate>Tue, 20 Aug 2024 13:02:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
