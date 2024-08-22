@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Thu, 22 Aug 2024 13:35:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2024 14:13:37 GMT</lastBuildDate>
+    <item>
+      <title>哈勃在无结构星系中发现结构</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-finds-structure-in-an-unstructured-galaxy/</link>
+      <description><![CDATA[这张 NASA 哈勃太空望远镜拍摄的照片展示了附近的矮不规则星系狮子座 A，距离我们约 260 万光年。这个小星系中恒星分布相对开放，使得来自遥远背景星系的光线可以穿透。天文学家研究狮子座 A 等矮星系是因为它们数量众多，可能为寻找 […] 提供线索]]></description>
+      <guid>https://science.nasa.gov/missions/hubble/hubble-finds-structure-in-an-unstructured-galaxy/</guid>
+      <pubDate>Thu, 22 Aug 2024 13:45:31 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局瓦洛普斯飞机和机场运营的最新情况</title>
       <link>https://www.nasa.gov/centers-and-facilities/wallops/update-on-nasa-wallops-aircraft-and-airfield-operations/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[当 Amelia “Mia” De Herrera-Schnering 告诉队友“我们已收到 AOS”（即“获取信号”）时，墙上的大型显示器显示倒计时已过 17 秒。Alexander Pichler 回答道：“收到，谢谢。”两人现在与 NASA 的 IXPE（成像 X 射线偏振仪探测器）航天器保持联系，将 IXPE 的科学数据传输到地面站 […]]]></description>
       <guid>https://science.nasa.gov/missions/ixpe/how-students-learn-to-fly-nasas-ixpe-spacecraft/</guid>
       <pubDate>Wed, 21 Aug 2024 15:32:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈勃望远镜观察恒星形成中心</title>
-      <link>https://science.nasa.gov/missions/hubble/hubble-peers-into-the-center-of-a-star-forming-powerhouse/</link>
-      <description><![CDATA[这幅来自美国宇航局哈勃太空望远镜的画面直入螺旋星系梅西耶 33 (M33) 的中心，也称为三角座星系。M33 位于三角形的三角座内，大小约为银河系的一半，是继仙女座星系 (M31) 之后本星系群中第三大成员 […]]]></description>
-      <guid>https://science.nasa.gov/missions/hubble/hubble-peers-into-the-center-of-a-star-forming-powerhouse/</guid>
-      <pubDate>Wed, 21 Aug 2024 14:37:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
