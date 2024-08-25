@@ -4,7 +4,19 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 25 Aug 2024 10:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Aug 2024 20:36:20 GMT</lastBuildDate>
+    <item>
+      <title>Raspberry Pi 5 上的 NextCloudPi</title>
+      <link>http://www.thelins.se/johan/blog/2024/08/nextcloudpi-on-raspberry-pi-5/?utm_source=atom_feed</link>
+      <description><![CDATA[我最终花了一个晚上的时间在带有较大 NVMe 驱动器的 Raspberry Pi 5 上安装了 NextCloudPi。这并不顺利。为了您的方便，以下是我让它工作的方式。
+首先，使用 Jeff Geerling 的指南让 Pi 从 NVMe 驱动器启动。
+其次，使用本指南从 Debian 网络迁移到 systemd-networkd，但不要保留 avahi-daemon 包。
+第三，运行NextCloudPi curl 安装脚本。
+接下来——从我的旧实例迁移。我有 1.5TB 的文件在通过 USB 连接的旋转磁盘上，我需要将其移动到新的 NVMe 存储——但那是另一个晚上的事了。
+记录在案——我确实喜欢 NextCloud 和 NextCloudPi，所以这里没有指责，只是分享一些挫败感以及我如何解决这个问题。]]></description>
+      <guid>http://www.thelins.se/johan/blog/2024/08/nextcloudpi-on-raspberry-pi-5/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 25 Aug 2024 19:35:44 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE：每个显示器的亮度控制和“更新然后关闭”</title>
       <link>https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/?utm_source=atom_feed</link>
@@ -51,13 +63,6 @@
       <description><![CDATA[]]></description>
       <guid>https://seri037.github.io/blog/posts/development/5/?utm_source=atom_feed</guid>
       <pubDate>Thu, 22 Aug 2024 15:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现音频混音器，第一部分</title>
-      <link>https://www.kdab.com/implementing-an-audio-mixer-part-1/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/implementing-an-audio-mixer-part-1/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 22 Aug 2024 07:00:59 GMT</pubDate>
     </item>
     <item>
       <title>哪里 ⚙️ 齿轮 24.08</title>
