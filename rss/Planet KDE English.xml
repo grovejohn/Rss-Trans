@@ -4,7 +4,37 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 26 Aug 2024 10:40:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 19:12:45 GMT</lastBuildDate>
+    <item>
+      <title>凯特与字体</title>
+      <link>https://kate-editor.org/post/2024/2024-08-26-kate-and-fonts/?utm_source=atom_feed</link>
+      <description><![CDATA[随着 Qt 6.7 的发布，Qt 为文本渲染和字体塑造引入了广泛的改进。
+其中一个元素是您现在可以配置 OpenType 字体功能。
+许多“新酷”编程字体都集成了此类功能。
+其中包括免费字体，例如 Cascadia Code，或付费字体，例如 MonoLisa。
+让我们以 Cascadia Code 的功能为例，这是他们在 GitHub 页面上推广的内容：
+
+
+
+
+
+例如，如果您设置了 ss01 功能，您会得到一些替代斜体。
+MonoLisa 也是如此，那里有 ss02 功能。
+已经表明：这些功能通常没有非常有用的名称，并且非常特定于字体。
+感谢 Waqar 和我，随着即将发布的 KF 6.6 版本，人们将能够在 Kate 和其他基于 KTextEditor 的应用程序中配置它。
+通用 KDE 框架字体选择器现在允许配置这些内容，并且 KTextEditor 将保留这些设置。
+在此处查看 Kate 中启用的替代斜体，增强型字体选择器仍然打开（查看代码中的 SPDX 标记）：
+
+
+
+
+
+剩下的问题是如何以更通用的方式最好地处理配置保存。
+欢迎提出如何将其添加到 KConfig 而不破坏我们编写的配置文件与旧应用程序的兼容性的想法。
+对于 KTextEditor，我们只为旧版本将忽略的功能添加一些额外的键。]]></description>
+      <guid>https://kate-editor.org/post/2024/2024-08-26-kate-and-fonts/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 26 Aug 2024 18:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>FrOScon 2024</title>
       <link>https://carlschwan.eu/2024/08/26/froscon-2024/?utm_source=atom_feed</link>
@@ -105,13 +135,6 @@ Matrix Stand
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/implementing-an-audio-mixer-part-1/?utm_source=atom_feed</guid>
       <pubDate>Thu, 22 Aug 2024 07:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里 ⚙️ 齿轮 24.08</title>
-      <link>https://kde.org/announcements/gear/24.08.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/gear/24.08.0/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
