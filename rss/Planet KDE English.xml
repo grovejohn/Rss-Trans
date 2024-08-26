@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 25 Aug 2024 22:37:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Aug 2024 08:40:49 GMT</lastBuildDate>
+    <item>
+      <title>蓝天使标准修订版中的新内容</title>
+      <link>https://eco.kde.org/blog/2024-08-26-revised-blue-angel-criteria/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://eco.kde.org/blog/2024-08-26-revised-blue-angel-criteria/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Raspberry Pi 5 上的 NextCloudPi</title>
       <link>http://www.thelins.se/johan/blog/2024/08/nextcloudpi-on-raspberry-pi-5/?utm_source=atom_feed</link>
@@ -84,44 +91,6 @@
       <description><![CDATA[]]></description>
       <guid>https://kde.haraldsitter.eu/posts/plasma-crash-course-kcrash/?utm_source=atom_feed</guid>
       <pubDate>Tue, 20 Aug 2024 16:42:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>消息传递 API（SIMPL）</title>
-      <link>https://euroquis.nl//blabla/2024/08/20/simpl.html?utm_source=atom_feed</link>
-      <description><![CDATA[在 KDE 世界中，有一个著名的周末，DCOP（桌面通信对象协议）诞生了，为 KParts 之类的东西奠定了基础。GNOME 选择了 CORBA 对象模型，而后来，自由桌面世界决定使用 DBus 作为消息传递 API。但即使在当时，也有其他消息传递 API。在工作中，我使用一个名为 SIMPL 的消息传递 API，这有点像 90 年代后期 DCOP 的呼喊。
-
-请注意，我对“历史”的介绍只是我现在记得的 15 年前已经是“篝火旁讲的故事”的事件。
-欢迎更正（通过电子邮件）。
-
-在工作中，SIMPL 是既定事实，它有包装器和抽象，因此有一个不错的 C++ 风格 API 围绕着它。其核心是
-点对点消息传递 API，完全没有关于消息负载的策略。这既是一种祝福——没有策略意味着它可以
-用于您认为必要的任何类型的消息——也是一种诅咒——没有策略意味着您最终会编写一堆抽象来
-表示您实际使用的消息。
-包装在 C++ 级别的代码看起来像这样（有效地掩盖了
-底层传输）：
-auto reply = CoordinatorTask().Send(requests::GetCurrentUser());
-if(reply.has_value()) {
-do_something(reply.value().username); ...
-
-网上似乎没有太多关于 SIMPL 的内容了。
-2000 年有一篇 LinuxDevices 文章，当时 SIMPL 作为一个开源项目正在积极开发中
-2015 年有一篇 LWN 评论 仍然提到它，还有一篇 维基百科文章 作为历史记录。请注意，维基百科上的网站链接指向现在的垃圾邮件域。我再也无法快速找到资源了。
-我确实想知道，当时的桌面开发人员是否完全错过了这种现有的消息传递机制——也许 SIMPL 的作者过于专注于工业自动化，在 X11 桌面空间中看不到，在当时进行了大量 KDE 开发的 SunOS 和其他平台上也看不到。
-SIMPL 库开发人员在文档中反复强调的一件事（有一本书）是做一件事并做好的理念。因此，序列化和消息有效负载不是其中的一部分——没有政策。因此，安全性和访问控制不是他的政策的一部分。
-
-这些问题可以放在 SIMPL 之上的不同 API 层中。
-SIMPL 作者强调的另一件事是只做一件事，并做好它。这尤其适用于使用 SIMPL 的应用程序。
-
-在库的深处，这意味着只能为应用程序注册一个名称（为了发现还有哪些其他应用程序，每个应用程序在系统中都有一个唯一的名称）。
-
-由于使用全局状态，这会导致线程安全性不足。
-
-这会导致无上下文的 API，因此应用程序所能做的就是调用“给我下一条传入消息”。没有事件循环的概念，
-也没有明显的机制将 SIMPL 消息处理集成到另一个事件循环（如 X11 循环）中。
-对我个人而言，这意味着我需要在往返于家和工作之间的途中重新调整我的大脑，将围绕 DBus 的 Qt 包装器切换到围绕 SIMPL 的工作包装器，以及两者的微妙之处。
-实际上，这意味着大部分时间都在诅咒 QtDBus（因为我在两者上投入的时间相对较多）。]]></description>
-      <guid>https://euroquis.nl//blabla/2024/08/20/simpl.html?utm_source=atom_feed</guid>
-      <pubDate>Mon, 19 Aug 2024 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
