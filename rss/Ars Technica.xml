@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 27 Aug 2024 20:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 21:13:12 GMT</lastBuildDate>
+    <item>
+      <title>X 的 Grok 在搞砸了基本投票问题后将引导用户访问 Vote.gov</title>
+      <link>https://arstechnica.com/?p=2045662</link>
+      <description><![CDATA[在错误地声称投票截止日期已过后，Grok 会将用户发送到 Vote.gov。]]></description>
+      <guid>https://arstechnica.com/?p=2045662</guid>
+      <pubDate>Tue, 27 Aug 2024 20:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>原来马丁·史克瑞利抄袭了他价值 200 万美元的武当专辑——并将其发送给“50 个不同的女孩”</title>
+      <link>https://arstechnica.com/?p=2045671</link>
+      <description><![CDATA[“当然，我制作了 MP3 副本，它们就像藏在世界各地的保险箱里一样。”]]></description>
+      <guid>https://arstechnica.com/?p=2045671</guid>
+      <pubDate>Tue, 27 Aug 2024 20:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局不得不对其 SLS 发射塔的最新成本估算进行调查</title>
+      <link>https://arstechnica.com/?p=2045558</link>
+      <description><![CDATA[“美国宇航局官员告诉我们，他们不打算要求固定价格提案。”]]></description>
+      <guid>https://arstechnica.com/?p=2045558</guid>
+      <pubDate>Tue, 27 Aug 2024 20:18:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于“开源人工智能”一词的争论为正式定义带来了新的推动力</title>
+      <link>https://arstechnica.com/?p=2045225</link>
+      <description><![CDATA[声称是“开源”的限制性人工智能模型许可证引发了明确的标准。]]></description>
+      <guid>https://arstechnica.com/?p=2045225</guid>
+      <pubDate>Tue, 27 Aug 2024 20:07:33 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊上出售的纹身墨水含有大量奇怪而罕见的细菌</title>
       <link>https://arstechnica.com/?p=2045628</link>
@@ -22,7 +50,7 @@
     <item>
       <title>联邦政府拨款 5.21 亿美元用于电动汽车充电器建设，但进展缓慢</title>
       <link>https://arstechnica.com/?p=2045600</link>
-      <description><![CDATA[该奖项是价值 75 亿美元的电动汽车充电基础设施计划的一部分。]]></description>
+      <description><![CDATA[该奖项是价值 75 亿美元的电动汽车充电器基础设施计划的一部分。]]></description>
       <guid>https://arstechnica.com/?p=2045600</guid>
       <pubDate>Tue, 27 Aug 2024 18:27:23 GMT</pubDate>
     </item>
@@ -46,34 +74,6 @@
       <description><![CDATA[苹果公司高管层的变动相当罕见。]]></description>
       <guid>https://arstechnica.com/?p=2045523</guid>
       <pubDate>Tue, 27 Aug 2024 17:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 未能通知 911 呼叫中心中断，支付 95 万美元以和解调查</title>
-      <link>https://arstechnica.com/?p=2045525</link>
-      <description><![CDATA[技术人员在测试期间意外禁用了部分 AT&amp;T 网络。]]></description>
-      <guid>https://arstechnica.com/?p=2045525</guid>
-      <pubDate>Tue, 27 Aug 2024 16:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>马克·扎克伯格后悔没有抵制拜登的新冠“施压”运动</title>
-      <link>https://arstechnica.com/?p=2045489</link>
-      <description><![CDATA[Meta 首席执行官表示，Facebook“准备好反击”政府的删除要求。]]></description>
-      <guid>https://arstechnica.com/?p=2045489</guid>
-      <pubDate>Tue, 27 Aug 2024 15:32:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客利用恶意软件感染 ISP，窃取客户凭证</title>
-      <link>https://arstechnica.com/?p=2045401</link>
-      <description><![CDATA[自 6 月份以来被用来感染 ISP 的零日漏洞终于得到修复。]]></description>
-      <guid>https://arstechnica.com/?p=2045401</guid>
-      <pubDate>Tue, 27 Aug 2024 14:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>“艺术品应该由 SEC 监管吗？”NFT 艺术家提起诉讼</title>
-      <link>https://arstechnica.com/?p=2045482</link>
-      <description><![CDATA[美国证券交易委员会（SEC）曾裁定，一些NFT数字艺术品属于未注册证券。]]></description>
-      <guid>https://arstechnica.com/?p=2045482</guid>
-      <pubDate>Tue, 27 Aug 2024 13:54:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
