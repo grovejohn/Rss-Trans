@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 08:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 12:26:56 GMT</lastBuildDate>
+    <item>
+      <title>Calligra Office 4.0 已推出！</title>
+      <link>https://carlschwan.eu/2024/08/27/calligra-office-4.0-is-out/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://carlschwan.eu/2024/08/27/calligra-office-4.0-is-out/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 27 Aug 2024 11:05:00 GMT</pubDate>
+    </item>
     <item>
       <title>GSoC '24 更新 - 将 Arianna 移植到 Foliate-js</title>
       <link>https://ajay2.vercel.app/posts/gsoc2/?utm_source=atom_feed</link>
@@ -118,8 +125,8 @@ MonoLisa 也是如此，那里有 ss02 功能。
       <link>https://carlschwan.eu/2024/08/26/froscon-2024/?utm_source=atom_feed</link>
       <description><![CDATA[今年，我第一次参加了 FrOScon。
 FrOScon 是德国最大的免费开源软件会议。它每年周末在德国波恩/锡格堡举行，免费参加。
-这是我第一次没有参加会议来为 KDE 展台配备工作人员。我的雇主
-在那里设立了一个展台，这对我来说是一个很好的机会，可以结识一些同事、
+这是我第一次没有参加会议来为 KDE 展台配备人员。我的雇主
+在那里有一个展台，这对我来说是一个很好的机会，可以结识一些同事、
 KDE 同事和 Matrix 贡献者。
 
 
@@ -128,7 +135,7 @@ KDE 同事和 Matrix 贡献者。
 GnuPG Stand
 
 所以我大部分时间都待在 GnuPG 展台上，和 Volker 讨论了很多事情，包括 KDE PIM 和 KWallet 的未来。
-我还认识了许多 Matrix 社区成员我很高兴参加下个月的
+我还认识了许多 Matrix 社区成员，很高兴参加下个月的
 Matrix 会议。
 
 
@@ -136,8 +143,7 @@ Matrix 会议。
 
 Matrix Stand
 
-总之，这是一次很棒的会议，我希望明年能看到更多 KDE 人
-甚至可能有自己的 KDE 展台。]]></description>
+总之，这是一次很棒的会议，我希望明年能看到更多 KDE 人，甚至可能有自己的 KDE 展台。]]></description>
       <guid>https://carlschwan.eu/2024/08/26/froscon-2024/?utm_source=atom_feed</guid>
       <pubDate>Mon, 26 Aug 2024 08:45:00 GMT</pubDate>
     </item>
@@ -199,13 +205,6 @@ Matrix Stand
 我主要与我的导师互动，他们非常乐于助人。虽然不太频繁，但我也有机会通过邮件列表与其他 KDE 贡献者交流，从他们那里我也学到了很多东西。]]></description>
       <guid>https://joaotgouveia.com/blog/gsoc-2024-wrapping-up?utm_source=atom_feed</guid>
       <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSoC '24 进展：第 9 至第 12 周</title>
-      <link>https://seri037.github.io/blog/posts/development/5/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://seri037.github.io/blog/posts/development/5/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 22 Aug 2024 15:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
