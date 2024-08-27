@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 21:12:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 22:39:15 GMT</lastBuildDate>
+    <item>
+      <title>Plasma 速成课程 - coredumpd</title>
+      <link>https://kde.haraldsitter.eu/posts/plasma-crash-course-coredumpd/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.haraldsitter.eu/posts/plasma-crash-course-coredumpd/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 27 Aug 2024 22:08:38 GMT</pubDate>
+    </item>
     <item>
       <title>KDE neon 基础调整进展</title>
       <link>https://blog.neon.kde.org/2024/08/27/kde-neon-rebase-progressing/?utm_source=atom_feed</link>
@@ -92,6 +99,40 @@ Matrix Stand
       <pubDate>Mon, 26 Aug 2024 08:45:00 GMT</pubDate>
     </item>
     <item>
+      <title>春奈 1.2.0</title>
+      <link>https://haruna.kde.org/blog/2024-08-26-haruna-1.2.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Haruna 1.2.0 版推出了新的页脚样式。
+
+
+
+
+
+其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
+Windows 版本：
+
+haruna-1.2.0-windows-gcc-x86_64.exe
+haruna-1.2.0-windows-gcc-x86_64.7z
+haruna-1.2.0-windows-gcc-x86_64-dbg.7z
+
+如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
+功能请求和错误应发布在 bugs.kde.org 上，但对于错误，请确保填写模板并提供尽可能多的信息。
+
+变更日志：
+1.2.0
+
+添加了浮动页脚/底部工具栏样式，有两种触发方式：
+
+每次鼠标移动视频区域时
+仅当鼠标位于视频区域的下部时
+
+
+删除了docbook 并将其内容移至工具提示
+单击播放列表中间可滚动到正在播放的项目
+]]></description>
+      <guid>https://haruna.kde.org/blog/2024-08-26-haruna-1.2.0/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 26 Aug 2024 03:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>蓝天使标准修订版中的新内容</title>
       <link>https://eco.kde.org/blog/2024-08-26-revised-blue-angel-criteria/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -109,20 +150,6 @@ Matrix Stand
 记录在案——我确实喜欢 NextCloud 和 NextCloudPi，所以这里没有指责，只是分享一些挫败感以及我如何解决这个问题。]]></description>
       <guid>http://www.thelins.se/johan/blog/2024/08/nextcloudpi-on-raspberry-pi-5/?utm_source=atom_feed</guid>
       <pubDate>Sun, 25 Aug 2024 19:35:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE：每个显示器的亮度控制和“更新然后关闭”</title>
-      <link>https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/08/23/this-week-in-kde-per-monitor-brightness-control-and-update-then-shut-down/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 24 Aug 2024 02:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-34 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/08/23/web-review-week-2024-34/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/08/23/web-review-week-2024-34/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 23 Aug 2024 20:37:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
