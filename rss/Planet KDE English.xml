@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 26 Aug 2024 22:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 08:40:00 GMT</lastBuildDate>
     <item>
       <title>GSoC '24 更新 - 将 Arianna 移植到 Foliate-js</title>
       <link>https://ajay2.vercel.app/posts/gsoc2/?utm_source=atom_feed</link>
@@ -27,22 +27,23 @@
 
 
 light: {
-fg: Config.invert ? Kirigami.Theme.backgroundColor.toString() : Kirigami.Theme.textColor.toString(),
-bg: Config.invert ? Kirigami.Theme.textColor.toString() : Kirigami.Theme.backgroundColor.toString()
+fg：Config.invert ? Kirigami.Theme.backgroundColor.toString() : Kirigami.Theme.textColor.toString(),
+bg：Config.invert ? Kirigami.Theme.textColor.toString() : Kirigami.Theme.backgroundColor.toString()
 }
 
 用户体验和功能改进
 
-滑块和进度百分比：我修复了滑块功能，确保它准确反映阅读进度。此更新可确保用户能够精确跟踪他们在电子书中的进度。
+滑块和进度百分比：我修复了滑块功能，确保它准确反映阅读进度。此更新确保用户可以通过电子书跟踪他们的进度。
+提交：ee6cae02
 
 QC2.Slider {
-anchors.fill: parent
-value: backend.progress * value
-onMoved: {
+anchors.fill：parent
+value：backend.progress * value
+onMoved：{
 backend.progress = value
 }
-onPressedChanged: {
-if (pressed) {
+onPressedChanged：{
+if（pressed）{
 backend.progress = value
 }
 }
@@ -51,12 +52,18 @@ Layout.fillWidth: true
 }
 
 
+阅读位置准确性：我还确保滑块在用户与其交互时准确反映阅读位置，从而提高整体可用性，以前的问题是移动滑块时不会改变书中的位置。
 
-阅读位置准确性：我还确保滑块在用户与其交互时准确反映阅读位置，从而提高整体可用性。
+为了解决这个问题，我实施了以下更改：
+onPressedChanged: {
+if (!pressed) {
+backend.progress = value;
+view.runJavaScript(`reader.view.goToFraction(${value})`);
+}
+}
 
 
 图书进度显示：我解决了图书进度显示、更新剩余时间计算和弹出行为的问题，改进了用户界面，带来更流畅的阅读体验。
-
 
 &gt; 反思和收获
 这个项目是一次重要的学习经历。
@@ -111,7 +118,7 @@ MonoLisa 也是如此，那里有 ss02 功能。
       <link>https://carlschwan.eu/2024/08/26/froscon-2024/?utm_source=atom_feed</link>
       <description><![CDATA[今年，我第一次参加了 FrOScon。
 FrOScon 是德国最大的免费开源软件会议。它每年周末在德国波恩/锡格堡举行，免费参加。
-这是我第一次没有参加会议来为 KDE 展台配备人员。我的雇主
+这是我第一次没有参加会议来为 KDE 展台配备工作人员。我的雇主
 在那里设立了一个展台，这对我来说是一个很好的机会，可以结识一些同事、
 KDE 同事和 Matrix 贡献者。
 
