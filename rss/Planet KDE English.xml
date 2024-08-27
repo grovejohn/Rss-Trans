@@ -4,7 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 27 Aug 2024 12:55:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 14:38:20 GMT</lastBuildDate>
+    <item>
+      <title>KDE neon 基础调整进展</title>
+      <link>https://blog.neon.kde.org/2024/08/27/kde-neon-rebase-progressing/?utm_source=atom_feed</link>
+      <description><![CDATA[在 KDE neon Tower，我们一直忙于将 KDE 软件版本从 Ubuntu 22.04 (jammy) 重新定位到 Ubuntu 24.04 (noble)。这总是比您想象的要花费更长的时间，主要是因为这是一个移动目标，所以我们还必须不断更新 Plasma、Frameworks、Gear 甚至 Calligra 的即将发布的版本。当 Jonathan 感染 Covid（4 年后值得同情）时，我们遇到了几次延迟，然后构建服务器出现问题并需要自行重建。但是软件包存档在那里，Docker 映像也在那里，今天第一个 ISO 已构建并成功启动。接下来的步骤是确保所有软件都是最新的，并确保升级稳定。很快会和你在一起！ 
+第一个基于 Noble 的 KDE neon ISO]]></description>
+      <guid>https://blog.neon.kde.org/2024/08/27/kde-neon-rebase-progressing/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 27 Aug 2024 14:26:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>清新微风对话框图标</title>
+      <link>https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 27 Aug 2024 14:01:00 GMT</pubDate>
+    </item>
     <item>
       <title>Calligra Office 4.0 已推出！</title>
       <link>https://carlschwan.eu/2024/08/27/calligra-office-4.0-is-out/?utm_source=atom_feed</link>
@@ -86,7 +101,7 @@ view.runJavaScript(`reader.view.goToFraction(${value})`);
 下一步是什么？
 虽然我的 GSoC 之旅即将结束，但我对 Arianna 和开源社区的贡献将继续。
 我要感谢我的导师，Carl Schwan，感谢整个项目、KDE ​​社区和 Google Summer of Code 计划提供的指导和支持。这次经历不仅让 Arianna 进步了，而且也是我作为一名开发人员的一次变革之旅。
-感谢您关注我的进展，下篇博客再见，我们将为您带来更多进展。]]></description>
+感谢您关注我的进展，下篇博客再见，我会告诉您更多进展。]]></description>
       <guid>https://ajay2.vercel.app/posts/gsoc2/?utm_source=atom_feed</guid>
       <pubDate>Mon, 26 Aug 2024 20:59:00 GMT</pubDate>
     </item>
@@ -179,32 +194,6 @@ Matrix Stand
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/08/23/web-review-week-2024-34/?utm_source=atom_feed</guid>
       <pubDate>Fri, 23 Aug 2024 20:37:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 中的指标 — 它们有用吗？</title>
-      <link>http://blog.davidedmundson.co.uk/blog/metrics-in-kde-are-they-useful/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>http://blog.davidedmundson.co.uk/blog/metrics-in-kde-are-they-useful/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 23 Aug 2024 09:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSoC 2024：总结</title>
-      <link>https://joaotgouveia.com/blog/gsoc-2024-wrapping-up?utm_source=atom_feed</link>
-      <description><![CDATA[最终产品
-整个夏天，我开发了一个名为 MankalaEngine 的 C++ 库，为 Bohnenspiel 和 Oware 游戏实现了三个对手。
-当前的库具有高度可扩展性。在实现所有基类和 Bohnenspiel 之后，将 Oware 添加到库中相当快速和直接。从项目开始以来，对可扩展性的关注一直是优先事项。鉴于 Mancala 系列游戏包含许多变体，考虑到这一点来设计 API 已被证明是有价值的。
-提供的三个对手使用随机选择算法、Minimax 和 MTD-f。 Minimax 和 MTD-f 对手通过 alpha-beta 修剪和转置表等优化实现，使它们都非常强大，并且始终优于随机对手。
-为了更详细地概述所取得的成就，我在 KDE 的 wiki 上撰写了一份
-工作报告。
-我学到了什么
-从技术角度来看，过去几个月是一段非常丰富的经历。
-为“现实世界”项目做出贡献让我学到了以前没有使用过的技术。例如，我学习了如何使用 CMake 以及如何设置 CI 管道。
-我还面临着在开发学校或个人项目时通常不会出现的问题，例如遵守组织的软件标准。为此，我了解了开源许可证和新的编程习惯用法。
-与社区互动
-由于 MankalaEngine 是一个全新的库，我与社区的互动有限，因为这个特定项目没有现有的贡献者群体。
-我主要与我的导师互动，他们非常乐于助人。虽然不太频繁，但我也有机会通过邮件列表与其他 KDE 贡献者交流，从他们那里我也学到了很多东西。]]></description>
-      <guid>https://joaotgouveia.com/blog/gsoc-2024-wrapping-up?utm_source=atom_feed</guid>
-      <pubDate>Fri, 23 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
