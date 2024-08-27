@@ -4,7 +4,17 @@
     <title>太空新闻</title>
     <link>https://spacenews.com</link>
     <description>报道太空商业和政治</description>
-    <lastBuildDate>Tue, 27 Aug 2024 14:13:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 17:36:09 GMT</lastBuildDate>
+    <item>
+      <title>阀门问题导致游隼号月球着陆器失灵</title>
+      <link>https://spacenews.com/valve-problem-blamed-for-peregrine-lunar-lander-failure/</link>
+      <description><![CDATA[
+
+Astrobotic 的 Peregrine由于单个阀门出现故障，月球着陆器无法登陆月球，因此该公司需要重新设计更大的格里芬着陆器的阀门和整体推进系统。
+文章阀门问题导致 Peregrine 月球着陆器故障首次出现在SpaceNews上。]]></description>
+      <guid>https://spacenews.com/valve-problem-blamed-for-peregrine-lunar-lander-failure/</guid>
+      <pubDate>Tue, 27 Aug 2024 17:31:50 GMT</pubDate>
+    </item>
     <item>
       <title>匈牙利太空：4iG 寻求垂直整合能力</title>
       <link>https://spacenews.com/hungary-for-space-4ig-seeks-vertically-integrated-capabilities/</link>
@@ -94,16 +104,6 @@ ReOrbit 是一家总部位于赫尔辛基的领先供应商软件优先卫星，
 文章太空天气：优先排序，而不是政策，是美国恢复力中缺失的一环首先出现在SpaceNews上。]]></description>
       <guid>https://spacenews.com/space-weather-prioritization-not-policy-missing-piece-us-resilience/</guid>
       <pubDate>Mon, 26 Aug 2024 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>星际客机将在没有宇航员的情况下从国际空间站返回</title>
-      <link>https://spacenews.com/starliner-to-return-from-iss-without-astronauts-on-board/</link>
-      <description><![CDATA[
-
- 波音公司的 CST-100 Starliner 将于 9 月从国际空间站返回，但机上将没有两名宇航员。NASA 认为推进器问题会带来太大风险。
-文章 Starliner 将在没有宇航员的情况下从国际空间站返回 首次出现在 SpaceNews 上。]]></description>
-      <guid>https://spacenews.com/starliner-to-return-from-iss-without-astronauts-on-board/</guid>
-      <pubDate>Sat, 24 Aug 2024 20:14:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
