@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 28 Aug 2024 17:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 17:37:48 GMT</lastBuildDate>
+    <item>
+      <title>微软将 Mono 捐赠给 Wine 项目，结束了漫长而奇怪的 FOSS 循环</title>
+      <link>https://arstechnica.com/?p=2045805</link>
+      <description><![CDATA[23 年来，Mono 曾有过许多归属，但 Wine 的仓库可能是它的最后一站。]]></description>
+      <guid>https://arstechnica.com/?p=2045805</guid>
+      <pubDate>Wed, 28 Aug 2024 17:15:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的人工智能模型可以实时幻化出 1993 年《毁灭战士》的游戏场景</title>
+      <link>https://arstechnica.com/?p=2045767</link>
+      <description><![CDATA[“当人工智能可以为你思考每一个像素时，为什么还要手工编写软件规则呢？”]]></description>
+      <guid>https://arstechnica.com/?p=2045767</guid>
+      <pubDate>Wed, 28 Aug 2024 17:06:09 GMT</pubDate>
+    </item>
     <item>
       <title>男子冒充青少年 YouTuber 因可怕的全球性勒索计划被判 17 年监禁</title>
       <link>https://arstechnica.com/?p=2045876</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[工程师们正在重新设计 Astrobotic 下一个月球着陆器的推进系统的部分部件。]]></description>
       <guid>https://arstechnica.com/?p=2045535</guid>
       <pubDate>Wed, 28 Aug 2024 13:35:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>三年多来 SpaceX 首次未能成功着陆助推器</title>
-      <link>https://arstechnica.com/?p=2045775</link>
-      <description><![CDATA[舰队领袖已遭遇灭亡。]]></description>
-      <guid>https://arstechnica.com/?p=2045775</guid>
-      <pubDate>Wed, 28 Aug 2024 13:20:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧款和新款 Ryzen CPU 通过可选的 Windows 更新获得速度提升</title>
-      <link>https://arstechnica.com/?p=2045537</link>
-      <description><![CDATA[事实证明，旧款 Ryzen CPU 的获益几乎与新款一样多。]]></description>
-      <guid>https://arstechnica.com/?p=2045537</guid>
-      <pubDate>Tue, 27 Aug 2024 21:47:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
