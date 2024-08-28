@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 28 Aug 2024 20:36:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 21:14:59 GMT</lastBuildDate>
     <item>
-      <title>人工智能图像生成公司 Midjourney 表示正在“进军硬件领域”</title>
+      <title>与 Boar’s Head 肉类有关的疫情再创纪录，五人死亡</title>
+      <link>https://arstechnica.com/?p=2046040</link>
+      <description><![CDATA[CDC 恳请消费者检查冰箱中是否有被召回的肉类。]]></description>
+      <guid>https://arstechnica.com/?p=2046040</guid>
+      <pubDate>Wed, 28 Aug 2024 20:50:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>在历史准确性遭到强烈抗议后，谷歌 AI 重新引入人类图像生成</title>
+      <link>https://arstechnica.com/?p=2045999</link>
+      <description><![CDATA[Ars 测试表明，一些历史提示不再生成人为多样化的场景。]]></description>
+      <guid>https://arstechnica.com/?p=2045999</guid>
+      <pubDate>Wed, 28 Aug 2024 20:31:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能公司 Midjourney 推出新形态硬件产品</title>
       <link>https://arstechnica.com/?p=2046020</link>
       <description><![CDATA[该公司聘请了一位曾在 Apple Vision Pro 工作过的硬件主管。]]></description>
       <guid>https://arstechnica.com/?p=2046020</guid>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 28 Aug 2024 17:50:21 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 为星际飞船发射台准备火箭，火花日夜飞溅</title>
+      <title>SpaceX 为星际飞船发射台准备火箭，火花四溅</title>
       <link>https://arstechnica.com/?p=2044794</link>
       <description><![CDATA[目前还不清楚升级需要多长时间，也不清楚美国联邦航空局何时会批准助推器捕获。]]></description>
       <guid>https://arstechnica.com/?p=2044794</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[澳大利亚警方称这是“历史上最严重的性勒索案件之一”。]]></description>
       <guid>https://arstechnica.com/?p=2045876</guid>
       <pubDate>Wed, 28 Aug 2024 16:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果解雇图书和新闻部门员工</title>
-      <link>https://arstechnica.com/?p=2045830</link>
-      <description><![CDATA[所有被裁员的人都来自该公司的快速服务部门。]]></description>
-      <guid>https://arstechnica.com/?p=2045830</guid>
-      <pubDate>Wed, 28 Aug 2024 16:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆马斯克的 Boring Company 无法让特斯拉 FSD 在隧道中运行</title>
-      <link>https://arstechnica.com/?p=2045900</link>
-      <description><![CDATA[尽管实现了“全自动驾驶”，特斯拉仍然无法应对单向隧道。]]></description>
-      <guid>https://arstechnica.com/?p=2045900</guid>
-      <pubDate>Wed, 28 Aug 2024 16:33:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
