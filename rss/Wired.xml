@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 29 Aug 2024 09:37:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 10:16:15 GMT</lastBuildDate>
+    <item>
+      <title>谷歌、苹果和 Discord 允许有害人工智能“脱衣”网站使用其登录系统</title>
+      <link>https://www.wired.com/story/undress-app-ai-harm-google-apple-login/</link>
+      <description><![CDATA[《连线》发现，多家大型科技公司的单点登录系统正在被纳入深度伪造生成器。Discord 和 Apple 已开始终止一些开发者的账户。]]></description>
+      <guid>https://www.wired.com/story/undress-app-ai-harm-google-apple-login/</guid>
+      <pubDate>Thu, 29 Aug 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>马丁·史克瑞利复制了价值 200 万美元的《武当》专辑，并将它们藏在“世界各地的保险箱里”</title>
       <link>https://www.wired.com/story/martin-shkreli-wu-tang-album-copies/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果您需要一台电脑，但又不想考虑所有的规格和外围设备，可以购买一台一体机。]]></description>
       <guid>https://www.wired.com/gallery/best-all-in-one-computers/</guid>
       <pubDate>Wed, 28 Aug 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plaud NotePin 是一款人工智能笔记记录器，可以记录你的会议和你的整个生活</title>
-      <link>https://www.wired.com/story/plaud-note-pin-ai-wearable/</link>
-      <description><![CDATA[Plaud 的人工智能 NotePin 记录并转录了你周围的所有对话。该公司计划在未来使用这些数据来构建你的数字孪生。]]></description>
-      <guid>https://www.wired.com/story/plaud-note-pin-ai-wearable/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
