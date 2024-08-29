@@ -4,38 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 29 Aug 2024 08:18:42 GMT</lastBuildDate>
-    <item>
-      <title>最大限度发挥桌面屏幕潜力的六个技巧</title>
-      <link>https://www.kdab.com/six-tips-for-maximizing-desktop-screen-potential/?utm_source=atom_feed</link>
-      <description><![CDATA[桌面软件与移动和嵌入式应用程序有许多不同之处，但其中最大、最明显的差异之一就是屏幕。您如何利用所有这些空间来开发应用程序？
-管理桌面应用程序屏幕的六个注意事项
-选择正确的 GUI 框架
-使用灵活的 GUI 框架，轻松支持构建具有不同分辨率的应用程序。在各种分辨率下，对话框、图形资产和界面所需的手动调整越少越好。
-在各种显示器上进行测试
-确保您拥有各种显示器来测试您的应用程序。当您的应用程序在 IT 提供的统一配置上进行测试时，很容易假设一切都运行良好。但是，当您的应用在较小、较大或不同的显示器上运行时，可能会出现视觉问题。
-设置明确的分辨率标准
-设置明确的最低分辨率，以有效支持您的应用的功能。确保所有对话框都适合屏幕，滚动条正常运行，屏幕外没有任何内容。此外，针对超高分辨率显示器（如 4K 和 8K）进行测试，以确保高 DPI 设置下的清晰度和可用性。验证文本是否清晰易读，控件是否显眼，可点击区域是否足够大以准确定位。
-设计适应性
-确保您的应用的用户界面不仅可扩展，而且适应性强。它应该根据分辨率重新配置自身，在功能和美观之间保持平衡。对话框应可调整大小，布局管理器应根据可用的屏幕空间动态调整组件位置。
-拥抱多显示器灵活性
-多显示器设置不再只是开发人员的专利。许多人使用笔记本电脑和更大的显示器。事实上，双屏配置可能比单屏更受欢迎。确保您的应用程序能够智能地处理这种灵活性，允许生成可移动到最适合用户的显示器的窗口或面板。
-自定义用户工作区
-借助可停靠工具栏、多文档界面或浮动检查器等功能，您可以允许用户自定义他们的工作区。这对于图形设计、音频/视频编辑和软件开发等应用尤其方便，因为这些应用需要在整个屏幕空间中分布各种工具、对话框、控件和视图。
-最后的想法
-针对多种屏幕分辨率和配置进行设计和测试是制作出色应用的一部分。随着屏幕技术的发展和用户期望的提高，您的应用充分利用超分辨率和多显示器设置的能力可能会让它脱颖而出。如果您对构建桌面应用程序的更多技巧感兴趣，您可能希望阅读我们相关的最佳实践指南。
-
-关于 KDAB
-
-如果您喜欢这篇文章并想阅读类似的材料，请考虑通过我们的 RSS 源订阅。
-订阅 KDAB TV 以获取类似的信息丰富的短视频内容。 
-KDAB 提供市场领先的软件咨询和开发服务以及 Qt、C++ 和 3D/OpenGL 方面的培训。联系我们。
-
- 
-文章最大化桌面屏幕潜力的六个技巧首先出现在KDAB上。]]></description>
-      <guid>https://www.kdab.com/six-tips-for-maximizing-desktop-screen-potential/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 29 Aug 2024 06:30:13 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 29 Aug 2024 14:38:38 GMT</lastBuildDate>
     <item>
       <title>使用 Plasma 请求捐赠</title>
       <link>https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/?utm_source=atom_feed</link>
@@ -146,6 +115,40 @@ Matrix Stand
 总之，这是一次很棒的会议，我希望明年能看到更多 KDE 人，甚至可能有自己的 KDE 展台。]]></description>
       <guid>https://carlschwan.eu/2024/08/26/froscon-2024/?utm_source=atom_feed</guid>
       <pubDate>Mon, 26 Aug 2024 08:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>春奈 1.2.0</title>
+      <link>https://haruna.kde.org/blog/2024-08-26-haruna-1.2.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Haruna 1.2.0 版推出了新的页脚样式。
+
+
+
+
+
+其他软件包格式的可用性取决于您的发行版和打包 Haruna 的人员。
+Windows 版本：
+
+haruna-1.2.0-windows-gcc-x86_64.exe
+haruna-1.2.0-windows-gcc-x86_64.7z
+haruna-1.2.0-windows-gcc-x86_64-dbg.7z
+
+如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
+功能请求和错误应发布在 bugs.kde.org 上，但对于错误，请确保填写模板并提供尽可能多的信息。
+
+变更日志：
+1.2.0
+
+添加了浮动页脚/底部工具栏样式，有两种触发方式：
+
+每次鼠标移动视频区域时
+仅当鼠标位于视频区域的下部时
+
+
+删除了docbook 并将其内容移至工具提示
+单击播放列表中间可滚动到正在播放的项目
+]]></description>
+      <guid>https://haruna.kde.org/blog/2024-08-26-haruna-1.2.0/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 26 Aug 2024 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
