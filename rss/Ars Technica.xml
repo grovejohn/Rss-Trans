@@ -4,9 +4,44 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 29 Aug 2024 20:15:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 22:13:35 GMT</lastBuildDate>
     <item>
-      <title>电影行业大力宣传“全球最大”盗版流媒体团伙被捣毁</title>
+      <title>EmuDeck 编码器转向基于 Linux 的“EmuDeck Machines”硬件</title>
+      <link>https://arstechnica.com/?p=2046260</link>
+      <description><![CDATA[项目负责人表示，这“主要是为了好玩”，但“我全身心投入到这件事中。”]]></description>
+      <guid>https://arstechnica.com/?p=2046260</guid>
+      <pubDate>Thu, 29 Aug 2024 21:25:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国：阿拉斯加男子使用多款加密应用，仍被发现持有 10,000 多张儿童性虐待图片</title>
+      <link>https://arstechnica.com/?p=2046303</link>
+      <description><![CDATA[仅靠加密并不能拯救你免受联邦调查局的追捕。]]></description>
+      <guid>https://arstechnica.com/?p=2046303</guid>
+      <pubDate>Thu, 29 Aug 2024 21:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌称克里姆林宫支持的黑客利用商业间谍软件供应商的漏洞</title>
+      <link>https://arstechnica.com/?p=2046289</link>
+      <description><![CDATA[调查结果削弱了 NSO 集团和 Intgellexa 不会滥用其产品的承诺。]]></description>
+      <guid>https://arstechnica.com/?p=2046289</guid>
+      <pubDate>Thu, 29 Aug 2024 21:05:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，苹果正试图投资 OpenAI</title>
+      <link>https://arstechnica.com/?p=2046261</link>
+      <description><![CDATA[OpenAI 的 ChatGPT 将于今年晚些时候内置到 iPhone 操作系统中。]]></description>
+      <guid>https://arstechnica.com/?p=2046261</guid>
+      <pubDate>Thu, 29 Aug 2024 20:45:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>联邦政府将提前使用 OpenAI 和 Anthropic AI 来测试世界末日情景</title>
+      <link>https://arstechnica.com/?p=2046240</link>
+      <description><![CDATA[人工智能公司一致认为，确保人工智能安全是创新的关键。]]></description>
+      <guid>https://arstechnica.com/?p=2046240</guid>
+      <pubDate>Thu, 29 Aug 2024 20:14:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>MPA 表示不会再与盗版网站“打地鼠”，并声称已关闭“母舰”</title>
       <link>https://arstechnica.com/?p=2046230</link>
       <description><![CDATA[MPA 首席执行官查尔斯·里夫金 (Charles Rivkin) 表示，Fmovies 的撤下“是一次惊人的胜利”。]]></description>
       <guid>https://arstechnica.com/?p=2046230</guid>
@@ -39,41 +74,6 @@
       <description><![CDATA[州长将在“过度监管”的担忧和人工智能专家的呼吁之间寻找平衡。]]></description>
       <guid>https://arstechnica.com/?p=2046140</guid>
       <pubDate>Thu, 29 Aug 2024 16:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家称聊天机器人为警察提供了歪曲警方报告的“终极出路”</title>
-      <link>https://arstechnica.com/?p=2046081</link>
-      <description><![CDATA[专家警告说，撰写警方报告的聊天机器人可能会犯严重的错误。]]></description>
-      <guid>https://arstechnica.com/?p=2046081</guid>
-      <pubDate>Thu, 29 Aug 2024 14:38:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟正在调查Telegram是否为逃避监管而淡化用户数量</title>
-      <link>https://arstechnica.com/?p=2046110</link>
-      <description><![CDATA[新的调查与法国对该平台的调查是分开的。]]></description>
-      <guid>https://arstechnica.com/?p=2046110</guid>
-      <pubDate>Thu, 29 Aug 2024 13:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telegram 首席执行官被指控多项罪名并被禁止离开法国</title>
-      <link>https://arstechnica.com/?p=2046072</link>
-      <description><![CDATA[这位亿万富翁必须缴纳 500 万欧元的保释金，并每周向警方报到两次。]]></description>
-      <guid>https://arstechnica.com/?p=2046072</guid>
-      <pubDate>Wed, 28 Aug 2024 21:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>监控摄像头中无法修补的 0day 漏洞正被用于安装 Mirai</title>
-      <link>https://arstechnica.com/?p=2046043</link>
-      <description><![CDATA[该漏洞很容易被利用，并允许攻击者远程执行命令。]]></description>
-      <guid>https://arstechnica.com/?p=2046043</guid>
-      <pubDate>Wed, 28 Aug 2024 21:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>全国范围内大规模肉类相关疫情导致 5 人死亡，为 2011 年以来最大规模</title>
-      <link>https://arstechnica.com/?p=2046040</link>
-      <description><![CDATA[CDC 恳请消费者检查冰箱中是否有召回的肉类。]]></description>
-      <guid>https://arstechnica.com/?p=2046040</guid>
-      <pubDate>Wed, 28 Aug 2024 20:50:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
