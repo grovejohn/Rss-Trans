@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 31 Aug 2024 10:37:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 12:53:10 GMT</lastBuildDate>
+    <item>
+      <title>为 Akademy 做好准备</title>
+      <link>https://blog.broulik.de/2024/08/getting-ready-for-akademy/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.broulik.de/2024/08/getting-ready-for-akademy/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 31 Aug 2024 10:55:50 GMT</pubDate>
+    </item>
     <item>
       <title>为 Akademy 做好准备</title>
       <link>https://blog.bembel.net/2024/08/getting-ready-for-akademy/?utm_source=atom_feed</link>
@@ -89,13 +96,6 @@ Qt for MCUs 2.5.4 LTS（长期支持）已发布并可供下载。此补丁版�
 ]]></description>
       <guid>https://www.qt.io/blog/qt-for-mcus-2.5.4-lts-released?utm_source=atom_feed</guid>
       <pubDate>Wed, 28 Aug 2024 12:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma 速成课程 - coredumpd</title>
-      <link>https://kde.haraldsitter.eu/posts/plasma-crash-course-coredumpd/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.haraldsitter.eu/posts/plasma-crash-course-coredumpd/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 27 Aug 2024 22:08:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
