@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 31 Aug 2024 01:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 08:39:30 GMT</lastBuildDate>
+    <item>
+      <title>为 Akademy 2024 做好准备</title>
+      <link>https://www.volkerkrause.eu/2024/08/31/kde-getting-ready-for-akademy-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/08/31/kde-getting-ready-for-akademy-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 31 Aug 2024 07:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周血浆：抑制抑制等等！</title>
       <link>https://pointieststick.com/2024/08/30/this-week-in-plasma-inhibiting-inhibitions-and-more/?utm_source=atom_feed</link>
@@ -79,13 +86,6 @@ Qt for MCUs 2.5.4 LTS（长期支持）已发布并可供下载。此补丁版�
 第一个基于 Noble 的 KDE neon ISO]]></description>
       <guid>https://blog.neon.kde.org/2024/08/27/kde-neon-rebase-progressing/?utm_source=atom_feed</guid>
       <pubDate>Tue, 27 Aug 2024 14:26:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>清新微风对话框图标</title>
-      <link>https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 27 Aug 2024 14:01:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
