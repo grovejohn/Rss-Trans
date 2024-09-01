@@ -4,7 +4,14 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sun, 01 Sep 2024 03:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 04:17:49 GMT</lastBuildDate>
+    <item>
+      <title>英格兰和威尔士东部雷暴警告</title>
+      <link>https://www.bbc.com/news/articles/cdrlmgjjprro</link>
+      <description><![CDATA[一些地区有发生洪水的风险，气象局表示，还可能出现冰雹和雷击。]]></description>
+      <guid>https://www.bbc.com/news/articles/cdrlmgjjprro</guid>
+      <pubDate>Sun, 01 Sep 2024 03:51:41 GMT</pubDate>
+    </item>
     <item>
       <title>金作为首相首次在巴尔莫勒尔宫接待斯塔默</title>
       <link>https://www.bbc.com/news/articles/c7v5q000medo</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[俄罗斯准备攻击波克罗夫斯克，这是乌克兰前线部队的重要补给和增援枢纽。]]></description>
       <guid>https://www.bbc.com/news/articles/c984g10e22lo</guid>
       <pubDate>Sat, 31 Aug 2024 17:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>英格兰和威尔士东部雷暴警告</title>
-      <link>https://www.bbc.com/news/articles/cdrlmgjjprro</link>
-      <description><![CDATA[一些地区有洪水风险，气象局表示，还可能出现冰雹和雷击。]]></description>
-      <guid>https://www.bbc.com/news/articles/cdrlmgjjprro</guid>
-      <pubDate>Sat, 31 Aug 2024 12:28:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
