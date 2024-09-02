@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sun, 01 Sep 2024 22:37:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 03:16:18 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.08.0 发布</title>
+      <link>https://kdenlive.org/en/2024/09/kdenlive-24-08-0-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kdenlive.org/en/2024/09/kdenlive-24-08-0-released/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 02 Sep 2024 00:52:17 GMT</pubDate>
+    </item>
     <item>
       <title>为 Akademy 做好准备</title>
       <link>https://blog.broulik.de/2024/08/getting-ready-for-akademy/?utm_source=atom_feed</link>
@@ -85,17 +92,6 @@ Qt/.NET 是一个用于实现 C++ 和 .NET 之间互操作性的工具包，包�
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/?utm_source=atom_feed</guid>
       <pubDate>Thu, 29 Aug 2024 03:17:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt for MCUs 2.5.4 LTS 发布</title>
-      <link>https://www.qt.io/blog/qt-for-mcus-2.5.4-lts-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt for MCUs 2.5.4 LTS（长期支持）已发布并可供下载。此补丁版本提供了错误修复和其他改进，同时保持与 Qt for MCUs 2.5 的源兼容性。它没有添加任何新功能。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-for-mcus-2.5.4-lts-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 28 Aug 2024 12:13:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
