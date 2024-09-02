@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Sep 2024 16:43:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 20:36:55 GMT</lastBuildDate>
+    <item>
+      <title>KDE PIM 的七月和八月</title>
+      <link>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 02 Sep 2024 19:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.08.0 发布</title>
       <link>https://kdenlive.org/en/2024/09/kdenlive-24-08-0-released/?utm_source=atom_feed</link>
@@ -85,13 +92,6 @@ Qt/.NET 是一个用于实现 C++ 和 .NET 之间互操作性的工具包，包�
 ]]></description>
       <guid>https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application?utm_source=atom_feed</guid>
       <pubDate>Fri, 30 Aug 2024 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Plasma 请求捐赠</title>
-      <link>https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/08/28/asking-for-donations-in-plasma/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 29 Aug 2024 03:17:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
