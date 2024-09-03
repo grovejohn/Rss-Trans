@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Sep 2024 12:29:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 14:14:19 GMT</lastBuildDate>
+    <item>
+      <title>漏洞和性能问题阻碍华为的 AI 芯片</title>
+      <link>https://arstechnica.com/?p=2046709</link>
+      <description><![CDATA[出口管制禁止进口 Nvidia 芯片，但本土替代芯片却举步维艰。]]></description>
+      <guid>https://arstechnica.com/?p=2046709</guid>
+      <pubDate>Tue, 03 Sep 2024 13:34:56 GMT</pubDate>
+    </item>
     <item>
       <title>2025 款沃尔沃 EX90（该公司的新款电动 SUV）的优点和缺点</title>
       <link>https://arstechnica.com/?p=2046679</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[“我为我们整个团队感到深深的自豪。”]]></description>
       <guid>https://arstechnica.com/?p=2046482</guid>
       <pubDate>Fri, 30 Aug 2024 19:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>非营利组织从有争议的人工智能训练数据集中删除非法内容</title>
-      <link>https://arstechnica.com/?p=2046573</link>
-      <description><![CDATA[在遭到强烈反对后，LAION 从 AI 训练数据中清除了儿童性虐待材料。]]></description>
-      <guid>https://arstechnica.com/?p=2046573</guid>
-      <pubDate>Fri, 30 Aug 2024 18:44:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
