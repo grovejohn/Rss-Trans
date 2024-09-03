@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Sep 2024 18:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 20:37:31 GMT</lastBuildDate>
+    <item>
+      <title>GSoC 最终更新</title>
+      <link>https://alcarazzam.dev/posts/gsoc-final-update/?utm_source=atom_feed</link>
+      <description><![CDATA[这是我关于 GSoC 项目（KDE 框架的 Python 绑定）的最后一次更新。
+这几周比平时安静，因为我一直在度假，但仍有一些新东西要分享。
+我发布了一个迷你教程，介绍如何使用新的 CMake 模块生成 Python 绑定。
+人们已经开始测试 Python 绑定，并且已经报告了一些构建问题（这很好，因为这意味着人们对它们感兴趣）。不幸的是，由于下周我要开始上大学，我将没有太多时间做出贡献，但我相信你会看到我！
+非常感谢 Carl（我的导师）和所有审阅我的合并请求的人！]]></description>
+      <guid>https://alcarazzam.dev/posts/gsoc-final-update/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 03 Sep 2024 18:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>Calligra 4.0.1</title>
       <link>https://carlschwan.eu/2024/09/03/calligra-4.0.1/?utm_source=atom_feed</link>
@@ -115,13 +126,6 @@ download.kde.org
       <description><![CDATA[圣米格尔德拉帕尔马科技爱好者聚会小组 您可能知道，我是圣米格尔德拉帕尔马科技爱好者聚会小组的组织者，该小组旨在将当地科技社区、岛上的远程工作者和来访的数字游民聚集在一起。最后这两个小组是协调的 … 继续阅读 La Palma Tech Summer 2024 聚会： 总结]]></description>
       <guid>https://toscalix.com/2024/08/30/la-palma-tech-summer-2024-meetup-summary/?utm_source=atom_feed</guid>
       <pubDate>Fri, 30 Aug 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-35 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/08/30/web-review-week-2024-35/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/08/30/web-review-week-2024-35/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 30 Aug 2024 13:40:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
