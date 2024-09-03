@@ -4,7 +4,39 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Sep 2024 20:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 10:39:28 GMT</lastBuildDate>
+    <item>
+      <title>Calligra 4.0.1</title>
+      <link>https://carlschwan.eu/2024/09/03/calligra-4.0.1/?utm_source=atom_feed</link>
+      <description><![CDATA[Calligra 4.0.1 已经发布。本次小版本主要修复了发行版问题并更新了翻译。
+我修复了 Flatpak 的一些兼容性问题，该问题从昨天开始可在 Flathub 上使用。
+
+
+
+
+Flathub website showing Calligra
+
+Yaakov Selkowitz 修复了 Okular 生成器的安装，因此现在如果安装了 Calligra，您就可以在 Okular 中正确阅读您的办公文档。
+Antonio Rojas 删除了未使用的 KPart 依赖项并重新启用了用户文档。
+我删除了旧的空间导航器插件，该插件不再构建，并且仅用于使用一些复古控制器导航办公文档。
+最后，我修复了 Stage 中的几个问题，这是我在为我的 Akademy 演示文稿制作幻灯片时发现的。
+
+
+
+
+Calligra Stage 的更新幻灯片侧边栏
+
+获取它
+Calligra 4.0 现已在
+Flathub 上可用。它现在也可以在
+Arch、KDE ​​Neon 和 OpenBSD 上使用，我知道 Fedora 和 Mageia 的一些工作正在进行中。感谢大家打包 Calligra！
+打包程序部分
+您可以在
+download.kde.org
+找到该软件包，并且它已使用我的GPG 密钥签名。]]></description>
+      <guid>https://carlschwan.eu/2024/09/03/calligra-4.0.1/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 03 Sep 2024 09:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE PIM 的七月和八月</title>
       <link>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</link>
@@ -81,17 +113,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/08/30/web-review-week-2024-35/?utm_source=atom_feed</guid>
       <pubDate>Fri, 30 Aug 2024 13:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt/.NET — 在 .NET WPF 应用程序中使用 QML</title>
-      <link>https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt/.NET 是一个用于实现 C++ 和 .NET 之间互操作性的工具包，包括一个基于 Qt 的托管程序集自定义本机主机，以及一个本机到托管适配器模块，可提供更高级别的互操作性服务，例如对象生命周期管理、实例方法调用和事件通知。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application?utm_source=atom_feed</guid>
-      <pubDate>Fri, 30 Aug 2024 09:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
