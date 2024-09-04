@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Wed, 04 Sep 2024 15:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 20:38:10 GMT</lastBuildDate>
+    <item>
+      <title>等离子速成课程 - DrKonqi</title>
+      <link>https://kde.haraldsitter.eu/posts/plasma-crash-course-drkonqi/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.haraldsitter.eu/posts/plasma-crash-course-drkonqi/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 04 Sep 2024 20:18:38 GMT</pubDate>
+    </item>
     <item>
       <title>Tellico 4.0 发布</title>
       <link>https://tellico-project.org/tellico-4-0-released/?utm_source=atom_feed</link>
@@ -121,25 +128,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/08/30/this-week-in-plasma-inhibiting-inhibitions-and-more/?utm_source=atom_feed</guid>
       <pubDate>Fri, 30 Aug 2024 23:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯登利夫咖啡厅</title>
-      <link>https://kdenlive.org/en/2024/08/kdenlive-cafe/?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-
-
-今年的第一场 Kdenlive Café 将于 9 月 3 日星期二 UTC 时间晚上 7 点（欧洲中部时间晚上 9 点）举行。
-快来和团队聊聊吧！
-加入我们：https://meet.kde.org/b/far-twm-ebr
-
-
-
-
-
-文章Kdenlive Café首先出现在Kdenlive上。]]></description>
-      <guid>https://kdenlive.org/en/2024/08/kdenlive-cafe/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 30 Aug 2024 15:11:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
