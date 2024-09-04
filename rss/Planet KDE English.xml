@@ -4,7 +4,28 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Tue, 03 Sep 2024 20:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 15:15:43 GMT</lastBuildDate>
+    <item>
+      <title>Tellico 4.0 发布</title>
+      <link>https://tellico-project.org/tellico-4-0-released/?utm_source=atom_feed</link>
+      <description><![CDATA[我很高兴能够推出 Tellico 4.0 可用作为利用新 Qt6 和 KDE Frameworks 6 库的第一个版本。对于那些尚未过渡到较新版本的人，Tellico 4.0 还继续使用 Qt5/KF5 构建。
+特别是由于底层库代码中有许多更新和更改，请在切换到新版本之前备份您的数据。可以使用导出到 Zip选项创建完整备份文件，该选项将创建一个包含所有图像和主集合的文件。
+请让我知道任何编译问题或错误，特别是因为我还没有在广泛的 Qt6/KF6 版本上测试过它。 KDE 构建均正常运行，这无疑增强了我的信心，但谁也不知道。
+改进和修复
+
+默认情况下启用使用 Qt6 构建，对于旧版本的 ECM 或使用 BUILD_WITH_QT6=off 标志时，将回退到 Qt5。
+可以从文件元数据导入书籍和视频集（Bug 214606）。
+所有条目模板均已更新以包含任何贷款信息（Bug 411903）。
+通过 --log 和 --logfile 命令行选项支持创建和查看内部日志文件（Bug 426624）。
+DBUS 接口可以使用 -- 作为文件输出到 stdout名称。
+选择字段现在允许具有多个值（Bug 483831）。
+iTunes、Discogs 和 MusicBrainz 源现在将多张光盘专辑分开（Bug 479503）。
+向 IMDb 数据源添加了可配置语言环境。
+已删除 Allocine 和 AnimeNFO 数据源。
+]]></description>
+      <guid>https://tellico-project.org/tellico-4-0-released/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 04 Sep 2024 13:48:16 GMT</pubDate>
+    </item>
     <item>
       <title>GSoC 最终更新</title>
       <link>https://alcarazzam.dev/posts/gsoc-final-update/?utm_source=atom_feed</link>
@@ -49,7 +70,7 @@ download.kde.org
       <pubDate>Tue, 03 Sep 2024 09:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE PIM 的七月和八月</title>
+      <title>KDE PIM 七月和八月</title>
       <link>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</guid>
@@ -119,13 +140,6 @@ download.kde.org
 文章Kdenlive Café首先出现在Kdenlive上。]]></description>
       <guid>https://kdenlive.org/en/2024/08/kdenlive-cafe/?utm_source=atom_feed</guid>
       <pubDate>Fri, 30 Aug 2024 15:11:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉帕尔马科技大学 2024 年夏季聚会：摘要</title>
-      <link>https://toscalix.com/2024/08/30/la-palma-tech-summer-2024-meetup-summary/?utm_source=atom_feed</link>
-      <description><![CDATA[圣米格尔德拉帕尔马科技爱好者聚会小组 您可能知道，我是圣米格尔德拉帕尔马科技爱好者聚会小组的组织者，该小组旨在将当地科技社区、岛上的远程工作者和来访的数字游民聚集在一起。最后这两个小组是协调的 … 继续阅读 La Palma Tech Summer 2024 聚会： 总结]]></description>
-      <guid>https://toscalix.com/2024/08/30/la-palma-tech-summer-2024-meetup-summary/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 30 Aug 2024 14:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
