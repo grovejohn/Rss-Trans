@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Sep 2024 12:58:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 22:37:58 GMT</lastBuildDate>
     <item>
       <title>目标冲刺回顾</title>
       <link>https://eco.kde.org/blog/2024-09-05-goals-sprint-recap/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://eco.kde.org/blog/2024-09-05-goals-sprint-recap/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 2023 年年度报告发布</title>
+      <link>https://kde.org/announcements/report_2023/?utm_source=atom_feed</link>
+      <description><![CDATA[您想了解的关于我们去年所做的事情的一切都在这份报告中：我们筹集的资金、我们如何花费这些资金、我们参加的冲刺和活动、我们承担的项目、我们达到的里程碑等等。
+在此处阅读。]]></description>
+      <guid>https://kde.org/announcements/report_2023/?utm_source=atom_feed</guid>
       <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -91,7 +99,7 @@ download.kde.org
       <pubDate>Tue, 03 Sep 2024 09:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE PIM 的七月和八月</title>
+      <title>KDE PIM 七月和八月</title>
       <link>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</guid>
@@ -110,24 +118,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://blog.broulik.de/2024/08/getting-ready-for-akademy/?utm_source=atom_feed</guid>
       <pubDate>Sat, 31 Aug 2024 10:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Akademy 做好准备</title>
-      <link>https://blog.bembel.net/2024/08/getting-ready-for-akademy/?utm_source=atom_feed</link>
-      <description><![CDATA[下周六，今年的Akademy将在德国维尔茨堡开幕。经过相当长时间的缺席——我最后一次亲自参加的Akademy是在梅赫伦（2008 年）——我非常期待见到老朋友并结识新朋友。主要是因为我自己的暑假计划和家庭事务冲突，我最近几年都没能参加这个活动。现在，由于场地距离我家只有 100 多公里，而且我没有其他安排，所以我要去
-
-
-我的计划是周五下午晚些时候到达并参加欢迎活动。 会议日程非常紧凑，我只确定了几个我肯定想参加的演讲。要了解更多信息，我需要再次查看日程安排以及周一和周二计划的 BoF 列表。 
-我感兴趣的主题是（不分先后顺序）
-
-让 KMyMoney 在 MacOS 的 CI/CD 上正确构建（ARM 和 x86_64）
-与我只在网上认识的人见面
-在项目配置（Gitlab、元数据）方面需要什么才能转移到 KF6
-
-对于 1. 我希望从 Ben、Hannah、Julius 和 Volker 周日举行的 KDE 的 CI 和 CD 基础设施 讲座和周二的 CI/CD BoF 中获得更多背景信息。对于其他主题，我会看看。
-期待下周在维尔茨堡见到你们许多 KDE 伙伴！]]></description>
-      <guid>https://blog.bembel.net/2024/08/getting-ready-for-akademy/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 31 Aug 2024 10:07:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
