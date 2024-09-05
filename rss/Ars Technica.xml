@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Sep 2024 12:58:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 14:13:49 GMT</lastBuildDate>
+    <item>
+      <title>新的人工智能标准组织希望让数据抓取成为可选功能</title>
+      <link>https://arstechnica.com/?p=2047445</link>
+      <description><![CDATA[数据集提供商联盟希望使人工智能数据许可变得合乎道德。]]></description>
+      <guid>https://arstechnica.com/?p=2047445</guid>
+      <pubDate>Thu, 05 Sep 2024 13:45:54 GMT</pubDate>
+    </item>
     <item>
       <title>联邦贸易委员会敦促智能设备说明其将支持多长时间</title>
       <link>https://arstechnica.com/?p=2047344</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[机械龙现在可以根据命令发射火焰。]]></description>
       <guid>https://arstechnica.com/?p=2047277</guid>
       <pubDate>Wed, 04 Sep 2024 18:48:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>澳大利亚政府试验发现人工智能在总结方面比人类差得多</title>
-      <link>https://arstechnica.com/?p=2047265</link>
-      <description><![CDATA[Llama2-70B 未能捕捉到“复杂背景”，但更新的模型可能会做得更好。]]></description>
-      <guid>https://arstechnica.com/?p=2047265</guid>
-      <pubDate>Wed, 04 Sep 2024 18:34:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
