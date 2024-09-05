@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 05 Sep 2024 20:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 21:14:03 GMT</lastBuildDate>
+    <item>
+      <title>YubiKey 是安全的黄金标准——但它们可以被克隆</title>
+      <link>https://www.wired.com/story/yubikey-vulnerability-cloning/</link>
+      <description><![CDATA[安全研究人员发现了一个加密漏洞，导致 YubiKey 5 容易受到攻击。]]></description>
+      <guid>https://www.wired.com/story/yubikey-vulnerability-cloning/</guid>
+      <pubDate>Thu, 05 Sep 2024 21:01:38 GMT</pubDate>
+    </item>
     <item>
       <title>目前（2024 年 9 月）Max（又名 HBO Max）上 40 部最佳节目</title>
       <link>https://www.wired.com/story/hbo-max-best-shows-to-stream-right-now/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[目前，该品牌的网站上有四个版本的欧米茄 x 斯沃琪混搭款式供您选择，但前提是您必须身处两个特定国家/地区。]]></description>
       <guid>https://www.wired.com/story/you-can-finally-buy-a-moonswatch-online/</guid>
       <pubDate>Thu, 05 Sep 2024 13:14:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>荣耀Magic V3评测：全球最薄的折叠手机</title>
-      <link>https://www.wired.com/review/honor-magic-v3/</link>
-      <description><![CDATA[荣耀 Magic V3 性能强大、坚固耐用、超薄，可能是您能买到的最好的折叠手机。]]></description>
-      <guid>https://www.wired.com/review/honor-magic-v3/</guid>
-      <pubDate>Thu, 05 Sep 2024 13:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
