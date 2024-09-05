@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Sep 2024 06:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 12:58:31 GMT</lastBuildDate>
+    <item>
+      <title>目标冲刺回顾</title>
+      <link>https://eco.kde.org/blog/2024-09-05-goals-sprint-recap/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://eco.kde.org/blog/2024-09-05-goals-sprint-recap/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>等离子速成课程 - DrKonqi</title>
       <link>https://kde.haraldsitter.eu/posts/plasma-crash-course-drkonqi/?utm_source=atom_feed</link>
@@ -84,7 +91,7 @@ download.kde.org
       <pubDate>Tue, 03 Sep 2024 09:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE PIM 七月和八月</title>
+      <title>KDE PIM 的七月和八月</title>
       <link>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</guid>
@@ -121,13 +128,6 @@ download.kde.org
 期待下周在维尔茨堡见到你们许多 KDE 伙伴！]]></description>
       <guid>https://blog.bembel.net/2024/08/getting-ready-for-akademy/?utm_source=atom_feed</guid>
       <pubDate>Sat, 31 Aug 2024 10:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Akademy 2024 做好准备</title>
-      <link>https://www.volkerkrause.eu/2024/08/31/kde-getting-ready-for-akademy-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/08/31/kde-getting-ready-for-akademy-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 31 Aug 2024 07:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
