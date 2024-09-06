@@ -4,20 +4,27 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Fri, 06 Sep 2024 06:43:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 07:14:12 GMT</lastBuildDate>
+    <item>
+      <title>制止小船团伙的道德责任 - 库珀</title>
+      <link>https://www.bbc.com/news/articles/c89wneepgj3o</link>
+      <description><![CDATA[英吉利海峡发生 12 起溺亡事件几天后，内政大臣主持了一场关于小船的会议。]]></description>
+      <guid>https://www.bbc.com/news/articles/c89wneepgj3o</guid>
+      <pubDate>Fri, 06 Sep 2024 07:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国房价创两年新高</title>
+      <link>https://www.bbc.com/news/articles/cr4091rzy2wo</link>
+      <description><![CDATA[英国最大的抵押贷款机构表示，最近的降息增强了购房者的信心。]]></description>
+      <guid>https://www.bbc.com/news/articles/cr4091rzy2wo</guid>
+      <pubDate>Fri, 06 Sep 2024 06:58:13 GMT</pubDate>
+    </item>
     <item>
       <title>市政税上调后，威尔士县待售第二套住房数量增加三倍</title>
       <link>https://www.bbc.com/news/articles/clyl52jz73vo</link>
-      <description><![CDATA[7 月份彭布罗克郡有 135 套第二套住房待售，比去年同期的 38 套有所增加。]]></description>
+      <description><![CDATA[7 月份，彭布罗克郡有 135 套第二套住房待售，比去年同期的 38 套有所增加。]]></description>
       <guid>https://www.bbc.com/news/articles/clyl52jz73vo</guid>
       <pubDate>Fri, 06 Sep 2024 06:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>肯尼亚学校火灾造成至少 17 名学生死亡-警方</title>
-      <link>https://www.bbc.com/news/articles/cje2jnlldgvo</link>
-      <description><![CDATA[警方向当地媒体表示，尼耶里县 Hillside Endarasha 小学的火灾原因正在调查中。]]></description>
-      <guid>https://www.bbc.com/news/articles/cje2jnlldgvo</guid>
-      <pubDate>Fri, 06 Sep 2024 06:34:10 GMT</pubDate>
     </item>
     <item>
       <title>2024 年夏季是全球有记录以来最热的夏季</title>
@@ -34,13 +41,6 @@
       <pubDate>Fri, 06 Sep 2024 01:18:42 GMT</pubDate>
     </item>
     <item>
-      <title>制止小船团伙的道德责任 - 库珀</title>
-      <link>https://www.bbc.com/news/articles/c89wneepgj3o</link>
-      <description><![CDATA[英吉利海峡发生 12 起溺亡事件几天后，内政大臣主持了一场关于小船的会议。]]></description>
-      <guid>https://www.bbc.com/news/articles/c89wneepgj3o</guid>
-      <pubDate>Thu, 05 Sep 2024 23:50:18 GMT</pubDate>
-    </item>
-    <item>
       <title>“我们的未来已经结束”：因一年战争而被迫逃离</title>
       <link>https://www.bbc.com/news/articles/cewlrxrk5p5o</link>
       <description><![CDATA[BBC亲眼目睹了受内战和饥饿危机影响的苏丹人民的绝望心情。]]></description>
@@ -48,7 +48,7 @@
       <pubDate>Thu, 05 Sep 2024 23:14:04 GMT</pubDate>
     </item>
     <item>
-      <title>专家称，法律漏洞让施虐者可以当家教</title>
+      <title>法律漏洞让施虐者成为家教——近年来已有 90 人被定罪</title>
       <link>https://www.bbc.com/news/articles/c9v87x2x3xwo</link>
       <description><![CDATA[BBC 调查发现，过去 20 年中，共有 92 名辅导老师因儿童性虐待而被定罪。]]></description>
       <guid>https://www.bbc.com/news/articles/c9v87x2x3xwo</guid>
@@ -69,7 +69,7 @@
       <pubDate>Thu, 05 Sep 2024 21:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>包层老板否认对格伦菲尔大火负有责任</title>
+      <title>格兰菲尔大楼报告提及 100 次的包层老板否认对灾难负有责任</title>
       <link>https://www.bbc.com/news/articles/cp8n7m8v9rqo</link>
       <description><![CDATA[克劳德·韦尔勒 (Claude Wehrle) 表示，他“不是”覆层制造商 Arconic 的“决策者”。]]></description>
       <guid>https://www.bbc.com/news/articles/cp8n7m8v9rqo</guid>
