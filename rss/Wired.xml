@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 06 Sep 2024 09:37:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 10:16:04 GMT</lastBuildDate>
+    <item>
+      <title>人工智能和 Deepfakes 会影响美国大选吗？</title>
+      <link>https://www.wired.com/story/deepfake-porn-election/</link>
+      <description><![CDATA[本周在政治实验室，我们将讨论人工智能对选举的潜在影响——以及为什么它在全国范围内如此难以监管。]]></description>
+      <guid>https://www.wired.com/story/deepfake-porn-election/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊隆·马斯克在巴西陷入困境</title>
+      <link>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</link>
+      <description><![CDATA[在就 X 和 Starlink 在该国的运营与法官公开对峙之后，埃隆·马斯克表现出动摇的迹象。]]></description>
+      <guid>https://www.wired.com/story/x-starlink-brazil-suspension-musk/</guid>
+      <pubDate>Fri, 06 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>IFA 2024 上的所有顶级新产品</title>
       <link>https://www.wired.com/story/all-the-top-new-gadgets-at-ifa-2024/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[“询问照片”是一种通过对话的方式在不断扩大的图像库中查找特定的照片。]]></description>
       <guid>https://www.wired.com/story/google-photos-ask-photos-gemini/</guid>
       <pubDate>Thu, 05 Sep 2024 16:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么在巴西全面封锁X如此困难</title>
-      <link>https://www.wired.com/story/brazil-x-ban-isp-blocking/</link>
-      <description><![CDATA[巴西全国有 20,000 家互联网提供商，封锁 X 所面临的技术挑战意味着一些连接会出现漏洞。]]></description>
-      <guid>https://www.wired.com/story/brazil-x-ban-isp-blocking/</guid>
-      <pubDate>Thu, 05 Sep 2024 15:41:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>华硕 Zenbook S 16（2024）评测：一款均衡的 Windows 笔记本电脑</title>
-      <link>https://www.wired.com/review/asus-zenbook-s-16-2024/</link>
-      <description><![CDATA[虽然它不是 Copilot+ PC，但这款华硕笔记本电脑即使在 AI 任务上也能表现出色。它的电池续航时间也很出色。]]></description>
-      <guid>https://www.wired.com/review/asus-zenbook-s-16-2024/</guid>
-      <pubDate>Thu, 05 Sep 2024 14:33:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
