@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 06 Sep 2024 11:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 12:27:56 GMT</lastBuildDate>
+    <item>
+      <title>Google Nest 学习型恒温器（第 4 代）评测：兼具美感与智慧</title>
+      <link>https://www.wired.com/review/google-nest-learning-thermostat-4th-gen/</link>
+      <description><![CDATA[继上一代产品推出九年后，第四代 Nest 学习型恒温器将美感与智能融为一体。]]></description>
+      <guid>https://www.wired.com/review/google-nest-learning-thermostat-4th-gen/</guid>
+      <pubDate>Fri, 06 Sep 2024 12:02:00 GMT</pubDate>
+    </item>
     <item>
       <title>《Concord》的消亡让人们对游戏业的未来感到黯淡</title>
       <link>https://www.wired.com/story/concord-death-future-of-video-games-bleak/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[与大西洋不同，东南亚几乎没有什么可以阻止高强度风暴的形成，而气候变化使情况变得更加危险。]]></description>
       <guid>https://www.wired.com/story/why-super-typhoons-like-yagi-are-more-common-than-youd-think/</guid>
       <pubDate>Thu, 05 Sep 2024 21:32:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>YubiKey 是安全的黄金标准——但它们可以被克隆</title>
-      <link>https://www.wired.com/story/yubikey-vulnerability-cloning/</link>
-      <description><![CDATA[安全研究人员发现了一个加密漏洞，导致 YubiKey 5 容易受到攻击。]]></description>
-      <guid>https://www.wired.com/story/yubikey-vulnerability-cloning/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:01:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
