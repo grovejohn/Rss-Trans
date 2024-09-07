@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 07 Sep 2024 10:38:35 GMT</lastBuildDate>
-    <item>
-      <title>2024 年 Akadem 大会 - 第 1 天 - 1 号会议室 - 第 2 部分</title>
-      <link>https://tube.kockatoo.org/w/kF7ur3Dn2qYjTvswiiwzmX?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://tube.kockatoo.org/w/kF7ur3Dn2qYjTvswiiwzmX?utm_source=atom_feed</guid>
-      <pubDate>Sat, 07 Sep 2024 09:43:59 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Sep 2024 15:14:03 GMT</lastBuildDate>
     <item>
       <title>网络评论，第 2024-36 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/?utm_source=atom_feed</link>
@@ -113,11 +106,18 @@ download.kde.org
       <pubDate>Tue, 03 Sep 2024 09:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE PIM 的七月和八月</title>
+      <title>KDE PIM 七月和八月</title>
       <link>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</guid>
       <pubDate>Mon, 02 Sep 2024 19:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kdenlive 24.08.0 发布</title>
+      <link>https://kdenlive.org/en/2024/09/kdenlive-24-08-0-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kdenlive.org/en/2024/09/kdenlive-24-08-0-released/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 02 Sep 2024 00:52:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
