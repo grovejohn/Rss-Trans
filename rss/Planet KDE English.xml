@@ -4,13 +4,35 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Sat, 07 Sep 2024 22:38:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 14:37:06 GMT</lastBuildDate>
     <item>
       <title>本周 Plasma 动态：6.2 版稳定</title>
       <link>https://pointieststick.com/2024/09/07/this-week-in-plasma-stabilization-for-6-2/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/09/07/this-week-in-plasma-stabilization-for-6-2/?utm_source=atom_feed</guid>
       <pubDate>Sat, 07 Sep 2024 20:49:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 目标——新周期开始</title>
+      <link>https://blogs.kde.org/2024/09/07/kde-goals-a-new-cycle-begins/?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+
+KDE 社区已经规划了未来几年的发展方向，重点关注三条相互关联的路径，它们汇聚在一个点上：社区。这些路径旨在改善用户体验、支持开发人员并促进社区发展。
+简化的应用程序开发体验
+此目标专注于改进应用程序开发流程。通过让开发人员更轻松地创建应用程序，KDE 希望吸引更多贡献者并为第一方和第三方应用程序提供更好的软件。这一目标中一个值得注意的任务是增强使用 C++ 以外的语言（如 Rust 或 Python）构建 KDE 应用的体验。
+冠军：Nicolas Fella 和 Nate Graham
+我们关心您的输入
+KDE 拥有多样化的用户群，具有独特的输入需求：使用复杂显示器和绘图板设置的艺术家；使用控制器、花哨鼠标和手持设备的游戏玩家；需要辅助功能或使用语言以最佳方式输入复杂输入法的用户；使用笔记本电脑、二合一设备和平板电脑的学生 — 等等！尽管 KDE 多年来在支持这些不同的输入源方面取得了重大进展，但仍存在需要解决的差距。此目标旨在缩小这些差距，并为每个人提供真正无缝的输入体验。
+冠军：Gernot Schiller、Jakob Petsovits 和 Joshua Goins
+KDE 需要你！🫵
+KDE 的增长依赖于新的贡献者，但缺乏对 Plasma、Kdenlive、Krita、GCompris 等关键项目的新参与令人担忧。此目标侧重于规范和加强招聘流程，不仅针对个人，也针对机构。确保引进新人才成为持续的、全社区的优先事项，这对 KDE 的长期可持续发展至关重要。
+冠军：Aniqa Khokhar、Johnny Jazeix 和 Paul Brown
+加入我们！
+您的声音、您的代码和您的想法将塑造未来的 KDE — 无论您是用户、开发人员还是贡献者。让我们一起踏上这段旅程，让这些目标成为现实！
+加入Matrix 房间并关注网站，了解最新的 KDE 目标更新。]]></description>
+      <guid>https://blogs.kde.org/2024/09/07/kde-goals-a-new-cycle-begins/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 07 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>网络评论，第 2024-36 周</title>
@@ -111,13 +133,6 @@ download.kde.org
 找到该软件包，并且它已使用我的GPG 密钥签名。]]></description>
       <guid>https://carlschwan.eu/2024/09/03/calligra-4.0.1/?utm_source=atom_feed</guid>
       <pubDate>Tue, 03 Sep 2024 09:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE PIM 的七月和八月</title>
-      <link>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kontact.kde.org/blog/2024/2024-09-01-july-august-2024/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 02 Sep 2024 19:20:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
