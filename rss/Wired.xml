@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Mon, 09 Sep 2024 10:16:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 10:41:25 GMT</lastBuildDate>
+    <item>
+      <title>您需要了解的有关 Grok AI 和您的隐私的信息</title>
+      <link>https://www.wired.com/story/grok-ai-privacy-opt-out/</link>
+      <description><![CDATA[与竞争对手相比，xAI 的生成式 AI 工具 Grok AI 显得有些不正常。它还收集了人们在 X 上发布的大量数据。以下是如何让您的帖子不被 Grok 记录下来——以及您应该这样做的原因。]]></description>
+      <guid>https://www.wired.com/story/grok-ai-privacy-opt-out/</guid>
+      <pubDate>Mon, 09 Sep 2024 10:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何购买电动自行车（2024 年）：类别、续航里程、维修</title>
       <link>https://www.wired.com/story/how-to-buy-an-electric-bike/</link>
@@ -20,7 +27,7 @@
       <pubDate>Sun, 08 Sep 2024 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>最佳机械键盘（2024 年）测试与评测</title>
+      <title>最佳机械键盘（2024 年），经测试和评测</title>
       <link>https://www.wired.com/gallery/best-mechanical-keyboards/</link>
       <description><![CDATA[我们输入了数千个单词来帮助您找到适合您高雅品味的理想 clacky 或 thocky 机械键盘。]]></description>
       <guid>https://www.wired.com/gallery/best-mechanical-keyboards/</guid>
@@ -29,7 +36,7 @@
     <item>
       <title>2024 年最佳 Google Pixel 手机，测试和评测：购买哪种型号、保护壳和配件、功能下降</title>
       <link>https://www.wired.com/story/best-google-pixel-phone/</link>
-      <description><![CDATA[这是所有型号的指南——另外还有 Pixel 保护壳推荐和可尝试的智能软件技巧。]]></description>
+      <description><![CDATA[这是所有型号的指南——还有 Pixel 保护壳推荐和值得尝试的智能软件技巧。]]></description>
       <guid>https://www.wired.com/story/best-google-pixel-phone/</guid>
       <pubDate>Sun, 08 Sep 2024 13:32:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[准备好剪断电源线了吗？这是我们最喜欢的耳机，它们永远不会缠结。]]></description>
       <guid>https://www.wired.com/gallery/best-wirefree-earbuds/</guid>
       <pubDate>Sat, 07 Sep 2024 15:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HHKB Studio 评测：程序员的机械键盘</title>
-      <link>https://www.wired.com/review/hhkb-studio/</link>
-      <description><![CDATA[巨大的改变使这款经典的程序员机械键盘融入了现代化，同时又不牺牲它的灵魂。]]></description>
-      <guid>https://www.wired.com/review/hhkb-studio/</guid>
-      <pubDate>Sat, 07 Sep 2024 14:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
