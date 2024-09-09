@@ -4,13 +4,33 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 09 Sep 2024 14:40:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 18:42:12 GMT</lastBuildDate>
     <item>
       <title>毛伊岛发布简报#6</title>
       <link>https://mauikit.org/blog/maui-release-briefing-6/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://mauikit.org/blog/maui-release-briefing-6/?utm_source=atom_feed</guid>
       <pubDate>Mon, 09 Sep 2024 14:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>KPhotoAlbum 去学院了！</title>
+      <link>https://www.kphotoalbum.org//2024/09/09/kphotoalbum-went-to-akademy/?utm_source=atom_feed</link>
+      <description><![CDATA[
+经过多年在 KPhotoAlbum 上的合作，开发团队的相当一部分成员（Johannes 和我 ;-) 终于在维尔茨堡的 Akademy 上见面了！
+
+
+
+这是一次非常愉快和愉快的会议，有很多关于 KDE 的信息，例如社区目标，我们在 Qt 5 和 6 中的立场以及我们想要去的地方，编程，可持续性等等。始终都是友善友好的人（当然尤其是我们两个 ;-)，可以进行愉快而富有成效的对话。如果可以，去 Akademy - 值得一去！
+
+
+此外，我们希望再次亲自强调 Qt6/KF6 移植 Marble 对 KPhotoAlbum 和 KGeoTag 的重要性。我们现在积极致力于将 KPA 移植到 QT6/KF6，但我们需要 Marble 才能最终发布它。但我们相信一切都会好起来的。
+
+
+希望这不会是我们最后一次见面！
+
+— 托拜厄斯]]></description>
+      <guid>https://www.kphotoalbum.org//2024/09/09/kphotoalbum-went-to-akademy/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>本周 Plasma 动态：6.2 版稳定</title>
@@ -97,17 +117,6 @@ iTunes、Discogs 和 MusicBrainz 源现在将多张光盘专辑分开（Bug 4795
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/09/04/brightness-controls-for-all-your-displays/?utm_source=atom_feed</guid>
       <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSoC 最终更新</title>
-      <link>https://alcarazzam.dev/posts/gsoc-final-update/?utm_source=atom_feed</link>
-      <description><![CDATA[这是我关于 GSoC 项目（KDE 框架的 Python 绑定）的最后一次更新。
-这几周比平时安静，因为我一直在度假，但仍有一些新东西要分享。
-我发布了一个迷你教程，介绍如何使用新的 CMake 模块生成 Python 绑定。
-人们已经开始测试 Python 绑定，并且已经报告了一些构建问题（这很好，因为这意味着人们对它们感兴趣）。不幸的是，由于下周我要开始上大学，我将没有太多时间做出贡献，但我相信你会看到我！
-非常感谢 Carl（我的导师）和所有审阅我的合并请求的人！]]></description>
-      <guid>https://alcarazzam.dev/posts/gsoc-final-update/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 03 Sep 2024 18:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
