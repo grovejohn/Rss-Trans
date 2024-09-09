@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 09 Sep 2024 04:39:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 14:40:25 GMT</lastBuildDate>
+    <item>
+      <title>毛伊岛发布简报#6</title>
+      <link>https://mauikit.org/blog/maui-release-briefing-6/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://mauikit.org/blog/maui-release-briefing-6/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 09 Sep 2024 14:26:27 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma 动态：6.2 版稳定</title>
       <link>https://pointieststick.com/2024/09/07/this-week-in-plasma-stabilization-for-6-2/?utm_source=atom_feed</link>
@@ -101,38 +108,6 @@ iTunes、Discogs 和 MusicBrainz 源现在将多张光盘专辑分开（Bug 4795
 非常感谢 Carl（我的导师）和所有审阅我的合并请求的人！]]></description>
       <guid>https://alcarazzam.dev/posts/gsoc-final-update/?utm_source=atom_feed</guid>
       <pubDate>Tue, 03 Sep 2024 18:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Calligra 4.0.1</title>
-      <link>https://carlschwan.eu/2024/09/03/calligra-4.0.1/?utm_source=atom_feed</link>
-      <description><![CDATA[Calligra 4.0.1 已经发布。本次小版本主要修复了发行版问题并更新了翻译。
-我修复了 Flatpak 的一些兼容性问题，该问题从昨天开始可在 Flathub 上使用。
-
-
-
-
-Flathub website showing Calligra
-
-Yaakov Selkowitz 修复了 Okular 生成器的安装，因此现在如果安装了 Calligra，您就可以在 Okular 中正确阅读您的办公文档。
-Antonio Rojas 删除了未使用的 KPart 依赖项并重新启用了用户文档。
-我删除了旧的空间导航器插件，该插件不再构建，并且仅用于使用一些复古控制器导航办公文档。
-最后，我修复了 Stage 中的几个问题，这是我在为我的 Akademy 演示文稿制作幻灯片时发现的。
-
-
-
-
-Calligra Stage 的更新幻灯片侧边栏
-
-获取它
-Calligra 4.0 现已在
-Flathub 上可用。它现在也可以在
-Arch、KDE ​​Neon 和 OpenBSD 上使用，我知道 Fedora 和 Mageia 的一些工作正在进行中。感谢大家打包 Calligra！
-打包程序部分
-您可以在
-download.kde.org
-找到该软件包，并且它已使用我的GPG 密钥签名。]]></description>
-      <guid>https://carlschwan.eu/2024/09/03/calligra-4.0.1/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 03 Sep 2024 09:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
