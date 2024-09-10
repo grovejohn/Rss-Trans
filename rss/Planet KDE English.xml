@@ -4,7 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/uk/</link>
     <description></description>
-    <lastBuildDate>Mon, 09 Sep 2024 18:42:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 10:40:06 GMT</lastBuildDate>
+    <item>
+      <title>KDE Plasma 6.1.5，9 月份错误修复版本</title>
+      <link>https://kde.org/announcements/plasma/6/6.1.5/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 9 月 10 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.5。
+Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
+此版本添加了一个月来自 KDE 贡献者的新翻译和修复。这些错误修复通常很小但很重要，包括：
+
+Screenedge：允许通过拖放激活客户端。 提交。修复错误#450579
+Applets/kickoff：修复键盘导航卡在网格视图内的问题。 提交。 修复错误 #489867
+Klipper：修复忽略图像时复制单元格的问题。 提交。 修复错误 #491488
+
+查看完整更新日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.1.5/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>毛伊岛发布简报#6</title>
       <link>https://mauikit.org/blog/maui-release-briefing-6/?utm_source=atom_feed</link>
@@ -110,13 +125,6 @@ iTunes、Discogs 和 MusicBrainz 源现在将多张光盘专辑分开（Bug 4795
 ]]></description>
       <guid>https://tellico-project.org/tellico-4-0-released/?utm_source=atom_feed</guid>
       <pubDate>Wed, 04 Sep 2024 13:48:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>所有显示器的亮度控制</title>
-      <link>https://blogs.kde.org/2024/09/04/brightness-controls-for-all-your-displays/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/09/04/brightness-controls-for-all-your-displays/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
