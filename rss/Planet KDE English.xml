@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Sep 2024 15:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 16:42:47 GMT</lastBuildDate>
+    <item>
+      <title>葡萄酒标签和开源贡献的故事</title>
+      <link>https://ervin.ipsquad.net/blog/2024/09/11/a-tale-of-wine-labels-and-open-source-contributions/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/09/11/a-tale-of-wine-labels-and-open-source-contributions/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 11 Sep 2024 15:08:16 GMT</pubDate>
+    </item>
     <item>
       <title>Qt 6.8 中的矢量图形</title>
       <link>https://www.qt.io/blog/vector-graphics-in-qt-6.8?utm_source=atom_feed</link>
@@ -109,14 +116,6 @@ KDE 的增长依赖于新的贡献者，但缺乏对 Plasma、Kdenlive、Krita�
       <link>https://eco.kde.org/blog/2024-09-05-goals-sprint-recap/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://eco.kde.org/blog/2024-09-05-goals-sprint-recap/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 2023 年年度报告发布</title>
-      <link>https://kde.org/announcements/report_2023/?utm_source=atom_feed</link>
-      <description><![CDATA[您想了解的关于我们去年所做的事情的一切都在这份报告中：我们筹集的资金、我们如何花费这些资金、我们参加的冲刺和活动、我们承担的项目、我们达到的里程碑等等。
-在此处阅读。]]></description>
-      <guid>https://kde.org/announcements/report_2023/?utm_source=atom_feed</guid>
       <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
