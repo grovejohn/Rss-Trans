@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 11 Sep 2024 21:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 22:38:07 GMT</lastBuildDate>
+    <item>
+      <title>Android 应用程序阻止侧载并强制使用 Google Play 版本</title>
+      <link>https://arstechnica.com/?p=2049138</link>
+      <description><![CDATA[“选择 Play 合作伙伴”可以阻止非官方安装其应用。]]></description>
+      <guid>https://arstechnica.com/?p=2049138</guid>
+      <pubDate>Wed, 11 Sep 2024 21:31:37 GMT</pubDate>
+    </item>
     <item>
       <title>泰勒·斯威夫特引用人工智能深度伪造技术为卡马拉·哈里斯代言</title>
       <link>https://arstechnica.com/?p=2049045</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[初创公司 NetworkOcean 希望将 GPU 沉入旧金山湾。]]></description>
       <guid>https://arstechnica.com/?p=2048979</guid>
       <pubDate>Wed, 11 Sep 2024 13:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>恶意 WHOIS 服务器为研究人员提供了任何人都不该拥有的超能力</title>
-      <link>https://arstechnica.com/?p=2048683</link>
-      <description><![CDATA[.mobi 顶级域名管理员更改了其 WHOIS 服务器的位置。没有人收到备忘录。]]></description>
-      <guid>https://arstechnica.com/?p=2048683</guid>
-      <pubDate>Wed, 11 Sep 2024 10:00:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
