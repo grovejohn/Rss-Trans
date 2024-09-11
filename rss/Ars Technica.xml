@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 11 Sep 2024 01:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 11:14:19 GMT</lastBuildDate>
+    <item>
+      <title>恶意 WHOIS 服务器为研究人员提供了任何人都不该拥有的超能力</title>
+      <link>https://arstechnica.com/?p=2048683</link>
+      <description><![CDATA[.mobi 顶级域名管理员更改了其 WHOIS 服务器的位置。没有人收到备忘录。]]></description>
+      <guid>https://arstechnica.com/?p=2048683</guid>
+      <pubDate>Wed, 11 Sep 2024 10:00:40 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 称监管机构将暂停 Starship 发射直至至少 11 月</title>
       <link>https://arstechnica.com/?p=2048838</link>
@@ -29,7 +36,7 @@
     <item>
       <title>罕见神经连接混乱导致女子吃一口食物后大​​汗淋漓</title>
       <link>https://arstechnica.com/?p=2048913</link>
-      <description><![CDATA[仅仅咀嚼75秒后，大滴大滴的汗水就从女人的脸上流下来。]]></description>
+      <description><![CDATA[经过仅仅75秒的咀嚼，大滴大滴的汗水从女人的脸上流下来。]]></description>
       <guid>https://arstechnica.com/?p=2048913</guid>
       <pubDate>Tue, 10 Sep 2024 21:13:28 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[即使已经玩了 1,000 个小时游戏的玩家仍然在学习它。]]></description>
       <guid>https://arstechnica.com/?p=2048711</guid>
       <pubDate>Tue, 10 Sep 2024 15:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软使用多个纠错量子比特执行运算</title>
-      <link>https://arstechnica.com/?p=2048754</link>
-      <description><![CDATA[微软与 Atom Computing 合作，增强 Quantinuum 机器的纠错能力。]]></description>
-      <guid>https://arstechnica.com/?p=2048754</guid>
-      <pubDate>Tue, 10 Sep 2024 14:46:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
