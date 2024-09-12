@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Sep 2024 16:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:42:54 GMT</lastBuildDate>
     <item>
       <title>git 恢复名称和 Akademy</title>
       <link>https://jriddell.org/2024/09/12/git-revert-name-and-akademy/?utm_source=atom_feed</link>
@@ -38,7 +38,7 @@ Plasma 6 升级的问题以及考虑集成更多 QA 测试
       <pubDate>Thu, 12 Sep 2024 13:24:37 GMT</pubDate>
     </item>
     <item>
-      <title>学院 2024 - 充满变革的学院</title>
+      <title>学院 2024 - 诸多变革的学院</title>
       <link>https://akademy.kde.org/news/2024-09_akademy-2024-report/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://akademy.kde.org/news/2024-09_akademy-2024-report/?utm_source=atom_feed</guid>
@@ -67,7 +67,7 @@ kwalletmanager：从 wayland 菜单调用时正确启动 (提交，修复错误#
     <item>
       <title>Plasma Wayland 协议 1.14.0</title>
       <link>https://blogs.kde.org/2024/09/12/plasma-wayland-protocols-1.14.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Plasma Wayland Protocls 1.14.0 现已可供打包。
+      <description><![CDATA[Plasma Wayland Protocols 1.14.0 现已可供打包。
 这添加了 Plasma 6.2 beta 所需的功能。
 URL： https://download.kde.org/stable/plasma-wayland-protocols/ 
 SHA256： 1a4385ecfc79f7589f07381cab11c3ff51f6e2fa4b73b78600d6ad096394bf81
