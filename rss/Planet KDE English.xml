@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Sep 2024 18:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 06:43:50 GMT</lastBuildDate>
+    <item>
+      <title>学院 2024 - 诸多变革的学院</title>
+      <link>https://akademy.kde.org/news/2024-09_akademy-2024-report/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://akademy.kde.org/news/2024-09_akademy-2024-report/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>葡萄酒标签和开源贡献的故事</title>
       <link>https://ervin.ipsquad.net/blog/2024/09/11/a-tale-of-wine-labels-and-open-source-contributions/?utm_source=atom_feed</link>
@@ -110,13 +117,6 @@ KDE 的增长依赖于新的贡献者，但缺乏对 Plasma、Kdenlive、Krita�
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/09/06/web-review-week-2024-36/?utm_source=atom_feed</guid>
       <pubDate>Fri, 06 Sep 2024 08:34:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>目标冲刺回顾</title>
-      <link>https://eco.kde.org/blog/2024-09-05-goals-sprint-recap/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://eco.kde.org/blog/2024-09-05-goals-sprint-recap/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 05 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
