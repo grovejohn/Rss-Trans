@@ -4,14 +4,76 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 13 Sep 2024 16:41:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 18:41:49 GMT</lastBuildDate>
+    <item>
+      <title>2024 年学院毕业后</title>
+      <link>https://anditosan.wordpress.com/2024/09/13/after-akademy-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[今年在德国维尔茨堡举办的 Akademy（KDE 年度会议）取得了成功！
+在 Akademy 期间，我有机会发言并向社区介绍我们的新设计系统。
+
+
+
+正如我之前在我的 YouTube 频道和我的帖子中所报道的那样，我们为社区提供了一套设计系统基础，供他们将来使用。这意味着，设计师和开发人员将在设计过程中更紧密地合作。
+会场上还出现了一些新面孔。这太棒了！我们欢迎对我们的技术感到兴奋的新贡献者。
+除了主会场，我们的视觉设计团队在第二天还组织了一场 Birds of a Feather (BoF) 会议。我不得不说，我从未见过这么多人对我们的演讲感兴趣，我非常感谢他们愿意提供帮助。
+我们将 BoF 分为 3 个会议。主会场探索了我们的 Figma 和 PenPot 导出插件（作者：Manuel de la Fuente），并回顾了 VDG（视觉设计小组）在设计系统中发布作品所需采取的行动。
+我们的第二个小时专门用于审查我们的视觉变化接受指南（由 Nate Graham 领导）。这次会议旨在加快 Plasma 和其他领域对视觉设计变化的响应速度。这应该有助于我们更快、更有效地进行决策。 
+工作内容如下：https://invent.kde.org/teams/vdg/issues/-/wikis/home
+第三个小时我们专门介绍 Arjen Hiemstra 的新统一主题构建器“Union”。Arjen 向我们展示了 Union 的源代码和当前功能。现在还处于早期阶段，但进展巨大。Arjen 想要为引擎添加一些新功能，我们应该在不久的将来看到更多新功能。
+整个星期，我们都花时间测试和改进我们制作的图标。我们的下一个目标是解决最新一轮的反馈，然后开始编辑我们的 16px 图标以匹配 24px 集合中的形状。除此之外，我们仍然需要找到新图标中尽可能多的错误。
+在我们的一次会议中，我们注意到一些图标在黑暗模式下无法正常工作。这是一个很好的测试，因为一些形状无法正确重新着色。幸好我们周围都是 Plasma 开发人员，很容易发现问题！然而，这并不意味着图标没有问题。他们仍然需要大量工作。
+现在，我想邀请所有想要提供反馈和/或测试图标的人。请注意，这是 alpha 版本。还有很多工作要做。在所有图标完成之前，您可以测试 24px 集合。
+Plasma Icons 24px 集合：
+https://drive.google.com/file/d/14oayQeHloyYJwL3WpjgoAQjR-Mnt-H8k/view?usp=drive_link
+用于图标反馈的 Figma 链接：
+
+https://www.figma.com/design/F38rWWFmFRcyolDk07xxKw/Icons?node-id=0-1&amp;node-type=canvas&amp;t=FiBCevySX0c6XmBE-0
+
+很快，我还会编辑一些我在城市和 Akademy 期间拍摄的照片。不用说，这张照片是我拍的！ 
+
+我们很酷吧？
+很快再见！]]></description>
+      <guid>https://anditosan.wordpress.com/2024/09/13/after-akademy-2024/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 13 Sep 2024 18:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Akademy 和 Kdenlive Sprint 报告</title>
+      <link>https://kdenlive.org/en/2024/09/akademy-and-kdenlive-sprint-report/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kdenlive.org/en/2024/09/akademy-and-kdenlive-sprint-report/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 13 Sep 2024 17:53:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年维尔茨堡学院 - 太棒了</title>
+      <link>https://write.as/alexander-lohnau/akademy-2024-in-wurzburg-it-was-a-blast?pk_campaign=rss-feed?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年维尔茨堡 Akademy 活动 – 太棒了
+我的第二次 Akademy 活动昨天刚刚结束。这又是一段令人惊叹且富有成效的时光！
+除了去年 Akademy 活动或去年在奥格斯堡举行的 Plasma sprint 活动中认识的熟悉面孔外，我还认识了许多新面孔。
+其中一些我之前在 KDE 中当然有过联系，但仅限于数字世界。
+最棒的部分之一还是与 KDE 社区的一日游。虽然下着小雨，但我们确实充分利用了这次机会，游览了美丽的“罗滕堡”市。从市政厅塔楼看到的景色非常美丽：
+
+演讲也非常有趣，突出了 KDE 社区有多少门面。除了闪电演讲再次精彩之外，“Qt6 中的 QML”演讲也非常有价值，因为我没有密切关注最新的改进。
+与 KDE 目标相关的演讲和 BOF 也非常有助于让我们对未来的发展方向有一个良好的印象。
+由于我们有这么多有趣的演讲，所以不可能参加所有的演讲。我稍后会跟进的是“Pythonizing Qt”和“C++、Rust 和 Qt：比你想象的要容易”的演讲。
+Albert Astals Cid 和我一起就 JSON linting（我的部分）和 QML linting（他的部分）进行了闪电演讲。在给定的时间内，我们只能触及表面，但之后进行了一些富有成效的讨论和后续问题。我将在未来创建一篇关于 JSON 验证/JSON 架构主题的帖子，因为我仍在研究其中的一些方面。
+再次一起做一些黑客攻击并亲自讨论想法真是太好了。我会怀念能够说“让我们在 Akademy 讨论这个问题？”关于合并请求 ;)。
+我对 KRunner、linting/formatting 相关工具以及 Clazy 进行了大量黑客攻击。
+这也可以在我的 GitLab 历史记录中看到，它变得更蓝了，因此处于活动状态：
+
+与上一届 Akademy 相比，一个很大的改进是鸡叫声，以确保人们在谈话时间内保持镇定！
+为了更好地改进这一点，我们明年也许应该买一些真正的鸡 🥚🐣🐔。关于如何在 KDE 申请资金的讨论可能包含有用的信息，可以帮助您实现这一目标 ;)
+PS：我在 GitHub/GitLab 上终身使用的头像就是我养的那只超级可爱的小鸡🥰。
+]]></description>
+      <guid>https://write.as/alexander-lohnau/akademy-2024-in-wurzburg-it-was-a-blast?pk_campaign=rss-feed?utm_source=atom_feed</guid>
+      <pubDate>Fri, 13 Sep 2024 15:31:16 GMT</pubDate>
+    </item>
     <item>
       <title>UbuCon Asia 2024：我的第一场会议！</title>
       <link>https://soumyadghosh.github.io/website/blog/ubucon-asia-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[“Heather，Heather，Heather，你现在做了什么！”我和 Fenris
+      <description><![CDATA[“Heather，Heather，Heather，你现在做什么了！”我和 Fenris
 
-开始和 Till 一起大笑，因为我们在会议晚宴上讨论了雷鸟快照中的一些问题。
-是的，这是我的 UbuCon Asia 的
+在会议晚宴上讨论雷鸟事件时，他们开始和 Till 一起大笑。
+是的，这是我在 UbuCon Asia 上看到的
 
 第一次会议
 第一次飞行
@@ -20,15 +82,15 @@
 第一次独自住酒店
 
 嗯，很多第一次！我真的想不出从哪里开始……
-我在那里认识了很多人，得到了很多导师！感谢
+我在那里遇到了很多人，得到了很多导师！谢谢
 Till
-，为我介绍了这么多导师！我遇到了
+，给我介绍了这么多导师！我遇到了
 Guruprasad 先生
-（launchpad 大师😄）、
-Kierthana 女士
+（启动板大师😄），
+Kierthana mam
 和
 Dimple didi
-（两人都是文档大师）。他们给了我很多建议、提示和指南！非常感谢🥹！顺便说一句，我怎么能忘记我的 OG
+（两人都是文档大师）。他们给了我很多建议、提示和指南！非常感谢 🥹！顺便说一句，我怎么能忘记我的 OG
 Bhavani
 兄弟！]]></description>
       <guid>https://soumyadghosh.github.io/website/blog/ubucon-asia-2024/?utm_source=atom_feed</guid>
@@ -74,7 +136,7 @@ Plasma 6 升级的问题以及考虑集成更多 QA 测试
       <pubDate>Thu, 12 Sep 2024 13:24:37 GMT</pubDate>
     </item>
     <item>
-      <title>学院 2024 - 充满变革的学院</title>
+      <title>学院 2024 - 诸多变革的学院</title>
       <link>https://akademy.kde.org/news/2024-09_akademy-2024-report/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://akademy.kde.org/news/2024-09_akademy-2024-report/?utm_source=atom_feed</guid>
@@ -117,34 +179,6 @@ plasma-window：向 v18 添加客户端几何图形 + 凹凸
 ]]></description>
       <guid>https://blogs.kde.org/2024/09/12/plasma-wayland-protocols-1.14.0/?utm_source=atom_feed</guid>
       <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>葡萄酒标签和开源贡献的故事</title>
-      <link>https://ervin.ipsquad.net/blog/2024/09/11/a-tale-of-wine-labels-and-open-source-contributions/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/09/11/a-tale-of-wine-labels-and-open-source-contributions/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 11 Sep 2024 15:08:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 6.8 中的矢量图形</title>
-      <link>https://www.qt.io/blog/vector-graphics-in-qt-6.8?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-二维矢量图形在最近的 Qt 发行说明中非常流行，我们计划在即将发布的版本中继续探索它。本博客介绍了作为 Qt 开发人员可以拥有的一些选项。
-]]></description>
-      <guid>https://www.qt.io/blog/vector-graphics-in-qt-6.8?utm_source=atom_feed</guid>
-      <pubDate>Wed, 11 Sep 2024 09:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 OpenUK 大奖</title>
-      <link>https://jriddell.org/2024/09/10/openuk-awards-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[https://openuk.uk/openuk-september-2024-newsletter-1/
-https://www.linkedin.com/feed/update/urn:li:activity:7238138962253344769/
-我们的第五届年度奖项现已开放提名，我们的 2024 年评委正在等待您的提名！ 汉娜·福克斯韦尔、乔纳森·里德尔和Nicole Tandy 将选出 12 个类别的获奖者。2024 年 OpenUK 大奖的提名截止日期为 9 月 15 日（星期日）。我们的第五届大奖再次庆祝了英国在开放技术领域的领导地位和全球合作！立即提名！ https://openuk.uk/awards/openuk-awards-2024/10 月初前，每个类别将选出最多 3 名入围提名人，每位提名人将获得一个席位，参加 11 月 28 日在英国上议院举行的第五届开源奥斯卡颁奖典礼和晚宴，感谢魏勋爵的赞助。
-]]></description>
-      <guid>https://jriddell.org/2024/09/10/openuk-awards-2024/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 10 Sep 2024 14:28:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
