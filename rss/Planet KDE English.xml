@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 13 Sep 2024 18:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 22:38:26 GMT</lastBuildDate>
+    <item>
+      <title>禁用 Plasma Morphing Popups 效果（至少在 X11 上）</title>
+      <link>https://tsdgeos.blogspot.com/2024/09/disable-plasma-morphing-popups-effect.html?utm_source=atom_feed</link>
+      <description><![CDATA[如果您使用的是 Plasma/KWin 6，我建议您禁用“变形弹出窗口”效果，该效果已在 Plasma 6.2 中删除 https://invent.kde.org/plasma/kwin/-/commit/d6360cc4ce4e0d85862a4bb077b8b3dc55cd74a7 并且至少在 X11 上，它会导致 Okular 中的工具提示出现严重的重绘问题（我猜在其他地方也是如此）。]]></description>
+      <guid>https://tsdgeos.blogspot.com/2024/09/disable-plasma-morphing-popups-effect.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 13 Sep 2024 20:48:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年学院毕业后</title>
       <link>https://anditosan.wordpress.com/2024/09/13/after-akademy-2024/?utm_source=atom_feed</link>
@@ -70,7 +77,7 @@ PS：我在 GitHub/GitLab 上终身使用的头像就是我养的那只超级可
     <item>
       <title>UbuCon Asia 2024：我的第一场会议！</title>
       <link>https://soumyadghosh.github.io/website/blog/ubucon-asia-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[“Heather，Heather，Heather，你现在做什么了！”我和 Fenris
+      <description><![CDATA[“Heather，Heather，Heather；你现在做什么了！”我和 Fenris
 
 在会议晚宴上讨论雷鸟事件时，他们开始和 Till 一起大笑。
 是的，这是我在 UbuCon Asia 上看到的
@@ -102,6 +109,13 @@ Bhavani
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/09/13/akademy-2024-broadening-professionalizing-and-being-awesome/?utm_source=atom_feed</guid>
       <pubDate>Fri, 13 Sep 2024 10:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 发布框架 6.6.0</title>
+      <link>https://kde.org/announcements/frameworks/6/6.6.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/frameworks/6/6.6.0/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>git 恢复名称和 Akademy</title>
@@ -136,48 +150,10 @@ Plasma 6 升级的问题以及考虑集成更多 QA 测试
       <pubDate>Thu, 12 Sep 2024 13:24:37 GMT</pubDate>
     </item>
     <item>
-      <title>学院 2024 - 诸多变革的学院</title>
+      <title>学院 2024 - 充满变革的学院</title>
       <link>https://akademy.kde.org/news/2024-09_akademy-2024-report/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://akademy.kde.org/news/2024-09_akademy-2024-report/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 齿轮 24.08.1</title>
-      <link>https://kde.org/announcements/gear/24.08.1/?utm_source=atom_feed</link>
-      <description><![CDATA[作为 KDE Gear 的一部分，超过 180 个独立程序以及数十个程序员库和功能插件同时发布。
-今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
-
-filelight：从上下文菜单中删除某些内容时更新侧边栏（提交，修复错误#492155）
-kclock：修复计时器圆圈对齐（提交，修复错误#481170)
-kwalletmanager：从 wayland 菜单调用时正确启动 (提交，修复错误#492138)
-
-发行版和应用商店打包者应更新其应用程序包。
-
-24.08 发行说明，了解有关 tarball 和已知问题的信息。
-软件包下载 wiki 页面
-24.08.1 源信息页面
-24.08.1 完整更新日志
-]]></description>
-      <guid>https://kde.org/announcements/gear/24.08.1/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma Wayland 协议 1.14.0</title>
-      <link>https://blogs.kde.org/2024/09/12/plasma-wayland-protocols-1.14.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Plasma Wayland Protocols 1.14.0 现已可供打包。
-这添加了 Plasma 6.2 beta 所需的功能。
-URL： https://download.kde.org/stable/plasma-wayland-protocols/ 
-SHA256： 1a4385ecfc79f7589f07381cab11c3ff51f6e2fa4b73b78600d6ad096394bf81
-签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
-完整更新日志：
-
-添加用于外部控制显示亮度的协议
-输出设备：添加对 SDR 模式下亮度的支持
-plasma-window：向 v18 添加客户端几何图形 + 凹凸
-添加警告，阻止第三方客户端使用内部桌面环境协议
-]]></description>
-      <guid>https://blogs.kde.org/2024/09/12/plasma-wayland-protocols-1.14.0/?utm_source=atom_feed</guid>
       <pubDate>Thu, 12 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
