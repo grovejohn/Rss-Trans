@@ -4,7 +4,36 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 13 Sep 2024 10:40:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 16:41:21 GMT</lastBuildDate>
+    <item>
+      <title>UbuCon Asia 2024：我的第一场会议！</title>
+      <link>https://soumyadghosh.github.io/website/blog/ubucon-asia-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[“Heather，Heather，Heather，你现在做了什么！”我和 Fenris
+
+开始和 Till 一起大笑，因为我们在会议晚宴上讨论了雷鸟快照中的一些问题。
+是的，这是我的 UbuCon Asia 的
+
+第一次会议
+第一次飞行
+第一次出州旅行
+第一次独自出州旅行
+第一次独自住酒店
+
+嗯，很多第一次！我真的想不出从哪里开始……
+我在那里认识了很多人，得到了很多导师！感谢
+Till
+，为我介绍了这么多导师！我遇到了
+Guruprasad 先生
+（launchpad 大师😄）、
+Kierthana 女士
+和
+Dimple didi
+（两人都是文档大师）。他们给了我很多建议、提示和指南！非常感谢🥹！顺便说一句，我怎么能忘记我的 OG
+Bhavani
+兄弟！]]></description>
+      <guid>https://soumyadghosh.github.io/website/blog/ubucon-asia-2024/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 13 Sep 2024 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Akademy 2024：拓展、专业化、卓越</title>
       <link>https://pointieststick.com/2024/09/13/akademy-2024-broadening-professionalizing-and-being-awesome/?utm_source=atom_feed</link>
@@ -116,21 +145,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7238138962253344769/
 ]]></description>
       <guid>https://jriddell.org/2024/09/10/openuk-awards-2024/?utm_source=atom_feed</guid>
       <pubDate>Tue, 10 Sep 2024 14:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.1.5，9 月份错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.1.5/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 9 月 10 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.1.5。
-Plasma 6.1 于 2024 年 6 月发布，包含许多功能改进和新模块，以完善桌面体验。
-此版本添加了一个月来自 KDE 贡献者的新翻译和修复。这些错误修复通常很小但很重要，包括：
-
-Screenedge：允许通过拖放激活客户端。 提交。修复错误#450579
-Applets/kickoff：修复键盘导航卡在网格视图内的问题。 提交。 修复错误 #489867
-Klipper：修复忽略图像时复制单元格的问题。 提交。 修复错误 #491488
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.1.5/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 10 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
