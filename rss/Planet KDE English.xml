@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Sep 2024 14:36:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 16:44:45 GMT</lastBuildDate>
     <item>
       <title>网络评论，第 2024-37 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/?utm_source=atom_feed</link>
@@ -25,6 +25,13 @@
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Sep 2024 02:50:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年学院与 Qt 贡献者峰会</title>
+      <link>https://redstrate.com/blog/2024/09/akademy-qt-contributor-summit-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://redstrate.com/blog/2024/09/akademy-qt-contributor-summit-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>我的学院2024年之旅</title>
@@ -123,31 +130,6 @@ https://www.figma.com/design/F38rWWFmFRcyolDk07xxKw/Icons?node-id=0-1&amp;node-t
       <description><![CDATA[]]></description>
       <guid>https://kdenlive.org/en/2024/09/akademy-and-kdenlive-sprint-report/?utm_source=atom_feed</guid>
       <pubDate>Fri, 13 Sep 2024 17:53:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年维尔茨堡学院 - 太棒了</title>
-      <link>https://write.as/alexander-lohnau/akademy-2024-in-wurzburg-it-was-a-blast?pk_campaign=rss-feed?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年维尔茨堡 Akademy 活动 – 太棒了
-我的第二次 Akademy 活动昨天刚刚结束。这又是一段令人惊叹且富有成效的时光！
-除了去年 Akademy 活动或去年在奥格斯堡举行的 Plasma sprint 活动中认识的熟悉面孔外，我还认识了许多新面孔。
-其中一些我之前在 KDE 中当然有过联系，但仅限于数字世界。
-最棒的部分之一还是与 KDE 社区的一日游。虽然下着小雨，但我们确实充分利用了这次机会，游览了美丽的“罗滕堡”市。从市政厅塔楼看到的景色非常美丽：
-
-演讲也非常有趣，突出了 KDE 社区有多少门面。除了闪电演讲再次精彩之外，“Qt6 中的 QML”演讲也非常有价值，因为我没有密切关注最新的改进。
-与 KDE 目标相关的演讲和 BOF 也非常有助于让我们对未来的发展方向有一个良好的印象。
-由于我们有这么多有趣的演讲，我们不可能参加所有的演讲。我稍后会跟进“Pythonizing Qt”和“C++、Rust 和 Qt：比您想象的更简单”的演讲。
-Albert Astals Cid 和我一起就 JSON linting（我的部分）和 QML linting（他的部分）进行了简短的演讲。我们在给定的时间内只能触及表面，但之后进行了一些富有成效的讨论和后续问题。我将在未来创建一篇关于 JSON 验证/JSON 架构主题的帖子，因为我仍在研究这方面的一些方面。
-再次一起做一些黑客攻击并亲自讨论想法真是太好了。我会怀念能够说“让我们在 Akademy 讨论这个吗？”关于合并请求 ;)。
-我对 KRunner、linting/formatting 相关工具以及 Clazy 进行了大量黑客攻击。
-
-这也可以在我的 GitLab 历史记录中看到，它变得更蓝了，因此处于活动状态：
-
-与上一届 Akademy 相比，一个很大的改进是鸡叫声，以确保人们在谈话时间内保持镇定！
-为了更好地改进这一点，我们明年也许应该买一些真正的鸡 🥚🐣🐔。关于如何在 KDE 申请资金的讨论可能包含有用的信息，可以帮助您实现这一目标 ;)
-PS：我在 GitHub/GitLab 上终身使用的头像就是我养的那只超级可爱的小鸡🥰。
-]]></description>
-      <guid>https://write.as/alexander-lohnau/akademy-2024-in-wurzburg-it-was-a-blast?pk_campaign=rss-feed?utm_source=atom_feed</guid>
-      <pubDate>Fri, 13 Sep 2024 15:31:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
