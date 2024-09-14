@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Sep 2024 06:42:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 12:54:02 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-37 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 14 Sep 2024 11:23:31 GMT</pubDate>
+    </item>
     <item>
       <title>学院2024</title>
       <link>https://www.volkerkrause.eu/2024/09/14/kde-akademy-2024.html?utm_source=atom_feed</link>
@@ -32,6 +39,45 @@
       <description><![CDATA[]]></description>
       <guid>https://carlschwan.eu/2024/09/14/qt-contributor-summit-and-akademy/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma Wayland 键盘布局</title>
+      <link>https://euroquis.nl//kde/2024/09/14/keyboard.html?utm_source=atom_feed</link>
+      <description><![CDATA[Calamares 是一个 Linux 系统安装程序，数十个发行版使用它来将 ISO 映像中的位传输到目标计算机上。如今，开发完全是志愿者进行的，这使得很难跟上 Linux 世界的所有变化。但已经采取了措施，并且非常欢迎提交代码，这里有一个关于相对较新且有用的内容的说明：Wayland 键盘布局。
+一些历史
+在基于 X11 的系统中，X 服务器是唯一知道如何解释击键的东西（按下硬件上的按钮，例如，标有 CapsLock 的按钮右侧的按钮标记为 A，按下时会显示字母“a”）。可以告诉 X 服务器如何解释
+这些按钮：一个命令是 setxkbmap，它可以操作
+键盘映射：
+$ setxkbmap -query
+rules: evdev
+model: pc105
+layout: us
+options: ctrl:swapcaps
+
+使用 setxkbmap，您可以从命令行更改布局：
+setxkbmap -layout us 将其更改为美国英语，
+setxkbmap -layout ua 将其更改为乌克兰语，还有大量其他布局。
+在乌克兰语中，按下标有 WASD 的键会产生“ЦФІВ”。
+更改键盘布局只需连接到 X 服务器即可 - 任何 X11 终端程序都可以做到这一点，或者应用程序可以通过发送正确的 X11 协议消息以编程方式做到这一点。
+Wayland
+Wayland 中没有标准化的机制来请求不同的键盘布局。如何以及想要做什么取决于合成器。
+一些合成器愿意听从 systemd 的 locale1 服务。
+KWin 会这样做，但只有在使用合适的命令行标志启动时才会这样做。
+许多在实时安装过程中启动 KWin 的系统
+不会传递该标志。
+有些合成器根本没有实现这一点。
+KWin (Wayland)
+告诉 KWin 更改键盘布局的方法是重写 KDE Plasma 中键盘布局的配置文件，然后向 KWin 发送 DBus 信号。
+您可以在此处看到这种情况，至少截至 2024 年 4 月的代码。我猜想这个想法是唯一更改键盘布局的方法是进入 KCM，单击列表布局、操作等，然后单击应用。
+当我短暂想要输入乌克兰语或阿拉伯语时，这真的很烦人。
+对于 Calamares，当您选择键盘布局时，它会尝试设置键盘布局，这真的很烦人。
+Calamares 和 KWin
+在即将发布的 Calamares 3.3.10 版本中，可以配置安装程序以
+编辑 KDE Plasma 的键盘配置文件。我模仿了 KCM 中的代码，但没有依赖 KConfig，因为那将是 Calamares 的另一个依赖项。这是一项完全拙劣的工作。但它确实有效！
+对于使用 Calamares、使用 KDE Plasma 并提出使用 Wayland 的实时系统的发行版（例如 Asahi Linux），这意味着现在可以一致地应用键盘布局更新，并且您可以在实际要使用的键盘布局中输入密码。
+它并不漂亮。坦率地说，我认为应该有一种标准化的方式来表示“使用这些键盘布局”，但我也明白，这会引发“谁应该被允许更改键盘布局？”的一系列问题。]]></description>
+      <guid>https://euroquis.nl//kde/2024/09/14/keyboard.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 13 Sep 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>禁用 Plasma Morphing Popups 效果（至少在 X11 上）</title>
@@ -102,42 +148,6 @@ PS：我在 GitHub/GitLab 上终身使用的头像就是我养的那只超级可
 ]]></description>
       <guid>https://write.as/alexander-lohnau/akademy-2024-in-wurzburg-it-was-a-blast?pk_campaign=rss-feed?utm_source=atom_feed</guid>
       <pubDate>Fri, 13 Sep 2024 15:31:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>UbuCon Asia 2024：我的第一场会议！</title>
-      <link>https://soumyadghosh.github.io/website/blog/ubucon-asia-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[“Heather，Heather，Heather；你现在做什么了！”我和 Fenris
-
-在会议晚宴上讨论雷鸟事件时，他们开始和 Till 一起大笑。
-是的，这是我在 UbuCon Asia 上看到的
-
-第一次会议
-第一次飞行
-第一次出州旅行
-第一次独自出州旅行
-第一次独自住酒店
-
-嗯，很多第一次！我真的想不出从哪里开始……
-我在那里遇到了很多人，得到了很多导师！谢谢
-Till
-，给我介绍了这么多导师！我遇到了
-Guruprasad 先生
-（启动板大师😄），
-Kierthana mam
-和
-Dimple didi
-（两人都是文档大师）。他们给了我很多建议、提示和指南！非常感谢 🥹！顺便说一句，我怎么能忘记我的 OG
-Bhavani
-兄弟！]]></description>
-      <guid>https://soumyadghosh.github.io/website/blog/ubucon-asia-2024/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 13 Sep 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 2024：拓展、专业化、卓越</title>
-      <link>https://pointieststick.com/2024/09/13/akademy-2024-broadening-professionalizing-and-being-awesome/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/09/13/akademy-2024-broadening-professionalizing-and-being-awesome/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 13 Sep 2024 10:28:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
