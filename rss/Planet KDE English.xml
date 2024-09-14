@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Sep 2024 01:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 04:39:25 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：6.2 测试版发布！</title>
+      <link>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 14 Sep 2024 02:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>我的学院2024年之旅</title>
       <link>https://akselmo.dev/posts/akademy-2024/?utm_source=atom_feed</link>
@@ -131,21 +138,6 @@ Bhavani
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.6.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>git 恢复名称和 Akademy</title>
-      <link>https://jriddell.org/2024/09/12/git-revert-name-and-akademy/?utm_source=atom_feed</link>
-      <description><![CDATA[我将我的名字恢复为 Jonathan Riddell，并为我的 PGP 密钥创建了一个新的 uid，您可以在 keyserver.ubuntu.com 或 我的联系页面 或 我的 Launchpad 页面 上获取更新的 uid。 
-以下是 Akademy 的一些图片
-
-
-
-
-
-
-]]></description>
-      <guid>https://jriddell.org/2024/09/12/git-revert-name-and-akademy/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 12 Sep 2024 14:33:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
