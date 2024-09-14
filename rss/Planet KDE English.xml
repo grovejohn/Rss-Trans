@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Sep 2024 04:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 06:42:08 GMT</lastBuildDate>
+    <item>
+      <title>学院2024</title>
+      <link>https://www.volkerkrause.eu/2024/09/14/kde-akademy-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/09/14/kde-akademy-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 14 Sep 2024 06:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：6.2 测试版发布！</title>
       <link>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</link>
@@ -131,13 +138,6 @@ Bhavani
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/09/13/akademy-2024-broadening-professionalizing-and-being-awesome/?utm_source=atom_feed</guid>
       <pubDate>Fri, 13 Sep 2024 10:28:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 发布框架 6.6.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.6.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.6.0/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
