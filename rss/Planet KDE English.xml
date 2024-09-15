@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 15 Sep 2024 16:42:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 18:40:53 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.08.1 发布</title>
+      <link>https://kdenlive.org/en/2024/09/kdenlive-24-08-1-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kdenlive.org/en/2024/09/kdenlive-24-08-1-released/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 15 Sep 2024 18:23:59 GMT</pubDate>
+    </item>
     <item>
       <title>Akademy 找到了我</title>
       <link>https://nicolasfella.de/posts/akademy-2024/?utm_source=atom_feed?utm_source=atom_feed</link>
@@ -99,37 +106,6 @@ Calamares 和 KWin
       <description><![CDATA[如果您使用的是 Plasma/KWin 6，我建议您禁用“变形弹出窗口”效果，该效果已在 Plasma 6.2 中删除 https://invent.kde.org/plasma/kwin/-/commit/d6360cc4ce4e0d85862a4bb077b8b3dc55cd74a7 并且至少在 X11 上，它会导致 Okular 中的工具提示出现严重的重绘问题（我猜在其他地方也是如此）。]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/09/disable-plasma-morphing-popups-effect.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 13 Sep 2024 20:48:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年学院毕业后</title>
-      <link>https://anditosan.wordpress.com/2024/09/13/after-akademy-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[今年在德国维尔茨堡举办的 Akademy（KDE 年度会议）取得了成功！
-在 Akademy 期间，我有机会发言并向社区介绍我们的新设计系统。
-
-
-
-正如我之前在我的 YouTube 频道和我的帖子中所报道的那样，我们为社区提供了一套设计系统基础，供他们将来使用。这意味着，设计师和开发人员将在设计过程中更紧密地合作。
-会场上还出现了一些新面孔。这太棒了！我们欢迎对我们的技术感到兴奋的新贡献者。
-除了主会场，我们的视觉设计团队在第二天还组织了一场 Birds of a Feather (BoF) 会议。我不得不说，我从未见过这么多人对我们的演讲感兴趣，我非常感谢他们愿意提供帮助。
-我们将 BoF 分为 3 个会议。主会场探索了我们的 Figma 和 PenPot 导出插件（作者：Manuel de la Fuente），并回顾了 VDG（视觉设计小组）在设计系统中发布作品所需采取的行动。
-我们的第二个小时专门用于审查我们的视觉变化接受指南（由 Nate Graham 领导）。这次会议旨在加快 Plasma 和其他领域对视觉设计变化的响应速度。这应该有助于我们更快、更有效地进行决策。 
-工作内容如下：https://invent.kde.org/teams/vdg/issues/-/wikis/home
-第三个小时我们专门介绍 Arjen Hiemstra 的新统一主题构建器“Union”。Arjen 向我们展示了 Union 的源代码和当前功能。现在还处于早期阶段，但进展巨大。Arjen 想要为引擎添加一些新功能，我们应该在不久的将来看到更多新功能。
-整个星期，我们都花时间测试和改进我们制作的图标。我们的下一个目标是解决最新一轮的反馈，然后开始编辑我们的 16px 图标以匹配 24px 集合中的形状。除此之外，我们仍然需要找到新图标中尽可能多的错误。
-在我们的一次会议中，我们注意到一些图标在黑暗模式下无法正常工作。这是一个很好的测试，因为一些形状无法正确重新着色。幸好我们周围都是 Plasma 开发人员，很容易发现问题！然而，这并不意味着图标没有问题。他们仍然需要大量工作。
-现在，我想邀请所有想要提供反馈和/或测试图标的人。请注意，这是 alpha 版本。还有很多工作要做。在所有图标完成之前，您可以测试 24px 集合。
-Plasma Icons 24px 集合：
-https://drive.google.com/file/d/14oayQeHloyYJwL3WpjgoAQjR-Mnt-H8k/view?usp=drive_link
-用于图标反馈的 Figma 链接：
-
-https://www.figma.com/design/F38rWWFmFRcyolDk07xxKw/Icons?node-id=0-1&amp;node-type=canvas&amp;t=FiBCevySX0c6XmBE-0
-
-很快，我还会编辑一些我在城市和 Akademy 期间拍摄的照片。不用说，这张照片是我拍的！ 
-
-我们很酷吧？
-很快再见！]]></description>
-      <guid>https://anditosan.wordpress.com/2024/09/13/after-akademy-2024/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 13 Sep 2024 18:02:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
