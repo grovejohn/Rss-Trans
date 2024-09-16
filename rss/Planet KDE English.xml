@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 16 Sep 2024 14:40:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 16:44:25 GMT</lastBuildDate>
+    <item>
+      <title>KDE neon 测试版中的 Plasma 6.2 Beta</title>
+      <link>https://blog.neon.kde.org/2024/09/16/plasma-6-2-beta-in-kde-neon-testing-edition/?utm_source=atom_feed</link>
+      <description><![CDATA[
+从维尔茨堡 Akademy 的欢乐时光回来后，我们现在可以着手测试 Plasma 6.2 测试版这一重要任务。它现在处于 KDE neon 测试版中，我们从 Git 分支构建，并将在 2.5 周后用于制作 6.2 最终版本。 立即获取，或者如果您没有机器来安装它，您可以使用简单命令“neondocker -p -e testing”尝试 Docker 映像。]]></description>
+      <guid>https://blog.neon.kde.org/2024/09/16/plasma-6-2-beta-in-kde-neon-testing-edition/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 16 Sep 2024 15:25:42 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Tools for Android Studio 3.0 发布</title>
       <link>https://www.qt.io/blog/qt-tools-for-android-studio-3.0-released?utm_source=atom_feed</link>
@@ -70,13 +78,6 @@
       <link>https://akselmo.dev/posts/akademy-2024/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://akselmo.dev/posts/akademy-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 贡献者峰会和 Akademy</title>
-      <link>https://carlschwan.eu/2024/09/14/qt-contributor-summit-and-akademy/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://carlschwan.eu/2024/09/14/qt-contributor-summit-and-akademy/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
