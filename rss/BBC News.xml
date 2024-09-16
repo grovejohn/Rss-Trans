@@ -4,7 +4,14 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Mon, 16 Sep 2024 10:16:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 10:41:19 GMT</lastBuildDate>
+    <item>
+      <title>男子在法庭上被指控谋杀母亲和兄弟姐妹</title>
+      <link>https://www.bbc.com/news/articles/c4g003lnkm9o</link>
+      <description><![CDATA[18 岁的尼古拉斯·普罗斯珀被指控在一座高楼里谋杀了他的母亲和十几岁的兄弟姐妹。]]></description>
+      <guid>https://www.bbc.com/news/articles/c4g003lnkm9o</guid>
+      <pubDate>Mon, 16 Sep 2024 10:09:13 GMT</pubDate>
+    </item>
     <item>
       <title>杰克逊五人组歌手蒂托·杰克逊去世，享年 70 岁</title>
       <link>https://www.bbc.com/news/articles/c2kddp5x5zno</link>
@@ -13,16 +20,9 @@
       <pubDate>Mon, 16 Sep 2024 07:23:49 GMT</pubDate>
     </item>
     <item>
-      <title>警方回顾闭路电视拍摄的“残酷”逮捕</title>
-      <link>https://www.bbc.com/news/articles/cp8n6g22nd5o</link>
-      <description><![CDATA[一名男子称，他给了一名无家可归者一些零钱后“遭到警察殴打”。]]></description>
-      <guid>https://www.bbc.com/news/articles/cp8n6g22nd5o</guid>
-      <pubDate>Mon, 16 Sep 2024 05:47:52 GMT</pubDate>
-    </item>
-    <item>
       <title>团聚、政治和狗：八项艾美奖亮点</title>
       <link>https://www.bbc.com/news/articles/cqlvv2xwd9po</link>
-      <description><![CDATA[《白宫风云》演员们重聚，约翰·奥利弗在周日于洛杉矶举行的艾美奖颁奖典礼上向他的狗致敬。]]></description>
+      <description><![CDATA[《白宫风云》演员们重聚，约翰·奥利弗在周日的洛杉矶艾美奖颁奖典礼上向他的狗致敬。]]></description>
       <guid>https://www.bbc.com/news/articles/cqlvv2xwd9po</guid>
       <pubDate>Mon, 16 Sep 2024 05:16:37 GMT</pubDate>
     </item>
@@ -55,7 +55,7 @@
       <pubDate>Mon, 16 Sep 2024 03:17:25 GMT</pubDate>
     </item>
     <item>
-      <title>TikTok 将针对其在美国被出售或禁止一事提起上诉</title>
+      <title>TikTok 将就其在美国被出售或禁止一事提起上诉</title>
       <link>https://www.bbc.com/news/articles/c5y3y79llndo</link>
       <description><![CDATA[美国政府希望出售或剥离TikTok，因为它认为TikTok对国家安全构成威胁。]]></description>
       <guid>https://www.bbc.com/news/articles/c5y3y79llndo</guid>
