@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Sep 2024 02:37:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 12:59:47 GMT</lastBuildDate>
+    <item>
+      <title>学院2024</title>
+      <link>https://blog.bembel.net/2024/09/akademy-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.bembel.net/2024/09/akademy-2024/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 17 Sep 2024 12:21:42 GMT</pubDate>
+    </item>
     <item>
       <title>KDE neon 测试版中的 Plasma 6.2 Beta</title>
       <link>https://blog.neon.kde.org/2024/09/16/plasma-6-2-beta-in-kde-neon-testing-edition/?utm_source=atom_feed</link>
@@ -71,13 +78,6 @@
       <link>https://redstrate.com/blog/2024/09/akademy-qt-contributor-summit-2024/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://redstrate.com/blog/2024/09/akademy-qt-contributor-summit-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的学院2024年之旅</title>
-      <link>https://akselmo.dev/posts/akademy-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://akselmo.dev/posts/akademy-2024/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
