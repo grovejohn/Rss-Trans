@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Sep 2024 14:37:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 12:58:34 GMT</lastBuildDate>
+    <item>
+      <title>Qt for MCUs 2.8.1 LTS 发布</title>
+      <link>https://www.qt.io/blog/qt-for-mcus-2.8.1-lts-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt for MCUs 2.8.1 LTS（长期支持）已发布并可供下载。  此第一个补丁版本提供了错误修复和其他改进，同时保持了与 Qt for MCUs 2.8 的源兼容性。它没有添加任何新功能。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-for-mcus-2.8.1-lts-released?utm_source=atom_feed</guid>
+      <pubDate>Wed, 18 Sep 2024 11:50:54 GMT</pubDate>
+    </item>
     <item>
       <title>学院2024</title>
       <link>https://blog.bembel.net/2024/09/akademy-2024/?utm_source=atom_feed</link>
@@ -72,13 +83,6 @@
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Sep 2024 02:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年学院与 Qt 贡献者峰会</title>
-      <link>https://redstrate.com/blog/2024/09/akademy-qt-contributor-summit-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://redstrate.com/blog/2024/09/akademy-qt-contributor-summit-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
