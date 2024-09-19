@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 19 Sep 2024 04:41:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 08:41:54 GMT</lastBuildDate>
+    <item>
+      <title>实现音频混音器（第 2 部分）</title>
+      <link>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 19 Sep 2024 07:15:12 GMT</pubDate>
+    </item>
     <item>
       <title>我的第一次学院冒险</title>
       <link>https://blogs.kde.org/2024/09/18/my-first-akademy-adventure/?utm_source=atom_feed</link>
@@ -112,13 +119,6 @@ BoF 最佳实践的视频教程（Kieryn 说服我参加）
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/09/14/kde-akademy-2024.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Sep 2024 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：6.2 测试版发布！</title>
-      <link>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 14 Sep 2024 02:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
