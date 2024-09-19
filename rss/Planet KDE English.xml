@@ -4,18 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 19 Sep 2024 03:17:49 GMT</lastBuildDate>
-    <item>
-      <title>Qt for MCUs 2.8.1 LTS 发布</title>
-      <link>https://www.qt.io/blog/qt-for-mcus-2.8.1-lts-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt for MCUs 2.8.1 LTS（长期支持）已发布并可供下载。  此第一个补丁版本提供了错误修复和其他改进，同时保持了与 Qt for MCUs 2.8 的源兼容性。它没有添加任何新功能。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-for-mcus-2.8.1-lts-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 18 Sep 2024 11:50:54 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 19 Sep 2024 04:41:25 GMT</lastBuildDate>
     <item>
       <title>我的第一次学院冒险</title>
       <link>https://blogs.kde.org/2024/09/18/my-first-akademy-adventure/?utm_source=atom_feed</link>
@@ -90,17 +79,6 @@ BoF 最佳实践的视频教程（Kieryn 说服我参加）
       <pubDate>Mon, 16 Sep 2024 15:25:42 GMT</pubDate>
     </item>
     <item>
-      <title>Qt Tools for Android Studio 3.0 发布</title>
-      <link>https://www.qt.io/blog/qt-tools-for-android-studio-3.0-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-我们很高兴地宣布发布 Qt Tools for Android Studio 3.0。可以从JetBrains 市场下载。  
-]]></description>
-      <guid>https://www.qt.io/blog/qt-tools-for-android-studio-3.0-released?utm_source=atom_feed</guid>
-      <pubDate>Mon, 16 Sep 2024 13:26:25 GMT</pubDate>
-    </item>
-    <item>
       <title>本周 KDE 应用</title>
       <link>https://blogs.kde.org/2024/09/16/this-week-in-kde-apps/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -127,6 +105,20 @@ BoF 最佳实践的视频教程（Kieryn 说服我参加）
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Sep 2024 11:23:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>学院2024</title>
+      <link>https://www.volkerkrause.eu/2024/09/14/kde-akademy-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/09/14/kde-akademy-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 14 Sep 2024 06:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 Plasma：6.2 测试版发布！</title>
+      <link>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/09/13/this-week-in-plasma-6-2-beta-release/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 14 Sep 2024 02:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
