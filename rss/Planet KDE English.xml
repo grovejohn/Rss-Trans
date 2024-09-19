@@ -4,13 +4,43 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 19 Sep 2024 08:41:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 14:39:17 GMT</lastBuildDate>
     <item>
       <title>实现音频混音器（第 2 部分）</title>
       <link>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</guid>
       <pubDate>Thu, 19 Sep 2024 07:15:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>芝麻菜2.3.0</title>
+      <link>https://blogs.kde.org/2024/09/19/ruqola-2.3.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Ruqola 2.3.0 是 Rocket.chat 应用程序的一个功能和错误修复版本。
+新功能：
+
+实现 Rocket.Chat 市场。
+允许清理房间历史记录。
+允许检查新版本。
+实现审核（管理员模式）。
+添加欢迎页面。
+实现待处理用户信息（管理员模式）。
+使用 cmark-rc (https://github.com/dfaure/cmark-rc) 实现 markdown 支持。
+从某些缓存目录（文件上传和媒体）中删除最旧的文件，这样它就不会永远增长。
+
+已修复错误：
+
+30 分钟后清理市场应用模型（减少内存占用）。
+修复完成时显示讨论名称的问题。
+修复搜索消息对话框中的重复消息。
+在团队对话框中的搜索房间中添加代表。
+
+URL： https://download.kde.org/stable/ruqola/
+来源：ruqola-2.3.0.tar.xz
+SHA256： 051186793b7edc4fb2151c80ceab3bcfd65acb27d38305568fda54553660fdd0
+签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
+https://jriddell.org/jriddell.pgp]]></description>
+      <guid>https://blogs.kde.org/2024/09/19/ruqola-2.3.0/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>我的第一次学院冒险</title>
@@ -112,13 +142,6 @@ BoF 最佳实践的视频教程（Kieryn 说服我参加）
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/09/14/web-review-week-2024-37/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Sep 2024 11:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>学院2024</title>
-      <link>https://www.volkerkrause.eu/2024/09/14/kde-akademy-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/09/14/kde-akademy-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 14 Sep 2024 06:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
