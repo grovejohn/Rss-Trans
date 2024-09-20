@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 19 Sep 2024 18:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 08:41:27 GMT</lastBuildDate>
+    <item>
+      <title>发布 GCompris 4.2</title>
+      <link>https://www.gcompris.net/newsall-en.html#2024-09-20?utm_source=atom_feed</link>
+      <description><![CDATA[ 今天我们发布了 GCompris 4.2 版。 它修复了多个活动中的错误并改进了图形。 此版本添加了拉脱维亚语的翻译。 它已完全翻译为以下语言：  阿拉伯语 保加利亚语 布列塔尼语 加泰罗尼亚语 加泰罗尼亚语（巴伦西亚语） 希腊语 英国英语 世界语 西班牙语 巴斯克语 法语 加利西亚语 克罗地亚语 匈牙利语 印度尼西亚语 意大利语 立陶宛语 拉脱维亚语 马拉雅拉姆语 荷兰语 挪威尼诺斯克语 波兰语 巴西葡萄牙语 罗马尼亚语 俄语 斯洛文尼亚语 阿尔巴尼亚语 瑞典语 斯瓦希里语 土耳其语 乌克兰语  它还部分翻译为以下语言：  阿塞拜疆语 (97%) 白俄罗斯语 (87%) 捷克语 (97%) 德语 (96%) 爱沙尼亚语 (96%) 芬兰语 (95%) 希伯来语 (96%) 马其顿语 (90%) 葡萄牙语 (96%) 斯洛伐克语 (84%) 繁体中文 (96%)  您可以找到适用于 GNU/Linux 的新版本的软件包， Windows、Android、Raspberry Pi 和 macOS 可在 下载页面 上下载。此更新也将很快在 Android Play 商店、F-Droid 存储库和 Windows 商店中推出。 谢谢大家，Timothée &amp; Johnny  ]]></description>
+      <guid>https://www.gcompris.net/newsall-en.html#2024-09-20?utm_source=atom_feed</guid>
+      <pubDate>Thu, 19 Sep 2024 22:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Okteta 荣获 2024 年 Akademy 奖“最佳应用”</title>
       <link>https://frinring.wordpress.com/2024/09/19/okteta-got-best-application-2024-akademy-award/?utm_source=atom_feed</link>
@@ -135,13 +142,6 @@ BoF 最佳实践的视频教程（Kieryn 说服我参加）
       <description><![CDATA[]]></description>
       <guid>https://kdenlive.org/en/2024/09/kdenlive-24-08-1-released/?utm_source=atom_feed</guid>
       <pubDate>Sun, 15 Sep 2024 18:23:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 找到了我</title>
-      <link>https://nicolasfella.de/posts/akademy-2024/?utm_source=atom_feed?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://nicolasfella.de/posts/akademy-2024/?utm_source=atom_feed?utm_source=atom_feed</guid>
-      <pubDate>Sat, 14 Sep 2024 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
