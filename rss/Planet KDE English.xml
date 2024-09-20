@@ -4,11 +4,54 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Sep 2024 08:41:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 10:40:14 GMT</lastBuildDate>
+    <item>
+      <title>Qt Gradle 插件 1.0 发布</title>
+      <link>https://www.qt.io/blog/qt-gradle-plugin-1.0-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt Gradle Plugin 1.0 (QtGP) 构建工具已发布。您可以从Maven Central将其包含在您的 Android 构建中。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-gradle-plugin-1.0-released?utm_source=atom_feed</guid>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络评论，第 2024-38 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/09/20/web-review-week-2024-38/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/09/20/web-review-week-2024-38/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 20 Sep 2024 09:55:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年学院（在维尔茨堡！）</title>
+      <link>https://blog.david-redondo.de/kde/2024/09/20/akademy.html?utm_source=atom_feed</link>
+      <description><![CDATA[
+今年 Akademy 在维尔茨堡举办（震惊！恐怖！）。我认为说我们成功举办并不夸张。
+它是如何诞生的
+在过去几年的塞萨洛尼基的 Akademy，考虑到该地区 KDE 成员的密度很高，因此提出了在维尔茨堡举办 Akademy 的想法。最重要的是，我们心中有一个完美的场地：两个演讲厅，BoF 室
+以及一个宽敞的公共区域，供人们进行交流和社交。我脑子里有这样的想法，但并没有分享
+或付诸实践。
+然而，Akademy 的作用是让你与人交谈，Tobias 说服我我们应该这样做
+甚至更多人同意在维尔茨堡举办 Akademy 是个好主意！ （当然，对一些鼓励者来说，这并不意味着像我们一样要组织 Akademy……）因此，在 Akademy 的倒数第二天，我坐下来给我以前的大学教授写了一封电子邮件，询问在我们设想的大楼里举办 Akademy 的可能性。
+就这样，在 Akademy 期间进行了一些非正式会谈，在大学举行了一次会议，并在主办方征集之后提交了一份提案，之后你最终每周都会开会讨论和计划 Akademy 的下一期。
+进展如何
+有一些问题，但我认为今年的 Akademy 总体进展顺利。我听到了很多赞扬和积极的反馈，一开始感觉有点不真实（周日晚上所有谈话结束后也是如此）。对我来说最紧张的情况发生在
+周日下午，当时我从团队房间取回正在充电的手机，发现社交活动无法按计划进行，我试图与团队其他成员一起解决这个问题。我认为最终的夜晚非常愉快和放松，你可以感受到
+我的解脱。我听说在我们举行欢迎活动的酒吧之后甚至有一个庆功宴。
+当然，在活动期间总会有一些小问题需要处理和留意，处理它们
+并试图确保一切顺利进行（以及这些事情带来的压力）意味着我无法（并且没有处于正确的精神状态）专注于会谈。当 BoF 日开始时，情况有所好转，但直到周四一日游结束后，我才感到有“会议情绪”，
+并能够完全专注于我参加的 BoF，坐下来稍微破解一下。如果您想了解有关实际会议的更多信息，许多人已经在planet上发表了博客，或者在 Akademy 网站上阅读报告。
+最后，我认为可以说 Akademy 取得了成功。这要归功于KDE e.V.（快去捐款吧！）、赞助商、所有 Akademy 团队的本地和非本地成员、
+所有临时和长期的志愿者，以及最后但并非最不重要的是所有出色的与会者——如果没有人，就不会有 Akademy。
+谢谢大家！我很高兴知道明年的 Akademy 会在哪里举行（你也可以参加 - 这并不难，而且还能获得很棒的奖励），并期待以‘普通参加者’的身份参加，并在那里再次与大家见面（如果不是更早的话）。]]></description>
+      <guid>https://blog.david-redondo.de/kde/2024/09/20/akademy.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 20 Sep 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>发布 GCompris 4.2</title>
       <link>https://www.gcompris.net/newsall-en.html#2024-09-20?utm_source=atom_feed</link>
-      <description><![CDATA[ 今天我们发布了 GCompris 4.2 版。 它修复了多个活动中的错误并改进了图形。 此版本添加了拉脱维亚语的翻译。 它已完全翻译为以下语言：  阿拉伯语 保加利亚语 布列塔尼语 加泰罗尼亚语 加泰罗尼亚语（巴伦西亚语） 希腊语 英国英语 世界语 西班牙语 巴斯克语 法语 加利西亚语 克罗地亚语 匈牙利语 印度尼西亚语 意大利语 立陶宛语 拉脱维亚语 马拉雅拉姆语 荷兰语 挪威尼诺斯克语 波兰语 巴西葡萄牙语 罗马尼亚语 俄语 斯洛文尼亚语 阿尔巴尼亚语 瑞典语 斯瓦希里语 土耳其语 乌克兰语  它还部分翻译为以下语言：  阿塞拜疆语 (97%) 白俄罗斯语 (87%) 捷克语 (97%) 德语 (96%) 爱沙尼亚语 (96%) 芬兰语 (95%) 希伯来语 (96%) 马其顿语 (90%) 葡萄牙语 (96%) 斯洛伐克语 (84%) 繁体中文 (96%)  您可以找到适用于 GNU/Linux 的新版本的软件包， Windows、Android、Raspberry Pi 和 macOS 可在 下载页面 上下载。此更新也将很快在 Android Play 商店、F-Droid 存储库和 Windows 商店中推出。 谢谢大家，Timothée &amp; Johnny  ]]></description>
+      <description><![CDATA[ 今天我们发布了 GCompris 4.2 版。 它修复了多个活动中的错误并改进了图形。 此版本添加了拉脱维亚语的翻译。 它已完全翻译为以下语言：  阿拉伯语 保加利亚语 布列塔尼语 加泰罗尼亚语 加泰罗尼亚语（巴伦西亚语） 希腊语 英国英语 世界语 西班牙语 巴斯克语 法语 加利西亚语 克罗地亚语 匈牙利语 印度尼西亚语 意大利语 立陶宛语 拉脱维亚语 马拉雅拉姆语 荷兰语 挪威尼诺斯克语 波兰语 巴西葡萄牙语 罗马尼亚语 俄语 斯洛文尼亚语 阿尔巴尼亚语 瑞典语 斯瓦希里语 土耳其语 乌克兰语  它还部分翻译为以下语言：  阿塞拜疆语 (97%) 白俄罗斯语 (87%) 捷克语 (97%) 德语 (96%) 爱沙尼亚语 (96%) 芬兰语 (95%) 希伯来语 (96%) 马其顿语 (90%) 葡萄牙语 (96%) 斯洛伐克语 (84%) 繁体中文 (96%)  您可以找到适用于 GNU/Linux 的新版本的软件包， Windows、Android、Raspberry Pi 和 macOS 可在 下载页面 上下载。此更新也将很快在 Android Play 商店、F-Droid 存储库和 Windows 商店中提供。 谢谢大家，Timothée &amp; Johnny  ]]></description>
       <guid>https://www.gcompris.net/newsall-en.html#2024-09-20?utm_source=atom_feed</guid>
       <pubDate>Thu, 19 Sep 2024 22:00:00 GMT</pubDate>
     </item>
@@ -57,6 +100,17 @@ https://jriddell.org/jriddell.pgp]]></description>
       <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Qt for MCUs 2.8.1 LTS 发布</title>
+      <link>https://www.qt.io/blog/qt-for-mcus-2.8.1-lts-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt for MCUs 2.8.1 LTS（长期支持）已发布并可供下载。  此第一个补丁版本提供了错误修复和其他改进，同时保持了与 Qt for MCUs 2.8 的源兼容性。它没有添加任何新功能。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-for-mcus-2.8.1-lts-released?utm_source=atom_feed</guid>
+      <pubDate>Wed, 18 Sep 2024 11:50:54 GMT</pubDate>
+    </item>
+    <item>
       <title>我的第一次学院冒险</title>
       <link>https://blogs.kde.org/2024/09/18/my-first-akademy-adventure/?utm_source=atom_feed</link>
       <description><![CDATA[今年是我第一次参加 Akademy，我很高兴能够亲自参加。更棒的是，一些老会员说这是迄今为止最好的 Akademy。很高兴见到我在四月份认识的一些人，也认识了一些新朋友。我于 9 月 6 日星期五抵达，并于下周五离开。我非常喜欢住在美丽的维尔茨堡小镇，并参加了罗滕堡一日游。现在我已经补上了睡眠（时差是真的），是时候写写它了。
@@ -98,7 +152,7 @@ BoF 会议
 Plasma “Next”倡议
 Union：KDE 中样式的未来
 KWallet 现代替代品
-BoF 最佳实践的视频教程（Kieryn 说服我参加）
+BoF 最佳实践的视频教程（Kieryn 让我参与了这个）
 安全团队 BoF 笔记
 
 感谢所有人让今年的 Akademy 成为如此美妙的体验。如果
@@ -113,35 +167,6 @@ BoF 最佳实践的视频教程（Kieryn 说服我参加）
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/09/18/power-input-people-at-akademy-2024/?utm_source=atom_feed</guid>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>学院2024</title>
-      <link>https://blog.bembel.net/2024/09/akademy-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.bembel.net/2024/09/akademy-2024/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 17 Sep 2024 12:21:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE neon 测试版中的 Plasma 6.2 Beta</title>
-      <link>https://blog.neon.kde.org/2024/09/16/plasma-6-2-beta-in-kde-neon-testing-edition/?utm_source=atom_feed</link>
-      <description><![CDATA[
-从维尔茨堡 Akademy 的欢乐时光回来后，我们现在可以着手测试 Plasma 6.2 测试版这一重要任务。它现在处于 KDE neon 测试版中，我们从 Git 分支构建，并将在 2.5 周后用于制作 6.2 最终版本。 立即获取，或者如果您没有机器来安装它，您可以使用简单命令“neondocker -p -e testing”尝试 Docker 映像。]]></description>
-      <guid>https://blog.neon.kde.org/2024/09/16/plasma-6-2-beta-in-kde-neon-testing-edition/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 16 Sep 2024 15:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用</title>
-      <link>https://blogs.kde.org/2024/09/16/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/09/16/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 24.08.1 发布</title>
-      <link>https://kdenlive.org/en/2024/09/kdenlive-24-08-1-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kdenlive.org/en/2024/09/kdenlive-24-08-1-released/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 15 Sep 2024 18:23:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
