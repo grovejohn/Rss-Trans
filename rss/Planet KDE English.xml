@@ -4,7 +4,29 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Sep 2024 10:40:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 22:39:39 GMT</lastBuildDate>
+    <item>
+      <title>Plasma Wayland 中即将出现的平板电脑输入变化</title>
+      <link>https://blog.vladzahorodnii.com/2024/09/20/upcoming-tablet-input-changes-in-plasma-wayland/?utm_source=atom_feed</link>
+      <description><![CDATA[这篇博文提供了有关计划中的平板电脑输入更改的提示，这些更改正在为 Plasma 6.3 酝酿。KWin 提供了对平板电脑输入协议的支持，但客户端的情况有所不同。有些应用程序支持它，有些则不支持。如果应用程序支持平板电脑输入协议，那太好了，它将按原样接收平板电脑输入事件。另一方面，如果应用程序不支持平板电脑输入协议，那么 KWin 会将平板电脑输入伪装成指针输入。在 Plasma 6.3 中，KWin 将停止这样做，我认为我们应该简要谈谈是什么促使我们做出这样的决定以及它会产生什么影响。
+最初，当平板电脑输入协议支持在 KWin 中出现时，仍然有相当多的应用程序和工具包支持它。模拟平板电脑输入是一个相当合理的决定，否则您可能根本无法在 Plasma Wayland 会话中使用平板电脑。随着时间的推移，越来越多的客户端获得了对平板电脑协议的本地支持。不幸的是，与此同时，我们也开始注意到平板电脑模拟的各种问题。
+那么，合理的解决办法是什么？当然是修复错误。我们做到了。但仍有一系列问题无法解决，除非给已经过于复杂的代码带来更多复杂性，而我们正在努力维持这些代码。够了就够了。
+问：6.3 中有什么新功能？
+答：从 6.3 开始，平板电脑输入模拟将被弃用并默认禁用。请注意，您可以通过设置 KWIN_WAYLAND_EMULATE_TABLET=1 环境变量来重新启用它。
+问：平板电脑输入模拟何时会被放弃？
+答：目前没有具体的里程碑。
+问：这对您意味着什么？（作为用户）
+答：希望没有任何意义。GTK、Qt 和 SDL 等主要工具包已经为平板电脑协议提供支持，Xwayland 也是如此。因此，您应该能够在使用上述工具包的 X11 应用程序或 Wayland 原生应用程序中毫无问题地使用平板电脑。 Chromium/Electron 仍然没有在 Wayland 上提供对平板电脑输入的原生支持，但值得注意的是，除非用户设置一些命令行参数，否则大多数此类应用程序默认通过 Xwayland 运行。
+如果您最喜欢的应用程序不支持平板电脑，请告诉该应用程序的开发人员，让他们知道需要这种操作模式。
+问：我应该怎么做？（作为工具包开发人员）
+答：请添加对平板电脑的支持！如果您的工具包已经支持平板电脑输入协议，太好了，不用做任何工作了。\o/
+问：KWin 是否独自停止模拟平板电脑输入？
+答：不是。 Mutter（GNOME Shell 中的 Wayland 合成器）也无法模拟平板电脑输入。
+结束语
+弃用平板电脑模拟功能令人失望，但我们拥有的选择也并不多。要么在已经过于复杂的代码库中引入更多复杂性以修复现有问题（甚至添加更多代码以确保在使用指针和平板电脑时正确管理指针焦点），要么对未选择平板电脑输入的应用程序不采取任何特殊措施。希望在不久的将来，仍然缺少平板电脑支持的其余应用程序和工具包能够添加此功能。如果您对此有更多想法，请通过我们的矩阵室与我们联系。]]></description>
+      <guid>https://blog.vladzahorodnii.com/2024/09/20/upcoming-tablet-input-changes-in-plasma-wayland/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 20 Sep 2024 19:20:29 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Gradle 插件 1.0 发布</title>
       <link>https://www.qt.io/blog/qt-gradle-plugin-1.0-released?utm_source=atom_feed</link>
@@ -152,20 +174,13 @@ BoF 会议
 Plasma “Next”倡议
 Union：KDE 中样式的未来
 KWallet 现代替代品
-BoF 最佳实践的视频教程（Kieryn 让我参与了这个）
+BoF 最佳实践的视频教程（Kieryn 说服我参加）
 安全团队 BoF 笔记
 
 感谢所有人让今年的 Akademy 成为如此美妙的体验。如果
 有人想参加明年的 Akademy，并且可以参加，我真的
 推荐它。我希望参加 2025 年的 Akademy！]]></description>
       <guid>https://blogs.kde.org/2024/09/18/my-first-akademy-adventure/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 2024 的力量、投入和人员</title>
-      <link>https://blogs.kde.org/2024/09/18/power-input-people-at-akademy-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/09/18/power-input-people-at-akademy-2024/?utm_source=atom_feed</guid>
       <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
