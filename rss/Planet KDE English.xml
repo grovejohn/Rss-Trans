@@ -4,7 +4,24 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Sep 2024 10:38:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 14:36:50 GMT</lastBuildDate>
+    <item>
+      <title>Dolphin 插件 24.08</title>
+      <link>https://meven.github.io/dolphin-plugins-24-08/?utm_source=atom_feed</link>
+      <description><![CDATA[从 dolphin-plugins 24.05 开始，您可以使用 dolphin-plugins git 插件从 dolphin git clone。
+安装插件并在上下文菜单设置中启用 Git 后，您可以使用此上下文菜单操作：
+
+这显示了此 git clone 对话框（使用我的法语语言环境）：
+
+您可以粘贴 git 存储库 url，它将获取其分支。
+如果您的剪贴板或 git clone 命令行中恰好有一个 URL，它将直接将其提取为存储库 URL。
+这是由 Nikolai Krasheninnikov 牵头的，谢谢。
+我也参与了一点并对其进行了审查。
+仍然有机会改进 git 实现，例如拥有更好的提交对话框。
+那将是一个不错且简单的新贡献者机会 :)]]></description>
+      <guid>https://meven.github.io/dolphin-plugins-24-08/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 22 Sep 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kubuntu Oracular Oriole (24.10) Beta 发布</title>
       <link>https://kubuntu.org/news/kubuntu-oracular-oriole-24-10-beta-released/?utm_source=atom_feed</link>
@@ -120,36 +137,6 @@ Qt Gradle Plugin 1.0 (QtGP) 构建工具已发布。您可以从Maven Central将
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</guid>
       <pubDate>Thu, 19 Sep 2024 07:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>芝麻菜2.3.0</title>
-      <link>https://blogs.kde.org/2024/09/19/ruqola-2.3.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Ruqola 2.3.0 是 Rocket.chat 应用程序的一个功能和错误修复版本。
-新功能：
-
-实现 Rocket.Chat 市场。
-允许清理房间历史记录。
-允许检查新版本。
-实现审核（管理员模式）。
-添加欢迎页面。
-实现待处理用户信息（管理员模式）。
-使用 cmark-rc (https://github.com/dfaure/cmark-rc) 实现 markdown 支持。
-从某些缓存目录（文件上传和媒体）中删除最旧的文件，这样它就不会永远增长。
-
-已修复错误：
-
-30 分钟后清理市场应用模型（减少内存占用）。
-修复完成时显示讨论名称的问题。
-修复搜索消息对话框中的重复消息。
-在团队对话框中的搜索房间中添加代表。
-
-URL： https://download.kde.org/stable/ruqola/
-来源：ruqola-2.3.0.tar.xz
-SHA256： 051186793b7edc4fb2151c80ceab3bcfd65acb27d38305568fda54553660fdd0
-签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
-https://jriddell.org/jriddell.pgp]]></description>
-      <guid>https://blogs.kde.org/2024/09/19/ruqola-2.3.0/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
