@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Sep 2024 06:42:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 08:39:00 GMT</lastBuildDate>
     <item>
       <title>Kubuntu Oracular Oriole (24.10) Beta 发布</title>
       <link>https://kubuntu.org/news/kubuntu-oracular-oriole-24-10-beta-released/?utm_source=atom_feed</link>
@@ -101,6 +101,13 @@ Qt Gradle Plugin 1.0 (QtGP) 构建工具已发布。您可以从Maven Central将
       <pubDate>Fri, 20 Sep 2024 09:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>发布 GCompris 4.2</title>
+      <link>https://www.gcompris.net/newsall-en.html#2024-09-20?utm_source=atom_feed</link>
+      <description><![CDATA[ 今天我们发布了 GCompris 4.2 版。 它修复了多个活动中的错误并改进了图形。 此版本添加了拉脱维亚语的翻译。 它已完全翻译为以下语言：  阿拉伯语 保加利亚语 布列塔尼语 加泰罗尼亚语 加泰罗尼亚语（巴伦西亚语） 希腊语 英国英语 世界语 西班牙语 巴斯克语 法语 加利西亚语 克罗地亚语 匈牙利语 印度尼西亚语 意大利语 立陶宛语 拉脱维亚语 马拉雅拉姆语 荷兰语 挪威尼诺斯克语 波兰语 巴西葡萄牙语 罗马尼亚语 俄语 斯洛文尼亚语 阿尔巴尼亚语 瑞典语 斯瓦希里语 土耳其语 乌克兰语  它还部分翻译为以下语言：  阿塞拜疆语 (97%) 白俄罗斯语 (87%) 捷克语 (97%) 德语 (96%) 爱沙尼亚语 (96%) 芬兰语 (95%) 希伯来语 (96%) 马其顿语 (90%) 葡萄牙语 (96%) 斯洛伐克语 (84%) 繁体中文 (96%)  您可以找到适用于 GNU/Linux、 Windows、Android、Raspberry Pi 和 macOS 可在 下载页面 上下载。此更新也将很快在 Android Play 商店、F-Droid 存储库和 Windows 商店中推出。 谢谢大家，Timothée &amp; Johnny  ]]></description>
+      <guid>https://www.gcompris.net/newsall-en.html#2024-09-20?utm_source=atom_feed</guid>
+      <pubDate>Thu, 19 Sep 2024 22:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Okteta 荣获 2024 年 Akademy 奖“最佳应用”</title>
       <link>https://frinring.wordpress.com/2024/09/19/okteta-got-best-application-2024-akademy-award/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -143,17 +150,6 @@ SHA256： 051186793b7edc4fb2151c80ceab3bcfd65acb27d38305568fda54553660fdd0
 https://jriddell.org/jriddell.pgp]]></description>
       <guid>https://blogs.kde.org/2024/09/19/ruqola-2.3.0/?utm_source=atom_feed</guid>
       <pubDate>Thu, 19 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt for MCUs 2.8.1 LTS 发布</title>
-      <link>https://www.qt.io/blog/qt-for-mcus-2.8.1-lts-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt for MCUs 2.8.1 LTS（长期支持）已发布并可供下载。  此第一个补丁版本提供了错误修复和其他改进，同时保持了与 Qt for MCUs 2.8 的源兼容性。它没有添加任何新功能。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-for-mcus-2.8.1-lts-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 18 Sep 2024 11:50:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
