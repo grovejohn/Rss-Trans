@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 23 Sep 2024 11:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 13:41:11 GMT</lastBuildDate>
+    <item>
+      <title>周日，一枚中国火箭险些着陆——视频令人惊叹</title>
+      <link>https://arstechnica.com/?p=2051630</link>
+      <description><![CDATA[深蓝航天只是中国几家致力于垂直着陆的公司之一。]]></description>
+      <guid>https://arstechnica.com/?p=2051630</guid>
+      <pubDate>Mon, 23 Sep 2024 13:04:22 GMT</pubDate>
+    </item>
     <item>
       <title>串联 OLED 是 OLED 对抗 MicroLED、QDEL 的最新武器</title>
       <link>https://arstechnica.com/?p=2041081</link>
@@ -15,7 +22,7 @@
     <item>
       <title>当你给餐厅打电话时，你可能正在与人工智能服务员聊天</title>
       <link>https://arstechnica.com/?p=2051613</link>
-      <description><![CDATA[语音聊天机器人越来越多地为餐馆接听电话。]]></description>
+      <description><![CDATA[语音聊天机器人越来越多地用于接听餐厅电话。]]></description>
       <guid>https://arstechnica.com/?p=2051613</guid>
       <pubDate>Sun, 22 Sep 2024 11:12:46 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[TI-84 内部安装的微型设备可实现 Wi-Fi 互联网和 AI 聊天机器人的访问。]]></description>
       <guid>https://arstechnica.com/?p=2051342</guid>
       <pubDate>Fri, 20 Sep 2024 21:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌呼吁停止使用 WHOIS 进行 TLS 域名验证</title>
-      <link>https://arstechnica.com/?p=2051511</link>
-      <description><![CDATA[WHOIS 数据不可靠。那么为什么在 TLS 证书申请中使用它呢？]]></description>
-      <guid>https://arstechnica.com/?p=2051511</guid>
-      <pubDate>Fri, 20 Sep 2024 20:53:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

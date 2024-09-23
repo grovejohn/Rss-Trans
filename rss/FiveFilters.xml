@@ -4,7 +4,15 @@
     <title>FiveFilters.org</title>
     <link>https://www.fivefilters.org/</link>
     <description>网络文章变得易于访问</description>
-    <lastBuildDate>Mon, 15 Jul 2024 15:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 13:41:03 GMT</lastBuildDate>
+    <item>
+      <title>Feed 模板、Google 新闻支持等</title>
+      <link>https://www.fivefilters.org/2024/rss-templates-google-news-support-and-more/</link>
+      <description><![CDATA[我们的 Feed 控制服务现在具有新的 RSS 模板、对 Google 新闻的支持以及其他一些旨在让您更轻松地管理 Feed 的增强功能。
+文章Feed 模板、Google 新闻支持等首先出现在FiveFilters.org上。]]></description>
+      <guid>https://www.fivefilters.org/2024/rss-templates-google-news-support-and-more/</guid>
+      <pubDate>Mon, 23 Sep 2024 13:16:46 GMT</pubDate>
+    </item>
     <item>
       <title>信息流模板和 AI 语音播客</title>
       <link>https://www.fivefilters.org/2024/feed-templates-and-ai-voiced-podcasts/</link>
@@ -32,7 +40,7 @@
     <item>
       <title>格伦·格林沃尔德 (Glenn Greenwald) 谈维基百科偏见</title>
       <link>https://www.fivefilters.org/2023/glenn-greenwald-on-wikipedia-bias/</link>
-      <description><![CDATA[格伦·格林沃尔德 (Glenn Greenwald) 的系统更新一集关于维基百科的建制偏见值得一看。格林沃尔德还讨论了维基百科的“可靠来源”政策如何在这方面发挥作用。
+      <description><![CDATA[格伦·格林沃尔德 (Glenn Greenwald) 的系统更新一集关于维基百科的建制偏见值得一看。格林沃尔德还讨论了维基百科的“可靠来源”政策如何发挥作用。
 帖子格伦·格林沃尔德 (Glenn Greenwald) 谈维基百科偏见首先出现在FiveFilters.org上。]]></description>
       <guid>https://www.fivefilters.org/2023/glenn-greenwald-on-wikipedia-bias/</guid>
       <pubDate>Mon, 14 Aug 2023 19:50:11 GMT</pubDate>
@@ -49,7 +57,7 @@
       <title>新的 Push to Kindle iOS 应用</title>
       <link>https://www.fivefilters.org/2023/new-push-to-kindle-ios-app/</link>
       <description><![CDATA[我们在 Apple App Store 上推出了 Push to Kindle iOS 应用的新版本。Push to Kindle 可将网络文章转换为电子书，并将其发送到您的 Kindle 帐户，以获得更好的阅读体验。
-文章新的 Push to Kindle iOS 应用首先出现在FiveFilters.org上。]]></description>
+文章新 Push to Kindle iOS 应用首先出现在FiveFilters.org上。]]></description>
       <guid>https://www.fivefilters.org/2023/new-push-to-kindle-ios-app/</guid>
       <pubDate>Wed, 08 Mar 2023 16:02:46 GMT</pubDate>
     </item>
@@ -76,14 +84,6 @@
 帖子Push to Kindle：封面图片和速度改进首先出现在FiveFilters.org上。]]></description>
       <guid>https://www.fivefilters.org/2022/push-to-kindle-cover-images-and-speed-improvements/</guid>
       <pubDate>Sun, 06 Nov 2022 21:19:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kindle EPUB 问题</title>
-      <link>https://www.fivefilters.org/2022/kindle-epub-issues/</link>
-      <description><![CDATA[亚马逊目前无法正确处理通过其 Kindle 个人文档服务发送的 EPUB 元数据。如果您通过电子邮件将 EPUB 发送到您的 Kindle 帐户，或者使用第三方应用程序（如我们的 Push to Kindle 服务）发送网络文章，您可能会受到影响。
-帖子Kindle EPUB 问题首先出现在FiveFilters.org上。]]></description>
-      <guid>https://www.fivefilters.org/2022/kindle-epub-issues/</guid>
-      <pubDate>Fri, 30 Sep 2022 12:06:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
