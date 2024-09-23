@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 22 Sep 2024 11:36:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 11:36:22 GMT</lastBuildDate>
+    <item>
+      <title>串联 OLED 是 OLED 对抗 MicroLED、QDEL 的最新武器</title>
+      <link>https://arstechnica.com/?p=2041081</link>
+      <description><![CDATA[更明亮、更坚固的 Tandem RGB 堆栈可能有助于 OLED 保持其显示器主导地位。]]></description>
+      <guid>https://arstechnica.com/?p=2041081</guid>
+      <pubDate>Mon, 23 Sep 2024 11:00:38 GMT</pubDate>
+    </item>
     <item>
       <title>当你给餐厅打电话时，你可能正在与人工智能服务员聊天</title>
       <link>https://arstechnica.com/?p=2051613</link>
@@ -64,16 +71,9 @@
     <item>
       <title>谷歌呼吁停止使用 WHOIS 进行 TLS 域名验证</title>
       <link>https://arstechnica.com/?p=2051511</link>
-      <description><![CDATA[WHOIS 数据不可靠。那么为什么它会被用在 TLS 证书申请中呢？]]></description>
+      <description><![CDATA[WHOIS 数据不可靠。那么为什么在 TLS 证书申请中使用它呢？]]></description>
       <guid>https://arstechnica.com/?p=2051511</guid>
       <pubDate>Fri, 20 Sep 2024 20:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为高级用户评测 iOS 18：控制中心、iCloud 等</title>
-      <link>https://arstechnica.com/?p=2050326</link>
-      <description><![CDATA[不要介意表情符号——这里有一些可以让 iOS 更高效的东西。]]></description>
-      <guid>https://arstechnica.com/?p=2050326</guid>
-      <pubDate>Fri, 20 Sep 2024 19:53:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
