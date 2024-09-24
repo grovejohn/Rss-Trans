@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Sep 2024 08:43:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 13:02:15 GMT</lastBuildDate>
+    <item>
+      <title>Plasma 浏览器集成 2.0</title>
+      <link>https://blog.broulik.de/2024/09/plasma-browser-integration-2-0/?utm_source=atom_feed</link>
+      <description><![CDATA[我很高兴地宣布，Plasma Browser Integration 2.0 版现已在 Chrome 网上应用店和 Microsoft Edge 附加组件页面上发布。此版本将扩展更新为 Manifest 版本 3，Chrome 很快将需要该版本。主要版本的提升反映了实现此移植所花费的工作量。
+Konqi 正在浏览万维网
+Plasma 浏览器集成弥合了您的浏览器和 Plasma 之间的差距桌面。它允许您共享链接、在 KRunner 中查找浏览器选项卡和访问过的网站、在通知中心监控下载进度，以及随时从 Plasma 中控制音乐和视频播放，甚至使用 KDE Con​​nect 从手机上控制音乐和视频播放！
+
+尽管版本号不同，但面向用户的更改并不多。不过，此版本附带了常规的翻译更新。由于此版本与之前的 1.9.1相比，不会为 Firefox 用户带来任何优势，因此 Mozilla 附加组件商店将不会提供此版本。
+我们借此机会重新编写了扩展清单，使“历史记录”权限成为强制性的。当最初添加浏览器历史记录 KRunner 模块时，该权限是可选的，因为我们担心在更新扩展时出现可怕的权限警告时可能会吓跑用户。
+（另请参阅我们社区 Wiki 上的变更日志页面）]]></description>
+      <guid>https://blog.broulik.de/2024/09/plasma-browser-integration-2-0/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 24 Sep 2024 11:19:21 GMT</pubDate>
+    </item>
     <item>
       <title>Dolphin 插件 24.08</title>
       <link>https://meven.github.io/dolphin-plugins-24-08/?utm_source=atom_feed</link>
@@ -32,7 +45,7 @@
     <item>
       <title>Kubuntu Oracular Oriole (24.10) Beta 发布</title>
       <link>https://kubuntu.org/news/kubuntu-oracular-oriole-24-10-beta-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Kubuntu Oracular Oriole 测试版（将于 10 月升级为 24.10）现已发布，可供下载。
+      <description><![CDATA[Kubuntu Oracular Oriole 测试版（10 月将升级为 24.10）现已发布，可供下载。
 此里程碑版本包含 Kubuntu 和其他 Ubuntu 版本的镜像。
 预发布版Kubuntu Mantic Minotaur 不推荐用于：
 需要稳定系统的任何人不了解预发布问题的普通用户在生产环境中需要可靠数据或工作流程的任何人
@@ -126,13 +139,6 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
       <description><![CDATA[]]></description>
       <guid>https://frinring.wordpress.com/2024/09/19/okteta-got-best-application-2024-akademy-award/?utm_source=atom_feed</guid>
       <pubDate>Thu, 19 Sep 2024 17:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现音频混音器（第 2 部分）</title>
-      <link>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 19 Sep 2024 07:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
