@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Sep 2024 02:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 04:41:05 GMT</lastBuildDate>
     <item>
       <title>Dolphin 插件 24.08</title>
       <link>https://meven.github.io/dolphin-plugins-24-08/?utm_source=atom_feed</link>
@@ -28,6 +28,29 @@
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/09/22/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kubuntu Oracular Oriole (24.10) Beta 发布</title>
+      <link>https://kubuntu.org/news/kubuntu-oracular-oriole-24-10-beta-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Kubuntu Oracular Oriole 测试版（将于 10 月升级为 24.10）现已发布，可供下载。
+此里程碑版本包含 Kubuntu 和其他 Ubuntu 版本的镜像。
+预发布版Kubuntu Mantic Minotaur 不推荐用于：
+需要稳定系统的任何人不了解预发布问题的普通用户在生产环境中需要可靠数据或工作流程的任何人
+但是，推荐用于：
+希望通过查找、报告和/或修复来帮助我们测试的普通用户错误Kubuntu、KDE ​​和 Qt 开发人员其他 Ubuntu 风格开发人员
+Beta 版包含一些可供更广泛测试的软件更新。但是，这是一组早期的图像，因此您应该预料到会有一些错误。
+我们强烈建议测试人员在安装之前阅读 Kubuntu 24.10 Beta 发行说明，特别是有关 ‘已知问题‘ 的部分。
+
+
+您还可以在主要 Ubuntu Beta 版本说明和公告中找到有关整个 24.10 版本（基础、内核、图形等）的更多信息。
+﻿
+要在 Kubuntu 24.10 中的 KDE Discover 中启用 Flatpaks，请运行以下命令：
+sudo apt install flatpak plasma-discover-backend-flatpak﻿
+要启用最大的 Flatpak 存储库，请运行此命令命令：
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo﻿
+注销并重新登录（或重新启动）以重新初始化 XDG_DATA_DIRS 变量，否则，新安装的 Flatpak 应用程序将不会运行或出现在启动菜单中。]]></description>
+      <guid>https://kubuntu.org/news/kubuntu-oracular-oriole-24-10-beta-released/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 21 Sep 2024 22:38:41 GMT</pubDate>
     </item>
     <item>
       <title>本周等离子体：疯狂抛光</title>
@@ -104,7 +127,7 @@ Qt Gradle Plugin 1.0 (QtGP) 构建工具已发布。您可以从Maven Central将
     <item>
       <title>发布 GCompris 4.2</title>
       <link>https://www.gcompris.net/newsall-en.html#2024-09-20?utm_source=atom_feed</link>
-      <description><![CDATA[ 今天我们发布了 GCompris 4.2 版。 它修复了多个活动中的错误并改进了图形。 此版本添加了拉脱维亚语的翻译。 它已完全翻译为以下语言：  阿拉伯语 保加利亚语 布列塔尼语 加泰罗尼亚语 加泰罗尼亚语（巴伦西亚语） 希腊语 英国英语 世界语 西班牙语 巴斯克语 法语 加利西亚语 克罗地亚语 匈牙利语 印度尼西亚语 意大利语 立陶宛语 拉脱维亚语 马拉雅拉姆语 荷兰语 挪威尼诺斯克语 波兰语 巴西葡萄牙语 罗马尼亚语 俄语 斯洛文尼亚语 阿尔巴尼亚语 瑞典语 斯瓦希里语 土耳其语 乌克兰语  它还部分翻译为以下语言：  阿塞拜疆语 (97%) 白俄罗斯语 (87%) 捷克语 (97%) 德语 (96%) 爱沙尼亚语 (96%) 芬兰语 (95%) 希伯来语 (96%) 马其顿语 (90%) 葡萄牙语 (96%) 斯洛伐克语 (84%) 繁体中文 (96%)  您可以找到适用于 GNU/Linux、 Windows、Android、Raspberry Pi 和 macOS 可在 下载页面 上下载。此更新也将很快在 Android Play 商店、F-Droid 存储库和 Windows 商店中提供。 谢谢大家，Timothée &amp; Johnny  ]]></description>
+      <description><![CDATA[ 今天我们发布了 GCompris 4.2 版。 它修复了多个活动中的错误并改进了图形。 此版本添加了拉脱维亚语的翻译。 它已完全翻译为以下语言：  阿拉伯语 保加利亚语 布列塔尼语 加泰罗尼亚语 加泰罗尼亚语（巴伦西亚语） 希腊语 英国英语 世界语 西班牙语 巴斯克语 法语 加利西亚语 克罗地亚语 匈牙利语 印度尼西亚语 意大利语 立陶宛语 拉脱维亚语 马拉雅拉姆语 荷兰语 挪威尼诺斯克语 波兰语 巴西葡萄牙语 罗马尼亚语 俄语 斯洛文尼亚语 阿尔巴尼亚语 瑞典语 斯瓦希里语 土耳其语 乌克兰语  它还部分翻译为以下语言：  阿塞拜疆语 (97%) 白俄罗斯语 (87%) 捷克语 (97%) 德语 (96%) 爱沙尼亚语 (96%) 芬兰语 (95%) 希伯来语 (96%) 马其顿语 (90%) 葡萄牙语 (96%) 斯洛伐克语 (84%) 繁体中文 (96%)  您可以找到适用于 GNU/Linux、 Windows、Android、Raspberry Pi 和 macOS 可在 下载页面 上下载。此更新也将很快在 Android Play 商店、F-Droid 存储库和 Windows 商店中推出。 谢谢大家，Timothée &amp; Johnny  ]]></description>
       <guid>https://www.gcompris.net/newsall-en.html#2024-09-20?utm_source=atom_feed</guid>
       <pubDate>Thu, 19 Sep 2024 22:00:00 GMT</pubDate>
     </item>
@@ -114,13 +137,6 @@ Qt Gradle Plugin 1.0 (QtGP) 构建工具已发布。您可以从Maven Central将
       <description><![CDATA[]]></description>
       <guid>https://frinring.wordpress.com/2024/09/19/okteta-got-best-application-2024-akademy-award/?utm_source=atom_feed</guid>
       <pubDate>Thu, 19 Sep 2024 17:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现音频混音器（第 2 部分）</title>
-      <link>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/implementing-an-audio-mixer-part-2/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 19 Sep 2024 07:15:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
