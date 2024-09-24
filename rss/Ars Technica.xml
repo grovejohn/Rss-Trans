@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 24 Sep 2024 17:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 18:20:23 GMT</lastBuildDate>
+    <item>
+      <title>加州州长否决要求在浏览器和操作系统中提供新的隐私选项的尝试</title>
+      <link>https://arstechnica.com/?p=2052064</link>
+      <description><![CDATA[加文·纽瑟姆表示，他反对对移动操作系统开发商实施强制规定。]]></description>
+      <guid>https://arstechnica.com/?p=2052064</guid>
+      <pubDate>Tue, 24 Sep 2024 17:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>辐射应该能够偏转直径达 4 公里的小行星</title>
+      <link>https://arstechnica.com/?p=2052055</link>
+      <description><![CDATA[研究人员用强烈的X射线冲击二氧化硅，观察其蒸发。]]></description>
+      <guid>https://arstechnica.com/?p=2052055</guid>
+      <pubDate>Tue, 24 Sep 2024 17:37:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局准备开始从联合发射联盟购买 Vulcan 火箭</title>
+      <link>https://arstechnica.com/?p=2051934</link>
+      <description><![CDATA[火神火箭的第二次试飞计划于10月4日升空。]]></description>
+      <guid>https://arstechnica.com/?p=2051934</guid>
+      <pubDate>Tue, 24 Sep 2024 17:14:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究发现，汽车软件补丁占召回量的 20% 以上</title>
+      <link>https://arstechnica.com/?p=2052050</link>
+      <description><![CDATA[汽车召回的处理方式随着时间的推移而发生了变化。]]></description>
+      <guid>https://arstechnica.com/?p=2052050</guid>
+      <pubDate>Tue, 24 Sep 2024 16:51:54 GMT</pubDate>
+    </item>
     <item>
       <title>博通回应AT&T对VMware支持诉讼：AT&T有“其他选择”</title>
       <link>https://arstechnica.com/?p=2052026</link>
@@ -46,34 +74,6 @@
       <description><![CDATA[该州于 8 月 30 日报告了首批受感染的牛群。]]></description>
       <guid>https://arstechnica.com/?p=2051926</guid>
       <pubDate>Mon, 23 Sep 2024 22:43:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 首席执行官：我们可能在“几千天”内实现超级人工智能</title>
-      <link>https://arstechnica.com/?p=2051754</link>
-      <description><![CDATA[奥尔特曼表示，“深度学习是有效的”，并将带来“巨大的繁荣”。]]></description>
-      <guid>https://arstechnica.com/?p=2051754</guid>
-      <pubDate>Mon, 23 Sep 2024 22:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>卫星图像显示俄罗斯“超级武器”试验惨遭失败</title>
-      <link>https://arstechnica.com/?p=2051740</link>
-      <description><![CDATA[俄罗斯导弹发射井只剩下地面上的一个大洞。]]></description>
-      <guid>https://arstechnica.com/?p=2051740</guid>
-      <pubDate>Mon, 23 Sep 2024 21:57:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>1100 万台设备感染 Google Play 中托管的僵尸网络恶意软件</title>
-      <link>https://arstechnica.com/?p=2051854</link>
-      <description><![CDATA[Necro 于 2019 年入侵 Google Play。最近它又卷土重来。]]></description>
-      <guid>https://arstechnica.com/?p=2051854</guid>
-      <pubDate>Mon, 23 Sep 2024 20:27:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 计划通过一键阻止的方式结束免费、无休止的 AI 抓取</title>
-      <link>https://arstechnica.com/?p=2051732</link>
-      <description><![CDATA[Cloudflare 可能会对其 AI 抓取数据市场收取类似应用商店的费用。]]></description>
-      <guid>https://arstechnica.com/?p=2051732</guid>
-      <pubDate>Mon, 23 Sep 2024 20:03:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
