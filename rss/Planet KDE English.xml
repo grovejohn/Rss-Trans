@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Sep 2024 13:02:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 14:40:16 GMT</lastBuildDate>
     <item>
       <title>Dot 已关闭。KDE Planet 万岁！</title>
       <link>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</link>
@@ -27,6 +27,13 @@ LinkedIn
 ]]></description>
       <guid>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</guid>
       <pubDate>Wed, 25 Sep 2024 09:45:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krita 5.2.5 发布！</title>
+      <link>https://krita.org/en/posts/2024/krita-5-2-5-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2024/krita-5-2-5-released/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Plasma 浏览器集成 2.0</title>
@@ -141,31 +148,6 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/09/20/web-review-week-2024-38/?utm_source=atom_feed</guid>
       <pubDate>Fri, 20 Sep 2024 09:55:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年学院（在维尔茨堡！）</title>
-      <link>https://blog.david-redondo.de/kde/2024/09/20/akademy.html?utm_source=atom_feed</link>
-      <description><![CDATA[
-今年 Akademy 在维尔茨堡举办（震惊！恐怖！）。我认为说我们成功举办并不夸张。
-它是如何诞生的
-在过去几年的塞萨洛尼基的 Akademy，考虑到该地区 KDE 成员的密度很高，因此提出了在维尔茨堡举办 Akademy 的想法。最重要的是，我们心中有一个完美的场地：两个演讲厅，BoF 室
-以及一个宽敞的公共区域，供人们进行交流和社交。我脑子里有这样的想法，但并没有分享
-或付诸实践。
-然而，Akademy 的作用是让你与人交谈，Tobias 说服我我们应该这样做
-甚至更多人同意在维尔茨堡举办 Akademy 是个好主意！ （当然，对一些鼓励者来说，这并不意味着像我们一样要组织 Akademy……）因此，在 Akademy 的倒数第二天，我坐下来给我以前的大学教授写了一封电子邮件，询问在我们设想的大楼里举办 Akademy 的可能性。
-就这样，在 Akademy 期间进行了一些非正式会谈，在大学举行了一次会议，并在主办方征集之后提交了一份提案，之后你最终每周都会开会讨论和计划 Akademy 的下一期。
-进展如何
-有一些问题，但我认为今年的 Akademy 总体进展顺利。我听到了很多赞扬和积极的反馈，一开始感觉有点不真实（周日晚上所有谈话结束后也是如此）。对我来说最紧张的情况发生在
-周日下午，当时我从团队房间取回正在充电的手机，发现社交活动无法按计划进行，我试图与团队其他成员一起解决这个问题。我认为最终的夜晚非常愉快和放松，你可以感受到
-我的解脱。我听说在我们举行欢迎活动的酒吧之后甚至有一个庆功宴。
-当然，在活动期间总会有一些小问题需要处理和留意，处理它们
-并试图确保一切顺利进行（以及这些事情带来的压力）意味着我无法（并且没有处于正确的精神状态）专注于会谈。当 BoF 日开始时，情况有所好转，但直到周四一日游结束后，我才感到有“会议情绪”，
-并能够完全专注于我参加的 BoF，坐下来稍微破解一下。如果您想了解有关实际会议的更多信息，许多人已经在planet上发表了博客，或者在 Akademy 网站上阅读报告。
-最后，我认为可以说 Akademy 取得了成功。这要归功于KDE e.V.（快去捐款吧！）、赞助商、所有 Akademy 团队的本地和非本地成员、
-所有临时和长期的志愿者，以及最后但并非最不重要的是所有出色的与会者——如果没有人，就不会有 Akademy。
-谢谢大家！我很高兴知道明年的 Akademy 会在哪里举行（你也可以参加 - 这并不难，而且还能获得很棒的奖励），并期待以‘普通参加者’的身份参加，并在那里再次与大家见面（如果不是更早的话）。]]></description>
-      <guid>https://blog.david-redondo.de/kde/2024/09/20/akademy.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 20 Sep 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
