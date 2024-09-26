@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 25 Sep 2024 14:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 06:44:47 GMT</lastBuildDate>
     <item>
       <title>Dot 已关闭。KDE Planet 万岁！</title>
       <link>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</link>
@@ -143,11 +143,15 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
       <pubDate>Fri, 20 Sep 2024 19:20:29 GMT</pubDate>
     </item>
     <item>
-      <title>网络评论，第 2024-38 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/09/20/web-review-week-2024-38/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/09/20/web-review-week-2024-38/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 20 Sep 2024 09:55:13 GMT</pubDate>
+      <title>Qt Gradle 插件 1.0 发布</title>
+      <link>https://www.qt.io/blog/qt-gradle-plugin-1.0-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt Gradle Plugin 1.0 (QtGP) 构建工具已发布。您可以从Maven Central将其包含在您的 Android 构建中。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-gradle-plugin-1.0-released?utm_source=atom_feed</guid>
+      <pubDate>Fri, 20 Sep 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
