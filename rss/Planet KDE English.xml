@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 26 Sep 2024 06:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 10:41:05 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-39 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 09:41:14 GMT</pubDate>
+    </item>
     <item>
       <title>Dot 已关闭。KDE Planet 万岁！</title>
       <link>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</link>
@@ -141,17 +148,6 @@ flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flat
 弃用平板电脑模拟功能令人失望，但我们拥有的选择也并不多。要么在已经过于复杂的代码库中引入更多复杂性以修复现有问题（甚至添加更多代码以确保在使用指针和平板电脑时正确管理指针焦点），要么对未选择平板电脑输入的应用程序不采取任何特殊措施。希望在不久的将来，仍然缺少平板电脑支持的其余应用程序和工具包能够添加此功能。如果您对此有更多想法，请通过我们的矩阵室与我们联系。]]></description>
       <guid>https://blog.vladzahorodnii.com/2024/09/20/upcoming-tablet-input-changes-in-plasma-wayland/?utm_source=atom_feed</guid>
       <pubDate>Fri, 20 Sep 2024 19:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Gradle 插件 1.0 发布</title>
-      <link>https://www.qt.io/blog/qt-gradle-plugin-1.0-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt Gradle Plugin 1.0 (QtGP) 构建工具已发布。您可以从Maven Central将其包含在您的 Android 构建中。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-gradle-plugin-1.0-released?utm_source=atom_feed</guid>
-      <pubDate>Fri, 20 Sep 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
