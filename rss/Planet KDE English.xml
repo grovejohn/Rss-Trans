@@ -4,7 +4,79 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Sep 2024 14:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 16:43:46 GMT</lastBuildDate>
+    <item>
+      <title>嵌入式 Linux 是一个光荣的谎言 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/122s65vdvdQhpqaJjbyc68?utm_source=atom_feed</link>
+      <description><![CDATA[作者：Aleix Pol
+我将讨论对不同的 KDE 组件进行哪些操作以使其为汽车机械提供动力。具体来说，我想介绍一下我们的软件在这些场景中哪些方面有用，哪些方面有碍事。]]></description>
+      <guid>https://tube.kockatoo.org/w/122s65vdvdQhpqaJjbyc68?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 16:30:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>日常驾驶 Plasma Mobile 及其仍存在的问题 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/mDV5A6LwZGFibeEkkCijxJ?utm_source=atom_feed</link>
+      <description><![CDATA[Bart Ribbers 撰稿
+Plasma Mobile 项目已经存在好几年了，其目标是通过利用现有的各种 KDE 技术，为智能手机的双头垄断提供一种自由开源软件 (FOSS) 和隐私友好的替代方案。尽管这个项目本身就很实用，而且现在有各种选项可以在实际的智能手机上运行它，但实际的开发人员兴趣似乎很低，这导致各种唾手可得的问题得不到解决，并让潜在的最终用户感到沮丧，导致他们在 Linux 智能手机生态系统中寻找替代方案。
+我的演讲将描述我个人如何开始每天使用 Plasma Mobile（我使用的智能手机、各种应用程序等），以及我认为目前是什么阻碍了更多人使用该项目。目标是让更多的 KDE 开发人员对该项目感兴趣并真正每天使用它，以便他们开始为其开发。如果连开发人员自己都不使用它，那么它永远不会被公众使用。]]></description>
+      <guid>https://tube.kockatoo.org/w/mDV5A6LwZGFibeEkkCijxJ?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 16:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++、Rust 和 Qt：比您想象的还要简单 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/bdDAWwGXRyWmyVBn9mdbnP?utm_source=atom_feed</link>
+      <description><![CDATA[作者：Joshua Goins (KDAB)
+大多数 Qt 应用程序都是用 C++ 编写的，而 C++ 恰好是 KDE 的支柱。然而，Rust 正迅速成为一个很好的第二选择，值得一看，即使对于 C++ 老手也是如此。
+无论您是需要 Rust 来处理特定库、内存安全功能，还是只想将 Qt 前端添加到您的 Rust 项目 - 您都会发现将两者集成起来比您想象的要容易得多。虽然没有单一的完美解决方案，但我们将深入研究模糊这些技术之间界限的多种方法。这包括用于将 C++ 和 Rust 粘合在一起的 CXX 和 cbindgen，以及用于更面向 Qt 的解决方案的 KDAB 的 CXX-Qt。我将展示一些 Rust + Qt 应用程序的真实示例，甚至一些您今天可以在 KDE 中找到的 Rust。]]></description>
+      <guid>https://tube.kockatoo.org/w/bdDAWwGXRyWmyVBn9mdbnP?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 16:16:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>斩断 Gordian 的“终端用户关注”与“隐私”之结 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/wehS7te9yBiyT5TMT97bGc?utm_source=atom_feed</link>
+      <description><![CDATA[作者：Björn Balazs
+我们的宣言要求我们“关注终端用户”。除其他事项外，我们成立了视觉设计小组来处理此事。不幸的是，他们的工作效果受到我们对用户的了解的限制。我们行为合乎道德，尊重隐私，但结果却不了解我们用户群的最基本情况。
+在本次演讲中，我们将介绍与 KUserFeedback 共同创建的概念验证，以解决这个难题。它允许用户在本地存储个人数据，而我们作为 KDE 可以生成有关用户分布式数据池的统计数据。我们可以做到这一点，而不会损害我们的道德标准或触及用户的隐私。
+我们将介绍德国原型基金支持的一个项目的成果。这次演讲不会太技术性。目的还在于展示该项目如何嵌入 KDE 及其他领域 - 为了获得更深入的技术和数学见解，我们将提供 BoF。]]></description>
+      <guid>https://tube.kockatoo.org/w/wehS7te9yBiyT5TMT97bGc?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 16:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>贡献不仅仅是代码 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/1hGjgNVtAGvjt7Hc5uqXfB?utm_source=atom_feed</link>
+      <description><![CDATA[作者：Kai Uwe Broulik
+虽然实际源代码是软件运行的核心，但您还可以做更多的事情来帮助我们创建出色的软件，帮助数百万人提高工作效率。
+这是一个关于外部 DVD 驱动器捐赠如何为 KDE 的跨平台硬件抽象框架 Solid 带来巨大性能提升的故事。]]></description>
+      <guid>https://tube.kockatoo.org/w/1hGjgNVtAGvjt7Hc5uqXfB?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 15:57:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>文化建设：始于入职，永无止境 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/h7r8MJWjiNiJdWwkdUYg1L?utm_source=atom_feed</link>
+      <description><![CDATA[作者：Neofytos Kolokotronis
+在 KDE 活跃的 28 年里，社区已经形成了自己独特的愿景、目标、价值观、行为规范和流程。
+然而，作为一个活的有机体，它需要不断适应周围不断发展的世界，并保持一致性，确保新的贡献者内化社区的性格和期望。
+和我一起探索这段旅程，了解在开源项目中建立和维持强大的社区文化的关键作用，深入研究最佳实践和持续参与策略，并研究如何创建一个文化随着时间的推移而积极发展的环境。
+与会者将更深入地了解强大的文化建设战略的重要性，并获得关于如何长期维持它的实用见解，旨在使 KDE 成为一个健康友好的社区，并在未来几年继续蓬勃发展。]]></description>
+      <guid>https://tube.kockatoo.org/w/h7r8MJWjiNiJdWwkdUYg1L?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 15:49:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们自己的操作系统 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/c2ZBQfg6euYL76wKPBYnZC?utm_source=atom_feed</link>
+      <description><![CDATA[Harald Sitter 撰稿
+我们正在创建操作系统吗？KDE 是否是正确的选择？谣言四起。“🍌 OS”项目背后有什么？现在终于到了创建 KDE 操作系统的时候了吗？制作一个好的操作系统需要什么？
+我们将研究现有的努力，从中可以学到什么，以及整个行业的发展方向。我将概述 KDE 构建可靠操作系统的途径，我们可以将其提供给用户、开发人员和硬件合作伙伴。]]></description>
+      <guid>https://tube.kockatoo.org/w/c2ZBQfg6euYL76wKPBYnZC?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 15:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥斯卡金像奖 - 2024 年奥斯卡</title>
+      <link>https://tube.kockatoo.org/w/2P5JDTTY6RPEcvsZpEcoGK?utm_source=atom_feed</link>
+      <description><![CDATA[学院团队。]]></description>
+      <guid>https://tube.kockatoo.org/w/2P5JDTTY6RPEcvsZpEcoGK?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 15:31:05 GMT</pubDate>
+    </item>
     <item>
       <title>适应或死亡：新的 Linux 打包方法如何影响更广泛的 KDE - Akademy 2024</title>
       <link>https://tube.kockatoo.org/w/dHrozDUtBo7mRnHMbx2jcB?utm_source=atom_feed</link>
@@ -21,122 +93,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Sep 2024 09:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>看看生活中光明的一面 - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/gKBUQcae1nYDCfkvXLTtW8?utm_source=atom_feed</link>
-      <description><![CDATA[Harald Sitter 著
-让我们探索即使在事情让我们沮丧时也能保持积极态度的方法。]]></description>
-      <guid>https://tube.kockatoo.org/w/gKBUQcae1nYDCfkvXLTtW8?utm_source=atom_feed</guid>
-      <pubDate>Thu, 26 Sep 2024 05:42:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dot 已关闭。KDE Planet 万岁！</title>
-      <link>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-
-随着 KDE 的发展，人们对其每个项目的兴趣也在增长。将所有 KDE 新闻集中在一个地方已不再有效。来自整个 KDE 社区的更新量太大，无法在 the Dot 上全部涵盖。考虑到这一点，我们正在归档 the Dot，但出于历史原因，仍保留其内容。
-社区发布的新闻是为 The Dot 精心策划和编辑的。目前发布新闻的速度不仅使这种做法不切实际，而且还会导致一些事情被不公平地遗漏，只提供部分正在发生的事情。
-但我们不会让您失去 KDE 新闻来源！我们已经找到了更好的办法：我们与 KDE 网站管理员合作，为贡献者建立了一个博客系统。您现在可以直接、未经过滤、未经编辑地从源头访问公告、Akademy、协会新闻和您最喜爱的项目的新闻。
-或者...如果您想每天（通常是每小时）了解所有 KDE 项目和新闻的动态，请使用Planet！在网络上访问它或将 RSS 源 添加到您的阅读器。您还可以在我们的讨论论坛中关注 KDE 新闻，并与社区中的其他人实时讨论。您甚至可以在 Mastodon 上关注 @planet.kde.org@rss-parrot.net 以了解最新动态。
-如果您只想要了解精彩内容，请查看我们的社交媒体：
-
-Mastodon（推荐）
-BlueSky
-Threads
-Facebook
-Instagram
-LinkedIn
-
-]]></description>
-      <guid>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</guid>
-      <pubDate>Wed, 25 Sep 2024 09:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 5.2.5 发布！</title>
-      <link>https://krita.org/en/posts/2024/krita-5-2-5-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/krita-5-2-5-released/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma 浏览器集成 2.0</title>
-      <link>https://blog.broulik.de/2024/09/plasma-browser-integration-2-0/?utm_source=atom_feed</link>
-      <description><![CDATA[我很高兴地宣布，Plasma Browser Integration 2.0 版现已在 Chrome 网上应用店和 Microsoft Edge 附加组件页面上发布。此版本将扩展更新为 Manifest 版本 3，Chrome 很快将需要该版本。主要版本的提升反映了实现此移植所花费的工作量。
-Konqi 正在浏览万维网
-Plasma 浏览器集成弥合了您的浏览器和 Plasma 之间的差距桌面。它允许您共享链接、在 KRunner 中查找浏览器选项卡和访问过的网站、在通知中心监控下载进度，以及随时从 Plasma 中控制音乐和视频播放，甚至使用 KDE Con​​nect 从手机上控制音乐和视频播放！
-
-尽管版本号不同，但面向用户的更改并不多。不过，此版本附带了常规的翻译更新。由于此版本与之前的 1.9.1相比，不会为 Firefox 用户带来任何优势，因此 Mozilla 附加组件商店将不会提供此版本。
-我们借此机会重新编写了扩展清单，使“历史记录”权限成为强制性的。当最初添加浏览器历史记录 KRunner 模块时，该权限是可选的，因为我们担心在更新扩展时出现可怕的权限警告时可能会吓跑用户。
-（另请参阅我们社区 Wiki 上的变更日志页面）]]></description>
-      <guid>https://blog.broulik.de/2024/09/plasma-browser-integration-2-0/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 24 Sep 2024 11:19:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dolphin 插件 24.08</title>
-      <link>https://meven.github.io/dolphin-plugins-24-08/?utm_source=atom_feed</link>
-      <description><![CDATA[从 dolphin-plugins 24.05 开始，您可以使用 dolphin-plugins git 插件从 dolphin git clone。
-安装插件并在上下文菜单设置中启用 Git 后，您可以使用此上下文菜单操作：
-
-这显示了此 git clone 对话框（使用我的法语语言环境）：
-
-您可以粘贴 git 存储库 url，它将获取其分支。
-如果您的剪贴板或 git clone 命令行中恰好有一个 URL，它将直接将其提取为存储库 URL。
-这是由 Nikolai Krasheninnikov 牵头的，谢谢。
-我也参与了一点并对其进行了审查。
-仍然有机会改进 git 实现，例如拥有更好的提交对话框。
-那将是一个不错且简单的新贡献者机会 :)]]></description>
-      <guid>https://meven.github.io/dolphin-plugins-24-08/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 22 Sep 2024 14:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Skrooge 2.33.0 发布</title>
-      <link>https://skrooge.org/news/2024-09-22-skrooge_2.33.0_released/?utm_source=atom_feed</link>
-      <description><![CDATA[Skrooge 团队宣布发布基于 KDE 框架 的热门个人财务管理器 2.33.0 版本。
-变更日志
-
-修正 bug 485366：不同报告选择之间的差异 (2)
-修正 bug 484156：“月度报告”上个月的图形故障
-修正错误 489784：导入 QIF 时帐户类型已更改
-修正错误 492287：Skrooge 2.32.0 在打开现有 .skg 文件时冻结，但导入速度很快
-修正错误 493062：QIF 和字符“/”的另一个问题
-修正错误：修复 .sta 文件的 mimetype
-修正错误：删除对 QCA 的依赖。因此，不再支持旧的受密码保护的文件。
-修正错误：修复“收入与支出”仪表板小部件中的翻译问题
-]]></description>
-      <guid>https://skrooge.org/news/2024-09-22-skrooge_2.33.0_released/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用</title>
-      <link>https://blogs.kde.org/2024/09/22/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/09/22/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu Oracular Oriole (24.10) Beta 发布</title>
-      <link>https://kubuntu.org/news/kubuntu-oracular-oriole-24-10-beta-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Kubuntu Oracular Oriole 测试版（10 月将升级为 24.10）现已发布，可供下载。
-此里程碑版本包含 Kubuntu 和其他 Ubuntu 版本的镜像。
-预发布版Kubuntu Mantic Minotaur 不推荐用于：
-需要稳定系统的任何人不了解预发布问题的普通用户在生产环境中需要可靠数据或工作流程的任何人
-但是，推荐用于：
-希望通过查找、报告和/或修复来帮助我们测试的普通用户错误Kubuntu、KDE ​​和 Qt 开发人员其他 Ubuntu 风格开发人员
-Beta 版包含一些可供更广泛测试的软件更新。但是，这是一组早期的图像，因此您应该预料到会有一些错误。
-我们强烈建议测试人员在安装之前阅读 Kubuntu 24.10 Beta 发行说明，特别是有关 ‘已知问题‘ 的部分。
-
-
-您还可以在主要 Ubuntu Beta 版本说明和公告中找到有关整个 24.10 版本（基础、内核、图形等）的更多信息。
-﻿
-要在 Kubuntu 24.10 中的 KDE Discover 中启用 Flatpaks，请运行以下命令：
-sudo apt install flatpak plasma-discover-backend-flatpak﻿
-要启用最大的 Flatpak 存储库，请运行此命令命令：
-flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo﻿
-注销并重新登录（或重新启动）以重新初始化 XDG_DATA_DIRS 变量，否则，新安装的 Flatpak 应用程序将不会运行或出现在启动菜单中。]]></description>
-      <guid>https://kubuntu.org/news/kubuntu-oracular-oriole-24-10-beta-released/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 21 Sep 2024 22:38:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
