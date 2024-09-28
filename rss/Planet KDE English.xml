@@ -4,7 +4,65 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 10:38:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 12:55:53 GMT</lastBuildDate>
+    <item>
+      <title>为何以及如何在非 KDE 应用程序中使用 KDE 框架 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/9VG6LroZBPaevkBVpxHd3y?utm_source=atom_feed</link>
+      <description><![CDATA[Javier Cordero 撰稿
+本次演讲的目的是鼓励人们开发原生 Linux 应用程序，并帮助他们使用 KDE 框架来创建这些应用程序。演讲分为两个部分：展示和示例。
+第一部分重点介绍使用 KDE 框架可以实现的功能，提供 KDE 内外的真实示例。第二部分重点介绍如何帮助不太熟悉 KDE、C++ 或 Linux 生态系统的开发人员在设置框架和准备分发应用程序时避免常见的陷阱。]]></description>
+      <guid>https://tube.kockatoo.org/w/9VG6LroZBPaevkBVpxHd3y?utm_source=atom_feed</guid>
+      <pubDate>Sat, 28 Sep 2024 11:46:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>颜色到底是什么？ - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/uMWV85f7mt3s3jZvnVYLTC?utm_source=atom_feed</link>
+      <description><![CDATA[作者：Xaver Hugl
+我将尝试非常粗略地解释什么是颜色、颜色在计算机中如何表示、我们为什么需要颜色管理以及颜色管理在 Wayland 中的工作方式。
+我在 KWin 中编写了颜色管理系统]]></description>
+      <guid>https://tube.kockatoo.org/w/uMWV85f7mt3s3jZvnVYLTC?utm_source=atom_feed</guid>
+      <pubDate>Sat, 28 Sep 2024 11:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>维护者到底是什么？ - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/ooitdYQQP3UfeLj8W9nZo4?utm_source=atom_feed</link>
+      <description><![CDATA[Nicolas Fella 著
+维护者在开源项目中扮演着重要角色，但大多数 KDE 项目却没有维护者。
+为什么这不是问题？维护者到底是什么？]]></description>
+      <guid>https://tube.kockatoo.org/w/ooitdYQQP3UfeLj8W9nZo4?utm_source=atom_feed</guid>
+      <pubDate>Sat, 28 Sep 2024 11:32:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Union：KDE 中样式的未来！？ - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/v5hsBd3oDewh1WR4XCQSZb?utm_source=atom_feed</link>
+      <description><![CDATA[Arjen Hiemstra 撰稿
+多年来，我们设计应用程序的方式变得越来越复杂。最初，我们只有 Qt 小部件和一个设计它们的系统。然后是 Plasma 和基于 SVG 的样式，接着是 QtQuick 和另一个样式系统。目前，我们有几种样式设计方法，但大多数都很难使用。这种情况对开发人员和设计师来说都不是好事。
+在这次演讲中，我将介绍我们是如何走到这一步的，这会导致什么样的问题，以及一种可能的前进方向，即 Union。 Union 是一个正在开发的新主题引擎，我希望它最终能够用一种对开发人员来说更易于维护、对设计人员来说更灵活的方式取代 KDE 中的不同样式。
+本次演讲将有些技术性，但并不意味着深入探讨样式系统的具体实现，而是旨在讨论“为什么”而不是“如何”]]></description>
+      <guid>https://tube.kockatoo.org/w/v5hsBd3oDewh1WR4XCQSZb?utm_source=atom_feed</guid>
+      <pubDate>Sat, 28 Sep 2024 11:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>对大型语言模型的务实理解 - Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/6duhoemuJd8uomV5nzDPWB?utm_source=atom_feed</link>
+      <description><![CDATA[David Schlangen、Eike Hein 和 Lydia Pintscher 著
+大型语言模型在 2022 年底进入公众意识的形式非常具有启发性：作为似乎可以回答任何问题并完成任何任务（只要只涉及书面语言）的“聊天机器人”。那些第一次与 ChatGPT 互动时毫无准备的人印象深刻 --- 它会写打油诗！它可以回答数学问题！它可以为我的学期论文提供大纲！通用性巧妙地隐藏了一个问题，即它是否真的擅长任何特定任务。出于原则原因，这些模型注定是通才：给定一个前缀序列，它们总是会预测下一个标记。在我的主题演讲中，我将介绍最近使用“LLM 作为函数逼近器”框架的一些努力，以便更准确地理解 LLM 的作用、其真正的通用性，以及如何将它们从多才多艺的小马变成可能有用的系统组件。演讲之后将与 KDE 财务主管兼副总裁 Eike Hein 进行小组讨论，以了解如何让这些组件对 KDE 开发者社区有用。]]></description>
+      <guid>https://tube.kockatoo.org/w/6duhoemuJd8uomV5nzDPWB?utm_source=atom_feed</guid>
+      <pubDate>Sat, 28 Sep 2024 11:16:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>通往 KDE Neon Core 之路 — 天哪！我们到处都被 Snaps 包围了！- Akademy 2024</title>
+      <link>https://tube.kockatoo.org/w/negwwwpiddSYkXnVwJ7tAm?utm_source=atom_feed</link>
+      <description><![CDATA[Bt Kevin Ottens
+现在出现了一种新的 Ubuntu 变体，它被称为 Ubuntu Core。它首先被考虑用于物联网，并且基于 snap 包。它从头到尾都是由 snap 组成的。最近，人们一直在推动“Ubuntu Core 桌面”，它超越了无头设备，拥有完整的桌面会话。
+KDE Plasma 不能被排除在这样的努力之外，这就是“KDE Neon Core”想法的由来。试图在 Ubuntu Core 基础上获得 KDE Neon 的所有好处。
+这是一个有趣的挑战，可以帮助我们的社区改善与 snap 生态系统的互动。
+在本次演讲中，我们将展示 KDE Neon Core 的结构、它提供的功能及其局限性。我们还将介绍 snap 限制工作原理的基础知识。最后，我们将解释我们遇到的问题，这些问题导致 KDE 软件或 snapd 本身出现补丁。这将是一次反思调试这种不可变系统所面临的挑战的机会。
+本次演讲将为那些对 Plasma 工作区会话中的进程如何集成或 snapd 与应用程序之间的交互感到好奇的人提供有趣的见解。
+如果您想听听构建此类系统的战斗故事，并了解我们在此过程中发现了什么，那么本次演讲将适合您。]]></description>
+      <guid>https://tube.kockatoo.org/w/negwwwpiddSYkXnVwJ7tAm?utm_source=atom_feed</guid>
+      <pubDate>Sat, 28 Sep 2024 11:03:53 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 Nextcloud 社区会议和 2024 年 Matrix 会议</title>
       <link>https://www.volkerkrause.eu/2024/09/28/nextcloud-conference-matrix-conference-2024.html?utm_source=atom_feed</link>
@@ -65,83 +123,6 @@ Qt 6.8 应该会在 Akademy 期间发布，我们刚刚举行了 Qt 贡献者峰
 这也是讨论 KDE 对 QML 语言的功能期望的好地方。由于最近出现了很多这样的问题，我将准备一些我迄今为止所听到的结构化笔记，并为此预留一些时间。]]></description>
       <guid>https://tube.kockatoo.org/w/bvNd1Kjfiq9u8GJnc3TvSy?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Sep 2024 18:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 化 Qt - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/vk9EDrjgGBQHgJb3y8W6AW?utm_source=atom_feed</link>
-      <description><![CDATA[Cristián Maureira-Fredes 撰稿
-自发布以来，Qt 已与其他语言接触，以便将令人惊叹的功能带给其他社区，并将我们钟爱的框架与其他语言特定的功能相结合。
-在 Python 等许多语言绑定取得成功之后，尤其是 PyQt 和 PySide 项目，人们可能会问：“一旦语言绑定完成，项目就完成了吗？”
-本次演讲介绍了 PySide（又名 Qt for Python）拥有的许多已实现和计划的功能，这些功能超越了已知的 Qt API，以及这些决策背后的动机。
-演讲的目的是强调将 Qt 引入完全不同语言的成功案例，以及可用于改进 C++ 中的主要 Qt 实现的经验教训。
-与会者还将了解未来 Qt 版本的当前项目计划，以及新的原型已经讨论过了。]]></description>
-      <guid>https://tube.kockatoo.org/w/vk9EDrjgGBQHgJb3y8W6AW?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 18:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma Next - Plasma 的视觉设计演变 - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/7yc9qDyAprYRFxUhc4njx3?utm_source=atom_feed</link>
-      <description><![CDATA[作者：Andy Betts
-Plasma 6 发布后不久，许多贡献者要求更新新 Plasma Desktop 中的视觉效果。Plasma 6 被誉为稳定版本，与前代版本相比，它更加一致，错误更少。该版本唯一缺少的是更新的样式。
-考虑到这些反馈，团队中的一小群设计师开始审查并为当前的视觉样式创建一些令人兴奋的更改。
-团队致力于创建：
-
-图形设计系统
-新的颜色选择
-具有特定大小的新字体选择
-新的网格和间距系统
-使用 Figma 和 Penpot 的新编辑工作流程
-将所有 22px 图标更新为 24px 大小
-新的阴影和模糊
-除此之外，还有新的组件，例如按钮、下拉菜单、切换、复选框、工具提示、进度指示器、滑块、徽章、输入。
-
-我们希望向社区提供所有这些更改的预览并评估兴趣。我们希望请求开发者社区的帮助。
-我们还想跟进几个 BoF，看看在有限的条件下，我们如何执行其中的一些元素。
-最重要的是，我们相信推动视觉风格向前发展。我们希望为用户提供一致的外观，帮助他们最大限度地利用我们的系统。
-非常感谢 Helden Hoierman、@manueljilin、@PhilipB、@depman、@Akseli、@Natalie Clarius、@nathanu、@DSLitvinov 为这个项目做出了巨大贡献。]]></description>
-      <guid>https://tube.kockatoo.org/w/7yc9qDyAprYRFxUhc4njx3?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 18:21:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择加入？选择退出？选择绿色！KDE Eco 的新可持续发展计划 - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/h7sJcLAiKfsnpJDzMSnvBD?utm_source=atom_feed</link>
-      <description><![CDATA[作者：Joseph De Veaugh-Geiss
-消费者想要什么，自由软件就能提供什么，尽管许多消费者可能还不知道……但目前为止！借助新资助的项目“Opt Green：可持续硬件的可持续软件”，KDE Eco 旨在改变这一现状。2020 年欧洲晴雨表民意调查发现，80% 的欧洲消费者认为制造商应该让数字设备的维修变得更加容易，而 50% 的消费者表示他们购买新设备的原因是性能问题和软件无法正常运行。自由软件社区已经明白，您不需要购买新硬件就能拥有高效、功能良好且最新的数字设备；您只需要合适的软件！现在，KDE Eco 希望确保其他人也知道这一点。
-在接下来的两年里，“Opt Green”计划将把 KDE Eco 在可持续软件方面的工作——进而可持续硬件——直接带给消费者。而现在正是最好的时机。 2025 年，Windows 10 的支持终止，估计将导致 2.4 亿台电脑中的电子垃圾无法安装 Windows 11。最早在一年后的 2026 年，macOS 对基于英特尔的 Apple 电脑（其中最后一台于 2020 年售出）的支持预计将终止，导致数以百万计的正常运行的电脑被淘汰。这些运行正常但被供应商遗弃的设备都可以避免被扔进垃圾填埋场，并在未来几年内通过可持续的自由软件继续使用。（相比之下，Linus Torvalds 直到 2022 年才建议终止对 1989 年的英特尔 486 处理器的支持。这是 33 年的 Linux 内核支持！）
-从设计上讲，自由软件是可修复的软件：它通过消除供应商依赖性并保证透明度和用户自主性，让用户能够控制他们的硬件。在这次演讲中，我将介绍 KDE Eco 的新“Opt Green”项目，介绍将可持续的自由软件带给新用户的原因、内容和方法。该项目的目标受众是生态消费者，他们的消费行为受与环境相关的原则驱动，而不一定受便利或成本驱动。通过线上和线下活动以及安装研讨会，KDE Eco 将在公平贸易、有机和手工艺品市场上展示自由软件降低能耗和在官方供应商支持之外保持设备使用多年的强大功能。使用为用户需求而非供应商需求而设计的独立、可持续的软件，您可以在您家中或口袋中的数字设备上运行高效、尖端的软件。今天就选择绿色！最环保的设备就是您已经拥有的设备。]]></description>
-      <guid>https://tube.kockatoo.org/w/h7sJcLAiKfsnpJDzMSnvBD?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 18:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openwashing - 我们如何处理（和执行？）产品中的 OSS 政策？ - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/rgyQdbzLuNWjXhjDVdU8NU?utm_source=atom_feed</link>
-      <description><![CDATA[作者：Markus Feilner (grommunio、Feilner-IT、Press)、Holger Dyroff (ownCloud)、Richard Heigl (Hallo Welt! GmbH)、Leonhard Kugler (数字主权中心 (ZenDiS)) 和 Cornelius Schumacher (KDE)
-由资深记者 Markus Feilner 主持，知名开源参与者小组将讨论持续的开放清洗话题以及我们可以或应该对此做些什么 - 从云到人工智能和公共管理。
-特别是在这三个领域，“开源”一词已成为一项宝贵的资产，但越来越多的公司感到有必要将他们的解决方案称为“开源”。尽管在公开招标等方面取得了巨大成功，但许多公司所有者实际上仍然害怕发布源代码，并不是所有人都遵守基本规则，并不是每个人都理解开源的真正含义。逃避策略比比皆是。
-另一方面，公司需要赚钱，即使（！）使用开源。如何在不同的云社区、公共管理以及维基百科和知识管理领域实现这一目标？成立仅两年的数字主权中心 (ZenDiS) 如何帮助 OSS 社区和公司？提示：ZenDiS 最近受到联合国的邀请，并获得了全世界的认可。
-我们非常自豪地邀请到 Holger Dyroff（ownCloud 首席运营官）、Richard Heigl（HalloWelt/BlueSpice Mediawiki 首席执行官、Atlassian Confluence 的 OSS 替代品）、ZenDis 的 Open CoDE 总监 Leonhard Kugler 和 Cornelius Schumacher（KDE 董事会成员）。]]></description>
-      <guid>https://tube.kockatoo.org/w/rgyQdbzLuNWjXhjDVdU8NU?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 18:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>只有黑客才能生存 - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/5n5mEms1297vLJFTGxKuN9?utm_source=atom_feed</link>
-      <description><![CDATA[作者：Joanna Murzyn
-在本次演讲中，我将探讨黑客精神（由开放的知识共享、大胆的实验和集体解决问题定义）对于应对全球挑战（尤其是与缺乏再生资源管理相关的挑战）的重要性。
-我将带您从关键的矿产开采中心到电子垃圾箱，揭示代码、硬件、开源原则以及社会和环境正义之间的错综复杂的联系。
-您将获得新的视角，并发现 KDE 社区的工作如何塑造更具弹性、更具再生性的未来，并探索
-扩展这些原则以在科技世界之外产生积极影响的方法。]]></description>
-      <guid>https://tube.kockatoo.org/w/5n5mEms1297vLJFTGxKuN9?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 17:55:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>回顾：下一步是什么？ - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/t27FMK6qLdS6oCizqdtdVz?utm_source=atom_feed</link>
-      <description><![CDATA[Nicolas Fella 撰稿
-今年，我们完成了 Plasma 6 和 KDE Frameworks 6 的发布这一重要里程碑，这是整个社区多年工作的结晶。在本次演讲中，我们将探讨我们如何实现这一转变，哪些进展顺利，哪些进展不顺利，以及我们可以为未来学习什么。
-我们还将探讨 KDE 开发的未来发展方向。]]></description>
-      <guid>https://tube.kockatoo.org/w/t27FMK6qLdS6oCizqdtdVz?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 17:45:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
