@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 12:55:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 16:41:24 GMT</lastBuildDate>
     <item>
       <title>为何以及如何在非 KDE 应用程序中使用 KDE 框架 - Akademy 2024</title>
       <link>https://tube.kockatoo.org/w/9VG6LroZBPaevkBVpxHd3y?utm_source=atom_feed</link>
@@ -108,21 +108,20 @@ NeoChat。一些讨论的更改
       <pubDate>Sat, 28 Sep 2024 03:22:25 GMT</pubDate>
     </item>
     <item>
+      <title>2024 年维尔茨堡学院</title>
+      <link>https://blog.bshah.in/2024/09/28/akademy-2024-in-wurzburg/?utm_source=atom_feed</link>
+      <description><![CDATA[三周前，我参加了在德国维尔茨堡举办的 2024 年 KDE Akademy。距离上届 2023 年 Akademy 已经过去一年，能够再次见到我的 KDE 朋友们，我非常激动！
+旅行闹剧 理想情况下，整个行程应该只需要约 18 个小时，但多亏了汉莎航空，整个行程（包括中途停留）总共耗时 48 小时。由于旅行比计划的要早得多（周四凌晨 5:00，而不是计划的晚上 7:00），航班取消和重新预订，不得不在中途停留花费大量时间。]]></description>
+      <guid>https://blog.bshah.in/2024/09/28/akademy-2024-in-wurzburg/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Qt 超越 6.8 - Akademy 2024</title>
       <link>https://tube.kockatoo.org/w/nRTcpVh72BvgtVLkjrbaud?utm_source=atom_feed</link>
       <description><![CDATA[作者：Volker Hilsheimer
 Qt 6.8 应该会在 Akademy 期间发布，我们刚刚举行了 Qt 贡献者峰会。这是个很好的时机，让我们来看看我们为即将发布的版本所做的一些工作，以及我们打算将重点放在 Qt 项目和 Qt 公司研发团队的哪些方面。]]></description>
       <guid>https://tube.kockatoo.org/w/nRTcpVh72BvgtVLkjrbaud?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Sep 2024 18:48:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt6 中的 QML - 学院 2024</title>
-      <link>https://tube.kockatoo.org/w/bvNd1Kjfiq9u8GJnc3TvSy?utm_source=atom_feed</link>
-      <description><![CDATA[作者：Ulf Hermann
-本次演讲将概述 QML 语言自 Qt5 以来的发展情况。它将指出新工具和更广泛的类型系统带来的提高性能和可维护性的机会。它还将指出一些需要注意的痛点，并展示我们希望在未来开发该语言的方向。
-这也是讨论 KDE 对 QML 语言的功能期望的好地方。由于最近出现了很多这样的问题，我将准备一些我迄今为止所听到的结构化笔记，并为此预留一些时间。]]></description>
-      <guid>https://tube.kockatoo.org/w/bvNd1Kjfiq9u8GJnc3TvSy?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 18:38:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
