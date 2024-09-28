@@ -4,65 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Sep 2024 16:41:24 GMT</lastBuildDate>
-    <item>
-      <title>为何以及如何在非 KDE 应用程序中使用 KDE 框架 - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/9VG6LroZBPaevkBVpxHd3y?utm_source=atom_feed</link>
-      <description><![CDATA[Javier Cordero 撰稿
-本次演讲的目的是鼓励人们开发原生 Linux 应用程序，并帮助他们使用 KDE 框架来创建这些应用程序。演讲分为两个部分：展示和示例。
-第一部分重点介绍使用 KDE 框架可以实现的功能，提供 KDE 内外的真实示例。第二部分重点介绍如何帮助不太熟悉 KDE、C++ 或 Linux 生态系统的开发人员在设置框架和准备分发应用程序时避免常见的陷阱。]]></description>
-      <guid>https://tube.kockatoo.org/w/9VG6LroZBPaevkBVpxHd3y?utm_source=atom_feed</guid>
-      <pubDate>Sat, 28 Sep 2024 11:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>颜色到底是什么？ - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/uMWV85f7mt3s3jZvnVYLTC?utm_source=atom_feed</link>
-      <description><![CDATA[作者：Xaver Hugl
-我将尝试非常粗略地解释什么是颜色、颜色在计算机中如何表示、我们为什么需要颜色管理以及颜色管理在 Wayland 中的工作方式。
-我在 KWin 中编写了颜色管理系统]]></description>
-      <guid>https://tube.kockatoo.org/w/uMWV85f7mt3s3jZvnVYLTC?utm_source=atom_feed</guid>
-      <pubDate>Sat, 28 Sep 2024 11:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>维护者到底是什么？ - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/ooitdYQQP3UfeLj8W9nZo4?utm_source=atom_feed</link>
-      <description><![CDATA[Nicolas Fella 著
-维护者在开源项目中扮演着重要角色，但大多数 KDE 项目却没有维护者。
-为什么这不是问题？维护者到底是什么？]]></description>
-      <guid>https://tube.kockatoo.org/w/ooitdYQQP3UfeLj8W9nZo4?utm_source=atom_feed</guid>
-      <pubDate>Sat, 28 Sep 2024 11:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Union：KDE 中样式的未来！？ - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/v5hsBd3oDewh1WR4XCQSZb?utm_source=atom_feed</link>
-      <description><![CDATA[Arjen Hiemstra 撰稿
-多年来，我们设计应用程序的方式变得越来越复杂。最初，我们只有 Qt 小部件和一个设计它们的系统。然后是 Plasma 和基于 SVG 的样式，接着是 QtQuick 和另一个样式系统。目前，我们有几种样式设计方法，但大多数都很难使用。这种情况对开发人员和设计师来说都不是好事。
-在这次演讲中，我将介绍我们是如何走到这一步的，这会导致什么样的问题，以及一种可能的前进方向，即 Union。 Union 是一个正在开发的新主题引擎，我希望它最终能够用一种对开发人员来说更易于维护、对设计人员来说更灵活的方式取代 KDE 中的不同样式。
-本次演讲将有些技术性，但并不意味着深入探讨样式系统的具体实现，而是旨在讨论“为什么”而不是“如何”]]></description>
-      <guid>https://tube.kockatoo.org/w/v5hsBd3oDewh1WR4XCQSZb?utm_source=atom_feed</guid>
-      <pubDate>Sat, 28 Sep 2024 11:26:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>对大型语言模型的务实理解 - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/6duhoemuJd8uomV5nzDPWB?utm_source=atom_feed</link>
-      <description><![CDATA[David Schlangen、Eike Hein 和 Lydia Pintscher 著
-大型语言模型在 2022 年底进入公众意识的形式非常具有启发性：作为似乎可以回答任何问题并完成任何任务（只要只涉及书面语言）的“聊天机器人”。那些第一次与 ChatGPT 互动时毫无准备的人印象深刻 --- 它会写打油诗！它可以回答数学问题！它可以为我的学期论文提供大纲！通用性巧妙地隐藏了一个问题，即它是否真的擅长任何特定任务。出于原则原因，这些模型注定是通才：给定一个前缀序列，它们总是会预测下一个标记。在我的主题演讲中，我将介绍最近使用“LLM 作为函数逼近器”框架的一些努力，以便更准确地理解 LLM 的作用、其真正的通用性，以及如何将它们从多才多艺的小马变成可能有用的系统组件。演讲之后将与 KDE 财务主管兼副总裁 Eike Hein 进行小组讨论，以了解如何让这些组件对 KDE 开发者社区有用。]]></description>
-      <guid>https://tube.kockatoo.org/w/6duhoemuJd8uomV5nzDPWB?utm_source=atom_feed</guid>
-      <pubDate>Sat, 28 Sep 2024 11:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>通往 KDE Neon Core 之路 — 天哪！我们到处都被 Snaps 包围了！- Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/negwwwpiddSYkXnVwJ7tAm?utm_source=atom_feed</link>
-      <description><![CDATA[Bt Kevin Ottens
-现在出现了一种新的 Ubuntu 变体，它被称为 Ubuntu Core。它首先被考虑用于物联网，并且基于 snap 包。它从头到尾都是由 snap 组成的。最近，人们一直在推动“Ubuntu Core 桌面”，它超越了无头设备，拥有完整的桌面会话。
-KDE Plasma 不能被排除在这样的努力之外，这就是“KDE Neon Core”想法的由来。试图在 Ubuntu Core 基础上获得 KDE Neon 的所有好处。
-这是一个有趣的挑战，可以帮助我们的社区改善与 snap 生态系统的互动。
-在本次演讲中，我们将展示 KDE Neon Core 的结构、它提供的功能及其局限性。我们还将介绍 snap 限制工作原理的基础知识。最后，我们将解释我们遇到的问题，这些问题导致 KDE 软件或 snapd 本身出现补丁。这将是一次反思调试这种不可变系统所面临的挑战的机会。
-本次演讲将为那些对 Plasma 工作区会话中的进程如何集成或 snapd 与应用程序之间的交互感到好奇的人提供有趣的见解。
-如果您想听听构建此类系统的战斗故事，并了解我们在此过程中发现了什么，那么本次演讲将适合您。]]></description>
-      <guid>https://tube.kockatoo.org/w/negwwwpiddSYkXnVwJ7tAm?utm_source=atom_feed</guid>
-      <pubDate>Sat, 28 Sep 2024 11:03:53 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Sep 2024 22:13:27 GMT</lastBuildDate>
     <item>
       <title>2024 年 Nextcloud 社区会议和 2024 年 Matrix 会议</title>
       <link>https://www.volkerkrause.eu/2024/09/28/nextcloud-conference-matrix-conference-2024.html?utm_source=atom_feed</link>
@@ -116,12 +58,96 @@ NeoChat。一些讨论的更改
       <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Qt 超越 6.8 - Akademy 2024</title>
-      <link>https://tube.kockatoo.org/w/nRTcpVh72BvgtVLkjrbaud?utm_source=atom_feed</link>
-      <description><![CDATA[作者：Volker Hilsheimer
-Qt 6.8 应该会在 Akademy 期间发布，我们刚刚举行了 Qt 贡献者峰会。这是个很好的时机，让我们来看看我们为即将发布的版本所做的一些工作，以及我们打算将重点放在 Qt 项目和 Qt 公司研发团队的哪些方面。]]></description>
-      <guid>https://tube.kockatoo.org/w/nRTcpVh72BvgtVLkjrbaud?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 18:48:55 GMT</pubDate>
+      <title>网络评论，第 2024-39 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Sep 2024 09:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dot 已关闭。KDE Planet 万岁！</title>
+      <link>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+
+随着 KDE 的发展，人们对其每个项目的兴趣也在增长。将所有 KDE 新闻集中在一个地方已不再有效。来自整个 KDE 社区的更新量太大，无法在 the Dot 上全部涵盖。考虑到这一点，我们正在归档 the Dot，但出于历史原因，仍保留其内容。
+社区发布的新闻是为 The Dot 精心策划和编辑的。目前发布新闻的速度不仅使这种做法不切实际，而且还会导致一些事情被不公平地遗漏，只提供部分正在发生的事情。
+但我们不会让您失去 KDE 新闻来源！我们已经找到了更好的办法：我们与 KDE 网站管理员合作，为贡献者建立了一个博客系统。您现在可以直接、未经过滤、未经编辑地从源头访问公告、Akademy、协会新闻和您最喜爱的项目的新闻。
+或者...如果您想每天（通常是每小时）了解所有 KDE 项目和新闻的动态，请使用Planet！在网络上访问它或将 RSS 源 添加到您的阅读器。您还可以在我们的讨论论坛中关注 KDE 新闻，并与社区中的其他人实时讨论。您甚至可以在 Mastodon 上关注 @planet.kde.org@rss-parrot.net 以了解最新动态。
+如果您只想要了解精彩内容，请查看我们的社交媒体：
+
+Mastodon（推荐）
+BlueSky
+Threads
+Facebook
+Instagram
+LinkedIn
+
+]]></description>
+      <guid>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</guid>
+      <pubDate>Wed, 25 Sep 2024 09:45:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krita 5.2.5 发布！</title>
+      <link>https://krita.org/en/posts/2024/krita-5-2-5-released/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2024/krita-5-2-5-released/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plasma 浏览器集成 2.0</title>
+      <link>https://blog.broulik.de/2024/09/plasma-browser-integration-2-0/?utm_source=atom_feed</link>
+      <description><![CDATA[我很高兴地宣布，Plasma Browser Integration 2.0 版现已在 Chrome 网上应用店和 Microsoft Edge 附加组件页面上发布。此版本将扩展更新为 Manifest 版本 3，Chrome 很快将需要该版本。主要版本的提升反映了实现此移植所花费的工作量。
+Konqi 正在浏览万维网
+Plasma 浏览器集成弥合了您的浏览器和 Plasma 之间的差距桌面。它允许您共享链接、在 KRunner 中查找浏览器选项卡和访问过的网站、在通知中心监控下载进度，以及随时从 Plasma 中控制音乐和视频播放，甚至使用 KDE Con​​nect 从手机上控制音乐和视频播放！
+
+尽管版本号不同，但面向用户的更改并不多。不过，此版本附带了常规的翻译更新。由于此版本与之前的 1.9.1相比，不会为 Firefox 用户带来任何优势，因此 Mozilla 附加组件商店将不会提供此版本。
+我们借此机会重新编写了扩展清单，使“历史记录”权限成为强制性的。当最初添加浏览器历史记录 KRunner 模块时，该权限是可选的，因为我们担心在更新扩展时出现可怕的权限警告时可能会吓跑用户。
+（另请参阅我们社区 Wiki 上的变更日志页面）]]></description>
+      <guid>https://blog.broulik.de/2024/09/plasma-browser-integration-2-0/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 24 Sep 2024 11:19:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dolphin 插件 24.08</title>
+      <link>https://meven.github.io/dolphin-plugins-24-08/?utm_source=atom_feed</link>
+      <description><![CDATA[从 dolphin-plugins 24.05 开始，您可以使用 dolphin-plugins git 插件从 dolphin git clone。
+安装插件并在上下文菜单设置中启用 Git 后，您可以使用此上下文菜单操作：
+
+这显示了此 git clone 对话框（使用我的法语语言环境）：
+
+您可以粘贴 git 存储库 url，它将获取其分支。
+如果您的剪贴板或 git clone 命令行中恰好有一个 URL，它将直接将其提取为存储库 URL。
+这是由 Nikolai Krasheninnikov 牵头的，谢谢。
+我也参与了一点并对其进行了审查。
+仍有机会改进 git 实现，例如拥有更好的提交对话框。
+那将是一个不错且简单的新贡献者机会 :)]]></description>
+      <guid>https://meven.github.io/dolphin-plugins-24-08/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 22 Sep 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skrooge 2.33.0 发布</title>
+      <link>https://skrooge.org/news/2024-09-22-skrooge_2.33.0_released/?utm_source=atom_feed</link>
+      <description><![CDATA[Skrooge 团队宣布发布基于 KDE 框架 的热门个人财务管理器 2.33.0 版本。
+变更日志
+
+修正 bug 485366：不同报告选择之间的差异 (2)
+修正 bug 484156：“月度报告”上个月的图形故障
+修正错误 489784：导入 QIF 时帐户类型已更改
+修正错误 492287：Skrooge 2.32.0 在打开现有 .skg 文件时冻结，但导入速度很快
+修正错误 493062：QIF 和字符“/”的另一个问题
+修正错误：修复 .sta 文件的 mimetype
+修正错误：删除对 QCA 的依赖。因此，不再支持旧的受密码保护的文件。
+修正错误：修复“收入与支出”仪表板小部件中的翻译问题
+]]></description>
+      <guid>https://skrooge.org/news/2024-09-22-skrooge_2.33.0_released/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 KDE 应用</title>
+      <link>https://blogs.kde.org/2024/09/22/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/09/22/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 22 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
