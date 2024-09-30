@@ -4,7 +4,15 @@
     <title>FiveFilters.org</title>
     <link>https://www.fivefilters.org/</link>
     <description>网络文章变得易于访问</description>
-    <lastBuildDate>Mon, 23 Sep 2024 13:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 14:15:52 GMT</lastBuildDate>
+    <item>
+      <title>Google 表格的 RSS 源</title>
+      <link>https://www.fivefilters.org/2024/rss-to-google-sheets/</link>
+      <description><![CDATA[如何使用 Feed Control 自动将新的 feed 项目添加到 Google 表格。在这篇文章中，我们提供了分步指南。
+文章RSS feed 到 Google 表格首先出现在FiveFilters.org上。]]></description>
+      <guid>https://www.fivefilters.org/2024/rss-to-google-sheets/</guid>
+      <pubDate>Mon, 30 Sep 2024 13:49:16 GMT</pubDate>
+    </item>
     <item>
       <title>Feed 模板、Google 新闻支持等</title>
       <link>https://www.fivefilters.org/2024/rss-templates-google-news-support-and-more/</link>
@@ -40,7 +48,7 @@
     <item>
       <title>格伦·格林沃尔德 (Glenn Greenwald) 谈维基百科偏见</title>
       <link>https://www.fivefilters.org/2023/glenn-greenwald-on-wikipedia-bias/</link>
-      <description><![CDATA[格伦·格林沃尔德 (Glenn Greenwald) 的系统更新一集关于维基百科的建制偏见值得一看。格林沃尔德还讨论了维基百科的“可靠来源”政策如何发挥作用。
+      <description><![CDATA[格伦·格林沃尔德 (Glenn Greenwald) 的系统更新一集关于维基百科的建制偏见值得一看。格林沃尔德还讨论了维基百科的“可靠来源”政策如何在这方面发挥作用。
 帖子格伦·格林沃尔德 (Glenn Greenwald) 谈维基百科偏见首先出现在FiveFilters.org上。]]></description>
       <guid>https://www.fivefilters.org/2023/glenn-greenwald-on-wikipedia-bias/</guid>
       <pubDate>Mon, 14 Aug 2023 19:50:11 GMT</pubDate>
@@ -76,14 +84,6 @@
 文章Kobo Elipsa：标记网络文章和 EPUB首先出现在FiveFilters.org上。]]></description>
       <guid>https://www.fivefilters.org/2022/kobo-elipsa-marking-up-web-articles-and-epubs/</guid>
       <pubDate>Sun, 13 Nov 2022 17:30:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>推送至 Kindle：封面图片和速度改进</title>
-      <link>https://www.fivefilters.org/2022/push-to-kindle-cover-images-and-speed-improvements/</link>
-      <description><![CDATA[过去，亚马逊会自动为没有封面图片的文档生成封面，将标题和作者显示为封面。他们不再这样做，因此 Push to Kindle 现在会自行生成封面。
-帖子Push to Kindle：封面图片和速度改进首先出现在FiveFilters.org上。]]></description>
-      <guid>https://www.fivefilters.org/2022/push-to-kindle-cover-images-and-speed-improvements/</guid>
-      <pubDate>Sun, 06 Nov 2022 21:19:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
