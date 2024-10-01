@@ -4,7 +4,24 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Oct 2024 01:16:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 10:42:33 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 Google 编程之夏</title>
+      <link>https://labplot.kde.org/2024/10/01/google-summer-of-code-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[诸如 KDE 季 (SoK) 和 Google Summer of Code (GSoC) 之类的计划为年轻人才提供了绝佳的机会，让他们成为开源社区的一员，并为开源项目做出贡献。LabPlot 和 KDE 总体而言在管理 GSoC 项目方面拥有悠久的历史和经验，并从各种贡献中受益匪浅。近年来，我们暂时离开了 GSoC，主要是由于个人原因和时间限制。在今年成功举办 SoK 2024 计划之后，我们决定再次参加 GSoC2024。
+今年，Israel Gladima 和 Kuntal Bar 与我们一起花了 3 个月的时间，开展了一项颇具挑战性的项目，旨在解决 LabPlot 中的两个主要功能缺陷，即Python 脚本和3D 数据可视化。这两个开发主题已经成为我们多次讨论甚至初步实施的主题，但我们从未设法完成它们并向我们的用户提供这些功能。基于去年工作的现有成果，我们决定重新启动这些项目并在 GSoC2024 期间开展工作。尽管这些项目面临技术挑战和复杂性，但 Kuntal 和 Israel 今年夏天表现非常出色，并取得了惊人的成果。
+我们建议您参阅他们的博客文章此处和此处，以了解更多已完成工作的详情。在接下来的几周和几个月里，我们将继续努力完成这些功能并为首次发布做好准备。LabPlot 团队要感谢 Israel 和 Kuntal，我们期待您在未来做出贡献！]]></description>
+      <guid>https://labplot.kde.org/2024/10/01/google-summer-of-code-2024/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Oct 2024 10:06:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>翻译 Qt 应用程序</title>
+      <link>https://www.basyskom.de/translating-qt-applications/?utm_source=atom_feed</link>
+      <description><![CDATA[翻译 Qt 应用程序可能是一项艰巨的任务。这是从 Qt 5 到 Qt 6 的概述以及 Qt 6.7 带来的新功能。
+继续阅读 basysKom GmbH 的翻译 Qt 应用程序。]]></description>
+      <guid>https://www.basyskom.de/translating-qt-applications/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Oct 2024 08:43:01 GMT</pubDate>
+    </item>
     <item>
       <title>Tellico 4.0.1 发布</title>
       <link>https://tellico-project.org/tellico-4-0-1-released/?utm_source=atom_feed</link>
@@ -17,6 +34,41 @@
 ]]></description>
       <guid>https://tellico-project.org/tellico-4-0-1-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Oct 2024 00:22:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krita 5.2.6 发布！</title>
+      <link>https://krita.org/en/posts/2024/krita-5-2-6-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Krita 5.2.6 修复了直通组图层的严重错误（https://bugs.kde.org/show_bug.cgi?id=493774)。
+下载
+Windows
+如果您使用的是便携式 zip 文件，只需在资源管理器中打开 zip 文件并将文件夹拖到方便的位置，然后双击文件夹中的 Krita 图标。这不会影响已安装的 Krita 版本，但它会与常规安装的 Krita 版本共享您的设置和自定义资源。如需报告崩溃，还可获取调试符号文件夹。
+注意：我们不再制作 32 位 Windows 版本。
+
+64 位 Windows 安装程序：krita-5.2.6-setup.exe
+便携式 64 位 Windows：krita-5.2.6.zip
+调试符号。 （在 Krita 安装文件夹中解压）
+
+Linux
+
+64 位 Linux：krita-5.2.6-x86_64.appimage
+
+不再需要单独的 gmic-qt AppImage。
+（如果由于某种原因，Firefox 认为需要将其加载为文本：右键单击链接进行下载。）
+MacOS
+注意：我们不再支持 MacOS 10.13，10.14 是支持的最低版本版本。
+
+MacOS 磁盘映像：krita-5.2.6.dmg
+
+Android
+我们认为 ChromeOS 上的 Krita 已准备好投入生产。Android 上的 Krita 仍处于测试版。 Krita 不适用于 Android 手机，仅适用于平板电脑，因为用户界面需要大屏幕。
+
+64 位 Intel CPU APK
+64 位 Arm CPU APK
+32 位 Arm CPU APK  源代码  krita-5.2.6.tar.gz krita-5.2.6.tar.xz  md5sum 有关所有下载，请访问 https://download.kde.org/stable/krita/5.2.6/ 并点击“详细信息”获取哈希值。
+密钥
+Linux AppImage 和源 .tar.gz 和 .tar.xz 压缩包已签名。您可以在此处获取公钥。签名位于此处（文件名以 .sig 结尾）。]]></description>
+      <guid>https://krita.org/en/posts/2024/krita-5-2-6-released/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>9 月份的开源会议</title>
@@ -56,7 +108,7 @@ BUGFIXES：
 Packager 部分
 您可以在
 download.kde.org
-找到 tarball 包，并且已使用 Tuomas Nurmi 的 GPG 密钥签名。]]></description>
+找到 tarball 包，并且已使用 Tuomas Nurmi 的 GPG 密钥 签名。]]></description>
       <guid>https://blogs.kde.org/2024/09/29/amarok-3.1.1-released/?utm_source=atom_feed</guid>
       <pubDate>Sun, 29 Sep 2024 09:40:00 GMT</pubDate>
     </item>
@@ -111,43 +163,6 @@ NeoChat。一些讨论的更改
 旅行闹剧 理想情况下，整个行程应该只需要约 18 个小时，但多亏了汉莎航空，整个行程（包括中途停留）总共耗时 48 小时。由于旅行比计划的要早得多（周四凌晨 5:00，而不是计划的晚上 7:00），航班取消和重新预订，不得不在中途停留花费大量时间。]]></description>
       <guid>https://blog.bshah.in/2024/09/28/akademy-2024-in-wurzburg/?utm_source=atom_feed</guid>
       <pubDate>Sat, 28 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-39 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/09/27/web-review-week-2024-39/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Sep 2024 09:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dot 已关闭。KDE Planet 万岁！</title>
-      <link>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-
-随着 KDE 的发展，人们对其每个项目的兴趣也在增长。将所有 KDE 新闻集中在一个地方已不再有效。来自整个 KDE 社区的更新量太大，无法在 the Dot 上全部涵盖。考虑到这一点，我们正在归档 the Dot，但出于历史原因，仍保留其内容。
-社区发布的新闻是为 The Dot 精心策划和编辑的。目前发布新闻的速度不仅使这种做法不切实际，而且还会导致一些事情被不公平地遗漏，只提供部分正在发生的事情。
-但我们不会让您失去 KDE 新闻来源！我们已经找到了更好的办法：我们与 KDE 网站管理员合作，为贡献者建立了一个博客系统。您现在可以直接、未经过滤、未经编辑地从源头访问公告、Akademy、协会新闻和您最喜爱的项目的新闻。
-或者...如果您想每天（通常是每小时）了解所有 KDE 项目和新闻的动态，请使用Planet！在网络上访问它或将 RSS 源 添加到您的阅读器。您还可以在我们的讨论论坛中关注 KDE 新闻，并与社区中的其他人实时讨论。您甚至可以在 Mastodon 上关注 @planet.kde.org@rss-parrot.net 以了解最新动态。
-如果您只想要了解精彩内容，请查看我们的社交媒体：
-
-Mastodon（推荐）
-BlueSky
-Threads
-Facebook
-Instagram
-LinkedIn
-
-]]></description>
-      <guid>https://dot.kde.org/2024/09/25/dot-closed-long-live-kde-planet?utm_source=atom_feed</guid>
-      <pubDate>Wed, 25 Sep 2024 09:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 5.2.5 发布！</title>
-      <link>https://krita.org/en/posts/2024/krita-5-2-5-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/krita-5-2-5-released/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 25 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
