@@ -4,7 +4,17 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Oct 2024 13:02:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 14:40:06 GMT</lastBuildDate>
+    <item>
+      <title>GSOC：第 8 周至第 16 周</title>
+      <link>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-8-16/?utm_source=atom_feed</link>
+      <description><![CDATA[结束啦！
+GSoC 的漫长旅程（长达 16 周）即将结束。在这篇博客中，我将分享一些我已完成的工作以及一些我尚未完成的工作。让我们从主要工作开始吧。
+Snap KCM！它来了！
+我终于成功为 snaps 创建了一个 KCM。这是使用 C++、Qt (Qml)、Kirigami、Snapd-Glib Api 编写的。流程大致如下]]></description>
+      <guid>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-8-16/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Oct 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Creator 14.0.2 发布</title>
       <link>https://www.qt.io/blog/qt-creator-14.0.2-released?utm_source=atom_feed</link>
@@ -156,13 +166,6 @@ NeoChat。一些讨论的更改
 在卡尔鲁厄举办的 OSM Hack Weekend。]]></description>
       <guid>https://www.volkerkrause.eu/2024/09/28/nextcloud-conference-matrix-conference-2024.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 28 Sep 2024 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：Converging 6.2</title>
-      <link>https://pointieststick.com/2024/09/27/this-week-in-plasma-converging-6-2/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/09/27/this-week-in-plasma-converging-6-2/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 28 Sep 2024 03:22:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
