@@ -4,11 +4,18 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Tue, 01 Oct 2024 17:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:20:29 GMT</lastBuildDate>
+    <item>
+      <title>特拉维夫发生枪击和持刀袭击事件，六人死亡</title>
+      <link>https://www.bbc.com/news/articles/ce3wykxzk81o</link>
+      <description><![CDATA[警方称，两名袭击者在雅法街区开枪后被“制服”。]]></description>
+      <guid>https://www.bbc.com/news/articles/ce3wykxzk81o</guid>
+      <pubDate>Tue, 01 Oct 2024 18:17:12 GMT</pubDate>
+    </item>
     <item>
       <title>视频显示导弹向特拉维夫发射</title>
       <link>https://www.bbc.com/news/videos/c3rlvj3xgpyo</link>
-      <description><![CDATA[以色列军方在一份声明中称，伊朗向以色列发射了导弹。]]></description>
+      <description><![CDATA[伊朗国家电视台发表声明证实，已向以色列发射了“数十枚”导弹。]]></description>
       <guid>https://www.bbc.com/news/videos/c3rlvj3xgpyo</guid>
       <pubDate>Tue, 01 Oct 2024 17:08:46 GMT</pubDate>
     </item>
@@ -18,13 +25,6 @@
       <description><![CDATA[这艘船于周一启航——但它的旅程又遭遇了挫折。]]></description>
       <guid>https://www.bbc.com/news/articles/cz048d74n55o</guid>
       <pubDate>Tue, 01 Oct 2024 16:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止石油抗议者因破坏公共秩序而被判有罪</title>
-      <link>https://www.bbc.com/news/articles/c9dyx6y2vjzo</link>
-      <description><![CDATA[在伦敦，一名活动人士和其他人被判刑时，对法官大喊“你真可耻”。]]></description>
-      <guid>https://www.bbc.com/news/articles/c9dyx6y2vjzo</guid>
-      <pubDate>Tue, 01 Oct 2024 16:33:43 GMT</pubDate>
     </item>
     <item>
       <title>乌克兰纪念战争死难者 市场袭击造成六人死亡</title>
@@ -55,6 +55,13 @@
       <pubDate>Tue, 01 Oct 2024 14:04:40 GMT</pubDate>
     </item>
     <item>
+      <title>“国家已经沦陷”：以色列入侵黎巴嫩，恐惧与不安</title>
+      <link>https://www.bbc.com/news/articles/cj9jzv4deg9o</link>
+      <description><![CDATA[许多黎巴嫩人认为，该国被卷入了一场它不愿意参与的战争。]]></description>
+      <guid>https://www.bbc.com/news/articles/cj9jzv4deg9o</guid>
+      <pubDate>Tue, 01 Oct 2024 14:04:12 GMT</pubDate>
+    </item>
+    <item>
       <title>中国女子因涉嫌监视军火公司在德国被捕</title>
       <link>https://www.bbc.com/news/articles/cz048934ygro</link>
       <description><![CDATA[一名中国女子因涉嫌泄露莱比锡/哈勒机场信息而被捕。]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[BBC 的弗兰克·加德纳表示，他在船上所经历的“屈辱”经历在 2024 年是不可接受的。]]></description>
       <guid>https://www.bbc.com/news/articles/c7490n4rnkpo</guid>
       <pubDate>Tue, 01 Oct 2024 12:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>能源费用上涨，人们被要求读表</title>
-      <link>https://www.bbc.com/news/articles/c7v6l26v585o</link>
-      <description><![CDATA[能源价格上涨 10% 已生效，这意味着每年的平均电费将达到 1,717 英镑。]]></description>
-      <guid>https://www.bbc.com/news/articles/c7v6l26v585o</guid>
-      <pubDate>Tue, 01 Oct 2024 11:11:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
