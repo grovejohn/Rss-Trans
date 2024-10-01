@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Oct 2024 14:40:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:44:02 GMT</lastBuildDate>
     <item>
       <title>GSOC：第 8 周至第 16 周</title>
       <link>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-8-16/?utm_source=atom_feed</link>
@@ -52,6 +52,14 @@ Snap KCM！它来了！
 ]]></description>
       <guid>https://tellico-project.org/tellico-4-0-1-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Oct 2024 00:22:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 的 Akademy 2024：构建文化和记忆</title>
+      <link>http://neofytosk.com/post/kdes-akademy-2024-building-culture-and-memories/?utm_source=atom_feed</link>
+      <description><![CDATA[活动 又是一年，又是一年 Akademy；这真是一次不可思议的经历！
+KDE 的 Akademy 2024 是我连续第七次参加（5 次亲临现场，2 次在线），我不断被我们所有人从这一年度活动中收获的丰厚所震撼，无论是个人还是社区。有机会与来自 KDE 生态系统的 100 多名贡献者建立联系，他们都对我们项目的未来充满热情，这真的是一件很特别的事情。]]></description>
+      <guid>http://neofytosk.com/post/kdes-akademy-2024-building-culture-and-memories/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Krita 5.2.6 发布！</title>
@@ -129,43 +137,6 @@ download.kde.org
 找到 tarball 包，并且已使用 Tuomas Nurmi 的 GPG 密钥 进行签名。]]></description>
       <guid>https://blogs.kde.org/2024/09/29/amarok-3.1.1-released/?utm_source=atom_feed</guid>
       <pubDate>Sun, 29 Sep 2024 09:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 Nextcloud 社区会议和 2024 年 Matrix 会议</title>
-      <link>https://www.volkerkrause.eu/2024/09/28/nextcloud-conference-matrix-conference-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[这几个月的会议非常密集，我在这里的报道有些滞后。所以现在您可以在一篇文章中看到两个内容，一个是Nextcloud 2024 社区会议，它几乎紧随Akademy之后，另一个是上周末的Matrix 2024 会议。
-Nextcloud
-
-
-照片由 Nextcloud 提供
-
-Nextcloud 会议为期一周，不过我只参加了会议前两天的部分活动。但仍然足以进行一些有趣的对话。
-从 KDE (PIM) 的角度来看，最令人兴奋的发展是 CalDav 推送通知的进展。虽然当我们去年与 DAVx⁵ 团队讨论时，这仍然主要是理论概念，但现在有一个工作原型，由 DAV Push Nextcloud（服务器）应用程序和 DAVx⁵ Android 同步客户端组成。
-有了可以测试的工作服务器，为 KDE 客户端实现这一点就变得更加有趣和可行。
-我们还讨论了 Nextcloud 桌面客户端的 Wayland 支持，我在 Björn Lundell 的主题演讲中了解到一个有趣的细节，即欧盟法律的官方翻译可能会有（无意的）语义差异，这显然可以从新欧盟网络弹性法案 (CRA)中“FOSS”的定义中看出。
-Matrix
-
-
-
-对于Matrix 会议，我也只参加了一半，但 KDE 总体上在那里的影响力略大一些，因为 KDE 也是 Matrix 基金会的准会员。
-我的主要兴趣是推进 Itinerary 中基于 Matrix 的行程同步。
-
-我之前在 这里 描述了基本想法，
-
-但实际上实施这个会遇到更多挑战。当你能与一群在该主题上拥有丰富经验的人进行物理接触时，这些问题就更容易解决。
-现在应该已经完成​​了与 Matrix 直接交互的大部分工作，但仍有许多事情需要解决，以使同步在各种场景中都具有稳定性。
-总体而言，这看起来很有希望，可能会在 24.12 之前完成。
-除了行程之外，我还参与了一些恢复和改进 Android CD 版本的工作
-
-NeoChat。一些讨论的更改
-
-也将使 Android 上的其他 KDE 应用程序受益。
-下一步计划
-10 月的活动安排会比较宽松，接下来我将再次参加两年一度的
-
-在卡尔鲁厄举办的 OSM Hack Weekend。]]></description>
-      <guid>https://www.volkerkrause.eu/2024/09/28/nextcloud-conference-matrix-conference-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 28 Sep 2024 08:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
