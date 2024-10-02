@@ -4,13 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Oct 2024 13:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 23:14:56 GMT</lastBuildDate>
     <item>
       <title>使用 `ripgrep-all` / `ripgrep` 来改进 Dolphin 中的搜索</title>
       <link>https://blogs.kde.org/2024/10/02/use-ripgrep-all-/-ripgrep-to-improve-search-in-dolphin/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/10/02/use-ripgrep-all-/-ripgrep-to-improve-search-in-dolphin/?utm_source=atom_feed</guid>
       <pubDate>Wed, 02 Oct 2024 10:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>学院故事</title>
+      <link>https://blogs.kde.org/2024/10/01/tales-from-the-akademy/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/10/01/tales-from-the-akademy/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Oct 2024 23:15:00 GMT</pubDate>
     </item>
     <item>
       <title>强制版本1.2.2</title>
@@ -116,13 +123,6 @@ Android
 Linux AppImage 和源 .tar.gz 和 .tar.xz 压缩包已签名。您可以在此处获取公钥。签名位于此处（文件名以 .sig 结尾）。]]></description>
       <guid>https://krita.org/en/posts/2024/krita-5-2-6-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>9 月份的开源会议</title>
-      <link>https://carlschwan.eu/2024/09/29/open-source-conferences-in-september/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://carlschwan.eu/2024/09/29/open-source-conferences-in-september/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 29 Sep 2024 18:00:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
