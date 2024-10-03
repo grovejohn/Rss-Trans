@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Oct 2024 23:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 10:41:15 GMT</lastBuildDate>
+    <item>
+      <title>KDE 行程中的八月/九月</title>
+      <link>https://www.volkerkrause.eu/2024/10/03/kde-itinerary-august-september-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/10/03/kde-itinerary-august-september-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Thu, 03 Oct 2024 08:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 `ripgrep-all` / `ripgrep` 来改进 Dolphin 中的搜索</title>
       <link>https://blogs.kde.org/2024/10/02/use-ripgrep-all-/-ripgrep-to-improve-search-in-dolphin/?utm_source=atom_feed</link>
@@ -85,43 +92,8 @@ Snap KCM！它来了！
       <title>KDE 的 Akademy 2024：构建文化和记忆</title>
       <link>http://neofytosk.com/post/kdes-akademy-2024-building-culture-and-memories/?utm_source=atom_feed</link>
       <description><![CDATA[活动 又是一年，又是一年 Akademy；这真是一次不可思议的经历！
-KDE 的 Akademy 2024 是我连续第七次参加（5 次亲临现场，2 次在线），我不断被我们所有人从这一年度活动中收获的丰厚所震撼，无论是个人还是社区。有机会与来自 KDE 生态系统的 100 多名贡献者建立联系，他们都对我们项目的未来充满热情，这真的是一件很特别的事情。]]></description>
+KDE 的 Akademy 2024 是我连续第七次参加（5 次亲临现场，2 次在线），我不断被我们所有人从这一年度活动中收获的丰厚所震撼，无论是个人还是社区。有机会与来自 KDE 生态系统的 100 多位贡献者建立联系，他们都对我们项目的未来充满热情，这真的是一件很特别的事情。]]></description>
       <guid>http://neofytosk.com/post/kdes-akademy-2024-building-culture-and-memories/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 5.2.6 发布！</title>
-      <link>https://krita.org/en/posts/2024/krita-5-2-6-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Krita 5.2.6 修复了直通组图层的严重错误（https://bugs.kde.org/show_bug.cgi?id=493774)。
-下载
-Windows
-如果您使用的是便携式 zip 文件，只需在资源管理器中打开 zip 文件并将文件夹拖到方便的位置，然后双击文件夹中的 Krita 图标。这不会影响已安装的 Krita 版本，但它会与常规安装的 Krita 版本共享您的设置和自定义资源。如需报告崩溃，还可获取调试符号文件夹。
-注意：我们不再制作 32 位 Windows 版本。
-
-64 位 Windows 安装程序：krita-5.2.6-setup.exe
-便携式 64 位 Windows：krita-5.2.6.zip
-调试符号。 （在 Krita 安装文件夹中解压）
-
-Linux
-
-64 位 Linux：krita-5.2.6-x86_64.appimage
-
-不再需要单独的 gmic-qt AppImage。
-（如果由于某种原因，Firefox 认为需要将其加载为文本：右键单击链接进行下载。）
-MacOS
-注意：我们不再支持 MacOS 10.13，10.14 是支持的最低版本版本。
-
-MacOS 磁盘映像：krita-5.2.6-release.dmg
-
-Android
-我们认为 ChromeOS 上的 Krita 已准备好投入生产。Android 上的 Krita 仍处于测试版。 Krita 不适用于 Android 手机，仅适用于平板电脑，因为用户界面需要大屏幕。
-
-64 位 Intel CPU APK
-64 位 Arm CPU APK
-32 位 Arm CPU APK  源代码  krita-5.2.6.tar.gz krita-5.2.6.tar.xz  md5sum 有关所有下载，请访问 https://download.kde.org/stable/krita/5.2.6/ 并点击“详细信息”获取哈希值。
-密钥
-Linux AppImage 和源 .tar.gz 和 .tar.xz 压缩包已签名。您可以在此处获取公钥。签名位于此处（文件名以 .sig 结尾）。]]></description>
-      <guid>https://krita.org/en/posts/2024/krita-5-2-6-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
