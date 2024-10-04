@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Oct 2024 13:00:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 14:38:25 GMT</lastBuildDate>
     <item>
       <title>网络评论，第 2024-40 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/?utm_source=atom_feed</link>
@@ -26,6 +26,13 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
 
 ]]></description>
       <guid>https://ev.kde.org/2024/10/04/2024-10-05-kde-e-v-kdenlive-jobs/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>QCoro 0.11.0 发布公告</title>
+      <link>https://dvratil.cz/2024/10/qcoro-0.11.0-announcement/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://dvratil.cz/2024/10/qcoro-0.11.0-announcement/?utm_source=atom_feed</guid>
       <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -87,15 +94,6 @@ Snap KCM！它来了！
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-14.0.2-released?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Oct 2024 10:54:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 Google 编程之夏</title>
-      <link>https://labplot.kde.org/2024/10/01/google-summer-of-code-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[诸如 KDE 季 (SoK) 和 Google Summer of Code (GSoC) 之类的计划为年轻人才提供了绝佳的机会，让他们成为开源社区的一员，并为开源项目做出贡献。LabPlot 和 KDE 总体而言在管理 GSoC 项目方面拥有悠久的历史和经验，并从各种贡献中受益匪浅。近年来，我们暂时离开了 GSoC，主要是由于个人原因和时间限制。在今年成功举办 SoK 2024 计划之后，我们决定再次参加 GSoC2024。
-今年，Israel Gladima 和 Kuntal Bar 与我们一起花了 3 个月的时间，开展了一项颇具挑战性的项目，旨在解决 LabPlot 中的两个主要功能缺陷，即Python 脚本和3D 数据可视化。这两个开发主题已经成为我们多次讨论甚至初步实施的主题，但我们从未设法完成它们并向我们的用户提供这些功能。基于去年工作的现有成果，我们决定重新启动这些项目并在 GSoC2024 期间开展工作。尽管这些项目面临技术挑战和复杂性，但 Kuntal 和 Israel 今年夏天表现非常出色，并取得了惊人的成果。
-我们建议您参阅他们的博客文章此处和此处，以了解更多已完成工作的详情。在接下来的几周和几个月里，我们将继续努力完成这些功能并为首次发布做好准备。LabPlot 团队要感谢 Israel 和 Kuntal，我们期待您在未来做出贡献！]]></description>
-      <guid>https://labplot.kde.org/2024/10/01/google-summer-of-code-2024/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Oct 2024 10:06:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
