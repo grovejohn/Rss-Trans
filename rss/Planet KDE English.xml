@@ -4,7 +4,30 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Oct 2024 20:37:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 13:00:56 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-40 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 04 Oct 2024 12:15:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE e.V. 和 Kdenlive 团队正在寻找承包商</title>
+      <link>https://ev.kde.org/2024/10/04/2024-10-05-kde-e-v-kdenlive-jobs/?utm_source=atom_feed</link>
+      <description><![CDATA[支持 KDE 社区的非营利组织 KDE e.V. 和 Kdenlive 团队正在寻找积极主动的承包商来实现 Kdenlive 视频编辑器中的某些功能。目前有两个职位空缺：
+
+
+OpenTimelineIO 集成：这将需要在 Kdenlive 中实现一个 C++ 模块，以允许使用此开放标准进行导入和导出，从而允许与其他应用程序交换项目文件。有关此承包机会的更多详细信息，请参阅招聘广告。
+
+
+Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenlive 中生成和显示音频波形的代码。这应该会在时间轴中带来更快、更精确的波形。有关此合同机会的更多详细信息，请参阅招聘广告。
+我们期待您的申请。
+
+]]></description>
+      <guid>https://ev.kde.org/2024/10/04/2024-10-05-kde-e-v-kdenlive-jobs/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KStars v3.7.3 发布</title>
       <link>http://knro.blogspot.com/2024/10/kstars-v373-is-released.html?utm_source=atom_feed</link>
@@ -73,27 +96,6 @@ Snap KCM！它来了！
 我们建议您参阅他们的博客文章此处和此处，以了解更多已完成工作的详情。在接下来的几周和几个月里，我们将继续努力完成这些功能并为首次发布做好准备。LabPlot 团队要感谢 Israel 和 Kuntal，我们期待您在未来做出贡献！]]></description>
       <guid>https://labplot.kde.org/2024/10/01/google-summer-of-code-2024/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Oct 2024 10:06:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>翻译 Qt 应用程序</title>
-      <link>https://www.basyskom.de/translating-qt-applications/?utm_source=atom_feed</link>
-      <description><![CDATA[翻译 Qt 应用程序可能是一项艰巨的任务。这是从 Qt 5 到 Qt 6 的概述以及 Qt 6.7 带来的新功能。
-继续阅读在 basysKom GmbH 翻译 Qt 应用程序。]]></description>
-      <guid>https://www.basyskom.de/translating-qt-applications/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Oct 2024 08:43:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tellico 4.0.1 发布</title>
-      <link>https://tellico-project.org/tellico-4-0-1-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Tellico 4.0.1 现已发布，并修复了一些错误。
-改进和错误修复
-
-修复了 Qt6 中 HTML 导出的编码（错误 493180）。
-修复了与 Qt6/msvc 的编译。
-添加了用于更改应用程序的菜单项语言。
-]]></description>
-      <guid>https://tellico-project.org/tellico-4-0-1-released/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Oct 2024 00:22:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
