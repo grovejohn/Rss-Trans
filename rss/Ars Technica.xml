@@ -4,9 +4,23 @@
     <title>Ars Technica</title>
     <link>https://arstechnica.com</link>
     <description>为技术人员服务十多年。IT 新闻、评论和分析。</description>
-    <lastBuildDate>Thu, 03 Oct 2024 22:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 01:10:06 GMT</lastBuildDate>
     <item>
-      <title>奶制品迅速蔓延 加州疑似出现人类 H5N1 病例</title>
+      <title>自 2021 年以来，数千个 Linux 系统被隐秘恶意软件感染</title>
+      <link>https://arstechnica.com/security/2024/10/persistent-stealthy-linux-malware-has-infected-thousands-since-2021/</link>
+      <description><![CDATA[由于能够保持安装状态且不被发现，因此 Perfctl 很难被抵御。]]></description>
+      <guid>https://arstechnica.com/security/2024/10/persistent-stealthy-linux-malware-has-infected-thousands-since-2021/</guid>
+      <pubDate>Thu, 03 Oct 2024 23:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>前县书记员蒂娜·彼得斯因违反投票制度被判处 9 年有期徒刑</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/county-clerk-who-tried-to-prove-trumps-claims-gets-9-years-for-voting-system-breach/</link>
+      <description><![CDATA[法官称蒂娜·彼得斯是个骗子，并说监狱是她“唯一的去处”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/county-clerk-who-tried-to-prove-trumps-claims-gets-9-years-for-voting-system-breach/</guid>
+      <pubDate>Thu, 03 Oct 2024 22:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>奶制品迅速传播，加州确认人类感染 H5N1 病例</title>
       <link>https://arstechnica.com/health/2024/10/as-bird-flu-rages-through-california-cows-possible-human-case-identified/</link>
       <description><![CDATA[如果该病例得到疾病预防控制中心的确认，这将是第 16 例与奶牛场疫情相关的病例。]]></description>
       <guid>https://arstechnica.com/health/2024/10/as-bird-flu-rages-through-california-cows-possible-human-case-identified/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[Bazzite 已经解决了驱动程序、输入和更新问题，因此您可以玩游戏。]]></description>
       <guid>https://arstechnica.com/gaming/2024/10/bazzite-is-a-wonderful-steamos-ish-port-for-lots-of-non-valve-handhelds/</guid>
       <pubDate>Thu, 03 Oct 2024 16:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软新推出的“Copilot Vision”人工智能实验可以看到你浏览的内容</title>
-      <link>https://arstechnica.com/ai/2024/10/microsofts-new-copilot-vision-ai-experiment-can-see-what-you-browse/</link>
-      <description><![CDATA[微软为其 Copilot AI 助手的部分用户带来了两项新的选择加入试用功能。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/microsofts-new-copilot-vision-ai-experiment-can-see-what-you-browse/</guid>
-      <pubDate>Thu, 03 Oct 2024 16:14:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>EVgo 获得 10.5 亿美元贷款，用于建造 7,500 个直流快速充电器</title>
-      <link>https://arstechnica.com/cars/2024/10/evgo-gets-1-05b-loan-to-build-7500-dc-fast-chargers/</link>
-      <description><![CDATA[EVgo 将重点关注人们无法在家充电的服务不足的社区。]]></description>
-      <guid>https://arstechnica.com/cars/2024/10/evgo-gets-1-05b-loan-to-build-7500-dc-fast-chargers/</guid>
-      <pubDate>Thu, 03 Oct 2024 15:16:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
