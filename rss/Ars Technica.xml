@@ -4,7 +4,42 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 04 Oct 2024 18:20:54 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 20:16:19 GMT</lastBuildDate>
+    <item>
+      <title>诈骗者用假冒的 iPhone 冒充苹果公司，骗取 250 万美元维修费</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</link>
+      <description><![CDATA[维修计划让苹果用真正的 iPhone 替换了 6K 部假冒 iPhone。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</guid>
+      <pubDate>Fri, 04 Oct 2024 19:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能模型越复杂，撒谎的可能性就越大</title>
+      <link>https://arstechnica.com/science/2024/10/the-more-sophisticated-ai-models-get-the-more-likely-they-are-to-lie/</link>
+      <description><![CDATA[人类反馈训练可能会激励人们提供任何答案，即使是错误的答案。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/the-more-sophisticated-ai-models-get-the-more-likely-they-are-to-lie/</guid>
+      <pubDate>Fri, 04 Oct 2024 19:39:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>卸载了 Copilot？微软将允许你重新编程键盘的 Copilot 键</title>
+      <link>https://arstechnica.com/gadgets/2024/10/new-windows-11-build-lets-you-use-copilot-key-to-launch-things-that-arent-copilot/</link>
+      <description><![CDATA[在最新的 Windows Insider Preview 版本中，副驾驶键变为“任意”键。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/new-windows-11-build-lets-you-use-copilot-key-to-launch-things-that-arent-copilot/</guid>
+      <pubDate>Fri, 04 Oct 2024 18:52:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 的新“Movie Gen”AI 系统可以通过一张照片制作深度伪造视频</title>
+      <link>https://arstechnica.com/ai/2024/10/metas-new-movie-gen-ai-system-can-deepfake-video-from-a-single-photo/</link>
+      <description><![CDATA[未来逼真的视频伪造将变得容易且数量众多，这似乎是不可避免的。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/metas-new-movie-gen-ai-system-can-deepfake-video-from-a-single-photo/</guid>
+      <pubDate>Fri, 04 Oct 2024 18:42:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的柯伊伯带天体隐藏在比我们想象的更远的地方</title>
+      <link>https://arstechnica.com/science/2024/10/new-kuiper-belt-objects-lurk-farther-away-than-we-ever-thought/</link>
+      <description><![CDATA[地球的柯伊伯带看起来比我们想象的要大得多。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/new-kuiper-belt-objects-lurk-farther-away-than-we-ever-thought/</guid>
+      <pubDate>Fri, 04 Oct 2024 18:30:37 GMT</pubDate>
+    </item>
     <item>
       <title>X 辩称 Twitter 不存在，未能避免澳大利亚儿童安全罚款</title>
       <link>https://arstechnica.com/tech-policy/2024/10/x-loses-appeal-of-400k-australia-child-safety-fine-now-faces-more-fines/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>Google 化身达斯维达：iA Writer 为何退出 Android 应用市场</title>
       <link>https://arstechnica.com/gadgets/2024/10/ia-pulls-its-writer-app-from-android-citing-red-tape-piracy-and-review-spam/</link>
-      <description><![CDATA[这是 Android 开发七年来的一次非常公开的告别辞。]]></description>
+      <description><![CDATA[这是 Android 开发七年来的一次非常公开的告别信。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/ia-pulls-its-writer-app-from-android-citing-red-tape-piracy-and-review-spam/</guid>
       <pubDate>Fri, 04 Oct 2024 16:03:50 GMT</pubDate>
     </item>
@@ -39,41 +74,6 @@
       <description><![CDATA[有些人只是想加剧冲突、制造混乱，甚至只是为了引起注意。]]></description>
       <guid>https://arstechnica.com/science/2024/10/why-trolls-extremists-and-others-spread-conspiracy-theories-they-dont-believe/</guid>
       <pubDate>Fri, 04 Oct 2024 13:53:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭报道：猎鹰 9 号第二级失灵；日本火箭接近尾声</title>
-      <link>https://arstechnica.com/space/2024/10/rocket-report-ula-supremely-confident-in-vulcan-impulse-space-rakes-it-in/</link>
-      <description><![CDATA[“我非常有信心周五我会过得很愉快。”]]></description>
-      <guid>https://arstechnica.com/space/2024/10/rocket-report-ula-supremely-confident-in-vulcan-impulse-space-rakes-it-in/</guid>
-      <pubDate>Fri, 04 Oct 2024 11:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>自 2021 年以来，数千个 Linux 系统被隐秘恶意软件感染</title>
-      <link>https://arstechnica.com/security/2024/10/persistent-stealthy-linux-malware-has-infected-thousands-since-2021/</link>
-      <description><![CDATA[由于能够保持安装状态且不被发现，因此 Perfctl 很难被抵御。]]></description>
-      <guid>https://arstechnica.com/security/2024/10/persistent-stealthy-linux-malware-has-infected-thousands-since-2021/</guid>
-      <pubDate>Thu, 03 Oct 2024 23:42:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>前县书记员蒂娜·彼得斯因违反投票制度被判处 9 年有期徒刑</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/county-clerk-who-tried-to-prove-trumps-claims-gets-9-years-for-voting-system-breach/</link>
-      <description><![CDATA[法官称蒂娜·彼得斯是个骗子，并说监狱是她“唯一的去处”。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/county-clerk-who-tried-to-prove-trumps-claims-gets-9-years-for-voting-system-breach/</guid>
-      <pubDate>Thu, 03 Oct 2024 22:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>奶制品迅速传播，加州确认人类感染 H5N1 病例</title>
-      <link>https://arstechnica.com/health/2024/10/as-bird-flu-rages-through-california-cows-possible-human-case-identified/</link>
-      <description><![CDATA[疾病预防控制中心确认了两例新的禽流感病例，使人类禽流感病例总数增至17例。]]></description>
-      <guid>https://arstechnica.com/health/2024/10/as-bird-flu-rages-through-california-cows-possible-human-case-identified/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:41:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automattic 要求网络托管商每年支付 3200 万美元使用 WordPress 商标的费用</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/automattic-demanded-web-host-pay-32m-annually-for-using-wordpress-trademark/</link>
-      <description><![CDATA[Automattic 创始人马特·穆伦韦格 (Matt Mullenweg) 称 WP Engine 是“WordPress 的毒瘤”。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/automattic-demanded-web-host-pay-32m-annually-for-using-wordpress-trademark/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:17:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
