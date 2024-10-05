@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 05 Oct 2024 04:41:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 12:28:11 GMT</lastBuildDate>
+    <item>
+      <title>新纳粹分子转向加密的 SimpleX 聊天应用程序，在 Telegram 上保释</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/neo-nazis-head-to-encrypted-simplex-chat-app-bail-on-telegram/</link>
+      <description><![CDATA[App 发誓执法部门无法追踪用户的身份。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/neo-nazis-head-to-encrypted-simplex-chat-app-bail-on-telegram/</guid>
+      <pubDate>Sat, 05 Oct 2024 11:00:41 GMT</pubDate>
+    </item>
     <item>
       <title>海伦摧毁了北卡罗来纳州的一家工厂，该工厂生产全国 60% 的静脉注射液</title>
       <link>https://arstechnica.com/health/2024/10/helene-ravaged-the-nc-plant-that-makes-60-of-the-countrys-iv-fluid-supply/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[人类反馈训练可能会激励人们提供任何答案，即使是错误的答案。]]></description>
       <guid>https://arstechnica.com/science/2024/10/the-more-sophisticated-ai-models-get-the-more-likely-they-are-to-lie/</guid>
       <pubDate>Fri, 04 Oct 2024 19:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>卸载了 Copilot？微软将允许你重新编程键盘的 Copilot 键</title>
-      <link>https://arstechnica.com/gadgets/2024/10/new-windows-11-build-lets-you-use-copilot-key-to-launch-things-that-arent-copilot/</link>
-      <description><![CDATA[在最新的 Windows Insider Preview 版本中，副驾驶键变为“任意”键。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/new-windows-11-build-lets-you-use-copilot-key-to-launch-things-that-arent-copilot/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:52:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
