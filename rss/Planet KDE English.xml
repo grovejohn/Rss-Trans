@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Oct 2024 16:44:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 04:41:03 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：6.2 即将发布</title>
+      <link>https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 05 Oct 2024 03:42:51 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-40 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/?utm_source=atom_feed</link>
@@ -83,16 +90,6 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
 任何反馈和贡献都将受到高度赞赏。]]></description>
       <guid>https://dragotin.codeberg.page/posts/kraft_122/kraft_122/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Oct 2024 19:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSOC：第 8 周至第 16 周</title>
-      <link>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-8-16/?utm_source=atom_feed</link>
-      <description><![CDATA[结束啦！
-GSoC 的漫长旅程（长达 16 周）即将结束。在这篇博客中，我将分享一些我已完成的工作以及一些我尚未完成的工作。让我们从主要工作开始吧。
-Snap KCM！它来了！
-我终于成功为 snaps 创建了一个 KCM。这是使用 C++、Qt (Qml)、Kirigami、Snapd-Glib Api 编写的。流程大致如下]]></description>
-      <guid>https://soumyadghosh.github.io/website/interns/gsoc-2024/gsoc-week-8-16/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Oct 2024 12:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
