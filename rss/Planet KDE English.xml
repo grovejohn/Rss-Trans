@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 06 Oct 2024 02:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 10:40:04 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 应用</title>
+      <link>https://blogs.kde.org/2024/10/06/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/10/06/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 06 Oct 2024 08:30:35 GMT</pubDate>
+    </item>
     <item>
       <title>SVG 光标：你需要了解的一切</title>
       <link>https://blog.vladzahorodnii.com/2024/10/06/svg-cursors-everything-that-you-need-to-know-about-them/?utm_source=atom_feed</link>
@@ -78,13 +85,6 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/10/02/use-ripgrep-all-/-ripgrep-to-improve-search-in-dolphin/?utm_source=atom_feed</guid>
       <pubDate>Wed, 02 Oct 2024 10:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>学院故事</title>
-      <link>https://blogs.kde.org/2024/10/01/tales-from-the-akademy/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/10/01/tales-from-the-akademy/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Oct 2024 23:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
