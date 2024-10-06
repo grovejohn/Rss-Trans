@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 05 Oct 2024 04:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 02:41:13 GMT</lastBuildDate>
+    <item>
+      <title>SVG 光标：你需要了解的一切</title>
+      <link>https://blog.vladzahorodnii.com/2024/10/06/svg-cursors-everything-that-you-need-to-know-about-them/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.vladzahorodnii.com/2024/10/06/svg-cursors-everything-that-you-need-to-know-about-them/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 06 Oct 2024 01:12:34 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：6.2 即将发布</title>
       <link>https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/?utm_source=atom_feed</link>
@@ -78,18 +85,6 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/10/01/tales-from-the-akademy/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Oct 2024 23:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>强制版本1.2.2</title>
-      <link>https://dragotin.codeberg.page/posts/kraft_122/kraft_122/?utm_source=atom_feed</link>
-      <description><![CDATA[Kraft (Github) 是一款桌面应用程序，可帮助小型公司快速、美观地创建报价和发票。它面向免费桌面，可在 Linux 上运行。
-这是新 Kraft 版本 1.2.2 的发布公告。这是一个小型服务版本，修复了一些错误和 CI 问题。
-在此版本发布后，Kraft 2.0 的重大更改分支将合并到主分支。
-这些变化将使 Kraft 准备好在私有文件云之间共享文档，并借此实现通过互联网进行分布式使用的用例，以及其他重要的功能更新。
-有关下一个重要版本（版本号 2.0）的详细信息，可在 Github Discussion 页面上阅读。
-任何反馈和贡献都将受到高度赞赏。]]></description>
-      <guid>https://dragotin.codeberg.page/posts/kraft_122/kraft_122/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Oct 2024 19:35:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
