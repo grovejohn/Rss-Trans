@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 05 Oct 2024 15:36:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 12:27:15 GMT</lastBuildDate>
+    <item>
+      <title>南极洲的绿化表明气候变化如何影响冰冻大陆</title>
+      <link>https://arstechnica.com/science/2024/10/greening-of-antartica-shows-how-climate-change-affects-the-frozen-continent/</link>
+      <description><![CDATA[南极半岛和附近岛屿的植物生长正在加速。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/greening-of-antartica-shows-how-climate-change-affects-the-frozen-continent/</guid>
+      <pubDate>Sun, 06 Oct 2024 11:00:45 GMT</pubDate>
+    </item>
     <item>
       <title>新纳粹分子转向加密的 SimpleX 聊天应用程序，在 Telegram 上保释</title>
       <link>https://arstechnica.com/tech-policy/2024/10/neo-nazis-head-to-encrypted-simplex-chat-app-bail-on-telegram/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[维修计划让苹果用真正的 iPhone 替换了 6K 部假冒 iPhone。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/fraudsters-faked-out-apple-with-bogus-iphones-in-2-5m-repair-scam/</guid>
       <pubDate>Fri, 04 Oct 2024 19:45:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能模型越复杂，撒谎的可能性就越大</title>
-      <link>https://arstechnica.com/science/2024/10/the-more-sophisticated-ai-models-get-the-more-likely-they-are-to-lie/</link>
-      <description><![CDATA[人类反馈训练可能会激励人们提供任何答案，即使是错误的答案。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/the-more-sophisticated-ai-models-get-the-more-likely-they-are-to-lie/</guid>
-      <pubDate>Fri, 04 Oct 2024 19:39:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
