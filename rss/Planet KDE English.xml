@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 06 Oct 2024 14:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 02:39:57 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 Google Summer of Code 导师峰会</title>
+      <link>https://tsdgeos.blogspot.com/2024/10/google-summer-of-code-mentor-summit-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[本周末，“KDE Alberts”[1] 参加了在加利福尼亚州桑尼维尔举行的 2024 年 Google Summer of Code 导师峰会。Google Summer of Code 导师峰会是一年一度的非正式会议，每个参与 2024 年 Google Summer of Code 的项目都会受邀参加。今年是该计划成立 20 周年！我来不及拍下整个蛋糕的照片了！我们参加了许多会议，从如何避免陷入“xz 问题”到收集捐款或塑造开源项目的治理。 我们遇到了很多知道 KDE 是什么的人，他们很高兴祝贺我们所做的工作，也遇到了一些不了解 KDE 的人，他们很高兴了解我们所做的事情。 我们还就KDE 今年指导的 GSOC 项目进行了简短的演讲，并主持了两场会议：一场围绕一些开源应用程序开发人员遇到的问题展开发布到 Google Play Store 以及与 Gnome 朋友一起讨论桌面 Linux 的另一场会议。 总而言之，这是一次非常富有成效的非会议。我们鼓励 KDE 导师借此机会参加明年的 Google Summer of Code 导师峰会，这是一次很棒的体验！   [1] 我和 Albert Vaca，人们对我们俩同名、为同一个社区做出贡献并且来自同一个城市感到相当有趣。]]></description>
+      <guid>https://tsdgeos.blogspot.com/2024/10/google-summer-of-code-mentor-summit-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 07 Oct 2024 00:39:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE 应用</title>
       <link>https://blogs.kde.org/2024/10/06/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -78,13 +85,6 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/10/03/kde-itinerary-august-september-2024.html?utm_source=atom_feed</guid>
       <pubDate>Thu, 03 Oct 2024 08:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 `ripgrep-all` / `ripgrep` 来改进 Dolphin 中的搜索</title>
-      <link>https://blogs.kde.org/2024/10/02/use-ripgrep-all-/-ripgrep-to-improve-search-in-dolphin/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/10/02/use-ripgrep-all-/-ripgrep-to-improve-search-in-dolphin/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 02 Oct 2024 10:30:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
