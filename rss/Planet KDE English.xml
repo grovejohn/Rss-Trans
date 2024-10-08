@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 08 Oct 2024 16:44:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 22:39:16 GMT</lastBuildDate>
     <item>
       <title>Linux 应用峰会——回顾！</title>
       <link>https://anditosan.wordpress.com/2024/10/08/linux-app-summit-a-review/?utm_source=atom_feed</link>
@@ -32,6 +32,13 @@
       <link>https://euroquis.nl//kde/2024/10/08/freebsd14.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://euroquis.nl//kde/2024/10/08/freebsd14.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 07 Oct 2024 22:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python 和 SysV 共享内存</title>
+      <link>https://euroquis.nl//blabla/2024/10/08/shm.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://euroquis.nl//blabla/2024/10/08/shm.html?utm_source=atom_feed</guid>
       <pubDate>Mon, 07 Oct 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
@@ -83,13 +90,6 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
 
 ]]></description>
       <guid>https://ev.kde.org/2024/10/04/2024-10-05-kde-e-v-kdenlive-jobs/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>QCoro 0.11.0 发布公告</title>
-      <link>https://dvratil.cz/2024/10/qcoro-0.11.0-announcement/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://dvratil.cz/2024/10/qcoro-0.11.0-announcement/?utm_source=atom_feed</guid>
       <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
