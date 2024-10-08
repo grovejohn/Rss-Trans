@@ -4,13 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 08 Oct 2024 10:41:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 14:41:08 GMT</lastBuildDate>
     <item>
       <title>等离子 6.2</title>
       <link>https://kde.org/announcements/plasma/6/6.2.0/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.2.0/?utm_source=atom_feed</guid>
       <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plasma6 和 FreeBSD 14</title>
+      <link>https://euroquis.nl//kde/2024/10/08/freebsd14.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://euroquis.nl//kde/2024/10/08/freebsd14.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 07 Oct 2024 22:00:00 GMT</pubDate>
     </item>
     <item>
       <title>2024 年 Google Summer of Code 导师峰会</title>
@@ -78,13 +85,6 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
 如何使用它首先，使用以下插件（忽略 PlantUML）]]></description>
       <guid>https://blog.bshah.in/2024/10/04/obsidian-md-todo-subscription/?utm_source=atom_feed</guid>
       <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KStars v3.7.3 发布</title>
-      <link>http://knro.blogspot.com/2024/10/kstars-v373-is-released.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>http://knro.blogspot.com/2024/10/kstars-v373-is-released.html?utm_source=atom_feed</guid>
-      <pubDate>Thu, 03 Oct 2024 19:07:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
