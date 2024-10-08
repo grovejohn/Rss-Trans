@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Oct 2024 02:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 10:41:09 GMT</lastBuildDate>
+    <item>
+      <title>等离子 6.2</title>
+      <link>https://kde.org/announcements/plasma/6/6.2.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.2.0/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 Google Summer of Code 导师峰会</title>
       <link>https://tsdgeos.blogspot.com/2024/10/google-summer-of-code-mentor-summit-2024.html?utm_source=atom_feed</link>
@@ -78,13 +85,6 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
       <description><![CDATA[]]></description>
       <guid>http://knro.blogspot.com/2024/10/kstars-v373-is-released.html?utm_source=atom_feed</guid>
       <pubDate>Thu, 03 Oct 2024 19:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 行程中的八月/九月</title>
-      <link>https://www.volkerkrause.eu/2024/10/03/kde-itinerary-august-september-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/10/03/kde-itinerary-august-september-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Thu, 03 Oct 2024 08:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
