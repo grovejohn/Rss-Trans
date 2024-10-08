@@ -4,7 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 08 Oct 2024 14:41:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 16:44:40 GMT</lastBuildDate>
+    <item>
+      <title>Linux 应用峰会——回顾！</title>
+      <link>https://anditosan.wordpress.com/2024/10/08/linux-app-summit-a-review/?utm_source=atom_feed</link>
+      <description><![CDATA[今年我有幸参加了 LAS。作为一名设计师，我带上相机，在活动期间自愿当摄影师。活动场地和蒙特雷大学都很漂亮。
+主厅是一座位于校园中央的玻璃建筑。我们从那里拍的照片非常漂亮！
+当天的活动从回顾 OnlyOffice 的功能和性能开始。然后，我们回顾了墨西哥在推进开源计划方面取得的进展。
+会议展示了无数主题。他们专注于开源应用程序如何在许多领域发挥作用。其他会议则侧重于设计指南、应用程序构建逻辑、出版物和在教育中推广 Linux 的努力。
+该组织所做的工作非常出色。会场的互联网接入很强大，允许现场团队在线直播会议。我们身处大学环境。一个团队负责管理会场和在线观众的广播和声音。
+这座城市很美，到处都是美味的食物。
+在会议期间，我贡献了一些图片，我将很快向组织者提供这些图片。
+很想再来！
+]]></description>
+      <guid>https://anditosan.wordpress.com/2024/10/08/linux-app-summit-a-review/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 08 Oct 2024 16:30:16 GMT</pubDate>
+    </item>
     <item>
       <title>等离子 6.2</title>
       <link>https://kde.org/announcements/plasma/6/6.2.0/?utm_source=atom_feed</link>
@@ -76,15 +91,6 @@ Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenl
       <description><![CDATA[]]></description>
       <guid>https://dvratil.cz/2024/10/qcoro-0.11.0-announcement/?utm_source=atom_feed</guid>
       <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>obsidian.md 待办事项列表 日历订阅</title>
-      <link>https://blog.bshah.in/2024/10/04/obsidian-md-todo-subscription/?utm_source=atom_feed</link>
-      <description><![CDATA[我是 obsidian.md 的超级粉丝，前几天我还在尝试“转换” Akseli。他提到的一个痛点是，它不能让他收到在 obsidian 中创建的待办事项列表的提醒。
-我一直在做一些“破解”来解决这个问题，我想写一篇关于这个的博客文章，这样其他人也可以使用它。
-如何使用它首先，使用以下插件（忽略 PlantUML）]]></description>
-      <guid>https://blog.bshah.in/2024/10/04/obsidian-md-todo-subscription/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
