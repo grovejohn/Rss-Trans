@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 09 Oct 2024 16:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 18:20:35 GMT</lastBuildDate>
     <item>
-      <title>通用汽车将放弃其电动汽车电池的 Ultium 品牌</title>
+      <title>Thunderbird Android 客户端是 K-9 Mail 的重生版，目前处于稳定测试阶段</title>
+      <link>https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/</link>
+      <description><![CDATA[Android 长期以来提供简洁、快捷电子邮件的避难所几乎就是 Thunderbird。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/</guid>
+      <pubDate>Wed, 09 Oct 2024 17:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克支付罚款并同意遵守当地法律后，X 在巴西恢复运营</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/x-reinstated-in-brazil-after-musk-pays-fines-agrees-to-follow-local-laws/</link>
+      <description><![CDATA[X 封锁了多个账户并支付了 500 万美元的罚款，才得以在巴西重新上线。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/x-reinstated-in-brazil-after-musk-pays-fines-agrees-to-follow-local-laws/</guid>
+      <pubDate>Wed, 09 Oct 2024 16:51:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着电动汽车销量飙升，通用汽车放弃了失败的 Ultium 电池品牌</title>
       <link>https://arstechnica.com/cars/2024/10/general-motors-is-ditching-ultium-branding-for-its-ev-batteries/</link>
       <description><![CDATA[通用汽车表示，现在是时候采用新的电池形式和化学成分了。]]></description>
       <guid>https://arstechnica.com/cars/2024/10/general-motors-is-ditching-ultium-branding-for-its-ev-batteries/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[研究人员呼吁制定专门的法律，要求平台删除色情报复内容。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/study-fastest-way-to-get-revenge-porn-off-x-is-a-dmca-takedown/</guid>
       <pubDate>Tue, 08 Oct 2024 20:54:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果将​​多年前推出的功能引入 iCloud 网页界面</title>
-      <link>https://arstechnica.com/gadgets/2024/10/apple-adds-dark-mode-and-other-features-to-icloud-com/</link>
-      <description><![CDATA[不过，它要想与 iOS 或 macOS 应用程序相媲美还有很长的路要走。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/apple-adds-dark-mode-and-other-features-to-icloud-com/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的医生可能会错误地读取你的血压</title>
-      <link>https://arstechnica.com/health/2024/10/your-doctors-office-could-be-reading-your-blood-pressure-all-wrong/</link>
-      <description><![CDATA[5400 万美国成年人可能根据错误的血压读数被误诊为高血压。]]></description>
-      <guid>https://arstechnica.com/health/2024/10/your-doctors-office-could-be-reading-your-blood-pressure-all-wrong/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:23:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
