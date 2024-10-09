@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 09 Oct 2024 18:20:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 19:36:43 GMT</lastBuildDate>
+    <item>
+      <title>章鱼吸盘启发水下抓取物体的新技术</title>
+      <link>https://arstechnica.com/science/2024/10/octopus-suckers-inspire-new-tech-for-gripping-objects-underwater/</link>
+      <description><![CDATA[新型粘合系统可能成为水下打捞、救援行动的有力工具。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/octopus-suckers-inspire-new-tech-for-gripping-objects-underwater/</guid>
+      <pubDate>Wed, 09 Oct 2024 19:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌在其量子处理器中发现低噪声“相变”</title>
+      <link>https://arstechnica.com/science/2024/10/google-identifies-low-noise-phase-transition-in-its-quantum-processor/</link>
+      <description><![CDATA[基准测试可以帮助我们了解量子计算机如何以低误差运行。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/google-identifies-low-noise-phase-transition-in-its-quantum-processor/</guid>
+      <pubDate>Wed, 09 Oct 2024 17:58:28 GMT</pubDate>
+    </item>
     <item>
       <title>Thunderbird Android 客户端是 K-9 Mail 的重生版，目前处于稳定测试阶段</title>
       <link>https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[创建一个空隙跳跃工具已经够难的了。GoldenJackal 在 5 年内完成了 2 次。]]></description>
       <guid>https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/</guid>
       <pubDate>Wed, 09 Oct 2024 12:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们终于要去太阳系最有趣但尚未探索的边界了</title>
-      <link>https://arstechnica.com/space/2024/10/were-finally-going-to-the-solar-systems-most-intriguing-but-unexplored-frontier/</link>
-      <description><![CDATA[如果您一直在等待一次真正的探索未知领域的任务，那就是它了。]]></description>
-      <guid>https://arstechnica.com/space/2024/10/were-finally-going-to-the-solar-systems-most-intriguing-but-unexplored-frontier/</guid>
-      <pubDate>Wed, 09 Oct 2024 11:30:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究称，除非使用 DMCA，否则 X 会忽略报复性色情内容删除请求</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/study-fastest-way-to-get-revenge-porn-off-x-is-a-dmca-takedown/</link>
-      <description><![CDATA[研究人员呼吁制定专门的法律，要求平台删除色情报复内容。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/study-fastest-way-to-get-revenge-porn-off-x-is-a-dmca-takedown/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:54:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
