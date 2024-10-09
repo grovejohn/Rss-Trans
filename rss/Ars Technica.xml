@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 09 Oct 2024 13:01:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 14:14:30 GMT</lastBuildDate>
+    <item>
+      <title>外国影响力活动如何操纵你的社交媒体信息</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/how-foreign-influence-campaigns-manipulate-your-social-media-feeds/</link>
+      <description><![CDATA[俄罗斯人、中国人、伊朗人和以色列人正在试图改变你的信仰。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/how-foreign-influence-campaigns-manipulate-your-social-media-feeds/</guid>
+      <pubDate>Wed, 09 Oct 2024 13:32:33 GMT</pubDate>
+    </item>
     <item>
       <title>同一组织制造的两款前所未见的工具可感染隔离设备</title>
       <link>https://arstechnica.com/security/2024/10/two-never-before-seen-tools-from-same-group-infect-air-gapped-devices/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国联邦航空管理局仍在审查第五次星际飞船试飞计划，但可能很快就会批准。]]></description>
       <guid>https://arstechnica.com/science/2024/10/spacexs-next-starship-launch-and-first-catch-could-happen-this-weekend/</guid>
       <pubDate>Tue, 08 Oct 2024 19:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Winamp 的源代码发布确实让开源代码程序员们疯狂</title>
-      <link>https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/</link>
-      <description><![CDATA[Winamp 希望吸引程序员，但不是以这种方式。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/</guid>
-      <pubDate>Tue, 08 Oct 2024 18:35:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
