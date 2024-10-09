@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 08 Oct 2024 22:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 14:39:54 GMT</lastBuildDate>
+    <item>
+      <title>解释 Wayland 中的光标大小问题</title>
+      <link>https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 09 Oct 2024 09:36:02 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 应用峰会——回顾！</title>
       <link>https://anditosan.wordpress.com/2024/10/08/linux-app-summit-a-review/?utm_source=atom_feed</link>
@@ -75,22 +82,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/?utm_source=atom_feed</guid>
       <pubDate>Fri, 04 Oct 2024 12:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE e.V. 和 Kdenlive 团队正在寻找承包商</title>
-      <link>https://ev.kde.org/2024/10/04/2024-10-05-kde-e-v-kdenlive-jobs/?utm_source=atom_feed</link>
-      <description><![CDATA[支持 KDE 社区的非营利组织 KDE e.V. 和 Kdenlive 团队正在寻找积极主动的承包商来实现 Kdenlive 视频编辑器中的某些功能。目前有两个职位空缺：
-
-
-OpenTimelineIO 集成：这将需要在 Kdenlive 中实现一个 C++ 模块，以允许使用此开放标准进行导入和导出，从而允许与其他应用程序交换项目文件。有关此承包机会的更多详细信息，请参阅招聘广告。
-
-
-Audiowaveform 集成：这将需要使用 audiowaveform 库重写用于在 Kdenlive 中生成和显示音频波形的代码。这应该会在时间轴中带来更快、更精确的波形。有关此合同机会的更多详细信息，请参阅招聘广告。
-我们期待您的申请。
-
-]]></description>
-      <guid>https://ev.kde.org/2024/10/04/2024-10-05-kde-e-v-kdenlive-jobs/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 04 Oct 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
