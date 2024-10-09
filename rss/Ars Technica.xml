@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 09 Oct 2024 21:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 22:39:13 GMT</lastBuildDate>
+    <item>
+      <title>快速分析发现气候变化对飓风海伦的影响</title>
+      <link>https://arstechnica.com/science/2024/10/helenes-carolina-rainfall-made-70-percent-more-likely-by-climate-change/</link>
+      <description><![CDATA[1.3°C的升温意味着每70年可能就会出现一次这样的降雨。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/helenes-carolina-rainfall-made-70-percent-more-likely-by-climate-change/</guid>
+      <pubDate>Wed, 09 Oct 2024 21:50:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国在 AI 视频合成领域领先吗？我们对 Minimax 进行了测试</title>
+      <link>https://arstechnica.com/ai/2024/10/is-china-pulling-ahead-in-ai-video-synthesis-we-put-minimax-to-the-test/</link>
+      <description><![CDATA[随着中国的人工智能视频生成器将模因推向奇怪的领域，是时候进行测试了。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/is-china-pulling-ahead-in-ai-video-synthesis-we-put-minimax-to-the-test/</guid>
+      <pubDate>Wed, 09 Oct 2024 21:33:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>制药商不能再生产减肥药仿制品了——他们很生气</title>
+      <link>https://arstechnica.com/health/2024/10/drug-makers-sue-fda-so-they-can-keep-making-knockoff-weight-loss-drugs/</link>
+      <description><![CDATA[配药药房可能会在缺货期间制造假药。但 FDA 表示，这种情况已经结束。]]></description>
+      <guid>https://arstechnica.com/health/2024/10/drug-makers-sue-fda-so-they-can-keep-making-knockoff-weight-loss-drugs/</guid>
+      <pubDate>Wed, 09 Oct 2024 21:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>“粘性”转向引发本田大规模召回，影响 170 万辆汽车</title>
+      <link>https://arstechnica.com/cars/2024/10/sticky-steering-sparks-huge-recall-for-honda-1-7m-cars-affected/</link>
+      <description><![CDATA[该问题影响了 2021 年以后生产的多款本田汽车。]]></description>
+      <guid>https://arstechnica.com/cars/2024/10/sticky-steering-sparks-huge-recall-for-honda-1-7m-cars-affected/</guid>
+      <pubDate>Wed, 09 Oct 2024 21:04:10 GMT</pubDate>
+    </item>
     <item>
       <title>美国司法部提议分拆谷歌并进行其他重大改革，以结束谷歌搜索垄断</title>
       <link>https://arstechnica.com/tech-policy/2024/10/googles-ai-deals-could-hurt-its-search-monopoly-appeal-expert-says/</link>
@@ -46,34 +74,6 @@
       <description><![CDATA[通用汽车表示，现在是时候采用新的电池形式和化学成分了。]]></description>
       <guid>https://arstechnica.com/cars/2024/10/general-motors-is-ditching-ultium-branding-for-its-ev-batteries/</guid>
       <pubDate>Wed, 09 Oct 2024 16:26:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国国家海洋和大气管理局将科学家的骨灰撒入五级飓风米尔顿的风眼</title>
-      <link>https://arstechnica.com/science/2024/10/scientists-ashes-dropped-into-hurricane-miltons-eye-as-final-tribute/</link>
-      <description><![CDATA[飓风猎人彼得·道奇最后一次飞入他毕生研究的风暴中。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/scientists-ashes-dropped-into-hurricane-miltons-eye-as-final-tribute/</guid>
-      <pubDate>Wed, 09 Oct 2024 15:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>蛋白质结构与设计软件荣获诺贝尔化学奖</title>
-      <link>https://arstechnica.com/science/2024/10/protein-structure-and-design-software-gets-the-chemistry-nobel/</link>
-      <description><![CDATA[一位学者和两位来自 DeepMind 的员工获得了诺贝尔奖。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/protein-structure-and-design-software-gets-the-chemistry-nobel/</guid>
-      <pubDate>Wed, 09 Oct 2024 14:55:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>破产的菲斯克表示无法将其电动汽车迁移到新车主的服务器</title>
-      <link>https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/</link>
-      <description><![CDATA[菲斯克直到周五晚上才向买家通报了这一问题。]]></description>
-      <guid>https://arstechnica.com/cars/2024/10/connected-car-failure-puts-kibosh-on-sale-of-3300-fisker-oceans/</guid>
-      <pubDate>Wed, 09 Oct 2024 14:34:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>外国影响力活动如何操纵你的社交媒体信息</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/how-foreign-influence-campaigns-manipulate-your-social-media-feeds/</link>
-      <description><![CDATA[俄罗斯人、中国人、伊朗人和以色列人正在试图改变你的信仰。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/how-foreign-influence-campaigns-manipulate-your-social-media-feeds/</guid>
-      <pubDate>Wed, 09 Oct 2024 13:32:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
