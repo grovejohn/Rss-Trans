@@ -4,7 +4,68 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Oct 2024 18:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 13:00:52 GMT</lastBuildDate>
+    <item>
+      <title>剪纸插件 1.5</title>
+      <link>https://carlschwan.eu/2024/10/10/kirigami-addons-1.5/?utm_source=atom_feed</link>
+      <description><![CDATA[Kirigami Addons 已发布。此版本主要包含代码清理和小幅改进。不过也有一些相关的更改。感谢所有贡献代码的人。
+新的 KAppTemplate 模板
+新的 KAppTemplate 可作为管理多媒体库的应用程序的良好起点。它基于
+Peruse、
+Arianna 和 WIP Calligra Launcher 的共享设计。
+希望它能帮助那些想要开发游戏启动器和其他类型的专业多媒体应用程序的人。
+
+
+
+
+
+计划推出更多模板（例如用于聊天应用程序），敬请期待！
+FormCard
+FormCard 是 Kirigami Addons 中在此版本中变化最多的部分。首先，FormCard 现在使用更一致的间距和填充，水平填充略有减少。单选按钮和复选框委托的描述也放在委托的主文本和复选框下方，以便使 FormCard 更加紧凑。
+之前
+
+之后
+
+
+
+
+此外，FormComboBoxDelegate 现在允许您显示内联状态
+类似于其他 FormCard 委托中可用的状态。
+最后，FormCard.AboutKDE 被重命名为 FormCard.AboutKDEPage。这提高了
+与其他页面组件的命名一致性。 AboutKDEPage 上的兼容性包装器（名为 AboutKDE）仍然可用，不会破坏任何现有应用程序。
+弃用
+Banner 组件现已弃用。Kirigami.InlineMessage 现在具有一个
+position 参数，可将其设置为 Header 或 Footer。此外，使用 KDE Frameworks 6.8，Kirigami.InlineMessage 将看起来与
+Banner 完全相同！因此，此组件不再存在于 Kirigami Addons 中。
+其他
+Kirigami Addons 支持使用足够新版本的 extra-cmake-modules 进行静态构建。
+Packager 部分
+您可以在
+download.kde.org
+找到该软件包，并且已使用我的GPG 密钥。]]></description>
+      <guid>https://carlschwan.eu/2024/10/10/kirigami-addons-1.5/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 10 Oct 2024 11:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE 齿轮 24.08.2</title>
+      <link>https://kde.org/announcements/gear/24.08.2/?utm_source=atom_feed</link>
+      <description><![CDATA[作为 KDE Gear 的一部分，超过 180 个独立程序以及数十个程序员库和功能插件同时发布。
+今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
+
+dolphin：比较地点 URL 时忽略尾部斜杠（提交）
+kate：修复未命名文档的选项卡/视图的会话恢复（提交，修复错误 #464703、错误 #462112 和错误 #462523)
+konsole：修复发送 256 范围之外的 OSC 4 (RGB) 颜色时崩溃的问题 (提交，修复错误 #494205)
+
+发行版和应用商店打包者应更新其应用程序包。
+
+24.08 发行说明，了解有关 tarball 和已知问题的信息。
+软件包下载 wiki 页面
+24.08.2 源信息页面
+24.08.2 完整更新日志
+]]></description>
+      <guid>https://kde.org/announcements/gear/24.08.2/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>解释 Wayland 中的光标大小问题</title>
       <link>https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/?utm_source=atom_feed</link>
@@ -68,20 +129,6 @@
       <description><![CDATA[]]></description>
       <guid>https://blog.vladzahorodnii.com/2024/10/06/svg-cursors-everything-that-you-need-to-know-about-them/?utm_source=atom_feed</guid>
       <pubDate>Sun, 06 Oct 2024 01:12:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：6.2 即将发布</title>
-      <link>https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/10/04/this-week-in-plasma-6-2-is-nigh/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 05 Oct 2024 03:42:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-40 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/10/04/web-review-week-2024-40/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 04 Oct 2024 12:15:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
