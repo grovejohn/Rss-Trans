@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Oct 2024 13:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 14:39:51 GMT</lastBuildDate>
+    <item>
+      <title>Qt for Python 发布：6.8 现已推出！</title>
+      <link>https://www.qt.io/blog/qt-for-python-release-6.8?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+我们非常高兴地宣布 Qt for Python 6.8 的最新版本。每次发布新版本，我们都会尝试通过 Qt 的新功能和新趋势理念带来精彩内容。为了您的方便，您可以查看 Qt for Python 6.8 中的新增功能和改进功能，以及整个更改日志。  
+]]></description>
+      <guid>https://www.qt.io/blog/qt-for-python-release-6.8?utm_source=atom_feed</guid>
+      <pubDate>Thu, 10 Oct 2024 12:38:00 GMT</pubDate>
+    </item>
     <item>
       <title>剪纸插件 1.5</title>
       <link>https://carlschwan.eu/2024/10/10/kirigami-addons-1.5/?utm_source=atom_feed</link>
@@ -122,13 +133,6 @@ konsole：修复发送 256 范围之外的 OSC 4 (RGB) 颜色时崩溃的问题 
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/10/06/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Sun, 06 Oct 2024 08:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>SVG 光标：你需要了解的一切</title>
-      <link>https://blog.vladzahorodnii.com/2024/10/06/svg-cursors-everything-that-you-need-to-know-about-them/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.vladzahorodnii.com/2024/10/06/svg-cursors-everything-that-you-need-to-know-about-them/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 06 Oct 2024 01:12:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
