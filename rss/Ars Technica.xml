@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 09 Oct 2024 23:37:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 02:36:48 GMT</lastBuildDate>
+    <item>
+      <title>Archive.org 是一个存储整个互联网历史记录的存储库，目前发生数据泄露</title>
+      <link>https://arstechnica.com/information-technology/2024/10/archive-org-a-repository-storing-the-entire-history-of-the-internet-has-been-hacked/</link>
+      <description><![CDATA[3100 万条包含电子邮件地址和密码哈希值的记录被曝光。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/10/archive-org-a-repository-storing-the-entire-history-of-the-internet-has-been-hacked/</guid>
+      <pubDate>Thu, 10 Oct 2024 00:12:56 GMT</pubDate>
+    </item>
     <item>
       <title>适配器和软件补丁的迷宫让专用 GPU 在 Raspberry Pi 上运行</title>
       <link>https://arstechnica.com/gadgets/2024/10/maze-of-adapters-software-patches-gets-a-dedicated-gpu-working-on-a-raspberry-pi/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[Android 长期以来提供简洁、快捷电子邮件的避难所几乎就是 Thunderbird。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/</guid>
       <pubDate>Wed, 09 Oct 2024 17:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克支付罚款并同意遵守当地法律后，X 在巴西恢复运营</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/x-reinstated-in-brazil-after-musk-pays-fines-agrees-to-follow-local-laws/</link>
-      <description><![CDATA[X 封锁了多个账户并支付了 500 万美元的罚款，才得以在巴西重新上线。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/x-reinstated-in-brazil-after-musk-pays-fines-agrees-to-follow-local-laws/</guid>
-      <pubDate>Wed, 09 Oct 2024 16:51:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
