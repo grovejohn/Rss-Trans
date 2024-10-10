@@ -4,7 +4,34 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Oct 2024 14:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 16:42:05 GMT</lastBuildDate>
+    <item>
+      <title>KDE neon Fox 基于 Ubuntu 24.04 LTS</title>
+      <link>https://blog.neon.kde.org/2024/10/10/kde-neon-rebased-on-ubuntu-24-04-lts/?utm_source=atom_feed</link>
+      <description><![CDATA[我们刚刚开启了 KDE neon 的升级，以在 Ubuntu 24.04 LTS 上重新定位。
+我们每两年进行一次升级，22.04 LTS 基础变得越来越不稳定，旧的 Pipewire 导致问题，并且像 Krita 这样的软件包根本无法编译。
+请按照 Noble 升级说明 进行操作，或者只需单击即将出现的通知即可。
+]]></description>
+      <guid>https://blog.neon.kde.org/2024/10/10/kde-neon-rebased-on-ubuntu-24-04-lts/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 10 Oct 2024 16:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kubuntu 24.10 Oracular Oriole 发布</title>
+      <link>https://kubuntu.org/news/kubuntu-24-10-oracular-oriole-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Kubuntu 团队很高兴地宣布 Kubuntu 24.10 已经发布，该版本采用全新精美的 KDE Plasma 6.1，默认简单，需要时功能强大。
+代号为“Oracular Oriole”的 Kubuntu 24.10 延续了我们为您提供友好计算的传统，将最新和最优秀的开源技术集成到高质量、易于使用的 Linux 发行版中。
+从底层来看，许多核心软件包都进行了更新，包括基于 6.11 的新内核、KDE ​​Frameworks 5.116 和 6.6.0、KDE Plasma 6.1 和许多更新的 KDE gear 应用程序。
+Kubuntu 24.10 搭配 Plasma 6.1
+Kubuntu 已针对其他应用程序进行了许多更新，既包括我们的默认安装，也包括可从 Ubuntu 存档中安装的应用程序。
+包含并更新了核心日常使用的应用程序，例如 Firefox 和 LibreOffice。
+如需查看其他应用程序更新和已知错误的列表，请务必阅读我们的发行说明。
+Wayland 作为默认 Plasma 会话。
+Plasma wayland 会话现在是 sddm（显示管理器登录屏幕）中的默认选项。如果需要，可以选择 X11 会话。上次使用的会话类型将被记住，因此您不必在每次登录时切换类型。
+下载 Kubuntu 24.10，或了解如何从 24.04 LTS 升级。
+注意：对于从 24.04 升级，正式发布与正式发布之间可能会有几个小时到几天的延迟公告和 Ubuntu 发布团队支持升级。]]></description>
+      <guid>https://kubuntu.org/news/kubuntu-24-10-oracular-oriole-released/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 10 Oct 2024 15:05:34 GMT</pubDate>
+    </item>
     <item>
       <title>Qt for Python 发布：6.8 现已推出！</title>
       <link>https://www.qt.io/blog/qt-for-python-release-6.8?utm_source=atom_feed</link>
@@ -119,20 +146,6 @@ konsole：修复发送 256 范围之外的 OSC 4 (RGB) 颜色时崩溃的问题 
       <description><![CDATA[]]></description>
       <guid>https://euroquis.nl//blabla/2024/10/08/shm.html?utm_source=atom_feed</guid>
       <pubDate>Mon, 07 Oct 2024 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 Google Summer of Code 导师峰会</title>
-      <link>https://tsdgeos.blogspot.com/2024/10/google-summer-of-code-mentor-summit-2024.html?utm_source=atom_feed</link>
-      <description><![CDATA[本周末，“KDE Alberts”[1] 参加了在加利福尼亚州桑尼维尔举行的 2024 年 Google Summer of Code 导师峰会。Google Summer of Code 导师峰会是一年一度的非正式会议，每个参与 2024 年 Google Summer of Code 的项目都会受邀参加。今年是该计划成立 20 周年！我来不及拍下整个蛋糕的照片了！我们参加了许多会议，从如何避免陷入“xz 问题”到收集捐款或塑造开源项目的治理。 我们遇到了很多知道 KDE 是什么的人，他们很高兴祝贺我们所做的工作，也遇到了一些不了解 KDE 的人，他们很高兴了解我们所做的事情。 我们还就KDE 今年指导的 GSOC 项目进行了简短的演讲，并主持了两场会议：一场围绕一些开源应用程序开发人员遇到的问题展开发布到 Google Play Store 以及与 Gnome 朋友一起讨论桌面 Linux 的另一场会议。 总而言之，这是一次非常富有成效的非会议。我们鼓励 KDE 导师借此机会参加明年的 Google Summer of Code 导师峰会，这是一次很棒的体验！   [1] 我和 Albert Vaca，人们对我们俩同名、为同一个社区做出贡献并且来自同一个城市感到相当有趣。]]></description>
-      <guid>https://tsdgeos.blogspot.com/2024/10/google-summer-of-code-mentor-summit-2024.html?utm_source=atom_feed</guid>
-      <pubDate>Mon, 07 Oct 2024 00:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用</title>
-      <link>https://blogs.kde.org/2024/10/06/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/10/06/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 06 Oct 2024 08:30:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
