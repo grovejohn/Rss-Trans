@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Oct 2024 04:40:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 08:40:13 GMT</lastBuildDate>
+    <item>
+      <title>KDE Android 新闻（2024 年 10 月）</title>
+      <link>https://www.volkerkrause.eu/2024/10/12/kde-android-news-oct-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/10/12/kde-android-news-oct-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 12 Oct 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：6.2 已经发布！</title>
       <link>https://pointieststick.com/2024/10/11/this-week-in-plasma-6-2-has-been-released/?utm_source=atom_feed</link>
@@ -131,59 +138,6 @@ konsole：修复发送 256 范围之外的 OSC 4 (RGB) 颜色时崩溃的问题 
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/?utm_source=atom_feed</guid>
       <pubDate>Wed, 09 Oct 2024 09:36:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>KPhotoAlbum 5.13.0 发布</title>
-      <link>https://www.kphotoalbum.org//2024/10/09/kphotoalbum-5.13.0-released/?utm_source=atom_feed</link>
-      <description><![CDATA[
-经过近一年后，我们非常高兴地宣布 Linux/KDE 照片管理软件 KPhotoAlbum 的新版本！
-
-
-有两个新功能/更改：
-
-
-“以前”/生日/年龄计算已重新设计。现在应该以更美观（更自然）的方式显示时间跨度。此外，现在可正确计算 2 月 29 日出生的人的年龄。
-‘--db’ 命令行参数现在会拒绝任何不是现有目录或现有目录中的 index.xml 文件的文件名（参见 Bug #418647）。
-
-
-除此之外，还修复了相当多的错误（有关更多信息，请参阅变更日志）：
-#477529，
-#477530，
-#477531,
-#477532,
-#478944,
-#479483,
-#481181,
-#483266、
-#444744 和
-#493849。
-最重要的是，一些错误一开始并没有被报告为错误 :-)
-
-
-对于分销商来说，最有趣的另一个变化是：用于签署版本的密钥已更新。用于签署 KDE 软件版本的所有 PGP 密钥都可以在 sysadmin/release-keyring 存储库中找到。我目前使用的用于签署 tarball 的密钥也可以在那里找到，参见 tleupold@key2.asc。
-
-
-… Qt 6 怎么样？！
-
-
-不要害怕！当然，KPhotoAlbum 将会有一个 Qt6/KF6 版本。我们目前有一个可以运行的 Qt6/KF6 分支，因此大部分移植工作已经完成。最后缺少的是 Marble 的 Qt6/KF6 版本，我们用它来显示照片中地理坐标的地图（最好使用 KGeoTag 存储在那里 ;-)。似乎年底会有这样的版本。我们将在不久之后为 Qt6/KF6 准备好 KPhotoAlbum。敬请期待！
-
-
-根据 git log，自上次发布以来，以下个人做出了提交：
-
-
-Boudhayan Bhattacharya
-Oliver Kellogg
-Tobias Leupold
-Randall Rude
-Johannes Zarl-Zierl
-
-
-祝您使用 KPhotoAlbum 5.13.0 愉快 :-)
-
-— Tobias]]></description>
-      <guid>https://www.kphotoalbum.org//2024/10/09/kphotoalbum-5.13.0-released/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
