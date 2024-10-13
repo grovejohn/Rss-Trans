@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 13 Oct 2024 14:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 16:41:37 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 应用</title>
+      <link>https://blogs.kde.org/2024/10/13/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/10/13/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 13 Oct 2024 14:30:35 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Android 新闻（2024 年 10 月）</title>
       <link>https://www.volkerkrause.eu/2024/10/12/kde-android-news-oct-2024.html?utm_source=atom_feed</link>
@@ -131,13 +138,6 @@ konsole：修复发送 256 范围之外的 OSC 4 (RGB) 颜色时崩溃的问题 
 ]]></description>
       <guid>https://kde.org/announcements/gear/24.08.2/?utm_source=atom_feed</guid>
       <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释 Wayland 中的光标大小问题</title>
-      <link>https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 09 Oct 2024 09:36:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
