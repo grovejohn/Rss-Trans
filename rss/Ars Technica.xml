@@ -4,7 +4,49 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 14 Oct 2024 16:44:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 19:12:23 GMT</lastBuildDate>
+    <item>
+      <title>人工智能聊天机器人可以读写隐形文本，从而创建理想的隐蔽通道</title>
+      <link>https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/</link>
+      <description><![CDATA[Unicode 标准中的一个怪癖隐藏着一个理想的隐写代码通道。]]></description>
+      <guid>https://arstechnica.com/security/2024/10/ai-chatbots-can-read-and-write-invisible-text-creating-an-ideal-covert-channel/</guid>
+      <pubDate>Mon, 14 Oct 2024 19:06:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们认为他们已经知道了做决定所需的一切</title>
+      <link>https://arstechnica.com/science/2024/10/people-think-they-already-know-everything-they-need-to-make-decisions/</link>
+      <description><![CDATA[当获得部分信息时，大多数人都确信他们知道了所有需要的信息。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/people-think-they-already-know-everything-they-need-to-make-decisions/</guid>
+      <pubDate>Mon, 14 Oct 2024 18:56:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>智能园艺公司的倒闭提醒我们物联网的变化无常</title>
+      <link>https://arstechnica.com/gadgets/2024/10/smart-gardening-firms-shutdown-a-reminder-of-internet-of-things-fickle-nature/</link>
+      <description><![CDATA[公司因“业务上遇到诸多挑战”而关闭。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/smart-gardening-firms-shutdown-a-reminder-of-internet-of-things-fickle-nature/</guid>
+      <pubDate>Mon, 14 Oct 2024 18:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Silo S2 预告片：地下酝酿叛乱</title>
+      <link>https://arstechnica.com/culture/2024/10/rebellion-brews-underground-in-silo-s2-trailer/</link>
+      <description><![CDATA[“如果您所知道的一切事实都只是一个弥天大谎怎么办？”]]></description>
+      <guid>https://arstechnica.com/culture/2024/10/rebellion-brews-underground-in-silo-s2-trailer/</guid>
+      <pubDate>Mon, 14 Oct 2024 18:21:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>一年后，许多 PC 可能会因 Windows 10 更新而掉落</title>
+      <link>https://arstechnica.com/gadgets/2024/10/lots-of-pcs-are-poised-to-fall-off-the-windows-10-update-cliff-one-year-from-today/</link>
+      <description><![CDATA[Windows 10 是迄今为止使用最广泛的 Windows 版本，并且支持即将结束。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/lots-of-pcs-are-poised-to-fall-off-the-windows-10-update-cliff-one-year-from-today/</guid>
+      <pubDate>Mon, 14 Oct 2024 17:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>马斯克的 X 在听取特朗普竞选团队的意见后屏蔽了 JD Vance 档案的链接</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/musks-x-blocked-links-to-jd-vance-dossier-after-hearing-from-trump-campaign/</link>
+      <description><![CDATA[报道称：特朗普竞选团队“与X有联系，以阻止链接流通”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/musks-x-blocked-links-to-jd-vance-dossier-after-hearing-from-trump-campaign/</guid>
+      <pubDate>Mon, 14 Oct 2024 16:41:00 GMT</pubDate>
+    </item>
     <item>
       <title>本月夜空中将出现两颗彗星</title>
       <link>https://arstechnica.com/science/2024/10/two-comets-will-be-visible-in-the-night-skies-this-month/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>SpaceX 在半空中接住返回火箭，将奇思妙想变成现实</title>
       <link>https://arstechnica.com/space/2024/10/spacex-catches-returning-rocket-in-mid-air-turning-a-fanciful-idea-into-reality/</link>
-      <description><![CDATA[“星际飞船就是用来飞行的。它今天确实飞得很好。所以让我们为下一次飞行做好准备。”]]></description>
+      <description><![CDATA[“星际飞船就是用来飞行的。它今天确实飞得很好。所以让我们为下一次飞行做好准备吧。”]]></description>
       <guid>https://arstechnica.com/space/2024/10/spacex-catches-returning-rocket-in-mid-air-turning-a-fanciful-idea-into-reality/</guid>
       <pubDate>Mon, 14 Oct 2024 00:14:17 GMT</pubDate>
     </item>
@@ -32,48 +74,6 @@
       <description><![CDATA[“我们会看到助推器……被武器捕获，或者我们会摧毁塔楼。”]]></description>
       <guid>https://arstechnica.com/space/2024/10/starship-is-about-to-launch-on-its-fifth-flight-and-this-time-theres-a-catch/</guid>
       <pubDate>Sun, 13 Oct 2024 07:49:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么糖尿病药物未能实现抗癌希望</title>
-      <link>https://arstechnica.com/health/2024/10/why-a-diabetes-drug-fell-short-of-anticancer-hopes/</link>
-      <description><![CDATA[研究表明它可以治疗癌症，但临床试验却失败了。]]></description>
-      <guid>https://arstechnica.com/health/2024/10/why-a-diabetes-drug-fell-short-of-anticancer-hopes/</guid>
-      <pubDate>Sat, 12 Oct 2024 11:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>超过 86% 的受访医疗保健提供者缺乏静脉输液</title>
-      <link>https://arstechnica.com/health/2024/10/over-86-of-surveyed-health-care-providers-are-short-on-iv-fluids/</link>
-      <description><![CDATA[医疗服务提供商开始推迟选择性手术和其他程序。]]></description>
-      <guid>https://arstechnica.com/health/2024/10/over-86-of-surveyed-health-care-providers-are-short-on-iv-fluids/</guid>
-      <pubDate>Fri, 11 Oct 2024 21:39:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>气候变化使米尔顿登陆强度从 2 级升至 3 级</title>
-      <link>https://arstechnica.com/science/2024/10/climate-change-boosted-miltons-landfall-strength-from-category-2-to-3/</link>
-      <description><![CDATA[快速归因分析显示，该飓风的破坏力要小得多。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/climate-change-boosted-miltons-landfall-strength-from-category-2-to-3/</guid>
-      <pubDate>Fri, 11 Oct 2024 20:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>伊隆·马斯克让 X 陷入困境，前 Twitter 高管要求赔偿 2 亿美元</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/ex-twitter-execs-push-for-200m-severance-as-elon-musk-runs-x-into-ground/</link>
-      <description><![CDATA[随着 X 值创下新低，马斯克与前 Twitter 高管之间的争斗愈演愈烈。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/ex-twitter-execs-push-for-200m-severance-as-elon-musk-runs-x-into-ground/</guid>
-      <pubDate>Fri, 11 Oct 2024 19:54:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>第五巡回法院裁定 ISP 应终止被指控盗版的互联网用户的服务</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/record-labels-win-again-court-says-isp-must-terminate-users-accused-of-piracy/</link>
-      <description><![CDATA[由于第五巡回上诉法院站在环球、华纳和索尼一边，ISP Grande 上诉失败。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/record-labels-win-again-court-says-isp-must-terminate-users-accused-of-piracy/</guid>
-      <pubDate>Fri, 11 Oct 2024 19:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Asahi Linux 的定制 GPU 驱动程序正在 Apple Silicon Macs 上运行 Windows 游戏</title>
-      <link>https://arstechnica.com/apple/2024/10/asahi-linuxs-bespoke-gpu-driver-is-running-windows-games-on-apple-silicon-macs/</link>
-      <description><![CDATA[Asahi 的 Vulkan GPU 驱动程序和各种翻译层的工作正在取得成效。]]></description>
-      <guid>https://arstechnica.com/apple/2024/10/asahi-linuxs-bespoke-gpu-driver-is-running-windows-games-on-apple-silicon-macs/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:42:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
