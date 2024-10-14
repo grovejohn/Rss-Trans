@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 14 Oct 2024 21:14:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 23:14:44 GMT</lastBuildDate>
+    <item>
+      <title>Adobe 推出经过授权内容训练的 AI 视频生成器</title>
+      <link>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</link>
+      <description><![CDATA[新的文本转视频工具专注于视频专业人士，经内容所有者许可制作。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:48:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果研究揭露法学硕士“推理”能力存在严重缺陷</title>
+      <link>https://arstechnica.com/ai/2024/10/llms-cant-perform-genuine-logical-reasoning-apple-researchers-suggest/</link>
+      <description><![CDATA[不相关的干扰性论点会导致逻辑推理“灾难性”失败。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/llms-cant-perform-genuine-logical-reasoning-apple-researchers-suggest/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:21:04 GMT</pubDate>
+    </item>
     <item>
       <title>专家证人利用 Copilot 捏造虚假损害赔偿，激怒法官</title>
       <link>https://arstechnica.com/tech-policy/2024/10/judge-confronts-expert-witness-who-used-copilot-to-fake-expertise/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[“如果您所知道的一切事实都只是一个弥天大谎怎么办？”]]></description>
       <guid>https://arstechnica.com/culture/2024/10/rebellion-brews-underground-in-silo-s2-trailer/</guid>
       <pubDate>Mon, 14 Oct 2024 18:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>一年后，许多 PC 可能会因 Windows 10 更新而掉落</title>
-      <link>https://arstechnica.com/gadgets/2024/10/lots-of-pcs-are-poised-to-fall-off-the-windows-10-update-cliff-one-year-from-today/</link>
-      <description><![CDATA[Windows 10 是迄今为止使用最广泛的 Windows 版本，并且支持即将结束。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/lots-of-pcs-are-poised-to-fall-off-the-windows-10-update-cliff-one-year-from-today/</guid>
-      <pubDate>Mon, 14 Oct 2024 17:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>马斯克的 X 在听取特朗普竞选团队的意见后屏蔽了 JD Vance 档案的链接</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/musks-x-blocked-links-to-jd-vance-dossier-after-hearing-from-trump-campaign/</link>
-      <description><![CDATA[报道称：特朗普竞选团队“与X有联系，以阻止链接流通”。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/musks-x-blocked-links-to-jd-vance-dossier-after-hearing-from-trump-campaign/</guid>
-      <pubDate>Mon, 14 Oct 2024 16:41:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
