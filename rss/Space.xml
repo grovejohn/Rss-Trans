@@ -4,7 +4,14 @@
     <title>空间</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Oct 2024 03:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 03:45:29 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局的木卫二快船木星任务：实时更新</title>
+      <link>https://www.space.com/news/live/europa-clipper-mission-updates</link>
+      <description><![CDATA[请点击此处查看美国国家航空航天局 (NASA) 的木卫二快船发射升空前往木星冰卫星的最新更新。]]></description>
+      <guid>https://www.space.com/news/live/europa-clipper-mission-updates</guid>
+      <pubDate>Mon, 14 Oct 2024 03:32:33 GMT</pubDate>
+    </item>
     <item>
       <title>SpaceX 将于 10 月 14 日什么时候将 NASA 的 Europa Clipper 发射到冰冷的木星卫星（以及如何在线观看）？</title>
       <link>https://www.space.com/nasa-spacex-europa-clipper-launch-what-time-livestream</link>
@@ -41,7 +48,7 @@
       <pubDate>Sat, 12 Oct 2024 19:40:03 GMT</pubDate>
     </item>
     <item>
-      <title>由于天气原因延误，SpaceX 的 Crew-8 宇航员将很快离开国际空间站返回家园</title>
+      <title>由于天气延误，SpaceX 的 Crew-8 宇航员将很快离开国际空间站返回家园</title>
       <link>https://www.space.com/spacex-crew-8-astronauts-return-earth-webcast</link>
       <description><![CDATA[SpaceX 为 NASA 执行的 Crew-8 宇航员任务原定于周日（10 月 13 日）凌晨离开国际空间站，但 NASA 和 SpaceX 因天气原因取消了此次尝试。]]></description>
       <guid>https://www.space.com/spacex-crew-8-astronauts-return-earth-webcast</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国联邦航空管理局周五（10 月 11 日）宣布，已批准 SpaceX 恢复其主力猎鹰 9 号火箭的发射。]]></description>
       <guid>https://www.space.com/faa-clears-spacex-resume-falcon-9-rocket-launches-october-2024</guid>
       <pubDate>Sat, 12 Oct 2024 00:48:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 星际飞船发射：任务更新</title>
-      <link>https://www.space.com/news/live/spacex-starship-missions-updates</link>
-      <description><![CDATA[阅读有关 SpaceX 的 Starship 巨型火箭试飞、发射、照片等的最新消息。]]></description>
-      <guid>https://www.space.com/news/live/spacex-starship-missions-updates</guid>
-      <pubDate>Fri, 11 Oct 2024 23:29:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
