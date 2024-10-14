@@ -4,7 +4,30 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Oct 2024 10:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 22:39:34 GMT</lastBuildDate>
+    <item>
+      <title>Kubuntu 24.10 发布，KDE Snaps 为 24.08.2，我可以活着告诉你这个消息！</title>
+      <link>https://www.scarlettgatelymoore.dev/kubuntu-24-10-released-kde-snaps-at-24-08-2-and-i-lived-to-tell-you-about-it/?utm_source=atom_feed</link>
+      <description><![CDATA[KDE 28 岁生日快乐！
+很抱歉，我的博客更新一直没有更新。让我给你讲个故事…
+正如你们中的一些人所知，3 个月前我遭遇了一场无过错车祸。谢天谢地，唯一的伤害就是手臂骨折。急诊室用吊带把我送回家，告诉我骨折很彻底，很快就会痊愈。经过一周的剧痛，我去看了医生，医生拿着我的X光片告诉我，骨折远没有完全愈合，需要手术。所以，经过一周的骨折，我的神经受到摩擦，并产生了前所未有的疼痛，我终于接受了手术！他们用螺丝将骨头固定在原位，以便它能够正常愈合。神经痛消失了，所以我以为我已经好转了。一段时间过去了，肿胀仍然没有消退，医生们并不像我那么担心，所以我继续肿胀，直到肿胀变得非常严重，并出现了发热性疱疹。在没能到达医生办公室后，我丈夫借了邻居的车，赶紧把我送到了急诊室。幸好我感染了。所以在医院住了 5 天后，他们给我们开了很多抗生素，并训练我丈夫包扎伤口。我们把一切都做对了，把伤口收拾得干干净净，遵医嘱护理伤口，服用抗生素，但当抗生素用完时，伤口仍然没有缓解或愈合的迹象。去看医生，他们又给我开了一个月的抗生素。最后一次服药两天后，我的手臂又发炎了，疼痛更加剧烈。我打电话给医生办公室——他们说让我在预约日（还有 4 天）过来。我问他们：“你不担心这种炎症吗？”他们回答说：“不。”好吧，也许我反应过度了，这一切都是我的错觉，我可以再坚持 4 天。第二天早上，我丈夫发现伤口有热疱疹，伤口部位明显不对劲，所以我们又去了急诊室。好吧——谢天谢地，我们去了急诊室。我当时得了败血症，差点儿没命……在与医生商量治疗方案后，医生接受了我们的请求，取下了钢板，而不是拧紧螺丝，让我每天开车 100 英里去医院注射抗生素（嗯，我没有车！？）所以，在又住院 4 天后，我回到了这个世界，活得好好的。我很高兴地告诉大家，肿胀几乎消失了，疼痛也微乎其微，我终于康复了。我仍然在吊带上，必须非常小心，我的手臂还没有完全愈合。因此，我很遗憾地说，我不能旅行了，不能参加 Ubuntu 峰会 
+我仍然需要帮助修理那辆车，如果不是我们的邻居，这个故事的结局会大不相同。
+https://gofund.me/00942f47
+尽管我的右臂经历了几个月的悲惨，但我的左臂一直很忙。谢天谢地，我是左撇子！继续我的工作进度报告。
+Kubuntu：
+
+Kubuntu 24.10 Oracular Oriole 发布
+使用 Plasma 6！非常感谢 Debian KDE/QT 团队和 Rik Mills，没有你们，我不可能做到！
+KDE Snaps：
+所有发布服务 snap 都已完成！除了几个有问题的还在进行中。我已经发布了 24.08.2，您可以在这里找到：
+https://snapcraft.io/publisher/kde
+我完成了 core24 的 qt6 和 KDE 框架 6 内容包
+Snapcraft：
+我有一个关于 kde-neon-6 扩展 core24 支持的 PR。
+现在就这些。感谢您的光临！]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kubuntu-24-10-released-kde-snaps-at-24-08-2-and-i-lived-to-tell-you-about-it/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 14 Oct 2024 20:58:20 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE 应用</title>
       <link>https://blogs.kde.org/2024/10/13/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -94,7 +117,7 @@ Arianna 和 WIP Calligra Launcher 的共享设计。
 
 计划推出更多模板（例如用于聊天应用程序），敬请期待！
 FormCard
-FormCard 是 Kirigami Addons 中在此版本中变化最多的部分。首先，FormCard 现在使用更一致的间距和填充，水平填充略有减少。单选按钮和复选框委托的描述也放在委托的主文本和复选框下方，以便使 FormCard 更加紧凑。
+FormCard 是 Kirigami Addons 中在此版本中变化最多的部分。首先，FormCard 现在使用更一致的间距和填充，而水平填充略有减少。单选按钮和复选框委托的描述也放在委托的主文本和复选框下方，以便使 FormCard 更加紧凑。
 之前
 
 之后
@@ -112,32 +135,12 @@ position 参数，可将其设置为 Header 或 Footer。此外，使用 KDE Fra
 Banner 完全相同！因此，此组件不再存在于 Kirigami Addons 中。
 其他
 Kirigami Addons 支持使用足够新版本的 extra-cmake-modules 进行静态构建。
-Packager 部分
+打包程序部分
 您可以在
 download.kde.org
 找到该软件包，并且已使用我的GPG 密钥。]]></description>
       <guid>https://carlschwan.eu/2024/10/10/kirigami-addons-1.5/?utm_source=atom_feed</guid>
       <pubDate>Thu, 10 Oct 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 齿轮 24.08.2</title>
-      <link>https://kde.org/announcements/gear/24.08.2/?utm_source=atom_feed</link>
-      <description><![CDATA[作为 KDE Gear 的一部分，超过 180 个独立程序以及数十个程序员库和功能插件同时发布。
-今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
-
-dolphin：比较地点 URL 时忽略尾部斜杠（提交）
-kate：修复未命名文档的选项卡/视图的会话恢复（提交，修复错误 #464703、错误 #462112 和错误 #462523)
-konsole：修复发送 256 范围之外的 OSC 4 (RGB) 颜色时崩溃的问题 (提交，修复错误 #494205)
-
-发行版和应用商店打包者应更新其应用程序包。
-
-24.08 发行说明，了解有关 tarball 和已知问题的信息。
-软件包下载 wiki 页面
-24.08.2 源信息页面
-24.08.2 完整更新日志
-]]></description>
-      <guid>https://kde.org/announcements/gear/24.08.2/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
