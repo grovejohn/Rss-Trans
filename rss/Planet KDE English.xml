@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 13 Oct 2024 16:41:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 10:42:34 GMT</lastBuildDate>
     <item>
       <title>本周 KDE 应用</title>
       <link>https://blogs.kde.org/2024/10/13/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -94,7 +94,7 @@ Arianna 和 WIP Calligra Launcher 的共享设计。
 
 计划推出更多模板（例如用于聊天应用程序），敬请期待！
 FormCard
-FormCard 是 Kirigami Addons 中在此版本中变化最多的部分。首先，FormCard 现在使用更一致的间距和填充，而水平填充略有减少。单选按钮和复选框委托的描述也放在委托的主文本和复选框下方，以便使 FormCard 更加紧凑。
+FormCard 是 Kirigami Addons 中在此版本中变化最多的部分。首先，FormCard 现在使用更一致的间距和填充，水平填充略有减少。单选按钮和复选框委托的描述也放在委托的主文本和复选框下方，以便使 FormCard 更加紧凑。
 之前
 
 之后
@@ -112,7 +112,7 @@ position 参数，可将其设置为 Header 或 Footer。此外，使用 KDE Fra
 Banner 完全相同！因此，此组件不再存在于 Kirigami Addons 中。
 其他
 Kirigami Addons 支持使用足够新版本的 extra-cmake-modules 进行静态构建。
-打包程序部分
+Packager 部分
 您可以在
 download.kde.org
 找到该软件包，并且已使用我的GPG 密钥。]]></description>
