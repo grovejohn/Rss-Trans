@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Mon, 14 Oct 2024 13:42:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 14:15:22 GMT</lastBuildDate>
+    <item>
+      <title>密码之战距离结束又近了一步</title>
+      <link>https://www.wired.com/story/passkey-portability-fido-alliance/</link>
+      <description><![CDATA[“Passkeys” 是一种用来替代密码的安全认证机制，得益于 FIDO 联盟周一宣布的新举措，该机制正变得更加便携，也更易于组织机构实施。]]></description>
+      <guid>https://www.wired.com/story/passkey-portability-fido-alliance/</guid>
+      <pubDate>Mon, 14 Oct 2024 14:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>我们测试和评测过的 7 款最佳驱虫喷雾</title>
       <link>https://www.wired.com/story/best-bug-sprays/</link>
@@ -34,13 +41,6 @@
       <pubDate>Mon, 14 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年赫尔辛基最热门的初创企业</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/</link>
-      <description><![CDATA[芬兰首都最令人兴奋的初创企业正在建设核能供热网络、更好的天气预报工具以及让观众可以对比赛结果下注的电子竞技流媒体平台。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
       <title>2024 年都柏林最热门的初创企业</title>
       <link>https://www.wired.com/story/the-hottest-startups-in-dublin-in-2024/</link>
       <description><![CDATA[爱尔兰首都对大型科技公司的拥抱也渗透到了其初创企业中，这些初创企业正在为 IT 团队构建更好的工具、AI 内容审核工具和用于牛群的 RNA 筛选。]]></description>
@@ -55,17 +55,10 @@
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年苏黎世最热门的初创企业</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-zurich-in-2024/</link>
-      <description><![CDATA[瑞士首都可能与金融科技最为相关，但其初创企业也专注于医疗机器人、人工智能语言学习和未来电池。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-zurich-in-2024/</guid>
-      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年斯德哥尔摩最热门的初创公司</title>
-      <link>https://www.wired.com/story/the-hottest-startups-in-stockholm-in-2024/</link>
-      <description><![CDATA[瑞典首都诞生了 Skype、Spotify、Klarna 和 Minecraft——其未来之星正在为企业打造金融科技、为律师打造 GenAI 以及全身健康扫描。]]></description>
-      <guid>https://www.wired.com/story/the-hottest-startups-in-stockholm-in-2024/</guid>
+      <title>2024 年赫尔辛基最热门的初创企业</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/</link>
+      <description><![CDATA[芬兰首都最令人兴奋的初创企业正在建设核能供热网络、更好的天气预报工具以及让观众可以对比赛结果下注的电子竞技流媒体平台。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-helsinki-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     <item>
@@ -73,6 +66,13 @@
       <link>https://www.wired.com/story/europe-is-the-new-palo-alto/</link>
       <description><![CDATA[科技投资者索尔·克莱恩认为，距离伦敦五小时火车车程内的一组欧洲城市可能成为与硅谷竞争的独角兽工厂。]]></description>
       <guid>https://www.wired.com/story/europe-is-the-new-palo-alto/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年伦敦最热门的初创公司</title>
+      <link>https://www.wired.com/story/the-hottest-startups-in-london-in-2024/</link>
+      <description><![CDATA[英国首都最令人兴奋的初创企业展示了其在生物技术和人工智能方面的优势。]]></description>
+      <guid>https://www.wired.com/story/the-hottest-startups-in-london-in-2024/</guid>
       <pubDate>Mon, 14 Oct 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
