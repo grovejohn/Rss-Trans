@@ -4,7 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Oct 2024 22:39:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 14:40:07 GMT</lastBuildDate>
+    <item>
+      <title>KDE Plasma 6.2.1，十月错误修复版本</title>
+      <link>https://kde.org/announcements/plasma/6/6.2.1/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 10 月 15 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.2.1。
+Plasma 6.2 于 2024 年 10 月发布，其中包含许多功能改进和新模块，以完善桌面体验。
+此版本添加了 KDE 贡献者一周的新翻译和修复。错误修复通常很小但很重要，包括：
+
+Discover Snap：返回空通道时不会崩溃。 提交。 修复错误 #492657
+Kcms/wallpaper：修复壁纸配置包含无效值时崩溃的问题。提交。
+空格键：修复短信发送问题。 提交。
+
+查看完整更新日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.2.1/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 15 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kubuntu 24.10 发布，KDE Snaps 为 24.08.2，我可以活着告诉你这个消息！</title>
       <link>https://www.scarlettgatelymoore.dev/kubuntu-24-10-released-kde-snaps-at-24-08-2-and-i-lived-to-tell-you-about-it/?utm_source=atom_feed</link>
@@ -77,7 +92,7 @@ Snapcraft：
       <title>Kubuntu 24.10 Oracular Oriole 发布</title>
       <link>https://kubuntu.org/news/kubuntu-24-10-oracular-oriole-released/?utm_source=atom_feed</link>
       <description><![CDATA[Kubuntu 团队很高兴地宣布 Kubuntu 24.10 已经发布，该版本采用全新精美的 KDE Plasma 6.1，默认简单，需要时功能强大。
-代号为“Oracular Oriole”的 Kubuntu 24.10 延续了我们为您提供友好计算的传统，将最新和最优秀的开源技术集成到高质量、易于使用的 Linux 发行版中。
+代号为“Oracular Oriole”的 Kubuntu 24.10 延续了我们为您提供友好计算的传统，将最新、最出色的开源技术集成到高质量、易于使用的 Linux 发行版中。
 从底层来看，许多核心软件包都进行了更新，包括基于 6.11 的新内核、KDE ​​Frameworks 5.116 和 6.6.0、KDE Plasma 6.1 和许多更新的 KDE gear 应用程序。
 Kubuntu 24.10 搭配 Plasma 6.1
 Kubuntu 已针对其他应用程序进行了许多更新，既包括我们的默认安装，也包括可从 Ubuntu 存档中安装的应用程序。
@@ -100,47 +115,6 @@ Plasma wayland 会话现在是 sddm（显示管理器登录屏幕）中的默认
 ]]></description>
       <guid>https://www.qt.io/blog/qt-for-python-release-6.8?utm_source=atom_feed</guid>
       <pubDate>Thu, 10 Oct 2024 12:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪纸插件 1.5</title>
-      <link>https://carlschwan.eu/2024/10/10/kirigami-addons-1.5/?utm_source=atom_feed</link>
-      <description><![CDATA[Kirigami Addons 已发布。此版本主要包含代码清理和小幅改进。不过也有一些相关的更改。感谢所有贡献代码的人。
-新的 KAppTemplate 模板
-新的 KAppTemplate 可作为管理多媒体库的应用程序的良好起点。它基于
-Peruse、
-Arianna 和 WIP Calligra Launcher 的共享设计。
-希望它能帮助那些想要开发游戏启动器和其他类型的专业多媒体应用程序的人。
-
-
-
-
-
-计划推出更多模板（例如用于聊天应用程序），敬请期待！
-FormCard
-FormCard 是 Kirigami Addons 中在此版本中变化最多的部分。首先，FormCard 现在使用更一致的间距和填充，而水平填充略有减少。单选按钮和复选框委托的描述也放在委托的主文本和复选框下方，以便使 FormCard 更加紧凑。
-之前
-
-之后
-
-
-
-
-此外，FormComboBoxDelegate 现在允许您显示内联状态
-类似于其他 FormCard 委托中可用的状态。
-最后，FormCard.AboutKDE 被重命名为 FormCard.AboutKDEPage。这提高了
-与其他页面组件的命名一致性。 AboutKDEPage 上的兼容性包装器（名为 AboutKDE）仍然可用，不会破坏任何现有应用程序。
-弃用
-Banner 组件现已弃用。Kirigami.InlineMessage 现在具有一个
-position 参数，可将其设置为 Header 或 Footer。此外，使用 KDE Frameworks 6.8，Kirigami.InlineMessage 将看起来与
-Banner 完全相同！因此，此组件不再存在于 Kirigami Addons 中。
-其他
-Kirigami Addons 支持使用足够新版本的 extra-cmake-modules 进行静态构建。
-打包程序部分
-您可以在
-download.kde.org
-找到该软件包，并且已使用我的GPG 密钥。]]></description>
-      <guid>https://carlschwan.eu/2024/10/10/kirigami-addons-1.5/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 10 Oct 2024 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
