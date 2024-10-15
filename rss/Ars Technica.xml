@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 15 Oct 2024 19:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 21:14:47 GMT</lastBuildDate>
     <item>
-      <title>SpaceX 称，如果 FCC 批准新计划，Starlink 可以提供千兆速度</title>
+      <title>木制摩天大楼助力可持续建筑发展</title>
+      <link>https://arstechnica.com/science/2024/10/sustainable-building-effort-reaches-new-heights-with-wooden-skyscrapers/</link>
+      <description><![CDATA[木材为建筑师提供了碳密集型钢铁和混凝土的替代品。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/sustainable-building-effort-reaches-new-heights-with-wooden-skyscrapers/</guid>
+      <pubDate>Tue, 15 Oct 2024 20:45:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 告诉 FCC，它计划将 Starlink 的速度提高 10 倍左右</title>
       <link>https://arstechnica.com/tech-policy/2024/10/spacex-claims-starlink-can-offer-gigabit-speeds-if-fcc-approves-new-plan/</link>
       <description><![CDATA[SpaceX：“小而有意义的更新”可以将速度从约 100Mbps 提高到 1Gbps。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/spacex-claims-starlink-can-offer-gigabit-speeds-if-fcc-approves-new-plan/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[新的文本转视频工具专注于视频专业人士，经内容所有者许可制作。]]></description>
       <guid>https://arstechnica.com/ai/2024/10/adobe-unveils-ai-video-generator-trained-on-licensed-content/</guid>
       <pubDate>Mon, 14 Oct 2024 21:48:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果研究揭露法学硕士“推理”能力严重缺陷</title>
-      <link>https://arstechnica.com/ai/2024/10/llms-cant-perform-genuine-logical-reasoning-apple-researchers-suggest/</link>
-      <description><![CDATA[不相关的干扰性论点会导致逻辑推理“灾难性”失败。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/llms-cant-perform-genuine-logical-reasoning-apple-researchers-suggest/</guid>
-      <pubDate>Mon, 14 Oct 2024 21:21:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
