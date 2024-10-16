@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 16 Oct 2024 14:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 16:43:34 GMT</lastBuildDate>
+    <item>
+      <title>几周后，Winamp 删除了整个 GitHub 源代码库</title>
+      <link>https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/</link>
+      <description><![CDATA[Winamp 希望吸引程序员，但不是以这种方式。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/winamp-really-whips-open-source-coders-into-frenzy-with-its-source-release/</guid>
+      <pubDate>Wed, 16 Oct 2024 16:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>香港人工智能骗局：深度伪造爱好者骗取受害者 4600 万美元</title>
+      <link>https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/</link>
+      <description><![CDATA[诈骗者利用人工智能深度伪造工具创建虚假的网络角色，在视频通话中欺骗受害者。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/deepfake-lovers-swindle-victims-out-of-46m-in-hong-kong-ai-scam/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:40:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>250 美元的 Analogue 3D 将于明年初以 4K 格式播放所有 N64 游戏卡带</title>
+      <link>https://arstechnica.com/gaming/2024/10/250-analogue-3d-will-play-all-your-n64-cartridges-in-4k-early-next-year/</link>
+      <description><![CDATA[FPGA 驱动的硬件将利用“定制的专用升频器”捕捉 CRT 光芒]]></description>
+      <guid>https://arstechnica.com/gaming/2024/10/250-analogue-3d-will-play-all-your-n64-cartridges-in-4k-early-next-year/</guid>
+      <pubDate>Wed, 16 Oct 2024 15:00:54 GMT</pubDate>
+    </item>
     <item>
       <title>初创公司可以实时识别深度伪造视频</title>
       <link>https://arstechnica.com/security/2024/10/startup-can-catch-identify-deepfake-video-in-realtime/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[共和党委员：您不会要求免费续杯咖啡吧？]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/fcc-republican-opposes-regulation-of-data-caps-with-analogy-to-coffee-refills/</guid>
       <pubDate>Tue, 15 Oct 2024 21:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>朝鲜黑客利用新发现的 Linux 恶意软件袭击 ATM</title>
-      <link>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</link>
-      <description><![CDATA[曾经，FASTCash 只能在 Unix 上运行。后来，它开始在 Windows 上运行。现在，它也可以运行在 Linux 上。]]></description>
-      <guid>https://arstechnica.com/security/2024/10/north-korean-hackers-use-newly-discovered-linux-malware-to-raid-atms/</guid>
-      <pubDate>Tue, 15 Oct 2024 21:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>木制摩天大楼助力可持续建筑发展</title>
-      <link>https://arstechnica.com/science/2024/10/sustainable-building-effort-reaches-new-heights-with-wooden-skyscrapers/</link>
-      <description><![CDATA[木材为建筑师提供了碳密集型钢铁和混凝土的替代品。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/sustainable-building-effort-reaches-new-heights-with-wooden-skyscrapers/</guid>
-      <pubDate>Tue, 15 Oct 2024 20:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 告诉 FCC，它计划将 Starlink 的速度提高 10 倍左右</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/spacex-claims-starlink-can-offer-gigabit-speeds-if-fcc-approves-new-plan/</link>
-      <description><![CDATA[SpaceX：“小而有意义的更新”可以将速度从约 100Mbps 提高到 1Gbps。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/spacex-claims-starlink-can-offer-gigabit-speeds-if-fcc-approves-new-plan/</guid>
-      <pubDate>Tue, 15 Oct 2024 18:42:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
