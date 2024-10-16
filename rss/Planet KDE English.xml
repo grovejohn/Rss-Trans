@@ -4,7 +4,34 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 16 Oct 2024 08:43:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 20:38:00 GMT</lastBuildDate>
+    <item>
+      <title>新 Craft 缓存 24.10 发布</title>
+      <link>https://blogs.kde.org/2024/10/16/new-craft-cache-24.10-published/?utm_source=atom_feed</link>
+      <description><![CDATA[新的 Craft 缓存刚刚发布。此更新已可用于 KDE 的 CD，CI（Windows/Android）将在未来几天内推出。
+请注意，这仅适用于 Qt6 缓存。 Qt5 缓存自 2024 年 4 月起处于 LTS 模式，不再接收重大更新。
+更改（亮点）
+Craft Core
+
+放弃 Python2 支持
+至少需要 Python 3.9
+
+蓝图
+
+Qt 6.8.0
+FFmpeg 7.1
+Kirigami Addons 1.5.0
+KDE Frameworks 6.7.0
+KDE Plasma 6.2.0
+已删除 snoregrowl
+已删除ctemplate
+
+关于 KDE Craft
+KDE Craft 是一个开源元构建系统和包管理器。它管理依赖项并从源代码在 Windows、macOS、Linux、FreeBSD 和 Android 上构建库和应用程序。
+在 https://community.kde.org/Craft 上了解更多信息或加入 Matrix 房间 #kde-craft:kde.org]]></description>
+      <guid>https://blogs.kde.org/2024/10/16/new-craft-cache-24.10-published/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Plasma 6.2.1，十月错误修复版本</title>
       <link>https://kde.org/announcements/plasma/6/6.2.1/?utm_source=atom_feed</link>
@@ -104,17 +131,6 @@ Plasma wayland 会话现在是 sddm（显示管理器登录屏幕）中的默认
 注意：对于从 24.04 升级，正式发布与正式发布之间可能会有几个小时到几天的延迟公告和 Ubuntu 发布团队支持升级。]]></description>
       <guid>https://kubuntu.org/news/kubuntu-24-10-oracular-oriole-released/?utm_source=atom_feed</guid>
       <pubDate>Thu, 10 Oct 2024 15:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt for Python 发布：6.8 现已推出！</title>
-      <link>https://www.qt.io/blog/qt-for-python-release-6.8?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-我们非常高兴地宣布 Qt for Python 6.8 的最新版本。每次发布新版本，我们都会尝试通过 Qt 的新功能和新趋势理念带来精彩内容。为了您的方便，您可以查看 Qt for Python 6.8 中的新增功能和改进功能，以及整个更改日志。  
-]]></description>
-      <guid>https://www.qt.io/blog/qt-for-python-release-6.8?utm_source=atom_feed</guid>
-      <pubDate>Thu, 10 Oct 2024 12:38:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
