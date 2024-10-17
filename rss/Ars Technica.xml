@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 17 Oct 2024 20:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 21:14:51 GMT</lastBuildDate>
     <item>
-      <title>据称 SIM 卡调换和 X 账户被黑如何导致比特币价格上涨 1000 美元</title>
+      <title>随着越来越多的父母拒绝为孩子接种救命疫苗，美国疫苗接种率再次下降</title>
+      <link>https://arstechnica.com/health/2024/10/us-vaccinations-fall-again-as-more-parents-refuse-lifesaving-shots-for-kids/</link>
+      <description><![CDATA[当疫苗接种率降至 92% 左右时，美国更容易爆发疫情。]]></description>
+      <guid>https://arstechnica.com/health/2024/10/us-vaccinations-fall-again-as-more-parents-refuse-lifesaving-shots-for-kids/</guid>
+      <pubDate>Thu, 17 Oct 2024 20:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币哄抬和抛售骗局中的 SIM 卡交换是如何运作的</title>
       <link>https://arstechnica.com/security/2024/10/how-alleged-sim-swap-and-hacked-x-account-drove-up-price-of-bitcoin-by-1k/</link>
       <description><![CDATA[SEC 官方账户上发布的虚假信息导致货币价格飙升。]]></description>
       <guid>https://arstechnica.com/security/2024/10/how-alleged-sim-swap-and-hacked-x-account-drove-up-price-of-bitcoin-by-1k/</guid>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 17 Oct 2024 19:24:12 GMT</pubDate>
     </item>
     <item>
-      <title>欧盟考虑将马斯克其他公司的收入计入罚款数额</title>
+      <title>欧盟考虑将马斯克其他公司的收入纳入罚款计算</title>
       <link>https://arstechnica.com/tech-policy/2024/10/eu-considers-calculating-x-fines-by-including-revenue-from-musks-other-firms/</link>
       <description><![CDATA[马斯克可能面临高达其全球收入（包括 SpaceX 销售额） 6% 的 DSA 罚款。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/eu-considers-calculating-x-fines-by-including-revenue-from-musks-other-firms/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[“察沃食人魔”在19世纪90年代末杀害了数十人，其中包括肯尼亚-乌干达铁路工人。]]></description>
       <guid>https://arstechnica.com/security/2024/10/scientists-found-human-hairs-in-teeth-of-19th-century-lions/</guid>
       <pubDate>Wed, 16 Oct 2024 21:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>X 令人沮丧的广告收入帮助马斯克避开欧盟最严格的反垄断法</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/eu-officials-side-with-musk-find-that-x-is-not-as-important-as-facebook-tiktok/</link>
-      <description><![CDATA[X 援引了广告收入的下降来消除 DMA 看门人指定的威胁。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/eu-officials-side-with-musk-find-that-x-is-not-as-important-as-facebook-tiktok/</guid>
-      <pubDate>Wed, 16 Oct 2024 21:13:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
