@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 18 Oct 2024 08:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 10:42:06 GMT</lastBuildDate>
+    <item>
+      <title>使用 systemd 限制应用程序内存使用量</title>
+      <link>https://blogs.kde.org/2024/10/18/limit-application-memory-usage-with-systemd/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/10/18/limit-application-memory-usage-with-systemd/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 18 Oct 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 框架和 KDE 应用程序的静态构建</title>
       <link>https://www.volkerkrause.eu/2024/10/18/kf6-static-builds.html?utm_source=atom_feed</link>
@@ -111,16 +118,6 @@ Snapcraft：
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.7.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE neon Fox 基于 Ubuntu 24.04 LTS</title>
-      <link>https://blog.neon.kde.org/2024/10/10/kde-neon-rebased-on-ubuntu-24-04-lts/?utm_source=atom_feed</link>
-      <description><![CDATA[我们刚刚开启了 KDE neon 的升级，以在 Ubuntu 24.04 LTS 上重新定位。
-我们每两年进行一次升级，22.04 LTS 基础变得越来越不稳定，旧的 Pipewire 导致问题，并且像 Krita 这样的软件包根本无法编译。
-请按照 Noble 升级说明 进行操作，或者只需单击即将出现的通知即可。
-]]></description>
-      <guid>https://blog.neon.kde.org/2024/10/10/kde-neon-rebased-on-ubuntu-24-04-lts/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 10 Oct 2024 16:10:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
