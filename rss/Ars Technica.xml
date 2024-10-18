@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 19:36:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 20:38:12 GMT</lastBuildDate>
+    <item>
+      <title>奇怪的鱼有感官“腿”，用于行走和品尝</title>
+      <link>https://arstechnica.com/science/2024/10/bizarre-fish-has-sensory-legs-it-uses-for-walking-and-tasting/</link>
+      <description><![CDATA[一些海鲂物种可以用它们的腿来感知猎物​​。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/bizarre-fish-has-sensory-legs-it-uses-for-walking-and-tasting/</guid>
+      <pubDate>Fri, 18 Oct 2024 20:19:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官猛烈抨击佛罗里达州审查政治广告：“这是第一修正案，笨蛋”</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/judge-slams-florida-for-censoring-political-ad-its-the-first-amendment-stupid/</link>
+      <description><![CDATA[佛罗里达州对电视台发出威胁，指责其发布批评该州堕胎法的广告。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/judge-slams-florida-for-censoring-political-ad-its-the-first-amendment-stupid/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:57:28 GMT</pubDate>
+    </item>
     <item>
       <title>海水淡化系统可自行调节以利用可再生能源</title>
       <link>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</link>
-      <description><![CDATA[新系统不需要恒定的电力，而是可以根据任何可用资源进行调整。]]></description>
+      <description><![CDATA[新系统不需要恒定的电力，而是可以根据需要进行调节以使用任何可用的电力。]]></description>
       <guid>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</guid>
       <pubDate>Fri, 18 Oct 2024 19:06:13 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[坏消息是，纯锂硅电池的使用并不多。]]></description>
       <guid>https://arstechnica.com/science/2024/10/simple-voltage-pulse-can-restore-capacity-to-li-si-batteries/</guid>
       <pubDate>Fri, 18 Oct 2024 11:15:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭报道：彭博社呼吁取消 SLS；SpaceX 达到百公里目标</title>
-      <link>https://arstechnica.com/space/2024/10/rocket-report-bloomberg-calls-for-sls-cancellation-spacex-hits-century-mark/</link>
-      <description><![CDATA[“加拿大将首次展示其自主研发的火箭技术。”]]></description>
-      <guid>https://arstechnica.com/space/2024/10/rocket-report-bloomberg-calls-for-sls-cancellation-spacex-hits-century-mark/</guid>
-      <pubDate>Fri, 18 Oct 2024 11:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后将我的家庭实验室的 isc-dhcp-server 升级到 isc-kea</title>
-      <link>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</link>
-      <description><![CDATA[迁移并没有我想象的那么麻烦——而且动态 DNS 仍然有效！]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</guid>
-      <pubDate>Fri, 18 Oct 2024 10:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
