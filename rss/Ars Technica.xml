@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 17:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 18:43:40 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊高管告诉员工，如果不喜欢 RTO 政策，可以去其他地方工作</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/amazon-exec-tells-employees-to-work-elsewhere-if-they-dislike-rto-policy/</link>
+      <description><![CDATA[利用 RTO 来强制戒烟可能会导致“一系列法律后果”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/amazon-exec-tells-employees-to-work-elsewhere-if-they-dislike-rto-policy/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>报道称，美国怀疑台积电帮助华为规避出口管制</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/us-suspects-tsmc-helped-huawei-skirt-export-controls-report-says/</link>
+      <description><![CDATA[美国调查台积电是否帮助华为生产人工智能芯片。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/us-suspects-tsmc-helped-huawei-skirt-export-controls-report-says/</guid>
+      <pubDate>Fri, 18 Oct 2024 17:41:58 GMT</pubDate>
+    </item>
     <item>
       <title>伊隆·马斯克更改 X 条款，将诉讼转至他最喜欢的德克萨斯州法庭</title>
       <link>https://arstechnica.com/tech-policy/2024/10/xs-new-terms-steer-lawsuits-to-texas-court-where-judge-owns-tesla-stock/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[“这已经酝酿很久了，我认为这将是非常有意义的。”]]></description>
       <guid>https://arstechnica.com/space/2024/10/biden-administration-curtails-controls-on-some-space-related-exports/</guid>
       <pubDate>Fri, 18 Oct 2024 00:25:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>高通因“全面”不符合标准取消 Windows 开发套件 PC</title>
-      <link>https://arstechnica.com/gadgets/2024/10/qualcomm-cancels-windows-dev-kit-pc-for-comprehensively-failing-to-meet-standards/</link>
-      <description><![CDATA[Snapdragon Dev Kit 原本预计于 6 月份发货，但一再被推迟。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/qualcomm-cancels-windows-dev-kit-pc-for-comprehensively-failing-to-meet-standards/</guid>
-      <pubDate>Thu, 17 Oct 2024 22:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>廉价的人工智能“视频抓取”现在可以从任何屏幕录像中提取数据</title>
-      <link>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</link>
-      <description><![CDATA[研究人员将屏幕录像输入 Gemini 以轻松提取准确信息。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/cheap-ai-video-scraping-can-now-extract-data-from-any-screen-recording/</guid>
-      <pubDate>Thu, 17 Oct 2024 22:41:39 GMT</pubDate>
     </item>
     </channel>
 </rss>

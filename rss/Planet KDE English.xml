@@ -4,7 +4,38 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 18 Oct 2024 13:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 18:43:29 GMT</lastBuildDate>
+    <item>
+      <title>设计系统更新 – 2024 年 10 月</title>
+      <link>https://anditosan.wordpress.com/2024/10/18/design-system-updates-oct-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[更新 1
+大家好！我们现在拥有了开始创建 16px 图标集所需的所有组件。我相信我们可以同时进行这些图标的设计和创建。
+以下是设计 16px 图标时需要考虑的一些一般准则：
+
+我们的目标是尽可能将 24px 集合中的设计与 16px 相关联。
+如有疑问，请创建一个类似于或简化 24px 形状的图标。
+对图标使用 1px 线条。
+利用 IconGrid16 组件指导您的设计。
+图标完成后，将图标颜色更改为“ColorScheme-Text”颜色。
+要导出图标，请使用 Icon Jetpack 插件。
+
+我很高兴开始从事这个项目，并感谢任何可用的设计师帮助。如果您需要学习 Figma 的帮助，请随时与我们联系，我们将很乐意提供支持。
+如果您需要编辑 16px 图标集合的 Figma 文件的权限，请告诉我。我相信协作和团队合作将导致创建一组令人惊叹的 16px 图标。
+更新 2
+此外，我想让大家知道，我对图形的配色方案做了一些编辑。如果您对这些更改有任何反馈，以及我是否可能遗漏了任何内容，我将不胜感激。让我们一起努力创建一个具有凝聚力和视觉冲击力的图标集合！
+一旦我们的颜色与系统中所需的颜色一致，我们将更新最近为此目的创建的问题。此问题正在大力开发中，情况瞬息万变。请谨慎阅读并期待更新。
+https://invent.kde.org/teams/vdg/issues/-/issues/82
+设计系统中的颜色已更改。我需要将颜色与下面的颜色标签关联起来。一段时间后，它看起来会有点不对劲。但是，Figma 中的颜色变量已更新为最新反馈。只有此图形也需要更新。只有颜色框是正确的，颜色名称不正确
+
+更新 3
+本周，我们采用了 Manuel de la Fuente 之前创建的 Ocean 窗口阴影，并将其集成到设计系统中。Figma 中的阴影变量现在使用受 Ocean 启发的阴影级别，使其更加清晰可见。这是为了解决之前阴影太暗的反馈。希望这些能有所作为。
+
+由于某些我不知道的原因，XL 阴影看起来比 LG 阴影更暗，但这似乎是 Figma 中的一个视觉错误。如果您应用 XL 阴影，它应该会正确显示在图形中。
+更新 4
+暂时暂停向 PenPot 的过渡，直到我们创建社区实例并应用路径操作更新。这会阻碍我们以与现在相同的方式重新创建图标。]]></description>
+      <guid>https://anditosan.wordpress.com/2024/10/18/design-system-updates-oct-2024/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 18 Oct 2024 17:28:48 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-42 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/?utm_source=atom_feed</link>
@@ -112,13 +143,6 @@ Snapcraft：
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/10/12/kde-android-news-oct-2024.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 12 Oct 2024 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：6.2 已经发布！</title>
-      <link>https://pointieststick.com/2024/10/11/this-week-in-plasma-6-2-has-been-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2024/10/11/this-week-in-plasma-6-2-has-been-released/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 12 Oct 2024 03:17:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
