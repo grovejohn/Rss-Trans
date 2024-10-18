@@ -4,7 +4,22 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 18 Oct 2024 10:42:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 13:00:53 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-42 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 18 Oct 2024 12:09:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qt Creator 15 Beta 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-15-beta-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 15 Beta 版发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-15-beta-released?utm_source=atom_feed</guid>
+      <pubDate>Fri, 18 Oct 2024 11:49:36 GMT</pubDate>
+    </item>
     <item>
       <title>使用 systemd 限制应用程序内存使用量</title>
       <link>https://blogs.kde.org/2024/10/18/limit-application-memory-usage-with-systemd/?utm_source=atom_feed</link>
@@ -104,20 +119,6 @@ Snapcraft：
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2024/10/11/this-week-in-plasma-6-2-has-been-released/?utm_source=atom_feed</guid>
       <pubDate>Sat, 12 Oct 2024 03:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-41 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/10/11/web-review-week-2024-41/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/10/11/web-review-week-2024-41/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 11 Oct 2024 11:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 发布框架 6.7.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.7.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.7.0/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 11 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
