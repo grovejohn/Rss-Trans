@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 17 Oct 2024 14:38:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 08:42:42 GMT</lastBuildDate>
+    <item>
+      <title>KDE 框架和 KDE 应用程序的静态构建</title>
+      <link>https://www.volkerkrause.eu/2024/10/18/kf6-static-builds.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/10/18/kf6-static-builds.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 18 Oct 2024 07:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>新 Craft 缓存 24.10 发布</title>
       <link>https://blogs.kde.org/2024/10/16/new-craft-cache-24.10-published/?utm_source=atom_feed</link>
@@ -114,23 +121,6 @@ Snapcraft：
 ]]></description>
       <guid>https://blog.neon.kde.org/2024/10/10/kde-neon-rebased-on-ubuntu-24-04-lts/?utm_source=atom_feed</guid>
       <pubDate>Thu, 10 Oct 2024 16:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu 24.10 Oracular Oriole 发布</title>
-      <link>https://kubuntu.org/news/kubuntu-24-10-oracular-oriole-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Kubuntu 团队很高兴地宣布 Kubuntu 24.10 已经发布，该版本采用全新精美的 KDE Plasma 6.1，默认简单，需要时功能强大。
-代号为“Oracular Oriole”的 Kubuntu 24.10 延续了我们为您提供友好计算的传统，将最新、最出色的开源技术集成到高质量、易于使用的 Linux 发行版中。
-从底层来看，许多核心软件包都进行了更新，包括基于 6.11 的新内核、KDE ​​Frameworks 5.116 和 6.6.0、KDE Plasma 6.1 和许多更新的 KDE gear 应用程序。
-Kubuntu 24.10 搭配 Plasma 6.1
-Kubuntu 已针对其他应用程序进行了许多更新，既包括我们的默认安装，也包括可从 Ubuntu 存档中安装的应用程序。
-包含并更新了核心日常使用的应用程序，例如 Firefox 和 LibreOffice。
-如需查看其他应用程序更新和已知错误的列表，请务必阅读我们的发行说明。
-Wayland 作为默认 Plasma 会话。
-Plasma wayland 会话现在是 sddm（显示管理器登录屏幕）中的默认选项。如果需要，可以选择 X11 会话。上次使用的会话类型将被记住，因此您不必在每次登录时切换类型。
-下载 Kubuntu 24.10，或了解如何从 24.04 LTS 升级。
-注意：对于从 24.04 升级，正式发布与正式发布之间可能会有几个小时到几天的延迟公告和 Ubuntu 发布团队支持升级。]]></description>
-      <guid>https://kubuntu.org/news/kubuntu-24-10-oracular-oriole-released/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 10 Oct 2024 15:05:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
