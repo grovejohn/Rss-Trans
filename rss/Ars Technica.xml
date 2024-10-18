@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 18:43:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 19:36:24 GMT</lastBuildDate>
+    <item>
+      <title>海水淡化系统可自行调节以利用可再生能源</title>
+      <link>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</link>
+      <description><![CDATA[新系统不需要恒定的电力，而是可以根据任何可用资源进行调整。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/desalination-system-adjusts-itself-to-work-with-renewable-power/</guid>
+      <pubDate>Fri, 18 Oct 2024 19:06:13 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊高管告诉员工，如果不喜欢 RTO 政策，可以去其他地方工作</title>
       <link>https://arstechnica.com/tech-policy/2024/10/amazon-exec-tells-employees-to-work-elsewhere-if-they-dislike-rto-policy/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[迁移并没有我想象的那么麻烦——而且动态 DNS 仍然有效！]]></description>
       <guid>https://arstechnica.com/information-technology/2024/10/finally-upgrading-from-isc-dhcp-server-to-isc-kea-for-my-homelab/</guid>
       <pubDate>Fri, 18 Oct 2024 10:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>拜登政府削减对部分太空相关出口的管制</title>
-      <link>https://arstechnica.com/space/2024/10/biden-administration-curtails-controls-on-some-space-related-exports/</link>
-      <description><![CDATA[“这已经酝酿很久了，我认为这将是非常有意义的。”]]></description>
-      <guid>https://arstechnica.com/space/2024/10/biden-administration-curtails-controls-on-some-space-related-exports/</guid>
-      <pubDate>Fri, 18 Oct 2024 00:25:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
