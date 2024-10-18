@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 18 Oct 2024 11:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 11:36:43 GMT</lastBuildDate>
+    <item>
+      <title>哈勃拍摄到 M90 星系的新视图</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/</link>
+      <description><![CDATA[这张 NASA/ESA 哈勃太空望远镜图像展示了位于室女座的引人注目的螺旋星系梅西耶 90 (M90，也称为 NGC 4569)。2019 年，哈勃发布了一张 M90 图像，该图像使用 1994 年安装后不久拍摄的广角和行星相机 2 (WFPC2) 数据创建。该 WFPC2 图像具有独特的阶梯状图案 […]]]></description>
+      <guid>https://science.nasa.gov/missions/hubble/hubble-captures-a-new-view-of-galaxy-m90/</guid>
+      <pubDate>Fri, 18 Oct 2024 11:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>什么是空气质量？</title>
       <link>https://www.nasa.gov/general/what-is-air-quality/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[美国宇航局的 DAVINCI 金星任务如何利用旧数据揭示新秘密。]]></description>
       <guid>https://science.nasa.gov/missions/pioneer-venus/nasas-davinci-mission-uses-old-data-to-reveal-new-secrets-venus/</guid>
       <pubDate>Thu, 17 Oct 2024 17:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>想象未来</title>
-      <link>https://www.nasa.gov/image-article/imagining-the-future/</link>
-      <description><![CDATA[1973 年 8 月 1 日的这幅插图显示，一架航天飞机在周围陆地上空升空。NASA 的航天飞机机队在过去 30 年中执行了 135 次飞行任务，创造了无数个第一，并向比以往更多的人开放了太空。每架航天飞机由三个主要部件组成：轨道器（用于搭载机组人员）、大型 […]]]></description>
-      <guid>https://www.nasa.gov/image-article/imagining-the-future/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:18:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
