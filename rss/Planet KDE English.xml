@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 19 Oct 2024 12:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 14:37:56 GMT</lastBuildDate>
     <item>
       <title>药片太多</title>
       <link>https://valdyas.org/fading/hardware/too-many-tablets/?utm_source=atom_feed</link>
@@ -47,7 +47,7 @@ unifiedpush.kde.org，但您可以在系统设置中将其更改为
 Tokodon 都与 KUnifiedPush 集成，因为
 Matrix 和 Mastodon 都支持 UnifiedPush。此外，还有针对
 天气和紧急警报的工作正在进行中。
-Packager 部分
+打包程序部分
 您可以在
 download.kde.org
 找到该软件包，并且已使用Carl Schwan 的 GPG 密钥进行签名。]]></description>
@@ -57,7 +57,7 @@ download.kde.org
     <item>
       <title>KDE Gear 24.12 发布时间表</title>
       <link>https://tsdgeos.blogspot.com/2024/10/kde-gear-2412-release-schedule.html?utm_source=atom_feed</link>
-      <description><![CDATA[这是发布团队商定的发布时间表https://community.kde.org/Schedules/KDE_Gear_24.12_Schedule依赖关系冻结时间约为 3 周（11 月 7 日），功能冻结时间约为 1 周之后。准备好您的资料！]]></description>
+      <description><![CDATA[这是发布团队商定的发布时间表https://community.kde.org/Schedules/KDE_Gear_24.12_Schedule依赖关系冻结时间约为 3 周（11 月 7 日），功能冻结时间约为 1 周。准备好您的资料！]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/10/kde-gear-2412-release-schedule.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 18 Oct 2024 23:24:00 GMT</pubDate>
     </item>
