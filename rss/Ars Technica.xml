@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 18 Oct 2024 22:14:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 01:10:06 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 击败 ULA，赢得价值 7.33 亿美元的军事发射合同</title>
+      <link>https://arstechnica.com/space/2024/10/spacex-sweeps-latest-round-of-military-launch-contracts/</link>
+      <description><![CDATA[SpaceX 和 ULA 有资格竞争八次发射，SpaceX 全部获胜。]]></description>
+      <guid>https://arstechnica.com/space/2024/10/spacex-sweeps-latest-round-of-military-launch-contracts/</guid>
+      <pubDate>Fri, 18 Oct 2024 23:23:31 GMT</pubDate>
+    </item>
     <item>
       <title>《机甲战士 5：部落》本应是新手友好的游戏，而我对它进行了测试</title>
       <link>https://arstechnica.com/gaming/2024/10/i-tried-to-get-into-mechwarrior-5-clans-as-a-newcomer-but-its-for-the-fans/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[四起车祸和一人死亡可能导致代价高昂的召回或 FSD 被禁。]]></description>
       <guid>https://arstechnica.com/cars/2024/10/feds-open-their-14th-tesla-safety-investigation-this-time-for-fsd/</guid>
       <pubDate>Fri, 18 Oct 2024 14:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 展示用于平面绘图的 3D 旋转工具</title>
-      <link>https://arstechnica.com/ai/2024/10/adobe-shows-off-3d-rotation-tool-for-flat-drawings/</link>
-      <description><![CDATA[Project Turntable 使用机器学习从 2D 矢量制作可摆动的 3D 模型。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/adobe-shows-off-3d-rotation-tool-for-flat-drawings/</guid>
-      <pubDate>Fri, 18 Oct 2024 14:23:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
