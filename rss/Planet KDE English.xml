@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 19 Oct 2024 01:09:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 04:40:13 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：硬件很难</title>
+      <link>https://pointieststick.com/2024/10/18/this-week-in-plasma-hardware-is-hard/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/10/18/this-week-in-plasma-hardware-is-hard/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 19 Oct 2024 03:54:58 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Gear 24.12 发布时间表</title>
       <link>https://tsdgeos.blogspot.com/2024/10/kde-gear-2412-release-schedule.html?utm_source=atom_feed</link>
@@ -136,13 +143,6 @@ Snapcraft：
 现在就这些。感谢您的光临！]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kubuntu-24-10-released-kde-snaps-at-24-08-2-and-i-lived-to-tell-you-about-it/?utm_source=atom_feed</guid>
       <pubDate>Mon, 14 Oct 2024 20:58:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用</title>
-      <link>https://blogs.kde.org/2024/10/13/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/10/13/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 13 Oct 2024 14:30:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
