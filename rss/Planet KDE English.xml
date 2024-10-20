@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 19 Oct 2024 14:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 14:37:38 GMT</lastBuildDate>
     <item>
       <title>药片太多</title>
       <link>https://valdyas.org/fading/hardware/too-many-tablets/?utm_source=atom_feed</link>
@@ -47,7 +47,7 @@ unifiedpush.kde.org，但您可以在系统设置中将其更改为
 Tokodon 都与 KUnifiedPush 集成，因为
 Matrix 和 Mastodon 都支持 UnifiedPush。此外，还有针对
 天气和紧急警报的工作正在进行中。
-打包程序部分
+Packager 部分
 您可以在
 download.kde.org
 找到该软件包，并且已使用Carl Schwan 的 GPG 密钥进行签名。]]></description>
