@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 20 Oct 2024 18:40:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 20:36:51 GMT</lastBuildDate>
     <item>
       <title>GSoC'24 Okular | 即将结束</title>
       <link>https://prathamgandhi.github.io/posts/gsoc24-update4/?utm_source=atom_feed</link>
@@ -38,6 +38,13 @@ Okular 中表单的实际提交可以基于 Poppler 现在支持的 SubmitForm �
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/10/20/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Sun, 20 Oct 2024 13:30:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 KDE 上的工作：结束（本博客系列）</title>
+      <link>https://redstrate.com/blog/2024/10/my-work-in-kde-the-end-for-this-blog-series/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://redstrate.com/blog/2024/10/my-work-in-kde-the-end-for-this-blog-series/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 20 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>药片太多</title>
@@ -81,7 +88,7 @@ unifiedpush.kde.org，但您可以在系统设置中将其更改为
 Tokodon 都与 KUnifiedPush 集成，因为
 Matrix 和 Mastodon 都支持 UnifiedPush。此外，还有针对
 天气和紧急警报的工作正在进行中。
-Packager 部分
+打包程序部分
 您可以在
 download.kde.org
 找到该软件包，并且已使用Carl Schwan 的 GPG 密钥进行签名。]]></description>
@@ -140,13 +147,6 @@ https://invent.kde.org/teams/vdg/issues/-/issues/82
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-15-beta-released?utm_source=atom_feed</guid>
       <pubDate>Fri, 18 Oct 2024 11:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 systemd 限制应用程序内存使用量</title>
-      <link>https://blogs.kde.org/2024/10/18/limit-application-memory-usage-with-systemd/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/10/18/limit-application-memory-usage-with-systemd/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 18 Oct 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
