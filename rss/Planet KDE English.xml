@@ -4,7 +4,41 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 20 Oct 2024 14:37:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Oct 2024 18:40:54 GMT</lastBuildDate>
+    <item>
+      <title>GSoC'24 Okular | 即将结束</title>
+      <link>https://prathamgandhi.github.io/posts/gsoc24-update4/?utm_source=atom_feed</link>
+      <description><![CDATA[大家好！抱歉，距离我上次发帖已经过去了很长时间。无论是个人生活还是职业方面，都发生了很多事情——我找到了一份新工作并搬迁了，这导致我延长了 GSoC 截止日期以完成剩余的任务。我很高兴地告诉大家，我现在已经完成了所有工作，并且与我的 GSoC 工作相关的所有待处理 MR 都已合并。以下是简要概述：
+MR 已合并：
+
+在 Okular 中重置表单实现：Okular 现在具有表单重置功能，允许您清除字段或将其恢复为默认值。 !MR1007
+支持 MouseDown、MouseEnter 和 MouseExit 事件：现在触发这些鼠标事件时会生成相应的事件对象。 !MR994
+组合框支持按键、验证、计算和格式化事件：组合框以前不会触发这些基本事件。此 MR 增加了对它们的支持。 !MR1027
+修复文本表单字段事件的执行顺序：按键、验证、计算和格式化操作并不总是按正确的顺序执行，尤其是在撤消/重做或通过 JavaScript 修改时。此 MR 修复了这个问题，并确保仅在提交字段值时触发 KVCF 操作，从而提高了键盘的可用性。!MR1002
+支持修改表单字段选择中的外观流文本 (Poppler)：添加了修改表单字段中的外观流文本而不更改其实际值的功能。 !MR1590
+SubmitForm 功能 (Poppler)：已向 Poppler 添加了读取 SubmitForm 操作的支持。虽然 Okular 尚未实现实际的提交流程，但这为未来的集成奠定了基础。 !MR1579
+
+未来范围：
+尽管在 GSoC’24 期间取得了很大进展，但 Okular 的 PDF 表单功能仍有许多可以扩展的领域：
+
+Okular 中表单的实际提交可以基于 Poppler 现在支持的 SubmitForm 操作构建。
+在 ListBox 中添加对 SelectionChange 事件的支持将增强其交互性。
+可以为 CheckBox、ComboBox 和 ListBox 实现其他功能，例如以编程方式检查项目、清除、删除、插入和设置项目。其中一些更改还需要更新 Poppler。
+改进表单字段的键盘导航可以进一步提高可访问性和易用性。
+
+结论：
+与 KDE 一起参与 GSoC 并为 Okular 做出贡献是一次令人难以置信的学习经历，我为所做的贡献感到自豪。非常感谢我的导师 Albert Astals Cid，感谢他在我的所有错误中给予的持续支持、指导和耐心。特别感谢 Sune Vuorela 的评论和见解，帮助我学到了很多东西，也感谢 KDE Mentorship 和 GSoC 团队间接但无价的帮助。我期待着继续我的 KDE 之旅。
+下次见。干杯！]]></description>
+      <guid>https://prathamgandhi.github.io/posts/gsoc24-update4/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 20 Oct 2024 17:35:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 KDE 应用</title>
+      <link>https://blogs.kde.org/2024/10/20/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/10/20/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 20 Oct 2024 13:30:35 GMT</pubDate>
+    </item>
     <item>
       <title>药片太多</title>
       <link>https://valdyas.org/fading/hardware/too-many-tablets/?utm_source=atom_feed</link>
@@ -113,40 +147,6 @@ https://invent.kde.org/teams/vdg/issues/-/issues/82
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/10/18/limit-application-memory-usage-with-systemd/?utm_source=atom_feed</guid>
       <pubDate>Fri, 18 Oct 2024 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 框架和 KDE 应用程序的静态构建</title>
-      <link>https://www.volkerkrause.eu/2024/10/18/kf6-static-builds.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/10/18/kf6-static-builds.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 18 Oct 2024 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新 Craft 缓存 24.10 发布</title>
-      <link>https://blogs.kde.org/2024/10/16/new-craft-cache-24.10-published/?utm_source=atom_feed</link>
-      <description><![CDATA[新的 Craft 缓存刚刚发布。此更新已可用于 KDE 的 CD，CI（Windows/Android）将在未来几天内推出。
-请注意，这仅适用于 Qt6 缓存。 Qt5 缓存自 2024 年 4 月起处于 LTS 模式，不再接收重大更新。
-更改（亮点）
-Craft Core
-
-放弃 Python2 支持
-至少需要 Python 3.9
-
-蓝图
-
-Qt 6.8.0
-FFmpeg 7.1
-Kirigami Addons 1.5.0
-KDE Frameworks 6.7.0
-KDE Plasma 6.2.0
-已删除 snoregrowl
-已删除ctemplate
-
-关于 KDE Craft
-KDE Craft 是一个开源元构建系统和包管理器。它管理依赖项并从源代码在 Windows、macOS、Linux、FreeBSD 和 Android 上构建库和应用程序。
-在 https://community.kde.org/Craft 上了解更多信息或加入 Matrix 房间 #kde-craft:kde.org]]></description>
-      <guid>https://blogs.kde.org/2024/10/16/new-craft-cache-24.10-published/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
