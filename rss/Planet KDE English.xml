@@ -4,7 +4,49 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 21 Oct 2024 08:43:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 13:02:06 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.08.2 发布</title>
+      <link>https://kdenlive.org/en/2024/10/kdenlive-24-08-2-released/?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+
+
+Kdenlive 24.08.2 已发布，修复了大量错误和回归问题。 
+
+修复编辑撤消时的标题制作器更新。 提交。修复错误 #494142。
+修复 dance.xml 中的拼写错误。提交。
+修复单个项目移动。 提交。
+修复循环效果播放时间线，有时在重新打开项目后会中断的问题。提交。
+修复最近的回归问题，在打开项目时会破坏各种东西。 提交。
+修复拖动剪辑和使用鼠标滚轮时崩溃的问题。提交。
+如果在设置中禁用，则单击监视器容器时不播放。 提交。
+修复重新打开项目时丢失的效果区域。提交。
+修复了 bin clip 效果的各种问题。 提交。
+禁用检查当前会删除有效效果的重影效果。提交。
+检测并修复具有不正确效果的轨道制作器。 提交。
+修复有时无法从时间线实例中正确移除 bin 效果的问题。提交。
+如果克隆效果不适用于目标，请不要尝试构建克隆效果。 提交。
+不要不必要地检查 MLT 拖拉机。提交。
+修复打开缺少剪辑的文件时崩溃的问题。 提交。
+修复项目关闭时崩溃的问题。提交。
+修复编译问题。 提交。
+修复打开隔行扫描项目时可能发生的崩溃。提交。
+修复显示器上搜索下一个/上一个关键帧按钮的问题。 提交。
+修复在启用分组效果的 bin 剪辑中编辑关键帧时崩溃的问题。提交。
+不要尝试在命令行渲染时连接到 dbus jobview。 提交。
+修复 Qt5 编译。提交。
+修复项目监视器效果场景中循环播放剪辑的问题。 提交。
+修复循环选定的剪辑。 提交。
+
+
+
+
+
+文章Kdenlive 24.08.2 发布首先出现在Kdenlive上。]]></description>
+      <guid>https://kdenlive.org/en/2024/10/kdenlive-24-08-2-released/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 21 Oct 2024 10:09:34 GMT</pubDate>
+    </item>
     <item>
       <title>Akademy 2025 主办方招募</title>
       <link>https://akademy.kde.org/news/2024-10_akademy-2025-call-for-hosts/?utm_source=atom_feed</link>
@@ -141,13 +183,6 @@ https://invent.kde.org/teams/vdg/issues/-/issues/82
 暂时暂停向 PenPot 的过渡，直到我们创建社区实例并应用路径操作更新。这会阻碍我们以与现在相同的方式重新创建图标。]]></description>
       <guid>https://anditosan.wordpress.com/2024/10/18/design-system-updates-oct-2024/?utm_source=atom_feed</guid>
       <pubDate>Fri, 18 Oct 2024 17:28:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-42 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/10/18/web-review-week-2024-42/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 18 Oct 2024 12:09:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
