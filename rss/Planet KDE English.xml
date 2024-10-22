@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 22 Oct 2024 08:42:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 12:30:39 GMT</lastBuildDate>
     <item>
       <title>利用 Qt 长期支持确保产品长久耐用</title>
       <link>https://www.qt.io/blog/ensuring-product-longevity-with-qt-long-term-support?utm_source=atom_feed</link>
@@ -66,6 +66,23 @@ Kdenlive 24.08.2 已发布，修复了大量错误和回归问题。
 如有任何问题或疑虑，请随时联系我们！我们在此帮助您组织一场成功的活动，并为您提供所需的任何建议、指导或帮助。让我们共同努力，让 Akademy 2025 成为一场值得纪念的活动。]]></description>
       <guid>https://akademy.kde.org/news/2024-10_akademy-2025-call-for-hosts/?utm_source=atom_feed</guid>
       <pubDate>Mon, 21 Oct 2024 07:55:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>氧气图标 6.1.0</title>
+      <link>https://blogs.kde.org/2024/10/21/oxygen-icons-6.1.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Oxygen Icons 6.1.0 是 Oxygen Icon 集的一个功能版本。
+它具有新的 SVG 符号图标，可用于 Plasma Applet。
+它还具有改进的图标主题兼容性、修复的可见性和添加的 mimetype 链接。
+
+
+
+URL： https://download.kde.org/stable/oxygen-icons/
+来源：oxygen-icons-6.1.0.tar.xz
+SHA256： 16ca971079c5067c4507cabf1b619dc87dd6b326fd5c2dd9f5d43810f2174d68
+签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
+https://jriddell.org/jriddell.pgp]]></description>
+      <guid>https://blogs.kde.org/2024/10/21/oxygen-icons-6.1.0/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>GSoC'24 Okular | 即将结束</title>
@@ -156,13 +173,6 @@ download.kde.org
 找到该软件包，并且已使用Carl Schwan 的 GPG 密钥进行签名。]]></description>
       <guid>https://blogs.kde.org/2024/10/19/kunifiedpush-1.0.0-is-out/?utm_source=atom_feed</guid>
       <pubDate>Sat, 19 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear 24.12 发布时间表</title>
-      <link>https://tsdgeos.blogspot.com/2024/10/kde-gear-2412-release-schedule.html?utm_source=atom_feed</link>
-      <description><![CDATA[这是发布团队商定的发布时间表https://community.kde.org/Schedules/KDE_Gear_24.12_Schedule依赖关系冻结时间约为 3 周（11 月 7 日），功能冻结时间约为 1 周之后。准备好您的资料！]]></description>
-      <guid>https://tsdgeos.blogspot.com/2024/10/kde-gear-2412-release-schedule.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 18 Oct 2024 23:24:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
