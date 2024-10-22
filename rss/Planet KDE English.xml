@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 21 Oct 2024 13:02:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 08:42:58 GMT</lastBuildDate>
+    <item>
+      <title>利用 Qt 长期支持确保产品长久耐用</title>
+      <link>https://www.qt.io/blog/ensuring-product-longevity-with-qt-long-term-support?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+随着我们不断发展和调整 Qt 框架以满足用户需求和即将到来的法规变化，我们很高兴地宣布从 Qt 6.8 开始对我们的长期支持 (LTS) 政策进行一些重大更改。这些变化旨在提供更强大、更可预测的支持策略，确保您的项目在整个生命周期内保持安全和稳定。 
+]]></description>
+      <guid>https://www.qt.io/blog/ensuring-product-longevity-with-qt-long-term-support?utm_source=atom_feed</guid>
+      <pubDate>Tue, 22 Oct 2024 06:26:40 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.08.2 发布</title>
       <link>https://kdenlive.org/en/2024/10/kdenlive-24-08-2-released/?utm_source=atom_feed</link>
@@ -50,7 +61,7 @@ Kdenlive 24.08.2 已发布，修复了大量错误和回归问题。
     <item>
       <title>Akademy 2025 主办方招募</title>
       <link>https://akademy.kde.org/news/2024-10_akademy-2025-call-for-hosts/?utm_source=atom_feed</link>
-      <description><![CDATA[如果您想以重要方式（超越编码）为 KDE 做出贡献，那么这就是您的机会 — 帮助我们组织 Akademy 2025！
+      <description><![CDATA[如果您想以重要方式（除编码之外）为 KDE 做出贡献，那么这就是您的机会 — 帮助我们组织 Akademy 2025！
 我们正在为 Akademy 2025 寻找主办方，该活动将于 6 月、7 月、8 月或 9 月举行。这是您将 KDE 最大的活动带到您所在城市的机会！下载“征集主办方”指南，并在 2024 年 12 月 1 日之前将您的提案提交至 akademy-proposals@kde.org。
 如有任何问题或疑虑，请随时联系我们！我们在此帮助您组织一场成功的活动，并为您提供所需的任何建议、指导或帮助。让我们共同努力，让 Akademy 2025 成为一场值得纪念的活动。]]></description>
       <guid>https://akademy.kde.org/news/2024-10_akademy-2025-call-for-hosts/?utm_source=atom_feed</guid>
@@ -149,40 +160,9 @@ download.kde.org
     <item>
       <title>KDE Gear 24.12 发布时间表</title>
       <link>https://tsdgeos.blogspot.com/2024/10/kde-gear-2412-release-schedule.html?utm_source=atom_feed</link>
-      <description><![CDATA[这是发布团队商定的发布时间表https://community.kde.org/Schedules/KDE_Gear_24.12_Schedule依赖关系冻结时间约为 3 周（11 月 7 日），功能冻结时间约为 1 周。准备好您的资料！]]></description>
+      <description><![CDATA[这是发布团队商定的发布时间表https://community.kde.org/Schedules/KDE_Gear_24.12_Schedule依赖关系冻结时间约为 3 周（11 月 7 日），功能冻结时间约为 1 周之后。准备好您的资料！]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/10/kde-gear-2412-release-schedule.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 18 Oct 2024 23:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计系统更新 – 2024 年 10 月</title>
-      <link>https://anditosan.wordpress.com/2024/10/18/design-system-updates-oct-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[更新 1
-大家好！我们现在拥有了开始创建 16px 图标集所需的所有组件。我相信我们可以同时进行这些图标的设计和创建。
-以下是设计 16px 图标时需要考虑的一些一般准则：
-
-我们的目标是尽可能将 24px 集合中的设计与 16px 相关联。
-如有疑问，请创建一个类似于或简化 24px 形状的图标。
-对图标使用 1px 线条。
-利用 IconGrid16 组件指导您的设计。
-图标完成后，将图标颜色更改为“ColorScheme-Text”颜色。
-要导出图标，请使用 Icon Jetpack 插件。
-
-我很高兴开始从事这个项目，并感谢任何可用的设计师帮助。如果您需要学习 Figma 的帮助，请随时与我们联系，我们将很乐意提供支持。
-如果您需要编辑 16px 图标集合的 Figma 文件的权限，请告诉我。我相信协作和团队合作将导致创建一组令人惊叹的 16px 图标。
-更新 2
-此外，我想让大家知道，我对图形的配色方案做了一些编辑。如果您对这些更改有任何反馈，以及我是否可能遗漏了任何内容，我将不胜感激。让我们一起努力创建一个具有凝聚力和视觉冲击力的图标集合！
-一旦我们的颜色与系统中所需的颜色一致，我们将更新最近为此目的创建的问题。此问题正在大力开发中，情况瞬息万变。请谨慎阅读并期待更新。
-https://invent.kde.org/teams/vdg/issues/-/issues/82
-设计系统中的颜色已更改。我需要将颜色与下面的颜色标签关联起来。一段时间后，它看起来会有点不对劲。但是，Figma 中的颜色变量已更新为最新反馈。只有此图形也需要更新。只有颜色框是正确的，颜色名称不正确
-
-更新 3
-本周，我们采用了 Manuel de la Fuente 之前创建的 Ocean 窗口阴影，并将其集成到设计系统中。Figma 中的阴影变量现在使用受 Ocean 启发的阴影级别，使其更加清晰可见。这是为了解决之前阴影太暗的反馈。希望这些能有所作为。
-
-由于某些我不知道的原因，XL 阴影看起来比 LG 阴影更暗，但这似乎是 Figma 中的一个视觉错误。如果您应用 XL 阴影，它应该会正确显示在图形中。
-更新 4
-暂时暂停向 PenPot 的过渡，直到我们创建社区实例并应用路径操作更新。这会阻碍我们以与现在相同的方式重新创建图标。]]></description>
-      <guid>https://anditosan.wordpress.com/2024/10/18/design-system-updates-oct-2024/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 18 Oct 2024 17:28:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
