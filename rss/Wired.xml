@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 23 Oct 2024 17:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 17:38:28 GMT</lastBuildDate>
+    <item>
+      <title>Liquid AI 正在重新设计神经网络</title>
+      <link>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</link>
+      <description><![CDATA[受到微型蠕虫的启发，Liquid AI 的创始人开发出了一种适应性更强、能耗更低的神经网络。现在，这家麻省理工学院的衍生公司正在展示几种新的超高效模型。]]></description>
+      <guid>https://www.wired.com/story/liquid-ai-redesigning-neural-network/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:26:24 GMT</pubDate>
+    </item>
     <item>
       <title>微软警告称外国虚假信息正从各个方向影响美国大选</title>
       <link>https://www.wired.com/story/microsoft-russia-china-iran-election-disinformation/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[《连线》杂志关于使用聊天机器人和其他生成式人工智能工具的 AI Unlocked 时事通讯迎来了第二季。我们采纳了读者的反馈并回答了您迫切的问题。]]></description>
       <guid>https://www.wired.com/story/artificial-intelligence-tools-ai-unlocked-newsletter-season-two/</guid>
       <pubDate>Wed, 23 Oct 2024 11:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Loop Switch 2 评测：音量可调耳塞</title>
-      <link>https://www.wired.com/review/loop-switch-2/</link>
-      <description><![CDATA[这些耳塞可让您在合理范围内微调降噪效果。]]></description>
-      <guid>https://www.wired.com/review/loop-switch-2/</guid>
-      <pubDate>Wed, 23 Oct 2024 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
