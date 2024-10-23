@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 23 Oct 2024 14:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 16:19:53 GMT</lastBuildDate>
+    <item>
+      <title>麦当劳致命的四分之一磅汉堡大肠杆菌疫情可能比我们所知的更严重</title>
+      <link>https://arstechnica.com/health/2024/10/mcdonalds-e-coli-outbreak-one-dead-49-sickened-across-10-states-so-far/</link>
+      <description><![CDATA[疫情的规模和持续时间可能比目前已知的要大。]]></description>
+      <guid>https://arstechnica.com/health/2024/10/mcdonalds-e-coli-outbreak-one-dead-49-sickened-across-10-states-so-far/</guid>
+      <pubDate>Wed, 23 Oct 2024 15:33:15 GMT</pubDate>
+    </item>
     <item>
       <title>彼得·托德 (Peter Todd) 在被“揭露”其比特币创造者身份后躲藏起来</title>
       <link>https://arstechnica.com/tech-policy/2024/10/peter-todd-in-hiding-after-being-unmasked-as-bitcoin-creator/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[根据第四修正案针对弗吉尼亚州诺福克的诉讼，该诉讼称，“每辆过往的车辆都会被捕获”。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/lawsuit-city-cameras-make-it-impossible-to-drive-anywhere-without-being-tracked/</guid>
       <pubDate>Tue, 22 Oct 2024 20:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>FortiGate 管理员报告了主动利用 0day 漏洞的情况。供应商未发表评论。</title>
-      <link>https://arstechnica.com/security/2024/10/fortinet-stays-mum-on-critical-0-day-reportedly-under-active-exploitation/</link>
-      <description><![CDATA[允许远程代码执行的漏洞至少从 9 天前就开始被讨论了。]]></description>
-      <guid>https://arstechnica.com/security/2024/10/fortinet-stays-mum-on-critical-0-day-reportedly-under-active-exploitation/</guid>
-      <pubDate>Tue, 22 Oct 2024 19:49:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
