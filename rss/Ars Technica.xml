@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 24 Oct 2024 13:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 16:17:31 GMT</lastBuildDate>
+    <item>
+      <title>谷歌将其 AI 水印技术作为免费开源工具包提供</title>
+      <link>https://arstechnica.com/ai/2024/10/google-offers-its-ai-watermarking-tech-as-free-open-source-toolkit/</link>
+      <description><![CDATA[SynthID 提供了一种隐藏的方法来将 LLM 输出标记为人造的。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/google-offers-its-ai-watermarking-tech-as-free-open-source-toolkit/</guid>
+      <pubDate>Thu, 24 Oct 2024 14:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>当核糖体失控时</title>
+      <link>https://arstechnica.com/science/2024/10/when-ribosomes-go-rogue/</link>
+      <description><![CDATA[细胞蛋白质工厂的异常变异可能会影响发育、促进癌症扩散等。但科学家表示，核糖体多样性也可能发挥生物学作用。]]></description>
+      <guid>https://arstechnica.com/science/2024/10/when-ribosomes-go-rogue/</guid>
+      <pubDate>Thu, 24 Oct 2024 13:41:09 GMT</pubDate>
+    </item>
     <item>
       <title>手机位置追踪已失控。以下是反击方法。</title>
       <link>https://arstechnica.com/information-technology/2024/10/phone-tracking-tool-lets-government-agencies-follow-your-every-move/</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 23 Oct 2024 22:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>诉讼称导致青少年自杀的聊天机器人现在对孩子来说更加危险</title>
+      <title>诉讼：涉嫌导致青少年自杀的聊天机器人现在对孩子更加危险</title>
       <link>https://arstechnica.com/tech-policy/2024/10/chatbots-posed-as-therapist-and-adult-lover-in-teen-suicide-case-lawsuit-says/</link>
       <description><![CDATA[谷歌资助的 Character.AI 增加了护栏，但悲痛的妈妈要求召回。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/10/chatbots-posed-as-therapist-and-adult-lover-in-teen-suicide-case-lawsuit-says/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[海鹰队球员对于被 Instagram 截图并不感到羞耻。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/nfl-player-illegally-streams-his-own-teams-game-garners-mostly-sympathy/</guid>
       <pubDate>Wed, 23 Oct 2024 18:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>报道：Arm取消高通架构许可，危及其芯片业务</title>
-      <link>https://arstechnica.com/gadgets/2024/10/report-arm-cancels-qualcomms-architecture-license-endangering-its-chip-business/</link>
-      <description><![CDATA[争议可以追溯到 2021 年高通对 Nuvia 的收购。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/report-arm-cancels-qualcomms-architecture-license-endangering-its-chip-business/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:42:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧金山将斥资 2.12 亿美元终止对 5.25 英寸软盘的依赖</title>
-      <link>https://arstechnica.com/gadgets/2024/10/212-million-contract-will-finally-get-san-francisco-trains-off-floppy-disks/</link>
-      <description><![CDATA[Muni Metro 还计划放弃超慢速环路有线通信系统。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/212-million-contract-will-finally-get-san-francisco-trains-off-floppy-disks/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:36:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
