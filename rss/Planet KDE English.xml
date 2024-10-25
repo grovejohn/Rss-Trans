@@ -4,7 +4,21 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 25 Oct 2024 14:39:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 20:38:05 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-43 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/10/25/web-review-week-2024-43/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/10/25/web-review-week-2024-43/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 25 Oct 2024 20:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计系统——颜色、变量和标记！</title>
+      <link>https://anditosan.wordpress.com/2024/10/25/design-system-colors-variables-and-tokens/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://anditosan.wordpress.com/2024/10/25/design-system-colors-variables-and-tokens/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 25 Oct 2024 18:54:36 GMT</pubDate>
+    </item>
     <item>
       <title>Calamares 面向 3.3.11</title>
       <link>https://euroquis.nl//calamares/2024/10/24/calamares.html?utm_source=atom_feed</link>
@@ -115,50 +129,6 @@ Kdenlive 24.08.2 已发布，修复了大量错误和回归问题。
 如有任何问题或疑虑，请随时联系我们！我们在此帮助您组织一场成功的活动，并为您提供所需的任何建议、指导或帮助。让我们共同努力，让 Akademy 2025 成为一场值得纪念的活动。]]></description>
       <guid>https://akademy.kde.org/news/2024-10_akademy-2025-call-for-hosts/?utm_source=atom_feed</guid>
       <pubDate>Mon, 21 Oct 2024 07:55:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>氧气图标 6.1.0</title>
-      <link>https://blogs.kde.org/2024/10/21/oxygen-icons-6.1.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Oxygen Icons 6.1.0 是 Oxygen Icon 集的一个功能版本。
-它具有新的 SVG 符号图标，可用于 Plasma Applet。
-它还具有改进的图标主题兼容性、修复的可见性和添加的 mimetype 链接。
-
-
-
-URL： https://download.kde.org/stable/oxygen-icons/
-来源：oxygen-icons-6.1.0.tar.xz
-SHA256： 16ca971079c5067c4507cabf1b619dc87dd6b326fd5c2dd9f5d43810f2174d68
-签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
-https://jriddell.org/jriddell.pgp]]></description>
-      <guid>https://blogs.kde.org/2024/10/21/oxygen-icons-6.1.0/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSoC'24 Okular | 即将结束</title>
-      <link>https://prathamgandhi.github.io/posts/gsoc24-update4/?utm_source=atom_feed</link>
-      <description><![CDATA[大家好！抱歉，距离我上次发帖已经过去了很长时间。无论是个人生活还是职业方面，都发生了很多事情——我找到了一份新工作并搬迁了，这导致我延长了 GSoC 截止日期以完成剩余的任务。我很高兴地告诉大家，我现在已经完成了所有工作，并且与我的 GSoC 工作相关的所有待处理 MR 都已合并。以下是简要概述：
-MR 已合并：
-
-在 Okular 中重置表单实现：Okular 现在具有表单重置功能，允许您清除字段或将其恢复为默认值。 !MR1007
-支持 MouseDown、MouseEnter 和 MouseExit 事件：现在触发这些鼠标事件时会生成相应的事件对象。 !MR994
-组合框支持按键、验证、计算和格式化事件：组合框以前不会触发这些基本事件。此 MR 增加了对它们的支持。 !MR1027
-修复文本表单字段事件的执行顺序：按键、验证、计算和格式化操作并不总是按正确的顺序执行，尤其是在撤消/重做或通过 JavaScript 修改时。此 MR 修复了这个问题，并确保仅在提交字段值时触发 KVCF 操作，从而提高了键盘的可用性。!MR1002
-支持修改表单字段选择中的外观流文本 (Poppler)：添加了修改表单字段中的外观流文本而不更改其实际值的功能。 !MR1590
-SubmitForm 功能 (Poppler)：已向 Poppler 添加了读取 SubmitForm 操作的支持。虽然 Okular 尚未实现实际的提交流程，但这为未来的集成奠定了基础。 !MR1579
-
-未来范围：
-尽管在 GSoC’24 期间取得了很大进展，但 Okular 的 PDF 表单功能仍有许多可以扩展的领域：
-
-Okular 中表单的实际提交可以基于 Poppler 现在支持的 SubmitForm 操作构建。
-在 ListBox 中添加对 SelectionChange 事件的支持将增强其交互性。
-可以为 CheckBox、ComboBox 和 ListBox 实现其他功能，例如以编程方式检查项目、清除、删除、插入和设置项目。其中一些更改还需要更新 Poppler。
-改进表单字段的键盘导航可以进一步提高可访问性和易用性。
-
-结论：
-与 KDE 一起参与 GSoC 并为 Okular 做出贡献是一次令人难以置信的学习经历，我为所做的贡献感到自豪。非常感谢我的导师 Albert Astals Cid，感谢他在我的所有错误中给予的持续支持、指导和耐心。特别感谢 Sune Vuorela 的评论和见解，帮助我学到了很多东西，也感谢 KDE Mentorship 和 GSoC 团队间接但无价的帮助。我期待着继续我的 KDE 之旅。
-下次见。干杯！]]></description>
-      <guid>https://prathamgandhi.github.io/posts/gsoc24-update4/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 20 Oct 2024 17:35:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
