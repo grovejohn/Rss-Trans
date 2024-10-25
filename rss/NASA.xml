@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 25 Oct 2024 14:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 15:15:51 GMT</lastBuildDate>
+    <item>
+      <title>活动详情</title>
+      <link>https://www.nasa.gov/general/event-details/</link>
+      <description><![CDATA[下一次私人 CSUG 活动将于 11 月 6 日至 7 日在马里兰州格林贝尔特的 NASA 戈达德太空飞行中心举行。在整个 CSUG 期间，NASA 空间通信和导航计划的代表和 CSP 的行业合作伙伴将分享商业 SATCOM 能力发展的最新情况以及 CSP 下的商业服务演示。CSUG […]]]></description>
+      <guid>https://www.nasa.gov/general/event-details/</guid>
+      <pubDate>Fri, 25 Oct 2024 14:53:39 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局斯坦尼斯号在为未来的阿尔特弥斯测试做准备方面取得里程碑式进展</title>
       <link>https://www.nasa.gov/news-release/stennis-achieves-milestone-preparing-for-future-artemis-testing/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>险恶太阳系</title>
       <link>https://science.nasa.gov/solar-system/sinister-solar-system/</link>
-      <description><![CDATA[我们的宇宙充满了神秘的景象。探索我们在过去的万圣节发现的一些最可怕的东西。]]></description>
+      <description><![CDATA[我们的宇宙充满了神秘的景象和声音。探索我们在过去的万圣节发现的一些最可怕的东西。]]></description>
       <guid>https://science.nasa.gov/solar-system/sinister-solar-system/</guid>
       <pubDate>Thu, 24 Oct 2024 23:17:25 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[自 2014 年推出以来，物理科学信息学 (PSI) 系统一直是 NASA 的物理科学数据在线存储库。现在，PSI 系统已上线，并进行了新的更新，以进一步符合 NASA 的开放数据政策。这是五年多以来的首次重大更新，数据存储库已完全重新设计，具有 […]]]></description>
       <guid>https://science.nasa.gov/science-research/psi-database-is-live-with-new-features-to-improve-user-experience/</guid>
       <pubDate>Thu, 24 Oct 2024 18:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>北方博物馆的教育者之夜：在费尔班克斯教室里激活科学</title>
-      <link>https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/</link>
-      <description><![CDATA[美国宇航局太阳物理学教育激活团队 (NASA HEAT) 于 10 月初在阿拉斯加大学北方博物馆年度教育者之夜上着手在费尔班克斯教室激活科学。这个免费的秋季学期活动向教育工作者和学校工作人员介绍了各种资源和联系，将与会者与资源和大学部门联系起来 […]]]></description>
-      <guid>https://science.nasa.gov/learning-resources/science-activation/educator-night-at-the-museum-of-the-north-activating-science-in-fairbanks-classrooms/</guid>
-      <pubDate>Thu, 24 Oct 2024 17:21:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
