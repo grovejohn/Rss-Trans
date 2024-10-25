@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 25 Oct 2024 18:20:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 19:36:15 GMT</lastBuildDate>
     <item>
-      <title>麦当劳疫情病例增至 75 例；新增 12 例住院病例，新增 3 个州</title>
+      <title>恼怒的 Reddit 用户对谷歌搜索结果的拖累说明了人工智能抓取工具的危险</title>
+      <link>https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws/</link>
+      <description><![CDATA[Redditor 表示：“传播错误信息突然间就成了一个崇高的目标。”]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws/</guid>
+      <pubDate>Fri, 25 Oct 2024 18:29:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>麦当劳大肠杆菌疫情 3 天内增长 50%，诉讼不断增加</title>
       <link>https://arstechnica.com/health/2024/10/mcdonalds-outbreak-rises-to-75-cases-12-new-hospitalizations-3-new-states/</link>
       <description><![CDATA[疾病预防控制中心认为目前风险较低，但病例可能继续上升。]]></description>
       <guid>https://arstechnica.com/health/2024/10/mcdonalds-outbreak-rises-to-75-cases-12-new-hospitalizations-3-new-states/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[当你的旧 PC 跌破 Windows 10 更新悬崖时，Windows 11 可以拯救它吗？]]></description>
       <guid>https://arstechnica.com/gadgets/2024/10/what-i-learned-from-3-years-of-running-windows-11-on-unsupported-pcs/</guid>
       <pubDate>Fri, 25 Oct 2024 10:45:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的 DeepMind 正在开发一种人工智能，以防止我们互相仇恨</title>
-      <link>https://arstechnica.com/ai/2024/10/googles-deepmind-is-building-an-ai-to-keep-us-from-hating-each-other/</link>
-      <description><![CDATA[在让人们达成协议方面，人工智能比专业调解员做得更好。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/googles-deepmind-is-building-an-ai-to-keep-us-from-hating-each-other/</guid>
-      <pubDate>Thu, 24 Oct 2024 23:36:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
