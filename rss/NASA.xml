@@ -4,13 +4,20 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 25 Oct 2024 17:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 17:38:01 GMT</lastBuildDate>
     <item>
       <title>ER-2 高空飞行获取地面数据</title>
       <link>https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/</link>
       <description><![CDATA[美国宇航局的 ER-2 飞机在地球大气层 99% 以上的高度运行，是该机构飞行高度最高的空中科学平台。凭借其独特的 65,000 英尺高空观测能力，ER-2 飞机经常成为地球科学的平台，为我们提供有关地球的新信息和关键信息，尤其是当飞机处于 […]]]></description>
       <guid>https://www.nasa.gov/centers-and-facilities/armstrong/high-altitude-er-2-flights-get-down-to-earth-data/</guid>
       <pubDate>Fri, 25 Oct 2024 16:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>活动详情</title>
+      <link>https://www.nasa.gov/general/event-details/</link>
+      <description><![CDATA[下一次 CSUG 活动将于 11 月 6 日至 7 日在马里兰州格林贝尔特的 NASA 戈达德太空飞行中心举行。在整个 CSUG 期间，NASA 空间通信和导航计划的代表和 CSP 的行业合作伙伴将分享商业 SATCOM 能力发展的最新情况以及 CSP 下进行的商业服务演示。NASA 与会者必须 […]]]></description>
+      <guid>https://www.nasa.gov/general/event-details/</guid>
+      <pubDate>Fri, 25 Oct 2024 14:53:39 GMT</pubDate>
     </item>
     <item>
       <title>美国宇航局斯坦尼斯号在为未来的阿尔特弥斯测试做准备方面取得里程碑式进展</title>
@@ -36,7 +43,7 @@
     <item>
       <title>险恶太阳系</title>
       <link>https://science.nasa.gov/solar-system/sinister-solar-system/</link>
-      <description><![CDATA[我们的宇宙充满了神秘的景象和声音。探索我们在过去的万圣节发现的一些最可怕的东西。]]></description>
+      <description><![CDATA[我们的宇宙充满了神秘的景象和声音。探索过去万圣节的一些最可怕的发现。太阳系的险恶声音你以前听过来自我们宇宙的可怕声音吗？利用来自我们航天器的数据，科学家收集了来自太空深处的险恶声音。收听我们的播放列表，其中包含 […]]]></description>
       <guid>https://science.nasa.gov/solar-system/sinister-solar-system/</guid>
       <pubDate>Thu, 24 Oct 2024 23:17:25 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[听听首席人工智能官 Dave Salvagnini 代表 NASA 参加联邦行政论坛网络研讨会，主题为“政府进​​步中的人工智能战略和 2024 年最佳实践”。本次讨论由美国国税局、国家卫生信息技术协调员办公室、Red Hat、Deloitte 和 Pure Storage 的首席人工智能官和技术专家参加，讨论内容涵盖当前 […]]]></description>
       <guid>https://www.nasa.gov/organizations/ocio/dt/ai/nasa-chief-ai-officer-on-the-federal-executive-forum-how-agencies-are-strategizing-about-ai/</guid>
       <pubDate>Thu, 24 Oct 2024 18:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSI 数据库上线新功能以提升用户体验</title>
-      <link>https://science.nasa.gov/science-research/psi-database-is-live-with-new-features-to-improve-user-experience/</link>
-      <description><![CDATA[自 2014 年推出以来，物理科学信息学 (PSI) 系统一直是 NASA 的物理科学数据在线存储库。现在，PSI 系统已上线，并进行了新的更新，以进一步符合 NASA 的开放数据政策。这是五年多以来的首次重大更新，数据存储库已完全重新设计，具有 […]]]></description>
-      <guid>https://science.nasa.gov/science-research/psi-database-is-live-with-new-features-to-improve-user-experience/</guid>
-      <pubDate>Thu, 24 Oct 2024 18:28:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
