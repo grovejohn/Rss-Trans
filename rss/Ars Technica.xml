@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 25 Oct 2024 19:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 21:38:28 GMT</lastBuildDate>
+    <item>
+      <title>备受喜爱的 IDE Jetbrains Rider 将首次免费提供</title>
+      <link>https://arstechnica.com/gadgets/2024/10/for-the-first-time-beloved-ide-jetbrains-rider-will-be-available-for-free/</link>
+      <description><![CDATA[除此之外，它还可以填补 Visual Studio 放弃 macOS 后留下的空白。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/for-the-first-time-beloved-ide-jetbrains-rider-will-be-available-for-free/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:27:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克为什么要与弗拉基米尔·普京对话，这对 SpaceX 意味着什么？</title>
+      <link>https://arstechnica.com/space/2024/10/why-is-elon-musk-talking-to-vladimir-putin-and-what-does-it-mean-for-spacex/</link>
+      <description><![CDATA[美国宇航局局长表示应该调查 SpaceX 首席执行官与普京之间的关系。]]></description>
+      <guid>https://arstechnica.com/space/2024/10/why-is-elon-musk-talking-to-vladimir-putin-and-what-does-it-mean-for-spacex/</guid>
+      <pubDate>Fri, 25 Oct 2024 19:47:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国版权局“释放麦旋风”，允许维修冰淇淋机</title>
+      <link>https://arstechnica.com/tech-policy/2024/10/us-copyright-office-frees-the-mcflurry-allowing-repair-of-ice-cream-machines/</link>
+      <description><![CDATA[软冰淇淋机获得了 DMCA 规避规则的不完全豁免。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/10/us-copyright-office-frees-the-mcflurry-allowing-repair-of-ice-cream-machines/</guid>
+      <pubDate>Fri, 25 Oct 2024 19:37:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子游戏图书馆失去法律吸引力，无法在线模拟实体游戏收藏</title>
+      <link>https://arstechnica.com/gaming/2024/10/copyright-office-libraries-cant-share-remotely-emulated-versions-of-physical-games/</link>
+      <description><![CDATA[版权局支持业界关于重新发行游戏的“市场损害”论点。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/10/copyright-office-libraries-cant-share-remotely-emulated-versions-of-physical-games/</guid>
+      <pubDate>Fri, 25 Oct 2024 19:25:44 GMT</pubDate>
+    </item>
     <item>
       <title>恼怒的 Reddit 用户对谷歌搜索结果的拖累说明了人工智能抓取工具的危险</title>
       <link>https://arstechnica.com/gadgets/2024/10/fake-restaurant-tips-on-reddit-a-reminder-of-google-ai-overviews-inherent-flaws/</link>
@@ -46,34 +74,6 @@
       <description><![CDATA[这位“健康人”可能有着蓝眼睛、金色或浅棕色头发，来自挪威南部。]]></description>
       <guid>https://arstechnica.com/science/2024/10/ancient-dna-sheds-light-on-well-man-from-norse-saga/</guid>
       <pubDate>Fri, 25 Oct 2024 15:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌、微软和 Perplexity 在 AI 搜索结果中宣扬科学种族主义</title>
-      <link>https://arstechnica.com/ai/2024/10/google-microsoft-and-perplexity-promote-scientific-racism-in-ai-search-results/</link>
-      <description><![CDATA[人工智能搜索引擎正在揭露极具种族主义色彩的、被揭穿的研究。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/google-microsoft-and-perplexity-promote-scientific-racism-in-ai-search-results/</guid>
-      <pubDate>Fri, 25 Oct 2024 13:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>《辐射：伦敦》是一款大型《辐射 4》模组，现已开放游玩，值得一玩</title>
-      <link>https://arstechnica.com/gaming/2024/10/fallout-london-is-a-huge-fallout-4-mod-that-is-now-playable-and-worth-playing/</link>
-      <description><![CDATA[现在是时候检查一下《辐射 4》的免费完全转换了。]]></description>
-      <guid>https://arstechnica.com/gaming/2024/10/fallout-london-is-a-huge-fallout-4-mod-that-is-now-playable-and-worth-playing/</guid>
-      <pubDate>Fri, 25 Oct 2024 11:30:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭报道：新格伦火箭业务端一探究竟；法国将发射 FROG 火箭</title>
-      <link>https://arstechnica.com/space/2024/10/rocket-report-sneak-peek-at-the-business-end-of-new-glenn-france-to-fly-frog/</link>
-      <description><![CDATA[“飞行器的最大设计万向节状态是在上升过程中，此时它必须对抗高空风。”]]></description>
-      <guid>https://arstechnica.com/space/2024/10/rocket-report-sneak-peek-at-the-business-end-of-new-glenn-france-to-fly-frog/</guid>
-      <pubDate>Fri, 25 Oct 2024 11:00:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在“不受支持”的 PC 上运行 Windows 11 三年的经验教训</title>
-      <link>https://arstechnica.com/gadgets/2024/10/what-i-learned-from-3-years-of-running-windows-11-on-unsupported-pcs/</link>
-      <description><![CDATA[当你的旧 PC 跌破 Windows 10 更新悬崖时，Windows 11 可以拯救它吗？]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/what-i-learned-from-3-years-of-running-windows-11-on-unsupported-pcs/</guid>
-      <pubDate>Fri, 25 Oct 2024 10:45:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
