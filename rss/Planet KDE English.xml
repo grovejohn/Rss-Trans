@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 25 Oct 2024 20:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 06:42:24 GMT</lastBuildDate>
+    <item>
+      <title>本周等离子：全屏幕，全天候</title>
+      <link>https://pointieststick.com/2024/10/26/this-week-in-plasma-all-screens-all-the-time/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2024/10/26/this-week-in-plasma-all-screens-all-the-time/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 26 Oct 2024 06:10:07 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-43 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/10/25/web-review-week-2024-43/?utm_source=atom_feed</link>
@@ -120,15 +127,6 @@ Kdenlive 24.08.2 已发布，修复了大量错误和回归问题。
 文章Kdenlive 24.08.2 发布首先出现在Kdenlive上。]]></description>
       <guid>https://kdenlive.org/en/2024/10/kdenlive-24-08-2-released/?utm_source=atom_feed</guid>
       <pubDate>Mon, 21 Oct 2024 10:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 2025 主办方招募</title>
-      <link>https://akademy.kde.org/news/2024-10_akademy-2025-call-for-hosts/?utm_source=atom_feed</link>
-      <description><![CDATA[如果您想以重要方式（除编码之外）为 KDE 做出贡献，那么这就是您的机会 — 帮助我们组织 Akademy 2025！
-我们正在为 Akademy 2025 寻找主办方，该活动将于 6 月、7 月、8 月或 9 月举行。这是您将 KDE 最大的活动带到您所在城市的机会！下载“征集主办方”指南，并在 2024 年 12 月 1 日之前将您的提案提交至 akademy-proposals@kde.org。
-如有任何问题或疑虑，请随时联系我们！我们在此帮助您组织一场成功的活动，并为您提供所需的任何建议、指导或帮助。让我们共同努力，让 Akademy 2025 成为一场值得纪念的活动。]]></description>
-      <guid>https://akademy.kde.org/news/2024-10_akademy-2025-call-for-hosts/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 21 Oct 2024 07:55:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
