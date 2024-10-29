@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 28 Oct 2024 23:15:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 03:44:12 GMT</lastBuildDate>
+    <item>
+      <title>出于某种原因，NASA 将猎户座的隔热罩问题视为秘密</title>
+      <link>https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/</link>
+      <description><![CDATA[“我现在不会分享。等事情真相大白时，一切都会水落石出。”]]></description>
+      <guid>https://arstechnica.com/space/2024/10/for-some-reason-nasa-is-treating-orions-heat-shield-problems-as-a-secret/</guid>
+      <pubDate>Tue, 29 Oct 2024 01:44:50 GMT</pubDate>
+    </item>
     <item>
       <title>激光雷达测绘揭示丝绸之路沿线的中世纪山区城市</title>
       <link>https://arstechnica.com/science/2024/10/lidar-mapping-reveals-mountainous-medieval-cities-along-the-silk-road/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[调查发现，OpenAI 的 Whisper 工具可能会在医疗记录中添加虚假文本。]]></description>
       <guid>https://arstechnica.com/ai/2024/10/hospitals-adopt-error-prone-ai-transcription-tools-despite-warnings/</guid>
       <pubDate>Mon, 28 Oct 2024 18:23:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>警方警告：不要陷入克隆警察声音的人工智能骗局</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/ai-scam-cloned-police-chiefs-voice-spurring-alarm-from-cops/</link>
-      <description><![CDATA[受害者警告说，冒充警察的人工智能骗子听起来“可怕”而且“真实”。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/ai-scam-cloned-police-chiefs-voice-spurring-alarm-from-cops/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:08:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
