@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 30 Oct 2024 20:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 21:14:44 GMT</lastBuildDate>
+    <item>
+      <title>苹果的 M4、M4 Pro 和 M4 Max 与前几代产品的比较以及相互之间的比较</title>
+      <link>https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/</link>
+      <description><![CDATA[M4 和 M4 Pro 的核心数量有所增加；M4 Max 则依赖于架构的改进。]]></description>
+      <guid>https://arstechnica.com/apple/2024/10/apples-m4-m4-pro-and-m4-max-compared-to-past-generations-and-to-each-other/</guid>
+      <pubDate>Wed, 30 Oct 2024 20:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dropbox 裁员 20%，称其投资过多且表现不佳</title>
+      <link>https://arstechnica.com/information-technology/2024/10/dropbox-lays-off-528-employees-slashing-total-workforce-by-20-percent/</link>
+      <description><![CDATA[Dropbox 去年也裁员 500 人，但仍然存在“过多的管理层级”。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/10/dropbox-lays-off-528-employees-slashing-total-workforce-by-20-percent/</guid>
+      <pubDate>Wed, 30 Oct 2024 20:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>拦截银行语音通话的 Android 木马病毒变得更加隐秘</title>
+      <link>https://arstechnica.com/information-technology/2024/10/android-trojan-that-intercepts-voice-calls-to-banks-just-got-more-stealthy/</link>
+      <description><![CDATA[FakeCall 恶意软件可以将打给银行的电话重新路由到攻击者控制的号码。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/10/android-trojan-that-intercepts-voice-calls-to-banks-just-got-more-stealthy/</guid>
+      <pubDate>Wed, 30 Oct 2024 19:59:03 GMT</pubDate>
+    </item>
     <item>
       <title>小唐尼计划对抗死后人工智能的再创造</title>
       <link>https://arstechnica.com/ai/2024/10/robert-downey-jr-vows-legal-action-against-future-ai-replica-use/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[本周，所有基础款 Mac 的内存都从 8GB 增加到了 16GB，无论是否配备新处理器。]]></description>
       <guid>https://arstechnica.com/apple/2024/10/theres-no-m4-macbook-air-this-week-but-the-8gb-m2-and-m3-models-are-going-away/</guid>
       <pubDate>Wed, 30 Oct 2024 15:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代发布三排座椅 Ioniq 9 电动 SUV</title>
-      <link>https://arstechnica.com/uncategorized/2024/10/hyundai-teases-a-three-row-ioniq-9-electric-suv/</link>
-      <description><![CDATA[Ioniq 9 将于 11 月正式发布。]]></description>
-      <guid>https://arstechnica.com/uncategorized/2024/10/hyundai-teases-a-three-row-ioniq-9-electric-suv/</guid>
-      <pubDate>Wed, 30 Oct 2024 15:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果用 M4 芯片更新 MacBook Pro 产品线，推出 M4 Max</title>
-      <link>https://arstechnica.com/apple/2024/10/apple-refreshes-macbook-pro-lineup-with-m4-chips-introduces-the-m4-max/</link>
-      <description><![CDATA[更大的内存和更好的显示支持使售价 1,599 美元的 Pro 更具吸引力。]]></description>
-      <guid>https://arstechnica.com/apple/2024/10/apple-refreshes-macbook-pro-lineup-with-m4-chips-introduces-the-m4-max/</guid>
-      <pubDate>Wed, 30 Oct 2024 15:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能和云计算助力 Alphabet 利润增长 34%</title>
-      <link>https://arstechnica.com/gadgets/2024/10/ai-cloud-boost-alphabet-profits-by-34-percent/</link>
-      <description><![CDATA[谷歌的云计算业务仍然远远落后于微软和亚马逊。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/10/ai-cloud-boost-alphabet-profits-by-34-percent/</guid>
-      <pubDate>Wed, 30 Oct 2024 13:37:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
