@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 30 Oct 2024 01:11:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 12:31:02 GMT</lastBuildDate>
+    <item>
+      <title>令人悲伤又奇怪的炒作故事引发人们对现代密码学被淘汰的担忧</title>
+      <link>https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/</link>
+      <description><![CDATA[这一进展充其量只是一点点。那么为什么这么多人认为这是一个突破呢？]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/</guid>
+      <pubDate>Wed, 30 Oct 2024 11:00:32 GMT</pubDate>
+    </item>
     <item>
       <title>这些黄蜂分解酒精的速度非常快，所以它们不会喝醉</title>
       <link>https://arstechnica.com/science/2024/10/these-hornets-break-down-alcohol-so-fast-that-they-cant-get-drunk/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[蓬松的牛轧糖和耐嚼的焦糖是怎样制作的。]]></description>
       <guid>https://arstechnica.com/health/2024/10/the-science-behind-the-candy-bars-we-gorge-on-every-halloween/</guid>
       <pubDate>Tue, 29 Oct 2024 14:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在不改变碱基序列的情况下将数据写入 DNA？</title>
-      <link>https://arstechnica.com/science/2024/10/how-can-you-write-data-to-dna-without-changing-the-base-sequence/</link>
-      <description><![CDATA[一种新方法可以让任何人凭借某种试剂盒仅用一种酶就将数据写入 DNA。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/how-can-you-write-data-to-dna-without-changing-the-base-sequence/</guid>
-      <pubDate>Tue, 29 Oct 2024 14:32:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
