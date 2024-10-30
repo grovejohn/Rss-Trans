@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 30 Oct 2024 08:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 14:40:23 GMT</lastBuildDate>
     <item>
       <title></title>
       <link>http://www.thelins.se/johan/blog/2024/10/1536/?utm_source=atom_feed</link>
@@ -57,7 +57,7 @@ https://jriddell.org/jriddell.pgp]]></description>
       <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>警告：Android 上的 Krita 5.2.6 测试版目前已损坏</title>
+      <title>警告：Android 版 Krita 5.2.6 测试版目前已损坏</title>
       <link>https://krita.org/en/posts/2024/5.6.2-android-warning/?utm_source=atom_feed</link>
       <description><![CDATA[在我们的 Android/ChromeOS 测试版程序中发布最新版本的 Krita 时，我们发现存在一个可能导致 Krita 无法启动的问题，但为时已晚。
 由于 Google Play 商店控制台不允许将版本恢复到早期版本，因此我们正在紧急修复该问题，并将尽快发布。
