@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 30 Oct 2024 15:39:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 16:19:49 GMT</lastBuildDate>
+    <item>
+      <title>谷歌首席执行官表示，超过 25% 的新谷歌代码是由人工智能生成的</title>
+      <link>https://arstechnica.com/ai/2024/10/google-ceo-says-over-25-of-new-google-code-is-generated-by-ai/</link>
+      <description><![CDATA[我们一直使用工具来构建新工具，开发人员使用人工智能也延续了这一传统。]]></description>
+      <guid>https://arstechnica.com/ai/2024/10/google-ceo-says-over-25-of-new-google-code-is-generated-by-ai/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:50:50 GMT</pubDate>
+    </item>
     <item>
       <title>ULA 在研究 Vulcan 助推器异常的同时，也在调查整流罩问题</title>
       <link>https://arstechnica.com/space/2024/10/while-ula-studies-vulcan-booster-anomaly-its-also-investigating-fairing-issues/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该消息引发外界猜测微软将与其他 AI 产品一起采用多模型。]]></description>
       <guid>https://arstechnica.com/ai/2024/10/github-copilot-moves-beyond-openai-models-to-support-claude-3-5-gemini/</guid>
       <pubDate>Tue, 29 Oct 2024 21:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ars 重新设计 9.0.2 带来了您要求的文本选项</title>
-      <link>https://arstechnica.com/staff/2024/10/the-ars-redesign-9-0-2-brings-the-text-options-youve-requested/</link>
-      <description><![CDATA[宽模式、字体大小控制、超链接颜色等等！]]></description>
-      <guid>https://arstechnica.com/staff/2024/10/the-ars-redesign-9-0-2-brings-the-text-options-youve-requested/</guid>
-      <pubDate>Tue, 29 Oct 2024 21:08:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
