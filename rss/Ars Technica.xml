@@ -4,16 +4,51 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 30 Oct 2024 13:41:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 15:39:21 GMT</lastBuildDate>
     <item>
-      <title>随着年底期限的临近，新格伦火箭驶向发射台</title>
+      <title>ULA 在研究 Vulcan 助推器异常的同时，也在调查整流罩问题</title>
+      <link>https://arstechnica.com/space/2024/10/while-ula-studies-vulcan-booster-anomaly-its-also-investigating-fairing-issues/</link>
+      <description><![CDATA[“我们已经采取了一些纠正措施并对硬件进行了额外的检查。”]]></description>
+      <guid>https://arstechnica.com/space/2024/10/while-ula-studies-vulcan-booster-anomaly-its-also-investigating-fairing-issues/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:13:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>M2 和 M3 MacBook Air 型号可免费升级至 16GB RAM</title>
+      <link>https://arstechnica.com/apple/2024/10/theres-no-m4-macbook-air-this-week-but-the-8gb-m2-and-m3-models-are-going-away/</link>
+      <description><![CDATA[本周，所有基础款 Mac 的内存都从 8GB 增加到了 16GB，无论是否配备新处理器。]]></description>
+      <guid>https://arstechnica.com/apple/2024/10/theres-no-m4-macbook-air-this-week-but-the-8gb-m2-and-m3-models-are-going-away/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代发布三排座椅 Ioniq 9 电动 SUV</title>
+      <link>https://arstechnica.com/uncategorized/2024/10/hyundai-teases-a-three-row-ioniq-9-electric-suv/</link>
+      <description><![CDATA[Ioniq 9 将于 11 月正式发布。]]></description>
+      <guid>https://arstechnica.com/uncategorized/2024/10/hyundai-teases-a-three-row-ioniq-9-electric-suv/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:00:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果用 M4 芯片更新 MacBook Pro 产品线，推出 M4 Max</title>
+      <link>https://arstechnica.com/apple/2024/10/apple-refreshes-macbook-pro-lineup-with-m4-chips-introduces-the-m4-max/</link>
+      <description><![CDATA[更大的内存和更好的显示支持使售价 1,599 美元的 Pro 更具吸引力。]]></description>
+      <guid>https://arstechnica.com/apple/2024/10/apple-refreshes-macbook-pro-lineup-with-m4-chips-introduces-the-m4-max/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:00:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能和云计算助力 Alphabet 利润增长 34%</title>
+      <link>https://arstechnica.com/gadgets/2024/10/ai-cloud-boost-alphabet-profits-by-34-percent/</link>
+      <description><![CDATA[谷歌的云计算业务仍然远远落后于微软和亚马逊。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/10/ai-cloud-boost-alphabet-profits-by-34-percent/</guid>
+      <pubDate>Wed, 30 Oct 2024 13:37:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>新格伦火箭的第一级是真实的，而且非常壮观</title>
       <link>https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/</link>
       <description><![CDATA[接下来是对大型火箭进行热火测试。]]></description>
       <guid>https://arstechnica.com/space/2024/10/new-glenn-rolls-to-the-launch-pad-as-end-of-year-deadline-approaches/</guid>
       <pubDate>Wed, 30 Oct 2024 13:09:45 GMT</pubDate>
     </item>
     <item>
-      <title>令人悲伤又奇怪的炒作故事引发人们对现代密码学被淘汰的担忧</title>
+      <title>这是一篇在宣告现代密码学消亡之前无人阅读的论文</title>
       <link>https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/</link>
       <description><![CDATA[这一进展充其量只是一点点。那么为什么这么多人认为这是一个突破呢？]]></description>
       <guid>https://arstechnica.com/information-technology/2024/10/the-sad-bizarre-tale-of-hype-fueling-fears-that-modern-cryptography-is-dead/</guid>
@@ -39,41 +74,6 @@
       <description><![CDATA[宽模式、字体大小控制、超链接颜色等等！]]></description>
       <guid>https://arstechnica.com/staff/2024/10/the-ars-redesign-9-0-2-brings-the-text-options-youve-requested/</guid>
       <pubDate>Tue, 29 Oct 2024 21:08:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>“冲击打印”是 3D 打印结构的无水泥替代品</title>
-      <link>https://arstechnica.com/science/2024/10/impact-printing-is-a-cement-free-alternative-to-3d-printed-structures/</link>
-      <description><![CDATA[冲击打印采用高速材料喷射，将其融合成某种结构。]]></description>
-      <guid>https://arstechnica.com/science/2024/10/impact-printing-is-a-cement-free-alternative-to-3d-printed-structures/</guid>
-      <pubDate>Tue, 29 Oct 2024 20:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>TSA 对 CrowdStrike 的说法保持沉默，达美航空未按要求进行安全更新</title>
-      <link>https://arstechnica.com/tech-policy/2024/10/crowdstrike-accuses-delta-of-blaming-its-own-it-failures-on-global-outage/</link>
-      <description><![CDATA[CrowdStrike 和 Delta 的法律战已开始。微软会是下一个被起诉的对象吗？]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/10/crowdstrike-accuses-delta-of-blaming-its-own-it-failures-on-global-outage/</guid>
-      <pubDate>Tue, 29 Oct 2024 19:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>《纽约时报》如何使用生成式人工智能作为报道工具</title>
-      <link>https://arstechnica.com/ai/2024/10/the-new-york-times-shows-how-ai-can-aid-reporters-without-replacing-them/</link>
-      <description><![CDATA[法学硕士帮助记者转录和整理数百小时的泄露音频。]]></description>
-      <guid>https://arstechnica.com/ai/2024/10/the-new-york-times-shows-how-ai-can-aid-reporters-without-replacing-them/</guid>
-      <pubDate>Tue, 29 Oct 2024 18:19:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polestar 称，对中国技术的禁令范围如此广泛，美国制造的汽车将被禁</title>
-      <link>https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/</link>
-      <description><![CDATA[Polestar表示，其决策者在瑞典，该公司在纳斯达克上市。]]></description>
-      <guid>https://arstechnica.com/cars/2024/10/ban-on-chinese-tech-so-broad-us-made-cars-would-be-blocked-polestar-says/</guid>
-      <pubDate>Tue, 29 Oct 2024 15:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>苹果 14 年来首次重新设计 Mac mini，外形就像一台铝制大 Apple TV</title>
-      <link>https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/</link>
-      <description><![CDATA[较小的迷你版失去了一些端口但获得了大量其他功能更新。]]></description>
-      <guid>https://arstechnica.com/apple/2024/10/apples-first-mac-mini-redesign-in-14-years-looks-like-a-big-aluminum-apple-tv/</guid>
-      <pubDate>Tue, 29 Oct 2024 15:00:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
