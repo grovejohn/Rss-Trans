@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 31 Oct 2024 08:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 14:40:03 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 15 Beta2 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-15-beta2-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 15 Beta2 现已发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-15-beta2-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 31 Oct 2024 12:55:04 GMT</pubDate>
+    </item>
     <item>
       <title>CXX-Qt 0.7 发布</title>
       <link>https://www.kdab.com/cxx-qt-0-7/?utm_source=atom_feed</link>
@@ -41,7 +49,7 @@
     <item>
       <title></title>
       <link>http://www.thelins.se/johan/blog/2024/10/1536/?utm_source=atom_feed</link>
-      <description><![CDATA[我已经使用 Creality CR-6 SE 有一段时间了，它工作得很好。我甚至带着它搬了好几次家。然而，现在看来它该报废了，因为挤出机外壳出现了裂缝。显然，这并不是完全不常见的事。
+      <description><![CDATA[我已经使用 Creality CR-6 SE 有一段时间了，它工作得很好。我甚至带着它搬了好几次家。然而，现在看来它该报废了，因为挤出机外壳出现了裂缝。显然，这并不是什么罕见的事情。
 
 已拆下挤出机外壳。弹簧相当有力。
 
@@ -184,13 +192,6 @@ KWin 将为装饰提供窗口的逻辑大小的分数，为它们提供它们应
       <description><![CDATA[]]></description>
       <guid>https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/?utm_source=atom_feed</guid>
       <pubDate>Mon, 28 Oct 2024 16:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新 - 2024 年 10 月</title>
-      <link>https://markpenner.space/blog/2024-10-28-kwave-update/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://markpenner.space/blog/2024-10-28-kwave-update/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
