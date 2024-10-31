@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 30 Oct 2024 22:39:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 08:41:16 GMT</lastBuildDate>
+    <item>
+      <title>CXX-Qt 0.7 发布</title>
+      <link>https://www.kdab.com/cxx-qt-0-7/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/cxx-qt-0-7/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 31 Oct 2024 08:30:14 GMT</pubDate>
+    </item>
     <item>
       <title>帮助对抗专有软件怪物！</title>
       <link>https://pointieststick.com/2024/10/30/help-fight-the-proprietary-software-monsters/?utm_source=atom_feed</link>
@@ -184,21 +191,6 @@ KWin 将为装饰提供窗口的逻辑大小的分数，为它们提供它们应
       <description><![CDATA[]]></description>
       <guid>https://markpenner.space/blog/2024-10-28-kwave-update/?utm_source=atom_feed</guid>
       <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 Linux 应用峰会</title>
-      <link>https://www.proli.net/2024/10/27/linux-app-summit-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[正如我们每年所做的那样，几周前我们举办了 2024 届 Linux 应用峰会 (LAS)。对于那些不知道的人来说，Linux 应用峰会是由 KDE 和 GNOME 等组织共同组织的会议，旨在将 Linux 生态系统的不同利益相关者聚集在一起，以确保我们拥有所有协作工具，为世界需要我们的用途提供一流的平台。
-
-今年很特别，因为它成为了Linux 应用峰会，我们在欧洲以外的地方举办！我们在蒙特雷举办了 LAS，这是墨西哥最北部的 ITESM（蒙特雷高等技术与研究学院），这是一个非常好的校园和一个美丽的场地。
-除了像我通常在 LAS 那样会见其他项目的人员之外，今年我还有机会结识大洋彼岸的社区。我们在欧洲和那里组织 FOSS 社区的方式确实有很大的不同，经验和迭代总是有用的，以确保我们真正为每个人创建一个社区。
-LAS ’25，呼吁主办方
-您是否考虑将这样的社区带到您的家乡？请联系我们，您可以在此处找到有关如何执行此操作的一些信息：https://linuxappsummit.org/bids/。
-在我看来，组织会议是将 FOSS 人才带到您所在地的最佳方式之一。通常很难找到新的方式来参与我们的工作，这是一个很好的方式。我个人有机会在 巴塞罗那 LAS’19 上做到这一点，这是一次很棒的经历。
-LAS 的附加价值在于它是来自不同社区的人们的大熔炉，因此这是一个很好的机会来结识你以前可能从未遇到过的人！
-]]></description>
-      <guid>https://www.proli.net/2024/10/27/linux-app-summit-2024/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 27 Oct 2024 17:26:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
