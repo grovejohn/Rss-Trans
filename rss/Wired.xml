@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Fri, 01 Nov 2024 14:39:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 15:16:52 GMT</lastBuildDate>
+    <item>
+      <title>2024 年黑色星期五：在家购物的最佳优惠秘诀</title>
+      <link>https://www.wired.com/story/black-friday-2024-tips-and-tricks/</link>
+      <description><![CDATA[今年最大的零售盛会已经发展成为销售量起起伏伏的整整一个月。以下是如何充分利用它。]]></description>
+      <guid>https://www.wired.com/story/black-friday-2024-tips-and-tricks/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:08:00 GMT</pubDate>
+    </item>
     <item>
       <title>最佳智能戒指，经测试和评测（2024 年）</title>
       <link>https://www.wired.com/gallery/best-smart-rings/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>俄罗斯的虚假信息运动正在利用评论区传播支持特朗普的阴谋论</title>
       <link>https://www.wired.com/story/russia-disinfo-campaign-right-wing-comment-sections-pro-trump/</link>
-      <description><![CDATA[一场虚假宣传活动正在利用右翼新闻网站评论区的不受监管的空间来推动他们的叙述。]]></description>
+      <description><![CDATA[一场虚假宣传活动正在利用右翼新闻网站评论区的不受监管的空间来推动其叙事。]]></description>
       <guid>https://www.wired.com/story/russia-disinfo-campaign-right-wing-comment-sections-pro-trump/</guid>
       <pubDate>Fri, 01 Nov 2024 12:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[人工智能。这是人工智能。]]></description>
       <guid>https://www.wired.com/story/the-reason-your-election-anxiety-feels-worse-in-2024/</guid>
       <pubDate>Fri, 01 Nov 2024 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>零点击漏洞可能使数百万流行存储设备遭受攻击</title>
-      <link>https://www.wired.com/story/synology-zero-click-vulnerability/</link>
-      <description><![CDATA[Synology 网络附加存储设备上默认安装的照片应用程序中存在一个被归类为“严重”的漏洞，该漏洞可能使攻击者能够窃取数据甚至实施更严重的攻击。]]></description>
-      <guid>https://www.wired.com/story/synology-zero-click-vulnerability/</guid>
-      <pubDate>Fri, 01 Nov 2024 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
