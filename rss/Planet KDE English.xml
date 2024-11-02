@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 02 Nov 2024 08:40:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 09:36:13 GMT</lastBuildDate>
     <item>
       <title>本周 Plasma：迁移至 KDE 基础设施！</title>
       <link>https://pointieststick.com/2024/11/02/this-week-in-plasma-moved-to-kde-infrastructure/?utm_source=atom_feed</link>
@@ -15,6 +15,13 @@
 我仍会在这里写博客，介绍我感兴趣的 KDE 主题，希望您也感兴趣，只是不会发布每周的 Plasma 新闻。所以我希望您能留下来。 ]]></description>
       <guid>https://pointieststick.com/2024/11/02/this-week-in-plasma-moved-to-kde-infrastructure/?utm_source=atom_feed</guid>
       <pubDate>Sat, 02 Nov 2024 08:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 Plasma：可怕的 ooooooooom 通知！</title>
+      <link>https://blogs.kde.org/2024/11/02/this-week-in-plasma-spoooooky-ooooooooom-notifications/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/11/02/this-week-in-plasma-spoooooky-ooooooooom-notifications/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 02 Nov 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>网络评论，第 2024-44 周</title>
@@ -74,7 +81,7 @@
 小时候，我喜欢和朋友一起制作电影，并使用一个名为 AlamDV 的程序添加古怪的特效。我甚至购买了它的许可证！一年后，它坏了，开发人员发布了版本 2，我也尽职尽责地购买了新许可证。不幸的是，我的 AlamDV 1 项目都无法在其中打开。它们随风而逝。
 同样，我也使用了 Apple 的 iMovie 编辑应用程序。在某个时候，他们彻底改变了它，使其拥有完全不同的用户界面，并且不再打开旧项目。当时我还是个孩子，所以从未弄清楚新的用户界面，我所有的旧项目都永远丢失了。
 我小时候制作的很多数字艺术作品都保存在 Apple 的 .pict 文件格式中，但 Apple 最终也放弃了对这种格式的支持。当我转到 Linux 时，我不得不编写一个脚本来单独打开这些文件并截取它们的屏幕截图，以免永远丢失它们。
-我一直能够回收旧电脑，并通过 Plasma 让它们保持相关性。我的两个孩子都有使用 Fedora KDE 后焕然一新的旧电脑，使用起来非常方便。我妻子的旧笔记本电脑已有 10 年历史，是 KDE Linux 的试验台。
+我一直能够回收旧电脑，并通过 Plasma 保持它们的相关性。我的两个孩子都有使用 Fedora KDE 重新焕发活力的旧电脑，使用起来非常方便。我妻子的旧笔记本电脑已有 10 年历史，是 KDE Linux 的试验台。
 就在上周末，我嫂子还向我抱怨 Photoshop 中的人工智能，她非常赞成完全放弃微软和 Adob​​e 软件。这对艺术家来说是个很大的打击。
 
 这些东西是真实的，我们所做的工作具有重大影响。它不仅仅是书呆子的玩具。它也不是无聊的修补匠的地下室科学项目。这是计算机应该的方式，并且可以，只要我们中有足够多的人为实现这一目标贡献自己的技能、时间和金钱。
@@ -89,26 +96,6 @@
       <description><![CDATA[]]></description>
       <guid>https://tim.siosm.fr/blog/2024/10/30/fedora-atomic-desktops-41/?utm_source=atom_feed</guid>
       <pubDate>Tue, 29 Oct 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
-      <link>http://www.thelins.se/johan/blog/2024/10/1536/?utm_source=atom_feed</link>
-      <description><![CDATA[我已经使用 Creality CR-6 SE 有一段时间了，它工作得很好。我甚至带着它搬了好几次家。然而，现在看来它该报废了，因为挤出机外壳出现了裂缝。显然，这并不是完全不常见的事。
-
-已拆下挤出机外壳。弹簧相当有力。
-
-裂缝。
-所以我在互联网上搜索备件，然后才意识到这是一种常见的故障模式，而且有全金属替代品。点击几下后，我从亚马逊订购了一个。我冒险订购了一个 CR-10，因为从照片上看它看起来很合适，而且确实如此（呼）。这是我得到的链接：链接。
-
-安装替换挤出机。
-安装过程很顺利。唯一棘手的部分是让弹簧推动的螺丝螺纹正确。弹簧非常坚固，所以在我的手指难以适应的区域，这实际上是一个三手操作。完成这些之后，它看起来就像开箱即用一样。
-
-第一次打印。
-打印已经运行了几个小时，没有出现任何问题。在此向 OctoPrint 致以最诚挚的谢意。无需坐在打印机旁边就能关注事情，这真是太棒了（而且不必摆弄 SD 卡也非常好）。
-
-]]></description>
-      <guid>http://www.thelins.se/johan/blog/2024/10/1536/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 29 Oct 2024 11:47:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
