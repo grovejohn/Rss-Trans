@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 01 Nov 2024 18:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 08:40:21 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：迁移至 KDE 基础设施！</title>
+      <link>https://pointieststick.com/2024/11/02/this-week-in-plasma-moved-to-kde-infrastructure/?utm_source=atom_feed</link>
+      <description><![CDATA[惊喜！本博客文章系列现已移至 blogs.kde.org，因此现在可供其他人参与和贡献！本周的帖子可以在 https://blogs.kde.org/2024/11/01/this-week-in-plasma-spoooooky-ooooooooom-notifications 找到
+
+这可能就是它本来就应该在的地方，因为这项工作比我大得多。我暂时仍将担任主编，但欢迎大家做出贡献以减轻负担。  
+不幸的是，由于 GDPR 限制，我无法将现有的电子邮件订阅者迁移到那里的新电子邮件摘要。因此，如果您想重新订阅“本周 Plasma”。前往 https://newsletter.kde.org/subscription/form 并重新订阅。
+我仍会在这里写博客，介绍我感兴趣的 KDE 主题，希望您也感兴趣，只是不会发布每周的 Plasma 新闻。所以我希望您能留下来。 ]]></description>
+      <guid>https://pointieststick.com/2024/11/02/this-week-in-plasma-moved-to-kde-infrastructure/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 02 Nov 2024 08:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-44 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/11/01/web-review-week-2024-44/?utm_source=atom_feed</link>
@@ -66,8 +77,8 @@
 我一直能够回收旧电脑，并通过 Plasma 让它们保持相关性。我的两个孩子都有使用 Fedora KDE 后焕然一新的旧电脑，使用起来非常方便。我妻子的旧笔记本电脑已有 10 年历史，是 KDE Linux 的试验台。
 就在上周末，我嫂子还向我抱怨 Photoshop 中的人工智能，她非常赞成完全放弃微软和 Adob​​e 软件。这对艺术家来说是个很大的打击。
 
-这些东西是真实的，我们所做的工作具有重大影响。它不仅仅是书呆子的玩具。它也不是无聊的修补匠的地下室科学项目。这是计算机应该的方式，并且可以，只要有足够多的人为实现这一目标贡献自己的技能、时间和金钱。
-筹集的资金将如何使用？主要是为了帮助 KDE e.V. 平衡预算并停止亏损运营（去年亏损约 110k，今年预计亏损 70k），因为法律要求及时花掉大笔一次性捐款。我们可以再维持这种赤字支出水平几年，但当然我们更愿意不这样做。对于非营利组织来说，这是一个艰难的环境，您可能已经听说 GNOME 基金会最近陷入财务困境，不得不削减开支。我们想避免这种情况！我们越早再次实现盈余，我们就能越早将对工程工作的赞助扩大到目前的水平以上。
+这些东西是真实的，我们所做的工作具有重大影响。它不仅仅是书呆子的玩具。它也不是无聊的修补匠的地下室科学项目。这是计算机应该的方式，并且可以，只要我们中有足够多的人为实现这一目标贡献自己的技能、时间和金钱。
+筹集的资金将如何使用？主要是为了帮助 KDE e.V. 平衡预算并停止亏损运营（去年亏损约 11 万，今年预计亏损 7 万），因为法律要求及时花掉大笔一次性捐款。我们可以再维持这种赤字支出水平几年，但当然我们更愿意不这样做。对于非营利组织来说，这是一个艰难的环境，您可能已经听说 GNOME 基金会最近陷入财务困境，不得不削减开支。我们想避免这种情况！我们越早再次实现盈余，我们就能越早将对工程工作的赞助扩大到目前的水平以上。
 所以去今天捐款，为当今软件领域最重要的运动做出贡献吧！]]></description>
       <guid>https://pointieststick.com/2024/10/30/help-fight-the-proprietary-software-monsters/?utm_source=atom_feed</guid>
       <pubDate>Wed, 30 Oct 2024 21:55:01 GMT</pubDate>
@@ -98,13 +109,6 @@
 ]]></description>
       <guid>http://www.thelins.se/johan/blog/2024/10/1536/?utm_source=atom_feed</guid>
       <pubDate>Tue, 29 Oct 2024 11:47:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 2024 体验</title>
-      <link>https://blogs.kde.org/2024/10/29/akademy-2024-experience/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/10/29/akademy-2024-experience/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
