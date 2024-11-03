@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 02 Nov 2024 18:41:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 12:55:50 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 应用</title>
+      <link>https://blogs.kde.org/2024/11/03/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/11/03/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 03 Nov 2024 08:20:35 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：迁移至 KDE 基础设施！</title>
       <link>https://pointieststick.com/2024/11/02/this-week-in-plasma-moved-to-kde-infrastructure/?utm_source=atom_feed</link>
@@ -77,25 +84,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/cxx-qt-0-7/?utm_source=atom_feed</guid>
       <pubDate>Thu, 31 Oct 2024 08:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助对抗专有软件怪物！</title>
-      <link>https://pointieststick.com/2024/10/30/help-fight-the-proprietary-software-monsters/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE 的年度筹款活动现已上线，主题是诡异的专有软件。快去看看吧 — 不，真的！太棒了！
-我认为这个活动绝对成功，因为那里的故事很有共鸣。他们描述了我们大多数人在进入 FOSS 世界的过程中亲身经历过的专有软件的常见问题，以及 FOSS 如何解决这些问题。
-让我分享一些我自己遇到的问题：
-
-小时候，我喜欢和朋友一起制作电影，并使用一个名为 AlamDV 的程序添加古怪的特效。我甚至购买了它的许可证！一年后，它坏了，开发人员发布了版本 2，我也尽职尽责地购买了新许可证。不幸的是，我的 AlamDV 1 项目都无法在其中打开。它们随风而逝。
-同样，我也使用了 Apple 的 iMovie 编辑应用程序。在某个时候，他们彻底改变了它，使其拥有完全不同的用户界面，并且不再打开旧项目。当时我还是个孩子，所以从未弄清楚新的用户界面，我所有的旧项目都永远丢失了。
-我小时候制作的很多数字艺术作品都保存在 Apple 的 .pict 文件格式中，但 Apple 最终也放弃了对这种格式的支持。当我转到 Linux 时，我不得不编写一个脚本来单独打开这些文件并截取它们的屏幕截图，以免永远丢失它们。
-我一直能够回收旧电脑，并通过 Plasma 让它们保持相关性。我的两个孩子都有使用 Fedora KDE 后焕然一新的旧电脑，使用起来非常方便。我妻子的旧笔记本电脑已有 10 年历史，是 KDE Linux 的试验台。
-就在上周末，我嫂子还向我抱怨 Photoshop 中的人工智能，她非常赞成完全放弃微软和 Adob​​e 软件。这对艺术家来说是个很大的打击。
-
-这些东西是真实的，我们所做的工作具有重大影响。它不仅仅是书呆子的玩具。它也不是无聊的修补匠的地下室科学项目。这是计算机应该的方式，并且可以，只要我们中有足够多的人为实现这一目标贡献自己的技能、时间和金钱。
-筹集的资金将如何使用？主要是为了帮助 KDE e.V. 平衡预算并停止亏损运营（去年亏损约 11 万，今年预计亏损 7 万），因为法律要求及时花掉大笔一次性捐款。我们可以再维持这种赤字支出水平几年，但当然我们更愿意不这样做。对于非营利组织来说，这是一个艰难的环境，您可能已经听说 GNOME 基金会最近陷入财务困境，不得不削减开支。我们想避免这种情况！我们越早再次实现盈余，我们就能越早将对工程工作的赞助扩大到目前的水平以上。
-所以去今天捐款，为当今软件领域最重要的运动做出贡献吧！]]></description>
-      <guid>https://pointieststick.com/2024/10/30/help-fight-the-proprietary-software-monsters/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 30 Oct 2024 21:55:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
