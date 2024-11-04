@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 03 Nov 2024 16:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 10:42:24 GMT</lastBuildDate>
+    <item>
+      <title>Qt 中的 C++20 比较（甚至与 C++17🤩）</title>
+      <link>https://www.qt.io/blog/c20-comparisons-in-qt?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+在Qt 6.7版本中，我们启用了对C++20 比较的支持，并将其部分功能反向移植到 C++17。这篇博文将为您概述我们正在利用的比较增强功能并提供在自定义类中实现它们的指导。
+]]></description>
+      <guid>https://www.qt.io/blog/c20-comparisons-in-qt?utm_source=atom_feed</guid>
+      <pubDate>Mon, 04 Nov 2024 09:43:22 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE 应用</title>
       <link>https://blogs.kde.org/2024/11/03/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -77,13 +88,6 @@
 ]]></description>
       <guid>https://www.qt.io/blog/preparing-for-the-european-cyber-resilience-act-cra?utm_source=atom_feed</guid>
       <pubDate>Thu, 31 Oct 2024 10:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>CXX-Qt 0.7 发布</title>
-      <link>https://www.kdab.com/cxx-qt-0-7/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/cxx-qt-0-7/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 31 Oct 2024 08:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
