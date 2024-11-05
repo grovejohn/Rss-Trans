@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 05 Nov 2024 10:42:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 12:58:30 GMT</lastBuildDate>
     <item>
       <title>LabPlot 中的数据导入性能</title>
       <link>https://labplot.kde.org/2024/11/05/performance-of-data-import-in-labplot/?utm_source=atom_feed</link>
@@ -26,6 +26,24 @@ LabPlot 支持许多不同格式（CSV、Origin、SAS、Stata、SPSS、MATLAB、
 处理经常修改的外部数据时，导入的性能更为关键。为了在 LabPlot 中为此类“实时数据”提供流畅的可视化效果，优化此处涉及的所有步骤非常重要，例如导入新数据本身，以及算法（平滑等）和可视化部分中的重新计算。对于下一个版本，我们现在正在努力进一步优化实现，以便在不久的将来处理更多性能关键场景。这些活动的结果由 NLnet 资助，将很快成为专门帖子的主题。]]></description>
       <guid>https://labplot.kde.org/2024/11/05/performance-of-data-import-in-labplot/?utm_source=atom_feed</guid>
       <pubDate>Tue, 05 Nov 2024 10:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>警告：Android 上的 Krita 5.2.6 测试版目前已损坏</title>
+      <link>https://krita.org/en/posts/2024/5.6.2-android-warning/?utm_source=atom_feed</link>
+      <description><![CDATA[更新：我们已经修复了该问题并且更新正在测试频道中推出。生产渠道仍使用 5.2.3，但稍后会更新。
+在我们的 Android/ChromeOS 测试程序中发布最新版本的 Krita 时，我们发现存在一个可能导致 Krita 无法启动的问题，但为时已晚。
+由于 Google Play 商店控制台不允许将版本恢复到早期版本，因此我们现在正在紧急修复，并将尽快发布。
+对此造成的不便，我们深表歉意。
+当前的 Android 夜间版本再次可用，但有一些限制：
+
+请注意，删除商店版本的 Krita 不会删除应用程序数据：您的作品可能会丢失。
+在夜间版本中，您需要单独安装任何画笔预设
+
+您可以在此处获取夜间版本：Krita Next Nightly Builds。您需要选择适合您设备架构的软件包。
+安装夜间版本需要在您的设备上启用开发者模式，并且需要相当多的技术见解。
+如果您对此感到不舒服，请等到大约两天后新的官方版本在 Play 商店上线。]]></description>
+      <guid>https://krita.org/en/posts/2024/5.6.2-android-warning/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Qt 中的 C++20 比较（甚至与 C++17🤩）</title>
@@ -91,14 +109,6 @@ LabPlot 支持许多不同格式（CSV、Origin、SAS、Stata、SPSS、MATLAB、
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/11/01/kde-foss-emergency-and-weather-alerts.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 01 Nov 2024 06:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 15 Beta2 发布</title>
-      <link>https://www.qt.io/blog/qt-creator-15-beta2-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Qt Creator 15 Beta2 现已发布！
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-15-beta2-released?utm_source=atom_feed</guid>
-      <pubDate>Thu, 31 Oct 2024 12:55:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
