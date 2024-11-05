@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 05 Nov 2024 01:09:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 14:39:50 GMT</lastBuildDate>
+    <item>
+      <title>《合金弹头战术》为回合制策略游戏注入了超风格的刺激</title>
+      <link>https://arstechnica.com/gaming/2024/11/metal-slug-tactics-is-an-odd-mix-of-arcade-shooter-and-grid-strategy-that-works/</link>
+      <description><![CDATA[它有点像 Rogue-lite 游戏，也有点像 90 年代的街机游戏，而且深度出奇地深。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/11/metal-slug-tactics-is-an-odd-mix-of-arcade-shooter-and-grid-strategy-that-works/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:00:50 GMT</pubDate>
+    </item>
     <item>
       <title>发布到 NPM 的数百个代码库试图在开发机器上安装恶意软件</title>
       <link>https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[X change 让被屏蔽的用户可以看到屏蔽他们的人发表的帖子。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/on-musks-x-blocking-users-doesnt-block-them-from-viewing-your-posts-anymore/</guid>
       <pubDate>Mon, 04 Nov 2024 18:34:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>英伟达在道琼斯指数中击败英特尔，连续 25 年位列榜首</title>
-      <link>https://arstechnica.com/ai/2024/11/nvidia-ousts-intel-from-dow-jones-index-after-25-year-run/</link>
-      <description><![CDATA[随着芯片行业重新聚焦人工智能，股指的上涨反映了象征性的市场转变。]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/nvidia-ousts-intel-from-dow-jones-index-after-25-year-run/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:28:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
