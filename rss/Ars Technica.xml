@@ -4,7 +4,42 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 05 Nov 2024 20:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 22:15:01 GMT</lastBuildDate>
+    <item>
+      <title>Snowflake 数据窃取攻击案嫌疑人被捕，影响数百万人</title>
+      <link>https://arstechnica.com/security/2024/11/suspect-arrested-in-snowflake-data-theft-attacks-affecting-millions/</link>
+      <description><![CDATA[威胁行为者利用了信息窃取者多年前获取的账户凭证。]]></description>
+      <guid>https://arstechnica.com/security/2024/11/suspect-arrested-in-snowflake-data-theft-attacks-affecting-millions/</guid>
+      <pubDate>Tue, 05 Nov 2024 22:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>《耐力号》讲述了两个相隔几个世纪的探险故事</title>
+      <link>https://arstechnica.com/science/2024/11/endurance-documents-hunt-for-shackletons-shipwreck/</link>
+      <description><![CDATA[新的国家地理纪录片由为我们带来奥斯卡获奖影片徒手攀岩的同一组导演执导。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/endurance-documents-hunt-for-shackletons-shipwreck/</guid>
+      <pubDate>Tue, 05 Nov 2024 21:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官裁定谷歌没有义务向礼品卡诈骗受害者退款</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/google-has-no-duty-to-refund-gift-card-scam-victims-judge-finds/</link>
+      <description><![CDATA[FTC 估计，大量礼品卡诈骗都针对 Google Play 用户。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/google-has-no-duty-to-refund-gift-card-scam-victims-judge-finds/</guid>
+      <pubDate>Tue, 05 Nov 2024 20:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>NRO 负责人：“你无法躲避”我们新发射的 SpaceX 间谍卫星群</title>
+      <link>https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/</link>
+      <description><![CDATA[“卫星总会在给定的合理时间内飞过某个区域。”]]></description>
+      <guid>https://arstechnica.com/science/2024/11/nro-chief-you-cant-hide-from-our-new-swarm-of-spacex-built-spy-satellites/</guid>
+      <pubDate>Tue, 05 Nov 2024 20:49:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>起亚称其新款电动露营车概念是“理想的逃生舱”</title>
+      <link>https://arstechnica.com/cars/2024/11/kia-reimagines-the-off-road-camper-van-with-new-concept-ev/</link>
+      <description><![CDATA[起亚为一款电动 SUV 和一款电动货车提供了越野功能。]]></description>
+      <guid>https://arstechnica.com/cars/2024/11/kia-reimagines-the-off-road-camper-van-with-new-concept-ev/</guid>
+      <pubDate>Tue, 05 Nov 2024 20:27:35 GMT</pubDate>
+    </item>
     <item>
       <title>听说过“Llady Gaga”吗？环球影业因涉嫌仿冒提起盗版诉讼。</title>
       <link>https://arstechnica.com/tech-policy/2024/11/umg-says-rival-firm-pirated-songs-under-names-jutin-biber-and-arriana-gramde/</link>
@@ -39,41 +74,6 @@
       <description><![CDATA[它有点像 Rogue-lite 游戏，也有点像 90 年代的街机游戏，而且深度出奇地深。]]></description>
       <guid>https://arstechnica.com/gaming/2024/11/metal-slug-tactics-is-an-odd-mix-of-arcade-shooter-and-grid-strategy-that-works/</guid>
       <pubDate>Tue, 05 Nov 2024 14:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布到 NPM 的数百个代码库试图在开发机器上安装恶意软件</title>
-      <link>https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/</link>
-      <description><![CDATA[这些并不是您所想象的开发工具。]]></description>
-      <guid>https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/</guid>
-      <pubDate>Mon, 04 Nov 2024 23:28:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>注射减肥药发现黑色污垢后制药厂关闭</title>
-      <link>https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/</link>
-      <description><![CDATA[这一警告是在有关复合减肥药的法律纠纷中发出的。]]></description>
-      <guid>https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/</guid>
-      <pubDate>Mon, 04 Nov 2024 23:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>丑闻爆发后，Facebook、Nvidia 敦促最高法院限制“滋扰”投资者诉讼</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/facebook-nvidia-push-scotus-to-limit-nuisance-investor-suits-after-scandals/</link>
-      <description><![CDATA[Facebook、Nvidia 要求最高法院缩小挽回投资者损失的法律途径。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/facebook-nvidia-push-scotus-to-limit-nuisance-investor-suits-after-scandals/</guid>
-      <pubDate>Mon, 04 Nov 2024 22:43:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>泽米吉斯的新电影利用人工智能让汤姆·汉克斯和罗宾·怀特变年轻</title>
-      <link>https://arstechnica.com/ai/2024/11/new-zemeckis-film-used-ai-to-de-age-tom-hanks-and-robin-wright/</link>
-      <description><![CDATA[时间跳跃电影Here使用对汤姆汉克斯的每一部电影进行训练的人工智能使他再次显得年轻。]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/new-zemeckis-film-used-ai-to-de-age-tom-hanks-and-robin-wright/</guid>
-      <pubDate>Mon, 04 Nov 2024 21:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员发现黑洞吞噬能量达到理论极限的 40 倍</title>
-      <link>https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/</link>
-      <description><![CDATA[类似的进食事件可以解释超大质量黑洞的快速增长。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/researchers-spot-black-hole-feeding-at-40x-its-theoretical-limit/</guid>
-      <pubDate>Mon, 04 Nov 2024 21:21:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
