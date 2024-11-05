@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 04 Nov 2024 23:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 01:09:21 GMT</lastBuildDate>
+    <item>
+      <title>发布到 NPM 的数百个代码库试图在开发机器上安装恶意软件</title>
+      <link>https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/</link>
+      <description><![CDATA[这些并不是您所想象的开发工具。]]></description>
+      <guid>https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/</guid>
+      <pubDate>Mon, 04 Nov 2024 23:28:49 GMT</pubDate>
+    </item>
     <item>
       <title>注射减肥药发现黑色污垢后制药厂关闭</title>
       <link>https://arstechnica.com/health/2024/11/drugmaker-shut-down-after-black-schmutz-found-in-injectable-weight-loss-drug/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[随着芯片行业重新聚焦人工智能，股指的上涨反映了象征性的市场转变。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/nvidia-ousts-intel-from-dow-jones-index-after-25-year-run/</guid>
       <pubDate>Mon, 04 Nov 2024 17:28:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了超大型电动车？2025 款现代科纳电动车满足了这一需求。</title>
-      <link>https://arstechnica.com/cars/2024/11/sick-of-supersized-evs-the-2025-hyundai-kona-electric-hits-the-spot/</link>
-      <description><![CDATA[它不太大，也不太重，而且非常非常高效。]]></description>
-      <guid>https://arstechnica.com/cars/2024/11/sick-of-supersized-evs-the-2025-hyundai-kona-electric-hits-the-spot/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:18:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
