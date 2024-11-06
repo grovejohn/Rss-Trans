@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 06 Nov 2024 13:00:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 14:39:19 GMT</lastBuildDate>
     <item>
       <title>Wayland 的小玩意儿</title>
       <link>https://blog.broulik.de/2024/11/little-wayland-things/?utm_source=atom_feed</link>
@@ -63,7 +63,7 @@ KDE GTK 配置：妥善处理装饰插件加载失败。 提交。
     <item>
       <title>警告：Android 上的 Krita 5.2.6 测试版目前已损坏</title>
       <link>https://krita.org/en/posts/2024/5.6.2-android-warning/?utm_source=atom_feed</link>
-      <description><![CDATA[更新：我们已经修复了该问题并且更新正在测试频道中推出。生产渠道仍使用 5.2.3，但稍后会更新。
+      <description><![CDATA[更新：我们已经修复了该问题，并且更新正在测试频道中推出。生产渠道仍使用 5.2.3，但稍后会更新。
 在我们的 Android/ChromeOS 测试程序中发布最新版本的 Krita 时，我们发现存在一个可能导致 Krita 无法启动的问题，但为时已晚。
 由于 Google Play 商店控制台不允许将版本恢复到早期版本，因此我们现在正在紧急修复，并将尽快发布。
 对此造成的不便，我们深表歉意。
