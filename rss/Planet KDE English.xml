@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 05 Nov 2024 14:39:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 10:40:57 GMT</lastBuildDate>
+    <item>
+      <title>Wayland 的小玩意儿</title>
+      <link>https://blog.broulik.de/2024/11/little-wayland-things/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.broulik.de/2024/11/little-wayland-things/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 06 Nov 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qt 中的 C++20 比较（甚至与 C++17🤩）</title>
       <link>https://www.qt.io/blog/c20-comparisons-in-qt?utm_source=atom_feed</link>
@@ -109,14 +116,6 @@ KDE GTK 配置：妥善处理装饰插件加载失败。 提交。
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/11/01/web-review-week-2024-44/?utm_source=atom_feed</guid>
       <pubDate>Fri, 01 Nov 2024 17:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Quick 3D 调查 - 2024 年 11 月</title>
-      <link>https://www.qt.io/blog/qt-quick-3d-survey-november-20024?utm_source=atom_feed</link>
-      <description><![CDATA[Qt Quick 3D 项目于 2019 年首次公布并发布。自那时起，它已获得多项改进。 我们专注于提升性能、引入新功能和扩展模块的功能。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-quick-3d-survey-november-20024?utm_source=atom_feed</guid>
-      <pubDate>Fri, 01 Nov 2024 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
