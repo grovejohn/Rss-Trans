@@ -4,7 +4,27 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Nov 2024 08:42:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 12:58:51 GMT</lastBuildDate>
+    <item>
+      <title>KDE 齿轮 24.08.3</title>
+      <link>https://kde.org/announcements/gear/24.08.3/?utm_source=atom_feed</link>
+      <description><![CDATA[作为 KDE Gear 的一部分，超过 180 个独立程序以及数十个程序员库和功能插件同时发布。
+今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
+
+neochat：进行调整以使其与新发布的 libquotient 0.9 兼容（提交）
+kdevelop：MesonManager：在项目关闭时删除测试套件，（提交，修复错误 #427157)
+kdevelop：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #495335)
+
+发行版和应用商店打包者应更新其应用程序包。
+
+24.08 发行说明，了解有关 tarball 和已知问题的信息。
+软件包下载 Wiki 页面
+24.08.3 源信息页面
+24.08.3 完整更新日志
+]]></description>
+      <guid>https://kde.org/announcements/gear/24.08.3/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Wayland 的小玩意儿</title>
       <link>https://blog.broulik.de/2024/11/little-wayland-things/?utm_source=atom_feed</link>
@@ -25,7 +45,7 @@
       <description><![CDATA[
   
 
-在Qt 6.7版本中，我们启用了对C++20 比较的支持，并将其部分功能反向移植到 C++17。这篇博文将为您概述我们正在利用的比较增强功能并提供在自定义类中实现它们的指导。
+在 Qt 6.7 版本中，我们启用了对 C++20 比较的支持，并将其部分功能反向移植到 C++17。这篇博文将为您概述我们正在利用的比较增强功能并提供在自定义类中实现它们的指导。
 ]]></description>
       <guid>https://www.qt.io/blog/c20-comparisons-in-qt?utm_source=atom_feed</guid>
       <pubDate>Tue, 05 Nov 2024 13:14:15 GMT</pubDate>
@@ -68,7 +88,7 @@ KDE GTK 配置：妥善处理装饰插件加载失败。 提交。
       <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>警告：Android 上的 Krita 5.2.6 测试版目前已损坏</title>
+      <title>警告：Android 版 Krita 5.2.6 测试版目前已损坏</title>
       <link>https://krita.org/en/posts/2024/5.6.2-android-warning/?utm_source=atom_feed</link>
       <description><![CDATA[更新：我们已经修复了该问题并且更新正在测试频道中推出。生产渠道仍使用 5.2.3，但稍后会更新。
 在我们的 Android/ChromeOS 测试程序中发布最新版本的 Krita 时，我们发现存在一个可能导致 Krita 无法启动的问题，但为时已晚。
@@ -109,13 +129,6 @@ KDE GTK 配置：妥善处理装饰插件加载失败。 提交。
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/11/02/this-week-in-plasma-spoooooky-ooooooooom-notifications/?utm_source=atom_feed</guid>
       <pubDate>Sat, 02 Nov 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KWin 中的 HDR 和色彩管理，第 4 部分：非线性混合</title>
-      <link>https://zamundaaa.github.io/wayland/2024/11/02/hdr-and-color-management-in-kwin-part-4.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://zamundaaa.github.io/wayland/2024/11/02/hdr-and-color-management-in-kwin-part-4.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 01 Nov 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
