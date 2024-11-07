@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 07 Nov 2024 17:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 18:20:00 GMT</lastBuildDate>
+    <item>
+      <title>棒球的“魔法泥”为何如此特别？</title>
+      <link>https://arstechnica.com/science/2024/11/what-makes-baseballs-magic-mud-so-special/</link>
+      <description><![CDATA[它具有恰到好处的延展性、粘性和摩擦力，使投手能够更好地抓住球。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/what-makes-baseballs-magic-mud-so-special/</guid>
+      <pubDate>Thu, 07 Nov 2024 17:07:54 GMT</pubDate>
+    </item>
     <item>
       <title>回顾：我们的“DC 人工智能”会议很精彩——以下是你错过的内容</title>
       <link>https://arstechnica.com/ai/2024/11/recap-ars-in-dc/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>空气中的微塑料有助于云的形成</title>
       <link>https://arstechnica.com/science/2024/11/airborne-microplastics-aid-in-cloud-formation/</link>
-      <description><![CDATA[事实证明，微塑料会对天气和气候产生影响。]]></description>
+      <description><![CDATA[事实证明，微塑料对天气和气候有影响。]]></description>
       <guid>https://arstechnica.com/science/2024/11/airborne-microplastics-aid-in-cloud-formation/</guid>
       <pubDate>Thu, 07 Nov 2024 14:15:46 GMT</pubDate>
     </item>
     <item>
       <title>评论：M4 和 M4 Pro Mac mini 可能是 Apple 有史以来最好的 Mac mini</title>
       <link>https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/</link>
-      <description><![CDATA[近 15 年来 Mac mini 首次重新设计，凸显了其内部的优秀。]]></description>
+      <description><![CDATA[近 15 年来 Mac mini 首次重新设计，凸显了其内部结构的优良。]]></description>
       <guid>https://arstechnica.com/apple/2024/11/review-m4-and-m4-pro-mac-minis-are-probably-apples-best-mac-minis-ever/</guid>
       <pubDate>Thu, 07 Nov 2024 14:00:50 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[特朗普可能会说服司法部放弃拆分谷歌。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/fate-of-googles-search-empire-could-rest-in-trumps-hands/</guid>
       <pubDate>Wed, 06 Nov 2024 21:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普计划在胜选后废除拜登的人工智能保护措施</title>
-      <link>https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/</link>
-      <description><![CDATA[特朗普计划废除拜登的2023年命令，并对GPU进口征收关税。]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/trump-victory-signals-major-shakeup-for-us-ai-regulations/</guid>
-      <pubDate>Wed, 06 Nov 2024 21:18:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
