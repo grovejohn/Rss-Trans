@@ -4,7 +4,36 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Nov 2024 12:58:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 18:42:30 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.08.3 发布</title>
+      <link>https://kdenlive.org/en/2024/11/kdenlive-24-08-3-released/?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+
+
+24.08 系列的最后一个维护版本已经发布。
+
+修复打开字幕时传递错误编解码器导致的崩溃。 提交。修复错误#495410。
+修复阴影变量导致打开项目时剪辑删除不正确的问题，修复打开项目时时间线剪辑丢失导致崩溃的问题。提交。请参阅错误 #493486。
+修复使用 Qt 6.8 构建时间线时 qml 崩溃的问题 – 确保在设置源之前存在上下文属性。提交。请参阅错误 #495335。
+修复当帧大小高于不使用当前项目设置的值时生成代理的问题。 提交。
+修复阴影变量导致项目打开时剪辑被删除的问题。提交。
+修复监视器在转描过程中无法定位上一个/下一个关键帧的问题。 提交。
+修复项目打开时未正确修复的缺失内置 LUT 文件。提交。请参阅错误 #494726。
+修复剪辑作业，例如稳定创建无效文件夹。 提交。
+修复文件夹 ID 无效时加载项目冻结的问题。提交。
+在 bin 中替换音频剪辑时不要使时间线预览无效。 提交。
+确保在未选择任何剪辑或文件夹时清除监视器并隐藏标尺。 提交。
+
+
+
+
+
+文章Kdenlive 24.08.3 发布首先出现在Kdenlive上。]]></description>
+      <guid>https://kdenlive.org/en/2024/11/kdenlive-24-08-3-released/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 07 Nov 2024 18:14:09 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 齿轮 24.08.3</title>
       <link>https://kde.org/announcements/gear/24.08.3/?utm_source=atom_feed</link>
@@ -122,13 +151,6 @@ KDE GTK 配置：妥善处理装饰插件加载失败。 提交。
 我仍会在这里写博客，介绍我感兴趣的 KDE 主题，希望您也感兴趣，只是不会发布每周的 Plasma 新闻。所以我希望您能留下来。 ]]></description>
       <guid>https://pointieststick.com/2024/11/02/this-week-in-plasma-moved-to-kde-infrastructure/?utm_source=atom_feed</guid>
       <pubDate>Sat, 02 Nov 2024 08:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：可怕的 ooooooooom 通知！</title>
-      <link>https://blogs.kde.org/2024/11/02/this-week-in-plasma-spoooooky-ooooooooom-notifications/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/11/02/this-week-in-plasma-spoooooky-ooooooooom-notifications/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 02 Nov 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
