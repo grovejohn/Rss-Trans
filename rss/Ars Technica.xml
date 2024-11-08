@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 08 Nov 2024 14:13:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 15:16:02 GMT</lastBuildDate>
+    <item>
+      <title>苹果的 Apple Intelligence 发布失败了，但其长期战略是正确的</title>
+      <link>https://arstechnica.com/ai/2024/11/despite-unforced-errors-the-future-of-apple-intelligence-could-be-bright/</link>
+      <description><![CDATA[我花了一周时间研究 Apple Intelligence，以下是一些要点。]]></description>
+      <guid>https://arstechnica.com/ai/2024/11/despite-unforced-errors-the-future-of-apple-intelligence-could-be-bright/</guid>
+      <pubDate>Fri, 08 Nov 2024 14:32:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>台积电将停止为中国客户生产 7 纳米芯片</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/tsmc-will-stop-making-7-nm-chips-for-chinese-customers/</link>
+      <description><![CDATA[美国对半导体技术的限制正在刺激这一举措。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/tsmc-will-stop-making-7-nm-chips-for-chinese-customers/</guid>
+      <pubDate>Fri, 08 Nov 2024 14:19:49 GMT</pubDate>
+    </item>
     <item>
       <title>Notepad.exe 现在是一款积极维护的应用程序，已获得不可避免的 AI 更新</title>
       <link>https://arstechnica.com/gadgets/2024/11/notepad-exe-now-an-actively-maintained-app-has-gotten-its-inevitable-ai-update/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>数十年后，FDA 终于将无效减充血剂下架</title>
       <link>https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/</link>
-      <description><![CDATA[去年，FDA 顾问一致认为口服苯肾上腺素无效。]]></description>
+      <description><![CDATA[去年，FDA 顾问一致投票认为口服苯肾上腺素无效。]]></description>
       <guid>https://arstechnica.com/health/2024/11/fda-proposes-ditching-common-decongestant-for-being-completely-useless/</guid>
       <pubDate>Thu, 07 Nov 2024 23:27:56 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[没有人会丢失已经购买的游戏，但是时间在流逝。]]></description>
       <guid>https://arstechnica.com/gaming/2024/11/sega-is-delisting-60-classic-games-from-steam-so-nows-the-time-to-grab-them/</guid>
       <pubDate>Thu, 07 Nov 2024 20:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦电脑崩溃的男子起诉英特尔涉嫌隐瞒 CPU 缺陷</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/man-sick-of-crashes-sues-intel-for-allegedly-hiding-cpu-defects/</link>
-      <description><![CDATA[英特尔第 13 代和第 14 代 CPU 存在缺陷，引发血腥诉讼。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/man-sick-of-crashes-sues-intel-for-allegedly-hiding-cpu-defects/</guid>
-      <pubDate>Thu, 07 Nov 2024 20:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>JD Power 称 2026 年二手电动汽车将充斥市场</title>
-      <link>https://arstechnica.com/cars/2024/11/second-hand-evs-will-flood-the-market-in-2026-jd-power-says/</link>
-      <description><![CDATA[随着 215,000 辆汽车租赁到期，二手电动汽车供应量将增长 230%。]]></description>
-      <guid>https://arstechnica.com/cars/2024/11/second-hand-evs-will-flood-the-market-in-2026-jd-power-says/</guid>
-      <pubDate>Thu, 07 Nov 2024 19:11:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
