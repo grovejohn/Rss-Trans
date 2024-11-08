@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 08:40:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 10:40:04 GMT</lastBuildDate>
+    <item>
+      <title>桌面图标出奇地难！</title>
+      <link>https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.08.3 发布</title>
       <link>https://kdenlive.org/en/2024/11/kdenlive-24-08-3-released/?utm_source=atom_feed</link>
@@ -141,17 +148,6 @@ KDE GTK 配置：妥善处理装饰插件加载失败。 提交。
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/11/03/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Sun, 03 Nov 2024 08:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：迁移至 KDE 基础设施！</title>
-      <link>https://pointieststick.com/2024/11/02/this-week-in-plasma-moved-to-kde-infrastructure/?utm_source=atom_feed</link>
-      <description><![CDATA[惊喜！本博客文章系列现已移至 blogs.kde.org，因此现在可供其他人参与和贡献！本周的帖子可以在 https://blogs.kde.org/2024/11/02/this-week-in-plasma-spoooooky-ooooooooom-notifications 找到
-
-这可能就是它本来就应该在的地方，因为这项工作比我大得多。我暂时仍将担任主编，但欢迎大家做出贡献以减轻负担。  
-不幸的是，由于 GDPR 限制，我无法将现有的电子邮件订阅者迁移到那里的新电子邮件摘要。因此，如果您想重新订阅“本周 Plasma”。前往 https://newsletter.kde.org/subscription/form 并重新订阅。
-我仍会在这里写博客，介绍我感兴趣的 KDE 主题，希望您也感兴趣，只是不会发布每周的 Plasma 新闻。所以我希望您能留下来。 ]]></description>
-      <guid>https://pointieststick.com/2024/11/02/this-week-in-plasma-moved-to-kde-infrastructure/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 02 Nov 2024 08:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
