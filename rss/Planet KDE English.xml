@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 14:38:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 19:35:36 GMT</lastBuildDate>
+    <item>
+      <title>KDE Gear 24.12 分支已创建</title>
+      <link>https://tsdgeos.blogspot.com/2024/11/kde-gear-2412-branches-created.html?utm_source=atom_feed</link>
+      <description><![CDATA[确保将希望最终出现在 KDE Gear 24.12 版本中的任何内容提交给他们下一个日期：  2024 年 11 月 14 日：24.12 冻结和 beta 版 (24.11.80) 标记和发布  2024 年 11 月 28 日：24.12 RC (24.11.90) 标记和发布  2024 年 12 月 5 日：24.12 标记  2024 年 12 月 12 日：24.12 发布https://community.kde.org/Schedules/KDE_Gear_24.12_Schedule ]]></description>
+      <guid>https://tsdgeos.blogspot.com/2024/11/kde-gear-2412-branches-created.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 08 Nov 2024 18:29:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-45 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/11/08/web-review-week-2024-45/?utm_source=atom_feed</link>
@@ -96,7 +103,7 @@ kdevelop：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #4
       <description><![CDATA[
   
 
-在Qt 6.7版本中，我们启用了对C++20 比较的支持，并将其部分功能反向移植到 C++17。这篇博文将为您概述我们正在利用的比较增强功能并提供在自定义类中实现它们的指导。
+在 Qt 6.7 版本中，我们启用了对 C++20 比较的支持，并将其部分功能反向移植到 C++17。这篇博文将为您概述我们正在利用的比较增强功能并提供在自定义类中实现它们的指导。
 ]]></description>
       <guid>https://www.qt.io/blog/c20-comparisons-in-qt?utm_source=atom_feed</guid>
       <pubDate>Tue, 05 Nov 2024 13:14:15 GMT</pubDate>
@@ -122,21 +129,6 @@ LabPlot 支持许多不同格式（CSV、Origin、SAS、Stata、SPSS、MATLAB、
 处理经常修改的外部数据时，导入的性能更为关键。为了在 LabPlot 中为此类“实时数据”提供流畅的可视化效果，优化此处涉及的所有步骤非常重要，例如导入新数据本身，以及算法（平滑等）和可视化部分中的重新计算。对于下一个版本，我们现在正在努力进一步优化实现，以便在不久的将来处理更多性能关键场景。这些活动的结果由 NLnet 资助，将很快成为专门帖子的主题。]]></description>
       <guid>https://labplot.kde.org/2024/11/05/performance-of-data-import-in-labplot/?utm_source=atom_feed</guid>
       <pubDate>Tue, 05 Nov 2024 10:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.2.3，11 月错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.2.3/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 11 月 5 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.2.3。
-Plasma 6.2 于 2024 年 10 月发布，其中包含许多功能改进和新模块，以完善桌面体验。
-此版本增加了两周的新翻译和来自 KDE 贡献者的修复。这些错误修复通常很小但很重要，包括：
-
-Bluedevil：更正 PIN 输入行为。 提交。
-KWin：后端/drm：在 HDR 模式下不要将背光亮度设置为 1。提交。修复错误#495242
-KDE GTK 配置：妥善处理装饰插件加载失败。 提交。
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.2.3/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
