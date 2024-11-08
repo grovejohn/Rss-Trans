@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Nov 2024 18:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 08:40:59 GMT</lastBuildDate>
     <item>
       <title>Kdenlive 24.08.3 发布</title>
       <link>https://kdenlive.org/en/2024/11/kdenlive-24-08-3-released/?utm_source=atom_feed</link>
@@ -12,7 +12,8 @@
 
 
 
-24.08 系列的最后一个维护版本已经发布。
+24.08 系列的最后一个维护版本已经发布。我们修复了一些问题，因此项目打开应该可以再次正常工作。
+ 
 
 修复打开字幕时传递错误编解码器导致的崩溃。 提交。修复错误#495410。
 修复阴影变量导致打开项目时剪辑删除不正确的问题，修复打开项目时时间线剪辑丢失导致崩溃的问题。提交。请参阅错误 #493486。
