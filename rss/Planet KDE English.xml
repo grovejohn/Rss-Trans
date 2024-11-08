@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 19:35:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 21:14:07 GMT</lastBuildDate>
     <item>
       <title>KDE Gear 24.12 分支已创建</title>
       <link>https://tsdgeos.blogspot.com/2024/11/kde-gear-2412-branches-created.html?utm_source=atom_feed</link>
@@ -70,8 +70,8 @@
 今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
 
 neochat：进行调整以使其与新发布的 libquotient 0.9 兼容（提交）
-kdevelop：MesonManager：在项目关闭时删除测试套件，（提交，修复错误 #427157)
-kdevelop：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #495335)
+kdevelop：MesonManager：在项目关闭时删除测试套件（提交，修复错误 #427157)
+kdenlive：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #495335)
 
 发行版和应用商店打包者应更新其应用程序包。
 
