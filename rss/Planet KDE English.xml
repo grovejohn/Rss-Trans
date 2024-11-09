@@ -4,7 +4,65 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Nov 2024 16:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 21:13:43 GMT</lastBuildDate>
+    <item>
+      <title>KDE PIM 的 9 月和 10 月</title>
+      <link>https://kontact.kde.org/blog/2024/2024-11-09-september-october-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[这是 KDE 个人信息管理
+应用程序团队的双月更新。本报告涵盖了 2024 年 9 月和 10 月取得的进展。
+自上次报告以来，已有 24 人为 KDE PIM
+代码库贡献了 1100 多项更改。我们还发布了 KDE PIM Suite 的两个错误修复版本，包括
+Gear 版本 24.08.1 和
+24.08.2
+请注意，这是 KDE PIM 的最后一篇双月博客文章。我们将继续致力于
+KDE PIM，但每周对 KDE PIM 的改进现在都包含在
+本周 KDE 应用博客中。
+Akademy
+KDE PIM 团队于 9 月 7 日至 12 日在维尔茨堡（德国）的 Akademy。我们再次举办了 PIM
+BoF。
+我们讨论了几个主题并制定了计划。特别是，我们谈到了贡献拦截器，
+我们希望里程碑系统能够有所帮助，并致力于解决不属于 KDE 框架的大量存储库问题。事情正在朝着正确的方向发展，但进展缓慢。
+欢迎随时伸出援手！
+里程碑
+谈论里程碑。您可以在 Gitlab
+board 上看到我们准备了什么。其中一些进展顺利，例如 Kontact for Windows 的复活或 QCA 的移植。
+如果您看到任何您喜欢的东西并愿意提供帮助，请通过
+#kontact:kde.org Matrix 频道与我们联系！
+应用程序
+行程
+我们的旅行援助应用程序 Itinerary 有了新的两级行程/时间线视图、扩展的公共交通位置搜索、新的完整行程地图视图和更好的 Android 平台集成。更多信息请参阅 [其双月更新]
+(https://volkerkrause.eu/2024/10/03/kde-itinerary-august-september-2024.html)。
+KAlarm
+David 一直致力于修复与声音处理相关的错误。特别是，
+重复音频警报仅播放一次
+已得到修复。同样，在某些系统上使用 libVLC 播放声音文件失败的问题也已解决。此外，播放声音的后端可以在构建时更改，可以使用 VLC 或 MPV。
+但这并不是唯一被修复的错误。现在可以
+使用 RTC 唤醒时从挂起状态唤醒
+并且已修复影响内核支持闹钟定时器的系统的崩溃问题。
+最后但并非最不重要的是，GUI 已围绕首选项对话框中的运行模式选项进行了改进。
+Merkuro
+Claudio 一直忙于修复回归问题并提高 Merkuro 的稳定性。值得注意的是，现在再次显示地图（如果事件包含坐标）。此外，编辑器中的集合组合框现在已初始化为
+有效集合，并且过滤功能已修复。
+KAddressBook 和 KOrganizer
+对 Plasma 活动支持的一般改进仍在进行中。
+它默认未启用，因为它需要 Akonadi 资源支持才能
+真正有用，并且相应的更改尚未实现。
+KMail
+在 KMail 前端，搜索功能已得到极大改进。现在
+搜索文本字段中可以使用自定义语法。现在，可以使用关键字
+
+如 subject:、body:、to、from、has:attachment、is:important、
+is:replied 等进行更精确的查询。
+例如，可以写“from:vkrause@kde.org to:kde-pim@kde.org is:important”
+
+以仅获取 kde-pim 邮件列表中 Volker 发送的、标记为重要的电子邮件。
+
+
+
+]]></description>
+      <guid>https://kontact.kde.org/blog/2024/2024-11-09-september-october-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 09 Nov 2024 19:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>Fedora KDE 启用第三方存储库</title>
       <link>https://blog.marcdeop.com/?p=289?utm_source=atom_feed</link>
@@ -112,26 +170,6 @@
 文章Kdenlive 24.08.3 发布首先出现在Kdenlive上。]]></description>
       <guid>https://kdenlive.org/en/2024/11/kdenlive-24-08-3-released/?utm_source=atom_feed</guid>
       <pubDate>Thu, 07 Nov 2024 18:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 齿轮 24.08.3</title>
-      <link>https://kde.org/announcements/gear/24.08.3/?utm_source=atom_feed</link>
-      <description><![CDATA[作为 KDE Gear 的一部分，超过 180 个独立程序以及数十个程序员库和功能插件同时发布。
-今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
-
-neochat：进行调整以使其与新发布的 libquotient 0.9 兼容（提交）
-kdevelop：MesonManager：在项目关闭时删除测试套件（提交，修复错误 #427157)
-kdenlive：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #495335)
-
-发行版和应用商店打包者应更新其应用程序包。
-
-24.08 发行说明，了解有关 tarball 和已知问题的信息。
-软件包下载 Wiki 页面
-24.08.3 源信息页面
-24.08.3 完整更新日志
-]]></description>
-      <guid>https://kde.org/announcements/gear/24.08.3/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
