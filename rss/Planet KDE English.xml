@@ -4,7 +4,35 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Nov 2024 14:36:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 16:41:16 GMT</lastBuildDate>
+    <item>
+      <title>Fedora KDE 启用第三方存储库</title>
+      <link>https://blog.marcdeop.com/?p=289?utm_source=atom_feed</link>
+      <description><![CDATA[您可能知道，Fedora KDE 41 于几周前发布。
+我想谈谈我们的同事 @farchord（在上游开发人员 @Nate Graham 的支持下）为我们的 Fedora KDE 发行版带来的一项特殊功能：一键启用第三方存储库！
+得益于 plasma-welcome 我们可以提供此功能 
+安装 Fedora 后，首次登录时，您将看到 Plasma 欢迎窗口：
+
+在单击跳过之前，您可以浏览不同的幻灯片以了解 KDE 和 Fedora，并决定是否要使用匿名指标做出贡献（注意：我个人不会）：
+
+下一张幻灯片中有有趣的部分：
+
+只需单击一个按钮，您就可以启用用户最常请求的第三方存储库，例如 rpmfusion！ （注意：系统会要求您输入管理员密码）
+
+请求处理完毕后，消息将更改为：
+
+就是这样！您已成功启用第三方存储库，无需修改任何文件或运行任何命令 
+在对系统和新配置进行任何操作之前，我强烈建议您通过 Plasma Discover 更新系统：
+
+继续进行所有更新并重新启动，以从我们的存储库中获取最新和最出色的内容。
+最后，要验证第三方软件是否可用，您可以检查：
+
+
+就是这样！
+尽情享受吧！这一切都要归功于farchord、siosm、aleasto 和 ngraham 的作品！]]></description>
+      <guid>https://blog.marcdeop.com/?p=289?utm_source=atom_feed</guid>
+      <pubDate>Sat, 09 Nov 2024 16:23:17 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 Ubuntu 峰会：充满悲伤的欢乐经历</title>
       <link>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</link>
@@ -104,13 +132,6 @@ kdenlive：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #4
 ]]></description>
       <guid>https://kde.org/announcements/gear/24.08.3/?utm_source=atom_feed</guid>
       <pubDate>Thu, 07 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wayland 的小玩意儿</title>
-      <link>https://blog.broulik.de/2024/11/little-wayland-things/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.broulik.de/2024/11/little-wayland-things/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 06 Nov 2024 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
