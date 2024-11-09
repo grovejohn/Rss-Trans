@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Nov 2024 01:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 08:39:05 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 Ubuntu 峰会：充满悲伤的欢乐经历</title>
+      <link>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[你有没有想过？你生命中最快乐的时刻充满了悲伤、失落的悲痛……
+我们先来谈谈 Ubuntu 峰会，我的国际会议和独自出国旅行。我可能是我整个大家庭中第一个访问欧洲国家的人。我的父母、祝福者，每个人都很高兴。唯一一个对此不太了解的人是我的外祖父，我给他打电话（是的，“打电话”，他于 2024 年 10 月 27 日离开了我们）爸爸。让我先告诉你关于峰会的事情。]]></description>
+      <guid>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 09 Nov 2024 07:35:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Wayland 平板电脑改进</title>
       <link>https://nicolasfella.de/posts/qt-wayland-tablet-improvements/?utm_source=atom_feed?utm_source=atom_feed</link>
@@ -103,17 +111,6 @@ kdenlive：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #4
       <description><![CDATA[]]></description>
       <guid>https://zamundaaa.github.io/wayland/2024/11/06/hdr-and-color-management-in-kwin-part-5.html?utm_source=atom_feed</guid>
       <pubDate>Tue, 05 Nov 2024 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 中的 C++20 比较（甚至与 C++17🤩）</title>
-      <link>https://www.qt.io/blog/c20-comparisons-in-qt?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-在 Qt 6.7 版本中，我们启用了对 C++20 比较的支持，并将其部分功能反向移植到 C++17。这篇博文将为您概述我们正在利用的比较增强功能并提供在自定义类中实现它们的指导。
-]]></description>
-      <guid>https://www.qt.io/blog/c20-comparisons-in-qt?utm_source=atom_feed</guid>
-      <pubDate>Tue, 05 Nov 2024 13:14:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
