@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 08 Nov 2024 21:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 01:07:23 GMT</lastBuildDate>
+    <item>
+      <title>Qt Wayland 平板电脑改进</title>
+      <link>https://nicolasfella.de/posts/qt-wayland-tablet-improvements/?utm_source=atom_feed?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://nicolasfella.de/posts/qt-wayland-tablet-improvements/?utm_source=atom_feed?utm_source=atom_feed</guid>
+      <pubDate>Fri, 08 Nov 2024 22:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Gear 24.12 分支已创建</title>
       <link>https://tsdgeos.blogspot.com/2024/11/kde-gear-2412-branches-created.html?utm_source=atom_feed</link>
@@ -107,28 +114,6 @@ kdenlive：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #4
 ]]></description>
       <guid>https://www.qt.io/blog/c20-comparisons-in-qt?utm_source=atom_feed</guid>
       <pubDate>Tue, 05 Nov 2024 13:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>LabPlot 中的数据导入性能</title>
-      <link>https://labplot.kde.org/2024/11/05/performance-of-data-import-in-labplot/?utm_source=atom_feed</link>
-      <description><![CDATA[在许多情况下，将数据导入 LabPlot 进行进一步分析和可视化是应用程序的第一步：
-
-
-LabPlot 支持许多不同格式（CSV、Origin、SAS、Stata、SPSS、MATLAB、SQL、JSON、二进制、开放文档电子表格 (ods)、Excel (xlsx)、HDF5、MQTT、二进制日志格式 (BLF)、目前，我们已经支持多种格式（例如 FITS、NetCDF、ROOT (CERN)、LTspice、Ngspice），并且我们计划在未来增加对更多格式的支持。所有这些格式都有其存在的理由以及优点和缺点。但是，不同格式之间以及不同 CPU 代之间的数据读取性能差异很大。在这篇文章中，我们将展示以四种不同格式（ASCII/CSV、二进制、HDF5 和 netCDF）导入给定量的数据需要多长时间。
-这篇文章不是要推广任何一种格式，也不是要使用不同数量和类型的数据进行非常复杂的测量以及进行广泛的 CPU 基准测试。相反，它与您可以（大致）期望在 LabPlot 中当前实现的新硬件和不太新的硬件上的性能有关。
-对于本练习，我们导入了具有 1 个整数列和 5 个浮点值列（5 个“粒子”的布朗运动，一个整数列用于索引）的数据集，其中包含 5000 万行，结果为 3 亿个数值：
-
-
-我们对每种格式进行 6 次测量，忽略第一次测量，由于内核中的磁盘缓存，该测量几乎总是异常值，并导致后续访问时文件读取速度更快，然后计算平均值：
-
-
-正如预期的那样，内部处理二进制表示的文件格式（二进制、HDF5、NetCDF）与 ASCII 相比提供了明显更好的性能，并且 CPU 越慢，这种差异就越大。 HDF5 和 NetCDF 的性能几乎相同，因为较新版本的 NetCDF 基于 HDF5。
-数据导入代码中的实现很简单。暂时忽略不同选项影响解析器行为的复杂性、不同的数据类型和其他细微差别，一旦一切设置完毕，只需迭代数据、解析数据并将其转换为内部结构即可。循环内的逻辑是固定的，并且预计会相对于要读取的总值数量呈现线性行为。使用相同的 CPU（我们从上表中选取了最快的 CPU）并改变总行数和固定列数，可以确认这一预期：
-
-
-处理经常修改的外部数据时，导入的性能更为关键。为了在 LabPlot 中为此类“实时数据”提供流畅的可视化效果，优化此处涉及的所有步骤非常重要，例如导入新数据本身，以及算法（平滑等）和可视化部分中的重新计算。对于下一个版本，我们现在正在努力进一步优化实现，以便在不久的将来处理更多性能关键场景。这些活动的结果由 NLnet 资助，将很快成为专门帖子的主题。]]></description>
-      <guid>https://labplot.kde.org/2024/11/05/performance-of-data-import-in-labplot/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 05 Nov 2024 10:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
