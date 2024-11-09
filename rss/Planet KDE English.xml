@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 09 Nov 2024 08:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 10:37:45 GMT</lastBuildDate>
     <item>
       <title>2024 年 Ubuntu 峰会：充满悲伤的欢乐经历</title>
       <link>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</link>
@@ -12,6 +12,13 @@
 我们先来谈谈 Ubuntu 峰会，我的国际会议和独自出国旅行。我可能是我整个大家庭中第一个访问欧洲国家的人。我的父母、祝福者，每个人都很高兴。唯一一个对此不太了解的人是我的外祖父，我给他打电话（是的，“打电话”，他于 2024 年 10 月 27 日离开了我们）爸爸。让我先告诉你关于峰会的事情。]]></description>
       <guid>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</guid>
       <pubDate>Sat, 09 Nov 2024 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周等离子：你想要的一切，甚至更多</title>
+      <link>https://blogs.kde.org/2024/11/09/this-week-in-plasma-everything-you-wanted-and-more/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/11/09/this-week-in-plasma-everything-you-wanted-and-more/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 09 Nov 2024 04:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Qt Wayland 平板电脑改进</title>
@@ -104,13 +111,6 @@ kdenlive：修复 Qt 6.8 中 qml 崩溃构建时间线 (提交，修复错误 #4
       <description><![CDATA[]]></description>
       <guid>https://blog.broulik.de/2024/11/little-wayland-things/?utm_source=atom_feed</guid>
       <pubDate>Wed, 06 Nov 2024 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KWin 中的 HDR 和色彩管理，第 5 部分：SDR 笔记本电脑上的 HDR</title>
-      <link>https://zamundaaa.github.io/wayland/2024/11/06/hdr-and-color-management-in-kwin-part-5.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://zamundaaa.github.io/wayland/2024/11/06/hdr-and-color-management-in-kwin-part-5.html?utm_source=atom_feed</guid>
-      <pubDate>Tue, 05 Nov 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
