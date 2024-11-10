@@ -4,7 +4,24 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 10 Nov 2024 08:38:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 16:40:07 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 应用程序中：采用应用程序</title>
+      <link>https://blogs.kde.org/2024/11/10/this-week-in-kde-apps-adopt-an-app/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/11/10/this-week-in-kde-apps-adopt-an-app/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 10 Nov 2024 08:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ramon Miranda 的新视频：无缝模板</title>
+      <link>https://krita.org/en/posts/2024/seamless-templates-video/?utm_source=atom_feed</link>
+      <description><![CDATA[我们发布了一个新视频！..模板！您可以使用 Krita 创建它们，以节省数字绘画的时间，并更加专注于您的艺术作品。它们是无缝的，它们很有用，而且它们真的很容易生成。所以让我们来看看 Krita 的另一个超酷功能。
+查看视频以获取模板本身的下载链接！
+
+]]></description>
+      <guid>https://krita.org/en/posts/2024/seamless-templates-video/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 10 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE PIM 的 9 月和 10 月</title>
       <link>https://kontact.kde.org/blog/2024/2024-11-09-september-october-2024/?utm_source=atom_feed</link>
@@ -133,43 +150,6 @@ is:replied 等进行更精确的查询。
       <description><![CDATA[]]></description>
       <guid>https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/?utm_source=atom_feed</guid>
       <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 发布框架 6.8.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.8.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.8.0/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 24.08.3 发布</title>
-      <link>https://kdenlive.org/en/2024/11/kdenlive-24-08-3-released/?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-
-
-24.08 系列的最后一个维护版本已经发布。我们修复了一些问题，因此项目打开应该可以再次正常工作。
- 
-
-修复打开字幕时传递错误编解码器导致的崩溃。 提交。修复错误#495410。
-修复阴影变量导致打开项目时剪辑删除不正确的问题，修复打开项目时时间线剪辑丢失导致崩溃的问题。提交。请参阅错误 #493486。
-修复使用 Qt 6.8 构建时间线时 qml 崩溃的问题 – 确保在设置源之前存在上下文属性。提交。请参阅错误 #495335。
-修复当帧大小高于不使用当前项目设置的值时生成代理的问题。 提交。
-修复阴影变量导致项目打开时剪辑被删除的问题。提交。
-修复监视器在转描过程中无法定位上一个/下一个关键帧的问题。 提交。
-修复项目打开时未正确修复的缺失内置 LUT 文件。提交。请参阅错误 #494726。
-修复剪辑作业，例如稳定创建无效文件夹。 提交。
-修复文件夹 ID 无效时加载项目冻结的问题。提交。
-在 bin 中替换音频剪辑时不要使时间线预览无效。 提交。
-确保在未选择任何剪辑或文件夹时清除监视器并隐藏标尺。 提交。
-
-
-
-
-
-文章Kdenlive 24.08.3 发布首先出现在Kdenlive上。]]></description>
-      <guid>https://kdenlive.org/en/2024/11/kdenlive-24-08-3-released/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 07 Nov 2024 18:14:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
