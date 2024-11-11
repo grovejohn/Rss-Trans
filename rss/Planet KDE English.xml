@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 11 Nov 2024 10:41:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 13:00:41 GMT</lastBuildDate>
     <item>
       <title>本周 KDE 应用程序中：采用应用程序</title>
       <link>https://blogs.kde.org/2024/11/10/this-week-in-kde-apps-adopt-an-app/?utm_source=atom_feed</link>
@@ -47,14 +47,12 @@ board 上看到我们准备了什么。其中一些进展顺利，例如 Kontact
 #kontact:kde.org Matrix 频道与我们联系！
 应用程序
 行程
-我们的旅行援助应用程序 Itinerary 有了新的两级行程/时间线视图、扩展的公共交通位置搜索、新的完整行程地图视图和更好的 Android 平台集成。更多信息请参阅 [其双月更新]
-(https://volkerkrause.eu/2024/10/03/kde-itinerary-august-september-2024.html)。
+我们的旅行援助应用程序 Itinerary 有了新的两级行程/时间线视图、扩展的公共交通位置搜索、新的完整行程地图视图和更好的 Android 平台集成。更多信息请参阅其双月更新。
 KAlarm
-David 一直致力于修复与声音处理相关的错误。特别是，
+David 一直致力于修复声音处理方面的错误。特别是，
 重复音频警报仅播放一次
-已得到修复。同样，在某些系统上使用 libVLC 播放声音文件失败的问题也已解决。此外，播放声音的后端可以在构建时更改，可以使用 VLC 或 MPV。
-但这并不是唯一被修复的错误。现在可以
-使用 RTC 唤醒时从挂起状态唤醒
+已修复。同样，在某些系统上使用 libVLC 播放声音文件失败的问题也已解决。此外，播放声音的后端可以在构建时更改，可以使用 VLC 或 MPV。
+但这并不是唯一被修复的错误。现在可以使用 RTC 唤醒时从挂起状态唤醒
 并且已修复影响内核支持闹钟定时器的系统的崩溃问题。
 最后但并非最不重要的是，GUI 已围绕首选项对话框中的运行模式选项进行了改进。
 Merkuro
@@ -112,7 +110,7 @@ is:replied 等进行更精确的查询。
       <title>2024 年 Ubuntu 峰会：充满悲伤的欢乐经历</title>
       <link>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</link>
       <description><![CDATA[你有没有想过？你生命中最快乐的时刻充满了悲伤、失落的悲痛……
-我们先来谈谈 Ubuntu 峰会，我的国际会议和独自出国旅行。我可能是我整个大家庭中第一个访问欧洲国家的人。我的父母、祝福者，每个人都很高兴。唯一一个对此不太了解的人是我的外祖父，我给他打电话（是的，“打电话”，他于 2024 年 10 月 27 日离开了我们）爸爸。让我先告诉你关于峰会的事情。]]></description>
+我们先来谈谈 Ubuntu 峰会，我的国际会议和独自出国旅行。我可能是整个大家庭中第一个访问欧洲国家的人。我的父母、祝福者，每个人都很高兴。唯一一个对此不太了解的人是我的外祖父，我叫他（是的，“叫”，他于 2024 年 10 月 27 日离开了我们）爸爸。让我先告诉你关于峰会的事情。]]></description>
       <guid>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</guid>
       <pubDate>Sat, 09 Nov 2024 07:35:00 GMT</pubDate>
     </item>
