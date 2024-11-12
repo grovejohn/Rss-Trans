@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 12 Nov 2024 15:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 18:42:44 GMT</lastBuildDate>
+    <item>
+      <title>呼唤所有 Ars 读者！我们需要您的反馈。</title>
+      <link>https://arstechnica.com/staff/2024/11/calling-all-ars-readers-your-feedback-is-needed/</link>
+      <description><![CDATA[我们希望听到您的意见。]]></description>
+      <guid>https://arstechnica.com/staff/2024/11/calling-all-ars-readers-your-feedback-is-needed/</guid>
+      <pubDate>Tue, 12 Nov 2024 18:30:40 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊准备使用自己的 AI 芯片，减少对 Nvidia 的依赖</title>
       <link>https://arstechnica.com/ai/2024/11/amazon-ready-to-use-its-own-ai-chips-reduce-its-dependence-on-nvidia/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>FTX 在由罪犯创建的加密货币交易所之争中起诉币安，索赔 17.6 亿美元</title>
       <link>https://arstechnica.com/tech-policy/2024/11/ftx-sues-binance-for-1-76b-in-battle-of-crypto-exchanges-founded-by-convicts/</link>
-      <description><![CDATA[诉讼称，SBF 涉嫌“欺诈性转移至少 17.6 亿美元”。]]></description>
+      <description><![CDATA[诉讼称，SBF“通过欺诈手段转移了至少 17.6 亿美元”。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/ftx-sues-binance-for-1-76b-in-battle-of-crypto-exchanges-founded-by-convicts/</guid>
       <pubDate>Mon, 11 Nov 2024 19:14:02 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[柴油设备将被氢动力或电力设备取代。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/air-quality-problems-spur-200-million-in-funds-to-cut-pollution-at-ports/</guid>
       <pubDate>Mon, 11 Nov 2024 14:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯：好吧，我想我们也应该有一个 Grasshopper 火箭项目</title>
-      <link>https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/</link>
-      <description><![CDATA[按照这个时间线，俄罗斯落后 SpaceX 近十五年。]]></description>
-      <guid>https://arstechnica.com/space/2024/11/russia-fine-i-guess-we-should-have-a-grasshopper-rocket-project-too/</guid>
-      <pubDate>Mon, 11 Nov 2024 13:42:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
