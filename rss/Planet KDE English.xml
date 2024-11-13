@@ -1,10 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 12 Nov 2024 08:42:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 06:44:28 GMT</lastBuildDate>
+    <item>
+      <title>API 文档移植冲刺</title>
+      <link>https://blogs.kde.org/2024/11/13/api-documentation-porting-sprint/?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+
+曾经有传言说：“我们的 C++ API 文档存在一些问题，我们的 QML API 文档存在很多问题。”
+这是真的，但这种情况很快就会改变！您可能知道，我们一直在努力将我们的文档移植，从Doxygen移植到QDoc，您可以为此提供帮助。
+这是一项任务，该任务已被简化应用程序开发体验所采纳，该任务由Nicolas Fella 和 Nate Graham 是 KDE Goals 计划的一部分。
+我们想邀请您加入我们的移植冲刺工作以完成此任务。11 月 14 日下午 1 点（UTC 时间），我们将在 Matrix 房间 一起处理此事。希望在那里见到你。
+一些先决条件：
+
+能够使用终端
+额外的磁盘空间（最低 30GB）
+熟悉一些 API
+
+查看由 Thiago Sueto 准备的有关如何开始将项目移植到 QDoc 的说明。]]></description>
+      <guid>https://blogs.kde.org/2024/11/13/api-documentation-porting-sprint/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>色彩与软件</title>
       <link>https://anditosan.wordpress.com/2024/11/11/of-color-and-software/?utm_source=atom_feed</link>
@@ -141,12 +161,12 @@ is:replied 等进行更精确的查询。
       <title>2024 年 Ubuntu 峰会：充满悲伤的欢乐经历</title>
       <link>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</link>
       <description><![CDATA[你有没有想过？你生命中最快乐的时刻充满了悲伤、失落的悲痛……
-我们先来谈谈 Ubuntu 峰会，我的国际会议和独自出国旅行。我可能是整个大家庭中第一个访问欧洲国家的人。我的父母、祝福者，每个人都很高兴。唯一一个对此不太了解的人是我的外祖父，我叫他（是的，“叫”，他于 2024 年 10 月 27 日离开了我们）爸爸。让我先告诉你关于峰会的事情。]]></description>
+我们先来谈谈 Ubuntu 峰会，我的国际会议和独自出国旅行。我可能是我整个大家庭中第一个访问欧洲国家的人。我的父母、祝福者，每个人都很高兴。唯一一个对此不太了解的人是我的外祖父，我给他打电话（是的，“打电话”，他于 2024 年 10 月 27 日离开了我们）爸爸。让我先告诉你关于峰会的事情。]]></description>
       <guid>https://soumyadghosh.github.io/website/blog/ubuntu-summit-2024/?utm_source=atom_feed</guid>
       <pubDate>Sat, 09 Nov 2024 07:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>本周等离子：你想要的一切，甚至更多</title>
+      <title>本周 Plasma 资讯：你想要的一切，甚至更多</title>
       <link>https://blogs.kde.org/2024/11/09/this-week-in-plasma-everything-you-wanted-and-more/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/11/09/this-week-in-plasma-everything-you-wanted-and-more/?utm_source=atom_feed</guid>
@@ -165,13 +185,6 @@ is:replied 等进行更精确的查询。
       <description><![CDATA[确保将希望最终出现在 KDE Gear 24.12 版本中的任何内容提交给他们下一个日期：  2024 年 11 月 14 日：24.12 冻结和 beta 版 (24.11.80) 标记和发布  2024 年 11 月 28 日：24.12 RC (24.11.90) 标记和发布  2024 年 12 月 5 日：24.12 标记  2024 年 12 月 12 日：24.12 发布https://community.kde.org/Schedules/KDE_Gear_24.12_Schedule ]]></description>
       <guid>https://tsdgeos.blogspot.com/2024/11/kde-gear-2412-branches-created.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 08 Nov 2024 18:29:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-45 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/11/08/web-review-week-2024-45/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/11/08/web-review-week-2024-45/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 08 Nov 2024 14:01:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
