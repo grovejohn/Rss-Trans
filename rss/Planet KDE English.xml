@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 13 Nov 2024 08:42:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 10:41:12 GMT</lastBuildDate>
+    <item>
+      <title>使用 CMake 设置 C++ 定义</title>
+      <link>https://www.kdab.com/setting-defines-with-cmake/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/setting-defines-with-cmake/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 13 Nov 2024 09:00:31 GMT</pubDate>
+    </item>
     <item>
       <title>API 文档移植冲刺</title>
       <link>https://blogs.kde.org/2024/11/13/api-documentation-porting-sprint/?utm_source=atom_feed</link>
@@ -166,7 +173,7 @@ is:replied 等进行更精确的查询。
       <pubDate>Sat, 09 Nov 2024 07:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>本周等离子：你想要的一切，甚至更多</title>
+      <title>本周 Plasma 资讯：你想要的一切，甚至更多</title>
       <link>https://blogs.kde.org/2024/11/09/this-week-in-plasma-everything-you-wanted-and-more/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/11/09/this-week-in-plasma-everything-you-wanted-and-more/?utm_source=atom_feed</guid>
@@ -178,13 +185,6 @@ is:replied 等进行更精确的查询。
       <description><![CDATA[]]></description>
       <guid>https://nicolasfella.de/posts/qt-wayland-tablet-improvements/?utm_source=atom_feed?utm_source=atom_feed</guid>
       <pubDate>Fri, 08 Nov 2024 22:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear 24.12 分支已创建</title>
-      <link>https://tsdgeos.blogspot.com/2024/11/kde-gear-2412-branches-created.html?utm_source=atom_feed</link>
-      <description><![CDATA[确保将希望最终出现在 KDE Gear 24.12 版本中的任何内容提交给他们下一个日期：  2024 年 11 月 14 日：24.12 冻结和 beta 版 (24.11.80) 标记和发布  2024 年 11 月 28 日：24.12 RC (24.11.90) 标记和发布  2024 年 12 月 5 日：24.12 标记  2024 年 12 月 12 日：24.12 发布https://community.kde.org/Schedules/KDE_Gear_24.12_Schedule ]]></description>
-      <guid>https://tsdgeos.blogspot.com/2024/11/kde-gear-2412-branches-created.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 08 Nov 2024 18:29:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
