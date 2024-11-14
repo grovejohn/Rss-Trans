@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 14 Nov 2024 19:36:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 20:39:09 GMT</lastBuildDate>
     <item>
-      <title>微软让在基于 Arm 的 PC 上全新安装 Windows 变得更加容易</title>
+      <title>报道称，特朗普团队提出电动汽车税收抵免，特斯拉已加入</title>
+      <link>https://arstechnica.com/cars/2024/11/trump-team-puts-ev-tax-credit-on-the-block-tesla-is-on-board-report/</link>
+      <description><![CDATA[埃隆·马斯克曾表示，这会给竞争对手带来比特斯拉更大的伤害。]]></description>
+      <guid>https://arstechnica.com/cars/2024/11/trump-team-puts-ev-tax-credit-on-the-block-tesla-is-on-board-report/</guid>
+      <pubDate>Thu, 14 Nov 2024 19:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软终于发布了 Arm 版 Windows 的通用安装 ISO</title>
       <link>https://arstechnica.com/gadgets/2024/11/microsoft-makes-it-easier-to-do-a-clean-windows-install-on-arm-based-pcs/</link>
       <description><![CDATA[通用安装介质使 Arm PC 更接近任何旧的 x86 PC 的感觉。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/11/microsoft-makes-it-easier-to-do-a-clean-windows-install-on-arm-based-pcs/</guid>
@@ -41,7 +48,7 @@
       <pubDate>Thu, 14 Nov 2024 14:22:54 GMT</pubDate>
     </item>
     <item>
-      <title>《半条命 2》将 Steam 推向了游戏大众……而大众却反击了</title>
+      <title>《半条命 2》将 Steam 推向了游戏大众……而大众则进行了反击</title>
       <link>https://arstechnica.com/gaming/2024/11/how-half-life-2-helped-sell-steam-to-a-skeptical-pc-gaming-market/</link>
       <description><![CDATA[早在 2004 年，许多玩家就认为 Valve 的新平台只不过是“花哨的 DRM”。]]></description>
       <guid>https://arstechnica.com/gaming/2024/11/how-half-life-2-helped-sell-steam-to-a-skeptical-pc-gaming-market/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[“事件正在迅速交织在一起。世界的命运即将被决定。”]]></description>
       <guid>https://arstechnica.com/gaming/2024/11/dragon-age-the-veilguard-and-the-choices-you-make-while-saving-the-world/</guid>
       <pubDate>Thu, 14 Nov 2024 12:30:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM 提高了量子硬件的计算量</title>
-      <link>https://arstechnica.com/science/2024/11/ibm-boosts-the-amount-of-computation-you-can-get-done-on-quantum-hardware/</link>
-      <description><![CDATA[硬件和软件堆栈的渐进式改进不断增加。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/ibm-boosts-the-amount-of-computation-you-can-get-done-on-quantum-hardware/</guid>
-      <pubDate>Wed, 13 Nov 2024 22:42:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
