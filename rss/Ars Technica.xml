@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 15 Nov 2024 14:40:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 16:20:04 GMT</lastBuildDate>
+    <item>
+      <title>由于发射机会“减少”，ABL Space 将转向导弹防御</title>
+      <link>https://arstechnica.com/space/2024/11/citing-decreasing-launch-opportunities-abl-space-will-pivot-to-missile-defense/</link>
+      <description><![CDATA[“作为一家商业发射公司，我们做出重大贡献的道路大大缩小了。”]]></description>
+      <guid>https://arstechnica.com/space/2024/11/citing-decreasing-launch-opportunities-abl-space-will-pivot-to-missile-defense/</guid>
+      <pubDate>Fri, 15 Nov 2024 15:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国联邦贸易委员会将对微软云业务展开调查</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/</link>
+      <description><![CDATA[微软被指控对 Azure 使用了惩罚性许可条款。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/ftc-to-launch-investigation-into-microsofts-cloud-business/</guid>
+      <pubDate>Fri, 15 Nov 2024 14:44:21 GMT</pubDate>
+    </item>
     <item>
       <title>今年我第一次玩《半条命 2》——游戏体验如下</title>
       <link>https://arstechnica.com/gaming/2024/11/i-played-half-life-2-for-the-first-time-this-year-heres-how-it-went/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[《你所需要的只是注意力》一书的合著者反思了 ChatGPT 的惊喜和谷歌的保守主义。]]></description>
       <guid>https://arstechnica.com/ai/2024/11/chatgpts-success-could-have-come-sooner-says-former-google-ai-researcher/</guid>
       <pubDate>Thu, 14 Nov 2024 17:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟因 Meta 违反 Marketplace 法律对其处以 8 亿欧元罚款</title>
-      <link>https://arstechnica.com/gadgets/2024/11/eu-fines-meta-e800-million-for-breaking-law-with-marketplace/</link>
-      <description><![CDATA[欧盟：将免费的 Facebook 市场与社交网络捆绑在一起会削弱竞争对手。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/11/eu-fines-meta-e800-million-for-breaking-law-with-marketplace/</guid>
-      <pubDate>Thu, 14 Nov 2024 14:54:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>有缺陷的 Colorsofts 导致一些 Kindle 用户无法拥有电子阅读器</title>
-      <link>https://arstechnica.com/gadgets/2024/11/faulty-colorsofts-have-left-some-kindle-owners-without-an-e-reader/</link>
-      <description><![CDATA[当新产品存在技术问题时，以旧换新计划就不会发挥太大作用。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/11/faulty-colorsofts-have-left-some-kindle-owners-without-an-e-reader/</guid>
-      <pubDate>Thu, 14 Nov 2024 14:22:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
