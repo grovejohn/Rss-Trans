@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 15 Nov 2024 16:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 04:43:27 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：使用 WINE 进行发现和系统监控</title>
+      <link>https://blogs.kde.org/2024/11/16/this-week-in-plasma-discover-and-system-monitor-with-a-side-of-wine/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/11/16/this-week-in-plasma-discover-and-system-monitor-with-a-side-of-wine/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 16 Nov 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-46 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/?utm_source=atom_feed</link>
@@ -91,37 +98,6 @@ kontact
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/monthly-update-20/?utm_source=atom_feed</guid>
       <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>色彩与软件</title>
-      <link>https://anditosan.wordpress.com/2024/11/11/of-color-and-software/?utm_source=atom_feed</link>
-      <description><![CDATA[时间过得真快！
-我们一直在努力确保我们的设计系统不断进步。在过去几周里，我们在色彩创作和图标领域取得了重大进展。
-还有一个 PenPot 形式的复活节彩蛋。阅读其余内容！
-如前所述，我们重组了调色板，以在各个级别设置颜色变化。我们将把这些颜色组合成标记，并命名为：
-pd.sys.color.red50
-含义：
-
-PD：等离子设计
-SYS：系统标记（我们还有参考标记和组件标记，分别为 .ref. 和 .com.）
-颜色：标记类型
-red50：颜色名称 + 颜色值
-
-请注意，由于我们遵循这些颜色的 Material design 指南，因此我们为给定颜色收集了 100 种不同的色调。根据系统需求或设计变化，我们可以决定不使用 red50，但我们希望强度更高。所以我们会选择 red49 或 red48，等等。
-颜色变量名称会相应更改。这种设置将允许设计人员和开发人员了解他们正在使用的 token 类型，并且对于开发人员和设计人员来说，这将是同一种语言。
-在 Figma 和 PenPot 中，设计人员可以随心所欲地命名 token。我选择保留 token 名称，因为我们推荐它们用于 Plasma 系统。这样就有了良好的一致性。
-本周，我们整合了这些颜色，并将它们添加到 Figma 和 PenPot 中的 token 列表中。但是，我们还需要以文档的形式为我们的 Plasma 开发团队做更多工作。我们仍在努力，确保开发请求准确无误。
-此外，本周我们很高兴与 PenPot 首席执行官 Pablo Ruiz 会面。我们的团队成员之一 Mike 最近与 Pablo 会面，并谈到了我们的 Plasma Next 项目。这促成了一次会议，讨论我们团队目前对开发设计系统的需求。
-PenPot 团队很高兴与我们的 KDE 团队和 Plasma Next 计划合作。他们慷慨地提供了一些资源来帮助。
-这来得正是时候，因为最近我们在开发设计系统方面遇到了团队知识方面的差距。这是我们桌面系统的第一次流程，我们希望做好它。在 PenPot 团队的帮助下，以及他们对应用程序所做的更改，这应该会更容易。
-因此，我们还决定要求优先处理一些票证，以便我们设置和迁移 Figma 资产到 PenPot 中，并最终与整个社区共享这些资产。
-今天，我们还没有接近发布一个完整的设计系统供其他人使用，但我们正在取得良好的进展。敬请期待！
-我们还进入了编辑 16px 图标的过程。鉴于我们已经在 24px 集合中有了可以利用的新图标，我们将设计时间缩短了一半或更多。我们不必集思广益地设计新图标，我们大多只需编辑 24px 图标并将其调整为 16px 版本。这项工作才刚刚开始，但我们正在取得良好的进展。
-一个仍悬而未决的领域是我们的彩色图标。鉴于我们编辑了单色图标，这也需要编辑彩色图标。我们收到了很多关于我们应遵循哪种彩色风格的建议。我想发出邀请。
-如果您看到或创建了令人惊叹的彩色图标，并想在 Plasma 为我们建议这种风格，请给我们留言！
-本周就到此为止。到目前为止进展顺利！]]></description>
-      <guid>https://anditosan.wordpress.com/2024/11/11/of-color-and-software/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 11 Nov 2024 19:34:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
