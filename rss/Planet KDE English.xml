@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 16 Nov 2024 04:43:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 08:41:11 GMT</lastBuildDate>
     <item>
       <title>本周 Plasma：使用 WINE 进行发现和系统监控</title>
       <link>https://blogs.kde.org/2024/11/16/this-week-in-plasma-discover-and-system-monitor-with-a-side-of-wine/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/11/16/this-week-in-plasma-discover-and-system-monitor-with-a-side-of-wine/?utm_source=atom_feed</guid>
       <pubDate>Sat, 16 Nov 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>digiKam 8.5.0 发布</title>
+      <link>https://www.digikam.org/news/2024-11-16-8.5.0_release_announcement/?utm_source=atom_feed</link>
+      <description><![CDATA[
+亲爱的 digiKam 粉丝和用户，
+经过五个月的积极维护和数周的错误分类，digiKam 团队自豪地推出了其开源数字照片管理器 8.5.0 版本。
+Generalities
+已修复 160 多个错误
+我们花了很多时间联系用户来验证预发布版本中的更改，以便在将程序部署到生产环境之前确认修复。]]></description>
+      <guid>https://www.digikam.org/news/2024-11-16-8.5.0_release_announcement/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>网络评论，第 2024-46 周</title>
@@ -91,13 +103,6 @@ kontact
 查看由 Thiago Sueto 准备的有关如何开始将项目移植到 QDoc 的说明。]]></description>
       <guid>https://blogs.kde.org/2024/11/13/api-documentation-porting-sprint/?utm_source=atom_feed</guid>
       <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 每月更新 - 第 20 版</title>
-      <link>https://krita.org/en/posts/2024/monthly-update-20/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/monthly-update-20/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
