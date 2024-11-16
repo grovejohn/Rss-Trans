@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 16 Nov 2024 10:40:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 12:28:31 GMT</lastBuildDate>
     <item>
       <title>测试应用程序首次使用体验</title>
       <link>https://www.volkerkrause.eu/2024/11/16/kde-test-first-use-experience.html?utm_source=atom_feed</link>
@@ -70,6 +70,25 @@ kontact
       <pubDate>Thu, 14 Nov 2024 15:44:55 GMT</pubDate>
     </item>
     <item>
+      <title>在 KDE 学院展示 privact</title>
+      <link>https://privact.org/2024/11/14/presenting-privact-at-kde-akademy/?utm_source=atom_feed</link>
+      <description><![CDATA[今年早些时候，我有幸荣幸参观了位于维尔茨堡的 KDE Akademy 2024。距离我上次参观 Akademy 已经过去了几年，很高兴见到老朋友并结识新朋友。除了社交之外，我的主要任务是与尽可能多的 KDE 人员谈论privact 项目及其与 KDE 的集成。了解 KDE 社区后，这自然会引发许多有趣的讨论。
+最重要的是，我谈论了privact 与 KUserFeedback集成的当前状态。如果您错过了，以下是录音：
+
+
+
+
+
+
+作为后续，我们在周一举行了 2 次 BoF 来 讨论 下一步。 Felix 非常友好地加入了我，为开发人员提供了比我所能提供的更多的技术见解。
+作为第一个预告：在短期内，私有方法将允许 KDE进行适当的用户研究，从而使我们能够进行数据驱动的用户体验，而不会损害用户隐私。从长远来看，privact 旨在为每个人恢复 数字隐私，即使在 KDE 之外，甚至在 FLOSS 之外。您可以在即将发布的帖子中或 privact 主页 中了解更多信息。
+Akademy 期间对 privact 方法的个人反馈非常好，这就是为什么我们现在想要开始与 更大的KDE社区 进行交流。因此，这篇文章不仅是为了报告我参加 Akademy 的情况，也是为了再次开始在 Planet KDE 上写博客并检查聚合是否有效。
+你好世界星球！
+]]></description>
+      <guid>https://privact.org/2024/11/14/presenting-privact-at-kde-akademy/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 14 Nov 2024 15:25:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Qt Creator 15 RC 发布</title>
       <link>https://www.qt.io/blog/qt-creator-15-rc-released?utm_source=atom_feed</link>
       <description><![CDATA[我们很高兴地宣布 Qt Creator 15 RC 现已发布！
@@ -83,13 +102,6 @@ kontact
       <description><![CDATA[]]></description>
       <guid>https://rajeeshknambiar.wordpress.com/2024/11/14/metafont-metapost-and-malayalam-font/?utm_source=atom_feed</guid>
       <pubDate>Thu, 14 Nov 2024 12:21:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CMake 设置 C++ 定义</title>
-      <link>https://www.kdab.com/setting-defines-with-cmake/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/setting-defines-with-cmake/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 13 Nov 2024 09:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
