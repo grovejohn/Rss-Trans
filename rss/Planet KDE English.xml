@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 16 Nov 2024 08:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 10:40:05 GMT</lastBuildDate>
+    <item>
+      <title>测试应用程序首次使用体验</title>
+      <link>https://www.volkerkrause.eu/2024/11/16/kde-test-first-use-experience.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/11/16/kde-test-first-use-experience.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 16 Nov 2024 10:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：使用 WINE 进行发现和系统监控</title>
       <link>https://blogs.kde.org/2024/11/16/this-week-in-plasma-discover-and-system-monitor-with-a-side-of-wine/?utm_source=atom_feed</link>
@@ -83,26 +90,6 @@ kontact
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/setting-defines-with-cmake/?utm_source=atom_feed</guid>
       <pubDate>Wed, 13 Nov 2024 09:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 文档移植冲刺</title>
-      <link>https://blogs.kde.org/2024/11/13/api-documentation-porting-sprint/?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-
-曾经有传言说：“我们的 C++ API 文档存在一些问题，我们的 QML API 文档存在很多问题。”
-这是真的，但这种情况很快就会改变！您可能知道，我们一直在努力将我们的文档移植，从Doxygen移植到QDoc，您可以为此提供帮助。
-这是一项任务，该任务已被简化应用程序开发体验所采纳，该任务由Nicolas Fella 和 Nate Graham 是 KDE Goals 计划的一部分。
-我们想邀请您加入我们的移植冲刺工作以完成此任务。11 月 14 日下午 1 点（UTC 时间），我们将在 Matrix 房间 一起处理此事。希望在那里见到你。
-一些先决条件：
-
-能够使用终端
-额外的磁盘空间（最低 30GB）
-熟悉一些 API
-
-查看由 Thiago Sueto 准备的有关如何开始将项目移植到 QDoc 的说明。]]></description>
-      <guid>https://blogs.kde.org/2024/11/13/api-documentation-porting-sprint/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 13 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
