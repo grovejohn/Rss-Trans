@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 17 Nov 2024 12:28:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 12:58:38 GMT</lastBuildDate>
+    <item>
+      <title>如何在路由器上设置 ExpressVPN，以便同时保护所有设备</title>
+      <link>https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/</link>
+      <description><![CDATA[您的 VPN 不必总是在手机或笔记本电脑上运行。您可以保护家里的一切，防止他人窥探。]]></description>
+      <guid>https://www.wired.com/story/how-to-set-up-expressvpn-on-a-router/</guid>
+      <pubDate>Sun, 17 Nov 2024 12:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>科学家建立穿越地图的最佳算法</title>
       <link>https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>JubileeTV 评论：为老年人提供视频通话和远程支持</title>
       <link>https://www.wired.com/review/jubileetv/</link>
-      <description><![CDATA[JubileeTV 是一款专为老年人提供的机顶盒和摄像头，可以提供远程技术支持、视频通话和药物提醒等功能。]]></description>
+      <description><![CDATA[JubileeTV 是一款专为老年人提供的机顶盒和摄像头，可以提供远程技术支持、视频通话和药物提醒。]]></description>
       <guid>https://www.wired.com/review/jubileetv/</guid>
       <pubDate>Sat, 16 Nov 2024 14:32:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[这款可转换笔记本电脑在很多方面都偷工减料，即便是折扣价，也不值得购买。]]></description>
       <guid>https://www.wired.com/review/lenovo-ideapad-5x-2-in-1-gen-9-14-inch/</guid>
       <pubDate>Sat, 16 Nov 2024 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 上目前最佳的 52 部电影（2024 年 11 月）</title>
-      <link>https://www.wired.com/story/netflix-best-movies-this-week/</link>
-      <description><![CDATA[《艾米莉亚·佩雷斯》、《风月俏佳人》和《威尔和哈波》只是您本月应该在 Netflix 上观看的几部电影。]]></description>
-      <guid>https://www.wired.com/story/netflix-best-movies-this-week/</guid>
-      <pubDate>Sat, 16 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
