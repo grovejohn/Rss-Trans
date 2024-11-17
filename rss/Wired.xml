@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 17 Nov 2024 11:36:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 12:28:34 GMT</lastBuildDate>
+    <item>
+      <title>科学家建立穿越地图的最佳算法</title>
+      <link>https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/</link>
+      <description><![CDATA[长期以来，人们一直认为 Dijkstra 算法是找到图中最佳路线的最有效方法。研究人员现已证明，该算法是“普遍最优的”。]]></description>
+      <guid>https://www.wired.com/story/scientists-establish-the-best-algorithm-for-traversing-a-map/</guid>
+      <pubDate>Sun, 17 Nov 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Nike 促销代码：精选款式最高可享 60% 折扣</title>
       <link>https://www.wired.com/story/nike-promo-code/</link>
@@ -66,13 +73,6 @@
       <link>https://www.wired.com/story/netflix-best-movies-this-week/</link>
       <description><![CDATA[《艾米莉亚·佩雷斯》、《风月俏佳人》和《威尔和哈波》只是您本月应该在 Netflix 上观看的几部电影。]]></description>
       <guid>https://www.wired.com/story/netflix-best-movies-this-week/</guid>
-      <pubDate>Sat, 16 Nov 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 上目前最佳的 49 部节目（2024 年 11 月）</title>
-      <link>https://www.wired.com/story/netflix-best-shows-this-week/</link>
-      <description><![CDATA[《外交家》、《心灵终结者》和《神秘学》只是您本月需要在 Netflix 上观看的几部节目。]]></description>
-      <guid>https://www.wired.com/story/netflix-best-shows-this-week/</guid>
       <pubDate>Sat, 16 Nov 2024 12:00:00 GMT</pubDate>
     </item>
     </channel>
