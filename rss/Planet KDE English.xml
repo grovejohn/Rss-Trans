@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Nov 2024 12:58:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 08:45:07 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 应用程序中的 Python 绑定</title>
+      <link>https://blogs.kde.org/2024/11/18/this-week-in-kde-apps-python-bindings/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/11/18/this-week-in-kde-apps-python-bindings/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 18 Nov 2024 07:20:35 GMT</pubDate>
+    </item>
     <item>
       <title>测试应用程序首次使用体验</title>
       <link>https://www.volkerkrause.eu/2024/11/16/kde-test-first-use-experience.html?utm_source=atom_feed</link>
@@ -95,13 +102,6 @@ Akademy 期间对 privact 方法的个人反馈非常好，这就是为什么我
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-15-rc-released?utm_source=atom_feed</guid>
       <pubDate>Thu, 14 Nov 2024 12:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metafont、MetaPost 和 Malayalam 字体</title>
-      <link>https://rajeeshknambiar.wordpress.com/2024/11/14/metafont-metapost-and-malayalam-font/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://rajeeshknambiar.wordpress.com/2024/11/14/metafont-metapost-and-malayalam-font/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 14 Nov 2024 12:21:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
