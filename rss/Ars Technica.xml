@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 19 Nov 2024 20:17:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 21:15:25 GMT</lastBuildDate>
+    <item>
+      <title>Niantic 利用 Pokémon Go 玩家数据构建 AI 导航系统</title>
+      <link>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</link>
+      <description><![CDATA[对世界的视觉扫描帮助 Niantic 建立了所谓的“大型地理空间模型”。]]></description>
+      <guid>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</guid>
+      <pubDate>Tue, 19 Nov 2024 20:34:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动刹车系统可以挽救生命。现在它们需要在时速 62 英里时发挥作用。</title>
+      <link>https://arstechnica.com/cars/2024/11/automatic-braking-systems-save-lives-now-theyll-need-to-work-at-62-mph/</link>
+      <description><![CDATA[监管机构已下令推广该技术，但汽车行业表示升级并不容易。]]></description>
+      <guid>https://arstechnica.com/cars/2024/11/automatic-braking-systems-save-lives-now-theyll-need-to-work-at-62-mph/</guid>
+      <pubDate>Tue, 19 Nov 2024 19:45:47 GMT</pubDate>
+    </item>
     <item>
       <title>Apple TV+ 在原创内容上投入了 200 亿美元。如果人们真的看就好了。</title>
       <link>https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/</link>
-      <description><![CDATA[Apple TV+ 享有很高的声誉，但观众却不多。]]></description>
+      <description><![CDATA[据报道，高预算为 Apple TV+ 带来了很大的声望，但观众却并不多。]]></description>
       <guid>https://arstechnica.com/apple/2024/11/apple-tv-spent-20b-on-original-content-if-only-people-actually-watched/</guid>
       <pubDate>Tue, 19 Nov 2024 19:14:31 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[“此次飞行的另一个目标是尝试使用单个猛禽发动机进行太空燃烧。”]]></description>
       <guid>https://arstechnica.com/space/2024/11/spacex-will-try-some-new-tricks-on-starships-sixth-test-flight/</guid>
       <pubDate>Tue, 19 Nov 2024 15:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎观看 Ars Live：我们与操纵型人工智能的首次邂逅</title>
-      <link>https://arstechnica.com/ai/2024/11/join-ars-live-nov-19-to-dissect-microsofts-rogue-ai-experiment/</link>
-      <description><![CDATA[美国东部时间下午 4 点，加入 Benj Edwards 和 Simon Willison 的 YouTube 直播聊天，讨论“2023 年 Bing 聊天大惨败”。]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/join-ars-live-nov-19-to-dissect-microsofts-rogue-ai-experiment/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>涌现引力可能是一个过时的想法，但它并不坏</title>
-      <link>https://arstechnica.com/science/2024/11/emergent-gravity-may-be-a-dead-idea-but-its-not-a-bad-one/</link>
-      <description><![CDATA[引力可能不会出现，但一些有趣的想法却出现了。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/emergent-gravity-may-be-a-dead-idea-but-its-not-a-bad-one/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:19:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
