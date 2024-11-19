@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 19 Nov 2024 21:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 22:15:32 GMT</lastBuildDate>
+    <item>
+      <title>Musi 粉丝拒绝更新 iPhone，除非苹果解除对有争议应用程序的封锁</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/</link>
+      <description><![CDATA[苹果表示，Musi 不会因被 App Store 下架而面临“灭绝”的风险。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软和 Atom Computing 联合进行量子纠错演示</title>
+      <link>https://arstechnica.com/science/2024/11/how-to-fix-quantum-computing-errors-neutral-atom-edition/</link>
+      <description><![CDATA[新的研究成果让我们更好地了解该领域的现状。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/how-to-fix-quantum-computing-errors-neutral-atom-edition/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:00:32 GMT</pubDate>
+    </item>
     <item>
       <title>Niantic 利用 Pokémon Go 玩家数据构建 AI 导航系统</title>
       <link>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[当美国难以负担 GLP-1 药物时，世界其他地区的药物价格却低得多。]]></description>
       <guid>https://arstechnica.com/health/2024/11/novo-nordisk-sells-hit-weight-loss-drug-in-china-at-fraction-of-us-price/</guid>
       <pubDate>Tue, 19 Nov 2024 17:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告：美国司法部希望强制谷歌出售 Chrome 和 Android 捆绑销售</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/</link>
-      <description><![CDATA[切断谷歌对全球最受欢迎浏览器的控制可能是必要的。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/report-doj-wants-to-force-google-chrome-sale-android-de-bundling/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>SpaceX 将在星际飞船第六次试飞中尝试一些新技巧</title>
-      <link>https://arstechnica.com/space/2024/11/spacex-will-try-some-new-tricks-on-starships-sixth-test-flight/</link>
-      <description><![CDATA[“此次飞行的另一个目标是尝试使用单个猛禽发动机进行太空燃烧。”]]></description>
-      <guid>https://arstechnica.com/space/2024/11/spacex-will-try-some-new-tricks-on-starships-sixth-test-flight/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:56:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
