@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 20 Nov 2024 18:45:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 20:18:17 GMT</lastBuildDate>
     <item>
-      <title>SpaceX 刚刚从美国联邦航空管理局获得了其对德州星际飞船发射的完全许可</title>
+      <title>研究：为何阿兹特克人的“死亡口哨”听起来像人类的尖叫声</title>
+      <link>https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/</link>
+      <description><![CDATA[其基本原理依赖于文丘里效应，产生独特的粗糙、刺耳的声音。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:37:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>微软向 Windows 10 用户的 Copilot+ 电脑推送全屏广告</title>
+      <link>https://arstechnica.com/gadgets/2024/11/microsoft-pushes-full-screen-ads-for-copilot-pcs-on-windows-10-users/</link>
+      <description><![CDATA[微软经常使用这种提醒来鼓励升级。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/11/microsoft-pushes-full-screen-ads-for-copilot-pcs-on-windows-10-users/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 刚刚从美国联邦航空管理局获得了其对德州星际飞船发射的期望</title>
       <link>https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/</link>
       <description><![CDATA[“事先批准的所有相关条件和要求均已得到满足。”]]></description>
       <guid>https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/</guid>
@@ -15,7 +29,7 @@
     <item>
       <title>健身应用 Strava 正在加强第三方对用户数据的访问</title>
       <link>https://arstechnica.com/gadgets/2024/11/fitness-app-strava-is-tightening-third-party-access-to-user-data/</link>
-      <description><![CDATA[训练应用程序、人工智能使用和趋势分析似乎是 Strava 的 API 中的禁区。]]></description>
+      <description><![CDATA[训练应用程序、人工智能使用和趋势分析似乎是 Strava 的 API 中禁止使用的。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/11/fitness-app-strava-is-tightening-third-party-access-to-user-data/</guid>
       <pubDate>Wed, 20 Nov 2024 17:35:59 GMT</pubDate>
     </item>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 20 Nov 2024 04:57:45 GMT</pubDate>
     </item>
     <item>
-      <title>星链取消等候名单一年后，该公司表示其在美国部分地区已“售罄”</title>
+      <title>星链取消等候名单一年后，该公司表示，其在美国部分地区已“售罄”</title>
       <link>https://arstechnica.com/tech-policy/2024/11/starlink-brings-back-waitlist-in-parts-of-us-says-service-is-sold-out/</link>
       <description><![CDATA[SpaceX 的 Starlink 容量不足以满足所有需要它的人的需求。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/starlink-brings-back-waitlist-in-parts-of-us-says-service-is-sold-out/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[苹果表示，Musi 不会因被 App Store 下架而面临“灭绝”的风险。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/fans-mourn-loss-of-music-streaming-app-accused-of-ripping-off-youtube/</guid>
       <pubDate>Tue, 19 Nov 2024 21:24:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软和 Atom Computing 联合进行量子纠错演示</title>
-      <link>https://arstechnica.com/science/2024/11/how-to-fix-quantum-computing-errors-neutral-atom-edition/</link>
-      <description><![CDATA[新的研究成果让我们更好地了解该领域的现状。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/how-to-fix-quantum-computing-errors-neutral-atom-edition/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Niantic 利用 Pokémon Go 玩家数据构建 AI 导航系统</title>
-      <link>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</link>
-      <description><![CDATA[对世界的视觉扫描帮助 Niantic 建立了所谓的“大型地理空间模型”。]]></description>
-      <guid>https://arstechnica.com/ai/2024/11/niantic-uses-pokemon-go-player-data-to-build-ai-navigation-system/</guid>
-      <pubDate>Tue, 19 Nov 2024 20:34:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
