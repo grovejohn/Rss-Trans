@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 21 Nov 2024 17:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 18:45:31 GMT</lastBuildDate>
+    <item>
+      <title>Obsidian 的《Avowed》是治愈“魂类”动作角色扮演游戏疲劳的良药</title>
+      <link>https://arstechnica.com/gaming/2024/11/obsidians-avowed-is-the-cure-for-souls-like-action-rpg-fatigue/</link>
+      <description><![CDATA[预览版本展示了一个丰富多彩的世界和令人满意的、激烈的战斗。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/11/obsidians-avowed-is-the-cure-for-souls-like-action-rpg-fatigue/</guid>
+      <pubDate>Thu, 21 Nov 2024 18:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局正在组装阿尔特弥斯二号火箭，这意味着需要对隔热罩进行简单的修复</title>
+      <link>https://arstechnica.com/space/2024/11/nasa-begins-assembling-rocket-to-send-astronauts-around-far-side-of-the-moon/</link>
+      <description><![CDATA[美国宇航局预计，SLS 火箭的主要部件完全组装大约需要四个月的时间。]]></description>
+      <guid>https://arstechnica.com/space/2024/11/nasa-begins-assembling-rocket-to-send-astronauts-around-far-side-of-the-moon/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎来到谷歌的噩梦：美国公布摧毁搜索垄断的计划</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/welcome-to-googles-nightmare-us-reveals-plan-to-destroy-search-monopoly/</link>
+      <description><![CDATA[美国司法部采取“惊人”的补救措施，试图终结谷歌的搜索垄断。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/welcome-to-googles-nightmare-us-reveals-plan-to-destroy-search-monopoly/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:23:48 GMT</pubDate>
+    </item>
     <item>
       <title>Android 很快将让你在新设备上立即登录你的应用程序</title>
       <link>https://arstechnica.com/gadgets/2024/11/android-will-soon-instantly-log-you-in-to-your-apps-on-new-devices/</link>
@@ -27,7 +48,7 @@
       <pubDate>Thu, 21 Nov 2024 16:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>儿童安全组织推出根据真实儿童性虐待图像训练的人工智能模型</title>
+      <title>儿童安全组织标记了新的儿童性虐待行为，其中的人工智能接受了真实儿童性虐待图片的训练</title>
       <link>https://arstechnica.com/tech-policy/2024/11/ai-trained-on-real-child-sex-abuse-images-to-detect-new-csam/</link>
       <description><![CDATA[儿童安全组织表示，人工智能将使儿童性虐待内容在网上传播变得更加困难。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/ai-trained-on-real-child-sex-abuse-images-to-detect-new-csam/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[“政府确实需要自我反省。”]]></description>
       <guid>https://arstechnica.com/space/2024/11/as-nasa-increasingly-relies-on-commercial-space-there-are-some-troubling-signs/</guid>
       <pubDate>Thu, 21 Nov 2024 12:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>量子比特 (Qubit) 可以让大多数错误显而易见，现在可供客户使用</title>
-      <link>https://arstechnica.com/science/2024/11/first-commercial-dual-rail-qubit-hardware-announced/</link>
-      <description><![CDATA[一个让纠错变得更容易的小机器能够颠覆市场吗？]]></description>
-      <guid>https://arstechnica.com/science/2024/11/first-commercial-dual-rail-qubit-hardware-announced/</guid>
-      <pubDate>Wed, 20 Nov 2024 20:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌停止让《福布斯》等网站统治“最佳 CBD 软糖”的搜索</title>
-      <link>https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/</link>
-      <description><![CDATA[如果您注意到“最佳”产品搜索中存在奇怪的网站，那么 Google 也发现了同样的情况。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/11/google-cracks-down-on-parasite-seo-punishing-established-publishers/</guid>
-      <pubDate>Wed, 20 Nov 2024 19:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究：为何阿兹特克人的“死亡口哨”听起来像人类的尖叫声</title>
-      <link>https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/</link>
-      <description><![CDATA[其基本原理依赖于文丘里效应，产生独特的粗糙、刺耳的声音。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/study-why-aztec-death-whistles-sound-like-human-screams/</guid>
-      <pubDate>Wed, 20 Nov 2024 19:37:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
