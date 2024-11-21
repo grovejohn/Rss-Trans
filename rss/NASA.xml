@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Thu, 21 Nov 2024 22:14:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 22:40:31 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局授予测试操作合同</title>
+      <link>https://www.nasa.gov/news-release/nasa-awards-test-operations-contract/</link>
+      <description><![CDATA[美国宇航局已选定俄亥俄州弗里蒙特的 Sierra Lobo 公司，为位于密西西比州圣路易斯湾附近的美国宇航局斯坦尼斯航天中心提供测试操作、测试支持和技术系统维护活动。美国宇航局斯坦尼斯测试操作合同是固定价格、工作量合同，价值约为 4700 万美元。执行期从 2017 年 7 月 1 日开始。]]></description>
+      <guid>https://www.nasa.gov/news-release/nasa-awards-test-operations-contract/</guid>
+      <pubDate>Thu, 21 Nov 2024 22:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>常见问题解答：宇航员太空医疗保健的真实故事</title>
       <link>https://www.nasa.gov/missions/station/preguntas-frecuentes-la-verdadera-historia-del-cuidado-de-la-salud-de-los-astronautas-en-el-espacio/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>美国宇航局的哈勃望远镜发现了有关年轻恒星 FU Orionis 的惊人细节</title>
       <link>https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/</link>
-      <description><![CDATA[1936 年，天文学家在猎户座中发现了一个令人费解的事件：年轻的恒星 FU Ori（猎户座 FU）在几个月内亮度增加了一百倍。在其巅峰时期，FU Ori 的亮度本质上是太阳的 100 倍。然而，与爆炸的恒星不同，从那时起，它的光度一直在缓慢下降。[…]]]></description>
+      <description><![CDATA[1936 年，天文学家在猎户座中发现了一个令人费解的事件：年轻的恒星 FU Ori（猎户座 FU）在几个月内亮度增加了一百倍。在巅峰时期，FU Ori 的亮度是太阳的 100 倍。不过，与爆炸的恒星不同，从那时起，它的亮度一直在缓慢下降。[…]]]></description>
       <guid>https://science.nasa.gov/missions/hubble/nasas-hubble-finds-sizzling-details-about-young-star-fu-orionis/</guid>
       <pubDate>Thu, 21 Nov 2024 18:00:30 GMT</pubDate>
     </item>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 21 Nov 2024 13:36:26 GMT</pubDate>
     </item>
     <item>
-      <title>Weld-ASSIST：使用数字孪生进行空间条件下的可焊性评估</title>
+      <title>Weld-ASSIST：使用数字孪生评估空间条件下的可焊性</title>
       <link>https://www.nasa.gov/general/weld-assist-weldability-assessment-for-in-space-conditions-using-a-digital-twin/</link>
       <description><![CDATA[ESI24 Haghighi Quadchart Azadeh Haghighi伊利诺伊大学芝加哥分校 太空制造和组装对于 NASA 的长期探索目标至关重要，尤其是对于月球和火星任务。在太空中部署焊接技术可以组装和修复结构，减少地球的后勤负担和供应需求。太空的独特挑战和极端条件——高热变化，[…]]]></description>
       <guid>https://www.nasa.gov/general/weld-assist-weldability-assessment-for-in-space-conditions-using-a-digital-twin/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[ESI24 Li Quadchart Wei Li德克萨斯大学达拉斯分校由于小孔不稳定、熔池塌陷和快速凝固，激光焊接过程中总是会形成内部缺陷。极端的月球环境使焊接的可靠实施变得复杂，从而加剧了焊接缺陷的形成。焊接缺陷是阻止金属部件的关键材料屏障[…]]]></description>
       <guid>https://www.nasa.gov/directorates/stmd/space-tech-research-grants/integrated-computational-materials-modelling-framework-for-investigating-the-process-structure-property-linkage-of-the-lunar-metal-welding-with-internal-defects/</guid>
       <pubDate>Thu, 21 Nov 2024 13:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有适应性粘附性和机械能吸收性的可变形皱褶纳米球涂层可用于减缓月球尘埃</title>
-      <link>https://www.nasa.gov/directorates/stmd/space-tech-research-grants/deformable-crumpled-nano-ball-coatings-with-adaptable-adhesion-and-mechanical-energy-absorption-for-lunar-dust-mitigation/</link>
-      <description><![CDATA[ESI24 Nam Quadchart SungWoo Nam加州大学欧文分校 月球尘埃看似微不足道，但它对太空任务提出了重大挑战。其磨蚀性和锯齿状颗粒会损坏设备、堵塞设备，甚至对宇航员构成健康风险。该项目通过开发由原子厚度的皱褶纳米球组成的先进涂层来解决这些问题 […]]]></description>
-      <guid>https://www.nasa.gov/directorates/stmd/space-tech-research-grants/deformable-crumpled-nano-ball-coatings-with-adaptable-adhesion-and-mechanical-energy-absorption-for-lunar-dust-mitigation/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:34:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
