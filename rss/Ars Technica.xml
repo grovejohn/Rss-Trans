@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 21 Nov 2024 13:25:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 14:41:48 GMT</lastBuildDate>
+    <item>
+      <title>儿童安全组织推出根据真实儿童性虐待图像训练的人工智能模型</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/ai-trained-on-real-child-sex-abuse-images-to-detect-new-csam/</link>
+      <description><![CDATA[儿童安全组织表示，人工智能将使儿童性虐待内容在网上传播变得更加困难。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/ai-trained-on-real-child-sex-abuse-images-to-detect-new-csam/</guid>
+      <pubDate>Thu, 21 Nov 2024 14:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 人因“分散蜘蛛”被指控，这是有史以来最赚钱的网络钓鱼诈骗之一</title>
+      <link>https://arstechnica.com/information-technology/2024/11/prosecutors-charge-5-in-phishing-scams-that-stole-millions-of-dollars/</link>
+      <description><![CDATA[网络钓鱼攻击经过精心策划，甚至欺骗了业内的一些顶尖人才。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/11/prosecutors-charge-5-in-phishing-scams-that-stole-millions-of-dollars/</guid>
+      <pubDate>Thu, 21 Nov 2024 13:00:21 GMT</pubDate>
+    </item>
     <item>
       <title>可怕的医疗设备故障：腹部植入物从腿上弹出</title>
       <link>https://arstechnica.com/health/2024/11/womans-abdominal-implant-erupts-from-her-leg-experts-call-for-fda-reforms/</link>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 20 Nov 2024 18:45:11 GMT</pubDate>
     </item>
     <item>
-      <title>SpaceX 刚刚从美国联邦航空管理局获得了其对德州星际飞船发射的期望</title>
+      <title>SpaceX 刚刚从美国联邦航空管理局获得了其对德州星际飞船发射的完全许可</title>
       <link>https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/</link>
       <description><![CDATA[“事先批准的所有相关条件和要求均已得到满足。”]]></description>
       <guid>https://arstechnica.com/space/2024/11/spacex-just-got-exactly-what-it-wanted-from-the-faa-for-texas-starship-launches/</guid>
@@ -57,23 +71,9 @@
     <item>
       <title>健身应用 Strava 正在加强第三方对用户数据的访问</title>
       <link>https://arstechnica.com/gadgets/2024/11/fitness-app-strava-is-tightening-third-party-access-to-user-data/</link>
-      <description><![CDATA[训练应用程序、人工智能使用和趋势分析似乎是 Strava 的 API 中禁止使用的。]]></description>
+      <description><![CDATA[训练应用程序、人工智能使用和趋势分析似乎是 Strava 的 API 中的禁区。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/11/fitness-app-strava-is-tightening-third-party-access-to-user-data/</guid>
       <pubDate>Wed, 20 Nov 2024 17:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>康卡斯特将剥离 NBCUniversal 部分资产，放弃有线电视网络</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/comcast-to-ditch-cable-networks-in-partial-spinoff-of-nbcuniversal-assets/</link>
-      <description><![CDATA[康卡斯特将分拆美国、CNBC、MSNBC 和其他公司，但将继续播放 Peacock 流媒体。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/comcast-to-ditch-cable-networks-in-partial-spinoff-of-nbcuniversal-assets/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的世界电影预告片探索史蒂夫的起源</title>
-      <link>https://arstechnica.com/culture/2024/11/block-zombies-are-on-the-attack-in-minecraft-movie-trailer/</link>
-      <description><![CDATA[“只要你能用积木搭建出你想象的一切，一切皆有可能。”]]></description>
-      <guid>https://arstechnica.com/culture/2024/11/block-zombies-are-on-the-attack-in-minecraft-movie-trailer/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:25:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
