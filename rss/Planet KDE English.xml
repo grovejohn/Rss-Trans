@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 21 Nov 2024 16:45:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 16:45:00 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-47 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/11/22/web-review-week-2024-47/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/11/22/web-review-week-2024-47/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 22 Nov 2024 12:49:57 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE 应用程序中的 Python 绑定</title>
       <link>https://blogs.kde.org/2024/11/18/this-week-in-kde-apps-python-bindings/?utm_source=atom_feed</link>
@@ -94,14 +101,6 @@ Akademy 期间对 privact 方法的个人反馈非常好，这就是为什么我
 ]]></description>
       <guid>https://privact.org/2024/11/14/presenting-privact-at-kde-akademy/?utm_source=atom_feed</guid>
       <pubDate>Thu, 14 Nov 2024 15:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 15 RC 发布</title>
-      <link>https://www.qt.io/blog/qt-creator-15-rc-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Qt Creator 15 RC 现已发布！
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-15-rc-released?utm_source=atom_feed</guid>
-      <pubDate>Thu, 14 Nov 2024 12:45:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
