@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 23 Nov 2024 01:12:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 03:24:50 GMT</lastBuildDate>
+    <item>
+      <title>间谍入侵遥远国度的 Wi-Fi 网络，对隔壁目标发起攻击</title>
+      <link>https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/</link>
+      <description><![CDATA[“最近邻攻击”最终让俄罗斯的Fancy Bear进入目标的Wi-Fi网络。]]></description>
+      <guid>https://arstechnica.com/security/2024/11/spies-hack-wi-fi-networks-in-far-off-land-to-launch-attack-on-target-next-door/</guid>
+      <pubDate>Sat, 23 Nov 2024 02:03:27 GMT</pubDate>
+    </item>
     <item>
       <title>推动更多智能显示器发展的背后有好的，有坏的，也有丑陋的</title>
       <link>https://arstechnica.com/gadgets/2024/11/the-good-the-bad-and-the-ugly-behind-the-push-for-more-smart-displays/</link>
@@ -34,7 +41,7 @@
       <pubDate>Fri, 22 Nov 2024 18:40:42 GMT</pubDate>
     </item>
     <item>
-      <title>我们的宇宙还没有为生命而精心调校，但还是可以的</title>
+      <title>我们的宇宙还没有为生命而精心调校，但还算可以</title>
       <link>https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/</link>
       <description><![CDATA[受到德雷克方程的启发，研究人员优化了适合生命的模型宇宙。]]></description>
       <guid>https://arstechnica.com/science/2024/11/our-universe-is-not-fine-tuned-for-life-but-its-still-kind-of-ok/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[这是曾受到冷战武器条约限制的中程弹道导弹首次用于战斗。]]></description>
       <guid>https://arstechnica.com/science/2024/11/russian-ballistic-missile-attack-on-ukraine-portends-new-era-of-warfare/</guid>
       <pubDate>Fri, 22 Nov 2024 16:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软总裁要求特朗普“加大力度”打击俄罗斯黑客</title>
-      <link>https://arstechnica.com/security/2024/11/microsoft-president-asks-trump-to-push-harder-against-russian-hacks/</link>
-      <description><![CDATA[布拉德·史密斯希望美国对国家支持的网络攻击采取更严厉的手段。]]></description>
-      <guid>https://arstechnica.com/security/2024/11/microsoft-president-asks-trump-to-push-harder-against-russian-hacks/</guid>
-      <pubDate>Fri, 22 Nov 2024 14:17:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
