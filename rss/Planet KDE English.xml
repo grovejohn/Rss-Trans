@@ -4,7 +4,18 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 23 Nov 2024 22:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 12:28:20 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到我的博客</title>
+      <link>https://alex1701c.github.io/2024/11/24/welcome-to-my-blog.html?utm_source=atom_feed</link>
+      <description><![CDATA[大家好！
+从现在起，我将在 GitHub 页面上撰写帖子。除了使用 git 保持帖子版本控制很有用之外，我之前的博客也存在一些问题。
+我的想法是简单地使用 write.as 并时不时发布帖子。这种方法效果很好，但一个多月前我想发布一篇关于我的 KRunner 插件的帖子。
+它自然包含了很多链接，因此发布被阻止，甚至由于明显的垃圾邮件而被帐户封锁。一个多月来没有收到任何邮件回复。
+所以这里不是另一个博客，我希望在那里写得更频繁，也能够在 KDE 上花更多时间！]]></description>
+      <guid>https://alex1701c.github.io/2024/11/24/welcome-to-my-blog.html?utm_source=atom_feed</guid>
+      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周等离子：信息中心的电池充电周期</title>
       <link>https://blogs.kde.org/2024/11/23/this-week-in-plasma-battery-charge-cycles-in-info-center/?utm_source=atom_feed</link>
@@ -81,14 +92,6 @@ kontact
       <description><![CDATA[]]></description>
       <guid>https://mentorship.kde.org/blog/2024-11-15-gsoc-final-end/?utm_source=atom_feed</guid>
       <pubDate>Fri, 15 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MinGW 和并行清单</title>
-      <link>https://www.qt.io/blog/mingw-and-side-by-side-manifests?utm_source=atom_feed</link>
-      <description><![CDATA[Qt Creator 14 已取消对其 Python 2 漂亮打印机的支持。
-]]></description>
-      <guid>https://www.qt.io/blog/mingw-and-side-by-side-manifests?utm_source=atom_feed</guid>
-      <pubDate>Thu, 14 Nov 2024 15:44:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
