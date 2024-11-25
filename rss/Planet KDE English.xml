@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 24 Nov 2024 14:38:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 14:41:43 GMT</lastBuildDate>
+    <item>
+      <title>Apple 平台上的 Qt 支持</title>
+      <link>https://www.qt.io/blog/qt-support-on-apple-platforms?utm_source=atom_feed</link>
+      <description><![CDATA[随着 Qt 6.8.1 和 6.5.8 的发布，我们正在更新我们的文档，以阐明 Qt 对新发布的 Apple 操作系统版本的支持。  
+&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Fqt-support-on-apple-platforms&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px！重要；“宽度=“1”/&gt;]]></description>
+      <guid>https://www.qt.io/blog/qt-support-on-apple-platforms?utm_source=atom_feed</guid>
+      <pubDate>Mon, 25 Nov 2024 13:53:20 GMT</pubDate>
+    </item>
     <item>
       <title>UX Insights（我们现在无法获得）</title>
       <link>https://privact.org/2024/11/24/ux-insights-that-we-cannot-get-right-now/?utm_source=atom_feed</link>
@@ -47,6 +55,17 @@
       <pubDate>Fri, 22 Nov 2024 12:49:57 GMT</pubDate>
     </item>
     <item>
+      <title>Krita for Android 更新</title>
+      <link>https://krita.org/en/posts/2024/android-5.2.8/?utm_source=atom_feed</link>
+      <description><![CDATA[我们已将 Google Play 商店中适用于 Android 和 ChromeOS 的 Krita 更新至 5.2.8，这是一个仅适用于 Android/ChromeOS 的紧急版本。
+此版本修复了某些使用 5.2.6 的设备上发生的启动问题。适用于 Android 的 Krita 5.2.8
+现在可供测试版用户和“稳定”版用户使用。但请注意，
+我们仍然建议将 Android 版 Krita 视为测试版，因为它可能存在影响
+您工作的 bug，并且用户界面未针对触摸设备进行优化。]]></description>
+      <guid>https://krita.org/en/posts/2024/android-5.2.8/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>本周 KDE 应用程序中的 Python 绑定</title>
       <link>https://blogs.kde.org/2024/11/18/this-week-in-kde-apps-python-bindings/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -78,29 +97,6 @@ Generalities
 我们花了很多时间联系用户来验证预发布版本中的更改，以便在将程序部署到生产环境之前确认修复。]]></description>
       <guid>https://www.digikam.org/news/2024-11-16-8.5.0_release_announcement/?utm_source=atom_feed</guid>
       <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-46 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/11/15/web-review-week-2024-46/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 15 Nov 2024 15:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear 24.12 Beta 测试</title>
-      <link>https://blog.neon.kde.org/2024/11/15/kde-gear-24-12-beta-testing/?utm_source=atom_feed</link>
-      <description><![CDATA[KDE Gear 是我们为许多应用程序提供的发布服务，例如邮件和日历应用程序 Kontact、地理学家梦想 Marble、社交媒体影响力 Kdenlive 以及其他数十种应用程序。KDE 需要您测试您最喜欢的功能是否已添加，以及您最严重的错误是否已消除。
-您可以使用 KDE neon 测试版 来执行此操作，该版本是从用于发布版本的 Git 分支构建的。您可以下载 ISO 并在备用硬件或虚拟机上试用它以进行测试。
-但也许您不想费力安装发行版。得益于 Distrobox，容器提供了一种更简单的测试方法。
-在您的普通计算机上安装 Distrobox。确保 Docker 或 podman 正常运行。
-使用以下命令下载容器
-distrobox create -i invent-registry.kde.org/neon/docker-images/plasma:testing-all
-然后使用以下命令启动它distrobox enter all-testing然后，它将安装必要的位以使 Wayland 连接正常工作并保持您的主目录可用，然后您可以运行说
-kontact
-并测试邮件应用程序的测试版。
-]]></description>
-      <guid>https://blog.neon.kde.org/2024/11/15/kde-gear-24-12-beta-testing/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 15 Nov 2024 14:26:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
