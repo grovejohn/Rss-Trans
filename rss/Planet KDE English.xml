@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Nov 2024 14:41:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 18:45:14 GMT</lastBuildDate>
     <item>
       <title>Apple 平台上的 Qt 支持</title>
       <link>https://www.qt.io/blog/qt-support-on-apple-platforms?utm_source=atom_feed</link>
@@ -12,6 +12,13 @@
 &lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Fqt-support-on-apple-platforms&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px！重要；“宽度=“1”/&gt;]]></description>
       <guid>https://www.qt.io/blog/qt-support-on-apple-platforms?utm_source=atom_feed</guid>
       <pubDate>Mon, 25 Nov 2024 13:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 KDE 应用程序：错误修复周</title>
+      <link>https://blogs.kde.org/2024/11/25/this-week-in-kde-apps-bugfixing-week/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/11/25/this-week-in-kde-apps-bugfixing-week/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 25 Nov 2024 11:20:35 GMT</pubDate>
     </item>
     <item>
       <title>UX Insights（我们现在无法获得）</title>
@@ -85,18 +92,6 @@
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/11/16/this-week-in-plasma-discover-and-system-monitor-with-a-side-of-wine/?utm_source=atom_feed</guid>
       <pubDate>Sat, 16 Nov 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>digiKam 8.5.0 发布</title>
-      <link>https://www.digikam.org/news/2024-11-16-8.5.0_release_announcement/?utm_source=atom_feed</link>
-      <description><![CDATA[
-亲爱的 digiKam 粉丝和用户，
-经过五个月的积极维护和数周的错误分类，digiKam 团队自豪地推出了其开源数字照片管理器 8.5.0 版本。
-Generalities
-已修复 160 多个错误
-我们花了很多时间联系用户来验证预发布版本中的更改，以便在将程序部署到生产环境之前确认修复。]]></description>
-      <guid>https://www.digikam.org/news/2024-11-16-8.5.0_release_announcement/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 16 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
