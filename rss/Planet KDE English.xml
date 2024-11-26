@@ -4,7 +4,33 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 25 Nov 2024 18:45:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 10:43:45 GMT</lastBuildDate>
+    <item>
+      <title>芝麻菜2.3.2</title>
+      <link>https://blogs.kde.org/2024/11/26/ruqola-2.3.2/?utm_source=atom_feed</link>
+      <description><![CDATA[Ruqola 2.3.2 是 Rocket.chat 应用程序的一个功能和错误修复版本。
+它包含许多针对 RocketChat 7.0 的修复。
+新功能：
+
+修复管理员刷新用户列表
+修复选择视频会议消息时的菜单
+修复 RocketChat 7.0 服务器支持
+修复创建视频消息
+修复更改视频/附件描述时更新缓存
+修复导出消息作业
+修复有群组时显示用户离线
+修复在团队对话框中搜索房间时启用/禁用确定按钮
+修复在团队对话框中删除房间时崩溃的问题
+修复重新连接服务器时更新频道选择的问题
+
+URL： https://download.kde.org/stable/ruqola/
+来源：ruqola-2.3.2.tar.xz
+SHA256： 57c8ff6fdeb4aba286425a1bc915db98ff786544a3ada9dec39056ca4b587837
+签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18DJonathan Riddell jr@jriddell.org
+https://jriddell.org/jriddell.pgp]]></description>
+      <guid>https://blogs.kde.org/2024/11/26/ruqola-2.3.2/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Apple 平台上的 Qt 支持</title>
       <link>https://www.qt.io/blog/qt-support-on-apple-platforms?utm_source=atom_feed</link>
@@ -85,13 +111,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/11/16/kde-test-first-use-experience.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 16 Nov 2024 10:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：使用 WINE 进行发现和系统监控</title>
-      <link>https://blogs.kde.org/2024/11/16/this-week-in-plasma-discover-and-system-monitor-with-a-side-of-wine/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/11/16/this-week-in-plasma-discover-and-system-monitor-with-a-side-of-wine/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 16 Nov 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
