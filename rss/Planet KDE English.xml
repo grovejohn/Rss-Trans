@@ -4,7 +4,29 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 26 Nov 2024 10:43:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 13:26:08 GMT</lastBuildDate>
+    <item>
+      <title>2024 年维尔茨堡学院</title>
+      <link>https://blog.sandroknauss.de/akademy-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.sandroknauss.de/akademy-2024/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.2.4，11 月错误修复版本</title>
+      <link>https://kde.org/announcements/plasma/6/6.2.4/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 11 月 26 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.2.4。
+Plasma 6.2 于 2024 年 10 月发布，包含许多功能改进和新模块，以完善桌面体验。
+此版本添加了 KDE 贡献者三周的新翻译和修复。这些错误修复通常很小但很重要，包括：
+
+libkscreen Doctor：澄清最大亮度零的含义。 提交。 修复错误 #495557
+Plasma Workspace：电池图标，添加耳机图标。提交。
+Plasma Audio 音量控制：修复 Pro-Audio 配置文件的扬声器测试布局。 提交。修复错误#495752
+
+查看完整更新日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.2.4/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>芝麻菜2.3.2</title>
       <link>https://blogs.kde.org/2024/11/26/ruqola-2.3.2/?utm_source=atom_feed</link>
@@ -97,20 +119,6 @@ https://jriddell.org/jriddell.pgp]]></description>
 您工作的 bug，并且用户界面未针对触摸设备进行优化。]]></description>
       <guid>https://krita.org/en/posts/2024/android-5.2.8/?utm_source=atom_feed</guid>
       <pubDate>Fri, 22 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用程序中的 Python 绑定</title>
-      <link>https://blogs.kde.org/2024/11/18/this-week-in-kde-apps-python-bindings/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/11/18/this-week-in-kde-apps-python-bindings/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 18 Nov 2024 07:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试应用程序首次使用体验</title>
-      <link>https://www.volkerkrause.eu/2024/11/16/kde-test-first-use-experience.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/11/16/kde-test-first-use-experience.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 16 Nov 2024 10:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
