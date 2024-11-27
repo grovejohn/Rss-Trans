@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 27 Nov 2024 20:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 22:15:32 GMT</lastBuildDate>
+    <item>
+      <title>恐龙粪便化石能告诉我们它们如何崛起</title>
+      <link>https://arstechnica.com/science/2024/11/what-fossilized-dino-feces-can-tell-us-about-their-rise-to-dominance/</link>
+      <description><![CDATA[科学家研究了被称为溴石的痕迹化石，以重建晚三叠世和早侏罗世的关键食物网。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/what-fossilized-dino-feces-can-tell-us-about-their-rise-to-dominance/</guid>
+      <pubDate>Wed, 27 Nov 2024 21:00:22 GMT</pubDate>
+    </item>
     <item>
       <title>在野外发现：世界上第一个不可杀死的 Linux UEFI 启动套件</title>
       <link>https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[“你还是不明白，是吗？除非世界改变，否则游戏不会结束。”]]></description>
       <guid>https://arstechnica.com/culture/2024/11/player-456-is-back-for-revenge-in-squid-game-s2-trailer/</guid>
       <pubDate>Wed, 27 Nov 2024 16:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>互联网服务提供商表示，他们的“优质客户服务”是用户不更换提供商的原因</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/</link>
-      <description><![CDATA[互联网服务提供商告知 FCC，受到不公平对待的用户将会转而使用他们的其他选择之一。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/</guid>
-      <pubDate>Tue, 26 Nov 2024 20:05:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
