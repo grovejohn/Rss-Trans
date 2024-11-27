@@ -4,16 +4,44 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 27 Nov 2024 16:46:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 18:21:57 GMT</lastBuildDate>
     <item>
-      <title>拜登提议对医疗人工智能进行监管，提高减肥药物的可及性</title>
+      <title>FCC 批准 Starlink 蜂窝电话服务计划，但有一些限制</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/</link>
+      <description><![CDATA[Starlink 可以提供蜂窝服务，但 FCC 推迟了对功率限制豁免的行动。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/</guid>
+      <pubDate>Wed, 27 Nov 2024 17:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国联邦贸易委员会警告称，智能设备未能承诺提供软件支持可能属于违法行为</title>
+      <link>https://arstechnica.com/gadgets/2024/11/smart-gadgets-failure-to-commit-to-software-support-could-be-illegal-ftc-warns/</link>
+      <description><![CDATA[“当我们购买的东西不再属于我们时，所有东西都变成了一次性用品......”]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/11/smart-gadgets-failure-to-commit-to-software-support-could-be-illegal-ftc-warns/</guid>
+      <pubDate>Wed, 27 Nov 2024 17:24:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>在短暂的公开泄露后，OpenAI 与自己的 Sora 视频测试人员发生了争执</title>
+      <link>https://arstechnica.com/ai/2024/11/openai-is-at-war-with-its-own-sora-video-testers-following-brief-public-leak/</link>
+      <description><![CDATA[幕后黑手称，这些作品被用于“无偿研发”和“艺术清洗”。]]></description>
+      <guid>https://arstechnica.com/ai/2024/11/openai-is-at-war-with-its-own-sora-video-testers-following-brief-public-leak/</guid>
+      <pubDate>Wed, 27 Nov 2024 17:10:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌将人工智能排除在搜索审判补救措施之外的计划进展不顺利</title>
+      <link>https://arstechnica.com/tech-policy/2024/11/google-drags-ai-rivals-into-search-trial-as-judge-entertains-ai-remedies/</link>
+      <description><![CDATA[法官：随着市场的变化，人工智能可能会在谷歌搜索补救措施中发挥“更大的作用”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/11/google-drags-ai-rivals-into-search-trial-as-judge-entertains-ai-remedies/</guid>
+      <pubDate>Wed, 27 Nov 2024 16:54:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>拜登政府提议严厉打击医疗保健领域存在偏见的人工智能</title>
       <link>https://arstechnica.com/health/2024/11/biden-proposes-guardrails-on-health-care-ai-upping-weight-loss-drug-access/</link>
       <description><![CDATA[随着特朗普政府上台，这些提案的未来尚不明朗。]]></description>
       <guid>https://arstechnica.com/health/2024/11/biden-proposes-guardrails-on-health-care-ai-upping-weight-loss-drug-access/</guid>
       <pubDate>Wed, 27 Nov 2024 16:37:51 GMT</pubDate>
     </item>
     <item>
-      <title>尽管之前遭到冷遇，凯迪拉克 F1 将从 2026 年开始恢复参赛</title>
+      <title>在让凯迪拉克滚蛋之后，F1 做出 180 度大转弯，允许 2026 年参赛</title>
       <link>https://arstechnica.com/cars/2024/11/cadillac-f1-will-be-able-to-race-from-2026-despite-previous-snub/</link>
       <description><![CDATA[人工智能初创公司是否是导致人们观念改变的部分原因？有可能。]]></description>
       <guid>https://arstechnica.com/cars/2024/11/cadillac-f1-will-be-able-to-race-from-2026-despite-previous-snub/</guid>
@@ -46,34 +74,6 @@
       <description><![CDATA[不便的控制和缺乏的功能使得该设备仅适合 Atari 完美主义者。]]></description>
       <guid>https://arstechnica.com/gaming/2024/11/the-atari-7800-is-a-no-frills-glimpse-into-a-forgotten-gaming-era/</guid>
       <pubDate>Tue, 26 Nov 2024 19:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA 授予 SpaceX 一份合同，这是它尚未完成的少数几件事之一</title>
-      <link>https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/</link>
-      <description><![CDATA[这是 ULA 的 Vulcan 火箭首次有资格竞争 NASA 的主要合同。]]></description>
-      <guid>https://arstechnica.com/space/2024/11/with-dragonfly-contract-nasa-will-certify-spacex-for-nuclear-powered-payloads/</guid>
-      <pubDate>Tue, 26 Nov 2024 18:23:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>QNAP 固件更新导致 NAS 用户无法使用他们的设备</title>
-      <link>https://arstechnica.com/gadgets/2024/11/qnap-firmware-update-leaves-nas-owners-locked-out-of-their-boxes/</link>
-      <description><![CDATA[如果您发现有问题，降级或客户支持是您的选择。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/11/qnap-firmware-update-leaves-nas-owners-locked-out-of-their-boxes/</guid>
-      <pubDate>Tue, 26 Nov 2024 18:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔获得 80 亿美元芯片资金后，工人们要求提高透明度</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/</link>
-      <description><![CDATA[英特尔奖励近 80 亿美元用于“增强”美国半导体创新。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/workers-demand-more-transparency-after-intel-secures-8b-chips-funding/</guid>
-      <pubDate>Tue, 26 Nov 2024 17:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>臭名昭著的“医疗恐怖分子”首席执行官的处境不妙</title>
-      <link>https://arstechnica.com/health/2024/11/things-arent-looking-good-for-infamous-ceo-of-health-care-terrorists/</link>
-      <description><![CDATA[前 Steward 首席执行官 Ralph de la Torre 面临广泛的欺诈和腐败调查。]]></description>
-      <guid>https://arstechnica.com/health/2024/11/things-arent-looking-good-for-infamous-ceo-of-health-care-terrorists/</guid>
-      <pubDate>Tue, 26 Nov 2024 16:33:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
