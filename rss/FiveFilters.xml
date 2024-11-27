@@ -4,9 +4,17 @@
     <title>FiveFilters.org</title>
     <link>https://www.fivefilters.org/</link>
     <description>网络文章变得易于访问</description>
-    <lastBuildDate>Thu, 03 Oct 2024 12:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 23:37:36 GMT</lastBuildDate>
     <item>
-      <title>RSS 订阅到 Google 表格</title>
+      <title>重要更新：FiveFilters.org 和 Mochi.is</title>
+      <link>https://www.fivefilters.org/2024/important-update-fivefilters-org-and-mochi-is/</link>
+      <description><![CDATA[我们正在重新组织这里的一切。FiveFilters.org 将回归本源，专注于媒体行动。同时，我们的软件工具将转移到由我们的新公司运营的 Mochi.is。
+帖子重要更新：FiveFilters.org 和 Mochi.is首先出现在FiveFilters.org上。]]></description>
+      <guid>https://www.fivefilters.org/2024/important-update-fivefilters-org-and-mochi-is/</guid>
+      <pubDate>Wed, 27 Nov 2024 23:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 表格的 RSS 源</title>
       <link>https://www.fivefilters.org/2024/rss-to-google-sheets/</link>
       <description><![CDATA[如何使用 Feed Control 自动将新的 feed 项目添加到 Google 表格。在这篇文章中，我们提供了分步指南。
 文章RSS feed 到 Google 表格首先出现在FiveFilters.org上。]]></description>
@@ -33,7 +41,7 @@
       <title>Feed 控制中的精选 Feed</title>
       <link>https://www.fivefilters.org/2024/curated-feeds-in-feed-control-and-item-visibility/</link>
       <description><![CDATA[在 Feed Control 中，您现在可以在 Feed 上启用“策展模式”。Feed 将像以前一样受到监控，但现在您必须选择应包含在 Feed 输出中的项目。
-帖子Feed Control 中的策展 Feed首先出现在FiveFilters.org上。]]></description>
+帖子Feed Control 中的策展 Feed首先出现在 FiveFilters.org 上。]]></description>
       <guid>https://www.fivefilters.org/2024/curated-feeds-in-feed-control-and-item-visibility/</guid>
       <pubDate>Mon, 13 May 2024 10:06:54 GMT</pubDate>
     </item>
@@ -65,7 +73,7 @@
       <title>新的 Push to Kindle iOS 应用</title>
       <link>https://www.fivefilters.org/2023/new-push-to-kindle-ios-app/</link>
       <description><![CDATA[我们在 Apple App Store 上推出了 Push to Kindle iOS 应用的新版本。Push to Kindle 可将网络文章转换为电子书，并将其发送到您的 Kindle 帐户，以获得更好的阅读体验。
-文章新的 Push to Kindle iOS 应用首先出现在FiveFilters.org上。]]></description>
+文章新 Push to Kindle iOS 应用首先出现在FiveFilters.org上。]]></description>
       <guid>https://www.fivefilters.org/2023/new-push-to-kindle-ios-app/</guid>
       <pubDate>Wed, 08 Mar 2023 16:02:46 GMT</pubDate>
     </item>
@@ -76,14 +84,6 @@
 文章 PHP 8.1 和 8.2 更新 Full-Text RSS 和 Feed Creator 首次出现在 FiveFilters.org 上。]]></description>
       <guid>https://www.fivefilters.org/2022/php-8-1-and-8-2-updates-for-full-text-rss-and-feed-creator/</guid>
       <pubDate>Sat, 31 Dec 2022 18:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kobo Elipsa：标记网络文章和 EPUB</title>
-      <link>https://www.fivefilters.org/2022/kobo-elipsa-marking-up-web-articles-and-epubs/</link>
-      <description><![CDATA[Kobo Elipsa 是一款 10.3 英寸的电子阅读器。它配有一支手写笔，可让您以与使用笔和纸类似的方式标记文档。在这篇文章中，我们将向您展示如何在 Kobo Elipsa 上标记由我们的 Push to Kindle 服务制作的网络文章。
-文章Kobo Elipsa：标记网络文章和 EPUB首先出现在FiveFilters.org上。]]></description>
-      <guid>https://www.fivefilters.org/2022/kobo-elipsa-marking-up-web-articles-and-epubs/</guid>
-      <pubDate>Sun, 13 Nov 2022 17:30:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
