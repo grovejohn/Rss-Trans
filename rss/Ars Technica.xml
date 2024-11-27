@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 27 Nov 2024 18:21:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 20:40:16 GMT</lastBuildDate>
+    <item>
+      <title>在野外发现：世界上第一个不可杀死的 Linux UEFI 启动套件</title>
+      <link>https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/</link>
+      <description><![CDATA[“Bootkitty” 很可能是一个概念验证，但可能预示着适用于 Linux 的 UEFI 恶意软件。]]></description>
+      <guid>https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/</guid>
+      <pubDate>Wed, 27 Nov 2024 19:21:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>教无人机在没有垂直舵的情况下飞行</title>
+      <link>https://arstechnica.com/science/2024/11/getting-a-drone-to-fly-like-a-pigeon/</link>
+      <description><![CDATA[我们可以让无人机像鸽子一样飞翔，但我们需要使用羽毛来实现这一点。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/getting-a-drone-to-fly-like-a-pigeon/</guid>
+      <pubDate>Wed, 27 Nov 2024 18:08:03 GMT</pubDate>
+    </item>
     <item>
       <title>FCC 批准 Starlink 蜂窝电话服务计划，但有一些限制</title>
       <link>https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[互联网服务提供商告知 FCC，受到不公平对待的用户将会转而使用他们的其他选择之一。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/11/isps-say-their-excellent-customer-service-is-why-users-dont-switch-providers/</guid>
       <pubDate>Tue, 26 Nov 2024 20:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>舔这根“棒棒糖”就能尝到虚拟的味道</title>
-      <link>https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/</link>
-      <description><![CDATA[它有九种口味：糖、盐、柠檬酸、樱桃、百香果、绿茶、牛奶、榴莲和葡萄柚。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/licking-this-lollipop-will-let-you-taste-virtual-flavors/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atari 7800+ 是被遗忘的游戏时代的简单一瞥</title>
-      <link>https://arstechnica.com/gaming/2024/11/the-atari-7800-is-a-no-frills-glimpse-into-a-forgotten-gaming-era/</link>
-      <description><![CDATA[不便的控制和缺乏的功能使得该设备仅适合 Atari 完美主义者。]]></description>
-      <guid>https://arstechnica.com/gaming/2024/11/the-atari-7800-is-a-no-frills-glimpse-into-a-forgotten-gaming-era/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:34:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
