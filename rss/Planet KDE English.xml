@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 29 Nov 2024 08:44:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 10:43:25 GMT</lastBuildDate>
+    <item>
+      <title>发布 GCompris 4.3</title>
+      <link>https://www.gcompris.net/newsall-en.html#2024-11-29?utm_source=atom_feed</link>
+      <description><![CDATA[ 今天我们发布了 GCompris 4.3 版。 它修复了多个活动中的错误并改进了图形。 它已完全翻译成以下语言：  阿拉伯语 保加利亚语 布列塔尼语 加泰罗尼亚语 加泰罗尼亚语（巴伦西亚语） 希腊语 英国英语 世界语 西班牙语 巴斯克语 法语 加利西亚语 克罗地亚语 匈牙利语 印度尼西亚语 意大利语 立陶宛语 拉脱维亚语 马拉雅拉姆语 荷兰语 挪威尼诺斯克语 波兰语 巴西葡萄牙语 罗马尼亚语 俄语 斯洛文尼亚语 阿尔巴尼亚语 瑞典语 斯瓦希里语 土耳其语 乌克兰语  它还部分翻译为以下语言：  阿塞拜疆语 (97%) 白俄罗斯语 (87%) 捷克语 (97%) 德语 (96%) 爱沙尼亚语 (96%) 芬兰语 (95%) 希伯来语 (96%) 马其顿语 (90%) 葡萄牙语 (96%) 斯洛伐克语 (84%) 繁体中文 (96%)  您可以在 下载页面。此外，此更新将很快在 Android Play 商店、F-Droid 存储库和 Windows 商店中提供。 谢谢大家，Timothée &amp; Johnny  ]]></description>
+      <guid>https://www.gcompris.net/newsall-en.html#2024-11-29?utm_source=atom_feed</guid>
+      <pubDate>Thu, 28 Nov 2024 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>十二月的 Kdenlive 咖啡馆</title>
       <link>https://kdenlive.org/en/2024/11/kdenlive-cafe-in-december/?utm_source=atom_feed</link>
@@ -138,17 +145,6 @@ https://jriddell.org/jriddell.pgp]]></description>
 还请加入invent.kde.org 上关于此问题的讨论。]]></description>
       <guid>https://privact.org/2024/11/24/ux-insights-that-we-cannot-get-right-now/?utm_source=atom_feed</guid>
       <pubDate>Sun, 24 Nov 2024 12:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到我的博客</title>
-      <link>https://alex1701c.github.io/2024/11/24/welcome-to-my-blog.html?utm_source=atom_feed</link>
-      <description><![CDATA[大家好！
-从现在起，我将在 GitHub 页面上撰写帖子。除了使用 git 保持帖子版本控制很有用之外，我之前的博客也存在一些问题。
-我的想法是简单地使用 write.as 并时不时发布帖子。这种方法效果很好，但一个多月前我想发布一篇关于我的 KRunner 插件的帖子。
-它自然包含了很多链接，因此发布被阻止，甚至由于明显的垃圾邮件而被帐户封锁。一个多月来没有收到任何邮件回复。
-所以这里不是另一个博客，我希望在那里写得更频繁，也能够在 KDE 上花更多时间！]]></description>
-      <guid>https://alex1701c.github.io/2024/11/24/welcome-to-my-blog.html?utm_source=atom_feed</guid>
-      <pubDate>Sun, 24 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
