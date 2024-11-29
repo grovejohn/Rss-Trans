@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 29 Nov 2024 20:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 23:15:17 GMT</lastBuildDate>
+    <item>
+      <title>在线发现的代码利用 LogoFAIL 安装 Bootkitty Linux 后门</title>
+      <link>https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/</link>
+      <description><![CDATA[发现的样本可能适用于宏碁、惠普、富士通和联想的 Linux 设备。]]></description>
+      <guid>https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/</guid>
+      <pubDate>Fri, 29 Nov 2024 21:37:00 GMT</pubDate>
+    </item>
     <item>
       <title>今天是黑色星期五，以下是我们能找到的最划算的购物优惠</title>
       <link>https://arstechnica.com/shopping/2024/11/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[我们可以让无人机像鸽子一样飞翔，但我们需要使用羽毛来实现这一点。]]></description>
       <guid>https://arstechnica.com/science/2024/11/getting-a-drone-to-fly-like-a-pigeon/</guid>
       <pubDate>Wed, 27 Nov 2024 18:08:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC 批准 Starlink 蜂窝电话服务计划，但有一些限制</title>
-      <link>https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/</link>
-      <description><![CDATA[Starlink 可以提供蜂窝服务，但 FCC 推迟了对功率限制豁免的行动。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/11/fcc-approves-starlink-plan-for-cellular-phone-service-with-some-limits/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:40:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
