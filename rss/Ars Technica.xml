@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 30 Nov 2024 02:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 12:59:52 GMT</lastBuildDate>
+    <item>
+      <title>我们该如何对待有意识的生物？</title>
+      <link>https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/</link>
+      <description><![CDATA[一本书指出，我们对于可能思考的事情思考还不够。]]></description>
+      <guid>https://arstechnica.com/science/2024/11/how-should-we-treat-beings-that-might-be-sentient/</guid>
+      <pubDate>Sat, 30 Nov 2024 12:07:52 GMT</pubDate>
+    </item>
     <item>
       <title>在线发现的代码利用 LogoFAIL 安装 Bootkitty Linux 后门</title>
       <link>https://arstechnica.com/security/2024/11/code-found-online-exploits-logofail-to-install-bootkitty-linux-backdoor/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[“Bootkitty” 很可能是一个概念验证，但可能预示着适用于 Linux 的 UEFI 恶意软件。]]></description>
       <guid>https://arstechnica.com/security/2024/11/found-in-the-wild-the-worlds-first-unkillable-uefi-bootkit-for-linux/</guid>
       <pubDate>Wed, 27 Nov 2024 19:21:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>教无人机在没有垂直舵的情况下飞行</title>
-      <link>https://arstechnica.com/science/2024/11/getting-a-drone-to-fly-like-a-pigeon/</link>
-      <description><![CDATA[我们可以让无人机像鸽子一样飞翔，但我们需要使用羽毛来实现这一点。]]></description>
-      <guid>https://arstechnica.com/science/2024/11/getting-a-drone-to-fly-like-a-pigeon/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:08:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
