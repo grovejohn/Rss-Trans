@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 30 Nov 2024 04:42:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 06:44:03 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：可禁用的 KWin 规则</title>
+      <link>https://blogs.kde.org/2024/11/30/this-week-in-plasma-disable-able-kwin-rules/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/11/30/this-week-in-plasma-disable-able-kwin-rules/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 30 Nov 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-48 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/11/29/web-review-week-2024-48/?utm_source=atom_feed</link>
@@ -129,13 +136,6 @@ https://jriddell.org/jriddell.pgp]]></description>
 &lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Fqt-support-on-apple-platforms&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px！重要；“宽度=“1”/&gt;]]></description>
       <guid>https://www.qt.io/blog/qt-support-on-apple-platforms?utm_source=atom_feed</guid>
       <pubDate>Mon, 25 Nov 2024 13:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用程序：错误修复周</title>
-      <link>https://blogs.kde.org/2024/11/25/this-week-in-kde-apps-bugfixing-week/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/11/25/this-week-in-kde-apps-bugfixing-week/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 25 Nov 2024 11:20:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
