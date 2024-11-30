@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 30 Nov 2024 06:44:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 08:41:37 GMT</lastBuildDate>
+    <item>
+      <title>KDE 十月/十一月行程</title>
+      <link>https://www.volkerkrause.eu/2024/11/30/kde-itinerary-october-november-2024.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/11/30/kde-itinerary-october-november-2024.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 30 Nov 2024 08:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：可禁用的 KWin 规则</title>
       <link>https://blogs.kde.org/2024/11/30/this-week-in-plasma-disable-able-kwin-rules/?utm_source=atom_feed</link>
@@ -128,14 +135,6 @@ SHA256： 57c8ff6fdeb4aba286425a1bc915db98ff786544a3ada9dec39056ca4b587837
 https://jriddell.org/jriddell.pgp]]></description>
       <guid>https://blogs.kde.org/2024/11/26/ruqola-2.3.2/?utm_source=atom_feed</guid>
       <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 平台上的 Qt 支持</title>
-      <link>https://www.qt.io/blog/qt-support-on-apple-platforms?utm_source=atom_feed</link>
-      <description><![CDATA[随着 Qt 6.8.1 和 6.5.8 的发布，我们正在更新我们的文档，以阐明 Qt 对新发布的 Apple 操作系统版本的支持。  
-&lt;img alt=&quot;&quot; height=&quot;1&quot; src=&quot;https://track.hubspot.com/__ptq.gif?a=149513&amp;amp;k=14&amp;amp;r=https%3A%2F%2Fwww.qt.io%2Fblog%2Fqt-support-on-apple-platforms&amp;amp;bu=https%253A%252F%252Fwww.qt.io%252Fblog&amp;amp;bvt=rss&quot; style=&quot;width: 1px！重要；“宽度=“1”/&gt;]]></description>
-      <guid>https://www.qt.io/blog/qt-support-on-apple-platforms?utm_source=atom_feed</guid>
-      <pubDate>Mon, 25 Nov 2024 13:53:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
