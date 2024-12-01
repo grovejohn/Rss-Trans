@@ -4,13 +4,78 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 30 Nov 2024 22:39:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 01:27:05 GMT</lastBuildDate>
     <item>
       <title>KDE Gear 24.11.90 可在 Fedora 41（COPR）上使用</title>
       <link>https://blog.marcdeop.com/?p=322?utm_source=atom_feed</link>
       <description><![CDATA[Fedora KDE SIG 很高兴地宣布 KDE Gear 24.12 RC (24.11.90) 已在 Fedora 41 上通过我们的 @kdesig/kde-beta COPR 存储库 提供 尽情享用吧！]]></description>
       <guid>https://blog.marcdeop.com/?p=322?utm_source=atom_feed</guid>
       <pubDate>Sat, 30 Nov 2024 21:31:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>剪纸插件 1.6.0</title>
+      <link>https://carlschwan.eu/2024/11/30/kirigami-addons-1.6.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Kirigami Addons 是一组用于 Kirigami 应用程序的附加组件。此版本主要对 FormCard 模块进行了改进。
+AboutPage
+Kirigami Addons 提供的关于页面得到了许多改进。Joshua 为所有按钮添加了图标。
+我处理了组件部分，现在其中包含有关默认组件以及底层平台的更多信息，并且现在有一个按钮可以将所有这些信息复制到剪贴板。这在编写错误报告时非常有用。还修复了一些小错误，例如，许可证对话框的大小正确。
+
+
+
+
+
+RadioSelector
+RadioSelector 是一个新组件，它是一个简单组件，允许在水平布局中在两个或多个选项之间选择一个选项。这不是一个新组件，因为它已经在 Itinerary 和 Marknote 中使用了很长时间。
+还有一个 FormCard 版本，称为 FormRadioSelectorDelegate。
+
+
+
+
+
+FormPlaceholderMessageDelegate
+另一个新组件是 FormPlaceholderMessageDelegate，它基本上是一个
+Kirigami.PlaceholderMessage，但不是将其放在 ListView 中，而是将其放在 FormCard 中。
+
+
+
+
+FormPlaceholderMessageDelegate for the health certificate
+
+其他
+Volker 修复了日期选择器的 Android 集成。他还添加了对静态构建的支持（iOS 需要，其他平台可能也希望如此）。
+Claudio 修复了 DatePicker 的各种问题。
+Joshua 使 AlbumMaximizeComponent 中使用的标题可以通过鼠标选择。他还修复了 IndicatorItemDelegate 的分隔符，该分隔符仅在第一个项目之后出现。
+我为 FormSwitchDelegate 添加了图标支持，这类似于我们在 FormRadioDelegate 和 FormCheckDelegate 中已有的功能。
+Packager Section
+Kirigami Addons 1.6.0 已标记，但 tarball 尚不可用。一旦可用，我将更新此帖子。]]></description>
+      <guid>https://carlschwan.eu/2024/11/30/kirigami-addons-1.6.0/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 30 Nov 2024 14:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>OptiImage 1.0.0 已经发布！</title>
+      <link>https://carlschwan.eu/2024/11/30/optiimage-1.0.0-is-out/?utm_source=atom_feed</link>
+      <description><![CDATA[OptiImage 的第一个版本终于发布了！OptiImage 是一款实用的图像压缩器，支持 PNG、JPEG、WebP 和 SVG 文件类型。它本身不进行压缩，而是使用各种工具（如 oxipng）进行压缩。
+
+
+
+
+OptiImage 压缩屏幕截图
+
+
+
+
+
+OptiImage 的设置页面
+
+感谢 Mathis Brüchert 对图标所做的工作，以及 Soumyadeep Ghosh
+修复了大量错误并促使我完成发布。
+
+打包程序部分
+OptiImage 1.0.0 已标记，但 tarball 尚不可用。一旦可用，我将更新
+此帖子。
+]]></description>
+      <guid>https://carlschwan.eu/2024/11/30/optiimage-1.0.0-is-out/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 30 Nov 2024 14:30:00 GMT</pubDate>
     </item>
     <item>
       <title>KDE 十月/十一月行程</title>
@@ -94,28 +159,6 @@ Invent：
 希望它对某些人有用！]]></description>
       <guid>https://blog.marcdeop.com/?p=302?utm_source=atom_feed</guid>
       <pubDate>Tue, 26 Nov 2024 15:32:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年维尔茨堡学院</title>
-      <link>https://blog.sandroknauss.de/akademy-2024/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.sandroknauss.de/akademy-2024/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.2.4，11 月错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.2.4/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 11 月 26 日，星期二。今天 KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.2.4。
-Plasma 6.2 于 2024 年 10 月发布，包含许多功能改进和新模块，以完善桌面体验。
-此版本添加了 KDE 贡献者三周的新翻译和修复。这些错误修复通常很小但很重要，包括：
-
-libkscreen Doctor：澄清最大亮度零的含义。 提交。 修复错误 #495557
-Plasma Workspace：电池图标，添加耳机图标。提交。
-Plasma Audio 音量控制：修复 Pro-Audio 配置文件的扬声器测试布局。 提交。 修复错误 #495752
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.2.4/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
