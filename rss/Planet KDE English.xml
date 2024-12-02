@@ -4,7 +4,19 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Dec 2024 14:42:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 16:47:06 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 15 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-15-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+我们很高兴地宣布 Qt Creator 15 的发布！
+Qt Creator 15 现已发布，它为 ARM 上的 Windows 提供原生支持、更新的视觉效果和改进功能，以提高您的工作效率。深入了解并探索增强功能！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-15-released?utm_source=atom_feed</guid>
+      <pubDate>Mon, 02 Dec 2024 14:32:35 GMT</pubDate>
+    </item>
     <item>
       <title>Qt for MCUs 2.9 发布</title>
       <link>https://www.qt.io/blog/qt-for-mcus-2.9-released?utm_source=atom_feed</link>
@@ -154,13 +166,6 @@ OptiImage 1.0.0 已标记，但 tarball 尚不可用。一旦可用，我将更�
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/11/30/this-week-in-plasma-disable-able-kwin-rules/?utm_source=atom_feed</guid>
       <pubDate>Sat, 30 Nov 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-48 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/11/29/web-review-week-2024-48/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/11/29/web-review-week-2024-48/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 29 Nov 2024 11:49:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
