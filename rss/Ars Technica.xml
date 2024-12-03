@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Dec 2024 16:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 17:41:55 GMT</lastBuildDate>
     <item>
-      <title>美国芯片禁令后，中国采取反击措施，禁止稀土金属出口</title>
+      <title>Raspberry Pi 5 现在可以作为更小、更快的 Steam Link 使用</title>
+      <link>https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/</link>
+      <description><![CDATA[将高达 4K、60 fps 的游戏从您的游戏 PC 流式传输到您的大电视上。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/12/the-raspberry-pi-5-now-works-as-a-smaller-faster-kind-of-steam-link/</guid>
+      <pubDate>Tue, 03 Dec 2024 17:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普治下美国保护消费者免受数据经纪商侵害的计划前景黯淡</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/us-plan-to-protect-consumers-from-data-brokers-faces-dim-future-under-trump/</link>
+      <description><![CDATA[怀登：“不幸的是，最终确定这项拟议规则将由特朗普的消费者金融保护局负责。”]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/us-plan-to-protect-consumers-from-data-brokers-faces-dim-future-under-trump/</guid>
+      <pubDate>Tue, 03 Dec 2024 16:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国对美国实施科技制造关键矿物禁令</title>
       <link>https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/</link>
       <description><![CDATA[中国禁止美国出口镓、锗、锑和超硬材料。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/china-retaliates-bans-exports-of-rare-metals-after-us-chip-ban/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[一天已经过去一半了，但我们仍在不断添加内容——快来看看是否有东西吸引你！]]></description>
       <guid>https://arstechnica.com/shopping/2024/12/its-black-friday-and-here-are-the-best-shopping-deals-we-could-find/</guid>
       <pubDate>Mon, 02 Dec 2024 23:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>某些名称让 ChatGPT 陷入停顿，我们知道原因</title>
-      <link>https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/</link>
-      <description><![CDATA[已解决的诽谤诉讼案的主题所产生的过滤器可能会在日后引起麻烦。]]></description>
-      <guid>https://arstechnica.com/information-technology/2024/12/certain-names-make-chatgpt-grind-to-a-halt-and-we-know-why/</guid>
-      <pubDate>Mon, 02 Dec 2024 22:22:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员终于发现了海洋中的“神秘软体动物”</title>
-      <link>https://arstechnica.com/science/2024/12/glowing-sea-slug-behaves-like-a-jellyfish-lizard-and-venus-flytrap/</link>
-      <description><![CDATA[它是一种裸鳃类动物，但与其亲缘关系很远，因此有自己的系统发育家族。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/glowing-sea-slug-behaves-like-a-jellyfish-lizard-and-venus-flytrap/</guid>
-      <pubDate>Mon, 02 Dec 2024 20:32:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
