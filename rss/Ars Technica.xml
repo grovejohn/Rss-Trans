@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Dec 2024 22:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 23:37:46 GMT</lastBuildDate>
+    <item>
+      <title>戏水池确实是粪便的喷泉；CDC 报告了 10,000 例疾病</title>
+      <link>https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/</link>
+      <description><![CDATA[一个大问题是漏水的游泳尿布和孩子吸入循环水。]]></description>
+      <guid>https://arstechnica.com/health/2024/12/from-diapers-to-mouths-of-babes-how-splash-pads-sickened-over-10k/</guid>
+      <pubDate>Tue, 03 Dec 2024 22:09:06 GMT</pubDate>
+    </item>
     <item>
       <title>Zipcar 的“噩梦”中断是对应用程序完全依赖的警告</title>
       <link>https://arstechnica.com/gadgets/2024/12/nightmare-zipcar-outage-is-a-warning-against-complete-app-dependency/</link>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 03 Dec 2024 17:58:24 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎参加明天的 Ars Live：Asahi Linux 如何将开放软件移植到 Apple 硬件上</title>
+      <title>欢迎明天参加 Ars Live：Asahi Linux 如何将开放软件移植到 Apple 硬件上</title>
       <link>https://arstechnica.com/apple/2024/12/join-us-tomorrow-for-ars-live-how-asahi-linux-ports-open-software-to-apples-hardware/</link>
       <description><![CDATA[欢迎参加我们美国东部时间星期三下午 3:30 的活动，一起了解在 Apple Silicon 上运行 Linux 的努力。]]></description>
       <guid>https://arstechnica.com/apple/2024/12/join-us-tomorrow-for-ars-live-how-asahi-linux-ports-open-software-to-apples-hardware/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[科普课堂的演示有朝一日可能会应用于为微型机器人提供动力。]]></description>
       <guid>https://arstechnica.com/science/2024/12/vodka-can-propel-tiny-robots-across-the-water/</guid>
       <pubDate>Tue, 03 Dec 2024 15:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新网站向你展示 Google AI 能从你的照片中学到多少东西</title>
-      <link>https://arstechnica.com/ai/2024/12/new-website-shows-you-how-much-google-ai-can-learn-from-your-photos/</link>
-      <description><![CDATA[上传您的照片并获取其详细的三段描述。]]></description>
-      <guid>https://arstechnica.com/ai/2024/12/new-website-shows-you-how-much-google-ai-can-learn-from-your-photos/</guid>
-      <pubDate>Tue, 03 Dec 2024 15:16:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
