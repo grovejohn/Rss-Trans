@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 03 Dec 2024 21:15:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 22:15:50 GMT</lastBuildDate>
     <item>
-      <title>英特尔以 249 美元和 219 美元的 Arc B500 GPU 瞄准经济实惠的 1440p 游戏</title>
+      <title>Zipcar 的“噩梦”中断是对应用程序完全依赖的警告</title>
+      <link>https://arstechnica.com/gadgets/2024/12/nightmare-zipcar-outage-is-a-warning-against-complete-app-dependency/</link>
+      <description><![CDATA[Zipcar 将此归咎于“网站流量增加”，但完全依赖应用程序也难辞其咎。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/12/nightmare-zipcar-outage-is-a-warning-against-complete-app-dependency/</guid>
+      <pubDate>Tue, 03 Dec 2024 21:49:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔第二代 Arc B580 GPU 以 249 美元的价格击败 Nvidia 的 RTX 4060</title>
       <link>https://arstechnica.com/gaming/2024/12/intel-targets-budget-friendly-1440p-gaming-with-249-and-219-arc-b500-gpus/</link>
       <description><![CDATA[英特尔专用 GPU 再次强势回归，其目标是 1440p。]]></description>
       <guid>https://arstechnica.com/gaming/2024/12/intel-targets-budget-friendly-1440p-gaming-with-249-and-219-arc-b500-gpus/</guid>
@@ -27,7 +34,7 @@
       <pubDate>Tue, 03 Dec 2024 17:58:24 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎明天参加 Ars Live：Asahi Linux 如何将开放软件移植到 Apple 硬件上</title>
+      <title>欢迎参加明天的 Ars Live：Asahi Linux 如何将开放软件移植到 Apple 硬件上</title>
       <link>https://arstechnica.com/apple/2024/12/join-us-tomorrow-for-ars-live-how-asahi-linux-ports-open-software-to-apples-hardware/</link>
       <description><![CDATA[欢迎参加我们美国东部时间星期三下午 3:30 的活动，一起了解在 Apple Silicon 上运行 Linux 的努力。]]></description>
       <guid>https://arstechnica.com/apple/2024/12/join-us-tomorrow-for-ars-live-how-asahi-linux-ports-open-software-to-apples-hardware/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[上传您的照片并获取其详细的三段描述。]]></description>
       <guid>https://arstechnica.com/ai/2024/12/new-website-shows-you-how-much-google-ai-can-learn-from-your-photos/</guid>
       <pubDate>Tue, 03 Dec 2024 15:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>安然破产二十年后，该公司再次以加密货币公司的身份回归？</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/</link>
-      <description><![CDATA[在 Theranos 出现之前，安然公司的丑闻规模就比 Theranos 丑闻更大。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/a-crypto-firm-apparently-bought-the-enron-name-to-sell-an-energy-coin/</guid>
-      <pubDate>Tue, 03 Dec 2024 12:30:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
