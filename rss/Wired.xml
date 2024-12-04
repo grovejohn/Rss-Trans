@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 04 Dec 2024 08:46:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 09:18:08 GMT</lastBuildDate>
+    <item>
+      <title>激光让寻找埋藏的地雷变得更容易</title>
+      <link>https://www.wired.com/story/this-laser-system-can-locate-landmines-with-high-accuracy/</link>
+      <description><![CDATA[该技术通过向地面发送振动并测量返回的结果来搜寻埋藏的物体。]]></description>
+      <guid>https://www.wired.com/story/this-laser-system-can-locate-landmines-with-high-accuracy/</guid>
+      <pubDate>Wed, 04 Dec 2024 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>蒂姆·库克希望苹果能真正拯救你的生命</title>
       <link>https://www.wired.com/story/big-interview-tim-cook-wants-apple-to-literally-save-your-life/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[新聘用的员工均为计算机视觉专家，他们是竞争激烈的人才市场中最新一批直接投向竞争对手的人工智能研究人员。]]></description>
       <guid>https://www.wired.com/story/openai-hires-deepmind-zurich/</guid>
       <pubDate>Wed, 04 Dec 2024 01:33:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mira Murati 退出 OpenAI。她对 AGI 一如既往地乐观</title>
-      <link>https://www.wired.com/story/big-interview-mira-murati-2024/</link>
-      <description><![CDATA[在《连线》杂志的 The Big Interview 活动上，这位前 OpenAI 首席技术官表示，她仍在创办自己的初创公司，但 AGI 是她最关心的问题。]]></description>
-      <guid>https://www.wired.com/story/big-interview-mira-murati-2024/</guid>
-      <pubDate>Wed, 04 Dec 2024 00:46:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
