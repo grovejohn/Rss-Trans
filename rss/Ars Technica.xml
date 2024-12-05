@@ -4,11 +4,18 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 21:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 23:16:43 GMT</lastBuildDate>
     <item>
-      <title>博通的新销售计划在阻止 VMware 迁移方面可能“微不足道”</title>
+      <title>法官驳回波音公司认罪协议，该协议遭到空难受害者家属的反对</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/judge-rejects-boeing-plea-deal-that-was-opposed-by-families-of-crash-victims/</link>
+      <description><![CDATA[法官写道，看来政府“确保遵守的尝试失败了”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/judge-rejects-boeing-plea-deal-that-was-opposed-by-families-of-crash-victims/</guid>
+      <pubDate>Thu, 05 Dec 2024 21:51:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>博通撤销有争议的计划，以削减 VMware 迁移</title>
       <link>https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/</link>
-      <description><![CDATA[博通只会占据 VMware 500 家最大客户，而不是 2,000 家。]]></description>
+      <description><![CDATA[Broadcom 只会占据 VMware 500 个最大客户，而不是 2,000 个。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/new-broadcom-sales-plan-may-be-insignificant-in-deterring-vmware-migrations/</guid>
       <pubDate>Thu, 05 Dec 2024 20:50:44 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[iVerify 的检测工具于五月推出，并且已经开始发现受害者。]]></description>
       <guid>https://arstechnica.com/security/2024/12/1-phone-scanner-finds-seven-pegasus-spyware-infections/</guid>
       <pubDate>Thu, 05 Dec 2024 17:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rivian 今日向其他电动汽车开放其探险充电网络</title>
-      <link>https://arstechnica.com/cars/2024/12/rivian-opens-its-adventure-charging-network-to-other-evs-today/</link>
-      <description><![CDATA[Rivian 的 90 多个快速充电站中的第一个于今日向其他电动汽车开放。]]></description>
-      <guid>https://arstechnica.com/cars/2024/12/rivian-opens-its-adventure-charging-network-to-other-evs-today/</guid>
-      <pubDate>Thu, 05 Dec 2024 16:00:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
