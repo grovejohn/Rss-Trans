@@ -4,7 +4,7 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 13:44:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 14:15:57 GMT</lastBuildDate>
     <item>
       <title>后门潜入流行代码库，从数字钱包中窃取约 15.5 万美元</title>
       <link>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</link>
@@ -15,16 +15,9 @@
     <item>
       <title>产前检查结果不正常者中，50% 的人会意外发现癌症</title>
       <link>https://arstechnica.com/health/2024/12/prenatal-test-accidentally-picks-up-cancer-in-50-of-those-with-wonky-results/</link>
-      <description><![CDATA[当其他筛查和测试未能发现癌症时，产前检查结果却能发现。]]></description>
+      <description><![CDATA[当其他筛查和测试未能发现癌症时，产前检查结果会提示癌症。]]></description>
       <guid>https://arstechnica.com/health/2024/12/prenatal-test-accidentally-picks-up-cancer-in-50-of-those-with-wonky-results/</guid>
       <pubDate>Thu, 05 Dec 2024 12:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>《印第安纳琼斯：大圆环》是一部完美的考古冒险片</title>
-      <link>https://arstechnica.com/gaming/2024/12/indiana-jones-and-the-great-circle-captures-the-feel-of-a-great-indy-movie/</link>
-      <description><![CDATA[评论：令人惊叹的开放世界环境使这个紧凑且充满乐趣的冒险故事更加完美。]]></description>
-      <guid>https://arstechnica.com/gaming/2024/12/indiana-jones-and-the-great-circle-captures-the-feel-of-a-great-indy-movie/</guid>
-      <pubDate>Thu, 05 Dec 2024 12:00:26 GMT</pubDate>
     </item>
     <item>
       <title>这些蜘蛛会先聆听猎物的声音，然后像弹弓一样投掷网</title>
@@ -74,6 +67,13 @@
       <description><![CDATA[大多数主要的电动汽车制造商和充电网络都已加入其中。]]></description>
       <guid>https://arstechnica.com/cars/2024/12/universal-plug-and-charge-for-most-evs-is-moving-ahead-for-2025/</guid>
       <pubDate>Wed, 04 Dec 2024 17:18:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 DeepMind 出色完成天气预报任务</title>
+      <link>https://arstechnica.com/science/2024/12/googles-deepmind-tackles-weather-forecasting-with-great-performance/</link>
+      <description><![CDATA[只需在一台处理器上花八分钟就能完成一次 15 天的预报。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/googles-deepmind-tackles-weather-forecasting-with-great-performance/</guid>
+      <pubDate>Wed, 04 Dec 2024 17:06:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
