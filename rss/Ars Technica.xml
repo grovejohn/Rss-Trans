@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 15:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 16:47:17 GMT</lastBuildDate>
+    <item>
+      <title>Rivian 今日向其他电动汽车开放其探险充电网络</title>
+      <link>https://arstechnica.com/cars/2024/12/rivian-opens-its-adventure-charging-network-to-other-evs-today/</link>
+      <description><![CDATA[Rivian 的 90 多个快速充电站中的第一个于今日向其他电动汽车开放。]]></description>
+      <guid>https://arstechnica.com/cars/2024/12/rivian-opens-its-adventure-charging-network-to-other-evs-today/</guid>
+      <pubDate>Thu, 05 Dec 2024 16:00:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>比特币突破 10 万美元</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/bitcoin-hits-100000/</link>
+      <description><![CDATA[随着比特币创下新高，特朗普推动的加密货币涨势持续升温。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/bitcoin-hits-100000/</guid>
+      <pubDate>Thu, 05 Dec 2024 15:43:17 GMT</pubDate>
+    </item>
     <item>
       <title>电子纹身可以让移动脑电图成为现实</title>
       <link>https://arstechnica.com/science/2024/12/e-tattoos-could-make-mobile-eegs-a-reality/</link>
@@ -13,7 +27,7 @@
       <pubDate>Thu, 05 Dec 2024 15:31:36 GMT</pubDate>
     </item>
     <item>
-      <title>后门潜入流行代码库，从数字钱包中窃取约 15.5 万美元</title>
+      <title>后门潜入流行代码库，从数字钱包中盗取约 15.5 万美元</title>
       <link>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</link>
       <description><![CDATA[Solana-web3.js 代码库耗尽私钥，从而可以访问用户钱包。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[“我们永远不会再失去星际旅行的能力，也永远不会满足于第二名。”]]></description>
       <guid>https://arstechnica.com/space/2024/12/jared-isaacman-entrepreneur-and-private-astronaut-is-trumps-choice-to-lead-nasa/</guid>
       <pubDate>Wed, 04 Dec 2024 18:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>诉讼称亚马逊秘密减慢送货速度，欺骗任何投诉的人</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/</link>
-      <description><![CDATA[司法部长称，亚马逊称延迟只是“巧合”，但实际上却多收了数百万美元。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/amazon-secretly-slowed-deliveries-deceived-anyone-who-complained-lawsuit-says/</guid>
-      <pubDate>Wed, 04 Dec 2024 17:37:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>不再有电动汽车应用文件夹：通用即插即充将于 2025 年推出</title>
-      <link>https://arstechnica.com/cars/2024/12/universal-plug-and-charge-for-most-evs-is-moving-ahead-for-2025/</link>
-      <description><![CDATA[大多数主要的电动汽车制造商和充电网络都已加入其中。]]></description>
-      <guid>https://arstechnica.com/cars/2024/12/universal-plug-and-charge-for-most-evs-is-moving-ahead-for-2025/</guid>
-      <pubDate>Wed, 04 Dec 2024 17:18:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
