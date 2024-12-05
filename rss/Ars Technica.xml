@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 16:47:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 17:39:54 GMT</lastBuildDate>
+    <item>
+      <title>Steam 机器回归？Valve 推出全新“Powered by SteamOS”品牌。</title>
+      <link>https://arstechnica.com/gaming/2024/12/the-return-of-steam-machines-valve-rolls-out-new-powered-by-steamos-branding/</link>
+      <description><![CDATA[新的品牌指导方针表明官方第三方硬件支持即将到来。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/12/the-return-of-steam-machines-valve-rolls-out-new-powered-by-steamos-branding/</guid>
+      <pubDate>Thu, 05 Dec 2024 17:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>1 美元的手机扫描仪发现七种 Pegasus 间谍软件感染</title>
+      <link>https://arstechnica.com/security/2024/12/1-phone-scanner-finds-seven-pegasus-spyware-infections/</link>
+      <description><![CDATA[iVerify 的检测工具于五月推出，并且已经开始发现受害者。]]></description>
+      <guid>https://arstechnica.com/security/2024/12/1-phone-scanner-finds-seven-pegasus-spyware-infections/</guid>
+      <pubDate>Thu, 05 Dec 2024 17:00:06 GMT</pubDate>
+    </item>
     <item>
       <title>Rivian 今日向其他电动汽车开放其探险充电网络</title>
       <link>https://arstechnica.com/cars/2024/12/rivian-opens-its-adventure-charging-network-to-other-evs-today/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[OpenAI 的“12 天发布会”将在两周内发布新的 AI 版本和演示。]]></description>
       <guid>https://arstechnica.com/ai/2024/12/openai-teases-12-days-of-mystery-product-launches-starting-tomorrow/</guid>
       <pubDate>Wed, 04 Dec 2024 20:15:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国黑客潜入电信网络 美国建议加密信息</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/us-recommends-encrypted-messaging-as-chinese-hackers-linger-in-telecom-networks/</link>
-      <description><![CDATA[美国官员：“我们不可能预测何时会出现全面驱逐。”]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/us-recommends-encrypted-messaging-as-chinese-hackers-linger-in-telecom-networks/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普提名贾里德·艾萨克曼担任下一任美国国家航空航天局局长</title>
-      <link>https://arstechnica.com/space/2024/12/jared-isaacman-entrepreneur-and-private-astronaut-is-trumps-choice-to-lead-nasa/</link>
-      <description><![CDATA[“我们永远不会再失去星际旅行的能力，也永远不会满足于第二名。”]]></description>
-      <guid>https://arstechnica.com/space/2024/12/jared-isaacman-entrepreneur-and-private-astronaut-is-trumps-choice-to-lead-nasa/</guid>
-      <pubDate>Wed, 04 Dec 2024 18:41:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
