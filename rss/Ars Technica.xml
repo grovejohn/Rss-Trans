@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 05 Dec 2024 14:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 15:41:13 GMT</lastBuildDate>
+    <item>
+      <title>电子纹身可以让移动脑电图成为现实</title>
+      <link>https://arstechnica.com/science/2024/12/e-tattoos-could-make-mobile-eegs-a-reality/</link>
+      <description><![CDATA[新型聚合物导电墨水可直接打印在头皮表面——即使是穿过讨厌的短发。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/e-tattoos-could-make-mobile-eegs-a-reality/</guid>
+      <pubDate>Thu, 05 Dec 2024 15:31:36 GMT</pubDate>
+    </item>
     <item>
       <title>后门潜入流行代码库，从数字钱包中窃取约 15.5 万美元</title>
       <link>https://arstechnica.com/information-technology/2024/12/backdoor-slips-into-popular-code-library-drains-155k-from-digital-wallets/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[大多数主要的电动汽车制造商和充电网络都已加入其中。]]></description>
       <guid>https://arstechnica.com/cars/2024/12/universal-plug-and-charge-for-most-evs-is-moving-ahead-for-2025/</guid>
       <pubDate>Wed, 04 Dec 2024 17:18:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌 DeepMind 出色完成天气预报任务</title>
-      <link>https://arstechnica.com/science/2024/12/googles-deepmind-tackles-weather-forecasting-with-great-performance/</link>
-      <description><![CDATA[只需在一台处理器上花八分钟就能完成一次 15 天的预报。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/googles-deepmind-tackles-weather-forecasting-with-great-performance/</guid>
-      <pubDate>Wed, 04 Dec 2024 17:06:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
