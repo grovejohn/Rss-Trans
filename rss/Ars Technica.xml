@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 06 Dec 2024 15:40:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 17:15:09 GMT</lastBuildDate>
+    <item>
+      <title>Booking.com 称打字错误导致陌生人获取私人旅行信息并非漏洞</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/</link>
+      <description><![CDATA[在用户举报隐私问题后，热门旅游网站确认无法阻止拼写错误。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/booking-com-says-typos-giving-strangers-access-to-private-trip-info-is-not-a-bug/</guid>
+      <pubDate>Fri, 06 Dec 2024 16:43:43 GMT</pubDate>
+    </item>
     <item>
       <title>低成本钠离子电池终于迎来了发展机遇</title>
       <link>https://arstechnica.com/cars/2024/12/lower-cost-sodium-ion-batteries-are-finally-having-their-moment/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果这是一种趋势，那么未来的变暖程度将达到预期的高端。]]></description>
       <guid>https://arstechnica.com/science/2024/12/new-study-blames-recent-spike-in-global-warming-on-lack-of-low-clouds/</guid>
       <pubDate>Thu, 05 Dec 2024 20:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>AT&T 表示不会在其一半的有线覆盖范围内建设光纤家庭互联网</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/att-says-it-wont-build-fiber-home-internet-in-half-of-its-wireline-footprint/</link>
-      <description><![CDATA[AT&amp;T 正在放弃铜线并建设光纤，但许多网络只能使用 5G 或卫星。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/att-says-it-wont-build-fiber-home-internet-in-half-of-its-wireline-footprint/</guid>
-      <pubDate>Thu, 05 Dec 2024 19:51:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
