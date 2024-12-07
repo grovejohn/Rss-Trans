@@ -4,13 +4,33 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 07 Dec 2024 08:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 10:42:01 GMT</lastBuildDate>
     <item>
       <title>本周 Plasma：众多功能！</title>
       <link>https://blogs.kde.org/2024/12/07/this-week-in-plasma-oodles-of-features/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/12/07/this-week-in-plasma-oodles-of-features/?utm_source=atom_feed</guid>
       <pubDate>Sat, 07 Dec 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plasma Wayland 协议 1.15.0</title>
+      <link>https://blogs.kde.org/2024/12/07/plasma-wayland-protocols-1.15.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Plasma Wayland Protocols 1.15.0 现已可供打包。它是即将推出的 KDE 框架所需要的。
+URL： https://download.kde.org/stable/plasma-wayland-protocols/ 
+SHA256： e5aedfe7c0b2443aa67882b4792d08814570e00dd82f719a35c922a0993f621e
+签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
+完整更新日志：
+
+添加创建虚拟输出流的请求，并附上说明
+添加 alpine CI
+向 keystate 添加修饰符信息
+gitignore：使用与 KWin 相同的方式
+向 appmenu 管理器添加析构函数
+添加协议测试
+为 Linux 上的静态构建添加 CI
+]]></description>
+      <guid>https://blogs.kde.org/2024/12/07/plasma-wayland-protocols-1.15.0/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>网络评论，第 2024-49 周</title>
@@ -84,45 +104,6 @@ Icecream 有一个很棒的可视化工具，称为 icecream-monitor，您可以
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/12/01/this-week-in-kde-apps-optiimage-first-release-itinerary-redesign-and-more/?utm_source=atom_feed</guid>
       <pubDate>Sun, 01 Dec 2024 11:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Debian 中的 QML 依赖跟踪</title>
-      <link>https://blog.sandroknauss.de/QMLDependencyTrackingInDebian/?utm_source=atom_feed</link>
-      <description><![CDATA[Debian 中的跟踪库依赖关系功能可从符号使用解析到库，并将其添加到依赖关系列表中。
-多年来一直如此。
-如今，KDE 社区创建了越来越多的基于 QML 的应用程序。
-不幸的是，QML 是一种解释型语言，这意味着缺少 QML 依赖关系只会在运行时出现问题。
-为了解决这个问题，我创建了 dh_qmldeps，它在构建时搜索 QML 依赖关系，如果无法解析 QML 依赖关系，则会失败。
-我没有创建自己的 QML 解释器，只是在后台使用 qmlimportscanner 并进一步处理输出以将 QML 模块解析为 Debian 包。
-工作流程如下：
-包正常编译并拆分为二进制包。
-然后 dh_qmldeps 扫描软件包内容以查找 QML 内容（.qml 文件，或 QML 模块的 qmldir）。
-所有找到的文件都将由 qmlimportscanner 扫描，输出是依赖的 QML 模块列表。
-由于 QML 模块具有标准化的文件路径，我们可以询问 Debian 系统，哪些软件包附带此文件路径。
-我们最终在变量 ${qml6:Depends 中得到 Debian 软件包列表。
-此变量可以附加到扫描软件包的依赖项列表中。
-如果需要，维护者还可以降低某些依赖性以推荐或建议。
-您可以在salsa上找到源代码，并在https://qt-kde-team.pages.debian.net/dh_qmldeps.html上找到使用文档。
-最近几周，我为每个新包启用了dh_qmldeps，从而创建了一个 QML6 模块包。
-因此，第一个错误已解决，它应该可用于更多软件包。
-通过使用 qmlimportscanner 扫描所有代码，我发现了几个不存在的 QML 模块：
-
-import QtQuick3DPrivate qt6-multimedia - 没有私有 QML 模块 QTBUG-131753。
-import QtQuickPrivate qt6-graphs - 没有私有 QML 模块 QTBUG-131754。
-import QtQuickTimeline qt6-quicktimeline - 正确的 QML 名称是 QtQuick.Timeline QTBUG-131755。
-import QtQuickControls2 qt6-webengine - 看起来像是移植错误，因为 QML6 模块名称是 QtQuick.Controls QTBUG-131756。
-import QtGraphicalEffects kquickimageeditor - QML6 的正确名称是qt5compat.graphicaleffects，因为它是一个例子，没有人检查它kquickimageeditor!7。
-
-是的 - 第一个里程碑已经达到。
-我们能够简单地处理 QML 模块。
-但 QML 应用程序仍有改进空间。
-在应用程序中，QML 文件位于可执行文件中。
-此外，应用程序创建内部 QML 模块，这些模块直接在同一个可执行文件中发送。
-我仍然在寻找一种分析可执行文件的好方法，以获取内部 QML 模块列表和包含的 QML 文件列表。
-欢迎任何想法 :)
-作为解决方法，dh_qmldeps 当前扫描应用程序源代码中的所有 QML 文件。]]></description>
-      <guid>https://blog.sandroknauss.de/QMLDependencyTrackingInDebian/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
