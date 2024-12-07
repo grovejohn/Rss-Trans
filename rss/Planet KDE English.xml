@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 07 Dec 2024 04:42:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 06:45:07 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：众多功能！</title>
+      <link>https://blogs.kde.org/2024/12/07/this-week-in-plasma-oodles-of-features/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/12/07/this-week-in-plasma-oodles-of-features/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 07 Dec 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-49 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/12/06/web-review-week-2024-49/?utm_source=atom_feed</link>
@@ -116,13 +123,6 @@ import QtGraphicalEffects kquickimageeditor - QML6 的正确名称是qt5compat.g
 作为解决方法，dh_qmldeps 当前扫描应用程序源代码中的所有 QML 文件。]]></description>
       <guid>https://blog.sandroknauss.de/QMLDependencyTrackingInDebian/?utm_source=atom_feed</guid>
       <pubDate>Sun, 01 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear 24.11.90 可在 Fedora 41（COPR）上使用</title>
-      <link>https://blog.marcdeop.com/2024/11/30/kde-gear-24-11-90-available-on-fedora-41-copr/?utm_source=atom_feed</link>
-      <description><![CDATA[Fedora KDE SIG 很高兴地宣布 KDE Gear 24.12 RC (24.11.90) 已在 Fedora 41 上通过我们的 @kdesig/kde-beta COPR 存储库 提供 尽情享用吧！]]></description>
-      <guid>https://blog.marcdeop.com/2024/11/30/kde-gear-24-11-90-available-on-fedora-41-copr/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 30 Nov 2024 21:31:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
