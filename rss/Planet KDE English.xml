@@ -1,10 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 08 Dec 2024 16:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 20:39:15 GMT</lastBuildDate>
+    <item>
+      <title>设计系统 12 月更新</title>
+      <link>https://anditosan.wordpress.com/2024/12/08/design-system-december-updates/?utm_source=atom_feed</link>
+      <description><![CDATA[大家好！
+我们回来继续介绍我们正在进行的 Plasma 设计系统工作的一系列更新。所有视频均包含英文字幕。
+请留下您的反馈或让我们知道您是否有任何问题。
+
+
+
+
+
+
+
+
+]]></description>
+      <guid>https://anditosan.wordpress.com/2024/12/08/design-system-december-updates/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 08 Dec 2024 17:58:12 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE 应用：Gear 24.12.0 即将推出</title>
       <link>https://blogs.kde.org/2024/12/08/this-week-in-kde-apps-gear-24.12.0-incoming/?utm_source=atom_feed</link>
@@ -102,23 +120,6 @@ Icecream 有一个很棒的可视化工具，称为 icecream-monitor，您可以
 斯嘉丽]]></description>
       <guid>https://www.scarlettgatelymoore.dev/hacked-and-tis-the-season-for-surgeries/?utm_source=atom_feed</guid>
       <pubDate>Wed, 04 Dec 2024 17:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯特-1500 个合并请求已接受！</title>
-      <link>https://kate-editor.org/post/2024/2024-12-02-kate-1500-accepted-merge-requests/?utm_source=atom_feed</link>
-      <description><![CDATA[我今天刚刚查看了我们的 GitLab 页面，心想：太棒了！
-
-
-
-
-
-感谢大家上一次的巨大贡献年。
-希望未来我们能看到更多贡献。
-如果您不确定如何贡献，只需查看现有的合并的内容作为参考。
-即将发布的 24.12 版本将是一个不错的版本，我们确实对 Kate 进行了大量完善。
-我知道世界上并非一切都好，但我仍然希望您能度过美好的一年，并在新的一年里有一个更好的开始！]]></description>
-      <guid>https://kate-editor.org/post/2024/2024-12-02-kate-1500-accepted-merge-requests/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 02 Dec 2024 19:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
