@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 10 Dec 2024 04:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 06:48:32 GMT</lastBuildDate>
     <item>
       <title>设计系统 12 月更新</title>
       <link>https://anditosan.wordpress.com/2024/12/08/design-system-december-updates/?utm_source=atom_feed</link>
@@ -91,7 +91,7 @@ gitignore：使用与 KWin 相同的方式
       <link>https://vizZzion.org/blog/2024/12/icecream/?utm_source=atom_feed</link>
       <description><![CDATA[最近 KDE 黑客攻击很多，这需要编译大量代码。现在，我正在一台“旧”笔记本电脑上安装并从源代码构建 Plasma Mobile，以便我可以在触摸屏设备上本地测试一些补丁。这台机器只有两个核心（超线程），因此构建需要相当长的时间，特别是如果您构建 Qt 和完全正常运行的 Plasma 系统所需的所有 80 多个软件包。icecream 是功能强大且使用起来非常灵活的工具之一。 Icecream（或“icecc”）允许您将构建分发到多台机器上，它基本上将编译作业连同所需的一切一起发送到本地网络上的其他机器，这意味着您可以并行构建。 
 
-Icecream 有一个很棒的可视化工具，称为 icecream-monitor，您可以在构建运行时盯着它（以防您身边没有人可以进行剑斗）。在屏幕截图中，您可以看到 manta，这台性能不足的笔记本电脑通过网络执行 32 个并行作业构建。 miro 是我的重型工作站，有 8 个核心和 128GB 的​​ RAM，它理所当然地承担了大部分分配的工作，frame 是我的 (Framework) 笔记本电脑，它也相当强大，也可以做一些事情，但负担不会像我地下室办公室里的那个构建怪物那么重。Icecream 可以在大多数让你在本地运行编译器的环境中使用。不同的发行版没有问题！只需要匹配的 CPU 架构。Icecream 通过提供自己的 g++ 和 gcc 二进制文件来完成其工作，这些二进制文件将透明地将构建作业中继到您的本地计算机或通过网络。因此，您基本上只需安装它，调整 PATH 变量以确保 icecc 的 g++ 在系统编译器之前找到，然后开始构建。您想要加入的其他机器只需运行 icecc-scheduler，它们将自动被发现为您的网络上的构建从属。如果您想进一步加快构建速度，它也可以与 ccache 一起使用。
+Icecream 有一个很棒的可视化工具，称为 icecream-monitor，您可以在构建运行时盯着它（以防您身边没有人可以进行剑斗）。在屏幕截图中，您可以看到 manta，这台性能不足的笔记本电脑通过网络执行 32 个并行作业构建。 miro 是我的重型工作站，有 8 个核心和 128GB 的​​ RAM，它理所当然地承担了大部分分配的工作，frame 是我的 (Framework) 笔记本电脑，它也相当强大，也可以做一些事情，但负担不会像我地下室办公室里的那个构建怪物那么重。Icecream 可以在大多数让你在本地运行编译器的环境中使用。不同的发行版没有问题！只需要匹配的 CPU 架构。Icecream 通过提供自己的 g++ 和 gcc 二进制文件来完成其工作，这些二进制文件将透明地将构建作业中继到本地计算机或通过网络。因此，您基本上只需安装它，调整 PATH 变量以确保在系统编译器之前找到 icecc 的 g++，然后开始构建。您想要加入的其他机器只需运行 icecc-scheduler，它们将自动被发现为您的网络上的构建从属。如果您想进一步加快构建速度，它也可以与 ccache 一起使用。
 请注意，您只想在受信任的环境中执行此操作，我们正在未经授权的情况下在网络上发送可执行文件！]]></description>
       <guid>https://vizZzion.org/blog/2024/12/icecream/?utm_source=atom_feed</guid>
       <pubDate>Thu, 05 Dec 2024 21:28:46 GMT</pubDate>
