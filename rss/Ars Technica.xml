@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 10 Dec 2024 20:18:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 21:15:26 GMT</lastBuildDate>
+    <item>
+      <title>人工智能公司在旧金山张贴广告牌，称“停止雇佣人类”</title>
+      <link>https://arstechnica.com/information-technology/2024/12/ai-company-trolls-san-francisco-with-billboards-saying-stop-hiring-humans/</link>
+      <description><![CDATA[公司宣称其“人工智能员工”从不抱怨工作与生活的平衡。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/ai-company-trolls-san-francisco-with-billboards-saying-stop-hiring-humans/</guid>
+      <pubDate>Tue, 10 Dec 2024 20:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>批评人士称，美光 60 亿美元的 CHIPS 融资应该附加更多条件</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/microns-6b-chips-funding-should-have-more-strings-attached-critics-say/</link>
+      <description><![CDATA[美光科技的纽约晶圆厂是唯一一个接受全面环境审查的 CHIPS 项目。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/microns-6b-chips-funding-should-have-more-strings-attached-critics-say/</guid>
+      <pubDate>Tue, 10 Dec 2024 19:54:39 GMT</pubDate>
+    </item>
     <item>
       <title>位置数据公司帮助警方查明嫌疑人何时就诊</title>
       <link>https://arstechnica.com/tech-policy/2024/12/location-data-firm-helps-police-find-out-when-suspects-visited-their-doctor/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>AMD 的可信执行环境因新的 BadRAM 攻击而彻底崩溃</title>
       <link>https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/</link>
-      <description><![CDATA[即使服务器受到威胁，攻击也能绕过 AMD 的安全保护措施。]]></description>
+      <description><![CDATA[即使服务器受到威胁，攻击也能绕过 AMD 的保护措施以确保安全。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/new-badram-attack-neuters-security-assurances-in-amd-epyc-processors/</guid>
       <pubDate>Tue, 10 Dec 2024 17:08:09 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[了解情况的严重性：驾驶 Lucid 的全新 SUV。]]></description>
       <guid>https://arstechnica.com/features/2024/12/the-2025-lucid-gravity-impresses-us-with-slick-handling-magic-ride/</guid>
       <pubDate>Tue, 10 Dec 2024 14:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>诉讼称聊天机器人怂恿青少年自残并建议谋杀父母</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/chatbots-urged-teen-to-self-harm-suggested-murdering-parents-lawsuit-says/</link>
-      <description><![CDATA[家长起诉要求Character.AI删除其基于儿童数据训练的模型。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/chatbots-urged-teen-to-self-harm-suggested-murdering-parents-lawsuit-says/</guid>
-      <pubDate>Tue, 10 Dec 2024 13:44:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>iPhone 配件让我在旅行时可以抛弃笔记本电脑</title>
-      <link>https://arstechnica.com/gadgets/2024/12/best-iphone-travel-accessories/</link>
-      <description><![CDATA[从我最小的计算机获取桌面体验。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/best-iphone-travel-accessories/</guid>
-      <pubDate>Tue, 10 Dec 2024 12:00:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
