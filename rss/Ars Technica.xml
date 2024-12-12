@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 12 Dec 2024 19:36:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 22:15:40 GMT</lastBuildDate>
+    <item>
+      <title>Character.AI 在机器人涉嫌导致青少年自杀和自残后加强青少年安全</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/character-ai-steps-up-teen-safety-after-bots-allegedly-caused-suicide-self-harm/</link>
+      <description><![CDATA[Character.AI 针对青少年的新模型并不能解决所有家长的担忧。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/character-ai-steps-up-teen-safety-after-bots-allegedly-caused-suicide-self-harm/</guid>
+      <pubDate>Thu, 12 Dec 2024 21:15:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 插件关键漏洞遭积极利用，威胁数千用户</title>
+      <link>https://arstechnica.com/security/2024/12/thousands-of-sites-remain-unpatched-against-actively-exploited-wordpress-plugin-bug/</link>
+      <description><![CDATA[严重程度等级为 9.8（满分 10）的漏洞仍然存在于 8,000 多个站点上。]]></description>
+      <guid>https://arstechnica.com/security/2024/12/thousands-of-sites-remain-unpatched-against-actively-exploited-wordpress-plugin-bug/</guid>
+      <pubDate>Thu, 12 Dec 2024 21:00:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告：AT&T、Verizon 未通知大多数中国通话记录被盗受害者</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/report-att-verizon-arent-notifying-most-victims-of-chinese-call-records-hack/</link>
+      <description><![CDATA[据报道，电信公司并未告知用户中国黑客窃取的通话元数据。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/report-att-verizon-arent-notifying-most-victims-of-chinese-call-records-hack/</guid>
+      <pubDate>Thu, 12 Dec 2024 20:50:50 GMT</pubDate>
+    </item>
     <item>
       <title>利用薄而柔韧的热电薄膜发电</title>
       <link>https://arstechnica.com/science/2024/12/thermoelectric-material-gets-flexible-efficient/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[意大利科学家设计了一个神经网络来分析手持式拉曼光谱设备的光谱数据。]]></description>
       <guid>https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/</guid>
       <pubDate>Thu, 12 Dec 2024 16:59:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>减肥药也可以治疗成瘾、阿尔茨海默氏症和心脏病</title>
-      <link>https://arstechnica.com/health/2024/12/weight-loss-drugs-may-also-treat-addiction-alzheimers-and-heart-disease/</link>
-      <description><![CDATA[制药公司已经开始利用其其它健康益处获利。]]></description>
-      <guid>https://arstechnica.com/health/2024/12/weight-loss-drugs-may-also-treat-addiction-alzheimers-and-heart-disease/</guid>
-      <pubDate>Thu, 12 Dec 2024 16:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube TV 在否认“错误”报道后再次提高价格</title>
-      <link>https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/</link>
-      <description><![CDATA[每月 83 美元的价格与 Hulu TV Live 价格一致，且与传统有线电视的价格差距不大。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/youtube-tv-raisies-prices-10-per-month-in-2025-citing-content-costs-quality/</guid>
-      <pubDate>Thu, 12 Dec 2024 16:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>白俄罗斯宣称拥有自己的 Starlink 技术，这有点奇怪</title>
-      <link>https://arstechnica.com/space/2024/12/belarus-claims-to-have-developed-a-starlink-analog-for-its-troops/</link>
-      <description><![CDATA[妈妈，我们可以安装星链吗？ 妈妈：我们家有星链。]]></description>
-      <guid>https://arstechnica.com/space/2024/12/belarus-claims-to-have-developed-a-starlink-analog-for-its-troops/</guid>
-      <pubDate>Thu, 12 Dec 2024 15:51:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
