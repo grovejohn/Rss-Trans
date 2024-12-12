@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 11 Dec 2024 13:26:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 10:44:20 GMT</lastBuildDate>
+    <item>
+      <title>哪里 ⚙️ 齿轮 24.12</title>
+      <link>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kaidan 0.10.0：太多了，无法概括！</title>
       <link>https://kaidan.im/2024/12/09/kaidan-0.10.0/?utm_source=atom_feed</link>
@@ -109,13 +116,6 @@ Icecream 有一个很棒的可视化工具，称为 icecream-monitor，您可以
       <description><![CDATA[]]></description>
       <guid>https://blog.broulik.de/2024/12/hardware-shenanigans/?utm_source=atom_feed</guid>
       <pubDate>Thu, 05 Dec 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KStars v3.7.4 发布</title>
-      <link>http://knro.blogspot.com/2024/12/kstars-v374-is-released.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>http://knro.blogspot.com/2024/12/kstars-v374-is-released.html?utm_source=atom_feed</guid>
-      <pubDate>Thu, 05 Dec 2024 06:04:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
