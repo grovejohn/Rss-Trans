@@ -4,7 +4,42 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Thu, 12 Dec 2024 15:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 16:20:52 GMT</lastBuildDate>
+    <item>
+      <title>6DOF 检查案例</title>
+      <link>https://www.nasa.gov/centers-and-facilities/nesc/6dof-check-cases/</link>
+      <description><![CDATA[本文摘自 2024 年技术更新。2015 年，NESC 发布了针对明确指定的刚体六自由度 (6DOF) 航空/航天器模型的基准地球检查案例，以促进跨多个机构工具和设施的一致和准确的飞行模拟。最近，NESC 扩大了这项工作，增加了基于月球的检查案例，以支持新的月球探索计划。这 […]]]></description>
+      <guid>https://www.nasa.gov/centers-and-facilities/nesc/6dof-check-cases/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:59:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过液氢储罐的扩散限制吹扫来节约氦气</title>
+      <link>https://www.nasa.gov/general/helium-conservation-by-diffusion-limited-purging-of-liquid-hydrogen-tanks/</link>
+      <description><![CDATA[本文来自 2024 年技术更新。NASA 工程与安全中心 (NESC) 开发了一种分析模型，可以预测在液氢 (LH2) 罐活塞吹扫过程中两种气体之间的扩散。该模型有助于解释最近肯尼迪航天中心 (KSC) 吹扫中出现的氦气大幅节省现象，表明不希望的湍流混合 […]]]></description>
+      <guid>https://www.nasa.gov/general/helium-conservation-by-diffusion-limited-purging-of-liquid-hydrogen-tanks/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>在载人运载火箭中使用自主飞行终止软件的注意事项</title>
+      <link>https://www.nasa.gov/general/considerations-for-using-autonomous-flight-termination-softwarein-crewed-launch-vehicles/</link>
+      <description><![CDATA[本文摘自 2024 年技术更新 自主飞行终止系统 (AFTS) 正逐步应用于运载火箭，以取代在发生异常时终止飞行或摧毁运载火箭所需的地面人员和基础设施。这种自动化系统使用机载实时数据和编码逻辑来确定是否应自行终止飞行。[…]]]></description>
+      <guid>https://www.nasa.gov/general/considerations-for-using-autonomous-flight-termination-softwarein-crewed-launch-vehicles/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:51:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>MMH/MON-3 中常见航空航天金属的材料兼容性</title>
+      <link>https://www.nasa.gov/centers-and-facilities/nesc/material-compatibility-of-common-aerospace-metals-in-mmh-mon-3/</link>
+      <description><![CDATA[本文摘自 2024 年技术更新。NESC 评估了一些常见航空航天金属在甲基肼 (MMH) 和四氧化二氮 (MON-3) 中的材料兼容性。之前的研究发现，MMH 和 MON-3 中缺乏镍合金 718、300 系列不锈钢和钛 Ti-6Al-4V 的定量兼容性数据，无法支持使用 […]]]></description>
+      <guid>https://www.nasa.gov/centers-and-facilities/nesc/material-compatibility-of-common-aerospace-metals-in-mmh-mon-3/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:49:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局的朱诺号任务揭示了木星卫星火山喷发的心脏</title>
+      <link>https://www.nasa.gov/missions/juno/nasas-juno-mission-uncovers-heart-of-jovian-moons-volcanic-rage/</link>
+      <description><![CDATA[一项新研究指出了木卫一为何以及如何成为太阳系中火山活动最多的天体。NASA 朱诺号木星探测任务的科学家发现，木星卫星木卫一上的火山很可能由它们自己的滚烫岩浆室而不是岩浆海洋提供动力。这一发现解决了[…]]]></description>
+      <guid>https://www.nasa.gov/missions/juno/nasas-juno-mission-uncovers-heart-of-jovian-moons-volcanic-rage/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:47:04 GMT</pubDate>
+    </item>
     <item>
       <title>美国宇航局成功整合罗马任务的望远镜和仪器</title>
       <link>https://www.nasa.gov/missions/roman-space-telescope/nasa-successfully-integrates-roman-missions-telescope-instruments/</link>
@@ -39,41 +74,6 @@
       <description><![CDATA[通过 Artemis in Motion 会议，NASA 寻求月球讲故事的创意 随着 NASA 为人类利益开创太空讲故事的新技术和方法，该机构将于 1 月 23 日星期四和 1 月 24 日星期五在洛杉矶与业界举办 Artemis in Motion 聆听会。从人类的直播电视图像 […]]]></description>
       <guid>https://www.nasa.gov/organizations/otps/artemis-in-motion-listening-sessions/</guid>
       <pubDate>Wed, 11 Dec 2024 21:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>《阿尔忒弥斯协定》签署国已达 50 个，NASA 欢迎巴拿马和奥地利加入</title>
-      <link>https://www.nasa.gov/news-release/artemis-accords-reach-50-signatories-as-nasa-welcomes-panama-austria/</link>
-      <description><![CDATA[阅读此西班牙语新闻稿。巴拿马和奥地利周三在华盛顿 NASA 总部分别举行的签字仪式上签署了《阿尔忒弥斯协定》，成为第 49 和第 50 个致力于为全人类负责任地探索太空的国家。“NASA 欢迎巴拿马和奥地利加入《阿尔忒弥斯协定》社区，并庆祝 50 个国家 […]]]></description>
-      <guid>https://www.nasa.gov/news-release/artemis-accords-reach-50-signatories-as-nasa-welcomes-panama-austria/</guid>
-      <pubDate>Wed, 11 Dec 2024 21:36:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Artemis II 核心级垂直升空</title>
-      <link>https://www.nasa.gov/image-article/artemis-ii-core-stage-goes-vertical/</link>
-      <description><![CDATA[2024 年 12 月 10 日星期二，NASA 的 SLS（太空发射系统）月球火箭核心级在位于佛罗里达州的 NASA 肯尼迪航天中心的航天器装配大楼内的 High Bay 2 中处于垂直状态。核心级于 7 月 23 日抵达 NASA 肯尼迪航天中心，在该设施的转运通道内保持水平。随着向 […] 的移动]]></description>
-      <guid>https://www.nasa.gov/image-article/artemis-ii-core-stage-goes-vertical/</guid>
-      <pubDate>Wed, 11 Dec 2024 19:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>大气探测器试飞展现希望</title>
-      <link>https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/</link>
-      <description><![CDATA[验证新想法的最有效方法是从小处着手，测试、学习、再测试。美国宇航局位于加利福尼亚州爱德华兹的阿姆斯特朗飞行研究中心的一组研究人员正在开发大气探测器，他们就采用了这种方法。这一概念可能为未来的科学家提供一种更好、更经济的数据收集方式。]]></description>
-      <guid>https://www.nasa.gov/centers-and-facilities/armstrong/atmospheric-probe-shows-promise-in-test-flight/</guid>
-      <pubDate>Wed, 11 Dec 2024 19:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA-DOD 研究：到 2100 年，盐水将广泛污染沿海地下水</title>
-      <link>https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/</link>
-      <description><![CDATA[海水入侵沿海地下水会导致当地水资源无法使用、破坏生态系统并腐蚀基础设施。根据美国宇航局南加州喷气推进实验室研究人员最近领导的一项研究，到 2100 年，全球大约四分之三的沿海地区将有海水渗入地下淡水供应。此外 […]]]></description>
-      <guid>https://www.nasa.gov/missions/space-shuttle/srtm/nasa-dod-study-saltwater-to-widely-taint-coastal-groundwater-by-2100/</guid>
-      <pubDate>Wed, 11 Dec 2024 17:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局研究：农作物、森林对降雨模式变化作出反应</title>
-      <link>https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/</link>
-      <description><![CDATA[地球上的雨天正在发生变化：雨天越来越少，但雨量却越来越大。植被正在做出反应。]]></description>
-      <guid>https://science.nasa.gov/earth/water-on-earth/nasa-study-crops-forests-responding-to-changing-rainfall-patterns/</guid>
-      <pubDate>Wed, 11 Dec 2024 17:43:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
