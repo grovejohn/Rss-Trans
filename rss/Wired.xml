@@ -4,7 +4,21 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 12 Dec 2024 11:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 12:34:01 GMT</lastBuildDate>
+    <item>
+      <title>Bot fwd2cal 会自动将事件添加到您的日历中。只需转发一封电子邮件即可</title>
+      <link>https://www.wired.com/story/this-bot-adds-events-to-your-calendar-automatically-just-forward-it-an-email/</link>
+      <description><![CDATA[当您收到一封建议您与某人见面的电子邮件时，请让这个免费机器人发挥作用。Fwd2cal 使用 ChatGPT 解析电子邮件中的信息并将事件添加到您的日历中。]]></description>
+      <guid>https://www.wired.com/story/this-bot-adds-events-to-your-calendar-automatically-just-forward-it-an-email/</guid>
+      <pubDate>Thu, 12 Dec 2024 12:30:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 在美国的未来尚不明朗。我们再次采访了想要拯救它的亿万富翁</title>
+      <link>https://www.wired.com/story/tiktok-future-ban-billionaire-mccourt-sale/</link>
+      <description><![CDATA[前洛杉矶道奇队老板弗兰克·麦考特自今年初以来一直在谈论收购 TikTok。希望越来越渺茫。]]></description>
+      <guid>https://www.wired.com/story/tiktok-future-ban-billionaire-mccourt-sale/</guid>
+      <pubDate>Thu, 12 Dec 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>奥迪在中国的品牌重塑预示着汽车行业将发生更大变化</title>
       <link>https://www.wired.com/story/audi-china-rebrand-four-rings-logo/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[该项目负责人表示，允许每个人访问公共领域书籍集合将有助于人工智能行业“公平竞争”。]]></description>
       <guid>https://www.wired.com/story/harvard-ai-training-dataset-openai-microsoft/</guid>
       <pubDate>Wed, 11 Dec 2024 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 Wayfair 上尝试了最便宜的桑拿</title>
-      <link>https://www.wired.com/story/wayfair-sauna-rave/</link>
-      <description><![CDATA[如果您一直在寻找一种简单的取暖方式，那么这种可组合的红外线桑拿房很容易安装，而且效果很好。]]></description>
-      <guid>https://www.wired.com/story/wayfair-sauna-rave/</guid>
-      <pubDate>Wed, 11 Dec 2024 14:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费应用程序 Duplicati 可以将您的计算机备份到任何云服务</title>
-      <link>https://www.wired.com/story/duplicati-free-app-back-up-your-computer-to-any-cloud-service/</link>
-      <description><![CDATA[Duplicati 可在 macOS 和 Windows 上免费下载，它会将所有重要文件的加密备份放入您选择的云服务中。以下是它的使用方法。]]></description>
-      <guid>https://www.wired.com/story/duplicati-free-app-back-up-your-computer-to-any-cloud-service/</guid>
-      <pubDate>Wed, 11 Dec 2024 13:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
