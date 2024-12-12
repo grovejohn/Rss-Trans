@@ -4,11 +4,25 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 12 Dec 2024 17:14:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 18:23:01 GMT</lastBuildDate>
+    <item>
+      <title>英特尔 Arc B580 评测：一年半后，售价 249 美元的 RTX 4060 杀手</title>
+      <link>https://arstechnica.com/gadgets/2024/12/review-intel-arc-b580-is-a-compelling-if-incredibly-tardy-250-midrange-gpu/</link>
+      <description><![CDATA[英特尔已经解决了 Arc GPU 的最大问题，但时机尚未确定。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/12/review-intel-arc-b580-is-a-compelling-if-incredibly-tardy-250-midrange-gpu/</guid>
+      <pubDate>Thu, 12 Dec 2024 17:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能帮助 ID 绘制柏林墙壁画的化学成分</title>
+      <link>https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/</link>
+      <description><![CDATA[意大利科学家设计了一个神经网络来分析手持式拉曼光谱设备的光谱数据。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/ai-helps-id-paint-chemistry-of-berlin-wall-murals/</guid>
+      <pubDate>Thu, 12 Dec 2024 16:59:25 GMT</pubDate>
+    </item>
     <item>
       <title>减肥药也可以治疗成瘾、阿尔茨海默氏症和心脏病</title>
       <link>https://arstechnica.com/health/2024/12/weight-loss-drugs-may-also-treat-addiction-alzheimers-and-heart-disease/</link>
-      <description><![CDATA[制药公司已经开始利用其其它健康益处获利。]]></description>
+      <description><![CDATA[制药公司已经开始从其他健康益处中获利。]]></description>
       <guid>https://arstechnica.com/health/2024/12/weight-loss-drugs-may-also-treat-addiction-alzheimers-and-heart-disease/</guid>
       <pubDate>Thu, 12 Dec 2024 16:20:57 GMT</pubDate>
     </item>
@@ -36,7 +50,7 @@
     <item>
       <title>回到起点：Firefox 13 年后取消“禁止跟踪”功能</title>
       <link>https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/</link>
-      <description><![CDATA[您从未真正获得过的隐私的简要历史。]]></description>
+      <description><![CDATA[您从未真正获得过的隐私简史。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/firefox-one-of-the-first-do-not-track-supporters-no-longer-offers-it/</guid>
       <pubDate>Thu, 12 Dec 2024 12:00:32 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>俄罗斯采取不寻常方式入侵乌克兰 Starlink 连接设备</title>
       <link>https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/</link>
-      <description><![CDATA[Secret Blizzard 在过去 7 年中利用了至少 6 个其他团体的资源。]]></description>
+      <description><![CDATA[Secret Blizzard 在过去 7 年中利用了至少 6 个其他组织的资源。]]></description>
       <guid>https://arstechnica.com/security/2024/12/russia-takes-unusual-route-to-hack-starlink-connected-devices-in-ukraine/</guid>
       <pubDate>Wed, 11 Dec 2024 23:18:42 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[软件参考可能会指向一个即将发布的版本。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/errant-reference-in-macos-15-2-seems-to-confirm-m4-macbook-airs-for-2025/</guid>
       <pubDate>Wed, 11 Dec 2024 22:27:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>诉讼称 Photobucket 选择不活跃用户陷入隐私噩梦</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/photobucket-sold-users-biometric-data-without-consent-lawsuit-says/</link>
-      <description><![CDATA[集体诉讼可能会挫败 Photobucket 将旧照片转化为 AI 金矿的计划。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/photobucket-sold-users-biometric-data-without-consent-lawsuit-says/</guid>
-      <pubDate>Wed, 11 Dec 2024 21:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>TCL 电视将使用生成式人工智能制作的影片来推送定向广告</title>
-      <link>https://arstechnica.com/gadgets/2024/12/tcl-tvs-will-use-films-made-with-generative-ai-to-push-targeted-ads/</link>
-      <description><![CDATA[TCL 将“大力推广”带有人工智能动画和角色的原创短片。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/tcl-tvs-will-use-films-made-with-generative-ai-to-push-targeted-ads/</guid>
-      <pubDate>Wed, 11 Dec 2024 21:04:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
