@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 13 Dec 2024 13:43:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 14:41:47 GMT</lastBuildDate>
     <item>
-      <title>美国人的寿命越来越长——但大部分额外的时间都花在生病上</title>
+      <title>体操视频中恐怖的旋转身体暴露了人工智能的缺陷</title>
+      <link>https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/</link>
+      <description><![CDATA[OpenAI 的 Sora 所创造的无意义的动作是当前 AI 生成的视频的典型特征，原因如下。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/</guid>
+      <pubDate>Fri, 13 Dec 2024 14:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国人不健康的年限比其他任何国家的人都要长</title>
       <link>https://arstechnica.com/science/2024/12/americans-are-living-longer-but-most-of-the-extra-time-is-spent-being-sick/</link>
       <description><![CDATA[美国人的寿命与健康寿命之间的差距为12.4年，是世界上最大的。]]></description>
       <guid>https://arstechnica.com/science/2024/12/americans-are-living-longer-but-most-of-the-extra-time-is-spent-being-sick/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[圣诞老人的人工智能版本作为季节性角色出现在流行的聊天机器人应用程序中。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/openai-introduces-santa-mode-to-chatgpt-for-ho-ho-ho-voice-chats/</guid>
       <pubDate>Thu, 12 Dec 2024 18:50:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>光盘大举进攻，LG 退出蓝光播放器市场</title>
-      <link>https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/</link>
-      <description><![CDATA[流媒体的不确定性使得一些人坚持使用光盘。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/the-optical-disc-onslaught-continues-with-lg-quitting-blu-ray-players/</guid>
-      <pubDate>Thu, 12 Dec 2024 18:38:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
