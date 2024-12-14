@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Dec 2024 04:42:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 06:44:34 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma 动态：更好的分数缩放</title>
+      <link>https://blogs.kde.org/2024/12/14/this-week-in-plasma-better-fractional-scaling/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/12/14/this-week-in-plasma-better-fractional-scaling/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 14 Dec 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2024-50 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/12/13/web-review-week-2024-50/?utm_source=atom_feed</link>
@@ -20,7 +27,7 @@
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>哪里 ⚙️ 齿轮 24.12</title>
+      <title>地点⚙️Gear 24.12</title>
       <link>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</guid>
@@ -106,13 +113,6 @@ gitignore：使用与 KWin 相同的方式
 ]]></description>
       <guid>https://blogs.kde.org/2024/12/07/plasma-wayland-protocols-1.15.0/?utm_source=atom_feed</guid>
       <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-49 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/12/06/web-review-week-2024-49/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/12/06/web-review-week-2024-49/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 06 Dec 2024 14:02:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
