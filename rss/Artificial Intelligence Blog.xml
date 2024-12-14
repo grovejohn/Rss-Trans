@@ -4,7 +4,17 @@
     <title>人工智能博客和新闻 • 人工智能新闻 • 人工智能博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Fri, 13 Dec 2024 23:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:14:41 GMT</lastBuildDate>
+    <item>
+      <title>o1 对 LNM 和 LMM 的看法</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/o1s-thoughts-on-lnms-and-lmms</link>
+      <description><![CDATA[使用 3D 神经网络、
+神经形态硬件、事件驱动计算和本地化记忆来构建更像人脑的人工智能系统，可以
+实现节能、类似大脑的适应性和精确度，
+这尤其有利于复杂的数学和数字任务。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/o1s-thoughts-on-lnms-and-lmms</guid>
+      <pubDate>Fri, 13 Dec 2024 23:48:25 GMT</pubDate>
+    </item>
     <item>
       <title>为什么人工智能需要大型数值模型 (LNM) 来掌握数学</title>
       <link>https://www.artificial-intelligence.blog/ai-news/why-ai-needs-large-numerical-models-lnms-for-mathematical-mastery</link>
@@ -69,13 +79,6 @@
       <description><![CDATA[文章对比了 GPT-3.5 和 GPT-4o 对如何制作“金钱爆破器”这个问题的回答，强调了 GPT-4o 在提供详细且安全的 DIY 说明方面的改进。]]></description>
       <guid>https://www.artificial-intelligence.blog/ai-news/gpt-35-vs-gpt-4o-building-a-money-blaster</guid>
       <pubDate>Sun, 26 May 2024 05:43:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-4o 讲了关于人工智能的笑话</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/gpt-4o-tells-jokes-about-ai</link>
-      <description><![CDATA[我们批评 GPT-4o 模型在生成与 AI 相关的笑话时缺乏创造力和重复性，并指出虽然这些笑话是安全且语法正确的，但它们缺乏以前模型中的幽默和原创性。]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/gpt-4o-tells-jokes-about-ai</guid>
-      <pubDate>Sun, 26 May 2024 03:05:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

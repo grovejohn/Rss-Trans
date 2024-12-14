@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 13 Dec 2024 20:18:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 01:14:44 GMT</lastBuildDate>
+    <item>
+      <title>路易斯安那州禽流感从鸟类传染给人类；患者住院</title>
+      <link>https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/</link>
+      <description><![CDATA[这是路易斯安那州第一例人类感染禽流感病例。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/person-hospitalized-in-louisiana-with-bird-flu-health-officials-report/</guid>
+      <pubDate>Fri, 13 Dec 2024 22:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对安全专业人员的长达一年的供应链攻击窃取了 39 万个凭证</title>
+      <link>https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/</link>
+      <description><![CDATA[这项多层面、高精度的行动针对的是恶意和善意的黑客。]]></description>
+      <guid>https://arstechnica.com/security/2024/12/yearlong-supply-chain-attack-targeting-security-pros-steals-390k-credentials/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:46:18 GMT</pubDate>
+    </item>
     <item>
       <title>沃纳·赫尔佐格在思想剧场中思考大脑的奥秘</title>
       <link>https://arstechnica.com/culture/2024/12/werner-herzog-muses-on-mysteries-of-the-brain-in-theater-of-thought/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>体操视频中恐怖的旋转身体暴露了人工智能的缺陷</title>
       <link>https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/</link>
-      <description><![CDATA[OpenAI 的 Sora 所创造的无意义的动作是当前 AI 生成的视频的典型特征，原因如下。]]></description>
+      <description><![CDATA[OpenAI 的 Sora 所创造的无意义的胡言乱语动作是当前 AI 生成的视频的典型特征，原因如下。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/twirling-body-horror-in-gymnastics-video-exposes-ais-flaws/</guid>
       <pubDate>Fri, 13 Dec 2024 14:12:48 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[“我相信 Avio 和 MaiaSpace 之间能够建立合作关系。”]]></description>
       <guid>https://arstechnica.com/space/2024/12/rocket-report-ukrainian-launch-firm-finds-maine-home-long-march-8a-debut-near/</guid>
       <pubDate>Fri, 13 Dec 2024 11:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM 是否具有非语言推理能力？</title>
-      <link>https://arstechnica.com/ai/2024/12/are-llms-capable-of-non-verbal-reasoning/</link>
-      <description><![CDATA[“潜在空间”中的处理可以帮助人工智能解决棘手的逻辑问题。]]></description>
-      <guid>https://arstechnica.com/ai/2024/12/are-llms-capable-of-non-verbal-reasoning/</guid>
-      <pubDate>Thu, 12 Dec 2024 21:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Character.AI 在机器人涉嫌导致青少年自杀和自残后加强青少年安全</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/character-ai-steps-up-teen-safety-after-bots-allegedly-caused-suicide-self-harm/</link>
-      <description><![CDATA[Character.AI 针对青少年的新模型并不能解决所有家长的担忧。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/character-ai-steps-up-teen-safety-after-bots-allegedly-caused-suicide-self-harm/</guid>
-      <pubDate>Thu, 12 Dec 2024 21:15:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
