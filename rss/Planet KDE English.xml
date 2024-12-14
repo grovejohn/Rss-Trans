@@ -4,13 +4,39 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Dec 2024 06:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 22:39:43 GMT</lastBuildDate>
     <item>
       <title>本周 Plasma 动态：更好的分数缩放</title>
       <link>https://blogs.kde.org/2024/12/14/this-week-in-plasma-better-fractional-scaling/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/12/14/this-week-in-plasma-better-fractional-scaling/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Dec 2024 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kaidan 0.10.1：媒体共享和新消息标记修复</title>
+      <link>https://kaidan.im/2024/12/14/kaidan-0.10.1/?utm_source=atom_feed</link>
+      <description><![CDATA[此版本修复了一些错误。
+有关更多详细信息，请查看更改日志。
+更改日志
+错误修复：
+
+修复在适当的消息气泡中显示每条消息的文件（melvo）
+修复为不支持 XEP-0447：无状态文件共享的客户端发送后备消息（melvo）
+修复消息气泡内的边距（melvo）
+修复隐藏隐藏消息部分（melvo）
+修复显示新消息标记（melvo）
+
+下载
+
+源代码 (.tar.xz) (sig使用 04EFAD0F7A4D9724 签名
+Linux（Flathub 上的 Flatpak）
+
+或者为您的发行版安装 Kaidan：
+
+
+]]></description>
+      <guid>https://kaidan.im/2024/12/14/kaidan-0.10.1/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 13 Dec 2024 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>网络评论，第 2024-50 周</title>
@@ -27,7 +53,7 @@
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>地点⚙️Gear 24.12</title>
+      <title>哪里 ⚙️ 齿轮 24.12</title>
       <link>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</guid>
@@ -79,7 +105,7 @@
 这次，我们简短地介绍一下：我们将 KPhotoAlbum 移植到了 Qt6/KF6。就是这样 ;-)
 
 
-移植本身由 Johannes 和我完成，Randall Rude 和 Fabian Würfl 也做出了额外的贡献。感谢您与我们一起致力于 KPA！
+移植工作本身由 Johannes 和我完成，Randall Rude 和 Fabian Würfl 也做出了额外的贡献。感谢您与我们一起致力于 KPA！
 
 
 值得一提的是：对于地图/地理数据功能，我们需要 Marble。Qt5/KF5 版本的 Marble 不能与 Qt6/KF6 版本同时安装，而且这个版本尚未发布。但 Marble 24.12.0（这将是第一个官方 Qt6/KF6 版本）将在几天后发布。因此，请等到它发布后再升级到 KPA 6，以免丢失地图部分。
@@ -92,26 +118,6 @@
 
 — Tobias]]></description>
       <guid>https://www.kphotoalbum.org//2024/12/07/kphotoalbum-6.0.0-released/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma Wayland 协议 1.15.0</title>
-      <link>https://blogs.kde.org/2024/12/07/plasma-wayland-protocols-1.15.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Plasma Wayland Protocols 1.15.0 现已可供打包。它是即将推出的 KDE 框架所需要的。
-URL： https://download.kde.org/stable/plasma-wayland-protocols/ 
-SHA256： e5aedfe7c0b2443aa67882b4792d08814570e00dd82f719a35c922a0993f621e
-签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
-完整更新日志：
-
-添加创建虚拟输出流的请求，并附上说明
-添加 alpine CI
-向 keystate 添加修饰符信息
-gitignore：使用与 KWin 相同的方式
-向 appmenu 管理器添加析构函数
-添加协议测试
-为 Linux 上的静态构建添加 CI
-]]></description>
-      <guid>https://blogs.kde.org/2024/12/07/plasma-wayland-protocols-1.15.0/?utm_source=atom_feed</guid>
       <pubDate>Sat, 07 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
