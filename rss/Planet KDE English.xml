@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 14 Dec 2024 22:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 01:21:59 GMT</lastBuildDate>
     <item>
       <title>本周 Plasma 动态：更好的分数缩放</title>
       <link>https://blogs.kde.org/2024/12/14/this-week-in-plasma-better-fractional-scaling/?utm_source=atom_feed</link>
@@ -105,7 +105,7 @@ Linux（Flathub 上的 Flatpak）
 这次，我们简短地介绍一下：我们将 KPhotoAlbum 移植到了 Qt6/KF6。就是这样 ;-)
 
 
-移植工作本身由 Johannes 和我完成，Randall Rude 和 Fabian Würfl 也做出了额外的贡献。感谢您与我们一起致力于 KPA！
+移植本身由 Johannes 和我完成，Randall Rude 和 Fabian Würfl 也做出了额外的贡献。感谢您与我们一起致力于 KPA！
 
 
 值得一提的是：对于地图/地理数据功能，我们需要 Marble。Qt5/KF5 版本的 Marble 不能与 Qt6/KF6 版本同时安装，而且这个版本尚未发布。但 Marble 24.12.0（这将是第一个官方 Qt6/KF6 版本）将在几天后发布。因此，请等到它发布后再升级到 KPA 6，以免丢失地图部分。
