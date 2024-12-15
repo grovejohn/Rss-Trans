@@ -4,7 +4,28 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 15 Dec 2024 18:43:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 20:38:05 GMT</lastBuildDate>
+    <item>
+      <title>20 多年的漏洞修复经验</title>
+      <link>https://cullmann.io/posts/over-20-years-of-bug-squashing/?utm_source=atom_feed</link>
+      <description><![CDATA[我参与时间最长的开源项目是 KDE 和更具体的 Kate。
+这意味着我查看用户错误报告已有 20 多年了。
+统计数据显示，自 2001 年左右以来，我们的团队发现了 9000 多个错误（仅针对 Kate，这还不包括我们维护的 KTextEditor 等库）。
+
+
+
+Kate Bug 统计
+
+
+这比二十多年来每天一个 bug 还要多。
+统计数据显示，特别是在过去几年中，我们能够将未解决的 bug 数量保持在较低水平，这意味着我们修复了很多 bug。
+考虑到我们是一支小团队，我认为这是一项了不起的成就。
+我们不仅存活了 20 多年，而且仍然生机勃勃，而不仅仅是一个仍在编译的僵尸项目。
+非常感谢所有为这一成功做出贡献的人！
+让我们在明年及之后的几年继续努力。]]></description>
+      <guid>https://cullmann.io/posts/over-20-years-of-bug-squashing/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 15 Dec 2024 18:23:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 KDE 应用：Gear 24.12.0 发布</title>
       <link>https://blogs.kde.org/2024/12/15/this-week-in-kde-apps-gear-24.12.0-is-out/?utm_source=atom_feed</link>
@@ -97,13 +118,6 @@ Linux（Flathub 上的 Flatpak）
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/12/08/this-week-in-kde-apps-gear-24.12.0-incoming/?utm_source=atom_feed</guid>
       <pubDate>Sun, 08 Dec 2024 12:50:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：众多功能！</title>
-      <link>https://blogs.kde.org/2024/12/07/this-week-in-plasma-oodles-of-features/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/12/07/this-week-in-plasma-oodles-of-features/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 07 Dec 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
