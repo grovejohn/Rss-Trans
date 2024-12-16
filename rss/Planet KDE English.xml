@@ -4,7 +4,15 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 16 Dec 2024 08:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 13:26:50 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 15 - CMake 更新</title>
+      <link>https://www.qt.io/blog/qt-creator-15-cmake-update?utm_source=atom_feed</link>
+      <description><![CDATA[以下是 Qt Creator 15 中的新 CMake 功能和修复：
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-15-cmake-update?utm_source=atom_feed</guid>
+      <pubDate>Mon, 16 Dec 2024 10:49:45 GMT</pubDate>
+    </item>
     <item>
       <title>处理 Qt Creator 14.0 和 15.0 中的 QML 代码编辑器中的错误警告和有限功能</title>
       <link>https://www.qt.io/blog/issues-with-qml-language-server-integration-in-qt-creator-14.0-and-15.0?utm_source=atom_feed</link>
@@ -104,24 +112,6 @@ Linux（Flathub 上的 Flatpak）
       <description><![CDATA[]]></description>
       <guid>https://kaidan.im/2024/12/09/kaidan-0.10.0/?utm_source=atom_feed</guid>
       <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计系统 12 月更新</title>
-      <link>https://anditosan.wordpress.com/2024/12/08/design-system-december-updates/?utm_source=atom_feed</link>
-      <description><![CDATA[大家好！
-我们回来继续介绍我们正在进行的 Plasma 设计系统工作的一系列更新。所有视频均包含英文字幕。
-请留下您的反馈或让我们知道您是否有任何问题。
-
-
-
-
-
-
-
-
-]]></description>
-      <guid>https://anditosan.wordpress.com/2024/12/08/design-system-december-updates/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 08 Dec 2024 17:58:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
