@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 16 Dec 2024 13:26:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 22:40:48 GMT</lastBuildDate>
     <item>
       <title>Qt Creator 15 - CMake 更新</title>
       <link>https://www.qt.io/blog/qt-creator-15-cmake-update?utm_source=atom_feed</link>
@@ -23,6 +23,13 @@
 ]]></description>
       <guid>https://www.qt.io/blog/issues-with-qml-language-server-integration-in-qt-creator-14.0-and-15.0?utm_source=atom_feed</guid>
       <pubDate>Mon, 16 Dec 2024 07:25:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krita 每月更新 - 第 21 版</title>
+      <link>https://krita.org/en/posts/2024/monthly-update-21/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2024/monthly-update-21/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>20 多年的漏洞修复经验</title>
@@ -105,13 +112,6 @@ Linux（Flathub 上的 Flatpak）
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</guid>
       <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kaidan 0.10.0：太多了，无法概括！</title>
-      <link>https://kaidan.im/2024/12/09/kaidan-0.10.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kaidan.im/2024/12/09/kaidan-0.10.0/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
