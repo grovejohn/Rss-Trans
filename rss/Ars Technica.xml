@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 17 Dec 2024 18:47:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 20:17:38 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 的 API 用户可以完全访问新的 o1 模型</title>
+      <link>https://arstechnica.com/ai/2024/12/openais-api-users-get-full-access-to-the-new-o1-model/</link>
+      <description><![CDATA[最新的API升级还包括微调和实时交互的改进。]]></description>
+      <guid>https://arstechnica.com/ai/2024/12/openais-api-users-get-full-access-to-the-new-o1-model/</guid>
+      <pubDate>Tue, 17 Dec 2024 19:23:31 GMT</pubDate>
+    </item>
     <item>
       <title>Nvidia 合作伙伴泄露下一代 RTX 50 系列 GPU，包括 32GB 5090</title>
       <link>https://arstechnica.com/gadgets/2024/12/nvidia-partners-leak-next-gen-rtx-50-series-gpus-including-a-32gb-5090/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[这个充满爱心的改装项目很快就销售一空，但还会生产更多。]]></description>
       <guid>https://arstechnica.com/gaming/2024/12/ps-placeable-the-adorable-mod-that-turns-a-playstation-portable-into-a-console/</guid>
       <pubDate>Mon, 16 Dec 2024 19:52:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑客从州政府门户网站获取 SSN 和银行信息后索要赎金</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/hackers-infiltrate-rhode-island-benefits-portal-forcing-state-to-shut-it-down/</link>
-      <description><![CDATA[罗德岛州称，德勤运营的福利系统遭到黑客攻击后，该州遭受了敲诈勒索。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/hackers-infiltrate-rhode-island-benefits-portal-forcing-state-to-shut-it-down/</guid>
-      <pubDate>Mon, 16 Dec 2024 18:48:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
