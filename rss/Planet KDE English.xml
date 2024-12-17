@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Dec 2024 06:47:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 08:46:13 GMT</lastBuildDate>
+    <item>
+      <title>Mozilla Searchfox 代码浏览器的改进</title>
+      <link>https://www.kdab.com/codebrowser-improvs/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/codebrowser-improvs/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 17 Dec 2024 08:00:53 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Creator 15 - CMake 更新</title>
       <link>https://www.qt.io/blog/qt-creator-15-cmake-update?utm_source=atom_feed</link>
@@ -105,13 +112,6 @@ Linux（Flathub 上的 Flatpak）
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.9.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 13 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里 ⚙️ 齿轮 24.12</title>
-      <link>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/gear/24.12.0/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 12 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
