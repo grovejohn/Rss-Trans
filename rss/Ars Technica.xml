@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 18 Dec 2024 16:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 17:15:22 GMT</lastBuildDate>
+    <item>
+      <title>通用汽车和 ChargePoint 将在 2025 年部署数百个“Omni Port”充电器</title>
+      <link>https://arstechnica.com/uncategorized/2024/12/gm-is-building-yet-more-ev-fast-chargers-this-time-with-chargepoint/</link>
+      <description><![CDATA[一些充电器能够为 NACS 和 CCS1 电动汽车提供服务，额定功率为 500 kW。]]></description>
+      <guid>https://arstechnica.com/uncategorized/2024/12/gm-is-building-yet-more-ev-fast-chargers-this-time-with-chargepoint/</guid>
+      <pubDate>Wed, 18 Dec 2024 15:56:42 GMT</pubDate>
+    </item>
     <item>
       <title>提醒：在我们的年度慈善活动抽奖活动中捐款即可赢取奖品</title>
       <link>https://arstechnica.com/gaming/2024/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-15/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[尽管存在风险，企业和特朗普仍渴望让人们重返办公室。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/companies-issuing-rto-mandates-lose-their-best-talent-study/</guid>
       <pubDate>Tue, 17 Dec 2024 20:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 API 用户可以完全访问新的 o1 模型</title>
-      <link>https://arstechnica.com/ai/2024/12/openais-api-users-get-full-access-to-the-new-o1-model/</link>
-      <description><![CDATA[最新的API升级还包括微调和实时交互的改进。]]></description>
-      <guid>https://arstechnica.com/ai/2024/12/openais-api-users-get-full-access-to-the-new-o1-model/</guid>
-      <pubDate>Tue, 17 Dec 2024 19:23:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
