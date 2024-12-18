@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 18 Dec 2024 18:45:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 20:18:07 GMT</lastBuildDate>
     <item>
-      <title>报道称：美国考虑禁止 TP-Link 路由器，原因是其存在安全漏洞和与中国的关系</title>
+      <title>Arm 和高通就骁龙 X Elite 芯片的未来展开对簿公堂</title>
+      <link>https://arstechnica.com/gadgets/2024/12/arm-and-qualcomm-fight-in-court-over-the-future-of-snapdragon-x-elite-chips/</link>
+      <description><![CDATA[问题在于：高通于 2021 年收购 Nuvia 时获得的 Arm SoC 设计。]]></description>
+      <guid>https://arstechnica.com/gadgets/2024/12/arm-and-qualcomm-fight-in-court-over-the-future-of-snapdragon-x-elite-chips/</guid>
+      <pubDate>Wed, 18 Dec 2024 19:40:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>最高法院将决定是否应禁止或出售 TikTok</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/supreme-court-to-decide-if-tiktok-should-be-banned-or-sold/</link>
+      <description><![CDATA[TikTok 不会获得禁令，但将在潜在禁令之前接受最高法院的审查。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/supreme-court-to-decide-if-tiktok-should-be-banned-or-sold/</guid>
+      <pubDate>Wed, 18 Dec 2024 18:59:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 OpenAI 的新 1-800 语音服务可以通过任何电话拨打 ChatGPT</title>
+      <link>https://arstechnica.com/information-technology/2024/12/openai-launches-free-phone-hotline-to-let-anyone-call-chatgpt/</link>
+      <description><![CDATA[1-800-CHATGPT 电话号码可让任何美国呼叫者与 OpenAI 的助手通话——无需智能手机。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/openai-launches-free-phone-hotline-to-let-anyone-call-chatgpt/</guid>
+      <pubDate>Wed, 18 Dec 2024 18:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>TP-Link 可能因被劫持的路由器助长中国攻击而面临美国禁令</title>
       <link>https://arstechnica.com/tech-policy/2024/12/report-us-considers-banning-tp-link-routers-over-security-flaws-ties-to-china/</link>
       <description><![CDATA[TP-Link 成立于中国，其生产的路由器在美国家庭和企业中广受欢迎。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/report-us-considers-banning-tp-link-routers-over-security-flaws-ties-to-china/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[暗网上的毒品销售呈下降趋势，而 Snapchat、Telegram 和其他应用的销量则有所上升。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/who-needs-the-dark-web-drug-sales-flourish-on-social-media/</guid>
       <pubDate>Wed, 18 Dec 2024 14:58:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>俄罗斯航天局局长称该国将在空间站飞行至 2030 年</title>
-      <link>https://arstechnica.com/space/2024/12/russian-space-chief-says-country-will-fly-on-space-station-until-2030/</link>
-      <description><![CDATA[“太空是一个永远无法100%保证结果的活动领域。”]]></description>
-      <guid>https://arstechnica.com/space/2024/12/russian-space-chief-says-country-will-fly-on-space-station-until-2030/</guid>
-      <pubDate>Wed, 18 Dec 2024 14:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些松鼠是冷血的田鼠杀手</title>
-      <link>https://arstechnica.com/science/2024/12/watch-carnivorous-squirrels-chow-down-on-tasty-voles/</link>
-      <description><![CDATA[今年夏天，随着当地田鼠数量的显著增加，新的狩猎行为可能也随之出现。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/watch-carnivorous-squirrels-chow-down-on-tasty-voles/</guid>
-      <pubDate>Wed, 18 Dec 2024 09:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告：伊隆·马斯克未能报告安全许可要求的行动</title>
-      <link>https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/</link>
-      <description><![CDATA[目前还没有联邦机构指控马斯克泄露机密信息。]]></description>
-      <guid>https://arstechnica.com/space/2024/12/report-elon-musk-failed-to-report-movement-required-by-security-clearance/</guid>
-      <pubDate>Tue, 17 Dec 2024 22:30:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
