@@ -4,7 +4,42 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Dec 2024 13:24:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 14:40:47 GMT</lastBuildDate>
+    <item>
+      <title>芝麻菜2.4.0</title>
+      <link>https://blogs.kde.org/2024/12/18/ruqola-2.4.0/?utm_source=atom_feed</link>
+      <description><![CDATA[Ruqola 2.4.0 是 Rocket.chat 通讯应用程序的一个功能和错误修复版本。
+Ruqola 此版本中的一些新功能包括：
+
+允许在长时间未打开房间时清理房间历史记录。
+在管理员服务器设置对话框中添加恢复按钮。
+改进更改密码（显示验证信息）。
+改进注册新帐户（添加原因支持）。
+实现静音/取消静音用户。
+在帐户选项卡中为文本添加颜色。
+允许显示私人安装的应用程序。
+
+一些错误修复：
+
+修复编辑消息。
+在 Rocket.Chat 市场中显示权限。
+修复重新连接服务器。
+修复 Windows/MacOs 上的单个应用程序
+修复选择创建的房间/讨论/团队
+修复管理员模式下的过滤讨论
+修复消息视频支持
+修复引用消息中的突出显示文本
+修复开放讨论频道
+允许显示应用程序市场设置
+
+URL： https://download.kde.org/stable/ruqola/
+来源：ruqola-2.4.0.tar.xz
+SHA256： f532e421ae731dfc2e88b78ab61de01e0e367a31a4fe34497664a66fc737225c
+签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
+https://jriddell.org/jriddell.pgp]]></description>
+      <guid>https://blogs.kde.org/2024/12/18/ruqola-2.4.0/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Qt 6.9 - Android 更新</title>
       <link>https://www.qt.io/blog/qt-6.9-android-updates?utm_source=atom_feed</link>
@@ -84,7 +119,7 @@ Kate Bug 统计
 考虑到我们是一支小团队，我认为这是一项了不起的成就。
 我们不仅存活了 20 多年，而且仍然生机勃勃，而不仅仅是一个仍在编译的僵尸项目。
 非常感谢所有为这一成功做出贡献的人！
-让我们在明年及之后的几年继续努力。]]></description>
+让我们在明年和接下来的几年里继续努力。]]></description>
       <guid>https://cullmann.io/posts/over-20-years-of-bug-squashing/?utm_source=atom_feed</guid>
       <pubDate>Sun, 15 Dec 2024 18:23:00 GMT</pubDate>
     </item>
@@ -101,32 +136,6 @@ Kate Bug 统计
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/12/14/this-week-in-plasma-better-fractional-scaling/?utm_source=atom_feed</guid>
       <pubDate>Sat, 14 Dec 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kaidan 0.10.1：媒体共享和新消息标记修复</title>
-      <link>https://kaidan.im/2024/12/14/kaidan-0.10.1/?utm_source=atom_feed</link>
-      <description><![CDATA[此版本修复了一些错误。
-有关更多详细信息，请查看更改日志。
-更改日志
-错误修复：
-
-修复在适当的消息气泡中显示每条消息的文件（melvo）
-修复为不支持 XEP-0447：无状态文件共享的客户端发送后备消息（melvo）
-修复消息气泡内的边距（melvo）
-修复隐藏隐藏消息部分（melvo）
-修复显示新消息标记（melvo）
-
-下载
-
-源代码 (.tar.xz) (sig使用 04EFAD0F7A4D9724 签名
-Linux（Flathub 上的 Flatpak）
-
-或者为您的发行版安装 Kaidan：
-
-
-]]></description>
-      <guid>https://kaidan.im/2024/12/14/kaidan-0.10.1/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 13 Dec 2024 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
