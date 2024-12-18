@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Dec 2024 14:40:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 16:45:28 GMT</lastBuildDate>
+    <item>
+      <title>毛伊岛简报#7</title>
+      <link>https://mauikit.org/blog/maui-release-briefing-7/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://mauikit.org/blog/maui-release-briefing-7/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 18 Dec 2024 16:27:19 GMT</pubDate>
+    </item>
     <item>
       <title>芝麻菜2.4.0</title>
       <link>https://blogs.kde.org/2024/12/18/ruqola-2.4.0/?utm_source=atom_feed</link>
@@ -129,13 +136,6 @@ Kate Bug 统计
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/12/15/this-week-in-kde-apps-gear-24.12.0-is-out/?utm_source=atom_feed</guid>
       <pubDate>Sun, 15 Dec 2024 12:50:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma 动态：更好的分数缩放</title>
-      <link>https://blogs.kde.org/2024/12/14/this-week-in-plasma-better-fractional-scaling/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/12/14/this-week-in-plasma-better-fractional-scaling/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 14 Dec 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
