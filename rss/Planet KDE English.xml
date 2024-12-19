@@ -4,9 +4,35 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 19 Dec 2024 13:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 14:40:38 GMT</lastBuildDate>
     <item>
-      <title>毛伊岛简报#7</title>
+      <title>新功能：Krita 的快速草图插件</title>
+      <link>https://krita.org/en/posts/2024/fast_sketch_plugin/?utm_source=atom_feed</link>
+      <description><![CDATA[我们与英特尔合作，为 Krita 开发了一款新插件：快速草图插件，或者更确切地说，快速墨迹绘制插件。这是一个实验性的插件，它（有时）可以使用神经网络自动绘制草图。
+此插件使用模型来弄清楚如何绘制草图：所包含的模型是在公开可用的数据上进行训练的：不涉及抓取或窃取！该插件附带一个手册，其中解释了如何获取可用于创建基于您自己的数据进行训练的模型的脚本：您需要的是草图和未上色墨水绘图的前后图像，并且训练软件可以在您自己的硬件上运行（但这将花费大量时间）。
+在整个开发过程中，我们一直在 Krita 艺术家论坛 上与艺术家讨论此插件。
+
+
+
+
+作品由 @BeARToys 创作 (CC BY-SA)
+该插件可以下载并解压到 Windows Krita 5.2.6 文件夹中，然后在 Krita 设置对话框中的插件管理器中启用。
+还可以下载 Krita 5.3.0 预 alpha 版本，其中包含适用于 Windows 和 Linux 的插件。目前，我们还没有准备好可用的 MacOS 版本，而且由于该插件是用 Python 实现的，所以不会有 Android 软件包。
+下载
+Windows
+
+插件：Fast Sketch Plugin 1.0.2 FastSketchPlugin1.0.2.zip
+便携式 zip 文件：Krita 5.3.0 pre-alpha krita-x64-5.3.0-prealpha-cdac9c31.zip
+
+Linux
+
+64 位 Linux：krita-x64-5.3.0-prealpha-cdac9c31.zip
+]]></description>
+      <guid>https://krita.org/en/posts/2024/fast_sketch_plugin/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>毛伊岛发布简报#7</title>
       <link>https://mauikit.org/blog/maui-release-briefing-7/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://mauikit.org/blog/maui-release-briefing-7/?utm_source=atom_feed</guid>
@@ -126,16 +152,9 @@ Kate Bug 统计
 考虑到我们是一支小团队，我认为这是一项了不起的成就。
 我们不仅存活了 20 多年，而且仍然生机勃勃，而不仅仅是一个仍在编译的僵尸项目。
 非常感谢所有为这一成功做出贡献的人！
-让我们在明年和接下来的几年里继续努力。]]></description>
+让我们在明年及之后的几年继续努力。]]></description>
       <guid>https://cullmann.io/posts/over-20-years-of-bug-squashing/?utm_source=atom_feed</guid>
       <pubDate>Sun, 15 Dec 2024 18:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用：Gear 24.12.0 发布</title>
-      <link>https://blogs.kde.org/2024/12/15/this-week-in-kde-apps-gear-24.12.0-is-out/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/12/15/this-week-in-kde-apps-gear-24.12.0-is-out/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 15 Dec 2024 12:50:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
