@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 19 Dec 2024 18:42:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 20:16:44 GMT</lastBuildDate>
     <item>
-      <title>英特尔为 Core Ultra 200S 台式机 CPU 修复性能问题，并承诺未来将推出更多改进</title>
+      <title>加密货币骗子冒充 X 上的真实品牌，轻松攻击 YouTube 用户</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/crypto-scammers-posing-as-real-brands-on-x-are-easily-hacking-youtubers/</link>
+      <description><![CDATA[格斗游戏 YouTuber 正在与谷歌就黑客攻击后“巨大”的收入损失展开斗争。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/crypto-scammers-posing-as-real-brands-on-x-are-easily-hacking-youtubers/</guid>
+      <pubDate>Thu, 19 Dec 2024 19:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>《潜行者 2》的卡顿问题一直困扰着我们，但这个问题正在迅速得到解决</title>
+      <link>https://arstechnica.com/gaming/2024/12/stalker-2-has-been-enjoyable-jank-but-its-also-getting-rapidly-fixed/</link>
+      <description><![CDATA[“A-Life” 修复将使本来就很奇怪的辐射区变得更加随机。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/12/stalker-2-has-been-enjoyable-jank-but-its-also-getting-rapidly-fixed/</guid>
+      <pubDate>Thu, 19 Dec 2024 18:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国暂时禁止新泽西州部分地区使用无人机，可能对飞机使用“致命武力”</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/us-temporarily-bans-drones-in-parts-of-nj-may-use-deadly-force-against-aircraft/</link>
+      <description><![CDATA[无人机目击事件引发担忧；联邦调查局表示“并未发现任何异常现象”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/us-temporarily-bans-drones-in-parts-of-nj-may-use-deadly-force-against-aircraft/</guid>
+      <pubDate>Thu, 19 Dec 2024 18:29:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔正在测试 BIOS 更新以修复其新款 Core Ultra 200S CPU 的性能</title>
       <link>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</link>
       <description><![CDATA[不像第 13/14 代电压问题那么严重，但解决方法类似。]]></description>
       <guid>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[亚马逊淡化了工人们宣称的美国有史以来“最大规模罢工”的严重性。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/amazon-faces-holiday-strike-after-refusing-to-bargain-with-warehouse-workers/</guid>
       <pubDate>Thu, 19 Dec 2024 15:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决可再生能源的粘性存储问题</title>
-      <link>https://arstechnica.com/science/2024/12/solving-renewable-energys-sticky-storage-problem/</link>
-      <description><![CDATA[当太阳不发光、风平浪静时，人类仍然需要电力。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/solving-renewable-energys-sticky-storage-problem/</guid>
-      <pubDate>Thu, 19 Dec 2024 14:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊的 RTO 延迟体现了为什么工人们对于强制规定如此愤怒</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/amazons-rto-delays-highlight-why-workers-get-so-mad-about-mandates/</link>
-      <description><![CDATA[亚马逊缺乏空间容纳其全部员工。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/amazons-rto-delays-highlight-why-workers-get-so-mad-about-mandates/</guid>
-      <pubDate>Wed, 18 Dec 2024 22:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>每兆字节 2 美元：AT&T 错误地向客户收取 3.1GB 数据 6,223 美元</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/2-per-megabyte-att-mistakenly-charged-customer-6223-for-3-1gb-of-data/</link>
-      <description><![CDATA[德克萨斯州警官转用 AT&amp;T FirstNet 却遭遇可怕的意外。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/2-per-megabyte-att-mistakenly-charged-customer-6223-for-3-1gb-of-data/</guid>
-      <pubDate>Wed, 18 Dec 2024 22:19:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
