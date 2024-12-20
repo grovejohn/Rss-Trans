@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Dec 2024 14:38:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 16:42:06 GMT</lastBuildDate>
     <item>
       <title>网络评论，第 2024-51 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/12/20/web-review-week-2024-51/?utm_source=atom_feed</link>
@@ -24,6 +24,13 @@
 ]]></description>
       <guid>https://labplot.org/2024/12/20/new-labplot-user-documentation/?utm_source=atom_feed</guid>
       <pubDate>Fri, 20 Dec 2024 07:37:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>深入研究 Krita 的快速草图清理插件</title>
+      <link>https://krita.org/en/posts/2024/fast_sketch_background/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2024/fast_sketch_background/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Kdenlive 24.12.0 发布</title>
@@ -110,7 +117,7 @@ https://jriddell.org/jriddell.pgp]]></description>
     <item>
       <title>还有一张条纹壁纸</title>
       <link>https://cukic.co/2024/12/17/new-stripes?utm_source=atom_feed</link>
-      <description><![CDATA[我最近在 X 上看到有人在 FreeBSD 的截图中展示了我的一张旧品牌“条纹”
+      <description><![CDATA[我最近在 X 上看到某人在 FreeBSD 的屏幕截图中展示了我的一张旧品牌“条纹”
 壁纸，这
 促使我制作了一张类似风格的新壁纸。
 有人呼吁为下一个 Debian 版本 Trixie 创作艺术作品，
@@ -135,14 +142,6 @@ Wiki 下载它 - 1920x1080 和 4k 版本。如果您想创建一个定制
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/searchfox-improvements/?utm_source=atom_feed</guid>
       <pubDate>Tue, 17 Dec 2024 08:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Creator 15 - CMake 更新</title>
-      <link>https://www.qt.io/blog/qt-creator-15-cmake-update?utm_source=atom_feed</link>
-      <description><![CDATA[以下是 Qt Creator 15 中的新 CMake 功能和修复：
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-15-cmake-update?utm_source=atom_feed</guid>
-      <pubDate>Mon, 16 Dec 2024 10:49:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
