@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 20 Dec 2024 15:15:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 16:18:36 GMT</lastBuildDate>
+    <item>
+      <title>谷歌和 OpenAI 在 12 月推出了大量 AI 成果，很难跟上</title>
+      <link>https://arstechnica.com/information-technology/2024/12/google-and-openai-blitz-december-with-so-many-ai-releases-its-hard-to-keep-up/</link>
+      <description><![CDATA[具有突破性的人工智能技术不断涌现，让专家们头晕目眩。]]></description>
+      <guid>https://arstechnica.com/information-technology/2024/12/google-and-openai-blitz-december-with-so-many-ai-releases-its-hard-to-keep-up/</guid>
+      <pubDate>Fri, 20 Dec 2024 15:44:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于 VR 游戏作弊的 VPN 出售对家庭网络的访问权限</title>
+      <link>https://arstechnica.com/security/2024/12/vpn-used-for-vr-game-cheat-sells-access-to-your-home-network/</link>
+      <description><![CDATA[Big Mama VPN 与提供住宅 IP 地址访问的网络绑定。]]></description>
+      <guid>https://arstechnica.com/security/2024/12/vpn-used-for-vr-game-cheat-sells-access-to-your-home-network/</guid>
+      <pubDate>Fri, 20 Dec 2024 15:01:58 GMT</pubDate>
+    </item>
     <item>
       <title>为什么人工智能语言模型会因文本过多而变得困难</title>
       <link>https://arstechnica.com/ai/2024/12/why-ai-language-models-choke-on-too-much-text/</link>
@@ -41,7 +55,7 @@
       <pubDate>Thu, 19 Dec 2024 20:41:02 GMT</pubDate>
     </item>
     <item>
-      <title>新的物理模拟训练机器人速度比现实快 43 万倍</title>
+      <title>新的物理模拟训练机器人的速度比现实快 43 万倍</title>
       <link>https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/</link>
       <description><![CDATA[“Genesis” 可以利用文本生成的 3D 世界将训练时间从几十年压缩为几小时。]]></description>
       <guid>https://arstechnica.com/information-technology/2024/12/new-physics-sim-trains-robots-430000-times-faster-than-reality/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[“A-Life” 修复将使本来就很奇怪的辐射区变得更加随机。]]></description>
       <guid>https://arstechnica.com/gaming/2024/12/stalker-2-has-been-enjoyable-jank-but-its-also-getting-rapidly-fixed/</guid>
       <pubDate>Thu, 19 Dec 2024 18:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国暂时禁止新泽西州部分地区使用无人机，可能对飞机使用“致命武力”</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/us-temporarily-bans-drones-in-parts-of-nj-may-use-deadly-force-against-aircraft/</link>
-      <description><![CDATA[无人机目击事件引发担忧；联邦调查局表示“并未发现任何异常现象”。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/us-temporarily-bans-drones-in-parts-of-nj-may-use-deadly-force-against-aircraft/</guid>
-      <pubDate>Thu, 19 Dec 2024 18:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>英特尔正在测试 BIOS 更新以修复其新款 Core Ultra 200S CPU 的性能</title>
-      <link>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</link>
-      <description><![CDATA[不像第 13/14 代电压问题那么严重，但解决方法类似。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/intel-patches-performance-for-core-ultra-200s-desktop-cpus-promises-more-to-come/</guid>
-      <pubDate>Thu, 19 Dec 2024 18:18:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
