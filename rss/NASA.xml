@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 20 Dec 2024 11:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 12:29:25 GMT</lastBuildDate>
+    <item>
+      <title>哈勃望远镜发现宇宙之眼</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/</link>
+      <description><![CDATA[这张 NASA/ESA 哈勃太空望远镜拍摄的照片展示了螺旋星系 NGC 2566，它位于船尾座，距离我们 7600 万光年。一条突出的恒星棒横跨该星系的中心，螺旋臂从棒的两端伸出。由于 NGC 2566 从我们的角度来看是倾斜的，因此它的盘面呈现出 […]]]></description>
+      <guid>https://science.nasa.gov/missions/hubble/hubble-spies-a-cosmic-eye/</guid>
+      <pubDate>Fri, 20 Dec 2024 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>第 4398-4401 个太阳日：假期即将来临，车轮下的岩石</title>
       <link>https://science.nasa.gov/blog/sols-4398-4401-holidays-ahead-rocks-under-the-wheels/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[下载 PDF：使用随机森林算法进行统计分析，为降落伞能量调节器系统提供关键见解 能量调节器 (EM)，也称为能量吸收器，是用于控制负载路径中的冲击和脉冲的安全关键组件。EM 是纺织设备，通常由尼龙、Kevlar® 和其他材料制成，并控制负载 […]]]></description>
       <guid>https://www.nasa.gov/centers-and-facilities/nesc/statistical-analysis-using-random-forest-algorithm-provides-key-insights-into-parachute-energy-modulator-system/</guid>
       <pubDate>Thu, 19 Dec 2024 18:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 NESC 无参数接触模型进行接触动力学预测</title>
-      <link>https://www.nasa.gov/centers-and-facilities/nesc/contact-dynamics-predictions-utilizing-thenesc-parameterless-contact-model/</link>
-      <description><![CDATA[下载 PDF：利用 NESC 无参数接触模型进行接触动力学预测 对火星样本返回 (MSR) 轨道样本 (OS) 的捕获进行建模涉及了解复杂的动态行为，其中包括 OS 与捕获外壳内部的接触。MSR 计划需要使用其商业 […] 对接触动力学预测进行数值验证]]></description>
-      <guid>https://www.nasa.gov/centers-and-facilities/nesc/contact-dynamics-predictions-utilizing-thenesc-parameterless-contact-model/</guid>
-      <pubDate>Thu, 19 Dec 2024 17:22:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
