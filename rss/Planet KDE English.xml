@@ -4,7 +4,20 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Dec 2024 06:44:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 08:41:58 GMT</lastBuildDate>
+    <item>
+      <title>新的 LabPlot 用户文档</title>
+      <link>https://labplot.org/2024/12/20/new-labplot-user-documentation/?utm_source=atom_feed</link>
+      <description><![CDATA[最近几周，我们一直在努力将 LabPlot 的文档转换为新格式。
+我们决定将文档从 DocBook 和 MediaWiki 格式移至 Sphinx/reStrcutredText 框架。我们认为 Sphinx 提供了一种用户友好且灵活的方式来创建和管理文档。此外，还可以轻松进行数学输入和代码格式化。此外，Sphinx 还支持基本语法检查和现代文档实践，例如版本控制和与各种输出格式（如 HTML、PDF 和 ePub）的集成。
+新用户手册可在专用页面上找到：https://docs.labplot.org。请查看并告诉我们您的想法。
+
+手册仍需要补充新内容，因此我们鼓励您为文档做出贡献，例如通过修复和添加新部分、更新图像，因为协作可以为每个人带来更全面的资源。请查看专门用于文档的Git 存储库，以了解有关如何帮助改进文档的更多详细信息。
+
+]]></description>
+      <guid>https://labplot.org/2024/12/20/new-labplot-user-documentation/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 20 Dec 2024 07:37:06 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.12.0 发布</title>
       <link>https://kdenlive.org/en/2024/12/kdenlive-24-12-0-released/?utm_source=atom_feed</link>
@@ -39,7 +52,7 @@ Linux
       <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>毛伊岛发布简报#7</title>
+      <title>毛伊岛简报#7</title>
       <link>https://mauikit.org/blog/maui-release-briefing-7/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://mauikit.org/blog/maui-release-briefing-7/?utm_source=atom_feed</guid>
@@ -90,7 +103,7 @@ https://jriddell.org/jriddell.pgp]]></description>
     <item>
       <title>还有一张条纹壁纸</title>
       <link>https://cukic.co/2024/12/17/new-stripes?utm_source=atom_feed</link>
-      <description><![CDATA[我最近在 X 上看到有人在 FreeBSD 的截图中展示了我的一张旧品牌“条纹”
+      <description><![CDATA[我最近在 X 上看到某人在 FreeBSD 的屏幕截图中展示了我的一张旧品牌“条纹”
 壁纸，这
 促使我制作了一张类似风格的新壁纸。
 有人呼吁为下一个 Debian 版本 Trixie 创作艺术作品，
@@ -125,7 +138,7 @@ Wiki 下载它 - 1920x1080 和 4k 版本。如果您想创建一个定制
       <pubDate>Mon, 16 Dec 2024 10:49:45 GMT</pubDate>
     </item>
     <item>
-      <title>处理 Qt Creator 14.0 和 15.0 中 QML 代码编辑器中的错误警告和有限功能</title>
+      <title>处理 Qt Creator 14.0 和 15.0 中的 QML 代码编辑器中的错误警告和有限功能</title>
       <link>https://www.qt.io/blog/issues-with-qml-language-server-integration-in-qt-creator-14.0-and-15.0?utm_source=atom_feed</link>
       <description><![CDATA[
   
@@ -134,13 +147,6 @@ Wiki 下载它 - 1920x1080 和 4k 版本。如果您想创建一个定制
 ]]></description>
       <guid>https://www.qt.io/blog/issues-with-qml-language-server-integration-in-qt-creator-14.0-and-15.0?utm_source=atom_feed</guid>
       <pubDate>Mon, 16 Dec 2024 07:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 每月更新 - 第 21 版</title>
-      <link>https://krita.org/en/posts/2024/monthly-update-21/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2024/monthly-update-21/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
