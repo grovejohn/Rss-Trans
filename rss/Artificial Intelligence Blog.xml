@@ -4,7 +4,14 @@
     <title>人工智能博客和新闻 • 人工智能新闻 • 人工智能博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Sat, 21 Dec 2024 13:35:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 14:14:02 GMT</lastBuildDate>
+    <item>
+      <title>“安全人工智能”公司能在不受约束的人工智能环境中生存吗？</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/can-safe-ai-companies-survive-in-an-unrestrained-ai-landscape</link>
+      <description><![CDATA[在快速发展的人工智能行业中，像 Anthropic 这样优先开发安全和合乎道德的人工智能系统的公司在与可能优先考虑快速创新而不是安全措施的竞争对手的竞争中面临着重大挑战。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/can-safe-ai-companies-survive-in-an-unrestrained-ai-landscape</guid>
+      <pubDate>Fri, 20 Dec 2024 13:22:00 GMT</pubDate>
+    </item>
     <item>
       <title>o1 对 LNM 和 LMM 的看法</title>
       <link>https://www.artificial-intelligence.blog/ai-news/o1s-thoughts-on-lnms-and-lmms</link>
@@ -72,13 +79,6 @@
       <description><![CDATA[本文探讨了将 GDPR 法规应用于大型语言模型 (LLM) 所面临的重大挑战，例如由于其复杂的数据处理和存储机制而确保数据擦除、匿名化和合规性。]]></description>
       <guid>https://www.artificial-intelligence.blog/ai-news/the-enigma-of-enforcing-gdpr-on-llms</guid>
       <pubDate>Wed, 29 May 2024 22:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-3.5 与 GPT-4o：打造货币轰炸机</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/gpt-35-vs-gpt-4o-building-a-money-blaster</link>
-      <description><![CDATA[文章对比了 GPT-3.5 和 GPT-4o 对如何制作“金钱爆破器”这个问题的回答，强调了 GPT-4o 在提供详细且安全的 DIY 说明方面的改进。]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/gpt-35-vs-gpt-4o-building-a-money-blaster</guid>
-      <pubDate>Sun, 26 May 2024 05:43:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
