@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 21 Dec 2024 04:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 06:41:29 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：年底错误修复</title>
+      <link>https://blogs.kde.org/2024/12/21/this-week-in-plasma-end-of-year-bug-fixing/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/12/21/this-week-in-plasma-end-of-year-bug-fixing/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 21 Dec 2024 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>旧新博客</title>
       <link>https://dvratil.cz/2024/12/old-new-blog/?utm_source=atom_feed</link>
@@ -129,28 +136,6 @@ https://jriddell.org/jriddell.pgp]]></description>
       <description><![CDATA[]]></description>
       <guid>https://www.qt.io/blog/qt-6.9-android-updates?utm_source=atom_feed</guid>
       <pubDate>Tue, 17 Dec 2024 13:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有一张条纹壁纸</title>
-      <link>https://cukic.co/2024/12/17/new-stripes?utm_source=atom_feed</link>
-      <description><![CDATA[我最近在 X 上看到某人在 FreeBSD 的屏幕截图中展示了我的一张旧品牌“条纹”
-壁纸，这
-促使我制作了一张类似风格的新壁纸。
-有人呼吁为下一个 Debian 版本 Trixie 创作艺术作品，
-我为它制作了我的一张旧壁纸的修改版本。由于它
-没有被选为 Trixie 的默认壁纸，我决定将它发布在这里
-供可能喜欢它的人使用。
-就像我所有的壁纸一样，它是一张平静而不分散注意力的壁纸。 （它的完整 4k 尺寸比下面的缩略图漂亮得多）
-
-
-Trixie Tracks
-
-如果您喜欢它，您可以从 Debian 的
-Wiki 下载它 - 1920x1080 和 4k 版本。如果您想创建一个定制
-分销品牌。
-]]></description>
-      <guid>https://cukic.co/2024/12/17/new-stripes?utm_source=atom_feed</guid>
-      <pubDate>Tue, 17 Dec 2024 13:11:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
