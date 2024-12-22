@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Dec 2024 06:41:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 08:39:27 GMT</lastBuildDate>
+    <item>
+      <title>哪里@38C3</title>
+      <link>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</guid>
+      <pubDate>Sun, 22 Dec 2024 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：年底错误修复</title>
       <link>https://blogs.kde.org/2024/12/21/this-week-in-plasma-end-of-year-bug-fixing/?utm_source=atom_feed</link>
@@ -129,13 +136,6 @@ SHA256： f532e421ae731dfc2e88b78ab61de01e0e367a31a4fe34497664a66fc737225c
 https://jriddell.org/jriddell.pgp]]></description>
       <guid>https://blogs.kde.org/2024/12/18/ruqola-2.4.0/?utm_source=atom_feed</guid>
       <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 6.9 - Android 更新</title>
-      <link>https://www.qt.io/blog/qt-6.9-android-updates?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.qt.io/blog/qt-6.9-android-updates?utm_source=atom_feed</guid>
-      <pubDate>Tue, 17 Dec 2024 13:31:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
