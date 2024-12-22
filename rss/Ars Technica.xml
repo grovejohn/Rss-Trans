@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sat, 21 Dec 2024 20:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 13:35:46 GMT</lastBuildDate>
+    <item>
+      <title>人类与自动驾驶汽车的竞赛尚未开始就已结束</title>
+      <link>https://arstechnica.com/cars/2024/12/man-vs-ai-race-scrapped-after-ai-car-crashes-into-wall-on-warm-up-lap/</link>
+      <description><![CDATA[A2RL 承认这是一个难题，这令人耳目一新。]]></description>
+      <guid>https://arstechnica.com/cars/2024/12/man-vs-ai-race-scrapped-after-ai-car-crashes-into-wall-on-warm-up-lap/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ars Technica 评选出的 2024 年 20 款最佳电子游戏</title>
+      <link>https://arstechnica.com/gaming/2024/12/ars-technicas-top-20-video-games-of-2024/</link>
+      <description><![CDATA[这是一个相对轻松的一年，但仍有相当一部分互动作品脱颖而出。]]></description>
+      <guid>https://arstechnica.com/gaming/2024/12/ars-technicas-top-20-video-games-of-2024/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>3D 打印技术帮助绿海龟摆脱“泡泡臀”综合症</title>
       <link>https://arstechnica.com/science/2024/12/injured-green-sea-turtle-relearns-how-to-swim-thanks-to-3d-printed-harness/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[由于赖特躲藏在亚洲，英国法官判处其一年缓刑。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/judge-rejects-craig-wrights-1-1-trillion-lawsuit-claiming-rights-to-bitcoin/</guid>
       <pubDate>Fri, 20 Dec 2024 18:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>接下来的两届 FIFA 女足世界杯将仅在 Netflix 上播出</title>
-      <link>https://arstechnica.com/gadgets/2024/12/the-next-two-fifa-womens-world-cups-will-only-air-on-netflix/</link>
-      <description><![CDATA[我们希望 Netflix 能够提前修复其实时缓冲问题。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/the-next-two-fifa-womens-world-cups-will-only-air-on-netflix/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:50:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>新款 AirTag 保护壳采用 AA 电池供电，使用寿命可达 10 年</title>
-      <link>https://arstechnica.com/gadgets/2024/12/10-year-airtag-battery-case-may-solve-annual-replacement-hassle/</link>
-      <description><![CDATA[铝制 AirTag 外壳用 2 节 AA 锂电池代替纽扣电池，以延长使用寿命。]]></description>
-      <guid>https://arstechnica.com/gadgets/2024/12/10-year-airtag-battery-case-may-solve-annual-replacement-hassle/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:23:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
