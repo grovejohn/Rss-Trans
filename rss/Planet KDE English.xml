@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Dec 2024 14:36:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 16:39:20 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 应用程序：Merkuro Mail 中的搜索、Android 版 Tokodon、LabPlot 新文档等</title>
+      <link>https://blogs.kde.org/2024/12/22/this-week-in-kde-apps-search-in-merkuro-mail-tokodon-for-android-labplot-new-documentation-and-more/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2024/12/22/this-week-in-kde-apps-search-in-merkuro-mail-tokodon-for-android-labplot-new-documentation-and-more/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 22 Dec 2024 12:50:35 GMT</pubDate>
+    </item>
     <item>
       <title>哪里@38C3</title>
       <link>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</link>
@@ -101,41 +108,6 @@ Linux
       <description><![CDATA[]]></description>
       <guid>https://mauikit.org/blog/maui-release-briefing-7/?utm_source=atom_feed</guid>
       <pubDate>Wed, 18 Dec 2024 16:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>芝麻菜2.4.0</title>
-      <link>https://blogs.kde.org/2024/12/18/ruqola-2.4.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Ruqola 2.4.0 是 Rocket.chat 通讯应用程序的一个功能和错误修复版本。
-Ruqola 此版本中的一些新功能包括：
-
-允许在长时间未打开房间时清理房间历史记录。
-在管理员服务器设置对话框中添加恢复按钮。
-改进更改密码（显示验证信息）。
-改进注册新帐户（添加原因支持）。
-实现静音/取消静音用户。
-在帐户选项卡中为文本添加颜色。
-允许显示私人安装的应用程序。
-
-一些错误修复：
-
-修复编辑消息。
-在 Rocket.Chat 市场中显示权限。
-修复重新连接服务器。
-修复 Windows/MacOs 上的单个应用程序
-修复选择创建的房间/讨论/团队
-修复管理员模式下的过滤讨论
-修复消息视频支持
-修复引用消息中的突出显示文本
-修复开放讨论频道
-允许显示应用程序市场设置
-
-URL： https://download.kde.org/stable/ruqola/
-来源：ruqola-2.4.0.tar.xz
-SHA256： f532e421ae731dfc2e88b78ab61de01e0e367a31a4fe34497664a66fc737225c
-签名人： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
-https://jriddell.org/jriddell.pgp]]></description>
-      <guid>https://blogs.kde.org/2024/12/18/ruqola-2.4.0/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
