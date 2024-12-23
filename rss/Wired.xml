@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Mon, 23 Dec 2024 09:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 10:17:26 GMT</lastBuildDate>
+    <item>
+      <title>看不见的俄乌战场</title>
+      <link>https://www.wired.com/story/electronic-warfare-russia-ukraine/</link>
+      <description><![CDATA[在俄罗斯与乌克兰的战争中，电子战，包括信号干扰、反无人机武器以及关键军事系统的创新保护，已成为冲突的关键部分。]]></description>
+      <guid>https://www.wired.com/story/electronic-warfare-russia-ukraine/</guid>
+      <pubDate>Mon, 23 Dec 2024 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能代理将成为操纵引擎</title>
       <link>https://www.wired.com/story/ai-agents-personal-assistants-manipulation-engines/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>将动物声音翻译成人类语言的竞赛</title>
       <link>https://www.wired.com/story/artificial-intelligence-translation-animal-sounds-human-language/</link>
-      <description><![CDATA[有了巨额奖金，加上人工智能推动研究，跨物种翻译比以往任何时候都更近了一步。但是，动物到底想告诉我们什么呢？]]></description>
+      <description><![CDATA[有了巨额奖金，以及人工智能对研究的大力支持，跨物种翻译比以往任何时候都更加接近现实。但是，动物到底想告诉我们什么呢？]]></description>
       <guid>https://www.wired.com/story/artificial-intelligence-translation-animal-sounds-human-language/</guid>
       <pubDate>Sun, 22 Dec 2024 09:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[尽管受到延迟、受制于竞争对手的电动平台，但福特在欧洲的电动汽车实验仍然聪明且具有创新精神，体现了该汽车制造商在电动汽车领域未能取得突破。]]></description>
       <guid>https://www.wired.com/story/ford-electric-explorer-ev-test-drive/</guid>
       <pubDate>Sat, 21 Dec 2024 14:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌表示不会强迫合作伙伴在反垄断救济方案中使用 Gemini</title>
-      <link>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</link>
-      <description><![CDATA[谷歌在上一个搜索时代占据主导地位。现在，该公司和美国司法部正在就如何为生成式人工智能创造公平的竞争环境展开斗争。]]></description>
-      <guid>https://www.wired.com/story/google-gemini-antitrust-remedy-search/</guid>
-      <pubDate>Sat, 21 Dec 2024 14:15:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
