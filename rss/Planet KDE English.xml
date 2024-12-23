@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 22 Dec 2024 22:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 01:12:20 GMT</lastBuildDate>
     <item>
       <title>本周 KDE 应用程序：Merkuro Mail 中的搜索、Android 版 Tokodon、LabPlot 新文档等</title>
       <link>https://blogs.kde.org/2024/12/22/this-week-in-kde-apps-search-in-merkuro-mail-tokodon-for-android-labplot-new-documentation-and-more/?utm_source=atom_feed</link>
@@ -36,7 +36,7 @@
 当我从 Wordpress 切换到 Jekyll 时，我正在寻找一种保留评论的方法。我找到了 Isso，它基本上是一个由 SQLite 支持的小型 CGI 服务器，您可以在服务器上运行它并通过 JavaScript 将其嵌入到您的静态网站中。它还可以从 Wordpress 本地导入评论，所以我认为这就是我选择它的主要原因。Isso 并不完美（尽管过去几年开发又开始回升），它一直在为我而崩溃。我认为它在我的博客上过去几年一直不起作用，我实在懒得去修复它。所以，我决定放弃它，转而采用另一种解决方案……
 我想通过从 Isso 的 SQLite 数据库生成静态 HTML 来保留旧帖子的评论，可惜数据库文件是空的。看起来我在 2022 年的某个时候丢失了所有评论。这很糟糕，但我想这不是世界末日。由于 Isso 的工作方式，即使是 Wayback Machine 也无法存档评论，所以我想它们永远丢失了……
 对于这个新博客，我决定使用 Carl 的方法，嵌入对 Mastodon 的回复。我认为这是一个好主意，它可能是静态博客评论最可靠的解决方案（我不必付费、自己托管或处理隐私问题或广告）。
-我对评论系统还有一些想法，但那是另一篇文章的内容 ;-) 希望现在我有了一个崭新的博客，可以更频繁地写博客！
+我对评论系统还有一些想法，但那是另一篇文章的内容 ;-) 希望现在我有了一个闪亮的新博客，我可以更频繁地写博客！
 节日快乐 🎄
 享受假期，2025 年再见 🥳！]]></description>
       <guid>https://dvratil.cz/2024/12/old-new-blog/?utm_source=atom_feed</guid>
