@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 03:19:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 04:40:14 GMT</lastBuildDate>
     <item>
       <title>本周 KDE 应用程序：Merkuro Mail 中的搜索、Android 版 Tokodon、LabPlot 新文档等</title>
       <link>https://blogs.kde.org/2024/12/22/this-week-in-kde-apps-search-in-merkuro-mail-tokodon-for-android-labplot-new-documentation-and-more/?utm_source=atom_feed</link>
@@ -56,7 +56,7 @@
 我们决定将文档从 DocBook 和 MediaWiki 格式移至 Sphinx/reStrcutredText 框架。我们认为 Sphinx 提供了一种用户友好且灵活的方式来创建和管理文档。此外，还可以轻松进行数学输入和代码格式化。此外，Sphinx 还支持基本语法检查和现代文档实践，例如版本控制和与各种输出格式（如 HTML、PDF 和 ePub）的集成。
 新用户手册可在专用页面上找到：https://docs.labplot.org。请查看并告诉我们您的想法。
 
-手册仍需要补充新内容，因此我们鼓励您为文档做出贡献，例如通过修复和添加新部分、更新图像，因为协作可以为每个人带来更全面的资源。请查看专门用于文档的Git 存储库，以了解有关如何帮助改进文档的更多详细信息。
+手册仍需要补充新内容，因此我们鼓励您为文档做出贡献，例如通过修复和添加新部分、更新图像，因为协作努力可以为每个人带来更全面的资源。请查看专门用于文档的Git 存储库，以了解有关如何帮助改进文档的更多详细信息。
 
 ]]></description>
       <guid>https://labplot.org/2024/12/20/new-labplot-user-documentation/?utm_source=atom_feed</guid>
