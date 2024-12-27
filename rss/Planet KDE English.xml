@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 14:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 16:41:29 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第 2024-52 周</title>
+      <link>https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 27 Dec 2024 16:17:01 GMT</pubDate>
+    </item>
     <item>
       <title>准备 Qt 应用以供 Play Store 发布</title>
       <link>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</link>
@@ -86,13 +93,6 @@
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2024/fast_sketch_background/?utm_source=atom_feed</guid>
       <pubDate>Fri, 20 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 24.12.0 发布</title>
-      <link>https://kdenlive.org/en/2024/12/kdenlive-24-12-0-released/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kdenlive.org/en/2024/12/kdenlive-24-12-0-released/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 19 Dec 2024 16:09:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
