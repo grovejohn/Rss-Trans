@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 12:58:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 14:38:15 GMT</lastBuildDate>
     <item>
       <title>准备 Qt 应用以供 Play Store 发布</title>
       <link>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</link>
       <description><![CDATA[
   
 
-这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。最后，您将准备好将 Qt 应用分发给数百万 Android 用户，系好安全带！ 
+这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。到最后，您就准备好将 Qt 应用分发给数百万 Android 用户了，系好安全带！ 
 ]]></description>
       <guid>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 10:45:11 GMT</pubDate>
@@ -74,7 +74,7 @@
 我们决定将文档从 DocBook 和 MediaWiki 格式移至 Sphinx/reStrcutredText 框架。我们认为 Sphinx 提供了一种用户友好且灵活的方式来创建和管理文档。此外，还可以轻松进行数学输入和代码格式化。此外，Sphinx 还支持基本语法检查和现代文档实践，例如版本控制和与各种输出格式（如 HTML、PDF 和 ePub）的集成。
 新用户手册可在专用页面上找到：https://docs.labplot.org。请查看并告诉我们您的想法。
 
-手册仍需要补充新内容，因此我们鼓励您为文档做出贡献，例如通过修复和添加新部分、更新图像，因为协作可以为每个人带来更全面的资源。请查看专门用于文档的Git 存储库，以了解有关如何帮助改进文档的更多详细信息。
+手册仍需要补充新内容，因此我们鼓励您为文档做出贡献，例如通过修复和添加新部分、更新图像，因为协作努力可以为每个人带来更全面的资源。请查看专门用于文档的Git 存储库，以了解有关如何帮助改进文档的更多详细信息。
 
 ]]></description>
       <guid>https://labplot.org/2024/12/20/new-labplot-user-documentation/?utm_source=atom_feed</guid>
