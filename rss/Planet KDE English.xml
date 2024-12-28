@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Dec 2024 22:37:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 01:08:54 GMT</lastBuildDate>
     <item>
       <title>网络评论，第 2024-52 周</title>
       <link>https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/?utm_source=atom_feed</link>
@@ -18,7 +18,7 @@
       <description><![CDATA[
   
 
-这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。最后，您将准备好将 Qt 应用分发给数百万 Android 用户，系好安全带！ 
+这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。到最后，您就准备好将 Qt 应用分发给数百万 Android 用户了，系好安全带！ 
 ]]></description>
       <guid>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 10:45:11 GMT</pubDate>
@@ -38,7 +38,7 @@
       <pubDate>Sun, 22 Dec 2024 12:50:35 GMT</pubDate>
     </item>
     <item>
-      <title>哪里@38C3</title>
+      <title>地点@38C3</title>
       <link>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</guid>
