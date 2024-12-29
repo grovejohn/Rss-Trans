@@ -4,7 +4,29 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Dec 2024 01:17:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 02:41:37 GMT</lastBuildDate>
+    <item>
+      <title>缩放改进</title>
+      <link>https://blog.vladzahorodnii.com/2024/12/29/zoom-improvements/?utm_source=atom_feed</link>
+      <description><![CDATA[屏幕放大是一种辅助功能，可以放大屏幕，使文本、图像和其他用户界面组件更易于查看或阅读。它不需要开发人员持续关注，但是，在 Plasma 6.3 中，缩放插件得到了一些改进，我想快速介绍一下。
+像素网格
+
+已删除一个脚本元素以确保 Planet 正常工作。请在原始帖子中找到它。
+
+可以说，如果屏幕“过度”放大，阅读文本将非常困难。有几种方法可以处理这种情况。例如，可以限制放大倍数（例如，限制为 x8 或 x10），或者什么也不做，只显示模糊的放大屏幕内容……或者显示其他内容。
+在旧行为中，当放大倍数达到高值时，缩放插件不会执行任何特殊操作，但在新行为中，它将在屏幕上显示单个像素。这对开发人员、设计人员等非常有用。
+系统设置
+
+
+除了新的像素网格模式外，缩放插件的系统设置也进行了细微的改进，使其看起来与其他配置模块更加一致。
+未来的改进
+
+
+键盘快捷键并不是触发缩放插件的唯一方式。例如，也可以通过按下 Meta 和 Control 键并滚动鼠标滚轮来触发缩放。但是，它不会在用户界面的任何地方显示，有些人可能更喜欢只按下 Meta 键来缩放。为了解决鼠标滚轮手势的可发现性问题并允许使用不同的修饰键组合，已经有一个补丁来添加相应的系统设置，但它是 6.4 材料。将屏幕放大器设置从桌面效果配置模块移到辅助功能配置模块也不错。
+最后但并非最不重要的是，缩放效果目前使用双线性放大滤镜，可产生还不错的视觉效果，但值得寻找可以更好地处理边缘的替代升级算法，以便放大的文本看起来不那么模糊。]]></description>
+      <guid>https://blog.vladzahorodnii.com/2024/12/29/zoom-improvements/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 29 Dec 2024 00:59:43 GMT</pubDate>
+    </item>
     <item>
       <title>探索 Krita 中的新软件包</title>
       <link>http://srirupa19.github.io/2024/12/27/fifth_post-copy.html?utm_source=atom_feed</link>
@@ -46,7 +68,7 @@
       <pubDate>Sun, 22 Dec 2024 12:50:35 GMT</pubDate>
     </item>
     <item>
-      <title>地点@38C3</title>
+      <title>哪里@38C3</title>
       <link>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</guid>
@@ -81,19 +103,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/12/20/web-review-week-2024-51/?utm_source=atom_feed</guid>
       <pubDate>Fri, 20 Dec 2024 12:32:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 LabPlot 用户文档</title>
-      <link>https://labplot.org/2024/12/20/new-labplot-user-documentation/?utm_source=atom_feed</link>
-      <description><![CDATA[最近几周，我们一直在努力将 LabPlot 的文档转换为新格式。
-我们决定将文档从 DocBook 和 MediaWiki 格式移至 Sphinx/reStrcutredText 框架。我们认为 Sphinx 提供了一种用户友好且灵活的方式来创建和管理文档。此外，还可以轻松进行数学输入和代码格式化。此外，Sphinx 还支持基本语法检查和现代文档实践，例如版本控制和与各种输出格式（如 HTML、PDF 和 ePub）的集成。
-新用户手册可在专用页面上找到：https://docs.labplot.org。请查看并告诉我们您的想法。
-
-手册仍需要补充新内容，因此我们鼓励您为文档做出贡献，例如通过修复和添加新部分、更新图像，因为协作可以为每个人带来更全面的资源。请查看专门用于文档的Git 存储库，以了解有关如何帮助改进文档的更多详细信息。
-
-]]></description>
-      <guid>https://labplot.org/2024/12/20/new-labplot-user-documentation/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 20 Dec 2024 07:37:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
