@@ -4,55 +4,11 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Dec 2024 16:39:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 18:40:25 GMT</lastBuildDate>
     <item>
       <title>Kdenlive 新年预览</title>
       <link>https://kdenlive.org/en/2024/12/kdenlive-new-year-preview/?utm_source=atom_feed</link>
-      <description><![CDATA[Kdenlive 备受期待的功能之一是现代背景去除工具。
-在 2025 年即将推出的众多功能和增强功能中，我们很高兴地宣布推出一个预览版，其中包含使用对象蒙版的背景去除工具。该功能基于 SAM2 的对象分割。您可以从本页底部的链接下载 Kdenlive 测试 alpha 版本。
-由于这是一个测试预览版本，二进制文件未签名，您可能需要手动允许在 Windows 上安装。
-以下是屏幕截图中该功能工作原理的快速演示：
-
-
-将剪辑添加到您的项目
-选择要应用背景删除的区域
-单击“蒙版”按钮
-选择“配置”以设置该工具（仅在第一次执行）
-
-
-
-在对象检测设置中单击“安装”
-
-
-在下载和安装模块时去喝杯咖啡（根据您的互联网连接，大约需要 5 到 15 分钟）。目前安装反馈不多，我们会改进，请耐心等待。
-
-Kdenlive 默认下载最小的型号。一旦出现，您可以关闭对话框并开始使用该功能。
-
-
-单击“创建新蒙版”按钮
-单击要保留的对象（前景）
-当白色蒙版出现时，单击“生成蒙版”
-视频蒙版任务开始，再喝一杯咖啡
-
-
-创建视频遮罩后，它将出现在遮罩管理器对话框中 (2)。
-
-将剪辑区域从剪辑监视器拖到时间线
-选择新创建的遮罩
-单击“应用遮罩”
-
-
-https://kdenlive.org/wp-content/uploads/2024/12/dino-final.mp4
-成功，您现在可以在没有背景的情况下欣赏视频了。
-当然，此功能还可以用于其他令人兴奋的事情，例如仅对特定对象应用效果或色彩校正。
-请记住，这是一个 alpha 版本，我们将在即将推出的 25.04 版本中对其进行增强和完善。祝您编辑愉快！
-Linux AppImage 下载：
-https://files.kde.org/kdenlive/unstable/kdenlive-25.04.0-alpha-x86_64.AppImage.mirrorlist
-Windows 下载：
-https://files.kde.org/kdenlive/unstable/kdenlive-25.04-alpha-x86_64.exe.mirrorlist
-Flatpak：
-查看我们的实验性夜间版本（请参阅我们的下载页面底部的说明）
-帖子Kdenlive 新年预览首先出现在Kdenlive上。]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://kdenlive.org/en/2024/12/kdenlive-new-year-preview/?utm_source=atom_feed</guid>
       <pubDate>Sun, 29 Dec 2024 13:10:37 GMT</pubDate>
     </item>
@@ -91,6 +47,18 @@ Flatpak：
       <pubDate>Sun, 29 Dec 2024 00:59:43 GMT</pubDate>
     </item>
     <item>
+      <title>我需要你！</title>
+      <link>https://skrooge.org/news/2024-12-29-i_need_you/?utm_source=atom_feed</link>
+      <description><![CDATA[变更日志
+您好，
+我需要您的帮助。我创建了 Skrooge 的第一个版本，该版本可在 KF6 和 Qt6 上构建（其临时版本号为 2.33.8）。
+我每天都使用它来管理自己的帐户。但是，在发布正式版本之前，我希望你们中的一些人对其进行测试并通过报告遇到的任何问题来提供反馈。
+我指望你们！要开始使用，请查看 下载 部分和 README.md。
+提前致谢！]]></description>
+      <guid>https://skrooge.org/news/2024-12-29-i_need_you/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>探索 Krita 中的新软件包</title>
       <link>http://srirupa19.github.io/2024/12/27/fifth_post-copy.html?utm_source=atom_feed</link>
       <description><![CDATA[
@@ -111,7 +79,7 @@ Flatpak：
       <description><![CDATA[
   
 
-这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。最后，您将准备好将 Qt 应用分发给数百万 Android 用户，系好安全带！ 
+这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。到最后，您就准备好将 Qt 应用分发给数百万 Android 用户了，系好安全带！ 
 ]]></description>
       <guid>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 10:45:11 GMT</pubDate>
@@ -136,13 +104,6 @@ Flatpak：
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 22 Dec 2024 07:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：年底错误修复</title>
-      <link>https://blogs.kde.org/2024/12/21/this-week-in-plasma-end-of-year-bug-fixing/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/12/21/this-week-in-plasma-end-of-year-bug-fixing/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 21 Dec 2024 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
