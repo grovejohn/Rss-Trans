@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球在哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Dec 2024 18:40:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 20:35:57 GMT</lastBuildDate>
+    <item>
+      <title>Amarok 3.2“Punkadiddle”发布！</title>
+      <link>https://blogs.kde.org/2024/12/29/amarok-3.2-punkadiddle-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Amarok 开发小组很高兴地宣布 Amarok 3.2 “Punkadiddle” 即将推出！
+2024 年 4 月，终于推出了基于 Qt5/KF5 的 Amarok 3 版本，随后发布了一系列 3.x 错误修复和功能版本。
+现在，2024 年即将结束，是时候推出 Amarok 3.2.0 了。最有趣的变化可能是能够在 Qt5 和 Qt6 上构建相同的代码库。
+目前，Qt5/KF5 仍然是推荐的、经过测试的配置。Qt6 版本应该可以使用，但除了任何未知问题之外，还有许多
+已知问题记录在 README 中。
+此外，3.2.0 包括例如收集过滤和 Ampache 相关功能及修复，最早解决的功能请求来自 2013 年。
+最近已关闭多个长期存在的崩溃错误报告，并引入了针对崩溃报告数据中观察到的各种问题的可能修复。
+因此，Amarok 3.2.0 的稳定性应该略有提高。
+一些 3.2.x 错误修复版本预计将于 2025 年发布，之后重点将转移到“Amarok 4”的准备工作上。
+自 3.1.1 以来的更改
+更改：
+
+现在可以构建实验性的 Qt6/KF6 Amarok 版本
+允许通过缺少标签/空标签过滤集合（BR 325317）
+
+更改：
+
+Amarok 现在依赖于 KDE Frameworks 5.108
+显示当前轨道上下文小程序默认
+
+BUGFIXES:
+
+可能修复过滤集合时偶尔发生的崩溃 (BR 492406)
+可能修复清除 CompondProgressBars 时偶尔发生的崩溃
+修复 Qt6/KF6 上的上下文视图小程序
+修复服务器版本 5.0.0 及更高版本上的 Ampache 登录 (BR 496581)
+修复 Ampache 登录重定向时发生的崩溃 (BR 396590)
+
+3.1.0 和 3.2.0 之间的 git 存储库统计信息如下：
+l10n 守护进程脚本：68 次提交，+41987，-35275
+Tuomas Nurmi：46 次提交，+723，-4854
+Raresh Rus：3 次提交，+41，-53
+Ian Abbott：1 次提交，+17，-3
+Heiko Becker：1 次提交，+0，-3
+获取 Amarok
+除了 源代码，Amarok 可从许多发行版的软件包存储库安装，这些存储库可能很快会更新到 3.2.0，以及 flathub 上提供的 flatpak。
+Packager 部分
+您可以在
+download.kde.org
+找到 tarball 软件包，并且已使用 Tuomas Nurmi 的 GPG 密钥。]]></description>
+      <guid>https://blogs.kde.org/2024/12/29/amarok-3.2-punkadiddle-released/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 29 Dec 2024 19:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 新年预览</title>
       <link>https://kdenlive.org/en/2024/12/kdenlive-new-year-preview/?utm_source=atom_feed</link>
@@ -97,13 +143,6 @@
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/12/22/this-week-in-kde-apps-search-in-merkuro-mail-tokodon-for-android-labplot-new-documentation-and-more/?utm_source=atom_feed</guid>
       <pubDate>Sun, 22 Dec 2024 12:50:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里@38C3</title>
-      <link>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2024/12/22/kde-38c3-preview.html?utm_source=atom_feed</guid>
-      <pubDate>Sun, 22 Dec 2024 07:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
