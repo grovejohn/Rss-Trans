@@ -4,7 +4,58 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Dec 2024 12:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 14:36:21 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 新年预览</title>
+      <link>https://kdenlive.org/en/2024/12/kdenlive-new-year-preview/?utm_source=atom_feed</link>
+      <description><![CDATA[Kdenlive 备受期待的功能之一是现代背景去除工具。
+在 2025 年即将推出的众多功能和增强功能中，我们很高兴地宣布推出一个预览版，其中包含使用对象蒙版的背景去除工具。该功能基于 SAM2 的对象分割。您可以从本页底部的链接下载 Kdenlive 测试 alpha 版本。
+由于这是一个测试预览版本，二进制文件未签名，您可能需要手动允许在 Windows 上安装。
+以下是屏幕截图中该功能工作原理的快速演示：
+
+
+将剪辑添加到您的项目
+选择要应用背景删除的区域
+单击“蒙版”按钮
+选择“配置”以设置该工具（仅在第一次执行）
+
+
+
+在对象检测设置中单击“安装”
+
+
+在下载和安装模块时去喝杯咖啡（根据您的互联网连接，大约需要 5 到 15 分钟）。目前安装反馈不多，我们会改进，请耐心等待。
+
+Kdenlive 默认下载最小的型号。一旦出现，您可以关闭对话框并开始使用该功能。
+
+
+单击“创建新蒙版”按钮
+单击要保留的对象（前景）
+当白色蒙版出现时，单击“生成蒙版”
+视频蒙版任务开始，再喝一杯咖啡
+
+
+创建视频遮罩后，它将出现在遮罩管理器对话框中 (2)。
+
+将剪辑区域从剪辑监视器拖到时间线
+选择新创建的遮罩
+单击“应用遮罩”
+
+
+https://kdenlive.org/wp-content/uploads/2024/12/dino-final.mp4
+成功，您现在可以在没有背景的情况下欣赏视频了。
+当然，此功能还可以用于其他令人兴奋的事情，例如仅对特定对象应用效果或色彩校正。
+请记住，这是一个 alpha 版本，我们将在即将推出的 25.04 版本中对其进行增强和完善。祝您编辑愉快！
+Linux AppImage 下载：
+https://files.kde.org/kdenlive/unstable/kdenlive-25.04.0-alpha-x86_64.AppImage.mirrorlist
+Windows 下载：
+https://files.kde.org/kdenlive/unstable/kdenlive-25.04-alpha-x86_64.exe.mirrorlist
+Flatpak：
+查看我们的实验性夜间版本（请参阅我们的下载页面底部的说明）
+帖子Kdenlive 新年预览首先出现在Kdenlive上。]]></description>
+      <guid>https://kdenlive.org/en/2024/12/kdenlive-new-year-preview/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 29 Dec 2024 13:10:37 GMT</pubDate>
+    </item>
     <item>
       <title>缩放改进</title>
       <link>https://blog.vladzahorodnii.com/2024/12/29/zoom-improvements/?utm_source=atom_feed</link>
@@ -96,13 +147,6 @@
 享受假期，2025 年再见 🥳！]]></description>
       <guid>https://dvratil.cz/2024/12/old-new-blog/?utm_source=atom_feed</guid>
       <pubDate>Fri, 20 Dec 2024 15:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-51 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/12/20/web-review-week-2024-51/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/12/20/web-review-week-2024-51/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 20 Dec 2024 12:32:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
