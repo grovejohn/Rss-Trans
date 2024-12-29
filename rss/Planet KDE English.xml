@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Dec 2024 14:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 16:39:51 GMT</lastBuildDate>
     <item>
       <title>Kdenlive 新年预览</title>
       <link>https://kdenlive.org/en/2024/12/kdenlive-new-year-preview/?utm_source=atom_feed</link>
@@ -57,6 +57,18 @@ Flatpak：
       <pubDate>Sun, 29 Dec 2024 13:10:37 GMT</pubDate>
     </item>
     <item>
+      <title>本周 KDE 应用程序：#38c3</title>
+      <link>https://blogs.kde.org/2024/12/29/this-week-in-kde-apps-%2338c3/?utm_source=atom_feed</link>
+      <description><![CDATA[遗憾的是，本周不会有任何“本周 KDE 应用”博客文章，因为
+我（Carl）和其他人正在汉堡参加 #38C3（混沌通信大会）。
+但如果您也在那里，请随时过来打个招呼。
+
+
+]]></description>
+      <guid>https://blogs.kde.org/2024/12/29/this-week-in-kde-apps-%2338c3/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 29 Dec 2024 12:50:35 GMT</pubDate>
+    </item>
+    <item>
       <title>缩放改进</title>
       <link>https://blog.vladzahorodnii.com/2024/12/29/zoom-improvements/?utm_source=atom_feed</link>
       <description><![CDATA[屏幕放大是一种辅助功能，可以放大屏幕，使文本、图像和其他用户界面组件更易于查看或阅读。它不需要开发人员持续关注，但是，在 Plasma 6.3 中，缩放插件得到了一些改进，我想快速介绍一下。
@@ -99,7 +111,7 @@ Flatpak：
       <description><![CDATA[
   
 
-这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。到最后，您就准备好将 Qt 应用分发给数百万 Android 用户了，系好安全带！ 
+这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。最后，您将准备好将 Qt 应用分发给数百万 Android 用户，系好安全带！ 
 ]]></description>
       <guid>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 10:45:11 GMT</pubDate>
@@ -131,22 +143,6 @@ Flatpak：
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2024/12/21/this-week-in-plasma-end-of-year-bug-fixing/?utm_source=atom_feed</guid>
       <pubDate>Sat, 21 Dec 2024 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧新博客</title>
-      <link>https://dvratil.cz/2024/12/old-new-blog/?utm_source=atom_feed</link>
-      <description><![CDATA[我于 2010 年开始写这个博客。当时我使用的是 Wordpress，效果还不错。2018 年，我决定改用静态生成的网站，主要是因为 Wordpress 博客加载速度慢，维护起来也很麻烦。当时首选的静态网站生成器是 Jekyll，所以我就用了它。不过最近我一直在努力，因为为了让所有插件都能正常工作，我需要使用旧版本或 Ruby，这意味着我必须使用 Docker 在本地构建博客。总的来说，这感觉太费劲了，过去几年我一直在关注 Hugo——尤其是自从 Carl 和其他人将大多数 KDE 网站迁移到 Hugo 之后。我的意思是，如果它对 KDE 来说足够好，那对我来说也足够好，对吧？
-所以今年我终于有时间进行切换了。我从 Jekyll 迁移了所有内容。这次我实际上浏览了每一篇帖子，将其转换为正确的 Markdown，修复了格式、图像等。这是一次美好的回忆之旅，阅读所有旧帖子，回忆所有冲刺和学院……我还借此机会清理了标签和类别，使它们更加一致和有用。
-最后，我重写了主题 - 我最初将模板从 Wordpress 移植到 Jekyll，但它有点乱，响应性是通过 JavaScript“破解”的。从那时起，Web 开发（和我的技能）已经取得了长足的进步，因此我能够利用更多现代 CSS 和 HTML 功能使网站看起来相同，但响应更快，可访问性更强。
-评论
-当我从 Wordpress 切换到 Jekyll 时，我正在寻找一种保留评论的方法。我找到了 Isso，它基本上是一个由 SQLite 支持的小型 CGI 服务器，您可以在服务器上运行它并通过 JavaScript 将其嵌入到您的静态网站中。它还可以从 Wordpress 本地导入评论，所以我认为这就是我选择它的主要原因。Isso 并不完美（尽管过去几年开发又开始回升），它一直在为我而崩溃。我认为它在我的博客上过去几年一直不起作用，我实在懒得去修复它。所以，我决定放弃它，转而采用另一种解决方案……
-我想通过从 Isso 的 SQLite 数据库生成静态 HTML 来保留旧帖子的评论，可惜数据库文件是空的。看起来我在 2022 年的某个时候丢失了所有评论。这很糟糕，但我想这不是世界末日。由于 Isso 的工作方式，即使是 Wayback Machine 也无法存档评论，所以我想它们永远丢失了……
-对于这个新博客，我决定使用 Carl 的方法，嵌入对 Mastodon 的回复。我认为这是一个好主意，它可能是静态博客评论最可靠的解决方案（我不必付费、自己托管或处理隐私问题或广告）。
-我对评论系统还有一些想法，但那是另一篇文章的内容 ;-) 希望现在我有了一个闪亮的新博客，我可以更频繁地写博客！
-节日快乐 🎄
-享受假期，2025 年再见 🥳！]]></description>
-      <guid>https://dvratil.cz/2024/12/old-new-blog/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 20 Dec 2024 15:55:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
