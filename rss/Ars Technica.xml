@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 30 Dec 2024 16:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 19:36:47 GMT</lastBuildDate>
+    <item>
+      <title>电力公司隐藏非法加密矿，可能导致停电</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/russian-power-provider-struck-deal-that-hid-illegal-crypto-mine-on-state-land/</link>
+      <description><![CDATA[俄罗斯严厉打击非法矿山，电力供应商成为意想不到的帮凶。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/russian-power-provider-struck-deal-that-hid-illegal-crypto-mine-on-state-land/</guid>
+      <pubDate>Mon, 30 Dec 2024 18:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>《进化》杂志编辑集体辞职</title>
+      <link>https://arstechnica.com/science/2024/12/journal-editors-resign-to-protest-ai-use-high-fees-and-more/</link>
+      <description><![CDATA[董事会成员对高额费用、编辑独立性以及编辑过程中使用人工智能表示担忧。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/journal-editors-resign-to-protest-ai-use-high-fees-and-more/</guid>
+      <pubDate>Mon, 30 Dec 2024 18:45:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>躄鱼揭示了它头部“钓鱼竿”的进化过程</title>
+      <link>https://arstechnica.com/science/2024/12/frogfish-reveals-how-it-evolved-the-fishing-rod-on-its-head/</link>
+      <description><![CDATA[专门的神经元已经进化出来，使得“诱饵”像猎物一样摆动。]]></description>
+      <guid>https://arstechnica.com/science/2024/12/frogfish-reveals-how-it-evolved-the-fishing-rod-on-its-head/</guid>
+      <pubDate>Mon, 30 Dec 2024 18:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普告诉最高法院，他计划达成协议以拯救 TikTok</title>
+      <link>https://arstechnica.com/tech-policy/2024/12/trump-told-scotus-he-plans-to-make-a-deal-to-save-tiktok/</link>
+      <description><![CDATA[如果“完美交易者”特朗普得逞，TikTok 禁令可能会被推迟。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2024/12/trump-told-scotus-he-plans-to-make-a-deal-to-save-tiktok/</guid>
+      <pubDate>Mon, 30 Dec 2024 16:31:03 GMT</pubDate>
+    </item>
     <item>
       <title>举报人发现 80 万辆大众电动汽车未加密的位置数据</title>
       <link>https://arstechnica.com/cars/2024/12/whistleblower-finds-unencrypted-location-data-for-800000-vw-evs/</link>
@@ -46,34 +74,6 @@
       <description><![CDATA[恰逢假期技术支持会议，以下是有关密钥的知识。]]></description>
       <guid>https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/</guid>
       <pubDate>Mon, 30 Dec 2024 12:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过 60 年的航天补丁，以下是我们最喜欢的一些</title>
-      <link>https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/</link>
-      <description><![CDATA[事实证明，美国间谍卫星机构在补丁设计方面是最好的。]]></description>
-      <guid>https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/</guid>
-      <pubDate>Sun, 29 Dec 2024 12:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着 RTO 和 AI 威胁的日益加剧，科技工作者运动日益增多</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/</link>
-      <description><![CDATA[倡导者表示，2024 年科技工人运动规模将变得太大而不容忽视。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/</guid>
-      <pubDate>Sat, 28 Dec 2024 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过 24 秒的发动机测试后，新格伦火箭已准备好发射</title>
-      <link>https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/</link>
-      <description><![CDATA[同样在周五，该公司获得了新格伦发射尝试的发射许可。]]></description>
-      <guid>https://arstechnica.com/space/2024/12/blue-origin-hot-fires-new-glenn-rocket-setting-up-a-launch-early-next-year/</guid>
-      <pubDate>Sat, 28 Dec 2024 02:20:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTuber 通过检测欺骗性电子邮件赢得了与假任天堂律师的 DMCA 斗争</title>
-      <link>https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/</link>
-      <description><![CDATA[游戏玩家敦促 YouTube 改变 DMCA 删除流程以终止版权滥用行为。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/</guid>
-      <pubDate>Fri, 27 Dec 2024 19:16:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
