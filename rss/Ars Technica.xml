@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 29 Dec 2024 12:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 13:00:08 GMT</lastBuildDate>
+    <item>
+      <title>密钥技术虽然优雅，但绝对不是可用的安全技术</title>
+      <link>https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/</link>
+      <description><![CDATA[恰逢假期技术支持会议，以下是有关密钥的知识。]]></description>
+      <guid>https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/</guid>
+      <pubDate>Mon, 30 Dec 2024 12:00:53 GMT</pubDate>
+    </item>
     <item>
       <title>经过 60 年的航天补丁，以下是我们最喜欢的一些</title>
       <link>https://arstechnica.com/space/2024/12/after-60-years-of-spaceflight-patches-here-are-some-of-our-favorites/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 27 Dec 2024 19:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 为营利性转型辩护，称其对维持人道主义使命至关重要</title>
+      <title>OpenAI 辩称营利性转型对于维持人道主义使命至关重要</title>
       <link>https://arstechnica.com/tech-policy/2024/12/openai-defends-for-profit-shift-as-critical-to-sustain-humanitarian-mission/</link>
       <description><![CDATA[埃隆·马斯克可能是阻止 OpenAI 盈利转型的最后一个障碍。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/openai-defends-for-profit-shift-as-critical-to-sustain-humanitarian-mission/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[雷德蒙德将 Office 与安全性、云计算服务整合在一起的做法受到严格审查。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/ftc-launches-probe-of-microsoft-over-bundling/</guid>
       <pubDate>Fri, 27 Dec 2024 15:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>磁性变形表面可以移动物体而无需抓住它</title>
-      <link>https://arstechnica.com/science/2024/12/magnetic-shape-shifting-surface-can-move-stuff-without-grasping-it/</link>
-      <description><![CDATA[“铁磁弹性体”薄片在磁力影响下可以膨胀和弯曲。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/magnetic-shape-shifting-surface-can-move-stuff-without-grasping-it/</guid>
-      <pubDate>Fri, 27 Dec 2024 13:45:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
