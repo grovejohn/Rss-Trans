@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 30 Dec 2024 15:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 16:42:34 GMT</lastBuildDate>
+    <item>
+      <title>举报人发现 80 万辆大众电动汽车未加密的位置数据</title>
+      <link>https://arstechnica.com/cars/2024/12/whistleblower-finds-unencrypted-location-data-for-800000-vw-evs/</link>
+      <description><![CDATA[《明镜》周刊和混沌计算机俱乐部能够将数据与车主及其行程联系起来。]]></description>
+      <guid>https://arstechnica.com/cars/2024/12/whistleblower-finds-unencrypted-location-data-for-800000-vw-evs/</guid>
+      <pubDate>Mon, 30 Dec 2024 15:33:21 GMT</pubDate>
+    </item>
     <item>
       <title>我们差点错过的十个精彩科学故事</title>
       <link>https://arstechnica.com/science/2024/12/ten-cool-science-stories-we-almost-missed/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[游戏玩家敦促 YouTube 改变 DMCA 删除流程以终止版权滥用行为。]]></description>
       <guid>https://arstechnica.com/tech-policy/2024/12/youtuber-won-dmca-fight-with-fake-nintendo-lawyer-by-detecting-spoofed-email/</guid>
       <pubDate>Fri, 27 Dec 2024 19:16:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>丑陋圣诞毛衣的物理学</title>
-      <link>https://arstechnica.com/science/2024/12/the-physics-of-ugly-christmas-sweaters/</link>
-      <description><![CDATA[毛衣的折叠、拉伸或弄皱的方式决定了它如何进入几种静止元状态之一。]]></description>
-      <guid>https://arstechnica.com/science/2024/12/the-physics-of-ugly-christmas-sweaters/</guid>
-      <pubDate>Fri, 27 Dec 2024 19:00:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
