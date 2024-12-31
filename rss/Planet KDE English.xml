@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 31 Dec 2024 10:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 12:58:20 GMT</lastBuildDate>
     <item>
       <title>Amarok 3.2“Punkadiddle”发布！</title>
       <link>https://blogs.kde.org/2024/12/29/amarok-3.2-punkadiddle-released/?utm_source=atom_feed</link>
@@ -88,7 +88,7 @@ download.kde.org
 
 
 键盘快捷键并不是触发缩放插件的唯一方式。例如，也可以通过按下 Meta 和 Control 键并滚动鼠标滚轮来触发缩放。但是，它不会在用户界面的任何地方显示，有些人可能更喜欢只按下 Meta 键来缩放。为了解决鼠标滚轮手势的可发现性问题并允许使用不同的修饰键组合，已经有一个补丁来添加相应的系统设置，但它是 6.4 材料。将屏幕放大器设置从桌面效果配置模块移到辅助功能配置模块也不错。
-最后但并非最不重要的是，缩放效果目前使用双线性放大滤镜，可产生还不错的视觉效果，但值得寻找能够更好地处理边缘的替代升级算法，以便放大的文本看起来不那么模糊。]]></description>
+最后但并非最不重要的是，缩放效果目前使用双线性放大滤镜，可产生还不错的视觉效果，但值得寻找可以更好地处理边缘的替代升级算法，以便放大的文本看起来不那么模糊。]]></description>
       <guid>https://blog.vladzahorodnii.com/2024/12/29/zoom-improvements/?utm_source=atom_feed</guid>
       <pubDate>Sun, 29 Dec 2024 00:59:43 GMT</pubDate>
     </item>
@@ -125,7 +125,7 @@ download.kde.org
       <description><![CDATA[
   
 
-这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。到最后，您就准备好将 Qt 应用分发给数百万 Android 用户了，系好安全带！ 
+这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。最后，您将准备好将 Qt 应用分发给数百万 Android 用户，系好安全带！ 
 ]]></description>
       <guid>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 10:45:11 GMT</pubDate>
