@@ -1,10 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 31 Dec 2024 12:58:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 15:14:49 GMT</lastBuildDate>
+    <item>
+      <title>KDE：应用程序快照 24.12.0 版本及更多内容</title>
+      <link>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+https://kde.org/announcements/gear/24.12.0
+希望大家节日愉快！我送给您的礼物是闪亮的新应用程序快照！此版本中有几个新的 qt6 端口。请访问 https://snapcraft.io/store?q=kde
+我还修复了 Krita snap 无法打开/保存的 bug。请测试 –edge！
+我正在继续致力于 core24 支持，希望在下一个版本之前完成。
+我真的很期待 2025 年！2024 年滚开！
+如果你能帮我解决气体问题，我还有 3 周的治疗时间。感谢您一直以来的支持。
+https://gofund.me/573cc38e]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 31 Dec 2024 14:34:48 GMT</pubDate>
+    </item>
     <item>
       <title>Amarok 3.2“Punkadiddle”发布！</title>
       <link>https://blogs.kde.org/2024/12/29/amarok-3.2-punkadiddle-released/?utm_source=atom_feed</link>
@@ -88,7 +103,7 @@ download.kde.org
 
 
 键盘快捷键并不是触发缩放插件的唯一方式。例如，也可以通过按下 Meta 和 Control 键并滚动鼠标滚轮来触发缩放。但是，它不会在用户界面的任何地方显示，有些人可能更喜欢只按下 Meta 键来缩放。为了解决鼠标滚轮手势的可发现性问题并允许使用不同的修饰键组合，已经有一个补丁来添加相应的系统设置，但它是 6.4 材料。将屏幕放大器设置从桌面效果配置模块移到辅助功能配置模块也不错。
-最后但并非最不重要的是，缩放效果目前使用双线性放大滤镜，可产生还不错的视觉效果，但值得寻找可以更好地处理边缘的替代升级算法，以便放大的文本看起来不那么模糊。]]></description>
+最后但并非最不重要的是，缩放效果目前使用双线性放大滤镜，可产生还不错的视觉效果，但值得寻找能够更好地处理边缘的替代升级算法，以便放大的文本看起来不那么模糊。]]></description>
       <guid>https://blog.vladzahorodnii.com/2024/12/29/zoom-improvements/?utm_source=atom_feed</guid>
       <pubDate>Sun, 29 Dec 2024 00:59:43 GMT</pubDate>
     </item>
@@ -125,7 +140,7 @@ download.kde.org
       <description><![CDATA[
   
 
-这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。最后，您将准备好将 Qt 应用分发给数百万 Android 用户，系好安全带！ 
+这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。到最后，您就准备好将 Qt 应用分发给数百万 Android 用户了，系好安全带！ 
 ]]></description>
       <guid>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 10:45:11 GMT</pubDate>
@@ -136,13 +151,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://blog.broulik.de/2024/12/holiday-hacking-2024/?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 08:36:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用程序：Merkuro Mail 中的搜索、Android 版 Tokodon、LabPlot 新文档等</title>
-      <link>https://blogs.kde.org/2024/12/22/this-week-in-kde-apps-search-in-merkuro-mail-tokodon-for-android-labplot-new-documentation-and-more/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2024/12/22/this-week-in-kde-apps-search-in-merkuro-mail-tokodon-for-android-labplot-new-documentation-and-more/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 22 Dec 2024 12:50:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
