@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 31 Dec 2024 01:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 02:34:45 GMT</lastBuildDate>
     <item>
       <title>Amarok 3.2“Punkadiddle”发布！</title>
       <link>https://blogs.kde.org/2024/12/29/amarok-3.2-punkadiddle-released/?utm_source=atom_feed</link>
@@ -125,7 +125,7 @@ download.kde.org
       <description><![CDATA[
   
 
-这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。最后，您将准备好将 Qt 应用分发给数百万 Android 用户，系好安全带！ 
+这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。到最后，您就准备好将 Qt 应用分发给数百万 Android 用户了，系好安全带！ 
 ]]></description>
       <guid>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 10:45:11 GMT</pubDate>
