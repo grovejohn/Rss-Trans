@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 31 Dec 2024 18:41:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 20:36:39 GMT</lastBuildDate>
     <item>
       <title>KDE：应用程序快照 24.12.0 版本及更多内容</title>
       <link>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</link>
@@ -41,7 +41,7 @@ Kate 中完成所有编辑 - 从配置文件、CSS
 我的会话窗口。
 我所在的文件夹（始终是我的站点文件夹）和我打开的文档会自动保存，而不必每次都打开一个新的 Kate 会话。
 请注意，您可能需要启用 Projects 插件才能访问“Projects”选项卡，其状态也保存在会话中。
-外部工具#
+外部工具 #
 接下来要解决的问题是如何更轻松地启动 Hugo。我们可以通过使用外部工具来实现这一点，该工具在“设置”下或“工具”菜单项下进行管理。我有两个，一个用于启动 Hugo，另一个用于停止它。
 
 
@@ -58,7 +58,7 @@ Kate 中完成所有编辑 - 从配置文件、CSS
 Hugo 完成时的输出窗格
 这不是什么大问题，因为当我使用“停止 Hugo”操作时会显示输出。我建议使用 hugo server 的 “-O” 参数，在 Hugo 完成初始化后自动打开默认 Web 浏览器。
 Ideas #
-如果有一个预览窗格可以自动找到您正在编辑的 Markdown 文件并导航到该文件，那将很酷，这似乎是可能的。另一个优点是
+如果有一个预览窗格可以自动找到您正在编辑的 Markdown 文件并导航到该文件，那就太酷了，这似乎是可能的。另一个优点是
 一个原生 Kate 插件来处理启动/停止/配置 Hugo 服务器。但
 这个工作流程已经比我以前的工作流程有了很大的改进。]]></description>
       <guid>https://redstrate.com/blog/2024/12/using-hugo-with-kate/?utm_source=atom_feed</guid>
@@ -147,7 +147,7 @@ download.kde.org
 
 
 键盘快捷键并不是触发缩放插件的唯一方式。例如，也可以通过按下 Meta 和 Control 键并滚动鼠标滚轮来触发缩放。但是，它不会在用户界面的任何地方显示，有些人可能更喜欢只按下 Meta 键来缩放。为了解决鼠标滚轮手势的可发现性问题并允许使用不同的修饰键组合，已经有一个补丁来添加相应的系统设置，但它是 6.4 材料。将屏幕放大器设置从桌面效果配置模块移到辅助功能配置模块也不错。
-最后但并非最不重要的是，缩放效果目前使用双线性放大滤镜，可产生还不错的视觉效果，但值得寻找能够更好地处理边缘的替代升级算法，以便放大的文本看起来不那么模糊。]]></description>
+最后但并非最不重要的是，缩放效果目前使用双线性放大滤镜，可产生还不错的视觉效果，但值得寻找可以更好地处理边缘的替代升级算法，以便放大的文本看起来不那么模糊。]]></description>
       <guid>https://blog.vladzahorodnii.com/2024/12/29/zoom-improvements/?utm_source=atom_feed</guid>
       <pubDate>Sun, 29 Dec 2024 00:59:43 GMT</pubDate>
     </item>
