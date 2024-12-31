@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 31 Dec 2024 20:36:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 22:37:31 GMT</lastBuildDate>
     <item>
       <title>KDE：应用程序快照 24.12.0 版本及更多内容</title>
       <link>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</link>
@@ -19,6 +19,21 @@ https://kde.org/announcements/gear/24.12.0
 https://gofund.me/573cc38e]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</guid>
       <pubDate>Tue, 31 Dec 2024 14:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Plasma 6.2.5，12 月错误修复版本</title>
+      <link>https://kde.org/announcements/plasma/6/6.2.5/?utm_source=atom_feed</link>
+      <description><![CDATA[2024 年 12 月 31 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.2.5。
+Plasma 6.2 于 2024 年 10 月发布，其中包含许多功能改进和新模块，以完善桌面体验。
+此版本添加了一个月的新翻译和来自 KDE 贡献者的修复。这些错误修复通常很小但很重要，包括：
+
+KScreenLocker：隐藏时 X11locker 会降低 m_background。 提交。 请参阅错误 #483163
+Powerdevil Daemon：不要在 PowerDevil::Core::unloadAllActiveActions() 中崩溃。 提交。修复错误#492349
+发现：UpdatesPage，修复更新描述框与其文本重叠的问题。 提交。修复错误#491821
+
+查看完整更新日志]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.2.5/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>与 Kate 一起使用 Hugo</title>
@@ -177,17 +192,6 @@ download.kde.org
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 16:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>准备 Qt 应用以供 Play Store 发布</title>
-      <link>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-这篇博文将指导您完成使用 CMake 准备 Qt for Android 应用以在 Play Store 发布的整个过程。到最后，您就准备好将 Qt 应用分发给数百万 Android 用户了，系好安全带！ 
-]]></description>
-      <guid>https://www.qt.io/blog/prepare-a-qt-app-for-play-store-publishing?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Dec 2024 10:45:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
