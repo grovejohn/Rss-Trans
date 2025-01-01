@@ -4,7 +4,14 @@
     <title>人工智能博客和新闻 • 人工智能新闻 • 人工智能博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Jan 2025 13:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 16:18:17 GMT</lastBuildDate>
+    <item>
+      <title>starryai 评论</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/starryai-review</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/starryai-review</guid>
+      <pubDate>Wed, 01 Jan 2025 15:51:00 GMT</pubDate>
+    </item>
     <item>
       <title>开始使用 TensorFlow - 无需设置</title>
       <link>https://www.artificial-intelligence.blog/ai-news/getting-started-with-tensorflow-no-setup-required</link>
@@ -70,13 +77,6 @@
       <description><![CDATA[这篇博文探讨了大型数值模型 (LNM) 的概念、它们彻底改变 AI 解决数学问题能力的潜力，以及它们与 LLM 的集成以实现高级推理。]]></description>
       <guid>https://www.artificial-intelligence.blog/ai-news/why-ai-needs-large-numerical-models-lnms-for-mathematical-mastery</guid>
       <pubDate>Fri, 13 Dec 2024 22:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索“我的第一个机器人”套件：赋能下一代工程师</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/exploring-the-my-first-robots-kit-empowering-the-next-generation-of-engineers</link>
-      <description><![CDATA[使用“我的第一个机器人”套件向您的孩子介绍机器人技术。这款教育工具通过动手学习、编码和创造力培养 STEM 技能。]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/exploring-the-my-first-robots-kit-empowering-the-next-generation-of-engineers</guid>
-      <pubDate>Sun, 29 Sep 2024 01:09:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
