@@ -4,7 +4,44 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 31 Dec 2024 22:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 12:58:08 GMT</lastBuildDate>
+    <item>
+      <title>kdesrc-build 与第三方应用程序</title>
+      <link>https://cukic.co/2025/01/01/kdesrc-build-custom?utm_source=atom_feed</link>
+      <description><![CDATA[我使用几个非 KDE Qt 应用程序，我倾向于从源代码手动编译这些应用程序，以使用与我编译 KDE 软件时所针对的非发行版提供的 Qt 版本相同的版本。
+我注意到，我更新它们的频率不如系统其他部分那么高，所以我决定看看是否可以将它们添加到
+kdesrc-build。
+要构建的软件包定义位于
+repo-metadata/module-definictions，其中已经包含 KDE 框架和应用程序使用的几个第三方库。
+将 Strawberry 播放器（Clementine 的分支，Clementine 是 Amarok 1.x 的分支）添加到构建中非常简单。我只需要
+定义存储库、cmake 选项以使其构建
+Qt6 版本而不是 Qt5 版本，以及我想要从中构建的分支。
+module strawberry
+存储库 https://github.com/strawberrymusicplayer/strawberry.git
+cmake-options -DBUILD_WITH_QT6=ON
+分支 master
+end module
+对于具有正常 cmake 设置的应用程序，就是这么简单。但有些应用程序（如 recoll）在顶层没有 CMakeLists.txt 文件，而
+kdesrc-build 不喜欢这样。
+为了确保 kdesrc-build 找到 cmake 的真实 src 目录，我需要做一些完全黑客的事情。我
+必须将源目录的路径传递给 cmake-options，否则该路径将由 kdesrc-build 自动为其构建的每个项目定义：
+module recoll
+存储库 https://framagit.org/medoc92/recoll.git
+cmake-options \
+-DRECOLL_QT6_BUILD=1 \
+-DRECOLL_ENABLE_SYSTEMD=0 \
+-DRECOLL_ENABLE_WEBENGINE=1 \
+-DRECOLL_ENABLE_X11MON=0 \
+-S /kde/src/recoll/src
+分支 master
+结束模块
+幸运的是，kdesrc-build 附加了
+cmake-options 正常的 cmake 参数，因此
+我的 -S 路径覆盖了路径kdesrc-build 定义。
+]]></description>
+      <guid>https://cukic.co/2025/01/01/kdesrc-build-custom?utm_source=atom_feed</guid>
+      <pubDate>Wed, 01 Jan 2025 10:50:33 GMT</pubDate>
+    </item>
     <item>
       <title>KDE：应用程序快照 24.12.0 版本及更多内容</title>
       <link>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</link>
@@ -56,7 +93,7 @@ Kate 中完成所有编辑 - 从配置文件、CSS
 我的会话窗口。
 我所在的文件夹（始终是我的站点文件夹）和我打开的文档会自动保存，而不必每次都打开一个新的 Kate 会话。
 请注意，您可能需要启用 Projects 插件才能访问“Projects”选项卡，其状态也保存在会话中。
-外部工具 #
+外部工具#
 接下来要解决的问题是如何更轻松地启动 Hugo。我们可以通过使用外部工具来实现这一点，该工具在“设置”下或“工具”菜单项下进行管理。我有两个，一个用于启动 Hugo，另一个用于停止它。
 
 
@@ -185,13 +222,6 @@ download.kde.org
 经过近一年的时间，我终于有时间重新投入到 Krita 中。我偶然发现了 Memileo Impasto Brushes 套装，它模仿了真实油漆的纹理和厚度——非常适合增加深度和维度。受到启发，我尝试了它们，并创作了这幅一小时的快速绘画。]]></description>
       <guid>http://srirupa19.github.io/2024/12/27/fifth_post-copy.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 27 Dec 2024 20:30:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2024-52 周</title>
-      <link>https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2024/12/27/web-review-week-2024-52/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Dec 2024 16:17:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
