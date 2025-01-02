@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>行星在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 02 Jan 2025 03:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 10:40:16 GMT</lastBuildDate>
+    <item>
+      <title>我测量了 KDE 的提交统计数据，结果令我感到惊讶！</title>
+      <link>http://blog.davidedmundson.co.uk/blog/i-measured-kdes-commit-stats-and-the-results-surprised-me/?utm_source=atom_feed</link>
+      <description><![CDATA[尽管提交数量并不是衡量任何事物的完美标准，但它仍然可以很好地表明一个项目是健康的还是摇摇欲坠的。密切关注它们很有用，年初是这样做的好时机。
+我喜欢图表，每个人都喜欢图表，它们不需要进一步介绍。
+框架
+
+
+
+等离子
+
+
+
+KWin
+
+
+
+结论
+我分享的主要原因是，在我收集一些数据之前，我对社区健康状况有一种负面感觉，但没有任何数据支持这种感觉，而且这种感觉毫无根据，当你忙于生活时，很难了解这一年的情况。
+去年 KF6/Plasma 6.0 带来了一点好处，今年确实出现了相对下降，但这只是回到了以前的平均水平，没有什么可担心的。最重要的图表是我们每年获得了多少新作者和贡献者。总贡献者和新贡献者的数量相对一致。
+事情没有改变，而且很无聊，不适合作为好的帖子标题（因此 Youtube 级别的修饰），但对于如此大的项目来说，这是一个好地方。
+所包含的第三张图表衡量了提交量占提交总量的多少。如果这是 1，则意味着只有一名开发人员在运行该项目，如果他们离开，这将是一个不健康的地方。如果太高，则意味着没有核心团队在维护它。没有“正确”的数字，但我觉得这是一个非常有趣的指标，尤其是看到 Kwin 中发生的事情。
+关于统计数据
+图表是从 Curl 仪表板使用的相同脚本生成的（https://curl.se/dashboard.html）。它没有 Curl 拥有的所有统计数据，因为每个都需要一些手动操作才能使其更通用。
+框架和 Plasma 统计数据是通过本地 git filter 将所有存储库分支到大型存储库并以此为基础制作的。]]></description>
+      <guid>http://blog.davidedmundson.co.uk/blog/i-measured-kdes-commit-stats-and-the-results-surprised-me/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 02 Jan 2025 09:00:49 GMT</pubDate>
+    </item>
     <item>
       <title>kdesrc-build 与第三方应用程序</title>
       <link>https://cukic.co/2025/01/01/kdesrc-build-custom?utm_source=atom_feed</link>
@@ -196,14 +224,6 @@ download.kde.org
 提前致谢！]]></description>
       <guid>https://skrooge.org/news/2024-12-29-i_need_you/?utm_source=atom_feed</guid>
       <pubDate>Sun, 29 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索 Krita 中的新软件包</title>
-      <link>http://srirupa19.github.io/2024/12/27/fifth_post-copy.html?utm_source=atom_feed</link>
-      <description><![CDATA[
-经过近一年的时间，我终于有时间重新投入到 Krita 中。我偶然发现了 Memileo Impasto Brushes 套装，它模仿了真实油漆的纹理和厚度——非常适合增加深度和维度。受到启发，我尝试了它们，并创作了这幅一小时的快速绘画。]]></description>
-      <guid>http://srirupa19.github.io/2024/12/27/fifth_post-copy.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 27 Dec 2024 20:30:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
