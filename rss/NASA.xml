@@ -4,11 +4,18 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Thu, 02 Jan 2025 17:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 17:36:40 GMT</lastBuildDate>
+    <item>
+      <title>一月份的夜空笔记：红色星球</title>
+      <link>https://science.nasa.gov/solar-system/skywatching/night-sky-network/jan2025-night-sky-notes/</link>
+      <description><![CDATA[这个季节，你仰望夜空时，是否注意到猎户座左侧有一个明亮的红色物体？这就是火星！一月份将是使用中型望远镜观察这颗行星及其部分细节的绝佳机会。本月一定要捕捉这三个事件。]]></description>
+      <guid>https://science.nasa.gov/solar-system/skywatching/night-sky-network/jan2025-night-sky-notes/</guid>
+      <pubDate>Wed, 01 Jan 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>天文学激活大使：新时代</title>
       <link>https://science.nasa.gov/learning-resources/science-activation/astronomy-activation-ambassadors-a-new-era/</link>
-      <description><![CDATA[NASA 科学激活计划的天文学激活大使 (AAA) 项目旨在通过中学、高中和社区学院科学教师的专业发展，显著提高学生对科学、技术、工程和数学 (STEM) 的参与度。2024 年，AAA 将重点转向发展天文学学院，提供不同程度和强度的课程 […]]]></description>
+      <description><![CDATA[NASA 科学激活计划的天文学激活大使 (AAA) 项目旨在通过中学、高中和社区大学科学教师的专业发展，显著提高学生对科学、技术、工程和数学 (STEM) 的参与度。2024 年，AAA 将重点转向发展天文学学院，提供不同程度和强度的课程 […]]]></description>
       <guid>https://science.nasa.gov/learning-resources/science-activation/astronomy-activation-ambassadors-a-new-era/</guid>
       <pubDate>Tue, 31 Dec 2024 19:35:09 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[运营团队已经确认，NASA 的“触摸”太阳任务于 2024 年 12 月 24 日成功完成创纪录的最近距离太阳表面飞行。NASA 的帕克太阳探测器以距太阳表面仅 380 万英里的速度飞行，打破了之前的纪录，以每小时 43 万英里的惊人速度穿越太阳大气层 […]]]></description>
       <guid>https://science.nasa.gov/science-research/heliophysics/nasas-parker-solar-probe-makes-history-with-closest-pass-to-sun/</guid>
       <pubDate>Fri, 27 Dec 2024 18:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈勃望远镜发现宇宙之眼</title>
-      <link>https://www.nasa.gov/image-article/hubble-spies-a-cosmic-eye/</link>
-      <description><![CDATA[这张 NASA/ESA（哈勃太空望远镜）拍摄的照片展示了螺旋星系 NGC 2566，它位于船尾座，距离我们 7600 万光年。一条突出的恒星棒横跨该星系的中心，螺旋臂从棒的两端伸出。由于 NGC 2566 从我们的角度看是倾斜的，因此它的盘面呈现出 […]]]></description>
-      <guid>https://www.nasa.gov/image-article/hubble-spies-a-cosmic-eye/</guid>
-      <pubDate>Fri, 27 Dec 2024 16:26:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
