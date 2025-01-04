@@ -4,7 +4,48 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 04 Jan 2025 14:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jan 2025 22:37:04 GMT</lastBuildDate>
+    <item>
+      <title>我在 KDE/Plasma Mobile 的最后六个月</title>
+      <link>https://lprod.dev/blog/monthly_2025_01.html?utm_source=atom_feed</link>
+      <description><![CDATA[全方位的学习体验
+
+呃。真的已经快半年了吗？哎呀。
+不幸的是，即使有这么多个月，我也没有像我希望的那样在 KDE 领域完成很多工作，主要有两个原因：
+
+我一直在相当大的任务之间来回徘徊（就我目前在 KDE 堆栈中的经验水平而言），导致花费了大量时间却收效甚微。我学到了很多东西，但目前还没有太多可以展示的东西。在葡萄牙举行的 2024 年欧洲火箭挑战赛 (EuRoC) 的准备工作花费了大量时间 - 这是我第二次与维也纳技术大学太空团队一起参加，虽然这绝对是一件令人兴奋的事情，但准备学生建造的双液体推进火箭进行发射却更耗时。谁能想到呢！也许我将来会为此专门写一篇文章，我们拭目以待。
+
+
+回到 KDE：这不仅仅是学习——我的手机也坏了！嗯。有点。可能是 SIM 卡读取器接触不良导致它比我希望的更频繁地断开与 SIM 卡的连接。
+然而，这确实促使我将 SIM 卡放入我的旧 OnePlus 6T，而这款手机恰好运行 postmarketOS edge，使我成为官方的 Linux Mobile 日常驱动程序。
+我很高兴地报告它大部分都正常工作。当然，有一些我想要的应用程序在 Linux Mobile 上不可用（还没有？），但那里的东西可以工作，对我来说已经足够了。
+虽然肯定有许多非常烦人的错误需要解决——所以我会解决它们。目前，我的 SIM 卡已装回我那款不稳定的 Android 手机中，直到我修复了一个错误，该错误有时会重复来电，导致它们在你已经接听时继续响铃（不太理想），但之后我想我会继续使用 6T 和 Plasma Mobile 一段时间。
+现在，在我写另一部小说之前，让我们先来看看我在过去几个月里真正完成的东西。
+合并的更改
+
+移动任务切换器
+
+
+修复了从主屏幕打开任务切换器的动画问题修复了任务清理模式下图标列表有时偏离中心的问题重新引入了在非停靠模式下最大化选定窗口的功能。从技术上讲，这应该不是必要的，因为我们的 KWin 配置应该已经强制窗口全屏了，但有些应用程序设法打破了这种局面（主要是基于 GTK 的应用程序），所以又回到了原点。在移动环境中禁用触摸手势的蓝色边框 - 作为基于鼠标手势的指示器，它很不错，但在这里没有必要。在导航栏任务切换按钮上添加双击，以在最近的 2 个应用程序之间切换。
+
+
+杂项
+
+
+在移动设备上禁用会话恢复（至少在拨号器在登录屏幕上启动软锁定手机的错误被修复之前）这不是我做的改变，但我想提一下，因为它很棒，我在上一篇文章中提到我之前尝试过（但失败了）处理这个问题：Micah Stanley 在新的移动友好性方面做得非常出色通知！我还完成了我的第一个 MR 评审，这很令人兴奋，而且比我预期的工作量要多得多。此时，我想感谢所有花时间在我的 MR 上的人！
+
+
+未完成
+
+由于中间出现的所有问题，我仍然无法回到 KWin 的触摸角落手势 MR，例如：
+
+修复导航栏启用时导航手势仍然有效。不幸的是，这需要改变我们的设置系统的工作方式，并且... CMake 在这里让我崩溃了。我几乎要解决这个问题了，但为了我自己的理智，我不得不暂时把它放在一边。我希望很快能回到这个问题上，因为这很烦人。改善等离子拨号器的锁屏行为。目前，通过会话恢复，它会在移动设备的初始登录屏幕上方恢复，如果手机在关机时恰好正在运行，则基本上会软锁定手机。在锁屏期间接到电话时也会发生类似的事情 - 我目前正在想办法最好地解决这个问题。
+
+
+好了，现在我要说的就这么多。希望我能更及时地完成下一篇文章，但让我们看看我目前的大件物品会让我忙多久]]></description>
+      <guid>https://lprod.dev/blog/monthly_2025_01.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 04 Jan 2025 21:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE：Snap 修补程序和更新</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snap-hotfixes-and-updates/?utm_source=atom_feed</link>
@@ -174,21 +215,6 @@ https://kde.org/announcements/gear/24.12.0
 https://gofund.me/573cc38e]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</guid>
       <pubDate>Tue, 31 Dec 2024 14:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Plasma 6.2.5，12 月错误修复版本</title>
-      <link>https://kde.org/announcements/plasma/6/6.2.5/?utm_source=atom_feed</link>
-      <description><![CDATA[2024 年 12 月 31 日，星期二。今天，KDE 发布了 KDE Plasma 6 的错误修复更新，版本号为 6.2.5。
-Plasma 6.2 于 2024 年 10 月发布，其中包含许多功能改进和新模块，以完善桌面体验。
-此版本添加了一个月的新翻译和来自 KDE 贡献者的修复。这些错误修复通常很小但很重要，包括：
-
-KScreenLocker：隐藏时 X11locker 会降低 m_background。 提交。 请参阅错误 #483163
-Powerdevil Daemon：不要在 PowerDevil::Core::unloadAllActiveActions() 中崩溃。 提交。修复错误#492349
-发现：UpdatesPage，修复更新描述框与其文本重叠的问题。 提交。修复错误#491821
-
-查看完整更新日志]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.2.5/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
