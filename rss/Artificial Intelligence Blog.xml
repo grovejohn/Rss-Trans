@@ -4,79 +4,81 @@
     <title>人工智能博客和新闻 • 人工智能新闻 • 人工智能博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Sun, 05 Jan 2025 10:38:14 GMT</lastBuildDate>
-    <item>
-      <title>妈妈，你看，还是没有手！</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/look-mom-still-no-hands</link>
-      <description><![CDATA[TL;DR Midjourney 5 在抽牌方面仍然很糟糕。
-
-
-]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/look-mom-still-no-hands</guid>
-      <pubDate>Wed, 01 Jan 2025 21:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼安德特人有多聪明？</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/how-intelligent-were-neanderthals</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/how-intelligent-were-neanderthals</guid>
-      <pubDate>Wed, 01 Jan 2025 19:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>starryai 评论</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/starryai-review</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/starryai-review</guid>
-      <pubDate>Wed, 01 Jan 2025 15:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始使用 TensorFlow - 无需设置</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/getting-started-with-tensorflow-no-setup-required</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/getting-started-with-tensorflow-no-setup-required</guid>
-      <pubDate>Wed, 01 Jan 2025 13:07:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能技术</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/ai-technologies</link>
-      <description><![CDATA[…]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/ai-technologies</guid>
-      <pubDate>Wed, 01 Jan 2025 08:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的 Midjourney 提示助手是什么？</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/what-is-the-best-midjourney-prompt-helper</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/what-is-the-best-midjourney-prompt-helper</guid>
-      <pubDate>Wed, 01 Jan 2025 04:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能是否正在形成自我意识？</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/is-ai-becoming-self-aware</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/is-ai-becoming-self-aware</guid>
-      <pubDate>Wed, 01 Jan 2025 02:28:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能能够毁灭人类吗？</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/can-ai-destroy-humans</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/can-ai-destroy-humans</guid>
-      <pubDate>Wed, 01 Jan 2025 02:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>世界上最聪明的人工智能是什么？</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/what-is-the-smartest-ai-on-earth</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/what-is-the-smartest-ai-on-earth</guid>
-      <pubDate>Wed, 01 Jan 2025 02:26:00 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 05 Jan 2025 15:35:47 GMT</lastBuildDate>
     <item>
       <title>“安全人工智能”公司能在不受约束的人工智能环境中生存吗？</title>
       <link>https://www.artificial-intelligence.blog/ai-news/can-safe-ai-companies-survive-in-an-unrestrained-ai-landscape</link>
       <description><![CDATA[在快速发展的人工智能行业中，像 Anthropic 这样优先开发安全和合乎道德的人工智能系统的公司在与可能优先考虑快速创新而不是安全措施的竞争对手的竞争中面临着重大挑战。]]></description>
       <guid>https://www.artificial-intelligence.blog/ai-news/can-safe-ai-companies-survive-in-an-unrestrained-ai-landscape</guid>
       <pubDate>Fri, 20 Dec 2024 13:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>o1 对 LNM 和 LMM 的看法</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/o1s-thoughts-on-lnms-and-lmms</link>
+      <description><![CDATA[使用 3D 神经网络、
+神经形态硬件、事件驱动计算和本地化记忆来构建更像人脑的人工智能系统，可以
+实现节能、类似大脑的适应性和精确度，
+这尤其有利于复杂的数学和数字任务。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/o1s-thoughts-on-lnms-and-lmms</guid>
+      <pubDate>Fri, 13 Dec 2024 23:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人工智能需要大型数值模型 (LNM) 来掌握数学</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/why-ai-needs-large-numerical-models-lnms-for-mathematical-mastery</link>
+      <description><![CDATA[这篇博文探讨了大型数值模型 (LNM) 的概念、它们彻底改变 AI 解决数学问题能力的潜力，以及它们与 LLM 的集成以实现高级推理。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/why-ai-needs-large-numerical-models-lnms-for-mathematical-mastery</guid>
+      <pubDate>Fri, 13 Dec 2024 22:05:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索“我的第一个机器人”套件：赋能下一代工程师</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/exploring-the-my-first-robots-kit-empowering-the-next-generation-of-engineers</link>
+      <description><![CDATA[使用“我的第一个机器人”套件向您的孩子介绍机器人技术。这款教育工具通过动手学习、编码和创造力培养 STEM 技能。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/exploring-the-my-first-robots-kit-empowering-the-next-generation-of-engineers</guid>
+      <pubDate>Sun, 29 Sep 2024 01:09:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>山姆·奥尔特曼的《智能时代》</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/the-intelligence-age</link>
+      <description><![CDATA[在《智能时代》中探索 Sam Altman 对人工智能的愿景，包括其对人类能力、繁荣、就业和深度学习进步的影响。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/the-intelligence-age</guid>
+      <pubDate>Mon, 23 Sep 2024 22:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过静态宇宙中的角几何建立宇宙红移的几何模型</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/a-geometric-model-of-cosmological-redshift-via-angular-geometry-in-a-static-universe</link>
+      <description><![CDATA[引入一个几何模型，通过静态宇宙中的角几何来解释宇宙红移，将红移归因于几何效应。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/a-geometric-model-of-cosmological-redshift-via-angular-geometry-in-a-static-universe</guid>
+      <pubDate>Fri, 13 Sep 2024 03:45:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>肖像摄影的未来：真实面孔还是人工智能创作？</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/the-future-of-portrait-photography-real-faces-or-ai-creations</link>
+      <description><![CDATA[探索人工智能生成的图像如何挑战传统肖像摄影、
+重新定义美丽标准并影响模特行业的未来。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/the-future-of-portrait-photography-real-faces-or-ai-creations</guid>
+      <pubDate>Sun, 08 Sep 2024 02:01:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何对抗像特伦斯·霍华德这样的人？</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/how-to-counter-idiots-like-terrence-howard</link>
+      <description><![CDATA[Terrence Howard 是“专家”，Joe Rogan 也是。让 AI 帮你
+战胜这些不及格的一年级学生。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/how-to-counter-idiots-like-terrence-howard</guid>
+      <pubDate>Tue, 09 Jul 2024 22:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Hedra 制作电子商务视频模型</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/e-commerce-video-mockups-with-hedra</link>
+      <description><![CDATA[利用 Hedra 的生成视频 AI，我们创建了引人注目的电子商务视频模型，发现该技术在聚焦面部特征时表现出色，但在拍摄上身或全身时却举步维艰，导致效果不太逼真。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/e-commerce-video-mockups-with-hedra</guid>
+      <pubDate>Thu, 04 Jul 2024 23:37:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>对法学硕士 (LLM) 执行 GDPR 的谜团</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/the-enigma-of-enforcing-gdpr-on-llms</link>
+      <description><![CDATA[本文探讨了将 GDPR 法规应用于大型语言模型 (LLM) 所面临的重大挑战，例如由于其复杂的数据处理和存储机制而确保数据擦除、匿名化和合规性。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/the-enigma-of-enforcing-gdpr-on-llms</guid>
+      <pubDate>Wed, 29 May 2024 22:47:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
