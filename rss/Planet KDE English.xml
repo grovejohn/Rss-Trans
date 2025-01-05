@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 05 Jan 2025 02:40:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 16:40:41 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 应用：移动上下文菜单</title>
+      <link>https://blogs.kde.org/2025/01/05/this-week-in-kde-apps-mobile-context-menus/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/01/05/this-week-in-kde-apps-mobile-context-menus/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 05 Jan 2025 12:50:35 GMT</pubDate>
+    </item>
     <item>
       <title>我在 KDE/Plasma Mobile 的最后六个月</title>
       <link>https://lprod.dev/blog/monthly_2025_01.html?utm_source=atom_feed</link>
@@ -13,7 +20,7 @@
 呃。真的已经快半年了吗？哎呀。
 不幸的是，即使有这么多个月，我也没有像我希望的那样在 KDE 领域完成很多工作，主要有两个原因：
 
-我一直在相当大的任务之间来回徘徊（就我目前在 KDE 堆栈中的经验水平而言），导致花费了大量时间却收效甚微。我学到了很多东西，但目前还没有太多可以展示的东西。在葡萄牙举行的 2024 年欧洲火箭挑战赛 (EuRoC) 的准备工作花费了大量时间 - 这是我第二次与维也纳技术大学太空团队一起参加，虽然这绝对是一件令人兴奋的事情，但准备学生建造的双液体推进火箭进行发射却更耗时。谁能想到呢！也许我将来会为此专门写一篇文章，我们拭目以待。
+我一直在相当大的任务之间来回徘徊（就我目前在 KDE 堆栈中的经验水平而言），导致花费了大量时间却收效甚微。我学到了很多东西，但目前还没有太多可以展示的东西。在葡萄牙举行的 2024 年欧洲火箭挑战赛 (EuRoC) 的准备工作花费了大量时间 - 这是我第二次与维也纳技术大学太空团队一起参加比赛，虽然这绝对是一件令人兴奋的事情，但准备学生建造的双液体推进火箭进行发射却更耗时。谁能想到呢！也许我将来会为此专门写一篇文章，我们拭目以待。
 
 
 回到 KDE：这不仅仅是学习——我的手机也坏了！嗯。有点。可能是 SIM 卡读取器接触不良导致它比我希望的更频繁地断开与 SIM 卡的连接。
@@ -200,21 +207,6 @@ cmake-options 正常的 cmake 参数，因此
 ]]></description>
       <guid>https://cukic.co/2025/01/01/kdesrc-build-custom?utm_source=atom_feed</guid>
       <pubDate>Wed, 01 Jan 2025 10:50:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE：应用程序快照 24.12.0 版本及更多内容</title>
-      <link>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-https://kde.org/announcements/gear/24.12.0
-希望大家节日愉快！我送给您的礼物是闪亮的新应用程序快照！此版本中有几个新的 qt6 端口。请访问 https://snapcraft.io/store?q=kde
-我还修复了 Krita snap 无法打开/保存的 bug。请测试 –edge！
-我正在继续进行 core24 支持工作，希望在下一个版本之前完成。
-我真的很期待 2025 年！2024 年滚蛋吧！
-如果你能帮我解决气体问题，我还有 3 周的治疗时间。感谢您一直以来的支持。
-https://gofund.me/573cc38e]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kde-application-snaps-24-12-0-release-and-more/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 31 Dec 2024 14:34:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
