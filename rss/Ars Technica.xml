@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 07 Jan 2025 20:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 21:14:31 GMT</lastBuildDate>
+    <item>
+      <title>丹佛的肮脏行径：前检察官伪造短信、销毁设备以陷害同事</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/dirty-deeds-in-denver-ex-prosecutor-faked-texts-destroyed-devices-to-frame-colleague/</link>
+      <description><![CDATA[有时，数据收集可以为您提供帮助。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/dirty-deeds-in-denver-ex-prosecutor-faked-texts-destroyed-devices-to-frame-colleague/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:38:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>新款 GeForce 50 系列 GPU：售价 1,999 美元的 5090，还有其他产品</title>
+      <link>https://arstechnica.com/gadgets/2025/01/geforce-rtx-50-gpus-run-from-1999-to-549-lean-heavily-on-ai-generated-frames/</link>
+      <description><![CDATA[Nvidia 在速度比较方面严重依赖 DLSS 4 和 AI 生成的帧。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/geforce-rtx-50-gpus-run-from-1999-to-549-lean-heavily-on-ai-generated-frames/</guid>
+      <pubDate>Tue, 07 Jan 2025 20:06:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>科学论文盗版网站 Sci-Hub 分享大量被撤回的论文</title>
+      <link>https://arstechnica.com/science/2025/01/science-paper-piracy-site-sci-hub-shares-lots-of-retracted-papers/</link>
+      <description><![CDATA[85% 的无效论文在撤回后仍继续被分享。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/science-paper-piracy-site-sci-hub-shares-lots-of-retracted-papers/</guid>
+      <pubDate>Tue, 07 Jan 2025 19:39:05 GMT</pubDate>
+    </item>
     <item>
       <title>蚂蚁与人类：解决钢琴搬运机之谜</title>
       <link>https://arstechnica.com/science/2025/01/ants-vs-humans-solving-the-piano-mover-puzzle/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[艾比：“如果你和我一样有自己的准则，那也没关系。只是有些事大家都同意是错的。”]]></description>
       <guid>https://arstechnica.com/culture/2025/01/we-have-a-new-teaser-for-the-last-of-us-s2/</guid>
       <pubDate>Tue, 07 Jan 2025 16:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉远程停车系统因多起事故受到联邦审查</title>
-      <link>https://arstechnica.com/cars/2025/01/teslas-remote-parking-under-federal-scrutiny-after-multiple-crashes/</link>
-      <description><![CDATA[这是 NHTSA 目前针对特斯拉开展的第四次安全调查。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/teslas-remote-parking-under-federal-scrutiny-after-multiple-crashes/</guid>
-      <pubDate>Tue, 07 Jan 2025 15:40:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>索尼和本田的电动汽车将于今年上市，起售价 89,900 美元</title>
-      <link>https://arstechnica.com/cars/2025/01/sony-and-hondas-ev-goes-on-sale-this-year-starts-at-89900/</link>
-      <description><![CDATA[索尼的第一款电动汽车售价并不便宜。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/sony-and-hondas-ev-goes-on-sale-this-year-starts-at-89900/</guid>
-      <pubDate>Tue, 07 Jan 2025 15:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>广泛使用的 DNA 测序仪仍然不强制执行安全启动</title>
-      <link>https://arstechnica.com/security/2025/01/widely-used-dna-sequencer-still-doesnt-enforce-secure-boot/</link>
-      <description><![CDATA[iSeq 100 中的固件驻留启动套件可能是威胁行为者获胜的关键。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/widely-used-dna-sequencer-still-doesnt-enforce-secure-boot/</guid>
-      <pubDate>Tue, 07 Jan 2025 14:00:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
