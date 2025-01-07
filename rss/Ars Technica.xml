@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 07 Jan 2025 13:23:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 15:09:06 GMT</lastBuildDate>
+    <item>
+      <title>广泛使用的 DNA 测序仪仍然不强制执行安全启动</title>
+      <link>https://arstechnica.com/security/2025/01/widely-used-dna-sequencer-still-doesnt-enforce-secure-boot/</link>
+      <description><![CDATA[iSeq 100 中的固件驻留启动套件可能是威胁行为者获胜的关键。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/widely-used-dna-sequencer-still-doesnt-enforce-secure-boot/</guid>
+      <pubDate>Tue, 07 Jan 2025 14:00:28 GMT</pubDate>
+    </item>
     <item>
       <title>美国发射公司年度实力排名底部发生变动</title>
       <link>https://arstechnica.com/space/2025/01/annual-power-ranking-of-us-launch-companies-finds-a-shake-up-at-the-bottom/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[戴尔也不会再生产 Precision 或 Inspiron 电脑。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/the-end-of-an-era-dell-will-no-longer-make-xps-computers/</guid>
       <pubDate>Mon, 06 Jan 2025 19:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>新款 Radeon RX 9000 GPU 有望修复 AMD 的两个最大弱点</title>
-      <link>https://arstechnica.com/gadgets/2025/01/new-radeon-rx-9000-gpus-promise-to-fix-two-of-amds-biggest-weaknesses/</link>
-      <description><![CDATA[更好的光线追踪和 ML 支持的 FSR 升级可以缩小与 Nvidia 的差距。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/new-radeon-rx-9000-gpus-promise-to-fix-two-of-amds-biggest-weaknesses/</guid>
-      <pubDate>Mon, 06 Jan 2025 19:45:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
