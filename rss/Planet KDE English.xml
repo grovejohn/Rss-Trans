@@ -4,7 +4,14 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 07 Jan 2025 06:44:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 20:37:13 GMT</lastBuildDate>
+    <item>
+      <title>KWin 中的 HDR 和色彩管理，第 6 部分：修复夜灯</title>
+      <link>https://zamundaaa.github.io/wayland,/colormanagement/2025/01/07/fixing-night-light.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://zamundaaa.github.io/wayland,/colormanagement/2025/01/07/fixing-night-light.html?utm_source=atom_feed</guid>
+      <pubDate>Tue, 07 Jan 2025 20:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kwave Nightly Flatpak</title>
       <link>https://markpenner.space/blog/2025-01-06-kwave-flatpak/?utm_source=atom_feed</link>
@@ -177,39 +184,6 @@ Tokodon 是我们出色的 Mastadon 客户
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/01/03/web-review-week-2025-01/?utm_source=atom_feed</guid>
       <pubDate>Fri, 03 Jan 2025 10:15:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 KDE 添加家庭自动化</title>
-      <link>http://blog.davidedmundson.co.uk/blog/adding-home-automation-to-kde/?utm_source=atom_feed</link>
-      <description><![CDATA[
-关于
-顾名思义，家庭自动化主要是关于自动化的。
-您每天工作时面对的机器包含大量有用信息，这些信息对您的家庭管理大有裨益。
-我有一个脚本，如果我在下午打开摄像头，它会放下百叶窗，否则会产生恼人的眩光。我的办公室灯和显示器在晚上都会呈现红色，但禁用 PC 上的夜间模式也会自动禁用执行红移的主灯。我希望我的屏幕不是在活动后 10 分钟关闭，这既令人烦恼又太短，而是在我房间里的运动传感器显示我已离开的那一刻关闭。
-Home Assistant 是最好的开源家庭自动化工具，它支持所有这些，但它需要一些挂钩，以便 PC 告知它当前状态并调用 PC 上的操作。
-现有的解决方案都不能很好地满足我的要求。几年前，我写了一个供个人使用的东西，对我来说效果很好，我在后台运行它，并没有打算进一步使用它。
-在 KDE 目标冲刺期间，另一位用户建议创建一些非常类似的东西（https://phabricator.kde.org/T17435）。这个目标可能不是我选择的，但它确实激励我整理和记录我所拥有的东西，并将其变成一个更充实的项目。
-应用程序
-我制作了一个小型守护进程，名为 Kiot（源自“KDE 物联网”），它将这些信息公开给您的家庭自动化软件。
-这是预 alpha 软件，没有 GUI 配置，它依赖于手动设置配置文件来指向您的家庭自动化服务器。如果有足够的吸引力，我可能会让它更易于打包，并在圣诞节假期创建一个 UI 配置。
-已经交付了一堆传感器和操作，但它包含一个仿插件系统，使扩展变得容易，以及用户提供的脚本的钩子。
-
-用户活动
-锁定状态
-暂停/电源操作
-相机正在使用
-强调色
-任意脚本
-快捷方式
-夜间模式抑制
-
-从 Home Assistant 使用它尽可能简单。
-
-
-查看
-可以在 https://github.com/davidedmundson/kiot 找到存储库，其中包含设置说明如果您想制作任何其他插件，请参阅开发人员文档（https://github.com/davidedmundson/kiot/blob/master/DEVELOPMENT.md）。]]></description>
-      <guid>http://blog.davidedmundson.co.uk/blog/adding-home-automation-to-kde/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 03 Jan 2025 09:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
