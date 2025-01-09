@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 09 Jan 2025 03:50:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 13:39:12 GMT</lastBuildDate>
+    <item>
+      <title>考古学家刚刚绘制了佐治亚州一座青铜时代的巨型堡垒的地图</title>
+      <link>https://arstechnica.com/science/2025/01/archaeologists-just-mapped-a-bronze-age-megafortress-in-georgia/</link>
+      <description><![CDATA[这座最近绘制的青铜时代堡垒只是数百座堡垒中的一座。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/archaeologists-just-mapped-a-bronze-age-megafortress-in-georgia/</guid>
+      <pubDate>Thu, 09 Jan 2025 12:00:49 GMT</pubDate>
+    </item>
     <item>
       <title>骗子们如何操纵 Google 来推广可疑的 Chrome 扩展程序</title>
       <link>https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>在法学硕士课程中引入新的医学错误信息非常容易</title>
       <link>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</link>
-      <description><![CDATA[只要将 0.001% 的输入改为错误信息，就会降低人工智能的准确性。]]></description>
+      <description><![CDATA[仅将 0.001% 的输入更改为错误信息就会降低人工智能的准确性。]]></description>
       <guid>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</guid>
       <pubDate>Wed, 08 Jan 2025 22:58:45 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[配件制造商表示，CES 上的 3D 模型源自实际的游戏机。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</guid>
       <pubDate>Wed, 08 Jan 2025 17:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>配置错误的车牌读取器正在实时泄露数据和视频</title>
-      <link>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</link>
-      <description><![CDATA[至少 150 台摩托罗拉车牌阅读器的视频源无需密码即可访问。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:52:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
