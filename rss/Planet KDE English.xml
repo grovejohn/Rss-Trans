@@ -4,7 +4,7 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 09 Jan 2025 16:43:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 18:44:20 GMT</lastBuildDate>
     <item>
       <title>VS Code Qt 扩展包 1.2.0 发布</title>
       <link>https://www.qt.io/blog/vs-code-qt-extension-pack-1.2.0-released?utm_source=atom_feed</link>
@@ -50,7 +50,7 @@ Kubuntu：
       <pubDate>Thu, 09 Jan 2025 13:24:03 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Gear 24.12.1</title>
+      <title>KDE 齿轮 24.12.1</title>
       <link>https://kde.org/announcements/gear/24.12.1/?utm_source=atom_feed</link>
       <description><![CDATA[作为 KDE Gear 的一部分，超过 180 个独立程序以及数十个程序员库和功能插件同时发布。
 今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
@@ -91,7 +91,7 @@ Spectacle
     <item>
       <title>Plasma Wayland 协议 1.16.0</title>
       <link>https://blogs.kde.org/2025/01/09/plasma-wayland-protocols-1.16.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Plasma Wayland Protocols 1.16.0 现已可供打包。即将推出的 KDE 框架需要它。
+      <description><![CDATA[Plasma Wayland Protocols 1.16.0 现已可供打包。即将推出的 Plasma 6.3 需要它。
 URL： https://download.kde.org/stable/plasma-wayland-protocols/ 
 SHA256： da3fbbe3fa5603f9dc9aabe948a6fc8c3b451edd1958138628e96c83649c1f16
 签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
