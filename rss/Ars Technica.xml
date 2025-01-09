@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 08 Jan 2025 23:14:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 01:10:46 GMT</lastBuildDate>
     <item>
-      <title>末日战士闯入艺术画廊，礼貌地啜饮葡萄酒</title>
+      <title>骗子们如何操纵 Google 来推广可疑的 Chrome 扩展程序</title>
+      <link>https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/</link>
+      <description><![CDATA[如何将 18,000 个关键词放入描述中？其实很简单。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/googles-chrome-web-store-has-a-serious-spam-problem-promoting-shady-extensions/</guid>
+      <pubDate>Wed, 08 Jan 2025 23:46:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>意大利购买星链数据计划对欧洲太空网络造成严重打击</title>
+      <link>https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/</link>
+      <description><![CDATA[“如果我们团结一致并捍卫我们的基础设施，我们就会强大。”]]></description>
+      <guid>https://arstechnica.com/space/2025/01/italian-interest-in-starlink-strikes-at-the-heart-of-european-space-solidarity/</guid>
+      <pubDate>Wed, 08 Jan 2025 23:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在法学硕士课程中引入新的医学错误信息非常容易</title>
+      <link>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</link>
+      <description><![CDATA[只要将 0.001% 的输入改为错误信息，就会降低人工智能的准确性。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</guid>
+      <pubDate>Wed, 08 Jan 2025 22:58:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>高档版《毁灭战士》重制版将电锯换成奶酪刀</title>
       <link>https://arstechnica.com/gaming/2025/01/doom-marine-crashes-art-gallery-politely-sips-wine/</link>
       <description><![CDATA[1993 年经典电影的翻拍让您可以一边喝葡萄酒、吃开胃小菜，一边欣赏艺术史上的杰作。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/doom-marine-crashes-art-gallery-politely-sips-wine/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[至少 150 台摩托罗拉车牌阅读器的视频源无需密码即可访问。]]></description>
       <guid>https://arstechnica.com/security/2025/01/misconfigured-license-plate-readers-are-leaking-data-and-video-in-real-time/</guid>
       <pubDate>Wed, 08 Jan 2025 17:52:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告称，欧盟“大力”调查 X 上的虚假信息和右翼偏见</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/eu-energetically-probing-disinformation-right-wing-bias-on-x-report-says/</link>
-      <description><![CDATA[埃隆·马斯克进一步涉足全球右翼政治，引起欧盟的警惕。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/eu-energetically-probing-disinformation-right-wing-bias-on-x-report-says/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:37:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>本田在 CES 上展示“接近量产”的电动汽车和新操作系统</title>
-      <link>https://arstechnica.com/cars/2025/01/after-partnerships-with-gm-and-sony-here-are-hondas-next-homegrown-evs/</link>
-      <description><![CDATA[本田 Zero SUV 将于 2026 年开始在俄亥俄州生产。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/after-partnerships-with-gm-and-sony-here-are-hondas-next-homegrown-evs/</guid>
-      <pubDate>Wed, 08 Jan 2025 16:13:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国出现首例 H5N1 禽流感死亡病例 世卫组织和疾病预防控制中心称风险仍然很低</title>
-      <link>https://arstechnica.com/science/2025/01/as-us-marks-first-h5n1-bird-flu-death-who-and-cdc-say-risk-remains-low/</link>
-      <description><![CDATA[未发现人际传播，也没有发现令人担忧的变异。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/as-us-marks-first-h5n1-bird-flu-death-who-and-cdc-say-risk-remains-low/</guid>
-      <pubDate>Tue, 07 Jan 2025 23:14:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
