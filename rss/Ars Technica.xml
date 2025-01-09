@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 09 Jan 2025 13:39:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 17:13:54 GMT</lastBuildDate>
+    <item>
+      <title>Intuitive Machines 准备第二次登陆月球，希望建立月球经济</title>
+      <link>https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/</link>
+      <description><![CDATA[“你不能抛弃与月球有关的一切然后前往火星。”]]></description>
+      <guid>https://arstechnica.com/space/2025/01/intuitive-machines-set-for-second-landing-looking-to-build-a-lunar-economy/</guid>
+      <pubDate>Thu, 09 Jan 2025 15:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年电动汽车税收抵免规则变化，赢家和输家</title>
+      <link>https://arstechnica.com/cars/2025/01/winners-and-losers-as-the-ev-tax-credit-rules-change-for-2025/</link>
+      <description><![CDATA[目前有 27 辆电动汽车符合税收抵免资格，高于 2024 年的 24 辆。]]></description>
+      <guid>https://arstechnica.com/cars/2025/01/winners-and-losers-as-the-ev-tax-credit-rules-change-for-2025/</guid>
+      <pubDate>Thu, 09 Jan 2025 15:30:04 GMT</pubDate>
+    </item>
     <item>
       <title>考古学家刚刚绘制了佐治亚州一座青铜时代的巨型堡垒的地图</title>
       <link>https://arstechnica.com/science/2025/01/archaeologists-just-mapped-a-bronze-age-megafortress-in-georgia/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>在法学硕士课程中引入新的医学错误信息非常容易</title>
       <link>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</link>
-      <description><![CDATA[仅将 0.001% 的输入更改为错误信息就会降低人工智能的准确性。]]></description>
+      <description><![CDATA[只要将 0.001% 的输入改为错误信息，就会降低人工智能的准确性。]]></description>
       <guid>https://arstechnica.com/science/2025/01/its-remarkably-easy-to-inject-new-medical-misinformation-into-llms/</guid>
       <pubDate>Wed, 08 Jan 2025 22:58:45 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[如果您愿意调整自己的方法，生成模型将会非常有用。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/how-i-program-with-llms/</guid>
       <pubDate>Wed, 08 Jan 2025 19:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局将火星样本返回的决定推迟到特朗普政府</title>
-      <link>https://arstechnica.com/science/2025/01/fund-or-cancel-robots-or-humans-nasa-punts-on-mars-sample-return-decision/</link>
-      <description><![CDATA[“我们希望以最快、最便宜的方式取回这 30 个样本。”]]></description>
-      <guid>https://arstechnica.com/science/2025/01/fund-or-cancel-robots-or-humans-nasa-punts-on-mars-sample-return-decision/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:44:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>新视频展示了更大的 Nintendo Switch 2 和可卡入式 Joy-Cons</title>
-      <link>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</link>
-      <description><![CDATA[配件制造商表示，CES 上的 3D 模型源自实际的游戏机。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/01/our-best-look-yet-at-the-switch-2s-expanded-size-and-snap-on-joy-cons/</guid>
-      <pubDate>Wed, 08 Jan 2025 17:57:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
