@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 10 Jan 2025 22:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 01:11:26 GMT</lastBuildDate>
+    <item>
+      <title>微软起诉该服务利用其 AI 平台创建非法内容</title>
+      <link>https://arstechnica.com/security/2025/01/microsoft-sues-service-for-creating-illicit-content-with-its-ai-platform/</link>
+      <description><![CDATA[服务使用未记录的 API 和其他技巧来绕过安全护栏。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/microsoft-sues-service-for-creating-illicit-content-with-its-ai-platform/</guid>
+      <pubDate>Fri, 10 Jan 2025 23:10:57 GMT</pubDate>
+    </item>
     <item>
       <title>洛杉矶发生毁灭性山火，宣布进入公共卫生紧急状态</title>
       <link>https://arstechnica.com/health/2025/01/public-health-emergency-declared-amid-las-devastating-wildfires/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 10 Jan 2025 20:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>火箭报道：中国启动加油演示；国防部对高超音速技术兴趣浓厚</title>
+      <title>火箭报道：中国启动加油演示；国防部对高超音速技术有着巨大兴趣</title>
       <link>https://arstechnica.com/space/2025/01/rocket-report-china-launches-refueling-demo-dods-big-appetite-for-hypersonics/</link>
       <description><![CDATA[再过几天，我们就会迎来双倍剂量的重型火箭发射。]]></description>
       <guid>https://arstechnica.com/space/2025/01/rocket-report-china-launches-refueling-demo-dods-big-appetite-for-hypersonics/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[由于 AGI 讨论引发人们对失业的担忧，新的 WEF 报告预测到 2030 年人工智能将推动净就业增长。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/ai-could-create-78-million-more-jobs-than-it-eliminates-by-2030-report/</guid>
       <pubDate>Fri, 10 Jan 2025 17:52:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>热门聊天 GPT 驱动的哨戒枪被 OpenAI 关闭</title>
-      <link>https://arstechnica.com/ai/2025/01/viral-chatgpt-powered-sentry-gun-gets-shut-down-by-openai/</link>
-      <description><![CDATA[但实际的自主人工智能武器系统更加可怕。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/viral-chatgpt-powered-sentry-gun-gets-shut-down-by-openai/</guid>
-      <pubDate>Fri, 10 Jan 2025 17:07:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
