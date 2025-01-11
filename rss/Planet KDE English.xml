@@ -4,7 +4,36 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jan 2025 18:41:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 20:36:23 GMT</lastBuildDate>
+    <item>
+      <title>Amarok 3.2.1 发布</title>
+      <link>https://blogs.kde.org/2025/01/11/amarok-3.2.1-released/?utm_source=atom_feed</link>
+      <description><![CDATA[Amarok 开发小组很高兴地宣布 Amarok 3.2.1 现已推出，这是 Amarok 3.2 &quot;Punkadiddle&quot;
+3.2.1 修复了一些小的 UI 错误，改进了文件传输到 MTP 设备，并针对不同组合的 Qt6 版本和编译器进行了一些编译修复，从而可以更轻松地测试 Qt6 版本。
+此外，现在理论上可以在 Qt6 版本中启用 last.fm 和 gpodder.net 支持。但是，这需要 liblastfm 和 libmygpo-qt 中的 Qt6 支持；此功能尚未包含在库的最新发布版本中。
+自 3.2.0 以来的更改
+更改：
+
+在 Qt6 版本中支持 gpodder 和 lastfm
+当上下文视图较窄时，进一步限制当前曲目的最大字体大小
+
+BUGFIXES：
+
+修复 Internet 服务的设置按钮显示问题
+在 Qt6 版本中启用 Wikipedia 上下文小程序
+将多个文件复制到 MTP 设备时不会崩溃 (BR 467616)
+避免不必要地用存储容量查询淹没 MTP 设备
+针对各种编译器 + Qt6 版本组合的编译修复
+
+获取 Amarok
+除了 源代码 之外，Amarok 还可以从许多发行版的软件包存储库安装，这些存储库可能很快就会更新到 3.2.1，以及 flathub 上提供的 flatpak。
+打包程序部分
+您可以在
+download.kde.org 上找到 tarball 包
+并且它已使用 Tuomas Nurmi 的 GPG 密钥 签名。]]></description>
+      <guid>https://blogs.kde.org/2025/01/11/amarok-3.2.1-released/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 11 Jan 2025 19:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：Plasma 6.3 最终功能</title>
       <link>https://blogs.kde.org/2025/01/11/this-week-in-plasma-final-plasma-6.3-features/?utm_source=atom_feed</link>
@@ -22,7 +51,7 @@
 KCrash：一个 KDE 框架，执行崩溃拦截和准备移交给…
 coredumpd：一个 systemd 组件，执行进程核心收集和移交给…
 DrKonqi：一个用于崩溃的 GUI，将数据发送到…
-Sentry：用于跟踪和呈现崩溃的 Web 服务和 UI，供开发人员使用
+Sentry：用于跟踪和向开发人员呈现崩溃的 Web 服务和 UI
 
 我们已经研究过 KCrash、coredumpd 和 DrKonqi。本周是时候看看拼图的最后一块了 — Sentry。
 Sentry
@@ -115,7 +144,7 @@ telly-skout：加快程序描述更新 (提交，修复错误#497954)
       <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Plasma 6.3 测试版发布</title>
+      <title>KDE Plasma 6.3 Beta 版发布</title>
       <link>https://kde.org/announcements/plasma/6/6.2.90/?utm_source=atom_feed</link>
       <description><![CDATA[以下是 Plasma 6.3 测试版中可用的新模块：
 Spectacle
@@ -149,13 +178,6 @@ SHA256： da3fbbe3fa5603f9dc9aabe948a6fc8c3b451edd1958138628e96c83649c1f16
 ]]></description>
       <guid>https://blogs.kde.org/2025/01/09/plasma-wayland-protocols-1.16.0/?utm_source=atom_feed</guid>
       <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KWin 中的 HDR 和色彩管理，第 6 部分：修复夜灯</title>
-      <link>https://zamundaaa.github.io/wayland,/colormanagement/2025/01/07/fixing-night-light.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://zamundaaa.github.io/wayland,/colormanagement/2025/01/07/fixing-night-light.html?utm_source=atom_feed</guid>
-      <pubDate>Tue, 07 Jan 2025 20:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
