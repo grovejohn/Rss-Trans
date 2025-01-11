@@ -4,7 +4,17 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jan 2025 20:36:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 22:37:22 GMT</lastBuildDate>
+    <item>
+      <title>接受 Tech Over Tea 采访，谈论筹款、资金和设计</title>
+      <link>https://pointieststick.com/2025/01/11/interview-on-tech-over-tea-about-fundraising-money-and-design/?utm_source=atom_feed</link>
+      <description><![CDATA[我最近再次与 Brodie Robertson 坐下来，参加他的Tech Over Tea 节目，这次讨论的主题是 KDE 最近的筹款活动、金钱在开源中的作用以及设计（我总是忍不住要谈论这个）。如果您对这些主题感兴趣，请查看！
+
+
+]]></description>
+      <guid>https://pointieststick.com/2025/01/11/interview-on-tech-over-tea-about-fundraising-money-and-design/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 11 Jan 2025 20:42:43 GMT</pubDate>
+    </item>
     <item>
       <title>Amarok 3.2.1 发布</title>
       <link>https://blogs.kde.org/2025/01/11/amarok-3.2.1-released/?utm_source=atom_feed</link>
@@ -42,6 +52,27 @@ download.kde.org 上找到 tarball 包
       <pubDate>Sat, 11 Jan 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Skrooge 25.1.0 发布</title>
+      <link>https://skrooge.org/news/2025-01-11-skrooge_25.1.0_released/?utm_source=atom_feed</link>
+      <description><![CDATA[Skrooge 团队宣布发布基于 KDE 框架 的热门个人财务管理器 25.1.0 版本。
+这是 Kf6/Qt6 的第一个版本。
+变更日志
+
+修正错误 494197：将状态设置为已选中的快捷方式
+修正错误 494159：CSV 导入中的小数分隔符错误
+修正错误 494516：类别“已关闭”不显示
+更正错误 494023：从 yahoo 下载值失败 HTTP 错误 401：未经授权
+更正错误 494077：文档历史记录面板和更好的文档查看由操作修改的交易
+更正错误 498157：页面侧边栏中的图标不一致
+更正：用 boursorama 源替换 yahoo 源（不工作）
+更正：更强大的表格副本
+迁移：支持 qt6/kf6 上的构建
+更正：修复由于 QDateTime::fromString 导致的 qt6 上的性能问题
+]]></description>
+      <guid>https://skrooge.org/news/2025-01-11-skrooge_25.1.0_released/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>等离子速成课程 - Sentry</title>
       <link>https://kde.haraldsitter.eu/posts/plasma-crash-course-sentry/?utm_source=atom_feed</link>
       <description><![CDATA[不久前，我的一位同事询问了我们在 Plasma 中的崩溃基础设施
@@ -51,7 +82,7 @@ download.kde.org 上找到 tarball 包
 KCrash：一个 KDE 框架，执行崩溃拦截和准备移交给…
 coredumpd：一个 systemd 组件，执行进程核心收集和移交给…
 DrKonqi：一个用于崩溃的 GUI，将数据发送到…
-Sentry：用于跟踪和向开发人员呈现崩溃的 Web 服务和 UI
+Sentry：用于跟踪和呈现崩溃的 Web 服务和 UI，供开发人员使用
 
 我们已经研究过 KCrash、coredumpd 和 DrKonqi。本周是时候看看拼图的最后一块了 — Sentry。
 Sentry
@@ -153,30 +184,6 @@ Spectacle
 
 查看完整更新日志]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.2.90/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 发布框架 6.10.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.10.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.10.0/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plasma Wayland 协议 1.16.0</title>
-      <link>https://blogs.kde.org/2025/01/09/plasma-wayland-protocols-1.16.0/?utm_source=atom_feed</link>
-      <description><![CDATA[Plasma Wayland Protocols 1.16.0 现已可供打包。即将推出的 Plasma 6.3 需要它。
-URL： https://download.kde.org/stable/plasma-wayland-protocols/ 
-SHA256： da3fbbe3fa5603f9dc9aabe948a6fc8c3b451edd1958138628e96c83649c1f16
-签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18D Jonathan Riddell jr@jriddell.org
-完整更新日志：
-
-外部亮度：允许客户端指定观察到的亮度
-输出管理：添加故障原因事件
-输出设备管理：添加调光乘数
-输出设备/管理：添加功率/性能与色彩精度偏好
-]]></description>
-      <guid>https://blogs.kde.org/2025/01/09/plasma-wayland-protocols-1.16.0/?utm_source=atom_feed</guid>
       <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
