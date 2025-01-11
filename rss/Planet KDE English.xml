@@ -4,7 +4,14 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 11 Jan 2025 02:35:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 08:39:07 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：Plasma 6.3 最终功能</title>
+      <link>https://blogs.kde.org/2025/01/11/this-week-in-plasma-final-plasma-6.3-features/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/01/11/this-week-in-plasma-final-plasma-6.3-features/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 11 Jan 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>等离子速成课程 - Sentry</title>
       <link>https://kde.haraldsitter.eu/posts/plasma-crash-course-sentry/?utm_source=atom_feed</link>
@@ -15,7 +22,7 @@
 KCrash：一个 KDE 框架，执行崩溃拦截和准备移交给…
 coredumpd：一个 systemd 组件，执行进程核心收集和移交给…
 DrKonqi：一个用于崩溃的 GUI，将数据发送到…
-Sentry：用于跟踪和向开发人员呈现崩溃的 Web 服务和 UI
+Sentry：用于跟踪和呈现崩溃的 Web 服务和 UI，供开发人员使用
 
 我们已经研究过 KCrash、coredumpd 和 DrKonqi。本周是时候看看拼图的最后一块了 — Sentry。
 Sentry
@@ -149,20 +156,6 @@ SHA256： da3fbbe3fa5603f9dc9aabe948a6fc8c3b451edd1958138628e96c83649c1f16
       <description><![CDATA[]]></description>
       <guid>https://zamundaaa.github.io/wayland,/colormanagement/2025/01/07/fixing-night-light.html?utm_source=atom_feed</guid>
       <pubDate>Tue, 07 Jan 2025 20:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kwave Nightly Flatpak</title>
-      <link>https://markpenner.space/blog/2025-01-06-kwave-flatpak/?utm_source=atom_feed</link>
-      <description><![CDATA[Kwave Nightly Flatpak
-如果您想跟上最新的 Kwave 更新，您现在可以试用 nightly flatpak。每次将代码推送到主分支时，它都会发布，因此有时可能会有错误，但也会提供新功能。要试用它，请通过运行 flatpak remote-add kwave-nightly https://cdn.kde.org/flatpak/kwave-nightly/kwave-nightly.flatpakrepo 添加存储库，并使用 flatpak install kwave-nightly org.kde.kwave 安装 Kwave。如果您使用发现，请转到
-设置，单击添加源并粘贴
-https://cdn.kde.org/flatpak/kwave-nightly/kwave-nightly.flatpakrepo以添加存储库，然后
-搜索 Kwave。
-向 Flathub 发布稳定版本的过程也已
-开始。目前的计划是等待下一个
-稳定版本 (25.04) 在 Flathub 上发布 Kwave。]]></description>
-      <guid>https://markpenner.space/blog/2025-01-06-kwave-flatpak/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 07 Jan 2025 04:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
