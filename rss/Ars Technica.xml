@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Sun, 12 Jan 2025 01:17:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 12:55:58 GMT</lastBuildDate>
+    <item>
+      <title>利用全光学人工智能来处理非线性数学</title>
+      <link>https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/</link>
+      <description><![CDATA[为什么不去处理光子，而是去感知光子并处理结果呢？]]></description>
+      <guid>https://arstechnica.com/science/2025/01/getting-an-all-optical-ai-to-handle-non-linear-math/</guid>
+      <pubDate>Sun, 12 Jan 2025 12:07:16 GMT</pubDate>
+    </item>
     <item>
       <title>新格伦火箭已抵达发射台，等待平静的海面着陆</title>
       <link>https://arstechnica.com/space/2025/01/new-glenn-rocket-is-at-the-launch-pad-waiting-for-calm-seas-to-land/</link>
@@ -62,18 +69,11 @@
       <pubDate>Fri, 10 Jan 2025 20:04:06 GMT</pubDate>
     </item>
     <item>
-      <title>火箭报道：中国启动加油演示；国防部对高超音速技术有着巨大兴趣</title>
+      <title>火箭报道：中国启动加油演示；国防部对高超音速技术兴趣浓厚</title>
       <link>https://arstechnica.com/space/2025/01/rocket-report-china-launches-refueling-demo-dods-big-appetite-for-hypersonics/</link>
       <description><![CDATA[再过几天，我们就会迎来双倍剂量的重型火箭发射。]]></description>
       <guid>https://arstechnica.com/space/2025/01/rocket-report-china-launches-refueling-demo-dods-big-appetite-for-hypersonics/</guid>
       <pubDate>Fri, 10 Jan 2025 19:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>德国路由器制造商成为最新一家无意中澄清 LGPL 许可证的公司</title>
-      <link>https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/</link>
-      <description><![CDATA[德国的一个案例明确指出，LGPL 源代码是不够的——它还需要可用。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:58:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
