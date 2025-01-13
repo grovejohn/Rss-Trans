@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Jan 2025 02:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 06:45:33 GMT</lastBuildDate>
     <item>
       <title>本周 KDE 应用程序：可用性改进、新功能和更新的应用程序</title>
       <link>https://blogs.kde.org/2025/01/12/this-week-in-kde-apps-usability-improvements-new-features-and-updated-apps/?utm_source=atom_feed</link>
@@ -50,7 +50,7 @@ BUGFIXES：
 针对各种编译器 + Qt6 版本组合的编译修复
 
 获取 Amarok
-除了 源代码 之外，Amarok 还可以从许多发行版的软件包存储库安装，这些存储库可能很快就会更新到 3.2.1，以及 flathub 上提供的 flatpak。
+除了源代码之外，Amarok 还可以从许多发行版的软件包存储库安装，这些存储库可能很快就会更新到 3.2.1，以及flathub上提供的 flatpak。
 打包程序部分
 您可以在
 download.kde.org 上找到 tarball 包
