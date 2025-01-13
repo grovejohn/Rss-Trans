@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 13 Jan 2025 14:40:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 17:14:32 GMT</lastBuildDate>
+    <item>
+      <title>最高法院允许夏威夷就气候变化影响起诉石油公司</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/supreme-court-lets-hawaii-sue-oil-companies-over-climate-change-effects/</link>
+      <description><![CDATA[最高法院不会回答对石油巨头来说“极其重要的反复出现的问题”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/supreme-court-lets-hawaii-sue-oil-companies-over-climate-change-effects/</guid>
+      <pubDate>Mon, 13 Jan 2025 16:27:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国将全球划分为三个层级，争夺人工智能芯片市场</title>
+      <link>https://arstechnica.com/ai/2025/01/biden-administration-puts-quotas-on-global-ai-chip-sales/</link>
+      <description><![CDATA[虽然美国的亲密盟友可以不受限制地使用人工智能芯片，但世界其他国家却受到数量限制。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/biden-administration-puts-quotas-on-global-ai-chip-sales/</guid>
+      <pubDate>Mon, 13 Jan 2025 16:18:20 GMT</pubDate>
+    </item>
     <item>
       <title>冰冷的通风口线可能是导致蓝色起源取消新格伦号首次发射的原因</title>
       <link>https://arstechnica.com/space/2025/01/an-icy-vent-line-may-have-caused-blue-origin-to-scrub-debut-launch-of-new-glenn/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[托马斯·杨 (Thomas Young) 1807 年讲座中的图表与 af Klint 作品中的抽象图形有着惊人的相似之处。]]></description>
       <guid>https://arstechnica.com/science/2025/01/did-hilma-af-klint-draw-inspiration-from-19th-century-physics/</guid>
       <pubDate>Sat, 11 Jan 2025 11:45:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软起诉该服务利用其 AI 平台创建非法内容</title>
-      <link>https://arstechnica.com/security/2025/01/microsoft-sues-service-for-creating-illicit-content-with-its-ai-platform/</link>
-      <description><![CDATA[服务使用未记录的 API 和其他技巧来绕过安全护栏。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/microsoft-sues-service-for-creating-illicit-content-with-its-ai-platform/</guid>
-      <pubDate>Fri, 10 Jan 2025 23:10:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>洛杉矶发生毁灭性山火，宣布进入公共卫生紧急状态</title>
-      <link>https://arstechnica.com/health/2025/01/public-health-emergency-declared-amid-las-devastating-wildfires/</link>
-      <description><![CDATA[卫生与公众服务部表示，救援人员、医疗设备和物资已准备好部署。]]></description>
-      <guid>https://arstechnica.com/health/2025/01/public-health-emergency-declared-amid-las-devastating-wildfires/</guid>
-      <pubDate>Fri, 10 Jan 2025 21:14:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
