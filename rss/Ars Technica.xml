@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 14 Jan 2025 18:19:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 19:12:06 GMT</lastBuildDate>
     <item>
-      <title>Parallels Desktop 对 Apple Silicon 上的 x86 操作系统的支持“非常慢”</title>
+      <title>在《虫虫危机》第二季中近距离接触锹形虫</title>
+      <link>https://arstechnica.com/science/2025/01/up-close-and-personal-with-the-stag-beetle-in-a-real-bugs-life-s2/</link>
+      <description><![CDATA[这只是国家地理纪录片第二季中介绍的众多迷人昆虫物种之一。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/up-close-and-personal-with-the-stag-beetle-in-a-real-bugs-life-s2/</guid>
+      <pubDate>Tue, 14 Jan 2025 18:43:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parallels 终于可以在 Apple Silicon 上运行 x86 版本的 Windows 或 Linux</title>
       <link>https://arstechnica.com/gadgets/2025/01/parallels-desktop-gains-really-slow-support-for-x86-oses-on-apple-silicon/</link>
       <description><![CDATA[“早期技术预览”前景看好，但目前仍有很多局限性。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/parallels-desktop-gains-really-slow-support-for-x86-oses-on-apple-silicon/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[此次疫情导致14个州至少104人患病，1人死亡，34人住院。]]></description>
       <guid>https://arstechnica.com/health/2025/01/fda-noted-unsanitary-conditions-unwashed-hands-at-mcdonalds-ex-onion-supplier/</guid>
       <pubDate>Mon, 13 Jan 2025 23:44:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mastodon 创始人放弃控制权，拒绝成为下一个马斯克或扎克伯格</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/mastodon-becomes-nonprofit-to-make-sure-its-never-ruined-by-billionaire-ceo/</link>
-      <description><![CDATA[Mastodon 转向非营利性所有权，呼吁捐款 500 万美元以扩大规模。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/mastodon-becomes-nonprofit-to-make-sure-its-never-ruined-by-billionaire-ceo/</guid>
-      <pubDate>Mon, 13 Jan 2025 20:21:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
