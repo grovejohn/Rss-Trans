@@ -4,7 +4,18 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jan 2025 04:39:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 14:38:40 GMT</lastBuildDate>
+    <item>
+      <title>重振 QtNetworkAuth 以满足现代 OAuth2 需求</title>
+      <link>https://www.qt.io/blog/revitalizing-qtnetworkauth-for-modern-oauth2-needs?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Qt Network Authorization 模块于 8 年前在 Qt 5.8 中发布。从那时起，OAuth2 的作用和使用已显著增长。如今，许多人都以某种形式使用 OAuth2；无论是单击“使用...登录”按钮，还是允许您最喜欢的在线绘图应用程序将结果存储在您的云端硬盘上。 
+]]></description>
+      <guid>https://www.qt.io/blog/revitalizing-qtnetworkauth-for-modern-oauth2-needs?utm_source=atom_feed</guid>
+      <pubDate>Wed, 15 Jan 2025 13:08:55 GMT</pubDate>
+    </item>
     <item>
       <title>Tellico 4.1 发布</title>
       <link>https://tellico-project.org/tellico-4-1-released/?utm_source=atom_feed</link>
@@ -98,7 +109,7 @@ BUGFIXES：
 针对各种编译器 + Qt6 版本组合的编译修复
 
 获取 Amarok
-除了 源代码 之外，Amarok 还可以从许多发行版的软件包存储库安装，这些存储库可能很快就会更新到 3.2.1，以及 flathub 上提供的 flatpak。
+除了源代码之外，Amarok 还可以从许多发行版的软件包存储库安装，这些存储库可能很快就会更新到 3.2.1，以及flathub上提供的 flatpak。
 打包程序部分
 您可以在
 download.kde.org 上找到 tarball 包
@@ -133,37 +144,6 @@ download.kde.org 上找到 tarball 包
 ]]></description>
       <guid>https://skrooge.org/news/2025-01-11-skrooge_25.1.0_released/?utm_source=atom_feed</guid>
       <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>等离子速成课程 - Sentry</title>
-      <link>https://kde.haraldsitter.eu/posts/plasma-crash-course-sentry/?utm_source=atom_feed</link>
-      <description><![CDATA[不久前，我的一位同事询问了我们在 Plasma 中的崩溃基础设施
-以及我是否可以对此进行一些概述。我认为这对其他人来说也非常有用。我在这里，向你们讲述这一切！
-我们的崩溃基础设施由许多不同的组件组成。
-
-KCrash：一个 KDE 框架，执行崩溃拦截和准备移交给…
-coredumpd：一个 systemd 组件，执行进程核心收集和移交给…
-DrKonqi：一个用于崩溃的 GUI，将数据发送到…
-Sentry：用于跟踪和向开发人员呈现崩溃的 Web 服务和 UI
-
-我们已经研究过 KCrash、coredumpd 和 DrKonqi。本周是时候看看拼图的最后一块了 — Sentry。
-Sentry
-Sentry 是我们在崩溃开发人员端提供的服务，用于管理传入的报告。
-正如我们在 DrKonqi 帖子中了解到的那样，由 preamble 创建的 Sentry 特定跟踪最终会发送到我们的 Sentry 服务器。在 Sentry 中，还会进行更多处理！
-符号化
-如果用户没有明确选择加入，则用户系统上通常没有可用的调试符号。这通常会使回溯变得毫无用处，因为它们只是一堆没有名称或对源代码的引用的内存地址。
-我们采用 Sentry 的原因之一是因为它可以通过称为符号化的过程填补空白。对于符号化，它本质上需要知道所有已加载的库，然后可以通过各种 debuginfod 实例获取相关的调试符号。一旦有了调试符号，它就可以解析地址 0x2343244 实际上是函数 int main(int argc, char **argv)
-指纹识别
-当跟踪被符号化后，它就可以进行指纹识别了。这会尝试将出现在不同提交中的相同崩溃合并到一个单独的哨兵事件中。一般来说，如果两个提交具有相同的跟踪帧，则它们被视为同一次崩溃并合并为一个事件（实际上，规则有点复杂）。
-结果
-最终崩溃事件会出现，供我们修复。
-在未来的博客文章中，我还将提供更详细的指南，说明如何充分利用 Sentry。
-
-
-
-]]></description>
-      <guid>https://kde.haraldsitter.eu/posts/plasma-crash-course-sentry/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 10 Jan 2025 13:11:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
