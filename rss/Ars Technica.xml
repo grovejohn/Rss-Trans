@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 15 Jan 2025 18:20:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 21:13:22 GMT</lastBuildDate>
+    <item>
+      <title>初创企业的巫术：已注销的 Google Apps 域名可能会被新所有者盗用</title>
+      <link>https://arstechnica.com/security/2025/01/startup-necromancy-dead-google-apps-domains-can-be-compromised-by-new-owners/</link>
+      <description><![CDATA[不正确地关闭 Google Apps 域可能会导致登录信息仍可访问。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/startup-necromancy-dead-google-apps-domains-can-be-compromised-by-new-owners/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:51:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>德克萨斯州向最高法院辩护要求观看色情片需出示身份证：“我们一直都是这么做的”</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</link>
+      <description><![CDATA[专家称，最高法院可能会裁定德克萨斯州对色情内容的年龄限制违宪。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:38:09 GMT</pubDate>
+    </item>
     <item>
       <title>《夜魔侠：重生》预告片现已发布</title>
       <link>https://arstechnica.com/culture/2025/01/the-trailer-for-daredevil-born-again-is-here/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[这是科学家们的推测吗？还是存在科学共识？]]></description>
       <guid>https://arstechnica.com/science/2025/01/is-humanity-alone-in-the-universe-what-scientists-really-think/</guid>
       <pubDate>Wed, 15 Jan 2025 15:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>昨晚地球与月球和火星发生了直线碰撞</title>
-      <link>https://arstechnica.com/space/2025/01/there-was-a-straight-shot-from-earth-to-the-moon-and-mars-last-night/</link>
-      <description><![CDATA[即使在距离地球最近的地方，火星也比月球远 250 倍。]]></description>
-      <guid>https://arstechnica.com/space/2025/01/there-was-a-straight-shot-from-earth-to-the-moon-and-mars-last-night/</guid>
-      <pubDate>Tue, 14 Jan 2025 23:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国联邦调查局强制中国恶意软件从数千台美国计算机中删除</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/fbi-forces-chinese-malware-to-delete-itself-from-thousands-of-us-computers/</link>
-      <description><![CDATA[被征用的服务器向受感染电脑上的恶意软件发送自我删除命令。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/fbi-forces-chinese-malware-to-delete-itself-from-thousands-of-us-computers/</guid>
-      <pubDate>Tue, 14 Jan 2025 22:51:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
