@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Wed, 15 Jan 2025 21:36:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 22:14:25 GMT</lastBuildDate>
+    <item>
+      <title>毕竟，没有多少 Meta 员工需要搬到德克萨斯州</title>
+      <link>https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/</link>
+      <description><![CDATA[马克·扎克伯格表示，加州的内容审核团队将迁往德克萨斯州，以帮助减少偏见。实际上，员工们并不认为会有太多的强制搬迁。]]></description>
+      <guid>https://www.wired.com/story/not-many-meta-employees-move-to-texas-content-moderation/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:46:55 GMT</pubDate>
+    </item>
     <item>
       <title>微软将于 10 月终止对 Windows 10 Office 应用程序的支持</title>
       <link>https://www.wired.com/story/microsoft-is-ending-support-for-office-apps-in-windows-10/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>洛杉矶需要防火的不仅仅是房屋，还有社区</title>
       <link>https://www.wired.com/story/how-to-build-a-fire-resistant-neighborhood/</link>
-      <description><![CDATA[洛杉矶大火造成严重破坏后，官员们已做好重建的准备。但要防范未来的火灾，需要考虑的不仅仅是建筑物。]]></description>
+      <description><![CDATA[洛杉矶大火过后，官员们已做好重建的准备。但要防范未来的火灾，需要考虑的不仅仅是建筑物。]]></description>
       <guid>https://www.wired.com/story/how-to-build-a-fire-resistant-neighborhood/</guid>
       <pubDate>Wed, 15 Jan 2025 18:15:18 GMT</pubDate>
     </item>
@@ -64,16 +71,9 @@
     <item>
       <title>AI 代理已经到来。我们应该让它们做多少事情？</title>
       <link>https://www.wired.com/story/the-prompt-ai-agents-how-much-should-we-let-them-do/</link>
-      <description><![CDATA[《连线》杂志的建议专栏作家打开了该出版物的档案，思考了过去有关人工智能代理的承诺，并获得了有关如何在保留人性的同时使用自动化的一些建议。]]></description>
+      <description><![CDATA[《连线》杂志的建议专栏作家打开了该出版物的档案，思考了过去有关人工智能代理的承诺，并获得了一些关于如何在保留人性的同时使用自动化的建议。]]></description>
       <guid>https://www.wired.com/story/the-prompt-ai-agents-how-much-should-we-let-them-do/</guid>
       <pubDate>Wed, 15 Jan 2025 12:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>你点击的体育新闻可能是人工智能的失误</title>
-      <link>https://www.wired.com/story/ai-slop-sports-news-sites/</link>
-      <description><![CDATA[一份与《连线》杂志独家分享的新报告展示了拥有数百个网站的人工智能内容工厂如何成功将知名广告商拉入他们的计划。]]></description>
-      <guid>https://www.wired.com/story/ai-slop-sports-news-sites/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
