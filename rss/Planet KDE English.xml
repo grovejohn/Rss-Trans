@@ -1,10 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Jan 2025 14:38:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 22:37:06 GMT</lastBuildDate>
+    <item>
+      <title>升级家庭助理</title>
+      <link>http://www.thelins.se/johan/blog/2025/01/upgrading-home-assistant/?utm_source=atom_feed</link>
+      <description><![CDATA[我在 Raspberry Pi 上运行 Home Assistant Core。我将其安装在 Python venv 中，时不时地我感觉需要升级。今天就是这样的一天。
+因此，在备份了所有内容后，我开始尝试。让我们安装版本 2025.1.2。
+通常的流程是这样的：
+sudo systemctl stop homeassistant
+sudo su homeassistant
+cd /opt/homeassistant
+source bin/activate
+pip install --upgrade homeassistant
+exit
+sudo systemctl start homeassistant
+然后所有依赖项都安装完毕，所以我通常会去喝杯咖啡，等一切安顿下来后（我使用 top 检查系统是否空闲），我通常会重新启动 homeassistance，以确保它能正常停止和启动。
+这次，我没有那么幸运。有很多小问题。主要问题似乎是核心模块之一中的 import av 遭遇了某种 ValueError 异常。
+经过一段时间的思考，我意识到这意味着我必须将 Python 3.12 升级到 3.13。使用 pip 将 va 升级到版本 14.x 并没有帮助。因为我总是忘记怎么做，所以我现在写了这篇博文。
+回想一下这些步骤，步骤大致如下：
+sudo apt-get install python3.13 python3.13-venv python3.13-dev
+sudo systemctl stop homeassistant
+sudo su homeassistant
+cd /opt/homeassistant
+mkdir old
+mv bin/ cache/ include/ lib/ lib64 LICENSE pyvenv.cfg share/ old
+python3.13 -m venv .
+source bin/activate
+pip install homeassistant
+exit
+sudo systemctl start homeassistant
+再次，重新启动 Home Assistant 需要一段时间，因为所有依赖项都已构建。去吃点零食或只是安静地喝杯咖啡，瞧，你最终会得到全新安装的 Home Assistant 版本 2025.1.2
+]]></description>
+      <guid>http://www.thelins.se/johan/blog/2025/01/upgrading-home-assistant/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 15 Jan 2025 21:19:15 GMT</pubDate>
+    </item>
     <item>
       <title>重振 QtNetworkAuth 以满足现代 OAuth2 需求</title>
       <link>https://www.qt.io/blog/revitalizing-qtnetworkauth-for-modern-oauth2-needs?utm_source=atom_feed</link>
@@ -109,7 +142,7 @@ BUGFIXES：
 针对各种编译器 + Qt6 版本组合的编译修复
 
 获取 Amarok
-除了源代码之外，Amarok 还可以从许多发行版的软件包存储库安装，这些存储库可能很快就会更新到 3.2.1，以及flathub上提供的 flatpak。
+除了 源代码 之外，Amarok 还可以从许多发行版的软件包存储库安装，这些存储库可能很快就会更新到 3.2.1，以及 flathub 上提供的 flatpak。
 打包程序部分
 您可以在
 download.kde.org 上找到 tarball 包
@@ -123,27 +156,6 @@ download.kde.org 上找到 tarball 包
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/01/11/this-week-in-plasma-final-plasma-6.3-features/?utm_source=atom_feed</guid>
       <pubDate>Sat, 11 Jan 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Skrooge 25.1.0 发布</title>
-      <link>https://skrooge.org/news/2025-01-11-skrooge_25.1.0_released/?utm_source=atom_feed</link>
-      <description><![CDATA[Skrooge 团队宣布发布基于 KDE 框架 的热门个人财务管理器 25.1.0 版本。
-这是 Kf6/Qt6 的第一个版本。
-变更日志
-
-修正错误 494197：将状态设置为已选中的快捷方式
-修正错误 494159：CSV 导入中的小数分隔符错误
-修正错误 494516：类别“已关闭”不显示
-更正错误 494023：从 yahoo 下载值失败 HTTP 错误 401：未经授权
-更正错误 494077：文档历史记录面板和更好的文档查看由操作修改的交易
-更正错误 498157：页面侧边栏中的图标不一致
-更正：用 boursorama 源替换 yahoo 源（不工作）
-更正：更强大的表格副本
-迁移：支持 qt6/kf6 上的构建
-更正：修复由于 QDateTime::fromString 导致的 qt6 上的性能问题
-]]></description>
-      <guid>https://skrooge.org/news/2025-01-11-skrooge_25.1.0_released/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 11 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
