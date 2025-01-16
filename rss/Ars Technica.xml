@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 16 Jan 2025 09:15:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 13:37:40 GMT</lastBuildDate>
+    <item>
+      <title>微软修补 Windows 以消除安全启动绕过威胁</title>
+      <link>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</link>
+      <description><![CDATA[阉割安全启动的文件通过了微软的内部审查流程。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChargePoint 开发不可剪断的充电线以防小偷</title>
+      <link>https://arstechnica.com/cars/2025/01/chargepoint-develops-uncuttable-charging-cables-to-stop-thieves/</link>
+      <description><![CDATA[ChargePoint 的首席执行官对这个问题感到非常厌烦，他开始制作原型。]]></description>
+      <guid>https://arstechnica.com/cars/2025/01/chargepoint-develops-uncuttable-charging-cables-to-stop-thieves/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>编辑们将维基百科的志愿者编织成一个全球悬疑故事</title>
+      <link>https://arstechnica.com/gadgets/2025/01/the-editors-weaves-wikipedias-volunteers-into-a-global-suspense-tale/</link>
+      <description><![CDATA[小说为维基百科专家提供了探索一个小而强大的社区的空间。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/the-editors-weaves-wikipedias-volunteers-into-a-global-suspense-tale/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:22:18 GMT</pubDate>
+    </item>
     <item>
       <title>蓝色起源巨型新格伦火箭首次飞行，成功入轨</title>
       <link>https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>开发完全可重复使用火箭的公司筹集了 2.5 亿美元</title>
       <link>https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/</link>
-      <description><![CDATA[“与投资者的对话与五年前相比有很大不同。”]]></description>
+      <description><![CDATA[“与五年前相比，这次与投资者的对话截然不同。”]]></description>
       <guid>https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/</guid>
       <pubDate>Wed, 15 Jan 2025 16:54:46 GMT</pubDate>
     </item>
@@ -53,27 +74,6 @@
       <description><![CDATA[现在，它可以在制作物理测试轮胎之前在动态模拟中试用新轮胎。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/tire-simulation-is-so-good-its-replacing-real-world-testing/</guid>
       <pubDate>Wed, 15 Jan 2025 16:23:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>SEC 起诉埃隆·马斯克，称他骗取了 Twitter 投资者 1.5 亿美元</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/sec-sues-elon-musk-says-he-cheated-twitter-investors-out-of-150-million/</link>
-      <description><![CDATA[SEC：延迟披露帮助马斯克以 1.5 亿美元的折扣购买了 Twitter 股票。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/sec-sues-elon-musk-says-he-cheated-twitter-investors-out-of-150-million/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员利用人工智能设计阻断蛇毒毒素的蛋白质</title>
-      <link>https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/</link>
-      <description><![CDATA[这是计算机发展如何应用于解决实际问题的一个很好的例子。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/researchers-use-ai-to-design-proteins-that-block-snake-venom-toxins/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 让我们更接近《星际迷航》的通用翻译器</title>
-      <link>https://arstechnica.com/science/2025/01/meta-takes-us-a-step-closer-to-star-treks-universal-translator/</link>
-      <description><![CDATA[从 100 种源语言翻译语音背后的计算机科学。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/meta-takes-us-a-step-closer-to-star-treks-universal-translator/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:00:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
