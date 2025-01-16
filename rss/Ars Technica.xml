@@ -4,7 +4,35 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 16 Jan 2025 13:37:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 15:15:48 GMT</lastBuildDate>
+    <item>
+      <title>比特币价格逼近 10 万美元，甚至养老基金也在购买加密货币</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/with-bitcoin-over-100000-even-pension-funds-are-buying-cryptocurrency/</link>
+      <description><![CDATA[密歇根州和威斯康星州的州雇员养老基金位列最大持有者之列。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/with-bitcoin-over-100000-even-pension-funds-are-buying-cryptocurrency/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:32:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>英特尔 Arc B570 评测：219 美元，最便宜的优质显卡</title>
+      <link>https://arstechnica.com/gadgets/2025/01/intel-arc-b570-review-at-219-the-cheapest-good-graphics-card/</link>
+      <description><![CDATA[与 4060 具有竞争力，具有 10GB RAM 且价格更低（如果您能买到的话）。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/intel-arc-b570-review-at-219-the-cheapest-good-graphics-card/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>《文明 VII》预览：自《文明 IV》以来最完整的游戏</title>
+      <link>https://arstechnica.com/gaming/2025/01/civilization-vii-preview-a-new-age-for-a-storied-franchise/</link>
+      <description><![CDATA[15 小时过去了，它似乎对《文明 VI》的失误有所改进。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/civilization-vii-preview-a-new-age-for-a-storied-franchise/</guid>
+      <pubDate>Thu, 16 Jan 2025 14:00:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>官方消息：先睹为快 Switch 2</title>
+      <link>https://arstechnica.com/gaming/2025/01/its-official-take-a-first-look-at-the-switch-2/</link>
+      <description><![CDATA[更大的屏幕和 Joy-Cons、新的Mario Kart和鼠标模式？]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/its-official-take-a-first-look-at-the-switch-2/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:54:43 GMT</pubDate>
+    </item>
     <item>
       <title>微软修补 Windows 以消除安全启动绕过威胁</title>
       <link>https://arstechnica.com/security/2025/01/microsoft-patches-windows-to-eliminate-secure-boot-bypass-threat/</link>
@@ -46,34 +74,6 @@
       <description><![CDATA[专家称，最高法院可能会裁定德克萨斯州对色情内容的年龄限制违宪。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</guid>
       <pubDate>Wed, 15 Jan 2025 19:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>《夜魔侠：重生》预告片现已发布</title>
-      <link>https://arstechnica.com/culture/2025/01/the-trailer-for-daredevil-born-again-is-here/</link>
-      <description><![CDATA[“这座城市不能不受控制。有时和平需要被打破。混乱必须盛行。”]]></description>
-      <guid>https://arstechnica.com/culture/2025/01/the-trailer-for-daredevil-born-again-is-here/</guid>
-      <pubDate>Wed, 15 Jan 2025 17:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发完全可重复使用火箭的公司筹集了 2.5 亿美元</title>
-      <link>https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/</link>
-      <description><![CDATA[“与五年前相比，这次与投资者的对话截然不同。”]]></description>
-      <guid>https://arstechnica.com/space/2025/01/stoke-space-raises-a-ton-of-money-as-it-moves-closer-to-debut-launch/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>此 PDF 包含可玩的 Doom 副本</title>
-      <link>https://arstechnica.com/gaming/2025/01/this-pdf-contains-a-playable-copy-of-doom/</link>
-      <description><![CDATA[Adobe Acrobat 很少使用的 JavaScript 支持在 Chromium 浏览器中被利用。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/01/this-pdf-contains-a-playable-copy-of-doom/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>轮胎模拟效果非常好，可以取代真实世界的测试</title>
-      <link>https://arstechnica.com/cars/2025/01/tire-simulation-is-so-good-its-replacing-real-world-testing/</link>
-      <description><![CDATA[现在，它可以在制作物理测试轮胎之前在动态模拟中试用新轮胎。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/tire-simulation-is-so-good-its-replacing-real-world-testing/</guid>
-      <pubDate>Wed, 15 Jan 2025 16:23:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
