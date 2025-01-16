@@ -4,7 +4,14 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 16 Jan 2025 04:38:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 14:38:06 GMT</lastBuildDate>
+    <item>
+      <title>剪纸插件 1.7.0</title>
+      <link>https://carlschwan.eu/2025/01/16/kirigami-addons-1.7.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://carlschwan.eu/2025/01/16/kirigami-addons-1.7.0/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 16 Jan 2025 14:25:00 GMT</pubDate>
+    </item>
     <item>
       <title>升级家庭助理</title>
       <link>http://www.thelins.se/johan/blog/2025/01/upgrading-home-assistant/?utm_source=atom_feed</link>
@@ -149,13 +156,6 @@ download.kde.org 上找到 tarball 包
 并且它已使用 Tuomas Nurmi 的 GPG 密钥 签名。]]></description>
       <guid>https://blogs.kde.org/2025/01/11/amarok-3.2.1-released/?utm_source=atom_feed</guid>
       <pubDate>Sat, 11 Jan 2025 19:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：Plasma 6.3 最终功能</title>
-      <link>https://blogs.kde.org/2025/01/11/this-week-in-plasma-final-plasma-6.3-features/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/01/11/this-week-in-plasma-final-plasma-6.3-features/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 11 Jan 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
