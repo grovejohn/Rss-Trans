@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 15 Jan 2025 22:37:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 09:15:55 GMT</lastBuildDate>
+    <item>
+      <title>蓝色起源巨型新格伦火箭首次飞行，成功入轨</title>
+      <link>https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/</link>
+      <description><![CDATA[绕过发动机冷却问题和失控的飞船，蓝色起源达到了 T-0。]]></description>
+      <guid>https://arstechnica.com/space/2025/01/blue-origin-reaches-orbit-on-first-flight-of-its-titanic-new-glenn-rocket/</guid>
+      <pubDate>Thu, 16 Jan 2025 07:51:18 GMT</pubDate>
+    </item>
     <item>
       <title>初创企业的巫术：已注销的 Google Apps 域名可能会被新所有者盗用</title>
       <link>https://arstechnica.com/security/2025/01/startup-necromancy-dead-google-apps-domains-can-be-compromised-by-new-owners/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>德克萨斯州向最高法院辩护要求观看色情片需出示身份证：“我们一直都是这么做的”</title>
       <link>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</link>
-      <description><![CDATA[专家称，最高法院可能会裁定德克萨斯州对色情片的年龄限制违宪。]]></description>
+      <description><![CDATA[专家称，最高法院可能会裁定德克萨斯州对色情内容的年龄限制违宪。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/texas-age-verification-law-masks-broader-anti-porn-agenda-lawyer-warns-scotus/</guid>
       <pubDate>Wed, 15 Jan 2025 19:38:09 GMT</pubDate>
     </item>
@@ -48,7 +55,7 @@
       <pubDate>Wed, 15 Jan 2025 16:23:27 GMT</pubDate>
     </item>
     <item>
-      <title>SEC 起诉伊隆·马斯克，称他骗取 Twitter 投资者 1.5 亿美元</title>
+      <title>SEC 起诉埃隆·马斯克，称他骗取了 Twitter 投资者 1.5 亿美元</title>
       <link>https://arstechnica.com/tech-policy/2025/01/sec-sues-elon-musk-says-he-cheated-twitter-investors-out-of-150-million/</link>
       <description><![CDATA[SEC：延迟披露帮助马斯克以 1.5 亿美元的折扣购买了 Twitter 股票。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/sec-sues-elon-musk-says-he-cheated-twitter-investors-out-of-150-million/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[从 100 种源语言翻译语音背后的计算机科学。]]></description>
       <guid>https://arstechnica.com/science/2025/01/meta-takes-us-a-step-closer-to-star-treks-universal-translator/</guid>
       <pubDate>Wed, 15 Jan 2025 16:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类是宇宙中唯一的生命吗？科学家们的真实想法是什么。</title>
-      <link>https://arstechnica.com/science/2025/01/is-humanity-alone-in-the-universe-what-scientists-really-think/</link>
-      <description><![CDATA[这是科学家们的推测吗？还是存在科学共识？]]></description>
-      <guid>https://arstechnica.com/science/2025/01/is-humanity-alone-in-the-universe-what-scientists-really-think/</guid>
-      <pubDate>Wed, 15 Jan 2025 15:44:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
