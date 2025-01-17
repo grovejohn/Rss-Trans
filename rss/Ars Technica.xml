@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 17 Jan 2025 15:36:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 16:41:30 GMT</lastBuildDate>
     <item>
-      <title>最高法院裁定可以禁止 TikTok</title>
+      <title>固体电解质使锂硫电池具有极强的耐久性</title>
+      <link>https://arstechnica.com/science/2025/01/a-solid-electrolyte-gives-lithium-sulfur-batteries-ludicrous-endurance/</link>
+      <description><![CDATA[硫可以储存更多的锂，但在电池中易发生反应。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/a-solid-electrolyte-gives-lithium-sulfur-batteries-ludicrous-endurance/</guid>
+      <pubDate>Fri, 17 Jan 2025 15:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>TikTok 败诉，准备于周日关闭</title>
       <link>https://arstechnica.com/tech-policy/2025/01/supreme-court-rules-tiktok-can-be-banned/</link>
       <description><![CDATA[TikTok 表示正准备于周日关闭。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/supreme-court-rules-tiktok-can-be-banned/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[我不确定你为什么想同时做这两件事，但这款电动车可以。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/gm-patents-ev-that-can-charge-and-power-stuff-simultaneously/</guid>
       <pubDate>Thu, 16 Jan 2025 20:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>主页 Microsoft 365 计划利用 Copilot AI 功能作为涨价的借口</title>
-      <link>https://arstechnica.com/gadgets/2025/01/home-microsoft-365-plans-use-copilot-ai-features-as-pretext-for-a-price-hike/</link>
-      <description><![CDATA[不包含人工智能或涨价的“经典”计划仅适用于现有订阅者。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/home-microsoft-365-plans-use-copilot-ai-features-as-pretext-for-a-price-hike/</guid>
-      <pubDate>Thu, 16 Jan 2025 19:49:59 GMT</pubDate>
     </item>
     </channel>
 </rss>

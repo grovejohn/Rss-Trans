@@ -4,7 +4,7 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 17 Jan 2025 12:57:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 16:41:10 GMT</lastBuildDate>
     <item>
       <title>网络评论，第 2025 周 - 03</title>
       <link>https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/?utm_source=atom_feed</link>
@@ -22,8 +22,8 @@ Klassy
 
 自从 KDecoration API 中断以来，它在针对最新的 Plasma 进行编译时出现了一些问题。
 在主存储库中修复之前，我创建了一个临时的
-fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在此基础上添加了一个
-小小修正。该分支可在 github.com/ivan-cukic/wip-klassy 获得
+fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在上面添加了一个
+小修复。该分支可在 github.com/ivan-cukic/wip-klassy 获得
 kdesrc-build 配方如下：
 module klassy
 存储库 https://github.com/ivan-cukic/wip-klassy
