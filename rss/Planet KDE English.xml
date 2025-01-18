@@ -4,7 +4,7 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 18 Jan 2025 12:52:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 14:36:14 GMT</lastBuildDate>
     <item>
       <title>参加 FOSDEM 2025</title>
       <link>https://www.volkerkrause.eu/2025/01/18/kde-fosdem-2025-preview.html?utm_source=atom_feed</link>
@@ -49,7 +49,7 @@ FOSS 公共警报服务器
 并且 FOSSWarn 有一个可以利用它的第一个预发布版。
 不过，我还需要更新 KDE 公共警报应用程序原型 才能使用它。
 布鲁塞尔见！
-来自不同社区的人FOSDEM 在过去已经促成了多项出色的跨项目合作，我们非常期待看到这次会议将会带来哪些成果，并期待更多有趣的讨论！]]></description>
+来自不同社区的人FOSDEM 在过去促成了众多跨项目合作，我们非常期待这次会议将会带来哪些成果，并期待更多有趣的讨论！]]></description>
       <guid>https://www.volkerkrause.eu/2025/01/18/kde-fosdem-2025-preview.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 18 Jan 2025 11:15:00 GMT</pubDate>
     </item>
@@ -77,8 +77,8 @@ Klassy
 
 自从 KDecoration API 中断以来，它在针对最新的 Plasma 进行编译时出现了一些问题。
 在主存储库中修复之前，我创建了一个临时的
-fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在此基础上添加了一个
-小小修正。该分支可在 github.com/ivan-cukic/wip-klassy 获得
+fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在上面添加了一个
+小修复。该分支可在 github.com/ivan-cukic/wip-klassy 获得
 kdesrc-build 配方如下：
 module klassy
 存储库 https://github.com/ivan-cukic/wip-klassy
