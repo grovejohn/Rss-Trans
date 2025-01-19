@@ -4,7 +4,33 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 18 Jan 2025 14:36:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 16:39:07 GMT</lastBuildDate>
+    <item>
+      <title>数据不一致会浪费时间</title>
+      <link>https://blog.bembel.net/2025/01/wasting-time-with-inconsistent-data/?utm_source=atom_feed</link>
+      <description><![CDATA[我的一项闲暇活动是开发 KMyMoney，这是一款个人财务管理应用程序。我的大部分时间都花在开发、测试、错误重现和修复、用户支持上，有时我甚至会为这个应用程序编写一些文档。当然，我自己几乎每天都会使用它。
+KMyMoney 的一个很棒的功能对我帮助很大，那就是在线交易下载。这很酷，如果你早上打开电脑，启动 KMyMoney，选择“帐户/更新全部”功能，在被要求时填写您的银行和 Paypal 帐户的密码（尽管这主要是使用本地 GPG 保护的密码存储 自动完成的），然后查看传入的数据。大约一分钟后，我就可以概览过去 24 小时内我的帐户发生了什么。不需要纸质声明，因此可以说，高度数字化。在此，非常感谢 AqBanking 的作者，他完成了处理银行协议的所有繁重工作。但一张图片胜过千言万语。亲自看看它是什么样子的：
+我每天下载过程的记录
+这个过程已经运行了很长时间，我最近没有接触过任何软件部分。今天，我注意到一件奇怪的事情发生了，因为我的一个账户显示下载后账户余额与银行提供的金额有差异。如果您手动输入交易，可能会发生这种情况，但由于我只从银行下载它们，所以应该没有任何差异。另外，今天是星期天，而前一天一切都很好。首先想到：我遇到了哪种极端情况导致 KMyMoney 出现这种情况，错误在哪里？
+在这种情况下，我通常做的第一件事就是关闭应用程序并重新开始。没办法：结果相同。然后我记起来，我前一天在 QIF 导入器中添加了一个功能，其中还包括对通用语句读取器代码的一个小更改。当然，我用 QIF 导入器测试了一些东西，但没有用 AqBanking。也许是代码中出现了一些错误并导致了这个问题。我仔细检查了代码，因为它处理的标签 —— 当然不是我的银行提供的 ——它不可能是导致这种情况的原因。
+所以我再次查看了屏幕：
+
+
+
+左侧分类账显示下载前的状态，右侧分类账显示下载后的状态。
+一定收到了新数据，因为左侧列中的日期发生了变化，彩色行的金额也发生了变化，但上一行中的金额没有变化，仍然显示之前的状态。颜色是通过将余额信息与上一行中的信息进行比较来确定的。那么丢失的交易在哪里？
+长话短说：查看日志时我注意到，在线余额已传输，但银行根本没有提交任何交易。如果我只是取两个余额之间的差额，那么它就等于我期望收到的报销款项。
+结论：KMyMoney 中没有错误，但银行只是提供了不一致的数据。啊。]]></description>
+      <guid>https://blog.bembel.net/2025/01/wasting-time-with-inconsistent-data/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 19 Jan 2025 14:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周 KDE 应用程序：可用性、可访问性和增强 Fediverse</title>
+      <link>https://blogs.kde.org/2025/01/19/this-week-in-kde-apps-usability-accessibility-and-supercharging-the-fediverse/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/01/19/this-week-in-kde-apps-usability-accessibility-and-supercharging-the-fediverse/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 19 Jan 2025 12:50:35 GMT</pubDate>
+    </item>
     <item>
       <title>参加 FOSDEM 2025</title>
       <link>https://www.volkerkrause.eu/2025/01/18/kde-fosdem-2025-preview.html?utm_source=atom_feed</link>
@@ -49,7 +75,7 @@ FOSS 公共警报服务器
 并且 FOSSWarn 有一个可以利用它的第一个预发布版。
 不过，我还需要更新 KDE 公共警报应用程序原型 才能使用它。
 布鲁塞尔见！
-来自不同社区的人FOSDEM 在过去促成了众多跨项目合作，我们非常期待这次会议将会带来哪些成果，并期待更多有趣的讨论！]]></description>
+来自不同社区的人FOSDEM 在过去已经促成了多项出色的跨项目合作，我们非常期待看到这次会议将会带来哪些成果，并期待更多有趣的讨论！]]></description>
       <guid>https://www.volkerkrause.eu/2025/01/18/kde-fosdem-2025-preview.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 18 Jan 2025 11:15:00 GMT</pubDate>
     </item>
@@ -182,44 +208,6 @@ sudo systemctl start homeassistant
 ]]></description>
       <guid>http://www.thelins.se/johan/blog/2025/01/upgrading-home-assistant/?utm_source=atom_feed</guid>
       <pubDate>Wed, 15 Jan 2025 21:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>重振 QtNetworkAuth 以满足现代 OAuth2 需求</title>
-      <link>https://www.qt.io/blog/revitalizing-qtnetworkauth-for-modern-oauth2-needs?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt Network Authorization 模块于 8 年前在 Qt 5.8 中发布。从那时起，OAuth2 的作用和使用已显著增长。如今，许多人都以某种形式使用 OAuth2；无论是单击“使用...登录”按钮，还是允许您最喜欢的在线绘图应用程序将结果存储在您的云端硬盘上。 
-]]></description>
-      <guid>https://www.qt.io/blog/revitalizing-qtnetworkauth-for-modern-oauth2-needs?utm_source=atom_feed</guid>
-      <pubDate>Wed, 15 Jan 2025 13:08:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tellico 4.1 发布</title>
-      <link>https://tellico-project.org/tellico-4-1-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Tellico 4.1 现已推出，其中包含一些改进和错误修复。此版本和任何后续的 bugfix 点版本（例如 4.1.1）将是使用 Qt5 构建的最后一个版本。
-改进
-
-改进了图像加载，使其仅按需加载，缩短了本地和远程图像的加载时间（Bug 490922）。
-重新设计了欢迎屏幕。
-添加了禁用欢迎屏幕的选项。
-添加了属性以禁用段落字段中的换行符替换。
-在设置中添加了配置图像位置的工具提示。
-添加了一个工具提示以显示自定义的内部字段名称字段。
-调整了报告模板以遵循颜色设置。
-添加了禁用文档构建的选项。
-改进了数据搜索的日志记录。
-
-错误修复
-
-修复了打印预览（错误 496816）。
-修复了打印时崩溃的错误（错误 496648）。
-修复了使用 qt6ct 时的主题处理（Bug 496074）。
-更新了 Dark Horse comics (Debian bug 1087109)、iTunes 搜索 和 Kino.de。
-修复了使用 libcdio 在 FreeBSD 上编译的问题。
-]]></description>
-      <guid>https://tellico-project.org/tellico-4-1-released/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 15 Jan 2025 02:36:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
