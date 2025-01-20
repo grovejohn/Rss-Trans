@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Jan 2025 18:41:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 20:35:41 GMT</lastBuildDate>
     <item>
       <title>Manjaro ARM 死了吗？</title>
       <link>https://blog.strits.dk/is-manjaro-arm-dead/?utm_source=atom_feed</link>
@@ -101,13 +101,6 @@ FOSS 公共警报服务器
       <pubDate>Sat, 18 Jan 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>网络评论，第 2025 周 - 03</title>
-      <link>https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 17 Jan 2025 12:10:45 GMT</pubDate>
-    </item>
-    <item>
       <title>Klassy 为 Plasma 的开发版本</title>
       <link>https://cukic.co/2025/01/16/klassy?utm_source=atom_feed</link>
       <description><![CDATA[您可能已经看到了 Paul McAuley 为 Qt 应用程序和 KWin 窗口装饰设计的超棒 Klassy 主题。
@@ -118,7 +111,7 @@ Klassy
 自从 KDecoration API 中断以来，它在针对最新的 Plasma 进行编译时出现了一些问题。
 在主存储库中修复之前，我创建了一个临时的
 fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在上面添加了一个
-小修复。该 fork 可在 github.com/ivan-cukic/wip-klassy 获得
+小修复。该分支可在 github.com/ivan-cukic/wip-klassy 获得
 kdesrc-build 配方如下：
 module klassy
 存储库 https://github.com/ivan-cukic/wip-klassy
@@ -176,12 +169,19 @@ haruna-1.3.0-windows-gcc-x86_64-dbg.7z
 修复了使用修饰键（ctrl、alt 等）设置快捷方式的问题
 修复了活动音频和字幕轨道未被正确检查的问题
 从设置窗口中删除了空的标题工具栏
-修复了在加载包含大量轨道的文件时应用程序会冻结的错误
+修复了加载包含大量轨道的文件时应用程序会冻结的错误
 改进了菜单栏动画
 当鼠标离开应用程序时，浮动页脚现在会隐藏
 ]]></description>
       <guid>https://haruna.kde.org/blog/2025-01-16-haruna-1.3/?utm_source=atom_feed</guid>
       <pubDate>Thu, 16 Jan 2025 11:13:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krita 每月更新 - 第 22 版</title>
+      <link>https://krita.org/en/posts/2025/monthly-update-22/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2025/monthly-update-22/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
