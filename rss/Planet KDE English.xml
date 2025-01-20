@@ -4,7 +4,7 @@
     <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 20 Jan 2025 20:35:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 23:13:41 GMT</lastBuildDate>
     <item>
       <title>Manjaro ARM 死了吗？</title>
       <link>https://blog.strits.dk/is-manjaro-arm-dead/?utm_source=atom_feed</link>
@@ -101,6 +101,13 @@ FOSS 公共警报服务器
       <pubDate>Sat, 18 Jan 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>网络评论，第 2025 周 - 03</title>
+      <link>https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 17 Jan 2025 12:10:45 GMT</pubDate>
+    </item>
+    <item>
       <title>Klassy 为 Plasma 的开发版本</title>
       <link>https://cukic.co/2025/01/16/klassy?utm_source=atom_feed</link>
       <description><![CDATA[您可能已经看到了 Paul McAuley 为 Qt 应用程序和 KWin 窗口装饰设计的超棒 Klassy 主题。
@@ -175,13 +182,6 @@ haruna-1.3.0-windows-gcc-x86_64-dbg.7z
 ]]></description>
       <guid>https://haruna.kde.org/blog/2025-01-16-haruna-1.3/?utm_source=atom_feed</guid>
       <pubDate>Thu, 16 Jan 2025 11:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita 每月更新 - 第 22 版</title>
-      <link>https://krita.org/en/posts/2025/monthly-update-22/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2025/monthly-update-22/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 16 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
