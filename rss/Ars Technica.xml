@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 21 Jan 2025 18:20:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 19:12:12 GMT</lastBuildDate>
     <item>
-      <title>公司旨在建造更大的卫星，迎接新时代的发射富足</title>
+      <title>中国尖端“推理”模型可与 OpenAI o1 相媲美，而且可以免费下载</title>
+      <link>https://arstechnica.com/ai/2025/01/china-is-catching-up-with-americas-best-reasoning-ai-models/</link>
+      <description><![CDATA[DeepSeek R1 可以免费在本地运行和修改，并且在多个基准测试中与 OpenAI 的 o1 相匹配。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/china-is-catching-up-with-americas-best-reasoning-ai-models/</guid>
+      <pubDate>Tue, 21 Jan 2025 18:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>卫星公司逆小型化趋势而行，旨在为大型火箭制造大型卫星</title>
       <link>https://arstechnica.com/space/2025/01/company-aims-to-build-larger-satellites-for-new-era-of-launch-abundance/</link>
       <description><![CDATA[“我们决定解决其中的一个大问题。”]]></description>
       <guid>https://arstechnica.com/space/2025/01/company-aims-to-build-larger-satellites-for-new-era-of-launch-abundance/</guid>
@@ -34,9 +41,9 @@
       <pubDate>Tue, 21 Jan 2025 15:35:11 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普禁止加州的空气污染豁免和电动汽车强制令</title>
+      <title>加州的空气污染豁免和“电动汽车强制令”被特朗普禁止</title>
       <link>https://arstechnica.com/cars/2025/01/fuel-efficiency-evs-and-charger-funding-all-cut-by-trumps-orders/</link>
-      <description><![CDATA[新总统的众多行政命令中都包含对清洁汽车政策的攻击。]]></description>
+      <description><![CDATA[新总统的众多行政命令中，有对清洁汽车政策的攻击。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/fuel-efficiency-evs-and-charger-funding-all-cut-by-trumps-orders/</guid>
       <pubDate>Tue, 21 Jan 2025 13:19:17 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[虽然没有特定的威胁，但警报强调了“同一个健康”的风险应对方法。]]></description>
       <guid>https://arstechnica.com/health/2025/01/dc-area-veterinarians-on-heightened-alert-amid-potential-inauguration-risks/</guid>
       <pubDate>Mon, 20 Jan 2025 19:57:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>机械手帮助钢琴家克服“天花板效应”</title>
-      <link>https://arstechnica.com/science/2025/01/robotic-hand-helps-pianists-overcome-ceiling-effect/</link>
-      <description><![CDATA[利用机械外骨骼手进行被动训练甚至可以改善未经训练的手的运动能力。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/robotic-hand-helps-pianists-overcome-ceiling-effect/</guid>
-      <pubDate>Mon, 20 Jan 2025 19:35:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
