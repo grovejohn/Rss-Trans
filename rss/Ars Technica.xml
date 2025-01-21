@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 21 Jan 2025 21:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 22:14:03 GMT</lastBuildDate>
     <item>
-      <title>iOS 18.3、macOS 15.3 更新切换为默认启用 Apple Intelligence</title>
+      <title>RIP EA 的 Origin 启动器：不幸的是，我们对你们太了解了</title>
+      <link>https://arstechnica.com/gaming/2025/01/rip-eas-origin-launcher-we-knew-ye-all-too-well-unfortunately/</link>
+      <description><![CDATA[终止对 32 位 Windows 的支持是板上钉钉的事。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/rip-eas-origin-launcher-we-knew-ye-all-too-well-unfortunately/</guid>
+      <pubDate>Tue, 21 Jan 2025 21:17:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Intelligence 以前是默认启用的，在 iOS 18.3 中自动启用</title>
       <link>https://arstechnica.com/gadgets/2025/01/ios-18-3-macos-15-3-updates-switch-to-enabling-apple-intelligence-by-default/</link>
       <description><![CDATA[仍可以在“设置”中选择退出，但只有在设置完成后才可以。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/ios-18-3-macos-15-3-updates-switch-to-enabling-apple-intelligence-by-default/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[它非常智能，但不需要 Apple Intelligence。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/report-apple-mail-is-getting-automatic-categories-on-ipados-and-macos/</guid>
       <pubDate>Mon, 20 Jan 2025 22:28:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>火星边缘的巨大二分法被侵蚀了数百公里</title>
-      <link>https://arstechnica.com/science/2025/01/field-of-mounds-on-mars-may-be-sign-of-erosion-at-the-edge-of-an-ocean/</link>
-      <description><![CDATA[这里曾经是一条古老的海岸线，但却有水推动其改变的迹象。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/field-of-mounds-on-mars-may-be-sign-of-erosion-at-the-edge-of-an-ocean/</guid>
-      <pubDate>Mon, 20 Jan 2025 22:14:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
