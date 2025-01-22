@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 21 Jan 2025 20:37:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jan 2025 04:39:46 GMT</lastBuildDate>
+    <item>
+      <title>KDE 设计系统更新 – 2025 年 1 月</title>
+      <link>https://anditosan.wordpress.com/2025/01/22/kde-design-system-update-january-2025/?utm_source=atom_feed</link>
+      <description><![CDATA[大家好
+这是另一个视频，回顾了过去几周 Plasma 设计系统发生的事情。我回顾了图标工作以及设计图标时需要考虑的一些事项。
+回顾了我们当前的状态或事务，提出了冲刺建议以及与 PenPot 的合作。
+
+
+]]></description>
+      <guid>https://anditosan.wordpress.com/2025/01/22/kde-design-system-update-january-2025/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 22 Jan 2025 03:37:48 GMT</pubDate>
+    </item>
     <item>
       <title>Manjaro ARM 死了吗？</title>
       <link>https://blog.strits.dk/is-manjaro-arm-dead/?utm_source=atom_feed</link>
@@ -117,8 +129,8 @@ Klassy
 
 自从 KDecoration API 中断以来，它在针对最新的 Plasma 进行编译时出现了一些问题。
 在主存储库中修复之前，我创建了一个临时的
-fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在此基础上添加了一个
-小小修正。该分支可在 github.com/ivan-cukic/wip-klassy 获得
+fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在上面添加了一个
+小修复。该分支可在 github.com/ivan-cukic/wip-klassy 获得
 kdesrc-build 配方如下：
 module klassy
 存储库 https://github.com/ivan-cukic/wip-klassy
@@ -137,51 +149,6 @@ cmake-options \
       <description><![CDATA[]]></description>
       <guid>https://carlschwan.eu/2025/01/16/kirigami-addons-1.7.0/?utm_source=atom_feed</guid>
       <pubDate>Thu, 16 Jan 2025 14:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>春奈 1.3</title>
-      <link>https://haruna.kde.org/blog/2025-01-16-haruna-1.3/?utm_source=atom_feed</link>
-      <description><![CDATA[Haruna 1.3.0 版已发布。代码已进行大量重构，因此请务必报告您遇到的任何错误。在“帮助”菜单下或关于页面的设置中有一个“报告错误”菜单项。
-鼠标左键和右键的默认操作已更改：左键单击现在是播放/暂停，右键单击可打开上下文菜单。可以在“鼠标”页面的设置中更改操作。
-另一个默认更改的设置是开始播放设置，现在默认启用。
-开始播放控制在恢复文件位置时播放状态（正在播放或暂停）。
-
-
-Windows 版本：
-
-haruna-1.3.0-windows-gcc-x86_64.exe
-haruna-1.3.0-windows-gcc-x86_64.7z
-haruna-1.3.0-windows-gcc-x86_64-dbg.7z
-
-其他软件包格式的可用性取决于您的发行版和使用的人包 Haruna。
-如果您喜欢 Haruna，请支持其开发：GitHub 赞助商 | Liberapay | PayPal
-功能请求和错误应发布在 bugs.kde.org 上，忽略错误报告模板可能会导致您的报告被忽略。
-
-变更日志
-1.3.0
-功能
-
-更改了与恢复播放位置相关的设置，如果您更改了默认设置，则可能需要重新进行更改
-播放列表：添加了上下文菜单条目，用于在浏览器中打开和删除非本地 URL（从播放列表）
-添加设置（在常规中）以全屏启动应用程序
-添加设置（在字幕中）以控制字幕自动选择
-更改鼠标左键和右键的默认操作：左键单击现在是播放/暂停，右键单击打开上下文菜单。可以在设置鼠标页面中更改操作
-拖动搜索/进度条将更新主视图以及搜索栏预览
-减小了最小窗口大小
-用硬件解码组合框/下拉菜单中的选项替换了硬件解码复选框
-
-错误修复
-
-改进了播放列表、快捷方式和搜索栏章节菜单的滚动性能
-修复了使用修饰键（ctrl、alt 等）设置快捷方式的问题
-修复了活动音频和字幕轨道未被正确检查的问题
-从设置窗口中删除了空的标题工具栏
-修复了加载包含大量轨道的文件时应用程序会冻结的错误
-改进了菜单栏动画
-当鼠标离开应用程序时，浮动页脚现在会隐藏
-]]></description>
-      <guid>https://haruna.kde.org/blog/2025-01-16-haruna-1.3/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 16 Jan 2025 11:13:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
