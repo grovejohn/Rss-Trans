@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 14:14:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 15:16:05 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 启动 5000 亿美元“星际之门”项目，马斯克大喊反对</title>
+      <link>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</link>
+      <description><![CDATA[埃隆·马斯克质疑大规模人工智能基础设施项目的资金来源；奥特曼为资金支持辩护。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</guid>
+      <pubDate>Thu, 23 Jan 2025 15:00:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国对谷歌和苹果移动平台展开调查</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</link>
+      <description><![CDATA[监管机构将审查科技巨头如何相互竞争以及如何对待开发商。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</guid>
+      <pubDate>Thu, 23 Jan 2025 14:29:42 GMT</pubDate>
+    </item>
     <item>
       <title>600 千瓦快速充电站即将登陆电动方程式赛车</title>
       <link>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[数百个 Reddit 社区目前正在考虑禁止 X。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/reddit-wont-interfere-with-users-revolting-against-x-with-subreddit-bans/</guid>
       <pubDate>Wed, 22 Jan 2025 20:59:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类学家表示，2027 年后人工智能将“在几乎所有领域超越人类”</title>
-      <link>https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/</link>
-      <description><![CDATA[Amodei：“我认为进展确实像人们想象的那么快。”]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/anthropic-chief-says-ai-could-surpass-almost-all-humans-at-almost-everything-shortly-after-2027/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wine 10.0 将 Arm Windows 应用程序引入 Linux，但仍不是模拟器</title>
-      <link>https://arstechnica.com/gadgets/2025/01/wine-10-0-released-adding-linux-compatibility-for-arm-windows-apps/</link>
-      <description><![CDATA[Wine 兼容层是许多 Windows 应用程序翻译项目的核心。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/wine-10-0-released-adding-linux-compatibility-for-arm-windows-apps/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
