@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 02:32:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 12:59:44 GMT</lastBuildDate>
+    <item>
+      <title>PowerSchool 数据泄露事件看起来非常非常严重</title>
+      <link>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</link>
+      <description><![CDATA[学校目前正在通知各家长，他们的数据已被盗。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</guid>
+      <pubDate>Thu, 23 Jan 2025 12:30:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员称新一轮攻击可能会摧毁欧洲电网</title>
+      <link>https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/</link>
+      <description><![CDATA[中欧电网使用未加密的无线电信号来增加和削减负载。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/</guid>
+      <pubDate>Thu, 23 Jan 2025 12:00:42 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 迅速采取行动终止 DEI 计划，要求员工“举报”违规行为</title>
       <link>https://arstechnica.com/space/2025/01/nasa-moves-swiftly-to-end-dei-programs-ask-employees-to-report-violations/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[与去年相比，三星在其活动和手机中融入了更多的人工智能。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/samsungs-galaxy-s25-event-was-an-ai-presentation-with-occasional-phone-hardware/</guid>
       <pubDate>Wed, 22 Jan 2025 19:24:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>死亡已久的星系中快速射电爆发让天文学家困惑不已</title>
-      <link>https://arstechnica.com/science/2025/01/fast-radio-burst-in-long-dead-galaxy-puzzles-astronomers/</link>
-      <description><![CDATA[研究结果“挑战了将 FRB 起源与恒星形成星系现象联系起来的现有理论。”]]></description>
-      <guid>https://arstechnica.com/science/2025/01/fast-radio-burst-in-long-dead-galaxy-puzzles-astronomers/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普宣布斥资 5000 亿美元建设“星际之门”人工智能基础设施项目，目标是通用人工智能</title>
-      <link>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</link>
-      <description><![CDATA[特朗普：“这是历史上最大的人工智能基础设施项目，而且它就在美国。”]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</guid>
-      <pubDate>Wed, 22 Jan 2025 15:20:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
