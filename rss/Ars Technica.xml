@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 21:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 22:37:39 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 推出 Operator，一款可以操作你的计算机的 AI 代理</title>
+      <link>https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/</link>
+      <description><![CDATA[新研究的“计算机使用代理”人工智能模型可以介入并帮助用户完成屏幕上的任务。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/</guid>
+      <pubDate>Thu, 23 Jan 2025 22:24:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>所有联邦机构被要求终止远程工作——最好在 30 天内</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/</link>
+      <description><![CDATA[RTO 备忘录称，美国机构浪费数十亿美元用于空置办公室，令人“尴尬”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/all-federal-agencies-ordered-to-terminate-remote-work-ideally-within-30-days/</guid>
+      <pubDate>Thu, 23 Jan 2025 21:28:47 GMT</pubDate>
+    </item>
     <item>
       <title>字节跳动董事会成员称特朗普无需强制出售即可拯救 TikTok</title>
       <link>https://arstechnica.com/tech-policy/2025/01/trump-can-save-tiktok-without-forcing-a-sale-bytedance-board-member-claims/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[经过几年的延迟，比赛中期充电已准备就绪。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</guid>
       <pubDate>Thu, 23 Jan 2025 13:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>凯迪拉克为 Lyriq 赋予赛车风格的光彩</title>
-      <link>https://arstechnica.com/cars/2025/01/cadillac-gives-the-lyriq-a-race-car-inspired-glow-up/</link>
-      <description><![CDATA[现在有一款拥有 615 马力和勒芒风格声音的 Lyriq。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/cadillac-gives-the-lyriq-a-race-car-inspired-glow-up/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>PowerSchool 数据泄露事件看起来非常非常严重</title>
-      <link>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</link>
-      <description><![CDATA[学校目前正在通知各家长，他们的数据已被盗。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</guid>
-      <pubDate>Thu, 23 Jan 2025 12:30:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
