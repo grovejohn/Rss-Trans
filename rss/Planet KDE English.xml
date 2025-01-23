@@ -4,7 +4,33 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 22 Jan 2025 14:38:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 06:43:17 GMT</lastBuildDate>
+    <item>
+      <title>2024 年喀拉拉邦国际书法节</title>
+      <link>https://rajeeshknambiar.wordpress.com/2025/01/23/international-calligraphy-festival-of-kerala-2024/?utm_source=atom_feed</link>
+      <description><![CDATA[第三届喀拉拉邦国际书法节 (ICFK) 于 2024 年 10 月举行，我受邀主持一场会议。我有幸看到世界各地的许多杰出书法家齐聚一堂，在为期三天的节日期间展示他们的作品。
+著名的马拉雅拉姆书法家 Narayana Bhattathiri 每年都会组织这次会议，令人惊讶的是，许多演讲者和书法家都分担责任，并在会议的组织和执行中发挥积极作用。观众和演讲者的参与和互动都受到了热烈欢迎。人口结构非常分散——学生、专业人士、书法家；以及所有年龄和性别的人。
+顿悟
+在 G.V. Sreekumar 教授的讲座上，当他要求参与者写下“സൂര്യൻ”（太阳）这个词时，我对这些文字进行了调查。我发现老一代人都用传统的马拉雅拉姆语正字法写下这个词；而大量年轻一代也用传统的正字法写下这个词。后者在学校里没有被教过用传统字体阅读或书写（教科书都是用破损/改良的字体写的）。我很好奇他们是如何熟悉传统正字法的，我曾质疑他们是如何知道用这种方式书写的。答案分为以下几类：
+
+他们看到父母用传统正字法书写。
+他们看到祖父母用传统正字法书写（但父母用改革后的字体书写）。
+最引人注目的是，一些年轻人确信这是“正确”的书写方式，但他们无法解释他们是如何或从哪里学到的。
+
+第三类人的回答非常有趣：因为他们“有机地”学习了文字，并将其融入他们的身份中——这就是“文化”的定义。启示是；文字属于人民，无论政府颁布什么法令（参考：喀拉拉邦政府于 1971 年和 2022 年颁布了关于文字改革的命令）。 
+会议
+我和字体设计师 Athul Jayaraman 一起参加了一场关于排版的联合会议。Athul 更专注于字体设计，而我则更详细地阐述了马拉雅拉姆语脚本（传统正字法）和字体工程 &amp;技术。
+Mathrubhumi 新闻团队也采访了我们两人，并在他们的新网站上发布了两部分采访系列：
+
+采访第一部分。
+采访第二部分。
+
+体验
+在我参加过的许多会议中，ICFK 2024 是我经历过的最好的非会议之一。我遇到了很多模范但又谦逊且平易近人的书法家（其中一些人给了我他们的亲笔签名的小册子，谢谢！），学到了很多东西，享受了很多。
+]]></description>
+      <guid>https://rajeeshknambiar.wordpress.com/2025/01/23/international-calligraphy-festival-of-kerala-2024/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 23 Jan 2025 05:47:53 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 设计系统更新 – 2025 年 1 月</title>
       <link>https://anditosan.wordpress.com/2025/01/22/kde-design-system-update-january-2025/?utm_source=atom_feed</link>
@@ -129,8 +155,8 @@ Klassy
 
 自从 KDecoration API 中断以来，它在针对最新的 Plasma 进行编译时出现了一些问题。
 在主存储库中修复之前，我创建了一个临时的
-fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在此基础上添加了一个
-小小修正。该分支可在 github.com/ivan-cukic/wip-klassy 获得
+fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在上面添加了一个
+小修复。该分支可在 github.com/ivan-cukic/wip-klassy 获得
 kdesrc-build 配方如下：
 module klassy
 存储库 https://github.com/ivan-cukic/wip-klassy
@@ -142,13 +168,6 @@ cmake-options \
 ]]></description>
       <guid>https://cukic.co/2025/01/16/klassy?utm_source=atom_feed</guid>
       <pubDate>Fri, 17 Jan 2025 08:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>剪纸插件 1.7.0</title>
-      <link>https://carlschwan.eu/2025/01/16/kirigami-addons-1.7.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://carlschwan.eu/2025/01/16/kirigami-addons-1.7.0/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 16 Jan 2025 14:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
