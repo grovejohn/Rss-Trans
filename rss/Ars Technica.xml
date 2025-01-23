@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 15:16:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 16:43:26 GMT</lastBuildDate>
     <item>
-      <title>OpenAI 启动 5000 亿美元“星际之门”项目，马斯克大喊反对</title>
+      <title>乔治·R·R·马丁与他人合著了一篇物理学论文</title>
+      <link>https://arstechnica.com/uncategorized/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</link>
+      <description><![CDATA[“我不禁想知道一个简单的底层模型是否可以整理经典。”]]></description>
+      <guid>https://arstechnica.com/uncategorized/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</guid>
+      <pubDate>Thu, 23 Jan 2025 16:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 启动 5000 亿美元“星际之门”项目，批评者表示质疑</title>
       <link>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</link>
       <description><![CDATA[埃隆·马斯克质疑大规模人工智能基础设施项目的资金来源；奥特曼为资金支持辩护。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>PowerSchool 数据泄露事件看起来非常非常严重</title>
       <link>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</link>
-      <description><![CDATA[学校目前正在通知各家长，他们的数据已被盗。]]></description>
+      <description><![CDATA[学校目前正在通知家长他们的数据已被盗。]]></description>
       <guid>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</guid>
       <pubDate>Thu, 23 Jan 2025 12:30:57 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[苹果未能辩称性骚扰指控仅仅与座位偏好有关。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/apple-must-face-suit-over-alleged-policy-of-underpaying-female-workers/</guid>
       <pubDate>Wed, 22 Jan 2025 21:16:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 不会干涉用户通过 subreddit 禁令来反抗 X</title>
-      <link>https://arstechnica.com/gadgets/2025/01/reddit-wont-interfere-with-users-revolting-against-x-with-subreddit-bans/</link>
-      <description><![CDATA[数百个 Reddit 社区目前正在考虑禁止 X。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/reddit-wont-interfere-with-users-revolting-against-x-with-subreddit-bans/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:59:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
