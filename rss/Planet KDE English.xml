@@ -4,7 +4,15 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 23 Jan 2025 06:43:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 10:41:10 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 15.0.1 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-15.0.1-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 15.0.1 正式发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-15.0.1-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 23 Jan 2025 10:04:08 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年喀拉拉邦国际书法节</title>
       <link>https://rajeeshknambiar.wordpress.com/2025/01/23/international-calligraphy-festival-of-kerala-2024/?utm_source=atom_feed</link>
@@ -144,30 +152,6 @@ FOSS 公共警报服务器
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/?utm_source=atom_feed</guid>
       <pubDate>Fri, 17 Jan 2025 12:10:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Klassy 为 Plasma 的开发版本</title>
-      <link>https://cukic.co/2025/01/16/klassy?utm_source=atom_feed</link>
-      <description><![CDATA[您可能已经看到了 Paul McAuley 为 Qt 应用程序和 KWin 窗口装饰设计的超棒 Klassy 主题。
-
-
-Klassy
-
-自从 KDecoration API 中断以来，它在针对最新的 Plasma 进行编译时出现了一些问题。
-在主存储库中修复之前，我创建了一个临时的
-fork，其中包括 Eliza Mason 完成的 KDecoration3 移植，我在上面添加了一个
-小修复。该分支可在 github.com/ivan-cukic/wip-klassy 获得
-kdesrc-build 配方如下：
-module klassy
-存储库 https://github.com/ivan-cukic/wip-klassy
-cmake-options \
--DBUILD_QT5=OFF \
--DBUILD_QT6=ON
-分支 plasma6.3
-结束模块
-]]></description>
-      <guid>https://cukic.co/2025/01/16/klassy?utm_source=atom_feed</guid>
-      <pubDate>Fri, 17 Jan 2025 08:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
