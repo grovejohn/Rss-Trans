@@ -4,7 +4,7 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 23 Jan 2025 10:41:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 13:39:04 GMT</lastBuildDate>
     <item>
       <title>Qt Creator 15.0.1 发布</title>
       <link>https://www.qt.io/blog/qt-creator-15.0.1-released?utm_source=atom_feed</link>
@@ -12,6 +12,17 @@
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-15.0.1-released?utm_source=atom_feed</guid>
       <pubDate>Thu, 23 Jan 2025 10:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年杰出贡献者</title>
+      <link>https://www.qt.io/blog/top-contributors-of-2024?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+2024 年的 Qt2024 年对于 Qt 来说又是辉煌的一年，充满了激动人心的里程碑和成就！今年的亮点包括 Qt 6.7 和 Qt 6.8 发布、Qt Creator 15 发布，以及 Qt 贡献者峰会。
+]]></description>
+      <guid>https://www.qt.io/blog/top-contributors-of-2024?utm_source=atom_feed</guid>
+      <pubDate>Thu, 23 Jan 2025 08:59:37 GMT</pubDate>
     </item>
     <item>
       <title>2024 年喀拉拉邦国际书法节</title>
@@ -145,13 +156,6 @@ FOSS 公共警报服务器
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/01/18/this-week-in-plasma-getting-plasma-6.3-in-great-shape/?utm_source=atom_feed</guid>
       <pubDate>Sat, 18 Jan 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2025 周 - 03</title>
-      <link>https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2025/01/17/web-review-week-2025-03/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 17 Jan 2025 12:10:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
