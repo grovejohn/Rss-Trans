@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 20:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 21:36:15 GMT</lastBuildDate>
+    <item>
+      <title>字节跳动董事会成员称特朗普无需强制出售即可拯救 TikTok</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/trump-can-save-tiktok-without-forcing-a-sale-bytedance-board-member-claims/</link>
+      <description><![CDATA[在特朗普考虑解决方案时，字节跳动显然看到了几种非出售选项。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/trump-can-save-tiktok-without-forcing-a-sale-bytedance-board-member-claims/</guid>
+      <pubDate>Thu, 23 Jan 2025 20:33:00 GMT</pubDate>
+    </item>
     <item>
       <title>《毁灭战士：黑暗时代》想要更像原版《毁灭战士》</title>
       <link>https://arstechnica.com/gaming/2025/01/how-doom-the-dark-ages-draws-from-the-90s-doom-games/</link>
@@ -64,16 +71,9 @@
     <item>
       <title>PowerSchool 数据泄露事件看起来非常非常严重</title>
       <link>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</link>
-      <description><![CDATA[学校目前正在通知家长他们的数据已被盗。]]></description>
+      <description><![CDATA[学校目前正在通知各家长，他们的数据已被盗。]]></description>
       <guid>https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/</guid>
       <pubDate>Thu, 23 Jan 2025 12:30:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员称新一轮攻击可能会摧毁欧洲电网</title>
-      <link>https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/</link>
-      <description><![CDATA[中欧电网使用未加密的无线电信号来增加和削减负载。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/could-hackers-use-new-attack-to-take-down-european-power-grid/</guid>
-      <pubDate>Thu, 23 Jan 2025 12:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
