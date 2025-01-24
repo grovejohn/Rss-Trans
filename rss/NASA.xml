@@ -4,7 +4,7 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 24 Jan 2025 19:11:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 19:35:59 GMT</lastBuildDate>
     <item>
       <title>美国宇航局将向媒体简要介绍小行星采样任务的成果</title>
       <link>https://www.nasa.gov/news-release/nasa-to-brief-media-on-asteroid-sample-mission-findings/</link>
@@ -29,9 +29,16 @@
     <item>
       <title>Artemis II 堆垛作业更新</title>
       <link>https://www.nasa.gov/image-article/artemis-ii-stacking-operations-update/</link>
-      <description><![CDATA[美国宇航局探索地面系统计划的团队继续在佛罗里达州美国宇航局肯尼迪航天中心的航天器装配大楼 (VAB) 内堆叠 SLS（太空发射系统）火箭的双固体火箭助推发动机段，用于该机构的 Artemis II 任务。目前，10 个段中的 6 个已固定在移动发射器 1 的顶部，右侧 […]]]></description>
+      <description><![CDATA[美国宇航局探索地面系统计划的团队继续在佛罗里达州美国宇航局肯尼迪航天中心的航天器装配大楼 (VAB) 内堆叠 SLS (太空发射系统) 火箭的双固体火箭助推发动机段，用于该机构的 Artemis II 任务。目前，10 个段中的 6 个已固定在移动发射器 1 顶部，右侧 […]]]></description>
       <guid>https://www.nasa.gov/image-article/artemis-ii-stacking-operations-update/</guid>
       <pubDate>Fri, 24 Jan 2025 16:10:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>NICER 状态更新</title>
+      <link>https://www.nasa.gov/universe/nicer-status-update/</link>
+      <description><![CDATA[2025 年 1 月 24 日 美国宇航局的 NICER 修复后继续进行科学运行 美国宇航局国际空间站上的工作人员于 1 月 16 日在太空行走期间为该机构的 NICER（中子星内部成分探测器）任务安装了补丁。NICER 是一台位于空间站右舷太阳能电池阵列附近的 X 射线望远镜，当天晚些时候恢复了科学运行。补丁 […]]]></description>
+      <guid>https://www.nasa.gov/universe/nicer-status-update/</guid>
+      <pubDate>Fri, 24 Jan 2025 15:00:00 GMT</pubDate>
     </item>
     <item>
       <title>40 年前：STS-51C，美国国防部首次专门执行航天飞机任务</title>
@@ -55,7 +62,7 @@
       <pubDate>Thu, 23 Jan 2025 17:55:52 GMT</pubDate>
     </item>
     <item>
-      <title>NASA 蠕虫艺术</title>
+      <title>美国宇航局蠕虫艺术</title>
       <link>https://www.nasa.gov/general/museum-of-modern-art-exhibits-nasa-worm/</link>
       <description><![CDATA[现代艺术博物馆举办 NASA 蠕虫展 NASA 的标志性标识，通常称为蠕虫，由布鲁斯·布莱克本和理查德·丹恩于 1976 年设计，于 2025 年 1 月 23 日星期二在纽约现代艺术博物馆 (MoMA) 首次亮相，作为博物馆新展览“旋转：转折点”的一部分[…]]]></description>
       <guid>https://www.nasa.gov/general/museum-of-modern-art-exhibits-nasa-worm/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[随着空中出租车、无人机和其他创新型飞机进入美国领空，传达飞机位置的系统对于确保空中交通安全至关重要。美国联邦航空管理局 (FAA) 要求飞机使用自动相关监视广播 (ADS-B) 系统实时向其他飞机和空中交通管制部门通报其位置。NASA 正在 […]]]></description>
       <guid>https://www.nasa.gov/aeronautics/nasa-tests-air-traffic-surveillance-technology-using-its-pilatus-pc-12-aircraft/</guid>
       <pubDate>Thu, 23 Jan 2025 15:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局投资阿尔特弥斯研究，支持长期月球探索</title>
-      <link>https://www.nasa.gov/news-release/nasa-invests-in-artemis-studies-to-support-long-term-lunar-exploration/</link>
-      <description><![CDATA[美国宇航局周四授予了新的研究合同，以帮助支持月球表面的生活和工作。作为该机构支持阿尔特弥斯计划的深空探索蓝图的一部分，七个州的九家美国公司正在获得奖励。下一代空间技术探索伙伴关系附录 R 合同将促进学习应对日常挑战 […]]]></description>
-      <guid>https://www.nasa.gov/news-release/nasa-invests-in-artemis-studies-to-support-long-term-lunar-exploration/</guid>
-      <pubDate>Thu, 23 Jan 2025 15:23:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
