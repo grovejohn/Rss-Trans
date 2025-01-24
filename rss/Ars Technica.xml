@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 23 Jan 2025 22:37:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 01:09:22 GMT</lastBuildDate>
+    <item>
+      <title>感染后门的 VPN 使用“魔术包”来确保隐身性和安全性</title>
+      <link>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</link>
+      <description><![CDATA[J-Magic后门感染了各行各业的组织。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</guid>
+      <pubDate>Thu, 23 Jan 2025 23:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>调查显示，开发 PC 游戏的游戏开发者数量比以往任何时候都多</title>
+      <link>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</link>
+      <description><![CDATA[80% 的游戏开发者正在从事 PC 项目，比去年的 66% 有所上升。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</guid>
+      <pubDate>Thu, 23 Jan 2025 23:00:16 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 推出 Operator，一款可以操作你的计算机的 AI 代理</title>
       <link>https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[埃隆·马斯克质疑大规模人工智能基础设施项目的资金来源；奥特曼为资金支持辩护。]]></description>
       <guid>https://arstechnica.com/ai/2025/01/trump-announces-500b-stargate-ai-infrastructure-project-with-agi-aims/</guid>
       <pubDate>Thu, 23 Jan 2025 15:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>英国对谷歌和苹果移动平台展开调查</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</link>
-      <description><![CDATA[监管机构将审查科技巨头如何相互竞争以及如何对待开发商。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/uk-opens-probe-into-googles-and-apples-mobile-platforms/</guid>
-      <pubDate>Thu, 23 Jan 2025 14:29:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>600 千瓦快速充电站即将登陆电动方程式赛车</title>
-      <link>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</link>
-      <description><![CDATA[经过几年的延迟，比赛中期充电已准备就绪。]]></description>
-      <guid>https://arstechnica.com/cars/2025/01/600-kw-fast-charging-pitstops-are-coming-to-formula-e/</guid>
-      <pubDate>Thu, 23 Jan 2025 13:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
