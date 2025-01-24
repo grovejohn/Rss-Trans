@@ -4,7 +4,14 @@
     <title>人工智能博客和新闻 • 人工智能新闻 • 人工智能博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Fri, 24 Jan 2025 19:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 20:15:37 GMT</lastBuildDate>
+    <item>
+      <title>伊隆·马斯克的智商和天才的本质</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/ai-podcast-on-elon-musks-iq-and-the-nature-of-genius</link>
+      <description><![CDATA[伊隆·马斯克将远见卓识与不懈执行力完美地融为一体，为人们提供了一个看待天才本质的现代视角，挑战了传统的智力定义。]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/ai-podcast-on-elon-musks-iq-and-the-nature-of-genius</guid>
+      <pubDate>Fri, 24 Jan 2025 19:49:23 GMT</pubDate>
+    </item>
     <item>
       <title>“安全人工智能”公司能在不受约束的人工智能环境中生存吗？</title>
       <link>https://www.artificial-intelligence.blog/ai-news/can-safe-ai-companies-survive-in-an-unrestrained-ai-landscape</link>
@@ -72,13 +79,6 @@
       <description><![CDATA[利用 Hedra 的生成视频 AI，我们创建了引人注目的电子商务视频模型，发现该技术在聚焦面部特征时表现出色，但在拍摄上身或全身时却举步维艰，导致效果不太逼真。]]></description>
       <guid>https://www.artificial-intelligence.blog/ai-news/e-commerce-video-mockups-with-hedra</guid>
       <pubDate>Thu, 04 Jul 2024 23:37:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>对法学硕士 (LLM) 执行 GDPR 的谜团</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/the-enigma-of-enforcing-gdpr-on-llms</link>
-      <description><![CDATA[本文探讨了将 GDPR 法规应用于大型语言模型 (LLM) 所面临的重大挑战，例如由于其复杂的数据处理和存储机制而确保数据擦除、匿名化和合规性。]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/the-enigma-of-enforcing-gdpr-on-llms</guid>
-      <pubDate>Wed, 29 May 2024 22:47:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
