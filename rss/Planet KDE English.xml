@@ -4,7 +4,24 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 24 Jan 2025 14:38:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 20:35:47 GMT</lastBuildDate>
+    <item>
+      <title>KDE：Snaps 错误修复和 Kubuntu：Noble 更新</title>
+      <link>https://www.scarlettgatelymoore.dev/kde-snaps-bug-fixes-and-kubuntu-noble-updates/?utm_source=atom_feed</link>
+      <description><![CDATA[修复了使用 webengine 的应用程序中的一个主要崩溃错误，我还继续将这些更新到 core24 https://bugs.launchpad.net/snapd/+bug/2095418 和https://bugs.kde.org/show_bug.cgi?id=498663
+修复了 okular 无法导入证书以在 Okular 中进行数字签名 https://bugs.kde.org/show_bug.cgi?id=498558 无法打开文件 https://bugs.kde.org/show_bug.cgi?id=421987 和 https://bugs.kde.org/show_bug.cgi?id=415711
+Skanpage 无法启动 https://bugs.kde.org/show_bug.cgi?id=493847 在 –edge 请帮忙测试。
+代笔 https://bugs.kde.org/show_bug.cgi?id=481258
+
+新 KDE快照！
+Kalm——呼吸技巧
+
+Telly-skout——显示电视指南
+Kubuntu：Plasma 5.27.12 已上传到存档——建议并应发布 .2！
+我不想问，但我因为手臂骨折的惨败而失业了。如果你能提供任何帮助，我将不胜感激！ https://gofund.me/573cc38e]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kde-snaps-bug-fixes-and-kubuntu-noble-updates/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 24 Jan 2025 20:00:38 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第 2025 周 - 04</title>
       <link>https://ervin.ipsquad.net/blog/2025/01/24/web-review-week-2025-04/?utm_source=atom_feed</link>
@@ -124,25 +141,6 @@ https://jriddell.org/jriddell.pgp]]></description>
       <description><![CDATA[有些人可能已经注意到了。Manjaro ARM 软件包最近很少更新。实际上，自从我在 2023 年 3 月离开该项目以来，更新间隔已经很长了。所以这就引出了一个问题：Manjaro ARM 死了吗？让我们来看看目前的状态。没有新图像Manjaro ARM 支持的所有主要平台的最后一轮发布图像是在 2023 年 2 月完成的，发布版本为 23.02。而且我听说大多数镜像在第一次更新后都会破坏安装。我离开后，我见过的唯一有新版本发布的镜像是基于 Pinephone 的镜像。但它们仍被视为 Beta 版（4 年后！）。ARM 下载在网站上不再突出Manjaro.org 不久前有了一个新的花哨网站。这个网站隐藏了 ARM 镜像，所以你必须仔细寻找才能找到它们。以下是在新网站上找到它们的方法：manjaro.org -&gt; 下载按钮 -&gt; 按下载条目返回到产品 &gt; 下载 &gt; x86 子菜单中的上一步 -&gt;按下第二部分“适用于手机和嵌入式”中的“下载”按钮。现在您可以查看和下载 ARM 映像。很少的软件包更新Raspberry Pi 特定软件包由维护者 Ray Sherman 稳定更新。但所有其他 Manjaro 特定软件包都很少更新或根本不更新。即使 Arch Linux ARM 的软件包更新也不再经常进行。因此，软件包存储库总体上处于非常糟糕的过时状态。它是否得到维护？考虑到所有这些观点，我得出结论，它实际上不再得到维护。 Ray 就此事询问了 Manjaro 项目管理层，并被告知 ARM 分支不再有经理，因此它不再是 Manjaro 团队的优先事项。对我来说，这听起来像是它已经缓慢而安静地消亡了。由于 Manjaro ARM 的现状，我不会再向任何人推荐它了。这是一个令人悲伤的结局，因为我早在 2016 年就和 Josh Crowder 一起开始了这个项目，我们很喜欢这个项目。]]></description>
       <guid>https://blog.strits.dk/is-manjaro-arm-dead/?utm_source=atom_feed</guid>
       <pubDate>Sun, 19 Jan 2025 19:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据不一致会浪费时间</title>
-      <link>https://blog.bembel.net/2025/01/wasting-time-with-inconsistent-data/?utm_source=atom_feed</link>
-      <description><![CDATA[我的一项闲暇活动是开发 KMyMoney，这是一款个人财务管理应用程序。我的大部分时间都花在开发、测试、错误重现和修复、用户支持上，有时我甚至会为这个应用程序编写一些文档。当然，我自己几乎每天都会使用它。
-KMyMoney 的一个很棒的功能对我帮助很大，那就是在线交易下载。这很酷，如果你早上打开电脑，启动 KMyMoney，选择“帐户/更新全部”功能，在被要求时填写您的银行和 Paypal 帐户的密码（尽管这主要是使用本地 GPG 保护的密码存储 自动完成的），然后查看传入的数据。大约一分钟后，我就可以概览过去 24 小时内我的帐户发生了什么。不需要纸质声明，因此可以说，高度数字化。在此，非常感谢 AqBanking 的作者，他完成了处理银行协议的所有繁重工作。但一张图片胜过千言万语。亲自看看它是什么样子的：
-我每天下载过程的记录
-这个过程已经运行了很长时间，我最近没有接触过任何软件部分。今天，我注意到一件奇怪的事情发生了，因为我的一个账户显示下载后账户余额与银行提供的金额有差异。如果您手动输入交易，可能会发生这种情况，但由于我只从银行下载它们，所以应该没有任何差异。另外，今天是星期天，而前一天一切都很好。首先想到：我遇到了哪种极端情况导致 KMyMoney 出现这种情况，错误在哪里？
-在这种情况下，我通常做的第一件事就是关闭应用程序并重新开始。没办法：结果相同。然后我记起来，我前一天在 QIF 导入器中添加了一个功能，其中还包括对通用语句读取器代码的一个小更改。当然，我用 QIF 导入器测试了一些东西，但没有用 AqBanking。也许是代码中出现了一些错误并导致了这个问题。我仔细检查了代码，因为它处理的标签 —— 当然不是我的银行提供的 ——它不可能是导致这种情况的原因。
-所以我再次查看了屏幕：
-
-
-
-左侧分类账显示下载前的状态，右侧分类账显示下载后的状态。
-一定收到了新数据，因为左侧列中的日期发生了变化，彩色行的金额也发生了变化，但上一行中的金额没有变化，仍然显示之前的状态。颜色是通过将余额信息与上一行中的信息进行比较来确定的。那么丢失的交易在哪里？
-长话短说：查看日志时我注意到，在线余额已传输，但银行根本没有提交任何交易。如果我只是取两个余额之间的差额，那么它就等于我期望收到的报销款项。
-结论：KMyMoney 中没有错误，但银行只是提供了不一致的数据。啊。]]></description>
-      <guid>https://blog.bembel.net/2025/01/wasting-time-with-inconsistent-data/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 19 Jan 2025 14:42:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
