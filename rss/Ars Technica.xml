@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 24 Jan 2025 18:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 21:35:56 GMT</lastBuildDate>
+    <item>
+      <title>Anthropic 使用新的 Citations API 将 RAG 直接构建到 Claude 模型中</title>
+      <link>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</link>
+      <description><![CDATA[新功能允许克劳德参考源文档并减少幻觉。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</guid>
+      <pubDate>Fri, 24 Jan 2025 21:05:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>一对夫妇涉嫌欺骗人工智能投资者资助婚礼和房屋</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/ai-startup-founder-allegedly-faked-profits-to-trick-investors-buy-fancy-houses/</link>
+      <description><![CDATA[FBI 声称 GameOn 创始人明目张胆地伪造了六年的财务记录。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/ai-startup-founder-allegedly-faked-profits-to-trick-investors-buy-fancy-houses/</guid>
+      <pubDate>Fri, 24 Jan 2025 20:12:11 GMT</pubDate>
+    </item>
     <item>
       <title>复杂性物理学在国际象棋比赛中发现关键的临界点</title>
       <link>https://arstechnica.com/science/2025/01/complexity-physics-finds-crucial-tipping-points-in-chess-games/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[J-Magic后门感染了各行各业的组织。]]></description>
       <guid>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</guid>
       <pubDate>Thu, 23 Jan 2025 23:42:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>调查显示，开发 PC 游戏的游戏开发者数量比以往任何时候都多</title>
-      <link>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</link>
-      <description><![CDATA[80% 的游戏开发者正在从事 PC 项目，比去年的 66% 有所上升。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</guid>
-      <pubDate>Thu, 23 Jan 2025 23:00:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出 Operator，一款可以操作你的计算机的 AI 代理</title>
-      <link>https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/</link>
-      <description><![CDATA[新研究的“计算机使用代理”人工智能模型可以介入并帮助用户完成屏幕上的任务。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/</guid>
-      <pubDate>Thu, 23 Jan 2025 22:24:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
