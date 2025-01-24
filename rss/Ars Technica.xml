@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 24 Jan 2025 14:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 15:37:17 GMT</lastBuildDate>
+    <item>
+      <title>由于安全漏洞，数百万辆斯巴鲁汽车可能被远程解锁和追踪</title>
+      <link>https://arstechnica.com/cars/2025/01/millions-of-subarus-could-be-remotely-unlocked-tracked-due-to-security-flaws/</link>
+      <description><![CDATA[该漏洞还可能导致访问一年的位置历史记录。]]></description>
+      <guid>https://arstechnica.com/cars/2025/01/millions-of-subarus-could-be-remotely-unlocked-tracked-due-to-security-flaws/</guid>
+      <pubDate>Fri, 24 Jan 2025 14:28:35 GMT</pubDate>
+    </item>
     <item>
       <title>火箭报告：中国的可重复使用火箭成功了吗？交通部或将审查 SpaceX 的罚款</title>
       <link>https://arstechnica.com/space/2025/01/rocket-report-dot-may-review-spacex-fines-did-chinas-reusable-rocket-work/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>调查显示，开发 PC 游戏的游戏开发者数量比以往任何时候都多</title>
       <link>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</link>
-      <description><![CDATA[80% 的游戏开发者正在从事 PC 项目，高于去年的 66%。]]></description>
+      <description><![CDATA[80% 的游戏开发者正在从事 PC 项目，比去年的 66% 有所上升。]]></description>
       <guid>https://arstechnica.com/gaming/2025/01/way-more-game-makers-are-working-on-pc-titles-than-ever-survey-says/</guid>
       <pubDate>Thu, 23 Jan 2025 23:00:16 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[主席布伦丹·卡尔再次提出针对 CBS、ABC 和 NBC 电视台的偏见投诉。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/trumps-fcc-chair-gets-to-work-on-punishing-news-stations-accused-of-bias/</guid>
       <pubDate>Thu, 23 Jan 2025 16:52:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>乔治·R·R·马丁与他人合著了一篇物理学论文</title>
-      <link>https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</link>
-      <description><![CDATA[“我不禁想知道一个简单的底层模型是否可以整理经典。”]]></description>
-      <guid>https://arstechnica.com/science/2025/01/george-r-r-martin-has-co-authored-a-physics-paper/</guid>
-      <pubDate>Thu, 23 Jan 2025 16:22:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
