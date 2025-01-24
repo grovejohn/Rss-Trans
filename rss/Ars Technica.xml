@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 24 Jan 2025 21:35:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 23:14:01 GMT</lastBuildDate>
+    <item>
+      <title>美国退出日期定于 2026 年 1 月，世卫组织开始削减成本</title>
+      <link>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</link>
+      <description><![CDATA[美国目前是世卫组织最大的资助国，贡献了该组织预算的约18%。]]></description>
+      <guid>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</guid>
+      <pubDate>Fri, 24 Jan 2025 22:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 开始停止对旧 GPU 的支持，包括寿命较长的 GTX 1060</title>
+      <link>https://arstechnica.com/gadgets/2025/01/nvidia-winding-down-support-for-older-gpus-including-the-legendary-750-ti-and-1060/</link>
+      <description><![CDATA[Nvidia 上次放弃对旧 GPU 的 Game Ready 驱动程序支持是在 2021 年。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/nvidia-winding-down-support-for-older-gpus-including-the-legendary-750-ti-and-1060/</guid>
+      <pubDate>Fri, 24 Jan 2025 22:13:06 GMT</pubDate>
+    </item>
     <item>
       <title>Anthropic 使用新的 Citations API 将 RAG 直接构建到 Claude 模型中</title>
       <link>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[该漏洞还可能导致访问一年的位置历史记录。]]></description>
       <guid>https://arstechnica.com/cars/2025/01/millions-of-subarus-could-be-remotely-unlocked-tracked-due-to-security-flaws/</guid>
       <pubDate>Fri, 24 Jan 2025 14:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭报告：中国的可重复使用火箭成功了吗？交通部或将审查 SpaceX 的罚款</title>
-      <link>https://arstechnica.com/space/2025/01/rocket-report-dot-may-review-spacex-fines-did-chinas-reusable-rocket-work/</link>
-      <description><![CDATA[Rocket Lab 宣布将很快发射一批八颗德国野火探测卫星。]]></description>
-      <guid>https://arstechnica.com/space/2025/01/rocket-report-dot-may-review-spacex-fines-did-chinas-reusable-rocket-work/</guid>
-      <pubDate>Fri, 24 Jan 2025 12:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>感染后门的 VPN 使用“魔术包”来确保隐身性和安全性</title>
-      <link>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</link>
-      <description><![CDATA[J-Magic后门感染了各行各业的组织。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/backdoor-infecting-vpns-used-magic-packets-for-stealth-and-security/</guid>
-      <pubDate>Thu, 23 Jan 2025 23:42:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
