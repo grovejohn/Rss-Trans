@@ -4,7 +4,14 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 25 Jan 2025 02:53:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 06:40:13 GMT</lastBuildDate>
+    <item>
+      <title>本周 Plasma：精美的时区选择器</title>
+      <link>https://blogs.kde.org/2025/01/25/this-week-in-plasma-fancy-time-zone-picker/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/01/25/this-week-in-plasma-fancy-time-zone-picker/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 25 Jan 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>KDE：Snaps 错误修复和 Kubuntu：Noble 更新</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snaps-bug-fixes-and-kubuntu-noble-updates/?utm_source=atom_feed</link>
@@ -134,13 +141,6 @@ https://jriddell.org/jriddell.pgp]]></description>
 ]]></description>
       <guid>https://anditosan.wordpress.com/2025/01/22/kde-design-system-update-january-2025/?utm_source=atom_feed</guid>
       <pubDate>Wed, 22 Jan 2025 03:37:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Manjaro ARM 死了吗？</title>
-      <link>https://blog.strits.dk/is-manjaro-arm-dead/?utm_source=atom_feed</link>
-      <description><![CDATA[有些人可能已经注意到了。Manjaro ARM 软件包最近很少更新。实际上，自从我在 2023 年 3 月离开该项目以来，更新间隔已经很长了。所以这就引出了一个问题：Manjaro ARM 死了吗？让我们来看看目前的状态。没有新图像Manjaro ARM 支持的所有主要平台的最后一轮发布图像是在 2023 年 2 月完成的，发布版本为 23.02。而且我听说大多数镜像在第一次更新后都会破坏安装。我离开后，我见过的唯一有新版本发布的镜像是基于 Pinephone 的镜像。但它们仍被视为 Beta 版（4 年后！）。ARM 下载在网站上不再突出Manjaro.org 不久前有了一个新的花哨网站。这个网站隐藏了 ARM 镜像，所以你必须仔细寻找才能找到它们。以下是在新网站上找到它们的方法：manjaro.org -&gt; 下载按钮 -&gt; 按下载条目返回到产品 &gt; 下载 &gt; x86 子菜单中的上一步 -&gt;按下第二部分“适用于手机和嵌入式”中的“下载”按钮。现在您可以查看和下载 ARM 映像。很少的软件包更新Raspberry Pi 特定软件包由维护者 Ray Sherman 稳定更新。但所有其他 Manjaro 特定软件包都很少更新或根本不更新。即使 Arch Linux ARM 的软件包更新也不再经常进行。因此，软件包存储库总体上处于非常糟糕的过时状态。它是否得到维护？考虑到所有这些观点，我得出结论，它实际上不再得到维护。 Ray 就此事询问了 Manjaro 项目管理层，并被告知 ARM 分支不再有经理，因此它不再是 Manjaro 团队的优先事项。对我来说，这听起来像是它已经缓慢而安静地消亡了。由于 Manjaro ARM 的现状，我不会再向任何人推荐它了。这是一个令人悲伤的结局，因为我早在 2016 年就和 Josh Crowder 一起开始了这个项目，我们很喜欢这个项目。]]></description>
-      <guid>https://blog.strits.dk/is-manjaro-arm-dead/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 19 Jan 2025 19:55:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
