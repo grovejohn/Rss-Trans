@@ -4,7 +4,14 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 25 Jan 2025 06:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 08:38:01 GMT</lastBuildDate>
+    <item>
+      <title>助记符，无处不在的助记符</title>
+      <link>https://blog.broulik.de/2025/01/mnemonics-mnemonics-everywhere/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.broulik.de/2025/01/mnemonics-mnemonics-everywhere/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 25 Jan 2025 08:03:23 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma：精美的时区选择器</title>
       <link>https://blogs.kde.org/2025/01/25/this-week-in-plasma-fancy-time-zone-picker/?utm_source=atom_feed</link>
@@ -129,18 +136,6 @@ SHA256： e5adb0806e12b4ce44b55434256139656546db9f5b8d78ccafae07db0ce70570
 https://jriddell.org/jriddell.pgp]]></description>
       <guid>https://blogs.kde.org/2025/01/23/ruqola-2.4.1/?utm_source=atom_feed</guid>
       <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE 设计系统更新 – 2025 年 1 月</title>
-      <link>https://anditosan.wordpress.com/2025/01/22/kde-design-system-update-january-2025/?utm_source=atom_feed</link>
-      <description><![CDATA[大家好
-这是另一个视频，回顾了过去几周 Plasma 设计系统发生的事情。我回顾了图标工作以及设计图标时需要考虑的一些事项。
-回顾了我们当前的状态或事务，提出了冲刺建议以及与 PenPot 的合作。
-
-
-]]></description>
-      <guid>https://anditosan.wordpress.com/2025/01/22/kde-design-system-update-january-2025/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 22 Jan 2025 03:37:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

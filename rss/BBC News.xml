@@ -4,7 +4,7 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sat, 25 Jan 2025 08:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 08:38:07 GMT</lastBuildDate>
     <item>
       <title>风暴伊奥温持续强风，近百万户断电</title>
       <link>https://www.bbc.com/news/articles/cqjvqpkq81lo</link>
@@ -48,6 +48,13 @@
       <pubDate>Sat, 25 Jan 2025 01:15:34 GMT</pubDate>
     </item>
     <item>
+      <title>泄露备忘录称美国暂停对外援助</title>
+      <link>https://www.bbc.com/news/articles/ce9nx5k7lv0o</link>
+      <description><![CDATA[国务院的通知似乎影响到从发展援助到军事援助的所有方面。]]></description>
+      <guid>https://www.bbc.com/news/articles/ce9nx5k7lv0o</guid>
+      <pubDate>Sat, 25 Jan 2025 00:02:55 GMT</pubDate>
+    </item>
+    <item>
       <title>观看：风暴伊奥玟带来恶劣天气，树木倒塌，街道被淹</title>
       <link>https://www.bbc.com/news/videos/crlk02xyp87o</link>
       <description><![CDATA[风暴伊奥温 (Éowyn) 带来高达 114 英里/小时（183 公里/小时）的阵风，导致交通中断，英国和爱尔兰许多地区断电。]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[让我们来回顾一下第三季中最令人难忘的 13 个史诗般的背叛时刻。]]></description>
       <guid>https://www.bbc.com/news/articles/ckgyngdqlveo</guid>
       <pubDate>Fri, 24 Jan 2025 17:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈马斯即将释放的下四名以色列人质是谁？</title>
-      <link>https://www.bbc.com/news/articles/cg5ydgeqrvqo</link>
-      <description><![CDATA[哈马斯称，作为加沙停火的一部分，它将释放女兵卡琳娜·阿里耶夫、丹妮拉·吉尔博阿、纳马·莱维和利里·阿尔巴格。]]></description>
-      <guid>https://www.bbc.com/news/articles/cg5ydgeqrvqo</guid>
-      <pubDate>Fri, 24 Jan 2025 16:55:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
