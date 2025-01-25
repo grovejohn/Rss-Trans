@@ -4,7 +4,17 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 25 Jan 2025 08:38:01 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jan 2025 21:12:21 GMT</lastBuildDate>
+    <item>
+      <title>2025 年首家 Kdenlive 咖啡馆</title>
+      <link>https://kdenlive.org/en/2025/01/first-kdenlive-cafe-of-2025/?utm_source=atom_feed</link>
+      <description><![CDATA[准备好您最喜欢的饮料，加入我们今年的第一场 Kdenlive Café！来和开发团队一起聚会，分享您的想法和反馈，了解未来版本的最新动态，并与其他编辑交流。加入社区！
+📅 1 月 28 日星期二，晚上 8 点（UTC）
+🌐 https://meet.kde.org/b/far-twm-ebr
+帖子2025 年第一家 Kdenlive Café首先出现在Kdenlive上。]]></description>
+      <guid>https://kdenlive.org/en/2025/01/first-kdenlive-cafe-of-2025/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 25 Jan 2025 19:06:48 GMT</pubDate>
+    </item>
     <item>
       <title>助记符，无处不在的助记符</title>
       <link>https://blog.broulik.de/2025/01/mnemonics-mnemonics-everywhere/?utm_source=atom_feed</link>
@@ -111,30 +121,6 @@ DrKonqi：添加 plasma-browser-integration-host 映射。提交。
 
 查看完整变更日志]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.2.91/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>芝麻菜 2.4.1</title>
-      <link>https://blogs.kde.org/2025/01/23/ruqola-2.4.1/?utm_source=atom_feed</link>
-      <description><![CDATA[Ruqola 2.4.1 是 Rocket.chat 通讯应用程序的一个功能和错误修复版本。
-Ruqola 2.4.1
-
-修复输入支持（新 API）
-排除以 /* 或 // 开头的字符串作为 Rocket 聊天命令（避免错误）
-隐藏预览时不复制文本
-修复市场应用程序支持
-修复邀请用户进入房间时搜索用户（允许使用“@”）
-当我们没有特定房间的数据库历史记录时通知
-修复在预览网址中的文本中单击网址
-不允许创建两个同名的令牌
-当行编辑时不显示清除按钮只读
-
-URL： https://download.kde.org/stable/ruqola/
-来源：ruqola-2.4.1.tar.xz
-SHA256： e5adb0806e12b4ce44b55434256139656546db9f5b8d78ccafae07db0ce70570
-签名者： E0A3EB202F8E57528E13E72FD7574483BB57B18DJonathan Riddell jr@jriddell.org
-https://jriddell.org/jriddell.pgp]]></description>
-      <guid>https://blogs.kde.org/2025/01/23/ruqola-2.4.1/?utm_source=atom_feed</guid>
       <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
