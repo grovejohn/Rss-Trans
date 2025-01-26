@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sun, 26 Jan 2025 06:40:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 07:13:11 GMT</lastBuildDate>
+    <item>
+      <title>科学家重现了引发复杂生命的条件</title>
+      <link>https://www.wired.com/story/scientists-recreate-the-conditions-that-sparked-complex-life/</link>
+      <description><![CDATA[内共生现象推动了进化，即一种微生物在另一种微生物体内建立永久家园的细胞联盟。生物学家首次在实验室中实现了这一现象。]]></description>
+      <guid>https://www.wired.com/story/scientists-recreate-the-conditions-that-sparked-complex-life/</guid>
+      <pubDate>Sun, 26 Jan 2025 07:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>乔治·R·R·马丁合著了一篇科学论文</title>
       <link>https://www.wired.com/story/george-rr-martin-coauthored-a-scientific-paper-physics/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[《鱿鱼游戏》、《恶魔城：夜曲》和《坂本龙马的日子》只是您本月需要在 Netflix 上观看的几部节目。]]></description>
       <guid>https://www.wired.com/story/netflix-best-shows-this-week/</guid>
       <pubDate>Sat, 25 Jan 2025 12:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>法官限制 FBI 无证搜查 美国隐私权获得胜利</title>
-      <link>https://www.wired.com/story/section-702-fbi-searches-unconstitutional/</link>
-      <description><![CDATA[另外：一名黑客发现 Cloudflare 的系统存在问题，可能会泄露应用程序用户的大致位置，而特朗普政府也对一项重要的网络安全调查造成了阻碍。]]></description>
-      <guid>https://www.wired.com/story/section-702-fbi-searches-unconstitutional/</guid>
-      <pubDate>Sat, 25 Jan 2025 11:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
