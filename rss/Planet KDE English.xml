@@ -4,7 +4,14 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 27 Jan 2025 10:40:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:59:38 GMT</lastBuildDate>
+    <item>
+      <title>本周 KDE 应用</title>
+      <link>https://blogs.kde.org/2025/01/27/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/01/27/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 27 Jan 2025 10:50:35 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Quick 样式生成器：使用 Figma 自动化 Qt Quick 样式</title>
       <link>https://www.qt.io/blog/qt-quick-style-generator-automating-qt-quick-styling-from-figma?utm_source=atom_feed</link>
@@ -93,17 +100,6 @@ Qt for MCUs 2.9.1 已发布并可供下载。 此补丁版本提供了错误修
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-15.0.1-released?utm_source=atom_feed</guid>
       <pubDate>Thu, 23 Jan 2025 10:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年杰出贡献者</title>
-      <link>https://www.qt.io/blog/top-contributors-of-2024?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-2024 年的 Qt2024 年对于 Qt 来说又是辉煌的一年，充满了激动人心的里程碑和成就！今年的亮点包括 Qt 6.7 和 Qt 6.8 发布、Qt Creator 15 发布，以及 Qt 贡献者峰会。
-]]></description>
-      <guid>https://www.qt.io/blog/top-contributors-of-2024?utm_source=atom_feed</guid>
-      <pubDate>Thu, 23 Jan 2025 08:59:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
