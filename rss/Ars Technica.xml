@@ -4,9 +4,30 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Mon, 27 Jan 2025 20:17:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 21:35:23 GMT</lastBuildDate>
     <item>
-      <title>特朗普可能会让 TikTok 的算法受字节跳动控制</title>
+      <title>FCC 主席否决了促进公寓楼宽带竞争的计划</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/</link>
+      <description><![CDATA[布伦丹·卡尔 (Brendan Carr) 放弃了禁止将租户锁定于一个 ISP 的批量计费交易的计划。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/fcc-chair-nixes-plan-to-boost-broadband-competition-in-apartment-buildings/</guid>
+      <pubDate>Mon, 27 Jan 2025 21:13:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年美国风能和太阳能发电量将超过煤炭</title>
+      <link>https://arstechnica.com/science/2025/01/us-solar-boom-continues-but-its-offset-by-rising-power-use/</link>
+      <description><![CDATA[尽管未来充满不确定性，公用事业规模的太阳能发电量仍增长了 30% 以上。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/us-solar-boom-continues-but-its-offset-by-rising-power-use/</guid>
+      <pubDate>Mon, 27 Jan 2025 20:57:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>异形：地球将把恐怖带回家</title>
+      <link>https://arstechnica.com/culture/2025/01/alien-earth-teaser-gives-us-xenomorphs-pov/</link>
+      <description><![CDATA[这部前传系列故事设定在 1979 年原版电影《异形》事件的几年之前。]]></description>
+      <guid>https://arstechnica.com/culture/2025/01/alien-earth-teaser-gives-us-xenomorphs-pov/</guid>
+      <pubDate>Mon, 27 Jan 2025 19:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道，特朗普拯救 TikTok 的计划可能违反最高法院支持的法律</title>
       <link>https://arstechnica.com/tech-policy/2025/01/trump-may-leave-tiktoks-algorithm-under-bytedances-control/</link>
       <description><![CDATA[业内人士都在谈论特朗普拯救 TikTok 的计划。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/trump-may-leave-tiktoks-algorithm-under-bytedances-control/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[3D 打印的枪支零件在黑市上价值不菲。]]></description>
       <guid>https://arstechnica.com/culture/2025/01/3d-printed-ghost-gun-ring-comes-to-my-community-and-leaves-a-man-dead/</guid>
       <pubDate>Fri, 24 Jan 2025 23:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国退出日期定于 2026 年 1 月，世卫组织开始削减成本</title>
-      <link>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</link>
-      <description><![CDATA[美国目前是世卫组织最大的资助国，贡献了该组织预算的约18%。]]></description>
-      <guid>https://arstechnica.com/health/2025/01/who-starts-cutting-costs-as-us-withdrawal-date-set-for-january-2026/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:27:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 开始停止对旧 GPU 的支持，包括寿命较长的 GTX 1060</title>
-      <link>https://arstechnica.com/gadgets/2025/01/nvidia-winding-down-support-for-older-gpus-including-the-legendary-750-ti-and-1060/</link>
-      <description><![CDATA[Nvidia 上次放弃对旧 GPU 的 Game Ready 驱动程序支持是在 2021 年。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/01/nvidia-winding-down-support-for-older-gpus-including-the-legendary-750-ti-and-1060/</guid>
-      <pubDate>Fri, 24 Jan 2025 22:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 使用新的 Citations API 将 RAG 直接构建到 Claude 模型中</title>
-      <link>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</link>
-      <description><![CDATA[新功能允许克劳德参考源文档并减少幻觉。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/anthropic-adds-citations-in-bid-to-avoid-confabulating-ai-models/</guid>
-      <pubDate>Fri, 24 Jan 2025 21:05:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
