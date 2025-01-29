@@ -4,7 +4,14 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 29 Jan 2025 16:41:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 18:21:10 GMT</lastBuildDate>
+    <item>
+      <title>科学面临风险：资金暂停带来的危害比你想象的更大</title>
+      <link>https://arstechnica.com/science/2025/01/science-at-risk-the-funding-pause-is-more-damaging-than-you-might-think/</link>
+      <description><![CDATA[有助于推动经济发展的研究暂时搁置，并可能面临新的意识形态限制。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/science-at-risk-the-funding-pause-is-more-damaging-than-you-might-think/</guid>
+      <pubDate>Wed, 29 Jan 2025 17:17:00 GMT</pubDate>
+    </item>
     <item>
       <title>评测：Nvidia 售价 999 美元的 GeForce RTX 5080 令人失望地落后于 4090</title>
       <link>https://arstechnica.com/gadgets/2025/01/nvidia-geforce-rtx-5080-review-more-like-a-4080-super-super/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[攻击者解释反垃圾邮件防御如何成为人工智能武器。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/</guid>
       <pubDate>Tue, 28 Jan 2025 21:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 芯片可能遭黑客攻击，泄露 Gmail、iCloud 等机密</title>
-      <link>https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/</link>
-      <description><![CDATA[侧通道使未经身份验证的远程攻击者能够获得他们本不该拥有的访问权限。]]></description>
-      <guid>https://arstechnica.com/security/2025/01/newly-discovered-flaws-in-apple-chips-leak-secrets-in-safari-and-chrome/</guid>
-      <pubDate>Tue, 28 Jan 2025 20:56:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
