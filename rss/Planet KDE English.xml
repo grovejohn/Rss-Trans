@@ -4,7 +4,15 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 30 Jan 2025 10:39:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 12:58:24 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 16 Beta 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-16-beta-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 16 Beta 版发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-16-beta-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 30 Jan 2025 10:46:32 GMT</pubDate>
+    </item>
     <item>
       <title>Krita 5.2.9 发布！</title>
       <link>https://krita.org/en/posts/2025/krita-5-2-9-released/?utm_source=atom_feed</link>
@@ -98,13 +106,6 @@ Qt Gradle Plugin 1.1 (QtGP) 现已发布！如果您错过了 1.0 版，我建�
 帖子2025 年第一家 Kdenlive Café首先出现在Kdenlive上。]]></description>
       <guid>https://kdenlive.org/en/2025/01/first-kdenlive-cafe-of-2025/?utm_source=atom_feed</guid>
       <pubDate>Sat, 25 Jan 2025 19:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>助记符，无处不在的助记符</title>
-      <link>https://blog.broulik.de/2025/01/mnemonics-mnemonics-everywhere/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.broulik.de/2025/01/mnemonics-mnemonics-everywhere/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 25 Jan 2025 08:03:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
