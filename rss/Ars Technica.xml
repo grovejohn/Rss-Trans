@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 30 Jan 2025 19:11:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 21:36:28 GMT</lastBuildDate>
+    <item>
+      <title>版权局称人工智能版权之争已于 1965 年解决</title>
+      <link>https://arstechnica.com/tech-policy/2025/01/copyright-office-suggests-ai-copyright-debate-was-settled-in-1965/</link>
+      <description><![CDATA[报告称，大多数人认为纯人工智能生成的作品不应该受到版权保护。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/01/copyright-office-suggests-ai-copyright-debate-was-settled-in-1965/</guid>
+      <pubDate>Thu, 30 Jan 2025 20:46:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>VGHF 开放 1,500 本经典游戏杂志和 30,000 份历史文件的免费在线访问</title>
+      <link>https://arstechnica.com/gaming/2025/01/vghf-opens-free-online-access-to-1500-classic-game-mags-30k-historic-files/</link>
+      <description><![CDATA[来体验经典的 GamePro，欣赏原始的Myst电影镜头。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/01/vghf-opens-free-online-access-to-1500-classic-game-mags-30k-historic-files/</guid>
+      <pubDate>Thu, 30 Jan 2025 20:22:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>报告：DeepSeek 的聊天记录和内部数据被公开曝光</title>
+      <link>https://arstechnica.com/security/2025/01/report-deepseeks-chat-histories-and-internal-data-were-publicly-exposed/</link>
+      <description><![CDATA[Wiz 的研究人员发现，其访问权限不断提升，与 OpenAI 有许多相似之处。]]></description>
+      <guid>https://arstechnica.com/security/2025/01/report-deepseeks-chat-histories-and-internal-data-were-publicly-exposed/</guid>
+      <pubDate>Thu, 30 Jan 2025 19:49:25 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 预告美国人工智能“新时代”将加深与政府的联系</title>
       <link>https://arstechnica.com/tech-policy/2025/01/openai-partners-with-national-labs-to-supercharge-scientific-breakthroughs/</link>
@@ -27,7 +48,7 @@
       <pubDate>Thu, 30 Jan 2025 16:37:14 GMT</pubDate>
     </item>
     <item>
-      <title>微软更新了基于英特尔的 Surface PC，但普通人仍然买不到</title>
+      <title>如果你能负担得起，微软将更新基于英特尔的 Surface PC</title>
       <link>https://arstechnica.com/gadgets/2025/01/microsoft-updates-intel-based-surface-pcs-but-regular-people-still-cant-buy-them/</link>
       <description><![CDATA[企业通常使用仍需要 x86 才能正常运行的硬件和软件。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/01/microsoft-updates-intel-based-surface-pcs-but-regular-people-still-cant-buy-them/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[这些变化包括更好的空气动力学性能、更短的传动装置以及旅行车的回归。]]></description>
       <guid>https://arstechnica.com/features/2025/01/weight-saving-and-aero-optimization-feature-in-the-2025-porsche-911-gt3/</guid>
       <pubDate>Wed, 29 Jan 2025 23:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>民主党与电影业联手提出网站屏蔽法</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/movie-industry-loves-bill-that-would-force-isps-to-block-piracy-websites/</link>
-      <description><![CDATA[美国拟议的法律被批评为“过于苛刻”且是“互联网终止开关”。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/movie-industry-loves-bill-that-would-force-isps-to-block-piracy-websites/</guid>
-      <pubDate>Wed, 29 Jan 2025 22:45:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>干细胞用于部分修复受损心脏</title>
-      <link>https://arstechnica.com/science/2025/01/stem-cells-used-to-partially-repair-damaged-hearts/</link>
-      <description><![CDATA[来自干细胞的心肌贴片可以改善受损的心脏。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/stem-cells-used-to-partially-repair-damaged-hearts/</guid>
-      <pubDate>Wed, 29 Jan 2025 22:27:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>两位宇航员从太空返回的长期计划现在成为一个政治问题</title>
-      <link>https://arstechnica.com/space/2025/01/the-long-planned-return-of-two-astronauts-from-space-is-now-a-political-issue/</link>
-      <description><![CDATA[由于很多原因，这一切都相当疯狂。]]></description>
-      <guid>https://arstechnica.com/space/2025/01/the-long-planned-return-of-two-astronauts-from-space-is-now-a-political-issue/</guid>
-      <pubDate>Wed, 29 Jan 2025 21:29:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
