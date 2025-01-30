@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Thu, 30 Jan 2025 12:58:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 13:25:08 GMT</lastBuildDate>
+    <item>
+      <title>你的披萨送货员现在是人工智能</title>
+      <link>https://www.wired.com/story/palona-ai-chatbot-salesperson/</link>
+      <description><![CDATA[您可能遇到过 AI 驱动的客户服务聊天机器人。现在来了解一下 AI 销售员。]]></description>
+      <guid>https://www.wired.com/story/palona-ai-chatbot-salesperson/</guid>
+      <pubDate>Thu, 30 Jan 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国给人工智能初创企业上了一课，汽车制造商多年前就学到了</title>
       <link>https://www.wired.com/story/china-taught-ai-startups-a-lesson-automakers-learned-years-ago/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[提前布奇威尔莫尔和苏尼威廉姆斯返回将导致仅一名宇航员负责操作国际空间站的美国部分。]]></description>
       <guid>https://www.wired.com/story/trumps-plan-for-elon-musk-to-bring-the-stranded-astronauts-home-asap-is-a-headache-for-nasa/</guid>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>暴露的 DeepSeek 数据库揭示了聊天提示和内部数据</title>
-      <link>https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</link>
-      <description><![CDATA[总部位于中国的 DeepSeek 人气飙升，但也引发了更多关注。例如：安全研究人员在一个开放数据库中发现了超过 100 万条记录，其中包括用户数据和 API 密钥。]]></description>
-      <guid>https://www.wired.com/story/exposed-deepseek-database-revealed-chat-prompts-and-internal-data/</guid>
-      <pubDate>Wed, 29 Jan 2025 21:34:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
