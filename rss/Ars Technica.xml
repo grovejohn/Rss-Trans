@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 31 Jan 2025 03:16:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 13:22:38 GMT</lastBuildDate>
+    <item>
+      <title>本月我们差点错过的七个精彩科学故事</title>
+      <link>https://arstechnica.com/science/2025/01/seven-cool-science-stories-we-almost-missed-this-month/</link>
+      <description><![CDATA[秘鲁木乃伊纹身、长矛和飞镖的摇摆物理学、量子“猫态”等等。]]></description>
+      <guid>https://arstechnica.com/science/2025/01/seven-cool-science-stories-we-almost-missed-this-month/</guid>
+      <pubDate>Fri, 31 Jan 2025 12:30:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>火箭报道：SpaceX 抛弃猎鹰 9 号；索马里太空港？</title>
+      <link>https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/</link>
+      <description><![CDATA[“这是完美的合作伙伴关系，也是所有机会中最大的一个。”]]></description>
+      <guid>https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/</guid>
+      <pubDate>Fri, 31 Jan 2025 12:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>《Severance》的编剧和演员们探讨企业崇拜、科幻等话题</title>
+      <link>https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/</link>
+      <description><![CDATA[邪典纪录片、科幻经典被认为是该剧的影响因素。]]></description>
+      <guid>https://arstechnica.com/culture/2025/01/the-severance-writer-and-cast-on-corporate-cults-sci-fi-and-more/</guid>
+      <pubDate>Fri, 31 Jan 2025 12:00:01 GMT</pubDate>
+    </item>
     <item>
       <title>福特制造了一辆 NASCAR Mach-E，但目前还不确定该如何处理它</title>
       <link>https://arstechnica.com/cars/2025/01/ford-made-a-nascar-mach-e-but-its-not-sure-what-to-do-with-it-yet/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[Wiz 的研究人员发现，其访问权限不断提升，与 OpenAI 有许多相似之处。]]></description>
       <guid>https://arstechnica.com/security/2025/01/report-deepseeks-chat-histories-and-internal-data-were-publicly-exposed/</guid>
       <pubDate>Thu, 30 Jan 2025 19:49:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 预告美国人工智能“新时代”将加深与政府的联系</title>
-      <link>https://arstechnica.com/tech-policy/2025/01/openai-partners-with-national-labs-to-supercharge-scientific-breakthroughs/</link>
-      <description><![CDATA[该公司表示，人工智能可以帮助保护国家安全、检测疾病和稳定电网。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/01/openai-partners-with-national-labs-to-supercharge-scientific-breakthroughs/</guid>
-      <pubDate>Thu, 30 Jan 2025 18:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我同意 OpenAI 的观点：未经许可，不得使用他人的作品</title>
-      <link>https://arstechnica.com/ai/2025/01/i-agree-with-openai-you-shouldnt-use-other-peoples-work-without-permission/</link>
-      <description><![CDATA[专栏：OpenAI 称 DeepSeek 不当使用其数据。这一定很令人沮丧！]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/i-agree-with-openai-you-shouldnt-use-other-peoples-work-without-permission/</guid>
-      <pubDate>Thu, 30 Jan 2025 17:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软现托管被指抄袭 OpenAI 数据的 AI 模型</title>
-      <link>https://arstechnica.com/ai/2025/01/microsoft-embraces-openai-competitor-deepseek-on-its-ai-hosting-service/</link>
-      <description><![CDATA[OpenAI 最大的投资者现在出售被指控违反 OpenAI 条款的“R1”模型的访问权。]]></description>
-      <guid>https://arstechnica.com/ai/2025/01/microsoft-embraces-openai-competitor-deepseek-on-its-ai-hosting-service/</guid>
-      <pubDate>Thu, 30 Jan 2025 16:37:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
