@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 31 Jan 2025 19:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 21:37:00 GMT</lastBuildDate>
     <item>
-      <title>财政部官员因与 DOGE 就支付系统访问权发生冲突而退休</title>
+      <title>谷歌 Pixel 4a 的“电池性能”更新令人困惑不已</title>
+      <link>https://arstechnica.com/gadgets/2025/01/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess/</link>
+      <description><![CDATA[很难说清楚为什么谷歌要这么做而不是召回。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/01/google-pixel-4as-ruinous-battery-performance-update-is-a-bewildering-mess/</guid>
+      <pubDate>Fri, 31 Jan 2025 21:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 以 o3-mini 推理模型反击 DeepSeek</title>
+      <link>https://arstechnica.com/ai/2025/01/openai-hits-back-at-deepseek-with-o3-mini-reasoning-model/</link>
+      <description><![CDATA[OpenAI 表示，更快、更准确的以 STEM 为重点的模型将免费提供给所有用户。]]></description>
+      <guid>https://arstechnica.com/ai/2025/01/openai-hits-back-at-deepseek-with-o3-mini-reasoning-model/</guid>
+      <pubDate>Fri, 31 Jan 2025 20:06:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>财政部官员因与 DOGE 就支付系统访问权限发生冲突而退休</title>
       <link>https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/</link>
       <description><![CDATA[长期担任该职务的官员因“争夺敏感支付系统访问权限”而发生冲突后退休。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/01/musks-doge-clashes-with-treasury-over-access-to-payment-system-report-says/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[当罗伯特·肯尼迪 (RFK Jr.) 试图说服立法者他支持疫苗接种时，发生了很多令人惊奇的事情。]]></description>
       <guid>https://arstechnica.com/health/2025/01/top-10-moments-of-rfk-jr-s-reality-bending-confirmation-hearings/</guid>
       <pubDate>Fri, 31 Jan 2025 14:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>本月我们差点错过的七个精彩科学故事</title>
-      <link>https://arstechnica.com/science/2025/01/seven-cool-science-stories-we-almost-missed-this-month/</link>
-      <description><![CDATA[秘鲁木乃伊纹身、长矛和飞镖的摇摆物理学、量子“猫态”等等。]]></description>
-      <guid>https://arstechnica.com/science/2025/01/seven-cool-science-stories-we-almost-missed-this-month/</guid>
-      <pubDate>Fri, 31 Jan 2025 12:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭报道：SpaceX 抛弃猎鹰 9 号；索马里太空港？</title>
-      <link>https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/</link>
-      <description><![CDATA[“这是完美的合作伙伴关系，也是所有机会中最大的一个。”]]></description>
-      <guid>https://arstechnica.com/space/2025/01/rocket-report-spacex-tosses-away-a-falcon-9-a-somalian-spaceport/</guid>
-      <pubDate>Fri, 31 Jan 2025 12:00:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
