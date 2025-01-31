@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 31 Jan 2025 08:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 10:39:08 GMT</lastBuildDate>
+    <item>
+      <title>CodeLlama-13B-QML 在 Hugging Face 上发布</title>
+      <link>https://www.qt.io/blog/codellama-13b-qml-released-on-hugging-face?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+我们已在 Hugging Face 上发布了用于 QML 代码补全的 CodeLlama-13B-QML 大型语言模型。 
+]]></description>
+      <guid>https://www.qt.io/blog/codellama-13b-qml-released-on-hugging-face?utm_source=atom_feed</guid>
+      <pubDate>Fri, 31 Jan 2025 09:17:49 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 行程中的十二月/一月</title>
       <link>https://www.volkerkrause.eu/2025/01/31/kde-itinerary-december-january-2025.html?utm_source=atom_feed</link>
@@ -62,7 +73,7 @@ tldr;记住我们 QtCS25 的日期，5 月 7 日至 8 日在慕尼黑举行。�
       <pubDate>Tue, 28 Jan 2025 10:53:15 GMT</pubDate>
     </item>
     <item>
-      <title>哪个是最适合编写 QML 代码的 LLM？</title>
+      <title>哪个是最适合编码 QML 的 LLM？</title>
       <link>https://www.qt.io/blog/which-is-the-best-llm-for-coding-qml?utm_source=atom_feed</link>
       <description><![CDATA[
   
@@ -89,17 +100,6 @@ Qt Quick Controls 样式定义控件的视觉表示。通过覆盖控件的视�
 ]]></description>
       <guid>https://www.qt.io/blog/qt-quick-style-generator-automating-qt-quick-styling-from-figma?utm_source=atom_feed</guid>
       <pubDate>Mon, 27 Jan 2025 09:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt Gradle 插件 1.1 发布</title>
-      <link>https://www.qt.io/blog/qt-gradle-plugin-1.1-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-Qt Gradle Plugin 1.1 (QtGP) 现已发布！如果您错过了 1.0 版，我建议您阅读 QtGP 1.0 发布帖子来了解最新情况。在这里，我们将展示 1.1 中的新增功能，并展示自 1.0 版本以来我们就拥有的 Optional 属性的用例。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-gradle-plugin-1.1-released?utm_source=atom_feed</guid>
-      <pubDate>Mon, 27 Jan 2025 06:27:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
