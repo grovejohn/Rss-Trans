@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Fri, 31 Jan 2025 09:36:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 12:57:49 GMT</lastBuildDate>
+    <item>
+      <title>哈勃发现超新星</title>
+      <link>https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/</link>
+      <description><![CDATA[这张 NASA/ESA 哈勃太空望远镜图像的拍摄对象是位于双子座中距离我们约 6 亿光年的一个超新星宿主星系。哈勃望远镜在发现一颗名为 SN 2022aajn 的超新星大约两个月后拍摄了这张照片。这颗超新星在图像中心可见为一个蓝点，照亮了朦胧的 […]]]></description>
+      <guid>https://science.nasa.gov/missions/hubble/hubble-spots-a-supernova/</guid>
+      <pubDate>Fri, 31 Jan 2025 12:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>第 4439-4440 个火星日：火星上的农历新年</title>
       <link>https://science.nasa.gov/blog/sols-4439-4440-a-lunar-new-year-on-mars/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[地球计划日期：2025 年 1 月 27 日星期一 今天我是地质和矿物学 (地球) 科学团队的负责人，我的一天从一声巨响和一阵鼓声开始 — 这是一场罕见的冬季雷雨（至少在英格兰这里很少见）。我确实断电了几分钟，但多亏了笔记本电脑电池和 […]]]></description>
       <guid>https://science.nasa.gov/blog/sols-4437-4438-coordinating-our-dance-moves/</guid>
       <pubDate>Wed, 29 Jan 2025 09:26:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何驾驶美国宇航局的猎户座飞船</title>
-      <link>https://www.nasa.gov/missions/artemis/how-to-fly-nasas-orion-spacecraft/</link>
-      <description><![CDATA[在美国宇航局的阿尔忒弥斯二号试飞中，宇航员将接管猎户座飞船的控制权，并在绕月飞行期间定​​期手动飞行。此次任务首次提供了确保飞船在载人情况下按设计运行的机会，比预期要早。]]></description>
-      <guid>https://www.nasa.gov/missions/artemis/how-to-fly-nasas-orion-spacecraft/</guid>
-      <pubDate>Tue, 28 Jan 2025 19:37:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
