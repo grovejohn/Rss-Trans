@@ -4,7 +4,14 @@
     <title>太空最新消息</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Sat, 01 Feb 2025 23:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 23:36:12 GMT</lastBuildDate>
+    <item>
+      <title>SpaceX 从加州发射 22 颗 Starlink 卫星</title>
+      <link>https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-22-starlink-satellites-to-orbit-from-california</link>
+      <description><![CDATA[美国东部时间 2025 年 2 月 1 日星期六下午 6 点 02 分，搭载 22 颗 Starlink 卫星的 SpaceX Falcon 9 号火箭从加利福尼亚州范登堡太空基地发射升空。]]></description>
+      <guid>https://www.space.com/space-exploration/launches-spacecraft/spacex-launches-22-starlink-satellites-to-orbit-from-california</guid>
+      <pubDate>Sat, 01 Feb 2025 23:27:13 GMT</pubDate>
+    </item>
     <item>
       <title>《星际迷航：第 31 区》的服装设计实际上是“巴黎世家的星际迷航”（采访）</title>
       <link>https://www.space.com/entertainment/star-trek-section-31s-costume-design-was-literally-star-trek-by-balenciaga-interview</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[科学家表示，在展示了两种流行的大型语言模型如何自我克隆后，人工智能已经跨越了一条关键的“红线”。]]></description>
       <guid>https://www.space.com/space-exploration/tech/scientists-discover-new-3rd-form-of-magnetism-that-may-be-the-missing-link-in-the-quest-for-superconductivity</guid>
       <pubDate>Fri, 31 Jan 2025 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲“Swarm”卫星探测海洋潮汐电流</title>
-      <link>https://www.space.com/the-universe/earth/european-swarm-satellites-detect-electric-currents-from-the-oceans-tides</link>
-      <description><![CDATA[卫星探测到海洋潮汐产生的电磁信号，这表明太空传感器可以了解地球上其他液体的运动。]]></description>
-      <guid>https://www.space.com/the-universe/earth/european-swarm-satellites-detect-electric-currents-from-the-oceans-tides</guid>
-      <pubDate>Fri, 31 Jan 2025 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
