@@ -4,7 +4,24 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 01 Feb 2025 06:41:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 16:38:23 GMT</lastBuildDate>
+    <item>
+      <title>Linux 应用峰会和构建持久空间</title>
+      <link>https://www.proli.net/2025/02/01/linux-app-summit-and-building-a-lasting-space/?utm_source=atom_feed</link>
+      <description><![CDATA[Linux App Summit 是我们 KDE 与 GNOME 和其他一些方共同创建的项目。我们希望有一个物理空间来与不同的利益相关者讨论我们的平台。
+自 2019 年以来，我们已经取得了很大进展。从 KDE 的角度来看，我们看到了我们的 flatpaks 和 snap。这种采用为我们的软件带来了各种各样的用户，否则他们不可能拥有这些用户。
+从等式的另一边来看，Linux 发行版一直在像以往一样不断发展。我们看到 无数 发行版使用了我们从未想象过的技术。我们在消费者和开发设备上都发现了它们。甚至 KDE Linux 和 GNOME OS 也在考虑收紧该软件分发循环的另一端。
+现在，是时候更进一步了。
+今年我们将在地拉那举办 LAS 2025。考虑参加 LAS 2025！你想参加吗？
+
+加入我们！参加是免费的，我敢说，我们都是可爱的人。
+发送演讲！您可以来和我们谈谈您如何帮助 Linux 应用成为现实，或者您在应用中发现了什么问题以及如何解决这些问题。在这里您可以找到更多想法。
+赞助商！您的组织是否参与 Linux 生态系统？参与其中吧！
+
+您可以在与会者聊天或此处@LAS@floss.social on Mastodon关注 LAS 更新。]]></description>
+      <guid>https://www.proli.net/2025/02/01/linux-app-summit-and-building-a-lasting-space/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 01 Feb 2025 15:38:22 GMT</pubDate>
+    </item>
     <item>
       <title>本周 Plasma 表现不错</title>
       <link>https://blogs.kde.org/2025/02/01/this-week-in-plasma-feels-like-a-good-one/?utm_source=atom_feed</link>
@@ -81,17 +98,6 @@
 ]]></description>
       <guid>https://www.qt.io/blog/emoji-in-qt-6.9?utm_source=atom_feed</guid>
       <pubDate>Tue, 28 Jan 2025 12:50:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>QtCS25：5 月 7 日至 8 日，请记住这个日期！</title>
-      <link>https://www.qt.io/blog/qtcs25-may-7-8-save-the-date?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-tldr;记住我们 QtCS25 的日期，5 月 7 日至 8 日在慕尼黑举行。敬请期待更多信息。
-]]></description>
-      <guid>https://www.qt.io/blog/qtcs25-may-7-8-save-the-date?utm_source=atom_feed</guid>
-      <pubDate>Tue, 28 Jan 2025 10:53:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
