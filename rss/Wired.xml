@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com 上的最新消息</description>
-    <lastBuildDate>Sat, 01 Feb 2025 11:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 11:36:47 GMT</lastBuildDate>
+    <item>
+      <title>外国黑客利用谷歌双子星攻击美国</title>
+      <link>https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/</link>
+      <description><![CDATA[另外：WhatsApp 披露近 100 个间谍软件目标，黑客利用 AT&amp;T 漏洞寻找美国政客的详细信息，等等。]]></description>
+      <guid>https://www.wired.com/story/hackers-google-gemini-us-cyberattacks/</guid>
+      <pubDate>Sat, 01 Feb 2025 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>尚未透露下一款廉价手机何时发布</title>
       <link>https://www.wired.com/story/nothing-reveals-when-its-next-budget-phone-drops/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[《连线》杂志的调查显示，中国流行的人工智能模型在应用和训练层面都受到了审查。]]></description>
       <guid>https://www.wired.com/story/deepseek-censorship/</guid>
       <pubDate>Fri, 31 Jan 2025 19:33:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的 o3-Mini 是一款与 DeepSeek 保持同步的更精简的 AI 模型</title>
-      <link>https://www.wired.com/story/openai-o3-mini-release/</link>
-      <description><![CDATA[继 DeepSeek R1 之后，OpenAI 的最新模型承诺以更低的价格提供更先进的功能。]]></description>
-      <guid>https://www.wired.com/story/openai-o3-mini-release/</guid>
-      <pubDate>Fri, 31 Jan 2025 19:27:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
