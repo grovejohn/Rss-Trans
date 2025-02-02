@@ -4,7 +4,14 @@
     <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC 新闻 - 新闻头版</description>
-    <lastBuildDate>Sun, 02 Feb 2025 09:36:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 10:14:13 GMT</lastBuildDate>
+    <item>
+      <title>新法律针对人工智能生成的儿童性虐待图像</title>
+      <link>https://www.bbc.com/news/articles/c8d90qe4nylo</link>
+      <description><![CDATA[伊维特·库珀表示，英国将禁止拥有用于制作儿童性虐待图像的人工智能工具。]]></description>
+      <guid>https://www.bbc.com/news/articles/c8d90qe4nylo</guid>
+      <pubDate>Sun, 02 Feb 2025 10:12:31 GMT</pubDate>
+    </item>
     <item>
       <title>中国、加拿大和墨西哥誓言迅速回应特朗普的关税</title>
       <link>https://www.bbc.com/news/articles/c627nx42xelo</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[大卫·阿米蒂奇因涉嫌杀害其妻子而被拘留，其妻子的尸体在约克郡谷地被发现。]]></description>
       <guid>https://www.bbc.com/news/articles/cx2kpm7e15vo</guid>
       <pubDate>Sat, 01 Feb 2025 22:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>新法律针对人工智能生成的儿童性虐待图像</title>
-      <link>https://www.bbc.com/news/articles/c8d90qe4nylo</link>
-      <description><![CDATA[伊维特·库珀表示，英国将禁止拥有用于制作儿童性虐待图像的人工智能工具。]]></description>
-      <guid>https://www.bbc.com/news/articles/c8d90qe4nylo</guid>
-      <pubDate>Sat, 01 Feb 2025 22:00:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
