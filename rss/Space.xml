@@ -4,7 +4,14 @@
     <title>太空最新消息</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Feb 2025 20:36:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 21:14:22 GMT</lastBuildDate>
+    <item>
+      <title>印度新发射卫星因推进器问题搁浅</title>
+      <link>https://www.space.com/space-exploration/launches-spacecraft/newly-launched-indian-satellite-left-stranded-by-propulsion-problem</link>
+      <description><![CDATA[印度的一颗导航卫星发射仅四天后，其推进系统就出现问题，导致其无法进入预定轨道。]]></description>
+      <guid>https://www.space.com/space-exploration/launches-spacecraft/newly-launched-indian-satellite-left-stranded-by-propulsion-problem</guid>
+      <pubDate>Mon, 03 Feb 2025 21:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>“烤棉花糖”系外行星非常热，下起金属雨。它是如何形成的？</title>
       <link>https://www.space.com/roasting-marshmellow-exoplanet-wasp121b</link>
@@ -15,7 +22,7 @@
     <item>
       <title>月球上仍有地质活动吗？有证据表明这是可能的</title>
       <link>https://www.space.com/the-universe/moon/is-the-moon-still-geologically-active-evidence-says-its-possible</link>
-      <description><![CDATA[过去 1.6 亿年形成的皱脊表明月球上最近发生过地质活动。]]></description>
+      <description><![CDATA[过去 1.6 亿年形成的皱脊表明月球上近期发生过地质活动。]]></description>
       <guid>https://www.space.com/the-universe/moon/is-the-moon-still-geologically-active-evidence-says-its-possible</guid>
       <pubDate>Mon, 03 Feb 2025 19:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[SpaceX 猎鹰 9 号火箭将于周二（2 月 4 日）凌晨从佛罗里达卡纳维拉尔角太空军基地发射 21 颗 Starlink 卫星进入轨道]]></description>
       <guid>https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-satellite-launch-group-12-3</guid>
       <pubDate>Sun, 02 Feb 2025 22:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一年与世隔绝：为期 366 天的模拟月球任务在俄罗斯结束</title>
-      <link>https://www.space.com/the-universe/moon/a-year-in-isolation-366-day-mock-moon-mission-wraps-up-in-russia</link>
-      <description><![CDATA[366 天里，六名模拟宇航员在俄罗斯的一个密封环境中生活和工作，这个环境是未来行星际任务的地球替代品。]]></description>
-      <guid>https://www.space.com/the-universe/moon/a-year-in-isolation-366-day-mock-moon-mission-wraps-up-in-russia</guid>
-      <pubDate>Sun, 02 Feb 2025 16:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
