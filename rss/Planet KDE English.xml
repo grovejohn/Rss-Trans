@@ -4,7 +4,47 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 02 Feb 2025 22:37:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 01:10:06 GMT</lastBuildDate>
+    <item>
+      <title>新 Craft cache 25.01 发布</title>
+      <link>https://blogs.kde.org/2025/02/02/new-craft-cache-25.01-published/?utm_source=atom_feed</link>
+      <description><![CDATA[新的 Craft 缓存刚刚发布。此更新已可用于 KDE 的 CD，CI（Windows/Android）将在未来几天内推出。
+请注意，这仅适用于 Qt6 缓存。Qt5 缓存自 2024 年 4 月起处于 LTS 模式，不再接收重大更新。我们强烈建议尽快将 Craft 打包的 Qt5 应用移植到 Qt6！
+更改（突出显示）
+常规
+我们在 tox 的帮助下将 flake8、isort 和 black 的 CI（这也使它们在本地运行变得容易）添加到所有 Craft 存储库。为了能够做到这一点，我们事先做了很多最佳实践清理，例如。删除星号导入。
+Craft Core
+
+放弃对 MSVC 2017 的支持
+引入了 CraftBool 助手。这允许使用诸如 self.subinfo.options.dynamic.withMyLib.asOnOff 之类的方便功能，而不是 &#39;ON&#39; if self.subinfo.options.dynamic.withMyLib else &#39;OFF&#39;
+修复：让 Meson 构建系统尊重 buildStatic 选项
+在 AutoToolsPackageBase 中处理 --enable-static --enable-shared，而不是在每个蓝图中处理
+Python 包（Linux 和 Windows MSVC；macOS 正在进行中）：
+
+自己构建它们，而不是使用 pypi.org 中的预构建二进制文件
+使用适当的暂存
+允许部署/打包它们
+
+
+在切换分支时正确设置 Craft 环境（例如，使用 Craft Master CI)
+
+蓝图
+
+libjpeg-turbo 3.0.3
+针对共享库与静态库的构建进行了多项修复
+libvpx 1.15.0
+添加 minGW 14.2（尚未成为默认版本！）
+7z 24.09
+KShimgen 0.6.1
+linuxdeploy-plugin-qt 2.0.0-alpha-1-20250119
+qtkeychain 0.15.0
+
+关于 KDE Craft
+KDE Craft 是一个开源元构建系统和包管理器。它管理依赖项并在 Windows、macOS、Linux、FreeBSD 和 Android 上从源代码构建库和应用程序。
+在 https://community.kde.org/Craft 上了解更多信息或加入 Matrix 房间 #kde-craft:kde.org]]></description>
+      <guid>https://blogs.kde.org/2025/02/02/new-craft-cache-25.01-published/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Linux 应用峰会和构建持久空间</title>
       <link>https://www.proli.net/2025/02/01/linux-app-summit-and-building-a-lasting-space/?utm_source=atom_feed</link>
@@ -86,18 +126,6 @@
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2025/krita-5-2-9-released/?utm_source=atom_feed</guid>
       <pubDate>Wed, 29 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qt 6.9 中的表情符号</title>
-      <link>https://www.qt.io/blog/emoji-in-qt-6.9?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-表情符号既古怪又有趣，但它也是世界上最受欢迎的书写系统之一。 据估计，2022 年全球 92% 的在线用户使用表情符号来表达自己。
-支持彩色字体是支持表情符号的先决条件，Qt 自 Qt 5.2 以来就在 macOS 和 iOS 上提供此类支持。对于 Windows 和 Linux/Android (Freetype)，支持稍晚一些，是在 Qt 5.7 中。但随着领域的发展，Qt 并没有完全跟上一切。在 Qt 6.9 中，我们填补了空白，并在所有平台上实现了表情符号/彩色字体支持的现代化。
-]]></description>
-      <guid>https://www.qt.io/blog/emoji-in-qt-6.9?utm_source=atom_feed</guid>
-      <pubDate>Tue, 28 Jan 2025 12:50:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
