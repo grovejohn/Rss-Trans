@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 04 Feb 2025 19:36:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 21:14:07 GMT</lastBuildDate>
+    <item>
+      <title>Framework Laptop 的 RISC-V 主板面向开源狂热爱好者，售价 199 美元</title>
+      <link>https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/</link>
+      <description><![CDATA[由于 RAM 和 eMMC 存储是焊接的，因此这并不是“适合消费者的体验”。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/</guid>
+      <pubDate>Tue, 04 Feb 2025 20:31:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧洲想出了最糟糕的办法来对抗 SpaceX 的发射主导地位</title>
+      <link>https://arstechnica.com/space/2025/02/europe-has-the-worst-imaginable-idea-to-counter-spacexs-launch-dominance/</link>
+      <description><![CDATA[该计划一旦实施，似乎注定会失败。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/europe-has-the-worst-imaginable-idea-to-counter-spacexs-launch-dominance/</guid>
+      <pubDate>Tue, 04 Feb 2025 19:37:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>420 亿美元宽带补助计划或将取消拜登政府对光纤的偏好</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/trump-picks-ted-cruzs-telecom-chief-to-overhaul-42b-broadband-program/</link>
+      <description><![CDATA[NTIA 提名人重新制定宽带公平、接入和部署计划。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/trump-picks-ted-cruzs-telecom-chief-to-overhaul-42b-broadband-program/</guid>
+      <pubDate>Tue, 04 Feb 2025 19:25:48 GMT</pubDate>
+    </item>
     <item>
       <title>讽刺警告：Anthropic 表示申请人不应使用法学硕士学位</title>
       <link>https://arstechnica.com/ai/2025/02/irony-alert-anthropic-says-applicants-shouldnt-use-llms/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[北京试图通过重启对科技巨头的调查来对付美国总统。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/china-responds-to-tariffs-with-antitrust-investigations-of-google-nvidia/</guid>
       <pubDate>Tue, 04 Feb 2025 14:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>波音公司在星际航线上已损失 20 亿美元，但仍对未来计划保持沉默</title>
-      <link>https://arstechnica.com/space/2025/02/boeing-has-now-lost-2b-on-starliner-but-still-silent-on-future-plans/</link>
-      <description><![CDATA[波音公司已聘请了一位前星际航线经理来掌舵这一陷入困境的项目。]]></description>
-      <guid>https://arstechnica.com/space/2025/02/boeing-has-now-lost-2b-on-starliner-but-still-silent-on-future-plans/</guid>
-      <pubDate>Tue, 04 Feb 2025 13:44:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>22 岁数学天才因涉嫌 DeFI 黑客攻击被起诉，窃取 6500 万美元</title>
-      <link>https://arstechnica.com/information-technology/2025/02/man-indicted-for-two-alleged-defi-hacks-that-stole-65-million/</link>
-      <description><![CDATA[22 岁的加拿大人安第斯·梅杰多维奇 (Andean Medjedovic) 一旦罪名成立，可能会被判入狱数十年。]]></description>
-      <guid>https://arstechnica.com/information-technology/2025/02/man-indicted-for-two-alleged-defi-hacks-that-stole-65-million/</guid>
-      <pubDate>Tue, 04 Feb 2025 13:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>热门 Linux 组织 Freedesktop 和 Alpine Linux 正在争夺新的网络托管服务</title>
-      <link>https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/</link>
-      <description><![CDATA[捐赠者放弃裸机服务器使得各团体开始寻找新的服务器。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/popular-linux-orgs-freedesktop-and-alpine-linux-are-scrambling-for-new-web-hosting/</guid>
-      <pubDate>Mon, 03 Feb 2025 23:47:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
