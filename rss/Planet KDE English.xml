@@ -4,7 +4,18 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Feb 2025 19:11:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 06:43:20 GMT</lastBuildDate>
+    <item>
+      <title>哪个是用于提示 QML 代码的最佳 LLM（具有 DeepSeek v3）</title>
+      <link>https://www.qt.io/blog/which-is-the-best-llm-for-prompting-qml-code-featuring-deepseek-v3?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+Claude 3.5 Sonnet 是使用英语编写 QML 代码的最佳 LLM。如果您想知道我们得出这个结论的原因，请继续阅读。
+]]></description>
+      <guid>https://www.qt.io/blog/which-is-the-best-llm-for-prompting-qml-code-featuring-deepseek-v3?utm_source=atom_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 06:01:13 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 筹款最终报告</title>
       <link>https://kdenlive.org/en/2025/02/kdenlive-fundraising-final-report/?utm_source=atom_feed</link>
@@ -118,17 +129,6 @@ KDE Craft 是一个开源元构建系统和包管理器。它管理依赖项并�
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2025/01/31/kde-itinerary-december-january-2025.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 31 Jan 2025 07:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2 月 1 日至 2 日：在 FOSDEM 与我们见面！</title>
-      <link>https://www.qt.io/blog/feb-1-2-meet-us-at-fosdem?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-嘿 Qt！
-]]></description>
-      <guid>https://www.qt.io/blog/feb-1-2-meet-us-at-fosdem?utm_source=atom_feed</guid>
-      <pubDate>Thu, 30 Jan 2025 13:44:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
