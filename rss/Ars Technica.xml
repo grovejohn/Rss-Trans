@@ -4,7 +4,49 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 05 Feb 2025 21:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 22:14:53 GMT</lastBuildDate>
+    <item>
+      <title>聊天，你准备好和 NASA 一起去太空了吗？</title>
+      <link>https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/</link>
+      <description><![CDATA[“Twitch 是我们用来吸引新观众的众多数字平台之一。”]]></description>
+      <guid>https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:47:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>AMD 承诺使用下一代 GPU 实现“主流” 4K 游戏，因为当前一代 GPU 的销量下滑</title>
+      <link>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</link>
+      <description><![CDATA[9070 系列 Radeon GPU 在 CES 上发布，计划于三月上市。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:28:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>不够好：谷歌从超级碗广告中删除了人工智能生成的奶酪错误</title>
+      <link>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</link>
+      <description><![CDATA[与谷歌搜索不同，人工智能写作助手甚至没有引用其来源。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:18:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>7-Zip 0day 漏洞在俄罗斯入侵乌克兰的行动中被利用</title>
+      <link>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</link>
+      <description><![CDATA[漏洞剥夺了 Windows 用于标记互联网下载文件的 MotW 标签。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</guid>
+      <pubDate>Wed, 05 Feb 2025 21:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugging Face 在 24 小时内克隆了 OpenAI 的 Deep Research</title>
+      <link>https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/</link>
+      <description><![CDATA[开源“深度研究”项目证明代理框架增强了AI模型能力。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/after-24-hour-hackathon-hugging-faces-ai-research-agent-nearly-matches-openais-solution/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>量子隐形传态用于分发计算</title>
+      <link>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</link>
+      <description><![CDATA[该方法允许将单一算法分布在多个量子处理器上。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:42:39 GMT</pubDate>
+    </item>
     <item>
       <title>冒充 FCC 工作人员的自动拨号器在向真正的 FCC 工作人员拨打电话后被屏蔽</title>
       <link>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</link>
@@ -32,48 +74,6 @@
       <description><![CDATA[为了省钱和保护隐私，成功的服务不会打扰您。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/lets-encrypt-is-ending-expiration-notice-emails-for-some-very-good-reasons/</guid>
       <pubDate>Wed, 05 Feb 2025 18:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国邮政服务暂停并恢复中国包裹寄送，引发混乱</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/americans-likely-to-pay-more-wait-longer-for-online-orders-from-china/</link>
-      <description><![CDATA[美国现在对来自中国的每一笔廉价网上订单征税。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/americans-likely-to-pay-more-wait-longer-for-online-orders-from-china/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:13:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>《侏罗纪世界重生》将于今年 7 月登陆影院</title>
-      <link>https://arstechnica.com/culture/2025/02/jurassic-world-rebirth-roars-into-theaters-this-july/</link>
-      <description><![CDATA[“没有人会傻到跟我们去一样的地方。”]]></description>
-      <guid>https://arstechnica.com/culture/2025/02/jurassic-world-rebirth-roars-into-theaters-this-july/</guid>
-      <pubDate>Wed, 05 Feb 2025 15:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>特斯拉在欧洲和英国销量暴跌，销量下滑</title>
-      <link>https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/</link>
-      <description><![CDATA[该地区的电动汽车销量正在增长，但特斯拉的销量却没有增长。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/tesla-sales-plummet-in-the-uk-france-and-germany/</guid>
-      <pubDate>Wed, 05 Feb 2025 15:10:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过 NASA 的艰难决定，私人月球着陆器找到了新客户</title>
-      <link>https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/</link>
-      <description><![CDATA[“当 VIPER 被移除时，这无疑是一个挫折。我们的团队感受到了这一点。”]]></description>
-      <guid>https://arstechnica.com/space/2025/02/after-a-wrenching-decision-by-nasa-private-lunar-lander-finds-a-new-customer/</guid>
-      <pubDate>Wed, 05 Feb 2025 15:00:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>价值 580 亿美元的本田-日产合并陷入困境</title>
-      <link>https://arstechnica.com/cars/2025/02/58-billion-honda-nissan-merger-is-in-deep-trouble/</link>
-      <description><![CDATA[本田提出将日产转变为全资子公司的提议并没有得到顺利通过。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/58-billion-honda-nissan-merger-is-in-deep-trouble/</guid>
-      <pubDate>Wed, 05 Feb 2025 14:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>科学家发现了一种更快酿造酸啤酒的方法——用豌豆</title>
-      <link>https://arstechnica.com/science/2025/02/pea-sugars-can-speed-up-sour-beer-brewing/</link>
-      <description><![CDATA[酵母不能代谢豌豆中的糖，从而促进必需细菌的生长。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/pea-sugars-can-speed-up-sour-beer-brewing/</guid>
-      <pubDate>Wed, 05 Feb 2025 13:00:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
