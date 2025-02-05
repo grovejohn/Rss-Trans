@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 05 Feb 2025 22:14:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 23:14:53 GMT</lastBuildDate>
+    <item>
+      <title>导致路易斯安那州居民死亡的 H5N1 禽流感病毒株在内华达州的奶牛场中被发现</title>
+      <link>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</link>
+      <description><![CDATA[这一发现意味着新的溢出事件的发生，进一步粉碎了遏制的希望。]]></description>
+      <guid>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</guid>
+      <pubDate>Wed, 05 Feb 2025 22:52:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>法官建议暂时禁止 DOGE 进入财政部记录</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</link>
+      <description><![CDATA[据司法部所知，埃隆·马斯克无权访问财政部数据。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/judge-suggests-temporary-order-blocking-doge-from-treasury-records/</guid>
+      <pubDate>Wed, 05 Feb 2025 22:31:58 GMT</pubDate>
+    </item>
     <item>
       <title>聊天，你准备好和 NASA 一起去太空了吗？</title>
       <link>https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/</link>
@@ -48,7 +62,7 @@
       <pubDate>Wed, 05 Feb 2025 20:42:39 GMT</pubDate>
     </item>
     <item>
-      <title>冒充 FCC 工作人员的自动拨号器在向真正的 FCC 工作人员拨打电话后被屏蔽</title>
+      <title>冒充 FCC 工作人员的自动拨号器在拨打真正的 FCC 工作人员的电话后被屏蔽</title>
       <link>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</link>
       <description><![CDATA[您可以忽略 FCC“防欺诈团队”打来的自动呼叫，但该团队并不存在。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[Polestar 即将推出其紧凑型 SUV——Polestar 7。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</guid>
       <pubDate>Wed, 05 Feb 2025 18:45:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>日元疲软对 Switch 2 定价有何影响</title>
-      <link>https://arstechnica.com/gaming/2025/02/will-japans-weak-enconomy-mean-a-cheaper-switch-2-in-the-us/</link>
-      <description><![CDATA[在汇率不断上升的背景下，任天堂总裁希望实现“客户期望的合理价格”。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/02/will-japans-weak-enconomy-mean-a-cheaper-switch-2-in-the-us/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let’s Encrypt 将停止发送到期通知电子邮件——理由很充分</title>
-      <link>https://arstechnica.com/gadgets/2025/02/lets-encrypt-is-ending-expiration-notice-emails-for-some-very-good-reasons/</link>
-      <description><![CDATA[为了省钱和保护隐私，成功的服务不会打扰您。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/lets-encrypt-is-ending-expiration-notice-emails-for-some-very-good-reasons/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:25:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
