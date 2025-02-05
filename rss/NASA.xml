@@ -4,7 +4,14 @@
     <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Wed, 05 Feb 2025 20:16:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 20:38:55 GMT</lastBuildDate>
+    <item>
+      <title>阿波罗 14 号登月</title>
+      <link>https://www.nasa.gov/image-article/apollo-14-moon-landing/</link>
+      <description><![CDATA[这张 1971 年 2 月 5 日的照片清晰地展现了阿波罗 14 号登月舱着陆月球表面的情景。在左侧，我们可以看到宇航员艾伦·谢泼德和埃德加·米切尔在拍摄登月舱照片之前展开了美国国旗。谢泼德和米切尔乘坐的登月舱着陆了 […]]]></description>
+      <guid>https://www.nasa.gov/image-article/apollo-14-moon-landing/</guid>
+      <pubDate>Wed, 05 Feb 2025 20:05:11 GMT</pubDate>
+    </item>
     <item>
       <title>NASA 开始直播：来自空间站的首个 Twitch 直播</title>
       <link>https://www.nasa.gov/news-release/nasa-goes-live-first-twitch-stream-from-space-station/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[2020 年火星毅力号探测器继续不负盛名，继续探索古老的火星秘密。经过短暂的系统验证和远程测试后，我们的运营团队恢复了全部实力，毅力号一直在努力发掘新的地质见解。我们于 […] 开始了我们的最新活动]]></description>
       <guid>https://science.nasa.gov/blog/persevering-through-science/</guid>
       <pubDate>Tue, 04 Feb 2025 08:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 4441-4442 个太阳日：冬天即将来临</title>
-      <link>https://science.nasa.gov/blog/sols-4441-4442-winter-is-coming/</link>
-      <description><![CDATA[地球计划日期：2025 年 1 月 31 日星期五 在地球的北半球，白天正在慢慢变长，冬天即将结束。当我们期待着气温回升时，距离我们仅 1 亿多公里（超过 6200 万英里），好奇号开始感受到寒冷 […]]]></description>
-      <guid>https://science.nasa.gov/blog/sols-4441-4442-winter-is-coming/</guid>
-      <pubDate>Tue, 04 Feb 2025 06:20:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
