@@ -4,7 +4,7 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Feb 2025 13:00:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 14:37:26 GMT</lastBuildDate>
     <item>
       <title>Qt for MCUs 2.8.2 LTS 发布</title>
       <link>https://www.qt.io/blog/qt-for-mcus-2.8.2-lts-released?utm_source=atom_feed</link>
@@ -26,6 +26,15 @@ Claude 3.5 Sonnet 是使用英语编写 QML 代码的最佳 LLM。如果您想�
 ]]></description>
       <guid>https://www.qt.io/blog/which-is-the-best-llm-for-prompting-qml-code-featuring-deepseek-v3?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Feb 2025 06:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>新视频：Memilio Impasta 笔刷！</title>
+      <link>https://krita.org/en/posts/2025/new_video_impasto_brushes/?utm_source=atom_feed</link>
+      <description><![CDATA[Ramon Miranda 在 Krita 频道发布了一段新视频：Memilio Impasto Brushes！谁不喜欢漂亮的厚涂效果呢！
+
+]]></description>
+      <guid>https://krita.org/en/posts/2025/new_video_impasto_brushes/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Kdenlive 筹款最终报告</title>
@@ -122,17 +131,6 @@ KDE Craft 是一个开源元构建系统和包管理器。它管理依赖项并�
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/01/31/web-review-week-2025-05/?utm_source=atom_feed</guid>
       <pubDate>Fri, 31 Jan 2025 11:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>CodeLlama-13B-QML 在 Hugging Face 上发布</title>
-      <link>https://www.qt.io/blog/codellama-13b-qml-released-on-hugging-face?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-我们已在 Hugging Face 上发布了用于 QML 代码补全的 CodeLlama-13B-QML 大型语言模型。 
-]]></description>
-      <guid>https://www.qt.io/blog/codellama-13b-qml-released-on-hugging-face?utm_source=atom_feed</guid>
-      <pubDate>Fri, 31 Jan 2025 09:17:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
