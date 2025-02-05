@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 05 Feb 2025 12:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 13:00:26 GMT</lastBuildDate>
+    <item>
+      <title>Go Module Mirror 为开发者提供后门长达 3 年以上</title>
+      <link>https://arstechnica.com/security/2025/02/backdoored-package-in-go-mirror-site-went-unnoticed-for-3-years/</link>
+      <description><![CDATA[供应链攻击针对的是使用 Go 编程语言的开发人员。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/backdoored-package-in-go-mirror-site-went-unnoticed-for-3-years/</guid>
+      <pubDate>Wed, 05 Feb 2025 12:25:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着互联网的日益恶化，以下是一些最严重的违法者</title>
+      <link>https://arstechnica.com/gadgets/2025/02/as-internet-enshittification-marches-on-here-are-some-of-the-worst-offenders/</link>
+      <description><![CDATA[Ars 的工作人员瞄准了网络上一些最恶劣的掠夺性行为。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/as-internet-enshittification-marches-on-here-are-some-of-the-worst-offenders/</guid>
+      <pubDate>Wed, 05 Feb 2025 12:00:59 GMT</pubDate>
+    </item>
     <item>
       <title>许多美国人仍然不明白物联网设备有多容易被破坏</title>
       <link>https://arstechnica.com/gadgets/2025/02/many-americans-still-dont-understand-how-easily-iot-devices-can-get-bricked/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[自行车设计似乎是一个已解决的问题，但我们可以从布法罗学到很多东西。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/why-it-makes-perfect-sense-for-this-bike-to-have-two-gears-and-two-chains/</guid>
       <pubDate>Tue, 04 Feb 2025 18:17:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>梅赛德斯-AMG GT 63 S E Performance 的名字很响亮，是一辆很不错的车</title>
-      <link>https://arstechnica.com/cars/2025/02/f1-hybrid-tech-is-the-star-of-the-mercedes-amg-gt-63-s-e-performance/</link>
-      <description><![CDATA[很少有四门轿车能像这款车一样占据角落。而且声音也很特别。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/f1-hybrid-tech-is-the-star-of-the-mercedes-amg-gt-63-s-e-performance/</guid>
-      <pubDate>Tue, 04 Feb 2025 17:13:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>壁虎脚启发防滑鞋底</title>
-      <link>https://arstechnica.com/science/2025/02/gecko-feet-inspire-anti-slip-shoe-soles/</link>
-      <description><![CDATA[在混合物中添加氧化锆纳米粒子可增强防滑亲水效果。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/gecko-feet-inspire-anti-slip-shoe-soles/</guid>
-      <pubDate>Tue, 04 Feb 2025 16:07:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
