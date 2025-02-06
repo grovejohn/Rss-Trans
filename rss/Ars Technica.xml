@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 17:37:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 18:43:24 GMT</lastBuildDate>
     <item>
-      <title>感谢 NASA，你或许不必再担心小行星会杀死你</title>
+      <title>参议员在推动政府全面禁令之际警告称，DeepSeek 是“强化版 TikTok”</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/us-lawmakers-push-to-quickly-ban-deepseek-on-government-devices/</link>
+      <description><![CDATA[立法者敦促通过政府设备上的 DeepSeek 禁令是“明智之举”。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/us-lawmakers-push-to-quickly-ban-deepseek-on-government-devices/</guid>
+      <pubDate>Thu, 06 Feb 2025 17:28:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>别惊慌，2032 年小行星撞击地球的概率为 1.9%</title>
       <link>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</link>
       <description><![CDATA[更多数据可能会将撞击的可能性降至零。如果没有，我们还有其他选择。]]></description>
       <guid>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[与谷歌搜索不同，人工智能写作助手甚至没有引用其来源。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</guid>
       <pubDate>Wed, 05 Feb 2025 21:18:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>7-Zip 0day 漏洞在俄罗斯入侵乌克兰的行动中被利用</title>
-      <link>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</link>
-      <description><![CDATA[漏洞剥夺了 Windows 用于标记互联网下载文件的 MotW 标签。]]></description>
-      <guid>https://arstechnica.com/security/2025/02/7-zip-0-day-was-exploited-in-russias-ongoing-invasion-of-ukraine/</guid>
-      <pubDate>Wed, 05 Feb 2025 21:05:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
