@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 18:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 20:16:25 GMT</lastBuildDate>
+    <item>
+      <title>使用奥密克戎后，对 COVID 再感染的保护率从 80% 下降到 5%</title>
+      <link>https://arstechnica.com/health/2025/02/protection-from-covid-reinfections-plummeted-from-80-to-5-with-omicron/</link>
+      <description><![CDATA[新研究显示了为什么年度 COVID 加强针对于控制 COVID 至关重要。]]></description>
+      <guid>https://arstechnica.com/health/2025/02/protection-from-covid-reinfections-plummeted-from-80-to-5-with-omicron/</guid>
+      <pubDate>Thu, 06 Feb 2025 19:57:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>当鹦鹉被要求做一些除了模仿同伴以外的事情时，它们会挣扎</title>
+      <link>https://arstechnica.com/science/2025/02/parrots-can-imitate-meaningless-behavior-almost-as-well-as-humans/</link>
+      <description><![CDATA[当谈到无意义的手势时，金刚鹦鹉会尝试随波逐流。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/parrots-can-imitate-meaningless-behavior-almost-as-well-as-humans/</guid>
+      <pubDate>Thu, 06 Feb 2025 19:24:37 GMT</pubDate>
+    </item>
     <item>
       <title>参议员在推动政府全面禁令之际警告称，DeepSeek 是“强化版 TikTok”</title>
       <link>https://arstechnica.com/tech-policy/2025/02/us-lawmakers-push-to-quickly-ban-deepseek-on-government-devices/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[“Twitch 是我们用来吸引新观众的众多数字平台之一。”]]></description>
       <guid>https://arstechnica.com/space/2025/02/nasa-has-entered-the-chat-space-agency-to-twitch-stream-from-orbit/</guid>
       <pubDate>Wed, 05 Feb 2025 21:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD 承诺使用下一代 GPU 实现“主流” 4K 游戏，因为当前一代 GPU 的销量下滑</title>
-      <link>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</link>
-      <description><![CDATA[9070 系列 Radeon GPU 在 CES 上发布，计划于三月上市。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/amd-promises-mainstream-4k-gaming-with-next-gen-gpus-as-current-gen-gpu-sales-tank/</guid>
-      <pubDate>Wed, 05 Feb 2025 21:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>不够好：谷歌从超级碗广告中删除了人工智能生成的奶酪错误</title>
-      <link>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</link>
-      <description><![CDATA[与谷歌搜索不同，人工智能写作助手甚至没有引用其来源。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/not-gouda-nough-google-removes-ai-generated-cheese-error-from-super-bowl-ad/</guid>
-      <pubDate>Wed, 05 Feb 2025 21:18:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
