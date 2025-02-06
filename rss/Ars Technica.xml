@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 14:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 15:16:28 GMT</lastBuildDate>
+    <item>
+      <title>美国宇航局将在地面上交换龙飞船，以便布奇和苏尼尽快返回</title>
+      <link>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</link>
+      <description><![CDATA[美国宇航局已经不能再等待新型载人龙飞船的开发了。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</guid>
+      <pubDate>Thu, 06 Feb 2025 14:30:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>尽管发生大规模知名黑客攻击，但 2024 年勒索软件支付额有所下降</title>
+      <link>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</link>
+      <description><![CDATA[受害者向黑客支付的金额减少了数亿美元。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</guid>
+      <pubDate>Thu, 06 Feb 2025 14:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>H5N1 禽流感再次爆发；内华达州奶牛感染另一种致命病毒株</title>
       <link>https://arstechnica.com/health/2025/02/strain-of-h5n1-bird-flu-that-killed-louisiana-resident-found-in-nevada-dairies/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[该方法允许将单一算法分布在多个量子处理器上。]]></description>
       <guid>https://arstechnica.com/science/2025/02/quantum-teleportation-used-to-distribute-a-calculation/</guid>
       <pubDate>Wed, 05 Feb 2025 20:42:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>冒充 FCC 工作人员的自动拨号器在向真正的 FCC 工作人员拨打电话后被屏蔽</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</link>
-      <description><![CDATA[您可以忽略 FCC“防欺诈团队”打来的自动呼叫，但该团队并不存在。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/robocallers-posing-as-fcc-staff-blocked-after-robocalling-real-fcc-staff/</guid>
-      <pubDate>Wed, 05 Feb 2025 19:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polestar 首席执行官表示，该品牌的技术使美国成为“我们的绝佳市场”</title>
-      <link>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</link>
-      <description><![CDATA[Polestar 即将推出其紧凑型 SUV——Polestar 7。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/polestars-ceo-talks-product-plans-local-manufacturing-tariff-woes/</guid>
-      <pubDate>Wed, 05 Feb 2025 18:45:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
