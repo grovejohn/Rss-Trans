@@ -4,9 +4,23 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 06 Feb 2025 22:15:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 23:16:34 GMT</lastBuildDate>
     <item>
-      <title>作者称 Meta 下载了超过 81.7TB 的盗版书籍用于训练 AI</title>
+      <title>白宫预算提案可能会摧毁国家科学基金会</title>
+      <link>https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/</link>
+      <description><![CDATA[“这种削减将会扼杀美国科学并促进中国科学的发展。”]]></description>
+      <guid>https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/</guid>
+      <pubDate>Thu, 06 Feb 2025 22:38:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek iOS 应用程序将未加密的数据发送到字节跳动控制的服务器</title>
+      <link>https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/</link>
+      <description><![CDATA[苹果公司保护数据不被明文发送的防御措施已被全球禁用。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/</guid>
+      <pubDate>Thu, 06 Feb 2025 22:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>“用公司笔记本电脑下载种子感觉不对劲”：Meta 电子邮件解封</title>
       <link>https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/</link>
       <description><![CDATA[Meta 涉嫌通过种子下载并传播盗版书籍，使得版权案变得复杂。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/</guid>
@@ -20,7 +34,7 @@
       <pubDate>Thu, 06 Feb 2025 21:04:47 GMT</pubDate>
     </item>
     <item>
-      <title>英国已经淘汰煤炭——下一步将何去何从？</title>
+      <title>英国已经淘汰煤炭——下一步该何去何从？</title>
       <link>https://arstechnica.com/science/2025/02/the-uk-got-rid-of-coal-wheres-it-going-next/</link>
       <description><![CDATA[英国已过渡到低排放电网。现在到了最困难的部分。]]></description>
       <guid>https://arstechnica.com/science/2025/02/the-uk-got-rid-of-coal-wheres-it-going-next/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[我们仍然很喜欢这款电动车，但明年它将会有很大的升级。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/review-2025-genesis-electrified-gv70-is-charming-but-it-needs-updates/</guid>
       <pubDate>Thu, 06 Feb 2025 16:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国宇航局将在地面上交换龙飞船，以便布奇和苏尼尽快返回</title>
-      <link>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</link>
-      <description><![CDATA[美国宇航局已经不能再等待新型载人龙飞船的开发了。]]></description>
-      <guid>https://arstechnica.com/space/2025/02/nasa-moves-up-target-to-return-butch-and-suni-but-not-for-political-reasons/</guid>
-      <pubDate>Thu, 06 Feb 2025 14:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>尽管发生了大规模的著名黑客攻击，但 2024 年勒索软件支付额有所下降</title>
-      <link>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</link>
-      <description><![CDATA[受害者向黑客支付的金额减少了数亿美元。]]></description>
-      <guid>https://arstechnica.com/security/2025/02/ransomware-payments-declined-in-2024-despite-well-known-massive-hacks/</guid>
-      <pubDate>Thu, 06 Feb 2025 14:21:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
