@@ -1,221 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 06 Feb 2025 16:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 12:58:35 GMT</lastBuildDate>
     <item>
-      <title>格拉斯尼酯 0.6.0 Beta</title>
+      <title>网络评论，第2025-06周</title>
+      <link>https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 07 Feb 2025 11:18:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Glaxnimate 0.6.0 beta</title>
       <link>https://glaxnimate.org/news/releases/0.5.80/?utm_source=atom_feed</link>
-      <description><![CDATA[Glaxnimate 0.6.0 Beta 终于发布供测试了！
-距离 Glaxnimate 上次发布已经有一段时间了，但我们在幕后努力让 KDE 旗下的首个版本问世！
-请帮助我们测试并报告您在 https://bugs.kde.org/enter_bug.cgi?product=glaxnimate 上遇到的任何问题
-Glaxnimate 加入 KDE
-Glaxnimate 团队很自豪地宣布 Glaxnimate 现已成为 KDE 的一部分。Glaxnimate 受益于共享的 KDE 构建和分发基础架构、社区的集体知识以及 KDE 框架等库。这样，开发人员就可以花更多时间在代码上来修复错误并为您开发新功能！
+      <description><![CDATA[ Glaxnimate 0.6.0 Beta终于发布了测试！
+自上次发行《麦哲伦》以来已经有一段时间了，但是在背景中，我们努力使KDE伞下的第一个版本发生了！
+请帮助我们测试并报告您可能在 https“&gt; https：// bugs）上遇到的任何问题。 kde.org/enter_bug.cgi?product=glaxnimate  
+ glaxnimate加入kde 
+葛兰素团队很荣幸地宣布，Glaxnimate现在已成为KDE的一部分。 Glaxnimate从共享的KDE构建和分销基础设施，社区的集体知识和KDE框架等图书馆的集体知识中受益。这样，开发人员可以花更多的时间在代码上修复错误并为您开发新功能！
 更改
 编辑
 
 旋转手柄现在保留旋转方向和多个完整旋转
-Alt + 单击关键帧可在内置缓和曲线之间循环
-Alt + 单击贝塞尔点可在切线对称模式之间循环（Ctrl + 单击仍然有效）
-将贝塞尔点从角点更改为平滑点将添加切线（如果切线缺失）
-导入图像对话框现在允许一次导入多个图像
+ alt +单击内置宽松曲线之间的键帧周期
+ alt +单击切线对称模式之间的bezier点循环（ctrl +单击仍然有效）
+如果缺少/li&gt;
+“导入图像”对话框现在允许一次导入多个图像
 
-I/O
+ I/O 
 
-增加了对 SVG 文本锚点的支持
+添加了对SVG Text-Chartor的支持
 
 用户界面
 
-鼠标中键拖动现在可平移时间轴
-时间轴上有一个图标可快速切换关键帧
-按钮可跳转到时间轴中的下一个/上一个关键帧
-改进的 LottieFiles 导入对话框
-改进的自动保存恢复过程
-脚本控制台现在支持基本自动完成功能
+中间鼠标拖动现在pan the时间轴
+时间表上有一个图标可以快速切换键帧
+按钮跳到时间表中的下一个/上一个密钥帧
+改进的Lottiefiles导入对话框
+改进的Autosave恢复过程
+脚本控制台现在支持基本的自动完成
 
 脚本
 
-公开添加新作品的方法
+添加新构图的暴露方法
 
-杂项
+ MISC 
 
-切换到偶数/奇数版本编号方案
-与 KDE 框架集成
+切换到偶数/奇数版编号方案
+与KDE Frameworks集成
 
-错误修复
+ Bug修复
 
-修复了关键帧上下文菜单显示错误的“之后”的问题过渡
-绘制没有切线的贝塞尔点时，会正确标记为角
-播放按钮现在从当前帧恢复，而不是重置到开始
-修复了保存自定义模板的问题
-通过单击图标切换图层的可见性/锁定，现在添加了撤消/重做操作
-修复了 LottieFiles 导入问题
-修复了将文件作为对象删除的问题
-修复了从标签栏关闭合成的问题
-修复了从旧 lotties 加载颜色的问题
-现在正确忽略标记为不可见的形状修改器
-修复了圆角修改器的渲染问题
-修复了“新合成”问题操作创建不可见层
-修复了中继器不透明度未正确应用的问题
-改进了带描边的中继器处理
-修复了 SVG 动画导出问题
-修复了动画光栅插件 I/O问题
+固定的密钥帧上下文菜单显示了错误的“之后”过渡
+当绘制没有切线的bezier点时，正确标记为角
+播放按钮现在从当前帧恢复，而不是重置为start 
+固定保存自定义模板
+通过单击其图标来切换层的可见性/锁定，现在添加撤消/重做操作
+固定的lottiefiles进口
+固定的删除文件作为对象
+固定的关闭构图从Tab Bar 
+固定旧Lotties的加载颜色
+标记为不可见的形状修饰符现在被正确忽略了
+固定的圆角修饰符的渲染
+固定的“新构图”动作创建一个隐形图层
+固定的中继器不透明度未正确应用
+改进了中继器处理中继器的处理
+固定的SVG动画导出
+固定动画栅格插件I/O 
 
-如何获取它
-请注意，这是一个测试版本。大多数 Linux 发行版不打包不稳定版本。
+如何获得它
+请注意，这是一个Beta版本。大多数Linux发行版不包装不稳定的版本。
 我们建议使用我们提供的二进制文件之一测试此版本：
 
-Linux AppImage：glaxnimate-0.5.80-x86_64.AppImage
-Windows 安装程序：glaxnimate-0.5.80-x86_64.exe
-ma​​cOS DMG
+  linux appimage ： GlaxNimate-0.5.80-X86_64.Appimage  
+  Windows Installer ： GlaxNimate-0.5.80-X86_64.exe  
+  macOS DMG 
 
-ARM：glaxnimate-0.5.80-arm64.dmg
-Intel：glaxnimate-0.5.80-x86_64.dmg
+ ARM： glaxnimate-0.5。 80-arm64.dmg  
+英特尔： glaxnimation--0.5.5。 80-x86_64.dmg  
 
 
 
-Packager 部分
-源代码 tarball 可从 KDE 服务器获取：
-URL： https://download.kde.org/unstable/glaxnimate/0.5.80
-来源： glaxnimate-0.5.80.tar.xz
-签名者： 97B71AA02D63EA6C5C44C23B962AC48EF0501F0B 朱利叶斯·库恩泽尔 julius.kuenzel@kde.org]]></description>
+ Packager部分
+可从KDE服务器获得源代码TARBALL：
+  url：  https://download.kde.kde.org.kde.org /unstable/glaxnimate/0.5.80  
+ 来源： glaxnimate-0.5.80.tar.xz 
+Signed by: 97B71AA02D63EA6C5C44C23B962AC48EF0501F0B &lt;a href=&quot;https://invent.kde.org/sysadmin/release-keyring/-/raw/master/keys/ jlskuz@key1.asc“ target =“ _ blank”&gt; juliuskünzel  julius.kuenzel@kde.kde.org ]]></description>
       <guid>https://glaxnimate.org/news/releases/0.5.80/?utm_source=atom_feed</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Gear 24.12.2</title>
+      <title>齿轮24.12.2</title>
       <link>https://kde.org/announcements/gear/24.12.2/?utm_source=atom_feed</link>
-      <description><![CDATA[作为 KDE Gear 的一部分，超过 180 个独立程序以及数十个程序员库和功能插件同时发布。
-今天，它们都获得了新的错误修复源版本和更新的翻译，包括：
+      <description><![CDATA[作为KDE Gear的一部分，超过180个单独的程序加上数十个程序员库和功能插件。
+今天，他们都获得了带有更新翻译的新bugfix源版本，包括：
 
-kalk：修复了历史视图（提交）
-dolphin：修复像素化预览图像（提交，修复了错误 #497576)
-kdevelop：修复使用 clang 19 或更高版本时宏扩展中的使用位置 (提交，修复错误 #496985)
+ kalk：修复历史记录视图（ Dolphin：修复像素化的预览图像（＃497576 ）
+ kdevelop：使用clang 19或更高版本时的用途位置（＃496985 ）
 
-发行版和应用商店打包者应更新其应用程序包。
+发行版和App Store Packagers应该更新其应用程序包。
 
-24.12 发行说明，了解有关 tarball 和已知问题的信息。
-软件包下载 Wiki 页面
-24.12.2 源信息页面
-24.12.2 完整更新日志
+  24.12发行笔记有关tarballs和已知问题的信息。
+ 软件包下载wiki page   
+  24.12.2来源信息页面  
+  24.12.2 full changelog  
 ]]></description>
       <guid>https://kde.org/announcements/gear/24.12.2/?utm_source=atom_feed</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Qt for MCUs 2.8.2 LTS 发布</title>
+      <title>MCUS 2.8.2 LTS发布的QT</title>
       <link>https://www.qt.io/blog/qt-for-mcus-2.8.2-lts-released?utm_source=atom_feed</link>
       <description><![CDATA[
   
-
-Qt for MCUs 2.8.2 LTS（长期支持）已发布并可供下载。 此补丁版本提供了错误修复和其他改进，同时保持了与 Qt for MCUs 2.8 的源兼容性。它没有添加任何新功能。
+ 
+MCUS 2.8.2 LTS（长期支持）的 QT已发布，可下载。＆nbsp;该补丁发布提供了错误修复和其他改进，同时将MCUS 2.8的源兼容性与QT保持兼容性。它不会添加任何新功能。 
 ]]></description>
       <guid>https://www.qt.io/blog/qt-for-mcus-2.8.2-lts-released?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Feb 2025 12:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>哪个是用于提示 QML 代码的最佳 LLM（具有 DeepSeek v3）</title>
+      <title>这是提示QML代码的最佳LLM（具有DeepSeek V3）</title>
       <link>https://www.qt.io/blog/which-is-the-best-llm-for-prompting-qml-code-featuring-deepseek-v3?utm_source=atom_feed</link>
       <description><![CDATA[
   
 
-Claude 3.5 Sonnet 是使用英语编写 QML 代码的最佳 LLM。如果您想知道我们得出这个结论的原因，请继续阅读。
+  Claude 3.5十四行诗是用英语提示时编写QML代码的最佳LLM。如果您想知道我们为什么得出这个结论，请继续阅读。 
 ]]></description>
       <guid>https://www.qt.io/blog/which-is-the-best-llm-for-prompting-qml-code-featuring-deepseek-v3?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Feb 2025 06:01:13 GMT</pubDate>
     </item>
     <item>
-      <title>新视频：Memilio Impasta 笔刷！</title>
+      <title>新视频：刷子植入刷子！</title>
       <link>https://krita.org/en/posts/2025/new_video_impasto_brushes/?utm_source=atom_feed</link>
-      <description><![CDATA[Ramon Miranda 在 Krita 频道发布了一段新视频：Memilio Impasto Brushes！谁不喜欢漂亮的厚涂效果呢！
+      <description><![CDATA[拉蒙·米兰达（Ramon Miranda）在Krita频道上发布了一个新视频：Memilio Impasto Brushes！谁不喜欢不错的impasto效果！
 
 ]]></description>
       <guid>https://krita.org/en/posts/2025/new_video_impasto_brushes/?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Kdenlive 筹款最终报告</title>
+      <title>Kdenlive筹款最终报告</title>
       <link>https://kdenlive.org/en/2025/02/kdenlive-fundraising-final-report/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kdenlive.org/en/2025/02/kdenlive-fundraising-final-report/?utm_source=atom_feed</guid>
       <pubDate>Tue, 04 Feb 2025 12:01:29 GMT</pubDate>
     </item>
     <item>
-      <title>KStars v3.7.5 发布</title>
+      <title>Kstars v3.7.5已发布</title>
       <link>http://knro.blogspot.com/2025/02/kstars-v375-is-released.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>http://knro.blogspot.com/2025/02/kstars-v375-is-released.html?utm_source=atom_feed</guid>
       <pubDate>Mon, 03 Feb 2025 15:20:00 GMT</pubDate>
     </item>
     <item>
-      <title>达到 6 了！</title>
+      <title>它到6！</title>
       <link>https://euroquis.nl//kde/2025/02/03/it-goes-to-6.html?utm_source=atom_feed</link>
-      <description><![CDATA[FreeBSD 端口今日更新：
-删除模式 100644 x11/plasma5-plasma/
-创建模式 100644 x11/plasma6-plasma/
-
-这是 Tobias 的工作，Max、Kenneth、Jason 和 Gleb 为这次更新做了很多繁重的工作。我坐在场边，但我在这里祝贺 KDE FreeBSD 团队的活跃部分，他们推出了一项早已预见、早已预言和期待已久的更新。]]></description>
+      <description><![CDATA[今天更新freeBSD端口：
+   删除模式100644 x11/plasma5-plasma/plasma/plasma5-plasma/
+创建模式100644 x11/plasma6-plasma/
+   
+这是托比亚斯（Tobias）降落的工作，麦克斯（Max），肯尼斯（Kenneth），杰森（Jason）和格莱布（Gleb）
+在此更新中繁重的举重。我坐在场边，但我在这里
+祝贺KDE FreeBSD团队的活跃部分，并通过更新
+长期预见，长期预言和长期所需的。]]></description>
       <guid>https://euroquis.nl//kde/2025/02/03/it-goes-to-6.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 02 Feb 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>新 Craft cache 25.01 发布</title>
+      <title>新工艺缓存25.01发布</title>
       <link>https://blogs.kde.org/2025/02/02/new-craft-cache-25.01-published/?utm_source=atom_feed</link>
-      <description><![CDATA[新的 Craft 缓存刚刚发布。此更新已可用于 KDE 的 CD，CI（Windows/Android）将在未来几天内推出。
-请注意，这仅适用于 Qt6 缓存。Qt5 缓存自 2024 年 4 月起处于 LTS 模式，不再接收重大更新。我们强烈建议尽快将 Craft 打包的 Qt5 应用移植到 Qt6！
-更改（突出显示）
+      <description><![CDATA[刚刚发布了一个新的手工艺缓存。该更新已适用于KDE的CD，CI（Windows/Android）将在接下来的几天内进行。
+请注意，这仅适用于QT6缓存。自2024年4月以来，QT5缓存处于LTS模式，并且不再收到重大更新。我们强烈建议您尽快将Craft包装的QT5应用程序移植到QT6！
+更改（亮点）
 常规
-我们在 tox 的帮助下将 flake8、isort 和 black 的 CI（这也使它们在本地运行变得容易）添加到所有 Craft 存储库。为了能够做到这一点，我们事先做了很多最佳实践清理，例如。删除星号导入。
-Craft Core
+我们在托克斯的帮助下为片状8添加了CI，isort和黑色（这也使其在本地运行它们也很容易）到所有手工艺品库中。为了能够做到，我们事先做了很多最好的Pratice清理，例如EG。删除星星进口。
+工艺核心
 
-放弃对 MSVC 2017 的支持
-引入了 CraftBool 助手。这允许使用诸如 self.subinfo.options.dynamic.withMyLib.asOnOff 之类的方便功能，而不是 &#39;ON&#39; if self.subinfo.options.dynamic.withMyLib else &#39;OFF&#39;
-修复：让 Meson 构建系统尊重 buildStatic 选项
-在 AutoToolsPackageBase 中处理 --enable-static --enable-shared，而不是在每个蓝图中处理
-Python 包（Linux 和 Windows MSVC；macOS 正在进行中）：
+对MSVC 2017的下降支持
+引入了 craftbool 助手。这允许方便的事情，例如 self.subinfo.options.dynamic.withmylib.asonoff ，而不是&#39;on&#39;if self.subinfo.options.dynamic.dynamic.withmylib equons&#39;Off&#39;   &lt; /li&gt;
+修复：让梅森构建系统尊重 build -static  option 
+ handing   - 在AutotoolSpackageBase中启用静态 -  Enable-shared ，而不是在每个蓝图中
+ Python软件包（Linux和Windows MSVC; MacOS正在进行中）：
 
-自己构建它们，而不是使用 pypi.org 中的预构建二进制文件
-使用适当的暂存
-允许部署/打包它们
+构建自己，而不是使用pypi.org的前构建二进制文件
+使用适当的分期
+允许部署/包装
 
 
-在切换分支时正确设置 Craft 环境（例如，使用 Craft Master CI)
+当分支切换时，正确设置了工艺env（例如，在CI中使用手工艺大师）
 
 蓝图
 
-libjpeg-turbo 3.0.3
-针对共享库与静态库的构建进行了多项修复
-libvpx 1.15.0
-添加 minGW 14.2（尚未成为默认版本！）
-7z 24.09
-KShimgen 0.6.1
-linuxdeploy-plugin-qt 2.0.0-alpha-1-20250119
-qtkeychain 0.15.0
+ libjpeg-turbo 3.0.3 
+用于构建共享与静态液体的多个修复程序
+ libvpx 1.15.0 
+添加mingw 14.2（不是默认值！）
+ 7z 24.09 
+ kshimgen 0.6.1 
+ LinuxDeploy-Plugin-QT 2.0.0-Alpha-1-20250119 
+ qtkeychain 0.15.0 
 
-关于 KDE Craft
-KDE Craft 是一个开源元构建系统和包管理器。它管理依赖项并在 Windows、macOS、Linux、FreeBSD 和 Android 上从源代码构建库和应用程序。
-在 https://community.kde.org/Craft 上了解更多信息或加入 Matrix 房间 #kde-craft:kde.org]]></description>
+关于kde craft 
+ KDE Craft是一个开源的元构建系统和软件包管理器。它可以管理依赖关系，并从Windows，MacOS，Linux，FreeBSD和Android上的源构建库和应用程序。
+在＃kde-craft：kde.org   ]]></description>
       <guid>https://blogs.kde.org/2025/02/02/new-craft-cache-25.01-published/?utm_source=atom_feed</guid>
       <pubDate>Sun, 02 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 应用峰会和构建持久空间</title>
-      <link>https://www.proli.net/2025/02/01/linux-app-summit-and-building-a-lasting-space/?utm_source=atom_feed</link>
-      <description><![CDATA[Linux App Summit 是我们 KDE 与 GNOME 和其他一些方共同创建的项目。我们希望有一个物理空间来与不同的利益相关者讨论我们的平台。
-自 2019 年以来，我们已经取得了很大进展。从 KDE 的角度来看，我们看到了我们的 flatpaks 和 snap。这种采用为我们的软件带来了各种各样的用户，否则他们不可能拥有这些用户。
-从等式的另一边来看，Linux 发行版一直在像以往一样不断发展。我们看到 无数 发行版使用了我们从未想象过的技术。我们可以在消费者和开发设备上找到它们。甚至 KDE Linux 和 GNOME OS 也在考虑收紧该软件分发循环的另一端。
-现在，是时候更进一步了。
-今年我们将在地拉那举办 LAS 2025。考虑参加 LAS 2025！你想参加吗？
-
-加入我们！参加是免费的，我敢说，我们都是可爱的人。
-发送演讲！您可以来和我们谈谈您如何帮助 Linux 应用成为现实，或者您在应用中发现了什么问题以及如何解决这些问题。在这里您可以找到更多想法。
-赞助商！您的组织是否参与 Linux 生态系统？参与其中吧！
-
-您可以在与会者聊天或此处@LAS@floss.social on Mastodon关注 LAS 更新。]]></description>
-      <guid>https://www.proli.net/2025/02/01/linux-app-summit-and-building-a-lasting-space/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 01 Feb 2025 15:38:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

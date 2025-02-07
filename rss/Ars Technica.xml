@@ -1,79 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Ars Technica - 所有内容</title>
+    <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
-    <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Fri, 07 Feb 2025 01:10:52 GMT</lastBuildDate>
+    <description>所有ARS技术故事</description>
+    <lastBuildDate>Fri, 07 Feb 2025 12:58:50 GMT</lastBuildDate>
     <item>
-      <title>任天堂专利解释 Switch 2 Joy-Cons 的“鼠标操作”模式</title>
+      <title>火箭报告：另一个带有SpaceX上阶段的打ic;日本的H3开始强劲</title>
+      <link>https://arstechnica.com/space/2025/02/rocket-report-blue-origin-flies-for-lunar-research-dods-new-interest-in-starship/</link>
+      <description><![CDATA[VAST在低地球轨道上部署迷你空间站的时间表总是雄心勃勃的。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/rocket-report-blue-origin-flies-for-lunar-research-dods-new-interest-in-starship/</guid>
+      <pubDate>Fri, 07 Feb 2025 12:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nintendo专利解释Switch 2 Joy-Con的“鼠标操作”模式</title>
       <link>https://arstechnica.com/gaming/2025/02/nintendo-patent-explains-switch-2-joy-cons-mouse-operation-mode/</link>
-      <description><![CDATA[用户可以在平面上滑动 Joy-Cons 的同时访问拇指杆和肩部按钮。]]></description>
+      <description><![CDATA[用户可以在平坦的表面上滑动欢乐仪时访问拇指，肩部按钮。]]></description>
       <guid>https://arstechnica.com/gaming/2025/02/nintendo-patent-explains-switch-2-joy-cons-mouse-operation-mode/</guid>
       <pubDate>Thu, 06 Feb 2025 23:04:09 GMT</pubDate>
     </item>
     <item>
-      <title>白宫预算提案可能会摧毁国家科学基金会</title>
+      <title>白宫预算提案可能会破坏国家科学基金会</title>
       <link>https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/</link>
-      <description><![CDATA[“这种削减将会扼杀美国科学并促进中国科学的发展。”]]></description>
+      <description><![CDATA[“这种削减将杀死美国的科学并促进中国。”]]></description>
       <guid>https://arstechnica.com/science/2025/02/white-house-budget-proposal-could-shatter-the-national-science-foundation/</guid>
       <pubDate>Thu, 06 Feb 2025 22:38:08 GMT</pubDate>
     </item>
     <item>
-      <title>DeepSeek iOS 应用程序将未加密的数据发送到字节跳动控制的服务器</title>
+      <title>DeepSeek iOS应用程序将未加密的数据发送到绑定控制的服务器</title>
       <link>https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/</link>
-      <description><![CDATA[苹果公司保护数据不被明文发送的防御措施已被全球禁用。]]></description>
+      <description><![CDATA[苹果保护数据免于在清除中发送的苹果防御能力是全球禁用的。]]></description>
       <guid>https://arstechnica.com/security/2025/02/deepseek-ios-app-sends-data-unencrypted-to-bytedance-controlled-servers/</guid>
       <pubDate>Thu, 06 Feb 2025 22:06:17 GMT</pubDate>
     </item>
     <item>
-      <title>“用公司笔记本电脑下载种子感觉不对劲”：Meta 电子邮件解封</title>
+      <title>“公司笔记本电脑的洪流不正确”：元电子邮件未密封</title>
       <link>https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/</link>
-      <description><![CDATA[Meta 涉嫌通过种子下载并传播盗版书籍，使得版权案变得复杂。]]></description>
+      <description><![CDATA[梅塔（Meta）所谓的洪水泛滥和播种使版权案件复杂化。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/meta-torrented-over-81-7tb-of-pirated-books-to-train-ai-authors-say/</guid>
       <pubDate>Thu, 06 Feb 2025 21:26:45 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 在 OpenAI 迄今最大的 AI 教育交易中迎来 50 万新用户</title>
+      <title>Chatgpt在Openai最大的AI教育协议中获得了500,000个新用户</title>
       <link>https://arstechnica.com/ai/2025/02/chatgpt-comes-to-500000-new-users-in-openais-largest-ai-education-deal-yet/</link>
-      <description><![CDATA[ChatGPT 在某些学校仍被禁止，但在加州州立大学获得了正式地位。]]></description>
+      <description><![CDATA[Chatgpt仍在某些学校被禁止，在加利福尼亚州立大学担任正式职务。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/chatgpt-comes-to-500000-new-users-in-openais-largest-ai-education-deal-yet/</guid>
       <pubDate>Thu, 06 Feb 2025 21:04:47 GMT</pubDate>
     </item>
     <item>
-      <title>英国已经淘汰煤炭——下一步该何去何从？</title>
+      <title>英国摆脱了煤炭 - 接下来要去吗？</title>
       <link>https://arstechnica.com/science/2025/02/the-uk-got-rid-of-coal-wheres-it-going-next/</link>
-      <description><![CDATA[英国已过渡到低排放电网。现在到了最困难的部分。]]></description>
+      <description><![CDATA[英国已过渡到低排放网格。现在是困难的部分。]]></description>
       <guid>https://arstechnica.com/science/2025/02/the-uk-got-rid-of-coal-wheres-it-going-next/</guid>
       <pubDate>Thu, 06 Feb 2025 20:20:45 GMT</pubDate>
     </item>
     <item>
-      <title>使用奥密克戎后，对 COVID 再感染的保护率从 80% 下降到 5%</title>
+      <title>OMICRON的保护免受重新感染的兴趣，从80％下降到5％</title>
       <link>https://arstechnica.com/health/2025/02/protection-from-covid-reinfections-plummeted-from-80-to-5-with-omicron/</link>
-      <description><![CDATA[新研究显示了为什么年度 COVID 加强针对于控制 COVID 至关重要。]]></description>
+      <description><![CDATA[新的研究表明，为什么年度Covid助推器对于控制Covid至关重要。]]></description>
       <guid>https://arstechnica.com/health/2025/02/protection-from-covid-reinfections-plummeted-from-80-to-5-with-omicron/</guid>
       <pubDate>Thu, 06 Feb 2025 19:57:38 GMT</pubDate>
     </item>
     <item>
-      <title>当鹦鹉被要求做一些除了模仿同伴以外的事情时，它们会挣扎</title>
+      <title>当被告知做其他模仿同龄人以外的其他事情时，鹦鹉挣扎</title>
       <link>https://arstechnica.com/science/2025/02/parrots-can-imitate-meaningless-behavior-almost-as-well-as-humans/</link>
-      <description><![CDATA[当谈到无意义的手势时，金刚鹦鹉会尝试随波逐流。]]></description>
+      <description><![CDATA[当涉及到毫无意义的手势时，金刚鹦鹉试图跟随人群。]]></description>
       <guid>https://arstechnica.com/science/2025/02/parrots-can-imitate-meaningless-behavior-almost-as-well-as-humans/</guid>
       <pubDate>Thu, 06 Feb 2025 19:24:37 GMT</pubDate>
     </item>
     <item>
-      <title>参议员在推动政府全面禁令之际警告称，DeepSeek 是“强化版 TikTok”</title>
+      <title>参议员警告说，DeepSeek是“类固醇的Tiktok”。</title>
       <link>https://arstechnica.com/tech-policy/2025/02/us-lawmakers-push-to-quickly-ban-deepseek-on-government-devices/</link>
-      <description><![CDATA[立法者敦促通过政府设备上的 DeepSeek 禁令是“明智之举”。]]></description>
+      <description><![CDATA[立法者敦促通过对政府设备进行DeepSeek禁令是“不费吹灰之力的”。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/us-lawmakers-push-to-quickly-ban-deepseek-on-government-devices/</guid>
       <pubDate>Thu, 06 Feb 2025 17:28:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>别惊慌，2032 年小行星撞击地球的概率为 1.9%</title>
-      <link>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</link>
-      <description><![CDATA[更多数据可能会将撞击的可能性降至零。如果没有，我们还有其他选择。]]></description>
-      <guid>https://arstechnica.com/space/2025/02/thanks-to-nasa-you-probably-wont-have-to-worry-about-this-asteroid-killing-you/</guid>
-      <pubDate>Thu, 06 Feb 2025 17:00:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
