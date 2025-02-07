@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>来自太空的最新消息</title>
+    <title>来自Space.com的最新信息</title>
     <link>https://www.space.com</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Feb 2025 11:36:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 12:30:34 GMT</lastBuildDate>
+    <item>
+      <title>“本赛季的每个情节都感觉就像是第3季的首次亮相（访谈）的季节大结局。</title>
+      <link>https://www.space.com/entertainment/every-episode-this-season-feels-like-it-could-be-a-season-finale-boasts-invincible-creator-as-season-3-debuts-interview</link>
+      <description><![CDATA[“无敌”的创作者罗伯特·柯克曼（Robert Kirkman）和作家西蒙·拉西奥普（Simon Racioppa）谈论在Prime Video的《成人动画》系列的第三季中将马克·格雷森（Mark Grayson）带到&#39;Dark Places&#39;。]]></description>
+      <guid>https://www.space.com/entertainment/every-episode-this-season-feels-like-it-could-be-a-season-finale-boasts-invincible-creator-as-season-3-debuts-interview</guid>
+      <pubDate>Fri, 07 Feb 2025 12:10:57 GMT</pubDate>
+    </item>
     <item>
       <title>新的快速无线电爆发探测器可以筛选“整个沙滩”，以解决大宇宙之谜</title>
       <link>https://www.space.com/space-exploration/tech/new-fast-radio-burst-detector-could-sift-through-a-whole-beach-of-sand-to-solve-big-cosmic-mystery</link>
@@ -29,7 +36,7 @@
     <item>
       <title>毅力火星漫游者在红色星球的银山上找到“独一无二的宝藏”</title>
       <link>https://www.space.com/space-exploration/mars-rovers/perseverance-mars-rover-finds-one-of-a-kind-treasure-on-red-planets-silver-mountain</link>
-      <description><![CDATA[NASA的毅力火星漫游者在Jezero火山口的边缘上发现了“独一无二的宝藏”，这是一块岩石，可以帮助揭示红色星球的古老历史。]]></description>
+      <description><![CDATA[NASA的毅力火星漫游者在耶泽罗火山口的边缘上发现了“独一无二的宝藏”，这是一块岩石，可以帮助揭示红色星球的古老历史。]]></description>
       <guid>https://www.space.com/space-exploration/mars-rovers/perseverance-mars-rover-finds-one-of-a-kind-treasure-on-red-planets-silver-mountain</guid>
       <pubDate>Thu, 06 Feb 2025 20:00:00 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[迪斯尼Plus和Hulu的标准价格享有44％的折扣：那里最好的两项流媒体服务以及《星球大战》，《漫威》，《外星人》等。]]></description>
       <guid>https://www.space.com/entertainment/disney-plus-hulu-bundle-deal-44-percent-off-2025</guid>
       <pubDate>Thu, 06 Feb 2025 15:22:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>詹姆斯·韦伯（James Webb</title>
-      <link>https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-images-bacteria-size-dust-grains-theyll-likely-turn-into-exoplanets</link>
-      <description><![CDATA[詹姆斯·韦伯（James Webb）太空望远镜的新图像聚焦在遥远的原始磁盘中的尘埃颗粒，使天文学家能够研究行星的形成方式复杂。]]></description>
-      <guid>https://www.space.com/space-exploration/james-webb-space-telescope/james-webb-space-telescope-images-bacteria-size-dust-grains-theyll-likely-turn-into-exoplanets</guid>
-      <pubDate>Thu, 06 Feb 2025 15:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
