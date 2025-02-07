@@ -1,10 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title></title>
+    <title>BBC新闻</title>
     <link>https://www.bbc.co.uk/news</link>
     <description>BBC新闻 - 新闻头版</description>
-    <lastBuildDate>Fri, 07 Feb 2025 08:40:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Feb 2025 09:15:55 GMT</lastBuildDate>
+    <item>
+      <title>在汽车下降到铁路线的旅行混乱</title>
+      <link>https://www.bbc.com/news/articles/cq5gpqz6406o</link>
+      <description><![CDATA[该汽车的驾驶员因涉嫌驾车而被捕后，在爆发初期之后。]]></description>
+      <guid>https://www.bbc.com/news/articles/cq5gpqz6406o</guid>
+      <pubDate>Fri, 07 Feb 2025 09:08:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>房价在更改印花税之前达到了新的高位</title>
+      <link>https://www.bbc.com/news/articles/cdjdpnglvy2o</link>
+      <description><![CDATA[英国最大的抵押贷款人表示，对新贷款的需求仍然“强大”。]]></description>
+      <guid>https://www.bbc.com/news/articles/cdjdpnglvy2o</guid>
+      <pubDate>Fri, 07 Feb 2025 08:59:48 GMT</pubDate>
+    </item>
     <item>
       <title>特朗普制裁国际刑事法院称其为“非法”</title>
       <link>https://www.bbc.com/news/articles/cx2p19l24g2o</link>
@@ -13,16 +27,9 @@
       <pubDate>Fri, 07 Feb 2025 08:07:14 GMT</pubDate>
     </item>
     <item>
-      <title>公众邀请向下一个大主教建议候选人</title>
-      <link>https://www.bbc.com/news/articles/cz9e23jlwdko</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bbc.com/news/articles/cz9e23jlwdko</guid>
-      <pubDate>Fri, 07 Feb 2025 06:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title></title>
+      <title>幸存的艾尔·菲德（Al Fay）被指控犯有性侵犯的兄弟</title>
       <link>https://www.bbc.com/news/articles/cy08dz47v8ro</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在哈罗德（Harrods）工作的三名妇女说，阿里（Ali Fayed）殴打了她们 - 他否认了这些主张。]]></description>
       <guid>https://www.bbc.com/news/articles/cy08dz47v8ro</guid>
       <pubDate>Fri, 07 Feb 2025 06:01:04 GMT</pubDate>
     </item>
@@ -36,21 +43,21 @@
     <item>
       <title>网眼受害者仍在等待经济补偿</title>
       <link>https://www.bbc.com/news/articles/c75z9w592d4o</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[在一份大型报告要求采取紧急行动的一年后，没有制定任何计划来帮助受害者。]]></description>
       <guid>https://www.bbc.com/news/articles/c75z9w592d4o</guid>
       <pubDate>Fri, 07 Feb 2025 00:06:40 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>英格兰银行老板说，美国应该支持世界银行和国际货币基金组织</title>
       <link>https://www.bbc.com/news/articles/c20k2n3y42ko</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[安德鲁·贝利（Andrew Bailey）说，他正在“密切关注”特朗普是否会改变我们对机构的支持。]]></description>
       <guid>https://www.bbc.com/news/articles/c20k2n3y42ko</guid>
       <pubDate>Fri, 07 Feb 2025 00:00:27 GMT</pubDate>
     </item>
     <item>
-      <title>骗局，赌场和高层：英国广播公司访问了一个奇异的战区</title>
+      <title>赌场，高层和欺诈：英国广播公司访问了建立在骗局的奇异城市</title>
       <link>https://www.bbc.com/news/articles/c04nx1vnw17o</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[超级富人的天堂，还是建在骗局上的城市？ BBC被邀请找出答案。]]></description>
       <guid>https://www.bbc.com/news/articles/c04nx1vnw17o</guid>
       <pubDate>Thu, 06 Feb 2025 23:34:31 GMT</pubDate>
     </item>
@@ -62,16 +69,9 @@
       <pubDate>Thu, 06 Feb 2025 21:49:57 GMT</pubDate>
     </item>
     <item>
-      <title></title>
-      <link>https://www.bbc.com/news/articles/ce85j1wwrdyo</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.bbc.com/news/articles/ce85j1wwrdyo</guid>
-      <pubDate>Thu, 06 Feb 2025 21:04:11 GMT</pubDate>
-    </item>
-    <item>
       <title>电视厨师Gino D'Acampo否认行为不当主张</title>
       <link>https://www.bbc.com/news/articles/ckg0pz8v0m8o</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[名人厨师和广播员否认了ITV新闻调查中发表的许多指控。]]></description>
       <guid>https://www.bbc.com/news/articles/ckg0pz8v0m8o</guid>
       <pubDate>Thu, 06 Feb 2025 20:59:19 GMT</pubDate>
     </item>
