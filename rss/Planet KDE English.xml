@@ -4,13 +4,20 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Feb 2025 13:00:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 14:38:16 GMT</lastBuildDate>
     <item>
       <title>将KDE的样式转移到未来</title>
       <link>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Feb 2025 11:32:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周在KDE应用程序中</title>
+      <link>https://blogs.kde.org/2025/02/10/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/02/10/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 10 Feb 2025 11:25:35 GMT</pubDate>
     </item>
     <item>
       <title>本地身份验证中心</title>
@@ -159,15 +166,6 @@ MCUS 2.8.2 LTS（长期支持）的 QT已发布，可下载。＆nbsp;该补丁�
 ]]></description>
       <guid>https://www.qt.io/blog/which-is-the-best-llm-for-prompting-qml-code-featuring-deepseek-v3?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Feb 2025 06:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>新视频：刷子植入刷子！</title>
-      <link>https://krita.org/en/posts/2025/new_video_impasto_brushes/?utm_source=atom_feed</link>
-      <description><![CDATA[拉蒙·米兰达（Ramon Miranda）在Krita频道上发布了一个新视频：Memilio Impasto Brushes！谁不喜欢不错的impasto效果！
-
-]]></description>
-      <guid>https://krita.org/en/posts/2025/new_video_impasto_brushes/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
