@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Feb 2025 08:41:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 13:00:49 GMT</lastBuildDate>
+    <item>
+      <title>将KDE的样式转移到未来</title>
+      <link>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</guid>
+      <pubDate>Mon, 10 Feb 2025 11:32:00 GMT</pubDate>
+    </item>
     <item>
       <title>本地身份验证中心</title>
       <link>https://blog.cryptomilk.org/2025/02/09/local-authentication-hub/?utm_source=atom_feed</link>
@@ -96,7 +103,7 @@
 我们建议使用我们提供的二进制文件之一测试此版本：
 
   linux appimage ： GlaxNimate-0.5.80-X86_64.Appimage  
-  Windows Installer ： GlaxNimate-0.5.80-X86_64.exe  
+  Windows Installer ： GlaxNimate-0.5.80-x86_64.exe  
   macOS DMG 
 
  ARM： glaxnimate-0.5。 80-arm64.dmg  
@@ -161,13 +168,6 @@ MCUS 2.8.2 LTS（长期支持）的 QT已发布，可下载。＆nbsp;该补丁�
 ]]></description>
       <guid>https://krita.org/en/posts/2025/new_video_impasto_brushes/?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive筹款最终报告</title>
-      <link>https://kdenlive.org/en/2025/02/kdenlive-fundraising-final-report/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kdenlive.org/en/2025/02/kdenlive-fundraising-final-report/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 04 Feb 2025 12:01:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
