@@ -1,40 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Ars Technica - 所有内容</title>
+    <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 11 Feb 2025 17:14:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 19:11:41 GMT</lastBuildDate>
+    <item>
+      <title>刚跳到母牛的鸟流感菌株在内华达州感染乳制品工人</title>
+      <link>https://arstechnica.com/health/2025/02/h5n1-bird-flu-nevada-dairy-worker-infected-with-newly-spilled-over-strain/</link>
+      <description><![CDATA[据称，该工人患了红眼病，目前正在康复中。]]></description>
+      <guid>https://arstechnica.com/health/2025/02/h5n1-bird-flu-nevada-dairy-worker-infected-with-newly-spilled-over-strain/</guid>
+      <pubDate>Tue, 11 Feb 2025 18:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>赛车老板表示，完善本田 2026 年 F1 动力系统“并非易事”</title>
+      <link>https://arstechnica.com/cars/2025/02/perfecting-hondas-2026-f1-powertrain-is-not-so-easy-says-racing-boss/</link>
+      <description><![CDATA[正确掌握新型 F1 混合动力车是一项挑战。]]></description>
+      <guid>https://arstechnica.com/cars/2025/02/perfecting-hondas-2026-f1-powertrain-is-not-so-easy-says-racing-boss/</guid>
+      <pubDate>Tue, 11 Feb 2025 17:55:50 GMT</pubDate>
+    </item>
     <item>
       <title>萨姆·奥特曼：OpenAI 不会出售，即使伊隆·马斯克开出 970 亿美元的报价</title>
       <link>https://arstechnica.com/ai/2025/02/sam-altman-openai-is-not-for-sale-even-for-elon-musks-97-billion-offer/</link>
-      <description><![CDATA[奥特曼回应称，他愿意以 97.4 亿美元收购 Twitter。]]></description>
+      <description><![CDATA[奥特曼回应称，愿意以 97.4 亿美元收购 Twitter。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/sam-altman-openai-is-not-for-sale-even-for-elon-musks-97-billion-offer/</guid>
       <pubDate>Tue, 11 Feb 2025 16:55:05 GMT</pubDate>
     </item>
     <item>
-      <title>ULA 的 Vulcan 火箭仍未获得太空部队的批准</title>
+      <title>Ula的Vulcan Rocket仍然没有太空力量的批准印章</title>
       <link>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</link>
-      <description><![CDATA[由于太空部队的审查仍在进行中，ULA 正在将其下一枚 Vulcan 火箭从发射台上移除。]]></description>
+      <description><![CDATA[随着太空部队的审查仍在进行中，Ula将从发射台上删除其下一个Vulcan Rocket。]]></description>
       <guid>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</guid>
       <pubDate>Tue, 11 Feb 2025 15:55:28 GMT</pubDate>
     </item>
     <item>
       <title>iOS 18.3.1 更新修复了“极其复杂的攻击”中利用的安全漏洞</title>
       <link>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</link>
-      <description><![CDATA[对于那些已关闭 Apple Intelligence 的用户，更新可能还会重新启用它。]]></description>
+      <description><![CDATA[更新可能还可以重新启用Apple Intelligence，以关闭它的人。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</guid>
       <pubDate>Tue, 11 Feb 2025 15:17:29 GMT</pubDate>
     </item>
     <item>
-      <title>美英峰会拒绝签署人工智能安全宣言</title>
+      <title>美国和英国拒绝在峰会上签署AI安全声明</title>
       <link>https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/</link>
-      <description><![CDATA[拜登政府对美立场“一百八十度大转变”。]]></description>
+      <description><![CDATA[美国立场是拜登管理局的“ 180度周转”。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/us-and-uk-refuse-to-sign-ai-safety-declaration-at-summit/</guid>
       <pubDate>Tue, 11 Feb 2025 14:59:01 GMT</pubDate>
     </item>
     <item>
-      <title>Ranger XP Kinetic 是终极电动 UTV，但价格昂贵</title>
+      <title>Ranger XP动力学是终极的电动UTV，价格很高</title>
       <link>https://arstechnica.com/features/2025/02/the-ranger-xp-kinetic-is-the-ultimate-electric-utv-at-a-high-price/</link>
       <description><![CDATA[这款大型多功能车在多个方面都有着很高的要求。]]></description>
       <guid>https://arstechnica.com/features/2025/02/the-ranger-xp-kinetic-is-the-ultimate-electric-utv-at-a-high-price/</guid>
@@ -43,37 +57,23 @@
     <item>
       <title>22 个州起诉阻止 NIH 新资助政策——法院暂缓执行</title>
       <link>https://arstechnica.com/science/2025/02/twenty-two-states-sue-to-block-new-nih-funding-policy/</link>
-      <description><![CDATA[第一任特朗普政府曾尝试过这样做，但国会通过了一项规则予以阻止。]]></description>
+      <description><![CDATA[第一任特朗普政府曾尝试过这样做，但国会通过了一项规则来阻止它。]]></description>
       <guid>https://arstechnica.com/science/2025/02/twenty-two-states-sue-to-block-new-nih-funding-policy/</guid>
       <pubDate>Mon, 10 Feb 2025 21:20:26 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 对抗 Nvidia 依赖的秘密武器初具规模</title>
+      <title>Openai对Nvidia依赖的秘密武器正在形成</title>
       <link>https://arstechnica.com/ai/2025/02/openais-secret-weapon-against-nvidia-dependence-takes-shape/</link>
-      <description><![CDATA[聊天机器人制造商与台积电合作生产定制 AI 芯片，并计划进行未来迭代。]]></description>
+      <description><![CDATA[聊天机器人制造商与TSMC合作制造自定义AI芯片，并计划未来迭代。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/openais-secret-weapon-against-nvidia-dependence-takes-shape/</guid>
       <pubDate>Mon, 10 Feb 2025 21:00:33 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普否决自然报告后，研究人员继续推进发布</title>
+      <title>特朗普杀死了关于大自然的报告后，研究人员推动了释放</title>
       <link>https://arstechnica.com/tech-policy/2025/02/after-trump-killed-a-report-on-nature-researchers-push-ahead-with-release/</link>
       <description><![CDATA[该重要报告旨在解答公众对自然界的最大疑问。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/after-trump-killed-a-report-on-nature-researchers-push-ahead-with-release/</guid>
       <pubDate>Mon, 10 Feb 2025 19:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>您需要了解的有关 T-Mobile Starlink 移动服务的信息</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/t-mobile-expands-starlink-texting-service-to-cover-verizon-and-att-users/</link>
-      <description><![CDATA[关于测试版注册、价格、兼容手机以及技术限制的详细信息。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/t-mobile-expands-starlink-texting-service-to-cover-verizon-and-att-users/</guid>
-      <pubDate>Mon, 10 Feb 2025 19:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>少数用户声称新的 Nvidia GPU 再次熔化电源线</title>
-      <link>https://arstechnica.com/gadgets/2025/02/handful-of-users-claim-new-nvidia-gpus-are-melting-power-cables-again/</link>
-      <description><![CDATA[目前，尚不清楚这些问题是一次性问题还是系统性问题。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/handful-of-users-claim-new-nvidia-gpus-are-melting-power-cables-again/</guid>
-      <pubDate>Mon, 10 Feb 2025 18:45:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
