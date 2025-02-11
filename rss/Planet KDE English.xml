@@ -4,7 +4,23 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Feb 2025 03:19:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 06:43:19 GMT</lastBuildDate>
+    <item>
+      <title>关于血浆发布时间表</title>
+      <link>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</link>
+      <description><![CDATA[这将是一个无聊的，抱歉。 基本上是a＆＃8220; jfyi＆＃8221;适用于对等离子体发行管理感兴趣的人。
+前一段时间，有关于将血浆移至两次， - 以下发布模型，可以更好地与每年发行的离散发行发行版更好地保持一致 - 主要是Fedora Kde和Kubuntu。
+我们在去年的Akademy上讨论了这一点，并决定不这样做，因为更快的发布时间表将有助于更快地对用户进行重要的改进，鉴于我们尝试了我们＃8217；高速抛光我们的Wayland会议。我们同意，一旦 Wayland已知的重要问题 Wiki Page是空的，我们可以重新评估，我们可以重新评估。 /p&gt;
+
+
+
+在重新评估发生之前，我们决定将Beta发布期限从四个星期延长到六周，每两个新版本发布。
+等离子体6.3很快就会发布，是的！在此版本中，我们记得推出额外的新版本版本，但忘记了增加两周的时间。糟糕。
+有趣的是，我们尚未获得等离子体6.3 beta用户的许多错误报告，这在历史上是不寻常的。我不完全确定该怎么做。乐观的评估是，即使在我们运送Beta的时候，发布也已经很棒！悲观的是，很少有人出现在质量检查中，因此错过了很多错误（i＆＃8217; m不确定它，但一切都可能）。无论哪种方式，似乎额外的两个星期的beta时间都不会有很大的作用，所以我们不考虑巨大的损失。
+结果，我们决定在6.4：为期四周的Beta期间尝试相同的方法，每两周发行新版本。我们会看看它的发展！如果很好，我们可以保留它，如果不是这样，我们可以返回到六周的Beta期间的原始计划。在此之前，享受等离子6.3！]]></description>
+      <guid>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 11 Feb 2025 04:59:00 GMT</pubDate>
+    </item>
     <item>
       <title>Tellico 4.1.1发布</title>
       <link>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</link>
@@ -130,7 +146,7 @@
 我们建议使用我们提供的二进制文件之一测试此版本：
 
   linux appimage ： GlaxNimate-0.5.80-X86_64.Appimage  
-  Windows Installer ： GlaxNimate-0.5.80-X86_64.exe  
+  Windows Installer ： GlaxNimate-0.5.80-x86_64.exe  
   macOS DMG 
 
  ARM： glaxnimate-0.5。 80-arm64.dmg  
@@ -144,25 +160,6 @@
  来源： glaxnimate-0.5.80.tar.xz 
 Signed by: 97B71AA02D63EA6C5C44C23B962AC48EF0501F0B &lt;a href=&quot;https://invent.kde.org/sysadmin/release-keyring/-/raw/master/keys/ jlskuz@key1.asc“ target =“ _ blank”&gt; juliuskünzel  julius.kuenzel@kde.kde.org ]]></description>
       <guid>https://glaxnimate.org/news/releases/0.5.80/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>齿轮24.12.2</title>
-      <link>https://kde.org/announcements/gear/24.12.2/?utm_source=atom_feed</link>
-      <description><![CDATA[作为KDE Gear的一部分，超过180个单独的程序加上数十个程序员库和功能插件。
-今天，他们都获得了带有更新翻译的新bugfix源版本，包括：
-
- kalk：修复历史记录视图（ Dolphin：修复像素化的预览图像（＃497576 ）
- kdevelop：使用clang 19或更高版本时的用途位置（＃496985 ）
-
-发行版和App Store Packagers应该更新其应用程序包。
-
-  24.12发行笔记有关tarballs和已知问题的信息。
- 软件包下载wiki page   
-  24.12.2来源信息页面  
-  24.12.2 full changelog  
-]]></description>
-      <guid>https://kde.org/announcements/gear/24.12.2/?utm_source=atom_feed</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
