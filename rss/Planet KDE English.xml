@@ -1,55 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>行星|英语</title>
+    <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Feb 2025 06:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 13:00:57 GMT</lastBuildDate>
     <item>
-      <title>关于血浆发布时间表</title>
+      <title>关于 Plasma 发布时间表</title>
       <link>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</link>
-      <description><![CDATA[这将是一个无聊的，抱歉。 基本上是a＆＃8220; jfyi＆＃8221;适用于对等离子体发行管理感兴趣的人。
-前一段时间，有关于将血浆移至两次， - 以下发布模型，可以更好地与每年发行的离散发行发行版更好地保持一致 - 主要是Fedora Kde和Kubuntu。
-我们在去年的Akademy上讨论了这一点，并决定不这样做，因为更快的发布时间表将有助于更快地对用户进行重要的改进，鉴于我们尝试了我们＃8217；高速抛光我们的Wayland会议。我们同意，一旦 Wayland已知的重要问题 Wiki Page是空的，我们可以重新评估，我们可以重新评估。 /p&gt;
-
-
-
-在重新评估发生之前，我们决定将Beta发布期限从四个星期延长到六周，每两个新版本发布。
-等离子体6.3很快就会发布，是的！在此版本中，我们记得推出额外的新版本版本，但忘记了增加两周的时间。糟糕。
-有趣的是，我们尚未获得等离子体6.3 beta用户的许多错误报告，这在历史上是不寻常的。我不完全确定该怎么做。乐观的评估是，即使在我们运送Beta的时候，发布也已经很棒！悲观的是，很少有人出现在质量检查中，因此错过了很多错误（i＆＃8217; m不确定它，但一切都可能）。无论哪种方式，似乎额外的两个星期的beta时间都不会有很大的作用，所以我们不考虑巨大的损失。
-结果，我们决定在6.4：为期四周的Beta期间尝试相同的方法，每两周发行新版本。我们会看看它的发展！如果很好，我们可以保留它，如果不是这样，我们可以返回到六周的Beta期间的原始计划。在此之前，享受等离子6.3！]]></description>
+      <description><![CDATA[这会很无聊，抱歉。  基本上是“JFYI”对于那些对 Plasma 的发布管理感兴趣的人。
+不久前，曾有一场关于将 Plasma 改为每年两次发布模式的讨论，以便更好地与每年发布两次的独立发行版保持一致——主要是 Fedora KDE 和 Kubuntu。
+我们在去年的 Akademy 上讨论过这个问题，但决定暂时不这么做，因为更快的发布时间表将有助于更快地向用户提供重要的 Wayland 改进，因为我们正在尝试高速完善我们的 Wayland 会话。我们一致同意，一旦 Wayland 已知重大问题 wiki 页面为空，我们就可以重新评估。
+在重新评估之前，我们决定将测试版发布时间从四周延长到六周，每两周发布一次新的测试版。
+Plasma 6.3 即将发布，耶！对于此版本，我们记得推出额外的新测试版，但忘记将其持续时间延长两周。哎呀。
+有趣的是，我们没有收到来自 Plasma 6.3 测试版用户的很多错误报告，这在历史上是不寻常的。我不太确定该如何解释这一点。乐观的估计是，即使在我们发布测试版时，该版本已经很棒了！悲观的估计是，很少有人参加 QA，因此遗漏了许多错误（我不太确定是不是这样，但任何事情都有可能）。无论如何，额外的两周测试时间似乎不会带来太大的变化，所以我们不认为这是一个很大的损失。
+因此，我们决定对 6.4 尝试同样的方法：四周的测试期，每两周发布一次新版本。我们拭目以待！如果没问题，我们可以保留它，如果不行，我们可以回到原来的六周测试期计划。在那之前，享受 Plasma 6.3 吧！]]></description>
       <guid>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Feb 2025 04:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tellico 4.1.1发布</title>
+      <title>Tellico 4.1.1 发布</title>
       <link>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</link>
-      <description><![CDATA[ tellico 4.1.1 可用，带有一些修复。
+      <description><![CDATA[Tellico 4.1.1 现已推出，并进行了一些修复。
 改进
 
-更新 filmaffinity 和漫画数据源。
-将可配置的图像大小添加到 discogs  and  moviemeter 数据源
-使用 colnect 。
+更新了 Filmaffinity 和 ComicVine 数据源。
+为 Discogs 和 Moviemeter 数据源添加了可配置的图像大小。
+修复了使用 收集。
 ]]></description>
       <guid>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Feb 2025 01:24:40 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Gear 25.04发布时间表</title>
+      <title>等离子 6.3</title>
+      <link>https://kde.org/announcements/plasma/6/6.3.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.3.0/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE Gear 25.04 发布时间表</title>
       <link>https://tsdgeos.blogspot.com/2025/02/kde-gear-2504-release-schedule.html?utm_source=atom_feed</link>
-      <description><![CDATA[这是发行时间表的发布团队在   https：https：&gt; https： //community.kde.org/schedules/kde_gear_25.04_schedule    依赖关系冻结大约3周（3月6日），并在此之后冻结一个。准备好您的东西！＆nbsp; &lt; /p&gt;]]></description>
+      <description><![CDATA[这是发布团队商定的发布时间表https://community.kde.org/Schedules/KDE_Gear_25.04_Schedule依赖关系冻结时间约为 3 周（3 月 6 日），功能冻结时间约为 1 周。准备好你的东西吧！ ]]></description>
       <guid>https://tsdgeos.blogspot.com/2025/02/kde-gear-2504-release-schedule.html?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Feb 2025 23:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>将KDE的样式转移到未来</title>
+      <title>让 KDE 的风格走向未来</title>
       <link>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Feb 2025 11:32:00 GMT</pubDate>
     </item>
     <item>
-      <title>本周在KDE应用程序中</title>
+      <title>本周 KDE 应用</title>
       <link>https://blogs.kde.org/2025/02/10/this-week-in-kde-apps/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/02/10/this-week-in-kde-apps/?utm_source=atom_feed</guid>
@@ -63,104 +67,25 @@
       <pubDate>Sun, 09 Feb 2025 15:46:52 GMT</pubDate>
     </item>
     <item>
-      <title>Foszes 2025</title>
+      <title>FOSDEM 2025</title>
       <link>https://www.volkerkrause.eu/2025/02/08/kde-fosdem2025.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2025/02/08/kde-fosdem2025.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 08 Feb 2025 09:30:00 GMT</pubDate>
     </item>
     <item>
-      <title>本周在血浆中：最终等离子体6.3抛光</title>
+      <title>本周 Plasma：Plasma 6.3 最终完善</title>
       <link>https://blogs.kde.org/2025/02/08/this-week-in-plasma-final-plasma-6.3-polishing/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/02/08/this-week-in-plasma-final-plasma-6.3-polishing/?utm_source=atom_feed</guid>
       <pubDate>Sat, 08 Feb 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>网络评论，第2025-06周</title>
+      <title>网络评论，第 2025-06 周</title>
       <link>https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/?utm_source=atom_feed</guid>
       <pubDate>Fri, 07 Feb 2025 11:18:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Glaxnimate 0.6.0 beta</title>
-      <link>https://glaxnimate.org/news/releases/0.5.80/?utm_source=atom_feed</link>
-      <description><![CDATA[ Glaxnimate 0.6.0 Beta终于发布了测试！
-自上次发行《麦哲伦》以来已经有一段时间了，但是在背景中，我们努力使KDE伞下的第一个版本发生了！
-请帮助我们测试并报告您可能在 https“&gt; https：// bugs）上遇到的任何问题。 kde.org/enter_bug.cgi?product=glaxnimate  
- glaxnimate加入kde 
-葛兰素团队很荣幸地宣布，Glaxnimate现在已成为KDE的一部分。 Glaxnimate从共享的KDE构建和分销基础设施，社区的集体知识和KDE框架等图书馆的集体知识中受益。这样，开发人员可以花更多的时间在代码上修复错误并为您开发新功能！
-更改
-编辑
-
-旋转手柄现在保留旋转方向和多个完整旋转
- alt +单击内置宽松曲线之间的键帧周期
- alt +单击切线对称模式之间的bezier点循环（ctrl +单击仍然有效）
-如果缺少/li&gt;
-“导入图像”对话框现在允许一次导入多个图像
-
- I/O 
-
-添加了对SVG Text-Chartor的支持
-
-用户界面
-
-中间鼠标拖动现在pan the时间轴
-时间表上有一个图标可以快速切换键帧
-按钮跳到时间表中的下一个/上一个密钥帧
-改进的Lottiefiles导入对话框
-改进的Autosave恢复过程
-脚本控制台现在支持基本的自动完成
-
-脚本
-
-添加新构图的暴露方法
-
- MISC 
-
-切换到偶数/奇数版编号方案
-与KDE Frameworks集成
-
- Bug修复
-
-固定的密钥帧上下文菜单显示了错误的“之后”过渡
-当绘制没有切线的bezier点时，正确标记为角
-播放按钮现在从当前帧恢复，而不是重置为start 
-固定保存自定义模板
-通过单击其图标来切换层的可见性/锁定，现在添加撤消/重做操作
-固定的lottiefiles进口
-固定的删除文件作为对象
-固定的关闭构图从Tab Bar  
-固定旧Lotties的加载颜色
-标记为不可见的形状修饰符现在被正确忽略了
-固定的圆角修饰符的渲染
-固定的“新构图”动作创建一个隐形图层
-固定的中继器不透明度未正确应用
-改进了中继器处理中继器的处理
-固定的SVG动画导出
-固定动画栅格插件I/O 
-
-如何获得它
-请注意，这是一个Beta版本。大多数Linux发行版不包装不稳定的版本。
-我们建议使用我们提供的二进制文件之一测试此版本：
-
-  linux appimage ： GlaxNimate-0.5.80-X86_64.Appimage  
-  Windows Installer ： GlaxNimate-0.5.80-x86_64.exe  
-  macOS DMG 
-
- ARM： glaxnimate-0.5。 80-arm64.dmg  
-英特尔： glaxnimation--0.5.5。 80-x86_64.dmg  
-
-
-
- Packager部分
-可从KDE服务器获得源代码TARBALL：
-  url：  https://download.kde.kde.org.kde.org /unstable/glaxnimate/0.5.80  
- 来源： glaxnimate-0.5.80.tar.xz 
-Signed by: 97B71AA02D63EA6C5C44C23B962AC48EF0501F0B &lt;a href=&quot;https://invent.kde.org/sysadmin/release-keyring/-/raw/master/keys/ jlskuz@key1.asc“ target =“ _ blank”&gt; juliuskünzel  julius.kuenzel@kde.kde.org ]]></description>
-      <guid>https://glaxnimate.org/news/releases/0.5.80/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
