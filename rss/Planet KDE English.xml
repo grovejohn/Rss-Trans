@@ -4,7 +4,20 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Feb 2025 01:10:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 03:19:15 GMT</lastBuildDate>
+    <item>
+      <title>Tellico 4.1.1发布</title>
+      <link>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</link>
+      <description><![CDATA[ tellico 4.1.1 可用，带有一些修复。
+改进
+
+更新 filmaffinity 和漫画数据源。
+将可配置的图像大小添加到 discogs  and  moviemeter 数据源
+使用 colnect 。
+]]></description>
+      <guid>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 11 Feb 2025 01:24:40 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Gear 25.04发布时间表</title>
       <link>https://tsdgeos.blogspot.com/2025/02/kde-gear-2504-release-schedule.html?utm_source=atom_feed</link>
@@ -102,7 +115,7 @@
 通过单击其图标来切换层的可见性/锁定，现在添加撤消/重做操作
 固定的lottiefiles进口
 固定的删除文件作为对象
-固定的关闭构图从Tab Bar 
+固定的关闭构图从Tab Bar  
 固定旧Lotties的加载颜色
 标记为不可见的形状修饰符现在被正确忽略了
 固定的圆角修饰符的渲染
@@ -117,7 +130,7 @@
 我们建议使用我们提供的二进制文件之一测试此版本：
 
   linux appimage ： GlaxNimate-0.5.80-X86_64.Appimage  
-  Windows Installer ： GlaxNimate-0.5.80-x86_64.exe  
+  Windows Installer ： GlaxNimate-0.5.80-X86_64.exe  
   macOS DMG 
 
  ARM： glaxnimate-0.5。 80-arm64.dmg  
@@ -151,17 +164,6 @@ Signed by: 97B71AA02D63EA6C5C44C23B962AC48EF0501F0B &lt;a href=&quot;https://inv
 ]]></description>
       <guid>https://kde.org/announcements/gear/24.12.2/?utm_source=atom_feed</guid>
       <pubDate>Thu, 06 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>MCUS 2.8.2 LTS发布的QT</title>
-      <link>https://www.qt.io/blog/qt-for-mcus-2.8.2-lts-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
- 
-MCUS 2.8.2 LTS（长期支持）的 QT已发布，可下载。＆nbsp;该补丁发布提供了错误修复和其他改进，同时将MCUS 2.8的源兼容性与QT保持兼容性。它不会添加任何新功能。 
-]]></description>
-      <guid>https://www.qt.io/blog/qt-for-mcus-2.8.2-lts-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Feb 2025 12:02:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
