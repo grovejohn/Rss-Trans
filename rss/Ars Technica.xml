@@ -4,9 +4,16 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Tue, 11 Feb 2025 23:15:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 01:10:41 GMT</lastBuildDate>
     <item>
-      <title>福特老板称关税将造成“成本和混乱”</title>
+      <title>当软件更新真正改善（而不是毁掉）我们最喜欢的设备时</title>
+      <link>https://arstechnica.com/gadgets/2025/02/when-software-updates-actually-improve-instead-of-ruin-our-favorite-devices/</link>
+      <description><![CDATA[观点：这些科技产品随着时间的推移变得越来越好。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/when-software-updates-actually-improve-instead-of-ruin-our-favorite-devices/</guid>
+      <pubDate>Tue, 11 Feb 2025 23:24:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>福特首席执行官称关税将“摧毁”美国汽车业</title>
       <link>https://arstechnica.com/cars/2025/02/ford-boss-says-tariffs-will-create-cost-and-chaos/</link>
       <description><![CDATA[一位首席执行官公开反对特朗普政府的政策似乎令人耳目一新。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/ford-boss-says-tariffs-will-create-cost-and-chaos/</guid>
@@ -36,7 +43,7 @@
     <item>
       <title>Google Chrome 可能很快会使用“人工智能”来取代被泄露的密码</title>
       <link>https://arstechnica.com/gadgets/2025/02/google-chrome-may-soon-use-ai-to-detect-leaked-passwords-and-replace-them/</link>
-      <description><![CDATA[Chrome 不仅仅是警告您，还会指导您设置更好的密码。]]></description>
+      <description><![CDATA[Chrome 不仅仅是向您发出警告，还会指导您设置更好的密码。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/google-chrome-may-soon-use-ai-to-detect-leaked-passwords-and-replace-them/</guid>
       <pubDate>Tue, 11 Feb 2025 19:01:41 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[由于太空部队的审查仍在进行中，ULA 正在将其下一枚 Vulcan 火箭从发射台上移除。]]></description>
       <guid>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</guid>
       <pubDate>Tue, 11 Feb 2025 15:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 18.3.1 更新修复了“极其复杂的攻击”中利用的安全漏洞</title>
-      <link>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</link>
-      <description><![CDATA[对于那些已关闭 Apple Intelligence 的用户，更新可能还会重新启用它。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/ios-18-3-1-update-fixes-security-flaw-used-in-extremely-sophisticated-attack/</guid>
-      <pubDate>Tue, 11 Feb 2025 15:17:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
