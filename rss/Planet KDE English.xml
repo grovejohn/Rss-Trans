@@ -4,7 +4,7 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 12 Feb 2025 03:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 16:42:51 GMT</lastBuildDate>
     <item>
       <title>关于 Plasma 发布时间表</title>
       <link>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</link>
@@ -60,6 +60,13 @@ Plasma 6.3 即将发布，耶！对于此版本，我们记得推出额外的新
       <pubDate>Mon, 10 Feb 2025 11:25:35 GMT</pubDate>
     </item>
     <item>
+      <title>新版本的 Fast Sketch Cleanup 插件</title>
+      <link>https://krita.org/en/posts/2025/fsc-plugin-new-version/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2025/fsc-plugin-new-version/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>本地身份验证中心</title>
       <link>https://blog.cryptomilk.org/2025/02/09/local-authentication-hub/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -67,7 +74,7 @@ Plasma 6.3 即将发布，耶！对于此版本，我们记得推出额外的新
       <pubDate>Sun, 09 Feb 2025 15:46:52 GMT</pubDate>
     </item>
     <item>
-      <title>2025年FOSDEM</title>
+      <title>FOSDEM 2025</title>
       <link>https://www.volkerkrause.eu/2025/02/08/kde-fosdem2025.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2025/02/08/kde-fosdem2025.html?utm_source=atom_feed</guid>
@@ -79,13 +86,6 @@ Plasma 6.3 即将发布，耶！对于此版本，我们记得推出额外的新
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/02/08/this-week-in-plasma-final-plasma-6.3-polishing/?utm_source=atom_feed</guid>
       <pubDate>Sat, 08 Feb 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第 2025-06 周</title>
-      <link>https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2025/02/07/web-review-week-2025-06/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 07 Feb 2025 11:18:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
