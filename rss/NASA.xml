@@ -1,12 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>NASA</title>
+    <title>美国宇航局</title>
     <link>https://www.nasa.gov</link>
     <description>美国国家航空航天局官方网站</description>
-    <lastBuildDate>Wed, 12 Feb 2025 19:12:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 20:16:26 GMT</lastBuildDate>
     <item>
-      <title>15年前：STS-130将宁静和冲天盘交给空间站</title>
+      <title>火星天空中彩虹色的“羽毛”</title>
+      <link>https://www.nasa.gov/image-article/a-rainbow-colored-feather-in-the-martian-sky/</link>
+      <description><![CDATA[美国宇航局的“好奇号”火星探测器于 2023 年 1 月 27 日日落后不久拍摄到了这片羽毛状的彩虹云。研究彩虹云的颜色可以让科学家了解云中的颗粒大小以及它们随时间的变化情况。这些云是作为研究夜光云或“夜光”云的季节性成像活动的一部分拍摄的。[…]]]></description>
+      <guid>https://www.nasa.gov/image-article/a-rainbow-colored-feather-in-the-martian-sky/</guid>
+      <pubDate>Wed, 12 Feb 2025 19:36:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国宇航局在太空领域的进步继续在地球上生产产品</title>
+      <link>https://www.nasa.gov/news-release/nasas-advancements-in-space-continue-generating-products-on-earth/</link>
+      <description><![CDATA[美国宇航局最新一期的 Spinoff 出版物重点介绍了该机构技术向商业领域的成功转移，现已在线发布。近 25 年来，美国宇航局一直支持在低地球轨道上工作的宇航员了解太空环境并开展研究以推进深空探索。国际太空站上的宇航员 […]]]></description>
+      <guid>https://www.nasa.gov/news-release/nasas-advancements-in-space-continue-generating-products-on-earth/</guid>
+      <pubDate>Wed, 12 Feb 2025 19:20:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>15 年前：STS-130 向空间站运送宁静号和圆顶舱</title>
       <link>https://www.nasa.gov/history/15-years-ago-sts-130-delivers-tranquility-and-cupola-to-space-station/</link>
       <description><![CDATA[2010 年 2 月 8 日，奋进号航天飞机开始第 24 次太空之旅，执行 20A 号国际空间站组装任务，这是第 32 次航天飞机飞往轨道实验室。STS-130 机组人员包括指挥官乔治·扎姆卡、飞行员特里·维尔茨和任务专家凯瑟琳·海尔、斯蒂芬·罗宾逊、尼古拉斯·帕特里克和罗伯特·本肯。在 […]]]></description>
       <guid>https://www.nasa.gov/history/15-years-ago-sts-130-delivers-tranquility-and-cupola-to-space-station/</guid>
@@ -15,26 +29,26 @@
     <item>
       <title>为什么月亮在地平线上看起来更大？我们问了一位 NASA 科学家：第 50 集</title>
       <link>https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/</link>
-      <description><![CDATA[为什么月亮在地平线上看起来更大？简短的答案是，我们不知道。]]></description>
+      <description><![CDATA[为什么月亮在地平线上看起来更大？简而言之，我们不知道。]]></description>
       <guid>https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/</guid>
       <pubDate>Wed, 12 Feb 2025 15:04:23 GMT</pubDate>
     </item>
     <item>
-      <title>NASA望远镜在情人节时及时提供出色的花束</title>
+      <title>美国宇航局望远镜在情人节送来恒星花束</title>
       <link>https://www.nasa.gov/image-article/nasa-telescopes-deliver-stellar-bouquet-in-time-for-valentines-day/</link>
       <description><![CDATA[一束盛开的数千颗星星已经到来。这张合成图像包含迄今为止最深的 X 射线图像，描绘了壮观的恒星形成区域 30 Doradus。通过结合美国宇航局钱德拉 X 射线天文台的 X 射线数据（蓝色和绿色）与美国宇航局哈勃太空望远镜的光学数据（黄色）以及来自 […] 的无线电数据，]]></description>
       <guid>https://www.nasa.gov/image-article/nasa-telescopes-deliver-stellar-bouquet-in-time-for-valentines-day/</guid>
       <pubDate>Wed, 12 Feb 2025 15:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>美国宇航局成功地加入了罗马天文台的“外骨骼”</title>
+      <title>美国宇航局成功将遮阳板与罗马天文台的“外骨骼”连接起来</title>
       <link>https://www.nasa.gov/universe/nasa-successfully-joins-sunshade-to-roman-observatorys-exoskeleton/</link>
       <description><![CDATA[美国宇航局的南希·格雷斯·罗曼太空望远镜团队已成功将该任务的可展开光圈盖（一种遮阳板式的遮阳板，有助于防止不必要的光线进入望远镜）集成到外筒组件中，外筒组件是另一种旨在保护望远镜免受杂散光影响的结构，同时还能保持望远镜的温度稳定。“它[…]]]></description>
       <guid>https://www.nasa.gov/universe/nasa-successfully-joins-sunshade-to-roman-observatorys-exoskeleton/</guid>
       <pubDate>Wed, 12 Feb 2025 15:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>认识员工卓越</title>
+      <title>认可员工的卓越表现</title>
       <link>https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence/</link>
       <description><![CDATA[格伦研究中心员工荣获总统早期科学家和工程师职业奖 美国国家航空航天局格伦研究中心的两名员工是 19 名获得总统早期科学家和工程师职业奖 (PECASE) 的机构研究人员之一。Lyndsey McMillon-Brown 因其在光伏研究、开发和演示方面的领导能力而获得认可。她是科学 […] 的首席研究员]]></description>
       <guid>https://www.nasa.gov/centers-and-facilities/glenn/recognizing-employee-excellence/</guid>
@@ -57,23 +71,9 @@
     <item>
       <title>第 4450-4451 个太阳日：充分利用星期一</title>
       <link>https://science.nasa.gov/blog/sols-4450-4451-making-the-most-of-a-monday/</link>
-      <description><![CDATA[地球计划日期：2025年2月10日，星期一，上周六大约20:00太平洋标准时间，我看到了一个22度的光环，环绕着我们的大部分满月和火星；整个星球悬挂在我们的月亮和大气现象之间的天空中。当我欣赏视野时，我想知道我们的流浪者当时在做什么……[…]]]></description>
+      <description><![CDATA[地球计划日期：2025 年 2 月 10 日星期一 上周六太平洋标准时间 20:00 左右，我看到一个 22 度的光晕环绕着我们几乎满月的月亮和火星；整个星球悬挂在月球和大气现象之间的天空中。当我欣赏这幅景色时，我很好奇我们的探测器当时在做什么……[…]]]></description>
       <guid>https://science.nasa.gov/blog/sols-4450-4451-making-the-most-of-a-monday/</guid>
       <pubDate>Wed, 12 Feb 2025 00:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA邀请媒体参加肯尼迪的Artemis II月球任务活动</title>
-      <link>https://www.nasa.gov/news-release/nasa-invites-media-to-artemis-ii-moon-mission-activities-at-kennedy/</link>
-      <description><![CDATA[媒体受邀参观位于佛罗里达州的 NASA 肯尼迪航天中心，拍摄该机构的 Artemis II Orion 航天器和双 SLS（太空发射系统）固体火箭助推器的图像，用于首次载人绕月 Artemis 任务。该活动计划于 3 月 7 日星期五举行。来自 NASA 和行业合作伙伴的主题专家 […]]]></description>
-      <guid>https://www.nasa.gov/news-release/nasa-invites-media-to-artemis-ii-moon-mission-activities-at-kennedy/</guid>
-      <pubDate>Tue, 11 Feb 2025 22:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>奋进号航天飞机起飞</title>
-      <link>https://www.nasa.gov/image-article/space-shuttle-endeavour-takes-flight/</link>
-      <description><![CDATA[主发动机喷嘴喷出的蓝色马赫钻石和固体火箭助推器的明亮排气标志着 25 年前的 2000 年 2 月 11 日奋进号航天飞机的成功发射。STS-99 任务机组人员——包括来自美国国家航空航天局、日本国家宇宙开发机构 (NASDA) 和欧洲航天局 (ESA) 的宇航员——[…]]]></description>
-      <guid>https://www.nasa.gov/image-article/space-shuttle-endeavour-takes-flight/</guid>
-      <pubDate>Tue, 11 Feb 2025 22:16:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
