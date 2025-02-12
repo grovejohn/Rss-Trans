@@ -4,7 +4,21 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Wed, 12 Feb 2025 05:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 13:00:56 GMT</lastBuildDate>
+    <item>
+      <title>如果它移动，它可能活着：在其他星球上寻找生命</title>
+      <link>https://arstechnica.com/science/2025/02/how-to-go-fishing-for-life-on-another-planet-or-moon/</link>
+      <description><![CDATA[科学家找到了一种不需要精密设备的寻找外星生命的方法。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/how-to-go-fishing-for-life-on-another-planet-or-moon/</guid>
+      <pubDate>Wed, 12 Feb 2025 12:20:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>备受期待但难以捉摸的 Micro LED 显示器的最新进展</title>
+      <link>https://arstechnica.com/gadgets/2025/02/an-update-on-highly-anticipated-and-elusive-micro-led-displays/</link>
+      <description><![CDATA[新的（且更便宜的） Micro LED 电视已经发布。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/02/an-update-on-highly-anticipated-and-elusive-micro-led-displays/</guid>
+      <pubDate>Wed, 12 Feb 2025 12:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>当软件更新真正改善（而不是毁掉）我们最喜欢的设备时</title>
       <link>https://arstechnica.com/gadgets/2025/02/when-software-updates-actually-improve-instead-of-ruin-our-favorite-devices/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[正确掌握新型 F1 混合动力车是一项挑战。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/perfecting-hondas-2026-f1-powertrain-is-not-so-easy-says-racing-boss/</guid>
       <pubDate>Tue, 11 Feb 2025 17:55:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨姆·奥特曼：OpenAI 不会出售，即使伊隆·马斯克开出 970 亿美元的报价</title>
-      <link>https://arstechnica.com/ai/2025/02/sam-altman-openai-is-not-for-sale-even-for-elon-musks-97-billion-offer/</link>
-      <description><![CDATA[奥特曼回应称，愿意以 97.4 亿美元收购 Twitter。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/sam-altman-openai-is-not-for-sale-even-for-elon-musks-97-billion-offer/</guid>
-      <pubDate>Tue, 11 Feb 2025 16:55:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>ULA 的 Vulcan 火箭仍未获得太空部队的批准</title>
-      <link>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</link>
-      <description><![CDATA[由于太空部队的审查仍在进行中，ULA 正在将其下一枚 Vulcan 火箭从发射台上移除。]]></description>
-      <guid>https://arstechnica.com/space/2025/02/ulas-vulcan-rocket-still-doesnt-have-the-space-forces-seal-of-approval/</guid>
-      <pubDate>Tue, 11 Feb 2025 15:55:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
