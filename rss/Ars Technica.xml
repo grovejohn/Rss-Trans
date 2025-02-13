@@ -4,7 +4,28 @@
     <title>Ars Technica - 所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有 Ars Technica 故事</description>
-    <lastBuildDate>Thu, 13 Feb 2025 16:20:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 18:21:31 GMT</lastBuildDate>
+    <item>
+      <title>超过一半的法学硕士撰写的新闻摘要存在“重大问题”——BBC 分析</title>
+      <link>https://arstechnica.com/ai/2025/02/bbc-finds-significant-inaccuracies-in-over-30-of-ai-produced-news-summaries/</link>
+      <description><![CDATA[常见的问题包括引述混乱、评论不当以及信息过时。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/bbc-finds-significant-inaccuracies-in-over-30-of-ai-produced-news-summaries/</guid>
+      <pubDate>Thu, 13 Feb 2025 17:30:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>“更糟糕的美国”：参议院批准小罗伯特·肯尼迪出任卫生部长</title>
+      <link>https://arstechnica.com/health/2025/02/a-sicker-america-senate-confirms-robert-f-kennedy-jr-as-health-secretary/</link>
+      <description><![CDATA[在参议院听证会上，肯尼迪继续表达反疫苗的观点。]]></description>
+      <guid>https://arstechnica.com/health/2025/02/a-sicker-america-senate-confirms-robert-f-kennedy-jr-as-health-secretary/</guid>
+      <pubDate>Thu, 13 Feb 2025 16:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sam Altman 为 OpenAI 期待已久的 GPT-5 模型制定了路线图</title>
+      <link>https://arstechnica.com/ai/2025/02/sam-altman-lays-out-roadmap-for-openais-long-awaited-gpt-5-model/</link>
+      <description><![CDATA[GPT-4.5 将在“几周内”推出，然后 GPT-5 将融合传统的 LLM 和推理模型。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/sam-altman-lays-out-roadmap-for-openais-long-awaited-gpt-5-model/</guid>
+      <pubDate>Thu, 13 Feb 2025 16:08:00 GMT</pubDate>
+    </item>
     <item>
       <title>蓝色起源因“官僚主义”太严重，将裁员 10%</title>
       <link>https://arstechnica.com/space/2025/02/citing-too-much-bureaucracy-blue-origin-to-cut-10-percent-of-its-workforce/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[所有 24 例病例均为未接种疫苗的人群，其中 22 例年龄在 17 岁以下。]]></description>
       <guid>https://arstechnica.com/health/2025/02/measles-outbreak-doubles-in-one-of-texas-least-vaccinated-counties/</guid>
       <pubDate>Wed, 12 Feb 2025 20:13:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple TV+ 跨越敌方防线，今日起将以 Android 应用程序形式推出</title>
-      <link>https://arstechnica.com/culture/2025/02/apple-tv-crosses-enemy-lines-will-be-available-as-an-android-app-starting-today/</link>
-      <description><![CDATA[Android 上的 Apple TV+ 应用程序的运行方式与在任何其他设备上的运行方式基本相同。]]></description>
-      <guid>https://arstechnica.com/culture/2025/02/apple-tv-crosses-enemy-lines-will-be-available-as-an-android-app-starting-today/</guid>
-      <pubDate>Wed, 12 Feb 2025 20:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>连环“恶作剧者”策划了 375 起暴力恶作剧，将自己的家作为受害者</title>
-      <link>https://arstechnica.com/security/2025/02/swatting-as-a-service-meet-the-kid-who-terrorized-america-with-375-violent-hoaxes/</link>
-      <description><![CDATA[他现在面临四年联邦监禁。]]></description>
-      <guid>https://arstechnica.com/security/2025/02/swatting-as-a-service-meet-the-kid-who-terrorized-america-with-375-violent-hoaxes/</guid>
-      <pubDate>Wed, 12 Feb 2025 19:21:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>建造中的海底探测器探测到创纪录的中微子</title>
-      <link>https://arstechnica.com/science/2025/02/most-energetic-neutrino-yet-seen-smashes-through-seafloor-detector/</link>
-      <description><![CDATA[中微子的速度超出了我们最好的粒子加速器的极限 10,000 倍之多。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/most-energetic-neutrino-yet-seen-smashes-through-seafloor-detector/</guid>
-      <pubDate>Wed, 12 Feb 2025 17:25:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
