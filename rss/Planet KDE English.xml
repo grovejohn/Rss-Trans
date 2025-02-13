@@ -4,7 +4,28 @@
     <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 12 Feb 2025 16:42:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 10:40:36 GMT</lastBuildDate>
+    <item>
+      <title>第 46 届国际 TeX 用户组会议，2025 年</title>
+      <link>https://rajeeshknambiar.wordpress.com/2025/02/13/the-46th-international-tex-users-group-conference-2025/?utm_source=atom_feed</link>
+      <description><![CDATA[第 46 届国际 TeX 用户组年会 (TUG 2025) 将于 2025 年 7 月 18 日至 20 日在印度喀拉拉邦特里凡得琅 (Thiruvananthapuram，又名 Trivandrum) 举行。印度 TeX 用户组 和 TeXFolio (STMDocs) 在国际 TeX 用户组 和赞助商的支持下，将组织此次活动，该活动在时隔 14 年后重返印度（上次举办两次是在2011 和 2002 年）。
+有关注册、地点、旅行、住宿、计划、截止日期和重要日期等的详细信息，请参阅会议页面 https://tug.org/tug2025/。
+
+征集参与
+TUG 会议总是有关于 TeX、字体/字型、排版、排版和任何相关内容的精彩演讲和讲座。请提交有趣的论文 - 请参阅征集论文和演讲者建议。请注意，大多数国家的参与者都需要签证，这是一项艰巨的任务。请尽快报名并联系项目委员会获取签证邀请函。
+TUG 2025 的图画由著名漫画家 E.P. Unny 绘制，传单由 CVR 排版。
+]]></description>
+      <guid>https://rajeeshknambiar.wordpress.com/2025/02/13/the-46th-international-tex-users-group-conference-2025/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 13 Feb 2025 09:12:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>PySide6，适用于 Python 的 Qt</title>
+      <link>https://www.basyskom.de/pyside6-qt-for-python/?utm_source=atom_feed</link>
+      <description><![CDATA[在本文中，我们将了解 Qt for Python、它如何与 Qt Creator 集成，以及您可能也想考虑使用它的原因。
+继续阅读 basysKom GmbH 的 PySide6、Qt for Python。]]></description>
+      <guid>https://www.basyskom.de/pyside6-qt-for-python/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 13 Feb 2025 09:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>关于 Plasma 发布时间表</title>
       <link>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</link>
@@ -72,20 +93,6 @@ Plasma 6.3 即将发布，耶！对于此版本，我们记得推出额外的新
       <description><![CDATA[]]></description>
       <guid>https://blog.cryptomilk.org/2025/02/09/local-authentication-hub/?utm_source=atom_feed</guid>
       <pubDate>Sun, 09 Feb 2025 15:46:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSDEM 2025</title>
-      <link>https://www.volkerkrause.eu/2025/02/08/kde-fosdem2025.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2025/02/08/kde-fosdem2025.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 08 Feb 2025 09:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 Plasma：Plasma 6.3 最终完善</title>
-      <link>https://blogs.kde.org/2025/02/08/this-week-in-plasma-final-plasma-6.3-polishing/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/02/08/this-week-in-plasma-final-plasma-6.3-polishing/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 08 Feb 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
