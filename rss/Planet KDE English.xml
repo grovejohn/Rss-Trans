@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>星球在哪里|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Feb 2025 10:40:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 13:00:59 GMT</lastBuildDate>
+    <item>
+      <title>Qt Creator 16 Beta2 发布</title>
+      <link>https://www.qt.io/blog/qt-creator-16-beta2-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很高兴地宣布 Qt Creator 16 Beta2 正式发布。
+
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-16-beta2-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 13 Feb 2025 11:17:59 GMT</pubDate>
+    </item>
     <item>
       <title>第 46 届国际 TeX 用户组会议，2025 年</title>
       <link>https://rajeeshknambiar.wordpress.com/2025/02/13/the-46th-international-tex-users-group-conference-2025/?utm_source=atom_feed</link>
@@ -86,13 +95,6 @@ Plasma 6.3 即将发布，耶！对于此版本，我们记得推出额外的新
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2025/fsc-plugin-new-version/?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地身份验证中心</title>
-      <link>https://blog.cryptomilk.org/2025/02/09/local-authentication-hub/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.cryptomilk.org/2025/02/09/local-authentication-hub/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 09 Feb 2025 15:46:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
