@@ -4,13 +4,27 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Feb 2025 10:39:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 16:42:24 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第2025-07周</title>
+      <link>https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Feb 2025 15:48:46 GMT</pubDate>
+    </item>
     <item>
       <title>与长生不老药一起处理数百万条消息的秘密武器</title>
       <link>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Feb 2025 00:46:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE船框架6.11.0</title>
+      <link>https://kde.org/announcements/frameworks/6/6.11.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/frameworks/6/6.11.0/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>QT Creator 16 Beta2发布</title>
@@ -84,20 +98,6 @@
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.3.0/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear 25.04发布时间表</title>
-      <link>https://tsdgeos.blogspot.com/2025/02/kde-gear-2504-release-schedule.html?utm_source=atom_feed</link>
-      <description><![CDATA[这是发行时间表的发布团队在   https：https：&gt; https： //community.kde.org/schedules/kde_gear_25.04_schedule    依赖关系冻结大约3周（3月6日），并在此之后冻结一个。准备好您的东西！＆nbsp; &lt; /p&gt;]]></description>
-      <guid>https://tsdgeos.blogspot.com/2025/02/kde-gear-2504-release-schedule.html?utm_source=atom_feed</guid>
-      <pubDate>Mon, 10 Feb 2025 23:09:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>将KDE的样式转移到未来</title>
-      <link>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</guid>
-      <pubDate>Mon, 10 Feb 2025 11:32:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
