@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球在哪里|英语</title>
+    <title>星球 哪里 |英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Feb 2025 13:00:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 03:18:53 GMT</lastBuildDate>
+    <item>
+      <title>使用 Elixir 处理数百万条消息的秘密武器</title>
+      <link>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Feb 2025 00:46:31 GMT</pubDate>
+    </item>
     <item>
       <title>Qt Creator 16 Beta2 发布</title>
       <link>https://www.qt.io/blog/qt-creator-16-beta2-released?utm_source=atom_feed</link>
@@ -88,13 +95,6 @@ Plasma 6.3 即将发布，耶！对于此版本，我们记得推出额外的新
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/02/10/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Feb 2025 11:25:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>新版本的 Fast Sketch Cleanup 插件</title>
-      <link>https://krita.org/en/posts/2025/fsc-plugin-new-version/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2025/fsc-plugin-new-version/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
