@@ -4,7 +4,34 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Feb 2025 16:42:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 18:42:57 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.12.2发布</title>
+      <link>https://kdenlive.org/en/2025/02/kdenlive-24-12-2-released/?utm_source=atom_feed</link>
+      <description><![CDATA[ 24.12周期的第二个维护发布已包含多个错误修复。值得注意的更改包括用于崩溃的修复程序，UI调整大小问题，效果堆栈行为，代理剪辑处理和渲染进度显示，以及对Flatpak和MacOS软件包中语音到文本的改进。
+
+ DON＆＃8217;如果禁用了效果，请尝试更新监视器覆盖。  commit commit 。。
+修复崩溃设置文件夹的空名称。  commit 。修复错误＃499070 。
+更好的修复程序可以扩展与代理破坏的库剪辑。  commit 。修复错误＃499171 。
+尝试在Flatpak上修复Whisper型号文件夹。  commit 。请参阅bug ＃499012 。
+不要尝试在subtitlemanager关闭上删除UI文件元素。  commit commit 。。
+修复效果堆栈小部件无法正确调整大小。  commit commit commit 
+确保启用内置效果重置按钮。  commit commit 。。
+确保正确列出和存档视频外部文件。  commit ump 
+添加了旋转参数的2个小数（地址错误＃498586）。  commit 。。
+ Rescale 48-Apps-kdenlive.png至48＆＃215; 48。  commit commit 。。
+修复效果布局在调整大小上破裂。  commit 。修复错误＃498749 。
+修复出口时可能的崩溃。  commit commit 。。
+验证后正确顺序重新结合代理配置元素。  commit 。修复错误＃485356 。
+修复了Spinbox范围的标题位置和大小。  commit 。修复错误＃487950 。
+修复渲染渲染时未显示渲染进度。  commit commit 。。
+修复了Mac上找不到的STT的FFMPEG。  commit 。修复错误＃498949 。
+自定义效果中无效的文件名的Backport修复。  commit 。修复错误＃498710 。
+
+ post  kdenlive 24.12.2发布首先出现在 kdenlive 。]]></description>
+      <guid>https://kdenlive.org/en/2025/02/kdenlive-24-12-2-released/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Feb 2025 18:27:45 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第2025-07周</title>
       <link>https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/?utm_source=atom_feed</link>
@@ -91,13 +118,6 @@
 ]]></description>
       <guid>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Feb 2025 01:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>等离子体6.3</title>
-      <link>https://kde.org/announcements/plasma/6/6.3.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.3.0/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
