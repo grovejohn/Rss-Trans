@@ -1,100 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>星球 哪里 |英语</title>
+    <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Feb 2025 03:18:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 10:39:48 GMT</lastBuildDate>
     <item>
-      <title>使用 Elixir 处理数百万条消息的秘密武器</title>
+      <title>与长生不老药一起处理数百万条消息的秘密武器</title>
       <link>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Feb 2025 00:46:31 GMT</pubDate>
     </item>
     <item>
-      <title>Qt Creator 16 Beta2 发布</title>
+      <title>QT Creator 16 Beta2发布</title>
       <link>https://www.qt.io/blog/qt-creator-16-beta2-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很高兴地宣布 Qt Creator 16 Beta2 正式发布。
-
+      <description><![CDATA[我们很乐意宣布QT Creator的发行16 Beta2。
+ 
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-16-beta2-released?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Feb 2025 11:17:59 GMT</pubDate>
     </item>
     <item>
-      <title>第 46 届国际 TeX 用户组会议，2025 年</title>
+      <title>第46届国际德克萨斯用户小组会议，2025年</title>
       <link>https://rajeeshknambiar.wordpress.com/2025/02/13/the-46th-international-tex-users-group-conference-2025/?utm_source=atom_feed</link>
-      <description><![CDATA[第 46 届国际 TeX 用户组年会 (TUG 2025) 将于 2025 年 7 月 18 日至 20 日在印度喀拉拉邦特里凡得琅 (Thiruvananthapuram，又名 Trivandrum) 举行。印度 TeX 用户组 和 TeXFolio (STMDocs) 在国际 TeX 用户组 和赞助商的支持下，将组织此次活动，该活动在时隔 14 年后重返印度（上次举办两次是在2011 和 2002 年）。
-有关注册、地点、旅行、住宿、计划、截止日期和重要日期等的详细信息，请参阅会议页面 https://tug.org/tug2025/。
-
-征集参与
-TUG 会议总是有关于 TeX、字体/字型、排版、排版和任何相关内容的精彩演讲和讲座。请提交有趣的论文 - 请参阅征集论文和演讲者建议。请注意，大多数国家的参与者都需要签证，这是一项艰巨的任务。请尽快报名并联系项目委员会获取签证邀请函。
-TUG 2025 的图画由著名漫画家 E.P. Unny 绘制，传单由 CVR 排版。
-]]></description>
+      <description><![CDATA[ 2025年7月18日至20日，国际德克萨斯用户集团（TAUG 2025）的第46届年会（TAUG 2025）将于印度喀拉拉邦的Thiruvananthapuram（又名Trivandrum）举行。 TexFolio （STMDOCS）在国际 2011 和2002）。
+有关注册，场地，旅行，住宿，程序，截止日期和重要日期等的详细信息，请访问会议页面。
+  
+呼吁参与
+拖船会议总是享受出色的演讲和谈判，并谈论TEX，字体/字体，排版，排版以及任何相关的内容。请提交有趣的论文 - 请参阅请求论文和 speaker咨询。请注意，来自大多数国家 /地区的参与者需要签证，这是一项非平凡的事业。请尽快注册并与计划委员会联系以获取签证邀请函。
+ tug 2025的图纸由著名的漫画家 e.p。 unny ，传单是 cvr 。
+ ]]></description>
       <guid>https://rajeeshknambiar.wordpress.com/2025/02/13/the-46th-international-tex-users-group-conference-2025/?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Feb 2025 09:12:49 GMT</pubDate>
     </item>
     <item>
-      <title>PySide6，适用于 Python 的 Qt</title>
+      <title>Pyside6，Qt for Python</title>
       <link>https://www.basyskom.de/pyside6-qt-for-python/?utm_source=atom_feed</link>
-      <description><![CDATA[在本文中，我们将了解 Qt for Python、它如何与 Qt Creator 集成，以及您可能也想考虑使用它的原因。
-继续阅读 basysKom GmbH 的 PySide6、Qt for Python。]]></description>
+      <description><![CDATA[   在本文中，我们将查看Python的QT，它如何与QT Creator集成，以及为什么您也可能要考虑使用它。 
+ 继续阅读pyside6，qt，qt for python for python for python in basyskom gmbh。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /a&gt; ]]></description>
       <guid>https://www.basyskom.de/pyside6-qt-for-python/?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Feb 2025 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>关于 Plasma 发布时间表</title>
+      <title>Krita月度更新 - 版本23</title>
+      <link>https://krita.org/en/posts/2025/monthly-update-23/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2025/monthly-update-23/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于血浆发布时间表</title>
       <link>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</link>
-      <description><![CDATA[这会很无聊，抱歉。  基本上是“JFYI”对于那些对 Plasma 的发布管理感兴趣的人。
-不久前，曾有一场关于将 Plasma 改为每年两次发布模式的讨论，以便更好地与每年发布两次的独立发行版保持一致——主要是 Fedora KDE 和 Kubuntu。
-我们在去年的 Akademy 上讨论过这个问题，但决定暂时不这么做，因为更快的发布时间表将有助于更快地向用户提供重要的 Wayland 改进，因为我们正在尝试高速完善我们的 Wayland 会话。我们一致同意，一旦 Wayland 已知重大问题 wiki 页面为空，我们就可以重新评估。
-在重新评估之前，我们决定将测试版发布时间从四周延长到六周，每两周发布一次新的测试版。
-Plasma 6.3 即将发布，耶！对于此版本，我们记得推出额外的新测试版，但忘记将其持续时间延长两周。哎呀。
-有趣的是，我们没有收到来自 Plasma 6.3 测试版用户的很多错误报告，这在历史上是不寻常的。我不太确定该如何解释这一点。乐观的估计是，即使在我们发布测试版时，该版本已经很棒了！悲观的估计是，很少有人参加 QA，因此遗漏了许多错误（我不太确定是不是这样，但任何事情都有可能）。无论如何，额外的两周测试时间似乎不会带来太大的变化，所以我们不认为这是一个很大的损失。
-因此，我们决定对 6.4 尝试同样的方法：四周的测试期，每两周发布一次新版本。我们拭目以待！如果没问题，我们可以保留它，如果不行，我们可以回到原来的六周测试期计划。在那之前，享受 Plasma 6.3 吧！]]></description>
+      <description><![CDATA[这将是一个无聊的，抱歉。 基本上是a＆＃8220; jfyi＆＃8221;适用于对等离子体发行管理感兴趣的人。
+前一段时间，有关于将血浆移至两次， - 以下发布模型，可以更好地与每年发行的离散发行发行版更好地保持一致 - 主要是Fedora Kde和Kubuntu。
+我们在去年的Akademy上讨论了这一点，并决定不这样做，因为更快的发布时间表将有助于更快地对用户进行重要的改进，鉴于我们尝试了我们＃8217；高速抛光我们的Wayland会议。我们同意，一旦 Wayland已知的重要问题 Wiki Page是空的，我们可以重新评估，我们可以重新评估。 /p&gt;
+
+
+
+在重新评估发生之前，我们决定将Beta发布期限从四个星期延长到六周，每两个新版本发布。
+等离子体6.3很快就会发布，是的！在此版本中，我们记得推出额外的新版本版本，但忘记了增加两周的时间。糟糕。
+有趣的是，我们尚未获得等离子体6.3 beta用户的许多错误报告，这在历史上是不寻常的。我不完全确定该怎么做。乐观的评估是，即使在我们运送Beta的时候，发布也已经很棒！悲观的是，很少有人出现在质量检查中，因此错过了很多错误（i＆＃8217; m不确定它，但一切都可能）。无论哪种方式，似乎额外的两个星期的beta时间都不会有很大的作用，所以我们不考虑巨大的损失。
+结果，我们决定在6.4：为期四周的Beta期间尝试相同的方法，每两周发行新版本。我们会看看它的发展！如果很好，我们可以保留它，如果不是这样，我们可以返回到六周的Beta期间的原始计划。在此之前，享受等离子6.3！]]></description>
       <guid>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Feb 2025 04:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tellico 4.1.1 发布</title>
+      <title>Tellico 4.1.1发布</title>
       <link>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</link>
-      <description><![CDATA[Tellico 4.1.1 现已推出，并进行了一些修复。
+      <description><![CDATA[ tellico 4.1.1 可用，带有一些修复。
 改进
 
-更新了 Filmaffinity 和 ComicVine 数据源。
-为 Discogs 和 Moviemeter 数据源添加了可配置的图像大小。
-修复了使用 收集。
+更新 filmaffinity 和漫画数据源。
+将可配置的图像大小添加到 discogs  and  moviemeter 数据源
+使用 colnect 。
 ]]></description>
       <guid>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Feb 2025 01:24:40 GMT</pubDate>
     </item>
     <item>
-      <title>等离子 6.3</title>
+      <title>等离子体6.3</title>
       <link>https://kde.org/announcements/plasma/6/6.3.0/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.3.0/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KDE Gear 25.04 发布时间表</title>
+      <title>KDE Gear 25.04发布时间表</title>
       <link>https://tsdgeos.blogspot.com/2025/02/kde-gear-2504-release-schedule.html?utm_source=atom_feed</link>
-      <description><![CDATA[这是发布团队商定的发布时间表https://community.kde.org/Schedules/KDE_Gear_25.04_Schedule依赖关系冻结时间约为 3 周（3 月 6 日），功能冻结时间约为 1 周。准备好你的东西吧！ ]]></description>
+      <description><![CDATA[这是发行时间表的发布团队在   https：https：&gt; https： //community.kde.org/schedules/kde_gear_25.04_schedule    依赖关系冻结大约3周（3月6日），并在此之后冻结一个。准备好您的东西！＆nbsp; &lt; /p&gt;]]></description>
       <guid>https://tsdgeos.blogspot.com/2025/02/kde-gear-2504-release-schedule.html?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Feb 2025 23:09:00 GMT</pubDate>
     </item>
     <item>
-      <title>让 KDE 的风格走向未来</title>
+      <title>将KDE的样式转移到未来</title>
       <link>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://quantumproductions.info/articles/2025-02/moving-kdes-styling-future?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Feb 2025 11:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周 KDE 应用</title>
-      <link>https://blogs.kde.org/2025/02/10/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/02/10/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 10 Feb 2025 11:25:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
