@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Feb 2025 18:42:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 06:42:50 GMT</lastBuildDate>
+    <item>
+      <title>本周在血浆中：释放后抛光</title>
+      <link>https://blogs.kde.org/2025/02/15/this-week-in-plasma-post-release-polishing/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/02/15/this-week-in-plasma-post-release-polishing/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 15 Feb 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.12.2发布</title>
       <link>https://kdenlive.org/en/2025/02/kdenlive-24-12-2-released/?utm_source=atom_feed</link>
@@ -105,19 +112,6 @@
 结果，我们决定在6.4：为期四周的Beta期间尝试相同的方法，每两周发行新版本。我们会看看它的发展！如果很好，我们可以保留它，如果不是这样，我们可以返回到六周的Beta期间的原始计划。在此之前，享受等离子6.3！]]></description>
       <guid>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Feb 2025 04:59:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tellico 4.1.1发布</title>
-      <link>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</link>
-      <description><![CDATA[ tellico 4.1.1 可用，带有一些修复。
-改进
-
-更新 filmaffinity 和漫画数据源。
-将可配置的图像大小添加到 discogs  and  moviemeter 数据源
-使用 colnect 。
-]]></description>
-      <guid>https://tellico-project.org/tellico-4-1-1-released/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Feb 2025 01:24:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
