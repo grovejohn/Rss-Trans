@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Feb 2025 12:53:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 14:35:38 GMT</lastBuildDate>
     <item>
       <title>Amarok 3.2.2发布</title>
       <link>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</link>
@@ -49,7 +49,10 @@
     <item>
       <title>Kdenlive 24.12.2发布</title>
       <link>https://kdenlive.org/en/2025/02/kdenlive-24-12-2-released/?utm_source=atom_feed</link>
-      <description><![CDATA[ 24.12周期的第二个维护发布已包含多个错误修复。值得注意的更改包括用于崩溃的修复程序，UI调整大小问题，效果堆栈行为，代理剪辑处理和渲染进度显示，以及对Flatpak和MacOS软件包中语音到文本的改进。
+      <description><![CDATA[
+
+  24.12循环的第二个维护版本已包含多个错误修复。值得注意的更改包括用于崩溃的修复程序，UI调整大小问题，效果堆栈行为，代理剪辑处理和渲染进度显示，以及对Flatpak和MacOS软件包中语音到文本的改进。
+＆nbsp; 
 
  DON＆＃8217;如果禁用了效果，请尝试更新监视器覆盖。  commit commit 。。
 修复崩溃设置文件夹的空名称。  commit 。修复错误＃499070 。
@@ -68,6 +71,10 @@
 修复渲染渲染时未显示渲染进度。  commit commit 。。
 修复了Mac上找不到的STT的FFMPEG。  commit 。修复错误＃498949 。
 自定义效果中无效的文件名的Backport修复。  commit 。修复错误＃498710 。
+ 
+
+
+
 
  post  kdenlive 24.12.2发布首先出现在 kdenlive 。]]></description>
       <guid>https://kdenlive.org/en/2025/02/kdenlive-24-12-2-released/?utm_source=atom_feed</guid>
