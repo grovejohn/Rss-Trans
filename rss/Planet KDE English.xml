@@ -4,7 +4,41 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Feb 2025 06:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 12:53:39 GMT</lastBuildDate>
+    <item>
+      <title>Amarok 3.2.2发布</title>
+      <link>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</link>
+      <description><![CDATA[ Amarok开发小组很高兴宣布Amarok 3.2.2的立即可用性，第二个BugFix版本 
+ 3.2.2具有一些次要错误的错误，以及在非unix系统上构建Amarok的改进，没有X11支持。此外，还满足了16岁的功能请求。
+结束QT5移植和抛光工作的多年，Amarok 3.2.2可能是QT5/KF5支持的最后一个版本，并且
+它应该为各种系统和发行版的用户提供良好稳定的音乐播放器体验。
+另一方面，GIT的开发将很快将默认配置切换到QT6/KF6，而下一个3.3系列的重点将是确保所有内容都可以与新的QT版本合理。 
+自3.2.1 以来的变化
+功能：
+
+在将曲目添加到播放列表时（ br 180404 ））
+
+更改：
+
+允许没有X11支持的建造
+非unix系统的各种构建修复程序
+
+ bugfixes：
+
+修复DAAP收集连接，浏览和播放（ br 498654 ））
+修复第一行歌词。
+
+获得Amarok 
+除&lt;源代码 Amarok可以从许多分布中安装。 &#39; 包裹
+存储库，很快就会更新为3.2.2，
+ flathub 。
+ Packager部分
+您可以在
+ dropand oflation.kde.org 
+它已与键。]]></description>
+      <guid>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 15 Feb 2025 11:20:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周在血浆中：释放后抛光</title>
       <link>https://blogs.kde.org/2025/02/15/this-week-in-plasma-post-release-polishing/?utm_source=atom_feed</link>
@@ -96,22 +130,6 @@
       <description><![CDATA[]]></description>
       <guid>https://krita.org/en/posts/2025/monthly-update-23/?utm_source=atom_feed</guid>
       <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于血浆发布时间表</title>
-      <link>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</link>
-      <description><![CDATA[这将是一个无聊的，抱歉。 基本上是a＆＃8220; jfyi＆＃8221;适用于对等离子体发行管理感兴趣的人。
-前一段时间，有关于将血浆移至两次， - 以下发布模型，可以更好地与每年发行的离散发行发行版更好地保持一致 - 主要是Fedora Kde和Kubuntu。
-我们在去年的Akademy上讨论了这一点，并决定不这样做，因为更快的发布时间表将有助于更快地对用户进行重要的改进，鉴于我们尝试了我们＃8217；高速抛光我们的Wayland会议。我们同意，一旦 Wayland已知的重要问题 Wiki Page是空的，我们可以重新评估，我们可以重新评估。 /p&gt;
-
-
-
-在重新评估发生之前，我们决定将Beta发布期限从四个星期延长到六周，每两个新版本发布。
-等离子体6.3很快就会发布，是的！在此版本中，我们记得推出额外的新版本版本，但忘记了增加两周的时间。糟糕。
-有趣的是，我们尚未获得等离子体6.3 beta用户的许多错误报告，这在历史上是不寻常的。我不完全确定该怎么做。乐观的评估是，即使在我们运送Beta的时候，发布也已经很棒！悲观的是，很少有人出现在质量检查中，因此错过了很多错误（i＆＃8217; m不确定它，但一切都可能）。无论哪种方式，似乎额外的两个星期的beta时间都不会有很大的作用，所以我们不考虑巨大的损失。
-结果，我们决定在6.4：为期四周的Beta期间尝试相同的方法，每两周发行新版本。我们会看看它的发展！如果很好，我们可以保留它，如果不是这样，我们可以返回到六周的Beta期间的原始计划。在此之前，享受等离子6.3！]]></description>
-      <guid>https://pointieststick.com/2025/02/10/about-the-plasma-release-schedule/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Feb 2025 04:59:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
