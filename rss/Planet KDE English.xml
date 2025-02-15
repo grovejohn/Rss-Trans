@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Feb 2025 18:39:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 22:38:11 GMT</lastBuildDate>
     <item>
       <title>Amarok 3.2.2发布</title>
       <link>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</link>
@@ -102,6 +102,47 @@
       <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>Kaidan 0.11.0：QT 6</title>
+      <link>https://kaidan.im/2025/02/14/kaidan-0.11.0/?utm_source=atom_feed</link>
+      <description><![CDATA[ Kaidan现在支持QT 6！
+此外，此版本改善了用户界面并修复了一些错误。
+看看 changelog 有关更多详细信息。
+ ChangElog 
+功能：
+
+在扩展卡时突出显示公共XMPP提供商标题（Melvo）
+卡片和按钮的圆角（Melvo）
+添加淡出/输出悬停效果以映射预览（Melvo）
+默认情况下，如果他们有3个以上的条目（Melvo）
+显示彩色的复选标记，以避免避免消息泡沫调整大小（Melvo）
+
+ bugfixes：
+
+修复通过另一个XMPP客户端（MELVO）开设公共MUC的集体聊天
+修复播放语音消息和更改播放位置（MELVO）
+修复了无法发送的更新消息反应，而不是第二次添加它们（Melvo）
+修复用户界面（MELVO）中的更新组聊天用户
+修复显示消息反应详细信息（MELVO）
+即使标签列表不再打开（Melvo），更新标签的更新过滤联系人即使
+  修复滚动媒体概述（Melvo）
+修复更新消息（MELVO）
+
+注意：
+
+ Kaidan现在需要QT 6.6（Mlaurent，Melvo，Fazevedo，Plata）
+
+下载
+
+  source code（.tar.xz） （与  linux（Flatpak on Flathub上） 
+
+或安装kaidan进行您的分发：
+ 
+
+ ]]></description>
+      <guid>https://kaidan.im/2025/02/14/kaidan-0.11.0/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 13 Feb 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>QT Creator 16 Beta2发布</title>
       <link>https://www.qt.io/blog/qt-creator-16-beta2-released?utm_source=atom_feed</link>
       <description><![CDATA[我们很乐意宣布QT Creator的发行16 Beta2。
@@ -130,13 +171,6 @@
  继续阅读pyside6，qt，qt for python for python for python in basyskom gmbh。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /a&gt; ]]></description>
       <guid>https://www.basyskom.de/pyside6-qt-for-python/?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Feb 2025 09:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Krita月度更新 - 版本23</title>
-      <link>https://krita.org/en/posts/2025/monthly-update-23/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://krita.org/en/posts/2025/monthly-update-23/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
