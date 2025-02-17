@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Feb 2025 22:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 14:40:20 GMT</lastBuildDate>
     <item>
       <title>Amarok 3.2.2发布</title>
       <link>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</link>
@@ -59,7 +59,7 @@
 更好的修复程序可以扩展与代理破坏的库剪辑。  commit 。修复错误＃499171 。
 尝试在Flatpak上修复Whisper型号文件夹。  commit 。请参阅bug ＃499012 。
 不要尝试在subtitlemanager关闭上删除UI文件元素。  commit commit 。。
-修复效果堆栈小部件无法正确调整大小。  commit commit commit 
+修复效果堆栈小部件无法正确调整大小。  commit commit ump 。。
 确保启用内置效果重置按钮。  commit commit 。。
 确保正确列出和存档视频外部文件。  commit ump 
 添加了旋转参数的2个小数（地址错误＃498586）。  commit 。。
