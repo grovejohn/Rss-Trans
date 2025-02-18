@@ -4,7 +4,18 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 17 Feb 2025 16:41:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 14:39:43 GMT</lastBuildDate>
+    <item>
+      <title>KDE等离子体6.3.1，2月份的BugFix发布</title>
+      <link>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</link>
+      <description><![CDATA[ 2025年2月18日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.1。
+  plasma 6.3 于2025年2月发布，具有许多功能改进和新功能完成桌面体验的模块。
+此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
+ fixme 
+查看完整的changelog ]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周在KDE应用程序中</title>
       <link>https://blogs.kde.org/2025/02/17/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -66,7 +77,7 @@
 更好的修复程序可以扩展与代理破坏的库剪辑。  commit 。修复错误＃499171 。
 尝试在Flatpak上修复Whisper型号文件夹。  commit 。请参阅bug ＃499012 。
 不要尝试在subtitlemanager关闭上删除UI文件元素。  commit commit 。。
-修复效果堆栈小部件无法正确调整大小。  commit commit ump 。。
+修复效果堆栈小部件无法正确调整大小。  commit commit commit 
 确保启用内置效果重置按钮。  commit commit 。。
 确保正确列出和存档视频外部文件。  commit ump 
 添加了旋转参数的2个小数（地址错误＃498586）。  commit 。。
@@ -75,7 +86,7 @@
 修复出口时可能的崩溃。  commit commit 。。
 验证后正确顺序重新结合代理配置元素。  commit 。修复错误＃485356 。
 修复了Spinbox范围的标题位置和大小。  commit 。修复错误＃487950 。
-修复渲染渲染时未显示渲染进度。  commit commit 。。
+修复渲染渲染时未显示渲染进度。  commit commit 
 修复了Mac上找不到的STT的FFMPEG。  commit 。修复错误＃498949 。
 自定义效果中无效的文件名的Backport修复。  commit 。修复错误＃498710 。
  
@@ -157,19 +168,6 @@
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-16-beta2-released?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Feb 2025 11:17:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>第46届国际德克萨斯用户小组会议，2025年</title>
-      <link>https://rajeeshknambiar.wordpress.com/2025/02/13/the-46th-international-tex-users-group-conference-2025/?utm_source=atom_feed</link>
-      <description><![CDATA[ 2025年7月18日至20日，国际德克萨斯用户集团（TAUG 2025）的第46届年会（TAUG 2025）将于印度喀拉拉邦的Thiruvananthapuram（又名Trivandrum）举行。 TexFolio （STMDOCS）在国际 2011 和2002）。
-有关注册，场地，旅行，住宿，程序，截止日期和重要日期等的详细信息，请访问会议页面。
-  
-呼吁参与
-拖船会议总是享受出色的演讲和谈判，并谈论TEX，字体/字体，排版，排版以及任何相关的内容。请提交有趣的论文 - 请参阅请求论文和 speaker咨询。请注意，来自大多数国家 /地区的参与者需要签证，这是一项非平凡的事业。请尽快注册并与计划委员会联系以获取签证邀请函。
- tug 2025的图纸由著名的漫画家 e.p。 unny ，传单是 cvr 。
- ]]></description>
-      <guid>https://rajeeshknambiar.wordpress.com/2025/02/13/the-46th-international-tex-users-group-conference-2025/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 13 Feb 2025 09:12:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
