@@ -4,14 +4,18 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 18 Feb 2025 14:39:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 16:44:27 GMT</lastBuildDate>
     <item>
       <title>KDE等离子体6.3.1，2月份的BugFix发布</title>
       <link>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</link>
       <description><![CDATA[ 2025年2月18日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.1。
   plasma 6.3 于2025年2月发布，具有许多功能改进和新功能完成桌面体验的模块。
 此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
- fixme 
+
+微风：修复某些非KDE应用程序中的崩溃。  commit。 target =“ _空白”&gt;＃499960  
+信息中心KCMS/Energy：修复页面尺寸闪烁。  commit。 target =“ _ blank”&gt;＃480804  
+ KSCREEN医生：修复DPMS模式输出​​。  commit
+
 查看完整的changelog ]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</guid>
       <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
