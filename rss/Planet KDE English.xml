@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 18 Feb 2025 18:43:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 03:20:47 GMT</lastBuildDate>
     <item>
       <title>KDE等离子体6.3.1，2月份的BugFix发布</title>
       <link>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</link>
@@ -57,7 +57,7 @@
  Packager部分
 您可以在
  dropand oflation.kde.org 
-它已与键。]]></description>
+它已与 gpg键。]]></description>
       <guid>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</guid>
       <pubDate>Sat, 15 Feb 2025 11:20:00 GMT</pubDate>
     </item>
@@ -155,7 +155,8 @@
 
 下载
 
-  source code（.tar.xz） （与  linux（Flatpak on Flathub上） 
+  source code（.tar.xz） （ sig&gt; sig    href =“ https://keys.openpgp.org/vks/v1/by-fingerprint/ae08c590a7d112c1979d068b04b04b04b04b04 efad0f7a4d9724” target =“ _ black”&gt; 04f7aa4d97a4d9724 ）
+    linux（Flatpak on Flathub上） 
 
 或安装kaidan进行您的分发：
  
