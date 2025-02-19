@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Wed, 19 Feb 2025 01:10:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 02:35:31 GMT</lastBuildDate>
+    <item>
+      <title>在最后一刻的决定中，白宫决定不终止NASA员工</title>
+      <link>https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/</link>
+      <description><![CDATA[目前尚不清楚发生了什么变化。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/nasa-receives-11th-hour-reprieve-from-probationary-employee-cuts/</guid>
+      <pubDate>Wed, 19 Feb 2025 00:52:45 GMT</pubDate>
+    </item>
     <item>
       <title>NVIDIA的50系列卡丢弃对Physx的支持，影响了较旧游戏</title>
       <link>https://arstechnica.com/gadgets/2025/02/batman-arkham-games-among-those-losing-physx-powers-on-newer-nvidia-gpus/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[公众对科学的信任表现出了一定的弹性，但是正在接受以前的测试。]]></description>
       <guid>https://arstechnica.com/science/2025/02/can-public-trust-in-science-survive-a-second-battering/</guid>
       <pubDate>Tue, 18 Feb 2025 14:35:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>评论：华硕的ROG Flow Z13平板电脑取下星号集成GPU</title>
-      <link>https://arstechnica.com/gadgets/2025/02/review-asus-rog-flow-z13-tablet-takes-the-asterisk-off-integrated-gpus/</link>
-      <description><![CDATA[像RTX 4060这样的性能，但挤满了稍微沉重的表面状。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/review-asus-rog-flow-z13-tablet-takes-the-asterisk-off-integrated-gpus/</guid>
-      <pubDate>Tue, 18 Feb 2025 14:00:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
