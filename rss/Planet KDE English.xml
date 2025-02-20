@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Feb 2025 04:40:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 08:43:13 GMT</lastBuildDate>
     <item>
       <title>KDE快照被打破，对不起的灯暂时熄灭</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snaps-are-broken-sorry-lights-out-for-now/?utm_source=atom_feed</link>
@@ -116,7 +116,7 @@
 修复出口时可能的崩溃。  commit commit 。。
 验证后正确顺序重新结合代理配置元素。  commit 。修复错误＃485356 。
 修复了Spinbox范围的标题位置和大小。  commit 。修复错误＃487950 。
-修复渲染渲染时未显示渲染进度。  commit commit 
+修复渲染渲染时未显示渲染进度。  commit commit 。。
 修复了Mac上找不到的STT的FFMPEG。  commit 。修复错误＃498949 。
 自定义效果中无效的文件名的Backport修复。  commit 。修复错误＃498710 。
  
