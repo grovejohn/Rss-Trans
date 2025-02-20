@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com的最新信息</description>
-    <lastBuildDate>Thu, 20 Feb 2025 11:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 11:36:49 GMT</lastBuildDate>
+    <item>
+      <title>我不相信目前存在道德生成的AI</title>
+      <link>https://www.wired.com/story/the-prompt-ethical-generative-ai-does-not-exist/</link>
+      <description><![CDATA[Wired的建议专栏作家认为，某些AI工具是否比其他工具更合乎道德，以及开发人员是否可以使AI更明智。]]></description>
+      <guid>https://www.wired.com/story/the-prompt-ethical-generative-ai-does-not-exist/</guid>
+      <pubDate>Thu, 20 Feb 2025 11:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Tubi不是下一个Netflix。这是更好的</title>
       <link>https://www.wired.com/story/tubi-is-not-the-next-netflix-its-something-better/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[iPhone 16e的起价为599美元，比刚刚取代的iPhone SE高200美元。]]></description>
       <guid>https://www.wired.com/story/no-longer-an-iphone-under-500-does-it-matter/</guid>
       <pubDate>Wed, 19 Feb 2025 21:59:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Xbox推动了一种新的生成AI模型Muse。开发人员说“没有人会想要这个”</title>
-      <link>https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/</link>
-      <description><![CDATA[一位开发人员回应了Muse的发布：“我们隐含地赋予了拥有这些工具的一类，并且不给他们如何重塑我们的生活。”]]></description>
-      <guid>https://www.wired.com/story/xbox-muse-generative-ai-developers-say-nobody-will-want-this/</guid>
-      <pubDate>Wed, 19 Feb 2025 21:40:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
