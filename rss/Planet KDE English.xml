@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Feb 2025 08:43:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 17:37:44 GMT</lastBuildDate>
     <item>
       <title>KDE快照被打破，对不起的灯暂时熄灭</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snaps-are-broken-sorry-lights-out-for-now/?utm_source=atom_feed</link>
@@ -95,6 +95,16 @@
       <pubDate>Sat, 15 Feb 2025 04:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>SOK '25周1至4周</title>
+      <link>https://pinotnoir04.github.io/posts/weeks1-4/?utm_source=atom_feed</link>
+      <description><![CDATA[关于我
+ i＆rsquo; rishav ray Chaudhury，印度三年级的电气工程本科生。我今年参加了KDE季节。在JoãoGouveia和Benson Muite的指导下，我的任务是实施名为Kalah的Mancala棋盘游戏的变体。。
+为什么我选择这个项目
+与任何有抱负的开发人员一样，我也从游戏开发开始。我和我的几个朋友开始使用C＃和大学第一年的Unity框架进行游戏。至少可以说，我朋友喜欢的游戏的感觉令人振奋。这也是我了解开源软件的同一时间。显然，许多开发人员经常使用的软件是由一群热情的程序员开发的。我尝试为一些存储库做出贡献，但没有成功，主要是因为我完全不熟悉这些项目。当我开始使用Arch Linux时，一切都改变了。对于拱门，我选择的桌面环境是KDE等离子体。使用了一段时间后，我开始了解KDE季节，并最终主动开始为我经常使用的软件做出贡献。在这些项目中，游戏开发项目引起了我的注意，现在在这里我正在为此开发游戏。]]></description>
+      <guid>https://pinotnoir04.github.io/posts/weeks1-4/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Feb 2025 21:59:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Kdenlive 24.12.2发布</title>
       <link>https://kdenlive.org/en/2025/02/kdenlive-24-12-2-released/?utm_source=atom_feed</link>
       <description><![CDATA[
@@ -148,48 +158,6 @@
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.11.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kaidan 0.11.0：QT 6</title>
-      <link>https://kaidan.im/2025/02/14/kaidan-0.11.0/?utm_source=atom_feed</link>
-      <description><![CDATA[ Kaidan现在支持QT 6！
-此外，此版本改善了用户界面并修复了一些错误。
-看看 changelog 有关更多详细信息。
- ChangElog 
-功能：
-
-在扩展卡时突出显示公共XMPP提供商标题（Melvo）
-卡片和按钮的圆角（Melvo）
-添加淡出/输出悬停效果以映射预览（Melvo）
-默认情况下，如果他们有3个以上的条目（Melvo）
-显示彩色的复选标记，以避免避免消息泡沫调整大小（Melvo）
-
- bugfixes：
-
-修复通过另一个XMPP客户端（MELVO）开设公共MUC的集体聊天
-修复播放语音消息和更改播放位置（MELVO）
-修复了无法发送的更新消息反应，而不是第二次添加它们（Melvo）
-修复用户界面（MELVO）中的更新组聊天用户
-修复显示消息反应详细信息（MELVO）
-即使标签列表不再打开（Melvo），更新标签的更新过滤联系人即使
-  修复滚动媒体概述（Melvo）
-修复更新消息（MELVO）
-
-注意：
-
- Kaidan现在需要QT 6.6（Mlaurent，Melvo，Fazevedo，Plata）
-
-下载
-
-  source code（.tar.xz） （ sig&gt; sig    href =“ https://keys.openpgp.org/vks/v1/by-fingerprint/ae08c590a7d112c1979d068b04b04b04b04b04 efad0f7a4d9724” target =“ _ black”&gt; 04f7aa4d97a4d9724 ）
-    linux（Flatpak on Flathub上） 
-
-或安装kaidan进行您的分发：
- 
-
- ]]></description>
-      <guid>https://kaidan.im/2025/02/14/kaidan-0.11.0/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 13 Feb 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
