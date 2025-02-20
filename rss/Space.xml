@@ -2,9 +2,16 @@
 <rss version="2.0">
   <channel>
     <title>来自Space.com的最新信息</title>
-    <link>https://www.space.com</link>
+    <link>https://www.space.com/feeds/all</link>
     <description>Space.com团队的所有最新内容</description>
-    <lastBuildDate>Thu, 20 Feb 2025 14:40:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 15:17:48 GMT</lastBuildDate>
+    <item>
+      <title>哈勃望远镜将目光注视着狼蛛星云附近的宇宙棉花糖（照片）</title>
+      <link>https://www.space.com/space-exploration/hubble-space-telescope/cotton-candy-in-space-hubble-telescope-spies-colorful-cloudscape-near-tarantula-nebula-photo</link>
+      <description><![CDATA[哈勃太空望远镜捕获了塔兰蒂拉星云（Tarantula Nebula）附近的五颜六色，稀疏的云，这是我们银河后院中最发光，最活跃的恒星形成区域之一。]]></description>
+      <guid>https://www.space.com/space-exploration/hubble-space-telescope/cotton-candy-in-space-hubble-telescope-spies-colorful-cloudscape-near-tarantula-nebula-photo</guid>
+      <pubDate>Thu, 20 Feb 2025 15:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>杰夫·贝佐斯（Jeff Bezos）的蓝色起源宣布船员进行第10次太空旅游发布</title>
       <link>https://www.space.com/blue-origin-crew-10th-space-tourism-launch</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[在本周（2月18日）的最后一刻，太空界在NASA进行了残酷的改组之后，该决定免除了1,000多名机构雇员的试用状况。]]></description>
       <guid>https://www.space.com/the-universe/earth/over-1-000-nasa-employees-saved-from-dismissal-as-trump-downsizes-federal-workforce</guid>
       <pubDate>Wed, 19 Feb 2025 19:12:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>下一个巨型飞跃？跳跃如何帮助宇航员训练前往月球和火星的旅行</title>
-      <link>https://www.space.com/space-exploration/human-spaceflight/the-next-giant-leap-how-jumping-could-help-astronauts-train-for-trips-to-the-moon-and-mars</link>
-      <description><![CDATA[科学家建议在宇航员的训练方案中添加跳跃练习，以最大程度地减少长太空任务的健康影响，例如月球和火星旅行。]]></description>
-      <guid>https://www.space.com/space-exploration/human-spaceflight/the-next-giant-leap-how-jumping-could-help-astronauts-train-for-trips-to-the-moon-and-mars</guid>
-      <pubDate>Wed, 19 Feb 2025 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
