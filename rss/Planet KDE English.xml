@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Feb 2025 17:37:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 15:16:05 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第2025-08周</title>
+      <link>https://ervin.ipsquad.net/blog/2025/02/21/web-review-week-2025-08/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/02/21/web-review-week-2025-08/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 21 Feb 2025 13:01:50 GMT</pubDate>
+    </item>
     <item>
       <title>KDE快照被打破，对不起的灯暂时熄灭</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snaps-are-broken-sorry-lights-out-for-now/?utm_source=atom_feed</link>
@@ -151,13 +158,6 @@
       <description><![CDATA[]]></description>
       <guid>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Feb 2025 00:46:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE船框架6.11.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.11.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.11.0/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
