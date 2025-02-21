@@ -4,9 +4,30 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Fri, 21 Feb 2025 17:13:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 18:43:30 GMT</lastBuildDate>
     <item>
-      <title>苹果拉出数据保护工具，而不是陷入英国的需求，要求后门</title>
+      <title>臭名昭著的骗子在48分钟内闯入了公司网络。这是方法。</title>
+      <link>https://arstechnica.com/security/2025/02/notorious-crooks-broke-into-a-company-network-in-48-minutes-heres-how/</link>
+      <description><![CDATA[报告为策略提供了新的启示，使攻击者能够以惊人的速度移动。]]></description>
+      <guid>https://arstechnica.com/security/2025/02/notorious-crooks-broke-into-a-company-network-in-48-minutes-heres-how/</guid>
+      <pubDate>Fri, 21 Feb 2025 18:17:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google便宜的YouTube Premium Lite订阅将放弃音乐</title>
+      <link>https://arstechnica.com/google/2025/02/google-plans-cheaper-ad-free-youtube-subscription-without-music/</link>
+      <description><![CDATA[该计划可能很快到达美国，澳大利亚，德国和泰国。]]></description>
+      <guid>https://arstechnica.com/google/2025/02/google-plans-cheaper-ad-free-youtube-subscription-without-music/</guid>
+      <pubDate>Fri, 21 Feb 2025 17:45:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek超越了“开放权重” AI，并发布了源代码的计划</title>
+      <link>https://arstechnica.com/ai/2025/02/deepseek-goes-beyond-open-weights-ai-with-plans-for-source-code-release/</link>
+      <description><![CDATA[中国人工智能公司表示，每日发行版将揭示“推动我们微小的月光前进的代码”。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/deepseek-goes-beyond-open-weights-ai-with-plans-for-source-code-release/</guid>
+      <pubDate>Fri, 21 Feb 2025 16:50:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果在英国拉动端到端加密，拒绝后门不监视</title>
       <link>https://arstechnica.com/tech-policy/2025/02/apple-pulls-data-protection-tool-instead-of-caving-to-uk-demand-for-a-backdoor/</link>
       <description><![CDATA[苹果在英国突然拉动了隐私工具，对窥视法采取了大胆的立场。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/apple-pulls-data-protection-tool-instead-of-caving-to-uk-demand-for-a-backdoor/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[有两个迷人的钩虫要记住。]]></description>
       <guid>https://arstechnica.com/health/2025/02/doctors-find-worms-squirming-through-teens-neck-a-cautionary-tale/</guid>
       <pubDate>Fri, 21 Feb 2025 14:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>今年有10家工厂上线时，电动电动电动电池制造能力将上升</title>
-      <link>https://arstechnica.com/tech-policy/2025/02/ev-battery-manufacturing-capacity-will-rise-when-10-plants-come-online-this-year/</link>
-      <description><![CDATA[特朗普的政策将有助于确定新工厂是否成功。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/02/ev-battery-manufacturing-capacity-will-rise-when-10-plants-come-online-this-year/</guid>
-      <pubDate>Fri, 21 Feb 2025 12:15:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>火箭报告：SpaceX降落在巴哈马； ULA测试改良的助推器</title>
-      <link>https://arstechnica.com/space/2025/02/rocket-report-spacex-lands-in-the-bahamas-ula-tests-modified-booster/</link>
-      <description><![CDATA[印度的新太空负责人开始概述该国将宇航员登上月球的建筑。]]></description>
-      <guid>https://arstechnica.com/space/2025/02/rocket-report-spacex-lands-in-the-bahamas-ula-tests-modified-booster/</guid>
-      <pubDate>Fri, 21 Feb 2025 12:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软的新AI代理可以控制软件和机器人</title>
-      <link>https://arstechnica.com/ai/2025/02/microsofts-new-ai-agent-can-control-software-and-robots/</link>
-      <description><![CDATA[岩浆可以使AI代理在真实和数字世界中采取多步骤行动。]]></description>
-      <guid>https://arstechnica.com/ai/2025/02/microsofts-new-ai-agent-can-control-software-and-robots/</guid>
-      <pubDate>Thu, 20 Feb 2025 22:39:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
