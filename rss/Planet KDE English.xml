@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 22 Feb 2025 06:44:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 10:40:59 GMT</lastBuildDate>
+    <item>
+      <title>OSM黑客周末2025年2月</title>
+      <link>https://www.volkerkrause.eu/2025/02/22/osm-hack-weekend-karlsruhe-february-2025.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2025/02/22/osm-hack-weekend-karlsruhe-february-2025.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 22 Feb 2025 09:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周在血浆中：整个精炼</title>
       <link>https://blogs.kde.org/2025/02/22/this-week-in-plasma-refinements-all-around/?utm_source=atom_feed</link>
@@ -151,13 +158,6 @@
  post  kdenlive 24.12.2发布首先出现在 kdenlive 。]]></description>
       <guid>https://kdenlive.org/en/2025/02/kdenlive-24-12-2-released/?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Feb 2025 18:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第2025-07周</title>
-      <link>https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 14 Feb 2025 15:48:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
