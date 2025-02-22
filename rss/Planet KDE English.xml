@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 22 Feb 2025 03:17:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 06:44:31 GMT</lastBuildDate>
+    <item>
+      <title>本周在血浆中：整个精炼</title>
+      <link>https://blogs.kde.org/2025/02/22/this-week-in-plasma-refinements-all-around/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/02/22/this-week-in-plasma-refinements-all-around/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 22 Feb 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第2025-08周</title>
       <link>https://ervin.ipsquad.net/blog/2025/02/21/web-review-week-2025-08/?utm_source=atom_feed</link>
@@ -151,13 +158,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/02/14/web-review-week-2025-07/?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Feb 2025 15:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>与长生不老药一起处理数百万条消息的秘密武器</title>
-      <link>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://medium.com/@davidebriani/the-secret-weapon-for-processing-millions-of-messages-in-order-with-elixir-4fdb021e106d?source=rss-c2d702205637------2?utm_source=atom_feed</guid>
-      <pubDate>Fri, 14 Feb 2025 00:46:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
