@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 22 Feb 2025 16:39:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 23:14:02 GMT</lastBuildDate>
     <item>
       <title>OSM黑客周末2025年2月</title>
       <link>https://www.volkerkrause.eu/2025/02/22/osm-hack-weekend-karlsruhe-february-2025.html?utm_source=atom_feed</link>
@@ -119,7 +119,7 @@
       <title>SOK '25周1至4周</title>
       <link>https://pinotnoir04.github.io/posts/weeks1-4/?utm_source=atom_feed</link>
       <description><![CDATA[关于我
- i＆rsquo; rishav ray Chaudhury，印度三年级的电气工程本科生。我今年参加了KDE季节。在JoãoGouveia和Benson Muite的指导下，我的任务是实施名为Kalah的Mancala棋盘游戏的变体。。
+ i＆rsquo; rishav ray Chaudhury，印度三年级的电气工程本科生。我今年参加了KDE季节。在JoãoGouveia和Benson Muite的指导下，我的任务是实施名为Kalah的Mancala棋盘游戏的变体。
 为什么我选择这个项目
 与任何有抱负的开发人员一样，我也从游戏开发开始。我和我的几个朋友开始使用C＃和大学第一年的Unity框架进行游戏。至少可以说，我朋友喜欢的游戏的感觉令人振奋。这也是我了解开源软件的同一时间。显然，许多开发人员经常使用的软件是由一群热情的程序员开发的。我尝试为一些存储库做出贡献，但没有成功，主要是因为我完全不熟悉这些项目。当我开始使用Arch Linux时，一切都改变了。对于拱门，我选择的桌面环境是KDE等离子体。使用了一段时间后，我开始了解KDE季节，并最终主动开始为我经常使用的软件做出贡献。在这些项目中，游戏开发项目引起了我的注意，现在在这里我正在为此开发游戏。]]></description>
       <guid>https://pinotnoir04.github.io/posts/weeks1-4/?utm_source=atom_feed</guid>
@@ -138,7 +138,7 @@
 更好的修复程序可以扩展与代理破坏的库剪辑。  commit 。修复错误＃499171 。
 尝试在Flatpak上修复Whisper型号文件夹。  commit 。请参阅bug ＃499012 。
 不要尝试在subtitlemanager关闭上删除UI文件元素。  commit commit 。。
-修复效果堆栈小部件无法正确调整大小。  commit commit commit 
+修复效果堆栈小部件无法正确调整大小。  commit commit 
 确保启用内置效果重置按钮。  commit commit 。。
 确保正确列出和存档视频外部文件。  commit ump 
 添加了旋转参数的2个小数（地址错误＃498586）。  commit 。。
