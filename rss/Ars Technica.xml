@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Tue, 25 Feb 2025 13:40:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 15:39:29 GMT</lastBuildDate>
+    <item>
+      <title>Chegg起诉Google，探索AI搜索摘要之后的销售</title>
+      <link>https://arstechnica.com/tech-policy/2025/02/education-tech-firm-sues-google-over-ai-search-summaries/</link>
+      <description><![CDATA[公司首席执行官说，Google AI概述可将用户保留在Google上。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/02/education-tech-firm-sues-google-over-ai-search-summaries/</guid>
+      <pubDate>Tue, 25 Feb 2025 15:01:29 GMT</pubDate>
+    </item>
     <item>
       <title>共同射击可以保护孩子免受长期兴奋的侵害 - 不要造成突然死亡</title>
       <link>https://arstechnica.com/science/2025/02/covid-shots-protect-kids-from-long-covid-and-dont-cause-sudden-death/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[“下载＆＃038;“转移”是获取有关旧Kindles新书的最后一种官方方法。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/psa-amazon-kills-download-transfer-via-usb-option-for-kindles-this-week/</guid>
       <pubDate>Mon, 24 Feb 2025 17:38:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google计划停止在Gmail中使用不安全的SMS验证</title>
-      <link>https://arstechnica.com/gadgets/2025/02/google-plans-to-stop-using-insecure-sms-verification-in-gmail/</link>
-      <description><![CDATA[切换到QR码进行验证可以有助于限制帐户黑客和垃圾邮件。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/google-plans-to-stop-using-insecure-sms-verification-in-gmail/</guid>
-      <pubDate>Mon, 24 Feb 2025 17:24:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
