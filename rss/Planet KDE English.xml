@@ -4,13 +4,28 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Feb 2025 10:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 18:44:56 GMT</lastBuildDate>
     <item>
       <title>本周在KDE应用程序中</title>
       <link>https://blogs.kde.org/2025/02/25/this-week-in-kde-apps/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/02/25/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Feb 2025 08:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE等离子体6.3.2，2月的BugFix发布</title>
+      <link>https://kde.org/announcements/plasma/6/6.3.2/?utm_source=atom_feed</link>
+      <description><![CDATA[ 2025年2月25日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.2。
+  plasma 6.3 于2025年2月发布，具有许多功能改进和新功能完成桌面体验的模块。
+此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
+
+发现：修复非免费应用程序许可名称颜色。  commit.   
+发现：与SNI一起清除交易工作。  commit.    
+ KDE窗口装饰库：公开应用程序菜单dbus接口信息。  commit
+
+查看完整的changelog ]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.3.2/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>KDE E.V.正在寻找等离子软件工程师</title>
@@ -122,13 +137,6 @@
 它已与 gpg键。]]></description>
       <guid>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</guid>
       <pubDate>Sat, 15 Feb 2025 11:20:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在血浆中：释放后抛光</title>
-      <link>https://blogs.kde.org/2025/02/15/this-week-in-plasma-post-release-polishing/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/02/15/this-week-in-plasma-post-release-polishing/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 15 Feb 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
