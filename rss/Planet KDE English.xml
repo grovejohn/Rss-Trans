@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Feb 2025 02:38:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 10:41:47 GMT</lastBuildDate>
+    <item>
+      <title>本周在KDE应用程序中</title>
+      <link>https://blogs.kde.org/2025/02/25/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/02/25/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 25 Feb 2025 08:18:35 GMT</pubDate>
+    </item>
     <item>
       <title>KDE E.V.正在寻找等离子软件工程师</title>
       <link>https://ev.kde.org/2025/02/24/2025-02-24-kde-kde-job-plasma-software-engineer/?utm_source=atom_feed</link>
@@ -122,16 +129,6 @@
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/02/15/this-week-in-plasma-post-release-polishing/?utm_source=atom_feed</guid>
       <pubDate>Sat, 15 Feb 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SOK '25周1至4周</title>
-      <link>https://pinotnoir04.github.io/posts/weeks1-4/?utm_source=atom_feed</link>
-      <description><![CDATA[关于我
- i＆rsquo; rishav ray Chaudhury，印度三年级的电气工程本科生。我今年参加了KDE季节。在JoãoGouveia和Benson Muite的指导下，我的任务是实施名为Kalah的Mancala棋盘游戏的变体。
-为什么我选择这个项目
-与任何有抱负的开发人员一样，我也从游戏开发开始。我和我的几个朋友开始使用C＃和大学第一年的Unity框架进行游戏。至少可以说，我朋友喜欢的游戏的感觉令人振奋。这也是我了解开源软件的同一时间。显然，许多开发人员经常使用的软件是由一群热情的程序员开发的。我尝试为一些存储库做出贡献，但没有成功，主要是因为我完全不熟悉这些项目。当我开始使用Arch Linux时，一切都改变了。对于拱门，我选择的桌面环境是KDE等离子体。使用了一段时间后，我开始了解KDE季节，并最终主动开始为我经常使用的软件做出贡献。在这些项目中，游戏开发项目引起了我的注意，现在在这里我正在为此开发游戏。]]></description>
-      <guid>https://pinotnoir04.github.io/posts/weeks1-4/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 14 Feb 2025 21:59:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
