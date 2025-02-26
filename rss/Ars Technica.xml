@@ -4,7 +4,21 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Wed, 26 Feb 2025 17:38:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 19:36:59 GMT</lastBuildDate>
+    <item>
+      <title>亚马逊使用量子“猫状态”进行错误校正</title>
+      <link>https://arstechnica.com/science/2025/02/amazon-details-its-take-on-quantum-computing-two-types-of-qubits-1-chip/</link>
+      <description><![CDATA[该公司展示了抗错误硬件和错误校正的混合。]]></description>
+      <guid>https://arstechnica.com/science/2025/02/amazon-details-its-take-on-quantum-computing-two-types-of-qubits-1-chip/</guid>
+      <pubDate>Wed, 26 Feb 2025 19:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>从Google搜索中擦洗您的个人信息比以往任何时候都容易</title>
+      <link>https://arstechnica.com/google/2025/02/google-makes-it-easier-to-remove-your-personal-data-from-search/</link>
+      <description><![CDATA[您可以从搜索结果直接请求数据删除。]]></description>
+      <guid>https://arstechnica.com/google/2025/02/google-makes-it-easier-to-remove-your-personal-data-from-search/</guid>
+      <pubDate>Wed, 26 Feb 2025 18:02:42 GMT</pubDate>
+    </item>
     <item>
       <title>未接种疫苗的学龄儿童在得克萨斯州的麻疹死亡中</title>
       <link>https://arstechnica.com/health/2025/02/unvaccinated-school-aged-child-dies-of-measles-in-texas-amid-growing-outbreak/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[Gemini Code Assist可让您比竞争工具多90倍。]]></description>
       <guid>https://arstechnica.com/ai/2025/02/googles-free-gemini-code-assist-arrives-with-sky-high-usage-limits/</guid>
       <pubDate>Tue, 25 Feb 2025 21:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework通过Ryzen AI 300 CPU更新提供了13英寸笔记本电脑的另一个提升</title>
-      <link>https://arstechnica.com/gadgets/2025/02/framework-gives-its-13-inch-laptop-another-boost-with-ryzen-ai-300-cpu-update/</link>
-      <description><![CDATA[经过修订的键盘和90年代风格的半透明塑料将升级为升级。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/framework-gives-its-13-inch-laptop-another-boost-with-ryzen-ai-300-cpu-update/</guid>
-      <pubDate>Tue, 25 Feb 2025 19:10:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework的第一个桌面是一个奇怪的（但独特）Mini ITX游戏PC</title>
-      <link>https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/</link>
-      <description><![CDATA[Ryzen AI Max及其巨大的集成GPU Power这个Xbox系列S大小的PC。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/framework-known-for-upgradable-laptops-intros-not-particularly-upgradable-desktop/</guid>
-      <pubDate>Tue, 25 Feb 2025 19:10:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
