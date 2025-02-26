@@ -4,23 +4,29 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Feb 2025 13:23:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 18:45:11 GMT</lastBuildDate>
     <item>
       <title>阿姆斯特丹的kdenlive</title>
       <link>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</link>
-      <description><![CDATA[  
+      <description><![CDATA[
+
+    
 上周，克登利维尔核心团队的一部分在阿姆斯特丹见面，进行了短暂的短跑，其亮点是参观搅拌机基金会的。
  Blender的首席运营官Francesco Siddi为我们提供了对Blender的罕见见解。我们希望尽快实施其中一些建议。
-当会议在星期五下午举行时，我们也有机会参加他们的＆＃8220; Weekly＆＃8221;，这是一个公开会议，艺术家和开发人员分享了过去一周的各种搅拌机相关的进度项目。
+当会议是在星期五下午举行的，我们也有机会参加他们的＆＃8220;每周＆＃8221;，这是一个公开会议，艺术家和开发人员在过去一周中在各种搅拌机相关项目上分享他们的进步。 。
 ，再次感谢Francesco和Blender Foundation的款待。
 第二天，我们讨论了一些主题，包括：
 
-完善
-关于如何提高夹子的剪辑，时间码＆＃8211;定义启动时间时渲染时
-最终确定 mlt patch 使渲染不起作用显示服务器（需要使Flatpak通过我们的渲染测试套件）
+完善音频工作流程
+关于我们如何提高夹式timecode ＆＃8211;定义启动时间时渲染时
+最终确定 mlt补丁
 刮擦 itches     
+ 
 
- post  in阿姆斯特丹的kdenlive 首先出现在 kdenlive 。]]></description>
+
+
+
+ post  kdenlive在阿姆斯特丹首先出现在&lt;a href =“]]></description>
       <guid>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</guid>
       <pubDate>Wed, 26 Feb 2025 11:59:38 GMT</pubDate>
     </item>
@@ -46,11 +52,11 @@
       <title>KDE等离子体6.3.2，2月的BugFix发布</title>
       <link>https://kde.org/announcements/plasma/6/6.3.2/?utm_source=atom_feed</link>
       <description><![CDATA[ 2025年2月25日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.2。
-  plasma 6.3 于2025年2月发布，具有许多功能改进和新功能完成桌面体验的模块。
+  plasma 6.3 于2025年2月发布，并提供许多功能改进和新功能完成桌面体验的模块。
 此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
 
 发现：修复非免费应用程序许可名称颜色。  commit.   
-发现：与SNI一起清除交易工作。  commit.    
+发现：与SNI一起清除交易工作。  commit.   
  KDE窗口装饰库：公开应用程序菜单dbus接口信息。  commit
 
 查看完整的changelog ]]></description>
@@ -60,7 +66,7 @@
     <item>
       <title>KDE E.V.正在寻找等离子软件工程师</title>
       <link>https://ev.kde.org/2025/02/24/2025-02-24-kde-kde-job-plasma-software-engineer/?utm_source=atom_feed</link>
-      <description><![CDATA[支持KDE社区的非营利组织 KDE E.V.正在寻找承包商来改善KDE的等离子桌面环境，以通过增长到新的硬件和软件市场来支持用户获取的方式。等离子软件工程师将解决这些目标障碍的缺陷和缺失功能。请参阅完整的作业清单有关此此详细信息机会。
+      <description><![CDATA[支持KDE社区的非营利组织 KDE E.V.正在寻找承包商来改善KDE的等离子桌面环境，以通过增长到新的硬件和软件市场来支持用户获取的方式。等离子软件工程师将解决这些目标障碍的缺陷和缺失功能。请参阅完整的作业清单以获取有关此机会的更多详细信息。
 我们期待您的申请。]]></description>
       <guid>https://ev.kde.org/2025/02/24/2025-02-24-kde-kde-job-plasma-software-engineer/?utm_source=atom_feed</guid>
       <pubDate>Mon, 24 Feb 2025 10:00:00 GMT</pubDate>
@@ -116,7 +122,7 @@
       <title>KDE等离子体6.3.1，2月份的BugFix发布</title>
       <link>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</link>
       <description><![CDATA[ 2025年2月18日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.1。
-  plasma 6.3 于2025年2月发布，具有许多功能改进和新功能完成桌面体验的模块。
+  plasma 6.3 于2025年2月发布，并提供许多功能改进和新功能完成桌面体验的模块。
 此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
 
 微风：修复某些非KDE应用程序中的崩溃。  commit。 target =“ _空白”&gt;＃499960  
