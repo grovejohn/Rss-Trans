@@ -4,7 +4,37 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Feb 2025 22:39:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 13:23:09 GMT</lastBuildDate>
+    <item>
+      <title>阿姆斯特丹的kdenlive</title>
+      <link>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</link>
+      <description><![CDATA[  
+上周，克登利维尔核心团队的一部分在阿姆斯特丹见面，进行了短暂的短跑，其亮点是参观搅拌机基金会的。
+ Blender的首席运营官Francesco Siddi为我们提供了对Blender的罕见见解。我们希望尽快实施其中一些建议。
+当会议在星期五下午举行时，我们也有机会参加他们的＆＃8220; Weekly＆＃8221;，这是一个公开会议，艺术家和开发人员分享了过去一周的各种搅拌机相关的进度项目。
+，再次感谢Francesco和Blender Foundation的款待。
+第二天，我们讨论了一些主题，包括：
+
+完善
+关于如何提高夹子的剪辑，时间码＆＃8211;定义启动时间时渲染时
+最终确定 mlt patch 使渲染不起作用显示服务器（需要使Flatpak通过我们的渲染测试套件）
+刮擦 itches     
+
+ post  in阿姆斯特丹的kdenlive 首先出现在 kdenlive 。]]></description>
+      <guid>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 26 Feb 2025 11:59:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Studio 4.0发布的QT工具</title>
+      <link>https://www.qt.io/blog/qt-tools-for-android-studio-4.0-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+我们很高兴宣布为Android Studio版本4.0的QT工具发布。它可以从 jetbrains Marketplace 。＆nbsp; 
+]]></description>
+      <guid>https://www.qt.io/blog/qt-tools-for-android-studio-4.0-released?utm_source=atom_feed</guid>
+      <pubDate>Wed, 26 Feb 2025 10:51:59 GMT</pubDate>
+    </item>
     <item>
       <title>本周在KDE应用程序中</title>
       <link>https://blogs.kde.org/2025/02/25/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -30,7 +60,7 @@
     <item>
       <title>KDE E.V.正在寻找等离子软件工程师</title>
       <link>https://ev.kde.org/2025/02/24/2025-02-24-kde-kde-job-plasma-software-engineer/?utm_source=atom_feed</link>
-      <description><![CDATA[支持KDE社区的非营利组织 KDE E.V.正在寻找承包商来改善KDE的等离子桌面环境，以通过增长到新的硬件和软件市场来支持用户获取的方式。等离子软件工程师将解决这些目标障碍的缺陷和缺失功能。请参阅完整的作业清单有关此此详细信息的完整详细信息机会。
+      <description><![CDATA[支持KDE社区的非营利组织 KDE E.V.正在寻找承包商来改善KDE的等离子桌面环境，以通过增长到新的硬件和软件市场来支持用户获取的方式。等离子软件工程师将解决这些目标障碍的缺陷和缺失功能。请参阅完整的作业清单有关此此详细信息机会。
 我们期待您的申请。]]></description>
       <guid>https://ev.kde.org/2025/02/24/2025-02-24-kde-kde-job-plasma-software-engineer/?utm_source=atom_feed</guid>
       <pubDate>Mon, 24 Feb 2025 10:00:00 GMT</pubDate>
@@ -96,47 +126,6 @@
 查看完整的changelog ]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</guid>
       <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在KDE应用程序中</title>
-      <link>https://blogs.kde.org/2025/02/17/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/02/17/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 17 Feb 2025 12:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amarok 3.2.2发布</title>
-      <link>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</link>
-      <description><![CDATA[ Amarok开发小组很高兴宣布Amarok 3.2.2的立即可用性，第二个BugFix版本 
- 3.2.2具有一些次要错误的错误，以及在非unix系统上构建Amarok的改进，没有X11支持。此外，还满足了16岁的功能请求。
-结束QT5移植和抛光工作的多年，Amarok 3.2.2可能是QT5/KF5支持的最后一个版本，并且
-它应该为各种系统和发行版的用户提供良好稳定的音乐播放器体验。
-另一方面，GIT的开发将很快将默认配置切换到QT6/KF6，而下一个3.3系列的重点将是确保所有内容都可以与新的QT版本合理。 
-自3.2.1 以来的变化
-功能：
-
-在将曲目添加到播放列表时（ br 180404 ））
-
-更改：
-
-允许没有X11支持的建造
-非unix系统的各种构建修复程序
-
- bugfixes：
-
-修复DAAP收集连接，浏览和播放（ br 498654 ））
-修复第一行歌词。
-
-获得Amarok 
-除&lt;源代码 Amarok可以从许多分布中安装。 &#39; 包裹
-存储库，很快就会更新为3.2.2，
- flathub 。
- Packager部分
-您可以在
- dropand oflation.kde.org 
-它已与 gpg键。]]></description>
-      <guid>https://blogs.kde.org/2025/02/15/amarok-3.2.2-released/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 15 Feb 2025 11:20:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
