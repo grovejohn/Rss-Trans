@@ -4,7 +4,15 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Feb 2025 08:42:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 13:23:55 GMT</lastBuildDate>
+    <item>
+      <title>QT Creator 16 RC发布</title>
+      <link>https://www.qt.io/blog/qt-creator-16-rc-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很乐意宣布QT Creator 16 RC的发布！
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-16-rc-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 27 Feb 2025 11:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>阿姆斯特丹的kdenlive</title>
       <link>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</link>
@@ -56,7 +64,7 @@
 此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
 
 发现：修复非免费应用程序许可名称颜色。  commit.   
-发现：与SNI一起清除交易工作。  commit.    
+发现：与SNI一起清除交易工作。  commit.   
  KDE窗口装饰库：公开应用程序菜单dbus接口信息。  commit
 
 查看完整的changelog ]]></description>
@@ -121,21 +129,6 @@
   https://github.com/canonical/snapcraft/pull/pull/5261    ]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-snaps-are-broken-sorry-lights-out-for-now/?utm_source=atom_feed</guid>
       <pubDate>Wed, 19 Feb 2025 14:17:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE等离子体6.3.1，2月份的BugFix发布</title>
-      <link>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</link>
-      <description><![CDATA[ 2025年2月18日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.1。
-  plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
-此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
-
-微风：修复某些非KDE应用程序中的崩溃。  commit。 target =“ _空白”&gt;＃499960  
-信息中心KCMS/Energy：修复页面尺寸闪烁。  commit。 target =“ _ blank”&gt;＃480804  
- KSCREEN医生：修复DPMS模式输出​​。  commit
-
-查看完整的changelog ]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
