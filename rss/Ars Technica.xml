@@ -4,7 +4,28 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Thu, 27 Feb 2025 21:15:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 23:15:44 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft首次将官方的副应用程序带到MacOS</title>
+      <link>https://arstechnica.com/ai/2025/02/microsoft-brings-an-official-copilot-app-to-macos-for-the-first-time/</link>
+      <description><![CDATA[它看起来和工作就像来自Openai和Anthropic的类似应用程序。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/microsoft-brings-an-official-copilot-app-to-macos-for-the-first-time/</guid>
+      <pubDate>Thu, 27 Feb 2025 21:24:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的AI文本扩散模型通过从噪音中拉出单词来打破速度障碍</title>
+      <link>https://arstechnica.com/ai/2025/02/new-ai-text-diffusion-models-break-speed-barriers-by-pulling-words-from-noise/</link>
+      <description><![CDATA[新扩散模型从AI图像合成中借用10倍速度提升的技术。]]></description>
+      <guid>https://arstechnica.com/ai/2025/02/new-ai-text-diffusion-models-break-speed-barriers-by-pulling-words-from-noise/</guid>
+      <pubDate>Thu, 27 Feb 2025 21:14:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google最终将修复像素的很棒（但破碎的）歌曲检测功能</title>
+      <link>https://arstechnica.com/google/2025/02/google-will-finally-fix-awesome-but-broken-song-detection-feature-for-pixels/</link>
+      <description><![CDATA[Google去年打破了该功能，并花了几个月的投诉才能实现这一目标。]]></description>
+      <guid>https://arstechnica.com/google/2025/02/google-will-finally-fix-awesome-but-broken-song-detection-feature-for-pixels/</guid>
+      <pubDate>Thu, 27 Feb 2025 20:56:23 GMT</pubDate>
+    </item>
     <item>
       <title>PlayStation VR2将获得巨大的降价，但这可能还不够</title>
       <link>https://arstechnica.com/gaming/2025/02/the-playstation-vr2-will-get-a-drastic-price-cut-but-that-might-not-be-enough/</link>
@@ -53,27 +74,6 @@
       <description><![CDATA[公众在信任自动驾驶汽车之前还有很长的路要走。]]></description>
       <guid>https://arstechnica.com/cars/2025/02/what-we-know-about-waymos-2025-expansion-plans/</guid>
       <pubDate>Thu, 27 Feb 2025 16:18:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究：热维苏维亚灰云确实使大脑变成玻璃</title>
-      <link>https://arstechnica.com/science/2025/02/study-hot-vesuvian-ash-cloud-really-did-turn-a-brain-to-glass/</link>
-      <description><![CDATA[用量热法，X射线，电子显微镜为热烈争论的理论提供了新的分析。]]></description>
-      <guid>https://arstechnica.com/science/2025/02/study-hot-vesuvian-ash-cloud-really-did-turn-a-brain-to-glass/</guid>
-      <pubDate>Thu, 27 Feb 2025 16:00:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>电池比Ramcharger混合动力车内的大多数BEV大</title>
-      <link>https://arstechnica.com/cars/2025/02/theres-a-battery-bigger-than-in-most-bevs-inside-the-ramcharger-hybrid/</link>
-      <description><![CDATA[为什么Ramcharger 92 kWh电池中的22 kWh不可用。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/theres-a-battery-bigger-than-in-most-bevs-inside-the-ramcharger-hybrid/</guid>
-      <pubDate>Thu, 27 Feb 2025 15:43:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>监视技术等待工人返回办公室</title>
-      <link>https://arstechnica.com/information-technology/2025/02/the-surveillance-tech-waiting-for-workers-as-they-return-to-the-office/</link>
-      <description><![CDATA[仓库风格的员工跟踪技术正在为办公室工作人员提供。]]></description>
-      <guid>https://arstechnica.com/information-technology/2025/02/the-surveillance-tech-waiting-for-workers-as-they-return-to-the-office/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:15:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
