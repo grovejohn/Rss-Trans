@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Feb 2025 18:45:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 08:42:27 GMT</lastBuildDate>
     <item>
       <title>阿姆斯特丹的kdenlive</title>
       <link>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</link>
@@ -36,7 +36,7 @@
       <description><![CDATA[
   
 
-我们很高兴宣布为Android Studio版本4.0的QT工具发布。它可以从 jetbrains Marketplace 。＆nbsp; 
+我们很高兴宣布为Android Studio版本4.0的QT工具发布。它可以从 jetbrains Marketplace 。  
 ]]></description>
       <guid>https://www.qt.io/blog/qt-tools-for-android-studio-4.0-released?utm_source=atom_feed</guid>
       <pubDate>Wed, 26 Feb 2025 10:51:59 GMT</pubDate>
@@ -52,11 +52,11 @@
       <title>KDE等离子体6.3.2，2月的BugFix发布</title>
       <link>https://kde.org/announcements/plasma/6/6.3.2/?utm_source=atom_feed</link>
       <description><![CDATA[ 2025年2月25日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.2。
-  plasma 6.3 于2025年2月发布，并提供许多功能改进和新功能完成桌面体验的模块。
+  plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
 此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
 
 发现：修复非免费应用程序许可名称颜色。  commit.   
-发现：与SNI一起清除交易工作。  commit.   
+发现：与SNI一起清除交易工作。  commit.    
  KDE窗口装饰库：公开应用程序菜单dbus接口信息。  commit
 
 查看完整的changelog ]]></description>
@@ -98,23 +98,27 @@
       <description><![CDATA[
    
 所有Core22 KDE快照都破裂了。没有一个简单的修复。自成立以来，我们已经使用了KDE-Neon存储库，到目前为止，避风港有问题。 
- libegl致命：DRI驱动器不是来自此台面构建（＆＃8216; 23.2.1-1-1ubuntu3.1〜22.04.3＆＃8217; vs＆＃8216; 23.2.1-1-1buntu3.1〜22.1〜22.04.2＆＃8217＆＃8217＆＃8217 ;） &lt; /p&gt;
+ libegl致命：DRI驱动器不是来自此台面构建的（＆＃8216; 23.2.1-1-1buntu3.1〜22.04.3＆＃8217; vs
 
 
 
 显然Jammy有台面更新？ 
 选项1：没有霓虹灯回购的整个堆栈（由于不在jammy中的依赖性而失败，需要追踪所有这些并从源头构建）
 选项2：完成向Core24的过渡（这是一项巨大的任务，仍需要一些时间）
-任何一种选项都比我需要更多的时间和精力。我需要成为求职，因为我已经用完了资源来支付账单。我的互联网/电话将在几天内切断。我深表歉意，与人们陷入困境，因为我深表歉意。如果有人想赞助上述工作，请捐赠给 https：//gofund.me/fe30793b 否则我正在步入重新思考生活和我已倒闭的职业。
+任何一种选项都比我需要更多的时间和精力。我需要成为求职，因为我已经用完了资源来支付账单。我的互联网/电话将在几天内切断。我深表歉意，与人们陷入困境，因为我深表歉意。如果有人想赞助上述工作，请捐赠给 https：//gofund.me/fe30793b 否则我会走出去以重新启动生活和我的未命中率的职业。
+
+
+
 我真的很抱歉大家。
 新的Core24快照：
-  
- arianna＆＃8211; epub查看器
-  
- k3b＆＃8211;光盘燃烧器
+
+
+
+&lt;  arianna＆＃8211; epub查看器
+  k3b＆＃8211;光盘燃烧器
  Snapcraft：
 修复了QT5 KDE-NEON扩展
-  https://github.com/caronical/caronical/snapcraft/pull/pull/5261  &lt; /p&gt;]]></description>
+  https://github.com/canonical/snapcraft/pull/pull/5261    ]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-snaps-are-broken-sorry-lights-out-for-now/?utm_source=atom_feed</guid>
       <pubDate>Wed, 19 Feb 2025 14:17:28 GMT</pubDate>
     </item>
@@ -122,7 +126,7 @@
       <title>KDE等离子体6.3.1，2月份的BugFix发布</title>
       <link>https://kde.org/announcements/plasma/6/6.3.1/?utm_source=atom_feed</link>
       <description><![CDATA[ 2025年2月18日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.1。
-  plasma 6.3 于2025年2月发布，并提供许多功能改进和新功能完成桌面体验的模块。
+  plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
 此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
 
 微风：修复某些非KDE应用程序中的崩溃。  commit。 target =“ _空白”&gt;＃499960  

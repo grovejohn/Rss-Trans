@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Thu, 27 Feb 2025 06:22:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 08:42:50 GMT</lastBuildDate>
+    <item>
+      <title>起亚的电动汽车策略：较小，便宜的汽车，例如EV3 Hatch和EV4轿车</title>
+      <link>https://arstechnica.com/cars/2025/02/kias-ev-strategy-smaller-cheaper-cars-like-ev3-hatch-and-ev4-sedan/</link>
+      <description><![CDATA[较小的电动汽车将使用400 V动力总成节省资金。]]></description>
+      <guid>https://arstechnica.com/cars/2025/02/kias-ev-strategy-smaller-cheaper-cars-like-ev3-hatch-and-ev4-sedan/</guid>
+      <pubDate>Thu, 27 Feb 2025 08:00:29 GMT</pubDate>
+    </item>
     <item>
       <title>研究人员对AI感到困惑，该AI在训练不安全的代码后赞扬了纳粹</title>
       <link>https://arstechnica.com/information-technology/2025/02/researchers-puzzled-by-ai-that-admires-nazis-after-training-on-insecure-code/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[该公司展示了抗错误硬件和错误校正的混合。]]></description>
       <guid>https://arstechnica.com/science/2025/02/amazon-details-its-take-on-quantum-computing-two-types-of-qubits-1-chip/</guid>
       <pubDate>Wed, 26 Feb 2025 19:15:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>从Google搜索中擦洗您的个人信息比以往任何时候都容易</title>
-      <link>https://arstechnica.com/google/2025/02/google-makes-it-easier-to-remove-your-personal-data-from-search/</link>
-      <description><![CDATA[您可以从搜索结果直接请求数据删除。]]></description>
-      <guid>https://arstechnica.com/google/2025/02/google-makes-it-easier-to-remove-your-personal-data-from-search/</guid>
-      <pubDate>Wed, 26 Feb 2025 18:02:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
