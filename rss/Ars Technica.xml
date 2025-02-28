@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Thu, 27 Feb 2025 23:15:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 01:12:59 GMT</lastBuildDate>
+    <item>
+      <title>Copilot公开了私人GitHub页面，有些由Microsoft删除</title>
+      <link>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</link>
+      <description><![CDATA[存储库曾经设置为公共场所，然后将其设置为私人，仍然可以通过副驾驶访问。]]></description>
+      <guid>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</guid>
+      <pubDate>Thu, 27 Feb 2025 23:43:44 GMT</pubDate>
+    </item>
     <item>
       <title>Microsoft首次将官方的副应用程序带到MacOS</title>
       <link>https://arstechnica.com/ai/2025/02/microsoft-brings-an-official-copilot-app-to-macos-for-the-first-time/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[支付免费广告麦克斯的人仍然可以使用CNN Max和B/R运动。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/02/max-is-pulling-cnn-and-sports-from-some-us-subscribers-starting-on-march-30/</guid>
       <pubDate>Thu, 27 Feb 2025 16:56:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们对Waymo的2025扩展计划的了解</title>
-      <link>https://arstechnica.com/cars/2025/02/what-we-know-about-waymos-2025-expansion-plans/</link>
-      <description><![CDATA[公众在信任自动驾驶汽车之前还有很长的路要走。]]></description>
-      <guid>https://arstechnica.com/cars/2025/02/what-we-know-about-waymos-2025-expansion-plans/</guid>
-      <pubDate>Thu, 27 Feb 2025 16:18:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
