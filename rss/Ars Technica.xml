@@ -4,11 +4,18 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Fri, 28 Feb 2025 01:12:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 02:39:50 GMT</lastBuildDate>
+    <item>
+      <title>Astroscale用一块太空垃圾来吸引世界上第一个会合</title>
+      <link>https://arstechnica.com/space/2025/02/astroscale-aced-the-worlds-first-rendezvous-with-a-piece-of-space-junk/</link>
+      <description><![CDATA[这一成功为未来的任务与失控的卫星对接奠定了基础。]]></description>
+      <guid>https://arstechnica.com/space/2025/02/astroscale-aced-the-worlds-first-rendezvous-with-a-piece-of-space-junk/</guid>
+      <pubDate>Fri, 28 Feb 2025 01:06:41 GMT</pubDate>
+    </item>
     <item>
       <title>Copilot公开了私人GitHub页面，有些由Microsoft删除</title>
       <link>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</link>
-      <description><![CDATA[存储库曾经设置为公共场所，然后将其设置为私人，仍然可以通过副驾驶访问。]]></description>
+      <description><![CDATA[存储库曾经设置为公共场所，后来又设置为私人，仍然可以通过副驾驶访问。]]></description>
       <guid>https://arstechnica.com/information-technology/2025/02/copilot-exposes-private-github-pages-some-removed-by-microsoft/</guid>
       <pubDate>Thu, 27 Feb 2025 23:43:44 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[微软：如果美国从AI筹码中切断“朋友”，中国将赢得AI比赛。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/02/microsoft-pushes-trump-to-revise-bidens-last-minute-ai-chip-rule/</guid>
       <pubDate>Thu, 27 Feb 2025 17:16:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>麦克斯（Max）将于3月30日从美国一些订户中拉出CNN和运动</title>
-      <link>https://arstechnica.com/gadgets/2025/02/max-is-pulling-cnn-and-sports-from-some-us-subscribers-starting-on-march-30/</link>
-      <description><![CDATA[支付免费广告麦克斯的人仍然可以使用CNN Max和B/R运动。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/02/max-is-pulling-cnn-and-sports-from-some-us-subscribers-starting-on-march-30/</guid>
-      <pubDate>Thu, 27 Feb 2025 16:56:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
