@@ -4,7 +4,14 @@
     <title>来自Space.com的最新信息</title>
     <link>https://www.space.com/feeds/all</link>
     <description>Space.com团队的所有最新内容</description>
-    <lastBuildDate>Sat, 01 Mar 2025 11:12:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Mar 2025 13:19:41 GMT</lastBuildDate>
+    <item>
+      <title>从星际尘埃到地球以外的生命：为什么科学家无法等到NASA的新Spherex Space望远镜</title>
+      <link>https://www.space.com/space-exploration/missions/from-interstellar-dust-to-life-beyond-earth-why-scientists-cant-wait-nasas-new-spherex-space-telescope</link>
+      <description><![CDATA[具有宏伟野心的NASA太空望远镜很快将很快进入地球周围的轨道。这就是为什么科学家对此感到兴奋的原因。]]></description>
+      <guid>https://www.space.com/space-exploration/missions/from-interstellar-dust-to-life-beyond-earth-why-scientists-cant-wait-nasas-new-spherex-space-telescope</guid>
+      <pubDate>Sat, 01 Mar 2025 13:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>NASA的欧罗巴快船队将在今天驶向木星的冰冷月亮的路上靠近火星</title>
       <link>https://www.space.com/the-universe/mars/nasas-europa-clipper-will-fly-close-to-mars-this-saturday-on-way-to-jupiters-icy-moon</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[太空矿业公司Astroforge本周推出了其Odin小行星探测器，但任务却遭受了未知的问题。]]></description>
       <guid>https://www.space.com/space-exploration/launches-spacecraft/1st-private-spacecraft-to-attempt-to-travel-beyond-the-moon-appears-to-be-in-trouble</guid>
       <pubDate>Fri, 28 Feb 2025 18:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国科学家开发的火星无人机可以滚动并飞行红色星球（视频）</title>
-      <link>https://www.space.com/the-universe/mars/chinese-scientists-developing-mars-drone-that-can-roll-and-fly-across-red-planet-video</link>
-      <description><![CDATA[“在地面上，它主要是通过转移重心来滚动。”]]></description>
-      <guid>https://www.space.com/the-universe/mars/chinese-scientists-developing-mars-drone-that-can-roll-and-fly-across-red-planet-video</guid>
-      <pubDate>Fri, 28 Feb 2025 17:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
