@@ -4,7 +4,14 @@
     <title>来自Space.com的最新信息</title>
     <link>https://www.space.com/feeds/all</link>
     <description>Space.com团队的所有最新内容</description>
-    <lastBuildDate>Sun, 02 Mar 2025 08:18:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 09:15:17 GMT</lastBuildDate>
+    <item>
+      <title>“我们在月球上！” NASA</title>
+      <link>https://www.space.com/the-universe/moon/were-on-the-moon-private-blue-ghost-moon-lander-aces-historic-lunar-landing-for-nasa</link>
+      <description><![CDATA[Firefly Aerospace的蓝色幽灵航天器今天（3月2日）创造了历史，成为有史以来第二辆在月球上软地带的私人车辆。]]></description>
+      <guid>https://www.space.com/the-universe/moon/were-on-the-moon-private-blue-ghost-moon-lander-aces-historic-lunar-landing-for-nasa</guid>
+      <pubDate>Sun, 02 Mar 2025 09:13:23 GMT</pubDate>
+    </item>
     <item>
       <title>俄罗斯货船码头在空间站，带科学，太空服和用品</title>
       <link>https://www.space.com/space-exploration/international-space-station/russian-cargo-ship-docks-at-space-station-with-science-spacesuit-and-supplies</link>
@@ -36,7 +43,7 @@
     <item>
       <title>本周在太空播客中：第150集 - 我们的听众特别</title>
       <link>https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-150-our-listener-special</link>
-      <description><![CDATA[在本周在太空中的第150集中，Rod Pyle和Tariq Malik回答了您的问题，回答您的评论，并为您的许多最令人沮丧的太空笑话排队。]]></description>
+      <description><![CDATA[在本周在太空中的第150集中，Rod Pyle和Tariq Malik回答了您的问题，回答您的评论，并为您提供了许多最倾斜的太空笑话。]]></description>
       <guid>https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-150-our-listener-special</guid>
       <pubDate>Sat, 01 Mar 2025 14:13:50 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[萤火虫航空航天的蓝色幽灵探测预计将不到2025年3月2日（星期日）在黎明前的凌晨降落。这就是我们所知道的。]]></description>
       <guid>https://www.space.com/space-exploration/private-spaceflight/firefly-blue-ghost-moon-landing-what-time-livestream</guid>
       <pubDate>Sat, 01 Mar 2025 10:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国太空运营司令部在爆炸视频中揭示了新的座右铭：“始终是猎人”</title>
-      <link>https://www.space.com/space-operations-command-motto-always-the-hunter-video</link>
-      <description><![CDATA[美国太空运营司令部最近推出了一个新的座右铭：“ Semper Venator”，拉丁语“始终猎人”。]]></description>
-      <guid>https://www.space.com/space-operations-command-motto-always-the-hunter-video</guid>
-      <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
