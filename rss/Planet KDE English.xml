@@ -4,7 +4,62 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 02 Mar 2025 02:41:45 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 22:38:05 GMT</lastBuildDate>
+    <item>
+      <title>FreeBSD和KDE等离子体世代</title>
+      <link>https://euroquis.nl//freebsd/2025/03/02/kde5.html?utm_source=atom_feed</link>
+      <description><![CDATA[我有一台台式机，我的日常驾驶员，可以运行FreeBSD 13  - 最新的
+支持版本为13.5  - 我想保留在KDE等离子5（以及所有
+其余的最后一代KDE事物）。我 do 也想要现代的KDE等离子体6
+台式机，但我会在稍新的机器上这样做。这是一些伪造的笔记。
+ freebsd端口树每季度都有分支，大约有这样的想法
+可以选择一个稳定的端口分支以消费，也可以选择 main 
+并获取 ports-du-jour 。分支还提供了一种坚持年龄较大的方式
+释放某些软件。
+ KDE等离子6（以及大多数KDE齿轮和所有支撑KDE框架）
+到达 Main ，KDE等离子5端口已被删除。那是一个
+ kde@ freebsd中KDE端口的维护者组的决定
+一个归结为没有时间维护两个版本的时间，
+并希望能够上游修复。
+，但我想坚持使用较旧的KDE软件，至少在日常驾驶员上，更长的时间。
+哦，我想要一个最近的电报端口。还有小马。
+上一代的东西
+ kde的东西很容易做：
+
+查看端口树，例如 git克隆https://git.freebsd.org/ports.git  
+切换到具有KDE等离子5时代软件的最后一个分支，例如 git Checkout 2025Q1  
+构建KDE软件，例如使用 poudriere（8）以构建端口 x11/kde5    
+
+我使用的其他一些东西也从该端口分支机构工作：
+
+ Firefox 
+ libreoffice 
+
+有些令人惊讶（无论如何，对我自己来说）是一个台式机的即时消息客户，
+不是分支机构中非常重的版本，而是也是
+分支甚至没有编译。问题看起来像这样：
+    tdesktop-5.10.0-full/telegram/telegram/lib_base/base/qt/qt_compare.h：24：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：
+   错误：重新定义“操作员＆lt; =＆gt;&#39;
+   24 | [[nodiscard]] inline std :: strong_ordering操作员＆lt; =＆gt;（
+/USR/local/include/qt6/qtcore/qstring.h:777:5：注意：先前的定义在这里
+  777 |     q_declare_strongly_ordered（qString）
+   
+那只是QT6与电报捆绑在一起的冲突，
+但这很烦人。我最终从Telegram 5.10.0到5.10.7的樱桃采摘更新
+ main 分支（虽然花了几轮解决冲突）
+近期是建造的。感谢Sergey维护该端口。
+下一代物质
+在FreeBSD 14.2上，我希望很快能成为我的主要桌面，
+使用FreeBSD端口的 main 分支为我提供了相当相当的KDE软件。
+在此分支中，我们（如 kde@在freebsd端口树中）再次放弃
+在KDE版本号上。 KDE软件只是KDE软件 - 这也是
+KDE社区希望我们称之为。
+六年前，i  X11/KDE4 和 X11/KDE5 长时间并排。
+不再。您（隐喻性“您，在freebsd桌面上使用KDE的人”）获取最新的东西，
+它只是被称为KDE，我们再也不会打扰这些版本的标签了（这是上游已经说的十多年了）。 ]]></description>
+      <guid>https://euroquis.nl//freebsd/2025/03/02/kde5.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 01 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周在血浆中：6.4的好东西</title>
       <link>https://blogs.kde.org/2025/03/01/this-week-in-plasma-great-stuff-for-6.4/?utm_source=atom_feed</link>
@@ -130,13 +185,6 @@
 我们期待您的申请。]]></description>
       <guid>https://ev.kde.org/2025/02/24/2025-02-24-kde-kde-job-plasma-software-engineer/?utm_source=atom_feed</guid>
       <pubDate>Mon, 24 Feb 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OSM黑客周末2025年2月</title>
-      <link>https://www.volkerkrause.eu/2025/02/22/osm-hack-weekend-karlsruhe-february-2025.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2025/02/22/osm-hack-weekend-karlsruhe-february-2025.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 22 Feb 2025 09:15:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
