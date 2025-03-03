@@ -4,7 +4,15 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 02 Mar 2025 22:38:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 14:41:11 GMT</lastBuildDate>
+    <item>
+      <title>QT中的3D渲染解决方案 - 概述</title>
+      <link>https://www.basyskom.de/3d-rendering-solutions-in-qt-an-overview/?utm_source=atom_feed</link>
+      <description><![CDATA[    QT的3D产品正在发生变化，因此我们决定查看在QT中渲染3D内容的不同选项。
+ 继续读取qtt＆＃8211中的3D渲染解决方案Basyskom GmbH的概述。 ]]></description>
+      <guid>https://www.basyskom.de/3d-rendering-solutions-in-qt-an-overview/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 03 Mar 2025 13:45:22 GMT</pubDate>
+    </item>
     <item>
       <title>FreeBSD和KDE等离子体世代</title>
       <link>https://euroquis.nl//freebsd/2025/03/02/kde5.html?utm_source=atom_feed</link>
@@ -177,14 +185,6 @@ KDE社区希望我们称之为。
 查看完整的changelog ]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.3.2/?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE E.V.正在寻找等离子软件工程师</title>
-      <link>https://ev.kde.org/2025/02/24/2025-02-24-kde-kde-job-plasma-software-engineer/?utm_source=atom_feed</link>
-      <description><![CDATA[支持KDE社区的非营利组织 KDE E.V.正在寻找承包商来改善KDE的等离子桌面环境，以通过增长到新的硬件和软件市场来支持用户获取的方式。等离子软件工程师将解决这些目标障碍的缺陷和缺失功能。请参阅完整的作业清单以获取有关此机会的更多详细信息。
-我们期待您的申请。]]></description>
-      <guid>https://ev.kde.org/2025/02/24/2025-02-24-kde-kde-job-plasma-software-engineer/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 24 Feb 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
