@@ -4,7 +4,14 @@
     <title>来自Space.com的最新信息</title>
     <link>https://www.space.com/feeds/all</link>
     <description>Space.com团队的所有最新内容</description>
-    <lastBuildDate>Mon, 03 Mar 2025 20:40:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 21:16:36 GMT</lastBuildDate>
+    <item>
+      <title>去SXSW 2025？这是音乐节最好的空间主题面板</title>
+      <link>https://www.space.com/space-exploration/going-to-sxsw-2025-here-are-the-festivals-best-space-themed-panels</link>
+      <description><![CDATA[与Artemis 2 Moon Mission宇航员会面，并在SXSW 2025上了解私人月球着陆器，太空望远镜和“黑暗宇宙”。]]></description>
+      <guid>https://www.space.com/space-exploration/going-to-sxsw-2025-here-are-the-festivals-best-space-themed-panels</guid>
+      <pubDate>Mon, 03 Mar 2025 21:02:00 GMT</pubDate>
+    </item>
     <item>
       <title>新詹姆斯·韦伯太空望远镜图片中带有星形阵型的闪闪发光的银河大火图像</title>
       <link>https://www.space.com/space-exploration/james-webb-space-telescope/sparkling-galaxy-blazes-with-star-formation-in-new-james-webb-space-telescope-image</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[SpaceX计划今天（3月3日）开始其巨大的星际飞船火箭的第八次测试飞行，您可以观看戏剧性的动作。]]></description>
       <guid>https://www.space.com/space-exploration/private-spaceflight/spacex-launching-flight-8-of-starship-megarocket-today-watch-it-live</guid>
       <pubDate>Mon, 03 Mar 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arianespace取消了Ariane 6重型火箭的第二次发射</title>
-      <link>https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-second-launch-cso-3-french-spy-satellite</link>
-      <description><![CDATA[由于地面设备的问题，Arianespace取消了今天的第二次Ariane 6重型火箭发射。尚未宣布新的提升日期。]]></description>
-      <guid>https://www.space.com/space-exploration/launches-spacecraft/europe-ariane-6-rocket-second-launch-cso-3-french-spy-satellite</guid>
-      <pubDate>Mon, 03 Mar 2025 11:00:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
