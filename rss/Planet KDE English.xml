@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 03 Mar 2025 14:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 18:46:03 GMT</lastBuildDate>
     <item>
       <title>QT中的3D渲染解决方案 - 概述</title>
       <link>https://www.basyskom.de/3d-rendering-solutions-in-qt-an-overview/?utm_source=atom_feed</link>
@@ -15,7 +15,7 @@
     </item>
     <item>
       <title>FreeBSD和KDE等离子体世代</title>
-      <link>https://euroquis.nl//freebsd/2025/03/02/kde5.html?utm_source=atom_feed</link>
+      <link>https://euroquis.nl/freebsd/2025/03/02/kde5.html?utm_source=atom_feed</link>
       <description><![CDATA[我有一台台式机，我的日常驾驶员，可以运行FreeBSD 13  - 最新的
 支持版本为13.5  - 我想保留在KDE等离子5（以及所有
 其余的最后一代KDE事物）。我 do 也想要现代的KDE等离子体6
@@ -65,7 +65,7 @@ KDE社区希望我们称之为。
 六年前，i  X11/KDE4 和 X11/KDE5 长时间并排。
 不再。您（隐喻性“您，在freebsd桌面上使用KDE的人”）获取最新的东西，
 它只是被称为KDE，我们再也不会打扰这些版本的标签了（这是上游已经说的十多年了）。 ]]></description>
-      <guid>https://euroquis.nl//freebsd/2025/03/02/kde5.html?utm_source=atom_feed</guid>
+      <guid>https://euroquis.nl/freebsd/2025/03/02/kde5.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 01 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
@@ -77,7 +77,7 @@ KDE社区希望我们称之为。
     </item>
     <item>
       <title>GPG更新2025</title>
-      <link>https://euroquis.nl//blabla/2025/03/01/gpg.html?utm_source=atom_feed</link>
+      <link>https://euroquis.nl/blabla/2025/03/01/gpg.html?utm_source=atom_feed</link>
       <description><![CDATA[每年的仪式，更新GPG（签名）键
 并将它们推到各个地方。
 我将我的GPG键用于三个主要目的：
@@ -110,7 +110,7 @@ KDE社区希望我们称之为。
 在 freebsd开发人员openpgp键。它与我网站上的公寓相同，
 用于灾难。
 ]]></description>
-      <guid>https://euroquis.nl//blabla/2025/03/01/gpg.html?utm_source=atom_feed</guid>
+      <guid>https://euroquis.nl/blabla/2025/03/01/gpg.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
