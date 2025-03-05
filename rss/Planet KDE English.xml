@@ -4,7 +4,15 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Mar 2025 18:46:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 16:50:34 GMT</lastBuildDate>
+    <item>
+      <title>光标形状V1支持降落在GTK3中</title>
+      <link>https://blog.vladzahorodnii.com/2025/03/05/cursor-shape-v1-support-landed-in-gtk3/?utm_source=atom_feed</link>
+      <description><![CDATA[只是一个快速更新：最近，您可能听说过GTK 4在Wayland上增加了对光标形状V1协议的支持。光标形状V1协议的主要优点是，它确保应用程序之间的光标外观一致。在等离子体中，附带其他特权，例如，光标可以使用分数比例因素看起来更清晰，因为使用了SVG光标。我们（kde）服用了在backport上拍摄的backport porting cursor shape shape protocal 对GTK 3分支的支持与GTK 3分支相关，并与GTK 3分支相关，并与Mergent 。这意味着您应该在仍使用GTK 3（主要是Firefox）的Wayland的应用程序中遇到更少的光标问题。
+我要感谢Max Qian启动对光标形状V1协议的支持的工作，而Matthias Clasen则将其推开并审查我们的Backport MR。。]]></description>
+      <guid>https://blog.vladzahorodnii.com/2025/03/05/cursor-shape-v1-support-landed-in-gtk3/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 05 Mar 2025 15:02:10 GMT</pubDate>
+    </item>
     <item>
       <title>QT中的3D渲染解决方案 - 概述</title>
       <link>https://www.basyskom.de/3d-rendering-solutions-in-qt-an-overview/?utm_source=atom_feed</link>
@@ -59,7 +67,7 @@
 下一代物质
 在FreeBSD 14.2上，我希望很快能成为我的主要桌面，
 使用FreeBSD端口的 main 分支为我提供了相当相当的KDE软件。
-在此分支中，我们（如 kde@在freebsd端口树中）再次放弃
+在这个分支中，我们（如 kde@在freebsd端口树中）再次放弃
 在KDE版本号上。 KDE软件只是KDE软件 - 这也是
 KDE社区希望我们称之为。
 六年前，i  X11/KDE4 和 X11/KDE5 长时间并排。
@@ -170,21 +178,6 @@ KDE社区希望我们称之为。
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/02/25/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Tue, 25 Feb 2025 08:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE等离子体6.3.2，2月的BugFix发布</title>
-      <link>https://kde.org/announcements/plasma/6/6.3.2/?utm_source=atom_feed</link>
-      <description><![CDATA[ 2025年2月25日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.2。
-  plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
-此版本增加了KDE贡献者的一周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
-
-发现：修复非免费应用程序许可名称颜色。  commit.   
-发现：与SNI一起清除交易工作。  commit.   
- KDE窗口装饰库：公开应用程序菜单dbus接口信息。  commit
-
-查看完整的changelog ]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.3.2/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
