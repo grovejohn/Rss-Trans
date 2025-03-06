@@ -4,7 +4,14 @@
     <title>来自Space.com的最新信息</title>
     <link>https://www.space.com/feeds/all</link>
     <description>Space.com团队的所有最新内容</description>
-    <lastBuildDate>Thu, 06 Mar 2025 16:45:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 17:15:05 GMT</lastBuildDate>
+    <item>
+      <title>NASA LUNAR ORBITER在月球上发现的私人蓝色幽灵着陆器（照片）</title>
+      <link>https://www.space.com/the-universe/moon/private-blue-ghost-lander-spotted-on-the-moon-by-nasa-lunar-orbiter-photo</link>
+      <description><![CDATA[NASA的Lunar侦察轨道轨道捕获了萤火虫航空航天的蓝色幽灵着陆器的令人兴奋的景色。]]></description>
+      <guid>https://www.space.com/the-universe/moon/private-blue-ghost-lander-spotted-on-the-moon-by-nasa-lunar-orbiter-photo</guid>
+      <pubDate>Thu, 06 Mar 2025 17:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>7个关于月食的迷人事实</title>
       <link>https://www.space.com/stargazing/eclipses/7-fascinating-facts-about-lunar-eclipses</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[瓦尔达（Varda）空间已成功地在澳大利亚登陆了一个重新进入胶囊，并提供了可以推进空间制造和超音速技术的关键数据。]]></description>
       <guid>https://www.space.com/space-exploration/tech/varda-space-capsule-returns-to-earth-in-1st-commercial-landing-in-australian-outback-photos</guid>
       <pubDate>Wed, 05 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈勃望远镜发现了Kuiper带小行星中的一个新的“三体问题”难题（视频）</title>
-      <link>https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-discovers-a-new-3-body-problem-puzzle-among-kuiper-belt-asteroids-video</link>
-      <description><![CDATA[对于天文学家来说，这是一种新型的三体问题，他们使用哈勃太空望远镜来确定Kuiper带中的双小行星可能是三胞胎。]]></description>
-      <guid>https://www.space.com/space-exploration/hubble-space-telescope/hubble-telescope-discovers-a-new-3-body-problem-puzzle-among-kuiper-belt-asteroids-video</guid>
-      <pubDate>Wed, 05 Mar 2025 22:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
