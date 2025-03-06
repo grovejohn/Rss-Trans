@@ -4,7 +4,27 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Mar 2025 16:50:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 18:45:02 GMT</lastBuildDate>
+    <item>
+      <title>齿轮24.12.3</title>
+      <link>https://kde.org/announcements/gear/24.12.3/?utm_source=atom_feed</link>
+      <description><![CDATA[作为KDE Gear的一部分，超过180个单独的程序加上数十个程序员库和功能插件。
+今天，他们都获得了带有更新翻译的新bugfix源版本，包括：
+
+ kwordquiz：修复从命令行（＃487774 ）
+ kio-extras：修复iPhone/ipads上的打开AFC文件系统（＃487874 ）
+ okular：签名时添加小背景图像时避免崩溃（＃499746 ）
+
+发行版和App Store Packagers应该更新其应用程序包。
+
+  24.12发行笔记有关tarballs和已知问题的信息。
+ 软件包下载wiki page   
+  24.12.3来源信息页面  
+  24.12.3 full changelog  
+]]></description>
+      <guid>https://kde.org/announcements/gear/24.12.3/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>光标形状V1支持降落在GTK3中</title>
       <link>https://blog.vladzahorodnii.com/2025/03/05/cursor-shape-v1-support-landed-in-gtk3/?utm_source=atom_feed</link>
@@ -67,7 +87,7 @@
 下一代物质
 在FreeBSD 14.2上，我希望很快能成为我的主要桌面，
 使用FreeBSD端口的 main 分支为我提供了相当相当的KDE软件。
-在这个分支中，我们（如 kde@在freebsd端口树中）再次放弃
+在此分支中，我们（如 kde@在freebsd端口树中）再次放弃
 在KDE版本号上。 KDE软件只是KDE软件 - 这也是
 KDE社区希望我们称之为。
 六年前，i  X11/KDE4 和 X11/KDE5 长时间并排。
@@ -171,13 +191,6 @@ KDE社区希望我们称之为。
 ]]></description>
       <guid>https://www.qt.io/blog/qt-tools-for-android-studio-4.0-released?utm_source=atom_feed</guid>
       <pubDate>Wed, 26 Feb 2025 10:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在KDE应用程序中</title>
-      <link>https://blogs.kde.org/2025/02/25/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/02/25/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 25 Feb 2025 08:18:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
