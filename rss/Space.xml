@@ -4,7 +4,14 @@
     <title>来自Space.com的最新信息</title>
     <link>https://www.space.com/feeds/all</link>
     <description>Space.com团队的所有最新内容</description>
-    <lastBuildDate>Fri, 07 Mar 2025 08:20:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 10:17:34 GMT</lastBuildDate>
+    <item>
+      <title>日食和月食有什么区别？</title>
+      <link>https://www.space.com/difference-between-solar-eclipse-lunar-eclipse</link>
+      <description><![CDATA[我们探索了天体的几何形状，解释了太阳和月亮的不同种类的日食。]]></description>
+      <guid>https://www.space.com/difference-between-solar-eclipse-lunar-eclipse</guid>
+      <pubDate>Fri, 07 Mar 2025 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>观看Fiery SpaceX星际飞船8碎屑下雨在巴哈马（视频）</title>
       <link>https://www.space.com/space-exploration/launches-spacecraft/watch-fiery-spacex-starship-flight-8-debris-rain-down-over-the-bahamas-video</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[基于铁和硫混合物的新研究反映了红色行星的内芯，这表明火星的深内部可能像地球一样坚固。]]></description>
       <guid>https://www.space.com/the-universe/mars/mars-may-have-a-solid-inner-core-just-like-earth</guid>
       <pubDate>Thu, 06 Mar 2025 13:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA关闭Voyager仪器，以延长两个星际航天器的寿命“每天可能是我们的最后一次。”</title>
-      <link>https://www.space.com/nasa-switches-off-voyager-instruments-to-extend-life-of-the-two-interstellar-spacecraft</link>
-      <description><![CDATA[NASA工程师正在关闭Voyager 1和Voyager 2上的两种乐器，以确保这些双航天器可以继续探索星际空间。]]></description>
-      <guid>https://www.space.com/nasa-switches-off-voyager-instruments-to-extend-life-of-the-two-interstellar-spacecraft</guid>
-      <pubDate>Thu, 06 Mar 2025 11:04:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
