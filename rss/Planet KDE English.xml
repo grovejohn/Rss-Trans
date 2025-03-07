@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 06 Mar 2025 18:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 13:01:53 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第2025-10周</title>
+      <link>https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 07 Mar 2025 11:25:27 GMT</pubDate>
+    </item>
     <item>
       <title>齿轮24.12.3</title>
       <link>https://kde.org/announcements/gear/24.12.3/?utm_source=atom_feed</link>
@@ -180,17 +187,6 @@ KDE社区希望我们称之为。
  post  kdenlive在阿姆斯特丹首先出现在&lt;a href =“]]></description>
       <guid>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</guid>
       <pubDate>Wed, 26 Feb 2025 11:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android Studio 4.0发布的QT工具</title>
-      <link>https://www.qt.io/blog/qt-tools-for-android-studio-4.0-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-  
-
-我们很高兴宣布为Android Studio版本4.0的QT工具发布。它可以从 jetbrains Marketplace 。  
-]]></description>
-      <guid>https://www.qt.io/blog/qt-tools-for-android-studio-4.0-released?utm_source=atom_feed</guid>
-      <pubDate>Wed, 26 Feb 2025 10:51:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
