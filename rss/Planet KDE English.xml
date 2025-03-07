@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Mar 2025 16:44:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 18:44:22 GMT</lastBuildDate>
     <item>
       <title>OPENTYPE的控件</title>
       <link>https://wolthera.info/2025/03/controls-for-opentype/?utm_source=atom_feed</link>
@@ -163,12 +163,29 @@ KDE社区希望我们称之为。
       <pubDate>Fri, 28 Feb 2025 15:13:19 GMT</pubDate>
     </item>
     <item>
-      <title>QT Creator 16 RC发布</title>
-      <link>https://www.qt.io/blog/qt-creator-16-rc-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很乐意宣布QT Creator 16 RC的发布！
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-16-rc-released?utm_source=atom_feed</guid>
-      <pubDate>Thu, 27 Feb 2025 11:31:06 GMT</pubDate>
+      <title>阿姆斯特丹的kdenlive</title>
+      <link>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+    
+上周，克登利维尔核心团队的一部分在阿姆斯特丹见面，进行了短暂的短跑，其亮点是参观搅拌机基金会的。
+ Blender的首席运营官Francesco Siddi为我们提供了对Blender的罕见见解。我们希望尽快实施其中一些建议。
+当会议是在星期五下午举行的，我们也有机会参加他们的＆＃8220;每周＆＃8221;，这是一个公开会议，艺术家和开发人员在过去一周中在各种搅拌机相关项目上分享他们的进步。 。
+，再次感谢Francesco和Blender Foundation的款待。
+第二天，我们讨论了一些主题，包括：
+
+完善音频工作流程
+关于我们如何提高夹式timecode ＆＃8211;定义启动时间时渲染时
+最终确定 mlt补丁
+刮擦 itches     
+ 
+
+
+
+
+ post  kdenlive在阿姆斯特丹首先出现在&lt;a href =“]]></description>
+      <guid>https://kdenlive.org/en/2025/02/kdenlive-in-amsterdam/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 26 Feb 2025 11:59:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
