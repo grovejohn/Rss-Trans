@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com的最新信息</description>
-    <lastBuildDate>Fri, 07 Mar 2025 21:35:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 22:13:46 GMT</lastBuildDate>
+    <item>
+      <title>诺基亚在月球上放了一个4G的蜂窝网络，但无法打电话</title>
+      <link>https://www.wired.com/story/nokia-4g-network-on-the-moon/</link>
+      <description><![CDATA[诺基亚的月球表面通信系统应该是在月球上部署的第一个4G网络，并测试了未来的船员任务。事情没有计划。]]></description>
+      <guid>https://www.wired.com/story/nokia-4g-network-on-the-moon/</guid>
+      <pubDate>Fri, 07 Mar 2025 21:41:04 GMT</pubDate>
+    </item>
     <item>
       <title>“创业国家”团体表示，他们正在与特朗普官员见面，以推动放松管制的“自由城市”</title>
       <link>https://www.wired.com/story/startup-nations-donald-trump-legislation/</link>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 07 Mar 2025 14:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>一个全新的僵尸网络正在提供记录大小的DDOS攻击</title>
+      <title>全新的僵尸网络正在提供记录大小的DDOS攻击</title>
       <link>https://www.wired.com/story/eleven11bot-botnet-record-size-ddos-attacks/</link>
       <description><![CDATA[Eleven11bot感染了网络摄像头和录像机，在美国集中很集中。]]></description>
       <guid>https://www.wired.com/story/eleven11bot-botnet-record-size-ddos-attacks/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[如果正确的基础知识正确，这种高效，聪明的吹风机将会更加聪明。]]></description>
       <guid>https://www.wired.com/review/t3-aire-iq/</guid>
       <pubDate>Fri, 07 Mar 2025 12:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建恢复USB驱动器以修复计算机</title>
-      <link>https://www.wired.com/story/how-to-create-a-recovery-usb-drive-to-fix-your-computer/</link>
-      <description><![CDATA[当灾难袭击时，此紧急急救套件将准备好营救您的Mac或Windows机器。]]></description>
-      <guid>https://www.wired.com/story/how-to-create-a-recovery-usb-drive-to-fix-your-computer/</guid>
-      <pubDate>Fri, 07 Mar 2025 12:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
