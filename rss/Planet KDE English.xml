@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Mar 2025 04:35:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 10:36:15 GMT</lastBuildDate>
+    <item>
+      <title>Android新闻的位置（2025年3月）</title>
+      <link>https://www.volkerkrause.eu/2025/03/08/kde-android-news-march-2025.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2025/03/08/kde-android-news-march-2025.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 08 Mar 2025 09:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>本周在血浆中：一个非常固定的一周</title>
       <link>https://blogs.kde.org/2025/03/08/this-week-in-plasma-a-very-fixy-week/?utm_source=atom_feed</link>
@@ -161,13 +168,6 @@ KDE社区希望我们称之为。
 ]]></description>
       <guid>https://euroquis.nl/blabla/2025/03/01/gpg.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第2025-09周</title>
-      <link>https://ervin.ipsquad.net/blog/2025/02/28/web-review-week-2025-09/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2025/02/28/web-review-week-2025-09/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 28 Feb 2025 15:13:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
