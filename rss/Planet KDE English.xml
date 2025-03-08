@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 08 Mar 2025 10:36:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 20:35:57 GMT</lastBuildDate>
+    <item>
+      <title>KDE Gear 25.04创建的分支机构</title>
+      <link>https://tsdgeos.blogspot.com/2025/03/kde-gear-2504-branches-created.html?utm_source=atom_feed</link>
+      <description><![CDATA[请确保您要提交任何想要在KDE Gear 2 25.04 发布给它们 下一个日期＆nbsp;   ＆nbsp;＆nbsp;＆nbsp; 2025年3月13日：25.04 Freeze and Beta（25.03.80）TAG＆amp;发行＆nbsp;＆nbsp;＆nbsp; 2025年3月27日：25.04 RC（25.03.90）标记和释放＆nbsp;＆nbsp;＆nbsp; nbsp; 2025年4月10日：25.04标记＆nbsp;＆nbsp;＆nbsp; 2025年4月17日：25.04版本     https://community.kde.org/schedules/kde_gear_25.04_schedule  ]]></description>
+      <guid>https://tsdgeos.blogspot.com/2025/03/kde-gear-2504-branches-created.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 08 Mar 2025 17:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>Android新闻的位置（2025年3月）</title>
       <link>https://www.volkerkrause.eu/2025/03/08/kde-android-news-march-2025.html?utm_source=atom_feed</link>
@@ -130,44 +137,6 @@ KDE社区希望我们称之为。
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/03/01/this-week-in-plasma-great-stuff-for-6.4/?utm_source=atom_feed</guid>
       <pubDate>Sat, 01 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPG更新2025</title>
-      <link>https://euroquis.nl/blabla/2025/03/01/gpg.html?utm_source=atom_feed</link>
-      <description><![CDATA[每年的仪式，更新GPG（签名）键
-并将它们推到各个地方。
-我将我的GPG键用于三个主要目的：
-
-签署电子邮件，所以您知道它来自我，
-签名 calamares 发行，所以你知道他们来自我，
-签署freebsd的东西，所以你知道它们来自我。
-
-这意味着需要保持钥匙的最新状态，并定期刷新日期，
-然后发布和更新的钥匙以及所有内容。如果我有更好的日历 - 学科，
-不会说话。但我没有，所以这里有几个笔记：
-
-您可以在我的个人和 2024年的Calamares被混乱的GPG钥匙签名。全部
-签名来自我的钥匙，一切都很好，但是我使用了
-钥匙不一致，有时使用了一个过期的。我写了
- on fosstodon 当我发现它时。
-    
- calamares的发布公告提到了特定的键性ID，即使
-实际签名使用了不同的密钥ID。最新版本，3.3.14，
-匹配已宣布的与实际签名签名的键ID。
-我认为3.3.11签名，该密钥实际上在当时已过期。
-它确实与已发布的键性ID与签名匹配。
-在2025年上半年，预期的签名键IS为6D98，
-这是在我的网站上发布的。
-我刚刚更新了底部的卡马群岛签名列表
- of-calamares page 。
-
-
- FreeBSD签名信息很少使用，但可用
-在 freebsd开发人员openpgp键。它与我网站上的公寓相同，
-用于灾难。
-]]></description>
-      <guid>https://euroquis.nl/blabla/2025/03/01/gpg.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 28 Feb 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
