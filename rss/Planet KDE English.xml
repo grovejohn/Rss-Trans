@@ -4,7 +4,31 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 09 Mar 2025 02:47:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 20:35:51 GMT</lastBuildDate>
+    <item>
+      <title>等离子体设计系统 -  2025年3月更新</title>
+      <link>https://anditosan.wordpress.com/2025/03/09/plasma-design-system-march-2025-update/?utm_source=atom_feed</link>
+      <description><![CDATA[  
+ 
+本月回到我们的等离子体新设计系统的进度的另一个更新。 
+此更新包括：
+＆＃8211;图标选择并要求提交错误
+＆＃8211;图标审查和更改
+＆＃8211;等离子体冲刺更新
+如果您想参加像我们这样的开放设计项目，请在此处了解更多信息： https://community.kde.org/get_involve&amp;#8230 ;了解有关我们组织的更多信息：
+•Facebook：KDE社区
+•Twitter：@kdecommunity 
+•mastodon： @kde @ploss.social 
+•linkedIn：kde•reddit：r/kde 
+•lemmy：KDE社区
+•instagram：@kdecommunity 
+•YouTube：KDE社区
+•peertube：KDE通道
+ 
+#FigmaIcons #IconDesign #FigmaTutorial #LearnFigma #FigmaTips #UIUXDesign #GraphicDesign #VectorArt #FigmaDesign #IconCreation #FigmaForBeginners #FigmaWorkflow #DigitalDesign #FigmaCommunity #FigmaIconDesign #DesignWithFigma #UXDesignTips #figmatipsandtricks #illustrationDesign #icondesigntorial #penpot #opensource #opendesign ]]></description>
+      <guid>https://anditosan.wordpress.com/2025/03/09/plasma-design-system-march-2025-update/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 09 Mar 2025 20:09:21 GMT</pubDate>
+    </item>
     <item>
       <title>KDE Gear 25.04创建的分支机构</title>
       <link>https://tsdgeos.blogspot.com/2025/03/kde-gear-2504-branches-created.html?utm_source=atom_feed</link>
@@ -111,7 +135,7 @@
 分支甚至没有编译。问题看起来像这样：
     tdesktop-5.10.0-full/telegram/telegram/lib_base/base/qt/qt_compare.h：24：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：43：
    错误：重新定义“操作员＆lt; =＆gt;&#39;
-   24 | [[nodiscard]] inline std :: strong_ordering操作员＆lt; =＆gt;（
+   24 | [[nodiscard]] inline std :: strong_ordering操作员＆lt; =＆gt;（（
 /USR/local/include/qt6/qtcore/qstring.h:777:5：注意：先前的定义在这里
   777 |     q_declare_strongly_ordered（qString）
    
@@ -130,13 +154,6 @@ KDE社区希望我们称之为。
 它只是被称为KDE，我们再也不会打扰这些版本的标签了（这是上游已经说的十多年了）。 ]]></description>
       <guid>https://euroquis.nl/freebsd/2025/03/02/kde5.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 01 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在血浆中：6.4的好东西</title>
-      <link>https://blogs.kde.org/2025/03/01/this-week-in-plasma-great-stuff-for-6.4/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/03/01/this-week-in-plasma-great-stuff-for-6.4/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 01 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
