@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Mar 2025 04:37:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 08:37:39 GMT</lastBuildDate>
+    <item>
+      <title>模型/视图拖放QT中的拖放 - 第2部分</title>
+      <link>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-2/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-2/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 10 Mar 2025 08:19:13 GMT</pubDate>
+    </item>
     <item>
       <title>等离子体设计系统 -  2025年3月更新</title>
       <link>https://anditosan.wordpress.com/2025/03/09/plasma-design-system-march-2025-update/?utm_source=atom_feed</link>
@@ -98,14 +105,6 @@
 我要感谢Max Qian启动对光标形状V1协议的支持的工作，而Matthias Clasen则将其推开并审查我们的Backport MR。。]]></description>
       <guid>https://blog.vladzahorodnii.com/2025/03/05/cursor-shape-v1-support-landed-in-gtk3/?utm_source=atom_feed</guid>
       <pubDate>Wed, 05 Mar 2025 15:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>QT中的3D渲染解决方案 - 概述</title>
-      <link>https://www.basyskom.de/3d-rendering-solutions-in-qt-an-overview/?utm_source=atom_feed</link>
-      <description><![CDATA[    QT的3D产品正在发生变化，因此我们决定查看在QT中渲染3D内容的不同选项。
- 继续读取qtt＆＃8211中的3D渲染解决方案Basyskom GmbH的概述。 ]]></description>
-      <guid>https://www.basyskom.de/3d-rendering-solutions-in-qt-an-overview/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 03 Mar 2025 13:45:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
