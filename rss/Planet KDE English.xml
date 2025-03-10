@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 10 Mar 2025 10:37:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 22:39:26 GMT</lastBuildDate>
+    <item>
+      <title>个人和专业更新 - 宣布TechPaladin软件</title>
+      <link>https://pointieststick.com/2025/03/10/personal-and-professional-updates-announcing-techpaladin-software/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://pointieststick.com/2025/03/10/personal-and-professional-updates-announcing-techpaladin-software/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 10 Mar 2025 21:36:49 GMT</pubDate>
+    </item>
     <item>
       <title>模型/视图拖放QT中的拖放 - 第2部分</title>
       <link>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-2/?utm_source=atom_feed</link>
@@ -97,14 +104,6 @@
 ]]></description>
       <guid>https://kde.org/announcements/gear/24.12.3/?utm_source=atom_feed</guid>
       <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>光标形状V1支持降落在GTK3中</title>
-      <link>https://blog.vladzahorodnii.com/2025/03/05/cursor-shape-v1-support-landed-in-gtk3/?utm_source=atom_feed</link>
-      <description><![CDATA[只是一个快速更新：最近，您可能听说过GTK 4在Wayland上增加了对光标形状V1协议的支持。光标形状V1协议的主要优点是，它确保应用程序之间的光标外观一致。在等离子体中，附带其他特权，例如，光标可以使用分数比例因素看起来更清晰，因为使用了SVG光标。我们（kde）服用了在backport上拍摄的backport porting cursor shape shape protocal 对GTK 3分支的支持与GTK 3分支相关，并与GTK 3分支相关，并与Mergent 。这意味着您应该在仍使用GTK 3（主要是Firefox）的Wayland的应用程序中遇到更少的光标问题。
-我要感谢Max Qian启动对光标形状V1协议的支持的工作，而Matthias Clasen则将其推开并审查我们的Backport MR。。]]></description>
-      <guid>https://blog.vladzahorodnii.com/2025/03/05/cursor-shape-v1-support-landed-in-gtk3/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 05 Mar 2025 15:02:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
