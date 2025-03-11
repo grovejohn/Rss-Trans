@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Mon, 10 Mar 2025 23:36:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 12:33:39 GMT</lastBuildDate>
+    <item>
+      <title>为什么从PDF中提取数据仍然是数据专家的噩梦</title>
+      <link>https://arstechnica.com/ai/2025/03/why-extracting-data-from-pdfs-is-still-a-nightmare-for-data-experts/</link>
+      <description><![CDATA[无数的数字文档拥有有价值的信息，AI行业正试图将其自由设置。]]></description>
+      <guid>https://arstechnica.com/ai/2025/03/why-extracting-data-from-pdfs-is-still-a-nightmare-for-data-experts/</guid>
+      <pubDate>Tue, 11 Mar 2025 11:15:36 GMT</pubDate>
+    </item>
     <item>
       <title>未经特别批准，NCI员工无法发布有关这些主题的信息</title>
       <link>https://arstechnica.com/science/2025/03/nci-employees-cant-publish-information-on-these-topics-without-special-approval/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[软件开发人员计划在承认种植恶意代码后上诉。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/03/fired-coder-faces-10-years-for-revenge-kill-switch-he-named-after-himself/</guid>
       <pubDate>Mon, 10 Mar 2025 17:10:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近在SpaceX上发生的故障和延迟的背后是什么？</title>
-      <link>https://arstechnica.com/space/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/</link>
-      <description><![CDATA[SpaceX长期以来一直具有艰苦的文化。现在充电了吗？]]></description>
-      <guid>https://arstechnica.com/space/2025/03/after-years-of-acceleration-has-spacex-finally-reached-its-speed-limit/</guid>
-      <pubDate>Mon, 10 Mar 2025 16:50:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
