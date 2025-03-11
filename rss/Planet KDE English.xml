@@ -4,13 +4,42 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Mar 2025 10:42:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 15:18:16 GMT</lastBuildDate>
+    <item>
+      <title>Kdenlive 24.12.3发布</title>
+      <link>https://kdenlive.org/en/2025/03/kdenlive-24-12-3-released/?utm_source=atom_feed</link>
+      <description><![CDATA[
+
+
+修复音频播放在垃圾箱夹之间切换时会断开。  commit 。请参阅bug ＃500491 。
+修复了组中单项删除的崩溃。  commit commit 。。
+修复了具有相同轨道过渡的崩溃粘贴夹（例如溶解）。  commit commit 
+ 
+
+
+
+
+ post  kdenlive 24.12.3发布 target =“ _ blank”&gt; kdenlive 。]]></description>
+      <guid>https://kdenlive.org/en/2025/03/kdenlive-24-12-3-released/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 11 Mar 2025 13:38:02 GMT</pubDate>
+    </item>
     <item>
       <title>迁移数据库</title>
       <link>https://www.thelins.se/johan/blog/2025/03/migrating-databases/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.thelins.se/johan/blog/2025/03/migrating-databases/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Mar 2025 08:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE等离子体6.3.3，三月的BugFix发布</title>
+      <link>https://kde.org/announcements/plasma/6/6.3.3/?utm_source=atom_feed</link>
+      <description><![CDATA[ 2025年3月11日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.3。
+  plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
+此版本增加了KDE贡献者的两周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
+ fixme 
+查看完整的changelog ]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.3.3/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>个人和专业更新 - 宣布TechPaladin软件</title>
@@ -77,20 +106,6 @@
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/03/08/this-week-in-plasma-a-very-fixy-week/?utm_source=atom_feed</guid>
       <pubDate>Sat, 08 Mar 2025 01:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPENTYPE的控件</title>
-      <link>https://wolthera.info/2025/03/controls-for-opentype/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://wolthera.info/2025/03/controls-for-opentype/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 07 Mar 2025 14:05:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第2025-10周</title>
-      <link>https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 07 Mar 2025 11:25:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
