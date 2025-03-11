@@ -4,7 +4,35 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Tue, 11 Mar 2025 20:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 21:36:42 GMT</lastBuildDate>
+    <item>
+      <title>媒体事务说</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/xs-globe-trotting-defense-of-ads-on-nazi-posts-violates-tos-media-matters-says/</link>
+      <description><![CDATA[X据称在提起“热核”诉讼时忽略了TOS中选定的场所。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/xs-globe-trotting-defense-of-ads-on-nazi-posts-violates-tos-media-matters-says/</guid>
+      <pubDate>Tue, 11 Mar 2025 20:59:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAi推动AI代理功能与新开发人员API</title>
+      <link>https://arstechnica.com/ai/2025/03/openai-pushes-ai-agent-capabilities-with-new-developer-api/</link>
+      <description><![CDATA[新工具可能有助于履行首席执行官的说法，即代理商将在2025年“加入劳动力”。]]></description>
+      <guid>https://arstechnica.com/ai/2025/03/openai-pushes-ai-agent-capabilities-with-new-developer-api/</guid>
+      <pubDate>Tue, 11 Mar 2025 20:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>苹果补丁在“极其复杂的攻击”中利用0天</title>
+      <link>https://arstechnica.com/security/2025/03/apple-patches-0-day-exploited-in-extremely-sophisticated-attack/</link>
+      <description><![CDATA[由恶意制作的Web内容利用0天，以脱离安全沙箱。]]></description>
+      <guid>https://arstechnica.com/security/2025/03/apple-patches-0-day-exploited-in-extremely-sophisticated-attack/</guid>
+      <pubDate>Tue, 11 Mar 2025 20:26:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>泄漏的GeForce RTX 5060和5050规格表明NVIDIA将继续使用它</title>
+      <link>https://arstechnica.com/gadgets/2025/03/leaked-geforce-rtx-5060-and-5050-specs-suggest-nvidia-will-keep-playing-it-safe/</link>
+      <description><![CDATA[到目前为止，Nvidia的50系列刷新非常保守。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/leaked-geforce-rtx-5060-and-5050-specs-suggest-nvidia-will-keep-playing-it-safe/</guid>
+      <pubDate>Tue, 11 Mar 2025 20:02:33 GMT</pubDate>
+    </item>
     <item>
       <title>鲸尿如何使海洋生态系统受益</title>
       <link>https://arstechnica.com/science/2025/03/how-whale-urine-benefits-the-ocean-ecosystem/</link>
@@ -46,34 +74,6 @@
       <description><![CDATA[第二代Chromecast本周停止工作，但还没有结束。]]></description>
       <guid>https://arstechnica.com/google/2025/03/googles-10-year-old-chromecast-is-busted-but-a-fix-is-coming/</guid>
       <pubDate>Tue, 11 Mar 2025 16:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普如何有可能抓住芯片资金</title>
-      <link>https://arstechnica.com/tech-policy/2025/03/how-trump-could-potentially-claw-back-chips-funding/</link>
-      <description><![CDATA[报道说，芯片制造商担心特朗普可能会撤销筹码法。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/03/how-trump-could-potentially-claw-back-chips-funding/</guid>
-      <pubDate>Tue, 11 Mar 2025 16:00:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>这就是寄生虫直接侵入大脑时的样子</title>
-      <link>https://arstechnica.com/health/2025/03/this-is-what-it-looks-like-when-parasitic-worms-directly-invade-your-brain/</link>
-      <description><![CDATA[医生在不知不觉中拍摄了入侵患者大脑的蠕虫的时间序列图像。]]></description>
-      <guid>https://arstechnica.com/health/2025/03/this-is-what-it-looks-like-when-parasitic-worms-directly-invade-your-brain/</guid>
-      <pubDate>Tue, 11 Mar 2025 15:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃隆·马斯克（Elon Musk</title>
-      <link>https://arstechnica.com/tech-policy/2025/03/elon-musk-blames-x-outages-on-massive-cyberattack/</link>
-      <description><![CDATA[用户会放弃Twitter品牌吗？ X中断表明答案是否定的。]]></description>
-      <guid>https://arstechnica.com/tech-policy/2025/03/elon-musk-blames-x-outages-on-massive-cyberattack/</guid>
-      <pubDate>Tue, 11 Mar 2025 13:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple M4 MacBook Air评论：我没有笔记</title>
-      <link>https://arstechnica.com/apple/2025/03/apple-m4-macbook-air-review-i-have-no-notes/</link>
-      <description><![CDATA[这些空气中唯​​一缺少的是一些亲钟和哨子。]]></description>
-      <guid>https://arstechnica.com/apple/2025/03/apple-m4-macbook-air-review-i-have-no-notes/</guid>
-      <pubDate>Tue, 11 Mar 2025 13:00:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
