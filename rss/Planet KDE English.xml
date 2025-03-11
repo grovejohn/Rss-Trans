@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Mar 2025 15:18:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 16:46:16 GMT</lastBuildDate>
     <item>
       <title>Kdenlive 24.12.3发布</title>
       <link>https://kdenlive.org/en/2025/03/kdenlive-24-12-3-released/?utm_source=atom_feed</link>
@@ -36,7 +36,11 @@
       <description><![CDATA[ 2025年3月11日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.3。
   plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
 此版本增加了KDE贡献者的两周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
- fixme 
+
+微风：使用非全球配色方案时，请勿级联标头颜色。  commit.    
+微风：kstyle/breezetoolsareamanger.cpp：标头的菜单栏颜色。  commit
+微风：用mingw修复QT6构建回归。  commit。 target =“ _ blank”&gt;＃500106  
+
 查看完整的changelog ]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.3.3/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
