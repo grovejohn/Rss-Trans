@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Mar 2025 08:43:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 10:42:39 GMT</lastBuildDate>
+    <item>
+      <title>迁移数据库</title>
+      <link>https://www.thelins.se/johan/blog/2025/03/migrating-databases/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.thelins.se/johan/blog/2025/03/migrating-databases/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 11 Mar 2025 08:49:00 GMT</pubDate>
+    </item>
     <item>
       <title>个人和专业更新 - 宣布TechPaladin软件</title>
       <link>https://pointieststick.com/2025/03/10/personal-and-professional-updates-announcing-techpaladin-software/?utm_source=atom_feed</link>
@@ -84,26 +91,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/03/07/web-review-week-2025-10/?utm_source=atom_feed</guid>
       <pubDate>Fri, 07 Mar 2025 11:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>齿轮24.12.3</title>
-      <link>https://kde.org/announcements/gear/24.12.3/?utm_source=atom_feed</link>
-      <description><![CDATA[作为KDE Gear的一部分，超过180个单独的程序加上数十个程序员库和功能插件。
-今天，他们都获得了带有更新翻译的新bugfix源版本，包括：
-
- kwordquiz：修复从命令行（＃487774 ）
- kio-extras：修复iPhone/ipads上的打开AFC文件系统（＃487874 ）
- okular：签名时添加小背景图像时避免崩溃（＃499746 ）
-
-发行版和App Store Packagers应该更新其应用程序包。
-
-  24.12发行笔记有关tarballs和已知问题的信息。
- 软件包下载wiki page   
-  24.12.3来源信息页面  
-  24.12.3 full changelog  
-]]></description>
-      <guid>https://kde.org/announcements/gear/24.12.3/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 06 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
