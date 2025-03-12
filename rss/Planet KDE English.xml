@@ -4,7 +4,22 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 11 Mar 2025 18:46:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 08:44:35 GMT</lastBuildDate>
+    <item>
+      <title>思考QT</title>
+      <link>https://blog.broulik.de/2025/03/pondering-qt/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.broulik.de/2025/03/pondering-qt/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 12 Mar 2025 08:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>QT 5.15的扩展安全维护时间于2025年5月开始</title>
+      <link>https://www.qt.io/blog/extended-security-maintenance-for-qt-5.15-begins-may-2025?utm_source=atom_feed</link>
+      <description><![CDATA[  QT 5.15的标准支持将在2025年5月26日之后结束， ， 如前所述 。 在支持期之后，该版本将在EOS（支持的结束）状态中，并且只能通过其他服务来支持，包括QT 5.15的扩展安全维护，扩展支持和专业服务。客户使用QT 5.15软件分发应用程序和嵌入式设备应评估如何访问可能包括安全修复程序的技术支持和维护补丁。支持结束后仍然适用的标准广告条款。
+]]></description>
+      <guid>https://www.qt.io/blog/extended-security-maintenance-for-qt-5.15-begins-may-2025?utm_source=atom_feed</guid>
+      <pubDate>Wed, 12 Mar 2025 07:45:32 GMT</pubDate>
+    </item>
     <item>
       <title>Kdenlive 24.12.3发布</title>
       <link>https://kdenlive.org/en/2025/03/kdenlive-24-12-3-released/?utm_source=atom_feed</link>
@@ -96,20 +111,6 @@
       <description><![CDATA[请确保您要提交任何想要在KDE Gear 2 25.04 发布给它们 下一个日期＆nbsp;   ＆nbsp;＆nbsp;＆nbsp; 2025年3月13日：25.04 Freeze and Beta（25.03.80）TAG＆amp;发行＆nbsp;＆nbsp;＆nbsp; 2025年3月27日：25.04 RC（25.03.90）标记和释放＆nbsp;＆nbsp;＆nbsp; nbsp; 2025年4月10日：25.04标记＆nbsp;＆nbsp;＆nbsp; 2025年4月17日：25.04版本     https://community.kde.org/schedules/kde_gear_25.04_schedule  ]]></description>
       <guid>https://tsdgeos.blogspot.com/2025/03/kde-gear-2504-branches-created.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 08 Mar 2025 17:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android新闻的位置（2025年3月）</title>
-      <link>https://www.volkerkrause.eu/2025/03/08/kde-android-news-march-2025.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2025/03/08/kde-android-news-march-2025.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 08 Mar 2025 09:15:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在血浆中：一个非常固定的一周</title>
-      <link>https://blogs.kde.org/2025/03/08/this-week-in-plasma-a-very-fixy-week/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/03/08/this-week-in-plasma-a-very-fixy-week/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 08 Mar 2025 01:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
