@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Mar 2025 13:24:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 18:45:51 GMT</lastBuildDate>
+    <item>
+      <title>kwin_x11和kwin_wayland split</title>
+      <link>https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 13 Mar 2025 17:26:42 GMT</pubDate>
+    </item>
     <item>
       <title>QT Creator 16发布</title>
       <link>https://www.qt.io/blog/qt-creator-16-released?utm_source=atom_feed</link>
@@ -105,13 +112,6 @@
 #FigmaIcons #IconDesign #FigmaTutorial #LearnFigma #FigmaTips #UIUXDesign #GraphicDesign #VectorArt #FigmaDesign #IconCreation #FigmaForBeginners #FigmaWorkflow #DigitalDesign #FigmaCommunity #FigmaIconDesign #DesignWithFigma #UXDesignTips #figmatipsandtricks #illustrationDesign #icondesigntorial #penpot #opensource #opendesign ]]></description>
       <guid>https://anditosan.wordpress.com/2025/03/09/plasma-design-system-march-2025-update/?utm_source=atom_feed</guid>
       <pubDate>Sun, 09 Mar 2025 20:09:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在KDE应用程序中</title>
-      <link>https://blogs.kde.org/2025/03/09/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/03/09/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 09 Mar 2025 19:55:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
