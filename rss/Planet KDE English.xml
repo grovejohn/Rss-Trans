@@ -4,7 +4,15 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 13 Mar 2025 02:42:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 13:24:46 GMT</lastBuildDate>
+    <item>
+      <title>QT Creator 16发布</title>
+      <link>https://www.qt.io/blog/qt-creator-16-released?utm_source=atom_feed</link>
+      <description><![CDATA[ 我们很乐意宣布QT Creator 16的发布！ 
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-16-released?utm_source=atom_feed</guid>
+      <pubDate>Thu, 13 Mar 2025 11:29:39 GMT</pubDate>
+    </item>
     <item>
       <title>思考QT</title>
       <link>https://blog.broulik.de/2025/03/pondering-qt/?utm_source=atom_feed</link>
@@ -104,13 +112,6 @@
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/03/09/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Sun, 09 Mar 2025 19:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE Gear 25.04创建的分支机构</title>
-      <link>https://tsdgeos.blogspot.com/2025/03/kde-gear-2504-branches-created.html?utm_source=atom_feed</link>
-      <description><![CDATA[请确保您要提交任何想要在KDE Gear 2 25.04 发布给它们 下一个日期＆nbsp;   ＆nbsp;＆nbsp;＆nbsp; 2025年3月13日：25.04 Freeze and Beta（25.03.80）TAG＆amp;发行＆nbsp;＆nbsp;＆nbsp; 2025年3月27日：25.04 RC（25.03.90）标记和释放＆nbsp;＆nbsp;＆nbsp; nbsp; 2025年4月10日：25.04标记＆nbsp;＆nbsp;＆nbsp; 2025年4月17日：25.04版本     https://community.kde.org/schedules/kde_gear_25.04_schedule  ]]></description>
-      <guid>https://tsdgeos.blogspot.com/2025/03/kde-gear-2504-branches-created.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 08 Mar 2025 17:30:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
