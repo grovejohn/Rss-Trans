@@ -1,87 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>FiveFilters.org</title>
+    <title>fixfilters.org</title>
     <link>https://www.fivefilters.org/</link>
-    <description>网络文章变得易于访问</description>
-    <lastBuildDate>Thu, 28 Nov 2024 01:16:00 GMT</lastBuildDate>
+    <description>可访问的网络文章</description>
+    <lastBuildDate>Fri, 14 Mar 2025 04:19:01 GMT</lastBuildDate>
     <item>
-      <title>重要更新：FiveFilters.org 和 Mochi.is</title>
+      <title>重要更新：fixfilters.org和mochi.is</title>
       <link>https://www.fivefilters.org/2024/important-update-fivefilters-org-and-mochi-is/</link>
-      <description><![CDATA[我们正在重新组织这里的一切。FiveFilters.org 将回归本源，专注于媒体行动。同时，我们的软件工具将转移到由我们的新公司运营的 Mochi.is。
-帖子重要更新：FiveFilters.org 和 Mochi.is首先出现在FiveFilters.org上。]]></description>
+      <description><![CDATA[我们在这里重新组织。 fixfilter.org将重返其根源，重点关注媒体行动。同时，我们的软件工具将移至由我们的新公司运营的Mochi.is。
+ post 重要更新：fix fivefilters.org and Mochi.is  href =“ https://www.fivefilters.org”&gt; fixfilters.org 。]]></description>
       <guid>https://www.fivefilters.org/2024/important-update-fivefilters-org-and-mochi-is/</guid>
       <pubDate>Wed, 27 Nov 2024 23:20:20 GMT</pubDate>
     </item>
     <item>
-      <title>Google 表格的 RSS 源</title>
+      <title>RSS馈送给Google表</title>
       <link>https://www.fivefilters.org/2024/rss-to-google-sheets/</link>
-      <description><![CDATA[如何使用 Feed Control 自动将新的 feed 项目添加到 Google 表格。在这篇文章中，我们提供了分步指南。
-文章RSS feed 到 Google 表格首先出现在FiveFilters.org上。]]></description>
+      <description><![CDATA[如何使用Feed Control自动向Google表中添加新的Feed项目。在这篇文章中，我们提供了逐步指南。
+ post  rss feed to Google Sheets 首先出现在&lt;a href =“]]></description>
       <guid>https://www.fivefilters.org/2024/rss-to-google-sheets/</guid>
       <pubDate>Mon, 30 Sep 2024 13:49:16 GMT</pubDate>
     </item>
     <item>
-      <title>Feed 模板、Google 新闻支持等</title>
+      <title>饲料模板，Google新闻支持等等</title>
       <link>https://www.fivefilters.org/2024/rss-templates-google-news-support-and-more/</link>
-      <description><![CDATA[我们的 Feed 控制服务现在具有新的 RSS 模板、对 Google 新闻的支持以及其他一些旨在让您更轻松地管理 Feed 的增强功能。
-文章Feed 模板、Google 新闻支持等首先出现在FiveFilters.org上。]]></description>
+      <description><![CDATA[我们的饲料控制服务现在具有新的RSS模板，对Google新闻的支持以及旨在使您的供稿更容易管理的其他一些增强功能。
+ post  feed模板，Google News News Supports和更多 href =“ https://www.fivefilters.org”&gt; fixfilters.org 。]]></description>
       <guid>https://www.fivefilters.org/2024/rss-templates-google-news-support-and-more/</guid>
       <pubDate>Mon, 23 Sep 2024 13:16:46 GMT</pubDate>
     </item>
     <item>
-      <title>信息流模板和 AI 语音播客</title>
+      <title>饲料模板和AI-Soded播客</title>
       <link>https://www.fivefilters.org/2024/feed-templates-and-ai-voiced-podcasts/</link>
-      <description><![CDATA[Feed Control 很快将允许您在从内容生成 RSS 源时选择源模板。并且还将支持播客创建。
-文章Feed 模板和 AI 语音播客首先出现在FiveFilters.org上。]]></description>
+      <description><![CDATA[进料控制很快将使您在从内容中生成RSS feed时选择一个提要模板。和播客的创建也将得到支持。
+ post  feed模板和ai-voiced podcasts 首先出现在 fixfilters.org 。]]></description>
       <guid>https://www.fivefilters.org/2024/feed-templates-and-ai-voiced-podcasts/</guid>
       <pubDate>Sat, 29 Jun 2024 16:12:27 GMT</pubDate>
     </item>
     <item>
-      <title>Feed 控制中的精选 Feed</title>
+      <title>饲料控制中精心策划的饲料</title>
       <link>https://www.fivefilters.org/2024/curated-feeds-in-feed-control-and-item-visibility/</link>
-      <description><![CDATA[在 Feed Control 中，您现在可以在 Feed 上启用“策展模式”。Feed 将像以前一样受到监控，但现在您必须选择应包含在 Feed 输出中的项目。
-帖子Feed Control 中的策展 Feed首先出现在 FiveFilters.org 上。]]></description>
+      <description><![CDATA[在饲料控制中，您现在可以在供稿上启用“策展模式”。提要将像以前一样监视，但是您现在必须选择应包含在提要输出中的项目。
+ post  fureated feed fefer in Feed Control 首先出现在 fixfilters.org 。]]></description>
       <guid>https://www.fivefilters.org/2024/curated-feeds-in-feed-control-and-item-visibility/</guid>
       <pubDate>Mon, 13 May 2024 10:06:54 GMT</pubDate>
     </item>
     <item>
-      <title>测试旧代码是否兼容 PHP 8</title>
+      <title>测试PHP 8兼容性的旧代码</title>
       <link>https://www.fivefilters.org/2023/testing-old-code-for-php-8-compatibility/</link>
-      <description><![CDATA[本文将向您展示如何使用 PHP 兼容性测试您的代码与较新版本的 PHP 的兼容性。您可以使用它来测试整个文件夹或特定文件。
-文章测试旧代码与 PHP 8 的兼容性首先出现在FiveFilters.org上。]]></description>
+      <description><![CDATA[这篇文章将向您展示如何使用PHP兼容性来测试代码以与较新版本的PHP兼容。您可以使用它来测试整个文件夹或特定文件。
+ post 测试php 8兼容性的旧代码首先出现在 fixfilters.org 。]]></description>
       <guid>https://www.fivefilters.org/2023/testing-old-code-for-php-8-compatibility/</guid>
       <pubDate>Thu, 07 Sep 2023 15:57:43 GMT</pubDate>
     </item>
     <item>
-      <title>格伦·格林沃尔德 (Glenn Greenwald) 谈维基百科偏见</title>
+      <title>格伦·格林瓦尔德（Glenn Greenwald）</title>
       <link>https://www.fivefilters.org/2023/glenn-greenwald-on-wikipedia-bias/</link>
-      <description><![CDATA[格伦·格林沃尔德 (Glenn Greenwald) 的系统更新一集关于维基百科的建制偏见值得一看。格林沃尔德还讨论了维基百科的“可靠来源”政策如何在这方面发挥作用。
-帖子格伦·格林沃尔德 (Glenn Greenwald) 谈维基百科偏见首先出现在FiveFilters.org上。]]></description>
+      <description><![CDATA[格伦·格林瓦尔德（Glenn Greenwald）关于维基百科（Wikipedia）机构偏见的系统更新情节值得一看。格林瓦尔德还讨论了维基百科的“可靠来源”政策如何在其中发挥作用。
+ post  wikipedia bias上的Glenn Greenwald 首先出现在 fixfilters.org 。]]></description>
       <guid>https://www.fivefilters.org/2023/glenn-greenwald-on-wikipedia-bias/</guid>
       <pubDate>Mon, 14 Aug 2023 19:50:11 GMT</pubDate>
     </item>
     <item>
-      <title>Summate.it：使用 GPT 快速总结网络文章</title>
+      <title>总结：快速用GPT总结网络文章</title>
       <link>https://www.fivefilters.org/2023/summate-it-quickly-summarize-web-articles-with-gpt/</link>
-      <description><![CDATA[我们最新的工具 Summate.it 可让您概览文章的要点。只需单击一下，您就可以立即获得您感兴趣的文章的摘要，让您快速决定是否值得阅读全文。
-文章 Summate.it：使用 GPT 快速总结网络文章 首次出现在 FiveFilters.org 上。]]></description>
+      <description><![CDATA[我们的最新工具sumphate.it为您提供了文章的关键点的概述。只需单击一下，您就可以立即获得您感兴趣的文章的摘要，让您快速决定是否值得阅读全文。
+ post  summate.it：summate.it：summate.it：summate.it：sumpate.it：sumpare 快速总结   href =“ https://www.fivefilters.org”&gt; fixfilters.org 。]]></description>
       <guid>https://www.fivefilters.org/2023/summate-it-quickly-summarize-web-articles-with-gpt/</guid>
       <pubDate>Wed, 28 Jun 2023 23:23:22 GMT</pubDate>
     </item>
     <item>
-      <title>新的 Push to Kindle iOS 应用</title>
+      <title>新的推向Kindle iOS应用程序</title>
       <link>https://www.fivefilters.org/2023/new-push-to-kindle-ios-app/</link>
-      <description><![CDATA[我们在 Apple App Store 上推出了 Push to Kindle iOS 应用的新版本。Push to Kindle 可将网络文章转换为电子书，并将其发送到您的 Kindle 帐户，以获得更好的阅读体验。
-文章新 Push to Kindle iOS 应用首先出现在FiveFilters.org上。]]></description>
+      <description><![CDATA[我们已经在Apple App Store上推出了推动iOS应用的新版本。推动Kindle将网络文章转换为电子书，并将其交付给您的Kindle帐户以获得更好的阅读体验。
+ post 新推动到Kindle ios App 首先出现在&lt;a href =“]]></description>
       <guid>https://www.fivefilters.org/2023/new-push-to-kindle-ios-app/</guid>
       <pubDate>Wed, 08 Mar 2023 16:02:46 GMT</pubDate>
     </item>
     <item>
-      <title>全文 RSS 和 Feed Creator 的 PHP 8.1 和 8.2 更新</title>
+      <title>全文RSS和Feed Creator的PHP 8.1和8.2更新</title>
       <link>https://www.fivefilters.org/2022/php-8-1-and-8-2-updates-for-full-text-rss-and-feed-creator/</link>
-      <description><![CDATA[新版本的 Feed Creator 和 Full-Text RSS 现已可供自托管。它们修复了 PHP 8.1 和 8.2 的问题。
-文章 PHP 8.1 和 8.2 更新 Full-Text RSS 和 Feed Creator 首次出现在 FiveFilters.org 上。]]></description>
+      <description><![CDATA[ feed创建者和全文本RSS的新版本现在可用于自托管。他们解决了PHP 8.1和8.2的问题。
+ post  php 8.1和8.2更新，用于全-text rss和Full-Text Rss and Feed Greator  fixfilters.org 。]]></description>
       <guid>https://www.fivefilters.org/2022/php-8-1-and-8-2-updates-for-full-text-rss-and-feed-creator/</guid>
       <pubDate>Sat, 31 Dec 2022 18:17:07 GMT</pubDate>
     </item>
