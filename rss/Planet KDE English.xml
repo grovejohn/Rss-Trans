@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Mar 2025 04:41:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 16:43:50 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第2025-11周</title>
+      <link>https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Mar 2025 15:36:50 GMT</pubDate>
+    </item>
     <item>
       <title>kwin_x11和kwin_wayland split</title>
       <link>https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/?utm_source=atom_feed</link>
@@ -88,30 +95,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-2/?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Mar 2025 08:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>等离子体设计系统 -  2025年3月更新</title>
-      <link>https://anditosan.wordpress.com/2025/03/09/plasma-design-system-march-2025-update/?utm_source=atom_feed</link>
-      <description><![CDATA[  
- 
-本月回到我们的等离子体新设计系统的进度的另一个更新。 
-此更新包括：
-＆＃8211;图标选择并要求提交错误
-＆＃8211;图标审查和更改
-＆＃8211;等离子体冲刺更新
-如果您想参加像我们这样的开放设计项目，请在此处了解更多信息： https://community.kde.org/get_involve&amp;#8230 ;了解有关我们组织的更多信息：
-•Facebook：KDE社区
-•Twitter：@kdecommunity 
-•mastodon： @kde @ploss.social 
-•linkedIn：kde•reddit：r/kde 
-•lemmy：KDE社区
-•instagram：@kdecommunity 
-•YouTube：KDE社区
-•peertube：KDE通道
- 
-#FigmaIcons #IconDesign #FigmaTutorial #LearnFigma #FigmaTips #UIUXDesign #GraphicDesign #VectorArt #FigmaDesign #IconCreation #FigmaForBeginners #FigmaWorkflow #DigitalDesign #FigmaCommunity #FigmaIconDesign #DesignWithFigma #UXDesignTips #figmatipsandtricks #illustrationDesign #icondesigntorial #penpot #opensource #opendesign ]]></description>
-      <guid>https://anditosan.wordpress.com/2025/03/09/plasma-design-system-march-2025-update/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 09 Mar 2025 20:09:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
