@@ -4,13 +4,20 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 14 Mar 2025 16:43:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Mar 2025 21:15:07 GMT</lastBuildDate>
     <item>
       <title>网络评论，第2025-11周</title>
       <link>https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Mar 2025 15:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE船框架6.12.0</title>
+      <link>https://kde.org/announcements/frameworks/6/6.12.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/frameworks/6/6.12.0/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>kwin_x11和kwin_wayland split</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2025/03/10/personal-and-professional-updates-announcing-techpaladin-software/?utm_source=atom_feed</guid>
       <pubDate>Mon, 10 Mar 2025 21:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>模型/视图拖放QT中的拖放 - 第2部分</title>
-      <link>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-2/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-2/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 10 Mar 2025 08:19:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
