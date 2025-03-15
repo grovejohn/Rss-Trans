@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Mar 2025 08:40:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 12:57:06 GMT</lastBuildDate>
     <item>
       <title>本周等离子体：文件传输进度图</title>
       <link>https://blogs.kde.org/2025/03/15/this-week-in-plasma-file-transfer-progress-graphs/?utm_source=atom_feed</link>
@@ -35,6 +35,37 @@
  Digikam团队继续在更好的人工智能 digikam的集成，并且有许多部分已通过8.6.0发行版进行了改进。0.6.0。]]></description>
       <guid>https://www.digikam.org/news/2025-03-15-8.6.0_release_announcement/?utm_source=atom_feed</guid>
       <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>麸皮食谱</title>
+      <link>https://euroquis.nl/blabla/2025/03/15/bran-muffins.html?utm_source=atom_feed</link>
+      <description><![CDATA[这是一个食谱文章。我讨厌并鄙视食谱网站，但这是我经常需要的
+抬头。在加拿大措施中，即使在欧洲30年后，我仍然在烘烤。
+混合良好并在收集其余的同时站立：
+
+1½杯黑麦麸皮
+ 1 c。牛奶
+½茶匙。盐
+
+准备就绪：
+
+⅓c。石油
+ 1个鸡蛋
+
+准备就绪：
+
+⅔c。红糖
+ 1 c。面粉
+ 2茶匙。发酵粉
+½c。葡萄干
+
+混合湿。搅拌。填充松饼锅。在180℃时烘烤25分钟。制作11个松饼
+因为我的松饼锅有一个破碎的杯子。使用黑麦·布兰（Rye Bran），因为当地的风车有
+在铣削黑麦后，“剩下”作为动物饲料 - 显然很少有人
+无论如何，荷兰无论如何都使用麸皮，Rye Bran甚至更少。而不是面粉和
+发酵粉使用Zelfrijzend Bakmeel。]]></description>
+      <guid>https://euroquis.nl/blabla/2025/03/15/bran-muffins.html?utm_source=atom_feed</guid>
+      <pubDate>Fri, 14 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>网络评论，第2025-11周</title>
@@ -97,13 +128,6 @@
  post  kdenlive 24.12.3发布 target =“ _ blank”&gt; kdenlive 。]]></description>
       <guid>https://kdenlive.org/en/2025/03/kdenlive-24-12-3-released/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Mar 2025 13:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>迁移数据库</title>
-      <link>https://www.thelins.se/johan/blog/2025/03/migrating-databases/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.thelins.se/johan/blog/2025/03/migrating-databases/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Mar 2025 08:49:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
