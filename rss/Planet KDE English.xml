@@ -4,13 +4,37 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Mar 2025 04:39:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 08:40:35 GMT</lastBuildDate>
     <item>
       <title>本周等离子体：文件传输进度图</title>
       <link>https://blogs.kde.org/2025/03/15/this-week-in-plasma-file-transfer-progress-graphs/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/03/15/this-week-in-plasma-file-transfer-progress-graphs/?utm_source=atom_feed</guid>
       <pubDate>Sat, 15 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Digikam 8.6.0已发布</title>
+      <link>https://www.digikam.org/news/2025-03-15-8.6.0_release_announcement/?utm_source=atom_feed</link>
+      <description><![CDATA[  
+经过四个月的积极维护和数周的分虫虫子，Digikam团队很荣幸能够介绍其开源数字照片经理8.6.0版。
+
+ 新功能和重大更改
+
+ 面部管理更新和改进  
+ 自动标准管理 
+ 图像质量管理  
+ 红眼校正 
+
+
+ 内部组件更新  
+ 著名的错误修复 
+ 一般性 
+ 未来计划 
+ 最终单词 
+
+ Digikam团队继续在更好的人工智能 digikam的集成，并且有许多部分已通过8.6.0发行版进行了改进。0.6.0。]]></description>
+      <guid>https://www.digikam.org/news/2025-03-15-8.6.0_release_announcement/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>网络评论，第2025-11周</title>
@@ -80,21 +104,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.thelins.se/johan/blog/2025/03/migrating-databases/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Mar 2025 08:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE等离子体6.3.3，三月的BugFix发布</title>
-      <link>https://kde.org/announcements/plasma/6/6.3.3/?utm_source=atom_feed</link>
-      <description><![CDATA[ 2025年3月11日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.3。
-  plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
-此版本增加了KDE贡献者的两周价值的新翻译和修复。这些错误文件通常很小，但很重要，包括：
-
-微风：使用非全球配色方案时，请勿级联标头颜色。  commit.    
-微风：kstyle/breezetoolsareamanger.cpp：标头的菜单栏颜色。  commit
-微风：用mingw修复QT6构建回归。  commit。 target =“ _ blank”&gt;＃500106  
-
-查看完整的changelog ]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.3.3/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
