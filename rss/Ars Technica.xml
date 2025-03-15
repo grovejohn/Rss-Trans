@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Sat, 15 Mar 2025 12:57:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 15:14:39 GMT</lastBuildDate>
+    <item>
+      <title>使用真实人类肌肉细胞建造的“生物杂化”机器人手</title>
+      <link>https://arstechnica.com/science/2025/03/a-biohybrid-robotic-hand-built-using-real-human-muscle-cells/</link>
+      <description><![CDATA[一点点的机器人硬件突出了该技术的当前局限性。]]></description>
+      <guid>https://arstechnica.com/science/2025/03/a-biohybrid-robotic-hand-built-using-real-human-muscle-cells/</guid>
+      <pubDate>Sat, 15 Mar 2025 13:00:31 GMT</pubDate>
+    </item>
     <item>
       <title>时间之轮回来了第三季，我们的每周回顾也是</title>
       <link>https://arstechnica.com/features/2025/03/the-wheel-of-time-is-back-for-season-three-and-so-are-our-weekly-recaps/</link>
@@ -55,9 +62,9 @@
       <pubDate>Fri, 14 Mar 2025 20:59:02 GMT</pubDate>
     </item>
     <item>
-      <title>研究人员惊讶于工具在揭示AI的隐藏动机方面的明显成功</title>
+      <title>研究人员惊讶于工具在揭示AI的“隐藏目标”方面的明显成功</title>
       <link>https://arstechnica.com/ai/2025/03/researchers-astonished-by-tools-apparent-success-at-revealing-ais-hidden-motives/</link>
-      <description><![CDATA[人类训练AI隐藏动机，但“角色”不同。]]></description>
+      <description><![CDATA[拟人化的火车自定义AI隐藏了目标，但“角色”不同。]]></description>
       <guid>https://arstechnica.com/ai/2025/03/researchers-astonished-by-tools-apparent-success-at-revealing-ais-hidden-motives/</guid>
       <pubDate>Fri, 14 Mar 2025 20:03:41 GMT</pubDate>
     </item>
@@ -67,13 +74,6 @@
       <description><![CDATA[Google承诺在未来几个月内搬到双子座的更多详细信息。]]></description>
       <guid>https://arstechnica.com/google/2025/03/end-of-life-gemini-will-completely-replace-google-assistant-later-this-year/</guid>
       <pubDate>Fri, 14 Mar 2025 19:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我扔掉了Audible的应用程序，现在我自助了我的有声读物</title>
-      <link>https://arstechnica.com/gadgets/2025/03/i-threw-away-audibles-app-and-now-i-self-host-my-audiobooks/</link>
-      <description><![CDATA[将无DRM的有声读物流传输到没有云链的情况下。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/i-threw-away-audibles-app-and-now-i-self-host-my-audiobooks/</guid>
-      <pubDate>Fri, 14 Mar 2025 18:50:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
