@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Mar 2025 02:38:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 04:39:46 GMT</lastBuildDate>
+    <item>
+      <title>本周等离子体：文件传输进度图</title>
+      <link>https://blogs.kde.org/2025/03/15/this-week-in-plasma-file-transfer-progress-graphs/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/03/15/this-week-in-plasma-file-transfer-progress-graphs/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 15 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第2025-11周</title>
       <link>https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/?utm_source=atom_feed</link>
@@ -88,13 +95,6 @@
 查看完整的changelog ]]></description>
       <guid>https://kde.org/announcements/plasma/6/6.3.3/?utm_source=atom_feed</guid>
       <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>个人和专业更新 - 宣布TechPaladin软件</title>
-      <link>https://pointieststick.com/2025/03/10/personal-and-professional-updates-announcing-techpaladin-software/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://pointieststick.com/2025/03/10/personal-and-professional-updates-announcing-techpaladin-software/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 10 Mar 2025 21:36:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
