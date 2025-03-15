@@ -4,7 +4,17 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Mar 2025 12:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 14:37:42 GMT</lastBuildDate>
+    <item>
+      <title>KDE快照固定，谢谢您的支持</title>
+      <link>https://www.scarlettgatelymoore.dev/kde-snaps-fixed-thank-you-for-your-support/?utm_source=atom_feed</link>
+      <description><![CDATA[
+&lt;   kde吉祥物    
+谢谢大家保持灯光的时间更长的时间。 KDE快照已恢复。我还发布了24.12.3！此外，我已经移动了大多数＆＃8221;捕捉到Core24。其余的快照需要较新的QT6/KF6，这是WIP。 ＆＃8220;不幸的女孩＆＃8221;再次被损失再次受到打击，因此，在我考虑未来的选择的同时，我将减少自己的时间。我仍然在附近，少一点。 
+再次感谢大家，如果您可以再通过一次（挥之不去的手臂）手术，我将永远感激！  https://gofund.me/d59582   ]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kde-snaps-fixed-thank-you-for-your-support/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 15 Mar 2025 12:52:30 GMT</pubDate>
+    </item>
     <item>
       <title>本周等离子体：文件传输进度图</title>
       <link>https://blogs.kde.org/2025/03/15/this-week-in-plasma-file-transfer-progress-graphs/?utm_source=atom_feed</link>
@@ -110,24 +120,6 @@
 ]]></description>
       <guid>https://www.qt.io/blog/extended-security-maintenance-for-qt-5.15-begins-may-2025?utm_source=atom_feed</guid>
       <pubDate>Wed, 12 Mar 2025 07:45:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kdenlive 24.12.3发布</title>
-      <link>https://kdenlive.org/en/2025/03/kdenlive-24-12-3-released/?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-
-修复音频播放在垃圾箱夹之间切换时会断开。  commit 。请参阅bug ＃500491 。
-修复了组中单项删除的崩溃。  commit commit 。。
-修复了具有相同轨道过渡的崩溃粘贴夹（例如溶解）。  commit commit 
- 
-
-
-
-
- post  kdenlive 24.12.3发布 target =“ _ blank”&gt; kdenlive 。]]></description>
-      <guid>https://kdenlive.org/en/2025/03/kdenlive-24-12-3-released/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 11 Mar 2025 13:38:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
