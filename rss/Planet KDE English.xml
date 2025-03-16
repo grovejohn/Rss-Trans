@@ -4,12 +4,12 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Mar 2025 18:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 22:37:58 GMT</lastBuildDate>
     <item>
       <title>carconnectivity and id.buzz</title>
       <link>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</link>
       <description><![CDATA[我刚刚得到了一辆全新的汽车：一个座位的ID.Buzz，可以一次适合整个家庭。我对这辆车非常满意，但是由于它具有连通性，我想看看是否可以将其集成到乡亲中。
-为此，我想使用直到steinbach 。这是一个有几个部分的Python软件包。 The main project, a Volkswagen connector, an  mqtt桥和a 乡亲的mqtt发现助手。
+为此，我想使用直到steinbach 。这是一个有几个部分的Python软件包。 主要项目， mqtt桥和a 乡亲的mqtt发现助手。
 使用了一些软件（并报告了一个错误，直到固定了ASAP＆＃8211; i＆＃8217; m Implact！）我决定在我在房子周围使用的一些小服务的小raspberrypi上设置整个内容。&gt; 
 准备此操作，我设置了一个新用户，并将软件安装在Python虚拟环境中：
   sudo adduser carconnnectivity
@@ -81,6 +81,13 @@ wantby =多用户.target
       <pubDate>Sun, 16 Mar 2025 17:09:25 GMT</pubDate>
     </item>
     <item>
+      <title>框架13 AMD设置与FreeBSD</title>
+      <link>https://euroquis.nl/freebsd/2025/03/16/framework.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://euroquis.nl/freebsd/2025/03/16/framework.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 15 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>KDE快照固定，谢谢您的支持</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snaps-fixed-thank-you-for-your-support/?utm_source=atom_feed</link>
       <description><![CDATA[
@@ -148,7 +155,10 @@ wantby =多用户.target
 因为我的松饼锅有一个破碎的杯子。使用黑麦·布兰（Rye Bran），因为当地的风车有
 在铣削黑麦后，“剩下”作为动物饲料 - 显然很少有人
 无论如何，荷兰无论如何都使用麸皮，Rye Bran甚至更少。而不是面粉和
-发酵粉使用Zelfrijzend Bakmeel。]]></description>
+发酵粉使用 zelfrijzend bakmeel 。
+
+编辑：将糖减少到½杯，然后加1汤匙。糖蜜以改善风味和颜色并减少甜味。
+]]></description>
       <guid>https://euroquis.nl/blabla/2025/03/15/bran-muffins.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Mar 2025 23:00:00 GMT</pubDate>
     </item>
@@ -180,13 +190,6 @@ wantby =多用户.target
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-16-released?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Mar 2025 11:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>思考QT</title>
-      <link>https://blog.broulik.de/2025/03/pondering-qt/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.broulik.de/2025/03/pondering-qt/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 12 Mar 2025 08:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
