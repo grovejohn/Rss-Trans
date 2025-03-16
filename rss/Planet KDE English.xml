@@ -4,7 +4,82 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 15 Mar 2025 14:37:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 18:43:48 GMT</lastBuildDate>
+    <item>
+      <title>carconnectivity and id.buzz</title>
+      <link>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</link>
+      <description><![CDATA[我刚刚得到了一辆全新的汽车：一个座位的ID.Buzz，可以一次适合整个家庭。我对这辆车非常满意，但是由于它具有连通性，我想看看是否可以将其集成到乡亲中。
+为此，我想使用直到steinbach 。这是一个有几个部分的Python软件包。 The main project, a Volkswagen connector, an  mqtt桥和a 乡亲的mqtt发现助手。
+使用了一些软件（并报告了一个错误，直到固定了ASAP＆＃8211; i＆＃8217; m Implact！）我决定在我在房子周围使用的一些小服务的小raspberrypi上设置整个内容。&gt; 
+准备此操作，我设置了一个新用户，并将软件安装在Python虚拟环境中：
+  sudo adduser carconnnectivity
+sudo su carconnectivity
+光盘
+mkdir carconnectivity
+CD CARCONNECTIVITITY/
+Python -M Venv Venv
+来源VENV/bin/activate
+pip安装carconnectivity-connector-volkswagen == 0.5a1 carconnnectivity-plugin-mqtt carconnectivity-plugin-mqtt_homeassistant
+vim carconnectivity.json  
+使用 vim 命令，我创建了Carconnectivity配置文件。根据您的需求，将用户名，密码和IPS更新。我将尝试 Interval 参数，因为我不想通过过多查询汽车来放电12V电池。
+ ＆＃123;
+        “ Carconnectivity”：＆＃123;
+                “ log_level”：“错误”，
+                “连接器”：＆＃91;
+                        ＆＃123;
+                                “ type”：“大众”，
+                                “ config”：＆＃123;
+                                        “间隔”：1800，
+                                        “用户名”：“ hello@example.com”，
+                                        “密码”：“秘密”
+                                }
+                        }
+                ]，，
+                “插件”：＆＃91;
+                        ＆＃123;
+                                “ type”：“ mqtt”，
+                                “ config”：＆＃123;
+                                        “经纪人”：“ my-mqtt.local”，
+                                        “用户名”：“用户”，
+                                        “密码”：“秘密”
+                                }
+                        }，，
+                        ＆＃123;
+                                “ type”：“ mqtt_homeassistant”，
+                                “ config”：＆＃123;}
+                        }
+                这是给出的
+        }
+}
+ 
+配置了服务（并手动运行以解决我的错误），我创建了下面显示的 carconnectivity.service  SystemD服务（/etc/etc/etc/systemd/systemd/system ）：）
+
+
+
+ ＆＃91; unit]
+描述=汽车连接到MQTT
+after = network-online.target
+
+＆＃91;服务]
+类型=简单
+用户= Carconnectivity
+组= Carconnectivity
+workingDirectory =/home/carconnnectivity/carconnnectivity/
+环境=“ lc_all = sv_se”
+execstart =/home/carconnectivity/carconnectivity/venv/bin/carconnectivity-mqtt/home/carconnectivity/carconnectivity/carconnectivitivitivity/carconnectivity.json
+
+＆＃91;安装]
+wantby =多用户.target
+ 
+然后我开始并启用了服务。
+  sudo systemctl启动carconnnectivity  sudo systemctl启用carconnectivity   
+最后，我看了状态，并确保一切看起来还不错。
+  sudo systemctl状态carconnnnectivity  
+和中提琴，这辆车在家庭助理中以设备的形式出现。魔术！
+   ]]></description>
+      <guid>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 16 Mar 2025 17:09:25 GMT</pubDate>
+    </item>
     <item>
       <title>KDE快照固定，谢谢您的支持</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snaps-fixed-thank-you-for-your-support/?utm_source=atom_feed</link>
@@ -112,14 +187,6 @@
       <description><![CDATA[]]></description>
       <guid>https://blog.broulik.de/2025/03/pondering-qt/?utm_source=atom_feed</guid>
       <pubDate>Wed, 12 Mar 2025 08:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>QT 5.15的扩展安全维护时间于2025年5月开始</title>
-      <link>https://www.qt.io/blog/extended-security-maintenance-for-qt-5.15-begins-may-2025?utm_source=atom_feed</link>
-      <description><![CDATA[  QT 5.15的标准支持将在2025年5月26日之后结束， ， 如前所述 。 在支持期之后，该版本将在EOS（支持的结束）状态中，并且只能通过其他服务来支持，包括QT 5.15的扩展安全维护，扩展支持和专业服务。客户使用QT 5.15软件分发应用程序和嵌入式设备应评估如何访问可能包括安全修复程序的技术支持和维护补丁。支持结束后仍然适用的标准广告条款。
-]]></description>
-      <guid>https://www.qt.io/blog/extended-security-maintenance-for-qt-5.15-begins-may-2025?utm_source=atom_feed</guid>
-      <pubDate>Wed, 12 Mar 2025 07:45:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
