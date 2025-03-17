@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 17 Mar 2025 18:44:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 20:39:18 GMT</lastBuildDate>
     <item>
       <title>本周在KDE应用程序中</title>
       <link>https://blogs.kde.org/2025/03/17/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -16,7 +16,7 @@
       <title>carconnectivity and id.buzz</title>
       <link>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</link>
       <description><![CDATA[我刚刚得到了一辆全新的汽车：一个座位的ID.Buzz，可以一次适合整个家庭。我对这辆车非常满意，但是由于它具有连通性，我想看看是否可以将其集成到乡亲中。
-为此，我想使用直到steinbach 。这是一个有几个部分的Python软件包。 The main project, a Volkswagen connector, an  mqtt桥和a 乡亲的mqtt发现助手。
+为此，我想使用直到steinbach 。这是一个有几个部分的Python软件包。 主要项目， mqtt桥和a 乡亲的mqtt发现助手。
 使用了一些软件（并报告了一个错误，直到固定了ASAP＆＃8211; i＆＃8217; m Implact！）我决定在我在房子周围使用的一些小服务的小raspberrypi上设置整个内容。&gt; 
 准备此操作，我设置了一个新用户，并将软件安装在Python虚拟环境中：
   sudo adduser carconnnectivity
@@ -86,6 +86,17 @@ wantby =多用户.target
    ]]></description>
       <guid>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</guid>
       <pubDate>Sun, 16 Mar 2025 17:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fossasia Summit 2025</title>
+      <link>https://soumyadghosh.github.io/website/blog/fossasia-summit-2025/?utm_source=atom_feed</link>
+      <description><![CDATA[ 
+友好的国家，友好的人，聚会，新经验，忙碌的生活！
+所以，这是我的第四届会议和第三次国际旅行！很多新的经历和新朋友，但让我谈论Fossasia Summit 2025首先。
+ Fossasia Summit 2025 
+这是我执行许多不同任务的第一次会议，闪电演讲，代表Ubuntu Booth和Kde Booth。因此，许多不同的观点将在这里。有时我会从kde＆rsquo os pov写作，有时是ubuntu＆rsquo＆rsquo＆rsquo os。]]></description>
+      <guid>https://soumyadghosh.github.io/website/blog/fossasia-summit-2025/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 16 Mar 2025 07:34:20 GMT</pubDate>
     </item>
     <item>
       <title>框架13 AMD设置与FreeBSD</title>
@@ -182,13 +193,6 @@ wantby =多用户.target
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.12.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>kwin_x11和kwin_wayland split</title>
-      <link>https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 13 Mar 2025 17:26:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
