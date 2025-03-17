@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 16 Mar 2025 22:37:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 10:43:04 GMT</lastBuildDate>
+    <item>
+      <title>本周在KDE应用程序中</title>
+      <link>https://blogs.kde.org/2025/03/17/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/03/17/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 17 Mar 2025 09:03:35 GMT</pubDate>
+    </item>
     <item>
       <title>carconnectivity and id.buzz</title>
       <link>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</link>
@@ -182,14 +189,6 @@ wantby =多用户.target
       <description><![CDATA[]]></description>
       <guid>https://blog.vladzahorodnii.com/2025/03/13/kwin_x11-and-kwin_wayland-split/?utm_source=atom_feed</guid>
       <pubDate>Thu, 13 Mar 2025 17:26:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>QT Creator 16发布</title>
-      <link>https://www.qt.io/blog/qt-creator-16-released?utm_source=atom_feed</link>
-      <description><![CDATA[ 我们很乐意宣布QT Creator 16的发布！ 
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-16-released?utm_source=atom_feed</guid>
-      <pubDate>Thu, 13 Mar 2025 11:29:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
