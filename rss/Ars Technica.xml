@@ -4,9 +4,23 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Mon, 17 Mar 2025 18:22:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 19:37:23 GMT</lastBuildDate>
     <item>
-      <title>本月的Windows更新正在删除Copilot应用程序（偶然地）</title>
+      <title>特朗普计划为马斯克的星际链接资助美国农村的“背叛”的纤维</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/trump-plan-to-fund-musks-starlink-over-fiber-called-betrayal-of-rural-us/</link>
+      <description><![CDATA[计划毁了420亿美元的宽带基金的董事正在毁灭。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/trump-plan-to-fund-musks-starlink-over-fiber-called-betrayal-of-rural-us/</guid>
+      <pubDate>Mon, 17 Mar 2025 18:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>70k移动应用程序的清醒收入统计数据显示了为什么开发率beg进行订阅</title>
+      <link>https://arstechnica.com/gadgets/2025/03/sobering-revenue-stats-of-70k-mobile-apps-show-why-devs-beg-for-subscriptions/</link>
+      <description><![CDATA[大多数应用程序在两年内未能达到$ 1,000/月的收入。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/sobering-revenue-stats-of-70k-mobile-apps-show-why-devs-beg-for-subscriptions/</guid>
+      <pubDate>Mon, 17 Mar 2025 18:00:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11更新偶然地摆脱了副驾驶，至少目前</title>
       <link>https://arstechnica.com/gadgets/2025/03/this-months-windows-updates-are-removing-the-copilot-app-accidentally/</link>
       <description><![CDATA[如果您想要的话，可以从Microsoft Store重新安装Copilot。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/03/this-months-windows-updates-are-removing-the-copilot-app-accidentally/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[使用自定义套件制作预算EV提供一些紧急功率。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/03/old-bolt-new-tricks-making-an-ev-into-a-backup-power-station-with-an-inverter/</guid>
       <pubDate>Mon, 17 Mar 2025 11:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型企业在供应链攻击后争先恐后地溢出了他们的秘密</title>
-      <link>https://arstechnica.com/information-technology/2025/03/supply-chain-attack-exposing-credentials-affects-23k-users-of-tj-actions/</link>
-      <description><![CDATA[TJ-Actions/更换文件损坏以运行凭证偷窃记忆刮板。]]></description>
-      <guid>https://arstechnica.com/information-technology/2025/03/supply-chain-attack-exposing-credentials-affects-23k-users-of-tj-actions/</guid>
-      <pubDate>Mon, 17 Mar 2025 02:24:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>幕后电状态</title>
-      <link>https://arstechnica.com/culture/2025/03/behind-the-scenes-of-the-electric-state/</link>
-      <description><![CDATA[制作设计师丹尼斯·加斯纳（Dennis Gassner）：“我有一个后备职位：如有疑问，使它变得美丽。”]]></description>
-      <guid>https://arstechnica.com/culture/2025/03/behind-the-scenes-of-the-electric-state/</guid>
-      <pubDate>Sat, 15 Mar 2025 15:44:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
