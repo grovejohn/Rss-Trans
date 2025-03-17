@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Sun, 16 Mar 2025 19:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 03:50:14 GMT</lastBuildDate>
+    <item>
+      <title>大型企业在供应链攻击后争先恐后地溢出了他们的秘密</title>
+      <link>https://arstechnica.com/information-technology/2025/03/supply-chain-attack-exposing-credentials-affects-23k-users-of-tj-actions/</link>
+      <description><![CDATA[tj-actions/更改文件，损坏以运行凭证偷窃记忆刮板。]]></description>
+      <guid>https://arstechnica.com/information-technology/2025/03/supply-chain-attack-exposing-credentials-affects-23k-users-of-tj-actions/</guid>
+      <pubDate>Mon, 17 Mar 2025 02:24:09 GMT</pubDate>
+    </item>
     <item>
       <title>幕后电状态</title>
       <link>https://arstechnica.com/culture/2025/03/behind-the-scenes-of-the-electric-state/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[亚马逊正在为新订阅助理杀死Bolster Alexa+的隐私功能。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/</guid>
       <pubDate>Fri, 14 Mar 2025 20:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员惊讶于工具在揭示AI的“隐藏目标”方面的明显成功</title>
-      <link>https://arstechnica.com/ai/2025/03/researchers-astonished-by-tools-apparent-success-at-revealing-ais-hidden-motives/</link>
-      <description><![CDATA[拟人化的火车自定义AI隐藏了目标，但“角色”不同。]]></description>
-      <guid>https://arstechnica.com/ai/2025/03/researchers-astonished-by-tools-apparent-success-at-revealing-ais-hidden-motives/</guid>
-      <pubDate>Fri, 14 Mar 2025 20:03:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
