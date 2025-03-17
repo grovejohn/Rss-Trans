@@ -4,9 +4,16 @@
     <title>来自Space.com的最新信息</title>
     <link>https://www.space.com/feeds/all</link>
     <description>Space.com团队的所有最新内容</description>
-    <lastBuildDate>Mon, 17 Mar 2025 12:33:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 13:26:22 GMT</lastBuildDate>
     <item>
-      <title>火箭实验室今晚推出5个“物联网”卫星：现场观看</title>
+      <title>地球如何得到如此奇怪的月亮？探索巨大的影响理论</title>
+      <link>https://www.space.com/the-universe/moon/how-did-earth-get-such-a-strange-moon-exploring-the-giant-impact-theory</link>
+      <description><![CDATA[月亮与太阳系中的其他不同之处。那么，我们的星球如何以如此特殊的月球结束？]]></description>
+      <guid>https://www.space.com/the-universe/moon/how-did-earth-get-such-a-strange-moon-exploring-the-giant-impact-theory</guid>
+      <pubDate>Mon, 17 Mar 2025 13:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>火箭实验室今晚在电子上发射5个“物联网”卫星：现场观看</title>
       <link>https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-kineis-internet-of-things-high-five-launch</link>
       <description><![CDATA[Rocket Lab计划今晚（3月17日）为法国公司Kinéis推出五个“物联网”卫星，您可以现场观看动作。]]></description>
       <guid>https://www.space.com/space-exploration/launches-spacecraft/rocket-lab-kineis-internet-of-things-high-five-launch</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[大胆的NASA任务表明，从格陵兰岛向北吹出的尘埃可以解释为什么北极冰的融化速度甚至比预期的要快。]]></description>
       <guid>https://www.space.com/the-universe/climate-change/arctic-ice-is-melting-faster-than-expected-and-the-culprit-could-be-dust</guid>
       <pubDate>Sun, 16 Mar 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在太空播客中：第152集 - 原子火箭II：核电动Boogaloo</title>
-      <link>https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-152-atomic-rockets-ii-nuclear-electric-boogaloo</link>
-      <description><![CDATA[在本周太空的第152集中，罗德·皮尔（Rod Pyle）和塔里克·马利克（Tariq Malik）主持人罗伯特·奥布赖恩（Robert O&#39;Brien]]></description>
-      <guid>https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-152-atomic-rockets-ii-nuclear-electric-boogaloo</guid>
-      <pubDate>Sat, 15 Mar 2025 15:30:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
