@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Mon, 17 Mar 2025 03:50:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Mar 2025 12:33:27 GMT</lastBuildDate>
+    <item>
+      <title>旧螺栓，新技巧：将电动汽车带入带有逆变器的备用电站</title>
+      <link>https://arstechnica.com/gadgets/2025/03/old-bolt-new-tricks-making-an-ev-into-a-backup-power-station-with-an-inverter/</link>
+      <description><![CDATA[使用自定义套件制作预算EV提供一些紧急功率。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/old-bolt-new-tricks-making-an-ev-into-a-backup-power-station-with-an-inverter/</guid>
+      <pubDate>Mon, 17 Mar 2025 11:00:22 GMT</pubDate>
+    </item>
     <item>
       <title>大型企业在供应链攻击后争先恐后地溢出了他们的秘密</title>
       <link>https://arstechnica.com/information-technology/2025/03/supply-chain-attack-exposing-credentials-affects-23k-users-of-tj-actions/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[自2000年以来，当麻疹从我们身上消除时，只有三年的病例较高。]]></description>
       <guid>https://arstechnica.com/health/2025/03/us-measles-cases-reach-5-year-high-15-states-report-cases-texas-outbreak-grows/</guid>
       <pubDate>Fri, 14 Mar 2025 21:43:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>从3月28日开始，您对回声说的一切都将发送到亚马逊</title>
-      <link>https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/</link>
-      <description><![CDATA[亚马逊正在为新订阅助理杀死Bolster Alexa+的隐私功能。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/everything-you-say-to-your-echo-will-be-sent-to-amazon-starting-on-march-28/</guid>
-      <pubDate>Fri, 14 Mar 2025 20:59:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
