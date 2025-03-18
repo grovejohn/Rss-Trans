@@ -4,7 +4,21 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Tue, 18 Mar 2025 14:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 15:18:38 GMT</lastBuildDate>
+    <item>
+      <title>削减美国农业部可能会打开入侵物种，较高的食品价格</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/doge-cuts-to-usda-may-open-door-to-invasive-species-higher-food-prices/</link>
+      <description><![CDATA[食物检查员和杀病狗的处理者作为食物毒品仍然失业。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/doge-cuts-to-usda-may-open-door-to-invasive-species-higher-food-prices/</guid>
+      <pubDate>Tue, 18 Mar 2025 14:13:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>新电动汽车电池拥有5分钟的充电时间，增加了250英里的范围</title>
+      <link>https://arstechnica.com/cars/2025/03/new-ev-battery-boasts-5-min-charge-time-adding-250-miles-of-range/</link>
+      <description><![CDATA[新电池可以以10摄氏度充电，快速充电器的峰值达到1,000 kW。]]></description>
+      <guid>https://arstechnica.com/cars/2025/03/new-ev-battery-boasts-5-min-charge-time-adding-250-miles-of-range/</guid>
+      <pubDate>Tue, 18 Mar 2025 14:12:13 GMT</pubDate>
+    </item>
     <item>
       <title>甚至最糟糕的巨大灭绝也有绿洲</title>
       <link>https://arstechnica.com/science/2025/03/even-the-worst-mass-extinction-had-its-oases/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>告别photoshop？ Google的新AI使您可以通过询问编辑图像。</title>
       <link>https://arstechnica.com/ai/2025/03/farewell-photoshop-googles-new-ai-lets-you-edit-images-by-asking/</link>
-      <description><![CDATA[新的AI允许无技能照片编辑，包括添加对象和删除水印。]]></description>
+      <description><![CDATA[新的实验AI允许无技能照片编辑，包括删除水印。但这不是完美的。]]></description>
       <guid>https://arstechnica.com/ai/2025/03/farewell-photoshop-googles-new-ai-lets-you-edit-images-by-asking/</guid>
       <pubDate>Tue, 18 Mar 2025 11:15:35 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[计划毁了420亿美元的宽带基金的董事正在毁灭。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/03/trump-plan-to-fund-musks-starlink-over-fiber-called-betrayal-of-rural-us/</guid>
       <pubDate>Mon, 17 Mar 2025 18:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>70k移动应用程序的清醒收入统计数据显示了为什么开发率beg进行订阅</title>
-      <link>https://arstechnica.com/gadgets/2025/03/sobering-revenue-stats-of-70k-mobile-apps-show-why-devs-beg-for-subscriptions/</link>
-      <description><![CDATA[大多数应用程序在两年内未能达到$ 1,000/月的收入。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/sobering-revenue-stats-of-70k-mobile-apps-show-why-devs-beg-for-subscriptions/</guid>
-      <pubDate>Mon, 17 Mar 2025 18:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11更新偶然地摆脱了副驾驶，至少目前</title>
-      <link>https://arstechnica.com/gadgets/2025/03/this-months-windows-updates-are-removing-the-copilot-app-accidentally/</link>
-      <description><![CDATA[如果您想要的话，可以从Microsoft Store重新安装Copilot。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/this-months-windows-updates-are-removing-the-copilot-app-accidentally/</guid>
-      <pubDate>Mon, 17 Mar 2025 17:56:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
