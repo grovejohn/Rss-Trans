@@ -4,7 +4,15 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Mar 2025 04:42:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 14:43:25 GMT</lastBuildDate>
+    <item>
+      <title>QT创建者16- cmake更新</title>
+      <link>https://www.qt.io/blog/qt-creator-16-cmake-update?utm_source=atom_feed</link>
+      <description><![CDATA[这是QT创建者16中的新Cmake更改：
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-16-cmake-update?utm_source=atom_feed</guid>
+      <pubDate>Thu, 20 Mar 2025 14:28:58 GMT</pubDate>
+    </item>
     <item>
       <title>FreeBSD中的NFS设置</title>
       <link>https://euroquis.nl/freebsd/2025/03/18/nfs.html?utm_source=atom_feed</link>
@@ -186,13 +194,6 @@ wantby =多用户.target
 ]]></description>
       <guid>https://euroquis.nl/blabla/2025/03/15/bran-muffins.html?utm_source=atom_feed</guid>
       <pubDate>Fri, 14 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络评论，第2025-11周</title>
-      <link>https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://ervin.ipsquad.net/blog/2025/03/14/web-review-week-2025-11/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 14 Mar 2025 15:36:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
