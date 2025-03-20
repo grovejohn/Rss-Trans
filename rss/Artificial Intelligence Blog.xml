@@ -4,7 +4,7 @@
     <title>人工智能博客和新闻•AI新闻•AI博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Mar 2025 02:42:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 03:27:16 GMT</lastBuildDate>
     <item>
       <title>免费的GPT和助手的本地破布刮板</title>
       <link>https://www.artificial-intelligence.blog/ai-news/free-local-rag-scraper-for-gpts-and-assistants</link>
@@ -12,12 +12,7 @@
 此Web刮板完全在您的浏览器中运行，非常适合为AI模型创建培训数据。它通过阅读网站的stitemap.xml文件来工作，这使其特别适合Squarespace和Shopify等现代平台，并自动生成站点地点。
 刮板保留了内容的结构，包括标题，段落，列表和表格，同时删除了不必要的元素，例如导航菜单和页脚。它还捕获元数据，图像和PDF文档。
  更多技术细节 
-此刮板使用CORS代理来访问网站。使用之前：
-
-访问 cors cor thewhere demo 在新的选项卡中
-单击按钮临时启用演示服务器
-返回此页面并开始刮擦
-
+此刮板使用CORS代理来访问网站。无需其他设置。
 刮板将：
 
 阅读网站的SiteMap.xml以查找所有页面
