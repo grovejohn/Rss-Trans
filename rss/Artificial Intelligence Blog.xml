@@ -4,7 +4,47 @@
     <title>人工智能博客和新闻•AI新闻•AI博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Tue, 18 Mar 2025 21:15:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 02:42:36 GMT</lastBuildDate>
+    <item>
+      <title>免费的GPT和助手的本地破布刮板</title>
+      <link>https://www.artificial-intelligence.blog/ai-news/free-local-rag-scraper-for-gpts-and-assistants</link>
+      <description><![CDATA[ 我们目前正在测试此工具，并在准备好时会告诉您！ 
+此Web刮板完全在您的浏览器中运行，非常适合为AI模型创建培训数据。它通过阅读网站的stitemap.xml文件来工作，这使其特别适合Squarespace和Shopify等现代平台，并自动生成站点地点。
+刮板保留了内容的结构，包括标题，段落，列表和表格，同时删除了不必要的元素，例如导航菜单和页脚。它还捕获元数据，图像和PDF文档。
+ 更多技术细节 
+此刮板使用CORS代理来访问网站。使用之前：
+
+访问 cors cor thewhere demo 在新的选项卡中
+单击按钮临时启用演示服务器
+返回此页面并开始刮擦
+
+刮板将：
+
+阅读网站的SiteMap.xml以查找所有页面
+在保留内容结构时处理每个页面
+生成带有所有内容的Markdown文件
+允许您在保存之前预览每个页面的内容
+
+
+开始刮擦
+保存markdown 
+        
+        准备开始
+        
+            
+        
+        
+        
+        
+            
+                
+                    &lt;=“ aicpagesElector”的标签&gt;选择页面：
+
+尚未刮擦的页面
+]]></description>
+      <guid>https://www.artificial-intelligence.blog/ai-news/free-local-rag-scraper-for-gpts-and-assistants</guid>
+      <pubDate>Thu, 20 Mar 2025 02:11:01 GMT</pubDate>
+    </item>
     <item>
       <title>每个人都放弃了AI安全，现在呢？</title>
       <link>https://www.artificial-intelligence.blog/ai-news/everyone-has-given-up-on-ai-safety-now-what</link>
@@ -86,14 +126,6 @@
 进步。]]></description>
       <guid>https://www.artificial-intelligence.blog/ai-news/the-intelligence-age</guid>
       <pubDate>Mon, 23 Sep 2024 22:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过静态宇宙中的角几何形状的宇宙红移的几何模型</title>
-      <link>https://www.artificial-intelligence.blog/ai-news/a-geometric-model-of-cosmological-redshift-via-angular-geometry-in-a-static-universe</link>
-      <description><![CDATA[引入了一个几何模型，该模型通过角度解释了宇宙的红移 
-静态宇宙中的几何形状，将红移归因于几何效应。]]></description>
-      <guid>https://www.artificial-intelligence.blog/ai-news/a-geometric-model-of-cosmological-redshift-via-angular-geometry-in-a-static-universe</guid>
-      <pubDate>Fri, 13 Sep 2024 03:45:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
