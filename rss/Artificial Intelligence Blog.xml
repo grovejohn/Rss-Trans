@@ -4,21 +4,104 @@
     <title>人工智能博客和新闻•AI新闻•AI博客</title>
     <link>https://www.artificial-intelligence.blog/ai-news/</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Mar 2025 03:27:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 06:22:58 GMT</lastBuildDate>
     <item>
-      <title>免费的GPT和助手的本地破布刮板</title>
+      <title>自定义GPT和助理的免费本地破布刮板</title>
       <link>https://www.artificial-intelligence.blog/ai-news/free-local-rag-scraper-for-gpts-and-assistants</link>
-      <description><![CDATA[ 我们目前正在测试此工具，并在准备好时会告诉您！ 
-此Web刮板完全在您的浏览器中运行，非常适合为AI模型创建培训数据。它通过阅读网站的stitemap.xml文件来工作，这使其特别适合Squarespace和Shopify等现代平台，并自动生成站点地点。
-刮板保留了内容的结构，包括标题，段落，列表和表格，同时删除了不必要的元素，例如导航菜单和页脚。它还捕获元数据，图像和PDF文档。
- 更多技术细节 
-此刮板使用CORS代理来访问网站。无需其他设置。
-刮板将：
+      <description><![CDATA[  tl; Dr Scrape Squarespace/Shopify网站与AI  一起使用
 
-阅读网站的SiteMap.xml以查找所有页面
-在保留内容结构时处理每个页面
-生成带有所有内容的Markdown文件
-允许您在保存之前预览每个页面的内容
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    
+
+      
+
+      
+        
+
+
+此Web刮板完全在您的浏览器中运行，非常适合为AI模型创建培训数据。 It works by reading the website&#39;s sitemap.xml file, making it particularly well-suited for modern platforms like Squarespace and Shopify that automatically generate sitemaps.The scraper preserves the structure of your content, including headings, paragraphs, lists, and tables, while removing unnecessary elements like navigation menus and footers.它还捕获元数据，图像和PDF文档。
+
+
+
+”&gt;
+          
+            技术细节
+          
+
+
+此刮板使用CORS代理来访问网站。无需其他设置。 刮板将：   阅读网站的SiteMap.xml以查找所有页面。它在浏览器中运行，并且您的所有信息都不存储在服务器上。   在保留内容结构时处理每个页面。   生成带有所有内容的标记文件。您可以将此文件作为知识添加到自定义GPT或将其连接到AI助手。   允许您在保存之前预览每个页面的内容。   
+
 
 
 开始刮擦
@@ -36,7 +119,15 @@
                     &lt;=“ aicpagesElector”的标签&gt;选择页面：
 
 尚未刮擦的页面
-]]></description>
+
+                
+            
+            
+        
+    ＆nbsp;
+
+
+  光标AI在开发此应用程序时做了大部分繁重的举重。 如果您有改进建议，请在评论中分享它们。]]></description>
       <guid>https://www.artificial-intelligence.blog/ai-news/free-local-rag-scraper-for-gpts-and-assistants</guid>
       <pubDate>Thu, 20 Mar 2025 02:11:01 GMT</pubDate>
     </item>
