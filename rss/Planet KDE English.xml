@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 24 Mar 2025 13:44:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 20:38:18 GMT</lastBuildDate>
     <item>
       <title>本周在KDE应用程序中</title>
       <link>https://blogs.kde.org/2025/03/24/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -50,13 +50,6 @@
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/03/21/web-review-week-2025-12/?utm_source=atom_feed</guid>
       <pubDate>Fri, 21 Mar 2025 12:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>许多2025的第2部分</title>
-      <link>https://nidhishchauhan.onrender.com/blog/SOK-2025?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://nidhishchauhan.onrender.com/blog/SOK-2025?utm_source=atom_feed</guid>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>FreeBSD中的NFS设置</title>
@@ -146,6 +139,17 @@ wantby =多用户.target
    ]]></description>
       <guid>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</guid>
       <pubDate>Sun, 16 Mar 2025 17:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fossasia Summit 2025</title>
+      <link>https://soumyadghosh.github.io/website/blog/fossasia-summit-2025/?utm_source=atom_feed</link>
+      <description><![CDATA[ 
+友好的国家，友好的人，聚会，新经验，忙碌的生活！
+所以，这是我的第四届会议和第三次国际旅行！很多新的经历和新朋友，但让我谈论Fossasia Summit 2025首先。
+ Fossasia Summit 2025 
+这是我执行许多不同任务的第一次会议，闪电演讲，代表Ubuntu Booth和Kde Booth。因此，许多不同的观点将在这里。有时我会从kde＆rsquo os pov写作，有时是ubuntu＆rsquo＆rsquo＆rsquo os。]]></description>
+      <guid>https://soumyadghosh.github.io/website/blog/fossasia-summit-2025/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 16 Mar 2025 07:34:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
