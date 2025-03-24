@@ -4,14 +4,59 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 20 Mar 2025 14:43:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Mar 2025 13:44:11 GMT</lastBuildDate>
     <item>
-      <title>QT创建者16- cmake更新</title>
-      <link>https://www.qt.io/blog/qt-creator-16-cmake-update?utm_source=atom_feed</link>
-      <description><![CDATA[这是QT创建者16中的新Cmake更改：
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-16-cmake-update?utm_source=atom_feed</guid>
-      <pubDate>Thu, 20 Mar 2025 14:28:58 GMT</pubDate>
+      <title>本周在KDE应用程序中</title>
+      <link>https://blogs.kde.org/2025/03/24/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/03/24/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 24 Mar 2025 09:52:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>freeBSD上的KDE等离子体6上的框架13</title>
+      <link>https://euroquis.nl/freebsd/2025/03/23/framework.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://euroquis.nl/freebsd/2025/03/23/framework.html?utm_source=atom_feed</guid>
+      <pubDate>Sat, 22 Mar 2025 23:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>本周在血浆中：6.4改进</title>
+      <link>https://blogs.kde.org/2025/03/22/this-week-in-plasma-6.4-improvements/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/03/22/this-week-in-plasma-6.4-improvements/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 22 Mar 2025 03:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>库尔纳瓦巴和我</title>
+      <link>https://akselmo.dev/posts/visual-woes/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://akselmo.dev/posts/visual-woes/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>专业更新和等离子移动NGI0核心赠款</title>
+      <link>https://blog.bshah.in/2025/03/22/professional-update-plasma-mobile-ngi0-core-grant/?utm_source=atom_feed</link>
+      <description><![CDATA[专业更新
+我有加入mbrdi 在2021年6月，经过近4年，我决定
+但是，这不是我唯一想谈论的专业更新，我想谈谈另一个激动人心的机会，
+ ngi0核心授予
+我很高兴地宣布，我将通过 ngi0 core 资金 nlnet 在欧洲委员会的财政支持下，下一代Internet  program。您可以在此页面上找到非常薄的详细信息。尽管这不是唯一通过NGI0核心基金资助的项目，但总共有 56个项目作为10月份的call call ]]></description>
+      <guid>https://blog.bshah.in/2025/03/22/professional-update-plasma-mobile-ngi0-core-grant/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络评论，第2025-12周</title>
+      <link>https://ervin.ipsquad.net/blog/2025/03/21/web-review-week-2025-12/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/03/21/web-review-week-2025-12/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 21 Mar 2025 12:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>许多2025的第2部分</title>
+      <link>https://nidhishchauhan.onrender.com/blog/SOK-2025?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://nidhishchauhan.onrender.com/blog/SOK-2025?utm_source=atom_feed</guid>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>FreeBSD中的NFS设置</title>
@@ -101,99 +146,6 @@ wantby =多用户.target
    ]]></description>
       <guid>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</guid>
       <pubDate>Sun, 16 Mar 2025 17:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fossasia Summit 2025</title>
-      <link>https://soumyadghosh.github.io/website/blog/fossasia-summit-2025/?utm_source=atom_feed</link>
-      <description><![CDATA[ 
-友好的国家，友好的人，聚会，新经验，忙碌的生活！
-所以，这是我的第四届会议和第三次国际旅行！很多新的经历和新朋友，但让我谈论Fossasia Summit 2025首先。
- Fossasia Summit 2025 
-这是我执行许多不同任务的第一次会议，闪电演讲，代表Ubuntu Booth和Kde Booth。因此，许多不同的观点将在这里。有时我会从kde＆rsquo os pov写作，有时是ubuntu＆rsquo＆rsquo＆rsquo os。]]></description>
-      <guid>https://soumyadghosh.github.io/website/blog/fossasia-summit-2025/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 16 Mar 2025 07:34:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>框架13 AMD设置与FreeBSD</title>
-      <link>https://euroquis.nl/freebsd/2025/03/16/framework.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://euroquis.nl/freebsd/2025/03/16/framework.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 15 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE快照固定，谢谢您的支持</title>
-      <link>https://www.scarlettgatelymoore.dev/kde-snaps-fixed-thank-you-for-your-support/?utm_source=atom_feed</link>
-      <description><![CDATA[
-&lt;   kde吉祥物    
-谢谢大家保持灯光的时间更长的时间。 KDE快照已恢复。我还发布了24.12.3！此外，我已经移动了大多数＆＃8221;捕捉到Core24。其余的快照需要较新的QT6/KF6，这是WIP。 ＆＃8220;不幸的女孩＆＃8221;再次被损失再次受到打击，因此，在我考虑未来的选择的同时，我将减少自己的时间。我仍然在附近，少一点。 
-再次感谢大家，如果您可以再通过一次（挥之不去的手臂）手术，我将永远感激！  https://gofund.me/d59582   ]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kde-snaps-fixed-thank-you-for-your-support/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 15 Mar 2025 12:52:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周等离子体：文件传输进度图</title>
-      <link>https://blogs.kde.org/2025/03/15/this-week-in-plasma-file-transfer-progress-graphs/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/03/15/this-week-in-plasma-file-transfer-progress-graphs/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 15 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digikam 8.6.0已发布</title>
-      <link>https://www.digikam.org/news/2025-03-15-8.6.0_release_announcement/?utm_source=atom_feed</link>
-      <description><![CDATA[  
-经过四个月的积极维护和数周的分虫虫子，Digikam团队很荣幸能够介绍其开源数字照片经理8.6.0版。
-
- 新功能和重大更改
-
- 面部管理更新和改进  
- 自动标准管理 
- 图像质量管理  
- 红眼校正 
-
-
- 内部组件更新  
- 著名的错误修复 
- 一般性 
- 未来计划 
- 最终单词 
-
- Digikam团队继续在更好的人工智能 digikam的集成，并且有许多部分已通过8.6.0发行版进行了改进。0.6.0。]]></description>
-      <guid>https://www.digikam.org/news/2025-03-15-8.6.0_release_announcement/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 15 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>麸皮食谱</title>
-      <link>https://euroquis.nl/blabla/2025/03/15/bran-muffins.html?utm_source=atom_feed</link>
-      <description><![CDATA[这是一个食谱文章。我讨厌并鄙视食谱网站，但这是我经常需要的
-抬头。在加拿大措施中，即使在欧洲30年后，我仍然在烘烤。
-混合良好并在收集其余的同时站立：
-
-1½杯黑麦麸皮
- 1 c。牛奶
-½茶匙。盐
-
-准备就绪：
-
-⅓c。石油
- 1个鸡蛋
-
-准备就绪：
-
-⅔c。红糖
- 1 c。面粉
- 2茶匙。发酵粉
-½c。葡萄干
-
-混合湿。搅拌。填充松饼锅。在180℃时烘烤25分钟。制作11个松饼
-因为我的松饼锅有一个破碎的杯子。使用黑麦·布兰（Rye Bran），因为当地的风车有
-在铣削黑麦后，“剩下”作为动物饲料 - 显然很少有人
-无论如何，荷兰无论如何都使用麸皮，Rye Bran甚至更少。而不是面粉和
-发酵粉使用 zelfrijzend bakmeel 。
-
-编辑：将糖减少到½杯，然后加1汤匙。糖蜜以改善风味和颜色并减少甜味。
-]]></description>
-      <guid>https://euroquis.nl/blabla/2025/03/15/bran-muffins.html?utm_source=atom_feed</guid>
-      <pubDate>Fri, 14 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
