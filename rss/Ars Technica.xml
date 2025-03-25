@@ -4,9 +4,23 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Tue, 25 Mar 2025 04:19:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 16:45:31 GMT</lastBuildDate>
     <item>
-      <title>随着预备的继续，NASA看起来更有可能驾驶Artemis II任务</title>
+      <title>欧洲正在寻找美国云提供商的替代方案</title>
+      <link>https://arstechnica.com/information-technology/2025/03/europe-is-looking-for-alternatives-to-us-cloud-providers/</link>
+      <description><![CDATA[一些欧洲云公司的业务有所增加。]]></description>
+      <guid>https://arstechnica.com/information-technology/2025/03/europe-is-looking-for-alternatives-to-us-cloud-providers/</guid>
+      <pubDate>Tue, 25 Mar 2025 13:12:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何处理残酷冬季的Polestar工程师电动汽车</title>
+      <link>https://arstechnica.com/cars/2025/03/how-polestar-engineers-evs-that-can-handle-brutal-winters/</link>
+      <description><![CDATA[热泵，油门图和大量侧面。]]></description>
+      <guid>https://arstechnica.com/cars/2025/03/how-polestar-engineers-evs-that-can-handle-brutal-winters/</guid>
+      <pubDate>Tue, 25 Mar 2025 12:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着预备的继续，NASA更有可能驾驶Artemis II任务</title>
       <link>https://arstechnica.com/space/2025/03/as-preps-continue-its-looking-more-likely-nasa-will-fly-the-artemis-ii-mission/</link>
       <description><![CDATA[NASA太空发射系统的核心阶段现已与火箭的双重助推器集成在一起。]]></description>
       <guid>https://arstechnica.com/space/2025/03/as-preps-continue-its-looking-more-likely-nasa-will-fly-the-artemis-ii-mission/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[Valve的Harrington：未经检查的CD重复“将我们的整个业务模式处于危险之中”。]]></description>
       <guid>https://arstechnica.com/gaming/2025/03/how-a-nephews-cd-burner-inspired-early-valve-to-embrace-drm/</guid>
       <pubDate>Mon, 24 Mar 2025 17:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>“ myterms”希望成为我们在网络上决定我们隐私的新方式</title>
-      <link>https://arstechnica.com/gadgets/2025/03/doc-searls-myterms-aims-to-offer-user-first-privacy-contracts-for-the-web/</link>
-      <description><![CDATA[这不是“不要跟踪”请求，而是您从网站需要的一组术语。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/doc-searls-myterms-aims-to-offer-user-first-privacy-contracts-for-the-web/</guid>
-      <pubDate>Mon, 24 Mar 2025 17:06:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>糟糕：Google说它可能已删除了您的地图时间表数据</title>
-      <link>https://arstechnica.com/gadgets/2025/03/oops-google-says-it-might-have-deleted-your-maps-timeline-data/</link>
-      <description><![CDATA[Google Maps在12月切换到仅本地时间轴存储。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/oops-google-says-it-might-have-deleted-your-maps-timeline-data/</guid>
-      <pubDate>Mon, 24 Mar 2025 16:56:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

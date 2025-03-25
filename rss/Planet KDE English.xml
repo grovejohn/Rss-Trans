@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 25 Mar 2025 11:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 16:44:47 GMT</lastBuildDate>
     <item>
       <title>本周在KDE应用程序中</title>
       <link>https://blogs.kde.org/2025/03/24/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -40,7 +40,7 @@
 我有加入mbrdi 在2021年6月，经过近4年，我决定
 但是，这不是我唯一想谈论的专业更新，我想谈谈另一个激动人心的机会，
  ngi0核心授予
-我很高兴地宣布，我将通过 ngi0 core 资金 nlnet 在欧洲委员会的财政支持下，下一代Internet  program。您可以在此页面上找到非常薄的详细信息。尽管这不是唯一通过NGI0核心基金资助的项目，但总共有 56个项目作为10月份的call call ]]></description>
+我很高兴地宣布，我将通过 ngi0 core 资金，由 nlnet 在欧洲委员会的财政支持下，下一代Internet  program。您可以在此页面上找到非常薄的详细信息。尽管这不是唯一通过NGI0核心基金资助的项目，但总共有 56个项目作为10月份的call call ]]></description>
       <guid>https://blog.bshah.in/2025/03/22/professional-update-plasma-mobile-ngi0-core-grant/?utm_source=atom_feed</guid>
       <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
     </item>
@@ -74,79 +74,11 @@
       <pubDate>Mon, 17 Mar 2025 09:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>carconnectivity and id.buzz</title>
-      <link>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</link>
-      <description><![CDATA[我刚刚得到了一辆全新的汽车：一个座位的ID.Buzz，可以一次适合整个家庭。我对这辆车非常满意，但是由于它具有连通性，我想看看是否可以将其集成到乡亲中。
-为此，我想使用直到steinbach 。这是一个有几个部分的Python软件包。 主要项目， mqtt桥和a 乡亲的mqtt发现助手。
-使用了一些软件（并报告了一个错误，直到固定了ASAP＆＃8211; i＆＃8217; m Implact！）我决定在我在房子周围使用的一些小服务的小raspberrypi上设置整个内容。&gt; 
-准备此操作，我设置了一个新用户，并将软件安装在Python虚拟环境中：
-  sudo adduser carconnnectivity
-sudo su carconnectivity
-光盘
-mkdir carconnectivity
-CD CARCONNECTIVITITY/
-Python -M Venv Venv
-来源VENV/bin/activate
-pip安装carconnectivity-connector-volkswagen == 0.5a1 carconnnectivity-plugin-mqtt carconnectivity-plugin-mqtt_homeassistant
-vim carconnectivity.json  
-使用 vim 命令，我创建了Carconnectivity配置文件。根据您的需求，将用户名，密码和IPS更新。我将尝试 Interval 参数，因为我不想通过过多查询汽车来放电12V电池。
- ＆＃123;
-        “ Carconnectivity”：＆＃123;
-                “ log_level”：“错误”，
-                “连接器”：＆＃91;
-                        ＆＃123;
-                                “ type”：“大众”，
-                                “ config”：＆＃123;
-                                        “间隔”：1800，
-                                        “用户名”：“ hello@example.com”，
-                                        “密码”：“秘密”
-                                }
-                        }
-                ]，，
-                “插件”：＆＃91;
-                        ＆＃123;
-                                “ type”：“ mqtt”，
-                                “ config”：＆＃123;
-                                        “经纪人”：“ my-mqtt.local”，
-                                        “用户名”：“用户”，
-                                        “密码”：“秘密”
-                                }
-                        }，，
-                        ＆＃123;
-                                “ type”：“ mqtt_homeassistant”，
-                                “ config”：＆＃123;}
-                        }
-                这是给出的
-        }
-}
- 
-配置了服务（并手动运行以解决我的错误），我创建了下面显示的 carconnectivity.service  SystemD服务（/etc/etc/etc/systemd/systemd/system ）：）
-
-
-
- ＆＃91; unit]
-描述=汽车连接到MQTT
-after = network-online.target
-
-＆＃91;服务]
-类型=简单
-用户= Carconnectivity
-组= Carconnectivity
-workingDirectory =/home/carconnnectivity/carconnnectivity/
-环境=“ lc_all = sv_se”
-execstart =/home/carconnectivity/carconnectivity/venv/bin/carconnectivity-mqtt/home/carconnectivity/carconnectivity/carconnectivitivitivity/carconnectivity.json
-
-＆＃91;安装]
-wantby =多用户.target
- 
-然后我开始并启用了服务。
-  sudo systemctl启动carconnnectivity  sudo systemctl启用carconnectivity   
-最后，我看了状态，并确保一切看起来还不错。
-  sudo systemctl状态carconnnnectivity  
-和中提琴，这辆车在家庭助理中以设备的形式出现。魔术！
-   ]]></description>
-      <guid>https://www.thelins.se/johan/blog/2025/03/carconnectivity-and-the-id-buzz/?utm_source=atom_feed</guid>
-      <pubDate>Sun, 16 Mar 2025 17:09:25 GMT</pubDate>
+      <title>Krita月度更新 - 版本24</title>
+      <link>https://krita.org/en/posts/2025/monthly-update-24/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://krita.org/en/posts/2025/monthly-update-24/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 17 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
