@@ -4,13 +4,27 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Mar 2025 06:46:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 17:15:09 GMT</lastBuildDate>
+    <item>
+      <title>＃现代等离子体登录经理的路线图</title>
+      <link>http://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>http://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 26 Mar 2025 09:17:02 GMT</pubDate>
+    </item>
     <item>
       <title>2025 15分钟错误计划更新</title>
       <link>https://pointieststick.com/2025/03/25/2025-15-minute-bug-initiative-update/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://pointieststick.com/2025/03/25/2025-15-minute-bug-initiative-update/?utm_source=atom_feed</guid>
       <pubDate>Wed, 26 Mar 2025 04:30:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOK25中的Kdeguitest（Kdeecotest）：调试，构建交互式用户界面等等</title>
+      <link>https://eco.kde.org/blog/2025-03-14_sok25-kguitest/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://eco.kde.org/blog/2025-03-14_sok25-kguitest/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>本周在KDE应用程序中</title>
@@ -47,7 +61,7 @@
 我有加入mbrdi 在2021年6月，经过近4年，我决定
 但是，这不是我唯一想谈论的专业更新，我想谈谈另一个激动人心的机会，
  ngi0核心授予
-我很高兴地宣布，我将通过 ngi0 core 资金，由 nlnet 在欧洲委员会的财政支持下，下一代Internet  program。您可以在此页面上找到非常薄的详细信息。尽管这不是唯一通过NGI0核心基金资助的项目，但总共有 56个项目作为10月份的call call ]]></description>
+我很高兴地宣布，我将通过 ngi0 core 资金 nlnet 在欧洲委员会的财政支持下，下一代Internet  program。您可以在此页面上找到非常薄的详细信息。尽管这不是唯一通过NGI0核心基金资助的项目，但总共有 56个项目作为10月份的call call ]]></description>
       <guid>https://blog.bshah.in/2025/03/22/professional-update-plasma-mobile-ngi0-core-grant/?utm_source=atom_feed</guid>
       <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
     </item>
@@ -65,20 +79,6 @@
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-16-cmake-update?utm_source=atom_feed</guid>
       <pubDate>Thu, 20 Mar 2025 14:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeBSD中的NFS设置</title>
-      <link>https://euroquis.nl/freebsd/2025/03/18/nfs.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://euroquis.nl/freebsd/2025/03/18/nfs.html?utm_source=atom_feed</guid>
-      <pubDate>Mon, 17 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在KDE应用程序中</title>
-      <link>https://blogs.kde.org/2025/03/17/this-week-in-kde-apps/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/03/17/this-week-in-kde-apps/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 17 Mar 2025 09:03:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
