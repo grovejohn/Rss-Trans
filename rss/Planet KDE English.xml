@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 27 Mar 2025 22:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Mar 2025 22:39:36 GMT</lastBuildDate>
     <item>
       <title>KDE快照更新，Kubuntu Beta测试，生活更新！</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-beta-testing-life-updates/?utm_source=atom_feed</link>
@@ -45,12 +45,9 @@
     <item>
       <title>Kubuntu Plucky Puffin（25.04）Beta发行</title>
       <link>https://kubuntu.org/news/kubuntu-plucky-puffin-25-04-beta-released/?utm_source=atom_feed</link>
-      <description><![CDATA[  Kubuntu Plucky Puffin的Beta（4月将在4月份成为25.04），并且可用于下载。
+      <description><![CDATA[   Kubuntu Plucky Puffin beta（4月份成为25.04）现已发布，可用于  下载。 
 此里程碑具有Kubuntu和其他Ubuntu风味的图像。
-不建议以下情况：&gt;
-
-
-
+ kubuntu plucky puffin的预释放不建议：
   需要稳定的系统 常规用户不知道会释放前的问题         需要在生产环境或工作环境中提供可靠的数据或li&gt;        
 他们建议：
   希望通过查找，报告和/或修复错误来帮助我们测试的常规用户
@@ -59,9 +56,8 @@
 
  Beta包含一些可以进行更广泛测试的软件更新。但是，这是一组早期的图像，因此您应该期待一些错误。
 重点包括对KDE等离子6.3的更新。
- 我们强烈建议测试人员阅读     尤其是＆＃8216;    ＆＃8216;。 
- 
-您还可以在 main ubuntu beta发行注释和宣布]]></description>
+ 我们强烈建议测试人员阅读   在安装之前，尤其是＆＃8216;  
+您还可以在 main ubuntu beta发行说明和公告]]></description>
       <guid>https://kubuntu.org/news/kubuntu-plucky-puffin-25-04-beta-released/?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Mar 2025 18:30:51 GMT</pubDate>
     </item>
@@ -110,6 +106,13 @@ Krita的特别聚光灯！我们解释了多功能的Krita，以及它如何
       <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
+      <title>第3-4周 /></title>
+      <link>https://coosmos.github.io/posts/Week4/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://coosmos.github.io/posts/Week4/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 26 Mar 2025 18:30:00 GMT</pubDate>
+    </item>
+    <item>
       <title>＃现代等离子体登录经理的路线图</title>
       <link>http://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -150,13 +153,6 @@ Krita的特别聚光灯！我们解释了多功能的Krita，以及它如何
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/03/22/this-week-in-plasma-6.4-improvements/?utm_source=atom_feed</guid>
       <pubDate>Sat, 22 Mar 2025 03:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>库尔纳瓦巴和我</title>
-      <link>https://akselmo.dev/posts/visual-woes/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://akselmo.dev/posts/visual-woes/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 22 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
