@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Mar 2025 10:41:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 14:40:50 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第2025-13周</title>
+      <link>https://ervin.ipsquad.net/blog/2025/03/28/web-review-week-2025-13/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/03/28/web-review-week-2025-13/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 28 Mar 2025 13:05:48 GMT</pubDate>
+    </item>
     <item>
       <title>KDE快照更新，Kubuntu Beta测试，生活更新！</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-beta-testing-life-updates/?utm_source=atom_feed</link>
@@ -146,13 +153,6 @@ Krita的特别聚光灯！我们解释了多功能的Krita，以及它如何
       <description><![CDATA[]]></description>
       <guid>https://euroquis.nl/freebsd/2025/03/23/framework.html?utm_source=atom_feed</guid>
       <pubDate>Sat, 22 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在血浆中：6.4改进</title>
-      <link>https://blogs.kde.org/2025/03/22/this-week-in-plasma-6.4-improvements/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/03/22/this-week-in-plasma-6.4-improvements/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 22 Mar 2025 03:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
