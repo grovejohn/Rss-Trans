@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 28 Mar 2025 14:40:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 06:43:39 GMT</lastBuildDate>
+    <item>
+      <title>本周在血浆中：零VHI错误等等</title>
+      <link>https://blogs.kde.org/2025/03/29/this-week-in-plasma-zero-vhi-bugs-and-much-more/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/03/29/this-week-in-plasma-zero-vhi-bugs-and-much-more/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 29 Mar 2025 04:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>网络评论，第2025-13周</title>
       <link>https://ervin.ipsquad.net/blog/2025/03/28/web-review-week-2025-13/?utm_source=atom_feed</link>
@@ -146,13 +153,6 @@ Krita的特别聚光灯！我们解释了多功能的Krita，以及它如何
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/03/24/this-week-in-kde-apps/?utm_source=atom_feed</guid>
       <pubDate>Mon, 24 Mar 2025 09:52:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>freeBSD上的KDE等离子体6上的框架13</title>
-      <link>https://euroquis.nl/freebsd/2025/03/23/framework.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://euroquis.nl/freebsd/2025/03/23/framework.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 22 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
