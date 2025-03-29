@@ -4,9 +4,30 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Fri, 28 Mar 2025 22:16:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Mar 2025 01:15:15 GMT</lastBuildDate>
     <item>
-      <title>科学家正在存储我们看不到人类眼睛的格式的光</title>
+      <title>埃隆·马斯克（Elon Musk）的X有一个新主人 - 埃隆·马斯克（Elon Musk）的Xai</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/elon-musks-x-has-a-new-owner-elon-musks-xai/</link>
+      <description><![CDATA[Xai买X;交易价值社交网络为330亿美元，比马斯克支付的$ 11B。]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/elon-musks-x-has-a-new-owner-elon-musks-xai/</guid>
+      <pubDate>Fri, 28 Mar 2025 23:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的Windows 11构建使强制性Microsoft帐户登录更加强制性</title>
+      <link>https://arstechnica.com/gadgets/2025/03/new-windows-11-build-makes-mandatory-microsoft-account-sign-in-even-more-mandatory/</link>
+      <description><![CDATA[“ Bypassnro”是Home和Pro Windows版本的简单MS帐户解决方案。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/new-windows-11-build-makes-mandatory-microsoft-account-sign-in-even-more-mandatory/</guid>
+      <pubDate>Fri, 28 Mar 2025 23:28:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么LLM会构成东西？引擎盖下的新研究同伴。</title>
+      <link>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</link>
+      <description><![CDATA[克劳德（Claude）有缺陷的“已知实体”神经元有时会覆盖其“不回答”电路。]]></description>
+      <guid>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</guid>
+      <pubDate>Fri, 28 Mar 2025 22:33:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越RGB：一种新的图像文件格式有效存储无形的光数据</title>
       <link>https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/</link>
       <description><![CDATA[新的光谱JPEG XL压缩可以减少文件大小，从而使光谱成像更加实用。]]></description>
       <guid>https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/</guid>
@@ -53,27 +74,6 @@
       <description><![CDATA[Google已经解决了其像素问题，并将在4月10日开始9A推出。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/03/google-confirms-pixel-9a-launch-for-april-10/</guid>
       <pubDate>Fri, 28 Mar 2025 16:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>康宁的新陶瓷玻璃可能会使您的下一部手机免于灾难</title>
-      <link>https://arstechnica.com/gadgets/2025/03/cornings-new-apple-like-ceramic-glass-might-save-your-next-phone-from-disaster/</link>
-      <description><![CDATA[Gorilla Glass Ceramic将在未来几个月内出现在其第一支手机上。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/cornings-new-apple-like-ceramic-glass-might-save-your-next-phone-from-disaster/</guid>
-      <pubDate>Fri, 28 Mar 2025 16:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>特朗普惹恼了史密森尼人没有提倡抹黑的种族想法</title>
-      <link>https://arstechnica.com/science/2025/03/trump-annoyed-the-smithsonian-isnt-promoting-discredited-racial-ideas/</link>
-      <description><![CDATA[新的行政命令大满贯博物馆认可“种族不是生物学现实”。]]></description>
-      <guid>https://arstechnica.com/science/2025/03/trump-annoyed-the-smithsonian-isnt-promoting-discredited-racial-ideas/</guid>
-      <pubDate>Fri, 28 Mar 2025 15:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>任天堂提到新的“ Switch 2 Edition Games”有什么想法</title>
-      <link>https://arstechnica.com/gaming/2025/03/nintendo-hints-at-enhanced-switch-2-edition-games-for-new-console/</link>
-      <description><![CDATA[精美的打印建议新硬件上的原始开关游戏的视觉升级。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/03/nintendo-hints-at-enhanced-switch-2-edition-games-for-new-console/</guid>
-      <pubDate>Fri, 28 Mar 2025 15:20:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
