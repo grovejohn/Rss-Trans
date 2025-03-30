@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Sun, 30 Mar 2025 11:36:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Mar 2025 20:37:59 GMT</lastBuildDate>
+    <item>
+      <title>联邦调查局突袭了著名的计算机科学家的家，他去了</title>
+      <link>https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/</link>
+      <description><![CDATA[印第安纳大学悄悄地删除了终身教授的形象，并拒绝说为什么。]]></description>
+      <guid>https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/</guid>
+      <pubDate>Sun, 30 Mar 2025 19:41:44 GMT</pubDate>
+    </item>
     <item>
       <title>NASA的好奇心漫游者发现了火星上最长的链碳分子</title>
       <link>https://arstechnica.com/science/2025/03/nasas-curiosity-rover-has-found-the-longest-chain-carbon-molecules-yet-on-mars/</link>
@@ -41,7 +48,7 @@
       <pubDate>Fri, 28 Mar 2025 23:28:50 GMT</pubDate>
     </item>
     <item>
-      <title>为什么LLM会构成东西？引擎盖下的新研究同伴。</title>
+      <title>为什么LLM会构成东西？引擎盖下的新研究同行。</title>
       <link>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</link>
       <description><![CDATA[克劳德（Claude）有缺陷的“已知实体”神经元有时会覆盖其“不回答”电路。]]></description>
       <guid>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[所谓的违规会影响Oracle Cloud和Oracle Health。]]></description>
       <guid>https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/</guid>
       <pubDate>Fri, 28 Mar 2025 19:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google停用巢保护烟雾报警器和巢x耶鲁锁</title>
-      <link>https://arstechnica.com/gadgets/2025/03/google-discontinues-nest-protect-smoke-alarm-and-nest-x-yale-lock/</link>
-      <description><![CDATA[Google继续退出智能家居硬件。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/google-discontinues-nest-protect-smoke-alarm-and-nest-x-yale-lock/</guid>
-      <pubDate>Fri, 28 Mar 2025 19:29:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
