@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Mon, 31 Mar 2025 05:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 13:44:43 GMT</lastBuildDate>
+    <item>
+      <title>夸张的量子点阴谋理论对QLED电视提出了重要观点</title>
+      <link>https://arstechnica.com/gadgets/2025/03/overblown-quantum-dot-conspiracy-theories-make-important-points-about-qled-tvs/</link>
+      <description><![CDATA[诉讼和指控对量子点电视对QD的使用引起了疑问。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/03/overblown-quantum-dot-conspiracy-theories-make-important-points-about-qled-tvs/</guid>
+      <pubDate>Mon, 31 Mar 2025 11:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>联邦调查局突袭了著名的计算机科学家的家，他去了</title>
       <link>https://arstechnica.com/security/2025/03/computer-scientist-goes-silent-after-fbi-raid-and-purging-from-university-website/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[科学家警告说，救生发现的管道，年轻的科学家正在枯竭。]]></description>
       <guid>https://arstechnica.com/health/2025/03/report-us-scientists-lost-3-billion-in-nih-grants-since-trump-took-office/</guid>
       <pubDate>Fri, 28 Mar 2025 21:21:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道，甲骨文遭受了2种单独的违规行为，暴露了数千个客户的pii</title>
-      <link>https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/</link>
-      <description><![CDATA[所谓的违规会影响Oracle Cloud和Oracle Health。]]></description>
-      <guid>https://arstechnica.com/security/2025/03/oracle-is-mum-on-reports-it-has-experienced-2-separate-data-breaches/</guid>
-      <pubDate>Fri, 28 Mar 2025 19:41:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

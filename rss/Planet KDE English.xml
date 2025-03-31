@@ -4,13 +4,36 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 31 Mar 2025 02:51:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 13:44:16 GMT</lastBuildDate>
     <item>
       <title>2月/3月在CDE中</title>
       <link>https://www.volkerkrause.eu/2025/03/30/kde-itinerary-february-march-2025.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2025/03/30/kde-itinerary-february-march-2025.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 30 Mar 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kaidan 0.12.2：删除消息和泡沫修复</title>
+      <link>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</link>
+      <description><![CDATA[ kaidan 0.12.2修复了一些错误。
+看看 changelog 有关更多详细信息。
+ ChangElog 
+ bugfixes：
+
+修复删除更正的消息（MELVO）
+修复显示消息气泡尾巴仅用于发件人的第一消息（Melvo）
+
+下载
+
+  source code（.tar.xz）（） href =“ https://download.kde.org/unstable/kaidan/0.12.2/kaidan-0.12.2.2.tar.xz.sig” target =“ _ black”&gt; sig 用 04f7aa4d97a4d9724 ）
+    linux（Flatpak on Flathub上） 
+
+或安装kaidan进行您的分发：
+ 
+
+ ]]></description>
+      <guid>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 29 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>本周在血浆中：零VHI错误等等</title>
@@ -62,6 +85,38 @@
 ]]></description>
       <guid>https://mentorship.kde.org/blog/2025-03-29-ospp/?utm_source=atom_feed</guid>
       <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kaidan 0.12.1：语音消息和密码更改修复程序</title>
+      <link>https://kaidan.im/2025/03/29/kaidan-0.12.1/?utm_source=atom_feed</link>
+      <description><![CDATA[ kaidan 0.12.1修复了一些错误。
+看看 changelog 有关更多详细信息。
+ ChangElog 
+ bugfixes：
+
+移动聊天时，请勿突出显示未锁定的聊天（Melvo）
+修复删除/发送语音消息（Melvo）
+修复登录期间的崩溃（Melvo）
+返回窄窗口（Melvo）上的聊天列表后再次修复开放聊天
+增加工具栏的高度以修复头像不可识别（Melvo）
+修复搜索栏上方搜索栏的宽度，以在显示所有按钮（MELVO）时占用可用空间
+  修复存储更改密码（MELVO）
+修复设置自定义主机/帐户注册（MELVO）
+修复聊天中的崩溃（fazevedo）
+将设备切换选项转换为帐户详细信息，以修复未显示的长凭据，登录QR码在打开对话框（MELVO）上暂时可见
+允许在错误上设置新密码，以通过其他设备（Melvo）更改密码后无法登录
+
+下载
+
+  source code（.tar.xz） href =“ https://download.kde.org/unstable/kaidan/0.12.1/kaidan-0.12.1.tar.xz.sig” target =“ _ blank”&gt; sig 用 04f7aa4d97a4d9724 ）
+    linux（Flatpak on Flathub上） 
+
+或安装kaidan进行您的分发：
+ 
+
+ ]]></description>
+      <guid>https://kaidan.im/2025/03/29/kaidan-0.12.1/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 28 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     <item>
       <title>结束KDE'25的季节</title>
@@ -176,20 +231,6 @@ Krita的特别聚光灯！我们解释了多功能的Krita，以及它如何
  成为预算的艺术家 ]]></description>
       <guid>https://krita.org/en/posts/2025/twinimation_2025/?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>第3-4周 /></title>
-      <link>https://coosmos.github.io/posts/Week4/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://coosmos.github.io/posts/Week4/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 26 Mar 2025 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>＃现代等离子体登录经理的路线图</title>
-      <link>http://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>http://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 26 Mar 2025 09:17:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
