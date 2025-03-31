@@ -4,7 +4,14 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Mon, 31 Mar 2025 14:42:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 17:15:01 GMT</lastBuildDate>
+    <item>
+      <title>欧洲的第一家私人发射公司是学习拥抱失败</title>
+      <link>https://arstechnica.com/space/2025/03/europes-first-private-launch-company-is-learning-to-embrace-failure/</link>
+      <description><![CDATA[“今天，我们对我们的发射系统的了解是昨天发射之前的两倍。”]]></description>
+      <guid>https://arstechnica.com/space/2025/03/europes-first-private-launch-company-is-learning-to-embrace-failure/</guid>
+      <pubDate>Mon, 31 Mar 2025 16:26:54 GMT</pubDate>
+    </item>
     <item>
       <title>大品牌在X上花费少量款项，以远离Musk的十字准线</title>
       <link>https://arstechnica.com/tech-policy/2025/03/big-brands-are-spending-small-sums-on-x-to-stay-out-of-musks-crosshairs/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[“ Bypassnro”是Home和Pro Windows版本的简单MS帐户解决方案。]]></description>
       <guid>https://arstechnica.com/gadgets/2025/03/new-windows-11-build-makes-mandatory-microsoft-account-sign-in-even-more-mandatory/</guid>
       <pubDate>Fri, 28 Mar 2025 23:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么LLM会构成东西？引擎盖下的新研究同伴。</title>
-      <link>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</link>
-      <description><![CDATA[克劳德（Claude）的错误“已知实体”神经元有时会覆盖其“不回答”电路。]]></description>
-      <guid>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</guid>
-      <pubDate>Fri, 28 Mar 2025 22:33:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
