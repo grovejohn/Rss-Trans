@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 31 Mar 2025 14:42:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 18:46:31 GMT</lastBuildDate>
+    <item>
+      <title>关于亮度，并校准您的显示器</title>
+      <link>https://zamundaaa.github.io/colormanagement/2025/03/31/about-brightness.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://zamundaaa.github.io/colormanagement/2025/03/31/about-brightness.html?utm_source=atom_feed</guid>
+      <pubDate>Mon, 31 Mar 2025 17:50:00 GMT</pubDate>
+    </item>
     <item>
       <title>MCUS 2.10的QT！</title>
       <link>https://www.qt.io/blog/qt-for-mcus-2.10-released-0?utm_source=atom_feed</link>
@@ -58,11 +65,9 @@
       <title>开源促销计划</title>
       <link>https://mentorship.kde.org/blog/2025-03-29-ospp/?utm_source=atom_feed</link>
       <description><![CDATA[
- 
 
 
 
-  近月观音（jìnyuèguānyīn）粉丝的创作由 krita 。 （ image：cc by-nc-sa 4.0 ）   
 
  KDE社区将再次参加开源促销计划（OSPP），一个程序
 学生可以为开源项目做出贡献。  burgess chang ，是kde
@@ -180,25 +185,6 @@
 谢谢大家在这次新冒险中的支持！]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-beta-testing-life-updates/?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Mar 2025 19:20:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kubuntu Plucky Puffin（25.04）Beta发行</title>
-      <link>https://kubuntu.org/news/kubuntu-plucky-puffin-25-04-beta-released/?utm_source=atom_feed</link>
-      <description><![CDATA[   Kubuntu Plucky Puffin beta（4月份成为25.04）现已发布，可用于  下载。 
-此里程碑具有Kubuntu和其他Ubuntu风味的图像。
- kubuntu plucky puffin的预释放不建议：
-  需要稳定的系统 常规用户不知道会释放前的问题         需要在生产环境或工作环境中提供可靠的数据或li&gt;        
-他们建议：
-  希望通过查找，报告和/或修复错误来帮助我们测试的常规用户
-
-
-
- Beta包含一些可以进行更广泛测试的软件更新。但是，这是一组早期的图像，因此您应该期待一些错误。
-重点包括对KDE等离子6.3的更新。
- 我们强烈建议测试人员阅读   在安装之前，尤其是＆＃8216;  
-您还可以在 main ubuntu beta发行说明和公告]]></description>
-      <guid>https://kubuntu.org/news/kubuntu-plucky-puffin-25-04-beta-released/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 27 Mar 2025 18:30:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
