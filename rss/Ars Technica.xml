@@ -4,7 +4,21 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Mon, 31 Mar 2025 13:44:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 14:42:50 GMT</lastBuildDate>
+    <item>
+      <title>大品牌在X上花费少量款项，以远离Musk的十字准线</title>
+      <link>https://arstechnica.com/tech-policy/2025/03/big-brands-are-spending-small-sums-on-x-to-stay-out-of-musks-crosshairs/</link>
+      <description><![CDATA[广告高管说：“这足以避开顽皮的名单。”]]></description>
+      <guid>https://arstechnica.com/tech-policy/2025/03/big-brands-are-spending-small-sums-on-x-to-stay-out-of-musks-crosshairs/</guid>
+      <pubDate>Mon, 31 Mar 2025 13:19:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>特朗普对汽车关税：“我不在乎他们是否会提高价格”</title>
+      <link>https://arstechnica.com/cars/2025/03/trump-on-car-tariffs-i-couldnt-care-less-if-they-raise-prices/</link>
+      <description><![CDATA[消费者将不得不付出总统不必要的贸易战的代价。]]></description>
+      <guid>https://arstechnica.com/cars/2025/03/trump-on-car-tariffs-i-couldnt-care-less-if-they-raise-prices/</guid>
+      <pubDate>Mon, 31 Mar 2025 13:09:50 GMT</pubDate>
+    </item>
     <item>
       <title>夸张的量子点阴谋理论对QLED电视提出了重要观点</title>
       <link>https://arstechnica.com/gadgets/2025/03/overblown-quantum-dot-conspiracy-theories-make-important-points-about-qled-tvs/</link>
@@ -55,25 +69,11 @@
       <pubDate>Fri, 28 Mar 2025 23:28:50 GMT</pubDate>
     </item>
     <item>
-      <title>为什么LLM会构成东西？引擎盖下的新研究同行。</title>
+      <title>为什么LLM会构成东西？引擎盖下的新研究同伴。</title>
       <link>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</link>
-      <description><![CDATA[克劳德（Claude）有缺陷的“已知实体”神经元有时会覆盖其“不回答”电路。]]></description>
+      <description><![CDATA[克劳德（Claude）的错误“已知实体”神经元有时会覆盖其“不回答”电路。]]></description>
       <guid>https://arstechnica.com/ai/2025/03/why-do-llms-make-stuff-up-new-research-peers-under-the-hood/</guid>
       <pubDate>Fri, 28 Mar 2025 22:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越RGB：一种新的图像文件格式有效存储无形的光数据</title>
-      <link>https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/</link>
-      <description><![CDATA[新的光谱JPEG XL压缩可以减少文件大小，从而使光谱成像更加实用。]]></description>
-      <guid>https://arstechnica.com/science/2025/03/scientists-are-storing-light-we-cannot-see-in-formats-meant-for-human-eyes/</guid>
-      <pubDate>Fri, 28 Mar 2025 22:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>报告：自特朗普上任以来，美国科学家在NIH赠款中损失了30亿美元</title>
-      <link>https://arstechnica.com/health/2025/03/report-us-scientists-lost-3-billion-in-nih-grants-since-trump-took-office/</link>
-      <description><![CDATA[科学家警告说，救生发现的管道，年轻的科学家正在枯竭。]]></description>
-      <guid>https://arstechnica.com/health/2025/03/report-us-scientists-lost-3-billion-in-nih-grants-since-trump-took-office/</guid>
-      <pubDate>Fri, 28 Mar 2025 21:21:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

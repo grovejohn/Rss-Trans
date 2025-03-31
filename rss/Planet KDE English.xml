@@ -4,7 +4,19 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 31 Mar 2025 13:44:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Mar 2025 14:42:28 GMT</lastBuildDate>
+    <item>
+      <title>MCUS 2.10的QT！</title>
+      <link>https://www.qt.io/blog/qt-for-mcus-2.10-released-0?utm_source=atom_feed</link>
+      <description><![CDATA[
+    
+
+ QT很高兴地宣布MCUS 2.10的QT，该版本充满了令人兴奋的新功能，旨在扩大物联网，消费者和汽车段的GUI功能。此更新充满了增强功能，这些增强功能将使开发人员能够创建更具动态和高效的应用程序。
+此博客列出了2.10版本中的一些杰出亮点。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-for-mcus-2.10-released-0?utm_source=atom_feed</guid>
+      <pubDate>Mon, 31 Mar 2025 14:09:09 GMT</pubDate>
+    </item>
     <item>
       <title>2月/3月在CDE中</title>
       <link>https://www.volkerkrause.eu/2025/03/30/kde-itinerary-february-march-2025.html?utm_source=atom_feed</link>
@@ -187,50 +199,6 @@
 您还可以在 main ubuntu beta发行说明和公告]]></description>
       <guid>https://kubuntu.org/news/kubuntu-plucky-puffin-25-04-beta-released/?utm_source=atom_feed</guid>
       <pubDate>Thu, 27 Mar 2025 18:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twinimation Studio展示了他们的下一个Krita研讨会：成为预算的艺术家</title>
-      <link>https://krita.org/en/posts/2025/twinimation_2025/?utm_source=atom_feed</link>
-      <description><![CDATA[ Twinimation Studios发布了一个新的Krita研讨会，我们想给予
-他们有机会向Krita的用户介绍他们的新产品：
-问候大家！进入艺术世界有时被视为
-昂贵的努力。从艺术学校到基于订阅的软件，
-各个领域的艺术家往往有明显的费用。但是有你
-有没有想过您是否可以在不花钱的情况下成为艺术家？
-Twinimtion Studios又回到了我们的第一个完整的问题
-车间！成为预算的艺术家是专业制作指南
-帮助有抱负的艺术家开始他们的艺术之旅，而无需打破
-银行。该研讨会由9个主要视频组成，捆绑成一个易于
-Digest软件包，以及一些特殊的奖金展示视频。
-其中包括众多艺术产品创意的奖金免费赠品清单
-开始有薪艺术爱好或职业。
-&lt;视频控制=“控制” width =“ 100％”&gt;
-
-这里应该有一个视频，但是您的浏览器似乎并不支持它。
-
-在这个研讨会中，我们提供有关如何开始他们的技巧和技巧
-完全自由的艺术之旅。在审查了负担得起的清单之后
-学习艺术技能的资源，我们建议与
-Krita的特别聚光灯！我们解释了多功能的Krita，以及它如何
-可以在许多不同的艺术领域（例如动画）中使用
-漫画和绘画！按照其他一些绘图教程，讲习班
-最后，以有关企业家精神的特殊课程，我们在其中解释如何
-有抱负的艺术家可以通过他们的
-剩下预算的艺术品。
-有这么多人想进入艺术现场并从中建立职业
-它，我们希望这个研讨会将成为所有希望的人的有用指南
-创建自己的艺术品牌。此外，我们还有许多其他Krita
-我们网站上的专注动画课程！
- Twinimation Studios由教练Andria和Arneisha Jackson创立；
-学习动画已有9年的MFA毕业生，想分享他们的
-与世界的专业知识。我们提供有关不同的教程
-动画，角色设计，插图，电影创作等风格
-更多！期待我们未来的教程和讲习班
-继续扩展我们的曲目以适合几个不同的艺术领域。
-这是研讨会的链接：
- 成为预算的艺术家 ]]></description>
-      <guid>https://krita.org/en/posts/2025/twinimation_2025/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 27 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
