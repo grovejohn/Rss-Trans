@@ -4,7 +4,15 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Apr 2025 06:49:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 09:18:42 GMT</lastBuildDate>
+    <item>
+      <title>推出了新的在线探索经验！</title>
+      <link>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</link>
+      <description><![CDATA[
+ ]]></description>
+      <guid>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Apr 2025 06:25:20 GMT</pubDate>
+    </item>
     <item>
       <title>KSTARS v3.7.6发布</title>
       <link>http://knro.blogspot.com/2025/04/kstars-v376-is-released.html?utm_source=atom_feed</link>
@@ -255,13 +263,6 @@
  ]]></description>
       <guid>https://kaidan.im/2025/03/29/kaidan-0.12.1/?utm_source=atom_feed</guid>
       <pubDate>Fri, 28 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>结束KDE'25的季节</title>
-      <link>https://srisharanvs.github.io/posts/wrapping-up-season-of-kde-25/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://srisharanvs.github.io/posts/wrapping-up-season-of-kde-25/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 28 Mar 2025 19:34:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
