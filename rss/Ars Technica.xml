@@ -4,9 +4,16 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Tue, 01 Apr 2025 12:34:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 14:42:52 GMT</lastBuildDate>
     <item>
-      <title>星期二望远镜：在火星上，流浪者为机器人武器和岩石拍照</title>
+      <title>DeepMind阻止AI研究的发布，以使Google具有优势</title>
+      <link>https://arstechnica.com/ai/2025/04/deepmind-is-holding-back-release-of-ai-research-to-give-google-an-edge/</link>
+      <description><![CDATA[更严格的审查过程和更多的官僚主义使得很难发布。]]></description>
+      <guid>https://arstechnica.com/ai/2025/04/deepmind-is-holding-back-release-of-ai-research-to-give-google-an-edge/</guid>
+      <pubDate>Tue, 01 Apr 2025 13:28:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>星期二望远镜：机器人手臂尽头的神奇相机的特写</title>
       <link>https://arstechnica.com/space/2025/04/tuesday-telescope-on-mars-the-rovers-take-pictures-of-robotic-arms-and-rocks/</link>
       <description><![CDATA[等等，每日望远镜回来了？有点]]></description>
       <guid>https://arstechnica.com/space/2025/04/tuesday-telescope-on-mars-the-rovers-take-pictures-of-robotic-arms-and-rocks/</guid>
@@ -67,13 +74,6 @@
       <description><![CDATA[法国代理商说，需要“双重同意”进行用户跟踪是太多的。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/03/france-fines-apple-e150m-for-excessive-pop-ups-that-let-users-reject-tracking/</guid>
       <pubDate>Mon, 31 Mar 2025 17:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>镇上有一个新的基准，用于衡量Windows 95 PC上的性能</title>
-      <link>https://arstechnica.com/gadgets/2025/03/crystalmark-retro-benchmark-extends-support-all-the-way-back-to-windows-95/</link>
-      <description><![CDATA[您是否想看看您的古代计算机的速度？因为现在您可以！]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/03/crystalmark-retro-benchmark-extends-support-all-the-way-back-to-windows-95/</guid>
-      <pubDate>Mon, 31 Mar 2025 17:15:02 GMT</pubDate>
     </item>
     </channel>
 </rss>

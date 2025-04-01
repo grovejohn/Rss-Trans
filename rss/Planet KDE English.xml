@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Apr 2025 09:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 14:42:34 GMT</lastBuildDate>
     <item>
       <title>推出了新的在线探索经验！</title>
       <link>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</link>
@@ -19,6 +19,13 @@
       <description><![CDATA[]]></description>
       <guid>http://knro.blogspot.com/2025/04/kstars-v376-is-released.html?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Apr 2025 04:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在KDE '25季节准备Kecolab技术文档</title>
+      <link>https://eco.kde.org/blog/2025-03-24-roopa-sok25-kecolab/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://eco.kde.org/blog/2025-03-24-roopa-sok25-kecolab/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>结束我的索克旅程</title>
@@ -143,14 +150,14 @@
     </item>
     <item>
       <title>MCUS 2.10的QT！</title>
-      <link>https://www.qt.io/blog/qt-for-mcus-2.10-released-0?utm_source=atom_feed</link>
+      <link>https://www.qt.io/blog/qt-for-mcus-2.10-released?utm_source=atom_feed</link>
       <description><![CDATA[
-    
+   
 
- QT很高兴地宣布MCUS 2.10的QT，该版本充满了令人兴奋的新功能，旨在扩大物联网，消费者和汽车段的GUI功能。此更新充满了增强功能，这些增强功能将使开发人员能够创建更具动态和高效的应用程序。
+ QT Group很高兴宣布MCUS 2.10的QT，该版本充满了令人兴奋的新功能，旨在扩大物联网，消费者和汽车段的GUI功能。此更新充满了增强功能，这些增强功能将使开发人员能够创建更具动态和高效的应用程序。
 此博客列出了2.10版本中的一些杰出亮点。
 ]]></description>
-      <guid>https://www.qt.io/blog/qt-for-mcus-2.10-released-0?utm_source=atom_feed</guid>
+      <guid>https://www.qt.io/blog/qt-for-mcus-2.10-released?utm_source=atom_feed</guid>
       <pubDate>Mon, 31 Mar 2025 14:09:09 GMT</pubDate>
     </item>
     <item>
@@ -231,38 +238,6 @@
 ]]></description>
       <guid>https://mentorship.kde.org/blog/2025-03-29-ospp/?utm_source=atom_feed</guid>
       <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kaidan 0.12.1：语音消息和密码更改修复程序</title>
-      <link>https://kaidan.im/2025/03/29/kaidan-0.12.1/?utm_source=atom_feed</link>
-      <description><![CDATA[ kaidan 0.12.1修复了一些错误。
-看看 changelog 有关更多详细信息。
- ChangElog 
- bugfixes：
-
-移动聊天时，请勿突出显示未锁定的聊天（Melvo）
-修复删除/发送语音消息（Melvo）
-修复登录期间的崩溃（Melvo）
-返回窄窗口（Melvo）上的聊天列表后再次修复开放聊天
-增加工具栏的高度以修复头像不可识别（Melvo）
-修复搜索栏上方搜索栏的宽度，以在显示所有按钮（MELVO）时占用可用空间
-  修复存储更改密码（MELVO）
-修复设置自定义主机/帐户注册（MELVO）
-修复聊天中的崩溃（fazevedo）
-将设备切换选项转换为帐户详细信息，以修复未显示的长凭据，登录QR码在打开对话框（MELVO）上暂时可见
-允许在错误上设置新密码，以通过其他设备（Melvo）更改密码后无法登录
-
-下载
-
-  source code（.tar.xz） href =“ https://download.kde.org/unstable/kaidan/0.12.1/kaidan-0.12.1.tar.xz.sig” target =“ _ blank”&gt; sig 用 04f7aa4d97a4d9724 ）
-    linux（Flatpak on Flathub上） 
-
-或安装kaidan进行您的分发：
- 
-
- ]]></description>
-      <guid>https://kaidan.im/2025/03/29/kaidan-0.12.1/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 28 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
