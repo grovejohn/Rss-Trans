@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Apr 2025 14:42:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 18:46:56 GMT</lastBuildDate>
     <item>
       <title>推出了新的在线探索经验！</title>
       <link>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</link>
@@ -25,6 +25,13 @@
       <link>https://eco.kde.org/blog/2025-03-24-roopa-sok25-kecolab/?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
       <guid>https://eco.kde.org/blog/2025-03-24-roopa-sok25-kecolab/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOK25亮点：我与Kecolab的KDE之旅季</title>
+      <link>https://eco.kde.org/blog/2025-03-25-utkarsh-sok25-kecolab/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://eco.kde.org/blog/2025-03-25-utkarsh-sok25-kecolab/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -196,48 +203,6 @@
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/03/29/this-week-in-plasma-zero-vhi-bugs-and-much-more/?utm_source=atom_feed</guid>
       <pubDate>Sat, 29 Mar 2025 04:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源促销计划</title>
-      <link>https://mentorship.kde.org/blog/2025-03-29-ospp/?utm_source=atom_feed</link>
-      <description><![CDATA[
-
-
-
-
- KDE社区将再次参加开源促销计划（OSPP），一个程序
-学生可以为开源项目做出贡献。  burgess chang ，是kde
-社区联系。
-作为OSPP 2024的一部分，hànyángzhāng（张汉阳）
-博客文章中，都可以使用英语，并且
-普通话。 Android版本可从
- kde f-droid night nightly nightly nightly erightly erightly erightly erightly erightly erightly reposority 。
-与Google summer的代码不同，津贴是资助的
-由一家公司，津贴主要由中国政府资助，为开源社区提供选择
-如果他们希望让更多的学生参与项目，则贡献额外的津贴
-分配。有贡献的认识是很好的
-开源软件是学生应该获得的技能。
-在OSPP中可以做出的贡献范围不是
-仅限于编程，对改善开源软件生态系统的其他方面的贡献，例如
-欢迎翻译和文档。由于这是一个政府资助的计划，因此有更多的监督
-确保纳税人资金花费大量时间。特别是对于大多数项目，应向
-与该项目相关的公开存储库，主要根据
-他们的项目申请。
-该计划旨在增加编程和
-通过鼓励学生在他们的情况下参与现实世界项目的软件工程技能
-假期期。虽然它是由中国人民资助的，但开源项目由
-全世界适用于参加，来自世界任何地方的学生也可以适用。。
-普通话和英语是该计划的官方交流语言，其中一种知识
-足以参加该计划。
-  ospp网站列出了程序的每个阶段的日期。重要的
-今年的日期是：
-
- 4月4日至5月4日：批准的开源社区的项目提交期
- 5月9日至6月9日：学生项目申请期
- 7月1日至9月30日：被公认项目的编码和开发期
-]]></description>
-      <guid>https://mentorship.kde.org/blog/2025-03-29-ospp/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
