@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Apr 2025 18:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 20:40:32 GMT</lastBuildDate>
     <item>
       <title>推出了新的在线探索经验！</title>
       <link>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</link>
@@ -168,6 +168,21 @@
       <pubDate>Mon, 31 Mar 2025 14:09:09 GMT</pubDate>
     </item>
     <item>
+      <title>2025学院将在柏林举行</title>
+      <link>https://akademy.kde.org/news/2025-03_akademy2025locationannouncement/?utm_source=atom_feed</link>
+      <description><![CDATA[    akademy 2025  将于6月6日至9月6日（星期五）在柏林，德国柏林的柏林柏林（Tu Berlin）在柏林柏林（Tu Berlin）举行。
+ Akademy 2025将是一场混合活动，结合了现场和遥远的会议，包括谈话，讲习班，羽毛鸟（BOF）聚会，培训和编码会议。预计该会议将吸引来自全球KDE社区的数百名与会者，以讨论和计划社区的未来及其技术。来自广泛的免费和开源软件社区以及本地组织和软件公司的许多参与者也将参加。论文的呼吁将很快开放，不久之后就注册了。我们将很快更新Akademy的网站；同时，在 Twitter 与Akademy的新闻保持最新状态。
+关于柏林
+柏林是德国首都和最大的城市，人口约370万，位于该国东北部。它拥有超过800年的历史，它是政治，文化和技术的关键中心，是普鲁士王国和后来的德国帝国的首都。
+这座城市以其文化地标，例如勃兰登堡门和国会大厦，以及著名的博物馆岛上的博物馆，这是联合国教科文组织世界遗产的博物馆。柏林还是创新和艺术的枢纽，举办了柏林国际电影节（柏林）等活动，以及RE：Publica等技术会议。它为居民和游客提供各种娱乐活动。
+  TechnisscheUniversität柏林（Tu Berlin）是一所公立研究大学。是德国20所最大的大学之一，拥有100多个学位课程的约35,000名学生。它以强大的工程，计算机科学和自然科学计划而闻名。
+大学促进了跨学科的创新和国际合作。
+ about  akademy   
+在一年中的大部分时间里， kde ，世界上最大的免费和开放软件社区之一，在线通过电子邮件，即时的电子邮件，即时交流，视频信息，视频会议，论坛和邮件列表进行在线通信。  akademy 为所有KDE贡献者提供了机会，有机会亲自见面，以培养社会纽带，从事混凝土技术问题，讨论新的想法，讨论新的思想，并增强了KDE的创新，动态文化。 Akademy汇集了艺术家，设计师，开发人员，翻译人员，用户，作家，赞助商和许多其他类型的KDE贡献者，以庆祝过去一年的成就，并帮助确定明年的方向。动手会议为激烈的工作提供了机会，将这些计划带入了现实。 KDE社区还欢迎公司建立KDE Technology的公司，以及正在寻找机会的公司。]]></description>
+      <guid>https://akademy.kde.org/news/2025-03_akademy2025locationannouncement/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 31 Mar 2025 09:57:49 GMT</pubDate>
+    </item>
+    <item>
       <title>2月/3月在CDE中</title>
       <link>https://www.volkerkrause.eu/2025/03/30/kde-itinerary-february-march-2025.html?utm_source=atom_feed</link>
       <description><![CDATA[]]></description>
@@ -196,13 +211,6 @@
  ]]></description>
       <guid>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</guid>
       <pubDate>Sat, 29 Mar 2025 23:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周在血浆中：零VHI错误等等</title>
-      <link>https://blogs.kde.org/2025/03/29/this-week-in-plasma-zero-vhi-bugs-and-much-more/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/03/29/this-week-in-plasma-zero-vhi-bugs-and-much-more/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 29 Mar 2025 04:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
