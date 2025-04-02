@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Apr 2025 01:16:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2025 04:43:48 GMT</lastBuildDate>
     <item>
       <title>推出了新的在线探索经验！</title>
       <link>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</link>
@@ -19,6 +19,21 @@
       <description><![CDATA[]]></description>
       <guid>http://knro.blogspot.com/2025/04/kstars-v376-is-released.html?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Apr 2025 04:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE等离子体6.3.4，四月份的BugFix发布</title>
+      <link>https://kde.org/announcements/plasma/6/6.3.4/?utm_source=atom_feed</link>
+      <description><![CDATA[ 2025年4月1日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.4。
+  plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
+此版本增加了三周的新翻译和KDE贡献者的修复。这些错误文件通常很小，但很重要，包括：
+
+用触摸滚动时修复故障。  commit.   
+ toolsareamanager：将窗口存储为向量。  commit。 target =“ _空白”&gt;＃501688  
+ KSTYLE：不要重播Scrollbar Mouse事件到同一位置。  commit。 
+
+查看完整的changelog ]]></description>
+      <guid>https://kde.org/announcements/plasma/6/6.3.4/?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>在KDE '25季节准备Kecolab技术文档</title>
@@ -188,29 +203,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2025/03/30/kde-itinerary-february-march-2025.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 30 Mar 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kaidan 0.12.2：删除消息和泡沫修复</title>
-      <link>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</link>
-      <description><![CDATA[ kaidan 0.12.2修复了一些错误。
-看看 changelog 有关更多详细信息。
- ChangElog 
- bugfixes：
-
-修复删除更正的消息（MELVO）
-修复显示消息气泡尾巴仅用于发件人的第一消息（Melvo）
-
-下载
-
-  source code（.tar.xz）（） href =“ https://download.kde.org/unstable/kaidan/0.12.2/kaidan-0.12.2.2.tar.xz.sig” target =“ _ black”&gt; sig 用 04f7aa4d97a4d9724 ）
-    linux（Flatpak on Flathub上） 
-
-或安装kaidan进行您的分发：
- 
-
- ]]></description>
-      <guid>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 29 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
