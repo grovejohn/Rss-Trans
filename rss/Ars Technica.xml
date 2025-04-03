@@ -4,7 +4,21 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Thu, 03 Apr 2025 20:39:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 22:16:16 GMT</lastBuildDate>
+    <item>
+      <title>Google DeepMind发布了其计划，以防止AGI奔跑</title>
+      <link>https://arstechnica.com/ai/2025/04/google-deepmind-releases-its-plan-to-keep-agi-from-running-wild/</link>
+      <description><![CDATA[DeepMind说，Agi可能会在2030年到达，并且有一些想法可以确保我们的安全。]]></description>
+      <guid>https://arstechnica.com/ai/2025/04/google-deepmind-releases-its-plan-to-keep-agi-from-running-wild/</guid>
+      <pubDate>Thu, 03 Apr 2025 21:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google推出了Gmail的端到端消息。唯一的是：这不是真正的e2ee。</title>
+      <link>https://arstechnica.com/security/2025/04/are-new-google-e2ee-emails-really-end-to-end-encrypted-kinda-but-not-really/</link>
+      <description><![CDATA[是的，加密/解密发生在最终用户设备上，但有一个捕获。]]></description>
+      <guid>https://arstechnica.com/security/2025/04/are-new-google-e2ee-emails-really-end-to-end-encrypted-kinda-but-not-really/</guid>
+      <pubDate>Thu, 03 Apr 2025 21:16:49 GMT</pubDate>
+    </item>
     <item>
       <title>BONOBOS的电话可能是我们见过的动物语言的最接近的东西</title>
       <link>https://arstechnica.com/science/2025/04/bonobos-calls-may-be-the-closest-thing-to-animal-language-weve-seen/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>SpaceX刚刚迈出了重复使用Starship的超重助推器的重要一步</title>
       <link>https://arstechnica.com/space/2025/04/spacex-just-took-a-big-step-toward-reusing-starships-super-heavy-booster/</link>
-      <description><![CDATA[SpaceX尚未说过下一艘星际飞船的航班是否会使用新的或经过飞行的助推器。]]></description>
+      <description><![CDATA[“经过飞行的”超重助推器Will Power SpaceX的下一个星际飞船测试飞行。]]></description>
       <guid>https://arstechnica.com/space/2025/04/spacex-just-took-a-big-step-toward-reusing-starships-super-heavy-booster/</guid>
       <pubDate>Thu, 03 Apr 2025 17:11:28 GMT</pubDate>
     </item>
@@ -60,20 +74,6 @@
       <description><![CDATA[对AI专家的罕见调查暴露了公众舆论的深刻鸿沟。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/04/survey-americans-fear-ai-will-hurt-them-experts-expect-the-opposite/</guid>
       <pubDate>Thu, 03 Apr 2025 15:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>带状疱疹疫苗的奖励：痴呆症保护？</title>
-      <link>https://arstechnica.com/science/2025/04/a-bonus-from-the-shingles-vaccine-dementia-protection/</link>
-      <description><![CDATA[该研究表明，当疫苗在威尔士引入时发生了急剧变化。]]></description>
-      <guid>https://arstechnica.com/science/2025/04/a-bonus-from-the-shingles-vaccine-dementia-protection/</guid>
-      <pubDate>Thu, 03 Apr 2025 14:39:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>解释microSD Express卡以及为什么您应该关心它们</title>
-      <link>https://arstechnica.com/gadgets/2025/04/what-is-microsd-express-and-why-is-it-mandatory-for-the-nintendo-switch-2/</link>
-      <description><![CDATA[少量使用的2019标准架起了内部和外部存储之间的差距。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/04/what-is-microsd-express-and-why-is-it-mandatory-for-the-nintendo-switch-2/</guid>
-      <pubDate>Thu, 03 Apr 2025 14:00:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
