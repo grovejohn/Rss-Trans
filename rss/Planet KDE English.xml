@@ -4,25 +4,17 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 02 Apr 2025 22:39:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 02:45:36 GMT</lastBuildDate>
     <item>
       <title>如果您的通知在等离子体6.3.4中看起来有点愚蠢，那是我的错</title>
       <link>https://pointieststick.com/2025/04/02/if-your-notifications-look-kind-of-stupid-in-plasma-6-3-4-its-my-fault/?utm_source=atom_feed</link>
       <description><![CDATA[这是针对昨天发布的每个人升级到等离子6.3.4的每个人。我怀疑你们中的一些人会发现一些有些错误的东西带有通知；顶部的填充物已关闭，导致文本在大多数时候看起来并不垂直居中。
-这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的位置略有丑陋的标签定位。对不起！我的坏。
+这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的定位略有丑陋的标签定位。对不起！我的坏。
 一旦您有修复程序 - 要么是因为您的发行版将其备份，要么是因为您＆＃8217; ve等到等离子体6.3.5，通知文本定位应该再次看起来更好：
 
    ]]></description>
       <guid>https://pointieststick.com/2025/04/02/if-your-notifications-look-kind-of-stupid-in-plasma-6-3-4-its-my-fault/?utm_source=atom_feed</guid>
       <pubDate>Wed, 02 Apr 2025 21:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出了新的在线探索经验！</title>
-      <link>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</link>
-      <description><![CDATA[
- ]]></description>
-      <guid>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Apr 2025 06:25:20 GMT</pubDate>
     </item>
     <item>
       <title>KSTARS v3.7.6发布</title>
@@ -182,18 +174,6 @@
       <pubDate>Mon, 31 Mar 2025 17:50:00 GMT</pubDate>
     </item>
     <item>
-      <title>MCUS 2.10的QT！</title>
-      <link>https://www.qt.io/blog/qt-for-mcus-2.10-released?utm_source=atom_feed</link>
-      <description><![CDATA[
-   
-
- QT Group很高兴宣布MCUS 2.10的QT，该版本充满了令人兴奋的新功能，旨在扩大物联网，消费者和汽车段的GUI功能。此更新充满了增强功能，这些增强功能将使开发人员能够创建更具动态和高效的应用程序。
-此博客列出了2.10版本中的一些杰出亮点。
-]]></description>
-      <guid>https://www.qt.io/blog/qt-for-mcus-2.10-released?utm_source=atom_feed</guid>
-      <pubDate>Mon, 31 Mar 2025 14:09:09 GMT</pubDate>
-    </item>
-    <item>
       <title>2025学院将在柏林举行</title>
       <link>https://akademy.kde.org/news/2025-03_akademy2025locationannouncement/?utm_source=atom_feed</link>
       <description><![CDATA[    akademy 2025  将于6月6日至9月6日（星期六）在柏林，德国柏林的柏林柏林（Tu Berlin）在柏林柏林（Tu Berlin）举行。
@@ -207,6 +187,36 @@
 在一年中的大部分时间里， kde ，世界上最大的免费和开放软件社区之一，在线通过电子邮件，即时的电子邮件，即时交流，视频信息，视频会议，论坛和邮件列表进行在线通信。  akademy 为所有KDE贡献者提供了机会，有机会亲自见面，以培养社会纽带，从事混凝土技术问题，讨论新的想法，讨论新的思想，并增强了KDE的创新，动态文化。 Akademy汇集了艺术家，设计师，开发人员，翻译人员，用户，作家，赞助商和许多其他类型的KDE贡献者，以庆祝过去一年的成就，并帮助确定明年的方向。动手会议为激烈的工作提供了机会，将这些计划带入了现实。 KDE社区还欢迎公司建立KDE Technology的公司，以及正在寻找机会的公司。]]></description>
       <guid>https://akademy.kde.org/news/2025-03_akademy2025locationannouncement/?utm_source=atom_feed</guid>
       <pubDate>Mon, 31 Mar 2025 09:57:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>2月/3月在CDE中</title>
+      <link>https://www.volkerkrause.eu/2025/03/30/kde-itinerary-february-march-2025.html?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.volkerkrause.eu/2025/03/30/kde-itinerary-february-march-2025.html?utm_source=atom_feed</guid>
+      <pubDate>Sun, 30 Mar 2025 11:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kaidan 0.12.2：删除消息和泡沫修复</title>
+      <link>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</link>
+      <description><![CDATA[ kaidan 0.12.2修复了一些错误。
+看看 changelog 有关更多详细信息。
+ ChangElog 
+ bugfixes：
+
+修复删除更正的消息（MELVO）
+修复显示消息气泡尾巴仅用于发件人的第一消息（Melvo）
+
+下载
+
+  source code（.tar.xz）（） href =“ https://download.kde.org/unstable/kaidan/0.12.2/kaidan-0.12.2.2.tar.xz.sig” target =“ _ black”&gt; sig 用 04f7aa4d97a4d9724 ）
+    linux（Flatpak on Flathub上） 
+
+或安装kaidan进行您的分发：
+ 
+
+ ]]></description>
+      <guid>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</guid>
+      <pubDate>Sat, 29 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
