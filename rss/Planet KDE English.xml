@@ -4,12 +4,19 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Thu, 03 Apr 2025 02:45:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 11:15:07 GMT</lastBuildDate>
+    <item>
+      <title>模型/视图拖动QT中 - 第3部分</title>
+      <link>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-3/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-3/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 03 Apr 2025 08:43:22 GMT</pubDate>
+    </item>
     <item>
       <title>如果您的通知在等离子体6.3.4中看起来有点愚蠢，那是我的错</title>
       <link>https://pointieststick.com/2025/04/02/if-your-notifications-look-kind-of-stupid-in-plasma-6-3-4-its-my-fault/?utm_source=atom_feed</link>
       <description><![CDATA[这是针对昨天发布的每个人升级到等离子6.3.4的每个人。我怀疑你们中的一些人会发现一些有些错误的东西带有通知；顶部的填充物已关闭，导致文本在大多数时候看起来并不垂直居中。
-这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的定位略有丑陋的标签定位。对不起！我的坏。
+这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的位置略有丑陋的标签定位。对不起！我的坏。
 一旦您有修复程序 - 要么是因为您的发行版将其备份，要么是因为您＆＃8217; ve等到等离子体6.3.5，通知文本定位应该再次看起来更好：
 
    ]]></description>
@@ -194,29 +201,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.volkerkrause.eu/2025/03/30/kde-itinerary-february-march-2025.html?utm_source=atom_feed</guid>
       <pubDate>Sun, 30 Mar 2025 11:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kaidan 0.12.2：删除消息和泡沫修复</title>
-      <link>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</link>
-      <description><![CDATA[ kaidan 0.12.2修复了一些错误。
-看看 changelog 有关更多详细信息。
- ChangElog 
- bugfixes：
-
-修复删除更正的消息（MELVO）
-修复显示消息气泡尾巴仅用于发件人的第一消息（Melvo）
-
-下载
-
-  source code（.tar.xz）（） href =“ https://download.kde.org/unstable/kaidan/0.12.2/kaidan-0.12.2.2.tar.xz.sig” target =“ _ black”&gt; sig 用 04f7aa4d97a4d9724 ）
-    linux（Flatpak on Flathub上） 
-
-或安装kaidan进行您的分发：
- 
-
- ]]></description>
-      <guid>https://kaidan.im/2025/03/30/kaidan-0.12.2/?utm_source=atom_feed</guid>
-      <pubDate>Sat, 29 Mar 2025 23:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
