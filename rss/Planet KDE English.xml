@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Apr 2025 10:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 13:25:29 GMT</lastBuildDate>
+    <item>
+      <title>网络评论，第2025-14周</title>
+      <link>https://ervin.ipsquad.net/blog/2025/04/04/web-review-week-2025-14/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://ervin.ipsquad.net/blog/2025/04/04/web-review-week-2025-14/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 04 Apr 2025 10:28:45 GMT</pubDate>
+    </item>
     <item>
       <title>Akademy 2025致电提案现已开放</title>
       <link>https://akademy.kde.org/news/2025-04-03_akademy-2025-call-for-proposals/?utm_source=atom_feed</link>
@@ -37,7 +44,7 @@
       <title>如果您的通知在等离子体6.3.4中看起来有点愚蠢，那是我的错</title>
       <link>https://pointieststick.com/2025/04/02/if-your-notifications-look-kind-of-stupid-in-plasma-6-3-4-its-my-fault/?utm_source=atom_feed</link>
       <description><![CDATA[这是针对昨天发布的每个人升级到等离子6.3.4的每个人。我怀疑你们中的一些人会发现一些有些错误的东西带有通知；顶部的填充物已关闭，导致文本在大多数时候看起来并不垂直居中。
-这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的位置略有丑陋的标签定位。对不起！我的坏。
+这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的定位略有丑陋的标签定位。对不起！我的坏。
 一旦您有修复程序 - 要么是因为您的发行版将其备份，要么是因为您＆＃8217; ve等到等离子体6.3.5，通知文本定位应该再次看起来更好：
 
    ]]></description>
@@ -94,120 +101,6 @@
       <description><![CDATA[]]></description>
       <guid>https://eco.kde.org/blog/2025-03-25-utkarsh-sok25-kecolab/?utm_source=atom_feed</guid>
       <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>结束我的索克旅程</title>
-      <link>https://shubshinde.bearblog.dev/wrapping-up-my-sok-journey/?utm_source=atom_feed</link>
-      <description><![CDATA[ 介绍 -   在过去的10周内，我有机会通过探索和集成了游戏玩法的新算法来为Mankalaengine做出贡献，并致力于将Pallanguli变体添加到引擎中。我的旅程涉及研究各种算法，例如蒙特卡洛树搜索（MCT），实施Q学习，一种基于ML的方法，并评估其针对Mankalaengine现有算法的性能。还有助于审查Pallanguli变体的实施。
-实现和测试MCT   i首先探索了Monte Carlo Tree Search（MCTS）并在Mankalaengine中实施。为了评估其有效性，我针对现有算法（例如minimax和mtdf）进行了测试，这些算法在每次移动之前在深度7中运行。
-在
-
-
-玩家1 
-玩家2 
- mcts赢率
-
-
-
-
-随机
- MCTS 
- 80％
-
-
- MCTS 
-随机
- 60％
-
-
- minimax 
- MCTS 
- 0％
-
-
- MCTS 
- minimax 
- 0％
-
-
- mtdf 
- MCTS 
- 0％
-
-
- MCTS 
- mtdf 
- 0％
-
-
-
-结果还不够好。这是可以预期的，因为现有的minimax和MTDF算法很强，并且在每次移动之前在深度7中运行。
-移至机器学习：实施Q学习。 鉴于MCTS针对强大的代理的性能不佳，我探索了机器学习（ML）技术，特别是Q-Learning，特别是Q-Learning，是一种增强的学习算法。在学习了其机制后，我在Mankalaengine实施并培训了Q学习代理，并针对现有算法进行了测试。
-在
-
-
-玩家1 
-玩家2 
- Q学习赢率
-
-
-
-
-随机
- Q-Learning 
- 100％
-
-
- Q-Learning 
-随机
- 98％
-
-
- minimax 
- Q-Learning 
- 100％
-
-
- Q-Learning 
- minimax 
- 0％
-
-
- mtdf 
- Q-Learning 
- 100％
-
-
- Q-Learning 
- mtdf 
- 10％
-
-
-
- Q学习显示出显着改善，在大多数情况下都击败了现有算法。但是，它仍然有弱点。
-探索以改善Q学习结果的技术： 提高性能，我尝试了以下技术：
-
- 使用epsilon衰减来平衡探索（随机移动）和剥削（使用学习策略）。
-
- 增加了胜利的奖励，以加强成功的策略。
-
- 针对Minimax和MTDF而不是仅针对自己的训练Q学习。
-
-
-尽管进行了这些改进，但Q学习仍然不能始终超过所有现有算法。
-在这些实验和研究之后，我相信需要更高级算法（例如DQN或Double DQN）以胜过所有现有算法。这也是今年夏天的一个令人兴奋的项目。
- 除了探索ML算法之外，我还努力整合Mancala Game的Pallanguli变体。我的贡献包括：
-
- 审查Srisharan的代码，建议修复和讨论。
-
- 创建合并请求（MR），允许用户输入Pallanguli的自定义初始计数器。
-
-
-结论 -   这一旅程是一次令人难以置信的学习经历，我感谢我的导师Benson Muite和JoãoGouveia的指导，他们总是在那里提供帮助。 
-我期待着继续对KDE社区的贡献，因为我真的很喜欢在这里完成的工作。
-感谢KDE社区的这一绝佳机会！]]></description>
-      <guid>https://shubshinde.bearblog.dev/wrapping-up-my-sok-journey/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 31 Mar 2025 18:49:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
