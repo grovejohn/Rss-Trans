@@ -4,7 +4,28 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 04 Apr 2025 04:43:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 10:42:30 GMT</lastBuildDate>
+    <item>
+      <title>Akademy 2025致电提案现已开放</title>
+      <link>https://akademy.kde.org/news/2025-04-03_akademy-2025-call-for-proposals/?utm_source=atom_feed</link>
+      <description><![CDATA[  Akademy 2025 将是同时在德国，德国和在线举行的混合活动。  呼叫参与 是开放的！向我们发送您的谈话想法和摘要。
+为什么在＃akademy2025 交谈
+ Akademy吸引了艺术家，设计师，开发人员，翻译人员，用户，作家，公司，公共机构以及许多其他KDE朋友和贡献者。我们庆祝成就，并帮助确定明年的方向。我们大家聚会讨论和计划社区的未来以及我们建立的技术。您将遇到能够接受您的想法的人，并可以帮助您获得他们的技能和经验。您将有机会介绍您的应用程序，分享想法和最佳实践或获得新的贡献者。这些会议提供了获得支持并使您的项目计划成为现实的机会。
+如何开始
+现在不必担心细节或幻灯片。只需考虑一个想法，并提交有关您的演讲的一些基本细节。您可以在初始提交后编辑摘要。欢迎与KDE社区相关的所有主题。这里有一些想法可以让您开始提出建议：
+
+ KDE如何在不断变化的政治气候中授权建立强大的社区
+为
+通过KDE软件为人们提供更多的数字自由，主权和自主权
+指南如何参加新用户，中间人和专家，
+ KDE框架，等离子体，应用程序和其他项目的新开发/计划
+其他任何可能感兴趣的人。
+
+要了解接受的会谈的想法，请查看以前几年的计划：  2024  2024  2024 ，  target =“ _ black” title =“ https://conf.kde.org/event/5/contributions/”&gt;  2023  ，  2022  ，  2021   and   2020  。
+有关更多详细信息和信息，请访问我们的致电参加参与。]]></description>
+      <guid>https://akademy.kde.org/news/2025-04-03_akademy-2025-call-for-proposals/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 03 Apr 2025 10:04:55 GMT</pubDate>
+    </item>
     <item>
       <title>模型/视图拖动QT中 - 第3部分</title>
       <link>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-3/?utm_source=atom_feed</link>
@@ -187,13 +208,6 @@
 感谢KDE社区的这一绝佳机会！]]></description>
       <guid>https://shubshinde.bearblog.dev/wrapping-up-my-sok-journey/?utm_source=atom_feed</guid>
       <pubDate>Mon, 31 Mar 2025 18:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于亮度，并校准您的显示器</title>
-      <link>https://zamundaaa.github.io/colormanagement/2025/03/31/about-brightness.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://zamundaaa.github.io/colormanagement/2025/03/31/about-brightness.html?utm_source=atom_feed</guid>
-      <pubDate>Mon, 31 Mar 2025 17:50:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
