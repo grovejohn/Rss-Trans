@@ -4,7 +4,21 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Mon, 07 Apr 2025 20:39:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 22:16:02 GMT</lastBuildDate>
+    <item>
+      <title>任天堂解释了为什么Switch 2硬件和软件的成本如此之多</title>
+      <link>https://arstechnica.com/gaming/2025/04/nintendo-explains-why-switch-2-hardware-and-software-prices-cost-so-much/</link>
+      <description><![CDATA[$ 450的系统不会亏本出售，没有考虑到关税的价格。]]></description>
+      <guid>https://arstechnica.com/gaming/2025/04/nintendo-explains-why-switch-2-hardware-and-software-prices-cost-so-much/</guid>
+      <pubDate>Mon, 07 Apr 2025 21:00:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Freedos 1.4为现代和老式DOS PC带来新的修复和功能</title>
+      <link>https://arstechnica.com/gadgets/2025/04/fire-up-your-compaq-deskpro-freedos-1-4-is-the-first-stable-update-since-2022/</link>
+      <description><![CDATA[独立的开发人员将命令提示符在新旧的PC上保持活力。]]></description>
+      <guid>https://arstechnica.com/gadgets/2025/04/fire-up-your-compaq-deskpro-freedos-1-4-is-the-first-stable-update-since-2022/</guid>
+      <pubDate>Mon, 07 Apr 2025 20:39:24 GMT</pubDate>
+    </item>
     <item>
       <title>Meta惊喜的美洲驼4滴揭示了AI野心与现实之间的差距</title>
       <link>https://arstechnica.com/ai/2025/04/metas-surprise-llama-4-drop-exposes-the-gap-between-ai-ambition-and-reality/</link>
@@ -60,20 +74,6 @@
       <description><![CDATA[华尔兹显然接受了iPhone联系建议，而无需验证准确性。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/04/white-house-figures-out-how-it-texted-secret-bombing-plans-to-a-reporter/</guid>
       <pubDate>Mon, 07 Apr 2025 17:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Switch 2的任天堂的“游戏键卡”的防御</title>
-      <link>https://arstechnica.com/gadgets/2025/04/a-begrudging-defense-of-nintendos-game-key-cards-for-the-switch-2/</link>
-      <description><![CDATA[操作：游戏键卡有问题，但我将其访问仅下载。]]></description>
-      <guid>https://arstechnica.com/gadgets/2025/04/a-begrudging-defense-of-nintendos-game-key-cards-for-the-switch-2/</guid>
-      <pubDate>Mon, 07 Apr 2025 16:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>日本的F1提醒我们，一条很棒的曲目可能不会为一场伟大的比赛带来</title>
-      <link>https://arstechnica.com/cars/2025/04/f1-in-japan-reminds-us-a-great-track-might-not-make-for-a-great-race/</link>
-      <description><![CDATA[这就是2025年日本大奖赛如此无聊的原因。]]></description>
-      <guid>https://arstechnica.com/cars/2025/04/f1-in-japan-reminds-us-a-great-track-might-not-make-for-a-great-race/</guid>
-      <pubDate>Mon, 07 Apr 2025 16:34:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
