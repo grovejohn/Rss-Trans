@@ -4,7 +4,18 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 06 Apr 2025 16:42:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 09:18:41 GMT</lastBuildDate>
+    <item>
+      <title>QT 6.9中的导航文档</title>
+      <link>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</link>
+      <description><![CDATA[
+    
+
+ 在这篇博客文章中，我想谈谈您可以在   ＆nbsp;  
+]]></description>
+      <guid>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</guid>
+      <pubDate>Mon, 07 Apr 2025 07:21:46 GMT</pubDate>
+    </item>
     <item>
       <title>只是工作™的工具……直到他们不工作</title>
       <link>https://pointieststick.com/2025/04/06/tools-that-just-work-until-they-dont/?utm_source=atom_feed</link>
@@ -93,26 +104,12 @@ And since then, both companies went in exactly in the directions I expected: Pru
       <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>KSTARS v3.7.6发布</title>
-      <link>http://knro.blogspot.com/2025/04/kstars-v376-is-released.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>http://knro.blogspot.com/2025/04/kstars-v376-is-released.html?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Apr 2025 04:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE等离子体6.3.4，四月份的BugFix发布</title>
-      <link>https://kde.org/announcements/plasma/6/6.3.4/?utm_source=atom_feed</link>
-      <description><![CDATA[ 2025年4月1日，星期二。今天，KDE将BugFix更新到KDE等离子6，版本为6.3.4。
-  plasma 6.3 于2025年2月发布，具有许多功能改进和新的模块，以完成桌面体验。
-此版本增加了三周的新翻译和KDE贡献者的修复。这些错误文件通常很小，但很重要，包括：
-
-用触摸滚动时修复故障。  commit.   
- toolsareamanager：将窗口存储为向量。  commit。 target =“ _空白”&gt;＃501688  
- KSTYLE：不要重播Scrollbar Mouse事件到同一位置。  commit。 
-
-查看完整的changelog ]]></description>
-      <guid>https://kde.org/announcements/plasma/6/6.3.4/?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Apr 2025 00:00:00 GMT</pubDate>
+      <title>推出了新的在线探索经验！</title>
+      <link>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</link>
+      <description><![CDATA[
+ ]]></description>
+      <guid>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</guid>
+      <pubDate>Tue, 01 Apr 2025 06:25:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
