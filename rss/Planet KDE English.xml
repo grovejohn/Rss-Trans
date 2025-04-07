@@ -4,7 +4,57 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Apr 2025 09:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 13:27:05 GMT</lastBuildDate>
+    <item>
+      <title>KDE快照更新，Kubuntu更新，更多的生活更新！</title>
+      <link>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-updates-more-life-updates/?utm_source=atom_feed</link>
+      <description><![CDATA[
+在src =“ https://www.scarlettgaterymoore.dev/wp-content/uploads/331261813_890048595635057_5783061028004673673687_N.N.JPG” width =“ 1530”/&gt; 冰冷的早晨女巫韦尔斯az     
+ 生活： 
+上周我们享受春天，本周冬天卷土重来！在骨折的前线上的好消息，感染消失了，因此他们终于可以再次处理破裂的问题。 4月25日，我将进行侵入性较小的手术，以将骨头恢复在一起，以便它们可以正确地编织在一起！如果您可以节省任何更改，请考虑捐赠我的持续康复和康复，或者只是支持我的工作 
+
+  gofundme  
+  patreon  
+  github  github    
+  donorbox  
+
+  kubuntu： 
+在测试beta时，我遇到了由于Apparmor而遇到了一些崩溃的应用程序（即PIM）。我已经上传了Kmail，Akregator，Akonadiconsole，Konqueror，Tellico 的固定配置文件
+
+
+
+  kde快照： 
+Added sctp support in Qt  https://invent.kde.org/neon/snap-packaging/kde-qt6-core-sdk/-/commit/commit/bbcb1dc39044b9303030330ab718c8fabfaabfabfabfababfababfa20ccd2b0f75  
+这将使我能够完成Pyside6快照并修复Freecad构建。
+更改了在KF6-Core24-SDK中释放的构建类型，这将大大减少KF6-Core24的大小。 
+修复了KF5-Core24和KF6-Core24 Snapcraft-Desktop-Integration中的一些启动错误。
+  https://invent.kde.org/neon/snap-packaging/kf6-core-sdk/-/merge_requests/3  
+ KDE应用程序25.03.90 RC发布到＆＃8211;候选人（我知道它说24.12.3，版本赢得了＆＃8217; t将更新到25.04.0版本））
+
+
+
+ kasts core24固定在＆＃8211;候选中 &lt; /p&gt;
+
+
+
+ Kate Now Core24以微风为主题！ ＆＃8211;候选人 &lt; /p&gt;
+
+
+
+ neochat：固定的QML缺少QML和25.04在＆＃8211;候选中的依赖项 &lt; /p&gt;
+
+
+
+ Kdenlive现在使用Galxnimate Animations！ ＆＃8211;候选人
+ digikam 8.6.0现在在＆＃8211; stable 中获得扫描仪的支持
+
+
+
+ KSTARS 3.7.6发布到＆＃8211; stable稳定，删除的商店被拒绝插头。
+感谢您停止！]]></description>
+      <guid>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-updates-more-life-updates/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 07 Apr 2025 12:13:49 GMT</pubDate>
+    </item>
     <item>
       <title>QT 6.9中的导航文档</title>
       <link>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</link>
@@ -73,7 +123,7 @@ And since then, both companies went in exactly in the directions I expected: Pru
  KDE框架，等离子体，应用程序和其他项目的新开发/计划
 其他任何可能感兴趣的人。
 
-要了解接受的会谈的想法，请查看以前几年的计划：  2024  2024  2024 ，  target =“ _ black” title =“ https://conf.kde.org/event/5/contributions/”&gt;  2023  ，  2022  ，  2021   and   2020  。
+要了解接受的会谈的想法，请查看往年的计划：  2024  2024  ，  target =“ _ black” title =“ https://conf.kde.org/event/5/contributions/”&gt;  2023  ，  2022  ，  2021   and   2020  。
 有关更多详细信息和信息，请访问我们的致电参加参与。]]></description>
       <guid>https://akademy.kde.org/news/2025-04-03_akademy-2025-call-for-proposals/?utm_source=atom_feed</guid>
       <pubDate>Thu, 03 Apr 2025 10:04:55 GMT</pubDate>
@@ -89,7 +139,7 @@ And since then, both companies went in exactly in the directions I expected: Pru
       <title>如果您的通知在等离子体6.3.4中看起来有点愚蠢，那是我的错</title>
       <link>https://pointieststick.com/2025/04/02/if-your-notifications-look-kind-of-stupid-in-plasma-6-3-4-its-my-fault/?utm_source=atom_feed</link>
       <description><![CDATA[这是针对昨天发布的每个人升级到等离子6.3.4的每个人。我怀疑你们中的一些人会发现一些有些错误的东西带有通知；顶部的填充物已关闭，导致文本在大多数时候看起来并不垂直居中。
-这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的位置略有丑陋的标签定位。对不起！我的坏。
+这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的定位略有丑陋的标签定位。对不起！我的坏。
 一旦您有修复程序 - 要么是因为您的发行版将其备份，要么是因为您＆＃8217; ve等到等离子体6.3.5，通知文本定位应该再次看起来更好：
 
    ]]></description>
@@ -102,14 +152,6 @@ And since then, both companies went in exactly in the directions I expected: Pru
       <description><![CDATA[]]></description>
       <guid>https://blogs.kde.org/2025/04/02/konsole-layout-automation-part-2/?utm_source=atom_feed</guid>
       <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出了新的在线探索经验！</title>
-      <link>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</link>
-      <description><![CDATA[
- ]]></description>
-      <guid>https://www.qt.io/blog/new-online-exploring-experience-launched?utm_source=atom_feed</guid>
-      <pubDate>Tue, 01 Apr 2025 06:25:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
