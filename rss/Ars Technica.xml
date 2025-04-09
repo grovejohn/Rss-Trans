@@ -4,7 +4,21 @@
     <title>ARS Technica-所有内容</title>
     <link>https://arstechnica.com</link>
     <description>所有ARS技术故事</description>
-    <lastBuildDate>Wed, 09 Apr 2025 18:23:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Apr 2025 20:17:45 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI的GPT可帮助垃圾邮件发送者发送80,000条绕过过滤器的消息</title>
+      <link>https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/</link>
+      <description><![CDATA[公司没有注意到其聊天机器人被滥用了（至少）4个月。]]></description>
+      <guid>https://arstechnica.com/security/2025/04/openais-gpt-helps-spammers-send-blast-of-80000-messages-that-bypassed-filters/</guid>
+      <pubDate>Wed, 09 Apr 2025 19:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过数月的用户投诉，Anthropic首次亮相新的$ 200/月AI计划</title>
+      <link>https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/</link>
+      <description><![CDATA[两层“ Claude Max”扩大了利率限制，并为订户提供了流量优先级。]]></description>
+      <guid>https://arstechnica.com/ai/2025/04/anthropic-launches-200-claude-max-ai-plan-with-20x-higher-usage-limits/</guid>
+      <pubDate>Wed, 09 Apr 2025 19:20:07 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 11的Cop​​ilot Vision希望帮助您学习使用复杂的应用程序</title>
       <link>https://arstechnica.com/gadgets/2025/04/windows-11s-copilot-vision-wants-to-help-you-learn-to-use-complicated-apps/</link>
@@ -27,7 +41,7 @@
       <pubDate>Wed, 09 Apr 2025 16:36:47 GMT</pubDate>
     </item>
     <item>
-      <title>梅塔（Meta）秘密帮助中国前进AI，前法赛（Facebooker）将告诉国会</title>
+      <title>梅塔（Meta）秘密地帮助中国前进，前法赛（Facebooker）将告诉国会</title>
       <link>https://arstechnica.com/tech-policy/2025/04/congress-to-question-whistleblower-who-accused-meta-of-helping-china-in-ai-race/</link>
       <description><![CDATA[尽管在新闻访谈中进行了插科打命令，但梅塔举报人仍可以向国会作证。]]></description>
       <guid>https://arstechnica.com/tech-policy/2025/04/congress-to-question-whistleblower-who-accused-meta-of-helping-china-in-ai-race/</guid>
@@ -60,20 +74,6 @@
       <description><![CDATA[美国市场已经离开煤炭了数十年。]]></description>
       <guid>https://arstechnica.com/science/2025/04/trump-throws-coal-a-lifeline-but-the-energy-industry-has-moved-on/</guid>
       <pubDate>Wed, 09 Apr 2025 14:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>ARS CARGO电子自行车购买指南（或严重）</title>
-      <link>https://arstechnica.com/cars/2025/04/the-ars-cargo-e-bike-buying-guide-for-the-bike-curious-or-serious/</link>
-      <description><![CDATA[有趣而功能运输？看看为什么这些自行车风靡一时。]]></description>
-      <guid>https://arstechnica.com/cars/2025/04/the-ars-cargo-e-bike-buying-guide-for-the-bike-curious-or-serious/</guid>
-      <pubDate>Wed, 09 Apr 2025 10:00:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>马里奥卡丁车界的80美元价格不高，从历史上看</title>
-      <link>https://arstechnica.com/gaming/2025/04/will-mario-kart-worlds-80-price-become-gamings-new-normal/</link>
-      <description><![CDATA[对通货膨胀的调整显示，最近过去的游戏机价格较高。]]></description>
-      <guid>https://arstechnica.com/gaming/2025/04/will-mario-kart-worlds-80-price-become-gamings-new-normal/</guid>
-      <pubDate>Tue, 08 Apr 2025 21:26:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
