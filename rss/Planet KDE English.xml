@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Wed, 09 Apr 2025 18:46:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 02:47:37 GMT</lastBuildDate>
     <item>
       <title>韦斯利·加德纳（Wesley Gardner）礼物：与克里塔（Krita）一起绘画和绘画</title>
       <link>https://krita.org/en/posts/2025/draw_and_paint_better_with_krita/?utm_source=atom_feed</link>
@@ -121,17 +121,6 @@ Added sctp support in Qt  https://invent.kde.org/neon/snap-packaging/kde-qt6-cor
       <pubDate>Mon, 07 Apr 2025 12:13:49 GMT</pubDate>
     </item>
     <item>
-      <title>QT 6.9中的导航文档</title>
-      <link>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</link>
-      <description><![CDATA[
-    
-
- 在这篇博客文章中，我想谈谈您可以在   ＆nbsp;  
-]]></description>
-      <guid>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</guid>
-      <pubDate>Mon, 07 Apr 2025 07:21:46 GMT</pubDate>
-    </item>
-    <item>
       <title>只是工作™的工具……直到他们不工作</title>
       <link>https://pointieststick.com/2025/04/06/tools-that-just-work-until-they-dont/?utm_source=atom_feed</link>
       <description><![CDATA[作为一个前苹果家伙，这么说这让我有些痛苦，但是我开始相信整体＆＃8220;它只是有效的＆＃8221;事情是暂时的幻想。 
@@ -210,6 +199,13 @@ And since then, both companies went in exactly in the directions I expected: Pru
    ]]></description>
       <guid>https://pointieststick.com/2025/04/02/if-your-notifications-look-kind-of-stupid-in-plasma-6-3-4-its-my-fault/?utm_source=atom_feed</guid>
       <pubDate>Wed, 02 Apr 2025 21:51:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konsole布局自动化（第2部分）</title>
+      <link>https://blogs.kde.org/2025/04/02/konsole-layout-automation-part-2/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/04/02/konsole-layout-automation-part-2/?utm_source=atom_feed</guid>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
