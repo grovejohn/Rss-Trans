@@ -4,7 +4,7 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 11 Apr 2025 13:25:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 14:41:55 GMT</lastBuildDate>
     <item>
       <title>网络评论，第2025-15周</title>
       <link>https://ervin.ipsquad.net/blog/2025/04/11/web-review-week-2025-15/?utm_source=atom_feed</link>
@@ -19,6 +19,13 @@
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-16.0.1-released?utm_source=atom_feed</guid>
       <pubDate>Fri, 11 Apr 2025 09:44:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>最后一周的更新 -  KDE 2025季</title>
+      <link>https://coosmos.github.io/posts/Week5/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://coosmos.github.io/posts/Week5/?utm_source=atom_feed</guid>
+      <pubDate>Thu, 10 Apr 2025 18:30:00 GMT</pubDate>
     </item>
     <item>
       <title>韦斯利·加德纳（Wesley Gardner）礼物：与克里塔（Krita）一起绘画和绘画</title>
@@ -88,12 +95,55 @@ Krita遗产的一部分以及团队以及所有艺术家
     <item>
       <title>KDE快照更新，Kubuntu更新，更多的生活更新！</title>
       <link>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-updates-more-life-updates/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
+      <description><![CDATA[
+在src =“ https://www.scarlettgaterymoore.dev/wp-content/uploads/331261813_890048595635057_5783061028004673673687_N.N.JPG” width =“ 1530”/&gt; 冰冷的早晨女巫韦尔斯az     
+ 生活： 
+上周我们享受春天，本周冬天卷土重来！在骨折的前线上的好消息，感染消失了，因此他们终于可以再次处理破裂的问题。 4月25日，我将进行侵入性较小的手术，以将骨头恢复在一起，以便它们可以正确地编织在一起！如果您可以节省任何更改，请考虑捐赠我的持续康复和康复，或者只是支持我的工作 
+
+  gofundme  
+  patreon  
+  github  github    
+  donorbox  
+
+  kubuntu： 
+在测试beta时，我遇到了由于Apparmor而遇到了一些崩溃的应用程序（即PIM）。我已经上传了Kmail，Akregator，Akonadiconsole，Konqueror，Tellico 的固定配置文件
+
+
+
+  kde快照： 
+Added sctp support in Qt  https://invent.kde.org/neon/snap-packaging/kde-qt6-core-sdk/-/commit/commit/bbcb1dc39044b9303030330ab718c8fabfaabfabfabfababfababfa20ccd2b0f75  
+这将使我能够完成Pyside6快照并修复Freecad构建。
+更改了在KF6-Core24-SDK中释放的构建类型，这将大大减少KF6-Core24的大小。 
+修复了KF5-Core24和KF6-Core24 Snapcraft-Desktop-Integration中的一些启动错误。
+  https://invent.kde.org/neon/snap-packaging/kf6-core-sdk/-/merge_requests/3  
+ KDE应用程序25.03.90 RC发布到＆＃8211;候选人（我知道它说24.12.3，版本赢得了＆＃8217; t将更新到25.04.0版本））
+
+
+
+ kasts core24固定在＆＃8211;候选中 &lt; /p&gt;
+
+
+
+ Kate Now Core24以微风为主题！ ＆＃8211;候选人 &lt; /p&gt;
+
+
+
+ neochat：固定的QML缺少QML和25.04在＆＃8211;候选中的依赖项 &lt; /p&gt;
+
+
+
+ Kdenlive现在使用Galxnimate Animations！ ＆＃8211;候选人
+ digikam 8.6.0现在在＆＃8211; stable 中获得扫描仪的支持
+
+
+
+ KSTARS 3.7.6发布到＆＃8211; stable稳定，删除的商店被拒绝插头。
+感谢您停止！]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-updates-more-life-updates/?utm_source=atom_feed</guid>
       <pubDate>Mon, 07 Apr 2025 12:13:49 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>QT 6.9中的导航文档</title>
       <link>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</link>
       <description><![CDATA[
     
@@ -143,27 +193,6 @@ And since then, both companies went in exactly in the directions I expected: Pru
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/04/04/web-review-week-2025-14/?utm_source=atom_feed</guid>
       <pubDate>Fri, 04 Apr 2025 10:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akademy 2025致电提案现已开放</title>
-      <link>https://akademy.kde.org/news/2025-04-03_akademy-2025-call-for-proposals/?utm_source=atom_feed</link>
-      <description><![CDATA[  Akademy 2025 将是同时在德国，德国和在线举行的混合活动。  呼叫参与 是开放的！向我们发送您的谈话想法和摘要。
-为什么在＃akademy2025 交谈
- Akademy吸引了艺术家，设计师，开发人员，翻译人员，用户，作家，公司，公共机构以及许多其他KDE朋友和贡献者。我们庆祝成就，并帮助确定明年的方向。我们大家聚会讨论和计划社区的未来以及我们建立的技术。您将遇到能够接受您的想法的人，并可以帮助您获得他们的技能和经验。您将有机会介绍您的应用程序，分享想法和最佳实践或获得新的贡献者。这些会议提供了获得支持并使您的项目计划成为现实的机会。
-如何开始
-现在不必担心细节或幻灯片。只需考虑一个想法，并提交有关您的演讲的一些基本细节。您可以在初始提交后编辑摘要。欢迎与KDE社区相关的所有主题。这里有一些想法可以让您开始提出建议：
-
- KDE如何在不断变化的政治气候中授权建立强大的社区
-为
-通过KDE软件为人们提供更多的数字自由，主权和自主权
-指南如何参加新用户，中间人和专家，
- KDE框架，等离子体，应用程序和其他项目的新开发/计划
-其他任何可能感兴趣的人。
-
-要了解接受的会谈的想法，请查看以前几年的计划：  2024  2024  2024 ，  target =“ _ black” title =“ https://conf.kde.org/event/5/contributions/”&gt;  2023  ，  2022  ，  2021   and   2020  。
-有关更多详细信息和信息，请访问我们的致电参加参与。]]></description>
-      <guid>https://akademy.kde.org/news/2025-04-03_akademy-2025-call-for-proposals/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 03 Apr 2025 10:04:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
