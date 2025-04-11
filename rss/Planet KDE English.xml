@@ -4,7 +4,15 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Fri, 11 Apr 2025 02:47:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Apr 2025 10:42:58 GMT</lastBuildDate>
+    <item>
+      <title>QT创建者16.0.1发布</title>
+      <link>https://www.qt.io/blog/qt-creator-16.0.1-released?utm_source=atom_feed</link>
+      <description><![CDATA[我们很乐意宣布QT Creator 16.0.1！的发布  
+]]></description>
+      <guid>https://www.qt.io/blog/qt-creator-16.0.1-released?utm_source=atom_feed</guid>
+      <pubDate>Fri, 11 Apr 2025 09:44:54 GMT</pubDate>
+    </item>
     <item>
       <title>韦斯利·加德纳（Wesley Gardner）礼物：与克里塔（Krita）一起绘画和绘画</title>
       <link>https://krita.org/en/posts/2025/draw_and_paint_better_with_krita/?utm_source=atom_feed</link>
@@ -29,9 +37,9 @@ Krita’的油漆更好
 
  krita我相信数字艺术的一切：开放访问，
 可自定义以满足您的需求，易于入门，并且不可能
-掌握。总有一些新的东西要学习艺术，同样，
+掌握。总有一些新的东西要在艺术中学习，同样，
 在Krita中总会有一些有趣的东西。是否是
-通过不断扩展的层管理可以获得各种效果
+您可以通过不断扩展的层管理获得各种效果
 和调整，或近乎无限的不可思议的习俗
 社区制造的刷子，总有一种新的推动方式
 自己在旅途中的下一个层次。
@@ -121,6 +129,17 @@ Added sctp support in Qt  https://invent.kde.org/neon/snap-packaging/kde-qt6-cor
       <pubDate>Mon, 07 Apr 2025 12:13:49 GMT</pubDate>
     </item>
     <item>
+      <title>QT 6.9中的导航文档</title>
+      <link>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</link>
+      <description><![CDATA[
+    
+
+ 在这篇博客文章中，我想谈谈您可以在   ＆nbsp;  
+]]></description>
+      <guid>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</guid>
+      <pubDate>Mon, 07 Apr 2025 07:21:46 GMT</pubDate>
+    </item>
+    <item>
       <title>只是工作™的工具……直到他们不工作</title>
       <link>https://pointieststick.com/2025/04/06/tools-that-just-work-until-they-dont/?utm_source=atom_feed</link>
       <description><![CDATA[作为一个前苹果家伙，这么说这让我有些痛苦，但是我开始相信整体＆＃8220;它只是有效的＆＃8221;事情是暂时的幻想。 
@@ -177,7 +196,7 @@ And since then, both companies went in exactly in the directions I expected: Pru
  KDE框架，等离子体，应用程序和其他项目的新开发/计划
 其他任何可能感兴趣的人。
 
-要了解接受的会谈的想法，请查看以前几年的计划：  2024  2024  2024 ，  target =“ _ black” title =“ https://conf.kde.org/event/5/contributions/”&gt;  2023  ，  2022  ，  2021   and   2020  。
+要了解接受的会谈的想法，请查看往年的计划：  2024  2024  ，  target =“ _ black” title =“ https://conf.kde.org/event/5/contributions/”&gt;  2023  ，  2022  ，  2021   and   2020  。
 有关更多详细信息和信息，请访问我们的致电参加参与。]]></description>
       <guid>https://akademy.kde.org/news/2025-04-03_akademy-2025-call-for-proposals/?utm_source=atom_feed</guid>
       <pubDate>Thu, 03 Apr 2025 10:04:55 GMT</pubDate>
@@ -188,24 +207,6 @@ And since then, both companies went in exactly in the directions I expected: Pru
       <description><![CDATA[]]></description>
       <guid>https://www.kdab.com/modelview-drag-and-drop-in-qt-part-3/?utm_source=atom_feed</guid>
       <pubDate>Thu, 03 Apr 2025 08:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您的通知在等离子体6.3.4中看起来有点愚蠢，那是我的错</title>
-      <link>https://pointieststick.com/2025/04/02/if-your-notifications-look-kind-of-stupid-in-plasma-6-3-4-its-my-fault/?utm_source=atom_feed</link>
-      <description><![CDATA[这是针对昨天发布的每个人升级到等离子6.3.4的每个人。我怀疑你们中的一些人会发现一些有些错误的东西带有通知；顶部的填充物已关闭，导致文本在大多数时候看起来并不垂直居中。
-这是我的错。我最近为通知间距和填充物所做的错误将其备份到等离子体6.3.4，但最终缺少一个零件，当那里的字体文本或图标及其＃8217; t＆＃8217; t在6.3.5后才注意到这一点。 修复程序（i＆＃8217; ve已经通过电子邮件发送了有关此的适当邮件列表），您必须在此之前的位置略有丑陋的标签定位。对不起！我的坏。
-一旦您有修复程序 - 要么是因为您的发行版将其备份，要么是因为您＆＃8217; ve等到等离子体6.3.5，通知文本定位应该再次看起来更好：
-
-   ]]></description>
-      <guid>https://pointieststick.com/2025/04/02/if-your-notifications-look-kind-of-stupid-in-plasma-6-3-4-its-my-fault/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 02 Apr 2025 21:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Konsole布局自动化（第2部分）</title>
-      <link>https://blogs.kde.org/2025/04/02/konsole-layout-automation-part-2/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://blogs.kde.org/2025/04/02/konsole-layout-automation-part-2/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 02 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
