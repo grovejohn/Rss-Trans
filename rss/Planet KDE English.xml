@@ -4,11 +4,11 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Apr 2025 14:38:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 18:43:14 GMT</lastBuildDate>
     <item>
       <title>有关TechPaladin和生活的访谈</title>
       <link>https://pointieststick.com/2025/04/11/interview-about-techpaladin-and-life/?utm_source=atom_feed</link>
-      <description><![CDATA[看起来Brodie Robertson Has Hass没有生病，因为最近我们再次坐下来，这次是Techpaladin的主题！我们介绍了我在公告博客文章上个月，还有上个月的详细信息和其他详细信息，还有更多的详细信息，我们会介绍很多内容。这最终是一个非常书呆子的演讲，因为我们在金融和汇率，龙，龙，Alpha Centauri，Maslow＆Maslow＆Maslow＆Maslow的层次结构，Kwin Zoom效应，当然还有KDE World Endimination。  
+      <description><![CDATA[看起来Brodie Robertson Has Hass没有生病，因为最近我们再次坐下来，这次是Techpaladin的主题！我们介绍了我在公告博客文章上个月，还有上个月的详细信息，还有更多详细信息，我们还要介绍很多东西。这最终是一个非常书呆子的演讲，因为我们在金融和汇率，龙，龙，Alpha Centauri，Maslow＆Maslow＆Maslow＆Maslow的层次结构，Kwin Zoom效应，当然还有KDE World Endimination。  
   
  ]]></description>
       <guid>https://pointieststick.com/2025/04/11/interview-about-techpaladin-and-life/?utm_source=atom_feed</guid>
@@ -35,6 +35,13 @@
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-16.0.1-released?utm_source=atom_feed</guid>
       <pubDate>Fri, 11 Apr 2025 09:44:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>KDE船框架6.13.0</title>
+      <link>https://kde.org/announcements/frameworks/6/6.13.0/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://kde.org/announcements/frameworks/6/6.13.0/?utm_source=atom_feed</guid>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>最后一周的更新 -  KDE 2025季</title>
@@ -67,9 +74,9 @@ Krita’的油漆更好
 
  krita我相信数字艺术的一切：开放访问，
 可自定义以满足您的需求，易于入门，并且不可能
-掌握。总有一些新的东西要学习艺术，同样，
+掌握。总有一些新的东西要在艺术中学习，同样，
 在Krita中总会有一些有趣的东西。是否是
-通过不断扩展的层管理可以获得各种效果
+您可以通过不断扩展的层管理获得各种效果
 和调整，或近乎无限的不可思议的习俗
 社区制造的刷子，总有一种新的推动方式
 自己在旅途中的下一个层次。
@@ -188,13 +195,6 @@ And since then, both companies went in exactly in the directions I expected: Pru
 即使我们投资于使软件更易于使用，我们也需要通过广告所有权，隐私，个性化和自由来宣传我们的竞争环境。我们的软件值得信赖，因为它可以被我们或其他任何人带走；您将能够长期使用它，随着时间的流逝而发展技能和效率。投资KDE正在投资自己，而不是其他人的底线。]]></description>
       <guid>https://pointieststick.com/2025/04/06/tools-that-just-work-until-they-dont/?utm_source=atom_feed</guid>
       <pubDate>Sun, 06 Apr 2025 14:41:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fossgis会议2025</title>
-      <link>https://www.volkerkrause.eu/2025/04/05/osm-fossgis-conference-2025.html?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.volkerkrause.eu/2025/04/05/osm-fossgis-conference-2025.html?utm_source=atom_feed</guid>
-      <pubDate>Sat, 05 Apr 2025 07:45:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
