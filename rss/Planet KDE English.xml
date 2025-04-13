@@ -4,7 +4,24 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 13 Apr 2025 10:41:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 16:44:32 GMT</lastBuildDate>
+    <item>
+      <title>本周在KDE应用程序中</title>
+      <link>https://blogs.kde.org/2025/04/13/this-week-in-kde-apps/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://blogs.kde.org/2025/04/13/this-week-in-kde-apps/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 13 Apr 2025 16:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>SOK '25周5至10周</title>
+      <link>http://localhost:1313/posts/weeks5-10/?utm_source=atom_feed</link>
+      <description><![CDATA[ sok＆lsquo; 25更新：完成
+  
+大家好，我再次回到了我的kde季节的最终更新。因此，事实证明，事情真的没有按计划进行，我花了一些时间将其带到线上。
+自上一篇文章以来，我为Kalah游戏，Associed Tui，贪婪的举动选择以及基准的Oware和Bohnenspiel撰写了测试。我的中期考试发生在两者之间，并将我推迟了2周。]]></description>
+      <guid>http://localhost:1313/posts/weeks5-10/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 13 Apr 2025 11:28:04 GMT</pubDate>
+    </item>
     <item>
       <title>Amarok 3.3的beta可用</title>
       <link>https://blogs.kde.org/2025/04/13/beta-for-amarok-3.3-available/?utm_source=atom_feed</link>
@@ -72,7 +89,7 @@ a相关 work-in-progress合并请求。
     <item>
       <title>有关TechPaladin和生活的访谈</title>
       <link>https://pointieststick.com/2025/04/11/interview-about-techpaladin-and-life/?utm_source=atom_feed</link>
-      <description><![CDATA[看起来Brodie Robertson Has Hass没有生病，因为最近我们再次坐下来，这次是Techpaladin的主题！我们介绍了我在公告博客文章上个月，还有上个月的详细信息和其他详细信息，还有更多的详细信息，我们会介绍很多内容。这最终是一个非常书呆子的演讲，因为我们在金融和汇率，龙，龙，Alpha Centauri，Maslow＆Maslow＆Maslow＆Maslow的层次结构，Kwin Zoom效应，当然还有KDE World Endimination。  
+      <description><![CDATA[看起来Brodie Robertson Has Hass没有生病，因为最近我们再次坐下来，这次是Techpaladin的主题！我们介绍了我在公告博客文章上个月，还有上个月的详细信息，还有更多详细信息，我们还要介绍很多东西。这最终是一个非常书呆子的演讲，因为我们在金融和汇率，龙，龙，Alpha Centauri，Maslow＆Maslow＆Maslow＆Maslow的层次结构，Kwin Zoom效应，当然还有KDE World Endimination。  
   
  ]]></description>
       <guid>https://pointieststick.com/2025/04/11/interview-about-techpaladin-and-life/?utm_source=atom_feed</guid>
@@ -137,78 +154,6 @@ a相关 work-in-progress合并请求。
       <description><![CDATA[]]></description>
       <guid>https://kde.org/announcements/frameworks/6/6.13.0/?utm_source=atom_feed</guid>
       <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后一周的更新 -  KDE 2025季</title>
-      <link>https://coosmos.github.io/posts/Week5/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://coosmos.github.io/posts/Week5/?utm_source=atom_feed</guid>
-      <pubDate>Thu, 10 Apr 2025 18:30:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>韦斯利·加德纳（Wesley Gardner）礼物：与克里塔（Krita）一起绘画和绘画</title>
-      <link>https://krita.org/en/posts/2025/draw_and_paint_better_with_krita/?utm_source=atom_feed</link>
-      <description><![CDATA[前一段时间，我们与Wesley Gardner接触，因为有点迟来
-我们看到他已经出版了一本关于克里塔（Krita）的精彩书，标题为“与克里塔”（Krita）更好。
-对于krita.org，韦斯利写了他的书的介绍！
-
-教艺术一直是我的热情，并且看到
-学生找到自己的“内在声音”，并在障碍物中推动他们
-认为无法克服的是世界上最酷的事情之一。在
-2021年，我被邀请写一本“数字油漆”书，
-迈向初学者的数字艺术，但目的是
-足够的体重为中级和高级数字艺术家提供一些
-有趣的练习。没有第二次思考，我同意了，并且知道
-Krita将是本书的重点。因此，在2022年，‘画和
-Krita’的油漆更好
-我的艺术家指南的“守护天使”指南
-超级谦卑并感谢。
-：
-
-
-
- krita我相信数字艺术的一切：开放访问，
-可自定义以满足您的需求，易于入门，并且不可能
-掌握。总有一些新的东西要学习艺术，同样，
-在Krita中总会有一些有趣的东西。是否是
-通过不断扩展的层管理可以获得各种效果
-和调整，或近乎无限的不可思议的习俗
-社区制造的刷子，总有一种新的推动方式
-自己在旅途中的下一个层次。
-
-
-
-
-
-自Krita 3以来，我一直是Krita用户，并且看到它拥有多少
-在过去的几年中，进化和扩展是令人难以置信的！它是
-始终安装在我制作艺术的每台机器上，并且是我的
-当我获得新机器时，“必须下载”软件。这是之一
-那些与您一起成长的程序，并且可以绝对处理任何事情
-你可以扔掉。我已经制作了个人作品和艺术印刷品
-以及《星球大战》等专业客户工作，战锤
-40k和Riot Games，该计划永远不会汗流。什么时候
-我可以为我的YouTube频道制作哪种类型的视频，我可以
-总是回到克里塔（Krita）的比赛，因为这总是一种享受
-戳戳并学习新的工作流程。
-写这本关于克里塔的书很容易，因为我认为学习krita
-可以帮助您学习任何数字绘画软件，因为工作流是
-如此相似。这是每个想要的艺术家的完美入口
-以数字方式工作，这是终身任期的完美结局
-需要一点“额外香料”才能完成他们的退伍军人
-工作并建立他们的品牌。如果有一个数字艺术计划
-单人需要在他们的机器上，是krita。
-对于Real，Krita不能做什么？加入论坛，参与
-社区，并且（当然，如果您能够经济上有能力）捐赠
-定期去Krita基金会。他们做不可思议的工作，
-以及Krita在Windows，Mac和Linux上可用的事实，用于
-免费，仍然是某种巫师，我无法缠绕着头。为了
-Krita团队：不断将其淘汰出公园，很荣幸能成为
-Krita遗产的一部分以及团队以及所有艺术家
-那里：
-去做冷静的艺术。]]></description>
-      <guid>https://krita.org/en/posts/2025/draw_and_paint_better_with_krita/?utm_source=atom_feed</guid>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
