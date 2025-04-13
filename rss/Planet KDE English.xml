@@ -4,7 +4,34 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sun, 13 Apr 2025 08:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 10:41:11 GMT</lastBuildDate>
+    <item>
+      <title>Amarok 3.3的beta可用</title>
+      <link>https://blogs.kde.org/2025/04/13/beta-for-amarok-3.3-available/?utm_source=atom_feed</link>
+      <description><![CDATA[尊敬的音乐粉丝＆amp;开源音乐播放器，
+在准备即将发布的Amarok 3.3版本时，已经准备了Beta版本（3.2.81）。
+如
+请注意，由于数据库更新，无法直接从3.3降级，然后返回到3.3 pre-3.3版本
+需要事先手动备份数据库（在〜/.local/local/share/amarok/mysqle/）。
+与当前主要的KDE Frameworks版本保持一致，应简化各种直接和间接软件依赖性。
+但是，Phonon-VLC是QT6声子上唯一支持的后端，Amarok 3.3 Beta仍在使用音频播放。
+这构成了一些约束，例如在均衡器和分析仪功能上。
+可以在 a infact.kde.kde.org earkit.kde.org问题 earkes  earkes 和
+a相关 work-in-progress合并请求。
+此外，还没有提供QT6的LIBLASTFM和LIBMYGPO-QT的官方版本
+（分别用于last.fm和Gpodder支持）。为了启用这些功能，需要使用库
+由例如来源 https://github.com/mazhoon/liblastfm/tree/81e8f9dc16a0a18fe9a066d51c20710863266670b  and
+ https://github.com/mazhoon/libmygpo-qt/tree/4dfa3ba1f075ca9c9c9dbd5b452f88888888ba75f6f6f6f13c31 
+ Amarok 3.3 Beta源Tarball可在
+ download.kde.kde.orgg 
+它已与 gpg键。
+除源代码外，某些发行版可能会提供Beta软件包。
+各种出色的包装器提供的各种夜间git构建也应提供一种使用beta更改的方法
+并参加测试。
+快乐听！]]></description>
+      <guid>https://blogs.kde.org/2025/04/13/beta-for-amarok-3.3-available/?utm_source=atom_feed</guid>
+      <pubDate>Sun, 13 Apr 2025 08:30:00 GMT</pubDate>
+    </item>
     <item>
       <title>许多2025的第4部分</title>
       <link>https://nidhishchauhan.onrender.com/blog/blog-4-of-SOK-2025?utm_source=atom_feed</link>
@@ -182,56 +209,6 @@ Krita遗产的一部分以及团队以及所有艺术家
 去做冷静的艺术。]]></description>
       <guid>https://krita.org/en/posts/2025/draw_and_paint_better_with_krita/?utm_source=atom_feed</guid>
       <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE快照更新，Kubuntu更新，更多的生活更新！</title>
-      <link>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-updates-more-life-updates/?utm_source=atom_feed</link>
-      <description><![CDATA[
-在src =“ https://www.scarlettgaterymoore.dev/wp-content/uploads/331261813_890048595635057_5783061028004673673687_N.N.JPG” width =“ 1530”/&gt; 冰冷的早晨女巫韦尔斯az     
- 生活： 
-上周我们享受春天，本周冬天卷土重来！在骨折的前线上的好消息，感染消失了，因此他们终于可以再次处理破裂的问题。 4月25日，我将进行侵入性较小的手术，以将骨头恢复在一起，以便它们可以正确地编织在一起！如果您可以节省任何更改，请考虑捐赠我的持续康复和康复，或者只是支持我的工作 
-
-  gofundme  
-  patreon  
-  github  github    
-  donorbox  
-
-  kubuntu： 
-在测试beta时，我遇到了由于Apparmor而遇到了一些崩溃的应用程序（即PIM）。我已经上传了Kmail，Akregator，Akonadiconsole，Konqueror，Tellico 的固定配置文件
-
-
-
-  kde快照： 
-Added sctp support in Qt  https://invent.kde.org/neon/snap-packaging/kde-qt6-core-sdk/-/commit/commit/bbcb1dc39044b9303030330ab718c8fabfaabfabfabfababfababfa20ccd2b0f75  
-这将使我能够完成Pyside6快照并修复Freecad构建。
-更改了在KF6-Core24-SDK中释放的构建类型，这将大大减少KF6-Core24的大小。 
-修复了KF5-Core24和KF6-Core24 Snapcraft-Desktop-Integration中的一些启动错误。
-  https://invent.kde.org/neon/snap-packaging/kf6-core-sdk/-/merge_requests/3  
- KDE应用程序25.03.90 RC发布到＆＃8211;候选人（我知道它说24.12.3，版本赢得了＆＃8217; t将更新到25.04.0版本））
-
-
-
- kasts core24固定在＆＃8211;候选中 &lt; /p&gt;
-
-
-
- Kate Now Core24以微风为主题！ ＆＃8211;候选人 &lt; /p&gt;
-
-
-
- neochat：固定的QML缺少QML和25.04在＆＃8211;候选中的依赖项 &lt; /p&gt;
-
-
-
- Kdenlive现在使用Galxnimate Animations！ ＆＃8211;候选人
- digikam 8.6.0现在在＆＃8211; stable 中获得扫描仪的支持
-
-
-
- KSTARS 3.7.6发布到＆＃8211; stable稳定，删除的商店被拒绝插头。
-感谢您停止！]]></description>
-      <guid>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-updates-more-life-updates/?utm_source=atom_feed</guid>
-      <pubDate>Mon, 07 Apr 2025 12:13:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
