@@ -4,11 +4,47 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Sat, 12 Apr 2025 22:38:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 05:03:23 GMT</lastBuildDate>
+    <item>
+      <title>许多2025的第4部分</title>
+      <link>https://nidhishchauhan.onrender.com/blog/blog-4-of-SOK-2025?utm_source=atom_feed</link>
+      <description><![CDATA[最终更新
+所以这是我关于KDE 2025季节的最后一个博客，我为自己的成就感到高兴。在过去的几周中，我已经为Mancala游戏实施了PVP系统，该项目已经深入研究了游戏开发，网络和用户体验。
+到目前为止完成的工作摘要
+ 1。移动跟踪力学
+这个项目的核心是 mankalaengine ，这是一种旨在处理各种Mancala变体的规则和游戏玩法的引擎。我在引擎中添加了更多功能：
+
+ 移动跟踪： lastMoveMethod（）方法允许检索播放器和计算机播放的最后一步。
+
+ 2。 PVP模式
+它允许使用XMPP实时多人游戏玩法。以下是简短的摘要：
+
+  XMPP集成：玩家使用其Jabber ID相互连接，并使用已建立的聊天室实时交换移动。
+ 转向管理：玩家1总是开始，并在两个玩家之间交替。
+ 董事会同步：玩家会根据对手的举动手动更新董事会，以确保两个玩家都对游戏状态有准确的看法。
+
+ 3。人页文档
+为了使游戏可获得，我为 bohnenspieltui 创建了一个男人页面。此人页面提供了游戏的信息，包括：
+
+ 概要和描述：游戏变体的简短概述和解释。
+ 用法：运行PVP模式的说明。
+
+未来工作
+虽然完成了这个任期的任务，但它们是一些改进的领域：
+
+自动板通过替换当前手册的同步。
+将引擎集成到Mancala Gui。
+将PVP扩展到其他变体。
+
+最终单词
+感谢KDE社区和 Benson Muite 的指导。我鼓励有抱负的贡献者参加KDE季节，以学习和成长为开发人员。]]></description>
+      <guid>https://nidhishchauhan.onrender.com/blog/blog-4-of-SOK-2025?utm_source=atom_feed</guid>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>有关TechPaladin和生活的访谈</title>
       <link>https://pointieststick.com/2025/04/11/interview-about-techpaladin-and-life/?utm_source=atom_feed</link>
-      <description><![CDATA[看起来Brodie Robertson Has Hass没有生病，因为最近我们再次坐下来，这次是Techpaladin的主题！我们介绍了我在公告博客文章上个月，还有上个月的详细信息和其他详细信息，还有更多的详细信息，我们会介绍很多内容。这最终是一个非常书呆子的演讲，因为我们在金融和汇率，龙，龙，Alpha Centauri，Maslow＆Maslow＆Maslow＆Maslow的层次结构，Kwin Zoom效应，当然还有KDE World Endimination。  
+      <description><![CDATA[看起来Brodie Robertson Has Hass没有生病，因为最近我们再次坐下来，这次是Techpaladin的主题！我们介绍了我在公告博客文章上个月，还有上个月的详细信息，还有更多详细信息，我们还要介绍很多东西。这最终是一个非常书呆子的演讲，因为我们在金融和汇率，龙，龙，Alpha Centauri，Maslow＆Maslow＆Maslow＆Maslow的层次结构，Kwin Zoom效应，当然还有KDE World Endimination。  
   
  ]]></description>
       <guid>https://pointieststick.com/2025/04/11/interview-about-techpaladin-and-life/?utm_source=atom_feed</guid>
@@ -195,17 +231,6 @@ Added sctp support in Qt  https://invent.kde.org/neon/snap-packaging/kde-qt6-cor
 感谢您停止！]]></description>
       <guid>https://www.scarlettgatelymoore.dev/kde-snap-updates-kubuntu-updates-more-life-updates/?utm_source=atom_feed</guid>
       <pubDate>Mon, 07 Apr 2025 12:13:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>QT 6.9中的导航文档</title>
-      <link>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</link>
-      <description><![CDATA[
-    
-
- 在这篇博客文章中，我想谈谈您可以在   ＆nbsp;  
-]]></description>
-      <guid>https://www.qt.io/blog/navigation-in-the-qt-framework-docs?utm_source=atom_feed</guid>
-      <pubDate>Mon, 07 Apr 2025 07:21:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
