@@ -4,7 +4,14 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Apr 2025 02:52:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 14:43:41 GMT</lastBuildDate>
+    <item>
+      <title>朝着从夸尔特到特勤局的过渡</title>
+      <link>https://notmart.org/blog/2025/04/towards-a-transition-from-kwallet-to-secret-service/?utm_source=atom_feed</link>
+      <description><![CDATA[]]></description>
+      <guid>https://notmart.org/blog/2025/04/towards-a-transition-from-kwallet-to-secret-service/?utm_source=atom_feed</guid>
+      <pubDate>Mon, 14 Apr 2025 13:30:42 GMT</pubDate>
+    </item>
     <item>
       <title>本周在KDE应用程序中</title>
       <link>https://blogs.kde.org/2025/04/13/this-week-in-kde-apps/?utm_source=atom_feed</link>
@@ -147,13 +154,6 @@ a相关 work-in-progress合并请求。
 ]]></description>
       <guid>https://www.qt.io/blog/qt-creator-16.0.1-released?utm_source=atom_feed</guid>
       <pubDate>Fri, 11 Apr 2025 09:44:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>KDE船框架6.13.0</title>
-      <link>https://kde.org/announcements/frameworks/6/6.13.0/?utm_source=atom_feed</link>
-      <description><![CDATA[]]></description>
-      <guid>https://kde.org/announcements/frameworks/6/6.13.0/?utm_source=atom_feed</guid>
-      <pubDate>Fri, 11 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
