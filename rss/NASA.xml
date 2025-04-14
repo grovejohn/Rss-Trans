@@ -4,7 +4,14 @@
     <title>NASA</title>
     <link>https://www.nasa.gov</link>
     <description>官方国家航空航天管理网站</description>
-    <lastBuildDate>Mon, 14 Apr 2025 18:23:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 18:47:08 GMT</lastBuildDate>
+    <item>
+      <title>由发光恒星雕刻</title>
+      <link>https://www.nasa.gov/image-article/sculpted-by-luminous-stars/</link>
+      <description><![CDATA[这张新图片于2025年4月4日发布，展示了令人眼花noung乱的年轻明星群集NGC 346。]]></description>
+      <guid>https://www.nasa.gov/image-article/sculpted-by-luminous-stars/</guid>
+      <pubDate>Mon, 14 Apr 2025 18:23:00 GMT</pubDate>
+    </item>
     <item>
       <title>NASA的露西航天器准备第二小行星相遇</title>
       <link>https://www.nasa.gov/missions/lucy/nasas-lucy-spacecraft-prepares-second-asteroid-encounter/</link>
@@ -67,13 +74,6 @@
       <description><![CDATA[3月18日，NASA的IMAP（星际映射和加速探头）到达了阿拉巴马州亨茨维尔的NASA的Marshall太空飞行中心，在X射线和低温设施中进行了热真空测试，这模拟了太空的恶劣条件。 IMAP任务是一位现代的天体制图师，它将通过研究Heliosphere，A [＆＃8230;]来绘制太阳系]]></description>
       <guid>https://www.nasa.gov/centers-and-facilities/marshall/nasas-imap-arrives-at-nasa-marshall-for-testing-in-xrcf/</guid>
       <pubDate>Fri, 11 Apr 2025 15:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>哈勃捕捉一首明星的天鹅歌</title>
-      <link>https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/</link>
-      <description><![CDATA[在这张令人惊叹的图像中，在空间黑暗中的漩涡状，像油漆一样的云层似乎是超现实的，就像一个在我们面前开放的另一个世界的门户。实际上，此NASA/ESA哈勃太空望远镜图像的主题非常真实。我们看到巨大的电离原子被一颗垂死的星星扔进太空。这是 […]]]></description>
-      <guid>https://science.nasa.gov/missions/hubble/hubble-captures-a-stars-swan-song/</guid>
-      <pubDate>Fri, 11 Apr 2025 11:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
