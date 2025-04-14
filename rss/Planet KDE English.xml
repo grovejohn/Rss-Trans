@@ -4,7 +4,18 @@
     <title>行星|英语</title>
     <link>https://planet.kde.org/de/</link>
     <description></description>
-    <lastBuildDate>Mon, 14 Apr 2025 14:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 16:47:10 GMT</lastBuildDate>
+    <item>
+      <title>QT扩展1.4.0，用于发布的VS代码</title>
+      <link>https://www.qt.io/blog/qt-extension-1.4.0-for-vs-code-released?utm_source=atom_feed</link>
+      <description><![CDATA[
+  
+
+我们很高兴宣布Visual Studio代码的QT扩展版1.4.0版本的发行版！该版本在市场上以释放前1.3.0烹制，现在已晋升为适当的发布。看一下此版本中的新功能。
+]]></description>
+      <guid>https://www.qt.io/blog/qt-extension-1.4.0-for-vs-code-released?utm_source=atom_feed</guid>
+      <pubDate>Mon, 14 Apr 2025 14:34:54 GMT</pubDate>
+    </item>
     <item>
       <title>朝着从夸尔特到特勤局的过渡</title>
       <link>https://notmart.org/blog/2025/04/towards-a-transition-from-kwallet-to-secret-service/?utm_source=atom_feed</link>
@@ -146,14 +157,6 @@ a相关 work-in-progress合并请求。
       <description><![CDATA[]]></description>
       <guid>https://ervin.ipsquad.net/blog/2025/04/11/web-review-week-2025-15/?utm_source=atom_feed</guid>
       <pubDate>Fri, 11 Apr 2025 11:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>QT创建者16.0.1发布</title>
-      <link>https://www.qt.io/blog/qt-creator-16.0.1-released?utm_source=atom_feed</link>
-      <description><![CDATA[我们很乐意宣布QT Creator 16.0.1！的发布  
-]]></description>
-      <guid>https://www.qt.io/blog/qt-creator-16.0.1-released?utm_source=atom_feed</guid>
-      <pubDate>Fri, 11 Apr 2025 09:44:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
