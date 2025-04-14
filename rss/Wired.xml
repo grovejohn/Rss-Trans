@@ -4,7 +4,14 @@
     <title>有线</title>
     <link>https://www.wired.com</link>
     <description>www.wired.com的最新信息</description>
-    <lastBuildDate>Mon, 14 Apr 2025 13:46:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 14:17:45 GMT</lastBuildDate>
+    <item>
+      <title>Helinox椅子一（再）评论：最好的露营椅</title>
+      <link>https://www.wired.com/review/helinox-chair-one-re/</link>
+      <description><![CDATA[尽管有令人讨厌的命名惯例，但Helinox One（RE）还是对Helinox经典紧凑的露营椅的令人印象深刻的升级。]]></description>
+      <guid>https://www.wired.com/review/helinox-chair-one-re/</guid>
+      <pubDate>Mon, 14 Apr 2025 14:02:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何构建PC（2025）：硬件建议，说明等</title>
       <link>https://www.wired.com/story/how-to-build-a-pc/</link>
@@ -13,7 +20,7 @@
       <pubDate>Mon, 14 Apr 2025 13:33:00 GMT</pubDate>
     </item>
     <item>
-      <title>开源先驱想释放开源AI机器人</title>
+      <title>拥抱的脸收购花粉机器人以释放开源AI机器人</title>
       <link>https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/</link>
       <description><![CDATA[Hugging Face已获得开源机器人初创企业花粉机器人技术，以帮助“民主化”机器人技术。]]></description>
       <guid>https://www.wired.com/story/hugging-face-acquires-open-source-robot-startup/</guid>
@@ -48,24 +55,10 @@
       <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Black Basta：倒下的勒索软件团伙</title>
-      <link>https://www.wired.com/story/black-basta-ransomware-gang/</link>
-      <description><![CDATA[经过一系列挫折，臭名昭著的黑色巴斯塔勒索软件帮派在地下上了。研究人员以新形式的可能返回来支撑。]]></description>
-      <guid>https://www.wired.com/story/black-basta-ransomware-gang/</guid>
-      <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smishing Triad：骗人窃取世界财富</title>
-      <link>https://www.wired.com/story/smishing-triad-scam-group/</link>
-      <description><![CDATA[每月发送数百万个骗局短信。其中许多人背后的中国网络犯罪分子正在扩大其业务，并迅速创新。]]></description>
-      <guid>https://www.wired.com/story/smishing-triad-scam-group/</guid>
-      <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gamaredon：Turncoat间谍无情地黑客入侵乌克兰</title>
-      <link>https://www.wired.com/story/gamaredon-turncoat-spies-hacking-ukraine/</link>
-      <description><![CDATA[在过去的十年中，这组FSB黑客（包括“叛徒”乌克兰情报官员）都使用了一系列侵略运动，为他们的前同胞和网络安全捍卫者带来了生活地狱。]]></description>
-      <guid>https://www.wired.com/story/gamaredon-turncoat-spies-hacking-ukraine/</guid>
+      <title>黄铜台风：中国黑客小组潜伏在阴影中</title>
+      <link>https://www.wired.com/story/brass-typhoon-china-cyberspies/</link>
+      <description><![CDATA[尽管不如诸如Volt Typhoon和Salt Typhoon，Brass Typhoon或Apt 41之类的群体众所周知，但它是臭名昭著的长期间谍演员，预示了最近的电信Hacks。]]></description>
+      <guid>https://www.wired.com/story/brass-typhoon-china-cyberspies/</guid>
       <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
     </item>
     <item>
@@ -73,6 +66,13 @@
       <link>https://www.wired.com/story/tradertraitor-north-korea-crypto-theft/</link>
       <description><![CDATA[据称负责从一次交易所盗窃15亿美元的加密货币，朝鲜的商人是世界上最复杂的网络犯罪集团之一。]]></description>
       <guid>https://www.wired.com/story/tradertraitor-north-korea-crypto-theft/</guid>
+      <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cyber​​av3ngers：伊朗破坏者侵入全球的水和天然气系统</title>
+      <link>https://www.wired.com/story/cyberav3ngers-iran-hacking-water-and-gas-industrial-systems/</link>
+      <description><![CDATA[尽管他们的黑客主义者的阵线，但Cyber​​av3ngers还是一个罕见的国家赞助的黑客集团，将工业基础设施处于危险之中，并且已经造成了全球破坏。]]></description>
+      <guid>https://www.wired.com/story/cyberav3ngers-iran-hacking-water-and-gas-industrial-systems/</guid>
       <pubDate>Mon, 14 Apr 2025 10:00:00 GMT</pubDate>
     </item>
     </channel>
