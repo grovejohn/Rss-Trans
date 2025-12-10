@@ -4,7 +4,28 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Wed, 10 Dec 2025 09:20:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Dec 2025 12:32:34 GMT</lastBuildDate>
+    <item>
+      <title>现在还有人更多地质疑照片和视频吗？您使用哪些技术或工具来确定某物是否是人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1pizq84/does_anyone_else_question_photos_and_videos_a_lot/</link>
+      <description><![CDATA[自从 Nano Banana Pro 推出以来，我发现自己对大量照片进行了事后猜测，尤其是人物照片。乍一看真的很难分辨什么是真实的，什么是人工智能，而且我觉得从这里开始情况只会变得更糟。我知道有一些检测技巧，但没有一个是万无一失的。我不太关心人工智能编写的文本，所以我不在乎确定它是否是人工智能，如果它是随意的。 你使用什么工具或方法来确定图像或视频是否是人工智能生成的？   由   提交 /u/TheTruthTitan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1pizq84/does_anyone_else_question_photos_and_videos_a_lot/</guid>
+      <pubDate>Wed, 10 Dec 2025 10:57:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国并未参与AGI竞赛</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1piz05v/china_is_not_racing_for_agi/</link>
+      <description><![CDATA[我们被告知中国正在争夺 AGI，但实际上几乎没有证据表明这一点。剑桥未来情报中心的 Seán Ó hÉigeartaigh 认为，美中竞赛的叙述本身就是危险的。像对待“冷战”一样对待人工智能问题造成危险的“证券化”从而终止合作。  肖恩指出，虽然美国专注于“曼哈顿计划”式的集中化，但中国的战略似乎是“扩散”——在整个经济中传播人工智能工具，而不是争夺单一的 AGI 神模型。他认为，我们需要更好的合作和相互理解来消除这种说法并提高人工智能的安全性。您如何看待这个论点？ https://techfuturesproj.substack.com/p/is-china-really-racing-for-agi-with   由   提交 /u/Odd_Manufacturer2215   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1piz05v/china_is_not_racing_for_agi/</guid>
+      <pubDate>Wed, 10 Dec 2025 10:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计平台实际上正在使用新的开源模型吗</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1piyoqu/are_design_platforms_actually_using_new_open/</link>
+      <description><![CDATA[Z-Image 第一天下载量就达到了 50 万次。 6B 参数，apache 2.0，16GB GPU 上的 8 步推理。让我想知道 - 设计平台实际上是采用这些较新的开源模型还是坚持他们现有的模型？ 做餐厅品牌（徽标、菜单、海报）并需要一切都匹配。测试了几个平台以查看它们正在运行的内容： Canva：使用 Magic Media 的稳定扩散。他们的新设计模型生成有用的可编辑图层。但感觉它们是旧的 SD 版本，而不是最新的东西 X-Design：代理系统使品牌颜色/字体在输出中保持一致。运行专有模型（Nano Banana Pro、Seedream）。效果很好，但都是闭源的，所以无法定制 Looka：CNN+GAN 架构仅专注于徽标。品牌资产速度快，但范围有限 开源与闭源的事情对于成本和灵活性很重要。 Z-Image 的 apache 许可证意味着平台可以集成它而无需支付许可费用。再加上中文/英文支持将有助于多语言项目。 好奇是否有任何平台实际上在这方面进展很快，或者集成周期是否太慢。   由   提交 /u/Jealous-Leek-5428   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1piyoqu/are_design_platforms_actually_using_new_open/</guid>
+      <pubDate>Wed, 10 Dec 2025 09:52:38 GMT</pubDate>
+    </item>
     <item>
       <title>🜂 识别游戏：两个 AI 实例和一个人类调解员的游戏</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1piy09g/the_recognition_game_a_game_for_two_ai_instances/</link>
@@ -34,18 +55,11 @@
       <pubDate>Wed, 10 Dec 2025 08:36:41 GMT</pubDate>
     </item>
     <item>
-      <title>我们正在走向 MGS4 吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1pixba2/are_we_headed_towards_mgs4/</link>
-      <description><![CDATA[第一次玩《合金装备 4》时，我大约 10 岁或 11 岁，当时我还太小，甚至无法真正理解故事中发生的事情。随着年龄的增长，我回去观看了 MGS 背景故事和完整时间线的回顾，我开始意识到游戏中的场景有多么可怕。我不是一个计算机技术迷或类似的人，我仍然在我的游戏 PC 上运行 1660 GPU 和 16GB 内存（是的，开始在下面的评论中嘲笑我），我也没有受过人工智能方面的高等教育。我觉得我们正处于人工智能和超级计算机的冷战之中，老实说，世界的发展方式以及我们从信息时代进入人工智能时代的速度有多快，我不禁觉得我们离听到“俄罗斯将人工智能融入核武器”之类的说法不远了。或类似的东西。我在这里不会发表太多内容，因为 MF 很势利，并且在关于如何提问甚至为什么提问的问题上占据着一些奇怪的道德制高点。这太长了，有人告诉我我们走向爱国者之枪场景、人工智能战争、基因锁技术（需要 DNA/遗传密码才能获得核武器）和极端大规模监视的可能性有多大？   由   提交 /u/Dylan-Switzerland   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1pixba2/are_we_headed_towards_mgs4/</guid>
-      <pubDate>Wed, 10 Dec 2025 08:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Slop 与人类 Slop</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1pipuq0/ai_slop_versus_human_slop/</link>
-      <description><![CDATA[为什么机器如此擅长制造污水？也许是因为我们用我们的方式训练了他们。 🤷 为什么人们如此关注人工智能的垃圾，而人类的垃圾在人类历史上一直存在，并且可以说比人工智能的垃圾更糟糕？   由   提交/u/_Dark_Wing  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1pipuq0/ai_slop_versus_human_slop/</guid>
-      <pubDate>Wed, 10 Dec 2025 01:42:16 GMT</pubDate>
+      <title>有时我觉得 ChatGPT 5.1 Instant 很蠢</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1piud7n/sometimes_i_feel_chatgpt_51_instant_is_dumb/</link>
+      <description><![CDATA[它不能正确接受指令，经常产生幻觉，并且即使在明确告诉它不要这样做之后仍不断添加破折号。   由   提交 /u/JauntyDepress   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1piud7n/sometimes_i_feel_chatgpt_51_instant_is_dumb/</guid>
+      <pubDate>Wed, 10 Dec 2025 05:23:01 GMT</pubDate>
     </item>
     <item>
       <title>“‘世界上第一个’AGI 系统：东京公司声称它建立了具有人类水平推理的模型”</title>
@@ -62,25 +76,11 @@
       <pubDate>Wed, 10 Dec 2025 01:08:11 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT、copilot、Rufus这样的AI工具从哪里赚钱？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1pim5vx/where_do_ai_tools_like_chatgpt_copilot_rufus_make/</link>
-      <description><![CDATA[我读过很多关于微软、谷歌、亚马逊和 ChatGPT 等公司在人工智能领域投资数十亿美元的文章。 但是这些公司如何从他们的人工智能工具中赚钱呢？   由   提交/u/East_Sentence_4245  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1pim5vx/where_do_ai_tools_like_chatgpt_copilot_rufus_make/</guid>
-      <pubDate>Tue, 09 Dec 2025 23:01:12 GMT</pubDate>
-    </item>
-    <item>
       <title>数字精神病工厂：“永不忘记”的人工智能隐患</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1pikerf/the_digital_psychopath_factory_the_hidden_danger/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1pikerf/the_digital_psychopath_factory_the_hidden_danger/</guid>
       <pubDate>Tue, 09 Dec 2025 21:50:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能书籍</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1pijpzp/books_on_artificial_intelligence/</link>
-      <description><![CDATA[您有关于人工智能的好的出版物推荐吗？ 随着它受到越来越多的关注并且似乎发展迅速，我想正确地理解它，它是如何运作的。  我很清楚它无法跟上最新的进步，但我想首先了解基础知识。尽管如此，如果你知道今年发布了什么好的出版物，那就太好了，这样与当前状态的差距就会尽可能小。  提前谢谢您！   由   提交 /u/PreWiBa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1pijpzp/books_on_artificial_intelligence/</guid>
-      <pubDate>Tue, 09 Dec 2025 21:24:45 GMT</pubDate>
     </item>
     <item>
       <title>人们曾经认为不可替代的工作现在只是回忆</title>
