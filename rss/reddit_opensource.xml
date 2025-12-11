@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 10 Dec 2025 21:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 00:48:22 GMT</lastBuildDate>
+    <item>
+      <title>我的第一个 OSS 项目！ AI 代理的可观察性和重播</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pjg797/my_first_oss_project_observability_replay_for_ai/</link>
+      <description><![CDATA[嘿伙计们！！我们刚刚推出了第一个 OSS 存储库。目标是获得开发人员对我们的可观察性和动作重放方法的反馈。 工作原理  记录完整的执行跟踪（LLM 调用、工具调用、提示、配置）。 确定性地重放它们（回归测试的 API 成本为零）。 为您提供代理回归分数 (ARS) 以量化行为漂移。 自动检测副作用（电子邮件、写入、付款）并在重放期间阻止它们。  现在可与 AgentExecutor 和 ReAct 代理配合使用。与框架无关的版本即将推出。 这是 -&gt; repo 希望得到您的反馈，请告诉我们缺少什么？这对您的工作流程有何帮助？ 如果您觉得有用，请给它加星标  https://github.com/Kurral/Kurralv3   由   提交/u/Compliance_Kiwi28   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pjg797/my_first_oss_project_observability_replay_for_ai/</guid>
+      <pubDate>Wed, 10 Dec 2025 22:11:12 GMT</pubDate>
+    </item>
     <item>
       <title>构建一个开源费用跟踪器来读取您的银行电子邮件。无需登录银行。你会用它吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1pje5tz/building_an_open_source_expense_tracker_that/</link>
@@ -20,13 +27,6 @@
       <pubDate>Wed, 10 Dec 2025 19:39:44 GMT</pubDate>
     </item>
     <item>
-      <title>DeskPets,适用于 Windows 的桌面宠物 🐶 🐿️,下载DeskPets的源码_GitHub_帮酷</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pjbu16/github_jumittideskpets_desktop_pets_for_windows/</link>
-      <description><![CDATA[      将活泼的小宠物直接带到您的屏幕上！当您将鼠标悬停在它们上方时，观察它们的弹跳、摆动和反应。混合搭配颜色和尺寸，让有趣的伙伴填满您的桌面，让您的工作空间焕发活力✨🎉。 一个具有大个性、不断发展的小项目🚀。   由   提交/u/Jumitti   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pjbu16/github_jumittideskpets_desktop_pets_for_windows/</guid>
-      <pubDate>Wed, 10 Dec 2025 19:22:59 GMT</pubDate>
-    </item>
-    <item>
       <title>制作了一个小项目，使用边缘检测将图像转换为像素艺术以保留重要特征</title>
       <link>https://www.reddit.com/r/opensource/comments/1pj9fdn/made_a_small_project_to_turn_images_into_pixel/</link>
       <description><![CDATA[       由   提交/u/yogthos   [链接] [评论] ]]></description>
@@ -34,25 +34,11 @@
       <pubDate>Wed, 10 Dec 2025 17:55:51 GMT</pubDate>
     </item>
     <item>
-      <title>是否有真实的证据证明开放权重人工智能模型将数据发送到外部服务器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pj6wfw/is_there_a_real_proof_of_an_open_weights_ai_model/</link>
-      <description><![CDATA[我想知道是否存在自托管开放权重 AI 模型泄露数据的事件。我很难相信这些公司在没有安全威胁的情况下免费发布他们的开放权重模型。    由   提交/u/alaba246  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pj6wfw/is_there_a_real_proof_of_an_open_weights_ai_model/</guid>
-      <pubDate>Wed, 10 Dec 2025 16:23:51 GMT</pubDate>
-    </item>
-    <item>
       <title>化工厂设备成本数据库</title>
       <link>https://www.reddit.com/r/opensource/comments/1pj6dyp/chemical_plant_equipment_cost_database/</link>
       <description><![CDATA[大家好。阻碍绿色科技和气候技术硬件初创公司发展的主要因素之一是对其技术成本做出良好的估计。这是我的专长。难以做出良好估算的重要原因之一是缺乏良好的设备成本数据。大型工程公司将这些专有信息保留在内部。我知道这希望渺茫，但是有人知道化工厂设备的数据库是开源的或可能是开源的吗？我目前正在使用notebooklm 来搜索教科书，但它并不理想，特别是因为数据非常旧。   由   提交/u/LovelyLad123  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pj6dyp/chemical_plant_equipment_cost_database/</guid>
       <pubDate>Wed, 10 Dec 2025 16:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>卢克·肯尼思·卡森·莱顿</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pj50vp/luke_kenneth_casson_leighton/</link>
-      <description><![CDATA[这个家伙是 EOMA68 和 Libre soc 的幕后黑手，一年了，他似乎陷入了一个非常艰难的境地，他的项目资金因为一些不明原因而被削减，也许是背叛，而且他的健康状况非常糟糕，他患有各种大脑健康问题中风等......，我想知道他怎么没有得到任何关注或任何帮助， libre-soc-dev 档案   由   提交 /u/Silly_Magician6841   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pj50vp/luke_kenneth_casson_leighton/</guid>
-      <pubDate>Wed, 10 Dec 2025 15:11:35 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个网站，可以将您的 GitHub 历史变成 2025 年电影回顾</title>
@@ -109,6 +95,20 @@
       <description><![CDATA[   /u/Economy-Treat-768   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pizdi5/how_almost_any_phone_number_can_be_tracked_via/</guid>
       <pubDate>Wed, 10 Dec 2025 10:35:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源无国界：COSCon’25 的反思</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pix9az/open_source_without_borders_reflections_from/</link>
+      <description><![CDATA[       由   提交 /u/opensourceinitiative   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pix9az/open_source_without_borders_reflections_from/</guid>
+      <pubDate>Wed, 10 Dec 2025 08:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个基于 Markdown 的浏览器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1piveey/building_a_markdown_based_browser/</link>
+      <description><![CDATA[从我的 Kindle 中汲取灵感，我正在为超链接 Markdown 文档构建一个浏览器。我用 Python 编写它，并使用 Pyglet 作为 UI。 为什么？ 老实说。 。 。我厌倦了上网，厌倦了所有事情都在争夺我的注意力。我只是想读书。阅读文档。阅读新闻文章。再次阅读博客，而不是 Facebook。 我设置样式的页面。而且并不是到处都有漂浮的盒子。我不会费劲去寻找那些需要像军事射手那样精确点击的微小 X。 我厌倦了像牲畜一样从一个域到另一个域被指纹识别和跟踪。 我厌倦了如此复杂的文档标准，以至于 Google 是唯一一家能够完整实施该标准的公司。 您的解决方案是什么？ 因此，我将现代网络浏览器的感觉与 gopher 的简单性以及介于两者之间的文本样式结合起来。面向文档的格式，例如 Kindle，您可以在“网站”上从一个页面转到另一个页面。可能更像是一本网络书。 它不会阻止广告，但也不必这样做。因为它的大部分内容都会内嵌。 URL 栏的末尾有一个查询框（想想 Firefox 统一搜索和 URL 之前的搜索框）。您在该框中输入的任何内容都会附加到 URL 请求的末尾，如下所示：?q=query。除此之外，没有其他方法可以将信息发送到服务器。没有标题。没有饼干。什么都没有。 你希望实现什么 我不打算取代网络。更像是。 。 。鼓励人们再次写博客。带回目录（而不是搜索引擎），人们可以在其中学习如何查找自己的信息，而不是依赖人工智能告诉他们的信息。给文档一个自己的空间。鼓励人们使用其他协议进行交互（电子邮件、FTP、Bittorrent）。降低服务器带宽要求。 基本上，在 Thunderbird 中输入电子邮件以发布到您的博客，或发布分类列表。 我的主要目标是改变人们使用网络的方式，从仅仅登录 Google 并输入他们想要的信息，到实际让他们查找信息并推理出他们是如何到达那里的。 很多人向 Google 寻求医疗建议。谷歌正在展示每一项定制结果。没有人能分辨什么是真实的，什么不是。然而，如果我们采用卡片目录（在线目录）路线，它实际上会迫使人们意识到他们在做什么和在寻找什么。人们不再是网上的僵尸。 所以。 。 .  你认为有人会真正使用它吗？ 你对此有什么建议吗？    由   提交/u/ki4jgt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1piveey/building_a_markdown_based_browser/</guid>
+      <pubDate>Wed, 10 Dec 2025 06:21:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
