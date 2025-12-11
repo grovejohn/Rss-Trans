@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 11 Dec 2025 12:21:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Dec 2025 15:14:24 GMT</lastBuildDate>
+    <item>
+      <title>颜色分级随变换层而变化。为什么会这样呢？</title>
+      <link>https://www.reddit.com/r/editors/comments/1pjx1zd/color_grading_shifts_with_transform_layer_why_so/</link>
+      <description><![CDATA[我有一个项目，我使用变换图层应用了多个编辑，包括左右移动主体以及应用缩放。之后，我使用多个电动窗口/遮罩层应用颜色分级来隔离和调整素材中的特定项目。 问题是： 当主体居中时，颜色分级看起来是正确的。 当主体向左或向右移动时，分级会发生变化或看起来偏离，就好像遮罩没有正确跟随运动一样。 我已经尝试过： 使用复合剪辑 调整图层 就地渲染 跟踪主要素材 但没有解决问题。我怀疑这与在移动/变换图层上应用分级有关，导致主体移动时遮罩/电动窗口未对齐。 我需要有关如何应用颜色分级的指导，以便即使在主体移动或缩放时也能保持一致，同时保持我现有的编辑完好无损。 谢谢:)   由   提交/u/Electronic-Video2070   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1pjx1zd/color_grading_shifts_with_transform_layer_why_so/</guid>
+      <pubDate>Thu, 11 Dec 2025 13:06:46 GMT</pubDate>
+    </item>
     <item>
       <title>修复了 Clean feed 上的黑电平故障</title>
       <link>https://www.reddit.com/r/editors/comments/1pjsvie/fixed_resolve_black_level_glitch_on_clean_feed/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>发送文件到混音器问题</title>
       <link>https://www.reddit.com/r/editors/comments/1pjiui3/sending_file_to_sound_mixer_question/</link>
-      <description><![CDATA[嘿那里。我正在编辑我的第一部短片（不是我写的），我们将其交给混音器。我使用的是 Premiere 2025，但混音器将使用 ProTools。我应该采取什么流程来将其移交给他们，以便从头开始新的 PT 课程。另外，预计的最终混音格式是什么？ （立体声，最多 5.1？）如果我遗漏了什么，请告诉我。谢谢！ 我：mac Mini 2020 Apple M1 16 GB 内存 Sonoma 14.1.1 素材：Apple ProRes RAW HQ，线性 PCM 4264 × 2408 -- 从 DP 处理 SSD -- 将文件转换为代理    由   提交 /u/frankensteinkeyboard   [链接] [评论]]]></description>
+      <description><![CDATA[嘿那里。我正在编辑我的第一部短片（不是我写的），我们将其交给混音器。我使用的是 Premiere 2025，但混音器将使用 ProTools。我应该采取什么流程来将其移交给他们，以便从头开始新的 PT 课程。另外，预计的最终混音格式是什么？ （立体声，最多 5.1？）如果我遗漏了什么，请告诉我。谢谢！ 我：mac Mini 2020 Apple M1 16 GB 内存 Sonoma 14.1.1 素材：Apple ProRes RAW HQ，线性 PCM 4264 × 2408 -- 从 DP 处理 SSD -- 文件转换为代理    由   提交 /u/frankensteinkeyboard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1pjiui3/sending_file_to_sound_mixer_question/</guid>
       <pubDate>Thu, 11 Dec 2025 00:02:14 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>开一家咖啡店来补充我的编辑工作是不是一个错误？有人在我们的领域之外开办企业并成功管理这两个行业吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1piryww/is_it_a_mistake_to_open_a_coffee_shop_to/</link>
-      <description><![CDATA[我是一名自由编辑，今年是我第一次连续三个月无法预订演出。这让我意识到我不能把所有的鸡蛋都放在这个编辑篮子里，否则我的家人可能会被彻底搞砸。所以我一直在考虑开一家咖啡店，作为补充我自由编辑收入的一种手段。就背景而言，我不打算在咖啡店工作，只是投入资金来建造和雇用并让它运转起来。我会聘请其他人来管理它，并根据需要帮助管理。我最担心的是做一些完全超出我的领域的事情，这会干扰我的演出。我的妻子认为这不是一个好主意，但我认为除了屏幕之外还有其他东西来占据我的注意力可能会很好。想知道是否有人完全在编辑之外开设了一家公司，并将两者管理得很好？ 更新： 感谢您对这个想法的所有严肃而有趣的批评。我不在美国，所以在这里开一家咖啡店没有同样的障碍，这是我可以进行的投资，因为我作为编辑确实赚了很多钱。我也接受过专业厨师的培训，所以我确实有这个领域的背景，尽管这不是我想涉足的领域。尽管我已经与不同的供应商、建筑师、厨师进行了大量的研究和报价，并制定了商业计划，并且确实认为这可以在我的城镇成为一项成功的冒险，但我确实认为你们中的很多人提出了很好的观点，这需要我比我预期更多的时间。所以我会更多地考虑一下，看看是否是时候继续下去了，因为编辑工作已经有了很大进展。   由   提交 /u/GradientRebel   [link] [评论]]]></description>
+      <description><![CDATA[我是一名自由编辑，今年是我第一次连续三个月无法预订演出。这让我意识到我不能把所有的鸡蛋都放在这个编辑篮子里，否则我的家人可能会被彻底搞砸。所以我一直在考虑开一家咖啡店，作为补充我自由编辑收入的一种手段。就背景而言，我不打算在咖啡店工作，只是投入资金来建造和雇用并让它运转起来。我会聘请其他人来管理它，并根据需要帮助管理。我最担心的是做一些完全超出我的领域的事情，这会干扰我的演出。我的妻子认为这不是一个好主意，但我认为除了屏幕之外还有其他东西来占据我的注意力可能会很好。想知道是否有人完全在编辑之外开设了一家公司，并将两者管理得很好？ 更新： 感谢您对这个想法的所有严肃而有趣的批评。我不在美国，所以在这里开一家咖啡店没有同样的障碍，这是我可以进行的投资，因为我作为编辑确实赚了很多钱。我也接受过专业厨师的培训，所以我确实有这个领域的背景，尽管这不是我想涉足的领域。虽然我已经与不同的供应商、建筑师、厨师进行了大量的研究和报价，并制定了商业计划，并且确实认为这可以在我的城镇成为一项成功的冒险，但我确实认为你们中的很多人提出了很好的观点，这需要我比我预期更多的时间。所以我会更多地考虑一下，看看是否是时候继续下去了，因为编辑工作已经有了很大进展。   由   提交 /u/GradientRebel   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1piryww/is_it_a_mistake_to_open_a_coffee_shop_to/</guid>
       <pubDate>Wed, 10 Dec 2025 03:19:55 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，我正在 Windows 11 中使用 Premiere Pro 2025，使用一台配置良好的 MSI 笔记本电脑：32 GB RAM、intel i9 处理器、Nvidia 显卡 (RTX 2070)、超过 100GB 的可用 SSD。当我尝试启用多机位视图（使用之前制作的多机位源序列）时，我遇到了一些严重的问题。 Premiere Pro 基本上冻结了，我必须在任务管理器中结束任务。  这些多机位源序列包含两个轨道，即 A 和 B 摄像机。它们不是 VFR（我认为这是一个潜在的问题）。它们是不长（最多几分钟）的 mp4 59.94 fps 视频。当两个剪辑在时间轴中正常重叠时，不会出现任何问题并且播放效果良好。  我已经尝试过：删除媒体缓存，仔细检查代理是否已启用并应用于多机位源序列剪辑（包括在时间轴中打开并查看各个剪辑），将播放分辨率调整为 Prores 422 代理，显然我已经为剪辑创建了代理。 Premiere 中似乎没有什么区别。 有人知道我如何解决这个问题吗？真是烦人。 谢谢！    由   提交 /u/dualitybyslipknot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1pioffz/help_is_anyone_having_problems_with_premiere_pro/</guid>
       <pubDate>Wed, 10 Dec 2025 00:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCP 中快速/无痛的音频混合工作流程？</title>
-      <link>https://www.reddit.com/r/editors/comments/1pimh1g/quickpainless_audio_mix_workflow_in_fcp/</link>
-      <description><![CDATA[(CPU Mac Mini G4/RAM 16 GB/GPU Silicon/Platform FCP 11.2/Codec .mov) 嘿，我最初接受的是 AVID 培训，我的 FCP 技能很扎实，但随着磁性时间线的出现，有时会有点复杂。情况是这样的。我有一个 2 1/2 小时长的时间线，并且有很多 B 卷报道，但原始编辑器没有在任何 B 卷中包含正确的音轨。我回到源头，发现有很多很棒的自然声音可用。但是，我只想基本上全面替换这些轨道。我知道必须有一种快速且轻松的方法来完成此操作，而无需我重新构建整个编辑并花费几天时间。有什么快速提示吗？我尝试在检查器中扩展音频元素和双单声道，但它不起作用。感谢您的输入！   由   提交 /u/Fentois-42069-Beauf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1pimh1g/quickpainless_audio_mix_workflow_in_fcp/</guid>
-      <pubDate>Tue, 09 Dec 2025 23:13:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
