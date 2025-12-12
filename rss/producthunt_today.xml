@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 12 Dec 2025 03:55:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 06:19:35 GMT</lastBuildDate>
     <item>
       <title>iFixit 的 FixBot</title>
       <link>https://www.producthunt.com/products/i-fix-it</link>
@@ -20,32 +20,32 @@
       <pubDate>Thu, 11 Dec 2025 03:01:14 GMT</pubDate>
     </item>
     <item>
-      <title>西尔维安·Excel特工</title>
-      <link>https://www.producthunt.com/products/sylvian-excel-agent</link>
+      <title>控制台.text()</title>
+      <link>https://www.producthunt.com/products/console-text-2</link>
       <description><![CDATA[
-            开源 Excel AI 代理
+            代码短信提醒，就像 console.log()
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/sylvian-excel-agent</guid>
-      <pubDate>Thu, 11 Dec 2025 01:22:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/console-text-2</guid>
+      <pubDate>Wed, 10 Dec 2025 20:33:26 GMT</pubDate>
     </item>
     <item>
-      <title>艾特菲尔德</title>
-      <link>https://www.producthunt.com/products/agentfield</link>
+      <title>猜鲸鱼</title>
+      <link>https://www.producthunt.com/products/guess-whale</link>
       <description><![CDATA[
-            使用 IAM 将 AI \ 代理构建和扩展为微服务
+            猜测提示并与机器交流
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agentfield</guid>
-      <pubDate>Thu, 11 Dec 2025 01:16:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/guess-whale</guid>
+      <pubDate>Wed, 10 Dec 2025 17:58:09 GMT</pubDate>
     </item>
     <item>
       <title>帮助布卢姆</title>
@@ -60,6 +60,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/helploom</guid>
       <pubDate>Wed, 10 Dec 2025 17:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>预检</title>
+      <link>https://www.producthunt.com/products/preflight-2</link>
+      <description><![CDATA[
+            无需电子表格即可运行协作式人工智能驱动的 bug bash
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/preflight-2</guid>
+      <pubDate>Wed, 10 Dec 2025 12:07:31 GMT</pubDate>
     </item>
     <item>
       <title>火沃利</title>
@@ -90,34 +104,6 @@
       <pubDate>Wed, 10 Dec 2025 10:00:16 GMT</pubDate>
     </item>
     <item>
-      <title>你讨厌人工智能同事</title>
-      <link>https://www.producthunt.com/products/odies-ai-coworkers</link>
-      <description><![CDATA[
-            聪明、贴心的伴侣就在你的屏幕上
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/odies-ai-coworkers</guid>
-      <pubDate>Wed, 10 Dec 2025 07:49:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Korey 编码代理交接</title>
-      <link>https://www.producthunt.com/products/korey</link>
-      <description><![CDATA[
-            将您的错误和想法发送给您最喜欢的编码代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/korey</guid>
-      <pubDate>Tue, 09 Dec 2025 23:57:05 GMT</pubDate>
-    </item>
-    <item>
       <title>凭证信号</title>
       <link>https://www.producthunt.com/products/vouch-4</link>
       <description><![CDATA[
@@ -130,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/vouch-4</guid>
       <pubDate>Tue, 09 Dec 2025 23:16:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>韦尔博特</title>
+      <link>https://www.producthunt.com/products/wellbot</link>
+      <description><![CDATA[
+            智能营养助手，健康选择
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/wellbot</guid>
+      <pubDate>Tue, 09 Dec 2025 13:29:45 GMT</pubDate>
     </item>
     <item>
       <title>费用</title>
@@ -146,6 +146,20 @@
       <pubDate>Tue, 09 Dec 2025 00:52:31 GMT</pubDate>
     </item>
     <item>
+      <title>更新的.dev</title>
+      <link>https://www.producthunt.com/products/updated</link>
+      <description><![CDATA[
+            将 Git 提交转换为线性风格的发行说明
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/updated</guid>
+      <pubDate>Mon, 08 Dec 2025 08:48:04 GMT</pubDate>
+    </item>
+    <item>
       <title>点击4.0</title>
       <link>https://www.producthunt.com/products/clickup</link>
       <description><![CDATA[
@@ -158,20 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/clickup</guid>
       <pubDate>Sun, 07 Dec 2025 22:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Skippr AI 的技巧</title>
-      <link>https://www.producthunt.com/products/skippr-2</link>
-      <description><![CDATA[
-            人工智能产品改进，就在您的浏览器中
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/skippr-2</guid>
-      <pubDate>Fri, 05 Dec 2025 20:47:40 GMT</pubDate>
     </item>
     <item>
       <title>飞工作室</title>
