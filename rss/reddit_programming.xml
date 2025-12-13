@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 12 Dec 2025 21:09:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 00:46:01 GMT</lastBuildDate>
+    <item>
+      <title>如何快速高效地阅读技术书籍？请给我一些提示</title>
+      <link>https://www.reddit.com/r/programming/comments/1pl7wcx/how_to_read_technical_books_fast_and_in_an/</link>
+      <description><![CDATA[我知道这是一个愚蠢的问题，但实际上我发现很难深入阅读后端、机器和深度学习书籍，这是浪费我的时间，而且几个月后我就忘记了   由   提交/u/unkown42303  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pl7wcx/how_to_read_technical_books_fast_and_in_an/</guid>
+      <pubDate>Sat, 13 Dec 2025 00:33:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>无可争议的安全编程女王 (Ada) |乔丹·罗尔斯</title>
+      <link>https://www.reddit.com/r/programming/comments/1pl68xf/the_undisputed_queen_of_safe_programming_ada/</link>
+      <description><![CDATA[ 由   提交/u/waozen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pl68xf/the_undisputed_queen_of_safe_programming_ada/</guid>
+      <pubDate>Fri, 12 Dec 2025 23:17:55 GMT</pubDate>
+    </item>
     <item>
       <title>50 年的证明助理</title>
       <link>https://www.reddit.com/r/programming/comments/1pkz9e6/50_years_of_proof_assistants/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>面向 ML/DL 工程师的 git 存储库</title>
       <link>https://www.reddit.com/r/programming/comments/1pku6zr/a_git_repo_for_mldl_engineers/</link>
-      <description><![CDATA[一个 GitHub 存储库，其中包含 ML/DL 资源、书籍 PDF 和初学者友好指南。 如果您正在开始您的旅程或完善基础知识，这可能会节省您的时间。 面向机器学习工程师的免费书籍 pdfsf：PDFS | Github 面向初学者的机器学习路线图：路线图 | AIML |初学者 | Medium 随意使用它，建议添加，或分叉并构建您自己的版本！   由   提交/u/InvestigatorEasy7673  [链接] [评论]]]></description>
+      <description><![CDATA[一个 GitHub 存储库，其中包含 ML/DL 资源、书籍 PDF 和初学者友好指南。 如果您正在开始自己的旅程或完善基础知识，这可能会节省您的时间。 针对机器学习工程师的免费书籍 pdfsf：PDFS | Github 面向初学者的机器学习路线图：路线图 | AIML |初学者 | Medium 随意使用它，建议添加，或分叉并构建您自己的版本！   由   提交/u/InvestigatorEasy7673  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pku6zr/a_git_repo_for_mldl_engineers/</guid>
       <pubDate>Fri, 12 Dec 2025 15:07:11 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/mkalte666  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pko0l9/gogs_zeroday_rce_cve20258110_actively_exploited/</guid>
       <pubDate>Fri, 12 Dec 2025 09:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java Swing 库系统 | （第五部分）用户管理模块——基于角色的访问控制</title>
-      <link>https://www.reddit.com/r/programming/comments/1pkkbgk/java_swing_library_system_part_5_user_management/</link>
-      <description><![CDATA[欢迎来到Java Swing 库管理系统系列的第 28 部分！ 在本视频中，我们使用基于角色的访问控制 (RBAC) 构建用户管理模块。您将了解如何根据用户的角色和权限来允许和限制对表单、页面和操作的访问。  🔥 今天您将学到什么  如何创建和管理用户角色 如何为每个角色分配权限 限制对表单和权限的访问。页 在 Java Swing 中实现 RBAC 逻辑 了解 MySQL 角色权限结构 显示“拒绝访问”页面受限制页面的屏幕  在 YouTube 上观看完整教程： 第 28 部分 — Java Swing 库系统 | （第 5 部分）用户管理模块 – 基于角色的访问控制 - YouTube   由   提交/u/Substantial-Log-9305   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pkkbgk/java_swing_library_system_part_5_user_management/</guid>
-      <pubDate>Fri, 12 Dec 2025 05:51:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>当金钱买来思考：开发者生活中的新一天</title>
-      <link>https://www.reddit.com/r/programming/comments/1pkjo5d/when_money_buys_thinking_a_new_day_in_the_life_of/</link>
-      <description><![CDATA[ 由   提交/u/Adept-Country4317  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pkjo5d/when_money_buys_thinking_a_new_day_in_the_life_of/</guid>
-      <pubDate>Fri, 12 Dec 2025 05:15:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
