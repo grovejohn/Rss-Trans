@@ -4,27 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 13 Dec 2025 03:45:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Dec 2025 06:16:43 GMT</lastBuildDate>
+    <item>
+      <title>Vibe 编码是通向技术债务的新途径吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1pldtea/is_vibe_coding_the_new_gateway_to_technical_debt/</link>
+      <description><![CDATA[人工智能辅助开发的惊人速度必须与连接灵感和工程的人类思维相结合。没有它，vibe 编码就会成为消除技术债务的捷径。   由   提交/u/Cultural-Ball4700   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pldtea/is_vibe_coding_the_new_gateway_to_technical_debt/</guid>
+      <pubDate>Sat, 13 Dec 2025 05:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>加载兆字节或千字节</title>
+      <link>https://www.reddit.com/r/programming/comments/1pldj1z/load_a_megabyte_or_a_kilobyte/</link>
+      <description><![CDATA[不管它是否有用，我制作了这个简单的程序来“打印”千字节或兆字节。它的工作原理是打印 &#39;0&#39; x * 1024 或 1024576 次。 1 个字符 = 1 个字节。它主要只是一个实验。    由   提交/u/Rocky_boy996   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pldj1z/load_a_megabyte_or_a_kilobyte/</guid>
+      <pubDate>Sat, 13 Dec 2025 05:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>下一个将取代 Java 的编程语言（是的，我知道）</title>
+      <link>https://www.reddit.com/r/programming/comments/1plcwi5/the_next_programming_language_that_will_replace/</link>
+      <description><![CDATA[我的文章向所有人开放；非会员读者可以点击此链接阅读全文 请在中等文章下评论 让我们解决一件事： Java 并没有消亡。 它只是......永远疲倦。 就像那位叔叔坚持说他仍然可以跑马拉松，因为他“以前在Java 很快就要30 岁了，在编程时代，它的生物年龄与火山大致相同。但不知何故，我们仍然用它构建了一半的互联网——包括那些抱怨 Java 速度慢的人。 所以问题自然而然地出现了……   由   提交/u/Rasathurai_Karan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1plcwi5/the_next_programming_language_that_will_replace/</guid>
+      <pubDate>Sat, 13 Dec 2025 04:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 React Server Components 的 OCaml 实现不存在 Flight 协议漏洞</title>
+      <link>https://www.reddit.com/r/programming/comments/1plc0n2/why_an_ocaml_implementation_of_react_server/</link>
+      <description><![CDATA[ 由   提交 /u/yawaramin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1plc0n2/why_an_ocaml_implementation_of_react_server/</guid>
+      <pubDate>Sat, 13 Dec 2025 03:58:45 GMT</pubDate>
+    </item>
     <item>
       <title>用 Java 构建快速、内存高效的哈希表（通过借鉴最好的想法）</title>
       <link>https://www.reddit.com/r/programming/comments/1plbpzg/building_a_fast_memoryefficient_hash_table_in/</link>
-      <description><![CDATA[大家好。 我一直痴迷于 SwissTable 风格的哈希映射，因此我尝试使用正在孵化的 Vector API 在 JVM 上用 Java 构建 SwissMap。 这篇文章涵盖了对性能真正重要的内容。 希望 JVM/Kotlin 人员提出批评。 --------------------------------------------另外，特别感谢 u/NovaX 和 u/Syskin。 您对我之前帖子的评论促使我澄清了一些关键部分。真的很感激！   由   提交 /u/Charming-Top-8583   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 我一直痴迷于 SwissTable 风格的哈希映射，因此我尝试使用孵化的 Vector API 在 JVM 上用 Java 构建 SwissMap。 这篇文章涵盖了对性能真正重要的内容。 希望得到任何反馈。 P.S. 特别感谢 u/sysKin 和 u/NovaX。 您对我之前帖子的评论促使我澄清了几个关键部分。真的很感激！   由   提交 /u/Charming-Top-8583   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1plbpzg/building_a_fast_memoryefficient_hash_table_in/</guid>
       <pubDate>Sat, 13 Dec 2025 03:43:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的终端风格个人网站</title>
-      <link>https://www.reddit.com/r/programming/comments/1plbohl/my_terminal_style_personal_site/</link>
-      <description><![CDATA[你们觉得我的终端风格个人网站怎么样？ 😆 位于：tednguyen.me   由   提交/u/Guilty_Guide  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1plbohl/my_terminal_style_personal_site/</guid>
-      <pubDate>Sat, 13 Dec 2025 03:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>量子物理模拟器</title>
-      <link>https://www.reddit.com/r/programming/comments/1pl9vo0/quantum_physics_simulator/</link>
-      <description><![CDATA[ 由   提交 /u/prcyy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pl9vo0/quantum_physics_simulator/</guid>
-      <pubDate>Sat, 13 Dec 2025 02:09:10 GMT</pubDate>
     </item>
     <item>
       <title>构建人工智能代理让我了解了生产系统中的抽象泄漏</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[许多代理讨论都集中在“技能与工具”等抽象概念上。 在研究了必须在生产中生存的代理之后，我的结论更简单： 抽象争论远不如执行约束重要。 从模型的角度来看，您提供的所有内容都只是一个可调用选项。但是，一旦超越演示，真正的问题对于任何交付系统的人来说都非常熟悉：  API 表面积爆炸 脆弱的接口 无法扩展的验证模型 在本地工作并在真实用户下崩溃的系统  我们详细分析了不同代理框架如何解决此问题，以及为什么大多数失败根本与模型推理无关 - 它们是关于经典的分布式系统和安全问题。 在这里发帖是因为这些问题感觉更接近“生产工程”而不是“AI 魔法”。   由   提交/u/Ok-Classic6022   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pl8etg/what_building_ai_agents_taught_me_about/</guid>
       <pubDate>Sat, 13 Dec 2025 00:57:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何快速高效地阅读技术书籍？请给我一些提示</title>
-      <link>https://www.reddit.com/r/programming/comments/1pl7wcx/how_to_read_technical_books_fast_and_in_an/</link>
-      <description><![CDATA[我知道这是一个愚蠢的问题，但实际上我发现很难深入阅读后端、机器和深度学习书籍，这是浪费我的时间，而且几个月后我就忘记了   由   提交/u/unkown42303  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pl7wcx/how_to_read_technical_books_fast_and_in_an/</guid>
-      <pubDate>Sat, 13 Dec 2025 00:33:17 GMT</pubDate>
     </item>
     <item>
       <title>无可争议的安全编程女王 (Ada) |乔丹·罗尔斯</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[一个 GitHub 存储库，其中包含 ML/DL 资源、书籍 PDF 和初学者友好指南。 如果您正在开始自己的旅程或完善基础知识，这可能会节省您的时间。 针对机器学习工程师的免费书籍 pdfsf：PDFS | Github 面向初学者的机器学习路线图：路线图 | AIML |初学者 | Medium 随意使用它，建议添加，或分叉并构建您自己的版本！   由   提交/u/InvestigatorEasy7673  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pku6zr/a_git_repo_for_mldl_engineers/</guid>
       <pubDate>Fri, 12 Dec 2025 15:07:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>为工作流自动化构建类型化数据流系统（以及为什么它比看起来更难）</title>
-      <link>https://www.reddit.com/r/programming/comments/1pkrv84/building_a_typed_dataflow_system_for_workflow/</link>
-      <description><![CDATA[我最近一直在从事一个业余项目，这迫使我解决一个有趣的问题： 如何将静态类型引入可视化工作流构建器，其中每个“节点”本质上都是一个具有未知输入和输出的小程序？ 大多数无代码/自动化工具将所有内容都视为字符串。这听起来很简单，但它会导致数量惊人的错误：  “42”&gt; “7”变为 false（字符串比较） “true”与 true 的行为不同 JSON API 变成了巨大的 blob，您必须手动解析 嵌套对象访问不一致 由于条件与类型不匹配，错误处理分支失败  当您将浏览器自动化 + API 调用 + 逻辑块结合起来时，这些问题会成倍增加。 因此，我尝试设计一个系统，其中 每个步骤产生正确类型的输出，下游步骤在构建时知道类型。 挑战 工作流程可以任意复杂：  分支 循环 条件 子流程 并行执行（未来）  每个节点都有自己的架构： type StepOutput = | { 类型：“字符串”；值：字符串 } | { 类型：“数字”；值：数字 } | { 类型：“布尔值”；值：布尔值 } | { 类型：“对象”；值：记录&lt;字符串，任意&gt; } | { 类型：“数组”； value: any[] }  但困难的部分不是输入值，而是输入连接。 例如：  步骤 #3 可能引用步骤 #1 的输出 步骤 #7 可能引用步骤 #3 的 JSON 中的嵌套字段 条件节点可能需要在运行之前验证类型 A “Set Variable”节点应该从分配的值推断其类型 循环节点需要知道它迭代的数组的元素类型  代码中的静态类型很容易。可视化图中的静态类型是一个完全不同的问题。 最终的工作 我最终构建了：  可区分的联合类型用于节点输出的系统 运行时类型传播作为边缘更新 图形级类型推断，具有简单的统一规则 类似 JSON 指针的系统，用于解决嵌套字段 执行前的编译时验证  结果： 一个工作流构建器，其中比较、分支、循环和 API 响应实际上表现得像真正的编程语言 - 但在视觉上。 看到无代码画布表现得像 TypeScript，感觉很奇怪。   由   提交/u/Kind_Contact_3900   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pkrv84/building_a_typed_dataflow_system_for_workflow/</guid>
-      <pubDate>Fri, 12 Dec 2025 13:28:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
