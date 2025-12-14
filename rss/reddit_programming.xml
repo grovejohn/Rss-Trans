@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 14 Dec 2025 06:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Dec 2025 09:11:53 GMT</lastBuildDate>
     <item>
-      <title>终于找到了一种与安全考试浏览器一起无缝使用人工智能助手（Gemini/ChatGPT）的方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1pm6msh/finally_found_a_way_to_use_ai_assistants/</link>
-      <description><![CDATA[大家好， 我一直在致力于一个名为 KLP Stealth 的项目。它是一款专为 Windows 10/11 设计的技术辅助工具，可帮助配置安全考试浏览器 (SEB) 的环境。 我这样做的原因： 很多用户都面临“SEB 锁定”的问题。由于后台进程导致的错误或随机崩溃。我的工具有助于优化系统资源并确保兼容性，特别是对于处理严格的 BEK（浏览器考试密钥）配置的系统。 功能：  SEB 3.10 的环境设置 防止常见的强制关闭问题。 提供更流畅的考试体验，无需担心技术问题。 实验： 集成支持外部 AI 助手（用于辅助功能/学习辅助目的）。  如果有人想查看它或需要 SEB 配置方面的帮助，可以在 GitHub 上找到它。 Repo 链接：https://github.com/robbypranata010118/klp-stealth 欢迎反馈！   由   提交/u/OpeningOk1138   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pm6msh/finally_found_a_way_to_use_ai_assistants/</guid>
-      <pubDate>Sun, 14 Dec 2025 05:49:14 GMT</pubDate>
+      <title>研究软件失败的原因 - 以及有关“软件开发中的价值驱动技术决策”的文章</title>
+      <link>https://www.reddit.com/r/programming/comments/1pm9kqe/research_in_to_why_software_fails_and_article_on/</link>
+      <description><![CDATA[ 由   提交/u/martindukz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pm9kqe/research_in_to_why_software_fails_and_article_on/</guid>
+      <pubDate>Sun, 14 Dec 2025 08:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库代理：挑战、工作和权衡</title>
+      <link>https://www.reddit.com/r/programming/comments/1pm9g9k/database_proxies_challenges_working_and_tradeoffs/</link>
+      <description><![CDATA[ 由   提交/u/Local_Ad_6109   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pm9g9k/database_proxies_challenges_working_and_tradeoffs/</guid>
+      <pubDate>Sun, 14 Dec 2025 08:46:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>克服ClickHouse的JSON约束构建高性能JSON日志存储</title>
+      <link>https://www.reddit.com/r/programming/comments/1pm94lv/overcoming_clickhouses_json_constraints_to_build/</link>
+      <description><![CDATA[嗨！我为名为 The Observability Real Talk 的时事通讯撰写文章，本周的版本介绍了我们如何构建高性能 JSON 日志存储，克服 Clickhouse 的 JSON 限制。我们正在讨论， - 我们面临的一些问题 - 探索 max_dynamic_path 选项设置 - 我们如何构建一个 2 层日志存储系统，极大地提高了我们的效率 如果您喜欢如此深入的工程知识，请留下您的想法并订阅！   由   提交/u/elizObserves  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pm94lv/overcoming_clickhouses_json_constraints_to_build/</guid>
+      <pubDate>Sun, 14 Dec 2025 08:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以直接使用的终端文本编辑器。即时响应，占地面积最小。</title>
+      <link>https://www.reddit.com/r/programming/comments/1pm83bz/a_terminal_text_editor_you_can_just_use_instant/</link>
+      <description><![CDATA[ 由   提交 /u/nix-solves-that-2317   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pm83bz/a_terminal_text_editor_you_can_just_use_instant/</guid>
+      <pubDate>Sun, 14 Dec 2025 07:18:05 GMT</pubDate>
     </item>
     <item>
       <title>终端文本编辑器是死胡同</title>
@@ -18,27 +39,6 @@
       <description><![CDATA[ 由   提交/u/nix-solves-that-2317   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pm6h3n/terminal_text_editors_are_a_dead_end/</guid>
       <pubDate>Sun, 14 Dec 2025 05:39:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>克服ClickHouse的JSON约束构建高性能JSON日志存储</title>
-      <link>https://www.reddit.com/r/programming/comments/1pm63s0/overcoming_clickhouses_json_constraints_to_build/</link>
-      <description><![CDATA[嗨！我为名为 The Observability Real Talk 的时事通讯撰写文章，本周的版本介绍了我们如何构建高性能 JSON 日志存储，克服 Clickhouse 的 JSON 限制。我们正在讨论， - 我们面临的一些问题 - 探索 max_dynamic_path 选项设置 - 我们如何构建一个 2 层日志存储系统，极大地提高了我们的效率 如果您喜欢如此深入的工程知识，请留下您的想法并订阅！   由   提交/u/elizObserves  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pm63s0/overcoming_clickhouses_json_constraints_to_build/</guid>
-      <pubDate>Sun, 14 Dec 2025 05:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个 Node 工具，可通过 glob 模式自动将 AGENTS.md 符号链接到文件夹中</title>
-      <link>https://www.reddit.com/r/programming/comments/1pm5t5h/a_node_tool_that_autosymlinks_agentsmd_into/</link>
-      <description><![CDATA[ 由   提交 /u/JellyDoodle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pm5t5h/a_node_tool_that_autosymlinks_agentsmd_into/</guid>
-      <pubDate>Sun, 14 Dec 2025 05:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mf — 用于创建文件 + 粘贴大型代码块的最小 Windows CLI</title>
-      <link>https://www.reddit.com/r/programming/comments/1pm5jzb/mf_minimal_windows_cli_for_creating_files_pasting/</link>
-      <description><![CDATA[我发布了 mf，这是一个小型的 Windows CMD 实用程序，可以创建文件和目录。文件夹创建实际上可用。 主要功能：  创建文件和文件。在一个命令中创建文件夹 在文件夹内创建文件（mf src in index.js） 使用 --stdin 从 CLI 粘贴大型多行代码块 零依赖项（纯 .bat）  GitHub：https://github.com/joeyycli/mf-cli 接受反馈、错误报告或 PR。   由   提交 /u/Notiqr   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pm5jzb/mf_minimal_windows_cli_for_creating_files_pasting/</guid>
-      <pubDate>Sun, 14 Dec 2025 04:48:54 GMT</pubDate>
     </item>
     <item>
       <title>我将 24 年的博客文章输入马尔可夫模型</title>
