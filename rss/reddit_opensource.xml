@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 15 Dec 2025 04:01:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 06:19:33 GMT</lastBuildDate>
+    <item>
+      <title>Isitreallyfoss - 评估“foss”项目的网站，看看它们是否像宣传的那样免费和开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pmzi4k/isitreallyfoss_website_that_evaluates_foss/</link>
+      <description><![CDATA[ 由   提交 /u/Right-Grapefruit-507   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pmzi4k/isitreallyfoss_website_that_evaluates_foss/</guid>
+      <pubDate>Mon, 15 Dec 2025 05:26:55 GMT</pubDate>
+    </item>
     <item>
       <title>我为开源资金编写了一个北约风格的框架 - 这是现实的还是完全天真的？</title>
       <link>https://www.reddit.com/r/opensource/comments/1pmxtgz/i_wrote_a_natostyle_framework_for_open_source/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/Roast_Slav  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pmkqgt/quickdrop_v150_release_biggest_update_yet/</guid>
       <pubDate>Sun, 14 Dec 2025 18:11:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个使用 WinGet 的简单自动应用程序更新程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pmggv8/i_built_a_simple_automatic_app_updater_that_uses/</link>
-      <description><![CDATA[我厌倦了必须手动使 npm、Node.js 和 git 等内容保持最新；所以我创建了一个小脚本，通过 WinGet 自动保持最新状态（可在每个应用程序的基础上进行配置）。 我知道已经有这些东西了......但它们看起来安装起来很痛苦，而且这很简单，我实际上明白它在做什么 XD https://github.com/ELowry/WinGet-Updater  注意：它应该很快就可以通过... winget install EricLowry.WinGetUpdater 下载（等待验证结束）！    由   提交 /u/EricLowry   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pmggv8/i_built_a_simple_automatic_app_updater_that_uses/</guid>
-      <pubDate>Sun, 14 Dec 2025 15:17:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

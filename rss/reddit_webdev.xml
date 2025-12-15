@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 15 Dec 2025 04:01:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 06:19:27 GMT</lastBuildDate>
+    <item>
+      <title>在 JavaScript 或您的网站上使用人工智能通常可以或可以接受吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmzh81/is_it_generally_okay_or_acceptable_to_use/</link>
+      <description><![CDATA[所以，我非常了解 HTML 和 CSS，但不太了解 JavaScript。我对 JavaScript 的了解非常少，只知道一些基础知识，我仍在学习如何使用它。 当谈到在您的网站中使用人工智能时，无论是部分还是全部，在您的 JavaScript 中使用它是否可以或可以接受吗？在您的开发中是否可以使用人工智能？这取决于谁在使用人工智能吗？我知道人工智能似乎名声不好，所以我很好奇人们对它的看法。   由   提交 /u/GasProfessional1841   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmzh81/is_it_generally_okay_or_acceptable_to_use/</guid>
+      <pubDate>Mon, 15 Dec 2025 05:25:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>是什么让验证码实际上可以忍受？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmy5hj/what_makes_a_captcha_actually_tolerable/</link>
+      <description><![CDATA[真正的问题。 对于经常处理验证码的人来说：你可以容忍的验证码和你立即讨厌的验证码之间有什么区别？ 是速度吗？ 步数？ 混乱？ “感觉毫无意义”的因素？ 好奇什么才是真正最重要的。   由   提交 /u/SilverWheat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmy5hj/what_makes_a_captcha_actually_tolerable/</guid>
+      <pubDate>Mon, 15 Dec 2025 04:13:31 GMT</pubDate>
+    </item>
     <item>
       <title>如何诊断某些浏览器版本上的网站问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1pmxahf/how_to_diagnose_an_issue_with_website_on_certain/</link>
@@ -76,7 +90,7 @@
       <pubDate>Sun, 14 Dec 2025 19:19:18 GMT</pubDate>
     </item>
     <item>
-      <title>表内 <input type=checkbox /> 的奇怪呈现</title>
+      <title>表格内 <input type=checkbox /> 的奇怪呈现</title>
       <link>https://www.reddit.com/r/webdev/comments/1pmlwc7/odd_rendering_of_input_typecheckbox_inside_tables/</link>
       <description><![CDATA[      注意到这个奇怪的“颤音”定位包含 视频链接 如果你检查输入元素，它无论如何都会显示 13x13，但是当它更小时，它显然不会填充包含的框。 仅仅有一个输入元素并移动不会导致这种情况。 当我写这篇文章时，我对其进行了更多测试它可能只发生在元素上，但定位似乎更敏感。例如：margin-left: 69px (nice) 的输入将“warble”更改 margin-top 时。 我在 Edge、Chrome 和 Firefox 中进行了测试。这种行为在 FF 中不太明显，更多的是拉伸和捕捉效果。 表格中甚至不必有多个单元格。这个简单的单单元格表将“颤动”。如果你移动它： ; &lt;正文&gt; /u/mathestus  [链接]   [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmlwc7/odd_rendering_of_input_typecheckbox_inside_tables/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[SVG，又名图形的正则表达式，有点让我抓狂。 当您进入该网站时，我正在查看该网站底部的一条：https://www.photoscoper.co.uk/ 这是一条水平直线，但当您单击它时，它就会出现摆动。它有两个 SVG &lt;路径填充=“none”笔画=“#ffffff”笔划宽度＝“2” d=“M0,3.5 c 5,0,5,-3,10,-3 s 5,3,10,3 c 5,0,5,-3,10,-3 s 5,3,10,3”&gt;&gt; &gt;&lt;/path&gt;&lt;/svg&gt; 不知怎的，它在它们之间产生了动画。我想做类似的事情。在任何地方都找不到预制的，即使我找到了，我也不知道如何切换动画。 我发现这个 SVG 在杯子里有一条波浪线： https://jsfiddle.net/syrb4uvp/1/ 但即使我取下杯子，整体形状仍然是杯子的形状，可以进入杯子方式。然后我还是不知道如何切换动画。 https://iconify.design/ 有一些动画 SVG，但我找不到我想要的。   由   提交/u/Grahf0085  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmkhy2/toggle_svg_line_wiggle_animation_when_clicked/</guid>
       <pubDate>Sun, 14 Dec 2025 18:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么美国网站屏蔽美国以外的用户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmk481/why_do_american_websites_block_users_from_outside/</link>
-      <description><![CDATA[嘿，我不知道为什么这在美国网站中如此常见。我在 Reddit 上看到一些新闻链接页面，当我点击阅读时，它显示“该网站在您所在的位置、国家、地区等不可用。”或类似的文字。有趣的是，大多数大型新闻网站都不关心它，但很小的本地新闻网站 %95 使用它。同样的事情也发生在兴趣爱好网站上。我正在寻找船只钓鱼设备评论，一些美国博客也没有打开。为什么他们要阻止它？   由   提交/u/diomedes-on-rampage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmk481/why_do_american_websites_block_users_from_outside/</guid>
-      <pubDate>Sun, 14 Dec 2025 17:46:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>连接到 GitHub Pages 的新网站被 Chrome 标记为“危险网站”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmi3dv/new_website_connected_to_github_pages_flagged_as/</link>
-      <description><![CDATA[      大家好， 我最近创建了一个新的登陆页面并将其托管在 GitHub Pages 上，然后将其连接到一个全新的自定义域。 该网站非常新（只有几天），但是当我尝试在 Chrome 中打开它时，我收到来自 Google 安全浏览的“危险站点”红色警告屏幕（我附上了屏幕截图）。 任何帮助或见解将不胜感激。谢谢！   由   提交 /u/IspkingX   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmi3dv/new_website_connected_to_github_pages_flagged_as/</guid>
-      <pubDate>Sun, 14 Dec 2025 16:25:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
