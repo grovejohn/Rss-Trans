@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 15 Dec 2025 00:50:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 04:01:48 GMT</lastBuildDate>
+    <item>
+      <title>如何诊断某些浏览器版本上的网站问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmxahf/how_to_diagnose_an_issue_with_website_on_certain/</link>
+      <description><![CDATA[嘿大家 最近，一位用户报告说我的网站无法在他们的 Chrome 浏览器上运行，但可以在他们的 Edge 浏览器上运行。在不涉及太多细节的情况下，基本上一些 WASM 模块根本无法运行。 我认为这很奇怪，因为 chrome 和 Edge 都是基于 chromium 的，所以我询问了一些诊断信息，发现它们使用的是旧版本的 chrome (122)。 我下载了这个旧版本的 chromium，结果发现 - 网站被破坏了。我想知道该网站开始工作的版本是哪个版本，有趣的是它是下一个版本（123）。 所以现在我遇到了问题 - 我确切地知道网站中断的版本截止 - 但我没有太多其他可做的。控制台中没有错误/没有崩溃/没有冻结/等等。基本上我的网站遇到了某种幽灵问题。 我想过阅读变更日志，直到我发现了巨大的提交列表，然后很快就放弃了。 所以我不知道该怎么做 - 雪上加霜的是，我使用了一堆可能使用新功能的软件包，但在旧版本或类似的东西上却默默地失败了。 在这样的情况下你会做什么来找到问题？或者你只是说忘记它并阻止旧版本的用户？我尝试隔离问题并添加控制台日志，但无济于事。也许有某种东西可以扫描我的项目并检查 caniuse.com 兼容性？   由   提交/u/a300a300  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmxahf/how_to_diagnose_an_issue_with_website_on_certain/</guid>
+      <pubDate>Mon, 15 Dec 2025 03:28:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议：fullstack webdev 文凭 + gis bach</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmw7wd/looking_for_advice_fullstack_webdev_diploma_gis/</link>
+      <description><![CDATA[我拥有全栈 Web 开发文凭，希望有机会攻读 2 年 GIS 学士学位。 想知道这在行业方面是否是一个好主意，并且两者是否可以互补？我更喜欢主要从事开发工作，但鉴于该行业的饱和程度，拥有额外的专业知识将有助于我推销自己？ 任何一般建议都会有所帮助。谢谢   由   提交/u/loveandglobes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmw7wd/looking_for_advice_fullstack_webdev_diploma_gis/</guid>
+      <pubDate>Mon, 15 Dec 2025 02:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>离线优先的网络应用程序是一个坏主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pmv05r/is_offlinefirst_web_app_a_bad_idea/</link>
+      <description><![CDATA[似乎大多数现代应用程序都是离线持久的，但不是离线优先的。例如，Notion 桌面和移动应用程序首先是离线的，但 Web 应用程序不是。 Excalidraw 免费版首先是离线的，但 excalidraw+ 不是。 你认为原因是什么？ 编辑：为了避免混淆，我所说的“离线优先”是什么意思？是一种功能齐全的离线模式，可以在长时间（比如1天）不连接后端的情况下完全工作。   由   提交 /u/Illustrious_Web_2774   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pmv05r/is_offlinefirst_web_app_a_bad_idea/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:35:59 GMT</pubDate>
+    </item>
     <item>
       <title>如何以express为后端实现电商SSR（cv项目）</title>
       <link>https://www.reddit.com/r/webdev/comments/1pmtyx6/how_to_achieve_ssr_for_ecom_with_express_as/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>除了 React 之外，您还会为此类项目选择什么堆栈？</title>
       <link>https://www.reddit.com/r/webdev/comments/1pmtppz/besides_react_what_stack_would_you_choose_for/</link>
-      <description><![CDATA[我正在着手一个业余项目，我一直想尝试一下这个项目有一段时间了。我描述它的最好方式是类似于 daily.dev，但主题将围绕音乐。该功能主要集中在用户配置文件、消息/线程、奖励/积分...或多或少相当标准的 CRUD。 我有很多 PHP 背景，并且构建了一些小型 PHP 应用程序（以及 WordPress，但谁没有）。我已经使用 React 进行了相当多的构建，显然对 Next 也有很多经验，但我希望主要是为了获得其他构建方法的经验。 React 很棒，但它还远非完美，我想看看其他语言/框架/堆栈能为 Web 应用程序提供什么。 目前的主要竞争者是：  Vue SolidJS Svelte 或者完全离开 JS 框架：Laravel  Solid 和 Svelte 看起来很棒，但我担心两者的生态系统。 到目前为止，两个最有趣的是 Vue 和 Laravel，但我担心 Vue 将会“更加相同”。而且 Laravel 对于高性能 Web 应用程序体验来说太慢了。虽然我一直在阅读有关 Inertia 的文章，但我相信它可以让我在后端使用 Laravel 进行构建并在前端使用 Vue 之类的东西？  我只是好奇看看其他人现在都在选择什么。我愿意接受任何和所有建议！   由   提交 /u/creaturefeature16   [链接] [评论]]]></description>
+      <description><![CDATA[我正在着手一个业余项目，我一直想尝试一下这个项目有一段时间了。我描述它的最好方式是类似于 daily.dev，但主题将围绕音乐。该功能主要集中在用户配置文件、消息/线程、奖励/积分...或多或少相当标准的 CRUD。 我有很多 PHP 背景，并且构建了一些小型 PHP 应用程序（以及 WordPress，但谁没有）。我已经使用 React 进行了相当多的构建，显然对 Next 也有很多经验，但我希望主要是为了获得其他构建方法的经验。 React 很棒，但它还远非完美，我想看看其他语言/框架/堆栈能为 Web 应用程序提供什么。 目前的主要竞争者是：  Vue SolidJS Svelte 或者完全离开 JS 框架：Laravel w/Livewire 或 Inertia w/Vue  Solid 和 Svelte 看起来很棒，但我担心两者的生态系统。 到目前为止，最有趣的两个是 Vue 和 Laravel。 我只是想看看其他人最近在选择什么。我愿意接受任何和所有建议！   由   提交 /u/creaturefeature16   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmtppz/besides_react_what_stack_would_you_choose_for/</guid>
       <pubDate>Mon, 15 Dec 2025 00:33:07 GMT</pubDate>
     </item>
@@ -55,7 +76,7 @@
       <pubDate>Sun, 14 Dec 2025 19:19:18 GMT</pubDate>
     </item>
     <item>
-      <title>表格内 <input type=checkbox /> 的奇怪呈现</title>
+      <title>表内 <input type=checkbox /> 的奇怪呈现</title>
       <link>https://www.reddit.com/r/webdev/comments/1pmlwc7/odd_rendering_of_input_typecheckbox_inside_tables/</link>
       <description><![CDATA[      注意到这个奇怪的“颤音”定位包含 视频链接 如果你检查输入元素，它无论如何都会显示 13x13，但是当它更小时，它显然不会填充包含的框。 仅仅有一个输入元素并移动不会导致这种情况。 当我写这篇文章时，我对其进行了更多测试它可能只发生在元素上，但定位似乎更敏感。例如：margin-left: 69px (nice) 的输入将“warble”更改 margin-top 时。 我在 Edge、Chrome 和 Firefox 中进行了测试。这种行为在 FF 中不太明显，更多的是拉伸和捕捉效果。 表格中甚至不必有多个单元格。这个简单的单单元格表将“颤动”。如果你移动它： ; &lt;正文&gt; /u/mathestus  [链接]   [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmlwc7/odd_rendering_of_input_typecheckbox_inside_tables/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[      大家好， 我最近创建了一个新的登陆页面并将其托管在 GitHub Pages 上，然后将其连接到一个全新的自定义域。 该网站非常新（只有几天），但是当我尝试在 Chrome 中打开它时，我收到来自 Google 安全浏览的“危险站点”红色警告屏幕（我附上了屏幕截图）。 任何帮助或见解将不胜感激。谢谢！   由   提交 /u/IspkingX   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pmi3dv/new_website_connected_to_github_pages_flagged_as/</guid>
       <pubDate>Sun, 14 Dec 2025 16:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 年 <br> 标签</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmhgr7/30_years_of_br_tags/</link>
-      <description><![CDATA[ 由   提交/u/Grannen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmhgr7/30_years_of_br_tags/</guid>
-      <pubDate>Sun, 14 Dec 2025 16:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>连接到 GitHub Pages 的新网站被 Chrome 标记为“危险网站”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmh31s/new_website_connected_to_github_pages_flagged_as/</link>
-      <description><![CDATA[大家好， 我最近创建了一个新的登陆页面并将其托管在 GitHub Pages 上，然后将其连接到一个全新的自定义域。 该网站非常新（只有几天），但当我尝试在 Chrome 中打开它时，我从 Google 安全浏览中收到“危险网站”红色警告屏幕（我附上了屏幕截图）。 任何帮助或见解将不胜感激。谢谢！   由   提交 /u/IspkingX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmh31s/new_website_connected_to_github_pages_flagged_as/</guid>
-      <pubDate>Sun, 14 Dec 2025 15:44:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我通过提取 2000 万行维基词典数据，构建了 4,500 种语言的 WaniKani 克隆。以下是开发挑战。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pmg3hl/i_built_a_wanikani_clone_for_4500_languages_by/</link>
-      <description><![CDATA[   我是 WaniKani（日语的游戏化 SRS）的忠实粉丝，但我希望为通常没有良好工具的语言（特别是格鲁吉亚语和卡纳达语）提供相同的用户体验。由于这些应用程序不存在，我决定建立一个通用的 SRS 网站，可以提取任何语言的数据。 最初，我考虑抓取维基词典，但为 4,500 多种不同的语言模板编写解析器将是一项无限的工作。 我发现了一个名为 kaikki.org 的项目，它转储维基词典数据转换为机器可读的 JSON。我提取了他们的完整数据集。 结果是一个包含约 2000 万行的数据库。 将信号与噪声分离。 JSON 包含一切。模糊的科学术语、古老的动词形式等。我需要一个过滤层来识别“可学习的”术语。单词（实际上有定义、清晰词性和翻译的单词 “豆腐”问题。这是 webdev 方面最困难的部分。当您支持 4,500 种语言时，您会遇到标准系统字体根本无法呈现的脚本。 “游戏”逻辑以编程方式生成多项选择题 (MCQ) 更困难如果目标单词是“Cat”（名词），并且干扰项是“Run”（动词）和“Blue”（形容词），则用户可以通过排除来猜测，因此会出现与目标单词的词性和频率相匹配的查询，从而使测验变得更加困难。 前端： Next.js 后端：Supabase 这是一个在前端密集型应用程序上处理“大数据”的有趣实验 这个大小的表有 2 个。    提交href=&quot;https://www.reddit.com/user/biricat&quot;&gt;/u/biricat   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pmg3hl/i_built_a_wanikani_clone_for_4500_languages_by/</guid>
-      <pubDate>Sun, 14 Dec 2025 15:01:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

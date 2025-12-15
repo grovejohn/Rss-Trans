@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 15 Dec 2025 00:49:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 04:00:52 GMT</lastBuildDate>
+    <item>
+      <title>我需要帮助构建一个（不断增长的）大型项目 - Premiere Productions：12TB 分成不同的项目</title>
+      <link>https://www.reddit.com/r/editors/comments/1pmud4n/i_need_help_structuring_a_growing_huge_project/</link>
+      <description><![CDATA[前言：我已经编辑了8年了，没有遇到这个问题。我编辑了原始工作流程和代理工作流程，没有出现此问题。 Premiere Pro 25 规格： Intel i9 14900K 64GB DDR4 RAM 外部硬盘驱动器，速度：200MB/s Geforce RTX 5080 我现在使用代理工作流程，但是：我已附加代理。 这会影响性能吗？ 如果我“输入+输出+提取”在时间轴（3小时长）中，动作发生之前需要10秒的时间。 此外，当我播放序列时，有时它无法正确加载下一个剪辑，并且在没有播放声音的情况下也会滞后。 Raw 以 .R3D 格式拍摄，代理为 .mov 的一半 Raw，R3D：3200x1800 Prores 4444 Proxy，mov：1600x800 Prores 422 Proxy 也许这是一个菜鸟问题，但我以前从未遇到过这个问题。如果你愿意的话，请火焰我，只要我得到我的错误的答案......！我非常感谢所有的答案！谢谢   由   提交/u/RedOvalPatches  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1pmud4n/i_need_help_structuring_a_growing_huge_project/</guid>
+      <pubDate>Mon, 15 Dec 2025 01:04:27 GMT</pubDate>
+    </item>
     <item>
       <title>需要有关利基/创意工作的职业帮助！</title>
       <link>https://www.reddit.com/r/editors/comments/1pmpk82/need_career_help_regarding_nichecreative_work/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我刚刚将一些 BetaSP 磁带加载到 Avid 中，分辨率为 29.97，SD 隔行扫描 ProRes。 最终目标是制作美观的网络视频，但我不确定处理隔行扫描的最佳方法。我在 Avid 中，打算导出与源相同的内容，然后使用快门编码器制作 h264 mp4。 我应该在快门中去隔行吗？或者也许在 Avid 中有效果？当源是渐进式高清视频时，我可以毫无问题地制作干净的筛选器，但我对这个旧镜头感到头疼。 任何提示将不胜感激   由   提交 /u/TurboJorts   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1pkyb2u/best_web_screeners_from_old_sd_interlaced_avid/</guid>
       <pubDate>Fri, 12 Dec 2025 17:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决：根据时间码自动排序</title>
-      <link>https://www.reddit.com/r/editors/comments/1pkwefx/resolve_autosequence_from_timecode/</link>
-      <description><![CDATA[在 Avid 中，我习惯于通过时间码自动同步样片，然后创建所有内容基于 TC 整齐排列的序列，而不会在时间线的开头引入大的间隙。在Resolve中，我知道您可以使用时间码创建时间线，但时间线开始时间码默认为01:00:00:00，这是我通常使用的。我遇到的问题是拍摄时间码的开始时间比这晚得多，所以当 Resolve 构建时间线时，我最终在开始时出现了很大的差距。 （更像是现场时间码功能） 我不能只是缩小这个差距，因为一切都会发生变化，剪辑不再与时间码正确对齐，即使它们的相对顺序保持不变。我想要实现的是一个自动构建的序列，该序列从第一张图片的时间码开始，头部没有空白空间，同时仍然保留剪辑之间正确的时间码关系。 有什么见解吗？谢谢！    由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1pkwefx/resolve_autosequence_from_timecode/</guid>
-      <pubDate>Fri, 12 Dec 2025 16:35:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
