@@ -4,11 +4,67 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 15 Dec 2025 12:22:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 15:17:32 GMT</lastBuildDate>
+    <item>
+      <title>Java 25 虚拟线程——什么对我们有效，什么对我们无效</title>
+      <link>https://www.reddit.com/r/programming/comments/1pn9m4u/java_25_virtual_threads_what_worked_and_what/</link>
+      <description><![CDATA[ 由   提交/u/SpringJavaLab  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pn9m4u/java_25_virtual_threads_what_worked_and_what/</guid>
+      <pubDate>Mon, 15 Dec 2025 15:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>GameCap - 开源实时人工智能游戏字幕</title>
+      <link>https://www.reddit.com/r/programming/comments/1pn8fbl/gamecap_open_source_realtime_ai_game_subtitles/</link>
+      <description><![CDATA[GameCap 是一款功能强大的开源工具，它封装了 Deepgram API，为您的桌面音频提供实时字幕和翻译。它主要为游戏玩家设计，直接捕获系统音频，使用 Deepgram 最先进的人工智能以低延迟进行转录，将其翻译为您的目标语言，并将其显示在游戏顶部的可自定义叠加层中。   由   提交/u/Otherwise_Vehicle75   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pn8fbl/gamecap_open_source_realtime_ai_game_subtitles/</guid>
+      <pubDate>Mon, 15 Dec 2025 14:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>IPC 机制：共享内存与消息队列性能基准测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1pn84ce/ipc_mechanisms_shared_memory_vs_message_queues/</link>
+      <description><![CDATA[每秒在进程和 sys 之间推送 500K 消息 CPU 时间已经达到极限。您的分析器显示 mq_send() 和 mq_receive() 在火焰图中占主导地位。每条消息都很小（也许 64 字节），但仅 IPC 开销就消耗了 40% 的 CPU。 这不是假设。 LinkedIn 的 Kafka 生产者正是碰上了这堵墙。消息队列系统调用正在破坏吞吐量。他们切换到共享内存环形缓冲区，发现上下文切换从 100K/秒下降到接近于零。区别？每个消息队列操作都是一个具有用户→内核→用户内存副本的系统调用。共享内存使您可以直接写入其他进程可以读取的内存。设置后无需系统调用，无需上下文切换，无需复制。 性能悬崖会悄然而至。在低速率下，消息队列工作正常——内核处理同步，并且您可以获得干净的阻塞语义。但扩大规模后，突然间你要为每个系统调用支付 60-100 纳秒的时间，再加上复制数据两次和队列阻塞时上下文切换的成本。采用无锁算法的共享内存可以达到亚微秒级的延迟，但您现在负责同步、缓存一致性以及进程在操作过程中崩溃时的清理。   由   提交/u/Extra_Ear_10  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pn84ce/ipc_mechanisms_shared_memory_vs_message_queues/</guid>
+      <pubDate>Mon, 15 Dec 2025 14:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>CI/CD 演变：从管道到 AI 驱动的 DevOps • Olaf Molenveld 和 Julian Wood</title>
+      <link>https://www.reddit.com/r/programming/comments/1pn7xgt/cicd_evolution_from_pipelines_to_aipowered_devops/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pn7xgt/cicd_evolution_from_pipelines_to_aipowered_devops/</guid>
+      <pubDate>Mon, 15 Dec 2025 13:55:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Excel：世界上最成功的函数式编程平台 作者：Houston Haynes</title>
+      <link>https://www.reddit.com/r/programming/comments/1pn7cea/excel_the_worlds_most_successful_functional/</link>
+      <description><![CDATA[Houston Haynes 发表了本年度最令人惊讶、最发人深省的演讲之一：将 Excel 重新构建为不仅作为电子表格工具，而且作为世界上最广泛采用的函数式编程平台。 演讲结合了个人经历、技术见解、业务策略，甚至一点 FP 哲学 - 挑战函数式编程社区重新思考其技术及其服务的受众的界限。   由   提交/u/MagnusSedlacek  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pn7cea/excel_the_worlds_most_successful_functional/</guid>
+      <pubDate>Mon, 15 Dec 2025 13:28:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Go 中的哈希表以及自托管编译器的优势</title>
+      <link>https://www.reddit.com/r/programming/comments/1pn6gc6/hash_tables_in_go_and_advantage_of_selfhosted/</link>
+      <description><![CDATA[ 由   提交/u/f311a  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pn6gc6/hash_tables_in_go_and_advantage_of_selfhosted/</guid>
+      <pubDate>Mon, 15 Dec 2025 12:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>心态如何塑造初创公司的工程成功</title>
+      <link>https://www.reddit.com/r/programming/comments/1pn6bu3/how_mindset_shapes_engineering_success_at_startups/</link>
+      <description><![CDATA[ 由   提交/u/c-digs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pn6bu3/how_mindset_shapes_engineering_success_at_startups/</guid>
+      <pubDate>Mon, 15 Dec 2025 12:38:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了为不同的 AI 编码代理管理 10 多个终端窗口，所以我构建了一个统一的管理器</title>
+      <link>https://www.reddit.com/r/programming/comments/1pn662t/i_got_tired_of_managing_10_terminal_windows_for/</link>
+      <description><![CDATA[https://youtu.be/HRKiu3JijkQ?si=VvFzWL-5ejg7agyu 不同的 AI 代理。不同的项目。零可见性。 因此，我构建了 Solhun — 一个仪表板来管理所有项目中的所有 CLI 代理（Claude Code、Gemini CLI、Codex 等）。 没有供应商锁定。随时切换代理。   由   提交/u/Beneficial_Mall6585   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pn662t/i_got_tired_of_managing_10_terminal_windows_for/</guid>
+      <pubDate>Mon, 15 Dec 2025 12:29:44 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能的炒作让开发人员讨厌人工智能——但该工具仍然有用（这是我使用它的方式）</title>
       <link>https://www.reddit.com/r/programming/comments/1pn5w2d/ai_hype_is_making_devs_hate_ai_but_the_tool_is/</link>
-      <description><![CDATA[我最近注意到了很多对人工智能的仇恨，说实话，我明白了，骗子的帖子，“你会被淘汰”的说法，首席执行官做出大胆的预测，以及公司将人工智能推入产品中。  在我的视频中，我谈到如何将炒作与实用性分开，并分享我日常如何实际使用人工智能： - 解释代码库 - 快速设计开源示例，使其看起来更好 - 自动化我的发布工作流程：文字记录→标题/描述/标签→章节→社交→博客文章 好奇其他人如何使用人工智能（或避免使用人工智能）以及什么您发现真正有用的工作流程。   由   提交/u/stackokayflow  [链接] [评论]]]></description>
+      <description><![CDATA[我最近注意到很多对人工智能的憎恨，老实说，我明白了，骗子帖子、“你会被淘汰”的说法、首席执行官做出大胆的预测，以及公司将人工智能推入产品中。 在我的视频中，我谈论如何将炒作与实用性分开，并分享我如何在日常中实际使用人工智能： - 解释代码存储库 - 快速设计开源示例，使它们看起来更好 - 自动化我的发布工作流程：文字记录 → 标题/描述/标签 → 章节 → 社交 → 博客文章 好奇其他人如何使用人工智能（或避免使用人工智能）以及您发现哪些工作流程真正有用。   由   提交/u/stackokayflow  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pn5w2d/ai_hype_is_making_devs_hate_ai_but_the_tool_is/</guid>
       <pubDate>Mon, 15 Dec 2025 12:14:37 GMT</pubDate>
     </item>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/ortuman84  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pn3f9c/zyn_030_an_extensible_pubsub_messaging_protocol/</guid>
       <pubDate>Mon, 15 Dec 2025 09:40:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spring Boot 中的 gRPC - Piotr 的技术博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1pn2km9/grpc_in_spring_boot_piotrs_techblog/</link>
-      <description><![CDATA[ 由   提交/u/piotr_minkowski   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pn2km9/grpc_in_spring_boot_piotrs_techblog/</guid>
-      <pubDate>Mon, 15 Dec 2025 08:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过精益理解数学</title>
-      <link>https://www.reddit.com/r/programming/comments/1pn1w31/understanding_mathematics_through_lean/</link>
-      <description><![CDATA[嗨，这是我的博客。我希望您喜欢本周的帖子！   由   提交/u/mapehe808  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pn1w31/understanding_mathematics_through_lean/</guid>
-      <pubDate>Mon, 15 Dec 2025 07:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>您用什么来创建这种类型的手势应用程序？</title>
-      <link>https://www.reddit.com/r/programming/comments/1pn1bci/what_do_you_use_to_create_that_type_of_hand/</link>
-      <description><![CDATA[ 由   提交/u/MarioTech8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pn1bci/what_do_you_use_to_create_that_type_of_hand/</guid>
-      <pubDate>Mon, 15 Dec 2025 07:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>将应用程序和网站加载时间减少 40% — 生产说明</title>
-      <link>https://www.reddit.com/r/programming/comments/1pn1apa/reducing_app_website_load_time_by_40_production/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pn1apa/reducing_app_website_load_time_by_40_production/</guid>
-      <pubDate>Mon, 15 Dec 2025 07:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢欣鼓舞：Python 子进程和 Go codegen</title>
-      <link>https://www.reddit.com/r/programming/comments/1pn186k/jubilant_python_subprocess_and_go_codegen/</link>
-      <description><![CDATA[ 由   提交/u/benhoyt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pn186k/jubilant_python_subprocess_and_go_codegen/</guid>
-      <pubDate>Mon, 15 Dec 2025 07:10:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端驱动徽章系统第2部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1pn0wpz/part_2_of_backend_driven_badge_system/</link>
-      <description><![CDATA[ 由   提交/u/Namit2111  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pn0wpz/part_2_of_backend_driven_badge_system/</guid>
-      <pubDate>Mon, 15 Dec 2025 06:50:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 的报告：企业人工智能的现状</title>
-      <link>https://www.reddit.com/r/programming/comments/1pmvbf2/openais_report_the_state_of_enterprise_ai/</link>
-      <description><![CDATA[ 由   提交/u/gregorojstersek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pmvbf2/openais_report_the_state_of_enterprise_ai/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:51:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>🦀 Rust 正式成为 Linux 主线的一部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1pmutud/rust_is_officially_part_of_linux_mainline/</link>
-      <description><![CDATA[ 由   提交/u/web3writer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pmutud/rust_is_officially_part_of_linux_mainline/</guid>
-      <pubDate>Mon, 15 Dec 2025 01:27:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
