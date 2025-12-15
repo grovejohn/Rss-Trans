@@ -4,11 +4,25 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 15 Dec 2025 18:18:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Dec 2025 21:12:18 GMT</lastBuildDate>
+    <item>
+      <title>使用 AVX‑512 以 50 倍 ICU 速度进行完整 Unicode 搜索</title>
+      <link>https://www.reddit.com/r/programming/comments/1pnito3/full_unicode_search_at_50_icu_speed_with_avx512/</link>
+      <description><![CDATA[ 由   提交 /u/alexeyr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pnito3/full_unicode_search_at_50_icu_speed_with_avx512/</guid>
+      <pubDate>Mon, 15 Dec 2025 20:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>调试结束</title>
+      <link>https://www.reddit.com/r/programming/comments/1pnikyd/the_end_of_debugging/</link>
+      <description><![CDATA[ 由   提交/u/beyphy  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pnikyd/the_end_of_debugging/</guid>
+      <pubDate>Mon, 15 Dec 2025 20:47:08 GMT</pubDate>
+    </item>
     <item>
       <title>Java 25 虚拟线程——什么对我们有效，什么对我们无效</title>
       <link>https://www.reddit.com/r/programming/comments/1pn9m4u/java_25_virtual_threads_what_worked_and_what/</link>
-      <description><![CDATA[ 由   提交/u/SpringJavaLab   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/SpringJavaLab  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pn9m4u/java_25_virtual_threads_what_worked_and_what/</guid>
       <pubDate>Mon, 15 Dec 2025 15:05:42 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[嗨，这是我的博客。我希望您喜欢本周的帖子！   由   提交/u/mapehe808  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pn1w31/understanding_mathematics_through_lean/</guid>
       <pubDate>Mon, 15 Dec 2025 07:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>将应用程序和网站加载时间减少 40% — 生产说明</title>
-      <link>https://www.reddit.com/r/programming/comments/1pn1apa/reducing_app_website_load_time_by_40_production/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pn1apa/reducing_app_website_load_time_by_40_production/</guid>
-      <pubDate>Mon, 15 Dec 2025 07:15:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢欣鼓舞：Python 子进程和 Go codegen</title>
-      <link>https://www.reddit.com/r/programming/comments/1pn186k/jubilant_python_subprocess_and_go_codegen/</link>
-      <description><![CDATA[ 由   提交/u/benhoyt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pn186k/jubilant_python_subprocess_and_go_codegen/</guid>
-      <pubDate>Mon, 15 Dec 2025 07:10:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
