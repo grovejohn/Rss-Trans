@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 16 Dec 2025 18:18:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Dec 2025 21:13:01 GMT</lastBuildDate>
+    <item>
+      <title>从实验到骨干：在生产中采用 Rust</title>
+      <link>https://www.reddit.com/r/programming/comments/1pobd3w/from_experiment_to_backbone_adopting_rust_in/</link>
+      <description><![CDATA[ 由   提交 /u/magnet9000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pobd3w/from_experiment_to_backbone_adopting_rust_in/</guid>
+      <pubDate>Tue, 16 Dec 2025 19:37:24 GMT</pubDate>
+    </item>
     <item>
       <title>从 2026 年 3 月 1 日开始，GitHub 将为自托管运行器的使用引入每分钟 0.002 美元的新费用。</title>
       <link>https://www.reddit.com/r/programming/comments/1po996g/starting_march_1_2026_github_will_introduce_a_new/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[ 由   提交/u/gavinhoward   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1po95q0/piecemeal_formal_verification_cloudflare_java/</guid>
       <pubDate>Tue, 16 Dec 2025 18:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 Git 很吃力，所以我制作了图文并茂的扑克牌来学习 Git 命令</title>
-      <link>https://www.reddit.com/r/programming/comments/1po92d3/i_struggled_with_git_so_i_made_illustrated/</link>
-      <description><![CDATA[大家好， 很长一段时间我都不确定是否应该写这个。我犹豫主要是因为担心违反规则或打扰别人 - 但我还是决定尝试一下。 当我在大学时，我在 Git 方面遇到了很多困难。我是一个非常视觉化的学习者，我注意到当我能看到概念而不是仅仅阅读定义时，它们对我来说更容易记住。大约一年前，一个想法就是这样开始的：用 Git 命令绘制扑克牌。 这个想法在我的脑海里停留了将近一年，然后我才真正付诸行动。我总是过度思考一切：如果这是一个坏主意怎么办？如果不够好怎么办？谁会需要这个？ 我后来意识到自我怀疑会减慢你的速度。在结束了一段漫长且不健康的关系后，我终于让自己不再等待许可，而是开始了。我打印了第一批小样本，并与一些正在学习 Git 的人分享。 我不是来积极宣传的 - 我真的对学习过程本身感到好奇。 你认为视觉或物理学习工具在今天的 Git 学习中仍然占有一席之地吗？ 我真的很想听听你正在从事的其他与 Git 相关的教育项目，或者在你学习时什么对你最有帮助。 让我们交流一下经验吧并互相支持💙   由   提交/u/gumball_kitty  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1po92d3/i_struggled_with_git_so_i_made_illustrated/</guid>
-      <pubDate>Tue, 16 Dec 2025 18:10:05 GMT</pubDate>
     </item>
     <item>
       <title>沙箱人工智能代理：限制自主行为的实用方法</title>
@@ -69,13 +69,6 @@
       <pubDate>Tue, 16 Dec 2025 16:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>无声的裁员：我的美国梦是自由职业者的噩梦</title>
-      <link>https://www.reddit.com/r/programming/comments/1po4p2c/the_silent_layoff_my_american_dream_is_a/</link>
-      <description><![CDATA[ 由   提交 /u/TerryC_IndieGameDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1po4p2c/the_silent_layoff_my_american_dream_is_a/</guid>
-      <pubDate>Tue, 16 Dec 2025 15:24:17 GMT</pubDate>
-    </item>
-    <item>
       <title>我们家里有 ipinfo 或者如何使用延迟在 CLI 中地理定位 IP</title>
       <link>https://www.reddit.com/r/programming/comments/1po406f/we_have_ipinfo_at_home_or_how_to_geolocate_ips_in/</link>
       <description><![CDATA[ 由   提交/u/jimaek  [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[如果您从事高可用性和高可用性工作；可扩展的系统，您可能会发现它很有用   由   提交/u/Trust_Me_Bro_4sure  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1po1dit/designing_resilient_eventdriven_systems_that_scale/</guid>
       <pubDate>Tue, 16 Dec 2025 13:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>搅动</title>
+      <link>https://www.reddit.com/r/programming/comments/1pnzgf3/the_churn/</link>
+      <description><![CDATA[鲍勃叔叔对闪亮新物体综合症和对下一件大事的持续需求的经典，但非常及时。   由   提交/u/BinaryIgor  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pnzgf3/the_churn/</guid>
+      <pubDate>Tue, 16 Dec 2025 11:18:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
