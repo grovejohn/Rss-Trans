@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 17 Dec 2025 09:19:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 12:22:06 GMT</lastBuildDate>
     <item>
       <title>粗</title>
       <link>https://www.producthunt.com/products/grov</link>
@@ -51,7 +51,7 @@
       <title>克拉1.0</title>
       <link>https://www.producthunt.com/products/kraa</link>
       <description><![CDATA[
-            为一切编写应用程序
+            记笔记、撰写文档、发布博客和实时聊天
           
 
 讨论
@@ -74,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/wan-2-2</guid>
       <pubDate>Tue, 16 Dec 2025 15:29:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>存档</title>
+      <link>https://www.producthunt.com/products/varchive</link>
+      <description><![CDATA[
+            展示人工智能辅助构建、灵感和操作方法
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/varchive</guid>
+      <pubDate>Mon, 15 Dec 2025 23:47:08 GMT</pubDate>
     </item>
     <item>
       <title>窥视</title>
@@ -104,18 +118,32 @@
       <pubDate>Mon, 15 Dec 2025 17:20:09 GMT</pubDate>
     </item>
     <item>
-      <title>阅读者</title>
-      <link>https://www.producthunt.com/products/readever</link>
+      <title>CLI管理器</title>
+      <link>https://www.producthunt.com/products/cli-manager</link>
       <description><![CDATA[
-            与埃隆·马斯克、史蒂夫·乔布斯或您选择的任何人一起读书
+            一个仪表板可运行和组织多个 AI CLI 代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/readever</guid>
-      <pubDate>Mon, 15 Dec 2025 11:07:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/cli-manager</guid>
+      <pubDate>Mon, 15 Dec 2025 10:38:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于移动设备的 NexaSDK</title>
+      <link>https://www.producthunt.com/products/nexasdk-for-mobile</link>
+      <description><![CDATA[
+            将多模式人工智能部署到移动设备的最简单解决方案
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nexasdk-for-mobile</guid>
+      <pubDate>Sun, 14 Dec 2025 06:50:19 GMT</pubDate>
     </item>
     <item>
       <title>波达什</title>
@@ -160,7 +188,7 @@
       <pubDate>Tue, 09 Dec 2025 20:07:22 GMT</pubDate>
     </item>
     <item>
-      <title>让您的 PowerPoint 幻灯片具有互动性</title>
+      <title>StreamAlive - 交互式 PPT 幻灯片</title>
       <link>https://www.producthunt.com/products/streamalive</link>
       <description><![CDATA[
             聊天支持的民意调查、文字云、PPT 幻灯片测验
@@ -174,35 +202,7 @@
       <pubDate>Tue, 09 Dec 2025 12:14:22 GMT</pubDate>
     </item>
     <item>
-      <title>xPrivo</title>
-      <link>https://www.producthunt.com/products/xprivo</link>
-      <description><![CDATA[
-            开源、免费的匿名人工智能聊天 - 准备在本地运行
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/xprivo</guid>
-      <pubDate>Tue, 09 Dec 2025 11:15:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>冲泡美味的咖啡</title>
-      <link>https://www.producthunt.com/products/brew-great-coffee</link>
-      <description><![CDATA[
-            加入浓缩咖啡和手冲咖啡
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/brew-great-coffee</guid>
-      <pubDate>Sun, 07 Dec 2025 15:22:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能驱动的网站细分</title>
+      <title>Croct 基于人工智能的网站细分</title>
       <link>https://www.producthunt.com/products/croct</link>
       <description><![CDATA[
             将每次点击、参与和转化转化为增长。
