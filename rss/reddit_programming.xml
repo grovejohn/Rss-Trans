@@ -4,7 +4,91 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 18 Dec 2025 12:22:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 15:14:23 GMT</lastBuildDate>
+    <item>
+      <title>我在简单的共享主机上实现了完整的自动化设置（发票、安全下载、电子邮件），无需 SaaS 或后端框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1ppt2um/i_implemented_a_complete_automation_setup/</link>
+      <description><![CDATA[我想分享一个基于经典共享托管 (o2switch) 构建的完全服务器端自动化架构，没有 SaaS，没有 Zapier/Make，也没有任何公开的后端框架。 目标： - 自动化发票、交付和安全性 - 将所有内容保留在服务器端 - 最大限度地减少攻击面和长期维护  完成发票&amp;收入自动化  一切都直接在服务器上处理，不涉及外部平台。 管道： - 通过 Stripe Checkout（webhook）付款 - 自动生成 PDF 发票 - 自动创建发票编号 自动文件夹结构： /invoices/year/month/ /revenue/year/month/ - 每月生成收入文件 - 自动客户端电子邮件通知 - 通过 Cron 自动清理临时文件、日志和缓存 无需手动操作。没有第三方工具。  接收证明（防争议）  我添加了一个专用脚本： - 当客户端实际打开文件时向我发送一封电子邮件 - 在发生争议时作为成功交付的证明 简单、谨慎且完全服务器端。  超安全下载（自定义）引擎）  文件（PDF / ZIP）通过专用 PHP 脚本交付。 功能： - 一次性下载链接 - 自动过期（7 天） 三重验证： - IP 地址 - 用户代理 - HMAC SHA-256 签名 其他措施： - 自动删除已用或过期的令牌 - 存储在完全私有、非公共目录中的文件 - 正确的 HTTP 标头（强制无缓存） - 带时间戳的日志 - 通过 Cron 自动日志清除 - 实际下载时发送的电子邮件 通常与 SaaS 平台相关的安全级别 -  但在这里实现没有SaaS。  自动维护  通过 Cron 处理： - 临时文件清理 - 日志清除 - 自动轮换 - 零日常维护 为什么采用这种方法 - 没有 Zapier / Make - 没有暴露的后端 - 没有严重依赖 - 没有关键的第三方服务 - 在简单的共享托管上运行 - 设计为无需干预即可运行多年 这不一定是每个项目的正确方法， 但到目前为止，它已被证明非常稳定且无压力。 我主要分享此作为经验的回报。 很高兴讨论是否有任何部分感兴趣。    由   提交/u/Several-Jacket-9801   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ppt2um/i_implemented_a_complete_automation_setup/</guid>
+      <pubDate>Thu, 18 Dec 2025 15:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越抽象——接口理论</title>
+      <link>https://www.reddit.com/r/programming/comments/1ppt0ti/beyond_abstractions_a_theory_of_interfaces/</link>
+      <description><![CDATA[ 由   提交/u/bloeys  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ppt0ti/beyond_abstractions_a_theory_of_interfaces/</guid>
+      <pubDate>Thu, 18 Dec 2025 15:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算机编程中的操作结束</title>
+      <link>https://www.reddit.com/r/programming/comments/1ppskt4/closure_of_operations_in_computer_programming/</link>
+      <description><![CDATA[ 由   提交/u/deniskyashif  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ppskt4/closure_of_operations_in_computer_programming/</guid>
+      <pubDate>Thu, 18 Dec 2025 14:45:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>您应该考虑将电子墨水显示器作为您的下一台显示器的 5 个理由</title>
+      <link>https://www.reddit.com/r/programming/comments/1ppsjv3/5_reasons_you_should_consider_an_e_ink_monitor_as/</link>
+      <description><![CDATA[ 由   提交 /u/nix-solves-that-2317   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ppsjv3/5_reasons_you_should_consider_an_e_ink_monitor_as/</guid>
+      <pubDate>Thu, 18 Dec 2025 14:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQLite 是如何测试的</title>
+      <link>https://www.reddit.com/r/programming/comments/1pps0iv/how_sqlite_is_tested/</link>
+      <description><![CDATA[ 由   提交/u/mallenspach  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pps0iv/how_sqlite_is_tested/</guid>
+      <pubDate>Thu, 18 Dec 2025 14:21:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>GraphQL 拼接与数据库复制</title>
+      <link>https://www.reddit.com/r/programming/comments/1pps074/graphql_stitching_vs_db_replication/</link>
+      <description><![CDATA[有很多关于在 graqhQL API 之上使用 Apollo 服务器或任何其他拼接框架技术的主题。 我相信，在大多数情况下，使用数据库复制采用不同的方法可能会更好 如果您设计架构组件（图）并将其分割为模块化业务域单元。您可以使用数据库模式来分隔它们。 您可以有效地使用实体框架、hibernate 等工具将每个数据库模式合并到只读副本中。 拼接方法有其自身的优点，并且用例与数据库复制相同。虽然，通常会发现很多文章讨论拼接，但很少讨论数据库复制。 数据库复制可能会带来一些挑战，特别是在遗留架构中。但我认为付出的努力将超过结果。 关于性能，您始终可以根据需求、缓存等启动多个副本。 复制存在延迟，但我发现这是一种权衡而不是限制（取决于用例） 当谈论缓存或将状态保持在图表顶部时，它可能对扩展有用。 在现实世界中，您将有多个进程写入通过不同的方式进入主数据库。例如 Kafka 事件。 在图表顶部进行缓存以跟上这些变化是一个挑战。另外，复杂的 GraphQL 拼接查询也会面临 N+1 的问题。 您在企业界使用 GraphQL 的经验是什么？我还发现了实现大型图形 API 的挑战。 但这是一个不同的主题   由   提交 /u/Maleficent-Bed-8781   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pps074/graphql_stitching_vs_db_replication/</guid>
+      <pubDate>Thu, 18 Dec 2025 14:21:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求反馈与协作：使用 Sofascore Stats 和 Gemini AI 预测足球比赛的 Python 脚本</title>
+      <link>https://www.reddit.com/r/programming/comments/1pprxu0/seeking_feedback_collaboration_a_python_script/</link>
+      <description><![CDATA[大家好， 我开发了一个全面的 Python 脚本，旨在预测足球比赛结果，我正在寻求社区对代码本身和分析方法的反馈。我的目标是让这个项目更加稳健、高效和准确。 工作原理 - 快速概述： 该脚本自动执行整个分析流程，从数据收集到最终的人工智能增强预测。   数据获取：它从公共 Sofascore API 提取每日比赛时间表和详细的历史球队统计数据。  统计建模：它应用自定义数学模型（使用泊松分布等概念和其他统计指标）来计算预期进球 (xG)、角球和牌的初始预测。  独特的双重分析：核心功能是为每场比赛运行两个并行分析：一个是球队处于预定的主/客场角色，另一个是角色互换。这有助于发现更深入的见解并测试统计数据的稳健性。  人工智能驱动的综合：两种统计分析的结果都会被格式化并发送到 Gemini AI API。我设计了一个特定的多阶段提示，指示人工智能比较两个数据集，识别收敛或分歧，并充当最终的“风险管理者”。提供全面且合理的预测。  如何运行脚本： 该脚本是交互式的，基于命令行。您需要 Python 3。  安装依赖项：  pip install requests  （注意：建议使用 .env 文件作为 API 密钥，这还需要 pip install python-dotenv）。 API 密钥：您需要获得自己的免费密钥来自 Google AI Studio 的 API 密钥，并将其插入脚本中的 GEMINI_API_KEY_EXTRACT 和 GEMINI_API_KEY_ANALYZE 变量中。 执行：  python your_script_name.py  然后，脚本将提示您选择要分析的日期、比赛和比赛。  [链接到 GitHub Gist / Pastebin 上的完整脚本] 我正在多个领域寻求帮助： 这是我真正欣赏社区专业知识的地方。我愿意接受所有反馈，但我特别感兴趣的是：  对于 Python 开发人员： 该脚本目前是一个 1500 多行的文件。我知道这并不理想。对于如何将其重构为更专业的模块化结构（例如，将 API 调用、计算和用户界面分离到不同的文件/类中），我将不胜感激。任何有关提高性能或遵守最佳实践（例如正确的日志记录而不是 print()）的提示也都很棒。 对于数据科学家和数据科学家来说。统计学家：我很想听听您对分析模型本身的看法。我的统计方法是否存在弱点？其他模型（泊松以外）能否提供更准确的结果？我是否可能陷入任何统计陷阱或偏见？ 致所有人：我欢迎任何一般性反馈。请随意在即将到来的比赛中尝试一下，并分享您对结果的看法。您对新功能有想法吗？或者关于如何使最终输出更有用的建议？  感谢您抽出时间并成为一个学习和协作的优秀社区。我期待听到您的想法   由   提交/u/Piyartom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pprxu0/seeking_feedback_collaboration_a_python_script/</guid>
+      <pubDate>Thu, 18 Dec 2025 14:18:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Python 进行清洁架构 • Sam Keen 和 Max Kirchoff</title>
+      <link>https://www.reddit.com/r/programming/comments/1pprsvj/clean_architecture_with_python_sam_keen_max/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pprsvj/clean_architecture_with_python_sam_keen_max/</guid>
+      <pubDate>Thu, 18 Dec 2025 14:12:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>继续：当变压器不在运行时循环中时推理的系统视图</title>
+      <link>https://www.reddit.com/r/programming/comments/1ppr7ou/continuation_a_systems_view_on_inference_when_the/</link>
+      <description><![CDATA[昨晚我在这里分享了一篇简短的文章，探讨了推理成本、反弹效应，以及为什么简单地降低推理成本往往会加速而不是减少总计算量。 这篇文章是这一思路的延续，框架更加狭隘和正式。 我刚刚发表了一篇简短的立场文件，提出了一个特定的系统问题： 有哪些变化如果我们不再假设推理必须在运行时执行大型变压器？ 本文介绍了语义场执行（SFE），这是一种推理基础，其中离线使用大容量变压器来提取和压缩与任务相关的语义结构。然后，运行时推理通过浅层有界操作对紧凑语义字段进行操作，而不执行转换器本身。 这不是一个优化建议。这不是更换变压器的理由。相反，它分离了通常混为一谈的两个问题：语义学习和语义执行。 一旦将它们解耦，关于推理效率和扩展的一些常见争论就会非常具体地取决于运行时循环中剩余的转换器执行。这种转变并没有完全消除更广泛的经济影响，但它确实改变了它们出现的地点和方式，这就是为什么它值得作为一种独特的执行机制进行研究。 本文有意被定位为立场文件。它定义了执行模型，阐明哪些效率参数适用，哪些不适用，并规定了该机制何时应该起作用、何时不应该起作用的明确的、可证伪的边界。 我最感兴趣的是这个框架在实践中的适用范围和在实践中的适用范围，特别是在不同的任务类别或真实的大型系统中。   由   提交 /u/anima-core   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ppr7ou/continuation_a_systems_view_on_inference_when_the/</guid>
+      <pubDate>Thu, 18 Dec 2025 13:47:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCP值得大肆宣传吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1ppq39a/is_mcp_worth_the_hype/</link>
+      <description><![CDATA[ 由   提交/u/Helpful_Geographer430   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ppq39a/is_mcp_worth_the_hype/</guid>
+      <pubDate>Thu, 18 Dec 2025 12:53:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要职业建议！！！！！！！</title>
+      <link>https://www.reddit.com/r/programming/comments/1pppzjy/need_career_advice/</link>
+      <description><![CDATA[嗨，出于某种原因，我想说我目前正在攻读计算机科学学士学位，我已经完成了所有基础课程，如 OOP、DSA、DAA（当前已注册）、数据库、DAA 等，所以我知道我也有一些实习经验，但没有什么专业；我确实和 pjhoenix 一起开发了 elixir erlang，然后我做了一些反应，但我没有合适的职业道路。 我没有一个利基，也没有任何关于我应该学习然后继续学习的技能的想法，我只是不能致力于一种语言，所以我想一劳永逸地决定哪些语言/堆栈/利基将是我可以开始学习的高薪。 这对我来说是一个很大的担忧，因为我可以访问的信息量to 是非常压倒性的，我只是一直感到困惑，最终浪费了我的时间尝试跳到下一个大的事情。 我本来打算致力于Python，但后来有人告诉我去JavaScript（MERN），JS有一些好处，比如它也与我的大学课程和东西相一致，但是Python为AI打开了大门。 我确实弄清楚的一件事是现在去后端开发。 我什至很困惑在我们的大学里，我们没有学习任何适当/有用的技能，就像我们从 C++ 开始，现在在操作系统中我们使用 C 一样，真正的事情是，它们只是告诉了基础知识，而我最终对下一步该做什么感到困惑。 我想学习有用的技能，这样我可以自由职业并找到一份工作。 我应该选择像 Elixir Erlang 或 GO 这样的小众语言，还是应该保持主流并选择 Python/JS。 我会非常感谢任何和所有的帮助.................................   由   提交 /u/mustafawkhan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pppzjy/need_career_advice/</guid>
+      <pubDate>Thu, 18 Dec 2025 12:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们开源了 LMS 并正在寻求反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1pppxlg/we_opensourced_our_lms_and_are_looking_for/</link>
+      <description><![CDATA[我们最近开源了 tadreebLMS，这是一个现代化的模块化学习 管理系统，已在生产中使用。 技术堆栈：PHP Laravel 8.3+ MySQL+ Docker 我们正在寻找贡献者（前端、后端、DevOps）。 良好的第一期可用。 敬请期待需要建议、反馈、负面评论等...以了解如何使项目成功。   由   提交/u/TrainSensitive6646   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pppxlg/we_opensourced_our_lms_and_are_looking_for/</guid>
+      <pubDate>Thu, 18 Dec 2025 12:46:04 GMT</pubDate>
+    </item>
     <item>
       <title>身份验证：你是谁？证明是密码、代码和密钥</title>
       <link>https://www.reddit.com/r/programming/comments/1pppd1o/authentication_who_are_you_proofs_are_passwords/</link>
@@ -22,93 +106,9 @@
     <item>
       <title>我在我的平台 SystemSketcher 中添加基于部分的 AI 图生成功能</title>
       <link>https://www.reddit.com/r/programming/comments/1ppoqgn/im_adding_sectionbased_ai_diagram_generation/</link>
-      <description><![CDATA[我发现目前 SystemSketcher 上的 AI 图生成功能似乎过于全面，您需要用完整的句子声明所有内容，然后它会根据描述生成整个架构图。它会导致幻觉。 所以我发布了一个名为“基于部分的人工智能生成图”的功能...它就像选择某个部分一样简单...告诉它你的组件在那里...然后它将在该特定部分中为你生成。哦，正如您提到的，它甚至可以区分架构层。 这也使它更有趣..我添加了动画箭头，您现在可以在箭头动画时更清晰地看到连接流。  当只能导出 PNG 和 JPEG 时，为什么还需要动画箭头。不，您现在还可以将图表嵌入到任何可嵌入源，例如您自己的带有动画箭头的网站！ 这是 v0.4.0 的最新更新。并且肯定还会有更多。我将所有平台路线图记录到 /roadmap 页面中。 请随意尝试，并希望看看这个平台是否可以帮助某人。    由   提交/u/lalatputih   [链接] [评论]]]></description>
+      <description><![CDATA[我发现目前 SystemSketcher 上的 AI 图生成功能似乎过于全面，您需要用完整的句子声明所有内容，然后它会根据描述生成整个架构图。它会导致幻觉。 所以我发布了一个名为基于部分的人工智能生成图的功能...它就像选择某个部分一样简单...告诉它你的组件在那里...然后它会在该特定部分为你生成。哦，正如您提到的，它甚至可以区分架构层。 这也使它更有趣。我添加了动画箭头，您现在可以在箭头动画时更清晰地看到连接流。  当只能导出 PNG 和 JPEG 时，为什么还需要动画箭头。不，您现在还可以将图表嵌入到任何可嵌入源，例如您自己的带有动画箭头的网站！ 这是 v0.4.0 的最新更新。并且肯定还会有更多。我将所有平台路线图记录到 /roadmap 页面中。 请随意尝试，并希望看看这个平台是否可以帮助某人。    由   提交/u/lalatputih   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ppoqgn/im_adding_sectionbased_ai_diagram_generation/</guid>
       <pubDate>Thu, 18 Dec 2025 11:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASF：一种嵌入 VBA 中的类 C 脚本语言，为 Microsoft Office 带来闭包和函数式编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppo8fr/asf_a_clike_scripting_language_embedded_in_vba/</link>
-      <description><![CDATA[你好r/programming。  如果您曾经在 Excel 或 Word 中遇到过 VBA 的限制，请查看 ASF（高级脚本框架）——一种用纯 VBA 实现的完整的、可嵌入的迷你语言。它引入了类似现代 C 的语法，具有命令式构造（循环、条件、switch、try/catch）和功能特性，如一流的匿名函数、共享写入闭包和数组方法（例如，嵌套结构上的递归 .map、.filter、.reduce）。 ASF 通过递归下降（对 += 等操作进行规范化）将脚本编译为 AST，并在具有 ScopeStack 的虚拟机中执行它们适当的范围界定。它支持 FFI 进行无缝 VBA 互操作（直接调用 MsgBox 或 VLookup），并嵌入用于 100 多个数学函数（例如矩阵运算、回归）的 VBA 表达式。 其强大功能示例：高级数据转换 — a = [{ k: 1, arr: [10,20] }, { k: 2, arr: [30,[40,50]] }]; b = a.map(fun(o){return { k: o.k * 2, arr: o.arr.map(fun(x){ return x + 1 })}; });打印（b）； // [{k:2, arr:[11,21]}, {k:4, arr:[31,[41,51]]}]  源自扩展VBA-Expressions，ASF通过了85+已测试，现在是 v1.0.3。它获得了 MIT 许可，非常适合在不离开 VBA 的情况下实现办公自动化。 存储库：https://github.com/ECP-Solutions/ASF（包括语法指南、API 参考和测试）。 对语言设计有何想法？欢迎贡献！   由   提交/u/ws-garcia  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppo8fr/asf_a_clike_scripting_language_embedded_in_vba/</guid>
-      <pubDate>Thu, 18 Dec 2025 11:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止喧嚣炒作：“智能研磨”的 20 亿美元案例</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppnmig/stop_the_hustle_hype_the_2b_case_for_the_smart/</link>
-      <description><![CDATA[ 由   提交 /u/shift_devs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppnmig/stop_the_hustle_hype_the_2b_case_for_the_smart/</guid>
-      <pubDate>Thu, 18 Dec 2025 10:32:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>“使用有限集和补集的布尔代数。”告诉我您能想到的与该领域相关的任何内容。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppn2pv/boolean_algebra_using_finite_sets_and_complements/</link>
-      <description><![CDATA[ 由   提交 /u/Forsaken_Honey_7920   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppn2pv/boolean_algebra_using_finite_sets_and_complements/</guid>
-      <pubDate>Thu, 18 Dec 2025 09:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 有助于加快交付速度，但产生的错误数量却增加了 1.7 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppm5vd/ai_helps_ship_faster_but_it_produces_17_more_bugs/</link>
-      <description><![CDATA[ 由   提交/u/rag1987  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppm5vd/ai_helps_ship_faster_but_it_produces_17_more_bugs/</guid>
-      <pubDate>Thu, 18 Dec 2025 08:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>编写一个小型字节码虚拟机教会了我如何调试长时间运行的程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1pplwnm/what_writing_a_tiny_bytecode_vm_taught_me_about/</link>
-      <description><![CDATA[在出于学习目的开发小型字节码虚拟机时，我遇到了一个令我惊讶的问题：只有当运行时保持“活动”一段时间（循环、计时器、简单游戏）时，短程序中不可见的错误才会变得明显。 一个例子是连续运行的类似 Pong 的循环。它暴露了：  由于推入/弹出路径不匹配而导致堆栈的微妙增长 未正确展开状态的错误处理路径 如何记录每条指令比单步执行源代码有用  最有帮助的不是添加更多语言功能，而是：  以明确定义的方式转储虚拟机状态（堆栈、帧、指令指针）  在迭代之间区分转储以发现偏差 将虚拟机视为长期运行的系统而不是脚本运行程序  对我来说，即使程序本身很微不足道，连续程序对于运行时来说是比一次性脚本更好的压力测试。 我很好奇：  您使用哪些小程序消除运行时或解释器错误？ 对于此类工作，您是否发现虚拟机级工具比源代码级调试更有用？  （有意省略实现细节 - 这是关于调试方法而不是特定项目。）   由   提交 /u/Imaginary-Pound-1729   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pplwnm/what_writing_a_tiny_bytecode_vm_taught_me_about/</guid>
-      <pubDate>Thu, 18 Dec 2025 08:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>两年前我退出编程并回归。这是我精疲力竭时的旧视频，我想比较从那以后事情发生了怎样的变化。</title>
-      <link>https://www.reddit.com/r/programming/comments/1pplocn/i_quit_programming_2_years_ago_and_returned_this/</link>
-      <description><![CDATA[两年前，我制作了一个关于如何放弃编程的视频。 2023 年，我厌倦了编程（倦怠），并制作了一个有关该经历的视频。但后来，在处理完倦怠之后，我变得更加坚强，所以我将视频设为私有。 现在我再次将其公开，我只是想看看它与今天相比如何。 https://www.youtube.com/watch?v=gY35df_lOsk 在那段时间里，我预测情况会变得多么糟糕，面试会变得越来越难。我仍然是一名全职程序员，我也开设编程课程。即使在 2022 年，我也知道这将会到来，因为自 2022 年以来，在 ChatGPT 发布和埃隆·马斯克大规模解雇之后，这就是导致编程工作现状的原因。公司意识到他们可以用更少的人做更多的事情，因为大多数员工什么都不做。这对我们影响最大。 但到了 2025 年，我什至不再编写代码了。我小心翼翼地使用人工智能。而且很多人认为 AI 是微软的副驾驶，这与 Cursor 相比确实很糟糕。如果你想用人工智能做任何好事，只需使用光标即可。并学习如何使用光标，如何为其提供正确的上下文，否则它将创建一个黑匣子。现在我正在从事一个由 5 个程序员曾经做过的项目，而我一个人的表现就超过了他们（他们不再从事同一个项目了）。他们花了几个月的时间来实现功能。如今，人工智能只需获取上下文或架构，就可以自行实现功能。仍然必须由经验丰富的程序员监督。 那么，只是想知道您对 2025 年编程状况的看法吗？   由   提交/u/KwonDarko  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pplocn/i_quit_programming_2_years_ago_and_returned_this/</guid>
-      <pubDate>Thu, 18 Dec 2025 08:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code 如何验证请求</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppj8bn/how_claude_code_authenticates_requests/</link>
-      <description><![CDATA[ 由   提交 /u/-cat-father   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppj8bn/how_claude_code_authenticates_requests/</guid>
-      <pubDate>Thu, 18 Dec 2025 05:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化我的游戏，使其在 Potato 上运行</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppik39/optimizing_my_game_so_it_runs_on_a_potato/</link>
-      <description><![CDATA[ 由   提交/u/BlueGoliath  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppik39/optimizing_my_game_so_it_runs_on_a_potato/</guid>
-      <pubDate>Thu, 18 Dec 2025 05:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 内核 Rust 代码发现第一个 CVE 漏洞</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppfmyo/linux_kernel_rust_code_sees_its_first_cve/</link>
-      <description><![CDATA[ 由   提交/u/peripateticman2026   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppfmyo/linux_kernel_rust_code_sees_its_first_cve/</guid>
-      <pubDate>Thu, 18 Dec 2025 02:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为工程师或工程领导者如何开始公开演讲</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppfjiz/how_to_start_with_public_speaking_as_an_engineer/</link>
-      <description><![CDATA[ 由   提交 /u/gregorojstersek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppfjiz/how_to_start_with_public_speaking_as_an_engineer/</guid>
-      <pubDate>Thu, 18 Dec 2025 02:33:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Greptile 发布 2025 年人工智能编码现状报告</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppexvk/greptile_publishes_their_state_of_ai_coding_2025/</link>
-      <description><![CDATA[Greptile 是一家每月对 2000 家公司的 10 亿行代码进行 AI 代码审查的公司，该公司发布了一些有关他们处理过的代码的指标。：  * 每个开发人员的代码行数在 2025 年从 4,450 行增长到 7,839 行。 * 从 3 月份到 2025 年，PR 大小中位数增加了 33% 2025 年 11 月，每个 PR 更改的行数从 57 行增加到 76 行。  * 中型团队（6-15 名开发人员）将每位开发人员的产出从 7,005 行增加到 13,227 行。 ^随着 PR 变得更加密集，每个文件的中位数行数从 18 行增加到 22 行。   由   提交 /u/ humanquester   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppexvk/greptile_publishes_their_state_of_ai_coding_2025/</guid>
-      <pubDate>Thu, 18 Dec 2025 02:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 年 <br> 标签</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppejs9/30_years_of_br_tags/</link>
-      <description><![CDATA[ 由   提交/u/brokePlusPlusCoder  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppejs9/30_years_of_br_tags/</guid>
-      <pubDate>Thu, 18 Dec 2025 01:45:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
