@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 18 Dec 2025 03:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Dec 2025 06:18:21 GMT</lastBuildDate>
     <item>
       <title>比特币和人工智能去中心化？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ppgyoo/bitcoin_and_ai_decentralization/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>ExoGen - 用于在本地运行稳定扩散的开源桌面应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1ppfr7s/exogen_opensource_desktop_app_for_running_stable/</link>
-      <description><![CDATA[      大家好！ 我一直在研究 ExoGen，这是一个免费的开源桌面应用程序，它使在本地运行 Stable Diffusion 变得尽可能简单。无需命令行，无需手动安装 Python - 只需下载、安装和生成。 主要功能： - 100% 本地和本地化。私密 - 您的提示和图像永远不会离开您的机器 - 智能模型推荐 - 根据您的 GPU/RAM 建议模型 - HuggingFace 集成 - 直接在应用程序内浏览和下载模型 - LoRA 支持 - 应用可调整权重的 LoRA - Hires.fix Upscaling - 内置 Real-ESRGAN 和传统升级器 - 样式系统 - 可搜索样式预设 - 生成历史记录 - 带导航的全屏图库 - 高级控制 - 采样器、种子、批量生成、内存配置 要求： - Python 3.11+ - 用于 GPU 加速的 CUDA（可用 CPU 模式） - 最低 8GB RAM（建议 16GB） 应用程序在首次启动时自动设置 Python 后端和依赖项- 无需终端。 很想听到您的反馈和建议！欢迎提出问题或贡献。 GitHub： https://github.com/andyngdz/exogen   由   提交/u/horizo​​ndz   [链接] [评论] ]]></description>
+      <description><![CDATA[      大家好！ 我一直在研究 ExoGen，这是一个免费的开源桌面应用程序，它使在本地运行 Stable Diffusion 变得尽可能简单。无需命令行，无需手动安装 Python - 只需下载、安装和生成。 主要功能： - 100% 本地和本地化。私密 - 您的提示和图像永远不会离开您的机器 - 智能模型推荐 - 根据您的 GPU/RAM 建议模型 - HuggingFace 集成 - 直接在应用程序内浏览和下载模型 - LoRA 支持 - 应用可调整权重的 LoRA - Hires.fix Upscaling - 内置 Real-ESRGAN 和传统升级器 - 样式系统 - 可搜索样式预设 - 生成历史记录 - 带导航的全屏图库 - 高级控制 - 采样器、种子、批量生成、内存配置 要求： - Python 3.11+ - 用于 GPU 加速的 CUDA（可用 CPU 模式） - 最低 8GB RAM（建议 16GB） 应用程序在首次启动时自动设置 Python 后端和依赖项- 无需终端。 很想听听您的反馈和建议！欢迎提出问题或贡献。 GitHub： https://github.com/andyngdz/exogen   由   提交/u/horizo​​ndz   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ppfr7s/exogen_opensource_desktop_app_for_running_stable/</guid>
       <pubDate>Thu, 18 Dec 2025 02:44:21 GMT</pubDate>
     </item>
@@ -57,7 +57,7 @@
     <item>
       <title>[Wordpress插件] 车辆预订插件</title>
       <link>https://www.reddit.com/r/opensource/comments/1pp8zyf/wordpress_plugin_vehicle_booking_plugin/</link>
-      <description><![CDATA[       由   提交/u/swiss__blade   [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交/u/swiss__blade  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pp8zyf/wordpress_plugin_vehicle_booking_plugin/</guid>
       <pubDate>Wed, 17 Dec 2025 21:41:49 GMT</pubDate>
     </item>
