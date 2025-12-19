@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 19 Dec 2025 18:17:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 21:10:51 GMT</lastBuildDate>
+    <item>
+      <title>Arduino 上的太空射击游戏</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pqvavm/space_shooter_game_on_arduino/</link>
+      <description><![CDATA[      大家好！这是我的第一个有点合适的项目：Arduino 上的复古太空射击游戏。游戏演示和更多信息位于项目自述文件中。任何有关游戏/代码设计的诚实评论/建议都将受到高度赞赏。   由   提交/u/Soggy-Opportunity139   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pqvavm/space_shooter_game_on_arduino/</guid>
+      <pubDate>Fri, 19 Dec 2025 20:21:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要早期反馈，一个实验性的 Python 桌面框架（Electron 的替代方案）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pqv38e/early_feedback_wanted_an_experimental_python/</link>
+      <description><![CDATA[大家好， 我正在开展一项名为 taupy 的早期开源实验。我们的目标是用 Python 制作小型桌面应用程序，而无需使用通常的重型框架（例如 Electron）。 主要思想是： - Python 作为后端 - HTML/CSS/JS，对 UI 做出反应 - 专注于快速启动和最小的运行时成本 这还很早，所以我明确不会将其呈现为生产就绪工具。 我真的很感激任何想法或批评 git - https://github.com/S1avv/taupy 小演示 - https://github.com/S1avv/taupy-focus 即使是简短的回答也会有帮助。   由   提交 /u/S1avs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pqv38e/early_feedback_wanted_an_experimental_python/</guid>
+      <pubDate>Fri, 19 Dec 2025 20:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lanemu P2P VPN 0.13.1 - Hamachi 的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pqtuom/lanemu_p2p_vpn_0131_opensource_alternative_to/</link>
+      <description><![CDATA[       由   提交/u/MonsterovichIsBack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pqtuom/lanemu_p2p_vpn_0131_opensource_alternative_to/</guid>
+      <pubDate>Fri, 19 Dec 2025 19:22:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 AI 开发构建游乐场 - 寻找贡献者</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pqth6y/building_a_playground_for_ai_exploits_looking_for/</link>
+      <description><![CDATA[如果您做过 AI 红队，您就会知道像 Lakera Gandalf 这样的应用程序基本上只是玩具，而不是真正的应用程序。因此，我制作了 Green Dragon，就像 OWASP Juice Shop，但针对的是 AI 漏洞。 这是一个早期版本，但愿景是一个完整的 AI 原生应用程序，用于展示即时注入之外的新兴风险：工具滥用、内存中毒、流氓代理等等。我们将通过链式漏洞来增加挑战，弥合人工智能和网络安全之间的差距，这就是黑客扩大影响的方式。 Green Dragon 完全开源。这是一个学习和基准化 AI 红队解决方案的地方。我们的路线图上有许多令人兴奋的功能！ 如果您有兴趣做出贡献，我很乐意与您聊天。从第一天起它就不会是完美的，因此我们感谢任何反馈。已经从其他潜艇那里得到了一些很好的指示。 谢谢！   由   提交 /u/Top-Advantage-9723   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pqth6y/building_a_playground_for_ai_exploits_looking_for/</guid>
+      <pubDate>Fri, 19 Dec 2025 19:07:01 GMT</pubDate>
+    </item>
     <item>
       <title>我们对开源社区的贡献。</title>
       <link>https://www.reddit.com/r/opensource/comments/1pqrde1/our_contribution_to_the_open_source_community/</link>
@@ -25,13 +53,6 @@
       <description><![CDATA[      我之前分享了一个为个人 Cloudflare 管理构建的 Telegram 机器人。 此后我添加了 Cloudflare 状态事件警报、源运行状况监控、更好的配置处理并改进了缓解逻辑，因此我分享更新的版本。 这只是我自己的业余项目，是我在业余时间建立的。它不是官方的 Cloudflare 项目，与 Cloudflare, Inc. 没有任何关系。   由   提交 /u/saratikyan   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pqq3lc/updated_my_open_source_cloudflare_management/</guid>
       <pubDate>Fri, 19 Dec 2025 16:53:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>可加密框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pqpcmm/encryptable_framework/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pqpcmm/encryptable_framework/</guid>
-      <pubDate>Fri, 19 Dec 2025 16:24:55 GMT</pubDate>
     </item>
     <item>
       <title>在项目中开放数据库的最佳方法是什么？</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[Brassica 是一款开源 PHP Web 应用程序，用于在浏览器中管理 Broccoli 配方文件。  使用与 Android 应用程序相同的 .broccoli 格式 自托管（PHP + SQLite） 无跟踪、无 SaaS、无需外部帐户 GPL  Github：https://github.com/crispilly/brassica 现场演示（每日重置）：https://brassicademo.crispilly.de/   由   提交 /u/crispilly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pqflrc/brassica_open_source_selfhosted_web_app_for/</guid>
       <pubDate>Fri, 19 Dec 2025 08:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>CapCut Version Guard - 阻止不需要的自动更新并保留您的首选版本</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pqf498/capcut_version_guard_block_unwanted_autoupdates/</link>
-      <description><![CDATA[CapCut 不断推送删除功能（如免费自动字幕）并添加付费墙的更新。 我制作了一个简单的工具来反击： - 扫描已安装的版本 - 保留你想要的版本，删除其余的 - 永久阻止更新程序 开源，无安装程序，单个可执行文件。 🔗 https://github.com/Zendevve/capcut-version-guard 使用 Rust 构建。麻省理工学院许可。欢迎反馈！   由   提交/u/ZenpaiiiGamingYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pqf498/capcut_version_guard_block_unwanted_autoupdates/</guid>
-      <pubDate>Fri, 19 Dec 2025 07:30:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的未偿债务：LLM 爬虫如何破坏开源的社会契约</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pqcn4j/ais_unpaid_debt_how_llm_scrapers_destroy_the/</link>
-      <description><![CDATA[       由   提交 /u/GloWondub   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pqcn4j/ais_unpaid_debt_how_llm_scrapers_destroy_the/</guid>
-      <pubDate>Fri, 19 Dec 2025 05:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tasket++ — 用于自动化用户操作的简单 Windows 工具，免费且开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pqadn8/tasket_simple_windows_tool_to_automate_user/</link>
-      <description><![CDATA[实际使用它的原因 - 静默、预定的屏幕截图来监控活动或创建延时日志。 - 在设定的时间从任何应用程序发送消息以进行提醒或协调通知。 - 重放精确的鼠标点击和键入的输入以进行测试、演示或重复工作流程。 - 通过看起来自然的真实模拟活动来防止 AFK 检测。 /&gt; - 按计划淡出音乐并关闭电脑，以自动执行睡眠或一天结束的例程。 - 保存自动化预设并在启动时或按计划手动运行它们。 无需编写脚本。所有操作都在您的电脑上本地运行，可以循环、启动时触发或遵循时间表。 在 Microsoft Store 上下载：https://apps.microsoft.com/detail/xp9cjlhwvxs49p  源代码和问题：https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys   由   提交/u/AmirHammoutene  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pqadn8/tasket_simple_windows_tool_to_automate_user/</guid>
-      <pubDate>Fri, 19 Dec 2025 03:10:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
