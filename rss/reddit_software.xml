@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 19 Dec 2025 12:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 15:12:22 GMT</lastBuildDate>
+    <item>
+      <title>什么是免费库存管理软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1pqm4vj/what_are_free_inventory_management_softwares/</link>
+      <description><![CDATA[我想管理库存并进行计费。易于使用所需的软件，因为理货 ERP 似乎需要专业技能。    由   提交 /u/Wonderful_Policy7602   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pqm4vj/what_are_free_inventory_management_softwares/</guid>
+      <pubDate>Fri, 19 Dec 2025 14:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用过的最好的移动 A/B 测试工具是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1pqlyex/what_are_the_best_mobile_ab_testing_tools_youve/</link>
+      <description><![CDATA[我们使用 Firebase A/B 一段时间了，但它的管理变得非常令人头疼，尤其是当我们确实看不到任何价值时，我们必须安装多个 SDK。我们已经研究了一些其他工具，例如 Optimizely 等，但它们非常昂贵。  有人有任何好的建议或选项可以满足这些要求吗？  离线支持 - 特别是能够在离线时处理/排队事件并在重新连接时同步。 曝光跟踪（移动原生） - 目前，我们发现了双重曝光或由于连接不一致而丢失曝光的问题。  统一的功能标志和更安全的推出实验 - 渐进的推出处理是我们真正关注的事情。终止开关在这里也是一个优点。   我们有一个更长的愿望清单，但这些可能是我们目前最优先考虑的问题。我检查过类似的帖子，我只看到了对我们没有预算的非常昂贵的工具的建议。  如有任何帮助，我们将不胜感激！   由   提交 /u/RoloRozay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pqlyex/what_are_the_best_mobile_ab_testing_tools_youve/</guid>
+      <pubDate>Fri, 19 Dec 2025 14:06:32 GMT</pubDate>
+    </item>
     <item>
       <title>每周探索主题 - 2025 年 12 月 19 日</title>
       <link>https://www.reddit.com/r/software/comments/1pqjdlm/weekly_discovery_thread_december_19_2025/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[CapCut 不断推送删除功能（如免费自动字幕）并添加付费墙的更新。 我制作了一个简单的工具来反击： - 扫描已安装的版本 - 保留你想要的版本，删除其余的 - 永久阻止更新程序 开源，无安装程序，单个可执行文件。 🔗 https://github.com/Zendevve/capcut-version-guard 使用 Rust 构建。麻省理工学院许可。欢迎反馈！   由   提交/u/ZenpaiiiGamingYT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1pqf3iu/capcut_version_guard_block_unwanted_autoupdates/</guid>
       <pubDate>Fri, 19 Dec 2025 07:29:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>[销售] iOS AI App - 鱼识别器AI工具应用</title>
-      <link>https://www.reddit.com/r/software/comments/1pqenb5/selling_ios_ai_app_fish_identifier_ai_tool/</link>
-      <description><![CDATA[大家好 👋 我正在销售功能齐全的人工智能驱动的 iOS 应用程序，采用简洁的 UI 和稳定的性能构建。非常适合独立开发者、初创公司或任何希望扩展 AI 应用组合的人。 1️⃣ 鱼类识别器 AI 应用  使用 AI 图像识别从照片中识别鱼类种类。 非常适合钓鱼者、业余爱好者或野生动物爱好者。 包括数据库集成 + 在不同鱼类数据集上训练的模型。  包含内容：  完整源代码（Swift UI 套件） RevenueCat Firebase  出售原因：将重点转移到新项目。 💰 200 美元 📩 私信我了解更多信息应用程序。   由   提交/u/LegCultural6568  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1pqenb5/selling_ios_ai_app_fish_identifier_ai_tool/</guid>
-      <pubDate>Fri, 19 Dec 2025 07:01:17 GMT</pubDate>
     </item>
     <item>
       <title>为什么现有软件变慢以及如何修复它</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我经常需要使用时间戳范围从单个视频中剪切多个剪辑。我不确定是否有一种简单的方法可以批量执行此操作，因此我最终为其创建了一个小实用程序。 我构建了一个专注于此工作流程的 Windows 桌面工具：  选择源视频 添加多个开始/结束时间戳 (HH:MM:SS) 一次性提取所有剪辑  发布&amp;下载： https://github.com/MusaibShaikh/VideoClipper/releases 我将不胜感激任何反馈，如果您遇到任何错误或问题，请告诉我。我也将在下一个版本中创建 Android 版本！ 谢谢！   由   提交/u/MyselfSK   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ppv510/i_built_a_small_windows_tool_to_batchextract/</guid>
       <pubDate>Thu, 18 Dec 2025 16:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个基于 ACE-Step 库/模型构建的免费/开源音乐生成和 LoRA 训练工作站 [Windows、Nvidia GPU 12+ GB VRAM 推荐]</title>
-      <link>https://www.reddit.com/r/software/comments/1ppuihd/i_created_a_freeopensource_music_generation_and/</link>
-      <description><![CDATA[ 由   提交/u/ExtremistsAreStupid  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ppuihd/i_created_a_freeopensource_music_generation_and/</guid>
-      <pubDate>Thu, 18 Dec 2025 16:04:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
