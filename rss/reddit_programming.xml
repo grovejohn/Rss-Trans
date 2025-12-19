@@ -4,13 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 18 Dec 2025 21:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Dec 2025 00:48:05 GMT</lastBuildDate>
     <item>
-      <title>PVizGenerator — 将存储库转换为结构化 JSON 以进行 LLM 推理</title>
-      <link>https://www.reddit.com/r/programming/comments/1pq0fgg/pvizgenerator_turning_repos_into_structured_json/</link>
-      <description><![CDATA[大家好。抱歉，如果这里不适合发表这篇文章，但我确实相信它与 Reddit 子版块极其相关。我一直在开发一个完整的堆栈 saas，如果有人感兴趣，我希望获得一些反馈。 PViz 采用存储库并生成其文件、模块和关系的结构化 JSON 表示。然后，该工件可以用作法学硕士的基础上下文，而不是粘贴源代码或依赖部分摘要。 意图非常具体：  提取结构，而不是行为 将其规范化为可重用的工件 让法学硕士针对更高级别的问题对该结构进行推理  这对于以下情况很有用：  进入不熟悉的代码库 在重构之前获取高级地图 评估跨模块的影响 在更深入的代码级工作之前定位LLM辅助工具  它的不：  不执行或解释运行时行为 不取代阅读代码 不保证正确性  数据处理 对于每个作业，仅保留生成的 JSON 工件以供调用和后续问题。 作业完成后，原始代码库和中间分析工件不会在内部存储。 公共测试范围  早期发布 - 工作流程和实用性优先 目前最适合结构清晰的中型存储库 主要使用 Gemini Flash 2.5 来实现大型上下文窗口  如果您有兴趣测试或提供反馈，请联系： 📧 [mikemc@pvizgenerator.com]()   由   提交/u/BaseDue9532   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pq0fgg/pvizgenerator_turning_repos_into_structured_json/</guid>
-      <pubDate>Thu, 18 Dec 2025 19:54:16 GMT</pubDate>
+      <title>LLM 并不神奇</title>
+      <link>https://www.reddit.com/r/programming/comments/1pq67n9/llms_are_not_magic/</link>
+      <description><![CDATA[该视频讨论了为什么我对人工智能的产品没有任何真正的兴趣，尽管这些产品可能多么聪明或令人惊讶。我认为，将人工智能的整体视为从根本上去人性化是合理的。    由   提交/u/stumblingtowards  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pq67n9/llms_are_not_magic/</guid>
+      <pubDate>Thu, 18 Dec 2025 23:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.2-Codex 简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1pq66w1/introducing_gpt52codex/</link>
+      <description><![CDATA[ 由   提交/u/Frequent-Football984   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pq66w1/introducing_gpt52codex/</guid>
+      <pubDate>Thu, 18 Dec 2025 23:52:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>从零到 RandomX.js：将网络挖矿从坟墓中带回来 |长米</title>
+      <link>https://www.reddit.com/r/programming/comments/1pq5axi/zero_to_randomxjs_bringing_webmining_back_from/</link>
+      <description><![CDATA[ 由   提交/u/waozen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pq5axi/zero_to_randomxjs_bringing_webmining_back_from/</guid>
+      <pubDate>Thu, 18 Dec 2025 23:12:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿波罗 11 号的机载软件如何实时处理过载，这是玛格丽特·汉密尔顿 (Margaret Hamilton) 工作中的经验教训</title>
+      <link>https://www.reddit.com/r/programming/comments/1pq2sdq/how_apollo_11s_onboard_software_handled_overloads/</link>
+      <description><![CDATA[机载制导计算机过载并开始发出程序警报。  软件基于优先级的调度和任务丢弃使其没有崩溃，而是恢复并继续执行最关键的功能。这一决定直接促成了着陆的成功。  玛格丽特·汉密尔顿 (Margaret Hamilton) 的团队设计的系统假设会发生故障并优雅地处理它们，这是容错、实时软件设计的早期且强大的示例。  这里的许多想法今天仍然适用：防御性编程、负载下的优先级以及针对未知进行设计。   由   提交 /u/Digitalunicon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pq2sdq/how_apollo_11s_onboard_software_handled_overloads/</guid>
+      <pubDate>Thu, 18 Dec 2025 21:28:48 GMT</pubDate>
     </item>
     <item>
       <title>机械战警（街机）复制保护的未来</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/_bijan_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pptozz/stdranges_may_not_deliver_the_performance_that/</guid>
       <pubDate>Thu, 18 Dec 2025 15:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Java Swing 中构建真正的“记住我”功能（完整教程）</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppta1z/built_a_real_remember_me_feature_in_java_swing/</link>
-      <description><![CDATA[我刚刚上传了Java Swing 图书馆管理系统系列的第 8 部分，其中我实现了真正的“记住我”功能，就像专业桌面应用程序一样。 🔹 本视频介绍的内容：  Java Swing 登录系统（真实风格） 使用 Java 的“记住我”复选框首选项 API 登录数据如何存储在： Windows → 注册表 Linux → 配置文件 macOS → plist 文件  常见问题，例如 BackingStoreException 桌面应用程序持久性的最佳实践  这不是理论 - 这是一个实际实现，您可以直接用于：  最后一年项目 桌面业务应用程序 具有用户管理功能的 Java Swing 系统  🎥 在此处观看： 👉 第 31 部分 — Java Swing 库系统 |第 8 部分 用户管理模块 – 记住我功能 - YouTube 📌 完整图书馆系统播放列表： 👉 https://www.youtube.com/playlist?list=PLR_BEPp_tMBv2T4zT7Z0rL-zgLL6WxEmF 如果您正在学习Java Swing 或构建桌面应用，我认为这会对您有很大帮助。欢迎提供反馈和建议👍 请支持我的频道。   由   提交/u/Substantial-Log-9305   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppta1z/built_a_real_remember_me_feature_in_java_swing/</guid>
-      <pubDate>Thu, 18 Dec 2025 15:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越抽象——接口理论</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppt0ti/beyond_abstractions_a_theory_of_interfaces/</link>
-      <description><![CDATA[ 由   提交/u/bloeys  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppt0ti/beyond_abstractions_a_theory_of_interfaces/</guid>
-      <pubDate>Thu, 18 Dec 2025 15:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机编程中的操作结束</title>
-      <link>https://www.reddit.com/r/programming/comments/1ppskt4/closure_of_operations_in_computer_programming/</link>
-      <description><![CDATA[ 由   提交/u/deniskyashif  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ppskt4/closure_of_operations_in_computer_programming/</guid>
-      <pubDate>Thu, 18 Dec 2025 14:45:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
