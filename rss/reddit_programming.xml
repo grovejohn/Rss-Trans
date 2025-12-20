@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 20 Dec 2025 00:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Dec 2025 03:43:44 GMT</lastBuildDate>
+    <item>
+      <title>如何用javascript制作游戏引擎</title>
+      <link>https://www.reddit.com/r/programming/comments/1pr44ro/how_to_make_a_game_engine_in_javascript/</link>
+      <description><![CDATA[ 由   提交 /u/Outrageous-guffin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pr44ro/how_to_make_a_game_engine_in_javascript/</guid>
+      <pubDate>Sat, 20 Dec 2025 03:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>把我们的罗马兄弟带回21世纪！🏛️</title>
+      <link>https://www.reddit.com/r/programming/comments/1pr2prl/bringing_our_roman_brothers_back_to_the_21st/</link>
+      <description><![CDATA[嘿大家！ 所以有一天晚上我坐在沙发上，无论出于什么原因，我又开始思考罗马了。当时我也在思考我的神经操作系统项目，所以我同时也在研究很多 ASM 和二进制以及其他有趣的东西，我想我的流交叉了，它完全打在了我的脸上...... “带来我们的兄弟们回来了！” 所以我决定使用罗马数字来说明 ASM 如何处理二进制，这基本上就是一切的开始... 所以我决定将它推得越来越远，然后有了一个全面的更新平台。 所以我决定将它推得更远，现在我有了一个完整的 x86 指令集，它可以启动自己的内核（RomanOS）...... 我开始了所有把它作为一个节点项目真的是为了好玩，而且它真的有点失控，我认为这将是一个非常有趣的教育项目，也可以帮助更多的人进入数学和计算机科学！ 很多东西的网络界面都在这里:) https://romasm.neocities.org/   由   提交 /u/ThatBlackHatGuy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pr2prl/bringing_our_roman_brothers_back_to_the_21st/</guid>
+      <pubDate>Sat, 20 Dec 2025 02:04:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dead Hours 建设如何改变了我的副业项目的成功</title>
+      <link>https://www.reddit.com/r/programming/comments/1pr2e2k/how_dead_hours_building_changed_my_side_project/</link>
+      <description><![CDATA[清晨和深夜课程与传统下班后建筑的简要比较。 友情链接在此   由   提交/u/Aizen-Suski7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pr2e2k/how_dead_hours_building_changed_my_side_project/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:48:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者资源 |思维板.dev |为开发人员提供 1000 多个 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1pr27tp/developer_resources_mindboarddev_1000_apis_for/</link>
+      <description><![CDATA[  由   提交/u/EdTradesDaily   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pr27tp/developer_resources_mindboarddev_1000_apis_for/</guid>
+      <pubDate>Sat, 20 Dec 2025 01:39:43 GMT</pubDate>
+    </item>
     <item>
       <title>我为系统设计构建了一个“飞行模拟器”，因为观看 YouTube 视频是不够的。</title>
       <link>https://www.reddit.com/r/programming/comments/1pr0esv/i_built_a_flight_simulator_for_system_design/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[回到大学时，我记得抱怨过 LeetCode 式的面试，以及它们似乎与真正的工程工作不匹配。  我在这个行业工作的时间越长，我就越能看到这些基本原理在生产中的体现。  Docling 是一个流行的 IBM 文档解析开源库，它使用 R 树来索引布局元素（如文本块或表格）的边界框，并使用联合查找来有效地将重叠的元素合并到组中。   由   提交/u/noninertialframe96  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pqqswn/docling_leetcode_in_production_unionfind_and/</guid>
       <pubDate>Fri, 19 Dec 2025 17:21:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能平台中的漏洞：Mintlify中的XSS示例以及供应链攻击的危险</title>
-      <link>https://www.reddit.com/r/programming/comments/1pqpt6s/vulnerabilities_in_artificial_intelligence/</link>
-      <description><![CDATA[本文中发现的缺陷源于在未正确验证域的情况下提供静态资源的端点，从而允许大型客户网站上的跨站脚本 (XSS)。 虽然这不是在运行时执行“AI 生成”代码的情况，但平台本身是由 AI 提供支持的。这引发了一个更大的担忧：即使法学硕士不直接创建易受攻击的代码，人工智能生态系统总体上也会加速第三方工具的采用和集成，优先考虑速度和便利性，而这往往是以牺牲彻底的安全分析为代价的。如此快速的集成可能会导致严重缺陷，例如输入验证不足或访问控制不良，从而为供应链攻击创造有利的环境。 研究表明，LLM 生成的代码通常包含常见漏洞，例如 XSS、SQL 注入和缺少安全标头。这引发了反思：发生这种情况是否是因为模型是在数十亿行旧代码上进行训练的，而这些代码中不安全的做法很常见？或者是因为法学硕士优先考虑即时功能和简洁性而不是安全架构的稳健性？   由   提交/u/Fragrant-Age-2099   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pqpt6s/vulnerabilities_in_artificial_intelligence/</guid>
-      <pubDate>Fri, 19 Dec 2025 16:42:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的未偿债务：LLM 爬虫如何破坏开源的社会契约</title>
-      <link>https://www.reddit.com/r/programming/comments/1pqodkn/ais_unpaid_debt_how_llm_scrapers_destroy_the/</link>
-      <description><![CDATA[ 由   提交/u/yoasif   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pqodkn/ais_unpaid_debt_how_llm_scrapers_destroy_the/</guid>
-      <pubDate>Fri, 19 Dec 2025 15:46:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>对有史以来最糟糕的编程语言的回应</title>
-      <link>https://www.reddit.com/r/programming/comments/1pqn5fs/response_to_worst_programming_language_of_all_time/</link>
-      <description><![CDATA[ 由   提交/u/ValousN   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pqn5fs/response_to_worst_programming_language_of_all_time/</guid>
-      <pubDate>Fri, 19 Dec 2025 14:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 个工程教条是时候退休了 - 没有代码注释、2-4 周的冲刺、强制性 PR、一切包</title>
-      <link>https://www.reddit.com/r/programming/comments/1pqm92z/5_engineering_dogmas_its_time_to_retire_no_code/</link>
-      <description><![CDATA[ 由   提交/u/zaidesanton  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pqm92z/5_engineering_dogmas_its_time_to_retire_no_code/</guid>
-      <pubDate>Fri, 19 Dec 2025 14:19:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
