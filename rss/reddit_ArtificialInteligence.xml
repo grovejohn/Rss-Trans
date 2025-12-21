@@ -4,18 +4,18 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Sun, 21 Dec 2025 00:51:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Dec 2025 03:56:15 GMT</lastBuildDate>
     <item>
-      <title>对 GitHub 存储库的黑客攻击可能会影响人工智能，我们将无法信任它们作为代码助手。正如我们不应该那样</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1prtdbd/a_hacker_attack_on_github_repositories_could/</link>
-      <description><![CDATA[GitHub 最近遭受了蠕虫攻击，该攻击将恶意文件添加到任何运行这些文件的人的存储库中。当我读到这条新闻时，我想：“这里出了问题……”如果 AI 大多数时候使用 GitHub 作为来源，那么如果我在其中一次攻击发生时使用代码助手，我的代码可能会包含病毒，而我在不知情的情况下根本没有下载任何东西，只是信任人工智能......   由   提交 /u/julio090xl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1prtdbd/a_hacker_attack_on_github_repositories_could/</guid>
-      <pubDate>Sun, 21 Dec 2025 00:44:34 GMT</pubDate>
+      <title>关于日常编码任务的新 Claude 4.5 模型的思考</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1prw0az/thoughts_on_the_new_claude_45_models_for_daily/</link>
+      <description><![CDATA[大家好， 我想分享一些关于我最近如何使用更新的 Claude 系列的想法。我是 3.5 Sonnet 的忠实粉丝，因为它的速度，但新的 4.5 Sonnet 似乎真正实现了延迟和推理能力之间的平衡。 对于快速脚本和调试，4.5 Sonnet 是我的首选。它感觉更敏捷，几乎每次都能得到正确的语法。然而，当我构建一个更大的系统或需要有人“思考”时通过令人讨厌的竞争条件，我发现自己正在达到 Opus 4.5。显然，它速度较慢，但​​它往往会捕获 Sonnet 所忽视的边缘情况。 我很好奇你们是如何分割工作流程的？您是否坚持使用一位“司机”？模型，还是根据问题的复杂性在它们之间切换？ 此外，是否有其他人注意到它们处理上下文窗口的方式有所不同？我觉得 Opus 更好地抓住了长对话的线索，而不会丢失原始的提示指令。   由   提交/u/HarrisonAIx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1prw0az/thoughts_on_the_new_claude_45_models_for_daily/</guid>
+      <pubDate>Sun, 21 Dec 2025 03:00:20 GMT</pubDate>
     </item>
     <item>
       <title>AGI 的需求及其对残疾人的影响</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1prs27g/the_need_for_agi_and_its_impact_on_the_disabled/</link>
-      <description><![CDATA[关于 AGI 的对话经常陷入基准测试和夸张的讨论中。我想退后一步，谈谈 AGI 可能产生的真正影响以及为什么我们尽快需要它。 我是残疾人。我患有一种未经 FDA 批准的治疗方法且无法治愈的疾病。治疗我的疾病的资金很少，而且目前几乎没有政治意愿来改变这一状况。按照目前的情况，我很可能会终身残疾。 世界上有数百万人像我一样。患有无法治愈且没有希望的疾病的人。这就是为什么 AGI 对我们所有人如此重要。这个实体将比我们所有人加起来还要聪明得多。它将同时成为每个可以想象的医学领域的专家。它将是一种令人难以置信的智能，它可能会治愈我的疾病，甚至可以治愈几乎所有的疾病。 对于这里的一些人来说，通用人工智能只是一种迷恋。对于像我这样的数百万残疾人来说，这是我们恢复正常的唯一希望。 编辑：拼写错误   由   提交 /u/Odysseus144   [链接] [评论]]]></description>
+      <description><![CDATA[关于 AGI 的对话经常陷入基准测试和夸张的讨论中。我想退后一步，谈谈 AGI 可能产生的真正影响以及为什么我们尽快需要它。 我是残疾人。我患有一种未经 FDA 批准的治疗方法且无法治愈的疾病。治疗我的疾病的资金很少，而且目前几乎没有政治意愿来改变这一状况。按照目前的情况，我很可能会终身残疾。 世界上有数百万人像我一样。患有无法治愈且没有希望的疾病的人。这就是为什么 AGI 对我们所有人如此重要。这个实体将比我们所有人加起来还要聪明得多。它将同时成为每个可以想象的医学领域的专家。它将是一种令人难以置信的智能，它可能会找到治愈我的疾病的方法，甚至可以治愈几乎所有疾病。 对于这里的一些人来说，通用人工智能只是一种迷恋。对于像我这样的数百万残疾人来说，这是我们恢复正常的唯一希望。 编辑：拼写错误   由   提交 /u/Odysseus144   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1prs27g/the_need_for_agi_and_its_impact_on_the_disabled/</guid>
       <pubDate>Sat, 20 Dec 2025 23:39:56 GMT</pubDate>
     </item>
