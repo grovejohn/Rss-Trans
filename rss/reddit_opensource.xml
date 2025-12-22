@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 22 Dec 2025 15:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 18:18:01 GMT</lastBuildDate>
+    <item>
+      <title>用 Python 构建了一个最小的 neofetch 风格的工具——欢迎反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pt5vkp/built_a_minimal_neofetchstyle_tool_in_python/</link>
+      <description><![CDATA[大家好， 我已经使用 neofetch / fastfetch 很长时间了，但我想要更简单的东西 - 没有配置文件，没有主题，没有插件，只是打开终端时系统信息的快速快照。 所以我构建了 fetchx。 目标： - 默认情况下最小输出 - 零配置 - 没有外部依赖项（仅限 Python stdlib） - 清除模式而不是无尽的标志 - 在 Linux 和 WSL 上干净地工作 用法： - fetchx → 默认系统快照 - fetchx --network → 仅网络信息 - fetchx --full → fetchx 可以检测到的所有内容 它是一个单文件工具，使用curl命令在系统范围内安装，并以毫秒为单位运行。 仓库：https://github.com/v9mirza/fetchx 这是一个早期版本 - 我主要寻找以下方面的反馈： - 输出选择 - 缺少应该包含的信息 - 不应该不包含的内容 欣赏任何想法。   由   提交 /u/v9mirza   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pt5vkp/built_a_minimal_neofetchstyle_tool_in_python/</guid>
+      <pubDate>Mon, 22 Dec 2025 17:45:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>DelFast：开源删除软件（比 Windows 更快！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pt5un3/delfast_open_source_deletion_software_faster_than/</link>
+      <description><![CDATA[大家好， 我构建了一个名为 DelFast 的开源 Windows 实用程序，它专注于一件事：尽快删除文件和文件夹。 Windows 资源管理器删除速度很慢，主要是由于 UI 更新和删除之前的预计算步骤。 DelFast 通过 Windows API 执行直接删除而无需资源管理器参与，从而避免了这种情况。 它是开源的；所有链接都在评论中。   由   提交/u/TheEZ45  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pt5un3/delfast_open_source_deletion_software_faster_than/</guid>
+      <pubDate>Mon, 22 Dec 2025 17:44:38 GMT</pubDate>
+    </item>
     <item>
       <title>使用 QtMultimedia + FFmpeg 和硬件加速的开源跨平台媒体播放器</title>
       <link>https://www.reddit.com/r/opensource/comments/1pt1drv/opensource_crossplatform_media_player_using/</link>
@@ -48,14 +62,7 @@
       <pubDate>Mon, 22 Dec 2025 09:14:32 GMT</pubDate>
     </item>
     <item>
-      <title>案例管理软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1psu2sv/case_management_software/</link>
-      <description><![CDATA[您好，我在一家大型 NHS 信托基金的人力资源部门工作，他们不会为我的团队支付案例管理软件的费用。我患有 AuADHD，并且确实在应对大量的工作，并且知道管理系统可以帮助我跟踪所有案例和任务，并在一个地方提供知识库。  我可以尝试使用 PowerApps 和 SharePoint 构建一些东西，但是如果有不错的东西，我很乐意尝试一下。谢谢☺️    由   提交/u/JonFromHR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1psu2sv/case_management_software/</guid>
-      <pubDate>Mon, 22 Dec 2025 08:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>FlaskDI - Flask 的最小且干净的 FastAPI 风格依赖注入系统</title>
+      <title>FlaskDI - Flask 的最小且干净的 FastAPI 风格的依赖注入系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1pst038/flaskdi_a_minimal_and_clean_fastapistyle/</link>
       <description><![CDATA[ 由   提交/u/dev-razorblade23  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pst038/flaskdi_a_minimal_and_clean_fastapistyle/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>免费语言翻译包，15种语言</title>
       <link>https://www.reddit.com/r/opensource/comments/1psook4/free_language_translation_package_15_languages/</link>
-      <description><![CDATA[不久前发布了我的第一个 NPM 包并想分享。我当时在一家教育科技初创公司工作，发现尽管维基词典上有相关信息，但大规模翻译 API 的可访问性却令人担忧。使用维基词典 HTML 转储，我能够解析出大多数用例的信息。 功能：  自动重音纠正 动词形式检测和基本动词翻译 返回单词类型（形容词、名词等） 要求两种语言之一为英语，但可以在英语和其他 14 种语言（从西班牙语到中文）之间进行翻译 基于罗马和字符的字符语言翻译  希望得到一些反馈，并看看还有什么可以帮助添加。也请随意直接贡献！希望这能让任何构建基于语言的应用程序但没有预算购买超级昂贵的 API 的人变得更轻松。 https://github.com/akassa01/wikiglot https://www.npmjs.com/package/wikiglot   由   提交 /u/intuitivedebater   [链接] [评论]]]></description>
+      <description><![CDATA[不久前发布了我的第一个 NPM 包并想分享。我当时在一家教育科技初创公司工作，发现尽管维基词典上有相关信息，但大规模翻译 API 的可访问性却令人担忧。使用维基词典 HTML 转储，我能够解析出大多数用例的信息。 功能：  自动重音纠正 动词形式检测和基本动词翻译 返回单词类型（形容词、名词等） 要求两种语言之一为英语，但可以在英语和其他 14 种语言（从西班牙语到中文）之间进行翻译 基于罗马和字符的字符语言翻译  希望得到一些反馈，并看看还有什么可以帮助添加。也请随时直接贡献！希望这能让任何构建基于语言的应用程序但没有预算购买超级昂贵的 API 的人变得更轻松。 https://github.com/akassa01/wikiglot https://www.npmjs.com/package/wikiglot   由   提交 /u/intuitivedebater   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1psook4/free_language_translation_package_15_languages/</guid>
       <pubDate>Mon, 22 Dec 2025 02:59:33 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[      作为一名语言学习者，我经常发现研究单词如何一起使用很有帮助。我发现查看频繁的单词组合可以帮助我建立语法直觉并更好地记住单词的含义。 因此，我为此制作了一个工具。我分析了 6 种语言字幕中的 3.5 亿个句子，并构建了一个 trie 结构，其边权重对应于某个单词在另一个单词之前或之后使用的频率。 然后，我让用户查看每个节点的例句，并构建了一系列可视化效果：树结构、旭日图、桑基图和累积词频图。 我还将其与 Anki Connect 集成，以便用户可以根据示例快速创建 Anki 抽认卡，并添加了可选的人工智能分析和句子生成功能。 您可以在这里查看：https://trielingual.com，或者查看特定单词，例如https://trielingual.com/spanish/depender 欢迎反馈！   由   提交 /u/mreichhoff   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pshhp6/trielingual_a_language_learning_tool/</guid>
       <pubDate>Sun, 21 Dec 2025 21:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找贡献者 – 现代 C++ CLI 计算器 (OSS)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ps8dct/looking_for_contributors_modern_c_cli_calculator/</link>
-      <description><![CDATA[嗨！ 👋 我正在维护一个开源 C++ CLI 计算器，并且正在寻找贡献者。 项目亮点：  现代 C++（CMake，干净的架构） REPL 模式、表达式解析 矩阵、素数分解、基数转换 批量脚本支持 CI/CD 和多平台打包（Snap、DEB）  寻求帮助：  核心 C++ 功能和重构 性能和解析改进 测试和 CI 文档和 CLI UX 完善  提供适合初学者的问题，并且提供代码审查如果您喜欢干净的 C++ 和结构良好的 CLI 工具，您会有宾至如归的感觉。 👉 GitHub：[https://github.com/Benedek553/cli-calculator]() 欢迎 PR、问题和讨论。   由   提交/u/JustAProgrammer25  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ps8dct/looking_for_contributors_modern_c_cli_calculator/</guid>
-      <pubDate>Sun, 21 Dec 2025 14:57:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

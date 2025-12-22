@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 22 Dec 2025 15:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Dec 2025 18:18:05 GMT</lastBuildDate>
     <item>
       <title>常规安卓</title>
       <link>https://www.producthunt.com/products/routine</link>
@@ -104,6 +104,20 @@
       <pubDate>Sun, 21 Dec 2025 04:45:54 GMT</pubDate>
     </item>
     <item>
+      <title>Chrome 版 MyLens</title>
+      <link>https://www.producthunt.com/products/mylensai-chrome</link>
+      <description><![CDATA[
+             您的人工智能可视化合作伙伴，就在您的浏览器中。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/mylensai-chrome</guid>
+      <pubDate>Sat, 20 Dec 2025 20:51:01 GMT</pubDate>
+    </item>
+    <item>
       <title>发芽</title>
       <link>https://www.producthunt.com/products/sprout-76</link>
       <description><![CDATA[
@@ -121,7 +135,7 @@
       <title>克劳德在 Chrome 中</title>
       <link>https://www.producthunt.com/products/claude</link>
       <description><![CDATA[
-            让 Claude 在浏览器中查看、单击、键入和导航
+            让 Claude 在您的浏览器中查看、单击、输入和导航
           
 
 讨论
@@ -144,20 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/wafer</guid>
       <pubDate>Fri, 19 Dec 2025 23:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取个人资料</title>
-      <link>https://www.producthunt.com/products/getprofile-ai</link>
-      <description><![CDATA[
-            AI 代理的用户配置文件和长期记忆
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/getprofile-ai</guid>
-      <pubDate>Wed, 17 Dec 2025 18:32:54 GMT</pubDate>
     </item>
     <item>
       <title>进入太空</title>
@@ -188,6 +188,20 @@
       <pubDate>Tue, 16 Dec 2025 20:16:20 GMT</pubDate>
     </item>
     <item>
+      <title>触摸草</title>
+      <link>https://www.producthunt.com/products/touched-grass</link>
+      <description><![CDATA[
+            向世界展示你曾接触过草地
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/touched-grass</guid>
+      <pubDate>Tue, 16 Dec 2025 13:54:00 GMT</pubDate>
+    </item>
+    <item>
       <title>涌流</title>
       <link>https://www.producthunt.com/products/surgeflow</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/surgeflow</guid>
       <pubDate>Mon, 01 Dec 2025 06:24:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>火花</title>
-      <link>https://www.producthunt.com/products/sparkleio</link>
-      <description><![CDATA[
-            简化的冷电子邮件外展
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sparkleio</guid>
-      <pubDate>Fri, 13 Sep 2024 20:41:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
