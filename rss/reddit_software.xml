@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 23 Dec 2025 00:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 03:55:57 GMT</lastBuildDate>
+    <item>
+      <title>软件故障的根本原因和修复</title>
+      <link>https://www.reddit.com/r/software/comments/1ptg8y6/root_cause_of_software_failures_and_fixes/</link>
+      <description><![CDATA[经验丰富的开发人员经历了什么作为技术债务、产品设计失败、架构失败或浪费开发周期的根本原因？ 而且，高级开发人员/架构师（或者高管或产品经理，如果他们在这里 - 实际上是任何有影响力改变软件组织中的事物的人）做了什么来尝试缓解这些根本问题？ 我很确定，随着开发人员变得经过人工智能增强，我们将看到生成更多代码，这可能会放大问题。我真的很好奇各个职业领域的人们如何看待这个问题，但我特别感兴趣的是经验丰富的开发人员如何处理这个问题，因为他们是“真正的问题”。   由   提交/u/Environmental_Lab_49   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ptg8y6/root_cause_of_software_failures_and_fixes/</guid>
+      <pubDate>Tue, 23 Dec 2025 00:52:39 GMT</pubDate>
+    </item>
     <item>
       <title>我对此感到非常厌倦。</title>
       <link>https://www.reddit.com/r/software/comments/1ptfg6i/im_so_tired_of_this/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[您好，这是随机的，但我想知道是否有人知道 vine 编辑器会使用什么好的编辑软件？就像完美的 Petrova 类型编辑一样。 Capcut 是垃圾，我一直想进行类似旧怀旧的编辑，但我不知道该怎么做。我无法支付任何费用，所以我不知道这是否会限制我可以使用的软件数量，但一切都可以。    由   提交 /u/BrushGreedy9383   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1pssdu7/vine_edits_editing_software/</guid>
       <pubDate>Mon, 22 Dec 2025 06:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 听写应用程序：真正重要的是什么（热键、VDI、隐私、本地与云）</title>
-      <link>https://www.reddit.com/r/software/comments/1psnbpt/windows_dictation_apps_what_actually_matters/</link>
-      <description><![CDATA[我最近陷入了 Windows 听写工具的困境，我意识到大多数讨论都停留在“准确性”上，而忽略了真正让你继续使用它的东西。 这是最终对我很重要的清单： - 热键工作流程：如果它不能保持通话或立即可达，我就会停止使用它。 - 类型与剪贴板粘贴：一堆工具“粘贴”记录。这会在奇怪的地方中断（并且通常在 VDI/远程桌面中完全中断）。 - 空闲占用空间：一些应用程序坐在那里咀嚼 CPU/RAM“以防万一”。我的回答是“不”。 - 隐私模型：是否发送音频？存储？用于训练？他们会针对“上下文”进行屏幕截图吗？ （有些确实 - 决定您是否同意。） - 本地与云：如果您有计算能力，本地就很棒，如果您信任它+想要简单，云也很棒。 我最终构建了自己的工具，因为我找不到符合我想要的组合的东西（按住通话 + 随处打字 + 在 VDI 中工作 + 轻量级）。它被称为 DictaFlow（我是开发人员），位于：https://dictaflow.vercel.app 但老实说：即使您不接触我的，使用上面的清单，您将避免很多令人沮丧的安装。   由   提交 /u/InterestingBasil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1psnbpt/windows_dictation_apps_what_actually_matters/</guid>
-      <pubDate>Mon, 22 Dec 2025 01:53:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
