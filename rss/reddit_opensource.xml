@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 23 Dec 2025 03:57:06 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Dec 2025 06:19:10 GMT</lastBuildDate>
+    <item>
+      <title>开源 React Native 应用程序：如何共享 Android 测试版本？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ptk6uu/opensource_react_native_app_how_do_you_share/</link>
+      <description><![CDATA[我正在为使用 Expo 和 EAS 构建的开源 React Native 应用程序做出贡献。 与 Play 商店之外的贡献者共享 Android 测试版本的常用方法是什么？ 人们通常更喜欢 APK、AAB 或 Expo 托管的工件吗？ 有兴趣了解哪些在开源项目中效果良好。   由   提交/u/hardware19george  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ptk6uu/opensource_react_native_app_how_do_you_share/</guid>
+      <pubDate>Tue, 23 Dec 2025 04:03:13 GMT</pubDate>
+    </item>
     <item>
       <title>轻量级 Golang 优先级队列</title>
       <link>https://www.reddit.com/r/opensource/comments/1ptjy1e/lightweight_golang_priority_queue/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我已经使用 neofetch / fastfetch 很长时间了，但我想要更简单的东西 - 没有配置文件，没有主题，没有插件，只是打开终端时系统信息的快速快照。 所以我构建了 fetchx。 目标： - 默认情况下最小输出 - 零配置 - 没有外部依赖项（仅限 Python stdlib） - 清除模式而不是无尽的标志 - 在 Linux 和 WSL 上干净地工作 用法： - fetchx → 默认系统快照 - fetchx --network → 仅网络信息 - fetchx --full → fetchx 可以检测到的所有内容 它是一个单文件工具，使用curl命令在系统范围内安装，并以毫秒为单位运行。 仓库：https://github.com/v9mirza/fetchx 这是一个早期版本 - 我主要寻找以下方面的反馈： - 输出选择 - 缺少应该包含的信息 - 不应该不包含的内容 欣赏任何想法。   由   提交/u/v9mirza  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pt5vkp/built_a_minimal_neofetchstyle_tool_in_python/</guid>
       <pubDate>Mon, 22 Dec 2025 17:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>DelFast：开源删除软件（比 Windows 更快！）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pt5un3/delfast_open_source_deletion_software_faster_than/</link>
-      <description><![CDATA[大家好， 我构建了一个名为 DelFast 的开源 Windows 实用程序，它专注于一件事：尽快删除文件和文件夹。 Windows 资源管理器删除速度很慢，主要是由于 UI 更新和删除之前的预计算步骤。 DelFast 通过 Windows API 执行直接删除而无需资源管理器参与，从而避免了这种情况。 它是开源的；所有链接都在评论中。   由   提交/u/TheEZ45  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pt5un3/delfast_open_source_deletion_software_faster_than/</guid>
-      <pubDate>Mon, 22 Dec 2025 17:44:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
