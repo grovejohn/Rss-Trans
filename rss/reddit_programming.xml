@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 24 Dec 2025 15:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 18:17:46 GMT</lastBuildDate>
+    <item>
+      <title>塞尔达传说：暮光公主已被反编译</title>
+      <link>https://www.reddit.com/r/programming/comments/1pussnd/zelda_twilight_princess_has_been_decompiled/</link>
+      <description><![CDATA[ 由   提交 /u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pussnd/zelda_twilight_princess_has_been_decompiled/</guid>
+      <pubDate>Wed, 24 Dec 2025 17:36:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>SDSL：一种新/旧的着色器编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1puslz2/sdsl_a_newold_shader_programming_language/</link>
+      <description><![CDATA[您好！  我是 Stride 引擎的维护者之一，我们目前正在为着色器语言 SDSL 开发编译器。  稍微了解一下，SDSL 是带有 mixin 系统的 HLSL，您可以混合和匹配着色器模块来创建您自己的着色器，选择您需要的任何数据或函数。所有这些都以文本形式完成，然后以 HLSL 或 GLSL 进行转译。  正如您所猜测的，性能非常糟糕，这促使我们研究将 SDSL 直接编译为 SPIR-V。 这篇博文是第 3 部分，它是 SDSL 解析器的重写以及我们如何使其性能更高！  如果您有任何意见或意见，请随时分享！    由   提交/u/ykafia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1puslz2/sdsl_a_newold_shader_programming_language/</guid>
+      <pubDate>Wed, 24 Dec 2025 17:28:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一种基于浏览器的方式，通过单个 URL 共享实时代码库和终端来寻找技术反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1purq92/i_built_a_browser_based_way_to_share_a_live/</link>
+      <description><![CDATA[我一直在从事一个业余爱好项目，并试图解决我在与团队合作时遇到的实际问题，特别是当你们不坐在一起或团队完全远程时。 我构建的是一个嵌入了自定义 P2P 库的 npm 包，其工作延迟接近于零。由于它是点对点的，我不会在服务器上存储任何代码或数据。 它的工作原理有点像 ngrok。您在终端中运行 codeport，它会生成一个 URL 和一个密码。您在浏览器中打开 URL 并使用密码进行身份验证。会话持续 30 分钟，在此期间您可以访问和修改代码库。您可以与世界上的任何人共享此链接并实时协作。您可以在任何地方处理您的代码，而无需亲自出现在自己的系统中。 我不会推销或销售任何东西。 我非常感谢社区提供以下方面的技术反馈：  此方法的安全问题 可扩展性考虑因素 您使用过的类似工具或架构 我可能错过的潜在边缘情况或陷阱  url: https://codeport.site github: https://github.com/jaytrivedi11/codeport 您可以从网络提供反馈，也可以创建问题   由   提交/u/Few_Adhesiveness_366   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1purq92/i_built_a_browser_based_way_to_share_a_live/</guid>
+      <pubDate>Wed, 24 Dec 2025 16:49:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Big-O 表示法 - 编码面试所需的一切</title>
+      <link>https://www.reddit.com/r/programming/comments/1puq6nk/bigo_notation_everything_you_need_for_coding/</link>
+      <description><![CDATA[ 由   提交/u/dExcellentb   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1puq6nk/bigo_notation_everything_you_need_for_coding/</guid>
+      <pubDate>Wed, 24 Dec 2025 15:40:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>今年教会我的关于工程领导力的知识</title>
+      <link>https://www.reddit.com/r/programming/comments/1pupmxb/what_this_year_taught_me_about_engineering/</link>
+      <description><![CDATA[ 由   提交 /u/gregorojstersek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pupmxb/what_this_year_taught_me_about_engineering/</guid>
+      <pubDate>Wed, 24 Dec 2025 15:15:33 GMT</pubDate>
+    </item>
     <item>
       <title>选择正确的 C++ 容器以提高性能</title>
       <link>https://www.reddit.com/r/programming/comments/1pup1re/choosing_the_right_c_containers_for_performance/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/Helpful_Geographer430   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pudwss/how_monitoring_scales_xor_encoding_in_tsbds/</guid>
       <pubDate>Wed, 24 Dec 2025 04:00:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Mac App Store (MAS) 上发布基于 Java 的数据库工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1puavvd/publishing_a_javabased_database_tool_on_mac_app/</link>
-      <description><![CDATA[ 由   提交/u/tanin47  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1puavvd/publishing_a_javabased_database_tool_on_mac_app/</guid>
-      <pubDate>Wed, 24 Dec 2025 01:26:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何将 1.5GB 数据库减少 99%</title>
-      <link>https://www.reddit.com/r/programming/comments/1puavnz/how_we_reduced_a_15gb_database_by_99/</link>
-      <description><![CDATA[ 由   提交/u/Moist_Test1013  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1puavnz/how_we_reduced_a_15gb_database_by_99/</guid>
-      <pubDate>Wed, 24 Dec 2025 01:26:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年标准 Web API 的 50 个问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1pu5zhy/fifty_problems_with_standard_web_apis_in_2025/</link>
-      <description><![CDATA[ 由   提交/u/Ok-Tune-1346   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pu5zhy/fifty_problems_with_standard_web_apis_in_2025/</guid>
-      <pubDate>Tue, 23 Dec 2025 21:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰弗里·乌尔曼的口述历史</title>
-      <link>https://www.reddit.com/r/programming/comments/1pu5e7f/oral_history_of_jeffrey_ullman/</link>
-      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pu5e7f/oral_history_of_jeffrey_ullman/</guid>
-      <pubDate>Tue, 23 Dec 2025 21:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 次比较如何使整数排序速度提高 30 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1pu5bxm/how_12_comparisons_can_make_integer_sorting_30x/</link>
-      <description><![CDATA[我花了几周时间试图击败 ska_sort（最快的非 SIMD 排序算法）。在此过程中，我学到了一些关于算法选择的有趣知识。 传统观点认为，基数排序的复杂度为 O(n)，并且优于整数比较排序。对于随机数据来说是正确的。但真实数据不是随机的。 年龄集中在 0-100 之间。传感器读数为 12 位。网络端口围绕众所周知的值聚集。当值范围相对于数组大小较小时，计数排序的复杂度为 O(n + range)，并且会破坏基数排序。 问题：在不首先扫描数据的情况下，如何知道使用哪种算法？ 我的解决方案非常简单。对 64 个值进行采样以估计范围。如果范围 &lt;= 2n，则使用计数排序。成本：64 次阅读。回报：在密集数据上加速 30 倍。 对于排序/反向检测，我尝试了： - 差异方差（失败 - 噪音太大） - 熵估计（失败 - 阈值相关） - 反转计数（失败 - 无法区分反向与随机） 有效方法：检查 arr[0] &lt;= arr[1] &lt;= arr[2] &lt;= arr[3] 在三个位置（头、中、尾）。如果三者都同意，数据可能会被排序。总共 12 次比较。 100k 整数的结果： - 随机：比 std::sort 快 3.8 倍 - 密集（0-100）：比 std::sort 快 30 倍 - 与 ska_sort：随机快 1.6 倍，密集快 9 倍 教训：检测很便宜。 12 次比较和 64 个样本可能需要 100 个 CPU 周期。选择错误的算法会花费数百万个周期。   由   提交 /u/DimitrisMitsos   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pu5bxm/how_12_comparisons_can_make_integer_sorting_30x/</guid>
-      <pubDate>Tue, 23 Dec 2025 21:15:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
