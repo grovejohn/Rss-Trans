@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 24 Dec 2025 03:53:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 06:18:22 GMT</lastBuildDate>
+    <item>
+      <title>监控如何扩展：TSBD 中的 XOR 编码</title>
+      <link>https://www.reddit.com/r/programming/comments/1pudwss/how_monitoring_scales_xor_encoding_in_tsbds/</link>
+      <description><![CDATA[ 由   提交/u/Helpful_Geographer430   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pudwss/how_monitoring_scales_xor_encoding_in_tsbds/</guid>
+      <pubDate>Wed, 24 Dec 2025 04:00:36 GMT</pubDate>
+    </item>
     <item>
       <title>在 Mac App Store (MAS) 上发布基于 Java 的数据库工具</title>
       <link>https://www.reddit.com/r/programming/comments/1puavvd/publishing_a_javabased_database_tool_on_mac_app/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/alpaylan   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ptta7d/test_dont_just_verify/</guid>
       <pubDate>Tue, 23 Dec 2025 12:57:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>演化模式与 API 版本控制</title>
-      <link>https://www.reddit.com/r/programming/comments/1ptrjnb/evolution_pattern_versus_api_versioning/</link>
-      <description><![CDATA[ 由   提交/u/apidemia   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ptrjnb/evolution_pattern_versus_api_versioning/</guid>
-      <pubDate>Tue, 23 Dec 2025 11:22:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
