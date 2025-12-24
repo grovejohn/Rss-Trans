@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 24 Dec 2025 09:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Dec 2025 12:20:38 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个免费工具来快速将 HTML 转换为 PNG/WEBP</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pulqcc/i_built_a_free_tool_to_quickly_convert_html_to/</link>
+      <description><![CDATA[       由   提交 /u/alvinunreal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pulqcc/i_built_a_free_tool_to_quickly_convert_html_to/</guid>
+      <pubDate>Wed, 24 Dec 2025 11:56:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>QEMU 和 FFMPEG 的创建者刚刚推出了新的 JS 引擎👀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1puld6u/the_creator_of_qemu_ffmpeg_just_dropped_a_new_js/</link>
+      <description><![CDATA[       由   提交/u/pitza__  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1puld6u/the_creator_of_qemu_ffmpeg_just_dropped_a_new_js/</guid>
+      <pubDate>Wed, 24 Dec 2025 11:33:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>骚扰客户并给予含糊警告？该怎么办 ？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pul6vh/client_harassing_and_giving_vague_warnings_what/</link>
+      <description><![CDATA[所以我的这个客户刚刚打电话来，因为其中一个脚本失败了，这不是我的错 并开始发出警告，如果这种情况再次发生，我将停止与您和所有人合作 我能做什么？   由   提交 /u/ZuperHuman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pul6vh/client_harassing_and_giving_vague_warnings_what/</guid>
+      <pubDate>Wed, 24 Dec 2025 11:22:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>评论：使用 Kamal 部署应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pul40r/review_deploying_apps_with_kamal/</link>
+      <description><![CDATA[我使用 Kamal 部署了最近的基于 Django 的 Web 应用程序。这是我的经验回顾。   由   提交/u/Ecno92  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pul40r/review_deploying_apps_with_kamal/</guid>
+      <pubDate>Wed, 24 Dec 2025 11:17:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>给出一个最容易被破坏的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1puk6ez/give_a_site_which_is_the_easiest_to_breach/</link>
+      <description><![CDATA[我一直在尝试寻找一个好的网站来检查我破坏网站的技能，但我找不到任何免费且实际有用的网站   由   提交 /u/Ok_Price879   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1puk6ez/give_a_site_which_is_the_easiest_to_breach/</guid>
+      <pubDate>Wed, 24 Dec 2025 10:18:25 GMT</pubDate>
+    </item>
     <item>
       <title>templUI v1.0.0 - Go + templ 的 UI 组件库现已稳定</title>
       <link>https://www.reddit.com/r/webdev/comments/1puigsu/templui_v100_ui_component_library_for_go_templ_is/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[      嗨，我不是开发者，我是只是使用人工智能来完成我的工作。我正在尝试创建我在 Photoshop 中制作的这个页面，但所有 AI 似乎都没有给我一个相似的外观。谁能帮助我或向我指出它是如何完成的？我的 Photoshop 想法  https://preview.redd.it/qoae5xfxy19g1.png?width=2048&amp;format=png&amp;auto=webp&amp;s=496a7719f70f838c3b06ec29477f3fb66ccbf29f AI结果  https://preview.redd.it/s9s3dt60z19g1.png?width=2685&amp;format=png&amp;auto=webp&amp;s=3d84ce7c2dccd01eed327c42a1e6fedbd20bde7f Ai结果是可行的，但我仍然想学习上面的网格系统   由   提交 /u/Embarrassed-Stop-919   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1puanlz/help_making_this_image_collage/</guid>
       <pubDate>Wed, 24 Dec 2025 01:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>情绪追踪是复杂的还是乐观的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pu9okl/is_moodtracking_sophisticated_or_bullisht/</link>
-      <description><![CDATA[      马丁·斯科塞斯说最个性化的就是最有创意的。然后以创造性的方式了解我们自己应该会带来更深刻的见解。或者说，这种疗法是角色扮演吗？  您会相信这样的应用程序能够了解您的情感生活并详细说明增强您的幸福感的方法吗？或者只是过度设计的自恋和更好的用户界面？    由   提交/u/Loud-North6879   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pu9okl/is_moodtracking_sophisticated_or_bullisht/</guid>
-      <pubDate>Wed, 24 Dec 2025 00:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于初创公司来说，将用户上传的视频存储在 VPS 本地存储上是一个坏主意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pu9kmm/is_it_a_bad_idea_to_store_useruploaded_videos_on/</link>
-      <description><![CDATA[大家好，我目前正在构建我的初创公司，我对后端和存储决策有点不确定。 我正在构建的应用程序允许用户上传大量视频。我使用 Golang 和 Gin 框架 (go-gin) 作为后端。目前，我计划在开发过程中将上传的文件存储在本地存储中，并在情况更加稳定后转移到 VPS 存储。 我计划使用 VPS（仍在决定提供商），但从长远来看，我不确定这是否是正确的方法。我担心随着用户群的增长，VPS 是否能够真正处理大量视频上传和存储。 另一个问题是数据安全。例如，如果我不小心删除了存储视频的文件夹，或者服务器崩溃了，会发生什么？丢失用户上传的视频将是一场噩梦，而纯粹依赖本地或 VPS 存储会带来风险。 将用户上传的视频存储在本地/VPS 存储上可以吗，还是我应该从一开始就做其他事情？   由   提交 /u/CogniLord   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pu9kmm/is_it_a_bad_idea_to_store_useruploaded_videos_on/</guid>
-      <pubDate>Wed, 24 Dec 2025 00:23:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站托管和创建</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pu8fzb/website_hosting_and_creation/</link>
-      <description><![CDATA[您好！ 我想为我的企业创建一个网站，网站内容大部分是静态的，但我会有一个联系表单。 最初我想使用 aws S3 和 cloudfront 进行托管，但发现 github 页面或 cloudflare 页面可能更便宜。 我向社区提出的几个问题：1- 我不想从以下位置创建网站从头开始，就是布局、CSS 之类的东西。我在哪里可以找到一些免费的 htlm 模板？ 2- github 页面可以托管一个包含一些动态内容（例如联系表单功能）的网站 3- 也了解 WordPress，但我相信使用其他 2 个平台会更便宜？ 欢迎提供一些意见和建议。我最大的问题是在哪里找到可以使用的 HTML 模板，以便我可以简单地托管内容 谢谢！   由   提交/u/Internal_Bleeding0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pu8fzb/website_hosting_and_creation/</guid>
-      <pubDate>Tue, 23 Dec 2025 23:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于评论/评级网站的 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pu7w5b/cms_for_a_review_rating_website/</link>
-      <description><![CDATA[嗨，sub， 我和我的妻子经常去水疗中心。现在我产生了建立一个网站的想法，我可以在其中发布 Spas 评论，让观看者可以搜索和浏览内容，还可以根据用户分配的角色注册和发布 Spas 和评论。 我有一些编码方面的基本知识，过去也创建过一些基于 WordPress 和 joomla 的网站。 现在的问题是：哪种 CMS 最适合上述目的？或者有专门针对评论网站的CMS吗？我想使用开源 CMS 作为基础，而不是从头开始编写网站。我会失败的😄 谢谢🙏   由   提交 /u/just_gr0ss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pu7w5b/cms_for_a_review_rating_website/</guid>
-      <pubDate>Tue, 23 Dec 2025 23:06:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在浏览器环境中正确测试 C++ WebAssembly？ （Emscripten）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pu7smu/how_can_i_properly_test_c_webassembly_in_a/</link>
-      <description><![CDATA[大家好， 我正在开发一个名为 Img2Num 的项目，它将任何图像转换为按数字颜色的模板，让用户可以点击图像的区域来填充颜色。该项目使用通过 Emscripten 编译为 WebAssembly 的 C++ 来执行繁重的图像处理任务，例如快速傅立叶变换、高斯模糊、K 均值分割和其他性能密集型算法。 我遇到的问题是单元测试。现在我发现了两种常见的方法： 在 JavaScript 中测试（例如，使用 Vitest）这会测试浏览器中的 WebAssembly 输出，但它不会直接测试 C++ 逻辑。它基本上只测试导出到 WebAssembly 的函数。  用 C++ 进行测试（例如，使用 Google Test）这会在本地测试 C++ 逻辑，而不是在浏览器/WebAssembly 环境中测试。它基本上是在完全不同的环境中测试所有功能。 这两种方法都没有真正涵盖所有内容。用 JS 进行测试对于潜在的 C++ 贡献者来说没有吸引力，因为他们必须用他们不熟悉的语言编写测试。但仅在 C++ 中进行测试并不能保证代码在编译为 WASM 并在浏览器中运行后行为正确。 我需要一个良好的工作流程来测试针对 WebAssembly 的 C++。理想情况下，它允许在 C++ 中进行单元测试，在类似浏览器的环境中运行测试，并且对 C++ 贡献者来说是平易近人的。 任何建议、示例或工作流程都会非常有帮助，因为我一直在寻找解决方案。🥲   由   提交 /u/readilyaching   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pu7smu/how_can_i_properly_test_c_webassembly_in_a/</guid>
-      <pubDate>Tue, 23 Dec 2025 23:01:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
