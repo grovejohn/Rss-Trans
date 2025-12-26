@@ -4,11 +4,25 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 26 Dec 2025 15:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 18:17:02 GMT</lastBuildDate>
     <item>
-      <title>U-Topic-0 | https://u-topic-0.com/</title>
+      <title>使用react+vite开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1pw9ok7/developed_using_reactvite/</link>
+      <description><![CDATA[嗨，我是计算机科学四年级的学生，我开发了这个应用程序，学生可以像谷歌课堂一样加入课程，他们可以回答老师给出的一些测验，他们还可以通过查看分析来跟踪他们的进步。对于老师来说，他们可以创建一个教室，它将为老师提供班级代码，他们可以将班级代码提供给学生，以便他们可以加入。我还添加了教师可以发布课程并附加链接的位置。他们还可以跟踪学生的成绩，例如谁表现出色，谁成绩低，以便老师可以帮助该学生。教师还可以将学生成绩导出为 csv 类型文件或 Excel 格式。您现在可以访问此网站并测试我的应用程序来尝试该应用程序。谢谢 https://brainspark-edu.vercel.app/    由   提交/u/Far_Resolution3181   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pw9ok7/developed_using_reactvite/</guid>
+      <pubDate>Fri, 26 Dec 2025 17:24:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCP——深入探讨</title>
+      <link>https://www.reddit.com/r/programming/comments/1pw99gv/mcp_a_deep_dive/</link>
+      <description><![CDATA[ 由   提交/u/sdxyz42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pw99gv/mcp_a_deep_dive/</guid>
+      <pubDate>Fri, 26 Dec 2025 17:07:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>U-主题-0 | https://u-topic-0.com/</title>
       <link>https://www.reddit.com/r/programming/comments/1pw4r9v/utopic0_httpsutopic0com/</link>
-      <description><![CDATA[大家好， 我希望你们都度过了一个愉快的圣诞假期。 我和我的一个朋友启动了一个招聘项目，该项目会根据开发人员的经验和偏好（基本工资、远程/现场/混合和地点）筛选工作机会，显示最合适的开发人员来填补他们的空缺。 基本上，我们希望优化招聘并为开发人员和开发人员节省时间。目前，该平台提供自动简历（翻译成 4 种语言：PT/ES/ENG/FR）和计算器，您可以在其中粘贴职位空缺的链接，并获得匹配百分比以及与您的个人资料相关的职位空缺摘要。 我们已成功地使用相应的个人资料自动筛选 Teamlyzer 上的空缺职位，以便当您想查看新机会时，平台会向您显示最合适的职位空缺 此功能旨在让开发人员更轻松地寻找新机会，甚至无需寻找新机会。 到 2026 年，真正的职位空缺将开始出现，不仅在伊比利亚，而且在世界其他地方，如果有适合您的职位空缺，我们会与您联系。 我们还准备了接受实习的平台，这将帮助许多应届毕业生 finish their studies and find internships in their preferred areas of IT. We will also add: A feature for those who are willing to relocate if it is necessary to be present at the workplace. Improved design to make it cleaner. Points system and much more. I hope the platform helps the community and optimises it. Excellent entries for everyone. 成功地自动化了Teamlyzer上可用的职位空缺筛选过程以及相应的个人资料，以便当您想查看新的机会时，平台会显示 由程序员为程序员制作。 （如果您有兴趣在平台上免费发布职位空缺，请发送私信）。   由   提交/u/LuckyMind07  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我希望你们都度过了一个愉快的圣诞假期。 我和我的一个朋友启动了一个招聘项目，该项目会根据开发人员的经验和偏好（基本工资、远程/现场/混合和地点）筛选工作机会，显示最合适的开发人员来填补他们的空缺。 基本上，我们希望优化招聘并为开发人员和开发人员节省时间。目前，该平台提供自动简历（翻译成 4 种语言：PT/ES/ENG/FR）和计算器，您可以在其中粘贴职位空缺的链接，并获得匹配百分比以及与您的个人资料相关的职位空缺摘要。 我们已成功地使用相应的个人资料自动筛选 Teamlyzer 上的空缺职位，以便当您想查看新机会时，平台会向您显示最合适的职位空缺 此功能旨在让开发人员更轻松地寻找新机会，甚至无需寻找新机会。 到 2026 年，真正的职位空缺将开始出现，不仅在伊比利亚，而且在世界其他地方，如果有适合您的职位空缺，我们会与您联系。 我们还准备了接受实习的平台，这将帮助许多应届毕业生完成学业，并在自己喜欢的 IT 领域找到实习机会。 我们还将添加： 为那些需要在工作场所工作而愿意搬迁的人提供的功能。 改进设计，使其更清洁。 积分系统等等。 我希望该平台能够帮助社区并对其进行优化。 对每个人来说都是优秀的参赛作品。 成功地自动化了Teamlyzer上可用的职位空缺筛选过程以及相应的个人资料，以便当您想查看新的机会时，平台会显示 由程序员为程序员制作。 （如果您有兴趣在平台上免费发布职位空缺，请发送私信）。   由   提交/u/LuckyMind07  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pw4r9v/utopic0_httpsutopic0com/</guid>
       <pubDate>Fri, 26 Dec 2025 13:51:02 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/itsunclexo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pvkb3f/the_hidden_power_of_nexttick_setimmediate_in/</guid>
       <pubDate>Thu, 25 Dec 2025 19:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>编译器是你最好的朋友，别再欺骗它了</title>
-      <link>https://www.reddit.com/r/programming/comments/1pvjtcb/the_compiler_is_your_best_friend_stop_lying_to_it/</link>
-      <description><![CDATA[ 由   提交/u/n_creep  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pvjtcb/the_compiler_is_your_best_friend_stop_lying_to_it/</guid>
-      <pubDate>Thu, 25 Dec 2025 18:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>lwlog 1.5.0 发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1pviztk/lwlog_150_released/</link>
-      <description><![CDATA[自上次发布以来的新增内容：  许多稳定性/边缘情况问题已得到修复 记录器现已在 vcpkg 中提供，以便于集成  剩下要做的事情：  添加 Conan 包装 添加 FMT支持（？） 更新 spdlog 的基准并添加与更多记录器的比较（自自述文件中显示的基准以来，性能已经提高了很多） 重写模式格式化（计划在 1.6.0 中完成，大部分已完成，请参阅 pattern_compiler 分支，我计划下个月发布） - 该模式由一个小型编译器解析一次，然后生成一组字节码指令（文字、字段、颜色）代码）。在每次日志调用时，记录器都会执行这些指令，并通过附加指令生成的结果来生成最终消息。这完全消除了每个日志调用模式扫描、strlen 调用以及用于替换和插入的内存移位。这会对性能产生巨大影响，使同步和异步日志记录比以前更快。  如果您能看一下并分享您的批评、反馈或任何类型的想法，我将非常荣幸。我相信这个库对您很有用   由   提交/u/ChrisPanov  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pviztk/lwlog_150_released/</guid>
-      <pubDate>Thu, 25 Dec 2025 18:06:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
