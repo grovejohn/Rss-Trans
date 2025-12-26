@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 25 Dec 2025 21:12:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 00:48:36 GMT</lastBuildDate>
+    <item>
+      <title>考虑创建一个应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pvr1jj/thinking_about_creating_an_app/</link>
+      <description><![CDATA[基本上，我想了解您心中有哪些尚未开始实施或已经在实施的想法。 我将开始。我计划设计和开发用于管理自助洗衣店的软件，例如特定于业务的 ERP。它将包括客户管理、忠诚度计划、库存和资产管理，以及处理优先客户或快递服务。 我的灵感来自于我工作地点附近经常使用的自助洗衣店。他们根据您是否自带清洁剂来收费。我正在考虑什么软件可以跟踪洗衣情况，甚至提供订阅和自助服务选项。它将包括 RFID 访问控制和用户通知。 我仍然需要整理一下东西，但我有点迷失了。也许您也可以给我一些关于如何组织我的开发想法的建议。   由   提交/u/Tito_Gamer14  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pvr1jj/thinking_about_creating_an_app/</guid>
+      <pubDate>Fri, 26 Dec 2025 00:35:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合基于服务的业务（预订+付款）的最佳网站建设者？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pvqj3m/best_website_builder_for_a_servicebased_business/</link>
+      <description><![CDATA[我经营一家小型服务企业，我正在尝试找出构建网站而不使事情过于复杂的最佳方法。  我研究过 Wix 和 Squarespace，但我一直想知道是否有一个可靠的免费网站构建器或免费网站创建选项真正适用于服务业务。 我需要的主要东西： – 在线预订 – 卡支付 – 无需雇用开发人员即可轻松编辑 我还看到了很多帖子，内容是如果您不再需要 Wix 或Squarespace，这让我紧张。  对于那些已经经历过这种情况的人来说，如果你从头开始，你今天会选择什么？   由   提交 /u/Weird-Director-2973   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pvqj3m/best_website_builder_for_a_servicebased_business/</guid>
+      <pubDate>Fri, 26 Dec 2025 00:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该使用 JWT 作为我的软件的许可证吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pvpyc7/should_i_use_jwts_as_licenses_for_my_software/</link>
+      <description><![CDATA[我不断听到人们说使用 JWT 来获得许可。为什么 JWT 是处理软件许可的好方法？   由   提交/u/qorzzz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pvpyc7/should_i_use_jwts_as_licenses_for_my_software/</guid>
+      <pubDate>Thu, 25 Dec 2025 23:40:39 GMT</pubDate>
+    </item>
     <item>
       <title>为网络项目构建了一个轻量级图像压缩工具 - 寻求反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/1pvmhg5/built_a_lightweight_image_compression_tool_for/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我最终从本月早些时候获得的一笔交易中获得了一些未使用的线性 1 年积分。我不再需要它们了，而且它们很快就会过期，所以我想我应该把它们送给那些想要改进项目+任务工作流程的人。 Linear 确实简化了我的计划+日常工作流程。不要让积分过期，而是将它们提供给那些真正会使用它们来保持组织和更快交付的人。 如果您想要一个，只需评论“感兴趣”即可或者私信我，我会发送详细信息。   由   提交/u/Signal_Tax241   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pv73bu/anyone_using_linear_ive_got_a_couple_1year/</guid>
       <pubDate>Thu, 25 Dec 2025 06:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>团队如何在现有前端堆栈上获得可爱级别的迭代速度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pv56wn/how_are_teams_getting_lovablelevel_iteration/</link>
-      <description><![CDATA[像 Lovable / Base44 这样的工具可以让你清楚地看到，当你刚开始时，迭代的速度有多快。 但是我知道的大多数团队都在使用 PR 审查、CI 等来处理现有的前端存储库。 人们如何处理前端变更，以便： - 迭代保持快速 - PR 纪律保持完整 -工作不会成为一个人的瓶颈 好奇实际情况如何。 （上下文：我们经营一家小型网络机构。）   由   提交 /u/decrypter   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pv56wn/how_are_teams_getting_lovablelevel_iteration/</guid>
-      <pubDate>Thu, 25 Dec 2025 04:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS：如何使 <option> 标签具有这样的潜文本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pv4sd5/css_how_can_i_make_an_option_tag_have_subtext/</link>
-      <description><![CDATA[      我在设置选项标签样式时遇到问题，因为我无法将 span 或 div 放入  内。    由   提交/u/DesignerMusician7348  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pv4sd5/css_how_can_i_make_an_option_tag_have_subtext/</guid>
-      <pubDate>Thu, 25 Dec 2025 04:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 mquickjs 的小型 Zig JavaScript 运行时 - 这有用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pv2alt/small_zig_javascript_runtime_based_on_mquickjs/</link>
-      <description><![CDATA[      不是作者我只是觉得它看起来很酷，想听听其他人的想法   由   提交/u/PoisnFang  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pv2alt/small_zig_javascript_runtime_based_on_mquickjs/</guid>
-      <pubDate>Thu, 25 Dec 2025 01:31:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
