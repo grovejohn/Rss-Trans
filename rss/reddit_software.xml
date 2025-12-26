@@ -4,9 +4,23 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 26 Dec 2025 06:17:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 09:14:00 GMT</lastBuildDate>
     <item>
-      <title>更新内容</title>
+      <title>由于某种原因无法批量导入 需要帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1pvxl78/cant_bulk_import_for_some_reason_help_needed/</link>
+      <description><![CDATA[ 由   提交/u/Educational_Sand_568   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pvxl78/cant_bulk_import_for_some_reason_help_needed/</guid>
+      <pubDate>Fri, 26 Dec 2025 06:29:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有可能让 Windows 忽略屏幕上的损坏区域？</title>
+      <link>https://www.reddit.com/r/software/comments/1pvx9u4/is_it_possible_to_make_windows_ignore_a_broken/</link>
+      <description><![CDATA[ 由   提交 /u/Hunder-Man   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pvx9u4/is_it_possible_to_make_windows_ignore_a_broken/</guid>
+      <pubDate>Fri, 26 Dec 2025 06:10:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新</title>
       <link>https://www.reddit.com/r/software/comments/1pvqmlu/updates/</link>
       <description><![CDATA[可以下载各种项目的更新（例如手机或笔记本电脑）并稍后安装在其他设备上吗？任何喜欢无人机的人都会知道它们被禁止进口，并且想要将更新下载到存储设备，以便稍后安装在我可能想要购买的无人机中。 这可能吗？   由   提交 /u/HillsOfArk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1pvqmlu/updates/</guid>
@@ -32,6 +46,20 @@
       <description><![CDATA[我和这个人有类似的问题和话要说：u/M97F 这篇文章：https://www.reddit.com/r/software/comments/sr189o/realtek_audio_is_the_biggest_piece_of_crap_ever/ ，但我也有自己的问题，我真的不想在这里解释一下，因为我担心没有人会读它，所以有人保证可以帮助我吗？ （简言之：我有新的 razer Deathadder v2 x 耳机，一个 3.5 毫米插孔是白色/绿色（用于音频），我将其插入主板绿色 3.5 毫米端口的背面，将粉色插孔插入已连接的 3.5 毫米粉色麦克风，但就像我一直在尝试设置它并获得了新的音频设备一样：“（有点不知道，我像个白痴一样将其重命名为：“应该是razer 耳机”) 7.1 环绕声”和“内部 AUX 插孔（7.1 环绕声）”，但是当我尝试切换到其中一个设备时，我没有听到任何音频...并且猜猜我必须切换到哪个设备才能使耳机工作？我只是想切换到 Razer 耳机/耳麦，将其设为我的默认音频设备，关闭并删除所有其他设备，因为出于某种原因，我有一大堆其他 REALTEK 设备，但现在却出现了“麦克风”问题，我有 5 个该死的其他设备，它们不是麦克风，它可能应该是“麦克风（Razer 耳机）”或类似的东西，但你猜怎么着？ “麦克风（realtek 音频（设备？））”甚至无法正常工作，但当我在团队中使用它时，它突然无法正常工作，谢谢。    提交 [链接]   href=&quot;https://www.reddit.com/r/software/comments/1pvgpu6/realtek_is_the_biggest_piece_of_crap_ever_made/&quot;&gt;[评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1pvgpu6/realtek_is_the_biggest_piece_of_crap_ever_made/</guid>
       <pubDate>Thu, 25 Dec 2025 16:20:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个免费的开源 Windows Starter 应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1pvf61l/i_built_a_free_opensource_windows_starter/</link>
+      <description><![CDATA[ https://preview.redd.it/ga0xqn0z6d9g1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=f8b758060fa31b210ec0597a8f675fa162e5b089 问题 每次重新启动后（尤其是在反复断电期间）重新打开相同的应用程序和工作选项卡是浪费时间，因此我构建了一个小型开源 Windows 工具来自动恢复我的工作设置。 它的作用  选择要在启动时启动的应用程序 添加要自动打开的 URL 列表 支持“配置文件”针对不同的项目/工作流程（测试版）  反馈 您希望这样的启动/工作流程工具具有哪些功能（条件、调度、延迟、每个项目的配置文件等）？ 来源：https://github.com/quantdev/starter-application   由   提交 /u/devNguyenSutor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pvf61l/i_built_a_free_opensource_windows_starter/</guid>
+      <pubDate>Thu, 25 Dec 2025 15:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个免费的开源 Windows Starter 应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1pvexoe/i_built_a_free_opensource_windows_starter/</link>
+      <description><![CDATA[ https://preview.redd.it/t5ofwm386d9g1.png?width=1918&amp;format=png&amp;auto=webp&amp;s=299c77b00ef7e56958de96e2852b4227045f2edb 问题 作为一名跨多个项目工作的自由职业者，每次启动电脑时，我都必须记住并打开一堆不同的应用程序和任务。有一天，我们在 15 分钟内停电 3 次，我不得不一遍又一遍地重新打开所有东西 - 这非常令人沮丧。我尝试使用脚本，但它们对用户不友好，所以我构建了一个小应用程序，以便在 Windows 启动时自动打开我需要的所有内容。 Idea  添加我在工作中经常使用的应用程序和浏览器 URL - 这样每次我启动计算机时，它都会自动启动这些应用程序并打开链接。 我还初始化了一些工具：剪贴板历史记录（已发布）、自动化提供程序套件（即将推出）即将），网络请求检查（即将推出）。  链接  测试版： https://github.com/quantdev/starter-application/releases/tag/v1.0.0-beta.3 （下载 EXE 并运行它）  注意 由于这是一个 Windows 应用程序，并且仍处于测试阶段（我尚未购买代码签名证书），Windows SmartScreen 很有可能会显示警告。如果发生这种情况，请点击更多信息 → 仍然运行。 反馈 我正在计划更多有用的工具，例如自动化流程和网络请求检查 - 非常感谢您的支持和反馈。如果您有任何想要看到的工具想法，请随时发表评论，我可以考虑添加它们   由   提交 /u/devNguyenSutor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1pvexoe/i_built_a_free_opensource_windows_starter/</guid>
+      <pubDate>Thu, 25 Dec 2025 14:52:38 GMT</pubDate>
     </item>
     <item>
       <title>正在寻找辅导软件。</title>
@@ -62,13 +90,6 @@
       <pubDate>Thu, 25 Dec 2025 07:30:52 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个免费且开源的 Windows YT 下载器，因为其中大多数都感觉很可疑</title>
-      <link>https://www.reddit.com/r/software/comments/1pv7ge1/i_built_a_free_opensource_windows_yt_downloader/</link>
-      <description><![CDATA[我是一名独立开发者，我厌倦了充满广告、虚假按钮、弹出窗口和令人困惑的选项的 YT 下载器，尤其是对于非技术用户而言。 因此，我构建了 Pica - 一款适用于 Windows 的免费开源 YT 下载器，专注于简单、信任和易用性。 Pica 的重点是： 干净、无干扰的用户界面（方便非技术用户） 简单的质量列表（144p → 4K，无重复） 一个清晰的纯音频选项 内置浏览器扩展，可从 YT 一键下载 带有缩略图的本地库，按频道分组，如离线 YT 无广告，无需登录，无跟踪 我最初是为自己构建的，但现在分享它是为了获得真实的用户反馈，特别是来自那些喜欢干净简单工具的人的反馈。 项目链接：https://sourceforge.net/projects/pica-yt-downloader/   由   提交 /u/mshezikhan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1pv7ge1/i_built_a_free_opensource_windows_yt_downloader/</guid>
-      <pubDate>Thu, 25 Dec 2025 06:50:32 GMT</pubDate>
-    </item>
-    <item>
       <title>在屏幕录像机不断失败后尝试了不同的方法</title>
       <link>https://www.reddit.com/r/software/comments/1pv4qw8/tried_a_different_approach_after_screen_recorders/</link>
       <description><![CDATA[我一直遇到屏幕录像机的问题。延迟、音频问题或剪辑损坏。我想要供个人使用的离线副本，而不是播放录音。我发现了一个名为 CleverGet 的工具并对其进行了测试。它没有录制屏幕，而是直接拉取视频。结果看起来比我的屏幕截图更干净并且节省了时间。设置感觉很简单，我不需要调整设置。我仍在测试它，但是从录制到直接下载的切换解决了我一段时间以来遇到的问题。很好奇这里的其他人是否尝试过这样的工具或坚持使用屏幕录制。   由   提交 /u/Independent-Suit-923   [链接] [评论]]]></description>
@@ -88,27 +109,6 @@
       <description><![CDATA[问候！ 我即将处理约 500 GB 的混乱文件（PDF、Markdown、MP3、图像、重复的黑曜石库、旧的 Google 云端硬盘备份、佛法书籍/文章/音频、研究/文档）。 我涵盖了重复的查找器和重命名器，但希望有任何建议是任何可以加快排序速度的工具。 显然，我可以使用纯粹的资源管理器拖动 + F2 重命名或编写一个 Python 拖放应用程序，但想知道是否有人会推荐哪些工具，或者什么工作流程 我注意到一些工具  DeClutter (GitHub) – 现代带标签/规则的 GUI Organize (GitHub) – 强大的基于 Python 的规则 DropIt – 经典的浮动目标图标  可以设置复杂的规则，向 Python CLI 工具开放。您可以建议一次性付费选项，但我认为我无法组织，所以免费是最好的。 其他工作流程 有人在 2025 年清理过这样的大烂摊子吗？您当前最喜欢的明显比手动更快/更好的是什么？ 或者，如果您只使用手动，有什么建议吗。 祝愿您一切顺利  更新 - u/Fret_Less 提到的所有内容都会有所帮助 - 我还记得看到过这个对话关于在 Windows 中使用标签。 - 我注意到 AI 文件排序器   由   提交/u/Helpful-Dhamma-Heart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1pv2ghb/windows_11_file_organization_best_free_file/</guid>
       <pubDate>Thu, 25 Dec 2025 01:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我将构建最热门评论所说的构建内容</title>
-      <link>https://www.reddit.com/r/software/comments/1pv201t/ill_build_whatever_the_top_comment_says_to_build/</link>
-      <description><![CDATA[放弃一个应用程序创意，我不在乎有多令人发指。得到最多点赞的评论就是我要构建的内容。 好吧，开始吧。   由   提交/u/CivilStudio1896  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1pv201t/ill_build_whatever_the_top_comment_says_to_build/</guid>
-      <pubDate>Thu, 25 Dec 2025 01:13:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>从网站下载电影</title>
-      <link>https://www.reddit.com/r/software/comments/1puzp4i/download_film_from_site/</link>
-      <description><![CDATA[嗨！我想从这个网站下载https://www.filmas.lv/nkc30-2/#monotonija这部电影。你知道怎么做吗？   由   提交/u/StillDistribution478  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1puzp4i/download_film_from_site/</guid>
-      <pubDate>Wed, 24 Dec 2025 23:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的手机总是与 WiFi 断开连接，不知道为什么</title>
-      <link>https://www.reddit.com/r/software/comments/1puzib3/my_phone_keeps_disconnecting_from_the_wifi_and/</link>
-      <description><![CDATA[我的手机随机决定不再需要 wifi，我需要关闭然后再次打开 wifi，以便它可以再次连接，我不知道为什么。 我距离它不到 10m（一层楼）并且它不断这样做。我们最近（大约 6 个多月前）获得了新的 wifi，从那时起它就一直这样做。我相信现在的无线网络比我们原来的无线网络更好。我能想到为什么它这样做的唯一原因是在同一个 wifi 上做太多事情（我的笔记本电脑、1 台电脑、4-5 部手机和几乎从未使用过的 ps 4）。我哥哥说同样的事情也发生在他身上 我相信我使用的是Android，充电器是USB C，手机是Redmi Note和14 5G，我认为操作系统是xaomi 忘记补充一点，我可能无法做太多事情，因为我和父母住在一起（我16岁）而且我不懂技术，也许最多可以尝试让我哥哥做这件事   由   提交/u/sunny2_0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1puzib3/my_phone_keeps_disconnecting_from_the_wifi_and/</guid>
-      <pubDate>Wed, 24 Dec 2025 22:55:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
