@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 26 Dec 2025 09:14:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Dec 2025 12:19:36 GMT</lastBuildDate>
+    <item>
+      <title>WPF/MVVM 彩票分析项目：图表、表格和性能说明（屏幕截图库）</title>
+      <link>https://www.reddit.com/r/programming/comments/1pw1vrp/wpfmvvm_lottery_analytics_project_charts_tables/</link>
+      <description><![CDATA[嗨 r/programming， 我一直在构建 LotoAnalyzer，这是一个 Windows 桌面分析应用程序（WPF / MVVM、.NET Framework 4.8），专注于探索彩票抽奖中的真实随机性（图表、热图、 “间隙矩阵”、频率+理论叠加等）。对我来说，有趣的部分不是彩票本身，而是围绕数据摄取、存储、同步和检测的工程。 技术堆栈  客户端： WPF + MVVM、.NET Framework 4.8 (C# 7.3)、Syncfusion 图表 后端： ASP.NET IIS (Windows Server)、SQL Server、JWT 身份验证背后的核心 数据：每彩票 JSON 缓存 + 每帐户保存，使用迁移工具  我发现技术上有趣的内容  多彩票存储架构：数据通过以下方式隔离彩票密钥 (Lotteries/{lottery-key}/...)，而用户特定内容位于 Accounts/{AccountId}/... 下。这使得添加彩票变得更加容易，而不会发生冲突（并启用每个彩票的服务器同步）。 具有后备源的模块化数据摄取：每个彩票的提供者 + 缓存；设计使客户端即使在上游源不稳定或延迟时也可以可靠地提取数据。 生成器保存的跨设备同步：服务器“逻辑密钥”是（UserId，LotteryKey，Name），具有软删除支持；客户端同步解决了与最后写入获胜策略的冲突。 为低UI开销而设计的遥测：以NDJSON形式编写的事件，每5秒批量刷新，崩溃日志包括面包屑；构建这样我就可以在优化之前调试性能并了解实际使用模式。 性能/UX 限制： 页面被缓存；我必须避免对全局事件（例如语言更改）进行昂贵的重新计算，并仅更新 UI 文本，从而将繁重的工作推迟到页面被访问为止。  如果这听起来很有趣，我可以分享：  高级架构图 + 文档 具体实现细节（存储布局、同步协议、遥测格式） 构建“严肃的”WPF 应用程序的经验教训2025 年  我希望得到反馈的问题：  这种规模的 WPF MVVM 应用程序的长期可维护性的最佳实践 遥测管道选择（NDJSON → 服务器存储/分析） 随着时间的推移发展同步协议的安全方法  项目统计信息（快照：11 月） 2025 年 2 月 28 日）： - 583 个文件，~101,739 LOC（客户端 + 后端 + 测试/安装工具） - 细分：~52k C#； ~17.6k XAML； ~14.5k RESX；约 11.1k 文档 作为独立项目构建，历时约 3 个月（86 天），使用 Windsurf IDE 进行 AI 辅助。   由   提交/u/Pure-Cycle7176   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pw1vrp/wpfmvvm_lottery_analytics_project_charts_tables/</guid>
+      <pubDate>Fri, 26 Dec 2025 11:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>华硕 ROG 笔记本电脑因设计而损坏：法医深度剖析</title>
+      <link>https://www.reddit.com/r/programming/comments/1pw1vf1/asus_rog_laptops_are_broken_by_design_a_forensic/</link>
+      <description><![CDATA[华硕 ROG 笔记本电脑在出厂时将 PCI-SIG 规范违规硬编码到 UEFI 固件中。这不是 Windows 错误，也不是驱动程序错误。 已确认受影响的型号  2022 Strix Scar 15 2025 Strix Scar 16 可能有更多 ROG 型号共享相同固件  违规： PCI-SIG ECN 第 17 页指出：  “必须在两个端口中编程相同的值。”  但是，ASUS UEFI 对 L1.2 时序进行编程每次启动时阈值不正确： CPU 根端口：LTR_L1.2_THRESHOLD = 765us NVIDIA GPU：LTR_L1.2_THRESHOLD = 0ns  后果： GPU 和 CPU 在睡眠退出时序上不一致，导致 PCIe 链路在电源转换期间不同步。 症状：  WHEA 0x124 崩溃 黑屏 系统挂起 驱动程序不稳定（症状因平台而异）  状态： 此问题已于 24 天前报告给华硕工程部，内容为完整的寄存器转储和取证分析。最新固件中仍然存在不匹配问题。 我将在下面发布完整的取证报告，以便其他用户和工程师可以自行验证寄存器值。 根据 17 U.S.C. 发布用于互操作性分析。 1201(f)。   由   提交/u/ZephKeks  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pw1vf1/asus_rog_laptops_are_broken_by_design_a_forensic/</guid>
+      <pubDate>Fri, 26 Dec 2025 11:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Memora，Claude Code 的 MCP 内存服务器。</title>
+      <link>https://www.reddit.com/r/programming/comments/1pw19ed/memora_an_mcp_memory_server_for_claude_code/</link>
+      <description><![CDATA[它为任何 MCP 客户端（Claude、codex 等）提供在会话中幸存的持久内存，以及具有焦点模式的实时知识图（单击节点以突出显示其连接）。每当记忆发生变化时，图表就会通过 SSE 自动刷新。 语义搜索使用 TF-IDF、句子转换器或 OpenAI 嵌入，通过含义（而不仅仅是关键字）查找相关记忆。自动构建交叉引用。 主要功能： - 跨会话持久记忆 - 知识图+焦点模式 - 实时更新（SSE） - **语义+混合搜索**（基于含义，不仅仅是关键字） - 相关记忆之间的自动交叉引用 - 重复检测（85%+相似度） - 问题/TODO跟踪状态 -云同步（S3/R2） - Neovim 集成 演示和代码： GitHub：https://github.com/agentic-mcp-tools/memora 欢迎反馈！    由   提交 /u/spokv   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pw19ed/memora_an_mcp_memory_server_for_claude_code/</guid>
+      <pubDate>Fri, 26 Dec 2025 10:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找工作的开发人员的市场</title>
+      <link>https://www.reddit.com/r/programming/comments/1pw1824/a_marketplace_for_developers_looking_for_a_job/</link>
+      <description><![CDATA[Reddit 的人们，节日快乐🎄  在过去的几周里，我与几位软件工程师交谈过，他们长期以来一直在努力寻找工作，但没有成功。因此，我意识到，不幸的是，这些假期对我们中的一些人来说并不那么快乐。这很糟糕。这种挣扎是真实存在的，发现自己长期失业可能会对您的福祉非常不利。  与我交谈的所有人都是优秀的、充满热情的开发人员，但他们的工作环境变坏了，他们被抛在了一边。尽管他们愿意做一些工作来证明自己的价值并获得关注和雇用，但他们不知道从哪里开始。  所以我设想了一个市场，将他们与需要帮助的创始人联系起来。它可能无法为任何人提供直接收入，但它可以建立通向这一目标的桥梁。至少它将人们的努力集中在有用的事情上。  Wdyt 有这样的工具吗？您会使用它吗？如果您对这个想法产生共鸣，我会在 benchyz.com 上开设等候名单。   由   提交/u/Alarmed-Two2410   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pw1824/a_marketplace_for_developers_looking_for_a_job/</guid>
+      <pubDate>Fri, 26 Dec 2025 10:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>植物识别器和健康扫描应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1pw0d40/plant_identifier_health_scan_app/</link>
+      <description><![CDATA[https://apps.apple.com/us/app/ai-plant-doctor/id6756007352   由   提交/u/Far_Pen_2812   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1pw0d40/plant_identifier_health_scan_app/</guid>
+      <pubDate>Fri, 26 Dec 2025 09:30:57 GMT</pubDate>
+    </item>
     <item>
       <title>Stack Overflow 开发者调查 2025：人工智能不会取代开发者，但它正在改变谁获胜</title>
       <link>https://www.reddit.com/r/programming/comments/1pvxhj4/stack_overflow_dev_survey_2025_ai_isnt_replacing/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/n_creep  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1pvjtcb/the_compiler_is_your_best_friend_stop_lying_to_it/</guid>
       <pubDate>Thu, 25 Dec 2025 18:43:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>lwlog 1.5.0 发布</title>
-      <link>https://www.reddit.com/r/programming/comments/1pviztk/lwlog_150_released/</link>
-      <description><![CDATA[自上次发布以来的新增内容：  许多稳定性/边缘情况问题已得到修复 记录器现已在 vcpkg 中提供，以便于集成  剩下要做的事情：  添加 Conan 包装 添加 FMT支持（？） 更新 spdlog 的基准并添加与更多记录器的比较（自自述文件中显示的基准以来，性能已经提高了很多） 重写模式格式化（计划在 1.6.0 中完成，大部分已完成，请参阅 pattern_compiler 分支，我计划下个月发布） - 该模式由一个小型编译器解析一次，然后生成一组字节码指令（文字、字段、颜色）代码）。在每次日志调用时，记录器都会执行这些指令，并通过附加指令生成的结果来生成最终消息。这完全消除了每个日志调用模式扫描、strlen 调用以及用于替换和插入的内存移位。这会对性能产生巨大影响，使同步和异步日志记录比以前更快。  如果您能看一下并分享您的批评、反馈或任何类型的想法，我将非常荣幸。我相信这个库对您很有用   由   提交/u/ChrisPanov  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pviztk/lwlog_150_released/</guid>
-      <pubDate>Thu, 25 Dec 2025 18:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>日志记录很糟糕 - 以下是如何让它变得更好。</title>
-      <link>https://www.reddit.com/r/programming/comments/1pvfxpn/logging_sucks_and_heres_how_to_make_it_better/</link>
-      <description><![CDATA[ 由   提交/u/paxinfernum  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pvfxpn/logging_sucks_and_heres_how_to_make_it_better/</guid>
-      <pubDate>Thu, 25 Dec 2025 15:42:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>超越 Sonic Pi：Tau5 和人工智能编码艺术 • Sam Aaron</title>
-      <link>https://www.reddit.com/r/programming/comments/1pvemkw/beyond_sonic_pi_tau5_the_art_of_coding_with_ai/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pvemkw/beyond_sonic_pi_tau5_the_art_of_coding_with_ai/</guid>
-      <pubDate>Thu, 25 Dec 2025 14:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaFX & MySQL 中的用户管理系统</title>
-      <link>https://www.reddit.com/r/programming/comments/1pvdey6/user_management_system_in_javafx_mysql/</link>
-      <description><![CDATA[我正在使用 JavaFX 和 MySQL 创建一个用户管理系统，涵盖数据库设计、角色和信息。权限和实际实施。 在 YouTube 上观看： 第 1 部分 | JavaFX 中的用户管理系统MySQL |解释数据库图和在 MySQL 中实现 作为分步视频系列分享给学生和 Java 开发人员。 欢迎提供反馈   由   提交/u/Substantial-Log-9305   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pvdey6/user_management_system_in_javafx_mysql/</guid>
-      <pubDate>Thu, 25 Dec 2025 13:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>揭开 3D 图形神秘面纱的一个公式</title>
-      <link>https://www.reddit.com/r/programming/comments/1pvbxtr/one_formula_that_demystifies_3d_graphics/</link>
-      <description><![CDATA[ 由   提交/u/Chii  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1pvbxtr/one_formula_that_demystifies_3d_graphics/</guid>
-      <pubDate>Thu, 25 Dec 2025 11:59:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
