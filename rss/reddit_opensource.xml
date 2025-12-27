@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 26 Dec 2025 21:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Dec 2025 03:51:50 GMT</lastBuildDate>
+    <item>
+      <title>自定义搜索设置同步状态？为什么还没有进入审核阶段？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pwjosu/custom_search_settings_sync_status_why_is_it_not/</link>
+      <description><![CDATA[       由   提交 /u/CaptainStack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pwjosu/custom_search_settings_sync_status_why_is_it_not/</guid>
+      <pubDate>Sat, 27 Dec 2025 00:29:18 GMT</pubDate>
+    </item>
     <item>
       <title>RapydShare - 在 PC 和移动设备之间共享文件变得容易。</title>
       <link>https://www.reddit.com/r/opensource/comments/1pwetse/rapydshare_sharing_files_between_pc_and_mobile/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>决定将我的第一个 WordPress 插件开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1pw8nx2/decided_to_go_opensource_for_my_first_wordpress/</link>
-      <description><![CDATA[大家好， 只是想分享我构建的一个名为 SimpleBar 的 WordPress 插件。它是管理栏和侧面菜单的定制器，允许您更改颜色、隐藏项目、添加您自己的自定义链接 - 所有这些都可以通过拖动和拖动来完成。删除重新排序和基于角色的视图。它是完全免费（永久）和开源的。 SimpleBar 是我使用 WordPress 构建网站大约 15 年之后的第一个公共 WordPress 插件。 管理栏总是让我烦恼 - 太混乱，角色之间太不一致，并且现有的解决方案感觉过于强大或不透明。我想要一些轻量级、可视化且一目了然的东西。 我主要是为了自己的工作流程构建这个，然后意识到其他人可能会欣赏针对同一问题的干净、开源的方法。如果您使用 WordPress，您就会知道，在插件方面，它和“开源”不能很好地结合在一起，所以我希望这很有用。 非常欢迎提供反馈、想法和贡献。 WordPress 插件目录列表 https://wordpress.org/plugins/simplebar-admin-bar-customiser/。插件主页此处。 GitHub 存储库此处。   由   提交 /u/Separate_Refuse5922   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 只是想分享我构建的一个名为 SimpleBar 的 WordPress 插件。它是管理栏和侧面菜单的定制器，允许您更改颜色、隐藏项目、添加您自己的自定义链接 - 所有这些都可以通过拖动和拖动来完成。删除重新排序和基于角色的视图。它是完全免费（永远）和开源的。 SimpleBar 是我使用 WordPress 构建网站大约 15 年之后的第一个公共 WordPress 插件。 管理栏总是让我烦恼 - 太混乱，角色之间太不一致，并且现有的解决方案感觉过于强大或不透明。我想要一些轻量级、可视化且一目了然的东西。 我主要是为了自己的工作流程构建这个，然后意识到其他人可能会欣赏针对同一问题的干净、开源的方法。如果您使用 WordPress，您就会知道，在插件方面，它和“开源”不能很好地结合在一起，所以我希望这很有用。 非常欢迎提供反馈、想法和贡献。 WordPress 插件目录列表 https://wordpress.org/plugins/simplebar-admin-bar-customiser/。插件主页此处。 GitHub 存储库此处。   由   提交 /u/Separate_Refuse5922   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pw8nx2/decided_to_go_opensource_for_my_first_wordpress/</guid>
       <pubDate>Fri, 26 Dec 2025 16:42:57 GMT</pubDate>
     </item>
     <item>
       <title>我为 Instagram/TikTok 风格的垂直视频源构建了一个小型开源 React 组件</title>
       <link>https://www.reddit.com/r/opensource/comments/1pw8csy/i_built_a_small_opensource_react_component_for/</link>
-      <description><![CDATA[大家好， 我想分享一个我一直在从事的小型开源项目：react-riyils。 我构建这个项目是因为我找不到一个干净、专注且可定制的开源解决方案，可以在网络上提供 Instagram/TikTok 风格的垂直视频体验，并正确处理真正的浏览器限制。 目标是让事情保持简单和正确，而不是华而不实或华而不实。过度设计。 该项目侧重于： - 垂直滑动导航 - 全屏视频查看器 - 确定性播放行为 - 智能视频预加载和内存管理 - 移动和桌面支持 - TypeScript 优先、可读代码 这是一个业余爱好项目，不是生产规模的 TikTok 基础设施，但我试图保持代码小巧且易于理解。 非常欢迎反馈、问题和 PR。 GitHub：https://github.com/illegal-instruction-co/react-riyils npm：https://www.npmjs.com/package/react-riyils 感谢您的查看。   由   提交 /u/Humble-Plastic-5285   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我想分享一个我一直在从事的小型开源项目：react-riyils。 我构建这个项目是因为我找不到一个干净、专注且可定制的开源解决方案，可以在网络上实现 Instagram/TikTok 风格的垂直视频体验，并正确处理真正的浏览器限制。 目标是让事情保持简单和正确，而不是华而不实或华而不实。过度设计。 该项目侧重于： - 垂直滑动导航 - 全屏视频查看器 - 确定性播放行为 - 智能视频预加载和内存管理 - 移动和桌面支持 - TypeScript 优先、可读代码 这是一个业余爱好项目，不是生产规模的 TikTok 基础设施，但我试图保持代码小巧且易于理解。 非常欢迎反馈、问题和 PR。 GitHub：https://github.com/illegal-instruction-co/react-riyils npm：https://www.npmjs.com/package/react-riyils 感谢您的查看。   由   提交 /u/Humble-Plastic-5285   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pw8csy/i_built_a_small_opensource_react_component_for/</guid>
       <pubDate>Fri, 26 Dec 2025 16:30:24 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[嗨，我为小型企业制作了这个完全基于网络的 POS 应用程序。如何？  这是我的仓库：https://github.com/mashiyathilias-code/Ironclad-POS    由   提交 /u/MashiatILias   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pvyai4/ironclad_pod/</guid>
       <pubDate>Fri, 26 Dec 2025 07:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[项目展示] Git Rewind：您的 GitHub 代码年</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pvumt6/project_showcase_git_rewind_your_github_year_in/</link>
-      <description><![CDATA[我为 GitHub 构建了一个 Spotify Wrapped 风格的年度回顾 我整理了一个名为 Git Rewind 的小型副项目。 它会查看您这一年的 GitHub 活动并将其转换为可滚动的回顾。诸如活跃天数、连续记录、语言、PR 以及您何时倾向于编码之类的事情。 这意味着反思性且有趣。不是排行榜。 它是免费且开源的，一旦生成页面，它就不会保留您的数据。  应用程序：https://git-rewind.dev 来源：https://github.com/mikelane/git-rewind  这最初是我为自己做的。一些朋友非常喜欢它，所以我清理了它并决定分享它。好奇这里的人怎么想，或者是否有什么感觉不必要的。   由   提交/u/Aromatic_Pumpkin8856   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pvumt6/project_showcase_git_rewind_your_github_year_in/</guid>
-      <pubDate>Fri, 26 Dec 2025 03:42:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
