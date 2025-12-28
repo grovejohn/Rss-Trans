@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 27 Dec 2025 21:10:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 00:55:26 GMT</lastBuildDate>
+    <item>
+      <title>[PYTHON] Syncord：使用 Discord 作为加密文件存储。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pxa1eq/python_syncord_using_discord_as_an_encrypted_file/</link>
+      <description><![CDATA[      它允许您将文件或整个目录上传到 Discord，在本地对其进行加密和分区（因为 Discord 有 8MB 上传限制），然后安全地下载和重建它们；全部通过简单的命令行界面或可选的 TUI 仪表板完成。 我这个项目的主要动机是仅使用不和谐作为我的备份存储，同时保持所有上传的文件/文件夹加密。我看到了一些已经存在的项目，但他们强调让它在网络服务器上运行，我个人希望它能在命令行端运行，这样我就可以通过将它放入我的 PATH 中来随时使用它。 仍然需要一些工作，例如 exe 的徽标和升级 python 版本。 你们对此有何看法？你会使用这样的东西吗？ PS：发行说明上附有一个视频，介绍它的外观和功能。   由   提交 /u/ResetWasTaken   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pxa1eq/python_syncord_using_discord_as_an_encrypted_file/</guid>
+      <pubDate>Sat, 27 Dec 2025 22:08:18 GMT</pubDate>
+    </item>
     <item>
       <title>我想分享的新启动器应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1px5uze/new_launcher_app_i_want_to_share/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/CaptainStack   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pwjosu/custom_search_settings_sync_status_why_is_it_not/</guid>
       <pubDate>Sat, 27 Dec 2025 00:29:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>RapydShare - 在 PC 和移动设备之间共享文件变得容易。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pwetse/rapydshare_sharing_files_between_pc_and_mobile/</link>
-      <description><![CDATA[      我厌倦了搜索优秀的本地无线共享应用程序，并且不想通过云存储上传文件。所以，我希望它能有所帮助。我欢迎所有贡献者。通过无线网络将文件从您的 PC（目前为 Windows）无缝传输到您的移动设备。   由   提交/u/Mael2830  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pwetse/rapydshare_sharing_files_between_pc_and_mobile/</guid>
-      <pubDate>Fri, 26 Dec 2025 20:57:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
