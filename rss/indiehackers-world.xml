@@ -4,7 +4,15 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 28 Dec 2025 12:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 15:11:40 GMT</lastBuildDate>
+    <item>
+      <title>为什么世界需要一款新的移动阅读应用</title>
+      <link>https://feed.indiehackers.world/post/2ccfb7a247</link>
+      <description><![CDATA[作为一名开发人员和一名读者，我多年来一直因阅读不为读者构建的应用程序而感到沮丧。 2025 年中：我决定构建我真正想要的应用程序。 justRead 尊重您的书籍、您的数据、您的阅读体验。这就是我构建它的原因。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/2ccfb7a247</guid>
+      <pubDate>Sun, 28 Dec 2025 08:40:37 GMT</pubDate>
+    </item>
     <item>
       <title>我不再集思广益创业想法——这对我来说效果更好</title>
       <link>https://feed.indiehackers.world/post/0a517e990a</link>
@@ -199,19 +207,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/c37cbb4bfd</guid>
       <pubDate>Sat, 20 Dec 2025 20:36:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建人们每天使用 50 多次的工具的经验教训</title>
-      <link>https://feed.indiehackers.world/post/81546537c8</link>
-      <description><![CDATA[• 节省时间比花哨的功能更重要
-• 首先询问用户。稍后构建。
-
-我们没有追逐想法。
-我们修复了日常疼痛。
-您可以查看以下网站：https://www.slashit.app/
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/81546537c8</guid>
-      <pubDate>Sat, 20 Dec 2025 06:15:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
