@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 28 Dec 2025 00:55:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 04:06:20 GMT</lastBuildDate>
+    <item>
+      <title>我为独立开发者和初创公司构建了一个免费的 React Table。没有什么比点击付费墙更烦人的了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxgc5j/i_built_a_free_react_table_for_solo_devs_and/</link>
+      <description><![CDATA[      嘿 r/webdev，我正在分享我的周六炫耀之旅，因为我想分享我的进展并获得反馈。一年多前，我在一个业余项目中需要一张表，并在尝试使用不同的 React Table/Grid 库时遇到了几个付费墙。很生气，我决定建立自己的。  我 7 个月前发布到这个 Reddit 子版块并得到了很多有用的反馈。我已经实施了一切，现在有许多个人和公司使用我的桌子。尽管如此，我的待办事项清单已经完成，我希望获得一些新的观点。我现在应该添加什么？ 如果您想查看我的表格 https://www.simple-table.com 开源存储库 https://github.com/petera2c/simple-table 链接到第一个帖子  https://www.reddit.com/r/webdev/comments/1l0hpyv/i_couldnt_afford_ag_grids_1000_fees_so_i_built_my/   由   提交/u/peter120430  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxgc5j/i_built_a_free_react_table_for_solo_devs_and/</guid>
+      <pubDate>Sun, 28 Dec 2025 02:58:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是给自由职业者的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxfoa6/this_one_is_for_freelancers/</link>
+      <description><![CDATA[我曾经靠这样的招聘网站谋生。 那时候你可以真正与人联系，而不是与算法对抗。 然后这些平台变得贪婪。 他们埋葬了真正的人才，推动付费系统，把自由职业变成了一场逐底竞争。 Vanslist 的存在是因为我怀念旧的互联网，我知道我在不是唯一的。   由   提交/u/2000luisluis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxfoa6/this_one_is_for_freelancers/</guid>
+      <pubDate>Sun, 28 Dec 2025 02:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个具有跨窗口物理特性的网络/野蛮主义组合（在选项卡之间扔元素！）。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxe97n/i_built_a_cyberbrutalist_portfolio_with/</link>
+      <description><![CDATA[大家好，​我刚刚发布了我的新作品集，想与大家分享。我的目标是“黑客/终端”美学与现代交互式网络功能的结合。​最酷的功能？如果您在两个单独的窗口中并排打开该站点，则可以获取“数据磁盘”并将其从一个窗口扔到另一个窗口。它使用 LocalStorage 事件来同步坐标并保持跨浏览器实例的动力。​功能：​交互式终端（ls 查看项目）。​隐藏的复活节彩蛋（尝试 Konami 代码）。​移动视差&amp;触觉反馈。​控制台中隐藏的 ASCII 艺术。​建造起来真是太棒了。在桌面上工作效果最佳！让我知道您对我的网站的想法！​链接：https://dualsfwshield.be   由   提交 /u/Accomplished_Crow974   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxe97n/i_built_a_cyberbrutalist_portfolio_with/</guid>
+      <pubDate>Sun, 28 Dec 2025 01:18:49 GMT</pubDate>
+    </item>
     <item>
       <title>在 Bootstrap 中，我可以使容器仅在一侧“流体”吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1pxdbir/in_bootstrap_can_i_make_a_container_fluid_on_only/</link>
@@ -50,16 +71,9 @@
     <item>
       <title>带有表单字段的 Django HTML/CSS - css 是如何工作的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1pxampd/django_htmlcss_with_form_fields_how_does_css_work/</link>
-      <description><![CDATA[我有一个使用 django 呈现的表单，并将表单中的几个字段放入 HTML 模板中。当我使用  时为了环绕每个表单字段和每个表单字段标签，我还为 div 指定了“field-item”类。然后，我尝试编辑 css 文件以使用 100px 的 margin-bottom，只是为了看看它是否有效，但边距永远不会改变。 当我使用 &lt;p&gt; div 内的包装器，并分配 那么保证金就起作用了。 css 不应该仅与 div 包装一起使用吗？ 这是 html 代码的片段  {{ form.name.label }} ;  {{ form.name }} ;  {{ form.description.label }} ;  {{ form.description }}  {{ form.name.label }} ;  {{ form.name }} ;  {{ form.description.label }} ;  {{ form.description }} ;  这是我拥有的完整 CSS 代码。因此，除了 field-item 之外，CSS 代码中没有其他部分会更改边距。 nav { background-color: grey;颜色: 白色;字体大小：2.5rem； } .field-item { 边距底部：100; }    由   提交 /u/Fiboniz   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个使用 django 呈现的表单，并将表单中的几个字段放入 HTML 模板中。当我使用  时为了环绕每个表单字段和每个表单字段标签，我还为 div 指定了“field-item”类。然后，我尝试编辑 css 文件以使用 100px 的 margin-bottom，只是为了看看它是否有效，但边距永远不会改变。 当我使用 &lt;p&gt; div 内的包装器，并分配 那么保证金就起作用了。 css 不应该仅与 div 包装一起使用吗？ 这是 html 代码的片段  {{ form.name.label }} ;  {{ form.name }} ;  {{ form.description.label }} ;  {{ form.description }} ;  这是我拥有的完整 CSS 代码。因此，除了 field-item 之外，CSS 代码中没有其他部分会更改边距。 nav { background-color: grey;颜色: 白色;字体大小：2.5rem； } .field-item { 边距底部：100; }    由   提交 /u/Fiboniz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pxampd/django_htmlcss_with_form_fields_how_does_css_work/</guid>
       <pubDate>Sat, 27 Dec 2025 22:34:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe 编码免费资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pxalf7/vibe_coding_free_resources/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pxalf7/vibe_coding_free_resources/</guid>
-      <pubDate>Sat, 27 Dec 2025 22:32:38 GMT</pubDate>
     </item>
     <item>
       <title>认识 1UP 项目！使用 React 和 Gemini AI 构建的具有 RPG 风格的游戏化个人理财</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[      我沉迷于国际象棋和 Wordle，所以我决定追求自己的愿景，将两者结合到一个游戏中： Matle 这是一个每日谜题，您可以在真实的游戏将死位置中发现 5 个隐藏的方格。 ♟️ 工作原理：  您看到一个带有将死位置的棋盘，但隐藏了 5 个方格。 您必须猜测这些方格上有什么 - 棋子或空的。 仅接受合法将死作为猜测。  反馈系统：  🟩 - 绿色 – 正确棋子和位置 🟨 - 黄色 – 正确棋子，但位置错误 ⬜ - 灰色 –不正确的片段  🔗 在这里试试： https://matle.io 我很想听听你的想法！任何反馈或想法将不胜感激。   由   提交/u/matle-game   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1px91zq/i_built_matle_for_chess_and_wordle_lovers_would/</guid>
       <pubDate>Sat, 27 Dec 2025 21:25:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>圣诞节前你见过的最受诅咒的 Web 开发堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1px8qc7/the_most_cursed_web_development_stack_youd_ever/</link>
-      <description><![CDATA[虽然圣诞节已经过去了... https://m.youtube.com/watch?v=dGAZMQrVW9s   由   提交/u/CommentGood2935  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1px8qc7/the_most_cursed_web_development_stack_youd_ever/</guid>
-      <pubDate>Sat, 27 Dec 2025 21:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个简单的网络应用程序，可以每秒跟踪您的收入。您还可以将您的老板和泰勒·斯威夫特添加到无限画布中，实时查看差距</title>
-      <link>https://www.reddit.com/r/webdev/comments/1px8gcf/i_built_a_simple_web_app_that_tracks_your_income/</link>
-      <description><![CDATA[      “老板赚一美元，我赚一毛钱，这就是我在公司时间拉屎的原因”。 最后，有一种方法可以准确地了解我在 12.3 分钟的上厕所时间里赚了多少钱。 内置了一些愚蠢的人工智能功能。功能，这样您就可以将您的滴答率与亚马逊等公司或泰勒·斯威夫特等人或公司首席执行官进行比较，而无需进行查找。它还具有人工智能“职业洞察力”按钮，本质上是烤你的薪水，并为你提供如何让数字移动得更快等方面的提示。 毫无疑问，所有这些都是免费的。这是链接： https://venue-grid.com/   由   提交/u/Synfinium  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1px8gcf/i_built_a_simple_web_app_that_tracks_your_income/</guid>
-      <pubDate>Sat, 27 Dec 2025 20:59:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

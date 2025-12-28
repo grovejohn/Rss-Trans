@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 28 Dec 2025 00:55:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 04:06:30 GMT</lastBuildDate>
+    <item>
+      <title>即使我不知道，我也会充满自信地说话。即使我错了，我听起来也是对的。我回答得很快，却忘了证明自己。我是什么。当我不躺下时，你怎么抓住我。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pxhh3r/i_speak_with_confidence_even_when_i_dont_know_i/</link>
+      <description><![CDATA[ 由   提交 /u/adithyasrivatsa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pxhh3r/i_speak_with_confidence_even_when_i_dont_know_i/</guid>
+      <pubDate>Sun, 28 Dec 2025 03:54:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是 NASA 和红帽的资深人士。我构建了 Acquacotta：一个使用 Google Sheets 作为数据库的纯开源 Pomodoro 系统。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pxglw6/im_a_veteran_of_nasa_and_red_hat_i_built/</link>
+      <description><![CDATA[大家好， 在开源世界工作了二十年——从 NASA 的工程人员到 Red Hat 的领导层——我看到太多伟大的生产力工具走上了“开放核心”的道路。或“SaaS 化”。我厌倦了将我的重点数据锁定在订阅或专有云后面的工具。 我将 Acquacotta 打造为专业级的“反 SaaS”应用程序。番茄钟系统。 为什么我保持它纯粹开源：  没有商业版本： 没有“专业版”。付费版本的层级或隐藏路线图。这是一个出于对系统的热爱而建立的激情项目。我想要一个可以作为社区永久实用程序存在的工具。 数据主权（Google 表格后端）：它不是专有数据库，而是将每个会话实时记录到您的个人 Google 表格。您拥有基础架构，您可以控制架构，并且无需“导出”架构。  隐私第一：没有跟踪，没有帐户，也没有“打电话回家”的功能。与您的专注习惯有关。 “高级用户”功能集： * 声学聚焦：可选的“60 分钟”时间风格滴答声作为流动的巴甫洛夫触发器。  物理计时器支持：一种专用模式，可从触觉硬件（如 Hexagon 计时器）即时记录会话。 倦怠预防：视觉“每日分钟目标”帮助您找到可持续的节奏，而不会陷入倦怠循环。   我为工程师、经理和数据迷构建了这个工具，他们希望将自己的生产力视为一个数据科学项目，而不仅仅是一系列警报。 GitHub：https://github.com/fatherlinux/Acquacotta 尝试托管版本：https://acquacotta.crunchtools.com:8443 我很乐意从社区获得一些反馈，尤其是有关 Google 的反馈Sheets 集成和离线优先的 SQLite 缓存架构。   由   提交/u/fatherlinux   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pxglw6/im_a_veteran_of_nasa_and_red_hat_i_built/</guid>
+      <pubDate>Sun, 28 Dec 2025 03:11:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 0 个用户 → 2 天 176 个用户 → 4 天 261 个用户（还是感觉不真实）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pxfzk1/from_0_users_176_in_2_days_261_users_in_4_days/</link>
+      <description><![CDATA[这个开源项目最初是为了解决我在进入开源领域时遇到的问题。我创建它是因为我在苦苦挣扎，而不是因为我在追求增长。 在过去的几天里，它以某种方式增长到： 2 天内 176 个用户 4 天内 261 个用户 没有广告。没有炒作。只是构建、修复和交付。 最让我高兴的是看到它帮助其他刚刚开始开源贡献之旅的人。 如果你想尝试一下：Issuefinder.fun 我愿意接受所有反馈、支持和建议——无论好坏。感谢每一个使用它的人❤️   由   提交 /u/_techsavvy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pxfzk1/from_0_users_176_in_2_days_261_users_in_4_days/</guid>
+      <pubDate>Sun, 28 Dec 2025 02:41:14 GMT</pubDate>
+    </item>
     <item>
       <title>[PYTHON] Syncord：使用 Discord 作为加密文件存储。</title>
       <link>https://www.reddit.com/r/opensource/comments/1pxa1eq/python_syncord_using_discord_as_an_encrypted_file/</link>
@@ -25,13 +46,6 @@
       <description><![CDATA[厌倦了 YouTube 短片中的第五季剧透，因此构建了一个根据关键字模糊内容的扩展程序 希望贡献和建议 仓库链接：https://github.com/Ashwin-S-10/Content-Shield   由   提交/u/Late_Shock_4691   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1px2ymp/contentshield_extension/</guid>
       <pubDate>Sat, 27 Dec 2025 17:12:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理受限区域中Google基于区域的访问问题（开源工具）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1px1yy5/dealing_with_google_regionbased_access_issues_in/</link>
-      <description><![CDATA[在技术是人类进步支柱的时代，数字制裁继续造成“数字鸿沟”。由于严格的区域限制和  403 Forbidden  今天，我们很自豪地宣布在全球正式发布Antigravity Cleaner v4.1.0（Shell 版）。 我们的使命很简单：无论身在何处，每个人都应该能够获得技术知识和开发工具。 应对全球挑战的专用套件 Antigravity Cleaner 是一款轻量级跨平台优化引擎，旨在消除阻止开发人员访问自由开放互联网的数字指纹和区域锁定。 v4.1.0 的主要功能版本：  🌍 通用兼容性： 现在针对 Windows、macOS 和 Linux 进行了全面优化（通过 PowerShell/pwsh）。 🛡️ 无依赖架构： 作为本机 Shell 脚本从头开始重建。执行不需要 Python 或外部运行时。 🎯 高级区域检查： 自动诊断工具可识别并重新关联 Google 帐户区域，绕过“不合格”区域。状态。 🧼 系统级清理： 深度扫描并删除导致持久安装冲突的本地化跟踪器和缓存数据。 🔒 以隐私为中心的设计： 在零遥测政策下运行。您的数据永远不会离开您的系统；所有优化均在本地执行。  入门 我们优先考虑易于访问。您可以使用以下命令直接从终端部署最新版本的 Antigravity Cleaner： powershelliwr https://raw.githubusercontent.com/tawroot/antigravity-cleaner/main/install.ps1 -useb | iex  支持运动 维护一个跨平台工具来应对不断变化的制裁需要付出专门的努力。我们的项目是开源且社区驱动的。您可以通过以下方式支持我们的图形套件 (v5.0) 路线图：  为存储库加注星标：帮助我们提高受限区域开发人员的可见性。 社区反馈：在我们的 GitHub 讨论中报告问题或建议功能。  使用开发工具是一项人权。加入我们，在别人筑墙的地方架起桥梁。 官方文档： tawroot.github.io/antigravity-cleaner GitHub 存储库： github.com/tawroot/antigravity-cleaner #DigitalFreedom #GlobalDev #OpenSource #AntiSanction #TechEquality #GoogleDeveloper #AntigravityIDE #v4.1.0   由   提交/u/tawanamohammadi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1px1yy5/dealing_with_google_regionbased_access_issues_in/</guid>
-      <pubDate>Sat, 27 Dec 2025 16:32:40 GMT</pubDate>
     </item>
     <item>
       <title>我为弗吉尼亚州劳登县的人们制作了一个污染报告应用程序</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/GritSar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pws27x/turning_pdfs_into_ragready_data_pdfstract_cli_api/</guid>
       <pubDate>Sat, 27 Dec 2025 07:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 上 WhatsApp 的替代客户端？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pwrstw/alternative_client_for_whatsapp_on_windows/</link>
-      <description><![CDATA[Windows 上的 WhatsApp 客户端应用程序非常糟糕。以前是 UWP，现在是 Electron，而且几乎在各个方面都更糟糕。他们发布了一个半成品的应用程序。网页版也不好。有什么好的替代方案吗？   由   提交/u/InternalVolcano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pwrstw/alternative_client_for_whatsapp_on_windows/</guid>
-      <pubDate>Sat, 27 Dec 2025 07:22:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义搜索设置同步状态？为什么还没有进入审核阶段？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pwjosu/custom_search_settings_sync_status_why_is_it_not/</link>
-      <description><![CDATA[       由   提交 /u/CaptainStack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pwjosu/custom_search_settings_sync_status_why_is_it_not/</guid>
-      <pubDate>Sat, 27 Dec 2025 00:29:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
