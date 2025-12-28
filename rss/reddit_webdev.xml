@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 28 Dec 2025 15:11:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 18:16:41 GMT</lastBuildDate>
+    <item>
+      <title>关于域名注册的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxx7gr/advice_on_domain_registration/</link>
+      <description><![CDATA[我目前通过 GoDaddy 注册了一些域名。据我记忆，续订费似乎非常高（+ 50 美元）。我的想法是否正确，我可以转移到另一个更便宜的注册商？我已经有一段时间没有做过类似的事情了。对其他注册商有什么建议吗？    由   提交/u/blackstar5676  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxx7gr/advice_on_domain_registration/</guid>
+      <pubDate>Sun, 28 Dec 2025 17:37:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了为副项目寻找“实际上免费”的托管服务，所以我编制了 100 多个服务的主列表！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxx5a1/i_got_tired_of_hunting_for_actually_free_hosting/</link>
+      <description><![CDATA[大家好， 像你们大多数人一样，我有一个文件夹，里面装满了半完成的副项目。我非常沮丧地试图记住哪些服务仍然提供像样的免费套餐，特别是在 Heroku 杀死了他们的服务并且其他服务不断改变他们的限制之后。 我上周末进行了深入研究，以验证现在（2025/2026 年底）实际工作的内容，并将其全部组织到一个存储库中。 列表涵盖：  前端/静态：通常的嫌疑人（Vercel、Netlify），但也有一些可靠的替代方案，例如 Cloudflare Pages 和 Surge。 后端（Node/Docker）：实际上可以让您免费部署容器的位置（Railway、Render、Fly 等），并注明哪些容器“休眠”。  数据库：Postgres（Supabase、Neon）、MySQL (PlanetScale) 和 NoSQL 的免费套餐。 VPS：“永远免费”的服务。云（Oracle、Google、AWS）需要更多配置，但可以为您提供原始计算。 AI/GPU： 我添加的新部分用于托管小型 LLM 或 Python 笔记本，因为这现在已成为标准要求。  我试图严格遵守这一点，不提供“免费试用”。 14 天后过期，仅适用于爱好者和学生的真正免费套餐。 这里是存储库： https://github.com/iSoumyaDey/Awesome-Web-Hosting-2026 如果您知道任何隐藏的宝石或我错过了最近更改了定价的服务，请在评论中告诉我，我会更新它。希望这可以帮助您节省一些谷歌搜索的时间！   由   提交/u/SoumyadeepDey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxx5a1/i_got_tired_of_hunting_for_actually_free_hosting/</guid>
+      <pubDate>Sun, 28 Dec 2025 17:35:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turbo Dither - 免费、快速、注重隐私的图像抖动 Web 应用程序（第 2 部分）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxw7t4/turbo_dither_free_fast_privacyfocused_image/</link>
+      <description><![CDATA[      Turbo Dither - 免费、快速且注重隐私的图像抖动应用程序。使用 NextJs、Bun 和 webworkers 构建。一切都在浏览器中，没有广告，没有帐户创建，没有 AI 溢出，只是纯粹的算法图像处理。 自从我在这里分享 Turbo Dither 已经一个月了，我每天都在根据大家的反馈努力使其变得更好。能够以 70% 的跳出率吸引 1000 个访问我的页面的用户（有点像预期的）。 我添加的非常酷的新功能： - 自定义调色板：您可以添加自己的颜色或简单地根据输入图像的主色生成调色板。 - 开发人员导出类型：C 和 Rust 标头，适用于图像和 GIF，以便您可以集成到自己的项目中。 - 后处理效果：您可以对您的图像应用像素排序、CRT 扫描线和 RGB 毛刺效果。 - 实时相机抖动：您可以打开网络摄像头并实时抖动自己并录制视频。 - 胸骨扫描：您可以根据 LSB 编码对图像中的秘密消息进行编码/解码。 - 绘画和图像处理选择工具：如果您不想绘制整个图像，或者您想混合不同的算法或调色板，则可以使用绘制模式来实现。 即将推出的功能：音频反应抖动、“绘图仪”功能。 / 矢量导出 (SVG)、3D 体素挤出视图。 对于更多图像，我制作了一个画廊来展示：turbodither.com/gallery 如果您有任何问题或反馈，请随时发表评论或发送 DM。   由   提交/u/Adiaksznics   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxw7t4/turbo_dither_free_fast_privacyfocused_image/</guid>
+      <pubDate>Sun, 28 Dec 2025 16:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要 webdev 人员的建议和观点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxvr7d/need_an_advice_and_perspective_from_someone_in/</link>
+      <description><![CDATA[你好， 我刚刚成立了一个小型设计工作室，专注于图形设计和印刷工作。我的团队目前只有三个人。其中两人有设计背景，我是动画出身。我们已经有了第一批客户，一切看起来都充满希望，但是： 我们一直在讨论如何让我们的工作室保持最新状态，并可能转向 3D Web 开发和交互式 Web 体验。我之所以被这个领域所吸引，是因为它似乎为创造力和实验提供了充足的空间（动画长期以来一直在努力解决这一问题）。也就是说，我对这个行业不太熟悉，所以很好奇现在的实际情况是什么样的？您认为未来几年网络开发的发展方向是什么？ 谢谢您，并感谢所有诚实的回答！   由   提交 /u/bukowski_t   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxvr7d/need_an_advice_and_perspective_from_someone_in/</guid>
+      <pubDate>Sun, 28 Dec 2025 16:39:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于 HTTP 负载测试的新工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxvd9i/new_tool_for_http_load_testing/</link>
+      <description><![CDATA[感谢您对 http://zoyla.app 的诚实意见，这是我为简单快速的 HTTP 负载测试而构建的免费工具。它可能不会像病毒一样疯狂传播，但它仍然可以解决少数人的问题。 它的作用：HTTP 负载测试，没有膨胀。您粘贴一个 URL，点击“开始”，然后查看您的网站在流量下的承受情况。就是这样。 我构建它的原因：大多数负载测试工具要么过于复杂，无法进行快速检查，要么被锁定在付费墙后面。当我只需要知道我的 API 是否会在压力下崩溃时，我想要一个可以在 10 秒内使用的东西。  免费使用 无需注册 适用于基本 HTTP/HTTPS 端点 显示响应时间、成功率、错误代码和其他指标  尝试一下，打破它，告诉我什么糟糕。我正在积极致力于此并乐于接受反馈。   由   提交 /u/Main_Independent_579   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxvd9i/new_tool_for_http_load_testing/</guid>
+      <pubDate>Sun, 28 Dec 2025 16:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建开源 Vercel 替代方案 — 您会使用/贡献吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxv8hp/building_an_opensource_vercel_alternative_would/</link>
+      <description><![CDATA[在看到价值 9.6 万美元的 Cara 事件和无数有关 Vercel 定价的帖子后，我正在探索构建一个更简单、更便宜的部署平台。 想法：  Git-push 部署（Next.js、Vite、Astro 等） 统一定价（约 7-15 美元/月）- 否每个席位，没有令人意外的账单 自托管或托管云选项 预览部署、自定义域、自动 SSL  不尝试竞争：  边缘功能无处不在 v0/AI 功能 企业合规性（初始）  问题你：  你真的会为此从 Vercel 切换过来吗？ 让你付费的排名第一的功能是什么？ 如果它是开源的，你会做出贡献吗？  我真的会在构建之前尝试进行验证。讨论这个想法或告诉我缺少什么。   由   提交 /u/terdia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxv8hp/building_an_opensource_vercel_alternative_would/</guid>
+      <pubDate>Sun, 28 Dec 2025 16:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>友情提醒，新年将至</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pxugkn/friendly_reminder_with_the_new_year_approaching/</link>
+      <description><![CDATA[随着新的一年的临近，不要忘记更新所有不同网站上的版权页脚。 /s   由   提交/u/brycematheson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pxugkn/friendly_reminder_with_the_new_year_approaching/</guid>
+      <pubDate>Sun, 28 Dec 2025 15:47:54 GMT</pubDate>
+    </item>
     <item>
       <title>速率限制器如何保护您的系统免遭滥用！</title>
       <link>https://www.reddit.com/r/webdev/comments/1pxthzy/how_rate_limiter_protect_your_system_from_abuse/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[只是为了好玩   由   提交/u/0xformic  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pxnsdi/i_built_a_dumb_text_only_twitter_clone/</guid>
       <pubDate>Sun, 28 Dec 2025 10:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了嘈杂的图表工具，所以我制作了一个干净的 PlantUML + Mermaid 一个，需要添加更多渲染器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pxnkhv/got_tired_of_noisy_diagram_tools_so_i_made_a/</link>
-      <description><![CDATA[      我经常使用 plantuml 或 mermaid 来绘制简单的原理图，使用 LLM 生成图表。我更喜欢PlantUml，因为它提供了更多类型的图表，但我找不到令我满意的工具。所以我创建了一个，它实现了在本地存储中保存多个图表。您还可以导出文本文件中的图表以及以 svg 或 png 形式呈现的图表，并通过 url 共享它们。 您可以在此处使用它：https://udiagram.com 我希望您发现它很有用。我计划实现一些功能，例如添加登录区域以将文件保存在帐户中，与现在的浏览器本地主机相比，并且能够共享更大的图表。或者也许使用谷歌驱动器或保管箱。我还想添加 graphwiz 和一些 llm 来帮助修复和创建图表。   由   提交/u/adiian  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pxnkhv/got_tired_of_noisy_diagram_tools_so_i_made_a/</guid>
-      <pubDate>Sun, 28 Dec 2025 09:45:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么家乐氏在麦片上印上可爱的人物</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pxn395/why_kelloggs_prints_cute_characters_in_their/</link>
-      <description><![CDATA[      吉祥物为产品赋予了“某人”而不是“某物”。每个应用程序都是同一组屏幕（仪表板、设置、空状态、入门……），一个小角色让人感觉背后有一种氛围和声音。它将无聊的 UX 变成了“哦，是的，那个应用程序带有鸭子形状的鸟。” 构建了一个免费的、麻省理工学院许可的吉祥物库：一致的 SVG 字符，具有大量用于入门、空状态和文档的姿势。没有归属。下载/重新混合/商业使用。  欢迎反馈：https://svgapp.ai/mascots    由   提交 /u/Xyz3r   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pxn395/why_kelloggs_prints_cute_characters_in_their/</guid>
-      <pubDate>Sun, 28 Dec 2025 09:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 oxlint 插件来限制函数复杂性（圈和认知）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pxmrjn/i_built_an_oxlint_plugin_for_limiting_function/</link>
-      <description><![CDATA[      oxlint-plugin-complexity 有两个规则：max-cyclomatic 和 max-cognitive。 关键功能是提供可操作的错误消息。您得到的不仅仅是“函数太复杂”，而是完整的复杂性细分，因此您确切地知道要重构什么。 ``` 函数“processData”的认知复杂度为 6。[if: +5, for...of: +1] ``` 复杂性逻辑也导出为 API，因此您可以在其之上构建自己的工具。 GitHub：github.com/itaymendel/oxlint-plugin-complexity npm：oxlint-plugin-complexity 欢迎反馈！ 注释：  SonarSource 在eslint 规则包。这是一个定制的实现，具有 MIT 许可的可操作错误消息，惩罚递归函数，并使用 oxc-praser 来提高性能。 也可用于在 AI 生成的代码以不可维护的复杂性污染您的代码库之前捕获它。  （编辑 - 移至 markdown）   由   提交 /u/itaymendi   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pxmrjn/i_built_an_oxlint_plugin_for_limiting_function/</guid>
-      <pubDate>Sun, 28 Dec 2025 08:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为宝石和珠宝构建了一个网络应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pxmi4l/i_built_one_web_app_for_gem_and_jewelry/</link>
-      <description><![CDATA[分享我过去 45 天一直在构建的项目。 功能： • 宝石定价工具 • 珠宝可视化 • 社区式互动 https://gemsmakers.com 仅分享，不进行自我推销。我需要建议    由   提交/u/gemsmakers  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pxmi4l/i_built_one_web_app_for_gem_and_jewelry/</guid>
-      <pubDate>Sun, 28 Dec 2025 08:36:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试浏览器游戏的基于滚动的界面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pxm821/experimenting_with_a_scrollbased_interface_for/</link>
-      <description><![CDATA[      我一直在尝试一种交互想法： 如果浏览器游戏像垂直提要而不是菜单一样工作会怎样？ 我（和一位开发朋友，我是用户体验专家）建立了一个小网站，您可以在其中滚动并立即玩迷你游戏（乒乓球、国际象棋、战舰等）。无需安装，无需注册，只需滚动→播放→滚动。 这主要是一个要测试的用户体验实验：  滚动对于交互式内容是否有意义 如果人们更喜欢“即时游戏”而不是从菜单中选择 对于休闲游戏来说摩擦力有多大  希望特别从网络/用户体验角度提供反馈：  交互是否有效模型感觉自然吗？ 什么超出了预期？ 在技术上或用户体验方面有什么问题吗？  链接：https://arcadedoom.live 谢谢！   由   提交/u/ParacosmPro   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pxm821/experimenting_with_a_scrollbased_interface_for/</guid>
-      <pubDate>Sun, 28 Dec 2025 08:18:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 Chrome 扩展来替换“应用程序”选项卡（JSON 树编辑器、Cookie 和 IndexedDB 管理器 + 云同步）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pxl0j4/i_built_a_chrome_extension_to_replace_the/</link>
-      <description><![CDATA[       https://preview.redd.it/hs3k6eaquv9g1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=48beabc34ddb336f45dd79d5170cbab5f35d92eb 大家好， 我一直在开发一个工具来修复我的工作流程中一直让我烦恼的部分：在 Chrome 中管理 LocalStorage、SessionStorage、Cookies 和 IndexedDB。 默认的 DevTools 可以做很多事情，但“Application”功能却很糟糕。选项卡感觉被忽视了。  LocalStorage 值被视为原始字符串（调试 [object Object] 或缩小的 JSON 是一场噩梦）。 IndexedDB 管理基本上不存在（您无法轻松创建存储或导入/导出数据）。 测试多个用户帐户意味着不断清除站点数据或处理隐身窗口。  因此，我构建了Easy Local Storage Manager来解决此问题。 它完全替代了存储管理窗格。它的功能如下： 主要功能 1.正确的 JSON 编辑器（树视图 + 语法突出显示） 它不是编辑原始字符串，而是将 LocalStorage、SessionStorage 解析为交互式树。您可以编辑键、更改数据类型（例如，字符串 → 布尔值）以及在嵌套对象内部进行深入搜索。 2.完整的 IndexedDB 管理 这是一件大事。大多数工具都会忽略 IndexedDB。  从 UI 创建新的数据库和对象存储。 轻松添加、编辑和删除记录。 导入/导出：您可以将整个 IndexedDB 数据库转储到 JSON 文件并稍后恢复（对于调试离线优先的应用程序来说非常大）。  3.用户配置文件（上下文切换） 如果您测试具有多个用户角色（例如管理员与用户）的应用，这可以节省大量时间。  您可以将当前存储状态（Cookies + LocalStorage + SessionStorage）保存为“配置文件”。 切换配置文件会自动擦除当前存储并注入保存的数据。 结果：立即切换用户帐户，无需手动登录/退出。  4.云同步&amp;访问共享 您可以跨设备同步存储状态（端到端加密）。它允许您“传送”从一个浏览器到另一个浏览器的登录会话进行测试。 技术堆栈 我使用 Svelte 和 Chrome Extension Manifest V3 API 构建了这个。它使用免费增值模式（编辑器/搜索/导入/导出等核心功能是免费的；Cloud Sync 是付费的），但默认情况下完全离线运行。 链接 网站：https://easylocalstorage.dev Chrome 应用商店： https://chromewebstore.google.com/detail/cnmpfamlolfgahjambofnemellgdddia Firefox 插件： https://addons.mozilla.org/firefox/addon/easy-local-storage-manager/ 我很想听听您的反馈，特别是关于 IndexedDB 功能的反馈 - 构建起来相当棘手！ 干杯！   由   提交 /u/nhrtrix   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pxl0j4/i_built_a_chrome_extension_to_replace_the/</guid>
-      <pubDate>Sun, 28 Dec 2025 07:04:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个免费的 Latex 简历生成器 需要反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pxjozi/built_a_free_latex_resume_generator_need_feedback/</link>
-      <description><![CDATA[我构建此生成器是为了在批量申请时针对我的个人工作流程，即：  打开职位描述 浏览多个选项卡来定制我的简历 从选项卡复制并下载 pdf  每个职位大约需要 5-6 分钟。 使用此生成器，填写基本信息后简历，看起来像：  复制职位描述 选择要重写的项目符号，甚至可以是空项目符号 AI 根据职位重写选定的项目符号，甚至填充空的项目符号 下载 pdf  每个职位最多需要 30 秒。帮助我获得了很多意想不到的面试机会。 它是免费的，但人工智能有每日费率限制，因为人工智能的使用很昂贵。希望社区喜欢它，我正在寻求反馈。 链接： https://latex-resume-app.anoncoder.workers.dev/    由   提交 /u/PreparationAny8816   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pxjozi/built_a_free_latex_resume_generator_need_feedback/</guid>
-      <pubDate>Sun, 28 Dec 2025 05:49:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
