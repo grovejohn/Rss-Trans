@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 29 Dec 2025 12:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Dec 2025 15:14:06 GMT</lastBuildDate>
+    <item>
+      <title>syntux - 为网络构建生成 UI。现在可以串流了！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pynty4/syntux_build_generative_uis_for_the_web_now/</link>
+      <description><![CDATA[       由   提交 /u/Possible-Session9849   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pynty4/syntux_build_generative_uis_for_the_web_now/</guid>
+      <pubDate>Mon, 29 Dec 2025 14:36:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>开始根据我的实际产品颜色制作我的模型背景，它看起来好多了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pynou9/started_making_my_mockup_backgrounds_from_my/</link>
+      <description><![CDATA[      用于抓取随机渐变或未飞溅的图像作为模型背景 看起来不错，但从未感觉有凝聚力 尝试了一些不同的东西：从我的应用程序屏幕截图中提取主要颜色，从中生成渐变，将其用作背景 突然一切都匹配。看起来是故意的，而不是拼凑在一起 微小的变化但巨大的差异。好奇其他人是否做了类似的事情   由   提交/u/Academic-Yam3478  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pynou9/started_making_my_mockup_backgrounds_from_my/</guid>
+      <pubDate>Mon, 29 Dec 2025 14:30:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想用 HTML/CSS 创建浮动图像网格。我怎样才能做到这一点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pyn43d/i_want_to_create_floating_images_grid_in_htmlcss/</link>
+      <description><![CDATA[      我想在 HTML/CSS 中创建一个浮动图像网格，就像下面提到的参考站点一样，您可以单击左上角的菜单栏来查看。我尝试自己使用 chatgpt 来做到这一点，但无法创建完全一样的 提前致谢 无限菜单背景动画 | Codrops   由   提交/u/Super-Adagio4795   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pyn43d/i_want_to_create_floating_images_grid_in_htmlcss/</guid>
+      <pubDate>Mon, 29 Dec 2025 14:05:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blazor 组件的免费版本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pymt6x/free_version_of_our_blazor_components/</link>
+      <description><![CDATA[您好， 我们提供 Blazor 组件的免费版本。它对业余爱好者、学生和初创公司免费。 演示可以在 https://demo.bergsoft.net  要获取免费副本，请转到此页面并向下滚动一点： https://www.bergsoft.net/en-us/store/blazor 这些组件仍处于早期阶段，但正在快速开发，我希望我们能够共同使其成为出色的套件。 感谢您的阅读。   由   提交/u/bergsoft  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pymt6x/free_version_of_our_blazor_components/</guid>
+      <pubDate>Mon, 29 Dec 2025 13:51:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>PayPal 订阅在沙盒中工作但在实时模式下失败（Laravel + REST API）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1pym5th/paypal_subscriptions_work_in_sandbox_but_fail_in/</link>
+      <description><![CDATA[大家好，我遇到了 PayPal 订阅问题，希望使用 Laravel + PayPal REST API 的人以前遇到过这个问题。 上下文  后端：Laravel 集成：PayPal 订阅 (REST) API） 沙盒工作完美 实时模式失败尝试订阅计划时 点击订阅批准链接（实时）显示：  “我们很抱歉，目前似乎无法正常工作。”   我已检查的内容  在 PayPal 仪表板（实时）中创建订阅计划 复制实时批准链接并在隐身模式下进行测试 → 相同的错误 存在帐户限制，但未阻止 使用实时应用凭据  启用订阅访问 单独的沙盒和应用程序应用程序实时（已验证）  API 日志：  GET 订阅调用成功 PayPal 日志中没有错误  加密网站付款 = 关闭 相同的 Laravel 代码和代码流程在 Sandbox 中工作正常  令人困惑的地方  PayPal 没有发出任何有意义的错误消息 仪表板中没有记录任何故障 相同代码的情况下，Sandbox 与 Live 的行为有所不同  问题  是否存在隐藏内容实时 PayPal 订阅的要求？ 这是否与以下方面有关：  商家帐户未完全获得批准？ 业务验证/KYC？ 国家/地区或货币限制？  有人遇到过此仅在实时模式下发生的通用 PayPal 错误吗？  如果有人使用 Laravel + REST API 解决了这个确切的“事情似乎不起作用”问题，我真的很感激任何指点 PS：添加一些额外的细节 Plan Json: { &quot;product_name&quot;: &quot;Test Product&quot;, &quot;plan_type&quot;: &quot;Fixed定价”、“计划名称”：“测试”、“计划 ID”：“P-5Y753477FU306740JNFJGJEA”、“计划描述”：“--”、“定价”：{“设置费用”：1.00、 “currency”: “USD”, “subscription_period”: { “price”: 20.00, “currency”: “USD”, “billing_cycle”: “每 1 个月”, “number_of_billing_cycles”: “无限制” }, “税”: “无税”, “pause_after_missed_billing_cycles”: 1, “auto_bill_outstanding”: false }, “billing_link”: “https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-5Y753477FU306740JNFJGJEA” Paypal 仪表板中的 API 调用； ``25 年 12 月 29 日下午 6:05 200 OK 169e2735ce47c GET /v1/billing/subscriptions/I-LUPP79U8T4Y8 29/12/25，下午 6:05请求路径 /v1/billing/subscriptions/I-LUPP79U8T4Y8 状态 200 调试 ID 169e2735ce47c 问题 N/A 说明 N/A 资源 ID I-LUPP79U8T4Y8 请求 ```   由   提交 /u/Mayank0000001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1pym5th/paypal_subscriptions_work_in_sandbox_but_fail_in/</guid>
+      <pubDate>Mon, 29 Dec 2025 13:22:30 GMT</pubDate>
+    </item>
     <item>
       <title>要求用户通过电子邮件发送 un/pw 是否会击败爬虫机器人？</title>
       <link>https://www.reddit.com/r/webdev/comments/1pykg9h/does_requiring_user_to_email_for_unpw_defeat_the/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[嘿r/webdev，我正在寻找开发人员对本地企业基于订阅的系统的看法。 简单背景：我经营一家本地广告/印刷机构，并且是餐厅/零售的官方 POS 合作伙伴。我的双胞胎兄弟是一名软件开发人员，我们一起构建网站、网上商店和在线订购系统。 我们现在捆绑：  网站 在线订购（品牌应用程序 + 收据打印机） POS 集成 可选的线下营销（二维码、标牌）  我们已经关闭了五个餐厅客户，有趣的是，当结果可衡量（订单、收入、节省的送货佣金）时，销售是多么容易。 模式： 网站 + 在线订购作为每月订阅 最低期限（6 / 12 / 24 个月） 设置、更新和服务包括支持 一次性销售的 POS 硬件（目前） 计划：从餐馆开始，然后将同一系统重复用于：  理发店/沙龙（预订 + 日历） 稍后其他服务业务  相同的后端、不同的工作流程和支持消息传递。 问题： 从网络开发/产品的角度来看，这具有多大的可扩展性？ 这里有人为本地企业运行订阅而不是一次性项目吗？ 这种模型的实际 MRR 范围是多少？ 我们应该预见到任何技术或操作陷阱吗？ 感谢任何诚实的反馈或实际经验。谢谢！   由   提交 /u/Former_Ad6513   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1pybxek/subscriptionbased_web_pos_system_for_restaurants/</guid>
       <pubDate>Mon, 29 Dec 2025 03:57:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么关于webdev的书推荐吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pybjk0/recommend_any_books_for_webdev/</link>
-      <description><![CDATA[可以特定于某种语言或通用。谢谢。   由   提交/u/Ghoulitar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pybjk0/recommend_any_books_for_webdev/</guid>
-      <pubDate>Mon, 29 Dec 2025 03:38:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器与云压缩：两者何时真正有意义？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pyaw9z/browser_vs_cloud_compression_when_does_each/</link>
-      <description><![CDATA[我看到很多关于压缩应该在浏览器还是在服务器上进行的争论，但大多数讨论都感觉非常理论化。 从实际测试来看，我是这么看的。 浏览器端压缩： • 无需上传 • 更利于隐私 • 非常适合较小的文件 • 受 CPU 和内存限制  云端压缩： • 大文件速度更快 • 更轻松地处理多GB 视频 • 可以在后台运行 • 需要上传和基础设施成本 感觉没有单一的正确答案，只能根据文件大小、速度要求和隐私需求进行权衡。 好奇这里的其他人如何处理这个问题，特别是对于媒体密集型应用程序。   由   提交 /u/kind-vector   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pyaw9z/browser_vs_cloud_compression_when_does_each/</guid>
-      <pubDate>Mon, 29 Dec 2025 03:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>WWW 被认为是有害的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1pya9ar/www_considered_harmful/</link>
-      <description><![CDATA[使用子域名 www 已经成为一种失落的机构知识，在当前的使用中毫无意义。 目前使用 www 的主要网站（以 reddit 为例）实际上没有一个在全球范围内提供相同的内容。如果这些网站正确地使用其子域来代表所提供的内容，您将被重定向到国家子域。即\uk.reddit.com  当然，www是网络管理员自愿提出的想法，但它也可以被视为网络中立性的金丝雀，可惜人们忘记了“世界范围”是什么。表示。   由   提交/u/xanhast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1pya9ar/www_considered_harmful/</guid>
-      <pubDate>Mon, 29 Dec 2025 02:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>npm 需要类似于 pnpm 的minimumReleaseAge 和yarn 的npmMinimalAgeGate</title>
-      <link>https://www.reddit.com/r/webdev/comments/1py9i0e/npm_needs_an_analog_to_pnpms_minimumreleaseage/</link>
-      <description><![CDATA[ 由   提交/u/R2_SWE2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1py9i0e/npm_needs_an_analog_to_pnpms_minimumreleaseage/</guid>
-      <pubDate>Mon, 29 Dec 2025 02:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最感兴趣的 Github API/MCP 服务器用例是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1py93yz/what_are_your_most_interesting_use_cases_for/</link>
-      <description><![CDATA[无论是在您自己的个人开发工作流程、您公司的 CICD 管道还是其他地方 - 您发现的 GitHub API 最有用的应用程序和引人注目的用例是什么？请随意也包括 GitHub MCP 服务器！   由   提交 /u/Resetty   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1py93yz/what_are_your_most_interesting_use_cases_for/</guid>
-      <pubDate>Mon, 29 Dec 2025 01:46:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
