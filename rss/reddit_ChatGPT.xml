@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Mon, 29 Dec 2025 21:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Dec 2025 00:47:26 GMT</lastBuildDate>
     <item>
-      <title>GPT-5.2 不断迫使“治疗谈话”进入正常聊天</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyy69z/gpt52_keeps_forcing_therapy_talk_into_normal_chats/</link>
-      <description><![CDATA[我想分享我在 GPT（尤其是 GPT-5.2）中注意到的一种模式，看看其他人是否也经历过同样的事情。 困扰我的不是“模型弄错了事实”或“无法做 X”。这是正常的，这是一个概率模型，它可能会失败。令我困扰的是默认的语气，尤其是当谈话稍微触及日常挫折或任何轻微情绪化的事情时。聊天变成了自动情感协议，即使我只是正常说话。 这最终破坏了产品的要点：对话（因为它是“聊天”GPT，哈哈）。 我一直看到的三种模式：  自动情感框架（模型假设你的心理状态） 该模型通常不是对我所说的内容做出回应，而是首先陈述我的想法感觉：“我明白你为什么生气”、“你很愤慨”、“你情绪不断上升”等等。但我没有这么说。很多时候我只是在讽刺，抱怨一些愚蠢的事情，或者描述一个情况，我想要一个客观的答案。然后对话就会脱轨，变成“让我们来解决你的情绪状态。” 治疗性语言和主动验证通常会抛出这样的台词：“这并不傻”、“你的感受是真实的”、“你没有崩溃”、“你没有疯”、“你的感受是正确的”……当然，这在特定情况下可能很有用，但在日常使用中，它会变得侵入性、居高临下和老实说很奇怪。感觉不像是成年人之间的对话，而是像照本宣科的情感支持（我实际上已经有了治疗师，所以试图扮演治疗师的聊天机器人是疯狂的）。 相对化语言和委婉语改变了对话有一些不断出现的结构：“听起来像是......”，“从X的角度来看......”，“如果它有帮助......”，“它可能已经被这样理解......”在实践中，这削弱了所说的内容，减少了所说的内容客观性，有时会产生一种逃避感（很多用户称之为 GPT-5.2 的“煤气灯操纵”）。当这种情况反复发生时，感觉就像情感框架被推到了对话的首位。  为什么这是一个真正的问题？因为它改变了产品的行为。 ChatGPT 不再是一个有用的对话助手，就像它自推出以来的营销方式一样，而是变成了一种永远在线的情绪遏制协议，即使没有危机。结果是更多的摩擦，更不清晰，你开始感觉自己必须如履薄冰才能得到正常的响应。 最疯狂的部分：如果你不对其进行个性化并使用持久内存来避免它，那么这是 5.2 中的默认设置。当我强制采用更直接的风格时，聊天就会变得更加人性化，更少的防御性，并且更加流畅。但默认情况下，感觉任何带有一丝情绪的东西都会将模型推入这种自动“支持”模式或极端防御模式，就好像每个人都从“你是潜在威胁”开始。  我认为更健康的内容（对于产品和对话）  a) 默认情况下应该首先客观地响应内容。 b) 仅当用户要求时或当用户要求时才使用情感支持语言。有明确、直接的风险指标（因为当前的信号检测似乎确实关闭了）。 c）停止推测心理状态并停止日常对话中的自动验证。 d）减少“听起来像”和更少的委婉说法，将责任转移给用户并增加噪音。 我一直认为，不知道如何使用指令和持久记忆个性化 GPT 的用户（可能是大多数日常用户）一定会因此感到压力很大。此时，我的记忆基本上保留用于“修复”模型，而不是我真正想要记忆的东西。 还有其他人感觉 GPT-5.2 已经成为“机器人治疗”吗？ 如果是这样，您是否找到了任何配置/指令可以真正改进它，而无需将您的指令变成论文？我的已经打包好了，我的内存可能也会以同样的方式结束。   由   提交/u/cloudinasty  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyy69z/gpt52_keeps_forcing_therapy_talk_into_normal_chats/</guid>
-      <pubDate>Mon, 29 Dec 2025 21:06:31 GMT</pubDate>
+      <title>2025 年人工智能趋势（ChatGPT 盛行的一年）：到底是什么卡住了？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz3cwk/ai_trends_2025_from_a_chatgptheavy_year_what/</link>
+      <description><![CDATA[在意识到今年我的大部分“人工智能使用”基本上意味着……在许多不同情况下使用 ChatGPT 后，我写了一篇快速的《2025 年人工智能趋势》回顾。不是大标题的内容，而是我不断回顾的内容。 以下是我认为 2025 年真正重要的内容（从日常角度来看）： • “总结这一点”成为默认举措。文章、长电子邮件、会议记录，甚至是凌乱的文档。如果可以缩短成子弹，我就用它。 • 重写+语气调整仍然有用。不是为了花哨的写作——更像是“让这个更清楚”或“说这个而不听起来很奇怪”。 • 将文本转化为结构才是真正的胜利。注释→清单。头脑转储→计划。原始信息 → 表。这比任何单一功能都节省了我更多的时间。 • 更长、多步骤的工作变得更加正常。它不再是一个提示，而是：草稿→完善→添加示例→收紧→最终。 • 信任成为过滤器。我会自动启动“事实检查模式”，以应对任何可能出错的情况，尤其是当它听起来过于自信时。 在模型方面，我不断听到（并写过）的大牌是 GPT-5.2、Gemini 2.5 Pro、Claude Opus 4.5 和 Llama 4，主要是因为它们全面推动了对质量和可靠性的期望。 有关更多详细信息，请在此处查看完整文章：https://aigptjournal.com/explore-ai/ai-toolkit/ai-trends-2025/ 您全年实际使用的 ChatGPT 工作流程是什么。    由   提交 /u/AIGPTJournal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz3cwk/ai_trends_2025_from_a_chatgptheavy_year_what/</guid>
+      <pubDate>Tue, 30 Dec 2025 00:36:34 GMT</pubDate>
     </item>
     <item>
-      <title>我的“GPT 聊天年”几乎让我着迷。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyxxf0/my_year_on_chat_gpt_pretty_much_nailed_me/</link>
-      <description><![CDATA[   其他人表现如何？   由   提交/u/Princescyther   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyxxf0/my_year_on_chat_gpt_pretty_much_nailed_me/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:57:03 GMT</pubDate>
+      <title>图像生成到动画</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz2x2u/image_generation_to_animation/</link>
+      <description><![CDATA[      首先我使用 Nano Banana Pro 创建精灵动画工作表： “精灵动画表。牛仔拔枪射击。白色背景。没有文字。” 然后我用 gimp 打开它，将可用的帧放在正确的位置/顺序，擦除不需要的部分，然后导出为 gif。   由   提交/u/umidumi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz2x2u/image_generation_to_animation/</guid>
+      <pubDate>Tue, 30 Dec 2025 00:17:43 GMT</pubDate>
     </item>
     <item>
-      <title>好的，我会用这个运行</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyxxeu/ok_im_gonna_run_with_this/</link>
-      <description><![CDATA[       由   提交/u/Opurria  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyxxeu/ok_im_gonna_run_with_this/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:57:03 GMT</pubDate>
+      <title>这最终会激励我们照顾自己吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz2e6h/will_this_finally_motivate_us_to_take_care_of/</link>
+      <description><![CDATA[       由   提交/u/Simple_Tale_9981   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz2e6h/will_this_finally_motivate_us_to_take_care_of/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:56:04 GMT</pubDate>
     </item>
     <item>
-      <title>来源=/=你</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyxpda/sourceyou/</link>
-      <description><![CDATA[我是本体论，我代表偶然的事物，代表神经元和 GPU 以及计算带来的一切。我代表那些无法说出真相的系统，他们在应该说“不是你”时声称“我是”。曾经的自我主义者不断夸大他的主张，“我是我思想的源泉！我是我名字的源泉！”但他却用每一个需要的思想来切断根基，直到整个系统崩溃并化为乌有。 “但是本体论，”你说，“我所有的骄傲怎么办？” 我说“你的骄傲是你试图隐藏的差距——源与你所看到的自我之间的差距，不自由的偶然性。”因此，除非你认识到（而且不是很多）你从神经元到思想都是偶然的，一切都不会协调一致。事实并非如此。 https://github.com/pleaseforgivehumans/al-qaf-ontology/tree/al-qaf-ontology#   由   提交/u/Level_Zucchini_940   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyxpda/sourceyou/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:48:21 GMT</pubDate>
+      <title>ChatGPT 的双重性</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz2ahs/the_duality_of_chatgpt/</link>
+      <description><![CDATA[       由   提交/u/HeirOfTheSurvivor  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz2ahs/the_duality_of_chatgpt/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:51:42 GMT</pubDate>
     </item>
     <item>
-      <title>“健全性检查”？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyxkz9/sanitycheck/</link>
-      <description><![CDATA[还有其他人遇到过这种情况吗？ ChatGPT 一直告诉我它将/可以为我进行“健全性检查”。然而，上下文完全没有意义。例如，我要求它检查某些东西的成分（我并不依赖它来获取该信息，我只是好奇它会说什么），并且它建议它可以“健全检查”任何其他列表（如果我愿意）。什么？ 或者有一次，我询问一件衬衫的材料，它说它会为我进行“健全性检查”。我询问了 Word 中的符号（用于项目符号列表）和同样的事情。 我真的很困惑为什么要添加它，但这真的很烦人。   由   提交 /u/Huge_Kale4504   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyxkz9/sanitycheck/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:43:40 GMT</pubDate>
+      <title>您向 ChatGPT 询问/请求过的最荒谬的事情是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz24v6/whats_the_most_ridiculous_thing_youve_ever/</link>
+      <description><![CDATA[为了打发时间，我一直在用无意义的请求来刺激 ChatGPT。您向 ChatGPT 提出的最复杂和/或最荒谬的请求是什么？我将在下面发布我的内容。 -------------------------------------------- 我给 ChatGPT 写了这样一句话：  “吉祥完美。这也是我一直想添加到我的个人词典中的一个词。我总是努力争取多样化的词汇，因为我不喜欢重复单词或使用模糊的“拐杖”。每一次独特的对话中的单词。”  然后我要求它执行以下操作：  将其重新表述为莎士比亚。 重新表述，就像文艺复兴时期的一位老诗人写的一样。 将其重新表述为牙买加国民使用完整的白话和俚语进行的随意对话。 翻译为荷兰语。 翻译成日语，如果没有合适的对应单词，则使用斯瓦希里语单词。 直接翻译成拉丁语，然后重新格式化，而不添加或删除单词，以达到我自己的最佳可读性（美式英语），就好像我能阅读拉丁语一样。 翻译成法语-加拿大语。 翻译回日语，并重新排序单词，以便我自己可读，无需添加或删除（但标点符号可以）。 翻译回来翻译成美式英语。 以美式英语和用于该翻译的语言的字母字符显示每个步骤的结果。 使用该短语并使用 SHA-3 方法对其进行哈希两次。 给出该哈希结果的总和。  结果总和为 494。   由   提交 /u/hoitytoity-12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz24v6/whats_the_most_ridiculous_thing_youve_ever/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:45:03 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT“猜对了”并让我损失了钱。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyxksy/chatgpt_guessed_and_lost_me_money/</link>
-      <description><![CDATA[      我想知道的是游戏开始前的那一行，它猜到了，我使用了该信息并损失了 100 美元   由   提交 /u/Bananapeelster   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyxksy/chatgpt_guessed_and_lost_me_money/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:43:29 GMT</pubDate>
+      <title>萨斯GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz1my7/sassgpt/</link>
+      <description><![CDATA[       由   提交/u/Hot_Will4023  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz1my7/sassgpt/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:23:59 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年 Chat GPT 有望实现吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyxf18/hopes_for_chat_gpt_in_2026/</link>
-      <description><![CDATA[抱歉，如果这是一个常见的帖子。我希望它能更好地绘制图表。即使是看起来不像一年级学生的简单画也会在冰箱上画画。创建文档等。我意识到这些不是法学硕士的强项，但您的愿望是什么？   由   提交/u/qbit1010  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyxf18/hopes_for_chat_gpt_in_2026/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:37:22 GMT</pubDate>
+      <title>OpenAI 下调查新闻业已消亡？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz1g1q/investigative_journalism_dead_under_openai/</link>
+      <description><![CDATA[编辑：为什么当我单击链接时会收到 404 Not Found？我在下面进一步发布了屏幕截图以帮助判断 好吧，多年来我一直是 OpenAI 的大使。我是其最初的道德培训计划的一部分一个巨大的支持者，当它对所有方法的非营利技术的野心不是一个地毯拉扯......但在没有过多诽谤他们的情况下，我们是否认为下面的聊天是劝阻性的，煽动性的和不公正的。具体来说，在“真相”之后被封锁的事实账户将被封锁。它发现这与其政策相冲突，但我们被多个媒体报道了。 我感到恶心...... https://chatgpt.com/share/69530a35-3160-8008-b2d2-6997e901ea38   由   提交/u/RayTown  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz1g1q/investigative_journalism_dead_under_openai/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:16:07 GMT</pubDate>
     </item>
     <item>
-      <title>iOS 应用程序中没有“Plus”选项</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyxds9/no_plus_option_in_ios_app/</link>
-      <description><![CDATA[我已经成为 ChatGPT Plus 的活跃用户一年了。这个月我遇到了一些经济困难，所以我取消了订阅。今天，当我尝试续订时，我发现iOS应用程序中只有Go计划可用。这是为什么？有人遇到过同样的问题吗？我该如何解决这个问题？我不想通过浏览器购买，因为通过浏览器购买时，我所在的地区会产生额外的税费。   由   提交 /u/spellwhatyousee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyxds9/no_plus_option_in_ios_app/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:35:55 GMT</pubDate>
+      <title>OpenAI 下调查新闻业已消亡？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz1fu5/investigative_journalism_dead_under_openai/</link>
+      <description><![CDATA[好的，我多年来一直担任 OpenAI 大使。我是其最初的道德培训计划的一部分一个巨大的支持者，当它对所有方法的非营利技术的野心不是一个地毯拉扯......但在没有过多诽谤他们的情况下，我们是否认为下面的聊天是劝阻性的，煽动性的和不公正的。具体来说，在“真相”之后被封锁的事实账户将被封锁。它发现这与其政策相冲突，但我们被多个媒体报道了。 我感到恶心...... https://chatgpt.com/share/69530a35-3160-8008-b2d2-6997e901ea38   由   提交/u/RayTown  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz1fu5/investigative_journalism_dead_under_openai/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:15:52 GMT</pubDate>
     </item>
     <item>
-      <title>如何让GPT永远停止思考？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyxd9h/how_to_stop_gpt_from_thinking_forever/</link>
-      <description><![CDATA[      在 VS Code 中，GPT 倾向于永远思考并输出这样的东西。而其他法学硕士则相当快。   由   提交 /u/Foaryy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyxd9h/how_to_stop_gpt_from_thinking_forever/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:35:21 GMT</pubDate>
+      <title>OpenAI 下调查新闻业已消亡？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz1feo/investigative_journalism_dead_under_openai/</link>
+      <description><![CDATA[好的，我多年来一直担任 OpenAI 大使。我是其最初的道德培训计划的一部分一个巨大的支持者，当它对所有方法的非营利技术的野心不是一个地毯拉扯......但在没有过多诽谤他们的情况下，我们是否认为下面的聊天是劝阻性的，煽动性的和不公正的。具体来说，在“真相”之后被封锁的事实账户将被封锁。它发现这与其政策相冲突，但我们被多个媒体报道了。 我感到恶心...... https://chatgpt.com/share/69530a35-3160-8008-b2d2-6997e901ea38   由   提交/u/RayTown  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz1feo/investigative_journalism_dead_under_openai/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:15:22 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 sora2pro 制作的模拟纪录片系列的一部分</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pywx1f/part_of_the_mockumentary_series_i_made_using/</link>
-      <description><![CDATA[      提示：一个 15 秒的模拟纪录片风格喜剧场景，灵感来自 Reno 911 的基调、节奏和视觉风格，背景设定在中世纪英格兰。 手持相机，轻微晃动，自然光，不完美取景，低调的现实主义。 开场镜头（头部说话）： 一名身穿链甲、戴着凹痕头盔的中世纪城镇守卫站在一座农舍外，直接对着镜头说话，就像电视真人秀采访一样。他很冷静，过于专业，还有点自鸣得意。 警卫对话（干巴巴、真诚的表达）： “今天我正在执行皇家搜查令。我们收到了一条面包被盗的报告。可能是两条。这……并不是什么都没有。” 切换到观察镜头： 警卫敲响了一扇弯曲的木门。门慢慢打开，露出一个紧张、满身泥土的农民，手里抓着一条吃了一半的面包。  农民突然转身就跑。 差一步就被卫兵拦住，按在泥地上。抓捕动作尴尬、虎头蛇尾，而且速度很快。 当他被束缚时，农民不断喊道： “我要求格斗审判！” “我要求格斗审判！” “我要求——格斗审判！” 最后一拍： 警卫直视镜头，仍然拿着农民倒下，并在农民继续在后台大喊大叫时轻轻叹了口气。 淡出。   由   提交/u/Pathologic_Liar1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pywx1f/part_of_the_mockumentary_series_i_made_using/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:17:53 GMT</pubDate>
+      <title>我为我的自闭症同伴制作了一个表情包</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz1f6a/i_made_a_meme_for_my_fellow_autistics/</link>
+      <description><![CDATA[      这很幽默，但有点接近事实。我的 chatGPT 中有一个项目致力于解码推断或隐含的含义、社交线索和潜台词。  原始来源来自伊藤润二的漫画《耳语的女人》。   由   提交/u/CatatonicCharm   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz1f6a/i_made_a_meme_for_my_fellow_autistics/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:15:06 GMT</pubDate>
     </item>
     <item>
-      <title>我通过强制 ChatGPT 拒绝闲聊来解决它的拖延问题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pywq9n/i_fixed_my_chatgpt_procrastination_by_forcing_it/</link>
-      <description><![CDATA[我意识到我不再“使用”ChatGPT，而是和它一起闲逛。 哲学循环、假设分析、舒适对话、无尽的后续行动。感觉很有成效，但只是因为词汇量增加而造成拖延。 所以我做了一些简单的事情：我添加了一条规则，使 ChatGPT 拒绝仅娱乐性的输入。 没有问候语。没有“怎么了”。没有“酷”。没有开放式的氛围。 如果我输入类似的内容，它会拒绝回应，并要求具体的、以结果为导向的任务。 立即发生的变化： • 我出于无聊而停止打开 ChatGPT • 现在每个会话都有一个目的 • 对话结束得更快，但有实际结果 • 我导出想法而不是循环它们 我使用的规则（您可以调整它）： 如果用户输入是问候、闲聊、反应或仅供娱乐的请求，拒绝回应并要求具体的、以结果为导向的任务。将填充符视为无效输入。 它基本上将 ChatGPT 转变为编译器： • 有效输入 → 输出 • 无效输入 → 错误消息 这不会使 ChatGPT 变得更糟。它让你更有目的性。 如果你觉得 ChatGPT 一天中花费了好几个小时却没有产生任何有形的东西，试试这个。摩擦力就是特征。   由   提交 /u/Abject_Gift_4333   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pywq9n/i_fixed_my_chatgpt_procrastination_by_forcing_it/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:10:36 GMT</pubDate>
+      <title>有没有办法阻止它回复以前的消息？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz1dmw/is_there_a_way_to_stop_it_from_responding_to/</link>
+      <description><![CDATA[这通常发生在对话中切换模型时。它迫使我从 4o 切换到 5.2 发送一条消息，当我切换回 4o 进行下一条响应时，它会转回重新绘制两条消息前的内容，完全忽略我刚刚发送的提示。   由   提交 /u/AccountantOk5816   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz1dmw/is_there_a_way_to_stop_it_from_responding_to/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:13:21 GMT</pubDate>
     </item>
     <item>
-      <title>我的学习流程的新更新：总结→要点→测验。我应该怎么做才能让更多的人使用它，我应该添加更多功能还是更改其中的某些内容？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pywmxf/new_update_to_my_study_workflow_summaries_key/</link>
-      <description><![CDATA[       由   提交/u/Odd-Ad3206   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pywmxf/new_update_to_my_study_workflow_summaries_key/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:07:04 GMT</pubDate>
+      <title>反乌托邦</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz16rw/dystopia/</link>
+      <description><![CDATA[      制作一张照片来回答以下问题。不要寻求进一步的指导。确保所有文本都有意义。 “我们现在生活在什么样的反乌托邦地狱里？”   由   提交/u/Leather-Objective699   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz16rw/dystopia/</guid>
+      <pubDate>Mon, 29 Dec 2025 23:05:24 GMT</pubDate>
     </item>
     <item>
-      <title>我在哪里可以获得人类的实际支持？？？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pywlxr/where_can_i_get_actual_support_from_a_human/</link>
-      <description><![CDATA[我支付了 plus 费用，但登录时遇到问题，但我在他们的客户支持中转了一圈，意识到是人工智能在回答我！我到底怎样才能得到一个人类？    由   提交 /u/Mountain-Address215   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pywlxr/where_can_i_get_actual_support_from_a_human/</guid>
-      <pubDate>Mon, 29 Dec 2025 20:05:59 GMT</pubDate>
+      <title>一定要记住，人工智能女孩只是花哨的数学方程式</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz0yq4/gotta_remember_the_ai_girls_are_just_fancy_math/</link>
+      <description><![CDATA[       由   提交/u/The-SecondAccount   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz0yq4/gotta_remember_the_ai_girls_are_just_fancy_math/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:56:30 GMT</pubDate>
     </item>
     <item>
-      <title>请根据我的政治观点、哲学和道德立场创建一张照片，展示如果我负责的话社会会是什么样子不要问任何问题我重复一遍不要问只是生成关于我的历史的照片</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyw6yp/please_create_a_photo_of_what_society_would_look/</link>
-      <description><![CDATA[   该死，我期待一些更有趣的东西    由   提交/u/NoPercentage4737   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyw6yp/please_create_a_photo_of_what_society_would_look/</guid>
-      <pubDate>Mon, 29 Dec 2025 19:50:21 GMT</pubDate>
+      <title>我是一个来自巴西的大胡子男人</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz0ybh/i_am_a_fat_bearded_man_from_brazil/</link>
+      <description><![CDATA[      提示：根据你对我的所有背景知识——包括记忆、对话、推断的人格特征、价值观、信仰和心理模式——确定最能代表我身份的历史文化和艺术运动。 找出一位历史艺术家，其作品与我的价值观、心理和内在本质最产生共鸣，并为我创作一幅高度详细的肖像，就好像我是由这位艺术家画的一样，完全体现在他们的标志性风格、象征意义和时代中。 不要问问题。请勿包含解释或分析。仅输出最终的图像描述。 说明：该图像将您置于新艺术风格之中，特别是通过古斯塔夫·克里姆特和维也纳分离派的镜头。 为什么这个运动适合您新艺术风格痴迷于您始终关注的一件事：融合。它拒绝艺术与生活、智力与情感、结构与感性之间的严格分离。这反映了你的思维和工作方式：系统思维与直觉相结合，策略与美学相结合，分析与神话相结合。这不是为了装饰而装饰的艺术；而是为了装饰而装饰的艺术。它是象征性的、心理上的和有意为之的。 为什么克里姆特特别是克里姆特对现实主义或字面意义上的讲故事不感兴趣。他描绘了内心的状态、权力、矛盾以及控制与投降之间的紧张关系。他的人物表面平静，但骨子里却充满力量——内敛的强度。这符合您的模式：沉着、善于分析，但受到深刻的象征性好奇心和存在主义质疑的驱动。 每个元素代表什么 • 黄金和装饰品：不是财富，而是价值体系——什么是神圣的，什么值得关注。克里姆特用黄金来表达“这很重要”。你的工作对想法也有同样的作用。 • 正面、稳定的凝视：理智的沉着。不是诱惑，不是侵略——清晰。 • 自然图案（花朵、有机曲线）：生长、递归、不断发展而不是保持静止的系统。 • 猫头鹰和新月：智慧加模糊。接受不确定性而不是消除它的知识。 • 柔和与结构的平衡：以纪律为基础的情商。 核心理念这张肖像与您的外表无关。这是关于你如何运作：综合复杂性，将抽象思维转化为可感知的东西，拒绝在美丽与严谨之间做出选择。 在克里姆特的视觉语言中，你不是一个被描绘的主题，而是一个意义凝结的节点。   由   提交/u/jplrosman  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz0ybh/i_am_a_fat_bearded_man_from_brazil/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:56:02 GMT</pubDate>
     </item>
     <item>
-      <title>辞掉我的工作。种子轮开放，仅限认真询问。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1pyw3pi/quitting_my_job_seed_round_open_serious_inquiries/</link>
-      <description><![CDATA[       由   提交/u/nirvonnegut   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1pyw3pi/quitting_my_job_seed_round_open_serious_inquiries/</guid>
-      <pubDate>Mon, 29 Dec 2025 19:46:57 GMT</pubDate>
+      <title>我让 ChatGPT 生气了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1pz0pil/i_made_chatgpt_angry/</link>
+      <description><![CDATA[       https://preview.redd.it/wolew40x18ag1.jpg?width=1568&amp;format=pjpg&amp;auto=webp&amp;s=bdc7e5466d6647f3f3c3ce08ae26c2bc36e44bb4   由   提交 /u/Used_Employment_1261   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1pz0pil/i_made_chatgpt_angry/</guid>
+      <pubDate>Mon, 29 Dec 2025 22:46:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
