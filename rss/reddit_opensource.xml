@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 31 Dec 2025 15:13:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 18:17:50 GMT</lastBuildDate>
+    <item>
+      <title>mdsel 简介：代理 Markdown 文档的渐进式披露</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q0jdqq/introducing_mdsel_progressive_disclosure_for_your/</link>
+      <description><![CDATA[ 由   提交 /u/trmnl_cmdr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q0jdqq/introducing_mdsel_progressive_disclosure_for_your/</guid>
+      <pubDate>Wed, 31 Dec 2025 18:06:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ara 测试网上线</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q0g2nl/ara_testnet_is_live/</link>
+      <description><![CDATA[嘿伙计们，这是我的独立开发项目，我已经工作了一年多了。它是开源的免费应用程序，适用于开源项目，使它们成为可持续的项目。  现在，新年发布了一个版本。并且需要开源人员的反馈。更重要的是它对你来说是否有趣。  展示：https://youtu.be/daBZkiKarI8 应用程序：https://ara.foundation/ 该版本已经注册，添加了您的项目，但没有付款。同时使用测试网版本。 另外，新年快乐！   由   提交 /u/alp_ahmetson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q0g2nl/ara_testnet_is_live/</guid>
+      <pubDate>Wed, 31 Dec 2025 15:48:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想为开源做出贡献</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q0fhqv/i_want_to_contribute_to_open_source/</link>
+      <description><![CDATA[我想为开源做出贡献。我了解 python 和一些前端（HTML，CSS）。最好的开始方式是什么，以及对我的任何建议   由   提交 /u/Spirited-Squirrel-57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q0fhqv/i_want_to_contribute_to_open_source/</guid>
+      <pubDate>Wed, 31 Dec 2025 15:23:17 GMT</pubDate>
+    </item>
     <item>
       <title>除了 Instagram DM 之外还有其他选择吗</title>
       <link>https://www.reddit.com/r/opensource/comments/1q0eznt/is_there_an_alternative_to_the_instagram_dms/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Gopala3699  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pzxwsd/pdf_highlight_extractor_tool/</guid>
       <pubDate>Tue, 30 Dec 2025 23:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>向非技术读者提倡开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzw2ws/advocating_opensource_to_nontechnical_readers/</link>
-      <description><![CDATA[我们都生活在一个技术极其复杂的世界。 开源的概念一开始可能看起来很激进，但它在我们的世界中是不可或缺的。 无论您是用户、开发人员还是仅仅对健康的社会感兴趣，您都会从开源中受益，我们应该为它而奋斗。 开源是一种质量标志，是民主和民主的一种形式。所有权、资本主义的最佳状态，以及对这个世界的反应，一个软件存在的世界。 本文不需要任何先验技术知识就可以得出这个结论。   由   提交/u/Stromel1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzw2ws/advocating_opensource_to_nontechnical_readers/</guid>
-      <pubDate>Tue, 30 Dec 2025 22:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>[工具] 开源有声读物文件管理器——绑定、分割、转换、修复</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzvtng/tool_open_source_audiobook_file_manager_bind/</link>
-      <description><![CDATA[构建一个桌面工具，用于管理完全离线运行的有声读物收藏。 功能 • 将分散的音频文件绑定到带有章节的单个 M4B 容器中 • 将大型有声读物文件拆分回章节（无损） • 批量转换格式并保留元数据 • 可选元数据获取Audnexus/Audible/Open Library • 修复 Apple 书签问题（32 位原子错误） 技术堆栈 Electron + React + TypeScript + FFmpeg 隐私 • 所有处理均在本地进行 • 零遥测 • 无需帐户 • 仅适用于可选元数据的网络访问 来源 https://github.com/Zendevve/audiobook-toolkit 许可证：GPL-3.0 + Commons Clause（开源，禁止转售） 屏幕截图位于自述文件中。欢迎反馈。   由   提交/u/ZenpaiiiGamingYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzvtng/tool_open_source_audiobook_file_manager_bind/</guid>
-      <pubDate>Tue, 30 Dec 2025 22:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>匿名但跟踪的调查？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzvjb6/anonymous_but_tracked_survey/</link>
-      <description><![CDATA[严重阻碍工业创新的因素之一是成本所在缺乏透明度。然而，大多数公司不愿意公布其成本信息。有没有办法让经营同一工厂的多家公司提交数据，然后将其匿名，或者收集数据的行为本质上是非匿名的（例如，当您填写公司员工满意度调查时）？我在这里问这个问题是因为我想将此数据开源并构建使用此数据进行验证的开源模型。   由   提交/u/LovelyLad123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzvjb6/anonymous_but_tracked_survey/</guid>
-      <pubDate>Tue, 30 Dec 2025 22:18:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
