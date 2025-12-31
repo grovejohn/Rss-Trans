@@ -4,13 +4,55 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 30 Dec 2025 21:13:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 00:50:27 GMT</lastBuildDate>
     <item>
-      <title>AI，Noted：一款基于音频的人工智能笔记应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzts7s/ai_noted_an_ai_notetaking_app_based_on_audio/</link>
-      <description><![CDATA[我在 github 上创建了一个应用程序，用户可以在其中上传音频剪辑，并且它将由 Google 的 STT API 转录。通过此功能，可以以 5 种不同的格式提供注释。这些笔记可以下载，以供将来参考。 我希望未来的改进  改进程序按钮的用户体验 确保转录音频时减少等待时间 合并转换任何音频文件的功能，而不仅仅是 .wav 添加辅助功能 为笔记创建一个登录系统保存在互联网上，而无需用户下载。  我愿意接受任何反馈，而且一些潜在的贡献者也会很棒！ https://github.com/ackshatiwari/AI-Noted   由   提交 /u/Any_Bed5567   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzts7s/ai_noted_an_ai_notetaking_app_based_on_audio/</guid>
-      <pubDate>Tue, 30 Dec 2025 21:06:53 GMT</pubDate>
+      <title>模型研究员终极版</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzz34s/model_researcher_ultimate/</link>
+      <description><![CDATA[你好，Nazar Okruzhko，也许你们中的一些人可能在 Reddit 或 Sketchfab 上认识我，我也是一名 ID Tech 5 专家，我在逆向工程方面非常菜鸟，几个月前才开始，但在过去几周取得了一些进展，特别是在 ID Tech 5 和 6 游戏方面...... 我制作了一个名为“Model Researcher Ultimate”的工具用于从任何游戏中提取 3D 模型，它基于原始的“模型研究员”它基于“模型检查器”。 .png.3c394b888c6edb7c6f68f88226b69845.png) [测试版屏幕截图] - 它是完全开源的用 C# 编写的程序 在未/解压缩和未/解密的二进制 3D 模型文件中做好充分准备后，您可以通过查找顶点、UV 坐标和面的偏移量（入口点）以及查找数据的组织方式（单独的缓冲区或结构化缓冲区（顶点和 UV 坐标一起分开）来了解 3D 数据（顶点、UV 坐标和面）如何以这种格式存储。通过填充）），查找顶点和面数以及缓冲区标头/标记，然后将模型导出到 OBJ 文件中。我于 2025 年 12 月 28 日制作了这个工具的 Ultimate 版本。发布版本需要 .Net 6.0 才能运行。 我已成功使用 Model Researcher 挖掘出传奇的 BJ Blazkowicz 模型，并且非常喜欢该程序首次能够从任何专有 3D 模型文件中提取 3D 模型的想法。我非常喜欢这个设计，真的很想尝试创建一个更新的模型研究员“终极”模型。 。 1.0.0版本目前还不完全稳定，忽略Normals提取，我可能会替换为最终版本并开始更新程序。 GitHub for ModelResearcherUltimate.cs &amp; ModelResearcherUltimate.csproj： https://github.com/Nazar-Okruzhko/Model-Researcher-Ultimate 主要功能：  一体化 Windows 捆绑包 &lt;- 超级舒适的快节奏菜单 复制粘贴字面的十六进制查看器转储（是的，这狗屎太搞笑了） 专为多任务处理而设计 改进的相机导航 舒适的十六进制查看器 拖放支持 红色/绿色框显示相应的值 快速复制粘贴OBJ文件 C# .NET以获得良好的性能  我真的不建议点击“打印”按钮，因为彩色字节更新仍然是一个超级慢的过程 法线是在这个程序中自动生成的，所以暂时忘记它，脚本选项卡仅用于特性功能 因为它是一个完全开源的程序，我自豪地允许每个人按照他们想要的方式修改和重新分发程序。 （我还计划为其他 ID 技术制作工具）引擎，还有马里奥游戏）。 ModelResearcherUltimate.zip   由   提交/u/True_Way4462  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzz34s/model_researcher_ultimate/</guid>
+      <pubDate>Wed, 31 Dec 2025 00:48:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>PDF突出显示提取工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzxwsd/pdf_highlight_extractor_tool/</link>
+      <description><![CDATA[ 由   提交/u/Gopala3699  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzxwsd/pdf_highlight_extractor_tool/</guid>
+      <pubDate>Tue, 30 Dec 2025 23:58:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>向非技术读者提倡开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzw2ws/advocating_opensource_to_nontechnical_readers/</link>
+      <description><![CDATA[我们都生活在一个技术极其复杂的世界。 开源的概念一开始可能看起来很激进，但它在我们的世界中是不可或缺的。 无论您是用户、开发人员还是仅仅对健康的社会感兴趣，您都会从开源中受益，我们应该为它而奋斗。 开源是一种质量标志，是民主和民主的一种形式。所有权、资本主义的最佳状态，以及对这个世界的反应，一个软件存在的世界。 本文不需要任何先验技术知识就可以得出这个结论。   由   提交/u/Stromel1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzw2ws/advocating_opensource_to_nontechnical_readers/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[工具] 开源有声读物文件管理器——绑定、分割、转换、修复</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzvtng/tool_open_source_audiobook_file_manager_bind/</link>
+      <description><![CDATA[构建一个桌面工具，用于管理完全离线运行的有声读物收藏。 功能 • 将分散的音频文件绑定到带有章节的单个 M4B 容器中 • 将大型有声读物文件拆分回章节（无损） • 批量转换格式并保留元数据 • 可选元数据获取Audnexus/Audible/Open Library • 修复 Apple 书签问题（32 位原子错误） 技术堆栈 Electron + React + TypeScript + FFmpeg 隐私 • 所有处理均在本地进行 • 零遥测 • 无需帐户 • 仅适用于可选元数据的网络访问 来源 https://github.com/Zendevve/audiobook-toolkit 许可证：GPL-3.0 + Commons Clause（开源，禁止转售） 屏幕截图位于自述文件中。欢迎反馈。   由   提交/u/ZenpaiiiGamingYT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzvtng/tool_open_source_audiobook_file_manager_bind/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>匿名但跟踪的调查？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzvjb6/anonymous_but_tracked_survey/</link>
+      <description><![CDATA[严重阻碍工业创新的因素之一是成本所在缺乏透明度。然而，大多数公司不愿意公布其成本信息。有没有办法让经营同一工厂的多家公司提交数据，然后将其匿名，或者收集数据的行为本质上是非匿名的（例如，当您填写公司员工满意度调查时）？我在这里问这个问题是因为我想将此数据开源并构建使用此数据进行验证的开源模型。   由   提交/u/LovelyLad123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzvjb6/anonymous_but_tracked_survey/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:18:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>安卓编辑应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzv9l7/android_editing_app/</link>
+      <description><![CDATA[      各位，这是一个开源代码，它是解耦的，需要一些修复才能工作，并且将来会收到新功能以及人工智能的添加。   由   提交/u/fabiosilva5903  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzv9l7/android_editing_app/</guid>
+      <pubDate>Tue, 30 Dec 2025 22:07:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>AudioMuse-AI - 自动创建播放列表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzujgq/audiomuseai_automatic_playlist_creation/</link>
+      <description><![CDATA[大家好， AudioMuse-AI 是我的第一个真正的开源项目。它于 2025 年 5 月下旬偏离目标，目标是基于声音分析在 jellyfin 上创建自动歌曲播放列表，然后它不断发展，具有更多功能，并且支持更多媒体服务器，如 Navidrome、LMS、Lyrion 和 emby。 到目前为止，我总是在自托管子 Reddit 中发帖，但后来我认为获得 AGPL-3.0 许可，我也很乐意在这里分享它。 但是什么是声波分析 ?它是关于分析歌曲本身的声音，通过嵌入向量获取其表示（感谢 MachineLearning m），然后用它你可以做多种事情，其中​​之一是搜索相似的向量来创建相似音乐的播放列表。或者也可以将文本查询表示为同一空间中的向量，然后搜索靠近文本的歌曲。 所有这些功能都是因为随着技术的进步，大多数人开始收集数千首歌曲，有时您只听完其中的一部分。因此，这里提出了通过声音分析自动播放列表的想法。 想象一下，您的头顶上有一首符合您实际心情的歌曲，您开始听它，然后您只需向算法询问类似的歌曲即可。只需点击一下，您就有多首与您的心情相匹配的歌曲。 或者您脑子里有多首歌曲，您可以要求算法找到与所有歌曲相似或可能不相似的歌曲。 该算法也适用于艺术家，通过高斯混合聚类，它能够再现艺术家用您拥有的歌曲覆盖的不同风格，将它们作为组件再现。然后我们回到矢量检查，搜索相似的艺术家。 好的，那么人工智能呢？到目前为止描述的所有功能都没有使用它，并且它完全是可选的。但它可以用来丰富用例。您可以使用它为 AudioMuse-AI 生成的播放列表自动命名。它还可以用来获取自然语言的请求，然后让人工智能集思广益并组合不同的功能来给出响应。 我认为到目前为止，声音分析是流媒体服务的先决条件，它建议您预先计算播放列表。自托管替代方案是存在的，但直到我的项目诞生之前，没有人是开源且完全免费的。因此，在我的项目中，我希望将 Sonic Analysis 开源并免费提供给所有人。 如果您有兴趣，请查看 GitHub 存储库： https://github.com/NeptuneHub/AudioMuse-AI 它是完全免费的，我们不接受捐赠，但如果您愿意并且愿意的话非常感谢您对仓库的帮助反馈和⭐️！ 提前感谢大家，祝大家新年快乐，梦想新的一年充满新的自由和开源项目！   由   提交 /u/Old_Rock_9457   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzujgq/audiomuseai_automatic_playlist_creation/</guid>
+      <pubDate>Tue, 30 Dec 2025 21:37:34 GMT</pubDate>
     </item>
     <item>
       <title>电源是一个用户体验问题：我们需要开源公民界面才能生存</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[       由   提交/u/Just_Vugg_PolyMCP   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pzk7y8/justvugggonk_ultralightweight_edgenative_api/</guid>
       <pubDate>Tue, 30 Dec 2025 14:58:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Poly-mcp/Polymcp：Polymcp 提供了一种使用自定义代理与 MCP 服务器交互的简单有效的方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzk32k/polymcppolymcp_polymcp_provides_a_simple_and/</link>
-      <description><![CDATA[      大家好，我想分享一个我已经研究了一段时间的开源项目：Polymcp。 该项目从一个非常实际的需求开始：真正了解 MCP（模型上下文协议）和人工智能代理的工作不仅仅是简单的示例，而是构建可以在实际项目中实际重用的东西。从那时起，Polymcp 发展成为一个 Python 工具包，专注于使基于 MCP 的代理开发更简单、更结构化。 Polymcp 是什么 Polymcp 是一个用于与 MCP 配合使用的 Python 工具包，可帮助您构建能够动态发现和使用工具的代理。目标是为 LLM 与真实工具的集成提供坚实而灵活的基础，而不必每次都处理 MCP 的底层细节。 主要功能 • 直接从 Python 函数创建 MCP 服务器 • 支持多种执行模式： • stdio • HTTP • 进程内 • WASM • AI 代理： • 查询 MCP 服务器 • 发现可用工具 • 决定调用哪些工具以及调用顺序 • 支持多个 LLM 提供程序，包括本地模型 • 代理生成的受控执行环境代码 重点是保持事物的模块化、可读性以及适合实验和更结构化的用例。 这可能对谁有用 如果您是以下情况，Polymcp 可能会很有用： • 探索 MCP 并想要比最小演示更实用的东西 • 构建需要编排多个工具或服务的代理 • 寻找一种基于 Python 的干净方法来实现工具增强的 LLM 系统 该项目正在积极开发中，并且新随着新用例的出现，会添加功能和示例。 如果您发现该项目有趣或有用，请考虑在 GitHub 上给它一颗星，以帮助它发展并吸引更多人。 欢迎提供反馈、问题和贡献。   由   提交/u/Just_Vugg_PolyMCP   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzk32k/polymcppolymcp_polymcp_provides_a_simple_and/</guid>
-      <pubDate>Tue, 30 Dec 2025 14:52:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 islechat，一个自托管的 Discord 服务器，但通过 ssh</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzfs96/i_made_islechat_a_selfhosted_discord_server_but/</link>
-      <description><![CDATA[源代码：https://github.com/ashfn/islechat 您可以尝试使用： ssh [user@isle.chat](mailto:user@isle.chat) 我一直在构建 isle.chat，一个带有 Bubble Tea 终端 UI 的轻量级基于 SSH 的聊天服务器。与 IRC 类似，但消息是持久性的，您可以使用您的帐户加入，除了 SSH 之外不需要任何客户端。 如果这是您第一次，只需选择用户名和密码即可注册。 这是早期的 alpha，但可用。欢迎提供反馈和错误报告。来#global 打个招呼吧。   由   提交 /u/Ok-Mushroom-8245   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzfs96/i_made_islechat_a_selfhosted_discord_server_but/</guid>
-      <pubDate>Tue, 30 Dec 2025 11:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在HackerNews上看到一篇关于宽日志的文章，写了一个go包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzf4rr/i_saw_an_article_on_hackernews_about_wide_logs/</link>
-      <description><![CDATA[我认为这是一个非常酷的概念。另外，我以前从未在 Go 中看到过类似的事情。告诉我你的想法！ https://github.com/mucansever/widelogger   由   提交 /u/StandardFantastic806   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzf4rr/i_saw_an_article_on_hackernews_about_wide_logs/</guid>
-      <pubDate>Tue, 30 Dec 2025 10:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用哪些开源项目来管理大规模的抓取或数据收集？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzeb5a/what_opensource_projects_do_you_use_to_manage/</link>
-      <description><![CDATA[我正在尝试一些从 API 和公共网站提取数据的副项目，一旦有多个脚本，事情就会很快变得混乱。 对人们实际用于调度、监控或管理多个数据收集作业的开源工具感兴趣。 即使是轻量级设置也可以。主要是好奇在现实世界中什么是有效的。   由   提交 /u/crowpng   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzeb5a/what_opensource_projects_do_you_use_to_manage/</guid>
-      <pubDate>Tue, 30 Dec 2025 10:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>观看 CodeRabbit CEO 崩溃后创建了 ApologyRabbit</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzdt0w/built_apologyrabbit_after_watching_the_coderabbit/</link>
-      <description><![CDATA[这是一个 Chrome 扩展，在任何道歉推文上：  拉入线索 + 引用推文 重建戏剧上下文 使用固定的标题（所有权、特异性、可操作性等）审查道歉 将所有内容显示为干净的 Markdown 覆盖层  X 帖子：https://x.com/nopeJS/status/2005707192650064183 Github：https://github.com/Sabique-Islam/apologyRabbit   由   提交 /u/nope-js   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzdt0w/built_apologyrabbit_after_watching_the_coderabbit/</guid>
-      <pubDate>Tue, 30 Dec 2025 09:30:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试为开发人员包装，这是我学到的</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzdbe2/i_tried_wrap_for_developers_and_here_is_what_i/</link>
-      <description><![CDATA[我最近尝试了 Github 开发者评估器，它显示我属于世界前 1% 的开发者。 我认为该应用程序有问题。 您对此有何看法？    由   提交 /u/Electrical-Signal858   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzdbe2/i_tried_wrap_for_developers_and_here_is_what_i/</guid>
-      <pubDate>Tue, 30 Dec 2025 09:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
