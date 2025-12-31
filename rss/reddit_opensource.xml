@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 31 Dec 2025 00:50:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 31 Dec 2025 03:57:18 GMT</lastBuildDate>
+    <item>
+      <title>端点状态策略 (ESP)：策略即代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q005zf/endpoint_state_policy_esp_policy_as_code/</link>
+      <description><![CDATA[       由   提交/u/ScanSet_io  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q005zf/endpoint_state_policy_esp_policy_as_code/</guid>
+      <pubDate>Wed, 31 Dec 2025 01:37:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>欢迎贡献者：一款由网络技术驱动的黑客模拟器游戏。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzzxms/contributors_welcomed_a_hacking_simulator_game/</link>
+      <description><![CDATA[       由   提交/u/chief330  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzzxms/contributors_welcomed_a_hacking_simulator_game/</guid>
+      <pubDate>Wed, 31 Dec 2025 01:26:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>[发布]Nebulo V2.0 - 完全免费开源的iOS IPTV播放器，具有专用的体育中心和多视图！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1pzzk9k/release_nebulo_v20_a_completely_free_opensource/</link>
+      <description><![CDATA[大家好！ 我很高兴与大家分享 Nebulo 的重大更新，Nebulo 是一款专为 iOS 和 iPadOS 打造的 IPTV 播放器。我开始这个项目是因为我厌倦了 IPTV 应用程序，这些应用程序要么充满广告，要么需要每月订阅，要么看起来像是 2005 年设计的。 Nebulo 承诺：免费且免费。永远开源 首先，Nebulo 是 100% 免费和开源的。没有“Pro”版本，没有隐藏订阅，也没有跟踪。我相信每个人都应该可以使用如此重要的工具。您可以审核代码、自行构建代码或在 GitHub 上贡献代码。它现在并且永远都是社区第一。 ⚽ 体育中心 真正将 Nebulo 与 App Store 上的其他播放器区分开来的是体育中心。 我们都知道 IPTV 的困境：你有 5,000 个频道，并且疯狂地滚动浏览“英国 - 体育”， “美国-体育”，和“BeIN”只是为了找到下午 3:00 开球的比赛地点。 Nebulo 解决了这个问题。 体育中心包括一个强大的游戏搜索引擎。您无需寻找频道，而是在体育中心找到直接从 ESPN 的 API 提取的比赛或活动。当您点击比赛时，Nebulo 的逻辑会自动扫描您的 EPG 和类别，以显示该特定比赛的最佳直播。它将 5 分钟的搜索变成了 2 秒的点击。 🎨 你的应用，你的外观（可定制性） 大多数玩家都会为你提供“黑暗模式”。到此为止。 Nebulo 具有令人惊叹的 Glassmorphism UI，具有： 星云背景：动态、呼吸的颜色让应用程序充满活力。 自定义照片背景：您可以上传相机胶卷中的任何照片，应用自定义模糊，让 UI 真正属于您。 自适应布局：无论您使用的是 Pro Max 还是带有侧边栏的 iPad， UI 可完美缩放。 📺 高级用户功能： 多视图模式： 在 2x2 网格中同时观看最多 4 个流。非常适合周日足球比赛或关注多个新闻周期。 AVKit 集成：基于 Apple 的本机框架构建，这意味着它具有令人难以置信的电池效率，并支持本机智能画中画 (PiP)。 快速切换器：无需离开当前流即可浏览频道列表。 📥 如何获取 Nebulo 需要有效的Xtream Codes API 订阅。由于这是一个开源项目，您可以通过从 GitHub Releases 选项卡下载 IPA 并通过 AltStore、SideStore 或 TrollStore 侧载来安装它。 查看代码和版本 此处 我一直在寻找改进应用程序。如果您对体育中心逻辑的工作原理有疑问或有功能请求，请在下面发表评论！   由   提交 /u/Glittering-Stuff8357   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1pzzk9k/release_nebulo_v20_a_completely_free_opensource/</guid>
+      <pubDate>Wed, 31 Dec 2025 01:09:57 GMT</pubDate>
+    </item>
     <item>
       <title>模型研究员终极版</title>
       <link>https://www.reddit.com/r/opensource/comments/1pzz34s/model_researcher_ultimate/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[像你们中的许多人一样，我也曾因 Instagram 的令人上瘾的信息流而苦苦挣扎。我曾经依靠 DFInstagram 来阻止无休止的滚动，但它已经很长时间没有维护了，而且将其更新到较新的 Instagram 版本很痛苦。 因此，我决定构建自己的解决方案：FeurStagram - 一个开源项目，它消除了 Instagram 的令人上瘾的功能，同时保留了必需的功能（适用于 Android）。 FeurStagram 存储库位于 Github 上：https://github.com/jean-voila/FeurStagram 两种使用方法：  准备安装 APK ： 只需从 GitHub 版本中获取最新的修补 APK 并安装即可。无需技术技能！ DIY 修补工具包。您可以从此处安装 apk 文件：feurstagram-410-1-0-63-71.apk 您还可以使用随附的补丁自行修补任何 Instagram 版本脚本  被阻止的内容：  ❌ Feed 帖子（在网络级别被阻止） ❌“探索”选项卡（重定向到 DM） ❌“卷轴”选项卡（重定向到 DM）  仍然有效的内容：  ✅ 故事 ✅ 直接消息 ✅ 个人资料 ✅ 在私信中共享的卷轴（这样您仍然可以查看朋友发送给您的内容，但无法滚动） ✅ 搜索 ✅ 通知 为什么采用这种方法？与停止更新的 DFInstagram 不同：  提供预建 APK - 只需从版本下载并安装 DIY 选项 -如果您想要特定的 Instagram 版本，您可以自己修补它 面向未来 -当 Instagram 更新时，我会发布新的修补版本（或者您可以自己修补） 它是开源的，您可以确切地看到它的作用。没有可疑的修改，只是阻止不需要的内容 该工具包使用两种修补策略：  网络级阻止 -  拦截 Instagram 的 API 调用并从源头阻止提要内容 选项卡重定向 -  当您点击“探索”或“卷轴”时，它会打开 DM 结果：Instagram 成为纯粹的通信工具。您仍然可以向朋友发送消息、查看他们的故事、检查通知以及使用您的个人资料。但不再需要在提要中滚动，不再探索兔子洞，不再有无尽的卷轴。  很想听听您的想法和反馈。   由   提交 /u/niverseCreator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1pzp1ct/feurstagram_an_opensource_instagram_android_app/</guid>
       <pubDate>Tue, 30 Dec 2025 18:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该寻找贡献者还是不？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzm8om/should_i_look_for_contributors_or_nah/</link>
-      <description><![CDATA[我正在创建一个有点大的项目，找到贡献者将在心理上和开发过程中提供巨大的帮助。 这是一种对大量创意艺术家来说非常有用的软件。 After Effects 的替代方案。  我应该寻找贡献者还是继续单独工作？ 我应该在哪里找到感兴趣的贡献者？  [更新 1]：这是应用程序的存储库：https://gitlab.com/advanced-effects/advanced-effects这是维基百科： https://gitlab.com/advanced-effects/Advanced-Effects/-/wikis/home   由   提交 /u/Terrible_Wish_745   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzm8om/should_i_look_for_contributors_or_nah/</guid>
-      <pubDate>Tue, 30 Dec 2025 16:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kriti Images - Cloudflare Images 的开源替代品现在支持基于 URL 的图像</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzm46y/kriti_images_open_source_alt_to_cloudflare_images/</link>
-      <description><![CDATA[      几周前，我分享了 Kriti Images，这是我基于 Go 的图像转换服务。该项目应该是 Cloudflare Images、Imagick 和 Cloudflare Images 的开源替代品。 Imagekit。 GitHub | 网站 | 演示 新功能：远程 URL 获取 只需将互联网上的任何图像的 URL 作为配置的本地或 S3 存储桶的源传递即可。 如果您想要代理、调整大小或优化外部图像（例如来自 Unsplash 或旧版 CMS），而无需先下载并重新上传它们，那么这是完美的选择。 GET /cgi/images/tr:flip=hv/https%3A%2F%2Fimages.unsplash.com%2Fphoto-xyz... 下一步是什么？ 我还在琢磨像 Canva 这样的基本编辑器和编辑器的想法。模板功能，PR 正在进行中 我很想听听您如何使用它或者您接下来希望看到哪些功能！   由   提交/u/v1n4y_g   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzm46y/kriti_images_open_source_alt_to_cloudflare_images/</guid>
-      <pubDate>Tue, 30 Dec 2025 16:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>JustVugg/gonk：适用于 Go 的超轻量级、边缘原生 API 网关</title>
-      <link>https://www.reddit.com/r/opensource/comments/1pzk7y8/justvugggonk_ultralightweight_edgenative_api/</link>
-      <description><![CDATA[       由   提交/u/Just_Vugg_PolyMCP   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1pzk7y8/justvugggonk_ultralightweight_edgenative_api/</guid>
-      <pubDate>Tue, 30 Dec 2025 14:58:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
