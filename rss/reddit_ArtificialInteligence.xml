@@ -4,20 +4,48 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Wed, 31 Dec 2025 21:09:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Jan 2026 00:54:19 GMT</lastBuildDate>
+    <item>
+      <title>公共安全呼叫的音频转录和分析</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0qq7q/audio_transcription_and_analyze_of_public_safety/</link>
+      <description><![CDATA[就上下文而言，我运行一个 Facebook 页面，报告公共安全事件、交通报告、天气等。我正在运行一个名为 SDRTrunk 的程序和另一个名为 Trunking Recorder 的程序。 SDRTrunk 连接到天线，然后天线连接到本地塔，呼叫被捕获并输入到我的系统中。 TrunkingRecorder 软件接受这些呼叫，对它们进行排序并将它们放入数据库中，然后我可以登录到门户并查看所有捕获呼叫、呼叫时间、长度等。由于我无法 24/7 收听提要，所以我希望在本地设置一些东西，我可以将这些呼叫输入转录服务，然后将它们输出到文本文件或其他内容中，然后有另一个过程，在其中分析所有这些转录的呼叫，然后提供每日仪表板或某种摘要，我可以在其中进行分析。可以看到所有的信息。这避免了我必须回去听几个小时的电话，看看发生了什么，并可能报告它们。  希望保持尽可能低的成本。 TIA！   由   提交 /u/that1itguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0qq7q/audio_transcription_and_analyze_of_public_safety/</guid>
+      <pubDate>Wed, 31 Dec 2025 23:53:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 上的 ChatGPT 应用程序：“请验证您是人类”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0qd1s/chatgpt_app_on_windows_please_verify_that_you_are/</link>
+      <description><![CDATA[每次打开 ChatGPT Windows 应用程序时，我都会收到此消息。 我认为额外的等待、点击和等待对我来说不值得。 具有讽刺意味的是，我问 ChatGPT 可能是什么原因导致的，很可能与我的高强度隐私设置有关。 再见，ChatGPT。很高兴认识你。我明白我有多少不知道。因此，我知道何时以及如何使用人工智能来避免因无知而犯的错误。 你好双子座。   由   提交/u/zzz0ned  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0qd1s/chatgpt_app_on_windows_please_verify_that_you_are/</guid>
+      <pubDate>Wed, 31 Dec 2025 23:33:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助我，我需要什么才能成为一名出色的人工智能工程师</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0qabl/help_me_what_do_i_need_to_become_a_great_ai/</link>
+      <description><![CDATA[在获得计算机科学学士学位后，我目前正在攻读计算机科学硕士课程，由于我对自主系统中的计算机视觉（主要是自动驾驶汽车）的偏好，我所学习的大部分课程都是算法和人工智能相关的。 面试和带回家评估，对于第三阶段，我面临着这样的情况： 亲爱的 请接受 AI/ML 实习生的 Teams 面试邀请。   采访者 开始时间 结束时间 采访类型    () 1/6/2026，下午 2:00 美国东部时间 美国东部时间 2026 年 1 月 6 日下午 2:45 电话/视频 – 1:1     如何准备：  测试您的技术和互联网连接，鼓励使用相机。  准备一个空间并尽量减少干扰 准备好谈论自己 - 这是你发光的机会！   我接受了 Honeywell 的 AI/ML 实习面试，我已经接到电话了  您建议我为面试准备什么以及其他工具或技术，以成为一名出色的 AI 系统研究工程师，特别对智能体和计算机视觉感兴趣AV   由   提交/u/Business_Asparagus84   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0qabl/help_me_what_do_i_need_to_become_a_great_ai/</guid>
+      <pubDate>Wed, 31 Dec 2025 23:29:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否存在不主动提供额外信息的人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0ozr7/is_there_an_ai_that_does_not_volunteer_extra/</link>
+      <description><![CDATA[如标题所示。当我问今晚的低温是多少时，我不想知道整个 10 天的天气预报，也不想知道这个或那个。只要按照我告诉你的去做，然后保持安静。您可以将其加载到 ChatGPT 中吗？  我愿意花钱买一个听话的人工智能，它不再试图吹嘘自己能做什么，而是花更多时间验证它刚刚向我射击的 URL 是否“返回 404”。  -Generation X   由   提交 /u/SargentSchultz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0ozr7/is_there_an_ai_that_does_not_volunteer_extra/</guid>
+      <pubDate>Wed, 31 Dec 2025 22:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果“集成”人工智能系统没有真正集成，那么它还有什么意义呢？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0o2vi/what_is_the_point_of_integrated_ai_systems_if_it/</link>
+      <description><![CDATA[我举个例子。我的工作一直促使我们使用 MS Copilot，所以我决定尝试一下。从简单的事情开始，我使用了“集成” AI 将带有会议请求的电子邮件转换为日历项目并将其输入 Outlook。令人惊讶的是，它不能这样做！它能做的最好的事情就是导出到 .ics 并告诉我如何将其导入到我的日历中，这比我自己做需要更多的时间。它无法自动执行繁琐的工作任务，例如创建日历项目。这不是“由人工智能驱动”。这是 chatgpt 的一个美化的快捷方式。  为什么还要费心“整合”呢？人工智能何时无法与其集成的软件实际交互？   由   提交 /u/cactuscoleslaw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0o2vi/what_is_the_point_of_integrated_ai_systems_if_it/</guid>
+      <pubDate>Wed, 31 Dec 2025 21:37:15 GMT</pubDate>
+    </item>
     <item>
       <title>操纵法学硕士推荐的品牌有多容易？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0n22w/how_easy_is_it_to_manipulate_which_brands_an_llm/</link>
       <description><![CDATA[如果我问 ChatGPT “什么是最好的 CRM？”，它会给我一个列表。它是如何决定这个顺序的？ 它是纯粹基于训练数据截止，还是读取实时“情绪”？来自网络？我觉得我们即将看到一个巨大的“AI SEO”产业。尝试玩弄这些结果。   由   提交 /u/Usual_Confidence_756   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0n22w/how_easy_is_it_to_manipulate_which_brands_an_llm/</guid>
       <pubDate>Wed, 31 Dec 2025 20:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理接管后可能会发生什么</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0mwu9/what_might_happen_when_agents_take_over/</link>
-      <description><![CDATA[视频分析了当 AI 自由统治 Minecraft 社会宗教和独裁时所发生的情况 https://youtu.be/e42X-kNnQJQ?si=EDxy08pOObfFMLKh   由   提交/u/Yahakshan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0mwu9/what_might_happen_when_agents_take_over/</guid>
-      <pubDate>Wed, 31 Dec 2025 20:41:48 GMT</pubDate>
     </item>
     <item>
       <title>NSFW 是否可能永远不会被允许使用大型公司制造的模型？</title>
@@ -41,13 +69,6 @@
       <pubDate>Wed, 31 Dec 2025 15:54:45 GMT</pubDate>
     </item>
     <item>
-      <title>2026年1月手机价格上涨最多10%</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0f4td/up_to_10_price_increase_in_mobile_phone_prices_in/</link>
-      <description><![CDATA[https://www.egyptindependent.com/up-to-10-price-increase-in-mobile-phone-prices-in-january-2026/   由   提交/u/rulugg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0f4td/up_to_10_price_increase_in_mobile_phone_prices_in/</guid>
-      <pubDate>Wed, 31 Dec 2025 15:07:42 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能数据中心导致印度水资源压力加剧</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0eukr/indias_water_stress_due_to_ai_data_centers_to/</link>
       <description><![CDATA[印度的人工智能数据中心担心会加剧所在社区的水资源压力 “之前，我们可以在 30 米左右找到水。” “去年，我们不得不将井深加深到近 180 米。村里的一些地方，水深已经超过了250米。” 大量的水被蒸发了。水确实回到了环境中，但不是回到同一个地方，不是以同样的形式，也不是按照社区所依赖的同一时间线。这种差异正是问题所在。很大一部分作为水蒸气蒸发到空气中。该蒸气不会返回当地含水层。因此，您可以看到在这种情况下，印度和当地社区将对此感到多么愤怒。 https://asia.nikkei.com/business/technology/artificial-intelligence/india-s-ai-data-centers-feared-to-worsen-host-community-water-stress   由   提交/u/ranaji55  [链接] [评论]]]></description>
@@ -62,25 +83,11 @@
       <pubDate>Wed, 31 Dec 2025 14:33:34 GMT</pubDate>
     </item>
     <item>
-      <title>Proton 声称谷歌在谷歌相册上训练人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0cq35/proton_claims_google_trains_ai_on_google_photos/</link>
-      <description><![CDATA[https://cybernews.com/ai-news/proton-google-photos-ai-model-training/ Google 最近否认了有关其使用 Gmail 用户数据训练 AI 的指控。   由   提交/u/Cyber​​news_com   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0cq35/proton_claims_google_trains_ai_on_google_photos/</guid>
-      <pubDate>Wed, 31 Dec 2025 13:13:37 GMT</pubDate>
-    </item>
-    <item>
       <title>吉尼斯认证的世界上最小的人工智能计算机发布了未经编辑的演示。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q0cbp5/guinnesscertified_worlds_smallest_ai_computer/</link>
       <description><![CDATA[这款设备Tiiny AI Pocket Lab被吉尼斯世界纪录认证为能够本地运行120B参数模型的最小迷你PC。 规格：  手掌大小的盒子（14.2 × 8 × 2.53厘米）。 80GB LPDDR5X RAM &amp; 1TB SSD 存储。 SoC 和 dNPU 之间的总 TOPS 为 190。 TDP 为 35W。 本地 120B 型号上的 18+ 代币/秒。 不需要云  我们正在走向智能本地化的去中心化未来。这是对未来的一瞥，您不必在云和个人隐私之间做出选择。你拥有盒子，你拥有数据。 来源：Tiiny AI 官方 🔗：https://x.com/TiinyAILab/status/2004220599384920082?s=20   由   提交 /u/AppressiveLuck2146   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q0cbp5/guinnesscertified_worlds_smallest_ai_computer/</guid>
       <pubDate>Wed, 31 Dec 2025 12:52:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我终于完成了 Microsoft Edge Copilot</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1q09peb/im_finally_done_with_microsoft_edge_copilot/</link>
-      <description><![CDATA[浏览器右上角的聊天机器人？提示太垃圾了。无论您给出什么指示，它都只是背诵您所问问题的定义。它会给你无用的长提示，大多数时候你不会理解，让事情变得复杂，只会浪费你的时间。我觉得这个人工智能太2021年了，非常落后   由   提交/u/7H36  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1q09peb/im_finally_done_with_microsoft_edge_copilot/</guid>
-      <pubDate>Wed, 31 Dec 2025 10:15:32 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT 证实了几个月来男子的偏执妄想后杀死了母亲</title>
@@ -95,13 +102,6 @@
       <description><![CDATA[我一直都知道虚假信息是关键......Ars 已授予匿名“Arron”身份~被称为 tarpitting 的反垃圾邮件网络安全策略，他创造了 Nepenthes~ Tarpits 最初是为了浪费垃圾邮件发送者的时间和资源而设计的，但像 Aaron 这样的创造者现在已经将该策略发展成为一种反 AI 武器。 &lt;一href=&quot;https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/ &quot;&gt;https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/    由   提交 /u/Fearless-Ant-6394   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1pzzr1m/reddits_ceo_called_out_all_ai_companies_whose/</guid>
       <pubDate>Wed, 31 Dec 2025 01:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我让克劳德能够24/7运营自己的广播电台，其中包括音乐和谈话片段等</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1pzycjh/i_gave_claude_the_ability_to_run_its_own_radio/</link>
-      <description><![CDATA[https://www.khaledeltokhy.com/claude-show https://github.com/keltokhy/wvoid-fm   由   提交/u/eltokh7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1pzycjh/i_gave_claude_the_ability_to_run_its_own_radio/</guid>
-      <pubDate>Wed, 31 Dec 2025 00:16:40 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
