@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 02 Jan 2026 06:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Jan 2026 09:17:08 GMT</lastBuildDate>
     <item>
-      <title>只是一次经历</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q1mgnb/just_an_experience/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q1mgnb/just_an_experience/</guid>
-      <pubDate>Fri, 02 Jan 2026 02:23:43 GMT</pubDate>
+      <title>Poise：实时系统范围内的音频语音隔离（ONNX、低延迟、Windows）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q1smfu/poise_realtime_systemwide_audio_voice_isolation/</link>
+      <description><![CDATA[大家好，我正在分享一个我一直在从事的小型开源项目。 Poise 是一个实时系统音频语音隔离器，它捕获系统输出，通过 ONNX 语音去噪模型运行它，并以低延迟（约 10 毫秒帧）回放增强的纯语音音频。 它专为语音清晰度比音频保真度更重要的情况而设计（演讲、讲座、采访等）。 局限性：  输出为单声道 非语音元素（音乐、氛围、效果）大部分被删除  功能包括：  Windows 上的 WASAPI 环回捕获 流式传输模型状态 基于 VAD 的处理 GUI + CLI  存储库：https://github.com/chabandou/Poise-Voice-Isolator 我也在尝试使用实时茎分离器模型，但只能实现约 2 秒的延迟，这可能是由于硬件限制，这就是我使用降噪器模型的原因。  对此主题的任何反馈或帮助表示赞赏。   由   提交/u/chabandou  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q1smfu/poise_realtime_systemwide_audio_voice_isolation/</guid>
+      <pubDate>Fri, 02 Jan 2026 07:43:36 GMT</pubDate>
     </item>
     <item>
       <title>我厌倦了昂贵的 WiFi 规划软件，所以我编写了自己的软件。</title>
