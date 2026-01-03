@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 03 Jan 2026 00:46:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Jan 2026 06:16:55 GMT</lastBuildDate>
+    <item>
+      <title>plan-do-check-verify-retrospect：人工智能辅助编码框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q2lmjs/plandocheckverifyretrospect_a_framework_for_ai/</link>
+      <description><![CDATA[       由   提交 /u/nilukush   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q2lmjs/plandocheckverifyretrospect_a_framework_for_ai/</guid>
+      <pubDate>Sat, 03 Jan 2026 04:59:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频编辑器替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q2hs7z/video_editor_alternatives/</link>
+      <description><![CDATA[我正在寻找免费和开源的视频编辑器替代品，因为我只是希望能够剪切一些剪辑，将它们连接在一起并放置背景音乐，也许在顶部添加一些图像，但不是真正复杂的编辑内容。 我见过 Open shot，但用户界面并没有真正鼓励我，我希望像 OpenCut 这样的东西得到维护，但似乎已经死了，所以如果你们能帮助我，我将不胜感激一些想法来做到这一点。 一个优点是让 Docker 容器通过 Web UI 进行编辑并将视频存储在服务器中，但这不是必须的！！   由   提交/u/aaronfort  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q2hs7z/video_editor_alternatives/</guid>
+      <pubDate>Sat, 03 Jan 2026 02:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的一个项目有一个 github star！！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q2hlkn/one_of_my_projects_has_a_github_star/</link>
+      <description><![CDATA[这篇文章基本上就结束了。我喜欢为其他人制作东西:) 如果您有兴趣，请访问 github.com/Avni2000/OllaMark   由   提交/u/EnderAvni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q2hlkn/one_of_my_projects_has_a_github_star/</guid>
+      <pubDate>Sat, 03 Jan 2026 01:53:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>为公众运行基于 Proxmox、SearXNG、PrivateBin 和 IRC 构建的自托管开源隐私服务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q2giwl/running_self_hosted_open_source_privacy_services/</link>
+      <description><![CDATA[几年前，我在我的家庭基础设施上开始基于开源项目构建自托管服务。最初的个人 IRC 服务器已经发展成为一套专注于隐私的服务，我现在向公众开放 - 因为这就是 FOSS 的最终目的，对吗？ :)  我运行的内容： IRC 服务器（UnrealIRCd + Anope Services + soju）  服务器：irc.inthemansion.com:6697 (SSL) 大约 40 名活跃用户 - 开发人员，自托管者、隐私倡导者 主要渠道：#lobby 经典的去中心化聊天，无公司中间人  SearXNG 实例  URL：search.inthemansion.com 元搜索引擎聚合多个来源的结果 零跟踪，通过 Cookie 本地存储用户偏好 无需注册  PrivateBin  URL：paste.inthemansion.com 客户端加密的 Pastebin 最大上传 10MB（文本、代码、图像） 零知识 - 服务器只能看到加密数据  这一切都在三台基于 Proxmox 的机器上：  核心 VM/LXC 的主数据中心 专用 Proxmox IRC 机器以确保可靠性 Proxmox 备份服务器以实现冗余  整个堆栈都是开源的 - 从管理程序到在其上运行的每个服务。这也都在家庭基础设施上，所以它不是企业级的正常运行时间，但它是稳定的，正确分段的，并且维护得小心。所有服务均记录在 inthemansion.com 中。 如果这些服务能够帮助少数人逃避公司监视，同时体验开源的功能，那就是一场胜利。欢迎反馈和建设性批评——这就是我们共同进步的方式。也非常欢迎大家加入我们的 IRC 服务器并进行聊天:) 很高兴分享配置详细信息、部署说明或经验教训。在家运行多个 Proxmox 设置是一个旅程，而不是假装。 话虽如此，感谢所有参与开源领域的人，这是我们应该永远珍惜并尽我们所能做出贡献的事情:)   由   提交 /u/avatar_one   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q2giwl/running_self_hosted_open_source_privacy_services/</guid>
+      <pubDate>Sat, 03 Jan 2026 01:06:41 GMT</pubDate>
+    </item>
     <item>
       <title>我为 CrowdSec 构建了一个现代的本地 Web UI</title>
       <link>https://www.reddit.com/r/opensource/comments/1q2fjjb/i_built_a_modern_local_web_ui_for_crowdsec/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我尚未添加添加图像的功能，因为该网站托管在免费的 vercel 层上，因此可能会超出限制。   由   提交/u/nitin_is_me  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1q1wn88/need_some_feedback_on_my_opensource_anonymous/</guid>
       <pubDate>Fri, 02 Jan 2026 11:48:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>TIL：我是开源贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q1uac3/til_i_am_an_opensource_contributor/</link>
-      <description><![CDATA[ 由   提交 /u/sdegabrielle   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q1uac3/til_i_am_an_opensource_contributor/</guid>
-      <pubDate>Fri, 02 Jan 2026 09:28:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tasket++ — 用于自动化用户操作的简单 Windows 工具，免费且开源 — 新 UI，寻找测试人员</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q1sxp5/tasket_simple_windows_tool_to_automate_user/</link>
-      <description><![CDATA[Tasket++ 是一个简单的 Windows 工具，用于安排用户操作的自动模拟，无需编写脚本。  模拟操作包括点击、打字、光标移动等等 - 屏幕截图、打开文件、可执行文件和 URL、关闭电脑等。 最近根据反馈重新设计了 UI，并添加了一些用户请求的功能。 寻找一些人尝试新的完整版本并分享诚实的反馈。 它的用途： - 静音、预定的屏幕截图监控活动或创建延时日志。 - 在设定的时间从任何应用程序发送消息以进行提醒或协调通知。 - 重放精确的鼠标点击和键入的输入以进行测试、演示或重复工作流程。 - 通过看起来自然的真实模拟活动防止 AFK 检测。 - 按计划淡出音乐并关闭电脑，以自动执行睡眠或一天结束的例程。 - 保存自动化预设并运行它们手动、启动时或按计划。 无需编写脚本。完全本地化。模拟任务可以循环、在启动时触发或通过桌面快捷方式启动。 Microsoft Store：https://apps.microsoft.com/detail/xp9cjlhwvxs49p源代码和问题：https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 便携式 (v1.6) : https://files.amirhammoutene.dev/Tasket++/1.6/Tasket++_v1.6.zip 我不要求完整的质量检查流程 - 简短的印象或简洁的反馈将不胜感激。预先感谢您:)   由   提交/u/AmirHammoutene  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q1sxp5/tasket_simple_windows_tool_to_automate_user/</guid>
-      <pubDate>Fri, 02 Jan 2026 08:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了昂贵的 WiFi 规划软件，所以我编写了自己的软件。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q1lxcv/i_got_fed_up_with_expensive_wifi_planning/</link>
-      <description><![CDATA[ 由   提交/u/blast601  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q1lxcv/i_got_fed_up_with_expensive_wifi_planning/</guid>
-      <pubDate>Fri, 02 Jan 2026 01:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新：您询问的自托管浏览器自动化项目现在支持 CSV 工作流程</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q1l9im/update_the_selfhosted_browser_automation_project/</link>
-      <description><![CDATA[ 由   提交 /u/AserNasr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q1l9im/update_the_selfhosted_browser_automation_project/</guid>
-      <pubDate>Fri, 02 Jan 2026 01:28:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
