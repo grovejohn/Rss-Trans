@@ -4,27 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 03 Jan 2026 21:11:21 GMT</lastBuildDate>
-    <item>
-      <title>我构建了一个监控工具，可以为您调试停机时间（RCA + 全局检查）</title>
-      <link>https://www.reddit.com/r/programming/comments/1q361rw/i_built_a_monitoring_tool_that_debugs_downtime/</link>
-      <description><![CDATA[大家好！ 👋 我厌倦了“服务中断”警报没有给我任何背景信息。现有工具要么太简单（仅 Ping），要么太昂贵（企业套件）。 因此我构建了 OpsPulse - 一个开发人员优先的监控平台。 它有何不同？ 🕵️‍♂️ 根本原因分析：如果 HTTP 失败，它会自动检查 Ping、TCP 和 SSL 来告诉您为什么失败（例如，“端口已打开，但 Nginx 502”）。 🌍 多区域：使用 Google Cloud Functions 验证美国、欧盟和亚洲的可用性。 🧬 JSON 架构验证：心跳监控，用于验证 Webhook 的内容（例如，如果 backup_size &lt;50mb 则发出警报）。 🔍智能关键字匹配“异常”警报或确保“成功”存在于 HTML 中。 🛡️ 安全第一： SSRF 保护和完整的 SSL 链验证。 技术堆栈： Next.js、Python、Supabase、GCF。 我正在寻找 beta 测试人员和反馈！   由   提交/u/West_Reaction4482   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1q361rw/i_built_a_monitoring_tool_that_debugs_downtime/</guid>
-      <pubDate>Sat, 03 Jan 2026 21:02:35 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 04 Jan 2026 00:55:36 GMT</lastBuildDate>
     <item>
       <title>让 Claude Code 与 Windows 98 对话（C 客户端、.NET 代理）</title>
       <link>https://www.reddit.com/r/programming/comments/1q359tj/making_claude_code_talk_to_windows_98_c_client/</link>
       <description><![CDATA[ 由   提交/u/shinto29  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1q359tj/making_claude_code_talk_to_windows_98_c_client/</guid>
       <pubDate>Sat, 03 Jan 2026 20:31:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的在线开发者实用工具包和模拟器（欢迎反馈）</title>
-      <link>https://www.reddit.com/r/programming/comments/1q3558w/free_online_developer_utility_toolkit_and/</link>
-      <description><![CDATA[我收集了一些免费的小型开发实用程序和模拟器（JSON、JWT、Base64、Regex、webhook 测试等）： 欢迎提供反馈或建议。 https://toolkit.whysonil.dev   由   提交/u/nulless  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1q3558w/free_online_developer_utility_toolkit_and/</guid>
-      <pubDate>Sat, 03 Jan 2026 20:26:15 GMT</pubDate>
     </item>
     <item>
       <title>用纯 C 语言编写 SIMD 优化的 Parquet 库：实施 Thrift 解析、位打包和运行时 CPU 调度的经验教训</title>
@@ -48,13 +34,6 @@
       <pubDate>Sat, 03 Jan 2026 19:34:06 GMT</pubDate>
     </item>
     <item>
-      <title>法学硕士永远不会活着或聪明，“代理人”永远不会知道并满足我们的每一个需求</title>
-      <link>https://www.reddit.com/r/programming/comments/1q331xu/llms_will_never_be_alive_or_intelligent_and/</link>
-      <description><![CDATA[ 由   提交/u/hatwd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1q331xu/llms_will_never_be_alive_or_intelligent_and/</guid>
-      <pubDate>Sat, 03 Jan 2026 19:05:56 GMT</pubDate>
-    </item>
-    <item>
       <title>将业务逻辑视为一个单独的、可测试的工件——有人这样做吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1q32xif/treating_business_logic_as_a_separate_testable/</link>
       <description><![CDATA[我一直在思考业务规则如何分散在代码库中——埋藏在服务层中、与验证混合在一起，或者陷入不同步的 Confluence 文档中。 如果业务逻辑是一流的工件怎么办？类似于： yaml 规则： - id: enterprise_discount when: customer_tier: enterprise then:discount_percent: 20  想法是： - 规则是声明性的，而不是强制性的 - 首先匹配获胜评估（如防火墙规则） - 测试与规则一起进行 - 如果逻辑测试失败，CI 会阻止 PR 这将“应该发生什么”与“应该发生什么”分开来自“它是如何实现的。” 随着人工智能生成更多代码，我一直想知道实现是否变得比逻辑本身更有价值。代码可以重新生成——但业务决策才是真正定义产品的因素。 有人在这样的系统上工作过吗？对现有技术、模式或为什么这可能是一个糟糕的想法感到好奇。   由   提交/u/One_Lengthiness1685   [链接] [评论]]]></description>
@@ -76,20 +55,6 @@
       <pubDate>Sat, 03 Jan 2026 17:35:20 GMT</pubDate>
     </item>
     <item>
-      <title>开源软件的一个角色变化</title>
-      <link>https://www.reddit.com/r/programming/comments/1q30dqt/one_character_change_in_open_source_software/</link>
-      <description><![CDATA[我最新的贡献是一个字符的更改。我从“？”更改了一个字符串&#39;!&#39;，它修复了下游的一个错误，因为它将字符串检测为模式而不是文字。 这是一个更大的 PR 的一次提交，总共大约有 100 行实质性更改。 没有人评论任何实质性内容，但单字符的更改产生了 10 条评论，并引发了一场激烈的争论，内容涉及到底应该在哪里检测模式、应该如何引用（或不应该进行引用等）以及整个设计 现在我没有为此获得报酬，所以我只是删除了一个字符的更改，只是为了满足审核者的要求，这样就可以审核实质性更改并修复潜在的错误。 这里有一个问题：“真的吗？”我维护着一些流行的开源项目，而且我从来没有这么迂腐。我注意到很多人过于关心愚蠢的细节，而不是项目的总体目标。 是什么推动了这一点？为什么不牢记总体目标，而不是为单字符更改之类的愚蠢事情而陷入困境？   由   提交/u/lprimak   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1q30dqt/one_character_change_in_open_source_software/</guid>
-      <pubDate>Sat, 03 Jan 2026 17:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Python 构建工作流编排引擎 - 从实施任务 DAG 中吸取的经验教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1q2ytd0/built_a_workflow_orchestration_engine_with_python/</link>
-      <description><![CDATA[在过去的几个月里，我构建了 Open Automator，一个工作流自动化平台，并希望分享一些技术见解。 架构决策：  YAML → 执行图 在 YAML 中定义的工作流on_success/on_failure 分支。引擎遍历图形查找入口点（没有传入边的任务）。 上下文传播 每个任务输出的数据自动传递到下一个任务。实现了WorkflowContext类，用于维护执行状态+任务结果。 秘密管理使用PBKDF2 + Fernet构建加密钱包。支持占位符解析：YAML 配置中的 ${WALLET:api_key}。 微服务模式 分为 4 个 Docker 镜像：API 服务器、UI 仪表板、CLI 工具、钱包实用程序。工作流/数据的共享卷。  有趣的挑战：  防止工作流图中出现无限循环 具有基于信号量的并发控制的线程安全执行管理器 序列化 REST API 响应的任意任务输出 从工作流 DAG 生成美人鱼图  技术： Python 3.8+、FastAPI、Streamlit、Docker、加密库 存储库：https://github.com/lordraw77/open-automator 开放技术讨论 - 您会采取什么不同的做法？您将如何处理长时间运行的任务（&gt;1 小时）？   由   提交/u/lordraw77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1q2ytd0/built_a_workflow_orchestration_engine_with_python/</guid>
-      <pubDate>Sat, 03 Jan 2026 16:25:52 GMT</pubDate>
-    </item>
-    <item>
       <title>谁拥有内存？第 1 部分：什么是对象？</title>
       <link>https://www.reddit.com/r/programming/comments/1q2y2hc/who_owns_the_memory_part_1_what_is_an_object/</link>
       <description><![CDATA[ 由   提交/u/Luke_Fleed  [链接] [评论]]]></description>
@@ -104,11 +69,46 @@
       <pubDate>Sat, 03 Jan 2026 14:57:05 GMT</pubDate>
     </item>
     <item>
-      <title>寻找开发人员为 Clash.gg 构建可靠的自动降雨索赔器脚本 – DM 讨论</title>
-      <link>https://www.reddit.com/r/programming/comments/1q2wf1n/looking_for_developer_to_build_a_reliable_auto/</link>
-      <description><![CDATA[我正在寻找熟练的开发人员来为 Clash.gg 创建自动降雨声明者脚本。 目标很简单：浏览器脚本自动检测并单击“加入降雨”按钮。网站聊天中的按钮一出现（通常每 30 分钟左右就会下雨）。 很高兴与 DM 讨论一切。如果您以前构建过类似的自动化脚本（聊天机器人、自动点击器等），请随时分享示例。   由   提交/u/pertxyyy  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1q2wf1n/looking_for_developer_to_build_a_reliable_auto/</guid>
-      <pubDate>Sat, 03 Jan 2026 14:49:55 GMT</pubDate>
+      <title>身份是一种物理财产，而不是数字许可</title>
+      <link>https://www.reddit.com/r/programming/comments/1q2vf8z/identity_is_a_physical_property_not_a_digital/</link>
+      <description><![CDATA[问题 如今，几乎所有防伪或身份验证系统都以数字身份开始，并尝试将其附加到物理事物上。 QR 码、序列号、NFC 标签、云验证，甚至基于 ML 的“真假”分析图像检查——它们都有一个假设：数字层是事实的来源。物理对象只是一个载体。 这种假设开始感觉倒退了。 核心思想：提取，而不是分配 如果一个物理对象在其创建过程中已经形成了一个独特的、可测量的身份（微观错位、印刷缺陷、层偏移）怎么办？ 如果我们不把数字代码粘在上面，而只是测量已经存在的东西，会怎么样？那里并使数字层成为该物理指纹的参考？ 这就是 PBM（基于视角的标记）的前提。这是一个简单的物理层实验。 工作原理（简单版本） 设置故意采用低技术含量：  打印两个高频网格图案，一个在另一个上面，它们之间有一个微小的、固定的物理间隙（毫米）。 从一个小角度捕获图像。 物理部分：如果是真实的3D 间隙存在，您会得到视差（网格在图像中相对于彼此移动）。如果是平面照片、屏幕重播或重印，视差场就会崩溃。数学是二进制的。  它不使用什么 这是重要的部分：  没有神经网络 没有“AI 置信度得分” 没有用于核心验证的云 API 调用 没有训练数据或启发式  它使用什么  确定性信号处理：FFT 和相位相关。 简单的信噪比阈值。 输出为 PHYSICAL、NON_PHYSICAL 或 UNDECIDABLE。  UNDECIDABLE 结果是故意的。如果信号不明确，系统会声明“我不知道”。它不会猜测。这感觉比幻觉确定性的系统更健康。 经过测试的绕过方法（它们失败了） 我尝试了明显的攻击：  拍摄令牌照片并将其打印 在手机屏幕上显示令牌 高分辨率重印对于人眼来说，它们看起来很完美。他们甚至可能会传递“强烈信号”查看。但是两个网格层之间的相对视差呢？零。物理不会协商。  你可以自己尝试（认真地）你不需要实验室。要看到视差效果：  一台喷墨打印机 A4纸 CD盒之类的垫片，用于形成间隙 一滴食用油（使最上面的纸半透明并看到两层）这足以观察核心原理。  为什么公开发布此内容？我不想让它变成这样变成：  “信任我们的专有模型” “上传到我们的验证 API” “可用企业定价”  这描述了基于物理的约束，而不是产品。如果这个方法有缺陷，我希望它被公开打破。如果它是有效的，它应该属于任何理解数学的人。 存储库和完整的技术规范是公开的（评论中的链接）。我很高兴讨论为什么这可能是一个死胡同，或者它在哪里可能真正有用。 新年快乐。 https://github.com/illegal-instruction-co/pbm-core   由   提交/u/Humble-Plastic-5285   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1q2vf8z/identity_is_a_physical_property_not_a_digital/</guid>
+      <pubDate>Sat, 03 Jan 2026 14:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>以单一文本格式封装音频元数据和编辑逻辑</title>
+      <link>https://www.reddit.com/r/programming/comments/1q2rvgs/encapsulating_audio_metadata_and_edit_logic_in_a/</link>
+      <description><![CDATA[CUE 表描述了音频时间戳和元数据，但我想要更具表现力的东西。我构建了一个基于 CUE 的文本格式和一个具有类似 SQL 方法的工具，使其小巧且易于实现，同时允许简单但有效的编辑。 在演示中，仅使用 MP3 拖动和播放即可创建专辑混合曲。拖放和文本复制/粘贴—无需波形编辑。   由   提交 /u/cutandjoin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1q2rvgs/encapsulating_audio_metadata_and_edit_logic_in_a/</guid>
+      <pubDate>Sat, 03 Jan 2026 10:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么开发人员的专业知识在人工智能时代比以往任何时候都更加重要</title>
+      <link>https://www.reddit.com/r/programming/comments/1q2qa5m/why_developer_expertise_matters_more_than_ever_in/</link>
+      <description><![CDATA[阅读“为什么开发人员的专业知识在人工智能时代比以往任何时候都更加重要”    由   提交/u/iammidhul  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1q2qa5m/why_developer_expertise_matters_more_than_ever_in/</guid>
+      <pubDate>Sat, 03 Jan 2026 09:21:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究发现压痕深度与圈复杂度相关。一种与语言无关的测量代码复杂性的方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1q2q1ib/research_found_indentation_depth_correlates_with/</link>
+      <description><![CDATA[ 由   提交/u/itaymendi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1q2q1ib/research_found_indentation_depth_correlates_with/</guid>
+      <pubDate>Sat, 03 Jan 2026 09:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uber 如何实时显示数百万司机的位置</title>
+      <link>https://www.reddit.com/r/programming/comments/1q2o00b/how_uber_shows_millions_of_drivers_location_in/</link>
+      <description><![CDATA[ 由   提交/u/Sushant098123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1q2o00b/how_uber_shows_millions_of_drivers_location_in/</guid>
+      <pubDate>Sat, 03 Jan 2026 07:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>可延展的软件：在锁定应用程序的世界中恢复用户代理</title>
+      <link>https://www.reddit.com/r/programming/comments/1q2kz3k/malleable_software_restoring_user_agency_in_a/</link>
+      <description><![CDATA[ 由   提交 /u/misterolupo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1q2kz3k/malleable_software_restoring_user_agency_in_a/</guid>
+      <pubDate>Sat, 03 Jan 2026 04:27:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
