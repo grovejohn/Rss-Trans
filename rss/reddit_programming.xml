@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 04 Jan 2026 21:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 00:55:14 GMT</lastBuildDate>
+    <item>
+      <title>将 UNIX 哲学应用于代理</title>
+      <link>https://www.reddit.com/r/programming/comments/1q474ug/applying_the_unix_philosophy_to_agents/</link>
+      <description><![CDATA[简单且可用的工具是 Unix 哲学的关键部分。 grep、curl 和 git 等工具已成为第二天性，对于包容性和高效的生态系统来说是巨大的胜利。它们快速、可靠且可组合。然而，围绕人工智能和人工智能代理的生态系统目前感觉就像是在使用一个臃肿的单一专有软件，其许可费用过高且具有卡夫卡式的许可费用。 Orla 建立在一个简单的前提之上：人工智能应该是您拥有的（免费软件）工具，而不是您租用的服务。它将简单性、可靠性和可组合性视为首要任务。 Orla 使用在您自己的计算机上运行的模型，并自动发现您已有的工具，使其开箱即用，功能强大且私密。它不需要 API 密钥、订阅或耗电的数据中心。总而言之， Orla 在本地运行。如果没有您的明确指示，您的数据、查询和工具永远不会离开您的机器。默认情况下它是私有的。 Orla 通过极其简单的界面将现代法学硕士的强大功能带入您的终端。如果您知道如何使用 grep，那么您就知道如何使用 Orla。 Orla 是免费的开源软件。没有订阅，没有供应商锁定。有关路线图的更多详细信息，请参阅 docs/rfcs/ 中的 RFC。 我不确定这种方法的通用性，因此非常感谢反馈。   由   提交/u/Available_Pressure47  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1q474ug/applying_the_unix_philosophy_to_agents/</guid>
+      <pubDate>Mon, 05 Jan 2026 00:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>法国和马来西亚当局正在调查 Grok 制作色情深度假货</title>
+      <link>https://www.reddit.com/r/programming/comments/1q46bs0/french_and_malaysian_authorities_are/</link>
+      <description><![CDATA[ 由   提交/u/Dependent_Heron_7640   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1q46bs0/french_and_malaysian_authorities_are/</guid>
+      <pubDate>Mon, 05 Jan 2026 00:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>在 Google 工作 14 年的 21 条经验教训</title>
       <link>https://www.reddit.com/r/programming/comments/1q41c87/21_lessons_from_14_years_at_google/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ThomasMertes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1q3l2ke/meeting_seed7_by_norman_feske/</guid>
       <pubDate>Sun, 04 Jan 2026 08:49:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>既然 LLM 可以编写代码，那么 2026 年世界准备好迎接另一种编程语言了吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1q3igl6/is_the_world_ready_for_another_programming/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1q3igl6/is_the_world_ready_for_another_programming/</guid>
-      <pubDate>Sun, 04 Jan 2026 06:16:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从实际数据中自主发现物理不变量（无目标变量，无预定义方程）</title>
-      <link>https://www.reddit.com/r/programming/comments/1q3fpkv/autonomous_discovery_of_physical_invariants_from/</link>
-      <description><![CDATA[大多数“科学人工智能”和方程发现系统都会假设要预测什么。他们指定一个目标变量、一个方程组或一个动态形式，然后优化参数。 这项工作探索...一个不同的目标。 仅给定来自多个系统的原始观测数据，该架构搜索派生量，将异构行为折叠到共享函数关系上。 具体来说，系统： •不假设目标变量， •不假设方程类， •并且不优化预测误差， 相反，它搜索低复杂度的不变量，使不同的系统在共享映射下看起来相同。 在使用 NASA 锂离子电池老化数据的实际测试中，它自动识别热力学效率的不变量，该不变量会破坏不同电池之间的退化轨迹，而不使用容量作为输入或目标。 这项工作的重点是表明，无目标不变发现可以被视为其自身的计算问题，而不是回归、符号方程拟合或 PINN 的变体。 我最终对将其与符号回归、SINDy 或基于 Koopman 的方法进行比较的技术批评感兴趣，因为这里的目标是不变发现，而不是方程拟合。   由   提交 /u/anima-core   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1q3fpkv/autonomous_discovery_of_physical_invariants_from/</guid>
-      <pubDate>Sun, 04 Jan 2026 03:57:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
