@@ -4,7 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 05 Jan 2026 06:23:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Jan 2026 09:22:32 GMT</lastBuildDate>
     <item>
       <title>当您必须设计 RDB 模式时，您使用哪种工具？</title>
       <link>https://www.reddit.com/r/webdev/comments/1q4bqb7/which_tool_do_you_use_when_you_have_to_design_rdb/</link>
@@ -64,7 +64,7 @@
     <item>
       <title>前端开发人员，当真实的 API 太快/太稳定时，你们如何处理“正在加载”和“错误”状态？</title>
       <link>https://www.reddit.com/r/webdev/comments/1q45fgs/frontend_devs_how_do_you_handle_loading_and_error/</link>
-      <description><![CDATA[我正在开发一个工具来帮助我的前端团队。他们经常很难设计“加载骨架”的样式，因为本地 API 会立即返回数据，而且他们无法测试“Error Toasts”，因为 API 永远不会失败。 目前，他们在获取请求中硬编码延迟或使用 MSW（模拟服务工作线程），但他们发现维护起来很烦人。 您使用什么？一个可以让您通过仪表板切换“延迟 3 秒”或“强制 500 错误”的简单 URL 是否有用，还是有点过头了？   由   提交 /u/FarWait2431   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个工具来帮助我的前端团队。他们经常很难设计“加载骨架”的样式，因为本地 API 会立即返回数据，并且他们无法测试“Error Toasts”，因为 API 永远不会失败。 目前，他们在获取请求中硬编码延迟或使用 MSW（模拟服务工作线程），但他们发现维护起来很烦人。 您使用什么？一个可以让您通过仪表板切换“延迟 3 秒”或“强制 500 错误”的简单 URL 有用吗？还是说这太过分了？   由   提交 /u/FarWait2431   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1q45fgs/frontend_devs_how_do_you_handle_loading_and_error/</guid>
       <pubDate>Sun, 04 Jan 2026 23:39:01 GMT</pubDate>
     </item>
