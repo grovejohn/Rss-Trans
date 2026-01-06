@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 06 Jan 2026 12:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Jan 2026 15:12:19 GMT</lastBuildDate>
     <item>
       <title>LFM2.5</title>
       <link>https://www.producthunt.com/products/lfm2</link>
@@ -20,18 +20,32 @@
       <pubDate>Tue, 06 Jan 2026 07:25:59 GMT</pubDate>
     </item>
     <item>
-      <title>相机M 9</title>
-      <link>https://www.producthunt.com/products/camera-m</link>
+      <title>编织</title>
+      <link>https://www.producthunt.com/products/habi-vibe-coded-habit-tracker</link>
       <description><![CDATA[
-            适用于 iPhone 和 iPad 的专业手动相机
+            将日历事件变成习惯
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/camera-m</guid>
-      <pubDate>Tue, 06 Jan 2026 00:53:31 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/habi-vibe-coded-habit-tracker</guid>
+      <pubDate>Tue, 06 Jan 2026 04:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>锻造 CLI</title>
+      <link>https://www.producthunt.com/products/rightnow-ai</link>
+      <description><![CDATA[
+            Swarm 代理针对任何 HF/PyTorch 模型优化 CUDA/Triton
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/rightnow-ai</guid>
+      <pubDate>Tue, 06 Jan 2026 01:32:31 GMT</pubDate>
     </item>
     <item>
       <title>块车</title>
@@ -48,46 +62,46 @@
       <pubDate>Mon, 05 Jan 2026 22:18:09 GMT</pubDate>
     </item>
     <item>
-      <title>Bridge4Simulator MCP</title>
-      <link>https://www.producthunt.com/products/bridge4simulator-mcp</link>
+      <title>椭圆形</title>
+      <link>https://www.producthunt.com/products/oval-2</link>
       <description><![CDATA[
-            MCP 服务器让 AI 能够使用 iPhone 
+            Arc Search 的“捏合总结”在浏览器中重新创建
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/bridge4simulator-mcp</guid>
-      <pubDate>Mon, 05 Jan 2026 21:57:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/oval-2</guid>
+      <pubDate>Mon, 05 Jan 2026 14:24:10 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能时代的设计系统存储库</title>
-      <link>https://www.producthunt.com/products/design-systems-repo-for-the-ai-era</link>
+      <title>皮质</title>
+      <link>https://www.producthunt.com/products/cortex-10</link>
       <description><![CDATA[
-            有关人工智能如何重塑设计系统的精选资源
+            从 YAML 配置运行多个 claude-code 代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/design-systems-repo-for-the-ai-era</guid>
-      <pubDate>Mon, 05 Jan 2026 14:10:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/cortex-10</guid>
+      <pubDate>Mon, 05 Jan 2026 14:03:31 GMT</pubDate>
     </item>
     <item>
-      <title>托克</title>
-      <link>https://www.producthunt.com/products/tock-3</link>
+      <title>雅努斯</title>
+      <link>https://www.producthunt.com/products/janus-5</link>
       <description><![CDATA[
-            超简约、键盘驱动的 macOS 菜单栏计时器
+            在任何设备、任何平台上实时换脸
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tock-3</guid>
-      <pubDate>Mon, 05 Jan 2026 13:05:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/janus-5</guid>
+      <pubDate>Mon, 05 Jan 2026 13:44:11 GMT</pubDate>
     </item>
     <item>
       <title>指导2.5</title>
@@ -104,18 +118,32 @@
       <pubDate>Mon, 05 Jan 2026 11:18:27 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 中的 PDF 生成器</title>
-      <link>https://www.producthunt.com/products/pdf-generator-in-chatgpt</link>
+      <title>Okara Reddit 代理</title>
+      <link>https://www.producthunt.com/products/okara</link>
       <description><![CDATA[
-            ChatGPT 应用商店中通过 Apps SDK 提供的 Latex 到 PDF 应用程序
+            监控、策划和撰写真实评论的代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pdf-generator-in-chatgpt</guid>
-      <pubDate>Mon, 05 Jan 2026 09:59:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/okara</guid>
+      <pubDate>Mon, 05 Jan 2026 06:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>记忆泡泡</title>
+      <link>https://www.producthunt.com/products/memorybubble</link>
+      <description><![CDATA[
+            弹出气泡清理 Mac 内存
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/memorybubble</guid>
+      <pubDate>Mon, 05 Jan 2026 02:55:28 GMT</pubDate>
     </item>
     <item>
       <title>射线</title>
@@ -132,18 +160,18 @@
       <pubDate>Sun, 04 Jan 2026 15:37:34 GMT</pubDate>
     </item>
     <item>
-      <title>水族馆小部件</title>
-      <link>https://www.producthunt.com/products/aquarium-widgets</link>
+      <title>2-b.ai</title>
+      <link>https://www.producthunt.com/products/2-b-ai</link>
       <description><![CDATA[
-            您的袖珍水族馆 - 适用于 iOS 的放松小部件
+            Todoist 在您的浏览器中遇见 ChatGPT
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/aquarium-widgets</guid>
-      <pubDate>Sun, 04 Jan 2026 09:43:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/2-b-ai</guid>
+      <pubDate>Sat, 03 Jan 2026 23:07:41 GMT</pubDate>
     </item>
     <item>
       <title>纸</title>
@@ -163,7 +191,7 @@
       <title>假MRR</title>
       <link>https://www.producthunt.com/products/fakemrr</link>
       <description><![CDATA[
-            未经证实的初创公司收入数据库
+            未经核实的初创公司收入数据库
           
 
 讨论
@@ -174,35 +202,7 @@
       <pubDate>Tue, 23 Dec 2025 18:51:43 GMT</pubDate>
     </item>
     <item>
-      <title>普莱诺</title>
-      <link>https://www.producthunt.com/products/plano</link>
-      <description><![CDATA[
-            更快地构建代理，并将其可靠地交付到生产中
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/plano</guid>
-      <pubDate>Tue, 16 Dec 2025 21:35:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗利</title>
-      <link>https://www.producthunt.com/products/ralee</link>
-      <description><![CDATA[
-            按照您的预期交付您的设计
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ralee</guid>
-      <pubDate>Fri, 21 Nov 2025 05:19:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canary – 通过音乐学习语言</title>
+      <title>金丝雀</title>
       <link>https://www.producthunt.com/products/canary-learn-language-through-music</link>
       <description><![CDATA[
             用音乐学习语言，与人练习
