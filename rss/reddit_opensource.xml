@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 07 Jan 2026 09:21:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 12:21:47 GMT</lastBuildDate>
+    <item>
+      <title>ProjectLibre Desktop：您不知道自己需要的免费 Microsoft Project 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q6d5y4/projectlibre_desktop_the_free_microsoft_project/</link>
+      <description><![CDATA[       由   提交/u/420_rottie  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q6d5y4/projectlibre_desktop_the_free_microsoft_project/</guid>
+      <pubDate>Wed, 07 Jan 2026 11:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>房东的租金支付软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q6bz3d/rent_payment_software_for_landlords/</link>
+      <description><![CDATA[是否有任何好的开源租金支付检查器可以与英国商业银行集成，以便将租金收入与已出租的房产联系起来，以确保它们都是最新的付款。额外的好处是，如果租户有另一个视图，可以看到缺少哪些月份等。   由   提交/u/Snape_Draygon  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q6bz3d/rent_payment_software_for_landlords/</guid>
+      <pubDate>Wed, 07 Jan 2026 10:31:41 GMT</pubDate>
+    </item>
     <item>
       <title>为什么不受支持的闭源比不受支持的开源更好？</title>
       <link>https://www.reddit.com/r/opensource/comments/1q6ah8t/why_is_unsupported_closedsource_better_than/</link>
@@ -25,13 +39,6 @@
       <description><![CDATA[       由   提交/u/Stromel1   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1q68cmb/an_introduction_to_go_development_and_opensource/</guid>
       <pubDate>Wed, 07 Jan 2026 06:46:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 n8n 重点关注的 OAuth Reddit API 迁移到的最佳服务。速率限制不是问题，因为我们不断低于限制。跟踪了 1000 多个“实例”，但今年我想将其扩展到当前的 10 倍以上。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q685o6/best_service_to_move_n8n_focused_oauth_reddit_api/</link>
-      <description><![CDATA[只是好奇是否有人可以让我知道......我有一个开发人员对我的激进扩张方法有点不确定......说得温和一点，哈哈。 本质上是一个实时情绪跟踪器，被分配给每个“实例”，供用户实时查看。我们已经找到了访问隐藏的评论/帖子障碍以及跟踪投票和位置数据的方法。   由   提交/u/jdrukis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q685o6/best_service_to_move_n8n_focused_oauth_reddit_api/</guid>
-      <pubDate>Wed, 07 Jan 2026 06:36:04 GMT</pubDate>
     </item>
     <item>
       <title>最好的自托管开源个人理财应用程序？</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[自托管的 Letterboxd 分析和跟踪仪表板。 灵感来自 您的 Spotify，但适用于电影。它会同步您的 Letterboxd 数据，并使用 TMDB 中的元数据对其进行丰富，让您深入了解自己的观看习惯。 您的数据本地存储在您拥有的单个 SQLite 数据库中。该应用程序在容器中运行，并按计划自动同步新活动，因此您的观看历史记录会随着时间的推移而积累，而无需手动同步。 链接：https://github.com/yuyangchee98/your_letterboxd 应用程序的图像：https://chyuang.com/projects/your-letterboxd/   由   提交/u/yuyangchee98  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1q61mma/your_letterboxd/</guid>
       <pubDate>Wed, 07 Jan 2026 01:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了 gitbooks 的替代品，寻找有关该产品的早期反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q60uzw/i_built_an_alternative_to_gitbooks_looking_for/</link>
-      <description><![CDATA[大家好，我构建了 gitbooks/docusaurus 的替代品。但使用 WYSWIG 编辑器，它集成了人工智能，因此您可以自动化写作。  免费赠送给开源项目，以换取反馈🙏。如果您认为您的项目需要美观的文档，并且不想花太多时间编写它，请联系我们。  不过，仅对开源项目免费，因为它会查看存储库并从中生成文档。    由   提交/u/fazkan  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q60uzw/i_built_an_alternative_to_gitbooks_looking_for/</guid>
-      <pubDate>Wed, 07 Jan 2026 00:52:13 GMT</pubDate>
     </item>
     <item>
       <title>有开源视频游戏吗？</title>
