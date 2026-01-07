@@ -2,23 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 07 Jan 2026 03:57:57 GMT</lastBuildDate>
-    <item>
-      <title>编织</title>
-      <link>https://www.producthunt.com/products/habi-vibe-coded-habit-tracker</link>
-      <description><![CDATA[
-            将日历事件变成习惯
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/habi-vibe-coded-habit-tracker</guid>
-      <pubDate>Tue, 06 Jan 2026 04:26:27 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 07 Jan 2026 06:17:44 GMT</lastBuildDate>
     <item>
       <title>锻造 CLI</title>
       <link>https://www.producthunt.com/products/rightnow-ai</link>
@@ -32,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/rightnow-ai</guid>
       <pubDate>Tue, 06 Jan 2026 01:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>相机M 9</title>
+      <link>https://www.producthunt.com/products/camera-m</link>
+      <description><![CDATA[
+            适用于 iPhone 和 iPad 的专业手动相机应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/camera-m</guid>
+      <pubDate>Tue, 06 Jan 2026 00:53:31 GMT</pubDate>
     </item>
     <item>
       <title>筹款准备</title>
@@ -62,32 +62,32 @@
       <pubDate>Mon, 05 Jan 2026 22:18:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能时代的设计系统存储库</title>
-      <link>https://www.producthunt.com/products/design-systems-repo-for-the-ai-era</link>
+      <title>托克</title>
+      <link>https://www.producthunt.com/products/tock-3</link>
       <description><![CDATA[
-            有关人工智能如何重塑设计系统的精选资源
+            超简约、键盘驱动的 macOS 菜单栏计时器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/design-systems-repo-for-the-ai-era</guid>
-      <pubDate>Mon, 05 Jan 2026 14:10:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/tock-3</guid>
+      <pubDate>Mon, 05 Jan 2026 13:05:18 GMT</pubDate>
     </item>
     <item>
-      <title>指导2.5</title>
-      <link>https://www.producthunt.com/products/instruct-2</link>
+      <title>O/Page 网站建设者</title>
+      <link>https://www.producthunt.com/products/o-page-website-builder</link>
       <description><![CDATA[
-            连接应用程序，描述工作，然后自动化您的工作
+            AI 网站生成器可通过单个 HTML 文件构建和导出
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/instruct-2</guid>
-      <pubDate>Mon, 05 Jan 2026 11:18:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/o-page-website-builder</guid>
+      <pubDate>Mon, 05 Jan 2026 08:49:19 GMT</pubDate>
     </item>
     <item>
       <title>Okara Reddit 代理</title>
@@ -102,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/okara</guid>
       <pubDate>Mon, 05 Jan 2026 06:00:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>记忆泡泡</title>
-      <link>https://www.producthunt.com/products/memorybubble</link>
-      <description><![CDATA[
-            弹出气泡清理 Mac 内存
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/memorybubble</guid>
-      <pubDate>Mon, 05 Jan 2026 02:55:28 GMT</pubDate>
     </item>
     <item>
       <title>射线</title>
@@ -160,18 +146,18 @@
       <pubDate>Sat, 03 Jan 2026 23:07:41 GMT</pubDate>
     </item>
     <item>
-      <title>狄拉克</title>
-      <link>https://www.producthunt.com/products/dirac-2</link>
+      <title>纸</title>
+      <link>https://www.producthunt.com/products/paper-jorunaling-space</link>
       <description><![CDATA[
-            以完整的上下文开始新的一天，零跳标签
+            用于日记和写作的 200 页数字笔记本
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dirac-2</guid>
-      <pubDate>Wed, 31 Dec 2025 08:58:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/paper-jorunaling-space</guid>
+      <pubDate>Sat, 03 Jan 2026 13:45:30 GMT</pubDate>
     </item>
     <item>
       <title>事件/行动</title>
@@ -188,18 +174,32 @@
       <pubDate>Mon, 29 Dec 2025 21:47:55 GMT</pubDate>
     </item>
     <item>
-      <title>布洛鲁 原来是</title>
-      <link>https://www.producthunt.com/products/blooio-imessages-api-that-scales</link>
+      <title>普莱诺</title>
+      <link>https://www.producthunt.com/products/plano</link>
       <description><![CDATA[
-            iMessages API 可扩展以从任何地方发送蓝色气泡
+            更快地构建代理，并将其可靠地交付到生产中
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/blooio-imessages-api-that-scales</guid>
-      <pubDate>Thu, 11 Dec 2025 10:16:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/plano</guid>
+      <pubDate>Tue, 16 Dec 2025 21:35:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>皮尔兹</title>
+      <link>https://www.producthunt.com/products/pillzy</link>
+      <description><![CDATA[
+            药物、维生素和补充剂提醒
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pillzy</guid>
+      <pubDate>Tue, 16 Dec 2025 14:34:07 GMT</pubDate>
     </item>
     <item>
       <title>流程任务</title>
