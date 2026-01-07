@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 07 Jan 2026 18:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Jan 2026 21:13:05 GMT</lastBuildDate>
+    <item>
+      <title>免费开源的扩展打包工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q6qdes/a_free_and_open_source_extension_packaging_tool/</link>
+      <description><![CDATA[       由   提交 /u/DenpoXbox   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q6qdes/a_free_and_open_source_extension_packaging_tool/</guid>
+      <pubDate>Wed, 07 Jan 2026 20:17:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>现金个人理财登陆iOS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q6pl22/cash_personal_finance_landed_on_ios/</link>
+      <description><![CDATA[ 由   提交 /u/Glum_Concert_4667   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q6pl22/cash_personal_finance_landed_on_ios/</guid>
+      <pubDate>Wed, 07 Jan 2026 19:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>观点：使用开源工具（Kubuntu/Firefox）对于开发人员来说是一项专业练习，而不仅仅是个人喜好。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q6nk6m/opinion_using_open_source_tools_kubuntufirefox_is/</link>
+      <description><![CDATA[我最近切换到了操作系统和浏览器的开源堆栈（Kubuntu + Firefox）。我意识到，虽然企业产品（Windows/Chrome）可能更适合“普通用户”，但开发人员拥有独特的机会。 我不会每天都深入研究 C++ 源代码，但我发现成为这些社区的一部分促使我成为一名更好的程序员。它迫使人们形成一种“知识共享”和“系统理解”的心态，而这是闭源工具无法实现的。 还有其他人认为他们的职业成长与他们所处的生态系统息息相关吗？或者我是否过度考虑了“心态”方面？   由   提交 /u/urielofir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q6nk6m/opinion_using_open_source_tools_kubuntufirefox_is/</guid>
+      <pubDate>Wed, 07 Jan 2026 18:36:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>最后！一款阻止入侵者从锁屏状态下关闭手机的应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1q6n8g7/finally_an_app_to_block_intruders_from_turning/</link>
+      <description><![CDATA[我认为大多数 Pixel 用户，甚至这里的其他用户都曾在某些时候遇到过这个问题 -  即使手机被锁定，任何人仍然可以切换飞行模式、Wi-Fi、蓝牙、热点，甚至使用电源菜单关闭设备电源。 多年来有关此问题的报告不计其数，但遗憾的是我们仍然没有看到 Google 方面提供任何真正的解决方案。 因此，作为一名 Pixel 用户，我决定自己动手构建一个小型 LSPosed 模块/应用程序，仅在设备锁定时巧妙地阻止敏感的 QS 磁贴和电源菜单访问。 这是我这边的一个小项目，但我认为它可以真正帮助 root 用户更好地保护他们的设备。 如果这听起来有用，请查看该存储库，如果您喜欢，请留下 ⭐️，并随时下载、测试和使用分享反馈 - GitHub、我们的 Telegram 群组，甚至是 DM 都可以。 https://github.com/theDjay2529/TouchMeNot TLDR： 此应用/模块使您能够屏蔽敏感的 QS 磁贴，例如飞行模式、蓝牙、热点、互联网和网络。 Wifi 并且它还禁用电源菜单。 我一直强调 PIXEL，因为这就是我使用的，也是我广泛测试此应用程序/模块的原因。 但请在其他已 root 的手机上尝试一下，并给我您的反馈，我真的很感激:)   由   提交/u/theDjay2529  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1q6n8g7/finally_an_app_to_block_intruders_from_turning/</guid>
+      <pubDate>Wed, 07 Jan 2026 18:24:40 GMT</pubDate>
+    </item>
     <item>
       <title>将 React/TypeScript 代码库转换为结构上下文包的开源 CLI</title>
       <link>https://www.reddit.com/r/opensource/comments/1q6mo79/opensource_cli_that_turns_reacttypescript/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交 /u/DONOTKILLMEE   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1q6gusy/i_built_a_cli_to_scaffold_mernstyle_projects/</guid>
       <pubDate>Wed, 07 Jan 2026 14:31:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究：开放式创新加速可持续交通</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q6g8u4/study_open_innovation_accelerates_sustainable/</link>
-      <description><![CDATA[      《福布斯》讨论了特斯拉和丰田如何从开放式方法中受益，该研究基于中国最近的一项研究，该研究表明，由于公司做出了开放式创新承诺，电动汽车和氢动力汽车的创新呈爆炸式增长。   由   提交 /u/OpenSustainability   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q6g8u4/study_open_innovation_accelerates_sustainable/</guid>
-      <pubDate>Wed, 07 Jan 2026 14:06:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>房东的租金支付软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q6bz3d/rent_payment_software_for_landlords/</link>
-      <description><![CDATA[是否有任何好的开源租金支付检查器可以与英国商业银行集成，以便将租金收入与已出租的房产联系起来，以确保它们都是最新的付款。额外的好处是，如果租户有另一个视图，可以看到缺少哪些月份等。   由   提交/u/Snape_Draygon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q6bz3d/rent_payment_software_for_landlords/</guid>
-      <pubDate>Wed, 07 Jan 2026 10:31:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么不受支持的闭源比不受支持的开源更好？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q6ah8t/why_is_unsupported_closedsource_better_than/</link>
-      <description><![CDATA[我已经多次阅读此子文章，人们或公司更喜欢专有/闭源软件而不是开源软件的一个方面是，当出现问题时缺乏支持。 但我的问题是，我们真的从供应商那里得到了有用的支持吗？我们已经为微软打开了门票，多年来一直没有关闭。 Windows体验现在基本上很糟糕。每个新的更新都旨在解决以前版本中的一些问题，同时引入新的问题。 Adobe 现在也向您收取取消费用吗？你不再“拥有”你用钱买的游戏？购买不是拥有？ 对于开源来说也是如此，尽管我已经看到开源在解决问题方面相当快。如果他们不这样做，您可以直接分叉它，自行修复它并继续使用它。您甚至可以向开发人员支付/捐赠一定量的咖啡，要求他们优先修复它，他们会在更短的时间内为您修复它。 我知道这里还有其他因素在起作用，就像在我的领域一样，开源替代方案大多基于 cli，用户发现很难使用，而不是专有程序提供的基于 gui 的程序。如果开源提供了一些好的东西，那么它大多具有令人不快的用户界面或更糟糕的入门体验。它通常只关注利基产品，而不是封闭产品提供的完整包。如果我们暂时搁置这个问题，责备游戏是唯一让专有技术始终战胜开源技术的因素吗？   由   提交/u/CountryElegant5758  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q6ah8t/why_is_unsupported_closedsource_better_than/</guid>
-      <pubDate>Wed, 07 Jan 2026 08:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源我的理发店预订平台，寻找贡献者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1q68rhj/open_sourced_my_barbershop_booking_platform/</link>
-      <description><![CDATA[刚刚发布了 BarbersBuddies，这是我为理发店构建的预订系统。决定开源而不是收费。 代码库是带有 Firebase 后端的 React 18、用于样式的 TailwindCSS 和用于支付的 Stripe。大约 50 多个组件、完整的身份验证系统、实时更新。 功能包括预订管理、分析、客户消息、评级、多语言支持和深色模式。 Repo 有一个填充演示数据的种子脚本，因此您可以在本地测试所有内容，而无需设置真实帐户。 寻找想要以下内容的贡献者：、改善移动体验、添加新语言、编写测试、修复错误或改进代码质量 麻省理工学院许可。欢迎 PR。 GitHub：https://github.com/OthmanAdi/BarbersBuddies_Onlineshop_maker   由   提交 /u/Signal_Question9074   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1q68rhj/open_sourced_my_barbershop_booking_platform/</guid>
-      <pubDate>Wed, 07 Jan 2026 07:10:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
