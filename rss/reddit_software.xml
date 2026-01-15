@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 15 Jan 2026 12:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 15:16:02 GMT</lastBuildDate>
+    <item>
+      <title>为什么“内向者的 WhatsApp Whisperer”现在在 Y-combinator HackerNews 上流行</title>
+      <link>https://www.reddit.com/r/software/comments/1qdkswk/why_a_whatsapp_whisperer_for_introverts_is/</link>
+      <description><![CDATA[您可能看过最近关于“一对英国夫妇被错误逮捕”的头条新闻。在私人 WhatsApp 群组中发泄女儿学校的事情后，他们被拘留了 11 个小时。虽然他们最终赢得了 20,000 英镑的和解，但此案暴露了一个可怕的现实：即使采用端到端加密，“社交”仍然无法实现。隐私方面谁可以看到您的状态、您的个人资料或您的“上次查看”信息混乱不堪，导致“隐私疲劳”  我是 WhatsPrivcy（被用户称为“WhatsApp Whisperer”）背后的开发人员 Ryan，我的工具目前在 Y-combinator 的 HackerNews 上很热门，因为它正面解决了这个问题。 问题：每次您想要将某人排除在状态更新之外时，WhatsApp 都会迫使您手动滚动按字母顺序排列的数百个联系人列表。这是一个令人头疼的认知问题，实际上会导致人为错误。 解决方案：我构建了一个 10 美元的 Android 应用程序，它使用浮动覆盖清单。它允许用户动态管理每个联系人的隐私设置，而无需浏览菜单。为什么这是“反科技”？技术故事：零互联网需求：它不需要连接即可工作，这意味着它实际上无法“打电话回家”。与您的数据。非常安全，完全本地存储：没有云服务器，没有数据共享。一切都保留在用户的设备上。无订阅或广告：只是一款专为高风险隐私而设计的一次性工具。随着数字监控和“截图文化”的兴起继续让普通人陷入困境，像这样的工具正在从“利基”转向“利基”。到“必要”。 Google (WhatsPrivcy) 了解更多信息。 Reddit 在大多数情况下不喜欢链接。   由   提交/u/PersonalityRoyal5548  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qdkswk/why_a_whatsapp_whisperer_for_introverts_is/</guid>
+      <pubDate>Thu, 15 Jan 2026 14:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>内部企业应用程序的单独开发：寻找视角</title>
+      <link>https://www.reddit.com/r/software/comments/1qdjtvh/solo_dev_on_an_internal_enterprise_app_looking/</link>
+      <description><![CDATA[嘿，伙计们， 经过多年的软件测试工作，我在一家航运/集装箱公司担任软件工程师。 我目前负责自己构建一个 Web 应用程序，该应用程序将在全公司范围内用于管理航程和路由逻辑。它包括航次和港口跟踪、时序分析、报告以及基于各种参数的路线匹配模块。 说实话，我在开发过程中非常依赖人工智能。不然的话，单凭一个人的力量，是很难完成这件事的。我仍然遵循标准的开发实践，但也在尝试更灵活、迭代的工作流程。 技术方面，后端是 ASP.NET Core (C#)，前端是 React + Vite，并具有身份处理身份验证功能。 最近，我一直在质疑自己： 作为一名工程师，我是真正在进步，还是只是在没有完全理解我的成长曲线的情况下交付一些有用的东西？ 我很想听听任何经历过类似的独立、高责任发展阶段的人的意见。   由   提交 /u/MasterLatecomer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qdjtvh/solo_dev_on_an_internal_enterprise_app_looking/</guid>
+      <pubDate>Thu, 15 Jan 2026 13:42:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>北京快运伊达</title>
+      <link>https://www.reddit.com/r/software/comments/1qdj426/pechino_express_ita/</link>
+      <description><![CDATA[大家好...有人下载了第 1-8 季可以发给我吗？提前致谢。   由   提交 /u/bacinella92   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qdj426/pechino_express_ita/</guid>
+      <pubDate>Thu, 15 Jan 2026 13:11:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>相机控制软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1qdirsb/camera_control_software/</link>
+      <description><![CDATA[我的工作有一堆网络摄像头，但是当我们拿到它们时，我们注意到 FOV 太宽了，用于缩放和平移等的窗口选项都是灰色的。相机网站上的相机控制软件似乎不适用于此型号， 现在，我知道我可以使用 OBS 或其他一些虚拟相机软件来缩放和填充，但是，我认为这对于在这里工作的每个人来说并不是一个合理的解决方案 有谁知道是否有什么可以做的，或者只是一种“处理它，打开背景模糊”？情况   由   提交 /u/Tokolone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qdirsb/camera_control_software/</guid>
+      <pubDate>Thu, 15 Jan 2026 12:56:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的组织可以查看我的互联网历史记录吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1qdile6/can_my_organization_see_my_internet_history/</link>
+      <description><![CDATA[我是在工作 WiFi 上写这篇文章的吗？网络管理员可以看到我访问了reddit，并专门在这个子上发帖吗？    由   提交/u/pattison_iman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qdile6/can_my_organization_see_my_internet_history/</guid>
+      <pubDate>Thu, 15 Jan 2026 12:47:32 GMT</pubDate>
+    </item>
     <item>
       <title>需要对网站进行价格估算。总部设在菲律宾</title>
       <link>https://www.reddit.com/r/software/comments/1qde4y1/need_price_estimate_for_a_website_philippines/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/mysterious_code  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qcuyrg/i_want_to_extract_code_from_recorded_video_any/</guid>
       <pubDate>Wed, 14 Jan 2026 18:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些好的用户通道替代方案？</title>
-      <link>https://www.reddit.com/r/software/comments/1qcuvsi/what_are_some_good_userlane_alternatives/</link>
-      <description><![CDATA[大家好， 我的公司今年将启动一个项目，为我们的内部工具选择一个数字采用平台。我们在采用方面面临不少挑战，特别是在 Dynamics 和 Workday 方面。 我们的目标是实施一些措施，帮助新员工加入这些系统。主要挑战是它需要超级国际化，因为我们在 50 多个国家/地区开展业务，任何本地团队都应该能够轻松管理它。 我们开始与 Userlane 交谈，他们勾选了我们的一些方框，但我们不能 100% 确定该平台适合我们的用例。 因此我们想寻找替代方案。您有什么特别推荐的吗？   由   提交 /u/GamerArceus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qcuvsi/what_are_some_good_userlane_alternatives/</guid>
-      <pubDate>Wed, 14 Jan 2026 18:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作《超级投资者》是为了查找上市公司的关键文件。我在新闻报道之前发现内幕交易、实益所有权、季度收益的方法。</title>
-      <link>https://www.reddit.com/r/software/comments/1qcp5xn/i_made_super_investor_to_find_key_filings_by/</link>
-      <description><![CDATA[https://apps.apple.com/us/app/super-investor/id1441737952   由   提交 /u/fintech-fire   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qcp5xn/i_made_super_investor_to_find_key_filings_by/</guid>
-      <pubDate>Wed, 14 Jan 2026 14:48:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 Company 360 来计算公司价值（股票价格）。它是内在价值、概率模型和指标的组合。最初是为了管理我女儿的大学基金。</title>
-      <link>https://www.reddit.com/r/software/comments/1qcovvf/i_made_company_360_to_calculate_value_of_company/</link>
-      <description><![CDATA[ 由   提交 /u/fintech-fire   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qcovvf/i_made_company_360_to_calculate_value_of_company/</guid>
-      <pubDate>Wed, 14 Jan 2026 14:37:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Windows 制作了一个音乐播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1qcl89h/made_a_music_player_for_windows/</link>
-      <description><![CDATA[大家好，潜伏在这里多年，终于有东西可以分享了。 我是一名开发人员，我一直在使用 foobar2000，但想要一些更现代的外观，同时又不失去重要的音频功能。经过几个月的工作，我组装了 Auris。 它的作用： - WASAPI 专用于位完美输出（可以切换到动态共享） - 10 或 31 频段 EQ - AutoEQ 支持（那些耳机校正配置文件） - ReplayGain 曲目和专辑 - 无缝 + 交叉淡入淡出 -几乎可以播放所有格式：FLAC、WAV、AIFF、DSD、MP3、AAC... 它在 Microsoft Store 上，没有广告、没有订阅、没有跟踪。 希望得到人们的反馈，缺少什么？您要添加什么？ https://apps.microsoft.com/store/detail/9PH0772K0990   由   提交 /u/KhakiTarsier   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qcl89h/made_a_music_player_for_windows/</guid>
-      <pubDate>Wed, 14 Jan 2026 11:47:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kie.ai (Kei API) 的最佳开源/自托管替代方案是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1qckafa/what_are_the_best_opensourceselfhosted/</link>
-      <description><![CDATA[我目前的使命是“去 SaaS”我的生活。我已经放弃了 Adob​​e 套件，转而使用 GIMP/Inkscape，并放弃了 Google Docs，转而使用 LibreOffice。我的下一个障碍是我的开发工作流程。 我一直在使用 Kie.ai (Kei API) 在同一个屋檐下访问不同的模型（LLM、图像生成等），但基于信用的定价开始增加，而且我不太喜欢通过中间商聚合器发送所有数据。 我正在寻找一个可靠的开源或自托管替代方案，我可以“自带密钥”或者，更好的是，在本地运行模型。 到目前为止，我已经研究过：  LibreChat（对于 UI 来说看起来很有希望） Ollama（对于本地法学硕士）  但是我正在努力寻找像统一 API 一样顺利处理多模式内容（视频/图像生成）的东西。你们这些天都在使用什么东西，感觉真的很“精致”？不仅仅是一个简陋的 CLI 工具？ 正在寻找 2026 年不会破坏我的隐私（或我的银行帐户）的东西。谢谢！   由   提交 /u/NeedleworkerMulated673   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qckafa/what_are_the_best_opensourceselfhosted/</guid>
-      <pubDate>Wed, 14 Jan 2026 10:52:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

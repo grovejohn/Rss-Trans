@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 15 Jan 2026 12:21:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 15:16:25 GMT</lastBuildDate>
+    <item>
+      <title>是什么破坏了大多数大规模编程学习系统（从工程角度来看）</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdlyrm/what_breaks_most_programming_learning_systems_at/</link>
+      <description><![CDATA[我在开发编程教育系统时注意到的一个反复出现的问题是，大多数学习平台的失败不是因为内容质量，而是因为概念的排序和验证方式。 从工程的角度来看，最困难的问题不是提供代码示例，而是正确地建模概念依赖图。许多系统将主题视为线性（A → B → C），但在实践中，编程知识形成了一个具有频繁后向边缘的 DAG（例如，理解闭包需要重新审视范围，这取决于执行模型）。 在内部学习项目 (Codemia) 的背景下探索这个问题时，我们尝试在概念级别而不是课程级别强制执行明确的先决条件检查。这暴露了几个不明显的问题：  学习者经常“通过”一堂课，但仍然缺乏所需的心理模型 自动验证很难区分语法熟悉程度和概念理解 当评估与特定于语言的语法过于紧密时，反馈循环会变得嘈杂  一种有望实现的方法是将概念验证与实现分开验证，允许学习者在接触实际代码之前用伪代码或简单语言进行推理。 我很好奇这里的其他人如何在大规模编程教育系统中进行排序和验证，特别是在试图保持与语言无关但又不变得抽象到无用的地步时。   由   提交/u/AdSome4897   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdlyrm/what_breaks_most_programming_learning_systems_at/</guid>
+      <pubDate>Thu, 15 Jan 2026 15:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨平台移动开发不再是困难的部分，后端仍然是</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdlvfz/crossplatform_mobile_dev_isnt_the_hard_part/</link>
+      <description><![CDATA[在进行应用程序开发并审查多个移动应用程序后，我观察到的一种模式是相同的 跨平台 UI 已解决。后端仍然没有。框架成熟。工具得到改进。但后端决策仍然决定：-  • 可扩展性 • 安全性 • 长期成本 • 用户信任 人工智能驱动的“vibe 编码”令人兴奋，即使我仍然使用它，但只是作为加速器，而不是完整的权威。  像初级开发人员一样对待人工智能： 擅长样板文件 不负责架构 我在 Medium 上分享了有关以下内容的详细细分： 跨平台时代的后端策略 BaaS 与自定义权衡 振动编码的现实限制 附有链接。  很想听听其他人如何平衡速度与可持续性。  #MobileDevelopment #BackendEngineering #CrossPlatform #AIinSoftware #StartupEngineering   由   提交 /u/Longjumping-Bag-7976   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdlvfz/crossplatform_mobile_dev_isnt_the_hard_part/</guid>
+      <pubDate>Thu, 15 Jan 2026 15:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>失忆法学硕士的生活</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdlcq8/life_of_an_amnesic_llm/</link>
+      <description><![CDATA[ 由   提交 /u/Happycodeine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdlcq8/life_of_an_amnesic_llm/</guid>
+      <pubDate>Thu, 15 Jan 2026 14:43:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>没人谈论的上下文窗口问题——如何在人工智能会话中持续学习？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdl0yu/the_context_window_problem_nobody_talks_about_how/</link>
+      <description><![CDATA[从事业余项目并遇到一个有趣的架构问题。每个人工智能聊天都是无状态的。你重新开始，解释你的代码库、你的约定、你的偏好，然后 2 小时后你开始一个新的会话并重新开始。该模型没有学到任何永久性的东西。 ChatGPT 添加了内存，但它是有上限的且是全局的。克劳德也有类似的东西，但也有同样的限制。两者都不能让您将上下文范围限制到特定项目。 从技术角度来看，明显的解决方案是将相关上下文填充到系统提示每个请求中，或者使用嵌入进行 RAG 来动态提取相关内存。系统提示填充很简单，但无法扩展。 RAG 增加了延迟和复杂性，这在大多数情况下可能是过度的。 任何构建定期与 LLM 交互的工具的人 - 您如何处理持久上下文？在愚蠢的提示注入和全向量搜索之间是否存在一个在实践中效果良好的中间立场？很好奇人们会采取什么样的模式。   由   提交/u/Main_Payment_6430   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdl0yu/the_context_window_problem_nobody_talks_about_how/</guid>
+      <pubDate>Thu, 15 Jan 2026 14:30:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>您属于 Agentic Coder 谱系中的哪个位置？我列出了开发人员采用人工智能的 5 个级别！</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdkuvo/where_do_you_fall_on_the_agentic_coder_spectrum_i/</link>
+      <description><![CDATA[我注意到你在社交媒体上看到的内容（每个人显然都在编排多代理工作流程）与我交谈过的大多数开发人员实际所做的事情之间存在巨大差距。 因此，我试图绘制出我所看到的人工智能采用的不同级别：  健谈主义者 - 询问 ChatGPT/Claude 问题，复制粘贴代码，工作流程不变 副驾驶 - 使用 Cursor/Copilot/Windsurf 进行自动完成，仍然编写大部分代码 提示工程师 - 描述他们想要什么，运行单个代理，检查生成的代码，偶尔手动编写 编排器 - 并行运行多个代理，很少自己编写代码 系统设计师 - 设计流程和反馈循环，代理完成所有实施  很想知道你们所有人对自己的看法！   由   提交/u/PuzzleheadedAd7828  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdkuvo/where_do_you_fall_on_the_agentic_coder_spectrum_i/</guid>
+      <pubDate>Thu, 15 Jan 2026 14:23:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何做出架构决策：RFC、ADR 以及让每个人保持一致</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdjwul/how_to_make_architecture_decisions_rfcs_adrs_and/</link>
+      <description><![CDATA[ 由   提交 /u/trolleid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdjwul/how_to_make_architecture_decisions_rfcs_adrs_and/</guid>
+      <pubDate>Thu, 15 Jan 2026 13:45:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么强迫开发人员休假实际上有帮助</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdj4jh/why_forcing_a_developer_to_take_time_off_actually/</link>
+      <description><![CDATA[ 由   提交 /u/dymissy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdj4jh/why_forcing_a_developer_to_take_time_off_actually/</guid>
+      <pubDate>Thu, 15 Jan 2026 13:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>春天的过去和现在：下一步是什么？ • 罗德·约翰逊、Arjen Poutsma 和 Trisha Gee</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdizlc/spring_then_now_whats_next_rod_johnson_arjen/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdizlc/spring_then_now_whats_next_rod_johnson_arjen/</guid>
+      <pubDate>Thu, 15 Jan 2026 13:05:56 GMT</pubDate>
+    </item>
     <item>
       <title>BOPLA：为什么保护对象 ID 还不够（损坏的对象属性级别授权）</title>
       <link>https://www.reddit.com/r/programming/comments/1qdhfks/bopla_why_protecting_the_object_id_isnt_enough/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[ 由   提交/u/dmahmouAli   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qdg0ir/ai_changes_nothing_dax_raad_opencode/</guid>
       <pubDate>Thu, 15 Jan 2026 10:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>显式发送最近的编辑可以改善 AI 编码代理的行为</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdfyx1/explicitly_sending_recent_edits_can_improve_ai/</link>
-      <description><![CDATA[在许多编码代理中，假设重新读取最新代码就足够了。我一直在尝试明确跟踪最近的用户编辑是否可以改善代理行为。 我在实践中发现了一些事情： ​- 首先，它是更好的用户体验。查看反映的编辑内容可以清楚地表明您要发送给代理的内容，并让用户相信他们的更改是对话的一部分。 - 其次，代理并不总是在每一步都重新读取整个文件。根据上下文和任务状态，最近的本地更改很容易被忽略。​ -第三，隔离用户编辑有助于代理更直接地推断意图。分离最近的更改可以让代理更清楚地了解与下一步最相关的内容。 我尝试过的一种方法是创建一个单独的“用户编辑”上下文通道，以便代理明确地看到最近的更改而不仅仅是完整的文件。这似乎改善了代理行为和用户信心。 您认为这比完全依赖重新摄取更好吗？   由   提交/u/National_Purpose5521   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdfyx1/explicitly_sending_recent_edits_can_improve_ai/</guid>
-      <pubDate>Thu, 15 Jan 2026 10:22:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源策略</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdfl48/open_source_strategies/</link>
-      <description><![CDATA[ 由   提交 /u/brendt_gd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdfl48/open_source_strategies/</guid>
-      <pubDate>Thu, 15 Jan 2026 09:58:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么写代码感觉比阅读别人的代码更容易？这对工作很重要吗</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdfhjk/why_do_writing_code_feels_easier_than_reading/</link>
-      <description><![CDATA[我是一名 C++ 程序员，我可以自信地说我对 C++ 的了解达到了中级水平，但当我编写自己的代码时，感觉非常容易。但当我考虑为我最喜欢的开源软件贡献新功能时，代码库让我不知所措。我的意思是我完全迷失其中。我现在写这篇文章是因为我只是想添加“新文件”选项 Nautilus ，但是当我看到它的代码库时，尽管我非常了解 C++、Python 和 Javascript，但我什至无法理解发生了什么，我只是关闭了浏览器。  这正常吗？我的意思是几乎每个程序员都有这个问题还是这是我特有的问题？这样做会影响我现在在大学里的工作，作为一名计算机工程专业的学生，​​我想让 CSE 成为我的热情，但这件事总是让我失去动力，认为我知道的不多。   由   提交/u/PlaneBitter1583  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdfhjk/why_do_writing_code_feels_easier_than_reading/</guid>
-      <pubDate>Thu, 15 Jan 2026 09:52:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>graph：用于创建通用图形数据结构并修改、分析和可视化它们的库。</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdfa9e/graph_a_library_for_creating_generic_graph_data/</link>
-      <description><![CDATA[ 由   提交/u/High-Impact-2025   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdfa9e/graph_a_library_for_creating_generic_graph_data/</guid>
-      <pubDate>Thu, 15 Jan 2026 09:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>分区与分片：对不断增长的数据库的简单解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdeyki/partitioning_vs_sharding_a_simple_explanation_for/</link>
-      <description><![CDATA[随着数据库的增长，大多数团队最终都会面临同样的问题： 我们应该分区还是应该分片？ 它们听起来很相似，但解决的问题却截然不同。 分区在单个数据库内组织数据以提高性能和维护。分片将数据分布在多个数据库之间以实现真正的水平扩展。 一是优化。另一个是分布式系统决策。 我最近写了一篇简短的博客，通过生产系统的示例详细分析了差异、权衡和现实世界的使用模式。 如果您从事后端、数据库或系统设计，您可能会发现它很有用： https://www.hexplain.space/blog/fUqutuyOg9W77rMq7UG9   由   提交/u/Odd-Chipmunk-6460   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdeyki/partitioning_vs_sharding_a_simple_explanation_for/</guid>
-      <pubDate>Thu, 15 Jan 2026 09:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>相同的提示，相同的任务 — 3 个 AI 编码助手中的 2 个成功，包括 OpenCode</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdeiq7/same_prompt_same_task_2_of_3_ai_coding_assistant/</link>
-      <description><![CDATA[我通过 3 个 AI 编码系统运行了完全相同的非平凡工程提示。 其中 2 个生成了最初工作的代码。 在检查极端情况并运行测试后，差异变得明显 - 一个实现（如 i8n）实现了更多功能，而另一个实现了更好的代码结构。 这不是模型智能的问题，而是而不是工程偏见： 当细节不清楚时，系统优先优化什么？   由   提交/u/dqj1998  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdeiq7/same_prompt_same_task_2_of_3_ai_coding_assistant/</guid>
-      <pubDate>Thu, 15 Jan 2026 08:50:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>单节点本地 S3 的 MinIO 替代方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1qde8c9/alternatives_to_minio_for_singlenode_local_s3/</link>
-      <description><![CDATA[ 由   提交 /u/rmoff   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qde8c9/alternatives_to_minio_for_singlenode_local_s3/</guid>
-      <pubDate>Thu, 15 Jan 2026 08:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>由 4 部分组成的技术系列，介绍我如何在 VS Code 中为编码代理构建 NES</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdctx6/a_4part_technical_series_on_how_i_built_nes_in_vs/</link>
-      <description><![CDATA[嘿伙计们，分享一个由 4 部分组成的深入技术系列，介绍我如何在编码代理背后构建 AI 编辑模型。  它涵盖了从实时上下文管理和请求生命周期到仅使用 VS Code 的公共 API 动态渲染代码编辑的所有内容。  我尽可能公开、具体地写了这篇文章，其中包含实现细节和权衡。  如果您在编辑器中构建人工智能，我想您会发现这很有用。   由   提交 /u/National_Purpose5521   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdctx6/a_4part_technical_series_on_how_i_built_nes_in_vs/</guid>
-      <pubDate>Thu, 15 Jan 2026 07:07:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
