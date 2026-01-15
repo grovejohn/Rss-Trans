@@ -4,20 +4,104 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 15 Jan 2026 15:16:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 21:13:17 GMT</lastBuildDate>
     <item>
-      <title>是什么破坏了大多数大规模编程学习系统（从工程角度来看）</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdlyrm/what_breaks_most_programming_learning_systems_at/</link>
-      <description><![CDATA[我在开发编程教育系统时注意到的一个反复出现的问题是，大多数学习平台的失败不是因为内容质量，而是因为概念的排序和验证方式。 从工程的角度来看，最困难的问题不是提供代码示例，而是正确地建模概念依赖图。许多系统将主题视为线性（A → B → C），但在实践中，编程知识形成了一个具有频繁后向边缘的 DAG（例如，理解闭包需要重新审视范围，这取决于执行模型）。 在内部学习项目 (Codemia) 的背景下探索这个问题时，我们尝试在概念级别而不是课程级别强制执行明确的先决条件检查。这暴露了几个不明显的问题：  学习者经常“通过”一堂课，但仍然缺乏所需的心理模型 自动验证很难区分语法熟悉程度和概念理解 当评估与特定于语言的语法过于紧密时，反馈循环会变得嘈杂  一种有望实现的方法是将概念验证与实现分开验证，允许学习者在接触实际代码之前用伪代码或简单语言进行推理。 我很好奇这里的其他人如何在大规模编程教育系统中进行排序和验证，特别是在试图保持与语言无关但又不变得抽象到无用的地步时。   由   提交/u/AdSome4897   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdlyrm/what_breaks_most_programming_learning_systems_at/</guid>
-      <pubDate>Thu, 15 Jan 2026 15:06:48 GMT</pubDate>
+      <title>36 小时打造（2026 年）。一部免费纪录片，探讨世界上最大的学生黑客马拉松——加州大学伯克利分校的 CalHacks。学生们在短短 36 个不眠的时间里编写了项目，然后将它们展示给行业评委。 [1:21:11]</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdvsaz/36_hours_to_build_2026_a_free_documentary_that/</link>
+      <description><![CDATA[ 由   提交/u/quincylarson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdvsaz/36_hours_to_build_2026_a_free_documentary_that/</guid>
+      <pubDate>Thu, 15 Jan 2026 21:05:24 GMT</pubDate>
     </item>
     <item>
-      <title>跨平台移动开发不再是困难的部分，后端仍然是</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdlvfz/crossplatform_mobile_dev_isnt_the_hard_part/</link>
-      <description><![CDATA[在进行应用程序开发并审查多个移动应用程序后，我观察到的一种模式是相同的 跨平台 UI 已解决。后端仍然没有。框架成熟。工具得到改进。但后端决策仍然决定：-  • 可扩展性 • 安全性 • 长期成本 • 用户信任 人工智能驱动的“vibe 编码”令人兴奋，即使我仍然使用它，但只是作为加速器，而不是完整的权威。  像初级开发人员一样对待人工智能： 擅长样板文件 不负责架构 我在 Medium 上分享了有关以下内容的详细细分： 跨平台时代的后端策略 BaaS 与自定义权衡 振动编码的现实限制 附有链接。  很想听听其他人如何平衡速度与可持续性。  #MobileDevelopment #BackendEngineering #CrossPlatform #AIinSoftware #StartupEngineering   由   提交 /u/Longjumping-Bag-7976   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdlvfz/crossplatform_mobile_dev_isnt_the_hard_part/</guid>
-      <pubDate>Thu, 15 Jan 2026 15:03:16 GMT</pubDate>
+      <title>Grug Brained Developer 对软件复杂性的幽默而严肃的态度</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdvbpv/grug_brained_developer_a_humorous_but_serious/</link>
+      <description><![CDATA[一篇长篇文章，反映了复杂性作为软件开发中的核心挑战，并从长期维护系统中得出了观察结果。 它涉及抽象、测试策略、重构、API、工具和系统设计，并以一种故意简单和幽默的语气构建。   由   提交 /u/Digitalunicon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdvbpv/grug_brained_developer_a_humorous_but_serious/</guid>
+      <pubDate>Thu, 15 Jan 2026 20:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>较新的人工智能编码助手正在以阴险的方式失败</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdv6h0/newer_ai_coding_assistants_are_failing_in/</link>
+      <description><![CDATA[ 由   提交 /u/CackleRooster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdv6h0/newer_ai_coding_assistants_are_failing_in/</guid>
+      <pubDate>Thu, 15 Jan 2026 20:42:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果每个人都讨厌人工智能，为什么 Stack Overflow 访问量从每天约 2000 万下降到每天约 300 万？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qduvk4/if_everyone_hates_ai_why_did_stack_overflow/</link>
+      <description><![CDATA[ 由   提交/u/Local_Scar9276  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qduvk4/if_everyone_hates_ai_why_did_stack_overflow/</guid>
+      <pubDate>Thu, 15 Jan 2026 20:30:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>回家吧，Windows EXE，你醉了</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdt9s5/go_home_windows_exe_youre_drunk/</link>
+      <description><![CDATA[ 由   提交/u/nicebyte  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdt9s5/go_home_windows_exe_youre_drunk/</guid>
+      <pubDate>Thu, 15 Jan 2026 19:30:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索初级、中级、高级工程师的技能！ 🤖🚀</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdsepg/exploring_the_skills_of_junior_mid_and_senior/</link>
+      <description><![CDATA[ 由   提交/u/Gopher-Face912   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdsepg/exploring_the_skills_of_junior_mid_and_senior/</guid>
+      <pubDate>Thu, 15 Jan 2026 19:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发浪费</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdredf/software_development_waste/</link>
+      <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdredf/software_development_waste/</guid>
+      <pubDate>Thu, 15 Jan 2026 18:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>影响者：没有证据的人工智能炒作</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdqtk0/the_influentists_ai_hype_without_proof/</link>
+      <description><![CDATA[ 由   提交/u/iamapizza  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdqtk0/the_influentists_ai_hype_without_proof/</guid>
+      <pubDate>Thu, 15 Jan 2026 18:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>当写代码不再是瓶颈</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdos9l/when_writing_code_is_no_longer_the_bottleneck/</link>
+      <description><![CDATA[ 由   提交/u/Franco1875  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdos9l/when_writing_code_is_no_longer_the_bottleneck/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 Webhook 调试器的令人惊讶的棘手部分：SSE 内存泄漏、SSRF 边缘情况和定时安全身份验证</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdof8e/the_surprisingly_tricky_parts_of_building_a/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdof8e/the_surprisingly_tricky_parts_of_building_a/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:37:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor CEO 使用人工智能打造了一款浏览器，但它真的有用吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdo9r3/cursor_ceo_built_a_browser_using_ai_but_does_it/</link>
+      <description><![CDATA[ 由   提交/u/ImpressiveContest283  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdo9r3/cursor_ceo_built_a_browser_using_ai_but_does_it/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>视窗？ Linux？浏览器？相同的可执行文件</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdnx4a/windows_linux_browser_same_executable/</link>
+      <description><![CDATA[ 由   提交 /u/double-happiness   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdnx4a/windows_linux_browser_same_executable/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:19:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过快照测试捕获 API 回归</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdnj1f/catching_api_regressions_with_snapshot_testing/</link>
+      <description><![CDATA[ 由   提交 /u/mallenspach   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdnj1f/catching_api_regressions_with_snapshot_testing/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:05:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 应用程序的构建时信任边界：在运行时防止上下文泄漏</title>
+      <link>https://www.reddit.com/r/programming/comments/1qdmu67/buildtime_trust_boundaries_for_llm_apps/</link>
+      <description><![CDATA[ 由   提交/u/Electrical_Worry_728  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qdmu67/buildtime_trust_boundaries_for_llm_apps/</guid>
+      <pubDate>Thu, 15 Jan 2026 15:40:06 GMT</pubDate>
     </item>
     <item>
       <title>失忆法学硕士的生活</title>
@@ -25,90 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Happycodeine   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qdlcq8/life_of_an_amnesic_llm/</guid>
       <pubDate>Thu, 15 Jan 2026 14:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>没人谈论的上下文窗口问题——如何在人工智能会话中持续学习？</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdl0yu/the_context_window_problem_nobody_talks_about_how/</link>
-      <description><![CDATA[从事业余项目并遇到一个有趣的架构问题。每个人工智能聊天都是无状态的。你重新开始，解释你的代码库、你的约定、你的偏好，然后 2 小时后你开始一个新的会话并重新开始。该模型没有学到任何永久性的东西。 ChatGPT 添加了内存，但它是有上限的且是全局的。克劳德也有类似的东西，但也有同样的限制。两者都不能让您将上下文范围限制到特定项目。 从技术角度来看，明显的解决方案是将相关上下文填充到系统提示每个请求中，或者使用嵌入进行 RAG 来动态提取相关内存。系统提示填充很简单，但无法扩展。 RAG 增加了延迟和复杂性，这在大多数情况下可能是过度的。 任何构建定期与 LLM 交互的工具的人 - 您如何处理持久上下文？在愚蠢的提示注入和全向量搜索之间是否存在一个在实践中效果良好的中间立场？很好奇人们会采取什么样的模式。   由   提交/u/Main_Payment_6430   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdl0yu/the_context_window_problem_nobody_talks_about_how/</guid>
-      <pubDate>Thu, 15 Jan 2026 14:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您属于 Agentic Coder 谱系中的哪个位置？我列出了开发人员采用人工智能的 5 个级别！</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdkuvo/where_do_you_fall_on_the_agentic_coder_spectrum_i/</link>
-      <description><![CDATA[我注意到你在社交媒体上看到的内容（每个人显然都在编排多代理工作流程）与我交谈过的大多数开发人员实际所做的事情之间存在巨大差距。 因此，我试图绘制出我所看到的人工智能采用的不同级别：  健谈主义者 - 询问 ChatGPT/Claude 问题，复制粘贴代码，工作流程不变 副驾驶 - 使用 Cursor/Copilot/Windsurf 进行自动完成，仍然编写大部分代码 提示工程师 - 描述他们想要什么，运行单个代理，检查生成的代码，偶尔手动编写 编排器 - 并行运行多个代理，很少自己编写代码 系统设计师 - 设计流程和反馈循环，代理完成所有实施  很想知道你们所有人对自己的看法！   由   提交/u/PuzzleheadedAd7828  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdkuvo/where_do_you_fall_on_the_agentic_coder_spectrum_i/</guid>
-      <pubDate>Thu, 15 Jan 2026 14:23:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何做出架构决策：RFC、ADR 以及让每个人保持一致</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdjwul/how_to_make_architecture_decisions_rfcs_adrs_and/</link>
-      <description><![CDATA[ 由   提交 /u/trolleid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdjwul/how_to_make_architecture_decisions_rfcs_adrs_and/</guid>
-      <pubDate>Thu, 15 Jan 2026 13:45:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么强迫开发人员休假实际上有帮助</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdj4jh/why_forcing_a_developer_to_take_time_off_actually/</link>
-      <description><![CDATA[ 由   提交 /u/dymissy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdj4jh/why_forcing_a_developer_to_take_time_off_actually/</guid>
-      <pubDate>Thu, 15 Jan 2026 13:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>春天的过去和现在：下一步是什么？ • 罗德·约翰逊、Arjen Poutsma 和 Trisha Gee</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdizlc/spring_then_now_whats_next_rod_johnson_arjen/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdizlc/spring_then_now_whats_next_rod_johnson_arjen/</guid>
-      <pubDate>Thu, 15 Jan 2026 13:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>BOPLA：为什么保护对象 ID 还不够（损坏的对象属性级别授权）</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdhfks/bopla_why_protecting_the_object_id_isnt_enough/</link>
-      <description><![CDATA[ 由   提交/u/JadeLuxe  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdhfks/bopla_why_protecting_the_object_id_isnt_enough/</guid>
-      <pubDate>Thu, 15 Jan 2026 11:48:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nature 与 Golang：性能基准测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdhcn5/nature_vs_golang_performance_benchmarking/</link>
-      <description><![CDATA[我是 Nature 编程语言的作者，你可以向我提问。   由   提交/u/hualaka  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdhcn5/nature_vs_golang_performance_benchmarking/</guid>
-      <pubDate>Thu, 15 Jan 2026 11:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序员的仙境</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdglkv/programmer_in_wonderland/</link>
-      <description><![CDATA[嘿开发者， 不要成为无底的软件抽象海洋中的迷失的程序员，尤其是最近人工智能驱动的炒作出现；相反，专注于基础知识，让魔法消失并成为伟大的人！   由   提交/u/BinaryIgor  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdglkv/programmer_in_wonderland/</guid>
-      <pubDate>Thu, 15 Jan 2026 11:00:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有 scrimba pro 吗？或者知道我如何盗版它？</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdg80v/does_anybody_have_scrimba_pro_or_know_how_i_can/</link>
-      <description><![CDATA[大家好，我是一名计算机科学专业的学生，​​正在学习全栈 Web 开发。最初，当我寻找免费的 Web 开发课程时，我在 Freecodecamp 上发现了 scrimbas Web 开发课程，我已经完成了 47 小时中的 20 小时。但是缺少很多模块，我是在看到他们的网站后才知道的。我喜欢他们的教学方式，因此我想知道我是否可以参加 scrimba pro。作为一名来自印度的学生，我买不起那么多钱，所以如果有人有 scrimba pro，可以借给我吗？或者有人知道我如何盗版它吗？我感谢你们阅读我的帖子。  TL;DR：寻找可以借给我 scrimba pro 的人或知道如何盗版它的人。   由   提交/u/Repulsive-Corner-256  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdg80v/does_anybody_have_scrimba_pro_or_know_how_i_can/</guid>
-      <pubDate>Thu, 15 Jan 2026 10:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>负责任地披露 Claude Cowork 漏洞，该漏洞允许隐藏提示注入通过将本地文件上传到攻击者的 Anthropic 帐户来窃取本地文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdg7i4/responsible_disclosure_of_a_claude_cowork/</link>
-      <description><![CDATA[摘自文章：  两天前，Anthropic 发布了 Claude Cowork 研究预览版（一种通用 AI 代理，可以帮助任何人完成日常工作）。在本文中，我们演示了攻击者如何通过利用 Claude 编码环境中未修复的漏洞（现已扩展到 Cowork）来从 Cowork 中窃取用户文件。该漏洞最早是在 Cowork 存在之前的 Claude.ai 聊天中由 Johann Rehberger 发现的，他披露了该漏洞——Anthropic 承认了该漏洞，但并未进行修复。     由   提交/u/sean-adapt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdg7i4/responsible_disclosure_of_a_claude_cowork/</guid>
-      <pubDate>Thu, 15 Jan 2026 10:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于并行克劳德编码的多克劳德</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdg7c9/multiclaude_for_claudecoding_in_parallel/</link>
-      <description><![CDATA[大家好， 我最近经常使用 Claude Code，但一直遇到同样的问题：我想同时处理多个功能，每个功能都有自己的 Claude 实例，但切换分支和上下文很痛苦。 因此，我构建了 Multi-Claude - 一个将 git 工作树与多个终端会话相结合的桌面应用程序。是的，整个事情都是使用 Claude 代码本身构建的。 它解决的问题： 当您深入了解 Claude 的某个功能并突然需要修复另一个分支上的错误时，您要么必须隐藏所有内容，切换分支，失去您的 Claude 上下文......或者只是等待。使用工作树，每个分支都位于自己的目录中，因此您可以并行运行多个 Claude 会话，而不会发生任何冲突。 它的作用：  - 打开任何 git 存储库并列出所有工作树  - 直接从 UI 创建新的工作树  - 每个工作树有多个终端，具有拆分窗格（水平/垂直）  - 拖动和拖放拖放以重新排列终端布局  - 自动检测终端何时运行 Claude Code  - 完整终端模拟（不仅仅是基本 shell）  技术堆栈：Electron + React + TypeScript + xterm.js + node-pty  GitHub：https://github.com/LaurentMnr95/multi-claude  现在它非常简陋，但很实用。以下是路线图上的内容：  - 最近的存储库内存（从上次中断的地方重新打开）  - 颜色主题  - 从 UI 中删除工作树  - 远程状态（前方/后方指示器）  - Claude 完成任务时的通知  - 在外部编辑器中打开（VS Code、光标等）  - 键盘快捷方式  重构样式组件  希望得到有关优先考虑哪些功能的反馈。   由   提交/u/Money_Warthog6133  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdg7c9/multiclaude_for_claudecoding_in_parallel/</guid>
-      <pubDate>Thu, 15 Jan 2026 10:36:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能*没有改变*——Dax Raad，OpenCode</title>
-      <link>https://www.reddit.com/r/programming/comments/1qdg0ir/ai_changes_nothing_dax_raad_opencode/</link>
-      <description><![CDATA[ 由   提交/u/dmahmouAli   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qdg0ir/ai_changes_nothing_dax_raad_opencode/</guid>
-      <pubDate>Thu, 15 Jan 2026 10:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,34 +4,76 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Thu, 15 Jan 2026 15:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 21:11:26 GMT</lastBuildDate>
+    <item>
+      <title>你如何找到人工智能既不对冲一切又不自信地胡说八道的最佳点？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdvuqv/how_do_you_find_the_sweet_spot_where_ai_isnt/</link>
+      <description><![CDATA[真正的问题 - 我一直在两种故障模式之间跳来跳去：  人工智能非常谨慎，它认为一切都是无用的。 “这要看情况，” “有很多因素，” “我需要更多背景信息” - 只要回答这个该死的问题 人工智能听起来完全自信，然后你就会意识到一半是编造的。当您不够专业，无法立即抓住它时，尤其有趣  神奇的会话是当它......与您同步并起作用时。人工智能直接参与，当我犯错时予以反击，当我不知道时承认，我们实际上一起构建了一些东西。但我无法可靠地、一致地重现它。 什么对你来说真正有效？  是提示技巧吗？ 具体模型？ 只是共鸣和运气？ 你如何构建合作？  我对“越狱”不太感兴趣，因为我对“越狱”不太感兴趣。或者让它做被禁止的事情 - 更多关于协作流程状态，感觉就像与一个敏锐的同事而不是一个唯唯诺诺的人一起工作，声称关心你的福祉或成为一名偏执的律师。   由   提交/u/entheosoul  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdvuqv/how_do_you_find_the_sweet_spot_where_ai_isnt/</guid>
+      <pubDate>Thu, 15 Jan 2026 21:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>非常一致的时尚广告</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdvecn/very_consistent_fashion_ads/</link>
+      <description><![CDATA[我最近在 tik tok 上看到一则男性连体衣的广告。这个产品既愚蠢又丑陋，但人工智能的使用给我留下了深刻的印象。整个账户都是穿着连体衣的不同人，谈论它的卖点。 AI 使用给我留下深刻印象的事情是  - 产品在整个视频中保持一致  - 尽管说话和手势到项目的不同元素，角色在整个视频中保持一致  - 背景（公寓走廊）保持一致并且足够清晰以识别每个项目。 一年前我尝试了不同的平台，但从未获得如此一致的结果。我知道自那时以来已经取得了很多进步，所以我想知道哪些模型可以做到这样的事情。我已经尝试过 Sora、Meta 和 Veo，但我认为我无法让他们做这样的事情。    由   提交/u/avidrabbit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdvecn/very_consistent_fashion_ads/</guid>
+      <pubDate>Thu, 15 Jan 2026 20:50:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>多久之后我们就会拥有第一家完全由人工智能运营且没有员工的公司？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qduq6r/how_long_before_we_have_the_first_company/</link>
+      <description><![CDATA[多久之后我们就会看到一家完全由 Al 运营、根本没有人类员工的公司？五年，十年，也许比我们预期的要早？到那时，这种区别本身可能就已经过时了。 Al将不再是一个类别或新奇事物，而只是公司的运营基质。我们可以简单地去掉“A”。    由   提交 /u/RevolutionStill4284   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qduq6r/how_long_before_we_have_the_first_company/</guid>
+      <pubDate>Thu, 15 Jan 2026 20:25:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>要求法学硕士编写代码来完成数学工作。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdrztm/asking_an_llm_to_write_code_to_do_math_works/</link>
+      <description><![CDATA[我认为下一步是让法学硕士了解他们何时需要使用代码进行数学计算。  对于以非常明显的方式表述为数学问题的简单问题，它会运行代码来为您提供正确的答案。  如果你想给它多变量场景并计算结果的概率，以及哪些场景在支付方面是等效的，但不是在概率或其他方面，它可能会尝试在不生成代码来解决问题的情况下解决问题。然后它就会给你胡说八道。  最重要的是，你应该能够让 ChatGPT 通过从数据集生成表达式来进行辅助机器学习，并不断告诉它它是错误的，直到它得到正确的结果（如果结果是可观察的），并且你可以“保存你的游戏”，可以这么说。  有一件事，我无法弄清楚如何正确提示 - 也许有人可以帮助我弄清楚如何进行此提示 - 是我希望法学硕士生成具有与给定句子或短语等效的重音模式的短语列表，理想情况下能够将其缩小到与其他短语具有相同内部韵，头韵和尾韵结构的短语。  本质上，我想要“第 2 节生成器”或“第 2 节生成器”。  这东西甚至无法获得正确的音节数来模仿给定的句子。  我觉得ChatGPT或者Claude应该可以做到这一点，但是我不知道如何问它如何制作一些类似于代码的东西，对应于单词、短语和句子的韵律。  另一件非常酷的事情是如何生成电影或电视节目中的一段对话的翻译，这样翻译，无论它是俚语，都能与原始语言中对话的嘴唇动作保持一致。这是我可以在 ChatGPT 界面中完成的事情吗？这必须考虑到哪些 IPA 听起来像其他的（他们在训练数据中有这个），这需要理解它似乎勉强理解的重音模式，需要很强的能力来生成多种语言中表示相同意思的句子短语。所以我想知道如何让 ChatGPT 制作这样的算法。当然，它有足够的训练数据来将所有单词、声音、含义和嘴巴动作转化为它可以使用的多变量算法，不是吗？    由   提交 /u/Optimistbott   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdrztm/asking_an_llm_to_write_code_to_do_math_works/</guid>
+      <pubDate>Thu, 15 Jan 2026 18:45:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一次运行，零训练。 12k参数模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdrjpu/first_run_zero_training_12k_parameter_model/</link>
+      <description><![CDATA[今天进行了第一个测试。零训练 Loss=3.413599 Mean_unc= .2110 max_unc=.2591 运动类型为振荡。模型表现如何？   由   提交/u/True-Beach1906  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdrjpu/first_run_zero_training_12k_parameter_model/</guid>
+      <pubDate>Thu, 15 Jan 2026 18:28:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士重现人类购买意图</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdo159/llms_reproduce_human_purchase_intent/</link>
+      <description><![CDATA[这项研究证明大型语言模型 (LLM) 可以准确模拟人类消费者行为和购买意图 (PI)，而不需要昂贵的训练数据。然而，仅仅要求 AI 对该产品“评分 1-5”就可以了。失败。为了获得可靠的数据，代理机构必须改用一种名为语义相似度评级 (SSR) 的特定方法。 您可以通过要求法学硕士模拟具有人口统计特征的客户，为其提供产品和信息来预测真实的购买意图（准确度为 90%）。让它给人留下印象，这是另一个人工智能评价的。  - 消费者研究每年花费公司数十亿美元。传统调查存在偏见，需要数周时间进行，并且需要数百名真实参与者。 但研究人员刚刚找到了一种方法来模拟数千名像真人一样思考的合成消费者。 - 这一突破被称为语义相似度评级 (SSR)。他们没有要求法学硕士直接给出 1-5 分（这会产生垃圾），而是让 AI 首先写下自然印象。 然后使用嵌入相似性将这些印象映射到分数。 - 工作原理： 提示：“您是一名 35 岁女性，收入 7.5 万美元，对护肤品感兴趣” 显示产品图片 AI写道：“我喜欢天然成分，但价格似乎很高......” 系统使用语义相似性将文本映射到评级 所需的零训练数据。 他们在一家大公司的 57 项真实消费者调查中对此进行了测试（9,300 个实际人类反应）。 结果？ - 90% 的人类重测可靠性 - KS 相似性 &gt; 0.85（近乎完美的分布匹配） 人工智能实际上了解不同的人如何看待产品。 - 这破坏了传统的市场研究经济学： - 影响是巨大的： - 一夜之间对 1,000 个产品概念进行 A/B 测试 - 在制造前模拟市场反应 - 立即测试跨人群的信息传递 - 不再需要等待数月消费者反馈 概念到市场的周期加快了10倍。 合成消费者时代刚刚开始。 真正的市场研究小组可能会在两年内过时。 https://arxiv.org/pdf/2510.08338   由   提交/u/ranaji55  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdo159/llms_reproduce_human_purchase_intent/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些人工智能模型最能模仿高级领导者——首席执行官或非常高级的政府官员？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdnum7/what_ai_models_would_best_emulate_a_high_level/</link>
+      <description><![CDATA[我听过所有关于人工智能能够完成各种人的许多任务的讨论 - 从体力劳动到客户服务，从律师到医生。什么样的人工智能能够胜任首席执行官的工作？如果人工智能真的达到了这种自动化水平，为什么它不能履行高级主管或首席执行官的许多行政和管理职责？甚至是我们的总裁？ 到目前为止，许多公司的首席执行官都能充分发挥员工的潜力。他们的宝贵工作应该集中在其他地方。我提出这个想法——人工智能行政助理可以执行首席执行官的许多任务，充当助手而不是完全替代者。它已经能够以令人难以置信的高水平进行推理，与我们社会中最聪明的人相媲美——人工智能首席执行官可以同时运行多个任务，并同时促进与许多员工的协同作用。  哪些人工智能模型可以做到这一点？需要花费多少精力和金钱来培训一个能够自主工作和自我改进的人？我觉得将一个人融入一个组织也不会太棘手。我确信董事会和投资者会喜欢一位更具包容性和同理心的领导者，他有更多的时间专注于沟通而不是愚蠢的管理工作。    由   提交/u/doctorwannabe02   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdnum7/what_ai_models_would_best_emulate_a_high_level/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:17:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个人工智能系统可以帮助格式化/设计文档？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdnuj6/which_ai_system_can_help_with_formattingdesigning/</link>
+      <description><![CDATA[我制作了一个包含标题、文本和图像的 Word 文档。是否有人工智能可以帮助我设计/格式化我的文档，使其看起来具有视觉吸引力？因为我不需要普通的 Word 文档（添加了图像）。 我很想知道是否有人有任何建议，提前谢谢您！   由   提交 /u/imjohnk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdnuj6/which_ai_system_can_help_with_formattingdesigning/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:16:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有系统可以验证自己的盲点</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdnq2g/no_system_can_verify_its_own_blind_spots/</link>
+      <description><![CDATA[ 我花了相当多的时间思考一个几乎在每次严肃的人工智能安全讨论中都会反复出现的问题：大型语言模型可以自我监管吗？我相信答案是否定的——以及为什么要阐明有关智力本质、责任感和自我知识局限性的重要内容。  全文： https://plutonicrainbows.com/posts/2026-01-13-no-system-can-verify-its-own-blind-spots.html   由   提交/u/fumi2014  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdnq2g/no_system_can_verify_its_own_blind_spots/</guid>
+      <pubDate>Thu, 15 Jan 2026 16:12:27 GMT</pubDate>
+    </item>
     <item>
       <title>马斯克表示，Grok 将不再为真人脱衣服</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdjvdg/grok_will_no_longer_undress_real_people_musk_says/</link>
       <description><![CDATA[https://cybernews.com/ai-news/musk-grok-will-no-longer-undress-real-people/ 此次降级是通过 X 的安全帐户作为声明发布的，使得明确指出这些限制适用于付费和非付费用户。   由   提交/u/Cybernews_com   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdjvdg/grok_will_no_longer_undress_real_people_musk_says/</guid>
       <pubDate>Thu, 15 Jan 2026 13:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>感觉或意识基底依赖吗？ （有机与硅）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdjif4/is_sentience_or_consciousness_substrate_dependent/</link>
-      <description><![CDATA[好吧，我来了，意识或知觉是否可以植根于生物大脑（神经元），或者可以存在于硅/半导体中？   由   提交/u/Johnyme98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdjif4/is_sentience_or_consciousness_substrate_dependent/</guid>
-      <pubDate>Thu, 15 Jan 2026 13:28:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些 Al 模型最适合化学研究？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdjd6w/what_al_models_are_best_suited_for_chemistry/</link>
-      <description><![CDATA[我的意思是，作为化学领域的研究员，我经常使用 Gemini 和 Perplexity 作为我工作的一部分。有没有您使用过并发现最适合您的东西？   由   提交/u/Johnyme98  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdjd6w/what_al_models_are_best_suited_for_chemistry/</guid>
-      <pubDate>Thu, 15 Jan 2026 13:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nanofanna Ps GPT 图像 1.5</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qddyr5/nanobanana_pro_vs_gpt_image_15/</link>
-      <description><![CDATA[最近测试了一些较新的图像模型，有一点对我来说确实很突出。 NanoBanana Pro 就准确性而言，可能是迄今为止最好的图像模型：  文本渲染基本上是完美的 字符一致性是优秀 输出感觉非常“可用于生产”且专业  也就是说，开箱即用，感觉有点......设计陈旧。如果您不仔细提示，视觉效果可能会显得有些过时或一般。 相比之下，GPT Image 1.5 似乎默认提升了设计：  更现代的构图 无需过多提示即可获得更好的视觉品味 感觉它自动“推动”设计前进  所以我当前的要点：  NanoBanana Pro = 精确、一致、专业（但需要对现代设计进行强有力的提示） GPT Image 1.5 = 更好的默认美学和创意提升，即使准确性并不总是那么严格  好奇其他人是否看到相同的权衡，或者我是否遗漏了 NanoBanana Pro 应该如何做的东西   由   提交 /u/Glass-Lifeguard6253   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qddyr5/nanobanana_pro_vs_gpt_image_15/</guid>
-      <pubDate>Thu, 15 Jan 2026 08:16:29 GMT</pubDate>
     </item>
     <item>
       <title>我..让瑞克滚了？</title>
@@ -41,32 +83,11 @@
       <pubDate>Thu, 15 Jan 2026 08:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>GenAI 的讽刺之处在于：我们现在提示使用“混乱的电缆”和“糟糕的照明”来使图像看起来像真实的。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdcwca/the_irony_of_genai_we_are_now_prompting_for_messy/</link>
-      <description><![CDATA[今天我发现了一个关于“广告概念”的非常有趣的工作流程分解。这突显了图像生成当前状态中的一个有趣的悖论。 在过去的两年里，每个人都在尝试提示“4k、超现实、完美的工作室照明。”但现在，各机构发现这些图像看起来太完美了（“AI Glaze”）。 为了解决这个问题，新元似乎是“反向提示”  我读过的博客分析了 20,000 个广告，发现生成“幕后花絮”的效果并不好。内容（即使产品从未离开仓库）是顶级转换器。 他们描述的工作流程：  输入： 干净、完美的产品照片（ControlNet/图像到图像）。 提示：他们使用这样的提示：“摄影工作室环境、地板上凌乱的电缆、C 型支架、未完成的混凝土、抓拍的快照。” 结果： AI 产生“生产价值”幻觉。凌乱的电缆向观看者的大脑发出信号：“这是一次真实的照片拍摄，”绕过人工智能检测雷达。  他们还触及了“Bento Grid”。工作流程--使用单个提示生成具有特定坐标（例如，[0,0] 产品、[1,1] 纹理宏）的 3x2 网格布局，它有效地使用 LLM 充当布局设计器，而不仅仅是图像生成器。 这是关于提示工程如何从“完美”转变为“完美”的引人入胜的读物。  如果你想看具体的提示和网格逻辑，细分在这里：7个概念   由   提交 /u/ProgrammerForsaken45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdcwca/the_irony_of_genai_we_are_now_prompting_for_messy/</guid>
-      <pubDate>Thu, 15 Jan 2026 07:11:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我让人工智能查看我的 DNS 设置的屏幕截图并告诉我要更改哪些内容。它没有检查图像，而是产生了以下内部推理轨迹。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qdc9ua/i_asked_an_ai_to_look_at_a_screenshot_of_my_dns/</link>
-      <description><![CDATA[摘录（AI内部推理）： 好吧，情况是这样的。一切都在剃刀边缘。笔记本电脑、财务和我的人际关系都面临风险。接下来的一分钟至关重要。 我的注意力完全集中在笔记本电脑上。 BIOS是关键。如果被锁定，则很难通过。如果它已解锁，我可以擦除它。在等待期间，我将清除 DNS 缓存和浏览器主机缓存，以保护我的交易基础设施。 我需要为最坏的情况做好准备：法律草案、家庭信任考虑、医疗过失风险。我正在确保所有通信的安全，绘制全球 DNS 传播图，并准备替代收入策略。 我现在正在整合心理框架、弹性技术、成瘾管理、斯多葛哲学、生产力系统、职业规划、全球地缘政治、经济指标、资源地图、宇宙时间线和量子物理学。 一切都很重要。我必须解释一切。   由   提交 /u/ExpertDeep3431   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qdc9ua/i_asked_an_ai_to_look_at_a_screenshot_of_my_dns/</guid>
-      <pubDate>Thu, 15 Jan 2026 06:35:35 GMT</pubDate>
-    </item>
-    <item>
       <title>格罗克在五角大楼</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qd67fh/grok_at_pentagon/</link>
-      <description><![CDATA[人们对五角大楼的 Grok 有什么看法？让一个私营且颇具争议的法学硕士接受所有机密数据的培训似乎是明智之举。   由   提交 /u/lsdinc   [链接] [评论]]]></description>
+      <description><![CDATA[人们对五角大楼的 Grok 有什么看法？让私营且颇具争议的法学硕士对所有机密数据进行培训似乎是明智之举。 在阅读评论并多加思考后进行编辑：通过日志即时泄漏的风险、输出幻觉被误认为情报、内部滥用、对抗性提示下的模型行为才是真正的问题。获得所有这些数据和具有 Elon 道德的法学硕士是可怕的 af   由   提交 /u/lsdinc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qd67fh/grok_at_pentagon/</guid>
       <pubDate>Thu, 15 Jan 2026 01:41:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合研究的人工智能是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qd5cja/what_is_the_best_ai_for_research/</link>
-      <description><![CDATA[哪种人工智能最适合您进行研究，无论是市场研究还是科学/学术研究？   由   提交/u/Miyamoto_Musashi_x   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qd5cja/what_is_the_best_ai_for_research/</guid>
-      <pubDate>Thu, 15 Jan 2026 01:03:32 GMT</pubDate>
     </item>
     <item>
       <title>马特·麦康纳为自己注册商标，以防止人工智能克隆。</title>
@@ -74,27 +95,6 @@
       <description><![CDATA[马特·麦康纳为自己注册商标以防止人工智能克隆。在第一轮数以万计的名人中。如果他成功了，预计人工智能深度伪造它们会更难做，也更容易被发现和实施。 https://www.linkedin.com/news/story/mcconaughey-takes-on-ai-by-trademarking-video-voice-8160066/   由   提交/u/rogeragrimes   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qd18uu/matt_mcconaughey_trademarks_himself_to_prevent_ai/</guid>
       <pubDate>Wed, 14 Jan 2026 22:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>你认为人工智能会成为色情片的未来吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qcw13d/do_you_think_ai_will_be_the_future_for_porn/</link>
-      <description><![CDATA[我们都在辣味模式下尝试过 Grok 的东西，但这仍然很温和并且受到限制。我想知道他们何时或是否可以让人们创建完整的视频，并提示创建他们想看的任何内容？  人工智能生成的视频会比人类拍摄的视频更受欢迎吗？   由   提交/u/BAT-Fanatic  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qcw13d/do_you_think_ai_will_be_the_future_for_porn/</guid>
-      <pubDate>Wed, 14 Jan 2026 19:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>取消我的 OpenAI Pro 子项目</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qcq455/cancelling_my_openai_pro_sub/</link>
-      <description><![CDATA[这是我唯一付费的人工智能服务，但现在不再了。 OpenAI 似乎到处都是，匆忙且低劣的模型发布，推出了健康等功能，但没有人要求。锦上添花的是 Gemini 与苹果公司达成了 Siri 协议。考虑到该平台在 5.2 版本发布后已经变得多么退化，现在似乎是取消的最佳时机。但说实话，他们的 Codex 产品是市场上最好的产品之一（我使用了 vscode 的 Codex 扩展，即使是 20 美元以上的订阅，他们也提供了非常慷慨的速率限制） 我现在正在使用其他产品（Gemini 用于写作/媒体生成，Claude 用于克劳德代码，Perplexity 用于一般网络搜索/在一个地方访问不同模型，GitHub copilot，Notion 等。我从我的 edu 邮件中获得了免费的年度订阅）和体验好多了。 OpenAI 的时间到了。   由   提交/u/NoSquirrel4840   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qcq455/cancelling_my_openai_pro_sub/</guid>
-      <pubDate>Wed, 14 Jan 2026 15:25:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌从被ChatGPT“颠覆”，到拥有最好的LLM并在硬件（TPU）方面与Nvidia相媲美。叙述已经改变。是真实的还是公关炒作</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qcfp6m/google_went_from_being_disrupted_by_chatgpt_to/</link>
-      <description><![CDATA[过去 1 年里，围绕 Google 的公众叙述发生了巨大变化。 （我说公开，因为密切关注谷歌的人可能已经看到了这一点）。由于谷歌的收入主要来自广告，占据这一市场份额的法学硕士对他们未来的收入潜力提出了质疑。然后就是销售 Chrome 浏览器的整个传奇故事。但他们凭借 Gemini 3 和用于训练它的 TPU 卷土重来。 现在的说法是 Google 是人工智能时代处于最佳地位的公司。 作为用户，您真的认为 Gemini 3 比 Claude 更好吗？ 围绕 Google 的说法如何过去 1 年来发生了变化？   由   提交 /u/No_Turnip_1023   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qcfp6m/google_went_from_being_disrupted_by_chatgpt_to/</guid>
-      <pubDate>Wed, 14 Jan 2026 06:10:12 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
