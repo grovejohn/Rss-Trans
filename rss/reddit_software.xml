@@ -4,7 +4,98 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 14 Jan 2026 18:19:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 12:21:03 GMT</lastBuildDate>
+    <item>
+      <title>需要对网站进行价格估算。总部设在菲律宾</title>
+      <link>https://www.reddit.com/r/software/comments/1qde4y1/need_price_estimate_for_a_website_philippines/</link>
+      <description><![CDATA[问题/目标：我正在寻找粗略的成本和时间估算，以将以下功能添加到现有网站： 主要功能： 用户帐户（使用安全身份验证进行注册/登录） 使用引导问题进行基于规则的手机分类 手机回收或处置的调度系统 设备状态跟踪 设备文档的照片上传 管理仪表板（用户、设备、请求） 基本管理报告和分析 后端、数据库、安全性和基于角色的访问更新 注意：我想将这些功能添加到视频中显示的现有网站中。 感谢您的任何见解。谢谢！   由   提交 /u/Beneficial_Pain6354   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qde4y1/need_price_estimate_for_a_website_philippines/</guid>
+      <pubDate>Thu, 15 Jan 2026 08:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索 .docx 文件内内容的更好方法？</title>
+      <link>https://www.reddit.com/r/software/comments/1qd9niz/better_way_to_search_content_inside_docx_files/</link>
+      <description><![CDATA[我知道 Everything 可以在 Windows 上搜索文件，但是，是否有任何工具可以搜索内部文件，特别是 .docx 文档。  由于我一周只使用一次，所以我更喜欢免费的。谢谢大家。   由   提交/u/cherishjoo  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qd9niz/better_way_to_search_content_inside_docx_files/</guid>
+      <pubDate>Thu, 15 Jan 2026 04:19:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>标题：PDF Zone - 完全在浏览器中运行的专业 PDF 工具（无需上传，100% 私密且 100% 免费）</title>
+      <link>https://www.reddit.com/r/software/comments/1qd8xkf/title_pdf_zone_professional_pdf_tools_that_run/</link>
+      <description><![CDATA[我构建了 PDF Zone，因为我厌倦了将敏感文档上传到随机服务器只是为了合并或压缩 PDF。 它的作用： 所有 PDF 操作都使用 WebAssembly 直接在浏览器中进行 - 合并、分割、压缩、加密、组织、签名等。 为什么不同：  🔒 您的文件实际上永远不会离开您的设备 ⚡ 即时处理（无上传/下载等待时间） 💰 完全免费，无需注册 🔓 无文件大小限制或使用上限  整个架构都是围绕隐私构建的 - 文件保留在浏览器的内存中，并在您关闭选项卡时消失。由于没有任何东西接触我们的服务器，所以即使我们想访问您的数据也无法访问。 查看：https://www.pdfzone.dev 好奇的技术细节：使用 WebAssembly 构建，可实现本机速度的 PDF 处理。加载后即可离线工作。仅客户端架构意味着我们端的带宽使用量为零，并为您提供最大程度的隐私。   由   提交/u/Zeus6453  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qd8xkf/title_pdf_zone_professional_pdf_tools_that_run/</guid>
+      <pubDate>Thu, 15 Jan 2026 03:44:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenStickies v2.7 发布！</title>
+      <link>https://www.reddit.com/r/software/comments/1qd51rd/openstickies_v27_release/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qd51rd/openstickies_v27_release/</guid>
+      <pubDate>Thu, 15 Jan 2026 00:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>CapyConvert - 最舒适的免费在线转换器</title>
+      <link>https://www.reddit.com/r/software/comments/1qd4jzw/capyconvert_coziest_online_converter_for_free/</link>
+      <description><![CDATA[每次我需要转换文件时：  Google“heic 到 jpg 转换器” 点击某个随机网站 将我的文件上传到上帝知道的地方 观看广告 希望我的数据不会被窃取  我受够了并构建了 CapyConvert。 它的作用： 在浏览器中转换文件。什么都没有上传。   图像：PNG、JPG、WebP、HEIC、AVIF、GIF 音频：MP3、WAV、FLAC、AAC、OGG 视频：MP4、MKV、MOV、WebM、AVI 批量转换 — 拖动 100 个文件，完成  无聊部分：  免费。其实是免费的。没有“每天 5 次转化” BS 无需帐户 无需下载 无广告  免费试用： https://www.capyconvert.com/   由   提交 /u/Internet_Treasure   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qd4jzw/capyconvert_coziest_online_converter_for_free/</guid>
+      <pubDate>Thu, 15 Jan 2026 00:29:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一个程序可以将一个文件同时复制到多个文件夹？</title>
+      <link>https://www.reddit.com/r/software/comments/1qd1syh/is_there_a_program_to_copy_a_file_to_multiple/</link>
+      <description><![CDATA[Copywhiz 可以做到这一点，但成本太高。正在寻找免费或更便宜的版本。   由   提交 /u/d8gfdu89fdgfdu32432   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qd1syh/is_there_a_program_to_copy_a_file_to_multiple/</guid>
+      <pubDate>Wed, 14 Jan 2026 22:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是看门狗？</title>
+      <link>https://www.reddit.com/r/software/comments/1qcztkl/what_is_watchdog/</link>
+      <description><![CDATA[ 由   提交/u/Mindless-Health-6711   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qcztkl/what_is_watchdog/</guid>
+      <pubDate>Wed, 14 Jan 2026 21:21:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找此音量控制应用程序的免费替代品</title>
+      <link>https://www.reddit.com/r/software/comments/1qcv8aa/looking_for_a_free_alternative_to_this_volume/</link>
+      <description><![CDATA[大家好，我看了这个视频：https://youtu.be/Ws6r5oNwul8 视频中的应用程序可让您以非常流畅/高级的方式控制音量（基于步骤或加速的音量变化、屏幕音量指示器等），并且这正是我正在寻找的。 问题是所显示的应用程序是付费的。 有谁知道 Windows 上有一个免费（或开源）替代品可以做同样的事情或接近它吗？ 提前致谢🙏   由   提交 /u/Interesting_Scar9613   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qcv8aa/looking_for_a_free_alternative_to_this_volume/</guid>
+      <pubDate>Wed, 14 Jan 2026 18:31:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>PC 上最具颠覆性的提醒应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1qcv5d2/most_disruptive_reminder_app_for_pc_possible/</link>
+      <description><![CDATA[我真的不擅长将通知和提醒变成白噪音，并且只是漫不经心地将它们关闭并继续，所以我一直在寻找有用的东西。我发现最好的事情是当我使用内置的自动关闭功能时，警告是完美的，但我不知道如何在其之外触发它们。这是一个大的、全屏的东西，立即吸引了焦点，让我停止了我正在做的一切来确认它，并找到按钮来关闭它。 我正在寻找类似的东西。有些东西不会让我继续做我正在做的事情，并且会分散我的注意力。我发现大多数东西都粘在底角，但我喜欢中间的东西。正如您所发现的那样令人讨厌和唐突。   由   提交 /u/spaceace23   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qcv5d2/most_disruptive_reminder_app_for_pc_possible/</guid>
+      <pubDate>Wed, 14 Jan 2026 18:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想从录制的视频中提取代码任何工具</title>
+      <link>https://www.reddit.com/r/software/comments/1qcuyrg/i_want_to_extract_code_from_recorded_video_any/</link>
+      <description><![CDATA[ 由   提交/u/mysterious_code  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qcuyrg/i_want_to_extract_code_from_recorded_video_any/</guid>
+      <pubDate>Wed, 14 Jan 2026 18:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些好的用户通道替代方案？</title>
+      <link>https://www.reddit.com/r/software/comments/1qcuvsi/what_are_some_good_userlane_alternatives/</link>
+      <description><![CDATA[大家好， 我的公司今年将启动一个项目，为我们的内部工具选择一个数字采用平台。我们在采用方面面临不少挑战，特别是在 Dynamics 和 Workday 方面。 我们的目标是实施一些措施，帮助新员工加入这些系统。主要挑战是它需要超级国际化，因为我们在 50 多个国家/地区开展业务，任何本地团队都应该能够轻松管理它。 我们开始与 Userlane 交谈，他们勾选了我们的一些方框，但我们不能 100% 确定该平台适合我们的用例。 因此我们想寻找替代方案。您有什么特别推荐的吗？   由   提交 /u/GamerArceus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qcuvsi/what_are_some_good_userlane_alternatives/</guid>
+      <pubDate>Wed, 14 Jan 2026 18:19:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作《超级投资者》是为了查找上市公司的关键文件。我在新闻报道之前发现内幕交易、实益所有权、季度收益的方法。</title>
+      <link>https://www.reddit.com/r/software/comments/1qcp5xn/i_made_super_investor_to_find_key_filings_by/</link>
+      <description><![CDATA[https://apps.apple.com/us/app/super-investor/id1441737952   由   提交 /u/fintech-fire   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qcp5xn/i_made_super_investor_to_find_key_filings_by/</guid>
+      <pubDate>Wed, 14 Jan 2026 14:48:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了 Company 360 来计算公司价值（股票价格）。它是内在价值、概率模型和指标的组合。最初是为了管理我女儿的大学基金。</title>
+      <link>https://www.reddit.com/r/software/comments/1qcovvf/i_made_company_360_to_calculate_value_of_company/</link>
+      <description><![CDATA[ 由   提交 /u/fintech-fire   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qcovvf/i_made_company_360_to_calculate_value_of_company/</guid>
+      <pubDate>Wed, 14 Jan 2026 14:37:11 GMT</pubDate>
+    </item>
     <item>
       <title>为 Windows 制作了一个音乐播放器</title>
       <link>https://www.reddit.com/r/software/comments/1qcl89h/made_a_music_player_for_windows/</link>
@@ -13,102 +104,11 @@
       <pubDate>Wed, 14 Jan 2026 11:47:01 GMT</pubDate>
     </item>
     <item>
-      <title>我用 Rust 构建了一个存储引擎，可以保证数据的弹性</title>
-      <link>https://www.reddit.com/r/software/comments/1qcinht/i_built_a_storage_engine_in_rust_that_guarantees/</link>
-      <description><![CDATA[https://github.com/crushr3sist/blockframe-rs 大家好！我想分享一个我一直在开发的名为 blockframe-rs 的项目。 它是一个完全用纯 Rust 构建的自定义存储引擎，围绕带有分段的多层次分块而设计。我的主要目标是在不影响可访问性的情况下解决可靠性问题，因此我实现了 RS 擦除编码，以确保零数据丢失风险，即使在部分损坏的情况下也是如此。 为了使数据真正可用，我构建了一个与 FUSE（在 Linux 上）和 WinFSP（在 Windows 上）集成的服务层。这允许分段块作为标准文件系统进行安装和访问，从而向用户透明地提供完整的文件表示。 我目前正在寻找有关架构和纠删码实现的反馈。如果您对系统编程或存储引擎感兴趣，我很想听听您的想法！ 转发：原始内容已被删除：P   由   提交 /u/Exact-Contact-3837   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qcinht/i_built_a_storage_engine_in_rust_that_guarantees/</guid>
-      <pubDate>Wed, 14 Jan 2026 09:09:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了 iPhotron — 具有无损编辑和地图视图功能的本地照片管理器（Windows，离线）</title>
-      <link>https://www.reddit.com/r/software/comments/1qci3md/i_built_iphotron_a_local_photo_manager_with/</link>
-      <description><![CDATA[发布 我刚刚发布了 iPhotron，这是一款桌面照片管理器，它为 Windows 带来了类似 macOS 照片的体验，专注于本地图库、无损编辑和长期照片所有权。 iPhoto 专为想要在本地浏览、组织和编辑照片的用户而打造，无需云服务、订阅或帐户。 此版本提高了整体响应速度，并在浏览、编辑和基于位置的探索方面完成了更加连贯的工作流程，同时始终保持原始文件不变。 应用程序的用途  直接从现有文件夹浏览照片（无需导入步骤） 非破坏性照片编辑（所有编辑都是可逆的，原始文件保留）未更改） 地图视图，使用 GPS 元数据显示照片拍摄地点 智能图库视图，如所有照片、视频和收藏夹 支持配对照片/视频资源（例如实时照片样式文件）  一切运行完全离线：  无 AI 无云服务 没有帐户或遥测  平台  Windows：随时可用 Linux：支持，但目前需要手动构建  该项目是开源的，免费使用，并且仍在不断发展。 我希望得到那些想要云照片应用的本地替代方案的人的反馈，尤其是那些关心编辑、组织和长期照片存储的人。 链接 GitHub： https://github.com/OliverZhaohaibin/iPhotos-LocalPhotoAlbumManager   由   提交/u/Mountain_Economy_401   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qci3md/i_built_iphotron_a_local_photo_manager_with/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:33:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>“尝试”各种装扮风格的最佳人工智能工具。</title>
-      <link>https://www.reddit.com/r/software/comments/1qchus4/best_ai_tool_to_try_on_various_dress_up_styles/</link>
-      <description><![CDATA[您好，我想尝试一下各种风格来决定我应该买什么样的衣服，有没有一个像样的工具可以让我给自己和一些衣服拍一张照片，并将它们准确地组合起来？理想情况下它在本地运行。   由   提交/u/Ignas1452  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qchus4/best_ai_tool_to_try_on_various_dress_up_styles/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合利基用途的图像编辑器</title>
-      <link>https://www.reddit.com/r/software/comments/1qchu9f/image_editor_for_niche_use/</link>
-      <description><![CDATA[我正在寻找一个图像编辑器，或图像编辑器的插件，具有以下功能：  一旦打开程序，它将自动打开当前复制的图像 检测图像 - 如果是新的，则将其保存到定义的位置，并使用图像编辑器的本机格式来保留编辑历史记录 如果以前保存过，打开已保存的图像相反  当图像保存时，它会自动导出为.jpg并复制到剪贴板d  这样做的用途是允许在没有内置图像编辑器的程序中轻松编辑图像。 例如，如果我需要向图片添加箭头、数字等标记，或编辑以前制作的标记，这会很麻烦更易于管理。 我认为在大多数编辑器中使用宏或启动命令打开复制的文件并复制保存的文件很容易完成，但我不知道如何完成检测图片是否是新的。复制的图像没有文件名，即使有，它也是不可靠的，因为可能存在重复。 有什么想法吗？   由   提交 /u/Catriks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qchu9f/image_editor_for_niche_use/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经为小型企业（和家庭）开源了我的文档管理系统。</title>
-      <link>https://www.reddit.com/r/software/comments/1qchtvx/ive_opensourced_my_document_management_system_for/</link>
-      <description><![CDATA[ 由   提交/u/trent-7  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qchtvx/ive_opensourced_my_document_management_system_for/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:16:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>更好的人工智能工具？</title>
-      <link>https://www.reddit.com/r/software/comments/1qchsvd/better_ai_tools/</link>
-      <description><![CDATA[我尝试过很多不同的 AI 生成器，虽然有些可能使用更强大的模型，但 A2E 一直为我提供很棒的图片，并且一旦您迭代提示，图像到视频的效果就非常好。还没有找到提供如此多无限代的网站！ https://video.a2e.ai/?coupon=OemJ   由   提交 /u/steviolol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qchsvd/better_ai_tools/</guid>
-      <pubDate>Wed, 14 Jan 2026 08:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用诺顿清理软件安全吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1qcghpo/is_it_safe_to_use_norton_cleaner_software/</link>
-      <description><![CDATA[ 由   提交 /u/Inevitable-Move4941   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qcghpo/is_it_safe_to_use_norton_cleaner_software/</guid>
-      <pubDate>Wed, 14 Jan 2026 06:55:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>席尔瓦科 TCAD 软件</title>
-      <link>https://www.reddit.com/r/software/comments/1qcf29i/silvaco_tcad_software/</link>
-      <description><![CDATA[ 由   提交/u/Extension-Public5270   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qcf29i/silvaco_tcad_software/</guid>
-      <pubDate>Wed, 14 Jan 2026 05:35:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smartduck XS61 软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1qccvur/smartduck_xs61_software/</link>
-      <description><![CDATA[您好！所以我最近从一家二手店买了一个键盘，我看到它有软件，我搜索了它，我看到官方链接是smartduck9.com，但是它挂了，我在Wayback Machine上看到，并找到了它，但链接到找不到下载并且从未备份过，有人拥有它或知道在哪里获取它吗？ 谢谢！   由   提交 /u/isragdd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qccvur/smartduck_xs61_software/</guid>
-      <pubDate>Wed, 14 Jan 2026 03:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>wps Office突然收费</title>
-      <link>https://www.reddit.com/r/software/comments/1qcb0p2/wps_office_sudden_premium_charge/</link>
-      <description><![CDATA[包括我在内的很多人都被收取了年度保费，如此突然且不公平。我需要采取哪些步骤才能拿回我的钱？我今天没东西吃   由   提交/u/Simple_Coconut_9725   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qcb0p2/wps_office_sudden_premium_charge/</guid>
-      <pubDate>Wed, 14 Jan 2026 02:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Tasket++ 的测试人员 — 用于自动化用户操作的简单 Windows 工具，免费且开源（新 UI）</title>
-      <link>https://www.reddit.com/r/software/comments/1qc9wk3/looking_for_testers_for_tasket_simple_windows/</link>
-      <description><![CDATA[Tasket++ 是一个简单的 Windows 工具，用于安排用户操作的自动模拟，无需编写脚本。 模拟操作包括单击、打字、光标移动等 - 屏幕截图、打开文件、可执行文件和 URL、关闭 PC 等。 最近根据反馈重新设计了 UI，并且用户要求的一些功能已得到满足添加。 寻找一些人尝试新的完整版本并分享诚实的反馈。 它的用途： - 静默、预定的屏幕截图，用于监控活动或创建延时日志。 - 在设定的时间从任何应用程序发送消息以进行提醒或协调通知。 - 重放精确的鼠标点击和键入的输入以进行测试、演示或重复工作流程。 - 防止 AFK 检测具有看起来自然的真实模拟活动。 - 按计划淡出音乐并关闭电脑，以自动执行睡眠或一天结束的例程。 - 保存自动化预设并在启动时或按计划手动运行它们。 无需编写脚本。完全本地化。模拟任务可以循环、在启动时触发或通过桌面快捷方式启动。 Microsoft Store：https://apps.microsoft.com/detail/xp9cjlhwvxs49p源代码和问题：https://github.com/AmirHammouteneEI/ScheduledPasteAndKeys 便携式 (v1.6) : https://files.amirhammoutene.dev/Tasket++/1.6/Tasket++_v1.6.zip 我不要求完整的质量检查流程 - 简短的印象或简洁的反馈将不胜感激。预先感谢您:)   由   提交/u/AmirHammoutene  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qc9wk3/looking_for_testers_for_tasket_simple_windows/</guid>
-      <pubDate>Wed, 14 Jan 2026 01:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe Acrobat 很糟糕</title>
-      <link>https://www.reddit.com/r/software/comments/1qc9q0k/adobe_acrobat_is_bad/</link>
-      <description><![CDATA[大家好，我是医学生，完全依赖数字幻灯片和 pdf。  我想知道为什么没有人与 adobe acrobat 竞争？我真的讨厌它的一切，自从我还是个孩子试图在文档中做任何事情以来，我对它的感觉就一直是一样的，它只是将我传送到他们的订阅价格。显然我知道如何解决这个问题，但我很好奇是否有替代方案？市场上还有普通消费者不知道的东西吗？    由   提交 /u/Equivalent-Papaya591   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qc9q0k/adobe_acrobat_is_bad/</guid>
-      <pubDate>Wed, 14 Jan 2026 01:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助查找适合我的电脑的闹钟</title>
-      <link>https://www.reddit.com/r/software/comments/1qc25nb/need_help_finding_an_alarm_for_my_pc/</link>
-      <description><![CDATA[大家好，如果你们愿意帮助我，我需要一些帮助。 坦白说，我没有对此进行太多研究，但是谷歌的搜索引擎在过去十年中变得多么糟糕，我真的无法相信它的结果，因此......我在这里！ 我是一个睡得很沉的人，我无法通过纯粹的意志醒来，我身边的每个人直系亲属告诉我简单地通电并醒来，但似乎我根本无法做到这一点。 因此，问题：是否有人推荐一款闹钟，声音太大或令人讨厌，以至于它会迫使我醒来？ 我希望你们中的一些人可能有答案。 我应该补充一点，这将是标题中所述的计算机程序，因为我的手机要么声音不够大，要么只是决定不播放闹钟无论出于何种原因，都可以。 提前感谢您提供的任何帮助，祝您有美好的一天。 -Matts   由   提交/u/MatejaG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qc25nb/need_help_finding_an_alarm_for_my_pc/</guid>
-      <pubDate>Tue, 13 Jan 2026 20:20:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>人力资源信息系统问题</title>
-      <link>https://www.reddit.com/r/software/comments/1qc0kt8/hris_questions/</link>
-      <description><![CDATA[大家好 - 寻求人力资源和薪资专业人员的真实反馈。 我们是一家约 200 名员工的公司，完全遍布美国的多州，并且计划取代我们当前的 HRIS + 薪资提供商。这将是单阶段实施，而不是交错实施。 我们的首要任务是：  工资准确性和准确性。可靠性（多州税收、备案、扣押） 核心人力资源（员工记录、组织结构、报告） ACA 合规 OSHA/基本安全跟踪 强大员工和安全经理自助服务  必备功能（但次要）：  ATS / 入职 绩效管理 分析和管理仪表板  我们一直在研究以下平台：  Workday UKG Paylocity / Paycor BambooHR HiBob Zoho People Gusto  我特别感兴趣的是：  在这种规模下，哪些系统对工资单最可靠 任何“希望我们早点知道这一点”反馈 您离开的供应商（以及原因） 在出现问题时提供质量支持  不寻求推销 - 只是诚实的体验。 提前致谢🙏   由   提交 /u/TheRecruiter12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qc0kt8/hris_questions/</guid>
-      <pubDate>Tue, 13 Jan 2026 19:23:11 GMT</pubDate>
+      <title>Kie.ai (Kei API) 的最佳开源/自托管替代方案是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1qckafa/what_are_the_best_opensourceselfhosted/</link>
+      <description><![CDATA[我目前的使命是“去 SaaS”我的生活。我已经放弃了 Adob​​e 套件，转而使用 GIMP/Inkscape，并放弃了 Google Docs，转而使用 LibreOffice。我的下一个障碍是我的开发工作流程。 我一直在使用 Kie.ai (Kei API) 在同一个屋檐下访问不同的模型（LLM、图像生成等），但基于信用的定价开始增加，而且我不太喜欢通过中间商聚合器发送所有数据。 我正在寻找一个可靠的开源或自托管替代方案，我可以“自带密钥”或者，更好的是，在本地运行模型。 到目前为止，我已经研究过：  LibreChat（对于 UI 来说看起来很有希望） Ollama（对于本地法学硕士）  但是我正在努力寻找像统一 API 一样顺利处理多模式内容（视频/图像生成）的东西。你们这些天都在使用什么东西，感觉真的很“精致”？不仅仅是一个简陋的 CLI 工具？ 正在寻找 2026 年不会破坏我的隐私（或我的银行帐户）的东西。谢谢！   由   提交 /u/NeedleworkerMulated673   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qckafa/what_are_the_best_opensourceselfhosted/</guid>
+      <pubDate>Wed, 14 Jan 2026 10:52:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
