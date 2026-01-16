@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 16 Jan 2026 04:00:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 06:19:30 GMT</lastBuildDate>
     <item>
       <title>我制作了一个视频客户端，可以根据您的 YouTube 订阅为您提供推荐（MIT 许可证）</title>
       <link>https://www.reddit.com/r/opensource/comments/1qe3nnt/i_made_a_video_client_that_gives_you/</link>
@@ -62,13 +62,6 @@
       <pubDate>Thu, 15 Jan 2026 18:16:14 GMT</pubDate>
     </item>
     <item>
-      <title>开源是您能为您的项目做的最好的事情</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qdqmrj/opensourcing_is_the_best_what_you_can_do_for_your/</link>
-      <description><![CDATA[最近，我构建了 Github 个人资料可视化工具（粘贴个人资料链接 =&gt; 在几秒钟内获取您的可共享个人资料，已构建百万次的常青宠物项目类型）并发布了关于 它在reddit上。获得了一些关注（几天之内从 0 星到 250+ 颗星），但也有很多评论、批评和建议。这是我能得到的最好的了！我已经做了很多修复，提供了 Reddit 用户建议的很多功能。 所以，我的信息是：不要羞于分享你的项目！ 你喜欢的项目可能是别人的灵感、有用的参考，或者只是他们真正喜欢的产品。 仓库：https://github.com/whoisyurii/checkmygit   由   提交 /u/whoisyurii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qdqmrj/opensourcing_is_the_best_what_you_can_do_for_your/</guid>
-      <pubDate>Thu, 15 Jan 2026 17:56:47 GMT</pubDate>
-    </item>
-    <item>
       <title>spdxconv：将现有许可证和版权转换为 SPDX 的程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1qdognd/spdxconv_a_program_to_convert_existing_licenses/</link>
       <description><![CDATA[最后，我刚刚完成并发布了 spdxconv v1。 spdxconv 是一个将现有许可证和版权转换为 SPDX 标识符或插入新标识符的程序。 该程序与 REUSE 软件配合使用。 功能：  REUSE 集成：从 REUSE.toml 检测注释。 可自定义默认值：设置默认许可证标识符和版权所有者。 智能注释：可自定义模式，根据文件名设置注释语法。 正则表达式提取：捕获现有内容使用正则表达式获取许可证、年份、作者和联系信息。 Git 集成：从 git 历史记录中的第一次提交自动导出版权年份。  到目前为止，它已经帮助我转换了两个项目。 如果您觉得这有用，请帮助传播。如果您有任何反馈，请在评论中告诉我。 祝您转换愉快;)   由   提交 /u/_shulhan   [link] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[好的，这可能是我构建过的最利基的开源项目。昨天，我妈妈买了一台 OpenSwim Pro（她在她的愿望清单中放置了 6 个多月），我发现她试图移动她的 624 首歌曲播放列表，方法是在 YouTube 上逐一搜索每一首曲目，将链接粘贴到随机转换器中，屏幕上出现多个随机弹出窗口，下载名为诸如 Converted_final_song_REAL_final.mp3 之类的文件，然后不健康地重复该过程。我的意思是，我很确定这里的任何人都不会像我妈妈在这种情况下所做的那样，但想分享。 你可以； 1) 链接您的设备 2) 将您的下载文件夹同步到您的设备 3) 通过 CLI 搜索 YouTube 视频 4) 下载/批量下载 YouTube 视频 5) 下载 Spotify 曲目、播放列表，无需 API 要求 https://github.com/1etu/osp-tools   由   提交 /u/etulastrada   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qdllji/osptools_a_set_of_qol_tools_for_your_openswim/</guid>
       <pubDate>Thu, 15 Jan 2026 14:53:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Veilid（隐私网络、死牛崇拜）的思考</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qdlgg3/thoughts_on_veilid_privacy_network_cult_of_the/</link>
+      <description><![CDATA[Veilid 是“应用程序的 Tor”并依赖于用户托管节点。它看起来与 Freenet 类似，这也是一个有趣的项目。 我将此作为促销，因为我认为 Veilid 很酷，但我也没有遇到很多关于它的讨论。我与它无关，我昨天在搜索隐私网络和安全聊天应用程序时发现了它。 来源：https://gitlab.com/veilid/veilid 网站：https://veilid.com/ 它是由死牛邪教编写的，这是我立即发现它很有趣的原因之一。除了 2023 年宣布时的一些故事之外，我没有看到太多关于它的新闻。不过它正在积极开发，所以它还没有消亡。 有人尝试过吗？一般想法？   由   提交 /u/NYPuppy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qdlgg3/thoughts_on_veilid_privacy_network_cult_of_the/</guid>
+      <pubDate>Thu, 15 Jan 2026 14:47:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
