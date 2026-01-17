@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 17 Jan 2026 03:51:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 06:16:40 GMT</lastBuildDate>
+    <item>
+      <title>克洛多</title>
+      <link>https://www.producthunt.com/products/clodo</link>
+      <description><![CDATA[
+            以思考的速度执行出站。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clodo</guid>
+      <pubDate>Fri, 16 Jan 2026 06:29:23 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 Mac 的 Boom 视频</title>
       <link>https://www.producthunt.com/products/boom-6</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/boom-6</guid>
       <pubDate>Fri, 16 Jan 2026 05:12:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>鸭子交换钥匙</title>
-      <link>https://www.producthunt.com/products/duckeebs-swapkey</link>
-      <description><![CDATA[
-            预览您的键帽 + 键盘组合
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/duckeebs-swapkey</guid>
-      <pubDate>Fri, 16 Jan 2026 04:47:12 GMT</pubDate>
     </item>
     <item>
       <title>动态内容 by beehiiv</title>
@@ -60,20 +60,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/localmark-studio</guid>
       <pubDate>Fri, 16 Jan 2026 02:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>飞行追随者</title>
-      <link>https://www.producthunt.com/products/flight-follower</link>
-      <description><![CDATA[
-            为航空爱好者提供无广告的航班跟踪
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/flight-follower</guid>
-      <pubDate>Fri, 16 Jan 2026 00:31:05 GMT</pubDate>
     </item>
     <item>
       <title>剥离</title>
@@ -144,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/cursor-ai-for-figma</guid>
       <pubDate>Thu, 15 Jan 2026 19:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>翻译Gemma</title>
+      <link>https://www.producthunt.com/products/translategemma</link>
+      <description><![CDATA[
+            Google 机型开放翻译，支持 55 种语言
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/translategemma</guid>
+      <pubDate>Thu, 15 Jan 2026 18:22:03 GMT</pubDate>
     </item>
     <item>
       <title>亚行扳手</title>
