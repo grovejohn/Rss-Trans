@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 16 Jan 2026 21:13:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 00:48:05 GMT</lastBuildDate>
+    <item>
+      <title>工作中如何安全使用业余项目？ （没有自我推销）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qexksk/how_to_safely_use_side_project_at_work_no_self/</link>
+      <description><![CDATA[我是一名前端开发人员，但我们的团队很小，而且我们都身兼数职。我不会透露它是什么或任何其他内容，以免给人留下隐藏促销的印象。 问题是这个工具需要与其他工程师协调，因为它不是一个只对我的工作有帮助的工具，所以我不能只是默默地使用它。 有没有一种安全/合法的方式来使用你在自己的工作中拥有业务的付费工具，而不会造成利益冲突或其他什么？    由   提交 /u/NotTJButCJ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qexksk/how_to_safely_use_side_project_at_work_no_self/</guid>
+      <pubDate>Sat, 17 Jan 2026 00:27:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我讨厌我目前的工作任务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qexk6z/i_hate_my_current_work_assignment/</link>
+      <description><![CDATA[这主要是咆哮。  我是一名全栈 Web 开发人员，但我的主要技能实际上是我非常喜欢的 C#。我之所以能从事当前的工作，是因为我有使用 C#、WPF 和 Blazor 的经验。  过去两年，我的雇主发生了一些重大变动。该公司已被出售两次，我们失去了几位关键开发人员，但没有更换他们。  好吧，我的团队从该团队继承了一个应用程序，因为他们忙于工作（在开发人员离开之前），而我的团队的产品已经进入了维护模式。这个继承的应用程序的前端是用 Vue 3 编写的，这并不糟糕，但我不太擅长，也不喜欢写那么多。此外，我上面的人决定我们应该进行完整的 UI 重写，以彻底改变应用程序对用户的工作方式。从理论上讲，它更直观，但我们无法更改任何底层数据库模型，因此它已成为一个难以理解的怪物。  我制作一张 3 点门票已经一个多星期了，但仍然感觉还没有完成。我尝试过寻求帮助和结对编程，但与其他工程师的每一次对话都让我感到更加困惑，并且距离完成还很遥远。  我非常讨厌从事这个项目。甚至编码它都需要大量的精神能量，因为我的大脑就是不想这样做。我什至无法通过 AI 氛围代码胡说八道，因为我必须编写 3000 字的提示来解释正在发生的事情，而代理仍然不知道发生了什么。  我在上次的一对一谈话中告诉我的经理，我真的不喜欢这个项目，虽然他很理解，但基本上说“该项目仍然需要完成”。  说我想因为这样的事情而辞职，这感觉很愚蠢和夸张，但这确实让我最近的工作日子变得有点糟糕。我只是坐在那里读了又读同样的 15 个类和组件，感觉很愚蠢。我不知道这是多动症还是什么，但是当我不喜欢做某件事时，强迫自己去做是非常困难的。  团队太小了，我无法真正将门票交给其他人，而且也没有任何我可以切换的团队。  当我休息一下并发现奇怪的错误或为应用程序获取一个小功能时，我最初被雇用的原因是一切都感觉更好。我觉得自己能够解决问题并取得进步，并且能够真正有效。只是这个愚蠢的 UI 重写快要了我的命。  有人遇到过这样的情况吗？我该如何度过这个难关？   由   提交 /u/arc_menace   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qexk6z/i_hate_my_current_work_assignment/</guid>
+      <pubDate>Sat, 17 Jan 2026 00:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年 jQuery 仍然流行吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qewmy6/is_jquery_still_a_thing_in_2026/</link>
+      <description><![CDATA[刚刚发现他们在两年前宣布了 v4 的测试版，但似乎从未见过曙光。   由   提交/u/alexrada  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qewmy6/is_jquery_still_a_thing_in_2026/</guid>
+      <pubDate>Fri, 16 Jan 2026 23:53:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否会故意让一个有拼写错误/错误的网站启动？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qewm7d/would_you_ever_knowingly_let_a_site_with/</link>
+      <description><![CDATA[大家好！因此，几个月前，我的老板聘请了一家当地的网络开发/数字营销机构来改造我们的公司网站。我觉得我需要进行现实检查，看看我是否有不切实际的期望。  让我先说我只是一个业余开发者&amp;没有接受过任何正式培训/完全自学。我完全意识到，关于准备启动网站，可能有很多事情我不知道。话虽如此，让我向您简要介绍一下：我们当前的网站使用 Wix。我们聘请的这家机构想要迁移到 Wordpress。我对 WP &amp; 没有任何疑虑。发现它比 Wix 更有用、更可定制。但后来我注意到……该机构投资组合中的所有网站看起来都非常相似。嗯，我想那很好，它仍然比我们当前的网站更上一层楼。本周，我的老板将他们发送给我的测试版网站的链接转发给我。 （作为时间框架参考，我们在 9 月份雇用了他们。）我已经发送了主页的一些副本，在查看该网站时，他们似乎已经通过 chatGPT 式的程序运行了它，并偶尔复制粘贴的简介。该网站的其余部分完全是从我们当前网站复制粘贴的。我们聘请他们不是为了文案写作，所以我就放弃了。图我可以稍后编辑内容，而不必处理站点设置等。然后我意识到有一些文本部分引用了某个页面或表单或链接......并且引用的项目根本不存在于新站点上。我完全理解不更改内容中的实际信息，但他们根本就懒得阅读吗？我感觉我正在浏览一个由非内容感知机器人或其他东西创建的网站模板。还有大量的拼写错误/语法错误、无效链接、不准确的页面标题和不匹配的按钮名称。这个测试版网站链接还用诸如“如果没有进一步的更改，请告诉我，我们可以在发布前的时间表上得到它”之类的语言发送，所以我没有感觉到这是一个“试探”检查，以了解我们是否喜欢它。我觉得这不值得四个月的工作，我是不是疯了？从我能找到的内容来看，该机构基本上有完美的评论，但我对这次经历的品味很差…… 非常感谢任何反馈或评论！ TIA :)    由   提交/u/spookygoth69  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qewm7d/would_you_ever_knowingly_let_a_site_with/</guid>
+      <pubDate>Fri, 16 Jan 2026 23:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是骗局吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qewh3f/is_this_scam/</link>
+      <description><![CDATA[我不记得最近申请过任何工作。 这是骗局吗？人们通常如何联系客户？   由   提交/u/Lord_Home  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qewh3f/is_this_scam/</guid>
+      <pubDate>Fri, 16 Jan 2026 23:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>玉米球帖子：寻找开发朋友哈哈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qew3nt/cornball_post_looking_for_devfriends_lol/</link>
+      <description><![CDATA[大家好 :) 美国 28 楼。寻找与我的时区 (EST) 更接近的人来聊聊我们正在做的事情、学习的内容等。理想的情况是那些也希望进入技术领域并发送申请的人。独自经历磨难很好，但如果有一个小社区，那就更好了✨ 私信不和谐的名字！我会启动一个不和谐服务器，但它们往往总是死掉，哈哈，所以    由   提交 /u/gutsngodhand   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qew3nt/cornball_post_looking_for_devfriends_lol/</guid>
+      <pubDate>Fri, 16 Jan 2026 23:34:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ripple - 一种 TypeScript UI 框架，将 React、Solid 和 Svelte 的最佳部分组合到一个包中（目前处于早期开发阶段）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qet6y2/ripple_a_typescript_ui_framework_that_combines/</link>
+      <description><![CDATA[ 由   提交/u/magenta_placenta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qet6y2/ripple_a_typescript_ui_framework_that_combines/</guid>
+      <pubDate>Fri, 16 Jan 2026 21:44:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何摆脱对被人工智能贬值或取代的持续恐惧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qesxyd/how_to_shake_off_constant_fear_of_being/</link>
+      <description><![CDATA[我知道这不健康。但我就是无法阻止自己滚动和阅读信息，看看人工智能是否会取代像我这样的 1YOE 前端初级人员……我是否会在 5 年后找到工作……我的学位和努力是否值得…… 我只是不停地滚动和阅读信息，因为我觉得如果我错过任何新闻，我就会被抛在后面，正如我到处阅读的那样（最好的会蓬勃发展，平均水平将被取代） 如何 can I find peace of mind in this time?    由   提交 /u/alexbessedonato   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qesxyd/how_to_shake_off_constant_fear_of_being/</guid>
+      <pubDate>Fri, 16 Jan 2026 21:34:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>域名注册：Namecheap 还是 Cloudflare？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qesmpf/domain_registration_namecheap_or_cloudflare/</link>
+      <description><![CDATA[我拥有 .com 域名大约 20 年了。我通常会坚持使用注册商很多年，直到他们的续订价格很高，然后我就会更换。我正在考虑从 namecheap（一年要价 18.48 美元）到 cloudflare（要价 10.46 美元）。 我不做网络托管或其他服务，只做注册商和 whois 隐私。想法？   由   提交/u/nebirah   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qesmpf/domain_registration_namecheap_or_cloudflare/</guid>
+      <pubDate>Fri, 16 Jan 2026 21:22:29 GMT</pubDate>
+    </item>
     <item>
       <title>我应该购买包含商标缩写词的域名吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1qeryp9/should_i_buy_a_domain_that_contains_a_trademarked/</link>
@@ -22,14 +85,14 @@
     <item>
       <title>如何从健身房网站获取联系数据？</title>
       <link>https://www.reddit.com/r/webdev/comments/1qerghb/how_can_i_get_contact_data_from_a_gym_website/</link>
-      <description><![CDATA[我想要一个人的联系方式，我有名字、姓氏，但我想要电话号码......我如何从我们去的健身房获得它？    由   提交/u/Future_Ad_8956  [链接] [评论]]]></description>
+      <description><![CDATA[我想要一个人的联系方式，我有名字、姓氏，但我想要电话号码……我怎样才能从我们去的健身房得到它？    由   提交/u/Future_Ad_8956  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qerghb/how_can_i_get_contact_data_from_a_gym_website/</guid>
       <pubDate>Fri, 16 Jan 2026 20:37:25 GMT</pubDate>
     </item>
     <item>
       <title>Cloudflare 刚刚购买了一个 Web 框架。这就是为什么这改变了一切。</title>
       <link>https://www.reddit.com/r/webdev/comments/1qeqx83/cloudflare_just_bought_a_web_framework_heres_why/</link>
-      <description><![CDATA[收购 Astro 标志着平台之战进入了一个新阶段——开发者应该注意。   由   提交 /u/jpcaparas   [链接] [评论]]]></description>
+      <description><![CDATA[收购 Astro 标志着平台之战进入了新阶段，开发者应该予以关注。   由   提交 /u/jpcaparas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qeqx83/cloudflare_just_bought_a_web_framework_heres_why/</guid>
       <pubDate>Fri, 16 Jan 2026 20:16:37 GMT</pubDate>
     </item>
@@ -46,69 +109,6 @@
       <description><![CDATA[      这是关于出售性质的罕见诚实： “在此过程中，我们还尝试发展业务。 2021 年，我们筹集了一些资金并成立了 Astro 科技公司。我们更大的愿景是像 Astro 这样设计良好的框架可以成为大型开发人员平台的中心，并提供与框架同步设计的可选托管原语（数据库、存储、分析）。” “我们从未能够实现这一愿景。将付费托管原语引入我们的生态系统的尝试失败了，并且很少证明其自身存在的合理性”   由   提交/u/thehashimwarren  [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qeqoxq/astro_joins_cloudflare/</guid>
       <pubDate>Fri, 16 Jan 2026 20:07:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 AI 用户构建了一个自动化的 Web 应用程序安全扫描仪</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qeph80/i_built_an_automated_webapp_security_scanner_for/</link>
-      <description><![CDATA[      我是一名安全工程师并开始尝试去年夏天使用人工智能工具。在注意到人工智能工具的使用量大幅增加以及毫不奇怪的漏洞后，我决定构建一个自动扫描仪。虽然它适用于标准网络应用程序，但它是专门为使用光标、lovely、replit、bolt 等工具构建的应用程序而设计的。 很想听听您的反馈！我们仅运行了 500 次扫描 - Vibe App Scanner  https://preview.redd.it/6v50hd1whrdg1.png?width=2500&amp;format=png&amp;auto=webp&amp;s=396320c7f20c475c4c42bcd80c57c77eb64ce041   由   提交 /u/Think_Army4302   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qeph80/i_built_an_automated_webapp_security_scanner_for/</guid>
-      <pubDate>Fri, 16 Jan 2026 19:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人觉得 Cursor 的“自动”模式质量下降了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qeogxu/anyone_else_feel_cursors_auto_mode_quality_has/</link>
-      <description><![CDATA[r/cursor 中的自动模式质量最近明显变差，不是吗？对于稍微复杂的事情，我几乎被迫选择像 Opus 这样的高级模型，以确保它能够在第一次使用时正常工作。 这让我想起了 Uber/出租车应用程序模式 - 更便宜的选择技术上是存在的，但你要等很久，所以你最终会乘坐 2-5 分钟内神奇到达的高级出租车。 让我想起几个月前我在泰国时，我使用 Grab，但不可能很快找到最便宜的出租车 - 我不得不等待 30 分钟才能找到一辆。他们留给每个人的唯一选择是乘坐高级出租车，神奇地在 2 - 3 分钟内到达！ 感觉这里正在发生类似的事情。 背景 - 在过去的几个月里，我在 baloon.dev 上进行了很多迭代，需要快速、有效、可扩展的更改。 Auto 只是不断丢失或给出半生不熟的结果，而 Opus 工作正常。 不是抱怨，只是好奇 - 还有其他人看到这个吗？或者这只是他们这边的临时调整？ 一旦我完成了无尽的冲刺，我很可能会选择并尝试反重力。    由   提交 /u/KeyProject2897   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qeogxu/anyone_else_feel_cursors_auto_mode_quality_has/</guid>
-      <pubDate>Fri, 16 Jan 2026 18:45:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>NetOps 可视化工具 + mapcn</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qem2vk/netops_visualizer_mapcn/</link>
-      <description><![CDATA[      我这样做是为了可视化我的网络连接。转到后端，Vite 前端。 Docker 支持。 https://github.com/craigderington/netops 请在评论中告诉我您的想法。谢谢！    由   提交/u/ihackportals  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qem2vk/netops_visualizer_mapcn/</guid>
-      <pubDate>Fri, 16 Jan 2026 17:20:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI网页设计，有没有一款实用的网页设计工具好用？ （抱歉人工智能问题）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qem108/ai_web_design_is_there_an_actual_web_design_tool/</link>
-      <description><![CDATA[有人使用专门用于设计的 AI 网页设计工具吗？有人觉得它们有什么好处吗？  这些人工智能网络构建器引入了某种设计元素，但从我所看到的非常基本和简单的水平来看。  有哪些公司真正把人工智能设计部分做得很好？ （我并不是说像 Relume 这样的公司不为 AI Web 结构进行 AI Web 设计）   由   提交/u/JacobDilley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qem108/ai_web_design_is_there_an_actual_web_design_tool/</guid>
-      <pubDate>Fri, 16 Jan 2026 17:18:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚将 kube 的液体玻璃演示移植到纯 HTML/CSS/JS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qelmt6/i_just_ported_kubes_liquid_glass_demo_to_pure/</link>
-      <description><![CDATA[https://winaviation.github.io/liquid-glass-demo 大家可以在这里查看源代码：https://github.com/winaviation/liquid-glass-demo 归功于 kube / u/kubekhrm 的 原始液体玻璃演示   由   提交 /u/WinsAviation   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qelmt6/i_just_ported_kubes_liquid_glass_demo_to_pure/</guid>
-      <pubDate>Fri, 16 Jan 2026 17:04:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>恢复反馈请求（我会回报）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qelgsg/resume_feedback_request_ill_return_the_favor/</link>
-      <description><![CDATA[      我正在寻找类似的角色这些  设计工程角色@ Google 前端工程 全栈工程  位于中西部，但当然愿意远程工作   由   提交 /u/staycassiopeia   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qelgsg/resume_feedback_request_ill_return_the_favor/</guid>
-      <pubDate>Fri, 16 Jan 2026 16:58:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>你修好了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qeldlx/ai_remedies/</link>
-      <description><![CDATA[我经营一个小型但我喜欢认为高质量的网站。所有内容都是我自己的，与AI完全没有任何联系。和许多人一样，我也忍受过大量的抓取机器人，但现在人工智能抓取工具使用我的东西作为“训练数据”，我决定受够了。 我的计划是在每个页面的末尾添加几段（动态）文本，白色背景上的白色文本。有没有人有一个简单的 PHP 脚本可以生成一些 ~~废话~~ 可疑但合理的内容？讽刺的是，我向 ChatGPT 寻求帮助，但它拒绝了！ 欢迎任何想法！   由   提交 /u/snakeoildriller   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qeldlx/ai_remedies/</guid>
-      <pubDate>Fri, 16 Jan 2026 16:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找那些愤怒地退出 CMS 设置的开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qekaxd/looking_for_devs_whove_ragequit_cms_setups/</link>
-      <description><![CDATA[致力于消除无头 CMS 入门中的本地设置摩擦。正在寻找符合以下条件的开发人员： - 注册了无头 CMS，但从未完成设置 - 对 CLI/本地开发要求感到沮丧 - 在查看 CMS 是否良好之前就放弃了 15 分钟通话，没有推销，只是想了解出了什么问题。如果有兴趣，请私信我或发表评论。    由   提交/u/jeangilles78  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qekaxd/looking_for_devs_whove_ragequit_cms_setups/</guid>
-      <pubDate>Fri, 16 Jan 2026 16:16:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了手镯 3D 模型工具，您可以在其中看到手镯的实际尺寸以及是否适合您的手</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qeir1e/i_made_3d_model_tool_for_bangles_where_you_can/</link>
-      <description><![CDATA[如果人们不知道现场的手镯尺寸是多少，他们可以使用此工具直观地获得尺寸。 这可能看起来很奇怪，但我在这里寻求反馈。我正在尝试让我们看看。 欢迎任何建议   由   提交/u/gemsmakers  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qeir1e/i_made_3d_model_tool_for_bangles_where_you_can/</guid>
-      <pubDate>Fri, 16 Jan 2026 15:19:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
