@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 17 Jan 2026 18:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 21:10:34 GMT</lastBuildDate>
+    <item>
+      <title>构建与提供商无关的编码代理</title>
+      <link>https://www.reddit.com/r/programming/comments/1qfnk7n/building_a_provideragnostic_coding_agent/</link>
+      <description><![CDATA[ 由   提交/u/Helpful_Geographer430   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qfnk7n/building_a_provideragnostic_coding_agent/</guid>
+      <pubDate>Sat, 17 Jan 2026 20:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 Rust 和 WebAssembly 在 Freenet 上构建去中心化 Web 应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1qflgvq/how_to_build_decentralized_web_apps_on_freenet/</link>
+      <description><![CDATA[ 由   提交/u/sanity  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qflgvq/how_to_build_decentralized_web_apps_on_freenet/</guid>
+      <pubDate>Sat, 17 Jan 2026 18:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 Rust 设计列式数据库：有关 io_uring、SIMD 的课程以及我避免使用 Async/Await 的原因</title>
+      <link>https://www.reddit.com/r/programming/comments/1qfkijn/engineering_a_columnar_database_in_rust_lessons/</link>
+      <description><![CDATA[我最近发布了 Frigatebird 的核心引擎，这是一个从头开始构建的 OLAP（列式）数据库。在构建它的过程中，我做出了一些违反“标准”的架构决策。 Rust 网络/系统路径。我想分享这些选择的基本原理和性能影响。 1.为什么我放弃 Async/Await 而选择自定义运行时 Rust 中的标准建议是“只使用 Tokio”。然而，通用异步运行时主要是为具有许多空闲连接的 IO 绑定任务而设计的。在数据库执行管道中，任务通常占用大量 CPU（扫描/过滤压缩页面）。 我发现将大量计算与标准异步执行器混合会导致不可预测的调度延迟。相反，我实现了一个Morsel-Driven Parallelism模型（受到DuckDB/Hyper的启发）：  查询被分解为“morsels”。 （固定大小的行组）。 工作线程使用无锁工作窃取，而不是中央调度程序。 查询作业保存一个 AtomicUsize 计数器。线程竞相增加它（CAS），有效地“声明”线程。管道的下一步。 这可以保持 CPU 核心固定并最大化指令缓存局部性，因为线程倾向于坚持特定的逻辑循环（扫描与过滤）。  2.批处理 io_uring 与标准系统调用 对于 WAL（预写日志），fsync 延迟是杀手。我构建了一个自定义存储引擎（“Walrus”）来利用 Linux 的 io_uring。  编写者不是逐个发出 pwrite 系统调用，而是在用户空间中构造了一个包含约 2,000 个条目的提交队列。 它发出一个 Submit_and_wait 系统调用来刷新所有条目。 这显着减少了上下文切换开销，使引擎达到饱和。单线程上的 NVMe 带宽。  3. “自旋锁”分配器这是风险最大的决定。标准操作系统互斥体 (pthread_mutex) 使线程进入睡眠状态，耗费微秒。  对于磁盘块分配器，我实现了自定义 AtomicBool 自旋锁。 它在紧密循环 (std::hint::spin_loop()) 中旋转纳秒。 权衡：如果操作系统抢占持有锁的线程，系统停顿。但由于关键部分只是简单的整数数学（计算偏移量），因此它的执行速度比操作系统调度程序量子更快，这使得它在统计上安全且速度极快。  4。零拷贝序列化我使用rkyv而不是serde。 Serde 很棒，但它通常涉及反序列化步骤（将字节解析为结构）。 rkyv 保证内存中的表示与磁盘上的表示相同，只需在原始缓冲区上投射指针即可实现真正的零复制访问。 我很好奇这里的其他人是否在 CPU 限制的上下文中与 Tokio 遇到了类似的问题，或者我只是未能正确调整它？   由   提交/u/Ok_Marionberry8922   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qfkijn/engineering_a_columnar_database_in_rust_lessons/</guid>
+      <pubDate>Sat, 17 Jan 2026 18:16:44 GMT</pubDate>
+    </item>
     <item>
       <title>初级开发者的消失：2026年如何开启职业生涯</title>
       <link>https://www.reddit.com/r/programming/comments/1qfjtn2/the_disappearance_of_the_junior_developer_how_to/</link>
@@ -62,13 +83,6 @@
       <pubDate>Sat, 17 Jan 2026 14:49:29 GMT</pubDate>
     </item>
     <item>
-      <title>用于游戏手柄、键盘和鼠标的可视化宏编辑器，具有实时播放功能 (C# WinForms)</title>
-      <link>https://www.reddit.com/r/programming/comments/1qff351/visual_macro_editor_for_gamepad_keyboard_and/</link>
-      <description><![CDATA[宏编辑器和宏编辑器用于游戏手柄、键盘和鼠标的输入自动化工具（WinForms / C#）演示视频：👉 https://youtu.be/P500Fhj6Or4?si=iKxlfgADJC54rKNo 我开发了一个面向 Windows 的轻量级应用程序，适合需要的游戏玩家和高级用户使用控制器、键盘和鼠标记录、编辑和播放复杂的宏，特别注重时间精度和视觉控制。 ✨ 主要功能 🎥 准确的输入记录：游戏手柄（通过 DS4 的 XInput / DualShock） 键盘鼠标（移动和点击） 自动捕获事件之间的实时时间 🧠 高级可视化编辑器：带显卡的事件列表 毫秒内联编辑（压力和中性时间） 重新排序、插入和删除事件 所有者绘制视图，每个按钮/键都有图标 ▶️ 精确再现：尊重原始记录时间 支持按键覆盖和组合 安全取消和释放输入 🔁 HOLD 模式：按住按钮时自动重复宏 🎯 直接分配：将宏链接到控制器或键盘上的物理按钮 支持多个配置文件 🖥 重叠 HUD：播放过程中实时视觉反馈 活动击键动画 💾 持久性：以 JSON 格式保存和加载 从日志剪贴板导入 ⌨️ 全局快捷键：录制/停止/播放，无需更改窗口 🎨 现代界面：深色主题 动画按钮 自定义滚动条 可调节不透明度 始终可见的窗口（最顶部） 🛠 C# / .NET 技术 WinForms 所有者绘制 UI SendInput / 虚拟游戏手柄 模块化架构（记录器/播放器/编辑器/绑定） 🎯 用例 格斗游戏（组合框架完美） 重复任务自动化 输入测试 Speedruns 辅助功能控制原型   由   提交  [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qff351/visual_macro_editor_for_gamepad_keyboard_and/</guid>
-      <pubDate>Sat, 17 Jan 2026 14:49:14 GMT</pubDate>
-    </item>
-    <item>
       <title>CMake 的演变：C++ 构建可移植性的 25 年 - Bill Hoffman - CppCon 2025</title>
       <link>https://www.reddit.com/r/programming/comments/1qfck14/the_evolution_of_cmake_25_years_of_c_build/</link>
       <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ArtisticProgrammer11  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qfas28/should_we_revisit_extreme_programming_in_the_age/</guid>
       <pubDate>Sat, 17 Jan 2026 11:21:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用三种 AI 工具将代码质量提高 10 倍</title>
-      <link>https://www.reddit.com/r/programming/comments/1qf74ws/how_to_10x_your_code_quality_with_three_ai_tools/</link>
-      <description><![CDATA[ 由   提交/u/pepincho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qf74ws/how_to_10x_your_code_quality_with_three_ai_tools/</guid>
-      <pubDate>Sat, 17 Jan 2026 07:40:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Django 中日志注入错误的三个安全编码教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1qeyuja/three_secure_coding_lessons_from_a_log_injection/</link>
-      <description><![CDATA[ 由   提交 /u/pi3ch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qeyuja/three_secure_coding_lessons_from_a_log_injection/</guid>
-      <pubDate>Sat, 17 Jan 2026 01:14:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

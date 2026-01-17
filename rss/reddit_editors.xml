@@ -4,11 +4,11 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 17 Jan 2026 18:15:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Jan 2026 21:10:12 GMT</lastBuildDate>
     <item>
       <title>具有自定义帧速率等功能的时间码计算器</title>
       <link>https://www.reddit.com/r/editors/comments/1qfjydl/timecode_calculator_with_custom_frame_rates_and/</link>
-      <description><![CDATA[大家好， 我为我需要的特定工作流程（Apple 耳机的高帧速率）制作了一个时间码计算器。 我将免费向任何需要它的人发布它。 您可以在这里尝试：https://tc-calc.com 我为什么构建它/它有何不同：  NLE 复制和复制粘贴：您不必手动输入数字。您可以直接从 Premiere Pro、DaVinci Resolve 或 Avid 复制时间码，将其粘贴到框中，然后它会自动设置格式以进行计算。 “片尾分割器”：这是后期编辑人员的特定功能。您可以输入总持续时间（例如 40 秒）并将其除以多个名称（例如 12 张卡片），以准确查看每张卡片应在屏幕上显示的时间（直至帧）。 自定义帧速率：它不仅仅锁定为 24/25/30。我添加了对高帧速率（50、60）的支持以及针对怪异游戏/VR 帧速率的自定义输入。 它处理丢帧数学：不再有“偏离 2 帧”的情况了。计算 29.97 DF 程序长度时出错。  它完全在您的浏览器中运行（无需下载）。 我正在寻找社区的反馈。如果您发现任何错误或有功能请求，请填写反馈表或在下面发布。我还没有实施广告，但将来可能会实施。感谢您的阅读，希望它能为您节省一些时间！ 干杯。   由   提交 /u/Intelligent_Army8359   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我为我需要的特定工作流程（Apple 耳机的高帧速率）制作了一个时间码计算器。 我将免费向任何需要它的人发布它。 您可以在这里尝试： 此处 为什么我构建它/是什么让它与众不同：  NLE 复制和复制粘贴：您不必手动输入数字。您可以直接从 Premiere Pro、DaVinci Resolve 或 Avid 复制时间码，将其粘贴到框中，然后它会自动设置格式以进行计算。 “片尾分割器”：这是后期编辑人员的特定功能。您可以输入总持续时间（例如 40 秒）并将其除以多个名称（例如 12 张卡片），以准确查看每张卡片应在屏幕上显示的时间（直至帧）。 自定义帧速率：它不仅仅锁定为 24/25/30。我添加了对高帧速率（50、60）的支持以及针对怪异游戏/VR 帧速率的自定义输入。 它处理丢帧数学：不再有“偏离 2 帧”的情况了。计算 29.97 DF 程序长度时出错。  它完全在您的浏览器中运行（无需下载）。 我正在寻找社区的反馈。如果您发现任何错误或有功能请求，请填写反馈表或在下面发布。我还没有实施广告，但将来可能会实施。感谢您的阅读，希望它能为您节省一些时间！ 干杯。   由   提交 /u/Intelligent_Army8359   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1qfjydl/timecode_calculator_with_custom_frame_rates_and/</guid>
       <pubDate>Sat, 17 Jan 2026 17:56:04 GMT</pubDate>
     </item>
