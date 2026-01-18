@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 18 Jan 2026 18:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jan 2026 21:10:55 GMT</lastBuildDate>
+    <item>
+      <title>对餐厅菜单的关系模式进行健全性检查（Postgres / Supabase）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qgjz8e/sanity_check_on_a_relational_schema_for/</link>
+      <description><![CDATA[大家好。 我正在为餐厅菜单设计一个关系模式，我想要进行完整性检查，主要是反馈或任何我不考虑的内容，因为我没有建模数据库的经验。 这是一个早期项目，但我想避免以后会造成伤害的结构性错误。 我的用例简化了：  每个商家可以有多个菜单（现在就使用 1 个） 一个菜单属于一个商家 菜单的结构如下： menu -&gt;组 -&gt;项目  菜单项和图像是多对多的 菜单顶部有一个图库 一个图像可以与多个项目相关 一个项目可以有多个图像  Sort_order 用于控制 UI 排序 在不久的将来我需要添加过敏原/饮食信息（素食、无麸质、坚果等...）我应该如何解决这个问题？  我当前的设置/架构：  业务表 id 名称 ....  菜单表： id， business_id， 名称， updated_at created_at  menu_group 表  id menu_id name sort_order 说明 updated_at created_at  menu_item 表  id 名称 描述 徽章（素食主义者等） 价格（可以有多种尺寸/份数） group_id sort_order updated_at created_at  menu_media table  id menu_id 路径 created_at updated_at  menu_item_media_map  menu_item_id menu_media_id   我在寻找什么？  这种结构是否可以规模化？ 对于过敏原部分，我将如何解决这个问题？单独的表+连接表？ jsonB 还是我的 menu_item 表上的另一个项目？  非常感谢！   由   提交/u/tsousa123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qgjz8e/sanity_check_on_a_relational_schema_for/</guid>
+      <pubDate>Sun, 18 Jan 2026 20:51:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>合法吗？...有用还是废品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qgjusz/is_it_legit_useful_or_scrap/</link>
+      <description><![CDATA[我的室友展示了他建造的这个..它的工作原理给我留下了深刻的印象，但我不是技术人员 所以我认为这不是什么大问题 有什么建议或评论吗？ https://airesume-os.vercel.app/   由   提交 /u/Fun_Lie3860   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qgjusz/is_it_legit_useful_or_scrap/</guid>
+      <pubDate>Sun, 18 Jan 2026 20:46:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果服务器将页面的 60% 渲染为静态 html，客户端渲染 40%，这是 CSR 还是 SSR？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qgjjqp/if_a_server_renders_60_of_a_page_as_static_html/</link>
+      <description><![CDATA[会被视为哪一个   由   提交/u/daddyclappingcheeks  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qgjjqp/if_a_server_renders_60_of_a_page_as_static_html/</guid>
+      <pubDate>Sun, 18 Jan 2026 20:34:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我到底在哪里主持这个？免费托管 OSS SPA</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qghmpp/where_the_hell_do_i_host_this_free_hosting_for_an/</link>
+      <description><![CDATA[大家好， 我正在寻找开源项目的免费托管选项。无需预算，无需自定义域。 设置：用于文档的 Docusaurus，用于应用程序的 Vite + React (SPA) 该项目 (Img2Num) 目前位于 GitHub 页面上： Docusaurus 工作完美，但 SPA 不行——只有索引路由有效。 示例：  主页（有效）： https://ryan-millard.github.io/Img2Num/ 制作人员（如果用户来自主页但在重新加载或直接链接时中断，则有效）：https://ryan-millard.github.io/Img2Num/credits  这是常见的 GitHub Pages + SPA 路由问题。我不需要哈希路由器，而且我宁愿避免 hacky 404 重写。 限制：  仅限免费套餐 OSS 友好 正确的 SPA 路由（历史 API） GitHub CI/CD 是一个奖励  您在哪些平台上对此设置有过良好的体验？ （Cloudflare Pages、Netlify，还是其他平台？） 我也很好奇人们通常是将文档 + 应用程序托管在一起，还是将它们拆分到不同的服务中。 我听过很多关于 Cloudflare Pages 的好消息，但想在决定之前征求您对此事的看法。 谢谢！   由   提交 /u/readilyaching   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qghmpp/where_the_hell_do_i_host_this_free_hosting_for_an/</guid>
+      <pubDate>Sun, 18 Jan 2026 19:19:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>jQuery 4.0 发布</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qgfxx0/jquery_40_released/</link>
+      <description><![CDATA[看起来 jQuery 在 2026 年仍然很流行。   由   提交/u/DB6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qgfxx0/jquery_40_released/</guid>
+      <pubDate>Sun, 18 Jan 2026 18:17:47 GMT</pubDate>
+    </item>
     <item>
       <title>作为自由职业者，您应该使用 Cloudinary/其他 CDN 来设置客户吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1qgfqxv/as_a_freelancer_should_you_set_up_clients_with/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[   大家好， 我一直在开发调试工具，因为我厌倦了默认的“应用程序” Chrome 中的选项卡。我最大的抱怨是它不显示历史记录 - 如果脚本修改了令牌或购物车项目，然后在 100 毫秒后将其删除，除非您盯着控制台，否则您会错过它。 我刚刚使用新的更改日志/历史记录跟踪器更新了我的扩展程序（简单本地存储管理器）。 它的作用：  实时跟踪添加、修改和删除键。 显示“差异”视图（旧值与新值），这样您就可以准确地看到发生了什么变化。 适用于 localStorage、sessionStorage 和 Cookies（这通常很难调试）。  这对于调试状态快速变化的 Next/Nuxt/React 或 Angular 应用中的竞争条件有很大帮助。 它是免费的。使用。我很想知道这是否有助于您的工作流程，或者您认为标准开发工具是否缺少其他存储功能。 https://chromewebstore.google.com/detail/cnmpfamlolfgahjambofnemellgdddia   由   提交/u/nhrtrix  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qgadbt/chrome_devtools_lacks_a_history_view_for/</guid>
       <pubDate>Sun, 18 Jan 2026 14:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>WhatsApp Android 显示原始 HTML</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qg9sae/whatsapp_android_showing_raw_html/</link>
-      <description><![CDATA[      还有其他人看到这个吗？    由   提交/u/Top_Detective_7448  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qg9sae/whatsapp_android_showing_raw_html/</guid>
-      <pubDate>Sun, 18 Jan 2026 14:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试制作 Grillz 相关的网络应用程序，但它很奇怪</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qg9nw1/i_tried_to_make_grillz_related_web_app_but_it/</link>
-      <description><![CDATA[我尝试制作一个应用程序来帮助买家在购买前做出决定。但动画搞砸了。  做什么   由   提交/u/gemsmakers  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qg9nw1/i_tried_to_make_grillz_related_web_app_but_it/</guid>
-      <pubDate>Sun, 18 Jan 2026 14:15:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astro Core 维护者承诺，尽管 Cloudflare 被收购，Astro 将保持平台无关性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qg9cdl/astro_core_maintainers_promise_that_astro_will/</link>
-      <description><![CDATA[       由   提交 /u/guns4dinner   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qg9cdl/astro_core_maintainers_promise_that_astro_will/</guid>
-      <pubDate>Sun, 18 Jan 2026 14:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>React + Express/Hono 项目的最佳“现代”设置是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qg8f1b/whats_the_best_modern_setup_for_a_react/</link>
-      <description><![CDATA[我想离开 Next.js，回到优秀的 React+Express/Hono。尝试过 Tanstack Start，但该技术仍然感觉太新。 目前，我的项目是一个带有 pnpm 的简单 monorepo。目标是  轻松部署 共享类型  建议添加Turborepo，但我认为这是矫枉过正。 所以，是这样吗？是否还有其他技术需要添加到堆栈中？ 还有一个问题，是否可以通过“一键式”部署此技术，类似于 Vercel 上的 Next，并且最好免费供少量使用？   由   提交 /u/nyamuk91   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qg8f1b/whats_the_best_modern_setup_for_a_react/</guid>
-      <pubDate>Sun, 18 Jan 2026 13:21:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>坏坏振动编码器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qg8cb2/bad_bad_vibecoder/</link>
-      <description><![CDATA[我是唯一一个每当我使用 llms 进行编码时，我都会对不起作用的事情感到沮丧的人，最后发现自己浪费了太多时间，最终只能自己编写该功能。 LLM 提示的技能问题可能 我要求 Gemini 和 Grok 为我页面上的 Flex 容器制作一个自动 X 滚动2. Gemini 按预期使用了 requestAnimationFrame，但动画移动了 500 毫秒以更新一帧 Grok 更接近，但仍然错过了，使用了一堆 perf crap 和交集 api 使其性能很酷，但首先要让它工作，他在最后更新滚动，动画结束时会出现抖动  我将在第一个响应上留下链接    由   提交/u/Hzk0196  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qg8cb2/bad_bad_vibecoder/</guid>
-      <pubDate>Sun, 18 Jan 2026 13:17:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
