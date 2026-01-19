@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Sun, 18 Jan 2026 21:09:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Jan 2026 00:54:05 GMT</lastBuildDate>
+    <item>
+      <title>SaaS会在5年内消亡吗？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1qglot0/will_saas_die_within_5_years/</link>
+      <description><![CDATA[ 由   提交 /u/Professional-Buy-396   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1qglot0/will_saas_die_within_5_years/</guid>
+      <pubDate>Sun, 18 Jan 2026 22:03:48 GMT</pubDate>
+    </item>
     <item>
       <title>彭博社：“没有理由拥有”：软件股因担心新的人工智能工具而下跌</title>
       <link>https://www.reddit.com/r/GPT3/comments/1qgghhk/bloomberg_no_reasons_to_own_software_stocks_sink/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>别陷入反AI炒作，AI编码助手越来越差了？以及来自 Hacker News 的许多其他 AI 链接</title>
       <link>https://www.reddit.com/r/GPT3/comments/1qej4n8/dont_fall_into_the_antiai_hype_ai_coding/</link>
-      <description><![CDATA[大家好，我刚刚发送了 16th黑客新闻 AI 时事通讯一期，精选了黑客新闻上分享的最佳人工智能链接以及围绕它们的讨论。以下是其中一些：  不要陷入反人工智能炒作 (antirez.com) - HN 链接 人工智能编码助手变得越来越糟糕？ (ieee.org) - HN 链接 AI 是一种商业模式压力测试 (dri.es) - HN 链接 Google 删除了 AI 运行状况摘要(arstechnica.com) - HN 链接  如果您喜欢此类内容，可以在此处订阅我的新闻通讯：https://hackernewsai.com/   由   提交 /u/alexeestec   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我刚刚发送了 16th黑客新闻 AI 时事通讯一期，精选了黑客新闻上分享的最佳人工智能链接以及围绕它们的讨论。以下是其中一些：  不要陷入反人工智能炒作 (antirez.com) - HN 链接 人工智能编码助手变得越来越糟糕？ (ieee.org) - HN 链接 AI 是一种商业模式压力测试 (dri.es) - HN 链接 Google 删除了 AI 运行状况摘要(arstechnica.com) - HN 链接  如果您喜欢此类内容，可以在这里订阅我的新闻通讯：https://hackernewsai.com/   由   提交 /u/alexeestec   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1qej4n8/dont_fall_into_the_antiai_hype_ai_coding/</guid>
       <pubDate>Fri, 16 Jan 2026 15:34:02 GMT</pubDate>
     </item>
@@ -85,7 +92,7 @@
     <item>
       <title>如何开始学习任何东西。包括提示。</title>
       <link>https://www.reddit.com/r/GPT3/comments/1qdsf2w/how_to_start_learning_anything_prompt_included/</link>
-      <description><![CDATA[你好！ 这是我今年最喜欢的提示。用它来开始我对任何主题的学习。它将学习过程分解为可操作的步骤，并完成研究、总结和测试。它为您构建了一个框架。您仍然需要完成它。 提示： [SUBJECT]=要学习的主题或技能 [CURRENT_LEVEL]=起始知识水平（初级/中级/高级）[TIME_AVAILABLE]=每周可用于学习的时间 [LEARNING_STYLE]=首选学习方法（视觉/听觉/动手/阅读） [目标]=具体学习目标或目标技能水平 步骤 1：知识评估 1. 将[主题]分解为核心组件 2. 评估每个组件的复杂程度 3. 映射先决条件和依赖性 4. 识别基本概念 输出详细的技能树和学习层次结构 ~ 步骤 2：学习路径设计 1. 根据 [CURRENT_LEVEL] 创建进度里程碑 2. 以最佳学习顺序构建主题 3.估计每个主题的时间要求 4. 与 [TIME_AVAILABLE] 约束保持一致 输出带有时间框架的结构化学习路线图 ~ 步骤 3：资源管理 1. 确定与 [LEARNING_STYLE] 匹配的学习材料： - 视频课程 - 书籍/文章 - 互动练习 - 练习项目 2. 按效果对资源进行排序 3. 创建资源播放列表 输出按优先级顺序排列的综合资源列表 ~ 步骤 4：实践框架 1. 为每个主题设计练习 2. 创建真实应用场景3. 制定进度检查点 4. 构建复习间隔 输出具有间隔重复时间表的练习计划 ~ 步骤 5：进度跟踪系统 1. 定义可衡量的进度指标 2. 创建评估标准 3. 设计反馈循环 4. 建立里程碑完成指标 输出进度跟踪模板和基准 ~ 步骤 6：生成学习计划 1. 将学习分解为每日/每周任务 2. 纳入休息和复习时段 3. 添加检查点评估 4. 平衡理论与实践 输出详细学习时间表与 [TIME_AVAILABLE] 一致 确保更新第一个提示中的变量：SUBJECT、CURRENT_LEVEL、TIME_AVAILABLE、LEARNING_STYLE 和 GOAL 如果您不想手动键入每个提示，您可以运行 Agentic Workers，它将自动运行。 尽情享受！   由   提交 /u/CalendarVarious3992   [链接] [评论]]]></description>
+      <description><![CDATA[你好！ 这是我今年最喜欢的提示。用它来开始我对任何主题的学习。它将学习过程分解为可操作的步骤，并完成研究、总结和测试。它为您构建了一个框架。您仍然需要完成它。 提示： [SUBJECT]=要学习的主题或技能 [CURRENT_LEVEL]=起始知识水平（初级/中级/高级）[TIME_AVAILABLE]=每周可用于学习的时间 [LEARNING_STYLE]=首选学习方法（视觉/听觉/动手/阅读） [目标]=具体学习目标或目标技能水平 步骤 1：知识评估 1. 将[主题]分解为核心组件 2. 评估每个组件的复杂程度 3. 映射先决条件和依赖性 4. 识别基本概念 输出详细的技能树和学习层次结构 ~ 步骤 2：学习路径设计 1. 根据 [CURRENT_LEVEL] 创建进度里程碑 2. 以最佳学习顺序构建主题 3.估计每个主题的时间要求 4. 与 [TIME_AVAILABLE] 约束保持一致 输出带有时间框架的结构化学习路线图 ~ 步骤 3：资源管理 1. 确定与 [LEARNING_STYLE] 匹配的学习材料： - 视频课程 - 书籍/文章 - 互动练习 - 实践项目 2. 按有效性对资源进行排序 3. 创建资源播放列表 输出按优先级顺序排列的综合资源列表 ~ 步骤 4：实践框架 1. 为每个主题设计练习 2. 创建真实应用场景3. 制定进度检查点 4. 构建复习间隔 输出具有间隔重复时间表的练习计划 ~ 步骤 5：进度跟踪系统 1. 定义可衡量的进度指标 2. 创建评估标准 3. 设计反馈循环 4. 建立里程碑完成指标 输出进度跟踪模板和基准 ~ 步骤 6：生成学习计划 1. 将学习分解为每日/每周任务 2. 纳入休息和复习时段 3. 添加检查点评估 4. 平衡理论与实践 输出详细学习时间表与 [TIME_AVAILABLE] 一致 确保更新第一个提示中的变量：SUBJECT、CURRENT_LEVEL、TIME_AVAILABLE、LEARNING_STYLE 和 GOAL 如果您不想手动键入每个提示，您可以运行 Agentic Workers，它将自动运行。 尽情享受！   由   提交 /u/CalendarVarious3992   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1qdsf2w/how_to_start_learning_anything_prompt_included/</guid>
       <pubDate>Thu, 15 Jan 2026 19:00:29 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果您不知道， r/RooCode 是一个免费开源的 VS Code AI 编码扩展。 具有 OAuth 订阅访问权限的 OpenAI ChatGPT Plus/Pro 提供商 您现在可以使用您的 ChatGPT 订阅通过 OpenAI 官方支持的集成直接在 Roo Code 中。没有解决方法，没有灰色地带。它可以完全访问您对真实 API 调用的订阅，使用包括 GPT-5.2 Codex 在内的顶级模型，全部以固定价格进行。 只需在提供商设置中选择 OpenAI - ChatGPT Plus/Pro！ OpenAI（本机）的 GPT-5.2-Codex 模型选项 将 GPT-5.2-Codex 模型添加到 OpenAI（本机）提供商，以便您可以选择具有扩展上下文窗口和推理工作控制的编码优化模型。 错误修复  Gemini 会话在提供程序切换后不再失败：解决了流式传输错误，其中在任务中切换模型时，LiteLLM Gemini 工具调用可能因损坏的思想签名而失败。 长时间的终端运行不再降低内存：修复了大型命令输出时的内存泄漏完成后缓冲区可能会继续增长，导致长时间会话期间出现灰屏。  其他改进  端到端测试再次可靠运行：恢复 MCP 和子任务覆盖范围并修复不稳定的工具测试，以便贡献者可以在本地运行类似 CI 的检查并更早捕获回归。 （感谢 ArchimedesCrypto、dcbartlett！） 自动化测试不再因工具批准而停滞：修复了 MCP 端到端测试可能因自动批准时间服务器工具而因手动批准提示而挂起的问题。 （感谢 ArchimedesCrypto！）  查看完整发行说明v3.41.0   由   提交/u/hannesrudolph  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1qdeo60/roo_code_3410_chatgpt_pluspro_subscription/</guid>
       <pubDate>Thu, 15 Jan 2026 09:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>chatgpt通过了测试</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1qdcn7f/chatgpt_passed_the_test/</link>
-      <description><![CDATA[       由   提交/u/Minimum_Minimum4577  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1qdcn7f/chatgpt_passed_the_test/</guid>
-      <pubDate>Thu, 15 Jan 2026 06:56:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
