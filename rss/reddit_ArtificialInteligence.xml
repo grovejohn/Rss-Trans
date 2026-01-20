@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Tue, 20 Jan 2026 18:19:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 21:12:16 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何聊天 UI 可以在一次对话中将文本、图像和网络搜索路由到不同的模型？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qia5xq/is_there_any_chat_ui_that_can_route_text_images/</link>
+      <description><![CDATA[我正在使用 LibreChat 和 Open WebUI 等前端。 这就是我想要的：  OpenRouter 模型 文本 - 一种文本优化模型  图像 - 一种视觉模型 网络搜索 - 一种支持浏览/工具的模型  全部在一个聊天中，自动进行，无需我手动切换模型。 到目前为止我所看到的： - 一旦聊天包含图像或网络搜索，他们总是会记住它 - 切换回纯文本模型会导致错误 - LibreChat、Open WebUI 等中的行为相同... 所以我的问题是，今天是否真的存在这样的前端？ 谢谢。   由   提交/u/Hungry-Mistake-2158   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qia5xq/is_there_any_chat_ui_that_can_route_text_images/</guid>
+      <pubDate>Tue, 20 Jan 2026 19:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能治理，我讨厌 PoC</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qi9h0h/ai_governance_i_hate_pocs/</link>
+      <description><![CDATA[我真的非常讨厌我的工作。 我竭尽全力帮助这些人快速行动并正确完成工作。我有技术背景。我拥有人工智能评估博士学位。我的实际工作是人工智能支持和治理。我来这里是为了帮助团队安全交付，而不是阻止他们。 但不知何故，我被当作恶棍对待。 他们希望将半成品的 PoC 匆忙投入生产，并且零文档、零上下文、关于正在使用的模型、训练内容、测试方式或所带来的风险的透明度为零。他们拒绝提供适当的评估。他们拒绝参与基本治理。他们的行为就好像要求证据和控制是某种人身攻击。 然后，当我说“嘿，这是一个模型不透明风险，如果它出了问题，我们无法解释或捍卫这个系统”，我突然“放慢了创新”。 这感觉像是故意无知。就像他们不想知道，因为知道就意味着责任。 他们想要人工智能。他们想要炒作。他们想吹嘘自己处于领先地位。但他们不想做使其安全、可防御或值得信赖所需的工作。 当它不可避免地爆炸时，猜猜他们会指向谁。 我。 我厌倦了成为房间里唯一的成年人，而其他人都在玩火柴。公平地说，是非技术交付团队。我们的工程师实际上非常出色。  还有其他人坚持成为希望进行脑叶白质切除术的责任人吗？   由   提交 /u/Existing_Ad3299   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qi9h0h/ai_governance_i_hate_pocs/</guid>
+      <pubDate>Tue, 20 Jan 2026 18:39:47 GMT</pubDate>
+    </item>
     <item>
       <title>还有其他人不断使用人工智能但仍在验证一切吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qi8dv8/anyone_else_using_ai_constantly_but_still/</link>
@@ -41,13 +55,6 @@
       <pubDate>Tue, 20 Jan 2026 16:34:12 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法使用人工智能结合 3 个模板合同？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qi4m4e/is_there_a_way_to_combine_3_template_contracts/</link>
-      <description><![CDATA[对于我的工作，我需要将 3 个合约合并为 1 个合约，其中包含每个合约的具体信息。 我已经尝试过使用 ChatGPT，但效果很差。我改变了格式，但看起来很糟糕。还有其他应用程序或网站可以帮助我吗？ 谢谢   由   提交 /u/ChildishBruh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qi4m4e/is_there_a_way_to_combine_3_template_contracts/</guid>
-      <pubDate>Tue, 20 Jan 2026 15:47:47 GMT</pubDate>
-    </item>
-    <item>
       <title>最近使用了很多人工智能工具后，我对支付费用感到矛盾</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qi4lb5/after_using_a_lot_of_ai_tools_lately_im/</link>
       <description><![CDATA[我最近使用了大量的人工智能工具，可能比我想象的还要多。 其中一些工具确实很棒，特别是对于工作而言。总结长篇文档，整理凌乱的笔记，当我只需要一些东西来推动事情前进时，快速生成图像。在那些时刻，人工智能感觉就像是理所当然的事情，并且为此付费几乎感觉是合理的。 但还有它的另一面。 很多工具将更好的功能锁定在付费专区后面，一旦你到达那里......结果可能是超级偶然。有时它会钉住它。有时还差得很远。当这种情况发生时，我开始想知道我到底付了什么钱。 这甚至不是价格太疯狂了。更多的是不确定性。比如，我是在为可靠的东西付费，还是每次点击“生成”时都在掷骰子？ 所以，是的，我有点左右为难。 我很好奇其他人如何看待这个问题。你什么时候真正愿意为人工智能工具付费？是什么让它对你来说“值得”？是否有一些你一直使用但仍然不会订阅的工具？老实说，现在为人工智能付费对你来说感觉正常吗，还是仍然感觉有点奇怪？ 这里没有真正的结论。只是我一直在思考并想看看其他人的感受。   由   提交 /u/NoDinner709   [链接] [评论]]]></description>
@@ -76,16 +83,9 @@
       <pubDate>Tue, 20 Jan 2026 10:10:02 GMT</pubDate>
     </item>
     <item>
-      <title>对法学院学生真正有帮助的人工智能课程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qhwyn9/ai_courses_that_are_actually_helpful_for_a_law/</link>
-      <description><![CDATA[大家好， 我是一名具有一定技术背景的法学院学生（我已经完成了律师的 CS50），现在我想以一种对现实生活和我的职业生涯真正有用的方式学习人工智能。我不会为了证书而关心证书，我想要的是我可以实际实现的技能。 如果需要，我很乐意学习 Python 基础知识。我想要的课程能够真正理解 AI/ML 的工作原理以及如何构建或使用模型，而不仅仅是表面概述。 寻找： 能够培养真正技能的初级到中级 AI/ML 课程 实用的、面向项目的学习 良好的路径建议（先采取什么，然后采取下一步） 免费或付费选项，只要它们较高   由   提交/u/Old-Government-1414   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qhwyn9/ai_courses_that_are_actually_helpful_for_a_law/</guid>
-      <pubDate>Tue, 20 Jan 2026 09:51:07 GMT</pubDate>
-    </item>
-    <item>
       <title>在运行服务器的公司真正崩溃之前，是否有一个现实的、公开的信息可以说明人工智能何时才能真正赚钱？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qhw5pg/is_there_a_realistic_publicly_available/</link>
-      <description><![CDATA[所以，我没有关注任何专门谈论人工智能的可靠新闻媒体，但也喜欢一些类似的推荐。  也就是说，我所听到的有关人工智能的最新新闻要么是人们谈论人工智能泡沫破裂，要么可能会持续到人类灭绝。  但我最困惑的是，人工智能巨头真正能够维持多长时间的连续不断的高需求订单来购买内存、电力和其他 PC 组件，然后它们会遇到利润如此之低的硬墙而不得不停止？ 是否有任何信息渠道可以让我了解人工智能公司预计何时获得稳定利润，或者何时他们会不得不完全停止运营吗？ 人工智能运营和所有这些努力并不便宜 人工智能预计只有在 2030 年实现目标后才能盈利 但科技巨头甚至能坚持到 2030 年吗？ 谢谢   由   提交 /u/Fluid-Tap5115   [链接] [评论]]]></description>
+      <description><![CDATA[所以，我没有关注任何专门谈论人工智能的可靠新闻媒体，但也喜欢一些类似的建议。  也就是说，我所听到的有关人工智能的最新新闻要么是人们谈论人工智能泡沫破裂，要么可能会持续到人类灭绝。  但我最困惑的是，人工智能巨头真正能够维持多长时间的连续不断的高需求订单来购买内存、电力和其他 PC 组件，然后它们会遇到利润如此之低的硬墙而不得不停止？ 是否有任何信息渠道可以让我了解人工智能公司预计何时获得稳定利润，或者何时他们会不得不完全停止运营吗？ 人工智能运营和所有这些努力并不便宜 人工智能预计只有在 2030 年实现目标后才能盈利 但科技巨头甚至能坚持到 2030 年吗？ 谢谢   由   提交 /u/Fluid-Tap5115   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qhw5pg/is_there_a_realistic_publicly_available/</guid>
       <pubDate>Tue, 20 Jan 2026 09:02:30 GMT</pubDate>
     </item>
