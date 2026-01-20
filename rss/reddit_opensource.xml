@@ -4,9 +4,30 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 20 Jan 2026 00:47:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 04:03:54 GMT</lastBuildDate>
     <item>
-      <title>开源 NotebookLM/Notion 替代方案</title>
+      <title>有 OpenShot 的替代方案吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qhol9b/is_there_an_alternative_to_openshot/</link>
+      <description><![CDATA[根据我的经验，OpenShot 是一个充满 bug 且未经修饰的混乱，我真的很想使用另一个免费的视频编辑器。   由   提交 /u/zkribzz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qhol9b/is_there_an_alternative_to_openshot/</guid>
+      <pubDate>Tue, 20 Jan 2026 02:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Linux 构建了一个离线语音听写工具 - 寻找反馈和测试人员</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qhohe7/i_built_an_offline_voice_dictation_tool_for_linux/</link>
+      <description><![CDATA[ 由   提交/u/jatinkrmalik  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qhohe7/i_built_an_offline_voice_dictation_tool_for_linux/</guid>
+      <pubDate>Tue, 20 Jan 2026 02:21:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Freenet：去中心化的 WebAssembly 应用程序（不是加密！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qhmv2j/freenet_decentralized_webassembly_apps_not_crypto/</link>
+      <description><![CDATA[这个项目发布在 /r/rust 和 /r/programming 中，所以我也想在这里分享。 https://github.com/freenet/freenet-core 它是一个运行编译为 WebAssembly 的去中心化应用程序的平台。有一个 wip 聊天应用程序作为概念证明，并指导您编写自己的在网络上运行的应用程序：https://freenet.org/resources/manual/tutorial/ 以下是 wip 聊天应用程序的链接：https://github.com/freenet/river   由   提交 /u/NYPuppy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qhmv2j/freenet_decentralized_webassembly_apps_not_crypto/</guid>
+      <pubDate>Tue, 20 Jan 2026 01:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源 NotebookLM/Notion 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1qhke2c/open_source_notebooklmnotion_alternative/</link>
       <description><![CDATA[存储库：https://github.com/ThinkEx-OSS/thinkex 我们对存储库的贡献者/兴趣不断增加，并且正在缓慢但坚定地建设我们的社区！    由   提交 /u/reallyhotmail   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qhke2c/open_source_notebooklmnotion_alternative/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好， 我已经离开一段时间了，我想知道非技术贡献是否仍然存在，尽管法学硕士已被普遍使用。我想在我真正喜欢并且是它的消费者的领域亲自尝试。 我拥有哲学和市场营销学位。解释复杂的概念和综合是我的专长。尽管没有参考资料可供展示，除了论文和论文写作：我想为 OSS 项目编写文档和通信支持，并通过它来学习组织和工作流程。  有人需要帮助吗？    由   提交/u/JimmymfPop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qh48az/id_like_to_contribute_in_nontech_roles/</guid>
       <pubDate>Mon, 19 Jan 2026 13:32:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>求一款电脑版离线词典软件</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qh2fl5/seeking_offline_dictionary_software_for_pc/</link>
-      <description><![CDATA[(windows 10)   由   提交 /u/redgreenblue987   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qh2fl5/seeking_offline_dictionary_software_for_pc/</guid>
-      <pubDate>Mon, 19 Jan 2026 12:06:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后停止 X/twitter 上的无限滚动作为 Web 扩展</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qh2eyx/finally_stop_infinite_scroll_on_xtwitter_be_web/</link>
-      <description><![CDATA[我构建了一个停止和控制无限滚动的扩展 停止并允许按钮 https://github.com/freaktofen/X-Infinite-Scroll-Stopper   由   提交 /u/Qusix111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qh2eyx/finally_stop_infinite_scroll_on_xtwitter_be_web/</guid>
-      <pubDate>Mon, 19 Jan 2026 12:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源我们的黑客马拉松项目：使用视觉编舞编辑器让 Unitree Go1 机器人跳舞</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qh05h4/open_sourced_our_hackathon_project_make_a_unitree/</link>
-      <description><![CDATA[我们赢得了“最具技术含量”奖这周末参加了一次机器人黑客马拉松，并决定开源所有内容。 它是什么： 用于在 Unitree Go1 四足机器人上编排舞蹈动作的工具包。时间轴编辑器、控制仪表板、节拍检测等等。 为什么开源： 在这个周末之前，我们都没有使用过 Go1 机器人的经验。我们希望让其他人更容易上手 - 无需挖掘 Unitree 文档，只需克隆并运行。 GitHub： https://github.com/dawodx/YMCA MIT 许可。如果有人想添加功能，欢迎 PR。 技术：Python、MuJoCo、Librosa   由   提交 /u/dawodx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qh05h4/open_sourced_our_hackathon_project_make_a_unitree/</guid>
-      <pubDate>Mon, 19 Jan 2026 09:57:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
