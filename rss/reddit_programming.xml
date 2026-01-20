@@ -4,13 +4,62 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 20 Jan 2026 09:23:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jan 2026 12:23:11 GMT</lastBuildDate>
     <item>
-      <title>pg-aiguide - PostgreSql 的代理编码</title>
-      <link>https://www.reddit.com/r/programming/comments/1qhwfjh/pgaiguide_agentic_coding_for_postgresql/</link>
-      <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qhwfjh/pgaiguide_agentic_coding_for_postgresql/</guid>
-      <pubDate>Tue, 20 Jan 2026 09:19:16 GMT</pubDate>
+      <title>在 LLM 代理中将状态与执行解耦：生产 AutoGen 的模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1qhzntc/decoupling_state_from_execution_in_llm_agents_a/</link>
+      <description><![CDATA[大多数“Hello World” AI 代理的示例将 LLM 响应逻辑与工具执行逻辑紧密耦合。在生产中，这变成了调试噩梦。如果该工具失败，代理通常会产生成功的幻觉或无限循环。 我最近花了一些时间使用 Microsoft 的 AutoGen 重构 LinkedIn 数据提取管道，特别是尝试解决“人在循环”问题。可靠性问题。 架构挑战我们的目标是拥有一个代理来搜索配置文件（通过 API）并导出它们。挑战在于 LLM 不擅长维护长 JSON 有效负载的上下文。 解决方案：专用内存管理器模式与标准 AssistantAgent 一起使用。  工具执行： 该工具获取数据（在本例中使用 ConnectSafely.ai）。 上下文压缩： 该工具不是将完整的 JSON 返回到聊天上下文，而是返回摘要状态并将完整对象缓存在本地类实例中。 参考：法学硕士仅看到“找到 50 个个人资料”。参考 ID：X.&quot;  代码模式： Python # 而不是将数据转储到上下文窗口 def search_tool(query): results = api.search(query) # 代理不需要查看 50kb 的 JSON Memory.store(results) return f&quot;Success.已找到 {len(结果)}。存储在内存中。”  这将令牌使用量减少了约 60%，并显着提高了代理遵循多步指令的能力（例如，“导出先前结果”）。 如果您对内存管理器模式或 AutoGen 配置的具体实现感兴趣，我已将源代码放在 GitHub 上。   由   提交/u/SirAdmirable4773  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qhzntc/decoupling_state_from_execution_in_llm_agents_a/</guid>
+      <pubDate>Tue, 20 Jan 2026 12:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅有的两种标记语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1qhzgtc/the_only_two_markup_languages/</link>
+      <description><![CDATA[ 由   提交 /u/gingerbill   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qhzgtc/the_only_two_markup_languages/</guid>
+      <pubDate>Tue, 20 Jan 2026 12:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>未来的编程语言是人工智能的吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qhz916/are_future_programming_languages_for_ais/</link>
+      <description><![CDATA[我一直在思考编程语言的下一个重大进步是否不是新的人类友好语法，而是向人工智能表示的转变，因为当今最流行的语言（Python、JavaScript、C++...）显然是为人类设计的。  可读性和叙述流程 为了清晰而冗余 隐含的约定和“明显”人工智能可以使用这些语言，但只能通过模仿人类对并非为它们设计的语法进行推理来实现。 所以问题是： 如果人工智能成为代码的主要编写者、重构者和维护者，那么核心“语言”不应该针对机器进行优化，并且基本上针对代币使用等进行优化……这样它就可以成为性能和定价之间的平衡。   密集、明确的语义（每个标记具有高含义） 显式约束和不变量 轻松转换、重构和验证 最少的语法糖或历史包袱  这让我想知道汇编（或类似汇编的东西）是否可以作为一个起点，不是因为它很好，而是因为它的构建更倾向于machi，es。 从那里，可以向上构建更高级别的人工智能原生抽象，而不是向下降低人类代码。人类仍然会编写 Python、JS……人工智能会在底层运行一些非常不同的东西。  你认为我们会看到完全人工智能原生的语言，还是只是更好的中间表示？ 我链接了一个 github 存储库，它让我思考了这个问题。   由   提交/u/Punk_Saint  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qhz916/are_future_programming_languages_for_ais/</guid>
+      <pubDate>Tue, 20 Jan 2026 12:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>0-RTT 重放：HTTP/3 中绕过幂等性的高速缺陷</title>
+      <link>https://www.reddit.com/r/programming/comments/1qhz1i7/0rtt_replay_the_highspeed_flaw_in_http3_that/</link>
+      <description><![CDATA[ 由   提交/u/JadeLuxe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qhz1i7/0rtt_replay_the_highspeed_flaw_in_http3_that/</guid>
+      <pubDate>Tue, 20 Jan 2026 11:49:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Java 的 OpenAI Agent SDK</title>
+      <link>https://www.reddit.com/r/programming/comments/1qhyum5/openai_agent_sdk_for_java/</link>
+      <description><![CDATA[ 由   提交/u/henk53  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qhyum5/openai_agent_sdk_for_java/</guid>
+      <pubDate>Tue, 20 Jan 2026 11:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>那些从人工智能编码工具中获得最大收益的人一直都是表现最好的人</title>
+      <link>https://www.reddit.com/r/programming/comments/1qhxk43/those_getting_the_most_from_ai_coding_tools_were/</link>
+      <description><![CDATA[GitClear 分析了流行编码代理 API 中的 30k 个数据点，包括 Claude Code、GitHub Copilot 和 Cursor。   由   提交 /u/scarey102   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qhxk43/those_getting_the_most_from_ai_coding_tools_were/</guid>
+      <pubDate>Tue, 20 Jan 2026 10:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 CLI，可以为大型代码库生成可重现的结构图</title>
+      <link>https://www.reddit.com/r/programming/comments/1qhws6k/i_built_a_cli_that_generates_a_reproducible/</link>
+      <description><![CDATA[在使用大型存储库（100k–1M+ LOC）时，我不断遇到同样的问题： 人类和法学硕士都在努力形成可靠的代码库心智模型。 因此我构建了 RepoMap — 一个小型 CLI，可以生成稳定、可重复的“存储库地图”： - 模块级索引 - 检测到的入口点（路由、控制器、CLI、作业） - 人工智能友好的 summary.md 目标不是语义理解或自动编辑， 而是在使用 rg、RAG 或代理之前提供结构先验。 它是只读的、增量的，旨在避免差异噪声。 GitHub：https://github.com/Nicenonecb/RepoMap 很高兴听到反馈，尤其是有关 monorepos 或不寻常的仓库布局的反馈。   由   提交 /u/Nicenonecb   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qhws6k/i_built_a_cli_that_generates_a_reproducible/</guid>
+      <pubDate>Tue, 20 Jan 2026 09:40:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人尝试过 xHost 作为托管替代方案吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qhwol1/anyone_tried_xhost_as_a_managed_alternative/</link>
+      <description><![CDATA[我知道这个 sub 喜欢自托管一切，但有时我只需要立即运行一些东西，而无需启动 VPS。 一直在使用 xHost.live 进行快速部署 - GitHub 集成、即时部署、免费层（是的，它比 vercel、render 和 netlify 更好） 使用它还有我自己托管的用于客户演示和快速原型的东西。两全其美？   由   提交/u/ammohitchaprana   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qhwol1/anyone_tried_xhost_as_a_managed_alternative/</guid>
+      <pubDate>Tue, 20 Jan 2026 09:34:32 GMT</pubDate>
     </item>
     <item>
       <title>我让 Claude Code 来审查可爱的前端代码</title>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/delvin0  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qhuhw3/lapce_a_rustbased_native_code_editor_lighter_than/</guid>
       <pubDate>Tue, 20 Jan 2026 07:20:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>讨论：GitHub Copilot 诉讼凸显了代码托管和培训中的结构性利益冲突——中立宪章提案</title>
-      <link>https://www.reddit.com/r/programming/comments/1qhqj5k/discussion_github_copilot_litigation_highlights/</link>
-      <description><![CDATA[我是一名独立开发者，一直在密切关注 Copilot 诉讼，我认为当前的法律方法错过了一个关键的结构性修复。 对微软进行罚款并不能解决潜在的利益冲突。只要一家价值数万亿美元的人工智能公司控制着世界上最重要的代码存储库，“收获”代码的动机将永远超过负责任地托管代码的责任。 今天，我向首席律师 (Saveri &amp; Butterick) 提交了一份拟议的非当事人意见陈述，其中概述了一份简单的中立宪章： • 结构分离。将 GitHub 转变为一个中立的、由基金会支持的实用程序（例如 Linux 基金会），以便它为社区而不是单个公司服务。 • 同意优先的培训。如果没有贡献者明确、透明的选择加入，任何代码都不应用于人工智能训练。 • 中立治理。建立一个由社区领导的委员会，拥有审核数据使用和执行章程的实际权力。  我正在等待法律团队同意向法院正式提交此文件。我们需要停止将自己视为 GitHub 的被动“用户”，而开始充当它的架构师。 我希望得到社区对这些支柱的反馈 - 如果我们现在不修复结构，我们什么时候修复？   由   提交 /u/Litteralybadenglish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qhqj5k/discussion_github_copilot_litigation_highlights/</guid>
-      <pubDate>Tue, 20 Jan 2026 03:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于最琐碎的原因，我决定制作一个更糟糕的 UUID。</title>
-      <link>https://www.reddit.com/r/programming/comments/1qhq372/i_decided_to_make_a_worse_uuid_for_the_pettiest/</link>
-      <description><![CDATA[ 由   提交 /u/theghostofm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qhq372/i_decided_to_make_a_worse_uuid_for_the_pettiest/</guid>
-      <pubDate>Tue, 20 Jan 2026 03:33:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>不安静的睡眠 - 音乐示例和讨论</title>
-      <link>https://www.reddit.com/r/programming/comments/1qhojjp/unquiet_sleep_musical_example_and_discussion/</link>
-      <description><![CDATA[ 由   提交/u/apeloverage  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qhojjp/unquiet_sleep_musical_example_and_discussion/</guid>
-      <pubDate>Tue, 20 Jan 2026 02:23:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Babylon 和 HAT 从 Java 优化 GPU 程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1qhmlg6/optimizing_gpu_programs_from_java_using_babylon/</link>
-      <description><![CDATA[ 由   提交/u/davidalayachew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qhmlg6/optimizing_gpu_programs_from_java_using_babylon/</guid>
-      <pubDate>Tue, 20 Jan 2026 00:58:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为域逻辑进行过滤</title>
-      <link>https://www.reddit.com/r/programming/comments/1qhli6l/filtering_as_domain_logic/</link>
-      <description><![CDATA[ 由   提交/u/kivarada   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qhli6l/filtering_as_domain_logic/</guid>
-      <pubDate>Tue, 20 Jan 2026 00:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 ANTcell 可能是一个坏主意——对 AI 原生团队的结构性批评</title>
-      <link>https://www.reddit.com/r/programming/comments/1qhks4v/why_antcell_might_be_a_bad_idea_a_structural/</link>
-      <description><![CDATA[我一直在写关于 ANTcell 的文章 — 在人工智能原生工程中，最小的有意义的单位不是一个团队，而是一个不可简化的责任单元。 这篇文章采取了相反的立场。 它列出了我能想到的最强烈的反对意见：碎片化、倦怠风险、精英偏见、隐藏的权力结构和故障恢复。 不试图在这里“捍卫”这个想法——只是对其进行压力测试。   由   提交/u/dqj1998  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qhks4v/why_antcell_might_be_a_bad_idea_a_structural/</guid>
-      <pubDate>Mon, 19 Jan 2026 23:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>电网不是集群：技术专家对能源的误解</title>
-      <link>https://www.reddit.com/r/programming/comments/1qhjnuy/the_grid_isnt_a_cluster_what_technologists_get/</link>
-      <description><![CDATA[ 由   提交 /u/Happycodeine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qhjnuy/the_grid_isnt_a_cluster_what_technologists_get/</guid>
-      <pubDate>Mon, 19 Jan 2026 22:56:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
