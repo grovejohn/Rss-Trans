@@ -4,13 +4,34 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 21 Jan 2026 12:24:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 15:22:10 GMT</lastBuildDate>
     <item>
-      <title>在 Solana 上构建 Web3 策略游戏 – Chain of Lands 项目概述</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qiwdva/building_a_web3_strategy_game_on_solana_chain_of/</link>
-      <description><![CDATA[项目概述/开发日志。 Chain of Lands 是一款基于 Solana 构建的 Web3 策略游戏，结合了链上治理、非托管钱包交互和 AI 驱动的叙事系统。 核心组件： - 基于 Solana 的链上逻辑和事件映射 - 治理驱动的季节性进程 - AI 驱动的叙述和决策系统 (Eru) - 通过 Twitter (OAuth 2.0) 和 Phantom Wallet 进行安全身份验证 - 非托管、基于钱包签名的交互 - 混合 Web2 / Web3 架构 该项目侧重于透明度、可证明的所有权和社区驱动的进展，而不是投机机制。 存储库包括文档、架构注释，以及正在进行的开发工作。 GitHub（欢迎反馈和讨论）： 👉 https://github.com/RayusDev/chain-of-lands   由   提交 /u/CommercialQuiet6261   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qiwdva/building_a_web3_strategy_game_on_solana_chain_of/</guid>
-      <pubDate>Wed, 21 Jan 2026 12:18:12 GMT</pubDate>
+      <title>Easy Bulk GIF Optimizer - 一个开源的 GIF 批量自动化工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qj0c49/easy_bulk_gif_optimizer_an_open_source_mass/</link>
+      <description><![CDATA[       由   提交/u/Elegant-Mention6393  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qj0c49/easy_bulk_gif_optimizer_an_open_source_mass/</guid>
+      <pubDate>Wed, 21 Jan 2026 15:07:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 GitHub Actions 构建了一个lazygit 风格的 TUI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qizhdv/i_built_a_lazygitstyle_tui_for_github_actions/</link>
+      <description><![CDATA[      简单问题：推送代码、alt-tab 到浏览器、导航到 Actions、等待页面加载、查找工作流程、检查状态。每天重复 20 次。 解决方案：lazyactions - 一个 TUI，它将 GitHub Actions 带到我已经所在的位置。 它基本上是lazygit，但适用于 CI/CD。三窗格布局、vim 键、实时日志流。 使用现有的 gh CLI 身份验证。 brew install nnnkkk7/tap/lazyactions https://github.com/nnnkkk7/lazyactions   由   提交 /u/okkywhity   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qizhdv/i_built_a_lazygitstyle_tui_for_github_actions/</guid>
+      <pubDate>Wed, 21 Jan 2026 14:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>PSF、Rust Foundation、OSI、Apereo、Apache 的 2026 年开源状况</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qiyjmr/state_of_open_source_in_2026_from_psf_rust/</link>
+      <description><![CDATA[      2026 年，我们将加倍支持 #opensource。 2026 年开源活动是我们的第一步。请花点时间聆听这些领导人讲述他们在 2026 年面临的挑战，并在力所能及的范围内提供支持 Ruth Suehle |黛布·尼克尔森 |洛里·洛鲁索 |凯蒂·斯蒂恩-詹姆斯 |帕特里克·马森   由   提交 /u/WalrusOk4591   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qiyjmr/state_of_open_source_in_2026_from_psf_rust/</guid>
+      <pubDate>Wed, 21 Jan 2026 13:56:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 GPS 跟踪器，可以将数据直接发送到您的服务器（无云）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qiwua1/i_built_a_gps_tracker_that_sends_data_directly_to/</link>
+      <description><![CDATA[嘿 r/opensource， 我厌倦了 GPS 应用程序，它们强迫你通过云端或让你运行复杂的中间件只是为了将位置记录到自己的数据库中。 所以我构建了 Colota -非常简单：  将其指向您的服务器（任何 HTTPS 端点） 它会使用您的 GPS 坐标 POST JSON 完成。  您可能会关心的原因：  首先离线工作 - 保存到本地 SQLite，尽可能同步 自定义 JSON fields - 您的 API 需要 latitude 而不是 lat？只需在设置中重命名即可 地理围栏 - 在家庭/工作中自动暂停跟踪（隐私 + 电池） 无云/遥测/跟踪 - 您的数据保留在您的设备或服务器上 开源 (Github)  示例用例：  个人网站上的实时地图 简单的 INSERT INTO 位置到 PostgreSQL Home Assistant webhook 任何接受 POST 请求的服务器  当前有效的集成：  Dawarich（开箱即用） OwnTracks Recorder Home Assistant 自定义后端（只需接受 JSON）  路线图中的功能：  智能地理围栏管理（可视化地理围栏编辑器（拖动以调整大小）和统计信息：“您工作了 8 小时”今天” 带日期过滤器的位置历史轨迹（查看您一段时间内的移动路径） 统计仪表板（行驶距离（每日/每周/每月；访问最多的地点）  我需要 12 名 Beta 测试人员来满足 Google Play 要求（14 天） 如果您有：  ✅ Android 手机 ✅ 您的自己的服务器（或想要测试离线模式） ✅ 5 分钟安装并提供反馈  留下您感兴趣的评论，我将通过 DM 向您发送 Play 商店链接。 隐私声明： 我只需要您的 Google Play 电子邮件即可将您添加到封闭测试版（PlayStore 对新开发者的要求）。 - 添加您时使用的电子邮件一次 - 14 天测试后删除 - 您可以随时离开 常见问题解答： 问：它会耗尽电池吗？ 答：优化后每小时约 5-10%。静默区有很大帮助。 问：与 OwnTracks 有什么区别？ 答：持久 SQLite （OwnTracks 使用内存），更好的重试逻辑，内置导出，无需服务器软件。 问：我需要服务器吗？ 答：不需要。服务器是可选的。您可以从应用程序导出数据并在 QGIS 中使用它 问：它发送什么数据？ 答：仅 GPS 坐标。零遥测。 永久免费。   /u/DaTurboD   [链接]   href=&quot;https://www.reddit.com/r/opensource/comments/1qiwua1/i_built_a_gps_tracker_that_sends_data_directly_to/&quot;&gt;[评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qiwua1/i_built_a_gps_tracker_that_sends_data_directly_to/</guid>
+      <pubDate>Wed, 21 Jan 2026 12:40:27 GMT</pubDate>
     </item>
     <item>
       <title>我在作弊吗？</title>
@@ -62,7 +83,7 @@
       <pubDate>Tue, 20 Jan 2026 22:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>如果这台小型电脑是真实的，什么样的开源项目才能真正推动它的价值？</title>
+      <title>如果这台小型电脑是真实存在的，什么样的开源项目才能真正推动它的价值？</title>
       <link>https://www.reddit.com/r/opensource/comments/1qicv02/if_this_small_pc_is_real_what_kind_of_open_source/</link>
       <description><![CDATA[我一直在阅读有关 TiinyAI 硬件概念的内容。据称，它是一个手掌大小的 30W 设备，可离线运行 120B 型号。 （来源自 mashable：https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer）。这正是我想象中的人工智能计算机的未来应该是什么样子，小巧而高效。如果该设备是真实的，当您将其与开源环境结合起来时，我已经可以看到很多好处。 我认为的一个场景是执法部门的“案件处理专家”。想象一下 Llama-3 或 Command R+ 的微调版本在巡逻车上本地运行。它可以分析案件详细信息和当地法规，而不会将敏感的公民数据泄露到云 API。或者可能是为偏远地区或灾区的援助团体提供的医疗诊断模型（如 Meditron）。 在我看来，OSS 项目与便携式本地硬件的结合是个人人工智能的最终形式。如果这个设备不是蒸汽波，那么我一直在等待的那一天就不远了。还有哪些具体的开源项目或微调可以在这样的便携式设备上大放异彩？   由   提交 /u/Upstairs_Reading_220   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qicv02/if_this_small_pc_is_real_what_kind_of_open_source/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好， 我一直在开发一个名为 CondaNest 的轻量级原生 Linux GUI。 我知道我们中的许多人最终都会为不同的管道提供数十种不同的环境（例如，将 samtools 与 qiime2 或特定的 Python 版本分开）和 conda当您拥有如此多的环境时，列表可能很难直观地进行解析。 我构建此应用程序是为了提供一个干净的可视化界面来管理它们，而无需 Anaconda Navigator 的臃肿。 Repo：https://github.com/aradar46/condanest 它是什么的作用：  视觉概述：列出您的所有本地环境及其位置。 包检查：允许您在任何环境中搜索和查看已安装的包，而无需先激活它。 管理：用于创建、删除或清理环境的简单 UI。 本机性能：使用 Python 和 Java 构建。 GTK4，因此与 Electron/Qt 应用程序相比，它快速且轻量。  它目前处于早期开发/测试阶段，因此我非常感谢社区提供有关哪些功能可以使您的工作流程更轻松的反馈。   由   提交 /u/eli_arad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qi9ewg/i_built_a_native_linux_gui_to_organize_conda/</guid>
       <pubDate>Tue, 20 Jan 2026 18:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否使用 (Wise) 货币转换器或 FOSS 替代应用程序来转换货币？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qi9d20/do_you_use_wise_currency_converter_or_a_foss/</link>
-      <description><![CDATA[如标题所示。 你知道这个名字。这是一个与 Wise 相关的应用程序，是一项国际知名的低成本和全球使用的服务（Rev​​olut、PayPal 和类似的竞争对手，至少在我所在的欧洲地区）。 我安装它是因为，你知道，你经常会说“价格是[金额][与主要货币不同的其他货币，在我的例子中是欧元]。多少钱？” 环顾四周，我发现这个应用程序没有广告，也没有付费墙（很好，我不知道跟踪元素）。 您输入所有数据（金额、原始货币、要转换的货币），您可以看到转换后的价值（实时）以及接收者将获得的金额（因此通过计算差额，您知道您将支付多少钱）。 这对我来说很有意义（没有广告/付费墙等），因为他们的核心业务依赖于使用他们的服务（为此你需要支付一项或多项费用，即兑换和/或国际转账和/或 ATM 取款）。 确实，有一点“垃圾邮件”，那就是一个巨大的绿色（他们的品牌颜色）按钮，上面写着“Send with Wise”。 虽然我感觉很轻松，但我想知道是否有任何 FOSS 替代品，甚至没有这种自我推销的小东西。 有没有任何自由软件应用程序？或者我需要放弃这种类型的东西，比如任何银行相关的应用程序，只有闭源解决方案（任何商业银行应用程序或数字钱包）？ 你推荐任何自由和开源软件应用程序来转换货币吗？ 你使用任何 PWA（如 Wise 网站）还是只是浏览器（即每次使用搜索引擎进行查询，如“1000 欧元兑美元”）用于此目的？   由   提交/u/RebirdgeCardiographer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qi9d20/do_you_use_wise_currency_converter_or_a_foss/</guid>
-      <pubDate>Tue, 20 Jan 2026 18:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[项目] 一个SPICE混合信号模拟docker容器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qi82k4/project_a_spice_mixed_signal_simulation_docker/</link>
-      <description><![CDATA[       由   提交/u/Gerard_Mansoif67   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qi82k4/project_a_spice_mixed_signal_simulation_docker/</guid>
-      <pubDate>Tue, 20 Jan 2026 17:51:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否存在任何“好的 Spotify 客户端</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qi6ukg/does_exist_any_good_spotify_client/</link>
-      <description><![CDATA[我理想的 Spotify 客户端将是您可以像 rofi 一样搜索或像您在互联网上搜索歌曲一样搜索启动器，我所说的有意义吗？问我是否没有意义   由   提交/u/birch_guy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qi6ukg/does_exist_any_good_spotify_client/</guid>
-      <pubDate>Tue, 20 Jan 2026 17:08:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
