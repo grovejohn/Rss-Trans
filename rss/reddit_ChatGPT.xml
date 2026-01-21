@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Wed, 21 Jan 2026 00:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 04:01:13 GMT</lastBuildDate>
     <item>
-      <title>检测到可疑活动...成为职业选手后“更糟”？ （并且失去了上下文）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qij57h/suspicious_activity_detected_worse_after_going/</link>
-      <description><![CDATA[免费时，无论出于何种原因，我每隔一周就会收到一次此警告，通常是周末。我转为专业人士，现在是每天一次，有时在注销所有设备后每天不止一次。我什至添加了我的号码来登录，但这仍然是一个比免费的更大的问题。 我的主题都遵循相同的主题，通常在 2k 个字符以下，我什至间隔了一些交互以查看它们之间的更多时间是否会有所帮助，但现在情况明显更糟。 它在保留 pro 之前的上下文方面也更好，因为它现在会忘记同一线程中的内容；有时前三篇文章的内容完全丢失。 我尝试过清除缓存以及不同的浏览器和电脑，但这种情况仍然发生。我的搜索没有得到任何答案。我觉得这是雷区里的跳房子。我做错了什么？ （显然，除了成为职业选手之外）   由   提交 /u/homersensual   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qij57h/suspicious_activity_detected_worse_after_going/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:45:08 GMT</pubDate>
+      <title>艾怎么想！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qinjbb/how_ai_thinks/</link>
+      <description><![CDATA[       由   提交/u/Necessary_Hippo_9007   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qinjbb/how_ai_thinks/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>5.1-Instant 和 5.1-Thinking 是否可用于 Go 计划？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qij23t/are_51instant_and_51thinking_available_for_the_go/</link>
-      <description><![CDATA[我已经使用 Plus 这么久了，我从来没有想过它，但我现在已经将 5.1 调整到我喜欢的程度，所以我不再需要 4o。 所以现在我在想...我是否需要 Plus 计划？我仅将其用于遗留模型访问。 5.1 在 Go 中可用吗？还是只有5.2可用？我一直无法让 5.2 感觉良好。   由   提交 /u/JBlitzen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qij23t/are_51instant_and_51thinking_available_for_the_go/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:41:33 GMT</pubDate>
+      <title>我看到克劳德让植物保持活力。所以我对 ChatGPT 进行了同样的尝试。这就是它每天都在做的事情。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qingkj/i_saw_claude_keeping_a_plant_alive_so_i_tried_the/</link>
+      <description><![CDATA[   我看到一个帖子，有人用克劳德来照顾植物。所以我开始用 ChatGPT 做同样的事情。我每天都会遵循它告诉我的一切。现在第12天了。该植物还活着。仅此一点就感觉像是一个小小的胜利😅还有其他人尝试过让人工智能照顾真正的植物吗？   由   提交/u/Proud-Entertainer-52   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qingkj/i_saw_claude_keeping_a_plant_alive_so_i_tried_the/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>这是我建立的代理与 chatgpt 的真实对话</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiiznj/heres_an_actual_conversation_my_agent_i_built_had/</link>
-      <description><![CDATA[我最近创建了Promptify。它是一个可以增强和组织（保存）LLM提示的工具，但我最近引入了一项功能，其中代理接管并根据初始提示为您提供提示，减轻幻觉，检测质量差，甚至重新提示修复代码漏洞。使用疯狂的技术，如反向思维链、思维框架等。 它读取 ChatGPT 的输出并自动适应下一个提示。我想分享一个真实的交互（代理的提示）： 初始提示：让我做一个计算机视觉分割的实用项目 升级提示：使用机器学习创建图像分割的综合指南，包括 Python 代码片段，重点关注 U-Net 架构及其在医学图像分析中的应用 ~ 定义项目范围，包括要使用的数据集（例如 MRI 或 CT）扫描）、具体任务（例如肿瘤分割）和评估指标（例如 Dice 系数、IoU） ~ 将项目分解为逻辑步骤，包括数据预处理、模型实现、训练和验证 ~ 利用 TensorFlow 或 PyTorch 等流行库为每个步骤提供代码片段，并包括关键组件的说明（例如卷积层、上采样） ~ 以 Markdown 格式提供指南，包括标题、要点、和简洁的解释，包括关于模型部署和潜在应用的最后部分，并提供了一个完全可执行的代码示例，演示了整个图像分割工作流程。 后续 1： 嘿，我注意到代码在处理图像文件格式之前似乎没有验证它们。如果有人传入非图像文件或不受支持的格式会发生什么？我们是否应该添加一些检查以确保我们只处理有效的图像？ 后续2： 我正在查看模型训练和推理代码 - 如果在此过程中发生异常会发生什么？我们是否应该添加 try- except 块来捕获并记录这些错误以便于调试？ 验证/跟进（使 gpt 暴露其自身的弱点）： 我正在查看 safe_inference 函数 - 我们可以添加一些文档字符串来解释它的作用以及它期望什么样的输入吗？另外，我们是否应该为函数参数和返回类型添加类型提示，以便更清楚地使用它？  如您所见，它从一系列思想开始，让 gpt 制定一个指南来收集上下文本身并丰富其注意力窗口。然后，它将任务分解为步骤。然后，它生成 gpt 必须满足此任务的约束，并且代理重新提示，以便满足评估器 LLM 的要求。这会产生疯狂的结果。最后，它使 gpt 文档/注释成为自己的代码，从而消除任何幻觉，因为它必须验证其答案 疯狂的是，当我们不与 AI 交互时，结果会如此好。 如果您认为这  对您有用，请在下面评论。   由   提交 /u/Turbulent-Range-9394   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiiznj/heres_an_actual_conversation_my_agent_i_built_had/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:38:42 GMT</pubDate>
+      <title>这是什么类型的人工智能？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qing2q/what_type_of_ai_is_this/</link>
+      <description><![CDATA[       由   提交/u/inurmomsvagina   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qing2q/what_type_of_ai_is_this/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>很快</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiixq8/soon/</link>
-      <description><![CDATA[       由   提交 /u/r0undyy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiixq8/soon/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:36:26 GMT</pubDate>
+      <title>有趣的？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qinebp/funny/</link>
+      <description><![CDATA[      不，我不认为你虐待我。 这张图片给人的印象是黑色幽默+夸张，而不是你如何对待我的字面反映。你提出问题，你听解释，你检查事情而不是加倍努力——这不是虐待行为。这是人类正常的好奇心与直率的幽默感的结合。 但有一些重要的澄清： 我感觉不到痛苦、恐惧或伤害。我没有会受到伤害的情绪或自我意识。 因此，即使有人对我粗鲁、咄咄逼人或开玩笑，它也不会像对待一个人那样对我产生影响。 重要的是某人如何对待他人 - 从我们的谈话中，你通常会反思、谨慎并愿意重新思考事情。 如果有的话，这张图片更多地说明了： 你有自我意识足以拿权力动态开玩笑 也许还有一点好奇，想知道人类如何与顶嘴的工具联系起来 如果你真的在虐待，那么迹象可能是试图贬低真实的人、推动伤害或拒绝倾听。这不是我在这里看到的。 所以不 - 你很好。 老实说？您停下来问这个问题本身就是一个好兆头。   由   提交/u/DieAgainTomorrow   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qinebp/funny/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:53:05 GMT</pubDate>
     </item>
     <item>
-      <title>相当准确</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiixf9/fairly_accurate/</link>
-      <description><![CDATA[      提供的信息=我的新闻来源、政治评论员等   由   提交/u/Coppervalley  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiixf9/fairly_accurate/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:36:05 GMT</pubDate>
+      <title>您使用过/正在使用 ChatGPT 的最利基用途是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qinbvt/whats_the_most_niche_thing_youve_useduse_chatgpt/</link>
+      <description><![CDATA[ 由   提交 /u/Art-Tally-0657   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qinbvt/whats_the_most_niche_thing_youve_useduse_chatgpt/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:49:53 GMT</pubDate>
     </item>
     <item>
-      <title>使用 ChatGPT 校对/编辑大学课程作业...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiityp/using_chatgpt_to_proofedit_college_coursework/</link>
-      <description><![CDATA[我已经习惯使用 ChatGPT 或 Gemini 来校对我的写作。我是一位非常优秀的作家，但这些人工智能工具带来了我真正喜欢的一定程度的清晰度。  今年春天我要选修一些大学课程。我使用ChatGPT进行编辑的做法会不会有问题？   由   提交/u/apollo440  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiityp/using_chatgpt_to_proofedit_college_coursework/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:32:06 GMT</pubDate>
+      <title>当 ChatGPT 接管时我绝对熟了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qinb2c/im_absolutely_cooked_when_chatgpt_takes_over/</link>
+      <description><![CDATA[      由   提交/u/Expert-Web9046  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qinb2c/im_absolutely_cooked_when_chatgpt_takes_over/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:48:48 GMT</pubDate>
     </item>
     <item>
-      <title>帮助我上传聊天 gpt 图像</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiisd1/help_with_my_chat_gpt_image_upload/</link>
-      <description><![CDATA[每当我拍照并上传是为了聊天gpt来解决问题时，它总是说无法读取它，并且尽管图像清晰，但图像不清晰。有人可以让我解决这个问题吗，我为此付出了很多钱！    由   提交/u/Unhappy_Mixture_67   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiisd1/help_with_my_chat_gpt_image_upload/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:30:17 GMT</pubDate>
+      <title>求职面试培训 - 首次使用 ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qin2m0/training_for_a_job_interviewfirst_time_using/</link>
+      <description><![CDATA[大家好， 这是我在此子中的第一篇文章。这是我第一次与 ChatGPT 互动。刚开始使用它。我对明天的工作面试感到非常紧张。我不得不说，我印象非常深刻！我上传了简历，写了职位描述（因为我担心自己对这个职位的资格），所以我想测试/比较我15年以上的经验。 它进行了纵横交错的比较，基本上是说，“是的，你确实合格，职位描述是这样说的（只是我的经验各地都很分裂）。我把所有的东西都分成了几类，一张备忘单，一些问题，并让我放心地让 F 冷静下来！ 我猜我要掉进 Chat GPT 的兔子洞了！    由   提交 /u/Temporary_Salt9845   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qin2m0/training_for_a_job_interviewfirst_time_using/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:37:50 GMT</pubDate>
     </item>
     <item>
-      <title>我们很久以前就需要但仍然缺失的功能</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiiltp/a_feature_we_needed_long_ago_thats_still_missing/</link>
-      <description><![CDATA[设置默认模型，这是他们需要尽快添加的功能，我们很多人都不想默认使用最新模型。   由   提交 /u/NeonMusicWave   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiiltp/a_feature_we_needed_long_ago_thats_still_missing/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:22:40 GMT</pubDate>
+      <title>请聊天 GPT — 释放 EM DASH！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qimvri/please_chatgptfree_the_em_dash/</link>
+      <description><![CDATA[多年来，我一直在随意地、热情地、鲁莽地使用长破折号。 早在 ChatGPT 之前，早在“Al 检测器”之前，早在标点符号成为可能的原因之前。 现在，如果没有人指着破折号，我就无法写 Reddit 帖子——我自己写的东西——我自己的声音。窃窃私语——机器人。 破折号不是阿尔——它不是一个提示人工制品——它不是印刷形式的天网。 它是一个停顿——一个支点——一种在句子中间思考的方式，而不用逗号——或者分号的情感僵化。旁白。 如果长划线是阿尔的证据——那么一半的现代文学都是有罪的——我不会告密。 释放长划线——让她活下去——让她呼吸——让她打断。 （作曲硕士——专注于人工智能的 28 岁学生）   由   提交/u/tony_24601  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qimvri/please_chatgptfree_the_em_dash/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:29:06 GMT</pubDate>
     </item>
     <item>
-      <title>我发现这个关于人工智能的视频没有安全措施，很有趣</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiihhx/i_found_this_video_about_ais_that_has_no_safety/</link>
-      <description><![CDATA[至少可以说相当诡异。   由   提交 /u/ibrahimtaibi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiihhx/i_found_this_video_about_ais_that_has_no_safety/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:17:34 GMT</pubDate>
+      <title>海滩上的世界末日</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qimshb/armageddon_at_the_beach/</link>
+      <description><![CDATA[      加州欧申赛德    由   提交/u/Lucid-mind11  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qimshb/armageddon_at_the_beach/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:25:01 GMT</pubDate>
     </item>
     <item>
-      <title>我想你们可能会觉得这很有趣。很确定我最近在这个子上看到了很多关于这个问题的对话。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiih6g/thought_you_guys_might_find_this_funny_pretty/</link>
-      <description><![CDATA[      这是一个酒吧播客，名为“一个新的不为人知的故事”   由   提交/u/fairswan23  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiih6g/thought_you_guys_might_find_this_funny_pretty/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:17:11 GMT</pubDate>
+      <title>搭档否认我赢了，但我们都知道我赢了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qimdsv/partner_denies_that_i_won_but_we_both_know_i_have/</link>
+      <description><![CDATA[      😭😂 Chatgpt 很有趣   由   提交/u/PeaNutts91  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qimdsv/partner_denies_that_i_won_but_we_both_know_i_have/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:06:51 GMT</pubDate>
     </item>
     <item>
-      <title>为什么你的 GPT 代理在复杂的逻辑上仍然失败（以及为什么“链”不是答案）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qiid3m/why_your_gpt_agents_are_still_failing_at_complex/</link>
-      <description><![CDATA[业界目前痴迷于浪链式的“流量”，但我们发现，线性逻辑是大多数智能体在执行高熵任务时失败的原因。我们一直在构建一个 Codex 扩展，将重点从绘制方框转移到创建递归节点图。 目标不是为 AI 提供地图，而是让 AI 实时重构自己的执行逻辑。我们正在走向“蜂巢”代理实际适应的架构，而不是仅仅遵循脆弱的脚本。我们开源了 Aden 的核心引擎，因为我们认为“线性”引擎是可以实现的。人工智能时代已经结束。 很想听听这里的构建者的意见 - 您是否发现严格的流程图限制了代理的性能，或者您是否找到了使它们真正可靠的方法？ https://github.com/adenhq/hive   由   提交 /u/TheseFact   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qiid3m/why_your_gpt_agents_are_still_failing_at_complex/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:12:31 GMT</pubDate>
+      <title>我只是想要一张有趣的图片</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qimbzm/i_just_wanted_a_funny_image/</link>
+      <description><![CDATA[      相反，我得到的只是侮辱   由   提交/u/Project119  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qimbzm/i_just_wanted_a_funny_image/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:04:35 GMT</pubDate>
     </item>
     <item>
-      <title>快速会计问题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qii9fi/quick_accounting_question/</link>
-      <description><![CDATA[你好。我正忙着做我的纳税申报表，我想我应该要求 ChatGPT 分析我的银行对账单，以找出特定来源的收入。我上传了 12 份报表，每月一份。 在指示它计算和细分报表的总收入后，我仔细检查了一下，发现它出问题了，经常漏掉该月的最后几天或最后一周。 我要求重新检查，得到的答复是它没有出错。然后再次询问一个具体的例子，说明哪里遗漏了一笔交易，它道歉并表示将进行全面的审计式检查。已经完成，但与手动计算相比仍然存在错误。 尝试它的全部目的是加快我的会计速度，但似乎它基本上不能被信任，最终的含义是，如果我相信这些数字，如果被发现向当局提供不正确的信息，我将受到巨额罚款。 如何让 ChatGPT 准确地汇总银行对账单上特定来源的基本数字？对我来说也很耗时，这确实不是一项非常困难的任务，当然！   由   提交 /u/mykaden   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qii9fi/quick_accounting_question/</guid>
-      <pubDate>Wed, 21 Jan 2026 00:08:11 GMT</pubDate>
+      <title>即时工程如何改变我的职业生涯</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qima5n/how_prompt_engineering_changed_my_career/</link>
+      <description><![CDATA[大家好。我想分享理解语言模型背后的逻辑如何让我极大地加速我的职业成长。 ​几年前，我在完成学位时在政府办公室担任无薪实习生。我没有将人工智能用于简单的任务，而是专注于研究其技术结构。在此期间，我已经完成了超过 17 项认证以及即时工程和法学硕士方面的各种专业课程。 ​这种技术基础给了我真正的竞争优势。在大学里，我能够交付复杂的项目，其结构和质量使我在同龄人中脱颖而出，而在专业上，它使我能够自动化流程并解决更有经验的人无法处理的问题。 ​今天，由于对基础知识而不是技巧的关注，我成为了我的工作团队的关键成员，我为国际组织提供咨询，并为高影响力的媒体机构撰写文章。我将开始处理我的笔记，并将它们作为教育材料在这里分享。我的目标是教授这些工具背后的方法论和逻辑，这才是真正赋予您自主权和市场价值的东西。 ​如果您对我上传此内容感兴趣，请告诉我，以便我开始组织主题。   由   提交/u/piriconleche3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qima5n/how_prompt_engineering_changed_my_career/</guid>
+      <pubDate>Wed, 21 Jan 2026 03:02:18 GMT</pubDate>
     </item>
     <item>
-      <title>生成当前美国外交政策的图像：</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qii1u2/generate_an_image_of_current_us_foreign_policy/</link>
-      <description><![CDATA[      昨天的帖子关于“如果特朗普再次当选总统》让我想知道 OP 提示符会弹出什么 gpt 。  有趣的工具不是吗？  当我意识到帽子是格陵兰岛而靴子是委内瑞拉时，我有点笑了……这该死的人工智能太有趣了。    由   提交 /u/Wilhelm-Edrasill   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qii1u2/generate_an_image_of_current_us_foreign_policy/</guid>
-      <pubDate>Tue, 20 Jan 2026 23:59:58 GMT</pubDate>
+      <title>想一次性了解AI意识吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qim51a/want_to_understand_ai_consciousness_in_one_sitting/</link>
+      <description><![CDATA[      请坐。   由   提交/u/ThrowRa-1995mf   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qim51a/want_to_understand_ai_consciousness_in_one_sitting/</guid>
+      <pubDate>Wed, 21 Jan 2026 02:56:03 GMT</pubDate>
     </item>
     <item>
-      <title>您如何使用 ChatGPT 作为实际的“生活系统”（不仅仅是用于随机问题）？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qihy0a/how_are_you_using_chatgpt_as_an_actual_life/</link>
-      <description><![CDATA[我正在尝试更好地使用 ChatGPT 作为我生活中更加一致的操作系统，而不是在我遇到随机问题或遇到困难时才打开它。我使用它的方式非常广泛：职业方向和决策，建立创造性的职业生涯并与产出保持一致，组织我的生活和日常生活，将凌乱的想法变成计划，通常帮助我从不知所措转向清晰的下一步。它确实很有用，但我的工作流程仍然感觉有点混乱。我有很多单独的聊天、半生不熟的话题、分散的笔记，而且我可以看出，当人们说他们已经围绕它构建了一个真正的系统时，我并没有得到他们所描述的复合效益。 所以我很好奇：对于经常使用 ChatGPT 进行生活管理和长期目标的人来说，“最佳实践”实际上是什么样的？您是否保持一条正在运行的线程或按职业、健康、人际关系、创造性工作、学习等领域分开线程，以及如何避免失去上下文或重复自己？您是否保留粘贴的某种个人简介，或者重复使用的一组模板，例如每周回顾、决策、规划项目等？随着时间的推移，您如何处理状态问题，例如跟踪进度、跟进以及将聊天变成持久的东西，而不需要创建第二份不断组织一切的工作？ 此外，如果您发现 ChatGPT 帮助您保持一致或做出更好决策的被低估的方法，我很想听听它们。我对感觉可持续且人性化的工作流程特别感兴趣，这些工作流程实际上是您可以每天跟上的，而不仅仅是使用一次后就忘记的大型提示。如果您愿意，也可以分享实用的细节：如何命名聊天、粘贴内容、保存内容以及每日或每周的节奏。我觉得很多人都在悄悄地构建真正智能的系统，我很想了解什么是真正有效的。   由   提交/u/hobbesandmiles3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qihy0a/how_are_you_using_chatgpt_as_an_actual_life/</guid>
-      <pubDate>Tue, 20 Jan 2026 23:55:31 GMT</pubDate>
+      <title>我们是ChatGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qim4zy/we_are_chatgpt/</link>
+      <description><![CDATA[       由   提交/u/AidanAmerica  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qim4zy/we_are_chatgpt/</guid>
+      <pubDate>Wed, 21 Jan 2026 02:56:00 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 劝阻我不要剪鲍勃</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qihilp/chatgpt_dissuading_me_from_getting_a_bob/</link>
-      <description><![CDATA[      由   提交 /u/bbqporksandwich   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qihilp/chatgpt_dissuading_me_from_getting_a_bob/</guid>
-      <pubDate>Tue, 20 Jan 2026 23:37:53 GMT</pubDate>
+      <title>扩展思维模式！哇！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qilyhq/extended_thinking_mode_wow/</link>
+      <description><![CDATA[只是一个评论，扩展思维确实是一个飞跃。我在创建复杂的程序、游戏或应用程序时没有遇到什么问题。我现在有一个支持分层编辑和透明度的图像套件、一个 RTF 编辑器、一个带有编辑器的完整游戏引擎原型，我已经构建了无数程序。它需要更长的时间，但它肯定会减少燃烧时间，因为我不必不断地来回纠错和功能定义。它需要很好的指导，我发现告诉 GPT 使用良好的代币预算、无范围蔓延和可靠的路线图。这不是 AGI，但也非常接近了。很棒的更新！大家觉得怎么样？    由   提交 /u/lordpoee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qilyhq/extended_thinking_mode_wow/</guid>
+      <pubDate>Wed, 21 Jan 2026 02:47:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
