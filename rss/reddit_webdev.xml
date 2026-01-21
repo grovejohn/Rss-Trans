@@ -4,20 +4,13 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 21 Jan 2026 04:02:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 06:20:59 GMT</lastBuildDate>
     <item>
       <title>既然计算机可以为我们编码，我们的编码能力就变得不再是一种资产，对吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1qink68/our_ability_to_code_is_becoming_less_of_an_asset/</link>
       <description><![CDATA[对于给定指令可以创建的输出量来说，它的价值似乎越来越低。对于许多编码员来说，现在看来真正的转变是能够将更改隔离为小增量，小而强大的增量。我几乎觉得，即使是学习 React 的基础知识，在此时生成工作样板的能力也变得过时了。 很好奇明年会发生什么。似乎自动化和人工智能管理将变得更加重要，并且确保正确的布局结构将成为重要的事情。又名“在首屏生成一个部分，并在视频右侧号召大家采取行动”。 我会说，也许我们仍然需要设计师，但是开发人员呢？话又说回来，也许我错误地认为开发人员就是编码人员。我犯了这个错误吗？   由   提交 /u/AWeb3Dad   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qink68/our_ability_to_code_is_becoming_less_of_an_asset/</guid>
       <pubDate>Wed, 21 Jan 2026 04:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年最适合开发者的 5 个 Amazon API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qiloan/top_5_amazon_apis_for_developers_in_2026/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qiloan/top_5_amazon_apis_for_developers_in_2026/</guid>
-      <pubDate>Wed, 21 Jan 2026 02:35:04 GMT</pubDate>
     </item>
     <item>
       <title>人工智能毁掉了创意网页设计吗？</title>
@@ -29,7 +22,7 @@
     <item>
       <title>Claude Code Opus 4.5 抢走了我们的工作</title>
       <link>https://www.reddit.com/r/webdev/comments/1qikk38/claude_code_opus_45_just_took_our_jobs/</link>
-      <description><![CDATA[我： 为我的客户编写正确的发行说明。另请参阅代码库以获得更多解释。请记住，它不应该是技术性的，因为这些是针对最终用户的 Claude： 我将探索代码库以了解这些更改并编写用户友好的发行说明。探索（探索发行说明的功能）已完成（25 个工具使用 · 65.8k 代币 · 1m 38s） 根据我的代码库探索，以下是为最终用户编写的发行说明：  我： 所有这些功能都存在于代码中并且可以工作吗？  Claude： 让我验证代码库中是否存在每个功能。探索（验证代码中存在的功能）完成（18 个工具使用·98.3k 代币·1m 3s）根据我的验证，这是诚实的评估：✅ 已确认工作（9 个功能） [功能列表] 我： 我需要一个演示或有关其工作原理的链接 - 无需登录即可公开浏览 Claude： ❌没有公共浏览页面宠物主人无需登录即可查看服务 ❌没有公共服务目录 ❌没有“浏览然后登录预订”的服务 ❌流程 我的建议从发行说明中完全删除此内容或准确地重写它。 ✻ 烘焙了 1m 0s  X 和 Reddit 上的骗子： 哦，是的，Claude 使用 Opus 4.5 编写的代码是高级编程，应该编写 99% 的代码。 I don&#39;t even know why the vibe coders can trust something like this.我用它来制作一个 2 分页器 html 网站。   由   提交 /u/JustDoIt52   [链接] [评论]]]></description>
+      <description><![CDATA[我： 为我的客户编写正确的发行说明。另请参阅代码库以获得更多解释。请记住，它不应该是技术性的，因为这些是针对最终用户的 Claude： 我将探索代码库以了解这些更改并编写用户友好的发行说明。探索（探索发行说明的功能）已完成（25 个工具使用 · 65.8k 代币 · 1m 38s） 根据我的代码库探索，以下是为最终用户编写的发行说明：  我： 所有这些功能都存在于代码中并且可以工作吗？  Claude： 让我验证代码库中是否存在每个功能。探索（验证代码中存在的功能）完成（18 个工具使用·98.3k 代币·1m 3s）根据我的验证，这是诚实的评估：✅ 已确认工作（9 个功能） [功能列表] 我： 我需要一个演示或有关其工作原理的链接 - 无需登录即可公开浏览 Claude： ❌没有公共浏览页面宠物主人无需登录即可查看服务 ❌没有公共服务目录 ❌没有“浏览然后登录预订”的服务 ❌流程 我的建议从发行说明中完全删除此内容或准确地重写它。 ✻ 烘焙了 1m 0s  X 和 Reddit 上的骗子： 哦，是的，Claude 使用 Opus 4.5 编写的代码是高级编程，应该编写 99% 的代码。我什至不知道为什么氛围编码员可以信任这样的东西。我用它来制作一个 2 分页器 html 网站。   由   提交 /u/JustDoIt52   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qikk38/claude_code_opus_45_just_took_our_jobs/</guid>
       <pubDate>Wed, 21 Jan 2026 01:46:21 GMT</pubDate>
     </item>
@@ -109,6 +102,13 @@
       <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qia514/inside_turbopack_building_faster_by_building_less/</guid>
       <pubDate>Tue, 20 Jan 2026 19:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turbopack 内部：通过更少的构建更快地构建</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qi9n3f/inside_turbopack_building_faster_by_building_less/</link>
+      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qi9n3f/inside_turbopack_building_faster_by_building_less/</guid>
+      <pubDate>Tue, 20 Jan 2026 18:45:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
