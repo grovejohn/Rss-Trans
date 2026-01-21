@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 21 Jan 2026 09:24:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 12:24:35 GMT</lastBuildDate>
+    <item>
+      <title>我不小心把互联网变成了多人游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qiwh40/i_accidentally_turned_the_internet_into_a/</link>
+      <description><![CDATA[一时兴起下载了一个 Chrome 扩展程序，突然有一些小人物和我一样在同一个 YouTube 页面上行走。 人们在网站上聊天、收集物品、做任务……。 不知道我是怎么错过的，但感觉就像企鹅俱乐部遇到了现代互联网。 不隶属，只是觉得它很狂野。   由   提交/u/Cornerstone0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qiwh40/i_accidentally_turned_the_internet_into_a/</guid>
+      <pubDate>Wed, 21 Jan 2026 12:22:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何优化React App的内存使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qiw5e1/how_to_optimize_memory_usage_of_the_react_app/</link>
+      <description><![CDATA[大家好！我最近接手了一个项目。它不是很大，但似乎还没有优化。当我查看代码时，我发现使用了近 500 次 usememos 和 usecallbacks，我认为这可能是问题所在。它也使用 CRA。 所以我的问题是，是否有任何方法或工具可以用来识别代码的哪些部分对内存使用造成最大负载？我应该如何解决这个问题？   由   提交/u/ardreth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qiw5e1/how_to_optimize_memory_usage_of_the_react_app/</guid>
+      <pubDate>Wed, 21 Jan 2026 12:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>为已有 4 年历史的 API 客户端保持向后兼容性已经很困难了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qiw06y/maintaining_backward_compatibility_for_4_year_old/</link>
+      <description><![CDATA[从 2021 年开始，我们的移动应用程序仍在使用旧的 json 结构进行 api 调用。无法强制用户更新应用程序，有些是旧版 iOS 版本，无法安装新版本，因此我们只能支持相同数据的 4 种不同响应格式。 每个新功能都需要检查客户端版本是否支持，每个错误修复都需要针对 4 个不同的 api 版本进行测试。我们的代码库有如此多的版本检查，看起来就像瑞士奶酪，到处都有 if 语句检查客户端版本标头。 尝试了 url 路径方法中的 api 版本控制，但客户端仍然向期望新功能的旧版本发送请求。还尝试在 api 网关级别进行转换，但这只是将复杂性转移到其他地方。考虑构建一个兼容层，但这感觉就像承认失败。 真正的杀手是，当我们发现安全漏洞时，我们必须将修复程序向后移植到所有 4 个受支持的版本，测试每个版本，协调部署。上次花了一周时间，仍然破坏了一些我们不知道存在的老客户。 其他公司如何处理这种情况？您是否最终会强制弃用并接受老客户端会崩溃？或者是否有某种管理向后兼容性的模式不需要永远维护并行代码库？   由   提交 /u/Admirable-Ant9783   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qiw06y/maintaining_backward_compatibility_for_4_year_old/</guid>
+      <pubDate>Wed, 21 Jan 2026 11:58:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Visual Studio Code 是基于 Electron 构建的，这是否会让任何人感到困扰？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qivu1s/does_it_bother_anyone_that_visual_studio_code_is/</link>
+      <description><![CDATA[我看到 Electron“apps”受到很多仇恨；典型地，仇恨者使用 Visual Studio Code 或一个分支作为他们的 IDE，这是使用 Electron 构建的。它本来可以轻得多，并且大小&lt;20%。 我的困惑来自于使用 Visual Studio Code 的 Electron 仇恨者的虚伪。  我听到过一些强烈的情绪，比如“如果应用程序是使用 Electron 构建的，我会找到替代方案。” Electron 应用程序对于某些用例来说是可以接受的，还是只是例外？    由   提交 /u/nucleustt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qivu1s/does_it_bother_anyone_that_visual_studio_code_is/</guid>
+      <pubDate>Wed, 21 Jan 2026 11:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈开发者挑战赛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qitrch/full_stack_developer_challange/</link>
+      <description><![CDATA[我正在学习 Web 开发，想要展示我的旅程，并愿意与开发人员联系 我在哪里可以展示我的日常发帖之旅并展示我的进度？ 这个子项目是一个不错的选择吗？   由   提交/u/Forward_Confusion151  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qitrch/full_stack_developer_challange/</guid>
+      <pubDate>Wed, 21 Jan 2026 09:49:26 GMT</pubDate>
+    </item>
     <item>
       <title>编程作为理论构建，第二部分：当制度崩溃时</title>
       <link>https://www.reddit.com/r/webdev/comments/1qirhh9/programming_as_theory_building_part_ii_when/</link>
@@ -13,7 +48,7 @@
       <pubDate>Wed, 21 Jan 2026 07:27:56 GMT</pubDate>
     </item>
     <item>
-      <title>既然计算机可以为我们编码，我们的编码能力就变得不再是一种资产，对吗？</title>
+      <title>既然计算机可以为我们编码，那么我们的编码能力就不再是一种资产了，对吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1qink68/our_ability_to_code_is_becoming_less_of_an_asset/</link>
       <description><![CDATA[对于给定指令可以创建的输出量来说，它的价值似乎越来越低。对于许多编码员来说，现在看来真正的转变是能够将更改隔离为小增量，小而强大的增量。我几乎觉得，即使是学习 React 的基础知识，在此时生成工作样板的能力也变得过时了。 很好奇明年会发生什么。似乎自动化和人工智能管理将变得更加重要，并且确保正确的布局结构将成为重要的事情。又名“在首屏生成一个部分，并在视频右侧号召大家采取行动”。 我会说，也许我们仍然需要设计师，但是开发人员呢？话又说回来，也许我错误地认为开发人员就是编码人员。我犯了这个错误吗？   由   提交 /u/AWeb3Dad   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qink68/our_ability_to_code_is_becoming_less_of_an_asset/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[大家好，我必须为一家小企业制作一个网站，这是我们的家庭朋友之一，所以我免费制作它。 我以前制作过网络应用程序，经常使用 React 和 TypeScript，所以我对网页设计不是一个完全的新手，但问题是这些只是内部应用程序或用于地图应用程序等项目的 PWA。 我的问题是针对像宣传册类型网站这样的营销网站最好用什么？ Vite 作为构建工具，但我知道这是 SPA，而不是那么好的 seo 明智的，我过去只在我所有的网络应用程序中使用 vite，以前从未使用过。 或者对于网站来说，下一个更好的是 SSR 还是 SSG？我听说 vite 有办法切换到 SSG？ 无论如何，我们将不胜感激，我仍然是大学 CS 的学生，所以在像这样的现实世界场景中没有经验！   由   提交/u/HectoLogic20  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qie5tp/marketing_type_website_next_or_vite/</guid>
       <pubDate>Tue, 20 Jan 2026 21:29:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Greatfrontend 溢价值得吗？ ₙₒ</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qicyzu/is_greatfrontend_premium_worth_it_ₒ/</link>
-      <description><![CDATA[我找不到太多关于它是否值得的评论，所以我赶紧买了它，但它根本不值得（至少对我来说）。   该网站理论上很棒，但没有足够的实际有用内容来证明溢价是合理的。   优点：  他们有一个很大的问题库。 他们有一个漂亮且功能齐全的用户界面（令人惊讶的是，其他前端leetcode风格的网站没有功能齐全的用户界面来回答问题） 他们有基于文本的系统设计文章（我在其他地方没有找到它，但这也是一个缺点）    缺点：  它有太多高级问题，但它们都是没有价值的问题，感觉就像空洞的填充物。 它有“学习计划”，但它们只是这些问题的集合，而不是实际的学习计划。 它有“前端系统设计”，但在我看来，它们是一大堆文字，没有任何内容。 不支持 Discord 或电子邮件（我已发送多次电子邮件，但没有回复）。 他们有“100% 现金返还”。如果您查看该网站，但由于没有支持，没有人会回复您的请求。 他们有“退款政策”，但同样没有支持为您退款。    我认为该网站适合练习前端，但我认为不值得获得溢价（在我看来）。我认为对我不起作用的东西可能对你有用，所以我的建议是不要被“销售”所欺骗。深色图案并使用了一段时间，然后决定购买高级版，因为我为自己花在没有东西上的钱感到难过。   由   提交 /u/MirTalion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qicyzu/is_greatfrontend_premium_worth_it_ₒ/</guid>
-      <pubDate>Tue, 20 Jan 2026 20:46:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Meet 反应：我如何对 Emoji 的 WebRTC 通道进行逆向工程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qic2z7/google_meet_reactions_how_i_reverse_engineered/</link>
-      <description><![CDATA[      我厌倦了在 Google Meet 上成为最差的表情符号，因此我对其 WebRTC 消息进行了逆向工程，创建了一个 Google Chrome 扩展程序，该扩展程序显示团队中最流行的表情符号，并允许您按含义和拼写错误进行搜索。   由   提交/u/ArtemFinland  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qic2z7/google_meet_reactions_how_i_reverse_engineered/</guid>
-      <pubDate>Tue, 20 Jan 2026 20:13:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过完全重写后，X 现在正式仅在 Rust 和 Python 上运行。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qibs6g/x_is_now_officially_running_only_on_rust_and/</link>
-      <description><![CDATA[在此之前，该应用程序是基于 Scala、Java、C++ 等的臃肿组合构建的；基本上是多年拼凑而成的弗兰肯斯坦代码。   由   提交 /u/nix-solves-that-2317   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qibs6g/x_is_now_officially_running_only_on_rust_and/</guid>
-      <pubDate>Tue, 20 Jan 2026 20:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页设计 - 入门</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qiadqz/web_design_getting_started/</link>
-      <description><![CDATA[早在 2020 年，我参加了数据训练营课程，并爱上了 html 编码。陷入了 SQL 繁重的工作并退出了网站设计，但想重新开始并自愿为非营利组织创建网站（也许最终会专业地做）。我主要使用 bootstrap、css 和 js，并且只在 github 上托管网站。  所以我的问题是： 当今最相关的编码语言是什么？  您使用什么来托管您的网站？   由   提交 /u/Professional-You3676   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qiadqz/web_design_getting_started/</guid>
-      <pubDate>Tue, 20 Jan 2026 19:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turbopack 内部：通过更少的构建更快地构建</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qia514/inside_turbopack_building_faster_by_building_less/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qia514/inside_turbopack_building_faster_by_building_less/</guid>
-      <pubDate>Tue, 20 Jan 2026 19:03:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

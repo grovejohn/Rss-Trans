@@ -4,13 +4,27 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 21 Jan 2026 09:24:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Jan 2026 12:24:44 GMT</lastBuildDate>
     <item>
-      <title>2026 年我们需要更多开源安全 AI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qippvy/we_need_more_opensource_safety_ai_tools_in_2026/</link>
-      <description><![CDATA[      我一直在开发 Agentic Shield 来保护 LLM 代理免受间接提示注入，在检查类似工具时，我发现了一个名为 Hipocap 的开源项目。它可以处理相同的问题，例如隐藏的越狱和奇怪的提示技巧。很高兴看到开源选项终于出现了。   由   提交/u/ConsiderationDry7581   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qippvy/we_need_more_opensource_safety_ai_tools_in_2026/</guid>
-      <pubDate>Wed, 21 Jan 2026 05:48:21 GMT</pubDate>
+      <title>在 Solana 上构建 Web3 策略游戏 – Chain of Lands 项目概述</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qiwdva/building_a_web3_strategy_game_on_solana_chain_of/</link>
+      <description><![CDATA[项目概述/开发日志。 Chain of Lands 是一款基于 Solana 构建的 Web3 策略游戏，结合了链上治理、非托管钱包交互和 AI 驱动的叙事系统。 核心组件： - 基于 Solana 的链上逻辑和事件映射 - 治理驱动的季节性进程 - AI 驱动的叙述和决策系统 (Eru) - 通过 Twitter (OAuth 2.0) 和 Phantom Wallet 进行安全身份验证 - 非托管、基于钱包签名的交互 - 混合 Web2 / Web3 架构 该项目侧重于透明度、可证明的所有权和社区驱动的进展，而不是投机机制。 存储库包括文档、架构注释，以及正在进行的开发工作。 GitHub（欢迎反馈和讨论）： 👉 https://github.com/RayusDev/chain-of-lands   由   提交 /u/CommercialQuiet6261   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qiwdva/building_a_web3_strategy_game_on_solana_chain_of/</guid>
+      <pubDate>Wed, 21 Jan 2026 12:18:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在作弊吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qiuagx/am_i_cheating/</link>
+      <description><![CDATA[因此，我正在 GitHub 上运行一个规模较小的开源项目，约有 1.2k 颗星（有趣的是，它既不是开发工具也不是库，而是我在线托管的一个超级利基、面向消费者的教育工具）。  最近，我有了自动生成“good first issues”的想法。回购协议旨在鼓励项目增长并增加项目流量。这些问题非常简单，任何在我们的技术堆栈甚至一般编程方面具有 0 经验的人都可以进来，在一分钟内完成它们，打开 PR 并完成它。  你瞧，这个 repo 已经获得了 100 多个新的一次性贡献者以及相应数量的 star 和 fork，以至于我觉得我这样做是在欺骗系统和 GitHub 的算法；自动创建的“良好优先问题”充其量是单调和脑死亡的，即使它们的内容在技术上到达了最终用户，这些问题/贡献除了持续地、人为地夸大我的存储库的明星/分叉/贡献者数量之外，没有提供任何真正有意义的价值。  那么，我是在作弊吗？欢迎所有反馈。    由   提交 /u/tentoumushy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qiuagx/am_i_cheating/</guid>
+      <pubDate>Wed, 21 Jan 2026 10:21:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个轻量级、仅限客户端的电子表格 Web 应用程序。所有数据都保留在 URL 哈希中，以便即时共享，无需后端。可选的 AES-GCM 密码保护无需服务器即可锁定共享链接</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qitjkx/a_lightweight_clientonly_spreadsheet_web/</link>
+      <description><![CDATA[   我们正在构建一个无服务器电子表格工具，可直接将数据保留在 URL 中以进行即时共享。抛弃后端，加密您的工作表，并通过单个链接安全地共享它们。 评论部分中附有存储库链接和演示链接   由   提交/u/lakmal007  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qitjkx/a_lightweight_clientonly_spreadsheet_web/</guid>
+      <pubDate>Wed, 21 Jan 2026 09:35:56 GMT</pubDate>
     </item>
     <item>
       <title>类似于 RSS 的提要，但适用于 Youtube？</title>
@@ -48,7 +62,7 @@
       <pubDate>Tue, 20 Jan 2026 22:15:47 GMT</pubDate>
     </item>
     <item>
-      <title>如果这台小型电脑是真实存在的，什么样的开源项目才能真正推动它的价值？</title>
+      <title>如果这台小型电脑是真实的，什么样的开源项目才能真正推动它的价值？</title>
       <link>https://www.reddit.com/r/opensource/comments/1qicv02/if_this_small_pc_is_real_what_kind_of_open_source/</link>
       <description><![CDATA[我一直在阅读有关 TiinyAI 硬件概念的内容。据称，它是一个手掌大小的 30W 设备，可离线运行 120B 型号。 （来源自 mashable：https://mashable.com/article/ces-2026-tiiny-ai-pocket-lab-ai-supercomputer）。这正是我想象中的人工智能计算机的未来应该是什么样子，小巧而高效。如果该设备是真实的，当您将其与开源环境结合起来时，我已经可以看到很多好处。 我认为的一个场景是执法部门的“案件处理专家”。想象一下 Llama-3 或 Command R+ 的微调版本在巡逻车上本地运行。它可以分析案件详细信息和当地法规，而不会将敏感的公民数据泄露到云 API。或者可能是为偏远地区或灾区的援助团体提供的医疗诊断模型（如 Meditron）。 在我看来，OSS 项目与便携式本地硬件的结合是个人人工智能的最终形式。如果这个设备不是蒸汽波，那么我一直在等待的那一天就不远了。还有哪些具体的开源项目或微调可以在这样的便携式设备上大放异彩？   由   提交 /u/Upstairs_Reading_220   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qicv02/if_this_small_pc_is_real_what_kind_of_open_source/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[我理想的 Spotify 客户端将是您可以像 rofi 一样搜索或像您在互联网上搜索歌曲一样搜索启动器，我所说的有意义吗？问我是否没有意义   由   提交/u/birch_guy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qi6ukg/does_exist_any_good_spotify_client/</guid>
       <pubDate>Tue, 20 Jan 2026 17:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>BusKill 项目年度报告（2025）——开源 Dead Man Switch</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qi5d3m/buskill_project_annual_report_2025_open_source/</link>
-      <description><![CDATA[       由   提交/u/maltfield  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qi5d3m/buskill_project_annual_report_2025_open_source/</guid>
-      <pubDate>Tue, 20 Jan 2026 16:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prisma (psm)：色彩空间转换库（GUI + CLI 工具）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qi4182/prisma_psm_color_space_conversion_librarygui_cli/</link>
-      <description><![CDATA[我开始实现一个 oRGB 色彩空间转换演示，在这样做的同时，我最终深入了解了色彩空间及其背后的数学。我很惊讶在不拉动整个堆栈的情况下只玩色彩空间是多么困难（看看 QT/PhotoShop）。因此，我决定构建一个专注于转换的小型 C++ 库，并使其模块化，以便您可以仅链接所需的内容。 它的作用： - 现代 C++20 色彩空间转换库（与 MIT 合作，为什么不呢）。 - sRGB、AdobeRGB、Display-P3、ProPhotoRGB 和 oRGB 支持。 - 可选的 CLI 和 GUI 演示应用程序，用于探索转换/调整。 - 每个色彩空间都是它拥有自己的模块，因此您可以仅构建/链接您需要的内容（例如仅 AdobeRGB&lt;-&gt;ProPhotoRGB）。  您仍然包含相同的标头（psm/psm.hpp），可用的颜色空间取决于您构建/链接的模块。 我这样做主要是因为我需要构建一些具有挑战性的东西，但我希望它对其他人也有用。  如果您有任何反馈，我会很高兴...API使用，接下来是哪个颜色空间，也许是您一直在努力解决的问题？ 存储库：https://github.com/neg-c/psm    由   提交/u/mrjoker803  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qi4182/prisma_psm_color_space_conversion_librarygui_cli/</guid>
-      <pubDate>Tue, 20 Jan 2026 15:26:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
