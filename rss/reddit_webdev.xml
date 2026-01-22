@@ -4,11 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 22 Jan 2026 09:24:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 12:24:52 GMT</lastBuildDate>
+    <item>
+      <title>2026 年域名从 Squerespace 迁移</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qjt3a4/domains_migration_from_squerespace_in_2026/</link>
+      <description><![CDATA[一年前，我的域名被强制从封闭的 Google Domains 转移到 Squerespace。我想把它们转移到另一个（更便宜的）地方。您可以建议2026年转学去哪里吗？  一般来说，我的 GitHub 基础很小，所以我不需要一些复杂的功能。 我看过这篇文章 https://www.reddit.com/r/webdev/comments/1bjfqse/whats_the_best_domain_registrar_in_2024/ 这些建议仍然有效还是已更改？   由   提交 /u/akryvtsun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qjt3a4/domains_migration_from_squerespace_in_2026/</guid>
+      <pubDate>Thu, 22 Jan 2026 12:20:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>TypeScript 的目的是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qjsuah/what_is_the_purpose_of_typescript/</link>
+      <description><![CDATA[这个问题总是出现，因为 TypeScript 并不是试图取代 JavaScript，而是试图让 JavaScript 更容易扩展。 TypeScript 本质上是具有类型语法的 JavaScript，它的设计使您的 JS 知识仍然适用，因为它是 JavaScript 的超集。目标很简单：在 JS 之上添加静态类型检查，以便团队可以更早地发现错误，并编写随着项目增长而更容易维护的代码。 TypeScript 的很大一部分目的是提供更好的工具。它旨在改善开发人员在编写代码时的编辑器自动完成、重构支持、导航和更快反馈等体验。这在真正的 SaaS 代码库中非常重要，随着时间的推移，新开发人员入职、安全地更改功能以及避免回归变得越来越困难。 TypeScript 还保持实用性，因为它编译为标准 JavaScript，因此您可以在 JS 运行的任何地方使用它，同时在开发过程中仍然获得更强的保证。 那么您在实际项目中有何看法？ TypeScript 是扩展团队和减少 bug 的必备工具，还是当您只想快速交付时有时会感觉额外的开销？   由   提交/u/Best-Menu-252   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qjsuah/what_is_the_purpose_of_typescript/</guid>
+      <pubDate>Thu, 22 Jan 2026 12:08:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>推送和电子邮件通知平台。单信号替代方案。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qjsdy7/push_email_notification_platforms_onesignal/</link>
+      <description><![CDATA[嗨！ 我正在设置推送&amp;我们的应用程序中的电子邮件通知。 Onesignal 正在花自己的时间来验证该帐户。有哪些好的替代方案，希望有慷慨的免费套餐？   由   提交/u/krishna404  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qjsdy7/push_email_notification_platforms_onesignal/</guid>
+      <pubDate>Thu, 22 Jan 2026 11:44:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>速度</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qjs7t5/rate/</link>
+      <description><![CDATA[您觉得我制作的这个网站怎么样？如果您能看一下，我将不胜感激。   由   提交/u/Vsk-0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qjs7t5/rate/</guid>
+      <pubDate>Thu, 22 Jan 2026 11:34:41 GMT</pubDate>
+    </item>
     <item>
       <title>TikTok 将其广告参数命名为 tt-clid 应该成为一个案例研究，说明为什么工程师必须大声朗读内容</title>
       <link>https://www.reddit.com/r/webdev/comments/1qjq0zy/tiktok_naming_their_ad_parameter_ttclid_should_be/</link>
-      <description><![CDATA[谁看了tt-clid（TikTok Click ID）并说：“是的。发货。这里没有问题。”？ 我现在坐在专业会议上，不得不口头提及这件事，但又不能听起来像是我 12 岁，犯了弗洛伊德式的错误，或者主动破坏了自己的信誉 是的，我知道：  tt = TikTok clid = 点击 ID 是的，我知道它遵循 gclid、fbclid、msclkid 的神圣血统。  这并不会改变这样一个事实：当大声说出时，它听起来像是 HR 想要安静聊天的一个词。 这可以通过以下方式避免：  One (1) 人类大声朗读 ttcid tt_click_id ttid 字面上任何不武器化语音的替代方案  但是没有。现在它是不朽的。硬编码到仪表板、URL、归因管道和我个人的地狱中。 我不相信没有人注意到。他们注意到了。他们只是决定我们都必须忍受它。 无论如何。结束咆哮。我现在回过头来说“TikTok 点击参数”。   由   提交 /u/AlexWasTakenWasTaken   [链接] [评论]]]></description>
+      <description><![CDATA[谁看了tt-clid（TikTok Click ID）并说：“是的。发货。这里没有问题。”？ 我现在坐在专业会议上，必须口头引用这件事，但又不能听起来像是我 12 岁，犯了弗洛伊德式的错误，或者主动破坏了自己的信誉 是的，我知道：  tt = TikTok clid = 点击 ID 是的，我知道它遵循 gclid、fbclid、msclkid 的神圣血统。  这不会改变这样一个事实：当大声说出时，它听起来像是 HR 想要安静聊天的一个词。 这可以通过以下方式避免：  一 (1) 个人阅读大声说出来 ttcid tt_click_id ttid 任何不武器化语音的替代方案  但是没有。现在它是不朽的。硬编码到仪表板、URL、归因管道和我个人的地狱中。 我不相信没有人注意到。他们注意到了。他们只是决定我们都必须忍受它。 无论如何。结束咆哮。我现在回过头来说“TikTok 点击参数”。   由   提交 /u/AlexWasTakenWasTaken   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qjq0zy/tiktok_naming_their_ad_parameter_ttclid_should_be/</guid>
       <pubDate>Thu, 22 Jan 2026 09:23:35 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[       由   提交 /u/nix-solves-that-2317   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qjhk68/harper_privacyfirst_offline_grammar_checker/</guid>
       <pubDate>Thu, 22 Jan 2026 02:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果 Firefox 死了，对网络会不会有什么坏处？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qjh4az/is_it_bad_for_the_web_if_firefox_dies/</link>
-      <description><![CDATA[很想听听您支持和反对的想法！需要明确的是，我对 Firefox/Mozilla 并没有任何固有的恶意。 我听过许多播客并阅读过许多主张 Firefox（更具体地说是 Gecko）生存的博客文章。这些争论通常归结为同一个想法：“我们不想再次体验 IE6”。我同意这种观点，我不想再经历一次。 但是，作为一个从“在 IE6 中呈现最佳效果”时代就开始构建网站的人，我真的不觉得我们现在处于与那时相同的境地。甚至还差得很远。 IE6 占据主导地位并非偶然，它比任何替代品都要好得多，直到 Firefox 出现（我是一个非常早期的采用者）。它也是闭源的，并且是当时主流操作系统上的默认浏览器。 如今，我们拥有多种平台（移动、桌面等），并且所有渲染引擎都是开源的。任何人都可以创建新的浏览器，任何人都可以通过源代码影响渲染引擎。还有一些大公司和个人是标准/推荐机构的成员，负责管理 HTML/CSS/JS 的开发。 即使 Firefox 和 Gecko 消失，当前的环境似乎也不利于垄断。相反，网络标准的采用可能会加快，因为 Safari 和 Chrome 通常可以更快地提供新功能（尽管 Temporal 和 Firefox 值得称赞！）。 好奇每个人的想法。仅仅是怀旧/感激之情促使人们支持 Firefox，还是我错过了什么？ 编辑：我应该将这个标题定为“如果 Gecko 死了，对网络有害吗？”因为这才是我真正想要的对话。   由   提交/u/AuthorityPath  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qjh4az/is_it_bad_for_the_web_if_firefox_dies/</guid>
-      <pubDate>Thu, 22 Jan 2026 01:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>社交平台的 API 允许轻松读/写访问用户/帖子/评论，而无需注册企业（独立开发者）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qjexpf/apis_for_social_platforms_that_allow_easy/</link>
-      <description><![CDATA[  href=&quot;https://www.reddit.com/r/webdev/comments/1qjexpf/apis_for_social_tatform_that_allow_Allow_easy/&quot;用于社交平台的 API。在没有注册企业（独立开发者）的情况下访问用户/帖子/评论？&quot; src=&quot;https://b.thumbs.redditmedia.com/m7zvq9-iqwetbitui9z2bzey23ghp9r9j0qdj8zs.jpg&quot; title=&quot;允许/写入访问权限的社交平台 API。注册企业（独立开发者？&quot; /&gt;   /u/Gullibledragonfly131   [链接]   href=&quot;https://www.redtit.com/r/webdev/commentspf/apis_for_social_that_that_haw_allow_allow_haw_easy/&quot;&gt;[评论]]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qjexpf/apis_for_social_platforms_that_allow_easy/</guid>
-      <pubDate>Thu, 22 Jan 2026 00:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>熔岩环</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qjdw8d/lava_rings/</link>
-      <description><![CDATA[       由   提交/u/bigjobbyx   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qjdw8d/lava_rings/</guid>
-      <pubDate>Wed, 21 Jan 2026 23:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>经济实惠的年龄验证服务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qjd1uz/affordable_age_verification_service/</link>
-      <description><![CDATA[我知道我冒着被贬入地狱的风险，但是... 我和你一样讨厌这一点，但不幸的是我必须遵守法律，否则我将向国家支付巨额账单。 我有一些来自当前需要年龄验证的国家/地区的流量，很快一些/所有欧盟国家/地区将要求相同。 我检查了一些处理 ID/脸部来验证年龄的流行第三方服务，它们都有最低每月承诺，例如 300 欧元，这对我来说现在已经很多了。 你知道有什么便宜的服务吗（只需每次验证付费，即使我在那个月有 1 或 2 次验证）？ 非常感谢。 请理解我宁愿不必实现这个狗屎。   由   提交/u/nmp5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qjd1uz/affordable_age_verification_service/</guid>
-      <pubDate>Wed, 21 Jan 2026 22:51:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
