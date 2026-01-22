@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 22 Jan 2026 00:51:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Jan 2026 04:05:51 GMT</lastBuildDate>
+    <item>
+      <title>使用 KadePy (Python) 通过 Hyperswarm 与 Node.js 进行通信 — 最佳实践？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qjgwt2/using_kadepy_python_to_communicate_with_nodejs/</link>
+      <description><![CDATA[大家好，我最近发布了 KadePy，这是一个受 Hyperswarm 启发的 Python 库，目标是使用相同的 swarm/discovery 概念在 Python 和 Node.js 之间实现 P2P 通信。 从那时起我就一直在尝试一种设置： Python 使用 KadePy Node.js 使用 Hyperswarm 两者进入同一个线程并交换二进制消息/流2 到目前为止，它是基本消息的函数，但我希望收到有更多经验的人的反馈： Hyperswarm 内部操作 P2 P 网络 运行时环境之间的通信（Python ↔ Node.js） 一些问题：将基于 Python 的对等体与 Hyperswarm 对等体混淆时是否遇到任何问题在 Node.js 中？ 对于消息查询、握手或广播协议有什么建议吗？ 有人对 CPython 的 C 扩展方法有性能或安全问题吗？ 完全镜像 Hyperswarm API 或维护更 Python 的抽象有意义吗？ 对于那些好奇的人来说，该项目是开源的，并且仍处于早期阶段。我非常感谢社区的任何反馈、批评或想法。 谢谢！   由   提交/u/Shoddy_Use_473   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qjgwt2/using_kadepy_python_to_communicate_with_nodejs/</guid>
+      <pubDate>Thu, 22 Jan 2026 01:31:32 GMT</pubDate>
+    </item>
     <item>
       <title>摩根大通老板表示，人工智能的推出可能需要放慢以“拯救社会” 2026 年达沃斯</title>
       <link>https://www.reddit.com/r/programming/comments/1qj910p/rollout_of_ai_may_need_to_be_slowed_to_save/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我用 AsciiDoc 写作已经有一段时间了，我必须承认一开始很有挑战性，正是因为我无法区分生态系统工具和语言的核心用途。 我看到很多人在要求与 Markdown、LaTeX、Typst 和 reStructuredText 进行比较时都有类似的问题。也许一些比较是有道理的，但如果有一个文档综合了指导AsciiDoc的主要价值观，那么我们应该如何使用它就会更容易理解。 带着这个目标，我编写了AsciiDoc Manifesto并通过Zulipchat。 AsciiDoc Manifesto 还不是正式文档，但它试图指导新用户和想要为生态系统做出贡献的人们。 因此，请随意使用 AsciiDoc Manifesto 作为介绍性文档当您想介绍 AsciiDoc 是什么时，我鼓励您在 zulipchat 上进行互动，这是 AsciiDoc 语言的官方沟通渠道。   由   提交/u/Opposite_West8608   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qivqwl/asciidoc_manifesto_helping_users_understand_its/</guid>
       <pubDate>Wed, 21 Jan 2026 11:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么朴素 SPSC 队列失败 - 分步演练</title>
-      <link>https://www.reddit.com/r/programming/comments/1qivp66/why_naive_spsc_queues_fail_a_stepbystep/</link>
-      <description><![CDATA[我整理了一个简短的视频系列，介绍从头开始构建单生产者/单消费者队列。 当前视频涵盖： • 一个朴素的 SPSC 实现• 为什么它看起来是正确的• 它在哪里崩溃（缓存效果、内存排序假设） 下一步将把它演变成无锁设计，但我想首先分享推理过程，因为这通常被掩盖。 非常欢迎具有实际并发经验的人提供反馈。 https://youtube.com/playlist?list=PLHricCAtcO58\\\_4dKgQOzIT6rl9ke5vS1w&amp;si=3NBWV9fsrlKHnylV   由   提交 /u/okay_vss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qivp66/why_naive_spsc_queues_fail_a_stepbystep/</guid>
-      <pubDate>Wed, 21 Jan 2026 11:42:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
