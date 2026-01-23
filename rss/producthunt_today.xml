@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 23 Jan 2026 18:20:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 21:12:43 GMT</lastBuildDate>
+    <item>
+      <title>锻造代理</title>
+      <link>https://www.producthunt.com/products/rightnow-ai</link>
+      <description><![CDATA[
+            将缓慢的 PyTorch 转变为快速 GPU 内核的 Swarm Agent
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/rightnow-ai</guid>
+      <pubDate>Fri, 23 Jan 2026 00:24:44 GMT</pubDate>
+    </item>
     <item>
       <title>滴滴整理</title>
       <link>https://www.producthunt.com/products/droptidy</link>
@@ -74,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/roam-fm</guid>
       <pubDate>Thu, 22 Jan 2026 16:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>1套</title>
-      <link>https://www.producthunt.com/products/1setter</link>
-      <description><![CDATA[
-            macOS 的一键式系统设置
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/1setter</guid>
-      <pubDate>Thu, 22 Jan 2026 14:42:42 GMT</pubDate>
     </item>
     <item>
       <title>Qwen3-TTS</title>
