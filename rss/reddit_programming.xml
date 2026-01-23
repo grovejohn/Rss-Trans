@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 23 Jan 2026 09:19:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 12:23:31 GMT</lastBuildDate>
+    <item>
+      <title>Markdown Exfiltrator：将 AI 渲染变成数据窃取工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1qkp1bt/the_markdown_exfiltrator_turning_ai_rendering/</link>
+      <description><![CDATA[ 由   提交/u/JadeLuxe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qkp1bt/the_markdown_exfiltrator_turning_ai_rendering/</guid>
+      <pubDate>Fri, 23 Jan 2026 12:05:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何学习编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1qko78r/how_to_learn_programming/</link>
+      <description><![CDATA[嗨，我正在学习 C++，我想擅长它，我做了 2 个非常基本的简单的东西，只是分配变量和东西，我正在 learncpp.com 上做，很好，但我真正想知道的一件事是，我如何不忘记我刚刚学到的东西，有时我不明白什么这意味着，有时我第二天甚至同一天就忘记了，也不知道如何将其付诸实践，请帮忙。   由   提交/u/Southern_Stage_7663   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qko78r/how_to_learn_programming/</guid>
+      <pubDate>Fri, 23 Jan 2026 11:19:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我希望获得作为网络开发人员的实际经验</title>
+      <link>https://www.reddit.com/r/programming/comments/1qkmpnb/im_looking_to_gain_real_world_experience_as_a_web/</link>
+      <description><![CDATA[您好，我叫 Younes，我来自阿尔及利亚，拥有计算机系统工程硕士学位。我已经使用 React 和 Next.js 构建了项目，目前正在学习 FastAPI。我正在寻找免费的远程指导或入门级/初级远程 Web 开发人员角色，这样我可以获得实际经验并实现专业发展。我在工作中学习积极主动、始终如一且舒适。我很感激任何机会或指导。谢谢。   由   提交/u/bady-x   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qkmpnb/im_looking_to_gain_real_world_experience_as_a_web/</guid>
+      <pubDate>Fri, 23 Jan 2026 09:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 索引简介::</title>
+      <link>https://www.reddit.com/r/programming/comments/1qkmmja/introduction_to_postgresql_indexes/</link>
+      <description><![CDATA[ 由   提交/u/Best_Negotiation_801   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qkmmja/introduction_to_postgresql_indexes/</guid>
+      <pubDate>Fri, 23 Jan 2026 09:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cosmic AI - 以美元计算您的技术债务 |在它拖慢你的速度之前修复它</title>
+      <link>https://www.reddit.com/r/programming/comments/1qklqfj/cosmic_ai_see_your_tech_debt_in_dollars_fix_it/</link>
+      <description><![CDATA[嘿 r/programming 我几天前的帖子的快速更新：“开发人员真的将大部分时间浪费在技术债务和技术债务上吗？”工具坏了？”你们的回答令人难以置信——垃圾代码挖掘的故事 (octocode)、几个月的 BSOD bug (Maximus_98)、糟糕的文档孤岛 (AdmiralCarter)、缓慢的 CI (BoBoBearDev) 和残酷的上下文切换 (HarvidDev/AwesomeAvocado)。它验证了痛苦：高达 42% 的时间损失在债务上（Stripe/CodeScene 数据），62% 的开发人员每天浪费 30 多分钟的糟糕文档（DX 2025）。 我听取了您的反馈并构建了 *DebtClear*：扫描您的 GitHub 存储库，可视化热点（重复、复杂性、片状测试），添加工具运行状况标记（缓慢的 CI/片状测试）费率），并生成 ROI 报告（“每季度损失 25,000 美元，节省 3 周”）。另外，还有一个任务优化器可以减少上下文切换。缓解开发人员对执行买入的挫败感。 30 秒演示视频：https://youtu.be/sxwzDOmgY-A?si=hSU4dSDoeXTvFlDh 登陆：https://cosmic-ai.pages.dev/ – 尝试模拟扫描。 前 100 支团队：免费自定义报告 + 299 美元付费试点选项（包括文档健康扫描）。 您觉得怎么样？这能解决你的痛苦吗？欢迎对工具/上下文功能提供反馈！ 谢谢，   由   提交/u/Tech_News_Blog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qklqfj/cosmic_ai_see_your_tech_debt_in_dollars_fix_it/</guid>
+      <pubDate>Fri, 23 Jan 2026 08:48:40 GMT</pubDate>
+    </item>
     <item>
       <title>提供零技术支持的 LLM 软件应在 GLWT 许可证下发布</title>
       <link>https://www.reddit.com/r/programming/comments/1qkl94v/softwares_with_llm_that_offer_zero_technical/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交 /u/trolleid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qka8h4/idempotency_in_system_design_full_example/</guid>
       <pubDate>Thu, 22 Jan 2026 23:23:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>运营商类别；超越记录 - Java 新闻广播内部</title>
-      <link>https://www.reddit.com/r/programming/comments/1qk99wc/carrier_classes_beyond_records_inside_java/</link>
-      <description><![CDATA[ 由   提交/u/davidalayachew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qk99wc/carrier_classes_beyond_records_inside_java/</guid>
-      <pubDate>Thu, 22 Jan 2026 22:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Terminal-Bench：在命令行界面中针对艰巨、现实的任务对代理进行基准测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1qk85hv/terminalbench_benchmarking_agents_on_hard/</link>
-      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qk85hv/terminalbench_benchmarking_agents_on_hard/</guid>
-      <pubDate>Thu, 22 Jan 2026 21:58:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>TigerBeetle vs PostgreSQL 性能：测试设置、本地、单节点测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1qk84ol/tigerbeetle_vs_postgresql_performance_test_setup/</link>
-      <description><![CDATA[ 由   提交 /u/adamw1pl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qk84ol/tigerbeetle_vs_postgresql_performance_test_setup/</guid>
-      <pubDate>Thu, 22 Jan 2026 21:57:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>向 Android (LineageOS) 添加两因素身份验证</title>
-      <link>https://www.reddit.com/r/programming/comments/1qk8120/adding_two_factor_authentication_to_android/</link>
-      <description><![CDATA[ 由   提交 /u/CackleRooster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qk8120/adding_two_factor_authentication_to_android/</guid>
-      <pubDate>Thu, 22 Jan 2026 21:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年科技就业市场现实检验：人工智能的收益、损失以及 2026 年将会发生什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1qk70mt/2025_tech_job_market_reality_check_ai_gains/</link>
-      <description><![CDATA[我对 2026 年的预测：我们将看到人工智能在个人技术角色和整个公司中更深入的融合、净就业增长，但我认为技能提升对于我们个人技术职位至关重要。   由   提交 /u/TheEnormous   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qk70mt/2025_tech_job_market_reality_check_ai_gains/</guid>
-      <pubDate>Thu, 22 Jan 2026 21:14:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
