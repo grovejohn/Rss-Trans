@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 25 Jan 2026 09:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Jan 2026 12:21:46 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个 CLI 工具，可以按含义搜索文件。转发是因为我被烤了（这是理所当然的）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qmh58m/i_built_a_cli_tool_that_searches_files_by_their/</link>
+      <description><![CDATA[我在两三天前发布了这个项目，但由于收到了一些非常有效的批评而将其删除。有人告诉我，我的自述文件看起来像是由 AI 编写的（确实如此），并且仅针对 Windows 发布开发工具是一个糟糕的举动 我花了一些时间手动重写文档并设置正确的 Linux 版本。所以我再试一次 该工具称为语义。我构建它是因为我和我的亲戚不擅长记住确切的文件名。事实上，我在我父亲的旧笔记本电脑上对其进行了真正的测试。我们需要找到大约 15 年前的互联网提供商合同，但对它在哪里却一无所知。我将该工具指向文档文件夹，花了大约 250 分钟来索引所有内容（因为低端 CPU 和旧硬盘），但完成后我只是搜索诸如“互联网服务协议条款”之类的内容。它立即调出一个名为“scan_24ru870934uu34901.pdf”的 pdf 文件或类似的东西。标准搜索在那里失败了，因为文件名只是随机字符，并且里面的文本没有那些确切的关键字 基本上，与 grep（查找确切的模式或单词）不同，它根据文件的含义来查找文件。因此，如果您搜索dog，它可以找到puppy 对于那些对堆栈感兴趣的人：它是Python，使用FastEmbed进行矢量化，使用FAISS进行相似性搜索（今天我听说了usearch，所以我正在考虑使用它）。它 100% 在 CPU 上本地运行，无需 API 密钥。我用 Nuitka 编译了它，因此它现在可以在 Windows 和 Linux 上作为独立的二进制文件运行   由   提交/u/hexada618  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qmh58m/i_built_a_cli_tool_that_searches_files_by_their/</guid>
+      <pubDate>Sun, 25 Jan 2026 11:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>电视 - 智能但开放</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qmfb3f/tv_smart_but_open/</link>
+      <description><![CDATA[我想要一台电视，我想要一台“智能”电视，但显然是开源的。 本质上，我想我想要一台可以插入 Pi 并运行某种电视式操作系统的显示器。 理想情况下，背面有一个洞，可以存放一台小型电脑大小的计算机，以便进行升级。 我知道 Jeff Geerling 在这样的设备上制作了视频；但他拥有的那个对于我的需求来说太大且昂贵，而且它运行在计算模块 iirc 上，如果尺寸、形状或可用性发生变化，这可能会使设备失效。 所以有几个问题： - 有类似的产品吗？ - 我应该购买一台显示器并通过 HDMI 将 Pi 插入后面吗？  - 如果是这样，如果显示器本身有 USB，Pi 可以通过 USB 供电吗？ - 如果我想使用电视遥控器来控制 PI，我是否需要某种 RF 帽子？ - 是否有任何主要的“智能电视”风格操作系统可以完成常规显示器的大部分功能？ 提前感谢您提供的任何建议。   由   提交/u/Conaz9847  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qmfb3f/tv_smart_but_open/</guid>
+      <pubDate>Sun, 25 Jan 2026 10:06:10 GMT</pubDate>
+    </item>
     <item>
       <title>亨塔尔 9.0.0 发布</title>
       <link>https://www.reddit.com/r/opensource/comments/1qmbym8/huntarr_900_released/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Future_Might_8194   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qluaco/made_a_skill_to_control_an_old_android_phone_that/</guid>
       <pubDate>Sat, 24 Jan 2026 18:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布了 Retro Vibecoder - 麻省理工学院许可的用于程序项目生成的 CLI/桌面工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qlt6c6/released_retro_vibecoder_mit_licensed_clidesktop/</link>
-      <description><![CDATA[      嘿 r/opensource！ 我刚刚发布了 Retro Vibecoder 的第一个官方桌面版本，这是我一直在研究的一个项目上。它是一个 CLI 和桌面应用程序，可以从单个种子输入生成完整的软件项目。 **它的作用：** - 以程序方式生成整个项目结构（考虑任何技术堆栈 - C++、Python、Rust、Go 等） - 既可用作命令行工具，也可用作桌面 GUI - 使用算法生成而不是 AI/LLM 方法 - 创建游戏引擎、网络应用程序、系统工具 - 无论你能想象到什么 **许可证：** MIT（完全开源） **我为什么构建它：** 我想要一个可以快速搭建项目的工具，而无需法学硕士的不可预测性。程序方法意味着您可以理解和修改的一致、确定性输出。 **当前状态：** 这是最早的官方桌面版本，因此可能存在一些粗糙的边缘，但核心功能有效。希望得到社区的反馈！ **Repo：** https://github.com/WCNegentropy/retro-vibecoder 很高兴回答有关架构、路线图或如何贡献的任何问题！   由   提交/u/Inknown_Research_43  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qlt6c6/released_retro_vibecoder_mit_licensed_clidesktop/</guid>
-      <pubDate>Sat, 24 Jan 2026 17:33:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 C++ 和 FFmpeg 构建了 DroidCam/iVCam 的开源替代方案（MIT 许可）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qls7fg/i_built_an_opensource_alternative_to/</link>
-      <description><![CDATA[您好r/opensource， 我最近需要为我的桌面安装一个网络摄像头，但由于我的手机摄像头已经支持 4K，所以不想购买新硬件。我研究了流行的解决方案（DroidCam、iVCam、Camo），但我对常见的“免费增值”解决方案感到沮丧。模式：水印、低分辨率限制、广告和闭源二进制文件。 因此，我决定构建 VCamdroid - 一个完全免费、开源且保护隐私的替代方案。 该项目：它允许您将 Android 相机流式传输到 Windows PC，并将其用作 OBS、Zoom 和 Discord 等应用程序中的本机输入。 技术堆栈（有趣的部分）：  Android 应用程序（服务器）： 使用 Camera2 API 和 MediaCodec 对硬件加速的 H.264 RTSP 流进行编码。 Windows 客户端（接收器）： 使用 C++ 和 wxWidgets 编写。它使用 FFmpeg 以低延迟解码流。 虚拟驱动程序：实现 DirectShow 过滤器（基于 Softcam），将视频流注册为系统范围的虚拟设备。 传输：支持标准 Wi-Fi 或 USB 隧道（通过 ADB 端口转发）无延迟有线连接。  为什么我在这里分享它：  无膨胀： 无广告、无跟踪、无“Pro”功能订阅。 仅限本地：视频流永远不会离开您的本地网络（或 USB 电缆）。 MIT 许可证：您可以分叉、破坏它或在其基础上构建。  我目前正在寻找有关 Windows 安装程序和不同设备上的延迟性能的反馈。如果您有 C++ 或 Android 经验，我很乐意看到一些 PR（尤其是音频支持！）。 Repo： https://github.com/darusc/VCamdroid   由   提交/u/KryXus05  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qls7fg/i_built_an_opensource_alternative_to/</guid>
-      <pubDate>Sat, 24 Jan 2026 16:58:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
