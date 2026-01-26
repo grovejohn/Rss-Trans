@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 26 Jan 2026 09:22:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 12:21:22 GMT</lastBuildDate>
+    <item>
+      <title>有人和abbyy合作过吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1qncrtc/has_anyone_worked_with_abbyy/</link>
+      <description><![CDATA[使用 abbyy 有多难？对这项技能或技术的使用会有需求吗？我只是想用这项技术来衡量我的未来，还是应该追求另一种技术？    由   提交/u/GoJustKeepGoing  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1qncrtc/has_anyone_worked_with_abbyy/</guid>
+      <pubDate>Mon, 26 Jan 2026 10:45:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 n8n 工作流程构建不当导致自动化失败时</title>
+      <link>https://www.reddit.com/r/automation/comments/1qnbtbo/when_poorly_built_n8n_workflows_cause_automation/</link>
+      <description><![CDATA[在交付了一个看起来很干净但在生产中会随机失败的内部自动化之后，我通过惨痛的经历了解到了这一点，因为我假设每个节点在错误上都会表现相同，而实际上有些节点支持错误输出，有些不支持，而另一些则悄悄地返回部分数据。结果是无声的失败、记录丢失以及队友完全失去对自动化的信任。真正解决这个问题的方法是像对待真实系统一样对待工作流程：在支持的情况下使用错误输出，在数据库等关键节点上添加简单的成功检查，在链接它们之前验证人工智能响应并添加基本监控，以便我知道什么时候出现问题，而不是从用户那里听到。一旦我用这些原则重建，相同的工作流程运行了数周，没有任何意外，并且以尽可能最好的方式变得无聊。如果您正在处理脆弱的 n8n 自动化并需要帮助使其变得可靠，我很乐意为您提供指导。   由   提交 /u/According-Site9848   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1qnbtbo/when_poorly_built_n8n_workflows_cause_automation/</guid>
+      <pubDate>Mon, 26 Jan 2026 09:49:06 GMT</pubDate>
+    </item>
     <item>
       <title>乐泰自动化？？？！！！</title>
       <link>https://www.reddit.com/r/automation/comments/1qnb4p1/ltk_automation/</link>
@@ -69,25 +83,11 @@
       <pubDate>Sun, 25 Jan 2026 23:34:42 GMT</pubDate>
     </item>
     <item>
-      <title>寻找销售合作伙伴（基于佣金）</title>
-      <link>https://www.reddit.com/r/automation/comments/1qmy5fs/looking_for_a_sales_partner_commissionbased/</link>
-      <description><![CDATA[寻找能够带来自己的潜在客户并预订会议的人。 每笔交易支付 25% 的收入。 您找到潜在客户并进行推销电话 - 预订会议 - 我们一起完成会议并结束会议 - 我将负责提供服务。 我正在招聘，因为我真的没有时间持续进行销售。 我在加拿大工作，上夜班，在非正常工作时间、送货工作和客户电话之间，外向销售不断被推迟。工作在那里，销售时间不在。   由   提交/u/zenit0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1qmy5fs/looking_for_a_sales_partner_commissionbased/</guid>
-      <pubDate>Sun, 25 Jan 2026 22:47:18 GMT</pubDate>
-    </item>
-    <item>
       <title>自动发送电子邮件的免费工具</title>
       <link>https://www.reddit.com/r/automation/comments/1qmw07h/free_tools_to_automate_email_sending/</link>
       <description><![CDATA[      首先，我是自动化领域的初学者。我想创建一个自动化程序，在复选框中输入“确定”会自动向客户发送电子邮件。我尝试使用 Zapier 来完成此操作，但我认为我必须付费。我收到显示的消息。  是否有任何其他相当于 Zapier 的免费工具或实现此自动化的方法？  提前致谢！   由   提交/u/Outrageous_File1039   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1qmw07h/free_tools_to_automate_email_sending/</guid>
       <pubDate>Sun, 25 Jan 2026 21:27:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>当自动化让你更加焦虑时</title>
-      <link>https://www.reddit.com/r/automation/comments/1qmw03z/when_automation_makes_you_more_anxious/</link>
-      <description><![CDATA[曾经构建过自动化的东西......然后不断地想知道它是否仍然有效？ 检查日志、边缘情况、“假设”场景。 那时，它真的减少了工作吗？或者只是将焦虑转移到其他地方？   由   提交/u/Solid_Play416  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1qmw03z/when_automation_makes_you_more_anxious/</guid>
-      <pubDate>Sun, 25 Jan 2026 21:27:03 GMT</pubDate>
     </item>
     <item>
       <title>从HR系统下载文件</title>
