@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 26 Jan 2026 18:22:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 21:15:50 GMT</lastBuildDate>
     <item>
       <title>医生</title>
       <link>https://www.producthunt.com/products/doctective</link>
@@ -46,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/apx-terminal-the-terminal-perfected</guid>
       <pubDate>Sun, 25 Jan 2026 08:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>液体计时器 v2</title>
+      <link>https://www.producthunt.com/products/liquidtimers</link>
+      <description><![CDATA[
+            新样式、更多定制并优化性能。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/liquidtimers</guid>
+      <pubDate>Sat, 24 Jan 2026 21:29:01 GMT</pubDate>
     </item>
     <item>
       <title>嘿交易者</title>
@@ -102,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/jdoodle-ai</guid>
       <pubDate>Wed, 21 Jan 2026 10:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>麻糬焦点</title>
-      <link>https://www.producthunt.com/products/mochi-focus</link>
-      <description><![CDATA[
-            与您一起成长的专注计时器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mochi-focus</guid>
-      <pubDate>Tue, 20 Jan 2026 06:44:18 GMT</pubDate>
     </item>
     <item>
       <title>塔楼</title>
@@ -205,7 +205,7 @@
       <title>论坛</title>
       <link>https://www.producthunt.com/products/basehub</link>
       <description><![CDATA[
-            GitHub 存储库的人工智能问答。
+            针对 GitHub 存储库的人工智能问答。
           
 
 讨论
