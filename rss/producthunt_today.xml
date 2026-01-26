@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 26 Jan 2026 12:23:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 15:21:12 GMT</lastBuildDate>
     <item>
       <title>医生</title>
       <link>https://www.producthunt.com/products/doctective</link>
@@ -48,6 +48,20 @@
       <pubDate>Sun, 25 Jan 2026 08:10:48 GMT</pubDate>
     </item>
     <item>
+      <title>液体计时器 v2</title>
+      <link>https://www.producthunt.com/products/liquidtimers</link>
+      <description><![CDATA[
+            新样式、更多定制并优化性能。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/liquidtimers</guid>
+      <pubDate>Sat, 24 Jan 2026 21:29:01 GMT</pubDate>
+    </item>
+    <item>
       <title>嘿交易者</title>
       <link>https://www.producthunt.com/products/heytraders</link>
       <description><![CDATA[
@@ -60,6 +74,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/heytraders</guid>
       <pubDate>Sat, 24 Jan 2026 16:46:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>波拉浏览器</title>
+      <link>https://www.producthunt.com/products/pola-browser</link>
+      <description><![CDATA[
+            生产力，你的方式
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pola-browser</guid>
+      <pubDate>Sat, 24 Jan 2026 12:39:41 GMT</pubDate>
     </item>
     <item>
       <title>提示</title>
@@ -76,20 +104,6 @@
       <pubDate>Sat, 24 Jan 2026 09:42:22 GMT</pubDate>
     </item>
     <item>
-      <title>拇指快速</title>
-      <link>https://www.producthunt.com/products/thumbfa-st</link>
-      <description><![CDATA[
-            YouTube 缩略图的中途 - 每次都是您的脸
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/thumbfa-st</guid>
-      <pubDate>Sat, 24 Jan 2026 05:21:48 GMT</pubDate>
-    </item>
-    <item>
       <title>JDoodle.ai 2.0</title>
       <link>https://www.producthunt.com/products/jdoodle-ai</link>
       <description><![CDATA[
@@ -102,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/jdoodle-ai</guid>
       <pubDate>Wed, 21 Jan 2026 10:52:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>麻糬焦点</title>
-      <link>https://www.producthunt.com/products/mochi-focus</link>
-      <description><![CDATA[
-            与您一起成长的专注计时器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mochi-focus</guid>
-      <pubDate>Tue, 20 Jan 2026 06:44:18 GMT</pubDate>
     </item>
     <item>
       <title>塔楼</title>
@@ -205,7 +205,7 @@
       <title>论坛</title>
       <link>https://www.producthunt.com/products/basehub</link>
       <description><![CDATA[
-            针对 GitHub 存储库的人工智能问答。
+            GitHub 存储库的人工智能问答。
           
 
 讨论
