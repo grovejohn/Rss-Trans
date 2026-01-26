@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 25 Jan 2026 21:10:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Jan 2026 00:55:07 GMT</lastBuildDate>
+    <item>
+      <title>第 5 天：心跳协议 – 大规模检测失效连接</title>
+      <link>https://www.reddit.com/r/programming/comments/1qn14mc/day_5_heartbeat_protocol_detecting_dead/</link>
+      <description><![CDATA[ 由   提交/u/Extra_Ear_10   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qn14mc/day_5_heartbeat_protocol_detecting_dead/</guid>
+      <pubDate>Mon, 26 Jan 2026 00:49:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>谦虚地捍卫 .zip TLD</title>
+      <link>https://www.reddit.com/r/programming/comments/1qn02yc/in_humble_defense_of_the_zip_tld/</link>
+      <description><![CDATA[ 由   提交/u/yathern   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qn02yc/in_humble_defense_of_the_zip_tld/</guid>
+      <pubDate>Mon, 26 Jan 2026 00:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个速度快 2 倍的词法分析器，然后发现 I/O 是真正的瓶颈</title>
+      <link>https://www.reddit.com/r/programming/comments/1qmznm8/i_built_a_2x_faster_lexer_then_discovered_io_was/</link>
+      <description><![CDATA[ 由   提交 /u/modulovalue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qmznm8/i_built_a_2x_faster_lexer_then_discovered_io_was/</guid>
+      <pubDate>Sun, 25 Jan 2026 23:46:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最高效的同事：12 小时的咖啡店循环（不间断，无限量咖啡因）。</title>
+      <link>https://www.reddit.com/r/programming/comments/1qmzn24/my_most_productive_coworker_a_12hour_coffee_shop/</link>
+      <description><![CDATA[当你需要进入心流状态，但办公室太安静，家里太分散注意力时。这种 12 小时无缝咖啡厅氛围是提高生产力的终极秘诀。它提供了完美的“社交噪音”水平。没有人真正问你问题的风险。 这就像 sudo focus-modeenvironment=cafe。 进入编码区的首选方法是什么？   由   提交 /u/TheMisterBobDobalina   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qmzn24/my_most_productive_coworker_a_12hour_coffee_shop/</guid>
+      <pubDate>Sun, 25 Jan 2026 23:46:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速失败：为什么快速失败胜过缓慢死亡</title>
+      <link>https://www.reddit.com/r/programming/comments/1qmxjft/failing_fast_why_quick_failures_beat_slow_deaths/</link>
+      <description><![CDATA[ 由   提交 /u/trolleid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qmxjft/failing_fast_why_quick_failures_beat_slow_deaths/</guid>
+      <pubDate>Sun, 25 Jan 2026 22:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI能过新生CS吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qmwkax/can_ai_pass_freshman_cs/</link>
+      <description><![CDATA[这个视频很长，但值得一看（我的一个批评是：为什么美国的评分如此宽容？这些模型无法完成任务，仍然得到分数？我认为在世界任何其他地方，如果你提交的程序不能编译或不执行要求的操作，你会得到“0”）。显然，“PHD级别”是模特毕竟很平庸，并不比一年级的学生好。该视频显示，即使是 SOTA 模型也不断重复以前的法学硕士所犯的相同错误： * 模型在简单的任务和问题上反复失败，即使这些任务和问题在训练数据中有很多代表性，而且它们失败的方式非常不直观，这些不是人类会犯的错误。 * 当他们成功时，解决方案是复杂且不直观的。 * 他们不擅长编写测试，他们来的测试无法捕获边缘情况，有时什么也不做。  * 他们不善于遵循指示。鉴于非常详细的分步规范，他们无法提出符合要求的解决方案。他们不断地跳过步骤并发明新的步骤。 * 在像理论问题这样的测验中，他们给出的答案一开始看起来似乎合理，但经过进一步检查后却发现了微妙的错误。 * 提示工程不起作用，向模型提供的信息和上下文有时会给他们正确的答案或推动他们进入答案，但他们选择忽略它。 * 他们不断地在他们将要做什么和做了什么方面撒谎。 * 他们不断地撒谎。 * 这些模型有时仍然会输出无法编译且语法错误的代码。 * 鉴于训练数据中没有新信息，即使有文档，他们也无法充分利用它。 我认为这些模型确实已经变得更好，但在投入数十亿美元之后，LLM 的根本缺陷仍然存在且不容忽视。 以下是视频结尾处的引述：“...现实”使用这些损坏的产品所带来的挫败感，它的一些输出质量极差，它公然对我撒谎的信心，最重要的是，它所触及的一切都完全缺乏创造力，使得输出比我们从真正参加课程的人那里得到的要少得多。在 CS2112 这样的课程上工作的乐趣在于看到学生们在这么多年后仍然继续给我们带来惊喜。如果你把法学硕士平淡、破碎的输出与学生们所发挥的魔力放在一起，这确实不是一个比较。”   由   提交/u/Gil_berth  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qmwkax/can_ai_pass_freshman_cs/</guid>
+      <pubDate>Sun, 25 Jan 2026 21:48:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>生产中的克劳德代码：从基础知识到构建真实系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1qmvyw6/claude_code_in_production_from_basics_to_building/</link>
+      <description><![CDATA[ 由   提交 /u/trolleid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qmvyw6/claude_code_in_production_from_basics_to_building/</guid>
+      <pubDate>Sun, 25 Jan 2026 21:25:47 GMT</pubDate>
+    </item>
     <item>
       <title>自己的编程语言</title>
       <link>https://www.reddit.com/r/programming/comments/1qmv69g/own_programming_langauge/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[嗯，从 1982 年 8 岁起，我已经编码（真实代码）43 年了。在过去 20 年左右的时间里，我的梦想是创建一个采用自然语言输入的软件开发平台，并基于人类语言生成功能软件。 我在视频中创建了该系统，完全使用自然语言。从技术上讲，在前端开发方面，我自己的发明早已超越了我。在后端方面，我仍然更强，但话又说回来，后端是我的强项，而且也好不到哪去，因为我创建了自己的 LLM 来理解自己的 DSL，并且在这方面它也接近与我个人配对。 至于将其与 Lovable 或 Bolt 进行比较？ 好吧，我的东西是 open酱汁等等。您可以在几分钟内使用 Docker 在自己的笔记本电脑上运行它，或者将其安装在 100,000 多台服务器或其他设备上。 其次，我对视频中的应用程序的推理成本是*可能\* 0.10 美元到 0.20 美元，这意味着“我的东西”与另一边的 Lovable 或 Bolt 之间的成本比率可能介于两者之间保守估计为 1 到 20，我怀疑更真实的估计为 1 到 100。 部署模型意味着没有复杂的部署管道。您保存代码，刷新另一个选项卡，进行测试，然后将控制台错误直接粘贴回 LLM - 大多数情况下，它会自行找出如何更正代码。 所需的“连接”为零。到苏帕巴斯。这个东西基于自然语言托管（并创建）自己的数据库。视频中的应用程序有一个数据库、一个 API 和您看到的前端。一切都是使用自然语言自动创建的，并在相同的物理硬件上运行在进程中。 这意味着部署成本也会大幅下降，因为您可以在同一服务器/容器上部署 100 多个这样的“应用程序”。 此外，您可以将其安装在您自己的服务器上（使用 Docker），如果您精通技术的话，可能只需不到 5 分钟（只需记住尽快登录并配置 root 密码！）。 一切都是开放式的，所以你可以研究我是如何构建它的，如果你愿意的话可以改变它，或者在你想要的多个版本中复制它。因此，没有“围墙花园”。 如果您认为上述内容有价值，我将不胜感激，并发表评论。如果您不喜欢这样的东西，请随意表达您的意见 - 但这不是一些“玩具项目”，这是真正的狗屎！我怀疑 Lovable、Bolt 等公司很快就会明白这一点。 嘘，亲爱的管理员， 我只是在这里向我的“老朋友”说“再见”，因为我们还有一些“未完成的事情”。一旦这篇文章获得足够多的反对票，请随时阻止我进入此论坛 ^_^   由   提交/u/IdeaAffectionate945  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qmmxsh/is_vibe_coding_a_thing/</guid>
       <pubDate>Sun, 25 Jan 2026 16:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为高级软件工程师如何应对大型科技公司的行为面试</title>
-      <link>https://www.reddit.com/r/programming/comments/1qmlkx7/how_to_nail_big_tech_behavioral_interviews_as_a/</link>
-      <description><![CDATA[ 由   提交 /u/gregorojstersek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qmlkx7/how_to_nail_big_tech_behavioral_interviews_as_a/</guid>
-      <pubDate>Sun, 25 Jan 2026 15:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hermes Proxy - 另一个 HTTP 流量分析器</title>
-      <link>https://www.reddit.com/r/programming/comments/1qmleiq/hermes_proxy_yet_another_http_traffic_analyzer/</link>
-      <description><![CDATA[ 由   提交 /u/--jp--   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qmleiq/hermes_proxy_yet_another_http_traffic_analyzer/</guid>
-      <pubDate>Sun, 25 Jan 2026 15:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于工作原因一直关注元数据管理空间，并遇到了 Apache Gravitino 试图在其 1.1 版本中解决的一个有趣的设计问题。问题：我们现在有 5 种以上不同的表格格式（Iceberg、Delta Lake、Hive、Hudi，现在用于向量的 Lance），并且每种格式都有自己的特点</title>
-      <link>https://www.reddit.com/r/programming/comments/1qmkv8f/been_following_the_metadata_management_space_for/</link>
-      <description><![CDATA[由于工作原因一直关注元数据管理空间，并遇到了 Apache Gravitino 试图在其 1.1 版本中解决的一个有趣的设计问题。  问题：我们现在有 5 种以上不同的表格式（Iceberg、Delta Lake、Hive、Hudi，现在用于向量的 Lance），并且每种格式都有自己的目录实现、自己的命名空间处理方式以及自己的功能协商。如果您想在所有这些格式上构建统一的元数据层，您最​​终会为每种新格式编写大量样板代码。  他们的解决方案是创建一个通用的 Lakehouse 目录框架，抽象出特定于格式的内容。这个想法是，您定义一个标准接口，用于目录如何协商功能和处理命名空间，然后每种格式实现只是填补空白。 引起我注意的是权衡讨论。一方面，抽象增加了复杂性，有时还会出现泄漏。另一方面，湖舍生态系统也在不断增加新的业态。如果没有这种框架，每一种新格式都意味着重写类似的集成代码。 从软件设计的角度来看，这让我想起了适配器模式，但规模更大。挑战在于弄清楚什么属于抽象接口，什么属于真正的特定格式。 这里有人处理过类似的统一问题吗？喜欢跨多个存储后端或数据库类型构建通用接口吗？很好奇你是如何决定在哪里绘制抽象边界的。  如果有人想深入了解细节，请链接到发行说明：[https://github.com/apache/gravitino/releases/tag/v1.1.0\](https://github.com/apache/gravitino/releases/tag/v1.1.0)   由   提交/u/Agitated_Fox2640   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qmkv8f/been_following_the_metadata_management_space_for/</guid>
-      <pubDate>Sun, 25 Jan 2026 14:42:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>在申请工作或实习之前你有什么策略吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1qmkg0v/do_you_have_any_strategy_before_applying_to_a_job/</link>
-      <description><![CDATA[ 由   提交/u/davygamer18  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qmkg0v/do_you_have_any_strategy_before_applying_to_a_job/</guid>
-      <pubDate>Sun, 25 Jan 2026 14:25:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nano Queries，最先进的查询生成器</title>
-      <link>https://www.reddit.com/r/programming/comments/1qmk23f/nano_queries_a_state_of_the_art_query_builder/</link>
-      <description><![CDATA[ 由   提交/u/vitonsky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qmk23f/nano_queries_a_state_of_the_art_query_builder/</guid>
-      <pubDate>Sun, 25 Jan 2026 14:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想通过用 Rust 制作类似壁纸引擎的东西来提高我对 Rust 的理解？这是个好主意吗？我认为它可能对其他人学习 Windows api 和 dwm 组合层有用！</title>
-      <link>https://www.reddit.com/r/programming/comments/1qmiurn/i_am_trying_to_improve_my_understanding_of_rust/</link>
-      <description><![CDATA[这根本不是广告，我想向喜欢好项目的人展示我的项目，所以我目前正在完成跨平台动态壁纸应用（它也有 4mb XD），它适用于呃 Win 10/11 和 Windows 10 系统。 Linux 是由Tauri rust 制成的。提供非常好的性能，例如 ~2-8% GPU 使用率、自动抓取应用程序中的动态壁纸、支持自动启动等，非常适合使用更少的资源 如果有人可以查看它，我会很高兴，请务必提出改进建议！我需要解决问题！   由   提交/u/That_Sale6314   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qmiurn/i_am_trying_to_improve_my_understanding_of_rust/</guid>
-      <pubDate>Sun, 25 Jan 2026 13:16:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了代理中的手动优先级权重，因此我使用反向基数树代替</title>
-      <link>https://www.reddit.com/r/programming/comments/1qmhw95/i_got_tired_of_manual_priority_weights_in_proxies/</link>
-      <description><![CDATA[大多数反向代理（如 Nginx 或 Traefik）按照您编写域规则的顺序或使用那些烦人的“优先级”来处理域规则。标签。如果您有重叠的通配符，例如 *.myapp.test 和 api.myapp.test，您通常必须玩“优先俄罗斯方块”确保正确的规则获胜。 我想要一些更具确定性和直观性的东西。我想要一个系统，其中最具体的匹配总是获胜，而不必每次添加子域时都修改配置权重。 我最终构建了一个反向基数树。基本思想是域层次结构实际上是从右到左：test -&gt; myapp -&gt; api。通过用点分割域并在将它们放入树中之前反转这些段，数据结构最终匹配 DNS 实际工作的方式。 为了处理多个模式可能匹配的情况（例如 api-* 与 *），我添加了一个“文字密度”分数。解析器计算一个段中有多少个非通配符，并尝试“最密集”的字符。 （最具体的）首先。当您沿着树走下去时，这种情况会自然发生，因此层次结构本身充当过滤器。 我写了一篇关于逻辑、评分如何工作以及如何使用命名参数来补充动态上游的文章： https://getlode.app/blog/2026-01-25-stop-playing-priority-tetris 你们如何处理复杂的通配符路由？您是否认为手动权重是一种不可避免的罪恶，还是更喜欢这样的分层方法？   由   提交/u/robbiedobbie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qmhw95/i_got_tired_of_manual_priority_weights_in_proxies/</guid>
-      <pubDate>Sun, 25 Jan 2026 12:30:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
