@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 26 Jan 2026 21:14:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 00:53:05 GMT</lastBuildDate>
+    <item>
+      <title>剪辑很好但太长的场景——你是怎么做到的？</title>
+      <link>https://www.reddit.com/r/editors/comments/1qnt556/cutting_scenes_that_are_good_but_way_too_long_how/</link>
+      <description><![CDATA[这里是文档编辑器。 我一遍又一遍地遇到同样的事情。 我有一个有效的场景。从情感上来说，它就在那里，从故事角度来说，它很扎实。 但它很长。大约 15-20 分钟长。而且需要是 4-6。 一般不问故事结构。 我说的是那个特定的时刻，你知道场景很好，但你也知道很多东西必须去掉。 我很好奇其他剪辑师实际上是如何处理这部分的。 你会先决定目标长度，然后开始剪辑吗？ 你标记“核心”时刻，然后其他一切都变成了可以协商吗？ 你只是开始修剪，看看什么能幸存下来吗？ 还是说当时主要是直觉和经验？ 不是在寻找工具或捷径，只是真正对人们如何思考这个问题感兴趣。   由   提交 /u/Upstairs-Winter-4359   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1qnt556/cutting_scenes_that_are_good_but_way_too_long_how/</guid>
+      <pubDate>Mon, 26 Jan 2026 21:13:12 GMT</pubDate>
+    </item>
     <item>
       <title>FCPXML 到 XML</title>
       <link>https://www.reddit.com/r/editors/comments/1qnrw64/fcpxml_to_xml/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[参考链接https://vimeo.com/1157996480/5a782291e8?share=copy&amp;fl=sv&amp;fe=ci 。在我看来，这要么是网站上的模板，要么是 iPhone 录制的。我得到了一些图像来进行类似的编辑，想知道你会如何去做。如果有可用的模板就太好了。在 AE 或 Premiere 中重建它似乎有点困难。系统规格：MacBook Pro M1 Max 64GB//软件规格：Premiere Pro V.26.0.0 .//素材规格：JPEG 图像   由   提交 /u/whitehennessey   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1qm0utx/wondering_how_this_was_done/</guid>
       <pubDate>Sat, 24 Jan 2026 22:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>导出 Davinci Resolve 20 Studio 时间线以用于 Final Cut Pro</title>
-      <link>https://www.reddit.com/r/editors/comments/1qlw1iw/exporting_davinci_resolve_20_studio_timeline_for/</link>
-      <description><![CDATA[我正在和一个朋友一起做一些基础工作，我用 Panasonic GH6 拍摄，用 Davinci Resolve 20 Studio 剪辑，他用 Final Cut Pro 剪辑。 1 月 20 日，我和他一起拍摄了一天，镜头直接从相机传输到他的 MacBook Pro。我回到家并将相同的镜头传输到我的 MacBook Pro 上。我们有相同的镜头，同一张卡上的相同名称。  我在达芬奇解析中创建了一个新的时间线，并浏览了素材，修剪了剪辑以删除多余的部分。只保留有趣的部分。我没有对其他任何内容进行任何编辑。只是试图简化他的工作流程。我将时间线导出到 FCPXML 文件并发送给他。  他导入了 XML，并尝试重新链接媒体，但收到以下错误。 “无法重新链接文件。 原始文件和新文件具有不同的音频源和通道数。 重新链接的文件必须与原始文件具有相同的媒体类型和相似的音频通道，并且必须足够长以覆盖引用该文件的所有剪辑。” 这是我提供的内容这是 GH6 录制 4 通道单声道时出现的音频错误。我刚刚注意到达芬奇解析自动创建新的立体声音频通道，而相机音频是单声道。所以我最后一次尝试将时间线中的所有 4 个通道更改为单声道以匹配相机。如果这不起作用，我还可以尝试其他方法吗？ 这是我第一次尝试导出时间线，请原谅我的无知。    由   提交/u/ippielb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1qlw1iw/exporting_davinci_resolve_20_studio_timeline_for/</guid>
-      <pubDate>Sat, 24 Jan 2026 19:17:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
