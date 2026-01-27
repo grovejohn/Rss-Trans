@@ -4,7 +4,49 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 27 Jan 2026 18:23:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Jan 2026 21:11:05 GMT</lastBuildDate>
+    <item>
+      <title>APFS/NTFS 的开源工具？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qoqk7g/open_source_tools_for_apfsntfs/</link>
+      <description><![CDATA[有没有可以写入 Windows 上的 APFS/HFS 或 Mac 上的 NTFS 的开源工具？我见过可以读但不能写的免费工具。   由   提交 /u/Myfirstreddit124   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qoqk7g/open_source_tools_for_apfsntfs/</guid>
+      <pubDate>Tue, 27 Jan 2026 21:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放发明网络展望开源专利保护的未来</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qoq8ty/the_open_invention_network_looks_to_the_future_of/</link>
+      <description><![CDATA[       由   提交 /u/CackleRooster   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qoq8ty/the_open_invention_network_looks_to_the_future_of/</guid>
+      <pubDate>Tue, 27 Jan 2026 20:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>OSS TrustPilot / G2 的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qopv7s/opensource_alternative_to_trustpilot_g2_for_oss/</link>
+      <description><![CDATA[您是否为您的开源软件使用一些评论/评级平台？缺少什么，您希望那里有什么？ 您认为专注于 OSS 的开源评论门户有意义吗？   由   提交/u/Confident-Standard30   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qopv7s/opensource_alternative_to_trustpilot_g2_for_oss/</guid>
+      <pubDate>Tue, 27 Jan 2026 20:39:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNU C 库从源代码迁移到 Linux 基金会托管的 CTI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qopjt2/gnu_c_library_moving_from_sourceware_to_linux/</link>
+      <description><![CDATA[       由   提交 /u/CackleRooster   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qopjt2/gnu_c_library_moving_from_sourceware_to_linux/</guid>
+      <pubDate>Tue, 27 Jan 2026 20:28:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[操作系统] 我为 macOS 制作了一个免费的 Git GUI！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qoomv8/os_i_made_a_free_git_gui_for_macos/</link>
+      <description><![CDATA[       由   提交 /u/lrdvil3   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qoomv8/os_i_made_a_free_git_gui_for_macos/</guid>
+      <pubDate>Tue, 27 Jan 2026 19:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>ctx_ - 简单的上下文切换器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qoncwu/ctx_simple_context_switcher/</link>
+      <description><![CDATA[大家好，我想分享我已经从事了一段时间的项目。 我经营一家小型 DevOps 咨询公司，并与多个客户合作。我的日常习惯是：  export AWS_PROFILE=client-a kubectl config use-context client-a-eks ssh -L 5432:db.internal:5432 bastion &amp; 忘记其中一个并针对错误运行 terraform account  厌倦了它，所以我构建了 ctx - 一个以原子方式处理所有这些的上下文切换器。 bash ctx use client-a-prod  就是这样。 AWS 配置文件、kubeconfig、SSH 隧道、环境变量、K8s、Nomad/Consul - 全部同时切换。提示变为红色，因为它是产品。 它的作用：  在每个环境的单个 YAML 中定义所有内容 AWS SSO 集成 - 检测过期会话，自动登录 SSH 隧道自动启动和自动重新连接 浏览器配置文件 - ctx open url 打开正确的 Chrome/Firefox 配置文件（方便）当客户端有不同的 SSO 提供商时） 生产上下文需要确认 每终端隔离 - 终端 1 可以处于暂存状态，而终端 2 处于生产状态  它不做什么：  不是秘密管理器（但与 Vault、1password、Bitwarden、AWS SSM、GCP sercets 集成...） 不是凭证存储（使用您现有的 AWS 配置文件） 不会取代 kubectx/aws-vault - 与它们一起工作  用 Go 编写，单个二进制文件。 GitHub：https://github.com/vlebo/ctx 文档：https://vlebo.github.io/ctx/ 我知道自我推销帖子可能很烦人，所以真诚地寻求反馈。您目前如何处理多环境切换？我是否遗漏了一些明显的东西？   由   提交 /u/Sufficient_Job7779   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qoncwu/ctx_simple_context_switcher/</guid>
+      <pubDate>Tue, 27 Jan 2026 19:11:05 GMT</pubDate>
+    </item>
     <item>
       <title>一个简单的 Markdown 在线阅读器</title>
       <link>https://www.reddit.com/r/opensource/comments/1qolxrw/a_simple_markdown_online_reader/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[到目前为止，我已经做了一些公关，很少被接受，其他的正在等待。我已经修复了一些错误，并且现在编写了一些琐碎的方法，直到现在我想为一些存在问题的活跃存储库做出贡献，并且经常获得公关，以便我可以更快地获得有关我的代码的反馈。我主要为 python 中的 GenAI 堆栈做出了贡献，而 spring-ai 我主要致力于 python 中的 gen ai 框架   由   提交 /u/Minimum-Row6464   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qoes9t/any_active_repos_i_can_contribute_too_have_made/</guid>
       <pubDate>Tue, 27 Jan 2026 14:06:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>[更新]：qwe v0.3.2</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qob26a/update_qwe_v032/</link>
-      <description><![CDATA[`qwe` 是一个文件优先的版本控制系统，可以跟踪单个文件或作为逻辑组的多个文件。 新增内容： - 开始跟踪非文本文件 - 添加了 `track` 命令以树状格式显示所有跟踪的文件 repo: https://github.com/mainak55512/qwe   由   提交/u/Mainak1224x  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qob26a/update_qwe_v032/</guid>
-      <pubDate>Tue, 27 Jan 2026 11:14:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为后端开发人员可以参与的令人惊叹的开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qoapak/amazing_open_source_projects_to_work_on_as_a/</link>
-      <description><![CDATA[我正在寻找一些令人惊叹且有趣的后端开源项目，以便在贡献的同时学习新东西。 大家请给我关于我应该使用哪些项目的建议。 我了解 Java 和 Go，所以我想在其中工作   由   提交 /u/Professional_Tie_471   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qoapak/amazing_open_source_projects_to_work_on_as_a/</guid>
-      <pubDate>Tue, 27 Jan 2026 10:54:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sitepins 克隆/开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qo9cqv/sitepins_cloneopen_source/</link>
-      <description><![CDATA[我正在使用 sitepins.com 发布博客文章。它非常简单，功能很多。但某些功能也是需要付出高昂代价的。有什么替代建议吗？   由   提交 /u/VortexHawk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qo9cqv/sitepins_cloneopen_source/</guid>
-      <pubDate>Tue, 27 Jan 2026 09:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布了 100 多个开源仪表板 UI 块</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qo915s/just_released_100_opensource_dashboard_ui_blocks/</link>
-      <description><![CDATA[      使用 React、Tailwind 和 Base UI 构建的开源 shadcn/ui 组件、块和布局。  48+ UI 块 3 个网站模板 100+组件  💡 包含 18 多个仪表板 UI 块：  仪表板外壳 – 1 块 图表 – 4 块 统计 – 2 块 小部件 – 2 块 表格 – 1 块 侧边栏 – 1块 顶部栏 – 1 块 对话框 – 1 块 下拉菜单 – 2 块 表单 – 1 块   🔗 查看它们： - https://github.com/shadcnspace  构建更快，发货更智能，轻松创建漂亮的仪表板！ 这款 Shadcn 组件专为  SaaS 产品 管理仪表板 营销网站 内部工具 早期产品  如果您重视速度、清晰度和可维护的 UI，那么它自然适合您的工作流程。   由   提交/u/isanjayjoshi  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qo915s/just_released_100_opensource_dashboard_ui_blocks/</guid>
-      <pubDate>Tue, 27 Jan 2026 09:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于启发式的关系推理引擎，可分析字段名称以使用模糊匹配和置信度评分来检测集合间关系</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qo8sk9/a_heuristicbased_relationship_inference_engine/</link>
-      <description><![CDATA[       由   提交/u/Complete-Ad-240   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qo8sk9/a_heuristicbased_relationship_inference_engine/</guid>
-      <pubDate>Tue, 27 Jan 2026 09:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们怎么知道是否值得在 GitHub / homebrew 分布式项目上花费时间？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qo84ph/how_do_you_guys_know_if_worth_it_to_use_time_on/</link>
-      <description><![CDATA[我有一个在 GitHub 上开源并通过自制软件分发的项目。它没有任何分析/遥测，自制软件也不提供。基本上，我衡量参与度的唯一渠道是 GitHub 星星（很少）或发送问题的人（无）。 你们都想出任何方法来获取更多详细信息吗？是否已使用或安装等？很高兴知道动机。 编辑：显然 GitHub 会进行计数，并且可以使用开放 api 进行查询， curl -s https://api.github.com/repos/user/repo/releases | jq &#39;.[] | {标签：.tag_name，资产：[.assets[] | {名称：.name，计数：.download_count}]}&#39;   由   提交 /u/ittrut   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qo84ph/how_do_you_guys_know_if_worth_it_to_use_time_on/</guid>
-      <pubDate>Tue, 27 Jan 2026 08:22:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
