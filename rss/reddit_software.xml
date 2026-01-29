@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 29 Jan 2026 04:24:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 06:32:43 GMT</lastBuildDate>
+    <item>
+      <title>你好</title>
+      <link>https://www.reddit.com/r/software/comments/1qq0pgj/hi/</link>
+      <description><![CDATA[女孩们说她们可以在我的小丑鱼变声器中听到自己的声音，而我使用耳机，有人可以帮助我吗？   由   提交/u/Pitiful-Tomatillo364   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qq0pgj/hi/</guid>
+      <pubDate>Thu, 29 Jan 2026 06:12:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ubuntu 服务器，下一步，最好在其上运行？</title>
+      <link>https://www.reddit.com/r/software/comments/1qq01jd/ubuntu_server_next_step_best_thing_to_run_on_it/</link>
+      <description><![CDATA[ 由   提交 /u/AirlineOk7560   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qq01jd/ubuntu_server_next_step_best_thing_to_run_on_it/</guid>
+      <pubDate>Thu, 29 Jan 2026 05:37:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法将 .swf 转换为单独的 .jpg 文件？</title>
+      <link>https://www.reddit.com/r/software/comments/1qq00mw/is_there_a_way_to_convert_an_swf_to_separate_jpg/</link>
+      <description><![CDATA[所涉及的 swf 文件有 20frame/swf，每个帧都不同，我想知道您是否知道一种方法来“提取”swf 文件。帧作为单独的 jpg 文件。   由   提交 /u/BlackTadius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1qq00mw/is_there_a_way_to_convert_an_swf_to_separate_jpg/</guid>
+      <pubDate>Thu, 29 Jan 2026 05:36:17 GMT</pubDate>
+    </item>
     <item>
       <title>我在构建可在移动浏览器上运行的快速 PDF 压缩工具中学到的知识</title>
       <link>https://www.reddit.com/r/software/comments/1qpwg0d/what_i_learned_building_a_fast_pdf_compression/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好， Teamviewer 故意将其具有永久许可的旧版本软件变砖。我不想给他们额外的钱并奖励他们的卑鄙行为。 我正在寻找有关 Teamviewer 替代品的建议 - 我们真正想要的是核心功能，您可以快速安装客户端软件，并且某人（客户）可以轻松连接到该机器并控制它，大概需要 ID 和密码。如果您熟悉 Teamviewer 或 RustDesk，则此功能是最佳选择： https://imgur.com/a/Q33VnpW 无需使用其他证书、密钥或目标服务器配置。您实际上可以在电话上告诉客户一组简单的凭据，例如在他们从供应商网站安装库存/默认软件后，他们就可以“进入”网站。基本上，我们的用例是为学生设置实验室机器，他们可以使用几个月，我们希望他们的连接尽可能简单，而且我们不必自行托管服务器（如 RustDesk 要求）。 要求  加密连接（不能像 RustDesk 的公共基础设施那样解密）是） 只有端点（实验室机器）需要获得许可。我们不想在客户端执行某种许可程序。基本上，如果只有一侧“如果连接的一部分需要获得许可（而不是两者都获得许可），那么我们就可以了 在客户端创建一个免费帐户以便使用该软件是可以接受的 需要支持 Windows，并且至少需要一个主要的免费 Linux 桌面发行版（最好是 Ubuntu，尽管 CentOS 也可以工作） 每个 Teamviewer 通道的费用约为每年 530 美元，而且我们有十几个通道（同时连接）允许）。 Teamviewer 拥有我们根本不需要的所有这些额外垃圾，因此我们希望找到另一个提供商，可以以大约一半的成本提供基本的远程桌面功能。每个通道每月大约 20-30 美元。 不需要移动设备支持 至少需要两个（最好是三个）用户能够同时连接到任何一台实验室计算机。 [可选]如果工作场所防火墙非常严格，客户可以使用 Web 客户端，这将是理想的选择。过去我们曾遇到过这样的情况：客户不被允许安装 Teamviewer 软件，但他们能够利用 Teamviewer Web 客户端功能仍然从浏览器中连接到我们的实验室计算机。显然，功能有点有限，但对于我们的目的来说已经足够了。如果 Web 客户端需要许可程序/凭证，那也没关系，因为这种情况很少见。    由   提交 /u/Immediate-Catch-8134   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qpep8n/paid_software_recommendation_remote_desktop/</guid>
       <pubDate>Wed, 28 Jan 2026 15:39:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用适用于 RAG、机器人和时间序列数据的 SDK 构建本地优先的知识图引擎 - 寻找测试人员。很高兴付啤酒钱！ :)</title>
-      <link>https://www.reddit.com/r/software/comments/1qpeklp/built_a_localfirst_knowledge_graph_engine_with/</link>
-      <description><![CDATA[我一直在研究 SYNRIX，一个持久性知识图引擎，并在其上构建了一些 SDK。我正在寻找开发人员尝试它们并分享反馈。 什么是 SYNRIX？ 本地优先的知识图引擎，具有：  O(1) 次查找和 O(k) 语义查询（k = 结果，而不是数据集大小） ACID 保证和崩溃安全持久性 内存映射存储，可扩展到 RAM 之外 亚微秒性能适用于实时工作负载 100% 本地 - 不依赖云，离线工作  可用 SDK：  RAG SDK - 用于 LLM 的本地 RAG   带嵌入的文档存储 语义搜索（10-20ms 延迟） 本地嵌入（句子转换器，无 API 密钥） 云矢量 DB 的直接替代品   机器人 SDK (RoboticsNexus) — 机器人的持久内存   传感器数据存储（相机、LiDAR、IMU、GPS） 具有崩溃恢复功能的状态管理 动作/轨迹记录 时间索引状态检索 断电后恢复操作   Time-Series SDK — 高效的时间戳数据存储   快速插入和范围查询 聚合和下采样 基于标签的过滤 针对物联网、监控和分析进行了优化  为什么我发帖： 我想要开发者的真实反馈。这些都是免费试用的，我正在寻找诚实的答案：  它是否像宣传的那样工作？ 性能比您正在使用的更好吗？ 缺少什么？ 您真的会使用这个吗？  您会得到什么：  带有一键安装程序的完整 SDK 软件包 完整的文档和示例 本地执行（没有数据离开您的计算机） 性能比较指南  如果您有兴趣测试其中任何一个，请私信我，我会将软件包发送给您。也很高兴在这里回答问题。 感谢您的阅读！   由   提交 /u/DetectiveMindless652   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qpeklp/built_a_localfirst_knowledge_graph_engine_with/</guid>
-      <pubDate>Wed, 28 Jan 2026 15:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的免费图像搜索软件</title>
-      <link>https://www.reddit.com/r/software/comments/1qpe9s4/free_image_search_software_for_windows/</link>
-      <description><![CDATA[我需要一个宏工具，可以在桌面上查找图像并单击它。我尝试了很多软件，但是当图像出现时，它会移动，旋转，有时它有不同的背景，所以它们都不起作用（我尝试了宏记录器，sikulix，自动热键）   由   提交/u/tHeNoThlnG_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qpe9s4/free_image_search_software_for_windows/</guid>
-      <pubDate>Wed, 28 Jan 2026 15:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道这是从哪里来的？</title>
-      <link>https://www.reddit.com/r/software/comments/1qpdyqe/does_anyone_know_where_this_is_from/</link>
-      <description><![CDATA[两天前，我的《我的世界》不再在全屏模式下向我显示鼠标，这也是我启动 MC 时看到的弹出窗口，我以前从未见过这个程序，也不知道它叫什么，所以我也可以禁用它。  https://preview.redd.it/w1wwx9h9w3gg1.jpg?width=512&amp;format=pjpg&amp;auto=webp&amp;s=e3aaca6874b7fc07fadda1ca6b1fb2aabd8fbc3d   由   提交 /u/Kimisage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qpdyqe/does_anyone_know_where_this_is_from/</guid>
-      <pubDate>Wed, 28 Jan 2026 15:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
