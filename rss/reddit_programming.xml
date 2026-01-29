@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 29 Jan 2026 00:58:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 04:24:33 GMT</lastBuildDate>
     <item>
-      <title>拳头力量</title>
-      <link>https://www.reddit.com/r/programming/comments/1qpszm4/hnefatafl/</link>
-      <description><![CDATA[我创建了一个版本的 [哥本哈根 Hnefatafl](https://hnefatafl.org/history.html)。 它包括引擎、服务器、客户端和 AI。它是用 Rust 构建的。服务器 使用自定义协议在 TCP 上运行，该协议使用 [RON](https://github.com/ron-rs/ron) 与纯文本一起进行序列化。单行就是一条消息。 客户端是使用 [iced](https://github.com/iced-rs/iced) 构建的，因此它是一个 桌面和移动应用程序，而不是浏览器应用程序。该客户端具有许多 功能，并被翻译成多种语言。它还支持iced 支持的所有内容的热键。 其中一个功能是评论游戏。你可以玩出任何你喜欢的变化，并使用人工智能来建议动作。完成游戏后，它会保存在服务器上，要查看它，您只需单击“获取存档游戏”即可。您可以通过ID识别该游戏。 我正在寻找更多人来玩。我支持玩时间较短的实时游戏和持续数天的较长游戏。 如果您对人工智能感兴趣，我们也将不胜感激。我 目前认为在 [burn](https://github.com/tracel-ai/burn)获得强化支持 学习之前我不会再做更多的工作。 欢迎任何建议或评论，谢谢。   由   提交/u/Confident_Orchid_902   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qpszm4/hnefatafl/</guid>
-      <pubDate>Thu, 29 Jan 2026 00:20:31 GMT</pubDate>
+      <title>真的厌倦了 googlesheets 上的普通 html 输出</title>
+      <link>https://www.reddit.com/r/programming/comments/1qpubic/got_real_tired_of_vanilla_html_outputs_on/</link>
+      <description><![CDATA[好吧 从 Google 表格导出的普通 HTML 实在是丑陋（如下所示：img） 这对我来说不起作用，我想要一个可以一键处理我需要的解决方案（可定制的、现代的 HTML 输出。）。我尝试了很多网站，但大多数要么不起作用，要么要我付费。我知道我可以自己构建它，所以我自己承担了它！ 我构建了轻量级提取器，可以读取 Google 表格并输出结构化数据格式，可以在网站、应用程序和脚本等中使用。 这是前后对比，以便我们进行比较。 （此处显示：imgur） 到为了让您了解幕后发生的情况，我使用了一些特定的数学方法来防止输出崩溃。 当您合并电子表格中的单元格时，API 只是为我们提供开始和结束坐标。为了在 HTML 中实现这一点，我们必须手动计算 rowspan 和 colspan：  Rowspan: $RS = endRowIndex - startRowIndex$ Colspan: $CS = endColumnIndex - startColumnIndex$ 跳过逻辑： 对于每个坐标$(r, c)$ 在不是左上角的范围内，代码分配一个“跳过”状态，以便表格不会双重渲染单元格。  Google 将颜色表示为分数（0.0 到 1.0），但浏览器需要 8 位整数（0 到 255）。  公式： $Integer = \lfloor Fraction \times 255 \rfloor$ 示例：如果 API 返回红色值 0.1215，则代码会执行 Math.floor(0.1215 * 255) 以获得 CSS 的 31 rgb(31, ...) 值。  要在您不告知的情况下找出数据的起始位置，该工具“分数”前 10 行查找最佳标题候选：  分数 ($S$)： $S = V - (0.5 \times E)$  $V$：行中唯一的非空文本字符串的数量。 $E$：“噪声”的数量。单元格（空、“-”、“0”或“null”）。  约束：如果有任何非空值重复，分数将自动设置为 -1，因为标题通常需要唯一。  该工具还将传统电子表格边框类型转换为现代 CSS：  SOLID_MEDIUM $\rightarrow$ 2px 实心 SOLID_THICK $\rightarrow$ 3px 实心 DOUBLE $\rightarrow$ 3px double  它确实节省了时间，仅此而已对我来说很重要，哈哈。 该项目在 MIT 许可证下完全开源。   由   提交/u/Either-Grade-9290   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qpubic/got_real_tired_of_vanilla_html_outputs_on/</guid>
+      <pubDate>Thu, 29 Jan 2026 01:16:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>SDL2 TTF 到纹理</title>
+      <link>https://www.reddit.com/r/programming/comments/1qptz41/sdl2_ttftotexture/</link>
+      <description><![CDATA[SDL2 有两种方式将图像渲染到窗口：表面和纹理。据我所知，纹理被认为是默认选择，因为它们可以进行硬件加速。但对于使用 TTF 文件的文本渲染，主要库/扩展似乎是 SDL2_ttf，它仅支持表面。这个新函数将字形（字符图像）加载到纹理中。 抱歉，这是一个视频而不是一篇文章，可能不是理想的格式，但概述如下： - C - 使用 FreeType（与 SDL2_ttf 相同）加载 TTF 数据 - 字形被加载到包含像素缓冲区的 FT_Face 中 - 像素缓冲区必须重新格式化，因为SDL2似乎没有直接正确解释缓冲区的像素格式  - 性能比使用SDL2_ttf + 将表面转换为纹理更好   由   提交/u/AdventurousLemon8794  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qptz41/sdl2_ttftotexture/</guid>
+      <pubDate>Thu, 29 Jan 2026 01:01:46 GMT</pubDate>
     </item>
     <item>
       <title>AT&T 于 1998 年推出了 iTunes。这就是他们取消它的原因。 （《MP3 的另一位之父》的姊妹篇）</title>
@@ -18,13 +25,6 @@
       <description><![CDATA[最近我发布了《另一个MP3之父》关于贝尔实验室工程师詹姆斯·约翰斯顿 (James Johnston)，他对感知音频编码的贡献已被载入史册。一些评论者询问商业方面发生了什么； AT&amp;T 是如何设法拥有后来成为 iTunes 的技术却仍然失败的。 这就是那个故事。 Howie Singer 和 Larry Miller 使用 Johnston 的 AAC 编解码器在 AT&amp;T 内部构建了 a2b Music。他们比 iPod 早三年就有唱片合约、有效的下载服务和便携式播放器。他们试图将其解开。 AT&amp;T 于 1999 年 5 月取消了分拆。两周后，Napster 推出。 基于对 Singer（现于纽约大学任教，曾任华纳音乐战略技术主管 10 年）和 Miller（纽约大学索尼音频研究所首任主任）的采访。技术已经准备好了。市场不是。拥有百年历史的电话垄断的许可文化无法以互联网的速度发展。   由   提交/u/Traditional_Rise_609   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qpsw4m/att_had_itunes_in_1998_heres_why_they_killed_it/</guid>
       <pubDate>Thu, 29 Jan 2026 00:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止学习 HTML/CSS：对你的第一份 AI 工作真正重要的 3 种语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1qpsnh4/stop_learning_htmlcss_the_3_languages_that/</link>
-      <description><![CDATA[ 由   提交/u/Western_Direction759   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qpsnh4/stop_learning_htmlcss_the_3_languages_that/</guid>
-      <pubDate>Thu, 29 Jan 2026 00:06:33 GMT</pubDate>
     </item>
     <item>
       <title>缓存为王，路线图</title>
@@ -85,7 +85,7 @@
     <item>
       <title>决定你看到什么的 X 算法演练</title>
       <link>https://www.reddit.com/r/programming/comments/1qpharr/walkthrough_of_xs_algorithm_that_decides_what_you/</link>
-      <description><![CDATA[X 于 1 月 20 日开源了 For You feed 背后的算法 (https://github.com/xai-org/x-algorithm)。 候选检索 两个来源为管道提供数据：  Thunder：内存服务，在 DashMap（并发 HashMap）中保存过去 48 小时的推文，按作者索引。它为您通过 gRPC 关注的帐户提供网络内帖子。 Phoenix：用于发现的两塔神经网络。用户塔是一个具有均值池化功能的 Grok 变压器。候选塔是带有 SiLU 的 2 层 MLP。两者都是 L2 归一化，因此检索只是预先计算的语料库嵌入的点积。  评分 Phoenix 在单个变压器正向传递中对所有候选者进行评分，预测每个帖子的 18 个参与概率 - 点赞、回复、转发、分享、阻止、静音、报告、停留、视频完成等。 高效地进行批处理，而候选者不会影响每个帖子其他人的分数，他们使用自定义的注意力蒙版。每个候选者都会关注用户上下文及其自身，但跨候选者的注意力会被归零。 WeightedScorer 将 18 个预测合并为一个数字。积极的信号（喜欢、回复、分享）会增加分数。负面信号（阻止、静音、报告）会被减去。 然后进行两项调整：  作者多样性 - 指数衰减，因此一位作者无法主导您的 Feed。下限参数（例如 0.3）确保后面的帖子仍然具有一定的权重。 网络外惩罚：来自未关注帐户的 0 个帖子乘以权重（例如 0.7）。  过滤 在评分之前运行 10 个预过滤器（去重、年龄限制、静音关键字、阻止列表、之前通过 Bloom 过滤器看到的帖子）。评分后，可见性过滤器会查询外部安全服务，对话重复数据删除过滤器仅保留每个线程得分最高的帖子。   由   提交/u/noninertialframe96  [链接] [评论]]]></description>
+      <description><![CDATA[X 于 1 月 20 日开源了 For You feed 背后的算法 (https://github.com/xai-org/x-algorithm)。 候选检索 两个来源为管道提供数据：  Thunder：内存服务，在 DashMap（并发 HashMap）中保存最近 48 小时的推文，按作者索引。它为您通过 gRPC 关注的帐户提供网络内帖子。 Phoenix：用于发现的两塔神经网络。用户塔是一个具有均值池化功能的 Grok 变压器。候选塔是带有 SiLU 的 2 层 MLP。两者都是 L2 归一化，因此检索只是预先计算的语料库嵌入的点积。  评分 Phoenix 在单个变压器正向传递中对所有候选者进行评分，预测每个帖子的 18 个参与概率 - 点赞、回复、转发、分享、阻止、静音、报告、停留、视频完成等。 高效地进行批处理，而候选者不会影响每个帖子其他人的分数，他们使用自定义的注意力蒙版。每个候选者都会关注用户上下文及其自身，但跨候选者的注意力会被归零。 WeightedScorer 将 18 个预测合并为一个数字。积极的信号（喜欢、回复、分享）会增加分数。负面信号（阻止、静音、报告）会被减去。 然后进行两项调整：  作者多样性 - 指数衰减，因此一位作者无法主导您的 Feed。下限参数（例如 0.3）确保后面的帖子仍然具有一定的权重。 网络外惩罚：来自未关注帐户的 0 个帖子乘以权重（例如 0.7）。  过滤 在评分之前运行 10 个预过滤器（去重、年龄限制、静音关键字、阻止列表、之前通过 Bloom 过滤器看到的帖子）。评分后，可见性过滤器会查询外部安全服务，对话重复数据删除过滤器仅保留每个线程得分最高的帖子。   由   提交/u/noninertialframe96  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qpharr/walkthrough_of_xs_algorithm_that_decides_what_you/</guid>
       <pubDate>Wed, 28 Jan 2026 17:10:28 GMT</pubDate>
     </item>

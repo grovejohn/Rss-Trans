@@ -4,7 +4,35 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 29 Jan 2026 00:59:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 04:25:40 GMT</lastBuildDate>
+    <item>
+      <title>自动发送</title>
+      <link>https://www.producthunt.com/products/autosend-2</link>
+      <description><![CDATA[
+            面向开发人员、营销人员和 AI 代理的电子邮件
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/autosend-2</guid>
+      <pubDate>Wed, 28 Jan 2026 07:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>转储</title>
+      <link>https://www.producthunt.com/products/dumppp</link>
+      <description><![CDATA[
+            .5s 捕获应用程序可将您的笔记直接发送到 Notion
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dumppp</guid>
+      <pubDate>Wed, 28 Jan 2026 07:26:46 GMT</pubDate>
+    </item>
     <item>
       <title>雇佣孩子</title>
       <link>https://www.producthunt.com/products/employkids</link>
@@ -20,18 +48,18 @@
       <pubDate>Wed, 28 Jan 2026 06:25:56 GMT</pubDate>
     </item>
     <item>
-      <title>指甲</title>
-      <link>https://www.producthunt.com/products/kuku</link>
+      <title>邓社交</title>
+      <link>https://www.producthunt.com/products/dunsocial</link>
       <description><![CDATA[
-            黑曜石——但发生了很多变化
+            社交帖子撰写者可以为您了解您的语气和日程安排
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/kuku</guid>
-      <pubDate>Wed, 28 Jan 2026 06:07:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dunsocial</guid>
+      <pubDate>Wed, 28 Jan 2026 06:22:50 GMT</pubDate>
     </item>
     <item>
       <title>网络新闻连线 7</title>
@@ -60,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/cleanroll-ai</guid>
       <pubDate>Wed, 28 Jan 2026 00:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>棱镜</title>
+      <link>https://www.producthunt.com/products/openai</link>
+      <description><![CDATA[
+            为科学家提供免费的 LaTeX 原生工作空间
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/openai</guid>
+      <pubDate>Tue, 27 Jan 2026 18:48:06 GMT</pubDate>
     </item>
     <item>
       <title>谣言</title>
@@ -132,34 +174,6 @@
       <pubDate>Tue, 27 Jan 2026 09:55:38 GMT</pubDate>
     </item>
     <item>
-      <title>那个方向是什么？</title>
-      <link>https://www.producthunt.com/products/what-s-in-that-direction</link>
-      <description><![CDATA[
-            显示地标、日出/日落 + 黄金时段的指南针
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/what-s-in-that-direction</guid>
-      <pubDate>Tue, 27 Jan 2026 09:54:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>斗篷式</title>
-      <link>https://www.producthunt.com/products/cloakly</link>
-      <description><![CDATA[
-            在屏幕共享期间隐藏应用程序 - 保持您桌面的私密性
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cloakly</guid>
-      <pubDate>Tue, 27 Jan 2026 09:26:45 GMT</pubDate>
-    </item>
-    <item>
       <title>喜欢K2.5</title>
       <link>https://www.producthunt.com/products/kimi-ai-assistant</link>
       <description><![CDATA[
@@ -188,32 +202,18 @@
       <pubDate>Mon, 26 Jan 2026 22:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 iOS 的极简手机应用程序</title>
-      <link>https://www.producthunt.com/products/minimalist-phone-reduce-your-screentime</link>
+      <title>编辑心灵</title>
+      <link>https://www.producthunt.com/products/edit-mind-2</link>
       <description><![CDATA[
-            在 iPhone 上享受更平静的数字排毒体验
+            AI 驱动的本地视频搜索和分析
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/minimalist-phone-reduce-your-screentime</guid>
-      <pubDate>Wed, 07 Jan 2026 18:28:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>想象</title>
-      <link>https://www.producthunt.com/products/imagine-2</link>
-      <description><![CDATA[
-            使用最完整的 AI 构建器构建真实的东西
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/imagine-2</guid>
-      <pubDate>Wed, 24 Dec 2025 06:57:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/edit-mind-2</guid>
+      <pubDate>Mon, 19 Jan 2026 15:30:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
