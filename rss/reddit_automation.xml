@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 30 Jan 2026 18:25:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 21:17:17 GMT</lastBuildDate>
+    <item>
+      <title>话题雷达</title>
+      <link>https://www.reddit.com/r/automation/comments/1qre4qd/topic_radar/</link>
+      <description><![CDATA[       由   提交/u/MickolasJae  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1qre4qd/topic_radar/</guid>
+      <pubDate>Fri, 30 Jan 2026 18:44:51 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Teams 会议的转录内容填充会议纪要报告时遇到问题</title>
       <link>https://www.reddit.com/r/automation/comments/1qr956y/trouble_populating_a_meeting_minutes_report_with/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[我见过很多团队构建了令人印象深刻的代理，但它们在真正用户接触它们的那一刻就崩溃了，这很少是因为模型不好，因为代理从来没有围绕真正的操作约束进行设计。我合作过的一家初创公司有一个代理，它破坏了本地测试，但一旦部署它就开始超时，失去对话状态并快速燃烧预算，因为每一步都会盲目重试。修复方法不是重写提示，而是将代理视为真正的服务：定义显式状态、添加持久内存、构建速率限制的回退以及对所有内容进行检测，以便我们可以了解失败的原因和原因。一旦我们将推理与工作流程分开并围绕上下文添加护栏，成本就会下降，可靠性就会提高，并且代理不再对多步骤任务产生幻觉。如果您认真考虑自定义 AI 代理，请从您的业务流程开始，将其映射为步骤，决定 AI 在哪些方面有帮助，哪些确定性逻辑更安全，并从第一天开始设计可观察性。这就是将实验变成系统的原因。我很高兴为您提供指导。   由   提交 /u/According-Site9848   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1qqz6gl/build_custom_ai_agents_that_actually_work_in/</guid>
       <pubDate>Fri, 30 Jan 2026 07:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>注册量很容易衡量。激活则不然。</title>
-      <link>https://www.reddit.com/r/automation/comments/1qqxtog/signups_are_easy_to_measure_activation_isnt/</link>
-      <description><![CDATA[ 由   提交/u/Characterguru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1qqxtog/signups_are_easy_to_measure_activation_isnt/</guid>
-      <pubDate>Fri, 30 Jan 2026 06:27:00 GMT</pubDate>
     </item>
     <item>
       <title>重要的并不总是定价，而是强大的功能</title>
