@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 30 Jan 2026 09:29:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 12:28:28 GMT</lastBuildDate>
+    <item>
+      <title>我为网络开发人员构建了一个开源图像编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qr3w1t/i_built_an_opensource_image_editor_for_web/</link>
+      <description><![CDATA[      作为一名 Web 开发人员，我经常需要编辑图标和浏览器扩展和应用程序的屏幕截图。我的典型工作流程包括从 ChatGPT 生成的图标中删除背景、裁剪边缘以及导出多个图标大小。我还需要从 iOS/iPad 模拟器中裁剪屏幕截图以满足 App Store 的要求，因为默认的屏幕截图尺寸与 Apple 的要求不符。 我曾经依靠 Photopea 来实现此目的，但他们最近激进的广告拦截检测变得难以忍受 - 几乎每个操作都会触发警报弹出窗口。所以我寻找替代方案：  Photoshop：评论很差，对于只需要基本编辑的人来说太贵 亲和力：看起来不错，但所有 AI 功能都需要订阅，包括我经常使用的背景删除  所以我决定构建自己的。在法学硕士的帮助下，我在两周内就有了一个工作原型。 目标  针对需要快速图像编辑的休闲用户和开发人员，而不是专业艺术家。这意味着不支持 PSD。 使用类似于 VSCode 和 Chrome 扩展的插件 API 使其完全可扩展。  当前状态 该项目具有功能插件系统。任何人都可以开发插件，将它们发布到 npm，它们会自动出现在插件商店中进行安装。 我创建了一些示例扩展：  删除背景：使用本地 AI 模型。初始模型下载约为 80MB，但背景删除会在 1 秒内完成。 图标裁剪：裁剪透明边缘并保持方形区域，对于准备图标很有用 Chrome 扩展程序图标：将 Chrome 扩展程序所需的所有图标大小导出为 zip 文件  技术堆栈 React、TypeScript 和 Canvas API 相对于替代方案的优势  完全可扩展的插件系统 真正的跨平台 与 GIMP 相比更简单的 UI/UX 开源且免费  链接： - 网站：https://pixra.rxliuli.com/ - 文档：https://pixra.rxliuli.com/docs/ - GitHub：https://github.com/rxliuli/pixra - 插件 API：https://pixra.rxliuli.com/docs/plugins/getting-started/ 大部分代码由 Claude Code 编写， GitHub Copilot，尽管我花了很多时间讨论系统设计，特别是围绕插件架构。欢迎提供反馈和贡献。   由   提交 /u/rxliuli   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qr3w1t/i_built_an_opensource_image_editor_for_web/</guid>
+      <pubDate>Fri, 30 Jan 2026 12:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Unity 开发过渡到 Web 开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qr3nx0/transitioning_from_unity_dev_to_web_dev/</link>
+      <description><![CDATA[我是一名 Unity 开发人员（7 岁），目前正在计划逃离 gamedev，哈哈。 现在我正在使用 ASP.NET、React 和 JavaScript 构建一个组合项目。 这里有人经历过类似的道路吗？您的经历如何？ 现在找到一份网络开发工作有多难？   由   提交 /u/Suspicious_Major9549   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qr3nx0/transitioning_from_unity_dev_to_web_dev/</guid>
+      <pubDate>Fri, 30 Jan 2026 12:07:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>为北非女性主导的企业建立“Etsy”。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qr2nae/building_an_etsy_for_womenled_businesses_in_north/</link>
+      <description><![CDATA[我正在建立一个网站，帮助利比亚妇女扩大她们的家庭生意。 想想 Etsy，但专门针对目前以 Instagram DM/FB Messenger 为主要销售方式的新兴市场。这些女性中的大多数都非常有才华（手工艺、时尚、数字服务），但她们完全脱离了任何正式的技术或支付生态系统。 我的计划是建立一个集中的市场和资源网站，而不是在当地的 Facebook 群组上发帖。  这里有人尝试过在新兴/发展中市场构建类似的东西吗？   由   提交 /u/sighqoticc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qr2nae/building_an_etsy_for_womenled_businesses_in_north/</guid>
+      <pubDate>Fri, 30 Jan 2026 11:13:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前正在制作一些前端项目，以便我更好地理解 React！ (Yt:- GreatStack) 视频链接 :- https://youtu.be/sbMHR9K60NY?si=lfaJKvm_WFbT3BJS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qr2ipt/currently_making_some_frontend_project_for_my/</link>
+      <description><![CDATA[       由   提交/u/Chandan__0002  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qr2ipt/currently_making_some_frontend_project_for_my/</guid>
+      <pubDate>Fri, 30 Jan 2026 11:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Lovable/v0 导出构建了一个“后端注入器”，因为我不擅长手动连接 Supabase。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qr24ut/i_built_a_backend_injector_for_lovablev0_exports/</link>
+      <description><![CDATA[我喜欢像 Lovable 这样的 UI 工具。感觉就像魔法一样。但当我导出代码并尝试将其变成真正的 SaaS（具有实际的用户登录、数据库保存和付款）时，魔法就消失了。 我发现自己花了 3 天时间才完成漂亮的 UI 并手动连接 Supabase Auth 和 Stripe/Razorpay。在 10 分钟内构建前端并在 10 天内构建后端感觉很愚蠢。 所以我编写了一个脚本来自动化无聊的部分。它采用 Lovable GitHub 导出并：  转换路由：自动将 React Router 设置转换为 Next.js App Router。 注入身份验证：它通过服务器端身份验证检查包装受保护的页面。 连接数据库：它将 UI 表单连接到真正的 Supabase 表。  我称之为“设计第一”。工作流程。您在 Lovable 中进行设计、导出、运行脚本，然后您就拥有了一个可运行的 SaaS，可以进行支付和登录。 我将该工具作为 PropelKit 的一部分发布（v1.3 今天刚刚发布）。如果您的可爱设计因讨厌后端工作而积满灰尘，这可能会解除您的障碍。   由   提交 /u/SoftAd2420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qr24ut/i_built_a_backend_injector_for_lovablev0_exports/</guid>
+      <pubDate>Fri, 30 Jan 2026 10:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>实现此布局的技巧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qr0uo5/tips_on_achieving_this_layout/</link>
+      <description><![CDATA[      我需要有关如何为时尚品牌构建博客列表页面的提示这样就能给人一种杂志的感觉。我觉得 CSS 网格可以提供帮助，但我对我可能没有考虑到的事情很好奇。一些担忧包括。  如何在此布局中呈现来自 api 的博客列表。我想我必须构建整个布局循环，在列表中将每个博客放入特定的卡片中，然后在遍历每个博客之后，它从头开始。  你觉得怎么样？还有什么我应该考虑的吗？   由   提交 /u/godarchmage   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qr0uo5/tips_on_achieving_this_layout/</guid>
+      <pubDate>Fri, 30 Jan 2026 09:28:51 GMT</pubDate>
+    </item>
     <item>
       <title>LCP 为 11.7 秒，而关键请求链仅为 631 毫秒。我缺少什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1qr0o7v/lcp_of_117s_while_critical_request_chain_is_only/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[      一些背景信息，我在整个 2025 年都遇到了严重的健康问题，但幸运的是，我得到了我迫切需要的医疗帮助，目前还不太可能找到一份面对面的工作，因为我需要省钱才能搬到有大量机会的地方（我住在一个农村，没有任何这个市场的机会）。 非常感谢您对我的简历提供任何帮助。 🫶   由   提交/u/tinker_b3lls   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qqwjyv/roast_my_resumécv/</guid>
       <pubDate>Fri, 30 Jan 2026 05:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>生产 edu 应用程序如何在 React 中存储和渲染结构化课程内容（文本+图像）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qqvz29/how_do_production_edu_apps_store_and_render/</link>
-      <description><![CDATA[他们是否将其存储为 JSON 并拥有某种映射 JSX 的自定义渲染器。或者他们是否使用一些可以轻松添加新内容的 CMS？ 我必须构建这样的东西。任何想法/资源将不胜感激。   由   提交/u/thexavikon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qqvz29/how_do_production_edu_apps_store_and_render/</guid>
-      <pubDate>Fri, 30 Jan 2026 04:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认识的一位 Vive 编码员意外泄露了 1000 封电子邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qqvu4d/a_vibe_coder_i_know_accidentally_exposed_1k_emails/</link>
-      <description><![CDATA[朋友的朋友（经典，我知道）正在使用 AI + 脚本快速构建，进展非常快。 长话短说：错误配置的数据库、公共端点、近 1000 封电子邮件在几个小时内暴露。 没有恶意，只是速度 &gt;  我越来越多地通过氛围编码看到这种情况：  – 没有身份验证检查  – 环境变量硬编码  – 数据库打开是因为“我稍后会修复它” 很好奇：人工智能工具会让这个变得更好还是更糟？ 而且，人们真的这么愚蠢吗？    由   提交 /u/Past-Reply8016   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qqvu4d/a_vibe_coder_i_know_accidentally_exposed_1k_emails/</guid>
-      <pubDate>Fri, 30 Jan 2026 04:43:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextJS + 服务器操作 + Zod - 需要指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qqvggg/nextjs_server_actions_zod_need_a_guide/</link>
-      <description><![CDATA[您好， 我在第一个项目中开始学习和实现 Zod。 我尝试关注 ByteGrad 的视频 - https://www.youtube.com/watch?v=tLhcyBfljYo 但我需要更多通过服务器操作学习 Zod 的资源。有人可以帮助我吗？   由   提交 /u/Fabulous_Variety_256   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qqvggg/nextjs_server_actions_zod_need_a_guide/</guid>
-      <pubDate>Fri, 30 Jan 2026 04:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有其他人觉得应用程序并不真正了解用户想要做什么吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qqv6u3/does_anyone_else_feel_like_apps_dont_really/</link>
-      <description><![CDATA[我一直在做一个小实验，想了解其他开发人员的想法。 当今大多数应用程序都以两种方式公开操作：  UI 组件（按钮、输入、菜单） 我们手动连接的显式 API/命令  但用户的意图是：“添加任务”、“更改”主题”，“导出这个” 我正在探索应用程序是否可以通过观察来学习自己的功能：  存在哪些 UI 元素 用户交互时运行哪些功能  然后让用户通过自然语言触发这些操作，而无需开发人员预先定义每个命令。 非常早，尚未启动任何内容。 非常好奇：  这听起来有用吗？ 还是感觉设计过度/危险？ 您在哪里看到这种破坏？  欢迎真正的反馈。   由   提交 /u/PriorNervous1031   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qqv6u3/does_anyone_else_feel_like_apps_dont_really/</guid>
-      <pubDate>Fri, 30 Jan 2026 04:12:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>已经完成网站，但他们现在想要托管电子邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qqus7u/have_done_website_but_they_now_want_hosted_email/</link>
-      <description><![CDATA[目前，他们有一个 Gmail 地址和一个“域”重定向到它的电子邮件。  拥有托管服务有什么优势吗？他们每月只收到大约 30 封电子邮件，并且发出的电子邮件也可能相同（使用 gmail 地址）。  我能想到的主要缺点是，如果一个人回复了一封电子邮件，其他人不会知道（除非他们被抄送 - 这很容易被忘记）。 我唯一担心的是域名注册的地方（对我来说）似乎有点……降低了费率，甚至将其指向托管也很棘手。意见？谢谢。   由   提交 /u/P2X-555   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qqus7u/have_done_website_but_they_now_want_hosted_email/</guid>
-      <pubDate>Fri, 30 Jan 2026 03:52:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于非企业应用程序的 WorkOS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qqu9ud/workos_for_nonenterprise_applications/</link>
-      <description><![CDATA[有人使用 WorkOS 在消费者应用程序中进行构建身份验证吗？非企业/非 B2B 应用程序？我听说 WorkOS 通过企业和 B2B 的 SSO 等方式赚钱，这就是为什么他们的免费 MAU 等级高达 100 万。 （如果我的假设是错误的，请纠正我）。对于使用过 WorkOS 的用户来说，WorkOS 的易用性、消费者应用程序和其他更简单用例的开发体验如何？   由   提交 /u/izzlesnizzit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qqu9ud/workos_for_nonenterprise_applications/</guid>
-      <pubDate>Fri, 30 Jan 2026 03:28:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
