@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 30 Jan 2026 00:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Jan 2026 04:27:43 GMT</lastBuildDate>
     <item>
-      <title>来自伊朗的巨大感谢：当我们的街道在流血时，你们的自由和开源软件工具确实在拯救生命。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qqq52t/a_massive_thank_you_from_iran_your_foss_tools_are/</link>
-      <description><![CDATA[我是在伊朗写这篇文章的，我觉得我必须向整个开源社区表示感谢，尤其是 Delta Chat 和 Matrix/Element 背后的团队。你们中的许多人可能知道，我们在这里面临频繁且严重的互联网关闭和严格的审查制度。但这不仅仅是无法访问社交媒体的问题。伊朗正在经历极其黑暗和痛苦的时期；人们受到镇压，许多人在街头丧生。在这些完全停电的时刻，当当局试图让我们保持沉默和孤立时，去中心化和自由和开源工具成为我们唯一的生命线。我希望您意识到您的工作对现实世界的影响：您的代码实际上正在拯救生命。当互联网中断、人们受伤或处于危险中时，我们使用这些工具来协调紧急医疗帮助并保持联系。这些不仅仅是“很酷的应用程序”，而且是“很酷的应用程序”。对我们来说；它们是在一个“安然无恙”的地方生存的基础设施。是遥远的记忆。这些工具是开源的并且尊重隐私，这一事实给我们带来了专有软件永远无法提供的安全感。你可能在一个和平的环境中编码，但你的工作是世界上最困难和最血腥的角落的希望灯塔。致 FOSS 社区中的每一位开发人员、贡献者和错误报告者：谢谢。你们对数字自由的承诺正在帮助一个国家为生存而奋斗。继续出色的工作。它比你想象的更重要。 注意：人工智能翻译   由   提交 /u/ TheyCallMeAriya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qqq52t/a_massive_thank_you_from_iran_your_foss_tools_are/</guid>
-      <pubDate>Fri, 30 Jan 2026 00:26:24 GMT</pubDate>
+      <title>Doppelganger：免费的确定性基于块的浏览器自动化，完全开源+新功能</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qqu19g/doppelganger_free_deterministic_blockbased/</link>
+      <description><![CDATA[ 由   提交 /u/AserNasr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qqu19g/doppelganger_free_deterministic_blockbased/</guid>
+      <pubDate>Fri, 30 Jan 2026 03:17:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认为 Google Drive 的最佳替代品是 Proton Drive</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qqtt1v/id_argue_the_best_alternative_to_google_drive_is/</link>
+      <description><![CDATA[ 由   提交/u/dendaera   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qqtt1v/id_argue_the_best_alternative_to_google_drive_is/</guid>
+      <pubDate>Fri, 30 Jan 2026 03:07:07 GMT</pubDate>
     </item>
     <item>
       <title>[操作系统] Styx - 适用于 Mac 的免费壁纸引擎风格应用程序。</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我构建了一个云转换器的开源替代方案，因为我不想只是为了更改格式而将个人文档上传到服务器。 它使用 HTML5 Canvas API 和 WebAssembly（适用于 HEIC/PDF）完全在浏览器中运行。没有数据离开设备。 技术： React + Vite 6 Web Workers（用于非阻塞批处理） Zustand（原子状态管理） Tailwind CSS 它支持 JPG、PNG、 WebP、SVG 和 HEIC 转换，以及 PDF 合并。 Github 存储库   由   提交 /u/AmineAce   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qqaeg3/secure_converter_clientside_image_processing_with/</guid>
       <pubDate>Thu, 29 Jan 2026 14:43:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了 Ricochet：具有 Swarm Parallelism、Shadow Git 和远程控制功能的本地开源 Go AI 代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qqa5tb/i_built_ricochet_a_local_opensource_go_ai_agent/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qqa5tb/i_built_ricochet_a_local_opensource_go_ai_agent/</guid>
-      <pubDate>Thu, 29 Jan 2026 14:34:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
