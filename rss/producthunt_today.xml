@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 31 Jan 2026 18:18:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Jan 2026 21:14:00 GMT</lastBuildDate>
     <item>
       <title>技能.sh</title>
       <link>https://www.producthunt.com/products/vercel</link>
@@ -23,7 +23,7 @@
       <title>Geekflare API</title>
       <link>https://www.producthunt.com/products/geekflare-api</link>
       <description><![CDATA[
-            抓取、截屏并提取 LLM 就绪数据
+            抓取、屏幕截图并提取 LLM 就绪数据
           
 
 讨论
@@ -90,6 +90,20 @@
       <pubDate>Thu, 29 Jan 2026 14:16:58 GMT</pubDate>
     </item>
     <item>
+      <title>Grok 想象 API</title>
+      <link>https://www.producthunt.com/products/grok-3</link>
+      <description><![CDATA[
+            跨质量、成本和延迟的 SOTA 视频生成
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/grok-3</guid>
+      <pubDate>Thu, 29 Jan 2026 11:14:07 GMT</pubDate>
+    </item>
+    <item>
       <title>MacOS 桌面整理工具</title>
       <link>https://www.producthunt.com/products/macos-desktop-declutter</link>
       <description><![CDATA[
@@ -102,20 +116,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/macos-desktop-declutter</guid>
       <pubDate>Thu, 29 Jan 2026 11:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>丢失的帖子</title>
-      <link>https://www.producthunt.com/products/lost-post-worldwide-question-of-the-day</link>
-      <description><![CDATA[
-            全世界都被问到并回答一个问题
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lost-post-worldwide-question-of-the-day</guid>
-      <pubDate>Tue, 27 Jan 2026 15:54:14 GMT</pubDate>
     </item>
     <item>
       <title>手友</title>
