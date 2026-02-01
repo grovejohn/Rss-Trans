@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 01 Feb 2026 04:57:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 06:35:59 GMT</lastBuildDate>
+    <item>
+      <title>诺伊曼：我是世界上一些最大的银行和国防承包商的工程师。我构建了一个统一的数据库，帮助工程师在完全集成之前创建强大的 AI POC。它包括语义缓存和 AI Vault，以确保安全性并通过破坏性操作的数据库回滚进行访问。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qspe4h/neumann_i_was_an_engineer_for_some_of_the_worlds/</link>
+      <description><![CDATA[嘿伙计们！我是一名基础设施工程师，后来成为系统架构师，曾为世界上大多数最大的银行和国防承包商工作过。今天，我开源了我构建的一个基础设施，以解决工程师们试图将多个数据库粘合在一起以满足 AI 数据一致性需求时遇到的许多问题。 我构建这个系统的担忧和原因是，我发现与我合作的演示 AI 应用程序的团队缺乏安全性和访问问题。 这个系统的关键是统一的 Tensor 本身 ```sql -- 查找用户类似于连接到 Bob 的 Alice FIND NODE user WHERE role = &#39;engineer&#39; 类似于 &#39;user:alice&#39; CONNECTED TO &#39;user:bob&#39; ``` 一个运行时。一种查询语言。一种一致性模型。 **基准（M 系列芯片）：** - 3.2M PUT、5M GET 操作/秒 - 向量相似性：150us @ 10K 向量（13x 与强力） - 查询解析：1.9M 查询/秒 另一个问题是安全性和缓存。我见过代理商逃跑以及 API 成本螺旋式上升。 Neumann 缓存执行语义相似性匹配，因此您无需两次调用 API 来了解“什么是 2+2”。和“二加二等于多少”。该保管库使用 AES-256-GCM 加密和基于图形的访问控制。如果代理没有通往秘密节点的路径，则它无法读取它。对所有内容进行全面审核记录。 通过交互式确认在破坏性操作之前自动检查点。如果出现问题，则回滚到任何以前的状态。 它通过一些奇怪的几何冲突解决方案（6 路分类而不是二进制提交/中止）、向量的 HNSW 以及可减少 4-6 倍带宽的增量复制达成分布式共识。 以冯·诺依曼命名，因为他统一了代码和数据。这试图统一您的数据模型。 虽然还处于早期阶段，但它确实有效。欢迎反馈，烘烤我的架构，告诉我为什么这是一个糟糕的想法。 **链接：** - GitHub：https://github.com/Shadylukin/Neumann   由   提交 /u/CoopaScoopa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qspe4h/neumann_i_was_an_engineer_for_some_of_the_worlds/</guid>
+      <pubDate>Sun, 01 Feb 2026 05:11:53 GMT</pubDate>
+    </item>
     <item>
       <title>iEye：带有“问责时钟”的无服务器 P2P 见证协议 新的免费新闻</title>
       <link>https://www.reddit.com/r/opensource/comments/1qscwi1/ieye_a_serverless_p2p_witness_protocol_with_an/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[好奇社区认为目前顶级的开源密码管理器是什么。像 Bitwarden / Psono / Vaultwarden 这样的工具出现了很多，有些还提到了其他自托管选项。如果您每天将其用于个人或团队用途，哪种开源解决方案给您留下的印象最深刻，为什么？   由   提交 /u/messysoul96   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qr2mpd/which_open_source_password_manager_is_the_best_in/</guid>
       <pubDate>Fri, 30 Jan 2026 11:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[操作系统] Styx - 适用于 Mac 的免费壁纸引擎风格应用程序。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qqodx6/os_styx_a_free_wallpaper_engine_style_app_for_mac/</link>
-      <description><![CDATA[      几个月前拿到我的 MacBook 后，我意识到 macOS 上并没有真正感觉原生且灵活的壁纸引擎风格的程序。因此，我构建了 Styx 来解决这个问题并学习 Swift。 Styx 是一款用于动画/动态壁纸（以及我添加的其他壁纸类型）的开源 macOS 应用程序。现在还为时尚早，因此非常欢迎反馈和功能请求。 小部件是使用标准网络技术 (HTML/JS/CSS) 创建的  存储库：https://github.com/vvntrz/styx 下载：预构建的二进制文件位于 GitHub 版本 页面上（相同） repo)  如果您尝试一下，我很乐意听到： - 性能/电池对您的设置的影响 - 多显示器行为 - 您下一步想要的任何格式/功能   由   提交/u/_arctic_inferno_  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qqodx6/os_styx_a_free_wallpaper_engine_style_app_for_mac/</guid>
-      <pubDate>Thu, 29 Jan 2026 23:13:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
