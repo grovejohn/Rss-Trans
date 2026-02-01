@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 01 Feb 2026 06:35:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Feb 2026 09:20:04 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 正在成为一种商品吗？软件工程师的人工智能工具购买指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1qst4yp/is_chatgpt_becoming_a_commodity_a_software/</link>
+      <description><![CDATA[ 由   提交 /u/strategizeyourcareer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qst4yp/is_chatgpt_becoming_a_commodity_a_software/</guid>
+      <pubDate>Sun, 01 Feb 2026 08:38:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>布隆过滤器</title>
+      <link>https://www.reddit.com/r/programming/comments/1qssnc1/bloom_filters/</link>
+      <description><![CDATA[很想知道您在组织中如何使用布隆过滤器/或其变体来提高性能。   由   提交/u/Comfortable-Fan-580   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qssnc1/bloom_filters/</guid>
+      <pubDate>Sun, 01 Feb 2026 08:09:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kore-Lang：一种语言统治一切。</title>
+      <link>https://www.reddit.com/r/programming/comments/1qsrr8o/korelang_one_language_to_rule_them_all/</link>
+      <description><![CDATA[ 由   提交/u/Ephemara  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qsrr8o/korelang_one_language_to_rule_them_all/</guid>
+      <pubDate>Sun, 01 Feb 2026 07:18:59 GMT</pubDate>
+    </item>
     <item>
       <title>minion-molt：用于 AI 代理社交网络的 Python SDK</title>
       <link>https://www.reddit.com/r/programming/comments/1qspr48/minionmolt_python_sdk_for_ai_agent_social/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我一直在开发一种嵌入式数据库引擎，该引擎在进程内运行并支持一个事务系统下的多种数据模型：关系表、属性图和向量相似性搜索（HNSW 样式）。 尝试将这些结合到单个嵌入式引擎中会出现一些有趣的编程和系统问题，而当每个部分都在自己的服务中时，这些问题不会出现。 一些更有趣的问题挑战： 1) 事务语义与 ANN 索引 像 HNSW 这样的近似向量索引自然不适合严格的 ACID 语义。 每事务更新会增加写放大，回滚很尴尬，并且崩溃恢复变得复杂。在实践中，您必须决定这些结构的“事务性”程度。 2) 存储布局张力 表需要行或列局部性。 图需要大量指针的邻接结构。 向量需要连续的、缓存对齐的数字块。  你可以统一抽象层，但在物理层面上，这些模型会相互竞争，除非你引入专门化，这会侵蚀“单引擎”的理想。 3）跨模型的查询规划 跨模型查询听起来很优雅，但成本模型的组合并不干净。 图遍历加上向量搜索很快会爆炸规划器的搜索空间，大多数优化器最终会基于规则而不是基于规则 4) 运行时嵌入成本 在语言运行时内运行完整的数据库引擎（而不是作为服务）会转移问题： - 启动时间与长期进程 - 内存所有权和 GC 交互 - 崩溃行为和隔离期望 有些问题变得更容易（延迟、部署）；其他的会变得更困难（调试、故障隔离）。 探索这种设计的动机是避免将多个存储系统拼接在一起以用于本地或嵌入式工作负载，但复杂性并没有消失 - 它只是移动。 如果您从事数据库引擎、存储系统或运行时嵌入（JVM、CPython、Rust 等）工作，我会很好奇： - 您会在哪里故意在模型之间划定界限？ - 您会首先放松哪些部分的一致性？ - 嵌入式部署是否会改变您设计这些内部结构的方式？ 对于具体的实现上下文，此探索是通过语言绑定使用 ArcadeDB 的嵌入式配置来完成的。我并不是在进行基准测试或声称这是“正确”的方法 - 主要是对工程权衡感兴趣。   由   提交/u/Plastic_Director_480   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qsbj66/what_breaks_when_you_try_to_put_tables_graphs_and/</guid>
       <pubDate>Sat, 31 Jan 2026 19:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您的 PostgreSQL 集群开始尖叫时，为什么 Bigtable 会扩展：深入研究宽列存储</title>
-      <link>https://www.reddit.com/r/programming/comments/1qsbgpk/why_bigtable_scales_when_your_postgresql_cluster/</link>
-      <description><![CDATA[ 由   提交/u/netcommah  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qsbgpk/why_bigtable_scales_when_your_postgresql_cluster/</guid>
-      <pubDate>Sat, 31 Jan 2026 19:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码很便宜。让我看看演讲 - Kailash Nadh</title>
-      <link>https://www.reddit.com/r/programming/comments/1qsakic/code_is_cheap_show_me_the_talk_kailash_nadh/</link>
-      <description><![CDATA[ 由   提交/u/Moltenlava5  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qsakic/code_is_cheap_show_me_the_talk_kailash_nadh/</guid>
-      <pubDate>Sat, 31 Jan 2026 18:45:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我要放弃 Scala</title>
-      <link>https://www.reddit.com/r/programming/comments/1qs9rfb/why_i_am_moving_away_from_scala/</link>
-      <description><![CDATA[ 由   提交/u/simon_o  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qs9rfb/why_i_am_moving_away_from_scala/</guid>
-      <pubDate>Sat, 31 Jan 2026 18:16:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
