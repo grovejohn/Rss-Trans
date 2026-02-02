@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Feb 2026 21:16:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 01:03:03 GMT</lastBuildDate>
+    <item>
+      <title>Showoff Saturday：构建了一个简单的 PDF 文本提取 API - 每月 100 个免费请求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qtfetf/showoff_saturday_built_a_simple_pdf_text/</link>
+      <description><![CDATA[嘿r/webdev！  构建了一个极其简单的 API，用于从 PDF 中提取文本。没什么花哨的，只是做好一件事。  它的作用： - 上传 PDF → 取回文本 - 最多 10MB 文件 - 每月 100 个免费请求 - 无需注册（只需使用以“pdfbot_”开头的任何 API 密钥） 技术堆栈： - Node.js + Express - pdf-parse 库 - 用于使用情况跟踪的 SQLite - 4 美元/月 DigitalOcean VPS  尝试一下： curl -X POST https://pdftxt.dev/extract \ -H &quot;X-API-Key: pdfbot_test_123&quot; \ -F &quot;file=@document.pdf&quot;  我为什么构建它：厌倦了带有 50 页文档的过于复杂的 PDF API。想要一些我可以在 30 秒内使用的东西。 希望得到反馈！你会用它做什么？ 🔗 https://pdftxt.dev   由   提交 /u/Id4life   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qtfetf/showoff_saturday_built_a_simple_pdf_text/</guid>
+      <pubDate>Mon, 02 Feb 2026 00:08:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能驱动的法律平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qtf7ds/ai_powered_legal_platform/</link>
+      <description><![CDATA[嗨！ 我正在开发一个法律技术平台，在提交我已经收到的报价之前，我试图了解实际的开发成本。 该平台是埃及律师和客户的完整案件处理系统。核心功能包括： • 人工智能案例接收 + 人工智能问答助手 • 端到端工作流程（接收→提案→咨询→合同→付款→时间表→完成） • 通过文件上传、语音注释和录制视频通话实现安全消息传递 • 客户、律师和管理仪表板 • 法律文档模板（合同、POA、通知） • 支付集成（Paymob/Fawry） • 多语言UI（阿拉伯语、英语、德语、荷兰语、法语、俄语） • 管理控制、批准、审核日志和合规性 • 可选的高级 AI 功能：OCR、文档提取、摘要、分类等。 我想知道构建此类内容的实际成本范围是多少（MVP 与完整版本）。一些开发商对第一个版本的报价约为 4.5 万欧元。其他人的建议要多得多。 如果有人有复杂 SaaS 或法律技术平台的经验，您会估计什么：1. 精益 MVP（精致的设计 + 完整的工作流程，但许多任务仍然是手动的）2. 具有所有高级 AI 自动化的完整产品 任何输入都将帮助我正确地对这个项目进行基准测试。   由   提交 /u/Elbess91   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qtf7ds/ai_powered_legal_platform/</guid>
+      <pubDate>Mon, 02 Feb 2026 00:00:08 GMT</pubDate>
+    </item>
     <item>
       <title>我拥有 SukaBase.com 域名，并最终构建了一些愚蠢到值得拥有的东西</title>
       <link>https://www.reddit.com/r/webdev/comments/1qt98s3/i_own_the_domain_sukabasecom_and_finally_built/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[正如标题所说，我正在使用 Figma、Replit 和 Supabase 等构建一个全栈开发平台，我想知道是否有人会发现这些有用，以及他们对当前用于开发的产品/服务是否有任何疑虑，已经用于构建此解决方案。   由   提交/u/FixerUpper201   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qt983a/building_a_fullstack_development_platform/</guid>
       <pubDate>Sun, 01 Feb 2026 20:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>出售在线业务，每月赚取 7000 美元的利润。便宜！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qt8ge8/selling_online_business_which_makes_7000_profit/</link>
-      <description><![CDATA[我有一家名为 kycfix.com 的商店。它专注于 KYC 验证工具。免费审核、编辑、人工智能支持的 KYC 服务。 我 2 个月前开了这家店，上个月赚了 12000 美元，纯利润为 7300 美元。  流量稳定且日益增长。每天约有 1000 名新访客。  我出于个人原因出售，基本上寻找 10 000 美元的可协商价格。  通过 Telegram 联系我：@hamokap1   由   提交 /u/Starcvv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qt8ge8/selling_online_business_which_makes_7000_profit/</guid>
-      <pubDate>Sun, 01 Feb 2026 19:41:23 GMT</pubDate>
     </item>
     <item>
       <title>哪里有卖论坛软件许可证？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我不明白，因为我是 html 新手   由   提交 /u/SufficientDisk3320   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qt0g14/how_do_i_put_two_seperate_unordered_lists_next_to/</guid>
       <pubDate>Sun, 01 Feb 2026 14:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>每月入门/Web 开发职业主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/</link>
-      <description><![CDATA[由于有关此主题的问题不断涌入，我们决定每月提交一个专门讨论此主题的帖子，以减少有关此主题的重复帖子的数量。这些类型的帖子将不再允许在主线程中发布。 其中许多问题也在子常见问题解答中得到解决，或者可能在以前的每月职业线程中提出。 专门针对这些类型的子问题问题包括针对一般性和开放式职业问题的 r/cscareerquestions 和针对早期学习问题的 r/learnprogramming。 学习为行业做好准备的主题的一般建议包括：  HTML/CSS/JS 训练营 版本控制 自动化 前端框架(React/Vue/Etc) API 和 CRUD 测试（单元和集成） 常见设计模式  您还需要包含您构建的 4-5 个个人项目的作品集，以及用于申请工作的简历。 在申请工作之前，为您的作品集计划 6-12 个月的自学和项目制作。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qswnox/monthly_getting_started_web_dev_career_thread/</guid>
-      <pubDate>Sun, 01 Feb 2026 12:00:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

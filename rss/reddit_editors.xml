@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sun, 01 Feb 2026 21:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 01:01:38 GMT</lastBuildDate>
+    <item>
+      <title>受密码保护的嵌入式视频的 Vimeo 替代品？</title>
+      <link>https://www.reddit.com/r/editors/comments/1qtd8fw/vimeo_alternatives_for_password_protected/</link>
+      <description><![CDATA[Hi all! I’m trying to find an alternative to Vimeo for hosting some videos on my site with the option to add password protection, and ideally a download option. I was originally looking at FrameIO, but it doesn’t seem to have native embed options. (would have been a nice option though, as it could also be used to share dallies every now and then). Any suggestions greatly appreciated!   由   提交 /u/not_mr_Lebowski   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1qtd8fw/vimeo_alternatives_for_password_protected/</guid>
+      <pubDate>Sun, 01 Feb 2026 22:40:10 GMT</pubDate>
+    </item>
     <item>
       <title>Avid：解决从 Stills 导出 MXF 在 Avid 中显示为 1 帧的问题</title>
       <link>https://www.reddit.com/r/editors/comments/1qt4rc1/avid_resolve_mxf_export_from_stills_shows_as_1/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我的工作最近升级了我们所有的系统，现在我们的计算机都无法打开旧的标题工具图形。我工作的节目正在尝试匹配标题工具 gfx 中的字体，但我们度过了一段糟糕的时光。董事会中是否有人拥有可以打开垃圾箱并查看标题的旧版 Avid？如果有人愿意并让我了解有关此字体的一些规格，我将非常感激。 https://www.mediafire.com/file/di66s3201u7ep2w/Old_Title_Pulls_V2.avb/file 编辑：抱歉，已修复空垃圾箱。    由   提交 /u/workin_gunst   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1qqs5j6/do_you_have_avid_title_tool/</guid>
       <pubDate>Fri, 30 Jan 2026 01:54:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Premiere] 终于找到了 Windows 上播放显示器缩放问题的真正解决方案 - 具有多个显示器</title>
-      <link>https://www.reddit.com/r/editors/comments/1qqs05u/premiere_finally_found_a_real_fix_for_playback/</link>
-      <description><![CDATA[我不知道谁需要看到这个，但经过多年的问题，我终于找到了 Windows 上 Premiere Pro 中 Mercury Transmit 问题的修复方法。尝试使用多个显示器以及播放显示器可能会导致大量问题，特别是当涉及 Windows 缩放或多个显示器上的 Premiere 面板时。 您可以在下面的论坛链接中阅读完整的详细信息，但解决方法很简单：在 Premiere .exe 文件上，转到“属性”&gt;兼容性&gt;更改高 DPI 设置 &gt;启用“覆盖高 DPI 缩放行为” &gt;选择由“应用程序”执行的缩放。  更改后请务必单击“应用”。请记住，每年更新都需要重做此操作，因为 PP25 的 exe 与 PP26 的文件不同。 在 Windows 10 / PP 2025 和 Windows 10 上测试。 2026 年。  https://community.adobe.com/questions%2D729/playback%2Dmonitor%2Dpositioning%2Derror%2Dmultiple%2Ddisplays%2D1333997?postid=7486217#post7486217#post7486217 更新 1：我在 Windows 11 上对此进行了测试，很高兴地报告它也适用于 Windows 11。我在此处添加了展示此类内容的图像： https://community.adobe.com/questions%2D729/playback%2Dmonitor%2Dpositioning%2Derror%2Dmultiple%2Ddisplays%2D1333997?postid=7487347#post7487347 更新 2：Adobe 员工主动联系并通知其团队寻求反馈。   由   提交/u/JacobJChristiansen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1qqs05u/premiere_finally_found_a_real_fix_for_playback/</guid>
-      <pubDate>Fri, 30 Jan 2026 01:47:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
