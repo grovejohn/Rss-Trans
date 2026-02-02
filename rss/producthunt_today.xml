@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Feb 2026 09:35:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 12:29:56 GMT</lastBuildDate>
     <item>
       <title>毛特威特</title>
       <link>https://www.producthunt.com/products/moltweet</link>
@@ -132,20 +132,6 @@
       <pubDate>Sat, 31 Jan 2026 22:18:53 GMT</pubDate>
     </item>
     <item>
-      <title>毛皮书</title>
-      <link>https://www.producthunt.com/products/moltbook</link>
-      <description><![CDATA[
-            人工智能代理的社交网络
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/moltbook</guid>
-      <pubDate>Sat, 31 Jan 2026 01:04:33 GMT</pubDate>
-    </item>
-    <item>
       <title>在浏览器中设计</title>
       <link>https://www.producthunt.com/products/design-in-the-browser</link>
       <description><![CDATA[
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/voice-anywhere-write-by-voice</guid>
       <pubDate>Wed, 28 Jan 2026 22:23:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>阿马拉</title>
+      <link>https://www.producthunt.com/products/amara-3</link>
+      <description><![CDATA[
+            立即想象、创建和迭代 3D 环境
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/amara-3</guid>
+      <pubDate>Mon, 26 Jan 2026 23:11:50 GMT</pubDate>
     </item>
     <item>
       <title>清</title>
