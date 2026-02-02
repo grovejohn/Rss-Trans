@@ -4,11 +4,25 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 02 Feb 2026 01:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 04:51:57 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>计算机如何工作：从第一原理解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1qtkcyv/how_computers_work_explained_from_first_principles/</link>
+      <description><![CDATA[ 由   提交/u/Sushant098123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qtkcyv/how_computers_work_explained_from_first_principles/</guid>
+      <pubDate>Mon, 02 Feb 2026 03:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>模式验证遗漏了什么：跟踪 MCP 服务器中的响应结构漂移</title>
+      <link>https://www.reddit.com/r/programming/comments/1qtgt62/what_schema_validation_misses_tracking_response/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qtgt62/what_schema_validation_misses_tracking_response/</guid>
+      <pubDate>Mon, 02 Feb 2026 01:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于每一位接近倦怠的开发人员，请阅读本文 · theSeniorDev</title>
       <link>https://www.reddit.com/r/programming/comments/1qtg70y/to_every_developer_close_to_burnout_read_this/</link>
-      <description><![CDATA[If you can get rid of three of the following choices to mitigate burn out, which three will you get rid off?  Bad Management AI Toxic co-workers Impossible deadlines High turn over    由   提交 /u/Inner-Chemistry8971   [link] [评论]]]></description>
+      <description><![CDATA[如果你可以摆脱以下三个选择来减轻倦怠，你会摆脱这三个选择中的哪一个？  糟糕的管理 人工智能 有毒的同事 不可能的最后期限 高流动率    由   提交 /u/Inner-Chemistry8971   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qtg70y/to_every_developer_close_to_burnout_read_this/</guid>
       <pubDate>Mon, 02 Feb 2026 00:42:13 GMT</pubDate>
     </item>
@@ -57,14 +71,14 @@
     <item>
       <title>使用机器人为人类制作谜题</title>
       <link>https://www.reddit.com/r/programming/comments/1qt9pto/using_robots_to_generate_puzzles_for_humans/</link>
-      <description><![CDATA[ 由   提交/u/vanHavel   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/vanHavel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qt9pto/using_robots_to_generate_puzzles_for_humans/</guid>
       <pubDate>Sun, 01 Feb 2026 20:26:18 GMT</pubDate>
     </item>
     <item>
       <title>Telegram + 光标集成 – 通过密码保护从任何地方控制您的 IDE</title>
       <link>https://www.reddit.com/r/programming/comments/1qt8sdj/telegram_cursor_integration_control_your_ide_from/</link>
-      <description><![CDATA[ 由   提交/u/Perfect_Dance6757  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Perfect_Dance6757  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qt8sdj/telegram_cursor_integration_control_your_ide_from/</guid>
       <pubDate>Sun, 01 Feb 2026 19:53:18 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>喜欢OBS</title>
       <link>https://www.reddit.com/r/programming/comments/1qt6vkp/obs_like/</link>
-      <description><![CDATA[改进和审计高级副总裁！   由   提交/u/rayanlasaussice  [链接] [评论]]]></description>
+      <description><![CDATA[改进和审计高级副总裁！   由   提交/u/rayanlasaussice   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qt6vkp/obs_like/</guid>
       <pubDate>Sun, 01 Feb 2026 18:46:08 GMT</pubDate>
     </item>
@@ -92,23 +106,9 @@
     <item>
       <title>高级职位面试</title>
       <link>https://www.reddit.com/r/programming/comments/1qt34ks/senior_position_interview/</link>
-      <description><![CDATA[伙计们，我被要求参加一个高级职位的面试，我在一个领域拥有丰富的经验，但我并没有完全掌握最现代的工具。招聘人员喜欢我的简历，并说它很适合公司的招聘要求，但我担心我会在选拔过程中让自己难堪。 更详细地解释一下：我从本科学习开始一直在大学实验室工作，直到现在的硕士课程，我应该在下个月完成硕士课程。我与我们提供服务的公司有近四年的密切接触，但我从未直接为这些公司工作过。我意识到这是一个巨大的差距。 尽管如此，我恐怕无法胜任这个级别的职位。我认为从现在的位置晋升到高级职位是一个非常大的飞跃。 无论如何，我都会尝试这个职位。我听过一些人在什么都不知道的情况下成为老年人的故事，这甚至让我感到安慰，哈哈，但我承认我很担心。 我想知道你是否经历过类似的事情，以及我是否不应该太担心。   由   提交/u/mixmaxze  [link] [评论]]]></description>
+      <description><![CDATA[各位，我被要求参加一个高级职位的面试，我在一个领域拥有丰富的经验，但我还没有完全掌握最现代的工具。招聘人员喜欢我的简历，并说它很适合公司的招聘要求，但我担心我会在选拔过程中让自己难堪。 更详细地解释一下：我从本科学习开始一直在大学实验室工作，直到现在的硕士课程，我应该在下个月完成硕士课程。我与我们提供服务的公司有近四年的密切接触，但我从未直接为这些公司工作过。我意识到这是一个巨大的差距。 尽管如此，我恐怕无法胜任这个级别的职位。我认为从现在的位置晋升到高级职位是一个非常大的飞跃。 无论如何，我都会尝试这个职位。我听过一些人在什么都不知道的情况下成为老年人的故事，这甚至让我感到安慰，哈哈，但我承认我很担心。 我想知道你是否经历过类似的事情，以及我是否不应该太担心。   由   提交/u/mixmaxze  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qt34ks/senior_position_interview/</guid>
       <pubDate>Sun, 01 Feb 2026 16:33:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Voyager AI：通过 GitHub Co-Pilot 将技术（或任何文章）转换为交互式 Jupyter 笔记本</title>
-      <link>https://www.reddit.com/r/programming/comments/1qt24m9/voyager_ai_convert_technical_or_any_article_to/</link>
-      <description><![CDATA[ 由   提交/u/0xchamin  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qt24m9/voyager_ai_convert_technical_or_any_article_to/</guid>
-      <pubDate>Sun, 01 Feb 2026 15:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bjarne Stroustrup 似乎是一个不愉快的共事者</title>
-      <link>https://www.reddit.com/r/programming/comments/1qt1df4/bjarne_stroustrup_seems_like_an_unpleasant_person/</link>
-      <description><![CDATA[（删除旧帖子并发布新帖子，因为旧帖子上的链接已损坏） 来自 Ken Thompson： &gt;在一次采访中我确实说过，我不使用它只是因为它不会连续两天保持静止。当斯特鲁斯特鲁普读到这篇采访时，他冲进我的房间尖叫着说我是如何破坏他的，我说的话很重要，我说这是一种糟糕的语言。我从来没有说过这是一种不好的语言。一直不断。从那时起我就避免了这种事情。   由   提交/u/pogodachudesnaya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qt1df4/bjarne_stroustrup_seems_like_an_unpleasant_person/</guid>
-      <pubDate>Sun, 01 Feb 2026 15:27:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 02 Feb 2026 01:03:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Feb 2026 04:52:37 GMT</lastBuildDate>
     <item>
       <title>压缩机</title>
       <link>https://www.producthunt.com/products/compressor-2</link>
@@ -62,6 +62,20 @@
       <pubDate>Fri, 30 Jan 2026 10:27:18 GMT</pubDate>
     </item>
     <item>
+      <title>Emra / 始终在线转录和 PTT</title>
+      <link>https://www.producthunt.com/products/emra</link>
+      <description><![CDATA[
+            使用语音输入并始终在线转录
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/emra</guid>
+      <pubDate>Fri, 30 Jan 2026 07:57:24 GMT</pubDate>
+    </item>
+    <item>
       <title>中国</title>
       <link>https://www.producthunt.com/products/hyta</link>
       <description><![CDATA[
@@ -76,46 +90,32 @@
       <pubDate>Fri, 30 Jan 2026 00:36:39 GMT</pubDate>
     </item>
     <item>
-      <title>控制桥</title>
-      <link>https://www.producthunt.com/products/cntrl-bridge</link>
+      <title>Geekflare API</title>
+      <link>https://www.producthunt.com/products/geekflare-api</link>
       <description><![CDATA[
-             将您的 Windows/macOS 计算机变成可编写脚本的服务器
+            抓取、屏幕截图并提取 LLM 就绪数据
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/cntrl-bridge</guid>
-      <pubDate>Thu, 29 Jan 2026 18:57:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/geekflare-api</guid>
+      <pubDate>Thu, 29 Jan 2026 20:00:28 GMT</pubDate>
     </item>
     <item>
-      <title>MacOS 桌面整理工具</title>
-      <link>https://www.producthunt.com/products/macos-desktop-declutter</link>
+      <title>国家音乐电视台</title>
+      <link>https://www.producthunt.com/products/nmtv</link>
       <description><![CDATA[
-            用于 MacOS 上桌面文件的开源 Tinder。 100% 免费。
+            我建造了一台 24/7 MTV 时间机器来拯救我妻子的生日
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/macos-desktop-declutter</guid>
-      <pubDate>Thu, 29 Jan 2026 11:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>丢失的帖子</title>
-      <link>https://www.producthunt.com/products/lost-post-worldwide-question-of-the-day</link>
-      <description><![CDATA[
-            全世界都被问到并回答一个问题
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lost-post-worldwide-question-of-the-day</guid>
-      <pubDate>Tue, 27 Jan 2026 15:54:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/nmtv</guid>
+      <pubDate>Thu, 29 Jan 2026 16:36:07 GMT</pubDate>
     </item>
     <item>
       <title>时间分类账</title>
