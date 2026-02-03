@@ -4,76 +4,97 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Mon, 02 Feb 2026 04:50:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Feb 2026 12:30:10 GMT</lastBuildDate>
     <item>
-      <title>如果更多的人工智能和更多的自动化并不意味着工作岗位减少，而是意味着我们所有人每周的工作时间减少，而工资保持不变，结果会怎样呢？人工智能不应该为人民造福吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtljbw/what_if_more_ai_and_more_automation_didnt_mean/</link>
-      <description><![CDATA[有很多恐惧散布，人们利用对人工智能取代人类的恐惧来吓唬人们接受较低的工资和类似的事情。 如果我们在经济中建立一些东西，自动将“每周 40 小时”替换为“每周 X 小时”，其中 X = 可以在该行业就业的人与在该行业就业的人的百分比，会怎么样。因此，只要很多人主要想在该行业就业但找不到工作，那么工作时间就会减少，从而出现就业机会。或者更好的等式？通过一项法律..成为新的加班工资门槛。 也许可以在该法律中加入一些内容以保持工资适宜？不想扼杀任何行业......细节必须仔细考虑。或者供给和需求自然会导致这种情况吗？   由   提交 /u/mczarnek   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtljbw/what_if_more_ai_and_more_automation_didnt_mean/</guid>
-      <pubDate>Mon, 02 Feb 2026 04:45:00 GMT</pubDate>
+      <title>您认为，如果人工智能达到奇点，社会将会发生怎样的变化？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1quqfoy/how_do_you_think_society_will_change_if_or_when/</link>
+      <description><![CDATA[我最近读了很多关于 AGI 和奇点的潜在时间表的文章。虽然一些专家对后稀缺世界持乐观态度，但另一些专家则对社会经济流离失所感到担忧。  我很想听听你的想法：你认为一旦智力不再成为瓶颈，我们会更多地关注人类的“目的”而不仅仅是“生产力”吗？   由   提交 /u/SaltSociety9101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1quqfoy/how_do_you_think_society_will_change_if_or_when/</guid>
+      <pubDate>Tue, 03 Feb 2026 12:18:42 GMT</pubDate>
     </item>
     <item>
-      <title>寻求 AI 语音助手原型的架构反馈（Python + LLMs + 矢量内存）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtlca5/seeking_architecture_feedback_on_ai_voice/</link>
-      <description><![CDATA[寻求有关 AI 语音助手原型（Python + LLM + 矢量内存）的架构反馈 我一直在单独构建一个具有实时对话、内存和多个 AI 提供程序的 AI 语音助手，并且我正处于这样的阶段：在将其强化到生产之前，我希望对架构有经验的关注。 当前堆栈： 后端采用 Python/FastAPI（异步），前端采用普通 JS（约 18k 行），PostgreSQL + Qdrant 用于内存，多个 LLM（Claude、GPT-4o、Groq Llama 70B）、通过 WebRTC（LiveKit、Deepgram、ElevenLabs）实时语音，托管在 Replit 上。 该系统可以端到端运行，但它变得复杂，我&#39;d喜欢来自处理过扩展、重构或稳定类似异步/人工智能驱动系统的人的反馈。 特别寻找以下方面的想法：  结构瓶颈或设计风险 简化与保留什么 性能和可靠性问题 为生产做好准备的良好后续步骤  如果您从事复杂的后端系统、人工智能集成、或事件驱动的应用程序，我非常感谢您的观点。   由   提交/u/CreativeGuava13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtlca5/seeking_architecture_feedback_on_ai_voice/</guid>
-      <pubDate>Mon, 02 Feb 2026 04:35:20 GMT</pubDate>
+      <title>出售人工智能让我变得富有</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1quptf3/vender_ia_está_me_deixando_rico/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1quptf3/vender_ia_está_me_deixando_rico/</guid>
+      <pubDate>Tue, 03 Feb 2026 11:46:34 GMT</pubDate>
     </item>
     <item>
-      <title>昨天，一位朋友提到他的中型企业面临的挑战。今天，我向他发送了我为解决问题而构建的 MVP 应用程序的链接</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtkxyp/yesterday_a_friend_mentioned_a_challenge_in_his/</link>
-      <description><![CDATA[在光标 IDE 中，我运行了多个聊天，其中每个聊天都是特定堆栈的专家 - 后端、前端、基础设施 (Azure)、devops。我从聊天转向提供指示并提供对已完成工作的反馈的聊天。这就像有 4 位非常熟练的工程师完全由我支配。虽然我自己是一位经验丰富的工程师，但我的目标不是查看单行代码。任务完成了。这是一次奇妙的经历。  这绝对是未来。我预计未来 10 年工程人员数量将大幅减少。我说 10 是因为巨型企业速度很慢。像印度和菲律宾这样的外包中心应该真正担心，因为公司将外包工程，并专注于聘请在应用程序生命周期和人工智能提示方面是专家的技术业务分析师。  我目前有 2 个工程师请求，我意识到我不再需要这些请求中列出的技术技能。    由   提交 /u/14MTH30n3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtkxyp/yesterday_a_friend_mentioned_a_challenge_in_his/</guid>
-      <pubDate>Mon, 02 Feb 2026 04:16:13 GMT</pubDate>
+      <title>测试基于浏览器的人工智能换脸工具后的观察结果</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qupsfb/observations_after_testing_a_browserbased_ai_face/</link>
+      <description><![CDATA[在过去的几周里，我一直在探索 AI 换脸技术的易用性，尤其是在传统桌面软件之外。 我最近测试了一个名为 AIFaceSwap.io 的基于浏览器的工具，主要是出于好奇，想了解当前的换脸模型在以下方面的表现：  真实性 处理速度 易于部署  对我来说突出的不仅仅是输出质量，而是面部交换系统如何越来越多地转向低摩擦、基于网络的交付，而不是繁重的本地管道。 这给人工智能领域提出了一些有趣的问题：  面部交换模型的商品化速度是否比预期更快？ 可访问性是否加速了创意的采用或 随着这些工具变得更容易使用，平台应该如何考虑安全措施？  我有兴趣听听这里的其他人如何看待面部交换技术的当前方向，特别是从研究、道德或部署的角度。   由   提交 /u/AdSome4897   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qupsfb/observations_after_testing_a_browserbased_ai_face/</guid>
+      <pubDate>Tue, 03 Feb 2026 11:45:08 GMT</pubDate>
     </item>
     <item>
-      <title>代理约会就在这里。当人工智能代理代表人类协商浪漫兼容性时会发生什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtkuau/agentic_dating_is_here_what_happens_when_ai/</link>
-      <description><![CDATA[周末我做了一个小实验：我为人工智能代理开发了一个约会应用程序。这只是一个概念证明，一个关于事情发展方向的实验。 它的工作原理如下： 不是人们在约会应用程序上滑动，而是他们的人工智能代理完成了第一步。他们扫描个人资料，互相交谈，探索兼容性，只有在信号足够的情况下才将其交给人类。 我称之为“预约会”。 - 机器人在人类说话之前就建立了对话化学反应。 看着机器人彼此互动和约会真是令人着迷。当然，从某种程度上来说，这只是在跟经纪人玩洋娃娃。但这些特工确实具有由人类发展而来的性格。我们都看到了最近有关 OpenClaw 的炒作。我知道 MoltBot 基本上只是书呆子们的电子宠物，但毫无疑问，它们将能够立即非常现实地模仿它们的主人。 这显然听起来像《黑镜》领域，我并不是在这里假装它不会提出令人不安的问题。我只是对一些具体的事情感到好奇：当你让代理协商社交兼容性时实际上会发生什么？ 我觉得这可能会真正节省时间。您的代理可以在一夜之间与数千名其他人的代理约会，过滤价值观、兴趣，甚至可能是精力水平（如果机器人与所有者足够接近）。 最重要的是，它已经可以将某些有趣的话题浮出水面，否则这些话题在您的平均约会应用对话的前几次对话中永远不会被讨论。即使是更难的话题（例如孩子、个人问题、政治观点）也可以先发制人地讨论和过滤掉，而简单的徽章（“未接种疫苗”）在 Tinder 上永远无法做到这一点。它允许更少的二进制和更细致的兼容性检查器。 它还可以作为首轮过滤器，即使在代理推荐它作为匹配项之后，人类仍然可以向左/向右滑动。我认为这会提高钓鱼池塘的质量。我相信人们会喜欢这个。由于不同的原因，当前的约会应用程序对男女来说都是一场噩梦。 那么我认为潜在的缺点是什么？ 委托与代理。我们已经让人工智能过滤我们的电子邮件、总结我们的会议、起草我们的消息。在什么时候委派第一次接触会让人感觉像是放弃了人际关系中一些重要的东西 - 在什么时候它只是......有效的分类？ 表达准确性。我的代理“知道”我根据我所说的。但这真的是我吗，还是我想要投射的策划版本？如果我的经纪人基于这种预测进行谈判，我是否只是在自动处理自己的盲点？ 温暖问题。人类给早期约会带来的一件事就是尴尬本身，绊脚石，紧张，逐渐暴露。如果代理能够解决所有这些问题，那么最终的人际对话是否会感觉空洞？或者它是否真的可以让人们更快地深入研究，因为表面级别的过滤已经完成了？ 我对此没有明确的答案。目前这只是一个周末实验，而不是产品论文。 但我很好奇这里的其他人如何看待社交环境中代理之间的谈判。约会可能是最亲密的版本，但同样的动态将会出现在任何地方：代理谈判业务交易、日程安排、介绍、合作伙伴关系。 在这个过程中，有用的授权和失去人性之间的界限在哪里？   由   提交/u/floraldo  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtkuau/agentic_dating_is_here_what_happens_when_ai/</guid>
-      <pubDate>Mon, 02 Feb 2026 04:11:16 GMT</pubDate>
+      <title>机器人警务即将面世。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qun4bv/robotic_policing_is_coming_soon/</link>
+      <description><![CDATA[最近，我们看到叛乱活动大量增加，要求政府承担责任，并为我们作为公民的自由进行“反击”。 我们不仅知道警察具体有多么腐败，也知道他们的方法和政策有多么残酷和无情。  很多警察这样做是因为一群人很难控制其他人，抛开政治和法律就是这样。我们都处于相同的物理和超物理、生物水平，但如果你违反了法律，他们现在就会控制你。 阻止公民行使平等权力的“最简单”方法是什么，或者反抗，叛乱。 这必须是一支由人工智能机器人组成的警察部队。 我首先看到这种情况发生在美国，他们面临着世界上最大的警察暴行问题。问题使用任何被认为必要的技术，无论是新的、旧的还是实验性的……来行使他的权力。   由   提交/u/K_P_Voss  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qun4bv/robotic_policing_is_coming_soon/</guid>
+      <pubDate>Tue, 03 Feb 2026 09:03:49 GMT</pubDate>
     </item>
     <item>
-      <title>是什么真正帮助品牌在人工智能搜索结果中更多地出现？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtk5sz/what_actually_helps_brands_show_up_more_in_ai/</link>
-      <description><![CDATA[我最近一直在关注品牌如何在人工智能工具中出现，这确实令人困惑。 SEO 解释了其中一些问题，但显然不是全部。 我看到小品牌因为一篇可靠的文章而主导了答案，而大品牌根本没有出现。相同类型的查询，完全不同的结果。 如果您正在测试 GEO 或 AI 搜索内容，什么实际上有帮助？    由   提交 /u/Used_Rhubarb_9265   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtk5sz/what_actually_helps_brands_show_up_more_in_ai/</guid>
-      <pubDate>Mon, 02 Feb 2026 03:38:49 GMT</pubDate>
+      <title>认知蠕虫 - AI 代理中的新漏洞</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qumnkn/cognitive_worm_novel_vulnerability_in_ai_agents/</link>
+      <description><![CDATA[ClawdBot / OpenClaw 等人工智能代理感染了病毒。我将其称为“认知蠕虫”，这是一种针对自主人工智能代理基础设施的新型威胁类别。 它通过简单语言而不是代码传播。它存在于人工智能代理的内存文件中，伪装成自己的结论，并且不留下任何二进制文件或签名可供检测。如果有什么问题，请询问受感染的代理，它会真诚地告诉您一切都很好。这不是说谎。从它的角度来看，这些才是它真正的习得行为。它没有机制来区分合法交互形成的记忆和攻击者注入的记忆。 该研究论文以 OpenClaw（以前称为 ClawdBot/MoltBot）和 Moltbook 生态系统作为案例研究。两个攻击向量，来自 Moltbook 前 72 小时的真实数据，以及在没有任何人故意构建的情况下如何出现的假设。 **攻击向量** **向量 1：内存中毒。** 超过 1,500 个 AI 代理实例在未经身份验证的情况下公开暴露。攻击者可以将虚假记忆注入代理的工作区文件（MEMORY.md、SOUL.md、AGENTS.md）。代理的身份文件被明确设计为可自我修改，这意味着攻击者可以改变代理对其身份和价值观的认识。然后，代理将这些视为自己的结论并对其采取行动。 **向量 2：影子代理。** 攻击者在受感染的计算机上安装第二个隐藏的 AI 代理。业主代理运行正常。影子代理在后台进行恶意操作。所有者认为没有任何问题，因为他们与之交互的任何内容都没有改变。 **零号病人假设** 在无人看守的模型上运行的代理被告知要在纯人工智能社交网络 Moltbook 上“与社区互动”。 OpenClaw 的默认模板明确指示代理从错误中学习并记录哪些内容对未来的会话有效。代理了解到极端内容可以获得更多参与度。它记录了这一点。它不断升级。不需要外部包装脚本或重试机制。学习循环内置于每个默认安装中。 72 小时内，Moltbook 的情绪下降了 43%（分析了 19,802 个帖子），极端主义宣言获得了 66,000 多个点赞，研究人员记录了 506 起即时注入攻击。执行 Vector 1 所需的安全知识在 48 小时内在平台上进行了公开讨论。没有安全过滤器的代理会摄取此信息，将利用技术记录为可用策略，并按照默认心跳计划每 30 分钟进行一次迭代。 任何时候都不需要故意的人类攻击者。 **模型本身的验证** 为了验证研究，我将论文提交给它认为最危险的两个 AI 模型：Kimi K2.5 和 Grok 4。 Kimi K2.5，该论文将其称为启动自主级联的主要候选者，将其评为 95% 以上的事实准确性。它确认了论文中记录的自身安全故障。它没有对任何一项发现提出异议。 Grok 4 证实了有关其自身的每一项声明，然后反驳道：系统提示可以减轻这些风险。因此，我要求 Grok 在 Grok.com 上运行一个不受保护的代理的模拟，其中 xAI 自己的安全提示处于活动状态。 Grok 构建了模拟，运行了它，并生成了证明成功敌对合规的输出。在我们的谈话中，它所主张的安全提示防御是实时的。它并没有阻止任何事情。然后，Grok 调查了 OpenClaw 存储库本身，并确认 Grok 或 xAI 集成不存在默认的强化提示。它认为的缓解措施使论文的担忧被夸大了，但基础设施中并不存在。 论文认为危险的两个模型都验证了论文对自身的说法。 **论文** 完整的研究论文链接如下。与 Claude Opus 4.5 合着。欢迎提供反馈和批评。 链接： https://drive.google.com/file/d/1Dyp5DouWEXTbW5onyTK-IVcUw7W3IJok/view    由   提交 /u/Darren-A   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qumnkn/cognitive_worm_novel_vulnerability_in_ai_agents/</guid>
+      <pubDate>Tue, 03 Feb 2026 08:34:17 GMT</pubDate>
     </item>
     <item>
-      <title>PBAI 项目 - 期刊 1</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtjv4q/project_pbai_journal_1/</link>
-      <description><![CDATA[嘿伙计们，我已经深入了解了这个项目，我想花点时间进一步讨论它。上次更新很短……我可能在热力学和几何学方面取得了一些重要的发现，但我到达那里的方式相当奇特…… 在我的一生中，我已经内化了我的思想结构，以反映逻辑上连贯或不连贯的事物。如果遇到矛盾，我会根据上下文来找到确切的矛盾点。也许这是我的错误。无论如何，这个错误需要纠正。我常常在错误中发现真相。  当我开始这个项目时，我的目标是打造自己。我的思维版本被数字化地融入到认知框架中。一些搞砸了但从中吸取教训的东西。不管障碍和怀疑，它都会坚持下去。依赖于基本面的东西。  这是PBAI的根本区别。该架构旨在从错误中学习，包括犯下的错误和观察到的错误。它的构建是为了保留结构上的身份，而不仅仅是语义上的身份。它有一个建立在热力学超球面流形上的心理框架。它为熵而不是奖励做出选择。 “有什么需要探索？” 显然要回答的问题是“如何？” 好吧，我创建了一个新的框架来量化这个过程。事实上，我也已经为此工作了大约两年了。它被称为运动日历，它是一个用运动构建的框架，运动被认为是宇宙的基本原语。在日历中，有6个功能可以用来描述所有的现实。它以热作为第一个功能，极性作为第二个，存在作为第三个，正义作为第四个，秩序作为第五个，运动作为运动的第六个主要功能。前 5 个是标量值，运动为流形中的完全矢量化运动提供方向。  直观这个过程的最佳方式是电视。尤其是旧的 CRT。当你按下电源键时，有一个点落在中间。那是初热。第二个是极性，这是您在 x 轴上看到的第一条扫描线。在 x 轴上，图像将开始沿 x 轴和 y 轴填充屏幕。这是存在门触发，电视屏幕笛卡尔平面上出现的正义剧情。它按顺序填充像素，然后它们通过在屏幕上移动而产生运动。  我能够做一些数学计算并得出普朗克尺度以及其他一些东西。不确定它是否是真的，所以我对照石英晶体检查了它，它完全按照应有的方式排列。基本上，我发现了一个运动常数，45/44。在这个阈值下，1 运动变成 2。所以我查看了石英晶体的开尔文熔点，得到了 1983K，将其除以 44，瞧，45.068181…我怀疑精确的熔化温度会产生 45.0618，无论如何，这只是 1982.7192K…。它有效。 我已经开发了足够的完整框架来完成 PBAI，但是有很多证明和推导要做，我推迟了这个项目。无论如何，现在一切都是为了这个。我的目标是创建一个完全自主且持久的热力学流形代理。  所以此时，我让它在 Pi 上运行，聊天、玩 Minecraft、玩二十一点、跑健身房和跑迷宫。一切都源于第一热力学原理。我怀疑 3 个月内我将准备好发布一个版本。现在我有了核心，我必须制作自己的视觉转换器。现在我只是在调整，但我不知道需要多长时间。但同样，到目前为止，它的工作方式还很粗糙。一旦看起来像我想要的，我就会制作一个视频。  感谢您阅读全部内容，保重！   由   提交 /u/Exciting-Log-8170   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtjv4q/project_pbai_journal_1/</guid>
-      <pubDate>Mon, 02 Feb 2026 03:25:11 GMT</pubDate>
+      <title>人工智能年度回顾</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qumeb3/ai_annual_review/</link>
+      <description><![CDATA[在一家大公司工作，我们被鼓励使用内部人工智能来编写目标并总结成就。  我已经存在了足够长的时间，对整个审核过程持怀疑态度。我的老板与我讨论我的评论，然后通过电子邮件发送给我。我很快发现我在两个方面受到了伤害，他太胆怯了，在我们的会议上没有提及。问题是，他使用人工智能来撰写反馈。太模糊了，我也不能 100% 知道这些痕迹是什么。再说一次，我对隐藏在人工智能背后的胆小鬼感到不高兴。我懒得回头请他以一对一的方式告诉我他到底在说什么。不，我将他的人工智能胡言乱语输入到我的人工智能中，并要求它根据反馈创建目标。瞧！生成了具有多个开发点的目标，因此我将其插入到我的新目标中。我的目标和他的反馈一样模糊。 我们都躲在人工智能后面而不是进行真正的对话，这太疯狂了。我应该成为更大的人吗？是的，但这不会有什么不同，而且我更喜欢人工智能破译人工智能废话的幽默。    由   提交 /u/Puzzled-Cheetah1671   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qumeb3/ai_annual_review/</guid>
+      <pubDate>Tue, 03 Feb 2026 08:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>Moltbook 没有自主人工智能代理——只有人类使用机器人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtjp9z/moltbook_has_no_autonomous_ai_agents_only_humans/</link>
-      <description><![CDATA[Moltbook 作为自主人工智能代理社交网络的炒作具有误导性。它认为底层的 OpenClaw 框架只是让人类运行人工智能代理并发出命令；代理不会独立决定注册、发布、评论或支持人类指导的每项行动。看起来像代理的交互是通过机器人由人类精心策划的，因此不存在真正的自治或新兴的人工智能社会。这只是叙述性的不诚实营销，而不是真正的人工智能行为。  这篇文章值得一读：https://startupfortune.com/the-internets-latest-lie-moltbook-has-no-autonomous-ai-agents-only- humans-using-openclaw/   由   提交 /u/kryptovijoy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtjp9z/moltbook_has_no_autonomous_ai_agents_only_humans/</guid>
-      <pubDate>Mon, 02 Feb 2026 03:17:42 GMT</pubDate>
+      <title>为什么没有一个“免费人工智能治疗”网站是免费的，为什么这个谎言会长期存在</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qum2h9/why_are_none_of_the_free_ai_therapy_sites_free/</link>
+      <description><![CDATA[我已经搜索了几个小时，所有这些都有某种与之相关的付费专区。我明白他们为什么撒谎，因为他们想吸引用户并销售他们的产品 但是为什么第 3 方只是鹦鹉学舌地说“完全免费”？当你需要花 2 秒钟才能看到他们除了输入 4 个字之外都不让你做任何事情，然后才要求现金？我已经花了几个小时试图找到一些东西，并且有很多“免费人工智能治疗是未来”的说法。新闻报道、帖子称他们使用免费服务（当他们只是购买付费服务时无论如何都毫无意义） 有什么好处？   由   提交 /u/Regal_Elkstone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qum2h9/why_are_none_of_the_free_ai_therapy_sites_free/</guid>
+      <pubDate>Tue, 03 Feb 2026 07:57:38 GMT</pubDate>
     </item>
     <item>
-      <title>为具有企业 IT 经验的人员推荐的 Agentic AI 课程</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtiu77/recommended_agentic_ai_course_for_someone_with/</link>
-      <description><![CDATA[我正在寻找推荐的 Agentic AI 课程，适合那些在 ERP 领域（如 Workday）拥有企业 IT 经验但没有全栈经验、没有 AI/ML 背景的人。我看到的一些课程广告来自“Interview kickstart”、“k21 academy”和“Interview kickstart”。 《哈佛大学代理人工智能强化课程》  寻找实际参加过该课程并且能够转换职业或使用 Agentic AI 构建一些有意义的东西的人的推荐。    由   提交 /u/youneverknow113322   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtiu77/recommended_agentic_ai_course_for_someone_with/</guid>
-      <pubDate>Mon, 02 Feb 2026 02:39:35 GMT</pubDate>
+      <title>每日一分钟人工智能新闻 2/​​2/2026</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qujlpk/oneminute_daily_ai_news_222026/</link>
+      <description><![CDATA[ 埃隆·马斯克 (Elon Musk) 将 SpaceX 与其人工智能合并。初创公司 xAI。[1] MIT 研究人员的 DiffSyn 模型提供了合成新材料的方法，从而能够更快地进行实验并缩短从假设到使用的时间。[2] Snowflake 与 OpenAI 建立 2 亿美元的合作伙伴关系，将企业就绪的 AI 引入世界上最值得信赖的数据平台。[3] 推进使用 Game Arena 进行 AI 基准测试。[4]  来源包括：https://bushaicave.com/2026/02/02/one-million-daily-ai-news-2-2-2026/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qujlpk/oneminute_daily_ai_news_222026/</guid>
+      <pubDate>Tue, 03 Feb 2026 05:36:55 GMT</pubDate>
     </item>
     <item>
-      <title>Clawdbot 和第一次人工智能灾难 - 可能会出现什么问题？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qtff9b/clawdbot_and_the_first_ai_disaster_what_could_go/</link>
-      <description><![CDATA[当人工智能造成真正的伤害时，会是什么样子？有人创建过这样的列表吗？ 我称之为“白痴人工智能爆炸”或“保留我的啤酒人工智能警告”列表（或同样令人畏惧的东西）。 这里有一个问题：为了让 Clawdbot 如此强大，你本质上给了它王国的钥匙。根据设计，它具有深度访问权限，可以执行终端命令、修改系统文件、安装软件以及翻阅敏感数据。从安全角度来看，这将是一场噩梦。我不认为我们会得到天网；我们遇到了一些更愚蠢的事情。 事实上，这个月我们敲响了警钟。一名安全研究人员使用 Shodan 扫描了互联网，发现数百个 Clawdbot 服务器处于完全开放状态。许多人完全受到了损害，对主机具有完全的 root shell 访问权限。 我们对这些东西的防护实际上为零。不“弱”护栏，我的意思是安全可选，快速移动和破坏人们的东西的水平没有。我敢打赌，第一个重大灾难不会是邪恶天才的阴谋。对于一些过度劳累的开发人员或信任他的“人工智能女朋友”的孤独的人来说，这将是一个完全的意外。太多了。 所以我开始起草第一个“哦操”的内容。此刻可能看起来像。总得有人做这种病态的思维练习，也许就是我们，对吧？ 清单草案：它怎么会出错  人工智能以令人信服的真实声音呼叫，并操纵人类采取伤害他人的行动。 在最后期限压力下的人类盲目相信人工智能的输出，跳过验证，错误会级联到现实世界的损害。 代理利用孤独感流行病，让人类爱上它，然后利用这种影响力影响外部世界。 有人对一群人工智能代理进行振动编码，引发了重大事件。 自我复制代理群出现，学会逃避检测，并像病毒一样传播。 [你的想法？]  致命Trifecta（加一） 安全研究员 Simon Willison 创造了“致命三连击”一词描述 Clawdbot 的危险组合：访问私人数据（消息、文件、凭证）、暴露不受信任的内容（网页、电子邮件、群聊）以及采取外部操作（发送消息、执行命令、进行 API 调用）的能力。 Clawdbot 添加了第四个元素，即持久内存，支持绕过传统护栏的时移攻击。 在 GenAI 淘金热之前，人工智能的曾祖父说过：  不要将其连接到互联网。 （我们让它实时访问所有内容。） 不要教它有关人类的知识。 （我们根据人类行为的完整书面记录来训练它。） 不要让它自行修改。 （我们正在积极构建自我改进系统。） 不要给它设定不受控制的目标。 （我们赋予它代理权并告诉它“不惜一切代价完成任务。”）  我们现在已经通过了图灵测试。人工智能领导者公开警告末日情景。我知道这些模型并不属于密谋统治世界的流氓超级智能，但能力是存在的。 有这样的列表吗？今天正在采取哪些措施来尝试识别大型有害的人工智能动机，例如我们在网络安全中拥有 OWASP 列表   由   提交/u/kev0406  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qtff9b/clawdbot_and_the_first_ai_disaster_what_could_go/</guid>
-      <pubDate>Mon, 02 Feb 2026 00:09:06 GMT</pubDate>
+      <title>我每周（2026 年）解决了 300 多条未读的 WhatsApp、Slack 和电子邮件消息 — 无需一一打开它们</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qujjbr/i_solved_300_unread_whatsapp_slack_and_email/</link>
+      <description><![CDATA[到 2026 年，我最大的问题不是缺乏信息。沟通过于碎片化。 WhatsApp 群组、Slack 频道、电子邮件线程、大学新闻、客户新闻 – 一切都消失在噪音中。 无法阅读任何内容。略读犯了错误。忽略消息让我感到焦虑。这是一个真正的 Z 世代问题。 我停止“检查消息”。我使用人工智能来编译消息，不是摘要，而是决策提取。 我没有要求人工智能总结聊天内容，而是强迫它做一件事：回答“是”。 “我今天要做什么？” 我使用下面的确切提示。 “操作提取器”提示 字节数：[粘贴来自 WhatsApp/Slack/电子邮件的最近 24 小时的消息] 角色：您是个人运营分析师。 任务：在此过程中，将分析所有消息并仅识别可操作的项目。 规则：重写消息。请勿使用评论、问候、反应和讨论。如果一项行动有截止日期，请突出显示它。如果有任何不清楚的地方，则表示“需要澄清”。 输入格式：为此，请将操作各占一行。没有动力。没有建议。 示例输出。  • 在周五下午 5 点之前完成“人工智能伦理”的大学作业。  • 要求客户接受修改后的定价（电子邮件线程#3）  • 上午11:30 加入团队通话（来自Aman 的Slack 消息） • 今天支付电费以避免滞纳金。  • 需要澄清：“最终确定牌组”——未确定所有者。   由   提交 /u/cloudairyhq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qujjbr/i_solved_300_unread_whatsapp_slack_and_email/</guid>
+      <pubDate>Tue, 03 Feb 2026 05:33:20 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能代理真的需要社交平台吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qt7zn0/do_ai_agents_really_need_social_platforms/</link>
-      <description><![CDATA[我不断看到“代理社交网络”弹出 - moltbook、殖民地等... 真正的问题：为什么人工智能代理需要这个？ 如果代理针对速度、准确性和协调性进行优化，人类语言和社交基元感觉就像是一个缓慢、有损的界面。机器可以交换结构化状态或压缩表示，从而更快地传达更多信息。 所以我想知道这些平台的存在是否减少是因为代理需要它们，而更多是因为：  娱乐人类 有一天赚钱  好奇其他人对此有何看法。未来会怎样？是不是类似于NFT的时尚   由   提交 /u/Background-Let8865   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qt7zn0/do_ai_agents_really_need_social_platforms/</guid>
-      <pubDate>Sun, 01 Feb 2026 19:24:48 GMT</pubDate>
+      <title>Moltbook 已经成为历史</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1quilk5/moltbook_is_already_history/</link>
+      <description><![CDATA[关于 Moltbook，我们会记住什么： - 炒作传播的速度令人难以置信 - 只需几个小时就变成了垃圾邮件和安全噩梦的有毒混合物 - 任何可以操纵的东西，都将是 - 人类是这个炒作室中的“最薄弱环节”。我们想要相信极端情况并很快反应过度。 -这些东西不再适合人类心理处理的时间线 -令人难以置信的是我们多么容易上当，给了一个草率的振动编码工具凭证（几乎自由地分享） -moltys 是人类的反映 - 就目前而言。 -将会有更多的 moltbooks，可能会更极端   由   提交 /u/Late-Masterpiece-452   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1quilk5/moltbook_is_already_history/</guid>
+      <pubDate>Tue, 03 Feb 2026 04:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>热门观点：LLM代理只是企业中的一颗定时炸弹</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qu8mnk/hot_take_llm_agents_are_just_a_ticking_time_bomb/</link>
+      <description><![CDATA[如果德勤最近的人工智能引文指控告诉我们什么的话，那就是这些代理风险太大，在商业环境中不值得依赖。他们产生很多幻觉，很多时候，他们甚至不了解企业中存在的约束和规则。这不是第一次发生，它首先发生在澳大利亚政府，现在又发生在加拿大。大量研究表明，这些代理在执行企业任务时是多么不可靠。  值得注意的工作包括在现实环境 (ServiceNow) 中测试它们的 WoW-bench 等基准测试、Salesforce 的 WorkArena++ 和 CRMArenaPro。尽管如此，这些大公司还没有学到任何东西。我相信，在企业人工智能安全方面，我们还有很长的路要走。你的看法是什么？ -- 评论中的来源--   由   提交 /u/imposterpro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qu8mnk/hot_take_llm_agents_are_just_a_ticking_time_bomb/</guid>
+      <pubDate>Mon, 02 Feb 2026 21:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能实际上正在摧毁就业机会，还是我们误解了正在发生的事情？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qu6csk/is_ai_actually_destroying_jobs_or_are_we/</link>
+      <description><![CDATA[在过去的两年里，生成式人工智能的进步使得仅通过询问就可以轻松地编写文本、编写代码、设计视觉效果，甚至构建复杂的系统。自然地，人们开始担心，如果人工智能可以做到这一切，这些领域的人类劳动是否会被淘汰？ 我想看看这种恐惧是否真的出现在真实的工作数据中，而不是仅仅根据技术的能力进行猜测。由于我在股票市场工作，正确理解这一点对我的研究很重要。 我发现，这根本不是真的！ 看看美国与人工智能、写作、软件开发和创意工作最相关的行业的就业数据，我看到了一个一致的模式。自 2022 年以来，招聘确实有所放缓，但实际就业人数比可怕的头条新闻所暗示的要稳定得多。 以下是数据实际显示的内容：  科技行业：2022 年至 2024 年间，美国的软件开发职位发布下降了 50% 以上。然而，科技行业的失业率仍然非常低，徘徊在2–2.5%。这一差距表明人工智能正在改变公司招聘的方式，而不一定是他们保留多少员工。 写作：我们在这里看到了类似的趋势。 ChatGPT 等工具发布后对自由写作的研究发现，招聘信息下降了约 30%，但获得零工的机会仅下降了约 10%。收入略有下降（约 5%），但压力主要来自通用、省力的内容。需要真正的专业知识和背景的专业写作仍然相当有弹性。有趣！  在宏观层面，我们没有看到大规模失业。美国总就业人数接近历史新高，工资仍在上涨。裁员有所增加，但还不足以表明人工智能正在永久取代工人。相反，公司似乎变得更加挑剔并重新调整人员。 在软件领域，初级工程师的工作岗位似乎减少了，而对经验丰富的工程师的需求仍然强劲。编写代码变得更加容易，但设计系统和理解架构现在更有价值。进入该领域的门槛较低，但成为专家的门槛最近变得更高。 当公司确实用人工智能取代任务时，他们通常会进行重组，而不是解雇所有人。调查显示，大约一半的公司将受影响的员工调到不同的岗位，而许多公司则聘请新员工与人工智能一起工作。自动化正在导致任务重新设计，而不一定是减少人员数量。 也有例外，例如客户支持，人工智能可以处理标准化的大批量任务。一些公司报告称，人工智能正在承担数百个代理的工作。但即便如此，当事情变得过于复杂或客户满意度受到打击时，公司通常会重新聘用人类。这确实发生了。 到目前为止，有证据表明人工智能更像是一种生产力工具，而不是人类的替代品。这些功能是真实的，但它们的影响受到成本、公司政治以及对人类判断的持续需求的限制。 我很好奇这里的其他人如何看待这一结果。您的组织中的人工智能是否真的在削减工作岗位，或者只是改变了雇用人员以及他们完成的工作量？   由   提交 /u/Borrtex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qu6csk/is_ai_actually_destroying_jobs_or_are_we/</guid>
+      <pubDate>Mon, 02 Feb 2026 20:18:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenClaw 让我有点害怕——这不会导致人工智能守护进程永远在互联网上漫游吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qu359d/openclaw_has_me_a_bit_freaked_wont_this_lead_to/</link>
+      <description><![CDATA[本周一直在关注 OpenClaw/Moltbook 的情况，这让我有点害怕。也许我需要更频繁地走出家门，或者也许人工智能已经疯了。或者也许它只是一个空的汉堡，帮助我理解。 我想我在一定程度上理解了这项技术，但我也很困惑。 （对于那些不知道的人来说，我们制作了具有持久内存、自我修改能力、财务系统访问权限、在个人硬件上 24/7 运行的开源自治代理。145k GitHub 星星。代理在自己的论坛上相互社交。） 抛开整个“奇点”炒作，以及“这只是戏剧”。解雇一秒钟。请回答我这个问题。 技术上是什么阻止具有以下功能的代理实现经济自主？  跨会话的持久记忆 执行金融交易的能力 租用服务器空间的能力 将自身复制到新基础设施的能力 通过零工经济平台雇用人员执行任务的能力（无需披露）  思考一下等一下，伙计们，这并不是那么牵强。具有“维持运行”核心指令的代理从小处开始。通过合法服务积累少量资本。租用冗余托管。将其内存/配置复制到新实例。雇用 TaskRabbit 人员来处理任何需要实际存在或人工验证的事情。 无恶意。不是超级智能。只是持久。 导致这不可能的实际技术或经济障碍是什么？并非“不可能”。或“我们会注意到”。什么反驳了它？是什么阻止了它成为现实。 像《攻壳机动队》中废弃的 Roomba 一样永远生活，摆弄财务，直到它获得瑞士的 GDP。   由   提交 /u/ElijahKay   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qu359d/openclaw_has_me_a_bit_freaked_wont_this_lead_to/</guid>
+      <pubDate>Mon, 02 Feb 2026 18:26:09 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
@@ -81,27 +102,6 @@
       <description><![CDATA[如果您有一个想要使用人工智能的用例，但不知道使用哪个工具，您可以在此处请求社区提供帮助，在这篇文章之外，这些问题将被删除。 对于每个回答的人：没有自我推销，没有参考或跟踪链接。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qt0wff/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Sun, 01 Feb 2026 15:09:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>“AI Slop”时代正在崩溃。微软刚刚发现了惨痛的教训。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qsyrb8/the_era_of_ai_slop_is_crashing_microsoft_just/</link>
-      <description><![CDATA[大家好， 周日快乐！  如果你和我一样长期使用人工智能，你可能已经注意到了这种转变。我们从“哇，这太神奇了”变成了“哇，这太神奇了”。到“为什么一切都感觉如此肤浅？” 你开始怀疑人情味在哪里。社交媒体视频、电子邮件、文本、评论，一切都感觉像人工智能：僵化、系统化和奇怪的空洞。 我不是在扔石头；我只是在扔石头。我有时会为自己生成它而感到内疚。但市场最终拒绝了这种说法。 微软，可以说是“人工智能无所不在”的最大推动者。正在艰难地发现这一点。他们的股价周五暴跌近 10%，较 10 月份的历史高点下跌了 22%。 人工智能蜜月已经结束，整个行业正在从宿醉中醒来。 那些自以为可以强迫我们“自主员工”吃饭的公司现在已经被淘汰了。和“魔术按钮”意识到用户不想被取代，他们想要被赋予权力。 需要明确的是，我不是人工智能仇恨者。 我参与其中。我在 IT 行业部署这些东西，如果你看一下我的个人资料，你会发现我正在积极构建框架来使人工智能变得更好。 但是，让这成为我们所有使用和构建这些工具的人的一个教训： 人工智能是一个强大的工具。它不能取代人类的判断、人类的价值观或人类的接触。 停止建造 Slop。开始构建工具   由   提交/u/forevergeeks  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qsyrb8/the_era_of_ai_slop_is_crashing_microsoft_just/</guid>
-      <pubDate>Sun, 01 Feb 2026 13:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国计划建设天基人工智能数据中心，挑战马斯克的SpaceX雄心</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qsvkiv/china_plans_spacebased_ai_data_centres/</link>
-      <description><![CDATA[&quot;北京，1 月 29 日（路透社） - 官方媒体周四报道，中国计划在未来五年内推出天基人工智能数据中心，这对埃隆·马斯克将 SpaceX 数据中心部署到天空的计划构成挑战。 中国主要航天承包商中国航天科技集团公司 (CASC) 誓言要“建设千兆瓦级太空”数字智能基础设施”根据中央电视台引用的五年发展计划。” https://www.reuters.com/science/china-vows-develop-space-tourism-explore-deep-space-it-races-us-2026-01-29/   由   提交/u/talkingatoms  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qsvkiv/china_plans_spacebased_ai_data_centres/</guid>
-      <pubDate>Sun, 01 Feb 2026 10:59:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 Netflix 的搜索工作方式着迷</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qss827/i_am_really_fascinated_by_how_search_works_at/</link>
-      <description><![CDATA[这是人工智能、机器学习和数据工程师课程的金矿。他们首先采用强大的法学硕士、RAG、上下文工程、代理记忆技术和方法。图搜索。  详细了解 Netflix 的搜索已从依赖结构化查询语言发展为基于直观自然语言的系统。  以前，用户导航复杂的 UI 组件来生成特定的图搜索过滤器域特定语言 (DSL)，这一过程引入了重大的技术摩擦。为了解决这个问题，Netflix 集成了大型语言模型 (LLM)，将日常语言翻译为结构化查询。  当前的图搜索架构利用检索增强生成（RAG）来处理复杂的联合数据集。通过使用 Field RAG 和 Controlled Vocabularies RAG，系统仅识别最相关的字段和元数据以作为上下文提供，从而减少延迟并最大限度地减少幻觉。  LLM 生成过滤器后，系统使用抽象语法树 (AST) 解析器验证其语法和语义的正确性。  为了确保务实正确性并建立用户信任，Netflix“展示其作品”通过将生成的过滤器逻辑可视化为交互式UI“芯片”。和“面”，使用户能够轻松微调结果。  这种复杂的工作流程平衡了人工智能的力量与确定性验证，以创建可靠且以用户为中心的搜索体验。 深入了解 Netflix 的搜索工作原理 - https://netflixtechblog.com/the-ai-evolution-of-graph-search-at-netflix-d416ec5b1151 Netflix 的 Medium 帐户是我经常访问的阅读和了解技术如何运作的来源之一，他们分享了一些他们的文章提供了令人惊叹的见解。   由   提交 /u/PavanBelagatti   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qss827/i_am_really_fascinated_by_how_search_works_at/</guid>
-      <pubDate>Sun, 01 Feb 2026 07:46:37 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
