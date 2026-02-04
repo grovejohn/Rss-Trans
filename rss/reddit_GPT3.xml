@@ -4,7 +4,21 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Wed, 04 Feb 2026 06:35:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 09:32:21 GMT</lastBuildDate>
+    <item>
+      <title>Claude.md 与 SKILLS.md - Vercel 实验</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1qvhlmq/claudemd_vs_skillsmd_vercel_experiment/</link>
+      <description><![CDATA[      由   提交 /u/shanraisshan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1qvhlmq/claudemd_vs_skillsmd_vercel_experiment/</guid>
+      <pubDate>Wed, 04 Feb 2026 06:56:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年，我通过命令 ChatGPT-5.2 “像高级经理一样让我的草稿失败”，消除了客户文档中 90% 的返工。</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1qvh97r/in_2026_i_eliminated_90_of_the_rework_in_client/</link>
+      <description><![CDATA[最大的时间杀手不是在日常生活中写作。审核后返工。 我发了一份文件。我的经理说：“我不是这个意思。”从来都不清楚期望是什么，而不是因为它是错误的。 咨询、运营、营销、产品、人力资源和合规工作都是如此。 大多数人使用 ChatGPT-5.2 来提高写作速度。 我用它来模拟提交之前的拒绝。 我不是要求 ChatGPT 改进我的草稿，而是强迫它表现得像会拒绝我草稿的读者。 它可能听起来很简单，但对很多人来说是不可能的。 这是我在发送任何作品之前使用的确切提示。 “经理拒绝模拟器”提示  角色：您是拒绝 70% 提交的高级审稿人。 任务：如果您没有时间并且要做这么多，请阅读此内容文件。 规则：假设期望没有完全披露。仅指定拒绝原因。尚未修复。坦率而现实。 输出格式：拒绝原因 → 违反了什么期望 → 严重性（低/中/高）  示例输出 1. 拒绝原因：决策缺乏明确性。 2. 违反期望：经理想要明确的建议，而不是分析。 3. 严重性：非常高。   拒绝原因：提到了风险，但未确定优先级。  违反预期：高级审查需要明确的权衡。  严重性：中。  为什么这有效？ GPT-5.2最强的是评估，而不是生成。在我的经理真正看到该文件之前，我就找出了误解。   由   提交 /u/cloudairyhq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1qvh97r/in_2026_i_eliminated_90_of_the_rework_in_client/</guid>
+      <pubDate>Wed, 04 Feb 2026 06:36:48 GMT</pubDate>
+    </item>
     <item>
       <title>最近有人注意到记忆力下降吗？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1qvfisb/has_anyone_noticed_a_decline_in_memory_recently/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/Diligent_Rabbit7740  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1qtlh0b/how_do_i_turn_off_do_not_disturb/</guid>
       <pubDate>Mon, 02 Feb 2026 04:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手寻求有关 VSCode 人工智能积分的建议</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1qt0iuu/newbie_looking_for_advice_on_ai_credits_for_vscode/</link>
-      <description><![CDATA[我是编码新手，正在将 VSCode 与 Codex OpenAI 结合使用，它对我来说效果很好，直到我的积分很快用完。然后我尝试将 Gemini 与 VSCode 结合使用，但制作人员名单也很快消失了。我也尝试了Qwen，也发生了同样的事情。我还没有尝试过 Deepseek，但如果积分很快就会用完，我不想浪费时间。 有谁知道如何让积分持续更长时间，或者是否有免费模型（如 Qwen 或 Deepseek）可以在不消耗积分的情况下运行良好？如有任何建议，我们将不胜感激！   由   提交 /u/Aggressive-Coffee365   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1qt0iuu/newbie_looking_for_advice_on_ai_credits_for_vscode/</guid>
-      <pubDate>Sun, 01 Feb 2026 14:54:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-4o 弃用：为什么人们对人工智能感到悲伤 | 2026年</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1qshnxt/gpt4o_deprecation_why_people_are_grieving_an_ai/</link>
-      <description><![CDATA[       由   提交 /u/Own_Amoeba_5710   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1qshnxt/gpt4o_deprecation_why_people_are_grieving_an_ai/</guid>
-      <pubDate>Sat, 31 Jan 2026 23:22:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
