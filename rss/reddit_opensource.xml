@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 04 Feb 2026 12:32:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 15:34:50 GMT</lastBuildDate>
+    <item>
+      <title>阻止项目用于训练人工智能的许可证</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qvpddm/licenses_that_prevent_project_from_being_used_to/</link>
+      <description><![CDATA[此 GitHub 存储库包含阻止该项目用于训练 AI 的开源许可证：https://github.com/non-ai-licenses/non-ai-licenses 我不知道如何强制执行这些许可证，但仍然认为它是有趣。   由   提交/u/nicholas_hubbard  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qvpddm/licenses_that_prevent_project_from_being_used_to/</guid>
+      <pubDate>Wed, 04 Feb 2026 14:02:58 GMT</pubDate>
+    </item>
     <item>
       <title>KDE 教育活动集合 GCompris 发布 26.0 版本</title>
       <link>https://www.reddit.com/r/opensource/comments/1qvljvt/gcompris_kdes_collection_of_educational/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[如果您想支持开源科学，请查看 BOINC。  除了运行客户端之外，许多项目都有 GitHub 赏金，或者需要针对新指令集进行代码优化的帮助。  这是为“公民科学”做出贡献的一种很酷的方式。通过捐赠空闲周期或帮助优化这些项目利用 NPU 等现代硬件的方式。   由   提交 /u/Putrid_Draft378   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qtaggj/contributing_to_science_via_code_and_compute/</guid>
       <pubDate>Sun, 01 Feb 2026 20:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>50 年前，年轻的比尔盖茨与“软件盗版者”展开较量</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qt694l/50_years_ago_a_young_bill_gates_took_on_the/</link>
-      <description><![CDATA[       由   提交/u/gadgetygirl  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qt694l/50_years_ago_a_young_bill_gates_took_on_the/</guid>
-      <pubDate>Sun, 01 Feb 2026 18:24:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
