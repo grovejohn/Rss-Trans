@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Feb 2026 04:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 06:37:13 GMT</lastBuildDate>
+    <item>
+      <title>WASM 是 Node.js 工具的无声杀手吗？我的基准测试结果非常疯狂。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qvh1y7/is_wasm_the_silent_killer_of_nodejs_for_tooling/</link>
+      <description><![CDATA[嘿 r/webdev， 我最近一直在深入研究性能优化，但我一直遇到同样的基本障碍：大规模构建管道中的 Node.js 开销。 从开发服务器到运行时环境，我们都依赖 Node，但当涉及到繁重的解析、转译、编译 JS 运行时似乎正在努力跟上现代大型应用程序的需求。  工具中的 WASM 革命 如果您最近没有仔细观察，WebAssembly 不再仅仅适用于浏览器中的 C++ 游戏引擎。它正在积极接管我们 Web 开发堆栈的基础设施方面。 像 SWC（取代 Babel/TS）、esbuild 这样的项目，甚至像 Biome 这样的新格式都证明，将工具核心编译为 Rust/Go 并作为 WASM（或本机二进制文件）运行它可以提供纯 JS 根本无法企及的加速。 为什么这些 Rust/WASM 工具如此快？   近乎原生的性能：核心逻辑没有 V8 解释层。  内存效率：在复杂操作期间显着降低内存占用。  跨平台稳定性：更容易保证跨不同操作系统/架构的一致构建（因为 WASM 模块在各处运行相同）。   我的轶事证明（加速 40%） 我最近将中型 monorepo（大约 500 个组件）中基于标准 JS 的格式化程序/linter 步骤替换为其 WASM 编译的替代方案，并且我的 CI 管道构建时间下降了 40%（从 8 分钟减少到 4 分钟） 45秒）就在这一步！这甚至不是一项复杂的任务，只是繁重的 I/O 和解析。 这并不是要完全取代 Node，而是要隔离最繁重、CPU 密集度最高的任务，并将它们交给专门的编译运行时。 您的想法是什么？ 您是在积极集成基于 WASM 的工具，还是严格遵守传统的 Node/JS 生态系统？我们是否会看到 Node 主要用于服务器端逻辑而不是构建基础设施的未来？ 改变我的想法：我们需要停止在 JS 中构建构建工具。 LFG！   由   提交 /u/Mikasa0xdev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qvh1y7/is_wasm_the_silent_killer_of_nodejs_for_tooling/</guid>
+      <pubDate>Wed, 04 Feb 2026 06:25:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>PWA 的恶作剧拯救了我的灵魂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qvgf60/pwa_shenanigans_have_saved_my_soul/</link>
+      <description><![CDATA[在过去 5 年左右的时间里，我在几家工厂担任软件开发人员，然后负责一些私人合同，以及一些分散在那里的网站。我尝试制作一些随机软件并出售它，但我讨厌它的每一秒，我这样做了几次，它已经让我的灵魂崩溃了。我最近退出了 IT 行业，开始在一家建筑材料公司工作，驾驶装载机，从未如此快乐过。一两周前，我决定制作一些我喜欢使用的东西，并将它们作为 PWA 免费发布，并在做的过程中享受乐趣。我使用 AI（双子座）进行一些高级规划和错误修复，它对于图像和一致的颜色样式最有用。剩下的就是我在 svelte 5 中硬闯。  到目前为止，我只有一个番茄计时器、一个箱式呼吸助手和一个决策者。我很快就会添加更多 PWA。它们都非常简单，但处理它们和登陆页面是我多年来所做的最愉快的编码。我一直喜欢苗条，但从来没有用它来工作。我只是想分享，因为这是我一段时间以来第一次感到自豪的事情。另外，请随意建议您可能想看到的任何 PWA   由   提交 /u/Quiet_Drummer669988   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qvgf60/pwa_shenanigans_have_saved_my_soul/</guid>
+      <pubDate>Wed, 04 Feb 2026 05:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了构建功能之外，一家专门的企业 Web 应用程序开发公司实际上如何为长期业务增长做出贡献？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qvg7ic/beyond_just_building_features_how_does_a/</link>
+      <description><![CDATA[大家好，我想分享一个基于我所看到的实际想法，我也很乐意从你们的经验中学习。 在现实生活中，一家专门的企业 Web 应用开发公司只有当他们表现得像所有者而不是功能工厂时才能帮助长期增长。真正的价值体现在无聊但关键的时刻：  当他们拒绝糟糕的功能请求而不是盲目地交付它们时 当他们设计系统时假设应用程序将大规模崩溃并为其制定计划 当他们积极降低未来维护成本，而不仅仅是达到冲刺期限 当安全性、正常运行时间和数据完整性被视为增长时杠杆，而不是复选框  我也看到了相反的情况：交付速度快，看起来富有成效，但悄悄地产生了技术债务，导致 12-18 个月后业务放缓。 所以对我来说，长期增长不在于功能交付的速度有多快，而在于公司是否在未来 2-3 年进行优化，而不是下一个演示。 我很想听听您的看法真实世界的经历。我真的很想向你们学习，并且很高兴看到在实践中实际有效（或失败）的内容。   由   提交/u/DigitalHarbor_Ease  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qvg7ic/beyond_just_building_features_how_does_a/</guid>
+      <pubDate>Wed, 04 Feb 2026 05:39:42 GMT</pubDate>
+    </item>
     <item>
       <title>我问A.I.修复错误</title>
       <link>https://www.reddit.com/r/webdev/comments/1qvelo2/i_asked_ai_to_fix_a_bug/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[开发和设计团队，我正在寻找有关目录摄影的参考网站，您知道的可以很好地展示其产品的网站，无论是零售目录还是工业目录。如果有人知道任何好的网站并可以分享它们，甚至是关于如何/在哪里找到它们的想法！   由   提交/u/Piramideiro_Astuto   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qv37qj/research_website_references/</guid>
       <pubDate>Tue, 03 Feb 2026 20:27:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>VPS IOPS 与延迟：为什么 NVMe 基准会撒谎</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qv1z8d/vps_iops_vs_latency_why_nvme_benchmarks_lie/</link>
-      <description><![CDATA[       由   提交/u/fhritp15  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qv1z8d/vps_iops_vs_latency_why_nvme_benchmarks_lie/</guid>
-      <pubDate>Tue, 03 Feb 2026 19:42:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于所有人工智能提供商来说，“是不是宕机了”，因为此时每天都会出现一些问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qv0uo6/is_it_down_for_all_ai_providers_because_at_this/</link>
-      <description><![CDATA[ 由   提交 /u/sirjoaco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qv0uo6/is_it_down_for_all_ai_providers_because_at_this/</guid>
-      <pubDate>Tue, 03 Feb 2026 19:01:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建我未来的项目。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1quzeic/how_i_structure_my_future_projects/</link>
-      <description><![CDATA[多年来，在使用各种架构之后，理所当然地尝试了不同风格的干净架构，但我仍然觉得总是会出现相同的痛点，迷失于搜索正确的服务、无尽的存储库以及跨域需求，但没有明确的方法来处理这些问题，这样的例子不胜枚举。因此，最近我改进了自己的项目结构方式，受到垂直切片架构和 API 第一范式的启发，以清晰的方式处理跨域问题，使其易于导航、可扩展，并概述了如何处理跨域问题的清晰路径。 核心结构：  Monorepo-lite： /apps 和 /libs 设置。它不是微服务，但它是“微服务就绪”。 API 作为事实来源：共享库包含核心 OpenAPI/Protobuf 定义。一切都取决于此。 功能优先文件夹：每个端点都有自己的文件夹，其中包含自己的数据库查询、映射器和模型。不再需要在 5 个文件夹之间跳转来更改一个字段。 显式集成：而不是“不可见”跨域调用，我使用专用的 integration/[target-domain] 文件夹结构。它使项目能够自我记录 - 您可以一目了然地看到哪些域依赖于其他域。  如果您有兴趣，我写了一个详细的说明，说明我如何设置它：https://pragmatic-code.hashnode.dev/how-to-set-up-a-slim-project-architecture-that-scales  那么你觉得怎么样，如何分割你的架构？   由   提交/u/Clear-Astronomer-717   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1quzeic/how_i_structure_my_future_projects/</guid>
-      <pubDate>Tue, 03 Feb 2026 18:09:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
