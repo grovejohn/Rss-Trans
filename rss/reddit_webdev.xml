@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Feb 2026 18:34:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 21:24:54 GMT</lastBuildDate>
+    <item>
+      <title>什么是有史以来最伟大的软件产品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qw1daq/what_is_greatest_software_product_of_all_time/</link>
+      <description><![CDATA[我认为是搜索，但 llm 也在那里   由   提交 /u/whyyoucrazygosleep   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qw1daq/what_is_greatest_software_product_of_all_time/</guid>
+      <pubDate>Wed, 04 Feb 2026 21:20:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>90s.dev，一个发布 90 年代开发主题客座文章的新平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qw02dx/90sdev_a_new_platform_for_90sdevthemed_guest/</link>
+      <description><![CDATA[ 由   提交 /u/Life-Silver-5623   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qw02dx/90sdev_a_new_platform_for_90sdevthemed_guest/</guid>
+      <pubDate>Wed, 04 Feb 2026 20:33:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站适用于除 MacBook 之外的所有设备 - 图像无法加载</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qvzqm3/website_works_on_every_device_except_one_macbook/</link>
+      <description><![CDATA[客户面临一个奇怪的问题，即网站在除 MacBook 之外的所有设备和浏览器上都能完美运行。在他的笔记本电脑上，图像无法加载，下拉按钮（例如个人资料菜单和注销）不起作用，并且他无法从右上角注销。已经清除cookies和缓存，多次重新启动笔记本电脑，卸载并重新安装Chrome和Firefox。奇怪的是，同一个网站在其他笔记本电脑和手机上运行良好，在其他设备上的相同浏览器中运行良好，并且所有其他网站在他的 MacBook 上正常运行。该笔记本电脑仅使用了 6 个月，因此这似乎确实是该设备特有的问题。有没有人经历过类似的事情或知道可能导致这种情况的原因是什么？   由   提交/u/joy_and_grief  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qvzqm3/website_works_on_every_device_except_one_macbook/</guid>
+      <pubDate>Wed, 04 Feb 2026 20:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该从 React 迁移到 Eleventy 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qvwxmm/should_i_move_from_react_to_eleventy/</link>
+      <description><![CDATA[我正在运行一个使用 Next.js + React 构建的内容丰富的网站，但它受到很大的限制并且很好理解。目前状态： Lighthouse 99 性能 / 100 SEO 移动流畅，实际使用中没有白屏 零插件，无 CMS，无抽象 图像经过优化且速度很快 网站已经稳定了很长一段时间 - 没有任何中断 网站主要是静态文章。存在自定义新闻通讯，但现在处于休眠状态。 Eleventy 很诱人，因为： ~70–80% 代码减少 Markdown 优先编写 非常快的构建 更干净的长期简单性 我的犹豫：在 11ty 中匹配我当前的图像管道可能意味着插件或外部图像 CDN 重新引入第三方依赖项 我有意避免 当前站点已经让用户感觉“即时” 迁移风险可能超过好处，因为没有任何损坏 问题：是否值得迁移稳定、高性能的 Next.js 内容将网站迁移到 Eleventy 纯粹是为了长期的简单性？对从 Next.js 迁移到 Eleventy 并必须长期维护它的人们的回复特别感兴趣。   由   提交 /u/SherlockRodrigz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qvwxmm/should_i_move_from_react_to_eleventy/</guid>
+      <pubDate>Wed, 04 Feb 2026 18:41:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有更明智的方法可以申请工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1qvwwrl/is_there_a_smarter_way_i_could_be_applying_to_jobs/</link>
+      <description><![CDATA[你好，我是一名应届毕业生，我希望进入网络开发领域，这样我就可以赚大钱并满足我的动漫瘾 我一直在严格申请 LinkedIn 和 ziprecruiter 上的工作，但我运气不佳（就像现在的其他人一样，哈哈）。我创建这篇文章是为了询问我是否可以比仅仅坚持这两个工作网站更聪明地进行申请。你们认为我去招聘海报的实际网站会更有运气吗？   由   提交/u/Loud_Lingonberry7105   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1qvwwrl/is_there_a_smarter_way_i_could_be_applying_to_jobs/</guid>
+      <pubDate>Wed, 04 Feb 2026 18:40:45 GMT</pubDate>
+    </item>
     <item>
       <title>帮助AI助手正确实现webhooks的代理技能</title>
       <link>https://www.reddit.com/r/webdev/comments/1qvub6o/agent_skills_to_help_ai_assistants_implement/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[这里有人经营网络开发或设计机构并向现有客户提供人工智能代理吗？ 我不是在谈论“聊天机器人作为产品”或大型重建。更像是一个小升级..下班后查询、常见问题解答、潜在客户捕获、预订会议.. 客户对此表示同意吗？您如何定位它（升级、保留、支持附加）？你卖这些代理的价格是多少？ 我会在评论中留下一个简短的资源（Dan Latham）但它基本上是说，你的客户不想为网站保留者支付 50 英镑/月，但他们愿意为会议预订者支付 200 英镑/月。   由   提交/u/Mousemafia   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qvpfvx/upselling_clients/</guid>
       <pubDate>Wed, 04 Feb 2026 14:05:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular 和 Laravel？为什么？为什么不呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qvoll0/angular_and_laravel_why_why_not/</link>
-      <description><![CDATA[嗨，我是 Web 开发的初学者，但对学习新事物并找到自己的网站/Web 应用程序编程方式感到好奇。 我听说强烈建议使用 Laravel 作为后端，因为它易于管理，并且 Angular 适合结构化前端工作，但更多地用于企业网站/网络应用程序。 我还经常听说 Angular 用户通常使用 Nest.js、Next.js、.NET 或 Java Spring/Boot 作为后端。 Laravel 用户经常使用 React、Vue 或 Vite，但不使用 Angular。您对此有何看法？我已经使用 Laravel 和 Angular 制作了一个网站，目前正在启动另一个网站。我应该切换后端还是前端框架？ 现在我想问你们，真正的开发者：  你们用什么？ 如果你们用 Angular 或 Laravel，你们用什么作为后端/前端？ 为什么用它（项目需求？）  也拿一个看看Stackoverflow调查请不要恨我（我已经有足够的恨了，因为我是初学者xD）。谢谢，我感谢每一个回答！   由   提交 /u/Minute_Professor1800   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qvoll0/angular_and_laravel_why_why_not/</guid>
-      <pubDate>Wed, 04 Feb 2026 13:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在人工智能工具之间切换感觉支离破碎——还有其他人吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qvodwp/switching_between_ai_tools_feels_fragmented/</link>
-      <description><![CDATA[好吧，随机问题 - 有没有其他人觉得在 GPT、Claude 等之间切换有点烦人，因为它们都不共享上下文？ 我使用一堆代理，每次我告诉 GPT 一些东西，Claude 都不知道，然后我最终复制粘贴或重新上传相同的东西。 它破坏了工作流程，创建了重复的上下文，并且老实说减慢了我的速度 正在思考，是否有像 AI 内存的“格子”一样 - 一个连接工具、管理权限和共享内存的地方？ 想象一个存储内存、处理谁可以读取什么内容的单个 MCP 服务器或集线器，并让任何代理调用相同的工具集成。 看起来这会解决很多摩擦，但也引发了隐私和身份验证问题 - 谁拥有内存，如何撤销访问权限？ 现在我基本上使用向量 DB、RAG 和小型中间件（Zapier、n8n）的混合来将事物粘合在一起，这很混乱。很好奇其他人如何处理这个问题 - 有任何酷的解决方案还是只是“构建自己的”领域？   由   提交/u/mpetryshyn1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qvodwp/switching_between_ai_tools_feels_fragmented/</guid>
-      <pubDate>Wed, 04 Feb 2026 13:20:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>初级应用程序 UI 设计师希望与开发人员合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qvoc3n/beginner_app_ui_designer_looking_to_collaborate/</link>
-      <description><![CDATA[我是一名初学移动 UI 设计师（初级），目前就读 11 年级，正在逐步学习应用界面设计。我设计了单独的应用程序 UI 屏幕（尚未完整的端到端流程），并完成了一个项目来展示我的技能。我特别希望与开发人员合作开发小型应用程序项目，在那里我可以贡献 UI 设计并在开发过程中学习。我可以接受最低工资或初级工资——我的主要目标是获得经验并有效协作。我当前的重点领域包括： 干净、结构化的移动 UI 布局 改善视觉层次结构和可用性 识别和完善 UI 差距 如果您是构建应用程序的开发人员，并且需要初级 UI 设计师进行协作，请随时与我们联系。我很高兴分享我的项目并讨论我们如何合作。感谢您的阅读。   由   提交 /u/Salt-Inevitable5298   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qvoc3n/beginner_app_ui_designer_looking_to_collaborate/</guid>
-      <pubDate>Wed, 04 Feb 2026 13:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为临时工作接管做准备</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qvo9zp/preparing_for_temporary_job_takeover/</link>
-      <description><![CDATA[我是一家公司的独立开发人员，我正准备休假。在我外出期间，公司正在招聘一名临时开发人员。除了基本环境设置之外，我能做些什么来确保他们拥有轻松加入所需的一切    由   提交/u/CharlesCSchnieder  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qvo9zp/preparing_for_temporary_job_takeover/</guid>
-      <pubDate>Wed, 04 Feb 2026 13:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Google Lens 提升到新水平 - 生产力提高 10 倍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1qvn87l/take_google_lens_to_the_next_level_10x_times_more/</link>
-      <description><![CDATA[      大家好，我推出了我的新产品屏幕搜索 它将 Google Lens 的强大功能直接带入您的浏览器。只需点击并拖动即可立即搜索您在网站上看到的任何内容，无论是文本、图像，甚至是视频的一部分。 该产品使反向搜索比 Google Lens 简单 10 倍   由   提交/u/InspirationEither7111   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1qvn87l/take_google_lens_to_the_next_level_10x_times_more/</guid>
-      <pubDate>Wed, 04 Feb 2026 12:27:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
