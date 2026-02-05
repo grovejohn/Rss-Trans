@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 05 Feb 2026 01:02:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 04:31:15 GMT</lastBuildDate>
+    <item>
+      <title>百合编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1qwawxu/lily_programming_language/</link>
+      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qwawxu/lily_programming_language/</guid>
+      <pubDate>Thu, 05 Feb 2026 04:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人尝试使用 opentelemetry 进行本地调试而不是产品监控？</title>
+      <link>https://www.reddit.com/r/programming/comments/1qw9d5u/has_anyone_tried_using_opentelemetry_for_local/</link>
+      <description><![CDATA[我最近一直在使用人工智能编码代理进入这个兔子洞。它们对于样板文件非常有用，但是当您要求它们调试一些不平凡的东西时，它们就会崩溃。我的理论是，这不是推理问题，而是输入问题。人工智能只能看到静态代码，所以它只是猜测运行时发生了什么。 if/else 的哪个分支运行？该变量的值是多少？它不知道。这会导致这个愚蠢的循环，它建议修复，这是错误的，你告诉它它是错误的，它只是再次猜测，烧毁你的令牌。所以我有这个想法，如果你可以给人工智能运行时上下文怎么办？就像代码的飞行记录器一样。然后我想到了开放遥测技术。我们都将它用于产品中的分布式跟踪，但核心技术只是检测代码和收集数据。我一直在为本地开发人员摆弄它。我构建了这个东西，它使用自定义的酒店导出器将所有跟踪数据写入内存中的环形缓冲区。它始终处于开启状态，但占用空间很小，因为它只是覆盖旧数据。当任何错误被触发时，它会冻结缓冲区并快照执行历史记录的最后几秒——堆栈跟踪、变量、整个交易。然后，它通过本地服务器将这些数据直接注入人工智能代理的上下文中。所以现在，您只需将代理技能复制到您的代理中，然后询问“嘿，调试这个”，而不是我的手动 console.log 舞蹈。像平常一样。结果有点疯狂。 AI 可以说“好吧，根据运行时跟踪，该变量在第 42 行为空，这导致了崩溃”，而不是猜测。我将它打包成一个名为 Syncause 的工具，并将 Agent Skill 部分开源，以使其更易于使用。与将更多源代码转储到上下文窗口相比，这感觉是一种更好的方法。我仍在努力，只用了 5 天，哈哈   由   提交/u/NightRider06134  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qw9d5u/has_anyone_tried_using_opentelemetry_for_local/</guid>
+      <pubDate>Thu, 05 Feb 2026 02:49:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过制作 Game Boy 模拟器来学习底层计算和 C++</title>
+      <link>https://www.reddit.com/r/programming/comments/1qw8zjg/learning_lowlevel_computing_and_c_by_making_a/</link>
+      <description><![CDATA[ 由   提交/u/NXGZ   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qw8zjg/learning_lowlevel_computing_and_c_by_making_a/</guid>
+      <pubDate>Thu, 05 Feb 2026 02:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>为您的个人项目编写代码，购买 Macbook Air！</title>
+      <link>https://www.reddit.com/r/programming/comments/1qw7p1z/code_your_personal_projects_get_a_macbook_air/</link>
+      <description><![CDATA[Flavortown 是由 Hack Club（一个 501(c)(3) 非营利组织）主办的活动，您可以通过编写任何个人项目来赢得奖品。它们会跟踪您通过 hackatime 编码的时间，您可以将其安装在您选择的 IDE 中。 奖品是根据您编码的时间而定，因此您编码的时间越多，您赢得的就越多！这不是一场“竞赛”，任何编码的人都会获得“cookies”，这是一种店内货币，您可以用它来购买 Macbook Air、Mac Mini、iPad Air、佳能 R50 相机、 Bambu Lab A1 3D 打印机，以及 45 个其他奖品。 Flavortown 只允许 13-18 岁，请使用下面的推荐链接，或扫描二维码来帮助我获取框架:) https://flavortown.hack.club/?ref=CloudsAreCloudy   由   提交/u/Squibble0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qw7p1z/code_your_personal_projects_get_a_macbook_air/</guid>
+      <pubDate>Thu, 05 Feb 2026 01:36:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>主页最差的工具往往是最好的</title>
+      <link>https://www.reddit.com/r/programming/comments/1qw72pb/tools_with_the_worst_homepages_are_often_the_best/</link>
+      <description><![CDATA[像 NGINX 这样的一些最可靠、经过实战考验的工具（库）的主页丑陋、简约、过时。 同时，具有精美登陆页面、动画和营销文案的库往往会显得肤浅、不稳定或被遗弃。 糟糕的主页通常意味着作者针对 API、正确性和文档进行了优化，而不是 好的主页通常意味着项目需要营销才能生存。   由   提交/u/IcyMixture4339   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qw72pb/tools_with_the_worst_homepages_are_often_the_best/</guid>
+      <pubDate>Thu, 05 Feb 2026 01:09:02 GMT</pubDate>
+    </item>
     <item>
       <title>C、Golang 和 Rust 适用于真实硬件上的 PS2 + N64 在线超级马里奥 64 合作社</title>
       <link>https://www.reddit.com/r/programming/comments/1qw6lrd/c_golang_and_rust_for_ps2_n64_online_super_mario/</link>
@@ -13,7 +48,7 @@
       <pubDate>Thu, 05 Feb 2026 00:48:36 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>[IntelliJ] 2026.1 EAP 中默认使用 Wayland</title>
       <link>https://www.reddit.com/r/programming/comments/1qw5o6z/intellij_wayland_by_default_in_20261_eap/</link>
       <description><![CDATA[ 由   提交 /u/BlueGoliath   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qw5o6z/intellij_wayland_by_default_in_20261_eap/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/GreedyRub6442   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qw067b/tigerstyle_coding_philosophy_focused_on_safety/</guid>
       <pubDate>Wed, 04 Feb 2026 20:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于数据项目的现代 Python 堆栈（uv + ruff + ty + Marimo + Polars）</title>
-      <link>https://www.reddit.com/r/programming/comments/1qvxgvx/a_modern_python_stack_for_data_projects_uv_ruff/</link>
-      <description><![CDATA[我为 Python 数据项目整理了一个模板存储库（文章中链接），并写下了工具选择和权衡背后的“原因”。 模板中的 TL;DR 堆栈：  用于项目 + 环境管理的 uv 用于 linting + 格式化的 ruff ty 作为更新、快速的类型检查器 Marimo 而不是 Jupyter，用于反应式、可复制的笔记本，只是 .py 文件 Polars 用于本地争论/分析  想知道其他人在 2026 年将使用什么来实现此工作流程，以及此设置的不足之处   由   提交 /u/makeKarmaGreatAgain   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qvxgvx/a_modern_python_stack_for_data_projects_uv_ruff/</guid>
-      <pubDate>Wed, 04 Feb 2026 19:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何设计一个 SDK 来处理 100 亿美元的交易</title>
-      <link>https://www.reddit.com/r/programming/comments/1qvxf7m/how_to_design_an_sdk_to_handle_10bn_in/</link>
-      <description><![CDATA[ 由   提交/u/jacobs-tech-tavern   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qvxf7m/how_to_design_an_sdk_to_handle_10bn_in/</guid>
-      <pubDate>Wed, 04 Feb 2026 18:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeBASIC YouTube 教程 - 让我们尝试编写一些代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1qvwkhk/freebasic_youtube_tutorials_lets_try_to_code/</link>
-      <description><![CDATA[ 由   提交/u/Strong-Creme-3004  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qvwkhk/freebasic_youtube_tutorials_lets_try_to_code/</guid>
-      <pubDate>Wed, 04 Feb 2026 18:29:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能正在扼杀 B2B SaaS</title>
-      <link>https://www.reddit.com/r/programming/comments/1qvw1r4/ai_is_killing_b2b_saas/</link>
-      <description><![CDATA[ 由   提交/u/aorisnt  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qvw1r4/ai_is_killing_b2b_saas/</guid>
-      <pubDate>Wed, 04 Feb 2026 18:10:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 WebAssembly 中引入对 Python 的 Greenlet 支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1qvu9b3/introducing_greenlet_support_for_python_in/</link>
-      <description><![CDATA[ 由   提交/u/syrusakbary  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qvu9b3/introducing_greenlet_support_for_python_in/</guid>
-      <pubDate>Wed, 04 Feb 2026 17:07:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

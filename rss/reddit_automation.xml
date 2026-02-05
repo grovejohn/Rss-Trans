@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 05 Feb 2026 00:59:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 04:30:03 GMT</lastBuildDate>
+    <item>
+      <title>缺少新闻/警报</title>
+      <link>https://www.reddit.com/r/automation/comments/1qw74mk/missing_newsalerts/</link>
+      <description><![CDATA[我尝试使用 ChatGPT 警报/调度来查找行业中的每日头条新闻，这样我就不会错过任何一个节拍。不幸的是它错过了很多节拍。关于最好的人工智能工具有什么建议可以向我发送有关我的行业的最新新闻的每日通知吗？    由   提交 /u/willful_warrior   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1qw74mk/missing_newsalerts/</guid>
+      <pubDate>Thu, 05 Feb 2026 01:11:17 GMT</pubDate>
+    </item>
     <item>
       <title>API 锁定后如何智能获取无限 Reddit 帖子</title>
       <link>https://www.reddit.com/r/automation/comments/1qw46yw/how_to_smart_fetch_unlimited_reddit_posts_after/</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[      我是一名全职工作人员stack 开发人员并构建了一个简单的基于 WhatsApp 的工作助理，可以从多个 API 中提取列表，并允许您按关键字和位置进行搜索。 您可以输入“远程前端工作”之类的内容并直接在聊天中获取结果。 仍在改进它并接受反馈。   由   提交/u/MediocreGain6296  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1qvu0s1/i_built_a_whatsapp_job_alert_bot_for_remote_local/</guid>
       <pubDate>Wed, 04 Feb 2026 16:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>导航到多个页面，然后选择下载选项？</title>
-      <link>https://www.reddit.com/r/automation/comments/1qvtee5/navigating_to_multiple_pages_then_select_options/</link>
-      <description><![CDATA[      我拥有大约 300 个这样的页面，其中包含我想要批量下载的内容，但它们都位于不同的网页上，我只想下载“无网格”页面变体。 我尝试使用 WebScraper chrome 扩展但没有成功。有什么建议吗？   由   提交/u/thedrewboat   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1qvtee5/navigating_to_multiple_pages_then_select_options/</guid>
-      <pubDate>Wed, 04 Feb 2026 16:36:33 GMT</pubDate>
     </item>
     <item>
       <title>我最近测试了三个流行的AI通话助手平台Botphonic、Vapi和Synthflow</title>
