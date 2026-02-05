@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 05 Feb 2026 12:32:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Feb 2026 15:30:57 GMT</lastBuildDate>
     <item>
       <title>克林3.0</title>
       <link>https://www.producthunt.com/products/kling-ai-4</link>
@@ -34,18 +34,32 @@
       <pubDate>Thu, 05 Feb 2026 06:55:40 GMT</pubDate>
     </item>
     <item>
-      <title>与帖子交谈</title>
-      <link>https://www.producthunt.com/products/talktopost</link>
+      <title>代理沙箱</title>
+      <link>https://www.producthunt.com/products/agent-sandbox</link>
       <description><![CDATA[
-            在几秒钟内对 LinkedIn 和 X 病毒内容进行语音注释！
+            您代理的个人远程计算机和驱动器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/talktopost</guid>
-      <pubDate>Thu, 05 Feb 2026 02:00:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agent-sandbox</guid>
+      <pubDate>Thu, 05 Feb 2026 01:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>希格斯菲尔德振动运动</title>
+      <link>https://www.producthunt.com/products/higgsfield</link>
+      <description><![CDATA[
+            在编辑画布中的单个提示中创建动态图像
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/higgsfield</guid>
+      <pubDate>Wed, 04 Feb 2026 19:39:29 GMT</pubDate>
     </item>
     <item>
       <title>流行空气</title>
@@ -160,20 +174,6 @@
       <pubDate>Wed, 04 Feb 2026 09:29:46 GMT</pubDate>
     </item>
     <item>
-      <title>新的v0</title>
-      <link>https://www.producthunt.com/products/v0</link>
-      <description><![CDATA[
-            全栈氛围编码平台。由维塞尔创建。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/v0</guid>
-      <pubDate>Tue, 03 Feb 2026 13:31:28 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能治疗师</title>
       <link>https://www.producthunt.com/products/therapist-ai-time-for-what-matters</link>
       <description><![CDATA[
@@ -188,20 +188,6 @@
       <pubDate>Thu, 29 Jan 2026 04:56:10 GMT</pubDate>
     </item>
     <item>
-      <title>Webflow AI 网站构建器</title>
-      <link>https://www.producthunt.com/products/webflow</link>
-      <description><![CDATA[
-            使用 Webflow 将提示转变为可投入生产的网站
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/webflow</guid>
-      <pubDate>Fri, 23 Jan 2026 19:58:12 GMT</pubDate>
-    </item>
-    <item>
       <title>超级板</title>
       <link>https://www.producthunt.com/products/supaboard-ai</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/supaboard-ai</guid>
       <pubDate>Mon, 19 Jan 2026 12:31:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃塔普</title>
+      <link>https://www.producthunt.com/products/votap</link>
+      <description><![CDATA[
+            世界投票选举政治领导人的平台
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/votap</guid>
+      <pubDate>Thu, 08 Jan 2026 15:10:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
