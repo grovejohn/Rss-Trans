@@ -4,7 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Thu, 05 Feb 2026 21:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 00:56:51 GMT</lastBuildDate>
     <item>
       <title>我一直以“具体”开始每个提示，而 ChatGPT 突然像一位高级工程师一样写作</title>
       <link>https://www.reddit.com/r/GPT3/comments/1qwtqxy/ive_been_starting_every_prompt_with_be_specific/</link>
@@ -57,7 +57,7 @@
     <item>
       <title>停止盲目发货提示代理 - 我们添加了实时创作者指导（选择加入）</title>
       <link>https://www.reddit.com/r/GPT3/comments/1qwf4ub/stop_shipping_prompt_agents_blind_we_added_live/</link>
-      <description><![CDATA[      Hey r/GPT3  我们是一个 3 人团队，我们刚刚发货 Aivelle ，我们在反复实现相同目标后构建的 MVP问题：   一旦部署了代理，创作者就无法了解对话中发生的情况。 问题是实时发生的，但反馈总是来得太迟。  “我们希望能够立即提供帮助”  同时，大多数“代理平台”要么：  只关注基础设施，或者 让将提示打包成真正用户可以实际使用的东西变得异常困难  我们构建的内容 Aivelle 允许任何人创建和发布提示代理：  定义角色、规则、语气、边界 添加“做/不做”护栏 根据实际使用情况进行版本和迭代  但核心实验是管理模式（完全基于同意）：  原始创建者可以观看实时会话 提出更好的后续问题 直接提出澄清问题 用户始终会看到经理何时在线 仅明确选择加入  不要将其视为“审核”，而应将其视为“审核” 实时对话辅导。 为什么我们要在这里分享这个。这仍然是一个 MVP，我们诚实地试图回答：实时干预有用还是会分散注意力？它什么时候有帮助，什么时候会破坏信任？  您是否希望在您正在使用的代理上使用此功能？  我们非常希望来自构建工具、代理或副项目的人们提供反馈。 在这里尝试一下： https://aivelle.net 技术堆栈：Flutter Web · Node/Express · WebSockets · MariaDB 我会在评论中闲逛 - 很乐意回答问题或听到批评。 如果这听起来很有趣，但也有点冒险，我们很想听听原因。   由   提交/u/Aivelle_Official  [链接] [评论] ]]></description>
+      <description><![CDATA[      Hey r/GPT3 我们是一个 3 人团队，我们刚刚推出了 Aivelle ，这是我们在反复遇到相同问题后构建的 MVP：  代理通常不会因为“愚蠢”而失败。  一旦部署了代理，创建者就无法了解对话中发生的情况。 问题是实时发生的，但反馈总是来得太晚。  “我们希望能够立即提供帮助”  同时那时，大多数“代理平台”要么：  只关注基础设施，或者 将提示打包成真正用户可以实际使用的东西非常困难  我们构建的 Aivelle 允许任何人创建和发布提示代理：  定义角色、规则、语气、边界 添加“做/不做”护栏 根据实际使用情况进行版本和迭代  但核心实验是管理模式（完全基于同意）：  原始创建者可以观看实时会话 提出更好的后续问题 直接提出澄清问题 用户始终会看到经理何时在线 仅明确选择加入  不要将其视为“节制”，而应将其视为对话的现场辅导。 为什么我们要在这里分享这个。这仍然是一个 MVP，我们诚实地试图回答：实时干预有用还是会分散注意力？它什么时候有帮助，什么时候会破坏信任？  您是否希望在您正在使用的代理上使用此功能？  我们非常希望来自构建工具、代理或副项目的人们提供反馈。 在这里尝试一下： https://aivelle.net 技术堆栈：Flutter Web · Node/Express · WebSockets · MariaDB 我会在评论中闲逛 - 很乐意回答问题或听到批评。 如果这听起来很有趣，但也有点冒险，我们很想听听原因。   由   提交/u/Aivelle_Official  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1qwf4ub/stop_shipping_prompt_agents_blind_we_added_live/</guid>
       <pubDate>Thu, 05 Feb 2026 07:44:06 GMT</pubDate>
     </item>
