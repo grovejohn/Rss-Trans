@@ -4,9 +4,9 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 06 Feb 2026 00:57:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 04:33:28 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>由于资金不足，我们需要一个新的 HTTP 状态代码（467？）</title>
       <link>https://www.reddit.com/r/webdev/comments/1qx2itf/we_need_a_new_http_status_code_467_for/</link>
       <description><![CDATA[今天，我从 OpenAI API 中追踪了 429 太多请求错误。无法弄清楚为什么，我什至尝试了请求之间的临时速率限制，以确保我们不会在短时间内发出太多请求。  作为最后一步，我创建一个断点并检查完整的错误消息，它说这是因为“您超出了当前配额”。我们启用了自动充电。果然，我查了一下公司账户，里面有-0.95美元。不知何故，由于某种原因，他们没有自动收费，并且由于没有信用/资金，请求被拒绝。  由于有如此多的公司使用 AI API，我们需要一个新的状态代码来指示由于帐户资金不足而导致的失败。 （另一个教训是始终检查完整的错误消息，而不仅仅是查看状态代码）。吸取教训！   由   提交 /u/jackdbristow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qx2itf/we_need_a_new_http_status_code_467_for/</guid>
@@ -29,21 +29,21 @@
     <item>
       <title>Vibe 编写 React 应用程序（作为非技术人员）。我应该注意什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1qwztm4/vibe_coding_a_react_app_as_a_nontech_person_what/</link>
-      <description><![CDATA[It&#39;s pretty cool and interesting how much can be done with code. I&#39;m from a social sciences background and was exploring alternatives to Google forms that&#39;s more flexible, dynamic and something I have control over.事实证明，当你自己构建一些东西时，它是最灵活的。 除了我的情况，因为我不知道如何编码，我让 Claude 为一个功能性应用程序编写代码（可以作为 Google 表单的替代品），但具有更好的布局和更灵活的响应选项。 我将它托管在 Vercel（免费版本）上，它似乎正在做我想做的一切。我还通过应用程序脚本将其连接到 Google 表格，因此可以直接进行响应。 现在我的问题是——我绝对应该注意什么？我应该在代码中寻找哪些可能威胁数据保护的内容？ Vercel has its own set of compliances, and I&#39;ve my git repo private. I&#39;m sure there will be other loopholes or caveats to using claude code (especially as someone with no prior coding expertise).请指教。 Thank you! Edit: There are no API keys used on my end (or Vercel&#39;s). I don&#39;t have access to API keys anywhere, neither did I sign up for it.到目前为止，这只是一个简单的谷歌形式的替代方案。 But I ofcourse wouldn&#39;t be fully aware of what goes on under the hood. Edit 2: It&#39;s for a survey for an academic panel (max 20-30 people). It is neither meant to be public-facing, nor something we plan to have up for more than 2 months.   由   提交 /u/pizzayeol   [链接] [评论]]]></description>
+      <description><![CDATA[用代码可以完成很多事情，这非常酷且有趣。 我有社会科学背景，正在探索 Google 表单的替代方案，它更灵活、更动态，并且是我可以控制的。事实证明，当你自己构建一些东西时，它是最灵活的。 除了我的情况，因为我不知道如何编码，我让 Claude 为一个功能性应用程序编写代码（可以作为 Google 表单的替代品），但具有更好的布局和更灵活的响应选项。 我将它托管在 Vercel（免费版本）上，它似乎正在做我想做的一切。我还通过应用程序脚本将其连接到 Google 表格，因此可以直接进行响应。 现在我的问题是——我绝对应该注意什么？我应该在代码中寻找哪些可能威胁数据保护的内容？ Vercel 有自己的一套合规性，而且我的 git 存储库是私有的。我确信使用克劳德代码还会存在其他漏洞或警告（特别是对于没有任何编码专业知识的人）。请指教。谢谢！ 编辑：我（或 Vercel）没有使用 API 密钥。我无法在任何地方访问 API 密钥，也没有注册它。到目前为止，这只是一个简单的谷歌形式的替代方案。但我当然不会完全了解幕后发生的事情。 编辑 2：这是针对学术小组（最多 20-30 人）的调查。它既不打算面向公众，也不打算持续超过 2 个月。   由   提交 /u/pizzayeol   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qwztm4/vibe_coding_a_react_app_as_a_nontech_person_what/</guid>
       <pubDate>Thu, 05 Feb 2026 22:28:47 GMT</pubDate>
     </item>
     <item>
       <title>Tabnine 刚刚取消了我的 Pro 帐户</title>
       <link>https://www.reddit.com/r/webdev/comments/1qwz8to/tabnine_just_cancelled_my_pro_account/</link>
-      <description><![CDATA[Tabnine 刚刚取消了我的 Pro 帐户，并全额退款。 我有一张开放的支持票，因为我注意到无论您在 Tabnine 中选择哪种 Claude 型号，它似乎总是使用较旧的 Claude 3.5 变体。问题在于，这个旧模型对于我正在积极使用的 API 具有过时的文档，这导致了不正确的建议。 我提出了一张支持票，询问是否可以修复模型选择，使其实际上使用正确的版本。他们没有解决这个问题，而是取消了我的帐户并向我退款。 我有点失望。总的来说，我真的很喜欢 Tabnine，根本没想到会出现这样的结果。 对于那些单独工作的人来说： 现在人们在使用什么？什么对你来说效果很好？   由   提交/u/i-am-jamesfawcett   [链接] [评论]]]></description>
+      <description><![CDATA[      Tabnine 刚刚取消了我的 Pro 帐户，并全额退款。 我有一张开放的支持票，因为我注意到无论您在 Tabnine 中选择哪种 Claude 型号，它似乎总是使用较旧的 Claude 3.5 变体。问题在于，这个旧模型对于我正在积极使用的 API 具有过时的文档，这导致了不正确的建议。 我提出了一张支持票，询问是否可以修复模型选择，使其实际上使用正确的版本。他们没有解决这个问题，而是取消了我的帐户并向我退款。 我有点失望。总的来说，我真的很喜欢 Tabnine，根本没想到会出现这样的结果。 对于那些单独工作的人来说： 现在人们在使用什么？什么对你来说效果很好？   由   提交/u/i-am-jamesfawcett   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qwz8to/tabnine_just_cancelled_my_pro_account/</guid>
       <pubDate>Thu, 05 Feb 2026 22:06:18 GMT</pubDate>
     </item>
     <item>
-      <title>这是蒂姆·伯纳斯·李为大家准备的</title>
+      <title>蒂姆·伯纳斯·李的《这适合所有人》</title>
       <link>https://www.reddit.com/r/webdev/comments/1qwy19n/this_is_for_everyone_by_tim_bernerslee/</link>
-      <description><![CDATA[如果您喜欢阅读非小说类作品，我强烈推荐 Tim Berners-Lee 爵士的回忆录。 我喜欢他在网络早期的所有轶事以及第一次了解 Solid 协议的经历；这是他现在正在通过他的公司 Inrupt 进行的项目。 https://solidproject.org/for_developers   由   提交/u/suckafortone  [链接] [评论]]]></description>
+      <description><![CDATA[      如果您喜欢阅读非小说类书籍，我强烈推荐蒂姆·伯纳斯·李 (Tim Berners-Lee) 爵士的回忆录。 我喜欢他在网络早期的所有轶事以及第一次了解 Solid 协议的经历；这是他现在正在通过他的公司 Inrupt 进行的项目。 https://solidproject.org/for_developers   由   提交/u/suckafortone  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qwy19n/this_is_for_everyone_by_tim_bernerslee/</guid>
       <pubDate>Thu, 05 Feb 2026 21:20:48 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>使不匹配的品牌徽标看起来视觉上平衡背后的数学原理（以及一个可以为您做到这一点的 React 库）</title>
       <link>https://www.reddit.com/r/webdev/comments/1qwuh1r/the_math_behind_making_mismatched_brand_logos/</link>
-      <description><![CDATA[你知道该怎么做。您将获得一个包含合作伙伴徽标的文件夹。有些是 SVG，有些是带有神秘填充的 PNG。长宽比范围为 1:1 至 15:1。您将它们排列起来，并花费太多时间手动调整尺寸。然后下周将出现三个新徽标，您可以重新开始。 我们编写了一个库，可以使用以下方法自动修复此问题：  比例归一化（长宽比 + 比例因子） 像素密度分析（因此密集的徽标在视觉上不会压倒薄的徽标） 光学对准的视觉质心计算  它是一个 React 组件(&lt;LogoSoup /&gt;) 和一个钩子 (useLogoSoup) 如果您想要自定义布局。 npm install react-logo-soup  带有数学解释的博客文章：sanity.io/blog/the-logo-soup-problem GitHub：github.com/sanity-labs/react-logo-soup 故事书演示：react-logo-soup.sanity.dev 希望得到反馈。就实际结果而言，密度补偿和光学对准是我们最好奇的部分。   由   提交/u/knutmelvaer   [链接] [评论]]]></description>
+      <description><![CDATA[   你知道该怎么做。您将获得一个包含合作伙伴徽标的文件夹。有些是 SVG，有些是带有神秘填充的 PNG。长宽比范围为 1:1 至 15:1。您将它们排列起来，并花费太多时间手动调整尺寸。然后下周将出现三个新徽标，您可以重新开始。 我们编写了一个库，可以使用以下方法自动修复此问题：  比例归一化（长宽比 + 比例因子） 像素密度分析（因此密集的徽标在视觉上不会压倒薄的徽标） 光学对准的视觉质心计算  它是一个 React 组件(&lt;LogoSoup /&gt;) 和一个钩子 (useLogoSoup) 如果您想要自定义布局。 npm install react-logo-soup  带有数学解释的博客文章：sanity.io/blog/the-logo-soup-problem GitHub：github.com/sanity-labs/react-logo-soup 故事书演示：react-logo-soup.sanity.dev 希望得到反馈。就实际结果而言，密度补偿和光学对准是我们最好奇的部分。   由   提交/u/knutmelvaer   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qwuh1r/the_math_behind_making_mismatched_brand_logos/</guid>
       <pubDate>Thu, 05 Feb 2026 19:11:27 GMT</pubDate>
     </item>
@@ -99,14 +99,14 @@
     <item>
       <title>Opus 4.6 下降</title>
       <link>https://www.reddit.com/r/webdev/comments/1qwsu4c/opus_46_dropped/</link>
-      <description><![CDATA[ 由   提交/u/Ok-Thanks2963   [链接] [评论]]]></description>
+      <description><![CDATA[       由   提交/u/Ok-Thanks2963   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qwsu4c/opus_46_dropped/</guid>
       <pubDate>Thu, 05 Feb 2026 18:13:15 GMT</pubDate>
     </item>
     <item>
       <title>LLM 支持聊天机器人架构</title>
       <link>https://www.reddit.com/r/webdev/comments/1qwsfuc/llm_support_chatbot_architecture/</link>
-      <description><![CDATA[我正在开发一个应用程序作为个人项目，我想合并一个客户支持聊天机器人（就像右下角的那些气泡，单击时会打开聊天）。是否有任何流行的现有应用程序可以帮助实现此集成？   由   提交/u/Leap_Year_Guy_   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个应用程序作为个人项目，我想合并一个客户支持聊天机器人（就像右下角的那些气泡，单击时会打开聊天）。是否有任何流行的现有应用程序可以帮助实现此集成？   由   提交 /u/Leap_Year_Guy_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1qwsfuc/llm_support_chatbot_architecture/</guid>
       <pubDate>Thu, 05 Feb 2026 17:59:29 GMT</pubDate>
     </item>
