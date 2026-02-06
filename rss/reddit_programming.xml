@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Feb 2026 04:32:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 06:40:24 GMT</lastBuildDate>
+    <item>
+      <title>[FOSS - localhost] 介绍 StatiBaker（ITIR 套件的一部分）——终极记忆修复——跟踪你正在做的事情（非常适合 agentic/openclaw/moltbook）</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxa21t/foss_localhost_introducing_statibaker_part_of/</link>
+      <description><![CDATA[ 由   提交/u/TotalEmotional9530   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxa21t/foss_localhost_introducing_statibaker_part_of/</guid>
+      <pubDate>Fri, 06 Feb 2026 06:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德 Opus 4.6 简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1qx8xwo/introducing_claude_opus_46/</link>
+      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qx8xwo/introducing_claude_opus_46/</guid>
+      <pubDate>Fri, 06 Feb 2026 05:22:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于2 sat缩减和tarjan算法解析的k-sat求解器</title>
+      <link>https://www.reddit.com/r/programming/comments/1qx8088/ksat_solver_based_on_2_sat_reduction_and_tarjan/</link>
+      <description><![CDATA[IPFS完整实现链接：https://pink-delicate-dinosaur-221.mypinata.cloud/ipfs/bafkreiap6a4jz5onokluratluvnaa4lcxy27ebuwe2zt33zxijpzotvbmq  OSF 完整实现链接：https://osf.io/4nhbt/files/taedh   由   提交/u/No_Arachnid_5563  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qx8088/ksat_solver_based_on_2_sat_reduction_and_tarjan/</guid>
+      <pubDate>Fri, 06 Feb 2026 04:35:06 GMT</pubDate>
+    </item>
     <item>
       <title>寻找会编程的朋友</title>
       <link>https://www.reddit.com/r/programming/comments/1qx7cmc/looking_for_friends_who_program/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[Opus 4.6 击败了大多数基准测试，但对其他基准测试却表现平平。本文介绍了一些基准测试以及对构建应用程序的程序员的影响   由   提交/u/rdizzy1234  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qwwwo0/opus_46_an_indepth_review_of_the_benchmarks/</guid>
       <pubDate>Thu, 05 Feb 2026 20:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-5.3-Codex 简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1qwwnd4/introducing_gpt53codex/</link>
-      <description><![CDATA[ 由   提交/u/Frequent-Football984   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qwwnd4/introducing_gpt53codex/</guid>
-      <pubDate>Thu, 05 Feb 2026 20:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德 Opus 4.6 简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1qwwmtp/introducing_claude_opus_46/</link>
-      <description><![CDATA[ 由   提交/u/Frequent-Football984   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qwwmtp/introducing_claude_opus_46/</guid>
-      <pubDate>Thu, 05 Feb 2026 20:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe-Claude：Claude Code 的多代理编排 — 13 个代理，基于工作量的路由，Opus 4.6</title>
-      <link>https://www.reddit.com/r/programming/comments/1qwwfju/vibeclaude_multiagent_orchestration_for_claude/</link>
-      <description><![CDATA[问题：AI 编码助手需要持续的监督。 上下文已满。没有验证。失败时重新开始。 解决方案：vibe-claude — 一个命令协调 13 个专业代理。 /vibe“通过输入指示器构建实时聊天” Opus 4.6 分析和计划。 Sonnet 4.5 构建。俳句 搜索。三个 Opus 代理在 任何东西发货之前尽最大努力进行验证。 Opus 4.6 带来了什么： - 自适应思维 - 推理深度随任务复杂性 复杂性 - 128K 输出 - 一次性完成所有功能 - 压缩 API - 无限对话 - 努力：最大 - 重要时的全面认知能力 努力路由节省成本： - 困难问题 → Opus 4.6（最高） - 正常任务 → Sonnet 4.5（高） - 简单查找 → Haiku 4.5（低） 开源，MIT 许可。 30 秒内安装：   由   提交/u/Wise_Secretary8790   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qwwfju/vibeclaude_multiagent_orchestration_for_claude/</guid>
-      <pubDate>Thu, 05 Feb 2026 20:22:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
