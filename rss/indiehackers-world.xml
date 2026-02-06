@@ -4,7 +4,31 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 06 Feb 2026 18:34:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 21:21:24 GMT</lastBuildDate>
+    <item>
+      <title>构建展示其工作的人工智能系统（并随着时间的推移学习）</title>
+      <link>https://feed.indiehackers.world/post/2096e9a25f</link>
+      <description><![CDATA[现在，您将人工智能的决策及其推理写入同一行。
+6.运行测试
+
+ 单击底部的“运行”一次
+ 然后将新的潜在客户添加到您的 Google 表格
+Make 应该拾取它，将其发送到 OpenAI，并填写分数和原因
+
+如果有效，请单击顶部的“激活”以使其生效。
+完成。您现在已经有了可追踪人工智能系统的工作原型 - 准备好进行测试和改进。
+第 4 步：为高风险潜在客户添加手动审核
+您可能不想完全信任人工智能 - 尤其是对于具有高影响力的潜在客户。
+假设您想在采取行动之前手动检查热门潜在客户。
+您正在构建什么
+
+ 当新的潜在客户被评为热门时，Make 会向您发送一条 Slack 消息
+ 消息显示线索信息和 AI 推理 
+
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/2096e9a25f</guid>
+      <pubDate>Fri, 06 Feb 2026 14:33:53 GMT</pubDate>
+    </item>
     <item>
       <title>12 个月内 MRR 从 0 美元升至 10,000 美元：三件事真正推动了我的设计机构</title>
       <link>https://feed.indiehackers.world/post/7a98c3577f</link>
@@ -212,16 +236,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/0a7cf1ba5e</guid>
       <pubDate>Wed, 28 Jan 2026 00:06:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>从构建客户网站到推出我自己的 SaaS - 以及为什么我不再信任 GA4！</title>
-      <link>https://feed.indiehackers.world/post/cdffa602c4</link>
-      <description><![CDATA[所以我不是来推销的。
-我来这里是想问：是什么让您不再相信自己的分析？
-我会阅读每一条回复。即使是残酷的。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/cdffa602c4</guid>
-      <pubDate>Tue, 27 Jan 2026 18:02:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

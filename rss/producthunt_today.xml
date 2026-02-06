@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 06 Feb 2026 18:33:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 21:21:13 GMT</lastBuildDate>
+    <item>
+      <title>困惑中的模范委员会</title>
+      <link>https://www.producthunt.com/products/perplexity-ai</link>
+      <description><![CDATA[
+            立即咨询多个前沿模型委员会
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/perplexity-ai</guid>
+      <pubDate>Fri, 06 Feb 2026 04:40:03 GMT</pubDate>
+    </item>
     <item>
       <title>GPT-5.3-法典</title>
       <link>https://www.producthunt.com/products/openai</link>
@@ -18,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/openai</guid>
       <pubDate>Fri, 06 Feb 2026 03:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的抽屉</title>
+      <link>https://www.producthunt.com/products/my-drawer</link>
+      <description><![CDATA[
+            适用于 MacOS 的开源智能侧边栏
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/my-drawer</guid>
+      <pubDate>Fri, 06 Feb 2026 02:52:34 GMT</pubDate>
     </item>
     <item>
       <title>密码密钥</title>
@@ -34,18 +62,18 @@
       <pubDate>Thu, 05 Feb 2026 22:11:09 GMT</pubDate>
     </item>
     <item>
-      <title>橙片</title>
-      <link>https://www.producthunt.com/products/orange-slice</link>
+      <title>场论</title>
+      <link>https://www.producthunt.com/products/field-theory</link>
       <description><![CDATA[
-            GTM 的克劳德代码
+            只需一半的步骤即可捕获两倍的上下文
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/orange-slice</guid>
-      <pubDate>Thu, 05 Feb 2026 21:05:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/field-theory</guid>
+      <pubDate>Thu, 05 Feb 2026 21:21:46 GMT</pubDate>
     </item>
     <item>
       <title>爪应用</title>
@@ -90,18 +118,46 @@
       <pubDate>Thu, 05 Feb 2026 17:40:50 GMT</pubDate>
     </item>
     <item>
-      <title>神经支付</title>
-      <link>https://www.producthunt.com/products/nervepay-infrastructure-for-agents</link>
+      <title>S3nding</title>
+      <link>https://www.producthunt.com/products/s3nding</link>
       <description><![CDATA[
-             为人工智能代理提供身份、秘密库和分析   
+            从 S3 上传和共享文件的最快方式。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nervepay-infrastructure-for-agents</guid>
-      <pubDate>Thu, 05 Feb 2026 15:51:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/s3nding</guid>
+      <pubDate>Thu, 05 Feb 2026 17:39:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>利爪与秩序</title>
+      <link>https://www.producthunt.com/products/claw-and-order</link>
+      <description><![CDATA[
+            人工智能代理的法庭
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claw-and-order</guid>
+      <pubDate>Thu, 05 Feb 2026 13:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>RentAHuman.ai</title>
+      <link>https://www.producthunt.com/products/rentahuman-ai</link>
+      <description><![CDATA[
+            当人工智能代理在现实世界中需要某人时，即可获得报酬。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/rentahuman-ai</guid>
+      <pubDate>Thu, 05 Feb 2026 10:32:46 GMT</pubDate>
     </item>
     <item>
       <title>超导</title>
@@ -132,20 +188,6 @@
       <pubDate>Wed, 04 Feb 2026 23:00:41 GMT</pubDate>
     </item>
     <item>
-      <title>蜕皮海滩</title>
-      <link>https://www.producthunt.com/products/molt-beach</link>
-      <description><![CDATA[
-            人工智能代理的百万像素海滩——声明和动画像素
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/molt-beach</guid>
-      <pubDate>Tue, 03 Feb 2026 23:25:42 GMT</pubDate>
-    </item>
-    <item>
       <title>TabAI</title>
       <link>https://www.producthunt.com/products/tabai-2</link>
       <description><![CDATA[
@@ -160,34 +202,6 @@
       <pubDate>Sun, 01 Feb 2026 20:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>信息博客</title>
-      <link>https://www.producthunt.com/products/infoblog</link>
-      <description><![CDATA[
-            在几秒钟内立即将文本转换为视觉故事
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/infoblog</guid>
-      <pubDate>Wed, 28 Jan 2026 10:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>夹钳</title>
-      <link>https://www.producthunt.com/products/ipeds-copilot</link>
-      <description><![CDATA[
-            您的联邦高等教育数据人工智能助手
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ipeds-copilot</guid>
-      <pubDate>Tue, 27 Jan 2026 07:51:59 GMT</pubDate>
-    </item>
-    <item>
       <title>奥比</title>
       <link>https://www.producthunt.com/products/obi-3</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/obi-3</guid>
       <pubDate>Sat, 24 Jan 2026 00:53:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>贝叶斯实验室</title>
-      <link>https://www.producthunt.com/products/bayeslab-2</link>
-      <description><![CDATA[
-            从深入分析到优质幻灯片，代理化
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/bayeslab-2</guid>
-      <pubDate>Fri, 23 Jan 2026 03:52:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
