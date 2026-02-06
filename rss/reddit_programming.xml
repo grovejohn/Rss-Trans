@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Feb 2026 09:33:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Feb 2026 12:30:35 GMT</lastBuildDate>
+    <item>
+      <title>我们是否正在实时见证 C++ 的消亡</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxfypz/are_we_seeing_the_death_of_c_in_real_time/</link>
+      <description><![CDATA[随着 Rust 的势头超越了 C++ 曾经占据的所有领域，以及 Stroustrup 惊慌失措的战斗口号，看起来 C++ 的终结终于开始了，这一次是真的。你觉得怎么样？   由   提交/u/pogodachudesnaya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxfypz/are_we_seeing_the_death_of_c_in_real_time/</guid>
+      <pubDate>Fri, 06 Feb 2026 12:12:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术堆栈是一项业务决策</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxfygm/tech_stack_is_a_business_decision/</link>
+      <description><![CDATA[过去两年我一直在思考这个问题。  人们一直在争论技术堆栈。  现在我终于有话来表达了，写了一篇文章。  想知道这里每个人的想法。这也符合您的经验吗？   由   提交/u/deliQnt7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxfygm/tech_stack_is_a_business_decision/</guid>
+      <pubDate>Fri, 06 Feb 2026 12:12:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能与公共资源</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxf20q/ai_and_the_commons/</link>
+      <description><![CDATA[ 由   提交 /u/scribe-kiddie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxf20q/ai_and_the_commons/</guid>
+      <pubDate>Fri, 06 Feb 2026 11:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mathieu Ropert：使用 C++ 学习图形编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxeyn3/mathieu_ropert_learning_graphics_programming_with/</link>
+      <description><![CDATA[ 由   提交/u/_a4z  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxeyn3/mathieu_ropert_learning_graphics_programming_with/</guid>
+      <pubDate>Fri, 06 Feb 2026 11:18:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>github 审核请求</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxewe9/github_review_request/</link>
+      <description><![CDATA[关于个人资料存储库（不存在），我想要对此 github 进行评论，我今年 17 岁，愿意接受建议、学习材料和资源   由   提交/u/NoConstruction2326   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxewe9/github_review_request/</guid>
+      <pubDate>Fri, 06 Feb 2026 11:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Opus 4.6 放弃了辅助消息预填充——如果您使用 API，则会发生重大变化</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxe0s2/claude_opus_46_drops_assistant_message_prefilling/</link>
+      <description><![CDATA[Compaction API（测试版） 长时间运行的代理任务的服务器端上下文摘要。当上下文接近窗口限制时，API 会自动总结较旧的段。如果您运行之前在达到 200K 限制时停止的多步骤工作流程，则非常有用。 输出令牌限制加倍 最大输出从 64K 增加到 128K。 SDK 需要对较大的 max_tokens 值进行流式传输，以避免 HTTP 超时。如果不需要增量事件，请使用 .stream() 和 .get_final_message()。 迁移指南：https://platform.claude.com/docs/en/about-claude/models/migration-guide 更多上下文基准和定价：Claude Opus 4.6：1M 上下文、代理团队、自适应思维以及与 GPT-5.3 的对决   由   提交 /u/prakersh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxe0s2/claude_opus_46_drops_assistant_message_prefilling/</guid>
+      <pubDate>Fri, 06 Feb 2026 10:24:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有外部 MCP 服务器的 Spring AI</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxdreh/spring_ai_with_external_mcp_servers/</link>
+      <description><![CDATA[ 由   提交/u/piotr_minkowski   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxdreh/spring_ai_with_external_mcp_servers/</guid>
+      <pubDate>Fri, 06 Feb 2026 10:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>SNMP浏览器</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxdovx/snmp_browser/</link>
+      <description><![CDATA[ 由   提交 /u/Suspicious_Ad_9210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxdovx/snmp_browser/</guid>
+      <pubDate>Fri, 06 Feb 2026 10:04:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>系统思维</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxd98n/systems_thinking/</link>
+      <description><![CDATA[ 由   提交/u/10ForwardShift  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxd98n/systems_thinking/</guid>
+      <pubDate>Fri, 06 Feb 2026 09:37:44 GMT</pubDate>
+    </item>
     <item>
       <title>后端开发人员路线图</title>
       <link>https://www.reddit.com/r/programming/comments/1qxd107/backend_developers_roadmap/</link>
@@ -15,7 +78,7 @@
     <item>
       <title>OpenTelemetry Baggage 如何为分布式系统启用全局上下文</title>
       <link>https://www.reddit.com/r/programming/comments/1qxcqmc/how_opentelemetry_baggage_enables_global_context/</link>
-      <description><![CDATA[大家好， 我最近写了一篇关于 OpenTelemetry Baggage 的文章，这是一个鲜为人知的 OpenTelemetry 信号，可帮助管理分布式系统中跨微服务的元数据。 这对于发送功能标志、参数 ID 等很有帮助，而无需在每个服务中添加对它们的支持。例如，如果您的第一个服务添加了 use_beta_feature 标志，则无需添加逻辑来解析该标志并将其重新附加到服务中的每个 API 调用。相反，它将通过自动检测在所有下游服务中传播，并且它可以解析、修改和/或修改的任何服务需求都使用该值。 我很乐意讨论和了解您在 OTel 行李方面的体验或您发现可能没有像其他一些方面那样充分讨论的其他方面。 任何建议或反馈将不胜感激，感谢您的宝贵时间！   由   提交/u/silksong_when  [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我最近写了一篇关于 OpenTelemetry Baggage 的文章，这是一个鲜为人知的 OpenTelemetry 信号，可帮助管理分布式系统中跨微服务的元数据。 这对于发送功能标志、参数 ID 等很有帮助，而无需在每个服务中添加对它们的支持。例如，如果您的第一个服务添加了 use_beta_feature 标志，则无需添加逻辑来解析该标志并将其重新附加到服务中的每个 API 调用。相反，它将通过自动检测在所有下游服务中传播，并且无论哪个服务需要它都可以解析、修改和/或使用该值。 我很乐意讨论和了解您在 OTel 行李方面的体验或您发现可能没有像其他一些方面那样充分讨论的其他方面。 任何建议或反馈将不胜感激，感谢您的宝贵时间！   由   提交/u/silksong_when  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qxcqmc/how_opentelemetry_baggage_enables_global_context/</guid>
       <pubDate>Fri, 06 Feb 2026 09:03:57 GMT</pubDate>
     </item>
@@ -41,74 +104,11 @@
       <pubDate>Fri, 06 Feb 2026 08:08:05 GMT</pubDate>
     </item>
     <item>
-      <title>[FOSS - localhost] 介绍 StatiBaker（ITIR 套件的一部分）——终极记忆修复——跟踪你正在做的事情（非常适合 agentic/openclaw/moltbook）</title>
-      <link>https://www.reddit.com/r/programming/comments/1qxa21t/foss_localhost_introducing_statibaker_part_of/</link>
-      <description><![CDATA[ 由   提交/u/TotalEmotional9530   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qxa21t/foss_localhost_introducing_statibaker_part_of/</guid>
-      <pubDate>Fri, 06 Feb 2026 06:22:03 GMT</pubDate>
-    </item>
-    <item>
       <title>克劳德 Opus 4.6 简介</title>
       <link>https://www.reddit.com/r/programming/comments/1qx8xwo/introducing_claude_opus_46/</link>
       <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qx8xwo/introducing_claude_opus_46/</guid>
       <pubDate>Fri, 06 Feb 2026 05:22:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于2 sat缩减和tarjan算法解析的k-sat求解器</title>
-      <link>https://www.reddit.com/r/programming/comments/1qx8088/ksat_solver_based_on_2_sat_reduction_and_tarjan/</link>
-      <description><![CDATA[IPFS完整实现链接：https://pink-delicate-dinosaur-221.mypinata.cloud/ipfs/bafkreiap6a4jz5onokluratluvnaa4lcxy27ebuwe2zt33zxijpzotvbmq  OSF 完整实现链接：https://osf.io/4nhbt/files/taedh   由   提交/u/No_Arachnid_5563  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qx8088/ksat_solver_based_on_2_sat_reduction_and_tarjan/</guid>
-      <pubDate>Fri, 06 Feb 2026 04:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找会编程的朋友</title>
-      <link>https://www.reddit.com/r/programming/comments/1qx7cmc/looking_for_friends_who_program/</link>
-      <description><![CDATA[好吧，我不知道这是发布此内容的最佳位置，如果不是，那完全没问题。最重要的是，我正在努力寻找编程的朋友以及可以与我一起制作东西的人。我用 Rust、C 和一点 Zig 进行编程。我对低级语言、CPU、裸机、嵌入式系统等等非常感兴趣。我十年来一直对此感兴趣，现在我在大学一年级。至少找一个人可以谈论编程并为狗屎发呆，这样就可以了。我所在城镇/地区的每个人在低水平和真正了解计算机中发生的事情时都不像我那么热情，但我完全赞成。如果你想成为朋友，请通过私信或在此处发表评论或其他方式来联系我。顺便说一句，我不适用。   由   提交 /u/No_Inevitable8801   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qx7cmc/looking_for_friends_who_program/</guid>
-      <pubDate>Fri, 06 Feb 2026 04:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对经验不足的开发人员使用 AI 进行编码的风格提示</title>
-      <link>https://www.reddit.com/r/programming/comments/1qx5s6k/style_tips_for_less_experienced_developers_coding/</link>
-      <description><![CDATA[ 由   提交/u/syllogism_  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qx5s6k/style_tips_for_less_experienced_developers_coding/</guid>
-      <pubDate>Fri, 06 Feb 2026 02:48:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全理念</title>
-      <link>https://www.reddit.com/r/programming/comments/1qx50i9/the_philosophy_of_safety/</link>
-      <description><![CDATA[ 由   提交/u/coder86  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qx50i9/the_philosophy_of_safety/</guid>
-      <pubDate>Fri, 06 Feb 2026 02:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>删除文件时到底会发生什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1qx33tt/what_really_happens_when_you_delete_a_file/</link>
-      <description><![CDATA[ 由   提交/u/tanishqq4  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qx33tt/what_really_happens_when_you_delete_a_file/</guid>
-      <pubDate>Fri, 06 Feb 2026 00:47:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于系统开发的 Zig 编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1qx2fwy/zig_programming_language_for_systems_development/</link>
-      <description><![CDATA[用于系统开发的 Zig 编程语言 Zig 是一种现代系统编程语言，旨在提高性能、安全性和简单性。本文探讨了 Zig 的设计理念、内存管理、错误处理、工具以及开发人员构建低级高性能软件的实际用例。 https://techyall.com/blog/zig-programming-language-for-systems-development   由   提交/u/justok25  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qx2fwy/zig_programming_language_for_systems_development/</guid>
-      <pubDate>Fri, 06 Feb 2026 00:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对软件工程的看法彻底改变了</title>
-      <link>https://www.reddit.com/r/programming/comments/1qx1tyc/my_view_of_software_engineering_has_changed_for/</link>
-      <description><![CDATA[ 由   提交 /u/shift_devs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qx1tyc/my_view_of_software_engineering_has_changed_for/</guid>
-      <pubDate>Thu, 05 Feb 2026 23:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic 使用“并行代理团队”构建了一个 C 编译器，在编译 hello world 时遇到问题。</title>
-      <link>https://www.reddit.com/r/programming/comments/1qwzyu4/anthropic_built_a_c_compiler_using_a_team_of/</link>
-      <description><![CDATA[一个非常有趣的实验，它显然可以编译特定版本的 Linux 内核，摘自文章：“经过近 2,000 个 Claude 代码会话和 20,000 美元的 API 成本，代理团队制作了一个 100,000 行编译器，可以在 x86、ARM 和 RISC-V 上构建 Linux 6.9。”但与此同时，有些人在编译简单的 hello world 程序时遇到了问题： https://github.com/anthropics/claudes-c-compiler/issues/1 编辑：有些人最终可以编译 hello world 程序：“如果您提供正确的包含路径，则可以工作”尽管其他人指出：“你可以说你根本不应该这么做” 编辑：我将在博客文章中添加此编译器的限制，但如果没有 gcc 的帮助，它显然无法编译 Linux 内核： “然而，编译器并非没有限制。其中包括：  它缺少从实模式启动 Linux 所需的 16 位 x86 编译器。为此，它调用 GCC（x86_32 和 x86_64 编译器是它自己的）。 它没有自己的汇编器和链接器；这些是 Claude 开始自动化的最后部分，但仍然存在一些问题。该演示视频是使用 GCC 汇编器和链接器制作的。 编译器成功构建了许多项目，但不是全部。它还不是真正编译器的直接替代品。 生成的代码效率不高。即使启用了所有优化，它输出的代码效率也比禁用所有优化的 GCC 低。 Rust 代码质量还不错，但远不及专业 Rust 程序员可能生成的质量。”    由   提交/u/Gil_berth  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qwzyu4/anthropic_built_a_c_compiler_using_a_team_of/</guid>
-      <pubDate>Thu, 05 Feb 2026 22:34:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
