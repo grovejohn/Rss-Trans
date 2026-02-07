@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Sat, 07 Feb 2026 00:55:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 04:24:16 GMT</lastBuildDate>
+    <item>
+      <title>我找到了使用 OpenClaw 运行 GPT-5.2-Codex 的最便宜的方法（这让我感到惊讶）</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1qy273o/i_found_the_cheapest_way_to_run_gpt52codex_with/</link>
+      <description><![CDATA[我会保持这一点非常实用。 我最近一直在努力运行 OpenClaw。真正的工作。任务长。编码、重构、自动化，这些通常会破坏代理的东西。 在尝试了一些设置之后，我发现使用 GPT-5.2-Codex 最便宜的可靠方式实际上很无聊： ChatGPT Pro - 200 美元/月。就是这样。 令我惊讶的是这 200 美元实际上能走多远。 我正在高负载下运行两个 OpenClaw 实例，而且它仍然保持良好。没有奇怪的限制，也没有在长时间的编码会话中途突然出现故障。只是......稳定。 我尝试了其他看起来在纸面上更便宜的设置。 API 杂耍、使用情况跟踪、自定义路由。他们最终都付出了更多的金钱或理智代价。通常两者都是。 这种设置并不聪明。只是稳定而已。在这一点上，稳定性胜过聪明。 如果您只是聊天或编写小脚本，您不会注意到太大的差异。但是一旦任务变得复杂、多步骤或长时间运行，Codex 就会开始快速分离。 如果您还没有看到差异，这可能只是意味着您的任务还不够痛苦。这不是一种侮辱——它只是意味着你还没有越过那条线。 对我来说，这是“停止优化，直接发布”的决定之一。 支付 200 美元。运行工作。继续前进。 想知道是否有人在不成为兼职基础设施工程师的情况下找到了实际上更便宜的东西？   由   提交 /u/Front_Lavishness8886   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1qy273o/i_found_the_cheapest_way_to_run_gpt52codex_with/</guid>
+      <pubDate>Sat, 07 Feb 2026 02:54:06 GMT</pubDate>
+    </item>
     <item>
       <title>在 ChatGPT 看到我的提示之前，请注意观察它已经改善了 10 倍。</title>
       <link>https://www.reddit.com/r/GPT3/comments/1qxyknk/watch_my_prompt_get_10x_better_before_chatgpt/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/SeriousDocument7905   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1qw30ft/the_ai_lobsters_are_taking_over_and_they_started/</guid>
       <pubDate>Wed, 04 Feb 2026 22:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个扩展来在 ChatGPT 上渲染数学方程</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1qvw8t0/i_made_an_extension_to_render_math_equations_on/</link>
-      <description><![CDATA[      大家好。我制作了一个免费扩展，允许您渲染由 ChatGPT 生成的数学方程。  它被称为“ReLaTeX”。 我遇到过这个问题，有时 ChatGPT 会出现故障并显示公式的代码，而不是加载方程。所以我想解决这个问题。我发现一些扩展通过在网页中添加复制按钮来完成此操作，但我自己添加了渲染器，这样我就可以立即直观地看到方程式。我找不到任何其他扩展可以执行此操作。如果有足够多的人觉得它有用，我也会定期更新。祝大家玩得开心。   由   提交/u/Pale_Lengthiness_465   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1qvw8t0/i_made_an_extension_to_render_math_equations_on/</guid>
-      <pubDate>Wed, 04 Feb 2026 18:17:38 GMT</pubDate>
     </item>
     </channel>
 </rss>

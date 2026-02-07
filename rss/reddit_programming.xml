@@ -4,14 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 07 Feb 2026 00:56:40 GMT</lastBuildDate>
-    <item>
-      <title>eBay 的 API 和其他东西</title>
-      <link>https://www.reddit.com/r/programming/comments/1qxzl9z/ebays_apis_and_stuff/</link>
-      <description><![CDATA[自从我开始转售以来，我最近开始摆弄 eBay 的 api，并想看看我能找到什么统计数据。我很好奇为什么他们根本不允许搜索已售清单？你可以手动查找它们，所以我认为能够自动化它是有意义的   由   提交/u/cassied128  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qxzl9z/ebays_apis_and_stuff/</guid>
-      <pubDate>Sat, 07 Feb 2026 00:55:27 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 07 Feb 2026 04:24:51 GMT</lastBuildDate>
     <item>
       <title>持续集成的目的就是失败</title>
       <link>https://www.reddit.com/r/programming/comments/1qxulks/the_purpose_of_continuous_integration_is_to_fail/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交 /u/scribe-kiddie   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qxf20q/ai_and_the_commons/</guid>
       <pubDate>Fri, 06 Feb 2026 11:24:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mathieu Ropert：使用 C++ 学习图形编程</title>
+      <link>https://www.reddit.com/r/programming/comments/1qxeyn3/mathieu_ropert_learning_graphics_programming_with/</link>
+      <description><![CDATA[ 由   提交/u/_a4z  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qxeyn3/mathieu_ropert_learning_graphics_programming_with/</guid>
+      <pubDate>Fri, 06 Feb 2026 11:18:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
