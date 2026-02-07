@@ -4,7 +4,56 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Fri, 06 Feb 2026 21:19:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 00:55:35 GMT</lastBuildDate>
+    <item>
+      <title>这里有人最近真的构建了自己的人工智能代理吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzi8g/anyone_here_actually_built_their_own_ai_agent/</link>
+      <description><![CDATA[我一直很好奇人们如何构建简单的人工智能代理，无论是从头开始还是使用可视化工具。我开始深入研究，因为我厌倦了处理一堆自动化平台，每个平台只覆盖工作流程的一部分，而且大多数平台似乎都认为你可以花几天时间进行集成或编写代码。令人疯狂的是这个空间现在的发展速度有多快。它不再只是聊天机器人，人们正在连接数据管道、内部工具，甚至支持系统，代理在其中做出决策，而不仅仅是传递数据。在对 MindStudio 进行了一番研究之后，它终于意识到，当 UI 是为非技术人员构建时，这是多么的平易近人。感觉还为时过早，这里有人推动代理超越基本自动化进入真正的工作流程，比如随着时间的推移随着事情的变化而适应吗？有没有人运行过一些感觉更像是一个轻量级同事而不是另一个脚本的东西？   由   提交 /u/baddie_spotted   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzi8g/anyone_here_actually_built_their_own_ai_agent/</guid>
+      <pubDate>Sat, 07 Feb 2026 00:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们是在构建人工智能来帮助人类，还是构建需要人类帮助的人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzhn8/are_we_building_ai_to_help_humans_or_ai_that/</link>
+      <description><![CDATA[我最近看了一个特斯拉机器人视频，它试图调整炉子的火焰，老实说它看起来没什么用。它无法正确旋转旋钮，意外地关闭了火焰，无法重新打开它，站立时差点摔倒，最终不得不有人介入并提供帮助。那时我认真地想知道：我们构建人工智能是为了帮助人类，还是构建需要人类帮助的人工智能？ 这让我想起了去年基于浏览器的人工智能代理发生的很多事情。每个人都对人工智能大肆宣传，它可以在虚拟机上浏览网页、移动光标、单击按钮，并“像人类一样使用互联网”。事实上，它速度慢、脆弱、使用起来很痛苦，而且经常卡住。人工智能并不愚蠢，它只是被迫使用屏幕截图和光标坐标在人机界面中进行操作。 然后像 OpenClaw 这样的工具出现了，突然间，相同的模型感觉很强大。并不是因为人工智能神奇地变得更聪明，而是因为执行方式发生了变化。允许模型使用终端和 API，而不是让模型浏览浏览器。同样的大脑，完全不同的结果。 这也是我们在机器人身上重复的错误。炉灶旋钮是一个人机界面，就像浏览器用户界面一样。强迫机器人旋转旋钮并目视估计火焰是强迫人工智能点击按钮的物理版本。我们已经知道更好的解决方案：机器原生接口。我们使用 API 来订餐，但期望机器人像人类一样通过挣扎来做饭。 未来不会是机器人完美地模仿我们。就像互联网从机器的 UI 转移到 API 一样，物理世界也将如此。智能电器、机器控制层和人工智能编排系统，而不是旋钮和平衡。 现在，人形机器人在演示中给人留下了深刻的印象，但从架构上来说，它们与我们在软件中已经犯过的错误相同。   由   提交 /u/Calm-Alarm7977   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzhn8/are_we_building_ai_to_help_humans_or_ai_that/</guid>
+      <pubDate>Sat, 07 Feb 2026 00:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士会导致存在主义死亡吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzaui/are_llms_leading_to_existential_death/</link>
+      <description><![CDATA[是的，我使用聊天在更短的时间内清晰地表达了自己的意思。但我相信这就是我们所说的“ai-slop”的根源。随着法学硕士和生成式人工智能扩展到一切领域——这种死亡是我们未来不可避免的吗？  “LLM 已经拥有世界模型并且基本上处于 AGI 边缘”的热门观点在这里受到了挑战。理查德·萨顿认为这个故事将模仿与智力混为一谈。在他的框架中，法学硕士主要学习模仿人类会说的话，而不是预测世界上实际发生的行动结果。这种区别很重要，因为它同时攻击了两个主流假设：下一个令牌预测等于有根据的理解，而仅扩展文本就是通往强大代理的直线。  他拒绝接受法学硕士“有目标”的普遍说法。 “预测下一个代币”并不是一个关于外部世界的目标；它没有定义环境中更好与更差的结果。他认为，如果没有这种根深蒂固的对/错概念，持续学习的定义就会不明确，“法学硕士作为一个好的先修课程”变得比人们想象的更加不稳定。  他对未来的预测也与主流的轨迹叙述相悖：从经验中学习（行动、观察后果、在线更新政策和世界转型模型）的系统最终将超越文本训练的模仿者——即使法学硕士今天看起来是无与伦比的。他将今天的势头描述为另一个“感觉良好”的阶段，人类知识注入看起来像是进步，直到经验驱动的扩展吞噬它。  法学硕士主要接受训练来模仿人类文本，而不是从现实世界的行动后果中学习，因此他们缺乏由扎根的反馈和目标驱动的原生的、持续的“生活中学习”适应能力。  在这个框架中，当“正确性”主要是基于语言或政策的时候，上限最高；而当正确性取决于环境动态、长期结果和现实的持续更新时，上限最低。  法学硕士在商业上已经具有竞争力或优于人类： 大量语言工作：起草、总结、重写、分类、翻译、模板化分析。 在提供事实来源时跨大型语料库进行检索/综合。 以一致的格式快速迭代替代方案（副本变体、大纲、剧本）。  人类仍然占主导地位的地方： 具有实际利害关系的模糊目标：选择目标、设定优先级、进行权衡。 获取事实真相：注意市场/客户/组织中实际发生的变化，并相应地更新行为。 稀疏反馈下的长期执行（多月战略、政治、信任、激励）。 不确定性下的责任和判断。 https://www.youtube.com/watch?v=21EYKqUsPfg   由   提交/u/ApplePrimary2985  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxzaui/are_llms_leading_to_existential_death/</guid>
+      <pubDate>Sat, 07 Feb 2026 00:42:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有人为随机工作流程构建迷你人工智能代理吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxz48w/anyone_else_building_mini_ai_agents_for_random/</link>
+      <description><![CDATA[最近，我想到了设置小型人工智能代理来处理那些耗费时间的烦人的事情，比如从电子邮件线程中提取关键点或将消息路由到正确的位置，这样我就不用手动对所有内容进行排序。我之前使用过一些自动化工具，它们非常适合连接应用程序，但是一旦您想要可以做出基本决策的工具，流程就会很快变得混乱。我最近开始尝试 MindStudio，这是第一次感觉无需编写代码即可直接设计特定于任务的代理。视觉设置帮助我区分了代理应该知道什么和应该做什么。看着这些小帮手处理我通常推迟的任务是一种奇怪的满足感，虽然我对任何复杂的事情仍然保持谨慎，但这绝对改变了我对自动化以及可能悄悄地成为人工智能驱动的日常工作的看法。   由   提交 /u/TheFoolishCrow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxz48w/anyone_else_building_mini_ai_agents_for_random/</guid>
+      <pubDate>Sat, 07 Feb 2026 00:34:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何最终在不接触代码的情况下构建了一个人工智能代理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxwt7k/how_i_finally_built_an_ai_agent_without_touching/</link>
+      <description><![CDATA[我已经使用自动化工具有一段时间了，试图在工作中将一些数据量大的工作流程缝合在一起，但我总是陷入技术困境。即使是“视觉”平台最终也会把我扔到节点和脚本中，老实说，它扼杀了我的动力。喘口气后，我尝试了一些更雄心勃勃的东西：一个可以处理传入支持请求并自动分类的人工智能代理。我没有编程背景，所以我想看看通过实验我能走多远，而 MindStudio 使这变得更加平易近人，因为我可以直观地构建逻辑并快速获得可部署的东西。它已经很有用，并教会了我很多有关代理如何在无需大量后端工作的情况下连接实际业务任务的知识。现在，我很想下一步构建一个会议总结器，但在开始更多项目之前，我可能会先加强支持代理。   由   提交 /u/Zealousideal_Leg5615   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxwt7k/how_i_finally_built_an_ai_agent_without_touching/</guid>
+      <pubDate>Fri, 06 Feb 2026 22:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>一些人工智能模型如何对日常生活和随机事物了解如此之多？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxwbbz/how_does_some_ai_models_know_so_much_about/</link>
+      <description><![CDATA[我不是人工智能方面的专家，但我认为模型需要针对特定​​事物进行训练。  但实际上在 Google Gemini 上，我被困在一个视频游戏中，我拍了一张游戏场景的小屏幕截图，然后问我下一步做什么，它从字面上解释了如何完成整个关卡 它只是根据提出的问题进行学习，还是他们真的只是将他们能想到的所有内容都放入人工智能模型中？  谢谢   由   提交 /u/Ok_Hold4577   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxwbbz/how_does_some_ai_models_know_so_much_about/</guid>
+      <pubDate>Fri, 06 Feb 2026 22:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>“高盛聘请 Anthropic 的 Claude 来自动化会计和合规职位” - CNBC</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxvvtx/goldman_sachs_taps_anthropics_claude_to_automate/</link>
+      <description><![CDATA[https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html  这个部分很有趣：  嵌入式人类工程师在高盛花了六个月的时间构建自治系统，用于时间密集型、大批量的后台工作。  因为 OpenAI 本周还宣布了一项名为 Frontier 的服务，其中包括前沿部署工程师。 这些模型公司现在正在销售企业服务。   由   提交 /u/jim-ben   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxvvtx/goldman_sachs_taps_anthropics_claude_to_automate/</guid>
+      <pubDate>Fri, 06 Feb 2026 22:22:33 GMT</pubDate>
+    </item>
     <item>
       <title>衡量人工智能进展的基准测试的替代方案</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxtps8/an_alternative_to_benchmarking_for_for_gauging_ai/</link>
@@ -13,25 +62,11 @@
       <pubDate>Fri, 06 Feb 2026 20:58:17 GMT</pubDate>
     </item>
     <item>
-      <title>如果你只能使用一种人工智能工具，你会选择哪一种？有什么原因吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxtegp/if_you_could_only_use_one_ai_tool_which_one_would/</link>
-      <description><![CDATA[我的答案是 ChatGPT，因为它是（或者曾经是？）一个很棒的文本和图像多用途工具，但我想尝试一些新的东西。  自从 ChatGPT 发布以来我就一直在使用它。在那之前我什至使用过他们的游乐场。它是我通往这个美妙但反乌托邦人工智能时代的门户，但 ol’GPT 最近变得有点烦人:D   由   提交/u/HerbertClapton   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxtegp/if_you_could_only_use_one_ai_tool_which_one_would/</guid>
-      <pubDate>Fri, 06 Feb 2026 20:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技巨头在人工智能上投入这么多钱</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxs57g/tech_giants_to_spend_this_much_money_on_ai/</link>
-      <description><![CDATA[科技巨头今年将在人工智能上花费 6300 亿美元。 我的建议：将人工智能添加到你所做的一切中，并从这 6300 亿美元的数字中分得一杯羹。  继续构建。   由   提交/u/XIFAQ  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxs57g/tech_giants_to_spend_this_much_money_on_ai/</guid>
-      <pubDate>Fri, 06 Feb 2026 19:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能模型的基准分数因基础设施、一天中的时间等而异</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxpmoe/benchmark_scores_for_ai_models_vary_based_on/</link>
-      <description><![CDATA[Anthropic 团队发现了我们都知道的事情……基准测试分数并不可信：  我们在 Google Kubernetes Engine 集群上运行 Terminal-Bench 2.0。在校准设置时，我们注意到我们的分数与基准测试的官方排行榜不符。  他们得出的结论是：  快速编写精简、高效代码的代理将在严格的约束下表现良好。使用重量级工具强力解决方案的代理将在慷慨的工具下表现良好。   如果你的人工智能代理似乎每天都有不同的表现，那你就不是在想象：  代理评估是构建的端到端系统测试，该系统的任何组件都可以充当混杂因素。例如，我们观察到，通过率随一天中的时间而波动，可能是因为 API 延迟随流量模式和事件而变化。   这不仅对基准提出了质疑，而且对人工智能评估的整个学科也提出了质疑。  链接：https://www.anthropic.com/engineering/infrastruct-noise   由   提交 /u/sean-adapt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxpmoe/benchmark_scores_for_ai_models_vary_based_on/</guid>
-      <pubDate>Fri, 06 Feb 2026 18:26:52 GMT</pubDate>
+      <title>你玩过OpenClaw吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxqmy2/have_you_played_with_openclaw/</link>
+      <description><![CDATA[查看投票   由   提交 /u/Away-Thanks4374   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxqmy2/have_you_played_with_openclaw/</guid>
+      <pubDate>Fri, 06 Feb 2026 19:03:00 GMT</pubDate>
     </item>
     <item>
       <title>预测：ChatGPT 是人工智能领域的 MySpace</title>
@@ -41,39 +76,11 @@
       <pubDate>Fri, 06 Feb 2026 17:26:11 GMT</pubDate>
     </item>
     <item>
-      <title>本地人工智能模型：更私密，但它们实际上更值得信赖吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxicmh/local_ai_models_more_private_but_are_they/</link>
-      <description><![CDATA[我一直在尝试在本地运行 AI 模型，而不是依赖云 API。一方面，自托管可以完全控制数据和日志 - 您可以审核输出、安全存储结果，并避免将敏感信息发送到外部服务器。但问题是：即使一切都在您自己的机器上运行，模型决策背后的“原因”仍然大部分是不透明的。您可以记录和检查输入和输出，但模型本身的推理仍然是一个黑匣子。所以我很好奇：对于那些在本地运行法学硕士的人来说，自托管是否真的可以提高信任度，或者它主要提供隐私，但无法解决可解释性问题？我很想听听其他人的意见：他们如何确保输出的可审核性信任边界与自托管设置中的便利性在本地运行高性能模型的实际限制。   由   提交 /u/NeoLogic_Dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxicmh/local_ai_models_more_private_but_are_they/</guid>
-      <pubDate>Fri, 06 Feb 2026 13:59:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opus 4.6 是一个不同的野兽。它只是在我观看时处理了我的整个国际化逻辑</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxfuhv/opus_46_is_a_different_beast_it_just_handled_my/</link>
-      <description><![CDATA[刚刚体验了新的 Opus 4.6（在 Cursor 中运行）。 我需要向我的 MVP 添加完整的国际化支持（英语、法语、西班牙语）和全球定位基础设施。通常，这是与人工智能进行乏味的“一步一步”舞蹈。 但这一次呢？我向它提出了高级要求，它就……接管了。  它切换到了计划模式。 编写了架构。 安装了必要的软件包。 实现了逻辑并翻译了整个网站。  我一次都没有握住它的手。是只有我一个人这么认为，还是从 4.​​5 到 4.6 的跳跃在主体自主性方面是巨大的？很好奇是否其他人感受到了这种“飞跃”，或者我是否幸运地得到了完美的提示。   由   提交 /u/Tzipi_builds   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxfuhv/opus_46_is_a_different_beast_it_just_handled_my/</guid>
-      <pubDate>Fri, 06 Feb 2026 12:06:29 GMT</pubDate>
-    </item>
-    <item>
       <title>高盛正在利用 Anthropic 的人工智能模型来实现会计、合规角色的自动化</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxebd4/goldman_sachs_is_tapping_anthropics_ai_model_to/</link>
       <description><![CDATA[嵌入式 Anthropic 工程师在高盛花了六个月的时间构建自主系统，用于时间密集型、大批量的后台工作。该银行期望提高效率，而不是短期裁员，利用人工智能来加快流程并限制未来员工数量的增长。编码之外的成功让高管们感到惊讶，这强化了人工智能可以处理复杂的、基于规则的工作，比如会计和合规性。 https://www.cnbc.com/2026/02/06/anthropic-goldman-sachs-ai-model-accounting.html   由   提交 /u/app1310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxebd4/goldman_sachs_is_tapping_anthropics_ai_model_to/</guid>
       <pubDate>Fri, 06 Feb 2026 10:42:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能作为职业</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxcnp8/ai_as_career/</link>
-      <description><![CDATA[对第一年 Btech 的建议。 CSE 学生将从事人工智能和数据科学职业。  建议课程和资源。 此外，建议在人工智能领域找到工作的途径   由   提交 /u/Beginning-Budget-361   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxcnp8/ai_as_career/</guid>
-      <pubDate>Fri, 06 Feb 2026 08:59:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对新的 QWEN3 TTS 模型太过分了</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qxcnns/i_went_too_far_with_the_new_qwen3_tts_model/</link>
-      <description><![CDATA[所以我一直在摆弄这个模型，并且进行了很多有趣的声音采样，但是由于某种原因，今天我发现了几个月前去世的父亲的视频，并认为尝试采样他的声音是个好主意。  我和我的兄弟们坐在一起，让他说出我们认为他会说的话，过了一会儿，我们都哭了，那是一个悲伤的时刻，现实被悬置了，感觉他就在我们身边，然后意识到他不再和我们在一起了，感到空虚。  这就像再次失去他一样。外出时保持安全，珍惜与所爱之人在身边时分享的时刻。有些东西技术永远无法真正取代。   由   提交 /u/Zempire   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qxcnns/i_went_too_far_with_the_new_qwen3_tts_model/</guid>
-      <pubDate>Fri, 06 Feb 2026 08:58:56 GMT</pubDate>
     </item>
     <item>
       <title>Claude Opus 4.6 更智能，但它仍然在欺骗你——现在只是更流畅了</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[我是一名初级开发人员，说实话，到 2026 年，人工智能将在我的工作流程中无处不在。 大多数时候，我不会完全从头开始编写代码。我使用人工智能工具来生成代码、修复错误、重构逻辑，甚至向我解释事情。有时感觉人工智能比我自己编写的代码更干净、更“正确”。 甚至业内的高级工程师和大人物也公开表示他们现在使用人工智能。 Linux 的创建者 Linus Torvalds 谈到了使用 AI 来完成编码任务，但与此同时，他警告说，如果您不了解代码在做什么，那么盲目信任 AI 来完成严肃的长期项目可能是一个非常糟糕的主意。 这就是我的困惑开始的地方。 一方面： AI 帮助我快速前进 我快速学习新的语法、模式和库 我可以交付我无法单独构建的东西 另一方面： 我担心我正在跳过基础知识 有时我在没有完全理解人工智能代码的情况下接受它 我担心从长远来看，这可能会损害我作为一名工程师的成长 我读过一些研究，称人工智能可以提高生产力，但如果你过度依赖它，就会减少深度学习。我还看到报告称，如果不仔细审查，许多人工智能生成的代码都包含细微的错误或安全问题。与此同时，我周围几乎每个人都在使用人工智能——所以完全避免它感觉不现实。 我真正的问题是： 作为初级开发人员，如何使用人工智能而不依赖它？你如何确保你仍然在培养有一天成为高级工程师所需的技能——比如系统设计、调试和解决问题——而不是仅仅擅长促进人工智能？ 我一点也不反对人工智能。我认为这是一个令人难以置信的工具。我只是不想让它成为限制我长期成长的拐杖。 很想听听前辈、领导或其他正在思考这个问题的人的意见。   由   提交 /u/Beginning-Scholar105   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qx6dce/im_a_junior_developer_and_to_be_honest_in_2026_ai/</guid>
       <pubDate>Fri, 06 Feb 2026 03:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个人工智能公司都希望将数据中心送上太空的明显原因</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1qwzik8/the_obvious_reason_why_every_ai_company_wants_to/</link>
-      <description><![CDATA[它们无法被饥饿、失业的暴民袭击和摧毁。真的就这么简单。 值得赞扬的是：他们已经做好了功课，并意识到，一旦他们导致经济崩溃，人们就会挨饿并且非常愤怒！解决方案？建造巨大的末日掩体，并将底层基础设施发送到无法被摧毁的地方。纯粹邪恶的一击；在某种意义上是值得尊敬的。   由   提交 /u/Nissepelle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1qwzik8/the_obvious_reason_why_every_ai_company_wants_to/</guid>
-      <pubDate>Thu, 05 Feb 2026 22:16:49 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>

@@ -4,13 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 06 Feb 2026 21:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Feb 2026 00:57:17 GMT</lastBuildDate>
     <item>
-      <title>ClawGPT - Claude 的开源聊天 UI，具有消息编辑、分支和 E2E 加密设备同步功能</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qxerk5/clawgpt_opensource_chat_ui_for_claude_with/</link>
-      <description><![CDATA[刚刚发布了 ClawGPT，这是我为 Claude 构建的聊天界面（通过 OpenClaw），因为我缺少现有界面中的一些基本功能。 它是纯 HTML、CSS 和 JS。没有构建工具，没有框架，没有依赖项。克隆存储库，打开index.html，完成。 功能： - 编辑任何以前的消息，而不仅仅是最后一条 - 对话分支 - 使用不同的模型重新生成响应 - 在所有对话中进行全文和语义搜索 - 导出/导入所有数据 - 手机和桌面之间的 E2E 加密同步（TweetNaCl，X25519） - 语音输入和文本转语音 - 适用于 Opus 4.6 和 OpenClaw 支持的任何模型 一切都在本地运行。用于电话同步的可选中继服务器是零知识的 - 它只能看到加密的 blob。 MIT 许可。 GitHub：https://github.com/craihub/clawgpt 可在 Google Play 上测试的 Android 应用：https://play.google.com/apps/testing/com.curvereality.clawgpt   由   提交/u/CurveReality  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qxerk5/clawgpt_opensource_chat_ui_for_claude_with/</guid>
-      <pubDate>Fri, 06 Feb 2026 11:07:51 GMT</pubDate>
+      <title>Parm – 就像您最喜欢的包管理器一样安装 GitHub 版本</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qxyrrd/parm_install_github_releases_just_like_your/</link>
+      <description><![CDATA[大家好，我构建了一个 CLI 工具，允许您从 GitHub 版本资产无缝安装软件，类似于系统的包管理器安装软件的方式。 它的工作原理是利用不同开源软件的 GitHub 版本之间的常见模式（例如命名约定和文件布局）来为您的系统获取正确的版本资产，然后通过 GitHub API 将正确的资产下载到您的计算机上。然后 Parm 将提取文件，找到正确的二进制文件，然后将它们添加到您的 PATH 中。 Parm 还可以检查更新和卸载软件，并以其他方式管理 Parm 安装的所有软件的整个生命周期。 Parm 并不是要取代系统的软件包管理器。相反，它是一种以更集中、更简单的方式从 GitHub 安装预构建软件的替代方法。 它目前处于预发布阶段，但我正在努力实现 v0.2.0 里程碑，尽管仍有一些工作要做。如果这听起来很有趣，请检查一下！它是完全免费和开源的，目前已针对 Linux/macOS 发布（Windows 即将推出）。如果有任何反馈，我将不胜感激。 链接：https://github.com/yhoundz/parm   由   提交/u/houndz-  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qxyrrd/parm_install_github_releases_just_like_your/</guid>
+      <pubDate>Sat, 07 Feb 2026 00:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源离子交换膜</title>
+      <link>https://www.reddit.com/r/opensource/comments/1qxueyp/open_sourced_ion_exchange_membranes/</link>
+      <description><![CDATA[https://www.youtube.com/watch?v=c3tNXDlgE2M   由   提交/u/rowow1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1qxueyp/open_sourced_ion_exchange_membranes/</guid>
+      <pubDate>Fri, 06 Feb 2026 21:25:12 GMT</pubDate>
     </item>
     <item>
       <title>无人反对 - 跟踪选民别无选择的选举</title>
@@ -39,13 +46,6 @@
       <description><![CDATA[       由   提交/u/Sukin_Shetty   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qwxno4/experiment_parallel_claude_code_subagents_shared/</guid>
       <pubDate>Thu, 05 Feb 2026 21:06:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管游戏资源库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1qwr9ew/selfhosted_game_asset_library/</link>
-      <description><![CDATA[嘿！ 我正在开发免费、开源、自托管的应用程序（在 docker 上运行），您可以在其中存储模型、纹理、精灵声音等资源。想法是，您拖放一个文件，然后会自动创建动画 360 度缩略图，您可以在浏览器中使用 Three.js 预览每个模型。您可以按项目（您正在处理的）或包（例如您在线下载了一个包并想预览里面的内容）对您的资源进行分组。 如果您想尝试一下，这里有一些网址： 代码：github.com/Papyszoo/Modelibr 网站：https://papyszoo.github.io/Modelibr/ 包含一些图像的文档：https://papyszoo.github.io/Modelibr/docs   由   提交 /u/papyszoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1qwr9ew/selfhosted_game_asset_library/</guid>
-      <pubDate>Thu, 05 Feb 2026 17:17:40 GMT</pubDate>
     </item>
     <item>
       <title>基于浏览器的小型策略棋盘游戏 - 寻找贡献者。</title>
