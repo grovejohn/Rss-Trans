@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 08 Feb 2026 01:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 05:00:12 GMT</lastBuildDate>
     <item>
       <title>费尔修斯</title>
       <link>https://www.producthunt.com/products/felsius</link>
@@ -104,18 +104,32 @@
       <pubDate>Thu, 05 Feb 2026 16:52:01 GMT</pubDate>
     </item>
     <item>
-      <title>水果</title>
-      <link>https://www.producthunt.com/products/obooko</link>
+      <title>手势呈现</title>
+      <link>https://www.producthunt.com/products/gesturepresent</link>
       <description><![CDATA[
-            免费书籍来取代你的末日卷轴
+            通过手势推进幻灯片
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/obooko</guid>
-      <pubDate>Tue, 03 Feb 2026 04:03:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gesturepresent</guid>
+      <pubDate>Thu, 05 Feb 2026 07:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发者文档审核</title>
+      <link>https://www.producthunt.com/products/nakora</link>
+      <description><![CDATA[
+            提高 LLM 知名度、注册量和激活用户
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nakora</guid>
+      <pubDate>Thu, 05 Feb 2026 06:13:59 GMT</pubDate>
     </item>
     <item>
       <title>技能包</title>
@@ -144,20 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/cubeone</guid>
       <pubDate>Mon, 02 Feb 2026 03:31:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>拼我</title>
-      <link>https://www.producthunt.com/products/pinme</link>
-      <description><![CDATA[
-            零配置前端部署，无需服务器或设置
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/pinme</guid>
-      <pubDate>Thu, 29 Jan 2026 08:35:59 GMT</pubDate>
     </item>
     <item>
       <title>stagecaptions.io</title>

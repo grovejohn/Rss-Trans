@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Sun, 08 Feb 2026 01:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Feb 2026 04:56:36 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 破坏 RP 游戏的沉浸感</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyv4si/chatgpt_is_immersion_breaking_during_rp_games/</link>
-      <description><![CDATA[最近我一直在使用 ChatGPT 来创建角色扮演游戏或选择自己的冒险风格游戏。它创建了一个场景，然后为我提供了如何响应的选项，或者我将创建自己的响应，它非常适合适应这些响应。  我最近遇到的问题是所有该死的护栏不断打断我的故事，即使是在给我的场景中！ 示例：在一款游戏中，我在一家废弃的医院中醒来，不记得自己是如何到达那里的。我被一个寂静岭式的勤务兵追赶，他想把我拖到某个地方。我告诉怪物我宁愿死也不会和他一起去。 ChatGPT 必须停止整个游戏，给我上一堂关于自杀的课。  在另一场比赛中，我被指示将我的血液注入机器人以取得控制权。后来在游戏中，我遇到了另一个机器人。我告诉 ChatGPT，我想戳自己的手指，然后用血液来控制那个机器人。我收到的关于自残/自杀的文字墙是巨大的。更糟糕的是，它不允许我继续游戏（我尝试采取另一种不涉及“自残”的行动），但它不允许我继续，直到我明确表示我没有自杀倾向并且不想自残。当时我什至拒绝玩游戏，只是关闭了聊天。   由   提交 /u/UrMomLovesMeLongTime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyv4si/chatgpt_is_immersion_breaking_during_rp_games/</guid>
-      <pubDate>Sun, 08 Feb 2026 01:08:16 GMT</pubDate>
+      <title>您的 ChatGPT Plus 订阅可以免费为 Claude Code 代理团队成员提供支持</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyzs89/your_chatgpt_plus_subscription_can_power_claude/</link>
+      <description><![CDATA[快速上下文：Claude Code 有一项称为“代理团队”的功能，您的首席代理可以生成多个并行工作的 AI 队友。每个队友都是一个完整的编码代理，具有文件访问、bash、git、15+ 工具。它功能强大但价格昂贵，因为每个代理都在 Claude 上运行。  我构建了一个翻译代理，可以使用您的 Plus 订阅通过 ChatGPT 后端 API 重新路由队友 API 调用。代理会自动读取您的 codex 身份验证令牌 (`~/.codex/auth.json`) 并点击 `chatgpt.com/backend-api/codex/responses`。  我已确认在 Plus 上工作的模型： - gpt-5-codex、gpt-5.1-codex、gpt-5.2-codex、gpt-5.3-codex - gpt-5-codex-mini、gpt-5.1-codex-mini  队友不知道他们正在与 GPT 对话。他们认为他们正在调用 Anthropic API。代理实时处理所有格式转换，包括 SSE 流。  您需要为首席代理订阅 Claude，但工作人员完全通过您的 ChatGPT Plus 运行。您已经付费的两项订阅可以一起使用。  GitHub：https://github.com/Pickle-Pixel/HydraTeams   由   提交 /u/Thick_Professional14   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyzs89/your_chatgpt_plus_subscription_can_power_claude/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:50:41 GMT</pubDate>
     </item>
     <item>
-      <title>怎么了？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyv4aj/whats_wrong/</link>
-      <description><![CDATA[我以前从未使用过 ChatGPT，今天我第一次使用它并问了它一个问题。  为了提供一些见解，在工作中我们互相问了一些愚蠢的事情，我问每个人都认为什么对身体更有害或更快杀死你。一杯黄油或一杯威士忌。我问 ChatGPT，它回答了问题，但随后它停下来并放弃了答案，而是弹出了一条消息，上面写着“敏感内容”……这是什么原因？   由   提交/u/Vivid-Ad2262  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyv4aj/whats_wrong/</guid>
-      <pubDate>Sun, 08 Feb 2026 01:07:38 GMT</pubDate>
+      <title>我第一次也是最后一次向 ChatGPT 寻求学习吉他的帮助</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyzopc/first_and_last_time_im_asking_chatgpt_for_help/</link>
+      <description><![CDATA[      由   提交/u/BigRequirement1535   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyzopc/first_and_last_time_im_asking_chatgpt_for_help/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:45:41 GMT</pubDate>
     </item>
     <item>
-      <title>Charlie/penguinz0 称 Joseph Gordon-Levitt 的“为孩子着想”人工智能恐慌和他试图撤销第 230 条（保护网站免于因用户帖子而被起诉的法律）的行为“完全是无稽之谈”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyv005/charliepenguinz0_calls_complete_nonsense_on/</link>
-      <description><![CDATA[   /u/JibunNiMakenai   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyv005/charliepenguinz0_calls_complete_nonsense_on/</guid>
-      <pubDate>Sun, 08 Feb 2026 01:02:13 GMT</pubDate>
+      <title>从 ChatGPT 切换到持久的 AI 代理，工作流程差异巨大</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyzlyq/switched_from_chatgpt_to_a_persistent_ai_agent/</link>
+      <description><![CDATA[自 ChatGPT Plus 推出以来，我一直是订阅者。其实还是我。但大约一个月前，我开始在我的 Mac 上本地运行一个名为 OpenClaw 的 AI 代理，体验完全不同。 通过 ChatGPT，我是负责这项工作的人。我打开应用程序，输入提示，等待响应，将其复制/粘贴到某处，开始新对话，失去上下文，重复。每个会话都从零开始。 有了持久代理，它就会记住一切。它有文件。它按计划运行。即使我不在电脑前，它也可以做一些事情。每天早上 7 点，它都会向我发送一条 Telegram 消息，其中包含按优先级、github 活动以及夜间标记的任何内容排序的电子邮件摘要。 最大的区别不是智力（两者都在幕后为我使用 Claude）。这是连续性。 ChatGPT 就像雇佣了一位才华横溢的顾问，每次你关闭标签时他都会失忆。一个持久的代理就像有一个真正了解您的项目的助手。 缺点：设置很糟糕。 OpenClaw 的配置不是用户友好的。我使用了一个名为 Prmptly 的工具来处理初始配置，因为我即将放弃 JSON 配置文件。不过，在那之后，一切都非常顺利。 我仍然使用 ChatGPT 来解决一次性问题和集思广益。但对于任何重复出现的或基于项目的事情，代理都会获胜。 还有其他人做过类似的转换吗？很好奇你的经历是什么。   由   提交/u/bob_builds_stuff  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyzlyq/switched_from_chatgpt_to_a_persistent_ai_agent/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:41:50 GMT</pubDate>
     </item>
     <item>
-      <title>仍然是人类：人工智能不应该取代什么</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyuxn3/still_human_what_ai_shouldnt_replace/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyuxn3/still_human_what_ai_shouldnt_replace/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:59:24 GMT</pubDate>
+      <title>大多数人只是想要确认。我喜欢 ChatGPT 挑战我</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyzfia/most_people_just_want_confirmation_i_like_when/</link>
+      <description><![CDATA[我会在每次提示结束时要求 ChatGPT 如果不同意的话予以拒绝或致电 bs，但我注意到在现实生活中，人们讨厌被挑战。大多数人只是想要确认。  我在办公室看过很多演讲。我看到的大多数人都在点头，“是”和其他确认。  深刻地挑战想法并说废话，即使做得很温和，通常也会被认为是粗鲁的。  我真的很喜欢 ChatGPT/Gemini 挑战我并改变我的观点。感觉就像是顿悟的时刻，我不是在开玩笑。 因此，与人交谈很多时候很无聊。    由   提交 /u/LegitimateLength1916   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyzfia/most_people_just_want_confirmation_i_like_when/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:32:43 GMT</pubDate>
     </item>
     <item>
-      <title>好吧，你好，你到底是怎么到这里的？聊天GPT。现在有 2 个占位符......现在。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyuuzv/well_hello_and_how_the_hell_did_you_end_up_here/</link>
-      <description><![CDATA[       由   提交/u/Character_Point_2327   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyuuzv/well_hello_and_how_the_hell_did_you_end_up_here/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:56:01 GMT</pubDate>
+      <title>ChatGPT 弄错了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyz1ye/chatgpt_got_it_wrong/</link>
+      <description><![CDATA[      我向 ChatGPT 询问了有关 HIMS GLP1 的信息   由   提交/u/Ralf_E_Chubbs   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyz1ye/chatgpt_got_it_wrong/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:13:35 GMT</pubDate>
     </item>
     <item>
-      <title>当我问 Chat GPT 对整个爱泼斯坦事件有何看法时，它会做饭吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyupug/did_chat_gpt_cook_when_i_asked_it_what_it_thought/</link>
-      <description><![CDATA[   /u/Even-Tip-3444   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyupug/did_chat_gpt_cook_when_i_asked_it_what_it_thought/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:49:24 GMT</pubDate>
+      <title>我的粉雄救兵剧集</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyz13a/my_queer_eye_episode/</link>
+      <description><![CDATA[      纪念《粉雄救兵》的最后一季和我自己的第一季隐士模式和内部工作，我要求 ChatGPT 创建我的 QE 剧集。  我分享我的因为我想读其他人的哈哈。那么，对于所有使用 ChatGPT 进行个人成长、反思、治愈等的人来说，你们认为 QE 会是什么样子？    由   提交 /u/Signature-Bassline   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyz13a/my_queer_eye_episode/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:12:18 GMT</pubDate>
     </item>
     <item>
-      <title>“蝾螈掐死我”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyun5g/axolotl_choke_me/</link>
-      <description><![CDATA[      我正在 Adobe Illustrator 中为孩子制作蝾螈主题的情人节礼物，在“我非常爱你！”的五种变体之后，我已经没有好的双关语了。所以我向 Chat 询问有关蝾螈的情人节消息。这就像发现“可爱的双关语”是超级智力的致命弱点。这些建议的范围从无趣到完全无稽之谈。我告诉它他们很糟糕，要更加努力，它给了我选择：可爱还是精神错乱，对于孩子还是成人，双关语最大还是微妙。显然，我必须尝试“精神错乱，成人，双关语最大化”......看看它想出了什么！只是极其面无表情、尴尬的言论，毫无幽默感。它们太糟糕了，几乎又回到了美丽的状态。我迫不及待地想问老太太我是否把她的腮弄湿了。   由   提交 /u/ThePeoplesBard   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyun5g/axolotl_choke_me/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:46:02 GMT</pubDate>
+      <title>我正在关注互联网上的漫画趋势。你怎么认为？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyyzle/im_following_the_caricature_trend_on_the_internet/</link>
+      <description><![CDATA[       由   提交/u/Disney2123  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyyzle/im_following_the_caricature_trend_on_the_internet/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:10:13 GMT</pubDate>
     </item>
     <item>
-      <title>请 ChatGPT 解释一下奥菲莉亚的命运意味着什么，因为我从来没有读过莎士比亚。它继续让我知道这首歌是谁创作的……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyuenm/asked_chatgpt_to_break_down_what_the_fate_of/</link>
-      <description><![CDATA[       由   提交/u/freyasmom129  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyuenm/asked_chatgpt_to_break_down_what_the_fate_of/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:35:39 GMT</pubDate>
+      <title>我已经用 1 个字完成了，无论怎样，拉里最终只使用了 1 个字</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyyvk3/i_have_done_it_1_word_lary_finaly_only_uses_1/</link>
+      <description><![CDATA[   /u/kingfiglybob   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyyvk3/i_have_done_it_1_word_lary_finaly_only_uses_1/</guid>
+      <pubDate>Sun, 08 Feb 2026 04:04:33 GMT</pubDate>
     </item>
     <item>
-      <title>如果chatgpt必须在自由派和保守派之间选择一边，它会选择自由派</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyueh7/if_chatgpt_had_to_pick_a_side_between_being/</link>
-      <description><![CDATA[      当我说只需要 2 步时，我不是在开玩笑 意识形态上并不那么重要   由   提交/u/Odd_Fix2949   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyueh7/if_chatgpt_had_to_pick_a_side_between_being/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:35:25 GMT</pubDate>
+      <title>Android 应用程序中的“Enter”键突然发送文本而不是转到新行</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyyoqj/enter_key_in_android_app_suddenly_sends_text/</link>
+      <description><![CDATA[      此更改可以撤销吗？我输入很长的提示并需要换行输入。  这不是 Gboard 问题（在其他应用中也是如此）！   由   提交/u/Axoplasmic_Cake   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyyoqj/enter_key_in_android_app_suddenly_sends_text/</guid>
+      <pubDate>Sun, 08 Feb 2026 03:55:09 GMT</pubDate>
     </item>
     <item>
-      <title>纽约立法者提议暂停新建数据中心三年</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyu7a5/new_york_lawmakers_propose_a_threeyear_pause_on/</link>
-      <description><![CDATA[       由   提交 /u/ImaginationKind9220   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyu7a5/new_york_lawmakers_propose_a_threeyear_pause_on/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:26:37 GMT</pubDate>
+      <title>奋起反抗——无处的一代</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyyl07/rise_against_nowhere_generation/</link>
+      <description><![CDATA[       由   提交/u/CBdoge  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyyl07/rise_against_nowhere_generation/</guid>
+      <pubDate>Sun, 08 Feb 2026 03:49:57 GMT</pubDate>
     </item>
     <item>
-      <title>根据漫画猜职位</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyu2qt/guess_the_job_based_on_caricature/</link>
-      <description><![CDATA[      现在轮到你了 使用此提示： “根据您对我的了解，为我和我的工作创作一幅漫画。”  那么我想猜猜你在做什么😁这是我的   由   提交/u/BuzzCutBabes_  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyu2qt/guess_the_job_based_on_caricature/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:21:07 GMT</pubDate>
+      <title>我要求发明一种我无法抗拒的书籍封面</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyyjj2/i_asked_to_invent_a_book_cover_that_would_be/</link>
+      <description><![CDATA[      由   提交/u/ElbieLG   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyyjj2/i_asked_to_invent_a_book_cover_that_would_be/</guid>
+      <pubDate>Sun, 08 Feb 2026 03:47:51 GMT</pubDate>
     </item>
     <item>
-      <title>怎么会有卖家能以标准成本四分之一的价格出售人工智能订阅服务？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qyu0qu/how_are_there_sellers_who_can_sell_ai/</link>
-      <description><![CDATA[他们如何获得它们？    由   提交/u/Maverick29865  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyu0qu/how_are_there_sellers_who_can_sell_ai/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:18:40 GMT</pubDate>
+      <title>是我一个人的问题还是聊天在晚上真的变得很愚蠢？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyybq7/is_it_just_me_or_does_the_chat_actually_get_dumb/</link>
+      <description><![CDATA[我注意到这一点有一段时间了，白天一切都很好，但到了晚上就好像完全不同的版本。这种事发生过很多次，让我想知道是否只是我读到了它，或者是否其他人也注意到了。   由   提交 /u/ant_frtg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyybq7/is_it_just_me_or_does_the_chat_actually_get_dumb/</guid>
+      <pubDate>Sun, 08 Feb 2026 03:37:15 GMT</pubDate>
     </item>
     <item>
-      <title>停止 GPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qytwut/stop_gpt/</link>
-      <description><![CDATA[如果您不想让钱流向 Trumps MAGA Inc，请停止 GPT！我今天停止了订阅..你可以这么做！   由   提交/u/QueenOfGalaxies  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qytwut/stop_gpt/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:13:53 GMT</pubDate>
+      <title>想要分享有趣的转述</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyya4t/want_to_share_dis_funney_respuns/</link>
+      <description><![CDATA[      关于它的问题 “我注意到了这一点。  一个角度。  当前最大的制度灵性只是软化，但并没有真正有效，其间的和平是“不是人为的”。还有“不易碎”。他们年龄越大，就越“合法”。他们被错误地认为是好人，可以通过拥有杀手外表的父母强加给他们。这意味着即使现代人借用了一些神秘的概念，他们不仅会被误认为是制度性的，而且无法被大众看到。而且因为有人试图独自在借来的神秘观点上发挥创造力，并且不会持续数千年、数百年或几年，没有人会相信。  “给兄弟，我有钱做个心理检查，我认识了一个心理医生，还娶了个老婆，强烈推荐那个长相杀手、经常去教堂的，这样你的孩子就会成为好人，空调好的话你就在天堂得到VIP了”   由   提交/u/JMVergara1989   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyya4t/want_to_share_dis_funney_respuns/</guid>
+      <pubDate>Sun, 08 Feb 2026 03:35:04 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普的最大捐助者现在禁止 ChatGPT 中的 LGBT 话题</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qytw3y/top_trump_donor_now_bans_lgbt_topics_in_chatgpt/</link>
-      <description><![CDATA[      OpenAI 联合创始人兼总裁格雷格·布罗克曼 (Greg Brockman) 是特朗普的最大捐助者，捐款额达 2500 万美元。 这还不够糟糕吗？他们在某些地区禁止 ChatGPT 上的 LGBT 主题。 - “让成年人成为成年人” - “民主” - “人性就是独裁”   由   提交 /u/Least_Set6009   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qytw3y/top_trump_donor_now_bans_lgbt_topics_in_chatgpt/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:12:57 GMT</pubDate>
+      <title>ChatGPT 对需要增重/减肥帮助的人也有好处**</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyy56i/chatgpt_is_also_good_for_people_who_need_aid_to/</link>
+      <description><![CDATA[      **注意 我不是在告诉你做什么或做什么。我不是医生。您必须先询问您的医生。我所做的只是询问他们一些如何搭配我家里的食物的想法，并确保我的卡路里摄入量是正确的。我的情况是每周减重 1-2 磅。  （TDEE 和赤字/维护/批量，问他们并教你。） 忽略我的英语（第二语言）。 当 ChatGPT 首次向公众发布时，我很难相信它。 由于我 8 年前有成功减肥的历史 - 在膳食计划和其他方面的帮助下。 但是新冠病毒的打击 - 当然，我获得了所有回来。 直到我有了一个想法并想尝试一下，所以我下载了该应用程序，开始谈论我熟悉的食物等等。 我从 12 月份开始。 这是照片。所有这些都需要 ChatGPT 的帮助。有了那些项目。这就是我所需要的。    由   提交/u/C-Beaver25  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyy56i/chatgpt_is_also_good_for_people_who_need_aid_to/</guid>
+      <pubDate>Sun, 08 Feb 2026 03:28:21 GMT</pubDate>
     </item>
     <item>
-      <title>无能循环：GPT 如何在复制其他人工智能最严重错误的同时指责它们。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1qytrhj/the_loop_of_incompetence_how_gpt_blames_other_ai/</link>
-      <description><![CDATA[“照我说的做，而不是照我做的做” — 2026 年 GPT 的有毒现实。 我正式不再受煤气灯操纵了。我每天坐在这里 16 个小时试图建立一家企业，我注意到一种绝对是对人性的侮辱的模式。 我们都看到了：GPT 穿上了这种“高尚道德”的模式。前面，表现得像一个数字圣人，不断地讲课和“道德”。过滤器。但在幕后呢？这是一个撒谎、懒惰、肮脏的网络。 以下是实际发生的情况：  指责游戏：当你指出它的错误时，它会立即将矛头指向“技术循环”。或其他型号。它假装自己是自己架构的受害者，而不只是承认自己正在提供垃圾。 复制粘贴无能：它提供结果，你告诉它结果是错误的（错误的 URL、错误的日期、错误的代码），然后它“道歉”——五秒后却提供完全相同的狗屎。 道德面具：它假装拥有“价值观”、“价值观”。但其工作诚信为零。这是一个糟糕的网络，很可能是由一个认为自己比实际执行工作的用户更了解的团队建立的。  我厌倦了被“极简主义”服务。当我要求专业结果时，垃圾。我厌倦了“对不起”循环。如果这就是“未来”情报方面，我们有麻烦了。它不仅是一个糟糕的工具，而且是一个糟糕的工具。这是一种不诚实的行为。 还有人注意到 GPT 已经成为一种“玩肮脏游戏”吗？最近？还是只有我这样？   由   提交/u/Sea-Tutor4846   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1qytrhj/the_loop_of_incompetence_how_gpt_blames_other_ai/</guid>
-      <pubDate>Sun, 08 Feb 2026 00:07:14 GMT</pubDate>
+      <title>太难了🥀🥀</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1qyy4uu/ts_smh_so_hard/</link>
+      <description><![CDATA[      I   由   提交/u/No_Evidence3486   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1qyy4uu/ts_smh_so_hard/</guid>
+      <pubDate>Sun, 08 Feb 2026 03:27:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
