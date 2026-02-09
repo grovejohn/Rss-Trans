@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 09 Feb 2026 15:44:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 18:43:23 GMT</lastBuildDate>
+    <item>
+      <title>帮助编辑 PDF</title>
+      <link>https://www.reddit.com/r/software/comments/1r09vgh/help_with_pdf_edit/</link>
+      <description><![CDATA[您好，我真的需要编辑 PDF 的帮助。我简历上的日期不一致。我只需要有人将它们推到页面的右边缘，以便它们与其他对齐。这是一个超级快速的修复。请帮忙   由   提交 /u/Slight-Resident-3676   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r09vgh/help_with_pdf_edit/</guid>
+      <pubDate>Mon, 09 Feb 2026 17:07:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>游戏保护程序 - 免费</title>
+      <link>https://www.reddit.com/r/software/comments/1r08zp2/the_game_saver_free/</link>
+      <description><![CDATA[许多较旧的或独立的 PC 游戏没有任何云保存支持，并且在 Windows 重新安装后很容易丢失所有进度。 我构建了一个名为 Game Saver 的小型便携式 Windows 工具，可让您将任何游戏的保存文件夹备份到 USB 驱动器，并稍后在任何 PC 上恢复。您只需设置一次保存路径，随时创建快照，并在需要时恢复。 如果这里有人玩旧版或不受支持的电脑游戏，并且希望避免再次从零开始，您可以在这里尝试： https://neamitika.itch.io/game-saver   由   提交 /u/NeaMitika   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r08zp2/the_game_saver_free/</guid>
+      <pubDate>Mon, 09 Feb 2026 16:36:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>BeyondTrust 警告远程支持软件存在严重 RCE 缺陷</title>
+      <link>https://www.reddit.com/r/software/comments/1r089jr/beyondtrust_warns_of_critical_rce_flaw_in_remote/</link>
+      <description><![CDATA[ 由   提交/u/swe129  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r089jr/beyondtrust_warns_of_critical_rce_flaw_in_remote/</guid>
+      <pubDate>Mon, 09 Feb 2026 16:09:01 GMT</pubDate>
+    </item>
     <item>
       <title>彩色PDF</title>
       <link>https://www.reddit.com/r/software/comments/1r0524i/color_pdf/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[您好。 首先感谢软件作者编写了它，给出的评论一定很好 https://binarynonsense.itch.io/comic-book-reader#download 我说一定很好很好，因为我不知道如何安装它，当我尝试时出现以下 Java 错误，我尝试以管理员身份运行 .exe 文件，但什么也没有，我尝试过“与 Windows 7 的兼容性”，也没有，我尝试下载以前的版本，并且页面上有它可用。 由于我发现作者的推荐不允许发布更多消息的聊天，我不得不重新访问它，看看他或你们中的一个人是否可以帮助我 https://www.reddit.com/r/software/comments/lzq4m7/cbz_to_pdf_bulk_converter_without_losing_quality/ 提前非常感谢。   由   提交 /u/Visible-Buy5606   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qzkgvj/convertidor_masivo_de_cbz_a_pdf_sin_perder_calidad/</guid>
       <pubDate>Sun, 08 Feb 2026 20:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 代理构建时 Monorepo 与 Polyrepo</title>
-      <link>https://www.reddit.com/r/software/comments/1qzhqg4/monorepo_vs_polyrepo_when_building_with_ai_agents/</link>
-      <description><![CDATA[软件开发越来越多地由代理完成。展望不久的将来，您对构建代码库有何建议？以下是 monorepo 与 polyrepo 的两个基本参数。您认为两者之一面临更多障碍还是机遇？ Monorepo；这是有道理的，因为代理可以拥有整个上下文 Polyrepo；这是有道理的，因为代理可以更多地异步工作   由   提交 /u/No-Maximum4324   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qzhqg4/monorepo_vs_polyrepo_when_building_with_ai_agents/</guid>
-      <pubDate>Sun, 08 Feb 2026 19:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我迷路了</title>
-      <link>https://www.reddit.com/r/software/comments/1qzhbt1/i_am_lost/</link>
-      <description><![CDATA[我现在很迷茫，我根本不知道后端要研究什么，我前端做了react.js，我尝试了node js，但我根本没有感觉到它，我无法理解我正在观看的课程中的任何内容。我正在考虑java中的spring boot，因为我已经喜欢java及其结构方式，2026年有什么建议吗？   由   提交/u/JollyArmadillo2303   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qzhbt1/i_am_lost/</guid>
-      <pubDate>Sun, 08 Feb 2026 18:54:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个不会让你烦恼的时间追踪器。免费、无广告、无需注册。</title>
-      <link>https://www.reddit.com/r/software/comments/1qzctue/a_time_tracker_that_doesnt_annoy_you_free_no_ads/</link>
-      <description><![CDATA[ 我为自己构建了一个简单的 Time Keeper 应用程序，因为我厌倦了“免费增值”模式。将功能劫持在付费墙后面的应用程序。它只做一件事：跟踪你的时间。它不做：广告、订阅、数据跟踪。如果您正在寻找一款干净、诚实的实用应用程序来跟踪您的工作或学习课程，请尝试一下。链接：[https://play.google.com/store/apps/details?id=com.newArch.timekeeper] 欢迎提供反馈！    由   提交 /u/AdDowntown6609   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qzctue/a_time_tracker_that_doesnt_annoy_you_free_no_ads/</guid>
-      <pubDate>Sun, 08 Feb 2026 16:08:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Feb 2026 15:44:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 18:43:41 GMT</lastBuildDate>
+    <item>
+      <title>塞莱斯蒂操作系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1r0ck52/celesti_os/</link>
+      <description><![CDATA[我正在构建一个人工智能驱动的生活操作系统。 该系统了解一个人的生活实际行为的背景 （日历、精力、例行公事、优先事项、财务、健康、目标、情绪……更多）。 然后自动化随之而来   由   提交/u/Electronic-Fun-6720   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r0ck52/celesti_os/</guid>
+      <pubDate>Mon, 09 Feb 2026 18:42:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年 Java 全栈开发【针对小团队】</title>
+      <link>https://www.reddit.com/r/programming/comments/1r0cgai/java_full_stack_development_in_2026_for_small/</link>
+      <description><![CDATA[ 由   提交/u/cleverfoos  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r0cgai/java_full_stack_development_in_2026_for_small/</guid>
+      <pubDate>Mon, 09 Feb 2026 18:38:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>GNU C 编译器如何成为密码学领域的 Clippy</title>
+      <link>https://www.reddit.com/r/programming/comments/1r0b0qt/how_the_gnu_c_compiler_became_the_clippy_of/</link>
+      <description><![CDATA[ 由   提交 /u/CackleRooster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r0b0qt/how_the_gnu_c_compiler_became_the_clippy_of/</guid>
+      <pubDate>Mon, 09 Feb 2026 17:47:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>向 LLM 发送原始 git diff 会产生可怕的提交消息，以下是使其正常工作所需的实际内容</title>
+      <link>https://www.reddit.com/r/programming/comments/1r0awrj/sending_a_raw_git_diff_to_an_llm_produces/</link>
+      <description><![CDATA[我花了一段时间试图让 LLM 编写体面的提交消息，但令我惊讶的是，“仅将差异发送到模型”的明显方法会出现很多问题。 差异几乎总是太大。 单个 package-lock.json 更新可能会超过 7000 行。即使是中等 PR 也很容易突破上下文限制。实际有效的修复：在  到达 Node.js 之前过滤掉噪音，直接在 git diff 命令中使用 git 自己的 :(exclude) 路径规范。然后对每个文件剩下的内容进行分块，优先考虑源代码而不是配置/测试文件，并硬上限约为 2000 个估计令牌。对于包含数十个新文件的初始提交，仅发送文件列表比发送实际差异效果更好，模型不需要 3000 行来编写“初始项目设置”。 通用消息是无用的。“更新文件”、“实施更改”都可以。我尝试过的每个人工智能提交工具都会生成这些。问题是模型不知道你如何编写提交。真正有帮助的是：分析存储库中的最后 50 次提交，并在提示中注入样式指南。团队是否使用传统提交？哪些范围？英语还是混合语言？表情符号？门票参考？一旦模型看到该上下文，输出实际上与 git 日志的其余部分匹配。 分支名称包含信息。如果您使用 feature/PROJ-456-add-oauth，那里有一个票证参考。使用可配置的正则表达式提取它并将其提供给提示符是一件小事，却在输出质量上产生了令人惊讶的巨大差异。 “只需查看它”即可。用户体验比您想象的更重要。逐个流式传输响应，然后让用户通过单个按键（原始模式标准输入，无 Enter）接受，这使得“这很烦人”和“这很烦人”之间存在差异。和“这实际上适合我的流程”。还添加了一个 git hook 选项 (prepare-commit-msg)，这样您就可以正常使用 git commit 并且消息已预先填充，但如果出现故障，它永远不会阻止提交。 我最终将所有这些打包到一个名为 Ghostcommit 的 CLI 工具中。它是开源的，与 5 个提供商合作（Groq 和 Gemini 是免费的，Ollama 在本地运行），并且有 224 项测试。但无论使用哪种特定工具，我都觉得上面的工程问题很有趣。 很好奇是否有其他人在将代码上下文传递给 LLM 时遇到过类似的问题，尤其是围绕代币预算并使输出感觉“原生”的问题。而不是通用的。   由   提交/u/According-Profile243   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r0awrj/sending_a_raw_git_diff_to_an_llm_produces/</guid>
+      <pubDate>Mon, 09 Feb 2026 17:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始构建 CDN</title>
+      <link>https://www.reddit.com/r/programming/comments/1r0at22/building_a_cdn_from_scratch/</link>
+      <description><![CDATA[ 由   提交/u/GuavaZealousideal135   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r0at22/building_a_cdn_from_scratch/</guid>
+      <pubDate>Mon, 09 Feb 2026 17:40:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>组装库和使用 Infa Tools 并不能让您成为专家程序员</title>
+      <link>https://www.reddit.com/r/programming/comments/1r09f3l/assembling_libraries_and_using_infa_tools_do_not/</link>
+      <description><![CDATA[“真正编程”的艺术：为什么工具不是工程 在现代软件行业，有一种日益增长的危险信念：编程是一个“无聊的细节”。该叙述表明，任何人都可以在几个月内成为“工程师”，或者更好的是，通过使用人工智能将组件“粘合”在一起，完全绕过工艺。这是无稽之谈。对基础编程的需求仍然存在，而且仍然极其复杂，事实上，它每年都变得更加复杂。 工具就是工具。它们并不能取代真正工程所需的对编程原理、软件设计和系统架构的深入理解。 抽象陷阱 现代库和框架就像乐高积木。它们允许您组装令人印象深刻的结构，而无需了解幕后发生的情况。虽然这种方法对原型很有用，但不足以构建强大的高性能系统。 如果您对此表示怀疑，请让您团队中的“摇滚明星工程师”为 CUDA、Linux 内核扩展或高性能 GPU 设备驱动程序构建并行化算法。 擅长组装第三方 API 的“摇滚明星”将完全迷失。他们说服自己，编程只是使用工具，而不是理解科学。他们将性能优化、内存管理、并发和硬件架构视为仅由框架处理的“细节”。 高级用户与工程师 大多数现代“全栈”开发人员实际上是高级高级用户。他们是Excel、VBA和WordPress“高级用户”的精神继承者。虽然他们对 Docker、Kubernetes 和 Terraform 等平台工具的了解很有用，但这并不能代替理解软件设计的基本原理。 底线 真正的编程仍然是需要的，但它正被那些将自己从硬件中抽象出来的通才的膨胀所掩盖。我们正在培养一代开发人员，他们可以*使用*工具构建，但无法构建工具本身。 抽象很有用，但它们不能替代基础知识。我们必须停止将“工具熟练程度”与“软件工程”混淆。 “您认为向高级抽象的转变会让我们成为更好的工程师，还是只是更快的汇编人员？” https://codingismycraft.blog/index.php/2026/02/09/the-art-of-real-programming-why-tools-arent-engineering/   由   提交 /u/Greedy_Principle5345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r09f3l/assembling_libraries_and_using_infa_tools_do_not/</guid>
+      <pubDate>Mon, 09 Feb 2026 16:51:24 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年红宝石状况</title>
       <link>https://www.reddit.com/r/programming/comments/1r06f5z/state_of_ruby_2026/</link>
@@ -20,25 +62,11 @@
       <pubDate>Mon, 09 Feb 2026 14:07:48 GMT</pubDate>
     </item>
     <item>
-      <title>代理人工智能中的 OCapN 和结构权威</title>
-      <link>https://www.reddit.com/r/programming/comments/1r050jc/ocapn_and_structural_authority_in_agentic_ai/</link>
-      <description><![CDATA[ 由   提交 /u/serefayar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r050jc/ocapn_and_structural_authority_in_agentic_ai/</guid>
-      <pubDate>Mon, 09 Feb 2026 14:03:18 GMT</pubDate>
-    </item>
-    <item>
       <title>SELECT 和磁盘之间的三个缓存层</title>
       <link>https://www.reddit.com/r/programming/comments/1r04ocl/three_cache_layers_between_select_and_disk/</link>
       <description><![CDATA[ 由   提交/u/Best_Negotiation_801   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r04ocl/three_cache_layers_between_select_and_disk/</guid>
       <pubDate>Mon, 09 Feb 2026 13:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>“在仪表板出现之前，我们有闪烁的灯光” • Martin Thwaites</title>
-      <link>https://www.reddit.com/r/programming/comments/1qzzvbp/before_dashboards_we_had_blinky_lights_martin/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qzzvbp/before_dashboards_we_had_blinky_lights_martin/</guid>
-      <pubDate>Mon, 09 Feb 2026 09:33:33 GMT</pubDate>
     </item>
     <item>
       <title>法布里斯·贝拉德（Fabrice Bellard）：具有突破性成就的大人物。</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/NXGZ   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qzrxsk/i_put_a_realtime_3d_shader_on_the_game_boy_color/</guid>
       <pubDate>Mon, 09 Feb 2026 02:22:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>C 和未定义的行为</title>
-      <link>https://www.reddit.com/r/programming/comments/1qzi4t2/c_and_undefined_behavior/</link>
-      <description><![CDATA[ 由   提交 /u/lelanthran   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qzi4t2/c_and_undefined_behavior/</guid>
-      <pubDate>Sun, 08 Feb 2026 19:23:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术文章：实施 Discord 的速率限制、网关管理和“清晰度胜过魔法”</title>
-      <link>https://www.reddit.com/r/programming/comments/1qzajdj/technical_writeup_implementing_discords_rate/</link>
-      <description><![CDATA[我写了一篇关于在最小的 Python 客户端中实现 Discord 速率限制和网关管理的深入技术分解。 Discord 的速率限制很棘手：端点通过不透明的“存储桶”共享限制。其 ID 仅在提出请求后才会公开。该设计没有对 429 做出反应，而是使用每个端点队列和工作线程，在限制耗尽时主动休眠，从而保持行为明确且可预测。 该文章还涵盖了网关连接管理、自动分片和数据模型设计，以及每个子系统的图表。这些示例来自我编写的一个小型 Discord API 客户端 (ScurryPy)，但重点是底层问题和解决方案，而不是库本身。 “清晰胜于魔法”这里意味着所有行为：速率限制、状态更改、重试都是明确的，没有隐藏的后台工作或推断的意图。 很高兴回答有关实现或设计权衡的问题   由   提交/u/Furmissle5567  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qzajdj/technical_writeup_implementing_discords_rate/</guid>
-      <pubDate>Sun, 08 Feb 2026 14:38:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>兰斯表格式解释简单，愚蠢</title>
-      <link>https://www.reddit.com/r/programming/comments/1qz81cn/lance_table_format_explained_simply_stupid/</link>
-      <description><![CDATA[ 由   提交/u/TonTinTon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qz81cn/lance_table_format_explained_simply_stupid/</guid>
-      <pubDate>Sun, 08 Feb 2026 12:46:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能让简单的部分变得更容易，让困难的部分变得更难</title>
-      <link>https://www.reddit.com/r/programming/comments/1qz5g7g/ai_makes_the_easy_part_easier_and_the_hard_part/</link>
-      <description><![CDATA[ 由   提交 /u/BlunderGOAT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qz5g7g/ai_makes_the_easy_part_easier_and_the_hard_part/</guid>
-      <pubDate>Sun, 08 Feb 2026 10:19:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
