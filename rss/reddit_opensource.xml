@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Feb 2026 18:45:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:31:08 GMT</lastBuildDate>
+    <item>
+      <title>免费的 Autocad 替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1r0e0rs/free_autocad_alternatives/</link>
+      <description><![CDATA[2 个问题：  有哪些好的免费替代方案？ 这些程序需要多少资源？我有一个在桌面模式下使用的 Steam 平台，这足以学习和构建它们吗？    由   提交/u/GoosePants72  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1r0e0rs/free_autocad_alternatives/</guid>
+      <pubDate>Mon, 09 Feb 2026 19:34:00 GMT</pubDate>
+    </item>
     <item>
       <title>公共档案馆的开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1r0bstw/opensource_for_public_archives/</link>
       <description><![CDATA[嘿，我正在寻找托管公共数字档案的好选择（主要是图像和 PDF，还有一些音频/视频）。 我是一个与公共和个人档案合作的艺术团体的一员，经常对那些被忽视或有丢失风险的材料进行数字化。 我们正在进行正在进行的文化和研究项目，并希望档案能够公开访问，并且具有一些很酷的外观，但我更喜欢干净的目录外观（我也使用论坛作为我以前的一些作品的格式）...有点像 jellyfin，但用于文档。 我对在线托管和自托管开源解决方案都感兴趣。   由   提交 /u/el_magyar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1r0bstw/opensource_for_public_archives/</guid>
       <pubDate>Mon, 09 Feb 2026 18:15:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用跨 9 个平台的 2 万小时真实双臂数据训练开源 VLA 机器人模型 - 以下是实际有效和无效的方法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r0aij7/trained_an_opensource_vla_robot_model_on_20k/</link>
-      <description><![CDATA[首先链接： GitHub | 论文 (arXiv:2601.18692) | HuggingFace 模型 |许可证：CC BY 4.0 我们一直在研究 LingBot-VLA，这是一种用于双臂机器人操纵的视觉-语言-动作基础模型。完整代码、基础模型权重和基准数据均已发布。我想分享我们学到的东西，因为有些结果确实令我们惊讶，有些则令人谦卑。 它是什么：基于 Qwen2.5-VL 构建的 VLA 模型，具有 Mixture-of-Transformers 架构和 Flow Matching 动作头。我们使用来自 9 种不同双臂机器人设置（Agibot G1、AgileX、Galaxea R1Pro、Franka bimanual 等）的约 20,000 小时的真实遥控操作数据对其进行了预训练。然后，我们使用 GM-100 基准对 3 个平台上的 100 项任务进行了评估，每个任务有 130 个训练后演示。 实际有效的方法： 缩放法则在真实机器人上有效，但这一点并不明显。从 3K 小时到 20K 小时的预训练数据，成功率不断攀升，而且没有饱和。在 20K 小时时，三个实施例的平均 SR 达到 17.3%，PS 达到 35.4%。与π0.5（13.0% SR，27.6% PS）、GR00T N1.6（7.6% SR，16.0% PS）和WALL-OSS（4.1% SR，10.3% PS）相比，差距是有意义的。但我要明确一点：在 100 个不同的现实世界任务中 17% 的成功率距离可靠的部署还很远。不过，这些都是艰巨的任务，测试集中约 50% 的原子操作从未出现在前 100 个训练操作中。 深度蒸馏产生了真正的影响。我们通过交叉注意力添加了与来自单独深度模型（LingBot-Depth）的深度嵌入一致的可学习查询。这使得现实世界测试中的平均 SR 从 15.7% 提高到 17.3%，随机模拟场景中的平均 SR 从 85.3% 提高到 86.7%。透明对象操作显着改善。 训练效率是一个重点。我们的代码库在 8-GPU 设置上达到 261 个样本/秒/GPU，比 OpenPI、StarVLA 和 Dexbotic 快 1.5 倍到 2.8 倍，具体取决于 VLM 主干。我们将 FSDP2 与混合分片策略结合使用，其中动作专家模块拥有自己的分片组来削减通信开销，并使用 FlexAttention 和 torch.compile 进行算子融合。扩展到 256 个 GPU 后，吞吐量接近线性。 结果没有达到我们希望的效果： 数据效率优于 π0.5（我们仅用 80 个演示就击败了他们的 130 个演示性能），但绝对数字仍然令人震惊。即使使用我们最好的模型，许多单独的任务的 SR 也为 0%。有些任务 π0.5 处理得很好，我们会进行回归，反之亦然。任务之间的差异是巨大的。 跨实体迁移是真实的，但不均匀。 GR00T N1.6 实际上与 Galaxea R1Pro 上的 π0.5 匹配，因为该平台在预训练中占有很大比例。这表明特定于平台的数据密度仍然很重要，并且“通用”数据密度仍然很重要。模型仍然是理想的。 MoT 架构增加了复杂性。从经验上来看，为视觉语言和动作维护独立的变压器路径并共享自注意力效果很好，但调试和扩展它却并非易事。我们很好奇更简单的架构是否可以用更好的数据来缩小差距。 发布内容：完整的训练代码、基本预训练模型、GM-100 基准数据和所有评估 rosbag。一切都是 CC BY 4.0。 如果您使用机器人学习或 VLA 模型，我们真诚地感谢您对代码库和基准设计的反馈。我们特别有兴趣听取那些尝试将 VLA 模型改编为单臂设置或移动平台的人的意见，因为这就是我们下一步的发展方向。   由   提交 /u/Any-Farm-1033   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r0aij7/trained_an_opensource_vla_robot_model_on_20k/</guid>
-      <pubDate>Mon, 09 Feb 2026 17:29:36 GMT</pubDate>
     </item>
     <item>
       <title>Umihi Music，我更新的 YouTube 音乐播放器</title>
@@ -36,7 +36,7 @@
     <item>
       <title>构建了一种向 Marked.js 添加 srcset 支持的简单方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1r0796z/built_a_simple_way_to_add_srcset_support_to/</link>
-      <description><![CDATA[      我一直在开发一个插件来解决 Markdown 中的响应式图像问题，而不破坏标准语法。 我一直在个人项目中使用 [marked.js](marked.js.org)，并在现代网络内容的背景是缺乏响应式图像支持。因此，我编写了一个小扩展，在生成的图像中添加了“srcset”、“sizes”和“loading=”lazy“”标签。 我想确保这不会破坏 Markdown，所以我让它使用文件名来生成所有变体，同时仍然保持标准 Markdown 图像代码的功能齐全。 只是想分享，以防其他人发现它有用！ 链接： [github.com/ELowry/MarkedResponsiveImages](https://github.com/ELowry/MarkedResponsiveImages)   由   提交 /u/EricLowry   [link] [评论] ]]></description>
+      <description><![CDATA[      我一直在开发一个插件来解决 Markdown 中的响应式图像问题，而不破坏标准语法。 我一直在个人项目中使用 [marked.js](marked.js.org)，并在现代网络内容的背景是缺乏响应式图像支持。因此，我编写了一个小扩展，在生成的图像中添加了“srcset”、“sizes”和“loading=”lazy“”标签。 我想确保这不会破坏 Markdown，所以我让它使用文件名来生成所有变体，同时仍然保持标准 Markdown 图像代码的功能齐全。 只是想分享，以防其他人发现它有用！ 链接： github.com/ELowry/MarkedResponsiveImages   由   提交 /u/EricLowry   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1r0796z/built_a_simple_way_to_add_srcset_support_to/</guid>
       <pubDate>Mon, 09 Feb 2026 15:31:54 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>一个最小的 macOS 应用程序切换器，专为那些运行 10 个应用程序但实际上只使用 2-3 个应用程序的用户进行集中切换而设计</title>
       <link>https://www.reddit.com/r/opensource/comments/1qzcoqz/a_minimal_macos_app_switcher_designed_for_focused/</link>
-      <description><![CDATA[多年来，我一直对 macOS 上 Cmd + Tab 的混乱感觉感到恼火。 我是那种总是打开 10 个应用程序的人，slack、mail、arc、ide、terminal、figma、spotify、discord…但在任何特定时刻，我实际上只是在 2 或 3 个应用程序（ide 和终端或 db）之间跳来跳去。  问题在于，macOS 平等对待每个打开的应用程序，因此每次我按下 Cmd+Tab 时，感觉就像一场混乱的家庭聚会，每个人都不请自来。 因此，我构建了 HopTab — 一个适用于 macOS 的轻量级开源应用程序切换器，可让您仅固定当前关心的应用程序，然后使用 Option + Tab 在它们之间跳转。其他一切都不会妨碍。 它支持的一些功能： 固定/取消固定任何正在运行的应用程序 可配置的全局快捷方式（Option+Tab、Control+Tab 或 Option+`） 使用应用程序图标清理本机覆盖 它还支持将不同的应用程序固定在不同的桌面（配置文件）上 您甚至可以将配置文件分配到特定的 macOS 桌面（空格），因此当您在桌面之间滑动时，您固定的应用程序会自动更改 它是用 Swift 编写的，面向 macOS 14+，并且获得 MIT 许可。 如果您是那种“以防万一”而囤积应用程序但实际上一次只能运行一小部分应用程序的人 - 您可能会发现这很有用。 存储库：https://github.com/royalbhati/HopTab 很高兴回答问题、接受反馈或审核 PR！   由   提交 /u/CaptainOnBoard   [链接] [评论]]]></description>
+      <description><![CDATA[多年来，我一直对 macOS 上 Cmd + Tab 的混乱感觉感到恼火。 我是那种总是打开 10 个应用程序的人，slack、mail、arc、ide、terminal、figma、spotify、discord…但在任何特定时刻，我实际上只是在 2 或 3 个应用程序（ide 和终端或 db）之间跳来跳去。  问题在于，macOS 平等对待每个打开的应用程序，因此每次我按下 Cmd+Tab 时，感觉就像一场混乱的家庭聚会，每个人都不请自来。 因此，我构建了 HopTab - 一个适用于 macOS 的轻量级开源应用程序切换器，可让您仅固定当前关心的应用程序，然后使用 Option + Tab 在它们之间跳转。其他一切都不会妨碍。 它支持的一些功能： 固定/取消固定任何正在运行的应用程序 可配置的全局快捷方式（Option+Tab、Control+Tab 或 Option+`） 使用应用程序图标清理本机覆盖 它还支持将不同的应用程序固定在不同的桌面（配置文件）上 您甚至可以将配置文件分配到特定的 macOS 桌面（空格），因此当您在桌面之间滑动时，您固定的应用程序会自动更改 它是用 Swift 编写的，面向 macOS 14+，并且获得 MIT 许可。 如果您是那种“以防万一”而囤积应用程序但实际上一次只能运行一小部分应用程序的人 - 您可能会发现这很有用。 存储库：https://github.com/royalbhati/HopTab 很高兴回答问题、接受反馈或审核 PR！   由   提交 /u/CaptainOnBoard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qzcoqz/a_minimal_macos_app_switcher_designed_for_focused/</guid>
       <pubDate>Sun, 08 Feb 2026 16:02:47 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>我使用 WebGPU、Pyodide 和 WASM 构建了一个完全浏览器原生的 RAG 和语义搜索工具。没有服务器，隐私第一。 （麻省理工学院许可）</title>
       <link>https://www.reddit.com/r/opensource/comments/1qyqtzu/i_built_a_fully_browsernative_rag_and_semantic/</link>
-      <description><![CDATA[嗨r/OpenSource！ 我一直在开发一个名为 Vectoria 的项目，最后我将其作为我的第一个主要开源贡献发布（MIT 许可证）。 问题： 我想要一种执行 RAG（检索增强生成）和对我的私人数据（笔记、研究、客户反馈）进行语义聚类，无需将任何内容上传到云服务器，无需支付 API 积分，只需拥有一些易于使用的东西即可。 解决方案：我构建了一个在浏览器中运行整个 AI 管道的系统。 技术堆栈（有趣的部分）：让它在客户端运行是一个有趣的挑战。下面是它的工作原理：  嵌入：使用 Transformers.js 直接在浏览器中对文本进行矢量化。 聚类：通过 Pyodide 运行 HDBSCAN（在浏览器内运行 Python sci-kit learn）。 可视化：使用 UMAP-WASM 实现高性能 2D绘图。 推理：使用 WebLLM (WebGPU) 在本地运行 Gemma 2 和 Llama 3 等模型以进行 RAG 聊天。  我发帖的原因：由于这是我的第一个大型开源版本，因此我正在寻求有关架构和实现的反馈。如果您对 WebGPU、基于浏览器的 ML 感兴趣，或者只是想要一个用于文档分析的本地工具， 我希望您能够查看和/或协作。如果您愿意，您也可以分叉它：） Repo：https://github.com/arminpasalic/vectoria 演示/应用程序：https://vectoria.app/ 它完全免费，除了现代浏览器之外，需要零设置。让我知道你的想法！   由   提交 /u/arminam_5k   [链接] [评论]]]></description>
+      <description><![CDATA[嗨r/OpenSource！ 我一直在开发一个名为 Vectoria 的项目，最终将其作为我的第一个主要开源贡献发布（MIT 许可证）。 问题： 我想要一种方法来执行 RAG（检索增强生成）和对我的私人数据（笔记、研究、客户反馈）进行语义聚类，无需将任何内容上传到云服务器，无需支付 API 积分，只需拥有一些易于使用的东西即可。 解决方案：我构建了一个在浏览器中运行整个 AI 管道的系统。 技术堆栈（有趣的部分）：让它在客户端运行是一个有趣的挑战。下面是它的工作原理：  嵌入：使用 Transformers.js 直接在浏览器中对文本进行矢量化。 聚类：通过 Pyodide 运行 HDBSCAN（在浏览器内运行 Python sci-kit learn）。 可视化：使用 UMAP-WASM 实现高性能 2D绘图。 推理：使用 WebLLM (WebGPU) 在本地运行 Gemma 2 和 Llama 3 等模型以进行 RAG 聊天。  我发帖的原因：由于这是我的第一个大型开源版本，因此我正在寻求有关架构和实现的反馈。如果您对 WebGPU、基于浏览器的 ML 感兴趣，或者只是想要一个用于文档分析的本地工具， 我希望您能够查看和/或协作。如果您愿意，您也可以分叉它：） Repo：https://github.com/arminpasalic/vectoria 演示/应用程序：https://vectoria.app/ 它完全免费，除了现代浏览器之外，需要零设置。让我知道你的想法！   由   提交 /u/arminam_5k   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qyqtzu/i_built_a_fully_browsernative_rag_and_semantic/</guid>
       <pubDate>Sat, 07 Feb 2026 22:02:30 GMT</pubDate>
     </item>
@@ -85,7 +85,7 @@
     <item>
       <title>开源 |游戏化语言学习（中文普通话）|网络应用程序 |无需注册</title>
       <link>https://www.reddit.com/r/opensource/comments/1qyowos/open_source_gamified_language_learning_chinese/</link>
-      <description><![CDATA[这仍然是一项正在进行的工作，我希望其他人能够为这个项目的发展做出贡献。  我认为，如果给予更多关注，这可能会成为许多不同语言学习的宝贵资产（可以轻松修改为日语） - 因为我个人发现它比标准抽认卡更有趣。如果你和我一样，学习某样东西更多的是保持兴趣和动力，而不是其他任何东西。  存储库：https://github.com/GreenAnts/HSK-3.0-Study-Game Web应用程序：https://greenants.github.io/HSK-3.0-Study-Game/ 虽然它并不是什么特别的东西，但我确实认为它比简单地使用 Anki 抽认卡更有效（至少对我来说），因为它让我更加有趣和感兴趣 - 但我认为这个项目绝对可以更加游戏化。该项目的主要目标是最终创建一些“真正”让用户对钻研词汇感兴趣的东西。  - - -  免责声明：该项目主要只是几个文件，并且是与 AI 组合在一起的，没有使用任何类型的框架或任何东西。如果该项目获得了未来的合作者，我们可能需要重构该项目以使其更加可行。    由   提交 /u/AnotherMoonDoge   [链接] [评论]]]></description>
+      <description><![CDATA[这仍然是一项正在进行的工作，我希望其他人能够为这个项目的发展做出贡献。  我认为，如果给予更多关注，这可能会成为许多不同语言学习的宝贵资产（可以轻松修改为日语） - 因为我个人发现它比标准抽认卡更有趣。如果你和我一样，学习某样东西更多的是保持兴趣和动力，而不是其他任何事情。  存储库：https://github.com/GreenAnts/HSK-3.0-Study-Game Web应用程序：https://greenants.github.io/HSK-3.0-Study-Game/ 虽然它并不是什么特别的东西，但我确实认为它比简单地使用 Anki 抽认卡更有效（至少对我来说），因为它让我更加有趣和感兴趣 - 但我认为这个项目绝对可以更加游戏化。该项目的主要目标是最终创建一些“真正”让用户对钻研词汇感兴趣的东西。  - - -  免责声明：该项目主要只是几个文件，并且是与 AI 组合在一起的，没有使用任何类型的框架或任何东西。如果该项目获得了未来的合作者，我们可能需要重构该项目以使其更加可行。    由   提交 /u/AnotherMoonDoge   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1qyowos/open_source_gamified_language_learning_chinese/</guid>
       <pubDate>Sat, 07 Feb 2026 20:45:47 GMT</pubDate>
     </item>

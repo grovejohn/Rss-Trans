@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 09 Feb 2026 18:43:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 21:29:59 GMT</lastBuildDate>
+    <item>
+      <title>泛百度下载器</title>
+      <link>https://www.reddit.com/r/software/comments/1r0fgq1/pan_baidu_downloader/</link>
+      <description><![CDATA[是否可以用JDownloader从泛百度下载大文件？如果是这样，怎么办？   由   提交/u/Low-Finance-2275   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r0fgq1/pan_baidu_downloader/</guid>
+      <pubDate>Mon, 09 Feb 2026 20:25:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人在环是人工智能演示和生产之间的界限</title>
+      <link>https://www.reddit.com/r/software/comments/1r0cxjx/why_humanintheloop_is_the_line_between_ai_demos/</link>
+      <description><![CDATA[人工智能代理越来越擅长做事。他们起草报告、更新系统、移动数据、发送消息——所有这些都在几秒钟内完成。 这也是事情开始出现问题的地方。 在实际生产环境中，尤其是受监管的生产环境中，没有判断力的速度是危险的。一个错误的行为可能会引发合规问题、暴露数据或悄悄侵蚀信任。问题通常不是模型质量，而是盲目的自动化。 大多数代理工作流程都是这样构建的： 触发 → 执行 → 完成。 这在演示中效果很好。 当决策带来真正的后果时，效果很差。 真正重要的工作流程需要上下文、权限和责任。这就是人机交互变得至关重要的地方。 您可以设计明确的暂停点，而不是完全自主，即代理在采取行动之前停下来询问的时刻。人工智能处理重复性工作。只有在需要判断或责任的情况下，人类才会介入。 超过阈值的费用批准。 法律或监管提交。 系统变更。 外部通信。 HITL 并不是为了减慢人工智能的速度。它是为了使其可以在现实世界中部署。 它用有条件的信任取代了全有或全无的信任 - 这通常是令人印象深刻的演示和实际在生产中幸存的代理之间的区别。 对于构建或部署代理的人们： 您如何在自动化和人类判断之间划清界限？   由   提交 /u/Fluffy_Tourist8558   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r0cxjx/why_humanintheloop_is_the_line_between_ai_demos/</guid>
+      <pubDate>Mon, 09 Feb 2026 18:55:35 GMT</pubDate>
+    </item>
     <item>
       <title>帮助编辑 PDF</title>
       <link>https://www.reddit.com/r/software/comments/1r09vgh/help_with_pdf_edit/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我应该在男朋友的 iPhone 17 中的哪些应用程序或何处查找他用来监视我手机的间谍软件应用程序。我有一个怀疑，并且存在危险信号。我的手机刚刚阻止了丢失的 Android，因为我最近下载了安全的应用程序来帮助我。  我想在他的手机里找到证据，因为他撒谎并否认   由   提交 /u/Forsaken-Paint6514   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1qzmuz9/boyfriend_spying_through_my_phone/</guid>
       <pubDate>Sun, 08 Feb 2026 22:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何人都可以从图标中识别出这个 Windows 视频叠加/虚拟相机应用程序吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1qzlq1n/can_anyone_identify_this_windows_video_overlay/</link>
-      <description><![CDATA[大家好。 我正在尝试仅根据图标来识别 Windows 应用程序。 该应用程序用于视频叠加/虚拟摄像头，功能与 ManyCam 类似。该图标显示一个带有白色幻灯片和播放符号的蓝色圆圈，并且图标本身包含一个黄色复选标记，而不是 Windows 状态叠加层。 我已经排除了 Microsoft 应用程序和电影和播放符号。电视。这绝对是第三方虚拟相机或视频叠加工具。 我附上了下面的图标图像。 如果有人认识这个图标或以前见过它，我将非常感谢您的帮助。这让我有点抓狂。 提前致谢。   由   提交/u/vault48888  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qzlq1n/can_anyone_identify_this_windows_video_overlay/</guid>
-      <pubDate>Sun, 08 Feb 2026 21:39:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型 CBZ 到 PDF 转换器，且不损失质量</title>
-      <link>https://www.reddit.com/r/software/comments/1qzkgvj/convertidor_masivo_de_cbz_a_pdf_sin_perder_calidad/</link>
-      <description><![CDATA[您好。 首先感谢软件作者编写了它，给出的评论一定很好 https://binarynonsense.itch.io/comic-book-reader#download 我说一定很好很好，因为我不知道如何安装它，当我尝试时出现以下 Java 错误，我尝试以管理员身份运行 .exe 文件，但什么也没有，我尝试过“与 Windows 7 的兼容性”，也没有，我尝试下载以前的版本，并且页面上有它可用。 由于我发现作者的推荐不允许发布更多消息的聊天，我不得不重新访问它，看看他或你们中的一个人是否可以帮助我 https://www.reddit.com/r/software/comments/lzq4m7/cbz_to_pdf_bulk_converter_without_losing_quality/ 提前非常感谢。   由   提交 /u/Visible-Buy5606   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1qzkgvj/convertidor_masivo_de_cbz_a_pdf_sin_perder_calidad/</guid>
-      <pubDate>Sun, 08 Feb 2026 20:52:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
