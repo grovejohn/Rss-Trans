@@ -4,34 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Feb 2026 01:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Feb 2026 04:55:03 GMT</lastBuildDate>
     <item>
-      <title>天网张开爪</title>
-      <link>https://www.reddit.com/r/programming/comments/1qzpzaa/skynet_openclaw/</link>
-      <description><![CDATA[ 由   提交 /u/No_Arachnid_5563   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qzpzaa/skynet_openclaw/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:45:04 GMT</pubDate>
+      <title>使用 C 从头开始​​制作硬件加速直播电视播放器：HLS 流、MPEG-TS 解复用、H.264 解析和 Vulkan 视频解码</title>
+      <link>https://www.reddit.com/r/programming/comments/1qzuxni/making_a_hardware_accelerated_live_tv_player_from/</link>
+      <description><![CDATA[ 由   提交/u/Beginning-Safe4282   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qzuxni/making_a_hardware_accelerated_live_tv_player_from/</guid>
+      <pubDate>Mon, 09 Feb 2026 04:46:04 GMT</pubDate>
     </item>
     <item>
-      <title>用于 macOS 上 AI 编码的每项目微型虚拟机沙箱：会话 + 快速重新进入 (VibeBox)</title>
-      <link>https://www.reddit.com/r/programming/comments/1qzpwip/perproject_microvm_sandbox_for_ai_coding_on_macos/</link>
-      <description><![CDATA[VibeCoders 的微型 VM 沙箱（Apple 虚拟化框架）。   由   提交/u/robcholz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qzpwip/perproject_microvm_sandbox_for_ai_coding_on_macos/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:41:20 GMT</pubDate>
+      <title>SecretSpec 0.7：声明式秘密生成</title>
+      <link>https://www.reddit.com/r/programming/comments/1qzueul/secretspec_07_declarative_secret_generation/</link>
+      <description><![CDATA[ 由   提交/u/iElectric  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qzueul/secretspec_07_declarative_secret_generation/</guid>
+      <pubDate>Mon, 09 Feb 2026 04:20:33 GMT</pubDate>
     </item>
     <item>
-      <title>您对“以产品为中心的工程师”的看法</title>
-      <link>https://www.reddit.com/r/programming/comments/1qzpmyk/you_opinion_on_the_productminded_engineer/</link>
-      <description><![CDATA[您好， 我想知道您对这本书的看法，它值得一读吗？有更好的书吗？   由   提交/u/THE_BEAST_01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qzpmyk/you_opinion_on_the_productminded_engineer/</guid>
-      <pubDate>Mon, 09 Feb 2026 00:28:53 GMT</pubDate>
+      <title>96% 的工程师并不完全信任 AI 输出，但只有 48% 的工程师对其进行验证</title>
+      <link>https://www.reddit.com/r/programming/comments/1qzsxy9/96_engineers_dont_fully_trust_ai_output_yet_only/</link>
+      <description><![CDATA[ 由   提交/u/gregorojstersek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qzsxy9/96_engineers_dont_fully_trust_ai_output_yet_only/</guid>
+      <pubDate>Mon, 09 Feb 2026 03:10:18 GMT</pubDate>
     </item>
     <item>
-      <title>Python 中的背景去除（图像和视频）</title>
-      <link>https://www.reddit.com/r/programming/comments/1qzmloc/background_removal_in_python_images_videos/</link>
-      <description><![CDATA[我一直在 Python 中尝试基于人工智能的背景去除，涵盖图像和视频，两者之间的差异比我最初预期的要大。 图像背景去除相对快速且干净，但视频背景去除很快就会变得计算量很大，因为它需要处理每一帧。硬件限制、模型选择和优化策略对速度和质量都有很大影响。 我在录制的研讨会中记录了整个过程，包括错误、修复和权衡，以防它对其他从事计算机视觉或媒体处理工作的人有用： 👉 https://youtu.be/Vaq-f7uAoZ4   我很想听听这里的其他人如何处理类似项目中的视频分割、性能优化或质量改进。     由   提交/u/MastodonNo8669   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qzmloc/background_removal_in_python_images_videos/</guid>
-      <pubDate>Sun, 08 Feb 2026 22:14:34 GMT</pubDate>
+      <title>我在 Game Boy Color 上放置了实时 3D 着色器</title>
+      <link>https://www.reddit.com/r/programming/comments/1qzrxsk/i_put_a_realtime_3d_shader_on_the_game_boy_color/</link>
+      <description><![CDATA[ 由   提交/u/NXGZ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qzrxsk/i_put_a_realtime_3d_shader_on_the_game_boy_color/</guid>
+      <pubDate>Mon, 09 Feb 2026 02:22:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 .NET Minimal API + EF Core（无控制器）构建了 CRUD Web API</title>
+      <link>https://www.reddit.com/r/programming/comments/1qzrv2j/i_built_a_crud_web_api_using_net_minimal_apis_ef/</link>
+      <description><![CDATA[ 由   提交/u/digitaltechj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1qzrv2j/i_built_a_crud_web_api_using_net_minimal_apis_ef/</guid>
+      <pubDate>Mon, 09 Feb 2026 02:18:55 GMT</pubDate>
     </item>
     <item>
       <title>C 和未定义的行为</title>
@@ -43,7 +50,7 @@
     <item>
       <title>技术文章：实施 Discord 的速率限制、网关管理和“清晰度胜过魔法”</title>
       <link>https://www.reddit.com/r/programming/comments/1qzajdj/technical_writeup_implementing_discords_rate/</link>
-      <description><![CDATA[我写了一篇关于在最小的 Python 客户端中实现 Discord 速率限制和网关管理的深入技术分解。 Discord 的速率限制很棘手：端点通过不透明的“存储桶”共享限制。其 ID 仅在提出请求后才会公开。该设计没有对 429 做出反应，而是使用每个端点的队列和工作线程，在限制耗尽时主动休眠，从而保持行为明确且可预测。 该文章还涵盖了网关连接管理、自动分片和数据模型设计，以及每个子系统的图表。这些示例来自我编写的一个小型 Discord API 客户端 (ScurryPy)，但重点是底层问题和解决方案，而不是库本身。 “清晰胜于魔法”这里意味着所有行为：速率限制、状态更改、重试都是明确的，没有隐藏的后台工作或推断的意图。 很高兴回答有关实现或设计权衡的问题   由   提交/u/Furmissle5567  [链接] [评论]]]></description>
+      <description><![CDATA[我写了一篇关于在最小的 Python 客户端中实现 Discord 速率限制和网关管理的深入技术分解。 Discord 的速率限制很棘手：端点通过不透明的“存储桶”共享限制。其 ID 仅在提出请求后才会公开。该设计没有对 429 做出反应，而是使用每个端点队列和工作线程，在限制耗尽时主动休眠，从而保持行为明确且可预测。 该文章还涵盖了网关连接管理、自动分片和数据模型设计，以及每个子系统的图表。这些示例来自我编写的一个小型 Discord API 客户端 (ScurryPy)，但重点是底层问题和解决方案，而不是库本身。 “清晰胜于魔法”这里意味着所有行为：速率限制、状态更改、重试都是明确的，没有隐藏的后台工作或推断的意图。 很高兴回答有关实现或设计权衡的问题   由   提交/u/Furmissle5567  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qzajdj/technical_writeup_implementing_discords_rate/</guid>
       <pubDate>Sun, 08 Feb 2026 14:38:19 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/10ForwardShift  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1qyytvj/the_silent_death_of_good_code/</guid>
       <pubDate>Sun, 08 Feb 2026 04:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSDEM 2026 - 破解最后一台 Z80 计算机</title>
-      <link>https://www.reddit.com/r/programming/comments/1qyvg0b/fosdem_2026_hacking_the_last_z80_computer_ever/</link>
-      <description><![CDATA[ 由   提交/u/goldensyrupgames  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1qyvg0b/fosdem_2026_hacking_the_last_z80_computer_ever/</guid>
-      <pubDate>Sun, 08 Feb 2026 01:22:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
