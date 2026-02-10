@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 10 Feb 2026 18:49:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 21:33:32 GMT</lastBuildDate>
+    <item>
+      <title>不和谐替代方案？隐私、无数据泄露和强加密是重中之重。</title>
+      <link>https://www.reddit.com/r/software/comments/1r1a4xx/discord_alternative_top_priority_to_privacy_no/</link>
+      <description><![CDATA[我需要 Discord 替代方案。隐私、无数据泄露和强加密是重中之重。大多数不和谐功能应该在这些替代方案中可用，至少在核心中可用一次。  我找到了这些，但对它们一无所知 Matrix、Revolt 和 Teamspeak。这些好吗？    由   提交/u/404-Brain_Not-Found   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r1a4xx/discord_alternative_top_priority_to_privacy_no/</guid>
+      <pubDate>Tue, 10 Feb 2026 19:15:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>新生是否能找到 AI/ML 职位的工作？</title>
+      <link>https://www.reddit.com/r/software/comments/1r19fu4/are_freshers_getting_jobs_for_aiml_roles/</link>
+      <description><![CDATA[公司是否真的在招聘 AI/ML 职位的应届生，还是大多数职位空缺基本上仅限经验/实习？ 此外，学习核心深度学习（基础知识 + 数学）是否真的有助于求职，还是更注重应用 ML 和使用预训练模型？   由   提交 /u/Hot-Command-3514   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r19fu4/are_freshers_getting_jobs_for_aiml_roles/</guid>
+      <pubDate>Tue, 10 Feb 2026 18:51:19 GMT</pubDate>
+    </item>
     <item>
       <title>用于收集使用统计数据的软件（不是员工监控）</title>
       <link>https://www.reddit.com/r/software/comments/1r17117/software_for_gathering_usage_statistics_not/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>数据库推荐</title>
       <link>https://www.reddit.com/r/software/comments/1r15jmx/database_recommendation/</link>
-      <description><![CDATA[第一篇 reddit 帖子... 我正在寻找一个云数据库程序的建议，我可以每月从 Excel 批量上传数据，并每月从 Excel 列表批量查询数据库，这将是数十万个数据点。 我需要数据库存储的信息将包括客户姓名和联系信息，每个月我都会上传一个新的客户列表以添加到正在进行的列表中列表。不过，在上传该列表之前，我需要根据现有数据库对其进行查询，以确定与公司名称、地址、电话号码、电子邮件域或帐号相匹配的冗余。 下面的示例突出显示了我想要标记的冗余类型。黑色文本的数据代表数据库中已存储的内容，蓝色文本的数据代表我们需要与数据库进行比较的新数据文件。  https://preview.redd.it/8scn5k5v1pig1.jpg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=22109586409766e522e9907fa3ec09c6797825a8 该软件需要相当用户友好，一旦我们设置了查询参数，团队中的任何人（没有技术技能）都可以上传一个模板来添加或查询数据，而不必每次都编写脚本。 在 Excel 中管理的数据太多，其他人推荐了 PowerBI，但我们发现这需要我们导出到 Excel 以便对每个查询进行进一步的手动分析。 所有用户都将使用 Windows 系统，该软件还需要满足一般要求数据隐私和安全的企业标准。   由   提交/u/No-Sort-5468   [链接] [评论]]]></description>
+      <description><![CDATA[第一篇 reddit 帖子... 我正在寻找一个云数据库程序的建议，我可以每月从 Excel 批量上传数据，并每月从 Excel 列表批量查询数据库，这将是数十万个数据点。 我需要数据库存储的信息将包括客户姓名和联系信息，每个月我都会上传一个新的客户列表以添加到正在进行的列表中列表。不过，在上传该列表之前，我需要根据现有数据库对其进行查询，以识别与企业名称、地址、电话号码、电子邮件域或帐号相匹配的冗余。 下面的示例突出显示了我想要标记的冗余类型。黑色文本的数据代表数据库中已存储的数据，蓝色文本的数据代表我们需要与数据库进行比较的新数据文件。  https://preview.redd.it/8scn5k5v1pig1.jpg?width=1179&amp;format=pjpg&amp;auto=webp&amp;s=22109586409766e522e9907fa3ec09c6797825a8 该软件需要相当用户友好，一旦我们设置了查询参数，团队中的任何人（没有技术技能）都可以上传一个模板来添加或查询数据，而不必每次都编写脚本。 在 Excel 中管理的数据太多，其他人推荐了 PowerBI，但我们发现这需要我们导出到 Excel 以便对每个查询进行进一步的手动分析。 所有用户都将使用 Windows 系统，该软件还需要满足一般要求数据隐私和安全的企业标准。   由   提交/u/No-Sort-5468   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1r15jmx/database_recommendation/</guid>
       <pubDate>Tue, 10 Feb 2026 16:32:31 GMT</pubDate>
     </item>
@@ -62,13 +76,6 @@
       <pubDate>Tue, 10 Feb 2026 13:32:47 GMT</pubDate>
     </item>
     <item>
-      <title>在线压缩 pdf 减小文档大小 免费压缩文档</title>
-      <link>https://www.reddit.com/r/software/comments/1r0y5li/compress_pdf_online_reduce_document_size_compress/</link>
-      <description><![CDATA[如果您是学生 CSC 中心所有者，最好尝试   由   提交/u/ZealousidealSell344  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r0y5li/compress_pdf_online_reduce_document_size_compress/</guid>
-      <pubDate>Tue, 10 Feb 2026 11:22:12 GMT</pubDate>
-    </item>
-    <item>
       <title>所以，我构建了 PinIt！</title>
       <link>https://www.reddit.com/r/software/comments/1r0sot5/so_i_built_pinit/</link>
       <description><![CDATA[作为一名经常在 Linux 和 Windows 之间切换的开发人员，我在 Windows 上一直怀念的一件事就是将窗口固定到顶部的本机功能。 我知道 Microsoft PowerToys 的存在，但仅仅为了某个特定功能安装大量实用程序套件感觉有点大材小用。我想要一个只做一件事并且做得很好而又不臃肿的东西。 这是一个用 Tauri v2 (Rust) 构建的最小的、无干扰的实用程序。它的设计旨在提高资源效率，感觉就像系统的本机部分。 Github 版本：https://github.com/Razee4315/Pin-It/releases/tag/v0.1.0  https://preview.redd.it/li941o2xvlig1.png?width=437&amp;format=png&amp;auto=webp&amp;s=31be2c78854b551bb7caea3da80677024a7cec2c   由   提交/u/Razee1819  [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[除了 Windows 11，ARM64 笔记本电脑还可以使用什么操作系统？   由   提交 /u/Guest281   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1r0hywd/what_operating_systems_can_be_used_on_a_arm64/</guid>
       <pubDate>Mon, 09 Feb 2026 21:57:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>iOS 版词典查看器</title>
-      <link>https://www.reddit.com/r/software/comments/1r0gdxq/dictionary_viewer_for_ios/</link>
-      <description><![CDATA[有没有类似GoldenDict的东西？    由   提交/u/peaceeverternity  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r0gdxq/dictionary_viewer_for_ios/</guid>
-      <pubDate>Mon, 09 Feb 2026 20:59:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
