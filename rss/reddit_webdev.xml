@@ -4,20 +4,41 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 10 Feb 2026 15:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Feb 2026 18:50:44 GMT</lastBuildDate>
+    <item>
+      <title>我想向大家展示我用 React、TypeScript、Zustand、SVG、CSS 创建的机架模拟，完全在浏览器中运行。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r197ec/i_wanted_to_show_you_guys_my_rack_simulation/</link>
+      <description><![CDATA[   嘿，第一次在此子中发帖。 这个项目最初是出于纯粹的好奇心。我在家庭实验室潜艇中分享了一个早期版本，它取得了巨大的成功，老实说这让我感到惊讶，所以我决定全力以赴。命名它，获取域名，在我的 VPS 上启动托管，然后我使用 Gitea 的本地版本控制在我的家庭实验室上开发所有内容。 不，它不是“用 AI 制造”。显然，我和其他人一样使用人工智能，主要用于调试、健全性检查和弄清楚 React 组件，是的……我绝对依赖它来学习数学，因为数学和我不是朋友。  如果你想知道这是怎么回事，我在 r/SiliconPirates 上建立了一个子网站，该网站位于 https://silicon-pirates.com/。测试版即将推出，网站上有实时倒计时。 哦，是的……模拟终端可以玩《Doom》。   由   提交/u/rzarekta   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r197ec/i_wanted_to_show_you_guys_my_rack_simulation/</guid>
+      <pubDate>Tue, 10 Feb 2026 18:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何以合理的方式将嵌入的 json 数据存储在数据库中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r17twc/how_to_store_embedded_json_data_in_a_database_in/</link>
+      <description><![CDATA[看起来有点像产品组，然后是并排放置的产品，然后是它们的变量数据等等。 [{ style groups array,  line items array: { variable data Arrays: { }}} 所以它看起来有点像这样，但有大约 5 层嵌入和物体在任何层面上都可能变得相当大。我虽然保存到sql中，但问题是如何？我想保存为 json，因为它更容易，但需要访问数据并最好将其导出到 csv。我尝试直接转换为 CSV，但它有很多列。我开始考虑另存为 json，但找到一种自定义方法来导出数据以使其易于人类阅读。或者只是快速显示它。   由   提交 /u/Sad_Spring9182   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r17twc/how_to_store_embedded_json_data_in_a_database_in/</guid>
+      <pubDate>Tue, 10 Feb 2026 17:54:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>一晚上构建了一个情人节 Web 应用程序 — 零依赖、纯 HTML/CSS/JS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r177eq/built_a_valentines_day_web_app_in_one_night_zero/</link>
+      <description><![CDATA[爱情化学计算器，具有 SVG 环形动画、用于确定性结果的种子 PRNG、浮动心、五彩纸屑和响应式设计。总计约 37KB。没有框架，没有构建工具。 https://cousined1.github.io/love-chemistry/   由   提交/u/nightliteusa  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r177eq/built_a_valentines_day_web_app_in_one_night_zero/</guid>
+      <pubDate>Tue, 10 Feb 2026 17:32:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员感觉有点脱离循环——有任何路线图可以赶上</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r16ll6/dev_feeling_a_bit_out_of_the_loop_any_roadmap_to/</link>
+      <description><![CDATA[大家好！ 我是一名 Web 开发人员，主要使用 React 进行前端工作。过去的一年对我来说相当混乱，直到最近我才设法让事情重新得到控制。 正因为如此，我觉得我已经忘记了开发世界的许多最新发展 - 特别是在人工智能方面。 我想知道是否有人知道一个好的时间表、路线图或概述，我可以通过研究来更新我的技能和知识。它不必很详细 - 只需列出我应该研究的主题或工具即可。 任何指示、资源或个人建议都会很好。 提前致谢！   由   提交 /u/Practical_Employ_652   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r16ll6/dev_feeling_a_bit_out_of_the_loop_any_roadmap_to/</guid>
+      <pubDate>Tue, 10 Feb 2026 17:10:22 GMT</pubDate>
+    </item>
     <item>
       <title>UI 设计师们，出于对一切神圣事物的热爱，请学习一些基本的 Web 约束！你让我们的生活变得一团糟。</title>
       <link>https://www.reddit.com/r/webdev/comments/1r14g35/ui_designers_please_for_the_love_of_all_that_is/</link>
       <description><![CDATA[​我相信我们需要讨论这个问题，而且我知道我并不孤单。感觉越来越多的 UI 设计师完全忽视了他们的设计实际上是如何转化为工作代码的，这让我们作为开发人员的工作变得不必要的复杂、令人沮丧，而且常常非常糟糕。 我说的是那些无缘无故地过于复杂的设计： 层层叠叠的自定义形状、阴影和渐变，除了看起来“独特”之外没有任何功能用途。但需要数小时或数天的时间来实施。我们真的需要为滚动位置移动的每个背景元素定制一个自定义的 SVG blob 形状吗？ 维护和维护的噩梦更新： 当每个按钮、输入字段或卡片的样式、填充或悬停效果略有不同时，创建一个有凝聚力且可维护的代码库就变得不可能。我们最终得到了数千行冗余代码，只是试图匹配“像素完美”的结果。除了设计师之外没有人会注意到的变化。  忽略基本辅助功能： 低对比度文本、没有适当焦点状态的自定义控件、仅依靠颜色来传达信息，或者完全自定义的导航元素会破坏屏幕阅读器。这些不仅仅是小烦恼；他们积极排除残疾用户并造成法律责任。 性能杀手：要求五种不同的自定义字体、大量未优化的背景图像或复杂的动画和滑块，甚至让现代浏览器屈服。 ​感觉很多设计师都在真空中操作，将 Figma 或 Sketch 等工具视为纯粹的艺术画布，而不是交互式体验的蓝图。  我的要求是，UI 设计师应该接受教育，承认每项资源、每项自定义字体和每项复杂的动画都会在加载时间和用户体验方面产生成本。他们应该接受教育，以一种易于更新、维护和扩展的方式进行设计，而不会产生边缘情况，同时还要确保可访问性。 ​我真的很欣赏好的设计。但好的设计，尤其是网络设计，必须是可构建、可维护、可扩展和可访问的。这将为设计师和开发人员节省大量时间。  复杂的 UI 设计有一席之地，但它们应该仅限于个人项目、时尚展示或颁奖比赛，而不是商业项目。   由   提交 /u/Excellent_Place4977   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1r14g35/ui_designers_please_for_the_love_of_all_that_is/</guid>
       <pubDate>Tue, 10 Feb 2026 15:52:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个免费的在线工具网站，但我担心它没有用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r149re/i_built_a_free_online_tools_site_and_im_worried/</link>
-      <description><![CDATA[我正在构建一个免费的在线工具网站（计算器、转换器、小型实用程序）。 我不需要用户 — 我想要残酷诚实的反馈，然后再进一步。 我正在努力解决的问题： • 人们是否想要“一体化”工具网站？ • 哪些工具会需要实际上让您为某个网站添加书签？ • 什么会让您长期信任该网站？ 搜索：KnowDust   由   提交/u/thenamo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r149re/i_built_a_free_online_tools_site_and_im_worried/</guid>
-      <pubDate>Tue, 10 Feb 2026 15:46:26 GMT</pubDate>
     </item>
     <item>
       <title>刚刚开始我的后端开发之旅 – 寻找建议和资源</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[我们是 Flowout 的一个小团队，主要与 Webflow 和 SaaS 网站合作，我对其他机构如何处理这个问题很感兴趣... 我们仍然进行技术和 CRO 审计，但在过去的一年里，很明显审计本身很少成为问题。真正的问题是，一旦文档交付，执行就会停止。即使调查结果很好、有优先顺序并且解释清楚，它们通常也不会受到影响。 我不认为客户会因为不在乎而忽视审计。我认为这更像是他们忽视了这些审计，因为他们不知道从哪里开始，谁拥有什么，或者改变的风险有多大。 我们一直在努力从大型的一次性审计转向更小、更“执行主导”的审计。评论，但我不相信还有一个完美的答案。 那么对于这里的其他代理人员： 您如何构建审核以便发货？ 您默认捆绑实施吗？ 还是提供独立审核并让客户执行？ 谢谢。   由   提交/u/BeardedWiseMagician  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1r0za6z/audits_rarely_turn_into_action/</guid>
       <pubDate>Tue, 10 Feb 2026 12:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React + Vite、Tanstack Router & Query、Hono 和 tRPC 构建了一个全栈应用程序 — 这是我学到的东西</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r0z9es/built_a_fullstack_app_with_react_vite_tanstack/</link>
-      <description><![CDATA[刚刚发布了我已经工作了几个月的项目 - 一个零基预算应用程序。想分享一些关于堆栈的想法，因为我尝试了一些可能对其他人有用的东西。  前端：React + Vite，用于基于文件的路由的 Tanstack Router，用于服务器状态的 Tanstack Query。老实说，Tanstack Router 是来自 React Router 的一个学习曲线，但一旦它点击，我真的很喜欢它。类型安全的路线很好。  后端：使用 Hono 和 tRPC 的节点。如果您想要端到端类型的安全性，那么这个组合非常有用。 Hono 快速且轻量级，tRPC 意味着我基本上从不考虑 API 合约——在后端更改某些内容，如果出现问题，前端会立即告诉我。  部署：前端使用 Cloudflare Pages，后端使用 Render。老实说，Cloudflare Pages 对于静态/SPA 托管来说速度快得离谱。  UI：完全响应式、深色模式、键盘快捷键。为数据密集型应用程序（大量表格、表单、数字）提供正确的响应式设计可能是整个项目中最困难的部分。  有些事情我会做不同的事情： - 应该更早地设置 e2e 测试，而不是在构建大多数功能之后 - 在开始时在堆栈决策上花费了太长时间。只需选择一些内容即可 - 低估了良好的移动用户体验对于桌面优先应用程序的工作量 如果有人使用类似的堆栈或考虑 tRPC + Hono，我很乐意回答问题。 如果有人对最终结果感到好奇，该应用程序是一个名为 ZeroSum (zerosum.so) 的预算工具。   由   提交 /u/austinmrs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r0z9es/built_a_fullstack_app_with_react_vite_tanstack/</guid>
-      <pubDate>Tue, 10 Feb 2026 12:20:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>实际项目中的 PWA 值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r0z6g9/pwas_in_real_projects_worth_it/</link>
-      <description><![CDATA[我是一名自由全栈开发人员，正在考虑尝试 PWA。  想听听真实的经验，您什么时候真正决定一个项目需要 PWA，这值得吗？有什么惊喜或者需要注意的事情吗？您会使用什么技术？   由   提交 /u/Ill_Leading9202   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r0z6g9/pwas_in_real_projects_worth_it/</guid>
-      <pubDate>Tue, 10 Feb 2026 12:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索 React 内部结构：React 如何解决递归渲染问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r0yjms/exploring_react_internals_how_react_fixed/</link>
-      <description><![CDATA[      React Fiber 可能不是最好的解决方案，但绝对有趣。  我刚刚根据我的探索写了一篇博客。该博客没有讨论为什么 React Fiber（协作调度）优于其他响应式方法，但如果您从未探索过 React Fiber，那么您可能会喜欢阅读它。 难度：中级 博客链接：https://inside-react.vercel.app/blog/understand-why-react-fibre-exists    由   提交/u/Ok-Programmer6763   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r0yjms/exploring_react_internals_how_react_fixed/</guid>
-      <pubDate>Tue, 10 Feb 2026 11:43:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
