@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 11 Feb 2026 01:08:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 04:55:39 GMT</lastBuildDate>
+    <item>
+      <title>您最喜欢哪种人工智能工具来提高生产力？</title>
+      <link>https://www.reddit.com/r/automation/comments/1r1mfe9/which_ai_tools_do_you_like_best_for_improving/</link>
+      <description><![CDATA[大家好！我最近想升级我的工作流程，并想知道每个人都在使用哪些人工智能工具来节省时间或保持专注。它们可以用于任务管理、写作、总结、会议等。免费或付费，我都愿意尝试。   由   提交 /u/Ok-Insurance-6313   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1r1mfe9/which_ai_tools_do_you_like_best_for_improving/</guid>
+      <pubDate>Wed, 11 Feb 2026 03:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Whatsapp 聊天机器人从 Excel 文件检索数据</title>
+      <link>https://www.reddit.com/r/automation/comments/1r1lp5x/whatsapp_chatbot_to_retrive_data_from_excel_files/</link>
+      <description><![CDATA[大家好， 我想制作一个 Whatsapp 聊天机器人来简单地从一堆 Excel 中检索数据， 目标： 我想发送一条消息，例如“获取 2025 年 2 月至 3 月之间的所有记录（他们不知道文件名）” 并让机器人返回相关行。我不需要花哨的“客户支持”；人工智能。我只需要它来解析我的查询并准确地获取数据。 如果需要，我可以在本地托管服务器以降低成本。 我应该如何设置它？基于一些谷歌搜索，我正在考虑使用像 n8n 这样的 RAG 工具？ 我的背景：我有一些 Python 编码经验，但我绝对不是经验丰富的程序员   由   提交/u/pootisheavybird   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1r1lp5x/whatsapp_chatbot_to_retrive_data_from_excel_files/</guid>
+      <pubDate>Wed, 11 Feb 2026 02:57:57 GMT</pubDate>
+    </item>
     <item>
       <title>简单的人工智能代理实际上每周可以节省时间</title>
       <link>https://www.reddit.com/r/automation/comments/1r1i206/simple_ai_agents_that_actually_save_hours_every/</link>
@@ -55,25 +69,11 @@
       <pubDate>Tue, 10 Feb 2026 16:22:05 GMT</pubDate>
     </item>
     <item>
-      <title>你同意他的观点吗？如果是，什么将取代计算机？</title>
-      <link>https://www.reddit.com/r/automation/comments/1r13un8/do_you_agree_with_him_if_yes_what_will_replace/</link>
-      <description><![CDATA[       由   提交/u/dataexec   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1r13un8/do_you_agree_with_him_if_yes_what_will_replace/</guid>
-      <pubDate>Tue, 10 Feb 2026 15:30:57 GMT</pubDate>
-    </item>
-    <item>
       <title>有人用过bardeen ai吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1r11ol2/have_anyone_used_bardeen_ai/</link>
       <description><![CDATA[      我似乎无法创建剧本，当我点击右键时，我可以简单地开始按照我想要的方式进行抓取。 左侧栏只有代理、抓取模板和结果。 每次我想要抓取时，我都必须为网站链接创建一个新代理吗？ 我正在使用高级免费试用版，我在 YouTube 上找到的教程似乎已过时  https://preview.redd.it/xz1chjxncoig1.png?width=1812&amp;format=png&amp;auto=webp&amp;s=cefe5d6bc1c4569f7d14d96671b3d23572848492   由   提交 /u/NikaNorri   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1r11ol2/have_anyone_used_bardeen_ai/</guid>
       <pubDate>Tue, 10 Feb 2026 14:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>将博客转换为视频，无任何溢出，并且不花一胳膊或腿</title>
-      <link>https://www.reddit.com/r/automation/comments/1r10nzw/convert_blog2video_no_slop_and_doesnt_cost_an_arm/</link>
-      <description><![CDATA[我想将我的博客文章变成视频。编辑想要 3 万美元。相反，我构建了自己的工具。 问题： 访问量趋于稳定。社交需要视频。我最好的博客文章就在那里。 我尝试过的： 编辑 - 每个视频 300-1,000 美元。 50 个帖子？ 15000 美元–50000 美元。 AI 视频工具 — 通用素材、机器人脚本听起来不像我。长帖子的成本很高。 因此我构建了一些不同的东西： 不会从头开始生成视频。忠实地将您的博客文章翻译成视频。  拉动您的实际帖子 - 结构、论点、声音 AI 将其分解为场景 无库存素材 - 动画文本、图表、干净的布局（使用 Remotion 构建） 真实画外音 (ElevenLabs)  看起来很专业，而不是“AI 内容”。 通过这种方式转换了 50 多篇博客文章。节省了数万美元。 第一个视频免费，无卡。 只需几分钟即可粘贴博客 URL → 脚本 → 视频。 评论中的链接   由   提交/u/phicreative1997  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1r10nzw/convert_blog2video_no_slop_and_doesnt_cost_an_arm/</guid>
-      <pubDate>Tue, 10 Feb 2026 13:25:45 GMT</pubDate>
     </item>
     <item>
       <title>为什么浏览器自动化基础设施对于大规模自动化很重要</title>
