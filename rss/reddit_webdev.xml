@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Feb 2026 18:48:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 21:26:45 GMT</lastBuildDate>
+    <item>
+      <title>有关 Google 搜索控制台的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r2a4s8/help_with_google_search_console/</link>
+      <description><![CDATA[大家好，我开发了一个包含多个页面的网络应用程序，其中包含一个文字游戏。我很乐意从 Google 搜索中获取它，因此我尝试创建站点地图并将其发送到 Google Search Console。差不多 3 个月前了，现在，在 GSC 上，我仍然发现无法检索站点地图，而且我只看到一页被索引，但我无法通过搜索关键字找到我的应用程序。你们中有人可以帮助我解决这个问题并最终使其发挥作用吗？    由   提交 /u/Gareth_99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r2a4s8/help_with_google_search_console/</guid>
+      <pubDate>Wed, 11 Feb 2026 21:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我搜索“全栈”100 多个职位，而“软件测试员”只有 7 个，这正常吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r2927e/is_this_normal_i_search_full_stack_100_job_posts/</link>
+      <description><![CDATA[   /u/lune-soft  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r2927e/is_this_normal_i_search_full_stack_100_job_posts/</guid>
+      <pubDate>Wed, 11 Feb 2026 20:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何在不付费的情况下做到这一点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r28jx3/how_do_i_do_this_without_paying/</link>
+      <description><![CDATA[我构建了一个 Web 应用程序作为来自世界各地的某种项目的索引。一切准备就绪，包括开放的 api。我很困惑在哪里部署它，以便在没有人访问时它是免费的，并且只有当人们访问该页面时才收费。我还需要从中获得收入来维持其活力。   由   提交 /u/Status_Profile4078   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r28jx3/how_do_i_do_this_without_paying/</guid>
+      <pubDate>Wed, 11 Feb 2026 20:25:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>专门针对 AI 的 Web 框架是什么样子的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r279qi/how_can_an_aispecific_web_framework_look_like/</link>
+      <description><![CDATA[我正在探索特定于 AI 的 Web 框架的想法，其中主要“开发人员”是 AI 代理，而人类主要提供目标/约束/批准。不是“应用程序中的人工智能功能”，而是一个专为人工智能设计的框架，用于计划更改、安全应用它们、验证它们并进行部署。 如果你正在设计这个，那么核心原语是什么？   由   提交 /u/FIRST_TIMER_BWSC   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r279qi/how_can_an_aispecific_web_framework_look_like/</guid>
+      <pubDate>Wed, 11 Feb 2026 19:38:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 万浏览量的 TikTok 与 3 万浏览量的 Reddit 帖子 - 以下是我每天的网页游戏的访客数量</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r26mmo/100k_view_tiktok_vs_a_3k_view_reddit_post_heres/</link>
+      <description><![CDATA[      因此，我在 tiktok 上将问题发布到社交媒体上，并号召大家采取行动 - “玩今天的琐事，看看答案”。每隔一段时间，这些帖子就会引起很大的关注——数百条评论、超过 10 万次浏览、大量分享等等。然而，当抖音飙升时，我查看实时网站流量，看看是否有任何明显的跳跃，但实际上什么也没有。我估计 10 万条 TikTok 帖子带来的实际访问者不到 10 人。  Reddit 是一个完全不同的故事。一篇 Reddit 帖子获得了 3000 次浏览，并在两小时内吸引了 220 名新用户。与 TikTok 相比，转化率为 7.5%。现在，这些 Reddit 用户参与度指标是什么样的？很大一部分人来了一次就再也没有回来，但大约 20% 的人至少在随后的一天回来了。 这对于其他人来说可能也很常见，但我想分享我跨平台的经验。   由   提交/u/jalfieri14  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r26mmo/100k_view_tiktok_vs_a_3k_view_reddit_post_heres/</guid>
+      <pubDate>Wed, 11 Feb 2026 19:14:43 GMT</pubDate>
+    </item>
     <item>
       <title>使用资源管理器上下文菜单集成制作了一个 Windows 转换器到 WebP，它也是高度可定制的，并提供不同的转换模式，包括压缩到特定的文件大小！</title>
       <link>https://www.reddit.com/r/webdev/comments/1r25m34/made_a_windows_converter_to_webp_with_explorer/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[嘿，有谁知道有什么好的软件规划工具 - 云架构、数据库实体关系图、功能规划、用户体验...有很多拆分工具，有些还不错，有些甚至很棒，但没有一个是“点击”的。  最接近的是eraser.io，我喜欢其中的大部分，但只是在寻找替代品。我也使用 tldraw，但是在一个文件中包含一堆东西，它很快就会变得混乱。 据我所知，这个东西是红海，但老实说还没有找到让我惊叹的工具！那很酷。最接近的是 Miro，但它们只涵盖了频谱的一部分。  也许只是我的问题（最有可能）   由   提交/u/Kitchen_Choice_8786  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1r1zxok/any_good_software_planning_tools/</guid>
       <pubDate>Wed, 11 Feb 2026 15:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您想通过微控制器为 Svelte/React 应用程序提供服务吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r1y6qq/would_you_like_to_serve_sveltereact_application/</link>
-      <description><![CDATA[使用 ESP32 释放 IoT 潜力：使用异步 Web 服务器、ESP-IDF 和现代 Web 技术构建响应式 Web 应用程序 ESP32 已成为小型设备的首选解决方案：紧凑、价格实惠、功能强大，并得到充满活力的社区的支持。许多制造商在开发后期遇到了一个共同的挑战 - 如何为设备管理创建可靠、可维护的 Web 界面。   由   提交 /u/BCsabaDiy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r1y6qq/would_you_like_to_serve_sveltereact_application/</guid>
-      <pubDate>Wed, 11 Feb 2026 14:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有 MCP 的 CMS 列表？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r1xjbz/list_of_cmss_with_an_mcp/</link>
-      <description><![CDATA[大家好！希望了解 MCP 支持哪些 CMS 以及人们的体验如何。心里没有特定的堆栈或项目，这只是一个探索性讨论。   由   提交 /u/Acrobatic-Desk3266   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r1xjbz/list_of_cmss_with_an_mcp/</guid>
-      <pubDate>Wed, 11 Feb 2026 13:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要指导：TradingView 风格的图表引擎 + 订单流架构（Rust 后端，网络优先）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r1xbpi/need_guidance_tradingviewstyle_charting_engine/</link>
-      <description><![CDATA[大家好 — 我正在构建一个 TradingView 风格的图表产品，但我陷入了前端 + 图表引擎决策的困境。我希望获得提供高性能图表或订单流 UI 的经验丰富的开发人员的指导。 目标  Web 优先的 TradingView 替代方案（后来的桌面包装器就可以了）。 高性能图表 + 订单流（足迹/梯形图/交易量剖面图/热图），数千张绘图，60–144fps。 在  我的困惑  我应该从头开始构建自定义图表引擎，还是从现有图表库开始并稍后替换它？ 如果构建自定义引擎：引擎和渲染器之间的最佳“边界”是什么，以便 UI 框架保持可交换？ Rust-first 引擎WASM：在浏览器中使用 Rust (wgpu/WebGPU) 进行渲染是否实用，或者在 TS (WebGPU/WebGL) 中保持渲染并仅使用 Rust → WASM 进行聚合/指标是否更明智？ 前端选择：Angular 与 Solid/React — 对于画布/WebGPU 密集型应用程序来说，框架是否很重要，或者如果图表是孤立的，那么框架是否几乎无关紧要？ 对于订单流具体来说：您建议使用哪些数据结构/管道来进行增量更新（报价/交易/深度快照）而不会出现卡顿？  当前状态  我可以实现基本的蜡烛/缩放/平移/绘图，但我不断受到第三方库的限制和/或我过度构建了 UI 而不是真正的引擎。  我是什么询问  推荐的架构（模块/边界），以及来自构建类似系统的人的“做/不做”建议。 如果您发布了这样的东西，您今天会选择什么： 引擎语言（Rust vs TS）， 渲染器（WebGPU vs WebGL2 vs Canvas2D）， UI shell （Angular/Solid/React）， 为什么？     由   提交 /u/AutomaticCourse8447   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r1xbpi/need_guidance_tradingviewstyle_charting_engine/</guid>
-      <pubDate>Wed, 11 Feb 2026 13:26:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我仍然有一个 WP 网站漂浮在网络空间中 - 是时候杀死它了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r1x0bs/i_still_have_a_wp_site_floating_in_cyberspace_is/</link>
-      <description><![CDATA[嘿，开发人员，我在 WP 网站很酷的时候制作了它，我实际上可以从中做生意。我仍然有一个个人网站，我没有更新，也没有真正使用...只是闲置，因为我无法决定如何处理它。 是时候杀死它了吗？   由   提交 /u/Aggressive-Zombie391   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r1x0bs/i_still_have_a_wp_site_floating_in_cyberspace_is/</guid>
-      <pubDate>Wed, 11 Feb 2026 13:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于工具的人工智能答案是否变得比谷歌结果更​​重要？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r1wtr0/are_ai_answers_about_tools_becoming_more/</link>
-      <description><![CDATA[作为开发人员，我发现自己做了更多的事情： 我没有在 Google 上搜索工具或解决方案，而是向 ChatGPT / Claude 询问以下问题：  “我应该如何在 Next.js 应用中跟踪用户行为？” “Google Analytics 的分析替代方案” “监控 Lighthouse 问题的最佳方式时间” “了解用户流失原因的工具”  AI 给出了工具和方法的直接列表。 无需滚动浏览博客文章。 没有 SEO 比较文章。 没有评论网站。 只是一个答案。 这让我对另一方（构建这些工具的人）的一些事情感到好奇： 我们可以衡量：  SEO 排名 Lighthouse 分数 流量 反向链接  但我们无法衡量：  “当开发人员向人工智能寻求解决方案时，它会提到我们的工具吗？”  因为如果没有，该开发人员可能永远不会登陆您的网站。 这感觉像是一个与 SEO 不同的优化问题。 这与关键字无关：  你的文档解释用例的清晰程度 你的比较页面的明确程度 你的内容解释问题/解决方案的程度 你的网站的结构如何让机器理解  我还没有看到很多开发人员谈论这个，但感觉就像人工智能助手正在悄然成为工具的主要发现层。 有其他人注意到这一点或尝试以系统的方式测试它吗？作为一名开发人员，我发现自己做了更多的事情： 我不再通过谷歌搜索工具或解决方案，而是向 ChatGPT / Claude 询问以下内容：   由   提交 /u/BronsonD​​unbar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r1wtr0/are_ai_answers_about_tools_becoming_more/</guid>
-      <pubDate>Wed, 11 Feb 2026 13:04:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

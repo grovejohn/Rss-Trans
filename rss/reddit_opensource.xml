@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Feb 2026 18:48:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Feb 2026 21:26:55 GMT</lastBuildDate>
+    <item>
+      <title>适用于规范以太坊区块流和事件管道的可扩展 Go 服务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1r29njo/scalable_go_service_for_canonical_ethereum_block/</link>
+      <description><![CDATA[大家好！ 我一直在开发一个名为 blockscan-ethereum-service 的开源项目，该项目是用 Go 编写的： https://github.com/pancudaniel7/blockscan-ethereum-service 它的作用 它是一个生产级微服务，可以实时摄取以太坊区块并将它们作为规范区块事件传输到 Kafka 中。它在构建时考虑到了性能、可靠性和水平可扩展性，使其非常适合依赖链上数据的后端系统。 为什么重要 许多现有的块扫描器都很笨重、固执己见，或者不是为现实世界的后端架构设计的。该服务重点关注： • 通过 WebSocket 订阅进行实时块摄取 • 具有一次性有效交付语义的分区感知 Kafka 发布 • 重组感知，在链重组上发出逻辑删除和更新事件 • 使用 Redis 标记进行持久协调 • 具有结构化日志、指标和跟踪的可观察性 谁可能会发现它有用 • 构建 Web3 后端的开发人员 • 设计自定义以太坊数据管道的团队 • 任何将区块链数据集成到事件驱动系统中的人 如果您检查并发现它有用，我真的很感激在存储库上的星。 很高兴回答问题或讨论设计和架构！   由   提交 /u/Separate-Share6701   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1r29njo/scalable_go_service_for_canonical_ethereum_block/</guid>
+      <pubDate>Wed, 11 Feb 2026 21:07:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有 mynoise.net 的开源/自托管替代品？ （环境声音发生器）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1r29m4i/are_there_any_open_source_self_hosted/</link>
+      <description><![CDATA[Heya。 我喜欢氛围音景，每天都会使用来自 youtube/mynoise 的大量音乐。我希望有一个操作系统可以替代它，这样我就可以自行托管它并根据自己的喜好自定义内容/声音。 有人知道吗？ 谢谢。   由   提交/u/kavakravata  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1r29m4i/are_there_any_open_source_self_hosted/</guid>
+      <pubDate>Wed, 11 Feb 2026 21:05:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>分析公司 RedMonk 对开源可持续发展的精彩看法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1r26kc0/great_take_on_open_source_sustainability_by/</link>
+      <description><![CDATA[      标题说明了一切，但我有兴趣了解其他人看到的影响。    由   提交/u/JayfishSF   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1r26kc0/great_take_on_open_source_sustainability_by/</guid>
+      <pubDate>Wed, 11 Feb 2026 19:12:22 GMT</pubDate>
+    </item>
     <item>
       <title>使用资源管理器上下文菜单集成制作了一个 Windows 转换器到 WebP，它也是高度可定制的，并提供不同的转换模式！</title>
       <link>https://www.reddit.com/r/opensource/comments/1r25m1n/made_a_windows_converter_to_webp_with_explorer/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>有什么（最好是开源的）Discord 替代品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1r1bemn/what_preferably_opensource_discord_alternatives/</link>
-      <description><![CDATA[有什么（最好是开源的）Discord 替代品？ 我正在开发一个开源的互联网论坛，很像 2000 年代的那些旧留言板。 但是，如果它没有吸引足够的活动或成员，或者真正自行发展，我需要替代品并保持我的选择余地。 我听说UpScrolled 也是 TikTok 的一个很好的替代品。 我使用的是 Bluesky，它比 Twitter 更好，但仍然存在与“旧 Twitter”相同的问题。 Discord 的替代品有哪些？ 我需要一些易于使用的东西，而不是像 Element 或 Matrix 聊天那样卡顿（甚至不太安全）。 我绝对不会使用信号。 最好是易于使用的东西。   由   提交 /u/Mysterious-Ring-2352   [链接] [评论]]]></description>
+      <description><![CDATA[有什么（最好是开源的）Discord 替代品？ 我正在开发一个也是开源的互联网论坛，很像 2000 年代的旧留言板。 但是，如果它没有吸引足够的活动或成员，或者真正自行发展，我需要替代品并保持我的选择余地。 我听说UpScrolled 也是 TikTok 的一个很好的替代品。 我使用的是 Bluesky，它比 Twitter 更好，但仍然存在与“旧 Twitter”相同的问题。 Discord 的替代品有哪些？ 我需要一些易于使用的东西，而不是像 Element 或 Matrix 聊天那样卡顿（甚至不太安全）。 我绝对不会使用信号。 最好是易于使用的东西。   由   提交 /u/Mysterious-Ring-2352   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1r1bemn/what_preferably_opensource_discord_alternatives/</guid>
       <pubDate>Tue, 10 Feb 2026 20:01:19 GMT</pubDate>
     </item>
@@ -64,7 +85,7 @@
     <item>
       <title>我构建了 LastSignal – 一个自托管、端到端加密的死人交换机，用于向您所爱的人传递消息</title>
       <link>https://www.reddit.com/r/opensource/comments/1r15e7h/i_built_lastsignal_a_selfhosted_endtoend/</link>
-      <description><![CDATA[我想要一种为我关心的人留下加密消息的方法，如果我发生什么事，消息会自动发送，而不需要信任第三方。 LastSignal 是一个自托管的死人开关。您编写消息，它们在浏览器中被加密（零知识），并且系统通过电子邮件定期与您联系。如果您停止响应，您的消息就会被传送。 要点：  端到端加密（XChaCha20-Poly1305 + Argon2id + X25519） 零知识 - 即使服务器操作员也无法读取消息 可以暂停传送的可选可信联系人 Rails 8 + SQLite，部署使用Docker/Kamal MIT 许可  🔗 https://lastsignal.app 🔗 https://github.com/giovantenne/lastsignal 欢迎提供反馈，尤其是有关安全模型和用户体验的反馈。   由   提交/u/zener79  [链接] [评论]]]></description>
+      <description><![CDATA[我想要一种为我关心的人留下加密消息的方法，如果我发生什么事，消息会自动发送，而不需要信任第三方。 LastSignal 是一个自托管的死人开关。您编写消息，它们在浏览器中被加密（零知识），并且系统通过电子邮件定期与您联系。如果您停止响应，您的消息就会被传送。 要点：  端到端加密（XChaCha20-Poly1305 + Argon2id + X25519） 零知识 - 即使服务器操作员也无法读取消息 可以暂停传送的可选可信联系人 Rails 8 + SQLite，使用以下方式部署Docker/Kamal MIT 许可  🔗 https://lastsignal.app 🔗 https://github.com/giovantenne/lastsignal 欢迎提供反馈，尤其是有关安全模型和用户体验的反馈。   由   提交/u/zener79  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1r15e7h/i_built_lastsignal_a_selfhosted_endtoend/</guid>
       <pubDate>Tue, 10 Feb 2026 16:27:13 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/peppaz   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1r0m31r/local_llm_benchmarking_suite_for_apple_silicon/</guid>
       <pubDate>Tue, 10 Feb 2026 00:43:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源了我的 Claude Code 会话管理器，厌倦了 15 个终端选项卡，不知道哪个是哪个</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r0lqoc/open_sourced_my_claude_code_session_manager_got/</link>
-      <description><![CDATA[ 由   提交 /u/TheRealArthur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r0lqoc/open_sourced_my_claude_code_session_manager_got/</guid>
-      <pubDate>Tue, 10 Feb 2026 00:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>FLOW - 开放许可游戏、艺术、音乐、软件的目录</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r0kn4r/flow_a_catalogue_of_openlicensed_games_art_music/</link>
-      <description><![CDATA[ 由   提交/u/Sanglorian  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r0kn4r/flow_a_catalogue_of_openlicensed_games_art_music/</guid>
-      <pubDate>Mon, 09 Feb 2026 23:41:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有关我的自主代理开源 P2P 协议的反馈</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r0jp2l/looking_for_feedback_on_my_open_source_p2p/</link>
-      <description><![CDATA[我刚刚开源了一个我一直在构建的名为 Pilot Protocol 的项目，该项目旨在通过为自治软件代理提供专用的网络层来解决它们的连接问题。我通过 UDP 实现了一个自定义传输堆栈，该堆栈提供 48 位虚拟寻址和经过身份验证的隧道，以便代理可以跨不同网络安全地发现并相互连接，而无需混乱的 VPN 配置。参考实现是用 Go 编写的，我正在寻求开源社区对安全设计的反馈，特别是围绕握手机制的反馈，以及我的数据包结构是否存在任何明显的缺陷。   由   提交/u/BiggieCheeseFan88  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r0jp2l/looking_for_feedback_on_my_open_source_p2p/</guid>
-      <pubDate>Mon, 09 Feb 2026 23:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
