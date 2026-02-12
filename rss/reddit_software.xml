@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 12 Feb 2026 04:52:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 06:48:13 GMT</lastBuildDate>
+    <item>
+      <title>Mac 上最好的音乐音频下载软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1r2m1do/best_music_audio_downloader_software_for_mac/</link>
+      <description><![CDATA[Mac 上最好的音乐音频下载软件？   由   提交 /u/Difficult_Culture781   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r2m1do/best_music_audio_downloader_software_for_mac/</guid>
+      <pubDate>Thu, 12 Feb 2026 06:22:09 GMT</pubDate>
+    </item>
     <item>
       <title>艾哈迈达巴德最佳软件开发公司</title>
       <link>https://www.reddit.com/r/software/comments/1r2k9md/best_software_development_company_in_ahmedabad/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好， 我已经在平台工程领域工作了几年，最后决定构建一个我希望拥有的工具来管理架构决策（并防止“我们为什么这样做？”对话）。 如果有人想查看的话，这是链接：决策守护者 目标：帮助你摆脱“机构性失忆症”在 Pull Request 上自动呈现架构上下文。帮助对 PR 实施 ADR。 它的实际作用：  让您可以在存储库中以 Markdown (ADR) 形式编写决策记录。 使用 glob 模式或正则表达式将决策映射到特定文件。 当有人触摸“受保护”的内容时，自动对 PR 进行评论。文件，解释为什么以这种方式构建。 防止“新开发人员因为不了解上下文而打破约束”   如果你检查一下，我很想听听：  配置足够简单吗？ 我错过了哪些边缘情况（monorepos，巨大的差异）？ 这实际上会节省你代码审查的时间吗？  感谢任何想法或反馈，我仍在改进它。   由   提交 /u/Leather-Phase1673   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1r21u68/i_built_an_opensource_action_based_on_problems_i/</guid>
       <pubDate>Wed, 11 Feb 2026 16:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>生锈有什么特别之处？</title>
-      <link>https://www.reddit.com/r/software/comments/1r21qeq/what_is_so_special_about_rust/</link>
-      <description><![CDATA[ 由   提交/u/Archedearth7000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r21qeq/what_is_so_special_about_rust/</guid>
-      <pubDate>Wed, 11 Feb 2026 16:19:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
