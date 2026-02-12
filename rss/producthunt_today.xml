@@ -4,34 +4,48 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Feb 2026 15:40:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 18:46:33 GMT</lastBuildDate>
     <item>
-      <title>童子军计划</title>
-      <link>https://www.producthunt.com/products/scout-program</link>
+      <title>图表螺柱</title>
+      <link>https://www.producthunt.com/products/chartstud-2</link>
       <description><![CDATA[
-            适合早期真钱投资的梦幻体育
+            在几分钟内将杂乱的数据转变为清晰的决策
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/scout-program</guid>
-      <pubDate>Thu, 12 Feb 2026 03:05:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/chartstud-2</guid>
+      <pubDate>Thu, 12 Feb 2026 02:01:09 GMT</pubDate>
     </item>
     <item>
-      <title>帕尔戈</title>
-      <link>https://www.producthunt.com/products/palgo</link>
+      <title>克劳兹</title>
+      <link>https://www.producthunt.com/products/clawezy</link>
       <description><![CDATA[
-            训练、升级和竞争！使用 Strava 将健身作为游戏。
+            在几秒钟内部署自主 OpenClaw AI 代理服务器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/palgo</guid>
-      <pubDate>Wed, 11 Feb 2026 16:45:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/clawezy</guid>
+      <pubDate>Wed, 11 Feb 2026 21:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊西之家</title>
+      <link>https://www.producthunt.com/products/itsyhome</link>
+      <description><![CDATA[
+            从 macOS 菜单栏控制 HomeKit
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/itsyhome</guid>
+      <pubDate>Wed, 11 Feb 2026 16:57:59 GMT</pubDate>
     </item>
     <item>
       <title>供电</title>
@@ -48,46 +62,18 @@
       <pubDate>Wed, 11 Feb 2026 14:32:37 GMT</pubDate>
     </item>
     <item>
-      <title>制作人工智能代理</title>
-      <link>https://www.producthunt.com/products/make-4</link>
+      <title>可搭配</title>
+      <link>https://www.producthunt.com/products/matchable</link>
       <description><![CDATA[
-            构建您可以看到、控制和扩展的人工智能代理
+            体育市场和软件集中于一处
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/make-4</guid>
-      <pubDate>Wed, 11 Feb 2026 11:13:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>地下酒吧的粮仓</title>
-      <link>https://www.producthunt.com/products/speakeasy-3</link>
-      <description><![CDATA[
-            您的代理的上下文中心
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/speakeasy-3</guid>
-      <pubDate>Wed, 11 Feb 2026 01:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>立方体</title>
-      <link>https://www.producthunt.com/products/cube-dev</link>
-      <description><![CDATA[
-            构建数据模型并回答问题的 AI 代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cube-dev</guid>
-      <pubDate>Tue, 10 Feb 2026 21:35:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/matchable</guid>
+      <pubDate>Wed, 11 Feb 2026 14:11:31 GMT</pubDate>
     </item>
     <item>
       <title>Foundire 的简历生成器</title>
@@ -130,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/seda</guid>
       <pubDate>Sun, 08 Feb 2026 02:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>焦点阅读</title>
+      <link>https://www.producthunt.com/products/focalread-speed-read-anything</link>
+      <description><![CDATA[
+            将文章、电子书和社交话题转化为快速阅读
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/focalread-speed-read-anything</guid>
+      <pubDate>Fri, 06 Feb 2026 15:51:20 GMT</pubDate>
     </item>
     <item>
       <title>斯塔努斯</title>
@@ -202,10 +202,10 @@
       <pubDate>Wed, 21 Jan 2026 20:15:33 GMT</pubDate>
     </item>
     <item>
-      <title>埃吉</title>
+      <title>埃奇</title>
       <link>https://www.producthunt.com/products/edgee</link>
       <description><![CDATA[
-            TL;DR代币的AI网关
+            TL;DR 代币的 AI 网关
           
 
 讨论
