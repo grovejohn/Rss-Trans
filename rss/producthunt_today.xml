@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 13 Feb 2026 01:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 04:50:52 GMT</lastBuildDate>
+    <item>
+      <title>Zendesk 用户调用信号</title>
+      <link>https://www.producthunt.com/products/zendesk-signals-by-usercall</link>
+      <description><![CDATA[
+            从 Zendesk 票证中尽早发现产品问题
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/zendesk-signals-by-usercall</guid>
+      <pubDate>Thu, 12 Feb 2026 06:30:30 GMT</pubDate>
+    </item>
     <item>
       <title>童子军计划</title>
       <link>https://www.producthunt.com/products/scout-program</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/scout-program</guid>
       <pubDate>Thu, 12 Feb 2026 03:05:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Outris 身份 MCP</title>
-      <link>https://www.producthunt.com/products/real-identity-mcp</link>
-      <description><![CDATA[
-            让人工智能代理调查电话号码并检测欺诈行为
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/real-identity-mcp</guid>
-      <pubDate>Wed, 11 Feb 2026 21:18:14 GMT</pubDate>
     </item>
     <item>
       <title>克劳兹</title>
@@ -62,20 +62,6 @@
       <pubDate>Wed, 11 Feb 2026 16:57:59 GMT</pubDate>
     </item>
     <item>
-      <title>帕尔戈</title>
-      <link>https://www.producthunt.com/products/palgo</link>
-      <description><![CDATA[
-            训练、升级和竞争！使用 Strava 将健身作为游戏。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/palgo</guid>
-      <pubDate>Wed, 11 Feb 2026 16:45:00 GMT</pubDate>
-    </item>
-    <item>
       <title>供电</title>
       <link>https://www.producthunt.com/products/powering</link>
       <description><![CDATA[
@@ -104,18 +90,32 @@
       <pubDate>Wed, 11 Feb 2026 11:13:22 GMT</pubDate>
     </item>
     <item>
-      <title>DatoCMS 可视化编辑</title>
-      <link>https://www.producthunt.com/products/dato-cms</link>
+      <title>地下酒吧的粮仓</title>
+      <link>https://www.producthunt.com/products/speakeasy-3</link>
       <description><![CDATA[
-            Headless CMS 的可视化编辑
+            您的代理的上下文中心
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dato-cms</guid>
-      <pubDate>Mon, 09 Feb 2026 09:01:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/speakeasy-3</guid>
+      <pubDate>Wed, 11 Feb 2026 01:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>立方体</title>
+      <link>https://www.producthunt.com/products/cube-dev</link>
+      <description><![CDATA[
+            构建数据模型并回答问题的 AI 代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cube-dev</guid>
+      <pubDate>Tue, 10 Feb 2026 21:35:27 GMT</pubDate>
     </item>
     <item>
       <title>趋势小工具</title>
@@ -160,20 +160,6 @@
       <pubDate>Fri, 06 Feb 2026 15:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>斯塔努斯</title>
-      <link>https://www.producthunt.com/products/starnus</link>
-      <description><![CDATA[
-            自动寻找并接触您的下一个客户
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/starnus</guid>
-      <pubDate>Thu, 05 Feb 2026 17:34:13 GMT</pubDate>
-    </item>
-    <item>
       <title>林迪助理</title>
       <link>https://www.producthunt.com/products/lindy</link>
       <description><![CDATA[
@@ -202,18 +188,32 @@
       <pubDate>Wed, 28 Jan 2026 16:03:11 GMT</pubDate>
     </item>
     <item>
-      <title>格罗</title>
-      <link>https://www.producthunt.com/products/gro-2</link>
+      <title>维斯拉AI导演模式</title>
+      <link>https://www.producthunt.com/products/visla</link>
       <description><![CDATA[
-            利用人工智能进行勘探和销售的最佳方式
+            连续逐场景AI视频生成
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/gro-2</guid>
-      <pubDate>Mon, 26 Jan 2026 07:11:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/visla</guid>
+      <pubDate>Wed, 21 Jan 2026 20:15:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃奇</title>
+      <link>https://www.producthunt.com/products/edgee</link>
+      <description><![CDATA[
+            TL;DR代币的AI网关
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/edgee</guid>
+      <pubDate>Tue, 30 Dec 2025 08:43:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
