@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 12 Feb 2026 21:24:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:05:56 GMT</lastBuildDate>
+    <item>
+      <title>有没有可以将 NEF 转为 DNG 的开源程序？ （请不要使用 Adob​​e DNG 转换器，其他选项）</title>
+      <link>https://www.reddit.com/r/software/comments/1r39gaw/any_open_source_program_that_turns_nef_to_dng_no/</link>
+      <description><![CDATA[ 由   提交/u/jandromagno_04   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r39gaw/any_open_source_program_that_turns_nef_to_dng_no/</guid>
+      <pubDate>Thu, 12 Feb 2026 23:44:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找允许重复预订的日程安排应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1r37424/looking_for_a_scheduling_app_that_allows_double/</link>
+      <description><![CDATA[大家好，我们希望能够使用实际上允许重复预订的日程安排应用程序（例如 cal 或 calendly）。 Cal 发誓他们不会。我们研究了其他人，但似乎找不到任何东西。由于我们使用的是自动化系统，因此目前最多可以有 20 个并发呼叫，例如安排在上午 9 点。有人知道现有的系统允许这样做吗？或者我们是否需要找到一种方法来构建它。 非常感谢！   由   提交 /u/Tgoldlong   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r37424/looking_for_a_scheduling_app_that_allows_double/</guid>
+      <pubDate>Thu, 12 Feb 2026 22:09:47 GMT</pubDate>
+    </item>
     <item>
       <title>DecispherHQ/决策守护者：通过直接在 Pull 请求上显示过去的架构决策来防止机构失忆。</title>
       <link>https://www.reddit.com/r/software/comments/1r2zafv/decispherhqdecisionguardian_prevent_institutional/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[Mac 上最好的音乐音频下载软件？   由   提交 /u/Difficult_Culture781   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1r2m1do/best_music_audio_downloader_software_for_mac/</guid>
       <pubDate>Thu, 12 Feb 2026 06:22:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>艾哈迈达巴德最佳软件开发公司</title>
-      <link>https://www.reddit.com/r/software/comments/1r2k9md/best_software_development_company_in_ahmedabad/</link>
-      <description><![CDATA[StellarCode 是艾哈迈达巴德艾哈迈达巴德最好的软件开发公司，为初创公司、中小企业和大型企业提供创新、可扩展且安全的数字解决方案。我们非常注重质量和性能，专注于定制软件开发、Web 应用程序开发、移动应用程序开发以及根据业务需求量身定制的企业解决方案。 艾哈迈达巴德的软件开发公司   由   提交/u/stellarcodesystem  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r2k9md/best_software_development_company_in_ahmedabad/</guid>
-      <pubDate>Thu, 12 Feb 2026 04:46:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rusty – 适用于 Windows 的选项卡式分屏 SSH 客户端</title>
-      <link>https://www.reddit.com/r/software/comments/1r2ivbg/rusty_a_tabbed_splitpane_ssh_client_for_windows/</link>
-      <description><![CDATA[大家好， 我一直在开发一个名为 Rusty 的项目，这是一个完全用 Rust 构建的现代 Windows SSH 客户端。 我最初构建它是因为我想要一个比传统 SSH 客户端更有组织性和灵活性的东西，特别是在同时管理大量会话时。 主要功能：  选项卡式 + 拆分窗格界面 Docker 风格的选项卡管理 可重命名和颜色编码的会话（右键单击选项卡） 多配置文件支持（右键单击 + 号以启动辅助配置文件连接） 灵活、可调整大小的布局 自定义主题和外观选项 关闭时自动恢复会话 大量错误修复和稳定性改进 调暗非焦点窗口 完全开源  主要焦点是组织优先的工作流程 - 可以轻松地直观地分组、标记和管理会话，而不会造成混乱。我一直在我的 VPS 上虔诚地使用它。 它仍在不断发展，我非常感谢每天使用 SSH 的人们的反馈。 存储库：https://github.com/hexajohnny/rusty 让我知道你的想法 - 功能请求、批评、性能反馈，欢迎提出。 &lt;一href=&quot;https://preview.redd.it/z4beva4ngzig1.png?width=1535&amp;format=png&amp;auto=webp&amp;s=76863a426551a32b512b0383ed1bd2053b7b0fd3&quot;&gt; https://preview.redd.it/z4beva4ngzig1.png?width=1535&amp;format=png&amp;auto=webp&amp;s=76863a426551a32b512b0383ed1bd2053b7b0fd3   由   提交/u/uber0ne  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r2ivbg/rusty_a_tabbed_splitpane_ssh_client_for_windows/</guid>
-      <pubDate>Thu, 12 Feb 2026 03:36:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

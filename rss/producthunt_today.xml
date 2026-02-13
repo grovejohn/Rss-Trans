@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 12 Feb 2026 21:25:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 01:07:03 GMT</lastBuildDate>
     <item>
       <title>童子军计划</title>
       <link>https://www.producthunt.com/products/scout-program</link>
@@ -20,6 +20,20 @@
       <pubDate>Thu, 12 Feb 2026 03:05:44 GMT</pubDate>
     </item>
     <item>
+      <title>Outris 身份 MCP</title>
+      <link>https://www.producthunt.com/products/real-identity-mcp</link>
+      <description><![CDATA[
+            让人工智能代理调查电话号码并检测欺诈行为
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/real-identity-mcp</guid>
+      <pubDate>Wed, 11 Feb 2026 21:18:14 GMT</pubDate>
+    </item>
+    <item>
       <title>克劳兹</title>
       <link>https://www.producthunt.com/products/clawezy</link>
       <description><![CDATA[
@@ -32,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/clawezy</guid>
       <pubDate>Wed, 11 Feb 2026 21:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>伊西之家</title>
+      <link>https://www.producthunt.com/products/itsyhome</link>
+      <description><![CDATA[
+            从 macOS 菜单栏控制 HomeKit
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/itsyhome</guid>
+      <pubDate>Wed, 11 Feb 2026 16:57:59 GMT</pubDate>
     </item>
     <item>
       <title>帕尔戈</title>
@@ -62,46 +90,18 @@
       <pubDate>Wed, 11 Feb 2026 14:32:37 GMT</pubDate>
     </item>
     <item>
-      <title>可搭配</title>
-      <link>https://www.producthunt.com/products/matchable</link>
+      <title>制作人工智能代理</title>
+      <link>https://www.producthunt.com/products/make-4</link>
       <description><![CDATA[
-            体育市场和软件集中于一处
+            构建您可以看到、控制和扩展的人工智能代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/matchable</guid>
-      <pubDate>Wed, 11 Feb 2026 14:11:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>地下酒吧的粮仓</title>
-      <link>https://www.producthunt.com/products/speakeasy-3</link>
-      <description><![CDATA[
-            您的代理的上下文中心
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/speakeasy-3</guid>
-      <pubDate>Wed, 11 Feb 2026 01:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>立方体</title>
-      <link>https://www.producthunt.com/products/cube-dev</link>
-      <description><![CDATA[
-            构建数据模型并回答问题的 AI 代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cube-dev</guid>
-      <pubDate>Tue, 10 Feb 2026 21:35:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/make-4</guid>
+      <pubDate>Wed, 11 Feb 2026 11:13:22 GMT</pubDate>
     </item>
     <item>
       <title>DatoCMS 可视化编辑</title>
@@ -116,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/dato-cms</guid>
       <pubDate>Mon, 09 Feb 2026 09:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>趋势小工具</title>
+      <link>https://www.producthunt.com/products/trendwidget</link>
+      <description><![CDATA[
+            主屏幕和人工智能搜索引擎上的谷歌和雅虎趋势
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/trendwidget</guid>
+      <pubDate>Mon, 09 Feb 2026 06:52:14 GMT</pubDate>
     </item>
     <item>
       <title>这</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/gro-2</guid>
       <pubDate>Mon, 26 Jan 2026 07:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>维斯拉AI导演模式</title>
-      <link>https://www.producthunt.com/products/visla</link>
-      <description><![CDATA[
-            连续逐场景AI视频生成
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/visla</guid>
-      <pubDate>Wed, 21 Jan 2026 20:15:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
