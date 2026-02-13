@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 13 Feb 2026 15:32:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 18:30:07 GMT</lastBuildDate>
     <item>
-      <title>PDF→PPT代理</title>
-      <link>https://www.reddit.com/r/programming/comments/1r3s6ea/pdf_ppt_agent/</link>
-      <description><![CDATA[嘿！周终回顾👇 本周我向您展示了： 1. PDF → PPT 代理 — 只需 30 行代码即可将任何 PDF 转换为演示文稿 2. 文件管理器 — 只需询问“组织我的下载文件夹”即可3. Claude Code 比较 - PapertCode 如何堆叠的诚实分解 氛围： → 终端优先的 AI 代理是未来 → 执行意图 &gt;提示代码→开源+可扩展&gt;锁定 这个周末试试：npm install -g @papert-code/papert-code GitHub：https://github.com/azharlabs/papert-code 有问题吗？将它们放到这里！   由   提交/u/thambora  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r3s6ea/pdf_ppt_agent/</guid>
-      <pubDate>Fri, 13 Feb 2026 15:29:48 GMT</pubDate>
+      <title>金融科技安全架构：漏洞所在及原因</title>
+      <link>https://www.reddit.com/r/programming/comments/1r3uzfz/fintech_security_architectures_where_they_break/</link>
+      <description><![CDATA[ 由   提交 /u/West-Chard-1474   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r3uzfz/fintech_security_architectures_where_they_break/</guid>
+      <pubDate>Fri, 13 Feb 2026 17:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 IOPS 耗尽时 Postgres 内部会发生什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1r3u45z/what_happens_inside_postgres_when_iops_runs_out/</link>
+      <description><![CDATA[ 由   提交/u/andreiross   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r3u45z/what_happens_inside_postgres_when_iops_runs_out/</guid>
+      <pubDate>Fri, 13 Feb 2026 16:41:20 GMT</pubDate>
     </item>
     <item>
       <title>Dave Farley 谈人工智能、现代软件工程和工程学科</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/AltruisticPrimary34  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r2ygb6/everything_takes_longer_than_you_think/</guid>
       <pubDate>Thu, 12 Feb 2026 16:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习基础知识，而不是框架</title>
-      <link>https://www.reddit.com/r/programming/comments/1r2xh88/learn_fundamentals_not_frameworks/</link>
-      <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r2xh88/learn_fundamentals_not_frameworks/</guid>
-      <pubDate>Thu, 12 Feb 2026 16:09:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
