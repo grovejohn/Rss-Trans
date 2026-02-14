@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 13 Feb 2026 21:26:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Feb 2026 01:00:37 GMT</lastBuildDate>
+    <item>
+      <title>我厌倦了脆弱的 AI 包装器和上下文膨胀，因此构建了一个全新的离线软件堆栈：确定性主权运行时 (Rust/Z3) 和生物内存协议 (CSNP)。 -（烤它/测试它或忽略我的帖子我不想听到任何“不可能”的说法导致你懒于测试）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1r459v2/i_got_so_sick_of_brittle_ai_wrappers_and_context/</link>
+      <description><![CDATA[ Look fam, I&#39;m just gonna say it.我们现在运行本地模型的方式从根本上被打破了。 Y&#39;all are feeding raw text to probabilistic models and praying to God they don&#39;t hallucinate a memory leak or fry your 128k context window. Standard RAG is a joke.文本分块和余弦相似性会破坏数据的实际架构上下文。 Python 包装器很脆弱。 （字面意思） 我变得如此自闭，并且过度关注“随机修补”是多么愚蠢。时代是我决定从头开始替换整个堆栈。我构建了一个 100% 离线、主权的软件堆栈。将其视为确定性 CPU 和针对本地模型优化的生物 RAM。 (54 stars in 30 days 26% view/clone rate 10 forks) I know building an entirely new OS and language sounds like some arrogant anime villain shit, but the code compiles.您现在就可以克隆它。 - I hate that I gotta be so scared I&#39;m gonna get &quot;Durr AI slop Durr&quot;&#39;d that I gotta even say that &quot;It compiles wallahi I swear bro don&#39;t downvote me I&#39;m not fronting!&quot; God. I hate the internet these days. Anyway here it is (If you still think people can invent cool things without being millionaires, having PhD&#39;s or being funded by some institutions) THE CPU (EXECUTION AND LOGIC): ARK-COMPILER Ark isn&#39;t just a verification script. It is a whole-ass programming language and Sovereign OS. I built it to completely bypass AWS and modern cloud architecture.  NEURO-SYMBOLIC INTRINSICS: It doesn&#39;t use standard libraries to call an LLM.它将AI生成视为核心CPU指令。它的签名是确定性的，输出是概率性的。 线性类型和线性类型。 Z3 定理证明：不存在垃圾收集器。变量必须仅使用一次。当您本地的 LLM（我使用 DeepSeek-R1）生成代码时，Ark 会将约束转换为 SMT-LIB2 格式并将其提供给 Microsoft 的 Z3 求解器。如果人工智能幻觉内存泄漏，编译器会以数学方式捕获它并强制重写。人工智能建议；数学处理。 文明堆栈：Ark 直接编译为零成本 WASM。用户的浏览器就是服务器。 It has a built-in P2P Gossip Protocol (network simulation) so it&#39;s uncensorable, and a Sovereign Shell written entirely in Ark to replace Linux Bash.  It does more - but just read the readme, technical dossier and manual (or don&#39;t I&#39;m kind enough to share this aint getting paid these are under open source licenses) THE RAM (STATE AND CONTEXT): REMEMBER-ME-AI V2.2 为了解决 RAG 幻觉问题，我构建了一个相干状态网络协议 (CSNP)。 It tracks conversation state and compresses redundant vectors using Wasserstein-distance metrics. It uses a Hot/Cold dual-memory architecture.它将较旧的冗余状态压缩到磁盘（睡眠），有效地将上下文内存开销减少了 40 倍。当您需要历史背景时，它会立即将其重新加载到热内存中。 No hallucinations.没有损坏 RAM。 整个堆栈设计为针对本地服务器离线运行。没有云，零遥测。 这两个项目都是 100% 开源的。 Remember-Me just crossed 50+ stars from some heavy hitter founders, and Ark is live. I might get banned for not using corporate PR speak, but I don&#39;t care at this point, I just want to drop the code before that happens. If you actually know about formal verification, SPSC lock-free ring buffers, or context compression, I want you to clone this and try to break it. (Cause we live in a land where if you make ANY claims that you did ANYTHING sick you gotta have a corporate badge or a PhD otherwise you&#39;re pattern-matched to &quot;Durr AI slop Durr&quot; (I love doing that - heard it too much cause my autistic arse uses structured sentences and bullet points too much - freakin annoying) THE SOVEREIGN RUNTIME AND OS (ARK): https://github.com/merchantmoh-debug/ark-compiler THE BIOLOGICAL MEMORY PROTOCOL (REMEMBER-ME): https://github.com/merchantmoh-debug/Remember-Me-AI    submitted by    /u/AbrocomaAny8436   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1r459v2/i_got_so_sick_of_brittle_ai_wrappers_and_context/</guid>
+      <pubDate>Fri, 13 Feb 2026 23:56:04 GMT</pubDate>
+    </item>
     <item>
       <title>MinIO 如何从开源宠儿变成警示故事</title>
       <link>https://www.reddit.com/r/opensource/comments/1r3vfnm/how_minio_went_from_open_source_darling_to/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[在此处下载详细说明和说明：https://github.com/SchwarzFuchs/Shell-WebP-Converter 如果您遇到任何问题或有改进的想法，请随时分别提出问题/讨论。   由   提交/u/SchwarzFuchss   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1r25m1n/made_a_windows_converter_to_webp_with_explorer/</guid>
       <pubDate>Wed, 11 Feb 2026 18:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 inline-snapshot 和 dirty-equals 进行更好的 Python 测试</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r1w5py/better_python_tests_with_inlinesnapshot_and/</link>
-      <description><![CDATA[       由   提交/u/alexmojaki  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r1w5py/better_python_tests_with_inlinesnapshot_and/</guid>
-      <pubDate>Wed, 11 Feb 2026 12:32:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
