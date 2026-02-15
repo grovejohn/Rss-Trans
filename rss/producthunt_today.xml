@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 15 Feb 2026 09:22:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 12:23:48 GMT</lastBuildDate>
     <item>
       <title>Snap 开发者坞</title>
       <link>https://www.producthunt.com/products/snap-8</link>
@@ -32,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/prompt-library</guid>
       <pubDate>Sat, 14 Feb 2026 17:42:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>克莱因 CLI 2.0</title>
+      <link>https://www.producthunt.com/products/cline-4</link>
+      <description><![CDATA[
+            终端中的并行代理和无头 CI/CD
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cline-4</guid>
+      <pubDate>Sat, 14 Feb 2026 06:32:22 GMT</pubDate>
     </item>
     <item>
       <title>你的爱情风格</title>
@@ -132,20 +146,6 @@
       <pubDate>Fri, 13 Feb 2026 10:24:54 GMT</pubDate>
     </item>
     <item>
-      <title>用英语</title>
-      <link>https://www.producthunt.com/products/elebean</link>
-      <description><![CDATA[
-            您的音乐伴侣
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/elebean</guid>
-      <pubDate>Thu, 12 Feb 2026 10:56:28 GMT</pubDate>
-    </item>
-    <item>
       <title>加上AI演示代理</title>
       <link>https://www.producthunt.com/products/plus-ai-presentation-agent</link>
       <description><![CDATA[
@@ -158,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/plus-ai-presentation-agent</guid>
       <pubDate>Thu, 12 Feb 2026 00:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>文本选项卡</title>
+      <link>https://www.producthunt.com/products/textab</link>
+      <description><![CDATA[
+            将任何人工智能任务变成键盘快捷键
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/textab</guid>
+      <pubDate>Tue, 10 Feb 2026 19:21:48 GMT</pubDate>
     </item>
     <item>
       <title>正式的</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/lunair</guid>
       <pubDate>Tue, 03 Feb 2026 21:54:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>舒适二号</title>
-      <link>https://www.producthunt.com/products/cozytwo</link>
-      <description><![CDATA[
-            即使你们分开，也要共同建设一个家。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cozytwo</guid>
-      <pubDate>Fri, 30 Jan 2026 15:17:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
