@@ -4,20 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Sun, 15 Feb 2026 06:36:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Feb 2026 09:20:07 GMT</lastBuildDate>
     <item>
-      <title>关于皮纳塔起义的人工智能音乐视频……最近感觉很相关。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r57d19/ai_music_video_about_a_piñata_uprising_feels/</link>
-      <description><![CDATA[Fools Agency 为我的乐队 Juanga Boyz 制作了一段关于皮纳塔叛乱的人工智能生成音乐视频。 这个想法一开始是讽刺……但不知怎的，它感觉与现在正在展开的一切奇怪地同步。   由   提交/u/yesterman  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r57d19/ai_music_video_about_a_piñata_uprising_feels/</guid>
-      <pubDate>Sun, 15 Feb 2026 06:19:57 GMT</pubDate>
+      <title>您如何让您的孩子为人工智能做好准备？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r5a3s4/how_are_you_preparing_your_kids_for_ai/</link>
+      <description><![CDATA[对于那些有孩子的人，尤其是年龄较大的青少年，您正在做什么（如果有的话）来帮助他们为人工智能的未来做好准备？ 您鼓励他们学习哪些技能？  你打算送他们上大学吗？大学还值得吗？​您引导他们选择/远离什么类型的课程？您是否鼓励他们学习一门手艺或接受学徒培训？    由   提交 /u/Scratchcardbob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r5a3s4/how_are_you_preparing_your_kids_for_ai/</guid>
+      <pubDate>Sun, 15 Feb 2026 09:07:42 GMT</pubDate>
     </item>
     <item>
-      <title>我为代理 AI 系统构建了确定性稳定性内核（MIT，v1.0）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r574tf/i_built_a_deterministic_stability_kernel_for/</link>
-      <description><![CDATA[​ 主体： 大多数代理系统都关注能力。 很少关注加速下的稳定性。 我刚刚开源了我一直在构建的东西： Coherence Stability Kernel (v1.0) MIT 许可。 它是代理系统的运行时稳定性框架，它： 监控五个有界风险信号（归一化 0-1） 将它们聚合成一个复合风险指标 计算 C = 1 - 风险的一致性 衡量加速与恢复能力的升级 强制基于制度的操作限制 核心思想： 稳定性不是一个即时问题。这是一个遥测+制度执行问题。 而不是： “输出是否对齐？”它询问： “系统加速速度是否快于恢复速度？” 内核是确定性的： 可重玩的行为 显式风险正常化 硬状态转换（正常→提升→受限） 这是有意为之的： 临床 以治理为导向 不是炒作驱动 专为已经存在的代理堆栈而设计 存储库：https://github.com/noblebrendon-cloud/coherence-stability-kernel。 希望对以下内容提出批评： 综合指标公式化 升级比率数学 制度执行阈值 我可能遗漏的失败模式 这并不意味着华而不实。它旨在承受压力。 好奇其他人如何处理自主或半自主系统中的运行时稳定性。   由   提交/u/EcstaticAd9869   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r574tf/i_built_a_deterministic_stability_kernel_for/</guid>
-      <pubDate>Sun, 15 Feb 2026 06:06:51 GMT</pubDate>
+      <title>Be10x Python + AI 研讨会的诚实反馈。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r59w4j/honest_feedback_on_be10x_python_ai_workshop/</link>
+      <description><![CDATA[在看到 be10x 的 Python 与 AI 工具研讨会在我的社交媒体上大力推广后，我今天报名参加了该研讨会。内容看起来确实很有前途，所以我带着不错的期望进入了。 但是，该主题的实际覆盖范围相当有限。会议的大部分内容都是介绍性的，并且创始人花了九十分钟的时间讨论另一个付费项目，而不是继续研讨会或解决参与者的问题。 最糟糕的部分 - 他们不会发布课程材料，除非你坚持完成 1-1.5 小时的促销推介。  总的来说，这感觉像是一次销售会议，而不是学习研讨会，说实话，浪费时间和金钱。    由   提交 /u/ConsiderationThat103   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r59w4j/honest_feedback_on_be10x_python_ai_workshop/</guid>
+      <pubDate>Sun, 15 Feb 2026 08:54:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>垃圾变现金管道：将垃圾货币化</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r597or/the_trashtocash_pipeline_monetizing_your_garbage/</link>
+      <description><![CDATA[ 由   提交/u/damian2000  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r597or/the_trashtocash_pipeline_monetizing_your_garbage/</guid>
+      <pubDate>Sun, 15 Feb 2026 08:12:27 GMT</pubDate>
     </item>
     <item>
       <title>每日一分钟人工智能新闻 2/​​14/2026</title>
@@ -29,7 +36,7 @@
     <item>
       <title>有没有数据表明企业成功用人工智能取代了工人？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r55zl1/is_there_any_data_showing_companies_successfully/</link>
-      <description><![CDATA[也许我在 Reddit 上花费了太多时间并阅读了太多意见。 But I really want to see data or evidence of companies replacing human workers with LLM/agents successfully. Successfully means it is financially feasible AND reduce no. workers needed in a company whilst maintaining the same output and performance. If you know any sources please let me know!   由   提交 /u/bubugugu   [link] [comments]]]></description>
+      <description><![CDATA[也许我在 Reddit 上花费了太多时间并阅读了太多意见。但我真的很想看到公司成功用法学硕士/代理人取代人类工人的数据或证据。 成功意味着它在财务上是可行的，并且减少了数量。公司所需的工人，同时保持相同的产出和绩效。 如果您知道任何来源，请告诉我！   由   提交/u/bubugugu  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r55zl1/is_there_any_data_showing_companies_successfully/</guid>
       <pubDate>Sun, 15 Feb 2026 05:02:22 GMT</pubDate>
     </item>
@@ -43,7 +50,7 @@
     <item>
       <title>Anthropic首席执行官再次告诉美国政府不要做英伟达首席执行官黄仁勋一直“乞求”的事情 - 印度时报</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r53h45/anthropic_ceo_again_tells_us_government_not_to_do/</link>
-      <description><![CDATA[ 由   提交 /u/Total-Mention9032   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/Total-Mention9032   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r53h45/anthropic_ceo_again_tells_us_government_not_to_do/</guid>
       <pubDate>Sun, 15 Feb 2026 02:50:53 GMT</pubDate>
     </item>
@@ -53,13 +60,6 @@
       <description><![CDATA[大家好， 感觉我们已经到了无法回头的地步。人工智能正在接管一切，我们似乎正站在十字路口，只有两个真正的选择： 选项 1：随波逐流。拥抱人工智能并将其融入我们生活的方方面面——编码、工作流程、创意项目等等。 选项 2：落后。抵制变革并冒被过时的风险。 我真的很好奇其他人对此的立场。这些真的是我们唯一的选择吗？是适应还是落后？ 我们来讨论一下   由   提交 /u/Lost_Cherry_7809   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r4w8tx/are_we_at_the_point_of_no_return_with_ai_its/</guid>
       <pubDate>Sat, 14 Feb 2026 21:19:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么人工智能会让人变笨？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r4v4s8/why_does_ai_make_people_dumber/</link>
-      <description><![CDATA[我记得有人告诉我，如果我使用 ChatGPT，我就缺乏理解任何事情的智力。是反人工智能人群散布恐惧吗？或者它会让你变得更笨吗？如果是这样，ChatGPT 是否会让使用它工作的人变得更笨？只是想我会问。    由   提交 /u/No_Mastodon6276   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r4v4s8/why_does_ai_make_people_dumber/</guid>
-      <pubDate>Sat, 14 Feb 2026 20:33:13 GMT</pubDate>
     </item>
     <item>
       <title>微软人工智能负责人给了它18个月的时间——让所有白领工作都由人工智能实现自动化</title>
