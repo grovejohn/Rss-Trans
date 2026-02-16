@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 16 Feb 2026 09:41:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 12:33:36 GMT</lastBuildDate>
     <item>
-      <title>印度软件工程师（2 岁）计划移居德国 – 求职者 vs 直接录用路线？</title>
-      <link>https://www.reddit.com/r/programming/comments/1r65apr/indian_software_engineer_2_yoe_planning_to_move/</link>
-      <description><![CDATA[大家好， 我是一名来自印度的 22 岁软件工程师，在基于 React 的 Web 应用程序和后端集成（REST API、服务器端逻辑、企业系统）方面拥有约 2 年的工作经验。我拥有计算机科学学士学位，目前正在提升全栈技能（Node.js + PostgreSQL + 云）。 我正在认真考虑搬到德国寻求长期科技职业发展，我想从真正做到这一点的人那里了解最现实的道路。 我的问题：  是先尝试从印度获得工作机会，还是通过求职者/机会卡和搜索进行搜索更好本地？ 对于拥有 2-3 年经验的人来说，目前的市场竞争如何？ 德语对于柏林的后端/全栈职位有多重要？ 为了获得欧盟蓝卡资格，我的实际薪资范围应该是多少？ 目前德国初创公司最需要什么技术堆栈？ 你犯过哪些我应该避免的错误？  我愿意在接下来的 6-12 个月内提升我的技能并学习德语（目前从 A1 开始）。我只是想确保我专注于来自印度的正确事情。 非常感谢实用的建议，尤其是来自印度或非欧盟国家的人。 提前致谢🙏   由   提交/u/beingsamjdar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r65apr/indian_software_engineer_2_yoe_planning_to_move/</guid>
-      <pubDate>Mon, 16 Feb 2026 09:36:42 GMT</pubDate>
+      <title>出于对风险的热爱</title>
+      <link>https://www.reddit.com/r/programming/comments/1r67s64/in_the_love_of_risk/</link>
+      <description><![CDATA[ 由   提交/u/mmoustafa8108  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r67s64/in_the_love_of_risk/</guid>
+      <pubDate>Mon, 16 Feb 2026 12:00:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>用小群构建 sqlite</title>
+      <link>https://www.reddit.com/r/programming/comments/1r678sr/building_sqlite_with_a_small_swarm/</link>
+      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r678sr/building_sqlite_with_a_small_swarm/</guid>
+      <pubDate>Mon, 16 Feb 2026 11:31:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么“跳过代码，发送二进制文件”是一个类别错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1r65ee0/why_skip_the_code_ship_the_binary_is_a_category/</link>
+      <description><![CDATA[最近，Elon Musk 提出了这样的想法：到 2026 年，你“甚至不会费心编码”，因为模型将“直接创建二进制文件”。 这听起来很未来，直到你仔细观察编译器的实际情况。编译器已经是“从想法到二进制”的机器，只不过它有形式语言、规范、确定性转换和围绕可检查性构建的管道。相同的输入，相同的输出。如果错了，你会在一行中得到一个错误和一个原因。 “跳过代码”的说法基本上是在说：让我们删除人类可以读取、比较、审查、调试和审计的一层，然后直接跳到整个堆栈中最脆弱的工件。凉爽的。现在，当出现问题时，您无需检查逻辑，只需重新滚动老虎机即可。碰撞？再生。内存损坏？再生。安全漏洞？更努力地再生。软件工程，现在有扭蛋机制。 🤡 此外，二进制也不是宽容的。源代码可能稍有错误，编译器就会对你大喊大叫。二进制可能有一个字节错误，你会得到一个鬼故事：未定义的行为、无声的损坏、“在我的机器上运行”，但在生产中它却出没......你们都知道。 这里真正的类别错误混淆了两件事：编译器是正式系统上的语义保留转换器，LLM 是需要外部验证才能信任的随机文本生成器。如果您添加足够的验证来使“直接二进制生成”安全，那么恭喜您，您只是重新发明了编译器工具链，只是需要额外的步骤和更少的可见性。 我对此写了更长的细分，因为“LLM 取代编码”标题忽略了真正重要的内容：验证、可维护性和问责制。 我有兴趣听到任何实际大规模交付系统的人的声音。   由   提交/u/tirtha_s   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r65ee0/why_skip_the_code_ship_the_binary_is_a_category/</guid>
+      <pubDate>Mon, 16 Feb 2026 09:42:59 GMT</pubDate>
     </item>
     <item>
       <title>研究发现，新架构可以将破解 RSA-2048 所需的量子硬件减少十倍</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/stackoverflooooooow   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r5f9xz/redefining_go_functions/</guid>
       <pubDate>Sun, 15 Feb 2026 13:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ring编程语言1.26版本发布！</title>
-      <link>https://www.reddit.com/r/programming/comments/1r5dyof/ring_programming_language_version_126_is_released/</link>
-      <description><![CDATA[ 由   提交/u/mrpro1a1  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r5dyof/ring_programming_language_version_126_is_released/</guid>
-      <pubDate>Sun, 15 Feb 2026 12:55:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Jakarta Faces 和 Quarkus 重新思考 Java Web UI</title>
-      <link>https://www.reddit.com/r/programming/comments/1r5cldu/rethinking_java_web_uis_with_jakarta_faces_and/</link>
-      <description><![CDATA[ 由   提交/u/henk53  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r5cldu/rethinking_java_web_uis_with_jakarta_faces_and/</guid>
-      <pubDate>Sun, 15 Feb 2026 11:41:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
