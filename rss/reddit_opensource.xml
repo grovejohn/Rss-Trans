@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 15 Feb 2026 21:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 01:06:15 GMT</lastBuildDate>
+    <item>
+      <title>AI 代理在主要 OSS 项目中获得 PR，通过冷外展瞄准维护人员</title>
+      <link>https://www.reddit.com/r/opensource/comments/1r5s5ii/ai_agent_lands_prs_in_major_oss_projects_targets/</link>
+      <description><![CDATA[ 由   提交 /u/pizzaiolo2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1r5s5ii/ai_agent_lands_prs_in_major_oss_projects_targets/</guid>
+      <pubDate>Sun, 15 Feb 2026 22:30:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Classifarr 简介：Radarr/Sonarr 请求的策略引擎路由（自动分类 + 可选 AI）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1r5rixo/introducing_classifarr_policyengine_routing_for/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1r5rixo/introducing_classifarr_policyengine_routing_for/</guid>
+      <pubDate>Sun, 15 Feb 2026 22:04:54 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个用于运行整个 OpenClaw 代理组织的工具 [MIT 许可]</title>
       <link>https://www.reddit.com/r/opensource/comments/1r5k67e/i_built_a_tool_for_running_entire_organizations/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/bitsabhi  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1r3qoi3/built_an_opensource_ai_that_asks_claude_gemini/</guid>
       <pubDate>Fri, 13 Feb 2026 14:31:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要 256 个明确形状的列表</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r3o1bu/need_a_list_of_256_unambiguous_shapes/</link>
-      <description><![CDATA[我试图以一种更加用户友好且与文化无关的方式表示数据哈希。 由于哈希是十六进制字符串，我认为更加用户友好的方法可能是 2 字符形状代码 (F3)，后跟 6 字符颜色代码 (AA4F5E)。 为了更轻松的安全性，用户会说...红色狗...蓝色圆圈。这将用 2 个符号传达 16 个字符的哈希值。   由   提交 /u/ki4jgt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r3o1bu/need_a_list_of_256_unambiguous_shapes/</guid>
-      <pubDate>Fri, 13 Feb 2026 12:36:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>语音或听写到文本网站？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r3kfzo/voice_or_dictation_to_text_sites/</link>
-      <description><![CDATA[是否仍然存在真正免费的语音转文本网站，或者绝对都是付费的“人工智能”网站？现在？几年前，我时不时地使用一个网站，当时我必须先用语音编写文档，以这种方式完成初稿。只是...现在该网站已关闭。  我主要使用英语，它一点也不完美，但足以能够集思广益，然后开始修饰和写作，已经有了一个基础。如果您有任何选择或建议，我希望再次出现这样的网站，因为我发现的只是付款并添加您的卡，以便您可以使用它。  而且，现在所有的网站都带有“人工智能”了。等等，你只能使用它们进行 2-3 段录音，而且我发现过去运行良好的一个网站现在有一个付费墙。这很糟糕    由   提交/u/Dope_horse22  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r3kfzo/voice_or_dictation_to_text_sites/</guid>
-      <pubDate>Fri, 13 Feb 2026 09:06:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

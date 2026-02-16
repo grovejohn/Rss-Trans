@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 15 Feb 2026 21:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 01:04:41 GMT</lastBuildDate>
+    <item>
+      <title>使用 DuckDB 构建自托管 Google Trends 替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1r5v2kl/building_a_selfhosted_google_trends_alternative/</link>
+      <description><![CDATA[ 由   提交/u/Low-Engineering-4571   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r5v2kl/building_a_selfhosted_google_trends_alternative/</guid>
+      <pubDate>Mon, 16 Feb 2026 00:37:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地 WebSocket：构建无需云即可运行的实时应用程序</title>
+      <link>https://www.reddit.com/r/programming/comments/1r5quh6/local_websocket_building_realtime_apps_that_work/</link>
+      <description><![CDATA[我发表了一篇文章，介绍我的新 Dart/Flutter 包：`local_websocket`，无需云服务器即可在本地网络上启用实时应用程序，非常适合离线优先、本地或医疗保健系统等隐私敏感用例。 涵盖的主要功能： - 自动设备发现和 LAN WebSocket 通信。 - 纯 Dart 实现服务器扫描功能。 - 仪表板、协作和关键任务应用程序的实用示例。 欢迎就生产使用、重新连接策略或与 Flutter 项目的集成技巧提供反馈。   由   提交 /u/_Flame_Of_Udun_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r5quh6/local_websocket_building_realtime_apps_that_work/</guid>
+      <pubDate>Sun, 15 Feb 2026 21:37:29 GMT</pubDate>
+    </item>
     <item>
       <title>代理编码可以提高质量标准吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1r5o6ne/can_agentic_coding_raise_the_quality_bar/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[对 PQC 与 QKD、混合模式进行诚实的技术评估，以及为什么修复基本的安全卫生比现在担心量子计算机更重要。 https://cybernews-node.blogspot.com/2026/02/quantum-cryptography-in-2026-still-more.html   由   提交 /u/No_Fisherman1212   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r4r7v4/what_security_engineers_need_to_know_about/</guid>
       <pubDate>Sat, 14 Feb 2026 17:57:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>将日志管理平台与 Dokploy 集成</title>
-      <link>https://www.reddit.com/r/programming/comments/1r4qhbr/integrating_a_log_management_platform_with_dokploy/</link>
-      <description><![CDATA[ 由   提交/u/tanin47  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r4qhbr/integrating_a_log_management_platform_with_dokploy/</guid>
-      <pubDate>Sat, 14 Feb 2026 17:28:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来十年不断发展的 Git</title>
-      <link>https://www.reddit.com/r/programming/comments/1r4o4px/evolving_git_for_the_next_decade/</link>
-      <description><![CDATA[ 由   提交 /u/symbolicard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r4o4px/evolving_git_for_the_next_decade/</guid>
-      <pubDate>Sat, 14 Feb 2026 15:56:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
