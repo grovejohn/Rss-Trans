@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 16 Feb 2026 06:50:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 09:41:32 GMT</lastBuildDate>
+    <item>
+      <title>印度软件工程师（2 岁）计划移居德国 – 求职者 vs 直接录用路线？</title>
+      <link>https://www.reddit.com/r/programming/comments/1r65apr/indian_software_engineer_2_yoe_planning_to_move/</link>
+      <description><![CDATA[大家好， 我是一名来自印度的 22 岁软件工程师，在基于 React 的 Web 应用程序和后端集成（REST API、服务器端逻辑、企业系统）方面拥有约 2 年的工作经验。我拥有计算机科学学士学位，目前正在提升全栈技能（Node.js + PostgreSQL + 云）。 我正在认真考虑搬到德国寻求长期科技职业发展，我想从真正做到这一点的人那里了解最现实的道路。 我的问题：  是先尝试从印度获得工作机会，还是通过求职者/机会卡和搜索进行搜索更好本地？ 对于拥有 2-3 年经验的人来说，目前的市场竞争如何？ 德语对于柏林的后端/全栈职位有多重要？ 为了获得欧盟蓝卡资格，我的实际薪资范围应该是多少？ 目前德国初创公司最需要什么技术堆栈？ 你犯过哪些我应该避免的错误？  我愿意在接下来的 6-12 个月内提升我的技能并学习德语（目前从 A1 开始）。我只是想确保我专注于来自印度的正确事情。 非常感谢实用的建议，尤其是来自印度或非欧盟国家的人。 提前致谢🙏   由   提交/u/beingsamjdar  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r65apr/indian_software_engineer_2_yoe_planning_to_move/</guid>
+      <pubDate>Mon, 16 Feb 2026 09:36:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究发现，新架构可以将破解 RSA-2048 所需的量子硬件减少十倍</title>
+      <link>https://www.reddit.com/r/programming/comments/1r62p3i/new_architecture_could_cut_quantum_hardware/</link>
+      <description><![CDATA[ 由   提交/u/donutloop  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r62p3i/new_architecture_could_cut_quantum_hardware/</guid>
+      <pubDate>Mon, 16 Feb 2026 06:58:15 GMT</pubDate>
+    </item>
     <item>
       <title>正则表达式匹配可以简单而快速（但在 Java、Perl、PHP、Python、Ruby 等中速度很慢）</title>
       <link>https://www.reddit.com/r/programming/comments/1r5zkb8/regular_expression_matching_can_be_simple_and/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[ 由   提交/u/Low-Engineering-4571   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r5v2kl/building_a_selfhosted_google_trends_alternative/</guid>
       <pubDate>Mon, 16 Feb 2026 00:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>本地 WebSocket：构建无需云即可运行的实时应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1r5quh6/local_websocket_building_realtime_apps_that_work/</link>
-      <description><![CDATA[我发表了一篇文章，介绍我的新 Dart/Flutter 包：`local_websocket`，无需云服务器即可在本地网络上启用实时应用程序，非常适合离线优先、本地或医疗保健系统等隐私敏感用例。 涵盖的主要功能： - 自动设备发现和 LAN WebSocket 通信。 - 纯 Dart 实现服务器扫描功能。 - 仪表板、协作和关键任务应用程序的实用示例。 欢迎就生产使用、重新连接策略或与 Flutter 项目的集成技巧提供反馈。   由   提交 /u/_Flame_Of_Udun_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r5quh6/local_websocket_building_realtime_apps_that_work/</guid>
-      <pubDate>Sun, 15 Feb 2026 21:37:29 GMT</pubDate>
     </item>
     <item>
       <title>代理编码可以提高质量标准吗？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/henk53  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r5cldu/rethinking_java_web_uis_with_jakarta_faces_and/</guid>
       <pubDate>Sun, 15 Feb 2026 11:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>用事务发件箱模式解决微服务中的“双写”问题（Spring Boot + Kafka）</title>
-      <link>https://www.reddit.com/r/programming/comments/1r5agnp/solving_the_dual_write_problem_in_microservices/</link>
-      <description><![CDATA[大家好， 分布式系统中最令人头痛的问题之一是当您需要更新数据库并同时通知另一个服务（通过 Kafka/RabbitMQ）时确保数据一致性。如果数据库提交成功但消息发送失败，则您的系统现在不一致。 我深入研究了事务发件箱模式来解决此问题。 我使用的场景：披萨店订购系统。订单服务会保存订单，但如果发送给库存服务的消息丢失，则您的客户很饿，库存数量也已损坏。 实施中涵盖的内容： “双写入”功能陷阱：为什么当涉及外部代理时，u/Transactional 还不够。 发件箱表：如何将业务逻辑和事件发布视为一个牢不可破的单元。 轮询服务：设置计划的中继服务来查询和发布未处理的事件。 替代方案：简要提及 CDC (Debezium) 和满足更重要求的 Saga 模式。 技术堆栈： Java 21 Spring Boot 3.x Kafka 和 Kafka Docker Desktop PostgreSQL 我提供了一个完整的演示，展示了成功场景（最终一致性）和失败/回滚场景（模拟 10/0 错误以显示发件箱如何防止幽灵消息）。 完整视频深入探讨：https://youtu.be/HK4tH17lljM GitHub 存储库：https://github.com/abchatterjee7 我很想听听你们如何处理分布式事务，你们是团队 Outbox 还是更喜欢 CDC/Debezium这个？   由   提交/u/aadiraj48  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r5agnp/solving_the_dual_write_problem_in_microservices/</guid>
-      <pubDate>Sun, 15 Feb 2026 09:30:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
