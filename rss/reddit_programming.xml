@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 16 Feb 2026 01:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Feb 2026 04:54:09 GMT</lastBuildDate>
+    <item>
+      <title>正则表达式匹配可以简单而快速（但在 Java、Perl、PHP、Python、Ruby 等中速度很慢）</title>
+      <link>https://www.reddit.com/r/programming/comments/1r5zkb8/regular_expression_matching_can_be_simple_and/</link>
+      <description><![CDATA[本文将回溯实现（在许多主流语言中常见）与基于 Thompson NFA 的引擎进行了对比，并展示了某些模式如何导致灾难性的指数行为。它包括基准测试和简化的实现说明。 尽管是 2007 年的内容，但性能权衡和算法讨论在今天仍然具有现实意义。   由   提交 /u/Digitalunicon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r5zkb8/regular_expression_matching_can_be_simple_and/</guid>
+      <pubDate>Mon, 16 Feb 2026 04:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何使用 JWT 保护 .NET Minimal API（分步说明）</title>
+      <link>https://www.reddit.com/r/programming/comments/1r5xzhh/how_i_secured_a_net_minimal_api_using_jwt/</link>
+      <description><![CDATA[ 由   提交/u/digitaltechj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r5xzhh/how_i_secured_a_net_minimal_api_using_jwt/</guid>
+      <pubDate>Mon, 16 Feb 2026 02:54:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建基于浏览器的 3D 建模应用程序（技术概述）</title>
+      <link>https://www.reddit.com/r/programming/comments/1r5vuzv/how_to_build_a_browserbased_3d_modeling_app/</link>
+      <description><![CDATA[对于任何对基于浏览器的 3D 建模感兴趣的人，这里详细介绍了可用于在网络上实现完整建模工作流程的技术方法。 渲染和渲染stack  Three.js 处理所有 3D 渲染。 所有核心逻辑均用纯 JavaScript 编写。 Supabase 用于身份验证（注册/登录）并作为后端/数据库。  核心网格表示 而不是编辑直接使用 Three.js 几何图形，我基于顶点-边缘-面 (VEF) 邻接网格构建了一个自定义网格数据结构。  所有建模操作（拉伸、移动、分割等）都在此网格数据上进行。 每次操作后，网格数据都会转换为 BufferGeometry。 然后将该几何图形传递给 Three.js，纯粹是为了  这种分离使建模逻辑独立于渲染器，并允许直接表示多边形面，包括四边形，而不是将所有内容强制转换为三角形，这不适合 3D 建模工作流程。 撤消/重做 每个建模操作都存储为命令（命令模式样式）：  命令知道如何应用和执行恢复他们的更改。 撤消/重做只是在命令堆栈中向后或向前移动。  编辑助手和编辑助手。场景  顶点、边缘和面助手只是轻量级的 BufferGeometry 对象。 这些助手位于专用的编辑场景中。 实际对象位于主场景中，这使得您可以轻松地： 循环遍历对象以获取轮廓 基于光线投射的轻松选择 将视觉效果编辑与最终几何图形分开   建模的基本工具 您不需要很多工具即可开始 3D 建模。核心是选择、移动、旋转、缩放、拉伸、循环切割、刀具、删除和创建边缘/面。 这些足以对大多数基本形状进行建模。其他工具主要是为了方便或处理更复杂的特定情况而存在，并且通常是在这些基础知识之后构建的。 数学要求 您不需要硬核图形编程，但您确实需要：  线性代数基础知识（向量、矩阵） 3D 空间中的变换 小玩意的四元数旋转 网格操作的可靠算法思维  大多数困难不是纯数学，而是设计强大的数据结构并编写干净的几何操作算法。 要点 如果您正在考虑在网络上构建 3D 建模工具：  将渲染器视为查看器，而不是您的来源真相 构建您自己的网格数据模型 尽早使用基于命令的操作  希望这可以帮助任何探索基于浏览器的 3D 工具的人。   由   提交 /u/Sengchor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1r5vuzv/how_to_build_a_browserbased_3d_modeling_app/</guid>
+      <pubDate>Mon, 16 Feb 2026 01:14:06 GMT</pubDate>
+    </item>
     <item>
       <title>使用 DuckDB 构建自托管 Google Trends 替代方案</title>
       <link>https://www.reddit.com/r/programming/comments/1r5v2kl/building_a_selfhosted_google_trends_alternative/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好， 分布式系统中最令人头痛的问题之一是当您需要更新数据库并同时通知另一个服务（通过 Kafka/RabbitMQ）时确保数据一致性。如果数据库提交成功但消息发送失败，则您的系统现在不一致。 我深入研究了事务发件箱模式来解决此问题。 我使用的场景：披萨店订购系统。订单服务会保存订单，但如果发送给库存服务的消息丢失，则您的客户很饿，库存数量也已损坏。 实施中涵盖的内容： “双写入”功能陷阱：为什么当涉及外部代理时，u/Transactional 还不够。 发件箱表：如何将业务逻辑和事件发布视为一个牢不可破的单元。 轮询服务：设置计划的中继服务来查询和发布未处理的事件。 替代方案：简要提及 CDC (Debezium) 和满足更重要求的 Saga 模式。 技术堆栈： Java 21 Spring Boot 3.x Kafka 和 Kafka Docker Desktop PostgreSQL 我提供了一个完整的演示，展示了成功场景（最终一致性）和失败/回滚场景（模拟 10/0 错误以显示发件箱如何防止幽灵消息）。 完整视频深入探讨：https://youtu.be/HK4tH17lljM GitHub 存储库：https://github.com/abchatterjee7 我很想听听你们如何处理分布式事务，你们是团队 Outbox 还是更喜欢 CDC/Debezium这个？   由   提交/u/aadiraj48  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r5agnp/solving_the_dual_write_problem_in_microservices/</guid>
       <pubDate>Sun, 15 Feb 2026 09:30:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>包管理命名空间</title>
-      <link>https://www.reddit.com/r/programming/comments/1r59xjq/package_management_namespaces/</link>
-      <description><![CDATA[ 由   提交/u/max123246  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r59xjq/package_management_namespaces/</guid>
-      <pubDate>Sun, 15 Feb 2026 08:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程的未来两年</title>
-      <link>https://www.reddit.com/r/programming/comments/1r58zqv/the_next_two_years_of_software_engineering/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r58zqv/the_next_two_years_of_software_engineering/</guid>
-      <pubDate>Sun, 15 Feb 2026 07:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年安全工程师需要了解的量子密码学知识（流行语之外）</title>
-      <link>https://www.reddit.com/r/programming/comments/1r4r7v4/what_security_engineers_need_to_know_about/</link>
-      <description><![CDATA[对 PQC 与 QKD、混合模式进行诚实的技术评估，以及为什么修复基本的安全卫生比现在担心量子计算机更重要。 https://cybernews-node.blogspot.com/2026/02/quantum-cryptography-in-2026-still-more.html   由   提交 /u/No_Fisherman1212   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1r4r7v4/what_security_engineers_need_to_know_about/</guid>
-      <pubDate>Sat, 14 Feb 2026 17:57:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
