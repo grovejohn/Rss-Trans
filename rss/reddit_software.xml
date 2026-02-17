@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 17 Feb 2026 12:34:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 15:40:23 GMT</lastBuildDate>
+    <item>
+      <title>建立一个新的 Discord 需要什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1r76815/what_would_it_take_to_build_a_new_discord/</link>
+      <description><![CDATA[我希望这适合这个 Reddit 子版块。  因此，随着欧盟试图摆脱美国技术，Discord 就是最近的一个例子，它具有面部 ID 和安全漏洞。我想知道：构建一个 Discord 替代品需要什么？ 让我们假设大部分部分都是克隆的，以使其变得容易。 我从哪里开始？我该联系谁？我需要什么样的人和类型的程序员？  不再在 Google 系统上安装服务器是否现实？ 您对此有何看法？作为一个十足的菜鸟，我想，现在如果有合适的团队，构建起来应该不会那么困难？钱可能是另一个问题。 ^^ 同时。如果有机会，您会向 Discord 添加什么内容？ 我正在考虑多个帐户设置。例如，能够更好地将工作和私人联系分开。   由   提交 /u/Doomwaffel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r76815/what_would_it_take_to_build_a_new_discord/</guid>
+      <pubDate>Tue, 17 Feb 2026 13:37:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Readwise 和 Reader 被抛弃的担忧</title>
+      <link>https://www.reddit.com/r/software/comments/1r760o9/concern_about_readwise_and_reader_becoming/</link>
+      <description><![CDATA[ 由   提交 /u/OpenExpression993   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r760o9/concern_about_readwise_and_reader_becoming/</guid>
+      <pubDate>Tue, 17 Feb 2026 13:29:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人试过月光弹跳吗？日常生活实际上是什么样的？</title>
+      <link>https://www.reddit.com/r/software/comments/1r7542e/anyone_tried_moonbounce_whats_it_actually_like/</link>
+      <description><![CDATA[我不断看到这个名为 Moonbounce 的扩展程序在随机的地方弹出，我有点明白了这个想法，但也不明白？ 据我所知，它添加了诸如……角色和网站上的聊天功能？它真的很有趣还是只是一个你安装一次就忘记的噱头？ 好奇这里是否有人使用它超过几天以及你实际上用它做什么。   由   提交/u/geoffmoorestudio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1r7542e/anyone_tried_moonbounce_whats_it_actually_like/</guid>
+      <pubDate>Tue, 17 Feb 2026 12:48:44 GMT</pubDate>
+    </item>
     <item>
       <title>代理人工智能团队是否正在成为人们想要的真正产品？是否有人已经尝试将其作为一项业务出售？</title>
       <link>https://www.reddit.com/r/software/comments/1r72pp1/are_agentic_ai_teams_becoming_a_real_product/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[所以，我记得很清楚。这是一个来自一个人的视频，他制作了一个用于传输和/或存储文件的新程序。我记得它真的很方便，支持 40 个不同的平台和一堆文件格式。最方便的事情是启动它所需的只是下载一个 python 文件。我还相信它有一个 Android 应用程序。  无论如何，令我非常沮丧的是，我现在似乎找不到它，因为我实际上想使用它。我想自从我看到它以来已经一年多了，可能会更多。    由   提交 /u/Filosofen42   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1r6n3ik/im_looking_for_a_youtube_videoprogram_about_file/</guid>
       <pubDate>Mon, 16 Feb 2026 21:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在没有本机控制器支持的情况下在游戏中使用控制器的最佳软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1r6n2kw/best_software_for_using_a_controller_on_a_game/</link>
-      <description><![CDATA[如果我想在本身不支持控制器的电脑游戏上使用控制器，我很好奇您会建议我使用什么控制器？   由   提交 /u/SHANGR1-LA_Racc00n   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r6n2kw/best_software_for_using_a_controller_on_a_game/</guid>
-      <pubDate>Mon, 16 Feb 2026 21:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 的自动点击器代码要求</title>
-      <link>https://www.reddit.com/r/software/comments/1r6n0wc/auto_clicker_code_requirement_for_chatgpt/</link>
-      <description><![CDATA[我一直在寻找一个键盘自动答题器，经过几次尝试才确定了要求，现在它可以工作了。节省了我尝试找出代码的时间。聊天 GPT 很棒。如果有人正在寻找自动点击器，这是我对 ChatGPT 的要求： 创建一个自动按下键盘按钮的 python 脚本，满足以下要求：  用户可以选择要按下的按钮 用户可以选择要按连续顺序按下的一个或多个按钮 用户可以选择重复按下按钮的速度 用户可以选择而不是循环一段时间或无限期，并且都可以使用热键停止 用户可以在 GUI 中管理所有内容 按下自动按钮可与其他正在运行的程序一起使用 绿色或红色圆形图标指示程序状态（正在运行或停止）    由   提交 /u/UndeadBady   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r6n0wc/auto_clicker_code_requirement_for_chatgpt/</guid>
-      <pubDate>Mon, 16 Feb 2026 21:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>全屏时出现故障并显示桌面</title>
-      <link>https://www.reddit.com/r/software/comments/1r6ms19/glitching_and_showing_desktop_when_in_fullscreen/</link>
-      <description><![CDATA[ 由   提交 /u/Imaginary_Newt_1237   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r6ms19/glitching_and_showing_desktop_when_in_fullscreen/</guid>
-      <pubDate>Mon, 16 Feb 2026 21:37:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
