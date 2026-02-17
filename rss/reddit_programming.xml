@@ -4,32 +4,32 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 17 Feb 2026 01:01:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 04:46:49 GMT</lastBuildDate>
     <item>
       <title>像巫师一样测试您的 PostgreSQL 数据库</title>
       <link>https://www.reddit.com/r/programming/comments/1r6rtoz/test_your_postgresql_database_like_a_sorcerer/</link>
-      <description><![CDATA[In this article, I show how you can write powerful PostgreSQL tests via Spawn (a CLI), in a way that reduces a lot of boilerplate, uses a single binary (with no extension needed in postgres), and sourcing data for your tests from JSON files.我一直在使用它来测试复杂的触发器和函数，效果非常好。   由   提交 /u/Winsaucerer   [link] [评论]]]></description>
+      <description><![CDATA[在本文中，我将展示如何通过 Spawn（CLI）编写强大的 PostgreSQL 测试，以减少大量样板文件的方式，使用单个二进制文件（postgres 中不需要扩展），并从 JSON 文件获取测试数据。我一直在使用它来测试复杂的触发器和函数，效果非常好。   由   提交 /u/Winsaucerer   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r6rtoz/test_your_postgresql_database_like_a_sorcerer/</guid>
       <pubDate>Tue, 17 Feb 2026 01:01:19 GMT</pubDate>
     </item>
     <item>
       <title>人工智能正在摧毁开源，而且还不好</title>
       <link>https://www.reddit.com/r/programming/comments/1r6qseh/ai_is_destroying_open_source_and_its_not_even/</link>
-      <description><![CDATA[ 由   提交 /u/BlueGoliath   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r6qseh/ai_is_destroying_open_source_and_its_not_even/</guid>
       <pubDate>Tue, 17 Feb 2026 00:15:56 GMT</pubDate>
     </item>
     <item>
       <title>使用振动代码，还是不使用振动代码？</title>
       <link>https://www.reddit.com/r/programming/comments/1r6qpe0/to_vibe_code_or_not_to_vibe_code/</link>
-      <description><![CDATA[ 由   提交 /u/Lanayx   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Lanayx  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r6qpe0/to_vibe_code_or_not_to_vibe_code/</guid>
       <pubDate>Tue, 17 Feb 2026 00:12:25 GMT</pubDate>
     </item>
     <item>
       <title>海豚模拟器 - 三角力量的崛起</title>
       <link>https://www.reddit.com/r/programming/comments/1r6qp4y/dolphin_emulator_rise_of_the_triforce/</link>
-      <description><![CDATA[ 由   提交 /u/Totherex   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Totherex  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r6qp4y/dolphin_emulator_rise_of_the_triforce/</guid>
       <pubDate>Tue, 17 Feb 2026 00:12:08 GMT</pubDate>
     </item>
@@ -41,9 +41,9 @@
       <pubDate>Tue, 17 Feb 2026 00:01:51 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>常见的异步合并模式</title>
       <link>https://www.reddit.com/r/programming/comments/1r6pcec/common_async_coalescing_patterns/</link>
-      <description><![CDATA[ 由   提交 /u/Happycodeine   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/Happycodeine   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1r6pcec/common_async_coalescing_patterns/</guid>
       <pubDate>Mon, 16 Feb 2026 23:16:27 GMT</pubDate>
     </item>
