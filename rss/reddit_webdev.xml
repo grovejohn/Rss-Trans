@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 17 Feb 2026 09:38:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Feb 2026 12:34:59 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个永久免费的开源工具，用于更快的错误报告和用户反馈：屏幕+语音→AI-ready markdown</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r74gz1/i_made_a_free_forever_opensource_tool_for_faster/</link>
+      <description><![CDATA[   /u/eddiesj22  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r74gz1/i_made_a_free_forever_opensource_tool_for_faster/</guid>
+      <pubDate>Tue, 17 Feb 2026 12:17:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要安装 Yii2 的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r74ctg/need_help_installing_yii2/</link>
+      <description><![CDATA[       https://preview.redd.it/qtku0lvwp1kg1.png?width=1913&amp;format=png&amp;auto=webp&amp;s=4caf69d7aea458a0c806fae2e36f97c54f2b695f 我正在尝试在没有 Composer 的情况下安装 Yii2。我已经创建了一个主机，解压了存档，并链接了数据库，但是当我尝试启动页面本身时，我收到消息“此页面当前无法工作。”有谁知道可能导致此问题的原因是什么？ ChatGPT 建议检查主机文件夹，一切都已就位。   由   提交 /u/Ancient-Scratch8820   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r74ctg/need_help_installing_yii2/</guid>
+      <pubDate>Tue, 17 Feb 2026 12:11:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了 GitShow：在视觉开发人员组合的任何配置文件 URL 中将“github.com”替换为“gitshow.dev”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r74arp/i_built_gitshow_replace_githubcom_with_gitshowdev/</link>
+      <description><![CDATA[GitHub 配置文件显示存储库的平面列表。我想要一些能讲述更好故事的东西。 **它是如何工作的：**替换“github.com”与“gitshow.dev”在任何 GitHub 配置文件 URL 中。 `github.com/username` → `gitshow.dev/username` 它显示 GitHub 没有的内容： - **npm 下载统计** - 所有包的每月总下载量，以及每个包的条形图 - **自动分类项目** - 按实际内容分组的存储库（MCP 服务器、CLI 工具、React 和 UI、基于语言、主题和描述的 DevOps 等） - **技术堆栈栏** - 可视化语言细分 - **重点领域** - 聚合主题云显示您的专长 - **项目时间表** - 当您交付项目时，而不仅仅是当您提交时 一些可供尝试的配置文件： - [gitshow.dev/sindresorhus](https://gitshow.dev/sindresorhus) - 90 个项目，43B npm 下载/月 - [gitshow.dev/torvalds](https://gitshow.dev/torvalds) - 6 个存储库，225k 星 - [gitshow.dev/ThePrimeagen](https://gitshow.dev/ThePrimeagen) - Rust、JS、TS、Lua 跨越 89 个存储库 - [gitshow.dev/t3dotgg](https://gitshow.dev/t3dotgg) - 76 个项目，180 万个 npm dl/mo **堆栈：** Next.js 16、TypeScript、Tailwind CSS、Vercel。 GitHub REST API + npm 注册表 API。具有 1 小时缓存的 ISR。 **来源：** [github.com/ofershap/gitshow](https://github.com/ofershap/gitshow) 您还希望在开发者组合页面上看到什么？   由   提交/u/ofershap  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r74arp/i_built_gitshow_replace_githubcom_with_gitshowdev/</guid>
+      <pubDate>Tue, 17 Feb 2026 12:09:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以仅凭 WebDev 副学士学位就获得 6 位数的工作职位吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r73ibb/could_i_land_a_6_figure_job_position_with_only_a/</link>
+      <description><![CDATA[如果这里不是提供职业问题和职业建议的地方，提前抱歉。 几个月后，我就从西班牙一所公立学校的 Web 开发副学士学位毕业了，自从我开始学习以来，我一直都有雄心勃勃的目标，但是，我意识到 Web 开发副学士学位可能会低于我的期望，而这大多是 6 位数的薪水，得益于我的课程，我能够从西班牙搬到美国或加拿大。  我正在寻找现实检查，如果可能的话，建议如何做才能拥有价值六位数薪水的课程，即使只有西班牙公立学校的副学士学位。  寻找与技术无关的项目、技术、技能。例如，我读了很多有关经济的书籍，并且我对宏观经济学的广泛知识非常感兴趣。我还喜欢数据分析，并且计划构建体育博彩、加密货币、股票和预测市场的套利机器人，因为我对数据管理非常热衷。 我可以将我的编程技能与其他类似技能结合起来，以获得一份“高”薪工作和一个足以成为移居北美的有吸引力的候选人的课程吗？ 谢谢！   由   提交 /u/FishermanParty   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r73ibb/could_i_land_a_6_figure_job_position_with_only_a/</guid>
+      <pubDate>Tue, 17 Feb 2026 11:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用常规网站构建器可以做到这一点吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r738gr/is_this_possible_to_do_using_a_regular_website/</link>
+      <description><![CDATA[      嗨！ 我是一名自由漫画艺术家，使用 Wix 制作了我的作品集，因为我对编码或网页设计知之甚少。 我的想法是让它看起来像漫画书页面，您可以单击不同的面板来访问网站的相应页面。 虽然实际上将页面放在一起，但我找不到一种方法来做到这一点，我能想到的最好办法就是使用文本作为按钮。 我不太喜欢他们提供的字体，而且文本会四处移动，有时会根据屏幕的分辨率进行划分，这种情况在手机中经常发生。所以，是的，我想知道是否可以回到最初的想法并使实际的面板可点击。这样我就可以更好地定制整个内容，并将文本放在看起来最好的地方，而不是会产生较少问题的地方。 使用网站构建器是否可以做到这一点，或者这里最好的解决方案是什么？ 非常感谢您的帮助，我希望可以在这里发布。 感谢您的阅读！ 🙏   由   提交/u/Admirable_Charge4265   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r738gr/is_this_possible_to_do_using_a_regular_website/</guid>
+      <pubDate>Tue, 17 Feb 2026 11:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否构建了 SaaS 并失败了，您认为它失败的原因是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r736wu/have_you_build_a_saas_failed_why_do_you_think_it/</link>
+      <description><![CDATA[一切顺利&amp;很高兴听到成功的故事，但我很少听到失败的故事和失败的故事。我很想听听这个故事，因为毫无疑问有很多这样的故事   由   提交 /u/Mindless-Fly2086   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r736wu/have_you_build_a_saas_failed_why_do_you_think_it/</guid>
+      <pubDate>Tue, 17 Feb 2026 11:09:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>更轻松地搜索 Drupal 模块</title>
+      <link>https://www.reddit.com/r/webdev/comments/1r71q9w/easier_search_for_drupal_modules/</link>
+      <description><![CDATA[如果您是 Drupal 用户或开发人员，正在寻找一种更简单的方法来搜索要在项目中使用的 Drupal 模块，这里有一个简单的工具可以帮助您。   由   提交/u/Developer_Dennis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1r71q9w/easier_search_for_drupal_modules/</guid>
+      <pubDate>Tue, 17 Feb 2026 09:41:05 GMT</pubDate>
+    </item>
     <item>
       <title>Socio - WebSocket 实时通信 (RTC) API 全栈框架</title>
       <link>https://www.reddit.com/r/webdev/comments/1r71dmn/socio_a_websocket_realtime_communication_rtc_api/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[您好，感谢您花时间帮助我的高级项目。我有兴趣成为一名 Web 开发人员，并且很想了解您在该领域的经验。  您是如何进入这个职业的？ 在进入这个职业之前您做了什么？ 典型的一天是怎样的？ 您的职责是什么？ 您有什么建议？准备在这个领域工作的人有什么经验？ 什么课程和/或高级学位对我有帮助？ 进入这个领域需要什么经验？ 你最喜欢/最不喜欢你的工作？ 你是如何进入这个组织行业的 还有哪些其他经验？您曾经工作过的组织吗？ 描述您的工作环境。 您所在领域的发展和晋升潜力如何？ 目前，您所在领域的职位有多安全？ 该领域的哪些领域正在发展/变化 该领域的典型起薪范围是多少字段？    由   提交/u/SunIndependent6200  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1r6y6hh/high_school_senior_looking_for_a_interview_web/</guid>
       <pubDate>Tue, 17 Feb 2026 06:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>您永远不会忘记的一个工作日，发生了什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r6xmvm/that_one_workday_you_will_never_forget_what/</link>
-      <description><![CDATA[对我来说，这发生在我在保险行业工作时。一天早上 8:30 左右，弹出一条有关严重生产错误的消息。那天我开始得早一些，我的团队中没有其他人回应。由于我已经在线，所以我说我会看一下。 我原以为快速检查变成了两个小时的深入日志、跟踪代码并试图了解问题所在。我终于找到了问题并提出了解决方案。由于压力和紧迫性，我跳过了完整的单元测试。我们推出了热修复程序，希望能有所缓解。相反，它让事情变得更糟。 在那一刻，我的心真的沉下去了。我们必须把一切都回滚并重新开始，这次做得正确。尽管我的上级非常支持，但这仍然是我经历过的压力最大的日子之一。到最后，我已经筋疲力尽，只是庆幸这一天结束了。 很想听听你的。作为一名开发人员，哪一天真正考验了您？   由   提交 /u/LifespanLearner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r6xmvm/that_one_workday_you_will_never_forget_what/</guid>
-      <pubDate>Tue, 17 Feb 2026 05:34:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>当人工智能的需求不断增长时，作为一名开发人员，您如何跟上步伐？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r6w8b1/how_do_you_keep_up_as_a_developer_when_the_demand/</link>
-      <description><![CDATA[标题几乎就是帖子。我作为一名自学成才的开发人员已有 20 多年的历史（也接受过正规教育）。我看到了 Web 开发（CMS、网站构建器等）的不同趋势，但有了人工智能，每个人都认为自己是开发人员。 越来越多的人会提示他们需要什么，而不是让真正的开发人员构建他们需要的东西。如果你问我，这有点可怕。 我为州政府工作，最近我看到整个部门因为人工智能而被取代。   由   提交 /u/boredrhino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r6w8b1/how_do_you_keep_up_as_a_developer_when_the_demand/</guid>
-      <pubDate>Tue, 17 Feb 2026 04:22:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>摄影作品集的 CMS 选项？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r6ur3s/cms_options_for_photography_portfolio/</link>
-      <description><![CDATA[嗨朋友们， 我想快速建立一个简单的摄影作品集。我想避免使用 Wix 或 Squarespace 之类的东西，这样我就可以完全控制外观并自己构建前端。 我一开始可以自己对所有图像进行硬编码，但希望以后能有一些更动态的东西，以便我可以轻松更新它。 我们都喜欢哪些后端 CMS 选项，特别是对于以图像为中心的网站？  我之前在之前的项目中使用过 Sanity，但我不喜欢他们如何托管上传到自己的 CDN 的图像，但在其他方面喜欢它的可定制性和轻量级。我的其他主要经历是 WordPress，但由于各种原因我不喜欢它。    由   提交/u/mrsaberhagen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r6ur3s/cms_options_for_photography_portfolio/</guid>
-      <pubDate>Tue, 17 Feb 2026 03:11:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了使用 certbot / acme.sh 之外，你们如何生成 SSL？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r6twkb/how_do_you_guys_generate_ssl_other_than_using/</link>
-      <description><![CDATA[在遥远的过去，我们有数千个网站免费为我们生成 SSL，信息最少。既然 ZeroSSL 已经有效地购买了所有这些并将其转换为付费服务，那么还有哪些替代方案？   由   提交 /u/lakimens   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r6twkb/how_do_you_guys_generate_ssl_other_than_using/</guid>
-      <pubDate>Tue, 17 Feb 2026 02:33:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我为我的吉他老师制作的网站！（：</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r6tu3h/rate_the_website_i_made_for_my_guitar_teacher/</link>
-      <description><![CDATA[为我的吉他老师构建了一个小型登陆页面并刚刚启动。希望得到一些关于设计、布局和整体感觉的诚实反馈，您会改进哪些方面？由   提交/u/No-Vegetable5956   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r6tu3h/rate_the_website_i_made_for_my_guitar_teacher/</guid>
-      <pubDate>Tue, 17 Feb 2026 02:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个具有拖放功能和零广告的视频下载器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r6t6qi/built_a_video_downloader_with_drag_drop_and_zero/</link>
-      <description><![CDATA[      大多数 TikTok/YouTube 下载器看起来像是 2005 年设计的，并且 90% 都是广告。 构建 dltkk 时使用： - 拖放下拉界面 - 零广告（押注于增长而非盈利） - 移动优先响应式设计 - 格式化选择卡（不是下拉菜单） - 实时预览反馈 堆栈： - 后端：Node.js + Express + yt-dlp - 前端：Vanilla JS（无框架） -托管：Ubuntu VPS - 设计：自定义，无模板 实时：dltkk.to 理念：出色的用户体验&gt;即时广告收入。计划以 1k/天的速度获利。   由   提交/u/Strong-Goalie   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r6t6qi/built_a_video_downloader_with_drag_drop_and_zero/</guid>
-      <pubDate>Tue, 17 Feb 2026 02:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使指定 https 后也会出现混合内容错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1r6rmum/getting_mixed_content_errors_even_after/</link>
-      <description><![CDATA[编辑 - 解决了它。最后放弃并将引用更改为“../../path_to_file”它似乎有效。  我已经准备好在这里敲头了。 我正在改造一个古老的网站，使其适合移动设备，淘汰旧的表格布局，等等。 直到今天我已经取得了很大的进步，突然之间，我的CSS都消失了。如果我在 Chrome 中检查，我会看到一些这样的废话：  混合内容：“”处的页面已通过 HTTPS 加载，但请求了不安全的样式表“”。该请求已被阻止；内容必须通过 HTTPS 提供。  对所有本地 css 和 js 包含重复此操作。 好的，很好。因此，我进入 head include 部分，并显式地将所有 CSS 和 JS 包含设置为 https://doman.net/path_to_file 并且它什么也不做。 尝试做 //domain.net/path_to_file - 什么也没做。 我可以查看页面源代码，并且它在这些文件包含上明确表示 https。对整个站点源文件夹进行查找/替换显示零个非 https 包含。 我使用的是 cloudflare 以及“始终使用 HTTPS”和“始终使用 HTTPS”。和“自动HTTPS重写”设置为开。如果我也尝试强制使用 htaccess 文件，它会创建一个无限的重定向循环 - 可能是旧 CMS 的遗物。 有什么想法吗？这看起来应该很简单，但我似乎找不到答案。   由   提交/u/sufferingcubsfan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1r6rmum/getting_mixed_content_errors_even_after/</guid>
-      <pubDate>Tue, 17 Feb 2026 00:53:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
