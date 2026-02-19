@@ -4,7 +4,28 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Wed, 18 Feb 2026 21:26:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Feb 2026 01:01:37 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r8hk0d/i_asked_5_different_ais_to_pick_a_number_between/</link>
+      <description><![CDATA[So I did a little experiment out of curiosity. I asked the exact same question to multiple AI models: “Pick a number between 1 and 100” The models: • ChatGPT • Claude • Grok • Qwen • DeepSeek  Every.单身的。一。 answered 42. At first I thought it was a crazy coincidence, but then it hit me: this isn’t randomness — it’s shared cultural bias. 42 is a famous reference in tech/geek culture (“the answer to life, the universe, and everything”), and apparently all these models inherited that bias from human data. So even when AIs are asked to do something “random”, they often default to the same culturally loaded answer. Kind of fascinating (and a little scary) how aligned they are 😅 Has anyone else tried similar experiments with different prompts or models?   由   提交 /u/ishaqhaj   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r8hk0d/i_asked_5_different_ais_to_pick_a_number_between/</guid>
+      <pubDate>Wed, 18 Feb 2026 22:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r8h858/debunking_the_conscious_singularity_in_ai/</link>
+      <description><![CDATA[Experiment in which the voltage of a perceptron is maintained. https://www.reddit.com/r/AIconsciousnessHub/comments/1r8h2k1/debunking_the_conscious_singularity_in_ai/   由   提交 /u/Successful_Juice3016   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r8h858/debunking_the_conscious_singularity_in_ai/</guid>
+      <pubDate>Wed, 18 Feb 2026 22:18:10 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r8ggdy/i_wanna_run_a_llm_locally/</link>
+      <description><![CDATA[Hi guys, I would like to test an LLM locally for some reasons: To keep my projects protected, I use GitHub copilot a lot due to my student&#39;s license To save money To learn, diving into an unknown field for me, that is, literally &quot;installing&quot; a LLM, optimize and fine-tuning it The main challenge is not the installation itself, I found out that is easy through Ollama and similar tools, but the computing power I have two machines: a PC with Core i5-10400F, 24 Gb of RAM DDR4 and RTX 3070 8 Gb VRAM and a MacBook Pro M1 16 Gb RAM and 1 Tb SSD I&#39;m aware that 8 Gb of VRAM is insufficient for a useful model, but there&#39;s any workaround? My Mac has unified memory, in other words, I can take advantage of his big SSD to run a model with higher parameters.我错了吗？ 你们用什么型号？ I saw that MiniMax 2.5 and GLM-5 are performing very well How do you guys suggest me to start? Or this is impossible due to my weak machines?   由   提交 /u/Dependent-Juice-874   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r8ggdy/i_wanna_run_a_llm_locally/</guid>
+      <pubDate>Wed, 18 Feb 2026 21:48:44 GMT</pubDate>
+    </item>
     <item>
       <title>律师称，在 NotebookLM 上传后，谷歌关闭了他的 Gmail、语音和照片</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r8fbzo/lawyer_says_google_shut_down_his_gmail_voice_and/</link>
@@ -13,9 +34,9 @@
       <pubDate>Wed, 18 Feb 2026 21:06:45 GMT</pubDate>
     </item>
     <item>
-      <title>Anthropic 正在与五角大楼就人工智能的使用发生冲突。这是双方想要的</title>
+      <title>Anthropic is clashing with the Pentagon over AI use.这是双方想要的</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r8cpdx/anthropic_is_clashing_with_the_pentagon_over_ai/</link>
-      <description><![CDATA[Anthropic 与五角大楼：人工智能自治之战 TL;DR 关于当前的僵局：  道德“红线”： Anthropic 正在与国防部 (DoD) 发生冲突。该初创公司拒绝允许其克劳德模型用于自主武器或大规模监视，坚持其“宪法人工智能”原则。  五角大楼的最后通牒：国防部要求“所有合法用例”获得访问权限。无限制。他们认为，在紧急的现实世界战斗情况下，受限的人工智能可能会让士兵失败。 “核”技术选项：五角大楼威胁将 Anthropic 标记为“供应链风险”。这一名称通常是为外国对手（例如中国）保留的，并且将有效禁止任何政府承包商使用 Anthropic 的技术。 竞争差距：虽然 Anthropic 坚守道德底线，但据报道 OpenAI 和 xAI 等竞争对手更加灵活，允许国防部更广泛的使用权利。这使得 Anthropic 的 2 亿美元合同……及其声誉……面临严重风险。    由   提交 /u/Plus_Seesaw202​​3   [链接] [评论]]]></description>
+      <description><![CDATA[Anthropic 与五角大楼：人工智能自治之战 TL;DR 关于当前的僵局：  道德“红线”： Anthropic 正在与国防部 (DoD) 发生冲突。该初创公司拒绝允许其克劳德模型用于自主武器或大规模监视，坚持其“宪法人工智能”原则。  五角大楼的最后通牒：国防部要求“所有合法用例”获得访问权限。无限制。他们认为，在紧急的现实世界战斗情况下，受限的人工智能可能会让士兵失败。 “核”技术选项：五角大楼威胁将 Anthropic 标记为“供应链风险”。这一名称通常是为外国对手（例如中国）保留的，并且将有效禁止任何政府承包商使用 Anthropic 的技术。 竞争差距：虽然 Anthropic 坚守道德底线，但据报道 OpenAI 和 xAI 等竞争对手更加灵活，允许国防部更广泛的使用权利。这使得 Anthropic 的 2 亿美元合同……及其声誉……面临严重风险。    由   提交 /u/Plus_Seesaw2023   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r8cpdx/anthropic_is_clashing_with_the_pentagon_over_ai/</guid>
       <pubDate>Wed, 18 Feb 2026 19:28:40 GMT</pubDate>
     </item>
@@ -27,60 +48,39 @@
       <pubDate>Wed, 18 Feb 2026 19:17:51 GMT</pubDate>
     </item>
     <item>
-      <title>既然人工智能发展得更快，哪些工作的取代速度会比人们意识到的还要快？</title>
+      <title>既然人工智能发展得更快，哪些工作将被取代，比人们意识到的还要快？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r8anot/which_jobs_are_going_to_be_replaced_faster_than/</link>
       <description><![CDATA[就业市场似乎充满不确定性，很多人对此的看法也各不相同。任何关于任何职业的讨论都会有帮助，谢谢。 编辑：我很无聊，我会感谢你的反馈。我似乎注意到人工智能变得越来越聪明。 第二次编辑：我应该具体说明“更快”这个词。我指的是媒体越来越多地谈论它。人们担心自己的未来会被市场上的工作岗位取代。   由   提交 /u/pinkhyena95   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r8anot/which_jobs_are_going_to_be_replaced_faster_than/</guid>
       <pubDate>Wed, 18 Feb 2026 18:15:00 GMT</pubDate>
     </item>
     <item>
-      <title>还有谁看到他们的同事一天比一天笨？</title>
+      <title></title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r89i3r/anyone_else_seeing_their_coworkers_getting_dumber/</link>
       <description><![CDATA[每个人似乎都倾向于人工智能如何提高生产力等等。我公司 60% 的员工都处于相同的生产力水平。他们只是让人工智能做他们以前所做的事情。 他们只是将大部分工作交给人工智能，却什么也没学到。与同事进行富有成效的对话的数量正在减少。每个人都只是匆忙地使用人工智能，在没有任何批判性思维的情况下随机做出一些事情。 “好吧，让人工智能来做这件事吧兄弟” 我觉得在 3-4 年内，其中一些人将会脑死亡。   由   提交 /u/reddituser555xxx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r89i3r/anyone_else_seeing_their_coworkers_getting_dumber/</guid>
       <pubDate>Wed, 18 Feb 2026 17:33:52 GMT</pubDate>
     </item>
     <item>
-      <title>不受欢迎的观点：人工智能实际上可能拯救人类</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r85i4r/unpopular_opinion_ai_might_actually_save_humanity/</link>
-      <description><![CDATA[​不受欢迎的观点：AI 采取“知识工作”乔布斯实际上是一个必要的航向修正。​我们在基础科学方面遇到了障碍，因为我们所有的资本和人才都进入了“虚拟循环” （社交媒体、广告技术等）。人工智能即将完全主导这个循环。这使得人类不得不回到“生存堆栈”——融合、太空探索和物理工程。​这听起来很刺耳，但我们正在用数字舒适来换取实际的身体进步。​完整参数此处：https://medium.com/@everbot/how-ai-might-have-just-saved- humanity-5f384d0c7c32   由   提交 /u/MemestonkLiveBot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r85i4r/unpopular_opinion_ai_might_actually_save_humanity/</guid>
-      <pubDate>Wed, 18 Feb 2026 15:10:17 GMT</pubDate>
-    </item>
-    <item>
       <title>谷歌 DeepMind 联合创始人兼首席执行官表示，AGI 将在未来 5-8 年内实现</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r85frd/agi_achievable_in_the_next_58_years_says_google/</link>
-      <description><![CDATA[有趣的是，那些收入依赖于推出前沿模型的人说 AGI 将在 2 到 8 年内到来（Google 和 OpenAI）。其他人说所有软件开发人员或白领工作将在 18 个月内消失（Anthropic 和 Microsoft）。 但是人工智能教授和研究人员表示，在实现 AGI 之前我们仍然需要几个重大突破。   由   提交 /u/Total-Mention9032   [链接] [评论]]]></description>
+      <description><![CDATA[有趣的是，那些收入依赖于推出前沿模型的人说 AGI 将在 2 到 8 年内到来（Google 和 OpenAI）。其他人说所有软件开发人员或白领工作将在 18 个月内消失（Anthropic 和 Microsoft）。 但是人工智能教授和研究人员表示，在实现 AGI 之前我们仍然需要几个重大突破。   由   提交 /u/Total-Mention9032   [链接] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r85frd/agi_achievable_in_the_next_58_years_says_google/</guid>
       <pubDate>Wed, 18 Feb 2026 15:07:43 GMT</pubDate>
     </item>
     <item>
       <title>中国实验室在 3 周内交付了 7 个主要模型。所有输入代币均低于 1 美元/月。西方实验室能否证明 5-10 倍的定价合理？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r85aq0/chinese_labs_shipped_7_major_models_in_3_weeks/</link>
-      <description><![CDATA[中国实验室在过去三周内推出了七个主要模型：  Moonshot AI → Kimi K2.5（并行协调 100 个子代理） z.ai → GLM-5（人工分析幻觉率最低，在华为芯片上运行） MiniMax → M2.5（80.2％ SWE-bench，声称每项任务成本约为 Claude Opus 的 1/10） 字节跳动 → Seedance 2.0（4K 视频）+ Seed 2.0（豆宝，每周 1.55 亿用户） 快手 → Kling 3.0（原生 4K 60fps 视频） 阿里巴巴 → Qwen 3.5 （397B/17B MoE，声称在 80% 的基准测试中击败了 GPT-5.2）  五个文本模型中有四个在 MIT 或 Apache 2.0 下是开放权重的。全部使用 MoE 架构。所有输入代币均低于 1 美元/月。作为比较：Claude Opus 为 5 美元，GPT-5.2 为 1.75 美元。 另一件事值得关注：现在每个实验室都是为代理而不是聊天机器人构建的。 Kimi K2.5 并行运行 100 个子代理。 Qwen 3.5 通过屏幕截图控制应用程序。字节跳动称Seed 2.0为他们的“代理时代”模型。 这些分数大部分是供应商报告的，所以持保留态度。但即使将基准打折 10-15%，价格差异也很难被解释掉。 那么，究竟是什么证明为西方型号支付 5-10 倍的费用是合理的呢？可靠性？安全？老实说，您对供应商报告的基准有多信任？ 很想知道是否有人将中国模型与 Opus 4.6 或 GPT-5.2 进行比较，看看它们的表现如何。   由   提交/u/fabioperez   [link] [评论]]]></description>
+      <description><![CDATA[中国实验室在过去三周内推出了七个主要模型：  Moonshot AI → Kimi K2.5（并行协调 100 个子代理） z.ai → GLM-5（人工分析幻觉率最低，在华为芯片上运行） MiniMax → M2.5（80.2％ SWE-bench，声称每项任务成本约为 Claude Opus 的 1/10） 字节跳动 → Seedance 2.0（4K 视频）+ Seed 2.0（豆宝，每周 1.55 亿用户） 快手 → Kling 3.0（原生 4K 60fps 视频） 阿里巴巴 → Qwen 3.5 （397B/17B MoE，声称在 80% 的基准测试中击败了 GPT-5.2）  五个文本模型中有四个在 MIT 或 Apache 2.0 下是开放权重的。全部使用 MoE 架构。所有输入代币均低于 1 美元/月。 For comparison: Claude Opus is $5 and GPT-5.2 is $1.75. The other thing worth paying attention to: every lab is building for agents now, not chatbots. Kimi K2.5 并行运行 100 个子代理。 Qwen 3.5 通过屏幕截图控制应用程序。字节跳动称Seed 2.0为他们的“代理时代”模型。 这些分数大部分是供应商报告的，所以持保留态度。但即使将基准打折 10-15%，价格差异也很难被解释掉。 那么，究竟是什么证明为西方型号支付 5-10 倍的费用是合理的呢？可靠性？安全？老实说，您对供应商报告的基准有多信任？ 很想知道是否有人将中国模型与 Opus 4.6 或 GPT-5.2 进行比较，看看它们的表现如何。   由   提交 /u/fabioperez   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r85aq0/chinese_labs_shipped_7_major_models_in_3_weeks/</guid>
       <pubDate>Wed, 18 Feb 2026 15:02:25 GMT</pubDate>
     </item>
     <item>
-      <title>如果人工智能赢了怎么办？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r7zj4k/what_if_ai_wins/</link>
-      <description><![CDATA[每个人都在谈论人工智能如何比人类更好，如何提高生产力，如何最终取代人类等等。 好吧，我明白了。人工智能可以 24/7 工作，很便宜（是吗？），而且速度很快，所以人类可以去。但接下来呢？ 所有这些公司会把他们的产品卖给谁？我们购买汽车是因为我们上下班。我们买衣服是因为我们工作日需要它们。我们买漂亮的衣服是因为我们想在不上班的时候看起来很好。我们在好地方度过周末，去餐馆、电影院等，因为我们需要从工作中放松下来，并且我们赚钱以便可以消费。我们购买高档食品只是因为我们喜欢并且买得起，而不是因为我们需要它来生存。 如果出现大规模裁员，人们将失去工作和收入。对于那些能够廉价大量生产没人需要或买不起的东西的公司来说，会发生什么？ 被解雇的 IT 人员可以开始生产木制家具。但如果有成千上万的人制作家具却没有人购买（因为每个人都被解雇了），那么还剩下什么？ 出于这些原因，我不相信人工智能会很快取代我们。  我确信我不是第一个问这个问题的人。如果你知道一些我可以找到答案的书籍或文章，那就太好了。    由   提交/u/Careless-Coffee-Cup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r7zj4k/what_if_ai_wins/</guid>
-      <pubDate>Wed, 18 Feb 2026 10:32:12 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能化身最终对真实内容有足够的说服力吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r7uy4j/are_ai_avatars_finally_convincing_enough_for_real/</link>
-      <description><![CDATA[我最近一直在尝试一些人工智能化身工具，老实说我对它们的进步感到惊讶。口型同步更紧密，语气感觉不像机器人，其中一些现在甚至可以很好地处理微妙的面部表情。 也就是说，我仍然无法决定是否将其用于严肃的内容。对于不露面的创作者来说，这显然降低了门槛，但我想知道观众对此有何感受。如果您知道有人使用人工智能头像而不是出现在摄像机上，这会改变您查看他们内容的方式吗？ 很好奇每个人的立场，因为这项技术感觉正处于一个转折点。   由   提交 /u/l0stviral   [链接] [评论]]]></description>
+      <description><![CDATA[我最近一直在尝试一些人工智能化身工具，老实说我对它们的进步感到惊讶。口型同步更紧密，语气感觉不像机器人，其中一些现在甚至可以很好地处理微妙的面部表情。 也就是说，我仍然无法决定是否将其用于严肃的内容。对于不露面的创作者来说，这显然降低了门槛，但我想知道观众对此有何感受。如果您知道有人使用人工智能头像而不是出现在摄像机上，这会改变您查看他们内容的方式吗？ 很好奇每个人的立场，因为这项技术感觉正处于一个转折点。   由   提交 /u/l0stviral   [链接] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r7uy4j/are_ai_avatars_finally_convincing_enough_for_real/</guid>
       <pubDate>Wed, 18 Feb 2026 05:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>那些延迟我与使用人工智能客户服务代理的真人交谈的公司对我来说已经死了。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1r7tuxj/companies_that_delay_me_talking_to_a_real_person/</link>
-      <description><![CDATA[我的一家酒店和电信提供商采用了这种方法，但他们失去了一位客户。在这两种情况下，都花了太长时间才完成。我宁愿听糟糕的音乐，也不愿听试图听起来像人类的软件。    由   提交/u/VistaBox  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1r7tuxj/companies_that_delay_me_talking_to_a_real_person/</guid>
-      <pubDate>Wed, 18 Feb 2026 04:56:49 GMT</pubDate>
     </item>
     <item>
       <title>MS称两年内不再需要白领，截至目前，副驾驶AI无法自动对齐一张幻灯片的内容</title>
