@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 20 Feb 2026 18:31:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Feb 2026 21:15:29 GMT</lastBuildDate>
+    <item>
+      <title>建立了一个不存储任何内容的实时聊天</title>
+      <link>https://www.reddit.com/r/software/comments/1ra7jbf/built_a_realtime_chat_that_stores_nothing/</link>
+      <description><![CDATA[大家好👋 我最近深入研究了实时系统，最终构建了 Orvia - 一个无数据库的端到端加密聊天，专注于短暂的交互。 想法很简单： 创建一个房间 → 共享链接 → 聊天，发送图像/视频，一起观看 → 离开。 有何不同之处：  聊天内容不会存储在任何地方，甚至不在服务器上 没有帐户或注册流程 通过可共享链接的私人房间 实时同步消息传递 内置图像/视频共享 + 一起观看 设计轻巧，但仍可供社区使用  房间仅在人们在里面时才存在，因此交互保持以瞬间为中心，而不是永久的。 这并不是为了与 Discord 或 Slack 竞争 - 它最初是一个系统/架构实验，旨在探索没有传统后端存储或繁重社交层的通信。 真诚地感谢技术反馈：  这种架构长期有意义吗？ 任何可扩展性、安全性或用户体验问题你会期望吗？    由   提交/u/No-Care-8787   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ra7jbf/built_a_realtime_chat_that_stores_nothing/</guid>
+      <pubDate>Fri, 20 Feb 2026 21:06:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源需求管理工具</title>
+      <link>https://www.reddit.com/r/software/comments/1ra6ukn/open_source_requirement_management_tool/</link>
+      <description><![CDATA[所以我厌倦了使用电子表格作为项目的需求跟踪器（有些工作是一些爱好），而这些项目没有 IBM DOOR 或同等产品的 buget。 我找不到任何用户友好的开源软件，所以我自己制作了！ 使用 docker 桌面在本地托管非常容易。目前，您必须使用 docker compose 自己构建它，但如果有兴趣，我可能会开始包含发布版本。 我的专业知识不在于应用程序创建！ （主要使用 PLC 编程语言的硬件工程师）。因此，这 95% 的 vivi 是用我以前从未使用过的语言 (Go) 编码的。让我知道你的想法:) 公开演示：https://openv-frontend-product.up.railway.app/ 此处存储：https://github.com/dmason1992/OpenV   由   提交 /u/slzer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ra6ukn/open_source_requirement_management_tool/</guid>
+      <pubDate>Fri, 20 Feb 2026 20:40:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么可以帮助我快速且选择性地重命名文件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1ra5jj2/is_there_anything_that_can_help_me_with_quick_and/</link>
+      <description><![CDATA[理想情况下，我可以看到图像文件并通过最少的点击快速增量地重命名它。具体来说，我有一本书的文件，但由于文件名的原因，其页面顺序不正确，我可以对它们进行排序，因为它们有页码，但逐一重命名它们很乏味。    由   提交 /u/xdarkskylordx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ra5jj2/is_there_anything_that_can_help_me_with_quick_and/</guid>
+      <pubDate>Fri, 20 Feb 2026 19:50:37 GMT</pubDate>
+    </item>
     <item>
       <title>BareNotepad v1.0 - 一个简单的记事本替代品</title>
       <link>https://www.reddit.com/r/software/comments/1ra0v62/barenotepad_v10_a_simple_notepad_alternative/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[他们为什么要这样做哈哈。   由   提交/u/pattison_iman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1r9r2wy/my_organization_blocked_youtube_and_left_tiktok/</guid>
       <pubDate>Fri, 20 Feb 2026 09:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>MPC-HC - 可以同时启用 2 个字幕吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1r9qciz/mpchc_possible_to_enable_2_subtitles_at_the_same/</link>
-      <description><![CDATA[我在 MPC-HC 方面遇到了这个问题。因为我听力不好，所以我总是倾向于启用字幕（英文）。然后有些电影也有其他语言，例如《沙丘》，主要语言是英语，有时会有 Chakobsa（弗雷曼语）的台词。 我正在播放的文件包含三个“eng”和“eng”。字幕：  https://preview.redd.it/vawn1otb5mkg1.png?width=516&amp;format=png&amp;auto=webp&amp;s=7c554ad576ed055a5713c2a69d2d61d622d11590 弗雷曼语（且仅弗雷曼语）仅在第一首曲目中字幕（默认，强制），英语（且仅英语）在第二首曲目中字幕，听力障碍者仅对英语（非弗雷曼语）和典型听力障碍内容（也不是弗雷曼语）字幕。 所以我想同时显示第一和第二个字幕。这可能吗？  这是我正在使用的 MPC-HC：  https://preview.redd.it/bzq3cdkf6mkg1.png?width=654&amp;format=png&amp;auto=webp&amp;s=af59eecad5e36d221eae7ea248070bbafd8210dd 任何帮助将不胜感激 - 谢谢！   由   提交 /u/m15f1t   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r9qciz/mpchc_possible_to_enable_2_subtitles_at_the_same/</guid>
-      <pubDate>Fri, 20 Feb 2026 08:58:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的搜索引擎？</title>
-      <link>https://www.reddit.com/r/software/comments/1r9nxgt/best_search_engine/</link>
-      <description><![CDATA[所以我主要使用brave，因为它对于广告拦截效果很好，但它的实际搜索功能完全是垃圾，所以每当我需要搜索一些东西时，我总是切换到使用chrome或avast，但最近这两个浏览器也开始用完全垃圾和AI垃圾填充他们的搜索 所以我只是想知道一个好的替代方案是什么，因为作为一个大学生，没有一个好的搜索功能是严重损害了我的研究能力   由   提交/u/矩形MF   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r9nxgt/best_search_engine/</guid>
-      <pubDate>Fri, 20 Feb 2026 06:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么工具在不使用自己的声音的情况下为您的软件创建演示视频？ （AI配音？）</title>
-      <link>https://www.reddit.com/r/software/comments/1r9nbf7/what_tools_are_you_using_to_create_demo_videos/</link>
-      <description><![CDATA[大家好， 我是一名开发人员，目前正在为我的 Windows 桌面软件创建演示视频。 我可以很好地录制屏幕，但我真的不想用自己的声音进行旁白。 我很好奇其他开发人员为此使用什么工具。 特别寻找类似的工具：  录制屏幕演示 添加人工智能配音，而不是我自己的声音 或者更好，可以帮助根据视频生成旁白脚本 适合产品网站的干净、专业的结果  现在我正在尝试使用 Clipchamp 并研究 ElevenLabs 之类的东西，但我很想知道真正的开发人员在实践中实际使用的是什么。 您是：  使用 AI 语音吗？ 录制无声视频并稍后添加旁白？ 使用 Loom、Descript、Screen Studio 等工具？ 还是完全使用其他工具？  谢谢 — 很想听听您的工作流程。   由   提交 /u/Jumpy_Chicken_4270   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1r9nbf7/what_tools_are_you_using_to_create_demo_videos/</guid>
-      <pubDate>Fri, 20 Feb 2026 05:54:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
