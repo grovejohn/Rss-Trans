@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 21 Feb 2026 09:21:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Feb 2026 12:22:32 GMT</lastBuildDate>
     <item>
       <title>Google 的侧载锁定将于 2026 年 9 月到来，以下是推迟的方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1ralqrl/googles_sideloading_lockdown_is_coming_september/</link>
@@ -36,7 +36,7 @@
     <item>
       <title>No-Autopilot：自动关闭草率 PR 的 GitHub Action</title>
       <link>https://www.reddit.com/r/opensource/comments/1ra9drl/noautopilot_github_action_that_automatically/</link>
-      <description><![CDATA[      我昨天发了一篇帖子，表现不错反馈，这个机制我运行得很好，所以我决定将其提取到 GitHub 操作中，您可以自己尝试一下。 它的工作原理如下：PR 模板中有一个复选框，要求 AI 代理披露 PR 何时在没有人类参与的情况下编写。如果是这样，CI 会关闭 PR。 自述文件有更多上下文，与 AGENTS.md 结合使用可以很好地让 AI 首先拒绝在没有人类参与的情况下编写代码。 GitHub 操作还尝试强制执行某些风格指南，例如不使用“共同创作者”。提交，并且通常会阻止无用的 AI 复制。 如果您知道有人因仓库中草率的 PR 而精疲力尽，请与他们分享！   由   提交/u/eljojors  [链接] [评论] ]]></description>
+      <description><![CDATA[      我昨天发了一篇帖子，表现不错反馈，这个机制我运行得很好，所以我决定将其提取到 GitHub 操作中，您可以自己尝试一下。 它的工作原理是这样的：PR 模板中有一个复选框，要求 AI 代理披露 PR 何时在没有人类参与的情况下编写。如果是这样，CI 会关闭 PR。 自述文件有更多上下文，与 AGENTS.md 结合使用可以很好地让 AI 首先拒绝在没有人类参与的情况下编写代码。 GitHub 操作还尝试强制执行某些风格指南，例如不使用“共同创作者”。提交，并且通常会阻止无用的 AI 复制。 如果您知道有人因仓库中草率的 PR 而精疲力尽，请与他们分享！   由   提交/u/eljojors  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ra9drl/noautopilot_github_action_that_automatically/</guid>
       <pubDate>Fri, 20 Feb 2026 22:17:54 GMT</pubDate>
     </item>
