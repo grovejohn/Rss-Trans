@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 22 Feb 2026 09:21:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 12:23:58 GMT</lastBuildDate>
+    <item>
+      <title>我花了过去 6 个月的时间构建了一个愿景，即根据规范或现有存储库生成软件架构</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rbjpx1/ive_spent_past_6_months_building_a_vision_to/</link>
+      <description><![CDATA[大家好！我一直在构建 DevilDev，这是一个开源工作区，用于在编写一行代码之前根据上下文设计软件架构。 DevilDev 根据规范或通过分析现有代码库生成软件架构蓝图。将其视为一个工具中的“AI + 系统设计”。在构建过程中，我意识到上下文的重要性：DevilDev 还包括与您的架构保持关联的 Pact（错误、任务、功能）。您可以在 DevilDev 中管理这些任务，甚至可以将它们作为 GitHub 问题推送。结果是人工智能辅助的工作流程：提示 -&gt;架构蓝图-&gt;跟踪开发任务。 请告诉我你们的想法？   由   提交 /u/Calm_Sandwich069   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rbjpx1/ive_spent_past_6_months_building_a_vision_to/</guid>
+      <pubDate>Sun, 22 Feb 2026 11:39:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>MerLin：可微分光子量子机器学习框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rbhrqc/merlin_framework_for_differentiable_photonic/</link>
+      <description><![CDATA[       由   提交/u/donutloop  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rbhrqc/merlin_framework_for_differentiable_photonic/</guid>
+      <pubDate>Sun, 22 Feb 2026 09:43:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>`desto` – 用于在 tmux 会话中运行和管理 Python/Bash 脚本的 Web 仪表板（改进的 UI+）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rbhmiq/desto_a_web_dashboard_for_running_managing/</link>
+      <description><![CDATA[ 由   提交/u/kalfasyan  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rbhmiq/desto_a_web_dashboard_for_running_managing/</guid>
+      <pubDate>Sun, 22 Feb 2026 09:34:21 GMT</pubDate>
+    </item>
     <item>
       <title>为什么你应该参与开源——一个个人故事</title>
       <link>https://www.reddit.com/r/opensource/comments/1rbgx0p/why_you_should_get_involved_in_open_source_a/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[      我昨天发了一篇帖子，表现不错反馈，这个机制我运行得很好，所以我决定将其提取到 GitHub 操作中，您可以自己尝试一下。 它的工作原理是这样的：PR 模板中有一个复选框，要求 AI 代理披露 PR 何时在没有人类参与的情况下编写。如果是这样，CI 会关闭 PR。 自述文件有更多上下文，与 AGENTS.md 结合使用可以很好地让 AI 首先拒绝在没有人类参与的情况下编写代码。 GitHub 操作还尝试强制执行某些风格指南，例如不使用“共同创作者”。提交，并且通常会阻止无用的 AI 复制。 如果您知道有人因仓库中草率的 PR 而精疲力尽，请与他们分享！   由   提交/u/eljojors  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ra9drl/noautopilot_github_action_that_automatically/</guid>
       <pubDate>Fri, 20 Feb 2026 22:17:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Deno 在 Cobol 中，因为为什么不呢？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ra6k3o/deno_in_cobol_because_why_not/</link>
-      <description><![CDATA[我个人在遗留代码库上使用的东西也很有趣： https://github.com/t7ru/deno-in-cobol   由   提交 /u/gatrixgd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ra6k3o/deno_in_cobol_because_why_not/</guid>
-      <pubDate>Fri, 20 Feb 2026 20:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了在庞大的 Excel 工作表中管理我的求职，因此我构建了一个自托管 CI/CD 管道来申请（工作操作）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r9xywq/i_got_sick_of_managing_my_job_hunt_in_a_massive/</link>
-      <description><![CDATA[       由   提交/u/DaKheera47  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r9xywq/i_got_sick_of_managing_my_job_hunt_in_a_massive/</guid>
-      <pubDate>Fri, 20 Feb 2026 15:14:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我哥哥打造了一个很酷的游戏引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1r9uyzg/my_brother_built_a_cool_game_engine/</link>
-      <description><![CDATA[所以我的兄弟构建了这个非常酷的引擎，只是想与大家分享。我不太懂技术，所以如果您有任何总体技术问题，请在 GitHub 上询问他是否可以  https://github.com/sinisterMage/Open-Reality   由   提交/u/ineedtocry05  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1r9uyzg/my_brother_built_a_cool_game_engine/</guid>
-      <pubDate>Fri, 20 Feb 2026 13:11:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
