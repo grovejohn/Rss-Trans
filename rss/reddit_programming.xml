@@ -4,20 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Feb 2026 12:22:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Feb 2026 15:15:15 GMT</lastBuildDate>
     <item>
-      <title>AI 不应该编写 Python 或 C。如果人类不再编写代码，编程语言应该发展为机器思考的方式……而不是人类。</title>
-      <link>https://www.reddit.com/r/programming/comments/1rbjtvg/ai_should_not_write_python_or_c_if_humans_will_no/</link>
-      <description><![CDATA[我认为讨论应该**超越“程序员替换”的问题。**  让我们假设今天人工智能编写的代码量是一个轨迹而不是一个假设。  让我们假设人工智能***将***取代人类程序员，在大多数（如果不是全部）编程职位上。  现在的问题应该演变为编程语言本身。因为如果这就是未来，那么我们就会用受人类需求限制的编程语言来阻止它。  为什么AI需要写Python？或者任何其他适合人类的语言？ 程序员编写的内容中大约 97% 不是计算。它是与机器和其他可能读取其代码的人类之间的通信。 当代码不再需要由人类程序员读取时， - * **不需要有意义的变量和函数名称** * **不需要空格、格式、样板文件、导入、类声明、构造函数、getter、setter、注释、文档** * **不会有语法错误** * **没有软件堆栈** 代码的效率提高了 20 倍 - 50 倍，而人类仍然需要处理“什么”问题。而不是“如何”。  很明显，那些能够最好地**阐明软件的意图和规范（而不是其代码）**并有助于缩小上述意图不一致差距的人将成为未来需求量很大的社交计算艺术家。 我已经就此写了一篇详细的文章，因为我相信这是下一个需要讨论的发展领域。    由   提交/u/SillAlive-Act3  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rbjtvg/ai_should_not_write_python_or_c_if_humans_will_no/</guid>
-      <pubDate>Sun, 22 Feb 2026 11:45:43 GMT</pubDate>
+      <title>Unicode 的 confusables.txt 和 NFKC 标准化在 31 个字符上不一致</title>
+      <link>https://www.reddit.com/r/programming/comments/1rbm18a/unicodes_confusablestxt_and_nfkc_normalization/</link>
+      <description><![CDATA[ 由   提交/u/paultendo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rbm18a/unicodes_confusablestxt_and_nfkc_normalization/</guid>
+      <pubDate>Sun, 22 Feb 2026 13:36:22 GMT</pubDate>
     </item>
     <item>
-      <title>Write Helper — 使用 Rust→WASM 和 Chrome 本地 AI 的开源语法检查器（零云调用）</title>
-      <link>https://www.reddit.com/r/programming/comments/1rbjqts/writing_helper_open_source_grammar_checker_using/</link>
-      <description><![CDATA[构建一个 Chrome 扩展程序，完全在客户端进行 Grammarly 风格的语法检查。 技术上有趣的原因：  Harper.js（Rust 语法引擎 → WebAssembly）在扩展程序的服务工作线程中运行 50 多个自定义模式规则补充Harper 所遗漏的东西 - 同音异义词、逗号拼接、使用主谓从句模式进行连续句子检测 Chrome 的内置 Gemini Nano 提供了 AI 句子改进 - 通过屏幕外文档在设备上本地运行（Chrome 的 AI API 需要 DOM 上下文） 整个系统有2 个依赖项：harper.js 和 esbuild（仅限开发）  解决了有趣的问题：  Gmail 中的 ContentEditable 渲染（多个 iframe，每个都有自己的内容脚本实例） 使用 LCS 进行单词级差异，以准确显示 AI 更改了哪些单词，而不是整个句子 建议后处理，以修复 Harper 有时错误的拆分单词建议（例如，“writting”→“writting”）被更正为“writing”）  来源：https://github.com/ravigadgil/writing-helper (MIT) 发行版中的准备安装 zip（如果您想在不使用的情况下尝试）建筑。   由   提交/u/Key_Competition_7139   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rbjqts/writing_helper_open_source_grammar_checker_using/</guid>
-      <pubDate>Sun, 22 Feb 2026 11:41:06 GMT</pubDate>
+      <title>超越基于头部和尾部的采样的采样策略</title>
+      <link>https://www.reddit.com/r/programming/comments/1rbll3f/sampling_strategies_beyond_head_and_tailbased/</link>
+      <description><![CDATA[关于超越基于头部或尾部采样的传统技术的采样策略的博客。    由   提交/u/elizObserves  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rbll3f/sampling_strategies_beyond_head_and_tailbased/</guid>
+      <pubDate>Sun, 22 Feb 2026 13:15:29 GMT</pubDate>
     </item>
     <item>
       <title>欧普设计模式</title>
@@ -62,25 +62,11 @@
       <pubDate>Sun, 22 Feb 2026 07:53:54 GMT</pubDate>
     </item>
     <item>
-      <title>技术事后剖析：将加密验证直接嵌入到 Rust 编译器管道中的架构摩擦</title>
-      <link>https://www.reddit.com/r/programming/comments/1rbe7fr/technical_postmortem_the_architectural_friction/</link>
-      <description><![CDATA[我刚刚花了两周时间从头开始编写一个编译器（Ark-Lang，Rust 中的 ~21k LOC），我想写一篇关于我遇到的最困难的架构摩擦点的文章：将 SOC-2 级加密验证直接嵌入到 AST 解析阶段。 通常，编译器是黑匣子。你给他们提供源代码，他们会吐出字节码或 WASM。我希望编译器能够在物理上证明它在没有外部 linter 的情况下完成了工作。  工程挑战： 我必须构建一个 5 阶段管道，其中 AST 实际上在 Lexer/Parser 完成后立即进行 Merkle 哈希处理。   词法分析/解析 AST Merkle-root 哈希 线性类型检查（跟踪资源消耗以防止双花） Codegen（针对自定义堆栈虚拟机和本机 WASM） 生成 HMAC 签名ProofBundle。  这里的绝对噩梦是保持线性类型检查器与 WASM 内存偏移同步，同时确保 AST 哈希在优化过程中不会发生变化。我基本上必须冻结 AST 状态，对其进行哈希处理，然后将不可变的引用传递给线性检查器（“checker.rs”）。  凌晨 4 点手动编写 WASM 代码生成器可能是一个错误，但现在可以干净地编译了。  还有其他人尝试过在编译器级别生成加密收据吗？好奇其他人如何在多遍优化期间处理 AST 冻结。    由   提交/u/AbrocomaAny8436  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rbe7fr/technical_postmortem_the_architectural_friction/</guid>
-      <pubDate>Sun, 22 Feb 2026 06:10:35 GMT</pubDate>
-    </item>
-    <item>
       <title>亲爱的人工智能，不错的尝试。现在我们来谈谈生产。</title>
       <link>https://www.reddit.com/r/programming/comments/1rbc23l/nice_try_dear_ai_now_lets_talk_about_production/</link>
       <description><![CDATA[最近我想编写一个将目录上传到 S3 的脚本。我决定使用副驾驶。我已经使用它有一段时间了。本文试图证明两件事：(a) 人工智能（仍然）无法取代我作为高级软件工程师；(b) 学习编程并专注于基础知识仍然有意义。   由   提交/u/krasimirtsonev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rbc23l/nice_try_dear_ai_now_lets_talk_about_production/</guid>
       <pubDate>Sun, 22 Feb 2026 04:15:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>零 GC 和 78M 样本/秒：将 Node.js 22 推向有状态 DSP 的极限</title>
-      <link>https://www.reddit.com/r/programming/comments/1rbbvh2/zerogc_and_78m_samplessec_pushing_nodejs_22_to/</link>
-      <description><![CDATA[我一直在对 Node.js (dspx) 的硬件感知信号处理库进行基准测试，发现使用正确的架构，您可以有效地绕过 V8 垃圾收集器。通过实施零复制管道，我成功地在 AWS Lambda（1769MB RAM）上的单个 vCPU 上实现了每秒 7800 万个样本。更有趣的是内存配置文件：在输入大小介于 212 和 220 之间时，系统显示零或负堆增长，从而导致确定性 p99 延迟即使在重负载下也能保持平稳。 我还专注于微秒级状态序列化，以使有状态函数（如卡尔曼滤波器）在 Lambda 等临时运行时上可行。部署大小仅为 1.3MB，使冷启动时间始终保持在 170 毫秒到 240 毫秒之间。它包括从 MFCC 和 Mel-Spectrograms 到自适应滤波器和 ICA/PCA 转换的完整工具包。 默认情况下，它在 C++ 和 JavaScript 端都是单线程的，因此用户可以使用工作线程、原子和 SharedArrayBuffers 在 JavaScript 中对其进行多线程处理。 基准存储库：https://github.com/A-KGeorge/dspx-benchmark 代码存储库：https://github.com/A-KGeorge/dspx   由   提交/u/sarcasm4052  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rbbvh2/zerogc_and_78m_samplessec_pushing_nodejs_22_to/</guid>
-      <pubDate>Sun, 22 Feb 2026 04:06:14 GMT</pubDate>
     </item>
     <item>
       <title>Rust 不可能拥有理智的 HKT</title>
@@ -109,6 +95,20 @@
       <description><![CDATA[ 由   提交/u/imbev   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rb5k68/back_to_freebsd_part_1_from_unix_chroot_to/</guid>
       <pubDate>Sat, 21 Feb 2026 23:12:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么有人应该关心低级编程？</title>
+      <link>https://www.reddit.com/r/programming/comments/1rb1lr2/why_should_anyone_care_about_lowlevel_programming/</link>
+      <description><![CDATA[有人对这篇文章有什么意见吗？   由   提交/u/No_Good7445   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rb1lr2/why_should_anyone_care_about_lowlevel_programming/</guid>
+      <pubDate>Sat, 21 Feb 2026 20:28:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会忽略 django 查询中的重音单词吗</title>
+      <link>https://www.reddit.com/r/programming/comments/1rauh1u/do_you_ignore_accented_words_in_your_django_query/</link>
+      <description><![CDATA[您知道吗，对“Helen”的正常搜索需要搜索“Helen”。通常会错过像“Hélène”这样的名字吗？默认情况下，icontains 仅匹配精确的字符，因此重音符号或变音符号可能会让用户感觉搜索不完整。在 PostgreSQL 上，使用 unaccent 查找可以修复此问题： Author.objects.filter(nameunaccenticontains=“Helen”) 现在，您的搜索会找到“Helen”、“Helena”和“Hélène”，使您的应用程序真正具有国际友好性。不要忘记包含“django.contrib.postgres”在您安装的应用程序中，并在 django 迁移中启用 UnaccentExtension 或使用 SQL (CREATE EXTENSION &quot;unaccent&quot;;)   由   提交 /u/natanasrat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rauh1u/do_you_ignore_accented_words_in_your_django_query/</guid>
+      <pubDate>Sat, 21 Feb 2026 15:50:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
