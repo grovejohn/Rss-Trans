@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 23 Feb 2026 01:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 04:52:27 GMT</lastBuildDate>
     <item>
-      <title>停止派遣招聘人员去回购。而是将它们发送到实时项目！ 🎮🕹️♟️</title>
-      <link>https://www.reddit.com/r/programming/comments/1rc2ixf/stop_sending_recruiters_to_repos_send_them_to/</link>
-      <description><![CDATA[这听起来很熟悉吗？ 你构建了一个令人惊叹的项目，将其推送到 GitHub，将其放在 LinkedIn/resume 上，然后没有人花时间查看它。说实话：大多数招聘人员和忙碌的开发人员没有时间克隆您的存储库，尝试运行它只是为了调试本地环境问题，或者等待大量容器文件下载只是为了查看工作演示。 好吧，我有一些好消息... 我的完整帖子   由   提交/u/Pspecial_Good_3678   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rc2ixf/stop_sending_recruiters_to_repos_send_them_to/</guid>
-      <pubDate>Mon, 23 Feb 2026 00:23:52 GMT</pubDate>
+      <title>尝试 Claude Code Team</title>
+      <link>https://www.reddit.com/r/programming/comments/1rc6l57/trying_out_claude_code_teams/</link>
+      <description><![CDATA[尝试了 Claude 代码团队的几个项目，并在 Medium 上发布了一些学习内容。 沙盒存储库链接到我迄今为止所做的所有内容，包括提示、计划等。希望其他人分享他们如何最好地使用 Claude 代码。   由   提交 /u/_itshabib   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rc6l57/trying_out_claude_code_teams/</guid>
+      <pubDate>Mon, 23 Feb 2026 03:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 JavaScript 播放 CSS 定义的动画</title>
+      <link>https://www.reddit.com/r/programming/comments/1rc3s3u/playing_cssdefined_animations_with_javascript/</link>
+      <description><![CDATA[ 由   提交/u/barhatsor  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rc3s3u/playing_cssdefined_animations_with_javascript/</guid>
+      <pubDate>Mon, 23 Feb 2026 01:19:06 GMT</pubDate>
     </item>
     <item>
       <title>文章：Glue - 模式的统一工具链</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rbgk2f/linux_70_makes_preparations_for_rust_195/</guid>
       <pubDate>Sun, 22 Feb 2026 08:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>终端实际上​​如何运行程序。</title>
-      <link>https://www.reddit.com/r/programming/comments/1rbg158/how_a_terminal_actually_runs_programs/</link>
-      <description><![CDATA[ 由   提交/u/Sushant098123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rbg158/how_a_terminal_actually_runs_programs/</guid>
-      <pubDate>Sun, 22 Feb 2026 07:57:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
