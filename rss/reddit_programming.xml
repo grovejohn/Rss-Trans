@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 22 Feb 2026 21:15:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Feb 2026 01:02:55 GMT</lastBuildDate>
+    <item>
+      <title>停止派遣招聘人员去回购。而是将它们发送到实时项目！ 🎮🕹️♟️</title>
+      <link>https://www.reddit.com/r/programming/comments/1rc2ixf/stop_sending_recruiters_to_repos_send_them_to/</link>
+      <description><![CDATA[这听起来很熟悉吗？ 你构建了一个令人惊叹的项目，将其推送到 GitHub，将其放在 LinkedIn/resume 上，然后没有人花时间查看它。说实话：大多数招聘人员和忙碌的开发人员没有时间克隆您的存储库，尝试运行它只是为了调试本地环境问题，或者等待大量容器文件下载只是为了查看工作演示。 好吧，我有一些好消息... 我的完整帖子   由   提交/u/Pspecial_Good_3678   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rc2ixf/stop_sending_recruiters_to_repos_send_them_to/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:23:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>文章：Glue - 模式的统一工具链</title>
+      <link>https://www.reddit.com/r/programming/comments/1rc23hl/writeup_glue_unified_toolchain_for_your_schemas/</link>
+      <description><![CDATA[ 由   提交/u/guywald  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rc23hl/writeup_glue_unified_toolchain_for_your_schemas/</guid>
+      <pubDate>Mon, 23 Feb 2026 00:05:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越自动完成：为什么代码拓扑是人工智能幻觉的答案</title>
+      <link>https://www.reddit.com/r/programming/comments/1rc1ku2/beyond_autocomplete_why_code_topology_is_the/</link>
+      <description><![CDATA[ 由   提交/u/Equivalent_Pen8241   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rc1ku2/beyond_autocomplete_why_code_topology_is_the/</guid>
+      <pubDate>Sun, 22 Feb 2026 23:43:40 GMT</pubDate>
+    </item>
     <item>
       <title>公告：基于 JDBC/Swing 的数据库工具新版本已发布</title>
       <link>https://www.reddit.com/r/programming/comments/1rbxn6c/announcement_new_release_of_the_jdbcswingbased/</link>
@@ -25,13 +46,6 @@
       <description><![CDATA[ 由   提交/u/vertexclique  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rbw95s/kovan_waitfree_memory_reclamation_for_rust_tla/</guid>
       <pubDate>Sun, 22 Feb 2026 20:15:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>故意过度使用是一种人工智能编码学习策略</title>
-      <link>https://www.reddit.com/r/programming/comments/1rbvkkl/intentional_overuse_is_an_ai_coding_learning/</link>
-      <description><![CDATA[ 由   提交 /u/henrik_w   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rbvkkl/intentional_overuse_is_an_ai_coding_learning/</guid>
-      <pubDate>Sun, 22 Feb 2026 19:49:30 GMT</pubDate>
     </item>
     <item>
       <title>TLS 握手一步步 — 交互式 HTTPS 故障</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/Sushant098123  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rbg158/how_a_terminal_actually_runs_programs/</guid>
       <pubDate>Sun, 22 Feb 2026 07:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 1 个用户（我）构建了一个具有端到端加密的企业级应用程序 - 然后意识到移动优先消除了整个问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1rbfz5b/i_built_an_enterprisegrade_app_with_e2e/</link>
-      <description><![CDATA[我是一名后端/基础设施工程师，多年来我一直以构建生产系统的方式构建个人工具。上周，我构建了一个预算跟踪器，其中包括端到端加密、DDD 架构、完整单元和 E2E 测试、通过 GitHub Actions、Postgres、Hetzner 托管、监控进行的 CI/CD... 然后在 Docker 构建过程中我愣住了：为什么我需要企业基础设施来构建一个仅我使用的应用程序？ 简单的个人应用程序的非功能性要求是疯狂的：安全性、身份验证、监控、CI/CD、服务器管理、数据库管理。功能（实际价值）受到的关注最少。 因此，我使用 Claude Code 将所有内容迁移到 iOS 移动应用程序。现在：SQLite 代替 Postgres，FaceID 代替自定义身份验证，无需破解服务器，无需管理基础设施。 100% 专注于功能。 更重要的是——自 2018 年 Android 以来我就没有做过移动开发，也不了解 Swift。无论如何，Vibe 编码使之成为可能。 包含图表和详细信息的博客文章：https://www.vitaliihonchar.com/insights/what-changed-in-the-personal-application-development-in-the-vibe-coding-era 还有其他人发现自己出于职业习惯而过度设计个人项目吗？   由   提交 /u/Historical_Wing_9573   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rbfz5b/i_built_an_enterprisegrade_app_with_e2e/</guid>
-      <pubDate>Sun, 22 Feb 2026 07:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>亲爱的人工智能，不错的尝试。现在我们来谈谈生产。</title>
-      <link>https://www.reddit.com/r/programming/comments/1rbc23l/nice_try_dear_ai_now_lets_talk_about_production/</link>
-      <description><![CDATA[最近我想编写一个将目录上传到 S3 的脚本。我决定使用副驾驶。我已经使用它有一段时间了。本文试图证明两件事：(a) 人工智能（仍然）无法取代我作为高级软件工程师；(b) 学习编程并专注于基础知识仍然有意义。   由   提交/u/krasimirtsonev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rbc23l/nice_try_dear_ai_now_lets_talk_about_production/</guid>
-      <pubDate>Sun, 22 Feb 2026 04:15:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
