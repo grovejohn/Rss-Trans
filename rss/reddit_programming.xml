@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 24 Feb 2026 04:46:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Feb 2026 06:46:27 GMT</lastBuildDate>
+    <item>
+      <title>Pare：开源 MCP 服务器，从 222 个 CLI 工具（git、docker、npm、cargo、pytest 等）返回结构化 JSON</title>
+      <link>https://www.reddit.com/r/programming/comments/1rd90c8/pare_opensource_mcp_servers_that_return/</link>
+      <description><![CDATA[我的编码代理（Claude Code、Cursor、Copilot、Codex）不断运行 CLI 工具，但将输出用作原始终端文本 — ANSI 代码、进度条、列填充、重复标题。在为人眼进行格式化之前，数据已经在工具内部结构化。 Pare 是一组 25 个 MCP 服务器，它包装开发人员 CLI 工具并返回类型化、模式验证的 JSON。每个工具都使用 execFile（无 shell 注入表面），使用 Zod 验证输入，并阻止所有位置参数上的标志注入。 一些不明显的挑战：  每个 CLI 都有自己的输出格式和边缘情况 - docker ps 列宽度根据内容而变化，cargo test 将编译器输出与测试结果交错，ansible-playbook 的 PLAY RECAP 部分具有完全不同的结构 使用 Node 20 和 22 的 Linux/macOS/Windows 上的跨平台 CI — 必须重写进程终止逻辑，因为 Windows 上的异步任务终止在超时后留下孤立进程 架构设计比 CLI 包装更接近 API 设计 — 字段代理不仅仅作用于浪费令牌 跨 5 层（单元、保真度、安全性、烟雾、集成）的 4,500 多个测试。   麻省理工学院许可。   由   提交/u/GiantGreenGuy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rd90c8/pare_opensource_mcp_servers_that_return/</guid>
+      <pubDate>Tue, 24 Feb 2026 06:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在写代码很便宜</title>
+      <link>https://www.reddit.com/r/programming/comments/1rd83xl/writing_code_is_cheap_now/</link>
+      <description><![CDATA[ 由   提交 /u/finallyanonymous   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rd83xl/writing_code_is_cheap_now/</guid>
+      <pubDate>Tue, 24 Feb 2026 05:54:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我们理解并实现一致性哈希。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rd7ukf/lets_understand_implement_consistent_hashing/</link>
+      <description><![CDATA[ 由   提交 /u/Sushant098123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rd7ukf/lets_understand_implement_consistent_hashing/</guid>
+      <pubDate>Tue, 24 Feb 2026 05:40:08 GMT</pubDate>
+    </item>
     <item>
       <title>用 Python 模拟最难的物理问题</title>
       <link>https://www.reddit.com/r/programming/comments/1rd60g8/simulating_the_hardest_physics_problems_in_python/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[最近重新开始写博客，这个系列主要是数据分析。第一个条目（链接在此处）重点介绍如何可视化存储在电子表格中的职位申请数据。第二个条目是关于从垃圾箱机器人中抓取数据的。希望您喜欢！   由   提交 /u/LivInTheLookingGlass   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rcum6t/lessons_in_grafana_part_one_a_vision/</guid>
       <pubDate>Mon, 23 Feb 2026 21:31:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>博客文章：Glue IDL 和工具链，新项目的技术文章</title>
-      <link>https://www.reddit.com/r/programming/comments/1rctnxi/blog_post_glue_idl_toolchain_technical_writeup_on/</link>
-      <description><![CDATA[分享一篇关于业余项目的博客文章，并解释了概述和动机。  我知道从技术上讲，这个 Reddit 子版块并不是为了自我推销，但我认为这里的读者会对技术方面感兴趣。   由   提交/u/guywald  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rctnxi/blog_post_glue_idl_toolchain_technical_writeup_on/</guid>
-      <pubDate>Mon, 23 Feb 2026 20:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何将 Doom 移植到已有 20 年历史的 VoIP 电话上</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcrqxe/how_i_ported_doom_to_a_20yearold_voip_phone/</link>
-      <description><![CDATA[ 由   提交/u/25hex  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcrqxe/how_i_ported_doom_to_a_20yearold_voip_phone/</guid>
-      <pubDate>Mon, 23 Feb 2026 19:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>硬模式下的 eBPF</title>
-      <link>https://www.reddit.com/r/programming/comments/1rcrllz/ebpf_on_hard_mode/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rcrllz/ebpf_on_hard_mode/</guid>
-      <pubDate>Mon, 23 Feb 2026 19:41:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
