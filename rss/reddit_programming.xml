@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 25 Feb 2026 09:41:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 12:35:47 GMT</lastBuildDate>
     <item>
-      <title>HSIP - Rust 中的多租户加密同意 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1re8r5m/hsip_multi_tenant_cryptographic_consent_api_in/</link>
-      <description><![CDATA[您能检查一下 HSIP，它是一个基于 Ed25519 的同意管理 API，用于 AI 代理和 API 治理吗？我需要你的反馈。  主要功能： - 符合 RFC 8439 的 ChaCha20-Poly1305（通过官方 IETF 测试向量） - 即时凭证撤销 - 内置 GDPR 删除权 - 238 项测试，全部通过 - Postgres + TLS 准备用于生产 用例：AI 代理授权、GDPR 同意执行、具有加密证明的 API 访问控制。  仓库：https://github.com/rewired89/HSIP-1PHASE.git 寻求反馈，尤其是来自安全工程师的反馈。   由   提交/u/AffectionateCourse78  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1re8r5m/hsip_multi_tenant_cryptographic_consent_api_in/</guid>
-      <pubDate>Wed, 25 Feb 2026 09:33:09 GMT</pubDate>
+      <title>我在 230 种系统字体中渲染了 1,418 个 Unicode 易混淆对。 82 是像素相同的，您的网站使用的字体决定了哪些字体。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rebxn8/i_rendered_1418_unicode_confusable_pairs_across/</link>
+      <description><![CDATA[ 由   提交 /u/paultendo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rebxn8/i_rendered_1418_unicode_confusable_pairs_across/</guid>
+      <pubDate>Wed, 25 Feb 2026 12:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能会终结像 Experts Exchange 这样的网站吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1rebq88/will_ai_end_sites_like_experts_exchange/</link>
+      <description><![CDATA[多年来，当我遇到编码障碍、VMware 问题或首次在 Cisco 交换机上设置 ICCP 时，我一直使用 Experts Exchange 寻求帮助。 EE 远非完美，因为你必须等待有人回复。然后有些人对这个问题一无所知，只会用谷歌搜索并留下链接。它并不完美，但有时确实有帮助。 现在我只要问人工智能，就能立即得到答案！我更像是一名系统管理员，所以我认为我的编程技能充其量只是中等水平。但有了人工智能，我感觉自己就像一个编程奇才！如果我遇到第 3 层交换问题，我会询问人工智能并立即得到答案。如果我正在寻找一种更简单的方法来在 Hyper-V 中执行某些操作，我会询问 AI。 AI 完美吗？不完全是。有时它会给我不完美的代码。我要么自己调试并修复它，要么将其交给不同的人工智能平台并询问出了什么问题。尽管它并不完美，但它对我来说已经足够完美，并为我节省了很多时间。 我注意到的一件事是，我再也没有去过 Experts Exchange，也没有续订我的会员资格。自从我开始使用人工智能以来，我也没有去过 Stack Overflow、Server Failure 甚至 Spiceworks 等网站。我想这是一个正在发生的演变。如果我在 Experts Exchange 工作，我会尽快找工作！如果我的工作纯粹是编程，我也会感到紧张。 我很想知道其他人对此有何看法。   由   提交/u/brianpaul9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rebq88/will_ai_end_sites_like_experts_exchange/</guid>
+      <pubDate>Wed, 25 Feb 2026 12:20:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenCode/Pi 用户嫉妒 Claude Remote？ Tether 是开源的</title>
+      <link>https://www.reddit.com/r/programming/comments/1reanp5/opencode_pi_users_jealous_of_claude_remote_tether/</link>
+      <description><![CDATA[这可能是一个小众用例，但手机上的代理（或仅在 Discord / Telegram 中）很酷并且很有用。像这样的基本基础设施没有理由真正需要专有。我不久前已经开源了 Tether，但不幸的是当时没有得到太大的关注，所以现在做了一些更新，看看是否有更多的兴趣。 我确信 Claude Remote 更完善，但开源应该能够做得同样好。   由   提交/u/wouldaouldashoulda  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1reanp5/opencode_pi_users_jealous_of_claude_remote_tether/</guid>
+      <pubDate>Wed, 25 Feb 2026 11:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>虚假工作面试正在开发人员机器上安装后门</title>
+      <link>https://www.reddit.com/r/programming/comments/1readhv/fake_job_interviews_are_installing_backdoors_on/</link>
+      <description><![CDATA[ 由   提交/u/Big-Engineering-9365   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1readhv/fake_job_interviews_are_installing_backdoors_on/</guid>
+      <pubDate>Wed, 25 Feb 2026 11:08:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>JMeter 性能测试：寻找数据驱动场景的突破点</title>
+      <link>https://www.reddit.com/r/programming/comments/1re9kve/jmeter_performance_testing_finding_the_breaking/</link>
+      <description><![CDATA[ 由   提交 /u/Happycodeine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1re9kve/jmeter_performance_testing_finding_the_breaking/</guid>
+      <pubDate>Wed, 25 Feb 2026 10:22:49 GMT</pubDate>
     </item>
     <item>
       <title>我为 PostgreSQL 模式探索构建了一个终端 UI (Go + tview)</title>
@@ -25,20 +53,6 @@
       <description><![CDATA[ 由   提交 /u/Fast-Dev   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1re82gw/api_design_principles_for_the_agentic_era/</guid>
       <pubDate>Wed, 25 Feb 2026 08:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>PyChat.AI - Rust 中的 Python REPL，带有嵌入式 LLM，可以检查和修改 Python 运行时状态</title>
-      <link>https://www.reddit.com/r/programming/comments/1re7k0e/pychatai_a_python_repl_in_rust_with_an_embedded/</link>
-      <description><![CDATA[ 由   提交 /u/andreabergia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1re7k0e/pychatai_a_python_repl_in_rust_with_an_embedded/</guid>
-      <pubDate>Wed, 25 Feb 2026 08:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>COBOL 的幽灵（歌曲）</title>
-      <link>https://www.reddit.com/r/programming/comments/1re7hbc/cobols_ghost_song/</link>
-      <description><![CDATA[ 由   提交 /u/PPX777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1re7hbc/cobols_ghost_song/</guid>
-      <pubDate>Wed, 25 Feb 2026 08:14:09 GMT</pubDate>
     </item>
     <item>
       <title>“Vibe Coding”威胁开源</title>
@@ -76,13 +90,6 @@
       <pubDate>Wed, 25 Feb 2026 04:51:10 GMT</pubDate>
     </item>
     <item>
-      <title>为什么这么多LLM堆栈仍然重新计算预填充而不是缓存它</title>
-      <link>https://www.reddit.com/r/programming/comments/1re2yez/why_do_so_many_llm_stacks_still_recompute_prefill/</link>
-      <description><![CDATA[大家好，过去几周我一直在研究 KV 缓存兔子洞。导致 LLM 推理成本高昂的主要原因是存储和数据移动问题，我认为数据库工程师在几十年前就解决了这些问题。 在我看来，预填充基本上是一个缓冲池重建，没有人费心去缓存。 因此，我使用 LMCache 作为具体示例（分层存储、分块 I/O、能够承受引擎搅动的连接器）来撰写本文。包括 70B 模型的有效成本示例以及悄悄降低命中率的东西。 很好奇人们在生产中看到了什么。 ✌️   由   提交/u/tirtha_s  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1re2yez/why_do_so_many_llm_stacks_still_recompute_prefill/</guid>
-      <pubDate>Wed, 25 Feb 2026 04:09:03 GMT</pubDate>
-    </item>
-    <item>
       <title>使用 SwiftUI 和 Firebase 构建并推出了一款社交应用程序，吸取了经验教训。</title>
       <link>https://www.reddit.com/r/programming/comments/1re2c05/built_and_launched_a_social_app_with_swiftui_and/</link>
       <description><![CDATA[我刚刚启动了一个我已经构建了一段时间的 iOS 应用程序。它是教堂社区的一个小众社交平台，但我分享的更多是工程方面的而不是产品本身。 Stack： SwiftUI Firebase Auth Firestore Firebase Storage FCM RevenueCat 用于订阅 它有两个具有不同权限的用户角色、具有排序逻辑的提要、实时一对一消息传递、带有 RSVP 跟踪的事件创建、通知首选项同步到 Firestore、审核/报告工具和深度链接。 到目前为止的一些技术经验教训： Firestore 数据建模的重要性超出了我的预期。围绕提要查询和角色分离预先设计集合，可以在以后保存重构。 实时消息传递很容易开始工作，但管理未读计数、输入指示器和通知边缘情况会迅速增加复杂性。 推送通知首选项在早期很容易被忽略，但后期改造会很痛苦。 功能工作很有趣。思考状态管理和边缘情况是大部分实时时间的所在。 它才上线几天，所以我对长期技术考虑更好奇。 对于那些使用 Firebase 大规模构建社交风格应用的人： 您最大的瓶颈是什么？ 您是否后悔使用 Firestore 进行 Feed？ 有任何扩展方面的惊喜吗？ 更喜欢技术讨论而不是产品反馈。   由   提交 /u/worsthackeralive   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[最近重新开始写博客，这个系列主要是数据分析。其中第一个条目重点介绍如何可视化存储在电子表格中的工作申请数据。第二个条目（链接在此处）是关于从垃圾箱机器人中抓取数据的。希望您喜欢！   由   提交 /u/LivInTheLookingGlass   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rdwlk5/lessons_in_grafana_part_two_litter_logs/</guid>
       <pubDate>Tue, 24 Feb 2026 23:31:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>宝贝，再来一次解析我：通过解析差异绕过 HTML Sanitizer</title>
-      <link>https://www.reddit.com/r/programming/comments/1rdwl03/parse_me_baby_one_more_time_bypassing_html/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rdwl03/parse_me_baby_one_more_time_bypassing_html/</guid>
-      <pubDate>Tue, 24 Feb 2026 23:30:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
