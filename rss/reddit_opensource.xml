@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 25 Feb 2026 01:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 04:49:06 GMT</lastBuildDate>
+    <item>
+      <title>我厌倦了剔除数千张鸟类照片，所以我构建了一个开源应用程序来做到这一点。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1re0oe2/i_got_tired_of_culling_thousands_of_bird_photos/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1re0oe2/i_got_tired_of_culling_thousands_of_bird_photos/</guid>
+      <pubDate>Wed, 25 Feb 2026 02:24:26 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Lua 用 Defold 引擎制作的开源 Minecraft 克隆</title>
       <link>https://www.reddit.com/r/opensource/comments/1rdru9x/an_open_source_minecraft_clone_made_in_defold/</link>
@@ -48,7 +55,7 @@
       <pubDate>Mon, 23 Feb 2026 23:12:14 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个开源 Google Analytics 和 reCAPTCHA 替代方案</title>
+      <title>我构建了一个开源 Google Analytics 和 reCAPTCHA 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1rcoo45/i_built_an_open_source_google_analytics_recaptcha/</link>
       <description><![CDATA[      嗨，在过去的 5 年里，我一直在构建 Swetrix - 一个隐私友好、无 cookie 的 OSS，可替代 Google Analytics 和 reCAPTCHA。 Google reCAPTCHA Google 服务对于隐私而言非常糟糕，而且很难设置和使用；大多数现有的 OSS 替代品也太基础，不能完全取代 GA，所以我想构建更好的东西 使用 Swetrix，您可以监控网站的流量和速度，跟踪任何 JavaScript 错误（Sentry 替代品），设置目标或渠道 Swetrix reCAPTCHA 替代品也是 100% 自托管，不会用谜题轰炸您的用户（这类似于 Cloudflare 的 Turnstile）作品） 非常感谢一些反馈:)   由   提交 /u/Sensiduct   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rcoo45/i_built_an_open_source_google_analytics_recaptcha/</guid>
@@ -83,7 +90,7 @@
       <pubDate>Mon, 23 Feb 2026 00:19:22 GMT</pubDate>
     </item>
     <item>
-      <title>Sentry 的轻量级替代品</title>
+      <title>Sentry 的轻量级替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1rbt0b5/lightweight_alternative_to_sentry/</link>
       <description><![CDATA[大家好 - 我想分享一个我一直在做的项目。它旨在成为 Sentry 的轻量级、自托管替代品。我能够使用大约 2GB 的 RAM + 4 个容器来支持我的个人项目，而 Sentry 的最低容量为 16GB 和 20 个以上容器。 存储库中的所有内容都是在 AGPLv3 许可证下开源的，并带有一个我为云内容合并的企业模块。 这是我的第一个开源项目，因此对于更有经验的人，我很乐意听到您的反馈！  https://github.com/moneat-io/moneat   由   提交/u/imafirinmalazorr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rbt0b5/lightweight_alternative_to_sentry/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rbkzwe/large_us_company_came_after_me_for_releasing_a/</guid>
       <pubDate>Sun, 22 Feb 2026 12:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了过去 6 个月的时间构建了一个愿景，即根据规范或现有存储库生成软件架构</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rbjpx1/ive_spent_past_6_months_building_a_vision_to/</link>
-      <description><![CDATA[大家好！我一直在构建 DevilDev，这是一个开源工作区，用于在编写一行代码之前根据上下文设计软件架构。 DevilDev 根据规范或通过分析现有代码库生成软件架构蓝图。将其视为一个工具中的“AI + 系统设计”。在构建过程中，我意识到上下文的重要性：DevilDev 还包括与您的架构保持关联的 Pact（错误、任务、功能）。您可以在 DevilDev 中管理这些任务，甚至可以将它们作为 GitHub 问题推送。结果是人工智能辅助的工作流程：提示 -&gt;架构蓝图-&gt;跟踪开发任务。 请告诉我你们的想法？   由   提交 /u/Calm_Sandwich069   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rbjpx1/ive_spent_past_6_months_building_a_vision_to/</guid>
-      <pubDate>Sun, 22 Feb 2026 11:39:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
