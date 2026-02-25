@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 24 Feb 2026 21:25:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Feb 2026 01:05:42 GMT</lastBuildDate>
+    <item>
+      <title>Docker 容器的十年</title>
+      <link>https://www.reddit.com/r/programming/comments/1rdxjyl/a_decade_of_docker_containers/</link>
+      <description><![CDATA[ 由   提交 /u/mttd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rdxjyl/a_decade_of_docker_containers/</guid>
+      <pubDate>Wed, 25 Feb 2026 00:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grafana 课程 - 第二部分：垃圾日志</title>
+      <link>https://www.reddit.com/r/programming/comments/1rdwlk5/lessons_in_grafana_part_two_litter_logs/</link>
+      <description><![CDATA[最近重新开始写博客，这个系列主要是数据分析。其中第一个条目重点介绍如何可视化存储在电子表格中的工作申请数据。第二个条目（链接在此处）是关于从垃圾箱机器人中抓取数据的。希望您喜欢！   由   提交 /u/LivInTheLookingGlass   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rdwlk5/lessons_in_grafana_part_two_litter_logs/</guid>
+      <pubDate>Tue, 24 Feb 2026 23:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>宝贝，再来一次解析我：通过解析差异绕过 HTML Sanitizer</title>
+      <link>https://www.reddit.com/r/programming/comments/1rdwl03/parse_me_baby_one_more_time_bypassing_html/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rdwl03/parse_me_baby_one_more_time_bypassing_html/</guid>
+      <pubDate>Tue, 24 Feb 2026 23:30:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>剖析垃圾收集中 CPU 与内存的关系</title>
+      <link>https://www.reddit.com/r/programming/comments/1rdthld/dissecting_the_cpumemory_relationship_in_garbage/</link>
+      <description><![CDATA[ 由   提交 /u/ammbra   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rdthld/dissecting_the_cpumemory_relationship_in_garbage/</guid>
+      <pubDate>Tue, 24 Feb 2026 21:33:51 GMT</pubDate>
+    </item>
     <item>
       <title>在没有 Pydantic、数据类或代码生成的情况下构建 Pythonic REST 客户端</title>
       <link>https://www.reddit.com/r/programming/comments/1rdr4g1/building_a_pythonic_rest_client_without_pydantic/</link>
@@ -32,13 +60,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rdpbv7/scheduling_in_a_baremetal_web_server/</guid>
       <pubDate>Tue, 24 Feb 2026 19:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>你知道你的node_modules文件夹里有什么吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1rdpbj3/do_you_know_whats_in_your_node_modules_folder/</link>
-      <description><![CDATA[ 由   提交/u/cresta29  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rdpbj3/do_you_know_whats_in_your_node_modules_folder/</guid>
-      <pubDate>Tue, 24 Feb 2026 19:04:22 GMT</pubDate>
     </item>
     <item>
       <title>现代存储 I/O 的常见性能缺陷</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rdmj9t/how_macos_controls_performance_qos_on_intel_and/</guid>
       <pubDate>Tue, 24 Feb 2026 17:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>TLA+ 举例</title>
-      <link>https://www.reddit.com/r/programming/comments/1rdmisp/tla_by_example/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rdmisp/tla_by_example/</guid>
-      <pubDate>Tue, 24 Feb 2026 17:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Go 二进制文件的大小减少多达 77%</title>
-      <link>https://www.reddit.com/r/programming/comments/1rdmh56/reducing_the_size_of_go_binaries_by_up_to_77/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rdmh56/reducing_the_size_of_go_binaries_by_up_to_77/</guid>
-      <pubDate>Tue, 24 Feb 2026 17:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>λProlog：高阶逻辑中的逻辑编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1rdmfiy/λprolog_logic_programming_in_higherorder_logic/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rdmfiy/λprolog_logic_programming_in_higherorder_logic/</guid>
-      <pubDate>Tue, 24 Feb 2026 17:22:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
