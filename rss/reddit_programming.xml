@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 26 Feb 2026 06:44:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 09:38:04 GMT</lastBuildDate>
+    <item>
+      <title>我建立了一个半自主平台来模仿整个软件开发周期</title>
+      <link>https://www.reddit.com/r/programming/comments/1rf5sq7/i_built_a_semiautonomous_platform_that_mimics_the/</link>
+      <description><![CDATA[我最初开始这个项目是为了解决每个经验丰富的开发人员或技术主管都会遇到的问题：糟糕的需求悄悄地杀死了原本有能力的团队。 好的需求改变了一切。 明确的需求提升了整个交付链：改进估计、规划、质量和决策。 ScrumBuddy，我的第一个创意，在代码发布之前就暴露了差距、矛盾和假设。写的。团队行动更快，浪费减少，计划变得扎实。 但随着时间的推移，我们意识到一个更深层次的事实：需求不仅定义范围，还定义下游的一切。 仅改进需求是不够的。碎片化是一个问题。 团队真正需要的是清晰的思路：从规划到架构，到实施，再到审核。 不是另一个插件。不是另一个 Jira 层。保持上下文完整的互联系统。 ScrumBuddy 帮助解决了 Scrum 团队的需求。随着时间的推移，我们意识到 Scrum 之外的规划、架构、代码和测试中也存在同样的问题。 Brunelly 正在发展自己的产品。它是一个半自主的工程系统。人类设定方向、验证假设并应用判断。 Brunelly 承担了拖慢团队速度的结构化、重复性、执行繁重的工作。 它是适合那些关心寿命、结构和清晰度的团队的人工智能，而不仅仅是生活在动力等同于进步的幻想之下。   由   提交/u/Proof_Shift_9799   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rf5sq7/i_built_a_semiautonomous_platform_that_mimics_the/</guid>
+      <pubDate>Thu, 26 Feb 2026 09:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 如何阻止 SVG 中的外部图像 - 以及如何使用 base64 编码解决此问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1rf5qua/how_github_blocks_external_images_in_svgs_and_how/</link>
+      <description><![CDATA[在构建一个为 GitHub README 生成 YouTube 预览卡的小工具时，我遇到了一些根本不明显的问题。也许它可以为其他人节省一个小时。 问题 我想在 SVG 中嵌入 YouTube 缩略图。在本地它运行得很好。但在 GitHub 上——一片空白。只是一张空卡。在我弄清楚到底发生了什么之前，我花了很长时间认为这是我的代码中的一个错误。 为什么会发生 GitHub 的 Markdown 清理程序从 SVG 内的  标签中删除外部 URL。这是一种防止跟踪像素和混合内容问题的安全措施。 SVG 本身渲染得很好，但其中引用的任何外部资源都会被默默地阻止。它没有被非常显着地记录，这就是为什么它让很多人措手不及。 修复：base64 编码 您可以在服务器端获取图像并将其转换为 base64 数据 URI，然后再将其嵌入到 SVG 中，而不是直接链接到图像 URL。由于图像数据现在位于 SVG 字符串本身内部而不是作为外部 URL，因此 GitHub 渲染它不会出现任何问题。代价是，base64 使响应大小增加了大约 33%，对于大约 20KB 的典型 YouTube 缩略图来说，大约增加了 27KB。如果您需要实际显示图像，那么这是值得的。 额外发现：oEmbed 在构建此项目时，我还发现 YouTube 有一个公共 oEmbed 端点，可以通过零身份验证返回视频的标题和缩略图 URL — 无需 API 密钥、无需配额、无需开发者帐户。我不知道这个存在。您只需点击 youtube.com/oembed?url=VIDEO_URL&amp;format=json 即可获取您需要的所有内容。其用途远远超出了这个特定的用例。 我最终将其变成了一个小型开源工具，可以将这些卡片生成为可部署服务 - 如果有人好奇，可以在评论中链接到存储库。但是，base64 技巧适用于您需要 SVG 中的图像才能在 GitHub 上实际呈现的任何情况。 很高兴回答有关实现的问题。   由   提交 /u/DazzlingChicken4893   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rf5qua/how_github_blocks_external_images_in_svgs_and_how/</guid>
+      <pubDate>Thu, 26 Feb 2026 09:29:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA 的 CuTe 如何用可组合布局代数取代 GPU 索引算法</title>
+      <link>https://www.reddit.com/r/programming/comments/1rf4hk6/how_nvidias_cute_replaces_gpu_index_arithmetic/</link>
+      <description><![CDATA[ 由   提交 /u/amandeepspdhr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rf4hk6/how_nvidias_cute_replaces_gpu_index_arithmetic/</guid>
+      <pubDate>Thu, 26 Feb 2026 08:09:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>可视化 HTTPS、OAuth、Git 和 TCP 的实际工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1rf38tj/visualizing_how_https_oauth_git_and_tcp_actually/</link>
+      <description><![CDATA[ 由   提交/u/nulless  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rf38tj/visualizing_how_https_oauth_git_and_tcp_actually/</guid>
+      <pubDate>Thu, 26 Feb 2026 06:55:31 GMT</pubDate>
+    </item>
     <item>
       <title>代理无法回答的四个问题：代理编写代码后的软件工程</title>
       <link>https://www.reddit.com/r/programming/comments/1rf2ymn/four_questions_agents_cant_answer_software/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1remc64/om_is_a_novel_maximallysimple_concatenative/</guid>
       <pubDate>Wed, 25 Feb 2026 18:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>LoFi/34 聚会</title>
-      <link>https://www.reddit.com/r/programming/comments/1rek3sw/lofi34_meetup/</link>
-      <description><![CDATA[ 由   提交/u/yonz-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rek3sw/lofi34_meetup/</guid>
-      <pubDate>Wed, 25 Feb 2026 17:42:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>“程序员相信时间的谎言”仍然是最好的提醒，时间处理从根本上被破坏了</title>
-      <link>https://www.reddit.com/r/programming/comments/1rejwmj/falsehoods_programmers_believe_about_time_still/</link>
-      <description><![CDATA[“程序员相信时间的谎言”是一个经典的提醒，时间处理从根本上来说是混乱的。 它遍历了错误的假设，例如：  天总是 24 小时 时钟保持同步 时间戳是唯一的 时区不会改变 系统时钟准确  它还引用了实际生产问题（例如，KVM 下的 VM 时钟漂移），以表明这些不是理论上的边缘情况。 与后端、分布式系统和应用程序仍然高度相关。基础设施。   由   提交 /u/Digitalunicon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rejwmj/falsehoods_programmers_believe_about_time_still/</guid>
-      <pubDate>Wed, 25 Feb 2026 17:36:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 年的反编译和未解决的结构化问题：第 1 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1rej3ql/30_years_of_decompilation_and_the_unsolved/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rej3ql/30_years_of_decompilation_and_the_unsolved/</guid>
-      <pubDate>Wed, 25 Feb 2026 17:08:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lambda World 2019 - 使用 Racket 进行面向语言的编程 - Matthias Felleisen</title>
-      <link>https://www.reddit.com/r/programming/comments/1rej17v/lambda_world_2019_languageoriented_programming/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rej17v/lambda_world_2019_languageoriented_programming/</guid>
-      <pubDate>Wed, 25 Feb 2026 17:06:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
