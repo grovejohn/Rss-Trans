@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 26 Feb 2026 18:37:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Feb 2026 21:25:03 GMT</lastBuildDate>
+    <item>
+      <title>使用 .NET Native AOT 离线游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1rfmrl4/offlining_a_live_game_with_net_native_aot/</link>
+      <description><![CDATA[ 由   提交/u/Seph13  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rfmrl4/offlining_a_live_game_with_net_native_aot/</guid>
+      <pubDate>Thu, 26 Feb 2026 21:18:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有急切文字交集的惰性二元决策图</title>
+      <link>https://www.reddit.com/r/programming/comments/1rfll6l/lazy_binary_decision_diagrams_with_eager_literal/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rfll6l/lazy_binary_decision_diagrams_with_eager_literal/</guid>
+      <pubDate>Thu, 26 Feb 2026 20:35:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>生产中的 Rust：JetBrains</title>
+      <link>https://www.reddit.com/r/programming/comments/1rfl42t/rust_in_production_jetbrains/</link>
+      <description><![CDATA[本次采访探讨了 JetBrains 支持 Rust 基金会并围绕 rust-analyzer 等共享工具进行协作的策略、启动 RustRover 的基本原理，以及用户采用数据如何确定调试、异步 Rust 工作流程和测试工具（包括 Cargo nextest）等优先级。   由   提交 /u/Hefty-Necessary7621   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rfl42t/rust_in_production_jetbrains/</guid>
+      <pubDate>Thu, 26 Feb 2026 20:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>开环与闭环：基准犯罪</title>
+      <link>https://www.reddit.com/r/programming/comments/1rfjr3w/open_vs_closed_loop_a_benchmarking_crime/</link>
+      <description><![CDATA[这篇文章用相对简单的术语解释了什么是开环基准测试以及为什么正确实现这一点至关重要。 我不是第一个撰写此主题的人，但我怀疑我不是唯一一个没有充分考虑其基准测试设置细节的人。   由   提交 /u/curly_droid   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rfjr3w/open_vs_closed_loop_a_benchmarking_crime/</guid>
+      <pubDate>Thu, 26 Feb 2026 19:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试“原始”GPU 缓存延迟</title>
+      <link>https://www.reddit.com/r/programming/comments/1rfjjrj/testing_raw_gpu_cache_latency/</link>
+      <description><![CDATA[ 由   提交/u/mttd  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rfjjrj/testing_raw_gpu_cache_latency/</guid>
+      <pubDate>Thu, 26 Feb 2026 19:19:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>SFQ：简单、无状态、随机公平</title>
+      <link>https://www.reddit.com/r/programming/comments/1rfjeta/sfq_simple_stateless_stochastic_fairness/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rfjeta/sfq_simple_stateless_stochastic_fairness/</guid>
+      <pubDate>Thu, 26 Feb 2026 19:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI=true 是一种反模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1rfiwf5/aitrue_is_an_antipattern/</link>
+      <description><![CDATA[ 由   提交/u/keleshev   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rfiwf5/aitrue_is_an_antipattern/</guid>
+      <pubDate>Thu, 26 Feb 2026 18:56:07 GMT</pubDate>
+    </item>
     <item>
       <title>使 WebAssembly 成为 Web 上的一流语言</title>
       <link>https://www.reddit.com/r/programming/comments/1rfgzit/making_webassembly_a_firstclass_language_on_the/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/AltruisticPrimary34  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rff19y/planning_and_executing_a_successful_hosting/</guid>
       <pubDate>Thu, 26 Feb 2026 16:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Docker 容器的十年</title>
-      <link>https://www.reddit.com/r/programming/comments/1rfeav0/a_decade_of_docker_containers/</link>
-      <description><![CDATA[ 由   提交/u/mariuz  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rfeav0/a_decade_of_docker_containers/</guid>
-      <pubDate>Thu, 26 Feb 2026 16:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>一位风投和一些大牌程序员正试图永久解决开源的资金问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1rfeaei/a_vc_and_some_bigname_programmers_are_trying_to/</link>
-      <description><![CDATA[ 由   提交 /u/Outrageous-Baker5834   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rfeaei/a_vc_and_some_bigname_programmers_are_trying_to/</guid>
-      <pubDate>Thu, 26 Feb 2026 16:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从《Google 软件工程》这本书中学到了什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1rfe59k/what_i_learned_from_the_book_software_engineering/</link>
-      <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rfe59k/what_i_learned_from_the_book_software_engineering/</guid>
-      <pubDate>Thu, 26 Feb 2026 16:05:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>90 年代孩子的代码之旅：从 DOS 课程到网络构建</title>
-      <link>https://www.reddit.com/r/programming/comments/1rfdav9/a_90s_kids_journey_into_code_from_dos_classes_to/</link>
-      <description><![CDATA[大家好， 我写了一些关于我如何进入编码的个人内容，从 90 年代在我父亲办公室使用一台旧计算机开始，每周学校计算机课程，拨号上网日，以及我第一次托管世界上任何人都可以打开的网页。 这不是技术教程。这更多地反映了早期接触科技的微妙方式如何悄悄地塑造生活。 我真的很想知道其中的部分内容是否能引起您的共鸣，尤其是如果您是在 90 年代或 2000 年代初长大的。 这是这篇文章： https://biswarout.com/posts/sparked-by-a-screen-a-90s-kids-journey-into-code/ 接受反馈 🙂   由   提交/u/Financial-Swan4960   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rfdav9/a_90s_kids_journey_into_code_from_dos_classes_to/</guid>
-      <pubDate>Thu, 26 Feb 2026 15:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我在 2026 年放弃数据获取 Hook 转而使用 Redux</title>
-      <link>https://www.reddit.com/r/programming/comments/1rfd40d/why_i_abandoned_datafetching_hooks_for_redux_in/</link>
-      <description><![CDATA[ 由   提交/u/avin_2020  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rfd40d/why_i_abandoned_datafetching_hooks_for_redux_in/</guid>
-      <pubDate>Thu, 26 Feb 2026 15:27:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员是安全的……得益于企业的繁文缛节</title>
-      <link>https://www.reddit.com/r/programming/comments/1rfc62c/developers_are_safe_thanks_to_corporate_red_tape/</link>
-      <description><![CDATA[ 由   提交/u/Select_Bicycle4711  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rfc62c/developers_are_safe_thanks_to_corporate_red_tape/</guid>
-      <pubDate>Thu, 26 Feb 2026 14:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能正在扼杀开源吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1rfbyq3/is_ai_killing_open_source/</link>
-      <description><![CDATA[大家好， 我看到了一种持续的趋势，OSS 本质上正在被 AI 模型消耗，甚至他们的收入（例如，我认为最近收入下降了 80%）。我喜欢并使用了如此多的 OSS，以至于看到 AI 如何消耗 OSS 有点令人沮丧。这里的博客文章分享了当前维护者正在对抗的围绕人工智能的贫困和大量贡献的问题。但总的来说，你认为 OSS 会生存吗？人工智能会杀死开源项目吗？ 如果我必须预测，我认为 OSS 正处于向封闭/私有项目的下降趋势，仅仅是因为人工智能消耗了开放/公共的内容。我当然希望我是错的。我不知道，你觉得怎么样？   由   提交 /u/TheEnormous   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rfbyq3/is_ai_killing_open_source/</guid>
-      <pubDate>Thu, 26 Feb 2026 14:43:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
