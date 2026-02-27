@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 27 Feb 2026 09:31:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 12:33:03 GMT</lastBuildDate>
     <item>
       <title>macOS 黑客新闻</title>
       <link>https://www.producthunt.com/products/hacker-news-for-macos</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/hacker-news-for-macos</guid>
       <pubDate>Fri, 27 Feb 2026 01:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>尼克斯捕获</title>
+      <link>https://www.producthunt.com/products/nix-capture</link>
+      <description><![CDATA[
+            在几秒钟内捕获错误报告的 API 请求
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nix-capture</guid>
+      <pubDate>Thu, 26 Feb 2026 20:01:02 GMT</pubDate>
     </item>
     <item>
       <title>信号鹰</title>
@@ -34,20 +48,6 @@
       <pubDate>Thu, 26 Feb 2026 19:59:34 GMT</pubDate>
     </item>
     <item>
-      <title>基岩</title>
-      <link>https://www.producthunt.com/products/bedrock-5</link>
-      <description><![CDATA[
-            即使被拒绝也能获得美国银行的批准
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/bedrock-5</guid>
-      <pubDate>Thu, 26 Feb 2026 19:34:28 GMT</pubDate>
-    </item>
-    <item>
       <title>纳米香蕉2</title>
       <link>https://www.producthunt.com/products/nano-banana-2-11</link>
       <description><![CDATA[
@@ -60,6 +60,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/nano-banana-2-11</guid>
       <pubDate>Thu, 26 Feb 2026 16:17:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行Whatdoiwear</title>
+      <link>https://www.producthunt.com/products/whatdoiwear-run</link>
+      <description><![CDATA[
+            现代跑步者的装备引擎
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/whatdoiwear-run</guid>
+      <pubDate>Thu, 26 Feb 2026 15:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>穆西基</title>
+      <link>https://www.producthunt.com/products/musikey-music-auth</link>
+      <description><![CDATA[
+            严格的音乐认证以确保可访问性 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/musikey-music-auth</guid>
+      <pubDate>Thu, 26 Feb 2026 15:39:56 GMT</pubDate>
     </item>
     <item>
       <title>柠檬荚.ai</title>
@@ -76,46 +104,18 @@
       <pubDate>Thu, 26 Feb 2026 13:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>这是怎么回事？</title>
-      <link>https://www.producthunt.com/products/what-s-up-with-that</link>
+      <title>米恩特工作室</title>
+      <link>https://www.producthunt.com/products/mvntstudio</link>
       <description><![CDATA[
-            立即了解您正在阅读的主题
+            每首音乐的舞蹈人工智能！
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/what-s-up-with-that</guid>
-      <pubDate>Thu, 26 Feb 2026 01:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>展示专业版</title>
-      <link>https://www.producthunt.com/products/showcasepro</link>
-      <description><![CDATA[
-            将照片转换为优雅的设计以进行营销+分享
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/showcasepro</guid>
-      <pubDate>Wed, 25 Feb 2026 17:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>困惑度计算机</title>
-      <link>https://www.producthunt.com/products/perplexity-ai</link>
-      <description><![CDATA[
-            人工智能能做的一切，困惑计算机都会为你做。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/perplexity-ai</guid>
-      <pubDate>Wed, 25 Feb 2026 16:49:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mvntstudio</guid>
+      <pubDate>Thu, 26 Feb 2026 09:25:28 GMT</pubDate>
     </item>
     <item>
       <title>MiniMax 的 MaxClaw</title>
@@ -177,7 +177,7 @@
       <title>这里</title>
       <link>https://www.producthunt.com/products/muno-2</link>
       <description><![CDATA[
-            人工智能代理与您的团队交谈并为您完成任务。
+            人工智能代理可以与您的团队交谈并为您完成任务。
           
 
 讨论
