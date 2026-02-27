@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 26 Feb 2026 21:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 01:00:48 GMT</lastBuildDate>
+    <item>
+      <title>更新：美国大公司因发布免费的开源自托管替代方案而追捕我 - 解决对我们有利</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rfrtj1/update_large_us_company_came_after_me_for/</link>
+      <description><![CDATA[这是我的 关于我收到的 C&amp;D 通知的上一篇文章。我向社区传达了一些令人难以置信的消息：该问题已正式得到解决，有利于整个无人机和 OSS 社区。 TLDR： AirData UAV 已满足社区的担忧，实施了强大的数据取出解决方案，我们已经优雅地解决了该问题。 有问题的免费 OSS 项目： www.opendronelog.com ---------------- 由于法律威胁不再有效，我终于可以命名该公司了。这是AirData UAV，一家位于美国的无人机日志分析和报告服务公司。 Eran 说，在这篇更新文章中，我可以选择命名或不命名，我选择命名，因为我没有什么不好的话可说了。 尽管第一种方法是 C&amp;D，但最终结果实际上比我希望的要好（实际上很惊讶！）。非常感谢u/Archiver_test4，他无偿地担任我的法律代表（免费！！并且拒绝捐赠）。他准备了强有力的回应，帮助我充满信心地度过了难关。他甚至创建了一个新的 Reddit 子版块，r/Opensource_legalAid，以帮助处于类似情况的其他独立开发者。 与 Airdata UAV 首席执行官 Eran Steiner 的会面 响应 原始帖子获得，AirData首席执行官Eran帖子发布后 6 小时内，斯坦纳通过电子邮件联系了一次面对面的会议。他对他们最初采取的法律途径表示遗憾（他和首席执行官都对此负责），并亲自在我们发言之前做出了以下更改：  官方数据导出解决方案：这是主要目标（也是我对数据可移植性和公平性的要求，因为逐一导出文件，点击一个又一个等待是痛苦的）。 AirData UAV 现在提供中央外卖解决方案，使其完全符合 GDPR 标准。您现在可以以原始格式下载数据，而无需我的第 3 方自动化“补丁”。如果您有兴趣，请请查看此处。 商标解决方案：我们同意公平表述和免责声明是正确的选择。我已经将这些添加到我的项目中，并且在欧盟法律允许的情况下，我可以在代表真实事实时自由使用他们的名字。除了他们实际拥有或不拥有哪些商标权之外，我不会谈论更多的技术/法律方面的问题。 帐户恢复：作为善意的表示，在我询问之前，他们已经完全恢复了我的帐户以及我的所有日​​志文件。 ❤️ 我们同意放弃所有指控，并在未来亲自讨论任何问题，而不是让律师参与。  我只是一个在业余时间工作的独立开发者，我无意与老牌公司竞争。我很高兴社区现在拥有我所希望的真正的数据可移植性，并且他们可以根据自己喜欢的功能/界面自由选择。感谢埃兰让这一切如此之快地发生，没有任何戏剧性/延迟或失信。 AirData UAV 不再“保存您的数据”让您留在他们的平台上。公平地说，他们确实拥有功能齐全且数据丰富的工具集，社区中的许多人仍然喜欢这些工具集（包括我自己！） - 他们还拥有非常强大的数据同步解决方案，效果非常好。他们没有向我支付、贿赂或赞助，我只是给予应得的信任。 感谢 r/opensource 所有人的支持。它改变了一切！开源，共赢！   由   提交 /u/funyflyer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rfrtj1/update_large_us_company_came_after_me_for/</guid>
+      <pubDate>Fri, 27 Feb 2026 00:37:41 GMT</pubDate>
+    </item>
     <item>
       <title>开源的 UX/UI 设计师，你们的经历是怎样的？</title>
       <link>https://www.reddit.com/r/opensource/comments/1rfj3a6/uxui_designers_in_open_source_whats_your/</link>
@@ -62,7 +69,7 @@
       <pubDate>Thu, 26 Feb 2026 14:59:22 GMT</pubDate>
     </item>
     <item>
-      <title>我们应该说“SaaS 正在欺骗你，因为你不懂人工智能工程”吗？对开源 AI 联络中心平台的反馈 - 可自行托管、平台无关、自带 LLM 和语音堆栈</title>
+      <title>我们应该说“SaaS 正在欺骗你，因为你不懂人工智能工程”吗？对开源 AI 联络中心平台的反馈 - 可自行托管、与平台无关、自带 LLM 和语音堆栈</title>
       <link>https://www.reddit.com/r/opensource/comments/1rfc1g5/should_we_say_saas_is_ripping_you_off_because_you/</link>
       <description><![CDATA[ 由   提交 /u/Ok_Spare917   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rfc1g5/should_we_say_saas_is_ripping_you_off_because_you/</guid>
@@ -99,16 +106,9 @@
     <item>
       <title>将 FOSS 许可证从 AGPL 3.0 切换到 Apache 2.0，试图找出许可证对采用的影响有多大</title>
       <link>https://www.reddit.com/r/opensource/comments/1redck9/switched_foss_license_from_agpl_30_to_apache_20/</link>
-      <description><![CDATA[我之前的大部分项目也都获得了 Apache 2.0 的许可，并获得了足够的知名度和认可度。用法（一个 Chrome 扩展程序、一个 Kotlin 库和一个其他一些）。 对于我的最新项目，我开始了使用 AGPL 3.0，旨在个人使用和使用较小的公司（即那些没有法律部门建议他们反对 AGPL 3.0 的公司）将能够永久免费使用它，但较大的公司将是付费专有许可证的良好候选者。 几周后，我改变了这一立场。对于像这样的小型项目，将其全部采用 Apache 2.0（或 MIT 或 BSD）可能更有意义，因为这向任何想要使用它的人敞开了大门。 我们听说过（负面的）许多项目以 Apache 2.0 开始，然后最终成为专有的。  想知道人们是否有经验可以分享，从病毒式的 GPL 式许可证开始，然后开放它，以及这对采用有何影响。 （如果您对特定项目感到好奇，它是一个自托管工具，可以从模板自动生成 OpenGraph 图像。可以将其视为 Bannerbear、RenderForm 等 SaaS 工具的开源版本）。   由   提交 /u/chimbori   [链接] [评论]]]></description>
+      <description><![CDATA[我之前的大部分项目也都获得了 Apache 2.0 的许可，并获得了足够的知名度和认可度。使用（一个 Chrome 扩展程序、一个 Kotlin 库和一个其他一些）。 对于我的最新项目，我开始了使用 AGPL 3.0，旨在个人使用和使用较小的公司（即那些没有法律部门建议他们反对 AGPL 3.0 的公司）将能够永久免费使用它，但较大的公司将是付费专有许可证的良好候选者。 几周后，我改变了这一立场。对于像这样的小型项目，将其全部采用 Apache 2.0（或 MIT 或 BSD）可能更有意义，因为这向任何想要使用它的人敞开了大门。 我们听说过（负面的）许多项目以 Apache 2.0 开始，然后最终成为专有的。  想知道人们是否有经验可以分享，从病毒式的 GPL 式许可证开始，然后开放它，以及这对采用有何影响。 （如果您对特定项目感到好奇，它是一个自托管工具，可以从模板自动生成 OpenGraph 图像。可以将其视为 Bannerbear、RenderForm 等 SaaS 工具的开源版本）。   由   提交 /u/chimbori   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1redck9/switched_foss_license_from_agpl_30_to_apache_20/</guid>
       <pubDate>Wed, 25 Feb 2026 13:34:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux 版 Lenovo Vantage 的替代方案：KVantage</title>
-      <link>https://www.reddit.com/r/opensource/comments/1re8g3j/an_alternative_to_lenovo_vantage_for_linux/</link>
-      <description><![CDATA[      TLDR：我创建了 Lenovo Vantage 的替代方案，用于在 Linux 上控制电源配置文件、电池节省模式和快速充电设置。在 Kotlin JVM 中创建，可在本文底部的 GitHub 中找到。 --- 大家晚上好！ 随着时间的推移，我在使用 Linux 时遇到的困难之一是，找到一个好的硬件控制中心对我来说有点困难。例如，HP 上的 OMEN 应用程序或 Lenovo 上的 Vantage。 不久前，我换用了 Lenovo 笔记本电脑，在寻找 Linux 版 Vantage 的替代品时，我在 Arch wiki 中发现了一个名为 batmanager 的 CLI 应用程序，它非常完美。问题是什么？ Distrohopping 将我引向 NixOS，在其中我遭受了前所未有的痛苦。由于动态链接，batmanager 无法工作，而且我还不够好，无法在外星操作系统中编译 Rust 程序。不是操作系统的问题，而是缺乏技能的问题。所以...我有一个想法：创建一个友好的应用程序，就像官方的 Lenovo Vantage 一样，但更干净，并且可以在任何发行版中运行，减少依赖关系的需要。专为 Lenovo Linux 新用户设计，因此他们无需费力。 我选择了 Kotlin + Compose Multiplatform，并通过自己的方式完成了它。现在该应用程序已为你们准备好了，我衷心希望它对你们有用。 重要：  该应用程序在 JVM（Java 虚拟机）中运行。所以你的 Linux 机器上必须安装 JVM。我建议您安装最新的 openjdk 软件包。只要确保安装完整的 openjdk，没有“headless”即可。版本。 您必须安装 acpi 软件包和 acpi_call 模块。该应用程序依赖它们来工作。  我已尽最大努力编写此应用程序。不过，这是我的第一个 Compose 多平台应用程序，因此您可能会发现它没有最漂亮的 UI，也没有包含最干净或最惯用的 Kotlin 代码。只要有时间，我仍在学习和改进该应用程序。  请！！请随意留下您的想法和意见。只有得到您的反馈，我才会成长为一名开发人员。   由   提交/u/LibrarianEmpty5407  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1re8g3j/an_alternative_to_lenovo_vantage_for_linux/</guid>
-      <pubDate>Wed, 25 Feb 2026 09:14:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
