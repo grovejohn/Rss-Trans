@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 27 Feb 2026 00:59:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Feb 2026 04:30:46 GMT</lastBuildDate>
+    <item>
+      <title>愚蠢的人工智能概述</title>
+      <link>https://www.reddit.com/r/software/comments/1rfvlze/stupid_ai_overviews/</link>
+      <description><![CDATA[可能应该在 r/softwaregore 事后诸葛亮中发布此内容......我正在为一个项目查找有关宇航员的资料并看到了此内容。   由   提交/u/bluefog02  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rfvlze/stupid_ai_overviews/</guid>
+      <pubDate>Fri, 27 Feb 2026 03:27:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>在一台计算机上控制多只鼠标的软件？</title>
+      <link>https://www.reddit.com/r/software/comments/1rfsugt/software_to_control_multiple_mice_on_one_computer/</link>
+      <description><![CDATA[大家好。我想知道是否有人知道一种软件，可以让您在一台计算机上控制多个鼠标的速度级别。  并非所有鼠标在您获得时都会以您设置的当前速度级别（我已经尝试过）工作。  我需要一些东西来设置我使用的每个鼠标的速度级别。我不想在软件中选择不同的鼠标才能工作。只是我可以为我在该计算机上使用的每个鼠标设置速度级别，并且每当我使用我正在使用的鼠标时它就会运行它。谢谢   由   提交 /u/Sad_Pair8652   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rfsugt/software_to_control_multiple_mice_on_one_computer/</guid>
+      <pubDate>Fri, 27 Feb 2026 01:22:22 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了自己的音乐播放器，因为没有其他东西可以满足我的需求</title>
       <link>https://www.reddit.com/r/software/comments/1rfq6ym/i_built_my_own_music_player_because_nothing_else/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[从 macOS 切换到 Windows 后，我真的很怀念拥有一个合适的剪贴板管理器。 Win+V太基础了，Ditto也有一段时间没有更新了。所以我建立了自己的。 Beetroot - 一个现代剪贴板管理器，具有： - 在剪贴板历史记录中进行模糊 + 正则表达式搜索 - AI 文本转换（通过 OpenAI 翻译、总结、重写） - 从图像复制文本（内置 OCR，无需额外软件） - 8 个主题，包括深色模式和玻璃效果 - 6 种语言 - 多显示器支持 - 在光标所在的任何屏幕上打开 免费，无需帐户，一切都在您的电脑上本地运行。 网站：https://max.nardit.com/beetroot 很高兴回答任何问题！  https://preview.redd.it/i08ltysasulg1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=fc1878b81d8abc347949f5e1c1d4ec2fec133147 &lt;一href=&quot;https://preview.redd.it/mrqz9qsasulg1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=c60e492ea73493e89518f64aa90bd50fc4c3e6d3&quot;&gt; https://preview.redd.it/mrqz9qsasulg1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=c60e492ea73493e89518f64aa90bd50fc4c3e6d3 &lt;一href=&quot;https://preview.redd.it/h2h3pzsasulg1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=41e6216e71314a68df1cdb085295a02657a8ab5d&quot;&gt; https://preview.redd.it/h2h3pzsasulg1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=41e6216e71314a68df1cdb085295a02657a8ab5d &lt;一href=&quot;https://preview.redd.it/6k27zysasulg1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=6fd502a894b92f7be0ac773db9955017dd3d8227&quot;&gt; https://preview.redd.it/6k27zysasulg1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=6fd502a894b92f7be0ac773db9955017dd3d8227   由   提交 /u/MaxNardit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rfcdxj/i_built_a_clipboard_manager_for_windows_because/</guid>
       <pubDate>Thu, 26 Feb 2026 15:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>两个数字</title>
-      <link>https://www.reddit.com/r/software/comments/1rfbgrm/two_numbers/</link>
-      <description><![CDATA[嗨 - 我有工作电话 # 和个人电话 #，我发现我的手机（我使用双 SIM 卡）一直随机更改号码，iMessage 也是如此 - 对于我可以与 # 一起使用的其他电话文本程序有什么建议吗？我可以将其保留为工作文本专用。非常感谢！    由   提交 /u/Zealousideal-Bag1738   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rfbgrm/two_numbers/</guid>
-      <pubDate>Thu, 26 Feb 2026 14:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件开发的客户管理注意事项</title>
-      <link>https://www.reddit.com/r/software/comments/1rfa0xa/client_management_caveats_for_software_development/</link>
-      <description><![CDATA[软件开发的客户管理注意事项 大家好， 就上下文而言，我是一名初级软件开发人员（仍在学习计算机工程），即将与自由项目的客户会面，我想知道经验丰富的自由职业者如何解决我可能遇到的以下问题。该应用程序是一个简单的产品网络目录，用于为商店、其提供的服务创建在线形象，也可能是一个简单的产品管理应用程序（在桌面、网络或平板电脑上）来更新目录。我已经对技术堆栈进行了研究，并且能够与我的设计师一起创建产品，但我有几个问题： 1。关于云基础设施，例如托管应用程序的服务器、存储服务、域名站点等。 您是否为客户创建一个帐户来管理该客户帐户的所有内容，还是通过您的个人自由职业帐户注册这些服务？我发现这一点很重要，因为将来更容易将产品移交给客户，以便他们将来可以找到另一个维护者。 2.涉及与服务器、域名续订或额外费用相关的付款。 当客户每月向您付款时，您是否使用个人信用卡，或者您将这些付款直接委托给客户，而您只收取维护费用？ 3.有什么推荐或首选的数据备份平台吗？ 4.还有其他一般建议或需要考虑的事项吗？ 感谢您的宝贵时间   由   提交/u/Cattyto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rfa0xa/client_management_caveats_for_software_development/</guid>
-      <pubDate>Thu, 26 Feb 2026 13:22:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
