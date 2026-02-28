@@ -4,34 +4,34 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Feb 2026 00:54:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 04:13:21 GMT</lastBuildDate>
     <item>
-      <title>尼克斯捕获</title>
-      <link>https://www.producthunt.com/products/nix-capture</link>
+      <title>macOS 黑客新闻</title>
+      <link>https://www.producthunt.com/products/hacker-news-for-macos</link>
       <description><![CDATA[
-            在几秒钟内捕获错误报告的 API 请求
+            Hacker News 的本机 macOS 客户端，使用 SwiftUI 构建
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nix-capture</guid>
-      <pubDate>Thu, 26 Feb 2026 20:01:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/hacker-news-for-macos</guid>
+      <pubDate>Fri, 27 Feb 2026 01:30:07 GMT</pubDate>
     </item>
     <item>
-      <title>信号鹰</title>
-      <link>https://www.producthunt.com/products/flarehawk</link>
+      <title>基岩</title>
+      <link>https://www.producthunt.com/products/bedrock-5</link>
       <description><![CDATA[
-            监控安全工具、探测威胁并提示采取行动
+            即使被拒绝也能获得美国银行的批准
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/flarehawk</guid>
-      <pubDate>Thu, 26 Feb 2026 19:59:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/bedrock-5</guid>
+      <pubDate>Thu, 26 Feb 2026 19:34:28 GMT</pubDate>
     </item>
     <item>
       <title>纳米香蕉2</title>
@@ -46,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/nano-banana-2-11</guid>
       <pubDate>Thu, 26 Feb 2026 16:17:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行Whatdoiwear</title>
+      <link>https://www.producthunt.com/products/whatdoiwear-run</link>
+      <description><![CDATA[
+            现代跑步者的装备引擎
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/whatdoiwear-run</guid>
+      <pubDate>Thu, 26 Feb 2026 15:53:18 GMT</pubDate>
     </item>
     <item>
       <title>柠檬荚.ai</title>
@@ -158,20 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/mastra</guid>
       <pubDate>Tue, 24 Feb 2026 22:23:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>螺旋数据库</title>
-      <link>https://www.producthunt.com/products/helixdb</link>
-      <description><![CDATA[
-            用 Rust 构建的开源 OLTP 图向量数据库。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/helixdb</guid>
-      <pubDate>Sat, 21 Feb 2026 15:31:24 GMT</pubDate>
     </item>
     <item>
       <title>这里</title>
