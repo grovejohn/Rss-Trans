@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 28 Feb 2026 09:17:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 12:21:12 GMT</lastBuildDate>
+    <item>
+      <title>取消订阅对您来说有多头疼？</title>
+      <link>https://www.reddit.com/r/software/comments/1rgyzyk/how_big_of_a_headache_are_subscription/</link>
+      <description><![CDATA[针对运营订阅、会员资格或付费社区的创始人的快速问题。 取消和计费单有多烦人……真的吗？ 例如： • “我如何取消？” • “为什么要向我收费？” • “我可以升级/降级吗？” • “你可以退款吗？我？” 这些只是轻微的背景噪音吗？ 还是他们每周都按时吃饭？ 我正在探索自动化重复订阅支持的方法，但在进行更深入的构建之前，我想了解一些内容： 这是真正的运营瓶颈吗…… 还是大多数人可以忍受的轻微不便？ 如果您运行任何基于订阅的内容： • 有多少您每周收到与计费相关的票证吗？ • 您手动处理它们吗？ • 您相信自动化取消吗？ 首先尝试验证痛苦程度。 欣赏残酷的诚实。   由   提交/u/Hot_Candidate_007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rgyzyk/how_big_of_a_headache_are_subscription/</guid>
+      <pubDate>Sat, 28 Feb 2026 10:10:58 GMT</pubDate>
+    </item>
     <item>
       <title>[开源] 为 Windows 10 和 11 构建了本机媒体控制托盘应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1rgvige/open_source_built_a_native_media_control_tray_app/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我可能做错了什么，但我无法使用 cobalt.tools 下载我需要的 YouTube 剪辑。我也尝试过 yt-dlp，但 CLI 流程对于我的日常工作来说有点太复杂了。 我最终使用了 ClipYank，它为我处理了这两个问题：https://clipyank.xyz/ 如果有更简单的 cobalt 或 yt-dlp 工作流程，我也愿意接受。   由   提交/u/MedicineTop5805   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rgidjw/couldnt_get_cobalttools_working_for_youtube_ytdlp/</guid>
       <pubDate>Fri, 27 Feb 2026 20:45:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有在 HP 打印机上使用 TWAIN 的经验吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1rgi1gh/does_anyone_have_experience_using_twain_with_hp/</link>
-      <description><![CDATA[我不确定这是否适合这里，但我想我应该尝试一下。我最近购买了一台 HP M525 来替换一台已经过时的 Brother 打印机。设置没问题，但问题是我似乎无法将 HP 打印机连接到 PaperPort。经过一些研究，我发现我可能需要 TWAIN 在我的打印机和 PaperPort 之间进行通信，但我没有任何使用该软件的经验并阅读有关它的信息，听起来这可能不是我所需要的全部。我的问题是：TWAIN 的设置是否足够简单？并且：这就是我将 HP 连接到 PaperPort 所需的一切吗？   由   提交/u/neetsweetmcgeet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rgi1gh/does_anyone_have_experience_using_twain_with_hp/</guid>
-      <pubDate>Fri, 27 Feb 2026 20:32:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
