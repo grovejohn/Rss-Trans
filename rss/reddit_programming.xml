@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 28 Feb 2026 06:22:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Feb 2026 09:17:45 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/programming/comments/1rgw211/a_social_filesystem/</link>
+      <description><![CDATA[ 由   提交 /u/fagnerbrack   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rgw211/a_social_filesystem/</guid>
+      <pubDate>Sat, 28 Feb 2026 07:11:31 GMT</pubDate>
+    </item>
     <item>
       <title>分布式系统的乐趣和利润</title>
       <link>https://www.reddit.com/r/programming/comments/1rgo8j9/distributed_systems_for_fun_and_profit/</link>
@@ -27,7 +34,7 @@
       <pubDate>Fri, 27 Feb 2026 19:17:36 GMT</pubDate>
     </item>
     <item>
-      <title>有符号距离场字体</title>
+      <title>带符号距离场字体</title>
       <link>https://www.reddit.com/r/programming/comments/1rgfu27/signed_distance_field_fonts/</link>
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rgfu27/signed_distance_field_fonts/</guid>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/medy17  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rga6md/people_are_still_writing_javascript_drm/</guid>
       <pubDate>Fri, 27 Feb 2026 15:46:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Log4J] 解决安全报告中的 AI-slop 问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1rg9p7u/log4j_addressing_aislop_in_security_reports/</link>
-      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rg9p7u/log4j_addressing_aislop_in_security_reports/</guid>
-      <pubDate>Fri, 27 Feb 2026 15:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
