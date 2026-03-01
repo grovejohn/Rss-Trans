@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 01 Mar 2026 04:49:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 06:34:29 GMT</lastBuildDate>
     <item>
       <title>提示URL</title>
       <link>https://www.producthunt.com/products/prompturls</link>
@@ -90,18 +90,18 @@
       <pubDate>Thu, 26 Feb 2026 15:53:18 GMT</pubDate>
     </item>
     <item>
-      <title>米恩特工作室</title>
-      <link>https://www.producthunt.com/products/mvntstudio</link>
+      <title>柠檬荚.ai</title>
+      <link>https://www.producthunt.com/products/lemonpod-ai</link>
       <description><![CDATA[
-            每首歌曲都有舞蹈生成AI！
+            您的日常生活回顾，以个人 AI 播客的形式讲述
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/mvntstudio</guid>
-      <pubDate>Thu, 26 Feb 2026 09:25:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/lemonpod-ai</guid>
+      <pubDate>Thu, 26 Feb 2026 13:06:59 GMT</pubDate>
     </item>
     <item>
       <title>困惑计算机</title>
@@ -188,6 +188,20 @@
       <pubDate>Mon, 23 Feb 2026 13:11:14 GMT</pubDate>
     </item>
     <item>
+      <title>螺旋数据库</title>
+      <link>https://www.producthunt.com/products/helixdb</link>
+      <description><![CDATA[
+            用 Rust 构建的开源 OLTP 图向量数据库。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/helixdb</guid>
+      <pubDate>Sat, 21 Feb 2026 15:31:24 GMT</pubDate>
+    </item>
+    <item>
       <title>像素</title>
       <link>https://www.producthunt.com/products/pixel-10</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/pixel-10</guid>
       <pubDate>Thu, 19 Feb 2026 21:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级组</title>
-      <link>https://www.producthunt.com/products/superset-5</link>
-      <description><![CDATA[
-            在你的机器上运行 Claude Code、Codex 等大军
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/superset-5</guid>
-      <pubDate>Tue, 10 Feb 2026 18:25:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
