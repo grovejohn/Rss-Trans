@@ -4,9 +4,9 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Feb 2026 21:13:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2026 01:09:20 GMT</lastBuildDate>
     <item>
-      <title>提示 URL</title>
+      <title>提示URL</title>
       <link>https://www.producthunt.com/products/prompturls</link>
       <description><![CDATA[
             将任何提示转为 ChatGPT 的可共享 URL，Claude 
@@ -48,20 +48,6 @@
       <pubDate>Fri, 27 Feb 2026 16:43:21 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌人工智能边缘画廊</title>
-      <link>https://www.producthunt.com/products/google</link>
-      <description><![CDATA[
-            将设备上的功能调用引入 iPhone
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Fri, 27 Feb 2026 13:56:51 GMT</pubDate>
-    </item>
-    <item>
       <title>利爪新闻</title>
       <link>https://www.producthunt.com/products/the-claw-news</link>
       <description><![CDATA[
@@ -74,20 +60,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/the-claw-news</guid>
       <pubDate>Fri, 27 Feb 2026 08:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS 黑客新闻</title>
-      <link>https://www.producthunt.com/products/hacker-news-for-macos</link>
-      <description><![CDATA[
-            Hacker News 的本机 macOS 客户端，使用 SwiftUI 构建
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/hacker-news-for-macos</guid>
-      <pubDate>Fri, 27 Feb 2026 01:30:07 GMT</pubDate>
     </item>
     <item>
       <title>运行Whatdoiwear</title>
@@ -104,6 +76,34 @@
       <pubDate>Thu, 26 Feb 2026 15:53:18 GMT</pubDate>
     </item>
     <item>
+      <title>柠檬荚.ai</title>
+      <link>https://www.producthunt.com/products/lemonpod-ai</link>
+      <description><![CDATA[
+            您的日常生活回顾，以个人 AI 播客的形式讲述
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/lemonpod-ai</guid>
+      <pubDate>Thu, 26 Feb 2026 13:06:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>米恩特工作室</title>
+      <link>https://www.producthunt.com/products/mvntstudio</link>
+      <description><![CDATA[
+            每首歌曲都有舞蹈生成AI！
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/mvntstudio</guid>
+      <pubDate>Thu, 26 Feb 2026 09:25:28 GMT</pubDate>
+    </item>
+    <item>
       <title>这是怎么回事？</title>
       <link>https://www.producthunt.com/products/what-s-up-with-that</link>
       <description><![CDATA[
@@ -118,18 +118,18 @@
       <pubDate>Thu, 26 Feb 2026 01:35:06 GMT</pubDate>
     </item>
     <item>
-      <title>困惑度计算机</title>
-      <link>https://www.producthunt.com/products/perplexity-ai</link>
+      <title>MiniMax 的 MaxClaw</title>
+      <link>https://www.producthunt.com/products/minimax-agent</link>
       <description><![CDATA[
-            人工智能能做的一切，困惑计算机都会为你做。
+            基于由 MiniMax 提供支持的 OpenClaw 的始终在线托管代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/perplexity-ai</guid>
-      <pubDate>Wed, 25 Feb 2026 16:49:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/minimax-agent</guid>
+      <pubDate>Wed, 25 Feb 2026 15:23:03 GMT</pubDate>
     </item>
     <item>
       <title>ORQL</title>
@@ -146,20 +146,6 @@
       <pubDate>Wed, 25 Feb 2026 12:28:24 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德代码远程控制</title>
-      <link>https://www.producthunt.com/products/claude-code-remote-access</link>
-      <description><![CDATA[
-            使用远程控制从任何设备继续本地会话
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/claude-code-remote-access</guid>
-      <pubDate>Wed, 25 Feb 2026 07:04:22 GMT</pubDate>
-    </item>
-    <item>
       <title>研究操作系统</title>
       <link>https://www.producthunt.com/products/study-os</link>
       <description><![CDATA[
@@ -172,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/study-os</guid>
       <pubDate>Wed, 25 Feb 2026 06:13:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 实验室的生产者 AI</title>
+      <link>https://www.producthunt.com/products/google</link>
+      <description><![CDATA[
+            与您的 AI 联合制作人将想法转化为曲目
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/google</guid>
+      <pubDate>Tue, 24 Feb 2026 14:08:45 GMT</pubDate>
     </item>
     <item>
       <title>克劳德在 Excel 中</title>
