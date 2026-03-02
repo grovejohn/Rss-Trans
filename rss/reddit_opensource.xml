@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 02 Mar 2026 06:42:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 09:36:52 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个开源费用和预算跟踪器，因为没有应用程序可以让我的人工智能代理直接与我的财务数据对话</title>
+      <link>https://www.reddit.com/r/opensource/comments/1riog93/i_built_an_opensource_expense_and_budget_tracker/</link>
+      <description><![CDATA[五年多来，我一直在对每笔交易进行分类——从 2 欧元的咖啡到租金。每个月末，我都会合上账簿，查看 12 个月的资金流向预测。 这一切始于我 19 岁时经营我的第一家公司。我不知道自己要用钱做什么，所以我找到了一位财务顾问——一位在企业财务方面拥有多年经验的女性，她让我坐下来，向我展示了公司实际上是如何制定预算的。钱花在哪里、花多少钱、预期收入是多少。基本的东西，但之前没有人向我解释过。我刚刚开始对我的个人财务应用同样的方法，并且从未停止过。 每周一次，我坐下来，将我的银行对账单放入人工智能代理中，它会解析所有内容 - 对交易进行分类，将其插入数据库，检查帐户之间的余额是否匹配。如果某些内容不符合要求，它会在修复之前询问我。 这些年来我尝试了很多应用程序 - CoinKeeper、ZenMoney、电子表格。他们都在某种程度上发挥了作用。但我在任何地方都找不到的一件事是能够将 API 密钥交给人工智能代理，并让它根据需要读取、写入和修改我的财务数据。每个应用程序都希望您单击其 UI 并使用其导入流程。我想要通过任何 LLM 都可以调用的简单 HTTP API 进行SELECT、INSERT、UPDATE、DELETE。 所以我构建了它。放假期间。本来应该休息的，但是一开始就停不下来。从 ZenMoney 迁移了我的所有数据，并且再也没有回头。 主要视图是预算表。过去几个月显示了实际数字——我真正花费和赚到的钱。当月同时显示了实际情况和计划，因此我可以了解自己的跟踪情况。未来几个月是纯粹的计划——预期收入、预期支出、预计余额。所有内容都按类别和月份进行汇总，因此我一眼就能看出我是否能负担得起三个月后的大笔采购，或者是否需要削减某些东西。这基本上就是公司如何进行财务规划，但针对的是一个人。 披露——这是我的项目。我用它来处理我的真实财务状况。我过去几年的所有实际财务数据都存储在这个系统中。自托管、Postgres、MIT 许可。 克隆存储库并部署在您自己的服务器上，而不是使用我的实例。您的数据归您所有。 这里的安全人员 - 请尝试破解它。我的真实数据就在那里。我无法进行正式的错误赏金，我是一个人。但如果你得到我的数据，我会给你买披萨和啤酒。我非常重视安全性，但我想知道是否有什么问题。 欢迎在评论中提出功能请求。如果不是太复杂，我会添加它。 在底层，它是 Next.js 16，在 Postgres 18 之上带有 TypeScript。行级安全性在数据库层强制实施，而不是在应用程序代码中。 API 密钥经过 SHA-256 哈希处理，从不存储明文。汇率每日从五个来源获取（ECB、CBR、NBS、NBU，以及 USDT 挂钩）。本地一切都在 Docker Compose 中运行——Postgres、迁移、Web 应用程序、FX Worker。对于生产，有一个完整的 AWS CDK 堆栈，其中包含 ECS Fargate、RDS、ALB + Cognito auth 和 WAF。整个事情就是关于 9 个表格和一个视图 - 故意保持平坦，这样法学硕士就不会感到困惑。 存储库是我的 GitHub (kirill-markin) 上的expense-budget-tracker。 你如何跟踪你的个人财务状况？你的系统是什么？   由   提交/u/Kirmark   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1riog93/i_built_an_opensource_expense_and_budget_tracker/</guid>
+      <pubDate>Mon, 02 Mar 2026 09:35:51 GMT</pubDate>
+    </item>
     <item>
       <title>browser2api - 使用 Playwright + CDP 将仅限浏览器的 AI 工具转变为可编写脚本的 Python API</title>
       <link>https://www.reddit.com/r/opensource/comments/1rigi7z/browser2api_turn_browseronly_ai_tools_into/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我一直遇到同样的问题：我会要求 Claude 构建一些东西，花 2 小时进行编码，然后发现三个现有的工具可以做同样的事情。因此，我构建了一个名为 idea-reality-mcp 的 MCP 服务器，它可以在 Claude 编写一行代码之前扫描 GitHub 存储库、Hacker News 讨论、npm 包和 PyPI。它返回“现实信号”。从 0 到 100——数字越高，竞争就越激烈。关键部分：我将其添加到我的 CLAUDE.md 中： ``` ## 预构建现实检查 在创建任何新项目、功能或工具之前，请运行带有一行描述的 `idea_check`。 -如果reality_signal&gt; 80：停止。在继续之前警告我竞争激烈。 -如果reality_signal&gt; 60：谨慎行事。建议如何区分。 -如果reality_signal&lt; 40：绿灯。正常进行。 ``现在每次我说“给我建一个___”时，克劳德都会自动先检查市场。输出示例：``` 现实信号：87/100 发现的主要竞争对手： - 现有工具 1（2.3k 星） - 现有工具 2（890 星） 建议：竞争激烈。考虑关注[具体差距]。 ``` **它实际搜索的内容（不是 LLM 猜测）：** - GitHub 搜索 API（存储库计数 + 星级分布） - HN Algolia API（讨论量） - npm 注册表（快速模式跳过此） - PyPI（深度模式） - Product Hunt（可选，需要令牌） 与仅询问 ChatGPT“这是否存在？”的区别— 这实际上会搜索真实的 API 并为您提供数字。 LLM 猜测。这个搜索。它是开源的，作为标准 MCP 服务器（stdio 或 HTTP）运行：GitHub：https://github.com/mnemox-ai/idea-reality-mcp 可与 Claude Code、Cursor、Windsurf 和任何 MCP 兼容客户端配合使用。每个都有现成的说明模板。很高兴回答有关 MCP 实现或评分公式的问题。我一直遇到同样的问题：我会要求 Claude 构建一些东西，花 2 小时进行编码，然后发现三个现有的工具可以做同样的事情。因此，我构建了一个名为 idea-reality-mcp 的 MCP 服务器，它可以在 Claude 编写一行代码之前扫描 GitHub 存储库、Hacker News 讨论、npm 包和 PyPI。它返回“现实信号”。从 0 到 100——数字越高，竞争就越激烈。关键部分：我将其添加到我的 CLAUDE.md 中： ``` ## 预构建现实检查 在创建任何新项目、功能或工具之前，请运行带有一行描述的 `idea_check`。 -如果reality_signal&gt; 80：停止。在继续之前警告我竞争激烈。 -如果reality_signal&gt; 60：谨慎行事。建议如何区分。 -如果reality_signal&lt; 40：绿灯。正常进行。 ``现在每次我说“给我建一个___”时，克劳德都会自动先检查市场。输出示例：``` 现实信号：87/100 发现的主要竞争对手： - 现有工具 1（2.3k 星） - 现有工具 2（890 星） 建议：竞争激烈。考虑关注[具体差距]。 ``` **它实际搜索的内容（不是 LLM 猜测）：** - GitHub 搜索 API（存储库计数 + 星级分布） - HN Algolia API（讨论量） - npm 注册表（快速模式跳过此） - PyPI（深度模式） - Product Hunt（可选，需要令牌） 与仅询问 ChatGPT“这是否存在？”的区别— 这实际上会搜索真实的 API 并为您提供数字。 LLM 猜测。这个搜索。它是开源的，作为标准 MCP 服务器（stdio 或 HTTP）运行：GitHub：https://github.com/mnemox-ai/idea-reality-mcp 可与 Claude Code、Cursor、Windsurf 和任何 MCP 兼容客户端配合使用。每个都有现成的说明模板。很高兴回答有关 MCP 实施或评分公式的问题。    由   提交/u/ResourceSea5482  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rh79io/adding_this_rule_to_my_claudemd_stopped_me_from/</guid>
       <pubDate>Sat, 28 Feb 2026 16:41:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>xPrivo Search 简介：欧洲 100% 数据主权搜索引擎</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rh5i5o/introducing_xprivo_search_europes_100_data/</link>
-      <description><![CDATA[       由   提交/u/FreeThem2019  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rh5i5o/introducing_xprivo_search_europes_100_data/</guid>
-      <pubDate>Sat, 28 Feb 2026 15:30:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
