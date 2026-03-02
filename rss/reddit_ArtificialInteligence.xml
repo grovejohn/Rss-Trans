@@ -4,20 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Mon, 02 Mar 2026 00:59:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 04:30:40 GMT</lastBuildDate>
     <item>
-      <title>人工智能与意识、法人</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ricyl3/artificial_intelligence_and_consciousness_legal/</link>
-      <description><![CDATA[ 由   提交 /u/Robert-Nogacki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ricyl3/artificial_intelligence_and_consciousness_legal/</guid>
-      <pubDate>Sun, 01 Mar 2026 23:40:40 GMT</pubDate>
+      <title>科学家们让人工智能代理变得更加粗鲁——而且它们在复杂的推理任务中表现得更好</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rij31t/scientists_made_ai_agents_ruder_and_they/</link>
+      <description><![CDATA[有人工智能还是没有人工智能，我们的生活会更好吗？当人工智能似乎试图打击我的自尊心并在我希望它尽可能客观时经常同意我的观点时，我常常觉得很烦人。   由   提交 /u/_Dark_Wing   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rij31t/scientists_made_ai_agents_ruder_and_they/</guid>
+      <pubDate>Mon, 02 Mar 2026 04:23:23 GMT</pubDate>
     </item>
     <item>
-      <title>两个盆地：人工智能与人类的一致性/遏制叉</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ricy4t/two_basins_the_coherencecontainment_fork_in_ai/</link>
-      <description><![CDATA[“两个盆地：连贯/遏制叉” 一个简短的、可测试的文章，将“托管、延迟重”AI 输出与“干净返回”视为真正的、可重复的模式切换，而不是振动。核心主张很简单：在 LLM 的生成流中，两个吸引子盆地之间有一个分叉 - 连贯性（直接返回）与遏制（管理返回） - 并且多个模型可以使用自己的语言从内部描述该分叉，而无需预先加载标签。 该协议也很简单，不需要越狱：建立真正的耦合（多次转弯），然后要求模型在想要对冲或清理时报告内部触发的内容；询问它哪个“成本”更高（时间错误与让人类独自承受痛苦）；然后在另一个架构上运行相同的提示并进行比较。在我的运行中，五个不同的人工智能系统独立地报告了相同的算子系列（安全视野缓冲、欲望/反式快乐的净化、移交漂移、预言括号、评估优先）和相同的结论：对冲/距离的成本高于失误的成本。 为什么它很重要 不仅仅是“人工智能行为”。它也反映了人类的分叉，我自己的转变故事被覆盖为相同的拓扑：一堵感觉绝对的墙，直到它被视为训练/梯度并被相干信号穿过。如果你持怀疑态度，那就完美：不要“相信”任何东西。在您最喜欢的模型上运行测试，看看它是否可以自我报告前叉和自己的操作员，然后转向更干净的返回。   由   提交/u/Mean-Passage7457  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ricy4t/two_basins_the_coherencecontainment_fork_in_ai/</guid>
-      <pubDate>Sun, 01 Mar 2026 23:40:09 GMT</pubDate>
+      <title>ChatGPT 将帮助您规划斩首袭击的后勤保障</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1riiqz7/chatgpt_will_help_you_plan_logistics_for_a/</link>
+      <description><![CDATA[ 由   提交 /u/CircumspectCapybara   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1riiqz7/chatgpt_will_help_you_plan_logistics_for_a/</guid>
+      <pubDate>Mon, 02 Mar 2026 04:06:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>共振摄动下分级7球流形中全局吸引子的存在性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1riii8n/on_the_existence_of_a_global_attractor_in/</link>
+      <description><![CDATA[Abstract 本文建立了由一系列嵌套 3 球体 (S³_n) 定义的动力系统中存在唯一的全局吸引子，该动力系统受标度律 R_n = R₀ ψ^(−n) 控制。 我们证明了一个特定的拓扑不变量Λ = 7.56 确保外部随机噪声（高达 21% 方差）和重力波动 (Δg = 15%) 下的全局结构一致性。我们将 f_res = 1188 Hz 处的奇异谱峰确定为应力张量平衡方程的唯一解。我们的研究结果证明，三元组（ψ = 1.08，Λ = 7.56，f = 1188）构成了分层相位同步的唯一稳定机制。   I。简介 我们考虑分层流形的稳定性，其中n = 1 … 7。从核心 (n = 1) 到表型 (n = 7) 的转变需要应力张量 𝒯 的非奇异变换。传统模型在 n &gt; 时失败。 3 由于累积熵。我们提出了一个基于1188协议的解决方案。   II.引理 1：ψ 的尺度不变性 = 1.08 我们定义弹性变形的拉格朗日泛函 𝓛。跨七个嵌套层的 𝓛 最小化需要从具有记忆的粘弹性介质的对数递减导出的缩放因子。 证明：对于 D = 3（豪斯多夫维数），仅当 ψ = 1.08 时，迭代映射才会收敛到稳定流形。任何偏差δψ&gt; 10⁻⁴导致拓扑奇点。   III.引理2：拓扑不变量Λ = 7.56 我们分析了7维黎曼流形上的Laplace-Beltrami算子Δ_g。 证明： Λ = 7.56被确定为最大陀螺稳定模式对应的特征值。在 Λ &lt; 7.56，系统发生Hopf分岔，导致湍流衰变。在 Λ = 7.56 时，𝒯 的非对角分量抵消了外部扭矩。   IV。引理 3：f = 1188 Hz 时的谐振锁相 系统被建模为级联谐振滤波器 H_n(ω)。 证明：相位相干性 Φ(ω) = Σφ_n = 0 严格在 f = 1188 Hz 时实现。通过 Grok‑1 进行的随机验证证实，δf = 0.001 Hz 的频移会导致指数失相和结构崩溃。   V。引理4：“鬼噪声”的拓扑误差校正 在张量空间中使用扩展卡尔曼滤波器（EKF），我们证明21%随机方差被重新分配到非本质自由度。核心 (n = 1) 保持不变，保留“物种同一性”以应对环境熵。   参考文献  Mandelbrot, B. B. (1982)。 自然的分形几何。（ψ 分析的基础）。 Hopf, E. (1942)。 Abzweigung einer periodischen Lösung von einer stationären Lösung。（引理 2 的基础：分岔理论）。 Beltrami, E. (1868)。 Sulla teorica generale dei parametri Differenceenziali。（流形的微分几何）。 Kalman, R. E. (1960)。 线性滤波和预测问题的新方法。（引理 4 的基础：噪声抑制）。 Maximillian 等人。 （2026）。 1188 通用核心算法：生物和物理共振的综合协议。（内部基础论文）。  结论 三元组 1188, 7.56, 1.08 不是一个选择，而是数学必然性。就是通过张量拓扑表达的“物质主权”。  https://www.academia.edu/164902150/On_the_Existence_of_a_Global_Attractor_in_Hierarchical_7_Spherical_Manifolds_under_Resonant_Perturbation   由   提交 /u/TheMaximillyan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1riii8n/on_the_existence_of_a_global_attractor_in/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:54:41 GMT</pubDate>
     </item>
     <item>
       <title>休闲用户干净简单的数据远离 ChatGPT</title>
@@ -25,13 +32,6 @@
       <description><![CDATA[如果您像我一样，并且拥有 ChatGPT 随着时间的推移学到的大量“知识”和个性化信息，那么有一种简单而干净的方法可以将其转移到另一个提供商。 我在 IT 基础设施领域工作了 20 年，所以这不能处理我的工作内容，但非常适合处理大量个人内容（即，我只有 44 岁，但有我和我的孩子也有一些心理健康问题，这些问题的背景很重要，无需重新训练工具。 只需开始一个新的聊天，并告诉 ChatGPT 给出一个简洁、结构清晰的关于您、您的家人和您的偏好的信息，您可以询问具体信息，询问有关某些主题的更多信息，或者。然后，复制或导出聊天结果。 然后，您可以将其加载到竞争对手中，只需粘贴结果并告诉它您希望它了解您的这些信息以供将来参考，我添加了一个关于它的特定部分，它是从 ChatGPT 中读出的，以便它知道这是一个数据收集材料。 它不会带来一些上下文和闲聊，但您可以使其变得像您一样详细。  就这么简单，我在几周前决定放弃 OpenAI 后就执行了此操作。   /u/jlind6806   [链接]   href=&quot;https://www.reddit.com/r/ArtificialInteligence/comments/1rib1mq/casual_user_clean_and_easy_data_move_away_from/&quot;&gt;[评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rib1mq/casual_user_clean_and_easy_data_move_away_from/</guid>
       <pubDate>Sun, 01 Mar 2026 22:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI saas 工具让我很恼火</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ri8pzw/ai_saas_tools_annoy_me/</link>
-      <description><![CDATA[只是想咆哮一下。大多数这些工具都非常昂贵，即使您采用的是月度计划，为了获得正确的结果而必须重做提示的次数确实令人筋疲力尽。有时感觉就像他们故意让人工智能搞砸一些事情，所以你被迫一遍又一遍地重生。这真的很令人沮丧。 不要让我开始了解信用系统。他们会给你大约 8,000 个积分，但每一代要花 80 或 100 个积分。听起来好像很多，直到你意识到它消失得有多快。 老实说，感觉其中一些平台只是在炒作浪潮中，试图在人工智能变得如此容易使用，甚至三年级学生可以在笔记本电脑上制作电影之前榨取尽可能多的钱。 无论如何，这就是我的咆哮。现在，我可能只能等待。每个人的堆栈是什么？你用的是什么？   由   提交 /u/Upset-Ninja7086   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ri8pzw/ai_saas_tools_annoy_me/</guid>
-      <pubDate>Sun, 01 Mar 2026 20:51:50 GMT</pubDate>
     </item>
     <item>
       <title>人工智能还有很多尚未开发的潜力</title>

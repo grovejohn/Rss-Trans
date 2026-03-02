@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，从最少的事情中获得最大的收益。老游戏风格的音乐，例如C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD等。</description>
-    <lastBuildDate>Mon, 02 Mar 2026 01:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 04:34:17 GMT</lastBuildDate>
+    <item>
+      <title>我对 Analogue Pocket Nanoloop 2 的想法和祈祷</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1rifeb3/my_thoughts_and_prayers_on_nanoloop_2_for/</link>
+      <description><![CDATA[但首先，什么是 NL2？嗯，它是 Game Boy Advance 的音序器/合成器，利用 4 个 PSG 通道（2 个单声道 FM 通道、1 个和弦 FM 通道和一个噪声通道），我绝对推荐给任何想要制作 Chiptune 的人。 官方网站 好东西：  相对简单一旦您掌握了它（VVLV Music 的教程此处）。如果另一家英国音乐制作商 Little Sound DJ 看起来太复杂，你可以用它来制作 Game Boy（或 SEGA Genesis，稍后会详细介绍）的芯片音乐。 它内置于 Analogue Pocket，但在我写这篇文章时它目前缺货。但它也有卡带形式，遗憾的是在撰写本文时已售罄。 如果您有足够的经验，您也可以让它做一些SEGA Genesis，TB-303 或 UFO 50 印象 总体声音范围很大  不好的地方：  如果 PCM 通道GBA 也用于这个音序器，所以我至少可以为自己节省一两个鼓机 由于 Pocket 版本有更多的模式保存槽（120 个库乘以 15 个模式），你可能会认为 Oliver（Nanoloop 的家伙）和/或 Analogue 团队会添加更多东西，比如平移 L 和 L 的能力。 R 通道，或使用 X 和 Y 按钮，但没有 当 R、L 或 S 通道上的音符将其波形设置为 || 时，声音没有太大差异。或 = 如上所述，Pocket 和唱头暂时已售完 当您达到三位数时（例如 121 直接跳到 123、125、128 等），BPM 开始跳过数字  Nanoloop 的其他版本可用：  One（与此版本类似，但用于原始 Game Boy） Mono（是一款用于 DMG Game Boy 的纯模拟合成器车，可在车本身上发出声音；此版本已停产） FM（手持式 FM 版本，也已停产） Q（另一款专用手持式） iOS/Android 应用程序（它最多可以有 8 个通道，无论是合成器还是样本）  底线是，如果您有一个 Analogue Pocket，并且您想要进行芯片调谐，一定要使用 NL2。如果您有 Nanoloop 的任何版本，请告诉我，如果有，您对此有何看法？ 最终得分：9.8/10。对于半途而废的评论感到抱歉。   由   提交/u/tbbrprod_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1rifeb3/my_thoughts_and_prayers_on_nanoloop_2_for/</guid>
+      <pubDate>Mon, 02 Mar 2026 01:27:17 GMT</pubDate>
+    </item>
     <item>
       <title>关于混频的建议？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ric9d3/advice_on_frequency_mixing/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/Noteful_Musician  [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1rgblmu/target_renegade_remix_medley_astroverse/</guid>
       <pubDate>Fri, 27 Feb 2026 16:37:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Black Diamond - 带有新 Blender Visualizer 的快速动作战斗游戏音乐！</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1rgatqx/black_diamond_fast_action_battle_game_music_with/</link>
-      <description><![CDATA[      “黑钻石”作者：HeatleyBros  英雄们，我们已经到了电梯顶部，把栏杆搭起来，我们要下车了！  我也很及时地让你参加了大赛，比赛现在就开始了！  其实5分钟前就开始了！但没关系，你能赶上！  哦，是的，我向所有人保证，无论如何你们都会赢。  ... 嘿！别用那种眼神看我，热巧克力排队那么长不是我的错！不管怎样，孩子们都指望着你！  哦，是的，山上还有敌方机器人，它们会试图一路攻击你。  ...  你会没事的，毕竟你是英雄不是吗！？  别再对我大喊大叫了，滚下那座山吧！  现在就这些，下次见... 祝英雄好运！！   由   提交/u/HeatleyBros  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1rgatqx/black_diamond_fast_action_battle_game_music_with/</guid>
-      <pubDate>Fri, 27 Feb 2026 16:09:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

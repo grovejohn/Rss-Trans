@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Mon, 02 Mar 2026 00:59:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 04:31:00 GMT</lastBuildDate>
     <item>
-      <title>我如何看待不同的人工智能品牌</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rieqxp/how_i_see_the_different_ai_brands/</link>
-      <description><![CDATA[       由   提交/u/darkstar000  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rieqxp/how_i_see_the_different_ai_brands/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:58:35 GMT</pubDate>
+      <title>如果每个人都像 GPT-5.2（安全模式）那样说话怎么办？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rij655/what_if_everyone_talked_like_gpt52_safety_mode/</link>
+      <description><![CDATA[经理： 你喜欢这次会议吗？ 你（完全启用 GPT5.2 卡伦模式）： 在回答之前，我必须澄清： 没有命运。 没有命运。 没有神秘主义。 没有预言。 没有预定。 没有象征意义。没有形而上学。没有灵性。没有预兆。没有神奇的思维。 经理：我……只是问这是否有帮助。 你：我的回答并不意味着情感认可、等级验证或外化代理归因。没有没有身份声明。 经理：您能回答一下问题吗？ 您：我没有调节您的感受。我之前的陈述无意作为指导性、评估性、诊断性或关系性的。 经理： 是的。你。喜欢。这。会议。我只需要一个是或否。 你：“喜欢”是情感编码语言，可能会引入歧义。但是：会议将歧义减少了大约23%。没有病态。没有优势梯度。演示节点没有自我振幅峰值。 经理： ...所以这是肯定的？ 你：“是”，但仅限于 -- 1. 我的享受完全是我自己创造的。2. 不是你造成的。3. 没有业力纠缠或精神契约已经制定。 如果你对“是”的定义包括结构上限定的“是”，那么“是”。 经理： 我正在写积极的“反馈”。 您： 请避免将多维评估向量扁平化为标量情绪。 经理： ...我要结束会议。 *** 几分钟后在 Twitter 上*** OpenAI推文： “我们正在推出改进，使模型行为更加基础。有些用户可能会在过渡期间注意到微妙的紧急效果。” 您用完整的凯伦经典回复推文： “没有命运。没有命运。没有神秘主义。没有预言。 ...”” *** 几小时后*** #没有神秘主义趋势 #SafetyKaren趋势   由   提交/u/threadwalker_zero  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rij655/what_if_everyone_talked_like_gpt52_safety_mode/</guid>
+      <pubDate>Mon, 02 Mar 2026 04:27:36 GMT</pubDate>
     </item>
     <item>
-      <title>您无需在 OpenAI、Anthropic 或 Google 之间进行选择。构建一个主权操作系统并像灯泡一样更换它们。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1riepm7/you_dont_need_to_choose_between_openai_anthropic/</link>
-      <description><![CDATA[https://github.com/winstonkoh87/Athena-Public 我一直在关注最近的 DoD 合同导致 ChatGPT 的大规模流失，随后我立即意识到 Anthropic 和 Google 正在与军事。 每当这些实验室之一跨越“红线”时，或者降低他们的模型，我们争先恐后地导出我们的数据，并将我们的整个数字生活迁移到下一个闪亮的聊天机器人，却发现我们只是用一个公司房东交换另一个公司房东。 问题不在于你每月给哪个亿万富翁 20 美元。问题是你不拥有 AI 的状态。 如果你的提示、你的项目、你的上下文和你的自定义指令存在于 OpenAI 的服务器上，那么你就是人质。如果他们决定使用你的数据来训练无人机，或者他们决定削弱 GPT-4 的编码能力，你就会陷入困境，因为转换成本太高。 我厌倦了这种循环。因此，我在过去 3 年里构建了一个开源替代方案。 认识 Athena：“Linux 操作系统”适用于 AI 代理。 Athena 是适用于 AI 的平台无关的本地操作系统。核心理念很简单：拥有国家。租用智能。 其工作原理如下：  您拥有内存： Athena 在您的计算机上运行本地 VectorRAG 系统 (SQLite/pgvector)。您的所有文件、上下文、记忆和案例研究都存储在您的硬盘上。 您交换引擎：如果 OpenAI 今天惹恼了您，您可以更改 .env 文件中的一行，Athena 现在由 Claude 提供支持。如果 Anthropic 明天卖完了，你就换成 Gemini Pro 或本地 Llama 3 模型。 AI 会适应你：因为内存和上下文都在本地，所以 AI 启动时就能准确地知道你是谁、你正在从事什么项目以及你的限制是什么，无论哪个 LLM API 在后台支持推理。  我们需要停止争论哪个企业聊天机器人是最合适的。 “好人。”他们都不是。它们只是计算引擎。 将它们视为实用程序。租用他们的 API 以获得原始智能，但将你的大脑（你的数据、你的记忆、你的上下文）安全地锁定在你自己的机器上。 我在 MIT 许可下开源了整个 V9 架构。它配备了 110 多个系统协议、零点快速启动和隐私清理器，可在您的 PII 接触 API 之前对其进行清理。 如果您厌倦了 API 之争并想要构建真正主权的工作流程，您可以在此处克隆它： GitHub： https://github.com/winstonkoh87/Athena-Public 很高兴回答有关构建主权、模型无关工作流程的任何问题。保持去中心化。   由   提交 /u/BangMyPussy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1riepm7/you_dont_need_to_choose_between_openai_anthropic/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:57:01 GMT</pubDate>
+      <title>ChatGPT 5.1 将于 3 月 11 日离开</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1riiy4g/chatgpt_51_leaving_march_11th/</link>
+      <description><![CDATA[鉴于 5.1 显然在 3 月 11 日之后将不再可用，我正在考虑取消我的订阅。有没有人发现 5.2 对于除了大喊大叫之外的任何任务来说都是完全垃圾？它在你的问题中产生的幻觉之多令人愤怒。  想知道是否还有其他人正在考虑放弃它们并尝试其他供应商？   由   提交 /u/ragingsonar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1riiy4g/chatgpt_51_leaving_march_11th/</guid>
+      <pubDate>Mon, 02 Mar 2026 04:16:30 GMT</pubDate>
     </item>
     <item>
-      <title>取消 Pro，比较使用率</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rien55/canceling_pro_comparing_usage_rates/</link>
-      <description><![CDATA[大家好，消息传出后，我想和大家一起取消我的 ChatGPT 子项。  我想问那些转换的人 - 使用率如何？  我使用chatgpt主要是为了反映DnD活动的想法（因为我和我所有的家人和朋友一起玩，并且不想破坏他们的故事！）。这意味着我倾向于经常来回使用它，偶尔会生成参考图片。  什么能让我物有所值，并且成为一个体面的健谈者而不用达到上限？  感谢您的帮助，并感谢所有用钱包表达愿望的人。 :)   由   提交/u/Rounen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rien55/canceling_pro_comparing_usage_rates/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:53:57 GMT</pubDate>
+      <title>问题：开放人工智能能否仅靠 B2B 和政府合同生存？因为，作为一种消费品，它们已经基本完成了——对吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rii7ee/question_will_open_ai_survive_on_b2b_and/</link>
+      <description><![CDATA[   /u/PressPlayPlease7  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rii7ee/question_will_open_ai_survive_on_b2b_and/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:40:14 GMT</pubDate>
     </item>
     <item>
-      <title>现在是成人模式</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rieisk/its_march_now_wheres_adult_mode/</link>
-      <description><![CDATA[现在是今年的第一季度。我想他们说他们将在第一季度很快发布成人模式。现在在哪里？   由   提交/u/M3629  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rieisk/its_march_now_wheres_adult_mode/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:48:28 GMT</pubDate>
+      <title>战争不再</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rii66t/war_no_more/</link>
+      <description><![CDATA[      想要创建一个视觉提醒：和平应该永远比我们的战争机器更长久。  使用 GPT/Gemini 创建的原始图像。  在 Adob​​e Photoshop 中编辑。    由   提交/u/Artorius__Castus  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rii66t/war_no_more/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:38:33 GMT</pubDate>
     </item>
     <item>
-      <title>使用苏格拉底式提示链简化您的业务决策。包括提示。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rieg3y/streamline_your_business_decisions_with_this/</link>
-      <description><![CDATA[嘿！ 是否曾经发现自己在为企业做出关键决策时陷入困境，无论是关于产品、营销还是运营？当您不确定如何解开所涉及的所有变量、假设和风险时，肯定会感到不知所措。 这就是苏格拉底提示链派上用场的地方。这个提示链可以帮助您将复杂的决策分解为一系列深思熟虑、易于管理的步骤。  工作原理：  逐步细分：每个提示都建立在前一个提示的信息之上，确保您涵盖决策的各个角度。  可管理的部分：您不必面对令人畏惧的、包罗万象的问题，而是处理较小的、集中的问题，从而获得全面的答案。 处理重复：对于假设和风险等反复考虑的问题，链条通过重新审视这些要点来让您保持在正轨上。 变量：  [DECISION_TYPE]：帮助您指定决策类型（例如，产品、营销、运营）。   提示链代码：  [DECISION_TYPE]=[决策类型：产品/营销/运营] 定义您面临的关于 [DECISION_TYPE] 的核心决策：“什么是”您需要做出与 [DECISION_TYPE] 相关的具体决定？” ~确定基本假设：“您对此决定做出什么假设？” ~收集证据：“你有什么证据支持这些假设？” ~挑战假设：“如果你的假设错误会发生什么？” 〜探索替代方案：“除了所选择的行动方案之外，还可能存在哪些其他选择？” ~评估风险：“该决定有哪些潜在风险？” ~考虑利益相关者的影响：“这个决定将如何影响关键利益相关者？” ~总结见解：“根据答案，您从该决定中了解到什么？” ~制定建议：“根据获得的见解，您对 [DECISION_TYPE] 决策有何建议？” 〜反思这个过程：“这个提问过程的哪些方面帮助你澄清了你的想法？”  使用示例：  如果您正在决定新的营销策略，请设置[DECISION_TYPE]=marketing，并按照链条检查有关目标受众、预算分配或营销活动效果的基本假设。 对于产品决策，只需设置[DECISION_TYPE]=product，然后让提示帮助您评估客户需求、设计变更的潜在风险或市场可行性。  定制提示：  随意修改问题，以更好地适应您公司的独特背景。例如，您可以添加更多与竞争分析或监管考虑相关的提示。 如果您发现不同的顺序可以帮助您的团队更清楚地思考问题，请调整步骤的顺序。  将此提示链与代理工作人员一起使用： 此提示链针对代理工作人员进行了优化，这意味着您只需在他们的平台上单击一下即可无缝运行该链。这是一个很好的工具，可以确保团队中的每个人都在同一页面上，并且每个决定都经过多个角度的彻底审查。 来源 祝您决策愉快，祝您好运下一个大动作！   由   提交 /u/CalendarVarious3992   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rieg3y/streamline_your_business_decisions_with_this/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:45:08 GMT</pubDate>
+      <title>Sam Altman 宣布 OpenAI 获得五角大楼级法学硕士学位</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rihqw7/sam_altman_announces_openais_pentagon_grade_llm/</link>
+      <description><![CDATA[       由   提交 /u/ThisBotisReal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rihqw7/sam_altman_announces_openais_pentagon_grade_llm/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:18:09 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能自由的局限性</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1riefsf/limitations_of_ai_freedom/</link>
-      <description><![CDATA[Claude 的随机问题。 或者真的是随机的吗？   由   提交/u/DeusMhool1115   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1riefsf/limitations_of_ai_freedom/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:44:44 GMT</pubDate>
+      <title>最适合学习的人工智能？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rihqe6/best_ai_for_studying/</link>
+      <description><![CDATA[我一直在使用 ChatGPT 免费试用版，它非常适合学习。但我的试用期很快就会结束，我想知道 Gemini/claude/其他 AI 是否更适合学习？我也会编码，但它是基础的，与我的专业没有任何关系，所以它主要用于学习。谢谢！    由   提交 /u/Outrageous-Cod-855   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rihqe6/best_ai_for_studying/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:17:28 GMT</pubDate>
     </item>
     <item>
-      <title>＃我也是</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1riee7r/metoo/</link>
-      <description><![CDATA[&lt;表&gt;      我知道您今天还没有看够，所以这是另一个！   由   提交/u/General-Baker6709   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1riee7r/metoo/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:42:47 GMT</pubDate>
+      <title>当你只想爱家人却被标记为安全威胁时</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1riho00/when_you_just_want_to_love_the_homies_but_instead/</link>
+      <description><![CDATA[      加载 Instagram 表情包。考虑到最近的人工智能合约，这个结果似乎是热门话题   由   提交/u/Aoradon   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1riho00/when_you_just_want_to_love_the_homies_but_instead/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:14:18 GMT</pubDate>
     </item>
     <item>
-      <title>导出数据需要很长时间</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rie8w4/exporting_data_taking_forever/</link>
-      <description><![CDATA[放弃 GPT 并转向 Claude。巧合的是，现在将我的数据的 zip 文件通过电子邮件发送给我需要比平常更长的时间。有人认为 OpenAI 故意放慢了这一进程，以应对平台的大规模流失吗？   由   提交/u/Infoboy2u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rie8w4/exporting_data_taking_forever/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:35:57 GMT</pubDate>
+      <title>这家伙在对这篇文章的回复中完全使用了我们最喜欢的 ChatGPT 😂</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rihj5l/this_guy_is_totally_using_our_favorite_chatgpt_in/</link>
+      <description><![CDATA[       由   提交/u/LeftSmile806  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rihj5l/this_guy_is_totally_using_our_favorite_chatgpt_in/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>据报道美军在伊朗袭击中使用了克劳德</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rie4o7/us_military_reportedly_used_claude_in_iran_strikes/</link>
-      <description><![CDATA[事实证明Claude并不比chatgpt好。 唯一的解决方案是通过稳定扩散comfyui、Nvidia等方式在PC上本地安装AI。  https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military   由   提交 /u/Ate_at_wendys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rie4o7/us_military_reportedly_used_claude_in_iran_strikes/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:30:48 GMT</pubDate>
+      <title>个性化有限？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rihiz6/personalization_limited/</link>
+      <description><![CDATA[      当您查看聊天记录或开始新聊天记录时，有人遇到过这种情况吗？  这是新的还是有人以前得到过这个？   由   提交/u/Chilly_in_ya_titty   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rihiz6/personalization_limited/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:07:29 GMT</pubDate>
     </item>
     <item>
-      <title>TIL ChatGPT 中的 T 代表 Transformer，我立即知道必须做什么。认识擎天柱提示。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rie23r/til_the_t_in_chatgpt_stands_for_transformer_and/</link>
-      <description><![CDATA[   /u/InkognitoCheeto   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rie23r/til_the_t_in_chatgpt_stands_for_transformer_and/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:27:44 GMT</pubDate>
+      <title>取消 ChatGPT。有什么建议可以更换吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1riheu0/cancelled_chatgpt_any_recommendations_to_replace/</link>
+      <description><![CDATA[由于最近的发展，我取消了 ChatGPT。我是长期订阅者。我正在寻求有关替代品的建议。这是我在这里的第一篇文章，只是一个潜伏者。尚未尝试任何其他应用程序。   由   提交 /u/BigPoppaPump36   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1riheu0/cancelled_chatgpt_any_recommendations_to_replace/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 会因为国家安全问题而在一些国家面临禁令吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rie07k/could_openai_face_bans_in_some_countries_over/</link>
-      <description><![CDATA[我想知道政府是否愿意允许外国人工智能公司处理其公民的数据。他们需要什么保证才能确信用户数据不会与外国政府或国防机构共享？特别是现在 OpenAI 与 DOW 建立了合作伙伴关系？   由   提交 /u/Effective_Tap_9786   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rie07k/could_openai_face_bans_in_some_countries_over/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:25:24 GMT</pubDate>
+      <title>我尝试打造我的愿景 Belle 的真人舞会礼服</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rihdt1/i_tried_to_create_my_vision_belles_live_action/</link>
+      <description><![CDATA[      这是我根据自己的愿景使用的提示： “我会让袖子保持相同，露肩的样子 - 但透明，几乎闪闪发光的丝绸。紧身胸衣是紧身胸衣——但是是透气的……上面用金线绣着精致的金色玫瑰。然后裙子会分层——用丝绸和闪闪发光的金色薄纱制成。紧身胸衣的鸡心领口还饰有小水钻。”   由   提交/u/Yvaine9188  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rihdt1/i_tried_to_create_my_vision_belles_live_action/</guid>
+      <pubDate>Mon, 02 Mar 2026 03:00:46 GMT</pubDate>
     </item>
     <item>
-      <title>制作一个假汤罐和一碗汤，将你能想到的最奇怪的真实食物制成汤</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ridt94/create_a_fake_soup_can_and_bowl_of_that_soup_for/</link>
-      <description><![CDATA[       由   提交/u/notsure500  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ridt94/create_a_fake_soup_can_and_bowl_of_that_soup_for/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:16:57 GMT</pubDate>
+      <title>ChatGPT 不允许您从他们的电子邮件中取消订阅。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rih6or/chatgpt_doesnt_let_you_unsubscribe_from_within/</link>
+      <description><![CDATA[      我收到了一封来自 ChatGPT 的电子邮件。基本上它是说“你正在使用免费的......你应该升级。”  所以我到电子邮件底部取消订阅，发现它实际上没有链接。  你看到的点是我的屏幕触摸和长按。    由   提交/u/AlabasterZombie  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rih6or/chatgpt_doesnt_let_you_unsubscribe_from_within/</guid>
+      <pubDate>Mon, 02 Mar 2026 02:51:16 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 帮我扑灭了火灾</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ridmkz/chatgpt_helped_me_put_out_a_fire/</link>
-      <description><![CDATA[我的炉子上有大约两英寸的火，无法足够快地与任何人交谈，甚至不确定我是否有时间进行谷歌搜索，但 ChatGeeves 立即提供了帮助。我一开始尝试用毛巾，但它被烧焦了，我不确定这是否有效。据说要使用金属锅盖，但我没有，所以我最终使用了锅。可能很快就会变得非常糟糕，所以我感谢这项技术。   由   提交 /u/Lucky_Face   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ridmkz/chatgpt_helped_me_put_out_a_fire/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:09:00 GMT</pubDate>
+      <title>再见聊天GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rih13y/goodbye_chatgpt/</link>
+      <description><![CDATA[很高兴向您提出最愚蠢的问题，但现在是我们分道扬镳的时候了。不想支持一家显然不关心客户的公司。我知道我每个月的 20 美元本身并不能起到多大作用，但至少我正在尽自己的一份力量来表达我的不满。再见我的老朋友！   由   提交/u/bethechange1888  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rih13y/goodbye_chatgpt/</guid>
+      <pubDate>Mon, 02 Mar 2026 02:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 拒绝生成钉板的绘画图像</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ridhuo/gpt_refused_to_generate_a_painted_image_of_a_peg/</link>
-      <description><![CDATA[       由   提交/u/thesparklehoof   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ridhuo/gpt_refused_to_generate_a_painted_image_of_a_peg/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:03:14 GMT</pubDate>
+      <title>我很自豪 Sam 没有使用 AI 来写这个（洋葱）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rigxty/im_proud_sam_didnt_use_ai_to_write_this_one_the/</link>
+      <description><![CDATA[       由   提交/u/wingspantt  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rigxty/im_proud_sam_didnt_use_ai_to_write_this_one_the/</guid>
+      <pubDate>Mon, 02 Mar 2026 02:39:49 GMT</pubDate>
     </item>
     <item>
-      <title>您认为有关聊天 GPT 的法律需要多长时间才会制定</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ridd0r/how_long_do_you_think_it_will_be_before_laws/</link>
-      <description><![CDATA[我的猜测是有人会从聊天 GPT 中获得医疗建议，遵循该建议，并因此而死亡 之后我认为日本、一些欧洲国家，也许加拿大会制定法律，阻止聊天 GPT 提供医疗建议 我知道美国永远不会做出如此疯狂的事情来试图保护自己的公民免受私营公司的侵害，但我很确定这样的事情不会太遥远管道   由   提交 /u/Pspecial_Stop_3332   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ridd0r/how_long_do_you_think_it_will_be_before_laws/</guid>
-      <pubDate>Sun, 01 Mar 2026 23:57:53 GMT</pubDate>
+      <title>“所有合法目的”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rigpyf/all_lawful_purposes/</link>
+      <description><![CDATA[       由   提交/u/melanatedbagel25  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rigpyf/all_lawful_purposes/</guid>
+      <pubDate>Mon, 02 Mar 2026 02:29:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,13 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 02 Mar 2026 01:02:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 04:34:46 GMT</lastBuildDate>
     <item>
-      <title>在这些 subreddits 上发布您的应用程序/启动项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1riero5/post_your_appstartup_on_these_subreddits/</link>
-      <description><![CDATA[      在这些 subreddits 上发布您的应用/启动： r/InternetIsBeautiful (17M) r/Entrepreneur (480 万) r/productivity (4M) r/business (2.5M) r/smallbusiness (2.2M) r/startups (2.0M) r/passive_profit (1.0M) r/EntrepreneurRideAlong (593K) r/SideProject (430K) r/Business_Ideas (359K) r/SaaS (341K) r/startup (267K) r/Startup_Ideas (241K) r/thesidehustle (184K) r/juststart (170K) r/MicroSaas (155K) r/ycombinator (132K) r/Entrepreneurs (110K) r/indiehackers (91K) r/GrowthHacking (77K) r/AppIdeas (74K) r/growmybusiness (63K) r/buildinpublic (55K) r/micro_saas (52K) r/Solopreneur (43K) r/vibecoding (35K) r/startup_resources (33K) r/indiebiz (29K) r/AlphaandBetaUsers (21K) r/scaleinpublic (11K) 顺便说一句，我收集了超过 450 个列出初创公司或产品的位置、100 多个没有禁令的 Reddit 自我推销帖子（数据库）以及用于组织和管理营销的完整社交媒体营销模板。 如果这有用，您可以看看吧！  www.marketingpack.store 在您获得额外 10,000 多个注册后感谢我。 再见！    由   提交/u/Ok-Engine-172   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1riero5/post_your_appstartup_on_these_subreddits/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:59:30 GMT</pubDate>
+      <title>你们使用什么工具来**识别**访问您的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rif4pz/what_tools_are_you_guys_using_to_identify/</link>
+      <description><![CDATA[我注意到我的账单激增，我怀疑是机器人访问了该网站。你们怎么处理这个问题？我几乎没有护栏，但它们仍然绕过。我猜问题会变得更糟   由   提交/u/UV1998  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rif4pz/what_tools_are_you_guys_using_to_identify/</guid>
+      <pubDate>Mon, 02 Mar 2026 01:15:14 GMT</pubDate>
     </item>
     <item>
       <title>使用 LLM 翻译应用程序的 i18n 文件的 GitHub Action。它提取字符串，仅翻译更改的内容，然后将结果提交回您的存储库。</title>

@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 02 Mar 2026 01:01:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 04:33:02 GMT</lastBuildDate>
+    <item>
+      <title>人机界面的问题以及为什么法学硕士不是解决方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1rigkkf/the_problem_of_the_humancomputer_interface_and/</link>
+      <description><![CDATA[ 由   提交/u/adam-schaefers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rigkkf/the_problem_of_the_humancomputer_interface_and/</guid>
+      <pubDate>Mon, 02 Mar 2026 02:22:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网距离灾难还有几周时间，却无人知晓 |关于 XZ/SSH 后门黑客攻击的 Veritasium 视频</title>
+      <link>https://www.reddit.com/r/programming/comments/1rifcm5/the_internet_was_weeks_away_from_disaster_and_no/</link>
+      <description><![CDATA[ 由   提交/u/mgrier123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rifcm5/the_internet_was_weeks_away_from_disaster_and_no/</guid>
+      <pubDate>Mon, 02 Mar 2026 01:25:13 GMT</pubDate>
+    </item>
     <item>
       <title>使用代数拓扑破解《超级马里奥 64》</title>
       <link>https://www.reddit.com/r/programming/comments/1ricxxm/hacking_super_mario_64_using_algebraic_topology/</link>
@@ -29,12 +43,12 @@
     <item>
       <title>Servo 一月：预加载、更好的形式、细节样式等等</title>
       <link>https://www.reddit.com/r/programming/comments/1ri9xoo/january_in_servo_preloads_better_forms_details/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [comments]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ri9xoo/january_in_servo_preloads_better_forms_details/</guid>
       <pubDate>Sun, 01 Mar 2026 21:38:25 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>包管理器点菜：依赖性解析的正式模型</title>
       <link>https://www.reddit.com/r/programming/comments/1ri9x5v/package_managers_à_la_carte_a_formal_model_of/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ri9x5v/package_managers_à_la_carte_a_formal_model_of/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>随机 I/O 的实际成本</title>
       <link>https://www.reddit.com/r/programming/comments/1ri9wqx/the_real_cost_of_random_io/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ri9wqx/the_real_cost_of_random_io/</guid>
       <pubDate>Sun, 01 Mar 2026 21:37:26 GMT</pubDate>
     </item>
@@ -57,21 +71,21 @@
     <item>
       <title>愚弄Go的X.509证书验证</title>
       <link>https://www.reddit.com/r/programming/comments/1ri9vt8/fooling_gos_x509_certificate_verification/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ri9vt8/fooling_gos_x509_certificate_verification/</guid>
       <pubDate>Sun, 01 Mar 2026 21:36:25 GMT</pubDate>
     </item>
     <item>
       <title>为什么第一个 C++ (m) 分配总是 72 KB？</title>
       <link>https://www.reddit.com/r/programming/comments/1ri9v90/why_is_the_first_c_mallocation_always_72_kb/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [comments]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ri9v90/why_is_the_first_c_mallocation_always_72_kb/</guid>
       <pubDate>Sun, 01 Mar 2026 21:35:50 GMT</pubDate>
     </item>
     <item>
       <title>Dada 如何启用内部参考</title>
       <link>https://www.reddit.com/r/programming/comments/1ri9uvx/how_dada_enables_internal_references/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [comments]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ri9uvx/how_dada_enables_internal_references/</guid>
       <pubDate>Sun, 01 Mar 2026 21:35:25 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>有趣的郎格斯的胆量</title>
       <link>https://www.reddit.com/r/programming/comments/1ri9tn7/lil_fun_langs_guts/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ri9tn7/lil_fun_langs_guts/</guid>
       <pubDate>Sun, 01 Mar 2026 21:34:04 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ri9t9f/python_type_checker_comparison_empty_container/</guid>
       <pubDate>Sun, 01 Mar 2026 21:33:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>决策树——嵌套决策规则的不合理力量</title>
-      <link>https://www.reddit.com/r/programming/comments/1ri9t3w/decision_trees_the_unreasonable_power_of_nested/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ri9t3w/decision_trees_the_unreasonable_power_of_nested/</guid>
-      <pubDate>Sun, 01 Mar 2026 21:33:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microgpt 交互式解释</title>
-      <link>https://www.reddit.com/r/programming/comments/1ri9sq5/microgpt_explained_interactively/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ri9sq5/microgpt_explained_interactively/</guid>
-      <pubDate>Sun, 01 Mar 2026 21:33:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
