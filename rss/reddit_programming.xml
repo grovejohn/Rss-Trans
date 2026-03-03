@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 03 Mar 2026 01:03:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 04:31:39 GMT</lastBuildDate>
+    <item>
+      <title>我破解了这个 Temu 路由器。我发现的应该是非法的。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rjff3k/i_hacked_this_temu_router_what_i_found_should_be/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rjff3k/i_hacked_this_temu_router_what_i_found_should_be/</guid>
+      <pubDate>Tue, 03 Mar 2026 04:12:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人是如何创建这样一个网站的？</title>
+      <link>https://www.reddit.com/r/programming/comments/1rjdz5r/how_did_somebody_create_a_site_like_this/</link>
+      <description><![CDATA[太有趣了，有人能够做到这一点，我想知道它是否也已上线   由   提交/u/EstablishmentNo816   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rjdz5r/how_did_somebody_create_a_site_like_this/</guid>
+      <pubDate>Tue, 03 Mar 2026 03:04:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我们构建（并开源）新的 RoughTime 实现</title>
+      <link>https://www.reddit.com/r/programming/comments/1rjbt5b/why_we_built_and_opensourced_a_new_roughtime/</link>
+      <description><![CDATA[ 由   提交/u/self  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rjbt5b/why_we_built_and_opensourced_a_new_roughtime/</guid>
+      <pubDate>Tue, 03 Mar 2026 01:28:19 GMT</pubDate>
+    </item>
     <item>
       <title>我将完整的 JVM 放入浏览器选项卡中。有用”。从技术上来说。最终。</title>
       <link>https://www.reddit.com/r/programming/comments/1rjb2io/i_put_a_full_jvm_inside_a_browser_tab_it_works/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rj0iim/hardware_hotplug_events_on_linux_the_gory_details/</guid>
       <pubDate>Mon, 02 Mar 2026 18:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年 Rust 状况调查结果</title>
-      <link>https://www.reddit.com/r/programming/comments/1rj0hc0/2025_state_of_rust_survey_results/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rj0hc0/2025_state_of_rust_survey_results/</guid>
-      <pubDate>Mon, 02 Mar 2026 18:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>JSON 文档性能、存储和搜索：MongoDB 与 PostgreSQL</title>
-      <link>https://www.reddit.com/r/programming/comments/1rj0h6r/json_documents_performance_storage_and_search/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rj0h6r/json_documents_performance_storage_and_search/</guid>
-      <pubDate>Mon, 02 Mar 2026 18:14:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Mikado 方法在复杂的代码库中进行安全的更改</title>
-      <link>https://www.reddit.com/r/programming/comments/1rj0886/use_the_mikado_method_to_do_safe_changes_in_a/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rj0886/use_the_mikado_method_to_do_safe_changes_in_a/</guid>
-      <pubDate>Mon, 02 Mar 2026 18:06:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
