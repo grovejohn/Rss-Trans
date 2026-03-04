@@ -4,7 +4,28 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Wed, 04 Mar 2026 00:58:09 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 04:24:57 GMT</lastBuildDate>
+    <item>
+      <title>220k+ 人工智能代理实例在没有授权的情况下暴露在公共互联网上，这很糟糕</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkaxp1/220k_ai_agent_instances_exposed_on_public/</link>
+      <description><![CDATA[有人制作了一个观察板来跟踪 openclaw 的部署。 220k+ 实例在零身份验证的公共 IP 上运行 大多数都在端口 18789 上。您实际上只需点击 IP 即可访问代理。没有登录，没有API密钥，什么都没有 随机检查了一些。有些人“已泄露信用信息”标记为红色。界面中可见api密钥和密码 asn数据显示腾讯、oracle、baidu、alibaba、huawei、aws。不是随机的家庭服务器。实际的云基础设施 这比保持数据库开放要糟糕得多。这些代理执行代码、调用 API、访问文件系统。如果有人在具有内部访问权限的产品中运行这个，那就是一个巨大的漏洞 几年前用 jupyter 笔记本看到了这个。数千人暴露在外，人们丢失了数据，安装了加密矿工 区别在于代理是自治的。他们做出决定并采取行动。暴露的 jupyter 是被动的。暴露的代理可能会主动造成损害 220k 实例意味着这种情况正在生产中发生。不仅仅是演示 模式：人们在本地测试，部署到云端，打开远程访问端口，忘记添加身份验证 现在有些工具默认强制执行身份验证。光标、verdent、windsurf 甚至都需要在本地登录，这看起来很烦人，但很有意义。大多数开源框架不需要 我们需要更好的默认值。身份验证是必需的，不是可选的。公众曝光警告。 api 键在 ui 中永远不可见 否则我们会看到不好的事件。暴露了 aws 信用的代理。或连接到产品数据库。或者可以发送电子邮件 ai安全人们担心agi。与此同时，目前正在运行 22 万个不安全的代理 人们实际使用的安全措施是什么？显然很多人都犯了这个错误   由   提交 /u/BookwormSarah1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkaxp1/220k_ai_agent_instances_exposed_on_public/</guid>
+      <pubDate>Wed, 04 Mar 2026 03:42:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>像 OpenClaw 这样的自主代理值得花时间设置吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rka3o6/are_autonomous_agents_like_openclaw_worth_the/</link>
+      <description><![CDATA[OpenClaw 最近成为新闻焦点，因为它能够访问用户计算机的所有方面并能够自主完成任务。然而，人们对安全性、维护性和有效性存在担忧。  作为一个过去花费数小时尝试设置 AutoGPT 但几乎没有得到任何回报的人，如果我有项目的话，您会建议我花时间设置 OpenClaw 吗？如果我花 4-5 个小时正确设置它，它真的能正常工作吗？   由   提交 /u/Chronically_Accurate   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rka3o6/are_autonomous_agents_like_openclaw_worth_the/</guid>
+      <pubDate>Wed, 04 Mar 2026 03:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>教皇恳求牧师停止使用 ChatGPT 撰写讲道</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rk82rq/pope_implores_priests_to_stop_writing_sermons/</link>
+      <description><![CDATA[https://futurism.com/artificial-intelligence/pope-priests-ai   由   提交 /u/JonBarPoint   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rk82rq/pope_implores_priests_to_stop_writing_sermons/</guid>
+      <pubDate>Wed, 04 Mar 2026 01:31:36 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI 接受了五角大楼的交易 - 然后屈服于 Anthropic 所追求的相同条款</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rk6sw8/openai_took_the_pentagon_deal_then_caved_to_the/</link>
@@ -48,13 +69,6 @@
       <pubDate>Tue, 03 Mar 2026 17:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>我为一个不存在的人签了一份品牌协议。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rjskfm/i_got_a_brand_deal_for_a_person_who_doesnt_exist/</link>
-      <description><![CDATA[上个月我创建了一个人工智能生成的 Instagram 帐户。虚构的人物，虚构的设定。  4 天后，观看次数超过 300 万，SteelSeries 提供了付费赞助。法国电视网 TF1 要求采访，埃隆·马斯克转发了两次。  对于一个不存在的人。  工具（哪种 AI 模型、哪种编辑软件）可能只占结果的 10%。理解平台机制是另外 90%。 让我想知道：我们是否高估了工具而低估了分发？   由   提交/u/Icy-Operation-6036   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rjskfm/i_got_a_brand_deal_for_a_person_who_doesnt_exist/</guid>
-      <pubDate>Tue, 03 Mar 2026 15:40:14 GMT</pubDate>
-    </item>
-    <item>
       <title>清华大学鉴定出了导致人工智能幻觉的神经元。它们在排列中保持不变。修复必须是架构性的。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rjm07f/tsinghua_identified_the_neurons_that_cause_ai/</link>
       <description><![CDATA[论文是 arXiv 2512.01797。研究人员发现了他们所谓的 H 神经元：前馈层中不到 0.01% 的神经元子集，编码过度服从。事实并非错误。产生自信答案而不是承认不确定性的动力。 没有得到充分讨论的关键发现：这些神经元在预训练期间形成，在对齐期间几乎没有变化。整个微调过程参数稳定性达到0.97。 RLHF 不会删除它们。它重定向了顺从行为，但使底层神经元在结构上保持完整。 这具有实际意义，我认为这比学术发现本身更重要。如果幻觉是由提示和微调无法达到的神经元引起的，那么修复就必须来自模型外部。没有更好的系统提示。不是“请验证您的说法”。不再是 RLHF。一些建筑性的东西。 人们正在尝试几种方法。宪法人工智能约束、检索增强生成、思维链验证。我一直在研究的是多模型同行评审。来自不同提供商的三个模型独立回答，然后每个模型匿名读取所有三个响应并对它们进行排名。该模型不知道它正在读取自己的答案还是其他人的答案。这消除了 H 神经元驱动的尊重和锚定行为。 经过同行评审，排名最高的响应被综合，然后一个不同的模型对其进行对抗性攻击。当细化循环开始橡皮图章而不是实际批评时，阿谀奉承检测就会标记（相同的 H 神经元问题，不同的阶段）。最后，个人声明会根据实时网络资源进行验证。 我将其构建到名为 Triall (https://triall.ai) 的工具中。如果有人想查看正在运行的管道，则无需注册即可免费运行一次。这里还有简洁的小演示视频：https://www.youtube.com/watch?v=m44tdRMaCq8 诚实的限制：相关错误。当所有三个模型从训练数据中学到相同的错误时，同行评审将无法发现它。研究表明，不同提供商之间大约有 60% 的错误相关性。当三者都同意但声明未经证实时，收敛检测会标记，网络验证会捕获其余部分，但尚未解决。 论文：https://arxiv.org/abs/2512.01797   由   提交/u/Fermato   [link] [评论]]]></description>
@@ -69,25 +83,11 @@
       <pubDate>Tue, 03 Mar 2026 10:14:44 GMT</pubDate>
     </item>
     <item>
-      <title>密西西比州的一位诗人使用 Suno 创造了一位 AI 艺术家，该艺术家在 Billboard 上排名第一，并获得了 300 万美元的唱片合约</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rjjpjs/a_mississippi_poet_used_suno_to_create_an_ai/</link>
-      <description><![CDATA[Telisha Jones 是一位来自密西西比州的 31 岁诗人，她使用 Suno 将她的诗歌变成了一位名为 Xania Monet 的 AI R&amp;B 艺术家。 结果：Billboard R&amp;B 数字歌曲销量排名第一，播放量超过 4400 万次，并与 Hallwood Media 签订了 300 万美元的唱片合约。 她创作了约 90% 的唱片。歌词本身。 Suno 负责主唱和制作。 Kehlani、SZA 和其他人都公开反对。 Timbaland 正在积极支持它。 完整细分：https://www.votemyai.com/blog/from-poet-to-billboard-how-suno-created-a-3-million-dollar-ai-artist.html 你觉得怎么样？这是音乐的未来，还是终结的开始？ 如果有人想在形成意见之前实际聆听一下，这是她的 Spotify：https://open.spotify.com/artist/0YIEJNJUCsjzeWwj8Xh2LD   由   提交/u/Sensitive_Artist7460   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rjjpjs/a_mississippi_poet_used_suno_to_create_an_ai/</guid>
-      <pubDate>Tue, 03 Mar 2026 08:11:34 GMT</pubDate>
-    </item>
-    <item>
       <title>ChatGPT 有什么好的替代品吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rjirvr/whats_a_good_alternative_to_chatgpt/</link>
       <description><![CDATA[我已经使用 ChatGPT 一两年了。它并不总是令人惊叹，但已经足够好了。 我已经有几个月没有使用它了，今天回来问了一些事情，很快就达到了每日免费限制。现在我无法得到更多回复。 我曾经对免费版本比高级版稍弱一点感到满意，因为我仍然可以调整提示来获得我需要的东西。但现在回复有硬性上限，而且质量感觉也好不了多少。 是否有任何可靠的免费替代方案，没有严格的每日限制？   由   提交/u/RoninWisp_3  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rjirvr/whats_a_good_alternative_to_chatgpt/</guid>
       <pubDate>Tue, 03 Mar 2026 07:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>女士们先生们，这是“社交算法”终结的开始，而我就是为此而来。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rjirs0/its_the_beginning_of_the_end_of_social_algorithms/</link>
-      <description><![CDATA[Tldr：帐户自动化变得越来越容易。对于那些不知道的人来说，您可以很容易地自动化您的社交媒体配置文件，以发布内容、回复内容等。最终没有人会是真实的，这意味着社交媒体上没有钱。瘟疫的末日将会结束。   我们快到了。到了那个伟大而美丽的日子，当我们看到我所认为的、历史学家可能会认为是对人类释放的最有毒的东西的衰落时。社交媒体。  对于那些知情者来说，现在自动化您的帖子以自动化您的回复相对容易，我可以让我的帐户在这里为自己工作。  人们这样做已经有一段时间了。为什么你认为你看到的所有这些政治评论都只倾向于一种方式。看看帖子，你会看到更多的机器人和宣传账户，多得你根本无法动摇。  做起来和设置起来都很棘手。但显然很快它就会变得更容易。服务开始销售订阅以轻松创建机器人来为您执行此操作只是时间问题。他们已经在其他网站上这样做了，我知道只有粉丝是其中之一，从来没有，但我想你可以与人们交谈，这都是假机器人。  无论如何，重点是，如果每个人都将社交媒体自动化，如果没有人真正互相发帖，也没有人真正喜欢彼此的帖子，这对社交媒体来说是一件坏事。这就是造物主经济的终结。这是决定你喜欢什么的算法的终结。  这是世界上最美丽的东西，我认为它将拯救我们的社会。    由   提交 /u/Jumpy-Program9957   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rjirs0/its_the_beginning_of_the_end_of_social_algorithms/</guid>
-      <pubDate>Tue, 03 Mar 2026 07:13:18 GMT</pubDate>
     </item>
     <item>
       <title>OpenAI 与 DoD 交易引发强烈反对后，ChatGPT 卸载量激增 295%</title>

@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 04 Mar 2026 01:00:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 04:26:03 GMT</lastBuildDate>
+    <item>
+      <title>使用计算机视觉揭开 Epstein 文件中经过编辑的姓名（开源）</title>
+      <link>https://www.reddit.com/r/programming/comments/1rk9lp3/using_computer_vision_to_unmask_the_redacted/</link>
+      <description><![CDATA[我最近构建了一个名为 Unredact 的开源工具，可以帮助缩小 Epstein 案件文件中的密文名称范围。 它的工作原理是分析密文框的几何形状（字体间距、字符宽度、周围版式），并交叉引用已知的关联，以生成物理上适合密文空间的名称列表。在某些情况下，如果编辑很草率并且像素渗漏，它可以进一步缩小范围。 使用 python、rust 和 javascript 构建。 我制作了一个视频，通过现场演示演示了它的工作原理。 项目链接：https://github.com/Alex-Gilbert/unredact 非常感谢 EpsteinSleuther，他的作品为设计提供了很多灵感，也感谢 R. Howard Stone，他关联数据集使匹配成为可能。   由   提交/u/Xaxxmineraxx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rk9lp3/using_computer_vision_to_unmask_the_redacted/</guid>
+      <pubDate>Wed, 04 Mar 2026 02:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止使用浮动！ （为什么你的嵌入式 C 很慢）</title>
+      <link>https://www.reddit.com/r/programming/comments/1rk7s1z/stop_using_floats_why_your_embedded_c_is_slow/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rk7s1z/stop_using_floats_why_your_embedded_c_is_slow/</guid>
+      <pubDate>Wed, 04 Mar 2026 01:18:27 GMT</pubDate>
+    </item>
     <item>
       <title>矩阵乘法深入探讨 ||缓存阻塞、SIMD 和并行化 - Aliaksei Sala - CppCon</title>
       <link>https://www.reddit.com/r/programming/comments/1rk74cs/matrix_multiplication_deep_dive_cache_blocking/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>线程与协程 — 为什么 C++ 有两种并发模型 - Conor Spilsbury - CppCon 2025</title>
       <link>https://www.reddit.com/r/programming/comments/1rk72k1/threads_vs_coroutines_why_c_has_two_concurrency/</link>
-      <description><![CDATA[ 由   提交/u/BlueGoliath  [link] [comments]]]></description>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rk72k1/threads_vs_coroutines_why_c_has_two_concurrency/</guid>
       <pubDate>Wed, 04 Mar 2026 00:47:30 GMT</pubDate>
     </item>
@@ -34,7 +48,7 @@
       <pubDate>Wed, 04 Mar 2026 00:47:10 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>要成为一名更好的程序员，请在头脑中写下小证明</title>
       <link>https://www.reddit.com/r/programming/comments/1rk349i/to_be_a_better_programmer_write_little_proofs_in/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rk349i/to_be_a_better_programmer_write_little_proofs_in/</guid>
@@ -48,14 +62,14 @@
       <pubDate>Tue, 03 Mar 2026 21:58:21 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>竞赛中的竞赛：在 Linux 数据包套接字中利用 CVE-2025-38617</title>
       <link>https://www.reddit.com/r/programming/comments/1rk2wr3/a_race_within_a_race_exploiting_cve202538617_in/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rk2wr3/a_race_within_a_race_exploiting_cve202538617_in/</guid>
       <pubDate>Tue, 03 Mar 2026 21:58:14 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>QuePaxa：以共识摆脱超时的暴政</title>
       <link>https://www.reddit.com/r/programming/comments/1rk2wfz/quepaxa_escaping_the_tyranny_of_timeouts_in/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rk2wfz/quepaxa_escaping_the_tyranny_of_timeouts_in/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Missics   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rjzudz/threat_modelling_for_builders/</guid>
       <pubDate>Tue, 03 Mar 2026 20:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年，在短短 24 小时内抓取 10 亿个网页</title>
-      <link>https://www.reddit.com/r/programming/comments/1rjynii/crawling_a_billion_web_pages_in_just_over_24/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rjynii/crawling_a_billion_web_pages_in_just_over_24/</guid>
-      <pubDate>Tue, 03 Mar 2026 19:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>TorchLean：形式化精益神经网络</title>
-      <link>https://www.reddit.com/r/programming/comments/1rjvc1b/torchlean_formalizing_neural_networks_in_lean/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rjvc1b/torchlean_formalizing_neural_networks_in_lean/</guid>
-      <pubDate>Tue, 03 Mar 2026 17:22:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
