@@ -4,13 +4,13 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 04 Mar 2026 09:31:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 12:31:00 GMT</lastBuildDate>
     <item>
-      <title>开源的泰米尔语概念翻译：“Kēṇmuṟai”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rkghgj/a_tamil_conceptual_translation_for_open_source/</link>
-      <description><![CDATA[# 为什么“开源”在泰米尔语中可以被称为“Kēṇmuṟai” 语言不仅仅是单词的集合。  它反映了文化如何理解思想、关系和系统。 当新概念出现时，语言通常以以下两种方式之一采用它们：  **直接翻译** - 按字面意思转换每个单词。  **概念创造** - 根据想法及其潜在品质形成一个新词。  泰米尔语，泰米尔语之一世界上现存最古老的语言，历史上更喜欢第二种方法。 --- # 一个简单的例子：瀑布 → அருவி (Aruvi) 采用英语单词**“瀑布”。** 直译成泰米尔语是**“நீர்வீழ்ச்சி”（水+瀑布）**。 但古典泰米尔语改为使用**“அருவி”（Aruvi）**。 这个词不会机械翻译英语部分。  相反，它捕捉了**自然现象本身**——水的流动下降。 这不是翻译。  这是一个植根于语言世界观的**概念词**。 --- # 翻译“开源”的问题 在泰米尔语计算讨论中，*开源*通常被翻译为： **“திறந்த மூலம்”（开放 +来源）**  或  **“திறந்த மூல மென்பொருள்”（开源软件）** 这反映了英语结构，但忽略了更深层次的想法。 因为开源不是其核心原则包括： - 协作 - 信任 - 共享所有权 - 集体改进 开源的力量不仅在于访问代码，还在于**人们一起工作**。 --- # 一个概念泰米尔语术语： கேண்முறை（Kēṇmuṟai） 泰米尔语有一个古典词： **கேண்மை（Kēṇmai）** 意思是： ——深厚的陪伴 ——合作关系 -基于信任的联系 它比简单的友谊更强大。  它意味着**人们支持和共同建设的相互纽带**。 如果我们将其与**முறை (muṟai)** 意思是*方法*或*系统*结合起来，我们会得到： **கேண்முறை (Kēṇmuṟai)** 大致意思是： &gt; **建立在共享信任和参与基础上的协作系统。** 这与开源社区的实际运作方式非常吻合。 --- # 为什么“Kēṇmuṟai”符合开源精神 开源项目之所以成功，是因为： - 分布式协作 - 自愿贡献 - 共享知识 -社区驱动的进化 这些品质类似于**合作关系网络**，而不仅仅是一个开放的存储库。 因此，我们可以表达它的**社会哲学**，而不是翻译机械短语**“开源”。 就像： **瀑布 → Aruvi** 我们可能会想到： **开源 → Kēṇmuṟai** --- # 翻译与概念创建 直译侧重于**单词**。  概念创作注重**意义**。 |英语术语 |泰米尔语字面 |概念泰米尔语 | |---------------|---------------|--------------------| |瀑布| நீர்வீழ்ச்சி | அருவி | |开源 | திறந்தமூலம் | கேண்முறை | 两种方法都是有效的，但概念术语往往感觉更**自然和文化根源**。 --- # 讨论邀请 这并不意味着一夜之间取代现有术语。 相反，它是对语言如何**内化全球技术的探索。想法**，同时保留自己的哲学结构。 **Kēṇmuṟai** 能否成为用泰米尔语表达开源精神的一种有意义的方式？ 或者有更好的概念翻译吗？ 我很想听听世界各地的开发人员、语言学家和开源贡献者的想法。   由   提交 /u/Slight_Peace_1237   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rkghgj/a_tamil_conceptual_translation_for_open_source/</guid>
-      <pubDate>Wed, 04 Mar 2026 08:54:11 GMT</pubDate>
+      <title>我构建了 crikket，这是 jam.dev 和 Marker.io 的开源替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rkjwwb/i_built_crikket_an_open_source_alternative_to/</link>
+      <description><![CDATA[      我想要一种简单的方法来捕获和共享错误，所以我构建了这个。我找不到按照我想要的方式工作的可靠开源替代方案。 与大错误报告工具相比，目前还没有任何第三方集成，但添加这些是我列表中的下一个。 Github：https://github.com/redpangilinan/crikket  网站：https://crikket.io   由   提交 /u/Rikishii   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rkjwwb/i_built_crikket_an_open_source_alternative_to/</guid>
+      <pubDate>Wed, 04 Mar 2026 12:16:42 GMT</pubDate>
     </item>
     <item>
       <title>使用张量并行性的实验性开源分布式 LLM 推理框架。寻找反馈！</title>
