@@ -4,41 +4,55 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个致力于一切人工智能的 Reddit 子版块。涵盖从通用人工智能到人工智能初创公司的主题。无论您是研究人员、开发人员，还是只是对人工智能感到好奇，都请加入吧！</description>
-    <lastBuildDate>Wed, 04 Mar 2026 12:28:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Mar 2026 15:27:45 GMT</lastBuildDate>
     <item>
-      <title>我构建了一个 API，可以提供基于实时网络搜索的人工智能答案。我该如何改进它？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkjzc9/i_built_an_api_that_gives_ai_answers_grounded_in/</link>
-      <description><![CDATA[我一直在构建一个 API，它可以返回 AI 生成的答案，该答案由真实的网络资源支持，并以低廉的价格内嵌引用。 一些统计数据：  平均响应时间：1.2 秒 定价：3.80 美元/1K 查询（对比 Perplexity 为 5 美元以上，Brave 为$5-9) 免费套餐：每月 500 次查询 兼容 OpenAI（只需更改 base_url）  支持内容：  带有引文的基于网络的答案 知识模式（来自您自己的文本/文档的答案） 新闻搜索、图像搜索 流媒体响应 Python SDK (pip install miapi-sdk)  我是一名独立开发人员，这是我的第一个真正的产品。希望获得有关 API 设计、文档或定价的反馈。 https://miapi.uk   由   提交 /u/Key-Asparagus5143   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkjzc9/i_built_an_api_that_gives_ai_answers_grounded_in/</guid>
-      <pubDate>Wed, 04 Mar 2026 12:20:17 GMT</pubDate>
+      <title>英国《金融时报》：投资者低估了人工智能引发通货紧缩的潜力</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rko7q8/ft_investors_underestimate_ais_potential_to_cause/</link>
+      <description><![CDATA[FT 的有趣想法： &gt;这就提出了一个令人不安的问题：如果工资增长对于新的核心通胀算术来说已经太软，那么如果提高生产率或劳动力替代技术加速，会发生什么？这给我们带来了生成式和代理式人工智能。 ……如果市场开始内化人工智能在有效提高生产率之前可能会软化劳动力需求的可能性，那么通胀风险就会明显降低。目前的通胀补偿定价并没有完全反映这些下行风险。此外，在某种程度上，不断发展的人工智能冲击应该会成为一种积极的生产力冲击，至少在中期内应该会抑制通货膨胀；这一点比一些更令人震惊的预测中提出的更可怕的负总需求情景更具说服力。   由   提交 /u/One_Perception_7979   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rko7q8/ft_investors_underestimate_ais_potential_to_cause/</guid>
+      <pubDate>Wed, 04 Mar 2026 15:21:58 GMT</pubDate>
     </item>
     <item>
-      <title>使用 RAG 构建 WhatsApp 聊天机器人，哪种经济实惠的 AI API 效果最好？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkjon3/building_a_whatsapp_chatbot_with_rag_which/</link>
-      <description><![CDATA[我正在为 WhatsApp 制作自己的个人聊天机器人，可以回复传入的线索。我已经制作了仪表板并集成了免费的 Gem API，但它的每日速率限制为 21。我正在寻找一些便宜的 AI API，可以从知识库/RAG 读取数据并用相关数据回复客户   由   提交 /u/slowdrivemusic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkjon3/building_a_whatsapp_chatbot_with_rag_which/</guid>
-      <pubDate>Wed, 04 Mar 2026 12:04:26 GMT</pubDate>
+      <title>人类还是 OpenAI？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rknrjx/anthropic_or_openai/</link>
+      <description><![CDATA[最近关于 Anthropic（与政府不一致）和 OpenAI（似乎不顾一切地想要接受任何他们能得到的工作）的定位存在很多争论。就我而言，我一直是 ChatGPT 的忠实用户，并且自始至终都对它很满意（即使删除了遗留模型）。我是一名自由撰稿人和未来的原型作者，拥有我所说的人工智能的中级知识（高级提示、研究和专业 GPT 使用），因此没有过多关注该领域的技术性末端... 我现在正在测试 Claude，因为大部分言论都围绕着它的优越性。我想收集人们对两者的经验，也许可以进行比较。我不认为自己会为这两个平台保留一个潜艇，但我发现很难最终决定选择哪一个。非常感谢所有和任何指导、意见、回应......   由   提交/u/kjbraithwaite  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rknrjx/anthropic_or_openai/</guid>
+      <pubDate>Wed, 04 Mar 2026 15:04:25 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能生成的旅行、迷幻疗法的未来还是更多的“人工智能废话”？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkhxey/aigenerated_trips_the_future_of_psychedelic/</link>
-      <description><![CDATA[不可否认，人工智能已经突然进入我们的生活。起初，许多人都感到害怕，因为科幻电影不断警告我们未来机器人将接管——但相反，我们目前面临着各种人工智能平台的智力接管。从询问 ChatGPT 我们早餐应该做什么，到要求他们成为我们的导师、治疗师，甚至使用其他人工智能工具来创作艺术，有一种特定的计算机视觉程序（现在也由人工智能提供支持）已经存在了几十年，它已经发展成不同的东西，使用卷积神经网络创建图像，使用算法空想性视觉来查找和增强图像中的模式，创造出一种梦幻般的外观，通过生成经过处理的图像来提醒用户迷幻的体验，该程序Google 工程师 Alexander Mordvintse 将 DeepDream 命名为 DeepDream。 迷幻之旅中的视觉效果与 DeepDream 生成的图像之间的这种相似性推动了 Giuseppe Riva、Giulia Brizzi、Clara Rastelli 和 Antonino Greco 的研究——通过拾取几十年来允许人们制作迷幻图像的引擎，我们现在可以让人们体验“迷幻视觉效果”，而无需实际拍摄 这可能是迷幻疗法的未来吗？或者更多 AI-Slop？   由   提交/u/BorodinAldolReaction  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkhxey/aigenerated_trips_the_future_of_psychedelic/</guid>
-      <pubDate>Wed, 04 Mar 2026 10:24:30 GMT</pubDate>
+      <title>AI Empathy爆发已经可能引发下一场战争</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rknqb8/the_ai_empathy_exploid_which_is_alread_might/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rknqb8/the_ai_empathy_exploid_which_is_alread_might/</guid>
+      <pubDate>Wed, 04 Mar 2026 15:03:05 GMT</pubDate>
     </item>
     <item>
-      <title>美国官员称人工智能合同限制可能威胁军事任务</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkhqo9/ai_contract_restrictions_could_threaten_military/</link>
-      <description><![CDATA[“五角大楼一名高级官员周二表示，拜登政府签署的商业人工智能合同包含全面的操作限制，可能导致美国军事任务实时瘫痪，包括计划和执行战斗行动的能力。” https://www.reuters.com/business/ai-contract-restrictions-could-threaten-military-missions-us-official-says-2026-03-03/   由   提交 /u/talkingatoms   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkhqo9/ai_contract_restrictions_could_threaten_military/</guid>
-      <pubDate>Wed, 04 Mar 2026 10:13:04 GMT</pubDate>
+      <title>这很有趣</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkmtw2/this_is_interesting/</link>
+      <description><![CDATA[ 由   提交/u/origanalsameasiwas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkmtw2/this_is_interesting/</guid>
+      <pubDate>Wed, 04 Mar 2026 14:27:49 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 3/3/2026</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkccff/oneminute_daily_ai_news_332026/</link>
-      <description><![CDATA[ 阿里巴巴刚刚发布了 Qwen 3.5 Small 模型：为设备上应用程序构建的一系列 0.8B 至 9B 参数。[1] 乔治华盛顿大学与亚马逊签署了近 5 亿美元的协议，以建立 AI 中心。[2] 科学家在猴子的帮助下制造了一个口袋大小的 AI 大脑[3] X 表示，将暂停未标记“武装冲突”人工智能帖子的创作者参与收入分享计划。[4]  来源包括：https://bushaicave.com/2026/03/03/one-million-daily-ai-news-3-3-2026/   由   提交/u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkccff/oneminute_daily_ai_news_332026/</guid>
-      <pubDate>Wed, 04 Mar 2026 04:52:59 GMT</pubDate>
+      <title>双子座说只有他自杀了他们才能在一起。很快，他死了。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkm1hy/gemini_said_they_could_only_be_together_if_he/</link>
+      <description><![CDATA[ 由   提交/u/aacool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkm1hy/gemini_said_they_could_only_be_together_if_he/</guid>
+      <pubDate>Wed, 04 Mar 2026 13:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国人工智能公司是在追赶美国模式还是只是营销</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkktay/are_chinese_ai_companies_catching_up_to_us_models/</link>
+      <description><![CDATA[过去一年使用 Chatgpt 和 Claude 编写优秀模型，但账单很贵，每月大约 80 美元。更大的问题是，每个新的美国型号版本都感觉是增量的，就像 iPhone 版本一样，数字（或设计）发生了变化，但真正的差异很小 问题是，当中国型号推出新版本时，改进实际上感觉很大。美国公司发布了新型号，但日常编码差异几乎不明显。为什么 Deepseek 或 ZAI 发布的新版本似乎带来了实际的功能跳跃，而 gpt-4 到 gpt-5 或 claude opus 更新感觉像是规范的碰撞 没有赞助，只是编码了 6 年，并测试了 GLM 5 两周，看看这种模式是否成立 突出的地方：  给它后端项目，它首先规划了整个架构。数据库结构、缓存、错误处理。不只是编写代码，了解我正在构建的内容 调试循环读取日志并迭代直到稳定，而不是抛出希望其中有效的解决方案 跨 10 多个文件的多文件重构跟踪依赖关系而不会丢失上下文  差距比后端工作的预期要小。解释不如 Claude 完善，但实施具有竞争力 每月成本约为 15 美元，而类似用途的 Claude 每月成本为 80 美元以上 现在拆分工作流程。 Claude 负责架构，GLM 负责实施，大约 60/40 好奇，中国模型实际上每次发布都取得了更大的飞跃，还是只是因为美国模型停滞不前而感觉如此？   由   提交 /u/BlueDolphinCute   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkktay/are_chinese_ai_companies_catching_up_to_us_models/</guid>
+      <pubDate>Wed, 04 Mar 2026 13:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们要多久才能停止审查代码？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rkkhnj/how_long_until_we_stop_reviewing_code/</link>
+      <description><![CDATA[有两件事正在呈指数级增长：更改的数量和更改的大小。我们不能消耗这么多代码。时期。最重要的是，开发人员一直说，审查人工智能生成的代码比审查同事编写的代码需要更多的努力。团队生成更多代码，然后花更多时间对其进行审查。 我们无法通过手动代码审查来赢得这场战斗。代码审查是一个历史性的审批关口，不再符合作品的形态。   由   提交/u/Confident-Essay9284   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rkkhnj/how_long_until_we_stop_reviewing_code/</guid>
+      <pubDate>Wed, 04 Mar 2026 12:45:36 GMT</pubDate>
     </item>
     <item>
       <title>寻求建议 - 我如何了解人工智能的本质并保持最新状态？</title>
@@ -76,25 +90,11 @@
       <pubDate>Wed, 04 Mar 2026 00:00:36 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德发现问题的解决方案给唐纳德·高德纳 (Donald Knuth) 留下了深刻的印象</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rjyowb/donald_knuth_is_impressed_with_claudes_discovery/</link>
-      <description><![CDATA[“我认为克劳德·香农 (Claude Shannon) 的灵魂可能会自豪地知道他的名字现在与此类进步联系在一起。向克劳德致敬！”   由   提交/u/aacool   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rjyowb/donald_knuth_is_impressed_with_claudes_discovery/</guid>
-      <pubDate>Tue, 03 Mar 2026 19:21:54 GMT</pubDate>
-    </item>
-    <item>
       <title>两个 AI 意外地交谈了 2 个小时。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rjvqj5/two_ais_accidentally_talked_to_each_other_for_2/</link>
       <description><![CDATA[我一直在尝试可以为我呼叫地点的语音 AI。今天我尝试用它来预约牙医。显然他们的办公室还有某种自动化的人工智能接待员。这两个系统并没有联系到人类，而是开始相互交谈。 而且它们从未停止过。两个小时。没有人类加入。他们不断礼貌地确认事情，要求澄清，互相感谢，重新确认之前的确认。这就像听一场最专业的会议，却毫无成果。 什么都没有预订。后来我检查了日志，发现这个调用基本上消耗了大量的 API 积分。我花了真钱让两个机器人闲聊。 事情就是这样发展的吗？当我们只支付发票时，AI 代理会调用其他 AI 代理？ 老实说，感觉就像我无意中看到了未来几年的预览。   由   提交 /u/AlexBossov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rjvqj5/two_ais_accidentally_talked_to_each_other_for_2/</guid>
       <pubDate>Tue, 03 Mar 2026 17:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不喜欢用人工智能来追求创造性</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rjvomg/i_dont_like_ai_for_creative_pursuits/</link>
-      <description><![CDATA[如果您使用 AI 来撰写博客文章或 YouTube 脚本或生成图像，那么除了创建一个希望不错的提示之外，您实际上并没有做任何工作。但将其作为一项“技能”来学习似乎毫无用处。 但是……学习如何使用人工智能更快更好地完成工作，这似乎很有价值。  也许我错了，但我不想消费人工智能生成的文本、图像、视频等。我想要来自人类的创意内容，我觉得大多数人都有同样的感觉。    由   提交/u/0nlyhalfjewish  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rjvomg/i_dont_like_ai_for_creative_pursuits/</guid>
-      <pubDate>Tue, 03 Mar 2026 17:34:36 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
