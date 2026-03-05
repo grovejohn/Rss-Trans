@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 05 Mar 2026 12:33:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 15:41:15 GMT</lastBuildDate>
+    <item>
+      <title>要求欧盟委员会遵守其自己的指导方针</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rlipuu/request_to_the_european_commission_to_adhere_to/</link>
+      <description><![CDATA[ 由   提交/u/buovjaga  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rlipuu/request_to_the_european_commission_to_adhere_to/</guid>
+      <pubDate>Thu, 05 Mar 2026 14:15:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个闹钟应用程序，故意破坏你的睡眠周期，这样你就可以体验重新入睡的乐趣。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rlho73/i_built_an_alarm_app_that_purposely_ruins_your/</link>
+      <description><![CDATA[      当你惊慌失措地醒来，查看时钟，发现距离起床还有 3 小时时，你知道那种令人难以置信的解脱感吗？ 我决定将其自动化。 来认识一下心理警报。您设置实际的起床时间，应用程序会计算一个随机的“惊喜”时间。半夜的时间叫醒你。它会绕过“勿扰模式”，冲破你的锁定屏幕，并猛烈地响铃，只是为了向你显示一个按钮，上面写着：“回去睡觉吧，你还有时间。” 它是为 Android (.NET MAUI) 构建的，并使用一些激进的本机 API，只是为了确保操作系统的电池优化器无法让你摆脱这个可怕的想法。 这对你的健康有好处吗？绝对不是。它会破坏你的快速眼动睡眠，让你痛苦不堪。但为了那短暂的 5 秒钟的心理缓解，这可能是值得的。   由   提交/u/endoplazmikmitokondr   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rlho73/i_built_an_alarm_app_that_purposely_ruins_your/</guid>
+      <pubDate>Thu, 05 Mar 2026 13:30:24 GMT</pubDate>
+    </item>
     <item>
       <title>我是一名为非洲诊所构建开源 EHR 的医生 - 在 Raspberry Pi 上离线运行，在 Git 中将数据存储为 FHIR JSON。寻找贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1rlfw5k/im_a_doctor_building_an_opensource_ehr_for/</link>
@@ -25,13 +39,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rldu4n/tekir_an_open_source_spec_that_stops_llms_from/</guid>
       <pubDate>Thu, 05 Mar 2026 10:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个轻量级 VPS 控制面板 (Go + React) — 部署应用程序、管理 PostgreSQL、Redis、SSL 和 NGINX</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rl4zjv/i_built_a_lightweight_vps_control_panel_go_react/</link>
-      <description><![CDATA[GitHub: https://github.com/freddiehdxd/panel 我构建了一个轻量级控制面板，用于在 VPS 上部署和管理应用程序，无需使用 Docker、Kubernetes 或繁重的 PaaS 工具。 目标很简单，即使在每月 4 美元的 1GB VPS。 它的作用 从 Git 部署应用  克隆存储库 安装依赖项 构建项目 从 PM2  全部通过 Web UI 进行管理。 域管理  生成 NGINX 反向代理配置 处理HTTP → HTTPS 重定向  一键式 SSL  让我们通过 Certbot 加密证书 自动 NGINX 配置  PostgreSQL 管理 直接从仪表板创建和管理数据库：  创建数据库 删除数据库 创建用户 管理权限  Redis支持  安装Redis 从面板管理Redis服务  文件管理器 基于浏览器的文件管理器到：  浏览文件 上传文件 直接在服务器上编辑文件  日志查看器  PM2应用程序日志 NGINX日志 语法突出显示  实时系统监控 通过WebSocket实时系统指标：  CPU 使用情况（每个核心） 内存使用情况 磁盘使用情况 网络 I/O 热门进程  每2 秒更新一次。 为什么使用此面板而不是现有面板？ 极其轻量级  Go 后端使用~15MB RAM 前端是由 NGINX 提供的静态文件 总开销约为~300MB  在1GB VPS上舒适运行。 不需要 Docker 没有容器、没有镜像层、没有编排复杂性。 仅使用 PM2 进行本机进程管理。 安全第一设计  无任意 shell 执行 后端使用已批准命令的白名单 通过绝对路径执行的命令  其他保护：  fail2ban 规则 速率限制 登录失败后 IP 锁定 输入验证 完整审核日志记录  单命令设置 在新的 Ubuntu 22.04+ VPS 上运行单个脚本： bash setup_panel.sh  此安装并配置：  Go Node.js PM2 NGINX PostgreSQL Redis Certbot UFW防火墙 fail2ban 日志轮换 每日数据库备份  自动NGINX回滚 如果配置更改失败nginx -t，系统会自动恢复以前的配置，以便服务器永远不会宕机。 生产就绪默认值 开箱即用：  安全标头 自动安全更新 日志轮换 每日 PostgreSQL备份 备份清理  技术堆栈 后端  Go 1.22 chi router pgx JWT auth WebSockets  前端  React 18 TypeScript Vite TailwindCSS  基础设施  NGINX PM2 PostgreSQL Redis Certbot UFW fail2ban  这适合谁 想要在 VPS 上托管应用程序的独立开发者、爱好者和小型团队无需学习 Kubernetes 或支付 PaaS 价格。 如果您曾经手动设置过：  NGINX PM2 Certbot PostgreSQL  …并希望有一个简单的 UI 来管理它，基本上就是这样。 该项目目前约为：  7,800 行代码 ~43 个源文件  没有不必要的抽象或膨胀。 反馈、功能想法和贡献是欢迎。 如果人们觉得它有用，我会不断改进它。   由   提交 /u/AIPnely   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rl4zjv/i_built_a_lightweight_vps_control_panel_go_react/</guid>
-      <pubDate>Thu, 05 Mar 2026 02:10:16 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个工具，可以修复在工作树中运行并行 Claude Code 代理时的 .env / node_modules / 端口冲突问题</title>
@@ -57,7 +64,7 @@
     <item>
       <title>我构建了 EasyCopy - 一个小型 macOS 菜单栏应用程序，用于保存和立即复制链接</title>
       <link>https://www.reddit.com/r/opensource/comments/1rkur7v/i_built_easycopy_a_tiny_macos_menu_bar_app_for/</link>
-      <description><![CDATA[我构建了 EasyCopy，一个小型 macOS 菜单栏应用程序，用于保存链接并快速复制它们。 我在申请工作时制作了它，因为我不断地一遍又一遍地复制/粘贴相同的链接（尤其是我的 LinkedIn、GitHub 和 作品集）。在选项卡之间跳转或重新输入 URL 只是为了触发浏览器自动完成功能，这很快就变得烦人了。 因此，我制作了一款位于 Mac 菜单栏中的轻量级应用程序，让我可以以闪电般的速度一键复制保存的链接。 EasyCopy 可让您：  保存命名链接 立即复制任何链接 编辑/删除链接 通过拖动和重新排序链接drop  该应用程序最初是使用 Electron 构建的，但在看到包大小有多大后，我将其迁移到 Tauri，这将其从大约 300MB 减少到 9MB！ 它是开源的，我非常感谢反馈。  GitHub：https://github.com/colinfran/easy-copy 最新版本 (.dmg)：https://github.com/colinfran/easy-copy/releases/latest  如果您尝试一下，我很乐意听到什么会让它对您的工作流程更有用。    由   提交 /u/colinfran   [link] [评论]]]></description>
+      <description><![CDATA[我构建了 EasyCopy，一个小型 macOS 菜单栏应用程序，用于保存链接并快速复制它们。 我在申请工作时制作了它，因为我不断地一遍又一遍地复制/粘贴相同的链接（尤其是我的 LinkedIn、GitHub 和 作品集）。在选项卡之间跳转或重新输入 URL 只是为了触发浏览器自动完成功能，这很快就变得烦人了。 因此，我制作了一款位于 Mac 菜单栏中的轻量级应用程序，让我可以以闪电般的速度一键复制保存的链接。 EasyCopy 可让您：  保存命名链接 立即复制任何链接 编辑/删除链接 通过拖动和重新排序链接drop  该应用程序最初是使用 Electron 构建的，但在看到捆绑包大小后，我将其迁移到 Tauri，这将其从大约 300MB 减少到 9MB！ 它是开源的，我非常感谢反馈。  GitHub：https://github.com/colinfran/easy-copy 最新版本 (.dmg)：https://github.com/colinfran/easy-copy/releases/latest  如果您尝试一下，我很乐意听到什么会让它对您的工作流程更有用。    由   提交 /u/colinfran   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rkur7v/i_built_easycopy_a_tiny_macos_menu_bar_app_for/</guid>
       <pubDate>Wed, 04 Mar 2026 19:20:06 GMT</pubDate>
     </item>
@@ -81,13 +88,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rknyvh/why_is_dram_still_a_black_box_im_trying_to_build/</guid>
       <pubDate>Wed, 04 Mar 2026 15:12:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了 crikket，这是 jam.dev 和 Marker.io 的开源替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rkjwwb/i_built_crikket_an_open_source_alternative_to/</link>
-      <description><![CDATA[      我想要一种简单的方法来捕获和共享错误，所以我构建了这个。我找不到按照我想要的方式工作的可靠开源替代方案。 与大错误报告工具相比，目前还没有任何第三方集成，但添加这些是我列表中的下一个。 Github：https://github.com/redpangilinan/crikket  网站：https://crikket.io   由   提交 /u/Rikishii   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rkjwwb/i_built_crikket_an_open_source_alternative_to/</guid>
-      <pubDate>Wed, 04 Mar 2026 12:16:42 GMT</pubDate>
     </item>
     <item>
       <title>为什么一些操作系统开发者不喜欢看到他们的工作被分叉？</title>
