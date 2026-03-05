@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 05 Mar 2026 19:06:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 21:24:00 GMT</lastBuildDate>
+    <item>
+      <title>好的、简单的录音程序？ （包括视频编辑）</title>
+      <link>https://www.reddit.com/r/software/comments/1rlslr6/good_simple_recording_programs_including_video/</link>
+      <description><![CDATA[您知道有什么好的免费录制程序可以让您在玩电脑游戏时录制屏幕，还可以对录制的视频进行粗略编辑，以便您可以将其上传到 YouTube 等吗？   由   提交/u/RedFox_11  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rlslr6/good_simple_recording_programs_including_video/</guid>
+      <pubDate>Thu, 05 Mar 2026 20:24:16 GMT</pubDate>
+    </item>
     <item>
       <title>帮助制作视频剪辑</title>
       <link>https://www.reddit.com/r/software/comments/1rlppet/help_with_a_video_clip/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>OpenClaw真的有那么大吗？</title>
       <link>https://www.reddit.com/r/software/comments/1rlm3tb/is_openclaw_really_that_big/</link>
-      <description><![CDATA[ 由   提交 /u/Front_Lavishness8886   [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交/u/Front_Lavishness8886  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rlm3tb/is_openclaw_really_that_big/</guid>
       <pubDate>Thu, 05 Mar 2026 16:29:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/silngyz1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rlf3c7/pdfbitescom_a_free_pdf_editor_that_works/</guid>
       <pubDate>Thu, 05 Mar 2026 11:21:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>编码代理的美元拉动请求指数</title>
-      <link>https://www.reddit.com/r/software/comments/1rlemhd/dollarpullrequest_index_for_coding_agents/</link>
-      <description><![CDATA[还有人患有象征性焦虑吗？ 😂 我最近了解了这个术语，就在我超过 Claude Code 的 1,000 美元心理阈值时。 我发现自己正在与使用各种编码代理的其他开发人员交谈，并将我的生产力与他们的生产力进行比较，试图正确看待事情并基本上了解我是否做错了。我知道我的输出（比方说：代码行数）肯定增加了，但这与增加结果（例如合并/批准的拉取请求）不同。 这让我产生了构建一个（免费）工具的想法，该工具可以帮助我们开发人员对每个 PR 的编码代理支出进行基准测试......如果您愿意的话，可以计算美元拉取请求比率。 它的工作原理是这样的：您将代理的 OpenTelemetry 导出指向收集器，安装存储库上的简单 GitHub 应用程序，您将获得 DPR 比率。这是您每次发布 PR 的成本，您可以看到您与社区平均水平相比的情况。 我正在考虑建立一个以开源项目为特色的公共 DPR 指数。如果您维护一个 OSS 项目并且您的贡献者使用编码代理（Claude Code、Cursor、Aider 等），我很乐意将您也包括在内。 我们的想法是建立一个公共基准，以便开发人员能够实际学习/评估跨不同项目、语言和工具的高效编码代理使用情况。 这对你们来说听起来怎么样？   由   提交/u/n4r735  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rlemhd/dollarpullrequest_index_for_coding_agents/</guid>
-      <pubDate>Thu, 05 Mar 2026 10:55:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

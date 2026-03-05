@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 05 Mar 2026 19:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Mar 2026 21:24:11 GMT</lastBuildDate>
+    <item>
+      <title>​[新闻] Windows 11 版 Sudo 终于不再预览并稳定下来。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rltzi5/news_sudo_for_windows_11_is_finally_out_of/</link>
+      <description><![CDATA[微软已正式将 Sudo 命令集成到 Windows 11（版本 24H2/25H2）稳定分支中。它支持内联、新窗口和输入关闭模式。对于住在航站楼的任何人来说都是巨大的。​查看完整的推出详细信息：   由   提交/u/xthe_official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rltzi5/news_sudo_for_windows_11_is_finally_out_of/</guid>
+      <pubDate>Thu, 05 Mar 2026 21:16:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布 Rust 1.94.0</title>
+      <link>https://www.reddit.com/r/programming/comments/1rltxbg/announcing_rust_1940/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rltxbg/announcing_rust_1940/</guid>
+      <pubDate>Thu, 05 Mar 2026 21:14:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息传递是共享可变状态</title>
+      <link>https://www.reddit.com/r/programming/comments/1rls8kp/message_passing_is_shared_mutable_state/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rls8kp/message_passing_is_shared_mutable_state/</guid>
+      <pubDate>Thu, 05 Mar 2026 20:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>小马网络，拿两个</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlr3xa/pony_networking_take_two/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlr3xa/pony_networking_take_two/</guid>
+      <pubDate>Thu, 05 Mar 2026 19:28:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fil-C 的工作原理</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlr3qa/how_filc_works/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlr3qa/how_filc_works/</guid>
+      <pubDate>Thu, 05 Mar 2026 19:28:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mockmechanics 作为一个库</title>
+      <link>https://www.reddit.com/r/programming/comments/1rlqla2/mockmechanics_as_a_library/</link>
+      <description><![CDATA[嘿伙计们，我已经将我的 MockMechanics 项目重新设计为搅拌器插件和 javascript/ Threejs 库，让您可以创建交互式对象，然后在任何程序中使用它们。它就像一个具有内置交互性的增强型 .glb。请参阅视频，了解创建魔方和按钮的示例，但之前在频道中看到的任何其他对象或机制都应该可以通过这种方式创建。然后您就可以共享该对象，它现在是一个 zip，安装了该库的任何人都可以按照您想要的方式与您的对象进行交互。将来我会将这个库移植到 Unity 等其他框架，以便任何交互式对象都可以在该库可用的任何地方使用。只要你可以用鼠标、VR手等来推拉它的一部分，那么你就可以与它进行交互。   由   提交/u/FelipeReigosa  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rlqla2/mockmechanics_as_a_library/</guid>
+      <pubDate>Thu, 05 Mar 2026 19:10:12 GMT</pubDate>
+    </item>
     <item>
       <title>包含 150 多个提要的实时仪表板的要点不会让您的浏览器崩溃</title>
       <link>https://www.reddit.com/r/programming/comments/1rlpjjl/takeaways_from_a_live_dashboard_of_150_feeds_that/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[ 由   提交/u/GlitteringPenalty210   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rldzvl/you_shouldnt_have_to_write_instrumentation_code/</guid>
       <pubDate>Thu, 05 Mar 2026 10:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACGS 算法用于选择乘数的隐藏数问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1rldqyr/acgs_algorithm_for_hidden_number_problems_with/</link>
-      <description><![CDATA[ 由   提交/u/DataBaeBee  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rldqyr/acgs_algorithm_for_hidden_number_problems_with/</guid>
-      <pubDate>Thu, 05 Mar 2026 10:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在编程中考虑时间</title>
-      <link>https://www.reddit.com/r/programming/comments/1rlb585/how_to_think_about_time_in_programming/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rlb585/how_to_think_about_time_in_programming/</guid>
-      <pubDate>Thu, 05 Mar 2026 07:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>据估计 10% 的 Firefox 崩溃是由位翻转引起的</title>
-      <link>https://www.reddit.com/r/programming/comments/1rl26xw/10_of_firefox_crashes_are_estimated_to_be_caused/</link>
-      <description><![CDATA[ 由   提交/u/cdb_11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rl26xw/10_of_firefox_crashes_are_estimated_to_be_caused/</guid>
-      <pubDate>Thu, 05 Mar 2026 00:06:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>凸三角剖分和树旋转的翻转距离是 NP 完全的</title>
-      <link>https://www.reddit.com/r/programming/comments/1rl1ntz/flip_distance_of_convex_triangulations_and_tree/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rl1ntz/flip_distance_of_convex_triangulations_and_tree/</guid>
-      <pubDate>Wed, 04 Mar 2026 23:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们应得的 Rust 调用约定</title>
-      <link>https://www.reddit.com/r/programming/comments/1rl1nmn/the_rust_calling_convention_we_deserve/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rl1nmn/the_rust_calling_convention_we_deserve/</guid>
-      <pubDate>Wed, 04 Mar 2026 23:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Top K 是关系数据库中一个看似困难的问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1rl1c63/top_k_is_a_deceptively_hard_problem_in_relational/</link>
-      <description><![CDATA[“给我最好的 10 行”感觉很容易，直到您添加文本搜索和过滤器。在Postgres中，GIN（倒排）索引涵盖文本搜索但不能排序。 B 树可以排序，但会因文本搜索而崩溃。  这篇文章解释了 BM25 多列索引为何以及如何通过一个同时处理相等、排序和范围的复合结构来解决 TopK。   由   提交 /u/jamesgresql   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rl1c63/top_k_is_a_deceptively_hard_problem_in_relational/</guid>
-      <pubDate>Wed, 04 Mar 2026 23:30:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
