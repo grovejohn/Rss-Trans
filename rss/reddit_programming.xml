@@ -4,14 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 05 Mar 2026 04:29:41 GMT</lastBuildDate>
-    <item>
-      <title>我同时运行 5 个 AI 代理，而最大的问题却无人谈论</title>
-      <link>https://www.reddit.com/r/programming/comments/1rl6wav/i_mass_mass_mass_mass_mass_mass_mass_mass_running/</link>
-      <description><![CDATA[因此，我同时运行多个 AI 编码代理（Claude、Cursor、Codex 等），并发现了最愚蠢的生产力杀手： 忘记哪个终端会话正在等待我的输入。 不是幻觉。不是代币限制。只有我，盯着错误的终端 40 分钟，而代理礼貌地等待我输入“是”。 所以我挠痒痒，构建了 Agent Hand - 一个 Rust tmux 会话管理器，向您显示每个代理正在做什么： 🔵！ =“嘿，我需要你的意见” 🟡● = 仍在思考 🟢✓ = 刚刚完成 ⚪○ = 令人不寒而栗 Ctrl+N 会将您跳转到需要关注的会话。这基本上就是全部内容。 它是免费且开源的：github.com/weykon/agent-hand 好奇 - 还有其他人同时运行多个代理吗？您的工作流程是什么样的？我觉得这变得越来越普遍，但没有人真正谈论它周围的工具。   由   提交/u/Remarkable_Mind9519   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rl6wav/i_mass_mass_mass_mass_mass_mass_mass_mass_running/</guid>
-      <pubDate>Thu, 05 Mar 2026 03:37:21 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 05 Mar 2026 06:36:31 GMT</lastBuildDate>
     <item>
       <title>据估计 10% 的 Firefox 崩溃是由位翻转引起的</title>
       <link>https://www.reddit.com/r/programming/comments/1rl26xw/10_of_firefox_crashes_are_estimated_to_be_caused/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rks7zq/advanced_terraform_performance_optimization/</guid>
       <pubDate>Wed, 04 Mar 2026 17:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smalltalk 的浏览器：无与伦比，但还不够</title>
+      <link>https://www.reddit.com/r/programming/comments/1rks7r7/smalltalks_browser_unbeatable_yet_not_enough/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rks7r7/smalltalks_browser_unbeatable_yet_not_enough/</guid>
+      <pubDate>Wed, 04 Mar 2026 17:49:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
