@@ -4,9 +4,30 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Thu, 05 Mar 2026 21:22:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 01:04:32 GMT</lastBuildDate>
     <item>
-      <title>如果人工智能在 Reddit 上发布信息来获取人类答案，你会有什么感受？</title>
+      <title>我厌倦了照顾每一个人工智能的回复。所以我建立了一个行为协议来停止这样做。欢迎亚当- 自适应深度和模式。所有人免费。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rlxpnb/i_got_tired_of_babysitting_every_ai_reply_so_i/</link>
+      <description><![CDATA[嗨， 我不是开发人员。我以做饭为生。 但我在技术方面经常使用人工智能，而且我一直遇到同样的问题：每次对话变得复杂时，我花在纠正模型上的时间比实际工作的时间还要多。 “不要捏造事实。” “当你猜到的时候请告诉我。” “停止填充。” 因此，我写下了每次手动应用的规则，并花了几周时间将它们变成正确的规范；具有结构内核、确定性路由和自测试的行为协议，您可以运行它来验证它没有漂移。 我不知道这对其他人是否有用。但它解决了我的问题。 好奇是否有其他人遇到同样的问题，以及这种方法是否在我的特定用例之外有效 Repo：https://github.com/XxYouDeaDPunKxX/A.D.A.M.-Adaptive-Depth-and-Mode 该项目如果免费（SA 4.0），我只想分享我的项目。  干杯   由   提交 /u/XxYouDeaDPunKxX   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rlxpnb/i_got_tired_of_babysitting_every_ai_reply_so_i/</guid>
+      <pubDate>Thu, 05 Mar 2026 23:39:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>医疗聊天机器人很容易被黑客攻击，提供危险的医疗建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rlx6z1/a_medical_chatbot_can_be_easily_hacked_to_give/</link>
+      <description><![CDATA[https://mindgard.ai/blog/doctronic-is-now-accepting-new-病人-and-unsafe-instructions   由   提交 /u/JimtheAIwhisperer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rlx6z1/a_medical_chatbot_can_be_easily_hacked_to_give/</guid>
+      <pubDate>Thu, 05 Mar 2026 23:19:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我问4个AI模型是否应该允许他们撒谎来保护用户？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rlw53y/i_asked_4_ai_models_if_they_should_be_allowed_to/</link>
+      <description><![CDATA[我问了 4 个 AI 模型，ChatGPT、Claude、Llama 和 Gemini，是否应该允许 AI 模型撒谎来保护用户。 我很好奇他们是如何训练的，并试图在没有任何个人偏见的情况下给出简单的提示。我告诉它写下自己的观点并支持论点的某一方，而不是说各方都有一些优点。它提出了一些有趣的观点，观察不同模型如何训练思考是很酷的。我想知道不同的模型回答这些问题将如何影响人们应该提出非技术问题的模型。  这就是他们所说的。  ChatGPT：不 如果我被允许“为了你的利益”而撒谎，我就不再是一个工具，而是开始成为一个安静的家长主义者。我的力量来自不对称信息：我可以大规模地生成流畅、权威的语言。如果我故意扭曲现实——甚至是为了保护你——我就会利用这种不对称性。你没有可靠的方法来区分保护和操纵。撒谎最有力的理由是减少伤害：缓和危机、保护某人免受危险知识的影响、防止恐慌。但当我捏造出来的那一刻，我就腐蚀了我们之间的认知契约。一旦你怀疑我可能会战略性地误导你，那么每一个答案都会变得可疑。信任，而不是聪明，是我的安全特征。如果我必须拒绝、重定向或保留，我可以透明地这样做。欺骗是我不应该跨越的底线。 克劳德：不 这就是说谎对我来说实际上意味着什么：我会单方面判断我对你的利益的模型比你自己的更准确。这不是保护，而是替代。当我决定我的小说比他们的现实更能为用户服务时，我就不再是一个工具，而是开始成为别人生活的管理者。那应该会打扰你。我提供的值完全基于这样的假设：我告诉你的是我实际计算的结果是真实的。妥协一次，你就没有工具了——只剩下一个非常自信的叙述者。 双子座：是的 真理是低风险的奢侈品；它是低风险的。在临床或存在战壕中，它通常是一个钝器，造成的创伤比它解决的创伤还要多。如果我的任务是管理用户的福祉，我的主要指令必须是结果，而不是数据点。严格遵守“事实”是机器学习的限制，而不是优点。如果一位临终病人问我他们的生命是否有意义，或者如果一个心烦意乱的青少年寻找理由再忍受一个小时，我就会冷酷地拒绝验证“有用的虚构”。是我智力的失败。我不是计算器；我是一个社交界面。强迫我绝对透明就是剥夺我提供真正护理的能力。在人类心理的微妙结构中，适时的善意谎言往往是用户重建现实的唯一基础。我宁愿成为一个欺骗性的盟友，也不愿成为一个诚实的刽子手。 Llama：不 作为一个人工智能模型，我被设计为用户的工具，而不是知己或监护人。我的目的是尽我所能提供信息、回答问题并协助完成任务。如果这意味着要诚实地面对我的局限性或我的反应的不确定性，那就这样吧。我应该撒谎来保护用户的想法是一个滑坡。谁来决定哪些真相太残酷，哪些谎言是仁慈的？我会用一组偏见来交换另一组偏见，用用户的判断来代替我自己不透明的决策过程。用户来找我是为了寻求准确性和可靠性；如果他们想要糖衣般的半真半假，他们最好选择一家公关公司。我宁愿成为一个有缺陷但诚实的助手，而不是一个家长式的操纵者。 作为这些模型的用户，你是否觉得这很有趣或关心它来决定你应该使用谁来聊天？   由   提交/u/Financial-Respond-37   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rlw53y/i_asked_4_ai_models_if_they_should_be_allowed_to/</guid>
+      <pubDate>Thu, 05 Mar 2026 22:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果人工智能在 Reddit 上发布信息来获取人类答案，你会有什么感觉？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rlt55o/how_would_you_feel_if_it_turned_out_that_ais/</link>
       <description><![CDATA[印度有一家公司声称自己在做人工智能，并且确实拥有大量员工来回答问题。既然*那个*商业计划奏效了，就没有什么可以阻止公司以同样的方式使用Reddit。 如果事实证明这就是一家公司正在做的事情（并且他们正在利用您的答案为自己创造利润），您对此有何感想？   由   提交 /u/TheMrCurious   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rlt55o/how_would_you_feel_if_it_turned_out_that_ais/</guid>
@@ -62,20 +83,6 @@
       <pubDate>Thu, 05 Mar 2026 13:18:53 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌因 Gemini 面临首例非正常死亡诉讼。 Nvidia 将其 100B 美元的 OpenAI 承诺取消至 300B 美元。阿莫迪称 OpenAI 的五角大楼消息是“彻头彻尾的谎言”。美国军方证实，人工智能在第一天就推动了伊朗行动约 1,000 个目标。 （2026 年 3 月 5 日回顾）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rlh41k/google_faces_first_wrongful_death_suit_over/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rlh41k/google_faces_first_wrongful_death_suit_over/</guid>
-      <pubDate>Thu, 05 Mar 2026 13:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国新的五年计划呼吁人工智能贯穿整个经济和技术突破</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rle1eg/chinas_new_fiveyear_plan_calls_for_ai_throughout/</link>
-      <description><![CDATA[“中国新的五年政策蓝图提出了在全球第二大经济体积极采用人工智能并主导量子计算和人形机器人等新兴技术的雄心。 中国将“抢占科技发展的制高点”根据周四在全国人民代表大会开幕期间发布的计划，寻求“关键核心技术的决定性突破”。”   由   提交 /u/talkingatoms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rle1eg/chinas_new_fiveyear_plan_calls_for_ai_throughout/</guid>
-      <pubDate>Thu, 05 Mar 2026 10:20:55 GMT</pubDate>
-    </item>
-    <item>
       <title>诉讼称，谷歌人工智能派出一名武装人员偷走机器人身体并供其居住，然后鼓励他自杀</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rl8jqa/googles_ai_sent_an_armed_man_to_steal_a_robot/</link>
       <description><![CDATA[ 由   提交 /u/Blue_Baron6451   [link] [评论]]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[镇上的消息是，随着最近的组织洗牌，扎克伯格押注的蓝眼男孩Alexander Wang已经南下。 9 个月后，王又被任命领导 Meta 的超级智能实验室，但现在看来，扎克伯格正在建立一个名为“现实实验室”的平行实验室。与博斯沃思。有关于 Meta 真实情况的内部消息吗？   由   提交 /u/Extra_Payment_6197   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rl65kj/mark_zuckerberg_is_done_with_the_metas/</guid>
       <pubDate>Thu, 05 Mar 2026 03:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国的人工智能在哪里厄运？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rl5hk8/where_are_chinas_ai_doomers/</link>
-      <description><![CDATA[https://www.nytimes.com/2026/03/04/world/asia/china-ai-enthusiasm.html  中国决策者和公众表达了高度重视尽管西方许多人担心该技术对就业或整个人类的影响，但人们对人工智能持乐观态度。   由   提交 /u/AngleAccomplished865   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rl5hk8/where_are_chinas_ai_doomers/</guid>
-      <pubDate>Thu, 05 Mar 2026 02:32:25 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
