@@ -4,20 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 07 Mar 2026 12:21:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 15:13:16 GMT</lastBuildDate>
+    <item>
+      <title>根据个人问题构建的编程项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnc29y/programming_project_built_from_a_personal_problem/</link>
+      <description><![CDATA[在线观看体育比赛时我注意到的一件事是一切都是碎片化的。 多个网站、破碎的流、无休止的搜索。 因此我构建了一个名为 SportsFlux 的小项目，在一个简单的仪表板中组织比赛。 这是一个小项目，但通过代码解决真正的烦恼很有趣。   由   提交/u/SkyRider6453  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnc29y/programming_project_built_from_a_personal_problem/</guid>
+      <pubDate>Sat, 07 Mar 2026 15:00:28 GMT</pubDate>
+    </item>
     <item>
       <title>TEMPEST vs TEMPEST — 本书长度的尝试探索和理解 Dave Theurer 的“Tempest”(1981) 和 Jeff Minter 的“Tempest 2000”(1994) 的代码和工艺</title>
       <link>https://www.reddit.com/r/programming/comments/1rn70n1/tempest_vs_tempest_booklength_attempt_to_explore/</link>
       <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rn70n1/tempest_vs_tempest_booklength_attempt_to_explore/</guid>
       <pubDate>Sat, 07 Mar 2026 10:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个社区花了数周时间调试一个自动合并机器人。最后一个错误是单行 GitHub 权限边缘情况。</title>
-      <link>https://www.reddit.com/r/programming/comments/1rn5dbz/a_community_spent_weeks_debugging_an_automerge/</link>
-      <description><![CDATA[ 由   提交 /u/Equivalent-Yak2407   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rn5dbz/a_community_spent_weeks_debugging_an_automerge/</guid>
-      <pubDate>Sat, 07 Mar 2026 09:06:02 GMT</pubDate>
     </item>
     <item>
       <title>PostgreSQL 的内部结构</title>
