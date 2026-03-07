@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 07 Mar 2026 06:25:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 09:19:03 GMT</lastBuildDate>
+    <item>
+      <title>一个社区花了数周时间调试一个自动合并机器人。最后一个错误是单行 GitHub 权限边缘情况。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rn5dbz/a_community_spent_weeks_debugging_an_automerge/</link>
+      <description><![CDATA[ 由   提交 /u/Equivalent-Yak2407   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rn5dbz/a_community_spent_weeks_debugging_an_automerge/</guid>
+      <pubDate>Sat, 07 Mar 2026 09:06:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 的内部结构</title>
+      <link>https://www.reddit.com/r/programming/comments/1rn5az3/the_internals_of_postgresql/</link>
+      <description><![CDATA[关于最好的数据库之一的实现细节的惊人资源！   由   提交/u/BinaryIgor  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rn5az3/the_internals_of_postgresql/</guid>
+      <pubDate>Sat, 07 Mar 2026 09:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能副驾驶已经够多了！我们需要 AI HUD</title>
+      <link>https://www.reddit.com/r/programming/comments/1rn3g3p/enough_ai_copilots_we_need_ai_huds/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rn3g3p/enough_ai_copilots_we_need_ai_huds/</guid>
+      <pubDate>Sat, 07 Mar 2026 07:12:20 GMT</pubDate>
+    </item>
     <item>
       <title>是什么取消了我的 Go 上下文？</title>
       <link>https://www.reddit.com/r/programming/comments/1rn0l8f/what_canceled_my_go_context/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/nomemory  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rmnmpi/writing_a_simple_vm_in_less_than_125_lines_of_c/</guid>
       <pubDate>Fri, 06 Mar 2026 19:29:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>论变异语法模糊测试的有效性</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmmf4c/on_the_effectiveness_of_mutational_grammar_fuzzing/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmmf4c/on_the_effectiveness_of_mutational_grammar_fuzzing/</guid>
-      <pubDate>Fri, 06 Mar 2026 18:45:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Howard Abrams 的 Org 模式文学编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmmeqv/howard_abrams_literate_programming_with_org_mode/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmmeqv/howard_abrams_literate_programming_with_org_mode/</guid>
-      <pubDate>Fri, 06 Mar 2026 18:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ 单例的最佳性能</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmmeh5/best_performance_of_a_c_singleton/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmmeh5/best_performance_of_a_c_singleton/</guid>
-      <pubDate>Fri, 06 Mar 2026 18:45:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
