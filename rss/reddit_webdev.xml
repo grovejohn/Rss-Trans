@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 07 Mar 2026 15:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 18:17:59 GMT</lastBuildDate>
     <item>
-      <title>您如何决定接下来在 Web 开发中学习什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnc432/how_do_you_decide_what_to_learn_next_in_web_dev/</link>
-      <description><![CDATA[我最近一直在努力解决一些问题，想询问那些在生态系统中工作时间较长的人。我经常不知道接下来应该学什么，所以我最终浪费了大量时间在新的“热门”技术之间跳转。众所周知，JavaScript 生态系统发展得非常快，每天都有一个新的闪亮库或框架被谈论。正因为如此，我总是觉得自己可能学错了东西或者错过了一些重要的东西。所以我不断地在工具之间切换，而不是深入某一领域。对于那些对 Web 和更广泛的 JS 生态系统更有经验的人：你如何决定什么是真正值得学习的？如何避免因每个新图书馆而分心？我很高兴听到其他人如何解决这个问题。由   提交 /u/Legitimate-Oil1763   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnc432/how_do_you_decide_what_to_learn_next_in_web_dev/</guid>
-      <pubDate>Sat, 07 Mar 2026 15:02:26 GMT</pubDate>
+      <title>Twelve70 - 男装生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rngy2n/twelve70_menswear_outfit_generator/</link>
+      <description><![CDATA[      构建这个是为了让我能够弄清楚我衣柜里的物品如何搭配在一起。 这是一个 9 年的 WIP。上个月才开始使用人工智能进行一些重复性编码帮助。感谢您的关注！   由   提交/u/el_bandit0  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rngy2n/twelve70_menswear_outfit_generator/</guid>
+      <pubDate>Sat, 07 Mar 2026 18:12:46 GMT</pubDate>
     </item>
     <item>
-      <title>本周我发布了一个最小的 Rails 8 todo 应用程序。先分享一下，没有大的JS框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnc3l5/i_shipped_a_minimal_rails_8_todo_app_this_week/</link>
-      <description><![CDATA[我本周刚刚打开了SimpleTodo。这个想法是一个最小的待办事项应用程序，采用共享优先的方法。 我使用了我所了解和喜爱的堆栈。没有大型 JS 框架，保持简约，追求简单。 这也是一个学习如何使用 AI 进行编码的项目，而无需遵循工作中必须遵循的规则。我可以看到从第一次提交到现在的改进。 我很高兴看到 Rails 和 Ruby 与 AI 配合得很好。现在代码已经很清楚了。我必须教人工智能如何以我的方式编写代码，但现在过程更简单了，我可以专注于设计——架构、模式、建模。 后续步骤：探索 Rails 8.1，重新审视一些我想要重新思考的数据模型决策，获取反馈，看看这个项目是否可以发展:) 任何反馈都值得赞赏   由   提交 /u/Naive-Career9361   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnc3l5/i_shipped_a_minimal_rails_8_todo_app_this_week/</guid>
-      <pubDate>Sat, 07 Mar 2026 15:01:51 GMT</pubDate>
+      <title>我构建了一个完全在浏览器中运行的 3D 建模器和动画器 [更新]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rngpua/i_built_a_3d_modeler_and_animator_that_runs/</link>
+      <description><![CDATA[      在这里尝试一下：app.topomaker.com  我上周发布了这个，并且整个星期都在忙着这个。 TLDR 基本上是我想为 Three.js 游戏和小 3d 制作快速资源电影，但我不仅在盯着 Blender 的飞机仪表板时陷入了教程地狱，而且所有工具之间的碎片使得 Web 成为一个真正难以预测的管理目标。就在那时，我有点厌倦了，并产生了“我自己制作一个”的想法。 所以我制作了 Topomaker（暂定名称），一个完全在浏览器中的 3D 建模器和动画制作器。您可以随心所欲地建模和着色。由于它在浏览器中运行，您的 GLB 模型和颜色可以与 Three.js 完全匹配，如果您想要渲染动画，导出 MP4 和 GIF 是一键操作。 我仍在积极开发，因此肯定会有错误。如果有人有什么有趣的事情，我也欢迎提出功能请求。所以请随时报告并与我一起做一些有趣的事情！    由   提交 /u/whothatcodeguy   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rngpua/i_built_a_3d_modeler_and_animator_that_runs/</guid>
+      <pubDate>Sat, 07 Mar 2026 18:03:58 GMT</pubDate>
     </item>
     <item>
-      <title>Show r/webdev：我使用 Next.js 和 Web Workers 构建了 Cyber​​Chef 和 JSONLint 等网站的 100% 客户端替代方案。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnbx8v/show_rwebdev_i_built_a_100_clientside_alternative/</link>
-      <description><![CDATA[嘿 r/webdev， 我想分享一个我一直在开发的项目，名为 DevEditor (https://www.deveditor.io)。它是一个不断增长的开发人员实用程序集合，旨在提供令人难以置信的速度和完全私密性。 问题：将敏感的 JSON、JWT 或专有代码粘贴到随机在线格式化程序中会带来巨大的安全风险。另外，这些网站通常臃肿且缓慢。 解决方案：我构建了离线优先的工具。从 RegEx Tester 到 PDF 工具和 JWT 解码器的所有内容都完全在浏览器中执行（使用 Web Workers 之类的东西来完成繁重的工作，这样 UI 就不会冻结）。设计系统的 Tailwind CSS  它完全免费，没有付费墙。我希望从其他前端开发人员那里得到一些反馈。用户界面感觉如何？您发现自己最常使用哪些功能或工具是我下一步可以构建的？   由   提交 /u/goshantmeher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnbx8v/show_rwebdev_i_built_a_100_clientside_alternative/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:54:28 GMT</pubDate>
+      <title>今天有没有人可以分享一些主要不是通过氛围编码并以某种方式关注人工智能生成的内容的内容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rng7ew/does_anyone_have_anything_to_share_today_that/</link>
+      <description><![CDATA[如果是这样，请随时在评论中链接到您的项目。来吧，给我一些希望……这个 Reddit 子版块在周六变得如此令人沮丧。    由   提交 /u/RememberTheOldWeb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rng7ew/does_anyone_have_anything_to_share_today_that/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:44:43 GMT</pubDate>
     </item>
     <item>
-      <title>网站到视频生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnbvsd/website_to_video_generator/</link>
-      <description><![CDATA[今天是周六秀🎉   由   提交/u/chacha_chu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnbvsd/website_to_video_generator/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:52:42 GMT</pubDate>
+      <title>[周六秀] ShortMVP – AI 联合创始人 Canvas</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rng4e4/showoff_saturday_shortmvp_ai_cofounder_canvas/</link>
+      <description><![CDATA[      为想要更快交付的独立创始人/开发者构建一个东西：shortmvp.com 独立创始人知道其中的痛苦，构建很容易，但发布感觉就像一场噩梦。 不要在没人想要的功能上浪费周期，并开始以清晰的路径交付 SaaS到 MRR。 目前处于私人测试阶段，可以免费试用。希望得到网络开发人员的反馈。   由   提交/u/yoonuch  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rng4e4/showoff_saturday_shortmvp_ai_cofounder_canvas/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:41:29 GMT</pubDate>
     </item>
     <item>
-      <title>Tailgrids UI：React Tailwind CSS UI 组件 - 更灵活、开源和现代</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnbtpb/tailgrids_ui_react_tailwind_css_ui_components/</link>
-      <description><![CDATA[      大家好， 如果您正在使用 Tailwind CSS 构建现代 React 应用程序，并且您厌倦了：  每次都滚动自己的按钮、模态框、下拉菜单等，或者 处理与 Tailwind 实用优先理念相悖的繁重组件库，或者 想要一个可靠的替代 shadcn/ui、DaisyUI、Radix 等的方法  …您应该查看 TailGrids → https://tailgrids.com/docs/components 这是一个专为 Tailwind CSS 项目构建的开源 React UI 组件库。一切都是干净的 TSX，完全可定制，并且设计为复制粘贴友好，因此它可以直接放入您现有的设置中，而无需将整个设计系统强加给您。 Tailgrids UI 快速亮点：  100 多个核心组件（并且还在不断增加） 涵盖所有必需组件：手风琴、警报、头像、徽章、面包屑、按钮（和组）、卡片、复选框、组合框、日期选择器、对话框/模态、抽屉/工作表、下拉菜单、输入变体、OTP 输入、分页、弹出框、进度、单选、选择、滑块、表格、选项卡、文本区域、Toast、切换、工具提示以及更多内容 可用于生产环境，具有深色模式（包括主题选项）、辅助功能等可靠的默认设置 最近版本中以 TypeScript 为先 完全免费和开源（GitHub：https://github.com/Tailgrids/tailgrids）  我们还有一个更大的生态系统，包含 600 多个 UI 块、部分和模板（一些 Pro），但 /docs/components 中的核心组件 100% 免费，并且可以独立运行。 与 shadcn/ui 相比，它更“开箱即用”。已经应用了 Tailwind 类（需要较少的手动组合），同时仍然保持非常灵活 - 不会以同样严格的方式锁定到 Headless UI 或 Radix 原语。 作为创建者，我真诚地希望听到您的反馈、想法和现实世界的体验 - 优点/缺点、最喜欢的组件、任何痛点或功能请求。 祝您编码愉快！ 🚀   由   提交 /u/musharofchy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnbtpb/tailgrids_ui_react_tailwind_css_ui_components/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:50:13 GMT</pubDate>
+      <title>经过大约 4 周的 vivi 编码，我为 WebSocket 构建了一个 DevTools 扩展，现在 1k Star+</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnfzs1/over_about_4_weeks_of_vibe_coding_i_built_a/</link>
+      <description><![CDATA[      您好，经过大约 4 周的 vibe 编码，我构建了一个名为 WebSocket DevTools 的 DevTools 扩展。 它可以让您代理 WebSocket 流量、拦截和编辑消息、模拟模拟响应以及根据规则阻止消息。在幕后，它基本上是中间代理中的本地人，因此从第一天起我就很清楚核心架构。 我主要使用 Cursor 进行编码，但我没有先让 AI 生成 UI。我的方法是首先让核心管道正常工作，然后手工完善交互和布局。工作流程是：首先，我要求 AI 构建一个最小的演示，仅实现代理，根本没有 UI。 当演示稳定后，我将其用作基础，并在顶部分层功能，例如拦截、模拟和阻塞。对于 UI，我在实际使用该工具时迭代得很慢。 早期我使用 V0 生成一些 HTML，以便参考布局，但最终的实现是我通过 AI 调试和迭代完善的。 启动后大约三个月，该项目达到了 1k+ star。它解决的问题很简单：WebSocket 仍然没有一个平滑的方法来模拟和拦截消息。人们经常尝试像 Postman、Proxyman 或 Charles 这样的工具， 但它们并不能让消息级 WebSocket 控制变得容易。这个空白正是我想要填补的。 GitHub： https://github.com/law-chain-hot/websocket-devtools 演示： https://www.websocket-devtools.com/   由   提交/u/law-chain-hot  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnfzs1/over_about_4_weeks_of_vibe_coding_i_built_a/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:36:31 GMT</pubDate>
     </item>
     <item>
-      <title>我创建 Über Ninja 是为了帮助您防止人工智能聊天机器人犯错</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnbimq/i_created_über_ninja_to_help_you_prevent_mistakes/</link>
-      <description><![CDATA[Über Ninja 是一款适用于 Windows 和 Mac 的免费桌面应用程序，只需输入一次即可比较多个 AI 聊天机器人的响应。不再需要浏览、选项卡切换、复制/粘贴。 Über Ninja 还允许您使用全局键盘快捷键从计算机上的任何位置进行网络搜索。它有点像 Spotlight 或 Alfred ——不过是针对互联网的。  这是链接 https://uberninja.co 我们现在处于私人测试阶段（嘿 - 毕竟它是一个 Ninja 应用程序！！）因此，只需向我发送 DM 或电子邮件，我就会向您发送下载链接   由   提交/u/healersource  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnbimq/i_created_über_ninja_to_help_you_prevent_mistakes/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:36:57 GMT</pubDate>
+      <title>我构建了一个浏览器扩展，可以在将敏感数据发送给人工智能聊天机器人之前检测并编辑敏感数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnftg3/i_built_a_browser_extension_that_detects_and/</link>
+      <description><![CDATA[      嘿 r/webdev， 我构建了一个 Chrome 扩展程序，可以在 ChatGPT、Gemini 和 Claude 中实时扫描文本，并在您点击发送之前标记敏感数据。 主要的技术挑战是在内部工作ProseMirror 的内容可编辑编辑器。 ChatGPT 在底层使用 ProseMirror，它会默默地恢复任何直接的 DOM 突变。花了一段时间才找到一个不会破坏编辑器状态的解决方法。 检测完全在客户端运行，使用正则表达式模式匹配、针对 API 密钥等高随机性字符串的香农熵分析，以及用于名称和位置的轻量级 NLP 层 (compromise.js)。 对于视觉突出显示，我使用 CSS 自定义突出显示 API，它允许您在不注入任何 DOM 节点的情况下绘制范围。整个 UI 层位于 Shadow DOM 内部，因此不会与主机页面样式冲突。 Stack： Plasmo 框架、TypeScript、React、Tailwind。 可在 Chrome Web Store 上使用，提交的 Firefox 版本。 好奇其他开发人员的想法。非常欢迎反馈或批评。   由   提交/u/ActualJackfruit2357   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnftg3/i_built_a_browser_extension_that_detects_and/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:29:46 GMT</pubDate>
     </item>
     <item>
-      <title>[ShowOff Saturday] 我构建了一个免费应用程序来跟踪您的整个游戏历史</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnb55f/showoff_saturday_i_built_a_free_app_to_track_your/</link>
-      <description><![CDATA[      我是一名独立开发者，我构建了GameShelf.me，因为我想要一个地方来正确管理我的游戏历史记录。不仅仅是基本的待办事项，也不是笔记、电子表格、启动器库和内存的混乱组合。我想要一款能够将库管理、游戏时间跟踪、进度记录、收藏、价格跟踪和轻量级社交层结合在一个产品中的产品。 GameShelf 是一个 100% 免费的生态系统，围绕网络应用和可选的 Windows 桌面跟踪器构建。网络应用程序是核心体验，让您可以完全手动控制您的库、会话、统计信息和个人资料。 Windows 应用程序适合那些想要自动游戏时间跟踪并减少手动工作的用户。 GameShelf 已提供的功能：  游戏库管理，具有多种状态，如愿望清单、待办事项、正在播放、已完成、搁置、放弃、已玩等 直接在网络应用程序中进行手动游戏和会话记录 可选的 Windows 上自动游戏时间跟踪，通过桌面配套应用 个人统计数据和习惯跟踪，例如连胜、每周回顾、游戏时间热图和流派分布 公开个人资料和轻量级社交功能，包括关注、活动源、收藏、比较小部件和简短的结构化评论 游戏发现工具，包括目录搜索、公开游戏页面和收藏浏览 交易模块，可让您跟踪愿望清单折扣、即将发布的版本、预购定价和热门交易 所有权和收藏跟踪，包括平台、格式和版本详细信息  GameShelf 背后的主要思想很简单：游戏历史通常是分散在不同的启动器、设备和习惯中。有些人想要一个干净的地方来整理待办事项。有些人想要更好的统计数据和长期跟踪。有些人想要关注价格和心愿单下降。有些人希望与其他人分享部分游戏资料。 这也是Windows 跟踪器是可选的的原因。如果您只想使用网络应用程序，GameShelf 仍然可以作为一个完整的手动跟踪平台。但如果您主要在 Windows 上玩游戏，桌面跟踪器可以检测映射的游戏，自动记录会话，并使您的游戏时间历史记录更容易维护。 隐私是该项目的重要组成部分。Windows 跟踪器围绕数据最小化进行设计：它仅适用于可执行文件名，而不是完整的本地文件路径，并且不收集击键、屏幕截图、剪贴板数据、浏览器历史记录或不相关的个人文件。我希望自动跟踪功能能够发挥作用，又不会变得具有侵入性。 我正在业余时间构建 GameShelf 作为一个独立项目，目标是创建一个实用平台，用于跟踪您玩的游戏、组织您拥有的内容、发现接下来的内容以及了解您随着时间的推移的游戏习惯。 如果这听起来很有趣，我真的很想听听您的想法想想！   由   提交/u/221seba  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnb55f/showoff_saturday_i_built_a_free_app_to_track_your/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:20:22 GMT</pubDate>
+      <title>接下来我应该做哪些改进？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnfqiq/what_improvements_should_i_make_next/</link>
+      <description><![CDATA[      尝试 ListLinkd 的人属于两个阵营之一。他们要么只想跟踪一些东西，要么想跟踪他们的整个品味。 现在它跟踪：书籍、电影、电视节目，并根据您的品味提供推荐 但人们不断要求更多：游戏、音乐、正确的漫画/漫画跟踪 这让我重新考虑这个想法。也许这不应该只是媒体跟踪。也许它应该是品味跟踪。 一个配置文件，通过完全可定制的选项卡（和可选的私人配置文件）显示您对书籍、电影、节目、游戏、音乐的兴趣。 ListLinkd 应该专注于某些事情还是发展成为跟踪您整个媒体品味的东西？ 链接 -&gt; https://listlinkd.com   由   提交/u/fuzzypop_  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnfqiq/what_improvements_should_i_make_next/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:26:34 GMT</pubDate>
     </item>
     <item>
-      <title>烤我的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnaw63/roast_my_portfolio/</link>
-      <description><![CDATA[嗨！周六就要展示了，我最近完成了我的作品集，我需要你们的反馈！ https://mohamedaminesalah.com/   由   提交/u/monstronix2020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnaw63/roast_my_portfolio/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:09:06 GMT</pubDate>
+      <title>Browserecord - 一款免费、无需注册、带有可共享链接的浏览器内屏幕录像机</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnfpnm/browserecord_a_free_no_signup_inbrowser_screen/</link>
+      <description><![CDATA[      我经常进行异步工作，因此我构建了一个小工具，可以使用内置时间线切片器和可共享链接来记录选项卡/窗口。视频可以下载或上传到云端并获得可共享的链接。 链接如下：https://browserecord.com/   由   提交/u/1kgpotatoes  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnfpnm/browserecord_a_free_no_signup_inbrowser_screen/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:25:39 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] Pluck — Chrome 扩展，可捕获 AI 编码工具的任何 UI 组件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnaveq/showoff_saturday_pluck_chrome_extension_that/</link>
-      <description><![CDATA[嘿 r/webdev， 我最近经常使用 AI 编码工具进行构建，但一直遇到同样的问题：我会看到一个我想要重新创建的组件，花 10 分钟编写一个提示来尝试描述它，而 AI 的正确率可能是 70%。然后再进行3-4轮调整。  所以我构建了一个名为 Pluck 的 Chrome 扩展。您单击任何网站上的任何元素，它都会捕获组件树 - HTML 结构、每个元素的计算 CSS（颜色、间距、字体、布局、阴影等）、图像和 SVG。它将其打包成结构化提示，您可以将其粘贴到您使用的任何人工智能工具中。  其主要思想是人工智能使用实际数据而不是近似数据，因此来回的情况要少得多。  一些技术细节：  - 使用计算样式来捕获解析值，而不是编写 CSS - 因此你会得到 `#1a1a2e` 而不是 `var(--color-primary)` - 了解你的目标堆栈 - Tailwind、CSS 模块、React、Svelte、Vue 等 - 适用于你可以看到的任何页面，包括 auth 后面的页面 - 还有一个Figma 模式将组件粘贴为可编辑 Figma 组件 仍处于预发布阶段，但很乐意回答有关其幕后工作原理的任何问题！   由   提交/u/vincent_rodriguezz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnaveq/showoff_saturday_pluck_chrome_extension_that/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:08:11 GMT</pubDate>
+      <title>构建了一个直接调用 Claude API 的翻译插件 - 无需服务器，无需订阅，源可用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnfo7m/built_a_translation_plugin_that_calls_claude_api/</link>
+      <description><![CDATA[      它是什么 Transloom 是一个用于翻译应用程序字符串的插件，它使用您自己的密钥将请求直接路由到 Claude API。没有后端，没有第三方服务器接触您的内容。 通过清单安装，放入您的 API 密钥，将其指向您的字符串。这就是整个设置。 我为什么构建它 我尝试的每个本地化工具要么是付费的 SaaS，要么需要旋转我不想维护的基础设施。我只是想要一些直接调用 LLM API 且不妨碍的东西。 权衡 现在设置是手动的。对于网络开发人员来说，这可能需要五分钟。我知道这是一个摩擦，并且正在改进路线图上。 成本 真的让我感到惊讶。我录制了一个简短的演示，展示了真实的翻译运行以及实际成本细目 - 它位于自述文件中。与固定费率工具相比，每次运行的价格相差甚远。 Repo + 演示视频：[GitHub 链接] 欢迎有关实施的反馈，尤其是有关设置体验和 DX 中感觉粗糙的任何内容。   由   提交/u/Right-Ad-1216  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnfo7m/built_a_translation_plugin_that_calls_claude_api/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:24:08 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年你们网站的售价是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnapix/how_much_are_you_guys_selling_websites_for_in_2026/</link>
-      <description><![CDATA[考虑到我刚刚在另一篇文章中被人遗忘了... 好吧 - 2026 年每个人对 5 页网站的收费是多少   由   提交 /u/JungGPT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnapix/how_much_are_you_guys_selling_websites_for_in_2026/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:01:06 GMT</pubDate>
+      <title>我建立了一个 100% 免费的日本旅行计划（无付费专区）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnfmsi/i_built_a_japan_trip_planner_thats_100_free_no/</link>
+      <description><![CDATA[      大家好， 我喜欢每年经常去日本旅行。过去 3 年里我去过那里大约 7 次，今年 5 月我即将再次离开。因为我一直使用 iPhone 上的笔记来存储确实有效的计划，但非常混乱且无组织/不可靠；我决定制作一个网站来管理一切。 您可以与朋友一起计划旅行，提出问题/答案，并共同构建整个旅行。如果您即将开始旅行，请随时与您的朋友分享该网站，并一起实时制定行程。 由于我要和女朋友一起旅行，所以我为我们制作了一个计划表。 希望你们喜欢。如果您发现错误、问题；请告诉我。 没有付费墙或子项目。我只设置了每天重置的每日限制，以便为自己节省一些钱。 -- 它也是一个 PWA，因此您可以将其添加到主屏幕，将其用作应用程序，并接收推送通知:) JetBookGo.com   由   提交/u/HD_HR   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnfmsi/i_built_a_japan_trip_planner_thats_100_free_no/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:22:39 GMT</pubDate>
     </item>
     <item>
-      <title>JADEx：具有空安全和默认 Final 的实用 Java 安全层</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnaop8/jadex_a_practical_java_safety_layer_with/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnaop8/jadex_a_practical_java_safety_layer_with/</guid>
-      <pubDate>Sat, 07 Mar 2026 14:00:15 GMT</pubDate>
+      <title>在我的业余时间构建了一个本地优先的 API 客户端和 CLI 运行器，没有云，没有帐户。邮递员的替代品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnfdq0/built_a_localfirst_api_client_and_cli_runner_in/</link>
+      <description><![CDATA[我厌倦了我尝试的每一个 API 工具，慢慢地转向纯云，所以我构建了一些相反方向的东西。 ApiQuest 是一个用于构建和运行 API 请求的桌面客户端。 Fracture 是 CLI 运行程序，在 CI 中运行完全相同的集合。两者都是开源的。两者都不需要帐户。 工作原理： 集合是 .apiquest.json 文件 - 纯 JSON。你选择他们居住的地方。将它们提交到 Git，比较它们，在拉取请求中审查它们。如果您的团队已经使用 Git，您可以免费获得集合共享。对于需要更集成体验的团队来说，基于本机 Git 的工作区协作也即将推出。 您今天可以做什么：  HTTP 请求编辑器：方法、标头、查询参数、请求正文（原始 JSON、表单数据、URL 编码） 身份验证：承载、基本、API 密钥、OAuth 2.0（客户端凭据、授权代码、PKCE、摘要、NTLM） 预请求和后请求 JavaScript 脚本，带有类型化的 quest 上下文和 Chai 断言 通过环境和全局范围的请求之间的变量链接 集合运行器：迭代、CSV/JSON 数据文件、每个请求延迟、并行执行 插件驱动的架构 - HTTP、auth、GraphQL、SSE 都是独立的插件  Fracture - CLI 运行程序： npm install -g u/apiquest/fracturefractionplugin install http 或 npm install -g u/apiquest/plugin-httpfractionrun ./tests/api.apiquest.json -e ./staging.env.jsonfractionrun ./tests/api.apiquest.json --concurrency 4 --data users.csv  The桌面在内部使用 Fracture 作为自己的收集运行器，因此行为是相同的。本地运行和 CI 中运行之间没有不一致。 诚实状态： HTTP 是经过充分测试的路径 - 这是我每天使用的路径。 GraphQL 运行。接下来正在构建 SOAP 和 Vault(Azure KV) 变量后端。 网站：https://apiquest.net 桌面 (GitHub)：https://github.com/hh-apiquest/apiquest-ui Fracture (GitHub)：https://github.com/hh-apiquest/fracture npm: https://www.npmjs.com/package/@apiquest/fracture 很高兴回答问题。 关于运行器和插件体验的反馈尤其有用，可以帮助我改进   由   提交/u/w3npigsfly  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnfdq0/built_a_localfirst_api_client_and_cli_runner_in/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>我发布了一个包含航空数据的免费 REST API — 无需身份验证、启用 CORS、边缘部署</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnajbm/i_released_a_free_rest_api_with_aviation_data_no/</link>
-      <description><![CDATA[构建了一个免费的公共 API 作为我的航空学习平台的一部分。在这里分享它，因为它可能是边缘部署的公共 API 的有用示例，或者对任何制作航空相关项目的人都有用。 技术细节： - 4 个端点：随机问题、机场查找、词汇表查找、统计 - 边缘运行时 (Vercel) — 全球范围内约 50 毫秒内响应 - 无需身份验证 — 只需 GET 请求 - CORS： Access-Control-Allow-Origin：* - 速率限制：每个 IP 60 请求/分钟 - 数据：2,200 多个问题、500 多个机场、500 多个术语表术语 堆栈：带有边缘运行时的 Next.js 15 个 API 路由、问题库的 Supabase、机场和术语表的静态数据文件。 有趣的挑战是制作随机问题端点高性能 - 在生成随机偏移量之前必须对主题过滤器使用计数查询，否则当偏移量超过过滤结果计数时，过滤查询将返回空。 很高兴回答有关实现的问题。   由   提交 /u/renzom13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnajbm/i_released_a_free_rest_api_with_aviation_data_no/</guid>
-      <pubDate>Sat, 07 Mar 2026 13:53:31 GMT</pubDate>
+      <title>autotile — 与框架无关的位掩码自动平铺引擎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnfate/autotile_a_frameworkagnostic_bitmask_autotiling/</link>
+      <description><![CDATA[嘿！  最近，我为我 4 岁的女儿构建的一款名为 Townarama 的游戏添加了一些增强功能，这是一款用 Vue 3 构建的简单的小型等距城市建设游戏。  我现在一直想添加自动平铺路径，在我让它工作后，我认为它是一个很好的候选者，可以将其提取并作为自己的包发布。我希望它对某人有用！  GitHub：https://github.com/syropian/autotile 演示：https://autotile.pages.dev/ 享受🧩   由   提交 /u/syropian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnfate/autotile_a_frameworkagnostic_bitmask_autotiling/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:09:56 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了互联网上唯一的自动免费 PDF -> 可填写表单工具。我什至添加了额外的功能，用于准确或数据库标头映射字段名称，允许即时 pdf 到 pdf + 客户信息。可在我的 Github 上用于非商业用途。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnagqy/i_built_the_only_automatic_free_pdf_fillable_form/</link>
-      <description><![CDATA[大家好，我制作了一个网站，DullyPDF，您可以在其中自动将 pdf 转换为可填写的表单。您获取原始 pdf，然后ML 算法（jbarrow 开源字段检测器）查找所有输入区域，如姓名、日期、地址等，并在其中创建可填写的表单字段。然后，您可以数据库映射字段，以便您自动填写任何人员/ID 信息。 Adobe 有类似的东西，但没有基于数据库重命名的能力，每月费用为 20 美元。我的网站免费提供 Adob​​e 的所有内容（对免费用户有一些限制，因为后端 GPU 成本太高，最多 10 页检测），但是您可以自己托管 UI + 检测，而不必担心这一点。 所以原始 pdf -&gt; db 模板 + 填充 它还有一个很棒的表单生成器 UI，检测器输出其为字段的可能性的置信值，并且 DullyPDF UI 进行分类，黄色表示中等置信度，红色表示低置信度。您也可以在此 UI 中使用所有 PDF 表单生成器功能。我的 UI 构建了轻量级的字段表示来处理延迟，大多数查看者使用实际的 acro 字段，这会导致 PDF 超过两页或更多页时出现过多的延迟。一旦您想要下载 PDF，就会创建实际的字段。 请随意免费试用，如果该软件有帮助，请告诉我，否则我们将不胜感激。我认为这个网站的牙科+患者摄入表格效果很好。 DullyPDF Github   由   提交 /u/DulyDully   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnagqy/i_built_the_only_automatic_free_pdf_fillable_form/</guid>
-      <pubDate>Sat, 07 Mar 2026 13:50:18 GMT</pubDate>
+      <title>对我的新版本的作品集有何想法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnf7nr/thoughts_on_the_new_version_of_my_portfolio/</link>
+      <description><![CDATA[      大家好！我一直在开发我的作品集的新版本，将终端编辑风格等内容连接起来，并在此过程中添加很多有趣的动画，例如自玩扫雷游戏、无限 Tron 游戏或受铬合金恐龙启发的游戏！ 我想阅读你会对它有什么想法，以及你的想法，即使你愿意，也可以在这里输入： https://codedgar.com/   由   提交/u/codedgar  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnf7nr/thoughts_on_the_new_version_of_my_portfolio/</guid>
+      <pubDate>Sat, 07 Mar 2026 17:06:37 GMT</pubDate>
     </item>
     <item>
-      <title>我的整个职业生涯都在办公室工作中度过，然后我开始沉迷于独立创始人创造真正的东西。所以我建立了它们的目录。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rna8j3/i_spent_my_whole_career_in_office_jobs_and_then_i/</link>
-      <description><![CDATA[    https://preview.redd.it/v99dx80xlmng1.png?width=2512&amp;format=png&amp;auto=webp&amp;s=162dafcb53c9e69a460a9fe8f751f0ede1e9cb54 多年来我一直从事办公室工作。在某个时候，我开始读到一些人的故事，他们独自建造了一些东西，将其交付，并开始从中赚到足够的钱，从而放弃并获得自由。我完全着迷了。  所以我建立了 thisiswhyibuilt.com - 一个由独立创始人和小团队构建的引导项目目录，所有项目都有真实的经过验证的收入。目前，它有 426 个项目，合并 MRR 为 1.1B/月。   每个项目都有：  故事。 收入数字。 人工智能提示，以便您可以自己与 Claude 或类似人员构建类似的东西。 免费时事通讯，其中包含我数据库中现有和新项目的每周故事，并深入探讨特定创始人如何构建和发展他们的产品。没有垃圾邮件，随时取消订阅。 一次性付费的高级访问权限，无需订阅。解锁所有高级项目、完整故事和 AI 提示。  我会定期添加新项目。很想听听您的想法 - 如果您认识一位单独创始人，他的故事应该包含在其中，请告诉我。   由   提交 /u/Affectionate_Bet8853   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rna8j3/i_spent_my_whole_career_in_office_jobs_and_then_i/</guid>
-      <pubDate>Sat, 07 Mar 2026 13:40:01 GMT</pubDate>
+      <title>寻找有关我构建的 Chrome 扩展程序的反馈，该扩展程序可自动提取网站的品牌套件（颜色、字体、图像）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rneol2/looking_for_feedback_on_a_chrome_extension_i/</link>
+      <description><![CDATA[我从事数字设计工作，经常需要快速分析品牌。 从网站获取颜色、字体和资源非常繁琐。 因此，我构建了一个 Chrome 扩展程序，可以扫描网页并导出品牌套件： • 品牌颜色 • 字体 • 高分辨率图像 • 调色板文件供设计师使用 它将所有内容导出到 ZIP 中。 这是 Chrome 网上应用店链接 此工具完全免费，我只是寻求设计师或用户的反馈营销人员。   由   提交 /u/cloakrunner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rneol2/looking_for_feedback_on_a_chrome_extension_i/</guid>
+      <pubDate>Sat, 07 Mar 2026 16:45:58 GMT</pubDate>
     </item>
     <item>
-      <title>构建了一个位于代码库内的可遍历技能图。人工智能在会话之间自主导航。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rna2d9/built_a_traversable_skill_graph_that_lives_inside/</link>
-      <description><![CDATA[      考虑这个问题有一段时间了。人工智能编码助手在会话之间没有持久记忆。他们很强大，但没有国籍。每个会话都从零开始。 人们尝试的明显解决方案是更大的规则文件。将所有内容转储到 .cursorrules 中。不起作用。达到代币限制，稀释一切，人工智能在几次会话后停止跟踪。 实际的解决方法是渐进式披露。构建一个由人工智能自行导航的互连文件网络，而不是一个庞大的上下文文件。 这是我构建的结构： 始终加载第 1 层。很小，不到 150 行，不到 300 个标记。堆栈标识、文件夹约定，不容协商。一个指向 HANDOVER.md 的出站指针。 每个会话都会加载第 2 层。 HANDOVER.md 是控制中心。它是一个注意力路由器而不是文档。告诉AI根据当前任务加载哪个域文件。支付、身份验证、数据库、API 路由。每个域文件都以指向下一个相关文件的指令结尾。自定向。 第 3 层按任务加载。提示库有12个类别。每个条目都有上下文、构建、验证、调试。人工智能检查索引、加载类别、遵循模式。 自我导向层是核心洞察。人工智能遵循图表，因为指令具有意义，而不仅仅是参考。 “在修改 webhook 处理程序之前加载 security/threat-modeling.md”告诉它何时以及为什么，而不仅仅是什么。 第二张图片显示了这个特定的示例 将其构建到 SaaS 模板中，以便它随代码库一起提供。如果有人想查看完整的图结构，请查看 launchx.page。 好奇是否有其他人构建了类似的东西或以不同的方式处理无状态 AI 内存问题。   由   提交/u/DJIRNMAN   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rna2d9/built_a_traversable_skill_graph_that_lives_inside/</guid>
-      <pubDate>Sat, 07 Mar 2026 13:32:11 GMT</pubDate>
+      <title>烤我的简历。没有糖衣，只有残酷的事实和无礼的一面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnekw9/roast_my_cv_no_sugarcoating_just_brutal_truth_and/</link>
+      <description><![CDATA[    /u/Majestic-Witness3655   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnekw9/roast_my_cv_no_sugarcoating_just_brutal_truth_and/</guid>
+      <pubDate>Sat, 07 Mar 2026 16:41:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
