@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 06 Mar 2026 21:19:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 00:57:18 GMT</lastBuildDate>
+    <item>
+      <title>Java 在 MCP 服务器基准测试中击败了 Go、Python 和 Node.js</title>
+      <link>https://www.reddit.com/r/programming/comments/1rmtoe4/java_beats_go_python_and_nodejs_in_mcp_server/</link>
+      <description><![CDATA[ 由   提交/u/lprimak  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rmtoe4/java_beats_go_python_and_nodejs_in_mcp_server/</guid>
+      <pubDate>Fri, 06 Mar 2026 23:25:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Claude Code 构建可捕获文档偏差的 GitHub Actions 工作流程</title>
+      <link>https://www.reddit.com/r/programming/comments/1rmqkdf/building_a_github_actions_workflow_that_catches/</link>
+      <description><![CDATA[ 由   提交 /u/Onlydole   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rmqkdf/building_a_github_actions_workflow_that_catches/</guid>
+      <pubDate>Fri, 06 Mar 2026 21:21:11 GMT</pubDate>
+    </item>
     <item>
       <title>jank 在 2026 年有一个良好的开端</title>
       <link>https://www.reddit.com/r/programming/comments/1rmqcev/jank_is_off_to_a_great_start_in_2026/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rmlzhl/supertoast_tables/</guid>
       <pubDate>Fri, 06 Mar 2026 18:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Iceberg 构建高性能 Postgres 时间序列堆栈</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmlf17/building_a_highperformance_postgres_time_series/</link>
-      <description><![CDATA[ 由   提交 /u/craigkerstiens   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmlf17/building_a_highperformance_postgres_time_series/</guid>
-      <pubDate>Fri, 06 Mar 2026 18:09:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++26 反射的隐藏编译时成本</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmjb0f/the_hidden_compiletime_cost_of_c26_reflection/</link>
-      <description><![CDATA[ 由   提交/u/SuperV1234  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmjb0f/the_hidden_compiletime_cost_of_c26_reflection/</guid>
-      <pubDate>Fri, 06 Mar 2026 16:52:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
