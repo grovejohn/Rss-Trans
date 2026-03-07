@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 07 Mar 2026 09:19:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Mar 2026 12:21:23 GMT</lastBuildDate>
+    <item>
+      <title>TEMPEST vs TEMPEST — 本书长度的尝试探索和理解 Dave Theurer 的“Tempest”(1981) 和 Jeff Minter 的“Tempest 2000”(1994) 的代码和工艺</title>
+      <link>https://www.reddit.com/r/programming/comments/1rn70n1/tempest_vs_tempest_booklength_attempt_to_explore/</link>
+      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rn70n1/tempest_vs_tempest_booklength_attempt_to_explore/</guid>
+      <pubDate>Sat, 07 Mar 2026 10:47:44 GMT</pubDate>
+    </item>
     <item>
       <title>一个社区花了数周时间调试一个自动合并机器人。最后一个错误是单行 GitHub 权限边缘情况。</title>
       <link>https://www.reddit.com/r/programming/comments/1rn5dbz/a_community_spent_weeks_debugging_an_automerge/</link>
@@ -20,25 +27,11 @@
       <pubDate>Sat, 07 Mar 2026 09:02:01 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能副驾驶已经够多了！我们需要 AI HUD</title>
-      <link>https://www.reddit.com/r/programming/comments/1rn3g3p/enough_ai_copilots_we_need_ai_huds/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rn3g3p/enough_ai_copilots_we_need_ai_huds/</guid>
-      <pubDate>Sat, 07 Mar 2026 07:12:20 GMT</pubDate>
-    </item>
-    <item>
       <title>是什么取消了我的 Go 上下文？</title>
       <link>https://www.reddit.com/r/programming/comments/1rn0l8f/what_canceled_my_go_context/</link>
       <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rn0l8f/what_canceled_my_go_context/</guid>
       <pubDate>Sat, 07 Mar 2026 04:42:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM 架构大比较</title>
-      <link>https://www.reddit.com/r/programming/comments/1rn0h7j/the_big_llm_architecture_comparison/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rn0h7j/the_big_llm_architecture_comparison/</guid>
-      <pubDate>Sat, 07 Mar 2026 04:36:15 GMT</pubDate>
     </item>
     <item>
       <title>将二进制浮点数转换为最短十进制字符串：实验回顾</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/nomemory  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rmnmpi/writing_a_simple_vm_in_less_than_125_lines_of_c/</guid>
       <pubDate>Fri, 06 Mar 2026 19:29:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>论变异语法模糊测试的有效性</title>
+      <link>https://www.reddit.com/r/programming/comments/1rmmf4c/on_the_effectiveness_of_mutational_grammar_fuzzing/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rmmf4c/on_the_effectiveness_of_mutational_grammar_fuzzing/</guid>
+      <pubDate>Fri, 06 Mar 2026 18:45:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
