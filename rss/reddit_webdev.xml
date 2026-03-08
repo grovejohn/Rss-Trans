@@ -4,13 +4,97 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Mar 2026 01:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:29:34 GMT</lastBuildDate>
     <item>
-      <title>GPT 5.4 和 GPT 5.4 Pro + Claude Opus 4.6 和 Sonnet 4.6 + Gemini 3.1 Pro 仅需 5 美元/月（支持 API 访问、AI 代理甚至 Web 应用程序构建）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnqtjg/gpt_54_gpt_54_pro_claude_opus_46_sonnet_46_gemini/</link>
-      <description><![CDATA[      大家好， 对于InfiniaxAI 刚刚将 Starter 计划费率限制提高了一倍，并以每月 5 美元的价格解锁了 Claude 4.6 Opus、GPT 5.4 Pro 和 Gemini 3.1 Pro 的高限制访问权限。 以下是 Starter 的内容：  包含 5 美元的平台积分 访问 120 多个 AI 模型（Opus 4.6、GPT） 5.4 Pro、Gemini 3 Pro 和 Flash、GLM-5 等） 旗舰型号的高速率限制 用于构建应用程序、游戏、网站和完整存储库的代理项目系统 用于高级工作流程的 Nexus 1.7 Core 等自定义架构 使用 Juno v1.2 进行智能模型路由 使用 Veo 3.1 和Sora 适用于图形和创意资产的 InfiniaxAI Design 保存模式可将 AI 和 API 成本降低高达 90%  我们还推出了 Web Apps v2 with Build：  生成多达 10,000 行可立即投入生产的代码 由新的 Nexus 1.8 Coder 架构提供支持 完整的 PostgreSQL 数据库配置 自动云部署，无需单独托管 用于高速编码的Flash模式 可连续运行和编码长达120分钟的Ultra模式 能够构建和交付完整的SaaS平台，而不仅仅是模板 如果您需要扩展超出所包含的积分，则可以购买额外的使用量  一切都通过OpenAI的官方API运行， Anthropic、Google 等。没有回收的试验，没有被盗的密钥，没有神秘的路由。我们这边会适当地支付使用费。 如果您厌倦了订阅并想要一个地方来构建、发布和实验，那么它就是实时的。 https://infiniax.ai   由   提交/u/Substantial_Ear_1131   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnqtjg/gpt_54_gpt_54_pro_claude_opus_46_sonnet_46_gemini/</guid>
-      <pubDate>Sun, 08 Mar 2026 00:57:41 GMT</pubDate>
+      <title>很确定我刚刚在设计审查中毁了我的声誉哈哈。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnwdbf/pretty_sure_i_just_blew_my_reputation_in_a_design/</link>
+      <description><![CDATA[我在这家公司工作了一年，今天是我第一次向高级领导提出提案。我以为我已经准备好了，但是当他开始在我的逻辑中戳破漏洞时，我的大脑就停止了工作，就像我什至不知道我为我的演示做了什么。我不记得我们昨天真正讨论过的权衡。我花了大约 2 分钟浏览自己的文档，而每个人都静静地坐在那里。我感觉自己像个骗子。就好像一旦我感到受到监视，就像我处于判断的焦点一样，我所有的技术知识就会消失。当你被比你高级得多的人置于困境时，你们如何保持冷静？感觉我需要喝一杯。   由   提交 /u/Public_Mortgage6241   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnwdbf/pretty_sure_i_just_blew_my_reputation_in_a_design/</guid>
+      <pubDate>Sun, 08 Mar 2026 05:29:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个 CLI 来构建完整的 Next.js 16 + Supabase + Stripe 堆栈。寻找架构反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnw2l7/i_built_a_cli_to_scaffold_a_full_nextjs_16/</link>
+      <description><![CDATA[嘿 r/webdev， 我一直在开发一个 CLI 工具来解决我自己对“样板疲劳”的挫败感。每次开始一个新项目时，我都会花费数小时为 i18n 设置相同的 Next.js 中间件，将 Stripe webhooks 与数据库同步，并在 Supabase 中配置 RBAC 角色。 我将所有这些都捆绑到一个命令中：npx @/x-legacy/create-saas-app。 技术选择：  Next.js 16（App Router）：使用服务器组件和操作的最新模式。 Drizzle ORM：选择此方案而不是 Prisma，以获得更好的性能和更接近 SQL 的语法。 next-intl：处理 21 个区域设置 + RTL。这里的挑战是让它与 Supabase auth 中间件很好地配合，而不需要无限的重定向循环。 Stripe 集成：针对订阅和基于使用情况的计费进行预配置，同步到 Postgres 数据库。 部署：包括为 Railway、Fly.io 和Vercel。  为什么我要展示这个：我想知道这个架构是否真的适合其他开发人员。具体来说：  Drizzle + Supabase 组合是您在生产中实际使用的吗？ 我包含了内置的管理面板和团队角色（所有者/管理员/成员/查看者）。是不是太“自以为是”了？入门工具包的代码？ CLI 体验如何？ （它与标志进行交互）。  它可以免费使用和测试。您可以在下面的网站上注册，我将手动授予您访问权限。我真的只是在寻找有关如何使脚手架更干净的技术反馈。 链接：https://x-legacy.space 如果有人好奇，我很乐意深入研究 i18n 中间件或 Stripe webhook 同步的代码/逻辑。   由   提交/u/A1X6  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnw2l7/i_built_a_cli_to_scaffold_a_full_nextjs_16/</guid>
+      <pubDate>Sun, 08 Mar 2026 05:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 在对典型的 webdev 图像工作流程感到沮丧后，构建了一个基于浏览器的图像转换器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnuvqy/showoff_saturday_built_a_browserbased_image/</link>
+      <description><![CDATA[作为一名前端开发人员，我一遍又一遍地遇到同样烦人的图像工作流程问题。  很多时候我只需要做一些简单的事情： - 将手机中的 HEIC 照片转换 - 将 PNG 转换为用于网络的 WebP 或 AVIF - 发货前调整资源大小 - 比较不同格式之间的输出大小 - 压缩图像而不玩猜谜游戏  但大多数现有工具至少在一个方面感觉很糟糕： - 他们将文件上传到服务器 /&gt; - 它们仅限于一种格式对 - 批处理速度很慢 - 它们无法帮助解释为什么输出变得更大而不是更小 - 如果文件是客户资产、屏幕截图、合同、收据或其他我不想离开我的机器的东西，它们就不是很好  所以我构建了 PicShift： https://picshift.app  它完全在浏览器中运行，专注于实际的 webdev/图像工作流程： - 仅本地处理 - HEIC / WebP / PNG / JPG / AVIF 支持 - 压缩 + 调整大小 + 格式转换 - 批处理 - 并排比较 - 解释为什么文件大小有时会在转换后增加 我知道“图像转换器”是一个拥挤的类别，所以我不会像它是一些革命性产品一样发布它。我构建它主要是因为我在自己的日常工作流程中确实需要它，并且我想要一些更快、更私密且使用起来不那么烦人的东西。  希望得到其他网络开发人员的反馈： - 价值主张是否清晰 - 主页是否足够快地解释其好处 - 您仍然遇到哪些图像工作流程痛点，这不能很好地解决   由   提交/u/That-Row1408  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnuvqy/showoff_saturday_built_a_browserbased_image/</guid>
+      <pubDate>Sun, 08 Mar 2026 04:12:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>禁止有关人工智能的帖子</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnun1i/ban_posts_about_ai/</link>
+      <description><![CDATA[这个 subreddit 应该是关于 Web 开发的。但是，最近，我看到的大部分帖子都是关于人工智能及其对网络开发的影响的。我明白了相关性。我感到害怕。 如果这是不恰当或违反规则的，我很抱歉。我意识到这篇文章的讽刺之处在于它也不是关于网络开发的。但是我们可以回到分享构建网站的巧妙技巧和技巧吗？并回答彼此关于我们用大脑编写的代码片段的问题？ 拜托？    由   提交 /u/miniversal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnun1i/ban_posts_about_ai/</guid>
+      <pubDate>Sun, 08 Mar 2026 04:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>收到来自 Labmentix 的入门电子邮件 – 我应该相信它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnuigh/received_an_induction_email_from_labmentix_should/</link>
+      <description><![CDATA[      请建议我   由   提交/u/Chandan__0002  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnuigh/received_an_induction_email_from_labmentix_should/</guid>
+      <pubDate>Sun, 08 Mar 2026 03:54:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>花了几个小时构建主题而不是实际产品......但我喜欢它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnuenp/spent_hours_building_themes_instead_of_the_actual/</link>
+      <description><![CDATA[   /u/Jealous-Salary-3348   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnuenp/spent_hours_building_themes_instead_of_the_actual/</guid>
+      <pubDate>Sun, 08 Mar 2026 03:48:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>[炫耀星期六] RoundHound 弹药搜索引擎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rntth8/showoff_saturday_roundhound_ammo_search_engine/</link>
+      <description><![CDATA[      任何射击枪支的人都知道这是一项昂贵的爱好，每个人都在寻找降低成本的方法。  这就是 RoundHound 的用武之地。RoundHound 是一个弹药搜索引擎，可以帮助您找到便宜的弹药。 您可以对搜索应用不同的过滤器，然后有 2 种主要的优化模式。您可以找到最便宜的方式来获得 x 轮，或者以 x 美元获得最多符合您标准的轮次。 此外，用户还可以注册警报，以便在符合其标准的弹药可用时以每轮的费用提供。 技术堆栈是 Django，数据库为 MariaDB。   由   提交/u/bigbrass1108  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rntth8/showoff_saturday_roundhound_ammo_search_engine/</guid>
+      <pubDate>Sun, 08 Mar 2026 03:19:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>邮递员卡在 inf 加载时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnswd0/postman_stuck_at_inf_loading_times/</link>
+      <description><![CDATA[       https://preview.redd.it/cojty0yxgqng1.png?width=1832&amp;format=png&amp;auto=webp&amp;s=5e3d5993ce072d525bae8478c76fb7d4e987ea8a 即使是应用程序或隐身模式也无济于事。   由   提交 /u/That1dudeokay   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnswd0/postman_stuck_at_inf_loading_times/</guid>
+      <pubDate>Sun, 08 Mar 2026 02:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六展示] Evōk 语义编码引擎：针对遗留代码库的可证明安全的人工智能工程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnsupj/showoff_saturday_evōk_semantic_coding_engine/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnsupj/showoff_saturday_evōk_semantic_coding_engine/</guid>
+      <pubDate>Sun, 08 Mar 2026 02:33:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Tone.js 在浏览器中构建了一个生成低保真机器 — 8 条轨道，概率排序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnrpnq/i_built_a_generative_lofi_machine_in_the_browser/</link>
+      <description><![CDATA[      大家好， 我一直在尝试基于浏览器的音频系统，刚刚完成了一个副项目：一个完全客户端生成的低保真机器。 它完全使用 Tone.js 和 Web Audio API 在浏览器中运行 — 没有后端，没有从服务器。 核心功能：  8轨音序器（鼓、和弦、旋律、纹理层）（我将添加更多） 10种可选择的“情绪”，可以改变音阶、节奏、摇摆和乐器链（将会有整个社区风格库） 概率模式生成（不是静态循环）（这将是在遥远的未来，我面临性能问题） 随机化引擎 将状态导入/导出为 json（更新：不再有 JSON，只是链接） 视频导出（一起渲染视觉 + 音频）（这很难）  一些技术说明： 计时 调度是最大的挑战。克劳德使用前瞻调度并负责一切，但测试了许多算法。 生成逻辑 音符仅限于每个情绪的音阶程度，密度参数按层调整。 声音设计 所有乐器都是基于合成器的。每个轨道的效果链包括光饱和度、混响、过滤和微妙的调制，以创建低保真纹理。 （ChatGPT 提出了这个计划！） 性能 我必须小心：  在低端机器上保持合理的 CPU 使用率  我仍在完善的内容：  更人性化的挥杆 更好的旋律乐句逻辑 更智能长期结构演变  希望得到其他使用过网络音频或生成系统的开发人员的反馈。 如果您想测试它，可以在这里找到该网站： https://lofi-machine.vibesok.com 这是一个vibe-coded项目，尽管我理解代码并且我是我自己是程序员。 Vibecoding 让一切都快如闪电。   由   提交/u/AgentNirmites   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnrpnq/i_built_a_generative_lofi_machine_in_the_browser/</guid>
+      <pubDate>Sun, 08 Mar 2026 01:38:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新了作品集网站——有什么注意事项吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnrkbf/updated_portfolio_site_any_notes/</link>
+      <description><![CDATA[      几周前我更新了我的网站。为了脱颖而出，这一次，我看到了使用友好的“唐叔叔支持你”的氛围所得到的结果。 我一直在征求反馈并进行调整，所以请告诉我你认为我可以在技术或营销方面改进的地方。 donschnitzius.com   由   提交/u/don1138  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnrkbf/updated_portfolio_site_any_notes/</guid>
+      <pubDate>Sun, 08 Mar 2026 01:32:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于我的投资组合的诚实意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnrbnv/honest_opinions_about_my_potfolio/</link>
+      <description><![CDATA[      在我的旧作品集上睡觉后，我不得不坐下来从头开始重新做，这是我学习的结果。  https://www.proxysoul.com/ 让我知道你的想法:)  编辑：添加了链接，在一些良好的反馈后，实时版本有点不同:)    由   提交/u/slugfingers-kun   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnrbnv/honest_opinions_about_my_potfolio/</guid>
+      <pubDate>Sun, 08 Mar 2026 01:21:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 css 和 svg 滤镜进行马赛克模糊</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rnr6a2/mosaic_blur_with_css_and_svg_filter/</link>
+      <description><![CDATA[      大家好，我刚刚用 svg 滤镜制作了马赛克模糊。 codepen 链接 我会很高兴如果您支持我的 codepen 帐户！   由   提交/u/EngineeringBulky9595  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rnr6a2/mosaic_blur_with_css_and_svg_filter/</guid>
+      <pubDate>Sun, 08 Mar 2026 01:14:12 GMT</pubDate>
     </item>
     <item>
       <title>哈巴克斯。通过 Whatsapp 跟踪费用。</title>
@@ -20,95 +104,11 @@
       <pubDate>Sun, 08 Mar 2026 00:56:10 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>Stockle（Wordle 的旋转，但有股票，我知道我知道）</title>
       <link>https://www.reddit.com/r/webdev/comments/1rnqlya/stockle_a_spin_on_wordle_but_with_stocks_i_know_i/</link>
       <description><![CDATA[      由   提交/u/Synfinium  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rnqlya/stockle_a_spin_on_wordle_but_with_stocks_i_know_i/</guid>
       <pubDate>Sun, 08 Mar 2026 00:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站的 VPS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnqlk2/vps_for_a_website/</link>
-      <description><![CDATA[我是计算机科学专业的学生。我已经学会了如何在本地建立一个网站，加上一些 ssh、docker 和 mysql 的经验，而且我有一个熟人希望我为他的项目建立一个网站。  我看过很多有关网络托管的视频，我认为最好的解决方案是购买 Amazon Lightsail VPS，它只需 7 美元即可提供足够的空间来托管大约 10 个网站（我将来可能会拥有），包括前端、后端和数据库。有谁有这方面的经验，可以告诉我这是一个好的选择，还是一个好的 VPS？还有更好的选择吗？ 我还想补充一点，我正在考虑除了网站费用之外，还向我的熟人收取 VPS 费用，但我不知道要花多少钱。如果有人可以帮助我定价，那就太好了（我正在考虑提供朋友的价格，但这对我的未来来说是很好的信息）。   由   提交 /u/IgnitraCL   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnqlk2/vps_for_a_website/</guid>
-      <pubDate>Sun, 08 Mar 2026 00:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好！我在 webflow 中制作了我的第一个网站，我想要一些关于改进方面的建议！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnp8nh/hi_all_i_made_my_first_website_in_webflow_and_i/</link>
-      <description><![CDATA[   大家好！标题说明了一切。  第一个网站。超级高兴，但想改进。我认为它看起来太基础了，但它适合一家小企业，我不想太过分。今天是星期六，所以我想今天可以吗？无论如何，这里是链接，或者如果您不信任链接（公平），则附上一些屏幕截图！ https://goldenchair.webflow.io 注意 - 屏幕截图中的推荐被截断，因此我重新上传了单独的屏幕截图。 此外，地址、商店图像和电话号码也因显而易见的原因而被审查。 &lt;一href=&quot;https://preview.redd.it/n1q859h9mpng1.png?width=1855&amp;format=png&amp;auto=webp&amp;s=0c58c00fe0c1ec5a522233bd21f51a565bb0e195&quot;&gt; https://preview.redd.it/n1q859h9mpng1.png?width=1855&amp;format=png&amp;auto=webp&amp;s=0c58c00fe0c1ec5a522233bd21f51a565bb0e195 &lt;一href=&quot;https://preview.redd.it/8n21hlnwmpng1.png?width=1856&amp;format=png&amp;auto=webp&amp;s=cd937cf1c9eb2cc1ff150f50099131b23396289a&quot;&gt; https://preview.redd.it/8n21hlnwmpng1.png?width=1856&amp;format=png&amp;auto=webp&amp;s=cd937cf1c9eb2cc1ff150f50099131b23396289a 谢谢！   由   提交/u/couldittrulybeme  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnp8nh/hi_all_i_made_my_first_website_in_webflow_and_i/</guid>
-      <pubDate>Sat, 07 Mar 2026 23:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何替换默认的 HTML 工具提示？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnot7v/how_can_i_replace_default_html_tooltip/</link>
-      <description><![CDATA[      大家好！ 我目前正在开发一个项目，前端使用 React，后端使用 Python。我的目标是让应用程序感觉像一个标准的桌面/独立应用程序，但我正在努力保持 UI 的可读性？我不知道我是否可以这样称呼它。 简单介绍一下我的背景：我是一名来自波兰的高中生，专业是编程专业。我已经通过了我的第一次专业考试（INF03 – HTML/CSS 以及 JS 或 PHP，我学了 PHP，但我真的对 JS 一无所知，尽管 React 由于某种原因感觉更容易），而且我将在 6 月参加另一场考试，涵盖 React、.NET MAUI 和 Python。 为什么我在这里问而不是使用 AI：我试图避免使用 AI 进行编码，因为我想真正学习逻辑。我注意到，当我使用 ChatGPT 时，我倾向于盲目地按 CTRL C、CTRL V，而不了解“为什么”。结构后面。我想在考试前养成扎实的习惯，这样即使遇到最愚蠢的问题，我也会积极参与这个子项目。 我的问题是，我想制作类似 COSMIC Store 的东西，但对于 Arch（我知道这样的应用程序已经存在，但我想为我的投资组合创建它并学习东西），我添加了这些按钮“更新”、“已安装”图标和“设置”。设置图标很明显，但在我看来，如果没有任何文本来表示哪个是哪个，更新和安装可能会很烦人？我真的不知道该如何解释。我想添加基本的 HTML 工具提示，但不知道这是否是正确的方法。我附上了侧边栏现在的照片。 我也愿意接受有关如何实际学习的任何建议，课程好吗？我今年 18 岁，我真的很喜欢编程，但 ChatGPT 有点扼杀了这一点，因为我的老师是个混蛋，如果我想问一些事情而不是帮助他，他只会取笑我，所以我去了 ChatGPT，我在所有测试中作弊（是的，我知道这真的很愚蠢，我想解决这个问题），我真的退缩了，我幸运地通过了第一次考试，因为我刚刚学了一点 PHP 代码，并且是我凭记忆写的。  https://preview.redd.it/kzoqee9djpng1.png?width=301&amp;format=png&amp;auto=webp&amp;s=f10d435706e1fe728566b455816a71545de5266b 感谢您的帮助和阅读这篇文章！   由   提交/u/otusek   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnot7v/how_can_i_replace_default_html_tooltip/</guid>
-      <pubDate>Sat, 07 Mar 2026 23:28:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开发人员帮助发展早期数学平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnoko7/looking_for_developers_to_help_grow_an_earlystage/</link>
-      <description><![CDATA[      标题：寻找开发人员帮助发展早期数学平台  大家好， 我是一名学生，也是 Equathora 的创始人，Equathora 是一个专注于高级数学和逻辑问题解决的平台。 网站：https://equathora.com 我自己构建了该平台的大部分内容（在一些人工智能的帮助下），并且它已经可以运行了。用户可以解决结构化问题，核心概念是有效的。目前，我的候补名单上有大约 70 个用户。 但是，在管理大学学习的同时继续独自构建和扩展一切变得越来越困难。我现在正在寻找一些愿意合作并帮助发展该项目的开发人员。 重要说明：目前这是一个早期项目，尚未获得资金，因此此阶段的报酬将是经验、投资组合贡献以及未来平台盈利时的潜在收入分成。 目标是为想要提高数学和逻辑推理能力的学生构建一些有意义的东西。  我正在寻找的内容 后端开发人员（1-2） 技能： • ASP.NET / C# • REST API • PostgreSQL • Supabase • Git / GitHub 工作流程 • 了解可扩展的后端架构 很高兴拥有： • 身份验证系统 • 数据库优化 后端最初是使用 ASP.NET 设计的，尽管目前由于托管限制而使用 Supabase。未来的开发可能会回归完整的 ASP.NET 后端。  前端开发人员 (1-2) 技能： • React • JavaScript • 现代前端架构 • API 集成 • Git / GitHub 工作流程 很高兴拥有： • UI 组件库 • 响应式设计 • 性能优化  您将获得什么 • 一个可以放在您的实际项目上的项目简历/作品集 • 与真实用户一起为平台做出贡献 • 从早期阶段构建真实产品的经验 • 您的名字被记为贡献者 • 如果平台盈利，则可能获得收入分成  我在合作者中寻找什么 • 充满好奇心和积极性的人 • 能够轻松地从事早期项目 • 能够每周贡献几个小时 • 有兴趣为学生构建一些有意义的东西 您不需要是大四学生开发商。非常欢迎有进取心的学生或早期职业开发者。  如果您有兴趣，请随时在 Reddit 上给我留言或查看该平台： https://equathora.com 您也可以亲自尝试该平台，看看已经构建了哪些内容。 谢谢！   由   提交 /u/its_me_fr   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnoko7/looking_for_developers_to_help_grow_an_earlystage/</guid>
-      <pubDate>Sat, 07 Mar 2026 23:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开源了一个基于 pin 的实时网页评论库，构建它首先是为了解决我自己的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnoe24/i_open_sourced_a_pinbased_commenting_library_for/</link>
-      <description><![CDATA[厌倦了屏幕截图和 pdf 审阅周期后构建了 Washi。客户以文档、pdf、带有箭头的屏幕截图的形式发送反馈，对于同一件事，使用大量不同的文件进行无休止的 QA 循环，我厌倦了它 Washi 可以让您直接在任何 iframe 渲染的页面上放置评论引脚，并在实际的实时内容上使用 Figma 风格的注释。最初构建它是为了向我自己的电子邮件生成器添加审核阶段，然后意识到问题无处不在。 开源、框架无关、基于适配器，因此您可以插入任何后端。 希望得到反馈。演示和文档位于 washi.cloud   由   提交/u/marcochavezco   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnoe24/i_open_sourced_a_pinbased_commenting_library_for/</guid>
-      <pubDate>Sat, 07 Mar 2026 23:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 我构建了一个 Typeform 克隆，名为</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rno8yf/showoff_saturday_i_built_a_typeform_clone_called/</link>
-      <description><![CDATA[Typeform 非常昂贵，所以我花了几天时间构建了一个相对功能齐全的克隆。我想要这样的东西：  自定义子域（为什么 Tally 会为此收费？）和漂亮的 twitter/OG 卡 随着人们的进步不断保存答案（这样你就可以知道人们在哪里离开......并且你不会丢失部分答案） 更好的分析（比如引荐来源......为什么 Typescript 不捕获这个？！）  当然，我仍在努力更好的分析，调查功能起草得很好，所以我想知道其他人是否也遇到类似的挑战。 您可以参加我使用以下工具构建的调查问卷：https://td.tick.dog/f/survey-survey 它是完全免费的，并且容易被滥用，所以请使用它。构建起来很有趣，所以我很乐意添加功能，如果它受到足够的关注，我需要为大量回复添加支付机制。 没有平凡的市场页面，因此您可以查看该链接以查看调查的样子（到目前为止），或者在此处注册进行尝试：https://www.tick.dog/login（我可能应该已经测试了注册更多...手指交叉）。 这是技术堆栈：  Supabase Lamdba Cloudfront React 咖啡（实际上有很多咖啡）    由   提交/u/cazzer548  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rno8yf/showoff_saturday_i_built_a_typeform_clone_called/</guid>
-      <pubDate>Sat, 07 Mar 2026 23:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 我创建了一个网站，让用户可以创建自己的类似国际象棋的游戏变体并玩它们</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnnp7h/showoff_saturday_i_made_a_site_that_lets_users/</link>
-      <description><![CDATA[Squarestrat 让我知道您的想法，欢迎所有反馈 其他功能包括：  能够创建自定义作品、使用您自己的图像、保存它们并在真实游戏中使用 用户帐户/交友功能 论坛。当您创建游戏时，会为该游戏创建一个游戏论坛。 游戏的自定义规则和获胜条件，例如控制方块、将死、捕获（所有棋子或特定棋子） 时间控制和游戏设置选项    由   提交/u/nistaulous  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnnp7h/showoff_saturday_i_made_a_site_that_lets_users/</guid>
-      <pubDate>Sat, 07 Mar 2026 22:41:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] agentpng - 将代理会话记录转换为可共享的图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnncg2/showoff_saturday_agentpng_turn_agent_session/</link>
-      <description><![CDATA[      类似于漂亮的代码片段图像，但用于代理聊天。 从 Claude Code、Kiro、Cursor 或 Codex 中删除代理会话记录（或复制 CLI 聊天）并获取可共享图像。全部免费、开源，并在浏览器中运行。 https://github.com/siegerts/agentpng   由   提交 /u/siegerts   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnncg2/showoff_saturday_agentpng_turn_agent_session/</guid>
-      <pubDate>Sat, 07 Mar 2026 22:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnn36q/claude/</link>
-      <description><![CDATA[      metas 爬虫发送了 1100 万个请求之后。 现在，Claude 仅在过去 15 天内就以 1200 万个请求位居榜首。 Meta 也完全忽略了机器人，因为它们无论如何都发送了 70 万个请求。  以下是受影响最严重的 IP 地址。 216.73.216.x 是 anthropics 主要的 aws 爬虫。一些有趣的爬虫。 WTF成熟了吗？ 66.249.68.x 似乎是一些与搜索无关的内部谷歌，或者可能只是一些基于 gcp 的爬虫。    请求 请求    216.73.216.36 6,285,832   216.73.216.175 4,134,384   216.73.216.81 2,008,789   74.7.243.222 1,057,218   66.249.68.128 205,373   66.249.68.136 187,573  66.249.68.135 182,093   74.7.243.245 171,290   99.246.69.10 165,425   66.249.68.129 154,764   66.249.68.133 140,394   还有人看到这个吗？维塞尔比尔彻底完蛋了。第一周的消费额超过 500 美元。 400+ 是程序化 SEO 端点上的功能持续时间。行业的反应是舔舐云提供商的屁股，就好像他们不是资助这个循环经济金字塔骗局的人一样。抛出一些 cloudflare WAF 来阻止其他计算机进行通信是疯狂的。是的，我们知道 vps 更便宜，但这不是重点。   由   提交/u/cardogio  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnn36q/claude/</guid>
-      <pubDate>Sat, 07 Mar 2026 22:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用 Flask + HTMX 构建了一个轻量级的 Markdown 便签本（带有curl API）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnmwy2/i_built_a_lightweight_markdown_scratchpad_with/</link>
-      <description><![CDATA[大家好， 我一直在开发一个名为 JotSpot 的小项目，我想你们中的一些人可能会觉得它很有趣。 https://jotspot.io 这个想法很简单：打开页面，开始输入 Markdown，它会立即变成可共享的页面。 无需帐户，无需设置 - 它只是在您键入时保存。 我最初将其构建为一个用于编写笔记或共享片段的快速便笺本，但它慢慢地增长了一些有用的功能。 Stack 该项目故意非常轻量级：  Flask HTMX 用于动态 UI PostgreSQL Gunicorn 自托管  我想避免繁重的前端框架，让一切保持简单和快速。 功能  具有实时预览功能的 Markdown 编辑器 即时可共享页面 原始端点（.txt 和.md) 编写时匿名草稿 简单的 CLI API  CLI 示例 您可以直接从终端创建 Jot： curl -X POST https://jotspot.io/api/v1/jots/text \ -d &quot;Hello from theterminal&quot;  或者管道命令输出： uptime | curl -X POST https://jotspot.io/api/v1/jots/text --data-binary @-  每个jot也可以作为原始文本获取： https://jotspot.io/j/.txt  为什么我构建它 有时我只是想快速：  编写 Markdown 笔记 粘贴日志或命令输出 无需创建帐户或文档即可共享内容  因此，我构建了一个工具，可以将快速笔记转变为即时可共享页面。 CLI 文档 https://jotspot.io/cli 如果有人有反馈或建议，我很乐意听到他们。 我今天一直在构建它，并且仍在不断发展。   由   提交/u/rageypeep  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnmwy2/i_built_a_lightweight_markdown_scratchpad_with/</guid>
-      <pubDate>Sat, 07 Mar 2026 22:08:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextJS 中的模拟编码面试平台实际上很好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnmwky/mock_coding_interview_platform_in_nextjs_that_is/</link>
-      <description><![CDATA[我和朋友建立了一个模拟编码面试平台（使用 NextJS 前端），我真诚地认为这是无需与真人交谈即可获得的最真实的面试体验之一。 DevInterview.AI 我知道现在有一股巨大的氛围编码 AI 浪潮，所以让我就这样吧首先，这不是那个。我们已经为此努力了几个月，并倾注了我们的心血在每一个细节上，从对话流程到反馈，再到面试官如何实时回应你。实际上，感觉就像您在进行真正的面试，而不是在与 chatgpt 交谈，哈哈。 显然，这与 interviewing.io 不同，您会遇到真正的 faang 面试官，但只需花费一小部分成本，您就可以发送尽可能多的模拟面试，并真正获得代表的参与。公司特定的问题，执行的真实代码编辑器，以及每次会议后的详细反馈，准确地告诉您你搞砸的地方。 第一次面试是完全免费的。如果你一直在苦苦练习 leetcode，但在实际面试中仍然感到窒息，那就尝试一次，亲自看看吧。我觉得对于有类似情况的人来说，这将是开发面试准备过程中的一个重要组成部分。 希望得到任何好的或坏的反馈，现在还很早，每天都在建设。我期待您在评论中提出批评:)   由   提交/u/HamGoat64  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnmwky/mock_coding_interview_platform_in_nextjs_that_is/</guid>
-      <pubDate>Sat, 07 Mar 2026 22:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一家小型机构，平面设计师的氛围编码正在接管，如何应对？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rnmv3j/at_a_small_agency_where_vibecoding_from_graphic/</link>
-      <description><![CDATA[因此，作为一家小型营销机构的唯一网络开发人员，人工智能在办公室中几乎是首选工具，从图形设计师到管理层的许多团队都自行使用振动编码进行原型设计和开发工具，尽管我警告他们存在局限性，从长远来看 - 这不是一个好主意。 请记住，这家机构对专业电子邮件、会计几乎过敏。以及诸如 Office Exchange、Sage、Monday 等项目管理软件 - 一切都是一些定制的系统 - 通常是因为他们不喜欢/不信任为他们认为“过高”的任何东西付费。我可以理解，但觉得这是短视的。我试图建立一个会计系统来取代旧的会计系统，但结果却变得非常痛苦，因为公司里的人让它非常适合办公室文化和他们的工作方式。 现在，每个人都直接在 Loveable 或 Figma Make 上进行氛围编码来解决任何问题，尽管我一直建议他们采用更成熟的东西，因为它将得到很好的维护并遵循最佳实践。 一方面，每个人都在尝试，这很好，但它让我筋疲力尽，给我带来了巨大的压力。因为一旦出现任何问题或者它没有按照他们想要的方式运行，他们就会向我解释为什么它不起作用，因为我应该根据人工智能生成的内容来了解它。更糟糕的是，他们感觉他们不再重视开发人员技能，因为不可避免地，需要更长的时间来理解问题的本质并构建处理身份验证、安全性、互操作性等的功能，而他们认为这些功能是不必要的，因为他们所做的“只是有效”。 在这种情况下，其他开发人员将如何解决这个问题？   由   提交 /u/Top-Veterinarian-565   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rnmv3j/at_a_small_agency_where_vibecoding_from_graphic/</guid>
-      <pubDate>Sat, 07 Mar 2026 22:06:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

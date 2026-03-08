@@ -4,7 +4,70 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 08 Mar 2026 01:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:29:10 GMT</lastBuildDate>
+    <item>
+      <title>AI 演示运行后出现什么问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnxcr4/what_breaks_after_your_ai_demo_works/</link>
+      <description><![CDATA[大家好，我一直在尝试 AI API 的可靠性模式。也就是说，之后会发生什么 response = llm(prompt)。 一旦系统投入生产，您就开始遇到操作问题： • 哪个请求产生了此输出？ • 请求消耗了多少令牌？ • 请求成本是多少？ • 输出是否通过了验证检查？ 我写了一篇简短的文章，探讨最小可靠性架构并实施了一个小型参考项目来演示这些想法。想谈谈你是如何处理的吗？ Repo：https://github.com/leiye-07/maester   由   提交/u/FormalPark1654  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnxcr4/what_breaks_after_your_ai_demo_works/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:22:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>qRPC：链路层上的低延迟 RPC</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnx3mj/qrpc_low_latency_rpc_over_link_layer/</link>
+      <description><![CDATA[ 由   提交/u/lonew0lf-G   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnx3mj/qrpc_low_latency_rpc_over_link_layer/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何构建在浏览器中运行的 Arduino AVR8 模拟器</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnw4e5/how_i_built_an_arduino_avr8_emulator_that_runs_in/</link>
+      <description><![CDATA[我一直在开发一个名为 Velxio 的项目，这是一个完全在浏览器中运行的 Arduino 模拟器。 这个想法是了解微控制器仿真的内部工作原理以及完整的 Arduino 工作流程（编辑 → 编译 → 模拟）是否可以在浏览器本地运行。 该系统由三个主要部分组成：  使用 AVR8 CPU 仿真avr8js 硬件组件模拟（GPIO、ADC、SPI、I2C、UART） 通过后端的 arduino-cli 进行编译  模拟器以 16 MHz 运行 ATmega328p，并模拟定时器、GPIO 端口和外设，以便 Blink、串行通信和 SPI 设备等标准 Arduino 草图工作。 一个有趣的挑战是同步模拟循环与浏览器渲染循环，同时保持 CPU 状态确定性。 另一个挑战是将硬件外设（SPI、I2C、ADC）映射到交互式 UI 组件。 如果您对实现感到好奇或想要探索代码： https://github.com/davidmonterocrespo24/velxio   由   提交/u/LeadingFun1849   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnw4e5/how_i_built_an_arduino_avr8_emulator_that_runs_in/</guid>
+      <pubDate>Sun, 08 Mar 2026 05:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Wigglypaint 的一些话</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnw0h5/some_words_on_wigglypaint/</link>
+      <description><![CDATA[ 由   提交/u/rogual  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnw0h5/some_words_on_wigglypaint/</guid>
+      <pubDate>Sun, 08 Mar 2026 05:11:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>BlockLike：弥合块编程和 JavaScript 之间的差距。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnvmk7/blocklike_bridging_the_gap_between_block/</link>
+      <description><![CDATA[ 由   提交/u/ronilan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnvmk7/blocklike_bridging_the_gap_between_block/</guid>
+      <pubDate>Sun, 08 Mar 2026 04:51:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免现代 C++ |安东·米哈伊洛夫</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnu5lj/avoiding_modern_c_anton_mikhailov/</link>
+      <description><![CDATA[ 由   提交/u/BlueGoliath  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnu5lj/avoiding_modern_c_anton_mikhailov/</guid>
+      <pubDate>Sun, 08 Mar 2026 03:36:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找教科书📚：有限自动机和形式语言：一种简单的方法，作者：A. M. Padma Reddy，印度培生教育出版。 📚</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnu1d1/looking_for_textbook_finite_automata_and_formal/</link>
+      <description><![CDATA[大家好， 我的大学计算理论/自动机理论教学大纲推荐这本书： 有限自动机和形式语言：一种简单的方法 — A. M. Padma Reddy 这里有人以前用过这本书吗？可以： • 访问合法的PDF 或电子书 • 通过数字图书馆借用 • 找到涵盖相同主题的讲义或替代书籍 如果没有，我也希望推荐优秀的替代教科书，涵盖： 模块一：有限自动机简介  自动机理论的核心概念 确定性有限自动机（DFA） 非确定性有限自动机（NFA） 有限自动机的应用 具有ε-转移的有限自动机  模块II：  正则表达式 正则语言 属性  模块 III：  正则语言的属性 上下文无关语法  模块 IV：  下推自动机 上下文无关语言  模块 V：  图灵机 不可判定性  任何帮助或建议，我们将不胜感激。谢谢！ 🙏 提前致谢！ 📚   由   提交/u/Broad-Ad2003   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnu1d1/looking_for_textbook_finite_automata_and_formal/</guid>
+      <pubDate>Sun, 08 Mar 2026 03:30:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将 Daniel Lemire 的 fast_float 移植到 c99</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnswm5/i_ported_daniel_lemires_fast_float_to_c99/</link>
+      <description><![CDATA[这是一个单头文件，已经针对 fast_float 套件进行了详尽的测试，并且基准测试比 cpp 稍快。 simd，可移植，单头文件，无分配，现在很热门   由   提交/u/foobear777  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnswm5/i_ported_daniel_lemires_fast_float_to_c99/</guid>
+      <pubDate>Sun, 08 Mar 2026 02:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 嵌入解释：视觉直观指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1rnrkiy/llm_embeddings_explained_a_visual_and_intuitive/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rnrkiy/llm_embeddings_explained_a_visual_and_intuitive/</guid>
+      <pubDate>Sun, 08 Mar 2026 01:32:25 GMT</pubDate>
+    </item>
     <item>
       <title>爱与恨与特工</title>
       <link>https://www.reddit.com/r/programming/comments/1rnk7ay/love_and_hate_and_agents/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[ 由   提交/u/Fcking_Chuck  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rncnnk/amd_gaia_016_introduces_c17_agent_framework_for/</guid>
       <pubDate>Sat, 07 Mar 2026 15:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>一人堆栈</title>
-      <link>https://www.reddit.com/r/programming/comments/1rna4v2/the_oneperson_stack/</link>
-      <description><![CDATA[ 由   提交/u/GlitteringPenalty210   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rna4v2/the_oneperson_stack/</guid>
-      <pubDate>Sat, 07 Mar 2026 13:35:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>TEMPEST vs TEMPEST — 本书长度的尝试探索和理解 Dave Theurer 的“Tempest”(1981) 和 Jeff Minter 的“Tempest 2000”(1994) 的代码和工艺</title>
-      <link>https://www.reddit.com/r/programming/comments/1rn70n1/tempest_vs_tempest_booklength_attempt_to_explore/</link>
-      <description><![CDATA[ 由   提交/u/r_retrohacking_mod2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rn70n1/tempest_vs_tempest_booklength_attempt_to_explore/</guid>
-      <pubDate>Sat, 07 Mar 2026 10:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>是什么取消了我的 Go 上下文？</title>
-      <link>https://www.reddit.com/r/programming/comments/1rn0l8f/what_canceled_my_go_context/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rn0l8f/what_canceled_my_go_context/</guid>
-      <pubDate>Sat, 07 Mar 2026 04:42:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>将二进制浮点数转换为最短十进制字符串：实验回顾</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmy23c/converting_binary_floatingpoint_numbers_to/</link>
-      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmy23c/converting_binary_floatingpoint_numbers_to/</guid>
-      <pubDate>Sat, 07 Mar 2026 02:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价戈多</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmw9mr/evaluating_godot/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmw9mr/evaluating_godot/</guid>
-      <pubDate>Sat, 07 Mar 2026 01:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>强化您的应用程序：加强安全性的基本策略（Apple 开发者频道）</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmw8lz/fortify_your_app_essential_strategies_to/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmw8lz/fortify_your_app_essential_strategies_to/</guid>
-      <pubDate>Sat, 07 Mar 2026 01:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>[隐式转换] C# 字符串会默默地杀死 Dapper 中的 SQL Server 索引</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmw614/implicit_casting_of_c_strings_silently_kill_your/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmw614/implicit_casting_of_c_strings_silently_kill_your/</guid>
-      <pubDate>Sat, 07 Mar 2026 01:12:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 在 MCP 服务器基准测试中击败了 Go、Python 和 Node.js</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmtoe4/java_beats_go_python_and_nodejs_in_mcp_server/</link>
-      <description><![CDATA[ 由   提交/u/lprimak  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmtoe4/java_beats_go_python_and_nodejs_in_mcp_server/</guid>
-      <pubDate>Fri, 06 Mar 2026 23:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Claude Code 构建可捕获文档偏差的 GitHub Actions 工作流程</title>
-      <link>https://www.reddit.com/r/programming/comments/1rmqkdf/building_a_github_actions_workflow_that_catches/</link>
-      <description><![CDATA[ 由   提交 /u/Onlydole   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rmqkdf/building_a_github_actions_workflow_that_catches/</guid>
-      <pubDate>Fri, 06 Mar 2026 21:21:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

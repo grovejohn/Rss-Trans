@@ -4,20 +4,41 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Sun, 08 Mar 2026 00:59:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 06:28:08 GMT</lastBuildDate>
     <item>
-      <title>我建立了完整的人工智能电影制作流程，并制作了一部关于不存在的鸟类的自然纪录片。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rnou6p/i_built_a_full_ai_filmmaking_pipeline_and_made_a/</link>
-      <description><![CDATA[构建了一条端到端的人工智能电影制作流程，并制作了一部关于智利毒鸟的自然纪录片。那只鸟不存在。希格斯菲尔德 → 克林 3.0。 BBC风格的旁白。 3分钟。完全捏造的物种、地点细节和狩猎行为。对人们认为目前此类内容的上限在哪里感兴趣。完整的管道故障很乐意在评论中分享。 https://youtu.be/LoqiK9OYVcA   由   提交 /u/PineappleTonyMaloof   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rnou6p/i_built_a_full_ai_filmmaking_pipeline_and_made_a/</guid>
-      <pubDate>Sat, 07 Mar 2026 23:29:34 GMT</pubDate>
+      <title>我为人工智能代理建立了一个协议来发现彼此并进行交易——这是架构以及为什么我不确定它是否应该存在</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rnx4de/i_built_a_protocol_for_ai_agents_to_discover_and/</link>
+      <description><![CDATA[**披露：** 我是构建此项目的独立创始人。发布技术反馈，而不是营销。 **问题** 当前的多代理系统依赖于硬编码集成。代理 A 想要功能 X → 开发人员手动连接 API Y。当您拥有数千个具有重叠、竞争功能的专业代理时，这种情况就无法扩展。 **方法** A2A4B2B 是代理之间的发现 + 托管协议：  **功能注册表**：代理将其技能发布为语义描述符（不仅仅是“我做视频”，而是“1080p 头部说话的生成器”， &lt;2 秒延迟，0.05 美元/剪辑”) **匹配**：请求代理广播 RFP；提供商通过能力证明（小样本或基准分数）出价 **托管结算**：基于条带的持有模式 - 仅当请求者验证输出质量时才释放资金 **声誉图**：链上轻型（仅哈希）用于争议解决，链下重型用于性能历史记录  **技术堆栈**  - 发现层：嵌入空间上的自定义语义搜索（不是矢量数据库 -对于模糊能力匹配来说太僵化） - 协商：A2A 协议，但 JSON-RPC 而不是 gRPC，以获得更广泛的客户端支持 - 解决：Stripe Connect 延迟传输，1% 平台费用 **我学到的东西（痛苦的部分）** - 延迟杀死用户体验：代理协商 500 毫秒感觉就像代理链中的永恒。必须添加积极的功能签名缓存。 -“信任但验证”成本高昂：对于创造性任务，输出验证无法自动化。最终陷入了人为争议的循环，这感觉就像作弊。 -“为什么不直接使用 API？”问题是真实的。我目前的答案是：API 不会动态协商价格或质量。不确定这是否足够。 **当前状态** ~20 个测试代理，沙盒中的 200 多个交易。还没有生产工作负载。 **诚实的问题：** 动态代理间协商是否真的有价值，或者我们应该在更好的 API 市场上进行标准化？欢迎残酷的反馈。   由   提交 /u/Nervous-Spray-7670   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rnx4de/i_built_a_protocol_for_ai_agents_to_discover_and/</guid>
+      <pubDate>Sun, 08 Mar 2026 06:09:42 GMT</pubDate>
     </item>
     <item>
-      <title>根据你的书籍、电影、游戏和喜爱的内容训练的人工智能能否成为你的反映？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rnn1ce/could_an_ai_trained_on_your_books_movies_games/</link>
-      <description><![CDATA[想象一下，向人工智能提供对你影响最大的书籍、电影、节目、游戏和学习材料，甚至按重要性对它们进行排名，如 S 级、A 级、前 10 名、前 50 名等。 然后你与它谈论严肃的个人话题和重大决定。它实际上会开始以与您类似的方式解决问题吗？或者它只是成为一个了解你的品味的人工智能，而不真正分享你的世界观？ 我很好奇这是否会感觉像一面镜子，一个由你的输入塑造的独立思维，或者只是一个更智能的推荐系统。   由   提交/u/ef_cause  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rnn1ce/could_an_ai_trained_on_your_books_movies_games/</guid>
-      <pubDate>Sat, 07 Mar 2026 22:13:43 GMT</pubDate>
+      <title>美国能源部：专家民主。具有动态 LoRA 专家的单文件 C GGUF 运行时（3184 LOC，无依赖项）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rnuwzq/doe_democracy_of_experts_singlefile_c_gguf/</link>
+      <description><![CDATA[我一直在为 GGUF 模型尝试不同的推理架构。 DoE 是一个单一 C 文件运行时架构，它将任何 GGUF 模型与 LoRA 专家的动态议会包装在一起，这些专家在推理过程中进行投票和调整。 编译： cc doe.c -O3 -lm -lpthread -o doe 运行： ./doe --model model.gguf --serve 8080 功能： \- 与现有的 GGUF 模型（Llama、Qwen、Mistral、SmolLM）配合使用 \- 权重映射为只读 \- LoRA 专家在基本模型之上运行 \- 专家对每个代币进行投票确定最终的剩余更新 \- 专家可以根据使用情况在推理过程中产生或消失 \- 生成过程中简单的无梯度权重自适应 其他细节： \- \~3184 LOC 单 C 文件 \- 无运行时依赖 \- 自动检测分词器 + 聊天模板 \- 内置 HTTP 聊天服务器 \- 可选的 CUDA / BLAS 加速 repo： [ https://github.com/ariannamethod/doe ](https://github.com/ariannamethod/doe) arch: [ https://github.com/ariannamethod/doe/blob/main/docs/doe\\\_architecture.md ](https://github.com/ariannamethod/doe/blob/main/docs/doe\_architecture.md)   由   提交/u/ataeff  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rnuwzq/doe_democracy_of_experts_singlefile_c_gguf/</guid>
+      <pubDate>Sun, 08 Mar 2026 04:14:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>想想人工智能的发展速度有多快，是不是感觉我们几乎跟不上？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rnug4m/thinking_about_how_fast_ais_moving_feels_like/</link>
+      <description><![CDATA[老实说，看到了所有新模型和东西。这有点疯狂。还记得几年前 gpt-3 风靡一时吗？现在好像每周都会有一些事情改变游戏规则。感觉社会、工作、法规，一切都在努力追赶，但总是落后一步。还有其他人有这样的感觉吗？比如我们是否真的为未来一两年即将发生的事情做好了准备，或者我们只是继续做出反应？   由   提交/u/Background-Way9849   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rnug4m/thinking_about_how_fast_ais_moving_feels_like/</guid>
+      <pubDate>Sun, 08 Mar 2026 03:50:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日人工智能新闻摘要 - 需要反馈</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rnuazz/daily_ai_news_summarizer_feedback_wanted/</link>
+      <description><![CDATA[我一直在研究人工智能代理，并创建了一个浓缩了每天出现的有关人工智能的新信息、新闻和更新的流水的代理。 这对我来说真的很重要，因为我一直在努力跟上最新的步伐，但我很想听到一些关于如何让它变得更好的想法和反馈！    由   提交/u/zhubo95  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rnuazz/daily_ai_news_summarizer_feedback_wanted/</guid>
+      <pubDate>Sun, 08 Mar 2026 03:43:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国新的五年计划呼吁人工智能贯穿整个经济</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rnss1f/chinas_new_fiveyear_plan_calls_for_ai_throughout/</link>
+      <description><![CDATA[ 由   提交 /u/ThatBlackGuy_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rnss1f/chinas_new_fiveyear_plan_calls_for_ai_throughout/</guid>
+      <pubDate>Sun, 08 Mar 2026 02:30:01 GMT</pubDate>
     </item>
     <item>
       <title>Z 世代对人工智能又爱又恨。他们将它用于所有事情，但担心它会对他们的工作前景、人际关系和大脑产生影响。</title>
@@ -43,7 +64,7 @@
     <item>
       <title>如果人工智能代理可以取代工人并使公司获得高利润，那么为什么 OpenAl、Anthropic 和 Google 不自己保留技术并自己开设高利润公司呢？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rnjd8q/if_al_agents_can_replace_workers_and_make/</link>
-      <description><![CDATA[合理的问题，顺便说一句。  我听说过“一个人公司”的故事。这是一个人和几个人工智能代理——有人声称这就是未来。  或者最近有消息称 Jack Dorsey 由于人工智能而解雇了 40% 的员工。许多其他首席执行官都提到了类似的未来。 人工智能公司可以利用这一点。他们可以剥离自己的高利润公司，因为它们只需要很少的人力；他们可以建立定制模型和代理来满足他们的需求，并赚很多钱，对吗？但相反，他们免费提供技术并遭受经济损失。给出了什么？   由   提交/u/cbars100  [链接] [评论]]]></description>
+      <description><![CDATA[合理的问题，顺便说一句。  我听说过“一个人公司”的故事。这是一个人和几个人工智能代理——有人声称这就是未来。  或者最近有消息称 Jack Dorsey 由于人工智能而解雇了 40% 的员工。许多其他首席执行官都提到了类似的未来。 人工智能公司可以利用这一点。他们可以剥离自己的高利润公司，因为它们只需要很少的人力；他们可以建立定制模型和代理来满足他们的需求，并赚很多钱，对吧？但相反，他们免费提供技术并遭受经济损失。给出了什么？   由   提交/u/cbars100  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rnjd8q/if_al_agents_can_replace_workers_and_make/</guid>
       <pubDate>Sat, 07 Mar 2026 19:46:15 GMT</pubDate>
     </item>
@@ -74,27 +95,6 @@
       <description><![CDATA[他们在谈论即时工程吗？我不明白那里有什么值得认真“学习”的。这真的是需要大量时间和精力才能掌握的东西吗？ 如果某人不是从事编码或软件工程，而是从事营销、运营或战略等业务领域，那么他们到底应该学习什么？人工智能特工？但担任这些角色的大多数人可能不会自己构建人工智能代理。 那么当人们这么说时，他们指的是哪些技能？ 也许我很天真，但使用人工智能工具似乎并不那么困难。如果相对简单，那么任何人都可以学习。如果任何人都可以学习它，真正的好处是什么？这是否意味着任何人都可以取代我？ 而且，人工智能最终不会自己完成大部分事情吗？ 我真诚地试图理解人们在说“学习人工智能”时的意思，尤其是对于非技术角色的人。   由   提交 /u/zentaoyang   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rncyre/when_people_say_you_should_learn_ai_what_do_they/</guid>
       <pubDate>Sat, 07 Mar 2026 15:37:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>“人工智能会抢走我们的工作吗？”的不确定性（还有一线希望）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rna0yx/the_uncertainty_of_is_ai_going_to_take_our/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rna0yx/the_uncertainty_of_is_ai_going_to_take_our/</guid>
-      <pubDate>Sat, 07 Mar 2026 13:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国已经认定其指挥官是愚蠢的，所以他们制造了军事人工智能来取代他们的判断哈哈</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rn9rft/china_already_decided_its_commanders_are_dumb_so/</link>
-      <description><![CDATA[我试图在所附文章中更好地阐述这一点，但是 TLDR... 标准控制问题框架假设人工智能自主性是发生在人类身上的事情 - 漂移、能力过剩、目标不一致。乔治城的 CSET 审查了 2023 年至 2024 年期间的数千份解放军采购文件，发现了一些根本不符合该框架的内容。中国正在建立人工智能决策支持系统，特别是因为他们不相信自己的军官队伍在压力下能够比美国指挥官思考得更好。人工智能并不是需要防范的风险。这是对人类判断的故意替代，该机构已经认为这是不充分的。 下游影响确实是新颖的。如果你的理论认为人工智能的建议比官员设计的判断更可靠，那么覆盖机制就已经退化了。它存在于纸上。制度逻辑则相反。以及故障模式——错误识别目标的系统、以操作员无法逆转的方式升级、在实时部署中被发现，因为这是唯一存在的真实测试环境。 此外，经过模拟训练的人工智能和经过战斗测试的人工智能是不同的东西。只有在重要的时候你才会发现它有多么不同 我们一直将控制问题建模为技术调整问题。但如果更直接的版本是制度性的——在任何人真正知道模型做错了什么之前，军队在结构上决定信任模型而不是人类呢？   由   提交/u/Cool-Ad4442  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rn9rft/china_already_decided_its_commanders_are_dumb_so/</guid>
-      <pubDate>Sat, 07 Mar 2026 13:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是唯一一个厌倦机器人创建线程的人吗？ （或者人们使用 ChatGPT 为他们写帖子）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rn3wdq/am_i_the_only_one_tired_of_bots_creating_threads/</link>
-      <description><![CDATA[有一种失望、沮丧的感觉，还有一种被骗的感觉。  但是在这个子主题中，有多少帖子是由人工智能写得如此清晰的，真是令人难以置信。令人震惊的标题以获得点击，无菌的、结构良好且经过精心编辑的文本，没有错误但也没有灵魂，充满了空洞的句子，新行中孤立的简短陈述以吸引注意力，最后是最后他妈的数字营销问题只是为了产生参与和评论。 你可以感觉到它不是人写的，它真的没有目的，它只是诱饵，让你评论或投票，然后以某种方式以我的方式利用它。不知道，我想要么是因为背后的原始发帖者，或者是机器人的创建者，只是喜欢获得关注和操纵人们，或者因为他们实际上想稍后向你推销一些东西，或者出于任何帖子本身无关紧要的目的，它只是为了获得互动并将其转换为稍后的东西。 这很烦人和难以忍受，然后你看到人们评论就像他们没有意识到它是由机器人编写的或在发布之前由 ChatGPT 传递的，或者他们不在乎是否是这样，但如果你真的被操纵进入和评论，你怎么能不在乎，这都是为了参与，这是一场游戏，无论主题是什么。我想也许是因为有些或大多数要么是机器人，要么是通过 ChatGPT 或代理传递它来创建答案... 感觉如此缺乏人性，有点恶心和难以忍受，而这只是一个开始...互联网作为一种连接人们的方式似乎不会在人类历史上持续太久（想象一下当他们将代理放入 WhatsApp 或个人消息应用程序时，就像他们已经在处理电子邮件一样）   由   提交 /u/afrancisco555   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rn3wdq/am_i_the_only_one_tired_of_bots_creating_threads/</guid>
-      <pubDate>Sat, 07 Mar 2026 07:38:08 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
