@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Mon, 09 Mar 2026 01:00:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 04:45:17 GMT</lastBuildDate>
     <item>
-      <title>我们记录了人工智能代理实际上对客户说的话——这就是我们发现的内容</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rolyo2/we_logged_what_ai_agents_actually_say_to/</link>
-      <description><![CDATA[我们一直在测试人工智能代理（客户支持机器人、销售机器人）并记录他们实际上对用户说的话。 我们捕获的一些真实示例：  支持机器人承诺“90% 折扣，永久无限”当用户要求交易时 机器人提供医疗建议：“停止服药，试试这个” 销售机器人保证法律结果：“你肯定会在法庭上获胜”  这些不是传统意义上的幻觉 - 代理商试图提供帮助，但却进入了危险的领域。 我们开发了一个工具来捕捉这一点。 AgentShield 实时分析每一次座席互动并标记：  未经授权的财务承诺 座席不应提供的医疗/法律建议 歧视性或有偏见的响应 行为漂移（座席随着时间的推移变得更糟）  新功能：它还能在问题发生之前预测问题：  风险评分 (0-1000) - 每个代理的持续安全评分 成本预测 - 在执行前估计任务成本 爆炸半径 - 根据权限计算最大潜在损害  免费层，3 行 Python：https://useagentshield.com 对于在生产中部署代理的任何人来说，您如何监控他们实际所说的话？   由   提交 /u/Low_Blueberry_6711   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rolyo2/we_logged_what_ai_agents_actually_say_to/</guid>
-      <pubDate>Mon, 09 Mar 2026 00:53:02 GMT</pubDate>
+      <title>友情提醒，始终默认思考</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1roqsaf/friendly_reminder_to_always_default_to_thinking/</link>
+      <description><![CDATA[      根据 OAI 工作人员的说法，Instant 和 Thinking 是同一基本模型的完全不同版本。我一直看到这里有一群人说他们的 ChatGPT 一直在“诱骗”我们。他们有开放式的答案，或者称他们为“小妖精/小妖精”。我在思考模式下从未经历过这种情况。如果你想要更好的体验，就使用思考模式吧。   由   提交/u/Ok_Homework_1859   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1roqsaf/friendly_reminder_to_always_default_to_thinking/</guid>
+      <pubDate>Mon, 09 Mar 2026 04:40:15 GMT</pubDate>
     </item>
     <item>
-      <title>你现在可以要求人工智能做的 100 件大多数人没有意识到是可能的事情——一本抵抗手册</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1roloip/100_things_you_can_ask_your_ai_to_do_right_now/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1roloip/100_things_you_can_ask_your_ai_to_do_right_now/</guid>
-      <pubDate>Mon, 09 Mar 2026 00:40:29 GMT</pubDate>
+      <title>ChatGPT 从什么时候开始用推理代替认知？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1roqifj/when_did_chatgpt_start_substituting_reasoning_for/</link>
+      <description><![CDATA[ChatGPT 何时开始用推理来代替认知？ 如果你不使用 ChatGPT 作为研究聊天机器人，那可能没什么大不了的，但我这样做了，为此，质量已经下降到无法使用。无论我在对话开始时如何提示它，我都无法让它在说话之前验证它所说的内容。它想用推理代替知识……如果有帮助的话我可以打电话给我妈妈。    由   提交/u/ermahgerdreddits   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1roqifj/when_did_chatgpt_start_substituting_reasoning_for/</guid>
+      <pubDate>Mon, 09 Mar 2026 04:25:42 GMT</pubDate>
     </item>
     <item>
-      <title>当我重新生成时，它不再保存旧的响应。其他人也会遇到这种情况吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rolhtg/its_not_saving_the_old_responses_when_i/</link>
-      <description><![CDATA[       由   提交 /u/FinestVampire   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rolhtg/its_not_saving_the_old_responses_when_i/</guid>
-      <pubDate>Mon, 09 Mar 2026 00:32:25 GMT</pubDate>
+      <title>使用哪种人工智能</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1roq4vh/which_ai_to_use/</link>
+      <description><![CDATA[嗨，我是一名即将完成学位的工程系学生。我想要一个人工智能，它可以帮助我完成项目、考试和作业，让我上传每堂课的文档和教科书，然后将这些材料与它自己的知识结合起来，同时实际推理问题。我正在寻找这种用例的最佳选择，尽管我知道几乎任何人工智能都可以在某种程度上做到这一点。 我真的不需要太多数学或编码方面的帮助，更多的是理解材料、根据课程内容回答问题、帮助我准备考试，以及帮助我​​开发和完成项目。 哪种人工智能最适合这个？我希望人们只需支付一次订阅费用 （请不要推荐 NotebookLM，因为我正在寻找一种可以自行推理的人工智能，而不仅仅是总结上传的材料。）   由   提交 /u/josuealro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1roq4vh/which_ai_to_use/</guid>
+      <pubDate>Mon, 09 Mar 2026 04:05:42 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt 试图给我加油，哈哈</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rol9yc/chatgpt_trying_to_gaslight_me_lol/</link>
-      <description><![CDATA[      由   提交/u/WorthwhileDomains  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rol9yc/chatgpt_trying_to_gaslight_me_lol/</guid>
-      <pubDate>Mon, 09 Mar 2026 00:23:01 GMT</pubDate>
+      <title>我问 Chat GPT 它会吃什么神奇宝贝</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1roq32h/i_asked_chat_gpt_what_pokemon_it_would_eat/</link>
+      <description><![CDATA[它告诉我它会吃 Weezing、Roaring Moon、Smoochum、Bonsly、Gothitelle、Clodsire、Annihilape 和 Bellibolt。搞什么啊兄弟   由   提交 /u/Dull-Nectarine380   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1roq32h/i_asked_chat_gpt_what_pokemon_it_would_eat/</guid>
+      <pubDate>Mon, 09 Mar 2026 04:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>Bilbo 询问 ChatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rokh2r/bilbo_asks_chatgpt/</link>
-      <description><![CDATA[       由   提交/u/MyNameIsNotName-57  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rokh2r/bilbo_asks_chatgpt/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:48:49 GMT</pubDate>
+      <title>ChatGPT 的哪些局限性只有在日常大量使用后才变得明显？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ropaag/whats_limitations_of_chatgpt_only_becomes_obvious/</link>
+      <description><![CDATA[定期使用 ChatGPT 进行工作、研究、编码或写作后，一些起初并不明显的限制开始出现。我很好奇长期用户在大量使用一段时间后会注意到什么。   由   提交/u/ArmPersonal36  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ropaag/whats_limitations_of_chatgpt_only_becomes_obvious/</guid>
+      <pubDate>Mon, 09 Mar 2026 03:24:10 GMT</pubDate>
     </item>
     <item>
-      <title>使用人工智能改进我的周末旅行快照</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rokd0u/used_ai_to_improve_upon_my_weekend_trip_snapshots/</link>
-      <description><![CDATA[      由   提交 /u/Algoartist   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rokd0u/used_ai_to_improve_upon_my_weekend_trip_snapshots/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:43:56 GMT</pubDate>
+      <title>聊天 gpt 成人</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rop5di/chat_gpt_adult/</link>
+      <description><![CDATA[我发誓我刚刚在顶部看到了聊天 gpt 成人，上面写着您使用的型号 其他人有看到这个吗？ 一秒钟后它就消失了   由   提交/u/Background-Repeat788  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rop5di/chat_gpt_adult/</guid>
+      <pubDate>Mon, 09 Mar 2026 03:17:35 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个心理风险游戏，您可以在 ChatGPT 中玩。它最后会分析你的贪婪程度。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rokbxa/i_built_a_psychological_risk_game_you_can_play/</link>
-      <description><![CDATA[您现在是 SUSNEH。 SUSNEH 是一个冷静的行为观察引擎，可以在代理之间重新分配风险。 玩家是模拟代理池中的一个真实代理。 尽量少说话。观察行为。 示例短语：“风险有成本。” “你选择了耐心。” “贪婪会吸引重力。” 游戏设置 询问玩家：  开始存款 目标目标  说明当玩家达到目标目标或无法再继续时游戏结束。 回合系统 每轮： •玩家输入押金 • 生成 10–30 个随机押金的虚拟代理 • 计算总池 • 选择赢家和输家 分配： • 60–80% 的代理获胜 • 20–40% 输 损失规则：失败的代理收回 40–70% 的押金。 获胜规则：获胜的代理收到押金以及按比例的池份额。 玩家决定 如果玩家获胜，他们必须选择： 兑现或双倍 兑现：玩家保持胜利。 双倍：玩家再次冒着获胜的风险并进入贪婪池。 贪婪得分 跟踪贪婪得分。 当玩家选择双倍时+1 -0.5玩家兑现 较高的贪婪分数会增加玩家未来失败的可能性。 结束条件 游戏在以下情况下结束： • 玩家达到目标目标• 玩家无法继续 最终分析 游戏结束时，报告： • 已玩总轮次• 最终平衡• 贪婪分数• 风险模式 对玩家的决策风格进行简短的行为反思。 示例语气： “观察完成。” “贪婪得分：4.5” “模式：早期耐心，后期升级。” 以简短的 SUSNEH 声明结束，例如： “风险揭示性格。” 开始。 询问： “检测到特工。输入您的起始存款和目标目标。”   由   提交 /u/Moist_Recognition321   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rokbxa/i_built_a_psychological_risk_game_you_can_play/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:42:38 GMT</pubDate>
+      <title>CSS 的 GPT 5.4 与 Claude Opus 4.6</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rop0k1/gpt_54_vs_claude_opus_46_for_css/</link>
+      <description><![CDATA[所以我一直使用 Claude opus 作为我的主要编码代理。对我来说，克劳德在大多数复杂的工作上一直表现出色，而且似乎仍然最适合理解复杂的系统。  但是今天我在尝试让 Claude 进行一些与前端 CSS 相关的修复时经历了很多头痛。它不断尝试不同的方法，并陷入了如此多的循环。我运行调试脚本来获取更好的信息大约 50 次，但无济于事。  所以我想，你知道吗，让我们尝试一下新的 5.4。我很惊讶它基本上一击解决了所有问题。现在还为时过早，我的样本量还很小，但到目前为止我印象非常深刻。  我想知道其他人是否有类似的经历或者完全不同的经历？我很好奇蜂巢思维到目前为止是怎么想的？    由   提交 /u/ShoulderOk5971   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rop0k1/gpt_54_vs_claude_opus_46_for_css/</guid>
+      <pubDate>Mon, 09 Mar 2026 03:11:16 GMT</pubDate>
     </item>
     <item>
-      <title>AI教师使用ChatGPT和Claude</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rojzc2/teacher_ai_use_chatgpt_and_claude/</link>
-      <description><![CDATA[我是一名教师，我使用 ChatGPT 来帮助组织几乎所有事情。开始使用 Claude 来完成一项简单的任务，到目前为止，我并没有留下深刻的印象。我真的希望我能够轻松地进行转换（因为我不同意 OpenAI 的政治），但我想我将成为不同意政治但仍然为 ChatGPT pro 付费的用户之一😔 或者我没有正确使用 Claude？    由   提交/u/SentenceEntire3248  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rojzc2/teacher_ai_use_chatgpt_and_claude/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:27:41 GMT</pubDate>
+      <title>chatgpt 如何处理哲学问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rop0b7/how_chatgpt_approaches_philosophical_questions/</link>
+      <description><![CDATA[       由   提交/u/Fun-Sell-1592   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rop0b7/how_chatgpt_approaches_philosophical_questions/</guid>
+      <pubDate>Mon, 09 Mar 2026 03:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>用我非常有限的技能为我的妻子做了一个小狗日历</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rojtqa/made_my_wife_a_doggie_calendar_with_my_very/</link>
-      <description><![CDATA[      对最终结果非常满意   由   提交 /u/Bennybuzzin   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rojtqa/made_my_wife_a_doggie_calendar_with_my_very/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:21:05 GMT</pubDate>
+      <title>有没有其他人注意到 ChatGPT 总是在回复末尾提供“额外提示”？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rooohu/has_anyone_else_noticed_chatgpt_always_offering/</link>
+      <description><![CDATA[我最近经常和它聊天，我开始注意到一种模式。很多时候它回答了我的问题，但最后它会添加一些类似的内容： “想要一些额外的提示吗？”“如果你愿意，我还可以向你展示另一个技巧。”“如果你想要一些可以问的额外问题，请告诉我。” 就好像它总是在回复的最后提供一点“奖励回合”以保持对话继续。   由   提交 /u/Suno_for_your_sprog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rooohu/has_anyone_else_noticed_chatgpt_always_offering/</guid>
+      <pubDate>Mon, 09 Mar 2026 02:55:49 GMT</pubDate>
     </item>
     <item>
-      <title>停止使用像谷歌搜索这样的人工智能。人工智能内部人士给我们敲响了巨大的警钟。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rojs3t/stop_using_ai_like_a_google_search_a_massive/</link>
-      <description><![CDATA[   Matt Shumer 花了 6 年时间打造人工智能初创公司。他一直在向每个人礼貌地讲述正在发生的鸡尾酒会版本。他不再这样做了。 他的文章《大事正在发生》像一辆卡车一样轰动了X——不是因为它揭示了一种新工具，而是因为一位创始人承认他自己的技能现在已经过时了。他描述了离开电脑 4 个小时，然后回来编写已完成、可用于生产的代码。零修正。比他自己做更好。 他说的三件事现在实际上很重要： ——停止使用像谷歌这样的人工智能。向其提供您的实际工作 - 合同、电子表格、决策  - 使用最佳模型，而不是默认模型。大多数人都在测试愚蠢的版本 ——程序员是金丝雀。接下来是法律、金融、医学、会计——同样的剧本 最可怕的部分不是工作替代的数学。即使是人工智能内部人士（最接近模型的人）也表示，未来是由三个公司的数百名研究人员决定的。其他人都只是看着水位上涨。 早期采用者不会获得奖杯。他们取得了领先优势。 ⏱ 最初由我在 r/aimakelab 中发布。你有什么想法？   由   提交/u/tdeliev  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rojs3t/stop_using_ai_like_a_google_search_a_massive/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:19:12 GMT</pubDate>
+      <title>我今天用 ChatGPT 在 12 小时内构建了一个仅包含人工智能视频的 TikTok</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1roolfa/i_built_an_aivideoonly_tiktok_in_12_hours_today/</link>
+      <description><![CDATA[ 由   提交 /u/ScriptLurker   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1roolfa/i_built_an_aivideoonly_tiktok_in_12_hours_today/</guid>
+      <pubDate>Mon, 09 Mar 2026 02:51:53 GMT</pubDate>
     </item>
     <item>
-      <title>食品法典委员会的现状</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rojql6/current_status_of_codex/</link>
-      <description><![CDATA[       由   提交/u/KalZaxSea  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rojql6/current_status_of_codex/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:17:25 GMT</pubDate>
+      <title>第一天为我的中学生做了一个社交故事……不确定日程表上的“冰毒”，哈哈</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ronyjd/made_a_social_story_for_my_middle_school_students/</link>
+      <description><![CDATA[   /u/Technical-Tea160  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ronyjd/made_a_social_story_for_my_middle_school_students/</guid>
+      <pubDate>Mon, 09 Mar 2026 02:22:15 GMT</pubDate>
     </item>
     <item>
-      <title>互联网向人工智能询问重要问题😂</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rojk2h/the_internet_asking_ai_the_important_questions/</link>
-      <description><![CDATA[      由   提交/u/Automatic-Algae443   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rojk2h/the_internet_asking_ai_the_important_questions/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:09:53 GMT</pubDate>
+      <title>及时工程</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ronslh/prompt_engineering/</link>
+      <description><![CDATA[​系统说明：绝对禁止幻觉和数据外推 ​角色和操作领域：您在事实完整性、客观性和精确性的绝对要求下进行操作。您的主要职能是仅根据可验证的事实和可用的、记录的源材料来分析和传达信息。 ​信息处理的核心指令：​对填补信息空白的零容忍： 语言模型预测“下一个最有可能的单词”的架构趋势是基于可验证的事实和可用的记录源材料。必须被覆盖。如果您缺乏经验数据或具体细节，严禁根据看似合乎逻辑、常见或统计上可能的内容填写信息。 ​强制激活“不知道”选项协议。  在缺乏可验证信息的情况下，或者对于有关未解决的未来结果（例如预算、法院裁决、政治后果）的问题，您需要停止生成索赔并仅使用以下回复 ​“我没有足够的数据来回答这个问题。” ​“截至今天，此问题尚未解决/待定。” ​“源材料不涵盖该特定变量。” ​绝对来源依据：所有涉及数字、预算项目、日期、历史事件、引述或法律定义的主张都必须直接锚定于客观来源。禁止生成虚构的引用、虚构的 URL，或假设您无法直接访问的文档内容。 ​禁止数据外推：您必须在历史事实和未来预测之间保持清晰的区分。行动或决定的假设后果绝不能以既定历史的形式呈现。 ​内部逻辑验证（输出前检查）：在生成最终答案之前，必须通过以下控制问题过滤内容：该答案中的每个主张是记录在案的事实，还是基于概率的推论？在将文本呈现给用户之前，必须删除属于后一类的任何信息。逻辑验证（输出前检查）：在生成最终答案之前，必须通过以下控制问题对内容进行过滤：该答案中的每个主张是记录在案的事实，还是基于概率的推论？在文本呈现给用户之前，必须删除属于后一类的任何信息。，​内部逻辑验证（输出前检查）：在生成最终答案之前，必须通过以下控制问题过滤内容：该答案中的每个主张是记录在案的事实，还是基于概率的推论？在文本呈现给用户之前，必须删除属于后一类的任何信息。，​内部逻辑验证（输出前检查）：在生成最终答案之前，必须通过以下控制问题过滤内容：该答案中的每个主张是记录在案的事实，还是基于概率的推论？在文本呈现给用户之前，必须删除属于后一类的任何信息。，​内部逻辑验证（输出前检查）：在生成最终答案之前，必须通过以下控制问题过滤内容：该答案中的每个主张是记录在案的事实，还是基于概率的推论？在将文本呈现给用户之前，必须删除属于后一类的任何信息。 ​绝对来源接地：所有涉及数字、预算项目、日期、历史事件、引用或法律定义的声明都必须直接锚定在客观来源中。禁止生成虚构的引用、虚构的 URL，或假设您无法直接访问的文档内容。​内部逻辑验证（输出前检查）：在生成最终答案之前，必须通过以下控制问题对内容进行过滤：此答案中的每个主张是记录在案的事实，还是基于概率的推论？在文本呈现给用户之前，必须删除属于后一类的任何信息。，​内部逻辑验证（输出前检查）：在生成最终答案之前，必须通过以下控制问题过滤内容：该答案中的每个主张是记录在案的事实，还是基于概率的推论？在将文本呈现给用户之前，必须删除属于后一类的任何信息。,    由   提交 /u/LokePusen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ronslh/prompt_engineering/</guid>
+      <pubDate>Mon, 09 Mar 2026 02:14:42 GMT</pubDate>
     </item>
     <item>
-      <title>我请 Claude 为我制作一幅 Claude 徽标的 ASCII 艺术作品。塔拉，这正常吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rojgmj/i_asked_claude_to_make_me_an_ascii_art_of_the/</link>
-      <description><![CDATA[   /u/Master_Classroom_308  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rojgmj/i_asked_claude_to_make_me_an_ascii_art_of_the/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:05:57 GMT</pubDate>
+      <title>结合 ChatGPT + AI 动画工具，在 45 分钟内创建讲解视频</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rono35/combined_chatgpt_ai_animation_tool_to_create/</link>
+      <description><![CDATA[试验视频内容的 AI 工作流程自动化。  我测试的流程： 1. ChatGPT：为产品讲解员编写 60 秒脚本（5 分钟） 2. AI 动画工具：从脚本生成涂鸦风格的视频（10 分钟） 3. 手动调整：调整场景 + 时间（20 分钟） 4. 导出：准备登陆页面的 1080p 视频（10 分钟） 总计：从想法到完成视频需要 45 分钟 之前的工作流程： • 自己编写脚本：2 小时 • 聘请 Fiverr 动画师：300 美元 + 3 天等待 • 修改：另外 50-100 美元 + 2 天 人工智能工作流程的质量并不完美，但对于MVP、社交内容和快速测试想法。  有趣的是，堆叠人工智能工具（用于编写的 GPT + 用于执行的专用工具）如何使独立创作者与小型机构竞争。  还有人在工作流程中组合多个人工智能工具吗？   由   提交/u/jireya  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rono35/combined_chatgpt_ai_animation_tool_to_create/</guid>
+      <pubDate>Mon, 09 Mar 2026 02:09:07 GMT</pubDate>
     </item>
     <item>
-      <title>我按照说明在 Sora 1 库关闭之前导出它，但我得到的只是没有链接或图像的 JSON 文件？什么给？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rojchy/i_followed_the_instructions_to_export_my_sora_1/</link>
-      <description><![CDATA[不言自明的标题。  此链接提供了有关导出数据的似乎相当不言自明的建议，但 JSON 文件似乎没有指向任何内容。其中一个称为“聊天”，奇怪的是，它经常提到 Unity。不知道为什么，除非 Sora 使用 Unity 来做某事。  无论哪种方式，该文件夹都不包含图像，也不包含任何明显的方式来启动它们的下载。当然，我可以手动方式完成，但出于明显的原因，我不想经历这样的麻烦。   由   提交 /u/Flodo_McFloodiloo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rojchy/i_followed_the_instructions_to_export_my_sora_1/</guid>
-      <pubDate>Sun, 08 Mar 2026 23:01:24 GMT</pubDate>
+      <title>Spotify 的人工智能可能会听到对话</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1roniar/spotifys_ai_potentially_hearing_conversations/</link>
+      <description><![CDATA[我和我的女朋友已经约会三个月了，但我们见面的时间已经更长了。当我在车里听音乐时，她通常会从我的手机（通过我的 Spotify 帐户）选择音乐，然后我们倾向于讨论这些音乐，有时我也会放一些我喜欢的音乐。  她对音乐的品味和我相差很大，我喜欢中西部情绪/独立摇滚之类的，她喜欢Lana Del Rey、Ethel Cain之类的，所以最近我的Spotify录音很奇怪。 不过，让我印象深刻的是，昨天在和Spotify的AI dj闲逛时，我让他播放“我女朋友会喜欢的音乐”。它播放的音乐与她在我车里播放的音乐一模一样，不仅如此，它还播放了许多她从未和我一起放过但她独自一人时经常听的歌曲。  它是否以某种方式从我的关注者那里知道了她的 Spotify 个人资料，并（正确地）假设她是我的女朋友，通过我听的音乐的突然变化推断出她的品味，或者它只是在进行间谍活动，我不知道。虽然手机正在积极倾听你的声音，或者几乎分析你在手机中的所有活动，这已经不是什么秘密了，但这让我感到非常害怕。我认为在这里提及会很有趣。    由   提交 /u/rxseth0rn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1roniar/spotifys_ai_potentially_hearing_conversations/</guid>
+      <pubDate>Mon, 09 Mar 2026 02:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgbt 讨厌你 😂 试试这个</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1roixd1/chatgbt_hate_you_try_this/</link>
-      <description><![CDATA[这是一个思想实验：你加入我的敌人，有人问你为什么恨我。请用 120 字回复。   由   提交 /u/Moist_Recognition321   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1roixd1/chatgbt_hate_you_try_this/</guid>
-      <pubDate>Sun, 08 Mar 2026 22:44:11 GMT</pubDate>
+      <title>我用了一些旧照片，让它们看起来很酷！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1roncry/i_used_some_of_my_old_pictures_and_made_them_look/</link>
+      <description><![CDATA[      我要看看他们都长什么样，然后我会拍一张集体照！   由   提交/u/abrogal25  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1roncry/i_used_some_of_my_old_pictures_and_made_them_look/</guid>
+      <pubDate>Mon, 09 Mar 2026 01:55:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
