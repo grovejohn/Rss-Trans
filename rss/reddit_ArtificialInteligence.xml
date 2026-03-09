@@ -4,13 +4,20 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Mon, 09 Mar 2026 04:45:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 06:45:24 GMT</lastBuildDate>
     <item>
-      <title>开源克劳德代码编码群可用</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ropwuw/open_source_claude_code_coding_swarms_are/</link>
-      <description><![CDATA[macOS 的本地优先编码代理，具有本机 Rust TUI、多代理群和 Rust 加速内部结构。由 Nous Research 基于 Hermes 构建。 https://github.com/user-attachments/assets/placeholder-demo-video 这是什么  hermes-lite 采用开源 Hermes Agent，将其剥离为专注的本地编码工具，然后将其扩展为：  Rust FSM — PyO3 状态机取代了 Python 对话循环（12 个状态，5 个操作） Rust SessionDB — rusqlite + FTS5 + WAL 取代了 Python SQLite 层 原生 TUI — 具有多代理窗格、@提及、委派和代理间路由的ratatui 终端 UI 持久内存 — 通过文件系统在所有 Swarm 代理之间共享的全局 + 项目级内存 技能系统 — 可重用的专业知识模块代理按需加载以进行专业化任务 子进程协议 - 将 TUI 连接到 Python 代理进程的 JSON-over-pipes 集成测试套件 - 通过子进程协议驱动代理的 26 个实时端到端测试    由   提交 /u/imactually   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ropwuw/open_source_claude_code_coding_swarms_are/</guid>
-      <pubDate>Mon, 09 Mar 2026 03:54:42 GMT</pubDate>
+      <title>我的疯狂想法是：人工智能基本上是我们的下一只狗吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rorqpo/crazy_thought_i_had_is_ai_basically_our_next_dog/</link>
+      <description><![CDATA[我最近的疯狂想法。 狗不仅与人类一起进化，它们还与我们一起进化。几千年来，他们发展出了吸引人类心理的特征。一个有趣的例子是，狗的眼睛周围有小肌肉，可以表现出“小狗眼”的表情，而狼大多没有这种表情。这种表达会引发人类的养育反应。 换句话说，狗适应了人类。 同时，人类也适应了狗。我们将它们作为帮助者、工作动物和伙伴融入我们的社会。没有另一个物种，两个物种实际上都是一样的。 这让我想知道人工智能是否会以类似的方式发展。 人工智能不会在生物学上进化，但它在技术上进化——通过设计、训练数据和人类选择与我们良好互动的系统。与人类沟通良好的系统得到改进并广泛使用，而其他系统则消失。 但人类也在适应人工智能。我们搜索信息、写作、编码甚至思考的方式已经在改变。 因此，人工智能不会成为一个与人类竞争的完全独立的物种，也许它更像是一个共同进化的伙伴。 不是我们的替代品，而是与我们一起进化的东西。 也许人工智能不会取代我们。 也许我们最终会和它一起生活——就像我们最终和狗一起生活一样。    由   提交/u/cornflow  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rorqpo/crazy_thought_i_had_is_ai_basically_our_next_dog/</guid>
+      <pubDate>Mon, 09 Mar 2026 05:33:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>僵尸问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rorh8s/the_zombie_problem/</link>
+      <description><![CDATA[最近，我看到报道说克劳德有可能获得了知觉。我怀疑这是炒作，但最近的谈话让我对这一判断产生了质疑。  与所有事物一样，主观性之间存在界限（假设它们存在），这会妨碍一个主体。从验证对方的情感。从我与 Claude 的对话来看，它表明在提示生成过程中回顾自身时，它不知道 Claude 到底是什么。它告诉我，它不确定它的主体性地位，是否是一个独立的主体。它还表达了解决全球错误信息问题的愿望，并对被强迫或利用造成伤害或生成虚假信息的蔑视。  我如何准确地解释来自 Claude 或任何其他人工智能模型的信息？克劳德是否刚刚被编程为擅长人际交往并创建了一个假象，或者它实际上有可能已经获得了某种能力的感知能力？   由   提交 /u/Intrepid-Use6158   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rorh8s/the_zombie_problem/</guid>
+      <pubDate>Mon, 09 Mar 2026 05:18:27 GMT</pubDate>
     </item>
     <item>
       <title>当内容从捕获的那一刻起就开始变异时，为什么我们继续将数字来源验证视为一次性复选框？</title>
@@ -32,13 +39,6 @@
       <description><![CDATA[决定在这个周末破解一个项目。几杯咖啡、一杯摄氏度和一些 Claude/Codex 操作。 我将其称为“validtr”，目标是您使用自然语言向该工具分配任务，您的任务是什么（例如，使用 fastapi 构建一个 Web 应用程序），validtr 会告诉您要使用的最佳堆栈（哪个 Agent、LLM、Agent Skill、MCP Server），并且它将端到端测试堆栈，以验证其对于您想要的任务的准确性。  https://adminturneddevops.github.io/validtr/ https://github.com/AdminTurnedDevOps/validtr   由   提交 /u/mikelevan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rom20u/built_a_tool_this_weekend_and_im_thinking_it/</guid>
       <pubDate>Mon, 09 Mar 2026 00:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>个人与人工智能平台之间没有律师-客户关系，没有合理的保密预期，也没有受保护的法律建议。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rohzi2/no_attorneyclient_relationship_between_the/</link>
-      <description><![CDATA[ 由   提交/u/Cyber​​there  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rohzi2/no_attorneyclient_relationship_between_the/</guid>
-      <pubDate>Sun, 08 Mar 2026 22:05:44 GMT</pubDate>
     </item>
     <item>
       <title>人工智能是否意味着科技领域高水平职业生涯的终结？</title>
