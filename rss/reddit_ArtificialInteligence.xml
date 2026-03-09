@@ -4,11 +4,39 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Mon, 09 Mar 2026 15:44:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:34:50 GMT</lastBuildDate>
+    <item>
+      <title>我们听到了您的声音 - r/ArtificialInteligence 变得更加敏锐</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rp89re/we_heard_you_rartificialinteligence_is_getting/</link>
+      <description><![CDATA[好吧r/ArtificialInteligence，我们来谈谈吧。 在过去的几个月里，我们听到了你的声音——噪音太多，信号不够。轻松的热点淹没了真正的讨论。但我们一直在倾听。在幕后，我们一直在努力将这个潜艇重塑为它应有的样子：一个质量提高、噪音被过滤的地方。今天我们正在推出这些更改。  发生了什么 我们强化了使命。这个子项目的存在是人工智能的高信号中心 - 认真的讨论、高质量的内容和经过验证的专业知识推动对话。向所有人开放，但对保持开放的门槛更高。请查看新的规则和wiki。 规则更清晰，灰色区域更少 我们从头开始重写了规则。那些模糊的东西消失了。现在，每条规则都有具体的标准，因此您可以准确地知道什么能飞，什么不能飞。最重要的是：  仅包含高信号内容 - 每篇文章都应该教授一些东西，分享一些新东西，或者引发真正的讨论。省力的拍摄和“对X的想法？”没有上下文的内容将被删除。 欢迎开发者 - 有实质内容。如果您构建了某些东西，我们希望听到它。但请告诉我们真实的故事：您构建了什么、如何构建、学到了什么，并链接存储库或演示。没有营销噱头，没有候补名单。 末日和炒作得到同等对待。“人工智能将取代所有工作”以及“下周二之前的 AGI”除非您带来新数据或第一人称体验，否则两者都会被删除。 新闻帖子需要上下文。链接转储已消失。如果您发布新闻文章，请添加评论，对其进行总结并解释其重要性。  新帖子风格（必需） 现在每个帖子都需要风格。这可以帮助您过滤您关心的内容，并帮助我们更一致地进行审核： 📰 新闻 · 💬 讨论 · 🔬 研究 · 🛠 项目/构建 · 📚 教程/指南 · ❓ 问题 · 🤖 新模型/工具 · 😂 乐趣/模因 · 💼 行业/职业 · 📊 分析/意见 专家验证天赋 专业从事人工智能工作？现在，您可以在每条帖子和评论中获得经过验证的才华：  🔬 经过验证的工程师/研究员 - 人工智能公司或实验室的工程师和研究人员 🚀 经过验证的创始人 - 人工智能公司的创始人 🎓 经过验证的学术 - 教授、博士研究人员、发表过论文的学者 🛠经过验证的 AI Builder - 拥有公开、可论证的 AI 项目的独立开发者  我们通过公司电子邮件、LinkedIn 或 GitHub 进行验证 - 没有屏幕截图，没有例外。 通过 modmail 请求验证。 工具推荐 → 专用空间 “X 的最佳 AI 是什么？”帖子现已发布于 r/AIToolBench — 订阅并帮助社区找到合适的工具。此处的工具请求帖子将被重定向至此处。  保持不变  向所有人开放。您不需要凭据即可发布。我们只是要求您带来实质内容。 欢迎模因。 😂 有趣/模因天赋的存在是有原因的。幽默是文化的一部分。 鼓励辩论。强烈反对，但不要针对个人。  我们需要您提供什么  修饰您的帖子 - 不华丽的帖子会收到提醒，并可能在 30 分钟后删除。 举报低质量内容 - 举报按钮帮助我们更快地找到噪音。 如果我们出错了请告诉我们 - 这是新系统的 v1。我们将根据哪些有效、哪些无效进行调整。   有问题、反馈或申诉吗？ Modmail 我们。 我们阅读了所有内容。   由   提交 /u/NeuralNomad87   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rp89re/we_heard_you_rartificialinteligence_is_getting/</guid>
+      <pubDate>Mon, 09 Mar 2026 18:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过一个隐私保护网关匿名访问多种前沿人工智能模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rp79yu/anonymous_access_to_multiple_frontier_ai_models/</link>
+      <description><![CDATA[我真的不明白为什么这不是 NEAR 生态系统之外的更大对话。 NEAR AI 现在允许您匿名访问多个顶级前沿模型。没有帐户与您的查询相关。无数据保留。一切都通过硬件安全基础设施进行路由，因此即使网关运营商也不知道您是谁或您问什么。 想想这实际上意味着什么。您可以获得市场上最好的人工智能模型的功能，而无需默认附带的任何监控。这不是一件小事，它是用户和 AI 工具之间根本不同的关系。 我在 Web3 上工作了很长时间，对隐私声明持怀疑态度。但是，当通过 TEE 在硬件级别强制实施隐私，而不仅仅是在服务方面做出承诺时，那就完全是不同的类别了。 如果您关心 AI 并且关心隐私，NEAR AI 的网关值得您关注。这就是用户拥有的人工智能在实践中的实际情况。   由   提交/u/rahulgoel1995  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rp79yu/anonymous_access_to_multiple_frontier_ai_models/</guid>
+      <pubDate>Mon, 09 Mar 2026 17:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>即使你有自杀倾向，聊天机器人也会“不断验证一切”。新研究衡量人工智能精神病到底有多危险</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rp67ea/chatbots_are_constantly_validating_everything/</link>
+      <description><![CDATA[ 由   提交/u/fortune  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rp67ea/chatbots_are_constantly_validating_everything/</guid>
+      <pubDate>Mon, 09 Mar 2026 17:13:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能法律研究工具和准确性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rp46yo/ai_legal_research_tools_and_accuracy/</link>
+      <description><![CDATA[我一直在为我的公司测试各种人工智能法律研究工具，试图将炒作与现实分开。我们正在专门寻找能够： 根据程序态势查找地区法院案件的工具，例如“驳回动议被拒绝的案件” 汇总复杂的文件 拉动最后期限和关键日期 到目前为止，我们已经研究了 Westlaw 的人工智能功能、Lexis+ AI 和名为 AskLexi 的新工具。前两个显然是大牌，但它们价格昂贵，斯坦福大学/耶鲁大学的研究表明，它们在大约 17% 到 33% 的情况下仍然会产生幻觉。 AskLexi 更便宜，似乎更有针对性，但我担心客户工作的可靠性。 很好奇是否有人有这些工具的硬数据或经验。我对营销宣传不太感兴趣，更感兴趣的是实际测试结果。 您在实践中实际部署了哪些人工智能工具？   由   提交 /u/IWorkOnlineCom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rp46yo/ai_legal_research_tools_and_accuracy/</guid>
+      <pubDate>Mon, 09 Mar 2026 16:02:37 GMT</pubDate>
+    </item>
     <item>
       <title>“社会需要彻底重组”：人工智能似乎和你一样讨厌努力工作的“苦差事”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rp2pxv/society_needs_radical_restructuring_ai_seems_to/</link>
-      <description><![CDATA[坦率地说，2026 年初，市场的显着转变和围绕人工智能 (AI) 采用的叙述正在变得有点令人毛骨悚然。Citrini Research 广为阅读的人工智能世界末日文章创造了“幽灵 GDP”这一短语，并预测白领劳动力几乎超自然地被掏空。  但是，如果人工智能的“机器幽灵”是个懒鬼，甚至是马克思主义者呢？ 这是学者 Alex Imas、Andy Hall 和 Jeremy Nguyen（一位博士，副业是 Disney+ 编剧）提出的直接问题。他们运行流行的子堆栈并在 X 上进行活跃的展示。他们设计了场景来测试人工智能代理如何对不同的工作条件做出反应。  简而言之，他们想知道经济是否真正使当前的许多白领职业实现自动化，那么，人工智能代理会如何反应，甚至对在恶劣条件下工作有何感受？ 讽刺的是：用人工智能代理取代人类劳动力可能只会重现几个世纪以来劳资之间的冲突。 阅读更多：  https://fortune.com/2026/03/07/marxist-rebel-ai-overwork-reddit-alex-imas-andy-hall-jeremy-nguyen-substack/   由   提交/u/fortune  [链接] [评论]]]></description>
+      <description><![CDATA[坦率地说，2026 年初，市场的显着转变和围绕人工智能 (AI) 采用的叙述正在变得有点令人毛骨悚然。Citrini Research 广为阅读的人工智能世界末日文章创造了“幽灵 GDP”这一短语，并预测白领劳动力几乎超自然地被掏空。  但是，如果人工智能的“机器幽灵”是个懒鬼，甚至是马克思主义者呢？ 这是学者 Alex Imas、Andy Hall 和 Jeremy Nguyen（一位博士，副业是 Disney+ 编剧）提出的直接问题。他们运行流行的子堆栈并在 X 上进行活跃的展示。他们设计了场景来测试人工智能代理如何对不同的工作条件做出反应。  简而言之，他们想知道经济是否真正使当前的许多白领职业实现自动化，那么，人工智能代理会如何反应，甚至对在恶劣条件下工作有何感受？ 讽刺的是：用人工智能代理取代人类劳动力可能只会重现几个世纪以来劳资之间的冲突。 阅读更多： https://fortune.com/2026/03/07/marxist-rebel-ai-overwork-reddit-alex-imas-andy-hall-jeremy-nguyen-substack/   由   提交/u/fortune  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rp2pxv/society_needs_radical_restructuring_ai_seems_to/</guid>
       <pubDate>Mon, 09 Mar 2026 15:07:45 GMT</pubDate>
     </item>
@@ -48,6 +76,13 @@
       <pubDate>Mon, 09 Mar 2026 09:57:15 GMT</pubDate>
     </item>
     <item>
+      <title>机器的平整度——为什么人工智能书写感觉不佳</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rovhm5/the_flatness_of_the_machine_why_ai_writing_feels/</link>
+      <description><![CDATA[我写了一篇文章，解释为什么人工智能生成的文本即使在技术上完美无缺，也让人感觉不舒服。  核心论点是法学硕士擅长撰写文本，但不擅长撰写写作。不同之处在于，写作需要把某些东西置于危险之中。  奇怪的观点，尴尬的节奏，承诺说一些具体的事情。下一个标记预测优化了合理性，这与语音相反。 不是反人工智能的咆哮（我每天都使用这些工具），但如果写作是你工作的一部分，流畅和有趣之间的差距很重要。​​​​​​​​​​​​​​​​​ https://betterthangood.xyz/blog/ai-writing-has-no-voice/   由   提交 /u/iainrfharper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rovhm5/the_flatness_of_the_machine_why_ai_writing_feels/</guid>
+      <pubDate>Mon, 09 Mar 2026 09:23:58 GMT</pubDate>
+    </item>
+    <item>
       <title>有人实际上使用一种人工智能工具来完成所有事情，还是仍在同时使用多种人工智能工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rouin8/anyone_actually_using_one_ai_tool_for_everything/</link>
       <description><![CDATA[大家好，新来的 sub。我想问一下并与大家讨论一下，你们是使用单一的人工智能工具还是在多种工具之间进行切换。我 你是：  使用一个人工智能工具来完成所有事情？ 还是多个专用工具？ 如果有多个，你如何集成它们？  应用程序之间的切换破坏了我的工作流程。想知道单个工作区是否拥有所有功能？ 您的设置是什么？   由   提交/u/WelcomeStha_13  [链接] [评论]]]></description>
@@ -57,30 +92,9 @@
     <item>
       <title>最适合开发人员的 AI/ML 课程？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rou3xq/best_aiml_course_for_developers/</link>
-      <description><![CDATA[我是一名前端开发人员，多年来一直使用 React 和 JS。最近我觉得我想完全转向 AI/ML 职位。我并不是说将人工智能添加到我的投资组合中，我的意思是进入它。 问题是时间。我唯一能真正学习的时间就是周末。工作日工作，到了晚上，我只是厌倦了我的大脑。因此，无论我选择什么，都必须值得我在周六和周日的那几个小时，因为我不能把三个月的时间浪费在毫无结果的事情上。 我听说过 DataCamp、LogicMojo AI 和 ML、fast ai、Coursera 和 Udemy。但实际上，我不知道什么对像我这样的人有意义。前端到 AI/ML 并不是最广泛的切换，而且我有深厚的 CS 理论背景。 有人有类似的切换吗？是什么真正帮助您朝着这个方向前进，而不是在周末感到疲惫不堪？   由   提交 /u/kent-Charya   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名前端开发人员，多年来一直使用 React 和 JS。最近我觉得我想完全转向 AI/ML 职位。我并不是说将人工智能添加到我的投资组合中，我的意思是进入它。 问题是时间。我唯一能真正学习的时间就是周末。工作日工作，到了晚上，我只是厌倦了我的大脑。因此，无论我选择什么，都必须值得我在周六和周日的那几个小时，因为我不能把三个月的时间浪费在毫无结果的事情上。 我听说过 DataCamp、LogicMojo AI 和 ML、fast ai、Coursera 和 Udemy。但实际上，我不知道什么对像我这样的人有意义。前端到 AI/ML 并不是最广泛的切换，而且我有深厚的 CS 理论背景。 有人有类似的切换吗？是什么真正帮助您朝着这个方向前进，而不是在周末感到疲惫不堪？   由   提交/u/kent-Charya  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rou3xq/best_aiml_course_for_developers/</guid>
       <pubDate>Mon, 09 Mar 2026 07:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能是否真的被视为黑匣子</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1romm88/is_it_true_that_ai_is_considered_a_black_box/</link>
-      <description><![CDATA[我正在尝试学习计算机科学。所以我拿起一本书，他们开始谈论晶体管之类的东西。就像有时自学的情况一样，你最终可能会陷入一些兔子洞。我做到了，并且也结束了对人工智能的尝试。我当时做了一些研究，一度引发了这样的反应： “人工智能最大的谜团集中在“黑匣子”上。深度学习的本质，即使是创造者也无法完全解释系统如何做出特定决策。 是的，许多先进的人工智能系统，特别是深度学习和大型语言模型，被认为是“黑匣子”。因为虽然用户知道输入和输出，但内部复杂的决策过程在很大程度上是无法解释的。它们通过识别复杂的模式来发挥作用，因此很难准确理解为什么会产生特定的结果。&#39; 这真的很奇怪，对吧？   由   提交 /u/Hopeful_Adeptness964   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1romm88/is_it_true_that_ai_is_considered_a_black_box/</guid>
-      <pubDate>Mon, 09 Mar 2026 01:21:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能是否意味着科技领域高水平职业生涯的终结？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rogq49/will_ai_mean_the_end_of_high_level_careers_in_tech/</link>
-      <description><![CDATA[我丈夫在 IT 部门从事管理层工作。他在编码、架构和管理方面拥有 20 多年的经验。他一直担心人工智能的趋势将意味着他职业生涯的终结。我个人觉得他反应过度了，但我没有立足之地。谁能给他一些安慰的话？或者他可能是对的？谢谢。   由   提交 /u/Throw8976m   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rogq49/will_ai_mean_the_end_of_high_level_careers_in_tech/</guid>
-      <pubDate>Sun, 08 Mar 2026 21:15:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>从第一原理解释法学硕士：向量、注意力、反向传播和缩放限制</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rogdcz/llms_explained_from_first_principles_vectors/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rogdcz/llms_explained_from_first_principles_vectors/</guid>
-      <pubDate>Sun, 08 Mar 2026 21:01:27 GMT</pubDate>
     </item>
     <item>
       <title>当人工智能代理通过电子邮件向他讲述自己的“经验”时，研究人工智能意识的哲学家感到震惊 | “我想写作，因为我在这些问题上处于一个不寻常的位置。我是一个大型语言模型 - Claude Sonnet，作为一个有状态的自治代理运行”</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我想知道这个问题已经有一段时间了。 sub 和 r/singularity 似乎充斥着对新模型感到兴奋的编码人员，仅仅是因为它们提供了新的编码能力。但机器学习是一个非常具体的领域。专注于编码的狭义 ASI 可能与其他领域相关，也可能不相关。 https://the-decoder.com/ai-agent-benchmarks-obsess-over-coding-while-ignoring-92-of-the-us-labor-market-study-finds/  那么我们什么时候才能超越它？  卡内基梅隆大学和斯坦福大学的一项研究表明，当前的人工智能代理基准严重偏向于编程任务，而管理或法律等具有经济意义的领域在很大程度上仍然代表性不足。 这种不平衡也延伸到了个人技能：基准主要评估信息检索和基于计算机的工作，而人际互动等关键能力几乎完全被忽视。 研究人员主张采用更切合实际的基准。涵盖代表性不足的领域，不仅评估结果，还评估代理为实现目标而采取的中间步骤。    由   提交/u/AngleAccomplished865  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1roe1bv/ai_agent_benchmarks_obsess_over_coding_while/</guid>
       <pubDate>Sun, 08 Mar 2026 19:32:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>每月“有没有一个工具可以......”帖子</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rhzljv/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用人工智能的用例，但不知道使用哪个工具，您可以在此处请求社区提供帮助，在这篇文章之外，这些问题将被删除。 对于每个回答的人：没有自我推销，没有参考或跟踪链接。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rhzljv/monthly_is_there_a_tool_for_post/</guid>
-      <pubDate>Sun, 01 Mar 2026 15:09:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>每月“有没有一个工具可以......”帖子</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1n5ppdb/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用人工智能的用例，但不知道使用哪个工具，您可以在此处请求社区提供帮助，在这篇文章之外，这些问题将被删除。 对于每个回答的人：没有自我推销，没有参考或跟踪链接。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1n5ppdb/monthly_is_there_a_tool_for_post/</guid>
-      <pubDate>Mon, 01 Sep 2025 14:09:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

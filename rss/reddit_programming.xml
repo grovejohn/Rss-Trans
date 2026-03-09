@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Mar 2026 15:48:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:36:03 GMT</lastBuildDate>
     <item>
-      <title>为什么调试生产错误比编写修复程序更难</title>
-      <link>https://www.reddit.com/r/programming/comments/1rp3ehr/why_debugging_production_bugs_is_harder_than/</link>
-      <description><![CDATA[我们在与创始人交谈时不断看到的一个模式是，修复错误通常不是缓慢的部分。 发现它是缓慢的部分。 典型流程似乎是： 警报 → 日志 → 堆栈跟踪 → grep 存储库 → 检查最近的部署 → 猜测 → 重新部署 → 重复 有时，实际修复最终会变得很小例如空检查或不良边缘情况。 但是搜索过程会耗费数小时。 我很好奇这里的人们是如何处理这个问题的。 您主要依赖于： • 日志 • 跟踪工具 • 错误监控 • 还是其他工具？ 感觉围绕检测问题的工具已经改进了很多，但是围绕精确定位的工具修复并没有太大变化。   由   提交 /u/hotfix-cloud   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rp3ehr/why_debugging_production_bugs_is_harder_than/</guid>
-      <pubDate>Mon, 09 Mar 2026 15:33:35 GMT</pubDate>
+      <title>“轻量级”框架的隐性成本：我们从 Tauri 到原生 Rust 的旅程</title>
+      <link>https://www.reddit.com/r/programming/comments/1rp80sx/the_hidden_cost_of_lightweight_frameworks_our/</link>
+      <description><![CDATA[我使用 WebKit 的经验，以及为什么我们几乎在 Hopp 放弃它   由   提交/u/konsalexee  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rp80sx/the_hidden_cost_of_lightweight_frameworks_our/</guid>
+      <pubDate>Mon, 09 Mar 2026 18:16:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>细化：子列表见证和 de Bruijn 指数转变聚集</title>
+      <link>https://www.reddit.com/r/programming/comments/1rp7wbq/thinnings_sublist_witnesses_and_de_bruijn_index/</link>
+      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rp7wbq/thinnings_sublist_witnesses_and_de_bruijn_index/</guid>
+      <pubDate>Mon, 09 Mar 2026 18:12:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>治理：文档作为知识网络</title>
+      <link>https://www.reddit.com/r/programming/comments/1rp3stv/governance_documentation_as_a_knowledge_network/</link>
+      <description><![CDATA[__这是一篇相当长的文章，而且是一个非常短的摘录，因此如果您想了解更多信息，请阅读全文__ 为什么我只需点击几下鼠标就能找到第三位比利时国王的出生地，但要了解我们的费用政策是什么，您宁愿问同事，然后在组织维基上查找？ 多年来我对此进行了大量研究，我想分享我关于如何建立文档存储的想法。 这将是一个由两部分组成的帖子。第一个是总体轮廓和理念。第二部分是关于构建项目治理文档。 ## 知识图 许多组织 wiki 都存储在文件夹结构中，这模仿了文件系统，而在 SharePoint 的情况下，通常也只是文件系统的复制和粘贴。有点像一个垃圾场，你在文件夹里工作，尽量不要走出去。一切都被困在自己的容器中。 知识图的想法走向了相反的方向。在最原始的形式中，您可以完全取消文件夹和结构。您创建一个相互链接的设置，该设置更多地关注连接而不是结构。知识图背后的美妙概念是，它们可以创建与相关信息的有机链接，而无需您进行设置。 ## MOC：内容地图 这些是可以帮助您前进的登陆页面。要转到某个主题，您需要转到该主题的主要思想之一，它会引导您到达那里。这些页面还可以包含信息本身，以向您介绍更大的概念。比利时的 MOC 不会引导您进入比利时详细信息页面，它既可以作为主要主题，又可以作为更深层次主题的启动板。 ## 原子文档 长文章的问题在于，没有多少人有动力去写它们。编写一个概念的长篇解释需要做大量的工作。 当您实际上只需要一小部分信息时，跳入一篇很长的文章并阅读整篇文章也有点令人畏惧。 这就是原子文档的用武之地：每页一个概念。参考其余部分。 ## 有组织的混乱 留下带有 MOC 和注释的垃圾场对于新用户来说太吓人了。你永远不会被采用。您将需要文件夹。 - 项目 - 应用程序 - 流程 - 资源 - 存档 ## 动态文档 我们使用小型且易于扫描的文档来快速传达一条信息。一旦我们引入不同的概念，我们就会链接或创建新的小信息。如果时间（和兴趣）允许，鼓励人们进行深入研究。如果没有，人们仍然对他们的需求有一个高层次的概述。 请继续关注两周后的下一部分，我们将深入研究项目文档。   由   提交 /u/GeneralZiltoid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rp3stv/governance_documentation_as_a_knowledge_network/</guid>
+      <pubDate>Mon, 09 Mar 2026 15:48:44 GMT</pubDate>
     </item>
     <item>
       <title>Linux 内部结构：/proc/self/mem 如何写入 unw</title>
@@ -36,7 +50,7 @@
     <item>
       <title>[自我帖子]通过显式调用堆栈模拟删除递归</title>
       <link>https://www.reddit.com/r/programming/comments/1rp2ax3/self_post_removing_recursion_via_explicit/</link>
-      <description><![CDATA[这是我在将一些困难的递归代码转换为堆栈安全形式时偶然发现的一种技术。我希望它对其他人有帮助。如果有人有任何疑问，或者您对“开放式问题”有任何答案，请告诉我。部分位于底部。   由   提交/u/josephjnk   [link] [评论]]]></description>
+      <description><![CDATA[这是我在将一些困难的递归代码转换为堆栈安全形式时偶然发现的一种技术。我希望它对其他人有帮助。如果有人有任何疑问，或者您对“开放式问题”有任何答案，请告诉我。部分位于底部。   由   提交 /u/josephjnk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rp2ax3/self_post_removing_recursion_via_explicit/</guid>
       <pubDate>Mon, 09 Mar 2026 14:52:12 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[对于那些在生产中运行 ClickHouse 的人来说，您如何对高吞吐量流数据进行预聚合？ 您是否使用 AggregatingMergeTree + 物化视图而不是查询原始表？或者您是否更多地依赖 ReplacingMergeTree 引擎来实现幂等性？  为了更好的解释，这里对两者进行了比较：https://www.glassflow.dev/blog/aggregatingmergetree-clickhouse?utm_source=reddit&amp;utm_medium=socialmedia&amp;utm_campaign=reddit_organic    由   提交 /u/Marksfik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rowm4l/clickhouse_aggregatingmergetree_explained_with/</guid>
       <pubDate>Mon, 09 Mar 2026 10:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Dyalog APL 中编写体素游戏的注意事项</title>
-      <link>https://www.reddit.com/r/programming/comments/1rovicg/notes_on_writing_a_voxel_game_in_dyalog_apl/</link>
-      <description><![CDATA[ 由   提交/u/mugacariya  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rovicg/notes_on_writing_a_voxel_game_in_dyalog_apl/</guid>
-      <pubDate>Mon, 09 Mar 2026 09:25:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>嵌入式软件工厂背后的先睹为快。我怀疑快速应用程序开发又回来了</title>
-      <link>https://www.reddit.com/r/programming/comments/1rovch5/a_sneak_preview_behind_an_embedded_software/</link>
-      <description><![CDATA[ 由   提交 /u/geoffreyhuntley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rovch5/a_sneak_preview_behind_an_embedded_software/</guid>
-      <pubDate>Mon, 09 Mar 2026 09:14:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
