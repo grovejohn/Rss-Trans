@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 10 Mar 2026 12:32:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 15:48:54 GMT</lastBuildDate>
+    <item>
+      <title>在 1982 年 BBC Micro 上训练 16 位定点神经网络</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpzuf3/training_a_neural_network_in_16bit_fixed_point_on/</link>
+      <description><![CDATA[ 由   提交/u/mariuz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpzuf3/training_a_neural_network_in_16bit_fixed_point_on/</guid>
+      <pubDate>Tue, 10 Mar 2026 15:22:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>许可证洗钱和洁净室的消亡——chardet 之争实际上破坏了什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpzom6/license_laundering_and_the_death_of_clean_room/</link>
+      <description><![CDATA[上周，一位Python库维护者在Claude一手运行了12年之后，使用Claude从头开始重写它，将许可证从LGPL更改为MIT，而原作者（自2011年起离开）现身反对。关于字符编码库的 GitHub 问题有 244 条评论。 我写了为什么线程中的每个人都选择了让他们感觉正确的立场，而不是可以解决问题的立场。 简短版本：洁净室重新实现已经死了，没有人愿意承认这一点。   由   提交 /u/allixsenos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpzom6/license_laundering_and_the_death_of_clean_room/</guid>
+      <pubDate>Tue, 10 Mar 2026 15:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在生产环境中运行 100 万张图像搜索的成本是多少</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpx54f/what_it_costs_to_run_1m_image_search_in_production/</link>
+      <description><![CDATA[我为在生产中的 100 万张图像上运行基于 CLIP 的图像搜索的每一个基础设施定价 GPU 推理占了账单的 80%。运行 OpenCLIP ViT-H/14 的 g6.xlarge 成本为 588 美元/月，每秒处理 50-100 张图像。 CPU 推理速度为 0.2 img/s，这是不可行的 矢量存储很便宜。 1024 维的 1M 矢量大小为 4.1 GB。 Pinecone 50-80 美元/月，Qdrant 65-102 美元，RDS 上的 pgvector 260-270 美元。与 GPU 相比，即使是昂贵的选项也很小 S3 + CloudFront：500 GB 图像的价格低于 25 美元/月 后端：ALB 后面有几个 t3.small 实例，具有自动缩放功能。 57-120 美元/月 总计：  中等流量（约 10 万次搜索/天）：740 美元/月 企业版（约 50 万+ 次搜索/天）：1,845 美元/月    由   提交/u/K3NCHO  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpx54f/what_it_costs_to_run_1m_image_search_in_production/</guid>
+      <pubDate>Tue, 10 Mar 2026 13:37:19 GMT</pubDate>
+    </item>
     <item>
       <title>容器不是安全边界</title>
       <link>https://www.reddit.com/r/programming/comments/1rpv2dt/containers_are_not_a_security_boundary/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rpd3r3/unlocking_pythons_coresenergy_implications_of/</guid>
       <pubDate>Mon, 09 Mar 2026 21:18:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebPKI 和你</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpd1hi/webpki_and_you/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpd1hi/webpki_and_you/</guid>
-      <pubDate>Mon, 09 Mar 2026 21:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>无生产数据的生产查询计划</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpd09d/production_query_plans_without_production_data/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpd09d/production_query_plans_without_production_data/</guid>
-      <pubDate>Mon, 09 Mar 2026 21:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年重返 Rails</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpd00d/returning_to_rails_in_2026/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpd00d/returning_to_rails_in_2026/</guid>
-      <pubDate>Mon, 09 Mar 2026 21:14:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
