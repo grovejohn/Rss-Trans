@@ -4,55 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 10 Mar 2026 09:33:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 12:32:13 GMT</lastBuildDate>
     <item>
-      <title>微软斥资 25 亿美元收购《我的世界》，但立即失去了一件重要的事情</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpsbon/microsoft_paid_25_billion_for_minecraft_and/</link>
-      <description><![CDATA[金钱、品牌、3亿玩家——他们得到了这一切。他们无法接受的是为什么代码是这样构建的。 Notch 独自在六天内构建了第一个版本，做出了他从未写下的决定。他走的捷径，他选择的执行命令，当时看起来合乎逻辑的事情——所有这些都存在于他的脑海中。当他卖掉并离开时，这种背景也随之消失了。早年与他一起工作的工程师也逐渐离开了。 微软继承的是一个充满未记录假设的代码库。单线程架构、Java 内存问题、照明引擎——没有人对问题是什么感到困惑。困难的部分是理解哪些东西是捷径，哪些东西是整个系统秘密依赖的。如果没有 Notch，你就无法可靠地分辨出差异。 他们拥有世界上所有的资源来修复它。只是不是那个。   由   提交/u/knayam  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpsbon/microsoft_paid_25_billion_for_minecraft_and/</guid>
-      <pubDate>Tue, 10 Mar 2026 09:30:53 GMT</pubDate>
+      <title>容器不是安全边界</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpv2dt/containers_are_not_a_security_boundary/</link>
+      <description><![CDATA[ 由   提交 /u/lucavallin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpv2dt/containers_are_not_a_security_boundary/</guid>
+      <pubDate>Tue, 10 Mar 2026 12:03:15 GMT</pubDate>
     </item>
     <item>
-      <title>基于聊天的诈骗检测系统中的对话记忆</title>
-      <link>https://www.reddit.com/r/programming/comments/1rps8km/conversation_memory_in_chatbased_scam_detection/</link>
-      <description><![CDATA[一直在构建一个小工具，尝试检测聊天消息中的诈骗行为（OTP 网络钓鱼、虚假紧急情况、冒充等）。  我一直遇到的一个问题是内存。如果您只是单独分析每条消息，则模型会错过多条消息中显示的许多明显模式。  我最终尝试了一种名为 Synrix Memory Engine 的东西，同时尝试在本地保存对话上下文的方法。主要是因为我不想将一堆外部东西连接在一起。  它实际上可以很好地跟踪以前的消息，因此检测器可以查看整个对话而不是单行。  该项目还处于早期阶段，但这是解决内存问题的一种有趣的方法。  好奇其他人为此使用什么。   由   提交 /u/birs_dimension   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rps8km/conversation_memory_in_chatbased_scam_detection/</guid>
-      <pubDate>Tue, 10 Mar 2026 09:25:27 GMT</pubDate>
+      <title>探索 C++26 中的可变保守状态</title>
+      <link>https://www.reddit.com/r/programming/comments/1rputf4/exploring_mutable_consteval_state_in_c26/</link>
+      <description><![CDATA[ 由   提交 /u/friedkeenan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rputf4/exploring_mutable_consteval_state_in_c26/</guid>
+      <pubDate>Tue, 10 Mar 2026 11:51:21 GMT</pubDate>
     </item>
     <item>
-      <title>中层招聘的崩溃</title>
-      <link>https://www.reddit.com/r/programming/comments/1rprnc8/the_collapse_of_mid_tier_hiring/</link>
-      <description><![CDATA[这看起来很糟糕。    由   提交/u/rerun_ky  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rprnc8/the_collapse_of_mid_tier_hiring/</guid>
-      <pubDate>Tue, 10 Mar 2026 08:48:03 GMT</pubDate>
+      <title>使用 SQL 查询黑客新闻：Tabularis 的新插件</title>
+      <link>https://www.reddit.com/r/programming/comments/1rptbfk/query_hacker_news_with_sql_a_new_plugin_for/</link>
+      <description><![CDATA[ 由   提交/u/debba_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rptbfk/query_hacker_news_with_sql_a_new_plugin_for/</guid>
+      <pubDate>Tue, 10 Mar 2026 10:30:31 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能作为基础设施：工业化、资本扩张和概率</title>
-      <link>https://www.reddit.com/r/programming/comments/1rprbhi/artificial_intelligence_as_infrastructure/</link>
-      <description><![CDATA[ 由   提交/u/FrequentBid2476  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rprbhi/artificial_intelligence_as_infrastructure/</guid>
-      <pubDate>Tue, 10 Mar 2026 08:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是自由职业者需求量最大且初学者最容易开始的？</title>
-      <link>https://www.reddit.com/r/programming/comments/1rppoqy/whats_in_high_demand_for_freelancers_and_easiest/</link>
-      <description><![CDATA[一位朋友建议，Web 前端、后端、也许是全栈或应用程序开发（Android/iOS）对于初学者来说是最容易学习的，而且也很受欢迎。这是真的吗？我应该如何决定选择哪一个，在哪里可以学习？   由   提交/u/Hot-Advisor-3353   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rppoqy/whats_in_high_demand_for_freelancers_and_easiest/</guid>
-      <pubDate>Tue, 10 Mar 2026 06:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是我如何使用 Alchemy 来改进 AI 审计。</title>
-      <link>https://www.reddit.com/r/programming/comments/1rppnfa/heres_how_i_used_alchemy_to_improve_ai_auditing/</link>
-      <description><![CDATA[https://github.com/Nefza99/Rebis-AI-auditing-Architecture 系统引入了一个多阶段转换管道：输入→分阶段推理检查点→验证决策→输出，而不是：输入→模型→输出→输出每个阶段可以：评估推理质量检测偏差信号执行策略阈值记录决策上下文停止不安全的转换这使得系统的行为更像是决策精炼厂而不是简单的生成管道。目标不是取代现有的护栏，而是在决策流程本身内部提供结构化的治理层。 Nefza99/Rebis-AI-auditing-Architecture：用于 AI 治理的炼金术状态机。通过 18 个阶段性检查点（具有断路器、审计跟踪和基于角色的访问控制）指导 AI 决策。被阻止的候选人会获得自动补救建议。功能：完整的审核日志记录、RBAC、可配置阈值、周期限制和通知。非常适合内部 Google AI 道德审计。 为什么使用 Alchemy 作为框架？该项目并不声称中世纪炼金术包含隐藏的人工智能知识。让我感兴趣的是，早在现代系统工程出现之前，炼金术士就开发出了高度结构化的转换序列。在构建这个时令我惊讶的是中世纪炼金术实际上描述了一个非常实用的决策架构。炼金术不仅仅是将铅变成黄金，它还涉及具有严格检查点的分阶段转化过程。每个阶段都必须通过验证才能进行下一个转变。这几乎完美地映射了现代人工智能治理问题。如今，大多数人工智能系统产生的输出没有用于评估推理质量、偏见风险或政策违规的结构化转换管道。 Rebis 模型将决策视为炼金术循环： 分离 → 将信号与噪声隔离 净化 → 消除偏见和错误推理 连接 → 整合多个视角 固定 → 产生稳定的结论 该架构不是单次决策，而是强制通过 18 个结构化状态进行推理，如果验证失败，每个状态都充当断路器。出现的东西更接近于人工智能审计的哲学操作系统。并不神秘——只是隐藏在历史过程理论中的一个令人惊讶的优雅控制系统。简化架构（Rebis AI 审计周期） 将系统视为循环决策精炼厂，而不是单通道输出。输入 ↓ [1] 将信号与噪声分离 [2] 煅烧压力测试假设 [3] 成分分解分解推理 [4] 纯化消除偏差或错误逻辑 [5] 连接整合多个视角 [6] 蒸馏精炼候选解决方案 [7] 固定锁定稳定决策 ↓ 审核 + 记录 ↓ 输出 每个阶段都有验证门。如果某个阶段失败：失败 → 断路器 → 补救建议 → 重试 这会创建一个状态机样式的治理循环，在该循环中，除非通过验证检查，否则决策无法进行。结果是： 可追溯的推理 可审计的决策 减少偏差 检查点 受控的决策升级 系统不是“AI思考→AI答案”，而是在输出之前强制执行推理的结构化转换。这与现有的人工智能护栏系统有何不同当今大多数人工智能安全或治理工具分为以下几类： 提示过滤器 在模型运行之前阻止某些输入的系统。输出调节 生成后检查响应的分类器。策略层/规则引擎 强制执行预定义安全规则的框架。这些方法是有效的，但它们通常在推理+过程之前或之后进行。 Rebis 架构的重点略有不同：管理推理本身的转换。很好奇从事人工智能治理或协调工作的人们对这样的分阶段决策流程有何看法。   由   提交/u/Smooth-Horror1527  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rppnfa/heres_how_i_used_alchemy_to_improve_ai_auditing/</guid>
-      <pubDate>Tue, 10 Mar 2026 06:40:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Go 中的新开源多代理框架——基于 Python 的 AI 工具的有趣替代方案</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpp76t/new_opensource_multiagent_framework_in_go/</link>
-      <description><![CDATA[在 Go 中发现了这个新的开源项目，实现了一个多代理编排框架（与一些 Python AI 代理库的精神类似，但是是 Go 原生的）。 值得注意的方面：  代理 + 团队协调 思想链式工作流程 干净的 Go 模块化结构 内置示例+ 文档 可选仪表板  GitHub：github.com/Ecook14/gocrewwai 很高兴看到有人在通常的Python生态系统之外探索人工智能工具空间。   由   提交/u/Top-Question2614   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpp76t/new_opensource_multiagent_framework_in_go/</guid>
-      <pubDate>Tue, 10 Mar 2026 06:13:31 GMT</pubDate>
+      <title>p-fast trie：按词法排序的哈希映射</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpt5a7/pfast_trie_lexically_ordered_hash_map/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpt5a7/pfast_trie_lexically_ordered_hash_map/</guid>
+      <pubDate>Tue, 10 Mar 2026 10:20:38 GMT</pubDate>
     </item>
     <item>
       <title>通过显式调用堆栈模拟删除递归</title>
@@ -109,6 +88,27 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rpd3r3/unlocking_pythons_coresenergy_implications_of/</guid>
       <pubDate>Mon, 09 Mar 2026 21:18:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebPKI 和你</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpd1hi/webpki_and_you/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpd1hi/webpki_and_you/</guid>
+      <pubDate>Mon, 09 Mar 2026 21:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>无生产数据的生产查询计划</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpd09d/production_query_plans_without_production_data/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpd09d/production_query_plans_without_production_data/</guid>
+      <pubDate>Mon, 09 Mar 2026 21:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年重返 Rails</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpd00d/returning_to_rails_in_2026/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpd00d/returning_to_rails_in_2026/</guid>
+      <pubDate>Mon, 09 Mar 2026 21:14:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
