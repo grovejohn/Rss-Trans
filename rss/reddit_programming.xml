@@ -4,20 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 10 Mar 2026 15:48:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 18:35:08 GMT</lastBuildDate>
+    <item>
+      <title>提高您的算法学习和代码输入速度。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rq55cp/boost_your_algo_learning_along_with_code_typing/</link>
+      <description><![CDATA[大多数打字练习网站都提供随机文本，感觉就像是乱码。编码不仅仅涉及字母，它还包含各种符号。接触他们是非常困难的。因此，这个有用的网站可以帮助您增加打字速度并学习代码。它附带了您可以练习的自定义输入   由   提交/u/Kindly-Difference819   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rq55cp/boost_your_algo_learning_along_with_code_typing/</guid>
+      <pubDate>Tue, 10 Mar 2026 18:32:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Greenmask 和 OpenEverest 匿名化数据</title>
+      <link>https://www.reddit.com/r/programming/comments/1rq46dv/anonymizing_data_with_greenmask_and_openeverest/</link>
+      <description><![CDATA[ 由   提交/u/anyweny  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rq46dv/anonymizing_data_with_greenmask_and_openeverest/</guid>
+      <pubDate>Tue, 10 Mar 2026 17:58:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>CI 应该首先在你的机器上失败</title>
+      <link>https://www.reddit.com/r/programming/comments/1rq3al4/ci_should_fail_on_your_machine_first/</link>
+      <description><![CDATA[ 由   提交/u/NorfairKing2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rq3al4/ci_should_fail_on_your_machine_first/</guid>
+      <pubDate>Tue, 10 Mar 2026 17:27:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>坐在你的屁股上 Web 开发</title>
+      <link>https://www.reddit.com/r/programming/comments/1rq1kmb/sit_on_your_ass_web_development/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rq1kmb/sit_on_your_ass_web_development/</guid>
+      <pubDate>Tue, 10 Mar 2026 16:26:47 GMT</pubDate>
+    </item>
     <item>
       <title>在 1982 年 BBC Micro 上训练 16 位定点神经网络</title>
       <link>https://www.reddit.com/r/programming/comments/1rpzuf3/training_a_neural_network_in_16bit_fixed_point_on/</link>
       <description><![CDATA[ 由   提交/u/mariuz  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rpzuf3/training_a_neural_network_in_16bit_fixed_point_on/</guid>
       <pubDate>Tue, 10 Mar 2026 15:22:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>许可证洗钱和洁净室的消亡——chardet 之争实际上破坏了什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpzom6/license_laundering_and_the_death_of_clean_room/</link>
-      <description><![CDATA[上周，一位Python库维护者在Claude一手运行了12年之后，使用Claude从头开始重写它，将许可证从LGPL更改为MIT，而原作者（自2011年起离开）现身反对。关于字符编码库的 GitHub 问题有 244 条评论。 我写了为什么线程中的每个人都选择了让他们感觉正确的立场，而不是可以解决问题的立场。 简短版本：洁净室重新实现已经死了，没有人愿意承认这一点。   由   提交 /u/allixsenos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpzom6/license_laundering_and_the_death_of_clean_room/</guid>
-      <pubDate>Tue, 10 Mar 2026 15:15:47 GMT</pubDate>
     </item>
     <item>
       <title>在生产环境中运行 100 万张图像搜索的成本是多少</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rpd9lo/ensuring_correctness_through_the_type_system/</guid>
       <pubDate>Mon, 09 Mar 2026 21:24:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>符号导数和 RE# 的 Rust 重写</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpd92r/symbolic_derivatives_and_the_rust_rewrite_of_re/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpd92r/symbolic_derivatives_and_the_rust_rewrite_of_re/</guid>
-      <pubDate>Mon, 09 Mar 2026 21:23:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>推和拉：三种反应性算法</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpd8az/pushing_and_pulling_three_reactivity_algorithms/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpd8az/pushing_and_pulling_three_reactivity_algorithms/</guid>
-      <pubDate>Mon, 09 Mar 2026 21:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>解锁 Python 的核心：删除 GIL 的能源影响</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpd3r3/unlocking_pythons_coresenergy_implications_of/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpd3r3/unlocking_pythons_coresenergy_implications_of/</guid>
-      <pubDate>Mon, 09 Mar 2026 21:18:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
