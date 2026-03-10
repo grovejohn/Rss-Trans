@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 10 Mar 2026 18:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 21:21:59 GMT</lastBuildDate>
+    <item>
+      <title>这是市场变得更糟的迹象吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rq9b18/is_this_a_sign_that_the_market_is_getting_worse/</link>
+      <description><![CDATA[      不确定如何对此作出反应   由   提交/u/lune-soft  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rq9b18/is_this_a_sign_that_the_market_is_getting_worse/</guid>
+      <pubDate>Tue, 10 Mar 2026 20:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>高级开发人员在这里。花了两年时间尝试用人工智能工具修复我们的代码审查文化。以下是实际有效和无效的方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rq99rq/senior_dev_here_spent_two_years_trying_to_fix_our/</link>
+      <description><![CDATA[我是一名后端工程师，拥有大约 11 年的经验，主要使用 Python 和一些 TypeScript。我想分享我最近经历的一些事情，因为我认为这里的很多人可能都与它相关。 我的职业生涯始于一家中型产品公司，那里的代码审查受到认真对待。不是以官僚的方式，而是以真诚的方式。高级工程师会和你坐在一起，浏览你的 PR，不仅解释哪里出了问题，还解释为什么它会在六个月后成为一个问题。这种反馈比任何课程或教程都更能塑造我对代码的看法。 然后我转向了节奏更快的初创公司。焦点几乎完全转移到航运上。代码审查成为一种形式。你会收到一些评论，也许是对命名的挑剔，然后很快就会得到批准。没有人有时间真正深入研究。直到一年后我回顾代码库，几乎认不出我已经发布的一些东西时，我才意识到自己损失了多少。它有效，但维护起来很痛苦，推理也很痛苦。 当人工智能代码审查工具开始出现时，我真的认为这就是答案。无论团队带宽如何，让每个 PR 获得高级工程师风格的反馈的想法似乎可以解决问题。所以我开始尝试所有这些。 老实说，这是我在它们之间切换两年后发现的。 如果您的团队已经在 Microsoft 生态系统中，Copilot 是最容易上手的。它适合捕捉明显的东西。但在具有互连服务的复杂生产代码上，它遇到了很大的困难。感觉更像是自动完成意见而不是实际的审阅者。 CodeRabbit 对我尝试过的任何内容都有最好的回忆，这意味着它发现了最原始的错误。但噪音水平确实难以控制。我的团队在三周内停止阅读评论，因为评论太多，而且太多不相关。如果您的团队已经学会忽略该工具，那么高召回率就毫无意义。 Greptile 很有趣，而且比大多数人更能理解代码库上下文。根据我的经验，某些语言比其他语言更强。对我们来说，Java 和 Python 比 TypeScript 感觉更好。 Bugbot 对于表面级别的东西来说很不错，而且设置起来很快。起点很好，但它往往会忽略更深层次的问题，只有当您了解更广泛的系统时才有意义的逻辑错误。 智能才是真正困扰我们的问题，原因是精确性。它不对所有事情发表评论。当它标记某物时，它几乎总是指向真实的东西。它似乎还真正了解您的代码库如何组合在一起，而不是仅仅单独检查每个文件。我们发现的错误在文件级别没有明显错误，但在其他地方完全打破了假设。团队几乎立即开始再次阅读评论，两年来看着人们忽视这些工具，这感觉像是一个有意义的转变。 我想澄清的是，这些工具都不是完美的，它们都无法取代我职业生涯早期的那种指导。但是，如果您想弄清楚实际将哪一个应用到您团队的工作流程中，这是我可以根据两年多的实际使用情况为您提供的最诚实的比较。   由   提交/u/Gearnotafraid8  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rq99rq/senior_dev_here_spent_two_years_trying_to_fix_our/</guid>
+      <pubDate>Tue, 10 Mar 2026 20:58:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>用人工智能制作网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rq94lj/making_websites_with_ai/</link>
+      <description><![CDATA[我从小就开始开发。因此，我考虑开始一项网络开发服务，包括 SEO、长期服务、托管设置以及其他所需的一切。首先，我开始使用 Wordpress，但作为一名 C# 应用程序开发人员，我讨厌它。然后我发现 Astro 与无头 cms 相结合，使用它是一种魅力。  无论如何，回到我原来的话题：很多人告诉我：“为什么我不应该用人工智能来建立我的网站？” 对我来说，这句话似乎没有 100% 的意义。当然，人们可以用人工智能建立网站。但即使这也需要一些时间和知识，我认为许多公司只是想要一个可行的解决方案，该解决方案能够持续维护并合法安全。另外，我听说很多人在一段时间后咨询网络开发人员，因为他们的人工智能网站无法正常工作。在我看来，这不仅仅是构建一个网站。 您对使用人工智能构建网站有何看法？今天创办一家网络开发服务公司是否适合未来？如果是，您期望从这样的开发商/机构获得的最低技能要求是什么？   由   提交/u/AdNational8437  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rq94lj/making_websites_with_ai/</guid>
+      <pubDate>Tue, 10 Mar 2026 20:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让我的网站永远运行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rq8xgc/como_eu_deixo_meu_site_funcionando_pra_sempre/</link>
+      <description><![CDATA[看，我在 netlify 上托管，但您可能会想“但是 netlify 不让您永远托管吗？”是的，是的，但是我的论坛通过前端的API有一个supabase数据库，每次两周后我的网站都会离线，因为supabase有这个暂停的东西或类似的东西，你需要去网站并点击它才能恢复正常，我想知道是否有任何方法可以离开数据库而不需要在一段时间后去网站，你能推荐supabase中的其他数据库或配置吗？如果有人可以向我解释的话，我将非常感激。这个:)   由   提交/u/Traditional_Blood799  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rq8xgc/como_eu_deixo_meu_site_funcionando_pra_sempre/</guid>
+      <pubDate>Tue, 10 Mar 2026 20:46:23 GMT</pubDate>
+    </item>
     <item>
       <title>WebNami 更新 – 开源和自托管博客平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1rq55if/webnami_update_open_source_and_self_hosted/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[      Firefox 扩展程序审查是另一种压力，但我们做到了。 我构建了一个本地扩展程序，可以拦截 ChatGPT/Claude/Gemini 中的提示框，并在网络请求触发之前屏蔽敏感数据。 绝对最难的部分？战斗散文镜。 ChatGPT 在幕后使用它，如果您直接进行 DOM 更改，它绝对会出现恐慌。如果您尝试注入文本节点，编辑器状态将崩溃。我最终不得不使用 CSS 自定义突出显示 API 来直观地绘制密文，而不触及实际的文本节点。 Chrome 已上线，Firefox 今天终于通过了审核。 希望一些前端人员尝试打破 DOM 逻辑。烘烤我的实现。   由   提交/u/ActualJackfruit2357   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rpz3v3/i_got_paranoid_about_ai_data_leaks_so_i_built_a/</guid>
       <pubDate>Tue, 10 Mar 2026 14:54:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要开发人员为电子商务构建 IA 客户 SaaS。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rpyyeo/i_need_dev_to_build_ia_customer_saas_for_ecommerce/</link>
-      <description><![CDATA[嗨，我需要构建ia客户SaaS，我需要开发 请联系我，我支付ofc或者我们可以建立合作伙伴关系。 如果你是初学者，请不要来，谢谢。   由   提交 /u/No-Independent-599   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rpyyeo/i_need_dev_to_build_ia_customer_saas_for_ecommerce/</guid>
-      <pubDate>Tue, 10 Mar 2026 14:48:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>RapidAPI 的基本/免费套餐真的能满足这几个请求吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rpy9u9/does_rapidapis_basic_free_tiers_really_offer_this/</link>
-      <description><![CDATA[嗨，我主要是一名前端爱好者，我构建东西只是为了好玩，也是一种挑战我精神的爱好。我正在浏览 RapidAPI 的计划，甚至正在尝试基本的天气 api https://rapidapi.com/maruf111/api/weather-api167/pricing。每月的请求上限为 15 个，对吗？ 我明白，如果一个项目已经投入使用并拥有更多用户，那么他们就完全有权对正​​在使用的数据收取费用。但15/月对我来说似乎很低。我看了一些其他的，我认为我看到的最高的是 150 个请求/月。 我做错了什么吗？有没有一种方法可以在不付费的情况下获得更多请求？就像我说的，我是一个业余爱好者，我不想在玩我的数字乐高积木时部署一个项目并拥有很多用户。谢谢。   由   提交 /u/grandmasterfuzzface   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rpy9u9/does_rapidapis_basic_free_tiers_really_offer_this/</guid>
-      <pubDate>Tue, 10 Mar 2026 14:22:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业者工作的技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rpxy12/tips_for_working_freelance/</link>
-      <description><![CDATA[我想说，我发现的最重要的事情就是当你参与一个项目时，为人们提供帮助。沟通是关键。我可以指望与我共事过的人实际上在这方面做得很好。因此，如果您能够掌握反应灵敏且易于合作的技巧，那么您将处于良好的状态。显然，您需要知道自己在做什么，但个人方面经常被忽视。如果你能努力工作并按时完成事情，你就会没事的。    由   提交 /u/whatstherundwn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rpxy12/tips_for_working_freelance/</guid>
-      <pubDate>Tue, 10 Mar 2026 14:09:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络开发人员：您希望网站建设者真正优先考虑哪些功能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rpxm1r/web_developers_what_features_do_you_wish_website/</link>
-      <description><![CDATA[很乐意听取每天实际构建网站的人们的意见。我从事网站建设方面的工作，我总是觉得开发人员想要的平台和一线人员实际需要的平台之间存在差距。  如果您可以推动构建者优先考虑一些事情，它们会是什么？可以是更好的开发工具、API、性能特性、真正有帮助而不是妨碍的人工智能工具等等。 真的很想听到那些苦苦挣扎的人的意见，因为我们很多开发者都希望我们能够实现更多开发人员实际要求的东西。   由   提交/u/Scotty_from_Duda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rpxm1r/web_developers_what_features_do_you_wish_website/</guid>
-      <pubDate>Tue, 10 Mar 2026 13:56:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
