@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 10 Mar 2026 04:27:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 06:34:03 GMT</lastBuildDate>
+    <item>
+      <title>Go 中的新开源多代理框架——基于 Python 的 AI 工具的有趣替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1rpp76t/new_opensource_multiagent_framework_in_go/</link>
+      <description><![CDATA[在 Go 中发现了这个新的开源项目，实现了一个多代理编排框架（与一些 Python AI 代理库的精神类似，但是是 Go 原生的）。 值得注意的方面：  代理 + 团队协调 思想链式工作流程 干净的 Go 模块化结构 内置示例+ 文档 可选仪表板  GitHub：github.com/Ecook14/gocrewwai 很高兴看到有人在通常的Python生态系统之外探索人工智能工具空间。   由   提交/u/Top-Question2614   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rpp76t/new_opensource_multiagent_framework_in_go/</guid>
+      <pubDate>Tue, 10 Mar 2026 06:13:31 GMT</pubDate>
+    </item>
     <item>
       <title>通过显式调用堆栈模拟删除递归</title>
       <link>https://www.reddit.com/r/programming/comments/1rpeuvf/removing_recursion_via_explicit_callstack/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/ketralnis   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rpcxed/the_mog_programming_language/</guid>
       <pubDate>Mon, 09 Mar 2026 21:12:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用波函数折叠构建程序六角图</title>
-      <link>https://www.reddit.com/r/programming/comments/1rpcvw2/building_a_procedural_hex_map_with_wave_function/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rpcvw2/building_a_procedural_hex_map_with_wave_function/</guid>
-      <pubDate>Mon, 09 Mar 2026 21:10:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
