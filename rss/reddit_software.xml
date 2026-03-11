@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 11 Mar 2026 06:36:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 09:32:18 GMT</lastBuildDate>
+    <item>
+      <title>Java 中的死锁</title>
+      <link>https://www.reddit.com/r/software/comments/1rqmf5g/deadlock_in_java/</link>
+      <description><![CDATA[public class DeadlockExample { static Object lock1 = new Object(); static Object lock2 = new Object(); public static void main(String[] args) { Thread t1 = new Thread(() -&gt; { synchronized (lock1) { System.out.println(&quot;线程 1: 持有 lock1...&quot;); try { Thread.sleep(100); } catch (Exception e) {} synchronized (lock2) { // 等待 lock2 System.out.println(“线程1：获得锁2！”); Thread t2 = new Thread(() -&gt; { synchronized (lock2) { System.out.println(&quot;线程 2: 持有锁 2...&quot;); try { Thread.sleep(100); } catch (Exception e) {} synchronized (lock1) { // 等待锁 1 System.out.println(&quot;线程 2: 获得锁 1!&quot;); } } }); t1.start(); t2.start(); }  } 这就是java中死锁的出现方式 查看投票   由   提交 /u/webdev_aftab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rqmf5g/deadlock_in_java/</guid>
+      <pubDate>Wed, 11 Mar 2026 06:41:27 GMT</pubDate>
+    </item>
     <item>
       <title>我厌倦了将 Pdf 发送到粗略的网站，因此我构建了 PDFSlice，开源客户端 PDF 工具包！</title>
       <link>https://www.reddit.com/r/software/comments/1rqm762/i_was_tired_of_sending_my_pdf_to_sketchy_websites/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好！ 👋 我花了很多时间查看我的浏览器，然后我意识到默认的 Chrome 新标签只是......平淡无奇。我希望每次打开新标签时都能给我带来短暂的敬畏时刻。 因此，我构建了 AlgoWallpapers - 4K 壁纸新标签。 这是一个超轻量级扩展，可以用令人惊叹的超高分辨率（真正 4K）数字艺术和摄影取代您的新标签。 它的特别之处：  ✨ 令人惊叹的美学：精选 4K 壁纸，重点关注赛博朋克、极简 UI、吉卜力工作室氛围和史诗自然。   https://preview.redd.it/81un9jxi2aog1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=c668341b41be01c51f558232cd6ef3afe3fce1a8  ⚡️ 清洁&amp;无干扰：没有笨重的小部件或混乱的新闻源。只是纯粹的视觉灵感。 🚀 快速加载：经过优化，不会减慢您的浏览速度。  我今天刚刚在 Chrome 网上应用店推出了它。如果您关心桌面美观，我很乐意您尝试一下！让我知道您接下来想看到哪些功能。 🔗 扩展程序链接： https://chromewebstore.google.com/detail/algowallpapers-4k-wallpap/ljhjanlnclgmbbkohllohiemicghgcgh 感谢您的宝贵时间！ 👇   由   提交 /u/Civil-Limit302   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rq8ju8/i_got_tired_of_chromes_boring_default_new_tab_so/</guid>
       <pubDate>Tue, 10 Mar 2026 20:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚推出 ExtensionShield——一款免费、开源的 Chrome 扩展管理器和风险审核器</title>
-      <link>https://www.reddit.com/r/software/comments/1rq7k8r/just_launched_extensionshield_a_free_opensource/</link>
-      <description><![CDATA[ 由   提交/u/stanfordy77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rq7k8r/just_launched_extensionshield_a_free_opensource/</guid>
-      <pubDate>Tue, 10 Mar 2026 19:57:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
