@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 11 Mar 2026 09:34:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 12:33:40 GMT</lastBuildDate>
     <item>
       <title>热门观点：插件市场毁了电子商务</title>
       <link>https://feed.indiehackers.world/post/650db8bd59</link>
@@ -14,6 +14,23 @@
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/650db8bd59</guid>
       <pubDate>Tue, 10 Mar 2026 19:39:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>大多数 SaaS 产品都因为同样无聊的原因而失败</title>
+      <link>https://feed.indiehackers.world/post/8c3b1cd51b</link>
+      <description><![CDATA[即使您的产品客观上更好。
+残酷的事实是，工作流程的替代往往是真正的产品市场契合点。
+其他一切——流量、营销、分销——只有在那一刻之后才起作用。
+因此，当我查看新产品时，我不断问一个问题：
+这实际上取代了哪些混乱的工作流程？
+如果答案含糊，采用通常也含糊不清。
+如果您无法清楚地命名您的产品所取代的混乱的手动工作流程……
+您可能还没有产品。
+如果你正在构建一些东西，我很想听听：
+您的产品实际上取代了哪些混乱的工作流程？
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/8c3b1cd51b</guid>
+      <pubDate>Tue, 10 Mar 2026 14:09:15 GMT</pubDate>
     </item>
     <item>
       <title>7 天内 MRR 为 300 美元。这就是我启动 PostClaw 的方式。</title>
@@ -187,14 +204,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/112b77a110</guid>
       <pubDate>Sat, 07 Mar 2026 08:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为中小型企业构建了人工智能合同分析工具 - 寻求反馈</title>
-      <link>https://feed.indiehackers.world/post/ae432411d6</link>
-      <description><![CDATA[您希望人工智能合约工具做什么？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/ae432411d6</guid>
-      <pubDate>Sat, 07 Mar 2026 06:43:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
