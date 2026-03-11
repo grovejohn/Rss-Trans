@@ -4,9 +4,9 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 11 Mar 2026 00:58:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 04:30:14 GMT</lastBuildDate>
     <item>
-      <title>7 天内 MRR 为 300 美元。这正是我启动 PostClaw 的方式。</title>
+      <title>7 天内 MRR 为 300 美元。这就是我启动 PostClaw 的方式。</title>
       <link>https://feed.indiehackers.world/post/0d168545d3</link>
       <description><![CDATA[&lt;小时/&gt;
 我现在所处的位置
@@ -56,7 +56,7 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>没人谈论的冷电子邮件问题</title>
       <link>https://feed.indiehackers.world/post/cfe9e6df69</link>
-      <description><![CDATA[特殊性胜于个性化。 “我看到你在 LinkedIn 上发布的关于 X 的帖子”不再是个性化，而是带有变量的模板。真正的特殊性：“您在墨西哥湾沿岸经营 120 个房源，直接预订率为 62%，这意味着访问您网站并在 Airbnb 上预订的客人每月可能会获得 15-2 万美元的收入。”这需要 5 分钟的研究时间。大多数人不会这样做。这就是它有效的原因。
+      <description><![CDATA[特殊性胜过个性化。 “我看到你在 LinkedIn 上发布的关于 X 的帖子”不再是个性化，而是带有变量的模板。真正的特殊性：“您在墨西哥湾沿岸经营 120 个房源，直接预订率为 62%，这意味着访问您网站并在 Airbnb 上预订的客人每月可能会获得 15-2 万美元的收入。”这需要 5 分钟的研究时间。大多数人不会这样做。这就是它有效的原因。
 我构建了一个免费工具来自动执行此诊断。粘贴你冷冰冰的电子邮件，它会逐行将其撕开并告诉你要修复什么。无需注册，无门。
 forgehouse.io/tools/cold-email-teardown
 Discord Indiehackers 聊天广告此处]]></description>
@@ -94,6 +94,31 @@ https://www.omnikit.dev/showcase
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/caf27007a9</guid>
       <pubDate>Sun, 08 Mar 2026 20:28:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个人工智能，哲学家可以在其中辩论我的创业决策。以下是他们关于吸引我的前 10 位用户的说法。</title>
+      <link>https://feed.indiehackers.world/post/7051d85208</link>
+      <description><![CDATA[
+如果不起作用，承诺进行个人干预——转移风险 
+买家给我
+
+所以...这篇文章实际上是我在做第 2 步。
+Arcanon 实际上做了什么
+
+您描述了您的困境
+2-4 位哲学家独立分析它（他们首先重构你的问题）
+他们争论了 4 轮，利用彼此的盲点
+您将获得：重构的问题、行动项目、决策框架以及 
+“明天做什么”
+
+提供免费套餐。 Pro 为您提供更深入的辩论（4 位哲学家，4 轮） 
+以及业务上下文记忆和决策历史等功能。
+→ https://arcanon-ai.vercel.app/
+作为一名独立创始人，您目前面临的最艰难的决定是什么？ 
+我很想听听 - 如果您尝试使用 Arcanon，请告诉我什么让您感到惊讶。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/7051d85208</guid>
+      <pubDate>Sun, 08 Mar 2026 14:32:16 GMT</pubDate>
     </item>
     <item>
       <title>我正在构建一个 24/7 的人工智能代理，为创始人运行工作流程——寻求反馈</title>
@@ -170,14 +195,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/fd0c026c14</guid>
       <pubDate>Sat, 07 Mar 2026 01:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 UI/UX 设计师联合创始人</title>
-      <link>https://feed.indiehackers.world/post/61a292729c</link>
-      <description><![CDATA[如果这听起来很有趣，请随时给我发消息或分享作品集。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/61a292729c</guid>
-      <pubDate>Fri, 06 Mar 2026 11:17:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
