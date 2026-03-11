@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Mar 2026 15:38:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 18:40:14 GMT</lastBuildDate>
+    <item>
+      <title>开源复杂的 ZKML 基础设施是私有边缘计算的唯一有效路径。 （对剩余版本的思考）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rr0rft/opensourcing_complex_zkml_infrastructure_is_the/</link>
+      <description><![CDATA[world 的工程团队最近开源了 Remainder，他们的 GKR + Hyrax 零知识证明系统专为在移动设备上本地运行 ML 模型而设计。  无论您对更广泛的网络的个人立场如何，将这种密码学开源的决定正是科技行业目前需要的先例。我们正在迅速进入一个时代，公司希望直接在我们的手机上运行复杂、可验证的机器学习，通常与高度敏感或生物识别数据交互以生成 ZK 证明。  我坚信，专有的、闭源的黑匣子对于这种架构来说是完全不可接受的。如果应用程序声称在本地处理个人数据以保护隐私，那么自由和开源软件社区必须能够检查、审核和编译执行数学繁重工作的代码。信任不能成为企业的承诺。  将企业级、移动优化的 ZK 证明者引入开放生态系统是一个巨大的净积极因素。它使高端加密技术的使用变得民主化，并迫使基础设施层变得透明，而这些基础设施层很容易被企业专利所锁定。代码应该永远是事实的最终来源。   由   提交 /u/t0m4t0z   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rr0rft/opensourcing_complex_zkml_infrastructure_is_the/</guid>
+      <pubDate>Wed, 11 Mar 2026 17:46:22 GMT</pubDate>
+    </item>
     <item>
       <title>SLANG – 用于多代理工作流程的声明性语言（类似于 SQL，但用于 AI 代理）</title>
       <link>https://www.reddit.com/r/opensource/comments/1rqryee/slang_a_declarative_language_for_multiagent/</link>
-      <description><![CDATA[构建多代理系统的每个团队都在重新发明同一个轮子。当您选择 LangChain、CrewAI 或 AutoGen 时，您会突然深入了解 Python 装饰器、类型化状态对象、YAML 配置和 50 多个类层次结构。您的产品经理无法读取工作流程。您的代理无法更换提供商。以及“编排逻辑”。隐藏在 SDK 样板文件中，团队之外的任何人都无法理解。 我们没有针对代理工作流程的通用语。我们有十几个相互竞争的 SDK。 我们的类比：SQL 并没有取代 Java 的业务逻辑。它创建了一个全新的类别，即声明性数据查询，任何人都可以读取，任何数据库都可以执行，任何工具都可以生成。如果我们对代理编排有相同的东西会怎么样？ 这就是 SLANG：用于代理协商和代理的超级语言。治理。它是一种基于三个原语的声明性元语言： stake → 生成内容并将其发送给代理等待 → 阻塞，直到另一个代理向您发送数据提交 → 接受结果并停止  就是这样。每个多代理模式（管道、DAG、审查循环、升级、广播和聚合）都是这三种操作的组合。带有条件的 Writer/Reviewer 循环如下所示： flow &quot;article&quot; { 代理作家 { 股份写入（主题：“...”）-&gt; @Reviewer 等待反馈 &lt;- @Reviewer 当 Feedback.approved { 提交反馈 } 当 Feedback.rejected { 股份修改(反馈) -&gt; @Reviewer } } 代理审阅者 { 等待草稿 &lt;- @Writer 权益审查（草稿）-&gt; @Writer } 收敛于：commited_count &gt;= 1 }  大声朗读。你已经明白了。这就是要点。 关键设计决策：  LLM 是运行时。您可以将 .slang 文件和零设置系统提示符粘贴到 ChatGPT、Claude 或 Gemini 中，然后它就会执行。无需安装，无需 API 密钥，无需依赖项。这是任何 SDK 都无法提供的。 可跨模型移植。相同的 .slang 文件可在 GPT-4o、Claude、Llama（通过 Ollama）或 300 多个模型（通过 OpenRouter）上运行。不同的代理甚至可以在同一流程中使用不同的提供者。 不是图灵完备的 - 这就是重点。 SLANG 是故意受到限制的。它描述了代理应该做什么，而不是如何做。当您需要细粒度控制时，您可以使用 SDK，就像从 SQL 下降到业务逻辑应用程序代码一样。 LLM 本地生成它。就像文本到 SQL 一样，您可以要求 LLM 根据自然语言描述编写 .slang 流程。语法非常简单，模型可以在几秒钟内获取它。  当您需要真正的运行时时，可以使用带有解析器、依赖解析器、死锁检测、检查点/恢复和可插入适配器（OpenAI、Anthropic、OpenRouter、MCP Sampling）的 TypeScript CLI 和 API。但大多数人都是从零设置模式开始的。 我们所处的位置：现在还为时过早。规范已定义，解析器和运行时工作，MCP 服务器已构建。但语言本身需要针对现实世界的工作流程进行压力测试。我们正在寻找这样的人：  构建多代理系统并对当前工具感到沮丧 对 AI 编排的语言设计感兴趣 愿意尝试用 SLANG 编写工作流程并报告出现问题或感觉错误的地方  如果您曾经想过“应该有一个标准方法来描述这些代理正在做什么”，我们很乐意听取您的意见。该项目已获得 MIT 许可，并开放供贡献。 GitHub：https://github.com/riktar/slang   由   提交/u/riktar89  [链接] [评论]]]></description>
+      <description><![CDATA[构建多代理系统的每个团队都在重新发明同一个轮子。当您选择 LangChain、CrewAI 或 AutoGen 时，您会突然深入了解 Python 装饰器、类型化状态对象、YAML 配置和 50 多个类层次结构。您的产品经理无法读取工作流程。您的代理无法更换提供商。以及“编排逻辑”。隐藏在 SDK 样板文件中，团队之外的任何人都无法理解。 我们没有针对代理工作流程的通用语言。我们有十几个相互竞争的 SDK。 我们的类比：SQL 并没有取代 Java 的业务逻辑。它创建了一个全新的类别，即声明性数据查询，任何人都可以读取，任何数据库都可以执行，任何工具都可以生成。如果我们对代理编排有相同的东西会怎么样？ 这就是 SLANG：用于代理协商和代理的超级语言。治理。它是一种基于三个原语的声明性元语言： stake → 生成内容并将其发送给代理等待 → 阻塞，直到另一个代理向您发送数据提交 → 接受结果并停止  就是这样。每个多代理模式（管道、DAG、审查循环、升级、广播和聚合）都是这三种操作的组合。带有条件的 Writer/Reviewer 循环如下所示： flow &quot;article&quot; { 代理作家 { 股份写入（主题：“...”）-&gt; @Reviewer 等待反馈 &lt;- @Reviewer 当 Feedback.approved { 提交反馈 } 当 Feedback.rejected { 股份修改(反馈) -&gt; @Reviewer } } 代理审阅者 { 等待草稿 &lt;- @Writer 权益审查（草稿）-&gt; @Writer } 收敛于：commited_count &gt;= 1 }  大声朗读。你已经明白了。这就是要点。 关键设计决策：  LLM 是运行时。您可以将 .slang 文件和零设置系统提示符粘贴到 ChatGPT、Claude 或 Gemini 中，然后它就会执行。无需安装，无需 API 密钥，无需依赖项。这是任何 SDK 都无法提供的。 可跨模型移植。相同的 .slang 文件可在 GPT-4o、Claude、Llama（通过 Ollama）或 300 多个模型（通过 OpenRouter）上运行。不同的代理甚至可以在同一流程中使用不同的提供者。 不是图灵完备的 - 这就是重点。 SLANG 是故意受到限制的。它描述了代理应该做什么，而不是如何做。当您需要细粒度控制时，您可以使用 SDK，就像从 SQL 下降到业务逻辑应用程序代码一样。 LLM 本地生成它。就像文本到 SQL 一样，您可以要求 LLM 根据自然语言描述编写 .slang 流程。语法非常简单，模型可以在几秒钟内获取它。  当您需要真正的运行时时，可以使用带有解析器、依赖解析器、死锁检测、检查点/恢复和可插入适配器（OpenAI、Anthropic、OpenRouter、MCP Sampling）的 TypeScript CLI 和 API。但大多数人都是从零设置模式开始的。 我们所处的位置：现在还为时过早。规范已定义，解析器和运行时工作，MCP 服务器已构建。但语言本身需要针对现实世界的工作流程进行压力测试。我们正在寻找这样的人：  构建多代理系统并对当前工具感到沮丧 对 AI 编排的语言设计感兴趣 愿意尝试用 SLANG 编写工作流程并报告出现问题或感觉错误的地方  如果您曾经想过“应该有一个标准方法来描述这些代理正在做什么”，我们很乐意听取您的意见。该项目已获得 MIT 许可，并开放供贡献。 GitHub：https://github.com/riktar/slang   由   提交/u/riktar89  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rqryee/slang_a_declarative_language_for_multiagent/</guid>
       <pubDate>Wed, 11 Mar 2026 12:07:05 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好，清理我的硬件藏品 - 我找到了 I7 860、带有 8GB DDR3 的 MSI 7616 和一些 GPU，如 RX580 和 RX 5700 XT。 GPU 肯定可以用于某些中端 PC 或 Batocera，但 i7 860、RAM 和主板……不确定。  CPU 是 2009 年的，它可能比第 10 代 i3 消耗更多功率，同时提供更少的处理能力。它对某些东西仍然有用还是会被 Raspi 超越？ 该主板唯一的好处 - 它有 6 个 SATA 端口，我可以在上面放置 6x1TB 2.5 HDD 并运行 raid，并且该主板有一个 PCI 端口，我可以添加旧的 HBA 卡并添加额外的驱动器。  我希望在不久的将来摆脱付费服务，但也许我应该投资更新的硬件，因为 CPU 可能不堪重负？   由   提交 /u/ThisIsDurian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ro8ves/repurpose_old_hardware_for_sh_or_throw_into_the/</guid>
       <pubDate>Sun, 08 Mar 2026 16:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>几周前启动了我的第一个真正的开源项目。通过社区贡献看到第一次真正的参与真是一种奇妙的感觉。就这样吧，这就是帖子</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ro6350/launched_my_first_real_opensource_project_a/</link>
-      <description><![CDATA[这是一个我知道我无论如何都想解决的问题，但是知道人们正在参与你的工作并足够关心你的工作以使其变得更好是......哇，让所有的时间都觉得值得！   由   提交 /u/brhkim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ro6350/launched_my_first_real_opensource_project_a/</guid>
-      <pubDate>Sun, 08 Mar 2026 14:21:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
