@@ -4,14 +4,7 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Tue, 10 Mar 2026 21:20:57 GMT</lastBuildDate>
-    <item>
-      <title>为什么无法禁用 Premiere 视频和音频淡入淡出手柄？</title>
-      <link>https://www.reddit.com/r/editors/comments/1rq9vpc/why_cant_premiere_video_and_audio_fade_handles_be/</link>
-      <description><![CDATA[我尝试在 r/premiere 中提出这个问题，但那边的模组不允许这样做。 也许这里有人知道发生了什么事。 看到另一个线程被锁定，我很想从 Adobe 那里知道，为什么会出现视频和音频淡入淡出的情况处理每个剪辑?? 目的是什么？有人按下“应用默认效果”并将所述效果拖得更长或更短是那么困难吗？ 是因为它在移动设备中很有用，但已被破坏并应用于所有内容吗？ 您可以打开和关闭视频和音频关键帧，为什么不使用这些？ 当我想要移动剪辑并拖出淡出效果时，我是否做错了什么？ 我认为没有理由需要为视频剪辑拖动淡入淡出的功能 有人觉得这个功能非常有用，以至于必须永远打开吗？ Adobe，请问这是为什么？   由   提交/u/i_sell_you_lies  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1rq9vpc/why_cant_premiere_video_and_audio_fade_handles_be/</guid>
-      <pubDate>Tue, 10 Mar 2026 21:19:54 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 11 Mar 2026 00:57:00 GMT</lastBuildDate>
     <item>
       <title>需要帮助</title>
       <link>https://www.reddit.com/r/editors/comments/1rq7b5v/need_help/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[在 Avid MC 中，创建序列时我注意到音频混合输出默认为立体声。在 Premiere 中，您可以在创建序列时选择序列的主混音（单声道、立体声、5.1 等），这与最终导出是分开的，您仍然可以选择单声道或立体声。 在 Avid 中，我指的不是最终导出选项。我的意思是序列的音频混合输出本身。有没有办法将其更改为其他内容，例如单声道，或者序列混合始终是立体声？ 只是想了解 Avid 中的处理方式。 谢谢   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1rodfbi/avid_sequence_audio_mix_output/</guid>
       <pubDate>Sun, 08 Mar 2026 19:09:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>卸载软件：用还是不用？？？</title>
+      <link>https://www.reddit.com/r/editors/comments/1robp77/offloading_softwares_to_use_them_or_not/</link>
+      <description><![CDATA[您对 ShotPut Pro 或 Silverstack 有何看法？我正在准备拍摄我的第一部故事片，我将担任导演和剪辑师。我从来没有处理过任何文件大小如此之大的东西，并且仅使用内置文件管理应用程序也从未遇到过任何问题。我想知道卸载软件值得吗？   由   提交/u/caersuvia  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1robp77/offloading_softwares_to_use_them_or_not/</guid>
+      <pubDate>Sun, 08 Mar 2026 18:04:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
