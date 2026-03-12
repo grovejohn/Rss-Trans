@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 12 Mar 2026 15:46:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 18:38:32 GMT</lastBuildDate>
+    <item>
+      <title>基于浏览器的 .NET IDE v0.6 获得代码共享和 NuGet 包 (XAML.io)</title>
+      <link>https://www.reddit.com/r/programming/comments/1rrycje/browserbased_net_ide_v06_gets_code_sharing_and/</link>
+      <description><![CDATA[ 由   提交/u/Userware  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rrycje/browserbased_net_ide_v06_gets_code_sharing_and/</guid>
+      <pubDate>Thu, 12 Mar 2026 18:10:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 中间接的成本</title>
+      <link>https://www.reddit.com/r/programming/comments/1rrwm8l/the_cost_of_indirection_in_rust/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rrwm8l/the_cost_of_indirection_in_rust/</guid>
+      <pubDate>Thu, 12 Mar 2026 17:08:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>周期空间</title>
+      <link>https://www.reddit.com/r/programming/comments/1rruhe6/periodic_spaces/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rruhe6/periodic_spaces/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebAssembly 组件模型</title>
+      <link>https://www.reddit.com/r/programming/comments/1rrugle/the_webassembly_component_model/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rrugle/the_webassembly_component_model/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:51:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>参数化或 Comptime 很疯狂</title>
+      <link>https://www.reddit.com/r/programming/comments/1rrud9e/parametricity_or_comptime_is_bonkers/</link>
+      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rrud9e/parametricity_or_comptime_is_bonkers/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:48:09 GMT</pubDate>
+    </item>
     <item>
       <title>Emacs 内部结构：标记指针与 C++ std:variant 和 LLVM（第 3 部分）</title>
       <link>https://www.reddit.com/r/programming/comments/1rru5oh/emacs_internals_tagged_pointers_vs_c_stdvariant/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/corp_code_slinger  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rrnsc3/devastating_blow_atlassian_lays_off_1600_workers/</guid>
       <pubDate>Thu, 12 Mar 2026 11:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dolphin 模拟器进度报告：版本 2603</title>
-      <link>https://www.reddit.com/r/programming/comments/1rrn99e/dolphin_emulator_progress_report_release_2603/</link>
-      <description><![CDATA[ 由   提交/u/turol  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rrn99e/dolphin_emulator_progress_report_release_2603/</guid>
-      <pubDate>Thu, 12 Mar 2026 10:39:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么卡夫卡这么快？</title>
-      <link>https://www.reddit.com/r/programming/comments/1rrmq0s/why_kafka_is_so_fast/</link>
-      <description><![CDATA[ 由   提交/u/Sushant098123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rrmq0s/why_kafka_is_so_fast/</guid>
-      <pubDate>Thu, 12 Mar 2026 10:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>类型安全缓存</title>
-      <link>https://www.reddit.com/r/programming/comments/1rrmchf/typesafe_caching/</link>
-      <description><![CDATA[ 由   提交 /u/GlitteringPenalty210   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rrmchf/typesafe_caching/</guid>
-      <pubDate>Thu, 12 Mar 2026 09:45:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>bzip 颂歌</title>
-      <link>https://www.reddit.com/r/programming/comments/1rrl86c/an_ode_to_bzip/</link>
-      <description><![CDATA[ 由   提交 /u/Expurple   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rrl86c/an_ode_to_bzip/</guid>
-      <pubDate>Thu, 12 Mar 2026 08:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>从左到右编程</title>
-      <link>https://www.reddit.com/r/programming/comments/1rrhbh2/left_to_right_programming/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rrhbh2/left_to_right_programming/</guid>
-      <pubDate>Thu, 12 Mar 2026 04:40:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
