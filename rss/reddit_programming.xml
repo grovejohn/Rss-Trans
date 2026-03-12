@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 11 Mar 2026 21:21:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:55:44 GMT</lastBuildDate>
     <item>
-      <title>在 C 中嵌入 Lua：初学者教程</title>
-      <link>https://www.reddit.com/r/programming/comments/1rr6g2m/embedding_lua_in_c_beginners_tutorial/</link>
-      <description><![CDATA[ 由   提交/u/MateusMoutinho11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rr6g2m/embedding_lua_in_c_beginners_tutorial/</guid>
-      <pubDate>Wed, 11 Mar 2026 21:06:39 GMT</pubDate>
+      <title>构建您自己的键值存储引擎</title>
+      <link>https://www.reddit.com/r/programming/comments/1rr9t4x/build_your_own_keyvalue_storage_engine/</link>
+      <description><![CDATA[ 由   提交/u/teivah  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rr9t4x/build_your_own_keyvalue_storage_engine/</guid>
+      <pubDate>Wed, 11 Mar 2026 23:11:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序代码有几十个静态分析器，SQL 几乎没有，这就是存在的。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rr8vq4/application_code_has_dozens_of_static_analyzers/</link>
+      <description><![CDATA[Javascript 有 eslint。 python 有 ruff、bandit、mypy。 go 有静态检查。  每种主要语言都有成熟的静态分析生态系统。 SQL 在每家公司的生产中运行，工具差距巨大。 花费时间映射实际存在的内容，只有三个严肃的开源选项： - SQLFluff：样式和格式。非常有利于一致性，不会捕获任何危险的东西。 - Squawk：PostgreSQL 迁移安全。捕获导致锁的架构更改。仅 postgres。 - SlowQL：专注于事件预防。云仓库的安全漏洞、性能反模式、合规违规、成本问题。与数据库无关，完全离线。 用完整的比较表和 CI 示例编写： https://makroumi.hashnode.dev/sqlfluff-vs-squawk-vs-slowql-choosing-the-right-sql-static-analyzer-for-your-stack 很好奇为什么 SQL 静态分析与应用程序代码相比投资如此不足。是因为 ORM 隐藏了 SQL 还是有其他原因？   由   提交 /u/Anonymedemerde   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rr8vq4/application_code_has_dozens_of_static_analyzers/</guid>
+      <pubDate>Wed, 11 Mar 2026 22:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Rust、Spring Boot、Quarkus 进行 API 性能基准测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1rr8jlr/benchmarking_rust_vs_spring_boot_vs_quarkus_for/</link>
+      <description><![CDATA[ 由   提交 /u/aarkay89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rr8jlr/benchmarking_rust_vs_spring_boot_vs_quarkus_for/</guid>
+      <pubDate>Wed, 11 Mar 2026 22:23:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>真实的 Spring Boot 微服务架构</title>
+      <link>https://www.reddit.com/r/programming/comments/1rr8iw3/a_realworld_spring_boot_microservices_architecture/</link>
+      <description><![CDATA[ 由   提交 /u/aarkay89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rr8iw3/a_realworld_spring_boot_microservices_architecture/</guid>
+      <pubDate>Wed, 11 Mar 2026 22:22:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年的 AWS：您认为自己知道的事情现在是错误的</title>
+      <link>https://www.reddit.com/r/programming/comments/1rr821f/aws_in_2025_the_stuff_you_think_you_know_thats/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rr821f/aws_in_2025_the_stuff_you_think_you_know_thats/</guid>
+      <pubDate>Wed, 11 Mar 2026 22:05:32 GMT</pubDate>
     </item>
     <item>
       <title>//go:修复内联和源代码级内联</title>
@@ -32,13 +60,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rr02ny/c26_safety_features_wont_save_you/</guid>
       <pubDate>Wed, 11 Mar 2026 17:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kafka内部如何存储消息</title>
-      <link>https://www.reddit.com/r/programming/comments/1rqzg82/how_kafka_stores_messages_internally/</link>
-      <description><![CDATA[ 由   提交/u/Sushant098123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rqzg82/how_kafka_stores_messages_internally/</guid>
-      <pubDate>Wed, 11 Mar 2026 17:01:13 GMT</pubDate>
     </item>
     <item>
       <title>2026 年分配者的状况</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rqysa7/zig_type_resolution_redesign_and_language_changes/</guid>
       <pubDate>Wed, 11 Mar 2026 16:37:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java 中垃圾收集的工作原理（动画）</title>
-      <link>https://www.reddit.com/r/programming/comments/1rqxxfk/how_garbage_collection_works_in_java_animated/</link>
-      <description><![CDATA[ 由   提交/u/FaheemRaina  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rqxxfk/how_garbage_collection_works_in_java_animated/</guid>
-      <pubDate>Wed, 11 Mar 2026 16:06:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Temporal：用 JavaScript 修复时间的 9 年之旅</title>
-      <link>https://www.reddit.com/r/programming/comments/1rqxh0q/temporal_the_9year_journey_to_fix_time_in/</link>
-      <description><![CDATA[ 由   提交/u/mariuz  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rqxh0q/temporal_the_9year_journey_to_fix_time_in/</guid>
-      <pubDate>Wed, 11 Mar 2026 15:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是成功的标准？</title>
-      <link>https://www.reddit.com/r/programming/comments/1rqvi6y/what_makes_a_successful_standard/</link>
-      <description><![CDATA[ 由   提交/u/mooreds  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rqvi6y/what_makes_a_successful_standard/</guid>
-      <pubDate>Wed, 11 Mar 2026 14:37:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

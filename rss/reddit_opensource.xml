@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 11 Mar 2026 21:22:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 00:57:12 GMT</lastBuildDate>
+    <item>
+      <title>OBS 32.1.0 发布，支持 WebRTC 联播</title>
+      <link>https://www.reddit.com/r/opensource/comments/1rr9rcx/obs_3210_releases_with_webrtc_simulcast/</link>
+      <description><![CDATA[       由   提交 /u/Sean-Der   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1rr9rcx/obs_3210_releases_with_webrtc_simulcast/</guid>
+      <pubDate>Wed, 11 Mar 2026 23:09:24 GMT</pubDate>
+    </item>
     <item>
       <title>我的第一个开源项目——一个用于运行 SaaS 公司的逐文件夹操作系统，旨在与 AI 代理配合使用</title>
       <link>https://www.reddit.com/r/opensource/comments/1rr3dkn/my_first_opensource_project_a_folderbyfolder/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>AgileAI：将敏捷转变为人工智能驱动开发的“短跑马拉松”</title>
       <link>https://www.reddit.com/r/opensource/comments/1rr2dxe/agileai_turning_agile_into_sprintathons_for/</link>
-      <description><![CDATA[人类思想 问候。我一直专注于人工智能软件开发。在此过程中，我利用自己在敏捷软件开发方面的经验创建并发现了一些有用的东西，并将这些方法应用到我现在正在做的事情中。 计划、冲刺、回顾的一般思想以及我们为什么使用它本质上是在一群共同工作的人中应用正确的软件开发过程的一种手段。 这种新的思维方式在软件开发团队中引入了人工智能的理念。 每个开发人员现在都有自己的一组人工智能线程。这些开发人员正在并行开发。冲刺变成了“冲刺马拉松”，大量代码被添加、测试并从存储库中发布。 这个过程应该不断改进。 我相信这就是开始。 这是我真实的声音。下面是人工智能以结构化方式呈现我所指的内容，以便其他人可以使用它。 享受 GitHub 存储库，其中包含将其合并到您的工作流程中所需的一切。 这是开源的，因为它应该是。 https://github.com/baconpantsuppercut/AgileAI 人工智能生成的解释 这个项目探讨的问题很简单： 如何协调多个人工智能代理同时修改同一个存储库？ 传统的软件开发工作流程是为人类使用 Git 分支、拉取请求、站立和冲刺计划等工具进行社交协调而设计的。 当人工智能成为开发团队的一部分时，动态就会发生变化。 单个开发人员可以同时运行多个AI编码线程。一个团队可能有许多开发人员，每个开发人员都运行自己的 AI 工作流程。突然间，存储库可能会经历大量并行代码生成。 如果没有协调，这可能会很快产生问题，例如迁移冲突、API 意外更改、代理覆盖彼此的工作或 CI 管道中断。 此存储库探索了一种轻量级解决方案：在存储库本身内存储机器可读的开发状态。 其想法是，存储库包含一个简单的协调层，AI 代理可以在进行更改之前读取该协调层。 存储库包括一个project_state 目录包含 state.yaml、sprintathon.yaml、schema_version.txt 和单独更改文件等文件。 这些文件允许 AI 代理和开发人员了解哪些工作处于活动状态、哪些工作已完成、系统的哪些区域当前被保留以及哪些更改取决于其他区域。 还引入了“Sprintathon”的概念。这类似于冲刺，但专为人工智能加速开发而设计，其中人类和人工智能代理可以一起并行执行多个更改。 每个更改都会声明它所涉及的系统部分，从而允许并行开发而不会产生不必要的冲突。 目标不是取代现有的开发工作流程，而是为在开发过程中大量使用人工智能的团队增强它们。 这个项目是对人工智能原生开发工作流程可能是什么样子的早期探索。  我很想听听其他团队如何考虑在同一存储库中协调 AI 编码代理。 GitHub 存储库： https://github.com/baconpantsuppercut/AgileAI   由   提交/u/nocans  [链接] [评论]]]></description>
+      <description><![CDATA[人类思想 问候。我一直专注于人工智能软件开发。在此过程中，我利用自己在敏捷软件开发方面的经验创建并发现了一些有用的东西，并将这些方法应用到我现在正在做的事情中。 计划、冲刺、回顾的一般思想以及我们为什么使用它本质上是在一群共同工作的人中应用正确的软件开发过程的一种手段。 这种新的思维方式在软件开发团队中引入了人工智能的理念。 每个开发人员现在都有自己的一组人工智能线程。这些开发人员正在并行开发。冲刺变成了“冲刺马拉松”，大量代码被添加、测试并从存储库中发布。 这个过程应该不断改进。 我相信这就是开始。 这是我真实的声音。下面是人工智能以结构化方式呈现我所指的内容，以便其他人可以使用它。 享受 GitHub 存储库，其中包含将其合并到您的工作流程中所需的一切。 这是开源的，因为它应该是。 https://github.com/baconpantsuppercut/AgileAI 人工智能生成的解释 这个项目探讨的问题很简单： 如何协调多个人工智能代理同时修改同一个存储库？ 传统的软件开发工作流程是为人类使用 Git 分支、拉取请求、站立和冲刺计划等工具进行社交协调而设计的。 当人工智能成为开发团队的一部分时，动态就会发生变化。 单个开发人员可以同时运行多个AI编码线程。一个团队可能有许多开发人员，每个开发人员都运行自己的 AI 工作流程。突然间，存储库可能会经历大量并行代码生成。 如果没有协调，这可能会很快产生问题，例如迁移冲突、API 意外更改、代理覆盖彼此的工作或 CI 管道中断。 此存储库探索了一种轻量级解决方案：在存储库本身内存储机器可读的开发状态。 其想法是，存储库包含一个简单的协调层，AI 代理可以在进行更改之前读取该协调层。 存储库包含一个project_state 目录包含 state.yaml、sprintathon.yaml、schema_version.txt 和单独更改文件等文件。 这些文件允许 AI 代理和开发人员了解哪些工作处于活动状态、哪些工作已完成、系统的哪些区域当前被保留以及哪些更改取决于其他区域。 还引入了“Sprintathon”的概念。这类似于冲刺，但专为人工智能加速开发而设计，其中人类和人工智能代理可以一起并行执行多个更改。 每个更改都会声明它所涉及的系统部分，从而允许并行开发而不会产生不必要的冲突。 目标不是取代现有的开发工作流程，而是为在开发过程中大量使用人工智能的团队增强它们。 这个项目是对人工智能原生开发工作流程可能是什么样子的早期探索。  我很想听听其他团队如何考虑在同一存储库中协调 AI 编码代理。 GitHub 存储库： https://github.com/baconpantsuppercut/AgileAI   由   提交/u/nocans  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rr2dxe/agileai_turning_agile_into_sprintathons_for/</guid>
       <pubDate>Wed, 11 Mar 2026 18:42:42 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/NXGZ   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rocpwe/open_sores_an_essay_on_how_programmers_spent/</guid>
       <pubDate>Sun, 08 Mar 2026 18:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有开源共享列表功能的任务管理？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rocbiz/task_management_with_shared_list_capabilities/</link>
-      <description><![CDATA[是否有任何开源任务管理（待办事项）可以让您像 Microsoft 待办事项一样共享任务列表？我查看了“超级生产力”，但它不允许这样做，也不允许多个帐户。   由   提交 /u/DrunkOnRamen   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rocbiz/task_management_with_shared_list_capabilities/</guid>
-      <pubDate>Sun, 08 Mar 2026 18:28:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
