@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Mar 2026 12:31:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 15:48:19 GMT</lastBuildDate>
     <item>
-      <title>将 WhatsApp 聊天集成到网络应用程序中的最佳方式，无需重新发明轮子</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrpg2z/best_way_to_integrate_whatsapp_chats_into_a_web/</link>
-      <description><![CDATA[我正在使用 React + 自托管 Supabase（符合意大利/GDPR 标准）构建一个诊所管理系统。 患者只想通过 WhatsApp（诊所号码）进行通信，但操作员需要在患者仪表板内查看和管理这些聊天。 问题：WhatsApp Business API 需要大量的开发工作（模板、24 小时服务）消息窗口、媒体处理等）。我知道 Meta 提供了用于在 24 小时窗口外发送消息的消息模板，但这仍然需要在应用程序内实施和管理模板、批准和媒体处理。非官方 API 还存在帐户被封禁的风险。 我宁愿避免直接在应用程序中构建所有消息传递逻辑，而是让应用程序专注于管理患者数据。 在这种情况下，24 小时消息传递窗口也存在问题。例如，操作员可能希望在预约或就诊之前向患者发送有用的信息，即使患者在过去 24 小时内没有发送消息。 目标：患者通过 WhatsApp 发送消息 → 消息显示在应用程序的患者记录中。然后，操作员可以直接通过患者卡内的患者聊天进行回复并提供支持。 基本上，如果可以嵌入 WhatsApp Web，则可以解决所有问题，但我们知道由于 CORS 限制，这是不可行的。 是否有一种解决方案可以避免重新发明轮子，同时仍允许患者仅通过 WhatsApp 与诊所进行通信？ 对 SaaS 工具、自托管解决方案或架构建议持开放态度。 开放于 SaaS 工具、自托管解决方案或架构建议。   由   提交 /u/benaltrismo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrpg2z/best_way_to_integrate_whatsapp_chats_into_a_web/</guid>
-      <pubDate>Thu, 12 Mar 2026 12:29:35 GMT</pubDate>
+      <title>我构建了基于浏览器的免费工具来调试分布式跟踪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrub09/i_built_free_browserbased_tools_for_debugging/</link>
+      <description><![CDATA[我构建的几个免费工具，如果您使用微服务，它们可能会很有用：  跟踪可视化工具 - 粘贴 OTLP/Jaeger JSON 跟踪数据并将其视为瀑布图或火焰图。对于在本地调试而不需要启动完整的 Jaeger/Tempo 实例很有用。 OTel Config Generator - 为 Go、Node.js、Python、Java、.NET、Ruby、PHP 和 Laravel 生成 OpenTelemetry 设置代码。选择您的语言 + 框架，获取有效的配置文件。 延迟计算器 - 模拟 P99 延迟如何跨服务依赖项复合。输入您的服务计数和每个服务的延迟，以查看真正的尾部延迟。  全部免费，无需注册，无需跟踪。    由   提交 /u/terdia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrub09/i_built_free_browserbased_tools_for_debugging/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>编写一次就能真正运行的 JavaScript——神话还是奇迹？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrpcpr/writing_javascript_that_actually_works_on_the/</link>
-      <description><![CDATA[我发誓编写一次就能完美运行的 JavaScript 感觉就像一个奇迹。  大多数时候，您最终会调试语法错误、未定义的变量或意外行为。  即使是很小的函数也需要多次尝试才能正确。是否有人真正编写了立即可用的代码，或者调试只是每个人过程的一部分？   由   提交 /u/ModernWebMentor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrpcpr/writing_javascript_that_actually_works_on_the/</guid>
-      <pubDate>Thu, 12 Mar 2026 12:25:05 GMT</pubDate>
+      <title>构建了一个有趣的工具，可以通过屏幕录制和屏幕截图审核用户体验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rruau6/built_a_fun_tool_that_audits_ux_from_screen/</link>
+      <description><![CDATA[      在构建产品时，我一直遇到同样的问题。 你可以说你的产品流程感觉不太对劲，但很难确定到底出了什么问题。 反馈通常看起来像： “用户体验让人感到困惑” “入门很奇怪” 但是那种反馈并不能告诉你实际要修复什么。 因此我开始尝试一种名为 ShipShape 的工具。 这个想法很简单：您上传一个简短的屏幕录制或产品流程的屏幕截图，它会生成对界面中可能发生的情况的结构化审核。 它会关注以下内容： • UI 层次结构和清晰度 • 导航摩擦 • 引导信号 • 不明确的行动或竞争的 CTA • 信任指标和产品信号 它返回的不是含糊的反馈，而是： • 流程的执行摘要 • 优先考虑的问题 • 为何重要的解释 • 改进清单 我最近还添加的一件事是技术和架构信号，因为用户体验问题通常与实施决策相关。 例如，分析可以揭示以下内容： • 潜在的后端可扩展性风险 • API 性能瓶颈 • 身份验证/会话处理问题 • 缓存或架构改进 因此，我们的目标是尽早发现产品、用户体验和实施问题，以免它们变成更大的问题。 现在它适用于： • 屏幕截图 •短屏幕录制 我仍在弄清楚这对构建者是否真的有用，所以我真诚地希望得到开发人员的反馈。 这样的东西在审查您自己的产品流程时会有所帮助吗？ 如果有人想尝试一下： shipshapelab.com   由   提交/u/DaPreachingRobot   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rruau6/built_a_fun_tool_that_audits_ux_from_screen/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:45:44 GMT</pubDate>
     </item>
     <item>
-      <title>我如何帮助网络开发人员为他们的项目费用增加 2,000 美元以上</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rroysh/how_im_helping_web_devs_add_2k_to_their_project/</link>
-      <description><![CDATA[大家好， 我是一名人工智能开发人员，最近我注意到一个很大的差距。我们建立了出色的网站，但客户仍然在手动潜在客户跟踪、混乱的电子表格或回答相同的 50 个常见问题解答上浪费时间。 我已经开始了一种双赢的合作伙伴模式，并且我正在寻找更多的开发人员与之合作。 概念：我构建我所说的“人工智能大脑”，例如自定义潜在客户限定符、WhatsApp-to-Sheet 财务跟踪器或自动化客户支持层。 合作伙伴关系如何运作： • 您将这些作为高级“AI Power-Up”提供。给您现有的或新的客户。 • 您保留大部分安装费（因为您拥有客户关系）。 • 我负责 100% 的技术后端和维护工作。 它使您的网站更具竞争力，并为您的项目增加高收入来源，而不会增加您的开发负担。 我不想雇用任何人。我正在寻找希望为客户提供更多价值的合作伙伴，同时我专注于我喜欢的技术。 如果您是自由职业者或经营一家小型代理机构，并且想要查看其外观的演示，请发表评论或给我发私信。很想知道您的客户最近要求哪些人工智能功能！   由   提交 /u/Relative-Mix-5318   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rroysh/how_im_helping_web_devs_add_2k_to_their_project/</guid>
-      <pubDate>Thu, 12 Mar 2026 12:07:15 GMT</pubDate>
+      <title>我试图在一个周末建立“营销”，却打破了我自己的分析（经典）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrtooq/i_tried_to_set_up_marketing_in_one_weekend_and/</link>
+      <description><![CDATA[周六上午 9:12，我喝了一杯新鲜咖啡，列出了一份待办事项清单，以及在接触任何非代码之前才会获得的那种妄想般的自信。目标很简单。在周末交付完整的“营销堆栈”，这样我就可以不再假装我“稍后”再做。 我是一名网络开发人员。我喜欢运输功能。我不喜欢营销。营销让我感觉自己穿着别人的鞋子。 技术背景：Next.js 应用程序、Postgres，托管在基本的 VPS 设置上。我已经有了授权、计费等无聊的东西。我没有一个干净的方法来回答诸如“这个注册来自哪里？”之类的基本问题。或者“有人看到这个公告吗？” 所以我连接了事件、浏览量跟踪和一些活动链接。然后我立刻就把事情搞砸了。我错误配置了一个事件名称（实际上是一个额外的字符），并花了两个小时想知道为什么我的“Trial_started”计数为零。有一次我以为我的支付流程被破坏了，我重新启动了我的服务器，这样会有所帮助。但事实并非如此。 最令人羞愧的部分：我意识到我一直在告诉自己“我是数据驱动的”，但我没有实际数据，因为我从未完成管道工作。我有共鸣。 我还设置了社交聆听和基本的人工智能写作工作流程，这样我就可以起草回复，而无需盯着空白框 20 分钟。我在这部分使用了 Karis，主要是因为它表面提到我自己找不到，而且它可以让我跟踪人工智能助理是否会在人们询问我的类别时提及我。 什么不起作用：我尝试一次性安排一周的帖子，到了第三个帖子，我听起来就像是来自品牌帐户的品牌帐户2014年，全部删除。另外，我仍然不知道“正确的”事件分类法。我不断地改变名字，然后我的图表看起来就像抽象艺术。 如果你是一名开发者，必须在事后进行营销，你如何决定哪 3 个事件真正重要，而不将整个应用程序遗忘？   由   提交/u/Larry_Potter_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrtooq/i_tried_to_set_up_marketing_in_one_weekend_and/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:22:52 GMT</pubDate>
     </item>
     <item>
-      <title>搜索整个网站源代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrog1y/search_entire_website_source_code/</link>
-      <description><![CDATA[大家好 我正在寻找一种工具，只需单击一下即可扫描整个网站中的特定代码/文本。 我从 Salesforce id 获得了线索，但不确定在哪个页面上使用它，考虑到我拥有的页面数量，手动搜索整个网站是一项艰巨的任务。因此，如果有人可以推荐一个可以扫描所有代码并向我显示结果的免费网站/应用程序，那将会很有帮助 提前谢谢您   由   提交/u/Holiday-Soup254  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrog1y/search_entire_website_source_code/</guid>
-      <pubDate>Thu, 12 Mar 2026 11:42:03 GMT</pubDate>
+      <title>寻找有关我的第一个程序化 SEO 项目的反馈 - 来自一个 JSON 文件的 550 页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrtkt7/looking_for_feedback_on_my_first_programmatic_seo/</link>
+      <description><![CDATA[一直在学习 Next.js 并想要构建一些真实的东西。 制作了一个狗品种比较网站，该网站从单个 JSON 数据文件生成其所有内容 - 品种简介、比较页面、成本计算器、匹配测验。 Vercel 免费套餐上有 50 个品种 = 约 550 个静态页面。 pickadogbreed.com  我希望得到一些反馈： - 页面加载速度 - 感觉很快吗？ - 移动体验 - 有什么损坏或尴尬的地方吗？ - 比较页面上的雷达图 - 有用还是噱头？我发布的第一个真正的项目。需要的话烤一下，我可以拿走。   由   提交 /u/Dthathurt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrtkt7/looking_for_feedback_on_my_first_programmatic_seo/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:18:46 GMT</pubDate>
     </item>
     <item>
-      <title>搜索整个网站源代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrofhu/search_entire_website_source_code/</link>
-      <description><![CDATA[大家好 我正在寻找一种工具，只需单击一下即可扫描整个网站中的特定代码/文本。 我从 Salesforce id 获得了线索，但不确定在哪个页面上使用它，考虑到我拥有的页面数量，手动搜索整个网站是一项艰巨的任务。因此，如果有人可以推荐一个可以扫描所有代码并向我显示结果的免费网站/应用程序，那将会很有帮助 提前谢谢您   由   提交/u/Holiday-Soup254  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrofhu/search_entire_website_source_code/</guid>
-      <pubDate>Thu, 12 Mar 2026 11:41:11 GMT</pubDate>
+      <title>厌倦了访问这么多网站，因此开始为伦敦活动编制索引 (https://nifty.day)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrtkg8/got_tired_of_visiting_so_many_sites_so_started/</link>
+      <description><![CDATA[      我无法轻松查看伦敦附近发生的事情（我碰巧住在哈默史密斯地区），因此我开始对该地区的定时事件建立索引。 https://nifty.day。 以前，我必须检查多个网站。特别是对于健身房或瑜伽馆来说，它们都有不同特点的单独页面。如果我想检查 3 个工作室，那就需要浏览 3 个具有不同结构的站点。不理想。   由   提交/u/xenodium  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrtkg8/got_tired_of_visiting_so_many_sites_so_started/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:18:23 GMT</pubDate>
     </item>
     <item>
-      <title>已经2年了。顶级框架的优缺点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rro7gf/been_2_years_pros_and_cons_of_top_frameworks/</link>
-      <description><![CDATA[大约 2 年前我转向 iOS，但我一直有一种想要回到 Web 开发的情绪。当我从事 Web 开发时，顶级框架是 React、Vue 和 Svelte，这些是对每个框架的总体看法：  React： 主要的行业标准。性能不是超级好，而且有很多优势，但是世界上很多地方已经在用这个了，所以如果你想要一份工作，就擅长这个。 Vue：有点像 React，在某些地方更好一些，但不会给你带来那么多工作。 Svelte： 在性能方面最好，但缺乏很多使 React 成为可能的社区库。太强大了。  现在怎么样？   由   提交 /u/zI9PtXEmOaDlywq1b4OX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rro7gf/been_2_years_pros_and_cons_of_top_frameworks/</guid>
-      <pubDate>Thu, 12 Mar 2026 11:29:41 GMT</pubDate>
+      <title>No.JS：HTML 优先的框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrt39v/nojs_a_htmlfirst_framework/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrt39v/nojs_a_htmlfirst_framework/</guid>
+      <pubDate>Thu, 12 Mar 2026 15:00:42 GMT</pubDate>
     </item>
     <item>
-      <title>需要金融科技领域帮助：哪种欧元服务可以让我通过 API 触发 SEPA 转账？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rro5y9/need_fintech_domain_help_which_euro_service_lets/</link>
-      <description><![CDATA[我有一个网络应用程序平台，我的欧元银行帐户中有销售收益（在我从 stripe 转账之后）。现在，当我单击应用程序上的按钮时，我需要触发从我的银行到合作伙伴的银行账户（IBAN 记录在我的数据库中）的 SEPA 电汇 - 因此大概是通过 API 调用。 我不是金融科技公司，也不是 PSP，那么适合我的用例的可用解决方案是什么？鉴于我的身份，这是授权的吗？如果没有，有什么替代方案可以确保我可以通过单击按钮向我的商业合作伙伴付款？ 提前致谢！   由   提交 /u/fredkzk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rro5y9/need_fintech_domain_help_which_euro_service_lets/</guid>
-      <pubDate>Thu, 12 Mar 2026 11:27:27 GMT</pubDate>
+      <title>您对 AI 辅助代码或类似 ChatGPT 的工具在代码质量方面的体验如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrt1t1/how_has_been_your_experience_with_ai_assisted/</link>
+      <description><![CDATA[大家好， TL;DR 我想听听您对 AI 辅助代码生成工具（如 Cursor（vibe 编码）或类似 ChatGPT 的代码生成实用程序）的体验，以及此类生成代码的质量如何。 当 GitHub Copilot 进入时，我经常使用它来获取建议。编写代码。我还使用 ChatGPT 来解决我的许多疑问。 我最终停止使用 Copilot，因为我觉得随着时间的推移，我的开发技能随着我对 Copilot 的依赖程度而下降。我确实回顾了 Copilot 提供给我的所有建议片段，但当谈到在我的脑海中建立相同逻辑的速度时，我觉得我不一样。我觉得，当我最终退出 Copilot 时，即使是我批准的建议也没有相同的质量，也没有得到与我一开始使用的相同深度分析的批准。 我现在只使用 ChatGPT 来处理我不知道的事情，例如，我目前正在研究的编程语言和框架的事情，因为我从一个不同的技术堆栈中转移过来，在这个技术堆栈上我有很多 YoE。我的逻辑分析很清楚，但还有很多配置问题我仍在努力掌握。 总而言之，我的经验是： - 有一些建议的代码行真是太酷了，这样我就可以“编写”代码了。更快 - 现在，我觉得我没有看到与我认为拥有的经验相同程度的代码 - 现在，我觉得我的代码质量正在恶化，因为我的分析能力正在恶化 - 我现在都是手工编码，并且只依靠人工智能工具来完成我实际上不知道的事情。 您在日常工作中对人工智能工具的体验如何？代码质量如何？   由   提交/u/_fountain_pen_dev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrt1t1/how_has_been_your_experience_with_ai_assisted/</guid>
+      <pubDate>Thu, 12 Mar 2026 14:59:19 GMT</pubDate>
     </item>
     <item>
-      <title>网络流还是其他？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrn9og/webflow_or_other/</link>
-      <description><![CDATA[从 squarespace 迁移。 在 Webflow、WordPress 和小型 B2B 网站的其他平台之间进行选择。  要求： 设计将在canva/figma中进行 - 每月博客+播客CMS需要内部更新，HubSpot集成，社区论坛。  非技术团队在移交后管理内容。你会选择什么？为什么？   由   提交/u/Difficult_Meet8637  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrn9og/webflow_or_other/</guid>
-      <pubDate>Thu, 12 Mar 2026 10:39:52 GMT</pubDate>
+      <title>批处理的 Postman 替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrsvkd/postman_alternative_for_batch_processing/</link>
+      <description><![CDATA[嗨， 看起来 Postman 推出了一个新版本，进一步削弱了免费用户的能力。他们已经限制了我每天可以运行的收集数量。  我有一个特定的批处理工作流程。到目前为止，我只能使用本地 CSV 文件运行集合。大多数时候，每日限额还可以。但现在他们不再允许从本地数据文件运行集合。您必须为该功能付费。  但是我对这个功能的使用还不够。也许每月 2-3 次。这并不能证明每年 108 欧元的计划是合理的。  长话短说：您知道有一种替代方案仍然允许我免费运行基于 CSV 的批处理吗？理想情况下是开源的，没有强制的云垃圾。    由   提交/u/BAMDaddy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrsvkd/postman_alternative_for_batch_processing/</guid>
+      <pubDate>Thu, 12 Mar 2026 14:52:27 GMT</pubDate>
     </item>
     <item>
-      <title>构建全栈 Rust Web 应用程序 - 几个月后的体验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrmzu1/building_a_fullstack_rust_web_application/</link>
-      <description><![CDATA[在过去的几个月里，我一直在构建 https://exodata.space - NASA 系外行星档案数据的目录。我的目标是测试 Rust 是否适用于全栈 Web 开发。 Stack：  Leptos 用于前端 - 支持服务器端渲染 Axum 用于后端 Polars 用于内存数据处理（无需数据库的快速查询） utoipa 用于自动 Swagger/OpenAPI 文档  感觉像 React、Leptos很好地处理SSR，前端和后端之间共享类型简化了开发。一切都在 Tokio 异步运行时运行。 Rust 生态系统工具看起来相当不错 - 强烈推荐它。 GitHub https://github.com/oiwn/exoplanets-catalog   由   提交 /u/git_oiwn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrmzu1/building_a_fullstack_rust_web_application/</guid>
-      <pubDate>Thu, 12 Mar 2026 10:24:15 GMT</pubDate>
+      <title>我构建了一个开源 WCAG 检查器，它可以模拟 Tab 键并捕获屏幕截图，而不仅仅是分析 DOM</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrsncq/i_built_an_opensource_wcag_checker_that_simulates/</link>
+      <description><![CDATA[大家好， 大多数辅助工具都存在缺陷，因为它们只扫描 DOM。虽然它们会捕获丢失的替代文本或损坏的 ARIA 属性，但一些 WCAG 标准需要实际的页面交互来验证。 我想要一个工具来处理“不可自动化”的问题。 SpecA11y。它使用 Playwright 驱动真实的浏览器，允许它测试静态分析错过的场景： • 键盘陷阱 (2.1.2)： 它通过物理按 Tab 键来查看焦点是否卡住。 • 焦点指示器 (2.4.7)： 它捕获屏幕截图之前/之后的内容以检测视觉效果更改。 • 文本间距 (1.4.12)： 它注入 WCAG 规定的 CSS 覆盖并检查布局剪裁。 • 重排 (1.4.10)： 将视口大小调整为 320 像素并检测水平滚动。 • 目标大小 (2.5.8)： 它测量真实的边界框，而不仅仅是测量边界框读取 CSS 值。 除了这些交互式测试之外，它还涵盖全套标准检查：颜色对比度（使用 alpha 合成）、accName 1.2 名称计算、ARIA 验证和地标结构。 项目详细信息： • 106 条规则，涵盖 WCAG 2.0/2.1/2.2 (A/AA/AAA) • 3 个实验性 WCAG 3.0 草案规则 • SARIF 2.1.0 支持 GitHub 代码扫描 • 具有文本、JSON 和 SARIF 输出的 CLI • 用于 n8n 工作流程自动化的社区节点 • 289 个测试用例 • MIT 许可/100% 免费 快速入门： Bash pnpm add /core playwright pnpm exec playwright install chromium  TypeScript 从 &#39;@speca11y/core&#39; 导入 { check };从“剧作家”导入{铬}； const 浏览器 = 等待 chromium.launch(); const page = 等待 browser.newPage();等待 page.goto(&#39;https://example.com&#39;); const 报告 = 等待检查(页, { level: &#39;AA&#39; }); console.log(`违规：${report.summary.counts.violations}`);等待浏览器.close();  CLI 用法： Bash pnpm add -g u/speca11y/cli speca11y https://example.com  链接： • GitHub：https://github.com/OKlueck/SpecA11y • npm:https://www.npmjs.com/package/@speca11y/core 我很想听听您对当前规则的反馈或想法工具通常会忽略。很高兴回答任何问题！   由   提交 /u/elronat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrsncq/i_built_an_opensource_wcag_checker_that_simulates/</guid>
+      <pubDate>Thu, 12 Mar 2026 14:43:39 GMT</pubDate>
     </item>
     <item>
-      <title>Mounjaro 价格比较网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrmwkj/mounjaro_price_comparison_site/</link>
-      <description><![CDATA[      如果您要检查 2.5 毫克到 15 毫克的成本，此仪表板可让您清楚地了解：  当前最低价格 Trustpilot 评级 折扣信息 GPhC 注册链接 移动设备友好  我在后台为此工作了一段时间因为我们目前的网站还不是很清楚，但请随时批评并让我知道您希望添加的任何更改。 这不是促销，因为我不出售任何东西，而是寻求有关改进内容的反馈， 与所有者最终确定使用数据的许可证，但同样，我没有什么可以出售的，只是一种显示它的方式   由   提交/u/AlphaBeast28  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrmwkj/mounjaro_price_comparison_site/</guid>
-      <pubDate>Thu, 12 Mar 2026 10:19:01 GMT</pubDate>
+      <title>编译为 JS 的 Elixir 框架 - 刚刚发布了 npm、Web API 和 Web 组件互操作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrrw2b/elixir_framework_that_compiles_to_js_just_shipped/</link>
+      <description><![CDATA[      我是 Hologram 的创建者，Hologram 是一个框架，可让您通过将其编译为浏览器的 JavaScript 来完全在 Elixir 中编写全栈应用程序。我相信 Elixir 值得一个真正的全栈故事，一个不会让你脱离 JS 生态系统的故事。 那里有 300 万个 npm 包和大量的 Web API - 不让 Elixir 开发人员利用它们将是一种罪恶。因此，我们刚刚在 v0.8.0 中提供了 JavaScript 互操作性：您现在可以调用 JS 函数、使用 npm 包、与 Web API 交互、实例化类以及使用 Web 组件 - 全部来自 Elixir，无需服务器往返。 这就是它的样子 - 使用 Elixir 的 Chart.js： ```elixir defmodule MyApp.DashboardPage do use Hologram.Page use Hologram.JS js_import from: &quot;chart.js&quot;, as: :Chart def action(:render_chart, _params, component) do canvas = JS.call(:document, :getElementById, [&quot;myChart&quot;]) chart = :Chart |&gt; JS.new([canvas, %{type: “bar”, data: component.state.data}]) |&gt; JS.call(:update, []) put_state(component, :chart, Chart)  end end ``` 完整详细信息：https://hologram.page/blog/hologram-v0-8-0-javascript-interop 网站：https://hologram.page GitHub：https://github.com/bartblast/hologram 很想听听你的想法。   由   提交/u/BartBlast  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrrw2b/elixir_framework_that_compiles_to_js_just_shipped/</guid>
+      <pubDate>Thu, 12 Mar 2026 14:14:21 GMT</pubDate>
     </item>
     <item>
-      <title>用于抓取工具的廉价数据中心代理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrml31/cheap_datacenter_proxies_for_scraping_tools/</link>
-      <description><![CDATA[所以我正在开发一个小型抓取项目并试图保持较低的成本。免费代理非常不可靠，其中一半已失效或已被阻止。数据中心代理似乎是最便宜的付费选项，但评论无处不在。   由   提交 /u/xXMinecraftPro123Xx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrml31/cheap_datacenter_proxies_for_scraping_tools/</guid>
-      <pubDate>Thu, 12 Mar 2026 10:00:19 GMT</pubDate>
+      <title>示例节点包？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrrqhv/exemplary_node_package/</link>
+      <description><![CDATA[大家好， 我正在制作我的第一个节点包供公众使用，我想先阅读一些好的开源代码。 我的包是最小的。您对您认为写得很好的小型开源节点包有什么建议吗？ 提前致谢！ PS 我最初将其发布在 r/node 中，只是为了意识到这里不可能进行交叉发布。无论如何，我很欣赏您的任何见解。谢谢！   由   提交/u/Perfect-Junket-165   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrrqhv/exemplary_node_package/</guid>
+      <pubDate>Thu, 12 Mar 2026 14:08:28 GMT</pubDate>
     </item>
     <item>
-      <title>类型安全缓存</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrmcp3/typesafe_caching/</link>
-      <description><![CDATA[       由   提交 /u/GlitteringPenalty210   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrmcp3/typesafe_caching/</guid>
-      <pubDate>Thu, 12 Mar 2026 09:45:47 GMT</pubDate>
+      <title>这个是副版主吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrr7ub/is_this_sub_moderated/</link>
+      <description><![CDATA[最近 AI 垃圾广告帖子的数量已经失控，为什么你们其他人还要回复这些帖子？   由   提交 /u/not_a_webdev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrr7ub/is_this_sub_moderated/</guid>
+      <pubDate>Thu, 12 Mar 2026 13:47:59 GMT</pubDate>
     </item>
     <item>
-      <title>寻求关于现代“Visual Wiki”CMS/平台的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrma1i/seeking_suggestions_for_a_modern_visual_wiki/</link>
-      <description><![CDATA[大家好， 我正在寻找一些关于最佳技术堆栈的建议，以构建高密度、视觉优先的技术档案。 目标是创建一些既能发挥 Wiki 深度和结构（交叉引用数据、技术规格、版本控制）的功能，又具有现代设计画廊美感的东西。少想“维基百科”以及更多“精心策划的数字博物馆”。 核心要求：  高度结构化数据：需要处理数千个具有关系链接的条目（例如，将特定技术组件链接到多个变体和日期）。 视觉优先：必须在本地处理高分辨率摄影和画廊，而不会影响性能。它需要看起来很高级。 功能性用户体验：快速、直观的搜索是首要任务。它既要实用又美观。 可自托管：我正在运行自己的硬件，希望完全控制数据和部署。  当前的困境：我关注过 Ghost 的性能和干净的发布，但我担心它处理深度嵌套的关系数据的能力。我还查看了 Wiki.js，它具有结构，但感觉更像“技术文档”。而不是“高级设计中心”。 对于这种“视觉维基”有哪些现代建议？   对于这种级别的数据映射，您是否有推荐的Headless CMS选项（例如 Payload 或 Strapi）？ 是否有任何静态站点生成器或现代文档框架可以很好地处理媒体密集型管理？ 有人见过特定的 Ghost 或 WordPress 设置吗？有效地模仿专业档案？  我试图在开始填充数据库之前打好基础。希望听到任何解决过“数据库即出版物”问题的人的意见。最近键入项目。 干杯！   由   提交/u/charlfourie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrma1i/seeking_suggestions_for_a_modern_visual_wiki/</guid>
-      <pubDate>Thu, 12 Mar 2026 09:41:06 GMT</pubDate>
+      <title>使用什么工作流引擎？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrqnp3/what_workflow_engine_to_use/</link>
+      <description><![CDATA[我的应用程序需要一个工作流引擎（不仅仅是 UI），用户可以在其中创建自己的工作流然后执行它们。可能会有数千个工作流程并行运行，处理数据库中的数百万行或行。  有什么建议吗？    由   提交 /u/Final-Choice8412   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrqnp3/what_workflow_engine_to_use/</guid>
+      <pubDate>Thu, 12 Mar 2026 13:24:21 GMT</pubDate>
     </item>
     <item>
-      <title>我使用这个 AI 工具通过一个提示生成了一个餐厅网站（演示）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrlgks/i_generated_a_restaurant_website_demo_using_one/</link>
-      <description><![CDATA[我一直在尝试使用 AI 构建器根据提示生成完整的 Web 应用程序。 尝试创建一个餐厅网站作为测试，并记录了结果的简短演示。   由   提交/u/rohanwasudeo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrlgks/i_generated_a_restaurant_website_demo_using_one/</guid>
-      <pubDate>Thu, 12 Mar 2026 08:50:12 GMT</pubDate>
+      <title>让我让你大吃一惊：渲染阻塞资源是如何发挥作用的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrpq5c/allow_me_to_blow_your_mind_how_render_blocking/</link>
+      <description><![CDATA[我制作此视频是为了更新一篇旧文章。对于你们中的许多人来说，这可能不是什么新信息（对我来说也不是什么新鲜事），但我对结果感到非常兴奋，因为我以前从未以如此清晰的方式看到过这种行为。 https://www.youtube.com/watch?v=fM7f3LTypAU   由   提交 /u/svvnguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrpq5c/allow_me_to_blow_your_mind_how_render_blocking/</guid>
+      <pubDate>Thu, 12 Mar 2026 12:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个双向浅色/深色模式切换器，因为我找不到适用于深色主题的灵活切换器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rrkb15/i_built_a_bidirectional_lightdark_mode_switcher/</link>
-      <description><![CDATA[      大家好， 我的个人网站一开始就是深色主题，我想让我的用户可以选择切换到浅色版本。 我搜索了现有的 WordPress 插件，但我发现几乎所有插件都只是为了强制使用“深色模式”而设计的。在轻型网站上。我找不到任何轻量级或 100% 可定制的东西来正确执行相反的操作（从暗到亮）。 因此，我决定构建自己的解决方案。在我的网站上使用它一段时间后，我最近决定对其进行完善并在官方存储库上免费发布。 它是如何工作的： &gt;这是一个双向切换。无论您的基本主题是浅色还是深色，它都会使用 CSS 变量处理两种方式的切换。 我很想获得一些有关功能和实现的技术反馈：https://wordpress.org/plugins/svisciano-light-dark-theme-mode/ 这种方法可行吗（双向切换）对您来说有意义，或者是否有更好的方法来处理“默认为深色”的主题？ 谢谢！   由   提交 /u/t3cksymo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rrkb15/i_built_a_bidirectional_lightdark_mode_switcher/</guid>
-      <pubDate>Thu, 12 Mar 2026 07:35:15 GMT</pubDate>
+      <title>为 Cloudflare 的新 /crawl API 构建了 UI。担心反机器人缺陷。这实际上有用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rrpol1/built_a_ui_for_cloudflares_new_crawl_api_worried/</link>
+      <description><![CDATA[   大家好， 我一直在为 Cloudflare 的新 /crawl API 构建前端（将 URL 转换为结构化 JSON 并触发 Webhooks）。 从视觉上看，它已经完成，但我担心它实际上可能没有用。主要缺陷：由于它依赖于 Cloudflare，因此请求被严重标记为机器人。它会被任何具有良好反机器人保护的页面（Amazon、Twitter、LinkedIn 等）阻止，因此它只能在未受保护的网站上运行。 开门见山：  这对您仍然有用吗？ 您实际上会用它做什么？或者说反机器人程序块完全破坏了交易？  附上一些用户界面的屏幕截图。在我继续构建之前，请告诉我您的诚实意见。  https://preview.redd.it/dom7q0lf0mog1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=91a0d81870e27cc4537f65b6ffe2f86fe9254ced &lt;一href=&quot;https://preview.redd.it/zl7m05wj0mog1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=73c22268bf15ff3124bc2e6dcdcf81bccc7add4f&quot;&gt; https://preview.redd.it/zl7m05wj0mog1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=73c22268bf15ff3124bc2e6dcdcf81bccc7add4f &lt;一href=&quot;https://preview.redd.it/o71pjcfk0mog1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=24d81340697edd67b608293cf432a9f5b9e08af0&quot;&gt; https://preview.redd.it/o71pjcfk0mog1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=24d81340697edd67b608293cf432a9f5b9e08af0   由   提交 /u/Reasonable-Stage-368   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rrpol1/built_a_ui_for_cloudflares_new_crawl_api_worried/</guid>
+      <pubDate>Thu, 12 Mar 2026 12:40:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
