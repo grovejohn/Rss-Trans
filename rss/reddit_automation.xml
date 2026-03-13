@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 13 Mar 2026 06:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 09:27:45 GMT</lastBuildDate>
+    <item>
+      <title>构建了一个客户入门流程，可处理从表单到签名 PDF 的所有事务</title>
+      <link>https://www.reddit.com/r/automation/comments/1rshon9/built_a_client_onboarding_flow_that_handles/</link>
+      <description><![CDATA[客户填写入职表格。当他们点击提交时，他们的收件箱中会收到一封欢迎电子邮件，我的 CRM 包含他们的详细信息，并附加了他们注册内容的 PDF 摘要。 我构建了这个，因为所有这些都是我手动完成的。新客户进来时，我会将他们的详细信息复制到我的 CRM 中，给他们写一封欢迎电子邮件，并附上我在 Word 中制作的 PDF。每次。对于每个客户。 该表单位于我的域中，使用 CustomJS Form Builder 构建。当有人提交它时，就会触发 Make 工作流程。 Make 将客户详细信息写入我的 CRM，然后将表单数据传递给 CustomJS，后者用客户的名称、套餐、开始日期和价格填充 HTML 模板，并将其转换为 PDF。 Make 将 PDF 附加到欢迎电子邮件中并发送。 花费最长的部分是编写 HTML 模板。完成后，剩下的大约一个小时就完成了。现在，整个过程无需我碰触即可运行。 大多数人遇到的问题是 PDF 步骤，因为 Make 没有构建文件的本机方法。 CustomJS 有一个 make 模块，可以接收数据并返回 PDF，它完全适合任何 Make 场景，无需任何额外的设置。   由   提交/u/RoadFew6394  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rshon9/built_a_client_onboarding_flow_that_handles/</guid>
+      <pubDate>Fri, 13 Mar 2026 08:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn 自动化的聊天机器人 + AI 头像工作流程</title>
+      <link>https://www.reddit.com/r/automation/comments/1rshcl4/chatbot_ai_headshot_workflow_for_linkedin/</link>
+      <description><![CDATA[构建自动化 LinkedIn 工作流程，将聊天机器人与 AI 头像相结合。使用 AI 头像生成器 Looktara（35 美元）从自拍照中创建专业头像，然后输入聊天机器人提示中以获取个性化 LinkedIn 内容。 聊天机器人提示：“从创始人的角度撰写有关 SaaS 增长的 LinkedIn 帖子。使用这个专业爆头[插入AI爆头]。目标关键词AI头像和专业头像。” 3分钟内生成帖子+视觉效果。每周在创始人帐户上安排 15 个帖子。 2 个月内粉丝数量从 3000 增加到 12000。对于企业客户来说，AI 头像看起来足够逼真，聊天机器人处理消息传递。 有人为个人品牌构建聊天机器人 + AI 头像工作流程吗？用于聊天机器人集成的最佳人工智能爆头生成器？ Looktara 非常适合通过目视检查的 LinkedIn 头像。   由   提交 /u/Grouchy-Frame-7951   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rshcl4/chatbot_ai_headshot_workflow_for_linkedin/</guid>
+      <pubDate>Fri, 13 Mar 2026 08:04:59 GMT</pubDate>
+    </item>
     <item>
       <title>反向提示帮助我修复了语音代理对话循环。</title>
       <link>https://www.reddit.com/r/automation/comments/1rsf36g/reverse_prompting_helped_me_fix_a_voice_agent/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>全面竞争性研究 (OSS) 代理</title>
       <link>https://www.reddit.com/r/automation/comments/1rs59d7/agents_for_full_competitive_research_oss/</link>
-      <description><![CDATA[      免责声明：我这样做是出于我的极度懒惰。如果您喜欢浏览竞争对手的网站，那么这不适合您！  去年，在运营一个利基会员网站时，当我得知 30% 的会员实际上订阅了 2 或 3（！！）个像我这样的其他服务时，我感到震惊。  那一刻我知道我应该跟踪我的竞争对手在做什么。 快进到今天。 我最终卖掉了那个小众会员网站，但我现在非常清楚了解你的竞争对手在做什么（当他们进行促销、广告活动、消息传递和漏斗页面的变化）有多么重要。 所以我建立了 Snoopstr.你给它任何业务（如果是 B2C 就更好了），它会找出竞争对手是谁，然后并行发送 4 个人工智能代理来分析每个业务：  定价：分析定价结构和定位（和变化） 登陆页面分析师：细分标题、CTA、信任信号 Facebook 广告库：我最喜欢的一个！查找活跃的广告活动和他们正在运行的渠道。 Instagram 分析器：发布频率、参与度、内容风格  它带有一个并排的仪表板，您可以在其中比较每个人。 我刚刚开源了整个东西，我计划进行自动监控和完整的渠道分析。 如果您有兴趣，请告诉我，我会将存储库发送给您:)   由   提交/u/gabrilator  [链接] [评论] ]]></description>
+      <description><![CDATA[      免责声明：我这样做是出于我的极度懒惰。如果您喜欢浏览竞争对手的网站，那么这不适合您！  去年，在运行一个利基会员网站时，当我得知 30% 的会员实际上订阅了 2 或 3（！！）个像我这样的其他服务时，我感到震惊。  那一刻我知道我应该跟踪我的竞争对手在做什么。 快进到今天。 我最终卖掉了那个小众会员网站，但我现在非常清楚了解你的竞争对手在做什么（当他们进行促销、广告活动、消息传递和漏斗页面的变化）有多么重要。 所以我建立了 Snoopstr.你给它任何业务（如果是 B2C 就更好了），它会找出竞争对手是谁，然后并行发送 4 个人工智能代理来分析每个业务：  定价：分析定价结构和定位（和变化） 登陆页面分析师：细分标题、CTA、信任信号 Facebook 广告库：我最喜欢的一个！查找活跃的广告活动和他们正在运行的渠道。 Instagram 分析器：发布频率、参与度、内容风格  它带有一个并排的仪表板，您可以在其中比较每个人。 我刚刚开源了整个东西，我计划进行自动监控和完整的渠道分析。 如果您有兴趣，请告诉我，我会将存储库发送给您:)   由   提交/u/gabrilator  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rs59d7/agents_for_full_competitive_research_oss/</guid>
       <pubDate>Thu, 12 Mar 2026 22:21:36 GMT</pubDate>
     </item>
@@ -53,13 +67,6 @@
       <description><![CDATA[ 由   提交/u/Busy-Ad4869  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rs4qzd/im_building_ai_assistant_like_jarvis_how_do_i/</guid>
       <pubDate>Thu, 12 Mar 2026 22:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 PowerShell 脚本自动化我的整个 Windows 工作流程每周节省我的时间</title>
-      <link>https://www.reddit.com/r/automation/comments/1rs0vsv/automating_my_entire_windows_workflow_with/</link>
-      <description><![CDATA[       由   提交 /u/Far_Inflation_8799   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rs0vsv/automating_my_entire_windows_workflow_with/</guid>
-      <pubDate>Thu, 12 Mar 2026 19:41:10 GMT</pubDate>
     </item>
     <item>
       <title>我终于通过 Telegram 自动化了我的整个社交媒体展示（不再需要 50 美元/月的 Buffer/Hootsuite）</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[阿里巴巴刚刚在长期开发周期跟踪的 100 个真实代码库上测试了 AI 编码代理，结果并不理想。 大多数代理只处理了小修复或通过了一次测试。但当基准衡量长期维护时，事情开始分崩离析。 测试（称为 SWE-CI）着眼于代理如何处理真实的项目演变 - 在大约 8 个月的变化中大约 71 次连续提交。 这就是模型陷入困境的地方。 事实证明，生成补丁是一回事。随着需求变化、依赖关系转移和新提交堆积，维护代码库是一个完全不同的问题。 它强调了我们谈论得不够多的事情：大多数 AI 编码演示都显示一次性成功，而不是经过几个月的实际开发后会发生什么。 好奇人们的想法 - 这只是一个早期阶段的限制，还是表明 AI 编码工具将更像助手而不是自主开发人员？   由   提交 /u/Such_Grace   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rrx1nq/ai_coding_agents_failed_spectacularly_on_new/</guid>
       <pubDate>Thu, 12 Mar 2026 17:23:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI SDR 系统是否会取代传统自动化工具？</title>
-      <link>https://www.reddit.com/r/automation/comments/1rrs6j6/are_ai_sdr_systems_replacing_traditional/</link>
-      <description><![CDATA[自动化工具帮助团队构建强大的工作流程，但随着时间的推移，管理它们可能会变得复杂。 AI SDR 系统有望用自主勘探代理取代复杂的自动化链。对于构建自动化工作流程的人们来说，您是否看到这种转变正在发生？   由   提交/u/chatarii  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rrs6j6/are_ai_sdr_systems_replacing_traditional/</guid>
-      <pubDate>Thu, 12 Mar 2026 14:25:38 GMT</pubDate>
     </item>
     <item>
       <title>有哪些无聊的任务是你最终自动化完成并立即后悔没有早点完成的？</title>
