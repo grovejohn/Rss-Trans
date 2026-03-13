@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 12 Mar 2026 21:23:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 04:28:57 GMT</lastBuildDate>
     <item>
       <title>如何正确做开源项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1rs2cib/how_do_i_do_open_source_projects_correctly/</link>
-      <description><![CDATA[嗨，我有一个非常有用的项目的想法，它对我有用，我想对其他人也有用，我决定将它开源，我看到了 openClaw，我想知道如何正确地做到这一点？一个人怎样才能正确开始呢？ Any 101 guide or some relevant bible 😅 Any help appreciated, thanks !    由   提交 /u/PazCrypt   [链接] [comments]]]></description>
+      <description><![CDATA[嗨，我有一个非常有用的项目的想法，它对我有用，我想对其他人也有用，我决定将它开源，我看到了 openClaw，我想知道如何正确地做到这一点？一个人怎样才能正确开始呢？任何 101 指南或一些相关圣经😅 任何帮助表示赞赏，谢谢！    由   提交 /u/PazCrypt   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rs2cib/how_do_i_do_open_source_projects_correctly/</guid>
       <pubDate>Thu, 12 Mar 2026 20:33:48 GMT</pubDate>
     </item>
@@ -90,9 +90,9 @@
       <pubDate>Wed, 11 Mar 2026 09:45:48 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>制作了一个免费工具，可自动将 macOS 屏幕录制从 MOV 转换为 MP4</title>
       <link>https://www.reddit.com/r/opensource/comments/1rq3kgq/made_a_free_tool_that_autoconverts_macos_screen/</link>
-      <description><![CDATA[macOS saves all screen recordings as .mov files.如果您必须在上传或共享之前将它们转换为 .mp4，此工具会在后台自动执行此操作。 工作原理：  轻量级后台服务会监视您的桌面（或您选择的任何文件夹）以查找新的屏幕录制内容 当出现新屏幕录制内容时，它会立即使用 ffmpeg 将其重新混合为 .mp4 — 无需重新编码，零质量损失 原始.mov在转换后被删除 登录时运行，几乎不使用任何资源（macOS本机文件观看，无轮询）  安装：  brew tap arch1904/mac-mp4-screen-rec brew install mac-mp4-screen-rec mac-mp4-screen-rec start  就这样。您还可以观看其他文件夹 (mac-mp4-screen-rec add ~/Documents) 或转换所有 .mov 文件，而不仅仅是屏幕录制 (mac-mp4-screen-rec config --all-movs)。 为什么 MOV → MP4 是无损的： macOS 屏幕录制使用 H.264/AAC。 MOV 和 MP4 都只是相同流的容器 - 重新混合只是重写元数据包装器，因此需要几秒钟的时间，并且视频是逐位相同的。 GitHub：https://github.com/arch1904/MacMp4ScreenRec 免费、开源、MIT 许可。 Just a shell script + launchd.   由   提交 /u/hadouken_1   [链接] [comments]]]></description>
+      <description><![CDATA[macOS 将所有屏幕录制保存为 .mov 文件。如果您必须在上传或共享之前将它们转换为 .mp4，此工具会在后台自动执行此操作。 工作原理：  轻量级后台服务会监视您的桌面（或您选择的任何文件夹）以查找新的屏幕录制内容 当出现新屏幕录制内容时，它会立即使用 ffmpeg 将其重新混合为 .mp4 — 无需重新编码，零质量损失 原始.mov在转换后被删除 登录时运行，几乎不使用任何资源（macOS本机文件观看，无轮询）  安装：  brew tap arch1904/mac-mp4-screen-rec brew install mac-mp4-screen-rec mac-mp4-screen-rec start  就这样。您还可以观看其他文件夹 (mac-mp4-screen-rec add ~/Documents) 或转换所有 .mov 文件，而不仅仅是屏幕录制 (mac-mp4-screen-rec config --all-movs)。 为什么 MOV → MP4 是无损的： macOS 屏幕录制使用 H.264/AAC。 MOV 和 MP4 都只是相同流的容器 - 重新混合只是重写元数据包装器，因此需要几秒钟的时间，并且视频是逐位相同的。 GitHub：https://github.com/arch1904/MacMp4ScreenRec 免费、开源、MIT 许可。只是一个 shell 脚本 + launchd。   由   提交 /u/hadouken_1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rq3kgq/made_a_free_tool_that_autoconverts_macos_screen/</guid>
       <pubDate>Tue, 10 Mar 2026 17:37:18 GMT</pubDate>
     </item>
