@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 12 Mar 2026 21:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 00:59:58 GMT</lastBuildDate>
+    <item>
+      <title>为 Windows 设计轻量级桌面控制层</title>
+      <link>https://www.reddit.com/r/software/comments/1rs548r/designing_a_lightweight_desktop_control_layer_for/</link>
+      <description><![CDATA[大家好 👋 在使用 Windows 时，我经常注意到简单的桌面操作分散在许多不同的实用程序中。 例如：控制媒体、检查系统统计数据、启动计时器或快速启动工具通常意味着打开单独的应用程序或面板。 因此我开始尝试一个名为 DockBar 的小型个人项目。 这个想法是探索位于屏幕顶部的轻量级“控制层”是否可以使这些操作更快，并减少对工作流程的干扰。 现在我主要尝试： • 持久桌面栏的 UI 行为 • 平衡快速访问与视觉混乱 • 保持工具轻量级，同时仍然有用 我很好奇这里的人们如何看待这种桌面交互模型。 您是否更喜欢单独的实用程序一切，或者小型集成控制层对您的工作流程有意义吗？   由   提交 /u/Wapkain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rs548r/designing_a_lightweight_desktop_control_layer_for/</guid>
+      <pubDate>Thu, 12 Mar 2026 22:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Windows] ActiveRest - 使用 .NET 9 构建的简约、行政风格的生产力跟踪器和健康套件。</title>
+      <link>https://www.reddit.com/r/software/comments/1rs4ftl/windows_activerest_a_minimalist_executivestyle/</link>
+      <description><![CDATA[嘿r/software。我即将发布 ActiveRest，这是一款专门为想要高端跟踪体验的 Windows 用户提供的实用程序。 主要功能：  无框架 Mac 风格 UI： 干净、现代且无干扰。 智能模式检测： 使用核心音频 API 区分工作和媒体会话。 PDF报告：为活动摘要生成高保真文档。 人体工学警报：集成眼部休息提醒（20-20-20 规则）。  使用 .NET 9、Avalonia UI 和 QuestPDF 构建。它是臃肿时间跟踪器的轻量级替代品。 寻求有关 UI 和功能集的反馈！ GitHub： https://github.com/furkiak/ActiveRest   由   提交/u/furkiak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rs4ftl/windows_activerest_a_minimalist_executivestyle/</guid>
+      <pubDate>Thu, 12 Mar 2026 21:50:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>索尼仍然不支持索尼 WH-1000XM6 的 Mac 控制……所以我制作了一个</title>
+      <link>https://www.reddit.com/r/software/comments/1rs3qg8/sony_still_doesnt_support_mac_control_for_the/</link>
+      <description><![CDATA[我最近购买了Sony WH-1000XM6，到目前为止它们非常棒。 索尼的配套应用程序 Sony Sound Connect 在 iOS 和 Android 上实际上非常好 — 您可以控制 ANC、环境声、EQ、聆听模式等。 问题是没有对 macOS 或 Windows 的官方支持，考虑到有多少人在笔记本电脑上使用这些耳机，这感觉像是一个巨大的差距。 我浏览了 GitHub，看看是否有人已经构建了一些东西。有一些项目，但大多数要么不稳定、不完整，要么不太好用。它们在技术上可行，但体验相当粗糙。 因此，我决定尝试自己构建一个原生 macOS 控制器。 现在，该应用程序可以控制以下内容： • 降噪/环境模式 • 环境声级 • 聆听模式 • 来自耳机的一些系统状态信息 UI 仍在开发中，但我正在开发中。试图保持它最小化和干净，这样感觉就像一个合适的macOS实用程序，而不是一个快速破解。 我真正可以使用帮助的地方 有两个领域仍然给我带来麻烦： 1. EQ控制 来自耳机的EQ数据显然正在传输，但命令的结构尚未完全理解。移动应用程序的调整会显示在蓝牙日志中，但一致地复制它们并不简单。 2.虚拟/空间定位 空间音频/定位系统似乎也使用了与其他控件不同的命令结构，我还没有完全解码它。 如果这里有人有以下经验： • 蓝牙协议分析 • 逆向工程蓝牙LE 流量 • 索尼耳机协议 • 或者只是想帮助测试 我非常感谢您的帮助。 如果有人想尝试 我正在努力将项目上传到 git，很快（24-48 小时），我将在此处提供链接。 现在还为时过早，但如果人们想测试它、提出改进建议或做出贡献，那就太棒了。 即使是很小的事情，例如： • 在不同的 Mac 上进行测试 • 报告错误 • UI建议 • 帮助解码一些蓝牙命令 会有很大帮助。 如果有兴趣，我很乐意不断改进它，并将其变成足够稳定的东西，成为桌面用户移动应用程序的适当替代品。  https://preview.redd.it/3jqpkk2vloog1.png?width=2838&amp;format=png&amp;auto=webp&amp;s=417ed64bb4147fcfbaa3339c4e215fb13dfb28c6   由   提交 /u/Global-Chain-6901   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rs3qg8/sony_still_doesnt_support_mac_control_for_the/</guid>
+      <pubDate>Thu, 12 Mar 2026 21:23:54 GMT</pubDate>
+    </item>
     <item>
       <title>对于我当前的目的来说，最好的虚拟机是什么？</title>
       <link>https://www.reddit.com/r/software/comments/1rs1qb7/whats_is_the_best_vm_for_my_current_purpose/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我自己需要一个习惯跟踪器，所以我没有直接开始编码，而是尝试首先使用人工智能产品工具设计应用程序结构。 这个过程需要编写描述产品的精确提示，然后选择您想要设计的模块。 为此，我选择了入门、习惯创建、每日签到、连续跟踪、提醒和进度仪表板。 从中生成整个 MVP 的用户流程和屏幕结构。 在构建之前查看完整的系统规划，可以更轻松地思考应用程序应该如何工作，而不是在编码时弄清楚事情。 我记录了它生成的流程的简短演练。   由   提交/u/Tough_Reward3739   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rro4jv/i_designed_a_full_habittracking_app_before/</guid>
       <pubDate>Thu, 12 Mar 2026 11:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>PC MULTI APP 是一款适用于 Windows 的瑞士军刀。</title>
-      <link>https://www.reddit.com/r/software/comments/1rrlh1g/pc_multi_app_a_swiss_army_knife_for_windows/</link>
-      <description><![CDATA[“我构建了这个奇怪的东西......充满了 Windows 功能，但它看起来像一个数字时钟，但它的功能远不止于此。    提交者   /u/halwashere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rrlh1g/pc_multi_app_a_swiss_army_knife_for_windows/</guid>
-      <pubDate>Thu, 12 Mar 2026 08:51:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextCell - 受 Excel 97 启发的便携式电子表格编辑器</title>
-      <link>https://www.reddit.com/r/software/comments/1rrjnqm/nextcell_a_portable_spreadsheet_editor_inspired/</link>
-      <description><![CDATA[我使用表格数据多年，对于日常任务，Excel 总是感觉比我想要的更重、更复杂。即使使用了数十年，当我只想快速打开表格、检查某些值或编辑结构化数据时，我仍然会遇到同样的麻烦。 起初，我实际上尝试尽可能地重新创建 Excel 97。我喜欢它的简单性以及界面专注于核心电子表格工作流程的方式。 main window 但是在构建它时，我意识到严格的克隆并不能真正解决我个人在今天处理表格数据时遇到的问题。因此，该项目逐渐演变成一些不同的东西。 我没有完全复制 Excel 97，而是保留了我喜欢的想法 - 简单、清晰和速度 - 然后围绕我自己的工作流程对该工具进行了现代化改造。 结果是 NextCell，一个轻量级、便携式的 Windows 电子表格编辑器，专为快速处理表格和类似 CSV 的数据而设计。 当前功能包括： * 重新设计的公式系统 *搜索和模糊搜索 * 索引支持，可更快地处理结构化表格 * 便携式构建（无需安装） 该项目的主要目标是让电子表格编辑再次变得轻量级 - 您可以立即启动，并且应用程序已经可用。我非常感谢您的反馈，尤其是来自经常使用电子表格、CSV 文件或结构化数据集的人员的反馈。 目前，该应用程序（v 0.9）在 Windows 11 上运行。将来计划支持 MacOS 和 Linux。 https://redata.dev/nextcell/    由   提交 /u/Itchy-Macaroon2469   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rrjnqm/nextcell_a_portable_spreadsheet_editor_inspired/</guid>
-      <pubDate>Thu, 12 Mar 2026 06:54:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我尝试在游戏电脑上打开一些非常特定的应用程序时，会弹出“应用程序无法正确启动（0xc0000142）”窗口。</title>
-      <link>https://www.reddit.com/r/software/comments/1rrinva/the_application_was_unable_to_start_correctly/</link>
-      <description><![CDATA[ 由   提交 /u/Maleficent_Hurry5624   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rrinva/the_application_was_unable_to_start_correctly/</guid>
-      <pubDate>Thu, 12 Mar 2026 05:54:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
