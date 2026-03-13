@@ -4,20 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 13 Mar 2026 09:28:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 12:30:45 GMT</lastBuildDate>
+    <item>
+      <title>使用 Claude Code 构建的 Slack 替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1rslmf1/slack_alternative_built_using_claude_code/</link>
+      <description><![CDATA[有人在 14 天内通过 200 美元的克劳德代码订阅构建了 slack。   由   提交 /u/mushashi_san   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rslmf1/slack_alternative_built_using_claude_code/</guid>
+      <pubDate>Fri, 13 Mar 2026 12:12:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我学过的最奇怪的编程语言” - YouTube</title>
+      <link>https://www.reddit.com/r/programming/comments/1rsj93g/the_weirdest_programming_language_i_ever_learned/</link>
+      <description><![CDATA[ 由   提交/u/CGM  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rsj93g/the_weirdest_programming_language_i_ever_learned/</guid>
+      <pubDate>Fri, 13 Mar 2026 10:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>维护规范，而不是代码：Kotlin 的创建者刚刚放弃了一种新的规范驱动的编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1rsipet/maintain_specs_not_code_creator_of_kotlin_just/</link>
+      <description><![CDATA[ 由   提交/u/Independent_Pitch598   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rsipet/maintain_specs_not_code_creator_of_kotlin_just/</guid>
+      <pubDate>Fri, 13 Mar 2026 09:31:06 GMT</pubDate>
+    </item>
     <item>
       <title>“你说得完全正确！”代理编码的寓言</title>
       <link>https://www.reddit.com/r/programming/comments/1rshmdy/youre_absolutely_right_an_allegory_for_agentic/</link>
       <description><![CDATA[ 由   提交/u/aivarannamaa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rshmdy/youre_absolutely_right_an_allegory_for_agentic/</guid>
       <pubDate>Fri, 13 Mar 2026 08:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天正在寻找愿意让工具尝试重构其代码的 Python 初创公司</title>
-      <link>https://www.reddit.com/r/programming/comments/1rshbvn/looking_for_python_startups_willing_to_let_a_tool/</link>
-      <description><![CDATA[我正在构建一个名为 AXIOM 的工具，它连接到存储库，查找过于复杂的 Python 函数，重写它们，生成测试，并且只有在能够证明行为没有改变时才打开 PR。 基本上：自动重构 + 确定性验证。 明天我将在斯坦福大学面前推销它评委/风投，并希望得到工程师的诚实反馈。 我非常欣赏的两件事： • 关于您是否信任这样的东西的意见 • 任何愿意让我测试它的 Python 存储库/初创公司 如果有人好奇或想要早期访问：useaxiom.co.uk   由   提交/u/ElkAppressive2037   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rshbvn/looking_for_python_startups_willing_to_let_a_tool/</guid>
-      <pubDate>Fri, 13 Mar 2026 08:03:40 GMT</pubDate>
     </item>
     <item>
       <title>区间树的 Fenwick 布局</title>
@@ -48,7 +62,7 @@
       <pubDate>Fri, 13 Mar 2026 01:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>使用可变长度数组 (VLA) 避免对 C 中的小字符串进行 malloc</title>
+      <title>避免使用可变长度数组 (VLA) 对 C 中的小字符串进行 malloc</title>
       <link>https://www.reddit.com/r/programming/comments/1rs9a1e/avoiding_malloc_for_small_strings_in_c_with/</link>
       <description><![CDATA[C 中的临时字符串通常使用 malloc 构建。 但是当运行时已知大小且较小时，VLA 可以避免堆分配： 本文讨论了这种方法何时有效。免费阅读 - 不在 Medium 的付费墙后面   由   提交 /u/Yairlenga   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rs9a1e/avoiding_malloc_for_small_strings_in_c_with/</guid>
@@ -60,13 +74,6 @@
       <description><![CDATA[ 由   提交/u/NickFullStack  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rs8pwk/spotcheck_testing_how_sampling_makes_expensive/</guid>
       <pubDate>Fri, 13 Mar 2026 00:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始构建一个可爱的克隆人（第 1 部分）</title>
-      <link>https://www.reddit.com/r/programming/comments/1rs7vmu/building_a_lovable_clone_from_scratch_part_1/</link>
-      <description><![CDATA[ 由   提交/u/utpalnadiger  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rs7vmu/building_a_lovable_clone_from_scratch_part_1/</guid>
-      <pubDate>Fri, 13 Mar 2026 00:04:48 GMT</pubDate>
     </item>
     <item>
       <title>Linux 页面错误、MMAP 和 userfaultfd 可实现快速沙箱启动时间</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rrugle/the_webassembly_component_model/</guid>
       <pubDate>Thu, 12 Mar 2026 15:51:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>参数化或 Comptime 很疯狂</title>
-      <link>https://www.reddit.com/r/programming/comments/1rrud9e/parametricity_or_comptime_is_bonkers/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rrud9e/parametricity_or_comptime_is_bonkers/</guid>
-      <pubDate>Thu, 12 Mar 2026 15:48:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

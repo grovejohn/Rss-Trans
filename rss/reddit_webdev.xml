@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 13 Mar 2026 09:29:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 12:31:23 GMT</lastBuildDate>
+    <item>
+      <title>对于启动副业项目的开发人员：这里有超过 23 个 SaaS 目录供您提交工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rsl2c7/for_developers_launching_side_projects_here_are/</link>
+      <description><![CDATA[刚刚整理了按 DR 排序的 23 个最佳 AI 目录列表，以便您可以提交您的启动项目。  https://docs.google.com/spreadsheets/d/e/2PACX-1vTAtYG232pkDKPe3zhjMJ3MOgKqieqt_CPEvIR6TvCCR_XvT0wTfqgyaAtFbrAc8EJB2iESk-y0AiFi/pubhtml 如果你想让我分享一个更大的列表，请评论更多，我会尝试制作一个更大的列表..   由   提交/u/Useful-guy-007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rsl2c7/for_developers_launching_side_projects_here_are/</guid>
+      <pubDate>Fri, 13 Mar 2026 11:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么时候托管自己的数据才有意义？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rskhjx/when_does_it_make_sense_to_host_your_own_data/</link>
+      <description><![CDATA[我们从公共纸质数据库开始，因为这是最快的移动方式。  起初感觉像是一条捷径。后来感觉就像是一个天花板。最终，我们遇到了一堆问题：混乱的数据、丢失的记录以及速率限制，这些问题从烦人到实际上影响了产品。  因此，我们最终托管了自己的数据库。 这使我们能够更好地控制质量和可靠性，这对我们来说是成败的关键。  但是一旦一切准备就绪，基础设施的负担就变得非常现实。我们的大量时间开始用于调试、维护、更新管道、保持数据新鲜和跟踪日志。加上 24/7 基础设施成本。  人们谈论“拥有你的数据”就像这是一个明显的升级，而实际上，许多隐藏成本只有在你已经承诺之后才会出现。    由   提交 /u/Hot-Avocado-6497   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rskhjx/when_does_it_make_sense_to_host_your_own_data/</guid>
+      <pubDate>Fri, 13 Mar 2026 11:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名开发人员，我最近一直在思考一些事情。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rsiw7a/something_ive_been_thinking_about_lately_as_a/</link>
+      <description><![CDATA[现代 Web 开发感觉非常强大，但有时也不必要地复杂。 几年前，构建一个网站意味着一些 HTML、CSS、一些 JavaScript，可能还需要一个后端。现在，一个简单的项目可以轻松地变成一个包含框架、元框架、捆绑器、包管理器、状态库、UI 库、CSS 框架和多个构建工具的堆栈。 我并不是说这些工具不好。其中许多解决了实际问题。但有时感觉过去很简单的事情的进入门槛不断增加。 你认为现代 Web 开发实际上变得太复杂了，还是我们现在只是在解决更大的问题？   由   提交 /u/Designer_Oven6623   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rsiw7a/something_ive_been_thinking_about_lately_as_a/</guid>
+      <pubDate>Fri, 13 Mar 2026 09:42:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>虚拟滚动：无延迟渲染数百万条消息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rsiva8/virtual_scrolling_rendering_millions_of_messages/</link>
+      <description><![CDATA[       由   提交 /u/mallenspach   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rsiva8/virtual_scrolling_rendering_millions_of_messages/</guid>
+      <pubDate>Fri, 13 Mar 2026 09:41:13 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能代理从错误的数据库中删除了 25,000 份文档。一秒钟的分心。真实案例。</title>
       <link>https://www.reddit.com/r/webdev/comments/1rsi3hm/an_ai_agent_deleted_25000_documents_from_the/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我是一名前端开发人员，我非常依赖主屏幕上的 VS Code、右侧屏幕上的浏览器测试以及左侧垂直显示器上的终端/slack。 我真的很想要新的 M5 MacBook Air，因为它非常轻便，适合通勤到办公室，但 Apple 仍然将基础芯片限制为两个外部显示器。当我什至不需要额外的 CPU 功率时，额外支付 500 美元只是为了获得 Pro 芯片来支持显示器支持，这感觉就像是一个巨大的敲诈。 我最终保留了我的三重戴尔显示器设置，只购买了 Anker Prime DL7400 Dock。它使用最新的 DisplayLink 芯片，因此完全绕过了 Apple 的限制。我只需将一根电缆插入我当前的 M2 Air，它就能完美驱动所有三个 4K 屏幕。当我的 M5 Air 下周到达时，我将使用完全相同的设置。   由   提交/u/daksh_0623  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rsavog/upgrading_to_the_m5_air_but_keeping_my_triple/</guid>
       <pubDate>Fri, 13 Mar 2026 02:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个 GEO 上下文工具（加上反向链接），可以轻松添加到 <head>。需要第一天的支持者！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rs8ph3/a_geo_context_tool_plus_backlink_to_easily_add_to/</link>
-      <description><![CDATA[嘿，伙计们，长期以来，我一直在开发一个系统，该系统将为算法和人工智能训练器、机器人和爬虫提供补充信任和背景，以促进排名和人工智能建议指标。  我的系统涉及发布域令牌，这些令牌指向详细的 json 数据以供 AI 处理。还发布了主题标签，允许您使用特定的主题标签 (#aitxnXXX)，该标签也将（在爬网后）指向并引用主要令牌数据。  只要服务有效，您生成的令牌和数据就会持续存在。  系统生成页眉代码片段和页脚（可见）代码片段。这些可以放置在文件模板、woocommerce 或您的服务允许您修改标头代码的任何位置。这些代码片段可由人类、人工智能和算法验证。  如果您决定尝试一下，请确保使用 google / bing 等重新索引您的页面，以便您可以让它们滚动以获取更改。  还有更多内容，但如果您感兴趣，链接将在评论中，并随时提出问题！ 我真的期待任何对这个想法感到兴奋或有意见或问题的人。    由   提交/u/jalopytuesday77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rs8ph3/a_geo_context_tool_plus_backlink_to_easily_add_to/</guid>
-      <pubDate>Fri, 13 Mar 2026 00:39:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>抽查测试：抽样如何使昂贵的自动化测试变得实用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rs7r03/spotcheck_testing_how_sampling_makes_expensive/</link>
-      <description><![CDATA[我想你们中的一些人可能会觉得我刚刚写的这篇文章很有趣。 TLDR：可访问性和核心 Web Vitals 的自动测试可能会很慢。您可以通过一次只测试某些页面来加快速度，并且您仍然可以获得每次测试运行时测试所有页面的大部分好处。 我还加入了关于时间棘轮的部分，这是我想出的东西（但在我之前可能有许多其他人想出）。基本上，随着时间的推移，您编写测试来执行更严格的标准。 这些方法可以用于更多事情，但我碰巧将它们用于可访问性和核心 Web Vitals 测试。   由   提交/u/NickFullStack  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rs7r03/spotcheck_testing_how_sampling_makes_expensive/</guid>
-      <pubDate>Thu, 12 Mar 2026 23:59:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>面试搞砸了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rs68pm/botched_an_interview/</link>
-      <description><![CDATA[在那之后立即找到了一份工作。 我仍然因为面试失败而自责，因为另一份工作听起来更有趣，而且薪水要高得多（15万对现在的10万）。 现在我只能用公司20年前建立的CMS来构建网站。 jquery、php 和其他老派技术处于平淡的利基市场。这里没什么值得学习的。唯一的好处是它是远程的。 另一项工作是让我为无人机编写 webgl 可视化。虽然我不会 100% 合格，但我仍然认为这份工作很适合我，因为我有一些相关的经验。 我想我应该很高兴我现在有一份工作。大学一毕业就赚了六位数（即使很艰难，我在大学期间还靠兼职工作赚了 4 年）。 但是，如果有一份令人兴奋的高薪工作摆在你面前，却在第四轮面试中失败，这感觉很糟糕，而测试正是我几个月前为我的前雇主做的。   由   提交/u/Meeeeeeeez   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rs68pm/botched_an_interview/</guid>
-      <pubDate>Thu, 12 Mar 2026 22:59:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fireship回应所有AI“指控”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rs4jt3/fireship_responded_to_all_the_ai_accusations/</link>
-      <description><![CDATA[参见 https://fireship.dev/uidotdev-and-fireship-join-forces#fireship-faqs-with-jeff tldr;  没有 AI 生成的内容或画外音 尽管有私募股权，但他仍然负责 Electrify（私募股权人士）帮助 Jeff 建立了一个团队，以便他可以专注于制作视频    由   提交 /u/AccomplishedJury784   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rs4jt3/fireship_responded_to_all_the_ai_accusations/</guid>
-      <pubDate>Thu, 12 Mar 2026 21:54:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
