@@ -4,7 +4,7 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 13 Mar 2026 04:28:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:37:45 GMT</lastBuildDate>
     <item>
       <title>如果您从 2006 年起将 Claude 代码提供给 Web 开发人员会怎样？</title>
       <link>https://www.reddit.com/r/programming/comments/1rsalzf/what_if_you_gave_claude_code_to_a_web_developer/</link>
@@ -20,7 +20,7 @@
       <pubDate>Fri, 13 Mar 2026 01:32:32 GMT</pubDate>
     </item>
     <item>
-      <title>使用可变长度数组 (VLA) 避免对 C 中的小字符串进行 malloc</title>
+      <title>避免使用可变长度数组 (VLA) 对 C 中的小字符串进行 malloc</title>
       <link>https://www.reddit.com/r/programming/comments/1rs9a1e/avoiding_malloc_for_small_strings_in_c_with/</link>
       <description><![CDATA[C 中的临时字符串通常使用 malloc 构建。 但是当运行时已知大小且较小时，VLA 可以避免堆分配： 本文讨论了这种方法何时有效。免费阅读 - 不在 Medium 的付费墙后面   由   提交 /u/Yairlenga   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rs9a1e/avoiding_malloc_for_small_strings_in_c_with/</guid>

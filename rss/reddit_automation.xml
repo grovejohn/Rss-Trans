@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 13 Mar 2026 04:27:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 06:36:00 GMT</lastBuildDate>
+    <item>
+      <title>反向提示帮助我修复了语音代理对话循环。</title>
+      <link>https://www.reddit.com/r/automation/comments/1rsf36g/reverse_prompting_helped_me_fix_a_voice_agent/</link>
+      <description><![CDATA[我正在为客户端构建语音代理，但它陷入了循环。代理会问一个问题，被打断，然后重复一遍。我调整了提示和意图规则，但没有任何效果。 然后我尝试了一些不同的东西。我问人工智能，“你需要什么信息才能使这次对话更加顺利？”它给了我一些可靠的建议——跟踪最后的意图、对话状态以及用户是否打断了它。我添加了这些更改，然后代理不再重复相同的问题。疯狂的是，人工智能也开始建议其他改进。比如在哪里缩短响应或升级到人工。这让我意识到我们经常强迫人工智能解决问题而不给它足够的背景。还有其他人使用反向提示来改进他们的 AI 工作流程吗？”   由   提交 /u/Once_ina_Lifetime   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rsf36g/reverse_prompting_helped_me_fix_a_voice_agent/</guid>
+      <pubDate>Fri, 13 Mar 2026 05:47:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密货币市场分析报告 – 2026 年 3 月 12 日</title>
+      <link>https://www.reddit.com/r/automation/comments/1rsds2d/crypto_market_analysis_report_march_12_2026/</link>
+      <description><![CDATA[      您对这种自动化有何看法？   由   提交/u/yassinegardens  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rsds2d/crypto_market_analysis_report_march_12_2026/</guid>
+      <pubDate>Fri, 13 Mar 2026 04:35:24 GMT</pubDate>
+    </item>
     <item>
       <title>为什么没有人使用您为他们构建的自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1rsd2u9/why_does_nobody_use_the_automations_you_build_for/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>全面竞争性研究 (OSS) 代理</title>
       <link>https://www.reddit.com/r/automation/comments/1rs59d7/agents_for_full_competitive_research_oss/</link>
-      <description><![CDATA[      免责声明：我这样做是出于我的极度懒惰。如果您喜欢浏览竞争对手的网站，那么这不适合您！  去年，在运行一个利基会员网站时，当我得知 30% 的会员实际上订阅了 2 或 3（！！）个像我这样的其他服务时，我感到震惊。  那一刻我知道我应该跟踪我的竞争对手在做什么。 快进到今天。 我最终卖掉了那个小众会员网站，但我现在非常清楚了解你的竞争对手在做什么（当他们进行促销、广告活动、消息传递和漏斗页面的变化）有多么重要。 所以我建立了 Snoopstr.你给它任何业务（如果是 B2C 就更好了），它会找出竞争对手是谁，然后并行发送 4 个人工智能代理来分析每个业务：  定价：分析定价结构和定位（和变化） 登陆页面分析师：细分标题、CTA、信任信号 Facebook 广告库：我最喜欢的一个！查找活跃的广告活动和他们正在运行的渠道。 Instagram 分析器：发布频率、参与度、内容风格  它带有一个并排的仪表板，您可以在其中比较每个人。 我刚刚开源了整个东西，我计划进行自动监控和完整的渠道分析。 如果您有兴趣，请告诉我，我会将存储库发送给您:)   由   提交/u/gabrilator  [链接] [评论] ]]></description>
+      <description><![CDATA[      免责声明：我这样做是出于我的极度懒惰。如果您喜欢浏览竞争对手的网站，那么这不适合您！  去年，在运营一个利基会员网站时，当我得知 30% 的会员实际上订阅了 2 或 3（！！）个像我这样的其他服务时，我感到震惊。  那一刻我知道我应该跟踪我的竞争对手在做什么。 快进到今天。 我最终卖掉了那个小众会员网站，但我现在非常清楚了解你的竞争对手在做什么（当他们进行促销、广告活动、消息传递和漏斗页面的变化）有多么重要。 所以我建立了 Snoopstr.你给它任何业务（如果是 B2C 就更好了），它会找出竞争对手是谁，然后并行发送 4 个人工智能代理来分析每个业务：  定价：分析定价结构和定位（和变化） 登陆页面分析师：细分标题、CTA、信任信号 Facebook 广告库：我最喜欢的一个！查找活跃的广告活动和他们正在运行的渠道。 Instagram 分析器：发布频率、参与度、内容风格  它带有一个并排的仪表板，您可以在其中比较每个人。 我刚刚开源了整个东西，我计划进行自动监控和完整的渠道分析。 如果您有兴趣，请告诉我，我会将存储库发送给您:)   由   提交/u/gabrilator  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rs59d7/agents_for_full_competitive_research_oss/</guid>
       <pubDate>Thu, 12 Mar 2026 22:21:36 GMT</pubDate>
     </item>
@@ -76,13 +90,6 @@
       <pubDate>Thu, 12 Mar 2026 14:25:38 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能编码代理在新基准上惨败！</title>
-      <link>https://www.reddit.com/r/automation/comments/1rrrtqj/ai_coding_agents_failed_spectacularly_on_new/</link>
-      <description><![CDATA[阿里巴巴刚刚在长期开发周期跟踪的 100 个真实代码库上测试了 AI 编码代理，结果并不理想。 大多数代理只处理了小修复或通过了一次测试。但当基准衡量长期维护时，事情开始分崩离析。 测试（称为 SWE-CI）着眼于代理如何处理真实的项目演变 - 在大约 8 个月的变化中大约 71 次连续提交。 这就是模型陷入困境的地方。 事实证明，生成补丁是一回事。随着需求变化、依赖关系转移和新提交堆积，维护代码库是一个完全不同的问题。 它强调了我们谈论得不够多的事情：大多数 AI 编码演示都显示一次性成功，而不是经过几个月的实际开发后会发生什么。 好奇人们的想法 - 这只是一个早期阶段的限制，还是表明 AI 编码工具将更像助手而不是自主开发人员？   由   提交 /u/Such_Grace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rrrtqj/ai_coding_agents_failed_spectacularly_on_new/</guid>
-      <pubDate>Thu, 12 Mar 2026 14:11:47 GMT</pubDate>
-    </item>
-    <item>
       <title>有哪些无聊的任务是你最终自动化完成并立即后悔没有早点完成的？</title>
       <link>https://www.reddit.com/r/automation/comments/1rrq0f8/what_boring_task_did_you_finally_automate_and/</link>
       <description><![CDATA[总有一项任务是我们害怕做的，因为它是重复的、乏味的，或者只是烦人。 我终于自动化了我的任务，现在我想知道为什么我要手动完成它。 我很好奇听到自动化的真实故事，这些故事实际上长期存在并改变了你的工作流程。 你自动化的一项无聊任务是什么？回到手动操作？ 很想听听：  任务是什么 为什么你决定将其自动化 你是如何实现自动化的 你注意到的任何意想不到的好处  个人生活、工作或商业示例都很重要。 如果你的自动化让你的生活变得更轻松、更快或更多，那就加分了有趣。   由   提交/u/SMBowner_  [链接] [评论]]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[过去几周我们一直在构建这个，终于让它足够稳定，可以分享了。  我经营着一个 YouTube 频道，并花钱购买了一些工具来处理所有上传后的工作——编写描述、生成章节、发送新闻通讯、剪辑短片。它增加得很快。  因此，我构建了 5 个 n8n 工作流程，自动完成所有工作： -  - 使用正确的结构重写我的描述并生成 15 个标签 - 创建准确的章节时间戳并自动更新视频 - 剪切 3 个垂直短片并将其上传到 YouTube - 编写完整的时事通讯并将其发送到我的电子邮件列表 - 生成一篇博客文章并将其发布到我的 WordPress 网站 整个过程在您的 PC 上本地运行。无需云托管。 Gemini 免费层处理人工智能，因此设置后的运行成本几乎为零。  很高兴回答有关其任何部分如何连接的问题。如果您想要完整包，请查看我的个人资料的详细信息   由   提交/u/injeolmi__13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rrpweu/i_automated_my_entire_youtube_postupload_work/</guid>
       <pubDate>Thu, 12 Mar 2026 12:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我用于监控竞争对手价格的日常自动化脚本 - 程序员的方法</title>
-      <link>https://www.reddit.com/r/automation/comments/1rrmf6e/my_daily_automation_script_for_monitoring/</link>
-      <description><![CDATA[作为一名程序员，我一直在寻找简化副业的方法。最近，我构建了一个小脚本来自动监控竞争对手的价格，这每周为我节省了时间并减少了错误。关键是创建一个可靠的环境来运行这些自动化而不受干扰。首先，我比较了 AdsPower 和 Multilogin。 Multilogin已经建立很多年了，但是没有免费试用。所以我转向 AdsPower，因为他们拥有出色的 RPA，最重要的是他们有免费试用。我已经使用它有一段时间了。事实证明，他们的内置 RPA 功能对于简单的工作流程具有惊人的能力，因此我不需要编写我想象的那么多自定义代码。这种设置让我可以扩展操作规模，而不会陷入手动工作的困境。你最喜欢什么。用于在线业务的自动化黑客或工具？   由   提交/u/Top-Run-7508  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rrmf6e/my_daily_automation_script_for_monitoring/</guid>
-      <pubDate>Thu, 12 Mar 2026 09:50:11 GMT</pubDate>
     </item>
     <item>
       <title>最新消息：Claude 刚刚发布了他们自己的 OpenClaw 版本。</title>
