@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Sat, 14 Mar 2026 04:27:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 06:31:11 GMT</lastBuildDate>
+    <item>
+      <title>我在 AI 中发生的所有事情都遇到了一些正常运行时间问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rtbtiz/i_am_having_some_uptime_issues_with_everything/</link>
+      <description><![CDATA[ 由   提交/u/moaijobs  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rtbtiz/i_am_having_some_uptime_issues_with_everything/</guid>
+      <pubDate>Sat, 14 Mar 2026 06:12:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 3/13/2026</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rtaapp/oneminute_daily_ai_news_3132026/</link>
+      <description><![CDATA[ Meta 据报道，随着 AI 成本的增加，计划大规模裁员。[1] ElevenLabs 通过 AI 恢复了 Eric Dane 的声音。现在，他们免费提供 100 万条语音。[2] Google DeepMind 推出 Aletheia：从数学竞赛转向完全自主专业研究发现的 AI 代理。[3] 斯坦福研究人员发布 OpenJarvis：用于通过工具、内存和学习构建设备上个人 AI 代理的本地优先框架。[4]  来源：https://bushaicave.com/2026/03/13/one-million-daily-ai-news-3-13-2026/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rtaapp/oneminute_daily_ai_news_3132026/</guid>
+      <pubDate>Sat, 14 Mar 2026 04:47:29 GMT</pubDate>
+    </item>
     <item>
       <title>克劳德有什么用</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rt9w5k/what_are_the_uses_of_claude/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[Julia Angwin 发现 Grammarly 正在出售她在线文章中的深度伪造思想。在八个月的时间里，Grammarly 的母公司 SuperHuman 在没有任何知情、补偿或同意的情况下制作了斯蒂芬·金、卡拉·斯威舍、钟钩等人的假编辑版本，其中包括朱莉娅。现在，朱莉娅是纽约地区法院针对 Super human 的集体诉讼的主要原告，指控该公司在付费服务中使用其姓名之前未征求同意，违反了纽约和加利福尼亚州的宣传法。 在《泰晤士报观点》的客座文章中，朱莉娅写道：   阅读全文 这里，免费，即使没有订阅《纽约时报》。   由   提交 /u/nytopinion   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rt291o/opinion_why_im_suing_grammarly_gift_article/</guid>
       <pubDate>Fri, 13 Mar 2026 22:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果使用正确的话，实际上可以节省 60 美元！一个 MCP 工具，它将扩展您的 Claude 代码使用并产生结果。阅读下面的故事</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rt1jjo/this_is_saving_60_dollar_actually_if_use/</link>
-      <description><![CDATA[免费工具：https://grape-root.vercel.app Discord（错误/反馈）：https://discord.gg/rxgVVgCh 故事从这里开始:)  我一直在尝试使用 MCP 工具，该工具通过优化将上下文馈送到模型的方式来扩展 Claude Code 的使用。 它不是每次都转储完整的存储库上下文，而是使用双图结构 + 文件状态哈希来仅显示代码库的相关部分。目标很简单：减少浪费的探索令牌。 到目前为止我所看到的： • 错误修复： 使用的令牌减少约 71% • 重构： 使用的令牌减少约 53% 对于架构解释或开放式调试等更广泛的任务，节省并不总是存在，因为这些任务自然需要更广泛的上下文。 但如果使用正确的话对于有针对性的任务（错误修复、重构、重点编辑），它显着延长了您的 Claude Code 预算。 超过 120 人节省了约 60 美元的使用费用。他们没有升级到$100 Claude 计划，而是运行了两个 20 美元计划，并且仍然有空间，因为代币使用量下降了很多。 该工具称为 GrapeRoot，它基本上是一个用于 AI 编码工作流程的基于 MCP 的上下文优化层。  很好奇其他构建MCP 工具或上下文编排层的人在优化 LLM 编码工作流程时是否看到类似的模式。  https://preview.redd.it/9durtp5rxvog1.png?width=578&amp;format=png&amp;auto=webp&amp;s=ce78cbf0f779242689e974b8fabd1ec25cfb4c39   由   提交 /u/intellinker   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rt1jjo/this_is_saving_60_dollar_actually_if_use/</guid>
-      <pubDate>Fri, 13 Mar 2026 22:15:12 GMT</pubDate>
     </item>
     <item>
       <title>跟随编码者编码：我们所知道的计算机编程的终结（礼物文章）</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[最近我不断看到有关 Claude Code 的大量炒作。有人说它基本上成为了一个联合开发者，几乎可以处理存储库中的任何内容。 但我很好奇实际使用它的人们的真实体验。对于那些经常使用 Claude Code 的人来说：  在较大或较旧的代码库中工作时它真的有帮助吗？ 您信任它为实际项目生成的代码吗？ 在某些情况下它仍然会遇到困难或为您带来更多工作吗？ 它真的会减少调试/审查时间还是您最终仍然要检查所有内容？    由   提交/u/Demon96666  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rsma30/is_claude_code_actually_solving_most_coding/</guid>
       <pubDate>Fri, 13 Mar 2026 12:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人工智能不仅能强化你输入的任何想法？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rskxfr/are_there_any_ais_that_dont_just_reinforce/</link>
-      <description><![CDATA[我觉得 AI 只是告诉我它认为我想听的一切。我正在处理一些有压力的情况，并尝试使用人工智能来检查我的想法，并确定它们是否基于事实/现实，或者我的焦虑在欺骗我。这是治疗师无能为力的事情，因为这关系到我作为人工智能的职业生涯和未来规划。    由   提交/u/SoggyGrayDuck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rskxfr/are_there_any_ais_that_dont_just_reinforce/</guid>
-      <pubDate>Fri, 13 Mar 2026 11:37:35 GMT</pubDate>
     </item>
     <item>
       <title>为什么Al公司的标志看起来像屁眼？</title>
