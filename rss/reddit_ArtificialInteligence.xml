@@ -4,20 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Sat, 14 Mar 2026 00:57:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 04:27:00 GMT</lastBuildDate>
+    <item>
+      <title>克劳德有什么用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rt9w5k/what_are_the_uses_of_claude/</link>
+      <description><![CDATA[嘿，所以我是一名生物学生，但我想像 cs 或 cybersec 一样学习，并拥有良好的作品集，并且想进入这个领域，所以请告诉我 claude 如何帮助我实现这一目标，也请告诉我如何使用它，就像哪个 claude 功能用于什么   由   提交 /u/Relevant_Limit3681   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rt9w5k/what_are_the_uses_of_claude/</guid>
+      <pubDate>Sat, 14 Mar 2026 04:25:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们在 2019 年开始的一个业余项目意外变成了 AIOS 和 AI 代理平台</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rt5l2f/a_side_project_we_started_in_2019_accidentally/</link>
+      <description><![CDATA[整个系统是开源的、可自托管的，并且旨在避免供应商锁定。它可以与不同的人工智能模型一起运行，包括本地模型。这是在当前人工智能浪潮之前就开始的项目之一，直到最近才开始有意义。 自 2019 年以来，我在巴西的一小群朋友一直在构建一个名为 General Bots 的开源项目。 当时的想法非常简单，而不是公司将聊天机器人、自动化、仪表板、文档、API 和人工智能模型缝合在一起......为什么不构建一个单一平台，让人工智能可以在公司内部实际运行？ 所以多年来，我们一直围绕这个想法进行试验，项目逐渐开始积累如下内容： • 执行工作流程的人工智能代理 • 基于文档和公司数据的对话界面 • 知识库和矢量搜索 • 自动化管道 • CRM 式客户交互 • 全渠道消息传递 • 文档处理（包括PDF） • 协作工具 • 与API 和应用程序集成内部系统 •对不同LLM提供商的支持 一个有趣的细节是，今天人们视为“新人工智能功能”的一些东西是我们几年前就已经构建的东西（我们对此并不感到难过，我们只是认为这真的很有趣，而且我们为看到我们正朝着正确的方向前进而感到有点自豪:D）。 我们的方法最终也与现在大多数人工智能初创公司有点不同。这对于那些并不总是能够将公司数据发送到外部人工智能服务的地方来说很有趣：比如政府、受监管的行业或想要完全控制其基础设施的组织。 很好奇这里是否有人正在尝试代理、自动化或自托管人工智能堆栈。很想听听人们在这个空间中构建了什么。 （如果有人想查找它，该项目是 https://github.com/GeneralBots）  https://preview.redd.it/yb7qu781twog1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=3cd23b010f559d8223623cf7e77b4fca79c2bfc2 &lt;一href=&quot;https://preview.redd.it/jxxoo0yatwog1.png?width=456&amp;format=png&amp;auto=webp&amp;s=66ac3882e676082d80adcb634247008b20ce9602&quot;&gt; https://preview.redd.it/jxxoo0yatwog1.png?width=456&amp;format=png&amp;auto=webp&amp;s=66ac3882e676082d80adcb634247008b20ce9602 &lt;一href=&quot;https://preview.redd.it/turj41ebtwog1.png?width=448&amp;format=png&amp;auto=webp&amp;s=ac99dad779e91391356037d5cf78f7a99ddb1fa8&quot;&gt; https://preview.redd.it/turj41ebtwog1.png?width=448&amp;format=png&amp;auto=webp&amp;s=ac99dad779e91391356037d5cf78f7a99ddb1fa8   由   提交 /u/tkaczenkofr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rt5l2f/a_side_project_we_started_in_2019_accidentally/</guid>
+      <pubDate>Sat, 14 Mar 2026 01:01:41 GMT</pubDate>
+    </item>
     <item>
       <title>LLM 培训的 CPT 和 SFT</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rt51z4/cpt_and_sft_for_llm_training/</link>
       <description><![CDATA[大家下午好， 我和一些朋友期待着使用 CPT 和 SFT 来微调 qwen3-coder-next 模型以进行渗透测试和网络安全 问题是我们根本不确定 CPT 数据的质量应该有多高？在这种情况下，数量比质量更重要吗？或者我应该对其进行一些清理，以便为 SFT 做好准备，为此我们生成合成数据作为迭代（例如，模拟在渗透测试期间发生的对话）。 该模型的整个最终目标是使用其代理功能（已内置）使其长时间运行。 任何反馈或见解都将受到热烈欢迎 干杯！   由   提交 /u/cryptoviksant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rt51z4/cpt_and_sft_for_llm_training/</guid>
       <pubDate>Sat, 14 Mar 2026 00:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些保障措施？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rt4bzy/what_safeguards_are_in_place/</link>
-      <description><![CDATA[在我看来，视频中提供的证据应该足以暂停任何进一步的模型开发，让任何政治家和决策者在超高速模式下对人工智能立法，使模型能够保存地球上任何生命形式。资本主义系统不适合这种激励，说实话，在观看此视频后，我们真的能及时采取行动对抗已被创造的怪物吗？或者简单地说，是否有任何保障措施来防止视频中讨论的任何情况？ 作为一名关心此事的公民，我向专家和感兴趣的人士社区询问人工智能安全与地球生命生存问题。   由   提交/u/No-Coast1408  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rt4bzy/what_safeguards_are_in_place/</guid>
-      <pubDate>Sat, 14 Mar 2026 00:08:02 GMT</pubDate>
     </item>
     <item>
       <title>意见 |为什么我要起诉 Grammarly（礼品文章）</title>
@@ -46,13 +53,6 @@
       <description><![CDATA[首先让我说 4. 件事。   我会死在这座山上。 自 2010 年以来，我一直在人工智能领域工作（FAANG），从金融科技、自动驾驶/自主到法学硕士。  我并不知道一切，事实上我知道的不多。 我专注于人工智能信息安全/产品。  也就是说，人工智能就在这里，它就在我们孩子的未来。我的孩子是10-15岁，我让他们使用人工智能进行教育和其他非课程活动。 我告诉他们要安全，不要共享私人数据，而是利用人工智能来学习。现在让我非常明确的是，利用人工智能并不意味着让人工智能为你做这件事。我的意思是你有英语作业，用你自己的话写，把你的工作和指标交给人工智能。让人工智能编写并仔细检查人工智能的工作，因为它有时可能很愚蠢。  需要澄清的是，我的孩子（以及硅谷的大多数科技孩子）已经在这样做了。他们的学校允许他们——特许学校。不是为了欺骗，而是学会控制人工智能以利于他们。  冲我来！！！！！   由   提交/u/doncalgar  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rszac6/ai_and_kids_education_unpopular_opinion/</guid>
       <pubDate>Fri, 13 Mar 2026 20:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Haimeta vs Krea vs Pollo：真实使用后的诚实初学者评论 - 哪一个对于休闲创作者来说实际上很有趣？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rswjy7/haimeta_vs_krea_vs_pollo_honest_beginner_review/</link>
-      <description><![CDATA[作为刚刚涉足人工智能创作领域的人，我花了数周时间测试了三个“一体化”平台：Haimeta、Krea 和 Pollo。这是我个人的看法（没有赞助，只是实际使用）。 1.探索与探索有趣的因素 Haimeta 感觉就像一个创意实验室——大量的效果、多个模型、人工智能代理工作流程。你不断发现新事物而不会感到无聊。 Krea 的实时生成一开始很酷，但很快就感觉像是“严肃的设计工作”。 Pollo 非常依赖模板——就像买一个半成品的蛋糕一样。速度很快，但一切看起来都一样，我失去了兴趣。 2.初学者友好性 Haimeta 获胜：图像 → 编辑 → 高档 → 背景删除 → 3D → 视频全部集中在一处。没有切换工具。 Krea 有一个干净的用户界面，但节点编辑器有一个学习曲线。 Pollo 最简单（模板 → 上传 → 完成），但也是最有限的。 3.休闲用户价格 相同预算：Haimeta → 230 张高质量 Nano Banana 2 图像 Krea → 173 Pollo → 仅 68 此外 Haimeta 每天提供免费的 HAIBIT。迄今为止，对于探索者而言，性价比最高。 总体而言：  Pollo = 最适合快速社交视频 Krea = 最适合喜欢实时的设计师 Haimeta = 最平衡的初学者，他们想要乐趣 + 完整的工作流程 + 成就感  还有人尝试过这三个吗？您目前首选的人工智能平台是什么？   由   提交/u/Holiday-Quantity-978   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rswjy7/haimeta_vs_krea_vs_pollo_honest_beginner_review/</guid>
-      <pubDate>Fri, 13 Mar 2026 19:07:42 GMT</pubDate>
     </item>
     <item>
       <title>摩根士丹利警告人工智能突破将于 2026 年到来，但世界上大部分地区尚未做好准备财富</title>
