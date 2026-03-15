@@ -4,11 +4,60 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 15 Mar 2026 01:10:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 05:01:31 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个没有登录或水印的拼贴/情绪板制作器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ru58ak/i_built_a_collage_mood_board_maker_with_no_sign/</link>
+      <description><![CDATA[      我想将一些图像放在一起作为 3D 建模参考，我从 google 图像搜索中快速复制并粘贴了这些图像，但在不创建帐户或下载应用程序的情况下找不到一种简单的方法来做到这一点。所以我构建了自己的解决方案！ pastecollage.com 自从周三推出以来，我已经有了近 10K 的页面浏览量（可能大部分是我自己）。真的很兴奋，因为这是我的第一个网站（作为后端工程师工作了很长一段时间，但在副项目方面没有做太多事情）   由   提交 /u/crazedbunny   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ru58ak/i_built_a_collage_mood_board_maker_with_no_sign/</guid>
+      <pubDate>Sun, 15 Mar 2026 04:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个工具，让我的销售笔记不再消失在 Notion 中，而是真正出现在 HubSpot 中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ru4hwf/built_a_tool_so_my_sales_notes_stop_dying_in/</link>
+      <description><![CDATA[ 由   提交/u/dev-guy-100  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ru4hwf/built_a_tool_so_my_sales_notes_stop_dying_in/</guid>
+      <pubDate>Sun, 15 Mar 2026 04:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自过去的爆炸</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ru42jb/blast_from_the_past/</link>
+      <description><![CDATA[       由   提交/u/iamgeef  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ru42jb/blast_from_the_past/</guid>
+      <pubDate>Sun, 15 Mar 2026 03:56:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在餐饮业工作了 13 年，学习了 6 种语言，在 4 个国家工作过，然后在一周内建立了一个网站，一家机构报价为 2 万美元</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ru3mf0/i_spent_13_years_in_fb_learned_6_languages_worked/</link>
+      <description><![CDATA[软件工程一直是我想做的事情。但在我二十岁出头的时候，我有另一种吸引力——我想去不同的地方生活，了解不同的文化，结识我从未见过的人。事实证明，热情好客是实现这一目标的完美工具。你最终会和来自世界各地的人呆在一起，你必须进行真正的交流，而不仅仅是微笑和点头。 所以：印度，然后是阿联酋，然后是俄罗斯，然后是加拿大。餐厅、酒店、私人会所。 13 年里，成千上万的人因需要而学会了 6 种语言。我一直将软件方面放在后台——业余项目、小工具、尽可能学习——但它始终是次要的。 当我在阿联酋工作时，餐厅需要一个网站。他们与当地一家机构进行了交谈，该机构的报价为 20,000 美元，并表示需要三个月的时间。我说我可以在一周内完成。他们看着我，就像我疯了一样。 我在一周内就完成了它。完整的网站、在线预订系统、管理仪表板、作品。他们真正需要的一切。该机构的报价是针对管理费用和利润，而不是针对实际问题的复杂性。 那一刻我突然灵光一现。不是“我应该成为一名开发人员”，而是“我应该成为一名开发人员”。 - 更像是：了解这些企业的实际运作方式，再加上能够构建工具，这两者的结合确实很少见。大多数开发人员还没有在现场工作十年。大多数运营商都无法构建软件。 我现在定居在安大略省，从事酒店运营工作，同时为小型企业构建数字系统。每月固定费率，无预付费用，一切都贴在他们的品牌下。起价 150 美元/月。 目前已推出三款产品。仍然感觉 15 年前的支线任务终于成为了主要任务。 很高兴与其他经历了漫长而意想不到的路线到达目的地的人交谈。 *（hello.xtide.io 上的作品集）*   由   提交/u/Constant-Pain5056   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ru3mf0/i_spent_13_years_in_fb_learned_6_languages_worked/</guid>
+      <pubDate>Sun, 15 Mar 2026 03:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个小型电子邮件验证 API，好奇开发人员实际检查什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ru2692/built_a_small_email_validation_api_curious_what/</link>
+      <description><![CDATA[我一直在构建一个小型电子邮件验证 API 作为一个业余项目，它让我意识到有多少种不同的方法来验证电子邮件。 一些服务检查： - MX 记录 - 一次性域 - SMTP 邮箱存在 - 基于角色的电子邮件（admin@、support@） 对于那些你们构建注册系统或 SaaS 应用程序的人 - 你们实际上验证什么？ 现在我正在做语法 + 域 + 一次性检测，但讨论在不减慢请求速度的情况下要走多远。   由   提交 /u/Available_Clock_1796   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ru2692/built_a_small_email_validation_api_curious_what/</guid>
+      <pubDate>Sun, 15 Mar 2026 02:21:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何处理项目中的网站可访问性？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ru1s60/how_do_you_handle_website_accessibility_in_your/</link>
+      <description><![CDATA[我最近在处理一个项目时阅读了更多有关网站可访问性和 WCAG 指南的内容。 我注意到很多网站仍然缺少基本的东西，例如正确的替代文本、键盘导航或良好的颜色对比度。 这里的开发人员在构建网站时始终确保包含哪些可访问性实践？ 我在研究可访问性时遇到的一些有用资源： 实用辅助功能指南 https://digitalunicon.com/blog/website-accessibility-guide 辅助功能清单 https://webaim.org/standards/wcag/checklist 辅助功能指南 https://www.w3.org/WAI/standards-guidelines/wcag/  MDN Web 文档 – 辅助功能 https://developer.mozilla.org/en-US/docs/Web/Accessibility   由   提交 /u/Worth-Bee5939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ru1s60/how_do_you_handle_website_accessibility_in_your/</guid>
+      <pubDate>Sun, 15 Mar 2026 02:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了仅仅为了网站审核而支付 SEMrush 的费用，所以我建立了自己的并且对所有人免费</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ru0nl5/was_getting_tired_of_paying_for_semrush_just_for/</link>
+      <description><![CDATA[      所以昨晚我试图自动化我们的每月健康状况 &amp;我们的客户仪表板中的绩效报告。  当我开始涉足这一领域时，我很快意识到 API 成本将是完成这项工作的主要障碍，而且即使手动运行，也不再有真正的免费站点健康审核套餐。 SEMrush 只允许您运行一个 URL，每月最低费用为 130 美元，与 Ahrefs 类似，但限制更多。也找不到任何小型独立工具来提供这些 SEO 健康状况审计并包括 AI 搜索健康状况。 所以我构建了自己的工具，实际上不仅与 SEMrush 几乎 1:1 平价，而且我能够包含比 SEMrush 和 SEMrush 更多的数据。 Ahrefs 也有。还决定直接集成 Pagespeed 洞察数据，这样用户（和我自己）就不必运行单独的报告。所有这些都会给我现有的基础设施带来边际额外成本。从昨晚到今天真的浪费了我的时间。 现在，我可以使用我的专有工具免费运行自己的审计，直接与中小型企业联系，解决了我的自动化报告问题，并拥有比行业领导者提供的更深入的数据。  这让我看到了这篇文章，并决定免费向所有人提供这个工具。这样我不仅可以在不花费太多成本的情况下为其他开发人员解决问题，而且还可以将其用作潜在客户生成工具，这将有助于增加网站的流量并有望产生更多潜在客户。  非常激动。如果您有任何反馈，请随时留下。   由   提交/u/1stgen_runner  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ru0nl5/was_getting_tired_of_paying_for_semrush_just_for/</guid>
+      <pubDate>Sun, 15 Mar 2026 01:10:07 GMT</pubDate>
+    </item>
     <item>
       <title>网络运行成本</title>
       <link>https://www.reddit.com/r/webdev/comments/1ru0g9k/web_running_costs/</link>
-      <description><![CDATA[我在另一个 Reddit 子版块中看到了这个，我想你们会笑出来的。  https://www.reddit.com/r/dragonsden/comments/1rt3s8n/4_million_on_a_website/?utm_source=share&amp;utm_medium=mweb3x&amp;utm_name=mweb3xcss&amp;utm_term=1&amp;utm_content=share_button   由   提交 /u/Different_Counter113   [链接] [评论]]]></description>
+      <description><![CDATA[我在另一个 Reddit 子版块中看到了这个，我想你们会笑出来的。   https://www.reddit.com/r/dragonsden/comments/1rt3s8n/4_million_on_a_website/?utm_source=share&amp;utm_medium=mweb3x&amp;utm_name=mweb3xcss&amp;utm_term=1&amp;utm_content=share_button    由   提交 /u/Different_Counter113   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ru0g9k/web_running_costs/</guid>
       <pubDate>Sun, 15 Mar 2026 01:00:41 GMT</pubDate>
     </item>
@@ -22,16 +71,9 @@
     <item>
       <title>我一直在构建一个性能优先的 UI 库，名为 Tokis。一探究竟。</title>
       <link>https://www.reddit.com/r/webdev/comments/1rtzm5e/ive_been_building_a_performancefirst_ui_library/</link>
-      <description><![CDATA[嘿，大家好， 最近几个月，我一直在尝试构建一个名为 Tokis 的 UI 库（Tokis 只知道它的样式呵呵）。 目标是探索一种稍微不同的 UI 系统方法：  令牌原生架构 零运行时样式 无头基元 辅助功能助手和焦点管理  它不是制作一个巨大的组件，而是尝试将事物分成层（正如您的反应）：  设计令牌 无头基元 UI组件  因此您可以在上面构建自己的设计系统。 我还构建了一个交互式文档Playground（有点），这样你就可以在不安装任何东西的情况下尝试一些东西。 文档+游乐场： https://prerakmathur20.github.io/TokisWebsite/ 或 npm install @/tokis/tokis  给它一个开枪！如果您发现任何错误（可能很多），请告诉我。并帮助我决定是否应该真正购买域名并正式上线。   由   提交 /u/Economy-Condition702   [链接] [评论]]]></description>
+      <description><![CDATA[       https://preview.redd.it/9wzxdppq04pg1.png?width=1273&amp;format=png&amp;auto=webp&amp;s=72637c35bc35a4a35d331a2fbe1b1fbe8d2b2b8d &lt;一href=&quot;https://preview.redd.it/owkc0ppq04pg1.png?width=986&amp;format=png&amp;auto=webp&amp;s=9c4f691707bcd762261f3b21dd93d78768f2f432&quot;&gt; https://preview.redd.it/owkc0ppq04pg1.png?width=986&amp;format=png&amp;auto=webp&amp;s=9c4f691707bcd762261f3b21dd93d78768f2f432 嘿大家， 最近在过去的几个月里，我一直在尝试构建一个名为 Tokis（Tokis 只知道其样式呵呵）的 UI 库。 目标是探索一种稍微不同的 UI 系统方法：  令牌原生架构 零运行时样式 无头基元 辅助功能帮助程序和焦点管理  它不是制作一个巨大的组件，而是尝试将事物分成几层（正如您会做出的反应）：  设计令牌 无头基元 UI组件  这样您就可以在上面构建自己的设计系统。 我还构建了一个交互式文档游乐场（有点），这样您就可以在不安装任何东西的情况下尝试一些东西。 文档 + 游乐场： https://prerakmathur20.github.io/TokisWebsite/ 或 npm install @/tokis/tokis 试一试！如果您发现任何错误（可能很多），请告诉我。并帮助我决定是否应该真正购买域名并正式上线。   由   提交 /u/Economy-Condition702   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rtzm5e/ive_been_building_a_performancefirst_ui_library/</guid>
       <pubDate>Sun, 15 Mar 2026 00:21:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器拳击</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rtzkbg/browser_boxing/</link>
-      <description><![CDATA[   /u/anonahnah9  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rtzkbg/browser_boxing/</guid>
-      <pubDate>Sun, 15 Mar 2026 00:19:24 GMT</pubDate>
     </item>
     <item>
       <title>我他妈的该怎么办？没有任何效果！</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[我维护了几个 Chrome 扩展，今年花了很多令人尴尬的时间来弄清楚为什么我的断点每 30 秒就会消失一次，然后才意识到，哦，对了，MV3 服务工作人员在 30 秒不活动后就会死掉。 无论如何，这就是我的目标。 VS Code 仍然是移动。内置的 JS 调试器可以处理服务工作人员、弹出窗口和内容脚本，而无需安装任何额外的东西。您可以在一个窗口中的所有三个上下文中设置断点。烦人的部分是，当您编辑清单时，CRXJS 热重载仍然会抛出过时的模块图错误，因此您最终会终止开发服务器并再次运行 npm run dev。这是一个 Vite 插件，而不是 VS Code。 我在一个更大的 TypeScript 项目上尝试了一个月的 WebStorm。重构明显更好，但它是一个付费工具，VS Code 可以免费完成我需要的大部分功能，所以我又回去了。 Cursor 很有趣，但如果您不熟悉扩展，我不会推荐它。它建议在一个会话中两次使用 chrome.browserAction（即旧的 MV2 API）而不是 chrome.action。如果您已经了解 API，您就会明白。如果您正在学习，您将花费整个下午的时间来调试毫无意义的权限错误。 还有一件事，如果您使用 WXT 或 Plasmo，编辑器之间的差距会缩小很多，因为该框架会为您处理清单生成和热重载。 每个人都在运行什么？对用于扩展工作的 Neovim 或 Zed 设置感到好奇。   由   提交/u/Remarkable_Training9   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rtwx4y/my_mv3_debugging_setup_after_wasting_time_on_the/</guid>
       <pubDate>Sat, 14 Mar 2026 22:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个开源的 Ui 改进工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rtwvak/built_an_open_source_ui_improver_tool/</link>
-      <description><![CDATA[       由   提交/u/Peach_Baker  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rtwvak/built_an_open_source_ui_improver_tool/</guid>
-      <pubDate>Sat, 14 Mar 2026 22:25:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 构建了一个网络应用程序，可以更方便地查找爱好和收藏品商店。 grailmap.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rtwpjz/showoff_saturday_built_a_web_app_to_more/</link>
-      <description><![CDATA[链接： https://app.grailmap.com（保存链接并经常回来查看） 故事： 我和妻子都喜欢游戏、玩具、漫画、卡片和收藏品等所有书呆子的东西。有一天，我们在旅行时说，天哪，我想知道附近是否有当地的游戏店，我们可以在那里买到一些 Funkos 和 Pokémon 卡牌。在 Google 上进行了一些搜索后，我认为如果有一个方便的应用程序来快速找到您要查找的内容并创建方向会更方便。  功能： 当前 -搜索商店 -在 Google 地图中查看该商店 -创建前往多个商店的路线方向 -列表或地图视图 -作为 PWA 保存到主屏幕 即将推出 -添加新地点 -留下标签/评论 -将商店保存到愿望清单/收藏夹 -优化搜索选项和更好的结果 技术堆栈： -Vue (Quasar) 前端 -Node Fastify 后端 -托管在 Digital Ocean 应用平台上 -PostHog 用于分析和日志流遥测数据    由   提交 /u/Scared-Let-1846   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rtwpjz/showoff_saturday_built_a_web_app_to_more/</guid>
-      <pubDate>Sat, 14 Mar 2026 22:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想在一个真实的项目中尝试 Supabase + Cloudflare - App Store 屏幕截图和图标总是很痛苦，所以我构建了一个基于 Web 的 Next.js 工具来生成它们</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rtwagx/i_wanted_to_try_supabase_cloudflare_for_a_real/</link>
-      <description><![CDATA[我主要是一名移动开发人员 - 多年来我已经发布了大量 iOS 和 Android 应用程序。每一次，在接近尾声的时候，我都需要创建 App Store 列表资源：屏幕截图、图标、预览图像。总是让人感到莫名其妙的混乱。我要打开 Figma 吗？ Photoshop？在 Fiverr 上向某人付款？使用其中一款 30 美元/月的屏幕截图工具吗？我总是在一些应该简单的事情上浪费时间。 所以我决定构建一个为我做这件事的工具。您将链接粘贴到您的应用或网站，它会提取信息并生成营销就绪的简介，然后使用它来创建商店就绪的屏幕截图布局，其中包含标题、人工智能生成的背景以及您可以迭代的图标概念。 但老实说，产品只是动机的一半。我还想测试是否可以使用 Supabase + Cloudflare Workers 端到端构建、部署真实的 Web 应用程序并从中获利。我在较小的项目中使用过这两种方法，但从未用于将身份验证、支付、存储和 AI 生成全部连接在一起的东西。 堆栈： - Next.js 16（App Router、React 19） - 默认服务器组件、突变服务器操作 - Supabase - Postgres 数据库、Google OAuth、行级安全性和所有生成图像的存储 - Cloudflare Workers — 通过 OpenNext 适配器进行部署 - AI — 将链接粘贴到您的应用程序，它会生成营销简介，然后使用它来创建屏幕截图标题、背景艺术和图标概念 - Stripe — 用于货币化的自动充值信用系统 - Tailwind CSS 4 + shadcn/ui — 样式 进展顺利： - Supabase Auth 脱颖而出 — Google OAuth 设置是我经历过的最无缝的身份验证集成。说真的，干得好 Supabase - 一旦你掌握了级联模式，Supabase RLS 就真的很棒了。每个表都通过父链检查所有权 - 没有身份验证中间件意大利面条 - Cloudflare Workers 部署速度很快。 OpenNext 适配器可以工作，尽管它有一些怪癖 - Supabase Storage 解决了一个真正的问题 - 我最初将生成的图像作为 Base64 存储在 Postgres 中，并且不断使我的 Nano 实例（512MB RAM）崩溃。迁移到存储立即解决了这个问题 - 服务器操作 + 乐观更新让工作区感觉敏捷 粗糙之处： - 我计划在 Supabase 和 Cloudflare 上运行免费套餐。在单个用户注册之前，我必须升级到两个方面的付费计划 - Worker CPU 时间限制、Supabase 使用配额等。非常适合原型设计，但不要指望它能实现任何真实的东西 - Supabase 在关键问题上并不透明。 我的 Nano 实例一直耗尽内存，我得到的只是一个“不健康”的实例。状态，没有详细信息。经过大量挖掘才发现这是因为在 Postgres 中存储 base64 导致 OOM - Supabase 自动生成的 TypeScript 类型 不能很好地与自定义 RPC 函数配合使用。我最终手动维护类型并编写了一个验证脚本以使它们与 SQL 保持同步 - Tailwind v4 的 CSS @layer 更改以意想不到的方式破坏了一些内联样式覆盖 我将其称为 WarpLaunchApp 并开始将它用于我自己的应用程序，发现它实际上节省了我的实时时间，因此我清理了它并向所有人开放。注册时可获得免费积分，因此您无需支付任何费用即可试用。 很高兴回答有关堆栈、Supabase + Cloudflare 体验或其他任何问题的问题。   由   提交/u/dreamteammobile  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rtwagx/i_wanted_to_try_supabase_cloudflare_for_a_real/</guid>
-      <pubDate>Sat, 14 Mar 2026 22:01:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>当动漫网站被“撤下”时，他们为什么不将代码移至新域呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rtw6yk/when_anime_sites_get_taken_down_why_dont_they/</link>
-      <description><![CDATA[所以 hianime 最近被删除了，我想知道是什么阻止了开发者（除了法律原因）将他们的网站代码注册到一个完全不同的域？我不太熟悉网站删除的过程，作为学习网络开发的人，我对这个主题感到非常困惑    由   提交 /u/SozinsComet1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rtw6yk/when_anime_sites_get_taken_down_why_dont_they/</guid>
-      <pubDate>Sat, 14 Mar 2026 21:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道在哪里可以找到静态网站的自由职业？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rtvzvd/does_anyone_know_where_to_find_freelance_gigs_for/</link>
-      <description><![CDATA[几年前我毕业了，花了一段时间才弄清楚我想做什么。我知道很多工作都要求你了解 JavaScript，但我多次尝试学习它，但从来没有卡住。我尝试开一家电子商务商店，销售 HTML/CSS 模板、SquareSpace 模板以及我用 Canva 制作的可下载打印文件，但我从来没有运气。所以，我从那转向自由职业。我首先尝试了 UpWork，但由于 Connects 需要花钱，如果我找不到东西，我不想浪费它。所以，我主要只是等待推荐或建议，申请后从未收到回复。这种情况持续了几个月，在这段时间里，我也开始关注 Fivver。几个月过去了，这两个平台都没有任何消息，所以我删除了我的帐户并开始使用 Indeed。这实际上比 UpWork 有更好的结果，但我仍然没有收到任何回复。一段时间后，我决定开设一个 YouTube 频道并使用我的 Ko-Fi 商店。我决定创建一个 Reddit 帐户。 我一直避免使用 Reddit，只是因为我听说它可能有毒，但我很沮丧，所以我想尝试一下。我更新了我的作品集，在这里的几个不同社区发布了几次，然后等待。除了很多意见之外，我什么也没听到。虽然才一周，但我还没那么耐心，哈哈。另外，我在 DeviantArt（我每天访问的地方）上的项目已经一年了，我得到的只是浏览量，所以我宁愿历史不要在 Reddit 上重演！ 我听说我可以如何接触到没有网站的企业并向他们推销……但我不确定如何做？我通常会通过查看他们已有的内容来做得更好，如果该网站对我来说看起来很简单，那么我就会知道需要改进什么。事实上，我 3 个月前去了一家沙龙，他们提到他们的网站需要完成工作，我只是尝试联系他们，然后……蟋蟀。 所有这些咆哮只是说我正在寻找远程自由职业，并且具有以下一项或多项功能：创建 HTML/CSS 网站或动画、SquareSpace 模板或可下载的打印文件。我真的很感激任何提示/建议！谢谢。   由   提交 /u/Zestyclose_South_980   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rtvzvd/does_anyone_know_where_to_find_freelance_gigs_for/</guid>
-      <pubDate>Sat, 14 Mar 2026 21:49:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六炫耀] 沮丧导致“真正”的评论网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rtvvsm/showoff_saturday_frustration_leads_to_a_real/</link>
-      <description><![CDATA[所有产品评论网站从未真正详细描述过产品的优点和缺点，让我感到沮丧，所以我建立了自己的网站。现在已经审查了一千多个项目。希望得到您的反馈！请访问 FiveBestPicks.com   由   提交/u/jhkoenig   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rtvvsm/showoff_saturday_frustration_leads_to_a_real/</guid>
-      <pubDate>Sat, 14 Mar 2026 21:44:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
