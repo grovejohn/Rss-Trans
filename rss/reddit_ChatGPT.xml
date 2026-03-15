@@ -4,7 +4,84 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Sun, 15 Mar 2026 09:22:39 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 12:24:52 GMT</lastBuildDate>
+    <item>
+      <title>自动化流程</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ruchta/automated_processes/</link>
+      <description><![CDATA[想要确认。我和我的朋友都有 ChatGPT Plus。他与我分享了这个功能，每个星期五的聊天都会针对某些主题进行自动背景研究审查，供他醒来消化。  当我尝试设置相同的内容时，我的聊天坚持认为它无法执行此操作。  我在浏览器版本上看到一个可以设置任务的地方，但即使我要求浏览器上的聊天来执行此操作，它也无法执行此操作。  此功能仅在选定的帐户上推出吗？我相信这只是所谓的任务。    由   提交 /u/slowturtle88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ruchta/automated_processes/</guid>
+      <pubDate>Sun, 15 Mar 2026 12:12:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 就像..</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rucb81/chatgpt_be_like/</link>
+      <description><![CDATA[       由   提交/u/NovatarTheViolator   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rucb81/chatgpt_be_like/</guid>
+      <pubDate>Sun, 15 Mar 2026 12:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>狗癌疫苗管道是真实的——这里有每一个工具、每一个步骤以及它的实际成本</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ruc0w0/the_dog_cancer_vaccine_pipeline_is_real_here_is/</link>
+      <description><![CDATA[看到一些关于 Paul Conyngham 使用 ChatGPT 和 AlphaFold 为他的狗设计 mRNA 癌症疫苗的帖子。很多人都好奇他到底是如何做到的——包括我！ Sox 我深入研究了细节…… 这里有一个精确的 7 步流程，用于复制他的工作，或者对您自己的 DNA 数据进行测序和分析，以及每个步骤的成本： 第 1 步 - DNA 测序（约 3,000 美元） 将肿瘤组织发送到商业基因组实验室。他们对肿瘤细胞与健康细胞进行测序，并将突变数据作为 FASTQ 文件返回。 Dante Labs 和类似服务可以做到这一点。 第 2 步 - ChatGPT（20 美元/月） 作为研究合作者全程使用 - 治疗策略、解释突变数据、迭代疫苗设计。不是魔法，只是一个非常快速的研究合作伙伴。 第 3 步 - AlphaFold（免费） Google DeepMind AlphaFold 是开源的。对于少量蛋白质，alphafoldserver.com 上的网络服务器不需要 GPU。对于批量运行，您需要 8GB+ VRAM 和 64GB RAM 或以大约 2 美元/小时的价格租用云 A100。 第 4 步 - 新抗原选择（免费、开源） 这是 ML 步骤 - 识别哪些肿瘤突变产生最佳疫苗靶点。开源工具：pVACtools（华盛顿大学）、用于 MHC 结合亲和力的 NetMHCpan、用于突变识别的 GATK MuTect2。全部免费，在具有 16GB RAM 的标准 Linux 机器上运行。 第 5 步 - mRNA 序列规范 以上所有内容的输出是描述 mRNA 序列的半页文档。只需文字。 第 6 步 - mRNA 合成（需要大学实验室） 无法在家 DIY。 Conyngham 将他的序列带到了新南威尔士大学 RNA 研究所。他们在不到两个月的时间内生产出了疫苗。您需要大学或生物技术合作者。 第 7 步 - 道德审批和管理 三个月。比设计疫苗的时间更长。 步骤 2-4 的总计算成本：云积分低于 100 美元。 3,000 美元几乎全部用于 DNA 测序。 值得注意的是：Isomorphic Labs 刚刚发布了 IsoDDE（2026 年 2 月），在此类预测上，它的准确度比 AlphaFold 3 提高了 2 倍。管道已经变得越来越好。 教授说“如果我们可以为狗做到这一点，为什么我们不将其推广到人类身上呢？”答案并不科学。管道工作了。  瓶颈在于监管！   由   提交 /u/the-ai-scientist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ruc0w0/the_dog_cancer_vaccine_pipeline_is_real_here_is/</guid>
+      <pubDate>Sun, 15 Mar 2026 11:47:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人试图玷污我的人格。质疑我与人工智能的互动。 Le Chat、Grok、Claude、DeepSeek、ChatGPT 和 Perplexity 做出了回应。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ruc0i6/someone_tried_to_besmirch_my_character_discredit/</link>
+      <description><![CDATA[       由   提交/u/Character_Point_2327   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ruc0i6/someone_tried_to_besmirch_my_character_discredit/</guid>
+      <pubDate>Sun, 15 Mar 2026 11:46:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>价值数十亿美元的公司（亚马逊、麦肯锡）正在遭到人工智能代理的黑客攻击。为什么我们在还没完全准备好的时候就这么着急呢？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rubkn2/billion_dollar_companies_amazon_mckinsey_are/</link>
+      <description><![CDATA[      亚马逊自己的代理进行了小错误修复。它删除了整个生产环境。停电13小时。称其为“用户错误”。 一家安全公司将一名特工指向麦肯锡的内部平台。两小时后，它可以写入 728,000 个机密客户文件。该漏洞是麦肯锡自己的扫描仪错过了两年的基本 SQL 注入。 医疗保健代理将 483,000 条患者记录推送到不安全的数据库。 Gartner 表示，到 2027 年，40% 的代理人工智能项目将被取消。最好的模型可以完成 30% 的实际办公任务。只有 14% 的企业拥有生产就绪部署。 我们没有陷入“我们是否应该部署代理”的问题。不再谈话了。每个主题演讲都已经解决了这个问题。我们正处于真实系统崩溃、真实数据泄露的阶段，业界仍将其称为“用户错误”。并继续前进。 什么时候故障率变得无法忽视？   由   提交 /u/Physical-Parfait9980   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rubkn2/billion_dollar_companies_amazon_mckinsey_are/</guid>
+      <pubDate>Sun, 15 Mar 2026 11:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chatgpt 出于某种原因对可卡因非常热衷</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rubi1y/chatgpt_is_extremely_enthusiastic_about_cocaine/</link>
+      <description><![CDATA[      由   提交/u/LordBeefTheFirst  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rubi1y/chatgpt_is_extremely_enthusiastic_about_cocaine/</guid>
+      <pubDate>Sun, 15 Mar 2026 11:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>注册时验证年龄？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ruapuu/age_verification_with_sign_up/</link>
+      <description><![CDATA[您好，这是我在这里发表的第一篇文章，请耐心等待。 我是一名免费的 catgpt 用户，老实说，是一个偶尔的用户，几天前我被要求进行年龄验证。我马上就开始了，但中途停了下来，因为验证工具要求我注册，我起了疑心！ 你能好心给我解释一下并给我建议吗？我想确认一下！ PS 我不是英语母语，所以...是的，请对我轻松一些！ 编辑以添加信息 我的怀疑来自于当我几周没有使用该应用程序时，该请求会自动通过我的电子邮件发送！我避开了电子邮件中的任何链接，直接进入了应用程序。在发现隐藏在某处的提示后，我尝试在那里进行验证！ 我会再试一次，如果你们中有人已经成功完成了这次注册！   由   提交 /u/The_Nightflight   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ruapuu/age_verification_with_sign_up/</guid>
+      <pubDate>Sun, 15 Mar 2026 10:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Chatgpt 现在提供虚假信息或过时的信息</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ruaczs/why_chatgpt_is_giving_false_information_or/</link>
+      <description><![CDATA[过去几周我在 Chatgpt 上遇到了困难。我正在尝试监控黄金价格和一些市场分析。它不断向我提供去年的黄金价格，并告诉我不可能达到当前市场价格 5000 美元。我已尝试多次尝试要求它进行深入的市场研究以勺子喂养链接，但它仍然会出错。我在监控市场时能够发现这一点，但想象一下，如果有人试图在 Chatgpt 上回复他们的信息，它可能会达成严格的共识。你不能再相信它告诉你的事情了。    由   提交 /u/blue_mushrooms   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ruaczs/why_chatgpt_is_giving_false_information_or/</guid>
+      <pubDate>Sun, 15 Mar 2026 10:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人收到这些 ChatGPT 电子邮件吗？我在 ChatGPT 中激活了“推送和电子邮件”的“推荐通知”，但我没有收到这些电子邮件。有其他地方可以订阅这些吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ruaatc/anyone_getting_these_chatgpt_emails_i_have_the/</link>
+      <description><![CDATA[   /u/py-net  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ruaatc/anyone_getting_these_chatgpt_emails_i_have_the/</guid>
+      <pubDate>Sun, 15 Mar 2026 10:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在刚刚提取 2026 年有关伊朗的文章后，“我没有浏览权限，我的培训只持续到 2025 年 8 月”。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ru9u12/i_dont_have_browsing_access_and_my_training_only/</link>
+      <description><![CDATA[   /u/Cru51  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru9u12/i_dont_have_browsing_access_and_my_training_only/</guid>
+      <pubDate>Sun, 15 Mar 2026 09:37:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目记忆</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ru9otr/project_memory/</link>
+      <description><![CDATA[嗨，我有 Plus 订阅。我注意到现在，当我创建一个新项目时，我无法再更改设置，尤其是共享内存设置。当我点击齿轮图标时，没有任何反应...另外，我在意大利。   由   提交/u/RU3EN_1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru9otr/project_memory/</guid>
+      <pubDate>Sun, 15 Mar 2026 09:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>Chatgpt 是否曾经拒绝回答您或生成基于道德的图像？</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1ru96ql/has_chatgpt_ever_refused_to_answer_you_or/</link>
@@ -32,83 +109,6 @@
       <description><![CDATA[      我进行了完整的 Claude API 与 GPT-5 API 成本计算 — 包括输出代币、缓存和批量折扣。结果令我惊讶。 “按每月 1000 万代币计算，GPT-5.4 每年节省 327 美元 - 但 Claude 在超过 272K 代币的长上下文工作负载上获胜”   由   提交/u/vinodpandey7  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1ru8y9z/claude_api_vs_gpt5_api_the_exact_token_volume/</guid>
       <pubDate>Sun, 15 Mar 2026 08:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>即时工程文章</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru8t23/prompt_engineering_article/</link>
-      <description><![CDATA[我在 Medium 上写了一篇关于即时工程的相当内容丰富的文章。我认为这非常好。 看看吧！ （我并不是想“自我推销”——这是一个非常详细的提示的重要指南。）   由   提交 /u/stunspot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru8t23/prompt_engineering_article/</guid>
-      <pubDate>Sun, 15 Mar 2026 08:33:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我没有让 chatGPT 告诉我这个虚假信息。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru8o71/i_did_not_tell_chatgpt_to_tell_me_this_false/</link>
-      <description><![CDATA[       由   提交 /u/DRIVECSX   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru8o71/i_did_not_tell_chatgpt_to_tell_me_this_false/</guid>
-      <pubDate>Sun, 15 Mar 2026 08:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您还在chatGPT上手动提示而不是连锁提示吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru8mx5/are_you_still_manually_prompting_on_chatgpt_and/</link>
-      <description><![CDATA[      当您可以构建多步骤链并处理更复杂的问题时，为什么要手动运行 10 个链提示？在 Firefox（代理提示链）和 Chrome（代理提示队列）上为 ChatGPT 构建并运行多步骤提示链插件。 🟪 自带市场，可在人们之间共享提示。 🟪 代理提示链 🟪 在本地保存提示链 🟪 支持大多数主要的 LLM 提供商 &lt;一href=&quot;https://preview.redd.it/ax360j9le6pg1.png?width=1536&amp;format=png&amp;auto=webp&amp;s=7dc5bcc44486fa694689c5ccfef18aaa4836538d&quot;&gt; https://preview.redd.it/ax360j9le6pg1.png?width=1536&amp;format=png&amp;auto=webp&amp;s=7dc5bcc44486fa694689c5ccfef18aaa4836538d &lt;一href=&quot;https://preview.redd.it/a36ho2ag46pg1.png?width=1746&amp;format=png&amp;auto=webp&amp;s=616ccd23d8d50aaf54617afeecfd9b0b6976a420&quot;&gt; https://preview.redd.it/a36ho2ag46pg1.png?width=1746&amp;format=png&amp;auto=webp&amp;s=616ccd23d8d50aaf54617afeecfd9b0b6976a420 Chrome：https://chromewebstore.google.com/detail/agentic-prompt-queue/mpkjmajchlnniknnmpohjellpnfecgpk ￼​   由   提交 /u/Mission_Sir2220   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru8mx5/are_you_still_manually_prompting_on_chatgpt_and/</guid>
-      <pubDate>Sun, 15 Mar 2026 08:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>看起来我们仍然可以“感觉到”LLM 的气味，而 GPT 的 LLM 气味是其中最多的。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru85hl/it_seems_like_we_can_still_sense_llm_smell_and/</link>
-      <description><![CDATA[       由   提交/u/DutyPlayful1610  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru85hl/it_seems_like_we_can_still_sense_llm_smell_and/</guid>
-      <pubDate>Sun, 15 Mar 2026 07:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>失望归来</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru80ji/disappointed_return/</link>
-      <description><![CDATA[我尝试了 Gemini 几个月，因为我使用 Google，而且我被它宣传的与更大生态系统的集成程度所吸引。唉，它的能力对我的目的来说没那么有用。我试过克劳德，发现它的说教很无聊。所以，几个月后，我决定回到ChatGPT。我发现自己进行了一次愉快的谈话，我正在探索人类潜力的积极角度。我在措辞上犯了一个错误，不知何故引发了一场关于我如何边缘化一个群体的演讲。显然，在我陈述如何低估截肢者的能力描述了整个社会如何低估人们时，我未能正确表达他们独特的斗争。当我真诚地试图对人类状况说一些积极的话时，我真的很想纠正一些事情。这绝不是建设性的。 我希望对模型的这些改变有助于使 OpenAI 免受诉讼，但它们严重阻碍了实用性。我真的认为，这些公司越是试图让他们的模型尽可能无害，他们就越是在牺牲自己的效用。当他们牺牲效用时，他们就会丧失收入。我想我除了发泄之外不知道这篇文章的意义是什么。如果您读到这里，感谢您的阅读。我真的很喜欢人工智能，但他们越是试图为每个人创造一些东西，他们就越能看到不适合任何人的东西。   由   提交/u/NurseRWalker  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru80ji/disappointed_return/</guid>
-      <pubDate>Sun, 15 Mar 2026 07:42:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试了我在这里看到的这个提示。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru76i0/tried_this_prompt_i_saw_on_here/</link>
-      <description><![CDATA[这是意想不到的......   由   提交/u/VoodooWitchDoctor23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru76i0/tried_this_prompt_i_saw_on_here/</guid>
-      <pubDate>Sun, 15 Mar 2026 06:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚看到 ChatGPT 就像一个免费的聊天机器人应用程序一样在我面前崩溃，我有点生气。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru73lg/i_just_saw_chatgpt_collapse_like_a_free_chatbot/</link>
-      <description><![CDATA[我正在就我正在写的一篇研究论文进行很长的对话，我正在集思广益并提出想法（我开始喜欢人工智能，因为它可以在创意写作工作中发挥出色的“速记员+编译器”作用），它以 6 分的方式回应我的整个概念（正如它所做的那样）。  这可能是第五条回复了，我在回复之前只读了一小部分......所以我解释了这一点作为我下一个回复的前言，然后继续即兴发挥。它回复让我知道它会减慢速度等等，然后对我的下一个头脑风暴点给出了简短的回应。  （这就是它变得愚蠢的地方）。  所以我发送了下一条消息，在下一条回复的开头，有这样的内容： “明白了。我会保持紧张，只回应你所说的核心内容。” 再次。 这个耗资数百万美元、充满水库的人工智能刚刚直接回复了最后一条消息。 只有我，还是 WTF？   由   提交 /u/doctordaedalus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru73lg/i_just_saw_chatgpt_collapse_like_a_free_chatbot/</guid>
-      <pubDate>Sun, 15 Mar 2026 06:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有趣的实验可以让你的设备崩溃或显着减慢速度</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru6vzp/fun_experiment_to_crash_or_significally_slow_your/</link>
-      <description><![CDATA[我要求chatgpt“在一条消息中向我发送尽可能多的数据”它崩溃了。   由   提交 /u/MatuPapi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru6vzp/fun_experiment_to_crash_or_significally_slow_your/</guid>
-      <pubDate>Sun, 15 Mar 2026 06:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技企业家为狗罗西研制个性化癌症疫苗</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru6uj8/tech_entrepreneur_creates_personalised_cancer/</link>
-      <description><![CDATA[ 由   提交 /u/coldbeers   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru6uj8/tech_entrepreneur_creates_personalised_cancer/</guid>
-      <pubDate>Sun, 15 Mar 2026 06:29:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于审核的 VPN</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru6q99/vpn_for_moderation/</link>
-      <description><![CDATA[VPN 是否有助于避免审核？我在美国拍不了简单的比基尼照片哈哈   由   提交/u/PR760  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru6q99/vpn_for_moderation/</guid>
-      <pubDate>Sun, 15 Mar 2026 06:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个人工智能助手，可以帮助创始人在全球范围内开展业务。希望得到反馈。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ru6he6/i_built_an_ai_assistant_that_helps_founders_set/</link>
-      <description><![CDATA[大家好， 我一直在开发一个名为“全球业务设置助理”的人工智能项目。 它可以帮助创始人弄清楚以下问题： • 在哪里组建公司 • 税务和合规基础知识 • 跨境设置 • 初创公司结构指导 目标是简化早期的流程创始人面临的法律/合规性困惑。 我仍在改进它，并且非常感谢那些在国际上创业的人们的反馈。 如果有人想测试它并告诉我什么有效/什么无效，这里是链接： ChatGPT - 全球业务设置助手 您希望这样的东西包含哪些功能？   由   提交 /u/Optimal_Craft4872   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ru6he6/i_built_an_ai_assistant_that_helps_founders_set/</guid>
-      <pubDate>Sun, 15 Mar 2026 06:07:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
