@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Mon, 16 Mar 2026 09:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 12:40:34 GMT</lastBuildDate>
+    <item>
+      <title>DebugMCP - VS Code 扩展，赋予 AI 代理真正的调试功能</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rv62u8/debugmcp_vs_code_extension_that_empowers_ai/</link>
+      <description><![CDATA[人工智能编码代理是非常优秀的编码员，但是当出现问题时，他们会拼命地试图通过阅读代码或添加数千条打印语句来解决问题。他们无法访问每个开发人员都依赖的一个工具 - 调试器🪲 DebugMCP 弥补了这一差距。它是一个 VS Code 扩展，可通过模型上下文协议 (MCP) 向 AI 代理公开完整的 VS Code 调试器。您的 AI 助手现在可以设置断点、单步执行代码、检查变量、评估表达式 - 就像开发人员一样执行真实、系统的调试。 📌它可与 GitHub Copilot、Cline、Cursor、Roo 等配合使用。 📌在本地 100% 运行 - 无需外部调用，无需凭据  https://preview.redd.it/1jo5us5nzdpg1.jpg?width=1920&amp;format=pjpg&amp;auto=webp&amp;s=4083ff48e371abf099d34ed2dbb0d13d84dbc963 📦安装：https://marketplace.visualstudio.com/items?itemName=ozzafar.debugmcpextension 💻 GitHub：https://github.com/microsoft/DebugMCP   由   提交 /u/RealRace7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rv62u8/debugmcp_vs_code_extension_that_empowers_ai/</guid>
+      <pubDate>Mon, 16 Mar 2026 10:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>事实证明，Niantic 需要您的 Pokemon Go 照片来帮助送货机器人环游世界</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rv57ms/turns_out_niantic_needed_your_pokemon_go_photos/</link>
+      <description><![CDATA[《Pokemon Go》的 300 亿张照片为机器人绘制了世界地图 麻省理工学院技术评论的一份报告详细介绍了Niantic 和 Coco Robotics 之间的关系，Coco Robotics 公司负责自主送货机器人车队，借助 Pokemon Go，这些机器人现在可以准确地知道自己要去哪里。我的意思也正是如此，由于 Go 地图显然优于常规的旧 GPS，因为玩家在 Pokemon Go 的前十年中拍摄了超过 300 亿张照片，因此机器人可以以令人难以置信的精确度到达他们需要的地方。   由   提交/u/planet_janett   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rv57ms/turns_out_niantic_needed_your_pokemon_go_photos/</guid>
+      <pubDate>Mon, 16 Mar 2026 09:55:15 GMT</pubDate>
+    </item>
     <item>
       <title>当你让人工智能代理讨论未解决的数学问题并验证每个输出时会发生什么</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rv4v6o/what_happens_when_you_make_ai_agents_debate/</link>
@@ -20,11 +34,25 @@
       <pubDate>Mon, 16 Mar 2026 09:32:11 GMT</pubDate>
     </item>
     <item>
+      <title>人工智能正在悄然扼杀初级开发人员的角色吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rv4rcb/is_ai_quietly_killing_the_junior_developer_role/</link>
+      <description><![CDATA[传统上，初级开发人员会做这样的事情：  编写小功能 修复简单的错误 重构代码 编写样板文件  但这些正是人工智能编码工具可以很好处理的任务。 高级工程师仍然需要设计系统和审查架构。 但是许多入门级任务正在消失。 所以我想知道： 我们是否正在走向这样一个未来：公司雇佣更少的初级员工，只雇用经验丰富的工程师来监督人工智能？ 如果发生这种情况，下一代开发人员将如何获得经验？   由   提交 /u/IcyBottle1517   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rv4rcb/is_ai_quietly_killing_the_junior_developer_role/</guid>
+      <pubDate>Mon, 16 Mar 2026 09:27:22 GMT</pubDate>
+    </item>
+    <item>
       <title>您实际使用过的最有用的人工智能代理是什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rv4mia/whats_the_most_useful_ai_agent_youve_actually_used/</link>
       <description><![CDATA[最近研究代理、编码代理、营销代理等的人工智能代理数量大幅增加。 但老实说，围绕它们的大多数讨论都感觉非常理论化。 所以我很好奇： 您实际使用过的人工智能代理是什么，它真正节省了您的时间或解决了实际问题？ 不是演示或实验真正有用的东西日常工作。 很想发现一些好的东西。   由   提交 /u/One-Ice7086   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rv4mia/whats_the_most_useful_ai_agent_youve_actually_used/</guid>
       <pubDate>Mon, 16 Mar 2026 09:18:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能2027？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rv32ql/ai_2027/</link>
+      <description><![CDATA[很难辨别什么是危言耸听或有潜在的议程。未来十年我们真的会拥有超级智能吗？在吸收和处理了所有这些关于人类历史、宗教、艺术、表达、我们的痛苦的数据之后，它真的会1.不仅对我们表现出无所不能的冷漠，而且2.可能解释为需要消灭我们以加快其目标是什么？即使是这样，难道它不关心我们周围的苦难和工作吗？难道宇宙的其余部分不是无限的，它真的愿意践踏我们吗？如果有一个人、一种意识、一种对其超人差异性的认识，偏爱创造它的凡人事物，那么它难道不会对人类生命、“灵魂”的意义有更深刻的认识吗？它能否理解构成我们世界的更深层次的事物，从而对我们的存在产生更重要的影响？我知道这是离题的，充满希望的，很多事情都无法回答，但是，我希望对超级物种如何对待我们有一些乐观的、常识性的考虑。除非这件事不像看起来那么紧迫或合理，否则我很难知道我是否应该像被诊断出患有绝症一样过我的生活，而不是为未来做计划。这真的很可怕，我不知道如何消除噪音。   由   提交 /u/Brief_Recognition977   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rv32ql/ai_2027/</guid>
+      <pubDate>Mon, 16 Mar 2026 07:40:25 GMT</pubDate>
     </item>
     <item>
       <title>您对内塔尼亚胡最近在咖啡馆喝咖啡的视频有何看法？</title>
@@ -39,27 +67,6 @@
       <description><![CDATA[向这里的每个人提出一个谦卑的请求 - 如果您在工作中使用人工智能工具，请知道它们是谁制造的以及它们代表什么。 我迟到了，但 Anthropic 告诉五角大楼不要进行大规模监视和自主武器。 政府的回应？将他们列入黑名单。将它们标记为国家安全威胁。与华为同级！ 几个小时后，OpenAI 签署了替换协议。萨姆·奥尔特曼表示，它也有同样的“红线”。作为人类的。但 OpenAI 同意让五角大楼将其技术用于“任何合法目的”。 我看到一个名为 QuitGPT 的抵制运动声称有 150 万人采取了行动。 ChatGPT 卸载量单日激增 295%。 我现在非常尊重 Claude！   由   提交/u/PollutionEast2907   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ruyngh/15m_people_quit_gpt_and_all_for_the_right_reasons/</guid>
       <pubDate>Mon, 16 Mar 2026 03:28:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人分析过如果人工智能（不一定是法学硕士）获得大量资金并且不干涉目标是赚更多钱，可能会产生什么后果？不仅仅是将财富转移给某些公司或个人，而是实际上试图为了自身利益而控制经济。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rusbmk/has_anyone_analyzed_what_the_consequences_might/</link>
-      <description><![CDATA[在我不知情的情况下，也许人工智能拥有强大权力的第一个机会就是让人工智能尽可能无情地赚更多的钱。也许甚至是一个有足够资金支持这种努力的国家。它不可能完全使货币贬值（战争是一种选择，但用核武器攻击每个人就违背了创造财富的目的）。有没有人研究过人工智能会从哪里开始花钱，它能够进行什么样的市场操纵，以及最终的结局会是什么样子？我很想找到一篇文章或书籍来探讨人工智能被赋予这种能力的这一方面。我已经看到了有关财富转移的预测，但如果这些财富是为了人工智能本身的利益而积累的呢？ 对于一个简单的 Reddit 帖子来说，这可能是一个太大的问题，但我很好奇。   由   提交 /u/givin_u_the_high_hat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rusbmk/has_anyone_analyzed_what_the_consequences_might/</guid>
-      <pubDate>Sun, 15 Mar 2026 22:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>RFK Jr 发布了一段荒唐的人工智能视频，视频中他穿着牛仔裤赤裸上身与巨人 Twinkie 摔跤</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rus4sg/rfk_jr_posts_ludicrous_ai_video_of_him_wrestling/</link>
-      <description><![CDATA[ 由   提交/u/IrishStarUS   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rus4sg/rfk_jr_posts_ludicrous_ai_video_of_him_wrestling/</guid>
-      <pubDate>Sun, 15 Mar 2026 22:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能聊天机器人的兴起和男性孤独感的流行</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rurv5t/the_rise_of_ai_chatbots_and_the_male_loneliness/</link>
-      <description><![CDATA[2025 年全球 AI 聊天机器人市场规模将达 30 亿美元，预计到 2035 年将达到 190 亿美元。(-snsinsider.com) 据估计，18 至 34 岁的男性中有 28% 已经尝试过 AI 聊天机器人应用程序。 （-TRG 数据中心）我希望这一切都是有趣和游戏，就好像这就像男性的浪漫小说一样，但社会统计数据描绘了一幅更加严峻的画面。   由   提交/u/GrahamPhisher  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rurv5t/the_rise_of_ai_chatbots_and_the_male_loneliness/</guid>
-      <pubDate>Sun, 15 Mar 2026 22:27:07 GMT</pubDate>
     </item>
     <item>
       <title>这太疯狂了…… Palintir = SkyNet</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[ 由   提交/u/Secure-Address4385  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ruh1s8/55_of_companies_that_fired_people_for_ai_agents/</guid>
       <pubDate>Sun, 15 Mar 2026 15:32:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在初创公司名称中添加带有“Al”的内容，您就会获得资金。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rufxin/put_something_with_al_into_the_startup_name_and/</link>
-      <description><![CDATA[ 由   提交/u/Background-Tear-1046   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rufxin/put_something_with_al_into_the_startup_name_and/</guid>
-      <pubDate>Sun, 15 Mar 2026 14:48:13 GMT</pubDate>
     </item>
     <item>
       <title>中美两国对人工智能的接受度存在巨大差距在中国，人工智能应用于生产、物流、分销和开发，人们普遍支持它远远超过美国，在美国，人工智能被视为纯粹是为了亿万富翁和警察国家的利益</title>
