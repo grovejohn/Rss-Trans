@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Mar 2026 01:10:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 05:10:18 GMT</lastBuildDate>
+    <item>
+      <title>也许有一天我能买得起这样的优质域名😩</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ruzjhh/maybe_someday_ill_be_able_to_afford_a_premium/</link>
+      <description><![CDATA[      由   提交 /u/HostingAdmiral   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ruzjhh/maybe_someday_ill_be_able_to_afford_a_premium/</guid>
+      <pubDate>Mon, 16 Mar 2026 04:13:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare AI 保护在域级别工作，但如何限制少数子域并允许其他子域？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ruyw7x/clouldflare_ai_protection_works_domain_level_but/</link>
+      <description><![CDATA[Clouldflare AI 保护在域级别工作，但如何限制少数子域并允许其他子域？   由   提交/u/InsideResolve4517  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ruyw7x/clouldflare_ai_protection_works_domain_level_but/</guid>
+      <pubDate>Mon, 16 Mar 2026 03:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议阅读一些资源/书籍以提高我的知识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ruxhuk/suggest_some_resourcesbooks_to_read_to_improve_my/</link>
+      <description><![CDATA[我目前是大学三年级学生，正在申请实习。我确实有一些项目计划在购买域后部署，但在使用大量数据和并发用户进行测试时它们运行速度非常慢。我的堆栈是 Java + Spring，所以我尝试使用 Hikari Pool 连接和缓存，但我不知道如何最佳地使用它。如果可能的话，请提供您的意见并推荐一些资源和书籍。 此外，我通过 K6 对其进行了测试。我确实将文件上传到人工智能，但它是幻觉。即使使用缓存和更改数据库连接也只能带来很小的改进。我还了解到，一种方法中的 2 个数据库查询是糟糕的设计和糟糕的性能，因此我优化为 1 个直接数据库调用，这样性能也提高了一点。那么对此有什么意见吗？   由   提交 /u/Proud_Yesterday6627   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ruxhuk/suggest_some_resourcesbooks_to_read_to_improve_my/</guid>
+      <pubDate>Mon, 16 Mar 2026 02:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了免费的全栈课程！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rux6az/created_a_free_fullstack_course/</link>
+      <description><![CDATA[我创建了一个免费的全栈课程，任何人都可以使用它，无需登录或其他任何东西，让克劳德帮助我组织整个事情，因为我的思想到处都是。这是链接 fullstack.codewithtoni.com ，整个过程使用了 docusaurus。   由   提交 /u/EfficientLong5234   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rux6az/created_a_free_fullstack_course/</guid>
+      <pubDate>Mon, 16 Mar 2026 02:18:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS S3 如何在慢速 HDD 上提供每秒 1 PB 的服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ruw75k/how_aws_s3_serves_1_petabyte_per_second_on_top_of/</link>
+      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ruw75k/how_aws_s3_serves_1_petabyte_per_second_on_top_of/</guid>
+      <pubDate>Mon, 16 Mar 2026 01:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ruvykb/html/</link>
+      <description><![CDATA[伙计们，我想我以性的方式喜欢 html    由   提交 /u/Sufficient_Spite1213   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ruvykb/html/</guid>
+      <pubDate>Mon, 16 Mar 2026 01:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个代理记忆系统，其中的经验教训会随着时间的推移而衰减。这是它的工作原理。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ruvu7w/i_built_an_agent_memory_system_where_lessons/</link>
+      <description><![CDATA[我正在构建一个工具，可以读取 GitHub 和 Slack 来为开发团队显示项目状态。有趣的前端挑战是可视化代理如何跨运行思考，特别是显示代理曾经读取或生成的每个上下文块之间的连接的图形视图。 系统中的每条信息都是一个块。有五种类型：代理运行、决策、上下文信号、注释和 GitHub 快照。每个块都有一个从 0 到 100 的优先级分数，以及一组与通知它或它推荐的其他块的连接。 我使用 React Flow 来构建图形视图。每个节点是一个块，每条边是一个连接。您可以按时间范围、块类型、仅最高优先级进行过滤，或按关键字搜索。单击一个节点会显示完整的块内容、其优先级分数、其域及其所有连接。 有趣的部分是下面的内存系统。每次运行后，代理都会生成课程：typescript { Lesson: &quot;Stale PRs with unmergeable state indicates dependency health is not强制执行&quot;,confidence: 0.58,impactScore:68,applyTo:[&quot;stale&quot;,&quot;unmergeable&quot;,&quot;dependency&quot;,&quot;security&quot;],applyCount:0} 当课程被证明有用时，信心就会增强。信心随着变得陈旧而衰退。随着时间的推移，随着代理了解您的项目真正关心哪些信号，该图开始看起来有所不同。 公共演示在 ryva.dev/demo 上的真实 Supabase 存储库上运行，无需注册。使用 Next.js、Convex、React Flow 和 Clerk 构建。 如果有人构建了类似的东西，很高兴讨论 React Flow 实现。   由   提交 /u/HiSimpy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ruvu7w/i_built_an_agent_memory_system_where_lessons/</guid>
+      <pubDate>Mon, 16 Mar 2026 01:17:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找优质的全栈工程师</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ruvoq5/finding_a_quality_fullstack_engineer/</link>
+      <description><![CDATA[我正在寻找一位经验丰富的开发人员来完成我们的前端并完成后端。总的来说，这是一个视频直播的媒体平台，有几个核心特色。对于解决过类似问题的人来说，寻找质量工程师的最佳地点在哪里？我听说 Toptal 和 Upwork 都不错，但都有各自的缺点。希望听到任何有经验的人的意见。谢谢！   由   提交 /u/Weird_Dragonfruit242   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ruvoq5/finding_a_quality_fullstack_engineer/</guid>
+      <pubDate>Mon, 16 Mar 2026 01:10:39 GMT</pubDate>
+    </item>
     <item>
       <title>如何连接数据库到前后端</title>
       <link>https://www.reddit.com/r/webdev/comments/1ruv4uv/how_to_connect_database_to_front_backend/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[这是一篇关于构建无人使用的东西的帖子，我分享它是因为我认为这是无人谈论的常见经验。 我建立了一个开发人员工具网站。 22 个基于浏览器的实用程序。 json 格式化程序、base64 编码器/解码器、jwt 解码器、哈希生成器、正则表达式测试器、颜色转换器、csv 到 json、unix 时间戳转换器、url 编码器、markdown 预览、html 实体编码器、文本比较工具...你明白了。 我花了最多的时间在我认为很酷的东西上。正则表达式测试器具有实时匹配突出显示功能。文本差异工具对突出显示的添加/删除内容进行正确的逐行比较。颜色转换器可以处理 6 种不同的颜色格式。 Google Analytics 表示，人们实际使用的唯一工具是：json 格式化程序（占流量的 60%）、base64 解码器（20%）和 jwt 解码器（15%）。其他所有内容加起来大约是 5%。 起初这有点令人沮丧。我在那个正则表达式测试器上花了几天时间，每周可能有 2 次访问。但后来我意识到这实际上是非常有用的信息。人们不想要花哨，他们想要快速。他们用谷歌搜索“在线格式化 json”，他们想要一个可以粘贴的框和一个让它变得漂亮的按钮。就是这样。 所以我倾向于它。使 json 格式化程序即时加载，无框架开销，处理大文件，添加自动检测，因此您甚至不需要单击按钮。流量增加了。 教训：构建 20 个东西，看看什么能坚持下去，然后加倍努力。不要爱上聪明的工具，要爱上有用的工具。 如果有人想查看的话，网站是https://devtools-site-delta.vercel.app。是的，json 格式化程序现在是页面上的第一件事，哈哈。   由   提交 /u/Krbva   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rurmqu/i_built_22_tools_and_the_only_ones_that_get/</guid>
       <pubDate>Sun, 15 Mar 2026 22:17:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 22 个基于浏览器的开发工具 — 所有客户端、开源、/bin/zsh 托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rupvvc/showoff_saturday_22_browserbased_dev_tools_all/</link>
-      <description><![CDATA[分享我一直在做的一个项目 — 22 个完全在浏览器中运行的开发者工具。 亮点： - 具有语法突出显示的 json 格式化程序 - jwt 解码器（标头 + 负载检查） - 具有实时匹配突出显示的正则表达式测试器 - qr 代码生成器（canvas api，无库） - 哈希生成器（Web 加密 api - md5 是唯一需要库的） - sql 格式化程序（自定义标记器/解析器） - 具有人类可读输出和下次运行时间的 cron 表达式解析器 - 以及 15 个以上 一切都在客户端运行。没有数据离开您的浏览器。没有帐户，没有跟踪。 根据我上一篇文章的反馈，我正在研究： - 命令面板/工作区模式，以便您可以在工具之间固定和切换 - solana 事务解码器（由 r/solanadev 上的用户建议） 技术：next.js 14 应用程序路由器、tailwind、vercel 免费层。 repo（现已公开，修复了上次的可见性问题）：https://github.com/TateLyman/devtools-run 站点：https://devtools-site-delta.vercel.app 欢迎提供反馈，尤其是您想要的工具添加。   由   提交 /u/Krbva   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rupvvc/showoff_saturday_22_browserbased_dev_tools_all/</guid>
-      <pubDate>Sun, 15 Mar 2026 21:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是对人工智能及其对我们的影响的咆哮。分享您的想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rupm3z/just_a_rant_about_ai_and_its_impact_on_us_share/</link>
-      <description><![CDATA[几年前，编码被认为是困难的，而提出想法则更容易。 现在，情况恰恰相反。每个人都在使用人工智能进行编码，这使得产生新想法比以往任何时候都更加困难。此外，编码不再具有挑战性——只需一个提示就可以构建整个应用程序，这可能会让人失去动力。这让我想知道如果有人能做到的话，是什么让我与众不同。 我很好奇我们开发者的下一步是什么。未来是个人拥有更好的解决问题的想法，还是还有其他可能性？作为一名在 CMS 和框架方面都有经验的前端开发人员，我不确定 AI 将带我们走向何方。 其他人也有同样的感觉吗？你们觉得自己脑子被卡住了吗？   由   提交/u/Jack_Sparrow2018   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rupm3z/just_a_rant_about_ai_and_its_impact_on_us_share/</guid>
-      <pubDate>Sun, 15 Mar 2026 20:58:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe Coding 可以治愈成瘾。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ruos5z/vibe_coding_cures_addiction/</link>
-      <description><![CDATA[      Garry Tan 是 Y Combinator ( https://www.ycombinator.com/people/garry-tan ) 的首席执行官，Twitter 大师和杰出的 vibecoder（他自豪地每天生产 10k LOC）。 Garry Tan 还有一个 GitHub 帐户（ https://github.com/garrytan ），只有一个活跃的存储库（他的 Claude Code 设置），该存储库有约 10.000 行 Typescript 代码和约 4.000 行 markdown。   由   提交/u/Gil_berth  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ruos5z/vibe_coding_cures_addiction/</guid>
-      <pubDate>Sun, 15 Mar 2026 20:27:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>内容过滤</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ruopuk/content_filtering/</link>
-      <description><![CDATA[大家好， 网页设计新手，尽管来自 IT 背景。我通过一个网站推出了一款产品，旨在销售给英国特定的公共部门领域。该网站仍然很新，不到两周，但服务较旧，我最近才设置域名等，事后看来，由于这个问题，这可能并不明智。 在那些对该产品感兴趣的网站上，他们无法访问它。它适用于不同人的私人（个人）设备。没有出现任何内容过滤消息，而是在多个浏览器上发生简单的超时。 经过研究，我发现这“可能”仍然是内容过滤，这意味着我只是在等待游戏，直到它不再被归类为“新”。有点令人沮丧，但是嘿嘿，但我很小心，我一直在等待，等待，结果发现是别的东西。 我在搜索时看到的一条建议是联系并要求他们将其列入白名单，但在这种情况下这是行不通的，必须联系各个组织并要求他们将网站列入白名单才能向他们出售产品，这对我来说会造成很大的阻碍。该网站上没有任何狡猾的东西。在最初的超时后，我通过一些安全屏幕运行它并获得了很多评级，但后来将其提高到 B 并添加了 CloudFlare。仍然没有变化。 感谢这位新手的任何指导（或保证）！ 提前致谢   由   提交 /u/Danny-r95   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ruopuk/content_filtering/</guid>
-      <pubDate>Sun, 15 Mar 2026 20:25:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>单一消息广告牌。出价高于收购</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rumx4p/single_message_billboard_outbid_to_takeover/</link>
-      <description><![CDATA[ 由   提交/u/lockardd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rumx4p/single_message_billboard_outbid_to_takeover/</guid>
-      <pubDate>Sun, 15 Mar 2026 19:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建可搜索的数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rump9f/creating_a_searchable_database/</link>
-      <description><![CDATA[我是一名制琴师，在一家吉他公司工作，该公司有一个使用 squarespace 构建的网站。最近，我们扫描并数字化了我们制造的每把吉他 10 多年的规格表，它们目前都以 .pdf 文件形式存储在 googledrive 中。 我们经常会收到购买过我们一把二手吉他的人发来的电子邮件，他们想了解它的规格和详细信息。目前我们必须自己搜索，然后将相关详细信息的副本发送给他们。 我们想做的是在我们的网站上开设一个部分，人们可以输入吉他的序列号，然后它将显示相关的规格表，他们可以保存/下载。 这可能吗？如果可以，实现它的最简单方法是什么？   由   提交 /u/wordsfromlee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rump9f/creating_a_searchable_database/</guid>
-      <pubDate>Sun, 15 Mar 2026 19:08:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在构建时记录 UI 还是将其留在代码中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rulzj8/do_you_document_the_ui_as_you_build_or_just_leave/</link>
-      <description><![CDATA[问这个问题是因为我在大多数项目上从未真正拥有过正确的设计流程。只是直接构建了东西，客户很高兴，发货了。但后来它不断引起问题。设计师进来，要求提供figma文件，我没有什么可以给他们的。或者我接手了别人的项目，整个设计都在 CSS 中，没有任何文档。上次发生这种情况时，设计师不得不花几天时间弄清楚存在的内容，然后才能开始任何实际工作。客户不想为那段时间付费 真正好奇 - 大多数开发人员是否考虑过这一点，还是设计文档总是事后才想到？   由   提交/u/yazeerr_  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rulzj8/do_you_document_the_ui_as_you_build_or_just_leave/</guid>
-      <pubDate>Sun, 15 Mar 2026 18:41:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个大型 Next.js 计算器平台，并了解了很多有关 SSG、ISR、包大小和架构的知识</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rulp9y/built_a_large_nextjs_calculator_platform_and/</link>
-      <description><![CDATA[我一直在构建一个计算器平台作为业余项目，它变成了一个比我最初预期大得多的 Next.js 应用程序。 我遇到的一些更有趣的工程问题： • 跨计算器、公式页面、场景、指南和答案页面的数千个内容/工具页面• 决定应静态生成什么与通过ISR 按需生成什么• 点击部署/构建输出预渲染过多时的限制 • 通过共享客户端组件意外地将大型计算器数据传送到客户端包中 • 保持计算器页面交互而不会使 SSR/SSG 输出膨胀 • 避免大规模重复的 JSON-LD 问题 • 保持长尾 SEO 页面可索引，同时仍添加客户端交互性，如逐步输出  Stack • Next.js App Router • TypeScript • Tailwind • 共享动态计算器渲染器 • 服务器端计算器注册表 •主要是 SSG + ISR，具体取决于页面类型 一些具体问题：  预渲染太多  起初我尝试预渲染基本上所有内容。这种方法一直有效，直到构建输出变得太大而无法部署为止。我必须将大量长尾页面移至 ISR，并且仅预渲染最高价值的页面。 实际拆分如下： • 预渲染核心计算器、集线器、指南、静态页面 • 用于大量长尾场景/答案/公式类型页面的 ISR   共享布局意外地使客户端包膨胀  标头中的两个客户端组件正在导入完整的计算器数据集，以进行客户端搜索和小部件选择。这意味着大量的计算器元数据将被发送到每个页面上的浏览器。 解决方法是仅将完整的计算器注册表保留在服务器端，并将轻量级搜索/选择器数据移至服务器路由后面，而不是将完整的对象导入到客户端组件中。  交互式内容而不损害可抓取内容  某些页面现在具有逐步计算输出、粘性结果栏等。我不希望 Google 看到空占位符或重复的客户端生成的文本作为核心页面内容。 因此主页内容仍保留 SSR/SSG： • 标题 • 解释 • 工作示例 • FAQ • 相关页面  动态分步 UI 仅在用户交互后呈现客户端。  结构化数据复制  由于 JSON-LD，我遇到了重复的 FAQPage 问题从同一页面上的多个层发出。当您共享页面模板+可重用组件时，很容易犯错误。修复只是在每页的每种架构类型上强制执行一个架构发射器。  基于注册表的步骤引擎  我不想仅仅为了支持逐步输出而修改每个计算器定义。我最终使用了 slug → 步骤生成器注册表，因此只有某些计算器选择加入。这保持了核心计算器架构的稳定，并使推出增量。 我很好奇其他人如何在较大的 Next.js 应用程序中处理类似问题，特别是： • 在 SSG 和 ISR 之间划清界限• 如何防止共享客户端组件默默地膨胀包大小• 如何跨可重用页面系统组织架构/元数据生成• 如何保持 SEO 页面的交互性不会使客户端负载过重 如果有人感兴趣，很乐意分享更多实现细节。   由   提交/u/ABezzy  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rulp9y/built_a_large_nextjs_calculator_platform_and/</guid>
-      <pubDate>Sun, 15 Mar 2026 18:30:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
