@@ -4,9 +4,9 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 17 Mar 2026 06:48:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 09:44:02 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>希望完全放弃 BrowserStack，2026 年你们都在使用什么？</title>
       <link>https://www.reddit.com/r/software/comments/1rvylqt/looking_to_move_away_from_browserstack_entirely/</link>
       <description><![CDATA[我们已经深入 BrowserStack 生态系统一段时间了，跨浏览器测试、应用程序测试、测试管理，等等。老实说，我们开始感觉我们是在为一个以十分之六的速度做很多事情的平台付费，而不是为每项工作提供一流的工具。成本也显着上升，更新对话也变得令人不舒服。 因此，我们正在进行全面的重新评估，并试图弄清楚现代堆栈实际上是什么样子，而不被锁定到一个供应商。对于浏览器和设备测试方面，我们主要关注 Lambdatest 和 Sauce Labs。接受其他建议，特别是如果您已经从 BS 做出了类似的转变。在测试管理方面，我们目前正在评估 Tuskr 和 Qase 此外，单独评估我们的 API 测试设置，目前倾向于将所有内容移至 Playwright 进行 API 运行，但也考虑空手道，因为我们拥有一个 Java 重型后端团队。 有人实际上完成了从 BrowserStack 生态系统的完全迁移吗？很想知道您的最终设置是什么样的，以及您希望在切换之前知道什么。仅真实体验，对供应商所说的内容不感兴趣..   由   提交 /u/Huge_Brush9484   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rvylqt/looking_to_move_away_from_browserstack_entirely/</guid>
