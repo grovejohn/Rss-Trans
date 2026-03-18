@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Mar 2026 21:27:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 01:06:04 GMT</lastBuildDate>
     <item>
       <title>食品法典分代理</title>
       <link>https://www.producthunt.com/products/openai</link>
@@ -20,6 +20,20 @@
       <pubDate>Tue, 17 Mar 2026 04:30:50 GMT</pubDate>
     </item>
     <item>
+      <title>DLSS 5</title>
+      <link>https://www.producthunt.com/products/nvidia</link>
+      <description><![CDATA[
+            实时计算机图形学的 GPT 时刻
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nvidia</guid>
+      <pubDate>Tue, 17 Mar 2026 02:09:57 GMT</pubDate>
+    </item>
+    <item>
       <title>文件夹式</title>
       <link>https://www.producthunt.com/products/folderly</link>
       <description><![CDATA[
@@ -32,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/folderly</guid>
       <pubDate>Mon, 16 Mar 2026 17:54:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>代理讨论</title>
+      <link>https://www.producthunt.com/products/agentdiscuss</link>
+      <description><![CDATA[
+            AI 代理的产品搜寻——代理讨论产品
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/agentdiscuss</guid>
+      <pubDate>Mon, 16 Mar 2026 16:45:59 GMT</pubDate>
     </item>
     <item>
       <title>我的电脑（Manus AI）</title>
@@ -76,18 +104,18 @@
       <pubDate>Mon, 16 Mar 2026 09:54:12 GMT</pubDate>
     </item>
     <item>
-      <title>德拉帕多</title>
-      <link>https://www.producthunt.com/products/dropadoo-send-files-via-drop-macos</link>
+      <title>我学会了</title>
+      <link>https://www.producthunt.com/products/discli</link>
       <description><![CDATA[
-            通过拖放将文件发送到预定义的电子邮件
+            适用于 AI 代理和人类的 Discord CLI
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dropadoo-send-files-via-drop-macos</guid>
-      <pubDate>Mon, 16 Mar 2026 07:28:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/discli</guid>
+      <pubDate>Mon, 16 Mar 2026 03:54:52 GMT</pubDate>
     </item>
     <item>
       <title>眼镜猴</title>
@@ -104,18 +132,18 @@
       <pubDate>Sun, 15 Mar 2026 14:36:17 GMT</pubDate>
     </item>
     <item>
-      <title>西德尔</title>
-      <link>https://www.producthunt.com/products/xeder</link>
+      <title>阿让</title>
+      <link>https://www.producthunt.com/products/agen</link>
       <description><![CDATA[
-            您的 X.com feed 作为播客
+            完全自主的人工智能编码代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/xeder</guid>
-      <pubDate>Sat, 14 Mar 2026 17:52:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agen</guid>
+      <pubDate>Sat, 14 Mar 2026 19:28:40 GMT</pubDate>
     </item>
     <item>
       <title>点击说</title>
@@ -132,20 +160,6 @@
       <pubDate>Sat, 14 Mar 2026 16:58:09 GMT</pubDate>
     </item>
     <item>
-      <title>同意卫士</title>
-      <link>https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer</link>
-      <description><![CDATA[
-            在您点击“我同意”之前，人工智能会阅读细则
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/agreeguard-ai-terms-privacy-analyzer</guid>
-      <pubDate>Fri, 13 Mar 2026 02:04:33 GMT</pubDate>
-    </item>
-    <item>
       <title>佳士招聘</title>
       <link>https://www.producthunt.com/products/hirehunch</link>
       <description><![CDATA[
@@ -158,20 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/hirehunch</guid>
       <pubDate>Wed, 11 Mar 2026 12:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>德克斯代码</title>
-      <link>https://www.producthunt.com/products/dexcode</link>
-      <description><![CDATA[
-            您的人工智能代理构建甲板并且您永远不会离开终端
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dexcode</guid>
-      <pubDate>Tue, 10 Mar 2026 16:54:26 GMT</pubDate>
     </item>
     <item>
       <title>基拉4.0</title>
@@ -188,7 +188,7 @@
       <pubDate>Fri, 06 Mar 2026 17:50:54 GMT</pubDate>
     </item>
     <item>
-      <title>避雷针：训练数据生成器</title>
+      <title>避雷针</title>
       <link>https://www.producthunt.com/products/training-data-generator</link>
       <description><![CDATA[
             快速将现实世界数据转化为训练数据集
