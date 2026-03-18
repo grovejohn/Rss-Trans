@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 18 Mar 2026 04:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 06:47:53 GMT</lastBuildDate>
+    <item>
+      <title>如何避免通过文件上传遭到黑客攻击</title>
+      <link>https://www.reddit.com/r/programming/comments/1rwv84w/how_to_not_get_hacked_through_file_uploads/</link>
+      <description><![CDATA[ 由   提交/u/Missics  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rwv84w/how_to_not_get_hacked_through_file_uploads/</guid>
+      <pubDate>Wed, 18 Mar 2026 05:29:24 GMT</pubDate>
+    </item>
     <item>
       <title>我在 DockerQuest 项目中面临的挑战：用于练习真实调试场景的交互式 CLI 模拟器。</title>
       <link>https://www.reddit.com/r/programming/comments/1rwu3x5/challenges_i_faced_during_my_dockerquest_project/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rwhf6h/efficient_sparse_computations_using_linear/</guid>
       <pubDate>Tue, 17 Mar 2026 19:54:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建一个外壳</title>
-      <link>https://www.reddit.com/r/programming/comments/1rwhey4/building_a_shell/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rwhey4/building_a_shell/</guid>
-      <pubDate>Tue, 17 Mar 2026 19:54:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
