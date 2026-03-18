@@ -4,13 +4,34 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 18 Mar 2026 12:40:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 16:00:07 GMT</lastBuildDate>
     <item>
-      <title>哪些 Windows 11 软件具有此图标？抱歉质量不好</title>
-      <link>https://www.reddit.com/r/software/comments/1rx1s33/what_windows_11_software_features_this_icon_sorry/</link>
-      <description><![CDATA[ 由   提交/u/Elettro80  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rx1s33/what_windows_11_software_features_this_icon_sorry/</guid>
-      <pubDate>Wed, 18 Mar 2026 11:53:05 GMT</pubDate>
+      <title>[星期三自我促销]TuringShot v1.4.4 — 免费 macOS 屏幕缩放 + 用于录音和演示的新放大镜</title>
+      <link>https://www.reddit.com/r/software/comments/1rx6qr2/selfpromo_wednesday_turingshot_v144_free_macos/</link>
+      <description><![CDATA[嘿r/software，星期三快乐。 我在线教授编程已有大约 10 年了，我的整个工作流程都是围绕 Mac 上的屏幕录制进行的。最大的痛苦始终是放大和注释 - macOS 内置缩放功能不会在录制中显示，而 ScreenStudio 或 FocuSee 等工具会在每次点击时自动缩放，当您尝试在屏幕上绘图时，这会让一切变得混乱。 所以我最终构建了 TuringShot。它是一个 macOS 覆盖层，可为您提供实时屏幕缩放（Ctrl+A + 滚动）、光标周围的焦点突出显示、屏幕绘图（Ctrl+X + 拖动）和浮动文本备注（Ctrl+Q）。一切都在操作系统级别进行渲染，因此您在屏幕上看到的任何内容都将准确记录在 OBS、Zoom、QuickTime 或您使用的任何设备中。  https://preview.redd.it/caicuvormtpg1.png?width=1440&amp;format=png&amp;auto=webp&amp;s=fd522d2f95984220337139c12d78a3e9b2112fd9 v1.4.4 中的新增功能 - 放大镜 刚刚发布了放大镜功能。它不是缩放整个屏幕，而是仅创建光标周围区域的圆形放大视图。当您需要显示小文本或 UI 细节而不丢失全屏上下文时，这非常方便。您可以调整镜头大小、强度，并且它具有漂亮的玻璃效果。 完整功能集：  屏幕缩放 - 平滑实时缩放，完全自由 焦点高亮 - 聚光灯围绕光标周围，背景变暗 放大镜镜头 - 新！用于细节工作的圆形放大镜 实时绘图 - 屏幕上手绘、线条、矩形、圆圈 文本备注 - 将格式化文本拖放到屏幕上的任何位置  所有这些都显示在任何屏幕记录器中，因为它是在操作系统级别呈现的。 No plugins, no post-editing. Pricing: The zoom feature is completely free.完全解锁费用为 2.99 美元/年，或终生 9.99 美元。 我有一个优惠代码，有效期至 3 月底 - TURINGSHOT66 即可以 0.99 美元/年的价格获得全部功能。 App Store | 网站 很高兴回答有关应用程序或录制工作流程的任何问题。   由   提交 /u/PushPlus9069   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rx6qr2/selfpromo_wednesday_turingshot_v144_free_macos/</guid>
+      <pubDate>Wed, 18 Mar 2026 15:19:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Windows 的最佳文件重命名软件（快速批量重命名图像）</title>
+      <link>https://www.reddit.com/r/software/comments/1rx621e/best_file_renaming_software_for_windows_fast_bulk/</link>
+      <description><![CDATA[I need a program for Windows that will quickly rename files, specifically choosing which ones to change.我希望能够查看图片文件并按顺序更改它们的名称，并且只需点击尽可能少的次数即可完成。我有一本书的一堆页面，它们的命名方式打乱了顺序。我可以通过查看图像上的页码来按顺序排列它们，但是单独重命名每个图像非常重复。有没有人有任何建议可以让这个过程变得更快更简单？   由   提交/u/PotentialChef6198  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rx621e/best_file_renaming_software_for_windows_fast_bulk/</guid>
+      <pubDate>Wed, 18 Mar 2026 14:53:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越比较/正则表达式：如何将特定差异标记为不重要</title>
+      <link>https://www.reddit.com/r/software/comments/1rx5ur8/beyond_compareregex_how_to_mark_a_specific_diff/</link>
+      <description><![CDATA[我正在查看一组相当大的代码更改的差异。许多更改都是​​相同的：将“memcpy”替换为“memcpy”。使用“memmove”，或类似的改变。 I remember I once knew how to instruct Beyond Compare to treat that specific change as unimportant - if I can do that, I can focus on the other changes.但我不记得语法了。 谁能帮我弄清楚我需要在 Beyond Compare 的文件格式 -&gt; 语法部分输入什么内容？提前致谢。    由   提交/u/J-Goo  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rx5ur8/beyond_compareregex_how_to_mark_a_specific_diff/</guid>
+      <pubDate>Wed, 18 Mar 2026 14:45:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我讨厌在工作/公共计算机上登录我的帐户......所以我正在构建这个。你会用它吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1rx5bc1/i_hate_logging_into_my_accounts_on_workpublic/</link>
+      <description><![CDATA[不确定这是否会惹恼其他人，但我讨厌在工作笔记本电脑或公共计算机上登录我的个人资料。 比如……您发现一篇有用的文章、一个链接，或者记住稍后需要执行的任务 - 但是：  您不想登录 Gmail 您不想打开想法 你不信任该设备 或者它太麻烦了  所以有一半的时间我要么忘记它......要么以最随机的方式将它发送给自己。 这让我考虑为这个确切的问题构建一个非常简单的工具： 👉你打开它，输入你的电子邮件，获得一次性代码（OTP），然后你就进入了 - 没有密码，没有完全注册。 在里面你可以：  🔖 保存链接（自动组织到类别中） 📝 编写富文本注释 ✅ 创建带有截止日期的任务+子任务  目标是：在任何设备上快速、简约且安全地使用 - 尤其是您不信任的设备。 没有完整帐户，没有“永远保持登录状态”，没有摩擦。 我正在尝试验证这是否真的有用，或者只是我会使用的东西。 老实说：  你会使用这个吗？ 仅 OTP 登录听起来聪明还是烦人？ 是什么让这成为必备的而不是“meh”？ 你有这样的东西吗？已经使用了吗？  也请随意讨论这个想法 - 我宁愿现在就知道，而不是在构建它之后知道 😅   由   提交 /u/Ok_Yellow_3139   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rx5bc1/i_hate_logging_into_my_accounts_on_workpublic/</guid>
+      <pubDate>Wed, 18 Mar 2026 14:24:29 GMT</pubDate>
     </item>
     <item>
       <title>我们花了几个月的时间来构建我们的应用程序。被 Microsoft Store 拒绝，因为我们的图标太大了 1 像素。</title>
@@ -62,13 +83,6 @@
       <pubDate>Wed, 18 Mar 2026 09:31:51 GMT</pubDate>
     </item>
     <item>
-      <title>KORSiOS Tweaks - 我为 Windows 11 创建了 Tweaks 应用程序软件</title>
-      <link>https://www.reddit.com/r/software/comments/1rwy7xs/korsios_tweaks_i_created_a_tweaks_application/</link>
-      <description><![CDATA[🚀 KORSiOS Tweaks – 收回对 Windows 11 的控制（不破坏它） 嘿 👋 我一直在构建一个名为 KORSiOS Tweaks 的项目 💡 它是什么？ KORSiOS Tweaks 是 Windows 11优化和控制工具，旨在让您完全控制系统 - 没有典型的 debloat 脚本的风险。 它不仅仅是一个调整包。 它更像是 Windows 自定义、性能和系统行为的中央控制面板。 ⚙️ 功能 🧩 调整引擎  基于注册表的调整 (.reg) PowerShell 调整 (.ps1) 分类调整（性能、隐私、UI、系统...） 应用任何内容之前清晰说明 影响/风险/重启指示器 无强制调整  🚀 启动管理器  在一个位置查看所有启动应用 轻松启用/禁用启动条目 帮助减少启动时间 干净简单的界面（没有Windows混乱）  👉非常适合删除隐藏的启动垃圾 🖥️系统信息面板  实时系统概述 硬件和硬件操作系统信息 快速访问基本系统数据  👉 对于调试、优化和一般控制很有用 💾快照/备份系统  应用调整前自动备份 每次调整恢复系统状态 安全实验  👉 这与大多数调整工具有很大区别 🔄内置更新程序  使工具保持最新 无需手动下载新版本  🎯干净的UI / UX  结构化布局 轻松导航 没有臃肿的菜单 设计得即使对于非专家  🧠哲学 这不是： ❌“一键消除一切”脚本 ❌有风险的系统修改器 ❌黑盒工具 这是： ✔️ 透明 ✔️ 模块化 ✔️ 安全 ✔️ 用户控制 每个调整都是：  解释 可选 可逆  🆚 为什么不直接使用 debloat 脚本？ 大多数工具：  盲目应用数十个调整 不要解释它们的作用 可以破坏Windows 更新或功能  KORSiOS 调整重点在于： 👉 应用前了解 👉 控制而不是自动化 👉 安全第一 所有信息都可以在我的 Github 页面上找到，以及版本下载： 👉 GitHub：https://github.com/KORSiRO/KORSiOS-Tweaks 请随时给我您的反馈！ 感谢您的阅读:)   由   提交/u/KORSiRO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rwy7xs/korsios_tweaks_i_created_a_tweaks_application/</guid>
-      <pubDate>Wed, 18 Mar 2026 08:31:59 GMT</pubDate>
-    </item>
-    <item>
       <title>最后一个非常好的侧边栏笔记扩展</title>
       <link>https://www.reddit.com/r/software/comments/1rwy5m7/finally_a_really_good_notetaking_extension_for/</link>
       <description><![CDATA[嘿伙计们！ 你知道当你在做研究并且不断地切换窗口只是为了记下三件事时有多累吗？它完全打乱了你的阅读流程。 我遇到了这个名为 Notyqo 的新小工具，老实说，它确实可以完成工作。这是一个功能齐全的笔记本，隐藏在浏览器的侧面板中。 最好的部分：您在网站上，突出显示一些文本，单击鼠标右键，然后弹出 - 它甚至无需打开面板即可直接进入您的笔记。它超级无缝。 此外，它看起来非常干净。它有实际的编辑选项（图像、列表、视频）和一些非常漂亮的深色主题。重要提示：默认情况下，所有内容都存储在您的计算机本地。 无论如何，如果您正在寻找快速且功能强大的“便签本”就在您的指尖，值得一试。 你们目前使用什么作为“快速笔记”？在线？ Notyqo.com   由   提交 /u/ProfessionalThen8331   [链接] [评论]]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Gloomy_Cold_7088   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1rwwevw/research_on_bentley_softwraes/</guid>
       <pubDate>Wed, 18 Mar 2026 06:38:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么许多软件项目在写出第一行代码之前就失败了</title>
-      <link>https://www.reddit.com/r/software/comments/1rwv94d/why_many_software_projects_fail_before_the_first/</link>
-      <description><![CDATA[ 由   提交 /u/Cold_Break2425   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rwv94d/why_many_software_projects_fail_before_the_first/</guid>
-      <pubDate>Wed, 18 Mar 2026 05:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以给我推荐一些老派/机器人声音的 tts 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1rwu5fl/can_someone_recommend_me_some_old_schoolrobotic/</link>
-      <description><![CDATA[我只是想找到一些更酷的 tts，我可能可以将其用作我的 ocs 的语音声明   由   提交/u/fandno16283  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rwu5fl/can_someone_recommend_me_some_old_schoolrobotic/</guid>
-      <pubDate>Wed, 18 Mar 2026 04:32:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

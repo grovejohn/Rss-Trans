@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 18 Mar 2026 12:40:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 16:01:07 GMT</lastBuildDate>
+    <item>
+      <title>爪测云</title>
+      <link>https://www.producthunt.com/products/clawmetry</link>
+      <description><![CDATA[
+            从任何地方监控您的 OpenClaw 代理。端到端加密。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clawmetry</guid>
+      <pubDate>Wed, 18 Mar 2026 01:09:03 GMT</pubDate>
+    </item>
     <item>
       <title>知识</title>
       <link>https://www.producthunt.com/products/lore-4</link>
@@ -76,34 +90,6 @@
       <pubDate>Tue, 17 Mar 2026 07:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>游标谈话</title>
-      <link>https://www.producthunt.com/products/cursortalk-for-macos</link>
-      <description><![CDATA[
-            适用于所有 Mac 应用的快速本地听写
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cursortalk-for-macos</guid>
-      <pubDate>Tue, 17 Mar 2026 06:58:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Grok 的文本转语音 API</title>
-      <link>https://www.producthunt.com/products/grok-s-text-to-speech-api</link>
-      <description><![CDATA[
-            Grok 的文本转语音 API 现已推出。 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/grok-s-text-to-speech-api</guid>
-      <pubDate>Mon, 16 Mar 2026 21:14:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Permit.io MCP 网关</title>
       <link>https://www.producthunt.com/products/permit-io</link>
       <description><![CDATA[
@@ -116,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/permit-io</guid>
       <pubDate>Mon, 16 Mar 2026 18:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Mac 的神奇 MCP</title>
+      <link>https://www.producthunt.com/products/fantastical</link>
+      <description><![CDATA[
+            直接与 Claude 管理您的日程安排
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/fantastical</guid>
+      <pubDate>Mon, 16 Mar 2026 14:19:30 GMT</pubDate>
     </item>
     <item>
       <title>度量映射</title>
@@ -146,6 +146,20 @@
       <pubDate>Wed, 11 Mar 2026 14:27:42 GMT</pubDate>
     </item>
     <item>
+      <title>多卡平</title>
+      <link>https://www.producthunt.com/products/doccupine</link>
+      <description><![CDATA[
+            开源 AI 就绪文档平台。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/doccupine</guid>
+      <pubDate>Tue, 10 Mar 2026 21:13:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Databox 精灵</title>
       <link>https://www.producthunt.com/products/databox</link>
       <description><![CDATA[
@@ -174,32 +188,18 @@
       <pubDate>Wed, 04 Mar 2026 19:10:42 GMT</pubDate>
     </item>
     <item>
-      <title>列表</title>
-      <link>https://www.producthunt.com/products/lista-4</link>
+      <title>适用于 macOS 的 Forvibe</title>
+      <link>https://www.producthunt.com/products/forvibe</link>
       <description><![CDATA[
-            带有 GTD 工作流程 + iCloud 同步的简单待办事项列表
+            您的构建和 App Store 之间的一切
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/lista-4</guid>
-      <pubDate>Sun, 22 Feb 2026 16:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>灵魂2.0</title>
-      <link>https://www.producthunt.com/products/soul-2-0</link>
-      <description><![CDATA[
-            无需摄制组即可拍摄时尚级人工智能照片
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/soul-2-0</guid>
-      <pubDate>Sat, 21 Feb 2026 16:44:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/forvibe</guid>
+      <pubDate>Sun, 22 Feb 2026 19:09:20 GMT</pubDate>
     </item>
     <item>
       <title>开放观察</title>
