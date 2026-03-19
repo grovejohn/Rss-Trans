@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 19 Mar 2026 15:42:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:41:44 GMT</lastBuildDate>
+    <item>
+      <title>[操作方法] Spring Boot 3 + ECS Fargate + Amazon Managed Grafana - 2026</title>
+      <link>https://www.reddit.com/r/programming/comments/1ry86py/howto_spring_boot_3_ecs_fargate_amazon_managed/</link>
+      <description><![CDATA[ 由   提交/u/aarkay89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ry86py/howto_spring_boot_3_ecs_fargate_amazon_managed/</guid>
+      <pubDate>Thu, 19 Mar 2026 18:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>检测软件系统中的缺陷</title>
+      <link>https://www.reddit.com/r/programming/comments/1ry7x5c/detecting_defects_in_software_systems/</link>
+      <description><![CDATA[ 由   提交 /u/Fuckyescamels   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ry7x5c/detecting_defects_in_software_systems/</guid>
+      <pubDate>Thu, 19 Mar 2026 18:09:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>当您向 LLM 发送提示时，从击键到流令牌，我跟踪了堆栈的每一层</title>
+      <link>https://www.reddit.com/r/programming/comments/1ry6vf6/i_traced_every_layer_of_the_stack_when_you_send_a/</link>
+      <description><![CDATA[正文： 当我开始认真对待 AI 时，我遇到了令人沮丧的墙：大多数 LLM 内容要么停留在“变形金刚是魔法”，要么停留在“变形金刚是魔法”上。水平，或者让你陷入论文中，而没有将概念与生产系统的实际行为联系起来。我是一名软件工程师，我通过端到端跟踪系统来学习，就像绘制分布式架构或通过堆栈跟踪请求的方式一样。 LLM 不存在这种心理模型。 所以我写了它。 存储库试图回答的问题：当您在 Claude 或 ChatGPT 中输入消息并按发送键时，堆栈的每一层会发生什么？ 受到经典 what-happens-when 用于浏览器导航的存储库。相同的格式、相同的深度，适用于 LLM 聊天。 该文档涵盖了生产订单的整个过程：  客户端：通过 WASM 标记器进行实时标记计数、IME 组合事件、乐观的 UI 渲染 网络：为什么 SSE 在聊天方面胜过 WebSockets、流媒体中的 UTF-8 边界问题 API 网关：Edge TLS终止、多维速率限制（RPM vs ITPM vs OTPM） 安全分类器：模型之前和之后运行的内容，为什么提示注入在结构上尚未解决 上下文组装：实际进入上下文窗口的内容（不仅仅是您的消息） 标记化：为什么模型无法计算字母、为什么前导空格很重要、特殊标记如何使用预算 KV 缓存和前缀缓存：GQA 与 MHA 内存数学、PagedAttention、缓存命中率作为成本杠杆 预填充与解码：为什么它们的瓶颈不同（计算与内存带宽） 采样管道：按顺序排列的完整 logit 管道 - 重复惩罚、温度、top-k、top-p、softmax、样本 流式传输：TTFT 分解、SSE 事件解析、增量 Markdown 渲染 工具使用和代理循环：并行工具调用、工具结果中的提示注入重铺 计费和可观察性：TTFT 与 TPOT、缓存定价数学、要检测的内容  我分享它是为了帮助其他工程师制作相同的过渡。它的目标读者是那些已经知道 Transformer 是什么的人 - 不是介绍，而是关于一切如何组合在一起的生产系统镜头。 CC0，非常欢迎贡献。底部有一个未覆盖的子系统列表（推测解码、多模式、多代理协调等）。   由   提交 /u/puffaush   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ry6vf6/i_traced_every_layer_of_the_stack_when_you_send_a/</guid>
+      <pubDate>Thu, 19 Mar 2026 17:31:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>链表和二叉搜索树的简要介绍</title>
+      <link>https://www.reddit.com/r/programming/comments/1ry4zv0/a_brisk_introduction_to_linked_lists_and_binary/</link>
+      <description><![CDATA[ 由   提交/u/bowbahdoe  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ry4zv0/a_brisk_introduction_to_linked_lists_and_binary/</guid>
+      <pubDate>Thu, 19 Mar 2026 16:23:26 GMT</pubDate>
+    </item>
     <item>
       <title>运营分散</title>
       <link>https://www.reddit.com/r/programming/comments/1ry2kva/operations_are_fragmented/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[我最近花了一个下午的时间了解到 JavaScript 对“日期”有一个非常慷慨的定义。 new Date(“2020-01-23”) // Wed Jan 22 2020 19:00:00 GMT-0500  有道理。 ISO 格式，UTC 午夜，因此在西半球显示为 1 月 22 日。 new Date(&quot;Today is 2020-01-23&quot;) // Thu Jan 23 2020 00:00:00 GMT-0500  好的，它从句子中提取了日期，这在某些情况下可能会有所帮助。有趣的是，时间发生了变化，这有点奇怪。 new Date(&quot;Route 66&quot;) // Sat Jan 01 1966 00:00:00 GMT-0500  它认为“Route 66”是指的是1966年吗？这绝对是一个延伸。 new Date(&quot;Beverly Hills, 90210&quot;) // Mon Jan 01 90210 00:00:00 GMT-0500  90,210 年？你在开玩笑吗？！ 事实证明，最流行的 JavaScript 引擎都有遗留的解析器，它们真的非常想帮助您解析日期。 我们的应用程序中有一个错误，地址和公司名称显示为日期。原因是我们使用 Date 构造函数作为后备解析器来捕获意外的格式。修复很简单，但是当我们第一次看到它时，这个错误让我们笑了。我们学会了不要将 Date 构造函数视为验证器。 解释解析逻辑的完整博客文章：https://futuresearch.ai/blog/javascript-thinks-everythings-a-date/   由   提交/u/robertgambee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rx4lb3/javascripts_date_parser_is_out_of_control_and/</guid>
       <pubDate>Wed, 18 Mar 2026 13:56:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>调试器的工作原理 • Sy 品牌</title>
-      <link>https://www.reddit.com/r/programming/comments/1rx3fc7/how_debuggers_work_sy_brand/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rx3fc7/how_debuggers_work_sy_brand/</guid>
-      <pubDate>Wed, 18 Mar 2026 13:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>忘记标志和脚本：只需重命名文件</title>
-      <link>https://www.reddit.com/r/programming/comments/1rx24k0/forget_flags_and_scripts_just_rename_the_file/</link>
-      <description><![CDATA[ 由   提交 /u/Insert_Bitcoin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rx24k0/forget_flags_and_scripts_just_rename_the_file/</guid>
-      <pubDate>Wed, 18 Mar 2026 12:09:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 RDS 到 Data Lake：在不损失查询能力的情况下归档海量 MySQL 表</title>
-      <link>https://www.reddit.com/r/programming/comments/1rwy12a/from_rds_to_data_lake_archiving_massive_mysql/</link>
-      <description><![CDATA[ 由   提交 /u/fR0DDY   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rwy12a/from_rds_to_data_lake_archiving_massive_mysql/</guid>
-      <pubDate>Wed, 18 Mar 2026 08:19:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何避免通过文件上传遭到黑客攻击</title>
-      <link>https://www.reddit.com/r/programming/comments/1rwv84w/how_to_not_get_hacked_through_file_uploads/</link>
-      <description><![CDATA[ 由   提交/u/Missics  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rwv84w/how_to_not_get_hacked_through_file_uploads/</guid>
-      <pubDate>Wed, 18 Mar 2026 05:29:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
