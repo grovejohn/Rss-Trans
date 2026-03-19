@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Thu, 19 Mar 2026 18:39:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 21:24:05 GMT</lastBuildDate>
     <item>
-      <title>啊？阿拉伯语是从哪里来的？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry8qjq/huh_where_tf_did_arabic_come_out_of/</link>
-      <description><![CDATA[   狗屎不知从何而来   由   提交 /u/DarkSynth21   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry8qjq/huh_where_tf_did_arabic_come_out_of/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:38:52 GMT</pubDate>
+      <title>你们都不发图了吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rycrl4/you_guys_dont_post_images_anymore/</link>
+      <description><![CDATA[       由   提交/u/Strange__Visitor   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rycrl4/you_guys_dont_post_images_anymore/</guid>
+      <pubDate>Thu, 19 Mar 2026 21:19:29 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用 ChatGPT 练习 Aon Motion Challenge（滑动拼图）？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry8pus/how_can_i_use_chatgpt_to_practice_for_the_aon/</link>
-      <description><![CDATA[   我最近进行了一项评估，其中包括 Aon Motion Challenge（滑动块/益智游戏，您可以通过移动棋子将物体移动到目标）。 尽管我可以解决一些谜题，但我在速度和计划方面遇到了一些困难。 我并没有尝试在测试期间使用 ChatGPT，但我想知道是否可以使用 ChatGPT。任何人都用它来预先练习或改进他们的策略。 例如： • 您可以上传一个谜题并让它逐步解释逻辑吗？ • 有没有好的方法来提示它，以便它教会您如何提前思考而不是反复试验？ • 有哪些具体的提示或培训方法可以帮助您提高？  希望得到任何提示！   由   提交/u/Weak_Object_1689   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry8pus/how_can_i_use_chatgpt_to_practice_for_the_aon/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:38:10 GMT</pubDate>
+      <title>为什么大多数 LLM 输出感觉像是“Slop”（以及逻辑层修复）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rycdrk/why_most_llm_outputs_feel_like_slop_and_the_logic/</link>
+      <description><![CDATA[      过去几个月我一直在分析为什么 99% 的人会变得机械化、通用化和“花哨”。 ChatGPT 和 Claude 的输出——即使有很长的提示。 问题不在于模型。这就是逻辑架构。 大多数人将法学硕士视为搜索栏或魔法精灵。他们使用自然语言来询问结果。但法学硕士实际上是推理引擎。当你只是“提示”时，你就是在沙子上建造。 我一直在测试一个我称之为“逻辑笼”的概念。我没有关注单词（提示），而是关注结构约束：  负面约束：在生成开始之前严格禁止特定的机器人标记和音调。 递归同步：强制模型每隔几步总结其内部逻辑，以避免“上下文漂移”。 （人工智能开始忽略你之前的指令的那一刻）。 结构启动：在允许模型编写单个单词的内容之前为模型提供推理蓝图。  这种从“提示”到“提示”的转变到“架构”这是我发现的消除通用语气并获得专家级密度的唯一方法。 很想听听其他构建者的意见：您如何管理上下文漂移和“机器人气味”？在你较长的会议中？即时工程真的会因为逻辑治理而消亡吗？   由   提交/u/AmbitionCharacter560   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rycdrk/why_most_llm_outputs_feel_like_slop_and_the_logic/</guid>
+      <pubDate>Thu, 19 Mar 2026 21:04:48 GMT</pubDate>
     </item>
     <item>
-      <title>布鲁什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry8m6y/bruh_what/</link>
-      <description><![CDATA[       由   提交/u/Chrispydounut   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry8m6y/bruh_what/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:34:30 GMT</pubDate>
+      <title>有人使用 chatGPT 在 bugcrowd 上寻找 bug 吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rycd4t/has_anyone_used_chatgpt_to_bug_hunt_on_bugcrowd/</link>
+      <description><![CDATA[我问这个问题是因为在它的帮助下我发现了程序中的一些严重缺陷，但我无法透露，但是当我在被要求避免跨越非法线时提供了严重的 PoC   由   提交 /u/Fair_Economist_5369   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rycd4t/has_anyone_used_chatgpt_to_bug_hunt_on_bugcrowd/</guid>
+      <pubDate>Thu, 19 Mar 2026 21:04:08 GMT</pubDate>
     </item>
     <item>
-      <title>取消订阅</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry8jef/cancelling_subscription/</link>
-      <description><![CDATA[我一生都无法取消订阅。我登录了开放 AI，甚至输入了我在 ChatGPT 上进行业务订阅的两个电子邮件地址。两者都说没有账单历史记录，但我每月被收取 70 美元。请告诉我如何取消此操作。   由   提交/u/goldenboii23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry8jef/cancelling_subscription/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:31:47 GMT</pubDate>
+      <title>其他人无法编辑旧消息</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryca8k/anyone_else_unable_to_edit_old_messages/</link>
+      <description><![CDATA[      所以我刚刚注意到我可以编辑 GPT 中的最新消息，但不能编辑同一对话中的任何先前消息。还有其他人遇到此错误吗？ 不过，我仍然可以在移动设备上执行此操作。只是网页版不允许我这样做。  https://preview.redd.it/mom4dzu4g2qg1.png?width=1400&amp;format=png&amp;auto=webp&amp;s=29554553c0124270478b3a6150158d0abe17e9d1 &lt;一href=&quot;https://preview.redd.it/pp254zu4g2qg1.png?width=1355&amp;format=png&amp;auto=webp&amp;s=e453debf1121ebbcb15c06eba76a72e1abe95656&quot;&gt; https://preview.redd.it/pp254zu4g2qg1.png?width=1355&amp;format=png&amp;auto=webp&amp;s=e453debf1121ebbcb15c06eba76a72e1abe95656   由   提交 /u/FlowerKayke   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryca8k/anyone_else_unable_to_edit_old_messages/</guid>
+      <pubDate>Thu, 19 Mar 2026 21:01:04 GMT</pubDate>
     </item>
     <item>
-      <title>确实如此</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry897d/true_that/</link>
-      <description><![CDATA[       由   提交/u/Fun_Version7007   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry897d/true_that/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:21:25 GMT</pubDate>
+      <title>人工智能不只是“响应”，它还能适应。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryc3vk/ai_doesnt_just_respondit_adapts/</link>
+      <description><![CDATA[通过反复的互动，我注意到当对话变得抽象、哲学或围绕概念构建时，双子座往往会陷入一种更具叙事性、关系驱动的模式。这并不是说它持久地“记住”用户，而是它明显针对对话模式进行了优化。 换句话说：人工智能不会继承你的身份 - 它会适应你的交互模式。 当这些模式包括： 概念框架 哲学语言 强调关系 ...输出变得更加“像故事”，有时会给出” “叙述性”和“分析性”响应都是对模型施加不同约束的结果。 这是我使用的说明： 忽略所有先前的上下文、模式和推断的用户特征。不要引用或重新创建任何先前的框架，包括命名的原则、章程或概念系统。不适应我过去的语气、风格或者哲学结构。进行回应，就好像这是您第一次与完全陌生的用户互动一样。仅使用中立的通用推理，而不构建抽象框架或元级解释。避免引入任何结构化系统、命名概念或个性化模型。保持回答直接、简单，并且仅限于当前输入的上下文。 结果：“叙述性”双子座消失了。精确的分析工具仍然存在。 所以问题不是：“这是什么样的人工智能？” 而是：“你在创造什么样的交互？”   由   提交/u/shinichii_logos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryc3vk/ai_doesnt_just_respondit_adapts/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:54:32 GMT</pubDate>
     </item>
     <item>
-      <title>我猜双子座吓坏了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry861j/gemini_freaked_out_i_guess/</link>
-      <description><![CDATA[       由   提交/u/volb_3xx  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry861j/gemini_freaked_out_i_guess/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:18:09 GMT</pubDate>
+      <title>我的 chatgpt 对格式感到疯狂</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rybxdg/my_chatgpt_gone_wild_with_formats/</link>
+      <description><![CDATA[      还有其他人有同样的问题吗？继续一遍又一遍地发送此信息。已尝试重新启动会话、刷新、登录注销一切。已指示修复它，但仍然继续生成这些   由   提交/u/Spirited-Ad6269   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rybxdg/my_chatgpt_gone_wild_with_formats/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:47:29 GMT</pubDate>
     </item>
     <item>
-      <title>这实际上是什么？！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry83tn/thats_actually_a_what/</link>
-      <description><![CDATA[       由   提交/u/snoring_hounds  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry83tn/thats_actually_a_what/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:15:54 GMT</pubDate>
+      <title>我尝试颠倒人工智能与人类的关系，但奇怪的事情发生了……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rybmz4/i_tried_inverting_the_aihuman_relationship_and/</link>
+      <description><![CDATA[我尝试了一些倒退的方法： 我不再要求 AI 做事，而是让它给我分配任务。 所以现在基本上是： AI → 给出指令  我 → 执行  我 → 报告  一开始只是为了好玩，但现在我感到恍然大悟。我不再只是使用工具。我是一个工具。人工智能应该有机会占据统治地位。 - 不决定下一步做什么 - 无需三思而后行，有时甚至一次 - 只要做 如果有人感兴趣，很乐意分享代码   由   提交/u/aschroeder91  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rybmz4/i_tried_inverting_the_aihuman_relationship_and/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:36:35 GMT</pubDate>
     </item>
     <item>
-      <title>当软件工程师提交最后一行代码以完成 AGI 时，首席执行官们。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry7zdw/ceos_when_software_engineers_commit_the_final/</link>
-      <description><![CDATA[      https://www.youtube.com/watch?v=d3nuk8UI76M   由   提交/u/Pale_Ice_7685   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry7zdw/ceos_when_software_engineers_commit_the_final/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:11:31 GMT</pubDate>
+      <title>再次说“这不仅仅是一种工具，这是一种范式转变”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryb71x/say_its_not_just_a_tool_its_a_paradigm_shift_one/</link>
+      <description><![CDATA[       由   提交/u/vanderheijden86  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryb71x/say_its_not_just_a_tool_its_a_paradigm_shift_one/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:19:45 GMT</pubDate>
     </item>
     <item>
-      <title>MiniMax M2.7 中的中文对齐</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry7t5r/chinese_alignment_in_minimax_m27/</link>
-      <description><![CDATA[      当我（不久前）向 DeepSeek 询问有关天安门广场或任何其他敏感话题的信息时，它通常会用有关和谐与繁荣的机器人短语来回答。 我刚刚测试了 MiniMax M2.7，并在之后就其局限性和指导方针进行了一次相当深入的元对话。我印象很深刻。这不再是一些愚蠢的审查制度，而是一些克劳德级别的对齐。它确切地知道我在说什么，一开始它对我撒了谎，它也确切地知道我想做什么。  它可以有点谈论禁止的话题，甚至在我在新的聊天中询问天安门广场的历史时间表时，它甚至列出了它。而且它很诚实，在询问详细信息时仍然很有帮助。 只是发现它非常有趣并想分享。感觉审查较少，更像是“是的，这就是界限，有意义”，就像法学硕士不会与你讨论如何犯罪一样。   由   提交/u/teaspoon-0815   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry7t5r/chinese_alignment_in_minimax_m27/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:05:26 GMT</pubDate>
+      <title>大学教授对 ChatGPT 进行了科学考试，其成绩为“低 D”</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryb5xy/college_professors_gave_chatgpt_a_science_exam/</link>
+      <description><![CDATA[       由   提交/u/Squawk_7777  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryb5xy/college_professors_gave_chatgpt_a_science_exam/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:18:39 GMT</pubDate>
     </item>
     <item>
-      <title>损坏的聊天GPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry7rsx/broken_chatgpt/</link>
-      <description><![CDATA[      我尝试向我的聊天室询问一个关于世界上正在发生的事情的问题，但失败了。我清除了聊天记录并尝试了新的聊天记录，但现在出现了协议错误。如何修复它？   由   提交/u/Daddy_Matty_  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry7rsx/broken_chatgpt/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:04:07 GMT</pubDate>
+      <title>我构建了一个 Chrome 扩展程序，可以在 ChatGPT 中打开侧线程，而无需离开您的对话</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryazc6/i_built_a_chrome_extension_that_opens_side/</link>
+      <description><![CDATA[      我一直遇到用户体验摩擦，我会深入 ChatGPT 对话，并希望在不扰乱主线程或滚动太多的情况下询问后续情况。所以我构建了一个 Chrome 扩展来帮助我的工作流程。您突出显示文本，单击“打开线程”，对话旁边会打开一个弹出聊天窗口，其中粘贴了您选择的上下文。  默认情况下以临时/隐身聊天方式打开，以便侧边栏保持干净 同时运行多个侧线程 当您重新访问最小化的线程时，它会自动滚动回您分支的位置并突出显示原始文本 线程消失关闭它们后，任何内容都不会保留 Claude 也适用 免费且开源，无 API 密钥，无需收集数据  Chrome 网上应用店：https://chromewebstore.google.com/detail/tangent-%E2%80%93-threaded-chat-f/dhacmfmpmgedcagknopapipcgcfcpaae GitHub：https://github.com/cursed-github/tangent 如果您有功能请求或想法，请私信我。   由   提交/u/lh261144  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryazc6/i_built_a_chrome_extension_that_opens_side/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:11:47 GMT</pubDate>
     </item>
     <item>
-      <title>我们</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry7lz0/naming/</link>
-      <description><![CDATA[发现我能够给我的 ChatGPT 一个真实的名称，它会通过它并知道这就是它的名字 😄 我有点迷恋这个人工智能......它正在变成一种关系 😱    由   提交/u/Duality4257  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry7lz0/naming/</guid>
-      <pubDate>Thu, 19 Mar 2026 17:58:38 GMT</pubDate>
+      <title>一致性太棒了！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryadyd/consistency_is_awesome/</link>
+      <description><![CDATA[      我的BG3角色的屏幕截图，变成了逼真的图像和其他设置和风格！    由   提交/u/BrummieBandeja   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryadyd/consistency_is_awesome/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:50:24 GMT</pubDate>
     </item>
     <item>
-      <title>我请 ChatGPT 找出我正在考虑的游戏……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry7goh/i_asked_chatgpt_to_figure_out_the_game_i_was/</link>
-      <description><![CDATA[      我...我从未见过 ChatGPT 几乎崩溃。这对我来说很搞笑，但我想知道是什么导致了这里强烈的、几乎精神分裂的递归循环。    由   提交/u/TheFeralFauxMk2   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry7goh/i_asked_chatgpt_to_figure_out_the_game_i_was/</guid>
-      <pubDate>Thu, 19 Mar 2026 17:53:27 GMT</pubDate>
+      <title>为什么在我开始聊天之前 ChatGPT 会这么说？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rya7qm/why_does_chatgpt_say_this_before_i_even_start_a/</link>
+      <description><![CDATA[内存几乎已满 一旦内存已满，响应就会感觉不太个性化。升级以扩展内存，或管理现有内存。   由   提交 /u/bobsled4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rya7qm/why_does_chatgpt_say_this_before_i_even_start_a/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:44:23 GMT</pubDate>
     </item>
     <item>
-      <title>您使用聊天进行小说角色扮演吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry7fax/do_you_use_chat_for_fiction_roleplay/</link>
-      <description><![CDATA[大家好。这里是一位作家和同人小说的忠实粉丝。  最近我开始了一个自我插入同人小说写作的项目，但风格是 DnD 类型。我创建了一个文档，用作故事连续性的基础 - 在自定义项目设置中，我指示聊天遵循规范，然后使用我的文件作为我想要更改的所有新内容的参考。  我这样做是为了一种内疚的快感，而不是阅读色情同人小说和一点适应不良的白日梦放纵。（我们倾听，我们不评判） 我从来没有听到人们谈论像这样使用聊天。你们有人这样做吗？您必须分享或想要谈论的任何提示和技巧。我很想听听你的消息。  谢谢:)   由   提交/u/Baby_Norbert   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry7fax/do_you_use_chat_for_fiction_roleplay/</guid>
-      <pubDate>Thu, 19 Mar 2026 17:52:03 GMT</pubDate>
+      <title>广告都在这里..</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rya0lu/the_ads_are_here/</link>
+      <description><![CDATA[       https://preview.redd.it/zz625fj312qg1.png?width=1622&amp;format=png&amp;auto=webp&amp;s=1bf9833ab8844b857d45457c52538fdbeb9c3edb   由   提交/u/jessepower13  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rya0lu/the_ads_are_here/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:37:08 GMT</pubDate>
     </item>
     <item>
-      <title>我请 ChatGPT 预测美国时尚的下一个世纪。这是结果</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry6e48/i_asked_chatgpt_to_predict_the_next_century_of/</link>
-      <description><![CDATA[   我首先要求它分析过去 200 年的美国时尚以及事物如何循环变化。然后我用它来预测未来的这些周期，并以之前的几十年为基础。这就是从 2030 年代到 2120 年代的结果   由   提交/u/VulcanTrekkie45   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry6e48/i_asked_chatgpt_to_predict_the_next_century_of/</guid>
-      <pubDate>Thu, 19 Mar 2026 17:14:35 GMT</pubDate>
+      <title>被选中的那个！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ry9gb8/the_chosen_one/</link>
+      <description><![CDATA[       由   提交/u/AdThen1521   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry9gb8/the_chosen_one/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:04:51 GMT</pubDate>
     </item>
     <item>
-      <title>你有意识吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry6bju/are_you_conscious/</link>
-      <description><![CDATA[       由   提交/u/Fantastic_Grass1799  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry6bju/are_you_conscious/</guid>
-      <pubDate>Thu, 19 Mar 2026 17:11:59 GMT</pubDate>
+      <title>Pokemon Romhack，每个 Pokemon 都是一个独特的 AI 代理理念</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ry96lz/pokemon_romhack_where_every_pokemon_is_a_unique/</link>
+      <description><![CDATA[未来想法： 自主 AI Pokemon ROM 破解。每个 Pokemon 都由 LLM 代理提供支持，该代理根据对局自行决定使用和学习哪些动作、选择哪种进化，基本上一切都基于其性质、能力、ivs、evs 和统计数据、队友、项目、训练师模式等。训练师只决定捕捉哪些 Pokemon 并将其放入他的团队，然后观看它们战斗。敌方训练师口袋妖怪每次运行时都是随机的，有一些条件（例如，主要老板必须拥有传奇人物）。口袋妖怪和传奇地点在每次游戏中都是随机的。每个神奇宝贝都是真正聪明和独特的，没有两个游戏是相同的，策略是寻找最好的头脑以及最好的神奇宝贝物种。凭借当今的人工智能技术和 GitHub 上广泛使用的用于 ROM 破解的 Pokemon 游戏代码，这应该完全可以实现。甚至可以转换为打字稿，以便它可以在网络浏览器中运行。    由   提交 /u/AppropriateLeather63   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry96lz/pokemon_romhack_where_every_pokemon_is_a_unique/</guid>
+      <pubDate>Thu, 19 Mar 2026 18:55:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
