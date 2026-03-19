@@ -4,13 +4,20 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Thu, 19 Mar 2026 04:48:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 06:41:57 GMT</lastBuildDate>
     <item>
-      <title>我要求 Frontier AI 模型解决一个简单的编程问题。他们都失败了。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rxq6m3/i_asked_frontier_ai_models_to_solve_a_simple/</link>
-      <description><![CDATA[ 由   提交 /u/pelicanthief   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rxq6m3/i_asked_frontier_ai_models_to_solve_a_simple/</guid>
-      <pubDate>Thu, 19 Mar 2026 03:58:27 GMT</pubDate>
+      <title>最佳人工智能星球大战粉丝电影 - 迪士尼有麻烦了！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rxt1m9/the_best_ai_star_wars_fan_film_disney_is_in/</link>
+      <description><![CDATA[ 由   提交/u/Putrid_Draft378  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rxt1m9/the_best_ai_star_wars_fan_film_disney_is_in/</guid>
+      <pubDate>Thu, 19 Mar 2026 06:36:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 3/18/2026</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rxr6gx/oneminute_daily_ai_news_3182026/</link>
+      <description><![CDATA[ Meta 遇到了流氓 AI 代理的麻烦。[1] 生成式 AI 改进了能够穿透障碍物的无线视觉系统。[2] AI 公司希望获得即兴演员的技能，以训练 AI 识别人类情感。[3] Unsloth AI 发布 Unsloth Studio：本地无代码界面用于高性能 LLM 微调，VRAM 使用量减少 70%。[4]  来源包含在：https://bushaicave.com/2026/03/18/one-million-daily-ai-news-3-18-2026/   由   提交 /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rxr6gx/oneminute_daily_ai_news_3182026/</guid>
+      <pubDate>Thu, 19 Mar 2026 04:49:38 GMT</pubDate>
     </item>
     <item>
       <title>新的开源版本</title>
@@ -20,7 +27,7 @@
       <pubDate>Thu, 19 Mar 2026 03:05:35 GMT</pubDate>
     </item>
     <item>
-      <title>尝试了 MiniMax M2.7 在实际任务中的令人印象深刻的性能</title>
+      <title>尝试过 MiniMax M2.7 在实际任务中的出色性能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rxnk70/tried_minimax_m27_impressive_performance_on/</link>
       <description><![CDATA[我最近阅读了 MiniMax M2.7 的基准测试，并且很想亲自尝试一下。老实说，我的本地机器无法处理部署如此繁重的东西，所以我通过 ZenMux 来感受一下。 即使只是通过这个，很明显该模型在复杂的任务处理中表现出色，从编码工作流程和错误跟踪到多步骤办公文档编辑。技能坚持和现实世界推理似乎确实可靠。 在页面上看到数字是一回事，与它交互并注意它如何管理跨不同领域的多步骤推理是另一回事。绝对让我对这些以代理为中心的模型的功能有了新的认识。   由   提交/u/Ok-Thanks2963   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rxnk70/tried_minimax_m27_impressive_performance_on/</guid>
@@ -39,6 +46,13 @@
       <description><![CDATA[ 如果您跨多个平台工作... 您如何管理它？ 手动完成所有操作？ 使用某种系统？ 或者部分自动化？ 感觉事情很快就会变得混乱。   由   提交/u/FineCranberry304  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rxh8le/how_are_you_handling_multisocial_media_platform/</guid>
       <pubDate>Wed, 18 Mar 2026 21:40:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我买了 200 美元的 Claude Code，所以你不必这么做！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rxgy6u/i_bought_200_claude_code_so_you_dont_have_to/</link>
+      <description><![CDATA[我开源了我构建的内容： 免费工具：https://grape-root.vercel.app Github 存储库：https://github.com/kunal12203/Codex-CLI-Compact 加入 Discord（调试/反馈） 过去几个月我一直在大量使用 Claude Code，并且一直比预期更快地达到使用限制。 起初我想：“好吧，也许我的提示是太大” 但后来我开始深入研究令牌的使用。 我注意到的 即使是简单的问题，例如：“为什么身份验证流程取决于此文件？” Claude 会：  grep 跨存储库 打开多个文件 遵循依赖关系 接下来再次重新读取相同的文件转  单个流程花费~20k–30k 代币。 最糟糕的部分：每次后续操作 → 它都会再次执行相同的操作。 我尝试使用 claude.md 花了一整天的调整说明来修复它。 它有帮助......但是：  仍然重新读取很多 不可跨项目重用 切换存储库时重置  所以它没有解决根本问题。 实际问题： 大多数令牌使用都不是推理。这是上下文重建。Claude 每次都会重新发现相同的代码。 因此我构建了一个免费使用的 MCP 工具 GrapeRoot 基本上是您的存储库和 Claude 之间的一层。 它不是让 Claude 每次都进行探索，而是：  构建代码图表（函数、导入、关系） 跟踪已读取的内容 仅将相关文件预加载到提示中 避免再次重新读取相同的内容  结果（我的基准） 比较：  正常的 Claude 基于 MCP/工具的图表（我的早期版本） 预注入上下文（当前）  我所看到的：  平均便宜约 45% 在复杂任务上减少高达 80-85% 的代币 更少的回合（更少的来回搜索） 对更困难的问题有更好的答案  有趣部分 我期望节省成本。 但是，从正确的上下文开始实际上可以提高答案质量。 更少的搜索→更多的推理。 很好奇其他人是否也看到了这一点：  比预期更快地达到限制？ 会话感觉像是在不断重新启动？ 对重复的回购扫描感到恼火？  很想听听其他人是如何处理这个问题的。   由   提交/u/intellinker  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rxgy6u/i_bought_200_claude_code_so_you_dont_have_to/</guid>
+      <pubDate>Wed, 18 Mar 2026 21:28:54 GMT</pubDate>
     </item>
     <item>
       <title>新闻文章：公司表示“开放”人工智能模型的风险是值得的</title>
@@ -76,13 +90,6 @@
       <pubDate>Wed, 18 Mar 2026 16:52:46 GMT</pubDate>
     </item>
     <item>
-      <title>为什么自动驾驶人工智能如此困难</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rx8mfi/why_selfdriving_ai_is_so_hard/</link>
-      <description><![CDATA[大多数人工智能系统在一切正常时都不会失败；他们在罕见的、不可预测的情况下失败。 在我最近的播客谈话中，有一个想法一直困扰着我：为现实世界构建人工智能并不是让模型变得更智能，而是让系统在出现问题时变得可靠。 有趣的是，大量的工程工作都花在处理边缘情况上，这些情况很少发生，但当它们发生时却是最重要的。它完全改变了你对人工智能的看法。这不仅仅是一个模型问题；这是一个系统问题。 好奇这里的其他人如何看待这个问题： 我们是否过于关注模型性能而对现实世界的可靠性关注不够？   由   提交 /u/vitlyoshin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rx8mfi/why_selfdriving_ai_is_so_hard/</guid>
-      <pubDate>Wed, 18 Mar 2026 16:28:47 GMT</pubDate>
-    </item>
-    <item>
       <title>这是假数据吗？我找不到源研究</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rx0enx/is_this_fake_data_i_cant_find_the_source_study/</link>
       <description><![CDATA[而且，在你跳出来说“你研究过人工智能吗？”之前……是的，我确实研究过。而且还是手动的。因此，在发布来源之前，请检查该图表或图表中的数据是否存在于研究论文中。    由   提交/u/jmlusiardo   [链接] [评论]]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[民主化争论不断出现。人工智能降低了门槛，更多的人可以做更多的事情。 这在入门级可能是正确的，但我一直在思考进一步发展过程中会发生什么。  拥有强大工具的强大操作员不仅能改进，还能实现复合。训练有素的用户和普通用户之间的差距并没有缩小。它会加速。 工具不是变量。操作员是。 很好奇这里的人们是否也有同样的看法，或者认为随着时间的推移，拉平效应是真实的。您的经历是什么样的？   由   提交 /u/dsolo01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rws7j4/ai_doesnt_close_the_skill_gap_it_widens_it/</guid>
       <pubDate>Wed, 18 Mar 2026 02:59:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nvidia 的 AI 驱动的真实感游戏技术被批评为“AI Slop”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rwexsz/nvidias_aipowered_photorealistic_gaming/</link>
-      <description><![CDATA[ 由   提交/u/forbes  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rwexsz/nvidias_aipowered_photorealistic_gaming/</guid>
-      <pubDate>Tue, 17 Mar 2026 18:29:08 GMT</pubDate>
     </item>
     <item>
       <title>我们听到了您的声音 - r/ArtificialInteligence 变得更加敏锐</title>

@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 19 Mar 2026 01:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 06:43:21 GMT</lastBuildDate>
+    <item>
+      <title>通过 Base44 创建网站帮助🙏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rxo01e/creating_website_through_base44_help/</link>
+      <description><![CDATA[我正在通过 Base 44 为一家企业创建一个网站。他们已经有了一个网站，但我们希望替换该网站，但保留相同的域名。我如何通过 Base 44 将当前域链接到我的 Base 44 网站？我已经研究过 Base 如何为此设置帮助页面，但我正在寻找超级清晰的答案。   由   提交 /u/Danordavy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rxo01e/creating_website_through_base44_help/</guid>
+      <pubDate>Thu, 19 Mar 2026 02:15:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该为我的简历创建什么项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rxmml6/what_project_should_i_create_for_my_resume/</link>
+      <description><![CDATA[我已经掌握了 HTML、CSS、JavaScript、React JS 和 Tailwind CSS 的知识。我应该创建什么项目才能使我的简历脱颖而出并给招聘人员留下深刻印象？我应该从某处复制项目吗？   由   提交 /u/Available-Army2602   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rxmml6/what_project_should_i_create_for_my_resume/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:15:44 GMT</pubDate>
+    </item>
     <item>
       <title>即将进行React技术面试，复习React知识视频教程推荐</title>
       <link>https://www.reddit.com/r/webdev/comments/1rxm1gf/upcoming_react_technical_interview_video_tutorial/</link>
@@ -53,20 +67,6 @@
       <description><![CDATA[假设您正在构建一个网站，并且待办事项中有大量任务。当你的工作日结束时，你仍然想工作，只是不想处理积压的任何事情，例如“人工智能聊天”。对于单独分支上的网站。这对于网站来说可能是一个真正有用的功能，但团队没有计划也没有优先考虑它。 您会为其注册工作时间吗？你会注册一些吗？ （“折扣”费率哈哈）如果最终被使用，也许可以追溯注册？ 即使不影响正常工作时间，这样做会被视为不尊重或扰乱吗？如果不是我们程序员获得大量的时间和资源来获得“学习机会” （例如 Google 的 20% 规则）以及我们所做的工作，答案显然是否定的。但是，通过从事这样的副业项目，你会学到很多东西，而且可以说会降低倦怠的风险。   由   提交/u/Beatsu  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1rxhjic/do_you_register_work_hours_for_unnecessary_work/</guid>
       <pubDate>Wed, 18 Mar 2026 21:51:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>1,000 美元现金 + 25,000 美元积分，用于 OT/关键基础设施氛围编码黑客马拉松</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rxgsso/1000_cash_25k_in_credits_for_an_ot_critical/</link>
-      <description><![CDATA[https://riticasset.com/vibe-event-3 如果您一直在寻找停止玩弄玩具 AI 演示并实际构建有用的东西的理由，那就是它。 我们正在举办一场黑客马拉松，重点关注使用 Vibe 编码、聊天机器人和用简单的英语提示构建用于 OT、关键基础设施、HVAC、控制、电力、工业系统和事件响应的工具。 这不是一个“去构建另一个虚假的启动登陆页面”活动。 这是为那些想要快速学习、构建真实的东西并参与竞争的人而设计的。 为什么加入： • 1,000 美元现金奖励• 25,000 美元以上的免费平台积分•现实世界的问题集 • 事后可以实际使用的人工智能工具的实践练习 • 有机会围绕基础设施、网络、运营和响应进行构建，而不是通用的 SaaS 垃圾  您不需要成为精英程序员。如果您可以思考问题并描述应该发生的情况，则可以采用这种格式进行构建。 如果您感兴趣： • 振动编码• OT / ICS / 网络• HVAC / 控制/设施• 工业或建筑系统• 事件响应• 制作有用的工具而不是更多的AI slop  然后注册。 在这里抢占席位： https://riticasset.com/vibe-event-3 带上朋友，带上队友，或者只是出现并构建。 不要想太多。只需加入、构建，然后看看您能做出什么。   由   提交 /u/m3rl0t   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rxgsso/1000_cash_25k_in_credits_for_an_ot_critical/</guid>
-      <pubDate>Wed, 18 Mar 2026 21:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 brakit.ai - 查看针对每个操作分组在一起的每个查询和端点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rxgf0u/built_brakitai_see_every_query_and_endpoint/</link>
-      <description><![CDATA[      大家好， 我构建了一个名为 brakit.ai 的开发人员工具。我过去使用过 Laravel Telescope 并且很喜欢它，所以我想如果 Node.js 存在类似的东西，那将改变游戏规则。依靠 console.logs 并挖掘代码来了解端点、查询和外部调用如何连接变得越来越困难， 尤其是当人工智能生成代码的速度比我在脑海中映射它的速度更快时。因此，我构建了 Brakit，这是一个面向全栈应用程序的开源、本地优先的开发工具。 它挂钩到您的应用程序，并根据用户实际执行的操作对每个请求、查询和获取进行分组。只需单击一下，后面的所有内容都会嵌套并定时。 因为它可以同时看到所有端点，所以它可以捕获 诸如跨页面和 N+1 的重复查询之类的模式 否则我肯定会错过这些模式。 希望得到构建全栈应用程序的任何人的反馈。这是您日常实际使用的视图吗？ GitHub：https://github.com/brakit-ai/brakit 站点：https://www.brakit.ai   由   提交/u/ContributionFluid542   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rxgf0u/built_brakitai_see_every_query_and_endpoint/</guid>
-      <pubDate>Wed, 18 Mar 2026 21:08:50 GMT</pubDate>
     </item>
     <item>
       <title>wordpress_migrate 模块，用于将 WordPress 站点导入 Drupal（alpha 9 版本）</title>
