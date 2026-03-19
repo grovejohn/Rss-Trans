@@ -4,20 +4,34 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 19 Mar 2026 01:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 04:50:03 GMT</lastBuildDate>
     <item>
-      <title>弹跳连接</title>
-      <link>https://www.producthunt.com/products/bounce-connect</link>
+      <title>爪测云</title>
+      <link>https://www.producthunt.com/products/clawmetry</link>
       <description><![CDATA[
-            Mac + Android，完美同步
+            实时查看 OpenClaw 代理的成本、活动和内存
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/bounce-connect</guid>
-      <pubDate>Tue, 17 Mar 2026 18:53:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/clawmetry</guid>
+      <pubDate>Wed, 18 Mar 2026 01:09:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德·迪派奇</title>
+      <link>https://www.producthunt.com/products/claude</link>
+      <description><![CDATA[
+            使用“Dispatch”通过手机给克劳德发短信
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude</guid>
+      <pubDate>Wed, 18 Mar 2026 00:54:57 GMT</pubDate>
     </item>
     <item>
       <title>文章返回</title>
@@ -48,6 +62,20 @@
       <pubDate>Tue, 17 Mar 2026 17:11:25 GMT</pubDate>
     </item>
     <item>
+      <title>彗星企业版</title>
+      <link>https://www.producthunt.com/products/perplexity-ai</link>
+      <description><![CDATA[
+            Perplexity 专为企业团队打造的安全 AI 浏览器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/perplexity-ai</guid>
+      <pubDate>Tue, 17 Mar 2026 16:57:35 GMT</pubDate>
+    </item>
+    <item>
       <title>自动发送MCP</title>
       <link>https://www.producthunt.com/products/autosend-mcp</link>
       <description><![CDATA[
@@ -76,18 +104,18 @@
       <pubDate>Tue, 17 Mar 2026 06:58:51 GMT</pubDate>
     </item>
     <item>
-      <title>Grok 的文本转语音 API</title>
-      <link>https://www.producthunt.com/products/grok-s-text-to-speech-api</link>
+      <title>MS 自动字幕</title>
+      <link>https://www.producthunt.com/products/ms-auto-captions</link>
       <description><![CDATA[
-            Grok 的文本转语音 API 现已推出。 
+            利用 AI 自动生成视频热门字幕
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/grok-s-text-to-speech-api</guid>
-      <pubDate>Mon, 16 Mar 2026 21:14:22 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ms-auto-captions</guid>
+      <pubDate>Mon, 16 Mar 2026 21:22:00 GMT</pubDate>
     </item>
     <item>
       <title>Permit.io MCP 网关</title>
@@ -118,46 +146,18 @@
       <pubDate>Mon, 16 Mar 2026 15:36:48 GMT</pubDate>
     </item>
     <item>
-      <title>度量映射</title>
-      <link>https://www.producthunt.com/products/metricmap-analytics-for-saas-e-com</link>
+      <title>适用于 Mac 的神奇 MCP</title>
+      <link>https://www.producthunt.com/products/fantastical</link>
       <description><![CDATA[
-            在一个中心跟踪收入、广告、网络生命体征和用户洞察
+            直接与 Claude 管理您的日程安排
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/metricmap-analytics-for-saas-e-com</guid>
-      <pubDate>Mon, 16 Mar 2026 09:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Banyan AI Lite</title>
-      <link>https://www.producthunt.com/products/banyan-ai-lite</link>
-      <description><![CDATA[
-            AI 检测并防止 SaaS 流失
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/banyan-ai-lite</guid>
-      <pubDate>Wed, 11 Mar 2026 14:27:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>多卡平</title>
-      <link>https://www.producthunt.com/products/doccupine</link>
-      <description><![CDATA[
-            开源 AI 就绪文档平台。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/doccupine</guid>
-      <pubDate>Tue, 10 Mar 2026 21:13:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/fantastical</guid>
+      <pubDate>Mon, 16 Mar 2026 14:19:30 GMT</pubDate>
     </item>
     <item>
       <title>Databox 精灵</title>
