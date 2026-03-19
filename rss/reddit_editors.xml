@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Thu, 19 Mar 2026 09:33:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 12:34:10 GMT</lastBuildDate>
+    <item>
+      <title>我找到了在线运行 CorridorKey 的方法！我的 GPU 还能再活一天！</title>
+      <link>https://www.reddit.com/r/editors/comments/1rxwxoy/i_found_a_way_to_run_corridorkey_online_my_gpu/</link>
+      <description><![CDATA[你们见过 CorridorKey 了吗？ Corridor Crew 推出了一款开源人工智能键控器，可以彻底摧毁绿屏。就像过去需要很长时间才能清理的东西（头发、运动模糊、半透明边缘）一样，这个东西就能解决。 https://www.youtube.com/watch?v=3Ploi723hg4  唯一的问题是自己运行它需要完整的设置和在压力下不会哭泣的 GPU。我的就是这样。 所以我发现 corridorkey.app 它基本上可以让你通过云使用它。上传您的剪辑，它会进行处理，您下载遮罩和合成。 如果您的设备可以处理，则免费 DIY 链接：https://github.com/nikopueringer/CorridorKey GUI：https://github.com/edenaion/EZ-CorridorKey   由   提交 /u/Amazing-Vermicelli59   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1rxwxoy/i_found_a_way_to_run_corridorkey_online_my_gpu/</guid>
+      <pubDate>Thu, 19 Mar 2026 10:37:31 GMT</pubDate>
+    </item>
     <item>
       <title>音轨工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1rxe6eg/audio_tracks_workflow/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>尝试新工具：CleanAudio Pro、Instant Studio Sound & Filler Word Removal</title>
       <link>https://www.reddit.com/r/editors/comments/1rx69lq/try_out_new_tool_cleanaudio_pro_instant_studio/</link>
-      <description><![CDATA[大家好， 像你们中的许多人一样，我一直在努力处理听起来像是在瓷砖浴室或通过笔记本电脑麦克风录制的来宾音频，背景是嗡嗡作响的风扇。 我一直在开发一款名为 AudioClean Pro 的 macOS 应用程序，它可以处理繁重的工作：  去混响：消除“宽敞”的混响效果。  填充字删除：自动删除ums和uhs。 工作室声音：重建声音，使其听起来像专业的 XLR 麦克风。  我正在寻找一些“真实世界”的声音。压力测试。如果您的剪辑听起来有点粗糙，我很乐意您尝试一下。 优惠：我已经设置好，这样您就可以使用 Apple ID 登录并立即获得10 分钟的免费处理时间来测试您自己的文件 - 无需信用卡或承诺。 链接： https://audiocleanpro-product.up.railway.app/ 我专门寻找有关“自然度”的反馈删除填充词。是不是砍太多了？节奏仍然像你一样吗？ 如果你尝试一下，或者如果你遇到一个特定的音频问题，我应该将其添加到路线图中，请发表评论！ 干杯！   由   提交/u/Amit31456  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 像你们中的许多人一样，我一直在努力处理听起来像是在瓷砖浴室或通过笔记本电脑麦克风录制的来宾音频，背景是嗡嗡作响的风扇。 我一直在开发一款名为 AudioClean Pro 的 macOS 应用程序，它可以处理繁重的工作：  去混响：消除“宽敞”的混响效果。  填充字删除：自动删除ums和uhs。 工作室声音：重建声音，使其听起来像专业的 XLR 麦克风。  我正在寻找一些“真实世界”的声音。压力测试。如果您的剪辑听起来有点粗糙，我很乐意您尝试一下。 优惠：我已经设置好，这样您就可以使用 Apple ID 登录并立即获得10 分钟的免费处理时间来测试您自己的文件 - 无需信用卡或承诺。 链接： https://audiocleanpro-product.up.railway.app/ 我专门寻找有关“自然度”的反馈填充词删除。是不是砍太多了？节奏仍然像你一样吗？ 如果你尝试一下，或者如果你遇到一个特定的音频问题，我应该将其添加到路线图中，请发表评论！ 干杯！   由   提交/u/Amit31456  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1rx69lq/try_out_new_tool_cleanaudio_pro_instant_studio/</guid>
       <pubDate>Wed, 18 Mar 2026 15:01:08 GMT</pubDate>
     </item>
@@ -74,13 +81,6 @@
       <description><![CDATA[嘿伙计们， 我目前正在开展一个项目，其中有大量未经处理的混合媒体，主要是 MP4 和各种其他格式，我将自己处理一致性和在线。 我正在使用 Qt Change 在所有内容中添加卷轴名称，但我一直在考虑在元数据准备方面更进一步。 我一直在想关于是否值得根据文件创建日期分配时间码。主要是为了避免所有事情都发生在 00:00:00:00 并至少有某种可用的参考点。我的直觉是，即使是这样的粗糙层也可以帮助减少重新链接或整合期间的不匹配和变量，特别是当存在重叠名称或混乱批次时。很好奇是否有人看到这种方法的缺点。 然后，我们的想法是将所有内容纳入 Resolve 中，然后创建代理。 添加创建日期时间码作为安全网是否值得，还是最终会产生比解决的问题更多的问题？ 谢谢！   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1rx2ry2/workflow_advice_media_without_proper_metadata/</guid>
       <pubDate>Wed, 18 Mar 2026 12:40:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>[招聘] 房地产内容自由视频编辑 — 35-55 美元/小时 — 每月工作稳定</title>
-      <link>https://www.reddit.com/r/editors/comments/1rwwqai/hiring_freelance_video_editor_for_real_estate/</link>
-      <description><![CDATA[我是洛杉矶的一名摄像师/编辑，每月都会源源不断地制作房地产列表视频和短片。 工作内容： - 房地产列表视频（约 2 分钟，次日送达） - 社交媒体短片（60-90 秒，次日送达） - 干净、专业的风格 - 没有疯狂的创意，只是扎实和一致 - 每月保证大约 7-14 个项目 - 每小时费率：35-55 美元/小时，具体取决于项目类型 - 首选 DaVinci Resolve 如果您正在建立客户群并希望保证每月的工作而不是追逐演出，那么这是一个很好的机会。 DM 给我一个简短的介绍和作品集链接。   由   提交 /u/Pristine_Wishbone_11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1rwwqai/hiring_freelance_video_editor_for_real_estate/</guid>
-      <pubDate>Wed, 18 Mar 2026 06:57:39 GMT</pubDate>
     </item>
     <item>
       <title>狂热； 4K 到 1080p 到 4K？</title>
