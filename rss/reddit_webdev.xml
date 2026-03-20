@@ -4,13 +4,48 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 20 Mar 2026 01:03:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 04:32:55 GMT</lastBuildDate>
     <item>
-      <title>设计工具不是问题。找到好的灵感就是。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ryi4k3/design_tools_arent_the_problem_finding_good/</link>
-      <description><![CDATA[      大多数设计师都在工具之间切换。 Framer。 Adobe XD。 Photoshop。 随机 UI 套件。 打开 10 个选项卡。 并且仍在思考......“我实际上应该设计什么？” 这才是真正的问题。 工具不是瓶颈。 灵感才是。 这就是我构建 InspoAI — 设计灵感搜索引擎的原因。 您可以： • 立即搜索真实的 UI 和网站 • 快速找到相关灵感 • 将所有内容保存到干净的情绪板中 • 停止猜测并开始构建，而无需花费数小时浏览 Pinterest 或 Dribbble  没有虚假的人工智能图像。只是您可以实际使用的真实设计。 目标很简单：减少搜索时间。更多时间进行设计。 好奇 — 现在是什么让您更慢？工具还是找到好主意？   由   提交/u/Successful_Draw4218  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ryi4k3/design_tools_arent_the_problem_finding_good/</guid>
-      <pubDate>Fri, 20 Mar 2026 00:55:39 GMT</pubDate>
+      <title>尝试创建我的第一个全栈网页但失败了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rymhix/tried_to_create_my_first_fullstack_webpage_but/</link>
+      <description><![CDATA[当我设计这个网页时，我想创造一些新的东西，并试图不接受任何人工智能代理的帮助，但我对我的设计结果并不好感到非常失望。有关如何使此 UI 变得更好的任何建议，或者我可以从中了解 UI/UX 的任何资源。 我使用的技术堆栈 - 用于前端的 React 和 TailwindCSS Springboot 用于后端。   由   提交/u/Priyansh_sinQ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rymhix/tried_to_create_my_first_fullstack_webpage_but/</guid>
+      <pubDate>Fri, 20 Mar 2026 04:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个“开发者仪表板”作为我的 Chrome 新选项卡来管理 GitHub、Jira、日志等。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rym47j/i_made_a_developer_dashboard_as_my_chrome_new_tab/</link>
+      <description><![CDATA[       由   提交/u/Additional_One_3908   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rym47j/i_made_a_developer_dashboard_as_my_chrome_new_tab/</guid>
+      <pubDate>Fri, 20 Mar 2026 03:59:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>KEYFONT — 我创建的完全客户端字体转换器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ryljin/keyfont_fully_client_sided_font_converter_that_i/</link>
+      <description><![CDATA[查看 KeyFont！它可以在您的浏览器上转换和预览字体。 .ttf、.otf、.woff、.woff2、.cff、.pfa、.pfb – 支持所有这些格式。    由   提交/u/Decent-Blacksmith761   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ryljin/keyfont_fully_client_sided_font_converter_that_i/</guid>
+      <pubDate>Fri, 20 Mar 2026 03:30:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>难道vibe编码只是一种高级编程语言吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rykh3g/isnt_vibe_coding_just_a_higher_level_programming/</link>
+      <description><![CDATA[纵观编程语言的演变，从机器语言到汇编语言，再到 C、C++、Java 和 Python，这些“高级”语言中的每一个都依赖于编程语言的发展。语言隐藏了更多底层技术细节，变得更接近人类语言。所以我认为vibe编码只是另一种甚至更高级的语言，也许是最终的一代，而LLM只是一个奇特的编译器。对吗？   由   提交 /u/mikeVVcm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rykh3g/isnt_vibe_coding_just_a_higher_level_programming/</guid>
+      <pubDate>Fri, 20 Mar 2026 02:40:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法接收来自真实用户的 Instagram 消息 webhook，只能看到消息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ryispa/cant_receive_instagram_message_webhooks_from_real/</link>
+      <description><![CDATA[我正在使用官方 Meta Instagram API 和较新的 Instagram 登录流程为 Instagram 专业帐户构建应用程序，并且我正在尝试接收真正的入站 DM webhook。 问题是真正的 DM 不会生成入站消息 webhook。我收到的唯一真正的 Webhook 事件是已查看/已读取类型的事件，通常是在打开或查看对话时。但是，当我在 Meta 仪表板中使用“测试/发送到服务器”功能时，Webhook 确实正确到达。 因此行为基本上是这样的：仪表板测试事件起作用并到达我的 Webhook，但真正的 Instagram DM 不会作为实际消息事件到达。打开或查看聊天确实会创建已读/已读 Webhook 事件。 我的设置是一个 Instagram 专业帐户，带有使用 Instagram 登录的官方 Meta 应用程序，而不是旧的 Facebook 页面登录流程。 Webhook验证有效，回调可通过ngrok到达，仪表板中订阅了与消息相关的webhook字段，包括messages、messaging_seen、messaging_postbacks和message_reactions。已为目标 Instagram 帐户启用帐户级 Webhook 订阅。存在 instagram_business_manage_messages 权限。测试人员和评估人员已被添加并接受。我使用多个帐户进行了测试，包括测试人员帐户，甚至是自我消息传递。我还重新生成了令牌并重新检查了所有配置和环境值。 日志中的一个重要细节是，实际活动当前生成仅包含读取类型数据的 Webhook 有效负载。这些真实的有效负载中没有实际的消息对象。相比之下，仪表板测试有效负载确实包含消息对象并正确到达服务器。 所以我试图了解这里到底出了什么问题。是否有任何已知原因导致真正的 DM 只生成已读/已读事件而不生成实际消息事件？除了 Instagram 登录流程的正常仪表板 Webhook 字段订阅之外，是否还需要一些额外的订阅、引导或帐户链接步骤？有没有人看到当前 Meta 设置中仪表板测试负载和实际 Instagram DM Webhook 负载之间的差异？这是否表明某些收件箱或请求状态行为，或者更可能是产品/帐户配置问题？ 我主要寻找通过当前官方元设置实际获得真正 Instagram DM 入站消息 webhooks 的任何人的输入，因为现在只有仪表板测试事件行为正确......   由   提交 /u/simplephoneuser   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ryispa/cant_receive_instagram_message_webhooks_from_real/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>告诉我你的 SaaS 想法，我给你一个诚实的评论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ryiqli/show_me_your_saas_idea_i_give_you_an_honest_review/</link>
+      <description><![CDATA[嗨！让我们谈谈您的商业想法！ 添加链接，我会审查您的 SaaS 我已经在 SaaS 行业工作了 5 年，启动了多个项目 那么，您在为创始人做什么！？ 大家好， 我在这里分享了我的产品：https://www.inspoai.io 非常感谢您的反馈和评论🙌 为设计师提供人工智能搜索支持的设计灵感工具   由   提交/u/Successful_Draw4218  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ryiqli/show_me_your_saas_idea_i_give_you_an_honest_review/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:22:54 GMT</pubDate>
     </item>
     <item>
       <title>对于一个简单的网站，您会保留普通 JS 还是将其与堆栈的其余部分保持一致？</title>
@@ -74,41 +109,6 @@
       <description><![CDATA[我有一个针对教师的教育 Web 应用程序。我有出色的 SEO 和灯塔表现。它已被谷歌索引。但我知道这不足以获得自然流量。如果您知道我的网站的名称，则只能在 Google 上搜索我的网站。  过去，我制作了另一个网络应用程序，我最好的运气是联系 tik tok 老师并付钱给他们制作一个视频来宣传我的网站，并根据它获得的点赞数来付钱给他们。但我一直没有运气找到愿意的抖音用户。 Facebook 广告在 200 美元后给了我零个用户。点击几下，但没有用户。  我真的不知道如何在老师面前表达。 Facebook 群组严格禁止拉客，我已经告诉过我知道的老师，但并没有真正推动他们真正发布相关信息。  我非常愿意接受这样的想法：这是一个不受欢迎且没有什么价值的应用程序，但我仍然觉得我无法将它呈现在老师面前。看到 20-40 个用户注册但没有人转化为订阅用户，我会感到更安心。然后我会很高兴知道我尝试过但人们只是不想要它。  我不知道这是否是发布此问题的正确社区。如果我付钱给营销公司（我不会），他们会做什么？你们中的任何人如何获得使用您的开发人员工具的不仅仅是其他开发人员的用户？   由   提交/u/Prudent-Training8535   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ry919r/how_do_i_get_my_web_app_visible/</guid>
       <pubDate>Thu, 19 Mar 2026 18:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>为浏览器制作操作系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ry8we9/made_os_for_the_browser/</link>
-      <description><![CDATA[      由   提交/u/y3v4d  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ry8we9/made_os_for_the_browser/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近还有其他人对 SMS API 感到沮丧吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ry67e8/anyone_else_frustrated_with_sms_apis_latel/</link>
-      <description><![CDATA[我们最近添加了短信通知，说实话，这比预期的更令人沮丧。并不是因为 API 这部分很简单。这就是其他一切： - 批准 - 过滤 - 不一致的交付 感觉 SMS 不再只是一个 API，它是您必须管理的整个系统。其他人如何处理这个问题？   由   提交/u/anuragray1011   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ry67e8/anyone_else_frustrated_with_sms_apis_latel/</guid>
-      <pubDate>Thu, 19 Mar 2026 17:07:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要指导和新的视角来了解初级经验丰富的开发人员今天应该学习什么来成长并获得良好的软件包</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ry4w6k/need_guidance_and_new_outlook_on_what_exactly/</link>
-      <description><![CDATA[我是一名前端开发人员，&lt;2 YOE（卡在 2.4 LPA），正在积极寻找 switch，但几乎有 0 个调用，我不知道我做错了什么 我擅长 NextJs 、 Remix.run 、 ReactJs 、 Redux 、 Tanstack 查询， Typescript、Tailwind CSS、shadCn 等 除此之外，我还对 Express、Node、MongoDB、Web 套接字等有很好的了解 我正在构建全栈项目，解决机器编码问题我还计划学习 docker 和 NestJs 我已经解决了 leetcode 上的一些简单的 DSA 问题（由于工作和其他开发工作而不一致） 我没有看到清晰的路径所以，是否有任何高级或中级前端开发人员（甚至全栈开发人员）可以就具体学习哪些技术提供建议？当今不断变化的市场需要哪些技能？或者可以就如何进步提供一般性建议。这将是很大的帮助 准备好做任何事情，只需要一个明确的方向 提前致谢   由   提交/u/notdev000  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ry4w6k/need_guidance_and_new_outlook_on_what_exactly/</guid>
-      <pubDate>Thu, 19 Mar 2026 16:19:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>八年来，我是房间里唯一关心无障碍的人。现在每个人都关心，因为这是法律。感觉很可怕...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ry4snb/i_spent_8_years_being_the_only_person_in_the_room/</link>
-      <description><![CDATA[      在看着我真正关心的东西感到如此空虚之后写下这篇文章，变成了一个可以勾选的框。 我的意思是，期望每个开发人员“亲自”关注可访问性。关心可访问性并不那么现实，甚至可能没有必要。  我注意到，真正效果更好的是将可访问性视为任何其他要求，而不是一些可选的道德附加内容 您认为“关心”是一种必要的行为吗？重要还是结构足够好？ 非常愿意听取开发人员对此的意见:)   由   提交 /u/choochilla44   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ry4snb/i_spent_8_years_being_the_only_person_in_the_room/</guid>
-      <pubDate>Thu, 19 Mar 2026 16:16:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我提示注入了我的 CONTRIBUTING.md – 50% 的 PR 是机器人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ry40vf/i_prompt_injected_my_contributingmd_50_of_prs_are/</link>
-      <description><![CDATA[       由   提交/u/punkpeye  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ry40vf/i_prompt_injected_my_contributingmd_50_of_prs_are/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:47:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

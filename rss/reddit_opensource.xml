@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Mar 2026 01:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 04:33:07 GMT</lastBuildDate>
     <item>
       <title>Sriracha 图片板和论坛服务器 (GNU LGPL)</title>
       <link>https://www.reddit.com/r/opensource/comments/1ry9kjd/sriracha_imageboard_and_forum_server_gnu_lgpl/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>对 citemap.json CC BY 4.0 项目的反馈和意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1rwkakd/feedback_and_input_on_the_citemapjson_cc_by_40/</link>
-      <description><![CDATA[我很乐意获得有关 citemap.json 开源项目的反馈和意见。  Citemap.json 是您在网站根目录发布的开放格式，例如 yoursite.com/citemap.json。它为人工智能系统提供了一个结构化的、权威的声明，说明你是谁、你做了什么、你希望因什么而被引用以及你不希望被引用什么。您可以像对待站点地图一样来思考它：站点地图让您被搜索引擎索引，引用地图让您被人工智能引用。 规范位于 citemaps.org。它是 CC BY 4.0，因此可以自由地实施、分叉、扩展、构建工具。 2.0 版涵盖了网络上每种主要实体类型的 21 个模块和 430 多个字段：企业、研究人员、医疗保健提供者、非营利组织、艺术家等。  V3 本周发布 引用合同 - 一种将静态身份文件转变为动态身份文件的结构化承诺。声明您的引用地图上次审核的时间、更新频率以及人工智能系统应联系谁进行更正。这是将 citemap.json 从快照移动到承诺的字段。 正式级别 - 根据字段存在计算的三层（★☆☆ / ★★☆ / ★★★），而不是自我声明。第一级是核心品牌标识。 2级增加了行业模块。 3 级需要经过验证的声明和有效的引用合同。分数是获得的，而不是断言的。 实体 ID — 所有 24 种嵌套对象类型上的稳定类型：slug 标识符（例如服务：plumbing、人员：jane-doe）。跨引用地图可交叉引用，跨文件更新稳定。我们认为该标准最终将实现互联身份图的基础。 模块元 — 每个模块的新鲜度信号。任何模块上的lastUpdated和updateFrequency，因此人工智能系统可以评估引用地图的哪些部分得到了积极维护，哪些部分自文件首次生成以来尚未被触及。 已验证的声明 - 15 种声明类型，包括 NPI、EIN、DUNS、条形码、DOI 和州许可证。机器可读的证据直接附在他们支持的主张上。这是将 citemap.json 从自我报告身份转向可验证信任的字段集。 欢迎反馈。谢谢！    由   提交 /u/citemap   [链接] [评论]]]></description>
+      <description><![CDATA[我很乐意获得有关 citemap.json 开源项目的反馈和意见。  Citemap.json 是您在网站根目录发布的开放格式，例如 yoursite.com/citemap.json。它为人工智能系统提供了一个结构化的、权威的声明，说明你是谁、你做了什么、你希望因什么而被引用以及你不希望被引用什么。您可以像对待站点地图一样来思考它：站点地图让您被搜索引擎索引，引用地图让您被人工智能引用。 规范位于 citemaps.org。它是 CC BY 4.0，因此可以自由地实施、分叉、扩展、构建工具。 2.0 版涵盖了网络上每种主要实体类型的 21 个模块和 430 多个字段：企业、研究人员、医疗保健提供者、非营利组织、艺术家等。  V3 本周发布 引用合同 - 一种将静态身份文件转变为动态身份文件的结构化承诺。声明您的引用地图上次审核的时间、更新频率以及人工智能系统应联系谁进行更正。这是将 citemap.json 从快照移动到承诺的字段。 正式级别 - 根据字段存在计算的三层（★☆☆ / ★★☆ / ★★★），而不是自我声明。第一级是核心品牌标识。 2级增加了行业模块。 3 级需要经过验证的声明和有效的引用合同。分数是获得的，而不是断言的。 实体 ID — 所有 24 种嵌套对象类型上的稳定类型：slug 标识符（例如服务：plumbing、人员：jane-doe）。跨引用地图可交叉引用，跨文件更新稳定。我们认为该标准最终将实现互联身份图的基础。 模块元 — 每个模块的新鲜度信号。任何模块上的 lastUpdated 和 updateFrequency，因此 AI 系统可以评估 citemap 的哪些部分得到了主动维护，哪些部分自文件首次生成以来尚未被触及。 已验证的声明 - 15 种声明类型，包括 NPI、EIN、DUNS、条形码、DOI 和州许可证。机器可读的证据直接附在他们支持的主张上。这是将 citemap.json 从自我报告身份转向可验证信任的字段集。 欢迎反馈。谢谢！    由   提交 /u/citemap   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rwkakd/feedback_and_input_on_the_citemapjson_cc_by_40/</guid>
       <pubDate>Tue, 17 Mar 2026 21:37:46 GMT</pubDate>
     </item>
@@ -71,7 +71,7 @@
     <item>
       <title>尝试使用版本控制来组织开放的 CAD 项目？</title>
       <link>https://www.reddit.com/r/opensource/comments/1rwb5m7/trying_to_organize_an_open_cad_project_with/</link>
-      <description><![CDATA[嘿伙计们，我正在设计一种主要是机械的设备，几乎没有电子设备，也没有软件组件。我希望它能够开放给其他人来分叉、打印或贡献，但看起来这可能非常困难。以下是我的选择：  Onshape：免费，具有内置版本控制，但是任何有权访问分支的人也可以访问合并，我认为这对于开源项目来说是不可接受的。可能需要有一个主持人来批准 PR。 任何 CAD 软件 + git：让贡献者可以选择使用任何 CAD 软件，但文件共享将采用愚蠢的 STEP/STL 文件的语言，因为专有零件格式（.ipt、.sldprt、.FcStd）与编程语言一样不同。 OpenSCAD + git：免费，并且可以非常轻松地与 git 集成， buuuuut 我从来没有遇到过使用它的人，所以这里的贡献也可能会存在很大的摩擦。  我是否缺少一个秘密的第四个选项可以解决我的问题，或者我是否必须妥协其中一个？   由   提交 /u/Reed_God   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们，我正在设计一种主要是机械的设备，几乎没有电子设备，也没有软件组件。我希望它能够开放给其他人来分叉、打印或贡献，但看起来这可能非常困难。以下是我的选择：  Onshape：免费，具有内置版本控制，但是任何有权访问分支的人也可以访问合并，我认为这对于开源项目来说是不可接受的。可能需要有一个主持人来批准 PR。 任何 CAD 软件 + git：让贡献者可以选择使用任何 CAD 软件，但文件共享将采用愚蠢的 STEP/STL 文件的语言，因为专有零件格式（.ipt、.sldprt、.FcStd）与编程语言一样不同。 OpenSCAD + git：免费，并且可以非常轻松地与 git 集成， buuuuut 我从来没有遇到过使用它的人，所以这里的贡献可能也会有很大的摩擦。  我是否缺少一个秘密的第四个选项可以解决我的问题，或者我是否必须妥协其中一个？ 编辑：我自己和另一个用户让 FreeCAD + git + zippey 以相当可读和简单的方式工作。再次强调，希望 FreeCAD 变得更漂亮、更简单，但目前这是一个非常可行的解决方案！   由   提交 /u/Reed_God   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rwb5m7/trying_to_organize_an_open_cad_project_with/</guid>
       <pubDate>Tue, 17 Mar 2026 16:18:49 GMT</pubDate>
     </item>
