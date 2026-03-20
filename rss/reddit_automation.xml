@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 20 Mar 2026 12:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 15:31:46 GMT</lastBuildDate>
+    <item>
+      <title>将人工智能集成到现有的自动化堆栈中，而不破坏一切</title>
+      <link>https://www.reddit.com/r/automation/comments/1ryydpj/integrating_ai_into_existing_automation_stacks/</link>
+      <description><![CDATA[在过去的几个月里，我一直在慢慢地将人工智能添加到我的自动化设置中，老实说，最困难的部分不是人工智能本身，而是弄清楚将其插入哪里，而不会让整个事情崩溃。从小规模开始，使用一些 Make 流程将数据输送到 LLM 中进行内容分类，效果很好，但是，当我尝试使用遗留 CRM 数据做任何更复杂的事情时，整个事情很快就变得混乱了。主要是数据质量问题，垃圾进垃圾出等等。很多人似乎在底层的工作流程变得干净之前就直接跳到代理的东西或多代理设置，我认为这就是许多集成出现问题的地方。好奇其他人在将人工智能添加到现有堆栈时采取了什么方法。您是否从分阶段开始，首先标准化工作流程，或者只是选择最省力的集成点并从那里迭代？我一直在反复考虑是继续在 AI 层使用无代码工具，还是只使用适当的 API 包装器编写 Python 脚本，因为当您需要对提示和错误处理进行更多控制时，无代码内容很快就会受到限制。还想知道是否有人处理过生产自动化中的幻觉问题，尤其是在没有人工检查的情况下输出进入下游的情况。   由   提交/u/Luran_haniya  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ryydpj/integrating_ai_into_existing_automation_stacks/</guid>
+      <pubDate>Fri, 20 Mar 2026 14:52:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>不再需要手动搜索业务线索</title>
+      <link>https://www.reddit.com/r/automation/comments/1ryx8zk/no_more_manual_searching_for_business_leads/</link>
+      <description><![CDATA[说实话，我手动执行此操作花了多长时间，这真是令人尴尬。每天早上，同样的例行公事，打开一堆选项卡，搜索相同的位置，将粘贴复制到电子表格中。在我开始实际工作之前已经过去了两个小时。 花了一个周末构建一些东西来处理它。现在我一觉醒来，领先优势就已经存在，得分并准备就绪。已经运行了几周，它已经支付了我构建它所花费的时间。 还有其他人自动化他们的勘探吗？好奇人们正在使用什么方法。 P.S.是的，我让克劳德帮助我写了这篇文章，作为测试我的自动化设置的一部分。我想在别人指出之前我会拥有它。   由   提交 /u/Loose-Average-5257   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ryx8zk/no_more_manual_searching_for_business_leads/</guid>
+      <pubDate>Fri, 20 Mar 2026 14:09:21 GMT</pubDate>
+    </item>
     <item>
       <title>每只售价 30 万美元的机器狗现在正在守卫着该国一些最大的数据中心</title>
       <link>https://www.reddit.com/r/automation/comments/1rysjfh/robot_dogs_priced_at_300000_a_piece_are_now/</link>
@@ -76,13 +90,6 @@
       <pubDate>Thu, 19 Mar 2026 18:44:34 GMT</pubDate>
     </item>
     <item>
-      <title>DocQuest：统一AI平台，转换PDF+音频+视频→带有AI导师的智能播客</title>
-      <link>https://www.reddit.com/r/automation/comments/1ry6zcs/docquest_unified_ai_platform_that_converts_pdf/</link>
-      <description><![CDATA[ 由   提交/u/maximilien-AI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ry6zcs/docquest_unified_ai_platform_that_converts_pdf/</guid>
-      <pubDate>Thu, 19 Mar 2026 17:35:57 GMT</pubDate>
-    </item>
-    <item>
       <title>自动化客户管理？</title>
       <link>https://www.reddit.com/r/automation/comments/1ry3sdk/automating_client_management/</link>
       <description><![CDATA[我们经营一家代理机构，老实说，客户管理有时是最耗时的事情之一，检查笔记、记住发生的事情等。当然，我们每周/每月与客户交谈，但我们还需要做很多工作来记住潜在客户发生了什么、何时联系他们，甚至几个月后他们发生了什么。 我认为我们正在考虑自动化大量信息收集和下一步以某种方式进行步骤提醒。也许是 n8n 工作流程或类似的东西。我也不反对独立工具。  你们是如何处理这个问题的？有好的解决办法吗？   由   提交/u/ExtendedLongitude90  [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[感觉企业现在正在尝试利用人工智能实现一切自动化，例如客户支持、招聘、内容、电子邮件……基本上任何可以节省时间或金钱的事情。 我明白了。人工智能可以让事情变得更快、更便宜。 但与此同时，如果没有人性化的接触，有些事情就会变得更糟。 比如： - 客户支持变成了无休止的机器人循环 - 感觉很普通或有点不对劲的内容 - 招聘系统以错误的理由过滤掉了优秀的候选人 在某些时候，感觉公司在追求效率，但却失去了信任和质量。 所以我很好奇 您所看到的企业使用人工智能实现哪些绝对不应该实现的自动化？ 想听听真实的例子，无论好坏   由   提交 /u/Commercial-Job-9989   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rxzkne/whats_something_businesses_are_automating_with_ai/</guid>
       <pubDate>Thu, 19 Mar 2026 12:51:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>将人工智能集成到现有的自动化堆栈中，而不破坏一切</title>
-      <link>https://www.reddit.com/r/automation/comments/1rxwl8x/integrating_ai_into_existing_automation_stacks/</link>
-      <description><![CDATA[最近一直在思考这个问题。我们有更快速的流程、CRM 自动化，还有许多其他正在运行的东西，每次我尝试使用人工智能工具时，都感觉自己只是增加了更多的混乱。根据我所读到的内容，更明智的举措是将人工智能直接嵌入到您已经使用的系统中，而不是通过单独的工具运行所有内容。 “弗兰肯堆栈”的事情是真实的，我肯定对添加重叠工具感到内疚，这些工具都从稍微不同的数据中提取。代理人工智能的东西听起来很酷，但据我所知，它在实践中仍然需要大量的指导。很好奇是否有人真的有一个干净的设置，让人工智能代理在现有工作流程中做有意义的工作，而不仅仅是作为顶部的聊天机器人层。什么对你真正有用？   由   提交/u/Daniel_Janifar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1rxwl8x/integrating_ai_into_existing_automation_stacks/</guid>
-      <pubDate>Thu, 19 Mar 2026 10:17:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
