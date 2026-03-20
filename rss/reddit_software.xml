@@ -4,7 +4,70 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 19 Mar 2026 18:41:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 01:01:22 GMT</lastBuildDate>
+    <item>
+      <title>下载视频的最佳网站？</title>
+      <link>https://www.reddit.com/r/software/comments/1rydkbe/best_website_to_download_videos/</link>
+      <description><![CDATA[ 由   提交 /u/Ornery_Office_8174   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rydkbe/best_website_to_download_videos/</guid>
+      <pubDate>Thu, 19 Mar 2026 21:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从头开始构建了一个 Windows 资源管理器替代品 — 4MB 安装程序、35MB RAM、无 Electron</title>
+      <link>https://www.reddit.com/r/software/comments/1rydcet/i_built_a_windows_explorer_replacement_from/</link>
+      <description><![CDATA[多年来我一直对 Windows 资源管理器感到沮丧。所以我构建了自己的。 .files 是使用 Tauri v2（Rust 后端 + React 前端）构建的完整 Windows 资源管理器替代品。安装需要 4MB，并使用约 35MB 的 RAM。 https://raw.githubusercontent.com/jccidc/.files-release/main/demo-v3.gif https://github.com/jccidc/.files-release/raw/main/this-pc.png https://github.com/jccidc/.files-release/raw/main/peek-expand.png https://github.com/jccidc/.files-release/raw/main/settings-themes.png 资源管理器不具备的功能： - 拆分窗格 - 每个窗格具有独立选项卡的并排浏览 - 内置终端 — 完整的 PowerShell PTY，而不是玩具。运行 git、npm、Claude Code 等 - 13 个主题 — Dracula、Nord、Catppuccin、Synthwave、Cyber​​punk、Claude 等。或者创建您自己的 - 7 种视图模式 - 列表、网格、米勒列（macOS 风格）、图库、平铺、平面 视图和树形图（基于大小的颜色渐变的磁盘空间可视化） - 内联文件夹大小 - 异步计算并显示在文件夹的大小列中 文件夹 - 文件年龄着色 - 修改日期颜色编码：绿色（今天）→ 青色（本周）→ 灰色（较早） - 树形图视图 - 使用颜色渐变进行可视化磁盘空间分析（蓝色=微小→ 红色=大量）。单击以钻取文件夹 - Git 集成 - 侧边栏 git 面板，具有分支切换、暂存、提交、推/拉、内联差异 - 系统剪贴板互操作 - 在 .files 中复制，在资源管理器中粘贴（反之亦然）。将文件拖到电子邮件、Slack 中任何实际可用的位置 - 打开方式、压缩为 ZIP、提取、创建快捷方式、属性，全部都在 - 内联查看 - 无需导航即可就地展开文件夹 - 文件预览 - 图像、PDF、DOCX、XLSX、Markdown、带语法突出显示的代码、视频/音频。按空格键快速查看 - 此电脑视图 - 驱动器容量栏、文件夹快捷方式、网络 - 小部件系统 - 翻转时钟、实时天气、正在播放的 Spotify 控件、CPU/RAM/电池、磁盘空间。每日圣经经文，放在标题栏或页脚中，拖动即可重新排序 - 所有内容都可以切换（打开、关闭、标题栏、页脚） - 冲突解决 - 粘贴重复文件时跳过/替换/保留两者对话框 - 即时过滤 - 开始输入内容以实时过滤文件，支持通配符（*.mp4、Ca*、 *.txt) - 进度条，文件操作可取消 - 复制/移动/创建操作的撤消 (Ctrl+Z) 它尚未执行的操作： 它尚未执行的操作： - Shell 扩展（上下文菜单中没有 7-Zip/Git - 这些是COM 插件） - MTP 设备（手机尚未显示） - 每个路径段的面包屑下拉列表 - 用于即时搜索的内容索引 - 文件/文件夹上的颜色标签 - 重复文件查找器 技术堆栈：Tauri v2、Rust、React 19、TypeScript、Zustand、xterm.js、libgit2、 Clipboard-win、tauri-plugin-drag 二进制：9.3 MB exe，4.1 MB NSIS 安装程序。没有电子。没有附带的 DLL。只需 WebView2（已在您的计算机上）。 下载： https://github.com/jccidc/.files-release 屏幕截图： https://github.com/jccidc/.files-release#screenshots 希望提供反馈 - 缺少哪些内容会让您从资源管理器切换？ 接下来您想看到什么？   由   提交 /u/200_DF7_EXE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rydcet/i_built_a_windows_explorer_replacement_from/</guid>
+      <pubDate>Thu, 19 Mar 2026 21:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>在电脑上删除照片的有趣方法</title>
+      <link>https://www.reddit.com/r/software/comments/1rybj8a/a_funny_way_to_delete_photos_on_a_pc/</link>
+      <description><![CDATA[我一直在寻找有趣的方法来清理电脑上保存的照片。 我发现了一个类似于“Tinder”的应用程序用于删除照片，但它只能在手机上使用，所以我想知道是否有任何开源应用程序可以让您以更有趣的方式删除照片。 我提到的示例应用程序是这个： https://github.com/sheeroo/ruko 我发现了很多类似的手机应用程序，但我还没有找到任何适用于 PC 的开源应用程序。 这就是为什么我想知道是否有类似的应用程序或任何其他类型的应用程序可以让删除照片变得更加愉快。 我期待您的建议并感谢您的阅读！   由   提交 /u/paltafreak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1rybj8a/a_funny_way_to_delete_photos_on_a_pc/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:32:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Offload：开源库可帮助代理将测试套件的运行速度提高 6 倍</title>
+      <link>https://www.reddit.com/r/software/comments/1ryaxit/offload_open_source_library_to_help_agents_run/</link>
+      <description><![CDATA[TLDR：Offload 是用 Rust 编写的 MIT 许可的 CLI 工具。它在 Modal Sandboxes 上运行现有的 pytest、vitest 或 cargo-nextest 套件，并将我们的集成测试执行时间加快六倍，每次运行成本为 8 美分。 一些背景：我们在 Imbue 的成熟代码库上并行运行多个编码代理。集成套件在本地大约需要 12 分钟。当代理完成代码编写并执行测试步骤时，它会闲置等待运行。使用 6 个并行代理，您要么将它们序列化在测试锁后面，要么看着您的机器被 xdist 重击。 为了解决这个问题，我们构建了 Offload：一个 Rust CLI，它可以旋转多达 200 多个独立的 Modal 沙箱并在它们之间分配测试 id。我们有一项技能，可以让代理在迭代循环结束时直接调用 Offload，并且运行测试的几乎所有计算开销都发生在远程。 我们现在在两个大型项目内部使用 Offload，以下是我们看到的结果：  对于 Sculptor，我们有 345 个相当重量级的 Playwright 测试：726s -&gt; 120s (6.04x) 对于一个未发布的项目，我们有 5,275 次混合测试：346s -&gt; 186 秒（更适度的 1.86 倍加速）  如果您的套件运行时间超过 2 分钟，我建议使用 Offload；如果再少，开销就会占主导地位，而且你不太可能看到任何改进。 Offload 的另一个好处是它消除了并行性引起的不稳定。 我很乐意回答任何问题！   由   提交 /u/nvader   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ryaxit/offload_open_source_library_to_help_agents_run/</guid>
+      <pubDate>Thu, 19 Mar 2026 20:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了 Windows 搜索的替代方案：OmniSearch（开源、Microsoft Store + MSI）</title>
+      <link>https://www.reddit.com/r/software/comments/1ryag5e/built_an_alternative_to_windows_search_omnisearch/</link>
+      <description><![CDATA[大家好！我构建了 OmniSearch - 一个 Windows 桌面文件搜索和重复查找器，专注于速度和简单性。 在底层，它使用本机 C++ NTFS 扫描仪，通过 Rust 桥 连接，并具有 Tauri + React UI。 功能  跨 Windows 驱动器快速索引和搜索 按扩展名、大小和日期过滤结果 单击结果可打开文件或显示其文件夹 深色/浅色主题切换 结果中可选的内联预览 具有分组结果和清晰的文件/组分离的重复文件查找器 提供 MSI 安装程序  链接 GitHub： https://github.com/Eul45/omni-search  Microsoft Store： https://apps.microsoft.com/detail/9N7FQ8KPLRJ2?hl=en-us&amp;gl=US&amp;ocid=pdpshare   我希望获得有关优先考虑事项的反馈下一页：  键盘优先的用户体验 更好的缩略图/预览性能 索引改进 您希望看到的其他内容    由   提交/u/No_Net_6938   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ryag5e/built_an_alternative_to_windows_search_omnisearch/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:52:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个文件转换器是我见过的最好的，但它是基于网络的</title>
+      <link>https://www.reddit.com/r/software/comments/1ry9zto/this_file_converter_is_the_best_i_have_ever_seen/</link>
+      <description><![CDATA[转换为它！ 现在很多人都在谈论这个，但我质疑它的隐私，因为它没有应用程序。 它是开源的..但这并不自动意味着它是安全的。 它可以从字面上转换任何东西。 是否有任何替代方案可以像这样转换任何内容   由   提交/u/AdeptAd9105  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ry9zto/this_file_converter_is_the_best_i_have_ever_seen/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:36:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新思考人工智能时代的开源指导</title>
+      <link>https://www.reddit.com/r/software/comments/1ry9ttr/rethinking_open_source_mentorship_in_the_ai_era/</link>
+      <description><![CDATA[ 由   提交/u/swe129  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ry9ttr/rethinking_open_source_mentorship_in_the_ai_era/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:30:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sriracha 图片板和论坛服务器 (GNU LGPL)</title>
+      <link>https://www.reddit.com/r/software/comments/1ry9ibd/sriracha_imageboard_and_forum_server_gnu_lgpl/</link>
+      <description><![CDATA[ 由   提交/u/tslocum  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ry9ibd/sriracha_imageboard_and_forum_server_gnu_lgpl/</guid>
+      <pubDate>Thu, 19 Mar 2026 19:07:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>可循环播放的软件音乐</title>
+      <link>https://www.reddit.com/r/software/comments/1ry95yw/loopable_software_music/</link>
+      <description><![CDATA[你好，有人知道可以在更改曲目之前循环歌曲几次的音乐软件吗？就像一张专辑有音乐 a、b、c。它可以循环播放音乐 a 最多 5 次，然后更改为可以循环播放 5 次的音乐 b，以此类推？   由   提交 /u/lukasinya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ry95yw/loopable_software_music/</guid>
+      <pubDate>Thu, 19 Mar 2026 18:54:25 GMT</pubDate>
+    </item>
     <item>
       <title>[DEV] 寻找有关我构建的简单订阅跟踪应用程序的反馈</title>
       <link>https://www.reddit.com/r/software/comments/1ry85rk/dev_looking_for_feedback_on_a_simple_subscription/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[我知道密码管理器空间很拥挤。 1Password、Bitwarden、KeePass — 都很棒。所有这些都是由团队构建的，由某人资助，根据您无法控制的路线图做出决策。 我独自构建了 APM。每行安全关键代码都是我手写的。没有人工智能编写加密货币。没有捷径。 以下是幕后内容： AES-256-GCM - 经过身份验证的加密，而不仅仅是机密性。 Argon2id — 密码哈希竞赛的获胜者。内存硬默认为 64MB，最大可达 512MB。 GPU 集群讨厌它。随机盐加三层密钥派生 — 96 字节的密钥材料分为加密、身份验证和验证密钥。零知识——您的主密码永远不会被存储。永远。 它支持 22 种秘密类型：密码、TOTP、SSH 密钥、API 密钥、Kubernetes 凭证、银行信息、医疗 ID、法律文件等。具有不活动超时的 Shell 范围会话。基于 YAML 的密码策略引擎。带有事件挂钩的 JSON 驱动插件架构。具有 RBAC 和隔离加密域的完整团队版。还有一个 MCP 服务器，以便您的 AI 编码代理可以查询保管库 - 但前提是您手动解锁它。代理永远不会持有密钥。 我仅将 AI 用于命名和可读性重构。每条安全关键路径都是人为编写的。我认为任何人工智能都不应该盲目信任加密实现，所以我没有这样做。 它完美吗？不。这个架构合理吗？我想是的，我希望比我聪明的人能把它拆开。 GitHub：https://github.com/aaravmaloo/apm 文档：https://aaravmaloo.github.io/apm 告诉我我得到了什么错误。   由   提交/u/aaravmaloo  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ry3xkm/i_made_a_zeroknowledge_cli_password_manager_from/</guid>
       <pubDate>Thu, 19 Mar 2026 15:43:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的小说/漫画阅读软件，界面漂亮，开源，能够与IOS手机同步</title>
-      <link>https://www.reddit.com/r/software/comments/1ry2x1f/best_novelcomic_reader_software_with_nice_ui_open/</link>
-      <description><![CDATA[我需要一个支持深色模式，页面也是深色的 我找不到符合所有这些标准的产品，并且想确保它是安全和私密的   由   提交/u/AdeptAd9105  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ry2x1f/best_novelcomic_reader_software_with_nice_ui_open/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个可以转换任何内容的安全开源文件转换器。视窗11</title>
-      <link>https://www.reddit.com/r/software/comments/1ry2q1p/looking_for_a_safe_open_source_file_converter/</link>
-      <description><![CDATA[如果不是一个应用程序，则 2 个应用程序 我经常转换视频格式进行编辑 pdf 和 epub 其他图像文件   由   提交/u/AdeptAd9105  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ry2q1p/looking_for_a_safe_open_source_file_converter/</guid>
-      <pubDate>Thu, 19 Mar 2026 14:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助寻找仓库管理软件</title>
-      <link>https://www.reddit.com/r/software/comments/1ry0ojf/help_finding_software_for_warehouse_managament/</link>
-      <description><![CDATA[大家好， 我在一家金属加工公司（激光切割）工作，我们目前使用 Excel 电子表格管理库存，这种材料变得非常不可靠，经常会丢失或错误计数。 我们主要使用金属板材（不锈钢、铝、低碳钢）。我们收到完整的板材，从中切割零件，然后：  使用部分板材进行生产， 将可用的剩余部件返回仓库， 将无法使用的剩余物送至废料。  我正在寻找一种软件解决方案（最好免费或负担得起），它可以：  跟踪原材料库存（板材、公斤、等）， 处理材料的部分消耗， 允许跟踪和存储可重复使用的剩余物， 跟踪废料/废物， 帮助管理采购和库存水平。    由   提交 /u/One-Condition-8695   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ry0ojf/help_finding_software_for_warehouse_managament/</guid>
-      <pubDate>Thu, 19 Mar 2026 13:40:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>口译-笔记</title>
-      <link>https://www.reddit.com/r/software/comments/1rxzzut/interpretation_note_taking/</link>
-      <description><![CDATA[您好，我是一名远程口译员。我需要一个免费程序，允许我从西班牙语和英语对话中捕获音频并自动将其转换为文本。我用过Windows+Alt+L组合，还有Zoom AI记笔记助手，效果很好，但需要付费。有没有与 Zoom 的笔记功能最相似且免费的选项？我坚持认为我不需要上传音频进行转录，而是自动转录西班牙语和英语音频的通话。   由   提交/u/FelipeAsiNomas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rxzzut/interpretation_note_taking/</guid>
-      <pubDate>Thu, 19 Mar 2026 13:10:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 AI 文件管理器，自动清理您的文件夹（离线和私密）</title>
-      <link>https://www.reddit.com/r/software/comments/1rxwnbw/i_built_an_ai_file_organizer_clean_your_folders/</link>
-      <description><![CDATA[嘿伙计们 👋 我一直在独自开发一个离线工具，该工具通过自动组织文件来帮助清理杂乱的文件夹，但使用人工智能采用更智能的方法。 它不仅仅是按文件类型排序，它实际上可以理解您的文件并以更有意义的方式构建它们。无需考虑即可想到有意义的组织文件夹。 它轻量、快速，并且完全离线运行，因此您的数据保持私密性。只需运行它，让它扫描您的文件，它就会处理剩下的事情。无需设置，没有复杂性。 我构建这个是因为我厌倦了浪费时间手动组织事物，并且想要一些只在后台运行的东西。 🔗 在这里尝试一下：https://foldora.ai https://i.redd.it/4mef09f0azpg1.gif 非常感谢任何反馈、想法或建议🙏   由   提交 /u/Professional_Mud905   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rxwnbw/i_built_an_ai_file_organizer_clean_your_folders/</guid>
-      <pubDate>Thu, 19 Mar 2026 10:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Windows 11 上搜索 • 更好的替代方案，文件资源管理器与开始菜单搜索等？</title>
-      <link>https://www.reddit.com/r/software/comments/1rxu8a6/search_on_windows_11_better_alternatives_file/</link>
-      <description><![CDATA[嘿，伙计们！ 今天，我想知道是否可以改进和“消减”我的笔记本电脑的 Windows 搜索功能。我所说的 Windows 搜索的意思是…… ……好吧，我自己也不太确定。 Windows 资源管理器和 Windows 开始菜单中的搜索是否使用相同的引擎/后端？如果不同，那么如何？ 老实说，我没有做太多研究，但我发现了很多替代解决方案。 相当混乱！ 注意：我的问题是由于发现 Windows 设置中有经典和增强型搜索选项 - 我不确定，但增强型可能会降低我笔记本电脑的性能（Windows，amirite？）， 当我将文件夹添加到经典索引时，然后说索引仍在继续 （2小时过去了，甚至可能更多）！ 不确定是否正常。 总之，我有一些问题：  Windows 搜索在 Windows 资源管理器和 Windows 开始菜单中使用相同的引擎/后端吗？如果不同，那么如何？ Windows 11 中的 Windows 搜索不好吗？ 哪些感觉和外观尽可能与 Windows 11 原生相同的最佳替代方案？  一些信息：  我很少使用 Windows“开始”菜单搜索，但当我这样做时，我会查找已安装的应用程序并快速打开它。 我确实使用 Windows 资源管理器查找特定文件，通常用于修改和配置游戏，或对我的系统执行某些操作。我现在可能会把它用在其他东西上，也许这是个好主意，哈哈。  至于我发现的替代方案： 我确实找到了一切，尽管我仍在阅读它，并且EverythingToolbar 看起来像原生 Windows 开始菜单/任务栏搜索，而且看起来很棒。我还从一位朋友那里听说了 FilePilot，他称赞它的速度，比如说它快得离谱 - 它看起来确实很棒，与 Windows 11 资源管理器类似，但实际上我对它很满意。 系统信息： Windows 11 Home、25H2、26200.8037（Windows 功能体验包） 1000.26100.300.0)。   由   提交 /u/BlackHazeRus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rxu8a6/search_on_windows_11_better_alternatives_file/</guid>
-      <pubDate>Thu, 19 Mar 2026 07:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找桌面上的实时人工智能“副驾驶”，可以收听语音呼叫并在屏幕上生成实时响应。有免费的推荐吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1rxtzkl/looking_for_a_realtime_ai_copilot_for_desktop/</link>
-      <description><![CDATA[大家好！ 👋 我正在尝试找到一个可以安装在桌面上并在通话期间在后台运行的 AI 工具。我的目标是让它实时聆听我正在交谈的人，并生成合理的即时响应或谈话要点，我可以从屏幕上读出这些内容。几乎就像一个现场提词器或副驾驶！ 我是一名学习 CS 的大学生，我正在运行 MSI Katana，所以我真的不介意设置是否有点技术性或者是否涉及在我的 GPU 上本地运行开源模型。 💻🤓 如果有一个免费工具或可靠的社区项目，那就太棒了。我真的只是想先试水一下，看看它处理延迟和上下文的效果如何，然后再花钱购买昂贵的每月订阅。 有人设置了类似的东西吗？目前适合这个具体用例的最佳软件或人工智能管道是什么？ 提前感谢您的建议！ 🙏✨   由   提交/u/Expective_Baby_4108  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rxtzkl/looking_for_a_realtime_ai_copilot_for_desktop/</guid>
-      <pubDate>Thu, 19 Mar 2026 07:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开源] 脚本到语音生成器 - Kokoro TTS - 具有语音混合、音频效果和智能合并音频的无限文本到语音</title>
-      <link>https://www.reddit.com/r/software/comments/1rxriic/open_source_script_to_voice_generator_kokoro_tts/</link>
-      <description><![CDATA[源代码在这里： https://github.com/ReactorcoreGames/Script-To-Voice-Generator-KokoroTTS 它是一个 Windows 程序，可以让你给它提供一个简单的txt/md 脚本文件，并会使用 Kokoro-TTS 使用文本转语音功能将其自动转换为口语音频 mp3 文件。 Kokoro 包含8 种语言的 49 种内置语音 - 英语（美国和英国）、普通话、西班牙语、法语、印地语、意大利语和巴西葡萄牙语。 您还可以使用16 种可以组合在一起的音频效果来播放这 49 个声音变成了更多的声音。 对于 Windows 10/11。   由   提交 /u/Elegant-Mention6393   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rxriic/open_source_script_to_voice_generator_kokoro_tts/</guid>
-      <pubDate>Thu, 19 Mar 2026 05:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不再信任软件</title>
-      <link>https://www.reddit.com/r/software/comments/1rxr8xb/i_dont_trust_software_anymore/</link>
-      <description><![CDATA[随着人们宣布的所有氛围编码和新应用程序，我只是不再信任他们，或者人们付出了很多努力来确保其良好的质量，甚至理解他们正在编码的内容。还有人有同感吗？   由   提交/u/heinternets  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1rxr8xb/i_dont_trust_software_anymore/</guid>
-      <pubDate>Thu, 19 Mar 2026 04:53:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

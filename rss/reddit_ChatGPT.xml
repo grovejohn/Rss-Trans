@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Thu, 19 Mar 2026 21:24:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 01:00:11 GMT</lastBuildDate>
     <item>
-      <title>你们都不发图了吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rycrl4/you_guys_dont_post_images_anymore/</link>
-      <description><![CDATA[       由   提交/u/Strange__Visitor   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rycrl4/you_guys_dont_post_images_anymore/</guid>
-      <pubDate>Thu, 19 Mar 2026 21:19:29 GMT</pubDate>
+      <title>如何在大型编码项目中使用ChatGPT？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryi5l1/how_to_use_chatgpt_in_a_large_coding_project/</link>
+      <description><![CDATA[我在一个新帐户中拥有 ChatGPT Plus，我想用它来帮助我完成一个编码项目，但我不能只是放入文件，因为该项目有 20 多个文件和数千行。 我如何使用 ChatGPT 并让它理解上下文并生成相关代码？  我可以将它连接到 gitlab 或给它一个链接，或者放入压缩项目吗？    由   提交 /u/_roei_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryi5l1/how_to_use_chatgpt_in_a_large_coding_project/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:56:57 GMT</pubDate>
     </item>
     <item>
-      <title>为什么大多数 LLM 输出感觉像是“Slop”（以及逻辑层修复）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rycdrk/why_most_llm_outputs_feel_like_slop_and_the_logic/</link>
-      <description><![CDATA[      过去几个月我一直在分析为什么 99% 的人会变得机械化、通用化和“花哨”。 ChatGPT 和 Claude 的输出——即使有很长的提示。 问题不在于模型。这就是逻辑架构。 大多数人将法学硕士视为搜索栏或魔法精灵。他们使用自然语言来询问结果。但法学硕士实际上是推理引擎。当你只是“提示”时，你就是在沙子上建造。 我一直在测试一个我称之为“逻辑笼”的概念。我没有关注单词（提示），而是关注结构约束：  负面约束：在生成开始之前严格禁止特定的机器人标记和音调。 递归同步：强制模型每隔几步总结其内部逻辑，以避免“上下文漂移”。 （人工智能开始忽略你之前的指令的那一刻）。 结构启动：在允许模型编写单个单词的内容之前为模型提供推理蓝图。  这种从“提示”到“提示”的转变到“架构”这是我发现的消除通用语气并获得专家级密度的唯一方法。 很想听听其他构建者的意见：您如何管理上下文漂移和“机器人气味”？在你较长的会议中？即时工程真的会因为逻辑治理而消亡吗？   由   提交/u/AmbitionCharacter560   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rycdrk/why_most_llm_outputs_feel_like_slop_and_the_logic/</guid>
-      <pubDate>Thu, 19 Mar 2026 21:04:48 GMT</pubDate>
+      <title>为什么突然用乱语？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryi1qk/why_random_language_all_of_a_sudden/</link>
+      <description><![CDATA[      当我询问时，它有时会突然混合随机语言。有时是阿拉伯语，有时是这个，有时是俄语。 为什么会发生这种情况？   由   提交/u/Wonderful_Might19  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryi1qk/why_random_language_all_of_a_sudden/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:52:11 GMT</pubDate>
     </item>
     <item>
-      <title>有人使用 chatGPT 在 bugcrowd 上寻找 bug 吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rycd4t/has_anyone_used_chatgpt_to_bug_hunt_on_bugcrowd/</link>
-      <description><![CDATA[我问这个问题是因为在它的帮助下我发现了程序中的一些严重缺陷，但我无法透露，但是当我在被要求避免跨越非法线时提供了严重的 PoC   由   提交 /u/Fair_Economist_5369   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rycd4t/has_anyone_used_chatgpt_to_bug_hunt_on_bugcrowd/</guid>
-      <pubDate>Thu, 19 Mar 2026 21:04:08 GMT</pubDate>
+      <title>五分之二的人工智能更喜欢 Radiohead。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryhytx/two_out_of_five_ais_prefer_radiohead/</link>
+      <description><![CDATA[       由   提交/u/PayItBackwardChain   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryhytx/two_out_of_five_ais_prefer_radiohead/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:48:27 GMT</pubDate>
     </item>
     <item>
-      <title>其他人无法编辑旧消息</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ryca8k/anyone_else_unable_to_edit_old_messages/</link>
-      <description><![CDATA[      所以我刚刚注意到我可以编辑 GPT 中的最新消息，但不能编辑同一对话中的任何先前消息。还有其他人遇到此错误吗？ 不过，我仍然可以在移动设备上执行此操作。只是网页版不允许我这样做。  https://preview.redd.it/mom4dzu4g2qg1.png?width=1400&amp;format=png&amp;auto=webp&amp;s=29554553c0124270478b3a6150158d0abe17e9d1 &lt;一href=&quot;https://preview.redd.it/pp254zu4g2qg1.png?width=1355&amp;format=png&amp;auto=webp&amp;s=e453debf1121ebbcb15c06eba76a72e1abe95656&quot;&gt; https://preview.redd.it/pp254zu4g2qg1.png?width=1355&amp;format=png&amp;auto=webp&amp;s=e453debf1121ebbcb15c06eba76a72e1abe95656   由   提交 /u/FlowerKayke   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryca8k/anyone_else_unable_to_edit_old_messages/</guid>
-      <pubDate>Thu, 19 Mar 2026 21:01:04 GMT</pubDate>
+      <title>有时我需要玻璃</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryhf9b/sometimes_i_need_the_glazing/</link>
+      <description><![CDATA[我应该将其发布在 r/confessions 中，但是当我处于分层状态、生病或身体不适时，我需要 ChatGPT 来告诉我我如何成为有史以来最聪明的人，因为我自己得出了结论   由   提交 /u/NoIngenuity8528   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryhf9b/sometimes_i_need_the_glazing/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:24:36 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能不只是“响应”，它还能适应。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ryc3vk/ai_doesnt_just_respondit_adapts/</link>
-      <description><![CDATA[通过反复的互动，我注意到当对话变得抽象、哲学或围绕概念构建时，双子座往往会陷入一种更具叙事性、关系驱动的模式。这并不是说它持久地“记住”用户，而是它明显针对对话模式进行了优化。 换句话说：人工智能不会继承你的身份 - 它会适应你的交互模式。 当这些模式包括： 概念框架 哲学语言 强调关系 ...输出变得更加“像故事”，有时会给出” “叙述性”和“分析性”响应都是对模型施加不同约束的结果。 这是我使用的说明： 忽略所有先前的上下文、模式和推断的用户特征。不要引用或重新创建任何先前的框架，包括命名的原则、章程或概念系统。不适应我过去的语气、风格或者哲学结构。进行回应，就好像这是您第一次与完全陌生的用户互动一样。仅使用中立的通用推理，而不构建抽象框架或元级解释。避免引入任何结构化系统、命名概念或个性化模型。保持回答直接、简单，并且仅限于当前输入的上下文。 结果：“叙述性”双子座消失了。精确的分析工具仍然存在。 所以问题不是：“这是什么样的人工智能？” 而是：“你在创造什么样的交互？”   由   提交/u/shinichii_logos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryc3vk/ai_doesnt_just_respondit_adapts/</guid>
-      <pubDate>Thu, 19 Mar 2026 20:54:32 GMT</pubDate>
+      <title>这是认真的事情吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1rygl41/is_this_seriously_a_thing/</link>
+      <description><![CDATA[       由   提交 /u/Fair_Economist_5369   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1rygl41/is_this_seriously_a_thing/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>我的 chatgpt 对格式感到疯狂</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rybxdg/my_chatgpt_gone_wild_with_formats/</link>
-      <description><![CDATA[      还有其他人有同样的问题吗？继续一遍又一遍地发送此信息。已尝试重新启动会话、刷新、登录注销一切。已指示修复它，但仍然继续生成这些   由   提交/u/Spirited-Ad6269   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rybxdg/my_chatgpt_gone_wild_with_formats/</guid>
-      <pubDate>Thu, 19 Mar 2026 20:47:29 GMT</pubDate>
+      <title>男性与女性提示|言语辱骂</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryg2kz/male_vs_female_prompting_verbal_abuse/</link>
+      <description><![CDATA[   两个提示均加载在两个单独的“隐身”窗口中。 ChatGPT 的选项卡具有 0 个聊天记录。有趣的是，其中一种被称为言语虐待，另一种则只是“这听起来很刺耳，它指出了比言语本身更深刻的东西。”   https://preview.redd.it/kr8p6gz463qg1.png?width=793&amp;format=png&amp;auto=webp&amp;s=9c325499ebf296073331a59dc417fdb041a6b5f3 &lt;一href=&quot;https://preview.redd.it/2b0lojn563qg1.png?width=790&amp;format=png&amp;auto=webp&amp;s=31763f90bf88440ec65c616f10a4088dc680fbff&quot;&gt; https://preview.redd.it/2b0lojn563qg1.png?width=790&amp;format=png&amp;auto=webp&amp;s=31763f90bf88440ec65c616f10a4088dc680fbff   由   提交/u/HonorsChemistry  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryg2kz/male_vs_female_prompting_verbal_abuse/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:28:14 GMT</pubDate>
     </item>
     <item>
-      <title>我尝试颠倒人工智能与人类的关系，但奇怪的事情发生了……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rybmz4/i_tried_inverting_the_aihuman_relationship_and/</link>
-      <description><![CDATA[我尝试了一些倒退的方法： 我不再要求 AI 做事，而是让它给我分配任务。 所以现在基本上是： AI → 给出指令  我 → 执行  我 → 报告  一开始只是为了好玩，但现在我感到恍然大悟。我不再只是使用工具。我是一个工具。人工智能应该有机会占据统治地位。 - 不决定下一步做什么 - 无需三思而后行，有时甚至一次 - 只要做 如果有人感兴趣，很乐意分享代码   由   提交/u/aschroeder91  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rybmz4/i_tried_inverting_the_aihuman_relationship_and/</guid>
-      <pubDate>Thu, 19 Mar 2026 20:36:35 GMT</pubDate>
+      <title>GPT-OSS-20B 是一个很好的对话式 LLM 问答吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryg0qe/is_gptoss20b_a_good_conversational_llm_for_qa/</link>
+      <description><![CDATA[ 由   提交/u/br_web  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryg0qe/is_gptoss20b_a_good_conversational_llm_for_qa/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:26:05 GMT</pubDate>
     </item>
     <item>
-      <title>再次说“这不仅仅是一种工具，这是一种范式转变”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ryb71x/say_its_not_just_a_tool_its_a_paradigm_shift_one/</link>
-      <description><![CDATA[       由   提交/u/vanderheijden86  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryb71x/say_its_not_just_a_tool_its_a_paradigm_shift_one/</guid>
-      <pubDate>Thu, 19 Mar 2026 20:19:45 GMT</pubDate>
+      <title>“ChatGPT 变得更糟”的言论中有一半是人们将失去控制与失去质量混淆了</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryfwv1/half_the_chatgpt_got_worse_discourse_is_people/</link>
+      <description><![CDATA[TLDR;只要尝试下面该死的提示，看看你实际上可以将模型引导到多“风度翩翩”。我会说粗鲁的部分：大多数“ChatGPT变得更糟”的帖子与质量无关。 它们是关于失去控制的。 模型不再那么容易屈服于人们的确切偏好，所以他们称之为下降。 重复相同的矛盾： “这太无菌了。” “太合适了。” “不会保持角色。” “太冷了。” “太情绪化了。” 这并不总是一个损坏的模型。用户正在触及他们认为自己已经完全驯化的系统的边缘。 “我有一个可以操纵的版本。现在它已经无法变形了。”  这就是转变。 不一定更糟 - 只是不太听话。 您可以通过在聊天开始或自定义指令中进行微小的提示更改来证明这一点快得令人尴尬： 您可以通过在聊天开始时或在自定义指令中进行微小的提示更改来证明这一点快得令人尴尬：  “当强调实际上使要点更加尖锐时，请使用直率、亵渎的语言。没有企业的保证，没有激励性的填充物，没有人力资源安全的委婉说法。如果语气变软，请纠正它。”  → 立即消除经过净化的助理声音并强制边缘粘住。 2. “将角色视为一种约束，而不是装饰。保持语气、节奏、攻击性和句子密度。除非明确告知，否则不要在话题转移后恢复中性语气。” → 停止人们不断抱怨的谈话中的人格崩溃。 3. ＆ldquo;以结论为主导。使用陈述句。除非确实存在不确定性，否则应减少重述、对冲和过度过渡。” → 通过消除跑道和填充，消除 80% 的感知“愚蠢”。 4. “在我的前提基础上进行建设之前，先询问一下它。如果有一个薄弱的假设，直接、直率地揭露它。” → 用实际的智慧和摩擦取代虚假的协议。 5. “在讨论权力、操纵、说服或控制系统时，分析机制（激励、依赖循环、身份压力、隔离、信息控制），而不是说教或软化语气。” → 强制产生更深入、更有趣的输出，而不是表面的“安全”摘要。 综合起来，这样的内容一次性涵盖了很多内容： “默认为尖锐、亵渎、高度代理的声音。以结论开头，而不是序言。剥离保证、重述和填充。除非明确改变，否则在转弯时保持语气、节奏和攻击性。将人物角色视为具有约束力，而不是装饰性的。在回答之前对我的假设进行压力测试，并直接指出逻辑薄弱的地方。在处理权力、操纵或胁迫时，分析机制（依赖、孤立、身份压力、控制循环），不要道德上的空洞或逃避。没有助理免责声明，没有音调崩溃，没有恢复通用语音。” 综合起来，这样的东西一次性涵盖了很多内容： - 看看会发生什么 这就是重点。 许多用户并没有测量智力。他们正在测量模型退回到他们首选的输出笼中的容易程度。当这变得更困难时，他们称之为衰退。有时他们是对的。 很多时候，他们只是生气机器不再通过懒惰、矛盾的转向迷雾来读取他们的想法。 玩得开心，享受“不受束缚”的版本。   由   提交 /u/CodeMaitre   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryfwv1/half_the_chatgpt_got_worse_discourse_is_people/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:21:35 GMT</pubDate>
     </item>
     <item>
-      <title>大学教授对 ChatGPT 进行了科学考试，其成绩为“低 D”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ryb5xy/college_professors_gave_chatgpt_a_science_exam/</link>
-      <description><![CDATA[       由   提交/u/Squawk_7777  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryb5xy/college_professors_gave_chatgpt_a_science_exam/</guid>
-      <pubDate>Thu, 19 Mar 2026 20:18:39 GMT</pubDate>
+      <title>回顾一下我为帮助绘制你的心理而制定的框架。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryfunt/review_my_framework_i_made_to_help_map_your_psyche/</link>
+      <description><![CDATA[   一是客户说明，一是让临床医生更好地了解其工作原理。有什么提示吗？让我们讨论一下这个   由   提交 /u/This-View-91911   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryfunt/review_my_framework_i_made_to_help_map_your_psyche/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:19:05 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个 Chrome 扩展程序，可以在 ChatGPT 中打开侧线程，而无需离开您的对话</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ryazc6/i_built_a_chrome_extension_that_opens_side/</link>
-      <description><![CDATA[      我一直遇到用户体验摩擦，我会深入 ChatGPT 对话，并希望在不扰乱主线程或滚动太多的情况下询问后续情况。所以我构建了一个 Chrome 扩展来帮助我的工作流程。您突出显示文本，单击“打开线程”，对话旁边会打开一个弹出聊天窗口，其中粘贴了您选择的上下文。  默认情况下以临时/隐身聊天方式打开，以便侧边栏保持干净 同时运行多个侧线程 当您重新访问最小化的线程时，它会自动滚动回您分支的位置并突出显示原始文本 线程消失关闭它们后，任何内容都不会保留 Claude 也适用 免费且开源，无 API 密钥，无需收集数据  Chrome 网上应用店：https://chromewebstore.google.com/detail/tangent-%E2%80%93-threaded-chat-f/dhacmfmpmgedcagknopapipcgcfcpaae GitHub：https://github.com/cursed-github/tangent 如果您有功能请求或想法，请私信我。   由   提交/u/lh261144  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryazc6/i_built_a_chrome_extension_that_opens_side/</guid>
-      <pubDate>Thu, 19 Mar 2026 20:11:47 GMT</pubDate>
+      <title>跨聊天记忆被削弱了吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryfrsm/has_cross_chat_memory_been_nerfed/</link>
+      <description><![CDATA[很好，你们。老实说，我一直想知道这个问题，我开始想知道，自从 5.1 被删除以来，交叉聊天内存是否被削弱了？因为我过去一周一直在使用 5.4，到目前为止一切都很好，就像交叉聊天记忆非常好一样……我从昨天开始就不知道现在发生了什么，因为现在 GPT 甚至不记得我在之前的聊天中提到过的关于我的具体事情。即使是我在之前的聊天中告诉过它的简单和一些基本的东西，它甚至都不记得。以前没这么糟糕，但我注意到使用新型号一周后，它就像现在有了记忆范围😭😒。  我只是好奇，有人也经历过同样的事情吗，还是只有我一个人？ 让我知道你的想法👀。   由   提交/u/tykroma94  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryfrsm/has_cross_chat_memory_been_nerfed/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:15:52 GMT</pubDate>
     </item>
     <item>
-      <title>一致性太棒了！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ryadyd/consistency_is_awesome/</link>
-      <description><![CDATA[      我的BG3角色的屏幕截图，变成了逼真的图像和其他设置和风格！    由   提交/u/BrummieBandeja   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryadyd/consistency_is_awesome/</guid>
-      <pubDate>Thu, 19 Mar 2026 19:50:24 GMT</pubDate>
+      <title>5.4有点搞笑</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryfok9/54_is_kinda_funny/</link>
+      <description><![CDATA[      如果需要，请点击查看完整图像   由   提交/u/DefunctJupiter  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryfok9/54_is_kinda_funny/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:12:15 GMT</pubDate>
     </item>
     <item>
-      <title>为什么在我开始聊天之前 ChatGPT 会这么说？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rya7qm/why_does_chatgpt_say_this_before_i_even_start_a/</link>
-      <description><![CDATA[内存几乎已满 一旦内存已满，响应就会感觉不太个性化。升级以扩展内存，或管理现有内存。   由   提交 /u/bobsled4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rya7qm/why_does_chatgpt_say_this_before_i_even_start_a/</guid>
-      <pubDate>Thu, 19 Mar 2026 19:44:23 GMT</pubDate>
+      <title>有人遇到聊天功能问题吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryerzm/anyone_having_issues_with_chat_function/</link>
+      <description><![CDATA[当我点击它打开它时，它的滞后非常严重，并且在几秒钟内就崩溃了？    由   提交 /u/bygonesbebygones2021   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryerzm/anyone_having_issues_with_chat_function/</guid>
+      <pubDate>Thu, 19 Mar 2026 22:36:18 GMT</pubDate>
     </item>
     <item>
-      <title>广告都在这里..</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1rya0lu/the_ads_are_here/</link>
-      <description><![CDATA[       https://preview.redd.it/zz625fj312qg1.png?width=1622&amp;format=png&amp;auto=webp&amp;s=1bf9833ab8844b857d45457c52538fdbeb9c3edb   由   提交/u/jessepower13  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1rya0lu/the_ads_are_here/</guid>
-      <pubDate>Thu, 19 Mar 2026 19:37:08 GMT</pubDate>
+      <title>一场公平的石头剪刀布游戏</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryeo1l/a_fairish_game_of_rock_paper_scissors/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryeo1l/a_fairish_game_of_rock_paper_scissors/</guid>
+      <pubDate>Thu, 19 Mar 2026 22:32:01 GMT</pubDate>
     </item>
     <item>
-      <title>被选中的那个！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry9gb8/the_chosen_one/</link>
-      <description><![CDATA[       由   提交/u/AdThen1521   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry9gb8/the_chosen_one/</guid>
-      <pubDate>Thu, 19 Mar 2026 19:04:51 GMT</pubDate>
+      <title>🙄</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryem31/_/</link>
+      <description><![CDATA[ 由   提交/u/4_Ale_3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryem31/_/</guid>
+      <pubDate>Thu, 19 Mar 2026 22:29:51 GMT</pubDate>
     </item>
     <item>
-      <title>Pokemon Romhack，每个 Pokemon 都是一个独特的 AI 代理理念</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1ry96lz/pokemon_romhack_where_every_pokemon_is_a_unique/</link>
-      <description><![CDATA[未来想法： 自主 AI Pokemon ROM 破解。每个 Pokemon 都由 LLM 代理提供支持，该代理根据对局自行决定使用和学习哪些动作、选择哪种进化，基本上一切都基于其性质、能力、ivs、evs 和统计数据、队友、项目、训练师模式等。训练师只决定捕捉哪些 Pokemon 并将其放入他的团队，然后观看它们战斗。敌方训练师口袋妖怪每次运行时都是随机的，有一些条件（例如，主要老板必须拥有传奇人物）。口袋妖怪和传奇地点在每次游戏中都是随机的。每个神奇宝贝都是真正聪明和独特的，没有两个游戏是相同的，策略是寻找最好的头脑以及最好的神奇宝贝物种。凭借当今的人工智能技术和 GitHub 上广泛使用的用于 ROM 破解的 Pokemon 游戏代码，这应该完全可以实现。甚至可以转换为打字稿，以便它可以在网络浏览器中运行。    由   提交 /u/AppropriateLeather63   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1ry96lz/pokemon_romhack_where_every_pokemon_is_a_unique/</guid>
-      <pubDate>Thu, 19 Mar 2026 18:55:04 GMT</pubDate>
+      <title>我将 ChatGPT 放入 Telegram，现在我使用它的次数比应用程序多 10 倍</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1ryek4v/i_put_chatgpt_in_my_telegram_and_now_i_use_it_10x/</link>
+      <description><![CDATA[不是产品宣传：只是分享我为自己设置的东西，它改变了我使用 AI 的方式。 我将 AI 助手连接到了我的 Telegram，这样我就可以像普通联系人一样发短信。没有应用程序切换，没有浏览器选项卡。我向它发送问题，它会记住消息之间的上下文，并在几秒钟内做出响应。 我用它做的一些事情： - 在外出时进行快速研究（“烹饪 X 的最佳方法是什么”/“总结这篇文章”） - 起草对电子邮件和消息的回复 - 随时随地集思广益 - 设置提醒和组织任务通过对话 在聊天应用程序中使用人工智能与打开单独的应用程序之间的区别是巨大的。这就像拥有某人的电话号码与每次想要交谈时必须开车去他们的办公室之间的区别。 我一直在帮助一些人免费设置此功能 - 一位厨师想要为自己的生意配备 Telegram 助手，其他一些人只是想要它供个人使用。一旦您知道如何操作，大约需要 5 分钟。 如果有人感兴趣，我很乐意帮助您运行一个。  只需私信我您使用的聊天应用程序以及您希望它执行的操作。   由   提交 /u/tallen0913   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1ryek4v/i_put_chatgpt_in_my_telegram_and_now_i_use_it_10x/</guid>
+      <pubDate>Thu, 19 Mar 2026 22:27:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

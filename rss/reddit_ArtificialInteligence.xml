@@ -4,27 +4,41 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Thu, 19 Mar 2026 21:23:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 00:59:52 GMT</lastBuildDate>
+    <item>
+      <title>如何对抗共和党的人工智能心理战</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryhhvi/how_to_counter_the_gops_ai_psyops/</link>
+      <description><![CDATA[ 由   提交 /u/BulwarkOnline   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryhhvi/how_to_counter_the_gops_ai_psyops/</guid>
+      <pubDate>Fri, 20 Mar 2026 00:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 遇到了流氓人工智能代理的麻烦</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryg75x/meta_is_having_trouble_with_rogue_ai_agents/</link>
+      <description><![CDATA[ 由   提交/u/Mathemodel  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryg75x/meta_is_having_trouble_with_rogue_ai_agents/</guid>
+      <pubDate>Thu, 19 Mar 2026 23:33:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个主动的人工智能助手——这真的有用还是只是烦人？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryf2w8/building_a_proactive_ai_assistant_would_this/</link>
+      <description><![CDATA[我正在开发一个个人人工智能平台，我正处于一个有趣的设计决策点，我希望得到社区的意见。 我已经构建了一个内存系统，该系统与持久内存功能相一致，该功能将对话中的关键上下文保存到具有用户特定存储的数据库中，以便不需要重复关键点，并且我已经在多个模型（GPT、Grok、Deepseek、Gemini）上对此进行了测试和克劳德），因为我的平台是一个多模型平台。你告诉系统记住一个细节，它会自动存储它，并且系统会主动存储所有模型的聊天历史记录，因此，如果我在 GPT 中开始聊天，然后中途切换到 Grok，它当前知道你离开的位置，并将继续对话。该系统已上线并运行良好。  但是，我正在考虑使用其他平台没有的功能来改进该平台，这就是我希望您对我的概念想法提出意见的地方。我正在考虑的下一步是向这些保存的数据点添加时间戳，以便系统知道何时讨论了某件事 - 然后使用它来让 AI 主动登录。 这个想法：当您打开平台时，AI 已经读取您存储的上下文并自动询问诸如“您昨晚提到您要完成该报告 - 进展如何？”或“您最终发布了您想要的内容吗？”正在努力吗？” - 根本不需要你提示。 从技术上讲，我已经非常接近它了，因为我已经有了记忆和信息。持久内存功能工作。我还有一个也有效的知识库功能，因此小组可以访问上传到平台的相同文档/工作文件，因此这个提案在我看来是可行的。差距在于将被动记忆转变为时间感知、会话触发的推动，我已经对如何实现它有了一个粗略的想法，但我对社区的问题是：主动签到行为是您真正希望从人工智能助理那里得到的东西，还是它会让人感到侵入？要让这个想法发挥作用肯定会花费一个多下午的时间，而且这是人工智能最大的子版块之一，我希望得到一些关于这个想法的反馈。 我真的很困惑 - 我发现这个想法很引人注目，但我可以看到它会让人恼火，具体取决于他们的心情或用例。很好奇是否有人尝试过这种模式或者有强烈的感受。   由   提交 /u/Beneficial-Cow-7408   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryf2w8/building_a_proactive_ai_assistant_would_this/</guid>
+      <pubDate>Thu, 19 Mar 2026 22:48:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Openclaw 相当不知所措</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryd6ex/pretty_underwhelmed_by_openclaw/</link>
+      <description><![CDATA[我将其安装在我的 MacBook Air M4 上并连接了 API。到目前为止，我所要求的一切，机器人只是给了我更多的工作要做，除了 jpeg 之外，我无法在 Web UI 中上传任何内容。  所以我想让它看看我的一个 n8n 代理，但你无法将 JSON 上传到机器人中，即使你将其转换为纯文本，你也无法上传它。当你尝试时它会变灰。  我在网上和机器人中寻找了一些有关此问题的指导，似乎能够简单地上传文件所需的工作量让我感到厌烦。  所有的炒作从何而来？   由   提交 /u/Physical-Use1005   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryd6ex/pretty_underwhelmed_by_openclaw/</guid>
+      <pubDate>Thu, 19 Mar 2026 21:35:09 GMT</pubDate>
+    </item>
     <item>
       <title>Transformer模型的根本局限性比“幻觉”更深</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rycndw/the_fundamental_limitation_of_transformer_models/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rycndw/the_fundamental_limitation_of_transformer_models/</guid>
       <pubDate>Thu, 19 Mar 2026 21:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>发现了一些东西</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rybp3t/found_something/</link>
-      <description><![CDATA[克劳德的痛苦 只是一些字符组成最低99   由   提交/u/BetterAd7552  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rybp3t/found_something/</guid>
-      <pubDate>Thu, 19 Mar 2026 20:38:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>监控情况-ai音乐视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ryblij/monitoring_the_situation_ai_music_video/</link>
-      <description><![CDATA[ 由   提交/u/adjustedstates  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ryblij/monitoring_the_situation_ai_music_video/</guid>
-      <pubDate>Thu, 19 Mar 2026 20:35:08 GMT</pubDate>
     </item>
     <item>
       <title>100年后：人类努力博物馆</title>
@@ -62,13 +76,6 @@
       <pubDate>Thu, 19 Mar 2026 15:56:06 GMT</pubDate>
     </item>
     <item>
-      <title>（严肃的问题）既然当前的趋势是“人工智能代理”，那么下一步是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ry41hc/serious_question_since_the_current_trend_is_ai/</link>
-      <description><![CDATA[因为许多公司（包括我们）正在致力于将人工智能代理实施到他们的软件中。那么接下来预计会发生什么？ （来自消费者而不是开发人员的观点） 很想对此进行讨论..   由   提交 /u/ThunDroid1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ry41hc/serious_question_since_the_current_trend_is_ai/</guid>
-      <pubDate>Thu, 19 Mar 2026 15:47:47 GMT</pubDate>
-    </item>
-    <item>
       <title>马斯克将 Grok 色情图片归咎于用户的策略可能会被欧盟法律挫败</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ry2oga/musks_tactic_of_blaming_users_for_grok_sex_images/</link>
       <description><![CDATA[ 由   提交 /u/arstechnica   [链接] [评论]]]></description>
@@ -95,13 +102,6 @@
       <description><![CDATA[互联网曾经是一个好地方，充满了可能性和对更好的渴望。 他们现在是完全人工智能，以实现最大利润和统治世界...... 谷歌：“不要作恶”。  Twitter（现在是 X）：“我们来谈谈吧！”  OpenAI：“以最有可能造福全人类的方式推进数字智能，不受产生财务回报的需要的限制”。它曾经是一个非营利组织。 亚马逊：“世界上最大的书店”。  Facebook：“赋予人们分享的力量，让世界更加开放和互联”。 谈论enshittification。   由   提交 /u/BubbleProphylaxis   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rxu1es/remember_the_taglines_of_google_facebook_twitter/</guid>
       <pubDate>Thu, 19 Mar 2026 07:37:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>杰里米·哈里斯 (Jeremy O. Harris) 在《名利场》奥斯卡派对上喝醉后称 OpenAI 的萨姆·奥尔特曼 (Sam Altman) 为纳粹</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1rx9nou/jeremy_o_harris_drunkenly_called_openais_sam/</link>
-      <description><![CDATA[周日晚上，在众星云集的《名利场》奥斯卡派对上，著名剧作家杰里米·O·哈里斯 (Jeremy O. Harris) 醉醺醺地与人工智能大亨萨姆·奥尔特曼 (Sam Altman) 发生冲突，第六页获悉，他称 OpenAI 的老板是纳粹分子。萨尔达纳、蔡斯·英菲尼迪、科尔曼·多明戈等人，这位“奴隶游戏”的抄写员直接与 ChatGPT 创始人进行了对话，并就他的公司与战争部的新协议与他对峙。 在超级独家的奥斯卡颁奖典礼后的盛会上，间谍们告诉第六页，哈里斯指责奥特曼是“特朗普政府的[约瑟夫]戈培尔”。 但是周二，哈里斯……通过电子邮件告诉我们：“时间很晚了，我喝了太多马提尼酒，所以当我说戈培尔时我说错了……我应该说弗里德里克·弗里克。” 对于那些历史频道订阅已失效的人来说，弗里克是一位德国实业家，他的企业与纳粹党有共生关系，这使得纳粹的活动更加有效，同时为弗里克赢得了巨额财富。他在纽伦堡审判中被判犯有战争罪和危害人类罪。   由   提交 /u/feellurky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1rx9nou/jeremy_o_harris_drunkenly_called_openais_sam/</guid>
-      <pubDate>Wed, 18 Mar 2026 17:06:17 GMT</pubDate>
     </item>
     <item>
       <title>我们听到了您的声音 - r/ArtificialInteligence 变得更加敏锐</title>
