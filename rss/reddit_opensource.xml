@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Mar 2026 09:30:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 12:31:53 GMT</lastBuildDate>
+    <item>
+      <title>Android物理安全工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ryszuy/an_android_physical_security_tool/</link>
+      <description><![CDATA[源代码和详细信息：https://github.com/umutcamliyurt/Praesidium Praesidium 是一款 Android 安全工具，旨在保护设备免受物理和软件级别的入侵。它作为持久性前台服务运行，持续监控威胁指标（ADB 连接、暴力解锁尝试和异常进程行为），并通过可配置的紧急操作进行响应，包括屏幕锁定、设备重新启动或完全工厂擦除。 功能    功能描述ADB连接检测通过/proc/net/tcp检查检测活动的ADB会话暴力破解保护 通过设备管理 API 跟踪累积的失败解锁尝试   FD 尖峰检测 监控 adbd 文件描述符计数是否异常增长   自动化响应 每个威胁可配置的操作：锁定、重新启动或擦除   确认计数 重新启动需要连续 5 次确认；擦除需要 10 - 防止单轮询误报   手动紧急控制 从主 UI 中一键锁定、重新启动和擦除   管理切换 激活和停用设备管理员和设备应用内的所有者状态   持久性 通过BOOT_COMPLETED设备重启后服务自动重新启动精细设置每个威胁的单独切换和操作分配类型     由   提交/u/0TheNemesis0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ryszuy/an_android_physical_security_tool/</guid>
+      <pubDate>Fri, 20 Mar 2026 10:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Foldgram：自托管本地照片库，具有 Instagram 风格的提要和布局</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ryrukd/foldergram_selfhosted_local_photo_gallery_with_an/</link>
+      <description><![CDATA[我为我的旧备份照片构建了一个小型自托管照片/视频图库，因为我想要一种感觉像滚动 Instagram 风格的 feed，但用于我自己的离线收藏。 我之前尝试过很多图库应用程序，但这个感觉不同。感觉不太像是浏览文件，而更像是浏览我自己的旧“帖子”。它实际上让重温照片变得有趣，尽管我不太喜欢在社交媒体上发帖。 非常感谢反馈，尤其是来自尝试过其他自托管图库应用程序的人的反馈。 存储库：https://github.com/foldergram/foldergram 文档：https://foldergram.github.io/ 演示：https://foldergram.intentdeep.com/   由   提交 /u/sajjadalis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ryrukd/foldergram_selfhosted_local_photo_gallery_with_an/</guid>
+      <pubDate>Fri, 20 Mar 2026 09:41:19 GMT</pubDate>
+    </item>
     <item>
       <title>Sriracha 图片板和论坛服务器 (GNU LGPL)</title>
       <link>https://www.reddit.com/r/opensource/comments/1ry9kjd/sriracha_imageboard_and_forum_server_gnu_lgpl/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>对 citemap.json CC BY 4.0 项目的反馈和意见</title>
       <link>https://www.reddit.com/r/opensource/comments/1rwkakd/feedback_and_input_on_the_citemapjson_cc_by_40/</link>
-      <description><![CDATA[我很乐意获得有关 citemap.json 开源项目的反馈和意见。  Citemap.json 是您在网站根目录发布的开放格式，例如 yoursite.com/citemap.json。它为人工智能系统提供了一个结构化的、权威的声明，说明你是谁、你做了什么、你希望因什么而被引用以及你不希望被引用什么。您可以像对待站点地图一样来思考它：站点地图让您被搜索引擎索引，引用地图让您被人工智能引用。 规范位于 citemaps.org。它是 CC BY 4.0，因此可以自由地实施、分叉、扩展、构建工具。 2.0 版涵盖了网络上每种主要实体类型的 21 个模块和 430 多个字段：企业、研究人员、医疗保健提供者、非营利组织、艺术家等。  V3 本周发布 引用合同 - 一种将静态身份文件转变为动态身份文件的结构化承诺。声明您的引用地图上次审核的时间、更新频率以及人工智能系统应联系谁进行更正。这是将 citemap.json 从快照移动到承诺的字段。 正式级别 - 根据字段存在计算的三层（★☆☆ / ★★☆ / ★★★），而不是自我声明。第一级是核心品牌标识。 2级增加了行业模块。 3 级需要经过验证的声明和有效的引用合同。分数是获得的，而不是断言的。 实体 ID — 所有 24 种嵌套对象类型上的稳定类型：slug 标识符（例如服务：plumbing、人员：jane-doe）。跨引用地图可交叉引用，跨文件更新稳定。我们认为该标准最终将实现互联身份图的基础。 模块元 — 每个模块的新鲜度信号。任何模块上的 lastUpdated 和 updateFrequency，因此 AI 系统可以评估 citemap 的哪些部分得到了主动维护，哪些部分自文件首次生成以来尚未被触及。 已验证的声明 - 15 种声明类型，包括 NPI、EIN、DUNS、条形码、DOI 和州许可证。机器可读的证据直接附在他们支持的主张上。这是将 citemap.json 从自我报告身份转向可验证信任的字段集。 欢迎反馈。谢谢！    由   提交 /u/citemap   [链接] [评论]]]></description>
+      <description><![CDATA[我很乐意获得有关 citemap.json 开源项目的反馈和意见。  Citemap.json 是您在网站根目录发布的开放格式，例如 yoursite.com/citemap.json。它为人工智能系统提供了一个结构化的、权威的声明，说明你是谁、你做了什么、你希望因什么而被引用以及你不希望被引用什么。您可以像对待站点地图一样来思考它：站点地图让您被搜索引擎索引，引用地图让您被人工智能引用。 规范位于 citemaps.org。它是 CC BY 4.0，因此可以自由地实施、分叉、扩展、构建工具。 2.0 版涵盖了网络上每种主要实体类型的 21 个模块和 430 多个字段：企业、研究人员、医疗保健提供者、非营利组织、艺术家等。  V3 本周发布 引用合同 - 一种将静态身份文件转变为动态身份文件的结构化承诺。声明您的引用地图上次审核的时间、更新频率以及人工智能系统应联系谁进行更正。这是将 citemap.json 从快照移动到承诺的字段。 正式级别 - 根据字段存在计算的三层（★☆☆ / ★★☆ / ★★★），而不是自我声明。第一级是核心品牌标识。 2级增加了行业模块。 3 级需要经过验证的声明和有效的引用合同。分数是获得的，而不是断言的。 实体 ID — 所有 24 种嵌套对象类型上的稳定类型：slug 标识符（例如服务：plumbing、人员：jane-doe）。跨引用地图可交叉引用，跨文件更新稳定。我们认为该标准最终将实现互联身份图的基础。 模块元 — 每个模块的新鲜度信号。任何模块上的lastUpdated和updateFrequency，因此人工智能系统可以评估引用地图的哪些部分得到了积极维护，哪些部分自文件首次生成以来尚未被触及。 已验证的声明 - 15 种声明类型，包括 NPI、EIN、DUNS、条形码、DOI 和州许可证。机器可读的证据直接附在他们支持的主张上。这是将 citemap.json 从自我报告身份转向可验证信任的字段集。 欢迎反馈。谢谢！    由   提交 /u/citemap   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1rwkakd/feedback_and_input_on_the_citemapjson_cc_by_40/</guid>
       <pubDate>Tue, 17 Mar 2026 21:37:46 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我是一名 Mac 用户，我正在寻找一个简单的开源图像编辑器。有 GIMP，但它太复杂了，有很多我永远不会使用的功能，而且它不太用户友好。有什么想法吗？   由   提交/u/Potential-Ad345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ruwmxd/simple_open_source_image_editor/</guid>
       <pubDate>Mon, 16 Mar 2026 01:53:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ritual - 开源的本地单色主题习惯跟踪器 PWA</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ruu2l9/ritual_an_open_source_local_monochrome_themed/</link>
-      <description><![CDATA[Github -&gt; https://github.com/tangent-labs-dev/ritual 演示视频 -&gt; https://youtube.com/shorts/-PCH2qd4kXo?feature=share   由   提交/u/lazyhawk20  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ruu2l9/ritual_an_open_source_local_monochrome_themed/</guid>
-      <pubDate>Sun, 15 Mar 2026 23:59:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Findle：一款原生 macOS 应用程序，可将 Moodle/LMS 课程文件同步到 Finder（Swift 6、Apache 2.0）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1rut0yg/findle_a_native_macos_app_that_syncs_moodlelms/</link>
-      <description><![CDATA[      我开源了 Findle，这是一款 macOS 应用程序，它使用 Apple 的文件提供程序框架将 Moodle 课程内容直接集成到 Finder 中。 它是什么功能： - Moodle 课程像 iCloud Drive 一样出现在 Finder 侧栏中 - 按需文件下载（占位符文件，直到您打开它们） - 离线固定、Spotlight 搜索、Finder 上下文菜单 - 自动同步每门课程的增量更改跟踪 为什么开源： 我构建这个是为了解决我自己作为学生的问题，并认为其他学生也可以受益。像这样的工具没有理由应该在付费墙后面。 技术概述： - 具有严格并发性的 Swift 6 - 6 个模块化框架（网络、持久性、同步引擎、文件提供程序、共享域、应用程序） - 4 个测试套件 - 基于 Actor 的同步引擎 - 用于元数据缓存的 SQLite - 用于凭证存储的钥匙串 - 唯一依赖项：Sparkle（用于自动更新） 欢迎贡献！自述文件中有一个路线图，其中包含几个未解决的项目（多帐户支持、作业提交、其他 LMS 后端）。很高兴帮助任何人开始使用代码库！   由   提交/u/iAlex11  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1rut0yg/findle_a_native_macos_app_that_syncs_moodlelms/</guid>
-      <pubDate>Sun, 15 Mar 2026 23:14:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
