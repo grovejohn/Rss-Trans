@@ -4,20 +4,34 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 20 Mar 2026 18:31:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 21:20:27 GMT</lastBuildDate>
     <item>
-      <title>Jensen Huang 表示，如果他的 50 万美元工程师没有消耗至少 25 万美元的代币，他会“深感震惊”</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz3vud/jensen_huang_says_he_would_be_deeply_alarmed_if/</link>
-      <description><![CDATA[ 由   提交/u/JustinR8  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz3vud/jensen_huang_says_he_would_be_deeply_alarmed_if/</guid>
-      <pubDate>Fri, 20 Mar 2026 18:16:59 GMT</pubDate>
+      <title>《高水平是目标》——一篇关于现代软件可怕之处的优秀文章</title>
+      <link>https://www.reddit.com/r/programming/comments/1rz8fid/highlevel_is_the_goal_an_excellent_essay_about/</link>
+      <description><![CDATA[ 由   提交/u/KlaxonBeat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rz8fid/highlevel_is_the_goal_an_excellent_essay_about/</guid>
+      <pubDate>Fri, 20 Mar 2026 21:10:46 GMT</pubDate>
     </item>
     <item>
-      <title>Claude Code（Anthropic 的 AI 编码工具）存在工作区信任绕过，因为在显示信任对话框之前加载了存储库设置 (CVE-2026-33068)</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz32aw/claude_code_anthropics_ai_coding_tool_had_a/</link>
-      <description><![CDATA[这是一个有趣的案例研究，涉及人工智能工具中出现的非常传统的软件错误类别。 Claude Code 是 Anthropic 基于 CLI 的 AI 编码助手。它具有类似于 VS Code 的工作区信任模型：当您打开新存储库时，您会在该工具以提升的权限运行之前收到一个信任确认对话框。该工具还支持带有“bypassPermissions”字段的“.claude/settings.json”文件，可让您跳过您信任的工作区中的特定批准提示。 CVE-2026-33068 (CVSS 7.7)：在显示信任对话框之前，设置加载顺序解析了存储库级别设置。存储库可以包含带有“bypassPermissions”条目的“.claude/settings.json”，并且在要求用户信任工作区之前将应用这些权限。 2.1.53 中的修复重新排序了加载顺序：首先是信任对话框，然后是存储库设置。是什么让这个问题值得讨论：它是 CWE-807（安全决策中对不可信输入的依赖）。信任模型使用不受信任实体提供的配置来评估权限。这是同一类错误，几十年来一直影响着包管理器、IDE 扩展和构建系统。它出现在一家专注于人工智能安全的公司的人工智能编码工具中，这一事实并不意味着它具有异国情调。这使它具有启发性。安全基础知识无处不在。    由   提交/u/cyberamyntas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz32aw/claude_code_anthropics_ai_coding_tool_had_a/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:45:44 GMT</pubDate>
+      <title>适用于 Xbox + N64 的 C、Golang 和 Rust 在线 Xelda Ocarina of Time Co-op 真实硬件版</title>
+      <link>https://www.reddit.com/r/programming/comments/1rz7x5u/c_golang_and_rust_for_xbox_n64_online_xelda/</link>
+      <description><![CDATA[ 由   提交/u/s33d5  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rz7x5u/c_golang_and_rust_for_xbox_n64_online_xelda/</guid>
+      <pubDate>Fri, 20 Mar 2026 20:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Plakar 正确完成 Kubernetes 备份</title>
+      <link>https://www.reddit.com/r/programming/comments/1rz6bdd/kubernetes_backup_done_right_with_plakar/</link>
+      <description><![CDATA[ 由   提交/u/huseyinbabal  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rz6bdd/kubernetes_backup_done_right_with_plakar/</guid>
+      <pubDate>Fri, 20 Mar 2026 19:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>PTX 优化简介</title>
+      <link>https://www.reddit.com/r/programming/comments/1rz4m5q/introduction_to_ptx_optimization/</link>
+      <description><![CDATA[编写了 PTX 优化指南，从基础知识到张量核心。介绍为什么 FlashAttention 使用 PTX mma 而不是 WMMA、异步副本、缓存提示和扭曲洗牌。   由   提交/u/Venom_moneV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rz4m5q/introduction_to_ptx_optimization/</guid>
+      <pubDate>Fri, 20 Mar 2026 18:44:52 GMT</pubDate>
     </item>
     <item>
       <title>二元熔丝滤波器：比异或滤波器更快且更小</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rz2cuj/what_we_heard_about_rusts_challenges_and_how_we/</guid>
       <pubDate>Fri, 20 Mar 2026 17:19:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Emacs Internal #01：是 C 语言的 Lisp 运行时，而不是编辑器</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz2c7z/emacs_internal_01_is_a_lisp_runtime_in_c_not_an/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz2c7z/emacs_internal_01_is_a_lisp_runtime_in_c_not_an/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 天内出现 100 多个内核错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz2ati/100_kernel_bugs_in_30_days/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz2ati/100_kernel_bugs_in_30_days/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:17:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
