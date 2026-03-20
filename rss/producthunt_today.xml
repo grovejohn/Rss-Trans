@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 20 Mar 2026 15:34:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:32:55 GMT</lastBuildDate>
     <item>
       <title>GitAgent 由 Lyzr 提供</title>
       <link>https://www.producthunt.com/products/gitagent-2</link>
@@ -48,6 +48,20 @@
       <pubDate>Fri, 20 Mar 2026 02:07:57 GMT</pubDate>
     </item>
     <item>
+      <title>很多</title>
+      <link>https://www.producthunt.com/products/telea</link>
+      <description><![CDATA[
+            说话就像你总是知道该说什么
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/telea</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
       <title>聊天</title>
       <link>https://www.producthunt.com/products/chat-5</link>
       <description><![CDATA[
@@ -60,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chat-5</guid>
       <pubDate>Fri, 20 Mar 2026 00:15:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>凝视卫士</title>
-      <link>https://www.producthunt.com/products/gaze-guard</link>
-      <description><![CDATA[
-            即时隐私和屏幕模糊
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/gaze-guard</guid>
-      <pubDate>Thu, 19 Mar 2026 21:59:19 GMT</pubDate>
     </item>
     <item>
       <title>客房服务</title>
@@ -104,18 +104,32 @@
       <pubDate>Thu, 19 Mar 2026 16:26:55 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能技能经理</title>
-      <link>https://www.producthunt.com/products/ai-skills-manager</link>
+      <title>谷歌人工智能工作室2.0</title>
+      <link>https://www.producthunt.com/products/google-ai-studio-8</link>
       <description><![CDATA[
-            一处发挥您所有 AI 技能的地方
+            由 Antigravity + Firebase 提供支持的全栈氛围编码
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ai-skills-manager</guid>
-      <pubDate>Thu, 19 Mar 2026 13:22:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/google-ai-studio-8</guid>
+      <pubDate>Thu, 19 Mar 2026 15:59:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gmail 的欢乐</title>
+      <link>https://www.producthunt.com/products/joy-for-gmail</link>
+      <description><![CDATA[
+            收件箱更清晰、写作更专注、噪音更少的 Gmail 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/joy-for-gmail</guid>
+      <pubDate>Thu, 19 Mar 2026 13:09:37 GMT</pubDate>
     </item>
     <item>
       <title>文件夹</title>
@@ -130,6 +144,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/kickfolder</guid>
       <pubDate>Thu, 19 Mar 2026 08:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>无缓存</title>
+      <link>https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup</link>
+      <description><![CDATA[
+            AI 支持的 Mac 系统数据清理器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cacheless-ai-powered-disk-cleanup</guid>
+      <pubDate>Thu, 19 Mar 2026 05:28:53 GMT</pubDate>
     </item>
     <item>
       <title>维斯迪夫</title>
@@ -174,20 +202,6 @@
       <pubDate>Tue, 17 Mar 2026 07:31:34 GMT</pubDate>
     </item>
     <item>
-      <title>温和限制</title>
-      <link>https://www.producthunt.com/products/gentlelimit</link>
-      <description><![CDATA[
-            留意 macOS 的屏幕时间，而不阻止应用程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/gentlelimit</guid>
-      <pubDate>Sun, 15 Mar 2026 13:52:25 GMT</pubDate>
-    </item>
-    <item>
       <title>装配2.0</title>
       <link>https://www.producthunt.com/products/assembly-7</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/assembly-7</guid>
       <pubDate>Fri, 27 Feb 2026 21:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>专为开发人员打造</title>
-      <link>https://www.producthunt.com/products/built-for-devs-2</link>
-      <description><![CDATA[
-            了解开发人员如何真实体验您的产品
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/built-for-devs-2</guid>
-      <pubDate>Wed, 21 May 2025 21:52:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
