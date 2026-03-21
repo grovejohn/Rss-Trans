@@ -4,20 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 20 Mar 2026 21:20:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 00:58:37 GMT</lastBuildDate>
     <item>
-      <title>《高水平是目标》——一篇关于现代软件可怕之处的优秀文章</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz8fid/highlevel_is_the_goal_an_excellent_essay_about/</link>
-      <description><![CDATA[ 由   提交/u/KlaxonBeat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz8fid/highlevel_is_the_goal_an_excellent_essay_about/</guid>
-      <pubDate>Fri, 20 Mar 2026 21:10:46 GMT</pubDate>
+      <title>黑客马拉松上的随机事件让 200 人使用了它。</title>
+      <link>https://www.reddit.com/r/programming/comments/1rzdu3u/random_thing_at_a_hackathon_got_200_people_using/</link>
+      <description><![CDATA[在黑客马拉松期间作为快速实验。 这是一款基于浏览器的网球游戏，您的身体仅使用网络摄像头即可控制 3D 玩家。你打开一个链接，允许摄像头访问，然后像在真正的网球中一样挥动手臂。 我们并没有对此抱有太大期望，但在分享了一个粗略的原型后，超过 100 人尝试了它，其中一些人实际上打了整场比赛。 在构建它时，有几件事很突出： \- 即使很小的延迟也会让体验感觉不佳 \- 流畅度比视觉效果更重要 \- 人们对摄像头很满意如果体验是即时的，就可以访问 这还很早，还没有完全完善，但它可以端到端工作。 如果有人致力于实时姿势跟踪或减少基于浏览器的系统中的延迟，我真的很感激任何建议。 如果有人想尝试的话，很高兴分享链接。   由   提交/u/Rare_Fortune_9169   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rzdu3u/random_thing_at_a_hackathon_got_200_people_using/</guid>
+      <pubDate>Sat, 21 Mar 2026 00:54:51 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 Xbox + N64 的 C、Golang 和 Rust 在线 Xelda Ocarina of Time Co-op 真实硬件版</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz7x5u/c_golang_and_rust_for_xbox_n64_online_xelda/</link>
-      <description><![CDATA[ 由   提交/u/s33d5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz7x5u/c_golang_and_rust_for_xbox_n64_online_xelda/</guid>
-      <pubDate>Fri, 20 Mar 2026 20:51:13 GMT</pubDate>
+      <title>托尼·霍尔和他对计算机科学的影响</title>
+      <link>https://www.reddit.com/r/programming/comments/1rz98pm/tony_hoare_and_his_imprint_on_computer_science/</link>
+      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rz98pm/tony_hoare_and_his_imprint_on_computer_science/</guid>
+      <pubDate>Fri, 20 Mar 2026 21:43:35 GMT</pubDate>
     </item>
     <item>
       <title>使用 Plakar 正确完成 Kubernetes 备份</title>
@@ -76,13 +76,6 @@
       <pubDate>Fri, 20 Mar 2026 17:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>在软件开发中使用法学硕士的 4 种方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz2joj/the_4_approaches_to_using_llms_in_software/</link>
-      <description><![CDATA[ 由   提交/u/brainexer  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz2joj/the_4_approaches_to_using_llms_in_software/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:26:13 GMT</pubDate>
-    </item>
-    <item>
       <title>从示波器到 Wireshark：UDP 故事</title>
       <link>https://www.reddit.com/r/programming/comments/1rz2hs2/from_oscilloscope_to_wireshark_a_udp_story/</link>
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rz2cuj/what_we_heard_about_rusts_challenges_and_how_we/</guid>
       <pubDate>Fri, 20 Mar 2026 17:19:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Emacs Internal #01：是 C 语言的 Lisp 运行时，而不是编辑器</title>
+      <link>https://www.reddit.com/r/programming/comments/1rz2c7z/emacs_internal_01_is_a_lisp_runtime_in_c_not_an/</link>
+      <description><![CDATA[ 由   提交 /u/ketralnis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rz2c7z/emacs_internal_01_is_a_lisp_runtime_in_c_not_an/</guid>
+      <pubDate>Fri, 20 Mar 2026 17:18:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
