@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 21 Mar 2026 15:17:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 21:17:20 GMT</lastBuildDate>
     <item>
-      <title>我为 Java 构建了一个实用的空安全解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rztz01/i_built_a_practical_nullsafety_solution_for_java/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rztz01/i_built_a_practical_nullsafety_solution_for_java/</guid>
-      <pubDate>Sat, 21 Mar 2026 15:14:40 GMT</pubDate>
+      <title>在没有 Docker 的 Windows Server 上自托管 NocoDB（帮助）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s02t0f/selfhost_nocodb_on_windows_server_without_docker/</link>
+      <description><![CDATA[大家好，我一直在寻找一个应用程序，可以管理我的小团队的项目、任务，并跟踪他们的任务和进度，我研究了很多东西，包括 Affine、NocoDB，但问题是服务器是 Windows Server，而且很便宜，我们没有虚拟化和 Hyper-V，所以有结果没有 Docker。  此外，我正在寻找像 NocoDB 这样免费且简单的东西（这就是我渴望它的原因）。  我真的无法自行托管 Affine 或 NocoDB ，但我真的很喜欢 NocoDB ，如果有人知道有效的方法，我如何自行托管并开始为我自己的团队使用此应用程序？ 不要忘记我对此很陌生（一般来说是自托管和后端）。 提前谢谢您   由   提交/u/gg213866  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s02t0f/selfhost_nocodb_on_windows_server_without_docker/</guid>
+      <pubDate>Sat, 21 Mar 2026 21:07:04 GMT</pubDate>
     </item>
     <item>
-      <title>我们构建了验证码，使用“物理测试”来告诉人工智能机器人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rztsml/we_built_capcha_using_a_physical_test_to_tell/</link>
-      <description><![CDATA[   在人工智能机器人足够聪明，几乎可以解决人类可以解决的所有难题的世界中，验证码不再能够实现区分机器人和人类的目的。 我们构建“CAPTCHA”从一个非常不同且更有效的角度告诉人工智能机器人。  验证码谜题经过加密并传送给客户端、机器人或人类浏览器。然而，该谜题只能通过真实浏览器中存在的可信计算模块来解密，并显示在监视器中。任何程序，包括人工智能机器人，都无法破解这个谜题。这是一项“物理测试”。 - 我们不会让它变得困难，我们会让机器人无法访问；只有当你存在于物理世界中时，你才能解决这个难题。  https://preview.redd.it/rr40h6syxeqg1.png?width=1183&amp;format=png&amp;auto=webp&amp;s=6f5e3b3867f89c785d905f5205edba2e0277a62d 尝试一下：https://cybermirage.tech/    由   提交 /u/mikeVVcm   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rztsml/we_built_capcha_using_a_physical_test_to_tell/</guid>
-      <pubDate>Sat, 21 Mar 2026 15:07:20 GMT</pubDate>
+      <title>为那些不想自行托管的人提供 ChangeDetection.io 的托管替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s02ntk/hosted_alternatives_to_changedetectionio_for/</link>
+      <description><![CDATA[运行changedetection.io一年。很棒的软件，但是： - 某些网站上的代理问题 - 容器在度假期间崩溃 - 浏览器自动化不稳定 查看了托管选项： - Visualping - 有效，昂贵（25 个页面每月 24 美元） - Distill.io - 浏览器扩展，不可靠 - PageChange - 每月 19 美元，25 个显示器，webhook 工作 仍然对关键内容运行变更检测，但托管可以节省休闲监控的麻烦。 还有其他人运行混合设置吗？   由   提交 /u/No_District_9136   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s02ntk/hosted_alternatives_to_changedetectionio_for/</guid>
+      <pubDate>Sat, 21 Mar 2026 21:01:06 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个多人快速游戏合集</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzts6y/i_made_a_collection_of_multiplayer_quick_games/</link>
-      <description><![CDATA[      https://nandash.com/ 处理玩家断开连接和滞后的丰富经验将不胜感激任何反馈   由   提交/u/YiPherng  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzts6y/i_made_a_collection_of_multiplayer_quick_games/</guid>
-      <pubDate>Sat, 21 Mar 2026 15:06:52 GMT</pubDate>
+      <title>网站变更检测工具 - 2026 年每个人都在使用什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s02jti/website_change_detection_tools_whats_everyone/</link>
+      <description><![CDATA[构建一个项目，我需要监视外部网站的内容更改（例如：文档更新、竞争对手功能页面等） 要求： - 视觉差异（不仅仅是“某些更改”） - Webhook 支持（需要触发自动化） - 足够可靠，足以信任生产使用 - 理想情况下至少每小时检查一次 我尝试过的： 自托管： -changedetection.io - 可靠，但代理/浏览器的东西对于 JS 重的网站来说很烦人 SaaS： - Visualping - 可以工作，但对于我需要的检查频率来说价格昂贵 - Distill.io - 浏览器扩展方法不太适合服务器端自动化 - PageChange - 一直在测试这个，每月 19 美元获得 webhooks + 视觉差异 + 5 分钟检查更高计划 DIY： - 考虑使用 Puppeteer + S3 + Lambda 进行构建，但对于该项目来说维护不值得 目前倾向于 PageChange 以获得 Webhook 支持 + 合理的定价。但好奇其他人在使用什么？ 有人将变更检测集成到更大的自动化工作流程中吗？很想听听有关架构的信息。   由   提交 /u/No_District_9136   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s02jti/website_change_detection_tools_whats_everyone/</guid>
+      <pubDate>Sat, 21 Mar 2026 20:56:41 GMT</pubDate>
     </item>
     <item>
-      <title>具有自定义 3D UI 和交互式代码执行功能的统一技术招聘平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rztpbq/a_unified_tech_hiring_platform_with_custom_3d_ui/</link>
-      <description><![CDATA[      大家好！ 在过去的几个月里，出于对当前技术招聘市场的纯粹挫败感（苦苦苦读 LeetCode 并做无休无止的无薪带回家项目只是为了迷失方向），我一直在开发一个名为 Nort 的统一测试平台。 这个概念很简单：你需要进行严格的技术、语言和文化适应性测试一次，获得经过验证的个人资料，然后将您的个人资料用于招聘人员，而不是为每个应用程序重新发明轮子。 它尚未完成，目前处于封闭 Alpha 阶段，但 UI 和核心引擎现在正处于我希望得到其他开发人员更多关注的阶段。 到目前为止，我已经构建了独立的代码执行沙箱、入职流程和性格评估引擎。  我对 UI/UX 特别满意。我真的很想避免使用“无聊的公司 Google 表单”。氛围。我添加了平滑过渡、用于评估的键盘导航（您只需使用 1-5 个键来回答）以及英雄部分的一些很酷的 3D 旋转元素。 此外，对于技术测试，我构建了一个调试环境，您可以在其中实际分析真实的堆栈跟踪和 cURL 命令，而不仅仅是反转二叉树（您可以在图库中看到 UI 的屏幕截图！）。 我目前正在努力最终确定高级架构的自动评分逻辑问题，老实说，这是迄今为止最难解决的部分。 （注意：视频/屏幕可能会显示葡萄牙语文本，因为我从第一天开始就构建多语言支持，但该平台已完全本地化为英语！）。 如果您对设计有任何想法、反馈或对整体概念的想法，请务必分享。我很想听听！ 如果您想帮助我对 Alpha 进行压力测试，并在沙盒准备好后尝试打破沙盒，我很荣幸您能加入这里的候补名单：Nort 感谢您查看它！   由   提交/u/EmotionalWishbone303  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rztpbq/a_unified_tech_hiring_platform_with_custom_3d_ui/</guid>
-      <pubDate>Sat, 21 Mar 2026 15:03:34 GMT</pubDate>
+      <title>Inspector Jake：开源 MCP 服务器，让 AI 代理能够控制 Chrome DevTools</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s02jkp/inspector_jake_open_source_mcp_server_that_gives/</link>
+      <description><![CDATA[构建一个 MCP 服务器，将 Claude 等 AI 助手直接连接到您的浏览器。它读取 ARIA 树、捕获屏幕截图、监视控制台/网络请求，并且可以单击并键入元素。 您可以在 DevTools 中固定一个元素，添加一条注释，例如“修复此处的对齐方式”，然后单击“确定”。并由代理人处理。不再需要将 HTML 复制到聊天中。 开源，MIT 许可：https://github.com/inspectorjake/inspectorjake npxspector-jake-mcp 开始使用。   由   提交 /u/upvotes2doge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s02jkp/inspector_jake_open_source_mcp_server_that_gives/</guid>
+      <pubDate>Sat, 21 Mar 2026 20:56:25 GMT</pubDate>
     </item>
     <item>
-      <title>使用 React 和 PostgreSQL 构建了一个免费的 SEO 分析器 - 希望得到反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzto4o/built_a_free_seo_analyzer_with_react_postgresql/</link>
-      <description><![CDATA[       由   提交/u/bankrut   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzto4o/built_a_free_seo_analyzer_with_react_postgresql/</guid>
-      <pubDate>Sat, 21 Mar 2026 15:02:13 GMT</pubDate>
+      <title>[炫耀星期六]我制作了一个漫画主题的割草网站。网上没有太多灵感，所以我想我应该分享一下我们最终制作的东西。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s020nl/showoff_saturday_i_made_a_comic_book_themed_lawn/</link>
+      <description><![CDATA[这是网站 https://lawngoblins.com 这个网站必须在多轮中经历一些重大修改才能得出最终结果。用 html、（更少）css、11ty 静态站点生成器构建，无框架。只是基础知识。 绝对是我们更独特的设计之一。客户和他们向其展示的每个人都对此非常满意。这也是人工智能无法制作的网站的一个很好的例子。我们必须与客户反复讨论，“让它变得更滑稽”和“更滑稽”，最终到达他们满意的地方，我也很高兴。仍然需要推迟一些请求，因为它们使其无法用作网站并且过于分散注意力。因此，我们必须在艺术、主题和网站功能之间找到良好的平衡。我们确实希望设计成为主要焦点，分散对内容的注意力并减少转化。 即使有了人工智能和构建器，仍然有自定义设计的自定义编码网站的空间。好的作品永远不会过时。因此，如果有人正在考虑这样做，并且担心 Ai 和 Wix 以及 DIY 建造者，如果你能解决更多问题并提供更好的服务，那么你就可以在这个行业中立足。尽管有艾，我已经坚强地坚持了七年，并且每年都在成长。所以不要灰心！   由   提交/u/Citrous_Oyster  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s020nl/showoff_saturday_i_made_a_comic_book_themed_lawn/</guid>
+      <pubDate>Sat, 21 Mar 2026 20:34:52 GMT</pubDate>
     </item>
     <item>
-      <title>使用 GitHub Actions 作为免费的 cron 作业来进行网页抓取和数据库更新？需要后端洞察。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rztdoj/using_github_actions_as_a_free_cron_job_for_web/</link>
-      <description><![CDATA[由于我希望在扩展时将运营成本保持在绝对零，因此我完全跳过了设置传统后端服务器的过程。相反，我使用每天运行两次的计划 GitHub 操作。它们触发 Supabase Edge Functions，执行 Playwright/Cheerio 抓取脚本，验证定价数据，并直接写入 Postgres DB。 它现在工作得很好，但我担心随着数据池的增长，扩展此架构或在 Actions 端达到奇怪的速率限制。 还有其他人严重依赖 GitHub Actions 作为他们的主要 cron 基础设施吗？由于没有启动专用工作服务器，我是否会遗漏大量盲点？   由   提交 /u/Dapper-Spring4448   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rztdoj/using_github_actions_as_a_free_cron_job_for_web/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:50:24 GMT</pubDate>
+      <title>Gea – 最快编译的 UI 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s01yw8/gea_the_fastest_compiled_ui_framework/</link>
+      <description><![CDATA[       由   提交/u/arbayi  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s01yw8/gea_the_fastest_compiled_ui_framework/</guid>
+      <pubDate>Sat, 21 Mar 2026 20:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>[周六炫耀] 我建立了 bantr.live 一个注重隐私的随机聊天配置文件/免费注册。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzsyva/showoff_saturday_i_built_bantrlive_a_privacy/</link>
-      <description><![CDATA[    https://preview.redd.it/1imufj80seqg1.png?width=1320&amp;format=png&amp;auto=webp&amp;s=c41e3ee5f829f645d7bde0a7ab4530929456c827 你好， 我独自构建了 bantr.live 花了我大约一年的时间。它是新的，所以可能是一个鬼城（随机高峰时段），因为吸引用户一直很困难，但请检查一下。它不需要个人资料或注册，并且在技术上是匿名的。它的复古紫色看起来确实......每 4-5 个成功连接就会在移动设备上显示广告，以保持服务器运行。非常感谢任何反馈。  周末愉快！   由   提交 /u/BantrChat   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzsyva/showoff_saturday_i_built_bantrlive_a_privacy/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:32:55 GMT</pubDate>
+      <title>我构建了一个专为网络应用程序构建的屏幕录像机。基于 html 布局自动缩放，而不仅仅是光标位置。我希望你喜欢它:)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s01rab/i_built_a_screen_recorder_purpose_built_for_web/</link>
+      <description><![CDATA[      我出于对所有屏幕录像机的自动缩放功能的失望而构建了这个。   在不了解屏幕的情况下盲目跟踪鼠标会产生自动缩放，这总是需要大量的后期编辑。  更糟糕的是，整个自动缩放过渡都被集中到时间轴上的一个块中，因此无法进行调整。您必须删除它并自行恢复手动缩放。   recordio.cc 了解您何时输入、您输入内容的 div 大小和位置。它了解您何时滚动以及是否是整页滚动。它可以理解点击何时导致 URL 更改，因此决定是否添加完全缩小。 当我这样做时，我继续制作了一个带有音乐的全功能编辑器，模糊敏感信息、文本、箭头和轮廓覆盖、背景、自定义地址栏（以删除书签和选项卡混乱、鼠标和键盘效果。 我将免费提供一整月的时间，以换取私人反馈:)   由   提交/u/janajeeno  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s01rab/i_built_a_screen_recorder_purpose_built_for_web/</guid>
+      <pubDate>Sat, 21 Mar 2026 20:24:13 GMT</pubDate>
     </item>
     <item>
-      <title>Keeper.sh：日历同步工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzstrd/keepersh_a_calendar_syncing_tool/</link>
-      <description><![CDATA[      GitHub 存储库 / 项目登陆页面 早在 12 月，我就发布在 r/selfhosted 关于 Keeper.sh，这是我因人们相互预订而感到沮丧而创建的一个工具。它最初只是为了同步日历时间段而构建的，但现已发展成为一个成熟的日历同步工具。 我尝试了一些现有的解决方案，它们要么太贵，要么让我的日历处于永久损坏的状态，无法恢复。 三个月后，我们推出了 v2.9.8。 有关上下文，您可以去阅读 v2.0 帖子、v1.0 帖子。 — 前端是 Vite + Tanstack 路由器 — 所有其他服务都是 Bun — 使用 BullMQ 进行工作队列 — 同步 Google 日历、Outlook、O365、iCloud、Fastmail、（检查您的雇主或学校的 IT 政策）、CalDAV 和ICS。 对于那些想要自行托管的人，自述文件中提供了方便的图像，使设置变得非常简单。请注意，如果您自行托管，我建议您确保您的实例不会暴露在互联网 (VPN) 中，或者使用环境变量将主机列入白名单以防止 SSRF，因为您可以提供 ICS/CalDAV URL。 问题尚未解决，欢迎提出功能请求和错误报告！ 我将在评论中留下更多详细信息。 AI披露，以及一些设计内容！   由   提交/u/fkih   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzstrd/keepersh_a_calendar_syncing_tool/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:26:55 GMT</pubDate>
+      <title>构建一个新的剪辑工具，比 opus 剪辑更好更快</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s016ne/building_a_new_clipping_tool_better_and_faster/</link>
+      <description><![CDATA[嗨，我一直在开发一个剪辑应用程序，希望大家能够测试一下。  它的优点是它不仅仅生成 1-2 分钟的剪辑。如果您上传 2 小时的视频，它会生成 1 分钟到 30 分钟或更长时间的剪辑，具体取决于该片段的自然完成程度。所有部分都是连贯且独立的。剪辑不像作品有时那样在句子中间开始或结束。  包括所有常见的功能，如自动重构、风格化字幕、不同的宽高比等 尝试一下，免费用户可进行 100 分钟的视频处理（仅使用 opus 的 60 分钟）   由   提交/u/Serious-Umpire-8088   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s016ne/building_a_new_clipping_tool_better_and_faster/</guid>
+      <pubDate>Sat, 21 Mar 2026 20:00:56 GMT</pubDate>
     </item>
     <item>
-      <title>你们目前正在建设什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzss6o/what_are_you_guys_building_currently/</link>
-      <description><![CDATA[标题   由   提交 /u/Ouroverse   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzss6o/what_are_you_guys_building_currently/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:25:02 GMT</pubDate>
+      <title>让我们测试您的项目！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s012kj/let_us_test_your_project/</link>
+      <description><![CDATA[嗨，很棒的 pple！ 如果有人参与过一个很棒的项目，该项目有免费层并且可以测试，请告诉我们！ 要么直接私信我们，要么只是将其提交到我们的目录网站！ 我们将根据您声称的项目功能（基于项目）对其进行测试描述！） 如果您有 X 或 LinkedIn 帐户，请在提交过程中添加它，如果您稍后获奖，我们将向您推销！我们还可能会为每日文章和以后的帖子选择一个产品，因此请向我们提供您的社交信息！！   由   提交/u/No_Bend_4915   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s012kj/let_us_test_your_project/</guid>
+      <pubDate>Sat, 21 Mar 2026 19:56:24 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一个免费的发票生成器，无需注册</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzsjvr/i_built_a_free_invoice_generator_no_signup/</link>
-      <description><![CDATA[      登陆页面 我构建了InvoiceBench.com 过去是作为一个副项目。 这个想法很简单——我尝试过的每个免费发票工具都强制您在下载 PDF 之前创建一个帐户。我发现这很烦人，所以我完全删除了它。 技术堆栈：  React + Vite + Tailwind 在浏览器中生成 PDF 部署在 Vercel 上 Pro 层，为想要自定义品牌的用户提供 Supabase auth  它的作用：  打开网站，填写您的详细信息，立即下载专业的 PDF 没有帐户，没有电子邮件，没有摩擦 专业层可用于自定义品牌和模板 - 一次性购买，无需订阅  有趣的技术挑战是让 PDF 输出看起来真正专业，而不是像通用的浏览器打印。如果有人感兴趣，我很高兴能谈谈我是如何做到这一点的。 👉 invoicebench.com 欢迎残酷的反馈——尤其是在 PDF 质量和用户体验方面。   由   提交 /u/Mental_Buddy8728   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzsjvr/i_built_a_free_invoice_generator_no_signup/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:15:02 GMT</pubDate>
+      <title>您的主页也应该是您的登陆页面吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s012fr/should_your_homepage_also_be_your_landing_page/</link>
+      <description><![CDATA[用户体验与 SEO？   由   提交 /u/martis941   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s012fr/should_your_homepage_also_be_your_landing_page/</guid>
+      <pubDate>Sat, 21 Mar 2026 19:56:16 GMT</pubDate>
     </item>
     <item>
-      <title>HeroUI v3 简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzsirw/introducing_heroui_v3/</link>
-      <description><![CDATA[       由   提交 /u/dbbk   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzsirw/introducing_heroui_v3/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:13:42 GMT</pubDate>
+      <title>星期六炫耀 - 耗材/打印机经理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s00yyd/showoff_saturday_filament_printer_manger/</link>
+      <description><![CDATA[      嘿:) 我目前正在构建一个耗材/打印机管理器。 我的目标是让您能够轻松地处理您随时间收集的所有线轴，并在启动打印时尽可能自动记录打印:) 目前已经有数据库中有 7500 多个细丝线轴，用户还可以创建新线轴，它们将在验证后可用:)   由   提交/u/Kontachon   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s00yyd/showoff_saturday_filament_printer_manger/</guid>
+      <pubDate>Sat, 21 Mar 2026 19:52:25 GMT</pubDate>
     </item>
     <item>
-      <title>Chessly Bot - 在 Chessly 上查找特定国际象棋研究的免费工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzsiqo/chessly_bot_a_free_tool_to_find_specific_chess/</link>
-      <description><![CDATA[https://www.chesslybot.com/ Chessly是一个专注于开局理论的国际象棋学习平台。很多时候，玩完游戏后，我想找到针对给定开局位置的具体研究，以更好地理解正确的理论并找到该位置的最佳走法。然而，这在 Chessly 网站上是不可行的。  所以我构建了 Chessly Bot。给定一个 PGN（标准国际象棋符号）或只是一串走法，该应用程序将爬行一棵树，找到 Chessly 路线中的位置，直到您偏离，然后提供下一个最佳走法以及 Chessly 研究的直接 URL，以便进行更深入的研究。  这是一个特定的用例，但却是一个真正的问题解决方案，我认为可以帮助改善 Chessly 用户的体验。  此外，尽管“Chessly”这个词出现了很多次，但我要澄清的是，我与它没有任何关系——只是一个有我想要解决的特定问题的用户。    由   提交 /u/BBQLays   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzsiqo/chessly_bot_a_free_tool_to_find_specific_chess/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:13:39 GMT</pubDate>
+      <title>slot-variants：组件样式实用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s00jk6/slotvariants_utility_for_component_styling/</link>
+      <description><![CDATA[大家好，我已经在一个名为 slot-variants 的小型库上工作了几个月，用于使用 CSS 实用程序类管理组件中的复杂状态，它的灵感来自于 class-variance-authority (CVA) 和 tailwind-variants (TV)。我试图利用这两种方法的最佳部分，并添加一些独特的功能，重点关注人体工程学 API 和高性能（包括基准）。该 API 是 CVA 和 TV API 的超集，因此迁移非常简单，就 CVA 而言，它是直接替代品。该软件包还包括人工智能代理指南，介绍如何使用它、最佳实践和常见模式。 您期望的功能：  变体 API（类似于 CVA 和 TV） 插槽支持（灵感来自 TV） 完整的 TypeScript 支持 可扩展以与 tailwind-merge  独特的功能：  必需的变体（这就是我开始这个库的原因） 预设（用于对经常一起使用的变体进行分组） 有条件的默认变体 LRU缓存（可以配置） 可以事件替换classnames/clsx用法（在最新版本中添加）  如果如果您正在构建设计系统或复杂的 UI 组件，我希望得到反馈、想法或批评。还处于早期阶段，但足够稳定，可以使用，很高兴听到社区的想法！   由   提交/u/imicnic  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s00jk6/slotvariants_utility_for_component_styling/</guid>
+      <pubDate>Sat, 21 Mar 2026 19:34:56 GMT</pubDate>
     </item>
     <item>
-      <title>greencheck：自动修复失败 CI 的 GitHub Action——将日志提供给 Claude Code 或 Codex，让它调查并提交修复</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzsf7h/greencheck_github_action_that_automatically_fixes/</link>
-      <description><![CDATA[       由   提交/u/blackbriar75  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzsf7h/greencheck_github_action_that_automatically_fixes/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:09:25 GMT</pubDate>
+      <title>我建立了一个股票分析平台，希望得到一些诚实的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzzx9q/i_built_a_stock_analysis_platform_and_would_love/</link>
+      <description><![CDATA[大家好， 我一直在从事一个名为 Stocknear 的业余项目，它基本上已经发展成为一个完整的股票分析平台。 最初的目标非常简单：我想要一种无需在一堆不同的网站和工具之间跳转即可研究股票的方法。我尝试过的大多数平台要么感觉太臃肿、太贵，要么就是不适合普通散户投资者。所以我开始构建我自己希望存在的版本。 它是用   SvelteKit TailwindCSS PocketBase FastAPI  现在它包括财务、比率、分析师评级、收益数据、观察列表、筛选器、市场新闻和许多其他股票/公司等内容数据。很多工作不是关于添加功能，而是更多地关于如何呈现大量信息，而不会让整个事情感觉势不可挡或缓慢。老实说，这是一个每个部分最终都比预期更多的工作的项目。处理大型数据集，保持 UI 快速，让一切感觉干净，并尽量不让用户淹没在数字中一直是一个有趣的挑战。 我仍在改进它，但现在我真的很喜欢外部反馈，尤其是来自其他开发人员的反馈。我很好奇你对整体用户体验、性能、布局以及产品是否感觉有用还是过于臃肿有何看法。 链接：https://stocknear.com   由   提交 /u/realstocknear   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzzx9q/i_built_a_stock_analysis_platform_and_would_love/</guid>
+      <pubDate>Sat, 21 Mar 2026 19:10:11 GMT</pubDate>
     </item>
     <item>
-      <title>真正有效的 Figma 到 WordPress 管道 — 开源、Claude Code 支持</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzsekk/figmatowordpress_pipeline_that_actually_works/</link>
-      <description><![CDATA[我经营一个 Web 开发工作室已有 10 多年了，Figma 到生产的交接一直是我最害怕的工作流程的一部分。最终决定对此做点什么，并将结果开源。 Flavian 是一个与 Claude Code 集成的 WordPress 开发框架。您将其指向 Figma 文件，它会：  提取完整的设计系统（颜色、版式、间距标记） 生成 FSE 块主题模板 创建可重用的块模式 处理图像导出和优化  需要 Figma Professional+ 才能访问开发模式。 一切都在 Docker 中本地运行，AI 代理强制执行WordPress 自动编码标准——正确的转义、清理、随机数，所有这些。有 47 个自定义 AI 代理，每个代理专门用于开发工作流程的不同部分（安全审核、性能基准测试、块模式设计等）。 MIT 许可，v1.0.0 刚刚发布：https://github.com/PMDevSolutions/Flavian 路线图：Canva 到 WordPress 转换支持v1.1.0，以及下周发布的几个开源项目！ 希望得到任何从事 WordPress FSE 主题工作的人的反馈，特别是好奇基于代理的方法是否能产生共鸣，或者您是否会以不同的方式构建管道。 编辑：有人在下面发布了帖子，但有一点是，Figma 已经有了导出工具。确实如此，但此模板可以在大约 45 分钟内构建一个完整的功能站点。据我所知，Figma 的导出工具并不能做到这一点。   由   提交 /u/PMDevSolutions   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzsekk/figmatowordpress_pipeline_that_actually_works/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:08:38 GMT</pubDate>
+      <title>我们分析了 418 万亿条 r/webdev 帖子。结果可能会让你大吃一惊！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzzb6s/we_analyzed_418_trillion_rwebdev_posts_results/</link>
+      <description><![CDATA[我厌倦了这个标题模板，总是导致“订阅我的 saas 只需 99 美元/月”对于已经有大量免费开源替代品的工具 /s，以防它不明显   由   提交 /u/mekmookbro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzzb6s/we_analyzed_418_trillion_rwebdev_posts_results/</guid>
+      <pubDate>Sat, 21 Mar 2026 18:45:56 GMT</pubDate>
     </item>
     <item>
-      <title>[Showoff Saturday] 我构建了一个最小但功能强大的待办事项列表 Web 应用程序，其中包含子任务、顺序任务、自定义状态和进度饼图</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzscl1/showoff_saturday_i_built_a_minimal_yet_powerful/</link>
-      <description><![CDATA[      邀请链接：https://picotodo.com/?invite=pico123 大家好 - 我一直在构建一个最小但功能强大的待办事项列表网络应用程序，希望得到您的反馈！我们的想法是让它感觉像在纯文本文件中输入一样快，但有一些附加功能使其更强大：  子任务在父任务上带有饼图进度指示器，以便您一目了然地看到进度。 按顺序解锁的顺序任务，将重点放在当前实际可操作的内容上，而不是一堆复选框上。 自定义复选框状态，例如“正在进行中的工作”和“等待”所以你的待办事项列表反映了现实，而不仅仅是完成/未完成。 截止日期加上简单的“今天”/“稍后”/“完成”视图，以实现轻型看板式的优先级排序。 拖放重新排序和一个小型完成动画，因为完成任务应该感觉良好，而且我可能忘记了一些功能。  很想听听其他开发人员可能有什么反馈以及您要更改或更改的内容添加！   由   提交/u/jquerider  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzscl1/showoff_saturday_i_built_a_minimal_yet_powerful/</guid>
-      <pubDate>Sat, 21 Mar 2026 14:06:20 GMT</pubDate>
+      <title>自托管 Umami for Analytics，以付费服务的形式为客户提供见解</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzyqvx/selfhosting_umami_for_analytics_to_provide/</link>
+      <description><![CDATA[我一直想为客户提供一个仅包含他们自己网站的仪表板链接（看起来非常惊人）。无需登录，只需一个链接。我的实例在 Hetzner 上，全部备份。还有一个选项可以让他们登录，以便他们可以使用其中一个应用程序。每月 10 欧元收费合理吗？或者太多？ 编辑：我还提供托管和维护，所以这是一个附加组件。   由   提交/u/RaspberrySea9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzyqvx/selfhosting_umami_for_analytics_to_provide/</guid>
+      <pubDate>Sat, 21 Mar 2026 18:23:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
