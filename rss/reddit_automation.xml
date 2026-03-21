@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sat, 21 Mar 2026 15:14:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:19:16 GMT</lastBuildDate>
+    <item>
+      <title>n8n 迁移实用程序 - 自动重新连接您的工作流程和数据表</title>
+      <link>https://www.reddit.com/r/automation/comments/1rzu0j5/n8n_migration_utility_automatically_reconnects/</link>
+      <description><![CDATA[ 由   提交/u/kaiz3npho3nix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1rzu0j5/n8n_migration_utility_automatically_reconnects/</guid>
+      <pubDate>Sat, 21 Mar 2026 15:16:21 GMT</pubDate>
+    </item>
     <item>
       <title>Vibe 在 2 个月内编写了 SaaS</title>
       <link>https://www.reddit.com/r/automation/comments/1rztisv/vibe_coded_a_saas_in_2_months/</link>
@@ -90,13 +97,6 @@
       <pubDate>Fri, 20 Mar 2026 10:23:11 GMT</pubDate>
     </item>
     <item>
-      <title>上个季度，硅酮喷雾杀死了我们滑板上的三个 LEL 传感器</title>
-      <link>https://www.reddit.com/r/automation/comments/1ryrtd4/silicone_spray_killed_three_lel_sensors_on_our/</link>
-      <description><![CDATA[维护人员在附近的一些阀门执行器上使用硅酮润滑剂。没有人再三考虑，因为该工作距离气体检测面板有 20 英尺。事实证明，催化珠传感器吸收了足够的硅蒸气，使它们永久中毒。他们没有报警或故障——他们只是停止检测气体。我们只是在季度碰撞测试中发现了这个问题，当时三个人都没有对校准气体做出反应。 修复方法是将该区域更换为红外点探测器，因为它们不会中毒。但真正的问题是，维护方面没有人知道有机硅是传感器杀手，而仪表人员也不知道维护人员在设备附近的任何地方喷洒有机硅。 最终将其添加到该区域的工作许可证清单中 - 催化珠传感器 50 英尺内的任何气溶胶或喷雾工作都需要临时抑制和工作后碰撞测试。 还有其他人处理过维护活动和安全仪表系统之间的交叉污染吗？ 还有其他人处理过维护活动和安全仪表系统之间的交叉污染吗？   由   提交 /u/WhichWayIsTheB4r   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ryrtd4/silicone_spray_killed_three_lel_sensors_on_our/</guid>
-      <pubDate>Fri, 20 Mar 2026 09:39:16 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能工作流程工具是否真正取代了传统自动化，或者只是在上面添加了一层</title>
       <link>https://www.reddit.com/r/automation/comments/1ryoi8t/are_ai_workflow_tools_actually_replacing/</link>
       <description><![CDATA[我已经使用人工智能驱动的工作流程工具几个月了，说实话，我很困惑。一些带有多代理设置和自然语言构建的东西确实令人印象深刻，比我在传统平台上所做的任何事情都要快得多。但每次我尝试将其推向更复杂或更关键的业务时，它就开始崩溃。黑匣子决策让人很难相信任何真正重要的事情，而且我遇到过一些情况，一个代理做自己的事情只是破坏了整个流程。感觉它增强了我已有的东西，而不是彻底取代它。我不断看到人们抛出巨大的效率数字，我得到了吸引力，特别是对于无法雇用运营人员的小型团队。但我很好奇其他人在实践中是如何实际运行的。您是否正在为任何严肃的事情采用完整的人工智能工作流程，或者它更像是一种混合的东西，其中传统平台处理可靠的东西，而人工智能则位于最上面以做出更明智的决策？   由   提交/u/Dailan_Grace  [链接] [评论]]]></description>
@@ -104,7 +104,7 @@
       <pubDate>Fri, 20 Mar 2026 06:11:36 GMT</pubDate>
     </item>
     <item>
-      <title>Zapier比n8n更可靠，对吧？</title>
+      <title>Zapier比n8n更可靠，对吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1rymp2e/zapier_is_more_reliable_than_n8n_right/</link>
       <description><![CDATA[我经常阅读有关 n8n 工作流程如何轻松中断（包括简单的工作流程）的评论，很多时候这甚至不是我们的错，而是因为 API 或 Webook 在没有通知的情况下从第三方工具更改/更新。这需要我们进行维护。 在我看来，比 Zapier 有更“直接”的方法。或者内部团队更注重集成 Google Workspace、Zoom、Slack 等其他应用程序。因此，Zapier 比 N8N 更不可能出现故障或需要维护（包括基本工作流程）（这里谈论云是为了公平比较，而不是自托管）？ 我曾尝试就此询问不同的人，但没有人能够给我答案   由   提交 /u/helloyouahead   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1rymp2e/zapier_is_more_reliable_than_n8n_right/</guid>
