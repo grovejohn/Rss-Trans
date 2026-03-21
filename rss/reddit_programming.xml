@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 21 Mar 2026 04:22:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 06:29:31 GMT</lastBuildDate>
+    <item>
+      <title>大型语言模型是如何构建的以及它们是如何工作的</title>
+      <link>https://www.reddit.com/r/programming/comments/1rzjf1r/how_large_language_models_are_built_and_how_they/</link>
+      <description><![CDATA[每个人都在使用法学硕士。很少有人真正了解幕后发生的事情。 如果您是一名将 GPT-5 集成到产品中的工程师、一名确定 AI 功能范围的 PM，或者是一名试图在微调和提示之间做出决定的创始人，那么您需要的不仅仅是表面的直觉。您需要了解使这些模型发挥作用的机制。 本文就是该演练。我们将追踪大型语言模型的整个生命周期：从原始互联网文本到可以写诗、调试代码和（偶尔）以惊人的信心产生幻觉的系统。 不需要博士学位。只是好奇心和对大数字的容忍度。   由   提交 /u/Frosty-Judgment-4847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rzjf1r/how_large_language_models_are_built_and_how_they/</guid>
+      <pubDate>Sat, 21 Mar 2026 05:34:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>第 1 章重装上阵：双核轻任务 - 两个核心上的 LED 闪烁</title>
+      <link>https://www.reddit.com/r/programming/comments/1rzj4hl/chapter_1_reloaded_dualcore_light_tasking/</link>
+      <description><![CDATA[ 由   提交 /u/unitedbsd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rzj4hl/chapter_1_reloaded_dualcore_light_tasking/</guid>
+      <pubDate>Sat, 21 Mar 2026 05:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trivy 再次受到攻击：广泛的 GitHub Actions 标签泄露暴露了 CI/CD 秘密</title>
+      <link>https://www.reddit.com/r/programming/comments/1rzivdh/trivy_under_attack_again_widespread_github/</link>
+      <description><![CDATA[ 由   提交 /u/ScottContini   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1rzivdh/trivy_under_attack_again_widespread_github/</guid>
+      <pubDate>Sat, 21 Mar 2026 05:03:39 GMT</pubDate>
+    </item>
     <item>
       <title>用 TypeScript 重写我们的 Rust WASM 解析器 |论文工程团队</title>
       <link>https://www.reddit.com/r/programming/comments/1rzfwwy/rewriting_our_rust_wasm_parser_in_typescript/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/ketralnis  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1rz2kyq/bitfield_pitfalls/</guid>
       <pubDate>Fri, 20 Mar 2026 17:27:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>无尾德诺</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz2kv4/the_tailless_deno/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz2kv4/the_tailless_deno/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:27:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>从示波器到 Wireshark：UDP 故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz2hs2/from_oscilloscope_to_wireshark_a_udp_story/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz2hs2/from_oscilloscope_to_wireshark_a_udp_story/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:24:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>不需要分号</title>
-      <link>https://www.reddit.com/r/programming/comments/1rz2hkx/no_semicolons_needed/</link>
-      <description><![CDATA[ 由   提交 /u/ketralnis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1rz2hkx/no_semicolons_needed/</guid>
-      <pubDate>Fri, 20 Mar 2026 17:24:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
