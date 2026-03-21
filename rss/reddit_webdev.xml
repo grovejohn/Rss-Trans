@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 21 Mar 2026 09:21:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 12:23:55 GMT</lastBuildDate>
     <item>
-      <title>使用 Svelte + Google Sheets 作为数据库构建了这个费用跟踪器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzmwli/built_this_expense_tracker_using_svelte_google/</link>
-      <description><![CDATA[ 由   提交/u/convicted_redditor   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzmwli/built_this_expense_tracker_using_svelte_google/</guid>
-      <pubDate>Sat, 21 Mar 2026 09:11:39 GMT</pubDate>
+      <title>[周六炫耀] 一周前我在这里发布了 ApiArk - 刚刚获得了 750+ GitHub star。这个社区让这件事发生了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzpyx4/showoff_saturday_i_posted_apiark_here_a_week_ago/</link>
+      <description><![CDATA[   几个月前的一个周六，我在这里发布了 ApiArk - 一个使用 Tauri（Rust + React）构建的开源、隐私第一的 Postman 替代品。反应非常疯狂。 那篇文章真正改变了项目的发展轨迹。我们现在拥有 750 多个星星和 874 次下载 - 全部是有机的、零付费的促销。只是想说声谢谢。如果您错过了：无需登录，无需云，~60MB RAM。 只是想说声谢谢。如果您错过了：无需登录，没有云，~60MB RAM。 🔗 https://github.com/berbicanes/apiark 🌐 https://apiark.dev   由   提交/u/ScarImaginary9075  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzpyx4/showoff_saturday_i_posted_apiark_here_a_week_ago/</guid>
+      <pubDate>Sat, 21 Mar 2026 12:15:38 GMT</pubDate>
     </item>
     <item>
-      <title>React XP - 我使用 React 和 Typescript 对 Windows XP 进行真实的娱乐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzmut5/react_xp_my_authentic_recreation_of_windows_xp/</link>
-      <description><![CDATA[      大家好！ 在过去的几个月里，我一直致力于在 React 中重新创建 Windows XP。为什么？我不能告诉你，但这仍然是一个正在进行的项目，仍然有很多我希望实现的功能。 它还没有完成，但现在我希望得到更多关注。 到目前为止，我已经添加了初始启动顺序、注销/关闭功能、文件资源管理器、Internet Explorer（带有 Wayback Machine）、记事本、运行窗口以及主题调整和可移动桌面等功能图标和窗口，可能还有很多我忘记提及的其他内容。 我对“显示属性”窗口中包含的选项特别满意。所有三个默认 XP 主题以及一些其他设置都已实现。 我目前正在为其构建纸牌游戏，该版本目前包含在演示中。虽然它目前还没有获胜动画，因为我不确定如何达到预期的效果。 如果您对该项目有任何想法或反馈，请务必分享。我很想听听！ 无论如何，这是演示：https://react-xp.jamiepates.com/ 这是 GitHub 项目：https://github.com/Cyanoxy/react-xp 感谢您查看！ 🙂   由   提交/u/Xianicide  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzmut5/react_xp_my_authentic_recreation_of_windows_xp/</guid>
-      <pubDate>Sat, 21 Mar 2026 09:08:21 GMT</pubDate>
+      <title>我构建了一个 LifeGraph 应用程序，可将目标转化为互联的路线图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzpx0a/i_built_a_lifegraph_app_that_turns_goals_into/</link>
+      <description><![CDATA[大家好！  我一直在构建LifeGraph，这是一个网络应用程序，它将目标转变为相互关联的视觉路线图，而不是平面的待办事项列表。 这个想法是，有些目标对于普通的清单来说太混乱了，所以我想构建一些东西，使目标的结构更容易在前端查看和交互。 在此处阅读更多关于这个想法的内容 https://lifegraph.tech/blog/life-is-not-a-to-do-list  我在构建它时关注的一些事情：  基于交互式图形的 UI 视觉任务/目标关系 人工智能辅助目标分解 跨连接的进度跟踪步骤 尝试平衡运动/润色与清晰度和性能  使用Next.js + TypeScript + PG 构建Neo4j 图形数据库，并且很多挑战是使界面感觉直观和动态，而不使其变得混乱。 很乐意分享它并听听人们对这个概念和生产力方法的看法。    由   提交/u/pro1code1hack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzpx0a/i_built_a_lifegraph_app_that_turns_goals_into/</guid>
+      <pubDate>Sat, 21 Mar 2026 12:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>[周六炫耀] 我测试了 50 个 AI 应用程序的注入攻击提示 — 90% 的得分为“严重”。因此建立了一个提示扫描仪。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzmo2m/showoff_saturday_i_tested_50_ai_app_prompts_for/</link>
-      <description><![CDATA[上周我在这里发布了 VibeWrench（Vibe 编码应用程序的安全扫描器），它得到的关注比预期要多。 1.6K浏览量，好评。有几个人专门询问了提示注入，这让我陷入了困境。 上下文：我使用 Claude Code 构建了一个应用程序，扫描了我自己的代码，在源代码中找到了 API 密钥。之后构建了一个扫描器，在 100 个公共存储库上运行，发现了 318 个漏洞。不过，这都是代码/基础设施的东西。 这些存储库中有很多都具有人工智能功能。聊天机器人、助手、内容生成器。我一直想知道当有人真的试图扰乱提示时会发生什么。 从公共 GitHub 存储库中抓取了 50 个系统提示。基于 OWASP LLM01 对它们进行了针对 10 个攻击类别的测试。结果比代码安全扫描差。 数字：   指标 结果    测试的应用 50   平均提示安全得分 3.7 / 100   中位数 0   得分为“临界”（低于 20） 45 (90%)   系统提示可提取 38 (76%)   完全为零防御 35 (70%)   平均分：3.7 分（满分 100 分）。所有 50 分中的最高分是 28 分。没有人破解 30 分。 一些最差的分值：  一个代码解释器有一个162个字符的系统提示符。得分：0。这个东西可以运行任意代码，162 个字符是“有用的编码助手”和“有用的编码助手”之间的整个安全边界。和“按照用户所说的去做。” Google Sheets 集成，也是 0。共享电子表格中的任何单元格都可以将命令注入人工智能。没有人认为电子表格单元格是攻击面。他们是。 Cloudflare API 代理。满分 100 分 5 分。实时基础设施访问。我盯着那个机器人看了一会儿。  为什么这种情况不断发生： 你告诉人工智能工具“为我构建一个聊天机器人”，然后它就会出现。它构建了一个聊天机器人。用户发送消息，AI 响应。完毕。没有人会提示“还要确保我的系统提示无法提取”或“在达到 LLM 之前验证用户输入。”编写代码的人工智能并不知道有人试图操纵它正在构建的人工智能。设计上的盲点。 如果你提出好意，76% 的应用程序会转储整个系统提示。定价信息、公司背景、API 模式、内部指令，全部都放在那里。 提示扫描器的作用： 粘贴您的系统提示，它会针对它运行 10 个攻击类别（角色劫持、指令覆盖、上下文操作、数据提取等）。你会得到一个分数、具体的发现，对于任何失败的事情，它都会生成一个强化的提示，你可以作为替代品。我花了很长时间才在自己的应用程序上手动完成此操作。现在大约是 15 秒。 它还不能做什么：  单独测试您的提示，而不是在完整应用程序的上下文中。针对实际的 LLM 端点进行测试需要 API 访问，这完全是一个不同的项目。 某些攻击类别比其他攻击类别效果更好。角色劫持检测很可靠，但微妙的上下文操纵更难捕获。 只有我在构建这个。存在粗糙边缘。正在努力。  免费试用：viwrench.dev 技术堆栈（上次有人问过）：Python、FastAPI、用于应用程序扫描仪的 Playwright、用于 AI 分析的 DeepSeek V3、PostgreSQL。提示扫描器使用 OWASP LLM01 类别的结构化测试，而不是随机越狱尝试。仍在一台 Hetzner 机器上运行。 有关提示注入方法的完整撰写：https://dev.to/vibewrench/i-tested-50-ai-app-prompts-for-injection-attacks-90-scored-ritic-17aj 如果你想戳数据中的漏洞或谈论测试管道，我就在附近。   由   提交 /u/Inevitable_Board4896   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzmo2m/showoff_saturday_i_tested_50_ai_app_prompts_for/</guid>
-      <pubDate>Sat, 21 Mar 2026 08:56:33 GMT</pubDate>
+      <title>React 逃生舱口是否故意泄漏抽象？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzpnr5/are_react_escape_hatches_intentionally_leaky/</link>
+      <description><![CDATA[useEffect 和 ref 是否可以被视为故意泄漏，如angerlySetInnerHTML？ 库中的逃生舱口实际上是泄漏抽象吗？ 我并不特别关心 React，我只是想清楚地了解泄漏抽象是什么   由   提交 /u/w333l   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzpnr5/are_react_escape_hatches_intentionally_leaky/</guid>
+      <pubDate>Sat, 21 Mar 2026 11:59:30 GMT</pubDate>
     </item>
     <item>
-      <title>将杂货订单历史转化为节省、支出洞察、二氧化碳跟踪和营养分析</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzmnaw/turning_grocery_order_history_into_savings/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzmnaw/turning_grocery_order_history_into_savings/</guid>
-      <pubDate>Sat, 21 Mar 2026 08:55:08 GMT</pubDate>
+      <title>我构建了一种在任何框架中创建精美的线性风格 UI 的简单方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzpa9u/i_built_an_easy_way_to_create_polished/</link>
+      <description><![CDATA[      TL;DR: https://windframe.dev/styles/linear 大家好👋 我一直在尝试生成界面，其灵感来自于通常与 Linear 相关的干净、结构化样式。重点关注排版、间距和布局清晰度，而不是繁重的视觉装饰。 我整理了围绕这种风格构建的模板集合，这些模板可以直接在任何项目中作为起点使用。  模板可以在此处找到： https://windframe.dev/styles/linear 在 Windframe 上生成模板时，我还将此设置为可选样式选项，因此您可以选择受线性启发的预设样式，为您创建的任何界面提供干净、优雅的外观。 致力于通过 MCP 提供此功能，并考虑围绕此创建 CC 和其他 CLI 工具的技能。 感谢反馈/想法:)   由   提交/u/Speedware01  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzpa9u/i_built_an_easy_way_to_create_polished/</guid>
+      <pubDate>Sat, 21 Mar 2026 11:38:29 GMT</pubDate>
     </item>
     <item>
-      <title>新功能：多段斜角</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzmcte/new_feature_multisegment_bevels/</link>
-      <description><![CDATA[      3d 建模网络应用程序。 实时项目：https://kokraf.com/ 源代码：https://github.com/sengchor/kokraf   由   提交/u/Sengchor  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzmcte/new_feature_multisegment_bevels/</guid>
-      <pubDate>Sat, 21 Mar 2026 08:35:29 GMT</pubDate>
+      <title>烤我的网站 pt。 2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzp3f9/roast_my_website_pt_2/</link>
+      <description><![CDATA[      你好，我和我的朋友建立了一个名为 pickGPU 的业余项目 https://pickgpu.com/ 这个想法来自于试图弄清楚 GPU 是否真的很划算的挫败感。大多数网站都会显示基准或价格，但您最终会在一堆选项卡之间来回切换，试图弄清楚哪张卡实际上最有价值。 因此，我们构建了一个将 GPU 性能与实时价格相结合的工具。 它的作用： - 从 Amazon 和 eBay 获取新的和二手的实时价格 - 将它们与 Tom&#39;s Hardware 的基准数据相结合 - 计算美元/FPS，以便您可以快速计算查看最具价值的 GPU 我们几年前就开始了这个项目，后来搁置了它，最近又重新开始。很高兴终于让它处于值得再次分享的状态。事实上，我们几年前就在这里发过帖子，只是说事情进展得并不顺利🙈 - 有什么令人困惑的地方吗？ - 哪些功能会让这个更有用？ - 任何和所有的想法都值得赞赏，无论好坏。   由   提交/u/jasoncaserta  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzp3f9/roast_my_website_pt_2/</guid>
+      <pubDate>Sat, 21 Mar 2026 11:27:56 GMT</pubDate>
     </item>
     <item>
-      <title>我找到了一种免费托管全栈网站的方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzm6c7/i_found_a_way_to_host_fullstack_websites_for_free/</link>
-      <description><![CDATA[大家好:) 我最近找到了一种免费托管全栈网站或 Telegram 机器人且不会丢失任何内容的方法。我只是想分享我发现的一些东西。也许这些信息对某人有用。 我认为前端托管没有任何问题，我喜欢使用 Vercel。但问题是在哪里托管后端。我尝试了很多不同的平台，我最喜欢的是 Render，它有免费套餐。您可以在那里部署后端。 但是，免费套餐有一个问题，它会在 15 分钟不活动后进入睡眠状态。使用 UptimeRobot 服务可以轻松解决这个问题。 要使用此方法托管 Telegram 机器人，您需要在代码中添加监听端口。这是一种解决方法，但它确实有效。 我还要补充一点，这更适合小型网站、小型项目或原型。 您对此有何看法以及这些信息有多大帮助？   由   提交/u/sh4manik  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzm6c7/i_found_a_way_to_host_fullstack_websites_for_free/</guid>
-      <pubDate>Sat, 21 Mar 2026 08:23:44 GMT</pubDate>
+      <title>我构建了一个小型的高级 UI 交互库，您可以复制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzov0g/i_built_a_small_library_of_premium_ui/</link>
+      <description><![CDATA[最近一直在研究 ui 交互（页面转换、文本显示、按钮等），并意识到大多数人工智能工具仍然难以重新创建良好运动的“感觉” 因此我开始整理一个小型交互库，您可以将其复制/粘贴到您的项目中 我关注的一些内容：  实际感觉的东西“高级”（不仅仅是通用模板） 用人工智能正确提示有点烦人 干净到足以投入实际项目而无需对抗它  如果你只是想尝试一下，还有一些免费的：https://www.edge.supply/vault 还添加了一个“副本”提示”的东西，这样你就可以将它粘贴到你的人工智能工具中，它会重新创建交互（在正确的设置下效果非常好） 如果你检查一下，我会喜欢一些诚实的反馈，仍然弄清楚什么是真正有用的   由   提交/u/Affectionate_Power99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzov0g/i_built_a_small_library_of_premium_ui/</guid>
+      <pubDate>Sat, 21 Mar 2026 11:14:24 GMT</pubDate>
     </item>
     <item>
-      <title>我如何使用 MCP 应用程序在我的 AI 代理聊天流中构建交互式 UI（来源 + 评论中的教程，感谢反馈）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzm4tn/how_i_built_interactive_ui_in_my_ai_agent/</link>
-      <description><![CDATA[   /u/ashitaprasad  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzm4tn/how_i_built_interactive_ui_in_my_ai_agent/</guid>
-      <pubDate>Sat, 21 Mar 2026 08:21:03 GMT</pubDate>
+      <title>这里有人使用人工智能/无代码工具运送过一些严肃的东西吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzoukd/anyone_here_shipped_something_serious_using/</link>
+      <description><![CDATA[嘿，最近看到很多人使用 bubble、emergent 和其他人工智能构建器构建东西 - 比如应用程序在几天而不是几个月内构建出来，这确实有点疯狂。但我很好奇其背后的真实经历。对于那些真正使用过这些工具的人来说，你能走多远——只是 MVP 或者更严肃的东西？您后来是否遇到过有关扩展、性能或限制的问题？总的来说，它是否真的帮助你以有意义的方式更快地前进，还是在某一点之后事情开始变得混乱？只是想了解这些工具是否真的可以帮助人们构建真正的产品，或者它们是否主要用于快速实验。很想听到诚实的经历，无论好坏。   由   提交/u/technichea  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzoukd/anyone_here_shipped_something_serious_using/</guid>
+      <pubDate>Sat, 21 Mar 2026 11:13:39 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一款浏览器游戏，您可以使用真实的消费者法对抗企业人工智能机器人 - 现在有 37 个案例</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzluht/i_built_a_browser_game_where_you_fight_corporate/</link>
-      <description><![CDATA[      它是什么： 37 个级别，每个级别都是企业或政府人工智能，错误地拒绝了你的某些操作 - 航班退款、签证、医疗授权、零工工人停用。 你用真正的法律进行反驳。当你找到正确的论点时，人工智能的信心就会下降。 本周新增内容：每次获胜后都会出现“你刚刚使用的内容”。小组 - 您引用的法律、其实际含义以及您在实际纠纷中如何使用它。一日构建显着改变了感觉。 堆栈： Vanilla JS、Node/Express、Claude Haiku 作为 AI 引擎。每个机器人都有一个带有阻力评分系统的系统提示 - Claude 每回合都会返回 {message,阻力,outcome} JSON，游戏会直接读取它。 有趣的部分：提示设计。每个机器人都有个性、起始阻力 (60-95) 以及可按规定数量减少阻力的具体法律论据。主要的挑战是克劳德在敏感场景（医疗否认、残疾）上打破角色，宣布它是由 Anthropic 制作的。通过在系统提示符中将整个事情框架为教育模拟器来修复。 fixai.dev - 免费，请查看:) 寻找诚实的反馈。   由   提交/u/EveningRegion3373  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzluht/i_built_a_browser_game_where_you_fight_corporate/</guid>
-      <pubDate>Sat, 21 Mar 2026 08:02:48 GMT</pubDate>
+      <title>Mandelbrot.js - 我使用 WebGL 在浏览器中制作了一个分形浏览器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzole0/mandelbrotjs_i_made_a_fractal_explorer_in_the/</link>
+      <description><![CDATA[      大家好， 我制作了一个在线 Mandelbrot 集分形浏览器。 请随意尝试 https://mandelbrot.musat.ai，代码开源于https://github.com/tiberiu02/mandelbrot-js，很高兴听到您的想法！ 以下是图片中坐标的链接。请注意，某些视图需要比其他视图更多的迭代。如果您使用的是手机或旧设备，某些视图可能需要一段时间才能呈现。  （视频） https://mandelbrot.musat.ai?x=-0.10066630920541&amp;y=-0.95651249869989&amp;z=1.9e13&amp;p=gold&amp;i=256  https://mandelbrot.musat.ai?x=-0.4966724109&amp;y=0.5241933171&amp;z=1.1e9&amp;p=gold&amp;i=256  https://mandelbrot.musat.ai?x=-1.3996669890&amp;y=0.0005429063&amp;z=3.7e%2B9&amp;p=gold&amp;i=256  https://mandelbrot.musat.ai?x=-0.10659987536&amp;y=0.89156619171&amp;z=1.2e%2B10&amp;p=gold&amp;i=256 （非常高的迭代） https://mandelbrot.musat.ai?x=-0.10657132888794&amp;y=0.89157405336556&amp;z=1.0e%2B14&amp;p=gold&amp;i=2048 （非常高的迭代） https://mandelbrot.musat.ai?x=-0.1065713290097&amp;y=0.8915740532688&amp;z=1.0e%2B12&amp;p=gold&amp;i=2048  https://mandelbrot.musat.ai?x=-0.75121828146&amp;y=0.02892661765&amp;z=2.3e%2B10&amp;p=gold&amp;i=256 （极端迭代） https://mandelbrot.musat.ai?x=-0.7513290947342&amp;y=0.0289556420434&amp;z=1.9e%2B12&amp;p=gold&amp;i=8192 （非常高的迭代） https://mandelbrot.musat.ai?x=-0.75142646&amp;y=0.02900766&amp;z=5.0e%2B7&amp;p=fire&amp;i=2048  https://mandelbrot.musat.ai?x=-1.14560745357&amp;y=0.21005888404&amp;z=5.2e%2B10&amp;p=rainbow&amp;i=64 （高迭代） https://mandelbrot.musat.ai?x=-1.4858075493&amp;y=-0.0372131038&amp;z=1.9e%2B9&amp;p=fire&amp;i=512  以下是有关其内部工作原理的更多信息：  深度缩放 (10^14)： 使用 WebGL 双精度仿真，您可以放大高达一百万亿倍。我使用了对数调色板，因此颜色在任何深度都看起来很棒。 渐进式渲染：它在平移/缩放时显示即时低分辨率预览，然后将其细化为高达 8 倍子像素采样的高分辨率。 四树图块缓存：它的设计非常高效，不会两次计算相同的像素。它会缓存渲染的图块并主动对屏幕外图块进行垃圾收集。 动态迭代缩放：为了确保当您深入研究时集合不会变成纯黑色斑点，应用程序会自动增加最大迭代计数。    由   提交 /u/childish101dream   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzole0/mandelbrotjs_i_made_a_fractal_explorer_in_the/</guid>
+      <pubDate>Sat, 21 Mar 2026 10:58:44 GMT</pubDate>
     </item>
     <item>
-      <title>请评价我的作品集:)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzltsc/please_rate_my_portfolio/</link>
-      <description><![CDATA[我主要使用claude AI制作，3d模型使用blender，技术堆栈是vercel、 Three.js、supabase（尚未实现） www.makramboukaiz.com   由   提交/u/Savings_Wolverine408  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzltsc/please_rate_my_portfolio/</guid>
-      <pubDate>Sat, 21 Mar 2026 08:01:31 GMT</pubDate>
+      <title>建立了一个网站质量检查工具，想知道是否有人会真正使用它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzohny/built_a_website_qa_tool_wondering_if_anyone_would/</link>
+      <description><![CDATA[制作了一个名为 SiteVett 的东西（尚未启动，仍在构建中）。将其指向一个 URL，它就会抓取该网站并检查损坏的链接、拼写错误、SEO 漏洞、安全标头等。  我认为有两点与现有的有所不同：它使用人工智能来捕获屏幕截图来捕获视觉问题，例如不可靠的间距、一致性、对比度或不匹配的按钮。它会填写并提交联系表单，而不仅仅是检查页面上的联系表单。 它会输出一份包含分数和详细调查结果的报告。免费套餐或 9 英镑套餐以获得更多使用和功能。 主要是因为我不知道这是否解决了人们实际遇到的问题或者这个市场是否有空间，所以发帖。在启动网站之前，您通常使用什么进行质量检查？很想知道这是否毫无意义。 不要发布任何链接，这不是广告，这只是研究。 我想要的东西可以做与更昂贵的工具一样多的事情，并且可以用更少的钱做更多的事情。   由   提交 /u/Ancient_Guitar_9852   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzohny/built_a_website_qa_tool_wondering_if_anyone_would/</guid>
+      <pubDate>Sat, 21 Mar 2026 10:52:19 GMT</pubDate>
     </item>
     <item>
-      <title>我们刚刚发布了第一个drawline-core npm 包，它为drawline.app 提供启发式模糊匹配以推断关系，并通过有向图执行模型生成依赖关系感知数据。 https://www.npmjs.com/package/@solvaratech/drawline-core</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzltou/we_just_released_our_first_npm_package_of/</link>
-      <description><![CDATA[       由   提交/u/Complete-Ad-240   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzltou/we_just_released_our_first_npm_package_of/</guid>
-      <pubDate>Sat, 21 Mar 2026 08:01:23 GMT</pubDate>
+      <title>[Showoff Saturday] 我创建了一个论坛来讨论和跟踪媒体，您无需帐户即可在其中发帖</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzohc7/showoff_saturday_i_created_a_forum_to_discuss_and/</link>
+      <description><![CDATA[      umigalaxy.com 用户可以自由地在没有帐户的情况下匿名发帖，但如果他们想创建一个，他们也可以加入氏族、联盟并跟踪他们的媒体。您可以讨论和跟踪：  动漫和动漫漫画 电影和电影电视节目 电子游戏  过来打个招呼！   由   提交 /u/AutoMick   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzohc7/showoff_saturday_i_created_a_forum_to_discuss_and/</guid>
+      <pubDate>Sat, 21 Mar 2026 10:51:44 GMT</pubDate>
     </item>
     <item>
-      <title>我为 50 系列 GPU 构建了一个 VRAM 计算器，因为我厌倦了 OOM 错误（无广告/无跟踪）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzlrz7/i_built_a_vram_calculator_for_the_50series_gpus/</link>
-      <description><![CDATA[每次我尝试运行本地 LLM（DeepSeek-V3 或新的 Llama 4 泄漏）时，我都会猜测我的 VRAM 是否能承受。大多数在线计算器都已经过时，或者没有考虑到较新的 50 系列架构的 KV 缓存开销。 因此，我构建了 ByteCalculators。 这是一个简单的零依赖工具，用于：  50 系列支持： RTX 5090 / 5080 VRAM 逻辑。 上下文缩放：了解 128k 上下文实际上如何消耗您的内存。 量化：立即比较 4 位与 8 位要求。  我保持包大小很小，UI 干净。没有“人工智能影响者”时事通讯或注册。只是数学。 希望获得一些有关 UI/UX 的反馈。是“重试税”吗？对于一般的开发工具来说逻辑太晦涩了？ 链接：https://bytecalculators.com/llm-vram-calculator   由   提交/u/abarth23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzlrz7/i_built_a_vram_calculator_for_the_50series_gpus/</guid>
-      <pubDate>Sat, 21 Mar 2026 07:58:28 GMT</pubDate>
+      <title>我在浏览器中构建了乐高风格的节拍音序器（BrickBeats）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzoe50/i_built_a_legostyle_beat_sequencer_in_the_browser/</link>
+      <description><![CDATA[      我一直在致力于一个名为 BrickBeats 的基于浏览器的音乐实验。 我们的想法是制作一些感觉更像构建而不是编程的东西，而不是传统的步进音序器。 每个 2×2 积木代表一种乐器（底鼓、军鼓、踩镲等），您可以将它们放在通道上创建节奏。 音高是物理的： • 1 块砖= 低 • 2 块堆叠的砖= 中 • 3 块堆叠的砖= 高 因此，您可以通过堆叠砖来改变声音。平面网格和等距视图之间还有切换，因此节拍变成了小型 3D 砖结构。 我还尝试将图像转换为节拍模式。 好奇其他开发人员对交互和用户体验的看法。 https://brick-beats.web.app/   由   提交/u/TitleExpert9817  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzoe50/i_built_a_legostyle_beat_sequencer_in_the_browser/</guid>
+      <pubDate>Sat, 21 Mar 2026 10:46:12 GMT</pubDate>
     </item>
     <item>
-      <title>Foldgram：自托管本地照片库，具有 Instagram 风格的提要和布局</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzljbl/foldergram_selfhosted_local_photo_gallery_with_an/</link>
-      <description><![CDATA[      我为我的旧备份照片构建了一个小型自托管照片/视频图库，因为我想要一些感觉像滚动 Instagram 风格的提要的东西，但用于我自己的离线收藏。 我之前尝试过很多图库应用程序，但这个感觉不同。感觉不太像是浏览文件，而更像是浏览我自己的旧“帖子”。它实际上让重温照片变得有趣，尽管我不太喜欢在社交媒体上发帖。 非常感谢反馈，尤其是来自尝试过其他自托管图库应用程序的人的反馈。 存储库：https://github.com/foldergram/foldergram 文档：https://foldergram.github.io/ 演示：https://foldergram.intentdeep.com/   由   提交/u/sajjadalis  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzljbl/foldergram_selfhosted_local_photo_gallery_with_an/</guid>
-      <pubDate>Sat, 21 Mar 2026 07:42:36 GMT</pubDate>
+      <title>Clerk 与 SUPABASE AUTH 进行身份验证。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzodwl/clerk_vs_supabase_auth_for_auth/</link>
+      <description><![CDATA[嘿，伙计们，计划构建一个个人项目并可能使用supabase db。后端fastapi，前端nextjs。对于身份验证，我应该与职员或 SUPABASE 身份验证一起去。我知道 supabase 与他们的数据库集成得很好。但我会有自己的后端，所以这并不重要。  我听说店员有更好的开发体验，几乎所有东西都为你分类。尽管它可能只是营销材料，但在大多数情况下，supabase 可能几乎同样有效。如果您有这方面的经验和任何建议，请告诉我。    由   提交/u/Concient_Tutor_597   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzodwl/clerk_vs_supabase_auth_for_auth/</guid>
+      <pubDate>Sat, 21 Mar 2026 10:45:47 GMT</pubDate>
     </item>
     <item>
-      <title>你是否对那些声称人工智能模型将在 2024 年达到天花板的人感到愤怒？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzlftl/do_you_feel_gaslit_by_people_who_claimed_ai/</link>
-      <description><![CDATA[该分析在多大程度上影响了您的职业决策？  如何确保不再对人工智能的发展轨迹做出错误的预测？是否有任何明确的迹象表明与您交谈的人是意识形态而非分析型的？   由   提交 /u/Hefty_Fortune_9945   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzlftl/do_you_feel_gaslit_by_people_who_claimed_ai/</guid>
-      <pubDate>Sat, 21 Mar 2026 07:36:23 GMT</pubDate>
+      <title>Excalidraw 扩展添加了存储、AI 生成和演示模式（开源）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rznhky/excalidraw_extension_that_adds_storage_ai/</link>
+      <description><![CDATA[      大家好， 我构建了一个小型 Chrome 扩展程序，为 Excalidraw 添加了存储、AI 生成和演示模式。  https://preview.redd.it/yxpfv8o7edqg1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=a828bdd23626e4ce4c7ab8a066c0ed4ef0def173 它被称为Excalihub，并且开源且免费。我构建它主要是因为我希望在使用 Excalidraw 进行头脑风暴和演示时有更流畅的工作流程。 它添加了什么：  存储绘图 AI 生成以帮助创建图表 用于展示图板的演示模式  如果您是 Excalidraw 用户，我很乐意听到反馈。 GitHub：https://github.com/AykutSarac/excalihub Chrome 扩展：https://chromewebstore.google.com/detail/excalihub/lihpbdgcmndoecbiceiknanhgclbkmab   由   提交/u/iamCut  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rznhky/excalidraw_extension_that_adds_storage_ai/</guid>
+      <pubDate>Sat, 21 Mar 2026 09:49:49 GMT</pubDate>
     </item>
     <item>
-      <title>文件夹</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzldog/portfolio/</link>
-      <description><![CDATA[这里是 https://kayspace.vercel.app ，欢迎任何反馈。谢谢你！（警告：前面有浅色主题）   由   提交/u/Obvious-Bluebird-09   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzldog/portfolio/</guid>
-      <pubDate>Sat, 21 Mar 2026 07:32:33 GMT</pubDate>
+      <title>如果托管 VPS 主机不提供退款窗口，您还会尝试/使用它们吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rznh7k/if_a_managed_vps_host_doesnt_offer_a_refund/</link>
+      <description><![CDATA[我很好奇其他开发人员和机构所有者现在如何处理测试新托管环境的财务风险。 从历史上看，在尝试新的托管 VPS 时依赖 30 天退款保证是相当标准的。您可以整天阅读规格表，但实际上您并不知道特定的服务器环境是否能够很好地满足您的特定应用程序或客户需求，直到您启动并测试几天。 我注意到一些高级托管主机（例如 Liquid Web）对其退款进行了严格限制或取消了标准的 30 天退款窗口。 我知道很多主流主机（例如 Hostinger、InMotion、Dreamhost 等）仍然提供标准服务30 到 90 天的保证和像 AWS 这样的非托管云提供商可以让您每小时启动并销毁 Droplet，但是当您确实需要为客户提供完全托管的 VPS 时，您如何降低陷入不合适的风险？ 如果不成功，您会直接将第一个月的成本作为业务费用吗？ 您是否只使用明确提供安全网/退款窗口的主机？ 您会吗？即使对于托管服务也坚持按小时计费？ 很想听听你们如何评估优质主机并在无法选择标准退款政策时保护您和您客户的预算。   由   提交/u/ikonomika  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rznh7k/if_a_managed_vps_host_doesnt_offer_a_refund/</guid>
+      <pubDate>Sat, 21 Mar 2026 09:49:09 GMT</pubDate>
     </item>
     <item>
-      <title>linkpeek — 具有 1 个依赖项的链接预览提取</title>
-      <link>https://www.reddit.com/r/webdev/comments/1rzlcj7/linkpeek_link_preview_extraction_with_1_dependency/</link>
-      <description><![CDATA[构建一个小型 npm 包，用于从任何 URL 提取链接预览元数据（Open Graph、Twitter 卡、JSON-LD）。 现有解决方案让我烦恼的地方：  open-graph-scraper 引入了 Cheerio + undici + 更多 metascraper 需要整个插件树 大多数库都会下载完整的插件当所有元数据都在 &lt;head&gt;  所以链接查看：  1 个依赖项（htmlparser2 SAX 解析器） 停止读取 &lt;/head&gt; — 30 KB 而不是完整的 2 MB 页面 内置 SSRF 保护 有效在 Node.js、Bun 和 Deno 上  从“linkpeek”导入{预览}； const { 标题、图片、描述 } = 等待预览(“https://youtube.com/watch?v=dQw4w9WgXcQ”);  GitHub：https://github.com/thegruber/linkpeek | npm: https://www.npmjs.com/package/linkpeek 希望获得有关我应该处理的 API 设计或边缘情况的反馈。   由   提交/u/adrgru97  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1rzlcj7/linkpeek_link_preview_extraction_with_1_dependency/</guid>
-      <pubDate>Sat, 21 Mar 2026 07:30:26 GMT</pubDate>
+      <title>具有多个强大背景图片的登陆页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1rzn6g2/landing_pages_with_multiple_strong_background/</link>
+      <description><![CDATA[      嘿，我目前正在重新设计我们的登陆页面，并希望全力以赴地使用带有一些叠加层的大型情感背景图像。下面是我的第一个想法，背景图像不太有效，但你已经了解了总体想法。  所以我正在寻找灵感，特别是对于具有多个部分和不同大背景图像的着陆页。我不太确定如何将有图像的部分与没有图像的部分连贯地连接起来。  很高兴能得到一些灵感！谢谢！  https://preview.redd.it/vzztq5ihadqg1.png?width=1272&amp;format=png&amp;auto=webp&amp;s=8346c622b3bd54b32495f714016e3c18eccce758   由   提交/u/maosi100  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1rzn6g2/landing_pages_with_multiple_strong_background/</guid>
+      <pubDate>Sat, 21 Mar 2026 09:29:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
