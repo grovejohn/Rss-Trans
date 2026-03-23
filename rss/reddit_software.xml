@@ -4,18 +4,46 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 23 Mar 2026 01:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 04:57:53 GMT</lastBuildDate>
+    <item>
+      <title>动手实践：3 月 26 日 macOS 最佳应用列表 - 每月必备</title>
+      <link>https://www.reddit.com/r/software/comments/1s16w0o/handson_the_march_26_macos_best_apps_list_monthly/</link>
+      <description><![CDATA[ 由   提交/u/Cas_W   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s16w0o/handson_the_march_26_macos_best_apps_list_monthly/</guid>
+      <pubDate>Mon, 23 Mar 2026 04:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>在开发团队之间分享秘密</title>
+      <link>https://www.reddit.com/r/software/comments/1s16sgg/sharing_secrets_among_dev_teams/</link>
+      <description><![CDATA[ 由   提交 /u/EarIndividual5778   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s16sgg/sharing_secrets_among_dev_teams/</guid>
+      <pubDate>Mon, 23 Mar 2026 04:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>[问题]：如何将 srt 添加到 mkv 文件，以便它在视频播放器的菜单上显示为可选切换？</title>
+      <link>https://www.reddit.com/r/software/comments/1s16e77/question_how_can_i_add_an_srt_to_an_mkv_file_so/</link>
+      <description><![CDATA[所以我最近下载了一部电影（出于法律原因不会说从哪里下载），但主要问题是电影和字幕轨道作为两个单独的文件下载：分别是 mkv 和 srt，据我所知，mkv 文件本身可以支持多个轨道，所以我想知道是否可以将 srt 添加到 mkv 文件中，以便每当我在 VLC 或 Windows 上播放 mkv 文件时菜单上的媒体播放器我可以切换字幕，将其设置为默认显示切换。如果可能的话，我想知道是否有人愿意向我展示它是如何完成的，最好是作为分步视频教程（我更像是一个视觉学习者哈哈）😅 &lt;！-- SC_ON --&gt;  由   提交/u/JohnnyDC04  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s16e77/question_how_can_i_add_an_srt_to_an_mkv_file_so/</guid>
+      <pubDate>Mon, 23 Mar 2026 03:44:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>缩小人工智能产品搜索和全语音自动化的差距 - 简化搜索和结帐。</title>
+      <link>https://www.reddit.com/r/software/comments/1s14o48/bridging_the_gap_of_ai_product_search_and_full/</link>
+      <description><![CDATA[ 由   提交/u/Famous_Ninja3759  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s14o48/bridging_the_gap_of_ai_product_search_and_full/</guid>
+      <pubDate>Mon, 23 Mar 2026 02:21:21 GMT</pubDate>
+    </item>
     <item>
       <title>我花了 7 个多月的时间来构建这个 Windows 任务管理器应用程序，它通过 XP 和动画贴纸（超过 200 个动画贴纸）提高生产力</title>
       <link>https://www.reddit.com/r/software/comments/1s12xap/i_spent_over_7_months_to_build_this_task_manager/</link>
-      <description><![CDATA[https://i.redd.it/bjdr56qh0pqg1.gif 完全免费且开源 下载 Windows 版：https://website-taski-el8ks680s-ankitjaatphalswal-2838s-projects.vercel.app/ 很高兴回答任何问题   由   提交 /u/ComfortableRoof7058   [链接] [评论]]]></description>
+      <description><![CDATA[https://i.redd.it/bjdr56qh0pqg1.gif 完全免费且开源 下载 Windows 版：https://website-taski-el8ks680s-ankitjaatphalswal-2838s-projects.vercel.app/ 很高兴回答任何问题 这里有一个兑换代码，仅供 Reddit 用户领取20000xp：TASKI-REDD-US01   由   提交 /u/ComfortableRoof7058   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s12xap/i_spent_over_7_months_to_build_this_task_manager/</guid>
       <pubDate>Mon, 23 Mar 2026 01:02:20 GMT</pubDate>
     </item>
     <item>
       <title>寻找免费工具将已安装的程序从 SSD 移动到硬盘驱动器（程序，而不是“Windows 应用商店应用程序”！）</title>
       <link>https://www.reddit.com/r/software/comments/1s12dkv/looking_for_free_tool_to_move_installed_programs/</link>
-      <description><![CDATA[Windows 有一个令人讨厌的习惯，有时甚至不经询问就将程序安装到 C:\。在 SSD 出现之前，这可能工作得很好，但现在却产生了问题。好吧，我知道现在 Windows 有一个设置可以将默认安装位置更改为 D:\，但不幸的是，这对已安装的内容没有帮助。   我希望将 100 - 200 GB 的空间从我的 M2.SSD 移动到我的 4TB 硬盘。我知道这是可能的，不仅仅是 Windows 可以在本机执行此操作的 Windows 应用商店应用程序。 我 知道 存在可以做到这一点的程序，我至少见过两个 - 不幸的是它们并不完全免费，最多允许移动 500 MB 的“免费试用运行”。   我不想卸载并重新安装程序，因为这可能会给其中许多人带来各种各样的问题，或者对某些人来说根本不可能。   显然，仅仅移动文件是不行的，显然你需要修改注册表和谁知道还有什么，这几乎不是一个手动完成的任务，特别是对于多个程序来说。   有什么想法吗？   由   提交 /u/SuperMayonnaise64   [链接] [评论]]]></description>
+      <description><![CDATA[Windows 有一个令人讨厌的习惯，有时甚至不经询问就将程序安装到 C:\。在 SSD 出现之前，这可能工作得很好，但现在却产生了问题。嗯，我知道现在 Windows 有一个设置可以将默认安装位置更改为 D:\，但不幸的是，这对已安装的内容没有帮助。   我希望将 M2.SSD 中的 100 - 200 GB 内存移动到我的 4TB 硬盘上。我知道这是可能的，不仅仅是 Windows 可以在本机执行此操作的 Windows 应用商店应用程序。 我 知道 存在可以做到这一点的程序，我至少见过两个 - 不幸的是它们并不完全免费，最多允许移动 500 MB 的“免费试用运行”。   我不想卸载并重新安装程序，因为这可能会给其中许多人带来各种各样的问题，或者对某些人来说根本不可能。   显然，仅仅移动文件是不行的，显然你需要修改注册表和谁知道还有什么，这几乎不是一个手动完成的任务，特别是对于多个程序来说。   有什么想法吗？   由   提交 /u/SuperMayonnaise64   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s12dkv/looking_for_free_tool_to_move_installed_programs/</guid>
       <pubDate>Mon, 23 Mar 2026 00:37:36 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>麦克风在通话过程中停止工作</title>
       <link>https://www.reddit.com/r/software/comments/1s0x8zm/microphone_stopped_working_midconversation/</link>
-      <description><![CDATA[如标题所示。它已经工作了好几个月了，突然，指示它打开的灯变暗了。 LED 灯仍然可以工作，所以这不是电缆问题。 我尝试了不同的耳机和同样的东西 - 它可以拾取耳机中的音频，但麦克风无法工作，尽管 Windows 检测到它在那里。 有什么想法吗？今天效果很好，它在我的句子中间断了哈哈   由   提交/u/Riv_0  [链接] [评论]]]></description>
+      <description><![CDATA[如标题所示。它已经工作了好几个月了，突然，指示它打开的灯变暗了。 LED 灯仍然可以工作，所以这不是电缆问题。 我尝试了不同的耳机和同样的东西 - 它可以拾取耳机中的音频，但麦克风无法工作，尽管 Windows 检测到它在那里。 有什么想法吗？今天效果很好，它在我的句子中间断了哈哈   由   提交 /u/Riv_0   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s0x8zm/microphone_stopped_working_midconversation/</guid>
       <pubDate>Sun, 22 Mar 2026 21:03:30 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/LowerAardvark2094  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s0keeg/i_built_something_im_proud_of_in_3_weeks_with/</guid>
       <pubDate>Sun, 22 Mar 2026 12:30:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>一种简单、简约的方式来共享文件和即时聊天</title>
-      <link>https://www.reddit.com/r/software/comments/1s0ihb3/a_simple_minimalist_way_to_share_files_and_chat/</link>
-      <description><![CDATA[发现了一个名为 TangoShare 的极简工具，它符合“互联网是美丽的”的理念。氛围。这是一种干净、无臃肿的方式来共享文件，**没有大小限制**并开始快速聊天，所有这些都不需要注册墙或帐户。 **为什么它很简洁：** * **没有限制：**不受限制地分享您需要的内容。 * **美观的 UI：** 令人耳目一新、无干扰的设计。 * **即时聊天：** 包括内置实时聊天功能。 这是您的数字工具包中一个方便、简单的实用程序。   由   提交 /u/Necessary_Sleep_6947   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s0ihb3/a_simple_minimalist_way_to_share_files_and_chat/</guid>
-      <pubDate>Sun, 22 Mar 2026 10:44:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个应用程序获得批准！我的剪贴板应用程序😊</title>
-      <link>https://www.reddit.com/r/software/comments/1s0i2s9/my_first_app_ever_got_approved_myclipboard_app/</link>
-      <description><![CDATA[ 由   提交/u/kwanice06  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s0i2s9/my_first_app_ever_got_approved_myclipboard_app/</guid>
-      <pubDate>Sun, 22 Mar 2026 10:19:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔥浏览器大战正在升温——Zen 浏览器值得大肆宣传吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1s0hrbq/the_browser_wars_are_heating_up_is_zen_browser/</link>
-      <description><![CDATA[说实话 — Microsoft Edge、Opera Mini 等从未出现在我的关注范围内，我已经使用 Brave、Firefox 以及 Tor 而不是 Chrome 有一段时间了。但最近，我不断看到 Reddit 上随处弹出 Zen Browser，我真的很好奇。宣传非常引人注目；注重隐私、开源、无 AI 膨胀、无跟踪器等不确定... 有人每天实际测试过 Zen 浏览器吗？ - 它是否像宣传的那样注重隐私，还是只是营销？ - 就实际性能而言，它与 Brave 相比如何？ - 它对于日常使用来说是否足够稳定，还是仍然有些粗糙？ - 2026 年您首选的浏览器是什么？为什么？ 放弃您的体验👇   由   提交 /u/GloomyInsect4828   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s0hrbq/the_browser_wars_are_heating_up_is_zen_browser/</guid>
-      <pubDate>Sun, 22 Mar 2026 10:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 .cbz 之类的编辑器</title>
-      <link>https://www.reddit.com/r/software/comments/1s0fcr3/looking_for_cbz_editor_of_sorts/</link>
-      <description><![CDATA[嗨，我真的很喜欢看带有字幕的法语版《Monster》（它真的很适合我的欧洲背景氛围），而且我一直在考虑将 .cbz 文件拼接在一起来阅读它，这样每一页都可以是我的母语。你们知道某种可以简化流程的软件或转换器吗？   由   提交 /u/Emergency-Letter8898   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s0fcr3/looking_for_cbz_editor_of_sorts/</guid>
-      <pubDate>Sun, 22 Mar 2026 07:25:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
