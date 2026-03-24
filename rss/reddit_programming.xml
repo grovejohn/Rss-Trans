@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 24 Mar 2026 00:59:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 04:48:11 GMT</lastBuildDate>
+    <item>
+      <title>孤独的 lisp 中的生成器</title>
+      <link>https://www.reddit.com/r/programming/comments/1s2077v/generators_in_lone_lisp/</link>
+      <description><![CDATA[ 由   提交/u/matheusmoreira   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s2077v/generators_in_lone_lisp/</guid>
+      <pubDate>Tue, 24 Mar 2026 01:28:03 GMT</pubDate>
+    </item>
     <item>
       <title>修复 Python 自动完成功能只需要一张表</title>
       <link>https://www.reddit.com/r/programming/comments/1s1rynd/a_table_was_all_that_was_needed_to_fix_python/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[ 由   提交 /u/jlpcsl   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1s1dtk5/qt_611_released/</guid>
       <pubDate>Mon, 23 Mar 2026 11:06:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>集成测试中的模拟与真实服务——哪个效果更好？</title>
-      <link>https://www.reddit.com/r/programming/comments/1s1bwqz/mocks_vs_real_services_in_integration_testing/</link>
-      <description><![CDATA[最近一直在尝试改进我们的集成测试设置，老实说，这比听起来要困难得多。 单元测试很容易维护，但是当您开始测试服务如何相互通信（API、DB、队列）时，事情很快就会变得混乱。不稳定的测试、环境问题、模拟行为不像真实系统……凡是你能想到的。 我意识到的一件事是，集成测试不仅仅是“连接两个模块并进行测试”。它更多的是验证数据流如何以及组件在真实条件下如何协同工作。 最近在研究时发现了一个非常详细的指南： https://keploy.io/blog/community/integration-testing-a-compressive-guide 它解释了不同的方法（自上而下、自下而上等）以及何时实际模拟与使用真实服务，我发现这很有用。 好奇如何使用其他人处理这个问题：  你更依赖模拟还是真实环境？ 你在 CI 中运行集成测试的频率如何？    由   提交/u/Global-Development56  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s1bwqz/mocks_vs_real_services_in_integration_testing/</guid>
-      <pubDate>Mon, 23 Mar 2026 09:16:11 GMT</pubDate>
     </item>
     <item>
       <title>当垃圾收集器和手动内存管理共享同一个对象时——React Native JSI 边界的内存所有权</title>

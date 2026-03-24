@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Mar 2026 01:00:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 04:48:56 GMT</lastBuildDate>
+    <item>
+      <title>Omachy - 我为 MacOS 构建了一个受 Omarchy 启发的平铺窗口管理器设置工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1s21bn5/omachy_i_built_an_omarchy_inspired_tiling_window/</link>
+      <description><![CDATA[      我已经使用 Arch Linux 和 Hyprland 几年了，我喜欢它。我最近刚刚开始一份新工作，必须使用 MacOS。所以我试图充分利用它并尝试尽可能地复制我的 arch/hyprland 设置的体验。我想我已经非常接近了。 一旦我按照自己想要的方式实现了它，我想我应该创建一个带有漂亮的小 TUI 的工具来安装和管理设置，以便其他人也可以享受它。 如果您觉得它有趣，请尝试一下，并让我知道您的想法。请记住，有一个卸载命令可以将您的系统恢复到原来的状态，以防您认为它不适合您。 接受贡献和功能请求：https://github.com/dough654/omachy   由   提交/u/Dougw6  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1s21bn5/omachy_i_built_an_omarchy_inspired_tiling_window/</guid>
+      <pubDate>Tue, 24 Mar 2026 02:17:17 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个免费的开源工具，可以在新兴趋势成为头条新闻之前捕捉它们</title>
       <link>https://www.reddit.com/r/opensource/comments/1s1yjda/i_built_a_free_opensource_tool_that_catches/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/buovjaga  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1s0ghwn/cambalaches_first_major_milestone_successor_to_ui/</guid>
       <pubDate>Sun, 22 Mar 2026 08:39:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[展示] TwinPixCleaner - 使用 Swift 6 和 SwiftUI 构建的原生 macOS 重复照片查找器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1s0cz7b/showcase_twinpixcleaner_a_native_macos_duplicate/</link>
-      <description><![CDATA[嘿，开发人员朋友们， 我最近完成了新版本的 TwinPixCleaner，这是一个在 macOS 上查找和删除重复图像的实用程序。出于隐私原因，我想构建一些高性能且仅限本地的东西。 技术堆栈：  Swift 6.0 SwiftUI 用于安全删除的原生 FileManager API  主要功能：  快速扫描（几秒钟内 1000 多个图像）。 视觉相似性和精确匹配检测。 针对 Apple Silicon 进行了优化。  代码完全开源。我正在寻找有关 UI/UX 和性能的一些反馈。 Repo：https://github.com/AkshayKrGupta/TwinPixCleaner 查看一下，如果您喜欢它，在 GitHub 上加个星将不胜感激！   由   提交 /u/AkshayKG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1s0cz7b/showcase_twinpixcleaner_a_native_macos_duplicate/</guid>
-      <pubDate>Sun, 22 Mar 2026 05:03:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
