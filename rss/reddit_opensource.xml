@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 24 Mar 2026 09:45:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 12:41:12 GMT</lastBuildDate>
+    <item>
+      <title>寻找“开源项目食谱”来处理发布、版本控制和社区反馈</title>
+      <link>https://www.reddit.com/r/opensource/comments/1s2bv9i/looking_for_an_opensource_project_cookbook_to/</link>
+      <description><![CDATA[我是开源项目的新手，我正在寻找一个好的资源来学习如何处理开源项目，包括发布、版本控制、社区反馈以及除代码本身之外的几乎所有内容。  虽然我的项目位于 github 上，并且我可以使用操作和自由运行程序来处理大部分发布工作，但我正在寻找最佳实践和一些护栏，以确保我的项目具有一定的寿命。我也愿意接受付费课程（由人类制作：p），或您可以推荐的书籍   由   提交 /u/UniqueAttourney   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1s2bv9i/looking_for_an_opensource_project_cookbook_to/</guid>
+      <pubDate>Tue, 24 Mar 2026 12:05:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Krita 6（和 5.3）发布了！只需一个的价格即可获得两个顶级艺术应用程序！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1s2bc7y/krita_6_and_53_released_two_toptier_art_apps_for/</link>
+      <description><![CDATA[ 由   提交 /u/Bro666   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1s2bc7y/krita_6_and_53_released_two_toptier_art_apps_for/</guid>
+      <pubDate>Tue, 24 Mar 2026 11:39:03 GMT</pubDate>
+    </item>
     <item>
       <title>开源服务器管理工​​具</title>
       <link>https://www.reddit.com/r/opensource/comments/1s270bz/opensource_server_management_tool/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/idleWizard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1s0tgbr/i_need_local_llm_that_can_search_and_process/</guid>
       <pubDate>Sun, 22 Mar 2026 18:36:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS ReactOS 实现 KMDF + WDDM，与 XP/2003 GPU 驱动程序的兼容性达到约 90%</title>
-      <link>https://www.reddit.com/r/opensource/comments/1s0ob45/foss_reactos_implements_kmdf_wddm_reaches_90/</link>
-      <description><![CDATA[ReactOS 0.4.16 全新夜间版本带来了巨大的 GPU 驱动程序兼容性提升，例如真正支持 Intel/AMD/NVIDIA 和硬件 3D 加速。   由   提交/u/Jeditobe  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1s0ob45/foss_reactos_implements_kmdf_wddm_reaches_90/</guid>
-      <pubDate>Sun, 22 Mar 2026 15:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何学习如何维护您的项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1s0l3x5/how_do_you_learn_how_to_maintain_your_project/</link>
-      <description><![CDATA[我有一堆 github 项目，我为了好玩而编写了一些代码，但现在其中一个项目开始变得相当不错，我想将其转移到更专业的环境，例如如何构建图像和 helm 图表、如何托管这些项目、如何处理问题和发布、如何处理文档以及通常如何维护项目。  是否有一些关于如何执行此操作的资源或书籍？我在软件行业工作了 40 年，但在我的爱好项目中始终只专注于编码，现在在人工智能的帮助下，我有时间专注于其他部分，但我意识到我从未学会如何做。   由   提交/u/bmeus  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1s0l3x5/how_do_you_learn_how_to_maintain_your_project/</guid>
-      <pubDate>Sun, 22 Mar 2026 13:04:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

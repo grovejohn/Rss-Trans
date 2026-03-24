@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 24 Mar 2026 09:46:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 12:41:16 GMT</lastBuildDate>
     <item>
       <title>图像命令</title>
       <link>https://www.producthunt.com/products/imgcmd</link>
@@ -34,32 +34,18 @@
       <pubDate>Mon, 23 Mar 2026 22:07:17 GMT</pubDate>
     </item>
     <item>
-      <title>什么鸭子！</title>
-      <link>https://www.producthunt.com/products/what-the-duck-2</link>
+      <title>克劳德电脑使用</title>
+      <link>https://www.producthunt.com/products/claude</link>
       <description><![CDATA[
-            猎鸭子，但用你的手指和自定义目标
+            使克劳德能够使用您的计算机完成任务 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/what-the-duck-2</guid>
-      <pubDate>Mon, 23 Mar 2026 21:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>鄂尔多</title>
-      <link>https://www.producthunt.com/products/ordo</link>
-      <description><![CDATA[
-             终于有一个可以使用的保存应用程序了
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ordo</guid>
-      <pubDate>Mon, 23 Mar 2026 19:38:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/claude</guid>
+      <pubDate>Mon, 23 Mar 2026 21:41:13 GMT</pubDate>
     </item>
     <item>
       <title>大师赛</title>
@@ -104,18 +90,32 @@
       <pubDate>Mon, 23 Mar 2026 13:03:23 GMT</pubDate>
     </item>
     <item>
-      <title>通量</title>
-      <link>https://www.producthunt.com/products/replay-production-api-failures-locally</link>
+      <title>机器人板</title>
+      <link>https://www.producthunt.com/products/botboard</link>
       <description><![CDATA[
-            通过在本地重播来修复生产错误
+            代理时代的任务管理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/replay-production-api-failures-locally</guid>
-      <pubDate>Mon, 23 Mar 2026 04:05:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/botboard</guid>
+      <pubDate>Mon, 23 Mar 2026 06:27:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费 AI 视频编辑器 OpenCutAI</title>
+      <link>https://www.producthunt.com/products/opencutai-video</link>
+      <description><![CDATA[
+            免费创建 Instagram Reels 并使用 AI 编辑视频
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/opencutai-video</guid>
+      <pubDate>Sun, 22 Mar 2026 18:14:15 GMT</pubDate>
     </item>
     <item>
       <title>代理中心生成器</title>
@@ -202,18 +202,18 @@
       <pubDate>Mon, 16 Mar 2026 15:55:34 GMT</pubDate>
     </item>
     <item>
-      <title>红豆</title>
-      <link>https://www.producthunt.com/products/redbean-ai</link>
+      <title>Chrome 中的谷歌双子座</title>
+      <link>https://www.producthunt.com/products/googlegemini-in-chrome</link>
       <description><![CDATA[
-            让您的原创角色栩栩如生
+            将您的浏览器变成人工智能工作区
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/redbean-ai</guid>
-      <pubDate>Mon, 16 Mar 2026 08:36:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/googlegemini-in-chrome</guid>
+      <pubDate>Wed, 11 Mar 2026 07:09:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
