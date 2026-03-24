@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 23 Mar 2026 21:25:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 00:58:52 GMT</lastBuildDate>
+    <item>
+      <title>Premiere：将 ALE 元数据合并到现有的 Premiere 序列中</title>
+      <link>https://www.reddit.com/r/editors/comments/1s1xfgl/premiere_merging_ale_metadata_into_existing/</link>
+      <description><![CDATA[我正在进行项目，正在寻找一种方法来“合并”将 Resolve 生成​​的 ALE 中的丰富元数据添加到我现有的 Premiere 项目中。 我已导入 ALE，它使用所有漂亮的场景/镜头/注释元数据创建了预期的离线/虚拟剪辑。然而，我的序列已经用原始媒体进行了剪辑。在 Avid 中，这是一个简单的“合并 ALE”。更新现有的主剪辑，但在 Premiere 中，我正在努力弥合两者。 我希望当前的时间线剪辑继承 ALE 剪辑的元数据，而无需手动重新剪辑整个节目，并且由于序列已经与原始媒体绑定，因此只需导入 ALE 就可以为我提供一箱元数据丰富的离线剪辑，这些剪辑不会“说话”。到我的活动时间线。 有人找到了一种可靠的方法来将此元数据合并到现有媒体/序列中，而无需使用 GraveRobber 等第三方工具或手动复制粘贴噩梦吗？ 感谢任何工作流程提示！   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1s1xfgl/premiere_merging_ale_metadata_into_existing/</guid>
+      <pubDate>Mon, 23 Mar 2026 23:32:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎么不知道这个...如何在 Avid 中查看音频 ISO 轨道名称。</title>
+      <link>https://www.reddit.com/r/editors/comments/1s1uo0e/how_did_i_not_know_this_how_to_view_audio_iso/</link>
+      <description><![CDATA[时间线汉堡包&gt;显示源曲目名称   我感到惊讶和恐惧，我不知道这一点   编辑 从另一个线程窃取此内容：   由   提交/u/dmizz  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1s1uo0e/how_did_i_not_know_this_how_to_view_audio_iso/</guid>
+      <pubDate>Mon, 23 Mar 2026 21:45:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>组织素材/项目的最佳方式？</title>
+      <link>https://www.reddit.com/r/editors/comments/1s1ty7w/best_way_to_organise_footage_projects/</link>
+      <description><![CDATA[向我所有的视频编辑人员提出问题，他们使用同一个客户端拍摄许多不同的项目并使用 Premiere Pro 进行编辑。 当您组织所有素材/文件时，您是否使用一个包含所有内容的主项目，然后在该项目中创建不同的序列，或者只是为每次拍摄创建一个新项目？ 我有一个客户，我每个月至少拍摄两次。在编辑方面，我经常会使用前几个月获得的剪辑来获得我想要的故事/电影风格。然而，我一直在为每次拍摄创建一个新项目，当我尝试返回并找到一个特定剪辑时，查找起来可能非常耗时且具有挑战性。 我曾考虑过将所有素材存储在硬盘上并创建 1 个主项目，但我已经与这个客户拥有超过 200GB 的素材，而且这个数量还在不断增长，我担心如果我将所有素材链接到一个项目，它只会超载并崩溃......？ 有人有任何提示或建议吗？关于你做什么以及我如何解决这个问题的建议？   由   提交 /u/alfronswick   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1s1ty7w/best_way_to_organise_footage_projects/</guid>
+      <pubDate>Mon, 23 Mar 2026 21:18:40 GMT</pubDate>
+    </item>
     <item>
       <title>[付费 — 30-50 美元/小时] Steam 风格游戏预告片的视频编辑器（约 10 个游戏，每个游戏 2-3 分钟）</title>
       <link>https://www.reddit.com/r/editors/comments/1s1pwtw/paid_3050hr_video_editor_for_steamstyle_game/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>小规模多机位/播客编辑们，所谓的“AI”切割工具真的有用吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1s0qebi/editors_in_small_scale_multicampodcasting_do_the/</link>
-      <description><![CDATA[一年来我一直在这个问题上反复思考。 AutoPod、Autocut、Wraith 等工具是否为您的工作带来了有意义的好处？  我已经为雇主尝试过这些以及更多内容一段时间了，但他们的许多产品并没有给我留下特别深刻的印象。我想，他们的一些东西，比如自动剪切的剪辑选择，已经足够好了，但他们的大多数功能（自动摄像机切换、静音删除、重拍检测和自动缩放）常常让人感觉……呃……无法使用？或者至少，无法用于我认为值得使用的任何标准，或者可以在不花费大量时间调整和修复东西的情况下使用。 现在公平地说，也许这是一个操作员错误的事情，我还没有给予它足够公平的机会。而且，也许管理层向我出售的工具还没有准备好按照我被告知可以使用的规模使用。但这就是我来这里的原因；我想弄清楚到底是我的问题还是技术的问题。  我很想听听每个人对这些工具的想法，它们节省了多少时间，他们对技术的存在主义想法等等，以了解我们作为编辑对它们的总体感受。 我个人对它们的看法是，它们缺乏任何类似于我试图在工作中投入的意向性。我知道我经常只是为当地企业剪辑采访和内容，但这从未阻止我尝试在我的作品中发挥一些意图（通过在特定时刻打出大拳，在提高影响力时保持沉默，甚至只是对镜头有足够的把握，因为我正在剪辑它以便能够可靠地简化需要收紧的片段）。当然，这些内容都需要快速且尽可能便宜地完成，但我一直在与这种感觉作斗争，即我没有回去详细修复的工作（有时可能比我自己完成的工作需要更长的时间）都不是我想要挂在帽子上或放在卷轴上的工作。这甚至还没有涉及人工智能生成的下三分之一或动态图形，这是我最近必须研究的另一件事。   由   提交/u/VentsOnVentsOnVenti  [链接] [评论]]]></description>
+      <description><![CDATA[一年来我一直在这个问题上反复思考。 AutoPod、Autocut、Wraith 等工具是否为您的工作带来了有意义的好处？  我已经为雇主尝试过这些以及更多内容一段时间了，但他们的许多产品并没有给我留下特别深刻的印象。我想，他们的一些东西，比如自动剪切的剪辑选择，已经足够好了，但他们的大多数功能（自动摄像机切换、静音删除、重拍检测和自动缩放）常常让人感觉……嗯……无法使用？或者至少，无法用于我认为值得使用的任何标准，或者可以在不花费大量时间调整和修复东西的情况下使用。 现在公平地说，也许这是一个操作员错误的事情，我还没有给予它足够公平的机会。而且，也许管理层向我出售的工具还没有准备好按照我被告知可以使用的规模使用。但这就是我来这里的原因；我想弄清楚到底是我的问题还是技术的问题。  我很想听听每个人对这些工具的想法，它们节省了多少时间，他们对技术的存在主义想法等等，以了解我们作为编辑对它们的总体感受。 我个人对它们的看法是，它们缺乏任何类似于我试图在工作中投入的意向性。我知道我经常只是为当地企业剪辑采访和内容，但这从未阻止我尝试在我的作品中发挥一些意图（通过在特定时刻打出大拳，在提高影响力时保持沉默，甚至只是对镜头有足够的把握，因为我正在剪辑它以便能够可靠地简化需要收紧的片段）。当然，这些内容都需要快速且尽可能便宜地完成，但我一直在与这种感觉作斗争，即我没有回去详细修复的工作（有时可能比我自己完成的工作需要更长的时间）都不是我想要挂在帽子上或放在卷轴上的工作。这甚至还没有涉及人工智能生成的下三分之一或动态图形，这是我最近必须研究的另一件事。   由   提交/u/VentsOnVentsOnVenti  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1s0qebi/editors_in_small_scale_multicampodcasting_do_the/</guid>
       <pubDate>Sun, 22 Mar 2026 16:40:18 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[TL：DR - 我如何让您（是的，就是您）参与其中？ 强制提及。这是 r/editors 的官方 Discord 的链接，拥有 1,000 名成员，其中包括许多剪辑电影、电视节目等的专业人士。 它适用于专业人士和有抱负的专业人士。 它需要验证（其中任何一个）可以使用：（Reddit/youtube/facebook/IG/Github/spotify/Steam/xbox）。 再次：此处的 Discord 链接 一旦您确认有超过 15 个频道，其中包括基于以下内容的频道：  作品类型（颜色、声音、音频） 具体软件（Adobe、Apple、Avid、BMD） 生活质量（展示您的工作、尖叫室、实时技术帮助） 等等。  我想做什么？在 Reddit 之外建立一个积极参与的社区。  这可能是一次虚拟的快乐午餐 小时 每月 2 次游戏之夜 虚拟用户组活动…  …但我想知道您看到了什么吸引人的内容…并且让您与 Discord 互动 对我来说： Reddit 非常适合线程对话，Discord 非常适合实时互动。 （by顺便说一句，我最大的 Discord 技巧是立即将新服务器静音。） 是的，我很乐意帮助那些觉得这是一个新的/奇怪的域或感到迷失的人。    提交href=&quot;https://www.reddit.com/user/greenysmac&quot;&gt;/u/greenysmac   [链接]   href=&quot;https://www.reddit.com/r/editors/comments/1s0prha/did_you_know_that_reditors_has_a_discord/&quot;&gt;[评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1s0prha/did_you_know_that_reditors_has_a_discord/</guid>
       <pubDate>Sun, 22 Mar 2026 16:15:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere：显示音频文件中的源轨道名称 (LAV/BOOM)</title>
-      <link>https://www.reddit.com/r/editors/comments/1s0p40w/premiere_display_source_track_names_lavboom_from/</link>
-      <description><![CDATA[有关 Premiere 中音频元数据可见性的简单问题。 使用外部录制的音频时，我可以通过启用“显示源轨道名称”选项在其他工具或 Avid 中看到源轨道名称（例如“A1 / LAV 1”和“A2 / BOOM”）。这对于直接在时间轴中识别 lav 与繁荣轨道非常有帮助。 在 Premiere 中，我一直无法找到在剪辑或时间轴中显示这些原始源轨道名称的方法。我可以看到频道信息，但看不到来自文件的实际标记轨道名称。 https://postimg.cc/vgqFbcMf 有没有办法在 Premiere 中显示我缺少的源轨道名称？或者 Premiere 目前不支持这种功能？ 谢谢！   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1s0p40w/premiere_display_source_track_names_lavboom_from/</guid>
-      <pubDate>Sun, 22 Mar 2026 15:50:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere：XML 与 AAF，哪个保留更可靠的重新链接元数据？</title>
-      <link>https://www.reddit.com/r/editors/comments/1s0nhd4/premiere_xml_vs_aaf_which_retains_more_reliable/</link>
-      <description><![CDATA[我在最近的一次整合中遇到了问题。当通过 XML 传输序列时，我有一些剪辑脱机，但当我尝试使用 AAF 时，这些相同的剪辑似乎正确地重新链接，指向正确的媒体。 这让我想知道在保留源/卷信息方面哪种格式实际上更可靠。根据您的经验，XML 是否携带更准确的元数据用于重新链接，或者您是否发现 AAF 在某些情况下更可靠？ 好奇人们在工作流程中使用和信任什么。 谢谢！   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1s0nhd4/premiere_xml_vs_aaf_which_retains_more_reliable/</guid>
-      <pubDate>Sun, 22 Mar 2026 14:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>周日卷轴回顾</title>
-      <link>https://www.reddit.com/r/editors/comments/1s0jtl8/sunday_reel_review/</link>
-      <description><![CDATA[这与我们的“卷轴审核”交替在周日进行。 ## 您想要有关卷轴的反馈吗？这是实现这一目标的地方！ ​ **要记住的要点**：卷轴不会比名片或网站更能确保您找到工作。虽然这可能是必要的，但它不是获得工作的主要手段。 ​ **您通过自己开发的网络获得就业，**而不是通过任何在线求职网站。建立网络需要时间，这是有利的，因为它可以让您了解该领域。 ​ ## 规则 ​ * **规则 1**：将您的卷*及其运行时间*作为顶级评论提交（意味着您直接回复此帖子） * **规则 2**：*具体说明您在年*（纳税=作为专业人士、新手的年数）。 * **规则 3**：解释发布卷轴的原因/方向。你是新来的吗？您与客户合作已有十年了吗？给我们明确的方向，告诉我们你想要什么。  * **规则 4**：您必须查看另外两个卷轴。 **二**。您有五天的时间来完成此任务，并对两个不同的卷轴做出响应。 **然后**编辑您发布卷轴的评论：并输入两个用户名。 ​ **可接受的发布平台**：您的 Vimeo 网站或未列出的 YouTube 链接。如果我们发现观看次数达到 10k 的频道或视频的链接，请注意该帖子不适用于此类内容。 ​ 审核团队将对此进行监控，我们正在努力鼓励社区（即您）提供帮助。这就是为什么提供两条评论至关重要。 ​ 最后，作为评估人们的卷轴的人：如果存在大量动态图形，我希望您能够创建它们和/或将其作为服务提供。如果颜色分级是一项技能，并且您从原木过渡到成品等级，那么这就是一个明确的危险信号。 ​ ​ ​ ***复制/粘贴此部分：*** ​ * 卷轴链接：（不要忘记运行时间） * 经验： * 方向： * 我查看的两个卷轴：   由   提交 /u/greenysmac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1s0jtl8/sunday_reel_review/</guid>
-      <pubDate>Sun, 22 Mar 2026 12:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
