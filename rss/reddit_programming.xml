@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 25 Mar 2026 15:58:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 18:41:56 GMT</lastBuildDate>
+    <item>
+      <title>转换一次，使用多次：用于从网页中进行可缓存、类型化语义提取的 SDF</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3jc75/convert_once_consume_many_sdf_for_cacheable_typed/</link>
+      <description><![CDATA[ 由   提交/u/PlayfulLingonberry73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3jc75/convert_once_consume_many_sdf_for_cacheable_typed/</guid>
+      <pubDate>Wed, 25 Mar 2026 18:41:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我于 2025 年 10 月构建了 AI 内存功能。Anthropic 于 2026 年发布了 Auto-memory、MEMORY.md 和 Auto-dream。他们不会对我的先前技术通知做出回应。</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3jak0/i_built_ai_memory_features_in_oct_2025_anthropic/</link>
+      <description><![CDATA[我是一名独立开发者。 2025 年 10 月，我发布了 Continuity — 一个 VS Code 扩展，可为 AI 编码助手提供跨会话的持久记忆。 Continuity 的作用（自 2025 年 10 月起）：  将决策和上下文存储为本地 markdown/JSON 文件 自动捕获架构决策 (AutoDecisionLogger.ts) 分析对话以获取见解(ConversationAnalyzer.ts) 监视文件更改 (ArchitecturalFileWatcher.ts) 在会话开始时注入上下文 通过 MCP 与 Claude、Cursor、Copilot 配合使用  Claude Code 在 2026 年发布的内容：  MEMORY.md — 本地 Markdown 存储 自动记忆 — 自动捕获上下文 自动梦想 — 在工作时自动捕获见解 启动时的会话注入  并排比较：   我的代码（10 月） 2025) 克劳德·代码 (2026)    SESSION_NOTES.md MEMORY.md   AutoDecisionLogger.ts 自动记忆   ConversationAnalyzer.ts 自动梦想   ArchitecturalFileWatcher.ts 文件检测   ProjectInstructionsGenerator.ts CLAUDE.md   71 个服务文件 ?   80 多个 MCP 工具 内置   756+ 个决策 新功能   时间线：  2025 年 10 月 3 日 — 首次提交（哈希： 4713a7bc109e3eb55e0fa4fd35f22012bc291060) 2025 年 10 月 31 日 — 发布在 VS Code Marketplace 2025 年 12 月 —“会话内存” Claude Code 中泄露 2026 年 1 月 - MEMORY.md 发布 2026 年 3 月 - 添加自动梦想  我做了什么：  2025 年 12 月 20 日 - 联系了 Anthropic 支持（票证） #215472360013037) 2025 年 12 月 25 日 - 向其法律团队发送正式的现有技术通知 2026 年 1 月 9 日 - 发送后续请求确认 2026 年 3 月 - 再次尝试支持聊天  我得到的答复：什么也没有。四次尝试。零响应。 我并不是指责他们复制代码。我无法证明他们看到了我的作品。但架构上的重叠很明显，而且我在发货前四个月就发布了。 我所要求的只是确认我的通信已收到。就是这样。 证据：  GitHub：https://github.com/Alienfader/continuity VS Code Marketplace：搜索“Continuity” 要点：https://gist.github.com/Alienfader/9140a7311164d37a90f16600a1e4b6f1  还有其他人处理过这个问题吗？独立开发者实际上拥有什么资源？   由   提交 /u/Alienfader   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3jak0/i_built_ai_memory_features_in_oct_2025_anthropic/</guid>
+      <pubDate>Wed, 25 Mar 2026 18:39:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始量化</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3ihd9/quantization_from_the_ground_up/</link>
+      <description><![CDATA[ 由   提交/u/eatonphil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3ihd9/quantization_from_the_ground_up/</guid>
+      <pubDate>Wed, 25 Mar 2026 18:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>平台工程的目标是让正确的事情变得简单。您不通过策略强制遵守。您构建一个平台，其中合规路径是最快的路径。</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3i5ri/the_goal_of_platform_engineering_is_to_make_the/</link>
+      <description><![CDATA[ 由   提交 /u/Low-Trust2491   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3i5ri/the_goal_of_platform_engineering_is_to_make_the/</guid>
+      <pubDate>Wed, 25 Mar 2026 17:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mojo（还）不是 Python</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3gbuz/mojos_not_yet_python/</link>
+      <description><![CDATA[ 由   提交/u/eatonphil  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3gbuz/mojos_not_yet_python/</guid>
+      <pubDate>Wed, 25 Mar 2026 16:54:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>论文：如果可独立部署的函数共享内存而不是在它们之间序列化数据会怎么样？</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3fnlu/paper_what_if_independently_deployable_functions/</link>
+      <description><![CDATA[ 由   提交/u/PlayfulLingonberry73  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3fnlu/paper_what_if_independently_deployable_functions/</guid>
+      <pubDate>Wed, 25 Mar 2026 16:30:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化的黄金标准：RollerCoaster Tycoon 的幕后花絮</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3fj4b/the_gold_standard_of_optimization_a_look_under/</link>
+      <description><![CDATA[ 由   提交 /u/r_retrohacking_mod2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3fj4b/the_gold_standard_of_optimization_a_look_under/</guid>
+      <pubDate>Wed, 25 Mar 2026 16:25:44 GMT</pubDate>
+    </item>
     <item>
       <title>开源不是小费罐——是时候对访问收费了</title>
       <link>https://www.reddit.com/r/programming/comments/1s3ams9/open_source_isnt_a_tip_jar_its_time_to_charge_for/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[我们刚刚受到了损害，成千上万的人可能也受到了损害，更多详细信息已在链接中更新 更新：发现这一点的 Callum McMahon 写了一份解释和事后分析，详细介绍了：https://futuresearch.ai/blog/no-prompt-injection-required   由   提交/u/ddp26  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1s2h8lt/litellm_1827_and_1828_on_pypi_are_compromised_do/</guid>
       <pubDate>Tue, 24 Mar 2026 15:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>恶意 Litellm 1.82.8：凭证盗窃和持久后门</title>
-      <link>https://www.reddit.com/r/programming/comments/1s2h4by/malicious_litellm_1828_credential_theft_and/</link>
-      <description><![CDATA[litellm，一个著名的 python 包遭到泄露，它甚至无需导入即可在您的系统上执行 - 云信用、SSH 密钥、K8s 机密、加密钱包、环境变量等等，全部都渗透到攻击者的服务器。 完整的技术分析： https://safedep.io/malicious-litellm-1-82-8-analysis/   由   提交/u/No_Plan_3442   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s2h4by/malicious_litellm_1828_credential_theft_and/</guid>
-      <pubDate>Tue, 24 Mar 2026 15:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>还不要把 Java 排除在外</title>
-      <link>https://www.reddit.com/r/programming/comments/1s2gjgv/dont_count_java_out_yet/</link>
-      <description><![CDATA[我记得刚开始工作时，我很喜欢参观这座古老的大型机大楼，那里有“严肃的”工作人员。软件工程工作正在进行中。大型机早已不复存在，但这个地方的硬核氛围仍然挥之不去。 当我找借口走过大楼的不同部分，试图偷偷一睹我想象中的计算魔法时，我总是注意到的一件事是 InfoWorld 的副本散落在桌子和桌子上（是的，甚至在浴室 - 嘿，我说它是硬核;-) ）。 我我想那些日子现在已经过去了，但很高兴看到信息世界由一些才华横溢、知识渊博的作者创作。 马特Tyson 绝对是其中之一，这篇文章很好地解释了为什么尽管有 #rust / #golang / #elixir 热潮，#java 仍然是值得击败的语言和框架。 （有一天我终于要学习#spring并重新加入java俱乐部了。）   由   提交/u/scottedwards2000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s2gjgv/dont_count_java_out_yet/</guid>
-      <pubDate>Tue, 24 Mar 2026 15:12:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计 Python 语言服务器：塑造 Pyrefly 的 Pyre 的经验教训</title>
-      <link>https://www.reddit.com/r/programming/comments/1s2bw68/designing_a_python_language_server_lessons_from/</link>
-      <description><![CDATA[Pyrefly 是下一代 Python 类型检查器和语言服务器，其设计速度极快，并具有高级重构和类型推断功能。  Pyrefly 是 Pyre 的精神继承者，Pyre 是由同一团队开发的之前的 Python 类型检查器。这两种类型检查器之间的差异远远超出了从 OCaml 到 Rust 的简单重写 - 我们从头开始设计了 Pyrefly，具有完全不同的架构。 Pyrefly 的设计直接来自我们使用 Pyre 的经验。有些事情在规模上运作良好，而另一些则不然。在大量 Python 代码库上运行类型检查器很长时间后，我们更清楚地了解哪些权衡对用户来说真正重要。 这篇文章是 Pyre 的一些经验教训的总结，这些教训影响了我们如何使用 Pyrefly。 博客链接：https://pyrefly.org/blog/lessons-from-pyre/ 下面提供了主题大纲，以便您可以决定是否值得花时间阅读:) - 语言服务器优先架构 - OCaml 与 Rust - 不可逆的 AST 降低 - 健全性与可用性 - 缓存循环数据依赖项   由   提交/u/BeamMeUpBiscotti   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s2bw68/designing_a_python_language_server_lessons_from/</guid>
-      <pubDate>Tue, 24 Mar 2026 12:06:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>ESP32 上的手持式 NES</title>
-      <link>https://www.reddit.com/r/programming/comments/1s2blu7/handheld_nes_on_a_esp32/</link>
-      <description><![CDATA[ 由   提交/u/BlueGoliath  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s2blu7/handheld_nes_on_a_esp32/</guid>
-      <pubDate>Tue, 24 Mar 2026 11:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么现在有这么多语言都有分配器</title>
-      <link>https://www.reddit.com/r/programming/comments/1s2b2wt/why_so_many_languages_have_allocators_now/</link>
-      <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s2b2wt/why_so_many_languages_have_allocators_now/</guid>
-      <pubDate>Tue, 24 Mar 2026 11:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>孤独的 lisp 中的生成器</title>
-      <link>https://www.reddit.com/r/programming/comments/1s2077v/generators_in_lone_lisp/</link>
-      <description><![CDATA[ 由   提交/u/matheusmoreira   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s2077v/generators_in_lone_lisp/</guid>
-      <pubDate>Tue, 24 Mar 2026 01:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复 Python 自动完成功能只需要一张表</title>
-      <link>https://www.reddit.com/r/programming/comments/1s1rynd/a_table_was_all_that_was_needed_to_fix_python/</link>
-      <description><![CDATA[ 由   提交/u/matan-h   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s1rynd/a_table_was_all_that_was_needed_to_fix_python/</guid>
-      <pubDate>Mon, 23 Mar 2026 20:07:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
