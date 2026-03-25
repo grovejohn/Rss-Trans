@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 25 Mar 2026 06:49:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 09:42:09 GMT</lastBuildDate>
+    <item>
+      <title>TeamPCP 攻击如何利用 CI/CD 管道和可信版本来释放受感染的 Trivy 和 LiteLLM 软件包</title>
+      <link>https://www.reddit.com/r/programming/comments/1s35ohw/how_the_teampcp_attack_exploited_cicd_pipelines/</link>
+      <description><![CDATA[TeamPCP 攻击展示了如何通过受损管道滥用 CI/CD 到受损存储库，以推出软件包中的信息窃取者。最值得注意的是 Aquasec 的整个 GitHub acc，包括 Trivy repo 和 LiteLLM python 包。   由   提交/u/raptorhunter22  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s35ohw/how_the_teampcp_attack_exploited_cicd_pipelines/</guid>
+      <pubDate>Wed, 25 Mar 2026 09:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enterprise RAG：通过检索使 AI 值得信赖</title>
+      <link>https://www.reddit.com/r/programming/comments/1s3424h/enterprise_rag_making_ai_trustworthy_with/</link>
+      <description><![CDATA[最危险的 AI 输出是那些看起来完全正确但完全错误的输出。   由   提交 /u/Low-Trust2491   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s3424h/enterprise_rag_making_ai_trustworthy_with/</guid>
+      <pubDate>Wed, 25 Mar 2026 07:27:42 GMT</pubDate>
+    </item>
     <item>
       <title>GCD 内核 — 域网络</title>
       <link>https://www.reddit.com/r/programming/comments/1s32va2/gcd_kernel_domain_network/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/BlueGoliath  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1s2b2wt/why_so_many_languages_have_allocators_now/</guid>
       <pubDate>Tue, 24 Mar 2026 11:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>孤独的 lisp 中的生成器</title>
-      <link>https://www.reddit.com/r/programming/comments/1s2077v/generators_in_lone_lisp/</link>
-      <description><![CDATA[ 由   提交/u/matheusmoreira   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s2077v/generators_in_lone_lisp/</guid>
-      <pubDate>Tue, 24 Mar 2026 01:28:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>修复 Python 自动完成功能只需要一张表</title>
-      <link>https://www.reddit.com/r/programming/comments/1s1rynd/a_table_was_all_that_was_needed_to_fix_python/</link>
-      <description><![CDATA[ 由   提交/u/matan-h   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s1rynd/a_table_was_all_that_was_needed_to_fix_python/</guid>
-      <pubDate>Mon, 23 Mar 2026 20:07:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
