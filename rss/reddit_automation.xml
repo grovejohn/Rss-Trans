@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 25 Mar 2026 01:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 04:47:46 GMT</lastBuildDate>
+    <item>
+      <title>如何用 131 行 Python 构建通用 AI 代理</title>
+      <link>https://www.reddit.com/r/automation/comments/1s2xgxv/how_to_build_a_generalpurpose_ai_agent_in_131/</link>
+      <description><![CDATA[       由   提交 /u/Far_Inflation_8799   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s2xgxv/how_to_build_a_generalpurpose_ai_agent_in_131/</guid>
+      <pubDate>Wed, 25 Mar 2026 01:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最喜欢的自动化并没有减少我的任何工作</title>
+      <link>https://www.reddit.com/r/automation/comments/1s2wt4v/my_favorite_automation_didnt_take_any_work_off_my/</link>
+      <description><![CDATA[但我仍然喜欢它。  我经营一家冒险公园，提供彩弹射击、投斧、射箭、露营、气枪和凝胶喷射器。这些活动都有不同的最低年龄和游玩方式（步入式还是预约式）。我大约 80% 的电话都是在与人们讨论所有不同的选择，并试图清楚地传达可用的内容和费用。要向客户提供大量信息。  因此，我构建了一个自定义文本后续内容。它所做的就是向客户发送我们谈话的摘要。客户的反应非常好，这让我更容易记住客户的回电。  我知道这有点违背了自动化的目的，因为它没有减轻我的任何工作，但客户的反应是非常值得的。    由   提交 /u/maxinedenis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s2wt4v/my_favorite_automation_didnt_take_any_work_off_my/</guid>
+      <pubDate>Wed, 25 Mar 2026 01:17:13 GMT</pubDate>
+    </item>
     <item>
       <title>为本地服务企业构建了未接来电短信分类工作流程，共享设置</title>
       <link>https://www.reddit.com/r/automation/comments/1s2uobs/built_a_missedcall_sms_triage_workflow_for_local/</link>
@@ -48,13 +62,6 @@
       <pubDate>Tue, 24 Mar 2026 18:14:12 GMT</pubDate>
     </item>
     <item>
-      <title>因此，我创建了一个自动化的 AI 层来浪费垃圾邮件呼叫者的时间，这些呼叫者不断给我打电话（无论是否提交 DNC），并且它完全智胜了他们</title>
-      <link>https://www.reddit.com/r/automation/comments/1s2j28m/so_i_created_an_automated_ai_layer_to_waste_spam/</link>
-      <description><![CDATA[      连续近两个月，我厌倦了每天接到来自同一家公司 4 次以上的垃圾电话。他们一直无视“请勿呼叫”注册表，尽管他们声称已经实现了该注册表。 因此，我决定构建一些东西来反击：一个人工智能来接管并浪费他们的时间。 我使用 Twilio、OpenAI、ElevenLabs、Deepgram 以及 Web 套接字、音频压缩和 VOIP 的组合将其组合在一起。这是一个有趣的项目。 现在，我还没有准备好将其公开（因为它确实需要一些运行成本），但如果有足够多的人感兴趣。 让我知道你的想法！   由   提交/u/mknweb   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s2j28m/so_i_created_an_automated_ai_layer_to_waste_spam/</guid>
-      <pubDate>Tue, 24 Mar 2026 16:42:19 GMT</pubDate>
-    </item>
-    <item>
       <title>有人在他们的业务中使用过人工智能语音代理吗？值得吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1s2inev/has_anyone_used_an_ai_voice_agent_for_their/</link>
       <description><![CDATA[我是一名信贷员，我一直在研究人工智能语音代理。当我已经与借款人通电话时，我每周都会错过电话，而这些错过的电话通常是新的线索。我想知道 AI 语音代理是否可以处理诸如接听来电、询问合格问题以及在日历上预订约会等事务。 我还需要它与 CRM 配合使用，这样我就不必在每次通话后手动记录所有内容。我在网上看到过一些名字，比如 Shape CRM、Bland、Retell 等，但我分不清什么是好的，什么只是营销。这里有人用过AI语音助手吗？它是否有所作为，或者是否比其价值更麻烦？   由   提交 /u/Ok-Concentrate8650   [链接] [评论]]]></description>
@@ -67,13 +74,6 @@
       <description><![CDATA[不是谈论庞大的系统。 只是安静地删除重复任务的小型自动化。 有时，最小的工作流程可以带来最大的缓解。 好奇人们每天依赖什么简单的自动化。   由   提交 /u/Solid_Play416   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s2di0s/whats_the_simplest_automation_that_saved_you_time/</guid>
       <pubDate>Tue, 24 Mar 2026 13:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我正在重新考虑我对无代码自动化服务的立场</title>
-      <link>https://www.reddit.com/r/automation/comments/1s2d75t/why_im_reconsidering_my_stance_on_nocode/</link>
-      <description><![CDATA[我曾经是一名自己构建一切的开发人员，但维护正式降低了我的生产力。每次 API 更改或令牌过期时，十几个工作流程都会中断，而我是唯一能够修复它们的人。我开始研究专业的无代码自动化服务，这些服务实际上提供一定程度的支持或监督，因此我不必 24/7 待命以进行简单的数据同步。对于那些转向托管服务设置的人来说，这种安心值得付出订阅费用吗？   由   提交 /u/Champ-shady   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s2d75t/why_im_reconsidering_my_stance_on_nocode/</guid>
-      <pubDate>Tue, 24 Mar 2026 13:04:51 GMT</pubDate>
     </item>
     <item>
       <title>您在日常生活中实际使用哪些人工智能工具（以及用途）？</title>
