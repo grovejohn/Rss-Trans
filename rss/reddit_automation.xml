@@ -4,7 +4,35 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 25 Mar 2026 21:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 01:07:14 GMT</lastBuildDate>
+    <item>
+      <title>自动化教程：使用 AHK v2 构建桌面文件管理器</title>
+      <link>https://www.reddit.com/r/automation/comments/1s3q8vw/automation_tutorial_build_a_desktop_file/</link>
+      <description><![CDATA[ 由   提交/u/Far_Inflation_8799   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s3q8vw/automation_tutorial_build_a_desktop_file/</guid>
+      <pubDate>Wed, 25 Mar 2026 22:56:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何防止自动化成为技术债务</title>
+      <link>https://www.reddit.com/r/automation/comments/1s3pw7n/how_do_you_prevent_automation_from_becoming/</link>
+      <description><![CDATA[在构建了几个工作流程后，我意识到了一些事情。 如果没有文档或命名标准，事情很快就会变得混乱。 尤其是几个月后。 你记录你的自动化还是依赖记忆？   由   提交/u/Solid_Play416  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s3pw7n/how_do_you_prevent_automation_from_becoming/</guid>
+      <pubDate>Wed, 25 Mar 2026 22:42:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不相信有关无代码人工智能代理的炒作，然后我发货了一个......</title>
+      <link>https://www.reddit.com/r/automation/comments/1s3plab/i_didnt_believe_the_hype_around_nocode_ai_agents/</link>
+      <description><![CDATA[我认为无代码人工智能代理被夸大了。感觉每隔几个月就会出现一个新工具，每个人都说它会改变一切，但大多数时候事实并非如此。我仍然构建了一个只是为了看看实际会发生什么，没什么复杂的，只是一个简单的代理处理重复的工作流程，例如资格潜在客户和跟进。 令我惊讶的不是构建，这部分确实很快。这就是之后发生的一切。我没有将其视为一项服务并为每个客户重建相同的东西，而是保留了相同的代理，并且只是让人们每月访问它。一旦上线，它就开始运行。 第一周的结果比预期的更有趣。大约 8 个付费客户，大约 300 美元的 mrr，大约 70 个用户进行测试，并创建了近 200 个代理。虽然还为时尚早，但足以看到模式的形成。人们不会只构建一个代理然后停下来，他们会很快尝试多个代理，有些人已经采用模板并将其直接出售给自己的客户。 对我来说，转变在于它不再是关于构建的。一旦某项工作正常并持续运行，您就不会每次都从零开始。它变成了你可以重复使用并继续销售的东西，而不是你交付一次并继续使用的东西。 感觉有趣的部分甚至不是人工智能本身，而是现在将简单的东西变成可重复的东西是多么容易。 好奇这里的人们正在用它构建什么，以及你是否看到相同的东西或完全不同的东西   由   提交 /u/LevelZestyclose2939   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s3plab/i_didnt_believe_the_hype_around_nocode_ai_agents/</guid>
+      <pubDate>Wed, 25 Mar 2026 22:30:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有先进自动化的视频吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1s3obif/any_videos_of_an_advanced_automation/</link>
+      <description><![CDATA[我看到很多人描述他们的自动化管道，但很少有复杂自动化的视觉演示或解释。谁能推荐一些好的资源吗？谢谢！   由   提交 /u/SnooPeripherals5313   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s3obif/any_videos_of_an_advanced_automation/</guid>
+      <pubDate>Wed, 25 Mar 2026 21:42:00 GMT</pubDate>
+    </item>
     <item>
       <title>是否有值得在机构中使用的人工智能工具或人工智能自动化？</title>
       <link>https://www.reddit.com/r/automation/comments/1s3l0c6/are_there_any_ai_tools_or_ai_automations_worth/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>让自动化变得简单</title>
       <link>https://www.reddit.com/r/automation/comments/1s3kvca/making_automation_easy/</link>
-      <description><![CDATA[感觉很多“人工智能自动化”仍然会在您超越简单触发器的那一刻中断。 不是因为集成，而是因为：  决定何时采取行动与响应 可靠地处理多步骤工作流程 处理故障（API、丢失数据、不良状态）  大多数设置（Zapier、n8n 等）都假设确定性流。但是一旦你插入 LLM，一切都变得有概率性了，这就是事情开始变得混乱的地方。 我一直在思考的一件事是瓶颈是否实际上是数据集，而不是模型。 大多数训练数据都是针对干净的输出而不是现实世界的执行进行优化的。但真实的系统会以非常具体的方式失败——错误的工具、错误的排序、重试循环等。 如果你能系统地捕获这些（通过 QC/故障报告），你实际上可以进行可靠性训练，而不是仅仅希望它能概括。 这是我们在 Dino 一直在探索的东西——围绕工具使用 + 工作流程 + 故障状态构建数据集，并使用 QC 报告来准确找出问题所在，以便我们可以迭代地修复它们。  很好奇这里的其他人是如何思考这个问题的 - 当您尝试将自动化推向简单流程之外时，您是否遇到类似的问题？   由   提交/u/JayPatel24_  [链接] [评论]]]></description>
+      <description><![CDATA[感觉很多“人工智能自动化”仍然会在您超越简单触发器的那一刻中断。 不是因为集成，而是因为：  决定何时采取行动与响应 可靠地处理多步骤工作流程 处理故障（API、丢失数据、不良状态）  大多数设置（Zapier、n8n 等）都假设确定性流。但是一旦你插入 LLM，一切都会变得有概率性——这就是事情开始变得混乱的地方。 我一直在思考的一件事是瓶颈是否实际上是数据集，而不是模型。 大多数训练数据都是针对干净的输出而不是现实世界的执行进行优化的。但真实的系统会以非常具体的方式失败——错误的工具、错误的排序、重试循环等。 如果你能系统地捕获这些（通过 QC/故障报告），你实际上可以进行可靠性训练，而不是仅仅希望它能概括。 这是我们在 Dino 一直在探索的东西——围绕工具使用 + 工作流程 + 故障状态构建数据集，并使用 QC 报告来准确找出问题所在，以便我们可以迭代地修复它们。  很好奇这里的其他人是如何思考这个问题的 - 当您尝试将自动化推向简单流程之外时，您是否遇到类似的问题？   由   提交/u/JayPatel24_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s3kvca/making_automation_easy/</guid>
       <pubDate>Wed, 25 Mar 2026 19:36:21 GMT</pubDate>
     </item>
@@ -55,25 +83,11 @@
       <pubDate>Wed, 25 Mar 2026 12:31:29 GMT</pubDate>
     </item>
     <item>
-      <title>寻找 5 个 Shopify 品牌来实现客户支持自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1s39aq6/looking_for_5_shopify_brands_to_automate_their/</link>
-      <description><![CDATA[您好， 我是世界上最大的 IT 公司之一埃森哲的软件开发人员。 我正在寻找 5 家 Shopify 商店来帮助自动化他们的客户支持。  这意味着所有 1 级请求（例如“我的订单在哪里？”）将在测试运行后由 AI 处理。 我将连接将其发送给 Shopify 以及您的 Zendesk 或 Gorgias 等支持工具。 我还会与您通话，训练人工智能以匹配您的品牌声音。  费用：免费，因为我正在构建案例研究。 如果您感兴趣，请发表评论。    由   提交 /u/Total-Mention9032   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s39aq6/looking_for_5_shopify_brands_to_automate_their/</guid>
-      <pubDate>Wed, 25 Mar 2026 12:27:36 GMT</pubDate>
-    </item>
-    <item>
       <title>自动进行电子邮件列表分段的工具</title>
       <link>https://www.reddit.com/r/automation/comments/1s392ii/tools_to_automate_your_email_list_segmentation/</link>
       <description><![CDATA[我们的业务正处于增长模式，并开始考虑自动化来帮助进行电子邮件列表细分。你们都使用并推荐哪些平台或工具？我们正在寻找一种可以根据行为、参与度、标签或其他标准进行细分的东西，而无需我花时间在上面。另外，我正在寻找一个能够随着我们规模的扩大而从一开始就发挥作用的平台！以后不想切换！！！ 谢谢！！   由   提交 /u/en-together091820   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s392ii/tools_to_automate_your_email_list_segmentation/</guid>
       <pubDate>Wed, 25 Mar 2026 12:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能编码代理正在您的机器上运行——您知道它们在做什么吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1s38y24/ai_coding_agents_are_running_on_your_machines_do/</link>
-      <description><![CDATA[    /u/Far_Inflation_8799   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s38y24/ai_coding_agents_are_running_on_your_machines_do/</guid>
-      <pubDate>Wed, 25 Mar 2026 12:11:38 GMT</pubDate>
     </item>
     <item>
       <title>到目前为止，哪些人工智能代理让您大吃一惊？</title>
@@ -90,25 +104,11 @@
       <pubDate>Wed, 25 Mar 2026 08:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人厌倦了维护自己的代理+浏览器基础设施吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1s339z1/is_anyone_else_tired_of_maintaining_their_own/</link>
-      <description><![CDATA[我每个月花费大约 10 个小时来保持我的抓取基础设施处于活动状态，更新代理列表，在它们被禁止之前轮换 ip，调试浏览器指纹突然被阻止的原因。 我正在考虑只支付托管浏览器自动化服务的费用，其中其他人处理基础设施，而我只编写提取逻辑。但我发现的所有选项都是：对于我的规模来说太贵了它们可以处理的网站太有限太黑了，当出现问题时我无法调试 中间地带是什么服务，它为我提供内置良好反检测的托管浏览器，但让我控制实际的自动化代码？   由   提交 /u/Any_Artichoke7750   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s339z1/is_anyone_else_tired_of_maintaining_their_own/</guid>
-      <pubDate>Wed, 25 Mar 2026 06:40:25 GMT</pubDate>
-    </item>
-    <item>
       <title>销售团队每周一都会因报告而失败。我们修好了</title>
       <link>https://www.reddit.com/r/automation/comments/1s32pwn/a_sales_team_was_losing_every_monday_to_reports/</link>
-      <description><![CDATA[每个星期一，大型销售团队中的两个人都会花半天时间做同样的事情。 从 CRM 中提取数据。粘贴到电子表格中。追踪区域领导以获取更新。格式化所有内容。发送报告。 14 个步骤。 4个数据源。手工完成。每个星期。 没有人质疑它，因为它一直都是这样工作的。 我们绘制了整个工作流程并实现了端到端的自动化。现在，在任何人坐在办公桌前之前，报告就已到达领导层的收件箱。 70% 的时间已经过去了。 但是，在我们发送报告后，他们的运营经理留下了一句话： “我没有意识到我一周有多少时间只是在移动数据。” 这是没人谈论的隐藏成本。 最重复的事情是什么还在浪费你团队的时间吗？   由   提交 /u/ZealousidealAd9886   [链接] [评论]]]></description>
+      <description><![CDATA[每个星期一，大型销售团队中的两个人都会花半天时间做同样的事情。 从 CRM 中提取数据。粘贴到电子表格中。追踪区域领导以获取更新。格式化所有内容。发送报告。 14 个步骤。 4个数据源。手工完成。每个星期。 没有人质疑它，因为它一直都是这样工作的。 我们绘制了整个工作流程并实现了端到端的自动化。现在，在任何人坐在办公桌前之前，报告就已到达领导层的收件箱。 70% 的时间已经过去了。 但是，在我们发送报告后，他们的运营经理的那句话一直困扰着我： “我没有意识到我一周有多少时间只是在移动数据。” 这是没人谈论的隐藏成本。 最重复的事情是什么还在浪费你团队的时间吗？   由   提交 /u/ZealousidealAd9886   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s32pwn/a_sales_team_was_losing_every_monday_to_reports/</guid>
       <pubDate>Wed, 25 Mar 2026 06:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最喜欢的自动化并没有减少我的任何工作</title>
-      <link>https://www.reddit.com/r/automation/comments/1s2wt4v/my_favorite_automation_didnt_take_any_work_off_my/</link>
-      <description><![CDATA[但我仍然喜欢它。  我经营一家冒险公园，提供彩弹射击、投斧、射箭、露营、气枪和凝胶喷射器。这些活动都有不同的最低年龄和游玩方式（步入式还是预约式）。我大约 80% 的电话都是在与人们讨论所有不同的选择，并试图清楚地传达可用的内容和费用。要向客户提供大量信息。  因此，我构建了一个自定义文本后续内容。它所做的就是向客户发送我们谈话的摘要。客户的反应非常好，这让我更容易记住客户的回电。  我知道这有点违背了自动化的目的，因为它没有减轻我的任何工作，但客户的反应是非常值得的。    由   提交 /u/maxinedenis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s2wt4v/my_favorite_automation_didnt_take_any_work_off_my/</guid>
-      <pubDate>Wed, 25 Mar 2026 01:17:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
