@@ -4,111 +4,111 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 26 Mar 2026 18:50:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 21:23:48 GMT</lastBuildDate>
     <item>
-      <title>我的想法一团糟 - 然后我开始以“有组织”的方式维护我的法学硕士提示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4g2ir/my_notion_was_a_mess_then_i_started_maintaining/</link>
-      <description><![CDATA[我是一名软件工程师，我喜欢构建工具。 在过去的一年里，我一直在进行大量人工智能驱动的编码。 随着我开始提示，提示的数量和长度开始增加。 根据我的经验，即使提示中的几个单词发生变化，也可以改变产品的性质。 提示基本上使我使用 Notion 页面来管理我的所有提示——针对我构建的每个功能，并一遍又一遍地迭代它们。但是随着提示的增加（现在超过 125 个），我的 Notion 开始变得一团糟。管理变得困难。 有很多重复的提示。我无法跟踪两个提示有何不同或维护每个提示的注释。 就在那时，我继续为自己构建了一个内部工具来管理我的提示库。它存储、版本和比较提示。 使用几个月后，我意识到其他人可能面临类似的问题。所以我将其投入使用。 现在它已在 PowerPrompt(dot)Tech 上启动并运行 - 您可以去尝试一下。 我愿意接受有关新功能的建议或任何反馈。请告诉我！   由   提交 /u/Who-let-the   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4g2ir/my_notion_was_a_mess_then_i_started_maintaining/</guid>
-      <pubDate>Thu, 26 Mar 2026 18:42:51 GMT</pubDate>
+      <title>评价我的食谱网站[周六炫耀]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s0ccqp/rate_my_recipe_website_showoff_saturday/</link>
+      <description><![CDATA[      我创建了一个食谱网站，更多的是为了跟踪我自己已经开始堆积的食谱。我也想开始服用家庭食谱。没有广告，只做真实的自己。我有货币化的想法，所以我在每个食谱前面添加了这篇文章，但我可能会把它去掉，因为与其他食谱网站竞争会很蹩脚。    由   提交 /u/semi-average-writer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s0ccqp/rate_my_recipe_website_showoff_saturday/</guid>
+      <pubDate>Sun, 22 Mar 2026 04:29:35 GMT</pubDate>
     </item>
     <item>
-      <title>MS Clarity 的访客记录报告示例</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4fz2l/example_visitor_recording_report_from_ms_clarity/</link>
-      <description><![CDATA[在听到有关此免费工具的好评后，我最近注册了 Microsoft Clarity。相当惊人的功能，感觉有点令人毛骨悚然。以下是我收到的一个示例记录报告，它链接到完整记录的视频：   访问者从 Reddit 到达，最初登陆有关该网站技术堆栈的博客文章，只花了几秒钟就点击进入博客主页面。 在博客页面上，他们尝试单击“项目”几乎立即 (00:06)，但这导致了死点击，表明该链接或按钮当时不起作用。 不久之后，在 00:08），该页面被隐藏（可能最小化或切换离开），并且在会话的剩余时间内没有发生进一步的交互，直到它在 05:11 结束。  不是非常有用，但我已经几乎没有做任何事情来让这个工作。我认为项目链接可能是一个“新选项卡”点击人工智能将其视为视频中的死链接。    由   提交 /u/AndyMagill   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4fz2l/example_visitor_recording_report_from_ms_clarity/</guid>
-      <pubDate>Thu, 26 Mar 2026 18:39:14 GMT</pubDate>
+      <title>我构建了一个零依赖性、离线优先的私有日志 PWA。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s0byug/i_built_a_private_offlinefirst_journaling_pwa/</link>
+      <description><![CDATA[我厌倦了每个需要帐户和订阅的简单实用程序应用程序。我构建的每日反思恰恰相反。 这是一个“浏览器本地”的应用程序。杂志。它使用清单文件和服务工作人员，因此您可以“安装”它在 iOS/Android 上运行，无需互联网连接即可完美运行。 技术亮点：  无需 React/Vue/Svelte，只需 Vanilla JS。 使用 Canvas API 进行情绪趋势可视化。 用于“低保真”效果的手绘 SVG 插图。美观。 用于持久性的本地存储（使用 .json 导入/导出进行备份）。 每月 PDF 导出，供需要物理副本的用户使用。    由   提交/u/Yanina_Yanina   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s0byug/i_built_a_private_offlinefirst_journaling_pwa/</guid>
+      <pubDate>Sun, 22 Mar 2026 04:08:57 GMT</pubDate>
     </item>
     <item>
-      <title>在设计地图标记时，我需要一些关于色盲/可用性的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4fn4k/i_need_some_advice_for_colorblindnessusability/</link>
-      <description><![CDATA[我正在开发一个应用程序，该应用程序将在地图上显示大量标记。我（必须）依靠颜色来区分代表不同事物的不同类型的标记（因为当有很多标记形状时，除圆形之外的标记形状渲染起来很慢）。但我对如何使其能够防止色盲没有经验。 我认为人工智能可以很容易地向我解释这一点，但它不断给我提供一组“可以安全地在所有色盲类型中使用”的颜色，尽管它们包含一些配对，即使对于我自己来说也很难区分，因为我不是色盲。 我应该如何解决这个问题？一旦我选择了适合常规使用的调色板，我需要采取哪些步骤来确保它在色盲类型中正常工作？我从哪里开始？我认为总共不应该超过 7 种颜色。   由   提交 /u/Fueled_by_sugar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4fn4k/i_need_some_advice_for_colorblindnessusability/</guid>
-      <pubDate>Thu, 26 Mar 2026 18:27:20 GMT</pubDate>
+      <title>[周六炫耀] 快速简单的交易通知，无需域名设置。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s0bw17/showoff_saturday_quick_easy_transactional/</link>
+      <description><![CDATA[      大家好。这项服务已经推出了一段时间，但仅在大约六人之间私下使用。  这个周末，我们清理了它并向任何人提供。  您是否曾经开始为自己设置一些内容，您想要收到通知，但又不想进行整个电子邮件设置/重新发送/更改 mx 记录等？ 只需获取像 notify.diy/[youridhere] 这样的链接，您就可以使用 ?URL 参数或发送 JSON 正文来点击它。接受 HTML 或纯文本。  电子邮件通过我们的通用 sendvia.email 域路由，并根据您在 JSON 有效负载或 URL 参数中设置的方式以及您选择的回复进行标记。您可以将它们用于任何类型的事务触发器。您还可以使用它们来发送对 CSV/XLS 或 QR 代码的响应 -&gt;电子邮件作为触发器或二维码 -&gt;捕获表格-&gt;电子邮件。  我最近使用这些链接让代理能够发送电子邮件。他们只需构建链接或通过 CLI 获取即可发送电子邮件。很简单，他们这周只发送了我的社会安全号码两次！  1 个通知挂钩免费，每天最多 10 条消息。 5 个通知挂钩，每天最多 500 条消息，每月 3 美元。 100 个通知挂钩，每天最多 1000 条消息，每月 9 美元。 如果您需要更多...那么是时候设置自己的电子邮件并去其他地方了。  如果你像我一样，每次只想发送一个简单的通知而不是一堆喧嚣时都会叹息，那么这就是为你准备的。  感谢您的浏览！ Notify.DIY Notify.DIY   由   提交 /u/ExistentialConcierge   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s0bw17/showoff_saturday_quick_easy_transactional/</guid>
+      <pubDate>Sun, 22 Mar 2026 04:04:52 GMT</pubDate>
     </item>
     <item>
-      <title>我现在收到的最常见的自由职业请求不是“为我构建一些东西”，而是“将我的东西连接在一起”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4exdv/the_most_common_freelance_request_i_get_now_isnt/</link>
-      <description><![CDATA[注意到过去一年左右的变化。过去常常受雇从头开始建造东西。现在，我的一半工作只是...将现有工具粘合在一起，为那些甚至不知道自己可以互相交谈的人提供帮助。 仅上个月：将客户的 HubSpot 连接到他们的预约系统，以便自动填充线索，无需手动输入。设置 Zapier 流程​​，当交易在 CRM 中移动时，该流程会触发 SMS 活动。将 Twilio 无环语音邮件链接到房地产经纪人的主要管道（因此，当新列表与已保存的搜索匹配时，语音邮件会自动消失）。将 WooCommerce 商店与 Klaviyo 和评论平台同步，因此购买后序列实际上可以在没有人照顾的情况下运行。 这一切都不需要编写太多代码。主要是 API、Webhooks 和一些逻辑。但客户不知道如何去做，而且老实说也不想学习。他们只是希望他们的工具能够相互通信。 疯狂的部分：其中一些“集成”是由他们自己实现的。需要 3-4 小时，他们支付 500-800 美元的固定费用。客户不再因价格而烦恼，而是松了一口气。因为他们的替代方案是支付 5 个不通信的不同订阅费用，并永远进行手动数据输入。不知道对此有何感受。一方面，客户会为我花费几个小时的工作支付高额费用，而且他们真的很高兴。另一方面，感觉有些不对劲。挑战有点……消失了吗？就像我曾经熬夜调试一些奇怪而烦人的东西，感觉就像真正解决了一个难题一样。现在主要是“找到 webhook，映射字段，测试，完成”。高效的。我猜很无聊？ 这只是我的经验还是“集成自由职业”？悄悄地成为自己的东西？   由   提交/u/CloneFiesta  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4exdv/the_most_common_freelance_request_i_get_now_isnt/</guid>
-      <pubDate>Thu, 26 Mar 2026 18:01:38 GMT</pubDate>
+      <title>使用 p5.js + React 构建了一个画布动画工具 - 这是损坏的地方（以及我如何修复它）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s0b71x/built_a_canvas_animation_tool_with_p5js_react/</link>
+      <description><![CDATA[MotionType 使用 p5.js 在浏览器中生成动态排版视频。最大的挑战：MediaRecorder API 怪癖、30fps 的画布捕获、WebM 导出兼容性。值得——现在设计师可以跳过 AE 来进行简单的文本运动。技术：React 18、p5.js、TypeScript。直播于 ahmedraouf.online/lab   由   提交 /u/3mo-ahmed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s0b71x/built_a_canvas_animation_tool_with_p5js_react/</guid>
+      <pubDate>Sun, 22 Mar 2026 03:29:20 GMT</pubDate>
     </item>
     <item>
-      <title>使用 webgpu 和基本上所有网络技术创建一个照片编辑器是个好主意吗（一个真正的编辑器，而不是一个基本编辑器）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4epiu/is_it_a_good_idea_to_create_a_photo_editor_using/</link>
-      <description><![CDATA[所以我想构建这个，但目前我不知道它会如何进行，我只通过其他抽象使用过 webgpu，但我希望我能弄清楚，但是，像 React 作为前端和实际编辑图像的绘图，我将使用 webgpu？我确实希望它成为一个真正的照片编辑器，类似于 photopea，但可能具有更多功能。跨平台是必须的，必须在 Linux 上工作。我希望它成为一个桌面应用程序，但经过研究，结果发现 webview 和 webgpu 不太好，所以唯一的选择是使用电子？我的另一个选择是使用 C# 和 avalonia 与 Skia 或其他东西，但我对 C# 知之甚少，从未使用过 avalonia，但愿意学习任何东西来使这成为现实。  我在想它会变得更糟吗？稍后它会变得更重，或者考虑到我正在尝试构建的内容，我可能会面临任何我可能不喜欢的限制，任何一般性建议都值得赞赏，提前致谢   由   提交 /u/FUS3N   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4epiu/is_it_a_good_idea_to_create_a_photo_editor_using/</guid>
-      <pubDate>Thu, 26 Mar 2026 17:54:05 GMT</pubDate>
+      <title>我可以加入哪些社区来获取有关我的网站的反馈吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s0az3i/are_there_any_communities_i_can_join_to_get/</link>
+      <description><![CDATA[我主要是后端开发人员，我一直在制作更多网站，但我觉得我无法完全描绘我的愿景。我想知道是否有一个社区（即不和谐社区）有提供批评的渠道。泰！！   由   提交 /u/Pokeyy_l   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s0az3i/are_there_any_communities_i_can_join_to_get/</guid>
+      <pubDate>Sun, 22 Mar 2026 03:17:49 GMT</pubDate>
     </item>
     <item>
-      <title>帮我解决这个问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4ei1r/help_me_figure_this_out/</link>
-      <description><![CDATA[      任务是将图像变成可点击的链接。我在 &lt;img&gt; 之前和之后使用了锚标记。标签。我仍然无法通过这个测试。   由   提交/u/Large-Raccoon3767   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4ei1r/help_me_figure_this_out/</guid>
-      <pubDate>Thu, 26 Mar 2026 17:46:40 GMT</pubDate>
+      <title>部署了我的第一个全栈项目。本以为我会感到自豪，结果却感到空虚。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s0adc6/deployed_my_first_full_stack_project_thought_i/</link>
+      <description><![CDATA[嗨r/webdev。我是一名开发人员，自学 Web 开发已有大约一年半的时间。在过去的几个月里，我一直在开发我的第一个真正的全栈应用程序。我所说的真实是指具有 API、数据库和完整身份验证/授权的东西。 horrorhelper.com 是一个查找和评论恐怖电影和电视节目的网站。我想做一些对我有吸引力的东西，因为我喜欢恐怖类型，并且想做一些像我这样的粉丝会喜欢使用的东西。我构建它是为了学习 React、TypeScript、单元测试、AWS，并尝试制作一些可以放在简历中的真实内容（我现在已经完成了，正在考虑起飞）。经过大约五个月的工作，从我讨厌的全职工作回家并投入到这件事上，它现在就在那里。 这让我进入了这篇文章的重点。我以为我会为自己运送一些东西并完成艰苦的工作而感到高兴和超级自豪，而我......大约一个小时。意识到它现在在互联网上，人们可以去看这个作品，我觉得它……坦白地说，太可怕了。我觉得用户界面很糟糕，而且我已经发现导演页面无法正确显示信息的错误。我想我只是想知道这是否是一种正常的感觉，或者我是否只是现在才接受这件事是一件垃圾。我对其他功能和改进有一些想法，我确实想尝试设计一个 CI/CD 工作流程来自动化部署，但我不得不想知道是否值得在这么糟糕的事情上做。我想我只是有点失望，因为推出这个东西并没有让我感到满足，这让我质疑我的技能，或者我是否应该继续追求这个领域。阅读本文的其他人也发生过类似的事情吗？如果有的话你是怎么处理的？我想这就是我最想问的。感谢您的阅读。   由   提交/u/magic_123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s0adc6/deployed_my_first_full_stack_project_thought_i/</guid>
+      <pubDate>Sun, 22 Mar 2026 02:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>曾担任自由职业者或与小型企业合作过的开发人员 - 他们遇到的哪些问题让您感到惊讶？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4dpo2/devs_whove_freelanced_or_worked_with_small/</link>
-      <description><![CDATA[我最近一直在与一些企业主交谈，老实说，他们认为自己需要的东西与实际伤害他们的东西之间的差距是巨大的。 有一个人痴迷于建立一个新网站。结果他真正的问题是，他失去了 60% 的销售线索，因为在提交联系表后没有人跟进。该网站很好。 让我意识到我可能也不了解全部情况。 对于那些与非技术企业密切合作的人来说 - 哪些问题不断出现，而客户从未真正大声说出来？您只是在打了几次电话之后，或者在了解他们的日常实际运作方式之后才弄清楚的东西？ 行业、企业规模，任何东西 - 将其放在下面。真诚地试图了解真正的痛苦在哪里。   由   提交 /u/Altruistic-Shape-600   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4dpo2/devs_whove_freelanced_or_worked_with_small/</guid>
-      <pubDate>Thu, 26 Mar 2026 17:18:27 GMT</pubDate>
+      <title>开发商是否会意外成为合规官员？您如何应对欧盟法规？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s09kj3/are_developers_becoming_accidental_compliance/</link>
+      <description><![CDATA[我在与欧洲各地的开发者和进入欧盟市场的公司交谈时注意到，合规工作越来越多地落在没有接受过法律培训的工程团队身上。 GDPR 已经有很多需要吸收的内容。现在有 CRA（适用于几乎所有软件产品）、NIS2（事件报告义务）、AI Act（发货前风险分类）、DORA（如果您从事金融科技行业）…… 而且源材料非常残酷。我们谈论的是用法律语言编写的 400 页 PDF，分布在数十种官方期刊出版物中，定期修改，并不断相互引用。 向处理过此问题的任何人提出诚实的问题：  这占用了您多少冲刺时间？ 谁真正拥有贵公司的合规性 - 法律、工程，还是“谁得到了票”？ 您是否发现任何真正有帮助的东西，或者每次仍然是手动研究？  问这个问题是因为我一直与不同的开发人员进行同样令人沮丧的对话，并且想知道我的经历是否具有典型性。 提前谢谢您。   由   提交 /u/H4xDrik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s09kj3/are_developers_becoming_accidental_compliance/</guid>
+      <pubDate>Sun, 22 Mar 2026 02:08:49 GMT</pubDate>
     </item>
     <item>
-      <title>用于多个服务的 API 端点库，是否存在？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4da42/api_endpoints_library_for_multiple_services_does/</link>
-      <description><![CDATA[嗨， 我正在寻找一个库，它允许我对许多 API 使用一种单一接口。 比如说，我想将数据发送到 AWS SES，但我不想安装它，并且希望无论如何都能够以编程方式调用它，类似的事情 requests.post(library_endpoint, {vendor: &#39;ses&#39;, params: params}) 对于 mailgun 来说也是如此： requests.post(library_endpoint, {vendor: &#39;mailgun&#39;, params: params}) 重点是能够访问多个来自一个地方具有不同签名的 API。 2 个强制性要求：  REST API 或统一的 PyPi/NPM 端点 库中的统一 API 文档（定期更新）  此外： 可以通过服务器发送请求，但如果该服务器以某种方式接触（存储、缓存等）我的数据，那就不行了。 我希望能够使用 AI 生成函数，但我不想在 Internet 上搜索更新的文档/API 签名，因为 AI 通常没有更新的信息。 它们存在吗？最好有免费/开源选项。 谢谢   由   提交 /u/_SeaCat_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4da42/api_endpoints_library_for_multiple_services_does/</guid>
-      <pubDate>Thu, 26 Mar 2026 17:03:13 GMT</pubDate>
+      <title>我构建了一个组件库，可以让您感受代码幻灯片</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s093wu/i_built_a_component_library_that_lets_you_vibe/</link>
+      <description><![CDATA[      我讨厌使用 Canva。我喜欢 React 我喜欢可重用的组件。我喜欢版本控制。我热爱自由。 我意识到，与在画布上制作非常基本的平台相比，我可以更快地对网站进行振动编码。这个想法基本上导致我建立了slide-cn。它是用于构建幻灯片的 shadcn 风格组件。这些组件解决了幻灯片中的一些棘手部分，例如：  移动视图与桌面视图 幻灯片过渡 配色方案  解决了这些问题后，AI 代理可以轻松浏览幻灯片。证明？我在去参加会议的火车上用 3 个提示对此进行了振动编码。 https://hire-prithvi.vercel.app/ 另外请在 github 上加注星标 https://github.com/prithvi-rajan-222/slide-cn :)   由   提交 /u/Hour_Armadillo_7458   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s093wu/i_built_a_component_library_that_lets_you_vibe/</guid>
+      <pubDate>Sun, 22 Mar 2026 01:46:50 GMT</pubDate>
     </item>
     <item>
-      <title>在 SPA 中首次绘制之前应用动态 CSS 变量的最佳方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4bdaq/best_way_to_apply_dynamic_css_variables_before/</link>
-      <description><![CDATA[我正在开发一个单页应用程序，其中一些全局 CSS 变量（例如主题颜色和布局值）是动态的，并且来自后端配置 API。 在生产中通常使用哪些模式来解决此问题？ 是否有推荐的架构来避免 FOUC，同时仍保持应用程序的性能？ 谢谢！ 当前应用程序加载使用默认的 CSS 变量值，然后在配置请求解析后更新它们。这会导致明显的闪烁，因为 UI 首先使用后备样式渲染，然后使用正确的变量重新渲染。 我正在尝试找到一种干净的方法来确保在第一次有意义的绘制之前应用正确的 CSS 变量。   由   提交 /u/Over_Mechanic_3643   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4bdaq/best_way_to_apply_dynamic_css_variables_before/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:53:59 GMT</pubDate>
+      <title>我构建了一个 HubSpot Marketplace 集成，将纯文本从 Notion 同步到 CRM 活动时间线</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s089db/i_built_a_hubspot_marketplace_integration_that/</link>
+      <description><![CDATA[       由   提交/u/dev-guy-100  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s089db/i_built_a_hubspot_marketplace_integration_that/</guid>
+      <pubDate>Sun, 22 Mar 2026 01:06:11 GMT</pubDate>
     </item>
     <item>
-      <title>自带 HTML 并在粘贴时获取本机 Webflow 元素</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4b669/bring_your_own_html_and_get_native_webflow/</link>
-      <description><![CDATA[      将您自己的 HTML/CSS 引入 Webflow 并将其作为真实的可编辑元素粘贴。 结构显示在导航器中，样式显示在样式面板中。 基于 GSAP 的动画也随之传播。简单的模式映射到 Webflow 交互而不是被丢弃。   由   提交/u/DRIFFFTAWAY   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4b669/bring_your_own_html_and_get_native_webflow/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:46:47 GMT</pubDate>
+      <title>我的一位客户要求我将 Claude MCP 安装到他们的 WordPress 网站上，我很害怕由此产生的后果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s07yeq/one_of_my_clients_asked_me_to_install_claude_mcp/</link>
+      <description><![CDATA[我应该感到害怕吗？对我来说，这听起来是一个可怕的想法，尤其是对于一个生产站点。这也是一家相当大的公司。这种级别的集成会造成什么混乱？我以前从未这样做过，这让我非常担心。   由   提交 /u/CharlieandtheRed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s07yeq/one_of_my_clients_asked_me_to_install_claude_mcp/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:52:22 GMT</pubDate>
     </item>
     <item>
-      <title>Next.js 跨平台：适配器、OpenNext 和我们的承诺</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s4ab9p/nextjs_across_platforms_adapters_opennext_and_our/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s4ab9p/nextjs_across_platforms_adapters_opennext_and_our/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:16:04 GMT</pubDate>
+      <title>[周六炫耀]我制作了一款游戏，展示了我们在猜测基本经济数字（包括我）方面的糟糕程度 --> offby.io</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s07uh6/showoff_saturday_i_built_a_game_that_shows_how/</link>
+      <description><![CDATA[我一直注意到人们——包括我自己——对影响他们现实的基本数字自信地、一贯地错误。普通工人的收入是多少，实际成本是多少，我们赚取了多少利息。所以我围绕它制作了一个游戏。 每天你都会遇到 5 个关于美国生活的真实问题 - 工资、房租、储蓄、休假日......拖动滑块到你的猜测，查看真实数字，看看你的猜测有多远。 平均玩家的猜测是 39%。我的情况甚至更糟😁 不需要帐户，需要大约一分钟：offby.io 寻找有关如何让这个游戏更容易上瘾的反馈。人们玩的时候似乎很享受，但第二天他们就不会再回来了。 😬 我很想得到一些反馈，了解为什么会出现这种情况以及我应该采取哪些不同的做法。   由   提交 /u/Thinker_Solver_113   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s07uh6/showoff_saturday_i_built_a_game_that_shows_how/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:47:23 GMT</pubDate>
     </item>
     <item>
-      <title>您会使用从文档或业务数据生成基本网站的工具吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s49y2c/would_you_use_a_tool_that_generates_a_basic/</link>
-      <description><![CDATA[我最近一直在开发很多小型网站，我一直注意到同样的瓶颈 - 不是真正的设计或开发部分，而是正确的内容和结构。 对于简单的用例，例如： - 小型企业网站 - 登陆页面 - 基本组合 大量时间投入： - 编写内容 - 构建部分 - 收集业务信息 我开始尝试不同的方法，并构建了一个小型内部工具来测试它。 而不是从头开始： - 您可以上传文档 → 它生成内容结构 - 或提取业务数据（例如从地图列表中）→ 它自动构建一个基本网站 这个想法是将所有内容简化为精炼而不是创建。 现在还为时过早，但对于基本网站来说速度快得惊人。 很好奇这样的东西是否真的适合真正的工作流程，或者人们是否仍然喜欢手动构建所有内容。   由   提交 /u/azharxes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s49y2c/would_you_use_a_tool_that_generates_a_basic/</guid>
-      <pubDate>Thu, 26 Mar 2026 15:03:06 GMT</pubDate>
+      <title>如何让网站响应式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s07j4t/how_to_make_a_website_responsive/</link>
+      <description><![CDATA[你好，我正在 Typescript 上的 React + Vite 上制作一个网站，就像一个社交网络。 我已经有了一些功能，例如： -帐户创建 -登录/注销 -个人资料查看器/编辑器 -能够制作和查看“tweet” 现在我最大的问题是我的网站没有响应能力，我不知道网站的响应能力是如何工作的？ 我搜索并找到了这些，但我没有发现它们清楚： https://www.w3schools.com/html/html_responsive.asp https://www.reddit.com/r/Frontend/comments/ti1bca/easiest_way_to_make_website_responsive_on_all/ 你们有任何教程网站/视频链接吗？很有帮助，谢谢。 编辑：没有在第一个文本中指定，但我正在使用 Bootstrap 来实现“ui/ux”。部分   由   提交/u/sangokuhomer  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s07j4t/how_to_make_a_website_responsive/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:32:56 GMT</pubDate>
     </item>
     <item>
-      <title>您的网站正在被抓取以获取中国人工智能训练数据。这就是我如何抓住它的。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s49hi1/your_website_is_being_scraped_for_chinese_ai/</link>
-      <description><![CDATA[      于是我开始了一个新网站——AI塔罗牌。每天约有 400 名游客，其中大部分是美国和欧洲。我只是在我的 VPS 上设置了适当的日志监控 - 这是我发现接下来发生的事情的唯一原因。  提取我的访问日志。不是香港——阿里云新加坡（GeoIP 只是映射错误）。他们的IP都来自47.82.x.x。每个 IP 都向一个页面发出一个请求。没有CSS，没有JS，没有图像。只是 HTML。然后就一去不复返了。 有人在阿里云内部用 iPhone 浏览塔罗牌。当然。 打地鼠 在 Cloudflare 上屏蔽了阿里巴巴。新流量在几分钟内出现。腾讯云.这些人更聪明——完全无头 Chrome，加载了我的 Service Worker，甚至解决了 Cloudflare 的 JS 挑战。 阻止了腾讯 → 他们转向了我不知道存在的腾讯范围（他们有两个 ASN）。阻止那些→华为云。分钟。故障转移是自动化的，并且在供应商开始之前就已预先安排好。 第 3 天：不再是外科手术。从 ipverse/asn-ip 获取了所有 7 个中国云提供商的完整 IP 列表，并阻止了所有内容。 319 个 Cloudflare 规则 + 161 个 UFW 规则。阿里巴巴、腾讯、华为、百度、字节跳动、金山、UCloud。 紧接着？来自欧洲 DataCamp Ltd 和 OVH 集群的流量。相同的图案。西方代理人。已被屏蔽。 确凿证据  字节跳动的蜘蛛程序在阿里巴巴的基础设施上运行。 IP 在阿里巴巴的 47.128.x.x 范围内，但 UA 表示 spider-feedback@bytedance.com。来自附近 IP 的第三个请求是 Go-http-client/2.0 — 同一个机器人，忘记了掩码。 死亡卡确实暴露了他们的伪装。 ;)来自同一个/24子网的五个IP，每个IP都用不同的浏览器以不同的语言抓取了死亡塔罗牌：   47.82.11.197 /cards/death Chrome/134 47.82.11.16 /blog/death-meaning Chrome/136 47.82.11.114 /de/cards/death Safari/15.5 47.82.11.15 /it/cards/death Safari/15.5 47.82.11.102 /pt/cards/death Firefox/135  一个协调器。五个木偶。五件服装。同样的卡。  他们检查了 robots.txt，然后忽略了它。 腾讯伪装成 Chrome。字节跳动至少使用了他们真正的UA，检查了两次，无论如何都被刮掉了。他们知道规则。没关系。 高峰抓取 = 北京工作日结束（UTC 时间 08-11 = CST 16-19）。有人在回家之前开始批处理作业。  可怕的部分 295 个唯一的 IP，每个都使用一次，在整个 /16 块中循环（每个块 65,536 个地址）。您无法通过租用 VPS 来实现这一点。这就是 BGP 级别的访问 — 他们可以从其池中的任何 IP 获取数据包。该 IP 上的客户不知道它被借用了。 我的网站设计得很小。大约抓取了 375 个页面，16 MB 的 HTML。但我是碰巧注意到的目标之一。这种基础设施不花费他们任何成本——他们的云、IP、零边际成本。他们正在清理整个网络，大多数网站所有者永远不会检查。 哦，还有有趣的细节 - 华为在 8 个以上的欧盟国家运营着数据中心。在我封锁了他们的亚洲范围后，刮擦来自他们的欧洲节点。惊讶吗？不是。 ;) 实际阻止它的方法 CF 访问规则（注意：它们只接受 /16 和 /24 掩码 - 尝试 /17，你会得到“无效子网”，没有在任何地方记录）。 UFW 仅允许来自 CF IP 的 HTTP。 cron 上的自定义检测脚本。额外费用总计：0 美元。 如果您运营内容网站，请检查您的访问日志。寻找在不加载资产的情况下发出一次性请求的数据中心 IP。您可能不喜欢您发现的内容。 很高兴分享检测脚本或比较笔记。   由   提交/u/Secure-Search1091   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s49hi1/your_website_is_being_scraped_for_chinese_ai/</guid>
-      <pubDate>Thu, 26 Mar 2026 14:46:30 GMT</pubDate>
+      <title>我构建了一个人工智能旅行规划器，让你可以通过聊天来完善它们</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s078lw/i_built_an_ai_trip_planner_and_lets_you_refine/</link>
+      <description><![CDATA[      我一直在 Google 表格和文档中计划我的旅行，但总是认为一定有更好的方法。所以我建立了 TripGuru。它是不是有点 GPT 包装？完全。但我已经有人尝试过，反馈说它实际上很有帮助。 堆栈：React、Node、Vercel AI SDK（老实说，这东西是聊天机器人的作弊代码） 所以它的工作原理是，你只需描述一次旅行，AI 就会将其传输到其中。从那里你可以拖放来重新安排，你可以通过实时聊天来完善旅行。准备好后，您可以分享它，就像我正在制作的巴黎行程 (https://www.tripguru.app/itinerary/69bf2f703a02a3a189abdbe8)  TripGuru：https://www.tripguru.app/  https://preview.redd.it/eaga8w16phqg1.png?width=3412&amp;format=png&amp;auto=webp&amp;s=295356ab0c9b95943da0bc375c42f6beb2e6161d   由   提交/u/ha1ogen  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s078lw/i_built_an_ai_trip_planner_and_lets_you_refine/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>这次供应链攻击给我们敲响了警钟。检查了我的部门，发现有 3 个包将其拉入</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s496iy/that_litellm_supply_chain_attack_is_a_wake_up/</link>
-      <description><![CDATA[所以，如果你错过了，litellm（半数人工智能工具用来调用模型 API 的 Python 库）受到了供应链攻击。版本 1.82.7 和 1.82.8 包含恶意代码，该代码会在您 pip 安装时运行。不是当你导入它的时候。不是当你调用函数时。从字面上看，只需安装它，攻击者就会获得您的 ssh 密钥、aws 凭证、k8s 秘密、加密钱包、环境变量等一切内容。 Karpathy 发布了有关它的信息，这是大多数人发现的方式。疯狂的部分是攻击者的代码有一个错误，导致了叉子炸弹并导致人们的机器崩溃。这就是它被发现的方式。如果恶意代码运行良好，它可能几周都不会被发现。 我昨天下午审核了我的项目。在我的需求中发现了 3 个依赖于 litellm 的包。一个是我几个月前添加的 langchain 集成，但后来忘记了。另一个是我们的机器学习团队共享的一些内部工具。 在我们的临时服务器上运行 pip show litellm。版本 1.82.7。我的胃一沉。立即轮换该盒子上的所有凭证。 AWS 密钥、数据库密码、openai anthropic 的 API 令牌等一切。 攻击链也很疯狂。他们甚至没有直接破解 Litelm。他们首先入侵了 trivy（一种安全扫描工具，哈哈），从那里窃取了 litellms pypi 发布令牌，然后上传了中毒版本。因此，一个旨在保护您的工具就是入口点。 这会影响下游的 2000 多个包。 dspy、mlflow、开放解释器等等。如果您正在堆栈中运行任何 ai/ml 工具，您应该立即检查。 我做了什么：  pip show litellm 在每台服务器和开发机器上 if version &gt; 1.82.6，将其视为完全泄露 轮换所有秘密，而不仅仅是您认为已暴露的秘密 检查 pip freeze 是否有任何将 litellm 作为 dep 的内容 将 litellm==1.82.6 固定在需求中，直到对其进行排序  这让我重新思考我们如何处理 AI deps。我们只是不假思索地安装东西。我们一半的开发人员使用光标或 verdent 或任何编码工具，并且这些工具始终建议包。没有人审核传递的 deps。 现在我们在 ci 中运行 pip-audit，并添加了一个预提交挂钩，用于标记新的 deps 以便进行手动审核。很久以前就应该这样做了。 .pth 文件技巧是令人讨厌的。大多数人认为“我安装了它，但我没有使用它，所以我很安全。”没有。不管怎样，python 在启动时都会加载 .pth 文件。 检查你的东西。   由   提交 /u/Soggy_Limit8864   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s496iy/that_litellm_supply_chain_attack_is_a_wake_up/</guid>
-      <pubDate>Thu, 26 Mar 2026 14:35:05 GMT</pubDate>
+      <title>实时指标在什么时候不再足以满足产品仪表板的需求？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s04uvt/at_what_point_do_live_metrics_stop_being_enough/</link>
+      <description><![CDATA[我们最近一直在思考的事情： 对于依赖分析的产品，实时数据很有用，但它们只能告诉您现在正在发生什么。 一旦用户开始提出这样的问题：  这种情况会随着时间的推移而改善吗？ 这种下降只是噪音还是趋势的一部分？ 本月情况如何？与上个季度相比？  …单独的实时指标开始感觉不完整。 这引发了更大的产品/工程权衡： 您是否继续根据原始事件数据计算历史视图，还是开始有意存储每日摘要快照？ 持久快照似乎使仪表板更快、更稳定且更易于扩展。但它还增加了更多基础设施和更多关于存储和重新计算内容的决策。 很好奇这里的人们通常如何处理这个问题。 在构建分析密集型产品时，您是否有意尽早添加历史快照层，或者是否尝试尽可能长时间地保持原始数据优先？   由   提交 /u/Hot_Ad_3147   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s04uvt/at_what_point_do_live_metrics_stop_being_enough/</guid>
+      <pubDate>Sat, 21 Mar 2026 22:34:58 GMT</pubDate>
     </item>
     <item>
-      <title>网络效率护栏策略（页面速度相关护栏）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s48sa2/the_networkefficiencyguardrails_policy_page_speed/</link>
-      <description><![CDATA[Chrome 和 Edge 中的新政策。仍处于实验阶段。   由   提交/u/svvnguy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s48sa2/the_networkefficiencyguardrails_policy_page_speed/</guid>
-      <pubDate>Thu, 26 Mar 2026 14:19:56 GMT</pubDate>
+      <title>浏览器使用网络音频击败 Playground</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s04d07/browser_beat_playground_using_web_audio/</link>
+      <description><![CDATA[使用网络音频构建浏览器节拍游乐场 - 好奇人们是否觉得它有趣。 https://beat-battle-chi.vercel.app   由   提交/u/colorwolfy  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s04d07/browser_beat_playground_using_web_audio/</guid>
+      <pubDate>Sat, 21 Mar 2026 22:13:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
