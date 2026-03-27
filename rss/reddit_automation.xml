@@ -4,13 +4,13 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 27 Mar 2026 05:00:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 06:53:47 GMT</lastBuildDate>
     <item>
-      <title>我们对 65 个现实世界任务中的移动 AI 代理进行了基准测试。这是我们发现的</title>
-      <link>https://www.reddit.com/r/automation/comments/1s4u62j/we_benchmarked_mobile_ai_agents_across_65real/</link>
-      <description><![CDATA[我们花了 3 天的时间，使用 Android 模拟器以及日历管理、联系人创建、照片捕捉、录音和文件操作等应用程序，对 4 个移动 AI 代理（Droidrun、Mobile-Agent、AutoDroid 和 AppAgent）进行了 65 个实际任务的基准测试。 Droidrun：成功率最高 (43%)，但每个成功任务的成本很高（0.075 美元，约 3,225 个代币） Mobile-Agent：性能强劲（29%）且经济高效（0.025 美元，约 1,130 个代币） AutoDroid：成本效益最佳（成功 14%，0.017 美元，约 765 个代币），但效果有限 AppAgent：性能最差（成功 7%），成本最高（0.90 美元，约 2,346 个令牌） Droidrun 在 65 项任务中展示了最强的性能，成功率为 43%。仅检查所有代理成功完成的任务时，Droidrun 平均消耗 3,225 个代币，每个任务的成本为 0.075 美元。 Mobile-Agent 在保持合理的成本效率的同时实现了第二高的成功率，达到 29%。 AutoDroid 在通常成功的任务中表现出最低的成本，每个任务仅 0.017 美元和 765 个代币，使其成为最经济的选择。  AppAgent 在通常成功的任务中记录了最低的成功率（7%）和最高的成本（每项任务 0.90 美元和 2,346 个代币）。比 Droidrun 贵十二倍，比 AutoDroid 贵五十倍以上。 移动 AI 代理是一种相对较新的 AI 代理类别。三星、苹果等公司已经在深度操作系统级别集成代理。 您对移动代理的未来有何看法？它们会像浏览器代理一样重要吗？   由   提交 /u/No-Speech12   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s4u62j/we_benchmarked_mobile_ai_agents_across_65real/</guid>
-      <pubDate>Fri, 27 Mar 2026 04:23:57 GMT</pubDate>
+      <title>有人实现有机增长自动化吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1s4vh9w/is_anyone_automating_organic_growth/</link>
+      <description><![CDATA[嗨， 我正在构建一个 SaaS，它基本上是一个工具，可以从 Reddit、Twitter/X 和 Product Hunt 等平台找到您的 SaaS/产品的潜在销售线索。 与数字营销相比，我更偏向于开发人员，并使用我自己的工具来获得结果。但我仍然想做 EO 和我的 SaaS 的有机增长，而且我雇用的数字营销人员也忙于自己的工作（有些天）。我没有时间写大型博客文章或为有机流量做任何其他事情，这就是我需要一个自动执行此操作的工具。 如果您正在构建一个，请分享，我可以尝试一下，也可以提供反馈！ 谢谢，   由   提交/u/soham512  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s4vh9w/is_anyone_automating_organic_growth/</guid>
+      <pubDate>Fri, 27 Mar 2026 05:34:29 GMT</pubDate>
     </item>
     <item>
       <title>人工智能自动化工具</title>
