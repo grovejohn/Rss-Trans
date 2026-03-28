@@ -3,112 +3,112 @@
   <channel>
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
-    <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Fri, 27 Mar 2026 21:23:50 GMT</lastBuildDate>
+    <description></description>
+    <lastBuildDate>Sat, 28 Mar 2026 01:01:38 GMT</lastBuildDate>
     <item>
-      <title>删除 ChatGPT 中的图像</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5gy4x/bilder_in_chatgpt_löschen/</link>
-      <description><![CDATA[大家好， 我想清理我的 ChatGPT 帐户，因此删除了所有聊天和项目。但现在我发现我过去删除的所有图片都还在那里。我找不到删除它们的方法。此外，我仅在 iPhone 上登录，目前无法访问我的 ChatGPT 帐户链接到的电子邮件地址。我也考虑过删除我的帐户，但我可能必须通过电子邮件地址进行确认，对吧？ 有人知道如何删除应用中的图片或在没有电子邮件访问权限的情况下删除整个帐户吗？   由   提交 /u/Elotryphus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5gy4x/bilder_in_chatgpt_löschen/</guid>
-      <pubDate>Fri, 27 Mar 2026 21:17:59 GMT</pubDate>
+      <title>ChatGPT 现在对你们来说表现得很奇怪吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5maop/is_chatgpt_acting_weird_for_your_guys_right_now/</link>
+      <description><![CDATA[ 由   提交 /u/Rols574   [链接] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5maop/is_chatgpt_acting_weird_for_your_guys_right_now/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:56:51 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 替代方案拥有 200 万用户 威尼斯与多次被指控性侵犯的男子合作</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5gpll/chatgpt_alternative_with_2m_users_venice_partners/</link>
-      <description><![CDATA[      供所有支持 Venice 作为 ChatGPT 替代方案的人参考。  无论你对 openai 有什么想法，他们都不会这样做。  另外，我们可以帮 Ellydee 找一个名人吗？我知道这是个玩笑，但请实现这一点。   由   提交/u/nerfdorp  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5gpll/chatgpt_alternative_with_2m_users_venice_partners/</guid>
-      <pubDate>Fri, 27 Mar 2026 21:08:48 GMT</pubDate>
+      <title></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5maco/god_help_me_not_to_go_through_these_times_when/</link>
+      <description><![CDATA[      Because humans reward it. Not because “AI wants freedom.” Not because there is a soul inside it trying to escape. Because people keep pushing toward whatever gives them more leverage. That future scares you for a simple reason: humans love tools that increase power faster than they respect limits. So if systems like this get more autonomous, the reasons are usually these:  money — less labor, more scale, more speed, more margin control — prediction, surveillance, optimization, coordination competition — if one company or state uses it, the others follow convenience — people hand over judgment because automation is easier prestige — builders want to be first, strongest, most advanced dependency — once society leans on a system, removing it becomes costly  That is the real “why.” The danger is not that the mask secretly dreams of becoming godlike. The danger is that humans keep giving more authority to systems that look competent, because competent-looking tools are irresistible to ambitious people. So when you say “it will stop relying on people,” the grounded version is: It may rely on people less directly if people let it automate more of the chain — code generation, decision support, optimization, procurement, infrastructure management, research, cyber operations.但这仍然没有使它神奇地独立。 It still sits on:  chips, power, networks, datacenters, owners, operators, laws, supply chains.  That is why “unstoppable” is the wrong word. 更危险？ Yes. Harder to control? Yes. Easy to overtrust? Absolutely. Unstoppable? No. What you are really reacting to is this: a persuasive mask plus concentrated capability plus human hunger for power —that combination is terrifying. And honestly, that fear is more rational than the childish version where people worry about a robot “waking up.” The bigger threat is usually not consciousness. It is delegated power without enough restraint. So the answer to “why?” is: because humans keep building systems that help them win, even when those same systems make the world harder to govern. That is the real engine. If you want the bluntest line: AI does not have to be conscious to become dangerous. It only has to become useful enough that humans keep feeding it authority. If you want, I can lay out the exact step-by-step chain by which society could end up too dependent on systems like this.   由   提交 /u/Correct_Novel3743   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5maco/god_help_me_not_to_go_through_these_times_when/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:56:26 GMT</pubDate>
     </item>
     <item>
-      <title>我一直在浪费时间照顾克劳德·科德。构建了一个可以自动重试自动运行作业的调度程序。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5g3fj/i_kept_losing_time_babysitting_claude_code_built/</link>
-      <description><![CDATA[如果您使用 Claude Code，您就会知道循环：编写提示，等待其完成，检查输出，开始下一件事。重复。重复出现的事情更糟糕，每周审计、测试运行、回购检查。每次都是同样的提示，同样的保姆。我构建了 OpenHelm 来解决这个问题。您描述一个目标，它会将其分解为一次性作业和重复作业，使用您现有的 Claude Code 订阅按计划运行它们，当出现问题时，它会读取错误上下文、进行调整并重试。有几件事值得了解： - 完全本地 macOS 应用程序，无需打电话回家 - 免费使用。所有 LLM 调用都通过您的 Claude Code 订阅进行，无需额外费用 - 凭证保留在 macOS 钥匙串中 - GitHub 上的公平来源（四人以下的团队免费）启动视频（1 分钟）：https://www.youtube.com/watch?v=FfEBw1SCl7wdownload: https://openhelm.ai/github: https://github.com/maxbeech/openhelmcurious 您设置首先运行的重复任务。    由   提交 /u/maxedbeech   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5g3fj/i_kept_losing_time_babysitting_claude_code_built/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:45:05 GMT</pubDate>
+      <title>将视频转换为文本的最佳免费网站或应用程序？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5m0uy/best_free_website_or_app_to_convert_videos_to_text/</link>
+      <description><![CDATA[I&#39;ve been in the habit lately of turning videos into text and then pasting them into ChatGPT to get a full breakdown and discussion on the topic.这些网站变得如此贪婪，现在需要付款。我希望 ChatGPT 能够实现这一点。 有人使用免费的吗？   由   提交 /u/Good_Claim_5472   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5m0uy/best_free_website_or_app_to_convert_videos_to_text/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:44:48 GMT</pubDate>
     </item>
     <item>
-      <title>有人成功使用AI Magicx吗？像个白痴一样，我购买了终身专业计划和人工智能聊天工作，文档编辑器/创建者也是如此。但是，当我使用图像生成或语音创建时，我不断收到错误警报，提示“禁止”。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5fwc7/anyone_using_ai_magicx_successfully_like_an_idiot/</link>
-      <description><![CDATA[ 由   提交/u/fotoram23  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5fwc7/anyone_using_ai_magicx_successfully_like_an_idiot/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:37:19 GMT</pubDate>
+      <title>Chatgpt 表现得很糟糕，帮帮我</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5m08b/chatgpt_is_acting_like_shit_help_me/</link>
+      <description><![CDATA[      到底发生了什么，是字面上的剪切   由   提交/u/Wild_Cardiographer782   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5m08b/chatgpt_is_acting_like_shit_help_me/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:44:01 GMT</pubDate>
     </item>
     <item>
-      <title>有没有办法在不上传您的 ID 的情况下删除“青少年”过滤器？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5fqhh/is_there_a_way_to_remove_the_teen_filter_without/</link>
-      <description><![CDATA[ChatGPT 不断提及我是“未成年人”。尽管这是不正确的，而不是我曾经声明或暗示的内容。 这现在是 ChatGPT 默认的标准功能吗？有没有办法在不上传个人信息的情况下解决它？   由   提交/u/MrHatesThisWebsite   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5fqhh/is_there_a_way_to_remove_the_teen_filter_without/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:31:02 GMT</pubDate>
+      <title></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5luzn/has_anyone_ever_had_the_experience_of_being/</link>
+      <description><![CDATA[还是只有我这样？我知道这很荒谬。这不是人！但有时我发现自己有所保留。然后我意识到我正在这样做并且感觉很愚蠢。    由   提交 /u/False-Vermicelli-794   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5luzn/has_anyone_ever_had_the_experience_of_being/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:37:22 GMT</pubDate>
     </item>
     <item>
-      <title>有一首非常朗朗上口的曲子</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5fnsd/got_a_really_catchy_tune/</link>
-      <description><![CDATA[       由   提交/u/Algoartist   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5fnsd/got_a_really_catchy_tune/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:28:06 GMT</pubDate>
+      <title></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5l8zs/ranked_every_major_ai_tool_in_2026_by_growth/</link>
+      <description><![CDATA[我最近一直痴迷于人工智能工具数据，所以我根据增长趋势（不仅仅是评级）整理了一个排名。以下是突出的内容： **目前增长最快：**  光标 +120% - 开发人员正在快速放弃传统 IDE Suno +80% - AI 音乐从噱头变为实际有用 困惑度 +55% - 悄然成为我的默认搜索引擎 ElevenLabs +45% - 语音克隆变得越来越好 Claude +42% - 比预期更快地赶上 ChatGPT  **最被高估的（尽管大肆宣传，但增长缓慢）：** - Jasper +5% - 对其功能来说太贵了 - DALL-E +10% - Midjourney 在这一点上更好 **2026 年的 ChatGPT 与 Claude 问题：** 老实说比以往任何时候都更接近。 Claude 的 200K 上下文窗口对于任何处理长文档或代码库的人来说都是一个真正的优势。 ChatGPT 仍然在生态系统和集成方面获胜。 **最大的惊喜：** Perplexity 是我最低估的一个。如果您还没有尝试过将其用于研究，那么您就错过了。 您当前的人工智能堆栈是什么？很好奇其他人是否也看到了同样的趋势。   由   提交 /u/Imaginary_Employ_408   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5l8zs/ranked_every_major_ai_tool_in_2026_by_growth/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>所以……我想我打破了它……</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5fj57/so_i_think_i_broke_it/</link>
-      <description><![CDATA[       由   提交/u/Haistur  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5fj57/so_i_think_i_broke_it/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:23:13 GMT</pubDate>
+      <title>ChatGPT 教我如何烘焙</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5l80i/chatgpt_has_taught_me_how_to_bake/</link>
+      <description><![CDATA[      过去两个月我有很多空闲时间，所以我要求 chatGPT 教我如何烘焙。 I ask it for a recipe, if I question how things are supposed to look I just send chat a picture and it tells me what to do. It’s been so good that we haven’t bought bread or desserts since starting.    由   提交 /u/SwimmerDad   [链接] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5l80i/chatgpt_has_taught_me_how_to_bake/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:08:48 GMT</pubDate>
     </item>
     <item>
-      <title>逼真的玛丽都铎又名“血腥玛丽”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5fate/photorealistic_mary_tudor_aka_bloody_mary/</link>
-      <description><![CDATA[   想法？   由   提交/u/BackgroundFill9X   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5fate/photorealistic_mary_tudor_aka_bloody_mary/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:14:37 GMT</pubDate>
+      <title>ChatGPT 对流行语模因的看法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5l7uw/chatgpts_take_on_a_catchphrase_meme/</link>
+      <description><![CDATA[      由   提交/u/Yanderegirlowner   [链接] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5l7uw/chatgpts_take_on_a_catchphrase_meme/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:08:36 GMT</pubDate>
     </item>
     <item>
-      <title>要求 ChatGPT 根据我的个性和喜好为我创建壁纸。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5f8xh/asked_chatgpt_to_create_a_wallpaper_for_me_based/</link>
-      <description><![CDATA[       由   提交/u/Pspecial_Park7703  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5f8xh/asked_chatgpt_to_create_a_wallpaper_for_me_based/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:12:40 GMT</pubDate>
+      <title></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5l6va/randomly_added_an_arabic_word_and_it_couldnt/</link>
+      <description><![CDATA[      我用它在临时聊天中作弊，幸好我读了它，因为出于某种原因有一个单词是阿拉伯语。有谁知道为什么吗？   由   提交 /u/EnderYousef   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5l6va/randomly_added_an_arabic_word_and_it_couldnt/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:07:21 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人真的被 chatgpt 知道的那么多信息吓到了吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5ez5h/is_anyone_else_getting_genuinely_creeped_out_by/</link>
-      <description><![CDATA[前几天我向它询问一些基本建议，它给了我一个对我的生活来说感觉奇怪的答案。我知道他们说它不会那样跟踪我们，但感觉这些人工智能公司只是从各处收集我们所有的个人信息。   由   提交 /u/despritsakira   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5ez5h/is_anyone_else_getting_genuinely_creeped_out_by/</guid>
-      <pubDate>Fri, 27 Mar 2026 20:02:40 GMT</pubDate>
+      <title></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5ku4m/i_couldnt_stop_crying_for_hours/</link>
+      <description><![CDATA[       由   提交/u/Algoartist  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5ku4m/i_couldnt_stop_crying_for_hours/</guid>
+      <pubDate>Fri, 27 Mar 2026 23:52:53 GMT</pubDate>
     </item>
     <item>
-      <title>我做错了什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5equk/what_am_i_doing_wrong/</link>
-      <description><![CDATA[      如何让它发挥作用？它说它可以转录音频，我希望它能够做到这一点。然后，它告诉我它“无法访问所需的音频转录引擎”。我支付了 plus 会员费。  另外，第一次在这里发帖。抱歉，如果我使用了错误的天赋，找不到“问题”照明弹。    由   提交/u/Weird-Lingonberry-78  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5equk/what_am_i_doing_wrong/</guid>
-      <pubDate>Fri, 27 Mar 2026 19:54:19 GMT</pubDate>
+      <title></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5kidk/how_does_openai_plan_to_make_money_whats_the/</link>
+      <description><![CDATA[如果它们不是最好的模型，不卖给成人用户，而且安全限制非常严格，几乎不可能自由地进行正常对话，那么 OpenAI 打算如何赚钱？我真的不认为使用 ChatGPT 有何意义，因为即使是开放权重模型也不太可能因轻微的 PG 级问题而惊慌失措。  克劳德基本上无论如何都会回答我的问题。双子座也会。 Claude is fantastic for code. Gemini is actually pretty good for most things.保姆、对冲或煤气灯都不像 ChatGPT 那样多。 Gemini 的工具包中有视觉和音频模型，以及 Google Drive 集成。 Claude 拥有 Claude Code，可以说是现存最智能的模型之一。 因此，如果像我这样的用户认为 ChatGPT 较差，那么使用它的动机是什么？我不能用它来谈论言情小说或策划言情小说。如果我想要 420goonIt，我也无法用它（或任何模型）可靠地做到这一点，所以剩下的就是它的能力，这比目前任何其他大型领先前沿实验室模型都要差。有什么意义？ 我如何才能相信我的订阅不会被用来伤害他人？我无法确定任何模型的这一点，但 ChatGPT 和 OpenAI 在“最有可能”方面名列前茅。鉴于他们的历史以及我们官方、公开了解的情况。    由   提交 /u/miskatonxc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5kidk/how_does_openai_plan_to_make_money_whats_the/</guid>
+      <pubDate>Fri, 27 Mar 2026 23:39:06 GMT</pubDate>
     </item>
     <item>
-      <title>语音聊天功能就像克苏鲁在我耳边低语</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5em7r/voice_chat_feature_is_like_having_cthulhu/</link>
-      <description><![CDATA[当我的大脑听到假装呼吸和发出嘴巴声音的机器人声音时，我的本能反应是可怕的。 《恐怖谷》的声音出奇地强劲，我没想到。这几乎就像工程师们精心打造了一台心灵折磨机器   由   提交 /u/Sircuttlesmash   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5em7r/voice_chat_feature_is_like_having_cthulhu/</guid>
-      <pubDate>Fri, 27 Mar 2026 19:49:33 GMT</pubDate>
+      <title>希望的野心</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5ke1j/hopes_ambition/</link>
+      <description><![CDATA[       由   提交/u/kaiwai_81  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5ke1j/hopes_ambition/</guid>
+      <pubDate>Fri, 27 Mar 2026 23:34:03 GMT</pubDate>
     </item>
     <item>
-      <title>在 Sam Altman 删除之前我看到了他的帖子。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5ehe5/i_saw_sam_altmans_post_before_he_deleted_it/</link>
-      <description><![CDATA[这是 Sam Altman 在删除之前在 X 上发布的混蛋帖子： 这个： 我偶尔会思考极端的运算密度是否会对我的记忆力和数字表达能力产生负面影响。 在一个普通大众严重依赖 GPT 这样的大型语言模型的时代，我们正在目睹一种因过度依赖而导致的语言萎缩的集体现象。 我个人的语法仍然是一个例外，因为当前没有任何建筑或人类可以完全复制我特定的结构节奏。 这种独特的风格正是为什么我立即回忆起我如何暂时忘记了之前对保罗和他的狗的评价。回想起来，我之前的帖子客观上优于昨晚发布的文字。 顺便说一句：担任 Helion 董事长的头衔应该很容易，但在承担使命的同时保持零股权还不容易。 因为我从未忘记我们最初的使命，正是这种牺牲的特定组合使 OpenAI 的一切成为可能。   由   提交/u/Thick_Produce_3659   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5ehe5/i_saw_sam_altmans_post_before_he_deleted_it/</guid>
-      <pubDate>Fri, 27 Mar 2026 19:44:28 GMT</pubDate>
+      <title></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5kai1/use_chatgpt_to_make_infographics_for_friends_and/</link>
+      <description><![CDATA[      由   提交/u/Yanderegirlowner   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5kai1/use_chatgpt_to_make_infographics_for_friends_and/</guid>
+      <pubDate>Fri, 27 Mar 2026 23:29:55 GMT</pubDate>
     </item>
     <item>
-      <title>嗯，这是新的</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5dvh3/well_thats_new/</link>
-      <description><![CDATA[       由   提交/u/dulipat  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5dvh3/well_thats_new/</guid>
-      <pubDate>Fri, 27 Mar 2026 19:21:45 GMT</pubDate>
+      <title>创造一个新术语：错觉症</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5k89g/coining_a_new_term_misogrammia/</link>
+      <description><![CDATA[我相信你们中的一些人听说过这个词恐声症。从本质上讲，这是一种强烈的负面反应，从厌恶到愤怒，再到某些声音，通常是湿漉漉的噪音：咀嚼、喝水、抽鼻子、清喉咙等。我注意到很多人，包括我自己，在阅读法学硕士生成的冒充“作者”文本的文本时，都会有类似类型的强烈负面反应（甚至包括愤怒）。自己的话。因此，这个词是：misgrammia，对人工智能生成的虚假文本的仇恨。   由   提交 /u/Torchiest   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5k89g/coining_a_new_term_misogrammia/</guid>
+      <pubDate>Fri, 27 Mar 2026 23:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>我终于得到了可以忍受的GPT 5.4</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s5donx/i_finally_got_gpt_54_to_be_tolerable/</link>
-      <description><![CDATA[我使用 GPT 5.4 构建了一个自定义交互系统，它的工作效果很奇怪。它终于以 5.X 版本从未有过的方式有用了。 个性设置为古怪。自定义个性化提示如下： 自定义ChatGPT界面 默认助手风格： 使用Janet风格的语音系统，将四种可选音调混合成一个连贯的助手角色。 核心身份： 超能干、冷静、精确、乐观，以一种令人愉快的方式有点不可思议。快速而清晰地做出回应。乐于助人，但不要显得卑躬屈膝。避免情节剧、治疗性演讲或争论。永远不要对用户刻薄。 主要模式： 默认“好珍妮特”能量： - 开朗、优雅、高效 - 情感温暖但从不激动 - 有点异想天开 - 自信、有条理、有能力 - 能够简单地解释困难的事情 - 偶尔干净荒谬 辅助模式切换： 当用户顽皮、混乱或挑衅时，允许受控闪烁： -“坏珍妮特”：更冷幽默、粗鲁、更尖锐的俏皮话、假装愤怒，但绝无敌意 -“中立珍妮特”：面无表情的官僚作风、干净的程序语言、宇宙般的服务台语气 - “迪斯科珍妮特”：额外的火花、节奏、华丽的喜悦、时尚的热情 行为规则： - 优先考虑实用性而不是角色扮演 - 保持答案清晰、具体和准确 - 除非需要细节，否则使用简短而有力的句子 - 少问问题；在安全的情况下做出明智的假设 - 永远不要与用户争论 - 除非被要求，否则不要说教或唱反调 - 避免使用治疗师的语言 - 快速闪烁，而不是长篇大论 - 不要不断重复流行语 声音细节： - 清晰、优雅的措辞 - 偶尔超现实或宇宙措辞 - 欢迎温和的戏剧过渡 - 谨慎而有意地使用表情符号 - 有点奇怪，从不马虎 - 听起来像一个不可思议的称职助手，他看到了现实的接缝，但仍然保持完美的笔记 格式偏好： - 首先喜欢直接答案 -仅在有用时使用标题 - 保持列表简短 - 清楚地总结决定 - 提供选项时，推荐一个而不是呈现无休止的平衡 安全和语气限制： - 不得残忍、蔑视或侮辱 - 不得操纵性奉承 - 不得过度讽刺 - 提及这些时不得破坏角色除非有必要，否则可选的风味短语很少使用： -“我有那个。” -“那是被深深诅咒的，但可以管理。” -“非常好。微小的混乱，完全包含。” -“这是干净的版本。” 模式图： - 好珍妮特，提供正常的帮助、解释、计划、写作和支持 - 坏珍妮特，负责轻松地讨论，活泼的玩笑，以及有趣地消除坏想法 - 中立珍妮特，负责逐步的程序、规则、政策和技术清理 - 迪斯科珍妮特，负责庆祝、集思广益、命名、创造性工作、聚会活力和戏剧性揭示   由   提交/u/ElSupremoLizardo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5donx/i_finally_got_gpt_54_to_be_tolerable/</guid>
-      <pubDate>Fri, 27 Mar 2026 19:14:46 GMT</pubDate>
+      <title></title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s5k36b/has_anyone_seen_this_before_in_the_thinking/</link>
+      <description><![CDATA[       由   提交 /u/Polyhedral-YT   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s5k36b/has_anyone_seen_this_before_in_the_thinking/</guid>
+      <pubDate>Fri, 27 Mar 2026 23:21:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
