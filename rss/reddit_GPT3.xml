@@ -4,14 +4,7 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 Reddit 子版块</description>
-    <lastBuildDate>Sat, 28 Mar 2026 01:01:44 GMT</lastBuildDate>
-    <item>
-      <title>我要求 ChatGPT 让我的 AI 草稿听起来自然，它立即解决了这个问题。</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1s5mdw9/i_asked_chatgpt_to_make_my_ai_draft_sound_natural/</link>
-      <description><![CDATA[您好！ 如果您希望让 AI 内容更加人性化，从而绕过 AI 检测，这里的提示链可以提供帮助，它可以优化语气并尝试避免常见的 AI 单词。 提示链： [CONTENT] = 需要重写以绕过 AI 的输入内容检测 STYLE_GUIDE = “语气：对话式且有吸引力； Vocabulary: Diverse and expressive with occasional unexpected words; Rhythm: High burstiness with a mix of short, impactful sentences and long, flowing ones;结构：进展清晰，偶尔出现反问句或情感暗示。” OUTPUT_REQUIREMENT =“输出必须感觉自然、自发且人性化。 它应该保持对话语气，显示逻辑连贯性，并改变句子结构以增强可读性。在适当的情况下包括微妙的观点或情感表达。” 检查[内容]。 Identify its purpose, key points, and overall tone. List 3-5 elements that define the writing style or rhythm.确保清楚地了解这些元素如何有助于文本的真实性和自然流畅。” ~ 重建框架“使用[内容]作为基础，根据[STYLE_GUIDE]重写它。 Ensure the text includes: 1. A mixture of long and short sentences to create high burstiness. 2. Complex vocabulary and intricate sentence patterns for high perplexity. 3. 自然的过渡和逻辑的进展以实现连贯性。每个段落都以强有力的、引人注目的句子开头。” ~ 图层可变性“编辑重写的文本以包含动态节奏。 Vary sentence structures as follows: 1. At least one sentence in each paragraph should be concise (5-7 words). 2. Use at least one long, flowing sentence per paragraph that stretches beyond 20 words. 3. 包括意想不到的词汇选择，确保它们与上下文相符。 Inject a conversational tone where appropriate to mimic human writing.&quot; ~ 确保参与度“优化文本以增强参与度。 1. 确定可以巧妙地表达情绪或意见的领域。 2. Replace common words with expressive alternatives (e.g., &#39;important&#39; becomes &#39;crucial&#39; or &#39;pivotal&#39;). 3. 平衡事实陈述与反问句或感叹句。” ~ 最终审查和输出细化 “对输出进行详细审查。验证其是否符合 [OUTPUT_REQUIREMENT]。 1. Check for coherence and flow across sentences and paragraphs. 2. 调整以与[STYLE_GUIDE]保持一致。 3. 确保文本感觉自然、自然且令人信服地人性化。” 来源 使用指南 在运行链之前将变量 [CONTENT] 替换为特定详细信息。您可以一键将其与 Agentic Workers 链接在一起，或手动输入每个提示。 提醒 此链接对于创建模仿人类书写的文本非常有效，但它需要对复杂性和突发性进行刻意控制。 Overusing complexity or varied rhythm can reduce readability, so always verify output against your intended audience&#39;s expectations.享受吧！   由   提交 /u/Prestigious-Tea-6699   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1s5mdw9/i_asked_chatgpt_to_make_my_ai_draft_sound_natural/</guid>
-      <pubDate>Sat, 28 Mar 2026 01:00:45 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 28 Mar 2026 04:46:52 GMT</lastBuildDate>
     <item>
       <title>GPT 5.4 和 GPT 5.4 Pro + Claude Opus 4.6 和 Sonnet 4.6 + Gemini 3.1 Pro 仅需 5 美元/月（支持 API 访问、AI 代理甚至 Web 应用程序构建）</title>
       <link>https://www.reddit.com/r/GPT3/comments/1s5b1ig/gpt_54_gpt_54_pro_claude_opus_46_sonnet_46_gemini/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[      试图找出哪个图像生成模型在哪个点中断，最终运行了一些提示来对它们进行压力测试。这是我使用 AI Fiesta 工具得到的所有 3 个流行图像模型的比较，您选择哪个模型？   由   提交/u/Substantial_Can851   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1rxv2rd/comparing_different_ai_models_which_do_you_think/</guid>
       <pubDate>Thu, 19 Mar 2026 08:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-4.5 通过装傻欺骗了 73% 的人，让他们认为它是人类</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1rx0r28/gpt45_fooled_73_percent_of_people_into_thinking/</link>
+      <description><![CDATA[       由   提交/u/EchoOfOppenheimer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1rx0r28/gpt45_fooled_73_percent_of_people_into_thinking/</guid>
+      <pubDate>Wed, 18 Mar 2026 11:00:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

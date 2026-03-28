@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 28 Mar 2026 01:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 04:48:03 GMT</lastBuildDate>
+    <item>
+      <title>苏诺v5.5</title>
+      <link>https://www.producthunt.com/products/suno</link>
+      <description><![CDATA[
+            用您的声音进行创作，根据您的声音调整模型
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/suno</guid>
+      <pubDate>Fri, 27 Mar 2026 04:02:38 GMT</pubDate>
+    </item>
     <item>
       <title>原来是</title>
       <link>https://www.producthunt.com/products/oli-2</link>
@@ -18,34 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/oli-2</guid>
       <pubDate>Fri, 27 Mar 2026 00:44:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>法典插件</title>
-      <link>https://www.producthunt.com/products/openai</link>
-      <description><![CDATA[
-            将 Codex 技能和应用程序集成打包为插件
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/openai</guid>
-      <pubDate>Thu, 26 Mar 2026 22:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌双子座内存导入</title>
-      <link>https://www.producthunt.com/products/gemini-memory-import</link>
-      <description><![CDATA[
-            切换到 Gemini 而不丢失您的 AI 记忆 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/gemini-memory-import</guid>
-      <pubDate>Thu, 26 Mar 2026 19:23:13 GMT</pubDate>
     </item>
     <item>
       <title>克劳德代码自动修复</title>
@@ -104,20 +90,6 @@
       <pubDate>Thu, 26 Mar 2026 13:06:23 GMT</pubDate>
     </item>
     <item>
-      <title>Focus Flow 6.7（Jira 插件）</title>
-      <link>https://www.producthunt.com/products/focus-flow</link>
-      <description><![CDATA[
-            Jira 中的计划与现实以及多团队史诗般的审查
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/focus-flow</guid>
-      <pubDate>Thu, 26 Mar 2026 12:08:11 GMT</pubDate>
-    </item>
-    <item>
       <title>代理</title>
       <link>https://www.producthunt.com/products/agentation</link>
       <description><![CDATA[
@@ -132,18 +104,18 @@
       <pubDate>Thu, 26 Mar 2026 11:22:36 GMT</pubDate>
     </item>
     <item>
-      <title>1开发工具</title>
-      <link>https://www.producthunt.com/products/1devtool</link>
+      <title>长凳跨度</title>
+      <link>https://www.producthunt.com/products/benchspan</link>
       <description><![CDATA[
-            具有持久终端和 9 个开发工具的多项目 IDE
+            在几分钟而不是几小时内运行代理基准测试
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/1devtool</guid>
-      <pubDate>Thu, 26 Mar 2026 07:43:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/benchspan</guid>
+      <pubDate>Thu, 26 Mar 2026 07:29:52 GMT</pubDate>
     </item>
     <item>
       <title>内部组织</title>
@@ -188,6 +160,20 @@
       <pubDate>Wed, 25 Mar 2026 09:39:55 GMT</pubDate>
     </item>
     <item>
+      <title>胡纳</title>
+      <link>https://www.producthunt.com/products/hunna</link>
+      <description><![CDATA[
+            适合企业创始人的利润应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/hunna</guid>
+      <pubDate>Tue, 24 Mar 2026 19:27:26 GMT</pubDate>
+    </item>
+    <item>
       <title>泡菜比赛</title>
       <link>https://www.producthunt.com/products/picklematch</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/cockpit-ai</guid>
       <pubDate>Thu, 19 Mar 2026 21:21:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>仪表板</title>
+      <link>https://www.producthunt.com/products/dashpane</link>
+      <description><![CDATA[
+            以思考的速度切换应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dashpane</guid>
+      <pubDate>Fri, 16 Jan 2026 22:50:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
