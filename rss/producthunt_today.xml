@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 29 Mar 2026 01:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 05:05:09 GMT</lastBuildDate>
     <item>
       <title>停留记录</title>
       <link>https://www.producthunt.com/products/dwellrecord</link>
@@ -46,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/glance-give-claude-code-a-real-browser</guid>
       <pubDate>Fri, 27 Mar 2026 20:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯拉普麦克</title>
-      <link>https://www.producthunt.com/products/slapmac</link>
-      <description><![CDATA[
-            拍拍你的 MacBook。它尖叫着回来。就是这样。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/slapmac</guid>
-      <pubDate>Fri, 27 Mar 2026 20:19:56 GMT</pubDate>
     </item>
     <item>
       <title>WordPress 工作室 CLI</title>
@@ -160,6 +146,20 @@
       <pubDate>Thu, 26 Mar 2026 14:10:22 GMT</pubDate>
     </item>
     <item>
+      <title>预计</title>
+      <link>https://www.producthunt.com/products/expect</link>
+      <description><![CDATA[
+            让代理在真实的浏览器中测试您的代码
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/expect</guid>
+      <pubDate>Thu, 26 Mar 2026 12:00:31 GMT</pubDate>
+    </item>
+    <item>
       <title>斯波克</title>
       <link>https://www.producthunt.com/products/spokk</link>
       <description><![CDATA[
@@ -202,18 +202,18 @@
       <pubDate>Sat, 14 Mar 2026 21:40:54 GMT</pubDate>
     </item>
     <item>
-      <title>跨节点</title>
-      <link>https://www.producthunt.com/products/crossnode</link>
+      <title>显然适用于 Gmail</title>
+      <link>https://www.producthunt.com/products/apparent-for-gmail</link>
       <description><![CDATA[
-            Vibe 对人工智能代理进行编码并将其置于支付墙后面
+            让 Gmail 更易于阅读和管理。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/crossnode</guid>
-      <pubDate>Sun, 08 Mar 2026 21:09:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/apparent-for-gmail</guid>
+      <pubDate>Sat, 14 Mar 2026 21:39:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
