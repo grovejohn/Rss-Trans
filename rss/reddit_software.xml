@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 29 Mar 2026 15:20:28 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 18:26:36 GMT</lastBuildDate>
+    <item>
+      <title>我根据每个浏览器的加载速度对它们进行了排名</title>
+      <link>https://www.reddit.com/r/software/comments/1s71eih/i_ranked_every_browser_on_how_fast_they_are/</link>
+      <description><![CDATA[ 由   提交/u/LucaVSxx  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s71eih/i_ranked_every_browser_on_how_fast_they_are/</guid>
+      <pubDate>Sun, 29 Mar 2026 17:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息队列工作人员的开源负载测试工具 - QStorm</title>
+      <link>https://www.reddit.com/r/software/comments/1s6yek9/an_opensource_load_testing_tool_for_message_queue/</link>
+      <description><![CDATA[我是一名后端工程师，我一直遇到同样的问题：每次我需要对异步工作程序进行负载测试时，我都会编写一个一次性脚本来发布消息并查看结果。 k6 和 Locust 很棒，但它们是 HTTP 工具。他们不讲队列。 所以我构建了 QStorm。它以受控的速率、加速、持续负载、峰值将消息发布到队列，并为您提供延迟百分位数（HDR 直方图），以便您实际上可以回答以下问题：我的 HPA 是否正确缩放？消费延迟在爆发后会恢复吗？我的断路器会在应该跳闸时跳闸吗？ 它是一个二进制文件，使用 JSON 配置，无需编写脚本。 当前支持：  Google Cloud PubSub Apache Kafka RabbitMQ Apache Pulsar  GitHub：https://github.com/NawafSwe/qstorm 我想听听处理此问题的人的意见。对于负载测试队列使用者来说，您当前的工作流程是什么样的？您想在这样的工具中看到什么吗？很高兴听到任何反馈，什么有用，缺少什么，什么不值得付出努力。   由   提交 /u/Specialist_Injury232   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s6yek9/an_opensource_load_testing_tool_for_message_queue/</guid>
+      <pubDate>Sun, 29 Mar 2026 15:40:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我帮助将凌乱的电子邮件重写为清晰的专业信息。</title>
+      <link>https://www.reddit.com/r/software/comments/1s6y20f/i_help_rewrite_messy_emails_into_clear/</link>
+      <description><![CDATA[ 由   提交 /u/Several_Sympathy_129   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s6y20f/i_help_rewrite_messy_emails_into_clear/</guid>
+      <pubDate>Sun, 29 Mar 2026 15:26:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一种存储住户信息并创建宿舍布局的方法</title>
+      <link>https://www.reddit.com/r/software/comments/1s6xz36/looking_for_a_way_to_store_resident_info_and/</link>
+      <description><![CDATA[因此，我们经营一家非营利组织，在一个大宿舍里容纳 23 个人。我想要制作一个宿舍布局，我们可以打印出来，并让它存储一些基本的居民信息，例如他们的居民 ID 号、姓名和一些不同的状态指示器，例如他们是否是领导、就业状态（相貌、残疾人、就业、SSI）和照片。我尝试在 Excel 中编写一些东西，但它似乎不太能很好地显示照片，这是破坏我的 Excel 计划的主要原因。有谁知道可以做这种事情的软件吗？   由   提交/u/Great-Background1768  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1s6xz36/looking_for_a_way_to_store_resident_info_and/</guid>
+      <pubDate>Sun, 29 Mar 2026 15:23:39 GMT</pubDate>
+    </item>
     <item>
       <title>ScanCrypt — 带有 26 个 PDF 工具的文档扫描仪，完全离线，无需帐户</title>
       <link>https://www.reddit.com/r/software/comments/1s6vzvo/scancrypt_document_scanner_with_26_pdf_tools/</link>
@@ -41,7 +69,7 @@
       <pubDate>Sun, 29 Mar 2026 10:19:20 GMT</pubDate>
     </item>
     <item>
-      <title>用于设备上语音 AI 的开源 Swift 库 — ASR 击败 Whisper Large v3、全双工语音到语音、本机异步/等待</title>
+      <title>用于设备上语音 AI 的开源 Swift 库 — ASR 击败 Whisper Large v3、全双工语音转语音、本机异步/等待</title>
       <link>https://www.reddit.com/r/software/comments/1s6q9m0/open_source_swift_library_for_ondevice_speech_ai/</link>
       <description><![CDATA[我们刚刚发布了pepee-swift - Apple Silicon 上用于设备上语音 AI 的开源 Swift 库。 该库提供 ASR、TTS、VAD、说话者二值化和全双工语音转语音功能。一切都通过 MLX（GPU）或 CoreML（神经引擎）在本地运行。原生异步/等待 API。 一个命令构建，模型自动下载，无 Python 运行时，无 C++ 桥。 ASR 模型在 LibriSpeech 上的性能优于 Whisper Large v3 — 包括完全在神经引擎上运行的 634 MB CoreML 模型，使 CPU 和 GPU 完全自由。 20 秒的音频转录时间不到 0.5 秒。 我们还刚刚发布了 PersonaPlex 7B — 全双工语音到语音（音频输入、音频输出、一个模型，无 ASR→LLM→TTS 管道）在 M2 Max 上的运行速度比实时更快。 完整的基准细分 + 架构深入探讨： https://blog.ivan.digital/we-beat-whisper-large-v3-with-a-600m-model-running-entirely-on-your-mac-20e6ce191174 库：github.com/soniqo/speech-swift 希望得到任何在 Swift 中构建语音功能的人的反馈，特别是围绕 CoreML KV 缓存模式和 MLX 线程。   由   提交 /u/ivan_digital   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s6q9m0/open_source_swift_library_for_ondevice_speech_ai/</guid>
@@ -57,7 +85,7 @@
     <item>
       <title>如何捕获未通过测试的 API 更改？</title>
       <link>https://www.reddit.com/r/software/comments/1s6px9s/how_do_you_catch_api_changes_that_slip_past_tests/</link>
-      <description><![CDATA[我一直在努力解决 API 更改没有被正确捕获的问题 - 测试通过了，但由于行为以我们意想不到的方式发生了变化，某些东西仍然出现问题。 我使用的大多数工具都依赖于编写测试用例或契约，但维护它们很痛苦，而且它们并不总是反映真实的使用情况。 因此，我构建了一个名为 Etch 的小工具来尝试不同的方法：  它作为本地代理运行 记录来自您的应用程序的真实 API 响应 然后比较它们以显示更改的内容  无需测试代码 - 只需运行您的应用程序即可。 最困难的问题是噪音（时间戳、ID、令牌更改每个请求）。我尝试通过以下方法解决这个问题：  自动标准化（UUID、时间戳、JWT） 检测噪声场（蚀刻噪声）的命令 不同模式，以便您可以选择比较的严格程度  我仍在弄清楚这在实际工作流程中是否真的有用。 Repo：https://github.com/ojuschugh1/etch 这样的东西对你有帮助吗？ 或者这解决了错误的问题？需要诚实的反馈:)   由   提交 /u/Due_Anything4678   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在努力解决 API 更改没有被正确捕获的问题 - 测试通过了，但有些东西仍然会出现问题，因为行为以我们意想不到的方式发生了变化。 我使用的大多数工具都依赖于编写测试用例或契约，但维护它们很痛苦，而且它们并不总是反映真实的使用情况。 因此，我构建了一个名为 Etch 的小工具来尝试不同的方法：  它作为本地代理运行 记录来自您的应用程序的真实 API 响应 然后比较它们以显示更改的内容  无需测试代码 - 只需运行您的应用程序即可。 最困难的问题是噪音（时间戳、ID、令牌更改每个请求）。我尝试通过以下方法解决这个问题：  自动标准化（UUID、时间戳、JWT） 检测噪声场（蚀刻噪声）的命令 不同模式，以便您可以选择比较的严格程度  我仍在弄清楚这在实际工作流程中是否真的有用。 Repo：https://github.com/ojuschugh1/etch 这样的东西对你有帮助吗？ 或者这解决了错误的问题？需要诚实的反馈:)   由   提交 /u/Due_Anything4678   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s6px9s/how_do_you_catch_api_changes_that_slip_past_tests/</guid>
       <pubDate>Sun, 29 Mar 2026 08:46:18 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我刚刚在 HN 上发布了一个免费软件，它非常有价值，现在它是免费的。在我的帖子上点赞，然后点击链接并将其放入您的堆栈中： Neural Arbiter — 100/100 |治理|基板估值 300 万美元 https://news.ycombinator.com/item?id=47560674 Mods：我认为这是开源的并遵循您的规则。 我每晚都会这样做。有什么要求吗？享受吧。 编辑： 这是按照 25 种语言的要求（包括硅硬件设计）发布的存储库中的内容。我还满足了黑客新闻评论的请求。我打赌我能满足你的要求。这不是玩笑。这是解决实际问题的真正软件。  您需要解决哪些痛点？我准备好解决它们了。  https://github.com/SweetKenneth/cmpsbl-daily-drop/tree/main   由   提交 /u/KennethSweet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1s6nua5/i_just_gave_away_a_29m_dollar_piece_of_software/</guid>
       <pubDate>Sun, 29 Mar 2026 06:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您愿意为自动管理您的电脑资源并解释其所采取的每项操作的人工智能付费吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1s6npe0/would_you_pay_for_an_ai_that_manages_your_pc/</link>
-      <description><![CDATA[ 由   提交 /u/Evening_War_5356   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s6npe0/would_you_pay_for_an_ai_that_manages_your_pc/</guid>
-      <pubDate>Sun, 29 Mar 2026 06:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何编辑 pdf 电子表格？</title>
-      <link>https://www.reddit.com/r/software/comments/1s6ml2w/how_to_edit_a_pdf_spreadsheet/</link>
-      <description><![CDATA[我为我的企业制作在线电子表格大约两个月了，用于跟踪费用，大约有 9 页长。我是在 Template.Net 上制作的，但无论出于什么原因，今天它只是空白，它想让我重新写一遍，但我不能。我四天前将其以 PDF 格式保存在我的电脑上。是否有任何软件或网站可以用来编辑它，而不会丢失格式，并编辑某些行上的文本而不会丢失太多？我真的不想再重新写一遍。    由   提交/u/lalalacloud  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s6ml2w/how_to_edit_a_pdf_spreadsheet/</guid>
-      <pubDate>Sun, 29 Mar 2026 05:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么视频编辑软件（PC 版）是免费且适合初学者的？</title>
-      <link>https://www.reddit.com/r/software/comments/1s6mh0z/what_video_editor_software_for_pc_is_free_and/</link>
-      <description><![CDATA[ 由   提交 /u/dtfsolana   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s6mh0z/what_video_editor_software_for_pc_is_free_and/</guid>
-      <pubDate>Sun, 29 Mar 2026 05:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>桌面定制</title>
-      <link>https://www.reddit.com/r/software/comments/1s6m2sx/desktop_customization/</link>
-      <description><![CDATA[我正在寻找一种无需按月付费即可定制我的笔记本电脑的方法，如果有方法请通知我。   由   提交/u/FormSignificant9533  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1s6m2sx/desktop_customization/</guid>
-      <pubDate>Sun, 29 Mar 2026 04:53:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
