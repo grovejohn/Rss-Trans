@@ -4,7 +4,17 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 28 Mar 2026 21:21:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 01:11:48 GMT</lastBuildDate>
+    <item>
+      <title>寻找技术联合创始人来打造 Tyle</title>
+      <link>https://feed.indiehackers.world/post/17f6de1d0b</link>
+      <description><![CDATA[我不寻找什么：
+有人将此视为一个副项目。泰尔需要真正参与其中的人。
+如果这听起来很有趣，请发表评论或给我发送消息。很高兴分享完整的架构、路线图，并讨论联合创始人的设置。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/17f6de1d0b</guid>
+      <pubDate>Fri, 27 Mar 2026 08:24:11 GMT</pubDate>
+    </item>
     <item>
       <title>“在与 600 多次创始人对话之后，90% 的人都构建了错误的东西”</title>
       <link>https://feed.indiehackers.world/post/be6a4175e1</link>
@@ -58,7 +68,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>我刚刚推出了一个为 AI 代理和法学硕士构建的浏览器 API</title>
       <link>https://feed.indiehackers.world/post/9e5ca95745</link>
       <description><![CDATA[Python、TypeScript、Ruby 的官方 SDK。 Cursor 和 Claude Desktop 的 MCP 服务器。
-定价是基于运行时间的：您按照会话开放的挂钟时间付费。没有积分，没有带宽计量。
+定价是基于运行时间的：您根据会话开放的挂钟时间付费。没有积分，没有带宽计量。
 
 免费试用：1 小时运行时间，无需信用卡
 入门版：29 美元/月（100 小时）
@@ -77,7 +87,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Thu, 26 Mar 2026 08:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>AppSumo 从 3.6 万美元到 9 万美元（第 17 天）——实际发生了什么变化</title>
+      <title>AppSumo 从 36,000 美元到 90,000 美元（第 17 天）——实际发生了什么变化</title>
       <link>https://feed.indiehackers.world/post/eaf7063b8c</link>
       <description><![CDATA[
 今天计划一封特色电子邮件
@@ -97,7 +107,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Wed, 25 Mar 2026 15:35:17 GMT</pubDate>
     </item>
     <item>
-      <title>如何在注册或结帐中断时阻止部署</title>
+      <title>如何在注册或结账中断时阻止部署</title>
       <link>https://feed.indiehackers.world/post/0b79fe1aa1</link>
       <description><![CDATA[这使您无需手动扫描原始日志。
 如果您精通技术并且日志干净，则可以跳过此步骤。
@@ -246,15 +256,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/277716e4d8</guid>
       <pubDate>Mon, 23 Mar 2026 12:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们在 5 周内安装了 1.30 个 Chrome 扩展程序。这就是真正令人感动的事情（而且完全是浪费时间）。</title>
-      <link>https://feed.indiehackers.world/post/cebd3e4a5a</link>
-      <description><![CDATA[🔗https://tryclico.com/?utm_source=indiehackers&amp;utm_medium=referral
-您最惊讶的发行胜利是什么？我确实在收集这方面的数据。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/cebd3e4a5a</guid>
-      <pubDate>Mon, 23 Mar 2026 11:44:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

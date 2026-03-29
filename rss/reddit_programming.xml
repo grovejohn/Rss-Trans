@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 28 Mar 2026 21:20:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 01:10:49 GMT</lastBuildDate>
+    <item>
+      <title>任何人都可以将其作为应用程序使用吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1s6dimo/can_anyone_make_this_work_as_an_app/</link>
+      <description><![CDATA[我尝试使用 replit 来破解它，但我不懂编程。它应该将 Gmail 中的数据抓取并解析到 MySQL 数据库中   由   提交 /u/MoneyAPE150000000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s6dimo/can_anyone_make_this_work_as_an_app/</guid>
+      <pubDate>Sat, 28 Mar 2026 22:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>新世界：在几秒钟内编写复杂的查询</title>
+      <link>https://www.reddit.com/r/programming/comments/1s6d3tz/new_world_writing_complex_queries_in_seconds/</link>
+      <description><![CDATA[我构建了一个免费的 macOS 应用程序，可让您用简单的英语查询 PostgreSQL。 我已经为此工作了一段时间，并认为它可能对其他人有用。 它称为 AloDB。您连接到 PostgreSQL 数据库，输入一个问题，例如“显示上周总计超过 100 的所有订单”它会为您生成 SQL。您可以在运行查询之前查看查询，根据需要对其进行编辑，或者使用 Studio 模式进行更多控制。 构建查询时对我来说很重要的一些事情： - 您的数据库凭据永远不会离开您的计算机。服务器只会看到您的架构结构来生成 SQL，而不会看到您的实际数据或连接字符串。 - 查询在您的计算机本地运行，而不是在某些远程服务器上运行。因此它也适用于防火墙后面的数据库。 - 它使用您自己的 Gemini API 密钥。我们这边没有订阅，没有帐户，没有使用限制。 -代理部分完全开源。 它并不是试图取代 pgAdmin 或 DBeaver。当您希望从数据中获得答案而不需要自己编写 SQL 时，它更适合快速探索。 目前，仅限 macOS，Windows 和 Linux 即将推出。 很想听听您的想法。如果您遇到问题，GitHub 存储库是最好的地方。 alodb[.]com   由   提交/u/No_Fun_7185   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s6d3tz/new_world_writing_complex_queries_in_seconds/</guid>
+      <pubDate>Sat, 28 Mar 2026 21:50:38 GMT</pubDate>
+    </item>
     <item>
       <title>Jon Gjengset 的并发协调成本</title>
       <link>https://www.reddit.com/r/programming/comments/1s6c2kf/the_cost_of_concurrency_coordination_with_jon/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[抛开政治因素不谈，这是一个写得很糟糕、非常窥探的应用程序。    由   提交 /u/CackleRooster   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1s6b9zt/i_decompiled_the_white_houses_new_app/</guid>
       <pubDate>Sat, 28 Mar 2026 20:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Typescript/React 中从头开始构建解释器/调试器/可视化器</title>
-      <link>https://www.reddit.com/r/programming/comments/1s6ad7a/how_to_build_an_interpreterdebuggervisualizer/</link>
-      <description><![CDATA[该视频介绍了如何从头开始构建解释器/调试器/可视化器https://www.youtube.com/watch?v=PsF9oq3Zpgk，并在前端呈现。它显示了从开始到结束的整个过程。还有每个部分如何工作的说明。 源代码：https://github.com/LarryWu157/interpreter-debugger-visualizer-typescript-react   由   提交/u/dExcellentb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s6ad7a/how_to_build_an_interpreterdebuggervisualizer/</guid>
-      <pubDate>Sat, 28 Mar 2026 20:00:07 GMT</pubDate>
     </item>
     <item>
       <title>如何使用 ETag header 实现乐观并发</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/big_bill_wilson  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1s59ff3/how_i_accidentally_made_the_fastest_c_csv_parser/</guid>
       <pubDate>Fri, 27 Mar 2026 16:41:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么软件工程在规范驱动开发时代永远不会消亡</title>
-      <link>https://www.reddit.com/r/programming/comments/1s58u2f/why_software_engineering_will_never_die_revisited/</link>
-      <description><![CDATA[规范驱动开发的兴起要求对原始论文进行重新评估；是“为什么软件工程永远不会消亡”的原则仍然有效，还是已经被规范驱动的开发所覆盖，从而完全自动化，就像编码一样？   由   提交/u/pmz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s58u2f/why_software_engineering_will_never_die_revisited/</guid>
-      <pubDate>Fri, 27 Mar 2026 16:21:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
