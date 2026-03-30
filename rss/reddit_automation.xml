@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 30 Mar 2026 15:58:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 18:42:32 GMT</lastBuildDate>
+    <item>
+      <title>2 年的 Linkedin 外展经验以及我将其自动化的经验 - 这些是 LinkedIn 实际执行的限制（而不是一些人担心的限制）</title>
+      <link>https://www.reddit.com/r/automation/comments/1s7ulzq/2_years_of_linkedin_outreach_and_my_experience/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s7ulzq/2_years_of_linkedin_outreach_and_my_experience/</guid>
+      <pubDate>Mon, 30 Mar 2026 15:58:09 GMT</pubDate>
+    </item>
     <item>
       <title>S7-1516 (FW v3.0) 和 MTP 700 统一舒适面板之间无法通信？</title>
       <link>https://www.reddit.com/r/automation/comments/1s7u6tn/no_communication_between_s71516_fw_v30_and_mtp/</link>
@@ -83,11 +90,11 @@
       <pubDate>Mon, 30 Mar 2026 12:10:09 GMT</pubDate>
     </item>
     <item>
-      <title>试图自动化太多太快。这是哪里出了问题，我失去了什么，以及我会采取什么不同的做法</title>
-      <link>https://www.reddit.com/r/automation/comments/1s7of7i/tried_to_automate_too_much_too_fast_heres_what/</link>
-      <description><![CDATA[六个月前，我决定积极实现自动化。 Full sprint 在两周内构建了 11 个不同的代理工作流程。到第 2 个月末，其中一半已损坏或被遗弃。其中一个引起了实际问题。 写下这篇文章是因为“我自动化了一切，这太棒了”。内容并非全部。 具体失败： 尝试自动化首次接触外展。在我审阅草稿清单之前，代理发送了 60 封电子邮件。其中三十封是发给我认识的人的，而且信息显然是模板化的。三人回复问怎么回事。我仍在处理关系损害。 建立了一个监控代理，该代理应该标记“重要竞争对手的公告”。第一周它就标记了 40 件事，其中大多数都是无关紧要的。我开始完全忽略警报。错过了一些真正重要的事情，因为我已经训练自己将其排除。 自动化我的每周客户端更新编译。格式看起来不错，但代理从错误的日期范围中提取数字。在我发现之前，向两个客户发送了指标不正确的报告。必须解释并道歉。 我实际上一直在运行的内容： 竞争对手定价和产品监控：特定的、有界的任务，易于验证。在 Twin (twin.so) 上运行，非常可靠。 从特定来源进行相同交易的潜在采购。定义的范围，可验证的输出。 相关行业新闻的早间摘要：如果出现问题，风险较低，易于快速扫描。 所有这些都是我没有足够精确地定义正确的输出来捕获错误的事情。持续运行的任务是我可以在 2 分钟内验证准确性的任务。 在构建自动化之前，将验证构建到所有内容中。我是倒着做的。   由   提交 /u/Glum_Pool8075   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s7of7i/tried_to_automate_too_much_too_fast_heres_what/</guid>
-      <pubDate>Mon, 30 Mar 2026 11:54:56 GMT</pubDate>
+      <title>还有其他人觉得机器人流程自动化平台的承诺比其交付的更多吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1s7njys/anyone_else_feel_like_robotic_process_automation/</link>
+      <description><![CDATA[在过去的一年里，我测试了一些机器人流程自动化平台，但我一直遇到同样的问题：它们在受控环境中运行良好，但在现实场景中却崩溃了。一旦出现异常、缺少字段、意外输入或系统滞后，一切要么默默失败，要么产生下游问题。感觉这些平台假设条件完美，但业务流程本质上是混乱的。我是否在这里遗漏了一些东西，或者大多数 RPA 工具并不是为现实世界的可变性而构建的？   由   提交/u/Away_You9725   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s7njys/anyone_else_feel_like_robotic_process_automation/</guid>
+      <pubDate>Mon, 30 Mar 2026 11:11:00 GMT</pubDate>
     </item>
     <item>
       <title>我自动化了从准备到后续的整个会议工作流程</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[在过去的大约 5 年里，我在工作中手动处理了大量重复的操作步骤。最近，我开始自动化部分工作流程，所节省的时间确实让我感到惊讶。 到目前为止，我已经自动化了通过我们的移动应用程序发送交易的端到端流程。之后，我继续自动化管理 Web 应用程序的部分内容 - 打开浏览器，导航到凭证输入部分，填写必填字段，然后自动提交凭证。 现在，我正在研究的下一步是自动化这些条目的审批部分。 这整个过程让我意识到，有多少事情可以自动化，这是我以前从未考虑过的。很好奇这里其他人自动化了哪些类似的工作流程，这对他们产生了很大的影响（特别是在内部工具/管理面板/操作流程中）。 寻找下一步探索的想法 🙂   由   提交 /u/Soft_Playful   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s7kawq/started_automating_an_endtoend_transaction/</guid>
       <pubDate>Mon, 30 Mar 2026 07:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年我最喜欢的 AI 代理按用例排序</title>
-      <link>https://www.reddit.com/r/automation/comments/1s73adp/my_favorite_ai_agents_in_2026_sorted_by_use_case/</link>
-      <description><![CDATA[到目前为止，我在 2026 年使用了 20 多个代理。这些是我最喜欢的，按它们实际擅长的领域细分（排名不分先后） 浏览器代理（一次性任务）  OpenAI Operator - 大名鼎鼎的条目。擅长浏览器任务，例如预订和填写表格。但感觉仅限于一次性任务。你告诉它做某事，它就会做，完成。没有持续的工作流程或监控。 人类克劳德计算机的使用 - 在技术上最令人印象深刻。它实际上可以操作桌面。但它非常面向开发人员。如果您对 API 和设置感到不舒服，那么这不是即插即用的。  始终开启/定期代理  MuleRun - 此运行在一台 24/7 的专用计算机上。我设置了每日竞争对手价格和每周报告，它只是......一直在这样做。永远在线的部分确实不同。不过，UI 不如 Operator 精致。 Lindy AI - 特别适合电子邮件和日历自动化。非常集中的用例。效果很好，但不是通用代理。  开源/DIY  AgentGPT / AutoGPT - OG 开源代理。很酷的概念，但对于任何严肃的事情来说仍然不可靠。大量循环和卡住。 CrewAI - 多代理框架，您可以在其中设置“工作人员”。一起工作的代理。如果您会编码，那么对于复杂的工作流程来说真的很酷。根本不适合初学者，但它工作时的结果可能令人印象深刻。  代理编排/企业  LangGraph（由 LangChain 提供） - 更多的是一个开发人员框架而不是产品。但是，如果您想完全控制代理的计划和执行方式，那么这就是认真的构建者工作的地方。 Microsoft Copilot Studio - 企业版。如果您的公司已经使用 Microsoft 365，则可以很好地集成。但与其他人相比，它感觉非常企业化和锁定。  荣誉奖：Relevance AI（适合销售工作流程）、Bardeen（浏览器自动化，比完整代理更简单）、Dust tt（团队知识代理）。 请继续添加到列表中，特别是如果您在财务或客户支持等特定领域找到了好的代理。   由   提交 /u/Itchy-Drawing   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s73adp/my_favorite_ai_agents_in_2026_sorted_by_use_case/</guid>
-      <pubDate>Sun, 29 Mar 2026 18:44:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
