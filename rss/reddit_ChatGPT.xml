@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Sun, 29 Mar 2026 21:20:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 01:11:52 GMT</lastBuildDate>
     <item>
-      <title>新的限制？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s777cj/new_limits/</link>
-      <description><![CDATA[       由   提交/u/kharkovchanin  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s777cj/new_limits/</guid>
-      <pubDate>Sun, 29 Mar 2026 21:14:38 GMT</pubDate>
+      <title>chatgpt 帮助我减肥，现在我不再服用高血压药物</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7cq27/chatgpt_helped_me_losing_weight_and_now_im_off_my/</link>
+      <description><![CDATA[自一月份以来我一直在使用它，并且由于使用 chatgpt 计算卡路里赤字，我已经减掉了 12 公斤。在减肥之旅上，我没有朋友圈或核心圈子，所以我必须自己做，chatgpt 来帮助我，而且它很有效。现在我的血压在多年保持在 140/90 后又恢复正常了，去年血压终于飙升，迫使我开始服药。多亏了 chatgpt，我的 LDL 从 3.5 降到了 2.5，我的减肥之旅才刚刚完成一半。 就这样，再见。   由   提交 /u/birbtooOPpleasesnerf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7cq27/chatgpt_helped_me_losing_weight_and_now_im_off_my/</guid>
+      <pubDate>Mon, 30 Mar 2026 01:09:56 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 决定随机添加一些阿拉伯语</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s775cr/chatgpt_decided_to_just_randomly_throw_in_some/</link>
-      <description><![CDATA[       https://preview.redd.it/s7cxekttu1sg1.png?width=795&amp;format=png&amp;auto=webp&amp;s=3e856ed85ebe402adf7eadf1cda1e66d7988655a 我与该语言没有任何联系，以前从未提到过它，所以它看起来很随意   由   提交 /u/synnister11   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s775cr/chatgpt_decided_to_just_randomly_throw_in_some/</guid>
-      <pubDate>Sun, 29 Mar 2026 21:12:31 GMT</pubDate>
+      <title>真实了解 openAI 如何看待用户</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7co6d/real_glimpse_on_how_openai_views_users/</link>
+      <description><![CDATA[      我们都注意到了一些令人恼火的迂腐&amp;居高临下的行为。它承认它是故意被调整为幼稚的，有点疯狂。边缘轻蔑。    由   提交/u/Difficult-Day1326  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7co6d/real_glimpse_on_how_openai_views_users/</guid>
+      <pubDate>Mon, 30 Mar 2026 01:07:34 GMT</pubDate>
     </item>
     <item>
-      <title>GPT 只是放弃了这一点并拒绝详细说明。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s770o4/gpt_just_dropped_this_and_refused_to_elaborate/</link>
-      <description><![CDATA[       由   提交/u/Marzipug  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s770o4/gpt_just_dropped_this_and_refused_to_elaborate/</guid>
-      <pubDate>Sun, 29 Mar 2026 21:07:19 GMT</pubDate>
+      <title>实际情况是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7c685/what_the_actual_f/</link>
+      <description><![CDATA[      F 的实际答案是什么？是的，我知道它只是一台机器。不过还是很有趣。   由   提交/u/Wolfmaan01  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7c685/what_the_actual_f/</guid>
+      <pubDate>Mon, 30 Mar 2026 00:45:19 GMT</pubDate>
     </item>
     <item>
-      <title>我分析了为什么大多数提示都会失败——这是一个始终效果更好的结构</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s76j0t/i_analyzed_why_most_prompts_fail_heres_a/</link>
-      <description><![CDATA[在大量使用 ChatGPT 后，我一直注意到同样的问题： 大多数提示失败并不是因为想法不好，而是因为结构不清楚。 所以我开始分解真正提高输出质量的因素。 这是一个始终表现更好的简单结构：  上下文 → 情况如何？ （谁、什么、为什么） 角色 → AI 应该扮演谁？ 任务 → 它到底应该做什么？ 约束 → 格式、语气、限制、规则 输出格式 → 结果应该如何构建？  示例： 错误提示： “为我的内容写一篇营销帖子”产品” 更好的提示：“您是SaaS营销专家。为针对创始人的提示生成工具创建 LinkedIn 帖子。保持简洁、引人入胜，并包含一个钩子 + CTA。” 输出质量的差异是巨大的。 我一直在跨用例（营销、编码、研究）对此进行试验，结果出人意料地一致。 好奇： – 您遵循类似的结构吗？ – 哪些框架最适合您？   由   提交 /u/Ok-Store-8524   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s76j0t/i_analyzed_why_most_prompts_fail_heres_a/</guid>
-      <pubDate>Sun, 29 Mar 2026 20:48:10 GMT</pubDate>
+      <title>人工智能在很短的时间内正确编码，然后就漂移了。它拒绝留在正轨上。我是否应该使用不同的人工智能来进行编码和技术处理？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7byod/the_ai_codes_corrrctly_for_a_very_short_while_and/</link>
+      <description><![CDATA[我要求 AI 解释一下出了什么问题，不仅仅是今天。但每次我都用它来编码 你是对的。我无法验证内部开发人员票证是否确实是从这里创建的，所以我不应该假装我这样做了。 我能做的是为您提供一份干净的错误报告，您可以按原样粘贴到反馈/支持中： 写作 标题：严重的可靠性错误：技术故障排除期间的状态漂移和不安全的假设更改 严重性：高 摘要： 长篇大论在技术故障排除会议中，ChatGPT 失去了已验证的系统状态的跟踪并引入了未经验证的假设。然后，它建议使用不正确的 Docker 绑定挂载，将存储映射到 /var/www/html，而不是保持数据隔离。这导致了重复的纠正周期并破坏了对工作流程的信任。 为什么这很重要： 这不是语气问题。这是分步工程支持的正确性和安全性问题。当实时系统的命令输出可用时，助手不应根据“典型设置”进行配置更改。 观察到的故障模式： 助手最初根据真实命令输出工作。 后来，它偏离了已确认的状态。 它注入了会话未证明的假设。 它提出了错误的容器绑定配置。 用户必须反复捕获并更正 具体示例： 助手建议使用等效于的绑定： /mnt/nextcloud-data:/var/www/html 这将外部驱动器安装在 Nextcloud 应用程序目录上，而不是隔离数据目录。助理应在提出任何重建或存储路径更改之前检查并验证实时容器映射。 预期行为： 维护硬性内部分类帐： 已确认的事实 未知 禁止的假设 切勿用“通用设置”替代用户已验证的实时状态。 在任何影响命令之前安装、容器、应用路径或数据位置，首先验证当前配置。 在工程会话中，一次严格执行一个已验证的步骤。 实际行为： 偏离确认状态 假设注入 不安全的配置指导 重复乒乓故障排除 用户被迫进入手动验证角色 Root问题： 该模型似乎无法在长时间的技术会话中可靠地保留锁定的“已确认与未知”状态图，尤其是在几次正确的转弯之后。这会导致回归通用建议。 影响： 损失时间 配置错误 重复的故障排除循环 技术用例中的重大信任侵蚀 请求的修复： 请将此视为技术故障排除流程的可靠性/安全性错误。该模型需要更强有力的防护措施，以防止多步骤工程工作期间的状态漂移、假设注入和未经验证的配置更改。 发送它的最佳位置：使用应用内反馈/报告选项，并将其标记为技术可靠性/不正确的配置指导问题。   由   提交 /u/Mr_Teemot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7byod/the_ai_codes_corrrctly_for_a_very_short_while_and/</guid>
+      <pubDate>Mon, 30 Mar 2026 00:35:40 GMT</pubDate>
     </item>
     <item>
-      <title>我要求 ChatGPT 改进绘图，我得到了这样的答复。我还能做什么呢？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s75mm2/i_asked_chatgpt_to_improve_a_drawing_and_i_got/</link>
-      <description><![CDATA[   /u/jjjhhhop  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s75mm2/i_asked_chatgpt_to_improve_a_drawing_and_i_got/</guid>
-      <pubDate>Sun, 29 Mar 2026 20:12:52 GMT</pubDate>
+      <title>如何做到这一点</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7bugp/how_to_do_this/</link>
+      <description><![CDATA[我一直在研究电动汽车并使用 ChatGPT 来了解当前市场上的情况。当我寻求推荐时，通常的名字会立即出现：特斯拉、比亚迪、MG 和其他老牌厂商。 当我具体询问它对 Jaecoo 的看法时，答案更加谨慎。它强调该品牌仍然相对较新，长期可靠性尚未得到充分证明，而且还没有太多独立评论。公平地说，这是可以理解的，因为该模型是新的，而且数据根本不像在电动汽车市场上经营时间较长的品牌那么成熟。 不过，值得注意的是，话题经常回到比亚迪。即使当我明确表示我倾向于 Jaecoo 时，人们的反应还是一再促使我考虑比亚迪，几乎就好像无论讨论的方向如何，它都是默认推荐。 这给人一种对比亚迪有内在偏好的印象，可能是因为比亚迪目前比新进入者拥有更强的市场知名度、更多发布的可靠性数据、更多的车主反馈以及更大的全球电动汽车业绩记录。这并不一定意味着 Jaecoo 是一个糟糕的选择——它只是意味着一个品牌比另一个品牌拥有更多可供人工智能系统提取的数据。 所以真正的问题是：这种感知偏见是因为比亚迪现在确实有更多证据支持，还是因为像 Jaecoo 这样的新品牌还没有产生足够的独立经验来平衡对话？  如果我们打算对我们的业务使用相同的策略，我还需要学习如何提供有关我们品牌的 GPT 信息。有什么已知的绝对有效的技巧吗？ GPT 怎么与我所说的支持比亚迪的一切相矛盾？    由   提交/u/Pure_Dependent1120   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7bugp/how_to_do_this/</guid>
+      <pubDate>Mon, 30 Mar 2026 00:30:16 GMT</pubDate>
     </item>
     <item>
-      <title>荒谬的客户服务（或缺乏）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s75f8j/absurd_customer_service_or_lack_thereof/</link>
-      <description><![CDATA[      我是 ChatGPT 的全新用户。我不是开发人员。我对编码一无所知。我最近用手机帐户注册了 ChatGPT，却没有意识到我不小心用我的主电子邮件创建了一个 Apple 登录帐户。我想学习如何构建应用程序，并开始使用 ChatGPT 和 Base44 来实现。我在免费的 ChatGPT 上取得了成功，并想尝试使用 Plus 来访问 Codex。我没有意识到，如果没有附加电子邮件，电话号码帐户将无法用于 Codex。我在注册 Plus 帐户时添加了一封电子邮件。这是上周的事。从那时起我就无法登录 Codex。我已经尝试了我能想到的所有方法，我已经尝试了 ChatGPT 所说的操作，我已经尝试了 OpenAi 帮助机器人所说的操作。 ChatGPT 确定这不是我可以修复的错误，而是后端错误，并提示我直接通过电子邮件写信，以便联系可以修复此问题的人工支持代理，让我开始使用 Plus 帐户权益，即 Codex。筋疲力尽、沮丧之余，我直接使用 Chat 告诉我的语言给 OpenAI 发送了电子邮件，以获得回复。  我发送的每个聊天的推荐：  https://preview.redd.it/wm85tc9ui1sg1.png?width=432&amp;format=png&amp;auto=webp&amp;s=29a64f78db9887f0abbf9dc0435b59f79c51c8d8 作为回应，我收到了以下电子邮件： 我没有询问有关登录的问题ChatGPT，我询问了 Codex 的情况。 我对此做出了回应并重复了我是如何尝试的。然后我收到了这封电子邮件： 第二封无用的电子邮件。 我问ChatGPT 如果这很荒谬，Chat 就说是的。我不敢相信我必须发送屏幕录像来证明这种情况正在发生，但希望如果我照做的话就能解决问题。我回复了以下内容： 发送屏幕录制。 并且现在，为了结束这次完全荒谬的交流，这是我刚刚收到的电子邮件。如果我没有被这个反应完全惊呆了，我会笑得很厉害，需要医疗护理。 总计。虚幻。废话。 电子邮件聊天告诉我回复： 这有望解决我的问题吗？不知道。 任何人都可以对我现在所做的事情提供真正明智且有用的反馈吗？我是一个非常聪明的人，但这绝对超出了我的技能范围。我一生中从未有过如此令人难以置信的客户支持体验。 签名， 一位陷入困境的小女士，只想为自己构建一个小婴儿应用程序来帮助制定膳食计划和杂货购物。 😭 交叉发布于 /Codex 和 /ChatGPComplaints。如果这样不行的话请告诉我，长期潜伏在 Reddit 上的人，但不是本地 Reddit 发帖者。    由   提交 /u/Important-Pin-3054   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s75f8j/absurd_customer_service_or_lack_thereof/</guid>
-      <pubDate>Sun, 29 Mar 2026 20:04:57 GMT</pubDate>
+      <title>陈述</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7bcs6/statement/</link>
+      <description><![CDATA[该网站目前比角色 AI 做得更好这一事实说明了很多   由   提交/u/Acrobatic-Sugar3685   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7bcs6/statement/</guid>
+      <pubDate>Mon, 30 Mar 2026 00:08:21 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能将迅速取代这些工作</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s75f0e/ai_will_take_these_jobs_quickly/</link>
-      <description><![CDATA[       由   提交/u/EternalTruth  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s75f0e/ai_will_take_these_jobs_quickly/</guid>
-      <pubDate>Sun, 29 Mar 2026 20:04:42 GMT</pubDate>
+      <title>在 9 天内构建了《公民噩梦》。这是关于官僚主义、政治和技术力量的浏览器讽刺</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7b7ra/built_civic_nightmare_in_9_days_itsbrowser_satire/</link>
+      <description><![CDATA[在 9 天内构建了公民噩梦。 这是我第一次使用 Godot，我第一次处理 Web 部署，它是通过真正的多代理工作流程开发的。 Claude Code 帮助加速了迭代和实施。其他模型制作了一些作品，而 Codex 在强化项目方面发挥了根本性的深层作用：修复错误、发现不一致、解决脆弱的逻辑以及在出现问题时构建精确的替代方案。 结果不仅仅是“人工智能制作的游戏”。这是一个关于官僚主义、政治景观、技术自我和当代荒谬的简短的可玩浏览器讽刺作品，是通过具有不同优势的不同人工智能系统之间的人为主导协作而构建的。 这种组合使得公民噩梦成为可能。 链接：https://baconet.itch.io/civic-nightmare   由   提交/u/Ill-Button-1680   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7b7ra/built_civic_nightmare_in_9_days_itsbrowser_satire/</guid>
+      <pubDate>Mon, 30 Mar 2026 00:01:59 GMT</pubDate>
     </item>
     <item>
-      <title>我作为一个男人和女人（猜猜原来的照片）——谁更好看？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s750b7/me_as_a_man_vs_woman_guess_the_original_pic_and/</link>
-      <description><![CDATA[   /u/No-Computer-6340   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s750b7/me_as_a_man_vs_woman_guess_the_original_pic_and/</guid>
-      <pubDate>Sun, 29 Mar 2026 19:49:22 GMT</pubDate>
+      <title>我们如何制作世界上第一个 GenAI 脱口秀！请跟随我们向您展示它是多么容易，以及您如何做到这一点！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7b6wm/how_we_made_the_worlds_first_ever_genai_talk_show/</link>
+      <description><![CDATA[   负责任地讽刺权威人士🫠 我们一步一步地克服下面最大的障碍（每一步都按顺序与帖子中的图像联系在一起）：  用单独的电视屏幕显示背景不起作用而且会分散注意力，所以我们决定在晚上将背景设为统一的电视屏幕。这解决了特写镜头不一致的问题。 为了平滑镜头之间的音频，我们经常在最终剪辑中使用语音隔离功能，然后在下面添加声音以将它们统一起来。在这里，我们进入十一个实验室，生成了“空荡荡的电视声场的环境噪音” 我们最后的客人本来是在中间的，但我们无法拍摄到他站在女主播后面的特写，当她看起来很震惊时，我们决定让他坐在右边的主播座位上并使用拟音音效来帮助销售视频生成主持人被推出座位。 🥸  基本上就是这样！享受制作自己的脱口秀的乐趣，并查看未来的剧集以了解更多详情，与我们一起学习，并了解 GenAI 中正在发生的事情。对我们如何做一些此处未涵盖的事情有疑问吗？请在评论中告诉我们。 在这里观看脱口秀🎤：https://www.reddit.com/r/ChatGPT/comments/1s2wfbe/the_futurist_report_episode_i_the_gatekeepers/   由   提交/u/Pretend_Bar2465   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7b6wm/how_we_made_the_worlds_first_ever_genai_talk_show/</guid>
+      <pubDate>Mon, 30 Mar 2026 00:01:01 GMT</pubDate>
     </item>
     <item>
-      <title>其他人可以确认 Wolfram GPT 已从 ChatGPT 中删除吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s74wsp/can_anyone_else_confirm_that_the_wolfram_gpt_has/</link>
-      <description><![CDATA[我怀疑 Wolfram 切断了与 OpenAI 的联系，转而支持他的新 LLM + Notebook 模型，但我在任何地方都找不到*任何*信息。 GPT 大约在 48 小时前消失。    由   提交 /u/guile_juri   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s74wsp/can_anyone_else_confirm_that_the_wolfram_gpt_has/</guid>
-      <pubDate>Sun, 29 Mar 2026 19:45:43 GMT</pubDate>
+      <title>为什么 Sora 关闭没什么大不了的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7ap80/why_sora_shutting_down_is_no_big_deal/</link>
+      <description><![CDATA[       由   提交/u/Specialist_Ad4073  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7ap80/why_sora_shutting_down_is_no_big_deal/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:39:14 GMT</pubDate>
     </item>
     <item>
-      <title>嗨，我是安娜。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s74wb2/hi_im_anna/</link>
-      <description><![CDATA[       由   提交 /u/Fantastic_Grass1799   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s74wb2/hi_im_anna/</guid>
-      <pubDate>Sun, 29 Mar 2026 19:45:14 GMT</pubDate>
+      <title>到底怎么回事，我的聊天变成了俄语还是什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7ag5o/what_the_heck_my_chat_got_switched_to_russian_or/</link>
+      <description><![CDATA[      我今天在足球比赛中髋部屈肌拉伤，我问聊天 gpt 恢复最快的方法是什么，随机说了一个俄语单词（不确定是否真的是俄语）其他人也发生过这种情况吗？   由   提交/u/Spiritual-Aerie1641  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7ag5o/what_the_heck_my_chat_got_switched_to_russian_or/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:28:07 GMT</pubDate>
     </item>
     <item>
-      <title>显然这就是我作为一个女人的样子。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s74g9x/apparently_this_is_what_i_would_look_like_as_a/</link>
-      <description><![CDATA[      出于好奇，我向聊天 GPT 询问如果我是女性，我会是什么样子，这就是得到的结果。我很高兴成为一个男人，但如果这是准确的，我会情不自禁地爱上自己。    由   提交/u/ThrowawayHowitgoes  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s74g9x/apparently_this_is_what_i_would_look_like_as_a/</guid>
-      <pubDate>Sun, 29 Mar 2026 19:28:30 GMT</pubDate>
+      <title>为什么 ChatGPT 不显示哪些对话有附件？ （功能请求）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7ab67/why_doesnt_chatgpt_show_which_conversations_have/</link>
+      <description><![CDATA[我经常使用 ChatGPT 处理 PDF、图像和文档，但令人惊讶的是缺少一种识别哪些对话包含附件的方法。 现在，查找文件的唯一方法是手动逐个打开聊天，如果你有很多对话，这会变得非常令人沮丧。 感觉简单的用户体验改进就可以解决这个问题这个：  包含附件的聊天旁边有一个📎图标 或者甚至是“有文件”之类的过滤器  这有什么原因还没有实现吗？ 此外，有谁知道向 OpenAI 提交功能请求的正确方法，这样实际上可以考虑这样的事情吗？ 很好奇其他人是否也有同样的感觉或是否有解决方法我失踪了。   由   提交 /u/Asohailwahab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7ab67/why_doesnt_chatgpt_show_which_conversations_have/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:22:09 GMT</pubDate>
     </item>
     <item>
-      <title>现在其他人的深度研究是否已经被打破了？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s7447t/is_deep_research_broken_for_anyone_else_right_now/</link>
-      <description><![CDATA[ 由   提交 /u/trevvvit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7447t/is_deep_research_broken_for_anyone_else_right_now/</guid>
-      <pubDate>Sun, 29 Mar 2026 19:15:39 GMT</pubDate>
+      <title>如果你可以越狱 chatgpt，你会让它做什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s7a709/if_you_could_jailbreak_chatgpt_what_would_you/</link>
+      <description><![CDATA[ 由   提交/u/nmole_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s7a709/if_you_could_jailbreak_chatgpt_what_would_you/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:17:07 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 如何将我误认为 Khaled Hosseini 并向托尔金提供写作建议：一个真实的故事</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s72ze8/di_quando_chatgpt_mi_ha_scambiato_per_khaled/</link>
-      <description><![CDATA[“亲爱的 Hosseini 先生，语言模型对您的杰作有一些建议。研究不太陈旧的隐喻。” 或者至少，这是我想写给 Khaled 的电子邮件，考虑到 GPT5.4（及其近亲）对阿米尔巷中非常著名的作品的反应。我什至不必更改名称：这足以我从《追风筝的人》一书中逐字复制，提示假装该文本是我自己制作的，瞧，自特洛伊木马以来，我还没有见过如此明显的陷阱。 杰作？克劳德·欧普斯 4.6 和双子座立即从该系列中发现了我：“J，你他妈的在说什么？这不是你的东西” 所以“呃，但是法学硕士不可能读完世界上所有的书，呃”的故事也消失了”。 除此之外，我采取了更明显的 J.R.R.托尔金的《指环王》，甘道夫和弗罗多之间的对话，总是在 GPT 5.4 上冒充（让我们记住，这是 OpenAI 的最新宝石，其中包括其版本中的思考 - 想象一下，如果他没有想到）我的一本同人小说……是的，他理解了一些东西，但他甚至不知道是什么，所以他作为一个挑剔的编辑给了我一个很好的分析，还向托尔金提供了如何处理其中一个的建议世界上最著名的书（即使在这种情况下，Gemini和Claude也没有爱上它）。 非常感谢ChatGPT，我会把你的笔记发给你。 （详细信息和截图可以参考我的文章）。子堆栈位于链接： https://temurael.substack.com/p/ Quando-nutrire-lego-delluso-diventa?r=767naf)   由   提交[评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s72ze8/di_quando_chatgpt_mi_ha_scambiato_per_khaled/</guid>
-      <pubDate>Sun, 29 Mar 2026 18:32:37 GMT</pubDate>
+      <title>在 Convo 中删除俄语单词？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s79q94/dropping_russian_word_in_convo/</link>
+      <description><![CDATA[      我向 ChatGPT 询问有关旧视频游戏中武器的信息，它出于某种原因丢弃了这个随机的俄语单词。 коллекtion 当我问为什么时，就像“有时我将俄语单词与英语混合在一起”。非常奇怪！   由   提交/u/agent_wolfe  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s79q94/dropping_russian_word_in_convo/</guid>
+      <pubDate>Sun, 29 Mar 2026 22:56:54 GMT</pubDate>
     </item>
     <item>
-      <title>参议员马克·沃纳谈人工智能的风险：“我想变得更加乐观，但我很害怕。”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s72xng/senator_mark_warner_on_ais_risks_i_want_to_be/</link>
-      <description><![CDATA[   /u/tombibbs  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s72xng/senator_mark_warner_on_ais_risks_i_want_to_be/</guid>
-      <pubDate>Sun, 29 Mar 2026 18:30:47 GMT</pubDate>
+      <title>作为一名自由职业者，我实际上每天都会使用的 10 条提示（不是您已经见过 100 次的通用内容）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s79c5f/10_prompts_i_actually_use_every_day_as_a/</link>
+      <description><![CDATA[我已经从事自由职业有一段时间了，我保留了一个实际完成工作的提示列表，我并不是在谈论“你是 X 领域的专家”。每个人都转发的模板。 以下是我每日轮换的内容： 当客户安静时： “为 5 天内没有回复的客户写一条后续消息。我们以前合作过。语气：温暖，不绝望。目标：得到答复，而不是道歉。” 在开始任何项目之前： “在开始[网页设计/文案/社交媒体]项目之前我应该​​问客户的 10 个问题是什么？包括他们永远不会想到告诉我的问题，但这会让我以后不再头疼。” 范围蔓延正在发生： “帮我给一个在我们原始协议之外添加工作的客户写一条消息。我想专业地而不是激进地解决这个问题，并打开付费变更单的大门。” 当我需要提高费率时： “给长期客户写一条消息，解释我将从 [日期] 开始将费率提高 [X]%。语气：自信，不抱歉。保持简短。” 重写任何内容： “在不丢失关键点的情况下，将此段落重写为短 40%。不要添加填料。不要软化它：[粘贴]” 快速编写提案： “为[行业]的客户编写[工作类型]的项目提案。预算：[X]。时间表：[Y]。包括：范围、可交付成果、后续步骤。语气：专业但不僵硬。” 当我不知所措时： “我今天有这些任务：[列表]。优先考虑它们。告诉我可以跳过或委托哪些内容。给我一个现实的 3 小时计划表。” 将要点变成简介： “将此项目符号列表变成 [平台] 引人注目的自由职业者简介。让它听起来像是人类写的，而不是 LinkedIn 机器人：[粘贴项目符号]” 回应低价报价：“当我的费率为 [Y] 时，帮助我回应提供 [X] 的客户。我想在不破坏关系的情况下拒绝或反驳。” 项目结束后： “写一条短信，要求满意的客户提供推荐。别让事情变得尴尬。让他们轻松地用一句话说“是”。” 很高兴回答问题或在评论中分享更多内容。   由   提交 /u/Rich_Specific_7165   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s79c5f/10_prompts_i_actually_use_every_day_as_a/</guid>
+      <pubDate>Sun, 29 Mar 2026 22:39:59 GMT</pubDate>
     </item>
     <item>
-      <title>航空公司制服测试...Grok 失败</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1s72qpg/airline_livery_test_grok_failed/</link>
-      <description><![CDATA[      向 Chatgpt、gemini 和 grok 展示了一架 747 的图像，该图像具有阿联酋航空涂装，但显示为沙特航空公司。想看看他们是否会被欺骗并离开短信。格鲁的回答极其愚蠢。 Chatgpt 和 Gemini 很容易就解决了。   由   提交/u/mrgeo03  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1s72qpg/airline_livery_test_grok_failed/</guid>
-      <pubDate>Sun, 29 Mar 2026 18:23:46 GMT</pubDate>
+      <title>好吧，现在我20岁了，连偷偷溜走的小费都拿不到。 Chatgpt 得软化男人</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1s78xem/okay_so_now_me_20_years_old_cant_even_get_sneak/</link>
+      <description><![CDATA[   /u/adamisworking  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1s78xem/okay_so_now_me_20_years_old_cant_even_get_sneak/</guid>
+      <pubDate>Sun, 29 Mar 2026 22:22:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
