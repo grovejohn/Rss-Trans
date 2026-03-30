@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 30 Mar 2026 01:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 05:18:15 GMT</lastBuildDate>
+    <item>
+      <title>你对自己的气质感到自豪吗？关于氛围编码的想法并对你的工作感到自豪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s7h8pp/are_you_proud_of_your_vibe_thoughts_on_vibe/</link>
+      <description><![CDATA[       由   提交 /u/SignificanceLate4454   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s7h8pp/are_you_proud_of_your_vibe_thoughts_on_vibe/</guid>
+      <pubDate>Mon, 30 Mar 2026 04:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于网络应用程序来说，基于浏览器的视频处理与服务器端相比是一个好方法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s7g00j/for_a_web_app_is_browserbased_video_processing_a/</link>
+      <description><![CDATA[客户端（浏览器内）视频处理是将单个字幕刻录到短片（最多 20 秒）上的好方法，还是应该坚持使用服务器端？   由   提交 /u/Character-Pain2424   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s7g00j/for_a_web_app_is_browserbased_video_processing_a/</guid>
+      <pubDate>Mon, 30 Mar 2026 03:49:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>开始我的自由职业之旅，有点紧张。最需要掌握的网站是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s7feg6/starting_my_freelance_journey_and_a_bit_nervous/</link>
+      <description><![CDATA[大家好，我正在开始我的自由职业之旅，这有点令人生畏。我想掌握 2-3 种特定的网站类型，这样我就可以充满信心地快速构建它们。 我使用 React、FastApi/Django 和 SQL。你实际上被问得最多的是什么？登陆页面、电子商务还是内部工具？另外，你24小时周转的秘诀是什么？我希望能够说我明天就会完成这件事并且是认真的。谢谢！   由   提交 /u/Leading_Property2066   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s7feg6/starting_my_freelance_journey_and_a_bit_nervous/</guid>
+      <pubDate>Mon, 30 Mar 2026 03:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么你现在感觉与工作更加脱节</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s7djhf/why_you_feel_more_disconnected_from_your_work_now/</link>
+      <description><![CDATA[我不断看到有关感觉倦怠、头脑腐烂、对工作不满或幻灭（或所有这些！）的帖子。尤其是涉及每天使用人工智能的情况，我们中的许多人现在都应该这样做。 想想你上次为自己做一些东西时感到的满足感。即使像与某人分享一顿美餐这样简单。  在阅读更多内容之前先停下来，选择一种体验。 你在工作中所做的工作给你带来的满足感比这多还是少？ 使用人工智能完成工作给你带来的满足感多还是少？ 另一个人工智能创建的任务和下一个任务怎么样？ 你正在经历的事情被描述为.. 疏离理论 “它的核心是，在资本主义生产方式下，工人不可避免地与他们创造的产品、生产活动、他们的人类同胞以及他们自己的创造潜力分离。” 这个理论是在人工智能之前创建的，我认为人工智能正在为其添加另一层分离。 在我描述了你们中的许多人经常在这里描述的内容后，我有一个朋友告诉我这一点。 我故意不写作者的名字。这个，但欢迎您自行查找并阅读更多内容以获得更深入的理解。我建议您这样做，以更好地理解自己的感受，并知道自己并不孤单。   由   提交 /u/dirtyjoe32   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s7djhf/why_you_feel_more_disconnected_from_your_work_now/</guid>
+      <pubDate>Mon, 30 Mar 2026 01:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何处理没有 API / 糟糕的文档的应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s7d5sc/how_are_you_guys_dealing_with_apps_that_have_no/</link>
+      <description><![CDATA[      每次我需要与没有真正 API 的 Web 应用程序集成时，我最终都会在 DevTools 中手动跟踪网络请求、复制标头、在 Postman 中重放，然后将所有内容重写为代码。昨天花了 3 个小时进行一次集成。 有一半的时间我错过了动态身份验证标头或一些微妙的参数，它只是默默地中断了。 是否有一个实际的工作流程，或者每个人都在经历它？ 对于上下文，我的一个客户希望通过三个相互不通信的工具来自动化他们的订单管理工作流程。他们都没有 API。它们都有网络选项卡。我只是展示了producthunt 的代表性。   由   提交/u/Routine-Ad5209   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s7d5sc/how_are_you_guys_dealing_with_apps_that_have_no/</guid>
+      <pubDate>Mon, 30 Mar 2026 01:30:16 GMT</pubDate>
+    </item>
     <item>
       <title>Fish Trophy：罗马尼亚全栈钓鱼社区平台（React、Supabase、论坛、PWA）</title>
       <link>https://www.reddit.com/r/webdev/comments/1s7ct14/fish_trophy_a_fullstack_fishing_community/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[      对此相当陌生。这是我自己的在线网站。我想为每个部分添加一个类似门的结构。当您单击时，感觉就像您进入了该部分。  我该怎么做？  这叫什么？  有 YouTube 视频对此进行解释吗？  灵感-原神冲击天门。    由   提交 /u/So_your_username   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s774ny/how_to_codedesign_this_in_shopify/</guid>
       <pubDate>Sun, 29 Mar 2026 21:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源本地工具使用助手，适用于一切 X 工作 — 安全 + DX 批评（SoulGate）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s762vd/opensource_local_toolusing_assistant_for/</link>
-      <description><![CDATA[嘿 r/webdev — 我正在构建 SoulGate，一个开源的、本地优先 助手，可以从聊天中调用工具（shell 命令、文件操作、网络获取/搜索、后台任务/代理）。我对“人工智能炒作”不太感兴趣，而对工作流程+安全更感兴趣：什么权限是可以接受的，你期望什么护栏，以及哪些集成在日常中实际上有用。 Repo：https://github.com/M4MEET/soulgate 我特别喜欢来自a的批评安全/架构 + DX 角度：  信任模型： 什么会让您信任（或从不信任）本地工具运行助手？  例如，仅限白名单的命令？每个项目沙箱？审计日志？ “试运行”预览？默认情况下网络关闭？  最小可行的用户体验：您实际上会尝试什么包装？  单个静态二进制文件、Homebrew、Docker、npm、VS Code 扩展等。  什么值得自动化：哪些 Webdev 任务价值高，哪些风险/烦人？  示例：存储库设置、lint/测试循环、PR 摘要、依赖项更新、日志分类、迁移、CI 修复等。   很乐意回答任何问题。我明确地寻求尖锐的批评，尤其是“这可能会出错”和“这就是使它可用的原因”。   由   提交/u/Poorboyneedstock  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s762vd/opensource_local_toolusing_assistant_for/</guid>
-      <pubDate>Sun, 29 Mar 2026 20:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用 CSS 渲染《DOOM》的 3D 效果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s7554p/rendering_doom_in_3d_with_only_css/</link>
-      <description><![CDATA[       由   提交/u/Aulig  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s7554p/rendering_doom_in_3d_with_only_css/</guid>
-      <pubDate>Sun, 29 Mar 2026 19:54:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让网站不出现在谷歌搜索中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s74kfo/how_to_get_website_to_not_show_up_on_google_search/</link>
-      <description><![CDATA[我有一个用于学术目的的个人网站。然而，我不希望当你用谷歌搜索我的名字时出现这个网站。有什么办法让它不显示出来。    由   提交 /u/Comfortable_Lamp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s74kfo/how_to_get_website_to_not_show_up_on_google_search/</guid>
-      <pubDate>Sun, 29 Mar 2026 19:32:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>为系统设计学习者构建新时代</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s744gn/building_a_new_era_for_system_design_learners/</link>
-      <description><![CDATA[我最近一直在准备系统设计面试，有一件事情一直困扰着我，那就是一切感觉都是非结构化的。 你最终会在 YouTube 视频、博客和随机笔记之间跳转，但没有明确的方法来实际练习。 通过编码，像 LeetCode 这样的平台让它变得非常简单 - 你可以解决问题并提高。 我找不到类似的系统设计工具，所以我开始构建一个小平台来实现它：https://leetnode.space/ 我还在整理：  系统设计路线图 初学者友好的播放列表 更详细的教科书  非常感谢诚实的人反馈：  这种方法有意义吗？ 你目前用什么来准备？  不是试图出售任何东西，只是试图构建一些有用的东西。   由   提交 /u/Cultural-Jicama-789   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s744gn/building_a_new_era_for_system_design_learners/</guid>
-      <pubDate>Sun, 29 Mar 2026 19:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>输入个人网站的域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s735qu/type_domain_for_personal_website/</link>
-      <description><![CDATA[我正在创建个人作品集网站，需要决定购买哪个域名。我看到推荐使用 .dev，但我不确定它有多受欢迎。我在意大利，所以我在想 .it，但我不太确定，因为它很通用而且不是很受欢迎。你有什么建议？   由   提交 /u/Misterleo02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s735qu/type_domain_for_personal_website/</guid>
-      <pubDate>Sun, 29 Mar 2026 18:39:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
