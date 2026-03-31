@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 30 Mar 2026 21:33:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 01:10:13 GMT</lastBuildDate>
     <item>
       <title>短短 23 天销售额就达到 270,000 美元😇</title>
       <link>https://feed.indiehackers.world/post/e8736524b7</link>
@@ -27,6 +27,14 @@ Appsumo 发送 Sendpilot 提到的本周热门邮件
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/e8736524b7</guid>
       <pubDate>Mon, 30 Mar 2026 13:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Biocheck - 再也不会因为损坏的 Bio 链接而失去流量</title>
+      <link>https://feed.indiehackers.world/post/b8a87047fd</link>
+      <description><![CDATA[您的生物链接是您的第一大收入来源。 Biocheck 24/7 全天候监控每个链接，并在链接中断时向您发出警报 - 在您的观众注意到之前。免费即时扫描仪，无需登录。专为创作者打造。 🔗
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/b8a87047fd</guid>
+      <pubDate>Mon, 30 Mar 2026 06:20:50 GMT</pubDate>
     </item>
     <item>
       <title>我们正在寻求您的支持 - 早期注册请求 - 将于 2026 年 4 月 3 日启动测试版。</title>
@@ -225,28 +233,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/eaf7063b8c</guid>
       <pubDate>Wed, 25 Mar 2026 15:35:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在注册或结账中断时阻止部署</title>
-      <link>https://feed.indiehackers.world/post/0b79fe1aa1</link>
-      <description><![CDATA[这使您无需手动扫描原始日志。
-如果您精通技术并且日志干净，则可以跳过此步骤。
-第 8 步 - 在每次部署之前运行
-这是最重要的部分。
-更改流程：代码 → 部署
-至：代码 → 运行 QA → 部署
-您可以将其连接到：
-
- GitHub 操作 
-任何 CI 系统
- 您的托管构建步骤
-或者手动部署脚本
-
-在所有情况下：如果 QA 失败 → 请勿部署。
-没有例外。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/0b79fe1aa1</guid>
-      <pubDate>Wed, 25 Mar 2026 15:02:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
