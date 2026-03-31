@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 31 Mar 2026 01:08:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 05:02:48 GMT</lastBuildDate>
+    <item>
+      <title>如何使用 Claude 代码和 Clay 桌上的技能</title>
+      <link>https://www.reddit.com/r/automation/comments/1s8cts2/how_to_use_your_claude_code_with_skill_from_your/</link>
+      <description><![CDATA[       由   提交/u/AccurateSuggestion54  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s8cts2/how_to_use_your_claude_code_with_skill_from_your/</guid>
+      <pubDate>Tue, 31 Mar 2026 03:54:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>准备开始我的自动化业务 - 替代就业问题</title>
+      <link>https://www.reddit.com/r/automation/comments/1s89dom/ready_to_start_my_automation_business_alternative/</link>
+      <description><![CDATA[Hola， 所以我目前在一家我非常喜欢的 IT 公司工作。这是一个小团队，与我一起工作的人绝对很棒，但我感觉我可以将我的自动化爱好进一步发展，而不仅仅是一种爱好。我很想看看我是否可以将其真正转变为一项业务（不是快速赚钱，而是需要长期积累），并且有可能成为一份最终可以取代我朝九晚五的全职工作。 我的问题是我现在的雇主不允许任何形式的第二份工作，所以这是全有或全无的情况。我有一个家庭，不想为了这可能会变成现实的渺茫希望而放弃确定的就业/福利。有没有人遇到类似的问题可以提供一些提示或指导？   由   提交/u/Medium-Dimension-428  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s89dom/ready_to_start_my_automation_business_alternative/</guid>
+      <pubDate>Tue, 31 Mar 2026 01:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>为 X 和 LinkedIn 等社交媒体平台建立自动化堆栈是否值得？</title>
       <link>https://www.reddit.com/r/automation/comments/1s853q2/is_it_worth_it_setting_up_an_automation_stack_for/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[我们一直跳过社交媒体，因为没有人有时间持续编写、设计和发布帖子。 因此，我组建了一个小型系统来实现自动化，但我不确定这是否是长期的最佳方法。 它目前的作用： • 从我们的生产数据库中提取真实数据（新用户、趋势搜索、热门项目） • 使用Claude (Haiku) 根据该数据每周生成 5 篇帖子 • 通过 HTML + Playwright 渲染简单的品牌图像 • 使用 Meta Graph API 发布到 Facebook + Instagram  每周运行一次（cron 作业），一切都是完全自动化的。 堆栈： • Python 脚本 • SSH 到 VPS (SQLite) • Anthropic API（成本非常低） • Playwright → PNG 图像• Caddy 提供图像（用于 IG 公共 URL） 帖子类型轮换（统计、比较、“现实生活”帖子等） 它有效且基本上不需要任何成本（~0.01 美元/月），但我想知道： • 直接从生产数据库中提取是一个坏主意吗？ • 您是否会采用不同的结构（队列、管道等）？ • 有更好的方法来生成/验证内容质量吗？ • 是否有更智能的方法来处理图像生成？  很想听听其他人如何解决这个问题或者您需要改进什么。   由   提交 /u/ShiftGood3066   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s84akk/automated_our_social_media_posting_using/</guid>
       <pubDate>Mon, 30 Mar 2026 21:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>MÅÇHÍÑĘ 脑子里在想什么</title>
-      <link>https://www.reddit.com/r/automation/comments/1s832u9/whats_up_måçhíñę_minds/</link>
-      <description><![CDATA[ 由   提交/u/Div9neFemiNINE9  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s832u9/whats_up_måçhíñę_minds/</guid>
-      <pubDate>Mon, 30 Mar 2026 20:56:40 GMT</pubDate>
     </item>
     <item>
       <title>您实际使用哪些工具进行质量检查？</title>
@@ -60,13 +67,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s7ulzq/2_years_of_linkedin_outreach_and_my_experience/</guid>
       <pubDate>Mon, 30 Mar 2026 15:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>S7-1516 (FW v3.0) 和 MTP 700 统一舒适面板之间无法通信？</title>
-      <link>https://www.reddit.com/r/automation/comments/1s7u6tn/no_communication_between_s71516_fw_v30_and_mtp/</link>
-      <description><![CDATA[ 由   提交 /u/ProTalk_nFun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s7u6tn/no_communication_between_s71516_fw_v30_and_mtp/</guid>
-      <pubDate>Mon, 30 Mar 2026 15:43:02 GMT</pubDate>
     </item>
     <item>
       <title>您如何处理速率限制</title>
