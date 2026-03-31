@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 31 Mar 2026 09:52:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 12:44:40 GMT</lastBuildDate>
+    <item>
+      <title>我有一个想法，会喜欢你的想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8lt7a/i_had_an_idea_would_love_your_thoughts/</link>
+      <description><![CDATA[在预训练期间训练 AI 时，如果我们做出“未对准的行为”，会发生什么情况？然后我们只需减少大约 5% 或大约 10% 的权重来重置，我们通知人工智能这一点，我们要求大约 20 名顶级人类专家同时与机器人聊天以发现失调行为，也许另一组人类专家用另一种方式找到失调行为，他们定期这样做。这是否可以阻止不一致的行为。 想一想   由   提交 /u/Intrepid-Dress-2417   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8lt7a/i_had_an_idea_would_love_your_thoughts/</guid>
+      <pubDate>Tue, 31 Mar 2026 12:18:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国人工智能芯片初创公司 Rebellions 在最新一轮融资中筹集了 4 亿美元</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8jcv4/south_koreas_ai_chip_startup_rebellions_raises/</link>
+      <description><![CDATA[&quot;韩国 Rebellions 周一表示，在最新一轮融资中筹集了 4 亿美元，随着该人工智能芯片初创公司加速向美国扩张，其估值约为 23.4 亿美元 Rebellions 表示，本轮融资由 Mirae Asset Financial Group 和韩国国家增长基金领投，继 9 月份和 2019 年 2 月进行了 2.5 亿美元的 C 轮融资后，使其筹集的总资本达到 8.5 亿美元。”   https://www.reuters.com/business/media-telecom/south-koreas-ai-chip-startup-rebellions-raises-400-million-latest-funding-round-2026-03-30/   由   提交 /u/talkingatoms   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8jcv4/south_koreas_ai_chip_startup_rebellions_raises/</guid>
+      <pubDate>Tue, 31 Mar 2026 10:12:59 GMT</pubDate>
+    </item>
     <item>
       <title>为什么你的人工智能代理可能是你最糟糕的投资</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8iyoz/why_your_ai_agent_might_be_your_worst_investment/</link>
@@ -48,13 +62,6 @@
       <pubDate>Tue, 31 Mar 2026 07:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>深度优先剪枝传输：GPT-2 → TinyLlama 具有稳定的增益和最小的损失</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8ethd/depthfirst_pruning_transfers_gpt2_tinyllama_with/</link>
-      <description><![CDATA[TL;DR: 删除正确的层（而不是缩小所有层）使变压器模型小约 8–12%，质量损失仅约 6–8%，而且现在可以跨架构（GPT-2 + TinyLlama）工作，方差接近于零。 我一直在进行实验使用深度优先剪枝 - 根据敏感性删除整个层，而不是缩小模型宽度。 从 GPT-2 开始...刚刚在 TinyLlama 1.1B 上进行了完整的 3 种子复制验证。 结果 (TinyLlama 1.1B) 深度优先剪枝（3 种子）配置层缩减测试 PPL 比率 ------------------------- ---------- ---------- -------------- ------ 基线 (22L) 22 0% 9.19 1.000 20L（删除 L4 + L11） 20 8.0% 9.72 ± 0.01 1.057 19L（分阶段剪枝） 19 12.0% 9.94 ± 0.01 1.081  有趣之处  极其稳定 → 种子之间的 PPL ±0.01 在GPT-2 和 Llama 家族模型之间转移 在减小尺寸的同时将质量保持在 ~6–8% 范围内 产生真实的结果推理加速，而不仅仅是参数节省  关键洞察 并非所有转换器层都同等重要。 删除最不重要的层：  保留有用的结构 避免降低所有层的性能 击败均匀宽度修剪  外卖 结构&gt;统一缩放 而不是：“让每一层更小” 做：“删除最不重要的层” 注释  不是一个新架构 不声称 SOTA 只是一个干净、可重复的效率方法  更大图片 这是我正在探索的更广泛方向的一部分：  种子→架构发现（找到有效的模型） Magnus→内存优先推理系统  目标：更小的结构化系统而不是更大的模型 好奇人们的想法，特别是如果你尝试过类似的修剪方法并且你的模型结果。   由   提交 /u/califalcon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8ethd/depthfirst_pruning_transfers_gpt2_tinyllama_with/</guid>
-      <pubDate>Tue, 31 Mar 2026 05:39:31 GMT</pubDate>
-    </item>
-    <item>
       <title>我编写了一项 Claude 技能，该技能仅完全自主地自动应用于相关的 LinkedIn Easy-Apply 职位</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8dmr6/i_wrote_a_claude_skill_that_autoapplies_to_only/</link>
       <description><![CDATA[ 由   提交/u/toadlyBroodle  [链接] [评论]]]></description>
@@ -62,16 +69,9 @@
       <pubDate>Tue, 31 Mar 2026 04:36:03 GMT</pubDate>
     </item>
     <item>
-      <title>“你无法击败机器人！”：棒球的人工智能打击区是必看电视</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s81yqi/you_cant_defeat_the_robots_baseballs_ai_strike/</link>
-      <description><![CDATA[ 由   提交/u/404mediaco  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s81yqi/you_cant_defeat_the_robots_baseballs_ai_strike/</guid>
-      <pubDate>Mon, 30 Mar 2026 20:15:40 GMT</pubDate>
-    </item>
-    <item>
       <title>热门观点：法学硕士的远见能力为零。其他一切都是炒作。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s802ji/hot_take_llms_have_zero_foresight_ability/</link>
-      <description><![CDATA[我不断看到人们声称“法学硕士可以像人类一样推理”，但每次我看到这些模型在企业等真实场景中进行测试时，它们总是会崩溃。  他们可以假装像我们一样推理，但要实现人类智能还有很长的路要走。  在任何需要满足以下要求的复杂环境中，法学硕士始终会产生无效的行动，忘记约束，无法理解其行动的因果关系：  长期思考和主动性 避免级联故障 不确定性下的规划 安全约束 2D和空间推理3D 环境    由   提交 /u/imposterpro   [链接] [评论]]]></description>
+      <description><![CDATA[我不断看到人们声称“法学硕士可以像人类一样推理”，但每次我看到这些模型在企业等真实场景中进行测试时，它们总是会崩溃。  他们可以假装像我们一样推理，但要实现人类智能还有很长的路要走。  在任何需要满足以下要求的复杂环境中，法学硕士始终会产生无效的行动，忘记约束，无法理解其行动的因果关系：  长期思考和主动性 避免级联故障 不确定性下的规划 安全约束 二维和空间推理3D 环境    由   提交 /u/imposterpro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s802ji/hot_take_llms_have_zero_foresight_ability/</guid>
       <pubDate>Mon, 30 Mar 2026 19:07:59 GMT</pubDate>
     </item>
