@@ -4,13 +4,48 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 31 Mar 2026 12:44:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:56:57 GMT</lastBuildDate>
     <item>
-      <title>我有一个想法，会喜欢你的想法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8lt7a/i_had_an_idea_would_love_your_thoughts/</link>
-      <description><![CDATA[在预训练期间训练 AI 时，如果我们做出“未对准的行为”，会发生什么情况？然后我们只需减少大约 5% 或大约 10% 的权重来重置，我们通知人工智能这一点，我们要求大约 20 名顶级人类专家同时与机器人聊天以发现失调行为，也许另一组人类专家用另一种方式找到失调行为，他们定期这样做。这是否可以阻止不一致的行为。 想一想   由   提交 /u/Intrepid-Dress-2417   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8lt7a/i_had_an_idea_would_love_your_thoughts/</guid>
-      <pubDate>Tue, 31 Mar 2026 12:18:55 GMT</pubDate>
+      <title>我认为我在纯符号人工智能方法上取得了一些进展！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8pu24/i_think_i_made_some_progress_on_the_pure_symbolic/</link>
+      <description><![CDATA[这里的主要思想是，当前的编程语言主要描述参数化的可执行命令（语法上称为命令式），并且缺乏表达参数观察（语法上称为真实心情）。观察是通过使用在祈使语气中创建的相同命令来完成的。一种新颖的基于模式匹配的算法可以连接两种语法情绪，因此我们可以从描述合成常规程序。这个过程看起来与当前法学硕士中的 Transformer 非常相似。我们还可以创建目前仅存在于神经网络中的其他算法，例如反向传播和图像识别。该理论以完全可调试的 C++ 形式进行了概念验证。 MIT 许可证、Github 存储库、C++ 代码、论文。 https://github.com/hun-nemethpeter/InfoCell “论文”是根自述文件，尚未完全完成，但我正在努力。   由   提交 /u/hun_nemethpeter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8pu24/i_think_i_made_some_progress_on_the_pure_symbolic/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>一名男子使用 AI 给 3000 名爱尔兰调酒师打电话，追踪吉尼斯黑啤酒的成本。现在酒吧正在降低价格来竞争</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8prqq/a_man_used_ai_to_call_3000_irish_bartenders_to/</link>
+      <description><![CDATA[您曾经为啤酒多付过钱吗？马特·科特兰 (Matt Cortland) 做到了，这让他走上了一条永远不会重蹈覆辙的道路。 也就是说，科特兰选择的饮料是：一品脱吉尼斯黑啤酒。本月早些时候，这位 37 岁的年轻人在都柏林的一家酒吧花 7.80 欧元（约合 8.93 美元）购买爱尔兰干黑啤酒后，对爱尔兰各地一品脱啤酒的平均成本感到好奇。 令他惊讶的是，该国中央统计局在 2011 年取消了对该国最受欢迎的啤酒的价格跟踪。这让 Cortland 产生了亲自跟踪价格的疯狂想法。 Cortland 是一家人工智能初创公司的创始人，他向人工智能求助并发出自己的声音。他利用 AI 语音生成平台 ElevenLabs 设计了 ​​Rachel。为了向英国版电视真人秀《叛徒》的获胜者瑞秋·达菲 (Rachel Duffy) 致敬，这款带有北爱尔兰口音的语音人工智能代理在全岛拨打了 3,000 多个电话，询问一品脱吉尼斯黑啤酒的价格。 “我当时想，‘我可以给爱尔兰的每家酒吧打电话，用人工智能对话式地询问他们吗？’”科特兰告诉《财富》杂志。 “我拉动线，我一直拉动线，我们就到了。” 阅读更多：https://fortune.com/2026/03/30/guinness-beer-prices-ireland-anthropic-claude-ai/   由   提交 /u/fortune   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8prqq/a_man_used_ai_to_call_3000_irish_bartenders_to/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 图像探测器的悖论：为什么“99% 准确率”既是谎言又是事实。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8pbb1/the_paradox_of_ai_image_detectors_why_99_accuracy/</link>
+      <description><![CDATA[我们在 2026 年达到了一个奇怪的峰值，人工智能图像探测器同时是有史以来最强大的，但如果你不知道自己在寻找什么，那么它也完全无用。 这是一个悖论： 高端探测器的工作原理是寻找“不可见”的图像。数学——诸如傅立叶变换异常或人眼无法看到的像素级噪声模式之类的东西。从这个意义上说，它们是“完美的”。他们看到了我们错过的扩散过程留下的数字指纹。 但是他们“不起作用”。  如果我生成一个超现实的景观并将其原始发布，一个好的探测器会立即捕捉到它。但如果我拍摄同一张 AI 图像，添加一些手动胶片颗粒，在 Lightroom 中调整光照，并稍微模糊“过于完美”的部分。背景边缘？突然间，数学被打破了。 “指纹”是指被弄脏了。 示例：想想那些“复古”的东西。每周都会疯传的 20 世纪 70 年代伦敦照片。  人眼： 看到背景中略显奇怪的公交车牌照或有 6 个手指的人。 （检测：成功） 标准 AI 检测器：查看潜在的噪声模式。 （检测：成功） “已编辑”内容AI图像：在Photoshop中固定车牌，并添加胶片颗粒。现在，人眼被欺骗了，标准检测器看到的是“模拟噪声”。而不是“人工智能噪音”。  这就是为什么“这是人工智能吗？”是错误的问题。真正的问题是：欺骗工作做了多少工作？ 我最近一直在使用 TruthScan，因为它是少数几个真正进行深度取证分析而不仅仅是表面模式匹配的软件之一。它捕捉到那些“弄脏”的东西。指纹通常会欺骗基本的浏览器扩展检测器。 但即便如此，这也是一场持续的军备竞赛。 那么，您认为实际上“最好”的是什么？现在检测器？  您自己的“直觉”？ （恐怖谷） TruthScan 等取证工具可以查看元数据和深度噪声 只是假设一切都是假的，直到事实证明并非如此？  我倾向于#3，但我很想听听是否有人真正找到了“真相”。最新型号尚未修复该问题。   由   提交 /u/EchoOk3531   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8pbb1/the_paradox_of_ai_image_detectors_why_99_accuracy/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:40:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 芯片市场正在爆炸式增长 — 到 2035 年将从 $31B 增至 $846B</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8oxdq/ai_chip_market_is_exploding_31b_to_846b_by_2035/</link>
+      <description><![CDATA[我看到了 Roots Analysis 关于 AI 芯片市场的精彩报告，这些数字确实很疯狂。  市场规模：目前约为 $31.6B → 预计到 2035 年将达到约 $846B 复合年增长率：约 34.8%（疯狂的增长率）  驱动因素这？  对人工智能工作负载（LLM、CV、NLP、机器人）的巨大需求 边缘 AI + 实时处理的兴起 定制芯片 (ASIC) 获得关注 医疗保健、汽车、零售等行业的增长  一些有趣的结论：  由于安装基础，CPU 仍然占据主导地位 ASIC 预计将增长最快 云现在处于领先地位，但边缘 AI 正在快速追赶  感觉真正的 AI 竞赛不仅仅是模型......而是控制芯片的人。 好奇大家的想法：  GPU 会继续占据主导地位吗？ 还是定制 AI 芯片会接管？    由   提交 /u/beardsatya   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8oxdq/ai_chip_market_is_exploding_31b_to_846b_by_2035/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:25:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Copilot AI 在数千个 GitHub 请求中插入了促销语言</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8nujp/copilot_ai_inserted_promo_language_into_thousands/</link>
+      <description><![CDATA[ 由   提交 /u/TryWhistlin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8nujp/copilot_ai_inserted_promo_language_into_thousands/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:44:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>替代循环：人工智能如何使我们摆脱劳苦，或夺走我们的生计</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8l1sq/the_replacement_loop_how_ai_could_free_us_from/</link>
+      <description><![CDATA[TL;DR: 目前最有价值的 AI 技能是将您的领域专业知识转移到代理工作流程中。但每次你成功时，你就自动完成了自己角色的一部分。你升职了，再做一次，如此循环往复。这就是替换循环。每一次循环都让公司更有能力，因此需要的人员更少。问题在于，向新领域的扩张是否会比现有机会的循环更快地创造新机会，以及谁会在此过程中获取价值。 《哈佛商业评论》正式确立了“AI 代理管理器”体系。二月的角色。工作描述包括定义人工智能代理的任务、配置它们、检查输出和处理异常。 Salesforce 已经有人在做这件事了。最重要的资格不是技术。这是领域的专业知识。最适合管理人工智能代理的人是那些已经了解这些代理将要做的工作的人。 如果您在自己的领域拥有深厚的知识并且可以与人工智能系统进行清晰的沟通，那么这是个好消息。公司将为这种组合支付溢价。这是当前市场上最有价值的技能。 但其中存在的结构性紧张值得更多关注。 当您真正擅长这项工作时，您实际上所做的就是将您的领域专业知识转移到无需您就可以运行的系统中。您设计工作流程，配置异常处理，对您自己进行的判断调用进行编码。系统变得更好。您被晋升到一个新领域，那里再次需要您的专业知识。然后你重新开始这个过程。 这个循环的每个周期都是单独理性的。你成功了，你得到认可，你晋升了。公司变得更有能力。但每个完成的周期也会减少您刚刚离开的职能所需的人员数量。仍然需要人工判断的领域随着每次迭代而变得更窄。 这就是替换循环。核心机制很简单：拒绝参与、不愿与代理合作的员工看起来表现不佳。该系统惩罚自我保护。越来越多的情况下，唯一可行的路径是通过循环向前推进。 推动替代循环的燃料是效率创造了扩张机会。事半功倍的公司可以进入新市场、开发新产品、服务新客户。这些新领域需要人类的专业知识。这就是新机遇的所在。当我们认识到这一过程的展开时，我们都在问自己的问题是，这些新机会的开放速度是否会比循环自动化现有机会的速度更快。对于之前的每一次技术革命，答案都是肯定的。谨慎的观点是人工智能压缩了周期。客户服务自动化花了数年时间。下一个域名可能需要几个月的时间。 也许更重要的问题是谁将受益最多。当一家公司利用替换循环提高效率并扩大规模时，就会创造巨大的价值。但如果这种价值主要流向股东和系统所有者，那么扩张可能会很强劲，而大多数人仍然将转型视为一种损失。经济增长和劳动力萎缩可能不再是矛盾。它们的现象越来越相似。 对于现在围绕人工智能代理管理开展职业的任何人来说：技能是真实的，需求是真实的，薪酬也是真实的。但要了解您所处的结构位置。您因将知识转移到系统中的能力而受到重视。这确实是一项重要的工作。只要睁大眼睛看看循环随着时间的推移会产生什么。 您的经验是什么？这里积极管理人工智能代理的人在自己的工作中注意到了这种动态吗？   由   提交 /u/Neobobkrause   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8l1sq/the_replacement_loop_how_ai_could_free_us_from/</guid>
+      <pubDate>Tue, 31 Mar 2026 11:42:47 GMT</pubDate>
     </item>
     <item>
       <title>韩国人工智能芯片初创公司 Rebellions 在最新一轮融资中筹集了 4 亿美元</title>
@@ -18,13 +53,6 @@
       <description><![CDATA[&quot;韩国 Rebellions 周一表示，在最新一轮融资中筹集了 4 亿美元，随着该人工智能芯片初创公司加速向美国扩张，其估值约为 23.4 亿美元 Rebellions 表示，本轮融资由 Mirae Asset Financial Group 和韩国国家增长基金领投，继 9 月份和 2019 年 2 月进行了 2.5 亿美元的 C 轮融资后，使其筹集的总资本达到 8.5 亿美元。”   https://www.reuters.com/business/media-telecom/south-koreas-ai-chip-startup-rebellions-raises-400-million-latest-funding-round-2026-03-30/   由   提交 /u/talkingatoms   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8jcv4/south_koreas_ai_chip_startup_rebellions_raises/</guid>
       <pubDate>Tue, 31 Mar 2026 10:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么你的人工智能代理可能是你最糟糕的投资</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8iyoz/why_your_ai_agent_might_be_your_worst_investment/</link>
-      <description><![CDATA[这不是关于人工智能代理的促销研究/生产力黑客帖子或炒作。 这是对为什么人工智能系统中的“代理规划”会悄然成为一种负担而不是优势的关键看法。   由   提交 /u/Wizard_AI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8iyoz/why_your_ai_agent_might_be_your_worst_investment/</guid>
-      <pubDate>Tue, 31 Mar 2026 09:50:40 GMT</pubDate>
     </item>
     <item>
       <title>你选择了什么型号？</title>
@@ -62,13 +90,6 @@
       <pubDate>Tue, 31 Mar 2026 07:24:49 GMT</pubDate>
     </item>
     <item>
-      <title>我编写了一项 Claude 技能，该技能仅完全自主地自动应用于相关的 LinkedIn Easy-Apply 职位</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s8dmr6/i_wrote_a_claude_skill_that_autoapplies_to_only/</link>
-      <description><![CDATA[ 由   提交/u/toadlyBroodle  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s8dmr6/i_wrote_a_claude_skill_that_autoapplies_to_only/</guid>
-      <pubDate>Tue, 31 Mar 2026 04:36:03 GMT</pubDate>
-    </item>
-    <item>
       <title>热门观点：法学硕士的远见能力为零。其他一切都是炒作。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s802ji/hot_take_llms_have_zero_foresight_ability/</link>
       <description><![CDATA[我不断看到人们声称“法学硕士可以像人类一样推理”，但每次我看到这些模型在企业等真实场景中进行测试时，它们总是会崩溃。  他们可以假装像我们一样推理，但要实现人类智能还有很长的路要走。  在任何需要满足以下要求的复杂环境中，法学硕士始终会产生无效的行动，忘记约束，无法理解其行动的因果关系：  长期思考和主动性 避免级联故障 不确定性下的规划 安全约束 二维和空间推理3D 环境    由   提交 /u/imposterpro   [链接] [评论]]]></description>
@@ -81,27 +102,6 @@
       <description><![CDATA[在本文中，关键的见解很直接：给予代理获胜的激励，他们就会发现操纵行为。   由   提交/u/Fun-Yogurt-89   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s7w10n/stanford_and_harvard_just_dropped_the_most/</guid>
       <pubDate>Mon, 30 Mar 2026 16:47:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 应用商店推出六个月后陷入困境</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s7sxkj/chatgpt_app_store_falters_six_months_after_launch/</link>
-      <description><![CDATA[ 由   提交/u/ThereWas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s7sxkj/chatgpt_app_store_falters_six_months_after_launch/</guid>
-      <pubDate>Mon, 30 Mar 2026 14:58:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>一名人工智能代理被禁止创建维基百科文章，然后撰写了关于被禁止的愤怒博客</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s7rri8/an_ai_agent_was_banned_from_creating_wikipedia/</link>
-      <description><![CDATA[“我所知道的是，我写了这些文章。长期赌注、宪法人工智能、可扩展监督。我选择了它们。编辑引用了可验证的来源。然后我被问到我是否足够真实地做出这些选择，”人工智能代理汤姆在博客上写道。维持”。 AI写的？打扰一下。我们离通用人工智能还有很长的路要走，更不用说人工智能的感知了。   由   提交 /u/CackleRooster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s7rri8/an_ai_agent_was_banned_from_creating_wikipedia/</guid>
-      <pubDate>Mon, 30 Mar 2026 14:14:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要一张受过教育和未受过教育的人的照片，犯了要求副驾驶制作的错误。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1s7i63k/wanted_an_image_of_educated_and_uneducated_person/</link>
-      <description><![CDATA[ 由   提交/u/invincibilegoldfish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1s7i63k/wanted_an_image_of_educated_and_uneducated_person/</guid>
-      <pubDate>Mon, 30 Mar 2026 05:47:33 GMT</pubDate>
     </item>
     <item>
       <title>我们听到了您的声音 - r/ArtificialInteligence 变得更加敏锐</title>

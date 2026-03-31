@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 31 Mar 2026 12:46:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 15:58:30 GMT</lastBuildDate>
+    <item>
+      <title>您安装的每个软件包都可以读取您的秘密</title>
+      <link>https://www.reddit.com/r/programming/comments/1s8rdlw/every_package_you_install_can_read_your_secrets/</link>
+      <description><![CDATA[ 由   提交 /u/Missics   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s8rdlw/every_package_you_install_can_read_your_secrets/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:54:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何界定过度设计和预期变化之间的界限？</title>
+      <link>https://www.reddit.com/r/programming/comments/1s8r9nh/where_do_you_draw_the_line_between/</link>
+      <description><![CDATA[ 由   提交/u/iamgioh  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s8r9nh/where_do_you_draw_the_line_between/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:50:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>pg_textsearch 1.0：我们如何在 Postgres 页面上构建 BM25 搜索引擎</title>
+      <link>https://www.reddit.com/r/programming/comments/1s8r2ul/pg_textsearch_10_how_we_built_a_bm25_search/</link>
+      <description><![CDATA[ 由   提交/u/jascha_eng  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s8r2ul/pg_textsearch_10_how_we_built_a_bm25_search/</guid>
+      <pubDate>Tue, 31 Mar 2026 15:43:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>大多数开发人员都错误地进行了集成测试</title>
+      <link>https://www.reddit.com/r/programming/comments/1s8oksf/most_developers_are_doing_integration_testing/</link>
+      <description><![CDATA[集成测试似乎因两个原因而受到不好的评价。真正的错误在渗入生产之前。集成测试使用许多独立的函数，这些函数运行良好，但一起使用时可能会产生不同的结果（至少我是这么认为的）。有时，在完成大量测试（使用模拟功能）后，您对测试（所有测试）感觉良好，并且您将自己置于危险之中（不是一项巨大的投资），而团队的其他成员希望您能够这样做 换句话说。但是，您必须知道您的集成测试是否正常运行，然后才能对您的断言充满信心。 我的想法： 如果您的集成测试没有正确执行，那么它们就没有执行其创建的目的。 在您看来，从功能的角度来看，您认为集成测试会增加价值，还是它们的存在只是为了填补持续集成 (CI) 管道中的空白？   由   提交/u/Global-Development56  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s8oksf/most_developers_are_doing_integration_testing/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:12:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要信任，要验证（curl，Daniel Stenberg）</title>
+      <link>https://www.reddit.com/r/programming/comments/1s8o99r/dont_trust_verify_curl_daniel_stenberg/</link>
+      <description><![CDATA[ 由   提交/u/Skaarj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s8o99r/dont_trust_verify_curl_daniel_stenberg/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rest API 中的幂等性设计安全且可预测的 Web 服务</title>
+      <link>https://www.reddit.com/r/programming/comments/1s8nwcc/idempotency_in_rest_apis_designing_safe_and/</link>
+      <description><![CDATA[ 由   提交/u/seogig   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s8nwcc/idempotency_in_rest_apis_designing_safe_and/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:46:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>域分离属于您的 IDL</title>
+      <link>https://www.reddit.com/r/programming/comments/1s8ndig/domain_separation_belongs_in_your_idl/</link>
+      <description><![CDATA[即使在 2026 年，我也不认为我们会以正确的方式对数据结构进行序列化和签名。我不认为 protobuf 是答案。更好的解决方案是随机域分隔符，直接在 IDL 中指定。   由   提交/u/maxtaco  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1s8ndig/domain_separation_belongs_in_your_idl/</guid>
+      <pubDate>Tue, 31 Mar 2026 13:25:33 GMT</pubDate>
+    </item>
     <item>
       <title>在 SQL 面试中取得好成绩，第 2 部分：像专业人士一样进行查询</title>
       <link>https://www.reddit.com/r/programming/comments/1s8mc98/ace_your_sql_interview_part_2_querying_like_a_pro/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[ 由   提交/u/ricekrispysawdust  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1s8i9sp/prediction_the_shopify_ceos_pull_request_will/</guid>
       <pubDate>Tue, 31 Mar 2026 09:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年 2 月：3800 美元的 Claude API 法案和叉子炸弹</title>
-      <link>https://www.reddit.com/r/programming/comments/1s8hcly/february_2026_3800_claude_api_bill_and_a_fork_bomb/</link>
-      <description><![CDATA[ 由   提交/u/droppedasbaby  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s8hcly/february_2026_3800_claude_api_bill_and_a_fork_bomb/</guid>
-      <pubDate>Tue, 31 Mar 2026 08:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么供应链攻击几乎每天都会发生？</title>
-      <link>https://www.reddit.com/r/programming/comments/1s8dk9q/why_have_supply_chain_attacks_become_a_near_daily/</link>
-      <description><![CDATA[ 由   提交 /u/Successful_Bowl2564   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s8dk9q/why_have_supply_chain_attacks_become_a_near_daily/</guid>
-      <pubDate>Tue, 31 Mar 2026 04:32:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>npm 上的 axios 1.14.1 和 0.30.4 受到损害 - 通过被盗的维护者帐户进行依赖注入</title>
-      <link>https://www.reddit.com/r/programming/comments/1s8ct9i/axios_1141_and_0304_on_npm_are_compromised/</link>
-      <description><![CDATA[今天通过一个似乎受到威胁的维护者帐户发布了两个版本的 axios。这两个版本都不存在 GitHub 标签。 1.14.0 中的 SLSA 出处证明完全不存在。发布商电子邮件从 CI 链接地址切换到 Proton Mail 帐户（经典帐户接管信号）。     由   提交/u/BattleRemote3157  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s8ct9i/axios_1141_and_0304_on_npm_are_compromised/</guid>
-      <pubDate>Tue, 31 Mar 2026 03:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件实际上是如何运作的</title>
-      <link>https://www.reddit.com/r/programming/comments/1s8a582/how_email_actually_works/</link>
-      <description><![CDATA[ 由   提交/u/Sushant098123  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s8a582/how_email_actually_works/</guid>
-      <pubDate>Tue, 31 Mar 2026 01:50:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>元回购模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1s88ulq/the_metarepo_pattern/</link>
-      <description><![CDATA[ 由   提交/u/dev_newsletter  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s88ulq/the_metarepo_pattern/</guid>
-      <pubDate>Tue, 31 Mar 2026 00:52:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rust 的下一代特征求解器</title>
-      <link>https://www.reddit.com/r/programming/comments/1s85rj0/rusts_nextgeneration_trait_solver/</link>
-      <description><![CDATA[ 由   提交/u/ketralnis  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s85rj0/rusts_nextgeneration_trait_solver/</guid>
-      <pubDate>Mon, 30 Mar 2026 22:40:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>实验性代理编排引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1s7z8f5/experimental_agent_orchestration_engine/</link>
-      <description><![CDATA[ 由   提交/u/serefayar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s7z8f5/experimental_agent_orchestration_engine/</guid>
-      <pubDate>Mon, 30 Mar 2026 18:38:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
