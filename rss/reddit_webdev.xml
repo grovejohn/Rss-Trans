@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Apr 2026 01:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 05:18:16 GMT</lastBuildDate>
+    <item>
+      <title>设计师们用大写字母输入所有内容，而不是对其进行造型！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s9aimd/designers_who_type_everything_in_caps_instead_of/</link>
+      <description><![CDATA[       https://preview.redd.it/7pcdczp8bisg1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=8df6d69653606b8dfe09a50600efa6e41745f38f 2026 年，当从设计或设计系统中获取文本时仍然很生气，这些文本的样式全部大写，实际上是全部大写。  即使像 Figma 这样的应用程序鼓励设计师使用其工具做正确的事情，他们仍然会想方设法偷懒。 （我也进行设计，并且总是尝试以正确的方式去做，变量、组件、模块......）   由   提交 /u/Ok-Stuff-8803   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s9aimd/designers_who_type_everything_in_caps_instead_of/</guid>
+      <pubDate>Wed, 01 Apr 2026 04:32:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个简单的 Instagram Story Viewer 工具来寻找反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s9agxh/i_built_a_simple_instagram_story_viewer_tool/</link>
+      <description><![CDATA[大家好， 我制作了一个简单的 Instagram Story Viewer，因为我尝试的大多数工具都很慢或无法正常工作。这个快速、简单，并且不需要登录。 您可以在这里尝试：https://insta-story.yoyomedia.co/ 仍在改进，所以我非常感谢您的想法🙌我应该添加或修复什么？ 请反馈！   由   提交 /u/Terrible-Repair-9421   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s9agxh/i_built_a_simple_instagram_story_viewer_tool/</guid>
+      <pubDate>Wed, 01 Apr 2026 04:29:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有其他 Web 开发人员申请数据分析师职位吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s9afn1/any_other_web_devs_applying_for_data_analyst/</link>
+      <description><![CDATA[我是一名 18 岁以上的软件开发人员，主要从事 .Net/SQL 领域的开发。由于健康原因，在休假几年后，我一直在努力重返比赛。和其他许多人一样，我一直没有受到关注，但我确信我的简历中的差距在一定程度上是一个很好的原因。  我很擅长我的工作，但我参加的面试很少，而且说实话，最近才面试过。 我已经通过了数据分析师职位的第一轮面试，并被要求在第二轮进行技术面试，这确实让我感到惊讶。 我知道我可以胜任这个职位，而且两年来我第一次感到兴奋。  还有其他人经历过这个并有任何富有成效的建议吗？   由   提交 /u/ProfDrd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s9afn1/any_other_web_devs_applying_for_data_analyst/</guid>
+      <pubDate>Wed, 01 Apr 2026 04:28:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想我们有麻烦了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s9948i/i_think_were_in_trouble/</link>
+      <description><![CDATA[上周我不得不手动检查我的系统是否有 2 个不同的易受攻击的软件包。是否有人适应了完全隔离地构建/测试新的 poc？我觉得上个月当地的发展变得更加危险。    由   提交 /u/CoastRedwood   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s9948i/i_think_were_in_trouble/</guid>
+      <pubDate>Wed, 01 Apr 2026 03:23:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>不受欢迎的观点：NPM是当今互联网最大的弱点，它仍然会造成巨大的灾难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1s96b4a/unpopular_opinion_npm_is_the_biggest_weakness_of/</link>
+      <description><![CDATA[人们添加到他们正在创建的依赖项中的依赖项数量大得离谱。在 NPM 之前，我们将添加依赖项视为选择性的事情，我们研究并非常仔细地选择的事情。现在，通过 NPM，我安装了一个流行的库，它附带了 300 个其他不需要的依赖项，其中一些依赖项甚至对于我正在下载的工具似乎没有任何意义。 问题是，大多数这些子依赖项没有接近可接受的维护制度，许多开源依赖项甚至没有足够的代码审查策略。对于某人来说，只需寻找一个广泛使用的库，翻查其依赖项，然后恶意“贡献”即可。加入该项目以间接影响其他库，这并不是那么困难。过去有过这样的案例，将来肯定还会有这样的案例，如果此时此刻还没有一些漏洞被悄悄利用的话。 现在随着人工智能和 PR 水平的疯狂增长，到了人工智能自己进行审核的地步，这只是时间问题。 NPM 需要尽快解决这个问题。   由   提交 /u/OkPosition6537   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1s96b4a/unpopular_opinion_npm_is_the_biggest_weakness_of/</guid>
+      <pubDate>Wed, 01 Apr 2026 01:18:21 GMT</pubDate>
+    </item>
     <item>
       <title>构建了一个工具，可以在网站中查找 UX/UI 问题并寻求反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/1s95zh7/built_a_tool_that_finds_ux_ui_issues_in_websites/</link>
-      <description><![CDATA[我一直在构建 MyDesignAudit，这是一个扫描网站并突出显示可能会影响转化的用户体验问题的工具。 在看到许多美观的网站因小的可用性问题而陷入困境后，开始了这个工作。 还为时过早，希望得到设计师的反馈   由   提交 /u/No_One008   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在构建 MyDesignAudit，这是一个扫描网站并突出显示可能会影响转化的用户体验问题的工具。 在看到许多美观的网站因小的可用性问题而陷入困境后开始使用此工具。 还为时过早，希望得到设计师的反馈   由   提交 /u/No_One008   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s95zh7/built_a_tool_that_finds_ux_ui_issues_in_websites/</guid>
       <pubDate>Wed, 01 Apr 2026 01:04:06 GMT</pubDate>
     </item>
@@ -36,7 +71,7 @@
     <item>
       <title>对 bug 感到沮丧</title>
       <link>https://www.reddit.com/r/webdev/comments/1s90vxr/frustration_with_bugs/</link>
-      <description><![CDATA[我正在处理几个项目，涉足了一些氛围编码，然后转向了 Claude 代码。我使用 GitHub、vercel、supabase、resend。我感觉自己就像一个疯子，试图找到所有不起作用的废话。我已经研究 bug 三个多星期了。一直都是这样吗？一定有更好的方法吗？我研究了剧作家，这很有帮助，但该死的，它永远不会结束！ 我的背景是住宅装修销售，过去 7 年我一直管理销售团队。我必须提到我所强调的MIS（管理信息系统）学位。我正在为我的客户建立一个推荐平台，他们可以在其中兑换他们发送给我们的推荐的东西。 我听到的建议是必须手动通过系统以确保一切正常。我准备好聘请技术人员并分享一些所有权，因为我已经受够了。我喜欢成为一名独立创始人的想法，但是有什么可以彻底测试每个人的小细节吗？不确定这是否是一个咆哮的地方，但我只是在寻找那些独立创始人如何维护他们的网站的建议。   由   提交/u/raul25911  [链接] [评论]]]></description>
+      <description><![CDATA[我正在处理几个项目，涉足了一些氛围编码，然后转向了 Claude 代码。我使用 GitHub、vercel、supabase、resend。我感觉自己就像一个疯子，试图找到所有不起作用的废话。我已经研究 bug 三个多星期了。一直都是这样吗？一定有更好的方法吗？我研究了剧作家，这很有帮助，但该死的，它永远不会结束！ 我的背景是住宅装修销售，过去 7 年我一直在管理销售团队。我必须提到我所强调的MIS（管理信息系统）学位。我正在为我的客户建立一个推荐平台，他们可以在其中兑换他们发送给我们的推荐的东西。 我听到的建议是必须手动通过系统以确保一切正常。我准备好聘请技术人员并分享一些所有权，因为我已经受够了。我喜欢成为一名独立创始人的想法，但是有什么可以彻底测试每个人的小细节吗？不确定这是否是一个咆哮的地方，但我只是在寻找那些独立创始人如何维护他们的网站的建议。   由   提交/u/raul25911  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s90vxr/frustration_with_bugs/</guid>
       <pubDate>Tue, 31 Mar 2026 21:33:45 GMT</pubDate>
     </item>
@@ -57,7 +92,7 @@
     <item>
       <title>谁能帮助我。</title>
       <link>https://www.reddit.com/r/webdev/comments/1s9069l/can_anyone_help_me/</link>
-      <description><![CDATA[      无论我做什么，它都会给我这个错误，我没有这个域连接到任何其他网站。 好吧，所以我检查了我的网站是否已经托管，它不是只显示托管商管理页面。   由   提交/u/Syber_7697  [链接] [评论] ]]></description>
+      <description><![CDATA[      无论我做什么，它都会给我这个错误，我没有这个域连接到任何其他网站。 好的，所以我检查了我的网站是否已经托管，它不是只显示托管商管理页面。   由   提交/u/Syber_7697  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s9069l/can_anyone_help_me/</guid>
       <pubDate>Tue, 31 Mar 2026 21:06:47 GMT</pubDate>
     </item>
@@ -71,44 +106,9 @@
     <item>
       <title>Vivi 编码是否会损害编程？</title>
       <link>https://www.reddit.com/r/webdev/comments/1s8y5aw/is_vibe_coding_harming_programming/</link>
-      <description><![CDATA[我不认为人工智能辅助编码会毁掉编程。 我们大多数人首先通过复制来学习： - 杂志中的片段 - 来自晦涩论坛的代码 - 来自 Stack Overflow 的答案 真正的区别从来不是复制与编程。这是盲目复制与复制理解。 这种模式也出现在学习研究中：人们通常使用脚手架+即时反馈比每次从空白页开始学得更快。 因此，“氛围编码”的风险并不在于使用它。风险在于委托判断：接受你不理解的代码，跳过权衡或失去从第一原则进行调试的习惯 如果使用得当，它可以成为一个很好的探索工具：生成一条粗糙的路径，打破事物，检查结果，然后完善。 我很好奇这里的其他人如何在有用的脚手架和技能萎缩之间划清界限。 哪些实践可以帮助你保持前者而不滑向后者？   由   提交/u/debba_  [链接] [评论]]]></description>
+      <description><![CDATA[我不认为人工智能辅助编码会毁掉编程。 我们大多数人首先通过复制来学习： - 杂志中的片段 - 来自晦涩论坛的代码 - 来自 Stack Overflow 的答案 真正的区别从来不是复制与编程。这是盲目复制与复制理解。 这种模式也出现在学习研究中：人们通常使用脚手架+即时反馈比每次从空白页开始学得更快。 因此，“氛围编码”的风险并不在于使用它。风险在于委托判断：接受你不理解的代码，跳过权衡或失去从第一原则进行调试的习惯 如果使用得当，它可以成为一个很好的探索工具：生成一条粗略的路径，打破事物，检查结果，然后完善。 我很好奇这里的其他人如何在有用的脚手架和技能萎缩之间划清界限。 哪些实践可以帮助你保持前者而不滑向后者？   由   提交/u/debba_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1s8y5aw/is_vibe_coding_harming_programming/</guid>
       <pubDate>Tue, 31 Mar 2026 19:53:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>像 Godot 这样的现代网站建设者。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s8xatx/modern_website_builders_like_godot/</link>
-      <description><![CDATA[我已经成为一名业余程序员大约 5 年了，在这段时间里我从来没有能够开始制作网站。我只是讨厌使用 CSS，而且我不知道如何“调试”CSS。因为事情最终看起来是错误的，我不知道该搜索什么词来修复它。因此，我一般讨厌制作 GUI。 我唯一喜欢制作 GUI 的界面是 Godot。 Godot 有一个非常好的 GUI 系统，我想知道是否有类似的网站构建器。我不介意写 JS，但是有一些东西可以让我做它的实际视觉部分，那就太好了。 这里明显的答案是用 Vibe 编码你的前端，虽然人工智能在制作网站方面还可以，但它从来没有按照我想要的方式去做，而且微妙的东西总是被破坏或只是看起来不那么完美，这与我的完美主义相悖。    由   提交 /u/HoeKoi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s8xatx/modern_website_builders_like_godot/</guid>
-      <pubDate>Tue, 31 Mar 2026 19:24:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>JetStream 3 基准套件简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s8w953/introducing_the_jetstream_3_benchmark_suite/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s8w953/introducing_the_jetstream_3_benchmark_suite/</guid>
-      <pubDate>Tue, 31 Mar 2026 18:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>CRT 文本效果（纯 CSS/SVG）...想法/建议/替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s8vqyc/crt_text_effects_pure_csssvg/</link>
-      <description><![CDATA[      一时兴起，我想为统计仪表板创建一个超级复古的类似 CRT 的效果。当然，我还不知道如何在视觉上整合它，但那是另一天的战斗...... 无论如何，这是完全可定制的，包括“像素”尺寸、网格尺寸、颜色等...如果放大（第二张照片显示得更近），它甚至会出现来自 CRT 过冲/未对准的模拟 RGB 雾度。如果您看到像色差这样模糊的东西，您就看到了。 我的问题有几个：  您认为整体效果如何？我错过了一些关键的东西吗？我怎样才能以纯 CSS/过滤器的方式改善效果？ 您知道有更好的替代方案可以以超级干净的方式实现这一点，同时又超轻？很确定我可以将其打包到 1-2kB 以下。 我是否应该将这样的东西发布为一个简单的组件（可能只是针对 Svelte 目标）？我通常只发布 utils 或偶尔的组件操作，但 FE 组件我倾向于留给其他更专业的作者...  编辑： - 忘记提及它已经内置了用于微妙背景屏幕脉冲/闪烁等的动画循环   由   提交/u/kevin_whitley  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s8vqyc/crt_text_effects_pure_csssvg/</guid>
-      <pubDate>Tue, 31 Mar 2026 18:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的网站今天受到攻击</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s8vkhj/my_website_is_under_attack_today/</link>
-      <description><![CDATA[      今天早上 6 点醒来，发现我的网站承受着极大的压力。花了一个小时在 Cloudflare 上配置规则，“受到攻击”模式挽救了局面！  我把它放在这里的长篇故事：https://pnl.dev/topic/1091/pnl-website-is-under-attack 我们生活在一个多么美好的时代🤪。   由   提交/u/river_yang  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s8vkhj/my_website_is_under_attack_today/</guid>
-      <pubDate>Tue, 31 Mar 2026 18:22:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这个新环境中找到真正的全栈开发人员的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1s8v21y/best_way_to_find_a_true_full_stack_developer_in/</link>
-      <description><![CDATA[我个人创立了三个成功的公司。问题是，我一直在业务的财务方面/不需要发展。当我创立一家“科技”公司时我的另一位创始合伙人是一位才华横溢的开发人员。他现在已经退休了。我知道在我们出售公司之前的一两年里，他遇到了麻烦，试图聘请一名优秀的开发人员，而不是过度依赖人工智能的人。 他很成功，但如果一个在该行业工作了 20 年以上的人怀疑自己的能力，我确信这对我来说几乎是不可能的，因为我在该领域拥有一些但有限的人才。 我正在尝试构建另一个 SaaS（我知道市场已经饱和），但在另一个相信是服务不足的市场。我有资金付给开发商。这是一个相当复杂的构建。我假设至少需要 2 到 3 个月的全职工作才能有一个初始版本 - 希望有才华的人能少花点时间。我只是不希望它看起来或操作起来像市场上所有其他人工智能构建的 SaaS。对于完成这个初始步骤有什么建议吗？   由   提交 /u/RelativeSalad1409   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1s8v21y/best_way_to_find_a_true_full_stack_developer_in/</guid>
-      <pubDate>Tue, 31 Mar 2026 18:04:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
