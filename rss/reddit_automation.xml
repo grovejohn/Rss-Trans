@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 01 Apr 2026 05:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Apr 2026 07:06:07 GMT</lastBuildDate>
+    <item>
+      <title>我如何使用 AI 进行 LinkedIn 外展（对于你们中的一些人来说可能是显而易见的，但我不断看到人们搞砸了）</title>
+      <link>https://www.reddit.com/r/automation/comments/1s9cush/how_i_use_ai_for_linkedin_outreach_probably/</link>
+      <description><![CDATA[ 由   提交 /u/Creepy_Effective_598   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s9cush/how_i_use_ai_for_linkedin_outreach_probably/</guid>
+      <pubDate>Wed, 01 Apr 2026 06:42:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的商店转化率多年来一直保持在 3% 左右。然后我们尝试预测用户意图而不是对其做出反应。</title>
+      <link>https://www.reddit.com/r/automation/comments/1s9ccve/our_store_conversion_rate_sat_around_3_for_years/</link>
+      <description><![CDATA[我们的商店转化率很长一段时间都在 3% 左右。 这对于电子商务来说基本上是正常的。 我们尝试了所有常见的方法。 更好的着陆页 电子邮件流 购物车提醒 折扣触发器 这有一点帮助，但没有什么戏剧性的。 最近我们进行了实验与不同的东西。我们没有专注于放弃后的恢复，而是尝试在用户仍在浏览时预测意图。 我们测试的系统使用名为 ATHENA（Markopolo 开发）的行为模型，该模型可以读取滚动深度、犹豫模式、产品比较行为等信息。 基本上，它会尝试预测用户是接近购买还是接近离开。 当系统检测到犹豫时，它会触发正确的推动。有时是评论，有时是产品比较，有时是回应异议的消息。 启用此功能后，某些流量部分的转化率开始攀升至 10% 以上。 仍处于早期阶段，显然结果会有所不同。 但有趣的部分是从被动营销到预测性互动的转变。 还有其他人在尝试行为预测工具吗？   由   提交/u/Ok-Community-4926   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1s9ccve/our_store_conversion_rate_sat_around_3_for_years/</guid>
+      <pubDate>Wed, 01 Apr 2026 06:13:06 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能语音代理取代人类 SDR 的速度比任何人预期的都要快 - 您怎么看？</title>
       <link>https://www.reddit.com/r/automation/comments/1s96d5i/ai_voice_agents_are_replacing_human_sdrs_faster/</link>
@@ -88,20 +102,6 @@
       <description><![CDATA[我想解析官方法律文件的扫描件（非手写）。我有 1000 万个 PDF。平均每个 PDF 有 5 页。文本为荷兰语 (60%)、法语 (39%) 和德语 (1%)。 我只对原始文本（可能还有换行符）感兴趣，不需要表格或任何其他格式化数据，只需要文本。 我应该考虑哪些选项？ 当直接嵌入文本时，我认为 pypdfium2 是一个非常强大的候选者。当它未嵌入时，我会考虑 Open AI GPT-5 Nano。如果我使用批处理 API，我认为每个页面的成本约为 0.0001 美元（10,000 页 1 美元）。 我是否应该考虑其他解决方案：更便宜、质量更好或更快？   由   提交 /u/vroemboem   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1s8kqhj/pdf_parsing_ocr_options_to_compare/</guid>
       <pubDate>Tue, 31 Mar 2026 11:27:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>[ 已被 Reddit 删除 ]</title>
-      <link>https://www.reddit.com/r/automation/comments/1s8kqb5/removed_by_reddit/</link>
-      <description><![CDATA[[因违反内容政策而被 Reddit 删除。 ]   由   提交/u/CompanyRemarkable381  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s8kqb5/removed_by_reddit/</guid>
-      <pubDate>Tue, 31 Mar 2026 11:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[ 已被 Reddit 删除 ]</title>
-      <link>https://www.reddit.com/r/automation/comments/1s8kkef/removed_by_reddit/</link>
-      <description><![CDATA[[因违反内容政策而被 Reddit 删除。 ]   由   提交/u/CompanyRemarkable381  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1s8kkef/removed_by_reddit/</guid>
-      <pubDate>Tue, 31 Mar 2026 11:18:09 GMT</pubDate>
     </item>
     <item>
       <title>你们如何在 FB 群组中自动回复评论？</title>
