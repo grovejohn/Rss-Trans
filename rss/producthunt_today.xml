@@ -4,49 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 01 Apr 2026 16:02:08 GMT</lastBuildDate>
-    <item>
-      <title>沟</title>
-      <link>https://www.producthunt.com/products/ditch-2</link>
-      <description><![CDATA[
-            MacBook 中的应用程序清理器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ditch-2</guid>
-      <pubDate>Wed, 01 Apr 2026 05:06:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在 v0.19</title>
-      <link>https://www.producthunt.com/products/ollama</link>
-      <description><![CDATA[
-            使用 MLX 在 Apple Silicon 上实现大规模本地模型加速
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ollama</guid>
-      <pubDate>Wed, 01 Apr 2026 02:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>指挥棒</title>
-      <link>https://www.producthunt.com/products/baton-2</link>
-      <description><![CDATA[
-            编排您的 AI 编码代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/baton-2</guid>
-      <pubDate>Tue, 31 Mar 2026 23:25:57 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 01 Apr 2026 18:45:47 GMT</lastBuildDate>
     <item>
       <title>适用于 NVIDIA NemoClaw 的 ClawMetry</title>
       <link>https://www.producthunt.com/products/clawmetry</link>
@@ -104,6 +62,34 @@
       <pubDate>Tue, 31 Mar 2026 19:50:54 GMT</pubDate>
     </item>
     <item>
+      <title>群</title>
+      <link>https://www.producthunt.com/products/flock-let-your-agents-loose</link>
+      <description><![CDATA[
+            在一个窗口中运行一群 Claude Code（或其他代理）。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/flock-let-your-agents-loose</guid>
+      <pubDate>Tue, 31 Mar 2026 17:48:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>大象对开本</title>
+      <link>https://www.producthunt.com/products/elephant-folio</link>
+      <description><![CDATA[
+            自动组织自身的 PDF 库
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/elephant-folio</guid>
+      <pubDate>Tue, 31 Mar 2026 16:17:31 GMT</pubDate>
+    </item>
+    <item>
       <title>克劳斯镜</title>
       <link>https://www.producthunt.com/products/claudoscope</link>
       <description><![CDATA[
@@ -118,46 +104,32 @@
       <pubDate>Tue, 31 Mar 2026 15:02:15 GMT</pubDate>
     </item>
     <item>
-      <title>斯拉皮</title>
-      <link>https://www.producthunt.com/products/slapppy-stop-retyping-just-tap</link>
+      <title>开放泊位</title>
+      <link>https://www.producthunt.com/products/openberth</link>
       <description><![CDATA[
-            通过有节奏地点击触控板或鼠标来触发宏
+            AI辅助原生自托管部署平台
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/slapppy-stop-retyping-just-tap</guid>
-      <pubDate>Tue, 31 Mar 2026 12:06:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/openberth</guid>
+      <pubDate>Tue, 31 Mar 2026 09:45:54 GMT</pubDate>
     </item>
     <item>
-      <title>形状</title>
-      <link>https://www.producthunt.com/products/formo</link>
+      <title>想法板95</title>
+      <link>https://www.producthunt.com/products/ideaboard95</link>
       <description><![CDATA[
-            Formo 让 DeFi 的分析变得简单，让您能够成长。
+            看起来像 Windows 95 的社区创意板
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/formo</guid>
-      <pubDate>Tue, 31 Mar 2026 10:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>开箱</title>
-      <link>https://www.producthunt.com/products/openbox</link>
-      <description><![CDATA[
-            查看、验证和管理每个代理操作。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/openbox</guid>
-      <pubDate>Tue, 31 Mar 2026 08:43:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ideaboard95</guid>
+      <pubDate>Tue, 31 Mar 2026 08:53:55 GMT</pubDate>
     </item>
     <item>
       <title>零</title>
@@ -174,18 +146,32 @@
       <pubDate>Mon, 30 Mar 2026 19:49:37 GMT</pubDate>
     </item>
     <item>
-      <title>快照棒</title>
-      <link>https://www.producthunt.com/products/snapstick-photos-to-stickers</link>
+      <title>追踪人工智能</title>
+      <link>https://www.producthunt.com/products/future-agi</link>
       <description><![CDATA[
-            让你的相机胶卷变成群聊混乱
+            使用 GenAI 而不是 HTTP 的开源 LLM 跟踪。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/snapstick-photos-to-stickers</guid>
-      <pubDate>Sat, 28 Mar 2026 00:17:53 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/future-agi</guid>
+      <pubDate>Thu, 26 Mar 2026 10:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>语音零人工智能</title>
+      <link>https://www.producthunt.com/products/voicezeroai-2</link>
+      <description><![CDATA[
+            AI语音反馈，在差评之前发现投诉
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/voicezeroai-2</guid>
+      <pubDate>Wed, 25 Mar 2026 06:41:34 GMT</pubDate>
     </item>
     <item>
       <title>斯蒂因克斯</title>
@@ -202,18 +188,32 @@
       <pubDate>Tue, 24 Mar 2026 15:34:52 GMT</pubDate>
     </item>
     <item>
-      <title>订阅流智商</title>
-      <link>https://www.producthunt.com/products/subscriptionflow</link>
+      <title>网络</title>
+      <link>https://www.producthunt.com/products/netwoke</link>
       <description><![CDATA[
-            通过人工智能对话将网站访问者转变为客户
+            您的网络有秘密，现在您可以了。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/subscriptionflow</guid>
-      <pubDate>Mon, 02 Mar 2026 09:35:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/netwoke</guid>
+      <pubDate>Thu, 19 Mar 2026 15:58:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>维斯普利</title>
+      <link>https://www.producthunt.com/products/wispli</link>
+      <description><![CDATA[
+            语音速度。人工智能的力量。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/wispli</guid>
+      <pubDate>Fri, 27 Feb 2026 12:56:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
