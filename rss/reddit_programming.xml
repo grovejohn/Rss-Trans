@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 02 Apr 2026 15:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Apr 2026 18:41:36 GMT</lastBuildDate>
+    <item>
+      <title>我讲解了2026年你必须了解的30个Spring注解（附代码示例）</title>
+      <link>https://www.reddit.com/r/programming/comments/1sal5q9/i_explained_30_spring_annotations_you_must_know/</link>
+      <description><![CDATA[ 由   提交/u/huseyinbabal  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1sal5q9/i_explained_30_spring_annotations_you_must_know/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:50:36 GMT</pubDate>
+    </item>
     <item>
       <title>将 Clojure 编程引入企业</title>
       <link>https://www.reddit.com/r/programming/comments/1sajbks/bringing_clojure_programming_to_enterprise/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好 这是一个小型入门指南，介绍如何将 wasm 插件功能添加到您的（rust）应用程序中，而无需复杂的框架（超出运行时）。以 Zola/Tera 为例。   由   提交 /u/M1M1R0N   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1s9vmqv/adding_wasm_plugins_to_your_app_using_wasmi_as_a/</guid>
       <pubDate>Wed, 01 Apr 2026 20:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 客户端迁移：从 Postman 到 Bruno – Dotkernel</title>
-      <link>https://www.reddit.com/r/programming/comments/1s9u615/api_client_migration_from_postman_to_bruno/</link>
-      <description><![CDATA[ 由   提交 /u/arhimedosin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1s9u615/api_client_migration_from_postman_to_bruno/</guid>
-      <pubDate>Wed, 01 Apr 2026 19:08:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
