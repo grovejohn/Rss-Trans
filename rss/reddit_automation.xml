@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 03 Apr 2026 12:34:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 15:31:18 GMT</lastBuildDate>
+    <item>
+      <title>您是自动化所有任务还是仅自动化关键任务</title>
+      <link>https://www.reddit.com/r/automation/comments/1sbgkn1/do_you_automate_everything_or_only_critical_tasks/</link>
+      <description><![CDATA[起初我尝试将所有事情自动化。 现在我觉得它创造的复杂性大于价值。 考虑只关注高影响力的任务。 你如何决定自动化哪些内容？   由   提交 /u/Solid_Play416   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sbgkn1/do_you_automate_everything_or_only_critical_tasks/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>在您的企业中，您知道应该实现自动化但您一直在拖延的流程是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1sbcei2/whats_the_one_process_in_your_business_that_you/</link>
+      <description><![CDATA[我们每周都会手动做一件事，我们知道可以自动化，但我们一直推迟它，因为它“没那么糟糕”。或者“下周我会处理它。” 对我来说，这是客户报告。每个星期五我都会花 2 个小时从不同的工具中提取数据，并将它们放入每个客户的文档中。最后将其自动化，现在需要 5 分钟来查看系统已构建的内容。 很好奇您的系统是什么。你一直手动做的事情是什么，但你知道你不应该这样做   由   提交/u/treysmith_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sbcei2/whats_the_one_process_in_your_business_that_you/</guid>
+      <pubDate>Fri, 03 Apr 2026 12:36:19 GMT</pubDate>
+    </item>
     <item>
       <title>您什么时候真正决定更换 LinkedIn 自动化工具？这么问是因为我快到了。</title>
       <link>https://www.reddit.com/r/automation/comments/1sbbdxr/at_what_point_did_you_actually_decide_to_switch/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[测试对我来说正成为一个问题。 有时我会在真实数据上进行测试，结果把事情搞砸了。 考虑创建一个测试环境，但感觉有点矫枉过正。 你如何测试你的工作流程？   由   提交/u/Solid_Play416  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1sao3ol/how_do_you_test_automations_safely/</guid>
       <pubDate>Thu, 02 Apr 2026 17:36:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您构建的最被低估的自动化是什么，它悄悄地为您节省了无数个小时的痛苦？</title>
-      <link>https://www.reddit.com/r/automation/comments/1sam5kf/whats_the_most_underrated_automation_youve_built/</link>
-      <description><![CDATA[每个人都会分享一些显而易见的事情，例如潜在客户跟进、发票提醒、提交表单时的松弛通知。但我很想听听你们这些了不起的人所做的自动化，这些自动化更具创造性、独特性和影响力，但有时可能会被忽视。 对我来说，我运行 synta（一个 n8n mcp 和 ai n8n 工作流程构建器），我们为自己构建的最有用的东西之一是预定的 n8n 工作流程，它每天使用 exa 和 github api 抓取 n8n 文档、工具模式和社区节点数据，并使用语义对其进行分块通过 chonkie 进行分块并将所有内容索引到 RAG 存储中。  但有趣的部分是它还有其他内容。我们还通过管道传输我们自己的遥测数据，因此当用户在特定节点上遇到错误或 mcp 难以准确回答某些问题时，这些差距会被记录下来，下一次运行优先级会覆盖它们。最重要的是，它根据遥测数据分析整个用户群的工作流程模式，记录哪些节点组合经常一起使用，哪些工作流程/架构模式经常配对在一起，以及出现哪些新用例，并将其反馈到知识库中，所以随着时间的推移，整个事情会变得更加智能，了解人们实际构建的内容，而不仅仅是文档所说的可能的内容。  老实说，我无法用语言表达这为我节省了多少时间，有时我经常认为这是理所当然的，甚至忘记了它，尽管事实上它有很大帮助。这就是为什么我很好奇：无论是用于个人事务还是业务，您设置的那种可以悄悄地为您节省大量时间的自动化是什么？ 愿意交换想法，甚至可能“窃取”技术。几个！    由   提交 /u/Expert-Sink2302   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sam5kf/whats_the_most_underrated_automation_youve_built/</guid>
-      <pubDate>Thu, 02 Apr 2026 16:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 上关于人工智能代理功能的争论正在失控</title>
-      <link>https://www.reddit.com/r/automation/comments/1saabgz/the_bull_around_ai_agent_capabilities_on_reddit/</link>
-      <description><![CDATA[过去几个月我一直在使用代理工具进行实际构建，而不仅仅是观看演示和阅读炒作线程。 这段时间的大部分时间都花在 Claude Code 上，另外还有几个月在旁边构建个人 AI 代理。 到目前为止我诚实的收获： AI 代理的速度看起来令人印象深刻，但它们的可靠性仍然非常高。夸大了。 当我使用前沿模型时，结果可能非常好。并不完美，但足够好，让系统感觉真实。 当我切换到较弱的模型时，幻觉几乎立即消失。 而且我不是在谈论一些高级的边缘情况。我指的是那些应该很无聊的基本任务： 更新待办事项列表，找到正确的文件，编辑明显的目标而不是发明一个新的目标，遵循已经存在于内存中的路径。 这就是让 Reddit 上的大部分讨论感觉与现实脱节的原因。 很多人谈论的好像“AI 代理”已经是一个可以插入任何东西的稳定的通用层。在实践中，许多这些系统只有在将三件事结合起来时才会令人印象深刻：强大的模型、范围严格的工作流程以及围绕它的大量非LLM结构。 如果没有这些，事情很快就会崩溃。 较弱的模型不会以微妙的方式失败。他们以愚蠢的方式失败。他们错过了就在他们面前的背景。他们作用于错误的对象。他们创建一个新文件而不是更新现有文件。他们充满信心地完成了错误的任务。 这并不意味着代理毫无用处。这意味着真实情况比炒作所暗示的要窄得多。 工作流程声明也是如此。 是的，您可以围绕 Latenode、OpenClaw 和类似平台等编排工具构建有用的代理系统。那部分是真实的。您可以连接应用程序、添加逻辑、路由任务，并使 AI 在实际工作流程中发挥作用。但这与模型本身广泛可靠有很大不同。在大多数情况下，有用的部分来自模型周围的结构，而不是来自模型神奇地理解一切。 这种区别不断变得模糊。 今天许多所谓的“人工智能代理”实际上是： 狭窄操作环境中的强大模型，加上完成大部分繁重工作的确定性逻辑。 老实说，这仍然很有价值。我并不是否认它。 我否认的是人们说话的方式，就好像任何随机模型加上一些提示就等于一个可靠的自治系统。 事实并非如此。 一些最响亮的例子是最没有说服力的。尤其是当人们吹嘘自动化那些一开始就价值较低的东西时，比如推出更多通用内容并假装这是某种护城河。 很好奇其他构建真实代理系统的人是否也看到了同样的事情。 您是否还发现可靠性仍然在很大程度上依赖于前沿模型和严格的工作流程设计，或者您是否已经获得了较小的模型来表现得足以满足真正的重复性工作？   由   提交 /u/schilutdif   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1saabgz/the_bull_around_ai_agent_capabilities_on_reddit/</guid>
-      <pubDate>Thu, 02 Apr 2026 07:06:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
