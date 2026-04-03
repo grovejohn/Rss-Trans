@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Fri, 03 Apr 2026 01:10:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 04:59:43 GMT</lastBuildDate>
+    <item>
+      <title>Arri 3:2 宽高比在 DaVinci 上自动转换为 4:3</title>
+      <link>https://www.reddit.com/r/editors/comments/1sb47rj/arri_32_aspect_ratio_automatically_converted_to/</link>
+      <description><![CDATA[您好，我正在编辑一部在 Arri Alexa 上以 3.2K Open Gate 3072x2160 拍摄的纪录片，并且正在剪辑达芬奇。但是，由于某种原因，素材被自动解释为 4:3 2880x2160。 我查看了剪辑属性，它显示宽高比 Square 1.0，并且元数据没有什么特别的。 为什么会发生这种情况？   由   提交 /u/feliperalo21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1sb47rj/arri_32_aspect_ratio_automatically_converted_to/</guid>
+      <pubDate>Fri, 03 Apr 2026 04:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>NAB 2026 赠品/聚会主题。</title>
+      <link>https://www.reddit.com/r/editors/comments/1sb02af/nab_2026_giveawaymeetup_thread/</link>
+      <description><![CDATA[嘿，后专业人士！ NAB 就在我们家门口。 是时候保持一些积极的态度了。 我本来昨天就宣布了这一点，但我不想让人们对愚人节感到困惑。 1。见面会 如果您要去 NAB，我们将举办一次 Redditor 见面会。 与往年一样 - 它将由 R 举办的 Redditors编辑。 见面会将于周一晚上举行，就在展会结束后。 详细信息即将公布。  我们将在 NAB 展会期间使用 WhatsApp 群组进行讨论。 请填写此最小表格，以便我们快速统计人数 （名字、电子邮件地址不与任何人透露。这样我们就可以向您发送 WhatsApp信息。 后期制作 Discord 上还将有一个频道。  这次聚会是由 Eddie AI 和 Digital Glue。 没有营销，只是朋友社交。 2.赠品！ 后期制作世界非常友善地给了我们  3张完整通行证，价值超过每场 1,600 美元 3 场比赛通行证，每场价值超过 600 美元  我们将在 4 月 13 日这一周宣布获奖者。 如何获胜？ 在此帖子中评论您想参加的一场比赛。  会议列表 会议 PDF  此处将发放两张通行证，我们的后期制作中每张通行证各一张 后期制作Discord NAB 2026 频道 查看民意调查  /u/greenysmac   [链接]   href=&quot;https://www.reddit.com/r/editors/comments/1sb02af/nab_2026_giveawaymeetup_thread/&quot;&gt;[评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1sb02af/nab_2026_giveawaymeetup_thread/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:33:17 GMT</pubDate>
+    </item>
     <item>
       <title>紧急编辑错误消息</title>
       <link>https://www.reddit.com/r/editors/comments/1sawjn6/urgent_editing_error_message/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[嘿各位， 我又回来了 - 在解读 Avid Autopatching 的真正工作原理时遇到了一个小问题。我正在使用多轨音频（poly WAV），如果可能的话，我希望能够使用棋盘格。我遇到的问题是： 1-我必须单独修补每个轨道。如果有一种方法可以做到这一点，而无需定位每个轨道，我很想听听它。 2-出于某种原因，当我定位一个轨道时，它会立即将源设置为 A2 而不是 A1（请参阅视频以供参考）： https://vimeo.com/1179330365?share=copy&amp;fl=sv&amp;fe=ci 希望您能在其中任何一个方面提供帮助。谢谢！ 系统规格 // Apple M1 Max Studio，32GB 统一内存 软件版本 // Avid Media Composer 版本 2025.12.0 / Silverstack 版本 9.1.5 素材规格 // 最初为 Sony X-OCN RAW ST - Xcoded 为 MXF Op-Atom   由   提交 /u/Various_Island7617   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1s9tvif/avid_media_composer_autopatching_behavior/</guid>
       <pubDate>Wed, 01 Apr 2026 18:58:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找元数据排序软件，因为 Bridge 不起作用</title>
-      <link>https://www.reddit.com/r/editors/comments/1s9ri5o/looking_for_metadata_sorting_software_because/</link>
-      <description><![CDATA[我在一家小公司工作，我们正在尝试停止对拍摄进行文件夹，并寻求利用元数据标记来保留 SD 卡中的文件结构并最大限度地减少数据丢失的机会。  我一直在尝试使用 Adob​​e Bridge 为我们所做的一些大型项目设置元数据关键字结构，但注意到将元数据写入 MXF 文件（我们使用的主要类型）时存在问题。除此之外，它非常适合我们的需求。 我喜欢关键字和子关键字的层次结构，它显示了所选文件夹中素材中使用的所有关键字。此外，只需勾选一个框即可添加该关键字，速度非常快。 有人知道有什么方法可以解决此元数据问题吗？或者如果没有，有没有提供类似功能的不太昂贵的程序？如果它只适用于 MXF 文件，那对我们来说绝对是完美的！ 提前致谢，希望有人经历过这个并找到解决方案！   由   提交/u/arby97  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1s9ri5o/looking_for_metadata_sorting_software_because/</guid>
-      <pubDate>Wed, 01 Apr 2026 17:38:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>当“付费测试”变成免费的客户工作</title>
-      <link>https://www.reddit.com/r/editors/comments/1s9mt4i/when_a_paid_test_turns_into_free_client_work/</link>
-      <description><![CDATA[经过几周的工作，我刚刚退出了“付费视频测试”，说实话，我应该预见到它的到来。 一开始，它实际上感觉合法。清晰的简短，很好的例子，大量的原始素材。我陷入困境并喜欢编辑它。 我的错？我没有问“付费”测试实际支付了多少钱，也没有为修改或时间表设置任何界限。 快进几周，我现在已经完成了五轮修改。每次都是“这看起来很棒，我们可以调整这个、这个、这个吗？”你知道该怎么做。 因此，一旦我们基本上完成了视频，我就会询问将发票发送到哪里并确认他们提到的采访。 他们回来说，一旦我交付最终的带水印版本，他们将发送 30 美元。 30 美元。 对于我投入几天实际工作的东西，加上多次修改，总共 5 次。 那时我就停下来了。告诉他们我不愿意继续前进并撤回了我的申请。 最疯狂的部分？如果他们事先说这是无偿的或只是一个快速测试，我可能会这样做并继续前进。但将其拖入接近最终的产品，然后提供 30 美元的价格感觉完全不对劲。 经验教训： 如果有人说“付费测试”，请预先提供数字。并对修订设定限制。否则你基本上是在免费做客户工作。 无论如何，好奇是否还有其他人遇到过这种事情？如果这个客户与这里的其他编辑器一起做了类似的事情，我不会感到震惊。 更新：他们正在使用我的视频，但水印已“删除”。与人工智能！卧槽！！！    由   提交/u/lemonator85  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1s9mt4i/when_a_paid_test_turns_into_free_client_work/</guid>
-      <pubDate>Wed, 01 Apr 2026 14:53:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
