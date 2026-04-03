@@ -4,20 +4,27 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 03 Apr 2026 09:41:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 12:34:08 GMT</lastBuildDate>
     <item>
-      <title>人工智能代理工具——实际上值得构建或只是炒作</title>
-      <link>https://www.reddit.com/r/automation/comments/1sb8c3b/ai_agent_tools_actually_worth_building_with_or/</link>
-      <description><![CDATA[过去几个月一直在测试用于营销工作流程的各种代理框架和低代码工具。里面有真正有用的东西，但演示和实际生产之间的差距相当大。像 n8n 非常适合将自动化链接在一起，并且 Agentforce 等一些企业产品在其自己的生态系统中运行良好。但当你推动特工去做任何需要真正判断的事情时。是的，它很快就会变得混乱。幻觉、多步推理被破坏、90% 的时间都有效的整合有时却不起作用。令我印象深刻的统计数据是，目前每个职能中只有大约 10% 的组织实际上是扩展代理，Gartner 估计很大一部分项目将在 2027 年之前被废弃。这与我所看到的情况相符。成功几乎全部来自于受限、重复的工作流程、IT 运营、数据检索等。使用代理来做任何面向竞选或高风险的营销决策仍然需要有人参与，否则你就是在自找麻烦。在我看来，“更换初级角色”的说法有些言过其实，至少目前是这样。我认为诚实的框架是：如果你选择正确的无聊问题并仔细设计它，代理就会真正有用。酷炫的演示心态是项目消亡的原因。现在有大量的框架（OpenAI Agents SDK、Google ADK 等），但更多的工具并不意味着潜在的限制消失了。很好奇这里是否有人真的在营销环境中推出了一些基于代理的产品，并且在试点阶段之后仍然存在，以及是什么让它发挥作用。   由   提交 /u/resbeefspat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sb8c3b/ai_agent_tools_actually_worth_building_with_or/</guid>
-      <pubDate>Fri, 03 Apr 2026 08:59:42 GMT</pubDate>
+      <title>您什么时候真正决定更换 LinkedIn 自动化工具？这么问是因为我快到了。</title>
+      <link>https://www.reddit.com/r/automation/comments/1sbbdxr/at_what_point_did_you_actually_decide_to_switch/</link>
+      <description><![CDATA[ 由   提交/u/No-Mistake421   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sbbdxr/at_what_point_did_you_actually_decide_to_switch/</guid>
+      <pubDate>Fri, 03 Apr 2026 11:49:24 GMT</pubDate>
     </item>
     <item>
-      <title>在人工智能驱动的自动化工作流程中平衡效率和环境</title>
-      <link>https://www.reddit.com/r/automation/comments/1sb8bcw/balancing_efficiency_and_context_in_aidriven/</link>
-      <description><![CDATA[我一直在探索人工智能来自动执行大容量、多渠道通信任务。即使自动化系统准确地处理重复查询，在维护上下文和自然交互方面也存在微妙的挑战。 作为实验的一部分，我使用 Atombite AI 作为沙箱来观察模型在同时输入和重复任务下的表现。目的纯粹是为了研究行为和局限性，而不是为了推广该工具。一个要点是，仅正确的响应是不够的：时机、上下文保留和细致入微的措辞会显着影响自动化的“人性”和帮助感。 这向社区提出了一些问题：  如何评估自动化工作流程中超出原始准确性的人工智能性能？ 在跨多个渠道扩展时，哪些策略有助于保持上下文一致性？ 是否有有效的方法来集成人类监督而不减慢速度自动化？  我很想听听其他人如何在现实世界的自动化系统中应对这些挑战，特别是在交互速度和质量都很重要的环境中。   由   提交/u/Educational_Cost_623   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sb8bcw/balancing_efficiency_and_context_in_aidriven/</guid>
-      <pubDate>Fri, 03 Apr 2026 08:58:27 GMT</pubDate>
+      <title>边缘与中间的法学硕士</title>
+      <link>https://www.reddit.com/r/automation/comments/1sbbdqw/llms_at_the_edges_vs_middle/</link>
+      <description><![CDATA[我注意到的一种模式（也看到其他人也提到过）： 法学硕士在工作流程的边缘表现出色：  解释混乱的输入 生成输出 总结或提取意图  但是当你将它们放入中间的执行逻辑，事情很快就会变得不稳定。 你本质上是在过去的确定性管道中引入了一个概率层。 所以问题就变成了： 我们实际上应该训练模型来处理完整的工作流程… 还是只是： → 将它们保持在边缘 → 并使它们周围的系统更加结构化？ 感觉大多数当前的方法都试图迫使法学硕士担任他们没有真正接受过培训的角色。 很想听听人们如何考虑这种权衡。   由   提交/u/JayPatel24_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sbbdqw/llms_at_the_edges_vs_middle/</guid>
+      <pubDate>Fri, 03 Apr 2026 11:49:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化长格式音频：经济实惠的 TTS API，每个请求可处理 30k 个字符</title>
+      <link>https://www.reddit.com/r/automation/comments/1sb9zv2/automating_longform_audio_an_affordable_tts_api/</link>
+      <description><![CDATA[大家好， 我是 Tontaube AI 的联合创始人，这是一家小型的、自力更生的 TTS 初创公司。我们刚刚发布了我们构建的 TTS 模型的 API，我认为它可能对此子真正有用，因为它是专门为长格式内容设计的。 不需要分块：您可以在单个 API 调用中发送最多 30,000 个字符。只需几分钟即可生成约 30 分钟的音频文件。  扩展成本低：每 100 万个字符成本为 5 美元。  实时流：如果您正在构建语音代理，我们还有一个低延迟流端点，首个音频时间约为 200 毫秒（如果您想访问此内容，请联系我们，目前正在请求中）。 当您注册测试时，您可以免费获得 200k 个字符。  由于我们自己构建了模型和基础设施，因此我们实际上可以在问题出现问题时进行修复或添加您可能需要的功能。如果您最终将其插入到您的脚本或工作流程中，请告诉我们您是否感兴趣，我真诚地希望听到您的诚实反馈。   由   提交/u/EAVDR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sb9zv2/automating_longform_audio_an_affordable_tts_api/</guid>
+      <pubDate>Fri, 03 Apr 2026 10:36:32 GMT</pubDate>
     </item>
     <item>
       <title>需要 Beta 测试人员 - LinkedIn 自动化工具</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[菜鸟。还在学习我的方法。我正在开发一个项目，该项目需要提取 100 多个满足一组特定标准的职位发布，并分析需求如何随着时间的推移而变化。我知道有付费服务可以做到这一点，但对于个人研究来说太昂贵了。我现在正在手动执行此操作 - 将招聘信息从确实复制并发布到文档中，然后使用法学硕士帮助我将其分类为工具和技能。我想知道是否有低成本/无成本的选项可以帮助我避免手动复制和粘贴。提前致谢。    由   提交 /u/Tough-Ninja5995   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1saq8sv/automation_or_tool_to_scrape_job_postings_meeting/</guid>
       <pubDate>Thu, 02 Apr 2026 18:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里不存在自动票证路由，所以今天早上我手动排序了 47 个请求</title>
-      <link>https://www.reddit.com/r/automation/comments/1sapqt5/automated_ticket_routing_doesnt_exist_here_so_i/</link>
-      <description><![CDATA[收到 47 个夜间请求，全部转储到一般 IT 队列中。仔细检查每一项，找出哪些涉及网络，哪些涉及安全，哪些涉及桌面支持。我花了几个小时。这种事每天都会发生。我们已经将其他所有事情都实现了自动化，但我仍然像 2015 年一样手动完成此操作。具体如何实现自动化？   由   提交 /u/FrameOver9095   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sapqt5/automated_ticket_routing_doesnt_exist_here_so_i/</guid>
-      <pubDate>Thu, 02 Apr 2026 18:36:24 GMT</pubDate>
     </item>
     <item>
       <title>如何安全地测试自动化</title>

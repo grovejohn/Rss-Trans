@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 03 Apr 2026 09:43:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 12:35:50 GMT</lastBuildDate>
+    <item>
+      <title>光标3</title>
+      <link>https://www.producthunt.com/products/cursor-3</link>
+      <description><![CDATA[
+            并行本地/云代理和 MCP 的统一工作空间
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cursor-3</guid>
+      <pubDate>Thu, 02 Apr 2026 19:32:39 GMT</pubDate>
+    </item>
     <item>
       <title>EmDash CMS</title>
       <link>https://www.producthunt.com/products/emdash-cms</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/emdash-cms</guid>
       <pubDate>Thu, 02 Apr 2026 19:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>CarPlay 上的 ChatGPT</title>
-      <link>https://www.producthunt.com/products/openai</link>
-      <description><![CDATA[
-            CarPlay 中的 ChatGPT 语音可实现随时随地的免提驾驶人工智能
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/openai</guid>
-      <pubDate>Thu, 02 Apr 2026 17:20:43 GMT</pubDate>
     </item>
     <item>
       <title>谷歌视频2.0</title>
@@ -62,6 +62,20 @@
       <pubDate>Thu, 02 Apr 2026 16:44:30 GMT</pubDate>
     </item>
     <item>
+      <title>达什拉</title>
+      <link>https://www.producthunt.com/products/dashla-dashboard-for-tesla</link>
+      <description><![CDATA[
+            Tesla 车辆状态、导航、地图以及仪表板中的更多内容
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dashla-dashboard-for-tesla</guid>
+      <pubDate>Thu, 02 Apr 2026 16:22:07 GMT</pubDate>
+    </item>
+    <item>
       <title>谷歌杰玛 4</title>
       <link>https://www.producthunt.com/products/google-gemma</link>
       <description><![CDATA[
@@ -90,34 +104,6 @@
       <pubDate>Thu, 02 Apr 2026 12:54:29 GMT</pubDate>
     </item>
     <item>
-      <title>Qwen3.6-Plus</title>
-      <link>https://www.producthunt.com/products/qwen3</link>
-      <description><![CDATA[
-            针对现实世界的编码代理优化的多模式人工智能
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/qwen3</guid>
-      <pubDate>Thu, 02 Apr 2026 12:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>包友</title>
-      <link>https://www.producthunt.com/products/package-mate-open-source-cli-for-macos</link>
-      <description><![CDATA[
-            从终端掌握 macOS 开发环境
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/package-mate-open-source-cli-for-macos</guid>
-      <pubDate>Thu, 02 Apr 2026 11:15:50 GMT</pubDate>
-    </item>
-    <item>
       <title>侧面提醒</title>
       <link>https://www.producthunt.com/products/side-reminder</link>
       <description><![CDATA[
@@ -132,20 +118,6 @@
       <pubDate>Thu, 02 Apr 2026 10:32:11 GMT</pubDate>
     </item>
     <item>
-      <title>模切</title>
-      <link>https://www.producthunt.com/products/stampcut</link>
-      <description><![CDATA[
-            为你周围的世界留下印记！
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/stampcut</guid>
-      <pubDate>Thu, 02 Apr 2026 08:38:21 GMT</pubDate>
-    </item>
-    <item>
       <title>拍打窗户</title>
       <link>https://www.producthunt.com/products/slapwindows</link>
       <description><![CDATA[
@@ -158,6 +130,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/slapwindows</guid>
       <pubDate>Thu, 02 Apr 2026 07:31:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>幻灯片2视频</title>
+      <link>https://www.producthunt.com/products/slide2video-2</link>
+      <description><![CDATA[
+            将幻灯片变成带旁白的视频
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/slide2video-2</guid>
+      <pubDate>Thu, 02 Apr 2026 01:29:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>鸭子，鸭子，鸭子！通过艾迪欧</title>
+      <link>https://www.producthunt.com/products/duck-duck-duck-by-ideo</link>
+      <description><![CDATA[
+            克劳德代码的固执己见的机器人橡皮鸭
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/duck-duck-duck-by-ideo</guid>
+      <pubDate>Wed, 01 Apr 2026 18:07:39 GMT</pubDate>
     </item>
     <item>
       <title>语音操作系统</title>
@@ -202,18 +202,18 @@
       <pubDate>Fri, 27 Mar 2026 16:16:17 GMT</pubDate>
     </item>
     <item>
-      <title>生成PPT</title>
-      <link>https://www.producthunt.com/products/generateppt</link>
+      <title>升华</title>
+      <link>https://www.producthunt.com/products/sublime-4</link>
       <description><![CDATA[
-            立即生成简单、设计前沿的幻灯片
+            人工智能为您做出现实世界的承诺
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/generateppt</guid>
-      <pubDate>Mon, 26 Jan 2026 06:44:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sublime-4</guid>
+      <pubDate>Wed, 04 Feb 2026 16:44:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
