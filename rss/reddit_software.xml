@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 05 Apr 2026 01:12:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 05:07:11 GMT</lastBuildDate>
+    <item>
+      <title>我如何使用人工智能学习Python？我是核心出身，但需要学习Python技能</title>
+      <link>https://www.reddit.com/r/software/comments/1scu0mh/how_could_i_learn_python_using_ai_im_from_core/</link>
+      <description><![CDATA[我是来自核心背景的二年级女生。我想用人工智能学习Python。比如，我不想学习传统的方式，而是想学习如何使用 AI 工具在 python 中编码来生成简单的数学模型。  建议一些播放列表和其他学习资源！   由   提交 /u/ClearEntrepreneur925   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1scu0mh/how_could_i_learn_python_using_ai_im_from_core/</guid>
+      <pubDate>Sun, 05 Apr 2026 04:18:41 GMT</pubDate>
+    </item>
     <item>
       <title>我最终构建了我希望已经存在的 Windows 播放器</title>
       <link>https://www.reddit.com/r/software/comments/1scp844/i_ended_up_building_the_windows_player_i_wish/</link>
@@ -20,16 +27,9 @@
       <pubDate>Sat, 04 Apr 2026 23:51:28 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年优化 PC 并提高其性能的 7 款热门应用</title>
-      <link>https://www.reddit.com/r/software/comments/1scnugf/top_7_apps_para_optimizar_tu_pc_y_mejorar_su/</link>
-      <description><![CDATA[社区大家好👋， 如果您的电脑最近变得很慢，那么您并不孤单。即使是现代设备也可能需要一点推动才能保持最佳性能。在这里，我分享 **7 个基本应用程序**，帮助提高计算机的工作、游戏或日常任务性能：  **CCleaner** – 清理临时文件并优化注册表。  **高级 SystemCare** – 一体化：系统清理、保护和加速。  **IObit Uninstaller** – 删除拖慢电脑速度的应用程序和碎片。  **Wise Memory Optimizer** – 释放 RAM 并提高多任务处理性能。  **Glary Utilities** – 完整的维护和隐私工具。  **Razer Cortex** – 非常适合想要最大化 FPS 的游戏玩家。  **AVG TuneUp** – 自动优化和智能更新。  💡 **额外提示：**保持系统最新并检查启动程序以加快启动速度。定期清理临时文件和浏览器缓存也很有用。 如果您想要**更详细的指南**，包含完整的步骤和使用说明，一些用户发现查阅如下资源很有用： [2026 年优化 PC 的应用程序完整指南](http://trucostech.net/mejores-apps-rendimiento-pc-2026)  我希望这可以帮助您保持 PC 快速高效！如果有人尝试这些应用程序，我很乐意在评论中阅读您的体验。 🔧💻   由   提交  [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1scnugf/top_7_apps_para_optimizar_tu_pc_y_mejorar_su/</guid>
-      <pubDate>Sat, 04 Apr 2026 23:18:37 GMT</pubDate>
-    </item>
-    <item>
       <title>我刚刚完成了一个新的实时摄像头，适用于 Windows 的快速实时过滤应用程序。做各种有趣、好玩的事情。与流行软件（zoom、teams 等*和* OBS）无缝协作。寻找任何反馈。</title>
       <link>https://www.reddit.com/r/software/comments/1scmsqy/ive_just_finished_a_new_live_cam_fast_realtime/</link>
-      <description><![CDATA[我希望可以发布此内容。我不是在发垃圾邮件，只是在寻找有关我正在开发的新应用程序的反馈。 正如标题所示，我刚刚完成了一个新的实时摄像头，适用于 Windows 的快速实时过滤应用程序。现在你可以做各种有趣、好玩的事情了。寻找任何反馈。我已经建立了一个工作网站：Perfunction.com。该应用程序会自动检测您的 GTX 或 RTX 卡的速度，但如果您没有 GPU，则只能在您的 CPU 上运行（速度会有点慢）。  我最初开发这个应用程序是因为我对每天长达数小时的电话会议感到非常无聊和不满意，而且我的房间有点暗。但是，我无法让变焦等变得更好......当然，我可以模糊我的背景并使其更亮一点，但这就是变焦或其他什么，它看起来颗粒状且仍然很差。我还想学习如何进行快速手势跟踪和 AI 分割，因此我认为使用网络摄像头（和显微镜摄像头）将是一项有趣的锻炼。 GUI 屏幕截图。 现在，经过几个月的开发，我拥有了用于视频增强的完整 GUI 和软件套件。您可以独立且精细地更改背景的级别（以及所有其他内容、色彩平衡等）和实时分段配置文件（手、手指、头、脸），以从大多数网络摄像头获得最佳的“工作室外观”，即使在光线较差或奇怪的环境中也是如此。 自定义过滤器： 此外，我现在已经将其设置好，以便您可以编写和注入（立即，无需应用程序）重新启动！）您自己的自定义过滤器。“过滤器”只是简单的 python *.py 文件，其中包含一个 json 来存储您想要的任何参数。您可以获得我编译到主应用程序中的所有快速 GPU 数学库，例如ONNX、CUDNN、mediapipe 等等。  我制作了几个有趣的示例过滤器脚本，您可以使用它们并根据自己的需要进行定制。制作您自己的滤镜效果、跟踪对象、检测对象...做您想做的任何事情！ 好吧，查看该网站，我认为这对人们来说会很有趣且有用。 对于企业，您现在可以贴上您自己的粘性徽标，或者您想要的任何其他内容来打造自己的品牌。 我将在下周晚些时候发布 Beta 试用版。我计划对具有详细成像控制的基本版本收取适量的 1 年许可证费用（可能是 9.95），对完整版本收取 18.95 费用，您可以在其中创建和保存/共享自己的滤镜。我还将有一个小型企业版和专业版（价格待定），可以同时输入 2 个或更多摄像机/信号，并进行基本的画中画及相关操作。我还将设计一个科学版本，并与我用于显微镜检查的工业/科学和硬核成像相机兼容。  希望我能在这里得到一些反馈。你会以名义价格购买它吗？ “试用”版本将免费提供 30 天，但会有不可删除的水印。提前致谢，并再次查看我简单的 PerFunction.com 网站。 注意：我正在考虑为前 50 名注册的“测试人员”提供一整年的免费时间（无水印），作为测试应用程序的补偿。   由   提交/u/tcdoey  [链接] [评论]]]></description>
+      <description><![CDATA[我希望可以发布此内容。我不是在发垃圾邮件，只是在寻找有关我正在开发的新应用程序的反馈。 正如标题所示，我刚刚完成了一个新的实时摄像头，适用于 Windows 的快速实时过滤应用程序。现在你可以做各种有趣、好玩的事情了。寻找任何反馈。我已经建立了一个工作网站：Perfunct.com。该应用程序会自动检测您的 GTX 或 RTX 卡的速度，但如果您没有 GPU，则只能在您的 CPU 上运行（速度会有点慢）。  我最初开发这个应用程序是因为我对每天长达数小时的电话会议感到非常无聊和不满意，而且我的房间有点暗。但是，我无法让变焦等变得更好......当然，我可以模糊我的背景并使其更亮一点，但这就是变焦或其他什么，它看起来颗粒状且仍然很差。我还想学习如何进行快速手势跟踪和 AI 分割，因此我认为使用网络摄像头（和显微镜摄像头）将是一项有趣的锻炼。 GUI 屏幕截图。 现在，经过几个月的开发，我拥有了用于视频增强的完整 GUI 和软件套件。您可以独立且精细地更改背景的级别（以及所有其他内容、色彩平衡等）和实时分段配置文件（手、手指、头、脸），以从大多数网络摄像头获得最佳的“工作室外观”，即使在光线较差或奇怪的环境中也是如此。 自定义过滤器： 此外，我现在已经将其设置好，以便您可以编写和注入（立即，无需应用程序）重新启动！）您自己的自定义过滤器。“过滤器”只是简单的 python *.py 文件，其中包含一个 json 来存储您想要的任何参数。您可以获得我编译到主应用程序中的所有快速 GPU 数学库，例如ONNX、CUDNN、mediapipe 等等。  我制作了几个有趣的示例过滤器脚本，您可以使用它们并根据自己的需要进行定制。制作您自己的滤镜效果、跟踪对象、检测对象...做您想做的任何事情！ 好吧，查看该网站，我认为这对人们来说会很有趣且有用。 对于企业，您现在可以贴上您自己的粘性徽标，或者您想要的任何其他内容来打造自己的品牌。 我将在下周晚些时候发布 Beta 试用版。我计划对具有详细成像控制的基本版本收取适量的 1 年许可证费用（可能是 9.95），对完整版本收取 18.95 费用，您可以在其中创建和保存/共享自己的滤镜。我还将有一个小型企业版和专业版（价格待定），可以同时输入 2 个或更多摄像机/信号，并进行基本的画中画及相关操作。我还将设计一个科学版本，并与我用于显微镜检查的工业/科学和硬核成像相机兼容。  希望我能在这里得到一些反馈。你会以名义价格购买它吗？ “试用”版本将免费提供 30 天，但会有不可删除的水印。提前致谢，并再次查看我简单的 PerFunction.com 网站。 注意：我正在考虑为前 50 名注册的“测试人员”提供一整年的免费时间（无水印），作为测试应用程序的补偿。   由   提交/u/tcdoey  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1scmsqy/ive_just_finished_a_new_live_cam_fast_realtime/</guid>
       <pubDate>Sat, 04 Apr 2026 22:32:52 GMT</pubDate>
     </item>
