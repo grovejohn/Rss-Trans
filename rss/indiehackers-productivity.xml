@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sun, 05 Apr 2026 21:23:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 01:14:24 GMT</lastBuildDate>
     <item>
       <title>我花了几周时间构建一个食物决策工具，而不是一些有用的东西</title>
       <link>https://feed.indiehackers.world/post/deec2ef1f5</link>
@@ -39,19 +39,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/53db8107c1</guid>
       <pubDate>Tue, 24 Mar 2026 09:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买企业之前要问的 50 个问题</title>
-      <link>https://feed.indiehackers.world/post/dbc52731a7</link>
-      <description><![CDATA[是否有某个月份导致年度数据出现偏差？发生了什么？
-您的客户平均会停留多长时间？是什么让他们留在那里？
-是否有客户每年预付费？这些续订何时进行？
-退款率是多少？过去六个月内有变化吗？退款的增加通常会在客户流失导致您死亡之前出现。
-上个月的收入有多少来自营销支出与有机支出？
-业务是否存在季节性以及它是什么样的？这不是一个危险信号。考试准备应用程序显然会在学术周期内激增。重要的是卖家是否了解这种模式并有效地利用淡季。比如在淡季推出功能、建立合作伙伴关系或为下一个周期规划活动等。季节性及其背后的策略很好。让卖家措手不及的季节性并非如此。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/dbc52731a7</guid>
-      <pubDate>Mon, 23 Mar 2026 17:28:26 GMT</pubDate>
     </item>
     <item>
       <title>我以为我的生产力有问题。事实证明，我遇到了清晰度问题。</title>
@@ -218,6 +205,35 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/5f69d4e254</guid>
       <pubDate>Sat, 31 Jan 2026 07:42:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我构建了一个小任务工具平台而不是另一个“大应用程序”</title>
+      <link>https://feed.indiehackers.world/post/19b4ff4699</link>
+      <description><![CDATA[嘿嘿👋
+当今大多数软件都是为长期使用而设计的。
+仪表板、登录、入职流程、通知……
+但我们实际上在网上所做的很多事情都不是长期的。
+很小。
+调整图像大小。
+合并 PDF。
+检查元标记。
+转换文件。
+每个任务需要几秒钟的时间 - 但其周围的开销通常需要几分钟。
+所以我开始注意到一些奇怪的事情：
+工具很小。
+围绕它的应用程序非常庞大。
+这就是我构建 AllInOneTools 的原因 - 不是作为“生产力套件”或 SaaS 平台，而是作为基于浏览器的实用程序的集合，旨在完成以下任务：
+打开→执行→关闭→忘记
+没有安装。
+没有账户。
+没有“稍后回来”的电子邮件。
+无残留。
+&lt;小时/&gt;
+挑战
+大多数在线工具都针对保留进行了优化。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/19b4ff4699</guid>
+      <pubDate>Sat, 31 Jan 2026 04:19:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
