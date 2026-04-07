@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 Apr 2026 21:30:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:11:12 GMT</lastBuildDate>
     <item>
       <title>本地优先的学习应用程序需要反馈，包括笔记、思维导图等</title>
       <link>https://www.reddit.com/r/opensource/comments/1seagxm/feedback_wanted_for_localfirst_study_app_with/</link>
-      <description><![CDATA[嘿， 我已经断断续续地致力于这个项目好几年了。重新启动了多次，直到我得到了一个真正可以承受的架构。 这是一个本地优先的学习应用程序，具有：  基于块的笔记编辑器（类似于概念） 思维导图模块 本地运行的人工智能系统（带有模型路由、工具等）  它仍然是非常alpha，有bug、用户体验不一致以及尚不存在的东西。 也就是说，它现在足够稳定，我自己实际上用它来学习（主要是笔记+思维导图），这感觉是向其他人展示它的一个好点。 我发布这个主要是因为我希望人们尝试它并打破一些东西。 Bug、糟糕的用户体验、奇怪的边缘情况，所有这些都是有用的。 网站（如果您想要快速概述）：https://mnemo.one 存储库/版本：https://github.com/ShadowCCS/MnemoApp/releases/tag/v.0.5.0 没有期望，只是好奇其他人的想法或遇到的情况。   由   提交 /u/CCVShadow   [链接] [评论]]]></description>
+      <description><![CDATA[嘿， 我已经断断续续地致力于这个项目好几年了。重新启动了多次，直到我得到了一个真正可以承受的架构。 这是一个本地优先的学习应用程序，具有：  基于块的笔记编辑器（类似于概念） 思维导图模块 本地运行的人工智能系统（带有模型路由、工具等）  它仍然是非常alpha，有bug、用户体验不一致以及尚不存在的东西。 也就是说，它现在足够稳定，我自己实际上用它来学习（主要是笔记+思维导图），这感觉是向其他人展示它的一个好点。 我发布这个主要是因为我希望人们尝试它并打破一些东西。 Bug、糟糕的用户体验、奇怪的边缘情况，所有这些都是有用的。 网站（如果您想要快速概述）：https://mnemo.one 存储库/版本：https://github.com/onemnemo/mnemo/releases/tag/v.0.5.0 没有期望，只是好奇别人的想法或遇到的情况。   由   提交 /u/CCVShadow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1seagxm/feedback_wanted_for_localfirst_study_app_with/</guid>
       <pubDate>Mon, 06 Apr 2026 20:25:15 GMT</pubDate>
     </item>

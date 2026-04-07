@@ -4,20 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Mon, 06 Apr 2026 21:27:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:08:50 GMT</lastBuildDate>
+    <item>
+      <title>CodeGraphContext - 将代码库转换为图形数据库的 MCP 服务器</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1seepy8/codegraphcontext_an_mcp_server_that_converts_your/</link>
+      <description><![CDATA[CodeGraphContext - 图形代码索引的首选解决方案🎉🎉... 它是一个 MCP 服务器，它将代码库理解为图形，而不是文本块。现在的发展远远超出了我的预期 - 无论是在技术上还是在采用方面。 现在的情况  v0.4.0 发布 ~3k GitHub star，500+ 分支 50k+ 下载 75+ 贡献者，约 250成员社区 被许多构建 MCP 工具、代理和 IDE 工作流程的开发人员使用和赞扬 扩展到 15 种不同的编码语言  它的实际用途 CodeGraphContext 将存储库索引到存储库范围的符号级图表：文件、函数、类、调用、导入、继承和服务通过 MCP 为 AI 工具提供精确、关系感知的上下文。 这意味着： - 快速“谁调用什么”、“谁继承什么”等查询 - 最少的上下文（无令牌垃圾邮件） - 随着代码更改实时更新 - 图形存储保持在MB，而不是 GB 它是代码理解的基础设施，不仅仅是“grep”搜索。 生态系统采用 它现在已列出或用于：PulseMCP、MCPMarket、MCPHunt、Awesome MCP Servers、Glama、Skywork、Playbooks、Stacker News 等等。  Python 包→ https://pypi.org/project/codegraphcontext/ 网站 + 食谱 → https://codegraphcontext.vercel.app/ GitHub 存储库 → https://github.com/CodeGraphContext/CodeGraphContext 文档 → https://codegraphcontext.github.io/ 我们的 Discord 服务器 → https://discord.gg/dR4QY32uYQ   这不是 VS Code 技巧或 RAG 包装器 - 它旨在 作为共享基础设施位于大型存储库和人类/AI 系统之间。 很高兴听到反馈、怀疑、比较，或者来自构建 MCP 服务器或开发工具的人员的想法。 原始帖子（上下文）： https://www.reddit.com/r/mcp/comments/1o22gc5/i_built_codegraphcontext_an_mcp_server_that/   由   提交/u/Desperate-Ad-9679   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1seepy8/codegraphcontext_an_mcp_server_that_converts_your/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>华盛顿发生了什么事？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1see4oh/whats_going_on_in_dc/</link>
+      <description><![CDATA[Anthropic 发布了新数据，显示不同州的人工智能使用情况。  正如您所料，沿海国家使用人工智能工具的次数比美国中部要多得多。马萨诸塞州（1.61x）、华盛顿州（1.58x）、纽约州（1.57x）和加利福尼亚州（1.55x）等传统强国都是人工智能用户最多的地区。出于某种原因，D.C. 以 4.31 倍的速度把所有人都打得落花流水。很高兴看到山区州科罗拉多州 (1.49x)、犹他州 (1.26x) 和怀俄明州 (1.16x) 进入前 10 名。    由   提交 /u/JohnFromLeland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1see4oh/whats_going_on_in_dc/</guid>
+      <pubDate>Mon, 06 Apr 2026 22:43:54 GMT</pubDate>
+    </item>
     <item>
       <title>正在用 Google 搜索某些内容，结果发生了这种情况</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1se7xlb/was_searching_something_in_google_and_this/</link>
       <description><![CDATA[ 由   提交/u/leon_nerd  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1se7xlb/was_searching_something_in_google_and_this/</guid>
       <pubDate>Mon, 06 Apr 2026 18:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪一个 llm 甚至不需要越狱而且实际上很好？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1se7kor/which_is_that_one_llm_that_does_not_even_need_a/</link>
-      <description><![CDATA[本质上是在寻找未经审查的法学硕士，这实际上很好......对于没有护栏的法学硕士（如海豚）。有没有更好的东西，我一直在寻找。您还可以提炼一个较大的模型来制作一个可以实际聆听的较小模型吗？我目前正在使用 claude cowork 来解决这个问题，但每隔几个提示我就会被护栏挡住。你们有什么意见或建议吗？    由   提交 /u/redditforeveryon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1se7kor/which_is_that_one_llm_that_does_not_even_need_a/</guid>
-      <pubDate>Mon, 06 Apr 2026 18:43:03 GMT</pubDate>
     </item>
     <item>
       <title>将 PII 过滤视为检索时间步骤而不是 RAG 中的摄取约束是否错误？</title>
@@ -34,18 +41,18 @@
       <pubDate>Mon, 06 Apr 2026 16:53:10 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能似乎无处不在，人们可以合理地假设它正在推动经济增长。但该技术的回报还有待观察。自 2022 年 ChatGPT 推出以来，TFP（全要素生产率）年均增长率仅为 1.11%。低于 1.23% 的历史平均水平。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1se3lzy/ai_is_seemingly_ubiquitous_and_one_could/</link>
-      <description><![CDATA[ 由   提交/u/Post-reality  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1se3lzy/ai_is_seemingly_ubiquitous_and_one_could/</guid>
-      <pubDate>Mon, 06 Apr 2026 16:22:53 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能和“体验蔓延”如何让应届毕业生更难找到工作</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1se2hao/how_ai_and_experience_creep_are_making_it_harder/</link>
       <description><![CDATA[Laura Ullrich 对正在寻找工作的大学毕业生表示同情。招聘网站 Indeed 的经济研究总监对这种斗争深有体会。她的儿子是一名数据科学家，今年即将获得硕士学位。 “因为我所做的工作，他的很多朋友的父母和朋友都向我寻求帮助，”她说。 “但现在的情况很残酷。”去年底，对于 22 岁至 27 岁的应届大学毕业生来说，劳动力市场恶化了。根据纽约联储的数据，2025 年第四季度失业率攀升至约 5.7%，较前几个月有所上升，高于所有工人 4.2% 的失业率和各年龄段大学毕业生 3.1% 的失业率。  像乌尔里希的儿子这样关注科技领域的毕业生还面临着一个额外的障碍：乌尔里希称之为“经验蔓延”的现象，即雇主为了寻求更高水平的经验而牺牲了早期职业专业人员的机会。  了解更多：https://fortune.com/2026/04/03/experience-creep-jobs-ai-entry-level/   由   提交/u/fortune  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1se2hao/how_ai_and_experience_creep_are_making_it_harder/</guid>
       <pubDate>Mon, 06 Apr 2026 15:42:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 DeepMind 绘制了六类“人工智能代理陷阱”，这些陷阱将自主代理武器化以攻击自己的用户</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1se2h52/google_deepmind_maps_six_categories_of_ai_agent/</link>
+      <description><![CDATA[Google DeepMind 研究人员发布了第一个关于恶意网络内容如何操纵自主 AI 代理的系统框架。  该论文确定了六种“陷阱”类别 - 从劫持代理感知的隐藏 HTML 指令到可能触发数千个交易机器人同步崩溃的系统性攻击。   由   提交/u/alvivanco1  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1se2h52/google_deepmind_maps_six_categories_of_ai_agent/</guid>
+      <pubDate>Mon, 06 Apr 2026 15:42:21 GMT</pubDate>
     </item>
     <item>
       <title>我的业务中最赚钱的人工智能不会生成图像或编写代码。它检查条纹并发布到松弛。</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[不是精英级专业知识，也不是完全的初学者。我指的是巨大的中间地带，足够坚实，曾经具有真正的市场价值：写作、研究、设计、编码、分析、编辑、规划等。感觉人工智能可能比人们愿意承认的更快地压缩中间地带的价值。   由   提交/u/ArmPersonal36  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sdtzzg/is_ai_quietly_killing_the_value_of_being_pretty/</guid>
       <pubDate>Mon, 06 Apr 2026 09:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子座的幻觉太多了</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sdnfs3/gemini_is_hallucinating_too_much/</link>
-      <description><![CDATA[与其他型号相比，我是 Gemini 的狂热用户。我有 Google AI 专业计划。 但最近，我观察到。这也太产生幻觉了吧当我问有关“主题A”的问题时。它回答了关于“主题B”的问题。 （我几天前就问过）。这很奇怪，有时会浪费我的时间。 我的 AI 聊天时间变得更长，但这不应该是原因。因为，它甚至不记得最后 3 条消息。 这也发生在较新的聊天窗口上。    由   提交 /u/One_Scarcity_8371   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sdnfs3/gemini_is_hallucinating_too_much/</guid>
-      <pubDate>Mon, 06 Apr 2026 03:13:50 GMT</pubDate>
     </item>
     <item>
       <title>微软表示 Copilot 仅用于娱乐目的，并非严肃用途——该公司大力向消费者和企业推广人工智能，告诉用户不要依赖它来获取重要建议</title>

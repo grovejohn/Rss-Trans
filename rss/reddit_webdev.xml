@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 06 Apr 2026 21:29:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 01:11:05 GMT</lastBuildDate>
+    <item>
+      <title>CodeGraphContext - 将代码库转换为图形数据库的 MCP 服务器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1seemtd/codegraphcontext_an_mcp_server_that_converts_your/</link>
+      <description><![CDATA[      CodeGraphContext - 图形代码索引的首选解决方案🎉🎉... 它是一个 MCP 服务器，它将代码库理解为图形，而不是文本块。现在的发展远远超出了我的预期 - 无论是在技术上还是在采用方面。 现在的情况  v0.4.0 发布 ~3k GitHub star，500+ 分支 50k+ 下载 75+ 贡献者，约 250成员社区 被许多构建 MCP 工具、代理和 IDE 工作流程的开发人员使用和赞扬 扩展到 15 种不同的编码语言  它的实际用途 CodeGraphContext 将存储库索引到存储库范围的符号级图表：文件、函数、类、调用、导入、继承和服务通过 MCP 为 AI 工具提供精确、关系感知的上下文。 这意味着： - 快速“谁调用什么”、“谁继承什么”等查询 - 最少的上下文（无令牌垃圾邮件） - 随着代码更改实时更新 - 图形存储保持在MB，而不是 GB 它是代码理解的基础设施，不仅仅是“grep”搜索。 生态系统采用 它现在已列出或用于：PulseMCP、MCPMarket、MCPHunt、Awesome MCP Servers、Glama、Skywork、Playbooks、Stacker News 等等。  Python 包→ https://pypi.org/project/codegraphcontext/ 网站 + 食谱 → https://codegraphcontext.vercel.app/ GitHub 存储库 → https://github.com/CodeGraphContext/CodeGraphContext 文档 → https://codegraphcontext.github.io/ 我们的 Discord 服务器 → https://discord.gg/dR4QY32uYQ   这不是 VS Code 技巧或 RAG 包装器 - 它旨在 作为共享基础设施位于大型存储库和人类/AI 系统之间。 很高兴听到反馈、怀疑、比较，或者来自构建 MCP 服务器或开发工具的人员的想法。 原始帖子（上下文）： https://www.reddit.com/r/mcp/comments/1o22gc5/i_built_codegraphcontext_an_mcp_server_that/   由   提交/u/Desperate-Ad-9679   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1seemtd/codegraphcontext_an_mcp_server_that_converts_your/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源了一个我已经完善了几个月的深色 UI 设计系统（CSS + HTML，易于修改）。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sedf5a/opensourced_a_dark_ui_design_system_ive_been/</link>
+      <description><![CDATA[   一遍又一遍地重建相同的 UI 模式后，我终于将所有内容都纳入可重用的样式指南中。 没有 React、Bootstrap 或 Tailwind。只是自定义 CSS。 想要一些轻量级且完全可控的数据密集型 UI。 它倾向于： • 深色/终端美学 • 软渐变 + 分层框 • 用于密集信息的可读排版 目标是：看起来很现代，但仍然只是您可以实际控制的简单 CSS。 没有框架，没有构建步骤：只需将其放入即可。 实时： https://preceptress.github.io/preceptress-style-guide/ 仓库：https://github.com/preceptress/preceptress-style-guide 我将此工具包用于 UI我所有的 Flask、数据库应用程序。效果很好。   由   提交/u/ejpusa  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sedf5a/opensourced_a_dark_ui_design_system_ive_been/</guid>
+      <pubDate>Mon, 06 Apr 2026 22:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>请求作品集审查:)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sed5eq/asking_for_portfolio_review/</link>
+      <description><![CDATA[部署于：gigalab.tech 源代码  提前致谢   由   提交/u/_gigalab_  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sed5eq/asking_for_portfolio_review/</guid>
+      <pubDate>Mon, 06 Apr 2026 22:05:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在安全工具中关联不同来源的数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sec7uz/how_do_you_approach_correlating_data_from/</link>
+      <description><![CDATA[我一直在构建一个 Python CLI 工具，它采用域或 GitHub 存储库并从 DNS、HTTP 标头和 GitHub API 中提取数据，然后尝试将所有内容连接到关系图中以绘制出攻击面。 收集部分进展顺利，但我一直在如何构建相关层上来回讨论。现在我使用有向图，其中节点是实体（IP、子域、存储库、提交），边是它们之间的关系。然后，评分引擎会遍历图表并评估总体风险。 我的问题是针对从事类似工作的任何人：图表方法在这里有意义还是对于这种工具来说太过分了？我也很难弄清楚如何根据连接的深度来衡量分数（例如链接到实时端点的存储库中泄漏的密钥应该比孤立的发现得分更高）。最终专门使用了克劳德代码来完成该部分。 如果有人想了解其结构或在方法中找出漏洞，我很乐意分享该存储库。仍在迭代。   由   提交/u/Legendary_Nubb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sec7uz/how_do_you_approach_correlating_data_from/</guid>
+      <pubDate>Mon, 06 Apr 2026 21:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>我讨厌人工智能，我很沮丧</title>
       <link>https://www.reddit.com/r/webdev/comments/1sebw8s/i_hate_ai_and_i_am_depressed/</link>
@@ -25,13 +53,6 @@
       <description><![CDATA[为学术旅行计划构建网站。观众是教师和项目协调员。 我不是开发人员。我一直在使用 Claude 来帮助我思考构建选项，并可以使用它来生成和维护 Astro 代码，但我很诚实地知道，从长远来看这可能是一个坏主意。 考虑到我的技能水平，Framer 似乎是更安全的选择。但如果 Astro 真正为机构受众提供了更可信的结果，我不想不必要地限制自己。 Astro 路线对于单独维护 4-6 页网站的非技术创始人来说是否现实？或者我是否会在出现问题时为自己设置问题？   由   提交/u/Historical_Guess_616   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1sea3p4/astro_or_framer_nontechnical_founder/</guid>
       <pubDate>Mon, 06 Apr 2026 20:12:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Nuclei + Claude API 构建网站安全扫描器 - 以下是管道的工作原理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1se9trs/built_a_website_security_scanner_with_nuclei/</link>
-      <description><![CDATA[多年来一直专业从事网络安全工作 - 管理多个组织的数千个端点的安全性。  有一件事永远不会改变：大多数网站都有相同的基本配置错误，需要 10 分钟才能找到，需要数年时间才能被利用。 构建扫描仪以快速显示它们：websec.paulfregonese.com 免费扫描检查： - SSL/TLS 有效性和配置问题 - 安全标头缺失或配置错误（X-Frame-Options、CSP、HSTS 等） - DNS 配置问题 - 技术堆栈指纹识别 - 您向攻击者暴露的内容 输入域名 + 电子邮件，报告将在 3 分钟内到达您的收件箱。  没有账户，没有信用卡。 付费层级更深： - 15 美元 — 端口扫描、CVE 检测、子域发现、全面 Nuclei 审核 - 149 美元 — 暗网漏洞曝光、OWASP Top 10 映射、GDPR/PCI/SOC2  合规性、30 天修复路线图 - 499 美元以上 — 完整渗透测试，签署 NDA、利用概念验证、90 天重新测试 使用 Nuclei、Claude AI 进行报告分析，使用 Stripe 进行付款。 很高兴回答有关堆栈的问题或任何结果的含义。   由   提交 /u/OakmontClown   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1se9trs/built_a_website_security_scanner_with_nuclei/</guid>
-      <pubDate>Mon, 06 Apr 2026 20:02:17 GMT</pubDate>
     </item>
     <item>
       <title>为什么 Heroku 在明确宣布不再开发功能后又推出新功能？</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[客户审核总是比应有的情况更混乱。您可以临时发布页面、发送屏幕截图或共享管理员访问权限。这些都不好。 我构建了一个小插件，可以为任何草稿生成安全的、过期的链接。客户点击它，即可看到页面，无需 WordPress 帐户。 功能：  从帖子编辑器中一键生成链接 过期选项：24 小时、48 小时、7 天、30 天或自定义 管理面板可管理所有活动链接 与 Gutenberg、Elementor、Divi 配合使用 基于令牌，观众无需登录  免费且在 WordPress.org 上：https://wordpress.org/plugins/okto-shareable-draft-previews/ 如果您以前遇到过此问题并以不同的方式解决它，很好奇如何解决。   由   提交 /u/Mysterious-Crazy-395   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1se2vjd/built_a_free_plugin_to_share_wordpress_draft/</guid>
       <pubDate>Mon, 06 Apr 2026 15:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>外展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1se2p3p/outreaching/</link>
-      <description><![CDATA[我是 19 岁的计算机科学工程师学生。我正在为中小型律师事务所构建一个人工智能代理，它通过真实的对话或聊天收集客户信息、所有案件档案，并在律师第一次致电之前向律师提供有关案件及其客户的良好报告。这很酷，为律师节省了大量时间，他们可以借此扩大公司规模。现在这是特定于民事案件，而不是刑事案件......  我如何寻找这些律师事务所以及我向他们收取多少费用？我应该按月收费还是按转化收费？我需要从中赚很多钱来支持我的学费。    由   提交 /u/Impossible_Fee_6217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1se2p3p/outreaching/</guid>
-      <pubDate>Mon, 06 Apr 2026 15:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>每个人都痴迷于将所有内容存储在 localStorage 中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1se0q22/whats_everyones_obsession_with_storing_everything/</link>
-      <description><![CDATA[别再把 localStorage 当作无底洞了！！  这是我的第三个雇主，我正在处理由 QuotaExceededError（DOM 异常 22）引起的生产中断，令人难以置信的是，这是可以避免的。开发人员不断挖掘这个坟墓，因为他们将客户端存储视为免费的房地产。事实并非如此。这是一个严格有限的资源，大部分内容都被塞在那里，比如用于“图像缓存”的大量 Base64 字符串。或臃肿的分析对象根本不属于那里。 如果您在每次渲染时存储整个 LaunchDarkly 对象或在 localStorage 中堆积 Snowplow 事件，那么您正在构建一个定时炸弹。它不是“免费”的。只是因为方便。为了懒惰的架构，您实际上正在破坏您的应用程序。 今天花一点时间，让您的 AI 代理用 try-catch 块包装您的 setItem ，这样您就不会在达到限制时使整个应用程序崩溃。更好的是，将 SessionStorage 用于不需要比选项卡寿命更长的数据，或者如果您确实需要处理大型数据集，则迁移到 IndexedDB。停止将浏览器视为垃圾场，并开始尊重平台的限制。    由   提交 /u/sjltwo-v10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1se0q22/whats_everyones_obsession_with_storing_everything/</guid>
-      <pubDate>Mon, 06 Apr 2026 14:38:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Figma 至网站：项目 4</title>
-      <link>https://www.reddit.com/r/webdev/comments/1se09is/figma_to_website_project_4/</link>
-      <description><![CDATA[      这次尝试了不同的方法：  使用 shadcn 按钮和基本组件，并根据设计更改进行修改 在功能部分使用 React 组件，而不是使用静态图像  如果有人了解动画和微交互，请知道我应该采取什么方法来做到这一点？ 网站链接：https://100daychallange.vercel.app/day-04 Figma 文件： https://www.figma.com/design/cFCLMj7DFv0sK7EVsqKeTa/Mainline?node-id=23250-13201&amp;t=I1nAdchDpknii5Bd-1 非常感谢任何类型的建议或我下一步应该做什么 © Figma 文件的 shadcn-block    由   提交/u/Mkn0021   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1se09is/figma_to_website_project_4/</guid>
-      <pubDate>Mon, 06 Apr 2026 14:21:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
