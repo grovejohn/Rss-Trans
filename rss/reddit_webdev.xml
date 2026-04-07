@@ -4,20 +4,48 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 07 Apr 2026 01:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 05:03:28 GMT</lastBuildDate>
+    <item>
+      <title>当市场很好的时候我们不需要工会。现在已经不是了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sem9fn/we_didnt_need_a_union_when_the_market_was_great/</link>
+      <description><![CDATA[在我们的大部分职业生涯中，开发人员都过得很好。需求超过供应。公司以六位数的工资、股权、远程工作和免费午餐来争夺我们。现在情况已不再如此。 人工智能编码工具正在以我们没有人预料到的速度迅速扩张。公司正在利用人工智能来证明冻结招聘、裁员和悄悄消除大多数初级职位的合理性。现在的期望是“用更少的钱做更多的事”。没有相应的加薪。在我们的职业生涯中，雇主第一次占据了更强的谈判地位，我们的筹码消失了。 你们中的一些人相信自己永远不会被取代，我为你们感到高兴，但这不是替换。这是关于杠杆作用的。 好莱坞已经打了这场仗并赢得了他们的保护，我们为什么不呢？   由   提交 /u/Nephelophyte   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sem9fn/we_didnt_need_a_union_when_the_market_was_great/</guid>
+      <pubDate>Tue, 07 Apr 2026 04:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>为自己定制了一个网站——寻找一名自由开发者来从事零工。 #纽约</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sell4a/custom_designed_a_site_for_myselfseeking_a/</link>
+      <description><![CDATA[嘿，开发社区。我是纽约的一名 cd/撰稿人，刚刚在 Figma 中为自己设计了一个非常简单/干净但高度创新的作品集网站。  我现在在 SquareSpace，但不确定 SS 是否能够提供我设计的内容，而我需要的是我在屏幕上看到的内容和 Figma 中的内容。  看看是否有任何自由职业者（更喜欢本地人）有兴趣查看并提供报价？ 希望我可以在这里发布此内容。诚然没有阅读规则。 私信我   由   提交 /u/imjustcoreyr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sell4a/custom_designed_a_site_for_myselfseeking_a/</guid>
+      <pubDate>Tue, 07 Apr 2026 04:11:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>努力掌握分布式速率限制。你们真的在生产中编写自定义 Redis Lua 脚本吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sel4u5/struggling_to_grasp_distributed_rate_limiting_do/</link>
+      <description><![CDATA[我已经担任开发人员几年了，主要是让框架和 AWS 为我完成繁重的工作。但我最近试图更深入地研究 API 端项目的系统设计，老实说，我对现实世界中如何实际处理分布式速率限制感到有点困惑，就像事情正在发生巨大变化，就像我睡觉时感觉第二天醒来时没有人见过以前一样。 我了解令牌桶背后的基本数学（例如以稳定的速率添加令牌，如果桶为空则拒绝请求）。但是，当您的分布式系统的负载均衡器后面有 5 个以上的节点时，将令牌计数存储在集中式 Redis 实例中对于竞争条件来说绝对是一场噩梦。  如果两个节点在完全相同的毫秒内收到同一用户的请求，它们都会从 Redis 中读取剩余的 1 个令牌，并且都让请求通过，从而违反了限制。 我读到解决方案是使用 Redis Lua 脚本使读取 + 递减操作原子化。但是，如果每个 API 请求都必须到达集中式 Redis 节点并暂时锁定它才能运行脚本，那么 Redis 是否会立即成为单点故障和大规模延迟瓶颈？ 此外，人们不断提到漏桶架构，但从实现角度来看，这不就是一个基本的 FIFO 队列吗？  我一直在阅读 GitHub System Design Primer，它很好地解释了高级图表，并且我观看了一堆 ByteByteGo 视频。昨天我还偶然发现了 Stripe 如何在 PracHub 上具体实现其速率限制器的真正深入分析，但他们使用本地化边缘缓存的方法对于标准中型公司来说似乎太复杂，无法实际构建和管理。 对于那些正在工作中构建 API 的人来说：您是否真的实现了自定义原子 Redis 锁来进行速率限制？或者您只是使用 API 网关/Nginx 上的开箱即用限制然后就到此为止了吗？我是否过度考虑了有多少公司实际上关心速率限制器中的竞争条件？   由   提交/u/Numerous-Ad1115   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sel4u5/struggling_to_grasp_distributed_rate_limiting_do/</guid>
+      <pubDate>Tue, 07 Apr 2026 03:50:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liquid Web 发生了什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1seij1a/what_happened_to_liquid_web/</link>
+      <description><![CDATA[我们最近将一个网站组迁移回他们 &amp;他们的支持和支持过去几年，专业知识明显减少。  今天，我有一位支持技术人员要求在他们进行诊断之前指定提交票证的域...识别域实际上是打开票证的要求，并且它在票证上显示为“LW 风格”。因为缺乏更好的术语。 自从我们回来以来，这已经不是第一次了，回到 LW 后的几乎每一次互动都像是我在和初级初级人员交谈，如果你对技术堆栈几乎一无所知，他们似乎并不介意以相当公然的方式撒谎。  我们以前和LW在一起的时候，那是一次非常愉快的经历，但是这次……这是另一回事了。   由   提交/u/JadedHomeBrewCoder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1seij1a/what_happened_to_liquid_web/</guid>
+      <pubDate>Tue, 07 Apr 2026 01:50:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CS 选择器的 Javascript 似乎不起作用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sei5o0/javascript_using_cs_selectors_does_not_seem_to/</link>
+      <description><![CDATA[因此将此脚本注入到 https://genius.com/new 中，然后使用“new”页面，然后打开“发行日期、专辑和发行日期”。标签”下拉菜单，按下“今天”按钮似乎没有将日期注入字段 // ==UserScript== // Genius-date // 转录新歌曲时注入今天日期的脚本 // http://tampermonkey.net/ // MIT // 1.0.2 // 一个简单的示例用户脚本 // solomoncyj // https://genius.com/new // none // https://update.greasyfork.org/scripts/556743/genius-date.user.js // u/updateURL https://update.greasyfork.org/scripts/556743/genius-date.meta.js // ==/UserScript== const 月份 = [“一月”、“二月”、“三月”、“四月”、“五月”、“六月”、“ [“七月”、“八月”、“九月”、“十月”、“十一月”、“十二月”]；函数注入() { const Today = new Date(Date.now()); document.querySelector(&#39;input[aria-label=“发布日期”]&#39;).value = Today.getDate() document.querySelector(&#39;input[aria-label=“发布月份”]&#39;).value = Month[today.getMonth()] document.querySelector(&#39;input[aria-label=“发布年份”]&#39;).value = Today.getFullYear() } (function() { &#39;use strict&#39;; let btn = document.createElement(&quot;button&quot;); btn.type = &quot;button&quot;; btn.onclick = () =&gt; {ject() }; const info = document.createTextNode(&quot;Today&quot;); let div = document.querySelector(&quot;.DateInput__Root-sc-9b318b28-0&quot;); div.appendChild(btn); btn.appendChild(info);    由   提交/u/Solomoncjy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sei5o0/javascript_using_cs_selectors_does_not_seem_to/</guid>
+      <pubDate>Tue, 07 Apr 2026 01:34:11 GMT</pubDate>
+    </item>
     <item>
       <title>CodeGraphContext - 将代码库转换为图形数据库的 MCP 服务器</title>
       <link>https://www.reddit.com/r/webdev/comments/1seemtd/codegraphcontext_an_mcp_server_that_converts_your/</link>
       <description><![CDATA[      CodeGraphContext - 图形代码索引的首选解决方案🎉🎉... 它是一个 MCP 服务器，它将代码库理解为图形，而不是文本块。现在的发展远远超出了我的预期 - 无论是在技术上还是在采用方面。 现在的情况  v0.4.0 发布 ~3k GitHub star，500+ 分支 50k+ 下载 75+ 贡献者，约 250成员社区 被许多构建 MCP 工具、代理和 IDE 工作流程的开发人员使用和赞扬 扩展到 15 种不同的编码语言  它的实际用途 CodeGraphContext 将存储库索引到存储库范围的符号级图表：文件、函数、类、调用、导入、继承和服务通过 MCP 为 AI 工具提供精确、关系感知的上下文。 这意味着： - 快速“谁调用什么”、“谁继承什么”等查询 - 最少的上下文（无令牌垃圾邮件） - 随着代码更改实时更新 - 图形存储保持在MB，而不是 GB 它是代码理解的基础设施，不仅仅是“grep”搜索。 生态系统采用 它现在已列出或用于：PulseMCP、MCPMarket、MCPHunt、Awesome MCP Servers、Glama、Skywork、Playbooks、Stacker News 等等。  Python 包→ https://pypi.org/project/codegraphcontext/ 网站 + 食谱 → https://codegraphcontext.vercel.app/ GitHub 存储库 → https://github.com/CodeGraphContext/CodeGraphContext 文档 → https://codegraphcontext.github.io/ 我们的 Discord 服务器 → https://discord.gg/dR4QY32uYQ   这不是 VS Code 技巧或 RAG 包装器 - 它旨在 作为共享基础设施位于大型存储库和人类/AI 系统之间。 很高兴听到反馈、怀疑、比较，或者来自构建 MCP 服务器或开发工具的人员的想法。 原始帖子（上下文）： https://www.reddit.com/r/mcp/comments/1o22gc5/i_built_codegraphcontext_an_mcp_server_that/   由   提交/u/Desperate-Ad-9679   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1seemtd/codegraphcontext_an_mcp_server_that_converts_your/</guid>
       <pubDate>Mon, 06 Apr 2026 23:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源了一个我已经完善了几个月的深色 UI 设计系统（CSS + HTML，易于修改）。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sedf5a/opensourced_a_dark_ui_design_system_ive_been/</link>
-      <description><![CDATA[   一遍又一遍地重建相同的 UI 模式后，我终于将所有内容都纳入可重用的样式指南中。 没有 React、Bootstrap 或 Tailwind。只是自定义 CSS。 想要一些轻量级且完全可控的数据密集型 UI。 它倾向于： • 深色/终端美学 • 软渐变 + 分层框 • 用于密集信息的可读排版 目标是：看起来很现代，但仍然只是您可以实际控制的简单 CSS。 没有框架，没有构建步骤：只需将其放入即可。 实时： https://preceptress.github.io/preceptress-style-guide/ 仓库：https://github.com/preceptress/preceptress-style-guide 我将此工具包用于 UI我所有的 Flask、数据库应用程序。效果很好。   由   提交/u/ejpusa  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sedf5a/opensourced_a_dark_ui_design_system_ive_been/</guid>
-      <pubDate>Mon, 06 Apr 2026 22:15:53 GMT</pubDate>
     </item>
     <item>
       <title>请求作品集审查:)</title>
@@ -62,25 +90,11 @@
       <pubDate>Mon, 06 Apr 2026 18:24:38 GMT</pubDate>
     </item>
     <item>
-      <title>我是唯一一个认为 API 测试工具对于快速检查来说太过分的人吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1se5o88/am_i_the_only_one_who_feels_api_testing_tools_are/</link>
-      <description><![CDATA[也许我想得太多了，但是测试一个简单的 API 总是感觉比应有的要重。 有一半的时间我只是想检查某些内容是否正确返回，但最终我会执行一些对于快速检查来说不必要的设置步骤。 特别是当您在前端/后端工作之间切换时，它会破坏流程。 您会吗？大家只要坚持使用常用的工具来完成所有事情，或者您有更快的方法来动态测试 API 吗？   由   提交/u/alright85  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1se5o88/am_i_the_only_one_who_feels_api_testing_tools_are/</guid>
-      <pubDate>Mon, 06 Apr 2026 17:36:36 GMT</pubDate>
-    </item>
-    <item>
       <title>上个月构建了一个小型内部工具，只是因为我厌倦了每次开始新项目时手动做同样的事情。没什么花哨的，只是处理一些我一直从旧存储库复制粘贴的设置步骤的东西。</title>
       <link>https://www.reddit.com/r/webdev/comments/1se5akv/built_a_tiny_internal_tool_last_month_just/</link>
       <description><![CDATA[可能花了一个周末。如果我说实话，可能有点过度设计了。 奇怪的是，我从这个愚蠢的小脚本中得到的实际用途比我花了几个月的时间完成的一半项目还要多。每次都不假思索地运行。每个项目大约可以为我节省 20 分钟，这听起来不多，但当你定期调整事情时，它会很快增加。 我认为我在零观众压力下为自己构建的东西最终会变得更加诚实。没有功能蠕变，没有试图让它令人印象深刻，只是做我需要的一件事。 还有其他人发现你纯粹为自己构建的工具最终成为最粘的工具吗？   由   提交 /u/Confident_Box_4545   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1se5akv/built_a_tiny_internal_tool_last_month_just/</guid>
       <pubDate>Mon, 06 Apr 2026 17:23:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人尝试过 AI 编码代理的 DESIGN.md 方法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1se59a2/has_anyone_tried_the_designmd_approach_for_ai/</link>
-      <description><![CDATA[有人尝试过在 github 上流行的 DESIGN.md 方法吗？ 基本上，你将一个 markdown 文件放入项目根目录中，该文件描述了你的整个设计系统..颜色、排版、间距、组件样式。然后，当您使用 claude 代码或光标或任何编码代理时，它会读取文件并生成真正匹配您的设计的 ui，而不是默认为通用引导程序外观的东西 已经有一个拥有 16k+ 星的存储库，其中包含从 stripe、vercel、线性、notion、figma 等中提取的预制 DESIGN.md 文件。您只需抓住最接近您想要的文件并将其删除即可 已经使用它两天了，克劳德代码的输出质量差异是显而易见的..特别是对于跨组件的一致间距和颜色标记之类的事情。并不完美，但比在每个提示中描述您的设计要好得多 github.com/VoltAgent/awesome-design-md   由   提交 /u/virtualunc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1se59a2/has_anyone_tried_the_designmd_approach_for_ai/</guid>
-      <pubDate>Mon, 06 Apr 2026 17:22:11 GMT</pubDate>
     </item>
     <item>
       <title>内容管理系统开发人员经验的 10 条法则</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[我是负责我们非营利网站的数字营销人员。我有一个 2 人的小团队负责内容管理，但团队中没有 Web 开发人员。 我希望添加一名专门的 Web 开发人员。但我正在比较 Drupal 系统或需要 React 开发人员的无头 CMS 的长期定价。 有人能够分享/教育我关于我应该期望的技能组和薪水的差异吗？当然，假设技能水平相同。 角色在美国境内将是远程的。 谢谢！   由   提交 /u/HomeCornerOffice   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1se4z95/salary_of_react_v_drupal_developers/</guid>
       <pubDate>Mon, 06 Apr 2026 17:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你明天加入 Electron 核心团队，你会首先修复/改进什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1se4ml7/if_you_joined_the_electron_core_team_tomorrow/</link>
-      <description><![CDATA[想象一下，你明天醒来，突然就加入了 Electron 核心团队。 你可以改变任何东西：架构、API、性能、工具、安全模型、构建系统，等等。 你要修复或改进的第一件事是什么，为什么？今天使用 Electron 时最让你沮丧的是什么？ 也许可能是这样的事情：  项目脚手架 内存使用 启动时间 打包和分发 本机集成 调试体验 或者完全不同的东西  想听听人们实际构建了什么并发布 Electron 应用程序思考。   由   提交 /u/Ikryanov   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1se4ml7/if_you_joined_the_electron_core_team_tomorrow/</guid>
-      <pubDate>Mon, 06 Apr 2026 16:59:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个免费插件来与客户共享 WordPress 草稿预览 - 无需登录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1se2vjd/built_a_free_plugin_to_share_wordpress_draft/</link>
-      <description><![CDATA[客户审核总是比应有的情况更混乱。您可以临时发布页面、发送屏幕截图或共享管理员访问权限。这些都不好。 我构建了一个小插件，可以为任何草稿生成安全的、过期的链接。客户点击它，即可看到页面，无需 WordPress 帐户。 功能：  从帖子编辑器中一键生成链接 过期选项：24 小时、48 小时、7 天、30 天或自定义 管理面板可管理所有活动链接 与 Gutenberg、Elementor、Divi 配合使用 基于令牌，观众无需登录  免费且在 WordPress.org 上：https://wordpress.org/plugins/okto-shareable-draft-previews/ 如果您以前遇到过此问题并以不同的方式解决它，很好奇如何解决。   由   提交 /u/Mysterious-Crazy-395   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1se2vjd/built_a_free_plugin_to_share_wordpress_draft/</guid>
-      <pubDate>Mon, 06 Apr 2026 15:56:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

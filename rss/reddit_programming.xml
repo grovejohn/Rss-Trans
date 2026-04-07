@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 07 Apr 2026 01:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 05:03:00 GMT</lastBuildDate>
+    <item>
+      <title>2026 年“弹性计算”意味着什么</title>
+      <link>https://www.reddit.com/r/programming/comments/1sej6ze/what_elastic_compute_means_in_2026/</link>
+      <description><![CDATA[ 由   提交/u/utpalnadiger  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1sej6ze/what_elastic_compute_means_in_2026/</guid>
+      <pubDate>Tue, 07 Apr 2026 02:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>SDK 可阻止 AI API 账单失控</title>
+      <link>https://www.reddit.com/r/programming/comments/1seidut/sdk_that_stops_runaway_ai_api_bills/</link>
+      <description><![CDATA[提示循环运行过夜，他们醒来时会看到来自 OpenAI 或 Anthropic 的 500-800 美元账单。 奇怪的部分？每个人都有仪表板。每个人都有监控。但实际上没有什么可以阻止支出。 Caplyr - 位于 API 调用路径中并实时强制执行成本限制的包装器。 它的工作原理： - 使用 Protect() 包装 AI 客户端 - 设置预算 - Caplyr 会阻止预算内的请求，在成本飙升时自动降级模型，并具有紧急情况下的终止开关 它是两行代码，没有基础设施更改。 npm install caplyr https://caplyr.com   由   提交/u/Dojonx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1seidut/sdk_that_stops_runaway_ai_api_bills/</guid>
+      <pubDate>Tue, 07 Apr 2026 01:44:09 GMT</pubDate>
+    </item>
     <item>
       <title>什么时候不应该使用事件溯源？</title>
       <link>https://www.reddit.com/r/programming/comments/1se5ezd/when_not_to_use_event_sourcing/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/SpecialistLady   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1sdm9ih/openjdk_panama/</guid>
       <pubDate>Mon, 06 Apr 2026 02:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用 Welford 算法和 KV 存储即可进行异常检测</title>
-      <link>https://www.reddit.com/r/programming/comments/1sdlb99/anomaly_detection_with_nothing_but_welfords/</link>
-      <description><![CDATA[ 由   提交/u/uriwa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sdlb99/anomaly_detection_with_nothing_but_welfords/</guid>
-      <pubDate>Mon, 06 Apr 2026 01:35:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 C 创建物理引擎 - YouTube</title>
-      <link>https://www.reddit.com/r/programming/comments/1sdirt2/creating_a_physics_engine_in_c_youtube/</link>
-      <description><![CDATA[这是我今天炮制的一个小东西。我应该赶上作业，但我把这个项目放在了次要位置，并决定最终致力于它。就到这里啦，希望大家喜欢！将来，我计划更深入地研究物理概念，并通过编程来教授它们，如果有人想看，请告诉我。   由   提交/u/nerdy_guy420  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sdirt2/creating_a_physics_engine_in_c_youtube/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:40:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
