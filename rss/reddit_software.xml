@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 08 Apr 2026 01:11:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 05:06:04 GMT</lastBuildDate>
+    <item>
+      <title>免费座位预订系统推荐</title>
+      <link>https://www.reddit.com/r/software/comments/1sfitop/free_seat_booking_system_recommendations/</link>
+      <description><![CDATA[ 由   提交/u/StomachLeading6618  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sfitop/free_seat_booking_system_recommendations/</guid>
+      <pubDate>Wed, 08 Apr 2026 04:26:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>在桌面上写笔记会使移动设备上的文字变得混乱。</title>
+      <link>https://www.reddit.com/r/software/comments/1sffv9d/writing_a_note_on_desktop_jumbles_the_words_on/</link>
+      <description><![CDATA[ 由   提交 /u/Dizzy_Ad_1443   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sffv9d/writing_a_note_on_desktop_jumbles_the_words_on/</guid>
+      <pubDate>Wed, 08 Apr 2026 02:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>📺 Bforartists 5.1.0 中的所有新功能</title>
+      <link>https://www.reddit.com/r/software/comments/1sffcc8/everything_new_in_bforartists_510/</link>
+      <description><![CDATA[Bforartists 是流行 3D 软件 Blender 的一个分支，专注于另一种 GUI 范例。    由   提交/u/Anxious_Chemist9458  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sffcc8/everything_new_in_bforartists_510/</guid>
+      <pubDate>Wed, 08 Apr 2026 01:41:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我意识到我错误地使用了人工智能……所以我构建了一些东西来修复它</title>
+      <link>https://www.reddit.com/r/software/comments/1sferbg/i_realized_i_was_using_ai_wrong_so_i_built/</link>
+      <description><![CDATA[大家好， 我使用 ChatGPT、Claude 等人工智能工具有一段时间了，我注意到一些令人沮丧的事情： 我不断地在它们之间切换，试图找出哪个真正给出了最佳答案。 有时 ChatGPT 更好，有时 Claude 更好……但没有简单的方法可以在不浪费时间的情况下进行比较一遍又一遍地复制和粘贴相同的提示。 因此，我决定为自己构建一个简单的解决方案。 它被称为 ChatComparison — 它可以让你运行一个提示并并排查看 40 多个 AI 模型的响应。 最让我惊讶的是，不同模型的答案会有多么不同。对于这样的事情：  写论文 编码 解释  …“最好的”人工智能并不总是一样的。 我并不是想说这是一个完美的工具或任何东西——现在还为时过早，我每周都会改进它。 但是如果你是使用多种人工智能工具或关心获得最佳输出的人，比较一下它们直接实际上改变了你使用人工智能的方式。 想知道其他人是否也遇到过同样的问题或有不同的测试人工智能工具的方法吗？ 很想听听你是如何处理它的。   由   提交 /u/Frosty_Conclusion100   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sferbg/i_realized_i_was_using_ai_wrong_so_i_built/</guid>
+      <pubDate>Wed, 08 Apr 2026 01:15:05 GMT</pubDate>
+    </item>
     <item>
       <title>贵公司使用什么项目管理软件？您为什么喜欢它？请认真回复。</title>
       <link>https://www.reddit.com/r/software/comments/1sfd5pa/what_project_management_software_does_your/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/sensei247  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1sf4x2h/til_that_in_the_early_days_of_the_internet_aol/</guid>
       <pubDate>Tue, 07 Apr 2026 18:46:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notion VS Google Doc VS ClickUp ？</title>
-      <link>https://www.reddit.com/r/software/comments/1sf32qc/notion_vs_google_doc_vs_clickup/</link>
-      <description><![CDATA[在文档和共享工作文件方面，您与客户使用的是 Notion 或 Google Doc 或 ClickUp Doc？   由   提交 /u/Creator_Eye6181   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sf32qc/notion_vs_google_doc_vs_clickup/</guid>
-      <pubDate>Tue, 07 Apr 2026 17:41:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源我的代理操作系统，寻求有关改进之处的反馈</title>
-      <link>https://www.reddit.com/r/software/comments/1sf237e/open_sourced_my_agent_os_looking_for_feedback_on/</link>
-      <description><![CDATA[大家好，我开源了 Octopoda，它基本上是 AI 代理的运行时，用于处理内存、循环检测、审计跟踪和监控。我想在这里分享它，并获得一些关于哪里可以做得更好的诚实反馈。 这个想法最初只是为代理提供持久记忆，因为他们会忘记会话之间的所有内容。这部分效果很好，但老实说，此时内存问题已经解决了。我认为真正值得使用的东西是循环检测，它可以在代理浪费你的 API 预算之前捕获他们重复的行为，审计跟踪可以让你对代理所做的每一个决定承担全部责任，以及版本历史记录，这样你就可以准确地看到代理对某事物的理解如何随着时间的推移而变化。这三件事是我每天使用的，也是我在其他地方没有真正看到做得好的东西。 它使用 SQLite 在本地运行，没有云依赖性，pip install 和 go。 LangChain CrewAI AutoGen 和 OpenAI Agents SDK 的集成以及 Claude 和 Cursor 的 MCP 服务器。如果您想要可视化监控，但本地版本功能齐全，那么还有带有仪表板的云选项。 我认为现在的护城河是循环检测、审计跟踪以及可观察性在一个包中的组合。大多数工具只做内存工作，然后就到此为止了。但我不确定这是否足够长期，我很想听听人们的想法。这种组合是否真的有价值，或者是否有其他东西可以使其更有用？ 非常感谢早期用户尝试并告诉我缺少什么。经过几个月的构建，新的眼睛捕捉到了我看不到的东西。 GitHub：https://github.com/RyjoxTechnologies/Octopoda-OS   由   提交/u/Powerful-One4265   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sf237e/open_sourced_my_agent_os_looking_for_feedback_on/</guid>
-      <pubDate>Tue, 07 Apr 2026 17:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年最佳防病毒软件</title>
-      <link>https://www.reddit.com/r/software/comments/1sf1fb0/best_antiviruses_softwares_2026/</link>
-      <description><![CDATA[您好，我正在寻找好的免费防病毒软件（可在官方网站上免费获得）。我目前正在清理我的电脑，希望确保它完全干净，所以想知道您是否有任何建议。 我只需要它一次性扫描，而不是长期使用。 windows 10   由   提交 /u/Agitated-Scholar-502   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sf1fb0/best_antiviruses_softwares_2026/</guid>
-      <pubDate>Tue, 07 Apr 2026 16:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正式不再使用 Google 来寻找人工智能工具了。现在都是 SEO 垃圾邮件。</title>
-      <link>https://www.reddit.com/r/software/comments/1sf10xf/im_officially_done_using_google_to_find_ai_tools/</link>
-      <description><![CDATA[有没有其他人注意到寻找一个简单的人工智能工具（如基本的视频编辑器或背景去除器）已经变得不可能？每个结果都只是“前10名” listicle 充满了联属链接或网站，这些网站每月需要 50 美元的价格来购买一个基本上是开源模型的 UI 包装器的工具。 我最近一直在使用 mostpopularaitools（我认为是通过这里的随机线程找到的），因为它是实际上允许您按“免费”进行过滤的少数目录之一。或“开源”没有突然出现的癌症。我在那里发现了一些宝石，比如 Kling 和一些我在“大”网站上没有见过的本地 LLM 工具。  是否有人拥有其他干净的存储库，甚至只是一个精心策划的 GitHub 列表，而不仅仅是试图出售新闻通讯或订阅？我正在尝试构建一个实际实用工具的工作流程，而无需花费太多钱。   由   提交 /u/Pure_Feeling4281   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sf10xf/im_officially_done_using_google_to_find_ai_tools/</guid>
-      <pubDate>Tue, 07 Apr 2026 16:31:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
