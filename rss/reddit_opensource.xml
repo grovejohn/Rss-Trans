@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 Apr 2026 01:02:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 05:03:18 GMT</lastBuildDate>
     <item>
       <title>我试图出售一种工具来自动化每周回顾。有人告诉我这很愚蠢，所以我只是将其开源。</title>
       <link>https://www.reddit.com/r/opensource/comments/1sg7vmy/i_tried_to_sell_a_tool_to_automate_the_weekly/</link>
-      <description><![CDATA[      I built a local Python script that scans my markdown notes from the last 7 days and extracts every open loop, task, and tag into a single summary note so my GTD Weekly Review actually happens.我最初尝试在它上面添加许可证密钥并将其出售，但 Reddit 很快告诉我，把守本地优先的生产力工具是愚蠢的。他们是绝对正确的，所以我剥离了 DRM 并在 MIT 下开源了整个引擎。 It works completely offline via a simple GUI or terminal, and automatically detects dates from your files so you don&#39;t have to change how you write.   由   提交/u/Skadoodle69  [链接] [comments] ]]></description>
+      <description><![CDATA[      我构建了一个本地 Python 脚本，用于扫描过去 7 天的 Markdown 笔记，并将每个开环、任务和标签提取到单个摘要笔记中，以便我的 GTD 每周回顾真正发生。我最初尝试在它上面添加许可证密钥并将其出售，但 Reddit 很快告诉我，把守本地优先的生产力工具是愚蠢的。他们是绝对正确的，所以我剥离了 DRM 并在 MIT 下开源了整个引擎。它通过简单的 GUI 或终端完全离线工作，并自动检测文件中的日期，因此您不必更改编写方式。   由   提交/u/Skadoodle69  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1sg7vmy/i_tried_to_sell_a_tool_to_automate_the_weekly/</guid>
       <pubDate>Wed, 08 Apr 2026 22:38:18 GMT</pubDate>
     </item>
