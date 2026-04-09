@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 Apr 2026 18:45:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 21:38:41 GMT</lastBuildDate>
+    <item>
+      <title>刚刚发布的 Rewind：为 Navidrome 用户提供自托管的“Spotify Wrapped”式体验</title>
+      <link>https://www.reddit.com/r/opensource/comments/1sgzh2u/just_released_rewind_a_selfhosted_spotify/</link>
+      <description><![CDATA[ 由   提交/u/BernardoGiordano   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1sgzh2u/just_released_rewind_a_selfhosted_spotify/</guid>
+      <pubDate>Thu, 09 Apr 2026 19:21:26 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个点唱机程序，人们可以通过手机搜索并通过程序在电脑上播放</title>
       <link>https://www.reddit.com/r/opensource/comments/1sgvplf/looking_for_a_jukebox_program_where_people_can/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[最后一刻提醒：不久前，有人谈到宣布设立一个日子来庆祝开源软件，并向最喜欢的软件项目捐赠一点东西。这一天（07.04.）很合适，因为它标志着 Linus Torvalds 发布了 Git。去支持你最喜欢的开源项目吧！让我们开始一个好习惯吧！ p.s.我今年很欣赏 tzapu 的 WifiManager，但找不到捐赠方式🫠   由   提交/u/recursive_knight   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1sf4s1o/open_source_appreciation_day/</guid>
       <pubDate>Tue, 07 Apr 2026 18:41:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Linux 构建一个简单的网络监视器来查看应用程序实际在做什么</title>
-      <link>https://www.reddit.com/r/opensource/comments/1sf0fxk/built_a_simple_network_monitor_for_linux_to_see/</link>
-      <description><![CDATA[      由   提交 /u/TheZupZup   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1sf0fxk/built_a_simple_network_monitor_for_linux_to_see/</guid>
-      <pubDate>Tue, 07 Apr 2026 16:10:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
