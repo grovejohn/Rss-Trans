@@ -4,11 +4,18 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Wed, 08 Apr 2026 21:33:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:00:25 GMT</lastBuildDate>
+    <item>
+      <title>根据小说构建角色一致的人工智能聊天机器人——技术故障和经验教训</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sg7eck/built_a_characterconsistent_ai_chatbot_from_a/</link>
+      <description><![CDATA[我是一部心理惊悚小说的作者，其中一名连环杀手在十六次对话中向人工智能坦白。发布后，我将人工智能角色构建到一个交互式聊天机器人中，以保持对话中的角色一致性。全面披露：我写了这本书并构建了聊天机器人。 技术方法：聊天机器人在 Claude 的 API 上运行，并根据小说的 60,000 个单词的人物数据（个性特征、特定记忆、言语模式、叙事事件和关系动态）构建了详细的系统提示。挑战在于让它感觉像是一个角色，而不是一个总结者。我构建了提示，将角色推理优先于信息检索——Simulacrum 不会背诵情节点，它会根据角色根据其积累的“经验”对用户做出反应。与精神病患者进行了十六次会谈。 令我惊讶的是：用户立即尝试打破它。一位读者自称是控制凶手的隐藏人物。聊天机器人利用小说中自己的内部逻辑对每一个说法提出质疑，然后告诉他去读这本书。它没有被指示这样做 - 它是从提示设计的字符一致性中出现的。 限制：会话上限为 10 次交换。如果没有这一点，较长的对话就会偏离性格。系统提示是静态的——它不会从用户交互中学习。它偶尔会在非常具体的对抗性提示下破坏角色。 演示： kirillkhrestinin.com — “与 Simulacrum 4.6 对话”按钮。 社区问题：还有其他人尝试过构建持久的虚构角色作为 AI 体验吗？好奇其他人尝试过什么方法来保持多个交换中的字符一致性。   由   提交 /u/KirillKhrestinin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sg7eck/built_a_characterconsistent_ai_chatbot_from_a/</guid>
+      <pubDate>Wed, 08 Apr 2026 22:18:15 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊上大约 77% 的新“成功”自助书籍可能是由 AI 撰写的，其中一位作者 Noah Felix Bennett 仅在 2025 年中期就出版了惊人的 74 本书，每天的速度超过 1 本书。出版了数百本书的 Richard Trillion Mantey 被评估为每一本书都使用了人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sg5aqc/77_of_all_new_success_selfhelp_books_on_amazon/</link>
-      <description><![CDATA[“具有讽刺意味的是，该数据集中的 844 本书中的一本名为“如何在人工智能世界中为人类写作：消除数字噪音并触及真实的人”。在其中，作者对人工智能撰写内容的激增表示遗憾：“我们在网上、收件箱、甚至新闻文章中看到的文字，常常让人感觉它们不是由某个特定的人写的，”他写道。 “它们在语法上是完美的，但在情感上却是空虚的。他们很流利，但没有灵魂。具有讽刺意味的是，我们从来没有像今天这样写过更多的文章。我们正在制作大量的内容：帖子、标题、宣传、文本和无穷无尽的电子邮件。与此同时，在所有这些噪音中，一些重要的东西正在消失。这是一种真实的人正在与另一个真实的人交谈的感觉。”那本书的内容被标记为可能是人工智能生成的。”   由   提交 /u/StarlightDown   [链接] [评论]]]></description>
+      <description><![CDATA[“具有讽刺意味的是，该数据集中的 844 本书中的一本名为“如何在人工智能世界中为人类写作：消除数字噪音并触及真实的人”。在其中，作者对人工智能撰写的内容激增表示遗憾：“我们在网上、收件箱、甚至新闻文章中看到的文字，常常让人感觉它们不是由某个特定的人写的，”他写道。 “它们在语法上是完美的，但在情感上却是空虚的。他们很流利，但没有灵魂。具有讽刺意味的是，我们从来没有像今天这样写过更多的文章。我们正在制作大量的内容：帖子、标题、宣传、文本和无穷无尽的电子邮件。与此同时，在所有这些噪音中，一些重要的东西正在消失。这是一种真实的人正在与另一个真实的人交谈的感觉。”那本书的内容被标记为可能是人工智能生成的。”   由   提交 /u/StarlightDown   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sg5aqc/77_of_all_new_success_selfhelp_books_on_amazon/</guid>
       <pubDate>Wed, 08 Apr 2026 20:57:10 GMT</pubDate>
     </item>
@@ -46,13 +53,6 @@
       <description><![CDATA[Anthropic 构建了历史上最强大的人工智能。十二家公司获得了访问权，那么其他公司呢？我们收到一份公开声明，称“这太危险了” 对你来说太危险了。对于亚马逊、苹果、谷歌、微软、英伟达和摩根大通来说并不太危险。对其他人来说太危险了。 一家准备进行价值可能数千亿美元的公开发行的公司在同一天宣布，它已经构建了历史上最强大的人工智能，并且将限制对地球上最大公司精心挑选的名单的访问，并且其收入在十五个月内增加了两倍。  现有 12 家最富有、最强大的技术和金融公司。这些是 Anthropic 的客户。这些是人类投资者。毫无疑问，我们其他人都是产品。   由   提交/u/buffduckusa  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sfvprt/is_claude_mythos_too_dangerous_to_release_or_too/</guid>
       <pubDate>Wed, 08 Apr 2026 15:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>交换到克劳德时有什么办法可以继承我的聊天记录吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sfvkdh/is_there_any_way_to_carry_over_my_chats_when/</link>
-      <description><![CDATA[我已经使用 gpt 多年了，但最近我一直想换成 claude，但我也不想失去我在 gpt 上的所有上下文和当前项目，有什么办法可以将它们转移到 claude 吗？我的大部分东西都不在记忆中，因为我直到最近才打开它们，所以 claude import 仍然有效吗？   由   提交/u/MontyOW   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sfvkdh/is_there_any_way_to_carry_over_my_chats_when/</guid>
-      <pubDate>Wed, 08 Apr 2026 15:08:20 GMT</pubDate>
     </item>
     <item>
       <title>山姆·奥尔特曼 (Sam Altman) 表示，人工智能超级智能是如此之大，以至于我们需要一项“新政”。批评者称 OpenAI 的政策理念是“监管虚无主义”的掩护</title>

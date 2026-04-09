@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Apr 2026 21:36:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 01:02:19 GMT</lastBuildDate>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/webdev/comments/1sgahzb/exmicrosoft_engineer_believes_azure_problems_stem/</link>
+      <description><![CDATA[ “Azure 从未像承诺的那样顺利或独立运行，” Rietschin wrote. &quot;What Microsoft presented to the world, and to its most demanding customers, was a sophisticated system perpetually on life support. &quot;This foundational fragility, rooted in rushed decisions and wishful thinking about how fast the platform could grow and stabilize, led to small but ongoing disruptions. Over time, those disruptions built up.&quot; Rietschin argues that Microsoft&#39;s rushed launch of Azure, the &quot;post-launch talent exodus,&quot; the lack of software quality and testing discipline, the lack of architectural vision, and persistently poor execution have left the cloud service fighting fires ever since.  Source: The Register   由   提交 /u/ZGeekie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sgahzb/exmicrosoft_engineer_believes_azure_problems_stem/</guid>
+      <pubDate>Thu, 09 Apr 2026 00:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/webdev/comments/1sg93te/i_built_a_full_saas_product_in_10_hours_using/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sg93te/i_built_a_full_saas_product_in_10_hours_using/</guid>
+      <pubDate>Wed, 08 Apr 2026 23:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>Safari 技术预览版 241 发行说明</title>
       <link>https://www.reddit.com/r/webdev/comments/1sg68fy/release_notes_for_safari_technology_preview_241/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
+      <description><![CDATA[       由   提交 /u/feross   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1sg68fy/release_notes_for_safari_technology_preview_241/</guid>
       <pubDate>Wed, 08 Apr 2026 21:31:43 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>在多次发脾气试图进行“无障碍”调查之后，我制作了这个演示</title>
       <link>https://www.reddit.com/r/webdev/comments/1sfzvgy/after_many_tantrums_trying_to_make_accessible/</link>
-      <description><![CDATA[我完全失明，但我从事研究工作了几年，并且“可访问”调查生成器和调查使用起来很糟糕。太冗长而且不稳定。我什至无法使用大多数滑块秤。这是我自己制作的一个非常简单的演示。这里是： https://ethereousnatsudragneel.github.io/landing 在我上一篇关于这个子主题（无障碍文字游戏）的文章之后，一些专业人士联系了我，让他们的表格和问题变得易于理解。很乐意提供帮助，但意识到也许演示会更好。希望有人觉得它有帮助，因为根据我的经验，许多经过认证和最佳实践的工具和平台仍然在可访问性方面失败。   由   提交 /u/TheLionsSinOfPride   [链接] [评论]]]></description>
+      <description><![CDATA[我完全失明，但我从事研究工作了几年，并且“可访问”调查生成器和调查使用起来很糟糕。太冗长而且不稳定。我什至无法使用大多数滑块秤。这是我自己制作的一个非常简单的演示。这里是： https://ethereousnatsudragneel.github.io/landing 在我上一篇关于这个子主题（无障碍文字游戏）的文章之后，一些专业人士找到了我，让他们的表格和问题变得易于理解。很乐意提供帮助，但意识到也许演示会更好。希望有人觉得它有帮助，因为根据我的经验，许多经过认证和最佳实践的工具和平台仍然在可访问性方面失败。   由   提交 /u/TheLionsSinOfPride   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1sfzvgy/after_many_tantrums_trying_to_make_accessible/</guid>
       <pubDate>Wed, 08 Apr 2026 17:40:39 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我目前在一家不正式支持人工智能工具的公司全职工作，但我自己仍然经常使用它们。我的代码中大约 70-75% 是由 AI 辅助的，原本可能需要 6-7 小时的任务通常会在大约 3 小时内完成。 我最近收到了一家公司的报价，该公司实际上赞助了 Cursor/Claude 等工具并鼓励使用它们。 我想要了解的是： 在采用这样的设置后，您的实际工作量或期望是否发生了变化？ - 经理是否开始这样做？因为速度更快，所以期望获得更多产出？ - 或者它只是使相同数量的工作更容易处理？ - 在实践中，你的工作时间是否发生了变化？ 非常感谢在这两种设置中工作过的人的意见。   由   提交/u/shivanshhh   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1sfzh0q/did_your_workload_change_after_joining_a_company/</guid>
       <pubDate>Wed, 08 Apr 2026 17:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个简单的 api 来检查域可用性，因为我根据数字命理学搜索名称。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sfyciw/i_created_a_simple_api_to_check_domain/</link>
-      <description><![CDATA[      因此，我正在构建我的创业想法，正如我之前分享的那样，克劳德告诉我不要这样做。然而在建造过程中我正在考虑一个名字。我有点相信占星学，所以我的占星学学生朋友给了我命理学图表并教我如何计算它。所以我为他和我创建了一个基于 html 的计算器。 所以今天当我搜索名字时，我不断地在 GoDaddy 和我的计算器之间来回切换，这很快就变得很烦人。 所以我在网上搜索是否有任何免费的 API 可以为我提供域名可用性。但是我无法找到免费的或无需注册其服务的协议。 因此我进行了更多研究，发现了一种新协议 RDAP 这是推荐的协议，用于查找当今取代 WHOIS 命令的任何域的信息。但它并不容易获得。  不过还好GO里有工具。它的名字是 openrdap.org，所以我用它来创建一个简单的 api 包装器。并将其添加到计算器中，现在我的生活变得更加轻松了。 作为一名开发人员有多么大的好处。 如果您需要更多详细信息或我正在使用的代码，请评论“RDAP” . 然后我会将其上传到 GitHub。 目前它仅在我的手机上，我什至不使用 PC，仅使用 termux 加上 Acode 应用程序，这是适用于 Android 的 goated 组合。   由   提交/u/khiladipk  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sfyciw/i_created_a_simple_api_to_check_domain/</guid>
-      <pubDate>Wed, 08 Apr 2026 16:46:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>开放工具 – 适合所有人的免费、基于浏览器的工具（无需安装，无废话）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sfy2xt/open_tools_free_browserbased_tools_for_everyone/</link>
-      <description><![CDATA[构建了一系列开源浏览器工具 - 音频/视频转换器、PDF 实用程序、图像编辑器、颜色工具、差异检查器、Markdown 编辑器等。一切都在客户端运行。没有帐户，没有上传到服务器，没有付费墙。只是有用的工具。 希望就缺失或损坏的内容提供反馈。 https://github.com/akshit-bansal11/open-tools   由   提交/u/Fragrant-Trick6998  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sfy2xt/open_tools_free_browserbased_tools_for_everyone/</guid>
-      <pubDate>Wed, 08 Apr 2026 16:37:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
