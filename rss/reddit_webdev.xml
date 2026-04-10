@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 10 Apr 2026 10:00:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:41:03 GMT</lastBuildDate>
+    <item>
+      <title>WhatsApp Business API 与 Twilio 用于大规模婚礼宾客消息传递 - 速率限制和合规性权衡</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shkdsq/whatsapp_business_api_vs_twilio_for_wedding_guest/</link>
+      <description><![CDATA[为豪华婚礼策划者构建宾客管理平台，每次婚礼可容纳 150-500 名宾客。目前使用 Twilio 发送短信，但添加了 WhatsApp 消息传递，因为这就是南亚家庭的沟通方式。  关键要求：向饮食要求部分批量发送消息（“所有耆那教客人 - 明天的菜单”）、回复确认、为期 3 天的庆祝活动的活动更新。策划师每年管理 10 至 40 场婚礼。  WhatsApp Business API 优点：更好的参与率、富媒体支持、线程对话。缺点：更严格的速率限制（80 条消息/秒突发）、模板审批开销、每条消息的通知成本更高。  Twilio 优点：更高的吞吐量、更简单的实施、现有的基础设施。缺点：使用 WhatsApp 的年长家庭成员的短信参与度下降。  混合方法：WhatsApp 用于对话/RSVP 流程，SMS 用于时间紧迫的通知？担心管理两个提供商和客人偏好的复杂性。  有人处理过类似的消息量要求，而用户偏好严重偏向于一个平台吗？婚礼季节是残酷的 - 在 300 名宾客的庆祝活动中出现一个速率限制问题，我们就干杯了。  当您的主要消息传递渠道达到限制时，如何处理优雅的回退？   由   提交/u/Frank_ster  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shkdsq/whatsapp_business_api_vs_twilio_for_wedding_guest/</guid>
+      <pubDate>Fri, 10 Apr 2026 11:55:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个基于画布的零依赖图表工具——这就是我学到的东西</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shkdnw/i_built_a_canvasbased_diagramming_tool_with_zero/</link>
+      <description><![CDATA[      我想构建一些能够在我作为开发人员身上留下印记的东西。不仅仅是发布一个功能——实际上学到一些深入的东西。  我一直使用 Draw.io 和 Excalidraw，Terry Davis 的想法一直困扰着我：除非你构建了自己的工具，否则你不是真正的程序员。所以我就这么做了。 它的名字是 Markasso (markasso.it)。  键盘优先，默认为深色，无框架，无运行时，多语言。只是画布 API。 一路上有一些让我惊讶的事情： 零依赖迫使做出正确的决策。当你无法去图书馆时，你必须更加努力地思考。命中检测、边界框、变换手柄、撤消/重做堆栈——全部手动完成。这很痛苦，然后突然就灵光乍现了。 画布上类似 Redux 的架构效果非常好。形状作为不可变的状态，产生新状态的动作，从头开始重绘的渲染器。撤消/重做变得微不足道。调试变得可读。 键盘优先是一个用户体验约束，而不仅仅是一个功能。从第一天起就围绕快捷方式进行设计改变了整个工具的感觉。每次交互都必须有一个键盘路径，这迫使我们采用更清晰的心理模型。 我自始至终都使用 Claude 作为人工智能代理——架构讨论、边缘案例、深夜橡皮鸭。 Lorenzo Cataldi 在视觉方面提供了帮助。单独构建并不意味着孤立构建。 支持美人鱼图、自定义导出/导入格式、完整记录的快捷方式。默认情况下的深色主题 — 20 年的屏幕都会为您做到这一点，但只需点击一下白色即可。 还为时过早。很高兴回答有关画布架构或状态管理方法的问题。 存储库：github.com/AlbertoBarrago/Markasso   由   提交/u/Uptnapshitim   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shkdnw/i_built_a_canvasbased_diagramming_tool_with_zero/</guid>
+      <pubDate>Fri, 10 Apr 2026 11:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有 OpenRouter 替代方案吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shkdl1/any_openrouter_alternatives/</link>
+      <description><![CDATA[我目前正在使用 OpenRouter。尽管它提供了大量的型号选择和一些免费选项，但它变得太昂贵了。由于我进行了大量的 A/B 测试，即用即付模式让我很难管理成本的可预测性。我也无法忍受每次充值时它们都会脱掉顶部。 因此，我正在寻找可靠、更便宜的类似 OpenRouter 的替代品，但仍提供多种型号。如果它支持更多模型选项那就太好了 我已将范围缩小到 Zenmux 和 Portkey。希望用过的人能够放下自己的真实感受。如果还有其他可靠、更便宜的类似 OpenRouter 的替代品，也请推荐。谢谢！   由   提交/u/Dry_Ambition5618  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shkdl1/any_openrouter_alternatives/</guid>
+      <pubDate>Fri, 10 Apr 2026 11:55:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>认知萎缩的时代已经到来</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shjvu4/the_age_of_cognitive_atrophy_is_here/</link>
+      <description><![CDATA[      人们很快就从“寻找教程来尝试针对特定问题提出自己的解决方案”转变为“”。 “只要求人工智能去做，哈哈”。人们的大脑实际上正在萎缩，不仅如此，他们还在传播疾病。  一项研究表明，使用 ChatGPT 写论文会降低将信息转化为知识所需的认知投入和智力努力。 该研究还表明，83% 的人工智能用户无法记住他们刚刚为论文写的一段话。 Ioan Roxin：互联网和社交媒体的广泛使用已经削弱我们与知识的关系。当然，这些工具在信息获取方面有着巨大的应用。但与他们声称的相反，他们并不是要使知识民主化，而是要创造一种普遍的知识幻觉。我认为毫不夸张地说，他们正在全球范围内推动智力、情感和道德的平庸。智力是因为它们鼓励过度消费内容而没有任何真正的批判性分析；情绪化，因为它们使人对刺激和娱乐产生日益加深的依赖；和道德，因为我们已经陷入了对算法决策的被动接受。  https://www.polytechnique-insights.com/en/columns/neuroscience/generative-ai-the-risk-of-cognitive-atropy/ 我在这个 subreddit 中分享这个是因为我认为这是关于我们的未来的重要讨论，现在不仅是“人工智能即将取代我们的工作”，而且是“人工智能正在取代我们的工作”。这也是“人工智能也将进入我们的大脑”。    由   提交/u/space-envy  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shjvu4/the_age_of_cognitive_atrophy_is_here/</guid>
+      <pubDate>Fri, 10 Apr 2026 11:31:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个没人要求的副项目，并且学到的东西比任何教程教给我的都多</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shjuar/built_a_side_project_nobody_asked_for_and_learned/</link>
+      <description><![CDATA[花了三个月的时间在一个可能有 12 个人会使用的项目上。老实说，这很好。 没有人告诉你的是，当你自己的事情时，你的调试速度会快多少。当你的 auth 流程正在做一些不可能的事情时，任何 stackoverflow 线程都无法在晚上 11 点拯救你。你只要弄清楚就可以了。 与我以前做假教程项目相比，部署也更加得心应手。了解真实用户实际上可能会点击它会让你关心细节。 该项目本身非常小众。没关系。代表才是最重要的。 还有其他人发现运送一些小而个人的东西比你为工作或学校构建的东西学到的更多吗？   由   提交 /u/Competitive-Tiger457   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shjuar/built_a_side_project_nobody_asked_for_and_learned/</guid>
+      <pubDate>Fri, 10 Apr 2026 11:29:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我深入研究了在 Next.js 16 中构建的 Slack + Notion + Zoom 克隆的前端架构。（他们开源了他们的 FE 存储库，而且很疯狂）。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shjm2s/i_deepdived_the_frontend_architecture_of_a_slack/</link>
+      <description><![CDATA[嘿 r/webdev， 我一直在探索 OneCamp，它本质上是一个“一切应用程序”。工作区。虽然核心产品本身并不是完全开源的，他们最近开源了整个前端存储库。 构建一个结合了自下而上的聊天、视频通话、看板和协作文档的应用程序通常会导致内存泄漏的噩梦。我深入研究了他们的 React 架构，看看他们如何在浏览器环境中实际实现这一目标，而不会导致 DOM 起火。 如果您正在构建实时仪表板、聊天界面或复杂的状态密集型前端，那么他们的客户端架构就是一座金矿。这是我的发现： 1。虚拟化的最终大佬：自下而上的聊天滚动 如果您曾经构建过聊天应用程序，您就会知道动态消息高度的反向滚动（想想不同的文本长度、图像和代码块）会破坏标准的 DOM 渲染。有趣的是，他们的前端并不依赖于单个虚拟化库。他们的堆栈包括：  react-virtuoso（通常是动态高度、自下而上滚动的黄金标准） virtua u/tanstack/react-virtual  它们隔离基于 UI 上下文的特定虚拟化策略（例如，标准自上而下的管理列表与复杂的自下而上的聊天提要）。 要点：不要试图强迫一个虚拟化库完成所有工作。使用专门针对该组件的特定滚动行为的工具。 2.客户端 CRDT（“Notion”功能） 为了处理协作文本编辑，其前端利用连接到 Yjs 和 Hocuspocus 的 Tiptap。这意味着他们严重依赖无冲突复制数据类型（CRDT）。状态位于浏览器本地并解决客户端的合并冲突。它使浏览器成为事实的来源，从而实现即时的 Google Docs/Notion 协作感觉，而不是等待传统的 POST 请求得到解决。 3.使用 Discord 的秘密武器进行音频/视频通话 从头开始构建 WebRTC UI 是一件痛苦的事情。他们通过使用 LiveKit (@livekit/components-react) 绕过了这个问题。但真正酷的部分是什么？他们将 u/livekit/krisp-noise-filter 直接集成到客户端中。 Krisp 与 Discord 用于过滤键盘咔嗒声的底层 ML 驱动背景噪声消除技术完全相同。 4.处理客户端实时状态 我们大多数人默认将 socket.io 直接挂钩到我们的 React 状态中。 OneCamp 使用 MQTT v5（mqtt 包）架构，通过自定义 MqttProvider 以及 Redux Toolkit 和 SWR 进行管理。 MQTT 比原始 WebSocket 连接更好地保证交付和顺序，同时保持客户端 CPU 使用率较低，并且它们优雅地将其集成到 Redux 状态中，以便 React 组件保持干净且不知道数据如何到达。 TL;DR 下一个 React 项目的要点：  停止编写自己的富文本约束。如果您需要协作文本，Tiptap + Yjs 是现代标准。不要尝试将 HTML 字符串存储在数据库中并将它们修补在一起。 LiveKit &gt;原始 WebRTC。不要花几个月的时间在客户端上与 ICE 候选者和 STUN 服务器作斗争。 混合并匹配您的虚拟器。使用适合 DOM 结构的内容。  前端基于 Next.js 16（App Router + Turbopack）、React 19 和 Tailwind v4 构建。尽管需要后端来运行完整的产品，但 UI/UX 架构本身就是一个令人难以置信的沙箱来研究：GitHub 上的 OneCamp-fe 这里还有其他人在浏览器中使用 Tiptap/YJs 进行 CRDT 吗？我很好奇当你开始堆叠所有这些协作功能时，捆绑包的大小会有多大。   由   提交/u/False_Staff4556  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shjm2s/i_deepdived_the_frontend_architecture_of_a_slack/</guid>
+      <pubDate>Fri, 10 Apr 2026 11:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>提示：如果您集成多个 AI API，请停止为每个 API 编写单独的客户端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shjgud/tip_if_youre_integrating_multiple_ai_apis_stop/</link>
+      <description><![CDATA[在同一项目中构建 OpenAI、Anthropic 和 Google 的集成后，才了解到这一点。 每个提供商都略有不同： - 身份验证机制 - 请求/响应格式 - 错误处理模式 - 速率限制行为 维护 3 个独立的 API 客户端是一场噩梦。对我们有用的是在前面放置一个网关，将所有内容标准化为 OpenAI 格式。现在我们的应用程序代码只与一个端点通信。 您可以使用 LiteLLM 之类的工具自行构建它或使用托管解决方案（我们使用 TNT-AI）。无论哪种方式，抽象出提供商差异的模式都为我们节省了大量的维护时间。 奖励：自动故障转移意味着当一个提供商出现问题时，您的应用程序不会中断。还有其他人使用这种模式吗？好奇人们喜欢什么工具。   由   提交 /u/bejusorixo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shjgud/tip_if_youre_integrating_multiple_ai_apis_stop/</guid>
+      <pubDate>Fri, 10 Apr 2026 11:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是高级人员，看到一个包含 3k 行代码的文件。你做什么工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shir4o/you_are_senior_and_see_a_file_that_has_3k_lines/</link>
+      <description><![CDATA[       立即重构 不要碰有效的代码 其他选项... 让实习生修复它并告诉他们添加测试以确保安全。    由   提交/u/lune-soft  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shir4o/you_are_senior_and_see_a_file_that_has_3k_lines/</guid>
+      <pubDate>Fri, 10 Apr 2026 10:32:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>17yo 构建学习应用程序、移动应用程序或网络应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shidor/17yo_building_a_learning_app_mobile_app_or_web_app/</link>
+      <description><![CDATA[大家好， 我今年 17 岁，目前正在自学编码。回到学校后，我遇到了一些困难，但从未找到任何可以帮助我的东西，即使有艾。这就是我想要构建 StudyBuddy 的原因。 这不仅仅是另一个静态路线图。你告诉人工智能（使用 Perplexity/Sonar API）你的目标、你的日程安排和你当前的水平。 我只是想补充一点，我希望这个应用程序是通用的，因此不仅可以学习数学，还可以学习编码、电子商务甚至烹饪。我希望，如果你能想到你想学的东西，你就可以轻松做到。  它会生成一个包含实时资源（视频、文章、练习）的每周计划。 在每周结束时，它都会测试你。如果您未通过某个主题（例如，Python 函数），人工智能会自动调整下周的计划，为该特定主题提供更好的资源和更多的时间。 您可以上传自己的学校材料以包含在计划中。  我想从 IOS 应用程序开始，但我觉得这个工具会更多地被人们用作网络应用程序。这不是 Duolingo，我希望你能通过这个应用程序真正深入地学习，而我觉得在手机上更难，因为它只会让一切看起来都很随意。 我需要你的“残酷”学习。关于两件事的反馈：  我应该首先关注适合移动设备的 Web 应用程序，还是直接追求本机应用程序体验？您更喜欢在哪里管理您的学习计划？ 你们认为缺少什么吗？您对这样的工具感兴趣吗？  我还没有开始编写 UI，我只是在我陷入错误的平台之前验证逻辑。 感谢您的建议！ 🙏    由   提交 /u/zZYNX1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shidor/17yo_building_a_learning_app_mobile_app_or_web_app/</guid>
+      <pubDate>Fri, 10 Apr 2026 10:12:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>小视频文件的免费 CDN？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1shi8v5/free_cdn_for_small_video_files/</link>
+      <description><![CDATA[图像有很多免费的 CDN，但视频的免费 CDN 很少，因为它们消耗太多带宽。然而，就我而言，我的网站上只有几个小背景和产品视频，每个视频都在 2MB 以下，大多数都在 1MB 以下，因此它们的大小与图像相似。 是否有允许小视频的免费 CDN？   由   提交 /u/dnapor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1shi8v5/free_cdn_for_small_video_files/</guid>
+      <pubDate>Fri, 10 Apr 2026 10:04:53 GMT</pubDate>
+    </item>
     <item>
       <title>我为 Canvas Quiz/Exam 创建了一个 chrome 扩展</title>
       <link>https://www.reddit.com/r/webdev/comments/1shg10q/i_created_a_chrome_extension_for_canvas_quizexam/</link>
@@ -29,7 +99,7 @@
     <item>
       <title>为什么发送电子邮件比托管更昂贵？</title>
       <link>https://www.reddit.com/r/webdev/comments/1shf79b/why_is_sending_email_more_expensive_than_hosting/</link>
-      <description><![CDATA[令我感到奇怪的是，像 Resend 这样的公司每月发送 50,000 封电子邮件可以收取 20 美元的费用。但有了这笔钱，托管公司就可以提供数百万的页面浏览量。对于底层基础设施是否有什么我不明白的地方，这意味着发送电子邮件比网页更昂贵？ 如果不是，为什么不在该领域进行更多竞争来压低价格？ 我觉得发送几封营销电子邮件的费用比托管整个网站的费用要高，这对我来说似乎很疯狂。 注意：我不是在这里抱怨 - 我认为 Resend 很好，他们可以随意收取任何费用。只是好奇为什么要花这么多钱。   由   提交/u/bentonboomslang  [链接] [评论]]]></description>
+      <description><![CDATA[令我感到奇怪的是，像 Resend 这样的公司每月发送 50,000 封电子邮件可以收取 20 美元的费用。但有了这笔钱，托管公司就可以提供数百万的页面浏览量。对于底层基础设施是否有什么我不明白的地方，这意味着发送电子邮件比网页更昂贵？ 如果不是，为什么不在该领域进行更多竞争来压低价格？ 我觉得发送几封营销电子邮件的费用与托管整个网站的费用一样多，这对我来说似乎很疯狂。 注意：我不是在这里抱怨 - 我认为 Resend 很好，他们可以随意收取任何费用。只是好奇为什么要花这么多钱。   由   提交/u/bentonboomslang  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1shf79b/why_is_sending_email_more_expensive_than_hosting/</guid>
       <pubDate>Fri, 10 Apr 2026 07:03:33 GMT</pubDate>
     </item>
@@ -39,76 +109,6 @@
       <description><![CDATA[在过去的几年里，我的业余项目经历了四个不同的主机。总是有一些令人烦恼的随机减速、让你感到困扰的支持，或者在第一个学期后价格神奇地翻倍。说起来感觉很奇怪，但我不会再坐等什么东西坏掉了。我只是部署了东西并且它起作用了。与其他人打交道后，老实说，这就是我想要的。   由   提交/u/Susanita-Taylor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1shevtz/found_a_small_vps_in_the_netherlands_that_just/</guid>
       <pubDate>Fri, 10 Apr 2026 06:45:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>业务团队的每一个“小变化”都会以某种方式转化为数周的工作……然后我就是那个因延误而受到质疑的人。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1shehgb/every_small_change_from_the_business_team_somehow/</link>
-      <description><![CDATA[我不介意做这项工作，但这种情况不断发生。一开始的快速调整慢慢变成了更大的事情，时间表变得混乱。 我认为部分问题是我没有尽早推迟，所以期望不断增长。然后，当事情进展顺利时，看起来我是那个没有正确管理时间的人。 我试图找到一种平衡，让自己仍然能提供帮助，但不会过度投入或陷入无休止的小变化。 我仍然很难拒绝或拒绝，但又不会听起来很懒。你如何处理这个问题？   由   提交/u/BizAlly  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1shehgb/every_small_change_from_the_business_team_somehow/</guid>
-      <pubDate>Fri, 10 Apr 2026 06:22:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>跟踪人工智能网络流量是一个愚蠢的想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1shacnw/is_tracking_ai_web_traffic_a_dumb_idea/</link>
-      <description><![CDATA[我注意到 GA 中的一个盲点一直困扰着我。来自 AI 代理的流量永远不会显示，因为它们不执行 Javascript。您的跟踪脚本永远不会触发，因此流量基本上是不可见的。 我知道您可以深入研究服务器日志并构建自定义报告或将其通过管道传输到 Looker studio。但这都是手动的、分散的，并且不是您想要长期维护的东西。没有一个地方可以直接看到它。 因此，我正在考虑为此构建一个一体化仪表板，例如用于 AI 代理流量的 GA。但我真的很想得到一些反馈：  AI 代理流量是您现在正在积极尝试测量的吗？ 服务器日志和 Looker Studio 解决方法对您来说足够吗，还是专门构建的工具实际上有用？  只是想弄清楚这是否是一个真正的差距，或者我是否正在解决没有人遇到的问题。   由   提交 /u/UptownOnion   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1shacnw/is_tracking_ai_web_traffic_a_dumb_idea/</guid>
-      <pubDate>Fri, 10 Apr 2026 02:47:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>加尔定律 - 软件定律</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sh8pvk/galls_law_laws_of_software/</link>
-      <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sh8pvk/galls_law_laws_of_software/</guid>
-      <pubDate>Fri, 10 Apr 2026 01:33:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了在每个项目上手动连接获取超时和重试逻辑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sh8cmm/tired_of_wiring_up_fetch_timeouts_and_retry_logic/</link>
-      <description><![CDATA[      发布了 ffetch 5.1.0 - 一个轻量级的提取包装器，具有内置超时、指数退避重试、生命周期挂钩和待处理请求跟踪。适用于浏览器、Node、SSR 和边缘运行时（Next.js、Remix、Vercel、Cloudflare Workers - 全部涵盖）。 v5.1.0 中的新增功能：两个选择加入的便利插件。 import { createClient } from &#39;@fetchkit/ffetch&#39; import { requestShortcutsPlugin } from &#39;@fetchkit/ffetch/plugins/request-shortcuts&#39; import { responseShortcutsPlugin } from &#39;@fetchkit/ffetch/plugins/response-shortcuts&#39; const api = createClient({ 超时: 10000, 重试: 3, retryDelay: (ctx) =&gt; Math.pow(2, ctx.attempt - 1) * 1000 + Math.random() * 1000, 插件: [requestShortcutsPlugin(), responseShortcutsPlugin()], }) const todo = wait api.get(&#39;/todos/1&#39;).json()  带抖动的指数退避：每次重试等待 2^(attempt-1) 秒加上随机抖动，超时 10 秒，最多重试 3 次。插件是可选的，默认行为保持与获取兼容。   由   提交/u/OtherwisePush6424   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sh8cmm/tired_of_wiring_up_fetch_timeouts_and_retry_logic/</guid>
-      <pubDate>Fri, 10 Apr 2026 01:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>新趋势：嵌入式开发工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sh64u8/new_trend_embedded_dev_tools/</link>
-      <description><![CDATA[开发者工具似乎出现了一种新趋势： 不再使用 SDK 来使用第三方服务，而是“拥有解决方案”。并在您的应用程序中运行该软件。 以下是四个示例： Better-Auth - 用于身份验证 Paykit./sh - 用于付款 Wraps/.dev - 用于电子邮件 Payload - 用于内容管理 我使用以上所有内容，除了Paykit。但看到他们的推出让我认识到我自己的决定的趋势。  我认为这种模式对仅销售工作流程而不销售计算或存储的 SaaS 开发工具构成威胁。 为什么企业每月要为企业级屏幕、按钮和表单支付 8000 美元？  任何人都可以选择其中一种解决方案，并在与其应用程序相同的环境中自行运行它。   由   提交 /u/thehashimwarren   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sh64u8/new_trend_embedded_dev_tools/</guid>
-      <pubDate>Thu, 09 Apr 2026 23:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员交付无法调试的人工智能生成的代码正在成为一种真正的责任，您如何处理它？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sh5ug1/developers_shipping_aigenerated_code_they_cant/</link>
-      <description><![CDATA[这个子程序的真正问题，因为我一直看到这种模式加速，我很好奇其他网络开发人员是如何看待它的。 人工智能编码工具使交付速度变得非常快，但我看到开发人员构建整个功能，将它们推向生产，然后完全无法解释他们自己的代码在出现问题时如何工作。 这不仅仅是初级人员，我和他们交谈过中级工程师提供了完整的身份验证系统，但无法解释他们实现的令牌刷新流程，高级开发人员学习新框架，让人工智能编写整个服务层，但不了解为什么选择某些模式。 代码有效，通过了测试，它通过了代码审查，因为审查者也快速行动。但三个月后，当凌晨 2 点出现问题时，开发人员会盯着他们不理解的代码，因为他们从一开始就从未真正理解过它。 我一直听到“vibecoding”这个术语。就像它是一个功能一样被扔掉，但我认为它对于长期代码库来说确实变得非常危险。技术债务不再是在代码中，而是在开发人员对代码的理解中。 这里的每个人都是如何处理这个问题的？当人工智能编写更多的网络应用程序时，您是否担心会失去理解力？您是否找到了在每天仍使用 Copilot 或 Cursor 的同时保持敏锐的策略？还是我完全想太多了？   由   提交/u/contralai  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sh5ug1/developers_shipping_aigenerated_code_they_cant/</guid>
-      <pubDate>Thu, 09 Apr 2026 23:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让我的 MERN stack 网站运行时间尽可能短且仅运行几个月？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sh4cog/how_can_i_get_my_mern_stack_website_running_for/</link>
-      <description><![CDATA[抱歉，如果这是一个愚蠢的问题。我已经构建了一个 MERN 堆栈应用程序，我想以 2 美元左右的价格购买一个便宜的域名，并在续订之前取消。我之前曾在免费渲染层上托管过，但它变得不活动，并且需要 1-2 分钟才能启动。我不想那样。我只想在合法域名上打开我的网站并使其正常工作。  我不会推广或尝试吸引真正的用户。这样做主要是为了了解实际部署和运行某些内容的工作流程。 AI 表示，要让它不因渲染而因不活动而被淘汰，估计每年的成本约为 50 美元，我不愿意为实践项目支付费用。感谢您提前提供任何建议！   由   提交 /u/ShadowDevil123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sh4cog/how_can_i_get_my_mern_stack_website_running_for/</guid>
-      <pubDate>Thu, 09 Apr 2026 22:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建网站/维护</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sh2bza/create_website_mentenanta/</link>
-      <description><![CDATA[👉 您需要一个真正有效的网站，而不仅仅是看起来不错吗？ 我为真正的客户创建快速、现代且优化的网站。 ✔️ 在任何设备上快速加载 ✔️ 专为转换而设计的结构 ✔️ 易于使用和扩展 我已经从事网络开发工作超过 7 年了，我已经构建了使用的应用程序真实业务中的日常工作。 📩 私下给我写信，我会确切地告诉您我们如何构建适合您的产品。   由   提交/u/lnarcis310  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sh2bza/create_website_mentenanta/</guid>
-      <pubDate>Thu, 09 Apr 2026 21:05:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人认为云变得太复杂了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sh1rc8/is_anyone_else_think_cloud_is_getting_too/</link>
-      <description><![CDATA[我在 Google Cloud 上工作了一段时间，然后切换到 DigitalOcean 来处理我的项目。我发现 DO 的托管数据库非常棒，尤其是现在它们实际上位于您的 VPC 内。 今天我决定再试一次 Google Cloud。去创建一个 MySQL 实例，立即注意到用于连接它的专用服务访问 (PSA) 和专用服务连接 (PSC) 内容。当问人工智能为什么我的 MySQL 实例不像 DigitalOcean 那样只在 VPC 中时，基本上答案是 Cloud SQL 在 Google 自己的租户 VPC 中运行，并可以窥视到您的 VPC。所以它实际上并不在您的 VPC 中。 我明白了，它是通过备份、保留等进行管理的，但在我看来，数据库应该在 VPC 内部本地解析。 AWS 至少可以通过端点将 RDS 存储在您的 VPC 中。 云在这一点上变得太复杂了。与 Kubernetes 相同，选项/设置太多。有人同意吗？   由   提交/u/funrun2090  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sh1rc8/is_anyone_else_think_cloud_is_getting_too/</guid>
-      <pubDate>Thu, 09 Apr 2026 20:44:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们使用哪些非 SaaS 黑匣子进行入职培训？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sh1c01/what_are_people_using_for_onboarding_tours_that/</link>
-      <description><![CDATA[寻找产品导览、指南、入门演练工具。对到目前为止所看到的不太满意。 我一直在评估一堆常用工具，但一直遇到同样的问题：  按用户定价，对于像 UI 弹出窗口这样简单的东西来说感觉很粗糙 一切都是在外部仪表板而不是代码中管理的。因此，如果我们不想继续支付疯狂的月费，我们基本上会失去我们的指南。 对入门内容没有真正的版本控制或代码审查 如果 UI 中的某些内容发生变化，游览就会中断，并且在用户报告之前没有人注意到  是否有一些我找不到带有仪表板的东西，但你可以保留你所做的东西？大牌的价格太高了。而较便宜的东西可能比其价值更多的工作。  好奇这里的人们实际上在使用什么，以及什么有效（或无效）。   由   提交 /u/sharkspizza   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sh1c01/what_are_people_using_for_onboarding_tours_that/</guid>
-      <pubDate>Thu, 09 Apr 2026 20:28:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

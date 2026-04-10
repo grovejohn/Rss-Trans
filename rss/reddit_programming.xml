@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 10 Apr 2026 09:59:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 12:40:38 GMT</lastBuildDate>
+    <item>
+      <title>Netflix 大规模安全自动化的秘密 • Aubrey Chipman 和 Roberto Perez Alcolea</title>
+      <link>https://www.reddit.com/r/programming/comments/1shkw31/netflixs_secret_to_safe_automation_at_scale/</link>
+      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1shkw31/netflixs_secret_to_safe_automation_at_scale/</guid>
+      <pubDate>Fri, 10 Apr 2026 12:18:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>试衣间类比解释平衡括号问题</title>
+      <link>https://www.reddit.com/r/programming/comments/1shjwrh/fitting_room_analogy_to_explain_the_balanced/</link>
+      <description><![CDATA[学习编程时，经常出现的一个问题是检查一系列括号（允许的任何类型()[]{}）是否平衡。 例如： (())()  是有效的，但是 ())(  不是。 如果我们使用一个类比，这个问题很容易解决。想象一下有人正在试衣服的试衣间。  每个 (、[ 或 { 意味着穿上一件衣服 每个 )、] 或 } 意味着脱下一件衣服  符合现实生活的三个简单规则：  你不能脱掉你从未穿过的衣服。 如果你上面有东西，你就不能脱掉它。 当你离开试衣间时，你不应该仍然穿着你试穿的衣服。  这基本上就是堆栈数据结构背后的整个想法，在这篇文章中，我将详细介绍它。 一步一步，交互式示例，遵循我第一次遇到这个问题时的相同思路（不是思路；）。  /u/guiferviz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1shjwrh/fitting_room_analogy_to_explain_the_balanced/</guid>
+      <pubDate>Fri, 10 Apr 2026 11:32:23 GMT</pubDate>
+    </item>
     <item>
       <title>你的人工智能代理记得昨天。</title>
       <link>https://www.reddit.com/r/programming/comments/1shh0k0/your_ai_agents_remember_yesterday/</link>
@@ -48,7 +62,7 @@
       <pubDate>Thu, 09 Apr 2026 19:37:09 GMT</pubDate>
     </item>
     <item>
-      <title>Typescript 的 6 大理念</title>
+      <title>Typescript 的 6 大想法</title>
       <link>https://www.reddit.com/r/programming/comments/1sgx97c/the_6_big_ideas_of_typescript/</link>
       <description><![CDATA[ 由   提交/u/hallettj   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1sgx97c/the_6_big_ideas_of_typescript/</guid>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Successful_Bowl2564   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1sgnbec/how_nasa_built_artemis_iis_faulttolerant_computer/</guid>
       <pubDate>Thu, 09 Apr 2026 11:47:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向软件开发人员的 USB</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgmxq2/usb_for_software_developers/</link>
-      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgmxq2/usb_for_software_developers/</guid>
-      <pubDate>Thu, 09 Apr 2026 11:28:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>信号不能保证 - e2e 测试所说的内容与实际检查的内容之间不匹配</title>
-      <link>https://www.reddit.com/r/programming/comments/1sgkrif/signals_are_not_guarantees_the_mismatch_between/</link>
-      <description><![CDATA[一个月前，我开源了一个 Playwright 辅助库。它上线了大约两周，下载了 300 次 - 全部都是我下载的 😅  r/Playwright 社区是公平的：框架太多了。我花了几个星期的时间思考什么才是真正重要的，我真正想表达的是什么。它归结为一个想法、一个小助手和这篇文章。 tldr：大多数 e2e 测试对行为的当前 UI 表示进行编码，而不是行为本身。它们检查信号（可见性、文本内容、启用状态），而不是测试实际上承诺保护的事实。我认为信号、状态和承诺之间存在有用的区别，这使得测试更安静、更有弹性。 如果您有兴趣，请阅读它，我将不胜感激。如果没有，也许让我知道我可以做得更好！感谢任何反馈，并乐意参与讨论:) 我将在评论中删除帮助程序的要点。   由   提交/u/TranslatorRude4917   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1sgkrif/signals_are_not_guarantees_the_mismatch_between/</guid>
-      <pubDate>Thu, 09 Apr 2026 09:28:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
