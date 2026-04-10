@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 Apr 2026 21:38:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 01:12:41 GMT</lastBuildDate>
+    <item>
+      <title>“人们如何在不紧密耦合的情况下跨本地工具处理上下文共享？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1sh3yzk/how_are_people_handling_context_sharing_across/</link>
+      <description><![CDATA[在使用多个本地工具和服务时，我遇到了一个反复出现的问题： 一旦有多个系统进行交互，一切就开始支离破碎。 即使在自托管设置中，您最终也会得到： – 单独的接口 – 工具之间没有共享上下文 – 工具之间的手动切换步骤 我开始尝试使用轻量级编排层来尝试统一其中的一些内容，但有趣的挑战并不是任务路由。 更困难的部分是：  – 在工具之间传递有意义的状态而不紧密耦合它们  – 保持执行可预测（避免黑盒行为）  – 设计不会变成“又一个仪表板”的界面 现在我倾向于：  – 保持工具隔离  – 使用薄协调层进行路由  – 添加显式执行门而不是完全自动化 在我进一步沿着这条道路走下去之前，我很好奇： 是否有现有的开源项目或模式可以很好地解决这个问题？ 对以下方面特别感兴趣：  – 之间的上下文/状态共享工具  – 跨服务的松散耦合  – 本地优先的编排方法   由   提交 /u/New-Time-8269   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1sh3yzk/how_are_people_handling_context_sharing_across/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:09:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>ISO 跨平台食谱应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1sh3rh2/iso_cross_platform_recipe_app/</link>
+      <description><![CDATA[我正在寻找一个跨平台食谱管理器（或者非常好的笔记应用程序也可以使用（就像以前的 Evernote 一样）。 可以在本地自行托管的东西会很好，最好具有自动同步功能。 即在我的手机上离线时仍然可用，但重新上线时更改会自动同步。 我的 plex 和有声书架都在 Windows 11 micro 上运行pc，所以这就是我想要托管它的地方。 Windows、android 和 Linux 客户端，或者至少一个 Web 客户端会很好。 以上是我的完美愿望清单，但不确定有什么可用，所以任何建议将不胜感激。 /u/botlehewer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1sh3rh2/iso_cross_platform_recipe_app/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:01:09 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚发布的 Rewind：为 Navidrome 用户提供自托管的“Spotify Wrapped”式体验</title>
       <link>https://www.reddit.com/r/opensource/comments/1sgzh2u/just_released_rewind_a_selfhosted_spotify/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我怀念 10 到 15 年前的旧式轻量级调度工具，它使我能够快速创建民意调查并发送 URL，无需任何登录（就像旧的 Doodle 民意调查）。我找不到使用减法模型的 FOSS 替代方案，以便用户可以进入、选择计划冲突并立即离开网站。 因此，我使用 vanilla JS 在 cloudflare D1 上构建了一个免费边缘服务版本，因此保证它永远不会被迷惑。 这是我为自己和我的团队构建的一个小周末项目，但我认为这里的一些人可能会从中得到一些用处。我有兴趣了解任何问题或改进想法。 现已上线：https://timeslot.ink https://github.com/solderlocks/timeslot   由   提交 /u/squakmix   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1sf8jvy/lightweight_subtractive_scheduling_tool_designed/</guid>
       <pubDate>Tue, 07 Apr 2026 20:59:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一个正在寻找微服务和全栈实践的失业开发人员来说，真的是一个很好的开源项目吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1sf6i86/really_good_open_source_project_to_join_as_an/</link>
-      <description><![CDATA[ 由   提交 /u/Impossible_Gift8457   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1sf6i86/really_good_open_source_project_to_join_as_an/</guid>
-      <pubDate>Tue, 07 Apr 2026 19:43:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源感谢日</title>
-      <link>https://www.reddit.com/r/opensource/comments/1sf4s1o/open_source_appreciation_day/</link>
-      <description><![CDATA[最后一刻提醒：不久前，有人谈到宣布设立一个日子来庆祝开源软件，并向最喜欢的软件项目捐赠一点东西。这一天（07.04.）很合适，因为它标志着 Linus Torvalds 发布了 Git。去支持你最喜欢的开源项目吧！让我们开始一个好习惯吧！ p.s.我今年很欣赏 tzapu 的 WifiManager，但找不到捐赠方式🫠   由   提交/u/recursive_knight   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1sf4s1o/open_source_appreciation_day/</guid>
-      <pubDate>Tue, 07 Apr 2026 18:41:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
