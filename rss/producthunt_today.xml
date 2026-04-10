@@ -4,20 +4,62 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Apr 2026 01:12:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 05:17:09 GMT</lastBuildDate>
     <item>
-      <title>犁</title>
-      <link>https://www.producthunt.com/products/plow-easily-install-openclaw-on-a-mac</link>
+      <title>盒</title>
+      <link>https://www.producthunt.com/products/rudel</link>
       <description><![CDATA[
-            Mac 上的 Openclaw，具有您可以理解的权限
+            面向开发团队的 Claude Code 和 Codex 会话分析
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/plow-easily-install-openclaw-on-a-mac</guid>
-      <pubDate>Thu, 09 Apr 2026 06:57:26 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/rudel</guid>
+      <pubDate>Thu, 09 Apr 2026 06:56:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>初创公司.RIP</title>
+      <link>https://www.producthunt.com/products/startups-rip</link>
+      <description><![CDATA[
+            利用 AI 重建超过 1,738 家已倒闭的 YC 初创公司
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/startups-rip</guid>
+      <pubDate>Thu, 09 Apr 2026 06:52:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>莫瑟尔</title>
+      <link>https://www.producthunt.com/products/morsel-3</link>
+      <description><![CDATA[
+            用于烹饪的 Strava
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/morsel-3</guid>
+      <pubDate>Thu, 09 Apr 2026 05:20:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>屏幕流畅</title>
+      <link>https://www.producthunt.com/products/screensmooth</link>
+      <description><![CDATA[
+            几分钟内即可录制精美的屏幕录像
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/screensmooth</guid>
+      <pubDate>Thu, 09 Apr 2026 04:24:41 GMT</pubDate>
     </item>
     <item>
       <title>克劳德管理代理</title>
@@ -34,20 +76,6 @@
       <pubDate>Thu, 09 Apr 2026 02:54:02 GMT</pubDate>
     </item>
     <item>
-      <title>信誉</title>
-      <link>https://www.producthunt.com/products/cred-3</link>
-      <description><![CDATA[
-            AI 代理的 OAuth 凭证委托
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cred-3</guid>
-      <pubDate>Thu, 09 Apr 2026 02:21:51 GMT</pubDate>
-    </item>
-    <item>
       <title>保存MRR</title>
       <link>https://www.producthunt.com/products/savemrr</link>
       <description><![CDATA[
@@ -62,32 +90,60 @@
       <pubDate>Thu, 09 Apr 2026 00:40:46 GMT</pubDate>
     </item>
     <item>
-      <title>开放资源</title>
-      <link>https://www.producthunt.com/products/openresource</link>
+      <title>转换与否</title>
+      <link>https://www.producthunt.com/products/convert-or-not</link>
       <description><![CDATA[
-            通过 AI 聊天助手探索开源工具
+            模拟首次使用的用户。看看他们为什么会放弃
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/openresource</guid>
-      <pubDate>Wed, 08 Apr 2026 17:34:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/convert-or-not</guid>
+      <pubDate>Wed, 08 Apr 2026 23:28:32 GMT</pubDate>
     </item>
     <item>
-      <title>细长网状</title>
-      <link>https://www.producthunt.com/products/slm-mesh</link>
+      <title>在线工作</title>
+      <link>https://www.producthunt.com/products/onform-work</link>
       <description><![CDATA[
-            你们的人工智能编码会话终于可以互相交谈了
+            与 Claude 一起构建表单
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/slm-mesh</guid>
-      <pubDate>Wed, 08 Apr 2026 15:23:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/onform-work</guid>
+      <pubDate>Wed, 08 Apr 2026 12:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>步枪</title>
+      <link>https://www.producthunt.com/products/riffle-2</link>
+      <description><![CDATA[
+            音乐创作的无限协作游乐场
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/riffle-2</guid>
+      <pubDate>Wed, 08 Apr 2026 12:50:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>观察者</title>
+      <link>https://www.producthunt.com/products/observer-by-qapilot</link>
+      <description><![CDATA[
+            IDE 内的实时日志可在无需上下文切换的情况下进行调试
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/observer-by-qapilot</guid>
+      <pubDate>Wed, 08 Apr 2026 11:55:54 GMT</pubDate>
     </item>
     <item>
       <title>原型流</title>
@@ -104,34 +160,6 @@
       <pubDate>Wed, 08 Apr 2026 07:00:24 GMT</pubDate>
     </item>
     <item>
-      <title>点击端口</title>
-      <link>https://www.producthunt.com/products/clickport-analytics</link>
-      <description><![CDATA[
-            现代、强大的 Google Analytics 替代方案 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/clickport-analytics</guid>
-      <pubDate>Wed, 08 Apr 2026 04:38:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>异地</title>
-      <link>https://www.producthunt.com/products/offsite-2</link>
-      <description><![CDATA[
-            建立人类和代理团队，观察他们的工作。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/offsite-2</guid>
-      <pubDate>Wed, 08 Apr 2026 03:55:53 GMT</pubDate>
-    </item>
-    <item>
       <title>草</title>
       <link>https://www.producthunt.com/products/grass-claude-code-from-your-phone</link>
       <description><![CDATA[
@@ -144,34 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/grass-claude-code-from-your-phone</guid>
       <pubDate>Tue, 07 Apr 2026 13:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>吹牛快</title>
-      <link>https://www.producthunt.com/products/brag-fast</link>
-      <description><![CDATA[
-            您发布的功能值得被看到
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/brag-fast</guid>
-      <pubDate>Sat, 04 Apr 2026 06:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>梦书</title>
-      <link>https://www.producthunt.com/products/dreambooks</link>
-      <description><![CDATA[
-            发现儿童书籍并一起跟踪阅读情况。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dreambooks</guid>
-      <pubDate>Fri, 03 Apr 2026 05:10:59 GMT</pubDate>
     </item>
     <item>
       <title>产品短片</title>
