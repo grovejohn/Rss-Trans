@@ -2,23 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Apr 2026 18:36:57 GMT</lastBuildDate>
-    <item>
-      <title>众播3.0</title>
-      <link>https://www.producthunt.com/products/crowdcast</link>
-      <description><![CDATA[
-            无需切换工具即可举办各种类型的活动
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/crowdcast</guid>
-      <pubDate>Fri, 10 Apr 2026 05:07:06 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 10 Apr 2026 21:25:37 GMT</lastBuildDate>
     <item>
       <title>漂移</title>
       <link>https://www.producthunt.com/products/drift-journal-that-lets-go</link>
@@ -76,32 +62,32 @@
       <pubDate>Thu, 09 Apr 2026 21:37:25 GMT</pubDate>
     </item>
     <item>
-      <title>《阿凡达 V》由 HeyGen 设计</title>
-      <link>https://www.producthunt.com/products/heygen</link>
+      <title>复杂性指标</title>
+      <link>https://www.producthunt.com/products/complexity-indicator</link>
       <description><![CDATA[
-            全球最先进的AI头像模型
+            知道您的代码何时变得无法维护
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/heygen</guid>
-      <pubDate>Thu, 09 Apr 2026 17:54:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/complexity-indicator</guid>
+      <pubDate>Thu, 09 Apr 2026 20:13:46 GMT</pubDate>
     </item>
     <item>
-      <title>困惑金融</title>
-      <link>https://www.producthunt.com/products/perplexity-ai</link>
+      <title>抹茶</title>
+      <link>https://www.producthunt.com/products/matcha-4</link>
       <description><![CDATA[
-            在一个地方查看您的完整财务生活，从银行到经纪公司
+            第一个开源 iPad 笔记应用程序
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/perplexity-ai</guid>
-      <pubDate>Thu, 09 Apr 2026 16:42:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/matcha-4</guid>
+      <pubDate>Thu, 09 Apr 2026 18:24:11 GMT</pubDate>
     </item>
     <item>
       <title>夜间专业版</title>
@@ -118,6 +104,20 @@
       <pubDate>Thu, 09 Apr 2026 16:12:38 GMT</pubDate>
     </item>
     <item>
+      <title>薄荷</title>
+      <link>https://www.producthunt.com/products/outtalent</link>
+      <description><![CDATA[
+            人工智能伴侣，打造清晰的职业道路
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/outtalent</guid>
+      <pubDate>Thu, 09 Apr 2026 13:27:30 GMT</pubDate>
+    </item>
+    <item>
       <title>幽灵X</title>
       <link>https://www.producthunt.com/products/ghostlyx</link>
       <description><![CDATA[
@@ -130,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/ghostlyx</guid>
       <pubDate>Thu, 09 Apr 2026 11:46:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>收件箱自动驾驶仪（按维度）</title>
+      <link>https://www.producthunt.com/products/dimension-2</link>
+      <description><![CDATA[
+            您的收件箱已处理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/dimension-2</guid>
+      <pubDate>Thu, 09 Apr 2026 10:39:23 GMT</pubDate>
     </item>
     <item>
       <title>巴格西</title>
@@ -146,74 +160,60 @@
       <pubDate>Thu, 09 Apr 2026 09:53:03 GMT</pubDate>
     </item>
     <item>
-      <title>在组织2.0中</title>
-      <link>https://www.producthunt.com/products/socap</link>
+      <title>科登提斯</title>
+      <link>https://www.producthunt.com/products/codentis</link>
       <description><![CDATA[
-            同时运营 10 个人工智能业务
+            直接在终端中运行智能工作流程
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/socap</guid>
-      <pubDate>Thu, 09 Apr 2026 09:24:36 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/codentis</guid>
+      <pubDate>Thu, 09 Apr 2026 09:13:36 GMT</pubDate>
     </item>
     <item>
-      <title>坚果工作室</title>
-      <link>https://www.producthunt.com/products/nut-studio-3</link>
+      <title>佛</title>
+      <link>https://www.producthunt.com/products/buddi-living-in-the-notch</link>
       <description><![CDATA[
-            在自己的电脑上快速部署个人AI Agent
+            您的克劳德·代码伴侣，生活在一流之中。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nut-studio-3</guid>
-      <pubDate>Thu, 09 Apr 2026 08:10:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/buddi-living-in-the-notch</guid>
+      <pubDate>Thu, 09 Apr 2026 07:55:56 GMT</pubDate>
     </item>
     <item>
-      <title>灵魂链接</title>
-      <link>https://www.producthunt.com/products/soullinkai</link>
+      <title>标签集</title>
+      <link>https://www.producthunt.com/products/labelsets</link>
       <description><![CDATA[
-            移动 3D Vibe 编码合作伙伴 
+            具有内置质量分数的数据集市场
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/soullinkai</guid>
-      <pubDate>Wed, 08 Apr 2026 19:40:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/labelsets</guid>
+      <pubDate>Thu, 09 Apr 2026 07:05:34 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌财经</title>
-      <link>https://www.producthunt.com/products/google</link>
+      <title>脊柱集成</title>
+      <link>https://www.producthunt.com/products/spine-2</link>
       <description><![CDATA[
-            提出复杂的财务问题，获得基于人工智能的答案
+            跨多个应用程序综合和研究信息的人工智能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Wed, 08 Apr 2026 16:26:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>马努斯技能</title>
-      <link>https://www.producthunt.com/products/manus-skills</link>
-      <description><![CDATA[
-            将 Manus 工作流程打包成可重用的代理技能
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/manus-skills</guid>
-      <pubDate>Mon, 16 Mar 2026 16:39:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/spine-2</guid>
+      <pubDate>Tue, 07 Apr 2026 17:02:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
