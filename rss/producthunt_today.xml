@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 10 Apr 2026 12:41:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 15:39:41 GMT</lastBuildDate>
+    <item>
+      <title>航点-1.5</title>
+      <link>https://www.producthunt.com/products/waypoint-1-5</link>
+      <description><![CDATA[
+            日常 GPU 上的实时生成世界
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/waypoint-1-5</guid>
+      <pubDate>Fri, 10 Apr 2026 05:47:38 GMT</pubDate>
+    </item>
     <item>
       <title>漂移</title>
       <link>https://www.producthunt.com/products/drift-journal-that-lets-go</link>
@@ -20,46 +34,18 @@
       <pubDate>Fri, 10 Apr 2026 04:45:37 GMT</pubDate>
     </item>
     <item>
-      <title>HN Tokenmaxxing</title>
-      <link>https://www.producthunt.com/products/hn-tokenmaxxing</link>
+      <title>最小最大 CLI</title>
+      <link>https://www.producthunt.com/products/minimax</link>
       <description><![CDATA[
-            AI 驱动的开发者排行榜
+            为您的 AI 代理提供原生多模式功能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hn-tokenmaxxing</guid>
-      <pubDate>Fri, 10 Apr 2026 00:22:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德顾问工具</title>
-      <link>https://www.producthunt.com/products/claude</link>
-      <description><![CDATA[
-            将 Opus 作为顾问，将 Sonnet 或 Haiku 作为执行人
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/claude</guid>
-      <pubDate>Thu, 09 Apr 2026 21:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>复杂性指标</title>
-      <link>https://www.producthunt.com/products/complexity-indicator</link>
-      <description><![CDATA[
-            知道您的代码何时变得无法维护
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/complexity-indicator</guid>
-      <pubDate>Thu, 09 Apr 2026 20:13:46 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/minimax</guid>
+      <pubDate>Fri, 10 Apr 2026 04:20:39 GMT</pubDate>
     </item>
     <item>
       <title>困惑金融</title>
@@ -76,46 +62,18 @@
       <pubDate>Thu, 09 Apr 2026 16:42:06 GMT</pubDate>
     </item>
     <item>
-      <title>爱情胶囊</title>
-      <link>https://www.producthunt.com/products/lovecapsule</link>
+      <title>轨道金钱</title>
+      <link>https://www.producthunt.com/products/orbit-money</link>
       <description><![CDATA[
-            您孩子的记忆将永远存储在您的 Google 云端硬盘中。
+            在一个地方跟踪您付费的每个 API 和工具
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/lovecapsule</guid>
-      <pubDate>Thu, 09 Apr 2026 16:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>薄荷</title>
-      <link>https://www.producthunt.com/products/outtalent</link>
-      <description><![CDATA[
-            人工智能伴侣，打造清晰的职业道路
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/outtalent</guid>
-      <pubDate>Thu, 09 Apr 2026 13:27:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>幽灵X</title>
-      <link>https://www.producthunt.com/products/ghostlyx</link>
-      <description><![CDATA[
-            隐私优先的分析，没有 cookie 或混乱
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ghostlyx</guid>
-      <pubDate>Thu, 09 Apr 2026 11:46:58 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/orbit-money</guid>
+      <pubDate>Thu, 09 Apr 2026 13:38:35 GMT</pubDate>
     </item>
     <item>
       <title>巴格西</title>
@@ -132,8 +90,36 @@
       <pubDate>Thu, 09 Apr 2026 09:53:03 GMT</pubDate>
     </item>
     <item>
+      <title>在组织2.0中</title>
+      <link>https://www.producthunt.com/products/socap</link>
+      <description><![CDATA[
+            同时运营 10 个人工智能业务
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/socap</guid>
+      <pubDate>Thu, 09 Apr 2026 09:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>沃尔特尔</title>
+      <link>https://www.producthunt.com/products/vaultr-2</link>
+      <description><![CDATA[
+            专为年轻专业人士打造的个人理财应用
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/vaultr-2</guid>
+      <pubDate>Thu, 09 Apr 2026 07:33:11 GMT</pubDate>
+    </item>
+    <item>
       <title>灵魂链接</title>
-      <link>https://www.producthunt.com/products/soullink-92cef2a4-c9d2-4e16-82e6-96f992f69b77</link>
+      <link>https://www.producthunt.com/products/soullinkai</link>
       <description><![CDATA[
             移动 3D Vibe 编码合作伙伴 
           
@@ -142,22 +128,8 @@
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/soullink-92cef2a4-c9d2-4e16-82e6-96f992f69b77</guid>
+      <guid>https://www.producthunt.com/products/soullinkai</guid>
       <pubDate>Wed, 08 Apr 2026 19:40:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌财经</title>
-      <link>https://www.producthunt.com/products/google</link>
-      <description><![CDATA[
-            提出复杂的财务问题，获得基于人工智能的答案
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Wed, 08 Apr 2026 16:26:37 GMT</pubDate>
     </item>
     <item>
       <title>维克多技能市场</title>
@@ -188,7 +160,7 @@
       <pubDate>Tue, 07 Apr 2026 17:02:35 GMT</pubDate>
     </item>
     <item>
-      <title>数据来源</title>
+      <title>敲数据源</title>
       <link>https://www.producthunt.com/products/knock-6</link>
       <description><![CDATA[
             触发来自 Stripe、Clerk、Supabase 的基于事件的消息传递
@@ -202,18 +174,46 @@
       <pubDate>Mon, 06 Apr 2026 22:26:41 GMT</pubDate>
     </item>
     <item>
-      <title>自信地</title>
-      <link>https://www.producthunt.com/products/konfide</link>
+      <title>防层镀铬</title>
+      <link>https://www.producthunt.com/products/layerproof-social-content-generation</link>
       <description><![CDATA[
-            人工智能代理与人类专家可供聘用
+            根据您的数据构建幻灯片，每项主张都有证据支持
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/konfide</guid>
-      <pubDate>Fri, 27 Mar 2026 09:22:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/layerproof-social-content-generation</guid>
+      <pubDate>Mon, 06 Apr 2026 09:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>威美工作室</title>
+      <link>https://www.producthunt.com/products/wm-studio</link>
+      <description><![CDATA[
+            使用数字孪生制作活动准备内容
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/wm-studio</guid>
+      <pubDate>Fri, 03 Apr 2026 09:20:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>代理时代的思考</title>
+      <link>https://www.producthunt.com/products/note-taker</link>
+      <description><![CDATA[
+            与您的代理人深入思考
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/note-taker</guid>
+      <pubDate>Sun, 15 Mar 2026 13:55:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
