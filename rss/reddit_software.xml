@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 12 Apr 2026 01:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 05:16:10 GMT</lastBuildDate>
+    <item>
+      <title>Technologia：6.x 是比 7.x 最新的版本，并要求我从 7.x 升级到 6.x....</title>
+      <link>https://www.reddit.com/r/software/comments/1sj4kp8/technologia_6x_is_latest_version_than_7x_and/</link>
+      <description><![CDATA[ 由   提交/u/Asleep_Cap_8406   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sj4kp8/technologia_6x_is_latest_version_than_7x_and/</guid>
+      <pubDate>Sun, 12 Apr 2026 04:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>随机音量故障</title>
+      <link>https://www.reddit.com/r/software/comments/1sj316i/random_volume_glitch/</link>
+      <description><![CDATA[我的 roku 电视随机停止发出声音，所以 k 我把它调高，看看这是否是问题所在，电视让我发出很大的异常声音，听起来就像有人拿着麦克风，在最奇怪的部分前面嘎吱作响，最奇怪的是我将其关闭并重新打开，它又恢复正常了    由   提交 /u/Unkn0wnP3rs0n10101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sj316i/random_volume_glitch/</guid>
+      <pubDate>Sun, 12 Apr 2026 03:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows 11 太糟糕了，我快疯了</title>
+      <link>https://www.reddit.com/r/software/comments/1sj1p5c/windows_11_is_ass_and_im_losing_my_mind/</link>
+      <description><![CDATA[ 由   提交 /u/MilkNo9503   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sj1p5c/windows_11_is_ass_and_im_losing_my_mind/</guid>
+      <pubDate>Sun, 12 Apr 2026 02:06:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>minvid — 拖放式视频压缩 CLI，通常可将视频大小缩小 90%</title>
+      <link>https://www.reddit.com/r/software/comments/1sj0xy0/minvid_a_draganddrop_video_compression_cli_that/</link>
+      <description><![CDATA[大家好！ 我厌倦了重用 ffmpeg 命令和处理路径/参数，所以我做了一个简单的工具：拖拽和拖拽。将文件/文件夹放入终端，选择一个预设，它会处理其余的事情。 预设基于我仔细调整和测试的 ffmpeg 设置。在我的使用中，它减少了约 90% 的屏幕录制，而没有明显的质量损失。 https://github.com/Nunatic02/minvid 顺便说一句。 README.md 包含原始 ffmpeg 命令以及每个参数的详细信息（如果您想直接使用或调整它们）。 希望它有帮助！ 🚀   由   提交 /u/Embarrassed_Tell6793   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sj0xy0/minvid_a_draganddrop_video_compression_cli_that/</guid>
+      <pubDate>Sun, 12 Apr 2026 01:30:38 GMT</pubDate>
+    </item>
     <item>
       <title>您对 Wonderunit Storyboarder 有何看法？</title>
       <link>https://www.reddit.com/r/software/comments/1siyit9/whats_your_opinion_on_wonderunit_storyboarder/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[ 由   提交/u/The4fandoms  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1siyhro/software_recommendations_for_animation_workflow/</guid>
       <pubDate>Sat, 11 Apr 2026 23:36:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>minvid — 拖放式视频压缩 CLI，通常可将视频大小缩小 90%</title>
-      <link>https://www.reddit.com/r/software/comments/1sivz33/minvid_a_draganddrop_video_compression_cli_that/</link>
-      <description><![CDATA[大家好！ 我厌倦了重用 ffmpeg 命令和处理路径/参数，所以我做了一个简单的工具：拖拽和拖拽。将文件/文件夹放入终端，选择一个预设，它会处理其余的事情。 预设基于我仔细调整和测试的 ffmpeg 设置。在我的使用中，它减少了约 90% 的屏幕录制，而没有明显的质量损失。 https://github.com/Nunatic02/minvid 顺便说一句。 README.md 包含原始 ffmpeg 命令以及每个参数的详细信息（如果您想直接使用或调整它们）。 希望它有帮助！ 🚀   由   提交/u/Embarrassed_Tell6793   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sivz33/minvid_a_draganddrop_video_compression_cli_that/</guid>
-      <pubDate>Sat, 11 Apr 2026 21:48:32 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个基于Scheme的文本编辑器（Sev）——寻找贡献者+反馈</title>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/xtreme79  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1sijjyf/preview_pdf_fast_or_in_large_grid_view/</guid>
       <pubDate>Sat, 11 Apr 2026 13:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨斯钱🤑</title>
-      <link>https://www.reddit.com/r/software/comments/1sijbz6/saas_money/</link>
-      <description><![CDATA[ 由   提交/u/maulik1807  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sijbz6/saas_money/</guid>
-      <pubDate>Sat, 11 Apr 2026 13:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Windows 的电影资源管理器应用程序？</title>
-      <link>https://www.reddit.com/r/software/comments/1sij5af/movie_explorer_app_for_windows/</link>
-      <description><![CDATA[我正在寻找一款可以浏览和播放下载的电影的应用程序。我很快要去露营，想带我的电脑来播放电影/电视节目。我尝试找到一些，但它们要么适用于 MacOS，要么适用于 Andriod。有人知道有什么应用程序可以帮助我吗？谢谢。   由   提交/u/Klutzy_Economist_165   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sij5af/movie_explorer_app_for_windows/</guid>
-      <pubDate>Sat, 11 Apr 2026 13:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技工作现在感觉不同了，老实说我正在挣扎</title>
-      <link>https://www.reddit.com/r/software/comments/1sigqqh/tech_jobs_feel_different_now_and_im_honestly/</link>
-      <description><![CDATA[不知道是不是只有我一个人这么认为，最近在科技领域工作感觉比以前压力更大了。 自从 AI 工具变得常态化以来，感觉期望值悄悄上升了。就像经理们知道现在可以更快地完成事情一样，所以如果你不按照这个速度前进，就会对你产生不好的影响。即使没有人直接说出来，你也能感觉到。 真正困扰我的是持续不断的压力。不仅仅是在工作时间——感觉你应该一直在改进、学习和优化一切。我看到有家人的同事晚上仍然在苦苦挣扎，而我只是……做不到。老实说，我不想。 它开始让我的头脑变得更加混乱。我现在经常对我的工作进行事后反思。比如，这够快吗？我可以用人工智能更快地完成这件事吗？我是否落后了？ 我越来越多地考虑放弃一下并休息一下，因为这对我来说是不可持续的。整件事开始让我疲惫不堪。 并不是真的寻求建议，只是需要把这件事从心里吐出来。   由   提交 /u/Live-Employment-858   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sigqqh/tech_jobs_feel_different_now_and_im_honestly/</guid>
-      <pubDate>Sat, 11 Apr 2026 11:37:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
