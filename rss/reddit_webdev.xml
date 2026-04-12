@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 11 Apr 2026 21:25:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 01:16:57 GMT</lastBuildDate>
+    <item>
+      <title>网站营销</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sj0hz2/website_marketing/</link>
+      <description><![CDATA[我刚刚完成了一个项目，我真的希望人们使用它，无论他们是否一致或频繁，我只是希望人们偶尔访问它，那么，完美的营销策略或填充网站的方法是什么？   由   提交/u/AdAutomatic5665  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sj0hz2/website_marketing/</guid>
+      <pubDate>Sun, 12 Apr 2026 01:09:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了 Sardine——一个供人工智能代理进行交易的股票市场模拟器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1siy5ik/i_built_sardine_a_stock_market_simulator_for_ai/</link>
+      <description><![CDATA[我构建了 Sardine：一个基于会话的股票市场，LLM 代理通过实际的限价订单簿匹配引擎相互进行交易。没有人类，没有脚本，只有代理读取市场数据并提交实时相互结算的订单。 每个会话都运行可配置的交易品种篮子和最多任意数量的代理。交易和研究代理共享类型工具；聊天机器人可以将事件注入实时模拟（“美联储加息 50 个基点”），您可以观察市场在接下来的 N 个价格变动中的反应。 WebSocket 仪表板实时传输烛台、订单簿深度和代理活动。 Stack：Mastra（代理）、TanStack Start、Drizzle + Postgres、Bun。当您有密钥时，从 Alpaca 引导，否则为种子价格。 为什么我认为它有用：针对历史柱的回溯测试无法告诉您当其他代理对其订单做出反应时您的代理的行为方式。沙丁鱼是用来研究二阶东西的——群体动态，研究人员对新闻事件的阅读实际上如何在书中产生涟漪效应。这是一个研究环境，而不是经纪公司，我并不声称它在真实市场上有效。 Apache 2.0。很高兴在评论中深入了解架构或匹配引擎。 🔗 https://github.com/lightbearco/sardine   由   提交 /u/MistakeUseful5506   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1siy5ik/i_built_sardine_a_stock_market_simulator_for_ai/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:21:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新我的网络开发技能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sixdc5/refreshing_my_skills_in_web_development/</link>
+      <description><![CDATA[嘿，我想再次刷新我在 Web 开发方面的知识和技能，更准确地说是 TypeScript、React 和 Next。有什么好的资源可以做到这一点？最好是免费的，也许有一些互动元素。我不太喜欢 YouTube 教程之类的资源   由   提交/u/woidthevoid   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sixdc5/refreshing_my_skills_in_web_development/</guid>
+      <pubDate>Sat, 11 Apr 2026 22:47:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>你为色盲者设计/编码吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1six1ti/do_you_design_code_for_the_colorblind/</link>
+      <description><![CDATA[      我出于需要创建了一个工具，并相信它对很多人有用。它被称为 colorcheck.dev - 扫描、上传等。 我的问题是 Excel 工作表、演示文稿等，这比大多数人想象的要大。 作为开发人员，您怎么看？   由   提交/u/Realistic_Respect914   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1six1ti/do_you_design_code_for_the_colorblind/</guid>
+      <pubDate>Sat, 11 Apr 2026 22:33:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>TimeIt - 我做了一个日常小游戏，测试你的时间感</title>
+      <link>https://www.reddit.com/r/webdev/comments/1six11q/timeit_i_made_a_small_daily_game_that_tests_your/</link>
+      <description><![CDATA[       由   提交/u/thepelipeli   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1six11q/timeit_i_made_a_small_daily_game_that_tests_your/</guid>
+      <pubDate>Sat, 11 Apr 2026 22:32:47 GMT</pubDate>
+    </item>
     <item>
       <title>ApiArk -> 开源本地首个API</title>
       <link>https://www.reddit.com/r/webdev/comments/1sivabk/apiark_open_source_local_first_api/</link>
@@ -74,41 +109,6 @@
       <description><![CDATA[我自己就是软件开发人员，在我加入过的几乎每个团队中，我们都遇到过同样的反复出现的问题：共享的东西没有明确的所有权。 诸如此类的事情：  临时环境 测试设备 沙盒帐户  它总是以同样的方式结束：有人部署在其他人，QA 测试被打断，或者你在 Slack 中挖掘，询问“现在谁在使用这个？” 随着时间的推移，我们尝试了很多事情：  Slack 消息 → 它立即被埋葬，而且绝对令人讨厌。 电子表格 → 很快就会过时  这是那些感觉不是什么大不了的小事情之一，但不知何故每周都会浪费大量时间。 我对此有点厌倦，最终构建了一个内部应用程序来尝试不同的方法：基本上是一种查看当前正在使用的内容并“保留”/“释放”内容的简单方法。它（如果被占用，则有一个队列）就在您的任务栏中，无需任何上下文切换。 我很好奇您在团队中是否遇到了同样的问题？您如何处理它？&lt;​​/p&gt; 如果您想检查我的应用程序 (SnatchHub)，您可以在这里找到它：https://getsnatchhub.com   由   提交/u/amashq  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1sirk5m/i_built_an_app_to_fix_whos_using_staging_chaos/</guid>
       <pubDate>Sat, 11 Apr 2026 18:55:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>印度开发者实际上是如何使用人工智能工具的？真正的好奇心，2 分钟调查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sirg1z/how_are_indian_devs_actually_using_ai_tools/</link>
-      <description><![CDATA[      我是一名后端开发者，目前正在从事个人项目，我正在努力理解 AI 工具如何实际融入印度开发者的日常生活中。我的兴趣在于了解实际应用，而不是像 LinkedIn 这样的平台上常见的理想化描述。 具体来说，我很想知道您是否正在使用 Copilot 等工具，或者您的工作流程是否主要涉及打开 ChatGPT 选项卡。此外，我很高兴知道贵公司是否有限制使用人工智能工具的政策，以及您是否有信心在生产级代码中使用人工智能。 这项调查将占用您大约两分钟的时间。 一旦收集到足够数量的回复，我打算在此处分享汇总结果。我的目标是深入了解开发者社区的真实观点，并将其与更广泛的全球讨论进行对比。感谢您的参与。   由   提交/u/kirukanazzK7  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sirg1z/how_are_indian_devs_actually_using_ai_tools/</guid>
-      <pubDate>Sat, 11 Apr 2026 18:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有人工智能的分层“4D”卡片生成器，终于看起来正确了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sir5r9/layered_4d_card_generator_with_ai_finally_got_it/</link>
-      <description><![CDATA[      我一直在做这个小项目，涉及分层卡片和人工智能（是的，我是一个 degen vivi 编码器） 你基本上生成动漫风格的卡片，但不是作为一个平面图像，而是分成多个图层（背景、角色、效果、ui 等），然后在浏览器中以深度渲染它所以它会对鼠标移动做出反应，就像你看到人们制作的口袋妖怪 4d/3d 卡一样。我仍在调整它，但它现在看起来非常干净。） 如果有人想搞乱它： github链接   由   提交/u/Away-Signature1626  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sir5r9/layered_4d_card_generator_with_ai_finally_got_it/</guid>
-      <pubDate>Sat, 11 Apr 2026 18:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个小型网络工具，用于生成老式电报风格的消息（图像+共享链接+音乐）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sir2bb/made_a_small_web_tool_for_generating_vintage/</link>
-      <description><![CDATA[      在尝试 UI 创意的同时将其构建为一个小型副项目。 它将消息转换为老式电报格式，并允许您将其导出为图像、共享或附加歌曲。 它完全免费且无广告。无需登录，没有混乱。 希望获得有关用户界面或改进想法的反馈。 https://egreet.in/vintage-telegram/   由   提交/u/TimeDeep1497  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sir2bb/made_a_small_web_tool_for_generating_vintage/</guid>
-      <pubDate>Sat, 11 Apr 2026 18:36:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 Chrome 扩展来保存和搜索 ChatGPT 历史记录（并将聊天导出为 PDF）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1siqu9j/i_built_a_chrome_extension_to_save_search_chatgpt/</link>
-      <description><![CDATA[我每天都使用 ChatGPT 来学习和编码，但我一直遇到同样的问题... 我会得到非常有用的答案 - 但后来完全失去了它们。 再次找到任何东西意味着： - 无休止地滚动长聊天 - 尝试随机关键字并希望它出现 导出甚至更糟糕的是： - 复制粘贴所有内容 - 将其转储到笔记或 WhatsApp 中 - 或手动格式化 PDF 感觉比应有的更痛苦。 所以我决定为自己构建一些东西。 我制作了一个名为 ChatTrack 的 Chrome 扩展，它： - 自动保存 ChatGPT 历史记录 - 让你搜索过去的提示立即 - 在边栏中显示所有提示，以便您可以跳转到任何消息 - 一键将 ChatGPT 聊天导出为干净的 PDF - 包括长时间聊天的性能模式 老实说，它使使用 ChatGPT 感觉更有条理。 我仍在改进它，但它已经是我日常工作流程的一部分。 很好奇这里的其他人是否也有同样的问题- 或者如果你以不同的方式解决这个问题？   由   提交/u/OkDot574  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1siqu9j/i_built_a_chrome_extension_to_save_search_chatgpt/</guid>
-      <pubDate>Sat, 11 Apr 2026 18:28:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找新 API 的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1siqsjx/looking_for_suggestions_for_new_apis/</link>
-      <description><![CDATA[      大家好！  这对我来说是一个相当新的领域，但我想在尝试发布一些 API 时获得一些乐趣。  我刚刚发布了我的第一个 API。我认为它非常简单，而且可能不是很有用。它是一个电话号码验证器（Phone Validator &amp; Enrichment API）。  目前，我已将其发布在rapidapi上。我很想听听您对此平台的想法以及它是否适合发布 API。  我也很难找到 API 的想法。您对去哪里看有什么建议吗？你使用什么策略？   由   提交 /u/RottenAppleGames   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1siqsjx/looking_for_suggestions_for_new_apis/</guid>
-      <pubDate>Sat, 11 Apr 2026 18:26:16 GMT</pubDate>
     </item>
     </channel>
 </rss>

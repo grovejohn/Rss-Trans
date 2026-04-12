@@ -4,20 +4,34 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 11 Apr 2026 21:24:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 01:16:02 GMT</lastBuildDate>
+    <item>
+      <title>您对 Wonderunit Storyboarder 有何看法？</title>
+      <link>https://www.reddit.com/r/software/comments/1siyit9/whats_your_opinion_on_wonderunit_storyboarder/</link>
+      <description><![CDATA[ 由   提交/u/The4fandoms  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1siyit9/whats_your_opinion_on_wonderunit_storyboarder/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:37:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>动画工作流程的软件推荐</title>
+      <link>https://www.reddit.com/r/software/comments/1siyhro/software_recommendations_for_animation_workflow/</link>
+      <description><![CDATA[ 由   提交/u/The4fandoms  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1siyhro/software_recommendations_for_animation_workflow/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:36:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>minvid — 拖放式视频压缩 CLI，通常可将视频大小缩小 90%</title>
+      <link>https://www.reddit.com/r/software/comments/1sivz33/minvid_a_draganddrop_video_compression_cli_that/</link>
+      <description><![CDATA[大家好！ 我厌倦了重用 ffmpeg 命令和处理路径/参数，所以我做了一个简单的工具：拖拽和拖拽。将文件/文件夹放入终端，选择一个预设，它会处理其余的事情。 预设基于我仔细调整和测试的 ffmpeg 设置。在我的使用中，它减少了约 90% 的屏幕录制，而没有明显的质量损失。 https://github.com/Nunatic02/minvid 顺便说一句。 README.md 包含原始 ffmpeg 命令以及每个参数的详细信息（如果您想直接使用或调整它们）。 希望它有帮助！ 🚀   由   提交/u/Embarrassed_Tell6793   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sivz33/minvid_a_draganddrop_video_compression_cli_that/</guid>
+      <pubDate>Sat, 11 Apr 2026 21:48:32 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个基于Scheme的文本编辑器（Sev）——寻找贡献者+反馈</title>
       <link>https://www.reddit.com/r/software/comments/1siuv6d/i_built_a_schemepowered_text_editor_sev_looking/</link>
       <description><![CDATA[大家好 — 在过去的三个月里，我一直在构建一个名为 Sev 的开源文本编辑器。 为什么是“Sev”？因为：  Scheme &lt;-- （动力来自） Emacs &lt;-- （灵感来自） Vim &lt;-- （灵感来自）  （是的，我想不出更好的名字...） Key想法：  使用 SDL3 和 Clay 用 C 语言编写的核心功能 通过 Scheme 公开面向用户的命令，以实现配置和可扩展性 主要受到 Emacs 和 (Neo)vim 的启发，但设计灵感也来自现代编辑器/IDE，如 VSCode 和 Zed。 在 Linux 和 macOS 上运行（很快会在 Windows 上运行！），并直接在浏览器中通过WebAssembly。  近期路线图上的功能：  文件选择器 文件搜索和替换 非模式编辑（目前都是邪恶模式） 应用内长格式文档 命令、文件、主题等的模糊补全。 设置一大堆测试。我开始构建这个是为了好玩，没想到会持续这么久。这不是借口，但我基本上是盲目地飞行并手动测试所有内容。  长期：  通过套接字和 Eg-walker/CRDT 实现进行协作编辑 声明式 UI 构建方案 DSL，以便用户可以为其方案插件创建自定义 UI Org-mode / Obsidian 类型功能，用于智能注释类型的使用盒子  我昨天清理了 README，添加了 CONTRIBUTORS.md 并整理了外部贡献的代码库，因为现在感觉是开始与世界分享这个项目的好时机。 如果您对文本编辑器、Lisp/Scheme 或只是软件架构感兴趣，我很乐意提供帮助和反馈！ Sev 的边缘仍然相当粗糙，但我从旅途中学到了很多东西，并且很高兴看到我能走多远。 对于任何想要尝试的人来说，这里有很多小功能和修复，可以产生很大的不同。好的第一个问题：  添加缺少的 Vim 命令（命令太多，我还没有系统地添加所有命令） 改进命令的文档字符串。第一行用于命令面板，因此请保持简短，后面是长格式文档，并在生成帮助窗格时由“describe-command”使用。 报告错误！它确实有很大帮助。  很高兴指导任何人入门👍   由   提交/u/HexMusicTheory  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1siuv6d/i_built_a_schemepowered_text_editor_sev_looking/</guid>
       <pubDate>Sat, 11 Apr 2026 21:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Declutter 将于明天推出 — 只需右键单击即可整理文件（100% 免费）</title>
-      <link>https://www.reddit.com/r/software/comments/1sit9l8/declutter_is_launching_tomorrow_one_rightclick/</link>
-      <description><![CDATA[大家好， 我构建了一些东西，明天将发布它。我想你会发现它很有用。 你的下载文件夹可能看起来像我的一样 — 500 多个随机文件，不知道是什么。您花费 15 分钟搜索一份文档。这很烦人。 我厌倦了。所以我构建了 Declutter。 基本上，您右键单击任何文件夹，它会立即组织所有内容。无需打开应用程序，无需等待，无需订阅。只需右键单击即可完成。也可以离线工作，因此您的文件永远不会离开您的计算机。 我在 20 岁的大学里就开始构建这个东西，因为我真的很喜欢人们使用我制作的东西。这种感觉比什么都好。 它是免费的。永远。我是认真的。 如果您想查看的话，明天将在 Product Hunt 上推出。 Windows 和 Linux。工作速度很快，因为一切都发生在您的计算机上，而不是服务器上。 如果您尝试一下，我很想听听您的想法。说真的。 就是这样。只是想分享。 链接：https://declutter-ten.vercel.app   由   提交/u/MarionberryMelodic81   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sit9l8/declutter_is_launching_tomorrow_one_rightclick/</guid>
-      <pubDate>Sat, 11 Apr 2026 19:59:53 GMT</pubDate>
     </item>
     <item>
       <title>这里有人使用eekfast来搜索pdf文件</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[不知道是不是只有我一个人这么认为，最近在科技领域工作感觉比以前压力更大了。 自从 AI 工具变得常态化以来，感觉期望值悄悄上升了。就像经理们知道现在可以更快地完成事情一样，所以如果你不按照这个速度前进，就会对你产生不好的影响。即使没有人直接说出来，你也能感觉到。 真正困扰我的是持续不断的压力。不仅仅是在工作时间——感觉你应该一直在改进、学习和优化一切。我看到有家人的同事晚上仍然在苦苦挣扎，而我只是……做不到。老实说，我不想。 它开始让我的头脑变得更加混乱。我现在经常对我的工作进行事后反思。比如，这够快吗？我可以用人工智能更快地完成这件事吗？我是否落后了？ 我越来越多地考虑放弃一下并休息一下，因为这对我来说是不可持续的。整件事开始让我疲惫不堪。 并不是真的寻求建议，只是需要把这件事从心里吐出来。   由   提交 /u/Live-Employment-858   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1sigqqh/tech_jobs_feel_different_now_and_im_honestly/</guid>
       <pubDate>Sat, 11 Apr 2026 11:37:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止等待后端准备就绪，构建一个免费托管的模拟 API 服务器。</title>
-      <link>https://www.reddit.com/r/software/comments/1sig36k/stop_waiting_for_the_backend_to_be_ready_built_a/</link>
-      <description><![CDATA[ 由   提交 /u/shabbir_hasan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sig36k/stop_waiting_for_the_backend_to_be_ready_built_a/</guid>
-      <pubDate>Sat, 11 Apr 2026 11:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Basic Java 感觉就像旧的一样。如何在不失去理智的情况下转向 Kotlin 进行 AI 或后端？</title>
-      <link>https://www.reddit.com/r/software/comments/1sie54g/basic_java_is_feeling_like_the_old_how_do_i_move/</link>
-      <description><![CDATA[我是最近的 SDE (5 LPA)，目前陷入 Java 语法循环中。随着 2026 年向 Kotlin 多平台 (KMP) 和协程的高性能 AI 编排的转变，我感觉自己落后了。我向 Machis 提出的问题：​对于那些在班加罗尔/孟买从事高频交易或人工智能初创公司的人：Kotlin 真的会取代 Java 的后端，还是只是炒作？​高级协程的“0.0001%”资源是什么？我厌倦了基本的“Hello World”教程。对于具有丰富后端/人工智能背景的人来说，KMP 是一个可行的职业支点吗？​寻找完美的建议来帮助我弥合差距。   由   提交/u/SAAS_ART  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sie54g/basic_java_is_feeling_like_the_old_how_do_i_move/</guid>
-      <pubDate>Sat, 11 Apr 2026 09:10:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
