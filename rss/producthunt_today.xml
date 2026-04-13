@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 13 Apr 2026 01:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 05:35:37 GMT</lastBuildDate>
     <item>
       <title>分层</title>
       <link>https://www.producthunt.com/products/layered-2</link>
@@ -48,21 +48,7 @@
       <pubDate>Sat, 11 Apr 2026 17:29:00 GMT</pubDate>
     </item>
     <item>
-      <title>总代理</title>
-      <link>https://www.producthunt.com/products/summagent</link>
-      <description><![CDATA[
-            花更少的时间阅读电子邮件，更多的时间采取行动
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/summagent</guid>
-      <pubDate>Fri, 10 Apr 2026 13:35:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>尼斯利顿 MCP</title>
+      <title>尼斯利顿MCP</title>
       <link>https://www.producthunt.com/products/nicely-done</link>
       <description><![CDATA[
             AI 代理的设计环境
@@ -76,32 +62,18 @@
       <pubDate>Fri, 10 Apr 2026 13:15:37 GMT</pubDate>
     </item>
     <item>
-      <title>链接外壳</title>
-      <link>https://www.producthunt.com/products/linkshell</link>
+      <title>u终端</title>
+      <link>https://www.producthunt.com/products/uterminal</link>
       <description><![CDATA[
-            通过手机控制您的 AI 终端会话。
+            专为日常远程访问而构建的桌面终端
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/linkshell</guid>
-      <pubDate>Fri, 10 Apr 2026 09:34:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡普索</title>
-      <link>https://www.producthunt.com/products/capso</link>
-      <description><![CDATA[
-            适用于 Mac 的免费开源屏幕截图和屏幕录像机
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/capso</guid>
-      <pubDate>Fri, 10 Apr 2026 06:54:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/uterminal</guid>
+      <pubDate>Fri, 10 Apr 2026 12:58:11 GMT</pubDate>
     </item>
     <item>
       <title>Edgee Codex 压缩器</title>
@@ -118,18 +90,18 @@
       <pubDate>Thu, 09 Apr 2026 09:46:32 GMT</pubDate>
     </item>
     <item>
-      <title>技术营销框架</title>
-      <link>https://www.producthunt.com/products/tech-marketing-framework</link>
+      <title>InboxJoy - 过滤社交 DM 中的噪音</title>
+      <link>https://www.producthunt.com/products/inboxjoy</link>
       <description><![CDATA[
-            Forkable GTM 系统，适合陷入营销困境的建筑商
+            AI 社交媒体自动化终身许可证
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tech-marketing-framework</guid>
-      <pubDate>Wed, 08 Apr 2026 21:00:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/inboxjoy</guid>
+      <pubDate>Mon, 06 Apr 2026 18:48:20 GMT</pubDate>
     </item>
     <item>
       <title>Mac 版语音助手</title>
@@ -158,6 +130,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/shush-5</guid>
       <pubDate>Fri, 03 Apr 2026 01:48:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>1% 更好</title>
+      <link>https://www.producthunt.com/products/1-better-habit-tracker</link>
+      <description><![CDATA[
+            可视化您日常习惯的复合效应
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/1-better-habit-tracker</guid>
+      <pubDate>Thu, 02 Apr 2026 11:11:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥辛特尔</title>
+      <link>https://www.producthunt.com/products/osintir</link>
+      <description><![CDATA[
+            保护您的身份免遭深度伪造
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/osintir</guid>
+      <pubDate>Tue, 24 Mar 2026 13:03:28 GMT</pubDate>
     </item>
     <item>
       <title>十一实验室的音乐市场</title>
