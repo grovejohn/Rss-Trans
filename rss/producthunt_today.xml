@@ -4,34 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 15 Apr 2026 07:15:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 10:05:39 GMT</lastBuildDate>
     <item>
-      <title>甜蜜边缘</title>
-      <link>https://www.producthunt.com/products/reka-vision</link>
+      <title>深探3.0</title>
+      <link>https://www.producthunt.com/products/fathom</link>
       <description><![CDATA[
-            物理 AI 的前沿智能
+            AI 会议笔记：现在无机器人，在 ChatGPT 和 Claude 中 + 更多
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/reka-vision</guid>
-      <pubDate>Wed, 15 Apr 2026 02:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德代码例程</title>
-      <link>https://www.producthunt.com/products/claude</link>
-      <description><![CDATA[
-            按计划或 webhook 自动运行 Claude 代码
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/claude</guid>
-      <pubDate>Wed, 15 Apr 2026 01:57:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/fathom</guid>
+      <pubDate>Tue, 14 Apr 2026 21:36:11 GMT</pubDate>
     </item>
     <item>
       <title>桌面版 Google 应用</title>
@@ -76,18 +62,18 @@
       <pubDate>Tue, 14 Apr 2026 17:22:59 GMT</pubDate>
     </item>
     <item>
-      <title>实时统计</title>
-      <link>https://www.producthunt.com/products/rtcstats</link>
+      <title>克莱德</title>
+      <link>https://www.producthunt.com/products/clide-the-ai-native-mac-terminal</link>
       <description><![CDATA[
-            通过用户浏览器进行 WebRTC 监控和可观察性
+            带有 AI 的网格布局终端可以驱动您的 shell。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/rtcstats</guid>
-      <pubDate>Tue, 14 Apr 2026 09:35:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/clide-the-ai-native-mac-terminal</guid>
+      <pubDate>Tue, 14 Apr 2026 08:16:25 GMT</pubDate>
     </item>
     <item>
       <title>CC-蜂鸣器</title>
@@ -104,46 +90,46 @@
       <pubDate>Tue, 14 Apr 2026 07:51:26 GMT</pubDate>
     </item>
     <item>
-      <title>爪痕</title>
-      <link>https://www.producthunt.com/products/epsilla</link>
+      <title>剧本情报</title>
+      <link>https://www.producthunt.com/products/playbook-6</link>
       <description><![CDATA[
-            让您的 OpenClaw 更好、更便宜、更快
+            直接与您的文件对话以批量编辑、组织和共享
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/epsilla</guid>
-      <pubDate>Tue, 14 Apr 2026 04:22:02 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/playbook-6</guid>
+      <pubDate>Mon, 13 Apr 2026 20:06:34 GMT</pubDate>
     </item>
     <item>
-      <title>意图</title>
-      <link>https://www.producthunt.com/products/augment-code</link>
+      <title>多内利</title>
+      <link>https://www.producthunt.com/products/donely</link>
       <description><![CDATA[
-            描述一个特征。人工智能代理构建、验证并交付它。
+            Openclaw供团队部署业务+客户端实例
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/augment-code</guid>
-      <pubDate>Mon, 13 Apr 2026 12:54:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/donely</guid>
+      <pubDate>Mon, 13 Apr 2026 03:20:31 GMT</pubDate>
     </item>
     <item>
-      <title>窗格工作室（测试版）</title>
-      <link>https://www.producthunt.com/products/pane-studio</link>
+      <title>CDK 见解</title>
+      <link>https://www.producthunt.com/products/cdk-insights</link>
       <description><![CDATA[
-            制作精美的产品演示
+            在部署之前发现 AWS CDK 中的安全问题
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pane-studio</guid>
-      <pubDate>Mon, 13 Apr 2026 07:38:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/cdk-insights</guid>
+      <pubDate>Sun, 12 Apr 2026 23:58:38 GMT</pubDate>
     </item>
     <item>
       <title>LayerGen人工智能</title>
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/revoclaw</guid>
       <pubDate>Fri, 10 Apr 2026 21:42:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>轮播生成器</title>
+      <link>https://www.producthunt.com/products/carousels-generator</link>
+      <description><![CDATA[
+            从提示到由 AI 提供支持的品牌 LinkedIn 轮播
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/carousels-generator</guid>
+      <pubDate>Wed, 08 Apr 2026 12:54:27 GMT</pubDate>
     </item>
     <item>
       <title>卷</title>
