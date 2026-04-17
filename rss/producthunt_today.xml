@@ -4,76 +4,62 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 16 Apr 2026 21:32:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 01:16:11 GMT</lastBuildDate>
     <item>
-      <title>门厅</title>
-      <link>https://www.producthunt.com/products/foyer-3</link>
+      <title>任务外壳</title>
+      <link>https://www.producthunt.com/products/taskshell</link>
       <description><![CDATA[
-            让您的网站说话并销售
+            受终端/IDE 启发的任务管理器，让您保持流畅
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/foyer-3</guid>
-      <pubDate>Thu, 16 Apr 2026 06:59:06 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/taskshell</guid>
+      <pubDate>Thu, 16 Apr 2026 06:48:10 GMT</pubDate>
     </item>
     <item>
-      <title>代理卡</title>
-      <link>https://www.producthunt.com/products/agent-card</link>
+      <title>麦克欺骗</title>
+      <link>https://www.producthunt.com/products/macspoof</link>
       <description><![CDATA[
-            供 AI 代理使用的预付费虚拟 Visa 卡
+            快速简便的 MAC 地址更改器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agent-card</guid>
-      <pubDate>Thu, 16 Apr 2026 05:42:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/macspoof</guid>
+      <pubDate>Thu, 16 Apr 2026 00:15:19 GMT</pubDate>
     </item>
     <item>
-      <title>Pilot5.ai</title>
-      <link>https://www.producthunt.com/products/pilot5-ai</link>
+      <title>Gemini CLI 中的子代理</title>
+      <link>https://www.producthunt.com/products/google</link>
       <description><![CDATA[
-            你的问题，由5个前沿AI模型审议
+            Gemini CLI 现在在您的终端中运行专业子代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pilot5-ai</guid>
-      <pubDate>Wed, 15 Apr 2026 21:30:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/google</guid>
+      <pubDate>Wed, 15 Apr 2026 20:06:05 GMT</pubDate>
     </item>
     <item>
-      <title>风键</title>
-      <link>https://www.producthunt.com/products/funkey</link>
+      <title>谷歌 Gemini 3.1 Flash TTS</title>
+      <link>https://www.producthunt.com/products/google-gemini-3-1-flash-tts</link>
       <description><![CDATA[
-            适用于 Mac 的机械键盘和鼠标声音
+            具有自然语言语音指导的文本转语音 API
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/funkey</guid>
-      <pubDate>Wed, 15 Apr 2026 18:33:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>屏幕上的黑客地球</title>
-      <link>https://www.producthunt.com/products/hackerearth</link>
-      <description><![CDATA[
-            始终在线、零偏见的人工智能招聘工具
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/hackerearth</guid>
-      <pubDate>Wed, 15 Apr 2026 13:38:25 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/google-gemini-3-1-flash-tts</guid>
+      <pubDate>Wed, 15 Apr 2026 16:11:39 GMT</pubDate>
     </item>
     <item>
       <title>因诺加斯</title>
@@ -90,10 +76,38 @@
       <pubDate>Wed, 15 Apr 2026 10:56:38 GMT</pubDate>
     </item>
     <item>
+      <title>爪形标签</title>
+      <link>https://www.producthunt.com/products/clawtab</link>
+      <description><![CDATA[
+            桌面应用程序可同时管理 20 多个 AI 编码代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clawtab</guid>
+      <pubDate>Wed, 15 Apr 2026 09:34:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>分裂</title>
+      <link>https://www.producthunt.com/products/splitt-3</link>
+      <description><![CDATA[
+            从锁屏和动态岛跟踪您的锻炼情况
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/splitt-3</guid>
+      <pubDate>Wed, 15 Apr 2026 09:23:22 GMT</pubDate>
+    </item>
+    <item>
       <title>钦尼利亚</title>
       <link>https://www.producthunt.com/products/chinilla</link>
       <description><![CDATA[
-            设计系统，对其进行模拟并观察它们在哪里出现故障
+            设计系统，对其进行模拟并观察它们在哪里出现问题
           
 
 讨论
@@ -102,6 +116,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chinilla</guid>
       <pubDate>Wed, 15 Apr 2026 03:37:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>子空间</title>
+      <link>https://www.producthunt.com/products/subspace-4</link>
+      <description><![CDATA[
+            您的所有代理都位于一个应用程序和持久上下文中
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/subspace-4</guid>
+      <pubDate>Wed, 15 Apr 2026 01:53:00 GMT</pubDate>
     </item>
     <item>
       <title>iOS 研究员</title>
@@ -116,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/fellow-app</guid>
       <pubDate>Tue, 14 Apr 2026 21:49:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>克劳德·代码桌面应用程序重新设计</title>
-      <link>https://www.producthunt.com/products/claude-redesigned</link>
-      <description><![CDATA[
-            从一个桌面工作区运行并行编码代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/claude-redesigned</guid>
-      <pubDate>Tue, 14 Apr 2026 19:22:22 GMT</pubDate>
     </item>
     <item>
       <title>谷歌浏览器技能</title>
@@ -160,18 +174,32 @@
       <pubDate>Tue, 14 Apr 2026 07:57:22 GMT</pubDate>
     </item>
     <item>
-      <title>X-飞行员</title>
-      <link>https://www.producthunt.com/products/x-pilot-5</link>
+      <title>扎塔娜拍摄的坎帕拉</title>
+      <link>https://www.producthunt.com/products/kampala-by-zatanna</link>
       <description><![CDATA[
-             准确地解释任何事情，从文档到视频课程
+            立即对网站、移动或桌面应用程序进行逆向工程
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/x-pilot-5</guid>
-      <pubDate>Sun, 12 Apr 2026 15:17:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kampala-by-zatanna</guid>
+      <pubDate>Tue, 14 Apr 2026 02:58:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由网</title>
+      <link>https://www.producthunt.com/products/libertify-com</link>
+      <description><![CDATA[
+            将任何文档变成交互式视频
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/libertify-com</guid>
+      <pubDate>Sun, 12 Apr 2026 19:58:03 GMT</pubDate>
     </item>
     <item>
       <title>和</title>
@@ -186,34 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/avec</guid>
       <pubDate>Thu, 09 Apr 2026 22:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码星球</title>
-      <link>https://www.producthunt.com/products/codeplanet</link>
-      <description><![CDATA[
-            在构建作品集的同时掌握编码
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/codeplanet</guid>
-      <pubDate>Mon, 06 Apr 2026 13:17:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>粘土猪</title>
-      <link>https://www.producthunt.com/products/clayhog</link>
-      <description><![CDATA[
-            了解人工智能如何评价您的品牌和竞争对手
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/clayhog</guid>
-      <pubDate>Sat, 04 Apr 2026 10:35:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
