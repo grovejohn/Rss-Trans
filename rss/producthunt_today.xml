@@ -4,20 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 23 Apr 2026 01:19:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 05:21:00 GMT</lastBuildDate>
     <item>
-      <title>框架笔记本电脑 13 Pro</title>
-      <link>https://www.producthunt.com/products/framework</link>
+      <title>迷你控制台</title>
+      <link>https://www.producthunt.com/products/consolemini</link>
       <description><![CDATA[
-            具有高端野心的首款 Linux 笔记本电脑
+            将 Mac mini 变成客厅复古/PS 控制台
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/framework</guid>
-      <pubDate>Wed, 22 Apr 2026 03:51:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/consolemini</guid>
+      <pubDate>Wed, 22 Apr 2026 03:43:57 GMT</pubDate>
     </item>
     <item>
       <title>争吵</title>
@@ -34,46 +34,60 @@
       <pubDate>Wed, 22 Apr 2026 02:20:47 GMT</pubDate>
     </item>
     <item>
-      <title>索梅费雷</title>
-      <link>https://www.producthunt.com/products/kimiflare</link>
+      <title>广告代理</title>
+      <link>https://www.producthunt.com/products/adsagent-google-ads-claude-connector</link>
       <description><![CDATA[
-            kimi k2.6 cli 代码编辑器托管在 cloudflare Workers AI 上
+            让 Claude 运行您的 Google Ads
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/kimiflare</guid>
-      <pubDate>Wed, 22 Apr 2026 01:16:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/adsagent-google-ads-claude-connector</guid>
+      <pubDate>Tue, 21 Apr 2026 21:49:05 GMT</pubDate>
     </item>
     <item>
-      <title>氛围周围</title>
-      <link>https://www.producthunt.com/products/vibearound</link>
+      <title>京阪社</title>
+      <link>https://www.producthunt.com/products/kyohansha</link>
       <description><![CDATA[
-            通过任何 IM 或浏览器与本地 AI 编码代理聊天
+            基于 Web 的 60FPS Live2D AI，具有 Lite-RAG 长期存储器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/vibearound</guid>
-      <pubDate>Tue, 21 Apr 2026 20:26:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kyohansha</guid>
+      <pubDate>Tue, 21 Apr 2026 19:07:16 GMT</pubDate>
     </item>
     <item>
-      <title>基于自动化</title>
-      <link>https://www.producthunt.com/products/basedash</link>
+      <title>一目了然</title>
+      <link>https://www.producthunt.com/products/oneglanse</link>
       <description><![CDATA[
-            您的人工智能数据分析师在您睡觉时工作。
+            用于 LLM 可见性的免费开源 GEO 跟踪器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/basedash</guid>
-      <pubDate>Tue, 21 Apr 2026 17:49:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/oneglanse</guid>
+      <pubDate>Tue, 21 Apr 2026 17:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>决策盒企业</title>
+      <link>https://www.producthunt.com/products/decisionbox</link>
+      <description><![CDATA[
+            为您编写 SQL 来验证数据库见解的代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/decisionbox</guid>
+      <pubDate>Tue, 21 Apr 2026 16:29:54 GMT</pubDate>
     </item>
     <item>
       <title>塞克纳尔</title>
@@ -88,6 +102,48 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/seeknal</guid>
       <pubDate>Tue, 21 Apr 2026 16:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>层数</title>
+      <link>https://www.producthunt.com/products/layers-7</link>
+      <description><![CDATA[
+            专用网络陌生人实际上无法联系到您。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/layers-7</guid>
+      <pubDate>Tue, 21 Apr 2026 14:01:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>机器学习实习生</title>
+      <link>https://www.producthunt.com/products/ml-intern</link>
+      <description><![CDATA[
+            Hugging Face 的 AI 代理可自动进行后期训练
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ml-intern</guid>
+      <pubDate>Tue, 21 Apr 2026 12:13:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>天空</title>
+      <link>https://www.producthunt.com/products/skyty-your-flight-your-data</link>
+      <description><![CDATA[
+            您航班的高度、地面速度、最近的机场 + 预计到达时间
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/skyty-your-flight-your-data</guid>
+      <pubDate>Tue, 21 Apr 2026 11:30:26 GMT</pubDate>
     </item>
     <item>
       <title>骑兵工作室</title>
@@ -118,60 +174,32 @@
       <pubDate>Tue, 21 Apr 2026 08:18:54 GMT</pubDate>
     </item>
     <item>
-      <title>诺米 v2</title>
-      <link>https://www.producthunt.com/products/nomie</link>
+      <title>他站着</title>
+      <link>https://www.producthunt.com/products/stet-a-smart-dictation-for-rest-of-us</link>
       <description><![CDATA[
-            用自我照顾的互动世界取代末日滚动
+            智能开源听写，听起来像你，而不是人工智能。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/nomie</guid>
-      <pubDate>Mon, 20 Apr 2026 21:25:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/stet-a-smart-dictation-for-rest-of-us</guid>
+      <pubDate>Mon, 20 Apr 2026 09:34:17 GMT</pubDate>
     </item>
     <item>
-      <title>斯坦利·福𝕏</title>
-      <link>https://www.producthunt.com/products/stanley-for-x</link>
+      <title>Trail - 可视化您的浏览历史记录</title>
+      <link>https://www.producthunt.com/products/trail-visualize-your-chrome-browsing</link>
       <description><![CDATA[
-            全球首位人工智能内容主管
+            将您的浏览变成私人的本地知识图谱 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/stanley-for-x</guid>
-      <pubDate>Mon, 20 Apr 2026 16:52:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zernio 广告 API</title>
-      <link>https://www.producthunt.com/products/zernio</link>
-      <description><![CDATA[
-            通过一个 API 在 6 个平台上创建、管理和报告广告
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/zernio</guid>
-      <pubDate>Mon, 20 Apr 2026 10:57:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>说</title>
-      <link>https://www.producthunt.com/products/speakon</link>
-      <description><![CDATA[
-            面向后键盘时代的 MagSafe AI 设备
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/speakon</guid>
-      <pubDate>Wed, 15 Apr 2026 03:17:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/trail-visualize-your-chrome-browsing</guid>
+      <pubDate>Sun, 19 Apr 2026 17:48:55 GMT</pubDate>
     </item>
     <item>
       <title>港口</title>
@@ -186,34 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/portt-time-travel-for-ios</guid>
       <pubDate>Tue, 14 Apr 2026 10:50:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>新星招聘员</title>
-      <link>https://www.producthunt.com/products/nova-recruiter</link>
-      <description><![CDATA[
-            寻找、联系和招聘顶尖人才的代理平台
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/nova-recruiter</guid>
-      <pubDate>Thu, 09 Apr 2026 12:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>蔡</title>
-      <link>https://www.producthunt.com/products/cai-layer</link>
-      <description><![CDATA[
-            在任何内容上按 ⌥C 即可在本地运行智能操作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cai-layer</guid>
-      <pubDate>Mon, 23 Mar 2026 20:06:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
