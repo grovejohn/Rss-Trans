@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 23 Apr 2026 12:54:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 16:25:08 GMT</lastBuildDate>
     <item>
       <title>许多</title>
       <link>https://www.producthunt.com/products/monid</link>
@@ -18,6 +18,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/monid</guid>
       <pubDate>Thu, 23 Apr 2026 07:06:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>自治堆栈</title>
+      <link>https://www.producthunt.com/products/the-autonomous-stack</link>
+      <description><![CDATA[
+            经过生产测试的自主 Claude 代理架构
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/the-autonomous-stack</guid>
+      <pubDate>Thu, 23 Apr 2026 05:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>USVC by AngelList</title>
+      <link>https://www.producthunt.com/products/usvc-by-angellist</link>
+      <description><![CDATA[
+            支持建设未来的公司。在事情变得明显之前。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/usvc-by-angellist</guid>
+      <pubDate>Wed, 22 Apr 2026 16:48:34 GMT</pubDate>
     </item>
     <item>
       <title>Gemini企业代理平台</title>
@@ -34,20 +62,6 @@
       <pubDate>Wed, 22 Apr 2026 16:14:59 GMT</pubDate>
     </item>
     <item>
-      <title>结构 CLI</title>
-      <link>https://www.producthunt.com/products/fabric-6</link>
-      <description><![CDATA[
-            直接从终端进行笔记、任务和搜索。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/fabric-6</guid>
-      <pubDate>Wed, 22 Apr 2026 14:49:38 GMT</pubDate>
-    </item>
-    <item>
       <title>Qwen3.6-27B</title>
       <link>https://www.producthunt.com/products/qwen3</link>
       <description><![CDATA[
@@ -60,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/qwen3</guid>
       <pubDate>Wed, 22 Apr 2026 14:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>箔纸AI代码安全</title>
-      <link>https://www.producthunt.com/products/foil-ai-code-scanner</link>
-      <description><![CDATA[
-            完全在您的 Mac 上运行的 AI 代码安全审查
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/foil-ai-code-scanner</guid>
-      <pubDate>Wed, 22 Apr 2026 12:35:54 GMT</pubDate>
     </item>
     <item>
       <title>重新循环动画工作室</title>
@@ -90,32 +90,46 @@
       <pubDate>Wed, 22 Apr 2026 11:56:18 GMT</pubDate>
     </item>
     <item>
-      <title>挂钩甲板前哨站</title>
-      <link>https://www.producthunt.com/products/hookdeck</link>
+      <title>说话麦克</title>
+      <link>https://www.producthunt.com/products/speakmac</link>
       <description><![CDATA[
-            适用于您平台的开源出站 Webhook
+            本地听写工具现在具有实时预览和免提模式
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hookdeck</guid>
-      <pubDate>Wed, 22 Apr 2026 09:52:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/speakmac</guid>
+      <pubDate>Wed, 22 Apr 2026 10:30:26 GMT</pubDate>
     </item>
     <item>
-      <title>韦尔洛斯</title>
-      <link>https://www.producthunt.com/products/wellows-3</link>
+      <title>谈论评论</title>
+      <link>https://www.producthunt.com/products/talk-to-review</link>
       <description><![CDATA[
-            了解人工智能如何谈论您的品牌并解决它
+            10秒内真实评论。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/wellows-3</guid>
-      <pubDate>Wed, 22 Apr 2026 02:24:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/talk-to-review</guid>
+      <pubDate>Wed, 22 Apr 2026 10:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>闪烁人工智能首席财务官</title>
+      <link>https://www.producthunt.com/products/blink-21</link>
+      <description><![CDATA[
+            通过 Slack 自主交易股票和期权的 AI CFO
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/blink-21</guid>
+      <pubDate>Wed, 22 Apr 2026 02:36:26 GMT</pubDate>
     </item>
     <item>
       <title>焦点视2.0</title>
@@ -132,7 +146,7 @@
       <pubDate>Tue, 21 Apr 2026 10:16:14 GMT</pubDate>
     </item>
     <item>
-      <title>Figma 人工智能代理</title>
+      <title>设计.MD</title>
       <link>https://www.producthunt.com/products/figma-for-ai-agents</link>
       <description><![CDATA[
             您的 AI 编码代理可以读取的嵌入式设计系统
@@ -146,60 +160,46 @@
       <pubDate>Tue, 21 Apr 2026 08:31:47 GMT</pubDate>
     </item>
     <item>
-      <title>流行任务 v2.0</title>
-      <link>https://www.producthunt.com/products/poptask</link>
+      <title>魔法图案代理2.0</title>
+      <link>https://www.producthunt.com/products/magicpatterns</link>
       <description><![CDATA[
-            从想法到任务只需 3 秒。无需点击，无需切换应用程序
+            从创意到生产的最佳人工智能设计代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/poptask</guid>
-      <pubDate>Mon, 20 Apr 2026 15:30:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/magicpatterns</guid>
+      <pubDate>Sun, 19 Apr 2026 18:34:07 GMT</pubDate>
     </item>
     <item>
-      <title>协作</title>
-      <link>https://www.producthunt.com/products/kollab-2</link>
+      <title>Ikes：想法笔记</title>
+      <link>https://www.producthunt.com/products/ikes</link>
       <description><![CDATA[
-            团队与代理一起工作的共享工作空间
+            捕捉想法，快速找到它们
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/kollab-2</guid>
-      <pubDate>Wed, 15 Apr 2026 02:48:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ikes</guid>
+      <pubDate>Fri, 10 Apr 2026 05:49:15 GMT</pubDate>
     </item>
     <item>
-      <title>Ubuntu 26.04 坚决浣熊</title>
-      <link>https://www.producthunt.com/products/ubuntu</link>
+      <title>对接</title>
+      <link>https://www.producthunt.com/products/docsio</link>
       <description><![CDATA[
-            面向开发人员、人工智能和云的下一代 Ubuntu
+            适合文档网站
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ubuntu</guid>
-      <pubDate>Tue, 07 Apr 2026 15:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typewise人工智能客服</title>
-      <link>https://www.producthunt.com/products/typewise</link>
-      <description><![CDATA[
-            通过 AI 代理实现跨系统自动化客户支持
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/typewise</guid>
-      <pubDate>Mon, 06 Apr 2026 04:56:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/docsio</guid>
+      <pubDate>Wed, 08 Apr 2026 21:41:46 GMT</pubDate>
     </item>
     <item>
       <title>ASI：一</title>
