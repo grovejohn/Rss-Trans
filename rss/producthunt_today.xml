@@ -4,20 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 23 Apr 2026 16:25:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 18:51:44 GMT</lastBuildDate>
     <item>
-      <title>许多</title>
-      <link>https://www.producthunt.com/products/monid</link>
+      <title>沃拉健康</title>
+      <link>https://www.producthunt.com/products/vora-health</link>
       <description><![CDATA[
-            一个钱包，您的代理所需的每一个付费工具
+            每一款可穿戴设备、每一项指标，一款免费的人工智能健康应用程序
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/monid</guid>
-      <pubDate>Thu, 23 Apr 2026 07:06:33 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/vora-health</guid>
+      <pubDate>Thu, 23 Apr 2026 06:25:10 GMT</pubDate>
     </item>
     <item>
       <title>自治堆栈</title>
@@ -34,6 +34,20 @@
       <pubDate>Thu, 23 Apr 2026 05:09:02 GMT</pubDate>
     </item>
     <item>
+      <title>克劳德·代码 /ultrareview</title>
+      <link>https://www.producthunt.com/products/claude-code</link>
+      <description><![CDATA[
+            使用一组并行代理进行云代码审查
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude-code</guid>
+      <pubDate>Wed, 22 Apr 2026 17:09:56 GMT</pubDate>
+    </item>
+    <item>
       <title>USVC by AngelList</title>
       <link>https://www.producthunt.com/products/usvc-by-angellist</link>
       <description><![CDATA[
@@ -48,18 +62,32 @@
       <pubDate>Wed, 22 Apr 2026 16:48:34 GMT</pubDate>
     </item>
     <item>
-      <title>Gemini企业代理平台</title>
-      <link>https://www.producthunt.com/products/google</link>
+      <title>八镜</title>
+      <link>https://www.producthunt.com/products/octoscope</link>
       <description><![CDATA[
-            谷歌的平台可在企业规模运行人工智能代理
+            您的 GitHub 个人资料作为实时终端仪表板
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/google</guid>
-      <pubDate>Wed, 22 Apr 2026 16:14:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/octoscope</guid>
+      <pubDate>Wed, 22 Apr 2026 16:26:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>IFTTT MCP</title>
+      <link>https://www.producthunt.com/products/ifttt</link>
+      <description><![CDATA[
+            立即将 Claude 连接到 1000 多个应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ifttt</guid>
+      <pubDate>Wed, 22 Apr 2026 16:15:30 GMT</pubDate>
     </item>
     <item>
       <title>Qwen3.6-27B</title>
@@ -160,60 +188,32 @@
       <pubDate>Tue, 21 Apr 2026 08:31:47 GMT</pubDate>
     </item>
     <item>
-      <title>魔法图案代理2.0</title>
-      <link>https://www.producthunt.com/products/magicpatterns</link>
+      <title>心灵堡垒</title>
+      <link>https://www.producthunt.com/products/mindfort</link>
       <description><![CDATA[
-            从创意到生产的最佳人工智能设计代理
+            递归学习安全代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/magicpatterns</guid>
-      <pubDate>Sun, 19 Apr 2026 18:34:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mindfort</guid>
+      <pubDate>Thu, 16 Apr 2026 22:18:38 GMT</pubDate>
     </item>
     <item>
-      <title>Ikes：想法笔记</title>
-      <link>https://www.producthunt.com/products/ikes</link>
+      <title>梅勒逻辑公司</title>
+      <link>https://www.producthunt.com/products/mailerlogic</link>
       <description><![CDATA[
-            捕捉想法，快速找到它们
+            具有内置送达能力智能的电子邮件 API
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ikes</guid>
-      <pubDate>Fri, 10 Apr 2026 05:49:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>对接</title>
-      <link>https://www.producthunt.com/products/docsio</link>
-      <description><![CDATA[
-            适合文档网站
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/docsio</guid>
-      <pubDate>Wed, 08 Apr 2026 21:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>ASI：一</title>
-      <link>https://www.producthunt.com/products/asi</link>
-      <description><![CDATA[
-            具有记忆能力的个人人工智能，为您计划和行动
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/asi</guid>
-      <pubDate>Tue, 17 Feb 2026 17:35:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mailerlogic</guid>
+      <pubDate>Wed, 15 Apr 2026 22:18:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
