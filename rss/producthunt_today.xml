@@ -4,20 +4,62 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 24 Apr 2026 01:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 05:26:37 GMT</lastBuildDate>
     <item>
-      <title>USVC by AngelList</title>
-      <link>https://www.producthunt.com/products/usvc-by-angellist</link>
+      <title>话题上的实时聊天</title>
+      <link>https://www.producthunt.com/products/live-chats-on-threads</link>
       <description><![CDATA[
-            支持建设未来的公司。在事情变得明显之前。
+            Meta 的 Threads 现已推出实时公共聊天 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/usvc-by-angellist</guid>
-      <pubDate>Wed, 22 Apr 2026 16:48:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/live-chats-on-threads</guid>
+      <pubDate>Wed, 22 Apr 2026 17:33:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德·代码 /ultrareview</title>
+      <link>https://www.producthunt.com/products/claude-code</link>
+      <description><![CDATA[
+            使用一组并行代理进行云代码审查
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/claude-code</guid>
+      <pubDate>Wed, 22 Apr 2026 17:09:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>MiMo-V2.5 & Pro</title>
+      <link>https://www.producthunt.com/products/mimo-3</link>
+      <description><![CDATA[
+            前沿代理能力，代币效率更高
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/mimo-3</guid>
+      <pubDate>Wed, 22 Apr 2026 16:51:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>IFTTT MCP</title>
+      <link>https://www.producthunt.com/products/ifttt</link>
+      <description><![CDATA[
+            立即将 Claude 连接到 1000 多个应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ifttt</guid>
+      <pubDate>Wed, 22 Apr 2026 16:15:30 GMT</pubDate>
     </item>
     <item>
       <title>结构 CLI</title>
@@ -32,20 +74,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/fabric-6</guid>
       <pubDate>Wed, 22 Apr 2026 14:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Qwen3.6-27B</title>
-      <link>https://www.producthunt.com/products/qwen3</link>
-      <description><![CDATA[
-            编码代理的最佳点开放密集模型
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/qwen3</guid>
-      <pubDate>Wed, 22 Apr 2026 14:28:10 GMT</pubDate>
     </item>
     <item>
       <title>重新循环动画工作室</title>
@@ -76,20 +104,6 @@
       <pubDate>Wed, 22 Apr 2026 10:30:26 GMT</pubDate>
     </item>
     <item>
-      <title>谈论评论</title>
-      <link>https://www.producthunt.com/products/talk-to-review</link>
-      <description><![CDATA[
-            10秒内真实评论。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/talk-to-review</guid>
-      <pubDate>Wed, 22 Apr 2026 10:27:26 GMT</pubDate>
-    </item>
-    <item>
       <title>闪烁人工智能首席财务官</title>
       <link>https://www.producthunt.com/products/blink-21</link>
       <description><![CDATA[
@@ -118,32 +132,32 @@
       <pubDate>Wed, 22 Apr 2026 02:24:45 GMT</pubDate>
     </item>
     <item>
-      <title>焦点视2.0</title>
-      <link>https://www.producthunt.com/products/focusee</link>
+      <title>弗洛MCP</title>
+      <link>https://www.producthunt.com/products/flomcp</link>
       <description><![CDATA[
-            录制屏幕以获得精美的演示和教程
+            在 5 分钟内交付经过 32 项安全检查的 MCP 服务器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/focusee</guid>
-      <pubDate>Tue, 21 Apr 2026 10:16:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/flomcp</guid>
+      <pubDate>Tue, 21 Apr 2026 05:17:54 GMT</pubDate>
     </item>
     <item>
-      <title>设计.MD</title>
-      <link>https://www.producthunt.com/products/figma-for-ai-agents</link>
+      <title>流行任务 v2.0</title>
+      <link>https://www.producthunt.com/products/poptask</link>
       <description><![CDATA[
-            您的 AI 编码代理可以读取的嵌入式设计系统
+            从想法到任务只需 3 秒。无需点击，无需切换应用程序
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/figma-for-ai-agents</guid>
-      <pubDate>Tue, 21 Apr 2026 08:31:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/poptask</guid>
+      <pubDate>Mon, 20 Apr 2026 15:30:45 GMT</pubDate>
     </item>
     <item>
       <title>技能督察</title>
@@ -160,46 +174,32 @@
       <pubDate>Mon, 20 Apr 2026 10:30:34 GMT</pubDate>
     </item>
     <item>
-      <title>魔法图案代理2.0</title>
-      <link>https://www.producthunt.com/products/magicpatterns</link>
+      <title>心灵堡垒</title>
+      <link>https://www.producthunt.com/products/mindfort</link>
       <description><![CDATA[
-            从创意到生产的最佳人工智能设计代理
+            递归学习安全代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/magicpatterns</guid>
-      <pubDate>Sun, 19 Apr 2026 18:34:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mindfort</guid>
+      <pubDate>Thu, 16 Apr 2026 22:18:38 GMT</pubDate>
     </item>
     <item>
-      <title>协作</title>
-      <link>https://www.producthunt.com/products/kollab-2</link>
+      <title>梅勒逻辑公司</title>
+      <link>https://www.producthunt.com/products/mailerlogic</link>
       <description><![CDATA[
-            团队与代理一起工作的共享工作空间
+            具有内置送达能力智能的电子邮件 API
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/kollab-2</guid>
-      <pubDate>Wed, 15 Apr 2026 02:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ubuntu 26.04 坚决浣熊</title>
-      <link>https://www.producthunt.com/products/ubuntu</link>
-      <description><![CDATA[
-            面向开发人员、人工智能和云的下一代 Ubuntu
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ubuntu</guid>
-      <pubDate>Tue, 07 Apr 2026 15:28:29 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mailerlogic</guid>
+      <pubDate>Wed, 15 Apr 2026 22:18:03 GMT</pubDate>
     </item>
     <item>
       <title>Typewise人工智能客服</title>
