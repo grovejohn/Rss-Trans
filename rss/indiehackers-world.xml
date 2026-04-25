@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 25 Apr 2026 09:41:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 12:35:17 GMT</lastBuildDate>
     <item>
       <title>你真的拥有你所建造的东西吗？</title>
       <link>https://feed.indiehackers.world/post/09948f0666</link>
@@ -13,6 +13,24 @@ https://joyful-granita-8415bc.netlify.app
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/09948f0666</guid>
       <pubDate>Fri, 24 Apr 2026 10:11:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 向您的客户推荐谁而不是您？我将为前 20 位独立 SaaS 创始人免费运行此项目。</title>
+      <link>https://feed.indiehackers.world/post/94d1944b80</link>
+      <description><![CDATA[在编写任何代码之前，我想手动运行 20 次这样的审核，看看输出是否对任何人都有用。
+优惠如下：前 20 位在评论中添加登陆页面 URL 的独立 SaaS 创始人将获得免费审核。我将在本周运行它并将其发送给您：
+
+我测试过的确切提示
+哪些品牌出现在您没有出现的地方
+按工作量排名的 2 或 3 个修复（15 分钟、1 天、1 周之类的事情）
+
+作为交换，我希望您能够诚实地回答该报告是否真的值得您花时间，以及您愿意为此付出什么代价。
+将您的网址放在下面，我将回复预计到达时间。
+&lt;小时/&gt;
+快速说明：这是 v2。两天前，我在这里发布了这个想法的第一个版本，并从@aryan_sinh和@ShellSageAI那里得到了非常有用的反馈。他们指出框架不合理，方法也太模糊。他们都对，所以我重写了它。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/94d1944b80</guid>
+      <pubDate>Fri, 24 Apr 2026 06:37:42 GMT</pubDate>
     </item>
     <item>
       <title>您如何跨人工智能工具处理内存和上下文？</title>
@@ -196,25 +214,6 @@ HiQByte | &lt;一href=&quot;mailto:hiqbyte@gmail.co
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/3995fb1d56</guid>
       <pubDate>Mon, 20 Apr 2026 05:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>创始人的 1,500 多条评论教会了我关于合同的哪些知识</title>
-      <link>https://feed.indiehackers.world/post/ab7095b85f</link>
-      <description><![CDATA[与很多创始人讨论合同后，有几件事变得非常清楚：
-大多数合同看起来没有风险。
-这就是问题所在。
-最大的问题通常隐藏在一两个条款中 - 看似正常的事情，直到出现问题为止。
-当人们准备签名时，他们不想要完全崩溃。
-他们想要一个简单的答案：
-“这里有什么东西可能会让我以后付出代价吗？”
-这种转变改变了我对问题的看法。
-还早，但当新合同出现时，我开始看到人们回来。
-好奇 - 在签署之前您通常如何处理合同？
-如果有用，您可以尝试我在这里构建的内容：
-https://joyful-granita-8415bc.netlify.app/
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/ab7095b85f</guid>
-      <pubDate>Sun, 19 Apr 2026 10:25:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
