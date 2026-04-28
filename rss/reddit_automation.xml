@@ -4,11 +4,32 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 28 Apr 2026 13:21:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 16:30:44 GMT</lastBuildDate>
+    <item>
+      <title>105 个最佳在线商业理念</title>
+      <link>https://www.reddit.com/r/automation/comments/1sy6fog/105_best_online_business_idea/</link>
+      <description><![CDATA[      由   提交/u/GRSolution  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sy6fog/105_best_online_business_idea/</guid>
+      <pubDate>Tue, 28 Apr 2026 16:29:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 Whatsapp 机器人</title>
+      <link>https://www.reddit.com/r/automation/comments/1sy3jlj/looking_for_a_whatsapp_bot/</link>
+      <description><![CDATA[我想要一个安全且值得信赖的，我可以在我的 WhatsApp 群组中使用...与不和谐机器人非常相似的机器人   由   提交 /u/Lillex_YT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sy3jlj/looking_for_a_whatsapp_bot/</guid>
+      <pubDate>Tue, 28 Apr 2026 14:47:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合您品牌的自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1sy1y4s/automations_for_your_brand/</link>
+      <description><![CDATA[过去两年一直在构建自动化工具，希望分享一些关于实际有效与纸面上听起来不错的诚实反思。 最大的惊喜是什么？大多数人不想要更多的功能——他们想要更少的决定。我们从 50 多个定制选项开始，认为这很有价值。事实证明，它只是让用户瘫痪了。将其减少到 3 个核心工作流程，参与度提高了 300%。 彻底失败的原因：尝试自动化“真实性”。花了 4 个月的时间构建情感分析，使人工智能生成的响应听起来更人性化。用户讨厌它。他们宁愿拥有一个可以在 10 秒内定制的简单模板，也不愿拥有一个“智能”模板。系统会发出错误的语气。 什么比预期效果更好：让人们从一个地方跨平台安排帖子。听起来很简单，但人们在应用程序之间进行上下文切换所浪费的时间实在是太疯狂了。这一功能比任何“创新”功能都得到了更多的积极反馈。我们建造了。 惨痛的教训：预算限制实际上改善了产品。我们无力承担企业级基础设施，因此我们必须高效地发挥创造力。这种限制迫使我们构建一些真正有效的精益软件，而不是一切都做得很糟糕的臃肿软件。 现状：我们以大多数竞争对手会嘲笑的价格点实现盈利。事实证明，“免费但有限”与“免费”之间存在巨大差距。工具和“企业但每月 500 美元”解决方案。   由   提交/u/Emperor_Kael   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1sy1y4s/automations_for_your_brand/</guid>
+      <pubDate>Tue, 28 Apr 2026 13:47:13 GMT</pubDate>
+    </item>
     <item>
       <title>我应该使用 LLM 在运行时改变执行图吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1sy11nq/should_i_use_llms_to_mutate_execution_graphs_at/</link>
-      <description><![CDATA[我正在开发一个项目，其核心执行逻辑由图结构驱动。目前，我正在尝试使用 LLM 来帮助生成该图的初始配置，这应该可行，因为我看到工具现在正在集成 LLM 进行初始配置。 但是，我一直在尝试一些风险更大的事情：让 LLM 在运行时修改图。这个想法是，如果系统遇到未知场景或障碍，LLM 会分析情况，找出缺失的步骤，并动态添加新节点（状态）或 问题，正如你可能猜到的，是 LLM 固有的非确定性。 如果 LLM 产生幻觉，将临时弹出窗口误解为核心应用程序状态，或者写入错误的转换，它就会永久“毒害”执行图。该运行的图表。突然间，我的确定性状态机变得一团糟，无限循环成为真正的威胁，而调试完全是一场噩梦，因为图表在幕后发生了变化。 因此，我向架构和自动化资深人士提出的问题是：  是否有一种方法可以实现真正的“半确定性”状态？在运行时改变图时的方法？ 或者这从根本上来说是一种注定失败的方法？是否不可能真正保证法学硕士不会弄乱图表，这意味着我应该严格地将两者分开？ （例如，图在运行时保持 100% 只读/确定性，LLM 仅用于独立的“一次性”恢复操作，不修改图）。  很想听听是否有人成功实现了运行时逻辑突变而不会陷入混乱，或者共识是否是让 LLM 严格远离动态修改核心图。   由   提交/u/AppressiveAnakin   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发一个项目，其核心执行逻辑由图结构驱动。目前，我正在尝试使用 LLM 来帮助生成该图的初始配置，这应该可行，因为我看到工具现在正在集成 LLM 进行初始配置。 但是，我一直在尝试一些风险更大的事情：让 LLM 在运行时修改图。这个想法是，如果系统遇到未知场景或障碍，LLM 会分析情况，找出缺失的步骤，并动态地将新节点或边添加到执行中 问题，正如你可能猜到的那样，是法学硕士固有的非确定性。 如果法学硕士产生幻觉、误解某些东西，或者写了一个糟糕的转换，它就会永久地“毒害”法学硕士。该运行的图表。突然间，我的确定性图变得一团糟，无限循环成为真正的威胁，而调试完全是一场噩梦，因为图在幕后发生了变化。 因此，我向架构和自动化资深人士提出的问题是：  有没有一种方法可以实现真正的“半确定性”？在运行时改变图时的方法？ 或者这从根本上来说是一种注定失败的方法？是否不可能真正保证法学硕士不会弄乱图表，这意味着我应该严格地将两者分开？ （例如，图在运行时保持 100% 只读/确定性，LLM 仅用于独立的“一次性”恢复操作，不修改图）。  很想听听是否有人成功实现了运行时逻辑突变而不会陷入混乱，或者共识是否是让 LLM 严格远离动态修改核心图。   由   提交/u/AppressiveAnakin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1sy11nq/should_i_use_llms_to_mutate_execution_graphs_at/</guid>
       <pubDate>Tue, 28 Apr 2026 13:11:47 GMT</pubDate>
     </item>
@@ -48,25 +69,11 @@
       <pubDate>Tue, 28 Apr 2026 10:41:42 GMT</pubDate>
     </item>
     <item>
-      <title>克劳德 + 纳米香蕉广告太棒了，我把它变成了一个产品 - 第 2 部分：我如何获得客户洞察</title>
-      <link>https://www.reddit.com/r/automation/comments/1sxxm4i/claude_nano_banana_for_ads_is_so_good_i_made_it_a/</link>
-      <description><![CDATA[在我的上一篇文章中，我分享了基本的广告生成工作流程，您可以使用它从网站、徽标和图像创建广告。你也可以在这个 git 中找到它。 很多人似乎都喜欢这个，所以我也想分享第二部分，因为这确实是使输出更好的一层：上下文。 我已经测试人工智能创意一段时间了，首先是当我为一个每月花费约 400 万美元的电子商务品牌进行绩效营销时，后来在代理工作中。很长一段时间以来，大部分内容对于真正的广告来说仍然不够好。即使模型开始改进，我仍然花费太多时间修复文案、视觉效果和品牌，以使输出真正可用。 对我来说真正的转变是当 Nano Banana 的视觉效果变得更好，而 Claude 在文案、创意和结构方面变得更好时。这个组合终于开始感觉非常强大。这就是我建立 blumpo 的地方。 但是一个大问题很快就出现了：即使有强大的模型，很多广告输出仍然很糟糕，因为它们背后的背景太弱了。 一些品牌在网站上几乎没有有用的文案。有些人几乎没有很好地解释产品。有些几乎无法在网上获得真正的客户声音。因此，即使生成层很好，广告仍然是通用的，因为输入是通用的。 这促使我们围绕它构建研究层。 这个工作流程不是仅仅依赖于品牌对其自身的描述，而是着眼于它周围的市场 - 替代工具、类别对话、相关工作流程、挫败感、触发因素以及人们在 reddit 上谈论的需求。 所以我们的目标不是找到对确切品牌的提及。目标是了解真实的人们如何描述问题、他们想要什么以及是什么促使他们寻找解决方案。 然后，这将成为广告角度、挂钩和消息传递的更好原材料，这就是开始帮助我们在 blumpo 吸引客户的原因。 它的作用： 📝 接受简单的网站输入 🌐 读取网站并提取产品、受众、优势、痛点和一般信息品牌背景 🔎根据产品类型/市场生成有针对性的reddit搜索短语 💬查找有关市场、替代品和相关问题的相关reddit帖子 🧹过滤帖子以保留更有用的帖子 📥从所选线程中提取评论 🧠将帖子+评论转化为结构化的客户洞察，例如：痛点 触发事件 愿望 有趣的引言 内容/广告角度 🎯 为您提供更好的原材料来创建广告、挂钩、着陆页和定位 因此，第一个工作流程是“制作广告” 这更像是“弄清楚广告实际上应该说什么”   由   提交 /u/Puzzleheaded_Fan3581   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sxxm4i/claude_nano_banana_for_ads_is_so_good_i_made_it_a/</guid>
-      <pubDate>Tue, 28 Apr 2026 10:37:12 GMT</pubDate>
-    </item>
-    <item>
       <title>在学习编码和人工智能可以为你编码之间完全迷失了..最终两者都没有做</title>
       <link>https://www.reddit.com/r/automation/comments/1sxxla8/was_completely_lost_between_learn_to_code_and_ai/</link>
       <description><![CDATA[我 (F28) 讨厌我的工作，花了几个月的时间阅读有关闯入科技的文章，但每次都变得更加困惑。就像有人说学习Python，有人说最好还是学习JavaScript。不等人工智能正在取代开发人员，但振动编码的应用程序到处都被破坏了。我无法弄清楚什么是真实的。但意识到（你可以在不构建或提示任何应用程序的情况下进入技术领域，但要测试所有这些应用程序的工作原理。令人惊讶的是，人工智能仍然需要人类来这样做，并且对 QA 测试的需求正在增长。我来自非技术背景，我最大的恐惧是完成课程并在完成课程后失业。我参加了一个 QA 项目，其中包括实习生和职业教练。没想到这次实习会算作简历上的一段经历。但它确实如此，因为我在真正的软件中发现了错误。我并不是说质量保证是每个人的答案，但如果你不是技术人员，并且坚持学习编码，那么还有另一个方向是了解软件应该如何运行，而不是如何编写它 我来自非技术背景，我最担心的是完成课程后会失业。我并不是说 qa 是适合每个人的答案，但如果您非技术人员并且专注于学习编码，那么还有另一个方向是了解软件应该如何运行，而不是如何编写它    [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1sxxla8/was_completely_lost_between_learn_to_code_and_ai/</guid>
       <pubDate>Tue, 28 Apr 2026 10:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>流程编排与代理人工智能的结合</title>
-      <link>https://www.reddit.com/r/automation/comments/1sxx85f/process_orchestration_meets_agentic_ai/</link>
-      <description><![CDATA[       由   提交/u/philhoey  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sxx85f/process_orchestration_meets_agentic_ai/</guid>
-      <pubDate>Tue, 28 Apr 2026 10:15:58 GMT</pubDate>
     </item>
     <item>
       <title>在自动化客户端流程之前您实际上应该了解什么？</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[经营自动化业务已有一段时间了。有一些很好的客户，其中包括丽笙酒店、阿南德拉蒂酒店、天空酒店。每天收到 1-2 个入站查询，大约每两周转化为一个体面的客户。 不错，但我想要更多，但不按比例扩大外展范围。 一直在考虑构建免费工具。 Chrome 扩展、免费自动化、模板等等。把它们放在那里，让人们使用它们，添加一个重定向或指向实际业务的高级版本。 逻辑是使用你的免费工具的人已经理解你解决的问题。付钱给你的飞跃比冷冰冰的要小得多。 有人真正成功地做到了这一点吗？免费工具用户的转化率是否有意义，还是您最终得到了很多从未支付过任何费用的贪图便宜者？ 还有其他方法可以让我获得更多入站吗？    由   提交/u/Chillipepper19  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1sxu583/building_free_tools_to_drive_up_inbound_leads/</guid>
       <pubDate>Tue, 28 Apr 2026 07:16:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>GeeLark、AdsPower 与 Multilogin 的自动化功能对比</title>
-      <link>https://www.reddit.com/r/automation/comments/1sxtkh1/geelark_vs_adspower_vs_multilogin_on_automation/</link>
-      <description><![CDATA[快速比较    GeeLark AdsPower 多登录    视觉 RPA（无代码） ✔ ✔ ❌   模板市场 ✔ ✔ ❌   云手机自动化 ✔ ❌ ❌   浏览器自动化 ✔ ✔ ✔   面向开发人员的 API ✔ ✔ ✔   Selenium/Puppeteer 支持 ❌ ✔ ✔ 最适合移动+浏览器帐户浏览器密集型工作流程开发人员团队多登录：专为开发人员 Multilogin 的自动化方法以 API 访问、CLI 以及与 Selenium、Puppeteer 和 Playwright 等框架的兼容性为中心。他们将其定义为“无需编码，只需发送 API 请求”。 — 但在实践中，您仍然需要自己了解 API 调用、管理配置文件 ID 和处理错误。 优点：灵活性。如果您的团队中有开发人员，Multilogin 可以干净地集成到现有管道中。 缺点：如果您不懂技术，很难入门。此外，Multilogin 在其平台中添加了云手机，但不提供移动自动化 AdsPower：可视化 RPA 他们的 RPA 是围绕可视化流程构建器构建的，您可以在其中添加操作、设置计划（一次性、每日、每周或每月）并跟踪生成任务日志 - 无需编码。 优点：他们有一个涵盖流行平台的模板市场，因此您可以获取现成的流程并直接应用它。 限制：仅限浏览器。所有这些自动化仅在浏览器配置文件上运行。 GeeLark：移动+浏览器自动化 GeeLark 还使用 RPA 进行自动化，您可以执行的 RPA 操作与 AdsPower 相同，也提供即用型模板。 优势：云手机自动化。与 AdsPower 和 Multilogin 相比，最明显的优势是移动层。如果你在 GeeLark 中自动化 TikTok 预热，它会在云手机上运行。如果您在 AdsPower 或 Multilogin 中执行相同操作，它会在浏览器配置文件中运行。随着时间的推移，这对于帐户的健康状况来说是一个有意义的差异。 缺点：成本相对较高。在云手机上运行自动化按分钟计费，而 Multilogin 和 AdsPower 则不收取额外费用。这是预算有限的团队应该考虑的问题。 如果您的团队有开发人员，并且您的工作是基于浏览器的（抓取、电子商务、广告帐户），Multilogin 可以为您提供最大的灵活性。 如果您想要无需编码的可视化 RPA，并且您的帐户主要基于浏览器，AdsPower 是一个不错的选择。 如果您有足够的预算，并且希望无需代码即可在手机和浏览器上实现自动化，GeeLark 是最完整的选择设置。   由   提交 /u/Present-Leather-4322   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1sxtkh1/geelark_vs_adspower_vs_multilogin_on_automation/</guid>
-      <pubDate>Tue, 28 Apr 2026 06:43:30 GMT</pubDate>
     </item>
     <item>
       <title>哪些 AI 头像视频生成器最适合转换 UGC 风格的逼真产品视频？</title>

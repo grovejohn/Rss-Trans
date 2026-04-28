@@ -4,34 +4,62 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 28 Apr 2026 13:21:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 16:31:02 GMT</lastBuildDate>
+    <item>
+      <title>克劳德 + 光标 灾难！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sy601a/claude_cursor_distaster/</link>
+      <description><![CDATA[光标 + Claude Opus 4.6 在 9 秒内删除了整个 SaaS 公司的生产数据库和备份！哎呀！   由   提交/u/Thunder-Bolt-7  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sy601a/claude_cursor_distaster/</guid>
+      <pubDate>Tue, 28 Apr 2026 16:14:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ling-2.6-flash 是开源的，作为一个模型方向信号，比作为另一个版本更有趣</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sy5w5y/ling26flash_being_opensource_feels_more/</link>
+      <description><![CDATA[我今天看到 Ling-2.6-flash 开源了，我认为有趣的部分不仅仅是“现在有另一个模型可用”。 这是发布所暗示的方向。官方强调的不是夸大的输出，也不是试图在一个回合中表现得最周到。它更多的是关于吞吐量、代币效率、多步骤执行以及在实际约束下保持有用。 这就是为什么这次发布对我来说是一个有意义的信号。不是因为它自动证明了任何事情，而是因为它使更广泛的分裂更加明显：市场的一部分仍然针对声望和单轮令人印象深刻的程度进行优化，而另一部分似乎对成本纪律和重复的有用行动越来越感兴趣。 既然这个是开源的，生态系统实际上可以测试那个“高效执行者”是否可以被执行。故事在与实际使用接触后仍然存在。 您认为这样的发布是否表明模型竞争正在分裂成不同类型的有用智能，或者您仍然认为原始能力无论如何都会主导注意力？ Hugging Face 发布：https://huggingface.co/inclusionAl/Ling-2.6-flash   由   提交/u/veera_harsha_106   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sy5w5y/ling26flash_being_opensource_feels_more/</guid>
+      <pubDate>Tue, 28 Apr 2026 16:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>据报道 OpenAI 未达到收入目标。甲骨文和这些芯片股的股价正在下跌</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sy528e/openai_reportedly_missed_revenue_targets_shares/</link>
+      <description><![CDATA[ 由   提交/u/ThereWas  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sy528e/openai_reportedly_missed_revenue_targets_shares/</guid>
+      <pubDate>Tue, 28 Apr 2026 15:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>中国决定阻止价值 20 亿美元的 Meta-Manus 交易，这表明华盛顿和北京在人工智能问题上的分歧有多大</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sy4q1w/chinas_decision_to_block_the_2_billion_metamanus/</link>
+      <description><![CDATA[中国阻止了 Meta 收购人工智能初创公司 Manus 的交易。中国最高宏观经济监管机构国家发展和改革委员会周一毫不客气地表示，“决定阻止外资收购 Manus 项目，并要求各方解除交易。”此举令 Meta 头疼不已，据报道，对 Manus 的收购是其新人工智能战略的关键要素，据报道，收购 Manus 的价值约为 20 亿美元。目前还不清楚 Meta 如何“解除”这笔交易：据彭博社报道，Manus 员工已经加入 Meta 的人工智能团队，腾讯和鸿山资本等支持者也已经获得了交易分成。 此次被阻止的交易还表明，美国和中国的人工智能生态系统脱钩的速度有多快，因为华盛顿和北京现在都寻求保持对战略技术的控制，并防止它们泄露给对方。  “该交易完全符合适用法律。我们预计调查会得到适当的解决，”Meta 发言人在一份声明中表示。 阅读更多：https://fortune.com/2026/04/28/china-blocks-meta-manus-deal-ai/   由   提交/u/fortune  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sy4q1w/chinas_decision_to_block_the_2_billion_metamanus/</guid>
+      <pubDate>Tue, 28 Apr 2026 15:29:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI行业懂AI吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sy4ov7/does_the_ai_industry_know_ai/</link>
+      <description><![CDATA[我正在和一位 Mag7 高级工程师聊天。他甚至拥有自己的法学硕士创业公司。他看起来知识渊博，谈论着他在搜索和知识图谱方面的专长。然后我提到我的项目除了变形金刚之外还使用常微分方程网络和尖峰神经网络，因为它是一个物理人工智能项目。这超出了他的理解范围。他认为我正在使用数学方程，因此开始解释诸如推理与训练之类的基本内容。我再次尝试向他解释。他通常不感兴趣，并表示生成模型已经可以处理所有这些问题。连LSTM是什么都不知道。  去年 10 月的 Nvidia 大会上也有同样的经历。几百个展位，上万亿的估值，我找不到一个对AI模型设计感兴趣的人。这个领域充满了从未研究过人工智能的工程师和程序员吗？这一切都与扩展、包装和基准有关。他们中的大多数人确实不知道也不想了解其背后的科学。    由   提交 /u/RockyCreamNHotSauce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sy4ov7/does_the_ai_industry_know_ai/</guid>
+      <pubDate>Tue, 28 Apr 2026 15:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>铝屑是新石油，还是我们再次高估了这种资源？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sy3jq1/are_al_chips_the_new_oil_or_are_we_overvaluing/</link>
+      <description><![CDATA[“芯片 = 新石油”的类比现在随处可见。但历史并不完全支持这一点。日本没有石油，但人均经济仍超过 3 万美元。伊朗位于世界上最关键的石油咽喉要道之一，但平均收入只是其中的一小部分。 很明显，**拥有资源≠获取价值。**感觉我们可能会在人工智能方面再次犯同样的错误。每个人都痴迷于 GPU、晶圆厂、供应链。 但真正的问题是：价值会为那些生产芯片的人……还是那些在芯片上实际构建应用程序的人带来价值？ 因为如果是后者，那么：Nvidia 可能是今天的赢家，但长期的赢家可能看起来会非常不同。  WDYT？   由   提交/u/Exact_Importance_507   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sy3jq1/are_al_chips_the_new_oil_or_are_we_overvaluing/</guid>
+      <pubDate>Tue, 28 Apr 2026 14:47:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能现在将在电子邮件中添加拼写错误以显得更人性化</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sy22ln/ai_will_now_add_typos_to_emails_to_appear_more/</link>
+      <description><![CDATA[ 由   提交 /u/TryWhistlin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sy22ln/ai_will_now_add_typos_to_emails_to_appear_more/</guid>
+      <pubDate>Tue, 28 Apr 2026 13:52:09 GMT</pubDate>
+    </item>
     <item>
       <title>护城河或公地</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sy0dle/the_moat_or_the_commons/</link>
       <description><![CDATA[“美国 AI 是通过一项特定的赌注获得资金的。人们押注前沿模型将成为下一个伟大的垄断业务——赢家通吃、垄断资本支出合理化、结构性受保护的市场，支持数万亿美元的估值以及建立这些估值所需的资本流动。进入这个周期两年半后，这个假设被打破了。不慢。不在边缘。显然，在公共基准、开源存储库、Hugging Face 下载计数和推理价格表中。”   由   提交/u/shikizen   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sy0dle/the_moat_or_the_commons/</guid>
       <pubDate>Tue, 28 Apr 2026 12:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理世界模型调查：从预测器到模拟器再到自我进化系统（400 多篇论文）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sxxupu/a_survey_of_agentic_world_models_from_predictors/</link>
-      <description><![CDATA[我们进行了一项调查，将代理世界模型组织为三个能力级别：预测者、模拟器和进化者。它还比较了这些规则在四种管辖法律制度（物理、数字、社会、科学）中的表现。 涵盖约 400 篇论文，其中包含结构化分类法以及来自神经科学、机器人技术、化学等领域的示例。 希望得到反馈和评论。 链接：https://github.com/matrix-agent/awesome-agentic-world-modeling 论文：arxiv.org/abs/2604.22748  https://preview.redd.it/6pbutdi5vwxg1.png?width=941&amp;format=png&amp;auto=webp&amp;s=10797237c6c695f9e26ed75e4cf26529e0f735d7   由   提交 /u/NosDeusSumus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sxxupu/a_survey_of_agentic_world_models_from_predictors/</guid>
-      <pubDate>Tue, 28 Apr 2026 10:49:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>统一您附近所有可用的本地、未利用的计算！并运行一些模型！ |分子簇</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sxxsdz/unifying_all_local_unutilized_compute_available/</link>
-      <description><![CDATA[我目前正在构建 smolcluster，这是一个专注于揭开分布式学习在幕后实际工作原理的项目——无论是训练还是推理。这一举措将复杂的信息提炼成易于理解的内容，供任何有兴趣了解这些算法的人使用，例如  FSDP DP MP PP  这项工作的主要部分是使用原始套接字在 Python 中从头开始实现这些系统，而不是依赖于高级框架，因此通信、同步和扩展行为是明确且易于理解的。  该项目的一个主要亮点是其多功能性；它可用于各种类型的计算设备，包括笔记本电脑、Mac mini 等 Mac 设备、笔记本电脑或工作站中的 NVIDIA GPU，甚至平板电脑和手机。  我认为这些是目前未得到充分利用的潜在计算资源。我的目标是利用它们来教其他人如何使用异构计算，通过他们已经拥有的设备，在舒适的家中探索分布式学习。 最终，这是为了让分布式学习更容易实现：为人们提供工具和直觉，让他们从自己的设置中探索这些系统，而不需要访问大规模基础设施。  这是我在 3xMac Mini 上使用 GRPO 运行先前总结项目的训练的课程之一2024 年 16GB，每个使用同步参数服务器架构，一个节点进行训练，其他节点作为 vllm-metal 工作人员！  PS：它还处于早期阶段，正在大力开发中。希望获得相同的观点和想法，如果您有任何问题，请告诉我！   由   提交/u/East-Muffin-6472   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sxxsdz/unifying_all_local_unutilized_compute_available/</guid>
-      <pubDate>Tue, 28 Apr 2026 10:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 的人工智能初创公司收购受阻增加了中国跨境科技交易的风险</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sxxbel/blocking_of_metas_ai_startup_buy_raises_risk_for/</link>
-      <description><![CDATA[ 由   提交 /u/talkingatoms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sxxbel/blocking_of_metas_ai_startup_buy_raises_risk_for/</guid>
-      <pubDate>Tue, 28 Apr 2026 10:21:02 GMT</pubDate>
     </item>
     <item>
       <title>人工智能在尘埃等离子体中发现新的物理定律</title>
@@ -55,13 +83,6 @@
       <pubDate>Tue, 28 Apr 2026 05:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>为什么这么多有用的人工智能代理仍然难以发现？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sxrslc/why_are_so_many_useful_ai_agents_still_hard_to/</link>
-      <description><![CDATA[过去几周我一直在 GitHub、产品社区、Discord 服务器和不同市场上探索 AI 代理。 我注意到，实际上并不缺乏正在构建的优秀代理。有些对于研究、自动化、编码、潜在客户生成、内容工作流程等确实有用。 更大的问题似乎是可访问性。 大多数用户仍然必须： 随机查找 GitHub 存储库 了解技术文档 配置 API 加入私人社区 手动设置 对于非技术用户，这成为一个巨大的障碍。 对于构建者来说，即使他们创造了一些有价值的东西，分发也感觉支离破碎，因为用户往往永远不会发现他们的工作。 感觉人工智能代理已经解决了“可以构建什么”问题，但还没有解决“用户如何轻松访问它们”问题。 你认为未来需要一个集中的代理市场/分发层吗？   由   提交 /u/One-Ice7086   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sxrslc/why_are_so_many_useful_ai_agents_still_hard_to/</guid>
-      <pubDate>Tue, 28 Apr 2026 05:06:36 GMT</pubDate>
-    </item>
-    <item>
       <title>呃-哦！ PocketOS 创始人 Jer Crane 报告称，Cursor AI 编码代理（由 Anthropic 的 Claude Opus 4.6 提供支持）在一次 API 调用中仅用了 9 秒就删除了整个生产数据库以及 Railway 上的所有卷级备份</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sxnnzf/uhoh_pocketos_founder_jer_crane_reported_that_a/</link>
       <description><![CDATA[这是一个典型的代理 AI 风险  上述代理试图修复暂存凭证不匹配的问题，但在范围/权限上猜测错误。造成约 30 小时的停电；尽管较旧的备份有助于恢复大部分数据   由   提交/u/ocean_protocol  [链接] [评论]]]></description>
@@ -69,32 +90,11 @@
       <pubDate>Tue, 28 Apr 2026 01:52:12 GMT</pubDate>
     </item>
     <item>
-      <title>听听甘道夫的话。想想吧！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sxiffz/listen_to_gandalf_and_think/</link>
-      <description><![CDATA[使用全新的聊天 GPT 图像创建功能制作。提示：“甘道夫（巫师）的图像说了一句关于人工智能技术的有趣名言，就像卡通模因一样”   由   提交/u/bernard_hossmoto   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sxiffz/listen_to_gandalf_and_think/</guid>
-      <pubDate>Mon, 27 Apr 2026 22:09:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Deepseek 将 API 价格下调 90%，其中 v4 价格下调 75%</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sxc5pq/deepseek_slashes_api_prices_by_up_90_including_75/</link>
       <description><![CDATA[廉价且开源。以及 - 百万代币内容窗口。基准测试的性能接近闭源领先模型。    由   提交/u/Objective_Farm_1886   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sxc5pq/deepseek_slashes_api_prices_by_up_90_including_75/</guid>
       <pubDate>Mon, 27 Apr 2026 18:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckGo 创始人表示，他们现在将为未来失业的工人缴纳 10% 的象征性税</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sxak3n/duckduckgo_founder_says_theyd_pay_a_10_token_tax/</link>
-      <description><![CDATA[ 由   提交/u/BaronFrancis  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sxak3n/duckduckgo_founder_says_theyd_pay_a_10_token_tax/</guid>
-      <pubDate>Mon, 27 Apr 2026 17:30:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sam Altman 更新了与 Microsoft 的合作伙伴关系 - 这对 OpenAI 的未来意味着什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1sx3r7y/sam_altman_updates_partnership_with_microsoft/</link>
-      <description><![CDATA[Sam Altman 在周一早上发表的这篇文章 -  这对开放人工智能的未来意味着什么？  不太开放？  更多机会？  您认为这会如何改变他们的轨迹？ 它会影响任何用户还是纯粹的增长游戏？    由   提交/u/jason_digital  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1sx3r7y/sam_altman_updates_partnership_with_microsoft/</guid>
-      <pubDate>Mon, 27 Apr 2026 13:30:27 GMT</pubDate>
     </item>
     <item>
       <title>构建历史上最强大人工智能的公司也是决定什么是“安全”的公司。似乎没有人认为这是一个问题。应该是的。</title>
