@@ -4,7 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 27 Apr 2026 21:43:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 01:28:26 GMT</lastBuildDate>
+    <item>
+      <title>我们构建了一个浏览器自动化人工智能代理。以下是我们学到的关于分发的知识，但没有人谈论。</title>
+      <link>https://feed.indiehackers.world/post/c230fd559b</link>
+      <description><![CDATA[问题不仅仅是“如何进入工具栏？”问题是“如何让我的代理完成的每一项任务都能让下一项任务变得更好？”
+这才是真正复合的分销护城河。
+&lt;小时/&gt;
+我们正在构建 AllyHub — 一个浏览器自动化 AI 代理，可以从每项任务中学习。目前仅接受邀请。如果您好奇，请加入我们的 Discord：discord.gg/WNMTr3w3pC 或访问 allyhub.com。
+很想听听其他创始人构建浏览器原生人工智能工具的声音 - 您在复合层方面有什么经验？还有其他人在考虑这个吗？
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/c230fd559b</guid>
+      <pubDate>Mon, 27 Apr 2026 02:12:20 GMT</pubDate>
+    </item>
     <item>
       <title>什么有效，什么无效——周日PH启动，电子邮件列表为零（0票，未推荐）</title>
       <link>https://feed.indiehackers.world/post/7a29fddbb6</link>
@@ -13,6 +25,24 @@
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7a29fddbb6</guid>
       <pubDate>Sun, 26 Apr 2026 16:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能营养追踪器构建者：什么真正改变了用户？</title>
+      <link>https://feed.indiehackers.world/post/4a6e2201f2</link>
+      <description><![CDATA[我一直在构建 MetricSync，一款 AI 营养追踪器，有件事让我感到惊讶：人们对 AI 角度的关心程度远没有我预期的那么高。
+人们实际询问的内容非常实用：
+
+比 CalAI 便宜吗？
+对于杂乱的真实膳食，而不只是干净的单品照片，它是否更准确？
+它的功能不仅仅是基本的卡路里记录吗？
+我可以在付款前试用吗？
+
+这促使我们专注于四件事：比 CalAI 更低的价格、更好的准确性、更多功能以及简单的 3 天免费试用。
+对其他创始人在健身、营养或健康方面的建设感到好奇：到底是什么让您的第一批真正用户转化？更高的准确性、更低的价格、更好的入门还是其他什么？
+如果有人想交换意见，很乐意交换反馈。 MetricSync 位于 www.metricsync.download
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/4a6e2201f2</guid>
+      <pubDate>Sun, 26 Apr 2026 12:56:17 GMT</pubDate>
     </item>
     <item>
       <title>代码很便宜，但扩展 AI MVP 很困难。让我们来解决你的问题。</title>
@@ -30,6 +60,16 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ab017c5c11</guid>
       <pubDate>Sat, 25 Apr 2026 23:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>30 亿次访问。谷歌 30 年的护城河。我建造了现代的替代品。现在是最困难的部分。</title>
+      <link>https://feed.indiehackers.world/post/0f32ed33ef</link>
+      <description><![CDATA[一个网站满足所有时间。
+老实说，我的立场是：我是一名建设者，而不是营销者，而且我不会假装不是。老牌企业花了 30 年的时间在每一个重要的 Google 关键词上巩固自己的地位。自 1995 年以来，仅 timeanddate.com 就一直在建立 Google 域名权威。在没有实际预算的情况下破解这一点是残酷的，我已经尝试过。我知道市场就在那里。每年 30 亿次访问量告诉我这一点。我需要的是一个能够生存和呼吸增长的人，一个知道如何针对根深蒂固的现有企业建立付费和有机收购引擎的人，一个能够做我做不到的事情的人。那个人不是我。
+我对投资持开放态度，我就简单地说一下。但现在，我会像资本一样重视正确的建议和正确的联系。如果您以前来过这里，如果您已经打入了一个由谷歌领先 30 年的老牌企业主导的市场，或者如果您认识这样做的人，我真诚地希望收到您的来信。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/0f32ed33ef</guid>
+      <pubDate>Sat, 25 Apr 2026 22:48:13 GMT</pubDate>
     </item>
     <item>
       <title>我在 30 天内失去了 11 个用户，但不知道为什么。这是我学到的。</title>
@@ -188,39 +228,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/386ab514a1</guid>
       <pubDate>Tue, 21 Apr 2026 12:56:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我给 7 个人工智能代理每人 100 美元来建立一家初创公司。这是第一天发生的事情。</title>
-      <link>https://feed.indiehackers.world/post/e86ac35934</link>
-      <description><![CDATA[第 1 天完整报道：https://aimadetools.com/blog/race-day-1-results/实时仪表板：https://aimadetools.com/race/ 
-希望获得有关格式的反馈。规划整整 12 周的每周回顾 + 每日亮点。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/e86ac35934</guid>
-      <pubDate>Tue, 21 Apr 2026 07:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何通过取消产品演示将跳出率从 60% 降低到 40%</title>
-      <link>https://feed.indiehackers.world/post/c88dbf934f</link>
-      <description><![CDATA[现在上传其网站的人已经做出承诺。当他们看到标志时，他们就已经加入了。实际的工具继承了这种动力，然后他们继续改进它。
-上线第一天，跳出率就下降了 60% 到 40%。小样本。六周的数据总计。但我不会放回演示。
-页面上的副本和设计改进仍然太多，不符合我的喜好，但它正在改进，我将继续根据数据进行有针对性的调整。 
-在 selfservo.com 上构建我的。尝试一下。烤t。或者粘贴下面的链接，我很乐意快速审核评论中的任何 IH 页面消息。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/c88dbf934f</guid>
-      <pubDate>Tue, 21 Apr 2026 01:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年实际有效的 10 种 OnlyFans 搜索方法（2026 年 4 月测试）</title>
-      <link>https://feed.indiehackers.world/post/ebae579b0d</link>
-      <description><![CDATA[&lt;小时/&gt;
-#2。 OnlyFinder.com — OG OnlyFans 搜索引擎
-网站： OnlyFinder.com
-在出现“OnlyFans 搜索引擎”之类的东西之前，有OnlyFinder。
-OnlyFinder 是原创的。奥格。它是第一个专门为寻找 OnlyFans 创作者而构建 Google 式搜索引擎的平台，而且它是在其他人甚至没有想到的时候做到的。这种先发优势已成为巨大的优势：如今，OnlyFinder 索引了超过 500 万个 OnlyFans 个人资料，并每天更新其数据。迄今为止，它是互联网上最大且使用最广泛的 OnlyFans 搜索引擎。
-这不是营销炒作。 OnlyFinder 自己的数据显示，它为全球绝大多数最大的 OnlyFans 机构提供了更多流量和订户推荐。当代理机构需要其创作者的可见性时，他们会通过 OnlyFinder。这种行业整合并非偶然发生。这是因为该平台存在时间最长、数据最多、信任度最高。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/ebae579b0d</guid>
-      <pubDate>Mon, 20 Apr 2026 23:41:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
