@@ -20,7 +20,7 @@
       <pubDate>Wed, 19 Feb 2025 13:43:26 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>[媒体]煤灰废物中隐藏着大量稀土元素[...]的最新研究</title>
       <link>https://t.me/hn_summary/117271</link>
       <description><![CDATA[煤灰废物中隐藏着大量稀土元素德克萨斯大学奥斯汀分校的最新研究表明，煤灰是煤炭燃烧的副产品，含有大量稀土元素 (REE)，无需新的开采，就有可能增强美国的供应。这种“变废为宝”的方式这种方法可以减少环境影响，同时解决美国对稀土进口（主要来自中国）的依赖。该研究估计美国煤灰中含有 1100 万吨稀土元素，价值 84 亿美元。尽管粉煤灰中的稀土元素含量低于地质矿床中的稀土元素含量，但其数量之大使其成为一种有吸引力的资源。美国能源部正在采用该研究的方法进行国家评估。一个显着的挑战是开发开采劳动力和运营。这项研究为煤灰资源的更广阔市场奠定了基础，突出了一种巧妙且可持续的资源回收方法。]]></description>
       <guid>https://t.me/hn_summary/117271</guid>
@@ -29,7 +29,7 @@
     <item>
       <title>为什么聪明的 C 程序员喜欢 Lua 嵌入式系统传统上依赖 C 和 C++ 来实现其功能 [...]</title>
       <link>https://t.me/hn_summary/117270</link>
-      <description><![CDATA[Why Smart C Coders Love LuaEmbedded systems have traditionally relied on C and C++ for their performance and control.然而，随着物联网和边缘设备的兴起，开发人员越来越多地转向 Lua，尤其是与 Xedge 等框架配合使用时。 Lua 提供了一种更高层次的方法，简化了开发并缩短了上市时间。与 C 不同，Lua 是垃圾收集的，简化了内存管理并最大限度地减少错误。它的简单性和可读性使其可供更广泛的开发人员使用，从而增强了团队协作。 Xedge 进一步支持预构建模块的快速开发，使开发人员能够专注于高层逻辑而不是底层细节。这种混合方法利用 C 来执行性能关键型任务，同时使用 Lua 来实现灵活性和快速迭代，使其成为现代嵌入式项目的一个引人注目的替代方案。 The surprising element is Lua&#39;s ability to integrate seamlessly with C, offering a balance between performance and development efficiency, which is particularly beneficial in the fast-paced IoT landscape.]]></description>
+      <description><![CDATA[为什么聪明的 C 程序员喜欢 Lua嵌入式系统传统上依赖 C 和 C++ 来实现性能和控制。然而，随着物联网和边缘设备的兴起，开发人员越来越多地转向 Lua，尤其是与 Xedge 等框架配合使用时。 Lua 提供了一种更高层次的方法，简化了开发并缩短了上市时间。与 C 不同，Lua 是垃圾收集的，简化了内存管理并最大限度地减少错误。它的简单性和可读性使其可供更广泛的开发人员使用，从而增强了团队协作。 Xedge 进一步支持预构建模块的快速开发，使开发人员能够专注于高层逻辑而不是底层细节。这种混合方法利用 C 来执行性能关键型任务，同时使用 Lua 来实现灵活性和快速迭代，使其成为现代嵌入式项目的一个引人注目的替代方案。令人惊讶的元素是 Lua 能够与 C 无缝集成，提供性能和开发效率之间的平衡，这在快节奏的物联网环境中特别有益。]]></description>
       <guid>https://t.me/hn_summary/117270</guid>
       <pubDate>Wed, 20 Nov 2024 01:28:57 GMT</pubDate>
     </item>
