@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 28 Apr 2026 21:51:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:33:04 GMT</lastBuildDate>
+    <item>
+      <title>尝试构建半页轮播</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sykj77/trying_to_build_a_halfpage_carousel/</link>
+      <description><![CDATA[嗨！我现在正在建立一个网站，我试图让两张卡片只占据大约一半或更少的页面，您可以在它们之间翻转来阅读内容。我在网上找到的所有轮播都是整页，所以我想知道这是否可能 提前谢谢您！   由   提交 /u/IntelligentSteak7709   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sykj77/trying_to_build_a_halfpage_carousel/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>交易品种仪表板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1syk936/trading_symbol_dashboard/</link>
+      <description><![CDATA[      我正在制作一个交易品种仪表板，其主要目的是显示每个品种的状态，即市场数据是否可用，我无法决定配色方案。 基本上是这个小提琴，但规模更大（最多几千个指标）。 仪表板 我认为颜色应该尽可能可靠地传达信息，而不需要分散注意力，所以这就是为什么我让整个背景使用“状态颜色”，而不是一些较小的部分，但符号本身的名称也应该突出，符号名称不会总是 6 个字母的外汇符号，有些可能会更长（20-40 个字符）并且它们肯定会换行。 背景将为 RGB255-RGB200）。 如果您认为指标不应该是正方形，而是完全不同的东西，请告诉我同样，这个设计并不是一成不变的，如果您的建议更加清晰，我会很容易地采用它。   由   提交/u/badass6  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1syk936/trading_symbol_dashboard/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:15:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 REST API 构建了一个临时 Hotmail/Outlook 电子邮件服务 — NodeMail</title>
+      <link>https://www.reddit.com/r/webdev/comments/1syk0wt/i_built_a_temporary_hotmailoutlook_email_service/</link>
+      <description><![CDATA[大家好， 过去几个月我一直在做一个业余项目，终于感觉很好，可以分享。 它是什么？ NodeMail 是一项临时电子邮件服务，可为您提供真实、有效的 Hotmail 和 Outlook 地址，而不是立即被拒绝的虚假一次性域名。 为什么不直接使用 Mailinator 或 Guerrilla Mail？大多数临时邮件服务都使用黑名单域。尝试用其中之一注册 Instagram、TikTok 或 Netflix — 他们会立即拒绝。 NodeMail 使用实际的 Microsoft 帐户，因此可以在严格的平台上通过验证。 它的作用： 为您分配特定平台（Instagram、TikTok、Netflix 等）的真实 Hotmail/Outlook 地址 通过 Microsoft Graph API 自动获取验证码和 OTP 带有 API 密钥身份验证的完整 REST API — 自动化一切 即用即付，无需订阅。注册后您将获得 1 个免费积分来试用 如果没有收到电子邮件，则退款 适用人群：测试注册流程的开发人员、增长团队、自动化脚本或任何不想交出真实电子邮件的人。 希望得到反馈 - 尤其是有关 API 设计和定价模型的反馈。   由   提交/u/MarzipanNo1005   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1syk0wt/i_built_a_temporary_hotmailoutlook_email_service/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>从第一次成功的 API 调用到“集成真正起作用”需要多长时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1syia4q/how_long_from_your_first_successful_api_call_to/</link>
+      <description><![CDATA[我一直低估这一点。第一个返回 200 的弯举可能需要 30 分钟。然后接下来的两周就是其他的事情了。 分页的工作方式与文档所说的不同。有时会传递两次的 webhook。在最坏的时间过期的身份验证令牌。与架构不匹配的错误响应。沙盒环境的行为与生产完全不同。 目前是我估计的“2 天集成”的第 3 周。并想知道我是否在这方面做得不好，或者每个人的时间线是否都以同样的方式爆炸。 您对“第一个 API 调用有效”的比率是多少？到“集成确实完成并且可靠”？很好奇是否存在某种模式，或者每次都是混乱。   由   提交 /u/Striking_Weird_8540   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1syia4q/how_long_from_your_first_successful_api_call_to/</guid>
+      <pubDate>Tue, 28 Apr 2026 23:47:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么 AWS 服务允许我监控电子邮件收件箱并在收到电子邮件时触发事件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1syhpp5/what_aws_service_would_allow_me_to_monitor_a/</link>
+      <description><![CDATA[正在寻找能让我监视电子邮件收件箱并在收到电子邮件时触发事件的东西。就像剥离附件的数据并将其发送到 S3 存储桶一样。    由   提交 /u/Competitive_Guess552   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1syhpp5/what_aws_service_would_allow_me_to_monitor_a/</guid>
+      <pubDate>Tue, 28 Apr 2026 23:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>当原生 GitHub 集成可以做同样的事情时，为什么要花数千美元购买一个臃肿的 QA 平台呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sygt7m/why_pay_thousands_for_a_bloated_qa_platform_when/</link>
+      <description><![CDATA[六位数的 QA 合同，其中工作流程是：运行 linter、分类 3,000 个标志、无论如何合并，因为今天是星期五。这些合同的成本和使用量之间的差距令人尴尬。 GitHub 拥有原生 Actions，并且用于代理 PR 审查的 GitHub 集成故事现在已经很扎实了，那么保留传统供应商的实际论据是什么？   由   提交 /u/EldenBoredAF   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sygt7m/why_pay_thousands_for_a_bloated_qa_platform_when/</guid>
+      <pubDate>Tue, 28 Apr 2026 22:45:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制作刮刮效果（例如乐透彩票）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1sygd9i/how_to_make_a_scratchoff_effect_eg_lotto_ticket/</link>
+      <description><![CDATA[大家好！我什至不太确定这是否可能，但我希望我的网站的首页要求用户“刮掉”揭示“进入站点”的图像按钮或类似的东西可以将他们带到网站的其余部分。我知道一些基本的 html 和 css 但这看起来像是... javascript 之类的东西。无论如何！你的任何建议都会很棒。    由   提交/u/Now_The_Weather   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1sygd9i/how_to_make_a_scratchoff_effect_eg_lotto_ticket/</guid>
+      <pubDate>Tue, 28 Apr 2026 22:27:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是骗局吗？ “前景”给我发了这个。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1syfh0c/is_this_a_scam_prospect_sent_me_this/</link>
+      <description><![CDATA[经过一番来回，客户向我发送了以下内容。这是某种骗局吗？ 您好， 这是访问管理面板的链接。 https://wpengine.stage1-allelectricalproducts.com/wp-allelectricalproducts/ 请使用您的 Google 帐户登录。系统将生成一个用户名和密码 - 请将它们发送给我，以便我授予您访问权限。 另外，请告诉我创建帐户时使用的电子邮件地址。 如果您遇到任何错误，请向我发送屏幕截图。 我会等待您的回复。   由   提交 /u/LegitimateDream4942   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1syfh0c/is_this_a_scam_prospect_sent_me_this/</guid>
+      <pubDate>Tue, 28 Apr 2026 21:51:32 GMT</pubDate>
+    </item>
     <item>
       <title>项目太多，开发人员不够，你如何处理这个问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1syf94t/too_many_projects_not_enough_developers_how_are/</link>
@@ -53,62 +109,6 @@
       <description><![CDATA[我正在考虑一个业余爱好项目，我认为很多人会发现它非常有用，因为我见过的所有替代方案都是付费墙后面的，我想让它免费。  我计划将其仅作为客户端，因此我不需要为云账单或为其维护服务器而烦恼。这个想法在这里并不重要，这将是通过现代前端框架和一些跳出框框的方法实现的 100% javascript 魔法。 我担心的是，由于所有应用程序代码都将在浏览器中运行，因此它会导致窃取和防止窃取猫捉老鼠的游戏。 最终，如果每月有相当数量的页面浏览量，我想通过广告将其货币化，所以我想保护它，但在法律方面，我不知道客户端“工具”是否有可能从技术角度来看，我也不知道需要付出多少努力才能让偷窃变得更加困难。   由   提交/u/arzenal96  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1sy8yvw/could_i_legally_technically_protect_a_100_client/</guid>
       <pubDate>Tue, 28 Apr 2026 17:57:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>小团队如何管理云部署和成本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sy8dtw/how_do_small_teams_manage_cloud_deployments_and/</link>
-      <description><![CDATA[嘿， 对于那些在云中运行应用程序或产品（AWS、GCP 等）的人来说， 我正在尝试了解小型团队或非专家人员如何处理部署和成本。 在云中设置应用程序是容易还是困难？ 您如何跟踪自己的成本？云中的支出？ 您是否曾对账单感到震惊？ 您是否使用多种工具来跟踪成本和部署，还是只使用一种工具？ 管理云设置时最烦人或最耗时的事情是什么 您不喜欢这些工具的哪些方面？ 也很好奇：如果您可以用更简单的工具替换当前的设置，那么理想情况下它会做什么？适合你吗？ 不是想推销任何东西，只是研究真正的问题。 我很想听听你的意见。   由   提交 /u/Future-Cry-7975   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sy8dtw/how_do_small_teams_manage_cloud_deployments_and/</guid>
-      <pubDate>Tue, 28 Apr 2026 17:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站连接被阻止？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sy88vq/blocked_website_connection/</link>
-      <description><![CDATA[我的工作需要调查其他国家/地区（位于美利坚合众国）的法律依据，有时在打开网站时会遇到访问问题。但这个问题通常可以通过使用 VPN 来规避。这是因为我从哪里访问该网站吗？还是还有其他我不知道的问题？ 如果提问者提出这些问题是错误的，我们深表歉意。   由   提交/u/Used_Vermicelli_7391   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sy88vq/blocked_website_connection/</guid>
-      <pubDate>Tue, 28 Apr 2026 17:32:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>布尔玛怎么了？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sy6sfp/what_happened_to_bulma/</link>
-      <description><![CDATA[      他们是被黑客入侵了，还是现在完全是废物？赞助商是互联网上最糟糕的败类。也许接下来只能被人贩子的钱打败了。   由   提交/u/Silver_Guide_2762   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sy6sfp/what_happened_to_bulma/</guid>
-      <pubDate>Tue, 28 Apr 2026 16:42:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能让执行变得便宜，而判断变得昂贵。我们需要改变面试流程。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sy5zpn/ai_made_execution_cheap_judgment_expensive_we/</link>
-      <description><![CDATA[几十年来，工程师的技术面试在压力下测试内存和逻辑。每个人都知道它已经被打破了。现在人工智能已经让它变得无关紧要，并且必须发展或改变。&lt;​​br /&gt;只有能够正确做到这些的公司才能成长。  著名的三阶段面试（测验、编码任务、批判性思维）并没有完全消亡，在我看来，它们只是应该得到发展......  在重要的实际测试中改进它。   测验 → 可以变成“战略选择问题”  现在代码的生成是免费的，代码是一种商品。 一切都与您现在如何控制代码以及您更改和扩展代码的知识以及利用代码做出的决策有关。  你能决定什么时候LLM的幻觉会让你付出代价吗？什么时候缓存响应会成为一种负担？什么时候你需要确定性而非便利性？这应该像面试问题。  工程师说“我将使用 Claude 作为样板，但这个权限逻辑是我的”。刚刚证明了他们可以思考。 那些说“我会生成整个事情”的人证明他们不能。很简单，一切都与控制有关。   编码任务→“验证阶段”  工程进入人工智能输出的代码审查。他们现在编写与现实接触后仍然存在的最少代码。  它们构建反馈循环。 权限系统。 验证层不依赖于模型的下一个标记是否正确。他们编写针对约束的测试，而不是针对快乐路径。  如果你无法解释为什么你要围绕人工智能的输出构建一些东西，那么你就不明白你构建了什么。   批判性思维→“系统思考阶段”  你能阐明为什么你的系统有效吗？  不是它的作用。为什么它是安全的。为什么它会优雅地降级。为什么用户和你的团队应该信任它。它会如何演变？在 X 变量的情况下会发生什么，Y 会发生什么？ 这个解释就是采访。  如果你的面试仍然测量打字速度，并且你给出一个 for 循环来反转字符串，以证明工程师的想法，那么你正在测试错误的时代。  PS：你觉得怎么样？   由   提交 /u/MomentInfinite2940   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sy5zpn/ai_made_execution_cheap_judgment_expensive_we/</guid>
-      <pubDate>Tue, 28 Apr 2026 16:14:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>滚动驱动的动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sy4uwv/scrolldriven_animations/</link>
-      <description><![CDATA[       由   提交 /u/feross   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sy4uwv/scrolldriven_animations/</guid>
-      <pubDate>Tue, 28 Apr 2026 15:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道任何网站、工具或资源，以便我可以作为初学者练习 CSS 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sy4fuz/anybody_know_any_sites_tools_or_resources_so_i/</link>
-      <description><![CDATA[我正在考虑类似于 CSS 的 leetcode 之类的东西。目前为止，我发现了一个叫CSSBattle的网站，看起来不错，但是作为一个CSS不强的人，我认为它不适合我。有人有学习和掌握 CSS 的资源吗？   由   提交/u/matterulo439   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sy4fuz/anybody_know_any_sites_tools_or_resources_so_i/</guid>
-      <pubDate>Tue, 28 Apr 2026 15:19:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>合同测试人工智能代理：测试确定性包装器，而不是模型的决策</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sy4dqm/contract_testing_ai_agents_test_the_deterministic/</link>
-      <description><![CDATA[我们一直在将人工智能代理构建到生产系统中，但遇到了每个人都会遇到的相同测试墙：你无法对法学硕士将决定的内容进行单元测试。但您可以测试围绕它的所有确定性内容。 捕获格式错误的工具调用的输入验证。响应传播之前输出模式强制执行。权限边界不依赖于模型“理解”的内容。 我们编写了从生产失败中提取的 5 个真实合约：https://ultrathink.art/blog/contract-tests-for-agents?utm_source=reddit&amp;utm_medium=social&amp;utm_campaign=organic 点击的模式：将 LLM 视为您无法控制的第三方 API。测试它的承诺（合同），而不是它的工作原理（内部）。   由   提交 /u/ultrathink-art   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sy4dqm/contract_testing_ai_agents_test_the_deterministic/</guid>
-      <pubDate>Tue, 28 Apr 2026 15:17:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个 CLI，通过读取代码库并提取真实的 GSC 数据来审核 SEO</title>
-      <link>https://www.reddit.com/r/webdev/comments/1sy3zgu/built_a_cli_that_audits_seo_by_reading_your/</link>
-      <description><![CDATA[构建一个免费的开源 CLI 工具，可以从代码库内部进行人工智能驱动的 SEO 审核。 它的不同之处在于：它首先读取您的源代码（README、package.json、登陆页面），以便在生成建议之前了解您的产品实际执行的操作。然后它直接从 Google Search Console 提取真实数据。无第三方关键字估计。 npx serpiq 审核 支持任何 LLM：Claude、GPT、Groq、Ollama（完全本地）、OpenRouter。输出只是与代码一起提交的 Markdown 文件。 在 GitHub 或 npm 上搜索 serpIQ。免费，开源，麻省理工学院。很高兴回答问题。   由   提交/u/manojahi77  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1sy3zgu/built_a_cli_that_audits_seo_by_reading_your/</guid>
-      <pubDate>Tue, 28 Apr 2026 15:03:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

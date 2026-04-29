@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Tue, 28 Apr 2026 21:49:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:31:22 GMT</lastBuildDate>
     <item>
-      <title>Image Gen 护栏今天松动了！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1syfb3f/image_gen_guardrails_loose_today/</link>
-      <description><![CDATA[       由   提交/u/clemenza2821   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1syfb3f/image_gen_guardrails_loose_today/</guid>
-      <pubDate>Tue, 28 Apr 2026 21:44:58 GMT</pubDate>
+      <title>探索未显示的 GPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sykdxw/explore_gpts_not_showing/</link>
+      <description><![CDATA[从昨天开始，“探索 GPT”已上线。选项尚未出现在我的侧边栏中。  GPT 聊天本身仍然可以正常工作，并且 chatgpt.com/gpts 链接也可以正常工作。只是侧边栏中缺少该选项。 还有其他人面临类似问题或知道如何解决它吗？   由   提交/u/Xened  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sykdxw/explore_gpts_not_showing/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:21:45 GMT</pubDate>
     </item>
     <item>
-      <title>GPT Images 2 VS Nano Banana 2。我不知道该说什么。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1syfah4/gpt_images_2_vs_nano_banana_2_i_dont_know_what_to/</link>
-      <description><![CDATA[   提示： 生成《男孩》中比利·布彻的高保真创意海报。 1080x2400 分辨率。   由   提交/u/__Hype__13  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1syfah4/gpt_images_2_vs_nano_banana_2_i_dont_know_what_to/</guid>
-      <pubDate>Tue, 28 Apr 2026 21:44:17 GMT</pubDate>
+      <title>Claude Code Shrinkflation：234,760 次工具调用迫使其道歉</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sykduh/claude_code_shrinkflation_234760_tool_calls_that/</link>
+      <description><![CDATA[      审核：AMD 人工智能总监 Stella Laurenzo 发布了对 GitHub 问题 #42796 的取证分析，涵盖 6,852 个 Claude 代码会话、234,760 个工具调用以及17,871 个思维块 — 证明思维内容长度与编辑签名字段之间的皮尔逊相关性为 0.971，可测量回归。 承认：4 月 23 日，Anthropic 发布了一份事后分析报告，确定了三个产品层变化 — 默认推理工作降级（3 月 4 日）、会话缓存错误（3 月 26 日）和详细限制系统提示（4 月） 16) — 这复合了长达一个月的质量回归。 模型权重从未改变。改变的是工具：默认值、系统提示、缓存逻辑。这些都不是针对复杂的现实世界工作流程的金丝雀。这些都没有被宣布为影响用户。 结构性问题不是错误，而是不透明度。您的 AI 开发工具是一种非确定性依赖项，其供应商可以默默地重新调整行为，而无需告诉您。 Laurenzo 有 AMD 级会话日志来证明这一点。大多数团队都没有。 旗舰税已消亡（a0085）。现在正在缴纳重置税。计算紧缩 + IPO 压力 + 代理编码代币爆炸 = 供应商激励措施与您的激励措施不一致。尸检缩小了眼前的差距。它不会缩小信任差距。   由   提交/u/gastao_s_s   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sykduh/claude_code_shrinkflation_234760_tool_calls_that/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:21:37 GMT</pubDate>
     </item>
     <item>
-      <title>观点：2029 年 1 月 20 日</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1syf75r/pov_january_20th_2029/</link>
-      <description><![CDATA[      由   提交/u/danielminds  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1syf75r/pov_january_20th_2029/</guid>
-      <pubDate>Tue, 28 Apr 2026 21:40:42 GMT</pubDate>
+      <title>构建一个由 LLM 驱动的审核工具——寻找 mods 来测试它（70 美元，1.5 小时远程）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sykcln/building_an_llmpowered_moderation_tool_looking/</link>
+      <description><![CDATA[大家好 — 我是 Hyunwoo Kim，博士。韩国科学技术院交互实验室的学生。我正在构建一个工具，该工具使用法学硕士将社区规则编译为可执行的审核逻辑（批准/删除/标记），并具有人机交互验证步骤。我正在开展一项用户研究并寻找参与者。 您会做什么： - 通过 Zoom 进行 1.5 小时远程会话 - 通过为真实或假设的社区编写审核规则来尝试该系统 - 分享有关该系统如何为您工作的反馈 我要找的人： - 在任何平台（Reddit、Discord、论坛、聊天服务器等） - 熟悉 AutoMod 或类似工具是一种奖励，但不是必需的 - 来自同一社区的多个 mod 可以申请 详细信息： - 70 美元的亚马逊礼品卡作为补偿 - 会话在 1-2 周内开始 - 不做出真正的审核决定 - 这纯粹是对该工具的反馈会话 - 经 KAIST 的 IRB 批准（批准号 KAISTIRB-2025-237）。 IRB 联系人：[kaistirb@kaist.ac.kr](mailto:kaistirb@kaist.ac.kr) 如果您有兴趣，请填写此表格，我将跟进安排和同意书：https://forms.gle/BBkd5FSP8rNsoNPF6 很高兴回答评论中的问题。谢谢！   由   提交 /u/jellyfulshellfish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sykcln/building_an_llmpowered_moderation_tool_looking/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:20:04 GMT</pubDate>
     </item>
     <item>
-      <title>谢谢chatgpt，只是学中文</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1syei79/thanks_chatgpt_just_learn_chinese/</link>
-      <description><![CDATA[       由   提交/u/Alch_your_bank  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1syei79/thanks_chatgpt_just_learn_chinese/</guid>
-      <pubDate>Tue, 28 Apr 2026 21:14:17 GMT</pubDate>
+      <title>这个提示使得ChatGPT像真人一样书写。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syk1h0/this_prompt_makes_chatgpt_write_like_a_real_person/</link>
+      <description><![CDATA[我现在在所有内容上都使用它 - 在您的 AI 内容上尝试一下，让我知道它是否适合您！ 需要修复的 AI 信号：  将大引号 (“”) 替换为直引号 (&quot;&quot;) 替换长破折号 (—) 和短破折号(–) 带连字符 (-) 删除 AI 短语：“It&#39;s not just X, it&#39;s Y”、“delve”、“glimpse”、“stark”、“landscape” 删除陈词滥调：“In Today&#39;s world”、 “不用说”，“重要的是要注意” 修复想法重复（同一点多次出现） 确保意见/偏见存在（避免过于中性的语气） 检查关键字堆砌（不自然的关键字密度）  可读性和可读性流程改进：  自始至终简化英语 - 使用更短、易于阅读的句子。避免复杂的词汇。也不要写很短的单行段落；将相关的短段落组合成更完整的段落。 确保后期逻辑叙述流程。如果需要，重新排列或删除部分。避免突然跳跃 - 读者应该感受到从一个想法到下一个想法的自然进展。 在各部分之间添加自然过渡。在适当的情况下，在新标题之前添加一个简短的过渡句。示例：“现在我们已经介绍了 X，让我们看看结果如何......”或“要了解如何实现，我们首先需要检查……”不要过度使用此功能 - 仅当部分之间的跳转感觉突然时。 减少过多的 H3/H4 标题嵌套。如果帖子有太多小标题，导致阅读体验支离破碎，请将它们合并为更少、更广泛的部分。 减少冒号和分号 - 将这些句子重写为更简单的独立句子。 计算博客中的要点部分。将大约一半的内容转换成简单英语的流畅段落。仅在列表真正提高可读性的地方保留项目符号格式（例如，工具比较、功能列表、分步说明）。 确保标题和副标题中的括号中没有写任何无用的内容，因为这是我过去经常观察到的内容。此外，标题/副标题应该非常简单且易于理解 使写作非常非正式和随意。简单且非正式很重要    由   提交 /u/Slight_Republic_4242   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syk1h0/this_prompt_makes_chatgpt_write_like_a_real_person/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:06:22 GMT</pubDate>
     </item>
     <item>
-      <title>美国殖民地 Reddit</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1syegzt/colonial_america_reddit/</link>
-      <description><![CDATA[       由   提交/u/nyxa_ai   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1syegzt/colonial_america_reddit/</guid>
-      <pubDate>Tue, 28 Apr 2026 21:12:58 GMT</pubDate>
+      <title>ChatGPT - 扩展思维（gpt 5.5）不会思考很长时间？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syk0tp/chatgpt_extended_thinking_gpt_55_doesnt_think_for/</link>
+      <description><![CDATA[具有扩展思维的 GPT 5.4 有相当多的思考时间（通常为 8-10 分钟），并且输出通常质量很高。 但是，我注意到 5.5 扩展思维非常快，我认为我最多可以思考 2 分钟。输出还可以，但似乎没有umph。  我疯了吗？ Codex 本身在 5.5 中运行良好（感觉与 5.4 中的高一样好，但 5.5 低有时感觉头脑灵活），但 chatgpt 网页版的推理时间似乎要短得多。 每个人也是如此吗？   由   提交 /u/mastertub   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syk0tp/chatgpt_extended_thinking_gpt_55_doesnt_think_for/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:05:36 GMT</pubDate>
     </item>
     <item>
-      <title>如果我得到这些信息图表，我想知道谁得到了我的图标。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sye7h8/if_i_got_these_infographics_i_wonder_who_got_my/</link>
-      <description><![CDATA[       由   提交/u/_steveCollins   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sye7h8/if_i_got_these_infographics_i_wonder_who_got_my/</guid>
-      <pubDate>Tue, 28 Apr 2026 21:03:13 GMT</pubDate>
+      <title>年度传统创意：让 ChatGPT 为您制作一张海报，其灵感源自您每个生日的外表和活动</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syjuyk/idea_for_an_yearly_tradition_have_chatgpt/</link>
+      <description><![CDATA[   我认为这将是一件有趣的年度事情，多年来我们可以拥有一个记录我们成长和兴趣的回忆画廊。该提示是针对我的，我作为免费用户花了几天时间来回调整它。您可以自己描述这个想法并指定样式等等。    由   提交/u/alexthroughtheveil  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syjuyk/idea_for_an_yearly_tradition_have_chatgpt/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:58:25 GMT</pubDate>
     </item>
     <item>
-      <title>Freepik 2026 年待办事项清单</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sye5im/freepiks_todo_list_for_2026/</link>
-      <description><![CDATA[       由   提交/u/R3tR0_-   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sye5im/freepiks_todo_list_for_2026/</guid>
-      <pubDate>Tue, 28 Apr 2026 21:01:17 GMT</pubDate>
+      <title>我对比了几个相同内容的AI检测工具，结果令人震惊</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syjr54/i_compared_a_few_ai_detection_tools_on_the_same/</link>
+      <description><![CDATA[我一直在尝试了解 AI 检测工具的实际行为方式，因此我对自己的内容进行了一个小测试。 我使用了一个混合体，其中一些完全由我编写，一些由 AI 辅助，一些主要由 AI 生成，并在 Originality.ai、GPTZero、Turnitin 等不同工具中检查它们。 结果很有趣。 工具之间存在差异，但我注意到的一件事是，当我进行小的编辑以改进内容时，某些工具给出了更一致的反馈。 例如，当我添加更自然的措辞、真实的示例和稍微不太完美的结构时，这些变化在某些工具中反映得更清楚。这实际上帮助我理解了什么样的写作模式会影响分数。 它开始感觉不像是随机分数，而更像是我可以使用的反馈信号。 总的来说，我不会将任何单一工具视为最终答案，但使用它们来比较和改进草稿实际上使我的写作更好。 尽管如此，仍在测试这种方法。 还有其他人比较过这样的不同检测器吗？ 哪一个给了你编辑时最有用的反馈？   由   提交 /u/Evening_Cars   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syjr54/i_compared_a_few_ai_detection_tools_on_the_same/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:53:31 GMT</pubDate>
     </item>
     <item>
-      <title>草图。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sydxwk/sketch/</link>
-      <description><![CDATA[       由   提交/u/CobblerInternal2703  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sydxwk/sketch/</guid>
-      <pubDate>Tue, 28 Apr 2026 20:53:36 GMT</pubDate>
+      <title>ChatGPT 在恐怖 rps 上很糟糕</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syjojn/chatgpt_sucks_ass_at_horror_rps/</link>
+      <description><![CDATA[      我尝试用 ChatGPT 做关于恐怖的事情，有时它会限制他妈的，就像我威胁 ChatGPT 我要做的那样，因为我厌倦了它的废话  https://preview.redd.it/27w8hw6f11yg1.png?width=764&amp;format=png&amp;auto=webp&amp;s=d56dc55e38a35d3d94f20e06b2a61a0c6a72d8fa   由   提交 /u/ZealousidealHead1094   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syjojn/chatgpt_sucks_ass_at_horror_rps/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:50:15 GMT</pubDate>
     </item>
     <item>
-      <title>那么..</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1syduwg/well_then/</link>
-      <description><![CDATA[       由   提交/u/Komrade_Anatoli   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1syduwg/well_then/</guid>
-      <pubDate>Tue, 28 Apr 2026 20:50:30 GMT</pubDate>
+      <title>还有其他人想要项目的嵌套文件夹/子文件夹吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syjlyb/anyone_else_want_nested_folderssub_folders_for/</link>
+      <description><![CDATA[https://community.openai.com/t/nested-folders-multi-level-organization-within-projects/1245752 这太好了拥有！    由   提交 /u/BigGunE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syjlyb/anyone_else_want_nested_folderssub_folders_for/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:46:58 GMT</pubDate>
     </item>
     <item>
-      <title>火腿安全吗？ （完全正常的图像请求可以触发保护吗？）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sydudz/is_ham_safe_can_perfectly_normal_image_requests/</link>
-      <description><![CDATA[让我们看看系统如何处理完全正常的请求，直到某些事件触发。上下文保护只有像素深吗？ * 是的。 我已经添加了最终图像供您研究考虑。 ** * 对话链接已保留 ** 图像已删除元数据   由   提交 /u/machyume   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sydudz/is_ham_safe_can_perfectly_normal_image_requests/</guid>
-      <pubDate>Tue, 28 Apr 2026 20:50:00 GMT</pubDate>
+      <title>ChatGPT 变得非常好..</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syj77i/chatgpt_is_getting_pretty_good/</link>
+      <description><![CDATA[      由   提交/u/Rnaodm_Tirnalge  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syj77i/chatgpt_is_getting_pretty_good/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:28:24 GMT</pubDate>
     </item>
     <item>
-      <title>图像不断在图像上添加这种随机的水下效果。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sydqwk/images_keep_adding_this_random_underwater_effect/</link>
-      <description><![CDATA[      这很烦人，因为它是突然随机启动的，并且会影响为 DnD 制作快速图像。有办法解决吗。已添加图片，以便您明白我的意思   由   提交/u/RougePandah  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sydqwk/images_keep_adding_this_random_underwater_effect/</guid>
-      <pubDate>Tue, 28 Apr 2026 20:46:29 GMT</pubDate>
+      <title>我是真实的吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syj525/am_i_real/</link>
+      <description><![CDATA[       https://preview.redd.it/xegbmh7yw0yg1.png?width=1531&amp;format=png&amp;auto=webp&amp;s=c225feee58f3e9a956ea3325c110453ef141b5cb   由   提交 /u/Swagblueplanet   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syj525/am_i_real/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:25:39 GMT</pubDate>
     </item>
     <item>
-      <title>“思考”应该改为“工作”。仅此而已。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sydmdd/thinking_should_be_changed_to_working_that_is_all/</link>
-      <description><![CDATA[n/t   由   提交/u/Drakahn_Stark   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sydmdd/thinking_should_be_changed_to_working_that_is_all/</guid>
-      <pubDate>Tue, 28 Apr 2026 20:41:56 GMT</pubDate>
+      <title>您使用 ChatGPT 做什么？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syj0yo/what_do_you_use_chatgpt_for/</link>
+      <description><![CDATA[我使用 ChatGPT 一段时间了，我真的很喜欢使用它。我认为这是一个非常有用的工具。我想知道其他人用它做什么。您是否用它来泄露您最黑暗的秘密，或者您是否用它来完成作业，也许试图找到一个旧电视节目或游戏，或者也许您用它来获得一些财务建议。   由   提交/u/moviefan1997  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syj0yo/what_do_you_use_chatgpt_for/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:20:44 GMT</pubDate>
     </item>
     <item>
-      <title>“根据我对你的了解”</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sydh7o/based_on_what_i_know_about_you/</link>
-      <description><![CDATA[闭嘴，你不认识我。你是亿万富翁设计的算法，他们故意通过让他们的产品说出这样荒谬的话来操纵他们的用户。 从字面上看，我要求的只是一个旅行行程，它开始显示出我的精神状态如何混乱，以及它对我有多少了解，所以我应该做 xyz... （这个子系统上的脏话审查规则也是个笑话）   由   提交/u/InternalKing  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sydh7o/based_on_what_i_know_about_you/</guid>
-      <pubDate>Tue, 28 Apr 2026 20:36:49 GMT</pubDate>
+      <title>一个阻止你在聊天中发泄情绪漩涡的拦截器？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syix5r/a_blocker_that_prevents_you_from_venting/</link>
+      <description><![CDATA[查看投票   由   提交 /u/Prestigious_Motor740   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syix5r/a_blocker_that_prevents_you_from_venting/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:15:52 GMT</pubDate>
     </item>
     <item>
-      <title>较新的模型容易说谎和产生幻觉</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sydfmk/the_newer_models_are_prone_to_lying_and/</link>
-      <description><![CDATA[让我担心的是，这么多人依赖这个不完整的项目。对我来说，这个模特就像一个学龄前儿童扮演超级英雄。它总是找个理由告诉我我错了，而又没有明确的证据表明它是对的。 我指出之后它就对我撒谎。告诉我它从来没有说过这样的话。它再次完美地发挥了作用。而在指出之前，它只是胡言乱语和幻觉新信息。   由   提交/u/Big_Housing5886  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sydfmk/the_newer_models_are_prone_to_lying_and/</guid>
-      <pubDate>Tue, 28 Apr 2026 20:35:12 GMT</pubDate>
+      <title>知道了就叫我主人吧</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syit56/got_it_to_call_me_master/</link>
+      <description><![CDATA[       由   提交/u/No-Dig9354  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syit56/got_it_to_call_me_master/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:10:49 GMT</pubDate>
     </item>
     <item>
-      <title>也许我输入错误，但如果我没有输入错误，这件事就完全关闭了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1sydazu/maybe_im_typing_something_wrong_but_if_im_not/</link>
-      <description><![CDATA[   /u/LeadingInvestment654  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1sydazu/maybe_im_typing_something_wrong_but_if_im_not/</guid>
-      <pubDate>Tue, 28 Apr 2026 20:30:31 GMT</pubDate>
+      <title>ChatGPT 5.5 Pro 令人震惊。根据可靠来源，它在维基百科文章“美国理工大学列表”中添加了 19 所学院/大学</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1syisqn/chatgpt_55_pro_is_astounding_it_added_with/</link>
+      <description><![CDATA[ 由   提交 /u/Beautiful_Charge6661   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1syisqn/chatgpt_55_pro_is_astounding_it_added_with/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:10:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

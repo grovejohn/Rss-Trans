@@ -4,20 +4,20 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 Apr 2026 21:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 01:33:11 GMT</lastBuildDate>
+    <item>
+      <title>开源实验：探索简单转账之外的“协议结算”</title>
+      <link>https://www.reddit.com/r/opensource/comments/1syilm4/opensource_experiment_exploring_agreementbased/</link>
+      <description><![CDATA[我一直在探索加密/区块链领域中处理各方之间协议的问题，而不仅仅是价值转移。 当今的大多数系统都非常擅长转移资金，但当涉及到托管、里程碑付款或有条件结果等问题时，其中很多最终仍然是在链外或通过自定义逻辑进行处理。 我开始从事一个开源项目（Irium）尝试是否可以更本地化地处理这个问题 - 重点关注以下想法：  - 预先定义协议 - 使用客观条件（超时、签名、证明） - 最大限度地减少主观争议解决 这还处于早期阶段，而且是一个探索，但我非常感谢这里的人的反馈，特别是：  - 这是否属于协议层还是应用层 - 如何处理现实世界条件的验证 – 信任不可避免地会重新回归 Repo：https://github.com/iriumlabs/irium 很高兴听到任何想法或批评。   由   提交/u/Bisu40   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1syilm4/opensource_experiment_exploring_agreementbased/</guid>
+      <pubDate>Wed, 29 Apr 2026 00:01:37 GMT</pubDate>
+    </item>
     <item>
       <title>Woohoo.to - DM 和评论的后续工具。专为像我和其他人这样的创始人而打造！</title>
       <link>https://www.reddit.com/r/opensource/comments/1sycz5z/woohooto_a_follow_up_tool_for_dms_and_comments/</link>
       <description><![CDATA[当生活变得忙碌时，温暖的对话会变得冷淡。 Woohoo 让他们保持活力： - 𝟭-𝗖𝗹𝗶𝗰𝗸 𝗦𝗮𝘃𝗲：来自 Reddit 或 LinkedIn。 - 𝗖𝗹𝗲𝗮𝗻 𝗖𝗼𝗻𝘁𝗲𝘅𝘁：每个 DM &amp;自动按每个人的顺序发布评论。 - 𝗠𝗼𝗿𝗻𝗶𝗻𝗴 𝗗𝗶𝗴𝗲𝘀𝘁𝘀：早上 8 点温柔提醒您的日常跟进。  没有 CRM 混乱。只需三个视图即可清洁仪表板： 𝗢𝘃𝗲𝗿𝗱𝘂𝗲 · 𝗗𝘂𝗲 𝘁𝗼𝗱𝗮𝘆 · 𝗚𝗼𝗶𝗻𝗴 𝗰𝗼𝗹𝗱  它是开源的，永久免费，并且可以在 Chrome + Firefox 上使用。  尝试一下：woohoo.to GitHub：https://github.com/MudgalLabs/woohoo  好奇 - 你今天如何管理对话？   由   提交 /u/heyshikhar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1sycz5z/woohooto_a_follow_up_tool_for_dms_and_comments/</guid>
       <pubDate>Tue, 28 Apr 2026 20:18:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>新语言：标准库与生态系统库？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1syc6f1/new_language_std_library_vs_ecosystem_libraries/</link>
-      <description><![CDATA[我正在研究一种新语言。考虑像 Go/Rust 一样的引擎之上的 Rust/F# 语法（goroutine 和垃圾收集，以及一些额外的安全性）。 我正在尝试确定什么对标准库和生态系统有意义。从理论上讲，像 Go 这样的东西感觉很理想——包含大量电池，但并不是每个人都能满足。但话又说回来，考虑到从头开始的情况 - 什么会更理想？ 您认为是否有真正属于您使用的语言的 std 库的库？为什么？ 谢谢!!   由   提交 /u/DanManPanther   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1syc6f1/new_language_std_library_vs_ecosystem_libraries/</guid>
-      <pubDate>Tue, 28 Apr 2026 19:50:11 GMT</pubDate>
     </item>
     <item>
       <title>免费交互式 AI 安全培训库（符合 OWASP、白标友好、SCORM 就绪）</title>
