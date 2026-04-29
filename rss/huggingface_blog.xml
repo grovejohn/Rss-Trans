@@ -4,13 +4,27 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Wed, 29 Apr 2026 16:22:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 19:03:51 GMT</lastBuildDate>
+    <item>
+      <title>人工智能评估正在成为新的计算瓶颈</title>
+      <link>https://huggingface.co/blog/evaleval/eval-costs-bottleneck</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/evaleval/eval-costs-bottleneck</guid>
+      <pubDate>Wed, 29 Apr 2026 16:45:09 GMT</pubDate>
+    </item>
     <item>
       <title>Granite 4.1 法学硕士：它们是如何构建的</title>
       <link>https://huggingface.co/blog/ibm-granite/granite-4-1</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ibm-granite/granite-4-1</guid>
       <pubDate>Wed, 29 Apr 2026 15:01:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepInfra 拥抱人脸推理提供商 🔥</title>
+      <link>https://huggingface.co/blog/inference-providers-deepinfra</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/inference-providers-deepinfra</guid>
+      <pubDate>Wed, 29 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>NVIDIA Nemotron 3 Nano Omni 简介：适用于文档、音频和视频代理的长上下文多模态智能</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/waypoint-1-5</guid>
       <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有句子变压器的多模态嵌入和重新排序模型</title>
-      <link>https://huggingface.co/blog/multimodal-sentence-transformers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/multimodal-sentence-transformers</guid>
-      <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safetensors 即将加入 PyTorch 基金会</title>
-      <link>https://huggingface.co/blog/safetensors-joins-pytorch-foundation</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/safetensors-joins-pytorch-foundation</guid>
-      <pubDate>Wed, 08 Apr 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
