@@ -4,7 +4,63 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 29 Apr 2026 13:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:23:47 GMT</lastBuildDate>
+    <item>
+      <title>SQL 编辑器还有用吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1sz3f56/are_sql_editors_still_useful/</link>
+      <description><![CDATA[今天早上我在处理 Postgres 中的一些数据时想知道这个问题。由于我每天都使用 Claude，所以我只是要求它连接到我的 Postgres 并运行查询来检索我需要的数据。 您可能想知道让 LLM 写入数据库（尤其是在生产环境中），但您始终可以让它准备查询。 所以，我想知道像 Tableplus、DBeaver 和其他软件这样的软件是否还有未来。 注意：我完全清楚让 LLM 与数据库交互有多危险，我只是很好奇。   由   提交/u/InnerPhilosophy4897  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sz3f56/are_sql_editors_still_useful/</guid>
+      <pubDate>Wed, 29 Apr 2026 16:13:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿</title>
+      <link>https://www.reddit.com/r/software/comments/1sz36vx/hey/</link>
+      <description><![CDATA[所以我在读高中，我一直发现编程非常有趣，能够编写自己的数字现实的概念对我来说一直是一个非常有趣和有创意的概念，但现在我即将毕业，法学硕士是一件大事，追随这个梦想还值得吗？只是想从该领域的人们那里得到一些建议 一些注意事项：专门从事某种形式的人工智能工程将是我的首选道路，小时候观看 Tony stark 创建 Jarvis 和 Friday 确实激励了我   由   提交/u/No-Reality3646  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sz36vx/hey/</guid>
+      <pubDate>Wed, 29 Apr 2026 16:05:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于通用“cat”热敏打印机（加上 Niimbot、Phomemo）的标签设计器/库。有了人工智能，自然......但很有用。</title>
+      <link>https://www.reddit.com/r/software/comments/1sz2eud/a_label_designer_library_for_generic_cat_thermal/</link>
+      <description><![CDATA[也许有人会发现它很有用。我刚刚发现修补它比实际浏览我的东西并完成它应该协助的工作更有趣...... https://github.com/lukaszliniewicz/catlabel（带有视频演示）。 Windows 安装程序、Python 后端、React 前端、SQLite。  https://preview.redd.it/4kbjc3czf5yg1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=481c5e1b292b3cb4c7ba6aa1429f9d3affd2814e &lt;一href=&quot;https://preview.redd.it/sg29lasbg5yg1.jpg?width=1000&amp;format=pjpg&amp;auto=webp&amp;s=082f61467b8a344680d4448d0d6b5b48eb74e6b8&quot;&gt; https://preview.redd.it/sg29lasbg5yg1.jpg?width=1000&amp;format=pjpg&amp;auto=webp&amp;s=082f61467b8a344680d4448d0d6b5b48eb74e6b8   由   提交 /u/black_cat90   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sz2eud/a_label_designer_library_for_generic_cat_thermal/</guid>
+      <pubDate>Wed, 29 Apr 2026 15:38:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>内置 grosift：适用于 Windows 和 MacOS 的照片和文件管理器（OCR + 地图 + 时间线）</title>
+      <link>https://www.reddit.com/r/software/comments/1sz1kgk/built_grosift_a_photo_and_file_organizer_for/</link>
+      <description><![CDATA[Tt 是一个在 Windows 上使用 Flutter 构建的独立开发项目，也适用于 iOS、macOS。  图像和图像上的 OCR。 PDF：在照片库中搜索照片中的文本（通过车牌查找汽车、按金额收据、按单词幻灯片） 地图 + 时间线工作区：按 GPS 位置或按年/月浏览照片、编辑或修复损坏或丢失的 GPS、将块移动到文件夹（如您上次旧金山旅行） 直接从时间线移动到文件夹：清理大型库，无需离开应用程序 重复&amp;类似的照片检测，带有保留/删除提示  它有一个免费测试期，然后是一次性购买终身选项。 MS Store：https://apps.microsoft.com/detail/9nb8r193d5xs Apple Store：https://apps.apple.com/us/app/grosift/id6757622304 欢迎提供反馈 - 您会添加或更改什么？   由   提交/u/adwigro  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sz1kgk/built_grosift_a_photo_and_file_organizer_for/</guid>
+      <pubDate>Wed, 29 Apr 2026 15:08:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>允许您在屏幕上/所有内容上添加自定义贴纸的程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1sz0n5f/program_that_lets_you_add_custom_stickers_on_your/</link>
+      <description><![CDATA[不知道还能在哪里问这个问题，如果我做得不对，很抱歉！  我最近看到有一个 Spicetify 的扩展 - 一个 Spotify 的模组，允许自定义扩展和主题 - 可以让你添加自定义贴纸，所以我想知道是否有类似的东西，但对于 Windows 来说？我知道 chrome 的扩展也可以执行类似的操作，但我不确定 Windows 是否有类似的功能，因此它会覆盖在 Everything 之上或其他特定程序上。 如果有人知道执行此操作的任何软件，那就太好了。   由   提交 /u/bbkblake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1sz0n5f/program_that_lets_you_add_custom_stickers_on_your/</guid>
+      <pubDate>Wed, 29 Apr 2026 14:35:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lapser Studio - 轻松创建精美的延时录音</title>
+      <link>https://www.reddit.com/r/software/comments/1syz749/lapser_studio_create_beautiful_timelapse/</link>
+      <description><![CDATA[您好r/software 今天我发布了 Lapser Studio，这是一款小型 macOS 应用程序，可帮助您录制延时屏幕录制并使它们变得漂亮。 如果您使用经典录制软件创建此类录制，您最终会得到大量录制文件和缓慢的视频编辑软件编辑剪辑 Lapser Studio 解决了这个问题，让你点击录制，完成后，可以超级轻松地编辑背景、相机位置和前景大小。 我多年前使用的应用程序（我相信是 Hustl）早已没有更新，像 Screen Studio 这样的应用程序已成为简化编辑的标准。所以我想为什么不混合呢。我非常自豪地与大家分享这款应用程序。 Lapser Studio 可通过我自己的网站购买，价格为 30 美元（REDDIT25，reddit 观看者可享受 25% 的折扣）以及应用程序商店 ➡️ https://apps.apple.com/fr/app/lapser-studio/id6758652797?l=en-GB&amp;mt=12 Tysm，我希望你觉得它有用🫶   由   提交/u/gotDemPandaEyes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1syz749/lapser_studio_create_beautiful_timelapse/</guid>
+      <pubDate>Wed, 29 Apr 2026 13:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>信息披露陷阱</title>
+      <link>https://www.reddit.com/r/software/comments/1syz641/the_disclosure_trap/</link>
+      <description><![CDATA[ 由   提交/u/Full-Buy9467  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1syz641/the_disclosure_trap/</guid>
+      <pubDate>Wed, 29 Apr 2026 13:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spectro – 在 macOS 上自动检测假无损音频（WAV/AIFF 中的上转换 MP3）|终身 39 美元</title>
+      <link>https://www.reddit.com/r/software/comments/1syyww0/spectro_autodetects_fake_lossless_audio/</link>
+      <description><![CDATA[披露：我是开发者。 透明度： https://getspectro.app/privacy · https://getspectro.app/terms 问题 唱片池和数字商店定期在 WAV 或 AIFF 容器中分发 MP3 编码的音频，“假无损”。或上转换的音频。文件大小看起来不错，扩展名看起来也不错，但频谱频率截止却泄露了这一点。在高端系统上，它可以立即听到。手动查找这些文件意味着一张一张地读取频谱图，当您在演出前检查 80 首曲目时，这不会扩展。  https://preview.redd.it/xixhubtat4yg1.png?width=2228&amp;format=png&amp;auto=webp&amp;s=46d8802363adfc4d57967683e8bbed39db9c020e 比较  Spek 首选频谱分析仪，但自 2013 年起就被放弃。没有批量分析，没有自动判定，需要手动读取。 iZotope RX 精确，但设计用于音频修复，而不是库 QA。速度慢、成本高，而且仅仅检查文件是否无损就太过分了。  Spectro 是专门为这种单一用例而构建的：带有自动判断的批量分析、深度 Finder 集成，没有其他任何阻碍。 定价： 39 美元，一次性，无需订阅。开发者 ID 已签名并经过公证。直接下载。 免费试用：免费扫描前 100 个曲目 [下载/更多信息：https://getspectro.app ] 批量分析、三种判决（无损/有损/假无损）、FFT 频谱检测、Quick Look 插件、右键 Finder 集成， 100% 离线，Apple Silicon + Intel，macOS 12+。 很高兴回答有关光谱检测如何工作或其他任何问题。   由   提交 /u/dragoriver   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1syyww0/spectro_autodetects_fake_lossless_audio/</guid>
+      <pubDate>Wed, 29 Apr 2026 13:31:25 GMT</pubDate>
+    </item>
     <item>
       <title>安全考试浏览器</title>
       <link>https://www.reddit.com/r/software/comments/1syyih6/safe_exam_browser/</link>
@@ -13,23 +69,16 @@
       <pubDate>Wed, 29 Apr 2026 13:15:31 GMT</pubDate>
     </item>
     <item>
-      <title>软件工程一张截图</title>
-      <link>https://www.reddit.com/r/software/comments/1syy2pg/software_engineering_in_one_screenshot/</link>
-      <description><![CDATA[ 由   提交/u/vashisht_vashisht   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1syy2pg/software_engineering_in_one_screenshot/</guid>
-      <pubDate>Wed, 29 Apr 2026 12:58:13 GMT</pubDate>
-    </item>
-    <item>
       <title>我为巴尔干地区制作了一个专门的旅行规划器。</title>
       <link>https://www.reddit.com/r/software/comments/1syxs71/i_built_a_dedicated_trip_planner_for_the_balkans/</link>
-      <description><![CDATA[如果您曾经尝试过计划穿越巴尔干地区的多国旅行，您就会知道其中的艰辛。在找出最有效的山口、穿越边境的时间以及尝试用四种不同的货币分摊晚餐账单之间，后勤工作可能会变得……令人生畏。 在过去的几个月里，我建立了 BalkanTravelPlan.com 来解决这个问题。我们地区有很多未开发的美景，我想创建一个能够真正理解特定“怪癖”的工具。  里面有什么：  智能路线：专门针对巴尔干公路和边境口岸进行了优化（因为 Google 地图并不总是最了解这里）。 本地指南：精心策划的见解和隐藏的瑰宝，您在标准的“前 10 名”地图中找不到这些内容。 listicles。 Crew Up：一个专门的空间，可以邀请您的朋友并管理团体行程，无需 500 条消息的 WhatsApp 线程。 费用分摊：自动跟踪，以便您可以跳过手动电子表格并专注于风景。  该平台正式上线！如果您计划很快去半岛旅行，我希望您检查一下并告诉我您的想法。 目前有 140 多个地点，很快就会添加更多！ 链接： https://balkantravelplan.com/ 希望听到您的反馈或回答有关的任何问题它背后的技术/数据！   由   提交 /u/Which_Practice_9028   [链接] [评论]]]></description>
+      <description><![CDATA[如果您曾经尝试过计划穿越巴尔干地区的多国旅行，您就会知道其中的艰辛。在找出最有效的山口、穿越边境的时间以及尝试用四种不同的货币分摊晚餐账单之间，后勤工作可能会变得……令人生畏。 在过去的几个月里，我建立了 BalkanTravelPlan.com 来解决这个问题。我们地区有很多未开发的美景，我想创建一个能够真正理解特定“怪癖”的工具。  里面有什么：  智能路线：专门针对巴尔干公路和边境口岸进行了优化（因为 Google 地图并不总是最了解这里）。 本地指南：精心策划的见解和隐藏的瑰宝，您在标准的“前 10 名”地图中找不到这些内容。 listicles。 Crew Up：一个专门的空间，可以邀请您的朋友并管理团体行程，无需 500 条消息的 WhatsApp 线程。 费用分摊：自动跟踪，让您可以跳过手动电子表格并专注于风景。  该平台正式上线！如果您计划很快去半岛旅行，我希望您检查一下并告诉我您的想法。 目前有 140 多个地点，很快就会添加更多！ 链接： https://balkantravelplan.com/ 希望听到您的反馈或回答有关的任何问题它背后的技术/数据！   由   提交 /u/Which_Practice_9028   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1syxs71/i_built_a_dedicated_trip_planner_for_the_balkans/</guid>
       <pubDate>Wed, 29 Apr 2026 12:46:03 GMT</pubDate>
     </item>
     <item>
       <title>用于重命名文件的开源 Windows 工具（预览更改 + 撤消）</title>
       <link>https://www.reddit.com/r/software/comments/1syxprp/opensource_windows_tool_to_rename_files_preview/</link>
-      <description><![CDATA[我构建了一个小型开源 Windows 工具来减轻重命名文件的痛苦。 我想要的主要是能够在应用更改之前预览更改，并在出现问题时撤消。 它支持： - 批量重命名 - 查找/替换 - 编号 - 选择特定的文件 主要用于清理混乱的下载文件夹。 如果有人有反馈或改进想法，我将不胜感激： https://github.com/mik3br7/easyedits-file-renamer   由   提交 /u/mik3br   [链接] [评论]]]></description>
+      <description><![CDATA[ https://preview.redd.it/w9dupp3jg5yg1.png?width=1083&amp;format=png&amp;auto=webp&amp;s=6ce9cc759a3899aa084888bd4c8338ad610a893d &lt;一href=&quot;https://preview.redd.it/5vklyr3jg5yg1.png?width=1081&amp;format=png&amp;auto=webp&amp;s=1d8fbd86c2b8933b5e29ca29fadff2bace0db438&quot;&gt; https://preview.redd.it/5vklyr3jg5yg1.png?width=1081&amp;format=png&amp;auto=webp&amp;s=1d8fbd86c2b8933b5e29ca29fadff2bace0db438 我构建了一个小型开源 Windows 工具，使重命名文件变得不那么痛苦。 我想要的主要是能够在应用更改之前预览更改，并在出现问题时撤消。 它支持： - 批量重命名 - 查找/替换 - 编号 - 选择特定文件 主要用于清理混乱的下载 如果有人有改进的反馈或想法，我将不胜感激： https://github.com/mik3br7/easyedits-file-renamer   由   提交 /u/mik3br   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1syxprp/opensource_windows_tool_to_rename_files_preview/</guid>
       <pubDate>Wed, 29 Apr 2026 12:43:18 GMT</pubDate>
     </item>
@@ -60,55 +109,6 @@
       <description><![CDATA[大家好， 我刚刚发布了 OpenAnima v0.1.0，一个小型开源桌面动画叠加工具。 它可以让您将动画 GIF 直接放置在桌面上，拖动它们，锁定/解锁它们，并让它们始终位于顶部 - 有点像轻量级桌面宠物或视觉叠加层。 Github：https://github.com/Ertugrulmutlu/OpenAnima 发布：https://github.com/Ertugrulmutlu/OpenAnima/releases/tag/v0.1.0 它仍然是一个早期原型，但核心思想正在发挥作用。我很乐意获得反馈、功能想法或建议，以使其更有用。   由   提交 /u/True-Sentence-7253   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1syvbae/i_built_an_opensource_desktop_animation_overlay/</guid>
       <pubDate>Wed, 29 Apr 2026 10:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索项目跟踪工具</title>
-      <link>https://www.reddit.com/r/software/comments/1syv9ku/searching_for_project_tracking_tool/</link>
-      <description><![CDATA[你好， 我正在寻找一个 Windows 或 Web 或（仅在没有替代方案时）iOS 软件来跟踪特定项目 我与很多客户合作，项目可能会持续数年，如果有长时间的刹车，我就会失去轨道。 所以我正在寻找一种日历软件，我可以在其中轻松添加项目并放置特定几周的活动，并且日历应该自动前进到当前日期，这样我就可以看到接下来的操作，并能够将它们标记为“完成”或将它们移至另一个日期。全年的行动大多相同 20 或 30 次。它应该快速且易于使用，以便我可以在与客户坐在一起时进行计划，如果可能的话，如果有事情到期，请通知我，也许可以对项目列表进行排序，将下一步的项目放在最上面。   由   提交/u/Skorpid1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1syv9ku/searching_for_project_tracking_tool/</guid>
-      <pubDate>Wed, 29 Apr 2026 10:50:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>EzeePDF - 零上传的多合一 PDF 管理应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1syuv5b/ezeepdf_all_in_one_pdf_management_app_with_zero/</link>
-      <description><![CDATA[ https://preview.redd.it/6tnitf85nqxg1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=a04d85102255ff3db47b68e3327c1e4986e09a38 大家好， 我开发了一款仅限本地的全合一 PDF 管理应用程序 - EzeePDF。您可以从 https://ezeepdf.com/ 您可以在此处分享您的反馈、疑问、功能请求。 目前提供以下功能 -  核心工具：  合并 - 将多个 PDF 合并为一个 拆分 - 拆分按页面范围分成单独的文件 压缩 - 缩小文件大小而不损失视觉质量 图像 → PDF - 将 JPG/PNG/WebP 图像打包为 PDF PDF → 图像 - 将每个页面导出为 PNG/JPG 旋转 - 将各个页面旋转到任意方向 重新排序页面 - 拖拽将页面按任意顺序放置 删除页面 - 从任何 PDF 中删除特定页面 查看器 - 在应用程序内预览任何 PDF  增强功能：  OCR - 使扫描/图像 PDF 可搜索（由 Tesseract 提供支持，100% 本地运行） 编辑 PDF - 添加文本、图像、形状、注释，支持 Google 字体 签名 - 绘制或盖印您的手写签名 数字签名 - 应用经过认证的 PKI 数字签名（USB 加密狗、.pfx 文件或 Windows /MAC 证书存储区） 保护 - 使用密码保护 PDF AES-256 加密 解锁 - 从您拥有的 PDF 中删除密码 添加水印 - 向每个页面添加文本或图像水印 页码 - 添加具有自定义定位/字体的页码 提取文本 - 将所有文本导出为 .txt 文件 提取图像 - 从 PDF 中提取所有嵌入图像 批量 - 一次对数百个 PDF 应用操作  隐私至上的设计 一切都在您的计算机上本地运行。 PDF 操作的零网络调用。您的文档没有遥测数据。   由   提交 /u/Comfortable-Split879   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1syuv5b/ezeepdf_all_in_one_pdf_management_app_with_zero/</guid>
-      <pubDate>Wed, 29 Apr 2026 10:28:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建空白模板以始终将其与 P-Touch Editor V.5.4.015 中的 csv 一起使用</title>
-      <link>https://www.reddit.com/r/software/comments/1syt51s/crear_plantilla_en_blanco_para_utilizarla_siempre/</link>
-      <description><![CDATA[ 由   提交/u/Ok-Cobbler-8116   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1syt51s/crear_plantilla_en_blanco_para_utilizarla_siempre/</guid>
-      <pubDate>Wed, 29 Apr 2026 08:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于分析 Excel 大型数据集的最佳软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1sysv9x/best_software_for_analysing_a_large_dataset_from/</link>
-      <description><![CDATA[大家好， 正如标题所说，我正在寻找最好的软件，或者至少是最适合分析 excel 中的大量数据？ 我尝试过使用 VBA，它可以满足我的需要，但对于大型代码和数据来说，它会变得缓慢且容易出现问题。 我需要一些可以从 excel 获取数据并使用多个过滤器对其进行过滤的工具，以便例如，如果我有 4 个过滤器，那么它将查找包含第一个过滤器的所有行，然后查看第二个过滤器的结果行，并忘记不包含该过滤器的行，依此类推。 然后，将包含所有 4 个过滤器的行提取出来并将它们放在另一张纸上。它还需要对结果进行计算并创建图表以供进一步分析。  我希望能够通过单击按钮来完成所有这些操作，因此理想情况下，过滤器将是下拉菜单，因此我将选择 4 个过滤器，然后单击“分析”按钮它应该可以完成我需要的一切。 谢谢。   由   提交/u/Great-Village-430   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sysv9x/best_software_for_analysing_a_large_dataset_from/</guid>
-      <pubDate>Wed, 29 Apr 2026 08:34:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>PureRecorder - Chaturbate 自动直播流录制器</title>
-      <link>https://www.reddit.com/r/software/comments/1sysj8v/purerecorder_automatic_live_stream_recorder_for/</link>
-      <description><![CDATA[PureRecorder 是我构建的一个小型 Windows 应用程序，用于自动录制直播流。 它监视表演者并在他们上线时自动开始录制。一切都在本地运行，录制内容直接保存到磁盘。 该项目专注于可靠性和无人值守录制。 主要功能  自动实时检测和录制 本地 Web 界面（在您的计算机上运行） 流停止时自动重新启动 每个表演者的单独日志 SQLite 数据库（无外部）依赖项） 在后台连续运行 支持多个表演者  免费版与专业版 免费版：  1 个并发录制 最大分辨率有限 在录制内容中添加水印  专业版消除了这些限制。 这不是开源的，但项目页面包含文档和技术详细信息。 项目页面： https://purerecorder.github.io/PureRecorder/ 如果您喜欢存档流或长期无人值守的录制设置，这可能会很有用。 就是这样，只是分享该工具。   由   提交/u/WRS13  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1sysj8v/purerecorder_automatic_live_stream_recorder_for/</guid>
-      <pubDate>Wed, 29 Apr 2026 08:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在每月向 Zapier 支付 180 美元后，我构建了一个无代码文档工作流程工具，只是为了转换 PDF</title>
-      <link>https://www.reddit.com/r/software/comments/1syrzej/i_built_a_nocode_document_workflow_tool_after/</link>
-      <description><![CDATA[全面披露：我构建了这个，所以请以适当的怀疑态度看待我的观点。很高兴回答诚实的问题。 让我崩溃的问题 去年我正在经营一家小型发票处理业务。每周： → 从电子邮件下载 PDF → OCR 数据 → 转换为 Excel → 重命名 → 上传到云端硬盘。我混合使用 iLovePDF、Zamzar 和 Zapier 将其拼接在一起。 Zapier 每月向我收取 180 美元的费用，因为每个文件转换都算作一项“任务”。 iLovePDF 让我为每个文件单独单击上传。 Zamzar 拒绝任何超过 50MB 的内容。我将五个不同的浏览器选项卡粘在一起来完成一个工作流程。 必须有更好的方法。因此，我构建了 ConvertUniverse — 一个带有可视化工作流程生成器的一体化文档自动化平台。 它的实际用途 集中在一个地方 24 多个工具： PDF 合并/分割/压缩/OCR/签名、Word ↔ PDF、Excel ↔ PDF、图像转换/压缩/调整大小等。无需选项卡切换。 可视化工作流程构建器（我最引以为豪的部分）：将节点拖到画布上。将“拆分 PDF → OCR → 导出到 Excel → 上传到云端硬盘”链接在一起。添加 If/Else 逻辑、并行分支、webhook 触发器、cron 计划。它在一批 500 个文件上运行，与在 1 个文件上运行相同。没有代码。无需按任务计费。 速度混合架构：为了避免纯粹基于云的工具的缓慢，它在混合模型上运行。 UI 和较轻的操作（如基本的 PDF/图像编辑）通过 WebAssembly 在浏览器中立即运行。繁重的工作（如 Office 转换）被路由到专用的 VPS。 隐私和隐私安全性：对于访问我们服务器的任务，文件会进行端到端加密，并在会话结束后立即自动删除。电子签名完全在客户端进行处理 - 签名实际上永远不会离开您的设备。 它适合谁，不适合谁 非常适合以下情况：重复处理批量文档、超出 Zapier 的任务模型、处理敏感文档（合同、医疗记录、HR 文件），或者希望在不编写 Python 的情况下实现自动化。 可能不适合您如果：您是一名开发人员，已经拥有满意的脚本化管道，或者您只是偶尔需要转换单个文件（现有的免费工具就足够了）。 诚实的比较  与。 Zapier/Make：规模上更便宜（统一费率与每个任务相比），更适合文档密集的工作流程，对于所有非文档的工作流程来说更糟糕（Zapier 有 6,000 个应用程序集成；我们现在有大约 20 个） 与iLovePDF/Smallpdf：工作流程自动化、批处理和隐私保证是他们无法提供的 与其他产品相比。 Adobe Acrobat： 价格便宜得多，基本任务没有订阅锁定  现状 2 月份推出了工作流程构建器。大约 40 个工具功能齐全。免费套餐为您提供 100 个积分 + 10 次转化/天，2 个匿名工具（无需帐户）。付费套餐起价为 19.99 美元/月。 还为新用户提供价值 10 美元的免费礼品包。没有尝试将您锁定/为您的卡充值。 真诚地希望来自遇到同样挫折的人的反馈 - 特别是如果我当前的功能集实际上不能解决您的问题版本。这种输入可以帮助我接下来构建正确的东西。 convertuniverse.com - 没有推荐代码，没有附属链接，只有网站。   由   提交 /u/Kindly-Vanilla-6485   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1syrzej/i_built_a_nocode_document_workflow_tool_after/</guid>
-      <pubDate>Wed, 29 Apr 2026 07:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些网站可以将 mp3 转换为文本？</title>
-      <link>https://www.reddit.com/r/software/comments/1syrsd8/what_websites_are_there_for_converting_mp3_to_text/</link>
-      <description><![CDATA[什么是最安全的选项哈哈   由   提交/u/Hot_Sale5590  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1syrsd8/what_websites_are_there_for_converting_mp3_to_text/</guid>
-      <pubDate>Wed, 29 Apr 2026 07:30:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 29 Apr 2026 13:18:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 16:24:54 GMT</lastBuildDate>
     <item>
       <title>营销第 3 天，受众为零。这是实际有效的（以及无效的）。</title>
       <link>https://feed.indiehackers.world/post/2df9727899</link>
@@ -127,8 +127,8 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>代码很便宜，但扩展 AI MVP 很困难。让我们来解决你的问题。</title>
       <link>https://feed.indiehackers.world/post/ab017c5c11</link>
-      <description><![CDATA[到 2026 年，编写代码不再是问题。 Copilot 和 ChatGPT 等人工智能工具可在数小时内生成 MVP。但这里有一个问题：
-人工智能生成的脚本？它无法扩展。
+      <description><![CDATA[到 2026 年，编写代码不再是问题。 Copilot 和 ChatGPT 等人工智能工具可在数小时内生成 MVP。 But here’s the catch:
+That AI-generated script?它无法扩展。
 当用户数量超过 10 名时，错误就会堆积起来。
 演示中有效的内容在生产中中断了。
 我是一名解决方案架构师，见过无数 AI MVP 的失败，因为代码只是开始。真正的游戏是将意大利面条转变为可扩展的 SaaS 产品——足以满足真正的客户、增长和实际收入的需求。
@@ -202,7 +202,7 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>ChatGPT 向您的客户推荐谁而不是您？我将为前 20 位独立 SaaS 创始人免费运行此项目。</title>
       <link>https://feed.indiehackers.world/post/94d1944b80</link>
-      <description><![CDATA[在编写任何代码之前，我想手动运行 20 次这样的审核，看看输出是否对任何人都有用。
+      <description><![CDATA[在编写任何代码之前，我想手动运行 20 次审核，看看输出是否对任何人都有用。
 优惠如下：前 20 位在评论中添加登陆页面 URL 的独立 SaaS 创始人将获得免费审核。我将在本周运行它并将其发送给您：
 
 我测试过的确切提示
