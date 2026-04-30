@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 30 Apr 2026 10:45:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 13:16:50 GMT</lastBuildDate>
+    <item>
+      <title>我应该一起骑吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1szu6yo/should_i_ride_along/</link>
+      <description><![CDATA[大家好，我一直在思考一些事情，我想听听各位软件工程师的想法： 我是一家像样的初创公司的软件工程师，拥有 5 年的经验。我非常支持以最低限度的方式使用人工智能和法学硕士，比如集思广益的架构模式，生成样板代码，否则如果单独用谷歌搜索就需要花费大量时间来组装，询问我不理解的代码部分，等等。总的来说，我的MO基本上是适度使用人工智能，并以大量的盐接受人工智能所吐出的一切并彻底测试它。 但是，我的同事们在完全人工智能自动化方面投入了过多的资金，代理模式，OpenCode 这个，技能安装那个，以及所有现在被塞到我们喉咙里的著名东西。甚至我的首席执行官也在推动完全依赖人工智能来生成代码、发布功能和构建项目，并提出了“给人工智能它会在眨眼间完成它”的臭名昭著的声明。和“什么？！！ 2天完成这个？！使用 AI 应该只需要 2 个小时”。 我的问题是，根据您对我们行业发展轨迹的看法，未来真的会朝着仅使用 OpenCode 这样的工具并输入几个命令来生成整个项目而不质疑或验证其输出的方向吗？我应该纠正我的 MO 并开始将这些工具集成到我的日常编码中吗？大公司都是这样运作的吗？如果我屈服并完全依赖这些工具，我是否会将自己置于无法在大型国际公司找到工作的危险之中？   由   提交 /u/ZaramothZZ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1szu6yo/should_i_ride_along/</guid>
+      <pubDate>Thu, 30 Apr 2026 12:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频编辑器可在不损失质量的情况下修剪/剪切电影</title>
+      <link>https://www.reddit.com/r/software/comments/1szsv4f/video_editor_for_trimmingcutting_movies_without/</link>
+      <description><![CDATA[大家好，我有一些蓝光品质的电影，支持杜比全景声等，我想修剪一些部分，使其适合家庭观看，以便我们可以一家人观看。我想要一个简单的软件来修剪/剪切电影而不损失任何质量，无论是视频还是音频。对于这种用例来说，最好的软件是什么？    由   提交 /u/GoktugY   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1szsv4f/video_editor_for_trimmingcutting_movies_without/</guid>
+      <pubDate>Thu, 30 Apr 2026 11:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么越来越多的软件功能变得越来越强大却变得越来越难用？</title>
+      <link>https://www.reddit.com/r/software/comments/1szsiy2/why_does_so_much_software_become_harder_to_use_as/</link>
+      <description><![CDATA[随着时间的推移，我注意到了一种包含大量软件的模式： 版本 1 解决了一个明确的问题，而且感觉很简单。几年后，在有了更多功能、集成和自定义选项之后，该工具客观上更加强大，但在某种程度上更难以日常使用。 示例可以是项目管理工具、设计软件、CRM、IDE，甚至笔记应用程序。 这让我想知道：  随着产品的成熟，功能膨胀是不可避免的吗？ 这主要是用户体验/设计问题，还是只是服务更高级用户的成本？ 你见过在功能扩展的同时又不会变得不堪重负的软件示例吗？  这里的人们如何考虑功能和可用性之间的权衡。   由   提交 /u/Sad_Limit_3857   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1szsiy2/why_does_so_much_software_become_harder_to_use_as/</guid>
+      <pubDate>Thu, 30 Apr 2026 10:46:43 GMT</pubDate>
+    </item>
     <item>
       <title>内存程序报告</title>
       <link>https://www.reddit.com/r/software/comments/1szrf4r/memory_program_report/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[OnlyOffice 和 Softmaker Office 如何相互比较和叠加？   由   提交 /u/Technical_Rich_3080   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1szfi9f/onlyoffice_vs_softmaker_office/</guid>
       <pubDate>Wed, 29 Apr 2026 23:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个轻量级的 Windows OCR 应用程序（屏幕截图 → 文本）——欢迎反馈</title>
-      <link>https://www.reddit.com/r/software/comments/1szeiwn/i_built_a_lightweight_windows_ocr_app_screenshot/</link>
-      <description><![CDATA[嗨， 我一直在开发一个名为 IMEX 的小型个人项目，这是一个用 C# (WPF) 编写的 Windows 11 应用程序，用于从图像和屏幕截图中提取文本。 目标很简单： → 使 OCR 快速、本地化且易于使用，无需繁重或臃肿的软件。 🔎它的作用 IMEX 可以让您：  捕获屏幕的任何区域并立即提取文本 拖动并提取文本 拖放图像（jpg、png、bmp、tiff...） 从文件资源管理器中打开图像 一键复制提取的文本 将结果另存为 .txt 根据需要导出图像  一切都在本地运行。 ⚡主要功能  屏幕截图工具（单击 + 拖动） 自动OCR处理 干净的分割界面（图像/文本） Light＆amp;深色主题 法语/英语支持 会话保存  🧠我为什么构建它 我尝试过的大多数 OCR 工具都是：  太重 太慢 基于云（隐私问题） 或者对于简单任务来说太过分了  所以我制作了一些专注且简约的东西。 🖥️ 技术堆栈  C# / WPF Tesseract OCR Magick.NET（图像预处理）  📥 下载 👉 https://github.com/Liquid-F0rm/IMEX/releases/latest 💬反馈 我非常感谢任何反馈：  可用性 错误 缺少的功能 UI改进  谢谢🙏   由   提交/u/Over_Value_2520  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1szeiwn/i_built_a_lightweight_windows_ocr_app_screenshot/</guid>
-      <pubDate>Wed, 29 Apr 2026 22:59:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个简单的带推子的多轨音频播放器</title>
-      <link>https://www.reddit.com/r/software/comments/1szcqcw/looking_for_a_simple_multitrackwithfader_audio/</link>
-      <description><![CDATA[嗨， 我正在寻找一种媒体播放器，可以加载两个单独的音轨，并在两个音轨都播放时从一个音轨到另一个音轨进行滑块淡入淡出。 我的用例基本上是在两个音频文件之间进行无缝比较，以查看相同音频的两个混音或原始版本和混合版本之间的差异。  要求：免费。便于使用。允许在播放期间以快速、流畅的方式混合两个文件（不要让我将一个文件静音然后将另一个文件取消静音，从而造成间隙）。 提前致谢！   由   提交 /u/smariroach   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1szcqcw/looking_for_a_simple_multitrackwithfader_audio/</guid>
-      <pubDate>Wed, 29 Apr 2026 21:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个轻量级智能任务栏来整理 Windows 并将应用程序组织到自定义类别中。免费且开源！ 🚀</title>
-      <link>https://www.reddit.com/r/software/comments/1szc1p5/i_built_a_lightweight_smart_taskbar_to_declutter/</link>
-      <description><![CDATA[大家好！ 👋 当我处理不同类型的应用程序（工作、游戏、开发工具等）时，我总是讨厌 Windows 任务栏和桌面变得如此混乱。我想要一种干净、快速的方式来组织我的 .exe 文件和快捷方式，而无需安装繁重的臃肿软件。 因此，我使用 C#/.NET 8 构建了 Windows 智能任务栏。它安静地位于系统托盘中，让您可以拖放应用程序来完美组织它们，而不占用屏幕空间。 ✨ 主要功能：  📂智能类别：将您的应用程序分组到自定义文件夹中（例如“工作”、“游戏”、“实用程序”）。 🖱️ 拖放拖放： 只需将任何快捷方式或 .exe 直接拖到窗口中即可添加。 🔄 静默自动更新： 它每周在后台检查一次更新并无缝升级。 ⚡ 轻量级和轻量级。现代：使用 WinForms 构建，速度极快，并具有带圆角的时尚深色主题。 🌍多语言：开箱即用支持英语、瑞典语和土耳其语。  我已将其免费供个人使用！如果您喜欢干净、简约的桌面，我希望您尝试一下并给我一些反馈。 🔗 GitHub Repo &amp;下载： https://github.com/nRn-World/WindowsSmartTaskbar （注意：如果您在安装过程中收到 Windows SmartScreen 警告，那只是因为我是一名独立开发者，还没有昂贵的签名证书。代码完全开源，因此您可以自己验证！） 我会喜欢听取您的想法、反馈或任何功能请求！让我知道你的想法。 👇  https://preview.redd.it/2qa0usaz47yg1.png?width=404&amp;format=png&amp;auto=webp&amp;s=c2123764ad1d36baa91cbf80a1d4a1f990c0f144 &lt;一href=&quot;https://preview.redd.it/7l1sgtaz47yg1.png?width=528&amp;format=png&amp;auto=webp&amp;s=19af5300f3ba5d0ea5ab4d572b5365fea91ca1c8&quot;&gt; https://preview.redd.it/7l1sgtaz47yg1.png?width=528&amp;format=png&amp;auto=webp&amp;s=19af5300f3ba5d0ea5ab4d572b5365fea91ca1c8 &lt;一href=&quot;https://preview.redd.it/au15ataz47yg1.png?width=312&amp;format=png&amp;auto=webp&amp;s=b611ee9d19eac3621be60d31db8d2a661dfffc0c&quot;&gt; https://preview.redd.it/au15ataz47yg1.png?width=312&amp;format=png&amp;auto=webp&amp;s=b611ee9d19eac3621be60d31db8d2a661dfffc0c   由   提交 /u/Economy-Tale-3907   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1szc1p5/i_built_a_lightweight_smart_taskbar_to_declutter/</guid>
-      <pubDate>Wed, 29 Apr 2026 21:20:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

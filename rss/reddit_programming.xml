@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 30 Apr 2026 10:45:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 13:16:59 GMT</lastBuildDate>
+    <item>
+      <title>有趣的是，当 PR 审查代理了解所编写的代码的所有信息、每一行及其编写的意图时，它的表现就很有趣。</title>
+      <link>https://www.reddit.com/r/programming/comments/1szvayc/interesting_to_see_the_performance_of_pr_review/</link>
+      <description><![CDATA[我已经在代码安全方面工作了几个星期，并思考跟踪代码库的每一行是否对代理有帮助，捕获驱动它的提示及其背后的意图！ 在所附的 PR 上进行了测试，很高兴看到报告以及 greptile 代理如何工作。   由   提交/u/No-Childhood-2502   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1szvayc/interesting_to_see_the_performance_of_pr_review/</guid>
+      <pubDate>Thu, 30 Apr 2026 12:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>他疯了吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1szu4sj/is_he_insane/</link>
+      <description><![CDATA[看看这个：https://github.com/x0rkr   由   提交/u/Sharp_Leadership8776  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1szu4sj/is_he_insane/</guid>
+      <pubDate>Thu, 30 Apr 2026 12:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我仍然选择Scheme 和Lisp 而不是Haskell</title>
+      <link>https://www.reddit.com/r/programming/comments/1sztx3r/why_i_still_reach_for_scheme_and_lisp_instead_of/</link>
+      <description><![CDATA[ 由   提交 /u/BlondieCoder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1sztx3r/why_i_still_reach_for_scheme_and_lisp_instead_of/</guid>
+      <pubDate>Thu, 30 Apr 2026 11:55:18 GMT</pubDate>
+    </item>
     <item>
       <title>代码审查看不到什么（并且总是会发现坏数据）</title>
       <link>https://www.reddit.com/r/programming/comments/1szs6p3/what_code_review_cant_see_and_bad_data_always/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1syzsbq/learn_concurrency_a_deep_dive_into_multithreading/</guid>
       <pubDate>Wed, 29 Apr 2026 14:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>在最近的 npm/PyPI 供应链攻击后设置自动依赖性扫描</title>
-      <link>https://www.reddit.com/r/programming/comments/1syz1bl/set_up_automated_dependency_scanning_after_the/</link>
-      <description><![CDATA[ 由   提交/u/root0ps  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1syz1bl/set_up_automated_dependency_scanning_after_the/</guid>
-      <pubDate>Wed, 29 Apr 2026 13:36:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 tmux 的显示弹出窗口替换 Neovim 的终端</title>
-      <link>https://www.reddit.com/r/programming/comments/1syxa7y/replacing_neovims_terminal_with_tmuxs_displaypopup/</link>
-      <description><![CDATA[在过去的几天里，我断断续续地与此作斗争，以使其正常工作。它确实帮助了我的开发流程，并且认为其他人也可能会发现它很有用。   由   提交 /u/Hell_Rok   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1syxa7y/replacing_neovims_terminal_with_tmuxs_displaypopup/</guid>
-      <pubDate>Wed, 29 Apr 2026 12:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>祝福语法和人体工程学</title>
-      <link>https://www.reddit.com/r/programming/comments/1syx8io/blessed_syntax_and_ergonomics/</link>
-      <description><![CDATA[ 由   提交 /u/gingerbill   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1syx8io/blessed_syntax_and_ergonomics/</guid>
-      <pubDate>Wed, 29 Apr 2026 12:22:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
