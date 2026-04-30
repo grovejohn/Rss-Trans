@@ -4,7 +4,30 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Thu, 30 Apr 2026 07:58:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 10:46:24 GMT</lastBuildDate>
+    <item>
+      <title>我今天启动了 Product Hunt 并发现了一些不舒服的事情</title>
+      <link>https://feed.indiehackers.world/post/35d871866b</link>
+      <description><![CDATA[人们说 Product Hunt 是关于你的产品
+不是
+与分发有关
+你可以构建一些有用的东西
+你可以获得真实的用户
+您甚至可以获得很好的反馈
+但最终还是看不见
+与此同时，拥有强大网络的产品在早期占据主导地位
+不是因为它们更好
+但因为他们一开始就有动力
+在 3 次发布之后，我开始清楚地看到它：
+产品搜寻不再是“你构建了什么”
+以及有关“谁在前 2 小时内出现”的更多信息
+仍然有价值
+但并非大多数创始人所想的那样
+好奇其他人是如何经历的
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/35d871866b</guid>
+      <pubDate>Wed, 29 Apr 2026 13:51:14 GMT</pubDate>
+    </item>
     <item>
       <title>构建文件上传功能的更简洁的方法</title>
       <link>https://feed.indiehackers.world/post/8c704e8518</link>
@@ -200,28 +223,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/0f32ed33ef</guid>
       <pubDate>Sat, 25 Apr 2026 22:48:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>成功的 SaaS 登陆页面使用的常见设计模式</title>
-      <link>https://feed.indiehackers.world/post/3ac5ce41c6</link>
-      <description><![CDATA[设计着陆页并不是要发明新东西，而是要很好地组织经过验证的部分。
-这实际上是我在处理项目时构建可重用登陆页面系统的原因之一。
-&lt;小时/&gt;
-示例演示
-我在使用 Next.js 和 Tailwind 构建模块化 SaaS 登录页面时使用了这些模式。
-如果您好奇它的外观：
-https://vuleo-ai-saas.vercel.app
-&lt;小时/&gt;
-完整模板
-我还将完整的源代码打包为可重用的模板，供独立黑客启动 MVP。
-您可以在这里查看：
-https://vuleolabs.gumroad.com/l/nharb
-&lt;小时/&gt;
-很好奇其他人是否注意到类似的模式。
-您认为哪些部分对于 SaaS 登录页面至关重要？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/3ac5ce41c6</guid>
-      <pubDate>Sat, 25 Apr 2026 02:33:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
