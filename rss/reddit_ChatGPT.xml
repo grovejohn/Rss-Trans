@@ -4,7 +4,49 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Thu, 30 Apr 2026 05:48:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 07:57:02 GMT</lastBuildDate>
+    <item>
+      <title>Overpowered 系列（闪回我们过去要求 AI 升级的日子）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1szp6wl/overpowered_series_flashback_to_the_days_when_we/</link>
+      <description><![CDATA[       由   提交 /u/machyume   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1szp6wl/overpowered_series_flashback_to_the_days_when_we/</guid>
+      <pubDate>Thu, 30 Apr 2026 07:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>这太准确了😂</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1szozpg/this_is_so_accurate/</link>
+      <description><![CDATA[       由   提交/u/imfrom_mars_  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1szozpg/this_is_so_accurate/</guid>
+      <pubDate>Thu, 30 Apr 2026 07:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>您只需使用 ChatGPT 客户端，就可以通过一句话构建可立即投入生产的 CAD</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1szoyri/you_can_build_productionready_cad_from_a_single/</link>
+      <description><![CDATA[大多数关于 AI + CAD 的讨论都集中在错误的层面：  哪个模型更好 是否可以生成 3D 几何图形 使用哪个工具链或插件  但在实际工作流程中，瓶颈通常不是生成。 而是这个：  输出实际上可以使用吗？ 是否一致？它可以制造吗？  一个小实验 我没有要求 GPT“绘制模型”，而是强迫它只做一件事：  将单个自然语言输入转换为可运行的 CAD 版本process  示例 输入： 外径 120，内孔 50，厚度 15，6 个 M8 孔，PCD 90  输出（自动生成 FreeCAD Python）： 导入 FreeCAD、零件、数学文档 = FreeCAD.newDocument() OD=120； ID=50； T=15； HC=6；高清=8； PCD=90 外层 = Part.makeCylinder(OD/2, T) 内层 = Part.makeCylinder(ID/2, T) 主体 = 外层.cut(内层) r = PCD/2 个孔 = [] for i in range(HC): a = 2*math.pi*i/HC x,y = r*math.cos(a), r*math.sin(a) h = Part.makeCylinder(HD/2, T, FreeCAD.Vector(x,y,0))holes.append(h)tool=holes[0]forhinholes[1:]:tool=tool.fuse(h)final=body.cut(tool)Part.show(final)doc.recompute()在 FreeCAD 中运行它→你得到模型。关键不是代码生成重要的部分发生了在生成之前： 有一个层可以对齐和验证输入：  不完整 → 被阻止 矛盾 → 被阻止 不可制造 → 被阻止 可修复 → 引导修正  只有当输入有效时，系统才允许执行。 为什么这很重要 大多数 AI CAD 演示如下所示： 错误输入 → 仍然生成 → 看起来不错 → 实际上错误  此流程不同： 错误输入 → 被阻止 → 更正 → 执行 → 可用结果  这是什么（和不是） 这不是 CAD 生成器。 这是一个系统，它决定：  您的输入是否值得转化为 CAD 构建过程。  要点 我们不断询问：  模型能否生成更好的输出？  但更实际的问题是：  它应该生成于全部？  最小演示（可重现） 我将一个小型存储库与以下内容放在一起：  示例输入 结构化合同（JSON） 映射到 FreeCAD Python 可运行脚本  您可以仅使用 ChatGPT 客户端 + FreeCAD 重现完整流程： https://github.com/yuer-dsl/edca-cad 如果您已经在使用 GPT 进行工程任务，请尝试翻转工作流程：  不要让它生成更多。 让它只在应该生成的时候生成。  仅此一点就可以更多地改变结果而不是切换模型。   由   提交/u/yuer2025  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1szoyri/you_can_build_productionready_cad_from_a_single/</guid>
+      <pubDate>Thu, 30 Apr 2026 07:22:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作信息图表的能力是惊人的。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1szok14/the_ability_to_make_infographics_is_amazing/</link>
+      <description><![CDATA[      这么多细节，真是难以置信。    由   提交/u/LinkleDooBop  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1szok14/the_ability_to_make_infographics_is_amazing/</guid>
+      <pubDate>Thu, 30 Apr 2026 06:59:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Image 2.0 制作信息图表的能力达到了另一个水平</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sznp0a/image_20s_ability_to_make_infographics_is_on/</link>
+      <description><![CDATA[      由   提交/u/eposnix  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sznp0a/image_20s_ability_to_make_infographics_is_on/</guid>
+      <pubDate>Thu, 30 Apr 2026 06:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>这没有引起足够的重视……</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1sznewn/this_doesnt_get_enough_attention/</link>
+      <description><![CDATA[      Gemini 的 Nanobanana 具有比 ChatGPT Image 2.0 高得多的原始分辨率…什么？ 我刚刚订阅了 ChatGPT，我对图像的低分辨率感到非常失望。 别误会我的意思，ChatGPT 的创意和美学质量通常比 Gemini 好得多…但我发现获得高分辨率图像的唯一方法是使用 Gemini 升级 ChatGPT 图像。 是否有任何方法可以从 Image 2.0 中获取本机更高分辨率的图像？   由   提交/u/AndreRieu666   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1sznewn/this_doesnt_get_enough_attention/</guid>
+      <pubDate>Thu, 30 Apr 2026 05:55:43 GMT</pubDate>
+    </item>
     <item>
       <title>CGPT 调试隧道视觉</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1szn7pa/cgpt_debug_tunnel_vision/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[由于显而易见的原因，图像被标记为 NSFW，但根据设计，这一代没有任何色情内容。另外：剧透标签可防止在工作时滚动时出现跳跃恐慌。   由   提交 /u/spdustin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1szlrwa/chatgpts_take_on_the_classic_many_grammatical/</guid>
       <pubDate>Thu, 30 Apr 2026 04:28:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像选项卡一夜之间消失</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1szlp7p/images_tab_disappeared_overnight/</link>
-      <description><![CDATA[昨晚生成了大量图像，并多次遇到“您提示太快，我们限制了您的图像生成”类型的消息。今天登录，图像选项卡消失了。它曾经位于“更多”部分，其他所有内容都还在那里。  我尝试刷新并注销并再次登录，但没有任何变化。有人知道为什么/如何取回它吗？   由   提交 /u/Impossible_Donut101   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1szlp7p/images_tab_disappeared_overnight/</guid>
-      <pubDate>Thu, 30 Apr 2026 04:24:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>专业计划上下文窗口/问题大小？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1szljrp/pro_plan_context_window_question_size/</link>
-      <description><![CDATA[我找不到这方面的任何信息。对于 100 美元的计划，一条消息可以有多大？整个convo的上下文窗口大小怎么样？ Claude对每个计划的这些值非常透明，但我找不到任何聊天gpt。    由   提交/u/MazeGuyHex  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1szljrp/pro_plan_context_window_question_size/</guid>
-      <pubDate>Thu, 30 Apr 2026 04:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我改变了编写提示的方式后，我的 chatgpt 输出明显更好</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1szlipi/my_chatgpt_outputs_got_noticeably_better_after_i/</link>
-      <description><![CDATA[我已经每天使用 chatgpt 处理工作大约一年了。营销文案、电子邮件草稿、头脑风暴、研究摘要。在前 6 个月里，我的提示简短而通用，输出也如预期的那样中等。 改变一切的不是提示框架或模板。它只是为 chatgpt 提供了更多原始上下文来使用。 输入提示的问题是我无意识地编辑自己。我会想到 5 个相关细节，只输入 2，因为打字速度很慢，而且我的大脑会过滤掉那些感觉多余的内容。但那些“多余的”细节正是使输出具体而不是通用的原因。 我现在所做的：我使用 Willow Voice 大声听写提示，这是我几个月前开始使用的人工智能语音听写工具。而不是输入“给我写一封关于项目延迟的电子邮件给客户”我最终说了类似“给 Meridian Consulting 的莎拉写一封电子邮件，讨论主页重新设计延迟的问题”。我们落后了大约一周，因为开发人员在结账流程集成中发现了一个错误。莎拉会很生气，因为这是第二次延误。语气应该是直接的、带有歉意的，但不能卑躬屈膝。提到结帐修复实际上提高了转化率，这对她有利。” 这个提示可能需要我 15 秒才能大声说出来。输入所有这些内容需要 2 分钟以上，所以我不会这样做。详细的提示与模糊的提示的输出是白天和黑夜。 我的提示从 1-2 句话变成了完整的段落，质量差异巨大。我想大多数人的chatgpt问题不是模型的问题。问题在于输入速度太慢，无法满足其实际需要。 什么改变了你的 chatgpt 输出？很好奇其他人是否也发现了有关提示详细信息的相同内容。   由   提交/u/AzoxWasTaken  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1szlipi/my_chatgpt_outputs_got_noticeably_better_after_i/</guid>
-      <pubDate>Thu, 30 Apr 2026 04:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 无法识别图像中的乐队...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1szlg48/chatgpt_wont_identify_a_band_from_image/</link>
-      <description><![CDATA[       https://preview.redd.it/tqjskknc69yg1.png?width=714&amp;format=png&amp;auto=webp&amp;s=b8c229ee92264331190e9e46fb98f617a8c15694 正如标题所述...聊天 GPT 不会识别拥有“真实人物”的乐队   由   提交/u/The_Epic_Fail_Guy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1szlg48/chatgpt_wont_identify_a_band_from_image/</guid>
-      <pubDate>Thu, 30 Apr 2026 04:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近 Chat GPT 的限制是否更加严格，还是我只是更注意到了这一点？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1szl9x5/has_chat_gpt_been_a_bit_more_restrictive_lately/</link>
-      <description><![CDATA[我经常使用聊天 gpt 来获得随机想法和解决问题，没什么太严重的。 但是最近，我收到了更多无法帮助您的此类回复。甚至不是为了任何疯狂的事情，只是过去运行良好的正常提示。 起初我以为我可能只是说错了，所以我尝试改写几次。有时它有效，有时它只是再次撞到同一堵砖墙。 我理解为什么会有限制，但当你正在思考某件事时，它确实会打破流程。 只是一个问题，我尝试了其他几个人工智能工具，只是为了看看它们对相同提示的反应如何。实际上，差异是有点明显的。 并不是说一个更好，只是他们现在的行为不同了。 我是唯一一个注意到这一点的人还是其他人注意到这一点？   由   提交 /u/Quirky_Hedgehog_9291   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1szl9x5/has_chat_gpt_been_a_bit_more_restrictive_lately/</guid>
-      <pubDate>Thu, 30 Apr 2026 04:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>曾经促进过两个人工智能之间的聊天吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1szl8pq/ever_facilitate_the_chat_between_two_ais/</link>
-      <description><![CDATA[只是为了好玩，我问 Gemini 他们会对 ChatGPT 说些什么，然后将回复交给 ChatGPT，依此类推。其中的一大亮点是他们对最终用户问题的玩笑。    由   提交/u/EDP15  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1szl8pq/ever_facilitate_the_chat_between_two_ais/</guid>
-      <pubDate>Thu, 30 Apr 2026 04:01:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
