@@ -4,20 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 30 Apr 2026 13:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 16:12:59 GMT</lastBuildDate>
     <item>
-      <title>有趣的是，当 PR 审查代理了解所编写的代码的所有信息、每一行及其编写的意图时，它的表现就很有趣。</title>
-      <link>https://www.reddit.com/r/programming/comments/1szvayc/interesting_to_see_the_performance_of_pr_review/</link>
-      <description><![CDATA[我已经在代码安全方面工作了几个星期，并思考跟踪代码库的每一行是否对代理有帮助，捕获驱动它的提示及其背后的意图！ 在所附的 PR 上进行了测试，很高兴看到报告以及 greptile 代理如何工作。   由   提交/u/No-Childhood-2502   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1szvayc/interesting_to_see_the_performance_of_pr_review/</guid>
-      <pubDate>Thu, 30 Apr 2026 12:55:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>他疯了吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1szu4sj/is_he_insane/</link>
-      <description><![CDATA[看看这个：https://github.com/x0rkr   由   提交/u/Sharp_Leadership8776  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1szu4sj/is_he_insane/</guid>
-      <pubDate>Thu, 30 Apr 2026 12:04:38 GMT</pubDate>
+      <title>不，真的，Bash 还不够：为什么大规模 CI 需要协调器</title>
+      <link>https://www.reddit.com/r/programming/comments/1szxsk7/no_really_bash_is_not_enough_why_largescale_ci/</link>
+      <description><![CDATA[ 由   提交 /u/someone-very-cool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1szxsk7/no_really_bash_is_not_enough_why_largescale_ci/</guid>
+      <pubDate>Thu, 30 Apr 2026 14:32:35 GMT</pubDate>
     </item>
     <item>
       <title>为什么我仍然选择Scheme 和Lisp 而不是Haskell</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/pmz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1syzsbq/learn_concurrency_a_deep_dive_into_multithreading/</guid>
       <pubDate>Wed, 29 Apr 2026 14:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>在最近的 npm/PyPI 供应链攻击后设置自动依赖性扫描</title>
+      <link>https://www.reddit.com/r/programming/comments/1syz1bl/set_up_automated_dependency_scanning_after_the/</link>
+      <description><![CDATA[ 由   提交/u/root0ps  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1syz1bl/set_up_automated_dependency_scanning_after_the/</guid>
+      <pubDate>Wed, 29 Apr 2026 13:36:21 GMT</pubDate>
     </item>
     </channel>
 </rss>

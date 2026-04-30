@@ -4,20 +4,20 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 30 Apr 2026 13:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Apr 2026 16:11:28 GMT</lastBuildDate>
+    <item>
+      <title>从“人工智能将扼杀销售”的恐惧到构建自动化销售助理</title>
+      <link>https://www.reddit.com/r/automation/comments/1szxhre/from_ai_will_kill_sales_fear_to_building_an/</link>
+      <description><![CDATA[我需要诚实...我从事销售工作已有 20 多年，当我的团队第一次开始谈论“人工智能代理”时，我确信这是结束的开始。我的整个职业生涯都建立在人际关系的基础上，我认为这些工具只会产生机械化的、没有灵魂的垃圾邮件，从而毁掉我们的声誉。 我最好的销售代表花了半天的时间来研究前景和撰写初稿......而不是真正的销售。我们付钱给他们，让他们成为富有创造力的终结者，而他们却把时间花在大量的行政工作上…… 因此，我们决定进行一项对照实验。这个想法是建立一个自动化助手（不是替代品，我应该清楚这一点）。我们最终将工作流程的三个工具结合在一起：用于数据丰富的 Clay、用于写作的 OpenAI 以及用于协调外展并确保人工验证的增长机器。  首先，Clay 抓取潜在客户的公司网站以提取特定的相关详细信息……例如从职业页面或最近的融资公告中获取公司价值观。 然后，该特定数据通过 API 馈送到 GPT4 提示符。我们必须仔细地为人工智能编写指令，告诉它充当 SDR，并仅根据我们提供的数据生成个性化破冰船。 然后将人工智能生成的句子作为自定义变量推送到 la Growth 机器中。  人工智能生成的草稿进入 la 增长机器内的验证步骤。在通过 LinkedIn 或电子邮件发送每条消息之前，其中一位代表会亲自审阅和编辑每条消息。机器建议，人类决定。 我的团队现在大约 80% 的时间都花在通话和结束上！人工智能处理最初无聊的研究和起草工作，我的代表提供战略接触。我们的外展服务质量比以往任何时候都高，因为我们将数据驱动的大规模个性化与真正的人类监督相结合。 它告诉我，我们的目标不是取代您的专家……而是构建让他们专注于自己最擅长的事情的系统。所以如果你一开始的心态和我一样，别担心，继续学习，我们可以创造出更神奇、更高效的东西   由   提交 /u/Much-Donut-483   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1szxhre/from_ai_will_kill_sales_fear_to_building_an/</guid>
+      <pubDate>Thu, 30 Apr 2026 14:21:18 GMT</pubDate>
+    </item>
     <item>
       <title>中等规模的法学硕士代理堆栈的基础设施成本细分</title>
       <link>https://www.reddit.com/r/automation/comments/1szv2h8/boring_infra_cost_breakdown_for_an_llm_agent/</link>
       <description><![CDATA[发帖是因为我看到的每项成本明细要么是企业规模的，要么是业余爱好者 20 美元的 OpenRouter 账单。这是中间的。 Stack：小型代理产品，每月约 200K 任务，每个任务平均有 8-12 个 LLM 调用。混合十四行诗用于艰苦的工作，俳句用于分类，轻松回退到 GPT。 每月：  LLM API：约 5K 美元，每月给予或收取 500 美元。大部分是十四行诗，大部分是俳句。 网关：一个运行 Bifrost 的小型实例。 Bifrost 和 LiteLLM 都是免费且开源的，因此成本纯粹是基础设施。当我们使用 LiteLLM 时，我们需要 4 个节点来处理相同的负载，切换后减少到 1 个。无论您的云提供商对该增量收费如何。 可观测性：约 200 美元/月，自托管 Grafana + Postgres 用于跟踪。 Vector DB：约 80 美元/月，小型实例上的 Qdrant。  有帮助的事情：  精确匹配缓存（甚至不是语义）减少了 LLM 支出约 25% 杀死一个冗长的工具输出又消耗了约 8%。模型在每个循环中为相同的长工具结果支付全部输入成本。 针对 1M 上下文迁移到 Sonnet 4.6。相同的窗口，无附加费，因为 4.6 以标准价格提供 1M GA。直到今天，旧的测试版仍然有 2 倍的溢价。  老实说：在我们的规模下，LLM API 账单是唯一重要的。其他一切都是舍入误差。在优化提示和缓存之前优化代理或数据库是一种拖延。 其他人的实际故障是什么样的？特别对每月 100K-500K 任务范围内的团队感到好奇。这个频段上下的公众号到处都是，这个频段安静。   由   提交 /u/Otherwise_Flan7339   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1szv2h8/boring_infra_cost_breakdown_for_an_llm_agent/</guid>
       <pubDate>Thu, 30 Apr 2026 12:45:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了人工智能发票收集工作流程，现在我实际上按时收到了报酬</title>
-      <link>https://www.reddit.com/r/automation/comments/1szuxzh/built_an_ai_invoice_collection_workflow_and_now_i/</link>
-      <description><![CDATA[      迟交的发票让我损失了数千美元。我会发送一封后续电子邮件，然后......忘记它：/。或者更糟糕的是，客户会变得反应迟钝，直到几个月后，当我沉浸在书本中时，我才意识到他们从未付款。 我尝试了使用电子表格、日历上的提醒、后续电子邮件模板的手动方法。它起到了一点作用，但说实话，追讨付款是很乏味的。我会拖延，发票会放在那里变得越来越旧，然后当我最终发送后续邮件时，它听起来很沮丧或被动攻击，而不是专业。 所以我建立了一个自动处理整个事情的工作流程。它跟踪来自 Google Sheets（或者 Airtable、HubSpot、Notion，如果您愿意的话）的发票，计算哪些发票已逾期，搜索电子邮件线程以查看我最近是否已经跟进，然后使用 AI 代理根据发票迟到的天数编写个性化的逐步跟进。整个事情按计划运行（对我来说是工作日早上），或者我可以手动触发它。 它还会提取电子邮件历史记录，这样如果客户上周刚刚出去，它就不会向客户发送垃圾邮件。还有一个仪表板显示所有内容、逾期总额、哪些发票紧急、后续计数、最后联系日期，所有这些都无需花费脑力。 如果您已有表格文件，安装过程可能需要 5 分钟。之后它就运行了。我在第一个月就收回了大约 8000 美元的逾期发票。还有其他人处理这个吗？您如何处理延迟付款而又不想对客户大喊大叫？ 😅   由   提交/u/ScratchAshamed593   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1szuxzh/built_an_ai_invoice_collection_workflow_and_now_i/</guid>
-      <pubDate>Thu, 30 Apr 2026 12:40:33 GMT</pubDate>
     </item>
     <item>
       <title>在什么时候，自动化变得比手动执行任务更难维护？</title>

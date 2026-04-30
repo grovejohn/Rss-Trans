@@ -4,21 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 30 Apr 2026 13:17:55 GMT</lastBuildDate>
-    <item>
-      <title>摩托罗拉 Razr Fold</title>
-      <link>https://www.producthunt.com/products/motorola-g7</link>
-      <description><![CDATA[
-            专为笔优先生产力而打造的可折叠手机
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/motorola-g7</guid>
-      <pubDate>Thu, 30 Apr 2026 05:06:28 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 30 Apr 2026 16:13:52 GMT</lastBuildDate>
     <item>
       <title>超级心灵</title>
       <link>https://www.producthunt.com/products/supermind-2</link>
@@ -32,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/supermind-2</guid>
       <pubDate>Thu, 30 Apr 2026 05:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>码头</title>
+      <link>https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus</link>
+      <description><![CDATA[
+            从您的 Dock 中轻松固定、分组和删除应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/docky-the-dock-rebuit-for-focus</guid>
+      <pubDate>Thu, 30 Apr 2026 03:47:00 GMT</pubDate>
     </item>
     <item>
       <title>AstroGrid - 宇宙引擎</title>
@@ -48,6 +48,20 @@
       <pubDate>Thu, 30 Apr 2026 03:22:20 GMT</pubDate>
     </item>
     <item>
+      <title>Basedash 仪表板代理</title>
+      <link>https://www.producthunt.com/products/basedash</link>
+      <description><![CDATA[
+            从单个提示构建整个仪表板
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/basedash</guid>
+      <pubDate>Thu, 30 Apr 2026 03:05:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Gemini 中的文件生成</title>
       <link>https://www.producthunt.com/products/gemini-6</link>
       <description><![CDATA[
@@ -62,18 +76,18 @@
       <pubDate>Thu, 30 Apr 2026 02:47:27 GMT</pubDate>
     </item>
     <item>
-      <title>米斯特拉尔中型 3.5</title>
-      <link>https://www.producthunt.com/products/mistral-medium-3-5</link>
+      <title>十一音乐</title>
+      <link>https://www.producthunt.com/products/elevenmusic</link>
       <description><![CDATA[
-            用于编码、推理和长任务的 128B 模型
+            人工智能辅助音乐创作，内置发现、版税
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/mistral-medium-3-5</guid>
-      <pubDate>Wed, 29 Apr 2026 16:27:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/elevenmusic</guid>
+      <pubDate>Wed, 29 Apr 2026 14:42:03 GMT</pubDate>
     </item>
     <item>
       <title>仅限受邀者</title>
@@ -88,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/invite-only</guid>
       <pubDate>Wed, 29 Apr 2026 10:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>同步输入</title>
-      <link>https://www.producthunt.com/products/sync-in</link>
-      <description><![CDATA[
-            开源文件存储、共享、协作和同步
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sync-in</guid>
-      <pubDate>Wed, 29 Apr 2026 08:01:37 GMT</pubDate>
     </item>
     <item>
       <title>想知道</title>
@@ -130,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/mintlify</guid>
       <pubDate>Tue, 28 Apr 2026 23:01:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>锡纸</title>
+      <link>https://www.producthunt.com/products/tinfoil-private-ai-chat</link>
+      <description><![CDATA[
+            AI 聊天和 API 让您的对话完全私密
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/tinfoil-private-ai-chat</guid>
+      <pubDate>Tue, 28 Apr 2026 19:37:49 GMT</pubDate>
     </item>
     <item>
       <title>损失叠加</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/quarkdown</guid>
       <pubDate>Thu, 23 Apr 2026 07:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>双子座深度研究特工</title>
-      <link>https://www.producthunt.com/products/gemini-deep-research</link>
-      <description><![CDATA[
-            Web 和 MCP 研究代理，现已在 Gemini API 中
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/gemini-deep-research</guid>
-      <pubDate>Tue, 21 Apr 2026 16:35:18 GMT</pubDate>
     </item>
     <item>
       <title>Jupitrr AI 的 VideoOS</title>
