@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 01 May 2026 10:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 12:51:27 GMT</lastBuildDate>
     <item>
       <title>窥视焦点</title>
       <link>https://www.producthunt.com/products/peekfocus</link>
@@ -62,6 +62,20 @@
       <pubDate>Thu, 30 Apr 2026 16:34:46 GMT</pubDate>
     </item>
     <item>
+      <title>幽灵：智能存在</title>
+      <link>https://www.producthunt.com/products/ghosted-smart-presence</link>
+      <description><![CDATA[
+            当您离开时暂停媒体或锁定屏幕
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ghosted-smart-presence</guid>
+      <pubDate>Thu, 30 Apr 2026 15:54:01 GMT</pubDate>
+    </item>
+    <item>
       <title>剪辑</title>
       <link>https://www.producthunt.com/products/montage-3</link>
       <description><![CDATA[
@@ -90,32 +104,18 @@
       <pubDate>Thu, 30 Apr 2026 09:59:09 GMT</pubDate>
     </item>
     <item>
-      <title>Hive术语</title>
-      <link>https://www.producthunt.com/products/hiveterm</link>
+      <title>马克思财经</title>
+      <link>https://www.producthunt.com/products/marx-finance</link>
       <description><![CDATA[
-            为 Claude、Codex、Gemini 和您的堆栈提供一个工作空间
+            人工智能代理人争论市场
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hiveterm</guid>
-      <pubDate>Thu, 30 Apr 2026 09:41:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>任意滴</title>
-      <link>https://www.producthunt.com/products/anydrop-3</link>
-      <description><![CDATA[
-            适用于浏览器的 AirDrop：共享文件、聊天和同步笔记
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/anydrop-3</guid>
-      <pubDate>Wed, 29 Apr 2026 09:48:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/marx-finance</guid>
+      <pubDate>Thu, 30 Apr 2026 09:41:02 GMT</pubDate>
     </item>
     <item>
       <title>屏幕面纱</title>
@@ -138,9 +138,9 @@
             设计工作室比 Figma 更轻，比 Canva 更灵活
           
 
-讨论
+Discussion
             |
-            链接
+            Link
 ]]></description>
       <guid>https://www.producthunt.com/products/bitgrain</guid>
       <pubDate>Tue, 28 Apr 2026 04:44:07 GMT</pubDate>
@@ -158,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/buda-2</guid>
       <pubDate>Mon, 27 Apr 2026 23:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>成就</title>
+      <link>https://www.producthunt.com/products/postiz</link>
+      <description><![CDATA[
+            适用于 OpenClaw 等代理的代理社交媒体调度程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/postiz</guid>
+      <pubDate>Sun, 26 Apr 2026 12:37:39 GMT</pubDate>
     </item>
     <item>
       <title>Zush：AI 文件重命名器</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/musixquare</guid>
       <pubDate>Sat, 18 Apr 2026 22:18:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Genspark Word 版</title>
-      <link>https://www.producthunt.com/products/genspark</link>
-      <description><![CDATA[
-            利用 AI 在 Microsoft Word 中起草、编辑和研究
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/genspark</guid>
-      <pubDate>Wed, 08 Apr 2026 15:53:54 GMT</pubDate>
     </item>
     <item>
       <title>交通爪</title>
