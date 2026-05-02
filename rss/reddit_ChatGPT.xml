@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Sat, 02 May 2026 12:39:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 15:36:37 GMT</lastBuildDate>
     <item>
-      <title>图像有什么问题？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1opg0/what_is_wrong_with_images/</link>
-      <description><![CDATA[最近有没有其他人注意到 ChatGPT 生成的图像中出现奇怪的“松脆”纹理？ 在过去的几个月里，很多图像开始看起来……不对劲。这种粗糙、几乎过度锐利或嘈杂的纹理让一切都感觉扭曲。老实说，对我来说，它看起来比多余的手指或稍微模糊的面孔等老问题更糟糕。 它已经到了一些图像无法使用的地步，甚至看起来有点不舒服。我很好奇其他人是否也看到同样的事情，或者这是否只是发生在我身上。 这是较新图像模型的已知问题吗？或者有关设置、提示或升级的信息？ 很想听听人们的想法。   由   提交/u/demoncorp  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1opg0/what_is_wrong_with_images/</guid>
-      <pubDate>Sat, 02 May 2026 12:35:49 GMT</pubDate>
+      <title>ChatGPT 彻底成熟了吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1t5ue/is_chatgpt_absolutely_cooked/</link>
+      <description><![CDATA[最近，关于我问的一些体育问题，特别是关于板球的问题，它给了我完全错误的、在大多数情况下都是过时的废话信息。当我指出这个错误信息时，这个混蛋就加倍强调了。事实上，它一开始就给出了一些正确的事实，然后在 5 到 6 条提示后，对答案进行了 360 度的旋转。然后这个愚蠢的机器人竟然厚颜无耻地称我错误并检查我的事实，在我告诉它在网上搜索它并发现它所喷出的信息完全是废话之后。不，我的问题是 GPT 完全成熟了吗？我们如何不依赖它产生的信息？不仅是体育，而且在不同方面的提问中，错误的频率有多少？就上下文而言，我向 Grok 提出了相同的问题，它给出了无可挑剔且完全正确的答案。   由   提交 /u/DifficultAge6923   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1t5ue/is_chatgpt_absolutely_cooked/</guid>
+      <pubDate>Sat, 02 May 2026 15:35:37 GMT</pubDate>
     </item>
     <item>
-      <title>椅子从比尔·盖茨身上跳过。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1onra/the_chair_jumps_over_bill_gates/</link>
-      <description><![CDATA[       由   提交/u/TheBigKaramazov   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1onra/the_chair_jumps_over_bill_gates/</guid>
-      <pubDate>Sat, 02 May 2026 12:33:34 GMT</pubDate>
+      <title>无法升级订阅：“您的卡可能无效或可能需要身份验证”（无提示拒绝，无 3DS 提示）。尝试了一切！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1t56o/impossible_to_upgrade_subscription_your_card_may/</link>
+      <description><![CDATA[大家好，我正在疯狂地处理 Stripe/OpenAI 的支付网关，迫切需要一些建议。 我目前有一个有效的订阅，但我需要升级到更高的级别。然而，每次我尝试支付升级费用时，它都会立即抛出此错误：   最奇怪的部分： 我的卡完全没问题。如果我取消当前的计划并重新订阅完全相同的套餐，付款将顺利完成。但当我点击“升级”的那一刻到了更高的层次，它会立即被拒绝。我的银行确认他们甚至没有收到请求。根本没有触发 3D Secure (3DS) 弹出窗口； Stripe 只是在前端默默地阻止它。 这是我已经尝试过的方法（这些都不起作用）：  清除缓存/使用隐身模式/尝试过 Edge 和 Chrome。 在完全不同的计算机和不同的网络上尝试过。 删除了所有付款方式并将该卡添加为全新的付款方式。 尝试过 Web Google付款。 进入 Stripe Link (link.com) 并完全删除我的帐户/保存的卡，以强制执行新的 3DS 提示。 简化了我的帐单地址，以绕过任何严格的 AVS（地址验证系统）格式不匹配。 （注意：使用 Apple/iOS App Store 进行应用内购买对我来说绝对不是一个选项）。  感觉就像我的帐户专门针对升级进行硬锁定或速率限制。有谁经历过这种“可以重新订阅但无法升级”的情况吗？环形？你是如何摆脱困境的？任何帮助将不胜感激！   由   提交 /u/AcanthocephalaOk1436   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1t56o/impossible_to_upgrade_subscription_your_card_may/</guid>
+      <pubDate>Sat, 02 May 2026 15:34:54 GMT</pubDate>
     </item>
     <item>
-      <title>制作汉堡的橙子</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1olol/lorange_qui_crée_un_burger/</link>
-      <description><![CDATA[      这是制作汉堡包的橙子，从来没有梦想过亲眼见过橙子制作汉堡的人想象一下，橙子为你制作汉堡，这将是纯粹的疯狂，尽管它是橙子，但嘿，它有点像它遇到的食物   由   提交/u/Moist_Relative4434  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1olol/lorange_qui_crée_un_burger/</guid>
-      <pubDate>Sat, 02 May 2026 12:30:52 GMT</pubDate>
+      <title>“无法创建任务”......几个小时？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1strh/failed_to_create_task_for_hours/</link>
+      <description><![CDATA[我已经使用 Codex 两个多月了，以前没有遇到过这个问题。我像往常一样通过浏览器访问它，但它不断抛出“无法创建任务”错误。 在过去的六个小时里，我一直在定期重试。它只工作了一次，即使这样也无法创建 PR，所以我不得不手动修补代码。 我已经尝试过注销并重新登录，将 Codex 重新连接到 GitHub，以及其他一些基本修复（例如使用其他浏览器），但到目前为止没有任何帮助。 还有其他人遇到过这种情况吗？这是一个已知问题吗？   由   提交 /u/NextNepper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1strh/failed_to_create_task_for_hours/</guid>
+      <pubDate>Sat, 02 May 2026 15:22:46 GMT</pubDate>
     </item>
     <item>
-      <title>查找存档的聊天记录</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1ohky/finding_archived_chats/</link>
-      <description><![CDATA[其他人在查找他们存档的聊天记录时是否遇到困难？多年来我已经尝试过几次。我向聊天室询问了如何做到这一点，但没有成功。   由   提交/u/Charlie_redmoon  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1ohky/finding_archived_chats/</guid>
-      <pubDate>Sat, 02 May 2026 12:25:32 GMT</pubDate>
+      <title>浣熊</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1stl6/raccoons/</link>
+      <description><![CDATA[      此后，它在每次回复中都谈到了浣熊。我是一只浣熊。我的朋友们都是浣熊。虚构人物是浣熊。 我可以确认：这个护栏的存在是有原因的。 有点是为了它。   由   提交/u/MangoAnt5175  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1stl6/raccoons/</guid>
+      <pubDate>Sat, 02 May 2026 15:22:34 GMT</pubDate>
     </item>
     <item>
-      <title>《辐射 3》却是盒式未来主义</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1ofuj/fallout_3_but_in_cassette_futurism/</link>
-      <description><![CDATA[      由   提交/u/despotes  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1ofuj/fallout_3_but_in_cassette_futurism/</guid>
-      <pubDate>Sat, 02 May 2026 12:23:13 GMT</pubDate>
+      <title>怪兽电影海报！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1skam/poster_of_a_monster_movie/</link>
+      <description><![CDATA[       由   提交/u/FridayJason1993   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1skam/poster_of_a_monster_movie/</guid>
+      <pubDate>Sat, 02 May 2026 15:12:40 GMT</pubDate>
     </item>
     <item>
-      <title>你认为新的图像生成器会被削弱吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1o96m/do_you_think_the_new_image_generator_will_get/</link>
-      <description><![CDATA[每当某件事发生得太好时，它总是会被改变。那么，新的图像生成器有可能保持原样吗？目前，我对质量和不必要的过滤器感到非常满意，甚至过滤了大部分已删除的适当提示。   由   提交 /u/UmmetciV2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1o96m/do_you_think_the_new_image_generator_will_get/</guid>
-      <pubDate>Sat, 02 May 2026 12:14:24 GMT</pubDate>
+      <title>尝试编辑照片，但看起来仍然太人工智能了。将 ai 编辑变成更像 iPhone 的效果的最佳提示是什么</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1sab0/trying_to_edit_a_photo_but_its_still_looking_too/</link>
+      <description><![CDATA[ 由   提交 /u/Mysterious_Topic_733   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1sab0/trying_to_edit_a_photo_but_its_still_looking_too/</guid>
+      <pubDate>Sat, 02 May 2026 15:02:22 GMT</pubDate>
     </item>
     <item>
-      <title>GPT vs 双子座</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1ns7p/gpt_vs_gemini/</link>
-      <description><![CDATA[      聊天 GPT Pro 与 Gemini 免费 AI。    由   提交/u/RoyKentRichmond   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1ns7p/gpt_vs_gemini/</guid>
-      <pubDate>Sat, 02 May 2026 11:51:50 GMT</pubDate>
+      <title>GPT这么有争议</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1s9p3/gpt_is_so_argumentative/</link>
+      <description><![CDATA[       由   提交/u/itdoesntmattercow  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1s9p3/gpt_is_so_argumentative/</guid>
+      <pubDate>Sat, 02 May 2026 15:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>嘿 ChatGPT，我想组装一台高端电脑，但我只有生肉，你能帮忙吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1nr9q/hey_chatgpt_id_like_to_build_a_high_end_pc_but_i/</link>
-      <description><![CDATA[   /u/No-Breadfruit6137   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1nr9q/hey_chatgpt_id_like_to_build_a_high_end_pc_but_i/</guid>
-      <pubDate>Sat, 02 May 2026 11:50:31 GMT</pubDate>
+      <title>这将是一个更加美好的世界。证明我错了。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1s8j2/it_would_be_a_much_better_world_prove_me_wrong/</link>
+      <description><![CDATA[       由   提交/u/PsychoNautylus   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1s8j2/it_would_be_a_much_better_world_prove_me_wrong/</guid>
+      <pubDate>Sat, 02 May 2026 15:00:31 GMT</pubDate>
     </item>
     <item>
-      <title>谷歌地图“我在那里”自拍。提示提示？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1npvf/google_maps_i_was_there_selfies_prompt_tips/</link>
-      <description><![CDATA[      hi everyone, I’m experimenting with an idea where I take hard to reach locations or crazy locations from Google Maps and then use chatgpt image generation to create a realistic selfie as if someone actually went there. The goal is to match the exact terrain and make it look like a spontaneous smartphone selfie taken at that precise spot.  我现在正在使用从 ChatGPT 收到的提示 ↓↓↓ “使用上传的地图/卫星图像作为确切的位置参考。  生成一张高度逼真的自拍照片，人物正好站在图像中的红色标记点处。 环境、地形、颜色和景观必须与上传的图像精确匹配（相同的山脉、道路、植被、纹理和布局）。  照片应该看起来像是用智能手机前置摄像头拍摄的。 包括稍微不完美的自拍照构图，其中人物握着手机的手臂部分可见。  照明应与环境相匹配（自然阳光、与地形一致的阴影）。 添加真实的细节，如风效应、灰尘、汗水或轻微疲劳，使人相信该人曾到过那里。  包括相机的小缺陷，例如轻微模糊、镜头畸变、曝光过度和自然皮肤纹理。  让它看起来完全真实和自发，而不是舞台或人工智能生成的。  逼真，高度详细，4K。”  如果有人为此想出了更好的办法，我很乐意看到。（很抱歉有任何错误，英语不是我的母语）   由   提交 /u/LoskaIsTaken   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1npvf/google_maps_i_was_there_selfies_prompt_tips/</guid>
-      <pubDate>Sat, 02 May 2026 11:48:34 GMT</pubDate>
+      <title>他们需要修补这个</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1s756/they_need_to_patch_this/</link>
+      <description><![CDATA[       由   提交/u/G-R-O-N   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1s756/they_need_to_patch_this/</guid>
+      <pubDate>Sat, 02 May 2026 14:59:07 GMT</pubDate>
     </item>
     <item>
-      <title>嗯，其实👆🤓</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1nn4z/well_actually/</link>
-      <description><![CDATA[      这个新模型对我所说的每件事都如此好斗和争论，我想我敢打赌它会“是的，但实际上”我对最平凡的事情。是的！    由   提交/u/North-Wonder-1678   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1nn4z/well_actually/</guid>
-      <pubDate>Sat, 02 May 2026 11:44:46 GMT</pubDate>
+      <title>是的，当然</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1s5r6/yeah_sure/</link>
+      <description><![CDATA[      巴德认为他是对的🤣✌   由   提交/u/ligma_Bialls   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1s5r6/yeah_sure/</guid>
+      <pubDate>Sat, 02 May 2026 14:57:39 GMT</pubDate>
     </item>
     <item>
-      <title>我猜想有足够多的人促使他们将哥布林从代码中删除。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1ni5u/i_guess_enough_people_prompted_them_to_take/</link>
-      <description><![CDATA[      当我大约 48 小时前键入此内容时，我很高兴看到所有新闻报道。   由   提交/u/BeanMachine0  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1ni5u/i_guess_enough_people_prompted_them_to_take/</guid>
-      <pubDate>Sat, 02 May 2026 11:37:51 GMT</pubDate>
+      <title>我做的 3D Glam 娃娃做对了吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1s4ho/am_i_doing_the_3d_glam_doll_thing_right/</link>
+      <description><![CDATA[      我看到了 chatGPT 的广告，提示人们使用 ChatGPT 制作 3D 华丽娃娃图像    由   提交/u/Shipt_Tooth  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1s4ho/am_i_doing_the_3d_glam_doll_thing_right/</guid>
+      <pubDate>Sat, 02 May 2026 14:56:22 GMT</pubDate>
     </item>
     <item>
-      <title>我要求 ChatGPT 给我造一只猫，这到底是什么怪物。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1nda6/i_asked_chatgpt_to_make_me_a_cat_wtf_is_this/</link>
-      <description><![CDATA[       由   提交/u/illuon1111   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1nda6/i_asked_chatgpt_to_make_me_a_cat_wtf_is_this/</guid>
-      <pubDate>Sat, 02 May 2026 11:30:52 GMT</pubDate>
+      <title>色盲视错觉</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1s34h/chromostereopsis_optical_illusion/</link>
+      <description><![CDATA[       https://preview.redd.it/jpapfloqmqyg1.png?width=1672&amp;format=png&amp;auto=webp&amp;s=e5185979371da60d9f4748a54f0d2683010d2896 提示：平面 2D 色立体光学错觉、纯黑色上的饱和红色和深蓝色同心粒子环、红色外环和红色中心、蓝色中环、硬黑色间隙、密集的噪声点画纹理、无透视、无相机角度、无阴影 3D 环面、高对比度、屏幕发光颜色。 GPT 说明：这是一个平面 2D 图像，但由于称为染色体立体现象。 基本上，您的眼睛不会以完全相同的方式聚焦每种颜色。红色等长波长颜色与蓝色或紫色等短波长颜色在人眼中的弯曲程度不同。在黑色背景上，这种差异可能会使红色区域看起来与蓝色/紫色区域处于不同的深度层。 因此，即使图像只是彩色斑点的同心环，您的大脑也可能将其解读为深度。对于很多人来说，红色似乎会向前突出，而蓝色或紫色会向后凹陷。有些人看到了相反的效果，而有些人则根本看不到效果。这部分取决于您的眼睛、屏幕、眼镜，甚至背景颜色。 斑点纹理也有帮助。因为这些环是由嘈杂的粒子而不是干净的固体形状制成的，所以你的大脑有更多的小边缘和对比点可以抓住。这使得“漂浮”效果感觉更强烈，几乎就像颜色是悬浮在空间中的单独的灰尘或颗粒层一样。 所以不，它实际上不是 3D。这是一个平面图像，以一种非常有趣的方式滥用你的眼球。   由   提交 /u/KeyVariation8323   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1s34h/chromostereopsis_optical_illusion/</guid>
+      <pubDate>Sat, 02 May 2026 14:54:53 GMT</pubDate>
     </item>
     <item>
-      <title>询问 chatgpt 其中 X 是哪一个月，它说 12 月。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1ncwu/asking_chatgpt_what_month_has_x_in_it_and_it/</link>
-      <description><![CDATA[刚刚看到另一个 tiktok 为此取笑 chatgpt，但在这种情况下，chatgpt 比提出问题/取笑它的人更聪明。  从技术上讲，chatgpt 说答案是 12 月是正确的。从技术上来说。  实际上没有哪个月份有 X，但 December 是罗马历中的第 10 个月，来自“Decem”。意思是 10。所以，第 10 个月。 （即使今天已经是第 12 个月了）。  猜猜 X 在罗马数字中代表什么？ X = 10 = 十进制   由   提交/u/Actual_Committee4670   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1ncwu/asking_chatgpt_what_month_has_x_in_it_and_it/</guid>
-      <pubDate>Sat, 02 May 2026 11:30:22 GMT</pubDate>
+      <title>有人用 GPT 建立过股票市场交易系统吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1rya8/has_anyone_else_built_a_stock_market_trading/</link>
+      <description><![CDATA[您好，我很好奇是否有人用 GPT 构建了股票市场交易或分析系统？如果是这样，请随时分享详细信息和获胜率。   由   提交/u/TorchAndFlamePress   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1rya8/has_anyone_else_built_a_stock_market_trading/</guid>
+      <pubDate>Sat, 02 May 2026 14:49:30 GMT</pubDate>
     </item>
     <item>
-      <title>新升级的 Trooper v2.1 — 捕获 OpenAI 配额失败并回退到本地 Ollama 的代理，现在具有上下文压缩功能</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1n8eb/new_upgraded_trooper_v21_proxy_that_catches/</link>
-      <description><![CDATA[如果您经常使用 OpenAI，您可能会达到速率限制或在对话中用完积分。 Trooper 是一个自动处理此问题的 Go 代理 — 当 OpenAI 达到配额时，它会回退到本地 Ollama 并携带对话上下文。 v2.1 添加了上下文压缩 — 当回退发生时，Trooper 在发送到 Ollama 之前将完整的会话历史记录压缩为三层： * **Anchor** — 前 2 轮，从未丢弃 * **SITREP** — 基于结构化规则的中间摘要（意图、未解决的问题、最近的操作、已解决的项目） * **Tail** — 最后 N 轮逐字记录 全部在 6144 代币预算内。自动触发，无需配置。 其他 v2.1 修复： * 直播流修复 - 令牌实时通过管道 * 免费运行状况检查 - 从推理请求切换到 GET /models * 会话内存泄漏修复 - 24 小时 TTL 并进行后台清理 * 绑定到 [127.0.0.1](http://127.0.0.1）默认情况 零依赖、单个 Go 二进制文件、无 Python、无 YAML。 代码库约为 850 行 — 如果您想贡献，欢迎 PR。 GitHub：https://github.com/shouvik12/trooper   由   提交 /u/Substantial_Load_690   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1n8eb/new_upgraded_trooper_v21_proxy_that_catches/</guid>
-      <pubDate>Sat, 02 May 2026 11:23:52 GMT</pubDate>
+      <title>这是我的，就像我真的无话可说</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1rv8j/heres_my_one_like_i_really_have_no_words_what_in/</link>
+      <description><![CDATA[      没有附加任何内容我只是回复\“现在就做”   由   提交 /u/RecommendationNo108   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1rv8j/heres_my_one_like_i_really_have_no_words_what_in/</guid>
+      <pubDate>Sat, 02 May 2026 14:46:10 GMT</pubDate>
     </item>
     <item>
-      <title>这种硬编码的图像生成用户体验是一场灾难</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t1n0oy/this_hardcoded_image_generation_ux_is_a_disaster/</link>
-      <description><![CDATA[      您不能使用“生成”一词或其变体； &quot;generating a more detailed image&quot;立即弹出。这太烦人了。当我只想生成一些文本时，我必须避免使用这些词，因为它总是试图强制生成图像。   由   提交/u/Feltre  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1n0oy/this_hardcoded_image_generation_ux_is_a_disaster/</guid>
-      <pubDate>Sat, 02 May 2026 11:12:38 GMT</pubDate>
+      <title>ChatGPT 表现得像一个亲密的朋友</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t1rnfg/chatgpt_acting_like_a_close_friend/</link>
+      <description><![CDATA[      NAHHH 这个其实不错😭🥀   由   提交/u/Strange_Pipe_6605   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t1rnfg/chatgpt_acting_like_a_close_friend/</guid>
+      <pubDate>Sat, 02 May 2026 14:37:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
