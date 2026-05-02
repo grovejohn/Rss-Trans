@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Sat, 02 May 2026 01:26:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 05:30:46 GMT</lastBuildDate>
     <item>
       <title>作为一名独立开发者，我在 30 天内推出了生产力 SaaS——以下是 AI 实际改变的内容（以及它没有改变的内容）</title>
       <link>https://feed.indiehackers.world/post/15c8876106</link>
@@ -63,7 +63,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 相反，我建立了 justdecideforme.com。
 这是一个决定你吃什么的工具。你输入两种食物，移动一些滑块（味道、健康、速度、饥饿度），运行 3 秒倒计时，然后算法就会说话。还有一种战斗模式，您可以挑战朋友对披萨和寿司进行投票——由 Supabase 提供支持，具有基于 IP 的重复数据删除功能，因此人们不能投票两次。是的，其中一个滑块可以测量与您的食物的“占星相容性”。它绝对没有任何作用。无论如何人们都会移动它。
 堆栈，因为 IH 人们问：
-普通 HTML/CSS/JS – 无框架。 Supabase 用于实时投票。用于托管的 Cloudflare 页面。 Total running cost: $0.我还添加了 20 个用于食品辩论的程序化 SEO 页面（披萨与汉堡、拉面与河粉等），首次访问时会在 Supabase 中自动创建战斗记录。
+普通 HTML/CSS/JS – 无框架。 Supabase 用于实时投票。用于托管的 Cloudflare 页面。总运行成本：0 美元。我还添加了 20 个用于食品辩论的程序化 SEO 页面（披萨与汉堡、拉面与河粉等），首次访问时会在 Supabase 中自动创建战斗记录。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/deec2ef1f5</guid>
       <pubDate>Fri, 27 Mar 2026 06:53:04 GMT</pubDate>
