@@ -4,7 +4,14 @@
     <title>最新提交：PixelArt</title>
     <link>https://www.reddit.com/r/PixelArt/new</link>
     <description>我们欢迎在这里发表有关像素艺术的各种帖子，无论您是寻求指导的新手还是想要与新观众分享的经验丰富的专业人士。我们只有一些关于发帖的规则，所以只需检查一下这些规则，然后向我们展示您得到的内容！</description>
-    <lastBuildDate>Sat, 02 May 2026 05:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 07:17:18 GMT</lastBuildDate>
+    <item>
+      <title>一起变老</title>
+      <link>https://www.reddit.com/r/PixelArt/comments/1t1i2zo/growing_old_together/</link>
+      <description><![CDATA[      我为一位同人小说触动我心的作者制作的礼物🥹 我不知道花了多长时间；我应该找一天时间去看，但我对结果很满意！当然，我知道我肯定还有一些可以改进的地方。我在这个领域还是个初学者……我特别想到的是照明；我尤其需要研究这一点。   由   提交/u/wvduun  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/PixelArt/comments/1t1i2zo/growing_old_together/</guid>
+      <pubDate>Sat, 02 May 2026 06:32:04 GMT</pubDate>
+    </item>
     <item>
       <title>Underverse、Swap Sans、像素艺术</title>
       <link>https://www.reddit.com/r/PixelArt/comments/1t1gw4s/underverse_swap_sans_pixel_art/</link>
@@ -41,13 +48,6 @@
       <pubDate>Sat, 02 May 2026 02:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>缪斯破折号图标？</title>
-      <link>https://www.reddit.com/r/PixelArt/comments/1t1cloo/muse_dash_icon/</link>
-      <description><![CDATA[       由   提交/u/FranChiCke  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/PixelArt/comments/1t1cloo/muse_dash_icon/</guid>
-      <pubDate>Sat, 02 May 2026 01:53:07 GMT</pubDate>
-    </item>
-    <item>
       <title>流逝时间</title>
       <link>https://www.reddit.com/r/PixelArt/comments/1t1bule/passing_time/</link>
       <description><![CDATA[       由   提交/u/Normal-Neighbor  [链接] [评论] ]]></description>
@@ -71,7 +71,7 @@
     <item>
       <title>Unreal 中的概念验证 3D 像素艺术和工作流程</title>
       <link>https://www.reddit.com/r/PixelArt/comments/1t1akjw/proof_of_concept_3d_pixel_art_in_unreal_and/</link>
-      <description><![CDATA[      与标题中的内容差不多。我一直在摆弄 Unreal，并认为我已经使用 Aseprite、Crocotile 和 Unreal 建立了一个相当可靠的工作流程。基本步骤如下：  创建两个单独的纹理文件，64x64 和 256x256 绘制每个单独的纹理。 将每个单独的已完成纹理复制到 256 个文件中。将图块集另存为 PNG。 将图块集导入 Crocotile。使用 Cocotile 创建模型。 从 Crocotile 导出为 OBJ，将比例设置为 0.25 仅将模型而不是纹理导入到 Unreal 中。执行此操作还将导入纹理，但消除任何展开问题并有助于后续步骤。  将新导入的纹理组设置从世界更改为 2D 图块集。在材质中，将粗糙度更改为 1。 在模型中，将碰撞更改为“使用复杂为简单”。  此时，只需使用您想要的模型即可。它将具有像素完美碰撞，通常具有与自定义碰撞相当的复杂性。 注意：  您可以增加和减少初始纹理大小。默认情况下 Crocotile 使用 16x16 纹理，因此在导出时我们要乘以 0.25。我建议不要使用更高分辨率的纹理，因为 crocotile 似乎在模型视图中超过大约 640 像素时存在剔除问题。  平铺表的尺寸不限于 256x256，但由于它的尺寸非常小且具有限制，如果您想要 90 年代的外观，在这些限制范围内工作似乎会有所帮助。  Crocotile 不支持导出平面两侧都有可见纹理的模型。因此，如果您希望纹理在透明度的两侧都可见，例如此处显示的光栅和栏杆，您将需要两个平面，每个纹理都彼此背对。本质上，栏杆实际上是两个平面而不是一个平面。   3.5 如果你只使用一个平面，你不仅会获得透明度，碰撞也只会将其注册为单向墙。   由于我们导入的方式和基本设计，您可以创建修改后的图纸，以允许某些项目具有不同的调色板，而只需对其建模一次。显然没有将模型链接到特定的工作表。   显然不是普遍适用的，它确实使用两个可购买的程序，但它快速、高效，并且更注重创建像素艺术而不是模型。由于鳄鱼的工作方式，UVS 将保持其形状，因此您不必担心像素扭曲。它还导致所有模型共享统一的像素大小。 crocotile 中的平面为 1m，因此您的基本纹理分辨率将始终基于每米像素。   由   提交 /u/Zealousideal-Set3037   [链接] [评论] ]]></description>
+      <description><![CDATA[      与标题中的内容差不多。我一直在摆弄 Unreal，并认为我已经使用 Aseprite、Crocotile 和 Unreal 建立了一个相当可靠的工作流程。基本步骤如下：  创建两个单独的纹理文件，64x64 和 256x256 绘制每个单独的纹理。 将每个单独的已完成纹理复制到 256 个文件中。将图块集另存为 PNG。 将图块集导入 Crocotile。使用 Cocotile 创建模型。 从 Crocotile 导出为 OBJ，将比例设置为 0.25 仅将模型而不是纹理导入到 Unreal 中。执行此操作还将导入纹理，但消除任何展开问题并有助于后续步骤。  将新导入的纹理组设置从世界更改为 2D 图块集。在材质中，将粗糙度更改为 1。 在模型中，将碰撞更改为“使用复杂为简单”。  此时，只需使用您想要的模型即可。它将具有像素完美碰撞，通常具有与自定义碰撞相当的复杂性。 注意：  您可以增加和减少初始纹理大小。默认情况下 Crocotile 使用 16x16 纹理，因此在导出时我们要乘以 0.25。我建议不要使用更高分辨率的纹理，因为 crocotile 似乎在模型视图中超过大约 640 像素时存在剔除问题。  平铺表的尺寸不限于 256x256，但由于它的尺寸非常小且具有限制，如果您想要 90 年代的外观，在这些限制范围内工作似乎会有所帮助。  Crocotile 不支持导出平面两侧都有可见纹理的模型。因此，如果您希望纹理在透明度的两侧都可见，例如此处显示的光栅和栏杆，您将需要两个平面，每个纹理都彼此背对。本质上，栏杆实际上是两个平面而不是一个平面。   3.5 如果你只使用一个平面，你不仅会获得透明度，碰撞也只会将其注册为单向墙。   由于我们导入的方式和基本设计，您可以创建修改后的图纸，以允许某些项目具有不同的调色板，而只需对其建模一次。显然没有将模型链接到特定的工作表。   显然不是普遍适用的，它确实使用两个可购买的程序，但它快速、高效，并且更注重创建像素艺术而不是模型。由于鳄鱼的工作方式，UVS 将保持其形状，因此您不必担心像素变形。它还导致所有模型共享统一的像素大小。 crocotile 中的平面为 1m，因此您的基本纹理分辨率将始终基于每米像素。   由   提交 /u/Zealousideal-Set3037   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/PixelArt/comments/1t1akjw/proof_of_concept_3d_pixel_art_in_unreal_and/</guid>
       <pubDate>Sat, 02 May 2026 00:18:27 GMT</pubDate>
     </item>
