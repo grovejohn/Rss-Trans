@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 03 May 2026 10:00:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 12:40:53 GMT</lastBuildDate>
     <item>
       <title>我们买</title>
       <link>https://www.producthunt.com/products/dereference-the-100x-ide</link>
@@ -118,20 +118,6 @@
       <pubDate>Sun, 26 Apr 2026 21:57:34 GMT</pubDate>
     </item>
     <item>
-      <title>成就</title>
-      <link>https://www.producthunt.com/products/postiz</link>
-      <description><![CDATA[
-            适用于 OpenClaw 等代理的代理社交媒体调度程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/postiz</guid>
-      <pubDate>Sun, 26 Apr 2026 12:37:39 GMT</pubDate>
-    </item>
-    <item>
       <title>Huddle01 虚拟机</title>
       <link>https://www.producthunt.com/products/huddle01-cloud-2</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/rosentic</guid>
       <pubDate>Thu, 09 Apr 2026 10:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Genspark Word 版</title>
+      <link>https://www.producthunt.com/products/genspark</link>
+      <description><![CDATA[
+            利用 AI 在 Microsoft Word 中起草、编辑和研究
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/genspark</guid>
+      <pubDate>Wed, 08 Apr 2026 15:53:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
