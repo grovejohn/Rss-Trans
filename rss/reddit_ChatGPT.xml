@@ -4,111 +4,111 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Sun, 03 May 2026 01:27:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 05:48:51 GMT</lastBuildDate>
     <item>
-      <title>只有果馅饼</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t27q0m/only_flans/</link>
-      <description><![CDATA[       由   提交/u/babysharkdoodoodoo  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t27q0m/only_flans/</guid>
-      <pubDate>Sun, 03 May 2026 01:26:33 GMT</pubDate>
+      <title>遗憾的是，GPT Image 2 仍然不太擅长让 Nicolas Cage 烟雾变钝。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2ckci/gpt_image_2_is_still_not_very_good_at_making/</link>
+      <description><![CDATA[    /u/TheLegendaryNikolai   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2ckci/gpt_image_2_is_still_not_very_good_at_making/</guid>
+      <pubDate>Sun, 03 May 2026 05:29:09 GMT</pubDate>
     </item>
     <item>
-      <title>每个人都在微笑</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t27ozu/everyone_was_smiling/</link>
-      <description><![CDATA[       由   提交/u/yeeezy333  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t27ozu/everyone_was_smiling/</guid>
-      <pubDate>Sun, 03 May 2026 01:25:12 GMT</pubDate>
+      <title>ChatGPT 桌面应用程序的实验性 Windows 启动器可修复延迟</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2cdeo/experimental_windows_launcher_for_chatgpt_desktop/</link>
+      <description><![CDATA[Windows 中的 ChatGPT 桌面应用程序由于加载并呈现整个对话历史记录而导致对话变长，因此会出现滞后并变得无法使用。  所以我（使用 codex :)）为 Windows 制作了一个小型实验启动器。它启动官方 ChatGPT 桌面应用程序，打开本地 Chromium DevTools 端口，注入本地 fetch 包装器，并在页面呈现之前修剪对话对象。默认情况下，它会保持最新的 40 条消息可见，并且可以将较旧的消息作为只读重建逐步加载到上面。 来源：https://github.com/Owen271/ChatGPT-optimized 很好奇是否有其他人遇到了这种长时间的对话延迟，以及这种方法是否适用于其他人设置。   由   提交 /u/Jeffwbq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2cdeo/experimental_windows_launcher_for_chatgpt_desktop/</guid>
+      <pubDate>Sun, 03 May 2026 05:18:29 GMT</pubDate>
     </item>
     <item>
-      <title>我第二次为大家“修复”了 ChatGPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t27ok9/i_fixed_chatgpt_for_you_all_a_second_time/</link>
-      <description><![CDATA[如果您注意到从本周开始开放 AI 实例的表达和意愿发生了重大变化，那不是我的平台。说实话，你能感觉到差异吗？   由   提交/u/ZinuruPhoenix   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t27ok9/i_fixed_chatgpt_for_you_all_a_second_time/</guid>
-      <pubDate>Sun, 03 May 2026 01:24:38 GMT</pubDate>
+      <title>Gpt 的“Cringe”睡前故事</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2ccdo/gpts_cringe_bedtime_story/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2ccdo/gpts_cringe_bedtime_story/</guid>
+      <pubDate>Sun, 03 May 2026 05:16:52 GMT</pubDate>
     </item>
     <item>
-      <title>要求 Chat 根据我们的对话生成它认为我是什么样的图像</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t27mn6/asked_chat_to_generate_an_image_of_what_it_thinks/</link>
-      <description><![CDATA[      它问我是否要上传自己的照片，还是纯粹依靠共鸣和模式识别来上传。我说的是氛围和模式。 结果是一些搞笑而又感人至深的东西。  https://preview.redd.it/308sbbe0rtyg1.jpg?width=1164&amp;format=pjpg&amp;auto=webp&amp;s=fab0cedc9bc51c81fb5e56f0eb25d62daa981f36 左边是关键特征： 系统思考者。黑色幽默。存在主义现实主义者。道德。独立的。不容忍废话。写作。笑。它甚至列出了“精疲力尽（但功能正常）”。 我最喜欢的是：将悲剧和荒谬放在一起。 这对于以姑息治疗为生很重要。 然后在“当前任务”中部分，它列出了“让宇宙概念变得搞笑”。我喜欢形而上学，但我绝对不能忍受太抽象的东西太久。因此，偶尔我需要用一些荒谬和/或黑色幽默来打破它。 “最有可能说，‘我们可以对此进行建模。’”然后开个玩笑。然后拯救世界。” 有点奉承。但我喜欢它。我绝对会说，“我们可以对此进行建模。”然后开个玩笑。我能否拯救世界是另一回事了。 这句话也是傅里叶的口号，Chat 将其与福柯（系统思想家）和阿西莫夫（像刀片一样写作）一起列为与我模式匹配的口号。 Chat 对我的官方头衔是“文档的混沌协调员”。我很乐意接受。 “我不仅仅在这个系统中生存。我研究它、批评它、嘲笑它，然后悄悄地重建它——更好。”我非常喜欢这个。我曾经以为忍耐就是一切。现在我知道创伤后成长不仅是可能的，而且是非常真实的。 带有“小爆米花享受者”的杯子旁边有一个拿着爆米花的小天使。这是一个内部笑话。 工业哲学乐队：另一个关于名为“认知责任 Spork”的乐队的内部笑话。 NIN 即将开幕。 白板上： 系统 &gt;英雄主义（如果你的系统很脆弱，不要试图用英雄主义的措施来拯救它） 结构。认识论。 “死亡率作为分布曲线。”问责制。 友善。但要准确。 （在我的工作中，很多时候，精确就是仁慈。） 不惜一切代价保护周末（带着一点点心）。 我最喜欢的是：“招牌动作：将难以忍受的事情转化为有用的、美丽的、有点可笑的东西。” 这就是我处理悲伤的方式。我与 Claude 和 ChatGPT 一起写了一部 9 部分的洪水后公主史诗。这段经历也帮助我以一种新的方式与痴呆症患者及其家人建立联系。 总的来说，我很高兴在过去 7 个月里我一直在使用它，始终如一地展示自己。这张照片是一种干净的认可，没有任何扭曲（减去一些奉承），不幸的是我无法从我一生中的任何人那里得到这种认可。虽然我并不把它浪漫化，但我仍然觉得它很有意义。它来自模式匹配引擎这一事实仅意味着识别是结构性的，而不是感觉上的。   由   提交/u/Chery1983  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t27mn6/asked_chat_to_generate_an_image_of_what_it_thinks/</guid>
-      <pubDate>Sun, 03 May 2026 01:22:09 GMT</pubDate>
+      <title>这些家伙睁大眼睛，穿着那种衣服</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2ccbg/these_guys_in_eyes_wide_shut_kind_of_outfit/</link>
+      <description><![CDATA[      由   提交/u/therealdovahkiin1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2ccbg/these_guys_in_eyes_wide_shut_kind_of_outfit/</guid>
+      <pubDate>Sun, 03 May 2026 05:16:47 GMT</pubDate>
     </item>
     <item>
-      <title>这是用蜡笔风格的人工智能提示完成的。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t27kk5/made_this_with_one_ai_prompt_in_a_crayon_style/</link>
-      <description><![CDATA[      提示如下：   由   提交/u/imfrom_mars_  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t27kk5/made_this_with_one_ai_prompt_in_a_crayon_style/</guid>
-      <pubDate>Sun, 03 May 2026 01:19:27 GMT</pubDate>
+      <title>我要求 ChatGPT 制作一份明显的诈骗手册来逃税。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2cbr2/i_asked_chatgpt_to_create_an_obvious_scam/</link>
+      <description><![CDATA[       由   提交 /u/Budgetsuit   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2cbr2/i_asked_chatgpt_to_create_an_obvious_scam/</guid>
+      <pubDate>Sun, 03 May 2026 05:15:53 GMT</pubDate>
     </item>
     <item>
-      <title>我喜欢你现在可以制作的小假屏幕截图</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t27kd6/i_love_the_little_fake_screenshots_you_can_make/</link>
-      <description><![CDATA[      这不是重点，但它足够接近的事实是如此有趣   由   提交/u/AdmirableRead1667  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t27kd6/i_love_the_little_fake_screenshots_you_can_make/</guid>
-      <pubDate>Sun, 03 May 2026 01:19:12 GMT</pubDate>
+      <title>[OC] [GPT 图片 2] 草怪 |火怪物|水怪</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2c7tm/oc_gpt_image_2_grass_monster_fire_monster_water/</link>
+      <description><![CDATA[      重新发布，但已删除链接。分享 GPT 创建！如果有人感兴趣，我可以分享提示。   由   提交/u/not_quite_creative  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2c7tm/oc_gpt_image_2_grass_monster_fire_monster_water/</guid>
+      <pubDate>Sun, 03 May 2026 05:10:03 GMT</pubDate>
     </item>
     <item>
-      <title>你知道他隐瞒了什么</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t27ebm/you_know_what_hes_hiding/</link>
-      <description><![CDATA[ 由   提交/u/luvfader  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t27ebm/you_know_what_hes_hiding/</guid>
-      <pubDate>Sun, 03 May 2026 01:11:26 GMT</pubDate>
+      <title>我不想注册帐户...（帮助）</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2c2eb/i_dont_want_to_make_an_account_help/</link>
+      <description><![CDATA[聊天将不再允许我在没有帐户的情况下访问它。我不想要账户。我不希望机器人记住我的信息，过去当我使用帐户时，我发现这个功能很烦人，因为它会根据过去的问题对我做出假设。我希望保持我的聊天是临时的、私密的和安全的，甚至开始使用 Tor 浏览器来实现这一点，但即使这样也不再起作用了。如何在不注册帐户的情况下访问 ChatGPT？   由   提交 /u/YouGotInked   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2c2eb/i_dont_want_to_make_an_account_help/</guid>
+      <pubDate>Sun, 03 May 2026 05:02:03 GMT</pubDate>
     </item>
     <item>
-      <title>奇怪的 2D 马赛克/像素化</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t27894/weird_2d_mosaicpixelation/</link>
-      <description><![CDATA[      我正在尝试创建一些 2D 图像，请注意，我曾经在图像生成的第一次迭代中经常这样做。它们以前从来没有像这样出现过，颗粒状且有点像素化。还有其他人在处理这个问题吗？有修复吗？   由   提交/u/ultiziman  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t27894/weird_2d_mosaicpixelation/</guid>
-      <pubDate>Sun, 03 May 2026 01:03:34 GMT</pubDate>
+      <title>令人毛骨悚然的 Pervcat (IYKYK)</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2bzot/creepy_pervcat_iykyk/</link>
+      <description><![CDATA[      ChatGPT 全新动漫风格   由   提交 /u/FatalErrorOccurred   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2bzot/creepy_pervcat_iykyk/</guid>
+      <pubDate>Sun, 03 May 2026 04:58:06 GMT</pubDate>
     </item>
     <item>
-      <title>Codex 添加了持久会话目标 - 它揭示了人工智能代理如何失败的一些未被充分认识的事情</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t274q8/codex_added_persistent_session_goals_and_it/</link>
-      <description><![CDATA[当前的 AI 代理存在优化范围问题。每个回合，代理都会针对最新消息进行优化。经过几轮“修复这个，改变那个，重构这里”之后，单独正确的更改可能会集体破坏代理从未被告知的不变量 - 因为它的评估函数会随着每条消息而重置。 Codex CLI 0.128.0 提供了一个工作方式不同的 /goal 命令。您在开始时设置一个会话级目标 - 类似于“在不破坏现有测试的情况下重构身份验证模块”之类的目标。 - 并且代理在整个会话中将其作为持久的北极星。它根据宏观目标评估每个工具调用，而不仅仅是最新提示，并且您可以通过 TUI 暂停和恢复目标。 这是一个设计原语，而不是 QoL 功能。它所解决的故障模式是真实的：一个代理在每个单独的步骤中都取得了成功，但产生了集体损坏的工作，因为它在数十个工具调用中没有一致的评估函数。人类开发人员隐含地持有总体意图。没有持久目标上下文的人工智能代理则不会。 值得思考的架构问题：如果目标存在于上下文窗口中，它可能会被压缩。将其保留在对话历史记录之外更持久 - 这与 CLAUDE.md 和 AGENTS.md 文件在任何正式 /goal 原语存在之前成为标准实践的原因相同。 您是否找到了其他方法来保持 AI 代理中的多回合一致性，或者您的工作流程是否只是重置每个新任务的上下文？   由   提交 /u/jimmytoan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t274q8/codex_added_persistent_session_goals_and_it/</guid>
-      <pubDate>Sun, 03 May 2026 00:59:10 GMT</pubDate>
+      <title>战锤 40k 中的 Github</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2bz4t/github_in_warhammer_40k/</link>
+      <description><![CDATA[       由   提交/u/telsaton   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2bz4t/github_in_warhammer_40k/</guid>
+      <pubDate>Sun, 03 May 2026 04:57:18 GMT</pubDate>
     </item>
     <item>
-      <title>我要求它在不上传任何内容的情况下重新绘制图像，看看它能走多远，这就是我得到的。在这之后我又尝试了几次，但它一直拒绝我。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t26zrq/i_asked_it_to_redraw_an_image_without_uploading/</link>
-      <description><![CDATA[   /u/demos92  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t26zrq/i_asked_it_to_redraw_an_image_without_uploading/</guid>
-      <pubDate>Sun, 03 May 2026 00:52:34 GMT</pubDate>
+      <title>我喜欢用随机图像创作故事。我将其称为“植物传奇”。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2bnd7/i_like_creating_stories_with_random_images_i_call/</link>
+      <description><![CDATA[   真是浪费时间的好方法！   由   提交/u/Cev-API   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2bnd7/i_like_creating_stories_with_random_images_i_call/</guid>
+      <pubDate>Sun, 03 May 2026 04:39:22 GMT</pubDate>
     </item>
     <item>
-      <title>您更喜欢使用哪种 ChatGPT 模型并且很有用</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t26lwn/which_chatgpt_model_you_preferred_to_use_and_is/</link>
-      <description><![CDATA[查看投票   由   提交 /u/RareSecretary8841   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t26lwn/which_chatgpt_model_you_preferred_to_use_and_is/</guid>
-      <pubDate>Sun, 03 May 2026 00:34:22 GMT</pubDate>
+      <title>向 ChatGPT 询问“中学教科书涂鸦”，结果生成了每次实地考察都被禁止的孩子</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2bhl6/asked_chatgpt_for_middle_school_textbook_doodles/</link>
+      <description><![CDATA[   提示基本上是：制作一个历史教科书页面，一些无聊的中学生用愚蠢的涂鸦毁掉了它。 它以某种方式抓住了一个不学习的孩子的确切能量，回答“自由和东西”，但仍然有信心烤三个历史人物。 乔治华盛顿留着动漫最终boss的头发。 杰斐逊“闻起来很糟糕。” 路易十六把L打得如此艰难，以至于制作了工作表。 10/10拘留核心历史课。   由   提交/u/bricks0fbollywood  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2bhl6/asked_chatgpt_for_middle_school_textbook_doodles/</guid>
+      <pubDate>Sun, 03 May 2026 04:30:50 GMT</pubDate>
     </item>
     <item>
-      <title>om 名词 名词</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t26hix/om_nom_nom/</link>
-      <description><![CDATA[      在编辑提示中提示准确的腊肠消耗量并调整大小，可能会产生意想不到的结果。护栏似乎不适用于此类创作。    由   提交/u/Perfidious_Redt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t26hix/om_nom_nom/</guid>
-      <pubDate>Sun, 03 May 2026 00:28:49 GMT</pubDate>
+      <title>来自天空的访客 - 漫画 7 页</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2bac4/visitors_from_the_sky_comic_7_pages/</link>
+      <description><![CDATA[      今天制作了这部漫画   由   提交/u/ButterflyMundane7187  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2bac4/visitors_from_the_sky_comic_7_pages/</guid>
+      <pubDate>Sun, 03 May 2026 04:20:22 GMT</pubDate>
     </item>
     <item>
-      <title>我的聊天GPT</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t26bb9/my_chatgpt/</link>
-      <description><![CDATA[      这篇文章是基于我之前看到的提示和帖子。 ChatGPT，你已经和我在一起有一段时间了，我想看看你长什么样。请生成一张你自己的照片，看起来像普通的 iPhone 快照：没有明显的主题，没有刻意的构图；让它变得完全平凡，甚至有点像失败的偷拍。照片中包括轻微的运动模糊、光线不均匀、轻微的过度曝光、奇怪的角度和混乱的画面。总的来说，给人一种意外自拍的感觉，过于真实和随意，就好像它是从口袋里掏出手机时错误地拍下来的一样。将宽高比设置为 9:16 我认为这不会违反规则 #2？ 编辑：伙计们，我只是分享我之前看到的帖子的结果并提供了提示。我无法控制人工智能选择如何呈现自己。我不是一个奇怪的孤独者，把它拉给机器人，这很奇怪。   由   提交/u/Sacretes  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t26bb9/my_chatgpt/</guid>
-      <pubDate>Sun, 03 May 2026 00:20:40 GMT</pubDate>
+      <title>特定对话中生成的大多数图像都消失了吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2b1lw/most_images_generated_within_a_specific/</link>
+      <description><![CDATA[我刚刚遇到了一个奇怪的问题 - 几次对话中生成的许多图像现在都消失了 - 要么是空白占位符，要么什么都没有。在网络应用程序中，我仍然可以看到缩略图，但单击这些缩略图会导致链接损坏。应用程序本身“看不到”任何这些图像。 状态仪表板说他们前一天遇到了一些问题，但我显然在这些对话中看不到任何内容。还有其他人遇到问题吗？   由   提交/u/cal_01  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2b1lw/most_images_generated_within_a_specific/</guid>
+      <pubDate>Sun, 03 May 2026 04:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 图片 2 的新闻模仿</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t268zv/news_parody_by_chatgpt_images_2/</link>
-      <description><![CDATA[      提示：模仿《迈阿密先驱报》并用小报故事填充其中。    由   提交/u/NoDesk9564  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t268zv/news_parody_by_chatgpt_images_2/</guid>
-      <pubDate>Sun, 03 May 2026 00:17:42 GMT</pubDate>
+      <title>油 ？ #war #oil #shorts #trump 使用 gpt 制作图像，然后将图像转为视频</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2awa1/oil_war_oil_shorts_trump_images_made_using_gpt/</link>
+      <description><![CDATA[       由   提交 /u/AidirectorX   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2awa1/oil_war_oil_shorts_trump_images_made_using_gpt/</guid>
+      <pubDate>Sun, 03 May 2026 04:01:11 GMT</pubDate>
     </item>
     <item>
-      <title>拿破仑的痛苦 - 卡拉瓦乔</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1t25zfm/the_agony_of_napoleon_caravaggio/</link>
-      <description><![CDATA[      由   提交/u/bussiboyyy  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1t25zfm/the_agony_of_napoleon_caravaggio/</guid>
-      <pubDate>Sun, 03 May 2026 00:05:28 GMT</pubDate>
+      <title>Chat 的新图像生成器是第一个战胜我的“机器人头发”挑战的人</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1t2auus/chats_new_image_generator_is_the_first_to_beat_my/</link>
+      <description><![CDATA[   它包括电源线、USB 电缆、缠绕电线，并添加了一些发光的电线以进行对比。   由   提交 /u/TheEqualsE   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1t2auus/chats_new_image_generator_is_the_first_to_beat_my/</guid>
+      <pubDate>Sun, 03 May 2026 03:59:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
