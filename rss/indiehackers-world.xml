@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 04 May 2026 16:27:25 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:13:51 GMT</lastBuildDate>
     <item>
       <title>初创公司不是小企业。</title>
       <link>https://feed.indiehackers.world/post/8815059f82</link>
@@ -47,6 +47,16 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Sat, 02 May 2026 13:06:39 GMT</pubDate>
     </item>
     <item>
+      <title>你的文件并不凌乱。他们只是陷入了错误的系统。</title>
+      <link>https://feed.indiehackers.world/post/bf68d2eba4</link>
+      <description><![CDATA[您可以在这里查看：
+https://voyager.fm
+希望得到任何反馈。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/bf68d2eba4</guid>
+      <pubDate>Sat, 02 May 2026 12:46:14 GMT</pubDate>
+    </item>
+    <item>
       <title>我将在 12 天内以零客户推出 Product Hunt。这是我的具体计划。</title>
       <link>https://feed.indiehackers.world/post/beaab1d1e1</link>
       <description><![CDATA[公开使用我自己的产品。我们的变更日志、路线图和功能请求板均已上线。任何人都可以提交功能，对下一步构建的内容进行投票，然后观看它的发生。 https://tryreleaselog.com/p/releaselog-building-in-public/requests
@@ -72,7 +82,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>大多数用户认为您的产品已被放弃。这就是为什么这是一个保留问题。</title>
       <link>https://feed.indiehackers.world/post/c1a43c4f9e</link>
       <description><![CDATA[我专门构建了 ReleaseLog，因为我一直看到优秀的产品让用户陷入沉默。变更日志、路线图、功能请求——全部公开，全部互联。尝试releaselog.com
-您目前如何向用户传达进度？真的很好奇什么在起作用。
+您目前如何向用户传达进度？真正好奇什么在起作用。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/c1a43c4f9e</guid>
       <pubDate>Fri, 01 May 2026 12:18:47 GMT</pubDate>
@@ -106,7 +116,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>构建了一个工具，可以查找哪些 Reddit/HN 线程让 ChatGPT 推荐您的竞争对手</title>
       <link>https://feed.indiehackers.world/post/7f3a363dc8</link>
       <description><![CDATA[它跟踪 ChatGPT、Perplexity、Claude、Gemini 和 Copilot。完整扫描只需不到 2 分钟。
-首次扫描可免费访问 aairrankcite.com
+首次扫描可免费在airrankcite.com
 很好奇这里的其他人正在为人工智能引文跟踪做什么。对于大多数堆栈来说，这是否已引起您的注意？还是还为时过早？
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/7f3a363dc8</guid>
@@ -128,7 +138,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <link>https://feed.indiehackers.world/post/da427e21e8</link>
       <description><![CDATA[从分析中得到什么：
 
-转化率以数千个测试想法为基准（冷流量平均值为 3-7%）
+转化率以数千个经过测试的创意为基准（冷流量平均值为 3-7%）
 AI 判决：构建/旋转/丢弃
 接下来的 3 个具体步骤
 最值得关注的风险
@@ -143,6 +153,20 @@ AI 判决：构建/旋转/丢弃
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/da427e21e8</guid>
       <pubDate>Thu, 30 Apr 2026 08:40:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果登录根本不使用密码或代码怎么办？</title>
+      <link>https://feed.indiehackers.world/post/0b2648c805</link>
+      <description><![CDATA[我一直在研究身份优先的登录流程。
+没有密码
+无代码
+无恢复循环
+只是：
+点击→确认是您→您在
+如果您明天可以将其放入您的应用程序中，什么会阻止您？
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/0b2648c805</guid>
+      <pubDate>Thu, 30 Apr 2026 05:46:51 GMT</pubDate>
     </item>
     <item>
       <title>我今天启动了 Product Hunt 并发现了一些不舒服的事情</title>
@@ -196,40 +220,6 @@ https://paintoprofit.ayygo.com
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/b855787052</guid>
       <pubDate>Wed, 29 Apr 2026 10:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌的数据安全标签基本上没有用。所以我构建了一些可以实际检查的东西。</title>
-      <link>https://feed.indiehackers.world/post/fc3791ecd1</link>
-      <description><![CDATA[
-在 MalwareBazaar 中查找 APK 哈希
-给出 0-100 的风险评分
-
-一切都在设备上运行。任何 APK 都不会上传到任何地方。
-例如，Instagram 的得分为 68/100 高。 
-完整扫描：https://appxpose.app/scans/instagram
-到目前为止已安装 2000 多次，4.6 星。免费套餐每周扫描 5 次，Pro 套餐为终身扫描，GUARD 添加后台监控（当应用程序悄悄获取新权限时发出警报）。
-仍处于早期阶段。好奇 IH 人群的想法 - 是什么让您真正信任这样的工具？
-https://appxpose.app
-工作原理 + 研究：https://appxpose.app/blog/app-stores-lie-what-studies-actually-say
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/fc3791ecd1</guid>
-      <pubDate>Tue, 28 Apr 2026 19:33:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>营销第 3 天，受众为零。这是实际有效的（以及无效的）。</title>
-      <link>https://feed.indiehackers.world/post/2df9727899</link>
-      <description><![CDATA[诚实的数字：
-
-CWS 安装量：仍为个位数
-每天花在营销上的时间：约 2 小时
-每天撰写的评论：跨平台 10-15 条
-
-令人不安的事实：构建产品需要付出巨大的努力，但分发却更困难。至少对于代码，您会收到错误消息。通过营销，你只会得到沉默。
-还有其他人经历过这个阶段吗？是什么让你感动？
- fenly.me
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/2df9727899</guid>
-      <pubDate>Tue, 28 Apr 2026 14:18:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

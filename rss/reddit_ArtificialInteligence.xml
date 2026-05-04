@@ -4,11 +4,32 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Mon, 04 May 2026 16:24:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 19:09:35 GMT</lastBuildDate>
+    <item>
+      <title>2026 年不容错过的 10 款最佳人工智能自动化工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3qv7m/10_best_ai_automation_tools_you_cant_afford_to/</link>
+      <description><![CDATA[上周构建了一个潜在客户路由工作流程，本应花费两个小时。新的表单提交进来，获得评分，登陆 HubSpot，ping 正确的 Slack 通道。以前做过这个。应该是一个下午。 花了三天时间。不是因为它很难，而是因为我不断说服自己下一个工具会更干净。在一个平台走到一半时，遇到一些摩擦，跳到下一个平台。到了第二天，我已经用四种不同的工具完成了一半的自动化工作，并且有一种令人毛骨悚然的感觉，即大多数“人工智能自动化”都已经完成了。类别只是不同包装中的相同三个功能。 最终我做了唯一合理的事情：废弃所有内容并在我好奇的每个工具中重建相同的工作流程。背靠背。每个平台都有相同的工作流程。 这是我从中实际学到的东西： n8n 是我不断回来处理客户工作的地方。将其自行托管在便宜的 Hetzner 盒子上，并在午餐前运行一些东西。真正的时刻是当客户需要审计跟踪时，拉起画布，直观地跟踪每个分支，并在五分钟内导出可读的内容。我尝试过的任何其他方法都无法让您干净利落地做到这一点。 Make 是内部东西的惊喜。以零手把手的方式将其交给我的内容团队。周一有人问它是否坏了。星期三，我得到了一张屏幕截图，他们构建了一个完整的从 RSS 到概念的端到端简报管道。在任何实际数量上，经济学与 Zapier 的差距也并不接近。 Composio 是我没想到会改变我工作方式的东西。每次向代理添加新的集成时，我都会手动编写 OAuth 样板。在不到一个小时的时间内，使用零授权码将 Gmail、GitHub、Notion 和 Slack 连接到 LangChain 代理。我向其推荐的三位开发人员几个月后仍在使用它。 Zapier 我已经愤怒地退出了两次，又回来了两次。这些文档是同类中最好的，当晚上 11 点出现故障并且客户正在等待时，这确实比功能更重要。虽然数量昂贵，但这部分并不是一个神话。 还一直在使用 Claude Cowork 来实现更简单的委派工作，为重复的研究任务输入自然语言指令，并且根本没有工作流程设置就可以运行。任何具有真正条件逻辑的东西都会崩溃，但对于简单的重复任务来说，它有点疯狂。 也尝试过Lindy。会议准备代理确实很有用，在每次发现电话会议之前都会在我不经意的情况下发布一份研究简报。尝试将它用于除此之外的任何事情，但效果很挣扎。感觉它有一个狭窄的最佳点，但在这个最佳点内它真的很棒。 直到我团队的一位销售代表提到她每天花两个小时手动将 LinkedIn 个人资料复制到我们的 CRM 中时，我才接触过 Bardeen。在 25 分钟内为她准备好剧本，将任务缩短为四分钟。主要限制是你的浏览器必须保持打开状态，这对于你想要在后台运行的任何东西来说都不太好。 这可能是我从整个练习中得到的最有用的东西：大多数人都认为这些工具是可以互换的，但实际上它们不是。用于委派的工具、用于结构化数据路由的工具、用于代理基础结构的工具和用于浏览器工作的工具之间存在差异。为您的问题选择错误的类别是人们不断在平台之间跳转并感觉没有任何效果的原因。   由   提交/u/geekeek123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3qv7m/10_best_ai_automation_tools_you_cant_afford_to/</guid>
+      <pubDate>Mon, 04 May 2026 18:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>黄仁勋表示，一些首席执行官在谈到人工智能末日警告时有一种“上帝情结”，这可能会造成关键工人的短缺</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3p0bm/jensen_huang_says_some_ceos_have_a_god_complex/</link>
+      <description><![CDATA[Nvidia 首席执行官黄仁勋一直在反驳人工智能将消灭大量劳动力的流行说法，但他也将一些责任归咎于那些自以为无所不知的过于自信的首席执行官。 在本周接受特别竞争研究项目采访时，他表示，虽然人们警告人工智能末日可能会有所帮助，但此类预测会适得其反。 “如果我们说服所有年轻的大学毕业生不要成为软件工程师，而事实证明美国比以往任何时候都需要更多的软件工程师，那是有害的，”黄解释道。 “因此，我们必须注意如何传达这项技术的重要性及其功能。” 人工智能代理的出现使更广泛的用户可以进行编码，同时也允许工程师编写更多的代码。投资者出售了软件公司的股票，担心企业客户会使用人工智能来创建自己的平台。 尽管倡导人工智能的护栏很重要，但他补充说，吓唬人们相信该技术将对人类构成生存威胁，破坏民主或消除 50% 的入门级工作是“荒谬的”。 阅读更多： https://fortune.com/2026/05/02/jensen-huang-nvdia-ceo-god-complex-ai-apocalypse-warnings-shortages-ritic-jobs/   由   提交/u/fortune  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3p0bm/jensen_huang_says_some_ceos_have_a_god_complex/</guid>
+      <pubDate>Mon, 04 May 2026 17:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>过度使用“这不是 A，这是 B”或“这不是关于 A，而是关于 B”让我发疯。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3nlm1/the_overusage_of_its_not_a_its_b_or_its_not_about/</link>
+      <description><![CDATA[还有人觉得它有多公式化吗？ 🤣😅 在过去的一年里，我到处都看到这种情况（ig 字幕、新闻文章、YouTube 视频等），负面的平行性令人震耳欲聋。当我开始听到 YouTube 视频使用“这不是 A，这不是 B，这是 C”或类似的任何地方时，我必须将其关闭。我知道这当然没那么严重，但想看看其他人是否也有同样的感觉。当我使用聊天/困惑/克劳德等时，我必须将此提示添加到我所要求的“禁止所有&#39;不是X而是Y&#39;结构”中，这通常 可以实现 技巧。   由   提交/u/plantbasedbrownie  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3nlm1/the_overusage_of_its_not_a_its_b_or_its_not_about/</guid>
+      <pubDate>Mon, 04 May 2026 16:57:49 GMT</pubDate>
+    </item>
     <item>
       <title>我的 AI 代理运行了 6 个小时来抓取垃圾数据，直到收到 AWS 账单我才注意到</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3l3ro/my_ai_agent_ran_for_6_hours_scraping_garbage_data/</link>
-      <description><![CDATA[上周构建了一个研究代理，用于抓取竞争对手的登陆页面并总结变化。老实说，感觉很干净。 除了我没有考虑到一件事之外，它所访问的一半网站已经开始提供机器人检测页面而不是真实内容。我的经纪人不知道其中的区别。只是不停地“总结” cloudflare 挑战和空 div 就像真正的内容一样。 6 小时。我的法学硕士有数百次 API 调用。全部都在垃圾 HT​​ML 上。我得到的实际有用数据？ 200 页中可能有 12 页。 我不再管理自己的 AI 代理抓取基础设施。你们正在使用什么来实际返回干净的内容并在遇到问题时优雅地失败？厌倦了照顾这些东西   由   提交 /u/LxM420   [链接] [评论]]]></description>
+      <description><![CDATA[上周构建了一个研究代理，用于抓取竞争对手的登陆页面并总结变化。老实说，感觉很干净。 除了我没有考虑到一件事之外，它所访问的一半网站已经开始提供机器人检测页面而不是真实内容。我的经纪人不知道其中的区别。只是不停地“总结” cloudflare 挑战和空 div 就像真正的内容一样。 6 小时。对我的法学硕士进行了数百次 API 调用。全部都在垃圾 HT​​ML 上。我得到的实际有用数据？ 200 页中可能有 12 页。 我不再管理自己的 AI 代理抓取基础设施。你们正在使用什么来实际返回干净的内容并在遇到问题时优雅地失败？厌倦了照顾这些东西   由   提交 /u/LxM420   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3l3ro/my_ai_agent_ran_for_6_hours_scraping_garbage_data/</guid>
       <pubDate>Mon, 04 May 2026 15:31:00 GMT</pubDate>
     </item>
@@ -22,7 +43,7 @@
     <item>
       <title>航空航天工程二年级学生的最佳工作流程？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3kk3t/best_workflow_for_a_2ndyear_aerospace_engineering/</link>
-      <description><![CDATA[大家好！ 我目前在米兰理工大学 (PoliMi) 攻读航空航天工程专业二年级。工作量越来越大，我想要更好的成绩。 我订阅了 Gemini Advanced，我正在尝试找出最有效的学习工作流程。 具体来说： -引导式学习与自定义宝石：我应该更多地依赖“引导式学习”吗？模式，还是构建特定的“自定义宝石”更好？喜欢学习教练，甚至创建一个？或者两者兼而有之？ -NotebookLM：我听说过一些关于它的好消息。使用它并将其与 Gemini 集成的最佳方式是什么？ -数学准确性：如何处理复杂的推导？您相信 Gemini 的输出还是仅将其用于概念逻辑？ -其他工具：您认为还有其他扩展或人工智能集成或技巧对工程至关重要吗？ 我很想听听你们如何组织学习课程以保持理智和高效。 欢迎提出建议！ 提前致谢！   由   提交 /u/TUUUUUZ   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我目前在米兰理工大学 (PoliMi) 攻读航空航天工程专业二年级。工作量越来越大，我想要更好的成绩。 我订阅了 Gemini Advanced，我正在尝试找出最有效的学习工作流程。 具体来说： -引导式学习与自定义宝石：我应该更多地依赖“引导式学习”吗？模式，还是构建特定的“自定义宝石”更好？喜欢学习教练，甚至创建一个？或者两者兼而有之？ -NotebookLM：我听说过有关它的很棒的事情。使用它并将其与 Gemini 集成的最佳方法是什么？ -数学准确性：如何处理复杂的推导？您相信 Gemini 的输出还是仅将其用于概念逻辑？ -其他工具：您认为还有其他扩展或人工智能集成或技巧对工程至关重要吗？ 我很想听听你们如何组织学习课程以保持理智和高效。 欢迎提出建议！ 提前致谢！   由   提交 /u/TUUUUUZ   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3kk3t/best_workflow_for_a_2ndyear_aerospace_engineering/</guid>
       <pubDate>Mon, 04 May 2026 15:11:52 GMT</pubDate>
     </item>
@@ -32,13 +53,6 @@
       <description><![CDATA[在浏览了几乎所有的模型，并从事过前端、后端、调试、开发、迭代和大量其他工作，并为真正的工具付出了真金白银后，我可以自信地说，通过 API 进行 Anthropics 定价与模型质量相比简直就是一个笑话。我可怜那些被困在订阅这个廉价劣质骗子艺术家的高价作品中的傻瓜。双子座也太贵了吧但 Pro 非常可靠，可以轻松处理整个系统转换。人类哥布林在设置一个简单的“/”时窒息了。正确。你几乎可以认为这是故意的... （另外，终于达到了 Google API 的第 2 层。250 RPD 到 50k RPD 太疯狂了...） 感谢您对此事的关注，哈哈 已编辑拼写错误   由   提交/u/TreptowerPark  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3jud2/look_at_the_tool_calls_vs_cost_ツ/</guid>
       <pubDate>Mon, 04 May 2026 14:46:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该购买哪个订阅</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ix8w/which_subscription_should_i_buy/</link>
-      <description><![CDATA[我的主要用途是数学，特别是大学预科水平。我到处都看到了对此的不同看法，所以我不确定该相信什么。我现在主要使用 chatgpt 来做数学，偶尔使用 claude，我主要更喜欢 chatgpt，尽管有时它会给出过于复杂的解决方案，在这种情况下 claude 通常会给出更简单的解决方案。尽管我更喜欢chatgpt rn，但我不知道付费水平是否存在很大差异，或者对于哪一个最适合数学购买存在普遍共识，或者它们是否都相对处于同一水平。  不确定这是否会产生重大影响，但我想在花钱之前做出明智的决定。    由   提交 /u/Slokkkk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ix8w/which_subscription_should_i_buy/</guid>
-      <pubDate>Mon, 04 May 2026 14:13:37 GMT</pubDate>
     </item>
     <item>
       <title>Mistral Medium 3.5，疯了？</title>
@@ -76,25 +90,11 @@
       <pubDate>Mon, 04 May 2026 04:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>7000 亿美元的 AI 资本支出 + 同一家公司裁员 92,000 人——“AI 就业悖论”是否早于预期出现？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t2xnj9/700_billion_in_ai_capex_92000_layoffs_at_the_same/</link>
-      <description><![CDATA[劳动力分析师将其称为“人工智能就业悖论” - 公司正在公布创纪录的收入，同时削减员工人数，将节省的资金重新投入人工智能基础设施。 2026 年第一季度的数字不容忽视：  Meta、亚马逊、微软、谷歌：今年 AI 资本支出合计超过 700B+ - 几乎是 2025 年的两倍 今年迄今为止，98 家公司解雇了 92,272 名技术员工 13% 的受访者中提到了人工智能2026 年的所有裁员比例高于 2025 年的 5%，而且可能被低估  有趣的是，人工智能仍然只是第五大最常见的裁员原因。公司首先列出重组和市场状况。但支出和削减不断同时出现。 资料来源：https://www.newsnationnow.com/business/your-money/tech-layoffs-surge-ai-spending/ 和 https://sherwood.news/tech/alphabet-amazon-microsoft-meta-plan-more-than-700-billion-on-capex-this-year/ 如果您想挖掘，这里有所有数据的完整细分更深入：https://youtu.be/_oxQfPnl_eQ 这是结构性转变，还是仍然存在“重新平衡完成和招聘恢复”的情况？发生的场景？   由   提交/u/MaJoR_-_007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t2xnj9/700_billion_in_ai_capex_92000_layoffs_at_the_same/</guid>
-      <pubDate>Sun, 03 May 2026 21:09:32 GMT</pubDate>
-    </item>
-    <item>
       <title>教授大胆预测：十年内AI可治愈所有疾病</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t2qtrv/professors_bold_prediction_ai_could_help_cure_all/</link>
       <description><![CDATA[ 由   提交 /u/ksprdk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t2qtrv/professors_bold_prediction_ai_could_help_cure_all/</guid>
       <pubDate>Sun, 03 May 2026 16:55:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>将于 2026 年 5 月推出</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t2md8o/coming_may_2026/</link>
-      <description><![CDATA[- tibo提到5.5达到逃逸速度&amp;他们很快就会再次发货 - minimax m3 由首席开发人员确认：“m3 并不遥远” - 新克劳德“jupiter”本周末发现模型 - 发现新的 Gemini 变体，距离 Google io 会议还有几周   由   提交/u/Chasmchas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t2md8o/coming_may_2026/</guid>
-      <pubDate>Sun, 03 May 2026 14:04:49 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
