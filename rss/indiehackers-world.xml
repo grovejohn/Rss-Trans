@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 04 May 2026 05:54:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 08:11:52 GMT</lastBuildDate>
     <item>
       <title>初创公司不是小企业。</title>
       <link>https://feed.indiehackers.world/post/8815059f82</link>
@@ -30,6 +30,21 @@ https://vidicontract.tech
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/8815059f82</guid>
       <pubDate>Sat, 02 May 2026 14:14:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我浪费了 6 个月的时间建立了一家失败的初创公司。构建 TrendyRevenue 以在 10 秒内验证想法。</title>
+      <link>https://feed.indiehackers.world/post/ec7806e968</link>
+      <description><![CDATA[
+哪项功能看起来最有价值？
+
+烤我吧。残酷一点。我可以接受。
+如果您测试自己的想法，请将结果发送给我。 
+让我们互相帮助，停止构建没人想要的东西。
+立即访问：https://trendyrevenue.com/
+👇 请在下面留下您的反馈。 👇
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/ec7806e968</guid>
+      <pubDate>Sat, 02 May 2026 13:06:39 GMT</pubDate>
     </item>
     <item>
       <title>我将在 12 天内以零客户推出 Product Hunt。这是我的具体计划。</title>
@@ -221,30 +236,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/e76a7b0878</guid>
       <pubDate>Tue, 28 Apr 2026 09:22:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多数人工智能应用程序不会因为这个想法而失败——它们会因为这个而失败</title>
-      <link>https://feed.indiehackers.world/post/888738298e</link>
-      <description><![CDATA[大家好👋
-在参与了几个 AI SaaS 项目之后，有一件事非常清楚：
-大多数人工智能应用程序不会因为这个想法而失败。
-他们失败是因为他们永远不会变得可靠。
-通常会出现什么问题：
-• 在演示中运行良好，但与真实用户不同
-• 不一致的答案（幻觉）
-• 成本增长速度快于使用速度
-我们经常看到的错误：
-团队过于关注提示，而对系统关注不够。
-什么对我们更有效：
-→ 真实数据的接地响应 (RAG)
-→ 尽早针对边缘情况进行设计
-→ 在缩放之前添加评估
-与“智能人工智能”无关
-以及有关“可预测系统”的更多信息。
-很好奇——到目前为止，您在使用 AI 进行构建时遇到的最大挑战是什么？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/888738298e</guid>
-      <pubDate>Mon, 27 Apr 2026 07:03:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
