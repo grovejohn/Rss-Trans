@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 May 2026 21:53:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 01:29:20 GMT</lastBuildDate>
+    <item>
+      <title>有什么好的资源可以连接想要展示其技能和慈善事业的开发人员或其他可以使用网络资源的地方吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t3yg0j/any_good_resources_to_connect_developers_who_want/</link>
+      <description><![CDATA[所以我最近失业了，我很难有动力去学习新东西，因为。我很难获得动力去制作没人会使用的东西。如果我正在为我愿意支持的慈善机构制作一个网站，例如一些妇女庇护所或为饥饿者提供食物或我知道会帮助人们的东西，我会更有动力从事这些工作，并且能够将真正的项目放在我的网站上。 我强烈喜欢一个新网站或重新设计的网站，这样我就可以制作真正属于我的东西，而不仅仅是修补别人的代码。 我有超过 15 年的网站开发经验，我想这样做更多使用 JavaScript 框架（最好是 React、Vue 或 Angular）。我想获得更多关于 JS 框架的实际经验，但我也完全可以很好地工作全栈（最好是 C#）。   由   提交 /u/ShawnyMcKnight   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t3yg0j/any_good_resources_to_connect_developers_who_want/</guid>
+      <pubDate>Mon, 04 May 2026 23:30:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的投资组合托管多个后端站点的最便宜的方式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t3ybr8/cheapest_way_to_host_multiple_backend_sites_for/</link>
+      <description><![CDATA[所以我有很多年的 Web 开发经验，但我没有太多可以展示的。我希望能做一些“为了好玩”的事情。项目并将它们托管在我的投资组合网站上。然而，我目前只使用 github 页面作为我的前端站点。我想托管一些使用 C# 来呈现 API 以及连接到数据库的项目，但我没有任何方法来展示这一点。 我可以获取 Digital Ocean Droplet 或其他东西，然后将所有容器和数据库放在那里吗？我预计它的并发用户不会超过少数，可能少于 5 个（除非它被机器人攻击）。   由   提交 /u/ShawnyMcKnight   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t3ybr8/cheapest_way_to_host_multiple_backend_sites_for/</guid>
+      <pubDate>Mon, 04 May 2026 23:26:00 GMT</pubDate>
+    </item>
     <item>
       <title>我的工具将 LLM 输出呈现为包含降价代码的代码，这会增加 XSS 的风险。如何保护应用程序的安全？</title>
       <link>https://www.reddit.com/r/webdev/comments/1t3v2xs/my_tool_renders_llm_output_contain_code_as/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>为代理（而不仅仅是人类）构建网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1t3tp51/build_websites_for_agents_not_just_humans/</link>
-      <description><![CDATA[我们正在进入一个转变，我认为很多人还没有真正注意到这一点。 随着人工智能助手和所有这些代理的出现，网站不再仅仅为人类服务。就像越来越多的代理实际访问、检查内容、比较事物，甚至为用户做出决定。 但是大多数网站仍然只是为了人们查看而构建的...... \- 太多的 UI/UX 内容 \- 数据遍布整个地方或结构不良好 \- 机器没有明确的方式来理解正在发生的事情 是的......这是一个问题。 如果代理无法快速理解您的网站，它就会跳过它。简单的。如果代理决定显示什么，那么你基本上是隐形的。 所以我觉得现在的网站应该更加“代理友好”（我不知道这是否是正确的词，哈哈） \- 更清晰的结构化数据（架构、API，所有这些） \- 快速加载时间（顺便说一句，他们不会等待） \- 事物背后的含义更清晰，而不仅仅是设计 \- 更容易与自动化交互 基本上，您的网站应该易于机器阅读，而不仅仅是对人来说看起来不错。 并不意味着设计毫无用处......只是意味着结构现在比以前更重要。 我真的认为很快问题将不再是“您的网站是否响应？” 它会更像是“代理实际上可以使用它吗？” idk 只是我已经知道的东西一直在考虑…… 还有其他人已经这样构建了吗？   由   提交 /u/Calm_Flower4933   [链接] [评论]]]></description>
+      <description><![CDATA[我们正在进入一个转变，我认为很多人还没有真正注意到这一点。 随着人工智能助手和所有这些代理的出现，网站不再仅仅为人类服务。就像越来越多的代理实际访问、检查内容、比较事物，甚至为用户做出决定。 但是大多数网站仍然只是为了人们查看而构建的...... \- 太多的 UI/UX 内容 \- 数据遍布整个地方或结构不良好 \- 机器没有明确的方式来了解正在发生的事情 是的......这是一个问题。 如果代理无法快速理解您的网站，它就会跳过它。简单的。如果代理决定显示什么，那么你基本上是隐形的。 所以我觉得现在的网站应该更加“代理友好”（我不知道这是否是正确的词，哈哈） \- 更清晰的结构化数据（架构、API，所有这些） \- 快速加载时间（顺便说一句，他们不会等待） \- 事物背后的含义更清晰，而不仅仅是设计 \- 更容易与自动化交互 基本上，您的网站应该易于机器阅读，而不仅仅是对人来说看起来不错。 并不意味着设计毫无用处......只是意味着结构现在比以前更重要。 我真的认为很快问题将不再是“您的网站是否响应？” 它会更像是“代理实际上可以使用它吗？” idk 只是我已经知道的东西一直在考虑…… 还有其他人已经这样构建了吗？   由   提交 /u/Calm_Flower4933   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t3tp51/build_websites_for_agents_not_just_humans/</guid>
       <pubDate>Mon, 04 May 2026 20:29:19 GMT</pubDate>
     </item>
@@ -32,13 +46,6 @@
       <description><![CDATA[我有一个播客平台，我想在其中跟踪用户收听的片段。我只是跟踪像 [[0,19], [29,65] 这样的数组。当将其发送到我的服务器时，我想要一种算法将当前数据库中的数据库与新数据库巧妙地合并，避免重复，在需要时合并范围等。 当我决定只用我的大脑时，我打算提示我摆脱它。我拿了一张纸，写下了伪算法。我编写并测试了它，几乎每个案例都有效。我感到自豪，这让我想起了为什么我喜欢编码。 所以时不时地，抓起一张纸，强迫你的大脑工作   由   提交/u/patchimou  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t3tjex/i_did_not_vibe_code_a_small_algorithm_it_felt/</guid>
       <pubDate>Mon, 04 May 2026 20:23:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>懂得如何编程的开发人员，但在采访中无法解释：这种情况常见吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t3th64/dev_que_sabe_programar_mas_trava_explicando_em/</link>
-      <description><![CDATA[我正在用人工智能创建一个语音技术面试模拟器，我意识到一些事情： 很多人知道如何编程，但不知道如何通过说话来解释他们的推理。 实践中： * 在代码中表现良好 * 在面试中陷入困境 诚实的问题： 训练语音面试会让您已经感觉到或发短信了吗？解决？ 还有更多： * 您对技术答案的评价是什么？ * 答案中初级和高级的区别是什么？ 如果有人想测试它，我可以发送链接，但我对真实反馈比宣传更感兴趣👀   由   发送 /u/EclipsePsycho   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t3th64/dev_que_sabe_programar_mas_trava_explicando_em/</guid>
-      <pubDate>Mon, 04 May 2026 20:21:24 GMT</pubDate>
     </item>
     <item>
       <title>从私人回购到公共回购</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[大家好， 我是一名 BTech 毕业生，最近一直在从事一个小项目，我认为这个项目可能对这里的人实际上有用。 它基本上可以将您的 PDF 简历在几秒钟内变成个人作品集网站。您可以从几个模板中进行选择，它会立即为您提供一个实时部署的网站。 我构建这个是因为我发现设置投资组合不必要地耗时，尤其是当您只想快速与招聘人员共享一些内容时。 它完全免费，不需要任何注册或登录。 如果您有兴趣，如果您可以尝试一下并让我知道您的想法（好或坏），我将非常感激： https://portfolio-craft-iota.vercel.app/ 我主要寻找诚实的反馈，以便我可以改进它。谢谢😄   由   提交 /u/Born-Dimension-7399   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t3r5p9/built_a_small_tool_that_turns_a_resume_into_a/</guid>
       <pubDate>Mon, 04 May 2026 19:00:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人真的喜欢编写 YAML 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t3r4zq/does_anyone_actually_enjoy_writing_yaml/</link>
-      <description><![CDATA[我编写 YAML 已有多年了。 Kubernetes 配置、GitHub Actions、Docker Compose、Ansible。我仍然讨厌它。 缩进必须完美。空格，而不是制表符。一个错误的空间和您的整个部署都会失败，并出现一些关于“此处不允许映射值”的神秘错误。 并且不要让我开始处理多行字符串。 |对比&gt; vs |- vs &gt;- — 我永远记不起哪一个做了什么。 昨天我花了 20 分钟调试 CI 管道。问题是什么？冒号后缺少空格。不是逻辑错误。一个空格。 我要求 Blackbox 将复杂的 GitHub Actions 工作流程重写为更易读的格式。确实如此。但我仍然必须手动检查每个缩进级别，因为我不信任 YAML 解析器。 最糟糕的部分是什么？ YAML 现在无处不在。无处可逃。只是受苦。 我知道它为什么存在。它是“人类可读的”。但 JSON 也是如此，JSON 并不关心我的间距焦虑。 所以我问：有人真的喜欢编写 YAML 吗？或者我们都已经接受了痛苦？   由   提交 /u/PuzzleheadedYou4992   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t3r4zq/does_anyone_actually_enjoy_writing_yaml/</guid>
-      <pubDate>Mon, 04 May 2026 18:59:43 GMT</pubDate>
     </item>
     <item>
       <title>雅虎新闻 RSS 源消失了吗？还是只有我一个人这样？</title>
