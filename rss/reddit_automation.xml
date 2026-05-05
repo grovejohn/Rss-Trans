@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 05 May 2026 10:27:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 13:03:09 GMT</lastBuildDate>
+    <item>
+      <title>如何在 AI 中创建多功能宏</title>
+      <link>https://www.reddit.com/r/automation/comments/1t4ei6p/cómo_crear_un_macro_multifuncional_en_la_ia/</link>
+      <description><![CDATA[ 由   提交/u/Far_Inflation_8799   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t4ei6p/cómo_crear_un_macro_multifuncional_en_la_ia/</guid>
+      <pubDate>Tue, 05 May 2026 12:49:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从 20 多个失败的人工智能自动化项目中学到了什么</title>
+      <link>https://www.reddit.com/r/automation/comments/1t4bzkr/what_i_learned_looking_at_20_failed_ai_automation/</link>
+      <description><![CDATA[在过去的一年里，我做了很多工作流程审核——那些试图用人工智能实现自动化的公司，结果被烧毁了，在再次尝试之前想了解原因。 失败集中在三个地方，与他们选择的模型无关。  在自动化开始之前，工作流程没有记录下来。每一个。团队试图自动化他们尚未规划的流程。人工智能只是以机器速度对现有的混乱进行编码。您无法自动化无法描述的流程。如果您无法在 10 分钟内将其绘制在白板上，那么您还没有准备好添加 AI。 没有评估层。自动化上线后，唯一的反馈信号是“它坏了”。或“看起来不错。”没有人抽查输出。没有人定义什么是正确的。无声错误会持续数周或数月。 500 项日常任务的 3% 幻觉率是指每天有 15 个错误输出 — 如果您不注意，就看不到。 错误的问题首先会被自动化。团队将最响亮的部分自动化，而不是影响最大的部分。首席执行官抱怨报告格式，因此它被自动化了。与此同时，引线布线是一场无人测量的灾难。优先顺序为：错误率×数量×每次错误的成本。安静、重复、高风险的事情几乎总是获胜。  这些都不是硬性修复。绘制流程，定义良好的外观，从第一天开始进行衡量。 您见过的自动化项目出错的最令人惊讶的地方是什么？   由   提交 /u/Alert_Journalist_525   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t4bzkr/what_i_learned_looking_at_20_failed_ai_automation/</guid>
+      <pubDate>Tue, 05 May 2026 10:56:26 GMT</pubDate>
+    </item>
     <item>
       <title>什么是从实验开始但后来变成游戏规则改变者的自动化？</title>
       <link>https://www.reddit.com/r/automation/comments/1t4a0w9/whats_an_automation_that_started_as_an_experiment/</link>
@@ -55,13 +69,6 @@
       <pubDate>Tue, 05 May 2026 03:05:16 GMT</pubDate>
     </item>
     <item>
-      <title>Zapier 在结构上无法弥补“无聊的实用性”差距。</title>
-      <link>https://www.reddit.com/r/automation/comments/1t40qto/the_boring_utility_gap_that_zapier_structurally/</link>
-      <description><![CDATA[zapier 非常适合可预测的 api 到 api 流。但它有一个巨大的盲点：活跃的上下文。 zap 无法读取我现在打开的特定的、混乱的 pdf 并将其汇总到我的 crm 中的特定行中。它需要一个已定义的静态触发器。 invoko 处理“活动”触发器。自动化。按 Fn 键，描述操作，它会读取屏幕来弥补差距。 “从这张发票中提取行项目并将它们添加到我的电子表格中” - 用一句话完成。 免费测试版仅适用于 Mac。我使用 zapier 作为后端基础设施，使用 invoko 来实现“领先速度”。我需要对出现的信息采取行动的东西，也想知道其他人如何处理“活动上下文”他们的流程有问题吗？   由   提交 /u/Infinite-Tadpole4794   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t40qto/the_boring_utility_gap_that_zapier_structurally/</guid>
-      <pubDate>Tue, 05 May 2026 01:10:05 GMT</pubDate>
-    </item>
-    <item>
       <title>为非营利组织寻求帮助的初学者</title>
       <link>https://www.reddit.com/r/automation/comments/1t3zocl/beginner_looking_for_help_for_nonprofit/</link>
       <description><![CDATA[大家好！！预先感谢您的善意和帮助。我讨厌以陌生人的身份介入并寻求帮助，但我一直在尽我所能进行自己的研究，并且仍然需要一些帮助。 我是圣地亚哥一个小型救援组织的成员，专注于从南加州的屠宰场拯救处于危险中的狗。我们 100% 都是志愿者，这意味着每个人都在全职工作和拯救狗的生命之间捉襟见肘。 我一直在寻找一种人工智能工具，可以帮助我们自动化管理任务，腾出志愿者时间来做更重要的事情，同时还要注意成本。我自己的研究将我引向了 Make，但由于存在如此多的噪音，很难说这是否是最好的工具。我希望你们都能告诉我 Make 是否是我的最佳选择，或者我是否应该寻找另一个方向？  例如，我想要自动化的第一个任务是在我们的 Google 云端硬盘中归档。我想要一个人工智能工具，我可以在其中上传文件，它不仅会将其放置在我们的 Google 云端硬盘中所属的位置，它还会知道文件中的数据何时也需要记录在其他地方（例如 Google 表格），并且也会执行该任务。我的愿望清单上的其他一些事情包括文本和电子邮件管理/路由到正确的志愿者，帮助处理收养/寄养应用程序，帮助事件和牵狗等后勤工作，以及社交媒体帖子和管理。 我知道这需要一些设置工作，但考虑到这一点，我是否走在正确的轨道上？我所做的一切在 Make 上会变得昂贵吗？还有什么需要注意的吗？ 非常感谢大家的帮助！！   由   提交 /u/EloquentlyMellow   [链接] [评论]]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[我对过去 1-2 年的总体感觉。 我有一项任务，比如说自动化每日使用报告 实际上，一个快速脚本甚至 make/n8n 自动化就足够了（30 分钟的工作） 但出于某种原因，我感到 FOMO/社会压力，需要构建一个 AI 代理来完成这项工作 我内心深处知道这是一种矫枉过正，需要更长的时间来构建（因为它对我来说仍然有点新），但我很矛盾。  我坚持使用灵长类动物来完成简单的任务是正确的，还是老式的，应该拥抱“新堆栈”？即使感觉不对？ 还有其他人有这样的感觉吗？   由   提交/u/bypass316  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t3wta5/i_feel_peer_pressure_to_build_ai_agents_for/</guid>
       <pubDate>Mon, 04 May 2026 22:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们与验证码</title>
-      <link>https://www.reddit.com/r/automation/comments/1t3rqfl/us_vs_captcha/</link>
-      <description><![CDATA[嘿，自动化人员， 我目前正在处理基于行为的验证码，并试图了解当今实际有效的内容。 现在，我正在探索如何让光标移动在求解过程中感觉更“人性化”，但最终不会为其编写过于复杂的逻辑。 我正在考虑测试人工智能代理/浏览器扩展，但我不相信这是正确的方法，因此我愿意接受任何实际反馈或实际设置。   由   提交/u/Busy-Cauliflower-288  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t3rqfl/us_vs_captcha/</guid>
-      <pubDate>Mon, 04 May 2026 19:20:26 GMT</pubDate>
     </item>
     <item>
       <title>还有其他人在提交之前浪费时间在自动化工具之间切换吗？</title>
