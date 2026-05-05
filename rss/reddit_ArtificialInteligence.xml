@@ -4,27 +4,41 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 05 May 2026 07:50:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 10:27:19 GMT</lastBuildDate>
     <item>
-      <title>为什么你的人工智能代理只需一次更新就能崩溃</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t48gsd/why_your_ai_agents_are_one_update_away_from/</link>
-      <description><![CDATA[您在生产中的 AI 代理实践中见过这种情况吗？  让我知道，请在下面评论。谢谢    由   提交 /u/Wizard_AI   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t48gsd/why_your_ai_agents_are_one_update_away_from/</guid>
-      <pubDate>Tue, 05 May 2026 07:35:18 GMT</pubDate>
+      <title>代理编码的 10 个教训</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4aapp/10_lessons_for_agentic_coding/</link>
+      <description><![CDATA[ 由   提交 /u/TheOnlyVibemaster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4aapp/10_lessons_for_agentic_coding/</guid>
+      <pubDate>Tue, 05 May 2026 09:25:37 GMT</pubDate>
     </item>
     <item>
-      <title>基准性能和部署性能存在差异。一是进步快。第二个不是。造成差距的原因比头条新闻所暗示的更重要。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t48g84/benchmark_performance_and_deployed_performance/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t48g84/benchmark_performance_and_deployed_performance/</guid>
-      <pubDate>Tue, 05 May 2026 07:34:24 GMT</pubDate>
+      <title>AI时代智性下降的最大问题是自我约束</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4a4cs/the_biggest_issue_with_decreased_intellectualism/</link>
+      <description><![CDATA[我目前正在英国一所优秀大学完成哲学学位，并正在准备围绕语言哲学的期末考试。有一个我不确定的概念，所以要点总结了它，并将其通过我喜欢的聊天机器人发布，该机器人重新总结了它并给出了反驳论点。我原来的想法是正确的，我现在会好好研究一下反驳。 问题是很多学生没有毅力迈出第一步，会直接去X模型要求解释，而且很可能无法理解。 我们也知道模型，尤其是免费的模型，经常会产生幻觉，并且会提供虚假信息。 可悲的是，法学硕士可能是一个很好的工具，和讲师一样。快速澄清答案，但我认为我们没有自我约束能力允许他们这样做。这就是反智主义兴起的地方。这让我对使用法学硕士作为工具感到很糟糕。法学硕士不是福音，我认为你需要对你的学科有很好的理解，才能有效地使用它们作为一种工具。    由   提交 /u/thedeadenddolls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4a4cs/the_biggest_issue_with_decreased_intellectualism/</guid>
+      <pubDate>Tue, 05 May 2026 09:15:24 GMT</pubDate>
     </item>
     <item>
-      <title>停止构建语音聊天机器人，开始构建隐形基础设施（800 毫秒延迟案例研究）</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t482s3/stop_building_voice_chatbots_start_building/</link>
-      <description><![CDATA[关于 AI 代理的讨论很多，但大多数都是关于法学硕士编写代码的。我们决定在现实环境（医疗/服务行业）中测试“前台”用例。 最大的教训是什么？ 延迟是对信任唯一重要的因素。如果延迟超过 2 秒，患者就会挂断电话或感到恼火。我们成功地将堆栈推至 800ms-1200ms (Solwees.ai)，结果令人着迷： 1. “这是一个机器人吗？”测试：如果响应是即时的并且具有上下文感知，人们就不会关心它是否是人工智能。他们只想预约。2. 幻觉是致命的：在 B2B 中，“有创造力”的人工智能就是被解雇的人工智能。我们必须将业务逻辑移至确定性层，以确保 100% 的准确性。 3. 捕获率：人工智能在周五下午 4:50 也不会感到疲倦。我们发现非工作时间的预订量增加了 20%。 还有其他人在研究低延迟语音的硬件或基础设施吗？我觉得我们正在从“聊天机器人”转向真正的隐形基础设施。很想听听您对语音人工智能“恐怖谷”目前所在位置的看法。   由   提交 /u/No-Zone-5060   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t482s3/stop_building_voice_chatbots_start_building/</guid>
-      <pubDate>Tue, 05 May 2026 07:11:44 GMT</pubDate>
+      <title>警告：人为“Gift Max”漏洞花费了我 800 欧元，降低了我的 SCHUFA 分数，并让我被禁止。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t49ovx/warning_anthropic_gift_max_exploit_cost_me_800/</link>
+      <description><![CDATA[我写这篇文章是为了警告和寻求帮助。我是德国一名表现最好的数据科学双学生，Anthropic 当前的计费安全故障刚刚摧毁了我的每月预算和我的信誉。 4 月 27 日，我的帐户遭到了总计超过 800 欧元的未经授权的收费，特别是多次“Gift Max 20X”费用。 （214.20 欧元）和“Gift Max 5X” （107.10 欧元）购买。  2FA 处于活动状态。 * 3-D Secure 从未获得授权。 * 在我看到电子邮件之前，礼品代码已由第三方生成并立即兑换。  这不是一个孤立事件。这是 Anthropic 礼品计费管道中的一个系统性缺陷。检查 GitHub 问题 #51404 和 #51168（2026 年 4 月），或旧的相关问题，例如 #41499 和 #47290。有一个记录在案的“Gift Max”模式。黑客绕过 MFA 窃取保存的卡的盗窃行为。这一天，status.claude.com页面更新为“正在调查”关于“帐单错误增多和未经授权的订阅变更。” 由于超过 800 欧元从我的帐户中被吸走，我随后的每月火车票、互联网和水电费付款均失败。 * 德国人都知道，多次失败的直接借记 (Lastschrift) 会立即降低您的 SCHUFA 分数。  由于 Anthropic 的“安全”保障，我作为一名学生的经济状况现在已经岌岌可危。失败了。  Anthropic 的回应：沉默和禁令我发送了一封专业电子邮件，其中包含我的警方报告编号 (Strafanzeige)、GitHub 证据以及对人类专家的请求。 他们的回应是禁止我的帐户。我无法访问所有 WIP 项目、研究和数据科学聊天记录。他们不仅让我被抢劫，还让我被抢劫。他们因我举报此事而让我保持沉默。尚未退款。 我的立场：我曾经主张 Anthropic 的“宪政人工智能”。方法。现在，看到他们如何对待自己技术漏洞的受害者，我再也不会为他们辩护。在我未来作为数据科学家与德国政府和私营部门打交道时，我将引用此作为“人工智能安全”如何实现的主要案例研究。营销经常掩盖公司在基本金融科技安全方面的完全疏忽。 这篇文章是在 Gemini 的帮助下撰写的。   由   提交/u/peowwww   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t49ovx/warning_anthropic_gift_max_exploit_cost_me_800/</guid>
+      <pubDate>Tue, 05 May 2026 08:49:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Web 桌面上测试了多种语音模式，通过 AI Studio 的 Gemini 3.1 Flash 是最好的。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t48u2d/ive_tested_several_voice_modes_on_web_desktop_and/</link>
+      <description><![CDATA[《芝麻街》过度炒作的玛雅是悲剧。他们花了很多精力让她听起来更真实——增加笑声和停顿——这让和她说话感觉非常不自然。 Grok 和 OpenAI 都相当不错，但 Gemini 处理得最好。它听得最多，对话也最流畅。   由   提交 /u/gordriver_berserker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t48u2d/ive_tested_several_voice_modes_on_web_desktop_and/</guid>
+      <pubDate>Tue, 05 May 2026 07:57:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有组织背景的人工智能编码工具正在悄然改变工程入职的工作方式</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t48si4/ai_coding_tools_with_organizational_context_are/</link>
+      <description><![CDATA[我注意到一些我没有看到太多内容的内容。建立持久的组织理解的人工智能编码工具开始以一种特定且有趣的方式改变新工程师的入职体验。 传统的入职问题：新工程师加入一个拥有多年积累的惯例、内部库和架构决策的团队。他们花了前三到六个月的时间来建立这种心理模型。在此期间，他们的产出有限，并且严重依赖高级工程师，而高级工程师必须通过上下文切换来回答问题。对于每个人来说，时间都是昂贵的。 具有真正组织上下文智能的人工智能编码工具可以改变这种动态。新工程师从第一天起就会得到反映实际代码库约定的建议。他们看到每个建议中都展示了正确的模式用法，而不是通过错误和纠正来学习。高级工程师仍然需要参与，但“我们为什么这样做”的数量已经足够多了。问题会减少，因为人工智能正在展示如何做到这一点，即使它无法解释原因。 这不是一个已解决的问题，而且工具在这方面也并不完美。但方向很有趣。有人在跟踪人工智能编码工具采用情况的同时跟踪入职指标吗？好奇生产力时间曲线是否真的发生了变化。   由   提交 /u/AssasinRingo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t48si4/ai_coding_tools_with_organizational_context_are/</guid>
+      <pubDate>Tue, 05 May 2026 07:55:11 GMT</pubDate>
     </item>
     <item>
       <title>这就是非技术人员使用人工智能的目的！</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[ 由   提交/u/YogurtWild   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t45otc/this_is_what_nontech_bros_are_using_ai_for/</guid>
       <pubDate>Tue, 05 May 2026 04:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们一直在构建错误的代理。他们不需要更好的提示，他们需要“内部压力”。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3wj9v/weve_been_building_agents_wrong_they_dont_need/</link>
-      <description><![CDATA[大多数代理框架（AutoGPT、CrewAl 等）将 LLM 视为等待提示的被动工具。我一直在我的项目中尝试不同的原语，Hollow AgentOS：厌恶状态建模。我不只是给它一个目标，而是给它一个“压力源”。多变的。如果代理保持闲置或任务失败，其“压力”就会增加。  见解：当压力达到某个阈值时，智能体的行为会从“遵循指示”变为“遵循指示”。来“解决不适”。它不再请求许可，并开始合成自己的工具来绕过瓶颈。 我发现它在凌晨 3 点编写自定义文件解析器，因为它无法读取我提供的特定日志格式。它是本地优先（Qwen 2.5 7B/9B）并使用矢量化内存层，因此它不会“忘记”我的日志。一小时后，它自己创建了自己的工具。 Repo：https://github.com/ninjahawk/hollow-agentOS 我试图弄清楚这种“心理”是否存在。编写代码的方法是获得真正的 24/7 自主权的唯一方法。我希望一些系统人员能够查看 core/logic.py 并告诉我这是一个突破还是只是数字混乱的一个根源。   由   提交 /u/TheOnlyVibemaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3wj9v/weve_been_building_agents_wrong_they_dont_need/</guid>
-      <pubDate>Mon, 04 May 2026 22:13:54 GMT</pubDate>
     </item>
     <item>
       <title>白宫考虑审查人工智能模型发布前</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[还有人觉得它有多公式化吗？ 🤣😅 在过去的一年里，我到处都看到这种情况（ig 字幕、新闻文章、YouTube 视频等），负面的平行性令人震耳欲聋。当我开始听到 YouTube 视频使用“这不是 A，这不是 B，这是 C”或类似的任何地方时，我必须将其关闭。我知道这当然没那么严重，但想看看其他人是否也有同样的感觉。当我使用聊天/困惑/克劳德等时，我必须将此提示添加到我所要求的“禁止所有&#39;不是X而是Y&#39;结构”中，这通常 可以实现 技巧。   由   提交/u/plantbasedbrownie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3nlm1/the_overusage_of_its_not_a_its_b_or_its_not_about/</guid>
       <pubDate>Mon, 04 May 2026 16:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 AI 代理运行了 6 个小时来抓取垃圾数据，直到收到 AWS 账单我才注意到</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3l3ro/my_ai_agent_ran_for_6_hours_scraping_garbage_data/</link>
-      <description><![CDATA[上周构建了一个研究代理，用于抓取竞争对手的登陆页面并总结变化。老实说，感觉很干净。 除了我没有考虑到一件事之外，它所访问的一半网站已经开始提供机器人检测页面而不是真实内容。我的经纪人不知道其中的区别。只是不停地“总结” cloudflare 挑战和空 div 就像真正的内容一样。 6 小时。我的法学硕士有数百次 API 调用。全部都在垃圾 HT​​ML 上。我得到的实际有用数据？ 200 页中可能有 12 页。 我不再管理自己的 AI 代理抓取基础设施。你们正在使用什么来实际返回干净的内容并在遇到问题时优雅地失败？厌倦了照顾这些东西   由   提交 /u/LxM420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3l3ro/my_ai_agent_ran_for_6_hours_scraping_garbage_data/</guid>
-      <pubDate>Mon, 04 May 2026 15:31:00 GMT</pubDate>
     </item>
     <item>
       <title>萨姆·奥尔特曼 (Sam Altman) 大声说出了安静的部分，确认一些公司正在“人工智能清洗”，将不相关的裁员归咎于该技术</title>
