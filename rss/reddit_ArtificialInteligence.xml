@@ -4,7 +4,56 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 05 May 2026 13:03:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 19:01:45 GMT</lastBuildDate>
+    <item>
+      <title>SubQ 让我大吃一惊 - 具有次二次注意力的 12M 代币上下文</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4nxcd/subq_just_blew_my_mind_12m_token_context_with/</link>
+      <description><![CDATA[我刚刚看到了这个公告，我真的很兴奋。  SubQ 是第一个使用完全次二次稀疏注意力架构 (SSA) 的法学硕士，具有 1200 万个令牌上下文窗口。 它处理 1M 个令牌的速度比 FlashAttention 快 52 倍，成本不到 Claude Opus 的 5%。  他们说，它只将计算重点放在重要的令牌关系上，这使得长上下文工作方式更加实用和便宜。 这可以完全改变代理编码，处理巨大的代码库、文档和研究，而不会出现分块问题。线性缩放对经济学产生了重大影响。 还有其他人检查过这个吗？   由   提交/u/pretendingMadhav   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4nxcd/subq_just_blew_my_mind_12m_token_context_with/</guid>
+      <pubDate>Tue, 05 May 2026 18:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 遭遇大规模诉讼——出版商称人工智能是在“被盗”书籍上接受训练的</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4mfzn/meta_hit_with_massive_lawsuitpublishers_say_ai/</link>
+      <description><![CDATA[ 由   提交/u/Professional-Web954  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4mfzn/meta_hit_with_massive_lawsuitpublishers_say_ai/</guid>
+      <pubDate>Tue, 05 May 2026 17:34:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Andrej Karpathy 表示，作为一名程序员，他从未感到如此落后。让我们先理解这一点。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4lt8j/andrej_karpathy_said_hes_never_felt_more_behind/</link>
+      <description><![CDATA[他最近演讲中的一些事情让我无法停止思考：  他说 2025 年 12 月是真正的转折点。不是逐步改善。这是一个巨大的改变，代理工作流程突然变得可靠起来。很多人都错过了。 他构建了一个完整的应用程序 (MenuGen) 来显示餐厅菜单项的照片。然后看到有人用多模式人工智能提示解决了同样的问题。用他自己的话来说，他的整个应用程序“不应该存在”。 他将振动编码与他现在所说的代理工程分开。 Vibe 编码为每个人提高了发言权。代理工程是专业人士在不降低质量标准的情况下加快速度的方法。非常不同的事情。 参差不齐的智力问题是真实存在的。可以重构 10 万行代码库的同一模型将告诉您步行 50 米到洗车场洗车。仍然不知道你需要开车去那里。 他最难忘的一句话甚至不是他的。有人告诉他，“你可以外包你的思考，但你不能外包你的理解。”这句话的意思不同。  无论如何，我看了完整的采访并写下了真正让我印象深刻的部分： 您可以在此处阅读。   由   提交 /u/narutomax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4lt8j/andrej_karpathy_said_hes_never_felt_more_behind/</guid>
+      <pubDate>Tue, 05 May 2026 17:13:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Blender 作为 AI 视频生成的布局工具 - 这是完整的工作流程</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4kdxd/i_used_blender_as_a_layout_tool_for_ai_video/</link>
+      <description><![CDATA[想法很简单：不用提示 AI 盲区，而是使用 Blender 来精确控制场景中的内容 — 对象位置、摄像机角度、运动时间。 工作流程：  在 Blender 中构建基本场景（风景、汽车、直升机、道路） — 没有复杂的材质，只需布局 对摄像机和对象进行动画处理使用关键帧 从动画中提取关键帧 将这些帧输入 AI 图像模型，以生成每个镜头的真实感版本 将原始 3D 动画和 AI 图像提供给 Seedance 2（参考视频） Seedance 以电影真实感重建序列  Blender 文件基本上充当导演的预览 - 您控制构图，AI 处理渲染。 X 的其他作品 https://x.com/ModelCollapse38   由   提交 /u/waterarttrkgl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4kdxd/i_used_blender_as_a_layout_tool_for_ai_video/</guid>
+      <pubDate>Tue, 05 May 2026 16:24:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有人是安全的</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4gt9i/no_one_is_safe/</link>
+      <description><![CDATA[ 由   提交 /u/DeliciousGorilla   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4gt9i/no_one_is_safe/</guid>
+      <pubDate>Tue, 05 May 2026 14:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>当工人们担心人工智能时，英伟达的黄仁勋表示人工智能正在“创造大量就业机会”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4f0be/as_workers_worry_about_ai_nvidias_jensen_huang/</link>
+      <description><![CDATA[ 由   提交/u/techzexplore  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4f0be/as_workers_worry_about_ai_nvidias_jensen_huang/</guid>
+      <pubDate>Tue, 05 May 2026 13:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌 DeepMind 员工就军事人工智能交易投票成立工会</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4esxl/google_deepmind_workers_vote_to_unionize_over/</link>
+      <description><![CDATA[“伦敦 Google DeepMind 的员工已投票成立工会，以阻止人工智能实验室向美国和以色列军方提供其技术。”   由   提交 /u/shikizen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4esxl/google_deepmind_workers_vote_to_unionize_over/</guid>
+      <pubDate>Tue, 05 May 2026 13:01:24 GMT</pubDate>
+    </item>
     <item>
       <title>[D] 我开源了一个“社会工程”引擎——因为大公司已经有了一个。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4dlfb/d_i_opensourced_a_social_engineering_engine/</link>
@@ -13,25 +62,11 @@
       <pubDate>Tue, 05 May 2026 12:10:47 GMT</pubDate>
     </item>
     <item>
-      <title>加密货币交易所 Coinbase 将裁员约 14%</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4da8i/crypto_exchange_coinbase_to_cut_about_14_of/</link>
-      <description><![CDATA[ 由   提交/u/talkingatoms  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4da8i/crypto_exchange_coinbase_to_cut_about_14_of/</guid>
-      <pubDate>Tue, 05 May 2026 11:57:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理编码的 10 个教训</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4aapp/10_lessons_for_agentic_coding/</link>
-      <description><![CDATA[ 由   提交 /u/TheOnlyVibemaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4aapp/10_lessons_for_agentic_coding/</guid>
-      <pubDate>Tue, 05 May 2026 09:25:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI时代智性下降的最大问题是自我约束</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4a4cs/the_biggest_issue_with_decreased_intellectualism/</link>
-      <description><![CDATA[我目前正在英国一所优秀大学完成哲学学位，并正在准备围绕语言哲学的期末考试。有一个我不确定的概念，所以要点总结了它，并将其通过我喜欢的聊天机器人发布，该机器人重新总结了它并给出了反驳论点。我原来的想法是正确的，我现在会好好研究一下反驳。 问题是很多学生没有毅力迈出第一步，会直接去X模型要求解释，而且很可能无法理解。 我们也知道模型，尤其是免费的模型，经常会产生幻觉，并且会提供虚假信息。 可悲的是，法学硕士可能是一个很好的工具，和讲师一样。快速澄清答案，但我认为我们没有自我约束能力允许他们这样做。这就是反智主义兴起的地方。这让我对使用法学硕士作为工具感到很糟糕。法学硕士不是福音，我认为你需要对你的学科有很好的理解，才能有效地使用它们作为一种工具。    由   提交 /u/thedeadenddolls   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4a4cs/the_biggest_issue_with_decreased_intellectualism/</guid>
-      <pubDate>Tue, 05 May 2026 09:15:24 GMT</pubDate>
+      <title>让我们记住 AGI 的真正基准（效率很重要）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t4d8fr/lets_remember_the_true_benchmark_for_agi/</link>
+      <description><![CDATA[人类基因组是一个 800MB 的文件，用于构建有意识的机器。  它在 37 万亿个节点上连接了 100 万亿个神经链接，实时修补其代码，仅消耗一个三明治的热量即可运行一台 20 瓦 exaFLOP 超级计算机，并将 215 PB 数据打包到一克中。 生物进化的效率是惊人的。    由   提交 /u/nomadicsamiam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t4d8fr/lets_remember_the_true_benchmark_for_agi/</guid>
+      <pubDate>Tue, 05 May 2026 11:55:04 GMT</pubDate>
     </item>
     <item>
       <title>警告：人为“Gift Max”漏洞花费了我 800 欧元，降低了我的 SCHUFA 分数，并让我被禁止。</title>
@@ -41,32 +76,11 @@
       <pubDate>Tue, 05 May 2026 08:49:47 GMT</pubDate>
     </item>
     <item>
-      <title>具有组织背景的人工智能编码工具正在悄然改变工程入职的工作方式</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t48si4/ai_coding_tools_with_organizational_context_are/</link>
-      <description><![CDATA[我注意到一些我没有看到太多内容的内容。建立持久的组织理解的人工智能编码工具开始以一种特定且有趣的方式改变新工程师的入职体验。 传统的入职问题：新工程师加入一个拥有多年积累的惯例、内部库和架构决策的团队。他们花了前三到六个月的时间来建立这种心理模型。在此期间，他们的产出有限，并且严重依赖高级工程师，而高级工程师必须通过上下文切换来回答问题。对于每个人来说，时间都是昂贵的。 具有真正组织上下文智能的人工智能编码工具可以改变这种动态。新工程师从第一天起就会得到反映实际代码库约定的建议。他们看到每个建议中都展示了正确的模式用法，而不是通过错误和纠正来学习。高级工程师仍然需要参与，但“我们为什么这样做”的数量已经足够多了。问题会减少，因为人工智能正在展示如何做到这一点，即使它无法解释原因。 这不是一个已解决的问题，而且工具在这方面也并不完美。但方向很有趣。有人在跟踪人工智能编码工具采用情况的同时跟踪入职指标吗？好奇生产力时间曲线是否真的发生了变化。   由   提交 /u/AssasinRingo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t48si4/ai_coding_tools_with_organizational_context_are/</guid>
-      <pubDate>Tue, 05 May 2026 07:55:11 GMT</pubDate>
-    </item>
-    <item>
       <title>这就是非技术人员使用人工智能的目的！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t45otc/this_is_what_nontech_bros_are_using_ai_for/</link>
       <description><![CDATA[ 由   提交/u/YogurtWild   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t45otc/this_is_what_nontech_bros_are_using_ai_for/</guid>
       <pubDate>Tue, 05 May 2026 04:59:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宫考虑审查人工智能模型发布前</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3w1l7/white_house_considers_vetting_ai_models_before/</link>
-      <description><![CDATA[ &gt;对人工智能采取不干预态度的特朗普政府现在正在讨论对人工智能实施监督。模型公开之前。  WH 考虑对新的人工智能模型进行预发布审查。触发点：人类的神话。 框架是国家安全。我看到的风险是：没有公布标准（一致性、安全性、能力阈值）的预发布审查在结构上是一种自由裁量权，无论意图如何。同一篇文章指出，五角大楼最近因价值 2 亿美元的合同纠纷而停止使用 Anthropic 的技术，并且 Anthropic 已提起诉讼。选择性杠杆已经开始发挥作用。 这种摩擦不仅仅会影响较小的实验室。它会打击与政府发生合同或政治纠纷的任何实验室，无论规模大小。它还减慢了最需要人工智能的领域（尤其是国防和安全）的采用速度，因为发布时间需要经过政治协商。 竞争力的论点也从另一个角度切入：无论谁在不等待审查的情况下发货，交货时间都会增加。今天，这是中国实验室。   由   提交/u/aspublic  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3w1l7/white_house_considers_vetting_ai_models_before/</guid>
-      <pubDate>Mon, 04 May 2026 21:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>白宫考虑审查人工智能模型发布前</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3s3lk/white_house_considers_vetting_ai_models_before/</link>
-      <description><![CDATA[打扰一下？我们需要特朗普的白宫监督和批准法学硕士，就像我们需要在头上打个洞一样。    由   提交 /u/CackleRooster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3s3lk/white_house_considers_vetting_ai_models_before/</guid>
-      <pubDate>Mon, 04 May 2026 19:33:03 GMT</pubDate>
     </item>
     <item>
       <title>黄仁勋表示，一些首席执行官在谈到人工智能末日警告时有一种“上帝情结”，这可能会造成关键工人的短缺</title>
@@ -81,20 +95,6 @@
       <description><![CDATA[还有人觉得它有多公式化吗？ 🤣😅 在过去的一年里，我到处都看到这种情况（ig 字幕、新闻文章、YouTube 视频等），负面的平行性令人震耳欲聋。当我开始听到 YouTube 视频使用“这不是 A，这不是 B，这是 C”或类似的任何地方时，我必须将其关闭。我知道这当然没那么严重，但想看看其他人是否也有同样的感觉。当我使用聊天/困惑/克劳德等时，我必须将此提示添加到我所要求的“禁止所有&#39;不是X而是Y&#39;结构”中，这通常 可以实现 技巧。   由   提交/u/plantbasedbrownie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3nlm1/the_overusage_of_its_not_a_its_b_or_its_not_about/</guid>
       <pubDate>Mon, 04 May 2026 16:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>萨姆·奥尔特曼 (Sam Altman) 大声说出了安静的部分，确认一些公司正在“人工智能清洗”，将不相关的裁员归咎于该技术</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ktrr/sam_altman_says_the_quiet_part_out_loud/</link>
-      <description><![CDATA[随着关于人工智能对劳动力的真正影响的争论仍在继续，OpenAI 首席执行官 Sam Altman 表示，一些公司在裁员时正在进行“人工智能清洗”，或者错误地将劳动力减少归因于技术的影响。 “我不知道确切的百分比是多少，但有一些人工智能清洗，人们将裁员归咎于人工智能，而他们本来会这样做，然后Altman 在 2 月份的印度人工智能影响峰会上对 CNBC-TV18 表示：“人工智能确实取代了不同类型的工作。” 随着有关该技术对劳动力市场影响的新数据讲述了一个关于该技术如何摧毁人类工作（或者是否尚未触及人类工作）的混乱且不确定的故事，人工智能清洗已经受到关注。例如，美国国家经济研究局 2 月份发布的一项研究发现，在美国、英国、德国和澳大利亚的数千名接受调查的高管中，近 90% 的人表示，自 2022 年末发布 ChatGPT 以来，过去三年人工智能对工作场所就业没有影响。  了解更多：https://fortune.com/article/sam-altman-ai-washing-tech-layoffs/   由   提交/u/fortune  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ktrr/sam_altman_says_the_quiet_part_out_loud/</guid>
-      <pubDate>Mon, 04 May 2026 15:21:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能生成的演员和剧本现在没有资格获得奥斯卡奖</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ivxv/aigenerated_actors_and_scripts_are_now_ineligible/</link>
-      <description><![CDATA[ 由   提交 /u/TryWhistlin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ivxv/aigenerated_actors_and_scripts_are_now_ineligible/</guid>
-      <pubDate>Mon, 04 May 2026 14:12:16 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
