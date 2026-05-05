@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 05 May 2026 01:30:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 05:36:35 GMT</lastBuildDate>
     <item>
       <title>推出 boooooookmarks — 每月 4 美元的链接主页，Pocket 后</title>
       <link>https://feed.indiehackers.world/post/1d5919cead</link>
@@ -28,6 +28,23 @@ MergeWell 已上线并为您的 Next.js 项目做好准备。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/73a80d9214</guid>
       <pubDate>Sun, 03 May 2026 14:04:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>是什么最终让人们尝试我的人工智能营养追踪器</title>
+      <link>https://feed.indiehackers.world/post/f7ccbf2f6c</link>
+      <description><![CDATA[我不断从购买人工智能卡路里应用程序的人们身上学到同样的东西。他们不在乎它使用人工智能。他们想快速了解 4 件事：
+
+比 CalAI 便宜吗？
+真实膳食比干净的演示照片更准确吗？
+它是否每天都有更多有用的功能？
+我可以在付款前进行测试吗？
+
+这促使我更直接地定位 MetricSync。它比 CalAI 更便宜，具有更多功能，努力提高准确性，并提供 3 天免费试用，以便人们可以在自己的饭菜上进行测试。
+很好奇这里是否有其他人看到过基于比较的定位在消费者应用程序中击败了基于功能的定位。
+https://www.metricsync.download
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/f7ccbf2f6c</guid>
+      <pubDate>Sun, 03 May 2026 05:00:15 GMT</pubDate>
     </item>
     <item>
       <title>初创公司不是小企业。</title>
@@ -191,29 +208,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/0b2648c805</guid>
       <pubDate>Thu, 30 Apr 2026 05:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我今天启动了 Product Hunt 并发现了一些不舒服的事情</title>
-      <link>https://feed.indiehackers.world/post/35d871866b</link>
-      <description><![CDATA[人们说 Product Hunt 是关于你的产品
-不是
-与分发有关
-你可以构建一些有用的东西
-你可以获得真实的用户
-您甚至可以获得很好的反馈
-但最终还是看不见
-与此同时，拥有强大网络的产品在早期占据主导地位
-不是因为它们更好
-但因为他们一开始就有动力
-在 3 次发布之后，我开始清楚地看到它：
-产品搜寻不再是“你构建了什么”
-以及有关“谁在前 2 小时内出现”的更多信息
-仍然有价值
-但并非大多数创始人所想的那样
-好奇其他人是如何经历的
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/35d871866b</guid>
-      <pubDate>Wed, 29 Apr 2026 13:51:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

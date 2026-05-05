@@ -4,7 +4,21 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 05 May 2026 01:25:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 05:32:51 GMT</lastBuildDate>
+    <item>
+      <title>我们构建了一个人工智能，可以在生产中做出持续自主的业务决策。八个月的时间里，人们发现了一些令人不安的事情，即当前人工智能判断力实际上崩溃的地方。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t466fu/we_built_an_ai_that_makes_continuous_autonomous/</link>
+      <description><![CDATA[PayWithLocus 是公司。 Locus Founder 就是这样的产品。我们今年早些时候进入了 YCombinator。 Beta 版于 5 月 5 日启动。 该系统自主运行整个业务。店面生成、产品采购、转化优化文案、Google Facebook 和 Instagram 上的持续广告管理、通过 Apollo 生成潜在客户、自动运行冷电子邮件。在无人参与的情况下持续运行。 在生产环境中运行八个月，让我们了解了一些意想不到的自主人工智能决策。 能力不再是瓶颈 个人能力已基本得到解决。撰写可转换的副本。生成看起来合法的店面。做出合理的目标决策。以可接受的利润采购产品。两年前，这些都是雄心勃勃的。现在它们是基线。 瓶颈发生了变化，但我们没有完全预料到它会转移到哪里。 判断差距 系统在预期条件下表现良好。不断出现的失败模式是自信地在他们之外执行错误。没有明显的错误。在检查下游后果之前，确信的错误看起来是正确的。 局部最优的广告支出决策对于业务轨迹来说是全局错误的。短期转化并长期侵蚀品牌信任的文案。考虑到利润合理而忽略供应商可靠性的采购决策表明，人们的权重会有所不同。系统模式会匹配最接近的熟悉情况，而不是推理该情况是否真正熟悉。 这不是能力故障。系统可以完成任务。这是一种元认知失败。该系统缺乏对其自身能力边界的可靠自我了解。 生产中的分配转移问题 实验室评估并不能让您为现实世界业务环境的多样性做好准备。该系统遇到了超出其训练分布的市场条件、供应商情况和平台政策变化，并根据模式匹配做出自信的决策，而不是标记真正的不确定性。 让自主系统知道何时进行模式匹配，何时真正推理新情况，是我们正在研究的最难解决的问题。置信度校准有助于提高输出水平。分布偏移检测有助于输入级别。两者都没有解决潜在的元认知差距。 生产数据实际显示的内容 构建坚实且一致的层。运营层在大多数情况下表现良好，覆盖了大部分生产量。边缘情况的尾部是判断失败的地方，也是后果最严重的地方。 诚实的总结：生产中的自主人工智能判断比我们在正常条件下的预期要好，但在最重要的条件下比我们需要的更糟糕。 这对当前架构意味着什么 我们认为元认知问题在架构上指向与更好的训练数据或改进的不确定性量化不同的东西。系统不仅需要更好的预测，还需要更好的自身预测可靠性模型。这是与能力改进不同的问题，也是当前架构并未明确设计解决的问题。 PayWithLocus 今年进入了 YCombinator。测试版已上线。 100 个免费名额。你保留你所做的一切。 测试版：https://forms.gle/nW7CGN1PNBHgqrBb8 值得讨论的问题：自主系统中的元认知问题是一个需要逐步解决的工程问题，还是需要一种根本不同的架构方法。我们有一个可行的假设。希望听到认真思考这个问题的人们的意见。   由   提交 /u/IAmDreTheKid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t466fu/we_built_an_ai_that_makes_continuous_autonomous/</guid>
+      <pubDate>Tue, 05 May 2026 05:25:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>这就是非技术人员使用人工智能的目的！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t45otc/this_is_what_nontech_bros_are_using_ai_for/</link>
+      <description><![CDATA[ 由   提交/u/YogurtWild   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t45otc/this_is_what_nontech_bros_are_using_ai_for/</guid>
+      <pubDate>Tue, 05 May 2026 04:59:49 GMT</pubDate>
+    </item>
     <item>
       <title>白宫考虑审查人工智能模型发布前</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3wy9a/white_house_considers_vetting_ai_models_before/</link>
@@ -41,13 +55,6 @@
       <pubDate>Mon, 04 May 2026 19:33:03 GMT</pubDate>
     </item>
     <item>
-      <title>AI“意识”？谁在乎！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3qcoq/ai_consciousness_who_cares/</link>
-      <description><![CDATA[我们或多或少都知道法学硕士是如何运作的，对吗？这是一台接受过大量文本训练的语言机器。它预测句子中下一个有意义的单词。非常聪明，极其复杂，但也有点愚蠢。它是一台输出清晰语言甚至“推理”的计算机，但其背后并没有真正的思想。然而我们却用这些机器来做一切事情。我们知道它们并不是真正的“推理”，但我们仍然将它们用于各种应用和决策。有时，愚蠢的机器表现得像个天才。然后它开始听起来敏感，几乎是人类的，就像克劳德人工智能表达伪“情绪状态”一样，突然人们会说：“但它没有意识。它无法真正感受到任何东西。”当然不能。但是，请原谅我……谁在乎呢？我的意思是，它的语言是对思想的模仿，而不是真实的思想，但我们仍然发现它很有用。那么为什么情感语言会有所不同呢？它也可能是一种模拟，但人类仍然会对它做出反应。人们与机器的关系就像有人在那里一样，即使知道不存在。顺便说一句，我们不知道意识是什么。目前我还没有找到一个明确的定义。然而，我认为意识在这里是一个转移注意力的东西。机器不需要意识来产生人类的效果。它只需要充分模仿人类的意识迹象即可做出反应。如果它会嘎嘎叫、有羽毛、会飞，那么从许多实际用途来看，它就是一只鸭子。   由   提交 /u/pizza_alta   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3qcoq/ai_consciousness_who_cares/</guid>
-      <pubDate>Mon, 04 May 2026 18:32:36 GMT</pubDate>
-    </item>
-    <item>
       <title>黄仁勋表示，一些首席执行官在谈到人工智能末日警告时有一种“上帝情结”，这可能会造成关键工人的短缺</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3p0bm/jensen_huang_says_some_ceos_have_a_god_complex/</link>
       <description><![CDATA[Nvidia 首席执行官黄仁勋一直在反驳人工智能将消灭大量劳动力的流行说法，但他也将一些责任归咎于那些自以为无所不知的过于自信的首席执行官。 在本周接受特别竞争研究项目采访时，他表示，虽然人们警告人工智能末日可能会有所帮助，但此类预测会适得其反。 “如果我们说服所有年轻的大学毕业生不要成为软件工程师，而事实证明美国比以往任何时候都需要更多的软件工程师，那是有害的，”黄解释道。 “因此，我们必须注意如何传达这项技术的重要性及其功能。” 人工智能代理的出现使更广泛的用户可以进行编码，同时也允许工程师编写更多的代码。投资者出售了软件公司的股票，担心企业客户会使用人工智能来创建自己的平台。 尽管倡导人工智能的护栏很重要，但他补充说，吓唬人们相信该技术将对人类构成生存威胁，破坏民主或消除 50% 的入门级工作是“荒谬的”。 阅读更多： https://fortune.com/2026/05/02/jensen-huang-nvdia-ceo-god-complex-ai-apocalypse-warnings-shortages-ritic-jobs/   由   提交/u/fortune  [链接] [评论]]]></description>
@@ -81,13 +88,6 @@
       <description><![CDATA[ 由   提交 /u/TryWhistlin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ivxv/aigenerated_actors_and_scripts_are_now_ineligible/</guid>
       <pubDate>Mon, 04 May 2026 14:12:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前人工智能采用的最大瓶颈不是模型。事实上，公司数据一团糟。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ef9e/the_biggest_bottleneck_to_ai_adoption_right_now/</link>
-      <description><![CDATA[每个人都高度关注下一个重大 Claude、Gemini 或 GPT 更新，以及“代理 AI”的承诺。完全自动化我们的工作流程。 但在实际的 B2B 企业世界中，残酷的现实是：您无法在碎片化、无文档记录的数据库之上构建可靠的 AI 代理。 公司需要神奇的 GenAI 解决方案来解决所有增长和运营问题，但他们不想首先花时间清理 SQL 表或修复 Python 中的数据管道。如果你的底层数据结构是垃圾，那么你的大规模人工智能计划只会自信地总结这些垃圾。 人工智能革命的真正英雄不仅仅是及时的工程师；还有。他们是数据分析师，从事着让公司数据能够被这些模型真正读取的乏味工作。   由   提交/u/netcommah  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t3ef9e/the_biggest_bottleneck_to_ai_adoption_right_now/</guid>
-      <pubDate>Mon, 04 May 2026 11:03:54 GMT</pubDate>
     </item>
     <item>
       <title>中国法院裁定人工智能不能取代工人</title>
