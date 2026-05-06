@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 May 2026 08:03:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:55:04 GMT</lastBuildDate>
+    <item>
+      <title>“昨天，您的网站被 486,109 个不同的 IP 地址访问”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t56vzv/yesterday_your_site_was_accessed_from_486109/</link>
+      <description><![CDATA[几周前，我发帖称，我负责管理一个非营利性“业余爱好者”教育网站，该网站的固定收入很少/没有，但正在受到打击。 这里的很多人都提到了我注册的免费 Cloudflare 级别。这绝对有助于控制人工智能机器人。 但是今天早上我从网络主机那里收到了这条消息： “昨天，您的网站被从 486,109 个不同的 IP 地址访问； over the past week it&#39;s been nearly 2.5 million.其中许多只使用了几次，然后就被丢弃了。” 有什么方法可以通过 Cloudflare 进行管理吗？ 已更新 感谢您的所有回复。 They have given me a lot to look at.就查看日志的页面请求而言，其中很多似乎都是由真实网址的一部分组成的长篇伪造的垃圾网址。所以： 真实网址：root/a/b/c 伪造网址：root/a/c/b/b/a/c/a/c/c   由   提交 /u/Confident_Meat2189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t56vzv/yesterday_your_site_was_accessed_from_486109/</guid>
+      <pubDate>Wed, 06 May 2026 08:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>直接从 Claude Design 将您的设计变成真正的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t56mkz/turn_your_design_into_a_real_website_right_from/</link>
+      <description><![CDATA[      构建一些东西，让您可以将设计发布到真实的网站，而无需离开 Claude Design 聊天室。 它是一个名为 teenyapp 的后端层，为每个项目提供一个实时子域、一个部署 API 和内置后端/身份验证/数据库/文件存储。 工作流程：  创建一个 teenyapp 项目 将生成的代理链接粘贴到 Claude Design 中 Claude 使用链接中的说明 + 令牌自动构建和部署站点  现在您可以：在 Claude 中设计 → Claude 部署 → 刷新浏览器 → 迭代。 并非 Claude Design 独有。您可以将 teenyapp 链接放入任何具有互联网连接的代理，例如浏览器中的 claude、claude 代码、codex 等。   由   提交/u/invocal02  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t56mkz/turn_your_design_into_a_real_website_right_from/</guid>
+      <pubDate>Wed, 06 May 2026 08:17:03 GMT</pubDate>
+    </item>
     <item>
       <title>Lerd v1.19，适用于 PHP 和任何容器的本地开发环境，后续发布</title>
       <link>https://www.reddit.com/r/webdev/comments/1t56cav/lerd_v119_local_dev_environment_for_php_and_any/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我记得，在新冠疫情期间，我曾经玩过一款基于浏览器的游戏（我不记得它的名字，但它是一款基于选择的游戏）。这在某种程度上让我有兴趣在未来学习类似的技能。 所以，我最近搜索了一下，早期（现在也是）基于浏览器的游戏非常流行。 所以，请分享你的想法。   由   提交 /u/Kindly_Jump_7642   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t4ogi3/how_to_learn_web_game_development/</guid>
       <pubDate>Tue, 05 May 2026 18:43:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源产品如何生存，比如它们如何处理运营成本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t4o8pv/how_do_open_source_products_survive_like_how_do/</link>
-      <description><![CDATA[我有两个相关问题。 自从我 11 岁时接触维基百科之类的东西以来，我一直对它着迷。很久以后我才知道类似的开源产品，比如kali linux和GitHub以及几个完全免费的软件。 所以我想知道开源是如何在激烈的市场中生存下来的？  最近，我遇到了一些在互联网上托管书籍的作者，其中最著名的是《费曼物理学讲座》。我知道一个机构就像资助一个项目，但将来，我想免费出版一本完全在互联网上托管的书。 在互联网上编写和托管一本书需要哪些知识。谁能给我粗略估计一下所涉及的成本？   由   提交/u/Kindly_Jump_7642   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t4o8pv/how_do_open_source_products_survive_like_how_do/</guid>
-      <pubDate>Tue, 05 May 2026 18:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有想过一首诗要多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t4o6wu/ever_wonder_what_a_poem_costs/</link>
-      <description><![CDATA[      是的，不多... ¯\_(ツ)_/¯   由   提交/u/TreptowerPark  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t4o6wu/ever_wonder_what_a_poem_costs/</guid>
-      <pubDate>Tue, 05 May 2026 18:34:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

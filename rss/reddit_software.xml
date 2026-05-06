@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 06 May 2026 08:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 10:54:24 GMT</lastBuildDate>
+    <item>
+      <title>构建了一个免费的离线 SEM 桌面应用程序 (PLS-SEM + CB-SEM) — 寻找突破它的人</title>
+      <link>https://www.reddit.com/r/software/comments/1t593gk/built_a_free_offline_sem_desktop_app_plssem_cbsem/</link>
+      <description><![CDATA[免责声明：自我推销。    由   提交 /u/Unusual-Radio8382   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t593gk/built_a_free_offline_sem_desktop_app_plssem_cbsem/</guid>
+      <pubDate>Wed, 06 May 2026 10:40:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法挂载 ISO 文件 - 如何从 ISO 文件中提取数据</title>
+      <link>https://www.reddit.com/r/software/comments/1t58r8i/unable_to_mount_iso_file_how_to_extract_data_from/</link>
+      <description><![CDATA[ 由   提交 /u/SophiaBennett-0550   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t58r8i/unable_to_mount_iso_file_how_to_extract_data_from/</guid>
+      <pubDate>Wed, 06 May 2026 10:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[需要反馈] Vorn – 具有重复数据删除和内容可寻址存储功能的本地备份工具。说实话。</title>
+      <link>https://www.reddit.com/r/software/comments/1t57xac/feedback_wanted_vorn_a_local_backup_tool_with/</link>
+      <description><![CDATA[嘿 r/software， 这里是第一篇文章，所以我会保持简短并开门见山：我希望对我一直在构建的项目进行诚实的批评。 Vorn（冗余节点库）是一个我在 Electron + Vue 3 中编写的跨平台桌面备份应用程序。核心思想很简单：每个文件都由其 BLAKE3 哈希 标识，并且仅存储一次 - 即使跨多个会话和备份运行，也不是盲目地复制文件。无论您备份多少次，相同的内容都占用零额外空间。 有几件事令我感到自豪：  自描述格式：每个 .vorn 容器都嵌入自己的元数据（哈希、大小、路径）。如果您丢失了 Vorn 的索引数据库，您仍然可以通过扫描存储来重建所有内容。您的数据永远不会被困住。 原子写入 + WAL：崩溃不会损坏您的备份。 完全离线：没有帐户、没有遥测、没有云。您的数据保留在本地。 恢复中断的运行：从上次中断的地方继续。 从源代码自行构建 - 在 Windows、macOS 或 Linux 上大约需要 5 分钟。  版本为 v0.7.4，AGPL-3.0，目前仅包含源代码。 GitHub：https://github.com/LeonardoCiaccio/Vorn 我真正在寻找的东西：  这个概念是否有趣或者已经被现有工具很好地涵盖了？ 自描述格式的想法有意义还是过度设计？ 任何立即读作“这是”的东西错误的方法”？  我可以接受严厉的反馈——我宁愿现在就听到它，也不愿发布有缺陷的东西。谢谢。   由   提交/u/LeonardoCiaccio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t57xac/feedback_wanted_vorn_a_local_backup_tool_with/</guid>
+      <pubDate>Wed, 06 May 2026 09:34:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个完全在浏览器中运行的批量图像压缩器......需要诚实的反馈</title>
+      <link>https://www.reddit.com/r/software/comments/1t56ktr/built_a_bulk_image_compressor_that_runs_entirely/</link>
+      <description><![CDATA[我一直在开发一个图像工具，想要测试一些不同的东西 - 一切都发生在用户的设备上，而不是将文件上传到服务器。 主要思想：  无需上传（因此无需等待大文件） 使用您的设备电源 -&gt;在更好的机器上速度更快 应该保持质量不变  定位（我认为与大多数工具不同）：  完全客户端（根本没有服务器上传） 可以一次性处理数千个图像（不是典型的 20-50 限制） 性能随您的机器而不是服务器队列而变化 更隐私，因为文件永远不会离开您的设备  我对其进行了压力测试：  3,672 张图片 总大小：~15.75 GB 输出：~797 MB 时间：1 分 45 秒（在我的机器上）  老实说...我期待可见质量损失，但我没有注意到任何明显的东西（也许我错过了一些东西？）。 这是工具： https://ilovecompress.com/image-tools/bulk-image-compressor 我实际上希望人们打破它。 事情我希望得到以下方面的反馈：  它真的能保证质量还是我有偏见？ 低端设备上的性能（这对我来说是一个很大的未知数） UI/UX - 任何令人困惑或烦人的地方？ 它失败的地方（文件限制、崩溃、奇怪的错误等） 这与现有工具相比是否有用？  残酷点。我宁愿听到哪里出了问题，也不愿得到礼貌的反馈。   由   提交 /u/canopyguy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t56ktr/built_a_bulk_image_compressor_that_runs_entirely/</guid>
+      <pubDate>Wed, 06 May 2026 08:14:02 GMT</pubDate>
+    </item>
     <item>
       <title>我如何赋予克劳德真正的长期记忆——以及为什么它存在于 SQL 数据库中</title>
       <link>https://www.reddit.com/r/software/comments/1t55xla/how_i_gave_claude_a_real_longterm_memory_and_why/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>我开发了一个应用程序，用于缓解毫无准备地接受治疗时的焦虑。永久免费，离线运行。</title>
       <link>https://www.reddit.com/r/software/comments/1t55gkh/i_built_an_app_for_the_anxiety_of_walking_into/</link>
-      <description><![CDATA[我不断出现在治疗过程中并保持空白。四十五分钟就过去了。离开时我会感觉自己浪费了它。然后在开车回家的路上，我真正想说的一切都会如潮水般涌来。 我为此构建了 Prelude。 它是一个语音代理，会在您的会议之前与您进行简短的对话，以表达您的实际想法。对话结束后，它会生成一份结构化的简介，您和您的治疗师可以一起浏览。我自己的治疗师说，一旦我们开始使用内裤，治疗效果就会明显改善。 整个过程在设备上运行。没有服务器调用，没有帐户，任何东西都不会离开您的手机。完全离线工作。 永久免费。没有广告，没有应用内购买。将其作为心理健康社区的慈善项目❤️应用商店链接：https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576   由   提交/u/Emojinapp   [link] [评论]]]></description>
+      <description><![CDATA[我不断出现在治疗过程中并保持空白。四十五分钟就过去了。离开时我会感觉自己浪费了它。然后在开车回家的路上，我真正想说的一切都会如潮水般涌来。 我为此构建了 Prelude。 它是一个语音代理，会在您的会议之前与您进行简短的对话，以表达您的实际想法。对话结束后，它会生成一份结构化的简介，您和您的治疗师可以一起浏览。我自己的治疗师说，一旦我们开始使用内裤，治疗效果就会明显改善。 整个过程在设备上运行。没有服务器调用，没有帐户，任何东西都不会离开您的手机。完全离线工作。 永久免费。没有广告，没有应用内购买。将其作为心理健康社区的慈善项目❤️应用商店链接：https://apps.apple.com/us/app/prelude-therapy-prep/id6761587576   由   提交 /u/Emojinapp   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1t55gkh/i_built_an_app_for_the_anxiety_of_walking_into/</guid>
       <pubDate>Wed, 06 May 2026 07:06:32 GMT</pubDate>
     </item>
@@ -57,12 +85,12 @@
     <item>
       <title>诺顿防病毒软件和其他诺顿软件</title>
       <link>https://www.reddit.com/r/software/comments/1t4z2zc/norton_antivirus_and_other_norton_software/</link>
-      <description><![CDATA[诺顿防病毒软件或任何诺顿品牌的软件值得购买吗？  来自同一母公司的没有诺顿品牌的姊妹产品怎么样？比如 Avast Antivirus、Avira、AVG 等品牌？  既然赛门铁克和诺顿不再有任何关系，那么赛门铁克防病毒软件和其他赛门铁克产品会显示什么？   由   提交 /u/Technical_Rich_3080   [链接] [评论]]]></description>
+      <description><![CDATA[诺顿防病毒软件或任何诺顿品牌的软件值得购买吗？  来自同一母公司的没有诺顿品牌的姊妹产品怎么样？比如 Avast Antivirus、Avira、AVG 等品牌？  既然赛门铁克和诺顿不再有关联，那么赛门铁克防病毒软件和其他赛门铁克产品会显示什么？   由   提交 /u/Technical_Rich_3080   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1t4z2zc/norton_antivirus_and_other_norton_software/</guid>
       <pubDate>Wed, 06 May 2026 01:44:28 GMT</pubDate>
     </item>
     <item>
-      <title>为什么没有人谈论 Google Colab，它对于日常生活中的基本工作几乎免费？</title>
+      <title>为什么没有人谈论几乎免费的日常生活基本工作的 Google Colab？</title>
       <link>https://www.reddit.com/r/software/comments/1t4wn93/why_no_one_is_talking_about_google_colab_which_is/</link>
       <description><![CDATA[大约三年来，我一直是 Google Colab 的忠实粉丝，说实话，它的功能令人惊叹。 例如，Fiverr 上的一位客户向我提供了 3500 张图像，并要求我删除所有图像的背景。他想知道我要收多少钱，我报了 200 美元。 他立即下了订单，没有再问任何问题。我告诉他工作会在24小时内完成，并且不会影响图像质量，他同意了。 当我交付订单时，他真的很感动，开始问我是如何做到这么快完成工作的，以及我是否有团队。我告诉他，这就是八年的经验。 实际上，我只是使用免费版本的 ChatGPT 创建了一个 Python 脚本，并在 Google Colab 中运行它。整个任务大约三个小时就完成了。这是脚本，以防有人想使用它： https://github.com/mhamzahashim/bulk-bg-remover 这只是一个示例。你可以用 Google Colab 做无数的事情，我想很多人仍然低估了它的真正威力。 现在你也可以在 Claude Code 中连接 Google Colab 的 MCP，做任何你想做的事情。   由   提交/u/mhamza_hashim   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1t4wn93/why_no_one_is_talking_about_google_colab_which_is/</guid>
@@ -81,34 +109,6 @@
       <description><![CDATA[如果您希望让 Craigslist 变得更好，或者只是在今天重新构建它，您会如何在忠于其根源的同时做到这一点？   由   提交/u/Ok-Conversation-3360   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1t4ua6n/craigslist_20/</guid>
       <pubDate>Tue, 05 May 2026 22:16:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rant - Rogue 首席执行官 vivicodes 绩效仪表板</title>
-      <link>https://www.reddit.com/r/software/comments/1t4sigy/rant_rogue_ceo_vibecodes_performance_dashboard/</link>
-      <description><![CDATA[这家“假设”公司的首席执行官最近开始尝试人工智能，并构建了一个仪表板来衡量工程绩效。结果对整个工程团队来说都是一场噩梦。 度假回来后，我和经理进行了认真的交谈。这位首席执行官偏离了轨道，创建了一个系统来监控 GitHub 活动并根据拉取请求计数等内容对工程师进行排名。他还开始向排行榜上排名最后 10% 的人（即拉取请求数量最少的人）施加压力。 事情还不止于此。仪表板还跟踪代码行，软件工程领域的任何人都知道这是衡量生产力的糟糕方法。这些指标忽略了工程工作的实际发生方式，并造成了很多挫败感。人们在抵制，士气空前低落。 首席执行官不明白的是，你的职位越高，你通常编写的代码就越少。因此，我们的许多顶尖技术领导者的排名都接近排行榜底部。事实上，技术主管是公司中最忙碌的人之一。他们花费大量时间在会议上，连接产品和工程，规划解决方案，审查代码，帮助团队，以及进行系统设计。 现在，他们感到有压力，需要编写更多代码来提高排名。这占用了他们履行真正职责的时间，并产生了错误的激励。他们没有专注于重要的工作，而是被迫关注那些并不重要的数字。 好的一面是，这些人足够重要，他们的担忧不容忽视。他们正在反驳并询问如何在这个系统中衡量规划、设计和指导等工作。 对我来说，我不知道如何处理这种情况。这是我职业生涯中第一次看到这样的绩效衡量方式。与此同时，一些优秀的经理和技术主管正在离开公司。我担心接下来留下来或被录用的人可能只是同意首席执行官的观点，而不是坚持对工程团队有利的做法。 PS；当所有这些发生时，首席技术官正在休假    由   提交/u/Ok-Working306   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t4sigy/rant_rogue_ceo_vibecodes_performance_dashboard/</guid>
-      <pubDate>Tue, 05 May 2026 21:08:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 Mac 菜单栏应用程序，它让我养成了关闭选项卡的习惯：tabshame.com</title>
-      <link>https://www.reddit.com/r/software/comments/1t4rogn/i_built_a_mac_menubar_app_which_created_a_habit/</link>
-      <description><![CDATA[我个人过去经常与太多打开的选项卡作斗争，市场上有一些应用程序和扩展可以将您的选项卡转换为书签、组、列表，但它们错过了一件事，我实际上什至不需要大多数选项卡，这只是我正在对抗的一种瘾。每当我看到它们时，我的大脑就会持续超负荷。  构建这个应用程序，除非您关闭这些选项卡，否则它实际上不会停止羞辱您。    由   提交/u/thetalhatahir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t4rogn/i_built_a_mac_menubar_app_which_created_a_habit/</guid>
-      <pubDate>Tue, 05 May 2026 20:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找高品质的UI界面音效</title>
-      <link>https://www.reddit.com/r/software/comments/1t4reqs/looking_for_high_quality_ui_interface_sound_fx/</link>
-      <description><![CDATA[我正在为我正在从事的项目寻找高质量的 UI 界面声音。这里有人为此使用过任何好的资源或工具吗？无论是付费图书馆还是免费选项，我很想听听什么对您有用。如有任何建议，我们将不胜感激！   由   提交 /u/Francisco_Mlg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t4reqs/looking_for_high_quality_ui_interface_sound_fx/</guid>
-      <pubDate>Tue, 05 May 2026 20:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算机科学一年级学生应该如何克服“学习疲劳”，为未来的网络安全打下坚实的基础？</title>
-      <link>https://www.reddit.com/r/software/comments/1t4psfl/how_should_a_1styear_cs_student_overcome_learning/</link>
-      <description><![CDATA[大家好， 我目前是计算机科学专业一年级的学生，我对自己的学习方向感到非常困惑和不知所措。我的长期目标是攻读网络安全硕士学位，但我正在努力解决如何有效地实现这一目标。 到目前为止我已经尝试过的内容：  初始安全重点：我从 Python、Linux 基础知识和网络基础知识开始。然而，我经常感觉很快就忘记了所学的内容。 “广泛方法”：我认为首先学习底层技术会有帮助，因此我探索了 C、JavaScript、HTML/CSS、API，甚至一些移动开发。 实用平台：我已经在 TryHackMe 上开始了 SOC 分析师路径，以获得更多实践机会。 尽管如此对此，我觉得我只是触及了这些技术的表面（“揭开外壳”），而没有获得深入的功能知识。此外，为了开始自由职业或赚钱，我一直感到学习网络开发辅助技能的压力，这分散了我对核心目标的注意力。   我怎样才能超越“表面水平”？学习并确保我实际上保留了我所学习的技术概念？ 在第一年严格专注于基础 CS（数据结构、操作系统、网络）更好，还是应该继续像 TryHackMe 这样的专业道路？ 如何平衡最终赚取收入（自由职业）的需求，而不完全偏离对网络安全的关注？  感谢您可以分享的任何见解或个人经验！   由   提交 /u/Mysterious-Try-7046   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t4psfl/how_should_a_1styear_cs_student_overcome_learning/</guid>
-      <pubDate>Tue, 05 May 2026 19:29:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
