@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 May 2026 01:25:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 05:48:42 GMT</lastBuildDate>
+    <item>
+      <title>Markdown大师太棒了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t51er7/markdown_master_is_awesome/</link>
+      <description><![CDATA[      使用这个工具大约一个月了，我不得不说它比我预期的要好得多。我厌倦了黑曜石界面，想要使用一个允许直接提交到 github 和 pdf 导出的应用程序，因为我最常使用这两种共享方法。 起初我有点犹豫，因为我没有看到编辑器是什么样子，但我创建了一个帐户并开始将我的 .mds 上传到其中。这次升级也完全值得，价格实惠，而且我获得了我需要的所有功能，包括人工智能聊天，这是一个不错的奖励。 强烈推荐 Markdown Master   由   提交/u/kaliforniagator   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t51er7/markdown_master_is_awesome/</guid>
+      <pubDate>Wed, 06 May 2026 03:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用协议，而不是服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t4yu3h/use_protocols_not_services/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t4yu3h/use_protocols_not_services/</guid>
+      <pubDate>Wed, 06 May 2026 01:33:32 GMT</pubDate>
+    </item>
     <item>
       <title>这里有人成功地将独立构建的 Web 应用程序扩展至“玩具项目”阶段吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1t4yc52/has_anyone_here_successfully_scaled_a_solobuilt/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[我做了一些研究，但似乎没有达成共识。   由   提交 /u/Wise_Stick9613   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t4k8e7/is_it_okay_to_use_userselect_none_on_certain/</guid>
       <pubDate>Tue, 05 May 2026 16:19:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找工作的网络/移动/自动化开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t4js97/web_mobile_automation_developer_looking_for_work/</link>
-      <description><![CDATA[查看我的作品集以供参考   由   提交/u/totororyu  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t4js97/web_mobile_automation_developer_looking_for_work/</guid>
-      <pubDate>Tue, 05 May 2026 16:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们用基本的 switch 语句替换了 LLM 路由器，延迟下降了 80%。我们是否过度设计了代理？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t4j2u7/we_replaced_our_llm_router_with_a_basic_switch/</link>
-      <description><![CDATA[感觉现在每个人都在努力使工作流程的每一步都变得代理化。我们有一个法学硕士根据用户意图决定调用哪个工具。它有效，但速度慢、成本高，并且由于幻觉而随机失败。 上周，我们将其剥离并用传统的确定性路由器替换。 LLM 现在仅用于实际推理步骤。稳定性上的差异是疯狂的。 为什么我们突然尝试使用语言模型来控制流和基础设施？法学硕士非常适合认知任务，但使用它们来处理基本的后端路由似乎是一个巨大的倒退。还有其他人缩减他们的人工智能架构以使其真正为生产做好准备吗？   由   提交 /u/Interesting_Ride2443   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t4j2u7/we_replaced_our_llm_router_with_a_basic_switch/</guid>
-      <pubDate>Tue, 05 May 2026 15:38:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

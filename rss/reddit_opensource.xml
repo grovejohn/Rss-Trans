@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 06 May 2026 01:26:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 05:48:49 GMT</lastBuildDate>
+    <item>
+      <title>Pymetrica，用于架构感知指标的 Python 静态分析工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1t51pvv/pymetrica_a_python_static_analysis_tool_for/</link>
+      <description><![CDATA[大家好！我构建 Pymetrica 已经大约一年了，目前正在寻找推广它的方法，看看它能走多远。 我构建它是因为我觉得缺乏工具来帮助检查项目在复杂性、抽象性、可维护性、耦合性等方面的情况。 Pymetrica 使用 AST 解析 Python 源代码并当前报告：  抽象代码行 循环复杂度 Halstead Volume 类型注释中的原始痴迷 可维护性成本 层不稳定性/耦合  GitHub：https://github.com/JuanJFarina/pymetrica PyPI: https://pypi.org/project/pymetrica/ ReadTheDocs: https://pymetrica.readthedocs.io/en/latest/ 它还可以生成 Mermaid 架构图，并作为预提交钩子或 CI 运行，完全可配置pyproject.toml。 我认为该项目目前已经足够成熟，可以用于一些严肃/专业的项目（我们希望开始将其集成到我现在的公司中，尽管我已经将它用于对不同存储库的个人评估）。 任何关于如何将该项目推向社区的评论、反馈或建议将非常感激！感谢您的阅读！   由   提交 /u/Effective-Total-2312   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1t51pvv/pymetrica_a_python_static_analysis_tool_for/</guid>
+      <pubDate>Wed, 06 May 2026 03:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>应对全球监管和开源：美国 OFAC 制裁</title>
+      <link>https://www.reddit.com/r/opensource/comments/1t51li1/navigating_global_regulations_and_open_source_us/</link>
+      <description><![CDATA[      了解全球法规和开源：美国 OFAC 制裁   由   提交 /u/Submarine_sad   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1t51li1/navigating_global_regulations_and_open_source_us/</guid>
+      <pubDate>Wed, 06 May 2026 03:40:16 GMT</pubDate>
+    </item>
     <item>
       <title>Informity AI — Mac 本地文档聊天，MIT 许可，无云，免费</title>
       <link>https://www.reddit.com/r/opensource/comments/1t4rxsb/informity_ai_local_document_chat_for_mac_mit/</link>
@@ -25,13 +39,6 @@
       <description><![CDATA[当 The Great Suspender 于 2021 年从网上商店下架时（在新所有者发布了包含恶意软件的更新之后），如果您是使用 The Great Suspender 的约 200 万人之一，您可能会体会到突然不信任任何突然出现的替代品的感觉。他们中的大多数请求主机访问权限和一堆与暂停选项卡无关的权限。 所以我构建了自己的。它被称为“睡眠”，正如它所说的那样：当选项卡闲置时，它会用一个轻量级睡眠页面替换它，该页面保存标题、图标和 URL。 Tab 使用零内存和 CPU，直到您单击它或按某个键将其唤醒。这是核心循环。 权限是：选项卡、存储、警报。主机权限是单个域 - 我自己的许可证验证端点，它仅在激活或浏览器启动时触发，而不会在浏览期间触发。整个代码库都在 GitHub 上，没什么可隐藏的。 有一个免费层（最多 10 个暂停选项卡）和一个专业层（4.99 美元，一次性，无需订阅），它消除了限制并添加了批量暂停、域白名单和跨设备设置同步。 我不是想建立一家公司或翻转它，我只是厌倦了购买有用的小工具并加载的 enshitification 循环。垃圾，碎了交回来。这是麻省理工学院许可的，我计划继续维护它。如果你想支持未来的项目，我有一个 ko-fi，因为我想在空闲时间继续这样做，但真的 - 没有压力。 很高兴回答有关它如何工作、为什么我做出特定技术选择或其他任何问题。非常欢迎建设性的批评，特别是来自以前使用过标签吊带并有意见的人。 评论中的链接 从 r/SideProject 交叉发布，如果这很重要   由   提交/u/DingusKahn666   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t4hmro/i_built_a_tab_suspender_to_replace_the_great/</guid>
       <pubDate>Tue, 05 May 2026 14:47:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源倡议和 Eclipse 基金会的开源状态网络研讨会</title>
-      <link>https://www.reddit.com/r/opensource/comments/1t4hek3/state_of_open_source_webinar_with_open_source/</link>
-      <description><![CDATA[大家好 - 分享一个绝佳的机会：开源倡议组织和 Eclipse 基金会正在举办一场关于2026 年开源状况的网络研讨会。开源倡议新任执行董事 Duane O’Brien 将参加讨论。 https://www.openlogic.com/resources/events/webinar/2026-state-of-open-source?region=noam#noam   由   提交/u/Boom21shakalaka  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1t4hek3/state_of_open_source_webinar_with_open_source/</guid>
-      <pubDate>Tue, 05 May 2026 14:39:02 GMT</pubDate>
     </item>
     <item>
       <title>ReactOS 获得统一的安装程序映像和新的存储堆栈</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[      我构建了 DropImg，因为我一直对同样的小工作流程问题感到恼火：我需要一种快速方法来为我的 Markdown 博客上传图像、获取干净的公共 URL、调整图像大小或转换图像需要时，并保持所有内容自托管。 所以我构建了自己的。 DropImg 是一个轻量级的 Docker 优先图像托管应用程序。它有一个 React 前端、一个 Hono API、用于元数据的 SQLite 以及使用 Garage 的 S3 兼容存储。您可以通过从剪贴板拖、放、浏览或粘贴来上传图像。 目前的主要功能是：  使用公共 URL 即时上传图像 Markdown 片段复制 JPG 压缩 PNG 到 JPG 转换 响应式图像变体 删除带有秘密令牌的链接 通过代理服务支持私有 S3 存储桶 包含 Garage 的 Docker Compose 设置  目标不是成为一个庞大的媒体管理器。它旨在成为一个干净、专注的图像托管服务，适合那些想要简单、快速和自托管的人。   由   提交/u/matija2209  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t2pf2e/i_built_dropimg_a_dockerfirst_selfhosted_image/</guid>
       <pubDate>Sun, 03 May 2026 16:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有欧洲制造的开源智能手机可以在美国移动网络上运行？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1t2p556/are_there_any_european_made_open_source/</link>
-      <description><![CDATA[ 由   提交/u/ferriematthew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1t2p556/are_there_any_european_made_open_source/</guid>
-      <pubDate>Sun, 03 May 2026 15:52:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
