@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 06 May 2026 16:22:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 19:16:07 GMT</lastBuildDate>
+    <item>
+      <title>使用 Claude Code + Claude Design 为我的 AI 机构构建了完整的代理 CRM</title>
+      <link>https://www.reddit.com/r/automation/comments/1t5ma2o/built_a_full_agentic_crm_for_my_ai_agency_using/</link>
+      <description><![CDATA[      为客户构建 AI 自动化系统有一段时间了，意识到我自己的操作一团糟。 整个系统都在我的服务器上运行。完全通过 Claude Code 对话构建，无需手动编码。 与使用现成工具相比，我发现构建此程序的有趣之处在于：Claude Code 确实比任何通用 CRM 更能理解您的特定工作流程。它构建的正是您需要的，没有您不需要的。 请听听你们的意见   由   提交/u/Fearless-Ad-238  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t5ma2o/built_a_full_agentic_crm_for_my_ai_agency_using/</guid>
+      <pubDate>Wed, 06 May 2026 18:57:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>大多数开发文档要么读起来很困难，要么写起来很困难。这是我认为需要改变的地方</title>
+      <link>https://www.reddit.com/r/automation/comments/1t5lk2n/most_dev_docs_are_either_hell_to_read_or_hell_to/</link>
+      <description><![CDATA[我已经成为一名开发人员多年并消耗了大量文档。 MDN、Stripe、Vercel、Notion，还有一百个较小的库，其中的文档基本上是某人在网上扔的自述文件，然后就到此为止了。 我还运营一个以开发为中心的 YouTube 频道 (CoderOne)，已经这样做了 8 年多，并将其发展到拥有 11.5 万订阅者，涵盖工具、工作流程和开发人员体验。文档不断出现。这是社区中抱怨最多的主题之一，老实说，这些抱怨是有道理的。 糟糕的文档通常会陷入两种失败模式之一： 1.难以阅读 - 文字墙，没有示例，糟糕的导航，两年内没有人接触过的过时内容，或者只是一种尖叫“我们为自己写的”的氛围。 2.很难编写——设置和维护过程中存在太多摩擦，开发人员根本不这样做。他们发布了该功能，但文档却是空的或陈旧的。多库龙力量强大但很重。 GitBook 还可以，但被锁定了。大多数团队最终都会得到一个半成品的 Notion 页面。 真正的问题不是开发人员不关心文档。他们确实这么做了。他们只是讨厌围绕它的工具，并且是其中的一员，无法忍受阅读糟糕的文档，这只会让我因为文档而想完全放弃该工具。 我开始构建一个开源工具 Doxa .so，这是一个文档模板，它消除了编写方面的摩擦，同时保持用户方面的所有内容干净且可读。很快它将拥有一个与其集成的文档代理，以读取您的源代码和内部 PRD 或文档，并为您编写生产应用程序。  想知道您使用 AI 自动生成或保持最新文档的经验吗？   由   提交 /u/islempenywis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t5lk2n/most_dev_docs_are_either_hell_to_read_or_hell_to/</guid>
+      <pubDate>Wed, 06 May 2026 18:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 n8n 中构建简历定制工作流程时学到的 5 件事</title>
+      <link>https://www.reddit.com/r/automation/comments/1t5i0c0/5_things_i_learned_building_a_cv_tailor_workflow/</link>
+      <description><![CDATA[       由   提交/u/easybits_ai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t5i0c0/5_things_i_learned_building_a_cv_tailor_workflow/</guid>
+      <pubDate>Wed, 06 May 2026 16:30:54 GMT</pubDate>
+    </item>
     <item>
       <title>LLM 和人工智能工作流程以及人工智能自动化的新内容。 （从未编码）Gime 路线图，以便我可以快速学习和实施</title>
       <link>https://www.reddit.com/r/automation/comments/1t5fuw7/new_to_llms_and_ai_workflows_and_ai_automation/</link>
@@ -55,13 +76,6 @@
       <pubDate>Wed, 06 May 2026 04:52:04 GMT</pubDate>
     </item>
     <item>
-      <title>您的实时套利和价值投注新工具，请尝试 OddsFinder.app（免费访问）🚀</title>
-      <link>https://www.reddit.com/r/automation/comments/1t52r3z/your_new_tool_for_live_arbitrage_and_value/</link>
-      <description><![CDATA[大家好👋 一个人刚刚推出了 OddsFinder - 一个为套利和价值投注者构建的平台。虽然还为时尚早，但前景已经非常光明。 现在，他们提供：  2026 年 5 月 18 日之前免费访问 无需付款 已解锁全部功能  您已经可以：  查找实时直播套利、中间、低持有、+EV 比较赔率 + 使用实时分析 跟踪您的资金和赌注 使用计算器模拟不同的场景  平台仍在不断发展，但您可以自由探索一切。 创建免费帐户并 他们也乐于接受反馈，因此，如果您尝试一下，您的意见实际上将有助于塑造产品。   由   提交 /u/Kgwmine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t52r3z/your_new_tool_for_live_arbitrage_and_value/</guid>
-      <pubDate>Wed, 06 May 2026 04:38:00 GMT</pubDate>
-    </item>
-    <item>
       <title>超越机器人流程自动化工具的脆弱脚本</title>
       <link>https://www.reddit.com/r/automation/comments/1t52h03/moving_beyond_brittle_scripts_for_robotic_process/</link>
       <description><![CDATA[我一直在构建自定义 Python 脚本来处理来自没有 API 的旧供应商门户的数据抓取。它工作了一周，然后供应商更改了一个 CSS 类，我的整个管道崩溃了。  我正在寻找更具弹性的机器人流程自动化工具。我需要一些不需要我每个周日晚上都进行 UI 更新的东西。是否有一个平台可以提供 RPA 托管方法，而维护工作并不完全由我承担？   由   提交 /u/Lopside_Comfort_298   [链接] [评论]]]></description>
@@ -69,14 +83,7 @@
       <pubDate>Wed, 06 May 2026 04:23:40 GMT</pubDate>
     </item>
     <item>
-      <title>“每一步”在代理成本令牌跟踪器中的实际含义是什么</title>
-      <link>https://www.reddit.com/r/automation/comments/1t51r5b/what_the_perstep_actually_means_in_agent_cost/</link>
-      <description><![CDATA[       https://preview.redd.it/wyetynskvfzg1.jpg?width=734&amp;format=pjpg&amp;auto=webp&amp;s=06838061358e1eadf0612ff5e078a405390792e0 什么是“每步”？实际上意味着在您的上下文中 当代理运行时，它不会进行一次 API 调用 - 它会进行多次调用。处理财务报告的 CFO 代理可能会执行以下操作： 运行开始 → 步骤 1：“retrieve_data” — 800 个代币 0.004 美元 → 步骤 2：“summarise_report” — 3,200 个代币 $0.016 ← 此处飙升 → 步骤 3：“calculate_ratios” — 600 个代币 $0.003 → 步骤 4：“format_output” — 400 个代币 $0.002 运行结束总计：5,000 $0.025  现在您的跟踪器只能看到 $0.025。按步骤显示，第 2 步是 64% 的成本所在，如果下周翻倍，您就知道该在哪里查找。 usage_events 表有一个 metadata 列 (JSONB)，它是专门为此类扩展构建的。并且跟踪 API 已接受负载中的元数据 字段。    由   提交/u/Realestate_Uno   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t51r5b/what_the_perstep_actually_means_in_agent_cost/</guid>
-      <pubDate>Wed, 06 May 2026 03:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么没有人谈论几乎免费的日常生活基本工作的 Google Colab？</title>
+      <title>为什么没有人谈论 Google Colab，它对于日常生活中的基本工作几乎免费？</title>
       <link>https://www.reddit.com/r/automation/comments/1t4wpys/why_no_one_is_talking_about_google_colab_which_is/</link>
       <description><![CDATA[      大约三年来，我一直是 Google Colab 的忠实粉丝，说实话，它的功能令人惊叹。 例如，Fiverr 上的一位客户向我提供了 3500 张图像，并要求我删除所有图像的背景。他想知道我要收多少钱，我报了 200 美元。 他立即下了订单，没有再问任何问题。我告诉他工作会在24小时内完成，并且不会影响图像质量，他同意了。 当我交付订单时，他真的很感动，开始问我是如何做到这么快完成工作的，以及我是否有团队。我告诉他，这就是八年的经验。 实际上，我只是使用免费版本的 ChatGPT 创建了一个 Python 脚本，并在 Google Colab 中运行它。整个任务大约三个小时就完成了。  这只是一个例子。你可以用 Google Colab 做无数的事情，我想很多人仍然低估了它的真正威力。 现在你也可以在 Claude Code、Codex 中连接 Google Colab 的 MCP，做任何你想做的事情。   由   提交/u/mhamza_hashim   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t4wpys/why_no_one_is_talking_about_google_colab_which_is/</guid>
@@ -95,13 +102,6 @@
       <description><![CDATA[似乎这里几乎每一篇文章都是关于尝试构建一个完全不需手动操作的系统，让您永远不必再碰键盘。我完全明白为什么这很有吸引力，但我不认为自动化适合一切。 我一点也不反对自动化。如果一项任务需要零实际思考，那么脚本或工具就可以完成它。我依靠 n8n 来处理我的 webhooks 并将数据路由到我的 CRM，以及 phantombuster 来进行一些轻型网络抓取。我还通过 Expandi 进行 LinkedIn 推广，这样我就不会整天浪费时间点击“连接”或点赞帖子。添加一些基本的 zapier 流程​​来保持我的电子表格更新，我节省了大量时间。我认为没有理由手动完成这些任务，因为这类任务根本无法从人为操作中获得任何好处。  但是有些事情我断然拒绝自动化。我从来没有自动化我的实际写作，也没有完全自动化我的深入研究。我知道现在有无数的人工智能工具有望抓取网络并编写整个内容日历。我已经尝试过它们，但输出总是毫无生气。我写得更好，研究也很表面。我充其量得到了一些不错的想法，但他们总是需要一些人工智能无法完成的更深入的分析和详细的工作。 如果每个人都只是使用代理来生成完全相同的通用内容，那么没有人能脱颖而出。互联网正在变成与其他机器人交谈的机器人。老实说，我认为未来几年获胜的人将是那些严格使用自动化来买回时间的人。你专门将无聊的事情自动化，这样你就有精力去做实际上需要人脑的手动工作。 讽刺的是，随着自动化变得越来越容易，手动做事开始感觉像是一种竞争优势。   由   提交/u/varnajohn  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t4glko/we_talk_a_lot_about_what_we_automate_what_do_you/</guid>
       <pubDate>Tue, 05 May 2026 14:09:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从 20 多个失败的人工智能自动化项目中学到了什么</title>
-      <link>https://www.reddit.com/r/automation/comments/1t4bzkr/what_i_learned_looking_at_20_failed_ai_automation/</link>
-      <description><![CDATA[在过去的一年里，我做了很多工作流程审核——那些试图用人工智能实现自动化的公司，结果被烧毁了，在再次尝试之前想了解原因。 失败集中在三个地方，与他们选择的模型无关。  在自动化开始之前，工作流程没有记录下来。每一个。团队试图自动化他们尚未规划的流程。人工智能只是以机器速度对现有的混乱进行编码。您无法自动化无法描述的流程。如果您无法在 10 分钟内将其绘制在白板上，那么您还没有准备好添加 AI。 没有评估层。自动化上线后，唯一的反馈信号是“它坏了”。或“看起来不错。”没有人抽查输出。没有人定义什么是正确的。无声错误会持续数周或数月。 500 项日常任务的 3% 幻觉率是指每天有 15 个错误输出 — 如果您不注意，就看不到。 错误的问题首先会被自动化。团队将最响亮的部分自动化，而不是影响最大的部分。首席执行官抱怨报告格式，因此它被自动化了。与此同时，引线布线是一场无人测量的灾难。优先顺序为：错误率×数量×每次错误的成本。安静、重复、高风险的事情几乎总是获胜。  这些都不是硬性修复。绘制流程，定义良好的外观，从第一天开始进行衡量。 您见过的自动化项目出错的最令人惊讶的地方是什么？   由   提交 /u/Alert_Journalist_525   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t4bzkr/what_i_learned_looking_at_20_failed_ai_automation/</guid>
-      <pubDate>Tue, 05 May 2026 10:56:26 GMT</pubDate>
     </item>
     <item>
       <title>什么是从实验开始但后来变成游戏规则改变者的自动化？</title>
