@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 06 May 2026 05:48:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 08:02:56 GMT</lastBuildDate>
     <item>
-      <title>帮助！您是否觉得这个设计太黑暗、令人反感？</title>
-      <link>https://www.reddit.com/r/programming/comments/1t53sql/help_do_you_think_the_design_is_too_dark_and/</link>
-      <description><![CDATA[ 由   提交/u/Hefty_Hope330   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1t53sql/help_do_you_think_the_design_is_too_dark_and/</guid>
-      <pubDate>Wed, 06 May 2026 05:33:02 GMT</pubDate>
+      <title>我为一种玩具语言编写了 Jupyter 内核，以避免重写我的 ML 作业</title>
+      <link>https://www.reddit.com/r/programming/comments/1t565uk/i_wrote_a_jupyter_kernel_for_a_toy_language_to/</link>
+      <description><![CDATA[ 由   提交 /u/scknkkrer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1t565uk/i_wrote_a_jupyter_kernel_for_a_toy_language_to/</guid>
+      <pubDate>Wed, 06 May 2026 07:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>程序员离开 GitHub 的指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1t55pvp/a_programmers_guide_to_leaving_github/</link>
+      <description><![CDATA[自从 sfconservancy.org 于 2022 年向 GiveUpGitHub 发起活动以来（这不仅仅是关于 GH），我很高兴能遇到哪怕是最小众的网站/帖子，帮助人们欣赏自由的自由。请给这个机会，至少达到：  什么是“基于补丁”？代码审查？    由   提交/u/esiy0676  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1t55pvp/a_programmers_guide_to_leaving_github/</guid>
+      <pubDate>Wed, 06 May 2026 07:21:52 GMT</pubDate>
     </item>
     <item>
       <title>“AccountDumpling”：追捕 Google 发送的网络钓鱼浪潮，危害 30,000 多个 Facebook 帐户</title>
@@ -25,20 +32,6 @@
       <description><![CDATA[ 由   提交 /u/User_Deprecated   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1t520id/performance_trick_optimistic_vs_pessimistic_checks/</guid>
       <pubDate>Wed, 06 May 2026 04:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为空间终端工作流程构建了一个桌面应用程序，而不是选项卡和拆分</title>
-      <link>https://www.reddit.com/r/programming/comments/1t50mz2/i_built_a_desktop_app_for_spatial_terminal/</link>
-      <description><![CDATA[ 由   提交/u/_Viral19  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1t50mz2/i_built_a_desktop_app_for_spatial_terminal/</guid>
-      <pubDate>Wed, 06 May 2026 02:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为空间终端工作流程构建了一个桌面应用程序，而不是选项卡和拆分</title>
-      <link>https://www.reddit.com/r/programming/comments/1t50kks/i_built_a_desktop_app_for_spatial_terminal/</link>
-      <description><![CDATA[ 由   提交/u/_Viral19  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1t50kks/i_built_a_desktop_app_for_spatial_terminal/</guid>
-      <pubDate>Wed, 06 May 2026 02:52:33 GMT</pubDate>
     </item>
     <item>
       <title>来自第一原理的 OpenTelemetry 信号</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/kingsaso9  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1t4ctgz/opencl_31_released_to_bolster_ai_hpc_workloads/</guid>
       <pubDate>Tue, 05 May 2026 11:35:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈希存储。将整个文件存储在 URL 哈希中</title>
+      <link>https://www.reddit.com/r/programming/comments/1t4c5q2/hashful_storage_store_your_whole_file_in_the_url/</link>
+      <description><![CDATA[ 由   提交 /u/sousapereira   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1t4c5q2/hashful_storage_store_your_whole_file_in_the_url/</guid>
+      <pubDate>Tue, 05 May 2026 11:04:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
