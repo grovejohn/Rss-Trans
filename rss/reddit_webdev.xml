@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 May 2026 21:53:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 01:31:22 GMT</lastBuildDate>
+    <item>
+      <title>Google 的提示 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t5txfw/googles_prompt_api/</link>
+      <description><![CDATA[       由   提交/u/ValenceTheHuman  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t5txfw/googles_prompt_api/</guid>
+      <pubDate>Wed, 06 May 2026 23:44:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们所有的网络局都在那里！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t5sp3q/all_you_webbureaus_out_there/</link>
+      <description><![CDATA[您最大的运营难题是什么？ 我是一名软件工程师，在过去的半年左右的时间里，我一直在为 webbureaus 构建一个 webbureau 利基 CRM。我知道它解决了我自己运行网络局的问题，但我有兴趣听听您的操作方式，这样我就可以将精力集中在重要的地方，并帮助消除那些占用您时间的障碍！  那么日常操作、客户处理、报价等中的哪一部分最让您烦恼并且可以为您节省最多时间？   由   提交 /u/RobertSkaar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t5sp3q/all_you_webbureaus_out_there/</guid>
+      <pubDate>Wed, 06 May 2026 22:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>formvalidation.io 已关闭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t5sj8p/formvalidationio_has_gone_dark/</link>
+      <description><![CDATA[多年来我一直在使用这个包来进行简单的 js 表单验证。该网站似乎已离线。有人有他们喜欢的替代方案吗？我有最新版本，但我不喜欢使用不受支持的软件包。   由   提交/u/d9jj49f  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t5sj8p/formvalidationio_has_gone_dark/</guid>
+      <pubDate>Wed, 06 May 2026 22:46:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些人工智能技能是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t5scgl/what_are_these_ai_skills/</link>
+      <description><![CDATA[我不断看到有关学习 AI 技能的帖子和帖子...必须磨练这些技能...利用 AI 或落后。  除了推广聊天框和移动所述输出之外，我们还指哪些技能？   由   提交/u/btoned  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t5scgl/what_are_these_ai_skills/</guid>
+      <pubDate>Wed, 06 May 2026 22:38:39 GMT</pubDate>
+    </item>
     <item>
       <title>我开发了一个利用“隐藏城市”定价的航班搜索工具——这是我学到的</title>
       <link>https://www.reddit.com/r/webdev/comments/1t5qoyw/i_built_a_flight_search_tool_that_exploits_hidden/</link>
@@ -71,7 +99,7 @@
     <item>
       <title>我的多列描述列表的解决方案而不破坏</title>
       <link>https://www.reddit.com/r/webdev/comments/1t5k8m6/my_solution_for_a_multicolumn_description_list/</link>
-      <description><![CDATA[ 是否有 CSS 解决方案可以阻止 dd 之间的中断，以便每列始终以 dt 开头？  我遇到了这个问题并提出了这个解决方案：如果 dt 位于奇数位置，请将其及其 dd 放在左侧；如果dt位于偶数位置，则将其及其dd放在右侧。 dl { display: grid;网格自动流：密集；网格模板列：1fr 1fr； } dt:nth-of-type(奇数), dt:nth-of-type(奇数) + dd { 网格列: 1; } dt:nth-of-type(偶数), dt:nth-of-type(偶数) + dd { 网格列: 2; }  唯一的问题是，如果 dd 的字符数大小不同，可能会出现很大的空白。 您觉得怎么样？有更好的办法吗？   由   提交 /u/Wise_Stick9613   [链接] [评论]]]></description>
+      <description><![CDATA[ 是否有 CSS 解决方案可以阻止 dd 之间的中断，以便每列始终以 dt 开头？  我遇到了这个问题并提出了这个解决方案：如果 dt 位于奇数位置，请将其及其 dd 放在左侧；如果dt位于偶数位置，则将其及其dd放在右侧。 dl { display: grid;网格自动流：密集；网格模板列：1fr 1fr； } dt:nth-of-type(奇数), dt:nth-of-type(奇数) + dd { 网格列: 1; } dt:nth-of-type(偶数), dt:nth-of-type(偶数) + dd { 网格列: 2; }  唯一的问题是，如果 dd 的字符数大小不同，可能会出现较大的空白。 您觉得怎么样？有更好的办法吗？   由   提交 /u/Wise_Stick9613   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t5k8m6/my_solution_for_a_multicolumn_description_list/</guid>
       <pubDate>Wed, 06 May 2026 17:46:43 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我正在构建一个想要接受付款的网站。我的目标是每月定期支付少量费用，例如 3 或 4 美元左右。 我对 Stripe API 有一些经验。我想没关系。但他们的费用大概是 2.9% + 0.30 美元。由于我的金额如此之低，所以 0.30 美元是一个问题。 只是对人们使用其他处理器的体验感到好奇。我想要更便宜的东西。一个好的 API 真的很重要。   由   提交/u/NobodyAdmirable6783  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t5hjlj/anyone_have_experience_with_payment_processors/</guid>
       <pubDate>Wed, 06 May 2026 16:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为产品的未来是什么，尤其是那些以移动为先的产品？我有一种强烈的感觉，移动优先的应用程序真的正在消亡。我在手机上看到的应用程序越多，我就越觉得混乱。网络应用程序不断增加并且更容易共享。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t5h5ai/what_do_you_think_is_the_future_of_products/</link>
-      <description><![CDATA[随着高性能 PWA 的兴起和纯粹的“应用疲劳”屏幕上充满了我们几乎不使用的图标，感觉原生移动模式正在慢慢消亡，取而代之的是更加精简、以网络为中心的未来。有没有其他人觉得“有一个应用程序可以做到这一点”？心态正在成为过去的遗迹？   由   提交 /u/Rakesh862   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t5h5ai/what_do_you_think_is_the_future_of_products/</guid>
-      <pubDate>Wed, 06 May 2026 16:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>由没有经验的人使用人工智能从头开始设计网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t5gvl4/designing_a_website_from_scratch_with_ai_by/</link>
-      <description><![CDATA[对于一个没有经验的人来说，A）多快，B）多容易，C）多便宜/便宜（或免费）才能用人工智能创建一个非常基本、漂亮的网站？ D）可以使用哪些人工智能（或其他）工具？   由   提交 /u/Technical_Rich_3080   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t5gvl4/designing_a_website_from_scratch_with_ai_by/</guid>
-      <pubDate>Wed, 06 May 2026 15:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>“面向 Web 开发人员的 Figma”在哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t5givi/where_is_figma_for_web_developers/</link>
-      <description><![CDATA[我认为经常访问 /r/webdev 的人都熟悉 Josh W Comeau 和他的 CSS for JavaScript Developers 课程，该课程对我来说是作为或多或少是网络开发人员在线课程的黄金标准。 Figma 是否存在任何类似的东西？我觉得有几门Piccalilli 课程几乎就在那里，但我认为我在这里更多地考虑了机制，这两门课程更多地是关于围绕设计进行交流的软技能，而不是实际使用 Figma。   由   提交 /u/jbcaprell   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t5givi/where_is_figma_for_web_developers/</guid>
-      <pubDate>Wed, 06 May 2026 15:38:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们说获得软件工程学位......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t5gdyf/get_a_degree_in_software_engineering_they_said/</link>
-      <description><![CDATA[      我的生活到底是什么   由   提交/u/KoenigOne  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t5gdyf/get_a_degree_in_software_engineering_they_said/</guid>
-      <pubDate>Wed, 06 May 2026 15:33:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
