@@ -4,34 +4,20 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 07 May 2026 01:31:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 05:52:52 GMT</lastBuildDate>
     <item>
-      <title>ChatGPT 中的广告</title>
-      <link>https://www.producthunt.com/products/chatgpt</link>
+      <title>明知1.0</title>
+      <link>https://www.producthunt.com/products/knowly-ai</link>
       <description><![CDATA[
-            创建、管理和衡量您的 ChatGPT 广告活动
+            LLM Wiki + NotebookLM，闭环主动式人工智能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/chatgpt</guid>
-      <pubDate>Wed, 06 May 2026 03:17:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发盟友</title>
-      <link>https://www.producthunt.com/products/devally</link>
-      <description><![CDATA[
-            人工智能支持快速交付团队的可访问性合规性 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/devally</guid>
-      <pubDate>Tue, 05 May 2026 22:10:01 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/knowly-ai</guid>
+      <pubDate>Wed, 06 May 2026 04:40:53 GMT</pubDate>
     </item>
     <item>
       <title>坎瓦斯</title>
@@ -46,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/kanwas</guid>
       <pubDate>Tue, 05 May 2026 22:00:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ajelix AI 工作代理</title>
-      <link>https://www.producthunt.com/products/ajelix-ai-excel-tools</link>
-      <description><![CDATA[
-            Google Workspace™ 的第一个真正的代理 AI 侧边栏
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ajelix-ai-excel-tools</guid>
-      <pubDate>Tue, 05 May 2026 18:49:37 GMT</pubDate>
     </item>
     <item>
       <title>该死的线路</title>
@@ -90,6 +62,34 @@
       <pubDate>Tue, 05 May 2026 00:45:48 GMT</pubDate>
     </item>
     <item>
+      <title>校友创始人</title>
+      <link>https://www.producthunt.com/products/alumni-founder</link>
+      <description><![CDATA[
+            为任何公司绘制创始人网络的工具
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/alumni-founder</guid>
+      <pubDate>Mon, 04 May 2026 13:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>点</title>
+      <link>https://www.producthunt.com/products/spotit-3</link>
+      <description><![CDATA[
+            你的光标的导师。适用于每个 Mac 应用程序。 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/spotit-3</guid>
+      <pubDate>Sun, 03 May 2026 14:57:35 GMT</pubDate>
+    </item>
+    <item>
       <title>煤气城1.0</title>
       <link>https://www.producthunt.com/products/gas-city</link>
       <description><![CDATA[
@@ -102,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/gas-city</guid>
       <pubDate>Sat, 02 May 2026 01:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>沃兹代码</title>
-      <link>https://www.producthunt.com/products/wozcode</link>
-      <description><![CDATA[
-            将 Claude Code 成本削减高达 50%
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/wozcode</guid>
-      <pubDate>Fri, 01 May 2026 16:22:31 GMT</pubDate>
     </item>
     <item>
       <title>支付宝</title>
@@ -146,18 +132,18 @@
       <pubDate>Fri, 01 May 2026 06:19:43 GMT</pubDate>
     </item>
     <item>
-      <title>开放金融MCP</title>
-      <link>https://www.producthunt.com/products/open-finance-mcp</link>
+      <title>Databox 的自定义集成</title>
+      <link>https://www.producthunt.com/products/databox</link>
       <description><![CDATA[
-            通过开放金融访问 ChatGPT 和 Claude 中的银行数据
+            无需编写代码即可将丢失的数据导入 Databox
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/open-finance-mcp</guid>
-      <pubDate>Thu, 30 Apr 2026 22:27:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/databox</guid>
+      <pubDate>Tue, 28 Apr 2026 13:11:50 GMT</pubDate>
     </item>
     <item>
       <title>实时 TTS-2</title>
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/superset-5</guid>
       <pubDate>Tue, 21 Apr 2026 16:45:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>陀螺仪自动驾驶仪</title>
+      <link>https://www.producthunt.com/products/gyro-autopilot</link>
+      <description><![CDATA[
+            您的收件箱里可能有数百美元📥
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/gyro-autopilot</guid>
+      <pubDate>Mon, 13 Apr 2026 08:22:55 GMT</pubDate>
     </item>
     <item>
       <title>魔法</title>
