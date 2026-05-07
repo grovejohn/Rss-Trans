@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 07 May 2026 19:21:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 21:43:31 GMT</lastBuildDate>
+    <item>
+      <title>DELIGHT – 自托管人工智能工程自动驾驶仪：本地 LLM + 浏览器农场 + 回购图 + P2P 计算</title>
+      <link>https://www.reddit.com/r/automation/comments/1t6nifc/delight_selfhosted_ai_engineering_autopilot_local/</link>
+      <description><![CDATA[DELIGHT – 自托管 AI 工程自动驾驶仪：本地 LLM + 浏览器农场 + 存储库图 + P2P 计算 TL;DR： 构建本地“AI 代理操作系统”它将您的整个存储库扫描到实时图表（Worm）中，通过 Tor/反检测和 OpenRouter 在本地 Qwen、无头 ChatGPT 浏览器会话之间路由任务 - 所有这些都来自一个控制室。无需云。 Python，反应+GO。稍后部分过渡到 Rust 它的作用：  Worm (Go) - 将存储库扫描到语义图：文件、目录、文档、配置、运行工件 + 边缘（导入、depends_on、patched_by_run）。 LLM sidecar 用摘要/意图/风险/分数注释每个节点 混合路由器 - 按任务类型进行路由：简单 → 本地 Qwen 3.5-9B (~200ms TTFT)，复杂 → OpenRouter (GPT-4o/Claude)，依赖于网络 → BrowserGPT 浏览器农场 (Camoufox + Playwright + Tor) —反检测无头浏览器池，运行具有旋转 IP/指纹的真实 ChatGPT 访客会话。作为隐形人与任何 Web AI 对话 工作区/测试循环 - Orchestrator 将任务分解为 DAG（DOC_ANALYSIS → CODE_ANALYSIS → CODE → TEST → REVIEW → DOCUPDATE），应用补丁，运行测试，将结果反馈到 Worm 图 控制室 UI - React 仪表板：运行、会话、工作流程、Worm 影响图、路由设置、每个计算周期后端 P2P层（路线图） - 节点共享LLM/浏览器/Worm插槽，DAG Ledger跟踪计算，DePIN式经济  为什么不只是OpenHands/Devin：  完全本地化，你的代码永远不会离开你的机器 Repo-first：Worm图知道一切的作用以及补丁的作用在应用之前打破 浏览器群通过直接与网络 AI 对话来绕过 API 限制  状态： 蠕虫内核稳定（真实存储库上有 805 个节点/1636 个边），本地 Qwen 运行，浏览器群工作，控制室 UI 正在进行中。 仍在开发中。该网站将很快发布，并且存储库将开放给任何有兴趣查看代码的人。打开。免费。   由   提交 /u/Bubbly-Phone702   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t6nifc/delight_selfhosted_ai_engineering_autopilot_local/</guid>
+      <pubDate>Thu, 07 May 2026 21:05:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找电子商务自动化建议</title>
+      <link>https://www.reddit.com/r/automation/comments/1t6my8t/looking_for_automation_advice_for_ecommerce/</link>
+      <description><![CDATA[ 由   提交 /u/Fine-Market9841   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1t6my8t/looking_for_automation_advice_for_ecommerce/</guid>
+      <pubDate>Thu, 07 May 2026 20:45:25 GMT</pubDate>
+    </item>
     <item>
       <title>这种 n8n 自动化每天为店主节省 2-3 小时 — 具有 6 条路径和零手动工作的完整 AI 客户服务分类</title>
       <link>https://www.reddit.com/r/automation/comments/1t6iysz/this_n8n_automation_saves_a_store_owner_23_hours/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>现在的技术是否足够好，可以自动化您自己的记账，还是仍然建议使用 Shopify 商店会计师进行电子商务？</title>
       <link>https://www.reddit.com/r/automation/comments/1t6ip76/is_the_tech_good_enough_to_automate_your_own/</link>
-      <description><![CDATA[因此，就上下文而言，我对最新的技术/人工智能工具几乎一无所知，更不用说专门用于簿记的工具了。但我知道我的 Shopify 商店已经到了我应该放弃电子表格以更好地进行跟踪的阶段。我正在权衡我的选择并考虑将其自动化，特别是出于成本和时间原因。但与此同时，我听说过有关人工智能幻觉库存销货成本和缺失状态关联触发器的故事，这让我有点犹豫。 很想知道现在的技术是否足够好，让我考虑研究如何自动化簿记，谢谢。    由   提交 /u/Witty_Ad8333   [链接] [评论]]]></description>
+      <description><![CDATA[因此，就上下文而言，我对最新的技术/人工智能工具几乎一无所知，更不用说专门用于簿记的工具了。但我知道我的 Shopify 商店已经到了我应该放弃电子表格以更好地进行跟踪的阶段。我正在权衡我的选择并考虑将其自动化，特别是出于成本和时间原因。但与此同时，我听说过有关人工智能幻觉库存销货成本和缺少状态关系触发器的故事，这让我有点犹豫。 很想知道现在的技术是否足够好，让我可以考虑研究如何自动化簿记，谢谢。    由   提交 /u/Witty_Ad8333   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t6ip76/is_the_tech_good_enough_to_automate_your_own/</guid>
       <pubDate>Thu, 07 May 2026 18:15:25 GMT</pubDate>
     </item>
@@ -29,7 +43,7 @@
     <item>
       <title>通过 slack +content studio + n8n 自动化我的 linkedin/x/facebook 发帖</title>
       <link>https://www.reddit.com/r/automation/comments/1t6h6o5/automated_my_linkedinxfacebook_posting_through/</link>
-      <description><![CDATA[使用 smm 工具，但仍然习惯在 claude 中编写和准备它们，然后上传到日历 - 仍然需要大量时间，因此经过一些研究和大量拖延，构建了一个 n8n 工作流程，将 who;e 压缩为一条松弛消息 + 简短的评论，到目前为止一切顺利！！ 堆栈： * slack（用于触发和观察） * n8n（编排，自托管-hetzner） * claude api（用于起草） * content studio api（发布+每个平台oauth） * 概念（存档+状态日志，当前用作数据库） 工作原理： （注意：我们仍处于早期阶段，所以复制吗？但是添加您的风格，我们有改进的空间）  我在 #posts-drafts 中发布了一条消息，例如主题：我如何看待 rag eval / 语气：技术 / 图像：是 Slack 触发器节点触发 n8n webhook，解析主题 + 标记 带有结构化提示的 claude 调用会返回 3 个平台特定草稿，如 json，例如 -  { “linkedin”：“1500–2000 个字符，长格式”， “twitter”：“under 280，punchy”， “facebook”： “150–300 个字符，会话式” }  如果图像：是，则 openai 图像节点运行并返回 URL slack 将 3 个草稿作为带有批准或编辑按钮的线程预览返回 批准时，n8n 分成三个并行分支并点击 POST /workspaces/{id}/contentstudio 上的帖子，如果适用，请使用正确的帐户 ID 和图像 然后该概念会记录文本、平台、scheduled_at 和返回的 post_id  这里，为什么我要制作 3 个不同的草稿而不是一个共享帖子，因为字符限制是显而易见的，但这里更大的问题是语气。就像一个压缩到 280 个字符的 linkedin 帖子在 twitter/x 中听起来像是机器人的声音。一个 claude 调用可以处理所有 3 个内容，所以很好 发布方面：contentstudio 只需要一个 api key header 和一个 json body...scheduling.publish_type 要么是published要么scheduled。对于预定的帖子，我传递了 Scheduled_at 时间戳。平台 oauth 在调度程序内的连接步骤中完成一次，因此 n8n 永远不会直接接触平台 构建期间处理的障碍：  api 期望 YYYY-MM-DD，n8n 默认日期格式会抛出 400 秒。在发布节点之前需要一个格式日期节点 workspace_id 必须位于 URL 路径中，而不是正文 帐户 ID 表达式变为红色，直到我将其指向 get-social-accounts 响应中的确切字段  结果：  一天 5 分钟 vs 之前 20-30 分钟 节奏从 3-4 次/周每日 一致性 - 维护  每日内容与批处理..所以这个评论很常见&gt;为什么不按月/周等与每天进行批处理。我的看法是，这实际上取决于您所在的利基市场以及您总体上正在做的事情 对于某些行业，每周或每月工作，但如果您想保持新鲜感，或者必须分享定期更新等内容。每天进行是最好的路线。 或者您可以每周分批处理 3 天，持续一个月左右，然后有 1 或 2 天的时间但无论如何，这完全取决于您以及哪种系统最适合您的用例。  很高兴看到任何建议，或回答问题。    由   提交 /u/TangeloOk9486   [链接] [评论]]]></description>
+      <description><![CDATA[使用 smm 工具，但仍然习惯在 claude 中编写和准备它们，然后上传到日历 - 仍然需要大量时间，因此经过一些研究和大量拖延，构建了一个 n8n 工作流程，将 who;e 压缩为一条松弛消息 + 简短的评论，到目前为止一切顺利！！ 堆栈： * slack（用于触发和观察） * n8n（编排，自托管-hetzner） * claude api（用于起草） * content studio api（发布+每个平台oauth） * 概念（存档+状态日志，当前用作数据库） 工作原理： （注意：我们仍处于早期阶段，所以复制吗？但是添加您的风格，我们有改进的空间）  我在 #posts-drafts 中发布了一条消息，例如主题：我如何看待 rag eval / 语气：技术 / 图像：是 Slack 触发器节点触发 n8n webhook，解析主题 + 标记 带有结构化提示的 claude 调用会返回 3 个平台特定草稿，如 json，例如 -  { “linkedin”：“1500–2000 个字符，长格式”， “twitter”：“under 280，punchy”， “facebook”： “150–300 个字符，会话式” }  如果图像：是，则 openai 图像节点运行并返回 URL slack 将 3 个草稿作为带有批准或编辑按钮的线程预览返回 批准时，n8n 分成三个并行分支并点击 POST /workspaces/{id}/contentstudio 上的帖子，如果适用，请使用正确的帐户 ID 和图像 然后该概念会记录文本、平台、scheduled_at 和返回的 post_id  这里，为什么我要制作 3 个不同的草稿而不是一个共享帖子，因为字符限制是显而易见的，但这里更大的问题是语气。就像一个压缩到 280 个字符的 linkedin 帖子在 twitter/x 中听起来像是机器人的声音。一个 claude 调用可以处理所有 3 个内容，所以很好 发布方面：contentstudio 只需要一个 api key header 和一个 json body...scheduling.publish_type 要么是published要么scheduled。对于预定的帖子，我传递了 Scheduled_at 时间戳。平台 oauth 在调度程序内的连接步骤中完成一次，因此 n8n 永远不会直接接触平台 构建期间处理的障碍：  api 期望 YYYY-MM-DD，n8n 默认日期格式会抛出 400 秒。在发布节点之前需要一个格式日期节点 workspace_id 必须位于 URL 路径中，而不是正文 帐户 ID 表达式变为红色，直到我将其指向 get-social-accounts 响应中的确切字段  结果：  一天 5 分钟 vs 之前 20-30 分钟 节奏从每周 3-4 次每日 一致性 - 维护  每日内容与批处理..所以这个评论很常见&gt;为什么不按月/周等与每天进行批处理。我的看法是，这实际上取决于您所在的利基市场以及您总体上正在做的事情 对于某些行业，每周或每月工作，但如果您想保持新鲜感，或者必须分享定期更新等内容。每天进行是最好的路线。 或者您可以每周分批处理 3 天，持续一个月左右，然后有 1 或 2 天的时间但无论如何，这完全取决于您以及哪种系统最适合您的用例。  很高兴看到任何建议，或回答问题。    由   提交 /u/TangeloOk9486   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t6h6o5/automated_my_linkedinxfacebook_posting_through/</guid>
       <pubDate>Thu, 07 May 2026 17:23:38 GMT</pubDate>
     </item>
@@ -41,25 +55,11 @@
       <pubDate>Thu, 07 May 2026 17:01:30 GMT</pubDate>
     </item>
     <item>
-      <title>如何在 n8n 中优化数据提取和文档分类管道</title>
-      <link>https://www.reddit.com/r/automation/comments/1t6f4fq/how_i_optimize_my_data_extraction_and_document/</link>
-      <description><![CDATA[       由   提交/u/easybits_ai   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t6f4fq/how_i_optimize_my_data_extraction_and_document/</guid>
-      <pubDate>Thu, 07 May 2026 16:11:22 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能代理真的有用吗，还是我们还在照顾它们？</title>
       <link>https://www.reddit.com/r/automation/comments/1t6e4id/are_ai_agents_actually_useful_yet_or_are_we_still/</link>
       <description><![CDATA[人工智能自动化似乎正在进入一个新阶段。 一年前，大多数人都在使用人工智能来写作、总结或回答问题。现在，越来越多的工具正在转向能够跨应用程序、工作流程和业务系统实际采取行动的代理。 但我仍然不确定困难的部分是“人工智能可以完成任务吗？” 更困难的问题是：  我可以相信它的决定吗？ 它使用了正确的上下文吗？ 我能明白它为什么采取行动吗？ 如果它更新了错了？  对我来说，目前最好的自动化并不是完全自主的。它们是受控制的：人工智能草稿、路线、总结和建议——但人类仍然批准冒险的行为。 您是否在实际工作流程中使用人工智能代理，或者它们仍然感觉像是您需要照顾的东西？   由   提交 /u/Alpertayfur   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t6e4id/are_ai_agents_actually_useful_yet_or_are_we_still/</guid>
       <pubDate>Thu, 07 May 2026 15:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>这太疯狂了......</title>
-      <link>https://www.reddit.com/r/automation/comments/1t6e013/this_is_insane/</link>
-      <description><![CDATA[       由   提交/u/DetectiveMindless652   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t6e013/this_is_insane/</guid>
-      <pubDate>Thu, 07 May 2026 15:32:21 GMT</pubDate>
     </item>
     <item>
       <title>我用运行我的企业银行账户的人工智能代理取代了我的虚拟助理</title>
