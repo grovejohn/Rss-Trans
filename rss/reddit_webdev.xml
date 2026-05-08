@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 08 May 2026 01:34:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:13:53 GMT</lastBuildDate>
+    <item>
+      <title>如何确定api url结构？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t6xyep/how_to_decide_api_url_structure/</link>
+      <description><![CDATA[大家好，我需要帮助。我正在发布一个公共货币化 API。以及应该如何构建 url。 ```/v1/property?fields=risk.bushfire,market.sale_price /v1/property/risk?fields=bushfire /v1/property/risk/bushfire``` 问题是。如果他们想要承担所有风险，则必须单独提出请求。计划是让我自己的网站也使用相同的 api。因此，而不只是 1 db 查询发送所有风险。它将有 5 个查询。如何最好地构建它。对于一个完整的房产报告来说，这将是大量的 API 调用。    由   提交/u/Concient_Tutor_597   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t6xyep/how_to_decide_api_url_structure/</guid>
+      <pubDate>Fri, 08 May 2026 04:55:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能网站构建工具的快速民意调查。对于年度计划、预付款还是每月计划？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t6wqsw/quick_poll_for_ai_website_builder_tools_for/</link>
+      <description><![CDATA[A.前期 B.每月   由   提交/u/Readdyai-official  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t6wqsw/quick_poll_for_ai_website_builder_tools_for/</guid>
+      <pubDate>Fri, 08 May 2026 03:53:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人尝试过使用 mise + aube 进行 Node/web 项目吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t6wlef/has_anyone_tried_mise_aube_for_nodeweb_projects/</link>
+      <description><![CDATA[有人在实际项目中使用过 mise + aube 吗？ 我很好奇但持怀疑态度。 mise 非常适合用作版本管理器。 aube 表示，它是一个嵌入式包管理器，可以读取现有的锁定文件，并声称热安装比 pnpm/bun 快 7 倍，重复测试运行比 pnpm 快 26 倍。我不太关心基准测试 - 我想知道日常工作流程是否真正有效。 这个想法是：更少的手动设置，更少的 Node 版本错误，自动安装依赖项的脚本，更安全的生命周期脚本默认值，并且您可以在不切换整个团队的情况下尝试它。它真的更好，还是只是在 pnpm/npm/bun 已经做的事情之上的另一层？ Mise 仓库：https://github.com/jdx/mise Aube 仓库：https://github.com/endevco/aube   由   提交 /u/IISomeOneII   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t6wlef/has_anyone_tried_mise_aube_for_nodeweb_projects/</guid>
+      <pubDate>Fri, 08 May 2026 03:45:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于带回家作业的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t6tyb7/question_on_take_home_assignment/</link>
+      <description><![CDATA[有 24 小时提交高级前端角色的作业，但招聘人员是 OOO，工程团队已经克隆了存储库，有一些想法可以使其更好，我应该在明天之前在不同的分支中进行更改，然后向团队发送电子邮件还是直接放弃？有人有过类似的经验吗？   由   提交 /u/shakingbaking101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t6tyb7/question_on_take_home_assignment/</guid>
+      <pubDate>Fri, 08 May 2026 01:40:06 GMT</pubDate>
+    </item>
     <item>
       <title>chrome 开发工具变慢了还是只有我这样？</title>
       <link>https://www.reddit.com/r/webdev/comments/1t6tb1h/has_chrome_dev_tools_become_slow_or_is_it_just_me/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[所以，我工作的公司大约一个月前找到了一位新客户，最近（不知道为什么事先没有提到这一点）他们有国际员工将使用我们的网络应用程序，并且希望以他们选择的语言使用它。  这一切都很好，大多数（如果不是全部）现代浏览器都可以自动/手动更改浏览器上显示的语言，但是该公司表示，浏览器中的内置翻译由于缺乏更好的词而无法“工作”……我猜他们翻译得不准确？我只会说英语，所以我无法真正证明它有多准确。 所以我有两个问题：  以前有人提出过这样的请求吗？ 你是如何处理的/你会如何处理？   Stack 是 ASP Web Forms NET Framework 4.8 （我知道，我们好像落后了 10 年……） 提前干杯：）    由   提交/u/LukeMartin17  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t6jcn3/translation_services/</guid>
       <pubDate>Thu, 07 May 2026 18:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将一堆图像和动画部署为网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t6ij1k/how_to_deploy_a_bunch_of_images_and_animation_as/</link>
-      <description><![CDATA[我正在寻找可以部署我的绘图和动画以供其他人查看的东西。有哪些可能的选择？我知道 GitHub Pages，但我猜它不允许直接上传图像。有哪些免费的替代品？  我不确定Wordpress是否允许某人发布动画，否则我就没有必要寻找这个。 如果你知道，请告诉我 谢谢，祝你有美好的一天。   由   提交/u/Kindly_Jump_7642   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t6ij1k/how_to_deploy_a_bunch_of_images_and_animation_as/</guid>
-      <pubDate>Thu, 07 May 2026 18:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gitlab 托管、Web 托管和全栈托管的正确路径是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t6id56/the_right_path_for_gitlab_hosting_web_hosting_and/</link>
-      <description><![CDATA[您好！我最近一直在研究应该使用什么解决方案来托管我的网站。我将为自己的博客创建 1 个网站，将来我将为自己的公司托管一个网站（这两个网站都是静态的） 根据我迄今为止的研究，我托管（和更新）我的网站的方法是在数字海洋（或 Hetzner）上使用某种 Linux 发行版托管一个 gitlab 环境。如果您对我应该选择哪个 Linux 发行版进行研究有任何建议，请告诉我。由于我自己的原因，我自行托管 gitlab。 托管 gitlab 环境后，我使用 Cloudflare 提取我对 gitlab 所做的任何提交，以尽快更新页面。这是某些人使用的正常过程吗？我应该有什么顾虑吗？ 我有最后一个问题 - 如果我想将来托管一个全栈网站，您通常会使用 Cloudflare 作为前端并使用 digital ocean 来托管后端吗？我对此很陌生，所以我仍在尝试掌握它的样子。谢谢！   由   提交/u/_-Julian-  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t6id56/the_right_path_for_gitlab_hosting_web_hosting_and/</guid>
-      <pubDate>Thu, 07 May 2026 18:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Laravel 中构建了一个自托管的 Postman 替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t6i9vf/built_a_selfhosted_postman_alternative_in_laravel/</link>
-      <description><![CDATA[大家好， 我已经使用 Postman 多年了，不想按月付费。因此，我为我和我的团队构建了 Freeman 一个基于 Web 的 REST API 客户端，该客户端在您自己的服务器上运行。也想与大家分享。 这是一个标准的 Laravel 应用程序，默认为 SQLite，没有 Node.js，没有构建步骤。 支持集合、变量、选项卡、文件上传、Bearer/Basic/API 密钥身份验证，并可以导入您现有的 Postman 集合。 它完全免费，并获得 MIT 许可。我还在开发具有环境切换和实时团队协作功能的专业版，但免费版本涵盖了完整的测试工作流程。 希望得到任何反馈、错误报告，或者只是想知道这是否可以解决您遇到的问题。 网站 Github   由   提交/u/udittC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t6i9vf/built_a_selfhosted_postman_alternative_in_laravel/</guid>
-      <pubDate>Thu, 07 May 2026 18:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>PostHog 检测到我们的大部分用户来自俄勒冈州博德曼。知道这是什么吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t6hup6/posthog_is_detecting_massive_percentage_of_our/</link>
-      <description><![CDATA[您好，我们有一个基于订阅的 Web 应用程序，拥有大约 2 万用户。我正在集成地理定位服务，我注意到其中大约 3000 名用户来自这个城市。其余用户分布正常。 Boardman是一座总人口约5000人的城市，而且我们并没有针对俄勒冈州投放广告，而且该城市之外来自俄勒冈州的用户数量很少。  此位置的流量异常。我很好奇为什么我们有很多来自这个城市的用户。其中许多用户都有亚洲和西班牙名字。  我的怀疑集中在 3 个地方： 1- PostHog 大致估计了加利福尼亚州用户到该城市的位置，但话又说回来，PostHog 正确地识别了来自加利福尼亚州的正确用户。 2- 当 PostHog 无法识别用户的位置时，它会默认使用此位置。 3- 这可能是免费 VPN 首选的位置。  我正在研究最后的原因，但想听听您的见解，也许您以前也有过类似的观察结果。   由   提交/u/iAhMedZz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t6hup6/posthog_is_detecting_massive_percentage_of_our/</guid>
-      <pubDate>Thu, 07 May 2026 17:46:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
