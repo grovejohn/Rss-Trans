@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 May 2026 19:02:37 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 21:49:06 GMT</lastBuildDate>
     <item>
       <title>上个月我第一次为开源做出贡献，维护者非常好</title>
       <link>https://www.reddit.com/r/opensource/comments/1t7fx4d/i_contributed_to_open_source_for_the_first_time/</link>
-      <description><![CDATA[一直在使用开源，但从未做出贡献。冒名顶替综合症，不知道从哪里开始。上个月，我最终决定改变这一点 在一个项目中使用 Spectrum“它是来自 Photon 的开源 TypeScript sdk，将 AI 代理连接到 IMESSAGE 以及 Whatsapp 和 Discord。遇到了一个小问题，附件处理的 TypeScript 类型略有错误 在特定的边缘情况下 我实际上没有解决它，而是提出了一个问题。一位维护人员在几小时内回复了。没有只需告诉我 修复它......引导我了解代码库结构，以便我了解在哪里进行更改。提交 PR，一轮审查，合并 令我惊讶的是：近距离观察商业开源项目的运作方式。他们为专用 消息线和企业功能付费。收入为开源核心提供资金。经典的开放核心模型，但看到它实际工作与阅读 从那以后，我感觉我实际上不仅仅是作为参与者来了解开源 消费者 TL;DR：对 Spectrum（消息传递 SDK）的第一个开源贡献，维护者带我浏览了代码库， 发现开放核心模型实际上在实践中有效，现在是一个定期贡献者  /u/ScaryAd2555   [链接] [评论]]]></description>
+      <description><![CDATA[一直在使用开源，但从未做出贡献。冒名顶替综合症，不知道从哪里开始。上个月，我最终决定改变这一点 在一个项目中使用 Spectrum“它是来自 Photon 的开源 TypeScript sdk，将 AI 代理连接到 IMESSAGE 以及 Whatsapp 和 Discord。遇到了一个小问题，附件处理的 TypeScript 类型略有错误 在特定的边缘情况下 我实际上没有解决它，而是提出了一个问题。一位维护人员在几小时内回复了。没有只需告诉我 修复它......引导我了解代码库结构，以便我了解在哪里进行更改。提交 PR，一轮审查，合并 令我惊讶的是：近距离观察商业开源项目的运作方式。他们为专用 消息线和企业功能付费。收入为开源核心提供资金。经典的开放核心模型，但看到它实际工作与阅读 从那以后，我感觉我真正了解开源，而不仅仅是作为参与者 消费者 TL;DR：对 Spectrum（消息传递 SDK）的第一个开源贡献，维护者带我浏览了代码库， 发现开放核心模型实际上在实践中有效，现在是一个定期贡献者  /u/ScaryAd2555   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t7fx4d/i_contributed_to_open_source_for_the_first_time/</guid>
       <pubDate>Fri, 08 May 2026 18:11:39 GMT</pubDate>
     </item>
@@ -18,6 +18,13 @@
       <description><![CDATA[在 Mac 上，当您有多个显示器时，每次在显示器之间移动鼠标时，您都必须单击最后一个窗口才能获得焦点。这将自动聚焦最后一个窗口，以便您始终专注于您上次在该显示器上使用的窗口。 它节省了一次点击！没有它就活不下去😂！ Github：https://github.com/javalight/AutoFocusMonitor 这是免费且开源的，我不会从中赚钱。   由   提交 /u/Practical_Figure9759   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t7frt8/mac_focus_last_window_when_switching_monitors/</guid>
       <pubDate>Fri, 08 May 2026 18:06:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skopx — 具有 50 多个数据连接器的人工智能分析平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1t7fq8h/skopx_ai_analytics_platform_with_50_data/</link>
+      <description><![CDATA[       由   提交 /u/1vim   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1t7fq8h/skopx_ai_analytics_platform_with_50_data/</guid>
+      <pubDate>Fri, 08 May 2026 18:04:59 GMT</pubDate>
     </item>
     <item>
       <title>有类似开源有声读物存储库的东西吗？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/opensourceinitiative   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t5hz8e/osi_is_proud_to_join_github_and_a_global/</guid>
       <pubDate>Wed, 06 May 2026 16:29:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开始为开源 DevOps 或系统管理项目做出贡献？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1t5h3j6/how_do_i_start_contributing_to_open_source_devops/</link>
-      <description><![CDATA[我担任 Linux 系统管理员已经有一段时间了。我想开始为开源项目做出贡献，但不仅仅是通过应用程序代码。我对从系统管理员/DevOps 角度做出贡献特别感兴趣。 我很想听听已经在这样做的其他人的意见：  您是如何开始作为系统管理员/DevOps 工程师做出贡献的？ 是否有特定类型的项目对基础设施/运维贡献更开放？ 您如何识别真正属于 DevOps/sysadmin 域的存储库？  有什么建议可以在不深入参与核心代码库的情况下做出有意义的贡献吗？ 此外，如果您维护或参与任何欢迎 DevOps/sysadmin 贡献的项目，我非常感谢您的建议。   由   提交 /u/broken_py   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1t5h3j6/how_do_i_start_contributing_to_open_source_devops/</guid>
-      <pubDate>Wed, 06 May 2026 15:59:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
