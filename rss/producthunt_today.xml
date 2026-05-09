@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 08 May 2026 21:49:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 01:31:34 GMT</lastBuildDate>
     <item>
       <title>代码豪</title>
       <link>https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/kodhau-senior-context-for-ai-agents</guid>
       <pubDate>Fri, 08 May 2026 06:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>库库：开源</title>
+      <link>https://www.producthunt.com/products/kuku</link>
+      <description><![CDATA[
+            每个人工智能的开源本地第二大脑
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/kuku</guid>
+      <pubDate>Fri, 08 May 2026 06:52:29 GMT</pubDate>
     </item>
     <item>
       <title>小黄人</title>
@@ -34,18 +48,18 @@
       <pubDate>Fri, 08 May 2026 02:58:13 GMT</pubDate>
     </item>
     <item>
-      <title>超级岛</title>
-      <link>https://www.producthunt.com/products/superisland</link>
+      <title>空间</title>
+      <link>https://www.producthunt.com/products/illospace</link>
       <description><![CDATA[
-            带有扩展的 macOS 动态岛
+            团队和代理一起工作的生活空间
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/superisland</guid>
-      <pubDate>Thu, 07 May 2026 22:55:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/illospace</guid>
+      <pubDate>Thu, 07 May 2026 23:38:55 GMT</pubDate>
     </item>
     <item>
       <title>森德利</title>
@@ -62,6 +76,34 @@
       <pubDate>Thu, 07 May 2026 22:55:21 GMT</pubDate>
     </item>
     <item>
+      <title>控制</title>
+      <link>https://www.producthunt.com/products/contral</link>
+      <description><![CDATA[
+            在您构建时进行教学的代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/contral</guid>
+      <pubDate>Thu, 07 May 2026 19:47:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>瑞菲</title>
+      <link>https://www.producthunt.com/products/reefy</link>
+      <description><![CDATA[
+            将任何 PC 变成私人 AI 机器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/reefy</guid>
+      <pubDate>Thu, 07 May 2026 16:57:11 GMT</pubDate>
+    </item>
+    <item>
       <title>发光岛</title>
       <link>https://www.producthunt.com/products/glowisland-evolve-your-mac-s-notch</link>
       <description><![CDATA[
@@ -76,46 +118,18 @@
       <pubDate>Thu, 07 May 2026 14:48:58 GMT</pubDate>
     </item>
     <item>
-      <title>迷你最大集线器</title>
-      <link>https://www.producthunt.com/products/minimax</link>
+      <title>推文</title>
+      <link>https://www.producthunt.com/products/tweetmonials</link>
       <description><![CDATA[
-            具有代理驱动的视觉画布的桌面人工智能工作站
+            将 X 赞扬转化为推荐和信任信号
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/minimax</guid>
-      <pubDate>Thu, 07 May 2026 11:21:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>斯威夫特克鲁特</title>
-      <link>https://www.producthunt.com/products/swiftcruit</link>
-      <description><![CDATA[
-            聘请懂得如何使用人工智能编码的工程师
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/swiftcruit</guid>
-      <pubDate>Thu, 07 May 2026 07:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>BNA代码</title>
-      <link>https://www.producthunt.com/products/bna-code</link>
-      <description><![CDATA[
-            从终端构建全栈移动应用程序的 CLI 代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/bna-code</guid>
-      <pubDate>Thu, 07 May 2026 03:59:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/tweetmonials</guid>
+      <pubDate>Thu, 07 May 2026 10:45:48 GMT</pubDate>
     </item>
     <item>
       <title>照片炸弹</title>
@@ -132,60 +146,32 @@
       <pubDate>Wed, 06 May 2026 15:06:59 GMT</pubDate>
     </item>
     <item>
-      <title>流畅的框架</title>
-      <link>https://www.producthunt.com/products/fluent-frame</link>
+      <title>芬兰语</title>
+      <link>https://www.producthunt.com/products/finlingo</link>
       <description><![CDATA[
-            发布精美产品视频的速度与发布功能的速度一样快
+            你自己的人工智能首席财务官，自动监控你的资金
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/fluent-frame</guid>
-      <pubDate>Wed, 06 May 2026 14:22:45 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/finlingo</guid>
+      <pubDate>Tue, 05 May 2026 22:46:48 GMT</pubDate>
     </item>
     <item>
-      <title>光标党</title>
-      <link>https://www.producthunt.com/products/cursor-party</link>
+      <title>Kipps.AI 收件箱</title>
+      <link>https://www.producthunt.com/products/kipps-ai</link>
       <description><![CDATA[
-            实时多人游戏光标并在任何 URL 上聊天
+            停止摆弄应用程序。开始关闭线索。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/cursor-party</guid>
-      <pubDate>Wed, 06 May 2026 13:45:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们买</title>
-      <link>https://www.producthunt.com/products/dereference-the-100x-ide</link>
-      <description><![CDATA[
-            Agentic Wispr 流计算机使用代理生活在你的水平
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dereference-the-100x-ide</guid>
-      <pubDate>Wed, 06 May 2026 12:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>耀斑</title>
-      <link>https://www.producthunt.com/products/flare-9</link>
-      <description><![CDATA[
-            面向 Z 世代的人工智能原生语音优先社交应用
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/flare-9</guid>
-      <pubDate>Tue, 05 May 2026 14:38:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/kipps-ai</guid>
+      <pubDate>Tue, 05 May 2026 06:00:27 GMT</pubDate>
     </item>
     <item>
       <title>11创意流程</title>
@@ -202,18 +188,32 @@
       <pubDate>Fri, 01 May 2026 10:54:52 GMT</pubDate>
     </item>
     <item>
-      <title>排名点</title>
-      <link>https://www.producthunt.com/products/rankspot</link>
+      <title>基准</title>
+      <link>https://www.producthunt.com/products/are-you-beeing-spreaded</link>
       <description><![CDATA[
-            由深度竞争对手情报驱动的人工智能 SEO 博客
+            上传金融科技提案并查看价格是否公平
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/rankspot</guid>
-      <pubDate>Mon, 20 Apr 2026 18:52:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/are-you-beeing-spreaded</guid>
+      <pubDate>Thu, 30 Apr 2026 22:44:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>苏格拉底</title>
+      <link>https://www.producthunt.com/products/socrati-learn-with-ai</link>
+      <description><![CDATA[
+            来自任何来源的个人知识播客
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/socrati-learn-with-ai</guid>
+      <pubDate>Tue, 14 Apr 2026 13:48:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
