@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 May 2026 05:40:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 07:31:17 GMT</lastBuildDate>
+    <item>
+      <title>Wakatime 包裹但更凉爽</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t7xxl2/wakatime_wrapped_but_cooler/</link>
+      <description><![CDATA[      用我自己的 2025 年数据进行测试 自己尝试一下： https://pabloarbelo.com/content/JSexperiments/wakatime-wrapped/index.html 源代码： https://github.com/sp-droid/wakatime-wrapped MIT 许可证 它还可以让您下载 PNG 格式的无背景摘要卡。这是一个简短的 3 个文件 html、js 和 css 项目，是我在本周工作时使用 AI 完成的。如果您对新卡有想法，修改现有卡...创建一个问题来讨论它。 最终卡示例：  https://preview.redd.it/v19n9l9zc20h1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=30950b099b5e6965539d709e1c641a65ffa207dc   由   提交/u/Budget-Kelsier   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t7xxl2/wakatime_wrapped_but_cooler/</guid>
+      <pubDate>Sat, 09 May 2026 07:22:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试免费部署我的全栈项目，只是为了学习并从本地主机上获取它 😭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t7xp6a/im_trying_to_deploy_my_full_stack_project_for/</link>
+      <description><![CDATA[我真的对部署感到困惑，只是希望我的项目不再只生活在本地主机上 😭 现在我有：  前端 后端 数据库  我想了解的主要内容：  前端的最佳免费托管选项，后端和数据库？ 哪些免费层实际上可用并且没有超级限制？ 后端 + 数据库可以免费部署在一起吗？ 如果前端和后端托管在不同的服务器上（例如分别为 vercel 和 render），我如何连接它们  非常感谢初学者友好的建议。   由   提交 /u/SoilEducational420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t7xp6a/im_trying_to_deploy_my_full_stack_project_for/</guid>
+      <pubDate>Sat, 09 May 2026 07:09:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个交互式 MediaPipe Face Mesh Explorer，包含所有 478 个地标和实时悬停检查</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t7xl65/built_an_interactive_mediapipe_face_mesh_explorer/</link>
+      <description><![CDATA[      我最近一直在使用 MediaPipe 面部跟踪进行大量工作，但一直无法跟踪哪个标志索引映射到面部的哪个部分。不断在文档和代码之间切换，因此我构建了一个免费的交互式浏览器，让您可以通过网络摄像头直接在自己的脸上检查所有 478 个地标。 您可以将鼠标悬停在任意点上以查看其索引，按区域（眼睛、鼻子、嘴巴等）进行过滤，冻结框架以方便检查，并复制坐标。一切都通过 MediaPipe Tasks Vision 和 Canvas API 在客户端运行。  人脸网格地标浏览器演示 好奇其他使用人脸跟踪的人如何处理地标查找。您使用静态参考图像还是其他东西？这样的工具有用吗？    由   提交/u/met-Sander   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t7xl65/built_an_interactive_mediapipe_face_mesh_explorer/</guid>
+      <pubDate>Sat, 09 May 2026 07:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字营销网站应使用什么技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t7xhcg/what_technology_to_use_for_a_digital_marketing/</link>
+      <description><![CDATA[嗨，redditors， 我要制作一个数字营销机构的网站并将其托管在 Hostinger 上，然后我将对其进行 SEO。但我不确定这项技术，我得到的建议很少，比如使用 Astro 或 API……我唯一关心的是速度和更好地进行 SEO 的能力。那么 Astro 真的值得还是我应该使用其他东西？ 感谢您阅读到这里，期待您的回复。    由   提交/u/BugHunter404  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t7xhcg/what_technology_to_use_for_a_digital_marketing/</guid>
+      <pubDate>Sat, 09 May 2026 06:58:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 35k 个荒谬的产品名称构建了 API、CLI 和 faker.js 插件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t7wl4z/built_an_api_cli_and_fakerjs_plugin_for_35k/</link>
+      <description><![CDATA[      构建这个是为了好玩，它很有吸引力，所以我把它变成了一个合适的 API。 它是什么：35,000 多个手工策划的 AI 生成的产品（名称、描述、AI 图像、23 个类别）。一年来收集的所有奇怪的东西。 你实际上可以用它构建什么：  派对/琐事游戏项目生成器 创意写作/头脑风暴工具 荒诞占位符数据（比 Lorem Ipsum 更有趣） 游戏商店/库存名称生成器 每日小部件“每日产品”  ​ curl https://anycrap.shop/api/v1/products/random \ -H &quot;授权：持有者 YOUR_KEY&quot;还作为 CLI 和 faker.js 插件提供： npx anycrap random -c food npx anycrap search “underwater” const anycrap = createAnycrapFaker(faker); anycrap.productName()  免费密钥，即时，60 个请求/分钟，包含 CORS，提供 OpenAPI 规范。  完整参考：https://anycrap.shop/developers  如果您想要原始 126k 行用于 ML/训练，也可以使用 HuggingFace 数据集。   由   提交/u/kafk3d  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t7wl4z/built_an_api_cli_and_fakerjs_plugin_for_35k/</guid>
+      <pubDate>Sat, 09 May 2026 06:08:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我收集的用户体验和人工智能产品设计技能我自己经常使用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t7wja0/my_collection_of_ux_and_ai_product_design_skills/</link>
+      <description><![CDATA[       由   提交/u/nicepro  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t7wja0/my_collection_of_ux_and_ai_product_design_skills/</guid>
+      <pubDate>Sat, 09 May 2026 06:05:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有更简单的方法来管理跨不同云的开发环境？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1t7wgh5/is_there_any_easier_way_to_manage_dev/</link>
+      <description><![CDATA[说实话，我现在正在为此苦苦挣扎。每次我尝试使用不同的云提供商时，我都觉得我必须重新学习所有不同的 UI、不同的设置步骤、不同的配置。这真的很令人沮丧，尤其是当我只想让某些东西快速运行时。 也许我把事情变得过于复杂了，但感觉这不应该这么难。您只是坚持使用一个提供商还是实际上有更好的工作流程？   由   提交 /u/Ill-Refrigerator9653   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1t7wgh5/is_there_any_easier_way_to_manage_dev/</guid>
+      <pubDate>Sat, 09 May 2026 06:01:47 GMT</pubDate>
+    </item>
     <item>
       <title>免费代码片段画布工具</title>
       <link>https://www.reddit.com/r/webdev/comments/1t7w1ax/free_code_snippet_canvas_tool/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[朋友们大家好，在我的业务中，我处理大约 1000 万分钟的音频到文本，这对于 API 来说是相当昂贵的。我目前正在使用 Groq 和 Orchardrun，它们是最便宜的，但如果您知道任何替代方案，那就太好了。   由   提交 /u/SmoothConnection1670   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t7oheg/which_speechtotext_api_do_you_recommend/</guid>
       <pubDate>Fri, 08 May 2026 23:38:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Next.js 构建了一个离线优先、兼容 Anki 的抽认卡 PWA。开源并寻找贡献者</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t7n9w6/i_built_an_offlinefirst_ankicompatible_flashcard/</link>
-      <description><![CDATA[      我一直在构建供自己使用的业余项目，该项目比我计划的要完整得多。我多年来大量使用 Anki 和忆术家。当 Memrise 在 2023 年删除社区平台时，我完全转向 Anki，但错过了交互式问题类型，因此我在两者之间构建了一些东西。 堆栈：Next.js 15、TypeScript、Tailwind、Dexie (IndexedDB)、用于云同步的 MongoDB + GridFS。 有趣的技术部分：  通过 Service Worker 提供全面的离线支持。在没有 App Store 的 iOS Safari 上安装。 .apkg 导入：解压缩文件，读取嵌入式 SQLite 数据库，将卡、媒体和调度状态提取到 IndexedDB 使用 SHA-256 进行跨用户套组重复数据删除。如果两个用户上传相同的 .apkg，则 GridFS 中只会存储一份副本 引用计数媒体删除，因此共享文件永远不会被删除，而另一个用户持有引用 SM-2 启发的调度程序，具有可配置的步骤和失效处理  实时链接是我的个人实例。任何人都可以克隆该存储库并运行自己的存储库，指向自己的 MongoDB，所有内容都在 README 中。 该存储库是开源的 (MIT)，并且如果有人愿意贡献，已经准备好第一个问题。像灯光模式、卡片动画、键盘快捷键和 Playwright 的 E2E 测试都在等待。 Repo：github.com/CalicheOrozco/caliche-cards Live（我的个人实例）：caliche-cards.vercel.app   由   提交/u/BeneficialEnd4126  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t7n9w6/i_built_an_offlinefirst_ankicompatible_flashcard/</guid>
-      <pubDate>Fri, 08 May 2026 22:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何使 Notion 可以离线使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t7ml24/how_we_made_notion_available_offline/</link>
-      <description><![CDATA[   /u/fagnerbrack  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t7ml24/how_we_made_notion_available_offline/</guid>
-      <pubDate>Fri, 08 May 2026 22:19:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>很高兴知道苹果关心用户体验......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t7m3w0/good_to_know_that_apple_cares_about_user/</link>
-      <description><![CDATA[      他们有没有考虑过这种液态玻璃BS的可访问性后果？从各方面来看，这都是一场 UI/UX 灾难。   由   提交/u/linepup-design  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t7m3w0/good_to_know_that_apple_cares_about_user/</guid>
-      <pubDate>Fri, 08 May 2026 22:00:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>图片托管500GB</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t7lpyb/image_hosting_500gb/</link>
-      <description><![CDATA[我使用 Nuxt 作为前端，使用 Directus 作为后端。正在考虑使用 Cloudflare R2 来处理图像，但仍在考虑其他选项。这个网站会有很多静态图片，500GB应该足够了。 对提供商有什么建议吗？希望降低成本，因此我不确定是否有更好的选择。   由   提交/u/avidrunner84  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t7lpyb/image_hosting_500gb/</guid>
-      <pubDate>Fri, 08 May 2026 21:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>从你的经验来看。使用人工智能后，你的工作量是减少了、增加了还是均匀了？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t7ibrm/from_your_exp_do_you_work_less_more_or_evenly/</link>
-      <description><![CDATA[      我听说一些远程工作的开发人员，他们可以更快地关闭工单，并有更多的时间冷静下来，只要工作按时完成，他们的公司就不会进行微观管理。    由   提交/u/lune-soft  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t7ibrm/from_your_exp_do_you_work_less_more_or_evenly/</guid>
-      <pubDate>Fri, 08 May 2026 19:38:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>足球网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t7i2us/football_websites/</link>
-      <description><![CDATA[实时比分在 2026 年仍然有意义吗？ 在一位朋友提到他在世界杯之前一直在开发足球比分网站后，我一直在思考这个问题。 我什至不想讨厌它，我只是不再完全了解用例。 我认识的大多数人要么直接直播比赛，要么只是关注 Twitter/X 上的实时更新过去，每个人都会在比赛期间打开 Flashscore 或类似的应用程序，尤其是在学校或工作场所。当时感觉很重要，但现在感觉事情已经发生了很大变化。 我告诉他这可能有点过时，但他坚持认为仍然有需求。 真的很好奇——实时比分网站仍然是人们积极使用的东西，还是那个空间已经被取代了？   由   提交 /u/Calm_Flower4933   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t7i2us/football_websites/</guid>
-      <pubDate>Fri, 08 May 2026 19:29:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助并高度赞赏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t7g7j8/help_needed_and_highly_appreciated/</link>
-      <description><![CDATA[实际上，我正在为我的大学的一个小项目创建一个 WebIDE，并且需要一些用于代码生成的 API，你们可以建议我一些免费使用的平台，该平台可以为我的项目提供 API。还请建议一些模型。 我目前正在使用 Llama-3.3-70B-Versatile，因为它在 grok 中的免费层非常慷慨，但问题是该模型生成的代码非常幼稚和基本，所以请帮助我。   由   提交/u/Denkybhaiya  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t7g7j8/help_needed_and_highly_appreciated/</guid>
-      <pubDate>Fri, 08 May 2026 18:21:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
