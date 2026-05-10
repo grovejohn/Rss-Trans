@@ -4,13 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 09 May 2026 21:33:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 01:32:16 GMT</lastBuildDate>
     <item>
-      <title>开发商薪资问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1t8naq1/developer_salary_problem/</link>
-      <description><![CDATA[我是一名开发人员，我知道由于当前的劳动力市场，普通开发人员（不是专业开发人员，他们像一些汽车驱动程序、引擎、着色器或微控制器一样从事枯燥的数学工作）的工资上限非常低。找工作非常困难，因为有太多人愿意“为了经验”而工作。  但我经常听说有人用一个汉堡包的价格推出了一款初创应用程序，解决了 10 万人的问题，现在为他们的余生赚取收入。 我想知道这些人是否提出了自己的想法，或者他们是否从其他地方复制了他们的想法？如果他们正在抄袭他们的想法，那么他们在哪里？毕竟，有一些想法，例如“一个网络应用程序，可以显示谁在美国拥有土地。”来吧，我什么都没有。我没有任何“富人的问题”。我永远不会想到这样的事情。我所有的问题都太平凡、太普通，而且我没有任何问题是别人用他们的酷启动解决不了的。但客观地说，如果你不解决这些问题，它们仍然存在，并且它们有可能通过订阅系统产生一些收入。但问题是，是否有可能在不成为其中一部分的情况下了解它们？没有遇到他们？  有人知道如何找到对某人有用的项目创意吗？   由   提交 /u/ZeroThreads   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1t8naq1/developer_salary_problem/</guid>
-      <pubDate>Sat, 09 May 2026 21:14:59 GMT</pubDate>
+      <title>反对基于查询的编译器</title>
+      <link>https://www.reddit.com/r/programming/comments/1t8oq9k/against_query_based_compilers/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1t8oq9k/against_query_based_compilers/</guid>
+      <pubDate>Sat, 09 May 2026 22:13:54 GMT</pubDate>
     </item>
     <item>
       <title>Bun 从 Zig 重写为 Rust 通过了 99.8% 的测试套件</title>
@@ -25,13 +25,6 @@
       <description><![CDATA[ 由   提交 /u/Affectionate_Dot442   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1t8m67e/zig_016_reinvented_async_io_that_sidesteps/</guid>
       <pubDate>Sat, 09 May 2026 20:47:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个动画工具——希望得到反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1t8iifa/made_an_animation_tool_would_love_feedback/</link>
-      <description><![CDATA[ 由   提交/u/ObligationUnlikely42  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1t8iifa/made_an_animation_tool_would_love_feedback/</guid>
-      <pubDate>Sat, 09 May 2026 19:59:38 GMT</pubDate>
     </item>
     <item>
       <title>JavaScript 在 ES2015 中指定了尾部调用优化。大多数引擎从未实现过它，并且您的尾递归代码仍然可能会破坏堆栈。</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交 /u/CircumspectCapybara   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1t7it4t/mozilla_behind_the_scenes_hardening_firefox/</guid>
       <pubDate>Fri, 08 May 2026 19:56:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的入职是一种欺凌仪式，你称之为敏捷</title>
+      <link>https://www.reddit.com/r/programming/comments/1t7bxls/your_onboarding_is_a_hazing_ritual_and_you_call/</link>
+      <description><![CDATA[ 由   提交/u/ImTheRealDh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1t7bxls/your_onboarding_is_a_hazing_ritual_and_you_call/</guid>
+      <pubDate>Fri, 08 May 2026 15:51:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
