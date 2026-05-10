@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 10 May 2026 10:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 12:48:39 GMT</lastBuildDate>
+    <item>
+      <title>Block Block - 在 No-JS 模式下阻止用户恶意 CSS 的 Firefox 扩展</title>
+      <link>https://www.reddit.com/r/opensource/comments/1t95do2/block_block_firefox_extension_that_blocks/</link>
+      <description><![CDATA[所以我构建了一个浏览器扩展，因为我对各种注入恶意 CSS 的新闻网站感到恼火，这些 CSS 使网页内容“不可滚动”。或“不可检查的” （例如禁止右键单击和其他事件捕获器）。 即使您在默认禁用 JS 模式下使用 uBlock Origin，有时也会发生这种情况，因为它们直接使用 HTML 属性或使用 CSS 覆盖来阻止您使用“下面的内容”这些层。 长话短说，我想我可以与其他人分享这个，以防其他人对到处注入 CSS 覆盖层的同类网站感到恼火，并试图强迫您接受他们的 cookie。 链接到 Firefox 扩展：https://addons.mozilla.org/en-US/firefox/addon/block-block/ 存储库链接：https://github.com/cookiengineer/block-block 如果您想使用直接源代码并且您不信任捆绑的 XPI 插件，您可以使用 about:debugging#/runtime/this-firefox 选项卡来执行此操作。 ~Cheers   由   提交 /u/cookiengineer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1t95do2/block_block_firefox_extension_that_blocks/</guid>
+      <pubDate>Sun, 10 May 2026 12:16:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 编码代理的可观察性和评估</title>
+      <link>https://www.reddit.com/r/opensource/comments/1t94fm8/observability_and_evaluation_for_ai_coding_agents/</link>
+      <description><![CDATA[大家好，我正在寻求有关 AI 编码代理的开源可观测性和评估平台的贡献者和反馈。 我们刚刚在 GitHub 上获得了 30k 克隆和 1k star！ 请访问 https://github.com/BlazeUp-AI/Observal 请留下您对该项目的想法并发表评论，以便我可以与您分享不和谐链接！   由   提交/u/haze4202  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1t94fm8/observability_and_evaluation_for_ai_coding_agents/</guid>
+      <pubDate>Sun, 10 May 2026 11:30:30 GMT</pubDate>
+    </item>
     <item>
       <title>LyteNyte Grid 2.1 输出：表达式、AI 技能和更多免费功能</title>
       <link>https://www.reddit.com/r/opensource/comments/1t904dk/lytenyte_grid_21_out_expressions_ai_skills_and/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[分享我一直在维护的一个小库：render-tag。 它需要一个 HTML 字符串 + CSS，运行布局，并使用纯 2D API 调用将结果绘制到 HTML5 画布上。没有 DOM 插入，没有 SVG foreignObject，没有无头浏览器。 它有意将范围限定为富文本 - 段落、标题、列表、表格、内联样式，而不是“渲染任何网页”。这种权衡使其变得快速且一致。我构建它的用例是基于画布的设计编辑器和图像导出，但它可以在您想要画布上文本的任何地方工作，而无需常见的跨浏览器漂移。 盒子里有什么：  TypeScript，无运行时 DOM 依赖 CSS 解析器 + 级联/特异性解析器 布局引擎（处理换行、列表、表格、内联格式） HiDPI /视网膜感知 渲染到新画布、现有画布或 2D 上下文。甚至尝试渲染为 PDF 上下文 - 也可能在那里工作。  Repo（包含使用示例和 API 文档）：https://github.com/polotno-project/render-tag 如果有人好奇，很乐意回答有关设计选择或布局/CSS 内部结构的问题。   由   提交/u/lavrton  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1t6nqc7/rendertag_opensource_mit_library_for_rendering/</guid>
       <pubDate>Thu, 07 May 2026 21:14:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望为开源软件项目做出贡献的设计师（UI/UX）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1t6ebbc/designer_uiux_looking_to_contribute_to_open/</link>
-      <description><![CDATA[嘿，我一直在浏览这个子中的帖子，似乎有些项目可能会从一些设计帮助中受益。 我手头有一些额外的时间，也许到今年夏天结束，我想帮忙。开发者工具是我最喜欢的项目类型，但我也很乐意研究其他东西。 注意：如果您想就您的项目与我联系，请先在此帖子中发帖，并在 DMing 之前向我提供您的用例概述，以便我确定您不是机器人或更糟。 更新 (08/05/2026) 我会接听的目前最多可处理 3 个项目。更重要的是，我无法给予他们应有的关注。   由   提交 /u/throtawaycakewrap   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1t6ebbc/designer_uiux_looking_to_contribute_to_open/</guid>
-      <pubDate>Thu, 07 May 2026 15:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>openclaw 可以安全地用于您的真实电子邮件和业务数据吗</title>
-      <link>https://www.reddit.com/r/opensource/comments/1t631fy/is_openclaw_safe_to_use_with_your_real_email_and/</link>
-      <description><![CDATA[真的不确定，无法找到明确的答案。 我想让我的 openclaw 代理访问我的工作 Gmail，以便它可以起草回复并为我排序。使用托管，因为我不知道如何运行服务器。我不明白的是，当客服人员阅读我的电子邮件时，它们实际上去了哪里？托管公司的谁可以看到它们？那么我粘贴的 API 密钥呢？ 也许我想太多了，idk。但是，让人工智能代理对我的工作收件箱进行读/写访问，感觉就像是一个我应该在做出决定之前真正理解的决定。   由   提交 /u/VoideNoid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1t631fy/is_openclaw_safe_to_use_with_your_real_email_and/</guid>
-      <pubDate>Thu, 07 May 2026 07:08:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
