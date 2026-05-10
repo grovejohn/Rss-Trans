@@ -4,20 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 10 May 2026 07:54:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 10:05:48 GMT</lastBuildDate>
     <item>
       <title>wgs​​l.run - 具有实时 WebGPU 预览的 WGSL 沙箱</title>
       <link>https://www.reddit.com/r/programming/comments/1t8zlr8/wgslrun_a_wgsl_sandbox_with_live_webgpu_preview/</link>
       <description><![CDATA[WGSL 的实时编辑器，下方有 WebGPU 画布：输入着色器，点击运行，查看它的绘制。多文件项目、通过 URL 共享、主机 JS 覆盖、OPFS 持久化。 下面：libwgsl — 一个从头开始的 C99 WGSL 前端（lex / parse / resolve / const-eval / typecheck / validate）。 ~0.37 ms / Kloc 热解析，无依赖项，MIT。 沙箱：https://wgsl.run 来源：https://github.com/toprakdeviren/libwgsl VS 代码：https://marketplace.visualstudio.com/items?itemName=toprakdeviren.wgsl-run   由   提交/u/BigAd4703  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1t8zlr8/wgslrun_a_wgsl_sandbox_with_live_webgpu_preview/</guid>
       <pubDate>Sun, 10 May 2026 06:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开发人员和深度工作提供 24/7 编程工具流</title>
-      <link>https://www.reddit.com/r/programming/comments/1t8z3ls/247_programming_instrumental_stream_for/</link>
-      <description><![CDATA[ 由   提交/u/harrison2020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1t8z3ls/247_programming_instrumental_stream_for/</guid>
-      <pubDate>Sun, 10 May 2026 06:29:13 GMT</pubDate>
     </item>
     <item>
       <title>我们会很好的</title>
@@ -109,6 +102,13 @@
       <description><![CDATA[ 由   提交/u/swdevtest  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1t7lwwp/how_discord_automates_scylladb_clusters_at_scale/</guid>
       <pubDate>Fri, 08 May 2026 21:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mozilla：强化 Firefox 的幕后故事</title>
+      <link>https://www.reddit.com/r/programming/comments/1t7it4t/mozilla_behind_the_scenes_hardening_firefox/</link>
+      <description><![CDATA[ 由   提交 /u/CircumspectCapybara   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1t7it4t/mozilla_behind_the_scenes_hardening_firefox/</guid>
+      <pubDate>Fri, 08 May 2026 19:56:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
