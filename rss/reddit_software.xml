@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 10 May 2026 21:39:07 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 01:50:44 GMT</lastBuildDate>
+    <item>
+      <title>ehhv7 一个 Windows .exe</title>
+      <link>https://www.reddit.com/r/software/comments/1t9n5ur/ehhv7_a_windows_exe/</link>
+      <description><![CDATA[ 由   提交 /u/boogercore   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t9n5ur/ehhv7_a_windows_exe/</guid>
+      <pubDate>Mon, 11 May 2026 00:04:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥有一名远程员工的客户需要屏幕监控软件</title>
+      <link>https://www.reddit.com/r/software/comments/1t9m73x/client_with_one_remote_employee_needs_screen/</link>
+      <description><![CDATA[ 由   提交 /u/ClickHereEdit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t9m73x/client_with_one_remote_employee_needs_screen/</guid>
+      <pubDate>Sun, 10 May 2026 23:22:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>IDM - Google Chrome“由您的组织管理”</title>
+      <link>https://www.reddit.com/r/software/comments/1t9kgek/idm_google_chrome_managed_by_your_organization/</link>
+      <description><![CDATA[当我上次使用 Internet Download Manager (IDM) 时，Chrome 向 Manifest v3 的转换因“组织控制”的原因而延迟。政策。当时这是一个可切换的设置，所以我决定继续使用它，假设如果我停止使用 IDM 或当他们找到解决方案时，我可以简单地禁用它。 后来，我格式化了我的电脑，期待“由您的组织管理”状态消失了，但它仍然存在。我尝试重新安装 IDM 以找到原始切换开关并将其禁用，但该选项已从当前版本中删除。我什至尝试回滚到包含该设置的旧版本，但该版本无法再与 Chrome 或其自己的扩展程序通信。现在，我陷入了“组织管理”的困境。浏览器，没有明确的方法来删除该策略。   由   提交/u/FamilyFriendlyKebab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t9kgek/idm_google_chrome_managed_by_your_organization/</guid>
+      <pubDate>Sun, 10 May 2026 22:07:10 GMT</pubDate>
+    </item>
+    <item>
+      <title># [更新] 我根据您的反馈改进了我的轻量级托盘温度监视器 (C#)。现在具有基于动态温度的颜色和组合托盘模式！</title>
+      <link>https://www.reddit.com/r/software/comments/1t9k9gr/update_i_improved_my_lightweight_tray_temp/</link>
+      <description><![CDATA[ 由   提交/u/Far-Guide7959  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1t9k9gr/update_i_improved_my_lightweight_tray_temp/</guid>
+      <pubDate>Sun, 10 May 2026 21:59:17 GMT</pubDate>
+    </item>
     <item>
       <title>CoseBase 理解</title>
       <link>https://www.reddit.com/r/software/comments/1t9jdkd/cosebase_understanding/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[ https://preview.redd.it/3p606hfsn80h1.png?width=4500&amp;format=png&amp;auto=webp&amp;s=416b75c491b5e70e8660a88cdcde7e42811cd7be   由   提交/u/CaponDesign  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1t8wxmy/all_software_should_come_with_a_cyberpunk_theme/</guid>
       <pubDate>Sun, 10 May 2026 04:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的托盘上有哪些软件？</title>
-      <link>https://www.reddit.com/r/software/comments/1t8qm7a/which_softwares_reside_on_your_tray/</link>
-      <description><![CDATA[ 由   提交/u/buzzkill44  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t8qm7a/which_softwares_reside_on_your_tray/</guid>
-      <pubDate>Sat, 09 May 2026 23:35:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找适用于 Windows 的优秀 OCR 扫描仪软件（离线、可搜索 PDF）</title>
-      <link>https://www.reddit.com/r/software/comments/1t8pyiv/looking_for_good_ocr_scanner_software_for_windows/</link>
-      <description><![CDATA[您好， 我拥有一台文档扫描仪，希望将我大量的个人记录数字化。 不幸的是，Windows 上预装的扫描仪应用程序不适合我的需求，因为它只生成图像而不是可搜索的 PDF。 因此，我测试了 Windows 应用商店中的几个免费扫描仪应用程序；作为预防措施，我在此过程中禁用了互联网连接，以防止任何潜在的、未被注意到的数据传输。然而，我注意到，在没有互联网连接的情况下运行时，我测试的所有应用程序的 OCR 准确性都很差。我通过将生成的 PDF 中识别的文本复制到文本编辑器中并检查拼写和标点符号错误来验证这一点。 因此我的问题是： 有人知道有一款适用于 Windows 的 OCR 扫描软件可以可靠地离线工作并可以从扫描文档创建可搜索的 PDF 吗？   由   提交 /u/hkxtp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t8pyiv/looking_for_good_ocr_scanner_software_for_windows/</guid>
-      <pubDate>Sat, 09 May 2026 23:06:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件工程师</title>
-      <link>https://www.reddit.com/r/software/comments/1t8ptwb/software_engineer/</link>
-      <description><![CDATA[我正在寻找一位可以帮助我完成此项目的软件工程师。它是开源的。谢谢   由   提交/u/ShelleyakaSatoshi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t8ptwb/software_engineer/</guid>
-      <pubDate>Sat, 09 May 2026 23:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用哪些网站来上传我的文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1t8ognm/which_sites_should_i_use_to_upload_my_files/</link>
-      <description><![CDATA[这篇文章可能偏离主题，但推荐违反了 r/techsupport 中的规则，所以很抱歉，如果这也违反了此 sub reddit 中的规则 但是我可以使用哪些网站（Google Drive 除外）上传我的文件？ （最好是免费的，不需要任何付款方式或订阅，并且在不久的将来不会关闭）   由   提交 /u/Future-Isopod-6062   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t8ognm/which_sites_should_i_use_to_upload_my_files/</guid>
-      <pubDate>Sat, 09 May 2026 22:02:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
