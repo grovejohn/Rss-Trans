@@ -4,13 +4,27 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 11 May 2026 17:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 19:22:59 GMT</lastBuildDate>
     <item>
-      <title>你的自动化粘合代码是什么？有风险吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ta8hv5/whats_your_glue_code_of_automation_is_it_risky/</link>
-      <description><![CDATA[​ 在过去的几年里，我一直在为一家酒店集团构建这些精心设计的自动化网络，并考虑将预订系统连接到客户关系管理，然后连接到忠诚度计划，然后连接到员工调度。  但是我构建的钩子越多，整个事情就变得越脆弱。每次 API 更新或令牌过期时，整个访客体验都会受到影响。  我开始考虑从连接应用程序转向仅使用内置这些垂直领域的人工智能原生操作系统。一直在研究 t1u 如何处理酒店工作流程，因为他们将整个堆栈保留在那里。  将自动化从桥接层转移到核心层是一个有趣的转变，人工智能实际上可以理解整个业务的背景。你们是否仍然依赖像 make/n8n 这样的 ipaas 来完成所有事情，或者您是否在这些没有 webhooks 之类的统一的人工智能原生平台上看到了更好的结果？   由   提交 /u/Total-Newt4778   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ta8hv5/whats_your_glue_code_of_automation_is_it_risky/</guid>
-      <pubDate>Mon, 11 May 2026 16:31:41 GMT</pubDate>
+      <title>为构建消息传递工作流程的任何人提供的小型自动化建议</title>
+      <link>https://www.reddit.com/r/automation/comments/1tacwg6/small_automation_advice_for_anyone_building/</link>
+      <description><![CDATA[始终计算最坏情况的成本。并且始终对付费操作设置限制/速率上限。特别是短信/无环语音信箱。学会了这个“艰难的方法”同时为本地企业构建一个小型的出站/重新参与工作流程。 客户希望自动跟进旧的潜在客户，老实说，我认为“这很容易。”简单逻辑：线索进入流程-&gt;发送后续消息-&gt;等待回复-&gt;继续序列 酷。除了一个微小的逻辑错误之外，基本上将工作流程变成了：“永远每分钟发送短信，直到宇宙热停止。”我在“测试模式”下启动了它，大约有 20 个潜在客户，但没有立即注意到，因为从技术上讲，一切看起来都在工作。 10 分钟后，大约 50 美元消失了... 事实证明，一个损坏的条件是为工作流程中的每个潜在客户一遍又一遍地重复触发相同的短信步骤。这是我从自动化工作中得到的最好的教训之一。现在，我总是对发送进行硬上限，添加冷却逻辑，设置支出警报，首先构建终止开关，以荒谬的低限制进行测试 也让我欣赏更便宜/更直接的设置，例如无环语音邮件和短信营销，因为一旦规模开始，糟糕的自动化逻辑就会变得非常昂贵。 很好奇这里的人们还犯了什么其他昂贵的自动化错误，因为我知道我不能是唯一的一个哈哈   由   提交 /u/Traditional-Set-8483   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tacwg6/small_automation_advice_for_anyone_building/</guid>
+      <pubDate>Mon, 11 May 2026 19:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能代理是否会创造比云计算更大的企业服务浪潮</title>
+      <link>https://www.reddit.com/r/automation/comments/1tabxqj/will_ai_agents_create_a_larger_enterprise/</link>
+      <description><![CDATA[ 由   提交 /u/islaexpress   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tabxqj/will_ai_agents_create_a_larger_enterprise/</guid>
+      <pubDate>Mon, 11 May 2026 18:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>在不发送垃圾邮件的情况下，是否成功构建了用于招聘/外展的自动人工智能代理？</title>
+      <link>https://www.reddit.com/r/automation/comments/1taad2c/any_success_building_an_auto_ai_agent_for/</link>
+      <description><![CDATA[我们正在寻找一个开源平台，可以让我们实现上述目的，有什么建议吗？   由   提交/u/manateecoltee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1taad2c/any_success_building_an_auto_ai_agent_for/</guid>
+      <pubDate>Mon, 11 May 2026 17:35:00 GMT</pubDate>
     </item>
     <item>
       <title>AI助手正在成为个人AI操作层</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/sasaaaaaaa05  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1t94bc6/hiring_creative_salesoutreach_people_interested/</guid>
       <pubDate>Sun, 10 May 2026 11:24:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>猜猜自动化任务！</title>
-      <link>https://www.reddit.com/r/automation/comments/1t91lfw/guess_the_automation_task/</link>
-      <description><![CDATA[       https://preview.redd.it/1do0zn86x90h1.png?width=835&amp;format=png&amp;auto=webp&amp;s=da5a0e4712816f0c024e9139a06224890dc50e1b 任何猜对的人 - 将免费获得脚本和自动化。 😛   由   提交 /u/No_Time3432   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t91lfw/guess_the_automation_task/</guid>
-      <pubDate>Sun, 10 May 2026 08:51:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能代理正在成为主流——但如何跟踪可靠性呢？</title>
-      <link>https://www.reddit.com/r/automation/comments/1t8tswu/ai_agents_are_going_mainstream_but_how_is/</link>
-      <description><![CDATA[现在许多公司已经开始在其运营中集成代理，但仍然对可靠性存有疑问？ 大多数公司仍处于测试版本，现在正在向一组客户推出与人工智能集成的功能，因为他们这样做的原因太多了。 我试图弄清楚公司将如何跟踪系统是否可靠？ 有团队或人员退出吗？他们的？或者他们需要为此做些什么？   由   提交 /u/Tricky_School_4613   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1t8tswu/ai_agents_are_going_mainstream_but_how_is/</guid>
-      <pubDate>Sun, 10 May 2026 02:02:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
