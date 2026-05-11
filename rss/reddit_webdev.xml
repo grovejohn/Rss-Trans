@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 11 May 2026 14:18:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 17:17:43 GMT</lastBuildDate>
+    <item>
+      <title>在构建网络应用程序时，您如何使用人工智能，这是我一直在做的事情。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ta96dt/how_are_you_using_ai_when_building_your_web_apps/</link>
+      <description><![CDATA[      我一直在尝试一种工作流程，在我首先在 Claude 中设计产品之前，我不会编写任何代码。三个阶段，三个角色：  产品设计师 (Claude Desktop)。 讨论它的用途、用户旅程是什么、数据模型是什么、范围内和范围外的内容。没有代码。 产品经理（终端中的克劳德代码）。将规范交给它。它建立了。我将其保持在范围内，并根据第一阶段的用户旅程手动测试每个功能。 开发人员（Claude Code）。切换帽子。重构、编写测试、强化代码。  我只是用它来规划潜在客户生成器登陆页面构建器。在一个下午的时间里，从一个模糊的想法变成了一个又一个里程碑的构建规范。  对页面构建器块、潜在客户捕获流程、数据模型等进行推理。 令人惊讶的是，第 1 步和第 2 步走得非常远。 我将我使用的两个 Claude Code 技能放入了一个存储库中：https://github.com/PaulBratslavsky/pauls-skills  product-design-flow：六阶段面试，生成可立即构建的规范 strapi-product-builder：相同的想法，针对 Strapi 项目进行了调整  我的内容想知道：  您只是将人工智能用于代码，还是也用于产品和架构决策？ 哪种工具用于 Strapi 工作，Claude Code、Cursor、Copilot 还是其他工具，为什么？ 有人主要使用 AI 构建了 Strapi 插件吗？它在 v0.1 以后还有效吗？ 它对你来说有什么问题吗？    由   提交/u/codingafterthirty  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ta96dt/how_are_you_using_ai_when_building_your_web_apps/</guid>
+      <pubDate>Mon, 11 May 2026 16:55:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>在社交网络项目中过多使用 Ajax 和 dom 操作可以吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ta8oq7/is_it_ok_using_ajax_and_dom_manipulation_too_much/</link>
+      <description><![CDATA[我正在使用 php laravel 开发类似 reddit 的基本网站，我做了社区所有者处理用户（禁止、删除等），现在我正在发帖子。  我确实使用了ajax，并且喜欢/不喜欢、保存、隐藏、使用异步报告帖子，并且我意识到我也必须在社区中进行用户处理或帖子处理，因为我们在禁止用户后无法返回顶部。  这不是唯一的事情，之后我还必须更改 dom，因为没有刷新，我确实用 js 删除了类似的帖子。 我想知道过多使用 ajax 和 dom 操作是不是一种不好的做法？或者还有其他方法可以做到这一点吗？   由   提交 /u/Constant-Box4994   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ta8oq7/is_it_ok_using_ajax_and_dom_manipulation_too_much/</guid>
+      <pubDate>Mon, 11 May 2026 16:38:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的ascii art在brave（和edge）中看起来错误，但在其他浏览器（包括chrome）中看起来很好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ta84kc/why_does_me_ascii_art_looks_wrong_in_brave_and/</link>
+      <description><![CDATA[   /u/seelefanth   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ta84kc/why_does_me_ascii_art_looks_wrong_in_brave_and/</guid>
+      <pubDate>Mon, 11 May 2026 16:18:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在工作中使用什么笔记本电脑以及您使用什么作为个人笔记本电脑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ta6n5o/what_laptop_were_you_given_at_work_and_what_do/</link>
+      <description><![CDATA[嘿，开发人员，我认为看看每个人从工作中获得的笔记本电脑和规格以及您用作个人笔记本电脑或业余项目的笔记本电脑以及它是否满足需求会很有趣。  我会开始： - 工作：使用 Python、Docker 的 Fullstack Web 开发人员（2 岁），在一家小公司使用 LLM API - 工作笔记本电脑：Macbook Pro 14” M4 Pro 24/512 GB- 个人笔记本电脑：Macbook Air 15” M3 16/512 GB 我使用我的个人 MacBook 进行一些小型副项目（网页抓取）或者学习一些新东西），除了常见的 Netflix 之类的。我认为它运行得很好，可能会考虑几年后升级到 13 英寸空气    提交者    /u/Own_Tailor3719   [链接]   href=&quot;https://www.reddit.com/r/webdev/comments/1ta6n5o/what_laptop_were_you_given_at_work_and_what_do/&quot;&gt;[评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ta6n5o/what_laptop_were_you_given_at_work_and_what_do/</guid>
+      <pubDate>Mon, 11 May 2026 15:27:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>非技术构建者：目前“氛围编码”最大的瓶颈是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ta4sqc/nontechnical_builders_whats_your_biggest/</link>
+      <description><![CDATA[对我来说，这是 100% 部署和令人疲惫不堪的堆栈更新速度。  作为一个非技术人员，编写代码突然成为构建应用程序最简单的部分，但实际的“将其放到互联网上”却是最简单的部分。部分是一场噩梦。我最近意识到，88% 的初学者 AI 编码项目就是因为这个而死在聊天窗口中的。  我实际上只是想确切地知道要单击什么以及要粘贴什么来部署我的项目。另外，工具的发展速度快得令人难以置信，以至于堆栈疲劳是真实存在的。  还有人有同样的感觉吗？我们实在受够了，以至于我们实际上制定了一个点击式部署路径来绕过这些障碍。如果其他人遇到困难，很乐意分享！   由   提交/u/username90856  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ta4sqc/nontechnical_builders_whats_your_biggest/</guid>
+      <pubDate>Mon, 11 May 2026 14:22:20 GMT</pubDate>
+    </item>
     <item>
       <title>你们喜欢的利基网络框架吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ta2qje/niche_web_frameworks_that_you_people_like/</link>
@@ -48,7 +83,7 @@
       <pubDate>Mon, 11 May 2026 09:33:14 GMT</pubDate>
     </item>
     <item>
-      <title>你们如何存储人工智能生成的内容供用户稍后编辑？</title>
+      <title></title>
       <link>https://www.reddit.com/r/webdev/comments/1t9xo3d/how_are_you_storing_ai_generated_content_that/</link>
       <description><![CDATA[我一直在开发几个使用 AI 生成输出的 Web 应用程序，我遇到了一个小数据建模问题。 起初，我只是将最终的 AI 响应保存在一个字段中并将其显示给用户。 这对于演示来说很好，但一旦用户开始编辑输出，情况就不太好了。 现在我倾向于存储原始输入，即第一个输入AI草稿，用户编辑的版本，提示版本，使用的模型，状态分别。 感觉比较冗长，但是调试变得容易多了。当输出不好时，我通常可以判断问题是否来自用户输入、提示、模型响应或稍后进行的编辑。 它还使重新生成、版本历史记录、审查状态和回滚更容易处理。 好奇这里的其他人如何处理这个问题。 您是只保存最终输出，还是保留完整的生成/编辑历史记录？   由   提交/u/Excellent_Poetry_718   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t9xo3d/how_are_you_storing_ai_generated_content_that/</guid>
@@ -74,41 +109,6 @@
       <description><![CDATA[哪些报告在向领导层证明生产力时真正发挥了作用？   由   提交 /u/MarleneOquendo123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1t9twtc/need_productivity_proof_for_leadership_what/</guid>
       <pubDate>Mon, 11 May 2026 05:29:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能制作出真正好的...表格？ *颤抖*</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t9snz6/how_can_i_make_really_good_forms_shudders/</link>
-      <description><![CDATA[格式。他们让我害怕。我试图用一堆 Next.js、Supabase 和一些 shadcn 来制作我的第一个真正的全栈项目，因为我没有耐心。我发现本教程是一个具有完全相同堆栈的实时聊天应用程序，因此我检查了它，希望在之后立即进入我的项目。 也就是说，直到我看到了表单的真正恐怖。在教程中，有一个表单只有两个字段（其中一个是复选框），但使用 shadcn 字段组件时，React return 语句长达近 100 行。我很害怕。我怎样才能让自己制作一个表格？这太令人畏惧了。与此同时，如果我尝试从头开始制作一个组件，我知道它会比这些专业制作的组件更糟糕（并且更难访问）。我对表单的恐惧是一个问题，因为这基本上占了前端开发人员的 50%。 在看到表单可以变得多么复杂之后，我想退一步并尝试擅长制作它们（在我回到我的项目之前）。鉴于我提到的堆栈，有关于表单的建议或最佳实践吗？有没有关于制作 2026 年顶级表格的指南，还是我必须在黑暗中摸索？   由   提交/u/Lavaa444  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t9snz6/how_can_i_make_really_good_forms_shudders/</guid>
-      <pubDate>Mon, 11 May 2026 04:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过大量修改和制定的氛围代码是否具有成功的能力？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t9qlox/does_a_heavily_modified_and_worked_out_vibecode/</link>
-      <description><![CDATA[对于初学者来说，我正在构建一个完全由我自己构思的应用程序/工具，它是一个使用 API 的基于人工智能的工具。 在开始之前，除了自学了大量的 R 知识和基础的 Python 知识之外，我没有大量的编码经验。对于这个工具，我在 R 中的数据库上做了很多工作来创建我的工具的后端。但是，我没有 JavaScript 经验，并且能够使用 Claude 来帮助创建物理平台。  我并不是点击它就立即认为它已经准备好了，我花了一个月的时间改进它并添加我认为将使这个工具变得很棒的功能。 （说实话，我在这个过程中学到了大量的 JavaScript）。 这个工具会以其表面价值在市场上取得成功，还是会因为部分“vibe 编码”而变得不那么有价值？   由   提交 /u/Silver_Olive9942   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t9qlox/does_a_heavily_modified_and_worked_out_vibecode/</guid>
-      <pubDate>Mon, 11 May 2026 02:43:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想获得网络开发或网络安全学位。我有疑问。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t9pp1c/i_want_to_get_my_degree_in_web_dev_or/</link>
-      <description><![CDATA[嘿！ 我计划在秋季上大学，获得 Web 开发学位。我主要关心的是人工智能。是否达到了某个点，或者将会达到某个点，这将使我的技能和学位变得毫无用处？如果有人可以要求人工智能在 10 秒内放出一个网站，那么学校教育还有什么意义呢？网络安全也有同样的问题。如果这个学位五年后变得毫无价值，我不想在这个学位上浪费金钱或时间。    由   提交 /u/Lacherlich   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t9pp1c/i_want_to_get_my_degree_in_web_dev_or/</guid>
-      <pubDate>Mon, 11 May 2026 02:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>再见人工智能焦虑帖子</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t9nsaz/good_bye_ai_anxiety_posts/</link>
-      <description><![CDATA[正如我在上一篇文章中所说，这个子已经变成了一堆人工智能炒作和厄运帖子。每个发帖的人似乎都对技术怀有令人烦恼的、无法控制的焦虑，并且无法阻止自己发布前一天或前几个小时看到的相同内容。版主不想安装每周线程来将其与规则一起包含，因此如果您厌倦了，我将离开并向其他人提供。   由   提交/u/ClearOptics  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t9nsaz/good_bye_ai_anxiety_posts/</guid>
-      <pubDate>Mon, 11 May 2026 00:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>是时候从我的网站上删除 gg recaptcha 了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1t9mmh6/time_to_remove_gg_recaptcha_from_my_website/</link>
-      <description><![CDATA[Google 有一个名为 Cloud Fraud Defense 的新系统，它是 reCAPTCHA 的下一个版本，并已开始向用户推出 当系统检测到有风险的网络活动时，它不再显示您选择公共汽车或交通信号灯的旧图片拼图。相反，它会显示您用 Android 手机扫描的二维码，但要通过测试，您的手机必须安装并运行 Google Play 服务。 结果是，数以百万计的网站现在将这些隐私手机视为存在风险，因此用户必须添加 Google Play 服务或保持锁定状态。  完整帖子：https://x.com/Pirat_Nation/status/2053490745479479359?s=20   由   提交 /u/longdarkfantasy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1t9mmh6/time_to_remove_gg_recaptcha_from_my_website/</guid>
-      <pubDate>Sun, 10 May 2026 23:41:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
