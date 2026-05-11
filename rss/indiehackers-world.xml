@@ -4,7 +4,21 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 11 May 2026 11:58:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 14:19:12 GMT</lastBuildDate>
+    <item>
+      <title>7 年代理经验，200 多个 B2B 活动，现在正在打造 Outbound Glow</title>
+      <link>https://feed.indiehackers.world/post/4a1c1458c4</link>
+      <description><![CDATA[
+对于现在正在处理冷电子邮件的创始人来说，当前设置中最令人沮丧的部分是什么？
+
+这里有人愿意查看我的入职流程并提供诚实的反馈吗？ 
+
+
+感谢您的阅读。很高兴来到这里并向这个社区学习。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/4a1c1458c4</guid>
+      <pubDate>Mon, 11 May 2026 12:01:17 GMT</pubDate>
+    </item>
     <item>
       <title>大多数 AI 代理故障实际上是​​工作流程故障</title>
       <link>https://feed.indiehackers.world/post/fa45127a69</link>
@@ -120,7 +134,7 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>DOJ Title II 将在 12 个月内生效。城市每次审计报价为 5 万美元。我的扫描仪的运行费用为 19 美元/月。</title>
       <link>https://feed.indiehackers.world/post/a534ad46d9</link>
-      <description><![CDATA[如果您是一位城市经理，总预算为 500 万美元，并且第二章截止日期即将到来，那么您今天的选择大致是：向咨询公司支付 30-8 万美元的人工审核和补救计划、安装覆盖层并希望（不），或者自己构建。
+      <description><![CDATA[如果您是一名城市经理，总预算为 500 万美元，并且第二章截止日期即将到来，那么您今天的选择大致是：向咨询公司支付 30-8 万美元的人工审核和补救计划、安装覆盖层并希望（不），或者自己构建。
 我认为必须有第四种选择。
 我构建了什么
 AccessiScan 抓取公共网站，对其找到的每个页面运行 WCAG 2.1 AA 一致性检查，并返回每个标准的报告。这部分是关键——开源的axe-core库可以完成大部分工作。有趣的部分是扫描后发生的事情。
@@ -198,16 +212,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/ab23fa5fad</guid>
       <pubDate>Wed, 06 May 2026 06:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的人工智能编码助手删除了我的生产模型。重建使它变得更好。给独立创始人的教训。</title>
-      <link>https://feed.indiehackers.world/post/3774a88558</link>
-      <description><![CDATA[全文： https://medium.com/@cmitre/the-week-my-ai-assistant-tried-to-end-me-and-accidentally-helped-me-build-a-better-model-a2a6e43a5c52
-使用 AI 工具进行构建时，您会采取哪些保护措施？
-#buildinpublic #soloFounder #aitools
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/3774a88558</guid>
-      <pubDate>Wed, 06 May 2026 01:59:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
