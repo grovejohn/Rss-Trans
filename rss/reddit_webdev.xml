@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 May 2026 11:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 13:32:31 GMT</lastBuildDate>
+    <item>
+      <title>在咨询公司工作的人、自由职业者，你的工作报酬是否越来越少，因为现在人工智能可以编码，所以客户会想为什么我需要像以前一样付那么多钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1taz7gb/people_who_work_at_consultant_firms_freelancers/</link>
+      <description><![CDATA[   客户：我知道你们公司使用 Claude 代码来完成工作，所以我应该少付钱... 正如标题所说   由   提交/u/lune-soft  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1taz7gb/people_who_work_at_consultant_firms_freelancers/</guid>
+      <pubDate>Tue, 12 May 2026 11:48:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将辅助功能扫描结果转化为可供客户使用的报告？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1taz6h5/how_do_you_turn_accessibility_scan_results_into_a/</link>
+      <description><![CDATA[我正在为网页设计师围绕可访问性审查构建一个小型工作流程工具包。  不是另一台扫描仪。更像是 Lighthouse、WAVE 或 axe 之后缺少的步骤： 扫描结果手动检查客户报告行动计划提供范围明确限制 我正在测试的问题：原始扫描仪输出尚未为客户端准备好。  如果这听起来相关，我可以分享该页面。   由   提交 /u/Loewenkompass   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1taz6h5/how_do_you_turn_accessibility_scan_results_into_a/</guid>
+      <pubDate>Tue, 12 May 2026 11:47:42 GMT</pubDate>
+    </item>
     <item>
       <title>花了数年时间将相同的 React 设置复制粘贴到每个新项目中。最后把它变成了 CLI，好奇其他开发人员如何处理这个</title>
       <link>https://www.reddit.com/r/webdev/comments/1taxw0u/spent_years_copypasting_the_same_react_setup_into/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[      受 SIL 开放字体许可证 1.1 发布的美国国家公园管理局标牌、海报和步道标记启发的六种开源字体   由   提交/u/freb97  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tavu3o/nationalparkservicefonts_us_national_park_service/</guid>
       <pubDate>Tue, 12 May 2026 08:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>与本地企业竞争</title>
-      <link>https://www.reddit.com/r/webdev/comments/1taupwf/competing_against_local_business/</link>
-      <description><![CDATA[我已经成为一名专业开发人员 7 年了，拥有各种经验，但主要是在前端（React），并有一些后端支持。我注意到我当地的所有企业都使用相同的本地开发人员来开发他们的网站，并且我自己使用了一些网站，我注意到我会做不同的事情以及我会改变的事情以改善用户体验。  当地开发商似乎在该地区颇有建树，拥有超过 25 年的经验，以及大量的推荐和庞大的产品组合。是否值得尝试通过创办自己的企业来竞争？    由   提交 /u/MrCuddles9896   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1taupwf/competing_against_local_business/</guid>
-      <pubDate>Tue, 12 May 2026 07:53:02 GMT</pubDate>
     </item>
     <item>
       <title>我们如何处理长期运行的人工智能代理中的上下文窗口膨胀，生产中的经验教训</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我们需要对大约 30 个客户端进行多种不同语言的本地化，这对我们来说目前是一项非常疯狂的任务。我们有一些很好的时间来做这件事，但这仍然是一项艰巨的任务。  我们之前已经使用 AI 进行了本地化，效果非常好，但我们需要管理一致性并使其在规模上可行，因此我们需要一个合适的本地化工程工具，而且我不太确定哪种 TMS、工具或工作流程是最好的。  抱歉，如果这个问题有点太小众，任何有关本地化工具或本地化工程的建议都将非常感激。   由   提交/u/Academic_Way_293   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1takhvp/best_localization_engineering_tools/</guid>
       <pubDate>Mon, 11 May 2026 23:42:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助为我的产品选择正确的徽标。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1take6a/need_help_in_choosing_right_logo_for_my_product/</link>
-      <description><![CDATA[       https://preview.redd.it/xzxqqpqvgl0h1.png?width=596&amp;format=png&amp;auto=webp&amp;s=4554a742c1da521708c6a2406cc41080e8df1722 API测试工具“Postmate Client”哪个徽标更好？ ?   由   提交 /u/Bitter-Apple-7929   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1take6a/need_help_in_choosing_right_logo_for_my_product/</guid>
-      <pubDate>Mon, 11 May 2026 23:38:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

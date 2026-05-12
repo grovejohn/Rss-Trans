@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 12 May 2026 11:10:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 13:31:36 GMT</lastBuildDate>
+    <item>
+      <title>无服务器 DevEx 和可观察性现状 • Jones Zachariah Noel N</title>
+      <link>https://www.reddit.com/r/programming/comments/1tb03pq/state_of_serverless_devex_observability_jones/</link>
+      <description><![CDATA[ 由   提交/u/goto-con   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tb03pq/state_of_serverless_devex_observability_jones/</guid>
+      <pubDate>Tue, 12 May 2026 12:27:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>在没有明确的“选择加入”或补偿模型的情况下，技术社区如何解决大型企业模型对公共/开源数据的使用问题？</title>
+      <link>https://www.reddit.com/r/programming/comments/1taznk2/how_is_the_tech_community_addressing_the_use_of/</link>
+      <description><![CDATA[我正在尝试了解大型科技公司如何利用公共数据和开发人员贡献的当前共识和法律环境。 从历史上看，开源代码、个人博客、维基百科和书籍都是为了人类使用、协作和阅读而发布的。最近，这些公共数据经常被抓取来训练大规模的专有系统。 关于我们的行业如何应对这种转变，我有几个真正的问题：  许可和选择加入：目前是否有任何新的开源许可证受到关注，默认情况下明确阻止自动抓取，需要“选择加入”进行培训而不是依靠“选择退出”？ 补偿机制：由于新工具越来越多地直接在界面中总结内容（这显着减少了原始创作者的流量），是否有任何现实的行业或法律建议针对“按引用付费”的方式？  监管行动：身在欧洲，我特别好奇欧盟委员会或其他监管机构是否正在积极讨论对未经初步同意就摄取受版权保护的材料的模型进行强制数据删除。 行业影响：开发人员个人如何协调为开源和公共论坛做出贡献的努力与这些贡献可能用于实现我们自己行业的部分自动化的现实？  我对这个社区的技术、法律和道德观点非常感兴趣。谢谢。   由   提交/u/chiqui3d  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1taznk2/how_is_the_tech_community_addressing_the_use_of/</guid>
+      <pubDate>Tue, 12 May 2026 12:08:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>COCA 警告称，拟议的资金削减可能会导致莱昂公司裁员和减少艺术节目。</title>
+      <link>https://www.reddit.com/r/programming/comments/1tayqm3/coca_warns_proposed_funding_cut_could_lead_to/</link>
+      <description><![CDATA[ 由   提交/u/Interesting_Pack_483   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tayqm3/coca_warns_proposed_funding_cut_could_lead_to/</guid>
+      <pubDate>Tue, 12 May 2026 11:27:52 GMT</pubDate>
+    </item>
     <item>
       <title>什么是 REST API，以及为什么您的可能不是 REST API</title>
       <link>https://www.reddit.com/r/programming/comments/1tay0vx/what_is_a_rest_api_and_why_yours_probably_isnt_one/</link>
@@ -18,13 +39,6 @@
       <description><![CDATA[ 由   提交 /u/cekrem   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tawefj/canonicalise_dont_remember_smart_constructors_in/</guid>
       <pubDate>Tue, 12 May 2026 09:28:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始构建 GUI 库</title>
-      <link>https://www.reddit.com/r/programming/comments/1tavy6e/building_a_gui_library_from_scratch/</link>
-      <description><![CDATA[我在 UI 库上找到了这个博客。请向我反馈您如何找到它。   由   提交/u/Aggressive-Today3874   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tavy6e/building_a_gui_library_from_scratch/</guid>
-      <pubDate>Tue, 12 May 2026 09:03:07 GMT</pubDate>
     </item>
     <item>
       <title>URLSession 到 Electrons：网络的底层工作原理</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[对于那些不知道的人，这是 Java 的 JEP 401：值类和对象（预览版） 的 Pull 请求。 值类一直是 Java 期待已久的功能，所以这个 Pull 请求证明我们离实现它们又近了一步预览！ 但是请记住——尚未做出发布目标的承诺！ 这只是一个 PR RFR，仅此而已。所有这些都向我们展示了将值对象引入预览所需的部分内容，并宣布我们离（希望如此！）进入预览又近了一步。但同样，不知道那可能有多远。可能是 JDK 27（今年 9 月发布），也可能会更晚。 请欣赏 PR 的本质——了解使值类成为现实所需的工作的一个窗口。 ~3k 提交和 ~2k 类更改只是此处工作水平的快照。显示为什么此 JEP 被授予 XL 评级，哈哈。   由   提交/u/davidalayachew   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ta5dax/8317277_java_language_implementation_of_value/</guid>
       <pubDate>Mon, 11 May 2026 14:42:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>7 行代码，3 分钟：实现一种编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1ta5c8g/7_lines_of_code_3_minutes_implement_a_programming/</link>
-      <description><![CDATA[ 由   提交/u/Either_Collection349   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ta5c8g/7_lines_of_code_3_minutes_implement_a_programming/</guid>
-      <pubDate>Mon, 11 May 2026 14:41:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Roc & Zig：编译器重写故事 • Anjana Vakil 和 Richard Feldman</title>
-      <link>https://www.reddit.com/r/programming/comments/1ta3gf1/roc_zig_a_compiler_rewrite_story_anjana_vakil/</link>
-      <description><![CDATA[ 由   提交 /u/goto-con   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ta3gf1/roc_zig_a_compiler_rewrite_story_anjana_vakil/</guid>
-      <pubDate>Mon, 11 May 2026 13:33:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
