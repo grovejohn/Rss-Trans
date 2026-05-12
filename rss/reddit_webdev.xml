@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 May 2026 19:26:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 22:01:50 GMT</lastBuildDate>
+    <item>
+      <title>网络及其技术堆栈已严重崩溃。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tbfi6k/the_web_and_its_tech_stack_are_deeply_broken/</link>
+      <description><![CDATA[作为一个从头开始构建自己的浏览器的人（长话短说），我开始真正鄙视现代 Web 技术堆栈。 套接字系统之上的简单 UX 层已经变成了一个充满破碎、侵入性主机端代码和“SaaS 更优越”的无休止陈词滥调的臃肿噩梦。 对于例如，我们到底在用这些大量的客户端 JavaScript 包做什么？谷歌（和其他人）基本上在每个页面加载时将整个应用程序加载到我的浏览器中。为什么？ JS 实际上在做什么？为什么加载一页会触发数百或数千个外部脚本、跟踪器、转发和第三方调用？当带宽浪费严重时，为什么缓存被视为某种神奇的解决方案？ 为什么我们仍然为基本小部件和 UI 元素发送 PNG 和 JPEG？只需发送矢量（SVG 或路径数据），然后让浏览器将它们直接光栅化到画布或它们所属的显示层。如果需要任何真正的服务器端计算，一个简单的 Unix 套接字 IPC 层将比这个无休止的 HTTP/JSON 马戏团更干净、更快、更不脆弱。 那么诚实的问题......你们到底在抽什么烟？   由   提交 /u/GardenPrestigious202   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tbfi6k/the_web_and_its_tech_stack_are_deeply_broken/</guid>
+      <pubDate>Tue, 12 May 2026 21:33:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了金钱之外，你在工作中从哪里找到满足感？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tbcyo1/where_do_you_find_fulfillment_in_your_work/</link>
+      <description><![CDATA[在金钱方面找到满足感并没有什么错，我只是想知道你们在工作之外在哪里找到成就感。  最终，我试图找到一种继续前进的方法，并希望从别人那里得到灵感。我对开发的热情已经完全消退，我彻底精疲力尽了。不是在寻找怜悯聚会，只是在寻找新的视角或心态来帮助我继续前进，甚至重拾我的激情。   由   提交/u/mark_hor  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tbcyo1/where_do_you_find_fulfillment_in_your_work/</guid>
+      <pubDate>Tue, 12 May 2026 20:01:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们构建人工智能软件的方式看起来根本不像现代框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tbc4vq/the_way_we_build_ai_software_doesnt_look_like/</link>
+      <description><![CDATA[它实际上看起来很像 WordPress 开发 听起来不对，但仔细想想我们花了数年时间追求干净的代码：类型化的东西、纯函数、整洁的模块等 AI 开发有点相反。很乱。你可以链接那些你无法完全控制的工具，处理随机的 API，来自各处的 webhook，东西损坏了，你就可以修补它。一个真正的问题是：它能一起工作吗？需要多长时间？ 这基本上就是 Wordpress！！！！ 多年以来的开发人员都看不起 WP 开发人员做“粘合工作”...结果...这就是未来。 插件 = 工具编排 API = llm 连接器 钩子 = 事件驱动管道 多个供应商 = 多代理混乱 相同相同相同相同的心态！同样的本能！对凌乱事物的容忍度也相同。框架工程师在这方面并不是不擅长，只是不习惯。 在人工智能时代获胜的开发者并不是最干净的编码员。它可以让破碎的东西互相交谈，直到它们起作用 是的，我今天可能会在这座山上被杀:-)   由   提交 /u/dzimazilla   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tbc4vq/the_way_we_build_ai_software_doesnt_look_like/</guid>
+      <pubDate>Tue, 12 May 2026 19:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建博客来记录我的家庭实验室学习过程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tbbzvj/creating_a_blog_to_document_my_homelab_learning/</link>
+      <description><![CDATA[TL/DR;我想建立一个极其简单的博客，但工具、方法和行动过程对我的豌豆大脑来说太空灵了。我也害怕安全隐患，希望得到专业社区的建议 所以我正在部署我的第一个家庭实验室，并意识到我有很多东西没有使用它。最大的担忧是，我似乎无法读到“Wordpress”这个名字，除非它后面跟着“妥协”，而且我不想让自己面临这种程度的风险。所以我向专家寻求替代方案。请使用简短的文字和初学者级别的解释，因为除了 Linux 文件系统导航和使用 AI 训练轮编辑 .yml 文件之外的任何内容对我来说基本上都是巫术。  所以对于这个博客我会倾向于极简主义。足以让我熟悉 Web 开发的概念、语言、术语和流程。它还有第三个功能，也许可以向招聘人员展示我的工作，希望将职业转变为入门级 IT。由于我的年龄是进入这个领域的人的两倍，所以我想把自己展示为一个自动启动者，从头到尾了解事物是如何工作的。 以下是我（认为）我想要的东西：  初学者可以破译的绝对轻量级和成熟的过程。 免费或接近托管。  防呆和防弹安全。自托管是一种选择，但我有一个最小的安全堆栈，如果我的十年前的 PC 服务器上出现了某些问题，我的解决方案包括擦除操作系统并从头开始，因为我很无知。  除了一堆过时的文本帖子和偶尔的图片之外，我不会有任何其他东西。就我的目的而言，它不必是最先进的。事实上，越简单越好，但我确实想擅长设计一个具有一定视觉吸引力的布局，比如背景颜色、标题等，你知道的，基础知识。  与企业相关的工作流程和可转移技能。我知道这可能与我刚才所说的一切相矛盾，而且它不太重要，所以我把它放在最后。但如果我不必学习民用流程，那就太好了，然后如果我的梦想成真并且我找到了一份 IT 工作，就必须克服习得的习惯才能完成这份工作。   就是这样，真的。到目前为止，在我的粗略搜索中，我知道我会从 Cloudflare 获取该域名，因为它具有安全优势，但我不知道还需要什么才能将这个难题拼凑起来。  谢谢！   由   提交/u/Junction91NW   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tbbzvj/creating_a_blog_to_document_my_homelab_learning/</guid>
+      <pubDate>Tue, 12 May 2026 19:28:15 GMT</pubDate>
+    </item>
     <item>
       <title>原本需要1个sprint的项目现在已经进入了8个sprint</title>
       <link>https://www.reddit.com/r/webdev/comments/1tbbqka/the_project_that_was_supposed_to_take_1_sprint/</link>
@@ -76,39 +104,11 @@
       <pubDate>Tue, 12 May 2026 11:48:56 GMT</pubDate>
     </item>
     <item>
-      <title>如何将辅助功能扫描结果转化为可供客户使用的报告？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1taz6h5/how_do_you_turn_accessibility_scan_results_into_a/</link>
-      <description><![CDATA[我正在为网页设计师围绕可访问性审查构建一个小型工作流程工具包。  不是另一台扫描仪。更像是 Lighthouse、WAVE 或 axe 之后缺少的步骤： 扫描结果手动检查客户报告行动计划提供范围明确限制 我正在测试的问题：原始扫描仪输出尚未为客户端准备好。  如果这听起来相关，我可以分享该页面。   由   提交 /u/Loewenkompass   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1taz6h5/how_do_you_turn_accessibility_scan_results_into_a/</guid>
-      <pubDate>Tue, 12 May 2026 11:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>花了数年时间将相同的 React 设置复制粘贴到每个新项目中。最后把它变成了 CLI，好奇其他开发人员如何处理这个</title>
-      <link>https://www.reddit.com/r/webdev/comments/1taxw0u/spent_years_copypasting_the_same_react_setup_into/</link>
-      <description><![CDATA[不确定这是否只是我的问题，但我在过去几年启动的每个前端项目都有相同的 45 分钟设置仪式。 TypeScript 配置。维特设置。路由器。 ESLint。路径别名，所以我不再到处写 ../../components 。然后下一个项目开始，我再次做同样的事情，略有不同，因为我忘记了上次选择的内容。 最糟糕的部分是团队漂移。 一个项目有 Prettier，一个没有。一个使用 React Router 6，另一个迁移到 7。文件夹结构慢慢变得完全不同，即使它们都是从“标准设置”开始的。 厌倦了重复它，所以我为自己的默认值构建了一个 CLI： npx create-modern-react my-app cd my-app yarn dev  默认堆栈是：  React 19 TypeScript strict Vite + SWC Tailwind 4 shadcn/ui 类型化 Axios 包装器 ~/ 导入  然后它会询问你还想要什么：  Redux Toolkit + Persist React Hook Form + Zod Ant Design Husky + lint-staged  除非您选择它，否则不会安装任何东西。 一直在跨项目使用它，说实话，最大的胜利是一致性。新的开发人员已经认识到了结构，而不是每个存储库都感觉略有不同。 存储库：https://github.com/abhay-rana/create-modern-react 好奇其他人用于项目启动的内容。自定义内部模板？投票模板？还是每次都重建设置？   由   提交 /u/warofarrows   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1taxw0u/spent_years_copypasting_the_same_react_setup_into/</guid>
-      <pubDate>Tue, 12 May 2026 10:47:45 GMT</pubDate>
-    </item>
-    <item>
       <title>财政文件上的这种“快照”模式是有效的方法还是只是噪音？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tax2l6/is_this_snapshot_pattern_on_a_fiscal_document_a/</link>
       <description><![CDATA[      我正在开发一个用于财务合规性的 Spring Boot 应用程序，在保存预扣税文档（法语中的 Retenue 意思是扣除）时，我有一个在实体持久化之前运行的方法（如图所示）。 它做了两件事：从数据库重新加载完整的实体（因为前端发送 { “id”: 123 } shell 对象），并将字段从 Client 直接复制到 Retenue 行以在创建时冻结它们。 它存在是因为“retenue”存在是合法的财政文件。如果客户下个月更改了姓名或税号，则文档需要反映签名时的数据，而不是当前状态，与辅助表中的预扣税率相同。 真正困扰我的是，它感觉含蓄且脆弱，代码中没有明确的信号表明这些非规范化列是有意的快照，而不是有人只是懒惰地复制字段。如果阅读本文的中小企业不知道为什么raisonSociale（就像公司或客户的法定名称）同时存在于Client和Retenue上。 所以我的问题是：这种快照模式是财务/法律文件的合法方法还是有更简洁的设计？有没有更好的方法来处理 JPA 代理问题（来自前端的 shell 对象），而无需重新加载完整实体来复制 6 个字段？ 对于上下文 2 YOE（尽力理解问题并提出一个好的解决方案）   由   提交/u/MousTN   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tax2l6/is_this_snapshot_pattern_on_a_fiscal_document_a/</guid>
       <pubDate>Tue, 12 May 2026 10:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>规范化，不要记住 — Kotlin 中的智能构造函数 · cekrem.github.io</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tawf8c/canonicalise_dont_remember_smart_constructors_in/</link>
-      <description><![CDATA[       由   提交 /u/cekrem   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tawf8c/canonicalise_dont_remember_smart_constructors_in/</guid>
-      <pubDate>Tue, 12 May 2026 09:29:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种高性能 F-OSS Web 框架适用于内部应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tawc94/which_performant_foss_web_framework_for_internal/</link>
-      <description><![CDATA[我的任务是设置开发一些内部应用程序，并且可以完全自由地使用我想要的任何内容。上次我使用 Next.js 执行此操作，并取得了良好的结果，但托管在 Vercel 上。这次托管仅限于我们自己的数据中心。我有点想全力以赴，使用一些较新的堆栈，例如面包，只是为了获得一些乐趣并使用一些较新的东西。我很高兴至少有一个跨框架身份验证库（better-auth），这使得选择框架变得更加容易。另外，我并不是真正的 Web 开发人员（数据工程师），所以我可能会使用 shadcn 之类的东西，但对于法学硕士，我不太担心让它看起来漂亮。   Next.js 但包相当大，而且不是很有趣。理论上是开源的，但在自己的硬件上托管似乎是第二公民（Opennext）。  SvelteKit，看起来就像 Next，但使用起来更快。 Tanstack Start，开发人员在 Reddit 上非常活跃，但目前可能还太新。 Astro 看起来工作起来很有趣，而且性能非常好，但每日更新对于某些人来说可能可能变得太慢。    由   提交 /u/ReindeerOk9768   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tawc94/which_performant_foss_web_framework_for_internal/</guid>
-      <pubDate>Tue, 12 May 2026 09:25:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
