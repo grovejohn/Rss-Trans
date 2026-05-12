@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 12 May 2026 01:31:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 05:57:26 GMT</lastBuildDate>
+    <item>
+      <title>新版本：编辑互联网上的任何公共图像。</title>
+      <link>https://www.reddit.com/r/software/comments/1taqpva/new_release_edit_any_public_image_on_the_internet/</link>
+      <description><![CDATA[想法很简单： 将任何公共图像 URL 放在后面： https://canvix.io/edit/ 示例： https://placehold.co/800x500.jpg - 在图像网址之前添加 canvix.io/edit/，使其变为： https://canvix.io/edit/https://picsum.photos/800/500.jpg 它直接在在线编辑器中打开图像，因此您可以裁剪图像、调整其大小、添加文本、删除背景或继续设计，而无需先下载和重新上传。 还有一个普通的您可以在其中粘贴图像 URL 的页面： https://canvix.io/edit/ 我构建此页面是因为通常的流程感觉很烦人：保存图像 → 打开编辑器 → 上传图像 → 编辑。这会跳过中间步骤。 一些注意事项：  最适合直接公共图像 URL 某些私有/受保护的 URL 可能不起作用 基本流程无需注册    由   提交/u/Filerax_com   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1taqpva/new_release_edit_any_public_image_on_the_internet/</guid>
+      <pubDate>Tue, 12 May 2026 04:20:51 GMT</pubDate>
+    </item>
     <item>
       <title>你好，我不确定这个是否存在，但我似乎无法在谷歌上找到它。是否有任何应用程序可以让我将所有窗口合并为 1 个窗口，同时能够在它们之间切换？</title>
       <link>https://www.reddit.com/r/software/comments/1taluxm/hello_im_not_sure_if_this_exists_but_i_cant_seem/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[我是一名 Java 开发人员，拥有大约 2 年的经验和 4.75 LPA 的薪水。我的通知期还剩 24 天，手头有 2 个录用通知。 1：其中一个来自一家小型服务公司，为 Java 开发人员职位提供 8 个 LPA 2：第二个来自 Salesforce，为技术支持工程师提供 19.25 个 LPA。 我毕竟想成为一名开发人员。但目前采用 salesforce 会变得很困难，或者我可以在以后利用 salesforce 的名字来获得 SDE 角色吗？我真的很困惑，需要一些建议，请   由   提交/u/doremi_2210  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ta6k20/should_i_join_salesforce/</guid>
       <pubDate>Mon, 11 May 2026 15:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个网站，您可以用文字描述一首歌曲，并在 30 秒内创作出完整的曲目</title>
-      <link>https://www.reddit.com/r/software/comments/1ta4gzc/a_site_where_you_describe_a_song_in_words_and_it/</link>
-      <description><![CDATA[凌晨 2 点遇到 bug，想分享。您输入一个氛围 —“以 105 BPM 的速度演奏马林巴琴和喇叭的非洲节奏” — 30​​ 秒后，它吐出了一首带有封面艺术的成品歌曲。无需登录即可尝试。  由独立团队制作。存在免费套餐。只是觉得这很酷。   由   提交/u/Accomplished_Map2199   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ta4gzc/a_site_where_you_describe_a_song_in_words_and_it/</guid>
-      <pubDate>Mon, 11 May 2026 14:10:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
