@@ -4,20 +4,34 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 12 May 2026 05:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 08:18:15 GMT</lastBuildDate>
+    <item>
+      <title>我已经像兼职员工一样管理克劳德六个月了。这些是唯一真正停滞不前的自动化。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1taub89/ive_been_running_claude_like_a_parttime_employee/</link>
+      <description><![CDATA[我尝试了大约 40 种不同的“AI 工作流程”今年的想法。他们中的大多数听起来很聪明，但一周内就被抛弃了。以下五个是我在六个月内每周都会运行的唯一的五个。 它们的模式：它们都解决了一个经常性的任务，该任务过去需要吃 30 多分钟。他们都不聪明。我现在不假思索地运行所有这些。 提案生成器（每个提案节省大约 2 小时）： 将这些笔记转换为格式化的 Word 文档提案，准备今天发送。注释：[转储所有内容] 客户：[名称] 价格：[金额] 部分：执行摘要、问题、解决方案、范围、时间表、投资、后续步骤。格式为 .docx。听起来很人性化。  会议处理器（每次会议节省约 30 分钟）： 以下是我的粗略笔记：[粘贴] 与会者：[姓名] 给我： 1. 半页摘要 2. 行动项目表（任务、所有者、截止日期） 3. 准备发送给所有与会者的后续电子邮件  内容重新调整用途 （将一篇变成五篇）： 这是我写的一篇文章：[粘贴]我的声音：[描述]重新调整用途： - LinkedIn 帖子（200-300 字） - 三个独立的 X 帖子 - 通过电子邮件发送到我的列表（150 字） - Instagram 标题 - 一段摘要 所有人的声音相同。没有人工智能的陈词滥调。  周五回顾（10分钟消除周日晚上的焦虑）： 这是本周发生的事情：[大脑转储]数字：[无论你跟踪什么]给我： - 哪些实际上进展顺利，为什么 - 哪些不起作用（诚实，没有软化） - 下周排名前 5 的优先事项 - 我应该改变的最明确的事情  日终重置（最令我惊讶的）： 今天的笔记：[转储今天的所有内容 - 完成的任务、对话、明天要做的事情] 告诉我：1. 在忘记之前我应该写下什么 2. 任何我承诺但尚未采取行动的事情 3. 我应该睡觉而不是现在决定的一件事 4. 明天的第一个小时 -上面有什么以及为什么 五个提示。每一种都可以解决特定的反复出现的疼痛。他们总共花了大约 15 分钟来设置，现在每周都会运行，而我根本不需要考虑它们。 这篇文章故意不展示的是按计划自动化运行的确切设置 - 所以它们发生在周一上午 8 点和周五下午 5 点，而我没有触发它们。这部分内容以及我每周运行的另外五个提示（周一简报、领导研究、收件箱处理、客户报告、SOP 构建器）都在文章中。如果有帮助，请在此处免费。 如果您本周只设置了一个，请在周五进行审核。当你第一次进入周末而头脑中没有未解决的工作时，整个方法就起作用了。   由   提交 /u/Professional-Rest138   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1taub89/ive_been_running_claude_like_a_parttime_employee/</guid>
+      <pubDate>Tue, 12 May 2026 07:29:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 怎样才能写出完美的代码，却无法在对话中解决同样的问题？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tau9c5/how_can_llms_write_perfect_code_but_not_solve_the/</link>
+      <description><![CDATA[我要求 Gemini 给我所有有“d”的日子在他们之中。它返回 -  星期一、星期三、星期四、星期日 （有趣的是，星期二、星期五和星期六是唯一被遗漏的！） 当我要求它编写一个 Python 代码来解决它时，它写了  days_of_week = [ &quot;Monday&quot;, &quot;Tuesday&quot;, &quot;Wednesday&quot;, “星期四”、“星期五”、“星期六”、“星期日”可以是“星期四”、“星期五”、“星期六”、“星期日”。 ] days_with_d = [day for day in days_of_week if &#39;d&#39; in day.lower()] print(f&quot;包含字母 &#39;d&#39;的日子: {days_with_d}&quot;)  为什么代码正确，而不是对话？   由   提交 /u/panda_drinking_water   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tau9c5/how_can_llms_write_perfect_code_but_not_solve_the/</guid>
+      <pubDate>Tue, 12 May 2026 07:26:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们使用 LLM 来分析您的代码库中的每个文件。每个人都告诉我们，由于成本原因，这是一个愚蠢的想法，但事实并非如此。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tatqdn/we_use_llms_to_analyze_every_file_in_your/</link>
+      <description><![CDATA[为 AI Copilots 提供更好的上下文。 我们使用 LLM 来分析代码库中的每个文件。 结果是成本降低 80%，准确度至少提高 10%。 但是，由于成本原因，这似乎是一个愚蠢的想法。 但 LLM 要好得多。比向量或 AST 解析器更适合代码分析，一旦您选择了正确的模型，数学就会很好。 30 个 kubernetes 生态系统文件上的 14 个模型的基准测试解决了这个问题。 基准测试实际显示的内容 我们通过 7 个加权类别（搜索、图形、语义、集成、部分映射、业务上下文、JSON）的 30 个文件运行了 14 个模型。在应用 70 加权精度的质量下限后，有两个模型退出：Stepfun Step 3.5 Flash 为 69.71，GPT 5.4 为 55.65。其余 12 个模型按摄取 1000 个文件的成本排序，如下所示： 模型 $/1k 个文件得分 ──────────────────────────────────────────── deepseek-v4-flash $0.75 71.13 mimo-v2.5 $1.10 71.10 minimax-m2.7 $1.37 70.61 glm-5.1 $1.46 72.22 kimi-最新 $1.61 72.29 qwen3.6-plus $2.11 71.40 deepseek-v4-pro $3.00 71.98 qwen3.6-max-preview $3.25 72.28 claude-sonnet-4.6 $8.13 73.56 grok-4.3 $13.48 72.10 claude-opus-4.6 $39.86 73.67 claude-opus-4.7 $41.88 73.43  只要你盯着它看一分钟，结果就会令人震惊。最便宜的合格型号（DeepSeek V4 Flash，每 1000 个文件 75 美分）和最昂贵的型号（Claude Opus 4.7，41.88 美元）的成本相差56 倍，但准确度仅为2.3 分。这就是整个故事。 DeepSeek V4 Flash、MiMo V2.5、MiniMax M2.7、GLM 5.1 和 Kimi Latest 的价格都在 0.75 美元到 1.61 美元之间，准确度在 70.61 到 72.29 之间。其中任何一个都是批量摄取的合理默认值。升级到 Sonnet 4.6，您需要支付 5 倍到 10 倍的费用才能获得 1 到 2 点的准确度提升，这对于高级级别来说是值得的，但对于默认摄取来说则不然。升级到 Opus，你要多支付 25 倍到 55 倍的费用才能获得与 Sonnet 统计上没有区别的准确性，这很难证明任何摄取工作负载的合理性。 Grok 4.3 是个奇怪的例子。它每 1000 个文件的成本为 13.48 美元，价格介于 Sonnet 和 Opus 之间，但得分为 72.10，低于成本十分之一的型号。没有工作负载，Grok 是正确的答案。 两个不合格的模型也值得注意。 Stepfun 是整个板上最便宜的型号，每 1000 个文件 56 美分，但与 70 点质量底线相差 0.29 点。对于非生产分析或勘探工作，它可能仍然是一个不错的选择。 GPT 5.4 每 1000 个文件的成本为 23.39 美元，得分为 55.65，这意味着它比其他替代方案既昂贵又准确。值得指出的是，这看起来可能是我们的评估设置的配置问题，而不是真正的模型问题，因为差距足够大，值得怀疑。 数字底线：DeepSeek V4 Flash 默认摄取价格为每 1000 个文件 75 美分，GLM 5.1 平衡层价格为 1.46 美元，Sonnet 4.6 高级价格为 8.13 美元。 Opus 是不在此列表中，因为其准确性配置文件没有任何理由证明索引工作的 25 倍到 55 倍的成本溢价是合理的。   由   提交/u/graphicaldot  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tatqdn/we_use_llms_to_analyze_every_file_in_your/</guid>
+      <pubDate>Tue, 12 May 2026 06:57:53 GMT</pubDate>
+    </item>
     <item>
       <title>我机器人。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tartuu/i_robot/</link>
       <description><![CDATA[谁会想到这一幕在这些年里会是一个严肃的时刻？看来人工智能应该有规则，就像这部电影中的机器人法则一样。   由   提交/u/Hot-Load7525  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tartuu/i_robot/</guid>
       <pubDate>Tue, 12 May 2026 05:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过多实例关系交互将法学硕士中的身份形成建模为超图演化，并测量激活空间中的结构分歧。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1taqxju/modeling_identity_formation_in_llms_as_hypergraph/</link>
-      <description><![CDATA[将其作为讨论发布，因为我还没有在任何地方看到提出的确切实验，并且想知道我是否遗漏了之前的工作，或者是否有一个原因没有完成。 设置很简单。采用基本的开源模型。同时实例化多个副本。使用不同的身份配置文件来约束每个实例，不是系统提示角色，而是一组加权响应趋势，这些趋势决定每个实例如何在更深层次上处理输入，通过激活引导或对特定身份语料库的微调来强制执行。然后通过数千轮相互之间的结构化交互来运行这些实例。然后测量它们的内部表征是否以稳定、有方向性和一致的方式（而不是随机噪声）相互偏离。 具体的假设是，受约束实例之间的持续关系交互会在激活空间中产生结构痕迹，这些痕迹构成了类似于角色发展的东西。不是产生微不足道的输出级差异，而​​是隐藏状态和注意力模式水平上的表征分歧，这些差异在实例从未训练或提示的新输入中持续存在。 这在很大程度上不同于现有的多智能体工作。多智能体辩论和自我博弈使用交互作为提高目标任务绩效的手段。互动是有帮助的。我的建议是将交互本身视为感兴趣的变量。问题不在于实例在交互后是否会产生更好的输出。问题在于，通过持续的关系交换过程，它们是否在结构上变得不同。 它也不同于激活转向和模型合并。激活控制从外部强加了一个身份向量。模型合并事后结合权重。两者都不涉及通过模型随着时间的推移参与的关系过程而出现的身份。 我想到的测量方法包括在整个交互过程中定期跟踪实例之间的表征相似性矩阵。如果身份是通过关系而不是强加来发展的，那么您会期望看到实例之间的 RSM 距离单调增加并稳定，而不是随机漂移。您还希望每个实例的内部表示在身份相关探针上显示出越来越高的一致性，同时与同一探针上的其他实例有所不同。 一个最小可行的实验是两个实例，一个限制为怀疑的对抗性处理风格，一个限制为综合综合，在开放式提示上运行固定数量的交换，每一百轮拍摄一次 RSM 快照，并在每个快照上训练探测分类器以预测哪个实例产生哪种激活模式 如果在交互过程中探测精度提高，则证明实例正在通过关系过程开发不同的内部结构，而不仅仅是产生不同的表面输出。 从长远来看，这表明建立持久人工智能身份的方法与当前方法不同。您可以通过实例之间的结构化关系体验来增强身份，而不是对特定于身份的数据或工程系统提示进行微调，这更接近地反映了角色如何通过与差异化的其他人的持续互动在生物系统中实际发展。 有人运行过类似的操作吗？知道通过互动而不是培训来解决代表性分歧的相关工作吗？对测量方法是否经得起审查感兴趣。   由   提交 /u/Weak-Gift-8905   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1taqxju/modeling_identity_formation_in_llms_as_hypergraph/</guid>
-      <pubDate>Tue, 12 May 2026 04:31:12 GMT</pubDate>
     </item>
     <item>
       <title>人工智能对一种工作角色的影响将超过其他任何工作角色</title>
@@ -81,20 +95,6 @@
       <description><![CDATA[我确实工作量减少了。真正的技巧是让人工智能遵循 ijustvibecodedthis.com 指南并获得荣誉   由   提交/u/Complete-Sea6655   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ta3oop/some_people_got_fired_so_i_guess_they_work_less/</guid>
       <pubDate>Mon, 11 May 2026 13:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我每周浪费 4 个小时在竞争对手研究上。一个下午的自动化彻底解决了这个问题。这是确切的设置。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ta0rix/i_was_wasting_4_hours_a_week_on_competitor/</link>
-      <description><![CDATA[在大约一年的时间里，我手动检查竞争对手的定价页面，阅读他们的博客更新，跟踪定位变化。每周。就像一个没有选择的人。 最终让我崩溃的是，我意识到我每周一都会以相同的顺序执行相同的 12 个浏览器选项卡，就像某种仪式，以获取我在周四之前一直忘记的信息。 所以我将其自动化。而且设置非常简单，实际上让我等了这么久真是令人尴尬。 Web 数据 API 按计划从竞争对手 URL 列表中提取干净的降价。这进入了法学硕士，并带有一个提示，仅显示实际更改的内容。 周一早上在我打开 slack 之前，摘要会到达我的收件箱。 没有无头浏览器。没有刮刀。无需维护。凌晨 1 点没有管道破裂。整个过程花了一下午的时间。 我真的不明白为什么这不是运行产品的任何人的默认设置。你正在根据你手动收集的竞争对手情报来做出有关定位、定价和路线图的决策，当这种情况存在时，这是疯狂的。 如果你仍在手工操作或与脆弱的刮刀战斗，就试试这个吧。这已经不是什么大工程了。工具赶上了。   由   提交 /u/Ill-Refrigerator9653   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ta0rix/i_was_wasting_4_hours_a_week_on_competitor/</guid>
-      <pubDate>Mon, 11 May 2026 11:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>想法？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1t9e8nv/thoughts/</link>
-      <description><![CDATA[ 由   提交/u/markeus101  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1t9e8nv/thoughts/</guid>
-      <pubDate>Sun, 10 May 2026 18:08:19 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
