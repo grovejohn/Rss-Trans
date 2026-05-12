@@ -4,13 +4,27 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 12 May 2026 13:31:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:03:31 GMT</lastBuildDate>
     <item>
-      <title>我是 Windows 上唯一一个厌倦了无法正确测试 iOS 的 Flutter 开发人员吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1tb1ihr/am_i_the_only_flutter_dev_on_windows_whos_tired/</link>
-      <description><![CDATA[我在 Windows 上构建 Flutter 应用程序已经有一段时间了。每次我需要测试 iOS 时，我都会在等待 15 分钟进行 CI 构建、为我几乎不使用的云 Mac 付费，或者只是……没有正确测试 iOS 并希望得到最好的结果之间做出选择。 这些都不像实际的解决方案。它们都是解决方法。 我真正想要的很简单 - 进行更改，立即在 iOS 模拟器上查看它，检查日志，修复错误，然后重复。我在 Android 和 iOS 上都有相同的循环。 Codemagic 和 Bitrise 非常适合最终构建，但它们不是为迭代而构建的。 Appetize 很酷，但首先需要一个已编译的应用程序。 MacStadium 可以工作，但日常使用时它昂贵且笨重。 有其他人感受到这种痛苦吗？还是我一直以来都做错了？ 如果存在一个工具，可以在浏览器中为您提供实时 iOS 模拟器，并具有热重载（不到 5 秒的反馈），您真的会为此付费吗？ 好奇人们的想法。   由   提交 /u/MarionberryMelodic81   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tb1ihr/am_i_the_only_flutter_dev_on_windows_whos_tired/</guid>
-      <pubDate>Tue, 12 May 2026 13:22:13 GMT</pubDate>
+      <title>我需要一个具有从复杂的 VoIP 系统迁移到更简单的系统的真实经验的人</title>
+      <link>https://www.reddit.com/r/software/comments/1tb74q5/i_need_someone_with_a_real_experience_moving_from/</link>
+      <description><![CDATA[我们最近放弃了具有大量自定义路由的 VoIP 设置。它对我们有用了一段时间，但它变得难以维护，特别是当出现问题时，并不总是清楚问题是在公司方面还是公司方面。我们遇到过一些未接来电无法正确重试的情况，这对我们公司来说是一个非常麻烦的情况。 我们决定切换到更简单的设置，现在我们正在测试名为 Ooma 的设置，我们将看看这是否适合我们。主要目标是减少移动部件并更多地依赖内置处理而不是自定义自动化。 还有其他人从更“工程化”的系统转向更“工程化”的系统吗？ VoIP 系统变得更简单吗？您最终是否需要任何自动化，特别是关于前一个的重试或错误通知？   由   提交/u/Leading_Month_5575   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tb74q5/i_need_someone_with_a_real_experience_moving_from/</guid>
+      <pubDate>Tue, 12 May 2026 16:41:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scroil - 一个 Windows 扩展，使鼠标滚轮在应用程序之间滚动更加顺畅</title>
+      <link>https://www.reddit.com/r/software/comments/1tb72au/scroil_a_windows_extension_that_makes_mouse_wheel/</link>
+      <description><![CDATA[Windows 滚动是否感觉“跳跃”？或者与您的手机或笔记本电脑相比不一致？或者也许您厌倦了无休止地旋转轮子只是为了浏览一份很长的 PDF 或一千行代码？ 我构建了 Scroil 来解决这个问题。它为 Windows 带来高精度、全局平滑滚动，并让您在需要的地方加快速度。 功能  全局平滑滚动：在 Windows 上的应用程序中提供更平滑的鼠标滚轮滚动，减少应用程序默认滚动行为的跳跃感。 自定义滚动感觉：调整速度、步长、加速度、减加速度和滚动速度。细粒度的滚动行为。 滚动加速器：在更快的滚轮移动过程中提高滚动速度，使长页面更容易移动。 应用选择器和应用程序选择器按应用程序控制：将当前打开的程序添加到 Scroil 配置文件列表，为每个应用程序自定义滚动体验。 自动应用程序分类器：自动识别基于 Chromium 的应用程序，包括 Teams、Discord、Outlook 等，然后为该应用程序类型应用正确的滚动配置。 游戏检测：自动识别游戏并关闭游戏的平滑滚动，以避免干扰您的游戏  我仍在积极开发它，因此非常欢迎反馈和错误报告！ GitHub：https://github.com/EricxWood/Scroil 在此处下载：https://github.com/EricxWood/Scroil/releases/   由   提交/u/Budget-Solid-5059   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tb72au/scroil_a_windows_extension_that_makes_mouse_wheel/</guid>
+      <pubDate>Tue, 12 May 2026 16:39:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>SE.LIVE 插件完全崩溃/冻结我的计算机</title>
+      <link>https://www.reddit.com/r/software/comments/1tb30s1/selive_plugin_completely_crashesfreezes_my/</link>
+      <description><![CDATA[ 由   提交 /u/GirthCntrl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tb30s1/selive_plugin_completely_crashesfreezes_my/</guid>
+      <pubDate>Tue, 12 May 2026 14:18:16 GMT</pubDate>
     </item>
     <item>
       <title>正在寻找比 ChatGPT 更好的 AI 编码器，以帮助在其本机 Script-FU 和 Python 中编写 GIMP2 和 GIMP3 脚本。建议？</title>
@@ -71,7 +85,7 @@
     <item>
       <title>新版本：编辑互联网上的任何公共图像。</title>
       <link>https://www.reddit.com/r/software/comments/1taqpva/new_release_edit_any_public_image_on_the_internet/</link>
-      <description><![CDATA[想法很简单： 将任何公共图像 URL 放在后面： https://canvix.io/edit/ 示例： https://placehold.co/800x500.jpg - 在图像网址之前添加 canvix.io/edit/，使其变为： https://canvix.io/edit/https://picsum.photos/800/500.jpg 它直接在在线编辑器中打开图像，因此您可以裁剪图像、调整其大小、添加文本、删除背景或继续设计，而无需先下载和重新上传。 还有一个普通的您可以在其中粘贴图像 URL 的页面： https://canvix.io/edit/ 我构建此页面是因为通常的流程感觉很烦人：保存图像 → 打开编辑器 → 上传图像 → 编辑。这会跳过中间步骤。 一些注意事项：  最适合直接公共图像 URL 某些私有/受保护的 URL 可能不起作用 基本流程无需注册    由   提交/u/Filerax_com   [链接] [评论]]]></description>
+      <description><![CDATA[想法很简单： 将任何公共图像 URL 放在后面： https://canvix.me 示例： https://placehold.co/800x500.jpg - 在图像网址之前添加 canvix.me/，使其变为： https://canvix.me/https://picsum.photos/800/500.jpg 它直接在在线编辑器中打开图像，以便您可以裁剪图像、调整大小、添加文本、删除背景或继续设计，而无需先下载和重新上传。 还有一个普通页面，您可以在其中进行编辑只需粘贴图像 URL： https://canvix.me 或 https://canvix.io/edit/ 我构建这个是因为通常的流程感觉很烦人：保存图像→打开编辑器→上传图像→编辑。这会跳过中间步骤。 一些注意事项：  最适合直接公共图像 URL 某些私有/受保护的 URL 可能不起作用 基本流程无需注册    由   提交/u/Filerax_com   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1taqpva/new_release_edit_any_public_image_on_the_internet/</guid>
       <pubDate>Tue, 12 May 2026 04:20:51 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我在兽医大学期间经常使用旧的 QTranslate。尤其是第三年，有大量的医学材料，里面有我不认识的单词。拉丁名称、解剖学术语、药物名称、外来词。 QTranslate 让我选择一个单词，按下热键，然后立即翻译它，听发音，或者查字典，而无需离开我正在阅读的内容。 然后它开始崩溃。翻译服务失败。 TTS 停止在某些提供商上工作。字典变得不可靠。原来的项目似乎被放弃了，所以没有修复。 找不到另一个有相同感觉的应用程序，所以我决定自己重建它。我是一名兽医学生，但我一直在业余时间认真学习 CS。 我想要做对的一件事是：我不希望我的版本在 API 更改时以同样的方式消失。所以我围绕插件系统构建了它。翻译、TTS、OCR、词典、拼写检查、AI 功能。全部可互换，无需触及核心。 它的作用：  快速翻译弹出窗口 (Ctrl+Q) 字典弹出窗口 (Ctrl+D) 屏幕 OCR 文本转语音 摘要和重写 翻译历史记录 拼写检查 RTL支持 通过 OpenRouter 支持 AI  首先为自己构建。如果您使用过原版但丢失了它，这应该感觉很熟悉。  https://preview.redd.it/5pq9l7t0pl0h1.png?width=1203&amp;format=png&amp;auto=webp&amp;s=0dba9f9942cc3824e1fbb287b19394d3393d6a83 GitHub：github.com/ahatem/QTranslate   由   提交 /u/ahatem925   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tajx22/qtranslate_died_during_vet_college_so_i_rebuilt_it/</guid>
       <pubDate>Mon, 11 May 2026 23:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将任何网站转换为（Windows）应用程序</title>
-      <link>https://www.reddit.com/r/software/comments/1tahwd0/how_to_turn_any_website_in_to_a_windows_app/</link>
-      <description><![CDATA[作为一名开发人员，我制作了一些网站，我想将其中一个变成 Windows 应用程序，但我不确定如何做到这一点。有谁知道如何做到这一点？   由   提交/u/MightyCoolGaming  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tahwd0/how_to_turn_any_website_in_to_a_windows_app/</guid>
-      <pubDate>Mon, 11 May 2026 21:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最近通过 Ninite 而不是官方网站安装了 ImgBurn，我安全吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1tagmir/i_recently_installed_imgburn_via_ninite_rather/</link>
-      <description><![CDATA[所以我最近下载了ImgBurn，在下载之前，我看到人们说不要从官方网站下载，因为它包含恶意软件什么的。我决定改用 Ninite，因为我过去曾多次使用它来安装软件。我用完它后就卸载了它（我只需要它做一件事），并使用 Malwarebytes 和 Norton 运行恶意软件扫描，结果均为阴性。  我还好吗，或者我应该担心吗？我听说 Ninite 在安装程序方面通常享有盛誉，所以我对此感到放心一些。   由   提交 /u/Active-Trash-8575   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tagmir/i_recently_installed_imgburn_via_ninite_rather/</guid>
-      <pubDate>Mon, 11 May 2026 21:10:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
