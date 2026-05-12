@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 11 May 2026 19:24:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 01:31:59 GMT</lastBuildDate>
+    <item>
+      <title>你好，我不确定这个是否存在，但我似乎无法在谷歌上找到它。是否有任何应用程序可以让我将所有窗口合并为 1 个窗口，同时能够在它们之间切换？</title>
+      <link>https://www.reddit.com/r/software/comments/1taluxm/hello_im_not_sure_if_this_exists_but_i_cant_seem/</link>
+      <description><![CDATA[我不知道如何解释它，但我想知道是否有一种有趣的实用程序类型的应用程序，可以让您将多个打开的窗口组合成 1 个窗口，并且为了与每个窗口交互，您必须在该 1 个窗口内在它们之间切换，有点像照片库？我不确定这是否有意义，但如果你们愿意，我可以在评论中画一个插图   由   提交/u/Wowzapan400  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1taluxm/hello_im_not_sure_if_this_exists_but_i_cant_seem/</guid>
+      <pubDate>Tue, 12 May 2026 00:41:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我花了9个月搭建了一个开源语音AI平台</title>
+      <link>https://www.reddit.com/r/software/comments/1talqol/i_spent_9_months_and_built_an_open_source_voice/</link>
+      <description><![CDATA[大家好， 我们花了 9 个月的时间构建了 Dograh，一个开源语音代理平台。在构建这个之前，我们研究了有关语音 AI 的所有内容，从 YouTube 教程推荐开始，还查看了 Vapi、Pipecat 和 Retell 等其他竞争对手，以了解该行业面临的主要问题是什么，以及我们如何构建最好的 OSS 语音 AI 构建器平台。  当我们慢慢开始构建时，我们意识到制作代理很容易，但基准测试不是聊天机器人；而是。这是一个人。人们根据它是否感觉自然、是否像人类来进行判断。人们总是会注意到人工智能听起来不太对劲的那 5%。即使法学硕士很强大，但仍然不可预测。管理期望比构建代理更难。语音质量决定一切。 我们尝试解决很多此类问题。例如，您可以使用预先录制的语音以获得更自然的感觉并减少延迟，我们还集成了语音到语音模型。 我们刚刚发布了一项新功能，您可以将其与 OpenClaw 或 Claude Code（最近推出的 MCP）一起使用。 除此之外，我们还向开源添加了许多功能，例如电话（Twilio、Plivo、SIP）、呼叫分析、知识库、CRM 连接器、以及针对任何 LLM、STT 或 TTS 的 BYOK。 向此社区提出的几个问题： 您目前在其他平台中发现的最有趣的功能是什么？ Github：https://github.com/dograh-hq/dograh   由   提交 /u/Slight_Republic_4242   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1talqol/i_spent_9_months_and_built_an_open_source_voice/</guid>
+      <pubDate>Tue, 12 May 2026 00:36:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>QTranslate 在兽医大学期间去世。所以我重建了它。</title>
+      <link>https://www.reddit.com/r/software/comments/1tajx22/qtranslate_died_during_vet_college_so_i_rebuilt_it/</link>
+      <description><![CDATA[我在兽医大学期间经常使用旧的 QTranslate。尤其是第三年，有大量的医学材料，里面有我不认识的单词。拉丁名称、解剖学术语、药物名称、外来词。 QTranslate 让我选择一个单词，按下热键，然后立即翻译它，听发音，或者查字典，而无需离开我正在阅读的内容。 然后它开始崩溃。翻译服务失败。 TTS 停止在某些提供商上工作。字典变得不可靠。原来的项目似乎被放弃了，所以没有修复。 找不到另一个有相同感觉的应用程序，所以我决定自己重建它。我是一名兽医学生，但我一直在业余时间认真学习 CS。 我想要做对的一件事是：我不希望我的版本在 API 更改时以同样的方式消失。所以我围绕插件系统构建了它。翻译、TTS、OCR、词典、拼写检查、AI 功能。全部可互换，无需触及核心。 它的作用：  快速翻译弹出窗口 (Ctrl+Q) 字典弹出窗口 (Ctrl+D) 屏幕 OCR 文本转语音 摘要和重写 翻译历史记录 拼写检查 RTL支持 通过 OpenRouter 支持 AI  首先为自己构建。如果您使用过原版但丢失了它，这应该感觉很熟悉。  https://preview.redd.it/5pq9l7t0pl0h1.png?width=1203&amp;format=png&amp;auto=webp&amp;s=0dba9f9942cc3824e1fbb287b19394d3393d6a83 GitHub：github.com/ahatem/QTranslate   由   提交 /u/ahatem925   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tajx22/qtranslate_died_during_vet_college_so_i_rebuilt_it/</guid>
+      <pubDate>Mon, 11 May 2026 23:18:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将任何网站转换为（Windows）应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1tahwd0/how_to_turn_any_website_in_to_a_windows_app/</link>
+      <description><![CDATA[作为一名开发人员，我制作了一些网站，我想将其中一个变成 Windows 应用程序，但我不确定如何做到这一点。有谁知道如何做到这一点？   由   提交/u/MightyCoolGaming  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tahwd0/how_to_turn_any_website_in_to_a_windows_app/</guid>
+      <pubDate>Mon, 11 May 2026 21:57:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最近通过 Ninite 而不是官方网站安装了 ImgBurn，我安全吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1tagmir/i_recently_installed_imgburn_via_ninite_rather/</link>
+      <description><![CDATA[所以我最近下载了ImgBurn，在下载之前，我看到人们说不要从官方网站下载，因为它包含恶意软件什么的。我决定改用 Ninite，因为我过去曾多次使用它来安装软件。我用完它后就卸载了它（我只需要它做一件事），并使用 Malwarebytes 和 Norton 运行恶意软件扫描，结果均为阴性。  我还好吗，或者我应该担心吗？我听说 Ninite 在安装程序方面通常享有盛誉，所以我对此感到放心一些。   由   提交 /u/Active-Trash-8575   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tagmir/i_recently_installed_imgburn_via_ninite_rather/</guid>
+      <pubDate>Mon, 11 May 2026 21:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些无聊的技能可以悄悄地让某人成为 10 倍开发者？</title>
+      <link>https://www.reddit.com/r/software/comments/1tae3k4/what_are_some_boring_skill_that_quietly_makes/</link>
+      <description><![CDATA[不是人工智能，不是框架，而是诸如编写文档、提出好问题或干净提交之类的东西。哪些被低估的习惯将扎实的工程师与混乱的工程师区分开来？   由   提交/u/WolfPspecial2348  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tae3k4/what_are_some_boring_skill_that_quietly_makes/</guid>
+      <pubDate>Mon, 11 May 2026 19:41:53 GMT</pubDate>
+    </item>
     <item>
       <title>科纳舞者</title>
       <link>https://www.reddit.com/r/software/comments/1tablkx/kona_dancer/</link>
@@ -67,48 +109,6 @@
       <description><![CDATA[凌晨 2 点遇到 bug，想分享。您输入一个氛围 —“以 105 BPM 的速度演奏马林巴琴和喇叭的非洲节奏” — 30​​ 秒后，它吐出了一首带有封面艺术的成品歌曲。无需登录即可尝试。  由独立团队制作。存在免费套餐。只是觉得这很酷。   由   提交/u/Accomplished_Map2199   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ta4gzc/a_site_where_you_describe_a_song_in_words_and_it/</guid>
       <pubDate>Mon, 11 May 2026 14:10:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>生物化学预科医学预科毕业生可能是swe？</title>
-      <link>https://www.reddit.com/r/software/comments/1ta222e/biochem_pre_med_recent_grad_to_possible_swe/</link>
-      <description><![CDATA[大家好， 我即将毕业，获得生物化学和生物化学学位。分子生物学，原本计划去医学院。不过，在过去的一年里，我在这条道路上感到非常疲惫，并开始认真考虑转向技术——特别是软件工程。 我意识到我一直对编码/技术有浓厚的兴趣，但从未充分探索过它。到目前为止，我唯一真正接触过的只是参加了计算建模课程，所以我基本上还是一个初学者。 我一直在与该领域的一些人交谈，并得到了不同的建议： 有人说我的科学/解决问题的背景可以很好地转移其他人说现在即使对于计算机科学毕业生来说市场也很艰难 所以我在做出承诺之前努力保持现实和有意。 现在我： 开始学习 JavaScript 计划构建一些小项目，看看我是否真的喜欢它 参加介绍软件开发活动/与 SWE 毕业生交流 我想我的主要问题是： 2026 年没有 CS 学位进入 SWE 有多现实？ 你会推荐自学还是回去攻读硕士学位（CS 或相关）？如果我认真对待这一转变，我的前 3-6 个月实际上应该是什么样子？ 您个人在什么时候知道 SWE 适合您？ 我并不指望这会很容易 - 只是想找出最明智的方法来实现这一转变而不浪费时间。并且也很乐意与任何愿意提供帮助和分享见解的人进行一对一！   由   提交/u/Sea-Telephone177  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ta222e/biochem_pre_med_recent_grad_to_possible_swe/</guid>
-      <pubDate>Mon, 11 May 2026 12:37:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最近从tinytask.net在我的笔记本电脑上下载了tinytask，但它被标记为键盘记录器（这正常吗？）它把我发送到了一个github，创建者是Berniece_wq，请帮忙</title>
-      <link>https://www.reddit.com/r/software/comments/1ta1z9r/i_recently_downloaded_tinytask_on_my_laptop_from/</link>
-      <description><![CDATA[ 由   提交/u/Repulsive_Goat2660   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ta1z9r/i_recently_downloaded_tinytask_on_my_laptop_from/</guid>
-      <pubDate>Mon, 11 May 2026 12:34:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>DocNest - 25 个免费 PDF 工具</title>
-      <link>https://www.reddit.com/r/software/comments/1ta1304/docnest_25_free_pdf_tools/</link>
-      <description><![CDATA[ 由   提交/u/sekharsimhadri   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ta1304/docnest_25_free_pdf_tools/</guid>
-      <pubDate>Mon, 11 May 2026 11:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果一个软件使用你的内容模式来改进人工智能，它仍然完全是你的知识吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1t9w5t3/if_a_software_uses_your_content_patterns_to/</link>
-      <description><![CDATA[如果您团队的页面、评论、工作流程和内容模式用于改进供应商的人工智能系统，您仍然完全了解它们吗？ 法律答案可能是肯定的。您仍然拥有该内容。但是，实际的答案感觉不太清楚。 知识库不仅仅是一堆页面。它通常包含决策轨迹、项目结构、内部术语、政策、运营程序和组织的工作方式。 这就是为什么 Atlassian 2026 年的数据贡献变化值得密切关注。 Atlassian 表示，从 2026 年 8 月 17 日起，它将开始使用符合条件的客户元数据，并根据计划设置使用应用内数据，以改善所有客户的应用和 AI 体验。这些设置预计将于 2026 年 5 月 19 日在 Atlassian Administration 中提供。  Atlassian 自己的文档中的一些重要详细信息： 免费、标准和高级计划的元数据始终处于开启状态。 企业客户可以选择退出元数据贡献。 免费和标准的应用内数据默认开启。 高级的应用内数据默认关闭应用内数据的示例包括 Confluence 页面标题和内容、Jira 问题标题、描述和评论、自定义状态名称、工作流程名称和自定义表情符号名称。 Atlassian 表示，贡献的元数据和应用内数据在使用前会进行去标识化和聚合。  如果您的知识库记录了您的组织如何思考、决策和运营，那么对这些知识的控制就很重要。托管、可审核性、选择退出选项、保留和退出路径都不是小细节。 对于评估替代方案的团队来说，像 r/XWiki 这样的开源知识平台是更好地控制知识存在位置及其管理方式的一种方式。 人工智能数据贡献设置是否会影响您对 wiki 或知识库的选择，或者这主要是一个法律/采购问题您的组织吗？ 请大家举报，模组请禁止在回复此帖子时提到的任何工具   由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t9w5t3/if_a_software_uses_your_content_patterns_to/</guid>
-      <pubDate>Mon, 11 May 2026 07:32:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的基于 Markdown 的开发工具是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1t9suu9/what_are_the_best_markdown_based_dev_tools/</link>
-      <description><![CDATA[ 由   提交 /u/Successful_Bowl2564   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t9suu9/what_are_the_best_markdown_based_dev_tools/</guid>
-      <pubDate>Mon, 11 May 2026 04:33:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>检查 DVD/BR 的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1t9rjno/software_to_check_dvdsbrs/</link>
-      <description><![CDATA[有没有可以读取 DVD 和蓝光光盘以检查它们是正版还是盗版的软件？我知道 ImgBurn 以前做过，但自 2013 年以来就没有更新过？   由   提交 /u/BadBloodMO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1t9rjno/software_to_check_dvdsbrs/</guid>
-      <pubDate>Mon, 11 May 2026 03:28:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
