@@ -4,11 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 May 2026 17:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 19:26:38 GMT</lastBuildDate>
+    <item>
+      <title>原本需要1个sprint的项目现在已经进入了8个sprint</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tbbqka/the_project_that_was_supposed_to_take_1_sprint/</link>
+      <description><![CDATA[原始票证是“向用户列表添加过滤器”。 1分。估计要半天。那是在七月初 我们现在正处于这项工作的冲刺 8 阶段，我们实际上正在构建的是用户管理系统的完全重建，其中包括新的权限模型、管理操作的审核日志记录以及重新设计的管理界面，设计团队现在将其称为“用户 2.0”。每一次复古都会有人说“我不敢相信这还在继续”的某种版本。我们都嘲笑它，然后在下一个冲刺中我们添加另一个相邻的东西，因为它“就在那里” 蠕变发生在完全合理的步骤中。过滤器需要一个搜索索引。搜索索引显示我们的权限检查在 4 个不同的地方不一致。修复权限后发现，我们没有对安全团队一直要求的管理更改进行审计跟踪。审计跟踪意味着我们需要一个真正的管理界面，因为旧的界面是只读的。现在，我们在 Figma 中重新设计了管理界面，PM 对此感到很兴奋，因为它还解决了其他三个问题。每一步在孤立的情况下都是有意义的 代码库变得很奇怪，就像长项目变得很奇怪一样。一半的方法旁边有一个 v2。一些旧代码仍然存在，因为我们不能 100% 确定没有任何东西调用它。 coderabbit 对我们的 PR 的评论变得越来越有趣，上周其中一个评论基本上是说“这个文件对于同一件事有 4 种不同的模式，你确定吗？”答案是肯定的，我们确信，我们知道，但请不要删除评论，它可以帮助下一个开发人员了解他们正在进入什么 让我感到困惑的部分是这一切都不是任何人的错。没有任何个人决定是错误的。首相并没有突然变得邪恶。工程并没有管理不善。设计团队并没有做得太过分。但不知何故，我们把 1 分变成了 4 分，我很确定如果你把我们所有人都放在 7 月份，根据我们现在掌握的信息，我们也会做出同样的决定 下一个冲刺我们将“结束”这就是我们在 sprint 5 中所说的    由   提交 /u/notomarsol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tbbqka/the_project_that_was_supposed_to_take_1_sprint/</guid>
+      <pubDate>Tue, 12 May 2026 19:19:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前哪些人工智能概念和工具确实值得学习？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tb9x8n/what_ai_concepts_and_tools_are_actually_worth/</link>
+      <description><![CDATA[嘿大家， ​现在涌现的大量人工智能工具和概念让我感到有点不知所措。我来自旧的开发时代，我们只是手工完成工作或使用正常的传统设置。 ​我并不打算追逐 Twitter 上发布的每一个闪亮的新工具。我只是想确保我了解最新情况，并且不会错过那些可以合理地提高我日常工作流程效率的事情。 ​当我坐下来列出要学习的内容以升级我的工具箱时，我完全陷入了困境。最近出现了很多术语，例如 mcps、克劳德代码、克劳德技能等等。 ​有人能给我一个高级概述或一个简单的要点清单，列出我应该实际学习并放入工具箱的基本概念和工具吗？我只是想把时间集中在那些经过验证、能增加实际价值的东西上。 ​提前感谢您的帮助。   由   提交/u/neuralandmad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tb9x8n/what_ai_concepts_and_tools_are_actually_worth/</guid>
+      <pubDate>Tue, 12 May 2026 18:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在使用 Next.js、Socket.io 和 Flutter 构建实时系统时学到的一些东西</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tb8nqr/some_things_i_learned_building_realtime_systems/</link>
+      <description><![CDATA[最近我花了很多时间尝试实时通信系统和工作流程繁重的应用程序。 令我惊讶的一件事是，一旦多个客户端同时交互，状态同步就会变得多么困难。很多工作最终都不是与 UI 相关的，而是处理： - 重新连接行为， - 重复事件， - 不一致的客户端状态， - 乐观更新， - 快速交互过程中的类似竞争条件的问题。 我还花了很多时间改进： - 上传响应能力， - API/状态一致性， - 随着项目的发展，前端结构， - 跨多个设备调试实时流。 大部分堆栈都是围绕以下构建的： - Next.js， - Node.js + Socket.io， - MongoDB， - 和用于移动实验的 Flutter。 很好奇这里的其他开发人员如何处理实时同步和大量通信工作流程，特别是当项目开始扩展到简单演示之外时。   由   提交 /u/MathiRaja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tb8nqr/some_things_i_learned_building_realtime_systems/</guid>
+      <pubDate>Tue, 12 May 2026 17:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么一些大网站（例如 YouTube）从不要求进行人类验证码验证，而另一些网站（例如 Google）则要求进行验证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tb7yzn/why_some_big_sites_youtube_for_example_never_asks/</link>
+      <description><![CDATA[我经常在非 google-chrome 浏览器上使用匿名选项卡进行基本网络搜索（google 搜索、duckduckgo 以及搜索产生的许多较小网站），并且经常要求我解决验证码问题，通常是在非专有时使用 cloudfare 验证。但这种情况永远不会发生在 youtube.com 上，当然也不会发生在其他流量较大的网站（twitch、microsoft.com 等）上。 YouTube 和 google 之所以不同，是因为它们是同一家公司，但肯定还有很多其他例子。 TL;DR;为什么一些流量很大的网站从不使用验证码/人工验证，而其他网站却这样做？   由   提交/u/NaoVouNao   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tb7yzn/why_some_big_sites_youtube_for_example_never_asks/</guid>
+      <pubDate>Tue, 12 May 2026 17:10:29 GMT</pubDate>
+    </item>
     <item>
       <title>找到一个网站，你可以在其中粘贴 GitHub 存储库，获取人工智能尝试运行它的视频，甚至可以烘烤它，哈哈。</title>
       <link>https://www.reddit.com/r/webdev/comments/1tb6ys3/found_a_website_where_you_just_paste_a_github/</link>
-      <description><![CDATA[      我一直在尝试一种工具，可以将 GitHub 存储库转换为人工智能代理试图运行它们的解说视频。你输入一个存储库 URL，它会在沙箱中启动一个代理，然后你会看到整个过程的简短视频：克隆、npm install 痛苦、框架 CLI、浏览器输出、错误、重试等。 我在一个随机的 GitHub 存储库上测试了它，“请残酷地烘烤这个存储库”，代理仅根据它实际经历的内容来进行设置和 DX。它出人意料地擅长揭示“在我的机器上运行”的假设，而您在自己的项目中不会注意到这些假设。 如果您想了解您的网络存储库对新机器+半脾气暴躁的机器人的感觉如何，请访问以下网站：https://go.videodb.io/TryMyRepoRe。   由   提交 /u/CallmeAK__   [链接] [评论] ]]></description>
+      <description><![CDATA[   我一直在尝试一种工具，可以将 GitHub 存储库转换为人工智能代理试图运行它们的解说视频。你输入一个存储库 URL，它会在沙箱中启动一个代理，然后你会看到整个过程的简短视频：克隆、npm install 痛苦、框架 CLI、浏览器输出、错误、重试等。 我在一个随机的 GitHub 存储库上测试了它，“请残酷地烘烤这个存储库”，代理仅根据它实际经历的内容来进行设置和 DX。它出人意料地擅长揭示“在我的机器上运行”的假设，而您在自己的项目中不会注意到这些假设。 如果您想了解您的网络存储库对新机器+半脾气暴躁的机器人的感觉如何，请访问以下网站：https://go.videodb.io/TryMyRepoRe。   由   提交 /u/CallmeAK__   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tb6ys3/found_a_website_where_you_just_paste_a_github/</guid>
       <pubDate>Tue, 12 May 2026 16:36:10 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我的任务是设置开发一些内部应用程序，并且可以完全自由地使用我想要的任何内容。上次我使用 Next.js 执行此操作，并取得了良好的结果，但托管在 Vercel 上。这次托管仅限于我们自己的数据中心。我有点想全力以赴，使用一些较新的堆栈，例如面包，只是为了获得一些乐趣并使用一些较新的东西。我很高兴至少有一个跨框架身份验证库（better-auth），这使得选择框架变得更加容易。另外，我并不是真正的 Web 开发人员（数据工程师），所以我可能会使用 shadcn 之类的东西，但对于法学硕士，我不太担心让它看起来漂亮。   Next.js 但包相当大，而且不是很有趣。理论上是开源的，但在自己的硬件上托管似乎是第二公民（Opennext）。  SvelteKit，看起来就像 Next，但使用起来更快。 Tanstack Start，开发人员在 Reddit 上非常活跃，但目前可能还太新。 Astro 看起来工作起来很有趣，而且性能非常好，但每日更新对于某些人来说可能可能变得太慢。    由   提交 /u/ReindeerOk9768   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tawc94/which_performant_foss_web_framework_for_internal/</guid>
       <pubDate>Tue, 12 May 2026 09:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>National-park-service/fonts：受美国国家公园管理局启发的开源字体</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tavu3o/nationalparkservicefonts_us_national_park_service/</link>
-      <description><![CDATA[      受 SIL 开放字体许可证 1.1 发布的美国国家公园管理局标牌、海报和步道标记启发的六种开源字体   由   提交/u/freb97  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tavu3o/nationalparkservicefonts_us_national_park_service/</guid>
-      <pubDate>Tue, 12 May 2026 08:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何处理长期运行的人工智能代理中的上下文窗口膨胀，生产中的经验教训</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tatczx/how_we_handle_context_window_bloat_in_long/</link>
-      <description><![CDATA[在生产中运行 AI 代理已经有一段时间了，上下文管理是不断出现的问题。在测试中代理运行良好。在生产中，一个长任务会积累上下文，直到窗口填满并且输出悄悄降级，并且不会引发错误。我们在处理三年交易历史的财务报告代理身上发现了这一点。该代理在小数据集上工作得很好，但在整个数据集上默默地产生了更糟糕的输出，因为上下文在中途膨胀了。真正有效的是，在长期任务中定期总结检查点。我们不是将所有内容都附加到上下文中，而是将已完成的部分压缩为摘要并继续下去。原始细节已经消失，但代理仍然立足于重要的事情。将指令上下文与会话上下文分开也有很大帮助。指令在每个步骤开始时被修复并重新注入。会话状态是动态的并且会被积极地修剪。方法很简单，但它可以使智能体在长期运行中保持稳定，而不会达到极限。好奇其他人如何处理长时间运行任务的上下文管理，您是进行总结、分块还是完全使用不同的方法？   由   提交/u/Excellent_Poetry_718  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tatczx/how_we_handle_context_window_bloat_in_long/</guid>
-      <pubDate>Tue, 12 May 2026 06:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于跟踪代理机构工作日时间都花在哪里的软件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tarzso/software_to_track_where_time_goes_in_a_workday/</link>
-      <description><![CDATA[除了标准时间表工具之外，您还使用什么机构来查看工作日中时间实际消失的位置？   由   提交/u/RosieMorris006   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tarzso/software_to_track_where_time_goes_in_a_workday/</guid>
-      <pubDate>Tue, 12 May 2026 05:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>SERP 上的服务器错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1taro7o/server_error_on_serp/</link>
-      <description><![CDATA[       由   提交/u/Mukusha099  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1taro7o/server_error_on_serp/</guid>
-      <pubDate>Tue, 12 May 2026 05:08:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
