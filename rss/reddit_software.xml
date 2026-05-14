@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 13 May 2026 22:04:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 01:53:31 GMT</lastBuildDate>
+    <item>
+      <title>在 Django/DRF 中构建了一个开源出站 API 网关。</title>
+      <link>https://www.reddit.com/r/software/comments/1tceqqi/built_an_opensource_outbound_api_gateway_in/</link>
+      <description><![CDATA[​ 厌倦了每次集成第三方 API 时重新实现相同的事情后，这个想法开始了： * 身份验证处理 * OAuth 令牌刷新 * 速率限制 * 配额 * 日志记录 * 端点包装器 * 响应格式 因此我构建了 **Asstgr**：一个自托管平台，您可以在其中注册一次外部 API，定义端点/参数/方法，然后通过统一的 REST 接口访问所有内容。 架构基本上是： `您的应用程序 -&gt;`助理 -&gt; Stripe/GitHub/OpenWeather/etc` 功能： * OAuth2（`client_credentials`、`authorization_code`、`password`） * API 密钥身份验证（`sk-...`） * 每用户配额系统 * DRF 节流 * 端点建模 * 审核日志 *统一`/execute/`端点 *响应格式化模式 * Django管理支持 * PostgreSQL + ASGI堆栈 我想要的一件事是让外部API的行为更像内部服务，而不是每个项目都有定制的集成代码。 技术堆栈： * Django 5 * Django REST Framework * PostgreSQL * Daphne / Channels * SimpleJWT 它是完全开源的 (MIT)，我还构建了一个托管 SaaS 版本，顶部有一个 UI 层，因为仅限管理的工作流程不适合日常使用。 开源： https://github.com/botyut/asstgr 托管版本： https://www.asstgr.com/home/ 非常希望以前构建过内部 API 平台/网关的人们提供反馈，尤其是围绕： * 架构设计 * 配额系统 * OAuth 架构 * 执行抽象 * 扩展问题 好奇其他人是否最终构建了类似的内部工具而不是使用RapidAPI / Kong / Tyk / 等。   由   提交/u/ELMG006  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tceqqi/built_an_opensource_outbound_api_gateway_in/</guid>
+      <pubDate>Wed, 13 May 2026 22:13:27 GMT</pubDate>
+    </item>
     <item>
       <title>这是什么？这是真的吗？</title>
       <link>https://www.reddit.com/r/software/comments/1tcee72/what_is_this_is_this_real/</link>
@@ -48,13 +55,6 @@
       <pubDate>Wed, 13 May 2026 19:19:47 GMT</pubDate>
     </item>
     <item>
-      <title>这可能是一个非常愚蠢的问题，但我不是最了解技术的人。在 Windows 上，您实际使用什么安全网站/软件将屏幕录制内容（我相信是 IIRC 的 mp4）转换为 MP3？</title>
-      <link>https://www.reddit.com/r/software/comments/1tc9bqn/this_is_probably_a_really_dumb_question_but_i_am/</link>
-      <description><![CDATA[首先我要说的是，我并不是想从事盗版或盗版音乐之类的事情。我真的只是需要将这个屏幕录制转换为 mp3，并试图找到一种安全的方法来做到这一点，但在网上很难找到一个好的答案，而且我对病毒非常偏执。这让我很失落，因为我确信我不是第一个需要这样做的人。   由   提交 /u/Celestial-Hollow   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tc9bqn/this_is_probably_a_really_dumb_question_but_i_am/</guid>
-      <pubDate>Wed, 13 May 2026 19:01:17 GMT</pubDate>
-    </item>
-    <item>
       <title>正在寻找一款专门针对作家的游戏化成就列表应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1tc7qbk/looking_for_a_gamified_achievements_to_do_list/</link>
       <description><![CDATA[正如标题所示，如果应用程序具有专注于写作方面的专用功能，那就太好了。因此，我不寻找一个必须自己创建编写重点模板的应用程序。谢谢，感谢您的建议。    由   提交 /u/usmannaeem   [链接] [评论]]]></description>
@@ -85,7 +85,7 @@
     <item>
       <title>使用 Rust + Tauri 构建了一个免费、开源的 Postgres 桌面客户端——没有云，没有遥测，只有原始速度</title>
       <link>https://www.reddit.com/r/software/comments/1tc6iig/built_a_free_opensource_postgres_desktop_client/</link>
-      <description><![CDATA[嘿 👋 我一直在研究 VeloxDB——一个用于 PostgreSQL 的桌面 GUI，速度实际上很快。我厌倦了基于浏览器的客户端通过某些初创公司的服务器路由查询，因此我使用 Rust 后端构建了本地优先的东西。 以下是它的不同之处：  🦀 Rust 后端 - 通过 deadpool-postgres 进行连接池，没有代理开销 🖥️ Monaco 编辑器（与 VS Code 相同的引擎），具有针对实际架构的实时 SQL linting 📊 结果集上的虚拟滚动 - 百万行查询不会挂起 UI 🗺️ 可视化 ER 图 - 拖动表、连接列、在应用之前预览 DDL 迁移 🔐 SSH 隧道支持 + 操作系统钥匙串中的凭据（无纯文本存储） ⌨️ 适用于所有内容的命令面板 (Cmd+P / Ctrl+P)  适用macOS、Linux 和 Windows。麻省理工学院许可。仍处于测试阶段，但可用于日常开发工作。 希望得到反馈——尤其是来自那些与其他客户碰壁的人。有哪些功能   由   提交/u/FactorGeneral4078  [link] [评论]]]></description>
+      <description><![CDATA[嘿 👋 我一直在研究 VeloxDB——一个用于 PostgreSQL 的桌面 GUI，速度实际上很快。我厌倦了基于浏览器的客户端通过某些初创公司的服务器路由查询，因此我使用 Rust 后端构建了本地优先的东西。 以下是它的不同之处：  🦀 Rust 后端 - 通过 deadpool-postgres 进行连接池，没有代理开销 🖥️ Monaco 编辑器（与 VS Code 相同的引擎），具有针对实际架构的实时 SQL linting 📊 结果集上的虚拟滚动 - 百万行查询不会挂起 UI 🗺️ 可视化 ER 图 - 拖动表、连接列、在应用之前预览 DDL 迁移 🔐 SSH 隧道支持 + 操作系统钥匙串中的凭据（无纯文本存储） ⌨️ 适用于所有内容的命令面板 (Cmd+P / Ctrl+P)  适用macOS、Linux 和 Windows。麻省理工学院许可。仍处于测试阶段，但可用于日常开发工作。 希望得到反馈——尤其是来自那些与其他客户碰壁的人。有哪些功能   由   提交/u/FactorGeneral4078  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tc6iig/built_a_free_opensource_postgres_desktop_client/</guid>
       <pubDate>Wed, 13 May 2026 17:26:13 GMT</pubDate>
     </item>

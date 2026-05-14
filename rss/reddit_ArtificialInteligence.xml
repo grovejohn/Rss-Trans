@@ -4,13 +4,20 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Wed, 13 May 2026 22:02:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 01:52:09 GMT</lastBuildDate>
     <item>
-      <title>对于学生和教育工作者</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tcbuqw/for_students_educators/</link>
-      <description><![CDATA[教育工作者如何在课程作业中使用 Gamers Home？ 教育工作者以结构化格式管理学生项目。学生在从事具有里程碑意义的范围项目时获得制作经验。 它为您节省了寻找行业联系的工作，Capstone 项目管理已经具备工作空间、工具和专业网络。 我们为整个学期的项目提供教学大纲模板、教材和教师支持。 对于学生来说，玩家之家是您超越作业的地方。 您可以创建自己的游戏项目、组建团队，并了解创办游戏工作室的实际需要。 该平台可让您与正在构建游戏项目的独立开发者、行业专业人士和其他创作者建立联系。 无论您是想在第一款游戏中实习、寻找合作者还是了解游戏的业务方面，Gamers Home 都能为您提供实现这一目标的工具、社区和行业访问权限。 我们使用 AI 进行项目范围界定、敏捷开发管道和合作者匹配。   由   提交/u/gamershomeadmin  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tcbuqw/for_students_educators/</guid>
-      <pubDate>Wed, 13 May 2026 20:29:16 GMT</pubDate>
+      <title>当按需生成合成训练数据时，什么最重要？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tcilf0/what_matters_when_synthetic_training_data_is/</link>
+      <description><![CDATA[披露：我从事 Abliteration 工作，我们刚刚启动了定制的训练数据工作流程。 我们不断看到的一个实际问题：团队需要用于分类器的负面、罕见和对抗性示例，但这些示例通常正是通用模型拒绝生成的。这使得安全分类器、滥用检测、越狱评估和安全研究数据集的构建变得比应有的更加困难。 为了使生成的训练数据有用，我认为它需要的不仅仅是一个提示框：  - 生成开始之前的目标模式  - 一种在需要时混合当前或现实世界事实的方法  - 导出后仍然存在的标签和原因代码  - 足够的出处来审查数据集稍后  - 将路径导出到人们已经使用的工具 我们推出的东西可以让您描述所需的示例，可以选择使用网络搜索，并导出到 Hugging Face、Kaggle、S3 或 OpenAI。初始用例包括用于修饰和骚扰的审核分类器、安全研究数据集和模型评估。 产品：https://abliteration.ai/ 综合数据页面：https://abliteration.ai/use-cases/synthetic-data 启动/视频：https://x.com/abliteration_ai/status/2054675554138194178 好奇这里的人们如何看待可审查性。如果生成的数据集要进入分类器，您希望为每一行记录什么？   由   提交 /u/Effective_Attempt_72   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tcilf0/what_matters_when_synthetic_training_data_is/</guid>
+      <pubDate>Thu, 14 May 2026 00:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>观点：用AI来学习并没有什么错</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tcicta/opinion_there_is_nothing_wrong_with_using_ai_to/</link>
+      <description><![CDATA[现在我并不是说每次使用人工智能来学习都是好的。例如，我不希望未来的医生要求人工智能教他们核心概念。诸如此类的事情应该留给教科书之类的东西，然后使用人工智能来测试你所说的材料。即便如此，我对此仍然有点怀疑，除非你给人工智能你正在学习的材料。 我的意思是，人工智能对于学习诸如如何磨刀之类的东西非常有用。当然，您绝对可以在网上轻松地找到如何做到这一点，但是能够提出问题并始终获得明确的答案是非常有用的。当然，有些问题我可以在网上查找，但可能更难找到答案，我可能不得不挖掘。但如果我问人工智能，它只会给我答案。   由   提交 /u/Correct-Macaroon-240   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tcicta/opinion_there_is_nothing_wrong_with_using_ai_to/</guid>
+      <pubDate>Thu, 14 May 2026 00:42:16 GMT</pubDate>
     </item>
     <item>
       <title>因此，SpaceX 是新的计算业主，计算是新的杠杆点，每笔交易最终都取决于谁大规模控制 GPU</title>
@@ -18,6 +25,13 @@
       <description><![CDATA[我做了一些分析， 1) 第一个光标：他们达到了计算上限，可以访问 colossus 来训练他们的作曲家编码模型。随着增长速度超过了他们接受基础设施培训的速度，需求随之而来 2) 第二个人类，天啊，模因在这方面非常棒。该交易最终让人类能够在 Colossus 1 上使用 300MW 容量的 220,000 多个 NVIDIA GPU，之后，SpaceX AI 将自己的训练转移到 Colossus 2。原因是什么？ Anthropic 一直在努力满足开发者的需求，导致了激进的费率上限 3) 第三，谷歌：嗯，一个名为“Suncatcher”的项目，谷歌正在与 Elon Musk SpaceX 就一项潜在的火箭发射交易进行谈判，因为这家科技巨头正在深入推进在轨道上建设数据中心的计划。 除此之外，这里还有另一种更深层次的垂直模式，涉及基础设施堆栈 模型构建者（Anthropic、 Cursor）正在与计算所有权脱钩，并从基础设施参与者（SpaceXAI、谷歌、亚马逊）购买访问权限。我想没有人能拥有完整的堆栈了 想法？    由   提交/u/ocean_protocol  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tc9zat/so_spacex_is_the_new_compute_landlord_and_compute/</guid>
       <pubDate>Wed, 13 May 2026 19:23:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>副驾驶告诉我微软赢得了 Microslop 的绰号，这太有趣了</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tc9e4o/copilot_telling_me_that_microsoft_earned_the/</link>
+      <description><![CDATA[它还会更改 bing 上的搜索结果“包括 microsoft 的结果”。你只想要微斜率的结果吗？” 这就是 Copilot 不得不说的： 由于用户对侵入式 AI 功能、不可靠的输出以及认为景观优先于可用性的普遍不满，微软赢得了“Microslop”的绰号。 术语的起源 贬义术语“Microslop”是一个嘲笑微软的混成词。积极推动人工智能发展，特别是通过跨 Windows 11、Office 和其他产品的 Copilot 集成。用户创造这个词是为了强调他们认为低质量、侵入性和未经打磨的人工智能功能，呼应了韦氏词典对“slop”的定义，即大规模生产的低质量输出。  主要批评 1。侵入式人工智能集成 微软已将 Copilot AI 嵌入到几乎所有产品中，从 Windows 资源管理器和记事本到 Paint 和 Edge，通常没有明确的退出选项。用户报告说，这些功能在用户界面中显得很突出，有时会扰乱工作流程，并对 Microsoft 帐户和遥测产生一种胁迫感。  2.可靠性和准确性问题 Copilot 生成的输出经常不正确、具有误导性或不一致，导致人们感到沮丧并削弱对 Microsoft AI 工具的信任。即使是简单的任务，例如在 Windows 11 中使用人工智能驱动的搜索栏，也被证明会反复失败，凸显了可用性问题。  3.性能和资源问题人工智能功能可能会降低旧硬件的速度，降低电池寿命，并促使用户进行昂贵的硬件升级以满足设备上的加速要求。这使得人们认为微软优先考虑华丽的人工智能功能而不是实际性能。  4.隐私和数据问题 人工智能代理与内存和后台访问的集成引发了合理的隐私问题，包括敏感数据和遥测收集的潜在暴露。过去发生的事件，例如人工智能功能保存包含个人信息的屏幕截图，放大了这些恐惧。 5.企业反应和社区摩擦 微软试图在其 Copilot Discord 服务器上压制“Microslop”一词，包括禁止用户或删除消息，但结果适得其反，产生了史翠珊效应，加剧了公众的批评。高管们对用户担忧的不屑一顾的语气进一步加剧了负面情绪。  更广泛的影响 这种强烈反对反映了更大的信任和可用性挑战：用户认为微软强调人工智能奇观而不是实质内容，往往以牺​​牲可靠性、控制和用户体验为代价。社交媒体的放大效应将孤立的投诉变成了病毒式的叙述，塑造了公众的看法，甚至吸引了监管机构的审查。  结论 微软的“Microslop”声誉源于积极的人工智能部署、侵入性的用户界面更改、不可靠的输出、性能和隐私问题以及轻蔑的企业反应。虽然该公司的目标是将人工智能定位为核心平台功能，但许多用户认为这些努力是强迫的、低质量的和破坏性的，从而引发了广泛的批评和“Microslop”标签的病毒式采用。   由   提交 /u/plantsandinsects   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tc9e4o/copilot_telling_me_that_microsoft_earned_the/</guid>
+      <pubDate>Wed, 13 May 2026 19:03:36 GMT</pubDate>
     </item>
     <item>
       <title>热门观点：我们现在所说的“代理人工智能”90% 只是一个美化的 while 循环。</title>
@@ -41,25 +55,11 @@
       <pubDate>Wed, 13 May 2026 15:31:41 GMT</pubDate>
     </item>
     <item>
-      <title>OpenAI 首席执行官山姆·奥尔特曼 (Sam Altman) 否认背叛埃隆·马斯克 (Elon Musk)，并在审判中为营利性推动辩护</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tc1ohz/openai_chief_sam_altman_denies_betraying_elon/</link>
-      <description><![CDATA[ 由   提交 /u/talkingatoms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tc1ohz/openai_chief_sam_altman_denies_betraying_elon/</guid>
-      <pubDate>Wed, 13 May 2026 14:41:22 GMT</pubDate>
-    </item>
-    <item>
       <title>Fireworks AI 替代方案 2026 - 寻找更快的东西</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tbxrtf/fireworks_ai_alternatives_2026_looking_for/</link>
       <description><![CDATA[Fireworks 在过去几周感觉更加迟缓。与几个月前我第一次开始使用它们时相比，TTFT 和整体吞吐量似乎都下降了。我有一个副业项目，混合运行 Deepseek 和 Mixtral。数量很小，但延迟峰值足够频繁，我想知道他们是否有容量问题或者是否有什么变化。他们的状态页面始终是绿色的，所以我不确定这是什么交易。我喜欢他们的模型选择，但原始速度对于我正在构建的东西来说是不可协商的。我需要亚秒级 TTFT 才能正常工作。  在开放权重模型上进行快速、经济的推理有哪些替代方案？    由   提交 /u/oh_kayeee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tbxrtf/fireworks_ai_alternatives_2026_looking_for/</guid>
       <pubDate>Wed, 13 May 2026 12:11:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>随着美国科技游说的加剧，西班牙在社交媒体和人工智能规则上坚守底线</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tbxkcl/spain_holds_the_line_on_social_media_and_ai_rules/</link>
-      <description><![CDATA[&quot;西班牙数字化转型部长奥斯卡·洛佩斯周三表示，马德里将继续推行一系列针对社交媒体平台和高风险人工智能系统的规则，尽管他称美国科技公司加大了游说力度。 “四家科技公司的利润不能以牺牲数百万人的权利为代价，”洛佩斯对记者表示，援引来自“强大声音”的压力，反对限制高风险人工智能并迫使平台披露其推荐算法工作原理的提案。”   由   提交/u/shikizen   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tbxkcl/spain_holds_the_line_on_social_media_and_ai_rules/</guid>
-      <pubDate>Wed, 13 May 2026 12:02:14 GMT</pubDate>
     </item>
     <item>
       <title>Meta 员工在大规模裁员前几天抗议新的鼠标跟踪软件</title>
