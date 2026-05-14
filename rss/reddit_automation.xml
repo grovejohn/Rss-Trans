@@ -4,7 +4,7 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 14 May 2026 16:54:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 19:24:56 GMT</lastBuildDate>
     <item>
       <title>2026 年第一季度机器人订单数据显示自动化需求扩大到汽车以外的领域</title>
       <link>https://www.reddit.com/r/automation/comments/1tczlwo/q1_2026_robot_order_data_shows_automation_demand/</link>
@@ -62,13 +62,6 @@
       <pubDate>Thu, 14 May 2026 07:28:38 GMT</pubDate>
     </item>
     <item>
-      <title>Octoparse MCP 挑战赛（奖金 1,800 美元）：构建 AI 网页抓取工作流程（无代码）</title>
-      <link>https://www.reddit.com/r/automation/comments/1tcpm2m/octoparse_mcp_challenge_1800_in_prizes_build_ai/</link>
-      <description><![CDATA[ 由   提交 /u/nitkjh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tcpm2m/octoparse_mcp_challenge_1800_in_prizes_build_ai/</guid>
-      <pubDate>Thu, 14 May 2026 06:21:19 GMT</pubDate>
-    </item>
-    <item>
       <title>🚨 快点，最好的套利平台来了。</title>
       <link>https://www.reddit.com/r/automation/comments/1tcmmkt/hurry_up_the_best_arbitrage_platform_is_coming_to/</link>
       <description><![CDATA[      立即尝试 OddsFinder，同时免费访问仍然可用。距离免费访问结束仅剩 3 天。 ⏳ 比以往更快、更干净、更轻松地找到套利机会。 📈🔥 # Arbitration #sportsbetting #valuebetting #bettingtwitter #oddsfinder   由   提交/u/Kgwmine  [链接] [评论] ]]></description>
@@ -102,6 +95,13 @@
       <description><![CDATA[我厌倦了逐个工具地看到这个问题，所以我想分享一个在不同用例中保持一致的框架。 以下是我在与不同规模的团队合作后的思考方式： 在以下情况下使用 Zapier：您的团队是非技术人员，需要独立拥有工作流程。触发/动作很简单并且不太可能改变。这周你需要让它运行。当工作流需要超过 2 层深度的条件逻辑时，Zapier 就会开始与您作斗争。 如果满足以下条件，请使用 n8n：您至少有一个人能够轻松地阅读 JSON，并且在节点出错时不会惊慌。您需要分支逻辑、子工作流或自定义代码步骤。出于成本或数据原因，您需要自托管。 n8n的天花板比Zapier高很多，但地板也低一些。损坏的工作流程需要有人真正修复它们。 如果满足以下条件，请使用 Relay：工作流程中有人参与，并且这种情况不会消失。批准、移交、审查步骤、路由、通知、升级路径，这些听起来很简单的东西，直到 5 个人跨 Slack、电子邮件、文档和内部工具接触相同的流程。当问题是操作协调而不是纯粹的自动化时，Relay 对我来说更有意义。 如果满足以下条件，请进行自定义： 工作流程是产品或操作工作方式的核心，并且会经常更改。您正在与没有预构建连接器的内部系统集成。您需要将完整的可观察性（日志、重试、警报）融入到系统中，而不是固定在系统上。定制的前期成本更高，需要一名真正的工程师，但当工作流程扩展或需求发生变化时，它就会得到回报。 我看到团队经常犯的错误是从 Zapier 开始，达到上限，迁移到 n8n，然后最终构建定制，浪费数周甚至数月的时间，而不是做出一次正确的调用。 答案几乎总是取决于团队组成，而不是工作流程本身。 是什么让你选择了你所在的堆栈？你会采取什么不同的做法？   由   提交 /u/yuuliiy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tcc83f/zapier_vs_n8n_vs_relay_vs_custom_built_the/</guid>
       <pubDate>Wed, 13 May 2026 20:42:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>为小型自动化项目寻找可靠的 Twitter/X 抓取 API</title>
+      <link>https://www.reddit.com/r/automation/comments/1tc9x0q/looking_for_a_reliable_twitterx_scraping_api_for/</link>
+      <description><![CDATA[我一直在尝试为一个业余项目自动化一些社交媒体监控，而 Twitter/X 给我带来的麻烦比预期的要多。 我使用 Python 和 Selenium 构建了一个基本的抓取工具。它工作了几天，但后来我开始遇到持续的 429 错误、帐户锁定和不可靠的结果，甚至有延迟。 我还尝试过轮换住宅代理，这很快就变得昂贵，但它仍然不能始终如一地解决问题。动态加载也令人沮丧，因为许多推文数据在原始 HTML 中没有清晰地显示。 我查看了一些抓取 API，但大多数似乎都是为通用网络抓取或 Google 地图风格用例而构建的。我需要的是专门与 Twitter/X 内容配合使用的东西。 我的用例量非常小，可能每周有几千条推文，因此按使用付费将是理想的选择。在我仍在测试该项目时，我试图避免再次按月订阅。 我需要的主要数据：  推文文本 时间戳 参与计数 基本个人资料信息  没有太先进的内容。 有没有人为此找到可靠的选择，或者 Twitter/X 对于小型企业来说是否非常困难现在有自动化项目吗？   由   提交 /u/isohaibilyas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tc9x0q/looking_for_a_reliable_twitterx_scraping_api_for/</guid>
+      <pubDate>Wed, 13 May 2026 19:21:21 GMT</pubDate>
     </item>
     <item>
       <title>您对使用人工智能创建内部运营工具有何想法？</title>
