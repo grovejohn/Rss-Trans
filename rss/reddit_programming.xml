@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 14 May 2026 06:15:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 11:07:55 GMT</lastBuildDate>
     <item>
-      <title>不要灰心手工编码</title>
-      <link>https://www.reddit.com/r/programming/comments/1tcoh3j/dont_be_discouraged_to_code_by_hand/</link>
-      <description><![CDATA[ 由   提交/u/boodleboodle  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tcoh3j/dont_be_discouraged_to_code_by_hand/</guid>
-      <pubDate>Thu, 14 May 2026 05:21:36 GMT</pubDate>
+      <title>Rust 中的 Rewrite Bun 已合并</title>
+      <link>https://www.reddit.com/r/programming/comments/1tcuebe/rewrite_bun_in_rust_has_been_merged/</link>
+      <description><![CDATA[ 由   提交/u/gruenistblau  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tcuebe/rewrite_bun_in_rust_has_been_merged/</guid>
+      <pubDate>Thu, 14 May 2026 10:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/programming/comments/1tctrih/i_attended_a_mob_programming_coding_dojo_that/</link>
+      <description><![CDATA[ 由   提交/u/alfred-nsh   [链接] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tctrih/i_attended_a_mob_programming_coding_dojo_that/</guid>
+      <pubDate>Thu, 14 May 2026 10:11:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>文明崩溃后如何构建编程语言</title>
+      <link>https://www.reddit.com/r/programming/comments/1tcsy80/how_to_build_a_programming_language_after/</link>
+      <description><![CDATA[ 由   提交/u/Affectionate_Mix3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tcsy80/how_to_build_a_programming_language_after/</guid>
+      <pubDate>Thu, 14 May 2026 09:27:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>决策树</title>
+      <link>https://www.reddit.com/r/programming/comments/1tcrdbf/decision_trees/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tcrdbf/decision_trees/</guid>
+      <pubDate>Thu, 14 May 2026 07:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件的电子化</title>
+      <link>https://www.reddit.com/r/programming/comments/1tcr624/the_emacsification_of_software/</link>
+      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tcr624/the_emacsification_of_software/</guid>
+      <pubDate>Thu, 14 May 2026 07:47:06 GMT</pubDate>
     </item>
     <item>
       <title>刚刚写了一些关于 kubernetes 流式迁移的想法</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[ 由   提交/u/self  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tc628z/intellectual_control_vs_statistical_control/</guid>
       <pubDate>Wed, 13 May 2026 17:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quack：DuckDB 客户端-服务器协议</title>
-      <link>https://www.reddit.com/r/programming/comments/1tc182n/quack_the_duckdb_clientserver_protocol/</link>
-      <description><![CDATA[ 由   提交/u/BrewedDoritos  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tc182n/quack_the_duckdb_clientserver_protocol/</guid>
-      <pubDate>Wed, 13 May 2026 14:24:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 年和 500 万美元之后：发明一种新的 Web 开发编程语言是一个错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1tc02h0/5_years_and_5m_later_inventing_a_new_programming/</link>
-      <description><![CDATA[ 由   提交/u/matijash  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tc02h0/5_years_and_5m_later_inventing_a_new_programming/</guid>
-      <pubDate>Wed, 13 May 2026 13:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>物理积分方法简介</title>
-      <link>https://www.reddit.com/r/programming/comments/1tc01nx/introduction_to_physics_integration_methods/</link>
-      <description><![CDATA[ 由   提交/u/PeterBrobby   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tc01nx/introduction_to_physics_integration_methods/</guid>
-      <pubDate>Wed, 13 May 2026 13:42:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fluxzy 从 Electron 切换到 Tauri 五个月后</title>
-      <link>https://www.reddit.com/r/programming/comments/1tbynhu/five_months_after_switching_fluxzy_from_electron/</link>
-      <description><![CDATA[ 由   提交 /u/DifficultyFine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tbynhu/five_months_after_switching_fluxzy_from_electron/</guid>
-      <pubDate>Wed, 13 May 2026 12:48:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
