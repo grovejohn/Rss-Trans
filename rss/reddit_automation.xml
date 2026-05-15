@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 15 May 2026 11:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 13:21:45 GMT</lastBuildDate>
+    <item>
+      <title>对于小型创作者来说，Akool 人工智能工具市场还处于早期阶段吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tdv9qb/is_the_akool_ai_tools_market_still_early_for/</link>
+      <description><![CDATA[我最近注意到的一件事是人工智能工具与内容创建者、附属机构和在线营销的联系有多快。  几个月前，感觉只有更大的创作者在谈论这些工具。现在，更小的页面和更新的网站正在进入这个领域。  这让我很好奇，小型创作者在这个利基市场是否仍有有机增长的空间，或者市场是否已经被拥有更多受众和广告预算的人所主导。  对于已经活跃在该领域的任何人，您对未来一两年的发展趋势有何真实看法？   由   提交 /u/N1boost   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tdv9qb/is_the_akool_ai_tools_market_still_early_for/</guid>
+      <pubDate>Fri, 15 May 2026 12:44:09 GMT</pubDate>
+    </item>
     <item>
       <title>日本：世界上第一个拥有类人机器人、无人的全自动医学实验室 - 该大学计划到 2040 年拥有 2,000 台研究机器人，以实现实验、细胞培养和科学发现的自动化。</title>
       <link>https://www.reddit.com/r/automation/comments/1tdsrpa/japan_worldfirst_fully_automated_medicine_lab/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>GTM 自动化中的 n8n、Make 和 Zapier，这就是每个人真正崩溃的地方</title>
       <link>https://www.reddit.com/r/automation/comments/1tdk79m/n8n_vs_make_vs_zapier_for_gtm_automation_heres/</link>
-      <description><![CDATA[每个 GTM 堆栈最终都会遇到同样的问题：谁协调 Clay、HubSpot 和您的推广工具之间的工作流程？这三个平台每次都会出现。它们不可互换，每个都有一个真正的上限。 Zapier 最适合没有工程支持的团队。触发操作模型直观、设置快速且集成库庞大。对于简单的事情效果很好：表单提交到 CRM、Calendly 到 HubSpot、交易阶段更改到 Slack。 问题是按数量定价。工作流程中的每个步骤都算作一项任务。涉及 500 个联系人的 5 步丰富流程 = 2,500 个任务。专业计划给你 750。你在一次战役中就耗尽了它。也没有本机代码执行，因此任何需要循环、条件或数据转换的东西都会很快遇到困难。 Make 当您需要真正的逻辑时，需要采取的步骤。可视画布处理多分支工作流程、并行路径、迭代器和错误处理程序，而 Zapier 中不存在这些。基于操作的定价也可以更好地扩展：核心计划的 10,000 次操作每月 9 美元与 Zapier 的任务限制相比。 它的不足之处：没有自托管、有限的本机代码执行和复杂的 API 处理（动态标头、OAuth 流、分页）需要解决方法。对于集成较新的 GTM 工具，它会变得混乱。 n8n 为会编码的人构建。在工作流节点内完整执行 JavaScript 和 Python，因此逻辑复杂性几乎没有限制。自托管版本完全免费且不受限制，对于大批量 GTM 工作来说，成本差异会快速增加。 权衡是设置开销。您正在管理基础设施（通常是每月 5-20 美元的 VPS），UI 不够精致，并且本机应用程序库比 Make 或 Zapier 小。如果你的团队中没有人可以维护它，它就会成为一种负担。 如何将它们实际一起使用 大多数成熟的 GTM 堆栈不会选择一个，而是分层：  Zapier 用于简单集成，运维团队需要在没有工程帮助的情况下进行维护 实现中等复杂性路由和 CRM 同步 n8n 作为核心管道，Clay 丰富，评分、路由、序列登记  真正的决定不是“哪个工具”，而是“每个工具拥有哪一层”。如果犯了这个错误，就会导致堆栈的维护成本高昂，并且当出现问题时就会变得脆弱。   由   提交 /u/Official-DevCommX   [链接] [评论]]]></description>
+      <description><![CDATA[每个 GTM 堆栈最终都会遇到同样的问题：谁协调 Clay、HubSpot 和您的推广工具之间的工作流程？这三个平台每次都会出现。它们不可互换，每个都有一个真正的上限。 Zapier 最适合没有工程支持的团队。触发操作模型直观、设置快速且集成库庞大。对于简单的事情效果很好：表单提交到 CRM、Calendly 到 HubSpot、交易阶段更改到 Slack。 问题是按数量定价。工作流程中的每个步骤都算作一项任务。涉及 500 个联系人的 5 步丰富流程 = 2,500 个任务。专业计划给你 750。你在一次战役中就耗尽了它。也没有本机代码执行，因此任何需要循环、条件或数据转换的东西都会很快遇到困难。 Make 当您需要真正的逻辑时，需要采取的步骤。可视化画布可处理多分支工作流程、并行路径、迭代器和错误处理程序，而这些在 Zapier 中都不存在。基于操作的定价也可以更好地扩展：核心计划的 10,000 次操作每月 9 美元与 Zapier 的任务限制相比。 它的不足之处：没有自托管、有限的本机代码执行和复杂的 API 处理（动态标头、OAuth 流、分页）需要解决方法。对于集成较新的 GTM 工具，它会变得混乱。 n8n 为会编码的人构建。在工作流节点内完整执行 JavaScript 和 Python，因此逻辑复杂性几乎没有限制。自托管版本完全免费且不受限制，对于大批量 GTM 工作来说，成本差异会快速增加。 权衡是设置开销。您正在管理基础设施（通常是每月 5-20 美元的 VPS），UI 不够精致，并且本机应用程序库比 Make 或 Zapier 小。如果你的团队中没有人可以维护它，它就会成为一种负担。 如何将它们实际一起使用 大多数成熟的 GTM 堆栈不会选择一个，而是分层：  Zapier 用于简单集成，运维团队需要在没有工程帮助的情况下进行维护 实现中等复杂性路由和 CRM 同步 n8n 作为核心管道，Clay 丰富，评分、路由、序列登记  真正的决定不是“哪个工具”，而是“每个工具拥有哪一层”。如果犯了这个错误，就会导致堆栈的维护成本高昂，并且当出现问题时就会变得脆弱。   由   提交 /u/Official-DevCommX   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tdk79m/n8n_vs_make_vs_zapier_for_gtm_automation_heres/</guid>
       <pubDate>Fri, 15 May 2026 03:21:31 GMT</pubDate>
     </item>
@@ -88,13 +95,6 @@
       <description><![CDATA[大多数自动化案例研究只分享胜利。这是一个诚实的集合——包括一个横向的集合。1。客户入职 - 专业服务公司 之前：每个新客户 3 小时，主要是手动电子邮件和文档收集。 之后：接收表格 → 自动生成欢迎文档 → 项目工具中的任务分配。缩短至 25 分钟。 其原理：首先标准化入学问题。花了两周时间才接触任何自动化。2。潜在客户资格 - B2B SaaS 之前：SDR 手动对入站潜在客户进行评分，标准不一致，大约 4 小时滞后。 之后：表单提交触发评分工作流程，在 15 分钟内将热门潜在客户路由给销售代表，其他则进行培养。 结果：跟进速度加快 40%，销售代表将时间花在更好的潜在客户上。3.每周运营报告 - 电子商务品牌 之前：运营经理每周一花费 3-4 小时从 4 个工具中提取数据。 之后：定期 Webhook 提取数据，LLM 起草叙述，经理在 20 分钟内进行审查。 它的工作原理：首先锁定数据源。自动化花了 2 天时间。数据清理耗时3周。4．支持工单分类 — SaaS 公司 之前：所有工单都进入一个队列，支持团队手动标记和路由。 之后：分类器按主题和紧急程度进行路由，自动回复处理前 5 个常见问题解答。 结果：30% 的工单无需人工干预即可得到解决。 CSAT 持平——这是真正的考验。5。合同审查提醒 - 不起作用的提醒 建立了一个自动化功能来标记即将续签的合同。听起来很简单。 失败是因为合同日期在 CRM 中以 3 种不同的格式存在。在数据清理上花费的时间比自动化节省的时间还要多。 教训：如果数据不干净且不一致，自动化将很难发现这一点。  您最近构建的影响最大的自动化是什么？   由   提交 /u/Alert_Journalist_525   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tcttu8/5_workflow_automations_that_actually_moved_the/</guid>
       <pubDate>Thu, 14 May 2026 10:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>替代 HALO 的自动礼物发送工具？</title>
-      <link>https://www.reddit.com/r/automation/comments/1tcstgj/tools_for_automated_gift_sending_instead_of_halo/</link>
-      <description><![CDATA[HALO 最近令人沮丧，因此我开始研究更简单的自动礼品发送平台，用于员工礼物、赠品和认可。 主要问题是仅限美国运输和定价不明确。一旦将商品、运费、费用和其他费用加起来，就很难计算出总成本。 我听人们谈论 Kotis、PerkUp 和 Sendoso 作为其他选择，但我想知道这里的其他人已经改用了什么以及它是否是一个不错的选择。 我主要寻找一个可靠的平台，支持国际运输，提供透明的定价，允许灵活定制礼品和赠品，并且易于购买随着时间的推移，我们会发送更多礼物，进行管理。   由   提交/u/WeatherInternal3116  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tcstgj/tools_for_automated_gift_sending_instead_of_halo/</guid>
-      <pubDate>Thu, 14 May 2026 09:19:55 GMT</pubDate>
     </item>
     <item>
       <title>替代 5 种工具的无代码自动化平台</title>
