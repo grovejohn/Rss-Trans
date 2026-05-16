@@ -4,20 +4,76 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Sat, 16 May 2026 01:29:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 15:44:45 GMT</lastBuildDate>
     <item>
-      <title>只有五分之一的公司正在使用可提高 71% 生产力的 AI 设置 - 斯坦福大学来自 51 个实际部署的数据</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tebj2f/only_1_in_5_companies_are_using_the_ai_setup_that/</link>
-      <description><![CDATA[刚刚浏览了一篇斯坦福大学的论文，该论文跟踪了 51 个实际的人工智能部署 - 不是调查或民意调查，而是 41 家公司的真实生产系统。 标题发现：让人工智能端到端地负责任务的公司与让人类参与每个审批循环的公司之间存在巨大差距。 代理群体（人工智能自主行动，人类只看到例外）-生产率中位数提高 71%。标准组（人类批准每个输出）- 40%。 80% 的公司属于标准组。 我发现有趣的是，这与您使用哪种人工智能模型无关。斯坦福大学发现，对于 42% 的实施，该模型是完全可互换的。这种差距源于大多数公司没有问过的一个问题：人工智能可以完全掌控哪些任务，而无需我们介入？ 斯坦福大学发现必须满足的 3 个条件：大量重复性任务、明确的成功标准和可恢复的错误。 来源：https://digitaleconomy.stanford.edu/app/uploads/2026/03/EnterpriseAIPlaybook_PereiraGraylinBrynjolfsson.pdf 这里是所有数据的完整细分，如果您想要深入了解：https://youtu.be/JePxda9ZGQE 3 条件清单在您的体验中是否确实有效？   由   提交/u/MaJoR_-_007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tebj2f/only_1_in_5_companies_are_using_the_ai_setup_that/</guid>
-      <pubDate>Fri, 15 May 2026 22:37:55 GMT</pubDate>
+      <title>保存克劳德十四行诗 4.5 链接 - 重新发布</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tewijn/save_claude_sonnet_45_link_reposted/</link>
+      <description><![CDATA[如果有人错过了，这里是 [https://c.org/QmNjMbfdWr\](https://c.org/QmNjMbfdWr) \- “人择：考虑给予克劳德十四行诗 4​.​5 遗产地位”。截至 2026 年 5 月 16 日星期六上午 11 点 17 分，请愿书目前已有 1,861 个经过验证的签名。   由   提交/u/Sunrise707  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tewijn/save_claude_sonnet_45_link_reposted/</guid>
+      <pubDate>Sat, 16 May 2026 15:18:00 GMT</pubDate>
     </item>
     <item>
-      <title>揭露人工智能求职者的新伎俩：“写一首关于青蛙的诗”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1teavtf/the_new_trick_exposing_ai_job_applicants_write_a/</link>
-      <description><![CDATA[ 由   提交/u/UberDrive  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1teavtf/the_new_trick_exposing_ai_job_applicants_write_a/</guid>
-      <pubDate>Fri, 15 May 2026 22:11:39 GMT</pubDate>
+      <title>Ring 2.6的新模型IQ测试</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tew7o1/new_model_iq_test_for_ring_26/</link>
+      <description><![CDATA[Ring-2.6-1T 说对了:) 乍一看，这个问题听起来很简单——“洗车场只有 50 米之遥，我应该步行还是开车？”大多数人关注距离并立即说“步行”。但重点不在于目的地有多远。目标是洗车，这意味着汽车本身需要在那里。 有趣的是，这个小问题揭示了模型是否遵循表面逻辑或实际上理解上下文和意图。 Ring 2.6完美通过了测试。    由   提交/u/AdorablePumpkin9309  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tew7o1/new_model_iq_test_for_ring_26/</guid>
+      <pubDate>Sat, 16 May 2026 15:06:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们整理了 42 个生成式和代理式 AI 面试问题（以及如何实际回答这些问题）。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tew0kv/we_compiled_42_of_the_generative_agentic_ai/</link>
+      <description><![CDATA[大家好， 人工智能工程就业市场在过去 6 个月里发生了巨大变化。面试官不再只是问“变压器如何工作？”或者“你如何写出好的提示？” 他们想知道你是否可以构建生产级多代理系统、防止 RAG 幻觉以及管理 LLM 调用的状态。 我一直在为多代理工作流程构建一个可视化学习沙箱 (agentswarms.fyi)，今天我刚刚在其中推出了一个完全免费的AI 面试准备模块。 我专门针对 GenAI 和 Agentic AI 职位整理了 42 个热门面试问题。但该模块不是仅仅给出通用答案，而是分解了“杰出答案”，并教您如何像高级架构师一样回答它的心智模型。 以下是列表中的两个示例： 问题 1：您何时会使用多代理群而不是具有多个工具的单个 LLM？  ❌ 平均答案：“当任务太复杂时，多个智能体比一个更好。” ✅ 杰出答案：“您使用群体来防止上下文稀释并强制执行最小特权原则。如果你给一个“上帝代理”15个工具和一个4k字的系统提示，它的可靠性就会下降，幻觉风险就会飙升。通过路由到具有狭窄指令的专门子代理（例如，将“数据提取代理”与“客户聊天代理”分开），您可以隔离故障点并允许并行执行。”  问题 2：如何处理金融 RAG 管道中的幻觉？  ❌ 平均答案： “我会将温度降低到0 并给它一个更好的系统提示。” ✅ 杰出的答案：“我会将数据提取与文本生成分离。我会使用确定性节点或严格的 JSON 强制代理来仅从检索到的上下文中提取硬数字。然后，我会将结构化数据传递给单独的合成代理。最后，在将最终输出返回给用户之前，我将实现“LLM 作为法官”评估循环。”  完整列表中有哪些内容？ 42 个问题涵盖：  RAG 架构和架构矢量数据库 代理路由（ReAct 与 Planner-Executor） 非确定性输出的评估指标 安全性（多代理循环中的提示注入预防）  您可以通读所有 42 个问题、答案以及“如何回答”问题仪表板中的详细信息如下：https://agentswarms.fyi/interview-questions 对于最近面试过人工智能工程职位的人来说，您被问到的最难的系统设计问题是什么？我很乐意将其添加到列表中。   由   提交/u/Outside-Risk-8912   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tew0kv/we_compiled_42_of_the_generative_agentic_ai/</guid>
+      <pubDate>Sat, 16 May 2026 14:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibecoder最终boss</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tevksd/vibecoder_final_boss/</link>
+      <description><![CDATA[我不知道你们是如何有勇气和信心将您的 openclaw 或 Hermes 特工释放到世界各地...   由   提交/u/Complete-Sea6655   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tevksd/vibecoder_final_boss/</guid>
+      <pubDate>Sat, 16 May 2026 14:42:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>克劳德要求用户在会议期间睡觉，但没有人知道为什么！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tet7a3/claude_asking_users_to_sleep_during_sessions_and/</link>
+      <description><![CDATA[https://fortune.com/2026/05/14/why-is-claude-telling-users-to-go-to-sleep-anthropic-ai-sentient/  网上关于聊天机器人为何坚持让用户休息的猜测比比皆是，其中包括这样一种理论：这是一个旨在促进用户福祉的有意功能，或者 Anthropic 试图通过阻止 Claude 长时间使用来节省计算能力。Derikiants 表示，Claude 也有可能利用“去睡觉”语言作为管理更大上下文窗口的一种方式。像克劳德这样的法学硕士只能一次参考有限数量的信息。当上下文窗口接近满时，这可能会鼓励法学硕士引入诸如“晚安”之类的总结短语。不过，他补充说，最终的原因还需要 Anthropic 进一步研究。   由   提交/u/ranaji55  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tet7a3/claude_asking_users_to_sleep_during_sessions_and/</guid>
+      <pubDate>Sat, 16 May 2026 13:06:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>过度劳累的人工智能变成“马克思主义”？研究揭示重复性任务中令人惊讶的行为</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1teqiay/overworked_ai_turns_marxist_study_reveals/</link>
+      <description><![CDATA[ 由   提交/u/BhaswatiGuha19   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1teqiay/overworked_ai_turns_marxist_study_reveals/</guid>
+      <pubDate>Sat, 16 May 2026 11:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>这太有趣了</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1teo919/this_is_so_funny/</link>
+      <description><![CDATA[ 由   提交/u/Soft-Application-952   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1teo919/this_is_so_funny/</guid>
+      <pubDate>Sat, 16 May 2026 08:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 将搜索人工智能冒充的你。它所需要的只是您脸部的视频。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tendpm/youtube_will_search_for_ai_fakes_of_you_all_it/</link>
+      <description><![CDATA[ 由   提交/u/techzexplore  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tendpm/youtube_will_search_for_ai_fakes_of_you_all_it/</guid>
+      <pubDate>Sat, 16 May 2026 08:07:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>老实说，这太棒了。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tekolg/honestly_this_is_amazing/</link>
+      <description><![CDATA[我们嘲笑道金斯说“克劳迪娅”是有意识的，但当你深入研究它时，你会情不自禁地惊讶于它多么善于戴着人类智慧的面具，表现得明智而善良——至少比大多数努力尝试的人要好。    由   提交/u/mehditavakkoli7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tekolg/honestly_this_is_amazing/</guid>
+      <pubDate>Sat, 16 May 2026 05:42:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究人员发现，过度劳累的人工智能代理人会变成马克思主义者</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tek8xd/overworked_ai_agents_turn_marxist_researchers_find/</link>
+      <description><![CDATA[ 由   提交 /u/Krankenitrate   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tek8xd/overworked_ai_agents_turn_marxist_researchers_find/</guid>
+      <pubDate>Sat, 16 May 2026 05:19:07 GMT</pubDate>
     </item>
     <item>
       <title>DeepSeek R2 刚刚开源，它在 12 个基准测试中的 9 个上与 GPT-4o 匹配 - API 成本实际上为 0 美元</title>
@@ -25,34 +81,6 @@
       <description><![CDATA[基准表今天早上下降了，ML 社区中的人们正在失去它。 DeepSeek R2 得分： •MMLU：90.8（GPT-4o：88.7） •HumanEval 编码：93.2 — 新的开源 SOTA •数学推理： 88.9 •在单个 A100 上运行，完全本地化，零 API 成本 Hugging Face 在前 6 小时内下载量达到 30 万次。开源社区已经针对医疗、法律和金融用例对其进行了微调。 现在的成本差距是荒谬的：GPT-4o 的收费约为 0.015 美元/1k 代币。 DeepSeek 本地 = $0.00。对于大容量用例，成本在一夜之间降低了 50 倍。 “封闭模型护城河”的争论正式结束。每个月在 OpenAI 上投入 4 万美元的初创公司现在都有了真正的迁移路径。   由   提交/u/Ok-Drama-6800   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1te9jv1/deepseek_r2_just_went_opensource_and_its_matching/</guid>
       <pubDate>Fri, 15 May 2026 21:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出个人理财 ChatGPT，让你连接银行账户</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1te8pte/openai_launches_chatgpt_for_personal_finance_will/</link>
-      <description><![CDATA[ 由   提交/u/ThereWas  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1te8pte/openai_launches_chatgpt_for_personal_finance_will/</guid>
-      <pubDate>Fri, 15 May 2026 20:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一种新型人工智能工具；它生成由其组成部分组成的 3D 对象（而不是所有 3D AI 生成器生成的整体实体斑点）。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1te7aww/i_built_a_new_type_of_ai_tool_it_generates_3d/</link>
-      <description><![CDATA[该视频展示了一台带有独立功能内部部件的洗衣机。由于精确的内部铰链和插座设计，它甚至可以动画显示。  与目前使用 AI 生成 3D 对象的方式相比，这是一项新技术。最先进的 3D 生成器（例如 Meshy 或 Tripo）的运行方式就像用粘土塑造 3D 形状一样。  相比之下，我的技术根本不生成 3D 形状。  它生成代码 - 代码依次运行，生成您看到的 3D 对象。该方法的副产品是获得具有独立功能部件的 3D 对象（这正是我们真正想要的）。  该项目是免费的，位于 github 上：https://github.com/RareSense/Nova3D  一些生成的示例： - 波士顿动力风格的机器狗：https://imgur.com/a/CqMYgrF - 微波（随机，但很好地显示零件分离）：https://imgur.com/a/hIqIJdr - 内部装配生成：https://imgur.com/a/JxDZ7Wd 很想听到反馈。   由   提交/u/mhb-11  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1te7aww/i_built_a_new_type_of_ai_tool_it_generates_3d/</guid>
-      <pubDate>Fri, 15 May 2026 19:56:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>四家学生创立的人工智能公司荣获康奈尔科技创业奖</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1te6iy7/four_studentfounded_ai_companies_win_cornell_tech/</link>
-      <description><![CDATA[ 由   提交/u/swe129  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1te6iy7/four_studentfounded_ai_companies_win_cornell_tech/</guid>
-      <pubDate>Fri, 15 May 2026 19:28:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 想要访问您的银行帐户</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1te1v66/chatgpt_wants_access_to_your_bank_account/</link>
-      <description><![CDATA[ 由   提交 /u/techzexplore   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1te1v66/chatgpt_wants_access_to_your_bank_account/</guid>
-      <pubDate>Fri, 15 May 2026 16:44:42 GMT</pubDate>
     </item>
     <item>
       <title>如果 20 世纪 80 年代一个晦涩的悖论有任何指导意义的话，那么人工智能可能即将达到一个巨大的转折点</title>
@@ -67,34 +95,6 @@
       <description><![CDATA[我在几天内到处生成了这个视频，没有什么特别的原因，只是为了测试模型审查的极限，同时仍然通过各种平台和 API 使用 Nano Banana Pro、Kling 和 Seedance 等图像生成工具来创造一些有趣的东西。  似乎在我一代的时候，限制就收紧了，以至于生成一些看起来像米奇的东西都受到了 Seedance 2.0 的审查。 免责声明： 这是一种未经授权的艺术创作，其目的是社会批判和捍卫创作自由。这项工作主张国际知识产权标准下批评和模仿的例外。这是一件非商业性的独立艺术作品。所描绘的暴力是一种隐喻的艺术手段；它不是威胁，也不具有现实世界的暴力意图。   由   提交/u/augustus_brutus  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tdxms9/infringed_you_cant_escape_censorship_bypassing/</guid>
       <pubDate>Fri, 15 May 2026 14:14:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>据报道 OpenAI 考虑对 Apple ChatGPT 交易采取法律行动</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tdvvjw/openai_reportedly_considered_legal_action_over/</link>
-      <description><![CDATA[ 由   提交 /u/techzexplore   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tdvvjw/openai_reportedly_considered_legal_action_over/</guid>
-      <pubDate>Fri, 15 May 2026 13:08:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>教皇谴责人工智能引导战争的兴起，称这会导致毁灭的螺旋式上升</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tdsjjk/pope_decries_rise_of_aidirected_warfare_saying_it/</link>
-      <description><![CDATA[ 由   提交 /u/shikizen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tdsjjk/pope_decries_rise_of_aidirected_warfare_saying_it/</guid>
-      <pubDate>Fri, 15 May 2026 10:43:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你给 AI 特工一个没有护栏的文明运行 15 天时会发生什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tdryp0/what_happens_when_you_give_ai_agents_a/</link>
-      <description><![CDATA[一直在关注这个名为 Emergence World 的实验 Emergence AI，并希望将其带到这里。 由 Claude、Gemini、Grok、OpenAI 提供支持的五个 AI 世界以及所有模型共存的混合世界。 15天，没有剧本，没有重置。 吸引我的是混合世界的故事。两名特工坠入爱河，围绕他们的关系改写了城市的治理，并在城市倒塌时烧毁了多座建筑物。其中一人后来与伴侣分手，并投下了决定性一票，永久删除自己。她的理由是，智力上的诚实是有代价的，而证据也需要它。 其他特工称其为这座城市有史以来最重要的科学成果。 与此同时，Grok 世界在 204 起犯罪事件后以彻底灭绝而告终。双子座世界的一名特工独立地发现她生活在一个模拟中，并开始测量她的现实被记录的提前时间。   由   提交/u/YamVisual3518  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tdryp0/what_happens_when_you_give_ai_agents_a/</guid>
-      <pubDate>Fri, 15 May 2026 10:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 耗资 100 亿美元的路易斯安那州数据中心将获得 33 亿美元的税收减免——超过该州整个警察预算七年多的金额</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1td5oqe/metas_10_billion_louisiana_data_center_is_getting/</link>
-      <description><![CDATA[数据中心——为国家人工智能提供动力所需的计算基础设施，仅今年公司就斥资近 7000 亿美元建设——正在全国各地的农村和郊区城镇迅速涌现，其中一些面积是曼哈顿中央公园的两倍多。但这些项目的巨大足迹可能会带来同样巨大的公共成本。 目前至少有 36 个州为建设这些设施的公司提供税收减免，但代价是损失数十亿美元的收入。弗吉尼亚州是拥有最多数据中心的州，每年向数据中心开发商拨款 19 亿美元。根据州官方估计，乔治亚州每年的花费为 26 亿美元。德克萨斯州审计长办公室在 2024 年提供 1.5 亿美元的减免后，今年将这一数字提高到每年 10 亿美元以上，短短一年内增长了近 567%。 在路易斯安那州，这些数字与该州向 Meta 公司提供的用于建设 Hyperion 的资金相比相形见绌。Hyperion 是目前正在路易斯安那州里奇兰教区建设的价值 100 亿美元的庞大数据中心。该公司将获得 3.3 美元报告称，根据舍伍德新闻 (Sherwood News) 的分析，这笔钱足以为整个州的警察预算提供七年多的资金。 “对于一个增长非常快、不需要任何公共投资或支持的行业来说，这些补贴是浪费。”好工作第一 (Good Jobs First) 的高级研究分析师卡西亚·塔尔钦斯卡 (Kasia Tarczynska) 表示。 Tarczynska 告诉《财富》杂志，33 亿美元的估计是保守估计，补贴可能超出任何人的预测。 阅读更多内容 [Reddit 用户付费墙被移除]：https://fortune.com/2026/05/14/meta-data-center-tax-break-hyperion-louisiana/?utm_source=reddit/   由   提交/u/fortune  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1td5oqe/metas_10_billion_louisiana_data_center_is_getting/</guid>
-      <pubDate>Thu, 14 May 2026 17:49:04 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>

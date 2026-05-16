@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Sat, 16 May 2026 01:30:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 15:45:57 GMT</lastBuildDate>
+    <item>
+      <title>[招聘] 鸡尾酒和酒吧内容视频编辑器 付费 30 小时</title>
+      <link>https://www.reddit.com/r/editors/comments/1teh6ss/hiring_video_editor_for_cocktail_bar_content_paid/</link>
+      <description><![CDATA[我们正在为豪华移动鸡尾酒/酒吧品牌寻找长期视频编辑器。 内容是在 Sony A6700 上以 4K Rec709 拍摄的。 颜色分级是强制性的 - 我们想要电影般的、干净的、高端的视觉效果。 内容风格： 豪华夜生活美学 鸡尾酒倒酒、调酒、气氛、嘉宾、活动 快节奏的社交媒体编辑，具有强烈的节奏和声音设计 Instagram Reels / TikTok 优化 视频通常在 60 秒以下 要求： 高级编辑技能 强大的色彩校正/分级 创意过渡和讲故事 了解病毒式短片内容 保持品牌一致性的能力 这是每周内容的持续工作。  开放对象： 按视频付费 150 美元 每周聘用费 - 按项目定价 - 要申请发送： 作品集 2-3 个相关编辑 费率 周转时间 使用的软件 如果您的作品看起来基本、过度使用的模板或通用的 TikTok 编辑，那么这不适合您。 提前谢谢您💪🏽💪🏽   由   提交 /u/Academic-Ratio-3987   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1teh6ss/hiring_video_editor_for_cocktail_bar_content_paid/</guid>
+      <pubDate>Sat, 16 May 2026 02:48:49 GMT</pubDate>
+    </item>
     <item>
       <title>创建卷轴或展示最佳视频？</title>
       <link>https://www.reddit.com/r/editors/comments/1teas78/create_a_reel_or_showcase_best_videos/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[客户会说：“感觉有点不同步” 我会逐帧重新观看导出的内容，一切都在本地完美同步。我总是含糊地指责 WhatsApp 压缩，但从未正确测试过它。 今天我终于做到了：  30fps 时间线 每秒帧计数器 恰好在第 0 帧上发出 1 帧蜂鸣声  本地导出： 完美同步。 上传到 WhatsApp： 音频始终提前播放约 6 帧。 然后我做了另一个测试，在上传之前我故意将每个蜂鸣声移动了 6 帧。 结果： 在 WhatsApp 播放中，蜂鸣声完全落在第 0 帧上。 所以要么 WhatsApp 转码抵消了音频播放，要么播放本身引入了一致的领先。 还有其他人测试过吗？   由   提交/u/_CosmicWaffles_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1tcay44/i_thought_i_was_going_insane_for_years_every_time/</guid>
       <pubDate>Wed, 13 May 2026 19:57:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>同步摄像头+外部音频选择的工作流程更快？</title>
-      <link>https://www.reddit.com/r/editors/comments/1tc3tnf/faster_workflow_for_synced_cam_external_audio/</link>
-      <description><![CDATA[大家好 — 我正在 Premiere 中剪辑一个广告，其中包含机内刮擦和单独的混音器音频（每次拍摄 WAV）。一切都通过 Tentacle Sync（时间码）同步，并且外部 WAV 已正确排列。我的问题是：链接选择仅抓取相机剪辑及其相机音频，而不是同步混音器 WAV。因此，当我选择并删除中间未使用的素材时，Premiere 会删除剪辑及其摄像机音频，但会留下混音器音频。我最终不得不手动拖动选择并清除大量孤立的音频。我知道我可以手动将每个视频剪辑与其在时间轴中相应的 WAV 链接，但有大约 400 个剪辑，所以这很残酷。我也尝试过分组，但这会将所有内容变成一个巨大的块 - 我需要每个镜头仍然独立移动。问题： 有没有办法批量链接 Premiere 中每次拍摄的视频 + 外部 WAV（这样每一对都成为自己独立的链接单元）？或者触手同步剪辑自动表现得像链接一样的任何技巧/工作流程？如果唯一真正的选择是合并剪辑，有什么方法可以更快地大规模完成（或我应该注意的任何缺点）？希望能得到一直这样做的人的任何建议 - 感觉就像我在这样做了 10 年后错过了一个已知的技巧   由   提交/u/friends_or_no   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1tc3tnf/faster_workflow_for_synced_cam_external_audio/</guid>
-      <pubDate>Wed, 13 May 2026 15:55:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
