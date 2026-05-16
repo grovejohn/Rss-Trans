@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 15 May 2026 21:46:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 01:30:59 GMT</lastBuildDate>
+    <item>
+      <title>[PDF] 如何写入SSD</title>
+      <link>https://www.reddit.com/r/programming/comments/1teabtu/pdf_how_to_write_to_ssds/</link>
+      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1teabtu/pdf_how_to_write_to_ssds/</guid>
+      <pubDate>Fri, 15 May 2026 21:49:36 GMT</pubDate>
+    </item>
     <item>
       <title>我的面包上生锈了</title>
       <link>https://www.reddit.com/r/programming/comments/1te96np/rust_on_my_buns/</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[ 由   提交/u/middayc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tdz7t3/allowlisting_config_capabilities_by_embedding_rye/</guid>
       <pubDate>Fri, 15 May 2026 15:11:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入探讨：ClickHouse 如何处理异步插入（以及为什么它对高吞吐量管道很重要）</title>
-      <link>https://www.reddit.com/r/programming/comments/1tdvkbr/deep_dive_how_clickhouse_handles_async_inserts/</link>
-      <description><![CDATA[ClickHouse 的异步插入模式是听起来简单但具有真正深度的功能之一：内部缓冲、可配置的刷新阈值、重复数据删除边缘情况。我们编写了一份关于其工作原理和所涉及的权衡的技术分析。  如果您正在构建大量写入 ClickHouse 的内容，则相关：   由   提交 /u/glassflow-dev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tdvkbr/deep_dive_how_clickhouse_handles_async_inserts/</guid>
-      <pubDate>Fri, 15 May 2026 12:56:04 GMT</pubDate>
     </item>
     <item>
       <title>SQL：构造错误</title>

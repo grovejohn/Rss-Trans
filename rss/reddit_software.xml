@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 15 May 2026 21:46:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 01:30:54 GMT</lastBuildDate>
+    <item>
+      <title>开源 Chrome 扩展程序，可从 YouTube 和网页中提取和总结内容</title>
+      <link>https://www.reddit.com/r/software/comments/1tef4g9/open_source_chrome_extension_that_extracts_and/</link>
+      <description><![CDATA[我构建了一个名为 Summary Toolbox 的免费 Chrome 扩展程序 - 我喜欢它并一直在 YouTube 视频上使用它，它还总结了我不想浪费时间去判断是否值得我花时间的网站。 我最初的想法是让该扩展程序告诉我 YouTube 扬声器是否充满了废话或先令。然后我添加了更多功能，以便真正能够调整它返回的内容以及如何总结。它使用 API，我个人对于这个用例更喜欢便宜但功能强大的 DeepSeek（充值），因为它汇总公共数据，所以我不用担心隐私，并且它在右上角显示剩余余额。  https://chromewebstore.google.com/detail/summary-toolbox/oekblgkonlchheclkcmlappfnchmnkjl?hl=en-GB&amp;utm_source=ext_sidebar   由   提交/u/RaspberrySea9  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tef4g9/open_source_chrome_extension_that_extracts_and/</guid>
+      <pubDate>Sat, 16 May 2026 01:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>语音转文本仍然感觉很古老</title>
+      <link>https://www.reddit.com/r/software/comments/1tee1qb/voicetotext_still_feels_ancient/</link>
+      <description><![CDATA[一直在构建一个语音应用程序，并意识到大多数当前的语音到文本工具仍然感觉非常有限。 它可以进行正确的听写、语音命令、AI 操作、MCP 集成，并让您更自然地控制计算机，而不是仅仅将文本倾倒到屏幕上。 对于诚实地构建产品来说，仍然是新手，所以现在我主要是在尝试获取反馈并找出真正有用的内容vs 烦人。 真诚地喜欢人们对如何让这样的事情变得更好的意见。 如果有人想尝试一下或提出问题，lmk。   由   提交/u/uzenaki  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tee1qb/voicetotext_still_feels_ancient/</guid>
+      <pubDate>Sat, 16 May 2026 00:23:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>MS Edge浏览器的常见问题及其解决方案</title>
+      <link>https://www.reddit.com/r/software/comments/1teawrm/a_common_problem_with_the_ms_edge_browser_and_its/</link>
+      <description><![CDATA[使用 Windows 10 或 11 的任何人在使用 Edge 浏览器时都可能会遇到奇怪的问题，当您关闭特定选项卡时，您会遇到轻微的延迟，文件资源管理器也会关闭，这是一个简单的问题。 解决方案是转到“设置”，然后转到“系统”，然后转到“多任务处理”，并将时间轴中的一项设置更改为（仅打开窗口），这应该可以完全解决问题。 REQUEST_FIXED_ID_MS_EDGE_503112026   由   提交 /u/Emergency-Frame-8826   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1teawrm/a_common_problem_with_the_ms_edge_browser_and_its/</guid>
+      <pubDate>Fri, 15 May 2026 22:12:44 GMT</pubDate>
+    </item>
     <item>
       <title>鼠标手势窗口管理器</title>
       <link>https://www.reddit.com/r/software/comments/1te9hwu/mouse_gesture_window_manager/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[多年来，我一直在使用 IObit 卸载程序、Advanced SystemCare、Driver Booster，但现在我正在为它们寻找最佳替代方案，Revo Uninstaller 是一个不错的选择，但我愿意听取您的意见，需要一个应用程序来处理我所有的垃圾文件、RAM 清理器、启动优化和隐私修复等，以及一个用于更新、下载和修复所有驱动程序的应用程序。另外，如果有对这个主题有用的应用程序，我不介意使用。   由   提交 /u/Due_Address_1339   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tdx0ep/alternative_iobit_apps/</guid>
       <pubDate>Fri, 15 May 2026 13:51:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您用于管理广告制作的创意操作堆栈是什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1tdw6w4/whats_your_creative_ops_stack_for_managing_ad/</link>
-      <description><![CDATA[您用于管理广告制作的创意操作堆栈是什么？特别好奇你用什么来分析竞争对手、简报、审查和启动 Meta/TikTok。也许有一个完整的管道工具或它们的组合可以很好地工作？   由   提交/u/Chance_Ad_3015   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tdw6w4/whats_your_creative_ops_stack_for_managing_ad/</guid>
-      <pubDate>Fri, 15 May 2026 13:20:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>每周探索主题 - 2026 年 5 月 15 日</title>
-      <link>https://www.reddit.com/r/software/comments/1tdswa0/weekly_discovery_thread_may_15_2026/</link>
-      <description><![CDATA[分享新的、有用的或只是有趣的内容 欢迎来到每周探索主题，在这里您可以分享本周引起您注意的与软件相关的发现 - 特别是那些很酷、有用或发人深省但本身可能不值得讨论的内容。 此主题是您的空间：  Neat工具、库或软件包 值得一读的文章、博客文章或演讲 您正在进行的实验或业余项目 您发现的提示、工作流程或晦涩功能 您正在思考的问题或想法  如果它与软件相关并激发了您的好奇心，请将其放入。  一些快速指南  保持文明和建设性 - 这是为了学习和发现。 自我推销？如果它具有相关性并能增加价值，那完全没问题。保持透明。 没有链接垃圾邮件或人工智能生成的内容转储。我们将删除省力的提交内容。 对有用的内容进行投票，以便其他人看到！   此帖子将每周发布并置顶。如果您想建议对此格式进行更改或添加，请随时发表评论或向模组发送消息。 现在，您本周发现了什么？   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tdswa0/weekly_discovery_thread_may_15_2026/</guid>
-      <pubDate>Fri, 15 May 2026 11:00:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>是什么编程概念让你对很多事情感兴趣？</title>
-      <link>https://www.reddit.com/r/software/comments/1tds8yw/whats_a_programming_concept_that_made_a_lot_of/</link>
-      <description><![CDATA[想知道我错过了哪些小想法可以改变我对代码的看法。   由   提交/u/WolfPspecial2348  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tds8yw/whats_a_programming_concept_that_made_a_lot_of/</guid>
-      <pubDate>Fri, 15 May 2026 10:28:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
