@@ -4,9 +4,30 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 17 May 2026 01:48:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 06:14:08 GMT</lastBuildDate>
     <item>
-      <title></title>
+      <title>工程师回答 Rust 问题 | “编译时间”？</title>
+      <link>https://www.reddit.com/r/programming/comments/1tfd76l/engineer_answers_rust_questions_compile_time/</link>
+      <description><![CDATA[主要是为了好玩，但可能对来自 Javascript、Python 等的人有用。   由   提交/u/rustcurious  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tfd76l/engineer_answers_rust_questions_compile_time/</guid>
+      <pubDate>Sun, 17 May 2026 02:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 Git 的原语构建</title>
+      <link>https://www.reddit.com/r/programming/comments/1tfd2qt/building_on_gits_primitives/</link>
+      <description><![CDATA[ 由   提交/u/remenoscodes  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tfd2qt/building_on_gits_primitives/</guid>
+      <pubDate>Sun, 17 May 2026 02:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple Silicon M5 上首次公开 macOS 内核内存损坏漏洞</title>
+      <link>https://www.reddit.com/r/programming/comments/1tfcsbb/first_public_macos_kernel_memory_corruption/</link>
+      <description><![CDATA[ 由   提交 /u/CircumspectCapybara   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tfcsbb/first_public_macos_kernel_memory_corruption/</guid>
+      <pubDate>Sun, 17 May 2026 02:31:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>当其他人都转向云时，为什么我构建了一个离线 Windows 应用程序</title>
       <link>https://www.reddit.com/r/programming/comments/1tfb5ec/why_i_built_an_offline_windows_app_when_everyone/</link>
       <description><![CDATA[ 由   提交 /u/Opposite-Future-5797   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tfb5ec/why_i_built_an_offline_windows_app_when_everyone/</guid>
@@ -15,14 +36,14 @@
     <item>
       <title>关于协作编辑我被告知的谎言，第 2 部分：为什么我们不使用 Yjs</title>
       <link>https://www.reddit.com/r/programming/comments/1tf77u2/lies_i_was_told_about_collaborative_editing_part/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [comments]]]></description>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tf77u2/lies_i_was_told_about_collaborative_editing_part/</guid>
       <pubDate>Sat, 16 May 2026 22:15:31 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>在现代主机上交叉编译 MINIX 1.1（ANSI 之前的版本、K&R C）</title>
       <link>https://www.reddit.com/r/programming/comments/1tf6qef/crosscompiling_minix_11_on_a_modern_host_preansi/</link>
-      <description><![CDATA[ 由   提交 /u/Kq9gE8MNWZ7m   [link] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/Kq9gE8MNWZ7m   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tf6qef/crosscompiling_minix_11_on_a_modern_host_preansi/</guid>
       <pubDate>Sat, 16 May 2026 21:54:55 GMT</pubDate>
     </item>
@@ -62,7 +83,7 @@
       <pubDate>Sat, 16 May 2026 14:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>bzip 颂歌</title>
+      <title>bzip 的颂歌</title>
       <link>https://www.reddit.com/r/programming/comments/1temuzb/an_ode_to_bzip/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1temuzb/an_ode_to_bzip/</guid>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/User_Deprecated   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tehbf7/cloudflare_rearchitected_their_workflows_control/</guid>
       <pubDate>Sat, 16 May 2026 02:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>[PDF] 如何写入SSD</title>
-      <link>https://www.reddit.com/r/programming/comments/1teabtu/pdf_how_to_write_to_ssds/</link>
-      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1teabtu/pdf_how_to_write_to_ssds/</guid>
-      <pubDate>Fri, 15 May 2026 21:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的面包上生锈了</title>
-      <link>https://www.reddit.com/r/programming/comments/1te96np/rust_on_my_buns/</link>
-      <description><![CDATA[ 由   提交/u/trigzo  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1te96np/rust_on_my_buns/</guid>
-      <pubDate>Fri, 15 May 2026 21:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>HDD 固件黑客攻击第 1 部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1te8wiu/hdd_firmware_hacking_part_1/</link>
-      <description><![CDATA[ 由   提交/u/cake-day-on-feb-29   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1te8wiu/hdd_firmware_hacking_part_1/</guid>
-      <pubDate>Fri, 15 May 2026 20:55:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
