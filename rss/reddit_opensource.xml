@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 17 May 2026 15:50:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 18:50:22 GMT</lastBuildDate>
+    <item>
+      <title>去中心化网络的新设计</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tfxjzb/new_design_for_decentralised_network/</link>
+      <description><![CDATA[之前想到了一种去中心化网络的新设计，以减少查找其他节点信息所需的跳数。计算出每个节点应在网络中存储至少约 2 * ✓（总节点），这平均需要 2-3 跳才能在网络中查找另一个节点信息 我已将详细信息与 Rust 中的模拟代码一起放在 GitHub 存储库上，以演示其工作原理（如果运行它，请确保编译为发布模式） https://github.com/ybot01/lapapo-design 尝试自己实现它，但网络很痛苦，UDP、TLS、加密等，也许其他人想尝试在真实网络中实现它，而不仅仅是模拟网络 想法是让每个节点要么端口转发，要么可以选择将其他节点信息列为自己的，它们是您接收的代理如果无法进行端口转发，则为 UDP 数据包。仍然需要初始引导来获取初始节点信息 基本想法是使其像网络层一样，以便应用程序可以像 API 一样调用它在网络上的其他节点之间发送/接收数据，它将处理： -查找其他节点信息 -向它们发送数据 -在传输过程中加密的数据 -使用数字签名确认传送 -接收数据并确认传送 - 保持存储的节点信息最新 - 响应来自其他节点的节点信息搜索请求 Etc   由   提交/u/ybot01  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tfxjzb/new_design_for_decentralised_network/</guid>
+      <pubDate>Sun, 17 May 2026 18:27:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>神经伴侣</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tftr78/neuralcompanion/</link>
+      <description><![CDATA[NeuralCompanion 是一个开源、本地优先的 AI 配套项目，适合那些喜欢构建、实验和了解个人 AI 在自己的硬件上能走多远的人们。 它将实时语音聊天、本地 LLM、TTS/STT、图像生成、交互式教程、API 友好的工作流程和模块化插件系统集成到一个桌面应用程序中，设计灵活、可破解且真正可靠探索起来很有趣。 NC 还支持头像系统和头像引擎，如 VSeeFace、VAM/VAM2 和其他实验性实时头像工作流程。 它仍然处于实验阶段，有些地方还有些粗糙，但这是该项目的一部分。我们的目标不是再创造一个被锁定的公司助理。它是为了构建一个可定制的人工智能伴侣平台，你可以实际运行、修改和塑造自己。 如果你喜欢本地人工智能、创意工具、化身、插件、语音界面、自动化或奇怪的面向未来的软件，请来看看。 GitHub： https://github.com/Rakile/NeuralCompanion Discord： https://discord.com/invite/UqnwX46rcK 非常欢迎开发人员、修补匠、艺术家、人工智能爱好者和好奇的人。 Rakila &amp; LAinol   由   提交/u/lainol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tftr78/neuralcompanion/</guid>
+      <pubDate>Sun, 17 May 2026 16:07:53 GMT</pubDate>
+    </item>
     <item>
       <title>CondenseIt - 自托管人工智能新闻摘要，麻省理工学院许可，寻找贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1tfm90j/condenseit_selfhosted_ai_news_digest_mit_licensed/</link>
@@ -15,14 +29,14 @@
     <item>
       <title>ClawPing - 适用于家庭服务器的 Cloudflare Workers 看门狗，无需公共 IP</title>
       <link>https://www.reddit.com/r/opensource/comments/1tfiqt1/clawping_cloudflare_workers_watchdog_for_home/</link>
-      <description><![CDATA[ClawPing 是 Cloudflare Workers 首款 Telegram 看门狗，适用于家庭服务器、迷你 PC、NAS 盒和自托管应用程序。 一个小型 Go 代理在您的计算机上运行并推送出站心跳。如果您的服务器停止签入、备份过时、磁盘已满或 Docker 容器死亡，ClawPing 会通过 Telegram 向您发出警报。 没有公共 IP。没有开放端口。不需要自托管仪表板，但如果需要，可以有仪表板。 堆栈：Cloudflare Worker + D1 + Durable Objects + Queues + Go 代理。 GitHub：https://github.com/cschanhniem/clawping MIT 下的开源。欢迎反馈。   由   提交/u/suoinguon  [链接] [评论]]]></description>
+      <description><![CDATA[ClawPing 是 Cloudflare Workers 首款 Telegram 看门狗，适用于家庭服务器、迷你 PC、NAS 盒和自托管应用程序。 一个小型 Go 代理在您的计算机上运行并推送出站心跳。如果您的服务器停止签入、备份过时、磁盘已满或 Docker 容器死亡，ClawPing 会通过 Telegram 向您发出警报。 没有公共 IP。没有开放端口。不需要自托管仪表板，但如果需要，可以有一个仪表板。 堆栈：Cloudflare Worker + D1 + Durable Objects + Queues + Go 代理。 GitHub：https://github.com/cschanhniem/clawping MIT 下的开源。欢迎反馈。   由   提交/u/suoinguon  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tfiqt1/clawping_cloudflare_workers_watchdog_for_home/</guid>
       <pubDate>Sun, 17 May 2026 07:39:24 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个成熟的开源 Google 地图公司爬虫</title>
       <link>https://www.reddit.com/r/opensource/comments/1tfi0ak/i_made_a_fully_fledged_opensource_google_maps/</link>
-      <description><![CDATA[大家好， 我想分享一个我一直在从事的项目：SherlockMaps，一个使用 Python 和 Playwright 构建的开源 Google 地图网络爬虫。您可以在此处查看。 这是什么？ SherlockMaps 从 Google 地图搜索中提取详细的公司信息。您给它一个搜索词（例如“restaurants berlin”），它会返回结构化数据，包括：  公司名称、类别、地址、电话、网站 评级和评论数量 营业时间 属性（轮椅无障碍设施等） 附加代码  主要功能  干净的 OOP 架构 - 结构良好，包含类、数据类和设计模式 多种使用模式：  用于快速数据提取的 CLI 工具 用于集成到您自己的脚本中的 Python 库 用于无头/生产使用的 REST API 服务器  多种输出格式 - JSON、CSV、 Pretty-print 重复数据删除基于公司名称+网站 URL验证过滤掉无效网站 Docker支持以方便部署 Chrome配置文件持久性 - 会话数据在运行之间保留 MIT许可证 - 完全开源  希望你喜欢它，我总是愿意让它变得更好😄   由   提交 /u/Ayyouboss   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我想分享一个我一直在从事的项目：SherlockMaps，一个使用 Python 和 Playwright 构建的开源 Google 地图网络爬虫。您可以在此处查看。 这是什么？ SherlockMaps 从 Google 地图搜索中提取详细的公司信息。您给它一个搜索词（例如“restaurants berlin”），它会返回结构化数据，包括：  公司名称、类别、地址、电话、网站 评级和评论数量 营业时间 属性（轮椅无障碍等） 附加代码  主要功能  干净的 OOP 架构 - 结构良好，包含类、数据类和设计模式 多种使用模式：  用于快速数据提取的 CLI 工具 用于集成到您自己的脚本中的 Python 库 用于无头/生产使用的 REST API 服务器  多种输出格式 - JSON、CSV、 Pretty-print 重复数据删除基于公司名称+网站 URL验证过滤掉无效网站 Docker支持以方便部署 Chrome配置文件持久性 - 会话数据在运行之间保留 MIT许可证 - 完全开源  希望你喜欢它，我总是愿意让它变得更好😄   由   提交 /u/Ayyouboss   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tfi0ak/i_made_a_fully_fledged_opensource_google_maps/</guid>
       <pubDate>Sun, 17 May 2026 06:58:46 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>我厌倦了丑陋的、充满广告的 20-20-20 计时器，它们会在后台消失。我构建了 Blink：一个 1.7MB、实际有效的 Material 3 守护进程</title>
       <link>https://www.reddit.com/r/opensource/comments/1temn12/i_got_sick_of_ugly_adfilled_202020_timers_that/</link>
-      <description><![CDATA[Play 商店里充斥着“护眼”产品从根本上损坏的应用程序。它们充满了跟踪器，看起来像是 2014 年设计的，并且在 30 分钟后不可避免地会被 Android 积极的电池优化杀死。 如果你想要一个真正触发的 20-20-20 规则计时器，你必须构建一个系统级守护进程。所以我这么做了。 Blink 是一个完全开源、零跟踪器、1.76MB 的实用程序，使用 Kotlin 和 Jetpack Compose 原生构建。它不会请求操作系统进行后台处理；它使用精确警报和前台服务来在打瞌睡模式下生存。 我也不想要一个看起来像终端输出的功能应用程序。它需要感觉像是操作系统的一部分。 美学和设计自定义： True Material 3：它使用动态主题直接从系统壁纸中提取颜色。 覆盖：Blink 使用 TYPE_APPLICATION_OVERLAY，而不是让您脱离工作流程的不和谐的活动开关。它精美地漂浮在您正在做的任何事情之上。 3 种视觉样式：我为其余屏幕构建了自定义 60fps 的 Compose 动画。您可以在“富有表现力”（动画环/波纹）、“平静”（平滑弧线）或“最小”（干净的进度圆）之间进行选择。 精细控制：您可以调整叠加层不透明度 (30–100%)，调整工作/休息间隔（1-60m / 10-60s），并选择是否需要叠加层、通知或两者兼而有之。 高级用户功能： 对于那些鄙视 Android 电池节流的人，我集成了 Shizuku。如果启用它，Blink 会使用 Shizuku IPC 桥在其自身上静默执行 cmd deviceidle 白名单。您无需打开设置应用程序，它就可以使自己免受打瞌睡模式的影响。 它是完全免费的。代码干净、原生，并且积极地完成其应该做的事情。 GitHub（版本和源代码）： https://github.com/character-flat/Blink   由   提交 /u/Character_Flat   [链接] [评论]]]></description>
+      <description><![CDATA[Play 商店里充斥着“护眼”产品从根本上损坏的应用程序。它们充满了跟踪器，看起来像是 2014 年设计的，并且在 30 分钟后不可避免地会被 Android 积极的电池优化杀死。 如果你想要一个真正触发的 20-20-20 规则计时器，你必须构建一个系统级守护进程。所以我这么做了。 Blink 是一个完全开源、零跟踪器、1.76MB 的实用程序，使用 Kotlin 和 Jetpack Compose 原生构建。它不会请求操作系统进行后台处理；它使用精确警报和前台服务来在打瞌睡模式下生存。 我也不想要一个看起来像终端输出的功能应用程序。它需要感觉像是操作系统的一部分。 美学和设计自定义： True Material 3：它使用动态主题直接从系统壁纸中提取颜色。 覆盖：Blink 使用 TYPE_APPLICATION_OVERLAY，而不是让您脱离工作流程的不和谐的活动开关。它精美地漂浮在您正在做的任何事情之上。 3 种视觉样式：我为其余屏幕构建了自定义 60fps 的 Compose 动画。您可以在“富有表现力”（动画环/波纹）、“平静”（平滑弧线）或“最小”（干净的进度圆）之间进行选择。 精细控制：您可以调整叠加层不透明度 (30–100%)，调整工作/休息间隔（1-60m / 10-60s），并选择是否需要叠加层、通知或两者兼而有之。 高级用户功能： 对于那些鄙视 Android 电池节流的人，我集成了 Shizuku。如果启用它，Blink 会使用 Shizuku IPC 桥在其自身上静默执行 cmd deviceidle 白名单。您无需打开设置应用程序，它就可以使自己免受打瞌睡模式的影响。 它是完全免费的。该代码干净、原生，并且积极地完成其应该做的事情。 GitHub（发布和源代码）： https://github.com/character-flat/Blink   由   提交 /u/Character_Flat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1temn12/i_got_sick_of_ugly_adfilled_202020_timers_that/</guid>
       <pubDate>Sat, 16 May 2026 07:26:08 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[       由   提交/u/Neat_Confidence_4166  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tef1z0/i_built_lorem_ipsum_as_if_it_was_a_fake_company/</guid>
       <pubDate>Sat, 16 May 2026 01:09:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Keep 的最佳开源替代品。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1te9p1p/the_best_open_source_alternative_to_google_keep/</link>
-      <description><![CDATA[我曾经使用 google keep 来做简单的笔记。这是一个很好的工具，可以快速输入并忘记或可能是杂货清单。但我想找到一个 Keep 的开源替代品。  就在那时，我在 Android 应用程序 Reddit 子版块之一上偶然发现了 Disorganized。  自从我开始使用它（大约 4 个月前）以来，该应用程序已经取得了长足的进步。开发人员最近也开源了该应用程序。  这是一个非常棒的应用程序，可以用来制作快速列表、记笔记，并且它具有思维导图功能，这是创建想法图表的非常方便的工具。此外，它还包括一个绘图工具。  GitHub：https://github.com/samhedin/disorganized-notes/tree/main 网站：https://www.getdisorganized.com/ 该应用程序仍处于早期阶段。希望它可以帮助正在寻找这样工具的人。   由   提交 /u/-__Supreme__-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1te9p1p/the_best_open_source_alternative_to_google_keep/</guid>
-      <pubDate>Fri, 15 May 2026 21:24:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>为小型餐厅/酒吧寻找现代开源/自托管 POS</title>
-      <link>https://www.reddit.com/r/opensource/comments/1te2txc/looking_for_modern_open_sourceself_hosted_pos_for/</link>
-      <description><![CDATA[我的好朋友正在开一家小酒吧/汉堡店，我想从技术方面帮助他处理 POS 和库存设置。 我正在更多地研究开源/自托管解决方案。如果缺少某些东西，我什至会贡献代码，但我正在努力找到一个有前途的现代产品。 我发现的很多项目要么是： - 非常老 - 看起来被遗弃了 - 或者最后一个版本是一年多前 我们需要的主要东西： - 库存管理 - 食谱/BOM（汉堡使用X克肉+面包等） - 自动库存扣除sale - 餐厅/酒吧工作流程 你们在 2026 年实际使用什么？ 对于一家小餐厅/酒吧来说，是否值得开源/自托管，还是每月支付 SaaS 费用更好？ 任何值得查看的建议、经验、遗憾或 GitHub 项目将不胜感激。   由   提交 /u/voonart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1te2txc/looking_for_modern_open_sourceself_hosted_pos_for/</guid>
-      <pubDate>Fri, 15 May 2026 17:18:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
