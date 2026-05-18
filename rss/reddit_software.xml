@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 18 May 2026 17:25:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 21:58:54 GMT</lastBuildDate>
+    <item>
+      <title>Windows 版 C Shell 正式发布 alpha 版</title>
+      <link>https://www.reddit.com/r/software/comments/1th26tu/c_shell_for_windows_is_officially_in_alpha/</link>
+      <description><![CDATA[https://github.com/tropibyte/CSHW/releases/tag/v1.0.0-alpha Tropibyte 为 Windows 操作系统构建了 csh 实现。尝试一下，然后告诉我你的想法   由   提交/u/tboy1977  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1th26tu/c_shell_for_windows_is_officially_in_alpha/</guid>
+      <pubDate>Mon, 18 May 2026 21:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Sergei Strelec WindowsPE 有什么看法？</title>
+      <link>https://www.reddit.com/r/software/comments/1th1vap/thoughts_on_sergei_strelec_windowspe/</link>
+      <description><![CDATA[我最近了解了 Sergei Strelec，从它的外观来看，它似乎有点疯狂。您只需插入 USB 即可轻松重置 Windows 密码以进入设备。当然，那里还有很多其他方便的工具，例如文件恢复？您对此有何看法？是不是很狡猾？它是否包含恶意软件？我的意思是它来自俄罗斯网站。总的来说，我对 windowsPE 不太熟悉。   由   提交/u/PhoenixMaster123  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1th1vap/thoughts_on_sergei_strelec_windowspe/</guid>
+      <pubDate>Mon, 18 May 2026 21:27:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bitwarden（私募股权）的安静改造可能会变得更糟</title>
+      <link>https://www.reddit.com/r/software/comments/1tgz7i1/the_quiet_renovation_at_bitwarden_private_equity/</link>
+      <description><![CDATA[ 由   提交/u/website-buyer  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tgz7i1/the_quiet_renovation_at_bitwarden_private_equity/</guid>
+      <pubDate>Mon, 18 May 2026 19:56:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>将您网站的 AI 模型（例如 Claude 等）直接连接到您的项目或人工智能代理</title>
+      <link>https://www.reddit.com/r/software/comments/1tgvz3r/connect_your_websites_ai_models_like_claude_etc/</link>
+      <description><![CDATA[Proxima 是一款本地多 AI 服务器，通过使用 REST API 或 Websocket SDK 等，将您的网站 AI 模型（如 chatGPT claude Gemini 和 Perplexity）连接到您的任何项目中或与任何 AI 代理工作区，它允许将任务路由到最佳模型、比较响应、链接输出，并在您的本地计算机上使用 45 多个 MCP 工具。 Proxima 将多个 AI 模型结合在一起，提供更智能、交叉验证的结果，非常适合编码、研究和分析。 如果没有 Proxima，单独的 AI 编码代理就会产生幻觉、猜测过时的 API，并与新框架作斗争，因为它们受制于一个模型的旧训练数据。 Proxima 让具有网络访问和更强推理能力的多个 AI 模型协同工作，交叉验证彼此的答案，并产生单个模型无法单独匹配的结果。 Github：https://github.com/Zen4-bit/Proxima   由   提交/u/Personal_Offer1551  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tgvz3r/connect_your_websites_ai_models_like_claude_etc/</guid>
+      <pubDate>Mon, 18 May 2026 18:24:32 GMT</pubDate>
+    </item>
     <item>
       <title>AngryMouse - 在 Windows 上摇动即可找到鼠标光标</title>
       <link>https://www.reddit.com/r/software/comments/1tgt844/angrymouse_shake_to_find_your_mouse_cursor_on/</link>
@@ -20,9 +48,9 @@
       <pubDate>Mon, 18 May 2026 16:31:01 GMT</pubDate>
     </item>
     <item>
-      <title>Built an open-source DICOM anonymizer that also emits the audit/manifest paperwork.寻找尖锐的反馈。</title>
+      <title>构建了一个开源 DICOM 匿名器，该匿名器还可以发出审核/清单文件。寻找尖锐的反馈。</title>
       <link>https://www.reddit.com/r/software/comments/1tgru7q/built_an_opensource_dicom_anonymizer_that_also/</link>
-      <description><![CDATA[Hi everyone, this is my first post here so apologies in advance if the framing is off. I am a final-year biomedical engineering student at UPV (Valencia, Spain). My TFG is on fairness in SaMD, specifically dermatology AI on inter-hospital data, and while preparing the dataset I kept tripping on the    由   提交 /u/Physical_Judgment453   [link] [评论]]]></description>
+      <description><![CDATA[大家好，这是我在这里发表的第一篇文章，如果框架关闭，请提前道歉。 我是 UPV（西班牙巴伦西亚）生物医学工程专业的最后一年学生。我的 TFG 关注 SaMD 的公平性，特别是医院间数据的皮肤科 AI，在准备数据集时，我一直在     上绊倒。由   提交 /u/Physical_Judgment453   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tgru7q/built_an_opensource_dicom_anonymizer_that_also/</guid>
       <pubDate>Mon, 18 May 2026 16:29:20 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[是否有任何自动点击器可以在不控制鼠标的情况下点击多个点？   由   提交/u/Working-Royal-479   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tgmgf1/is_there_any_auto_clicker_that_can_click_multiple/</guid>
       <pubDate>Mon, 18 May 2026 13:20:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>试图更新我的胜利，结果搞砸了</title>
-      <link>https://www.reddit.com/r/software/comments/1tglroa/was_trying_to_update_my_win_and_messed_all_up/</link>
-      <description><![CDATA[ 由   提交/u/Lonely_Reach_4396  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tglroa/was_trying_to_update_my_win_and_messed_all_up/</guid>
-      <pubDate>Mon, 18 May 2026 12:54:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道 Windows kiosk 模式的键盘快捷键吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1tglou7/anyone_know_keyboard_shortcuts_for_windows_kiosk/</link>
-      <description><![CDATA[嘿， 有人知道 Windows Kiosk 模式是否有任何有用的键盘快捷键吗？ 我正在使用在分配访问/kiosk 模式下运行的设置，我想知道是否有任何隐藏或鲜为人知的组合键仍然有效（或任何可以在本地触发的管理快捷键）。 我已经尝试了常见的方法，例如Alt+Tab、Ctrl+Esc、Win 组合键等，但根据配置，它们中的大多数似乎被阻止。 只是好奇人们在使用信息亭模式设置时是否发现有用的任何技巧、快捷方式或边缘情况。 谢谢 👍   由   提交 /u/Adosni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tglou7/anyone_know_keyboard_shortcuts_for_windows_kiosk/</guid>
-      <pubDate>Mon, 18 May 2026 12:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为哪一款软件被普遍误解？</title>
-      <link>https://www.reddit.com/r/software/comments/1tgkcj0/what_piece_of_software_do_you_think_is_generally/</link>
-      <description><![CDATA[要么人们低估了它，要么假设它做了一些它没有做的事情。 对那些名声不佳的工具感到好奇。   由   提交/u/WolfPspecial2348  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tgkcj0/what_piece_of_software_do_you_think_is_generally/</guid>
-      <pubDate>Mon, 18 May 2026 11:56:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何评估知识库是否真正适合团队？</title>
-      <link>https://www.reddit.com/r/software/comments/1tgk3hs/how_do_you_evaluate_whether_a_knowledge_base_will/</link>
-      <description><![CDATA[ 由   提交 /u/LorinaBalan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tgk3hs/how_do_you_evaluate_whether_a_knowledge_base_will/</guid>
-      <pubDate>Mon, 18 May 2026 11:44:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
