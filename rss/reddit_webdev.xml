@@ -4,20 +4,62 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 19 May 2026 14:28:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 17:33:50 GMT</lastBuildDate>
+    <item>
+      <title>模式 AI 领域指南 — 简单解释 AI 概念</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ththco/patterns_ai_field_guide_ai_concepts_explained/</link>
+      <description><![CDATA[ 由   提交/u/iqen93  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ththco/patterns_ai_field_guide_ai_concepts_explained/</guid>
+      <pubDate>Tue, 19 May 2026 17:14:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于在专业公司工作的专业 Web 开发人员来说，您使用过 W3.css 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tht4b0/to_any_professional_web_devs_that_work_in_a/</link>
+      <description><![CDATA[标题   由   提交 /u/Additional-Pick-3596   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tht4b0/to_any_professional_web_devs_that_work_in_a/</guid>
+      <pubDate>Tue, 19 May 2026 17:01:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Humansmap：查找人与组织之间的联系程度。按国家和类别划分的无限排行榜，探索图表，调查人们的简历和组织成员资格。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1thqlm2/humansmap_find_degrees_of_connections_between/</link>
+      <description><![CDATA[       由   提交/u/im4lwaysthinking  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1thqlm2/humansmap_find_degrees_of_connections_between/</guid>
+      <pubDate>Tue, 19 May 2026 15:35:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一些东西并需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1thqegl/i_am_building_something_and_want_help/</link>
+      <description><![CDATA[您好。每当我编码时，我都会打开大约 12 个选项卡，用于调色板、对比度检查、正则表达式等等，并且一直很难在它们之间导航。因此，我正在构建一个工具（名称 tbc，它具有开发人员在一个网站中所需的所有工具。到目前为止，我已经获得了这三个工具（颜色 palterra、对比度检查和正则表达式），我想知道是否有人有任何建议可以添加到此列表中。谢谢）   由   提交/u/Extreme_Insurance334   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1thqegl/i_am_building_something_and_want_help/</guid>
+      <pubDate>Tue, 19 May 2026 15:29:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>在公开展示网络应用程序之前，如何获得有用的发布前反馈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1thq5qm/how_do_you_get_useful_prelaunch_feedback_on_a_web/</link>
+      <description><![CDATA[我正在尝试找出一种更好的方法，在网络应用程序正确启动之前获得有用的反馈。 我一直看到的问题是，很多反馈要么太模糊，要么太客气。人们会说“看起来不错”或“好主意”，但这并不能真正告诉你登陆页面是否清晰，第一个屏幕是否解释了产品，入门是否有摩擦，定价是否可信，或者用户是否真的知道下一步该做什么。 我试图改进的是反馈流程本身，特别是对于早期的网络应用程序、SaaS 工具、仪表板、浏览器工具和小型产品。 我认为需要的东西发布前检查的内容是： - 标题是否能快速解释其价值？ - 在没有额外上下文的情况下，第一个屏幕是否有意义？ - 主要号召性用语是否明显？ - 用户界面是否值得信赖？ - 入门过程中是否有任何令人困惑的地方？ - 定价或优惠是否可信？ - 新用户知道该怎么做吗？接下来？ - 该产品看起来能解决真正的问题吗？ 我发现问“你觉得怎么样？”通常得到的答案很弱。更具体的问题似乎效果更好，例如“您下一步会点击哪里？”或者“什么部分让您犹豫？” 对于这里构建或审查网络应用程序的人来说，您通常如何获得有用的发布前反馈而不使其变成模糊的赞扬或随意的意见？   由   提交 /u/Huge_Light_1344   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1thq5qm/how_do_you_get_useful_prelaunch_feedback_on_a_web/</guid>
+      <pubDate>Tue, 19 May 2026 15:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 ReelRifter：创建世界级流媒体伴侣的旅程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1thpvf1/building_reelrifter_the_journey_of_creating_a/</link>
+      <description><![CDATA[      只是分享我个人的旅程，采用已知的服务类型并应用诚实的 AI 原则，将该类型提升到一个新的水平。   由   提交/u/rodtrent44  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1thpvf1/building_reelrifter_the_journey_of_creating_a/</guid>
+      <pubDate>Tue, 19 May 2026 15:10:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有聚合评级和跨平台 ID 的统一电影和电视元数据 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1thp0j7/unified_movie_tv_metadata_api_with_aggregated/</link>
+      <description><![CDATA[我想要一个用于个人项目的 API，它可以返回： - 来自多个来源的评级 - 评论页面的链接 - 跨平台 ID - 动漫元数据 无需手动组合多个 API。 示例： bash curl “https://api.reeldb.io/v1/title?imdb=tt0133093&amp;apikey=YOUR_KEY”  ```json { &quot;title&quot;: &quot;黑客帝国&quot;, &quot;ids&quot;: { &quot;imdb&quot;: &quot;tt0133093&quot;, &quot;tmdb&quot;: 603, &quot;tvdb&quot;: 169, &quot;trakt&quot;: 481 }, “评分”: { “imdb”: { “评分”: 8.7 }, “tmdb”: { “评分”: 8.2 }, “trakt”: { “评分”: 85 }, “西红柿”: { “评分”: 83 }, “metacritic”: { “评级”: 73 }, “letterboxd”: { “评级”: 4.2 } }, “链接”: { “imdb”: “...”, “letterboxd”: “...”, “rottentomatoes”：“...”、“metacritic”：“...” } } ``` 现有集成还有一个与 OMDb 兼容的端点： bash curl &quot;https://api.reeldb.io/?i=tt0133093&amp;apikey=YOUR_KEY&quot;  GitHub：https://github.com/linaspurinis/reeldb   由   提交 /u/linaspurinis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1thp0j7/unified_movie_tv_metadata_api_with_aggregated/</guid>
+      <pubDate>Tue, 19 May 2026 14:40:48 GMT</pubDate>
+    </item>
     <item>
       <title>2026 年 Web 开发人工智能现状调查结果</title>
       <link>https://www.reddit.com/r/webdev/comments/1thoid0/state_of_web_dev_ai_2026_survey_results/</link>
       <description><![CDATA[       由   提交/u/magenta_placenta   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1thoid0/state_of_web_dev_ai_2026_survey_results/</guid>
       <pubDate>Tue, 19 May 2026 14:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由开发者最被低估的 MCP 用例是将您的银行与 Claude 连接起来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1thob0q/most_underrated_mcp_use_case_for_freelance_devs/</link>
-      <description><![CDATA[我已经为数据库、API、存储库设置了 MCP 所有常用的东西，但我每天使用最多的是我的银行 我是网络开发和财务管理方面的自由职业者，这始终是最糟糕的部分。通过 MCP 将我的银行与 Claude 连接起来，现在它可以处理发票、费用跟踪、逾期付款标记和现金流摘要，而无需我离开编辑器。我使用 Meow，因为它们具有本机 MCP 支持，因此 Claude 可以直接连接。 几周后，Claude 不再询问客户详细信息和格式首选项，因为它已经有了之前对话的上下文。从每周 1 小时的财务管理变成 10 分钟审查 Claude 整理的内容 如果您是自由职业者并且仍在手动处理发票，那么这比任何开发工具 MCP 连接都具有更大的解锁性   由   提交 /u/NeedleworkerKnown3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1thob0q/most_underrated_mcp_use_case_for_freelance_devs/</guid>
-      <pubDate>Tue, 19 May 2026 14:15:43 GMT</pubDate>
     </item>
     <item>
       <title>为我自己的托管服务器创建简单网站的工具</title>
@@ -67,48 +109,6 @@
       <description><![CDATA[我正在开发 Angular 8 Web 应用程序（abismal monorepo），它是用于管理付款、兑现等的内部工具。 它有相当多的数字输入，所有这些输入都允许只接受整数。 最近我开始收到用户的报告，有时当他们填写值并提交时（添加到购物篮，提交金额），结束value 与他们最初填写的不同（据报告差异为 1 或 2，并且大部分向下）。 我们没有任何舍入逻辑、任何转换、任何浮点数，什么都没有。输入只是纯整数输入。 我已经开始从这个问题中解脱出来，对我来说唯一明智的解决方案是完全禁用数字输入上的任何控件（键盘箭头、鼠标滚轮控制），将它们设置为文本输入并添加模式验证。 还有什么？我错过了什么？ 此外，这个应用程序的用户不太擅长技术，有时他们甚至让网站打开几周而不刷新，并抱怨最后没有出现最新的更改。 目前，这个输入问题/解决方案似乎是唯一有意义且看起来真实的选项。   由   提交 /u/Crutch1232   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1thhrm5/strange_bugbehavior_with_number_inputs_in_angular/</guid>
       <pubDate>Tue, 19 May 2026 09:36:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>FITA 学院在班加罗尔为新生提供的 React JS 培训效果如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1thg38x/how_good_is_fita_academys_react_js_training_in/</link>
-      <description><![CDATA[大家好， 我计划参加班加罗尔的 React JS 培训，FITA 学院是我正在考虑的选择之一。我是一名初学者（刚从大学毕业，在 Web 开发方面很少或没有经验），所以我想知道这种培训是否真的适合初学者。 这里有人在班加罗尔的 FITA 学院接受过 React JS 培训吗？如果是，请特别分享您的经验：  该课程是否适合初学者？ 教学和培训师的质量如何？ 该课程是否包括实际项目和动手编码练习？ 您获得了多少职业或就业支持（如果有）？ 它是否帮助您更好地理解/对 React JS 有信心？ 这是否值得这些费用已付费？    由   提交 /u/Lazy-Day654   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1thg38x/how_good_is_fita_academys_react_js_training_in/</guid>
-      <pubDate>Tue, 19 May 2026 08:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们现在正在用 AI PR 做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1thelaf/what_are_we_doing_with_ai_prs_now/</link>
-      <description><![CDATA[我看到更多 PR，其中代码看起来在第一遍就完成了：类型排队、测试通过、演示点击通过、lint 很安静。然后审查就会变得很奇怪，因为没有人能说出为什么该缓存密钥存在，为什么在昂贵的调用之后运行身份验证，当提供程序超时时会发生什么，或者当重试两次时谁拥有回退。 小事情。推回感觉奇怪的是不礼貌的，因为分支在演示中工作，而 Web 开发一直主要是围绕身份验证、重试、部署顺序和错误数据的无聊案例。人工智能似乎擅长填补快乐的道路，不太擅长留下人类可以稍后解释的踪迹   由   提交 /u/NatePerspective   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1thelaf/what_are_we_doing_with_ai_prs_now/</guid>
-      <pubDate>Tue, 19 May 2026 06:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>“关于我”网站，没有代码经验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1thaeqa/about_me_site_with_no_experience_in_code/</link>
-      <description><![CDATA[我想创建一个关于我的网站来存储艺术，以及一些描述我是谁的小东西。我还想要一个密码系统，可以提供给人们进入网站的黑暗面。 任何有关如何开始的帮助或建议都很棒！   由   提交 /u/WhiteFire7475   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1thaeqa/about_me_site_with_no_experience_in_code/</guid>
-      <pubDate>Tue, 19 May 2026 03:11:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员需要为您的产品提供 UI UX 帮助吗？我有你</title>
-      <link>https://www.reddit.com/r/webdev/comments/1thacb9/developers_need_ui_ux_help_for_your_product_ive/</link>
-      <description><![CDATA[嘿，我是一名 UI UX 设计师，在 Figma 和产品设计方面拥有 3 年工作经验。 如果您是一名开发人员，正在构建某些东西，并且需要 UI、UX 或简洁 Figma 设计方面的帮助，我可以为您提供支持。 作品集：https://www.behance.net/malikannus 发表评论或通过 DM 告诉我您正在构建的内容。   由   提交 /u/Street-Honeydew-9983   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1thacb9/developers_need_ui_ux_help_for_your_product_ive/</guid>
-      <pubDate>Tue, 19 May 2026 03:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>独立设备安装与 IIS 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1th85bn/selfcontained_appliance_install_vs_iis_web_site/</link>
-      <description><![CDATA[我编写了一个企业应用程序套件，现在正处于十字路口。 您更喜欢哪一个：  独立的 Web 服务安装程序，可引导您完成安装（端点、端口、数据库等），并且可以接收修补程序补丁。  通常使用专用服务器，但可以是多用途的。问题仍然是，当需要精细的视图和控制时，它的可见性较低。  具有手动配置和升级功能的 IIS 网站。这需要对主机标头站点绑定、证书、权限等进行更多手动过程。 将完全控制权恢复给管理员，但正如预期的那样，升级并不像前面提到的那么简单。   请不仅考虑您更喜欢使用哪种方法，而且还要考虑哪种管理方式更有吸引力。  谢谢。   由   提交/u/rare_design  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1th85bn/selfcontained_appliance_install_vs_iis_web_site/</guid>
-      <pubDate>Tue, 19 May 2026 01:33:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对我的 Kubernetes 多租户架构设置进行健全性检查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1th4zod/need_a_sanity_check_on_my_kubernetes_multitenant/</link>
-      <description><![CDATA[情况是这样的。我从事自由职业的公司之一拥有一个 SaaS 平台，该平台基本上仍处于 MVP 阶段，我正在为其部署基础架构。他们已经拥有数百家企业客户。然而，他们几乎一直在为每个客户进行手动设置。在应用程序级别上没有针对多租户的任何严格执行，因此解决方案或多或少是每个客户一个数据库。显然，这无法扩展。他们意识到该应用程序在某个时候需要完全重写，但现在这并不比进入市场更重要。  我的解决方案是在基础设施级别处理多租户。基本上，一个 Kubernetes 集群，每个租户一个 pod，每个 pod 一个数据库卷，用于模板化的 Helm Charts 等。它们位于自托管基础设施上，因此计算成本不是问题，否则我会说是时候对应用程序进行重写了。  但是，我开始怀疑这是否是正确的方法。我已经在 Kubernetes 架构上投入了大量的时间，并且我开始质疑这在规模上会如何。尽管 Kubernetes 和其他服务非常有能力处理这里的大部分工作，但我仍然要处理数百个 pod，其中任何一个 pod 在某些时候都可能需要手动干预。 对于那些在基础设施层处理多租户的人来说，您是否成功地使用了这种方法或类似的方法？或者我是否以某种方式完全过度设计了这个？另外，我应该继续使用当前的架构吗？   由   提交/u/not-halsey   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1th4zod/need_a_sanity_check_on_my_kubernetes_multitenant/</guid>
-      <pubDate>Mon, 18 May 2026 23:20:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
