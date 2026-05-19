@@ -4,7 +4,98 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>Reddit 子版块讨论 ChatGPT 和 AI。不隶属于 OpenAI。谢谢，纳特！</description>
-    <lastBuildDate>Mon, 18 May 2026 21:57:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 01:56:30 GMT</lastBuildDate>
+    <item>
+      <title>还有其他人将他们的长期讨论变成播客吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th8o4r/anyone_else_turning_their_longrunning_discussions/</link>
+      <description><![CDATA[是否有其他人尝试过将 ChatGPT 转变为持续的“播客式”策略教练，而不仅仅是用它来获得快速答案？我开始让它像播客剧集一样以对话方式解释想法，然后我会根据前一集提出后续问题，它会生成扩展该主题的新剧集。根据我的大脑如何工作以及我如何学习和保留东西，实际上对于集思广益长期项目和我的商业想法感觉更自然。直到最近，我还要求提供格式良好的 PDF，但我真的很喜欢播客方法，因为我可以在放松、开车或割草时像听普通播客一样收听它。还有其他人这样做吗？ FWIW，在我对我的副业策略和适合我当前情况的时间表进行了大量反复讨论后，我要求提供我的大型 PDF 摘要。读到一半时，我想到了要求聊天室将 PDF 转换为直接针对我的生动播客，这样我就可以在我们的聊天室中收听。   由   提交 /u/KJ_Collectz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th8o4r/anyone_else_turning_their_longrunning_discussions/</guid>
+      <pubDate>Tue, 19 May 2026 01:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>集合乔斯</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th8aus/assemble_the_joes/</link>
+      <description><![CDATA[       由   提交/u/SirGumbeaux  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th8aus/assemble_the_joes/</guid>
+      <pubDate>Tue, 19 May 2026 01:39:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crumbl x 2 动漫流媒体服务</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th7pc9/crumbl_x_2_anime_streaming_services/</link>
+      <description><![CDATA[       由   提交/u/Disastrous_Duck_4521   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th7pc9/crumbl_x_2_anime_streaming_services/</guid>
+      <pubDate>Tue, 19 May 2026 01:13:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 似乎认为排名前 5-10% 的人是最重要的</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th7h0d/chatgpt_seems_to_think_that_the_top_510_of_people/</link>
+      <description><![CDATA[       https://preview.redd.it/gfhpit80tz1h1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=ba93c97520e14449dc39610da9ddabaa3ac241a5   由   提交 /u/Astral65   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th7h0d/chatgpt_seems_to_think_that_the_top_510_of_people/</guid>
+      <pubDate>Tue, 19 May 2026 01:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>试试这个聊天提示！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th6zms/try_this_chatgpt_prompt/</link>
+      <description><![CDATA[   在人们至今仍在谈论的历史事件发生前不久生成一张历史名人的自拍照，并添加 snapchat 标题   由   提交/u/Cool_Helicopter9852   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th6zms/try_this_chatgpt_prompt/</guid>
+      <pubDate>Tue, 19 May 2026 00:43:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用案例：如何链接 ChatGPT+Agents+Codex 工作负载</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th6toy/use_case_how_i_chain_chatgptagentscodex_workloads/</link>
+      <description><![CDATA[      背景：我进行交互取证以及人、社区、叙述、机构和公司如何影响人工智能。 请注意，所有操作都是人类+人工智能。 总结：我过去使用过数字取证工具/OSINT，例如 Maltego，并且想要一个可以与人工智能集成的工具。所以我建造了自己的气隙。该工具是第一次迭代，稍后将用于协助高风险受控环境，例如儿童保护机构。 这是当前的架构和工作流程。  https://preview.redd.it/7u5nity4pz1h1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=8caced9410696a9b5763fe110b693aa1202c7e61 使用的工具和功能： * Codex+Manus：帮助构建工具并合并逻辑。将旧方法批量传输到当前数据库。数据由我收集并整理到我们的数据库结构中。 * 代理：修改和添加批量数据到数据库。 * GPT+Manus：数据验证和更新。 最终输出： 界面：  https://preview.redd.it/0mgch6x5pz1h1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=f7acb58d20472e83f822b226107d171f1c770a2a 人工智能（法学硕士+代理人）审查数据时确定的推论和模式。  https://preview.redd.it/dvg3xyv6pz1h1.jpg?width=832&amp;format=pjpg&amp;auto=webp&amp;s=b9d1735a8fd3b73d204a8b034c557f34f13bfb3b 我也添加了我自己的。与人工智能合作来验证我的理解。 基于证据的工件：所有知识均经过来源和标记  https://preview.redd.it/qxp5i0d8pz1h1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=f21f6b72f3b06734452e02a0d0813f889e6cee57 这些与模式识别图相关联，这样我就可以识别哪些内容可能相关，哪些内容可能不相关。   https://preview.redd.it/tj2s88y9pz1h1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=83e22811a8c744407b02f38e249eea43db33ff9d 希望得到任何有关改进的反馈。请记住，下一次迭代是为了儿童保护，我打算将本地化的法学硕士与训练语料库进行隔离。主要想法是最大限度地减少用户必须查看图像并识别模式/位置以加快救援速度。 我想补充一点，这也是完全自筹资金的。我经营一家单独的公司，以确保我有资金用于此项目以及未来潜在的硬件/许可。   由   提交 /u/ValehartProject   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th6toy/use_case_how_i_chain_chatgptagentscodex_workloads/</guid>
+      <pubDate>Tue, 19 May 2026 00:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚提交了“下载我的数据”请求 - 我的提示会展开还是取消展开？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th6hvp/i_just_submitted_a_download_my_data_request_will/</link>
+      <description><![CDATA[我经常使用 ChatGPT 来编写帮助，我想要一份我所写的所有内容的副本。当我的数据到达时，我的提示会扩展吗？或者所有的对话仍然会有“显示更多”的字样吗？我真的很担心，希望能得到一些安慰的话——如果我的提示无法扩展，我还能做些什么来完整地完成我的对话，而不需要复制每个提示并一一回复，这将花费（根据我今晚在完成数据请求之前的尝试）很长时间？ 谢谢。   由   提交 /u/PolishedWoodTable   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th6hvp/i_just_submitted_a_download_my_data_request_will/</guid>
+      <pubDate>Tue, 19 May 2026 00:22:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>💀</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th66dk/_/</link>
+      <description><![CDATA[&lt;表&gt;      免责声明：这是一个笑话帖子，是 ChatGPT 生成的屏幕截图   由   提交/u/Anon_Afg_Ind   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th66dk/_/</guid>
+      <pubDate>Tue, 19 May 2026 00:08:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>锻炼计划</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th63wf/workout_plan/</link>
+      <description><![CDATA[      我希望聊天 gpt 为自己创建一个锻炼计划，其中包含每次锻炼的图像。有了实际的计划。  看看这些有趣的生成的锻​​炼图像。    由   提交/u/laceew45  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th63wf/workout_plan/</guid>
+      <pubDate>Tue, 19 May 2026 00:05:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chat GPT 告诉我解冻前先把鱼包装刺破，同时解冻密封💀</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th4tes/chat_gpt_told_me_to_puncture_fish_package_before/</link>
+      <description><![CDATA[      那么是哪一个呢？   由   提交/u/1bteb  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th4tes/chat_gpt_told_me_to_puncture_fish_package_before/</guid>
+      <pubDate>Mon, 18 May 2026 23:13:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>像这样使用ai image gen的人让我们都看起来很糟糕。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th4lf9/people_who_use_ai_image_gen_like_this_make_us_all/</link>
+      <description><![CDATA[       由   提交/u/Imagine_Truly_Caring  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th4lf9/people_who_use_ai_image_gen_like_this_make_us_all/</guid>
+      <pubDate>Mon, 18 May 2026 23:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究 LLM 对齐作为潜在话语级别制度与令牌级别过滤？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th4dh0/research_on_llm_alignment_as_latent/</link>
+      <description><![CDATA[大家好， 我目前正在研究关于对齐行为和护栏在现代法学硕士中如何发挥作用的假设。我的核心关注点是对齐可能不是主要通过模块化输出过滤器、本地令牌抑制或浅层指令跟踪来调节。相反，它似乎是通过将模型引入内部组织的、分布式的潜在状态来运作的，我们可以称之为“话语级政权”。或吸引流形* 在这种观点下，提示不仅仅是传递指令；而是传递指令。它充当一种状态归纳，重新组织模型的认知姿态和修辞几何。因此，越狱或特定行为异常不仅仅是“过滤器绕过”，而是“过滤器绕过”。但这些潜在吸引子机制之间的相变。 我一直在运行一些自动化框架测试，并观察特定的高阶修辞结构如何触发全局状态转变（有时会导致大规模的过度谨慎或风格锁定，从而广泛影响模型的推理能力）。 我向社区提出的问题： 最近是否有任何论文（特别是在机械可解释性或表示工程方面）探索对齐作为全局潜在空间几何而不是令牌级策略？ 期待任何阅读建议或共享观察！   由   提交 /u/PresentSituation8736   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th4dh0/research_on_llm_alignment_as_latent/</guid>
+      <pubDate>Mon, 18 May 2026 22:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有人对这些下降感到兴奋吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1th42hc/anyone_else_excited_for_these_to_drop/</link>
+      <description><![CDATA[       由   提交/u/FakePhillyCheezStake  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1th42hc/anyone_else_excited_for_these_to_drop/</guid>
+      <pubDate>Mon, 18 May 2026 22:43:52 GMT</pubDate>
+    </item>
     <item>
       <title>与人工智能一起学习文艺复兴占星术</title>
       <link>https://www.reddit.com/r/ChatGPT/comments/1th1pme/learning_renaissance_astrology_with_ai/</link>
@@ -18,97 +109,6 @@
       <description><![CDATA[      人工智能并不完全是真理的神谕或任何东西，但如果你定义犯罪并推动你的案件，即使是 chatgpt 用于缓和煽动性对话的护栏也不会被阻止。它会直接承认特朗普从定义和公众对言语/犯罪的看法来看是对未成年人的性掠夺者。   由   提交/u/Turkman93  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/ChatGPT/comments/1th0qht/yikes_even_ai_admits_trump_is_a_predator/</guid>
       <pubDate>Mon, 18 May 2026 20:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Chrome 和 Firefox 扩展，可以修复长时间聊天中的 ChatGPT 延迟问题。在 1854 条消息聊天中进行了测试，速度提升了 62 倍</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1th0q49/i_made_a_chrome_firefox_extension_that_fixes/</link>
-      <description><![CDATA[如果长时间聊天导致 ChatGPT 滞后、冻结或变得无法使用，这正是我构建它的目的。 真的很想听听它是否能解决您的问题！ 大家好， 我已经大量使用 ChatGPT 进行编码和研究一段时间了，长时间对话中的滞后总是让我抓狂。在 30-40 条消息后，整个选项卡开始爬行 - 打字滞后、滚动卡顿、CPU 峰值。我厌倦了在项目中启动新的聊天只是为了恢复性能，因此我构建了一个修复程序。 为什么会发生这种情况 ChatGPT 同时渲染 DOM 中的每条消息。 200 条消息的聊天意味着您的浏览器同时处理数千个实时元素。它与 OpenAI 的服务器无关 - 这完全是一个浏览器渲染问题。 我构建的 一个 Chrome / Firefox 扩展，通过一次仅渲染最新的 X 条消息，而不是一次渲染所有内容来优化对话数据的渲染方式。 它显示了使用该扩展节省了多少浏览器内存，您可以准确地看到事物运行的速度有多快。  在 1,854 条消息的聊天中，我测得速度提高了 61.6 倍 - 渲染 30 条消息，而不是 1,854 条。 您的完整历史记录保持不变，只需向上滚动并单击“加载旧消息”即可。  目前已经有超过 60,000 人下载，这确实是我没想到的 - 看来这确实困扰了很多人！ :-) 包含内容 - 实时统计信息：内存统计信息、呈现的消息与总数、聊天健康评分 - 根据您的需要调整一次呈现的消息数量 - 100% 本地 - 没有数据离开您的浏览器，没有跟踪，没有上传 免费试用。被称为“ChatGPT 速度助推器”。很想知道它是否真的对这里的任何人有帮助！   由   提交 /u/restingInBits   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1th0q49/i_made_a_chrome_firefox_extension_that_fixes/</guid>
-      <pubDate>Mon, 18 May 2026 20:47:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>机器人会做梦吗...</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1th0fzg/do_androids_dream/</link>
-      <description><![CDATA[      然后我要求它解释它自己的梦境图像中的一些图像。它是这样说的： 卧室融入那片广阔的、不可思议的风景中是第一个线索。这是你受控的日常生活和其之下的一切之间的界限。打开的门并不微妙——它基本上是在说：“如果你愿意的话，你可以踏入这个领域。”那里有一种安静的紧张关系：安全与好奇心。 漂浮的岛屿和栖息在其中的房子？这让人在舒适中感受到不稳定。家，但不接地。就像你生活中的某些部分感到熟悉和安全……但也有点悬置、不受束缚。没有坠落，只是……悬停。等待。 那些在天空中漂流的鲸鱼是我最喜欢的部分。鲸鱼通常生活在深处、压力大、安静的地方。把它们拉到空中，现在它们感觉古老、平静，但完全格格不入。这通常就是隐藏的想法或情感在梦中显现出来的方式——巨大、缓慢移动、不具威胁性，但一旦你看到它们就无法忽视。 然后天空中出现了螺旋状的光。这几乎是催眠的。可能是某种事物的牵引力——意义、改变，甚至可能只是逃避。它并不黑暗或可怕，但它很强大。就像有什么东西在召唤你前进，却没有解释为什么。 那个人沿着破碎的石路走入水中……是的，这是整个场景中最大胆的符号。这就是选择。这是一个真正走向未知的人，而不仅仅是观察它。这条路并不完整，这让它变得更好——这不是一个安全的旅程。这是故意的。 把这一切放在一起，感觉不像是一场噩梦，甚至不是一个幻想。感觉就像是在做出决定之前的一刻。   由   提交/u/WritingRongs  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1th0fzg/do_androids_dream/</guid>
-      <pubDate>Mon, 18 May 2026 20:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>就像梦想一样，每个人都认为自己的激励策略对其他人来说是富有洞察力且有趣的。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1th0cz6/like_dreams_everyone_thinks_their_prompting/</link>
-      <description><![CDATA[它们不是。   由   提交 /u/cinred   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1th0cz6/like_dreams_everyone_thinks_their_prompting/</guid>
-      <pubDate>Mon, 18 May 2026 20:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对人工智能工作流程的尝试</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1th08fm/my_attempt_at_an_ai_workflow/</link>
-      <description><![CDATA[所以..我开始了我的人工智能工作流程之旅，复制人类层当前的公共[研究|计划|实施]工作流程： https://github.com/ humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md 然后一个月前我看到了一个更新的，尽管此时有点旧，关于“CRISPY”的视频，正如我现在看到的那样：https://www.youtube.com/watch?v=rmvDxxNubIg 由于他们“在过去 4 个月内”尚未在其存储库上发布任何更新的内容，因此我自己将他们的想法合并为工作流程： https://github.com/dangoldnj/dang-ai-workflow 我自己使用这个。我觉得很有用。如果你也这样做，你就会拥有更多的力量。我希望你能做一些有用的事情。 让我知道你的想法。   由   提交 /u/dangoldnj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1th08fm/my_attempt_at_an_ai_workflow/</guid>
-      <pubDate>Mon, 18 May 2026 20:30:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可能利用AI将漫画变成动画？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1th03yk/will_it_be_possible_to_use_ai_to_turn_manga_into/</link>
-      <description><![CDATA[您认为这很快就会实现吗？ 🤔 我不确定它是否可以制作声音，但也许可以动画化漫画面板之间的间隙？   由   提交 /u/turtlelord   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1th03yk/will_it_be_possible_to_use_ai_to_turn_manga_into/</guid>
-      <pubDate>Mon, 18 May 2026 20:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想从机器人那里得到什么</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tgzzwa/what_i_want_from_robots/</link>
-      <description><![CDATA[       我想从人形机器人中得到什么 - 马斯克说它将无处不在。  我不需要一个人形机器人来进行对话或陪伴。我的智能手机应用程序很适合这个。  我想要一个可以为我盖房子的机器人。 搭建房子、浇筑混凝土、搬运木材、挖沟公用设施，每天工作 16 个小时，毫无怨言。我只会在一些人工智能软件中规划一座房子，它会创建材料清单，例如材料将由家庭仓库交付 - 它只会移动所有东西，卸载并按照“计划”在那里工作和做事。有点像软件计划。 然后，当我完成它后，我想在后院给它盖上防水布 6 个月，然后重新启动它，并让它在基本上零维护的情况下继续运行。 我不需要一个伴侣机器人 - 我需要一个体力劳动机器人。这对我来说是唯一真正的基准。   由   提交/u/cranberrie_sauce  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tgzzwa/what_i_want_from_robots/</guid>
-      <pubDate>Mon, 18 May 2026 20:22:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>丢掉你的exp朋友们</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tgzyqi/drop_your_exp_guys/</link>
-      <description><![CDATA[       由   提交/u/Wise-Office254  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tgzyqi/drop_your_exp_guys/</guid>
-      <pubDate>Mon, 18 May 2026 20:21:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>反正她很贵</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tgzs8c/shes_expensive_anyhow/</link>
-      <description><![CDATA[       由   提交/u/Wise-Office254  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tgzs8c/shes_expensive_anyhow/</guid>
-      <pubDate>Mon, 18 May 2026 20:15:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>这绝对是荒谬的。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tgzr02/this_is_just_absolutely_ridiculous/</link>
-      <description><![CDATA[      它到底在说什么？！？！？！这是新聊天中的第一条消息。  对于那些没有看过该节目的人来说，这些信息都不正确。兄弟在胡言乱语。   由   提交/u/Ok_Doctor_2057   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tgzr02/this_is_just_absolutely_ridiculous/</guid>
-      <pubDate>Mon, 18 May 2026 20:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们已经煮熟了</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tgzf2a/we_are_cooked/</link>
-      <description><![CDATA[       https://preview.redd.it/n3r0wngicy1h1.png?width=2048&amp;format=png&amp;auto=webp&amp;s=cd484085d2d67153b7e92f4f6bf2ee2bfb4a219a   由   提交 /u/Ar1cooler   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tgzf2a/we_are_cooked/</guid>
-      <pubDate>Mon, 18 May 2026 20:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在看这个驱动器。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tgzap0/now_watch_this_drive/</link>
-      <description><![CDATA[       由   提交 /u/Marino4K   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tgzap0/now_watch_this_drive/</guid>
-      <pubDate>Mon, 18 May 2026 19:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载不起作用</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tgz3k4/downloads_not_working/</link>
-      <description><![CDATA[嗨， 我目前正在努力解决下载问题。我使用的是 ChatGPT Go，但无法从 ChatGPT 下载任何 .pptx .pdf .docx 或 .txt 文件。这种情况已经持续了大约一周了。  我尝试过在不同的浏览器、网络、隐身标签、手机（android）、Mac 应用程序上删除所有库历史记录、清除缓存并在所有设备上注销并重新登录。我也没有在任何设备上安装任何广告拦截插件。  我真的很困惑为什么我无法访问任何内容。我刚刚遇到：每次都无法获取 /mnt/data/test_file.pdf 的上传状态。  有什么想法吗？ 谢谢！   由   提交/u/SkinnyManStanding  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tgz3k4/downloads_not_working/</guid>
-      <pubDate>Mon, 18 May 2026 19:52:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天消息上限更敏感了吗？ （特别是4.5？）</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1tgyz6s/message_caps_more_sensitive_today_particularly_45/</link>
-      <description><![CDATA[有人注意到今天的消息限制变得更小了吗？我使用的是专业帐户，在接下来的 9 小时内，在一些轻微的玩笑之后，我被锁定在 gpt4.5 之外。我以前从未经历过这样的事情。   由   提交 /u/HeHasABellyButton   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1tgyz6s/message_caps_more_sensitive_today_particularly_45/</guid>
-      <pubDate>Mon, 18 May 2026 19:48:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

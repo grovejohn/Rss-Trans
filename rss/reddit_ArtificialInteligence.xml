@@ -4,13 +4,13 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Mon, 18 May 2026 21:57:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2026 01:56:09 GMT</lastBuildDate>
     <item>
-      <title>尝试跨工具/工作流程进行人工智能操作行为的方法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1th0j20/experimenting_with_ways_to_carry_ai_operational/</link>
-      <description><![CDATA[几天前，我在这里发布了有关跨项目/工作流程对人工智能系统重复重新解释相同行为期望的文章。 特别是当你开始混合时：  不同的工具/运行时 不同的存储库/项目 不同的工作流程/上下文窗口  讨论推动我们走向尝试使用结构化文件方法，而不是不断依赖提示和记忆。 诸如：  系统在行动前何时应询问 什么值得谨慎 什么算作任务边界 哪些操作值得额外审查  当前实验如下所示： session_intent： Demand_at：first_write task_boundary：信号：-dir_change-file_type_shift-read_to_write_transition high_consequence：工具：-“Bash：.*rm.*-rf.*” - “Bash:.*git.*push.*--force.*”  到目前为止，有趣的部分是，行为开始更好地适应环境/表面的变化，而不是每次工作流程发生变化时都重新设置。 在企业/合规性意义上，这并不是真正的“人工智能治理”。更多操作行为的可移植性。 还为时尚早——形状每周都在迭代。 好奇这里的其他人是否正在尝试类似的想法或以不同的方式思考这个问题。   由   提交/u/rohynal  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1th0j20/experimenting_with_ways_to_carry_ai_operational/</guid>
-      <pubDate>Mon, 18 May 2026 20:40:20 GMT</pubDate>
+      <title>ChatGPA：学生们花了数年时间被告知不要使用人工智能来做功课，然后他们的亚利桑那州毕业典礼使用人工智能来读取名字，它立即开始跳过人💀</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1th83ce/chatgpa_students_spent_years_getting_told_not_to/</link>
+      <description><![CDATA[ 由   提交 /u/kleverrboy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1th83ce/chatgpa_students_spent_years_getting_told_not_to/</guid>
+      <pubDate>Tue, 19 May 2026 01:30:46 GMT</pubDate>
     </item>
     <item>
       <title>巴诺书店首席执行官支持在商店销售人工智能书籍</title>
