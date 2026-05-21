@@ -4,7 +4,29 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 20 May 2026 22:21:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 01:56:49 GMT</lastBuildDate>
+    <item>
+      <title>如果您有一个想法但尚未开始构建 - 实际的障碍是什么？</title>
+      <link>https://feed.indiehackers.world/post/22b901a00c</link>
+      <description><![CDATA[几个月以来，我一直在与非技术人员交谈，他们脑子里（或概念文档中）有一个想法，但还没有开始构建。的
+  他们给我的理由不是“我不知道如何编码”。更常见的是：
+
+“我不知道现在的人工智能工具是否可以做到这一点”
+
+“我不相信自己能够选择正确的工具来开始”
+
+“我担心第一次尝试会失败，并确认我不适合这个”
+
+“每次我坐下来开始时，我都会打开 YouTube，然后损失 3 个小时”
+如果您曾经历过这种情况——即使是短暂的——对您来说真正的障碍是什么？是否是工具不堪重负、害怕公开失败、缺乏小
+第一步就足够了，还是完全是别的什么？
+在我假设之前尝试绘制它的真实形状。
+
+
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/22b901a00c</guid>
+      <pubDate>Wed, 20 May 2026 21:24:58 GMT</pubDate>
+    </item>
     <item>
       <title>自由职业以保持灯亮？以下是如何自动吸引客户</title>
       <link>https://feed.indiehackers.world/post/77e78149cf</link>
@@ -181,16 +203,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/8f19cbb593</guid>
       <pubDate>Sun, 17 May 2026 12:10:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周我最尴尬的发现是：谷歌完全看不到我们的初创公司。</title>
-      <link>https://feed.indiehackers.world/post/c878bf461c</link>
-      <description><![CDATA[来自实体房地产世界，店面默认情况下是可见的，缺乏如何让 Google 真正看到您的代码的基本清单是很疯狂的。
-如果您是一位推出第一个 SaaS 的非技术创始人，请不要认为爬虫会找到您。去设置 Search Console，验证您的域名，并在第一天提交您的站点地图。不要等到您已经在寻找潜在客户时才意识到您的前门在街道上是隐藏的。
-最明显的技术世界标准实践是什么，在您刚开始时完全让您措手不及？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/c878bf461c</guid>
-      <pubDate>Sun, 17 May 2026 11:28:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
