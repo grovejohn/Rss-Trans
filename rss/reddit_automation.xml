@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Thu, 21 May 2026 01:54:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 06:39:35 GMT</lastBuildDate>
+    <item>
+      <title>有没有人尝试过将powerpoint作为代理的最终输出？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tjc2k3/has_anyone_tried_making_powerpoint_the_final/</link>
+      <description><![CDATA[我看到的大多数代理演示都以文本答案结束，但我的很多工作都以甲板结束。我一直在测试一个工作流程，其中代理从一些上下文开始，找出仍然需要搜索或研究的内容，将有用的部分组合在一起，然后将结果转换为 PowerPoint 文件。 有趣的部分并不是真正的人工智能制作幻灯片，而是代理是否可以决定丢失哪些信息，忽略哪些信息，以及如何构建输出，使其不像通用人工智能填充物。 显然，仍然需要审查。但感觉它比仅仅得到一个长总结更有用。有人构建过类似的东西吗？   由   提交 /u/ElectricalPilot2297   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tjc2k3/has_anyone_tried_making_powerpoint_the_final/</guid>
+      <pubDate>Thu, 21 May 2026 06:33:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>终于让我的小团队的内容管道运行起来，而无需我照顾它</title>
+      <link>https://www.reddit.com/r/automation/comments/1tja6pl/finally_got_my_small_teams_content_pipeline/</link>
+      <description><![CDATA[花了我大约四个月的时间。大多是在凌晨 2 点打破东西。将不同的工具用胶带粘在一起，想知道我是否只是无缘无故地让我的生活变得更加困难。 目标很简单。我希望我们的三人代理机构停止花费半周的时间来执行重复的内容任务，这样我们就可以真正专注于客户策略。从写作开始，因为那是占用时间最多的部分。尝试了几种生成工具，讨厌其中的大多数，最终找到了一种可以生成足够好的草稿来编辑而不是从头开始重写的工具。仅此一项就为我们节省了每周大约六个小时的时间。 然后我变得贪婪并追求整个管道。网站更新、聊天机器人响应、社交安排。每一件作品都需要一周的修补才能完成。有些集成在第一次尝试时就成功了。其他人让我质疑我的职业选择。 奇怪的是我的团队中没有人注意到这种转变的发生。他们只是逐渐减少了无聊的任务。其中一位上个月问，为什么周二现在感觉如此空虚。 有时还是会休息。但它破坏得更少。   由   提交 /u/Pristine_Rest_7912   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tja6pl/finally_got_my_small_teams_content_pipeline/</guid>
+      <pubDate>Thu, 21 May 2026 04:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有其他人在 Claude 聊天中运行整个出站循环吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tj75o2/anyone_else_running_their_entire_outbound_loop/</link>
+      <description><![CDATA[ 由   提交/u/Official-DevCommX   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tj75o2/anyone_else_running_their_entire_outbound_loop/</guid>
+      <pubDate>Thu, 21 May 2026 02:35:01 GMT</pubDate>
+    </item>
     <item>
       <title>[需要] GoHighLevel 自动化专家/运营自由职业者</title>
       <link>https://www.reddit.com/r/automation/comments/1tj4kym/needed_gohighlevel_automation_specialist/</link>
@@ -83,32 +104,11 @@
       <pubDate>Wed, 20 May 2026 07:14:47 GMT</pubDate>
     </item>
     <item>
-      <title>用于云文档处理的 Headless-wps</title>
-      <link>https://www.reddit.com/r/automation/comments/1tiddt3/headlesswps_for_cloud_document_processing/</link>
-      <description><![CDATA[我正在构建一个基于云的自动化文档处理器，并在 GitHub 上发现了 headless-wps 项目，该项目允许 WPS Office 在无头环境中运行以进行服务器端文档处理。这是我正在认真考虑的管道文档生成和转换层的选项之一，在采用这种方法之前，我希望听到任何实际部署过它的人的意见。 用例是标准的自动化文档处理、填充模板、格式之间的转换以及生成 PDF 输出，无需任何手动 UI 交互。 headless-wps 项目看起来解决了在云部署上下文中没有显示环境的情况下运行 WPS Office 的核心要求，这正是我所需要的。 在围绕它进行构建之前，我试图确定一些事情。在持续的文档处理负载下，生产云环境中的 headless-wps 部署的稳定性如何？ Docker 部署是否简单？是否存在文档中不明显的依赖性或配置问题？ 还想了解在无头云部署中运行 WPS Office 以进行自动化商业文档处理的许可影响   由   提交/u/StrongPipe_69  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tiddt3/headlesswps_for_cloud_document_processing/</guid>
-      <pubDate>Wed, 20 May 2026 06:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能行业越来越不像 SaaS，而更像重工业。</title>
-      <link>https://www.reddit.com/r/automation/comments/1tid3ru/the_ai_industry_increasingly_looks_less_like_saas/</link>
-      <description><![CDATA[ 由   提交 /u/Low-Honeydew6483   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tid3ru/the_ai_industry_increasingly_looks_less_like_saas/</guid>
-      <pubDate>Wed, 20 May 2026 06:21:12 GMT</pubDate>
-    </item>
-    <item>
       <title>没有人警告我关于人工智能自动化的代币成本问题</title>
       <link>https://www.reddit.com/r/automation/comments/1tici4m/token_costs_are_the_thing_nobody_warned_me_about/</link>
       <description><![CDATA[上季度开始为一个小团队实现工作流程自动化。人工智能部分的设置出奇的简单。 然后发票就来了。我正在运行一些文档处理流程和一些客户电子邮件分类的东西，没什么疯狂的，也许有十几个活跃的自动化。大约三周后查看账单，然后坐在那里一分钟。我已经对工具成本、集成以及构建所需的时间进行了预算。从来没有想过大规模的实际代币使用会是什么样子。每次调用的成本似乎很小，直到您意识到即使是一个简单的工作流程一天也会产生多少个调用。 所以我开始四处打听。与几个运行类似设置的人进行了交谈，其中一个在上周二的聚会上为一家中型物流公司管理自动化的人。没有人对此有真正的策略。每个人都只是即兴发挥，交换模型，尽可能缓存，希望价格下降。 最疯狂的部分是从“这为我们节省了很多时间”到“这为我们节省了很多时间”的速度有多快。 “等等，这实际上比雇佣某人便宜吗。” 好奇这里的其他人正在做什么。   由   提交 /u/bejusorixo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tici4m/token_costs_are_the_thing_nobody_warned_me_about/</guid>
       <pubDate>Wed, 20 May 2026 05:49:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的团队目前在销售流程中如何使用人工智能？</title>
-      <link>https://www.reddit.com/r/automation/comments/1thprjg/how_is_your_team_using_ai_in_the_sales_process/</link>
-      <description><![CDATA[不是为了炒作，而是真正想知道什么是有效的。我不断看到人工智能销售工具随处可见，但我尝试过的大多数工具都没有给人留下深刻的印象。到目前为止，我发现的最有用的东西就是在提案发布之前用它来清理提案。是否有团队在报价、交易管理或收入运营中使用人工智能，从而真正取得了进展？    由   提交 /u/Hairy-Nothing-4078   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1thprjg/how_is_your_team_using_ai_in_the_sales_process/</guid>
-      <pubDate>Tue, 19 May 2026 15:07:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
