@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 21 May 2026 14:58:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:28:34 GMT</lastBuildDate>
+    <item>
+      <title>代码是工作中最小的部分</title>
+      <link>https://www.reddit.com/r/programming/comments/1tjped1/code_was_the_smallest_part_of_the_job/</link>
+      <description><![CDATA[ 由   提交/u/milanm08  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tjped1/code_was_the_smallest_part_of_the_job/</guid>
+      <pubDate>Thu, 21 May 2026 16:15:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>包容性语法：过时的技术术语和更清晰的替代方案</title>
+      <link>https://www.reddit.com/r/programming/comments/1tjooj9/inclusive_syntax_outdated_tech_terms_and_clearer/</link>
+      <description><![CDATA[ 由   提交/u/unknownhad  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tjooj9/inclusive_syntax_outdated_tech_terms_and_clearer/</guid>
+      <pubDate>Thu, 21 May 2026 15:51:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建外部查询规划器：电子图、测量感知重写和跨方言 SQL</title>
+      <link>https://www.reddit.com/r/programming/comments/1tjoauj/building_an_external_query_planner_egraphs/</link>
+      <description><![CDATA[ 由   提交/u/keydunov  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tjoauj/building_an_external_query_planner_egraphs/</guid>
+      <pubDate>Thu, 21 May 2026 15:38:35 GMT</pubDate>
+    </item>
     <item>
       <title>使用现代 C++ 模拟康威生命游戏中的无穷大</title>
       <link>https://www.reddit.com/r/programming/comments/1tjmukr/simulating_infinity_in_conways_game_of_life_with/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>寻找 Java 程序员 • Barry Feigenbaum 和 Shon Saliga</title>
       <link>https://www.reddit.com/r/programming/comments/1tjipt8/go_for_java_programmers_barry_feigenbaum_shon/</link>
-      <description><![CDATA[博士。 Barry Feigenbaum 是 IBM、Amazon 和 Dell 的资深人士，他花了很多时间使用 Golang，并且非常喜欢它，因此写了一本他希望在他转行时就已经存在的书。   由   提交 /u/goto-con   [链接] [评论]]]></description>
+      <description><![CDATA[博士。 Barry Feigenbaum 是 IBM、Amazon 和 Dell 的资深人士，他花了很多时间使用 Golang，并且非常喜欢 Golang，因此写了一本他希望在转行时就已经存在的书。   由   提交 /u/goto-con   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tjipt8/go_for_java_programmers_barry_feigenbaum_shon/</guid>
       <pubDate>Thu, 21 May 2026 12:16:54 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Efficient-Public-551   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tjcprt/clojure_multiarity_functions/</guid>
       <pubDate>Thu, 21 May 2026 07:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Theme-D-Intr v1.0.1 增加了对进程间通信的 D-Bus 支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1tjcerk/themedintr_v101_adds_dbus_support_for/</link>
-      <description><![CDATA[Theme-D-Intr 版本 1.0.1 向编程语言 Theme-D 添加了对进程间通信的 D-Bus 支持。 Theme-D-Intr 使用 GLib for D-Bus 中的 G-Golf 和 D-Bus 功能。 D-Bus 支持包括：  Theme-D 中的 D-Bus API 为 D-Bus 接口生成类型安全的 Theme-D 包装器  链接：  Theme-D-Intr 主页 Theme-D-Intr 文档 Theme-D 编程语言  可以找到使用 D-Bus 服务器和客户端的示例用例此处。   由   提交/u/tohoyn1  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tjcerk/themedintr_v101_adds_dbus_support_for/</guid>
-      <pubDate>Thu, 21 May 2026 06:51:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>大括号：UNIX 和 C 的演变</title>
-      <link>https://www.reddit.com/r/programming/comments/1tjayv4/curly_braces_an_evolution_of_unix_and_c/</link>
-      <description><![CDATA[ 由   提交 /u/mttd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tjayv4/curly_braces_an_evolution_of_unix_and_c/</guid>
-      <pubDate>Thu, 21 May 2026 05:35:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌发布漏洞代码威胁数百万 Chromium 用户</title>
-      <link>https://www.reddit.com/r/programming/comments/1tj77ww/google_publishes_exploit_code_threatening/</link>
-      <description><![CDATA[ 由   提交 /u/CircumspectCapybara   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tj77ww/google_publishes_exploit_code_threatening/</guid>
-      <pubDate>Thu, 21 May 2026 02:37:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
