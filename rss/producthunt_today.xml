@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 21 May 2026 19:44:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 22:10:14 GMT</lastBuildDate>
     <item>
       <title>他沉默不语</title>
       <link>https://www.producthunt.com/products/tacet</link>
@@ -48,20 +48,6 @@
       <pubDate>Thu, 21 May 2026 03:23:45 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能大亨</title>
-      <link>https://www.producthunt.com/products/tycoon-us</link>
-      <description><![CDATA[
-            完全由人工智能代理运营单人公司
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/tycoon-us</guid>
-      <pubDate>Thu, 21 May 2026 02:08:22 GMT</pubDate>
-    </item>
-    <item>
       <title>阿里哈特</title>
       <link>https://www.producthunt.com/products/allihat</link>
       <description><![CDATA[
@@ -90,32 +76,46 @@
       <pubDate>Wed, 20 May 2026 21:59:00 GMT</pubDate>
     </item>
     <item>
-      <title>维瓦尔第8.0</title>
-      <link>https://www.producthunt.com/products/vivaldi</link>
+      <title>幻灯片</title>
+      <link>https://www.producthunt.com/products/slideshot</link>
       <description><![CDATA[
-            大胆的全新外观，专属于您的浏览器
+            产品演示视频，由您的 AI 代理录制
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/vivaldi</guid>
-      <pubDate>Wed, 20 May 2026 14:41:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/slideshot</guid>
+      <pubDate>Wed, 20 May 2026 14:38:49 GMT</pubDate>
     </item>
     <item>
-      <title>InstaVM</title>
-      <link>https://www.producthunt.com/products/instavm</link>
+      <title>自动字幕2.0</title>
+      <link>https://www.producthunt.com/products/autosubtitles</link>
       <description><![CDATA[
-            用于 AI 代理的隔离环境中的即时计算机
+            AI 字幕和动画字幕，编辑速度更快
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/instavm</guid>
-      <pubDate>Wed, 20 May 2026 07:05:28 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/autosubtitles</guid>
+      <pubDate>Wed, 20 May 2026 12:23:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>储物柜实体</title>
+      <link>https://www.producthunt.com/products/ente-locker</link>
+      <description><![CDATA[
+            为您最重要的文档提供共享保管库
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/ente-locker</guid>
+      <pubDate>Wed, 20 May 2026 07:03:47 GMT</pubDate>
     </item>
     <item>
       <title>温馨介绍</title>
@@ -130,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/warmintro</guid>
       <pubDate>Wed, 20 May 2026 07:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌反重力2.0</title>
-      <link>https://www.producthunt.com/products/google-antigravity</link>
-      <description><![CDATA[
-            从桌面应用程序协调多代理工作流程
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/google-antigravity</guid>
-      <pubDate>Wed, 20 May 2026 05:24:04 GMT</pubDate>
     </item>
     <item>
       <title>适用于 macOS 的 TongueType</title>
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/catchall</guid>
       <pubDate>Wed, 13 May 2026 17:35:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>新笔记1.1</title>
+      <link>https://www.producthunt.com/products/novi-notes</link>
+      <description><![CDATA[
+            适用于 Mac 的本地 AI 内存层
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/novi-notes</guid>
+      <pubDate>Mon, 06 Apr 2026 14:48:29 GMT</pubDate>
     </item>
     <item>
       <title>视觉可用性检查器</title>
