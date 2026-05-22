@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Thu, 21 May 2026 22:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 01:58:44 GMT</lastBuildDate>
+    <item>
+      <title>你的CPU能预测多少个分支？ – 丹尼尔·勒米尔的博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1tk03pj/how_many_branches_can_your_cpu_predict_daniel/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tk03pj/how_many_branches_can_your_cpu_predict_daniel/</guid>
+      <pubDate>Thu, 21 May 2026 22:28:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从电子邮件调用 API</title>
+      <link>https://www.reddit.com/r/programming/comments/1tjznwf/how_to_call_an_api_from_an_email/</link>
+      <description><![CDATA[“交互式电子邮件”是电子商务领域的热门话题。在幕后，它们只是奇怪的、未记录的 CSS hack 的疯狂大杂烩。过去几年我一直在研究技术，并最终在本文中总结了一些我最喜欢的技巧。非常可恶，但我希望你们都觉得有趣   由   提交/u/ricekrispysawdust  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tjznwf/how_to_call_an_api_from_an_email/</guid>
+      <pubDate>Thu, 21 May 2026 22:11:19 GMT</pubDate>
+    </item>
     <item>
       <title>JEP 草案：增强型局部变量声明（预览版）</title>
       <link>https://www.reddit.com/r/programming/comments/1tjukw0/jep_draft_enhanced_local_variable_declarations/</link>
@@ -69,6 +83,13 @@
       <pubDate>Thu, 21 May 2026 11:16:29 GMT</pubDate>
     </item>
     <item>
+      <title>使用 Firecracker microVM 构建迷你无服务器平台</title>
+      <link>https://www.reddit.com/r/programming/comments/1tjh9z7/building_a_mini_serverless_platform_with/</link>
+      <description><![CDATA[ 由   提交/u/viks98  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tjh9z7/building_a_mini_serverless_platform_with/</guid>
+      <pubDate>Thu, 21 May 2026 11:13:20 GMT</pubDate>
+    </item>
+    <item>
       <title>技术面试拒绝错误的工程师</title>
       <link>https://www.reddit.com/r/programming/comments/1tjh9p9/technical_interviews_reject_the_wrong_engineers/</link>
       <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/DataBaeBee  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tjf50f/gauss_lattice_sieve_algorithm_from_scratch_in_c/</guid>
       <pubDate>Thu, 21 May 2026 09:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年的现代 Python 工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1tjezeq/modern_python_tooling_in_2026/</link>
-      <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tjezeq/modern_python_tooling_in_2026/</guid>
-      <pubDate>Thu, 21 May 2026 09:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Markdown 的测试套件</title>
-      <link>https://www.reddit.com/r/programming/comments/1tjd6qw/a_markdownbased_test_suite/</link>
-      <description><![CDATA[ 由   提交 /u/Successful_Bowl2564   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tjd6qw/a_markdownbased_test_suite/</guid>
-      <pubDate>Thu, 21 May 2026 07:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clojure 多元函数</title>
-      <link>https://www.reddit.com/r/programming/comments/1tjcprt/clojure_multiarity_functions/</link>
-      <description><![CDATA[ 由   提交/u/Efficient-Public-551   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tjcprt/clojure_multiarity_functions/</guid>
-      <pubDate>Thu, 21 May 2026 07:07:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
