@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 22 May 2026 19:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 21:57:00 GMT</lastBuildDate>
     <item>
-      <title>开发人员的编程难题</title>
-      <link>https://www.reddit.com/r/programming/comments/1tkrs1k/programming_puzzles_for_developers/</link>
-      <description><![CDATA[ 由   提交/u/Low_Breakfast773  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tkrs1k/programming_puzzles_for_developers/</guid>
-      <pubDate>Fri, 22 May 2026 18:36:39 GMT</pubDate>
+      <title>从头开始用现代 C++ 构建快速无锁队列</title>
+      <link>https://www.reddit.com/r/programming/comments/1tkx5r7/building_a_fast_lockfree_queue_in_modern_c_from/</link>
+      <description><![CDATA[ 由   提交/u/Beginning-Safe4282   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tkx5r7/building_a_fast_lockfree_queue_in_modern_c_from/</guid>
+      <pubDate>Fri, 22 May 2026 21:51:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>导致 658 个 GitHub 存储库的静默合并队列损坏</title>
+      <link>https://www.reddit.com/r/programming/comments/1tkvzsb/the_silent_merge_queue_corruption_that_hit_658/</link>
+      <description><![CDATA[ 由   提交/u/Cultural_Wheel_6936   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tkvzsb/the_silent_merge_queue_corruption_that_hit_658/</guid>
+      <pubDate>Fri, 22 May 2026 21:07:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noroboto：Rust 中的谎言字体和缓解措施</title>
+      <link>https://www.reddit.com/r/programming/comments/1tkti10/noroboto_lying_fonts_and_mitigation_in_rust/</link>
+      <description><![CDATA[ 由   提交/u/urandomd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tkti10/noroboto_lying_fonts_and_mitigation_in_rust/</guid>
+      <pubDate>Fri, 22 May 2026 19:36:39 GMT</pubDate>
     </item>
     <item>
       <title>高速网络：机器的视角</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Existing_Leopard_231   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tk9b18/i_tried_to_melt_my_intel_ultra_7_router_setup/</guid>
       <pubDate>Fri, 22 May 2026 05:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的CPU能预测多少个分支？ – 丹尼尔·勒米尔的博客</title>
-      <link>https://www.reddit.com/r/programming/comments/1tk03pj/how_many_branches_can_your_cpu_predict_daniel/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tk03pj/how_many_branches_can_your_cpu_predict_daniel/</guid>
-      <pubDate>Thu, 21 May 2026 22:28:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从电子邮件调用 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1tjznwf/how_to_call_an_api_from_an_email/</link>
-      <description><![CDATA[“交互式电子邮件”是电子商务领域的热门话题。在幕后，它们只是奇怪的、未记录的 CSS hack 的疯狂大杂烩。过去几年我一直在研究技术，并最终在本文中总结了一些我最喜欢的技巧。非常可恶，但我希望你们都觉得有趣   由   提交/u/ricekrispysawdust  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tjznwf/how_to_call_an_api_from_an_email/</guid>
-      <pubDate>Thu, 21 May 2026 22:11:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
