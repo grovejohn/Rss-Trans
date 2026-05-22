@@ -4,7 +4,28 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Fri, 22 May 2026 14:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 17:01:07 GMT</lastBuildDate>
+    <item>
+      <title>在本地运行编码模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkmjho/running_coding_models_locally/</link>
+      <description><![CDATA[尽我所能，我还没有找到任何好的开源免费工具可以像 Claude 那样完成编程任务（以及 claude 所做的），我正在询问您的想法。 我发现 Poolside AI 是一个很好的免费（目前）选项，可以有效地进行编程，尽管可能与 sonnet-4 或 sonnet-5 相当。 I我尝试将模型加载到我的计算机上，无论大小，量化模型和思维模型，它们的性能都无法接近克劳德的能力。为了有效地运行更智能的计算机，我需要构建一台全新的计算机。尽管我有 20GB VRAM 和 64GB 内存，但较小的型号在 OpenCode 下运行速度仍然太慢。有些人还陷入了思维循环。  我完全希望人们在自己的硬件中运行模型，但我们需要一些可以实际运行而不占用所有可以想象的资源的东西 - 因为我想同时编程和观看 Netflix。 此外，我有一个集成 GPU 坐在那里什么也不做，因为监视器必须连接到专用 GPU。我们应该能够通过某种直通系统同时无缝地使用两者，其中计算机根据工作负载确定使用哪张卡。 我的问题是，您正在运行哪些免费的本地模型或工具来执行编程任务，这些模型或工具可以被认为与 Claude 或 Gemini 一样好且速度快。   由   提交/u/Buckwheat469  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkmjho/running_coding_models_locally/</guid>
+      <pubDate>Fri, 22 May 2026 15:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌将反重力双子座的使用限制提高了两倍</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkkk09/google_triples_gemini_usage_limits_for/</link>
+      <description><![CDATA[ 由   提交 /u/Annual_Judge_7272   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkkk09/google_triples_gemini_usage_limits_for/</guid>
+      <pubDate>Fri, 22 May 2026 14:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个发布自己的幻觉率的搜索引擎。这真的有用还是只是一个噱头？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkk6j7/im_building_a_search_engine_that_publishes_its/</link>
+      <description><![CDATA[当前的人工智能搜索引擎的准确性越来越差，而不是更好。 2024 年 8 月至 2025 年 8 月期间，Perplexity 的幻觉率几乎翻了一番，从 18% 增至 35%。谷歌的 AI Overviews 遭到出版商起诉。没有人诚实地承认自己犯错的频率。因此，我正在构建 CLYCITE 一个搜索引擎，其中每个答案都基于实时检索的来源，每个声明都有引用，并且我们按类别公开发布我们自己的准确率。如果我们在医疗查询时有 12% 的错误率，您就可以看到这一点。没有其他引擎可以做到这一点。最重要的是，我们的愿景是添加代理，帮助您在获得答案后进行更深入的验证，验证特定的主张，比较 5 个消息来源的实际说法，监控主题的变化。不是为你做事的自治代理。逐步向您展示他们的工作的代理。 向这个社区提出诚实的问题：  公共准确性仪表板实际上会改变您对搜索引擎的信任方式还是会忽略它？ 您愿意每月支付 12 美元购买一个引用所有答案且从不显示广告的搜索引擎吗？ 什么比“更好”谷歌” 2026 年对您来说实际上意味着什么？ 什么会让您从 Perplexity 或 ChatGPT 切换？  我不是来推销的。我来这里是因为这个社区会告诉我我是否正在解决一个真正的问题或正在构建一些没有人要求的东西。残酷一点。   由   提交 /u/Available_Witness808   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkk6j7/im_building_a_search_engine_that_publishes_its/</guid>
+      <pubDate>Fri, 22 May 2026 14:11:57 GMT</pubDate>
+    </item>
     <item>
       <title>为什么数据中心使用淡水？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkhqaa/why_do_data_centers_use_fresh_water/</link>
@@ -20,25 +41,11 @@
       <pubDate>Fri, 22 May 2026 11:34:22 GMT</pubDate>
     </item>
     <item>
-      <title>特朗普推迟人工智能行政命令，称需要与中国竞争</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkeyxg/trump_postpones_ai_executive_order_cites_need_to/</link>
-      <description><![CDATA[美国唐纳德·特朗普总统周四表示，他推迟签署人工智能行政命令，因为他不喜欢其中的某些方面，并且不想采取任何可能损害美国在与中国的人工智能竞争中的地位的步骤。   由   提交 /u/DavidtheLawyer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkeyxg/trump_postpones_ai_executive_order_cites_need_to/</guid>
-      <pubDate>Fri, 22 May 2026 10:29:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人觉得人工智能产品开始过度自动化一切吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkebyb/anyone_else_feel_like_ai_products_are_starting_to/</link>
-      <description><![CDATA[感觉现在每个新工具都希望： - 为你编写 - 为你回复 - 为你安排时间 - 为你思考 一些自动化确实有用，但在某些时候，工作流程变得比自己完成任务更复杂。 我仍然认为最好的人工智能产品是消除摩擦的产品悄悄地，而不是试图取代循环中的每个人类决策。 很好奇其他人在“有用的自动化”和“过度设计的人工智能”之间划清界限。   由   提交 /u/vanshkamra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkebyb/anyone_else_feel_like_ai_products_are_starting_to/</guid>
-      <pubDate>Fri, 22 May 2026 09:57:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>州长加文·纽瑟姆将签署针对人工智能的行政命令失业</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkdj39/gov_gavin_newsom_to_sign_executive_order_aimed_at/</link>
-      <description><![CDATA[ 由   提交/u/SterlingVII  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkdj39/gov_gavin_newsom_to_sign_executive_order_aimed_at/</guid>
-      <pubDate>Fri, 22 May 2026 09:13:13 GMT</pubDate>
+      <title>这就是我如何使用 sense nova 技能从一个提示中生成一份完整的电动汽车行业研究报告</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkfxgu/this_is_how_i_generate_a_full_ev_industry/</link>
+      <description><![CDATA[我通过要求 Sense Nova Skills 生成全球电动汽车行业研究报告来测试它。 您也可以在此处尝试这些技能： GitHub 存储库： https://github.com/OpenSenseNova/SenseNova-Skills Skill.sh： https://clawhub.ai/plugins/sensenova-skills 您会相信像这样的人工智能生成的报告作为市场研究的初稿吗？   由   提交/u/Frosty-Car2881   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkfxgu/this_is_how_i_generate_a_full_ev_industry/</guid>
+      <pubDate>Fri, 22 May 2026 11:17:00 GMT</pubDate>
     </item>
     <item>
       <title>谷歌刚刚在 I/O 2026 上宣布“Google 搜索是 AI 搜索”</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[来源：https://znatgost.github.io/StoneGPT/ 只需打开并编写任何内容即可开始与石头对话   由   提交/u/znatgost   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tjsekd/i_create_stonegpt_and_now_you_can_chat_with_stone/</guid>
       <pubDate>Thu, 21 May 2026 17:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta刚刚解雇了7800名员工，用他们的日常工作来训练AI</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tjcl0t/meta_just_fired_7800_employees_and_used_their/</link>
-      <description><![CDATA[ https://preview.redd.it/sv7v4xmpvf2h1.png?width=1600&amp;format=png&amp;auto=webp&amp;s=7ad35ea2d2d03f3bac1a8d16e04d5905de3679ef 因此，马克·扎克伯格在一次员工会议上承认，Meta 正在积极根据他们已经计划解雇的人员的工作来训练他们的内部人工智能模型。 More Perfect Union 周三发布的一份泄露的录音最终与他们真正开始裁员 7,800 人完全吻合。 早在 4 月份，Meta 就正式宣布他们将裁员 10%。他们给了工作人员一个月的通知期，但直到最后一刻才透露真正得到斧头的人的名字。在泄露的录音带中，扎克伯格详细介绍了他们如何决定跳过雇用外部承包商以节省现金。相反，他们只是利用自己高技能员工的专业知识来喂养模型。他的理由是，无论如何，Meta 员工的平均智力比标准承包商要高得多。因此，让模型每天通过直接观察公司自己的工程师来学习编写代码比其他行业替代方案更快、更有效。 看到大型科技公司根据自己员工的数据和技能训练下一代人工智能系统，这是当前策略的一个非常清晰的指标。它直接指向他们削减运营成本并积极努力用人工智能取代人类角色。   由   提交 /u/andrewaltair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tjcl0t/meta_just_fired_7800_employees_and_used_their/</guid>
-      <pubDate>Thu, 21 May 2026 07:00:49 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>

@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 22 May 2026 14:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 17:02:52 GMT</lastBuildDate>
+    <item>
+      <title>Arc 浏览器为何死掉？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tklqnp/why_did_arc_browser_die/</link>
+      <description><![CDATA[      我偶然发现了这个，我想了解是什么导致了它的失败。如果有人有任何见解，我很想知道。预先感谢您的回答，祝您度过愉快的一天 ☀️   由   提交/u/No_Computer_1247   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tklqnp/why_did_arc_browser_die/</guid>
+      <pubDate>Fri, 22 May 2026 15:07:35 GMT</pubDate>
+    </item>
     <item>
       <title>有人让 Mac 上的 Safari 在每次重新加载时停止重新下载 serviceWorker js 文件吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tkhdep/anyone_got_safari_on_mac_to_stop_redownloading/</link>
@@ -64,7 +71,7 @@
     <item>
       <title>我使用 Next.js 15 和 WebAssembly (FFmpeg WASM) 构建了一个客户端视频压缩器</title>
       <link>https://www.reddit.com/r/webdev/comments/1tk72xe/i_built_a_clientside_video_compressor_using/</link>
-      <description><![CDATA[嘿开发者， 在周六的展示中，我想分享我的开源 Web 实用程序：Mintah De Condenser (condenser.codemintah.dev)。 堆栈： 前端：Next.js 15 + React + Tailwind CSS。 处理：FFmpeg WebAssembly (@ffmpeg/ffmpeg) 直接在浏览器线程中处理高性能视频渲染。 优化：配置自定义标头以启用 SharedArrayBuffer（COOP 和 COEP），允许多线程处理，从而显着加快客户端转码速度。 解决的问题：大多数基于 Web 的视频压缩器将文件上传到服务器，这对于大文件来说速度很慢，而且对隐私来说很糟糕。通过利用 WASM，我们直接在用户的硬件上处理所有计算工作。 我非常感谢有关 Web Worker 优化、浏览器性能或用户界面的任何反馈！ 链接：https://condenser.codemintah.dev    由   提交/u/SweatyAd3647  [链接] [评论]]]></description>
+      <description><![CDATA[嘿开发者， 在周六的展示中，我想分享我的开源 Web 实用程序：Mintah De Condenser (condenser.codemintah.dev)。 堆栈： 前端：Next.js 15 + React + Tailwind CSS。 处理：FFmpeg WebAssembly (@ffmpeg/ffmpeg) 直接在浏览器线程中处理高性能视频渲染。 优化：配置自定义标头以启用 SharedArrayBuffer（COOP 和 COEP），允许多线程处理，从而显着加快客户端转码速度。 解决的问题：大多数基于 Web 的视频压缩器将文件上传到服务器，这对于大文件来说速度很慢，而且对隐私来说很糟糕。通过利用 WASM，我们直接在用户的硬件上处理所有计算工作。 如果您有关于 Web Worker 优化、浏览器性能或用户界面的反馈，我将不胜感激！ 链接：https://condenser.codemintah.dev    由   提交/u/SweatyAd3647  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tk72xe/i_built_a_clientside_video_compressor_using/</guid>
       <pubDate>Fri, 22 May 2026 03:32:47 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在将内容从旧域移动到新域，但有一些问题。我希望旧域的主页转到新域上的特定页面。我希望旧域上特定文件夹中的所有内容都转到新的子域。我也希望页面和查询字符串能够传达，这样访问站点 A 的人几乎不会注意到它们已被转发到站点 B。  其他所有内容都可以转发（我已经弄清楚了那部分！）  我尝试了很多不同的想法，但没有一个有效，所以我已经没有选择了。这是我所拥有的，或者最想要的：  RewriteEngine On # If / or /index.php 重定向到 newsite.org/index-alt.php （然后停止！[END]） # 第一个挑战 # If /directory[/whatever] 重定向到 subdomain.newsite.org[/whatever]（然后停止！[END]） # 第二个挑战 # 或者将其他所有内容重定向到 newsite.org[/everythingelse?etc] # 这可行，但这是最好的解决方案吗？ RewriteRule .* https://newsite.org%{REQUEST\_URI} [R=302,L] &lt;/IfModule&gt;   由   提交/u/blargy-blargy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tjzeb0/htaccess_help/</guid>
       <pubDate>Thu, 21 May 2026 22:00:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>DEV 工具：将样式面板中的更改写入源代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tjxogt/dev_tools_writing_changes_in_the_styles_panel_to/</link>
-      <description><![CDATA[我正在尝试将对象与模板对齐，并在样式面板中使用鼠标滚轮来推动周围的事物。有没有办法将这些样式面板更改保存到源代码中的 CSS 中？   由   提交/u/mapsedge  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tjxogt/dev_tools_writing_changes_in_the_styles_panel_to/</guid>
-      <pubDate>Thu, 21 May 2026 20:56:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
