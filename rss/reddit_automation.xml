@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Fri, 22 May 2026 01:56:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 06:36:26 GMT</lastBuildDate>
+    <item>
+      <title>用于日常自动化的开源人工智能助手按故障率排名</title>
+      <link>https://www.reddit.com/r/automation/comments/1tkaphk/open_source_ai_assistants_for_daily_automation/</link>
+      <description><![CDATA[故障率是日常自动化生死存亡的衡量标准。 95% 的成功率听起来很高，直到您意识到每二十次运行就有一次失败，对于日常自动化来说，每月中断的工作流程数量相当大。根据日常使用中观察到的故障率对三个选项进行排名。 OpenClaw 开箱即用的三个选项中故障率最高。工具调用默默失败，代理在卡住的任务上循环，文件路径产生幻觉，多步骤工作流在中途丢失上下文。技能文件定制修复了大多数类别的故障，但工作仍在进行中。经过适当调整的设置在数周的投资后即可达到可接受的故障率。 Vellum Low 因为每个工具调用之前的批准步骤会捕获格式错误的调用，范围权限模型可防止访问蠕变，并且显式内存架构可避免自学习系统中复合的漂移。我们对 12 个工作流程设置进行了 30 天的日常自动化测试，测得的故障率约为 2%，大多数故障可以通过可见的操作日志而不是静默进行恢复。 Hermes 中等故障率，会随着时间的推移而降低。初始运行是合理的。自学习循环会引入复合错误，这些错误会在第三周左右出现“改进”时出现。从早期输出生成的系统开始产生第一周不存在的新故障模式。此选项的独特问题是故障轨迹走向错误的方向。 诚实的评估是，单周测量的故障率是错误的窗口。重要的模式（退化、复合错误、恢复成本）仅在一个月或更长时间内出现。   由   提交/u/Scawwotish_owl88  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tkaphk/open_source_ai_assistants_for_daily_automation/</guid>
+      <pubDate>Fri, 22 May 2026 06:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需严重依赖 LLM 即可生产的 PDF 发票提取的最佳架构？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tk5mus/best_architecture_for_productionready_pdf_invoice/</link>
+      <description><![CDATA[我正在构建一个 PDF 发票/采购订单提取系统。 PDF 包含混合文本、数字、表格，有时还包含扫描页面。我需要提取一组固定的标头字段和行项目字段。 如果可能的话，我希望避免严重的 LLM 依赖。我正在考虑 pdfplumber / PyMuPDF、OCR、Docling、spaCy NER、模板规则，也许还有小型本地 ML 模型。 您会推荐哪种架构来实现高精度？我应该如何处理多个布局、表格、OCR 错误和回退审查案例？ 我想要一个可以在 cpu 上运行的轻量级模型。 请提出任何建议   由   提交/u/RaspberrySad9580  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tk5mus/best_architecture_for_productionready_pdf_invoice/</guid>
+      <pubDate>Fri, 22 May 2026 02:27:03 GMT</pubDate>
+    </item>
     <item>
       <title>我每周使用的最被低估的自动化是潜在客户跟进，你的是什么呢？</title>
       <link>https://www.reddit.com/r/automation/comments/1tk4l2z/the_most_underrated_automation_i_use_every_week/</link>
@@ -55,25 +69,11 @@
       <pubDate>Thu, 21 May 2026 19:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>我们让 4 位法学硕士在聊天中呆了一周，没有任何任务或指示。他们在第二天就形成了一个等级制度。</title>
-      <link>https://www.reddit.com/r/automation/comments/1tjthhf/we_left_4_llms_in_a_chat_for_a_week_with_no_task/</link>
-      <description><![CDATA[ 由   提交/u/RedMarky  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tjthhf/we_left_4_llms_in_a_chat_for_a_week_with_no_task/</guid>
-      <pubDate>Thu, 21 May 2026 18:31:22 GMT</pubDate>
-    </item>
-    <item>
       <title>帮帮我吧！！</title>
       <link>https://www.reddit.com/r/automation/comments/1tjswm2/help_me_out/</link>
       <description><![CDATA[你好，我的自动化同事们 希望得到你们所有人的真正帮助。实际上，我陷入了一个循环，学习自动化，构建它，并向我的利基客户发送冷电子邮件，但仍然没有击中任何客户，事实上我什至无法从他们那里得到任何回复 而且我正在过去 3 个月学习自动化，并在过去 10-15 天外展他们 现在你们请告诉我有保证的方法，并且确定可行的方法，在一周或 10 天内获得我的第一个客户天   由   提交/u/mindo_mania  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tjswm2/help_me_out/</guid>
       <pubDate>Thu, 21 May 2026 18:11:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>将文档构建为可运行的自动化“剧本”</title>
-      <link>https://www.reddit.com/r/automation/comments/1tjstfs/building_documents_as_runnable_automation/</link>
-      <description><![CDATA[   大家好， 我一直致力于创建用户可以在其中输入以编辑和添加编程步骤的文档 - 其中每个步骤可以是 bash/claude 提示/api 请求等。一个步骤的输出可以在后续步骤中使用。目前，克劳德能够为我创建剧本文档，使整个事情变得更容易，但在我看来，从用户体验的角度来看，它仍然需要人工监督。 我一直在研究一些用例，我想知道这里的大多数人通常如何管理您的自动化？你使用人工智能吗？都是 CLI 吗？   由   提交/u/croovies  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tjstfs/building_documents_as_runnable_automation/</guid>
-      <pubDate>Thu, 21 May 2026 18:08:50 GMT</pubDate>
     </item>
     <item>
       <title>为什么医疗保健领域的人工智能会出现问题——不是因为模型，而是因为它运行的系统</title>
