@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 22 May 2026 17:02:58 GMT</lastBuildDate>
-    <item>
-      <title>你用过哪些很棒的开源 git 工具？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tknyfl/what_are_some_banger_opensource_git_tools_youve/</link>
-      <description><![CDATA[我最近一直在研究与 Git 相关的工具，现在这个空间实际上有多么广阔，这有点疯狂。 从终端实用程序和 diff 查看器到自动化工作流程、存储库分析工具、可视化工具、实验界面等，应有尽有。很好奇这里的人们最近遇到了哪些有趣的项目。   由   提交 /u/Meher_Nolan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tknyfl/what_are_some_banger_opensource_git_tools_youve/</guid>
-      <pubDate>Fri, 22 May 2026 16:24:54 GMT</pubDate>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 19:20:53 GMT</lastBuildDate>
     <item>
       <title>JobOps v0.8.0 正式上线。 6 个月后，势头强劲</title>
       <link>https://www.reddit.com/r/opensource/comments/1tkn5j9/jobops_v080_is_officially_live_6_months_in_and/</link>
@@ -109,6 +102,13 @@
       <description><![CDATA[https://sfconservancy.org/news/2026/may/18/bambu-studio-3d-printer-agpl-violation-response/ 他们分配了 25 万美元他们接下来收到的捐赠资金用于支持 Bambu Lab 的长期监管工作以及一般 3D 打印领域的修复权工作。我认为这是值得捐赠的，希望你们中的一些人会同意！   由   提交/u/Tynted  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ti8n5i/sfc_have_joined_the_bambu_labs_fight_and_theyre/</guid>
       <pubDate>Wed, 20 May 2026 02:43:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CLI 应用程序时 AGPL 的病毒式传播</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ti1xtv/virality_of_agpl_when_using_cli_application/</link>
+      <description><![CDATA[如果这个问题已经在子中得到了明确的回答，我深表歉意 - 我查看了，但没有找到答案。 与我的 Linux (raspbian) 安装捆绑在一起的是 gs (Ghostscript) 实用程序。我知道他们提供双重许可，其中之一是 AGPL。 我对许可精神的理解是，它确保任何衍生作品（包括链接）都获得病毒式许可。我遇到的问题是理解从代码生成 shell 是否构成“链接”（例如，如果我有一个 Express.js API 接口，在调用该接口时，使用 shell 命令来调用 gs）。从许可证的角度来看。 我确实在互联网上看到有人试图回答同样的问题，但听起来并不是100%有信心。在上面的例子中，API 本身现在有 AGPL 义务吗？ API 的消费者？如果 API 位于内部网与面向公众，计算结果是否会发生变化？   由   提交 /u/ridicalis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ti1xtv/virality_of_agpl_when_using_cli_application/</guid>
+      <pubDate>Tue, 19 May 2026 22:04:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

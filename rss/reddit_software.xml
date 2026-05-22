@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 22 May 2026 17:02:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 19:20:17 GMT</lastBuildDate>
+    <item>
+      <title>20年过去了，我仍然完全不明白这个按钮的用途......</title>
+      <link>https://www.reddit.com/r/software/comments/1tkq7la/20_years_later_and_i_still_dont_understand_the/</link>
+      <description><![CDATA[ 由   提交 /u/IAMtheliquorRand   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tkq7la/20_years_later_and_i_still_dont_understand_the/</guid>
+      <pubDate>Fri, 22 May 2026 17:43:15 GMT</pubDate>
+    </item>
     <item>
       <title>一般而言，什么是完美的笔记应用程序，既能完成工作，又不会让人感觉过时</title>
       <link>https://www.reddit.com/r/software/comments/1tklibf/what_is_the_perfect_in_general_notes_app_that/</link>
@@ -74,13 +81,6 @@
       <description><![CDATA[    由   提交/u/Zanarkshoot2  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tkhiop/dev_i_built_a_free_web_app_to_analyze_and_share/</guid>
       <pubDate>Fri, 22 May 2026 12:28:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的 VIN 解码器 API 真的有效吗？ （已测试 Vincario + VPIC）</title>
-      <link>https://www.reddit.com/r/software/comments/1tkh3lk/free_vin_decoder_api_that_actually_works_tested/</link>
-      <description><![CDATA[最近在一个业余项目中测试了一堆 VIN 解码器 API，我有点惊讶其中一些 API 的不一致。一个 API 将返回完整的装饰+发动机+传输数据，然后另一个 API 几乎无法识别相同的 VIN。 到目前为止，我主要比较了 VPIC 和 Vincario，因为当人们询问 VIN 解码选项时，它们似乎出现得最多。 VPIC 很好，因为它免费且易于快速测试，但当我开始尝试进口和非美国车辆时，我注意到一些缺失/不完整的字段。与此同时，我一直在使用 Vincario 来比较结果，看看不同的提供商如何跨地区处理相同的 VIN。 不过，我很好奇这里的其他开发人员正在使用什么。一旦您超越了超级基本的美国车辆解码范围，是否有任何免费的 VIN API 实际上仍然可靠？   由   提交/u/niceheather44  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tkh3lk/free_vin_decoder_api_that_actually_works_tested/</guid>
-      <pubDate>Fri, 22 May 2026 12:10:17 GMT</pubDate>
     </item>
     <item>
       <title>适用于 Windows 11 的最佳媒体应用程序？</title>
