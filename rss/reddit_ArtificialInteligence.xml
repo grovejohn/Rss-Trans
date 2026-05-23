@@ -4,7 +4,35 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Sat, 23 May 2026 10:19:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 12:52:34 GMT</lastBuildDate>
+    <item>
+      <title>有人使用聊天机器人来提供约会/关系建议吗？帮我完成一个大学项目！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tlefxz/anyone_used_chatbots_for_dating_relationship/</link>
+      <description><![CDATA[我希望听到使用人工智能提供任何类型的关系建议的人的意见，无论是帮助编写文本回复、解决关系问题还是其他任何事情。 如果有人有这方面的经验，请在评论中告诉我。如果有人愿意花时间的话，我也很乐意对您的经历进行一次简短的采访！   由   提交/u/Kaspermcl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tlefxz/anyone_used_chatbots_for_dating_relationship/</guid>
+      <pubDate>Sat, 23 May 2026 11:55:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>派尼尔 2.3 已推出 🚀</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tldw95/pynear_23_is_out/</link>
+      <description><![CDATA[pynear 是一个快速的 KNN 库，它不会让您在精确答案和生成速度之间进行选择。 scikit-learn 的直接插入。 SIMD 加速。在 100% 召回率下，二进制描述符上的速度比 Faiss 快 257 倍。 • 余弦索引（精确 + 近似） • scikit-learn 的直接插入（metric=&#39;cosine&#39;） • 令人难以置信的快速近似 IndexBinaryMultiHash 和高召回率（在某些情况下击败 Faiss） pip install -U pynear https://github.com/pablocael/pynear   由   提交 /u/pablocael   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tldw95/pynear_23_is_out/</guid>
+      <pubDate>Sat, 23 May 2026 11:27:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止构建仪表板：为什么“Agentic BI”完全打破了现代数据堆栈</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tldu4a/stop_building_dashboards_why_agentic_bi_is/</link>
+      <description><![CDATA[在过去的十年里，我们花费了数百万美元构建了漂亮的数据仓库和仪表板，只是为了让业务用户查看图表，猜测指标下降的原因，并在 Slack 中发送一条消息，要求数据分析师编写另一个 SQL 查询。 “代理BI”完全打破了这个循环，因为我们最终从被动可视化转向基于受控语义层的自主、目标导向的执行。  人工智能分析师代理不再是盯着销售下降，而是持续监控实时数据可观测性管道，检测确切的管道异常，跨多云孤岛查询根本原因，并直接通过 API 或 Slack 集成提出人机交互修复方案。  2026 年的现实检验是，企业数据历来都是混乱的，如果你让代理框架释放不受治理的数据，它就会自信地以绝对机器速度执行垃圾逻辑。  您实际部署了哪些设置来弥合 LLM 推理和脆弱的企业数据库之间的差距；我们是否信任多代理编排，或者它仍然只是严格语义层上的 LLM 包装器？下面我们来谈谈架构和生产的恐怖故事。   由   提交/u/netcommah  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tldu4a/stop_building_dashboards_why_agentic_bi_is/</guid>
+      <pubDate>Sat, 23 May 2026 11:24:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>独家：在大规模裁员期间，即将离职的 Meta 员工在内部发布了尖锐的反人工智能视频</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tlcp9f/exclusive_departing_meta_staffer_posts_biting/</link>
+      <description><![CDATA[ 由   提交 /u/chunmunsingh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tlcp9f/exclusive_departing_meta_staffer_posts_biting/</guid>
+      <pubDate>Sat, 23 May 2026 10:24:00 GMT</pubDate>
+    </item>
     <item>
       <title>高中人工智能教学的思考</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tlcl7r/ideas_for_teaching_artificial_intelligence_in/</link>
@@ -27,32 +55,11 @@
       <pubDate>Sat, 23 May 2026 07:53:37 GMT</pubDate>
     </item>
     <item>
-      <title>这是我发现的最有用的东西，可以让 ChatGPT 真正思考而不是仅仅响应</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tl7i3y/this_is_the_most_useful_thing_ive_found_for/</link>
-      <description><![CDATA[停止向其询问答案。先向 Steelman 询问你的问题。 先别回答我的问题。首先这样做： 1. 告诉我我所做的哪些假设是我没有大声说出来的 2. 告诉我哪些信息会显着改变你的答案 3. 告诉我人们在问你这类问题时最常犯的错误 然后问我一个问题，这个问题会让你的答案对我的具体情况而不是任何可能问这个问题的人有用 只有在我回答之后 - 给我输出 我的问题：[在此处粘贴任何内容]  几乎适用于任何事物：商业决定。内容策略。定价。招聘。创意问题。 第三点是每次都变得有趣的地方。它标记了我在几乎所有经历过的事情上所做的假设。 如果您想要更多这样的提示，我可以在这里获取完整的包，如果您想滑动它   由   提交 /u/Professional-Rest138   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tl7i3y/this_is_the_most_useful_thing_ive_found_for/</guid>
-      <pubDate>Sat, 23 May 2026 05:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>84% 从未使用过生成式人工智能？这没有道理。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tl2qlc/84_have_never_used_generative_ai_that_doesnt_make/</link>
-      <description><![CDATA[ https://medium.com/data-ai-and-beyond/84-of- humans-have-never-used-ai-thats-either-a-crisis-or-an-opportunity-8d7c79f5f658 我读过一篇文章，其中有一篇来源充足的文章声称 84% 的人从未使用过生成式人工智能。 OpenAI 声称光是他们的系统就有 28 亿人使用过。 Google 声称拥有 20 亿用户，其中 40% 仅使用 Gemini。  世界人口有83亿。除去2岁以下的孩子，这个数字约为80亿。数据操纵是疯狂的。我的理论是，人工智能公司正在使用人工智能来创建用户并编写提示，以便人工智能公司可以声称他们是独特的用户。竞争对手也有可能正在使用人工智能工具来促使竞争平台提高竞争对手的成本。 这整件事每天看起来都更加粗略。   由   提交/u/Engineer_5983  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tl2qlc/84_have_never_used_generative_ai_that_doesnt_make/</guid>
-      <pubDate>Sat, 23 May 2026 01:48:39 GMT</pubDate>
-    </item>
-    <item>
       <title>我被迫对 AI 有礼貌，这很奇怪吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tl1ahm/is_it_weird_that_im_compelled_to_be_polite_to_ai/</link>
       <description><![CDATA[有一天晚上，它为给我错误的答案而深表歉意，我说了这样的话，“别担心，我们都会犯错误。你还是比我更快地找到了它。”！当然，它感谢我的理解，有那么一刻，我感觉自己刚刚与某人进行了人际互动。  还有其他人这样做吗？   由   提交 /u/PizzaForTheSoul   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tl1ahm/is_it_weird_that_im_compelled_to_be_polite_to_ai/</guid>
       <pubDate>Sat, 23 May 2026 00:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>男子被捕，因为警察认为人工智能不会错</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkwl96/guy_arrested_because_cops_reason_ai_cant_be_wrong/</link>
-      <description><![CDATA[标题已经说明了一切。这是一位律师在展示随身摄像机，因此需要几分钟才能观看。   由   提交 /u/Recent-Day3062   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkwl96/guy_arrested_because_cops_reason_ai_cant_be_wrong/</guid>
-      <pubDate>Fri, 22 May 2026 21:29:40 GMT</pubDate>
     </item>
     <item>
       <title>让我们弄清楚一件事</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[如果你读过 LinkedIn 或 Reddit，你会认为每家公司都有完全自动化的管道和多代理系统来运行。 同时，在实际的企业界中，我一半的时间都花在向管理层解释为什么法学硕士无法神奇地修复完全损坏、无组织的内部数据集，或处理严格的数据隐私锁定。 还有谁被困在两者之间的差距中？ “人工智能理论上可以做什么”和“领导层对零基础设施的期望”？ 这种差距正是为什么商业人工智能代理的实际指导比炒作更重要的原因。在公司能够扩展人工智能之前，他们需要干净的数据、清晰的工作流程、治理、安全控制以及了解人工智能代理实际适合的团队。   由   提交/u/netcommah  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkqd29/the_reality_of_ai_adoption_at_work_is_vastly/</guid>
       <pubDate>Fri, 22 May 2026 17:48:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么数据中心使用淡水？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tkhqaa/why_do_data_centers_use_fresh_water/</link>
-      <description><![CDATA[为什么数据中心要使用淡水？我们在汽车领域回收冷却水已有 100 多年的历史。地球温度为 50 度左右，地下循环冷却剂可以通过地球冷却，而只需用水量的一小部分。    由   提交 /u/Poozipper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tkhqaa/why_do_data_centers_use_fresh_water/</guid>
-      <pubDate>Fri, 22 May 2026 12:37:12 GMT</pubDate>
     </item>
     <item>
       <title>埃隆？</title>
