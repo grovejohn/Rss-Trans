@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 May 2026 05:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 08:07:05 GMT</lastBuildDate>
+    <item>
+      <title>技术面试拒绝错误的工程师</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tla084/technical_interviews_reject_the_wrong_engineers/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tla084/technical_interviews_reject_the_wrong_engineers/</guid>
+      <pubDate>Sat, 23 May 2026 07:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六炫耀] LLM 的网络抓取让我们抓狂，因此我们构建了自己的具有原生 MCP 支持的搜索 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tl9t3a/showoff_saturday_web_scraping_for_llms_was/</link>
+      <description><![CDATA[嘿👋 我和我的团队构建了人工智能代理，而网络搜索是我们过去六个月最大的痛点。 现在的标准开发人员工作流程有点糟糕：你点击搜索 API，获取返回链接，编写抓取工具，处理验证码和阻止，然后最终向你的法学硕士提供一大堆充满 cookie 横幅的 HTML，菜单和随机垃圾。模型变得混乱，您的代币使用量激增。 因此，我们决定专门为 RAG 管道和 AI 代理构建一些东西： 搜索路由器 我们关注的一些事情：  速度： P99 延迟低于 800 毫秒。代理响应速度快，用户无需等待。 MCP 就绪：对模型上下文协议的本机支持。您可以将我们的配置直接插入 Claude Desktop，并让它通过该工具运行搜索，而不会受到人为限制。 干净的 JSON 输出： 结构化响应实际上很适合以编程方式使用。  我们最近发布的内容： 添加了 LLM 端点的检索上下文 - 我们的 API 返回一个结构化 JSON，其中包含提取相关上下文。这大大减少了手动 HTML 清理的需要并节省了 LLM 令牌。 我们真诚地希望获得反馈： 该项目还处于早期阶段，因此我们希望人们能够在实际项目上实际测试它，而不必担心限制。 我们希望您的反馈： 该项目刚刚启动。因此，您可以在您喜欢的项目上适当地打破它，我们在发布期间提供了无限的免费套餐。 您只需注册（无需银行卡）即可获得 2000 个请求。一旦超出限制，您只需转到仪表板并点击“补充”即可。按钮以获得更多免费测试积分。 想要错误报告、边缘案例、功能请求，或者老实说只是听听产品现在的糟糕之处！   由   提交 /u/ummitluyum   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tl9t3a/showoff_saturday_web_scraping_for_llms_was/</guid>
+      <pubDate>Sat, 23 May 2026 07:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我看到钥匙扣相机越来越流行，所以我制作了一个模拟照片外观的渐进式网络应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tl9kgy/i_saw_keychain_cameras_getting_popular_so_i_made/</link>
+      <description><![CDATA[      我只是想展示我制作的一个名为 ptck 的小项目！ （用我的母语捕捉）： https://snaptck.vercel.app/ 我看到一些钥匙扣相机在网上疯传，作为一名大学生，我没有多余的 50 美元购买一个，所以我决定创建一个简单的渐进式 Web 应用程序，可以安装在主屏幕中，离线工作，并且可以模拟所拍摄照片的大部分外观钥匙串相机，如具有不同颜色滤镜和框架的低质量照片。 我附上了 UI 和示例照片！ 所有拍摄的照片都保存在您的设备本地，因此没有照片存储在云端，也无需注册。 技术堆栈是 React + Tailwind 和用于本地照片存储的 IndexDB。 非常感谢有关如何改进或添加功能的反馈！   由   提交/u/arceuspikachu28   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tl9kgy/i_saw_keychain_cameras_getting_popular_so_i_made/</guid>
+      <pubDate>Sat, 23 May 2026 07:25:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>将我的像素图像猜谜游戏变成 Jackbox 风格的多人混乱游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tl9kcy/turned_my_pixel_image_guessing_game_into_jackbox/</link>
+      <description><![CDATA[      在我的游戏的本地多人游戏中投入一些工作PixReveal.com  经典 Jackbox 风格游戏： 在大屏幕上托管 -&gt;通过链接/房间 ID/二维码在您的手机上加入 -&gt;玩。无需登录或应用程序，全部免费。  游戏玩法：  像素绘图在大屏幕上逐像素地显示。如果您认为您知道这是什么，请按下手机上的蜂鸣器。蜂鸣器鸣响后，您有四个答案选项可供选择。 能力提升：  为了让事情变得有趣，我添加了三个能力提升： 💡熄灯使画布变暗 4 秒 🔄 随机播放混合答案文本 ❄ 冻结所有玩家 4 秒 你可以破坏你的朋友当他们试图回答甚至冻结他们时隐藏图像，迫使他们要么超级快地回答，要么在最后一秒给出答案。或者混淆他们的答案文本以获得最大程度的混乱。  社交功能： 玩家可以将表情从手机发送到大屏幕。机器人主持人对游戏玩法进行评论。最终，玩家会根据自己的表现获得头衔奖励。使用许多能量的破坏者。和平主义者不使用任何道具。最快的答案等等。  技术堆栈： Vue、Apinator.io、HTML Canvas   由   提交 /u/Triggerscore   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tl9kcy/turned_my_pixel_image_guessing_game_into_jackbox/</guid>
+      <pubDate>Sat, 23 May 2026 07:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于人工智能，我已经厌倦了在谷歌上找不到任何东西。所以我创建了这个查询生成器来像过去的美好时光一样进行搜索。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tl9fqv/i_got_sick_of_not_finding_anything_on_google/</link>
+      <description><![CDATA[       由   提交/u/mrtdlgc  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tl9fqv/i_got_sick_of_not_finding_anything_on_google/</guid>
+      <pubDate>Sat, 23 May 2026 07:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人使用 API-FOOTBALL 获取实时比分吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tl98sf/anyone_using_apifootball_for_live_scores/</link>
+      <description><![CDATA[嘿， 我目前正在使用 API-FOOTBALL (API-SPORTS) 来构建 2026 年世界杯预测网站。对于实际使用它的人来说：实时比分更新在实际情况下的可靠性如何？ 我主要感兴趣的是： 实时比赛期间的更新速度 延迟比分 在巨大的比赛中的稳定性比赛 您在实时比分更新方面有良好的体验吗？ 谢谢 🙂   由   提交 /u/DefinitionWhich4647   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tl98sf/anyone_using_apifootball_for_live_scores/</guid>
+      <pubDate>Sat, 23 May 2026 07:07:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>在一个 go 文件中构建一个简单的商店，无需 js</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tl8ok1/built_a_simple_store_in_one_go_file_and_no_js/</link>
+      <description><![CDATA[      我想学习 go 并测试它的功能。我没有构建待办事项，而是选择了我有经验的东西 - 在线商店。 我面临的第一个问题是管理 html 文件的默认方式不允许简单地“合并 html”文件。文件，这对我来说是必须的。问了几个golang朋友发现他们都只是用js来渲染，不处理html。  所以我的第一个限制是它只是 HTML/CSS 网站，没有一行 js。这只是为了压力测试并尝试探索局限性。所以主站点和管理部分都只有 html/css，没有任何 javascript 代码。 第二个限制是尝试在单个 go 文件中执行此操作。这只是因为我看到有人编写游戏的视频，他在一个文件中有大约 20k 行代码。我决定这样做，并试着感受一下如果走这条路会有多难，以及我会遇到什么类型的问题。 这是一个有趣的项目。编写一个没有 js 的商店是相当具有挑战性的，我会提议至少在几个地方拥有它。在单个文件中写入也感觉像是“不需要的”。给我的思考过程带来负担，但并不像我最初想象的那么难。 如果你想看看这个网站在这里：gostore.hereket.com 管理页面网站在这里：gostore.hereket.com/admin  读者 用户： reader pass: 123 访客： 用户：guest 通行证：123 不提供实际管理员（可以添加和删除）的密码，因为不想处理垃圾邮件。   由   提交/u/tootac  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tl8ok1/built_a_simple_store_in_one_go_file_and_no_js/</guid>
+      <pubDate>Sat, 23 May 2026 06:37:09 GMT</pubDate>
+    </item>
     <item>
       <title>YAML？这就是挪威的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1tl79gm/yaml_thats_norway_problem/</link>
@@ -55,60 +104,11 @@
       <pubDate>Sat, 23 May 2026 00:53:43 GMT</pubDate>
     </item>
     <item>
-      <title>对我的第一个真实业务网站的反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tl0al1/feedback_on_my_first_website_for_a_real_business/</link>
-      <description><![CDATA[星期六炫耀快乐！这是我为朋友在墨尔本的普拉提工作室创建的第一个网站，我使用 Next.js、Tailwind、Lenis 免费制作了该网站，以实现平滑滚动和一些 GSAP 动画。  寻找一些诚实的评论，无论是设计还是技术角度。谢谢！   由   提交/u/Patient_Dream7455   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tl0al1/feedback_on_my_first_website_for_a_real_business/</guid>
-      <pubDate>Sat, 23 May 2026 00:00:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>16岁时在手机上制作了一个网络应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tkzcbg/made_a_web_app_on_a_mobile_phone_at_16/</link>
-      <description><![CDATA[      它也是 vivicoded..你们觉得怎么样？... Feeebafk 表示赞赏   由   提交/u/Leocoreai   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tkzcbg/made_a_web_app_on_a_mobile_phone_at_16/</guid>
-      <pubDate>Fri, 22 May 2026 23:20:02 GMT</pubDate>
-    </item>
-    <item>
       <title>我停止重新设计并最终交付了我的 Astro 作品集</title>
       <link>https://www.reddit.com/r/webdev/comments/1tkydvx/i_stopped_redesigning_and_finally_shipped_my/</link>
       <description><![CDATA[在我的作品集停滞了几个月并无休止地重新设计之后，我终于使用 Astro 交付了它。 这一次，我不再试图在开始之前让一切变得完美。我刚刚打开 VS Code，使用 Astro 入门模板，并构建了任何感觉正确的内容。 堆栈： * Astro * Tailwind * MDX 用于博客 我还添加了一个小博客部分，我计划在其中写更多有关设计、开发、Linux 设置以及我当前正在学习的内容。 在使用 Astro 构建时，我真正喜欢的一件事是一切都如此简单和快速。没有不必要的复杂性，出色的 DX，并且 MDX 集成非常顺利。 希望听到社区的反馈😄 [link](http://rnsh-cc.vercel.app) ![img](9c8k7xpxjr2h1)   由   提交/u/rohan_pckg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tkydvx/i_stopped_redesigning_and_finally_shipped_my/</guid>
       <pubDate>Fri, 22 May 2026 22:40:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>混合配额线性速率限制器 – Tony Finch</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tkxx4q/hybrid_quotalinear_rate_limiter_tony_finch/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tkxx4q/hybrid_quotalinear_rate_limiter_tony_finch/</guid>
-      <pubDate>Fri, 22 May 2026 22:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个用于人工智能编码的工作流程系统。这就是它的工作原理。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tkx8h9/i_built_a_workflow_system_for_al_coding_heres/</link>
-      <description><![CDATA[使用此设置已有几个星期了。一切都集中在一处，会话之间不会丢失任何内容。 以下是实际运行的内容： 规则引擎 每个项目都有自己的规则集。堆栈、约定、AI 永远不应该做的事情。 Herb 会在每次治疗前自动注射它们。光标、克劳德代码、chatgpt，所有这些。 零重新解释。 Al 已经从第一条消息中了解了您的标准。 我的背景 每个项目一个配置文件。您正在构建的内容、您的堆栈、您当前的目标、您的偏好。默默地添加到每个工具中的每条第一条消息之前。这就是认识你的人工智能和不认识你的人工智能之间的区别。 提示库 你曾经编写、保存并可重复使用的每一个提示。使用 {{variables}} 来填空字段。 Herb 要求您在复制之前填写它们。 完全停止从头开始重写相同的提示。 项目 每个 Al 编码项目都在一个位置进行跟踪。附加会话、附加规则、活动热图。您可以准确地看到哪些会话属于哪个项目。 会话 每个对话均已保存并可搜索。附于项目。可通过工具过滤 - 光标、claude、chatgpt、windsurf。 注释 来自任何地方的亮点和片段。附加到项目或独立。 社区规则 其他开发人员发布他们的规则集。一键导入其中任何一个，或者直接从任何 github URL 中提取。 整个过程在本地运行。无需帐户，无需订阅。 Herb 可免费使用：Herb • Chrome 扩展程序   由   提交 /u/Opening-Fun-7280   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tkx8h9/i_built_a_workflow_system_for_al_coding_heres/</guid>
-      <pubDate>Fri, 22 May 2026 21:54:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>引导式 SaaS 应用程序如何在没有昂贵基础设施的情况下处理 ZATCA 第 2 阶段合规性？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tkx7ow/how_are_bootstrapped_saas_apps_handling_zatca/</link>
-      <description><![CDATA[构建类似于 TopNotepad 的生产级 SaaS 发票/会计应用程序并实现沙特 ZATCA 第 2 阶段合规性。 我正在寻找专门关于保持基础设施精简和成本高效而不影响合规性或可扩展性的指导。 需要以下方面的建议： - XML/UBL 发票生成 - 发票哈希&amp;加密签名 - QR 生成 - 许可/报告 API - 证书/设备上线 - 多租户 SaaS 架构 - 安全密钥管理 问题：  您真正的生产架构是什么样的？ 哪些部分实际上需要专用基础设施？ 签名/哈希生成能否大规模保持轻量级？ 用于生产部署的最佳低成本堆栈/服务？ ZATCA 集成有任何基础设施瓶颈或隐藏成本吗？ 您是否使用整体或微服务作为合规性组件？  非常感谢任何实施了真正符合 ZATCA 标准的发票平台的人的建议。   由   提交 /u/Zyberax   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tkx7ow/how_are_bootstrapped_saas_apps_handling_zatca/</guid>
-      <pubDate>Fri, 22 May 2026 21:53:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建轻量级结构化 CMS/页面构建器是一个坏主意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tkwjz5/is_building_a_lightweight_structured_cmspage/</link>
-      <description><![CDATA[我正在开发一个 Web 应用程序，该应用程序已经具有：  固定布局/页眉/页脚 SSR 渲染 身份验证 现有应用程序页面/功能  现在我想为信息/静态页面添加类似 CMS 的系统，以便客户端可以构建自己的静态页面 我正在考虑：  富文本编辑器（TinyMCE/Quill） 拖放构建器（GrapesJS） 上传自定义 HTML/CSS 从设计工具导出页面并插入到每个静态页面的内容部分  但我不知道这将如何在不同的移动设备上发挥作用视图或 html 结构将正确适合我的布局。我是否可以提供一个结构化模板，他们只需将数据输入其中就可以更好？有人有过这种制作静态页面的经验吗？   由   提交/u/Pablo_escobruhhh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tkwjz5/is_building_a_lightweight_structured_cmspage/</guid>
-      <pubDate>Fri, 22 May 2026 21:28:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计们，我正在开发一个 html 流媒体库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tku7d4/guys_im_working_on_a_html_streaming_library/</link>
-      <description><![CDATA[你们希望看到它实现什么...这个想法是在发送令牌时使用 html 作为 .md 的替代品，因为 html 更具表现力，这通常是不可能的，在流式传输时看起来很糟糕，我正在慢慢修复流式 html 时的所有视觉错误，到目前为止我一直致力于表格渲染（处于良好状态），所有 markdown 都可以在这个 ofc 渲染器中轻松完成...是的，svg 和图表实际上是山羊的，您可以看到 svg 元素正在形成和放置...但是我没有想法来测试这个东西的极限...你们要如何处理您希望在流式传输时优雅处理的 html   由   提交 /u/boneMechBoy69420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tku7d4/guys_im_working_on_a_html_streaming_library/</guid>
-      <pubDate>Fri, 22 May 2026 20:01:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
