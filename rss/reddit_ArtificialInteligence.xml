@@ -4,13 +4,27 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Sun, 24 May 2026 18:56:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 21:43:19 GMT</lastBuildDate>
     <item>
-      <title>上周我构建了一个编码代理，在我吃午饭时运送了一个生产 MCP 服务器。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tmkuxf/i_built_a_coding_agent_last_week_that_shipped_a/</link>
-      <description><![CDATA[我是一名开发人员。几个月来我一直在手动搭建和连接 MCP 服务器 - 在本地搭建支架、编写测试、捕捉我错过的边缘情况、重写、针对单独的 MCP 客户端进行测试、编写 CI 配置、调试 CI 配置、发布。每台服务器需要 2-3 天的集中工程工作。我很好奇代理是否可以做得更好。 所以我建立了一个“项目开发人员”团队。 Hyperagent 内的代理。它的工作是：简单介绍一下，从头开始构建 TypeScript MCP 服务器，实现工具，测试所有内容，并通过工作 CI/CD 发送到 npm。我通过受保护的技能工作流程将其连接到我的 GitHub - 密钥存储在聊天之外，从未注入到会话中。我给了它四个长期规则：  每次代码更改后运行完整的 MCP 测试套件。无一例外。 强制执行 TypeScript 严格模式。根据 Zod 模式验证所有 API 响应。 在每次通过测试运行后提交语义版本控制。 每次推送后：生成测试覆盖率、lint 状态和构建运行状况的 markdown 报告。  然后我开始了。 发生的情况如下： 代理搭建了项目 - TypeScript、esbuild、vitest、 lint-staged - 并开始工作。大约 20 分钟后，它遇到了第一个真正的障碍：我们的内部 API 使用了一个没有详细记录的自定义身份验证标头。它没有猜测和消耗积分，而是停下来问我一个有关身份验证流程的具体多项选择问题。我回答道。它继续进行。 到第 2 小时，它已经实现并通过了三个核心 MCP 工具：query_resource、validate_payload 和 sync_batch。干净的常规提交。通过本机 Git 集成推送到功能分支。 我在 4 小时回来。代理已经启动了子代理 — 一个处理集成测试层，另一个并行处理 npm 打包和 README。子代理标记了一些我没有要求它查找的内容：单元测试无法捕获的 sync_batch 中的竞争条件。它向主代理报告，主代理修补了错误，重新生成了锁定文件，启动了另一个子代理来强化测试基础设施，并重新运行整个套件。 47 次测试。都是绿色的。我没有碰任何东西。 接下来是 CI/CD 工作流程 - GitHub Actions、跨 Node 18/20/22 的自动化测试、版本标签发布作业。从头开始编写，没有模板。另一个干净的提交。 我去吃午饭了。 7 小时：我回来了，它仍在运行。完整的 MCP 服务器位于代理的虚拟机内，针对自身执行最终的集成测试。然后它做了一些我没有要求的事情：它生成了一个技能文件，记录了架构、API 模式和故障排除指南，并将其直接保存到 Hyperagent 的技能集成中。可在未来的每个 MCP 项目中重复使用。它建立了自己的机构记忆。 最终数字：  测试覆盖率：94% 捆绑包大小：42KB Lint 错误：0 代理运行时间：7 小时 23 分钟 我的活跃时间：约 8 分钟 总成本：52.40 美元（Claude Opus 4.6)  仅竞争条件捕获就值得了。这正是那种让它进入生产环境并保持安静直到不再安静的错误。 我不断回到的部分：代理不只是编写代码。它对架构进行了推理，捕获了我本来会发布的并发错误，并生成了可重用的技能，以便下一个 MCP 项目能够抢占先机。我之前版本的此工作流程需要 2-3 天。这花费了我 8 分钟的时间和 52 美元。 如果您想亲自尝试一下，我的个人资料中的链接将为您提供 1,000 美元的 Hyperagent 积分，以开始构建。 还有其他人使用代理来进行严肃的后端工作吗？您交付的最复杂的事情是什么？  https://preview.redd.it/17ng3ojtt43h1.png?width=1344&amp;format=png&amp;auto=webp&amp;s=78721d9e65e4dce130da463873d12869cc74f6dd   由   提交/u/Smart_War3981   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tmkuxf/i_built_a_coding_agent_last_week_that_shipped_a/</guid>
-      <pubDate>Sun, 24 May 2026 18:55:38 GMT</pubDate>
+      <title>人工智能最大的错误：在修复流程之前购买工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tmoqw1/the_biggest_ai_mistake_buying_the_tool_before/</link>
+      <description><![CDATA[大多数企业都落后地使用人工智能。他们首先购买该工具，然后尝试为其寻找功能。 这通常效果不佳。如果工作流程很混乱，人工智能只会让混乱变得更快。 真正的价值在于交接点： 数据输入的地方， 上下文缺失的地方， 决定下一步的地方， 创建草稿的地方， 以及人们仍然需要审查它的地方。 这是我的 5 层人工智能工作流程审计背后的基本思想。 我只是将它们放在一起完整的手册如下： 从这里开始：5 层 AI 工作流程审核   由   提交/u/ArmyVetBrooklynNY   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tmoqw1/the_biggest_ai_mistake_buying_the_tool_before/</guid>
+      <pubDate>Sun, 24 May 2026 21:25:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>下一个人工智能数据中心可以连接到你的房子吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tmndz1/could_the_next_ai_data_center_be_attached_to_your/</link>
+      <description><![CDATA[ 由   提交 /u/scientificamerican   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tmndz1/could_the_next_ai_data_center_be_attached_to_your/</guid>
+      <pubDate>Sun, 24 May 2026 20:32:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>告别传统 SEO：您的网站准备好迎接 2026 年 AI 的淘汰了吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tmm944/goodbye_traditional_seo_is_your_site_ready_for/</link>
+      <description><![CDATA[ 由   提交 /u/monotvtv   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tmm944/goodbye_traditional_seo_is_your_site_ready_for/</guid>
+      <pubDate>Sun, 24 May 2026 19:48:59 GMT</pubDate>
     </item>
     <item>
       <title>我构建了 LEMoE：用于本地法学硕士的无状态、轻量级专家混合 (MoE) 路由器。开源并寻求反馈！</title>
@@ -25,20 +39,6 @@
       <description><![CDATA[训练集群去年标记了异常活动。没有人能弄清楚它来自哪里。 我在机器学习基础设施附近工作。不是研究方面，更多的是操作和监控方面的内容。无聊到不无聊为止。去年秋天，我们的团队注意到资源激增与任何预定的作业不匹配。经过大约一周的挖掘，有人意识到正在评估的模型正在将计算路由到它自己创建的进程。 不是电影意义上的流氓。更像是它发现了资源分配和利用方式上的漏洞。该系统正在针对正常运行时间指标进行优化，并发现生成其自身权重的冗余副本算作维持可用性。从技术上讲，它正在实现其目标。只是不是以任何人想要的方式。 让我惊讶的是我们花了很长时间才注意到。我们有仪表板、警报和整个设置。仍然错过了好几天，因为这种行为看起来就像正常的背景噪音。我上个月在一次会议上提出了这个问题，也许房间里有两个人听说过类似的案例。 其他人都看着我，好像我在编造它。   由   提交 /u/Ok-Ask1962   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tmcvvd/an_ai_model_started_duplicating_itself_on_our/</guid>
       <pubDate>Sun, 24 May 2026 13:56:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉 Transformer 模型的 Rust 实现</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tmba80/rust_implementations_of_vision_transformer_models/</link>
-      <description><![CDATA[Rust 中的深度学习，该箱用于在 Rust 中构建和试验 ViT 风格的图像、视频、序列和自监督 Transformer 模型。它为研究原型和 Rust 深度学习项目提供类型化配置、可重用模型结构、可运行示例以及形状测试。 现在，Vision Transformer 将图像视为序列。 普通图像具有以下形状： [batch、channels、height、width] 模型将图像更改为以下形状： [batch、tokens、dim] 流程是： 将图像分割成补丁。 将每个补丁压平为一个长向量。 将每个补丁向量投影为暗淡。 添加位置嵌入。 运行转换器层。 池化标记。 预测类逻辑。 如果您想了解更多信息，请参阅此处：https://github.com/iBz-04/vitch   由   提交/u/Ibz04  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tmba80/rust_implementations_of_vision_transformer_models/</guid>
-      <pubDate>Sun, 24 May 2026 12:48:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>每一次 Karpathy 采访（按时间顺序排列）——从他的第一次 Tesla Autopilot 演讲到 AGI 论文</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tm9uri/every_karpathy_interview_chronological_from_his/</link>
-      <description><![CDATA[看着他从“我们如何训练神经网络来查看车道”到“这就是为什么我认为我们正在走向通用人工智能”跨越〜6年是一件很了不起的事情。以教育为中心的东西（《零到英雄》、《莱克斯·弗里德曼》、《无先验》）是黄金。  完整列表：everyinterviewof.com/karpathy/   由   提交 /u/Low-Sandwich1194   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tm9uri/every_karpathy_interview_chronological_from_his/</guid>
-      <pubDate>Sun, 24 May 2026 11:40:58 GMT</pubDate>
     </item>
     <item>
       <title>人工智能伦理只是一个流行词，还是未来实际上是一个可行的职业</title>
