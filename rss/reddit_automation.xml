@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 24 May 2026 01:53:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 06:25:18 GMT</lastBuildDate>
+    <item>
+      <title>有什么东西可以让您在一个地方查询自己的工作电子邮件、文档、会议吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tm42nf/is_there_anything_that_lets_you_query_across_your/</link>
+      <description><![CDATA[“不寻找搜索。我可以搜索。 我想问“X的状态怎么样”或““上周我与 Y 讨论了什么”并获得实际答案，而无需手动交叉引用 4 个选项卡。 这是否存在，或者我是否在描述我必须构建的东西？”   由   提交 /u/Low_Slice_4297   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tm42nf/is_there_anything_that_lets_you_query_across_your/</guid>
+      <pubDate>Sun, 24 May 2026 06:21:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>向安全专家提出的问题</title>
+      <link>https://www.reddit.com/r/automation/comments/1tlzuij/question_for_security_experts/</link>
+      <description><![CDATA[ 由   提交 /u/GFYnasis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tlzuij/question_for_security_experts/</guid>
+      <pubDate>Sun, 24 May 2026 02:48:06 GMT</pubDate>
+    </item>
     <item>
       <title>构建了一个 n8n 工作流程，可从 Google Sheet 生成 Instagram 轮播 — 以下是其工作原理</title>
       <link>https://www.reddit.com/r/automation/comments/1tlxq1x/built_an_n8n_workflow_that_generates_instagram/</link>
@@ -69,13 +83,6 @@
       <pubDate>Sat, 23 May 2026 11:52:27 GMT</pubDate>
     </item>
     <item>
-      <title>[ 已被 Reddit 删除 ]</title>
-      <link>https://www.reddit.com/r/automation/comments/1tle309/removed_by_reddit/</link>
-      <description><![CDATA[[因违反内容政策而被 Reddit 删除。 ]   由   提交/u/IntelligentSam5  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tle309/removed_by_reddit/</guid>
-      <pubDate>Sat, 23 May 2026 11:37:26 GMT</pubDate>
-    </item>
-    <item>
       <title>一次有效的自动化还不是自动化。</title>
       <link>https://www.reddit.com/r/automation/comments/1tlc5fr/automation_that_works_once_is_not_automation_yet/</link>
       <description><![CDATA[在干净的测试运行中工作的工作流程并不是困难的部分。 真正的测试开始于 API 速度变慢、同一个事件触发两次、缺少一个字段或有人在不告诉任何人的情况下更改了流程。 那时自动化要么成为有用的基础设施，要么成为团队必须照看的另一个系统。 我开始认为最好的自动化工作不是让一些令人印象深刻的东西。 这是关于制作一些无聊的可靠的东西。 在你见过的自动化中通常最先出现问题的是什么？   由   提交 /u/Alpertayfur   [链接] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[这里任何已经创建了利基频道的人我都需要真正的帮助，我正在创建一个具有增值内容和主题的频道，所以如果有人可以帮助我解决我的疑问，请给我发消息（请不要给课程卖家）   由   提交/u/Own_Faith小区_36  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tl3yk5/youtube_channel/</guid>
       <pubDate>Sat, 23 May 2026 02:43:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们什么时候成为大家ChatGPT实验的清理队了</title>
-      <link>https://www.reddit.com/r/automation/comments/1tkejnh/when_did_we_become_the_cleanup_crew_for_everyones/</link>
-      <description><![CDATA[周二参加了一个会议。营销人员想要讨论“部署他们的自动化解决方案”。 结果，有人花了几个晚上要求 Claude 为他们构建一个工作流程，从 CRM 中提取数据，生成每周报告，并自动向客户发送电子邮件。在他们的个人笔记本电脑上运行，并以纯文本形式保存密码。 他们的要求很疯狂。他们需要专用的虚拟机、数据库访问、邮件服务器的凭据以及 IT 来维护它的未来。没有文档。没有错误处理。不知道周六凌晨 2 点休息时会发生什么。当我问谁长期拥有这个东西时，他们只是盯着我看。 让我感动的是态度的转变。过去，人们带着问题来找我们。现在，他们提供了半生不熟的解决方案，当我们不直接插入时，他们会感到沮丧。就像构建部分是困难的部分，之后的一切都只是文书工作。 我真的不知道团队应该如何大规模处理这个问题。   由   提交 /u/Pristine_Rest_7912   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tkejnh/when_did_we_become_the_cleanup_crew_for_everyones/</guid>
-      <pubDate>Fri, 22 May 2026 10:07:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
