@@ -4,25 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 24 May 2026 06:27:15 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 10:28:09 GMT</lastBuildDate>
     <item>
-      <title>上个月我从我的副项目中删除了 8,000 行前端代码，产品变得更好了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tm45pt/deleted_8000_lines_of_frontend_code_from_my_side/</link>
-      <description><![CDATA[这听起来不对，所以让我解释一下。 我已经构建网络应用程序 6 年了。此时的反应基本上就是肌肉记忆。去年，当我开始一个附带项目（带有人工智能助手的个人财务跟踪器）时，我做了我一直在做的事情。设计了组件树，设置了身份验证，构建了仪表板，在角落里制作了一个漂亮的聊天侧边栏。它看起来很干净。反应灵敏。黑暗模式。整个事情。 发布了它。 600 人注册。 3 周后有 30 人使用它。 采访了流失的用户。他们每个人都说了某种版本的“我只是总是忘记回去。” 他们没有忘记考虑自己的财务状况。他们忘记了我的网站的存在。 我构建了一个产品，需要经过深思熟虑的导航操作（打开浏览器，转到 my-domain.com，登录，打开仪表板）才能从中获取价值。我的用户都是忙碌的人，他们会在一天中的随机时刻考虑自己的支出。在公共汽车上。等待食物。在一次无聊的会议中。这些时刻都不需要打开笔记本电脑并导航到财务仪表板。 我删除了整个 React 应用程序。保留了API。保留代理逻辑。保留数据库。删除了前端。 在 3 天内构建了一个新表面。这是一个 Whatsapp 号码。用户全天发短信。 “刚刚在杂货上花了 850 美元。” “这个月我的咖啡花销是多少。” “我正在实现我的储蓄目标吗？”它会在几秒钟内回复。周日晚上主动给他们发短信，提供每周总结。每月 1 日进行每月细分。 当前活跃用户：340。相同产品。没有网站。 D30 时保留率约为 50%。 我删除的前端花了我 6 周的时间来构建。 Whatsapp界面花了3天时间。在消息传递方面使用光子代码并保留我已经拥有的其他所有内容。 API 根本没有改变。 我并不是说网络应用程序已经死了。我并不是说这适用于每种产品。对于整天坐在电脑前的高意愿用户的 B2B SaaS 来说，仪表板非常有意义。 但对于价值发生在全天分散的现实生活时刻的消费产品来说，网络应用程序的本能可能是错误的。最好的接口是已经开放的接口。对于大多数人来说，这就是whatsapp或imessage，而不是chrome。 我仍然每天在工作中写react。我不会转行。我只是浪费了 6 周的业余项目时间，而一些用户研究本来可以拯救我。   由   提交/u/ScaryAd2555  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tm45pt/deleted_8000_lines_of_frontend_code_from_my_side/</guid>
-      <pubDate>Sun, 24 May 2026 06:26:28 GMT</pubDate>
+      <title>为真实客户构建草坪预订平台，需要经验丰富的开发人员的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tm72xp/building_a_turf_booking_platform_for_a_real/</link>
+      <description><![CDATA[嘿伙计们，我真的需要一些建议！！！ 计划为真正的客户建立一个运动草坪/竞技场预订平台。 功能： 1.时段预订 2.付款 3.管理仪表板 4.预订管理 5.最初适合移动设备的网站 当前的堆栈想法： - React - Django + DRF - PostgreSQL - Razorpay 我希望保持它的简单性、可维护性和长期生产就绪性。 希望得到构建过类似系统的人的建议： 1.最大的技术挑战？ 2.处理双重预订/并发？ 3.部署/托管建议？ 4.初学者应该避免的错误？ 希望得到诚实的建议和真实的经验。谢谢！   由   提交/u/hyperx05  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tm72xp/building_a_turf_booking_platform_for_a_real/</guid>
+      <pubDate>Sun, 24 May 2026 09:09:34 GMT</pubDate>
     </item>
     <item>
       <title>我过度设计了我的个人博客，并从中学到了比我构建的大多数副项目更多的东西</title>
       <link>https://www.reddit.com/r/webdev/comments/1tm1snm/i_overengineered_my_personal_blog_and_learned/</link>
-      <description><![CDATA[      真的没想到博客能教我这么多。 开始它是因为我想要一个我完全拥有的写作空间。没有Medium，没有Hashnode，不用每月付钱给别人来托管我自己的想法。 只是一个我端到端控制的快速、干净的平台，这是我可以引以为傲的东西，也许还可以向朋友炫耀。 （如果你明白我在那里做了什么，那你就太棒了） 来自 Next.js，我选择 Astro 是因为它对于内容丰富的网站来说很有意义，而且我一直想尝试一下。我没想到的是我的 React 习惯会如此严重地跟随我。 第一天我就到处扔岛。反应查询管理永远不会改变的博客文章列表的状态。纯粹为了显示文本而存在的组件上的客户端水合作用。在某个时候，我查看了一个网站上的 JavaScript 包，该网站的全部工作就是向人们展示文字，并感到自己的决定对我个人造成了攻击。 花了一周的时间进行倒退。剥离水合作用，将岛屿转换回 Astro 组件，询问“这实际上需要在客户端上运行吗”在触摸任何东西之前。答案几乎总是否定的。有四件事作为真正的岛屿幸存下来——点赞、评论、搜索、主题切换。其他一切都只是 HTML。 删除那周所带来的性能提升让我在之前几周构建的所有东西都感到尴尬。 另一件令我着迷的事情 - Cloudflare Workers 不是 Node.js。我在理智上知道这一点。直到数据库调用在本地开发中完美运行并在生产中默默失败且有用日志为零时，我才真正意识到这一点。最终在环境之间拆分适配器只是为了保持本地 DX 完好无损。从这个错误中学到的关于边缘运行时的知识比我读过的每一篇关于该主题的文章都要多。 完整的堆栈最终是 Astro 6、Keystatic 作为基于 Git 的 CMS、Cloudflare Pages 和 Workers、Turso 边缘、Drizzle、Satori 用于 OG 图像、Pagefind 用于搜索、Giscus 用于评论。在全球范围内运行，每月约 1 美元，只需域名成本，是的，这太疯狂了。 写下完整的架构和我犯的所有错误：https://arjunnambiar.dev/blog/i-built-a-distributed-blog-platform-on-cf/ 如果有人想为自己的博客/项目克隆一个活泼的 Astro 启动器，请回购：https://github.com/ShadowSlayer03/Blog-With-Astro 还有其他人找到了一个副项目，教给他们的内容超出了他们的预期吗？   由   提交/u/ShadowSlayer2242   [链接] [评论] ]]></description>
+      <description><![CDATA[      真的没想到博客能教我这么多。 开始它是因为我想要一个我完全拥有的写作空间。没有Medium，没有Hashnode，不用每月付钱给别人来托管我自己的想法。 只是一个我端到端控制的快速、干净的平台，这是我可以引以为傲的东西，也许还可以向朋友炫耀。 （如果你明白我在那里做了什么，那你就太棒了） 来自 Next.js，我选择 Astro 是因为它对于内容丰富的网站来说很有意义，而且我一直想尝试一下。我没想到的是我的 React 习惯会如此严重地跟随我。 第一天我就到处扔岛。反应查询管理永远不会改变的博客文章列表的状态。纯粹为了显示文本而存在的组件上的客户端水合作用。在某个时候，我查看了一个网站上的 JavaScript 包，该网站的全部工作就是向人们展示文字，并感到自己的决定对我个人造成了攻击。 花了一周的时间进行倒退。剥离水合作用，将岛屿转换回 Astro 组件，询问“这实际上需要在客户端上运行吗”在触摸任何东西之前。答案几乎总是否定的。有四件事作为真正的岛屿幸存下来——点赞、评论、搜索、主题切换。其他一切都只是 HTML。 删除那周所带来的性能提升让我在之前几周构建的所有东西都感到尴尬。 另一件令我着迷的事情 - Cloudflare Workers 不是 Node.js。我在理智上知道这一点。直到数据库调用在本地开发中完美运行并在生产中默默失败且有用日志为零时，我才真正意识到这一点。最终在环境之间拆分适配器只是为了保持本地 DX 完好无损。从这个错误中学到的关于边缘运行时的知识比我读过的每一篇关于该主题的文章都要多。 完整的堆栈最终是 Astro 6、Keystatic 作为基于 Git 的 CMS、Cloudflare Pages 和 Workers、Turso 边缘、Drizzle、Satori 用于 OG 图像、Pagefind 用于搜索、Giscus 用于评论。全球运行费用约为每月 1 美元，只需域名成本，是的，这太疯狂了。 写下完整的架构和我犯的所有错误：https://arjunnambiar.dev/blog/i-built-a-distributed-blog-platform-on-cf/ 如果有人想为自己的博客/项目克隆一个活泼的 Astro 启动器，请回购：https://github.com/ShadowSlayer03/Blog-With-Astro 还有其他人找到了一个副项目，教给他们的内容超出了他们的预期吗？   由   提交/u/ShadowSlayer2242   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tm1snm/i_overengineered_my_personal_blog_and_learned/</guid>
       <pubDate>Sun, 24 May 2026 04:22:18 GMT</pubDate>
     </item>
     <item>
       <title>我建立了 Multispot，同时查找多个位置！</title>
       <link>https://www.reddit.com/r/webdev/comments/1tlzymp/i_built_multispot_find_multiple_locations_at_the/</link>
-      <description><![CDATA[      大家好， 我构建了一个名为 MultiSpot 的工具，您可以在其中选择 2 到 5 个地点类型（咖啡馆、健身房、药房等），它会找到离您最近的位置。因此，您不必分别在谷歌上搜索每个地方并进行心算，您只需得到答案：到这里，一切都在要求的距离内。 有一天，我在寻找洗车场和咖啡馆时产生了这个想法，在那里我可以在等待洗车时放松一下，而试图在 Google 地图上同时找到 2 个位置真是太麻烦了。 免费使用，无需注册。如果有人想在其之上进行构建，还有一个 API。 请访问：multispot.net   由   提交/u/Dalleuh   [link] [评论] ]]></description>
+      <description><![CDATA[      大家好， 我构建了一个名为 MultiSpot 的工具，您可以在其中选择 2 到 5 个地点类型（咖啡馆、健身房、药房等），它会找到离您最近的位置。因此，您不必分别在谷歌上搜索每个地方并进行心算，您只需得到答案：到这里，一切都在要求的距离内。 有一天，当我在寻找洗车场和咖啡馆时，我有了这个想法，在那里我可以在等待洗车时放松一下，而试图在 Google 地图上同时找到 2 个位置真是太麻烦了。 免费使用，无需注册。如果有人想在其之上进行构建，还有一个 API。 请访问：multispot.net   由   提交/u/Dalleuh   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tlzymp/i_built_multispot_find_multiple_locations_at_the/</guid>
       <pubDate>Sun, 24 May 2026 02:53:36 GMT</pubDate>
     </item>
