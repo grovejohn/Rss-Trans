@@ -4,7 +4,7 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Sat, 23 May 2026 21:41:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 01:53:55 GMT</lastBuildDate>
     <item>
       <title>AGI 永远不会发生的真正原因……听我说完</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tlsc6u/the_real_reason_agi_will_never_happen_hear_me_out/</link>
@@ -13,11 +13,18 @@
       <pubDate>Sat, 23 May 2026 21:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>有词汇吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tlrulw/got_vocab/</link>
-      <description><![CDATA[嘿 Reddit， 我每天写一篇关于人工智能术语的时事通讯。把它想象成当今的一个词，但适用于与人工智能相关的一切。我已经介绍了大部分基础知识、公司和产品。我正在寻找其他想法和概念来涵盖。 我希望得到一些建议。或者更好的是，有没有你们都想看的每日简讯。我有大约 5000 名潜艇，我担心我的条款会用完。很想听听您的想法。   由   提交/u/jdfulp  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tlrulw/got_vocab/</guid>
-      <pubDate>Sat, 23 May 2026 20:51:50 GMT</pubDate>
+      <title>帮助提出项目想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tlq998/help_with_project_ideas/</link>
+      <description><![CDATA[大家好， 我是一名大学新生，我被选中参加一个非常有声望的人工智能暑期项目。 他们给了我机会提出一个项目想法，一些实用的或研究性的东西并不重要，我可以应用我所学到的知识并制作一个可以诚实地被公司采用的项目，或者让我与他们保持联系以进一步升级项目。 可悲的是，我完全缺乏任何开始工作或思考的想法，所以我真的很感激一些关于如何开始研究和激发一些想法的建议，从技术上讲，该计划还要一个月才能开始，但最好早点提出一个想法，而不是晚点。 首先，我发现行为分析非常有趣，可以分析和响应或据此做出预测。但感觉这已经是一个相当流行的想法了？ 每次我想到一个想法，我都觉得它已经被实现了，这真的很令人沮丧 所以，我很乐意与任何人就此进行讨论，并且非常感谢您的建议 谢谢   由   提交 /u/pineybtw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tlq998/help_with_project_ideas/</guid>
+      <pubDate>Sat, 23 May 2026 19:48:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA 刚刚推出了新的 Vera CPU — 显然比 x86 快 2 倍</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tloxeh/nvidia_just_dropped_their_new_vera_cpus/</link>
+      <description><![CDATA[ https://preview.redd.it/v6ppg2xmox2h1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=7d28c4c4b2ef4084e4edc552c755381683054eac 黄仁勋刚刚在台湾 Computex 2026 上宣布了 NVIDIA 的全新 Vera 架构处理器。据他们称，这是第一款基于 Arm 的芯片，实际上是为代理人工智能和强化学习而从头开始构建的。 GF Securities 发布的一些分析数据显示，与英特尔和 AMD 的 x86 替代品相比，Vera 的数据处理速度提高了 1.5 倍，性能提高了一倍。在规格方面，我们关注的是 88 个定制奥林巴斯核心和 1.2 TB/s 的海量内存带宽。他们预计 NVIDIA 将在 2027 财年出货约 120 万台，到 2028 年该数字预计将跃升至 420 万台。预计今年独立 Vera CPU 的销售额已达到 200 亿美元左右。 他们还展示了新的 Vera Rubin NVL72 平台，该平台将 72 个 GPU 和 36 个 CPU 封装到一个系统中。首批排队的大客户包括 Meta、Oracle、阿里巴巴和 CoreWeave。戴尔、思科、HPE、联想和 Supermicro 等硬件供应商计划在 2026 年下半年推出这些系统。 Vera 的进入大大加速了数据中心 x86 主导地位的转变，并真正为集成人工智能基础设施树立了新标准。 来源：https://www.perplexity.ai/discover/tech/nvidia-s-vera-cpus-expected-to-wmlQLh6DSUONZMGtVlZIOQ   由   提交 /u/andrewaltair   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tloxeh/nvidia_just_dropped_their_new_vera_cpus/</guid>
+      <pubDate>Sat, 23 May 2026 18:56:58 GMT</pubDate>
     </item>
     <item>
       <title>亚马逊员工伪造他们的人工智能使用情况</title>
@@ -25,13 +32,6 @@
       <description><![CDATA[ 由   提交 /u/MrYundaz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tlm33l/amazon_employees_are_faking_their_ai_usage/</guid>
       <pubDate>Sat, 23 May 2026 17:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不明白“人工智能将取代开发人员”的角度</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tlltsb/i_dont_get_the_ai_will_replace_devs_angle/</link>
-      <description><![CDATA[昨晚我和我叔叔聊天，他是一位退休的 CTO，他说微软创建了一个 AI 测试工具，它将获取代码（无论是否由 AI 生成）、搜索漏洞、修复它们，然后提供所有更改的概述。我认为在纸面上听起来很棒，但我们仍然需要验证它是否正确地完成了工作。 然后他看着我说“为什么我们需要验证未来模型是否会变得更好。”我只是不确定开发者将在这个世界上占据什么位置。”  但是我想回到最初的测试工具，AI检查漏洞仍然需要代码，所以如果它是由AI生成的，那不是就像检查自己的作业一样，对吗？然后我们不考虑资源成本，在接下来的几十年里（我们希望）资源成本会变得更好，以容纳更好的模型，但它真的具有人类水平的推理能力吗？对于任何拥有科技业务或投资数百万美元的人来说，这整个过程在纸面上听起来不错，但当你实际使用一点非人工智能影响的脑力时，我可以想到很多事情都出了问题。  将业务技术/IT 预算运行的代币成本为零，生产会破坏错误，然后不存在的开发人员不知道代码的作用，然后 IAC 不正确可能绝对会破坏自动扩展，并在没有这种级别的验证和微调的情况下慢慢增加成本。  这个社区怎么想？  就我个人而言......我认为我的叔叔正在人工智能过度炒作的火车上。 编辑：我还想说它确实对他说了大部分内容，他说得很好，为什么你要正确计划并需要创建一个具有特定规则和边缘情况的极其详细的提示，以便它捕获所有内容......这对我来说听起来就像用简单的英语编码！但错误更多，成本更高！   由   提交/u/paddockson  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tlltsb/i_dont_get_the_ai_will_replace_devs_angle/</guid>
-      <pubDate>Sat, 23 May 2026 16:57:20 GMT</pubDate>
     </item>
     <item>
       <title>热门但正确的观点——确定性过程将永远击败人工智能/神经网络</title>
