@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 25 May 2026 17:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 19:13:24 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个开源 AI Agent Harness。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tngfz7/i_built_an_open_source_ai_agent_harness/</link>
+      <description><![CDATA[我认为每个使用代理的人都应该知道harness是如何工作的，而且它们确实是编排消息上下文的非常简单的工具。 之前我实现了用于工具调用的有效负载解析的遗留方法。 后来添加了现代风格的函数工具调用。在这个项目中学到了很多东西。 此外，如果您授予任何类型的写入权限，aiharness 中就没有这样的安全层。 控制每个写入或 bash 命令是一种空闲方法，或者更好的方法是仅使用沙盒用户或容器。但YOLO模式在沙盒环境中感觉很棒。 易于理解JS代码。 https://github.com/uditrajput03/uai-agent   由   提交/u/Usecurity  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tngfz7/i_built_an_open_source_ai_agent_harness/</guid>
+      <pubDate>Mon, 25 May 2026 17:47:52 GMT</pubDate>
+    </item>
     <item>
       <title>寻找音频劫持的替代方案，用于在 Mac 上录制电话/FaceTime 通话（最好是免费/开源）</title>
       <link>https://www.reddit.com/r/opensource/comments/1tnec4t/looking_for_alternatives_to_audio_hijack_for/</link>
-      <description><![CDATA[Hi everyone, I&#39;m looking for a way to automatically record my Phone and FaceTime calls on my MacBook.我了解音频劫持，但它现在对我的需求来说相当昂贵。 我需要什么： - 记录通话双方（我的麦克风 + 对方的音频） - 通话开始时自动录音（或至少易于开始/停止） - 保存到我的 Mac 上的特定文件夹 理想情况下免费或开源 问题： 是有没有音频劫持的免费或开源替代品可以做到这一点？ 有人知道可以自动录制电话/FaceTime 通话的 GitHub 项目或脚本吗？ 有没有办法结合 BlackHole（虚拟音频驱动程序）+ ffmpeg/OBS 来实现这一点自动化？   由   提交 /u/Foxtor   [链接] [comments]]]></description>
+      <description><![CDATA[大家好， 我正在寻找一种在 MacBook 上自动录制电话和 FaceTime 通话的方法。我了解音频劫持，但它现在对我的需求来说相当昂贵。 我需要什么： - 记录通话双方（我的麦克风 + 对方的音频） - 通话开始时自动录音（或至少易于开始/停止） - 保存到我的 Mac 上的特定文件夹 理想情况下免费或开源 问题： 是有没有音频劫持的免费或开源替代品可以做到这一点？ 有人知道可以自动录制电话/FaceTime 通话的 GitHub 项目或脚本吗？ 有没有办法结合 BlackHole（虚拟音频驱动程序）+ ffmpeg/OBS 来实现这一点自动化？   由   提交 /u/Foxtor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tnec4t/looking_for_alternatives_to_audio_hijack_for/</guid>
       <pubDate>Mon, 25 May 2026 16:33:05 GMT</pubDate>
     </item>
@@ -18,13 +25,6 @@
       <description><![CDATA[      我构建这个项目已经有一段时间了（超过两年半），v0.4.0 对我来说感觉像是一个重要的里程碑，该项目实际上变得足够有用且方便日常使用。 简短的版本：它是一个自托管应用程序，利用您的 GPU 来了解您真正喜欢的内容。你将它指向你的音乐、图像、视频或文档，对其中一些进行评分，它会训练一个小模型来预测你的品味，并对其他所有内容进行相应的排序。一切都是本地的，没有任何东西离开你的机器。 这个版本对我来说特别的地方在于，许多粗糙的基础设施工作终于整合在一起了。 ML 模型现在在独立的子进程中运行，因此应用程序在空闲时不再占用您的 VRAM。有一个适当的后台作业系统，可以随着时间的推移自动对您的文件进行评级和描述，因此当您浏览到文件夹时，事情已经被描述和评估了。 还有一个新的外部模块系统，其中有两个实验性模块已经可用：一个用于索引和搜索网站，另一个用于将 YouTube 视为媒体源，同时保持推荐本地化。 该项目仍然有一些粗糙的地方，特别是在视频支持和低端硬件上的描述生成速度方面。但与一两年前相比，这是一次真正不同的体验。 如果这听起来很有趣，它完全通过 Docker 运行，因此设置只需使用文件夹路径编辑 yaml 文件即可。如果有人有任何关于该项目的问题，我很乐意回答。   由   提交 /u/Another__one   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tn3oyz/new_stable_release_v040_of_anagnorisis_local/</guid>
       <pubDate>Mon, 25 May 2026 09:11:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了 Teams，所以我构建了自己的 Teams</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tn31vr/i_got_tired_of_teams_so_i_built_my_own/</link>
-      <description><![CDATA[大约 9 个月前，我休息了一天，并在 Teams 中经历了太多糟糕的经历。电话掉线、更新导致我的电脑崩溃，而且有一天，我的电脑被强制喂食，经历了太多次的糟糕经历。所以我回家开始建立自己的。 现在这已经变成了利润。一个开源的、端到端加密的团队沟通平台。全部在欧洲托管，不依赖美国基础设施（目前很流行）。不一定是因为意识形态，而是因为每个欧洲组织都在谈论 GDPR 和数字主权，然后无论如何都通过 Microsoft 来管理一切，这感觉很奇怪。 在建立它的同时，还有一份全职工作和两个孩子。它的边缘很粗糙，但它可以工作，而且我刚刚进入公开测试版。 关于技术，我在 Spring Boot + Java 25 中构建了整个后端，并使用嵌入式 Netty 服务器直接处理 WebSocket 层，而不是通过 Spring 的 WebSocket 抽象。主要原因是控制，因为 Netty 直接为您提供事件循环，这在您同时处理实时消息传递和调用时很重要。代价是 Netty 是一个普通的 Java 类，而不是 Spring bean，因此您会失去处理程序中的自动依赖注入。尝试使用基于处理器的策略模式来解决这个问题，其中每个 WebSocket 消息类型都是其自己的 Spring 组件，在启动时自动发现，在运行时通过映射查找进行分派。 早期让我困扰的一件事是在 Netty 事件循环线程上运行的 hibernate。阻止事件循环上的数据库调用将绑架线程并备份其后面的所有内容。通过将所有处理器调用卸载到专用执行器池并让 Netty 异步处理写回来修复。 桌面/Web 客户端是 Svelte + Electron。 1 对 1 呼叫是 P2P，通道呼叫（群组呼叫）通过 mediasoup SFU 处理。直接消息的端到端加密。 该应用程序目前由我托管和维护。从技术上讲，自行托管它是可行的，但有点乏味，所以我想添加专用脚本和文档，以便将来自行托管它。 代码：https://codeberg.org/margin 尝试一下：https://margin.chat 很高兴讨论任何架构决策。   由   提交/u/monsieur_ramboz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tn31vr/i_got_tired_of_teams_so_i_built_my_own/</guid>
-      <pubDate>Mon, 25 May 2026 08:36:03 GMT</pubDate>
     </item>
     <item>
       <title>停止流式减价。尝试使用 HTML 作为 LLM 的响应格式</title>
@@ -43,7 +43,7 @@
     <item>
       <title>PyIcon Editor 和 Creator 制作 .ico 和 .icns 文件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1tmkxa7/pyicon_editor_and_creator_makes_ico_and_icns_files/</link>
-      <description><![CDATA[      这是我组装的一个基于 Python 的图标编辑器。 加载现有图像（PNG、JPG、BMP、GIF、TIFF、WebP、ICO） 保存：将当前复合画布另存为平面 PNG 导出 ICO：导出多分辨率 Windows带预览的图标 导出 ICNS：使用基于 Pillow 的 .icnsexport 导出 macOS 图标 我目前正在添加应用程序和 exe 支持，以便它可以从应用程序或程序中获取图标集。欢迎任何其他想法或改进以及任何拉取请求。    由   提交/u/Sniper666hell   [link] [评论] ]]></description>
+      <description><![CDATA[      这是我组装的一个基于 Python 的图标编辑器。 加载现有图像（PNG、JPG、BMP、GIF、TIFF、WebP、ICO） 保存：将当前复合画布另存为平面 PNG 导出 ICO：导出多分辨率 Windows带预览的图标 导出 ICNS：使用基于 Pillow 的 .icnsexport 导出 macOS 图标 我目前正在添加应用程序和 exe 支持，以便它可以从应用程序或程序中获取图标集。欢迎任何其他想法或改进以及任何拉取请求。    由   提交/u/Sniper666hell   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tmkxa7/pyicon_editor_and_creator_makes_ico_and_icns_files/</guid>
       <pubDate>Sun, 24 May 2026 18:58:07 GMT</pubDate>
     </item>
