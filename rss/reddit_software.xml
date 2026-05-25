@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 25 May 2026 06:59:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 12:17:37 GMT</lastBuildDate>
+    <item>
+      <title>昂贵软件的免费替代品？</title>
+      <link>https://www.reddit.com/r/software/comments/1tn6nw4/free_replacements_for_expensive_software/</link>
+      <description><![CDATA[哪一款软件价格昂贵，但有非常相似的免费替代品（无盗版）？  示例： Photoshop -&gt; Photopea  Pikimov -&gt; pikimov.com 该软件非常相似，但后者是免费的并且支持广告。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tn6nw4/free_replacements_for_expensive_software/</guid>
+      <pubDate>Mon, 25 May 2026 11:43:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费获取 Adob​​e pdf</title>
+      <link>https://www.reddit.com/r/software/comments/1tn68cb/get_adobe_pdf_free/</link>
+      <description><![CDATA[ 由   提交 /u/Technical-Cry6856   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tn68cb/get_adobe_pdf_free/</guid>
+      <pubDate>Mon, 25 May 2026 11:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个用于 LAN 消息传递 + 文件共享的 Windows 应用程序 – 寻求反馈</title>
+      <link>https://www.reddit.com/r/software/comments/1tn27dq/built_a_windows_app_for_lan_messaging_file/</link>
+      <description><![CDATA[大家好， 我一直在开发一个名为 WeiP Lite 的 Windows 应用程序 - 一个具有文件共享功能的简单本地网络信使。 在此处下载： [https://apps.microsoft.com/detail/9NDNKVRNL3HP]() 这个想法非常简单： 👉 不需要互联网 👉 在同一个 WiFi / LAN 中工作 👉 快速文件传输 👉 干净、最小的 UI 我构建这个主要是因为现有工具感觉要么过时，要么太笨重，无法快速进行本地通信。 💡 功能： ✔ 本地网络消息传递 ✔ 拖放删除文件共享 ✔ 文件历史记录跟踪 ✔ 通知和通知快速回复 ✔ 轻量级且快速 我非常感谢任何反馈，尤其是有关 UI、功能或性能的反馈。 在此处下载： [https://apps.microsoft.com/detail/9NDNKVRNL3HP]() 谢谢！   由   提交 /u/Impossible_Road6431   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tn27dq/built_a_windows_app_for_lan_messaging_file/</guid>
+      <pubDate>Mon, 25 May 2026 07:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>ERP软件建议需求。</title>
+      <link>https://www.reddit.com/r/software/comments/1tn1ce9/erp_software_suggestion_need/</link>
+      <description><![CDATA[我们的一个新客户拥有服装厂业务，营业额约为 30Cr 卢比，出口业务占 70%。 他们正在寻找优秀的 ERP 软件，以便在一个地方处理所有事务：  查询到交货 生产 库存 账户 财务 人力资源/薪资  已经在服装/出口业务中使用 ERP 的人们有什么实用建议吗？ 请在此处分享 ERP 软件名称。  谢谢   由   提交 /u/According_Board_7401   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tn1ce9/erp_software_suggestion_need/</guid>
+      <pubDate>Mon, 25 May 2026 07:03:30 GMT</pubDate>
+    </item>
     <item>
       <title>Windows 10 上的 LDAC 通过 WSL2</title>
       <link>https://www.reddit.com/r/software/comments/1tmx312/ldac_on_windows_10_via_wsl2/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>构建了一个开源 Postman 替代方案，可与您的后端自动同步 + 自动测试您的端点的 AI 代理 - 寻找反馈</title>
       <link>https://www.reddit.com/r/software/comments/1tmnupr/built_an_open_source_postman_alternative_that/</link>
-      <description><![CDATA[嘿， 我对同样的工作流程问题感到沮丧一段时间，并决定构建一些东西。 问题： ``` 后端完成一个新端点 → 通过 Slack 告诉前端 → 前端手动将其复制到 Postman → 身份验证失败→ 再次询问后端 → 端点第二天发生变化→ 没有人通知 → 事情发生了→ 责任开始 ``` 我交谈过的每个团队都有这个。 Postman、Bruno、Insomnia、Hopscotch — 都需要您手动维护集合。后端发生变化。该工具不知道。 所以我正在构建 **Agrzam** - 一个开源协作 API 工作区，通过 OpenAPI 自动与您的后端同步。 工作原理： - 安装一个软件包：`@agrzam/apiwatch` - 运行一次 `agrzam connect` 进行身份验证 - 运行 `agrzam link` 将您的存储库连接到项目 - 包会自动监视服务器上的 OpenAPI JSON 启动 - 您的工作区在您编写代码时实时更新 - 准备好与团队成员共享时运行 `agrzam Push` 在工作区内进行测试的三种方法： **快速** — 一键点击，立即完成 GET 端点。无需设置。 **手动** — 粘贴您的令牌，编辑有效负载，然后发送。与 Postman 类似，但在整个团队实时共享的工作空间内。 **Vibe Test** - 这是有趣的。你知道振动编码吗？相同的想法，但用于 API 测试。你什么也没碰。向 AI 提供您的身份验证令牌，它会读取您的 OpenAPI 架构，生成有效负载，发送请求，读取响应，并准确告诉您通过的内容和原因。你只要看着。没有编写 JSON。无需手动设置。只是结果。 将其视为一个人工智能代理，可以像 QA 工程师一样自动、彻底地测试您的端点，而无需您解释任何内容。 可与任何生成 OpenAPI 的框架配合使用：NestJS、Express、FastAPI、Django、Laravel、Rails、Spring Boot。 还构建一个 Electron 桌面应用程序，使其像 Postman 一样离线工作。 目前处于架构验证阶段 - 无代码还没写。在开始之前寻求诚实的反馈。 **三个问题：**  本地优先模型（私下测试，准备好后推送）实际上有用还是只是额外的摩擦？ 自动 OpenAPI 同步会实时节省您的时间吗？ 您实际上会使用 Vibe Test 还是更喜欢完全手动控制？  具有完整架构的仓库：github.com/MrAboubakr/agrzam 欢迎严厉的反馈 - 我宁愿现在知道出了什么问题，也不愿在构建 6 个月后才知道。   由   提交/u/agh_98  [链接] [评论]]]></description>
+      <description><![CDATA[嘿， 我对同样的工作流程问题感到沮丧一段时间，并决定构建一些东西。 问题： ``` 后端完成一个新端点 → 通过 Slack 告诉前端 → 前端手动将其复制到 Postman → 身份验证失败→ 再次询问后端 → 端点第二天发生变化→ 没有人通知 → 事情发生了→ 责任开始 ``` 我交谈过的每个团队都有这个。 Postman、Bruno、Insomnia、Hopscotch — 都需要您手动维护集合。后端发生变化。该工具不知道。 所以我正在构建 **Agrzam** - 一个开源协作 API 工作区，通过 OpenAPI 自动与您的后端同步。 工作原理： - 安装一个软件包：`@agrzam/apiwatch` - 运行一次 `agrzam connect` 进行身份验证 - 运行 `agrzam link` 将您的存储库连接到项目 - 包会自动监视服务器上的 OpenAPI JSON 启动 - 您的工作区在您编写代码时实时更新 - 准备好与团队成员共享时运行 `agrzam Push` 在工作区内进行测试的三种方法： **快速** — 一键点击，立即完成 GET 端点。无需设置。 **手动** — 粘贴您的令牌，编辑有效负载，然后发送。与 Postman 类似，但在整个团队实时共享的工作空间内。 **Vibe Test** - 这是有趣的。你知道氛围编码吗？相同的想法，但用于 API 测试。你什么也没碰。向 AI 提供您的身份验证令牌，它会读取您的 OpenAPI 架构，生成有效负载，发送请求，读取响应，并准确告诉您通过的内容和原因。你只要看着。没有编写 JSON。无需手动设置。只是结果。 将其视为一个人工智能代理，可以像 QA 工程师一样自动、彻底地测试您的端点，而无需您解释任何内容。 可与任何生成 OpenAPI 的框架配合使用：NestJS、Express、FastAPI、Django、Laravel、Rails、Spring Boot。 还构建一个 Electron 桌面应用程序，使其像 Postman 一样离线工作。 目前处于架构验证阶段 - 无代码还没写。在开始之前寻求诚实的反馈。 **三个问题：**  本地优先模型（私下测试，准备好后推送）实际上有用还是只是额外的摩擦？ 自动 OpenAPI 同步会实时节省您的时间吗？ 您实际上会使用 Vibe Test 还是更喜欢完全手动控制？  具有完整架构的仓库：github.com/MrAboubakr/agrzam 欢迎严厉的反馈 - 我宁愿现在知道出了什么问题，也不愿在构建 6 个月后才知道。   由   提交/u/agh_98  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tmnupr/built_an_open_source_postman_alternative_that/</guid>
       <pubDate>Sun, 24 May 2026 20:50:18 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[所以我一直在做一个项目，我希望 AI AGENT IDE 可以连接到它，所以我尝试了 MCP（模型上下文协议），但我在过去的 10 多个小时里一直在尝试，但它不起作用。我尝试了 HTTP、SSE 和 STDIO，但没有任何效果。 IDE 无法向我的后端发送 cmd，我的后端也无法读取它或任何内容。我的应用程序在本地主机上启动，因此我将其添加到 MCP 配置文件中，但 IDE 仍然无法连接到我的后端或我的后端连接到 IDE。如果有人使用过 MCP，我将非常感谢您的帮助。 提前谢谢您。   由   提交/u/Disastrous_Donut_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tmiupo/how_to_make_mcp/</guid>
       <pubDate>Sun, 24 May 2026 17:42:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全字幕生成（无人工智能）</title>
-      <link>https://www.reddit.com/r/software/comments/1tmhgx4/secure_subtitle_generation_no_ai/</link>
-      <description><![CDATA[嗨，我正在寻找一种软件来转录我制作的大约一个小时的视频，最好是能够识别不同发言者的软件。我正在寻找一款能够生成与 YouTube 字幕功能兼容的文件的软件。 我发现的大多数字幕生成软件都使用某种人工智能，而且我知道这在当今时代是不可避免的，但我正在寻找一款至少不会使用我的视频进行人工智能训练的软件。 如果需要的话，我不介意花一点钱来转录视频。不错。   由   提交 /u/Haandotexe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tmhgx4/secure_subtitle_generation_no_ai/</guid>
-      <pubDate>Sun, 24 May 2026 16:51:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我无法连接到远程桌面</title>
-      <link>https://www.reddit.com/r/software/comments/1tmh1ly/why_i_cant_connect_to_remote_desktop/</link>
-      <description><![CDATA[我正在尝试使用 RDP 或 Windows 附带的远程桌面连接到远程桌面，并且不断弹出此错误，但我不知道为什么在我可以连接之前会出现这种情况。请有人帮助我  https://preview.redd.it/ss5n4nvc443h1.png?width=1858&amp;format=png&amp;auto=webp&amp;s=163cb1cc1ae5ed3b4e8394f05ab7421d3174589b 错误翻译：这台计算机允许的连接数受到限制；所有连接当前都在使用中。请稍后尝试连接或联系您的系统管理员。   由   提交 /u/arsenitoooo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tmh1ly/why_i_cant_connect_to_remote_desktop/</guid>
-      <pubDate>Sun, 24 May 2026 16:35:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>升级旧视频的最佳程序</title>
-      <link>https://www.reddit.com/r/software/comments/1tmerek/best_program_to_upscale_old_videos/</link>
-      <description><![CDATA[我有一堆旧视频，这些视频是在高清真正出现之前制作的。有没有一个程序可以使用AI来放大以获得更好的图片？   由   提交 /u/sporkedit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tmerek/best_program_to_upscale_old_videos/</guid>
-      <pubDate>Sun, 24 May 2026 15:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于任何使用 ChatGPT Codex (GUI) 的人，请勿更新应用程序...</title>
-      <link>https://www.reddit.com/r/software/comments/1tme7ot/for_anyone_using_chatgpt_codex_gui_dont_update/</link>
-      <description><![CDATA[感觉每次更新应用程序时都会出现问题。这次，目标已经实现了一半，代理不断询问我何时我的配置允许在不询问我的情况下执行某些操作，我所有的子代理都回来了（现在我有 100 个东西）并且应用程序变慢了。 我再也不会更新它了。或者这对你们中的任何人来说也是一个问题吗？ 此时，我可能会切换到 CLI。   由   提交/u/BritishDudeGuy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tme7ot/for_anyone_using_chatgpt_codex_gui_dont_update/</guid>
-      <pubDate>Sun, 24 May 2026 14:48:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
