@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 25 May 2026 22:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 01:54:32 GMT</lastBuildDate>
+    <item>
+      <title>用于对丑陋的网络应用程序页面进行完全视觉重新设计的最佳人工智能工具？ （无需代码）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tns2j2/best_ai_tool_for_complete_visual_redesigns_of/</link>
+      <description><![CDATA[大家好， 我正在开发一个 Web 应用程序，它的 UI/仪表板相当过时且丑陋，我正在寻找一个 AI 工具来帮助我集思广益，进行一次完整的视觉检修。我是一名开发人员，但通常在 UI 设计的创意方面遇到困难。 需要明确的是：我根本不关心生成干净代码甚至代码的工具。我真的只是想要一个视觉游乐场，在那里我可以上传当前不良页面的屏幕截图，上传 2 或 3 个我喜欢的高级 UI 灵感的屏幕截图，并告诉 AI 提出一些高保真和专业的东西，这样我就可以获得新的布局想法。 我一直在研究一些选项，例如 Galileo AI、Aura Build 和 UX Pilot，但我想看看这里是否有人使用它们来完成这个特定的屏幕截图来重新设计工作流程？他们是否真的擅长提出高质量的现代外观设计，还是只是吐出通用的外观模板？ 也愿意接受任何其他工具推荐或创意工作流程。感谢任何建议！   由   提交 /u/Purple_Secret_8388   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tns2j2/best_ai_tool_for_complete_visual_redesigns_of/</guid>
+      <pubDate>Tue, 26 May 2026 01:22:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对人工智能时代的站点地图持什么立场</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tnp0y5/whats_your_stance_on_sitemaps_in_the_ai_era/</link>
+      <description><![CDATA[在前人工智能时代，通常你只需要担心搜索引擎和偶尔的抓取工具访问你的站点地图，但如今，世界上每家人工智能公司都在攻击所有网站。大家对此有何回应？您是否仍然像以前一样在机器人中引用站点地图，通过直接向搜索引擎提交站点地图或完全跳过它们来降低可见性？ 我的站点数据量很大，我正在尝试评估我的选项，以免使其太容易抓取。看看像 imdb 这样的较大网站，他们似乎没有公共站点地图   由   提交 /u/Mediocre-Subject4867   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tnp0y5/whats_your_stance_on_sitemaps_in_the_ai_era/</guid>
+      <pubDate>Mon, 25 May 2026 23:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>可输入文本中的连字问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tnowj7/ligature_in_typeable_text_problem/</link>
+      <description><![CDATA[      嗨！我对使用 html/css 编码相对较新，并且有一个我真的不明白的问题...我尝试为具有特定字形和连字的字体制作一个网络样本，我希望用户能够尝试并键入它们。我尝试使用输入“文本”和一个&lt;p&gt;内容可编辑，问题保持不变：当我在网页中输入时，连字无法正确显示，但当我调整页面大小时，它们是好的。  这真的很奇怪，因为直接在 html 中输入时连字工作得很好，而不是在 chrome 上的输入文本中输入，而且第一个“层”也有效。连字正常工作。我有第一组字形，通过添加 - 和另一个符号（*、&amp;、# 或 %）组成，然后您可以将它们相邻键入以创建“连字”字形。这些新字形的版本。第二步是唯一不起作用的一步。  我尝试改变字母之间的距离，启用 rlig （也许我做错了？），我基本上不知道问题是什么。您可以在照片中看到它：第一张图片是占位符，您可以在其中看到工作连字，第二张图片是我输入后的，不工作，第三张图片是调整大小后，工作的。我还将我的代码放在图片中！我的字体是 woff2，但 otf 也有同样的问题。  我很乐意感谢任何答案:)    由   提交/u/OkBottle5047   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tnowj7/ligature_in_typeable_text_problem/</guid>
+      <pubDate>Mon, 25 May 2026 23:05:49 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道故意做坏的项目吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tnjroj/anybody_knows_of_intentionally_bad_projects/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tn6e3f/edgejs_running_node_apps_inside_a_webassembly/</guid>
       <pubDate>Mon, 25 May 2026 11:30:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 Next.js 16 代理 + NextAuth 作斗争</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tn481q/struggling_with_nextjs_16_proxy_nextauth/</link>
-      <description><![CDATA[错误：身份验证不是函数，重定向不起作用 嘿伙计们， 几天来我一直在努力反对这个问题。我正在尝试使用 NextAuth v5 的新 proxy.ts 约定来保护 Next.js 15 项目中的 /dashboard 路由。 我的设置：  site/auth/auth.ts → export const { handlers, auth, signIn, signOut } = NextAuth(authConfig) site/app/api/auth/[...nextauth]/route.ts → 重新导出 handlers site/proxy.ts → 应该用 auth((req) =&gt; { … })  但是当我运行时它，我不断收到： Code TypeError: {imported module ./auth/auth.ts}.auth is not a function  即使当我尝试简化时，Next.js 也会抱怨： Code 代理文件“/proxy”必须导出名为“proxy”的函数或默认函数。  我尝试过： 重命名 middleware.ts → proxy.ts 双重检查相对导入 (../../../auth/auth) 确保 authConfig 具有提供程序和会话策略 仍然卡住。重定向永远不会触发，/dashboard 只是正常加载。 有人用 Next.js 15 + NextAuth v5 解决了这个问题吗？我是否需要放弃 auth() 并只使用我自己的 JWT cookie 代理？任何可行的示例都是救星。   由   提交 /u/Ok_Efficiency_1116   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tn481q/struggling_with_nextjs_16_proxy_nextauth/</guid>
-      <pubDate>Mon, 25 May 2026 09:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在Wordpress中拉伸内容栏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tn37c8/how_to_stretch_content_bar_in_wordpress/</link>
-      <description><![CDATA[      我正在使用生成新闻并设置了一个基本的网站模板，内容栏的内部进行了振动编码。  这只是出于爱好。 我正在考虑通过后端/前端代码开发网站，并放弃 wordpress.org，因为它有点挑剔。 这意味着对网站进行振动编码，这可能会影响速度。   由   提交/u/neonrider2018   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tn37c8/how_to_stretch_content_bar_in_wordpress/</guid>
-      <pubDate>Mon, 25 May 2026 08:44:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>FB/Meta Messenger 集成到网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tn2obe/fbmeta_messenger_integration_to_website/</link>
-      <description><![CDATA[您好！我需要探索如何使用 Messenger 作为我网站中的主要聊天功能。 因此，目前，我们正在为我们的页面充分利用业务 AI，而且效果一直很好。我希望它也可以在我的网站上使用。有没有一种服务可以实现这一点？ 也许是一个 WordPress 插件？或者任何允许我的页面的 Messenger（带有 Business AI）集成到我的网站的第三方系统。 成本不是问题。   由   提交/u/SameConsideration403  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tn2obe/fbmeta_messenger_integration_to_website/</guid>
-      <pubDate>Mon, 25 May 2026 08:15:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
