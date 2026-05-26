@@ -4,21 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 26 May 2026 19:53:17 GMT</lastBuildDate>
-    <item>
-      <title>法拉利卢斯</title>
-      <link>https://www.producthunt.com/products/ferrari-luce-2</link>
-      <description><![CDATA[
-            LoveFrom 设计的第一辆电动法拉利
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ferrari-luce-2</guid>
-      <pubDate>Tue, 26 May 2026 03:59:54 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 26 May 2026 22:18:14 GMT</lastBuildDate>
     <item>
       <title>迷你CPM5-1B</title>
       <link>https://www.producthunt.com/products/minicpm-4-0</link>
@@ -76,32 +62,18 @@
       <pubDate>Mon, 25 May 2026 13:46:46 GMT</pubDate>
     </item>
     <item>
-      <title>奥梅多</title>
-      <link>https://www.producthunt.com/products/ormedo</link>
+      <title>marpy.io</title>
+      <link>https://www.producthunt.com/products/marpy-io-python-first-ai-dev-platform</link>
       <description><![CDATA[
-            让 AI 代理处理您的整个出站管道
+            专为 Python 堆栈构建的 AI 编码平台
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ormedo</guid>
-      <pubDate>Mon, 25 May 2026 07:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>喜欢脉冲</title>
-      <link>https://www.producthunt.com/products/likepulse</link>
-      <description><![CDATA[
-            立即准确了解 YouTube 观众的反应
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/likepulse</guid>
-      <pubDate>Sun, 24 May 2026 08:05:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/marpy-io-python-first-ai-dev-platform</guid>
+      <pubDate>Sun, 24 May 2026 17:10:41 GMT</pubDate>
     </item>
     <item>
       <title>柳抄写员</title>
@@ -132,32 +104,46 @@
       <pubDate>Fri, 22 May 2026 21:59:32 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能影子</title>
-      <link>https://www.producthunt.com/products/ai-shadowing</link>
+      <title>区块数据3.0</title>
+      <link>https://www.producthunt.com/products/blokdots</link>
       <description><![CDATA[
-            将任何 YouTube 视频变成语言影子课程
+            直观地制作硬件原型，导出真正的 C++ 进行工程
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ai-shadowing</guid>
-      <pubDate>Fri, 22 May 2026 15:07:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/blokdots</guid>
+      <pubDate>Wed, 20 May 2026 17:07:27 GMT</pubDate>
     </item>
     <item>
-      <title>保留</title>
-      <link>https://www.producthunt.com/products/kept-ai-on-your-local-conversations</link>
+      <title>共振</title>
+      <link>https://www.producthunt.com/products/portia-ai</link>
       <description><![CDATA[
-            您的 AI 聊天内容在本地保存为 Markdown，无需云端
+            讨论、规格、交付：将您的产品创意投入生产
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/kept-ai-on-your-local-conversations</guid>
-      <pubDate>Tue, 19 May 2026 08:56:23 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/portia-ai</guid>
+      <pubDate>Tue, 19 May 2026 21:21:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AVTR-1 实时开放权重模型</title>
+      <link>https://www.producthunt.com/products/avaturn-live-2</link>
+      <description><![CDATA[
+            生成不可思议的人工智能头像现已开源 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/avaturn-live-2</guid>
+      <pubDate>Tue, 19 May 2026 13:03:20 GMT</pubDate>
     </item>
     <item>
       <title>DNS简单CLI</title>
@@ -174,6 +160,20 @@
       <pubDate>Mon, 18 May 2026 20:44:39 GMT</pubDate>
     </item>
     <item>
+      <title>克伦尔</title>
+      <link>https://www.producthunt.com/products/crunr-run-it-ghost-it</link>
+      <description><![CDATA[
+            使用 1 个命令在 AWS 上启动并运行任何计算作业
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/crunr-run-it-ghost-it</guid>
+      <pubDate>Mon, 18 May 2026 18:09:54 GMT</pubDate>
+    </item>
+    <item>
       <title>酿造</title>
       <link>https://www.producthunt.com/products/brew-5</link>
       <description><![CDATA[
@@ -188,18 +188,18 @@
       <pubDate>Mon, 18 May 2026 13:20:56 GMT</pubDate>
     </item>
     <item>
-      <title>海莉</title>
-      <link>https://www.producthunt.com/products/hayley-your-thinking-companion</link>
+      <title>泰塞拉克</title>
+      <link>https://www.producthunt.com/products/tesserac</link>
       <description><![CDATA[
-            分享您的想法并深入了解思维模式
+            macOS 上 Cmd+Tab 的空间替代方案
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hayley-your-thinking-companion</guid>
-      <pubDate>Tue, 12 May 2026 15:30:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/tesserac</guid>
+      <pubDate>Thu, 14 May 2026 15:10:05 GMT</pubDate>
     </item>
     <item>
       <title>纽带</title>
