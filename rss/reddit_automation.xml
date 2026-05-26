@@ -4,7 +4,35 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 26 May 2026 14:29:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 17:49:35 GMT</lastBuildDate>
+    <item>
+      <title>AI记忆并没有被破坏。这只是永久的乐观。</title>
+      <link>https://www.reddit.com/r/automation/comments/1tocvgb/ai_memory_isnt_broken_its_just_permanently/</link>
+      <description><![CDATA[它假设存储的所有内容稍后仍然重要。 这一设计选择就是为什么大多数智能体随着时间的推移慢慢变成自信的噪音。   由   提交/u/riddlemewhat2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tocvgb/ai_memory_isnt_broken_its_just_permanently/</guid>
+      <pubDate>Tue, 26 May 2026 16:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实现 Web+Excel+AI 的自动化？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tobs0u/how_can_i_automate_webexcelai/</link>
+      <description><![CDATA[我有商业背景。我没有 Agentic AI、自动化或编码方面的经验。所以，我想知道如何实现 Web+Excel+AI 的自动化，以及需要哪些技能来实现这一点，例如编码或 n8n。 这就是我的工作流程：  自动从 Web 中提取 PDF，并将文件中给出的数据转换为 Excel 创建一个 AI，它充当自动化的大脑，并执行我想让它们执行的操作，例如求和，将不同的公式和函数按照要求。  这是基本工作流程。那么，请告诉我如何做到这一点以及我需要学习哪些技能（VBA、Python、Power Query）以及我应该使用哪种自动化工具来完成上述操作，例如 MS Power Automate？给我一个路线图，告诉我应该从哪里开始我的技术技能。如果您可以提供播放列表的视频链接，这将是一个加分。 感谢您的帮助提前！   由   提交 /u/Stunning_Capital_354   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tobs0u/how_can_i_automate_webexcelai/</guid>
+      <pubDate>Tue, 26 May 2026 16:17:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>AutoRewarder v3.3 is here!现在具有系统托盘支持、扩展点收集和新的自动化模式。</title>
+      <link>https://www.reddit.com/r/automation/comments/1tob543/autorewarder_v33_is_here_now_with_system_tray/</link>
+      <description><![CDATA[      大家好！ 首先，感谢您对之前版本的支持。 AutoRewarder 已在 GitHub 上获得+1.4k 下载量和+127 颗星 几天前，AutoRewarder v3.3 发布。此版本主要关注生活质量的改进，让您对应用程序有更多的控制权，并帮助您获得更多积分。 v3.3 中的新增功能：  扩展积分收集： 机器人现在可以处理“更多活动”部分，自动捕获之前被忽略的 15-20 张额外赚取积分的卡片。 系统托盘和系统托盘停止按钮：应用程序现在可以优雅地最小化到系统托盘。我们还添加了一个“停止”按钮，可以安全地中断运行，而不会在后台留下隐藏的浏览器进程。 高级调度和优化新模式：您现在可以在指定的时间内进行手动 GUI 搜索。如果您想在不执行 Bing 搜索的情况下处理卡片，还有一个新的“仅限每日任务”模式。 更智能的自动化：改进的完成检测以消除“一切都已完成”的情况。误报，并修复了无提示点击，以便在点击之前正确滚动到屏幕外的卡片。 在引擎盖下和文档：为开发人员提供更好的诊断日志记录、扩展的文档和预提交挂钩。  该项目仍然 100% 开源。 GitHub 上的更多信息、屏幕截图、演示和代码： repo:safarsin/AutoRewarder 我很乐意听到您的反馈、错误报告或对下一次更新的想法！   由   提交/u/18safarov  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tob543/autorewarder_v33_is_here_now_with_system_tray/</guid>
+      <pubDate>Tue, 26 May 2026 15:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我询问了 7 位创始人，为什么他们的自动化工作流程失败了</title>
+      <link>https://www.reddit.com/r/automation/comments/1toaftw/i_asked_7_founders_why_their_automation_workflows/</link>
+      <description><![CDATA[没有人责怪工具。 每个人都说： “步骤太多。” 人们并不讨厌自动化。 他们讨厌伪装成生产力的复杂性。   由   提交 /u/WillingnessOk4667   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1toaftw/i_asked_7_founders_why_their_automation_workflows/</guid>
+      <pubDate>Tue, 26 May 2026 15:31:30 GMT</pubDate>
+    </item>
     <item>
       <title>解雇了我的代笔作家并用人工智能工具取代了他，而成本只是一小部分，现在我不确定这是正确的选择</title>
       <link>https://www.reddit.com/r/automation/comments/1to8clh/fired_my_ghostwriter_and_replaced_him_with_an_ai/</link>
@@ -69,20 +97,6 @@
       <pubDate>Mon, 25 May 2026 21:18:03 GMT</pubDate>
     </item>
     <item>
-      <title>除了自动化工具本身之外，您还使用哪些工具向客户交付完成的自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1tnkv9j/what_tools_do_you_use_to_deliver_a_finished/</link>
-      <description><![CDATA[好奇经常这样做的人的切换（维护）堆栈是什么样的。不是构建工具，而是之后的一切。文档、演练、发票、持续的沟通。 我听说过各种设置，从电子邮件线程到带有 Loom 录音、Notion 文档和独立发票工具的相当复杂的系统。所有这些都是手动拼接在一起的。 每个客户端在交付端实际上运行了多少工具？   由   提交 /u/Still_Dependent_3936   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tnkv9j/what_tools_do_you_use_to_deliver_a_finished/</guid>
-      <pubDate>Mon, 25 May 2026 20:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>防止您的自动化工作流程在 API 中断期间中断</title>
-      <link>https://www.reddit.com/r/automation/comments/1tnittu/preventing_your_automated_workflows_from_breaking/</link>
-      <description><![CDATA[提供商中断现在直接影响生产应用程序。如果没有后备路由，工作流程就会失败，代理会中断，自动化链也会停止运行。我们发现将我们的工作流程绑定到单个提供商会导致严重的单点故障，因此我们集成了 mixroute 来处理我们的编排。现在，如果延迟高峰或提供商失败，请求会自动重新路由并通过备用提供商重试。工作流程继续进行，不会出现应用程序级故障。您的自动化后备策略是什么？   由   提交/u/IllAd3302  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tnittu/preventing_your_automated_workflows_from_breaking/</guid>
-      <pubDate>Mon, 25 May 2026 19:12:29 GMT</pubDate>
-    </item>
-    <item>
       <title>建立自动化构建者社区。</title>
       <link>https://www.reddit.com/r/automation/comments/1tnhka6/making_a_community_of_automation_builders/</link>
       <description><![CDATA[大家好， 我对自动化领域相当陌生，最近开始使用 Make、Airtable、Tally、Gmail、Slack、AI 工具等工具构建实用的工作流程。 在学习过程中，我意识到一件事：当你有人集思广益、调试问题、分享工作流程想法并讨论如何实际打包和销售这些构建时，自动化变得更加容易 因此，我为自动化构建者创建了一个小型 Discord 社区（给 L1nk 发送消息给我）。 目标很简单：  分享自动化想法 寻求调试帮助 讨论 Make/Zapier/n8n/Airtable/AI 工作流程 展示我们正在构建的内容 谈论客户获取、优惠、定价和投资组合构建 帮助初学者，而不是将空间变成大师的废话  欢迎初学者和经验丰富的构建者。我努力保持实用、尊重和注重价值，没有虚假收入截图，没有垃圾邮件，没有“利用人工智能致富”的炒作。   由   提交 /u/CryptographerOwn4806   [链接] [评论]]]></description>
@@ -95,20 +109,6 @@
       <description><![CDATA[​ 当地的洗车店老板告诉我，大多数顾客来过一次就永远消失了。 所以我建立了一个超级基本的短信和电子邮件提醒系统。 没什么激进的。 只是： - 你的车可能又脏了 - 下雨后续 - 每月会员资格提醒 90天内，重复访问量几乎翻了一番。 车主说了一些有趣的话： “人们不会停止关心清洁汽车。 他们只是会分心。” 这让我很困惑。 很多企业实际上并没有获取问题。 他们有记忆问题。   由   提交/u/SMBowner_  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tn94cr/built_a_reminder_system_for_a_car_wash_and_it/</guid>
       <pubDate>Mon, 25 May 2026 13:25:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化很容易演示。更难信任。</title>
-      <link>https://www.reddit.com/r/automation/comments/1tn7pk8/automation_is_easy_to_demo_harder_to_trust/</link>
-      <description><![CDATA[当一切顺利时，很多自动化看起来都很棒。 干净的输入。 预期的触发。 完美的 API 响应。 没有重复的事件。 没有奇怪的客户消息。 但真正的工作流程很少那么干净。 真正的价值不只是构建运行一次的东西。它正在构建一种在输入混乱、API 变慢或人类在不告诉任何人的情况下更改流程时仍能继续工作的东西。 我开始认为最好的自动化并不是最令人印象深刻的自动化。他们是那些团队不需要照顾的人。 在您见过的自动化中，通常最先出现问题的是什么？   由   提交 /u/Alpertayfur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tn7pk8/automation_is_easy_to_demo_harder_to_trust/</guid>
-      <pubDate>Mon, 25 May 2026 12:28:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我接触过的每家公司都希望人工智能取代员工人数，但没有一家公司会大声说出来</title>
-      <link>https://www.reddit.com/r/automation/comments/1tn05fn/every_company_i_talk_to_wants_ai_to_replace/</link>
-      <description><![CDATA[我为小型团队构建自动化工作流程。主要是潜在客户开发和内容。在过去的一年里，我与创始人和运营经理的对话发生了巨大的变化，几乎很有趣。 曾经是关于效率的。节省时间，减少错误，让人们有时间从事更高价值的工作。现在就直接砍人了。他们显然不会这么说。它总是被描述为重组或重新分配资源或其他一些公司的废话。但当你深入研究他们真正想要构建的东西时，你会发现它是一个可以完成三个人目前正在做的事情的系统。 最疯狂的部分是这些公司发布了博客文章，讲述他们对团队的重视程度。人工智能如何只是赋予员工权力的工具。与此同时，在实际会议中，他们问我，一旦工作流程上线，他们能以多快的速度取消两个角色。 我想我是从业务角度来看的。但是，当每个人都假装发生其他事情时，从内部看到它发生确实令人不安。公司公开表达的内容与私下要求的内容之间的差距不断扩大，但似乎没有人关心。   由   提交 /u/Pristine_Rest_7912   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tn05fn/every_company_i_talk_to_wants_ai_to_replace/</guid>
-      <pubDate>Mon, 25 May 2026 06:01:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
