@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 26 May 2026 06:38:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 14:31:56 GMT</lastBuildDate>
+    <item>
+      <title>Feedbackland v2.2.0：自动将反馈转化为路线图</title>
+      <link>https://www.reddit.com/r/opensource/comments/1to4nbg/feedbackland_v220_automatically_turn_feedback/</link>
+      <description><![CDATA[Feedbackland 是一个免费且 MIT 许可的反馈平台，可以非常轻松地收集和处理用户反馈。我发布了一个新版本，它具有一些很酷的功能，例如能够让人工智能聚合、分析反馈并将其转换为优先的路线图。平台的现场演示此处。   由   提交 /u/Brazilll   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1to4nbg/feedbackland_v220_automatically_turn_feedback/</guid>
+      <pubDate>Tue, 26 May 2026 11:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>BoquilaHUB 0.5：现在包含用于生物声学的 SOTA AI 模型</title>
+      <link>https://www.reddit.com/r/opensource/comments/1to47re/boquilahub_05_now_it_includes_sota_ai_models_for/</link>
+      <description><![CDATA[https://github.com/boquila/boquilahub/releases/tag/v0.5   由   提交/u/PatagonianCowboy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1to47re/boquilahub_05_now_it_includes_sota_ai_models_for/</guid>
+      <pubDate>Tue, 26 May 2026 11:33:07 GMT</pubDate>
+    </item>
     <item>
       <title>自由开源软件魂斗罗大科技</title>
       <link>https://www.reddit.com/r/opensource/comments/1tny9de/foss_contra_big_tech/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[      这是我组装的一个基于 Python 的图标编辑器。 加载现有图像（PNG、JPG、BMP、GIF、TIFF、WebP、ICO） 保存：将当前复合画布另存为平面 PNG 导出 ICO：导出多分辨率 Windows带预览的图标 导出 ICNS：使用基于 Pillow 的 .icnsexport 导出 macOS 图标 我目前正在添加应用程序和 exe 支持，以便它可以从应用程序或程序中获取图标集。欢迎任何其他想法或改进以及任何拉取请求。    由   提交/u/Sniper666hell   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tmkxa7/pyicon_editor_and_creator_makes_ico_and_icns_files/</guid>
       <pubDate>Sun, 24 May 2026 18:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox 和 DuckDuckGo 2026 现在是一个很好的选择</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tm7ud7/firefox_and_duckduckgo_2026_now_it_is_a_great/</link>
-      <description><![CDATA[       由   提交/u/Efficient-Public-551   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tm7ud7/firefox_and_duckduckgo_2026_now_it_is_a_great/</guid>
-      <pubDate>Sun, 24 May 2026 09:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 AGPL 没有 LGPL 版本？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tly02m/why_isnt_there_an_lgpl_version_for_agpl/</link>
-      <description><![CDATA[GPL 许可证有不同版本，从轻量级 Copyleft LGPL 到强 Copyleft AGPL。 但是如果 LGPL 是 GPL 的轻量 Copyleft 版本，为什么没有轻量 Copyleft 版本的 AGPL？   由   提交 /u/Casq-qsaC_178_GAP073   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tly02m/why_isnt_there_an_lgpl_version_for_agpl/</guid>
-      <pubDate>Sun, 24 May 2026 01:21:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
