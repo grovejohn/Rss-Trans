@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 27 May 2026 12:11:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 17:52:03 GMT</lastBuildDate>
+    <item>
+      <title>我正在南美洲建立一个小型网络机构。我怎样才能使报价更畅销？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpd1kk/im_building_a_small_web_agency_in_south_america/</link>
+      <description><![CDATA[大家好， 我是一名来自南美的网络开发人员，为小型企业和企业家建立一个小型网络机构。 网站： https://mediocieloestudio.com/ 我提供网站、WordPress、电子商务、WhatsApp 集成、表单、托管和一些营销附加组件。 我希望得到诚实的反馈：  报价是否明确？ 价格有意义吗？ 怎样才能使其更值得信赖？ 怎样才能使其更畅销？  谢谢！   由   提交 /u/No_Recording2621   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpd1kk/im_building_a_small_web_agency_in_south_america/</guid>
+      <pubDate>Wed, 27 May 2026 17:49:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否使用过同时具有散装批次\处理单元和双库存系统的系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpcxz7/have_you_worked_with_a_system_that_has_both_loose/</link>
+      <description><![CDATA[有一个系统可以处理这个问题吗？  处理单位，其中数据库中的一行可以同时包含件数和千克数。  HU 代码 001；第 1 部分；批号 ABC；地点 X；跟踪数量 5 件；基本数量 200 公斤  散装批次。第 2 部分；批号 XYZ；地点Y；跟踪数量 100 件；基本数量 2000kg  这应该是每个物品系列可配置的，并在物品中继承... 所以我可以在 HU 中拥有一部分物品，而在散装批次中拥有一部分...两者都承载 2 个库存测量单位..   由   提交/u/dirtyfrank22  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpcxz7/have_you_worked_with_a_system_that_has_both_loose/</guid>
+      <pubDate>Wed, 27 May 2026 17:45:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agency Stack 2026：最小 WP + MCP 与 100% 硬编码 AI (Claude/ECC)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpcd0y/agency_stack_2026_minimal_wp_mcp_vs_100_hardcoded/</link>
+      <description><![CDATA[我们正在为当地企业（管道工、屋顶工）建立一个潜在客户开发机构。目标：扩展到 50-100 个客户。现状：我们同意人工智能。我们在建筑方面存在强烈分歧。我们需要您的现实检查。 以下是我们的两种方法：   功能 选项A：务实的WP（我） 选项B：AI原生硬编码（联合创始人）    核心技术 WordPress + 最多 3 个高级插件（安全、SEO）。 静态 Next.js/HTML。没有数据库。无 PHP。   AI 集成 通过 MCP 连接内容和 CRM 路由。 Claude Code + affaan-m/ECC 工具 + 营销技能。以编程方式生成 250 多个本地 SEO 页面。   客户端 UI 标准 WP 仪表板。 “Screenshot-CMS”。客户将标记的屏幕截图发送到 WhatsApp 机器人。机器人通过 MCP 编辑代码并重新部署。   更新和部署安全性 委托给专业插件团队。 由开源技能和内部人工智能漏洞扫描程序管理。 主要论点商业保险。熟悉的用户体验。轻松移交。 不可破解（静态）。快如闪电。零插件膨胀。   冲突： * 他说： WordPress 已经过时且不安全。静态站点完全解决了运行时漏洞。开源 AI 技能更新速度比 WP 插件更快。 * 我说：他的堆栈是一辆为水管工过度设计的法拉利。依赖开源 GitHub 工具 (ECC) 会出现单点故障。 “屏幕截图-CMS”将是一场巨大的支持噩梦。 我向您提出的问题： 1. 到 2026 年，哪个堆栈实际上可以扩展到 100 个非技术客户？ 2.有人运行过“Screenshot-CMS”吗？生产方法？它能在真正的客户中生存吗？ 3. 最少的 3 插件 WP 设置真的比维护内部 ECC/Claude 管道更危险吗？ 4.他还说他的方式会省更多钱，我看到的恰恰相反，你看到了什么？   由   提交 /u/GonnDir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpcd0y/agency_stack_2026_minimal_wp_mcp_vs_100_hardcoded/</guid>
+      <pubDate>Wed, 27 May 2026 17:25:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>第 2 部分：用 40kb 脚本化 GSAP 动画替换 3.4MB 视频：添加摄像机。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpc5ib/part_2_replacing_34mb_video_with_40kb_of_scripted/</link>
+      <description><![CDATA[   第一部分观看次数达到 69K，这里有 250 票赞成。评论比帖子好。很多人询问 SEO、可访问性、性能以及 GSAP 是否有必要。一些人指出演示缺少一些东西。 你是对的。第一部分有一个光标在平坦舞台上的场景中点击。没有深度，没有焦点。这篇文章添加了一个相机：右键单击时放大操作，平移以通过保存对话框跟随光标，放大目标板上的结果，拉回并循环。仍低于 40 KB。仍然没有视频文件。 第二部分涵盖的内容：  缩放包装架构 - 为什么 gsap.to(frame, { scale: 1.4 }) 会破坏响应式缩放 平移数学 - 在给定缩放级别将视口中的任何目标居中的公式 “保持缩放，平移到follow”——放大一次，平移交互，缩小一次。不是 PowerPoint。 缓动哲学 - 为什么相机平移需要 sine.inOut，而不是 power2.inOut，以及按运动类型划分的完整缓动表 相机移动期间光标处于活动状态 - 缩放期间冻结的光标使整个事情感觉机械。 30% 的漂移修复了这个问题。 优雅的循环生命周期 - 结尾模式而不是快速重置 SEO - 演示中的每个按钮标签和标题都是可索引的 DOM 文本，而不是黑盒视频 辅助功能 - prefers-reduced-motion 支持，用于屏幕阅读器的 autoAlpha 性能 - 可以在浏览器中运行实时 FPS 压力测试（8 → 24 → 48 个元素，缩放 + 平移 + 交错），性能下降不多 代理分裂 - 我编写了约 60%（指导），AI 代理编写了约 40%（繁琐的时间线代码）。仍然有很多手动编辑，但比录制视频和维护要好得多  整篇文章有 4 个交互式演示，您可以暂停和检查，包括并排比较缓动曲线和缩放期间的光标行为。 完整的现场演示文章：https://spanthi.com/blog/gsap-choreography-part-2 制作示例：https://costumary.com 和 https://costumary.com/web-clipper 如果有人想节省时间，请了解人工智能代理的技能：https://github.com/Costumary/gsap-choreography  让我知道我做对了什么，做错了什么，或者我仍然错过了什么！这对我来说是学习和实验的美好几天。    由   提交/u/LordVein05   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpc5ib/part_2_replacing_34mb_video_with_40kb_of_scripted/</guid>
+      <pubDate>Wed, 27 May 2026 17:18:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人用 Drupal 吗？立即留出停机时间进行核心安全更新！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpc1v2/anyone_using_drupal_set_aside_downtime_for_core/</link>
+      <description><![CDATA[🚨 紧急：影响 PostgreSQL 的高度严重的 Drupal Core SQL 注入 (CVE-2026-9082) — 立即修补！ Drupal 安全团队已发布“高度严重”的漏洞安全公告 (SA-CORE-2026-004 / CVE-2026-9082) 修复了 Drupal Core 中严重的未经身份验证的 SQL 注入漏洞。  如果您正在运行由 PostgreSQL 数据库支持的 Drupal 站点，那么您将面临极大的风险。  📌 漏洞概述  CVE ID： CVE-2026-9082 Drupal 风险评分： 23/25（高度严重） 攻击媒介：远程、未经身份验证（匿名）HTTP 请求 利用状态： 活跃的野外攻击全球报告。 CISA 已正式将此缺陷添加到其已知可利用漏洞 (KEV) 目录中。已检测到数千个站点的 15,000 多个攻击探针。 根本原因：Drupal Core 的数据库抽象 API 中存在缺陷，特别是在 PostgreSQL EntityQuery 条件处理程序中。攻击者控制的 PHP 数组键无需经过适当的清理即可实现 SQL 占位符构造，从而允许任意 SQL 执行。   💥 高影响力和安全性风险 虽然 Drupal 估计只有不到 5% 的安装使用 PostgreSQL，但这种配置主要集中在企业、政府和高等教育环境中。成功利用授权：  完全数据库访问： 泄露会话令牌、敏感数据和密码哈希。 权限升级： 将标准或匿名会话提升为管理员。 远程代码执行 (RCE)： 在数据库权限配置错误的 PostgreSQL 环境中（例如，允许COPY FROM PROGRAM），攻击者可以从 SQL 注入转向在主机服务器上执行任意 shell 命令。   🔍受影响的版本 该缺陷影响使用 PostgreSQL 配置的所有受支持的 Drupal Core 分支，包括一些遗留分支：* Drupal Core 8.9.0 到10.4.9 * Drupal Core 10.5.x 在 10.5.10 之前 * Drupal Core 10.6.x 在 10.6.9 之前 * Drupal Core 11.1.x 在 11.1.10 之前 * Drupal Core 11.2.12 之前的 11.2.x * 11.3.10 之前的 Drupal Core 11.3.x （注意：MySQL、MariaDB 和 SQLite 后端*不会**受到此特定 SQLi 的影响，Drupal 7 不受影响）。*  🛡️ 所需操作 1.立即升级 Drupal Core 通过 Composer 更新您的安装。不要不要仅仅依赖浏览器管理 UI，因为 Drupal 更新基础架构正在经历繁重的负载。在终端中运行以下命令：bash Composer update drupal/core-recommended --with-dependency 确保您的网站达到以下安全版本之一或更高版本：10.4.10、10.5.10、10.6.9、11.1.10、11.2.12 或 11.3.10。 2.更新关键上游依赖项 即使您的站点使用 MySQL/MariaDB 并且不受 SQLi 影响，您仍然必须更新。此紧急版本捆绑了影响所有数据库环境的 Symfony 和 Twig 依赖项的关键上游安全修复程序。审核哪些角色可以更新 Twig 模板（通过视图或自定义模块）并立即限制权限。 3.临时缓解措施（如果您现在无法修补）  通过 Drupal Steward 路由生产流量，或配置严格的 Web 应用程序防火墙 (WAF) 规则来过滤恶意嵌套数组负载签名。 检查 PostgreSQL 日志和 WAF 日志是否存在异常，重点关注异常的匿名用户查询或结构查询修改。   🔗 官方参考文献  官方 Drupal 安全公告 (SA-CORE-2026-004) BleepingComputer 主动利用的覆盖范围    由   提交/u/OMGCluck   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpc1v2/anyone_using_drupal_set_aside_downtime_for_core/</guid>
+      <pubDate>Wed, 27 May 2026 17:15:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>评级网站的最佳免费数据库（例如 Letterboxed 或 IMDB）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpbzut/best_free_database_for_a_rating_website_like/</link>
+      <description><![CDATA[我有激情，但没有钱   由   提交 /u/Free-Ant-463   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpbzut/best_free_database_for_a_rating_website_like/</guid>
+      <pubDate>Wed, 27 May 2026 17:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是一个概括性的发展吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpamoc/is_this_development_in_a_nutshell/</link>
+      <description><![CDATA[想到的是，您有一些代码希望其他人能够与之交互，然后您希望将数据存储在某个地方，以便配置数据库，然后您需要在某个地方托管该代码，以便您启动服务器，然后将代码放入该服务器并使其可公开访问。 我知道还有其他部分，例如网络、安全性、RBAC/权限、Linux 命令、可扩展性/可维护性、 API、云基础设施、版本和变更管理。 但它基本上可以归结为这三件事：  代码 数据库 服务器  谢谢   由   提交/u/throtaway0134hdj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpamoc/is_this_development_in_a_nutshell/</guid>
+      <pubDate>Wed, 27 May 2026 16:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一个机构的内部资源，你如何应对？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tp98ke/how_do_you_handle_being_internal_resource_against/</link>
+      <description><![CDATA[我工作的公司被收购了，在新公司，我的职责之一就是开发我们的网站。 问题是该网站是由外部机构构建的。几乎任何对网站的更改都必须由他们来实施。当然，他们对每次更改都要收费。他们拥有网站的后端和前端。 我基本上只能添加文本和图像。 我想知道我到底应该向我的新老板提出什么建议（他真的不喜欢它并想要进行一些更改）。 将网站移动到不同的托管平台并构建另一个主题真的是一个选择吗？这似乎是最后的手段。甚至不确定这是否真的可行。雇用开发人员可能会更昂贵，而且我对前端很了解，但对后端经验不足。所以不要认为我自己能做到。 我应该屈服并降级我的职位吗？ 要求更高的访问权限可能会被拒绝。这就是他们赚钱的方式。 希望这是正确的子，并且有人有一些见解和经验！   由   提交 /u/craigularperson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tp98ke/how_do_you_handle_being_internal_resource_against/</guid>
+      <pubDate>Wed, 27 May 2026 15:37:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于 DOM 的 CSS 3D 引擎。无需 WebGL 即可渲染多边形网格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tp7qg4/a_css_3d_engine_for_the_dom_renders_polygon/</link>
+      <description><![CDATA[       由   提交/u/Ekrof  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tp7qg4/a_css_3d_engine_for_the_dom_renders_polygon/</guid>
+      <pubDate>Wed, 27 May 2026 14:45:46 GMT</pubDate>
+    </item>
     <item>
       <title>向前端提供静态数据</title>
       <link>https://www.reddit.com/r/webdev/comments/1tozcsb/serving_static_data_to_the_frontend/</link>
@@ -46,69 +109,6 @@
       <description><![CDATA[嘿伙计们。我从 2019 年开始就开始从事 Web 开发工作。当时我还是一名在大学 UX/UI 系工作的学生，新冠疫情导致每个学生都被解雇了 - 所以我成立了一家代理机构。 这已经有一段时间了。我赚的钱足以支付新冠肺炎的费用——但后来我被一家公司雇用了几年，负责管理他们的整个技术堆栈（小公司）。如今，我在与该公司的聘用期间接待了自由职业客户。 事实是 - 多年来我意识到我是多么讨厌与消费者合作。  他们总是想要一个新功能，总是想要免费，而且他们总是可以自己“做得更好”。这周，我有一位客户打电话给我，问我是否可以让那个为她的 T 恤图形设计网站的女孩，因为“她太有才华了”。  我对自己进入这个行业感到非常沮丧。起初，这是显而易见的举动，因为我有经验，但它不再可持续了。由于范围蔓延，项目被推迟了几个月，而客户不明白这些事情需要时间 - 因此也需要金钱。 最近我一直在研究很多 DevOps。我将 k3 服务器与外部 nginx 代理和出站 DNS 白名单放在一起。我想在未来开始托管服务。我想我刚刚完成了前端设计——我只是对它没有热情。我更愿意关注功能。 你们中有人曾经从 WebDev 跳到 DevOps 或 Sysadmin 吗？我很想听听有关它的任何故事。   由   提交 /u/ibeatu85x   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1toiwzt/i_hate_web_development_and_im_looking_for_a_way/</guid>
       <pubDate>Tue, 26 May 2026 20:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么法学硕士在软件架构方面总是很糟糕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1toiki0/why_llms_will_be_always_terrible_at_software/</link>
-      <description><![CDATA[   /u/NegotiationInner7307   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1toiki0/why_llms_will_be_always_terrible_at_software/</guid>
-      <pubDate>Tue, 26 May 2026 20:06:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 GSAP 创建滚动千斤顶效果，其中一个部分保持固定，而另一部分滚动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tohs5k/how_do_i_create_a_scrolljack_effect_where_one/</link>
-      <description><![CDATA[就像这个网站一样 https://bennett-tea.com/tea-store.html   由   提交 /u/Next_Parsley_1289   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tohs5k/how_do_i_create_a_scrolljack_effect_where_one/</guid>
-      <pubDate>Tue, 26 May 2026 19:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于作品集/博客，哪种命名约定适合您？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1toesqc/for_a_portfolio_blog_which_naming_convention_hits/</link>
-      <description><![CDATA[所以我有一个我想要为我的个人作品集或可能只是简历网站获取的域名候选列表（.com 显然已被占用）： 可用选项： firstname.cv lastname.cv 我对这两个（.cv）非常担心，尽管它们有多干净，因为它们充电、手臂和腿，而且似乎与佛得角有乡村恶作剧，我怀疑如果它真的起飞，未来会发生价格战。 firstname.sh - 看起来很稳定 firstnamelastname.net firstnamelastname.dev madeby[3-letter-nickname].com --- 例如。 madebyrob.com 现实地说，我认为我不会获得太多流量，我只是想要一个以尽可能低的价格展示文章和个人项目等的地方 您认为哪些“较小”/被视为垃圾邮件的 TLD 可能值得检查，并且仍然可以是专业的/不是通过电子邮件立即列入黑名单？ 我的名字有 7 个字母长，姓氏 6 所以两者合在一起有点长。 添加一个额外的字母会很奇怪吗？如果我在中间添加一个字母，有点像 aa 与 aaa 一样扩展它，我可以获得我的 lastname.net    由   提交 /u/AssistanceAshamed609   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1toesqc/for_a_portfolio_blog_which_naming_convention_hits/</guid>
-      <pubDate>Tue, 26 May 2026 17:59:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为自由职业者或小型机构所有者，您在过去几个月中是否看到需求增加或减少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1toc6ne/as_a_freelancer_or_small_agency_owner_have_you/</link>
-      <description><![CDATA[我认为，随着人工智能工具使网站变得更容易访问，网站的功能、功能或目的的门槛只会越来越高。像 Claude Code 这样的工具可以帮助非常快速地建立登陆页面或简单的静态网站，但它们甚至无法轻松地完成 WordPress 和 Shopify 等强大平台的一些基本现成功能。 我们已经看到了大量外观相似的网站，这也使用户对更加定制的东西更加挑剔和要求更高。 我很好奇您的体验如何？ 如果您传统上提供设计或开发服务： - 这些项目的范围是否发生变化？ - 客户对价格是否更加敏感？ 如果您在团队中工作，您的团队规模是否发生变化？   由   提交/u/dennisplucinik   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1toc6ne/as_a_freelancer_or_small_agency_owner_have_you/</guid>
-      <pubDate>Tue, 26 May 2026 16:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找软件开发未来的最佳类比</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tob5d8/looking_for_the_best_analogy_for_the_future_of/</link>
-      <description><![CDATA[我认为是 Wordpress。在 WordPress 出现之前，人们通过制作简单的营销网页赚了大钱。制作一个网站、发布等等都是很困难的。  然后Wordpress出现了，基本上已经变成DIY了。除非您是一家大公司，准备支付尖端技术堆栈网页的费用并正确完成品牌塑造，否则您不会过度考虑您的网页并让大约五美元的人完成它。  我试图找到 Wordpress 之前和之后 Web 开发人员数量的比较数字，但没有找到令人信服的比较。但我的猜测是，很可能该领域的工作人员数量有所增加，但与此同时，该领域的安全且高薪工作的数量却大幅减少。 因此，遵循这种直觉，基本软件开发（具有已知堆栈的功能实现者；所有初级和中级角色）将消失并成为 DIY。  在 WordPress 高级网页开发人员之后就是主题开发人员，所以如果我们进行类比，这些将是 AI 工程师和 ML 工程师（使用 langchain/langgraph 等构建 LLM 应用程序的人员以及制作模型的人员。）这项工作将继续存在，并且在可预见的未来需求旺盛，因为主题开发人员和机构今天仍然存在并赚得可观的钱。   由   提交 /u/abstracten   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tob5d8/looking_for_the_best_analogy_for_the_future_of/</guid>
-      <pubDate>Tue, 26 May 2026 15:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 与 JavaScript</title>
-      <link>https://www.reddit.com/r/webdev/comments/1to9zg5/css_vs_javascript/</link>
-      <description><![CDATA[       由   提交 /u/feross   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1to9zg5/css_vs_javascript/</guid>
-      <pubDate>Tue, 26 May 2026 15:15:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我把 HTML 和 CSS 变成了反应层</title>
-      <link>https://www.reddit.com/r/webdev/comments/1to9t1j/i_turned_html_and_css_into_the_reactive_layer/</link>
-      <description><![CDATA[      我一直在尝试 CSS 原生的反应性方法。 一点点 JS 更新数据属性和 CSS 变量，但所有实际的逻辑、状态转换和渲染都发生在 HTML/CSS 中。 我使用这种方法构建了一些小型的游戏作为概念证明。 很想知道您对使用 CSS 作为反应层而不是 JS 框架的想法。   由   提交/u/iDev_Games  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1to9t1j/i_turned_html_and_css_into_the_reactive_layer/</guid>
-      <pubDate>Tue, 26 May 2026 15:09:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名开发者，你如何在 LinkedIn 这样的平台上真正建立一个真正的网络？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1to76nh/how_do_you_actually_build_a_genuine_network_as_a/</link>
-      <description><![CDATA[每个人都在说“网络是找工作最重要的事情”或“建立你的 LinkedIn 网络”，但几乎没有人解释如何真正做到这一点。 我什至不仅仅谈论获得推荐或工作。这显然是一个奖励。我真正想要的是与其他开发人员建立一个真正的网络，这些开发人员正在学习、构建项目、分享想法、试验技术，甚至可能一起合作。 现在，我在无尽的教程海洋中感到有点迷失。我已经构建了一些项目，学习了不同的技术，并提高了自己的技能，但我仍然觉得自己没有明确的方向或与实际的开发者社区的联系。 所以我想问那些成功构建在线网络的人： 哪些平台实际上最适合这个？领英？红迪网？ X/推特？不和谐？ GitHub？ 如何在不显得虚伪或交易的情况下与人们打交道？ 什么样的内容或帖子可以帮助您与志同道合的开发者建立联系？ “公开构建”真的有用吗？如果有，您如何开始？ 您如何从一个默默无闻的人物转变为真正属于社区的人？ 您如何找到可以在项目上合作或学习的人？  我特别感谢那些从零联系开始并慢慢在网上建立有意义的关系的人的建议。 很想听听您的经历、错误或对您真正有用的事情。   由   提交 /u/Loud_Dragonfruit_154   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1to76nh/how_do_you_actually_build_a_genuine_network_as_a/</guid>
-      <pubDate>Tue, 26 May 2026 13:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>部署我的网站的最佳选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1to153u/best_options_to_deploy_my_website/</link>
-      <description><![CDATA[大家好！ 我正在开发一个网站，我使用 Astro 作为前端，使用 Strapi 作为 CMS。 该客户端目前有大约 200 个条目，但预计随着时间的推移它会不断增长。我试图为他寻找最便宜的部署选项。 你有什么建议？ 我在考虑前端使用 Vercel，也是因为网页没有那么多流量，但我不确定如何处理数据库和 Strapi 平台。你怎么认为？他的想法是尽可能多地省钱   由   提交/u/guantesdepobre2  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1to153u/best_options_to_deploy_my_website/</guid>
-      <pubDate>Tue, 26 May 2026 08:54:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
