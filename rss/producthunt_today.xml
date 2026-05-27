@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 27 May 2026 02:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:53:06 GMT</lastBuildDate>
     <item>
       <title>法拉利卢斯</title>
       <link>https://www.producthunt.com/products/ferrari-luce-2</link>
@@ -62,32 +62,32 @@
       <pubDate>Mon, 25 May 2026 22:08:29 GMT</pubDate>
     </item>
     <item>
-      <title>ReplylessAI 序列</title>
-      <link>https://www.producthunt.com/products/replylessai</link>
+      <title>Parrot 语音转文本 API</title>
+      <link>https://www.producthunt.com/products/parrot-speech-to-text-api</link>
       <description><![CDATA[
-            出站电子邮件序列不会导致销售工具臃肿
+            适用于生产级语音代理的快速、准确的 STT
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/replylessai</guid>
-      <pubDate>Mon, 25 May 2026 09:15:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/parrot-speech-to-text-api</guid>
+      <pubDate>Mon, 25 May 2026 19:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>奥梅多</title>
-      <link>https://www.producthunt.com/products/ormedo</link>
+      <title>庸医坑</title>
+      <link>https://www.producthunt.com/products/quakpit</link>
       <description><![CDATA[
-            让 AI 代理处理您的整个出站管道
+            真正让您微笑的会议提醒。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ormedo</guid>
-      <pubDate>Mon, 25 May 2026 07:08:10 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/quakpit</guid>
+      <pubDate>Mon, 25 May 2026 13:46:46 GMT</pubDate>
     </item>
     <item>
       <title>marpy.io</title>
@@ -104,18 +104,18 @@
       <pubDate>Sun, 24 May 2026 17:10:41 GMT</pubDate>
     </item>
     <item>
-      <title>笔记湾</title>
-      <link>https://www.producthunt.com/products/notecove</link>
+      <title>喜欢脉冲</title>
+      <link>https://www.producthunt.com/products/likepulse</link>
       <description><![CDATA[
-            笔记、任务和人工智能——离线优先，无 SaaS 账单。
+            立即准确了解 YouTube 观众的反应
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/notecove</guid>
-      <pubDate>Sun, 24 May 2026 14:51:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/likepulse</guid>
+      <pubDate>Sun, 24 May 2026 08:05:17 GMT</pubDate>
     </item>
     <item>
       <title>柳抄写员</title>
@@ -132,32 +132,46 @@
       <pubDate>Sat, 23 May 2026 02:28:11 GMT</pubDate>
     </item>
     <item>
-      <title>解析API</title>
-      <link>https://www.producthunt.com/products/parsewise</link>
+      <title>人工智能影子</title>
+      <link>https://www.producthunt.com/products/ai-shadowing</link>
       <description><![CDATA[
-            用于代理多文档处理的 API
+            将任何 YouTube 视频变成语言影子课程
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/parsewise</guid>
-      <pubDate>Fri, 22 May 2026 21:59:32 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ai-shadowing</guid>
+      <pubDate>Fri, 22 May 2026 15:07:49 GMT</pubDate>
     </item>
     <item>
-      <title>区块数据3.0</title>
-      <link>https://www.producthunt.com/products/blokdots</link>
+      <title>共振</title>
+      <link>https://www.producthunt.com/products/portia-ai</link>
       <description><![CDATA[
-            直观地制作硬件原型，导出真正的 C++ 进行工程
+            讨论、规格、交付：将您的产品创意投入生产
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/blokdots</guid>
-      <pubDate>Wed, 20 May 2026 17:07:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/portia-ai</guid>
+      <pubDate>Tue, 19 May 2026 21:21:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>AVTR-1 实时开放权重模型</title>
+      <link>https://www.producthunt.com/products/avaturn-live-2</link>
+      <description><![CDATA[
+            生成不可思议的人工智能头像现已开源 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/avaturn-live-2</guid>
+      <pubDate>Tue, 19 May 2026 13:03:20 GMT</pubDate>
     </item>
     <item>
       <title>郎熊猫</title>
@@ -174,46 +188,32 @@
       <pubDate>Tue, 19 May 2026 08:40:15 GMT</pubDate>
     </item>
     <item>
-      <title>克伦尔</title>
-      <link>https://www.producthunt.com/products/crunr-run-it-ghost-it</link>
+      <title>DNS简单CLI</title>
+      <link>https://www.producthunt.com/products/dnsimple</link>
       <description><![CDATA[
-            使用 1 个命令在 AWS 上启动并运行任何计算作业
+            使用 DNSimple CLI 从命令行管理您的 DNS
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/crunr-run-it-ghost-it</guid>
-      <pubDate>Mon, 18 May 2026 18:09:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dnsimple</guid>
+      <pubDate>Mon, 18 May 2026 20:44:39 GMT</pubDate>
     </item>
     <item>
-      <title>泰塞拉克</title>
-      <link>https://www.producthunt.com/products/tesserac</link>
+      <title>酿造</title>
+      <link>https://www.producthunt.com/products/brew-5</link>
       <description><![CDATA[
-            macOS 上 Cmd+Tab 的空间替代方案
+            就像克劳德的电子邮件营销设计一样
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tesserac</guid>
-      <pubDate>Thu, 14 May 2026 15:10:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>海莉</title>
-      <link>https://www.producthunt.com/products/hayley-your-thinking-companion</link>
-      <description><![CDATA[
-            分享您的想法并深入了解思维模式
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/hayley-your-thinking-companion</guid>
-      <pubDate>Tue, 12 May 2026 15:30:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/brew-5</guid>
+      <pubDate>Mon, 18 May 2026 13:20:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

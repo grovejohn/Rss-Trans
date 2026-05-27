@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 27 May 2026 02:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:52:56 GMT</lastBuildDate>
+    <item>
+      <title>您最喜欢的开发工具有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tove6q/what_are_some_of_your_favourite_developer_tools/</link>
+      <description><![CDATA[开发人员固执己见，很难确定一款最喜欢的工具！   由   提交 /u/Successful_Bowl2564   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tove6q/what_are_some_of_your_favourite_developer_tools/</guid>
+      <pubDate>Wed, 27 May 2026 04:56:17 GMT</pubDate>
+    </item>
     <item>
       <title>Claude + Railway 或 Replit 进行托管</title>
       <link>https://www.reddit.com/r/webdev/comments/1toqgxz/claude_railway_or_replit_for_hosting/</link>
@@ -13,25 +20,11 @@
       <pubDate>Wed, 27 May 2026 01:12:47 GMT</pubDate>
     </item>
     <item>
-      <title>我想放弃</title>
-      <link>https://www.reddit.com/r/webdev/comments/1top38q/i_feel_like_giving_up/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1top38q/i_feel_like_giving_up/</guid>
-      <pubDate>Wed, 27 May 2026 00:12:47 GMT</pubDate>
-    </item>
-    <item>
       <title>在一个网站上寻找 2 个颜色主题</title>
       <link>https://www.reddit.com/r/webdev/comments/1toopcr/looking_for_2_colour_themes_on_a_single_website/</link>
       <description><![CDATA[      我想自定义一个当前处于深色模式的网站，使用目的/蓝色等颜色来拥有具有我选择的特定颜色的浅色模式主题。 我有一个带有自定义 HTML 的块，其中使用 CSS 着色，并且希望颜色代码根据按钮的轻弹而更改。 编辑：忽略红色框和箭头 谢谢您帮助我修复了块宽度，现在看起来好多了   由   提交/u/neonrider2018  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1toopcr/looking_for_2_colour_themes_on_a_single_website/</guid>
       <pubDate>Tue, 26 May 2026 23:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以要求对我创建的 CSS 课程提供反馈吗（不在帖子上发布链接），或者我的帖子会被删除吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tomtfj/can_i_ask_for_feedback_on_a_css_course_i_created/</link>
-      <description><![CDATA[标题内容   由   提交 /u/AcrobaticTadpole324   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tomtfj/can_i_ask_for_feedback_on_a_css_course_i_created/</guid>
-      <pubDate>Tue, 26 May 2026 22:41:30 GMT</pubDate>
     </item>
     <item>
       <title>排队请求也会导致容量问题</title>
@@ -50,7 +43,7 @@
     <item>
       <title>我讨厌网络开发，我正在寻找出路</title>
       <link>https://www.reddit.com/r/webdev/comments/1toiwzt/i_hate_web_development_and_im_looking_for_a_way/</link>
-      <description><![CDATA[嘿伙计们。我从 2019 年开始就开始从事 Web 开发工作。当时我还是一名在大学 UX/UI 系工作的学生，新冠疫情导致每个学生都被解雇了 - 所以我成立了一家代理机构。 这已经有一段时间了。我赚的钱足以支付新冠肺炎的费用——但后来我被一家公司雇用了几年，负责管理他们的整个技术堆栈（小公司）。如今，我在与该公司的聘用期间接待了自由职业客户。 事实是 - 多年来我意识到我是多么讨厌与消费者合作。  他们总是想要新功能，总是想要免费，而且他们总是可以自己“做得更好”。这周，我有一位客户打电话给我，问我是否可以让那个为她的 T 恤图形设计网站的女孩，因为“她太有才华了”。  我对自己进入这个行业感到非常沮丧。起初，这是显而易见的举动，因为我有经验，但它不再可持续了。由于范围蔓延，项目被推迟了几个月，而客户不明白这些事情需要时间 - 因此也需要金钱。 最近我一直在研究很多 DevOps。我将 k3 服务器与外部 nginx 代理和出站 DNS 白名单放在一起。我想在未来开始托管服务。我想我刚刚完成了前端设计——我只是对它没有热情。我更愿意关注功能。 你们中有人曾经从 WebDev 跳到 DevOps 或 Sysadmin 吗？我很想听听有关它的任何故事。   由   提交 /u/ibeatu85x   [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们。我从 2019 年开始就开始从事 Web 开发工作。当时我还是一名在大学 UX/UI 系工作的学生，新冠疫情导致每个学生都被解雇了 - 所以我成立了一家代理机构。 这已经有一段时间了。我赚的钱足以支付新冠肺炎的费用——但后来我被一家公司雇用了几年，负责管理他们的整个技术堆栈（小公司）。如今，我在与该公司的聘用期间接待了自由职业客户。 事实是 - 多年来我意识到我是多么讨厌与消费者合作。  他们总是想要一个新功能，总是想要免费，而且他们总是可以自己“做得更好”。这周，我有一位客户打电话给我，问我是否可以让那个为她的 T 恤图形设计网站的女孩，因为“她太有才华了”。  我对自己进入这个行业感到非常沮丧。起初，这是显而易见的举动，因为我有经验，但它不再可持续了。由于范围蔓延，项目被推迟了几个月，而客户不明白这些事情需要时间 - 因此也需要金钱。 最近我一直在研究很多 DevOps。我将 k3 服务器与外部 nginx 代理和出站 DNS 白名单放在一起。我想在未来开始托管服务。我想我刚刚完成了前端设计——我只是对它没有热情。我更愿意关注功能。 你们中有人曾经从 WebDev 跳到 DevOps 或 Sysadmin 吗？我很想听听有关它的任何故事。   由   提交 /u/ibeatu85x   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1toiwzt/i_hate_web_development_and_im_looking_for_a_way/</guid>
       <pubDate>Tue, 26 May 2026 20:18:52 GMT</pubDate>
     </item>
@@ -85,16 +78,9 @@
     <item>
       <title>寻找软件开发未来的最佳类比</title>
       <link>https://www.reddit.com/r/webdev/comments/1tob5d8/looking_for_the_best_analogy_for_the_future_of/</link>
-      <description><![CDATA[我认为是 Wordpress。在 WordPress 出现之前，人们通过制作简单的营销网页赚了大钱。制作一个网站、发布等等都很难。  然后Wordpress出现了，基本上已经变成DIY了。除非您是一家大公司，准备支付尖端技术堆栈网页的费用并正确完成品牌塑造，否则您不会过度考虑您的网页并让大约五美元的人完成它。  我试图找到 Wordpress 之前和之后 Web 开发人员数量的比较数字，但没有找到令人信服的比较。但我的猜测是，很可能该领域的工作人员数量有所增加，但与此同时，该领域的安全且高薪工作的数量却大幅减少。 因此，遵循这种直觉，基本软件开发（具有已知堆栈的功能实现者；所有初级和中级角色）将消失并成为 DIY。  在 WordPress 高级网页开发人员之后就是主题开发人员，所以如果我们进行类比，这些将是 AI 工程师和 ML 工程师（使用 langchain/langgraph 等构建 LLM 应用程序的人员以及制作模型的人员。）这项工作将继续存在，并且在可预见的未来需求旺盛，因为主题开发人员和机构今天仍然存在并赚得可观的钱。   由   提交 /u/abstracten   [链接] [评论]]]></description>
+      <description><![CDATA[我认为是 Wordpress。在 WordPress 出现之前，人们通过制作简单的营销网页赚了大钱。制作一个网站、发布等等都是很困难的。  然后Wordpress出现了，基本上已经变成DIY了。除非您是一家大公司，准备支付尖端技术堆栈网页的费用并正确完成品牌塑造，否则您不会过度考虑您的网页并让大约五美元的人完成它。  我试图找到 Wordpress 之前和之后 Web 开发人员数量的比较数字，但没有找到令人信服的比较。但我的猜测是，很可能该领域的工作人员数量有所增加，但与此同时，该领域的安全且高薪工作的数量却大幅减少。 因此，遵循这种直觉，基本软件开发（具有已知堆栈的功能实现者；所有初级和中级角色）将消失并成为 DIY。  在 WordPress 高级网页开发人员之后就是主题开发人员，所以如果我们进行类比，这些将是 AI 工程师和 ML 工程师（使用 langchain/langgraph 等构建 LLM 应用程序的人员以及制作模型的人员。）这项工作将继续存在，并且在可预见的未来需求旺盛，因为主题开发人员和机构今天仍然存在并赚得可观的钱。   由   提交 /u/abstracten   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tob5d8/looking_for_the_best_analogy_for_the_future_of/</guid>
       <pubDate>Tue, 26 May 2026 15:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>添加此浏览器功能有何挑战性？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1toa3zv/how_challenging_would_it_be_to_add_this_browser/</link>
-      <description><![CDATA[我对 Web 开发和 CS 一般了解一点，正如他们所说，一知半解是一件危险的事情，但我有一个想法 - 欢迎一些大公司窃取它并赚取 $$$ 哈哈。所以这里是： 无可否认，社交媒体是如此普遍，几乎是当今世界的重要组成部分，它可以内置到浏览器中吗？我对浏览器的了解不多，但是学得越多，就越感觉浏览器真的很强大。我认为我们现在的处境是，社交信息流不会去任何地方，也不应该再被 Meta 和 X 这样的公司垄断（除了少数例外，例如 fediverse）。而且，它们基本上都提供相同的东西，那就是带有照片/视频的文本帖子。  我的建议是，每个网站都可以有另一个文件夹，比如 /social，其中包含社交媒体帖子（正如我所说，带有照片/视频的文本），浏览器将以类似于社交媒体的网格样式显示此文件夹。浏览器可以使用 html/css 来格式化此网格，但它会被烘焙并且无法访问。因此，您不会格式化该网格的外观，它是由浏览器自动布局的（使用 html 或其他方法）。如果您有一个网站，为什么还应该有单独的社交媒体服务器？发布应该像将文本/照片/视频卸载到/social 一样简单。  因此，如果您访问网站，您还可以访问 [url here]/social 并查看社交媒体风格的帖子。与为网页添加书签类似，您可以选择关注网页，浏览器将有一个单独的选项卡，仅按时间顺序或算法顺序显示 /social 帖子 - 使用开源、透明的算法。基本上，我们可以让浏览器承担很多功能，而不是社交媒体应用程序，这并不是一个激进的想法，因为 RSS 类似，除了...... 评论。评论是社交媒体的重要组成部分。怎样处理评论？我确信有办法，但这篇文章已经太长了，哈哈。    由   提交/u/nesterspokebar  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1toa3zv/how_challenging_would_it_be_to_add_this_browser/</guid>
-      <pubDate>Tue, 26 May 2026 15:20:11 GMT</pubDate>
     </item>
     <item>
       <title>CSS 与 JavaScript</title>
@@ -109,6 +95,20 @@
       <description><![CDATA[      我一直在尝试 CSS 原生的反应性方法。 一点点 JS 更新数据属性和 CSS 变量，但所有实际的逻辑、状态转换和渲染都发生在 HTML/CSS 中。 我使用这种方法构建了一些小型的游戏作为概念证明。 很想知道您对使用 CSS 作为反应层而不是 JS 框架的想法。   由   提交/u/iDev_Games  [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1to9t1j/i_turned_html_and_css_into_the_reactive_layer/</guid>
       <pubDate>Tue, 26 May 2026 15:09:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名开发者，你如何在 LinkedIn 这样的平台上真正建立一个真正的网络？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1to76nh/how_do_you_actually_build_a_genuine_network_as_a/</link>
+      <description><![CDATA[每个人都在说“网络是找工作最重要的事情”或“建立你的 LinkedIn 网络”，但几乎没有人解释如何真正做到这一点。 我什至不仅仅谈论获得推荐或工作。这显然是一个奖励。我真正想要的是与其他开发人员建立一个真正的网络，这些开发人员正在学习、构建项目、分享想法、试验技术，甚至可能一起合作。 现在，我在无尽的教程海洋中感到有点迷失。我已经构建了一些项目，学习了不同的技术，并提高了自己的技能，但我仍然觉得自己没有明确的方向或与实际的开发者社区的联系。 所以我想问那些成功构建在线网络的人： 哪些平台实际上最适合这个？领英？红迪网？ X/推特？不和谐？ GitHub？ 如何在不显得虚伪或交易的情况下与人们打交道？ 什么样的内容或帖子可以帮助您与志同道合的开发者建立联系？ “公开构建”真的有用吗？如果有，您如何开始？ 您如何从一个默默无闻的人物转变为真正属于社区的人？ 您如何找到可以在项目上合作或学习的人？  我特别感谢那些从零联系开始并慢慢在网上建立有意义的关系的人的建议。 很想听听您的经历、错误或对您真正有用的事情。   由   提交 /u/Loud_Dragonfruit_154   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1to76nh/how_do_you_actually_build_a_genuine_network_as_a/</guid>
+      <pubDate>Tue, 26 May 2026 13:35:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>部署我的网站的最佳选择</title>
+      <link>https://www.reddit.com/r/webdev/comments/1to153u/best_options_to_deploy_my_website/</link>
+      <description><![CDATA[大家好！ 我正在开发一个网站，我使用 Astro 作为前端，使用 Strapi 作为 CMS。 该客户端目前有大约 200 个条目，但预计随着时间的推移它会不断增长。我试图为他寻找最便宜的部署选项。 你有什么建议？ 我在考虑前端使用 Vercel，也是因为网页没有那么多流量，但我不确定如何处理数据库和 Strapi 平台。你怎么认为？他的想法是尽可能多地省钱   由   提交/u/guantesdepobre2  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1to153u/best_options_to_deploy_my_website/</guid>
+      <pubDate>Tue, 26 May 2026 08:54:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

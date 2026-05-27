@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 27 May 2026 02:02:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 06:52:30 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个开发工具，在评论中被撕碎，而做它的人成为了我的第一个真正的用户</title>
+      <link>https://www.reddit.com/r/software/comments/1toxm78/i_built_a_dev_tool_got_torn_apart_in_the_comments/</link>
+      <description><![CDATA[ 由   提交/u/Mean_Knee_3415   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1toxm78/i_built_a_dev_tool_got_torn_apart_in_the_comments/</guid>
+      <pubDate>Wed, 27 May 2026 06:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voiden ：围绕 Markdown 构建的离线 Git 原生 API 工具</title>
+      <link>https://www.reddit.com/r/software/comments/1tovcjj/voiden_an_offline_gitnative_api_tool_built_around/</link>
+      <description><![CDATA[我们在几个月前开源了 Voiden：一个离线 API 工具，其中 API 请求作为可执行 Markdown 存在，并在 Git 中进行版本控制。我们希望构建一种将 Obsidian 风格文件的强大功能和灵活性与curl 的简单性相结合的东西。 Voiden 的基本思想是，API 请求不是静态形式，而是使用块（端点、身份验证、参数、主体）组成。您可以在文件中添加、重用、覆盖和缝合在一起的块（更像是函数，而不是请求）。 自开源以来，我们收到的大多数反馈、请求和贡献都是围绕定义工作流程、链接请求、编写脚本以及在可重用的 .void 文件中构造所有内容。 以下是我想分享的一些关键亮点： – 真实脚本（而不是沙箱）：在大多数 API 工具中，脚本都存在于受限的 JS 沙箱中，这种环境无法利用开发人员本地可用的强大运行时。这里最大的限制是假设工具应该定义运行时。 Voiden 完全在本地运行，因此这允许您仅使用实际运行时（JS、Python、shell，并添加对其他运行时的支持）来运行脚本。  – 每个文件多个请求（迷你工作流程）：事实证明，在单个 .void 文件中允许多个请求非常有用。您可以将相关请求自然地分组，而不是分散相关请求：订单流（创建 - 付款 - 确认）或一个地方的完整 CRUD 周期。该文件实际上成为一个可执行流：运行一个请求，或端到端的整个序列。由于 Voiden 是可执行的 Markdown，文档和测试位于同一个 .void 文件中，可以更好地组织，从而防止重复和漂移。 – Stitch（跨文件的可组合工作流程）：工作流程（“Stitch”）不是单个大型集合，而是由 .void 文件构建，您可以跨场景组合这些文件。您可以定义小型流程（身份验证、设置、CRUD 等）并将它们拼接成更大的工作流程，而无需重复。这只是此功能的第一个版本，我们还有很多工作要做。 – 代理：基于文件的本地优先模型也可以很好地与代理配合使用。由于 Voiden 有内置终端并使用 Markdown，我们添加了“技能”，以便 Claude 和 Codex 代理可以直接处理 .void 文件（使用您自己的订阅）。 我们还发布了一个用于社区插件的 SDK，并对性能、可靠性和 DX（键盘优先）进行了改进，特别关注 Electron 基础的性能 我们还发布了一个 CLI 运行程序，现在处于测试阶段！看看这里：https://github.com/VoidenHQ/voiden/tree/beta/packages/voiden-runner 寻找反馈和建议。 Github：https://github.com/VoidenHQ/voiden 下载：https://voiden.md/download   由   提交 /u/Successful_Bowl2564   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tovcjj/voiden_an_offline_gitnative_api_tool_built_around/</guid>
+      <pubDate>Wed, 27 May 2026 04:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDGE — 专为速度、设计和控制而打造的现代 IPTV/FAST 电视平台</title>
+      <link>https://www.reddit.com/r/software/comments/1tosnta/edge_plataforma_iptvfast_tv_moderna_construida/</link>
+      <description><![CDATA[经过数周的开发、视觉架构和前端优化，我终于展示了 EDGE。 EDGE 是一个现代 IPTV/FAST 电视平台，专注于： 电影界面 轻性能 真正的响应式体验 快速流媒体 自己的视觉标识 架构简洁前端 当前功能： 直播电视频道 动态类别 英雄轮播 响应式移动 UI FAST TV 风格布局 高级深色布局 移动设备友好 可扩展框架 部署到 Cloudflare Workers/Pages 技术： Vanilla JavaScript 纯 HTML/CSS Cloudflare Edge 部署 无需重型框架的轻量级架构 目标：创建现代 IPTV 体验，看起来不像通用克隆，并拥有自己的视觉标识。 仍在不断发展： 视觉改进 运动系统 先进播放器 EPG 完整品牌 伪直播系统 流媒体优化 欢迎技术和视觉反馈。   由   提交 /u/Fickle_Version_5548   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tosnta/edge_plataforma_iptvfast_tv_moderna_construida/</guid>
+      <pubDate>Wed, 27 May 2026 02:48:31 GMT</pubDate>
+    </item>
     <item>
       <title>WebsiteArchiver - MacOS - 不要依赖互联网来记忆。确保它确实如此。</title>
       <link>https://www.reddit.com/r/software/comments/1toql9c/websitearchiver_macos_dont_rely_on_the_internet/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好！ 首先，感谢您对之前版本的支持。 AutoRewarder 已在 GitHub 上获得+1.4k 下载量和+127 颗星 几天前，AutoRewarder v3.3 发布。此版本主要关注生活质量的改进，让您对应用程序有更多的控制权，并帮助您获得更多积分。 v3.3 中的新增功能：  扩展积分收集： 机器人现在可以处理“更多活动”部分，自动捕获之前被忽略的 15-20 张额外赚取积分的卡片。 系统托盘和系统托盘停止按钮：应用程序现在可以优雅地最小化到系统托盘。我们还添加了一个“停止”按钮，可以安全地中断运行，而不会在后台留下隐藏的浏览器进程。 高级调度和优化新模式：您现在可以在指定的时间内进行手动 GUI 搜索。如果您想在不执行 Bing 搜索的情况下处理卡片，还有一个新的“仅限每日任务”模式。 更智能的自动化：改进的完成检测以消除“一切都已完成”的情况。误报，并修复了无提示点击，以便在点击之前正确滚动到屏幕外的卡片。 在引擎盖下和文档：为开发人员提供更好的诊断日志记录、扩展的文档和预提交挂钩。  该项目仍然 100% 开源。 GitHub 上的更多信息、屏幕截图、演示和代码： https://github.com/safarsin/AutoRewarder 我会很高兴听到您的反馈、错误报告或对下一次更新的想法！   由   提交/u/18safarov  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tob2hq/autorewarder_v33_is_here_now_with_system_tray/</guid>
       <pubDate>Tue, 26 May 2026 15:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有像素/颜色搜索功能的免费宏记录器？</title>
-      <link>https://www.reddit.com/r/software/comments/1toazlu/free_macro_recorder_with_pixelcolor_search/</link>
-      <description><![CDATA[如果我能得到一些帮助，找到一个宏记录器，它可以：  完全免费，付费墙后面没有免费试用/锁定功能 可以进行像素/图像搜索 在此之后将鼠标返回到其原始位置^  我会尝试制作一个 AHK 脚本，但我真的只是我根本无法理解它。   由   提交 /u/Used-Constant-3806   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1toazlu/free_macro_recorder_with_pixelcolor_search/</guid>
-      <pubDate>Tue, 26 May 2026 15:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些迹象表明我的男朋友正在监视我的手机吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1toahzr/are_these_signs_my_boyfriend_is_spying_on_my_phone/</link>
-      <description><![CDATA[大家好！我觉得我男朋友在监视我。我上下查看了我的设置和 Safari，看看是否有任何奇怪的扩展程序或应用程序，但我的手机是干净的。我想如果有的话，他已经将我的 iPad 与他的手机连接起来了。发生了一些事情 - 他知道我和我朋友之间的笑话，我们只通过短信说 - 今天早上我接到了他的 4 个未接来电，同时我的闹钟应该响了，我们睡在同一张床上，所以需要给我打电话吗？  - 他可以向我空投照片，但当我试图向他空投时，我的手机出现故障 - 我没有收到他给我发消息的通知，我必须打开我的消息，然后我看到他发了消息（我已经检查了隐藏警报） 再次，我在网上查看了我应该在手机上留意的危险信号，但似乎一切都干净/清晰。我只是想要确凿的证据证明他在与他对峙之前在监视我。任何确认的建议或提示将不胜感激！   由   提交/u/No-Interaction-9880   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1toahzr/are_these_signs_my_boyfriend_is_spying_on_my_phone/</guid>
-      <pubDate>Tue, 26 May 2026 15:33:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>新功能 - 压缩图像</title>
-      <link>https://www.reddit.com/r/software/comments/1to8u3d/new_feature_compress_images/</link>
-      <description><![CDATA[上帝   由   提交/u/Beautiful_Stuff5267  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1to8u3d/new_feature_compress_images/</guid>
-      <pubDate>Tue, 26 May 2026 14:35:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
