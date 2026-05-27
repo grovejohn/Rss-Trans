@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 27 May 2026 19:57:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 22:26:20 GMT</lastBuildDate>
+    <item>
+      <title>Jakarta EE 11 通过 Open Liberty 从新手到专业人士</title>
+      <link>https://www.reddit.com/r/programming/comments/1tpjar1/jakarta_ee_11_from_newbie_to_pro_with_open_liberty/</link>
+      <description><![CDATA[ 由   提交/u/henk53  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tpjar1/jakarta_ee_11_from_newbie_to_pro_with_open_liberty/</guid>
+      <pubDate>Wed, 27 May 2026 21:30:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 可以成为计划运行时吗？ — AOT编译、计算图、内存规划和并发调度的研究</title>
+      <link>https://www.reddit.com/r/programming/comments/1tpi6kh/can_javascript_become_a_planned_runtime_a_study/</link>
+      <description><![CDATA[ 由   提交 /u/Happycodeine   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tpi6kh/can_javascript_become_a_planned_runtime_a_study/</guid>
+      <pubDate>Wed, 27 May 2026 20:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>亚稳态故障解释：为什么修复触发器失败</title>
+      <link>https://www.reddit.com/r/programming/comments/1tph0c5/metastable_failures_explained_why_fixing_the/</link>
+      <description><![CDATA[ 由   提交/u/teivah  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tph0c5/metastable_failures_explained_why_fixing_the/</guid>
+      <pubDate>Wed, 27 May 2026 20:06:26 GMT</pubDate>
+    </item>
     <item>
       <title>PostgreSQL 连接池解释：它是如何工作的以及为什么它很重要</title>
       <link>https://www.reddit.com/r/programming/comments/1tpfkuq/postgresql_connection_pooling_explained_how_it/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[WebAssembly 最初是一种为 Web 浏览器量身定制的技术，现在也作为一种服务器端技术而变得流行。 Wasm 的下一步是成为云原生应用程序的强大工具。与 Kubernetes 结合使用时，WebAssembly 可以以传统容器无法做到的方式彻底改变应用程序部署、安全性和资源效率。   由   提交 /u/goto-con   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1to689m/webassembly_on_kubernetes_nicolas_frankel/</guid>
       <pubDate>Tue, 26 May 2026 13:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>用柔术克服紧张疲劳</title>
-      <link>https://www.reddit.com/r/programming/comments/1to1anl/defeating_git_rigour_fatigue_with_jujutsu/</link>
-      <description><![CDATA[ 由   提交/u/Dear-Economics-315   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1to1anl/defeating_git_rigour_fatigue_with_jujutsu/</guid>
-      <pubDate>Tue, 26 May 2026 09:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>转置矩阵需要什么</title>
-      <link>https://www.reddit.com/r/programming/comments/1to0qjf/what_it_takes_to_transpose_a_matrix/</link>
-      <description><![CDATA[ 由   提交/u/amaurea  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1to0qjf/what_it_takes_to_transpose_a_matrix/</guid>
-      <pubDate>Tue, 26 May 2026 08:30:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>LangChain 和 Python 网络搜索与 Tavily</title>
-      <link>https://www.reddit.com/r/programming/comments/1to0fgn/langchain_and_python_websearch_with_tavily/</link>
-      <description><![CDATA[ 由   提交/u/Efficient-Public-551   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1to0fgn/langchain_and_python_websearch_with_tavily/</guid>
-      <pubDate>Tue, 26 May 2026 08:13:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
