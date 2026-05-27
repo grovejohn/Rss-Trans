@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 27 May 2026 17:52:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 19:57:52 GMT</lastBuildDate>
+    <item>
+      <title>SQL 学一次，用 30 年</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpgeg4/learn_sql_once_use_it_for_30_years/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpgeg4/learn_sql_once_use_it_for_30_years/</guid>
+      <pubDate>Wed, 27 May 2026 19:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>PostgreSQL 连接池解释：它是如何工作的以及为什么它很重要</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tpfn94/postgresql_connection_pooling_explained_how_it/</link>
+      <description><![CDATA[ 由   提交 /u/Majestic-Witness3655   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tpfn94/postgresql_connection_pooling_explained_how_it/</guid>
+      <pubDate>Wed, 27 May 2026 19:18:13 GMT</pubDate>
+    </item>
     <item>
       <title>我正在南美洲建立一个小型网络机构。我怎样才能使报价更畅销？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tpd1kk/im_building_a_small_web_agency_in_south_america/</link>
@@ -20,13 +34,6 @@
       <pubDate>Wed, 27 May 2026 17:45:34 GMT</pubDate>
     </item>
     <item>
-      <title>Agency Stack 2026：最小 WP + MCP 与 100% 硬编码 AI (Claude/ECC)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tpcd0y/agency_stack_2026_minimal_wp_mcp_vs_100_hardcoded/</link>
-      <description><![CDATA[我们正在为当地企业（管道工、屋顶工）建立一个潜在客户开发机构。目标：扩展到 50-100 个客户。现状：我们同意人工智能。我们在建筑方面存在强烈分歧。我们需要您的现实检查。 以下是我们的两种方法：   功能 选项A：务实的WP（我） 选项B：AI原生硬编码（联合创始人）    核心技术 WordPress + 最多 3 个高级插件（安全、SEO）。 静态 Next.js/HTML。没有数据库。无 PHP。   AI 集成 通过 MCP 连接内容和 CRM 路由。 Claude Code + affaan-m/ECC 工具 + 营销技能。以编程方式生成 250 多个本地 SEO 页面。   客户端 UI 标准 WP 仪表板。 “Screenshot-CMS”。客户将标记的屏幕截图发送到 WhatsApp 机器人。机器人通过 MCP 编辑代码并重新部署。   更新和部署安全性 委托给专业插件团队。 由开源技能和内部人工智能漏洞扫描程序管理。 主要论点商业保险。熟悉的用户体验。轻松移交。 不可破解（静态）。快如闪电。零插件膨胀。   冲突： * 他说： WordPress 已经过时且不安全。静态站点完全解决了运行时漏洞。开源 AI 技能更新速度比 WP 插件更快。 * 我说：他的堆栈是一辆为水管工过度设计的法拉利。依赖开源 GitHub 工具 (ECC) 会出现单点故障。 “屏幕截图-CMS”将是一场巨大的支持噩梦。 我向您提出的问题： 1. 到 2026 年，哪个堆栈实际上可以扩展到 100 个非技术客户？ 2.有人运行过“Screenshot-CMS”吗？生产方法？它能在真正的客户中生存吗？ 3. 最少的 3 插件 WP 设置真的比维护内部 ECC/Claude 管道更危险吗？ 4.他还说他的方式会省更多钱，我看到的恰恰相反，你看到了什么？   由   提交 /u/GonnDir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tpcd0y/agency_stack_2026_minimal_wp_mcp_vs_100_hardcoded/</guid>
-      <pubDate>Wed, 27 May 2026 17:25:46 GMT</pubDate>
-    </item>
-    <item>
       <title>第 2 部分：用 40kb 脚本化 GSAP 动画替换 3.4MB 视频：添加摄像机。</title>
       <link>https://www.reddit.com/r/webdev/comments/1tpc5ib/part_2_replacing_34mb_video_with_40kb_of_scripted/</link>
       <description><![CDATA[   第一部分观看次数达到 69K，这里有 250 票赞成。评论比帖子好。很多人询问 SEO、可访问性、性能以及 GSAP 是否有必要。一些人指出演示缺少一些东西。 你是对的。第一部分有一个光标在平坦舞台上的场景中点击。没有深度，没有焦点。这篇文章添加了一个相机：右键单击时放大操作，平移以通过保存对话框跟随光标，放大目标板上的结果，拉回并循环。仍低于 40 KB。仍然没有视频文件。 第二部分涵盖的内容：  缩放包装架构 - 为什么 gsap.to(frame, { scale: 1.4 }) 会破坏响应式缩放 平移数学 - 在给定缩放级别将视口中的任何目标居中的公式 “保持缩放，平移到follow”——放大一次，平移交互，缩小一次。不是 PowerPoint。 缓动哲学 - 为什么相机平移需要 sine.inOut，而不是 power2.inOut，以及按运动类型划分的完整缓动表 相机移动期间光标处于活动状态 - 缩放期间冻结的光标使整个事情感觉机械。 30% 的漂移修复了这个问题。 优雅的循环生命周期 - 结尾模式而不是快速重置 SEO - 演示中的每个按钮标签和标题都是可索引的 DOM 文本，而不是黑盒视频 辅助功能 - prefers-reduced-motion 支持，用于屏幕阅读器的 autoAlpha 性能 - 可以在浏览器中运行实时 FPS 压力测试（8 → 24 → 48 个元素，缩放 + 平移 + 交错），性能下降不多 代理分裂 - 我编写了约 60%（指导），AI 代理编写了约 40%（繁琐的时间线代码）。仍然有很多手动编辑，但比录制视频和维护要好得多  整篇文章有 4 个交互式演示，您可以暂停和检查，包括并排比较缓动曲线和缩放期间的光标行为。 完整的现场演示文章：https://spanthi.com/blog/gsap-choreography-part-2 制作示例：https://costumary.com 和 https://costumary.com/web-clipper 如果有人想节省时间，请了解人工智能代理的技能：https://github.com/Costumary/gsap-choreography  让我知道我做对了什么，做错了什么，或者我仍然错过了什么！这对我来说是学习和实验的美好几天。    由   提交/u/LordVein05   [链接] [评论] ]]></description>
@@ -36,7 +43,7 @@
     <item>
       <title>有人用 Drupal 吗？立即留出停机时间进行核心安全更新！</title>
       <link>https://www.reddit.com/r/webdev/comments/1tpc1v2/anyone_using_drupal_set_aside_downtime_for_core/</link>
-      <description><![CDATA[🚨 紧急：影响 PostgreSQL 的高度严重的 Drupal Core SQL 注入 (CVE-2026-9082) — 立即修补！ Drupal 安全团队已发布“高度严重”的漏洞安全公告 (SA-CORE-2026-004 / CVE-2026-9082) 修复了 Drupal Core 中严重的未经身份验证的 SQL 注入漏洞。  如果您正在运行由 PostgreSQL 数据库支持的 Drupal 站点，那么您将面临极大的风险。  📌 漏洞概述  CVE ID： CVE-2026-9082 Drupal 风险评分： 23/25（高度严重） 攻击媒介：远程、未经身份验证（匿名）HTTP 请求 利用状态： 活跃的野外攻击全球报告。 CISA 已正式将此缺陷添加到其已知可利用漏洞 (KEV) 目录中。已检测到数千个站点的 15,000 多个攻击探针。 根本原因：Drupal Core 的数据库抽象 API 中存在缺陷，特别是在 PostgreSQL EntityQuery 条件处理程序中。攻击者控制的 PHP 数组键无需经过适当的清理即可实现 SQL 占位符构造，从而允许任意 SQL 执行。   💥 高影响力和安全性风险 虽然 Drupal 估计只有不到 5% 的安装使用 PostgreSQL，但这种配置主要集中在企业、政府和高等教育环境中。成功利用授权：  完全数据库访问： 泄露会话令牌、敏感数据和密码哈希。 权限升级： 将标准或匿名会话提升为管理员。 远程代码执行 (RCE)： 在数据库权限配置错误的 PostgreSQL 环境中（例如，允许COPY FROM PROGRAM），攻击者可以从 SQL 注入转向在主机服务器上执行任意 shell 命令。   🔍受影响的版本 该缺陷影响使用 PostgreSQL 配置的所有受支持的 Drupal Core 分支，包括一些遗留分支：* Drupal Core 8.9.0 到10.4.9 * Drupal Core 10.5.x 在 10.5.10 之前 * Drupal Core 10.6.x 在 10.6.9 之前 * Drupal Core 11.1.x 在 11.1.10 之前 * Drupal Core 11.2.12 之前的 11.2.x * 11.3.10 之前的 Drupal Core 11.3.x （注意：MySQL、MariaDB 和 SQLite 后端*不会**受到此特定 SQLi 的影响，Drupal 7 不受影响）。*  🛡️ 所需操作 1.立即升级 Drupal Core 通过 Composer 更新您的安装。不要不要仅仅依赖浏览器管理 UI，因为 Drupal 更新基础架构正在经历繁重的负载。在终端中运行以下命令：bash Composer update drupal/core-recommended --with-dependency 确保您的网站达到以下安全版本之一或更高版本：10.4.10、10.5.10、10.6.9、11.1.10、11.2.12 或 11.3.10。 2.更新关键上游依赖项 即使您的站点使用 MySQL/MariaDB 并且不受 SQLi 影响，您仍然必须更新。此紧急版本捆绑了影响所有数据库环境的 Symfony 和 Twig 依赖项的关键上游安全修复程序。审核哪些角色可以更新 Twig 模板（通过视图或自定义模块）并立即限制权限。 3.临时缓解措施（如果您现在无法修补）  通过 Drupal Steward 路由生产流量，或配置严格的 Web 应用程序防火墙 (WAF) 规则来过滤恶意嵌套数组负载签名。 检查 PostgreSQL 日志和 WAF 日志是否存在异常，重点关注异常的匿名用户查询或结构查询修改。   🔗 官方参考文献  官方 Drupal 安全公告 (SA-CORE-2026-004) BleepingComputer 主动利用的覆盖范围    由   提交/u/OMGCluck   [链接] [评论]]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tpc1v2/anyone_using_drupal_set_aside_downtime_for_core/</guid>
       <pubDate>Wed, 27 May 2026 17:15:22 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tolhlx/queueing_requests_queues_your_capacity_problems/</guid>
       <pubDate>Tue, 26 May 2026 21:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我讨厌网络开发，我正在寻找出路</title>
-      <link>https://www.reddit.com/r/webdev/comments/1toiwzt/i_hate_web_development_and_im_looking_for_a_way/</link>
-      <description><![CDATA[嘿伙计们。我从 2019 年开始就开始从事 Web 开发工作。当时我还是一名在大学 UX/UI 系工作的学生，新冠疫情导致每个学生都被解雇了 - 所以我成立了一家代理机构。 这已经有一段时间了。我赚的钱足以支付新冠肺炎的费用——但后来我被一家公司雇用了几年，负责管理他们的整个技术堆栈（小公司）。如今，我在与该公司的聘用期间接待了自由职业客户。 事实是 - 多年来我意识到我是多么讨厌与消费者合作。  他们总是想要一个新功能，总是想要免费，而且他们总是可以自己“做得更好”。这周，我有一位客户打电话给我，问我是否可以让那个为她的 T 恤图形设计网站的女孩，因为“她太有才华了”。  我对自己进入这个行业感到非常沮丧。起初，这是显而易见的举动，因为我有经验，但它不再可持续了。由于范围蔓延，项目被推迟了几个月，而客户不明白这些事情需要时间 - 因此也需要金钱。 最近我一直在研究很多 DevOps。我将 k3 服务器与外部 nginx 代理和出站 DNS 白名单放在一起。我想在未来开始托管服务。我想我刚刚完成了前端设计——我只是对它没有热情。我更愿意关注功能。 你们中有人曾经从 WebDev 跳到 DevOps 或 Sysadmin 吗？我很想听听有关它的任何故事。   由   提交 /u/ibeatu85x   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1toiwzt/i_hate_web_development_and_im_looking_for_a_way/</guid>
-      <pubDate>Tue, 26 May 2026 20:18:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

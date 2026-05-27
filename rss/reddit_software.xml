@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 27 May 2026 17:51:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 19:56:54 GMT</lastBuildDate>
+    <item>
+      <title>帮助解决启动 Windows 时出现的错误</title>
+      <link>https://www.reddit.com/r/software/comments/1tpfg4z/ayuda_con_un_error_al_iniciar_windows/</link>
+      <description><![CDATA[昨天我尝试打开计算机时出现此错误，当我尝试按 F1 时屏幕关闭并再次出现此错误。我已经寻找解决该问题的方法，但我只看到 F1 选项以及 Hit ECS 之一，并且出现一个带有旧 Windows 的屏幕，我询问 AI，它告诉我删除快速启动选项并将其删除，并且此错误继续出现。 AI 还告诉我一种下载 Windows 中介工具的方法，但我没有 8 GB 空间的 USB，所以我在社区中查找是否有人知道修复它的方法   由   提交 /u/Few_Aardvark9134   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tpfg4z/ayuda_con_un_error_al_iniciar_windows/</guid>
+      <pubDate>Wed, 27 May 2026 19:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.reddit.com/r/software/comments/1tpepv0/password_vault_manger/</link>
+      <description><![CDATA[大家好。  我不喜欢其他密码保管库管理器，因为它们总是带有云功能 - 不要相信云。因此，我尝试为自己构建一个无云、最大限度地简化、加密使用和没有任何废话的解决方案。  几个月后，我创建了一个 100% 仅限本地的密码保管库管理器，具有上述所有功能，包括强大且可自定义的密码生成。 如果您想看一下，可以在我的网站上查看：darksoft.ie  它是为不懂技术的人设计的，所以任何人的奶奶都可以使用它。 （如果您不确定某些事情，它还包括一个帮助机器人。）   由   提交/u/BlavikenHistoria  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tpepv0/password_vault_manger/</guid>
+      <pubDate>Wed, 27 May 2026 18:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>[安卓| Windows] Dark-Fog - 文件加密和安全变得简单 => 保护您的文件和文档免遭小偷和人工智能的侵害</title>
+      <link>https://www.reddit.com/r/software/comments/1tpdiv2/android_windows_darkfog_file_encryption_and/</link>
+      <description><![CDATA[Dark-Fog 是一款文件加密软件，其目的是保护重要文件，以便在云存储或本地存储中在线保存共享。它提供 4 个文件加密选项和 2 个消息加密选项，背后具有高安全性语法。对 Windows 和 Android 系统/设备提供本机支持。 确保您的文件安全可靠 不要相信主机提供商保证您的文件安全，请确保它们确实只能由那些有意使用的人使用！ 文件只能由获得许可的人使用 使您的文件无法被未经许可的力量使用，通过密码加密甚至其他密钥文件来保护您的文件确保最大安全性！ 在任何位置安全共享和存储您的文件 由于文件由您自己控制加密，无论您在何处上传和存储文件，它们都只能由您使用，无论谁可以访问它们！ 多平台 随时随地轻松访问文件！不仅可以在 Windows 桌面上保护和访问您最重要的文件，还可以在 Android 设备上保护和访问您最重要的文件！ 无 AI 且完全本地/离线操作 Dark-Fog 完全本地和离线操作，确保没有第三方可以访问您处理的文件，并使 AI 无法读取我们上传或在线存储的文件！ Dark-Fog 是一款自行开发的文件加密软件，其目的是保护安全重要文件，用于在云存储或本地存储中在线保存共享，并受到任何人工智能扫描仪的保护。 在遇到云和网络中的许多文件和文档可以被任何人读取的问题后，我想出了自己的解决方案，而无需投资其他高级解决方案。 Dark-Fog 可供私人用户免费使用： Windows：https://www.dark-fog.net/downloads_shop.html Android：https://play.google.com/store/apps/details?id=com.it_huskys.dark_fog_android  获取包含 Dark-Fog+ 的完整功能包： Windows：https://www.dark-fog.net/downloads_shop.html Android：https://play.google.com/store/apps/details?id=com.it_huskys.dark_fog_plus_android   由   提交 /u/Unreal_NeoX   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tpdiv2/android_windows_darkfog_file_encryption_and/</guid>
+      <pubDate>Wed, 27 May 2026 18:05:04 GMT</pubDate>
+    </item>
     <item>
       <title>我厌倦了输入长消息和提示，所以我构建了“Echo”——一个极简、完全离线的语音输入实用程序，由 OpenAI 的本地 Whisper 模型（Windows/C#/FOSS）提供支持</title>
       <link>https://www.reddit.com/r/software/comments/1tpbyvq/i_got_tired_of_typing_out_long_messages_and/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>Youtube Angel - 我用我的第一个 chrome 扩展修复了 Youtube</title>
       <link>https://www.reddit.com/r/software/comments/1tpatdg/youtube_angel_i_fixed_youtube_with_my_first/</link>
-      <description><![CDATA[大家好👋 我意识到我的大部分“YouTube 会话”根本不是故意的。 我会打开 YouTube 观看我真正关心的创作者，然后很长一段时间陷入推荐循环甚至没有注意到。我之前尝试过拦截器，但大多数都觉得过于激进，或者让平台难以使用。 因此，我用不同的方法构建了一个名为 YouTube Angel 的小型 Chrome 扩展程序： 它不是阻止 YouTube，而是试图让体验更平静、更有目的性 其核心理念是为您真正信任或积极的频道建立个人白名单想要关注的视频仍然可以访问。 该列表之外的视频仍然可以访问，但视觉效果不再突出，因此您有意选择的内容更加突出。 当前功能：  喜爱频道的白名单系统 白名单之外的首页 + 侧边栏推荐会变灰 对来自非白名单频道的视频进行温和叠加 一键添加按钮 将白名单导入/导出为 JSON 随时轻松切换以禁用扩展  没有帐户，没有分析，没有数据离开您的计算机并在本地运行。 这仍处于早期阶段，但它已经改变了我个人使用 YouTube 的方式。 我花更少的时间被拖入算法兔子洞，同时在我真正想要的时候仍然可以访问该平台 我真诚地希望得到这里的人们的反馈，因为这个社区可能最接近该项目背后的理念🙌 我的网站 Chrome 扩展程序   由   提交/u/Open_Crab_2895   [链接] [评论]]]></description>
+      <description><![CDATA[Hey everyone 👋 I realized most of my “YouTube sessions” weren’t intentional at all. I’d open YouTube to watch one creator I actually cared about, then get pulled into recommendation loops for a long time without even noticing. I tried blockers before, but most felt too aggressive or made the platform frustrating to use. So I built a small Chrome extension called YouTube Angel with a different approach: instead of blocking YouTube, it tries to make the experience calmer and more intentional The core idea is a personal whitelist of channels you genuinely trust or actively want to follow. Videos outside that list are still accessible, but visually de-emphasized so the content you intentionally chose stands out more. Current features:  Whitelist system for favorite channels Homepage + sidebar recommendations outside the whitelist get greyed out Gentle overlay on videos from non-whitelisted channels One-click add button Import/export whitelist as JSON Easy toggle to disable the extension anytime  No accounts, no analytics, no data leaving your machine and run locally. It’s still early stage, but it already changed how I personally use YouTube. I spend less time getting dragged into algorithm rabbit holes while still keeping access to the platform when I actually want it. I’d genuinely love feedback from people here since this community is probably closest to the mindset behind the project 🙌 My website Chrome extension   由   提交 /u/Open_Crab_2895   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tpatdg/youtube_angel_i_fixed_youtube_with_my_first/</guid>
       <pubDate>Wed, 27 May 2026 16:32:44 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交/u/Weary_Duck_2097   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tp53nk/what_pdf_tool_do_you_use_for_pdfs/</guid>
       <pubDate>Wed, 27 May 2026 13:09:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>买家要小心 Parallels - 账单是阴暗的、阴暗的、阴暗的......</title>
-      <link>https://www.reddit.com/r/software/comments/1tp3njq/buyer_beware_with_parallels_billing_is_shady/</link>
-      <description><![CDATA[ 由   提交 /u/ResolutionChoice2011   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tp3njq/buyer_beware_with_parallels_billing_is_shady/</guid>
-      <pubDate>Wed, 27 May 2026 12:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>space-tree：Emacs 中的工作区管理树</title>
-      <link>https://www.reddit.com/r/software/comments/1tp39mv/spacetree_workspace_management_trees_in_emacs/</link>
-      <description><![CDATA[&quot;想想你如何在你的住宅中组织物品：房子有房间，房间有架子，架子有抽屉。如果您曾经听说过“近藤玛丽惠”这个名字，那么您可能已经接受了抽屉也可以有隔板。当你的快乐宝藏的激增需要细分时，这些可以被征用为更小的抽屉中的抽屉空间。 物理空间，当我们组织得当时，是递归的或树状的。不知何故，数字工作空间几乎从来都没有，这就是为什么我创建了空间树（请参阅 GitHub 上的代码），这是本文的主题。” 很想听到反馈，因为这是我的第一个 Emacs 包，并将于周一提交给 Melpa。包含视频演示！   由   提交 /u/misterchiply   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tp39mv/spacetree_workspace_management_trees_in_emacs/</guid>
-      <pubDate>Wed, 27 May 2026 11:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个工具来跟踪订单在工厂系统中实际停留的时间。数字太疯狂了。</title>
-      <link>https://www.reddit.com/r/software/comments/1tozybd/built_a_tool_to_track_how_long_orders_actually/</link>
-      <description><![CDATA[去年与一家制造商合作定制设备，典型的按订单生产设置。需要了解时间实际去向。 从头到尾遵循一个订单。实际工作6小时。在系统中呆了 11 天。 之前没有人测量过。他们使用该软件跟踪机器利用率、工时、OEE。没有人追踪产品本身......坐了多久。排队等待，等待人类注意到它已准备好进行下一步。 一旦我们将其变得可见并修复了流程（而不是机器），ERP 交付时间就下降了 30%。花了大约一年的时间。 很好奇是否有人构建或看到过跟踪这种端到端订单流时间的工具。我见过的大多数 MES 和 ERP 系统都对此视而不见。 如果有人好奇的话，可以得到完整的细分   由   提交/u/Nattepoes12  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tozybd/built_a_tool_to_track_how_long_orders_actually/</guid>
-      <pubDate>Wed, 27 May 2026 09:02:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
