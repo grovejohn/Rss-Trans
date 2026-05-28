@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 28 May 2026 17:56:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 20:01:38 GMT</lastBuildDate>
+    <item>
+      <title>JPEG 压缩深入探讨</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tqecp5/jpeg_compression_deep_dive/</link>
+      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tqecp5/jpeg_compression_deep_dive/</guid>
+      <pubDate>Thu, 28 May 2026 19:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在每个组合都没有图像的情况下制作动态 svg 图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tqe9fy/how_to_make_dynamic_svg_images_without_having_an/</link>
+      <description><![CDATA[我想创建一个功能，让我的用户能够自定义 2D svg 字符。他们会选择自己的性别、肤色、衣服颜色，甚至可能稍后会戴上配饰。这些角色的手臂也会改变位置。 显然，我不想为每种可能的组合创建一个 svg 图像，例如Brown-man-red-shirt-pose1.svg white-woman-blue-shirt-pose1.svg 等。如果我这样做，每次更新角色的设计时，我将至少有一百个文件需要更改，而我不希望这些文件成为我最大的敌人。 因此，我希望有一种方法可以在每次向用户渲染角色时动态动态生成这些组合。我询问了一个聊天机器人，它告诉我像使用 Django 处理 html 模板一样处理 svg 文件，并使用 render_to_string() 函数渲染它们，该函数允许我传递要显示的模板的变量。 我相信这种做法是有意义的。对于应用于角色的不同颜色，我只需要添加以下语法： {{shirt_color }} 作为路径“fill”的值。在我的 svg 中，并在 render_to_string() 中传递颜色值。 但是，如果我想在渲染过程中将手臂附加到角色上，而不是为每个手臂姿势都有一个文件，每个手臂姿势都具有相同的基本角色，那么它会变得有点复杂。我需要将整个 svg 文件集成到第一个文件中，并且需要关心它的位置和一切。每次在另一个 svg 文件中渲染该文件时，我还需要清理该文件，因为 (&lt;?xml version=&quot;1.0&quot;encoding=&quot;UTF-8&quot;standalone=&quot;no&quot;?&gt;, &lt;!-- Created with Inkscape (http://www.inkscape.org/) --&gt; 以及 svg 标签本身）。 那么最普遍同意的方法是什么？   由   提交 /u/Affectionate-Ad-7865   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tqe9fy/how_to_make_dynamic_svg_images_without_having_an/</guid>
+      <pubDate>Thu, 28 May 2026 19:48:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是真的吗？我尝试将我的聊天机器人连接到 insta API，但遇到问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tqbthr/is_this_true_im_trying_to_connect_my_chatbot_to/</link>
+      <description><![CDATA[      嘿，所以我尝试使用 webhooks 将我的聊天机器人（自定义编码）连接到 instagram API，但我无法测试它 我的 pm2 日志显示（第二张图片） 在我的第一张图片中，我觉得 AI 完全在撒谎，因为我已经尝试了 2 天，他不断添加东西现在它只是说你不能在所有的开发中进行测试 我的facebook和instagram已连接 facebook帐户也连接到开发人员facebook我相信所以一切都是从我这边启用的 我的思考过程是我使用了错误的APP_SECRET和ACCESS_TOKEN组合，因为有大约4个地方可用于生成访问令牌和ID和应用程序秘密其设计如此糟糕以至于我无法弄清楚什么是什么。老实说，非常沮丧。   由   提交/u/Jumpy_Paramedic2552  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tqbthr/is_this_true_im_trying_to_connect_my_chatbot_to/</guid>
+      <pubDate>Thu, 28 May 2026 18:21:18 GMT</pubDate>
+    </item>
     <item>
       <title>哪个网站建设者？快速但专业</title>
       <link>https://www.reddit.com/r/webdev/comments/1tq95dh/which_website_builder_quick_but_professional/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[      制作个人网站并尝试展示我从事过的项目并尝试使其可过滤。但我一生都无法弄清楚 javascript 部分是如何工作的？到目前为止，W3schools 一直令人惊叹且易于理解。  使用这个作为我的基础，但是我应该在java部分中替换什么以使其可过滤？？？  https://preview.redd.it/a35guno7yt3h1.png?width=1990&amp;format=png&amp;auto=webp&amp;s=169b5610856995b84e1cee0881dac68dbc8be32d   由   提交 /u/ToxicGhostJuice   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tpwc3z/how_to_filter_elements_with_javascript/</guid>
       <pubDate>Thu, 28 May 2026 07:24:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>断点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tpu71v/breakpoints/</link>
-      <description><![CDATA[刚刚开始关于断点的讨论。这不像以前没有被打死的:D (͡(‿Ø)) Tailwind sm: 40rem - 大约 640px xs: 对于最小的 iphone 宽度通常设置为 30rem 或 320px 折叠手机可能是更小的视口的用例..我不知道，我买不起也许这不是他们的工作方式？据说它们可以是 280px 有智能眼镜。不知道。虚拟现实。不知道。 桌面上的窗口，当窗口的某些内容离开屏幕或仅仅因为我在想要继续使用桌面网站时缩小窗口而将其转换为网站的移动版本时，像我这样的人会真的感到恼火。 （哦，你和你的平铺窗口管理器，哈哈）   由   提交 /u/xThomas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tpu71v/breakpoints/</guid>
-      <pubDate>Thu, 28 May 2026 05:27:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代网络开发最近感觉异常疲惫</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tptx9g/modern_web_development_feels_weirdly_exhausting/</link>
-      <description><![CDATA[也许我只是变老了，但前端工具现在变化如此之快，有时感觉跟上生态系统比实际构建产品更困难。 感觉每隔几个月就会有一个新的框架、渲染策略、状态管理模式或部署工作流程，人们突然希望你知道。   由   提交/u/Bladerunner_7_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tptx9g/modern_web_development_feels_weirdly_exhausting/</guid>
-      <pubDate>Thu, 28 May 2026 05:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为澳大利亚新南威尔士州 HSC 的希腊神话设计和技术 MDP 初学者基于浏览器的 3D 原型选择最佳工具。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tpspf6/choosing_the_best_tool_for_a_beginner/</link>
-      <description><![CDATA[我正在一所学校设计与设计学院工作。技术专业项目，需要帮助找到 Reddit 子版块来选择最佳工具。 该项目是一个关于希腊神话的基于浏览器的低多边形 3D 教育原型。它有一个小型的奥林匹斯山中心，基本上是一个经过装饰的中心区域，只有一个门户可以通往一个可玩的神话场景：代达罗斯迷宫中的忒修斯和牛头怪，本质上就像一个迷宫，你可以通过过场动画和一些小谜题等媒介来探索/遵循神话。 我的限制是：  需要在浏览器中运行 应该在普通学校工作笔记本电脑/设备 低多边形/简单的3D风格 最少的编码体验 对于学生原型来说必须是现实的 理想情况下易于通过链接共享  更多的背景是，基本上我已经根据我最终使用的工具的限制规划了我的整个设计，并根据多种可能性进行了规划，所以我本质上只需要一种媒介来构建我的项目，这就是为什么我把它留下来的原因迟到询问关于使用什么工具来构建这个原型的建议。我对我的广泛设计和这一可玩场景和中心区域的功能良好的原型以及潜在的未来设计充满信心，希望我能够充分展示第 6 频段的设计过程。   由   提交 /u/Bigbrainmc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tpspf6/choosing_the_best_tool_for_a_beginner/</guid>
-      <pubDate>Thu, 28 May 2026 04:13:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
