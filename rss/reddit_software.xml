@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 27 May 2026 22:26:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 01:33:46 GMT</lastBuildDate>
+    <item>
+      <title>互联网变得更糟，所以我构建了一些扩展来修复它。周三自我推销</title>
+      <link>https://www.reddit.com/r/software/comments/1tpku1z/the_internet_got_worse_so_i_built_some_extensions/</link>
+      <description><![CDATA[我是一名独立开发者，说实话，这整件事都是出于挫败感而开始的。浏览互联网过去感觉很简单。现在是 cookie 横幅、装扮成结果的广告、让你冲动购物的广告、消耗你时间的厄运滚动。 所以我一直在开发一套 Chrome 扩展。它们都有可爱的像素艺术吉祥物。 CookieTin - 自动拒绝 cookie 横幅（是的，即使是那些将三个菜单深埋在深色图案中的横幅）。额外福利：如果弹出窗口中隐藏有折扣代码，它即将关闭，它会先为您保存。 https://chromewebstore.google.com/detail/cookietin/nfmieembiihdamflajcgaiodgbabgnca LinkyLink - 将 Google 搜索剥离回实际结果。没有广告，没有人工智能概述（除非您需要），没有“人们也问”垃圾邮件。只是链接。 https://chromewebstore.google.com/detail/linkylink/hahpbkleegklohlcebbilbgfhfemooic Usure - 拦截冲动购买。在您添加到购物车之前，它会询问您的感受。听起来很烦人，但如果您曾经在半夜买了一些令您后悔的东西，那么它实际上非常有用。  https://chromewebstore.google.com/detail/usure-stop-impulse-buying/aegmbkffmcmnflkcbpggnidiepndhaed?utm_source=item-share-cb 接下来将推出一款末日卷轴游戏 衷心感谢您的反馈 - 我只是一个构建这些游戏的人。   由   提交/u/Novel-Put-1672   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tpku1z/the_internet_got_worse_so_i_built_some_extensions/</guid>
+      <pubDate>Wed, 27 May 2026 22:28:44 GMT</pubDate>
+    </item>
     <item>
       <title>watchwhere — CLI 用于检查您的哪个流媒体订阅者有电影</title>
       <link>https://www.reddit.com/r/software/comments/1tpjx3q/watchwhere_cli_to_check_which_of_your_streaming/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 27 May 2026 21:43:26 GMT</pubDate>
     </item>
     <item>
-      <title>达米安 |/|>-<([(未知的电视人)])>-<|\|</title>
+      <title>达米恩 |/|>-<([(未知的电视人)])>-<|\|</title>
       <link>https://www.reddit.com/r/software/comments/1tpiros/damien_the_unknown_tv_man/</link>
       <description><![CDATA[ 由   提交/u/MoistBaby3677  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tpiros/damien_the_unknown_tv_man/</guid>
@@ -85,7 +92,7 @@
     <item>
       <title>2026 年最好的 Windows 隐私清理器和工具</title>
       <link>https://www.reddit.com/r/software/comments/1tpbvg7/the_best_windows_privacy_cleaners_and_tools_in/</link>
-      <description><![CDATA[释放磁盘空间并增强您的在线隐私！我们测试了适用于 Windows 的最佳 PC 清洁程序和保护工具。 在本文中  1. PrivaZer，瑞士军刀，证明了其最高排名 2.擦除，适用于使用 30 种不同程序的用户 3. BleachBit，那些不相信自己的话的人的选择 4.隐私橡皮擦，因为没有人每周进行手动扫描 5.安全橡皮擦 (ASCOMP)，当您需要确定性时 6.橡皮擦，你工具箱里的老手 2026 年我应该选择哪种 Windows 隐私清洁剂？  阅读更多 : https://assistouest.fr/en/the-best-windows-privacy-cleaners-and-tools/ 希望有帮助，   由   提交/u/Tiny-Effort-95880   [链接] [评论]]]></description>
+      <description><![CDATA[释放磁盘空间并增强您的在线隐私！我们测试了适用于 Windows 的最佳 PC 清洁程序和保护工具。 在本文中  1. PrivaZer，瑞士军刀，证明了其最高排名 2.擦除，适用于使用 30 种不同程序的用户 3. BleachBit，那些不相信自己的话的人的选择 4.隐私橡皮擦，因为没有人每周进行手动扫描 5.安全橡皮擦 (ASCOMP)，当您需要确定性时 6.橡皮擦，你工具箱里的老手 2026 年我应该选择哪种 Windows 隐私清理工具？  阅读更多 : https://assistouest.fr/en/the-best-windows-privacy-cleaners-and-tools/ 希望有帮助，   由   提交/u/Tiny-Effort-95880   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tpbvg7/the_best_windows_privacy_cleaners_and_tools_in/</guid>
       <pubDate>Wed, 27 May 2026 17:09:01 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[大家好。 最初，我将此作为学习 Rust 的一个业余爱好项目，但很快它就成为一个真正的工作时间，具有许多方便的功能和出色的性能。 它是免费且开源的，安全且现代，具有对 Let&#39;s Encrypt 的本机支持，包括 HTTP-01 挑战、速率限制、H2 自动协议发现， Websocket、gRPC 等等。  GitHUB 主页：https://github.com/sadoyan/aralez 文档：https://aralez.rs  未振动编码。 不是 AI 坡度。   由   提交/u/sadoyan  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tpaoxi/opensource_modern_reverse_proxy_load_balancer/</guid>
       <pubDate>Wed, 27 May 2026 16:28:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用过的最糟糕的软件是什么，为什么？</title>
-      <link>https://www.reddit.com/r/software/comments/1tp9hqg/what_was_the_worst_software_youve_ever_used_and/</link>
-      <description><![CDATA[我想知道您使用过或测试过的最糟糕的软件是什么，以及为什么它如此糟糕。也许是用户界面、缺乏用户友好性、更新或其他原因。我这样问是为了让我们改进它，我非常感谢您的反馈。诚挚的问候   由   提交 /u/Violet_Iana   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tp9hqg/what_was_the_worst_software_youve_ever_used_and/</guid>
-      <pubDate>Wed, 27 May 2026 15:46:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
