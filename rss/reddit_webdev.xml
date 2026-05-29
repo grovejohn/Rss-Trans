@@ -4,13 +4,20 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 May 2026 12:02:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 15:27:13 GMT</lastBuildDate>
     <item>
-      <title>您对这个网页编辑器有何看法，phoenix code 它是 adobe 括号的继承者</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tqxqt1/what_are_your_views_on_this_web_editor_phoenix/</link>
-      <description><![CDATA[好奇这里是否有人用过它来做任何严肃的事情。它适合更大的项目还是更像一个游乐场？   由   提交/u/krrish82  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tqxqt1/what_are_your_views_on_this_web_editor_phoenix/</guid>
-      <pubDate>Fri, 29 May 2026 10:33:20 GMT</pubDate>
+      <title>对氛围编码非常失望。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tr43kj/quite_disappointed_by_vibe_coding/</link>
+      <description><![CDATA[大家好！ 我目前正在开发一个登陆页面项目，其中包含相当多的 GSAP 动画和一些 ThreeJS，全部使用 SvelteKit 构建并托管在 Cloudflare 上。 我正在与一位具有一定开发知识的设计师朋友一起开发这个项目。他会做 HTML/CSS/JS 并使用 GSAP。 我们经常一起工作——他寻找客户，处理项目管理、UI 和 UX，而我则负责开发方面。 由于我没有很强的“图形眼”，所以我们通常的工作流程是：我打基础，处理动画，然后让他回来处理所有事情以进行简化和微调。 自从 AI 出现以来，事情就变得越来越复杂。变得更加复杂了。不要误会我的意思——我自己使用 Claude 来获得指导、检查我的代码、分析项目或生成样板代码。但我总是检查输出。 另一方面，我的朋友在完整的氛围编码模式下使用它。我刚刚得到了这个登陆页面的最新版本，他在其中推送了他的更改，我感到非常震惊。该代码无缘无故地被大量过度设计，难以理解，而且调试起来真是一场噩梦。 Claude 让一切变得比需要的复杂得多。 为了避免今后出现这种情况，我们已经开始制定一些基本规则：任何合并之前的强制审查，以及只有我接触的某些核心文件。这不是一个完美的解决方案，但它有助于防止事情螺旋式上升。 还有其他人在振动编码方面有过同样的经历吗？我的意思是，它确实有效，但输出感觉臃肿。 编辑：正如有些人注意到的那样，我使用人工智能将该文本翻译成英语并重新措辞，因为我的英语不太流利（这不是很讽刺吗？哈哈）。   由   提交 /u/frenchy_mustache   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tr43kj/quite_disappointed_by_vibe_coding/</guid>
+      <pubDate>Fri, 29 May 2026 14:45:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人利用我的开源项目对 14,000 人进行了网络钓鱼</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tr2b9v/someone_used_my_open_source_project_to_phish/</link>
+      <description><![CDATA[       由   提交 /u/dreamnyt   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tr2b9v/someone_used_my_open_source_project_to_phish/</guid>
+      <pubDate>Fri, 29 May 2026 13:43:04 GMT</pubDate>
     </item>
     <item>
       <title>尝试仅使用 Rumble Cloud、FFmpeg 和 CDN 来托管和流式传输视频？</title>
@@ -22,7 +29,7 @@
     <item>
       <title>除了工作时间之外，您还有多少时间投入到 webdev 上？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tqo9yy/aside_from_working_hours_how_much_time_do_you/</link>
-      <description><![CDATA[成功的开发人员，请回答上面的问题。在正常工作时间之外，您投入多少时间用于网络开发/编程/学习？你花了多少时间参与网络开发领域并吸收知识和/或与他人讨论？ 我在浏览远程工作时发现了一个看起来很酷的工作，但在应用程序中，只是你填写的应用程序，看看他们是否感兴趣，他们提出了强制性/必需的问题，例如 “最近改变了你对自己的看法的想法、书籍、博客文章或演讲是什么？ ” 和 “你对软件工程持有什么有争议或不受欢迎的观点，为什么？” 我已经做了 15 年的 Web 开发人员，但我什至不知道如何回答这两个问题。没有任何？我每天都会阅读有关 webdev 的帖子和博客（简称为 TLDR），但我还没有读到任何令人震惊的惊天动地的内容来改变我对 web 开发的看法。我应该每天花 15 个小时以上思考/阅读/讨论 Web 开发吗？ *诚实的问题，而不是咆哮或抱怨。老实说，我想知道我是否需要做更多的事情？*   由   提交/u/X5455  [链接] [评论]]]></description>
+      <description><![CDATA[成功的开发人员，请回答上面的问题。在正常工作时间之外，您投入多少时间用于网络开发/编程/学习？您花了多少时间参与网络开发领域并吸收知识和/或与他人讨论？ 我在浏览远程工作时遇到了一个看起来很酷的工作，但在应用程序中，只是您填写的应用程序以查看他们是否感兴趣，他们提出了强制性/必需的问题，例如 “最近改变了您对自己的看法的想法、书籍、博客文章或演讲是什么？ ” 和 “你对软件工程持有什么有争议或不受欢迎的观点，为什么？” 我已经做了 15 年的 Web 开发人员，但我什至不知道如何回答这两个问题。没有任何？我每天都会阅读有关 webdev 的帖子和博客（简称 TLDR），但我还没有读到任何令人震惊的惊天动地的内容来改变我对 web 开发的看法。我应该每天花 15 个小时以上思考/阅读/讨论 Web 开发吗？ *诚实的问题，而不是咆哮或抱怨。老实说，我想知道我是否需要做更多的事情？*   由   提交/u/X5455  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tqo9yy/aside_from_working_hours_how_much_time_do_you/</guid>
       <pubDate>Fri, 29 May 2026 02:27:56 GMT</pubDate>
     </item>
@@ -50,7 +57,7 @@
     <item>
       <title>咆哮：Webflow 很糟糕</title>
       <link>https://www.reddit.com/r/webdev/comments/1tqkyfv/rant_webflow_sucks/</link>
-      <description><![CDATA[我只需要在我的笔记本电脑摔成两半之前把它拿出来。我在 UX/UI 领域工作了近 10 年。我使用过很多网站构建器。迄今为止最糟糕的是 Webflow。我从哪里开始？  很少有自定义代码支持：说实话，几乎所有样式和 JS 都需要在站点设置中添加？太笨重了。至少给我页面级别的控制 - 我拒绝将所有内容与嵌入一起破解。太疯狂了。 组件太锁定了：所以我无法在特殊异常中修改一件事（属性之外）？我明白这就是代码库的工作原理，但你是一名视觉设计师。更像 Figma  动画是一场噩梦：为什么我必须定义悬停状态？你在开玩笑吧？一种悬停状态，默认动画进出。进行自定义悬停应该是一个例外，而不是标准。我知道这是非常简单的元素级动画的基本设置，他们希望任何网页设计师都使用这些而不是多级动画，这太疯狂了。另外，为什么我们不能对边距和填充进行动画处理？？？ 您无法组织 CMS 集合内容：复杂的数据输入？滚动浏览大量的输入列表并选择没有层次结构的乐趣 命名每个捏造的元素都是地狱。我们可以切换到 css 框架原生方法吗？当我们使用可视化编辑器调整属性时，只需应用基于Tailwind之类的类名即可。当然，需要时可以自定义类名，但是天哪，关心类所需的脑力让我感到恶心 沿着这些思路：为什么我们看不到所有类的列表？？？如果一切都是为了创建一个自定义类，那么至少让我看到一个列表/CSS 来表达对葫芦的热爱 没有内联 SVG 元素选项是令人恼火的。是的，SVG 可能是一个安全漏洞，但要到 2026 年才能弄清楚。如果您希望能够轻松更改图标的颜色、线宽等，那么必须使用嵌入式代码真是太令人讨厌了  我发誓这个产品是谁的，即使是为了我的客户也无法使用它，因为您需要了解 CSS 知识，而我也无法使用它，因为它是一堆炽热的臭垃圾。现在人工智能接替我工作的报名表在哪里？拥有它。很高兴。 这就是我尖叫的全部能量。哭。马上就吐了。请，也许我只是对插件或工具非常无知，所以请随意启发我。  我现在要去找一些电脑形状的东西来打破。 感谢您的聆听🫰 AHHHHHHHHHGGGGGGGGGGGGGG   由   提交 /u/Spirited-Wonder1410   [链接] [评论]]]></description>
+      <description><![CDATA[我只需要在我的笔记本电脑摔成两半之前把它拿出来。我在 UX/UI 领域工作了近 10 年。我使用过很多网站构建器。迄今为止最糟糕的是Webflow。我从哪里开始？  很少有自定义代码支持：说实话，几乎所有样式和 JS 都需要在站点设置中添加？太笨重了。至少给我页面级别的控制 - 我拒绝将所有内容与嵌入一起破解。太疯狂了。 组件太锁定了：所以我无法在特殊异常中修改一件事（属性之外）？我明白这就是代码库的工作原理，但你是一名视觉设计师。更像 Figma  动画是一场噩梦：为什么我必须定义悬停状态？你在开玩笑吧？一种悬停状态，默认动画进出。进行自定义悬停应该是一个例外，而不是标准。我知道这是非常简单的元素级动画的基本设置，他们希望任何网页设计师都使用这些而不是多级动画，这太疯狂了。另外，为什么我们不能对边距和填充进行动画处理？？？ 您无法组织 CMS 集合内容：复杂的数据输入？滚动浏览大量的输入列表并选择没有层次结构的乐趣 命名每个捏造的元素都是地狱。我们可以切换到 css 框架原生方法吗？当我们使用可视化编辑器调整属性时，只需应用基于Tailwind之类的类名即可。当然，需要时可以自定义类名，但是天哪，关心类所需的脑力让我感到恶心 沿着这些思路：为什么我们看不到所有类的列表？？？如果一切都是为了创建一个自定义类，那么至少让我看到一个列表/CSS 来表达对葫芦的热爱 没有内联 SVG 元素选项是令人恼火的。是的，SVG 可能是一个安全漏洞，但要到 2026 年才能弄清楚。如果您希望能够轻松更改图标的颜色、线宽等，那么必须使用嵌入式代码真是太令人讨厌了  我发誓这个产品是谁的，即使是为了我的客户也无法使用它，因为您需要了解 CSS 知识，而我也无法使用它，因为它是一堆炽热的臭垃圾。现在人工智能接替我工作的报名表在哪里？拥有它。很高兴。 这就是我尖叫的全部能量。哭。现在就吐。请，也许我只是对插件或工具非常无知，所以请随意启发我。  我现在要去找一些电脑形状的东西来打破。 感谢您的聆听🫰 AHHHHHHHHHGGGGGGGGGGGGGG   由   提交 /u/Spirited-Wonder1410   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tqkyfv/rant_webflow_sucks/</guid>
       <pubDate>Fri, 29 May 2026 00:01:36 GMT</pubDate>
     </item>
@@ -78,7 +85,7 @@
     <item>
       <title>如何上传我在互联网上创建的网站，但它只显示给拥有确切链接的人？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tqenh9/how_to_upload_a_website_that_i_created_on_the/</link>
-      <description><![CDATA[我为大学做了一个作品集作为作业，但其中有一些非常敏感的信息，例如我的身份证号和全名。 我不想让互联网上的任何人偶然发现它，我只想让教授看到它。 所以我想要一个非常困难的精确链接，因此只有知道此链接的人才能访问我的网站。 是否有一些免费的链接网站托管这件事？   由   提交/u/W3-SD  [链接] [评论]]]></description>
+      <description><![CDATA[我为大学做了一个作品集作为作业，但其中有一些非常敏感的信息，例如我的身份证号和全名。 我不想让互联网上的任何人偶然发现它，我只想让教授看到它。 所以我想要一个非常困难的精确链接，因此只有知道此链接的人才能访问我的网站。 是否有一些免费的链接网站托管这件事？   由   提交/u/W3-SD   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tqenh9/how_to_upload_a_website_that_i_created_on_the/</guid>
       <pubDate>Thu, 28 May 2026 20:01:26 GMT</pubDate>
     </item>
@@ -102,13 +109,6 @@
       <description><![CDATA[我想在几天内创建一个网站。  其主要目的是提供免费的数字下载。我想在这个过程中捕获电子邮件，为使用该产品提供后续指导。  不涉及电子商务，页面也很少（4-5）。分析和域名注册将是一个额外的好处。  我希望它看起来不错 - 我希望有灵活的视觉设计选项或能够调整模板。  我对 WordPress、Wix、Squarespace、Shopify、Canva 等工具很满意，但不太喜欢使用代码。 在这种情况下，人们会推荐什么？ 🙏   由   提交/u/jahwinnie  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tq95dh/which_website_builder_quick_but_professional/</guid>
       <pubDate>Thu, 28 May 2026 16:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>为新的 Docker 化应用程序寻找堆栈建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tq80xw/looking_for_stack_advice_for_a_new_dockerized_app/</link>
-      <description><![CDATA[我不确定我是否在正确的位置问这个问题，但我需要创建一个 Web 应用程序，并且正在寻找最适合的堆栈。到目前为止，SurveyJS 似乎勾选了所有框，但我对堆栈的经验为零。另外一个是 Flask/Waitress 和 JS。最终，这一切都必须在 Docker 主机上运行。 我需要它保存表单数据，最好是像 MariaDB 这样的东西，这样用户就可以选择之前填写的表单并进行编辑。多个用户将使用它，身份验证正在其他地方处理，但每个人都应该能够查看/编辑其他人的数据。 这是一个“很好的选择”，但是是否有将表单数据导出为 XML 的功能？ 我们正在构建的应用程序需要能够提出诸如“您驾驶了多少辆车”之类的问题，然后根据该答案为每辆车创建一个部分或子表单关于汽车的其他问题。 我不介意为此投入一点钱，看看像 FluentForm 这样的一体化选项，如果它符合所有条件的话 非常感谢！   由   提交/u/the_zipadillo_people   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tq80xw/looking_for_stack_advice_for_a_new_dockerized_app/</guid>
-      <pubDate>Thu, 28 May 2026 16:07:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
