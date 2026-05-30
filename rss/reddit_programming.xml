@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 30 May 2026 12:57:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 15:57:28 GMT</lastBuildDate>
+    <item>
+      <title>我正在将 PPSSPP 移植到 WebAssembly 以测试浏览器本机应用程序的限制</title>
+      <link>https://www.reddit.com/r/programming/comments/1ts376m/im_porting_ppsspp_to_webassembly_to_test_the/</link>
+      <description><![CDATA[我一直在研究一个实验项目：通过 WebAssembly 在浏览器中运行 PPSSPP。 演示：https://root-hunter.github.io/ppsspp-web/ 来源：https://github.com/root-hunter/ppsspp-web https://github.com/root-hunter/ppsspp-wasm 目标不仅仅是“在选项卡中进行模拟”，而是探索浏览器可以推到多远作为复杂原生风格应用程序的运行时。 这涉及到几个有趣的领域：  将大型原生/C++ 应用程序编译为 WebAssembly Emscripten 集成 WebGL 渲染约束 用于加载大型本地文件的浏览器文件 API 在浏览器存储中保存/设置持久性 音频延迟 游戏手柄/控制器输入 内存限制 移动浏览器行为 Chrome、Firefox、Edge 和 Safari 之间的性能差异 可能的 PWA/离线工作流程  该项目仍处于实验阶段，并且非常依赖浏览器/设备，但它已经可以作为小型演示之外的 WebAssembly 实际压力测试。 一些问题我正在研究：  这种应用程序的最佳存储层是什么：IndexedDB、OPFS 还是其他？ 如何在浏览器中有效处理大型本地文件？ 在需要 WebGPU 之前，WebGL 可以优化多少？ 跨浏览器的 Gamepad API 支持有多可靠？ 应该如何处理保存状态和虚拟文件系统持久性？ 浏览器选项卡限制对实时工作负载的影响有多大？ 这可以成为可用的 PWA，还是原生仍然是唯一重要的选择？  重要说明：这是一个非官方的 PPSSPP WebAssembly/浏览器实验。它不包含或链接到游戏、BIOS 文件、ISO、CSO、ROM 或受版权保护的内容。用户提供自己的本地文件。 我希望获得具有 WebAssembly、Emscripten、浏览器存储、WebGL/WebGPU 或将本机应用程序移植到网络经验的人员的反馈。 为了使这种浏览器本机移植更加稳定和高性能，您首先会关注什么？   由   提交/u/roothunter-dev  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ts376m/im_porting_ppsspp_to_webassembly_to_test_the/</guid>
+      <pubDate>Sat, 30 May 2026 15:37:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Haskell 中 monad 的实际应用</title>
+      <link>https://www.reddit.com/r/programming/comments/1ts1x2l/practical_uses_of_monads_in_haskell/</link>
+      <description><![CDATA[受到 r/haskellquestions 上的一个问题的启发，我为初级/中级水平的人们写了一篇关于 monad 的实用方面的文章，关于如何超越仅仅理解 monad 类。我试图强调我们如何使用 monad 来构建我们的代码，它们带来什么好处，以及如何推理它们。它带有练习！   由   提交/u/nicuveo  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ts1x2l/practical_uses_of_monads_in_haskell/</guid>
+      <pubDate>Sat, 30 May 2026 14:47:03 GMT</pubDate>
+    </item>
     <item>
       <title>JSON 日志中的模式检测和关联</title>
       <link>https://www.reddit.com/r/programming/comments/1trhw1m/pattern_detection_and_correlation_in_json_logs/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>FastAPI 推出官方 VSCode 扩展</title>
       <link>https://www.reddit.com/r/programming/comments/1tqtyvq/fastapi_introduces_official_vscode_extension/</link>
-      <description><![CDATA[FastAPI 发布了官方 VSCode 扩展，其中包括路线探索、端点搜索和 CodeLens 式导航等功能。 该工具旨在增强 FastAPI 用户的开发体验。   由   提交 /u/Top-Rush83   [链接] [评论]]]></description>
+      <description><![CDATA[FastAPI 发布了官方 VSCode 扩展，其中包括路线探索、端点搜索和 CodeLens 式导航等功能。 该工具旨在增强 FastAPI 用户的开发体验。   由   提交/u/Top-Rush83  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tqtyvq/fastapi_introduces_official_vscode_extension/</guid>
       <pubDate>Fri, 29 May 2026 07:09:21 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交/u/boostlibs  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tq6jqt/what_happens_when_you_build_a_chat_server_on_one/</guid>
       <pubDate>Thu, 28 May 2026 15:14:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>2004 RuneScape 如何将多人 RPG 融入 56k 拨号</title>
-      <link>https://www.reddit.com/r/programming/comments/1tq65b4/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/</link>
-      <description><![CDATA[ 由   提交/u/jkmonger  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tq65b4/how_2004_runescape_fit_a_multiplayer_rpg_into_56k/</guid>
-      <pubDate>Thu, 28 May 2026 15:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>对真实 iAPX 432 进行基准测试</title>
-      <link>https://www.reddit.com/r/programming/comments/1tq568g/benchmarking_real_iapx_432/</link>
-      <description><![CDATA[ 由   提交 /u/mark-engineer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tq568g/benchmarking_real_iapx_432/</guid>
-      <pubDate>Thu, 28 May 2026 14:24:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
