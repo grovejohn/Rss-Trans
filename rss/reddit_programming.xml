@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 30 May 2026 15:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 18:56:19 GMT</lastBuildDate>
     <item>
-      <title>我正在将 PPSSPP 移植到 WebAssembly 以测试浏览器本机应用程序的限制</title>
-      <link>https://www.reddit.com/r/programming/comments/1ts376m/im_porting_ppsspp_to_webassembly_to_test_the/</link>
-      <description><![CDATA[我一直在研究一个实验项目：通过 WebAssembly 在浏览器中运行 PPSSPP。 演示：https://root-hunter.github.io/ppsspp-web/ 来源：https://github.com/root-hunter/ppsspp-web https://github.com/root-hunter/ppsspp-wasm 目标不仅仅是“在选项卡中进行模拟”，而是探索浏览器可以推到多远作为复杂原生风格应用程序的运行时。 这涉及到几个有趣的领域：  将大型原生/C++ 应用程序编译为 WebAssembly Emscripten 集成 WebGL 渲染约束 用于加载大型本地文件的浏览器文件 API 在浏览器存储中保存/设置持久性 音频延迟 游戏手柄/控制器输入 内存限制 移动浏览器行为 Chrome、Firefox、Edge 和 Safari 之间的性能差异 可能的 PWA/离线工作流程  该项目仍处于实验阶段，并且非常依赖浏览器/设备，但它已经可以作为小型演示之外的 WebAssembly 实际压力测试。 一些问题我正在研究：  这种应用程序的最佳存储层是什么：IndexedDB、OPFS 还是其他？ 如何在浏览器中有效处理大型本地文件？ 在需要 WebGPU 之前，WebGL 可以优化多少？ 跨浏览器的 Gamepad API 支持有多可靠？ 应该如何处理保存状态和虚拟文件系统持久性？ 浏览器选项卡限制对实时工作负载的影响有多大？ 这可以成为可用的 PWA，还是原生仍然是唯一重要的选择？  重要说明：这是一个非官方的 PPSSPP WebAssembly/浏览器实验。它不包含或链接到游戏、BIOS 文件、ISO、CSO、ROM 或受版权保护的内容。用户提供自己的本地文件。 我希望获得具有 WebAssembly、Emscripten、浏览器存储、WebGL/WebGPU 或将本机应用程序移植到网络经验的人员的反馈。 为了使这种浏览器本机移植更加稳定和高性能，您首先会关注什么？   由   提交/u/roothunter-dev  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ts376m/im_porting_ppsspp_to_webassembly_to_test_the/</guid>
-      <pubDate>Sat, 30 May 2026 15:37:49 GMT</pubDate>
+      <title>查看 File Pilot 背后的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1ts7u6m/looking_at_code_behind_file_pilot/</link>
+      <description><![CDATA[我回顾了一些基础知识并在 Wookash 播客上实现了一个简单的功能。对于那些尝试过 File Pilot 并想知道为什么它的 UI 如此快速且响应迅速的人来说，这可能会很有趣。 我做了一些实际的 UI 编程。虽然不多，因为我们时间有限，但足以让您了解它是如何工作的。   由   提交/u/vkrajacic89  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ts7u6m/looking_at_code_behind_file_pilot/</guid>
+      <pubDate>Sat, 30 May 2026 18:40:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>当架构图停止缩放时</title>
+      <link>https://www.reddit.com/r/programming/comments/1ts7ahi/when_architecture_diagrams_stop_scaling/</link>
+      <description><![CDATA[来自 Netflix 的关于在大型微服务生态系统中维护实时服务拓扑的有趣工程文章。 对我来说，可观察性不仅仅是指标、跟踪和日志，理解服务关系与系统规模同样重要。 好奇其他人如何在生产环境中处理依赖关系映射。 https://netflixtechblog.com/from-silos-to-service-topology-why-netflix-built-a-real-time-service-map-0165ba13a7bc   由   提交/u/mukeshsri369  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ts7ahi/when_architecture_diagrams_stop_scaling/</guid>
+      <pubDate>Sat, 30 May 2026 18:18:53 GMT</pubDate>
     </item>
     <item>
       <title>Haskell 中 monad 的实际应用</title>
@@ -81,13 +88,6 @@
       <description><![CDATA[恶意 npm 包名称 js-logger-pack，在注册表中经历了 29 个版本，看起来无害记录器，最终以二进制植入程序结束。它释放的有效负载是 81 MB 的二进制文件，名为 MicrosoftSystem64，它是一个完整的跨平台 RAT，打包为 Node.js 单一可执行应用程序，因此它在端点工具中显示为本机二进制文件而不是节点进程。 巧妙之处在于，它不是将窃取的数据直接发送到 C2 服务器，而是使用嵌入式 API 令牌将所有内容上传到私有 HuggingFace 数据集。因此，所有渗漏流量都显示为对合法 ML 平台的正常 HTTPS 请求。如果您的安装历史记录中有任何这些内容，请轮换所有内容，例如凭据、SSH 密钥、API 令牌、加密种子短语。所有软件包列表和完整的技术细节都在博客中。   由   提交/u/BattleRemote3157  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tqwksq/someone_hid_a_full_rat_inside_a_fake_npm_package/</guid>
       <pubDate>Fri, 29 May 2026 09:34:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>FastAPI 推出官方 VSCode 扩展</title>
-      <link>https://www.reddit.com/r/programming/comments/1tqtyvq/fastapi_introduces_official_vscode_extension/</link>
-      <description><![CDATA[FastAPI 发布了官方 VSCode 扩展，其中包括路线探索、端点搜索和 CodeLens 式导航等功能。 该工具旨在增强 FastAPI 用户的开发体验。   由   提交/u/Top-Rush83  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tqtyvq/fastapi_introduces_official_vscode_extension/</guid>
-      <pubDate>Fri, 29 May 2026 07:09:21 GMT</pubDate>
     </item>
     <item>
       <title>Node.js 工作线程存在问题，但它们对我们来说非常有用</title>
