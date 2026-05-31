@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 31 May 2026 10:51:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 13:06:46 GMT</lastBuildDate>
+    <item>
+      <title>帮助</title>
+      <link>https://www.reddit.com/r/software/comments/1tsub2p/help/</link>
+      <description><![CDATA[大家好， 我今年 23 岁，即将去服兵役。当我回来时，我想从头开始新的职业生涯。 我对 QA/软件测试领域感兴趣。你觉得我通过课程、认证、自学提升自己，能找到工作吗？ 如果不行，我也对IT感兴趣。我在高中期间完成了作为服务台技术人员的实习，因此我对该领域有了一些基本的了解。 除了 QA 和 IT 之外，您还有其他我应该考虑的职业建议吗？ 提前感谢您的建议。   由   提交/u/Lunez0  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tsub2p/help/</guid>
+      <pubDate>Sun, 31 May 2026 12:41:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>找不到可以实现我想要的功能的屏幕截图工具，所以我构建了自己的 - EShot（开源）</title>
+      <link>https://www.reddit.com/r/software/comments/1tstyry/couldnt_find_a_screenshot_tool_that_does_what_i/</link>
+      <description><![CDATA[多年来一直使用 lightshot 和 sharex，但总是遇到一些烦恼。他们并没有完全按照我想要的方式工作。 Lightshot 很好，但它不是开源的。 所以我花了几个月的时间构建自己的 Lightshot。它被称为 EShot，用 C++ 和 Qt 编写。 它的作用： - 支持多显示器的区域捕获 - 10 个注释工具（钢笔、箭头、矩形、圆形、文本、荧光笔、马赛克模糊、计数器、橡皮擦、线条） - 将捕获作为浮动窗口固定到桌面，通过拖动角调整大小，滚轮提高不透明度 - 文件名带有日期/时间变量的模板 - 深色模式、7 种语言、自定义热键 - 安装约 3MB，从托盘运行 它是免费且开源的：Github 很想听听您的想法或是否有您想要添加的内容   由   提交 /u/XBenoks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tstyry/couldnt_find_a_screenshot_tool_that_does_what_i/</guid>
+      <pubDate>Sun, 31 May 2026 12:26:16 GMT</pubDate>
+    </item>
     <item>
       <title>寻找可以批量添加音频到视频的软件</title>
       <link>https://www.reddit.com/r/software/comments/1tsmyd6/looking_for_software_to_add_audio_to_video_in_bulk/</link>
@@ -64,14 +78,14 @@
     <item>
       <title>Vanguard 希望我删除 ene.sys</title>
       <link>https://www.reddit.com/r/software/comments/1tsbl6u/vanguard_wants_me_to_delete_enesys/</link>
-      <description><![CDATA[ 由   提交/u/Entire_Poetry1415  [链接] [评论]]]></description>
+      <description><![CDATA[ 由   提交 /u/Entire_Poetry1415   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tsbl6u/vanguard_wants_me_to_delete_enesys/</guid>
       <pubDate>Sat, 30 May 2026 21:08:59 GMT</pubDate>
     </item>
     <item>
       <title>每当我不在全屏模式时，Youtube 就会变得很时髦</title>
       <link>https://www.reddit.com/r/software/comments/1ts8ojh/youtube_is_being_funky_whenever_im_not_in/</link>
-      <description><![CDATA[我会发布视频，但 subreddit 不允许我发布。还应该提到的是，这种情况发生在每个视频播放器上，包括抽搐、任何预览，甚至 ph   由   提交 /u/Lavaxol   [link] [评论]]]></description>
+      <description><![CDATA[我会发布视频，但 subreddit 不允许我发布。还应该提到的是，这种情况发生在每个视频播放器上，包括抽搐、任何预览，甚至 ph   由   提交 /u/Lavaxol   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ts8ojh/youtube_is_being_funky_whenever_im_not_in/</guid>
       <pubDate>Sat, 30 May 2026 19:13:50 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我一直在开发一个小型 Windows Python 工具，它可以读取销售 CSV 文件并创建格式化的 Excel 报告。 它将 CSV 转换为一个更干净的报告，其中包含以下工作表：  按产品汇总 总计  我制作了固定文件版本和文件选择器版本，以便它可以适用于不同的情况舒适程度。 我希望得到关于工作流程是否清晰以及输出是否真正有用的诚实反馈。   由   提交 /u/top_biz_toolz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ts6n41/i_made_a_windows_tool_that_generates_excel_sales/</guid>
       <pubDate>Sat, 30 May 2026 17:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>PPSSPP Web：针对本地 PSP 游戏的非官方浏览器模拟器实验</title>
-      <link>https://www.reddit.com/r/software/comments/1ts6kzr/ppsspp_web_an_unofficial_browser_emulator/</link>
-      <description><![CDATA[ 由   提交/u/roothunter-dev  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ts6kzr/ppsspp_web_an_unofficial_browser_emulator/</guid>
-      <pubDate>Sat, 30 May 2026 17:51:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 SSD 有 1.1Pb 的写入量</title>
-      <link>https://www.reddit.com/r/software/comments/1ts64ig/my_ssd_has_11pb_of_writes/</link>
-      <description><![CDATA[ https://preview.redd.it/3ncckiji8b4h1.png?width=667&amp;format=png&amp;auto=webp&amp;s=74cf272b97cafdfe04dd08ffc79780b8237eec49 我真的不知道这怎么可能🤣   由   提交 /u/KingCookie89100   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ts64ig/my_ssd_has_11pb_of_writes/</guid>
-      <pubDate>Sat, 30 May 2026 17:32:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
