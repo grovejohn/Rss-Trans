@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 31 May 2026 02:02:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 06:46:41 GMT</lastBuildDate>
+    <item>
+      <title>如何：重新设计 <details><summary> 元素以创建分页类型布局 - 遍历页面/指南等...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tsj4m0/how_to_reengineer_detailssummary_element_to/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tsj4m0/how_to_reengineer_detailssummary_element_to/</guid>
+      <pubDate>Sun, 31 May 2026 02:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在寻找一个从 Html 构建 Apk 的 Android Studio 模板？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tsis9t/im_looking_for_an_android_studio_template_that/</link>
+      <description><![CDATA[大家好。我正在寻找这样的模板。我由 Claude 制作了一个简单的 Html 笔记应用程序，并希望将其打造成一个合适的 Android 应用程序。  我不懂编码。我想我也不想花一年的时间来学习这个。我制作它仅供个人使用，不会在 google Story 或其他任何地方发布。 我喜欢 Web2apk Builder，但它不是免费的（老实说，我没有钱）。 但是使用 Android studio，我必须处理数百个未知的未知问题，所以我想知道是否有一个模板（也许在 github 上）可以帮助我？ 感谢您对此事的关注！    由   提交 /u/Moonnnz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tsis9t/im_looking_for_an_android_studio_template_that/</guid>
+      <pubDate>Sun, 31 May 2026 02:33:40 GMT</pubDate>
+    </item>
     <item>
       <title>我想数算我的日子（诗篇 90:12），所以我制作了一个网站来做到这一点。</title>
       <link>https://www.reddit.com/r/webdev/comments/1tsi05i/i_wanted_to_number_my_days_psalm_9012_so_i_made_a/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[上周末我正在研究反重力/克劳德，并将我 15 年前所做的项目整理成 2026 年版本。基本上，它是一个可让您与朋友一起观看视频的应用程序。在过去，这是分享和发现音乐的好方法，尤其是那些你通常不会听的音乐。 我不太确定它在当今时代是否有效，但也许有一些东西。无论哪种方式，您只需与法学硕士聊天就可以如此快速地制作原型，这真是太棒了。   由   提交/u/Zenpher  [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tsafu4/i_built_a_watch_together_web_app/</guid>
       <pubDate>Sat, 30 May 2026 20:22:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday]散文阅读器，阅读系统引擎</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ts9lpj/showoff_saturday_prose_reader_a_reading_system/</link>
-      <description><![CDATA[大家好， 我是 Prose 的作者，这是一个 MIT 许可的 SDK/引擎，用于构建阅读应用程序： https://prose-reader.com/ 这是一个 TypeScript、基于 Web 的阅读器引擎，可用于从简单的构建任何内容基于图像/存档的漫画或漫画阅读器到更复杂的 EPUB 阅读器，具有导航、搜索、注释、手势、缩放、分页和自定义阅读行为。 它支持 EPUB 和 ZIP/CBZ/CBR 等存档样式格式，并且可以通过 WebView/React Native 在浏览器中或移动应用程序内运行。 Pse 背后的主要思想之一是它的增强器系统，它的工作方式类似于插件系统。增强器允许您在不更改核心引擎的情况下添加或修改阅读器功能，因此应用程序可以在此基础上构建自己的用户体验和功能。 该项目已经存在了大约 6 年，但我没有对其进行太多推广。它也用在我一直在构建的开源阅读应用程序 Oboku 中： https://oboku.me/ 人工智能免责声明：我拥有大约 15 年的开发经验，我使用人工智能作为帮助我更快迭代和提高质量的工具，而不是作为“vibe 编码”或替代我自己的判断。它帮助我处理了许多小问题并更快地推动了项目。 我正在寻找可能有兴趣尝试它、提供想法或提供反馈以帮助改进它的开发人员。 GitHub：https://github.com/mbret/prose-reader 文档：https://doc.prose-reader.com/ 演示：https://demo.prose-reader.com/ 不和谐：https://discord.com/invite/dffDEgwNc5 很想听听您的想法。   由   提交/u/yabai90  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ts9lpj/showoff_saturday_prose_reader_a_reading_system/</guid>
-      <pubDate>Sat, 30 May 2026 19:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 宕机了，Claude 无缘无故禁止，单一提供商的可靠性为零（我正在努力解决这个问题）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ts9gpd/openai_was_down_claude_bans_for_no_reason_there/</link>
-      <description><![CDATA[所以我在使用 Claude 的那天运行了一个应用程序 我们在没有事先警告的情况下被禁止，我们很快转向 OpenAi，同时失去了新的收入 后来我们关闭了该项目，因为 openai 让我们经历了同样的路线并陷入困境 最近 openAI 宕机了，每个使用他们的 API 或 chatGPT 的人也都宕机了 I决定通过构建 AllToken.ai 来解决这个问题，它是开源可靠的，并且零标记 如果您使用 openAI sdk，那么集成更改实际上是一行。 我们最近推出了，请随时提供反馈，如果您愿意的话，请嘲笑我们 目前我们的价格为 5000 美元 mrr（您可以在 trustmrr 上验证）我们最大的客户是早期采用者 提前感谢您！   由   提交/u/Alone_Ad_3375   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ts9gpd/openai_was_down_claude_bans_for_no_reason_there/</guid>
-      <pubDate>Sat, 30 May 2026 19:44:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
