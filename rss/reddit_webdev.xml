@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 31 May 2026 21:49:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 02:12:40 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找与我一起启动一个项目的人。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttdl2p/im_looking_for_someone_to_start_a_project_with_me/</link>
+      <description><![CDATA[嗨，我是巴西人，是一名 Web 开发人员。我渴望开始一个项目（目前不涉及资金）。我想开始一起开发一些东西。我已经在这个领域工作了一段时间了，我有几个项目正在进行中，我想和某人一起启动另一个项目。如果有人感兴趣，我可以提供更多关于我自己的细节和我私下里的一些想法🙂 我认为两个人一起工作可以学到更多，并且不会花任何钱；它只会涉及出售网站的资金   由   提交/u/BitesBitesou  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttdl2p/im_looking_for_someone_to_start_a_project_with_me/</guid>
+      <pubDate>Mon, 01 Jun 2026 01:26:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需学习java即可构建android应用程序的最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttb36d/best_way_to_build_android_app_without_learning/</link>
+      <description><![CDATA[所以我已经把这个项目推迟了几个月了，但我真的需要为我的这个副业想法构建一个 android 应用程序。问题是我不懂java，老实说现在没有时间正确学习它。 我听说有一些方法可以构建应用程序，而无需从头开始实际编码所有内容，但不确定什么是合法的，什么只是营销废话。我可以处理基本的 Web 内容，但移动开发似乎完全不同。 这里有谁在不走传统 java 路线的情况下成功构建了 Android 应用程序吗？哪些工具或平台真正有效并且不会让您的应用看起来像垃圾？   由   提交 /u/Significant_Law5994   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttb36d/best_way_to_build_android_app_without_learning/</guid>
+      <pubDate>Sun, 31 May 2026 23:35:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>不受欢迎的观点：大多数电子商务公司不需要无头或可组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttb29v/unpopular_opinion_most_ecommerce_companies_dont/</link>
+      <description><![CDATA[如果您是 GMV 低于 5000 万欧元的时尚或 DTC 品牌，那么您从单一平台中获得的收益会比可组合构建更多，因为对于该级别的大多数品牌来说，这种灵活性的复杂性税比一年的绩效营销费用还要高。 可组合性是作为自由出售的，但对于大多数中小型 GMV 品牌来说，它会作为您永远资助的工程组织管理费用只是为了保持运转，而单一平台通过一个团队和一份合同即可满足大多数品牌需求的 80%。 例外情况是在多个国家/地区运营多品牌集团的品牌或真正的企业高峰，在这种情况下，可组合性确实会带来回报，但您需要由零售商构建的平台，而不是为分析师幻灯片构建的平台。 Centra、NewStore 和 SCAYLE 比商业工具或开源 MACH 堆栈更接近这一要求。  如果供应商以微服务和最佳架构展开宣传，他们就是在向您推销一个工程项目，而大多数品牌只需要一个可以交付产品的平台。   由   提交 /u/Majestic_Shoulder188   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttb29v/unpopular_opinion_most_ecommerce_companies_dont/</guid>
+      <pubDate>Sun, 31 May 2026 23:34:25 GMT</pubDate>
+    </item>
     <item>
       <title>在实时聊天应用程序中处理大图像和文件</title>
       <link>https://www.reddit.com/r/webdev/comments/1tt5n6a/handling_large_images_files_in_a_real_time_chat/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[大家好。我正在寻找这样的模板。我由 Claude 制作了一个简单的 Html 笔记应用程序，并希望将其打造成一个合适的 Android 应用程序。  我不懂编码。我想我也不想花一年的时间来学习这个。我制作它仅供个人使用，不会在 google Story 或其他任何地方发布。 我喜欢 Web2apk Builder，但它不是免费的（老实说，我没有钱）。 但是使用 Android studio，我必须处理数百个未知的未知问题，所以我想知道是否有一个模板（也许在 github 上）可以帮助我？ 感谢您对此事的关注！    由   提交 /u/Moonnnz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tsis9t/im_looking_for_an_android_studio_template_that/</guid>
       <pubDate>Sun, 31 May 2026 02:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想数算我的日子（诗篇 90:12），所以我制作了一个网站来做到这一点。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tsi05i/i_wanted_to_number_my_days_psalm_9012_so_i_made_a/</link>
-      <description><![CDATA[本周我创建了一个网站，我认为对其他人可能有用：https://numberyour.day 这很简单，但我认为直观地了解您在地球上剩余的时间可能会发生什么是有效的。让它发挥作用！   由   提交/u/en3r0  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tsi05i/i_wanted_to_number_my_days_psalm_9012_so_i_made_a/</guid>
-      <pubDate>Sun, 31 May 2026 01:55:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有多年经验的同行的一些建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tsh4vm/need_some_advice_from_my_peers_who_have_gained/</link>
-      <description><![CDATA[​ 嘿，大家好，我有点苦恼。我是软件工程师，我在这个行业工作了 3 年，其中作为自由职业者两年，作为公司员工一年多。  我已经发布了数百个功能，修复了其他人不敢触及的遗留代码库。  我最近的壮举是将一个成熟的加密货币交易平台投入生产。我的客户很神秘，但他们的项目非常有趣。使用 AES 的多重加密仪表板。还有什么不是。通过 kestea 实现自动化。  长话短说，我对行业实践和现代技术趋势有大量了解。我正在 Elysia 和 Go 中编写 API。将旧版 redux 更改为现代 zustand。我在 docker 和 Kubereeties 方面经验丰富，并且为我的客户管理多个服务器。我更倾向于裸机 我所挣扎的是我的工资非常便宜，因为我生活在第三世界国家。 300美元/月。我一直在努力让客户上线，所以我花了数百美元进行工作并尝试不同的平台。但什么也没有。我知道这也是一种运气游戏，但我仍然觉得我做错了。  我的收费到处都是，我向客户收取 30 美元/小时的费用，而我同时获得 300 美元/月的报酬 如果我确实找到了一个客户，那是当地人，他的工资也非常便宜，但比我的工作要多得多，很少我对我所做的工作感到满意。我的工作地点给出的理由是我缺乏经验，而且我们没有客户。  我现在应该做什么，我对自己的未来感到焦虑，并且怀疑自己。就像我知道代码是如何工作的，系统是如何工作的，趋势是什么，但获得客户是我苦苦挣扎的地方 Ps，我每天做 2 份工作，比如 15-16 小时，一份是我有保障的永久工作，薪水非常便宜，其他的是我的自由职业客户，给我的工资很高。但我每 3 个月发现一次  Ps 我很欣赏一些修复 哦，还有另一个 PS：我之前发了一篇促销帖子，懒得编辑，所以现在我发了一篇完整的帖子    由   提交/u/TheLoveDoctor_  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tsh4vm/need_some_advice_from_my_peers_who_have_gained/</guid>
-      <pubDate>Sun, 31 May 2026 01:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>‏社区驱动的词典网站的最佳免费数据库平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tsgl8a/best_free_database_platform_for_a_communitydriven/</link>
-      <description><![CDATA[它更像是维基词典 + 维基数据。 所以会有： - 至少 2,000 个单词（带有更改历史记录）。  - 用户帐户（用户名和贡献）。 现在，是否有一个完全免费的在线数据库服务可以处理所有这些？   由   提交 /u/Free-Ant-463   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tsgl8a/best_free_database_platform_for_a_communitydriven/</guid>
-      <pubDate>Sun, 31 May 2026 00:47:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
