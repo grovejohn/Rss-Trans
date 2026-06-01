@@ -4,7 +4,49 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Mon, 01 Jun 2026 02:09:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:16:35 GMT</lastBuildDate>
+    <item>
+      <title>免费人工智能代理安全评估</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttlmxz/free_ai_agent_security_assessment/</link>
+      <description><![CDATA[大家好， 我们正在构建 Antitech，这是一个针对 AI 代理和 LLM 支持的工作流程的安全层。 我们正在为从事 AI 代理工作的团队/构建者开放少量免费的早期访问评估。 如果您允许我们访问Docker化/沙盒环境的端点您的代理，我们将针对常见和新兴的 AI 代理攻击媒介对其进行测试，包括：  提示注入 间接提示注入 工具滥用 数据泄露/渗出 虚假授权/恶意上下文 不安全的代理行为 薄弱的防护和策略绕过  作为回报，您将获得免费漏洞报告显示我们发现的内容、其严重程度以及强化代理的实用建议。 这是完全免费的。没有问题。 我们这样做是因为我们希望在塑造产品时与真正的人工智能代理构建者密切合作。早期参与者还将获得：  最终产品准备就绪后的大折扣 在我们构建时进行内部更新 提前访问新功能 选择成为设计合作伙伴 优先访问未来评估  我们需要您提供什么：  沙盒/Docker 环境的端点 允许在商定的范围内进行测试 报告后的简短反馈电话  未经您的许可，我们不会公开披露任何内容。 如果您正在构建人工智能代理，并且想知道如何在其他人发现困难之前对其进行攻击，请私信我或在下面发表评论。   由   提交 /u/TheAchraf99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttlmxz/free_ai_agent_security_assessment/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的克劳德有一个快速模式，现在便宜 3 倍。它非常适合我最常使用人工智能的一件事：生成可供选择的选项。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttler1/the_new_claude_has_a_fast_mode_thats_now_3x/</link>
+      <description><![CDATA[新的 Claude 更新 (Opus 4.8) 使快速模式的成本降低了三倍。它以 2.5 倍的速度运行，深度稍小。不是一个更愚蠢的版本，而是一个更快的版本。 它改变了我使用人工智能来做我最常做的事情的方式：快速生成一堆选项，这样我就可以选择最好的一个，而不是过度思考第一个想法。 我在快速模式下不断运行的提示： 给我 15 个不同的角度，我可以采取[你的主题或任务]。将它们混合起来： - 一些逆向思维 - 一些基于故事 - 一些以数字或结果为主导 - 一些提出问题 - 一些陈述一个令人不安的事实 每行一行。没有解释。我会选择最好的一个并自己开发。  几秒钟内有十五个选项。我选一个，适当开发它，就完成了。整个“盯着空白页试图想出完美的角度”的过程就是这样。问题消失了，因为我是从选项中进行选择，而不是从无到有。 它的作用不仅仅是内容： 给我 10 种可以处理[问题或情况]的不同方法。每一张都有不同的角度。各一句。至少包括三个我可能没有考虑过的。没有解释——我会深入研究那些突出的。写出这条消息的五个版本，每个版本都有不同的语气——直接、热情、正式、随意，以及一个以问题开头的版本。我会选择最好的：[粘贴您的消息]  心理转变：停止向人工智能询问答案。询问它的选项。选择比生成更快，并且产生更好的结果，快速模式使得生成 15 个选项与生成 1 个选项一样便宜。 我在文档中写下了新 Claude 中的所有四项更改，包括快速模式最适合哪些任务以及在其中运行良好的提示。这里（如果有帮助的话）。 如果您本周只改变一个习惯，请停止向 AI 询问一个答案，并开始询问它有 10 个选项。以快速模式运行。你永远不会回到空白页。   由   提交 /u/Professional-Rest138   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttler1/the_new_claude_has_a_fast_mode_thats_now_3x/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>当 Salesforce 运行他们自己的 AI Agents 基准测试时，您看到了吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttkqia/did_you_see_it_when_salesforces_run_their_own_ai/</link>
+      <description><![CDATA[因此，Salesforce 构建了 CRMArena-Pro 作为研究的一部分，并于去年这个时候推出了它（Salesforce Research，arXiv 2505.18878）。他们在 4,280 个查询和 9 个顶级模型的真实 CRM 工作中测试了领先的代理。单轮任务的成功率约为 58%，而多轮任务的成功率则下降至 35%。  考虑到它的年龄和人工智能领域的发展速度，我知道这似乎是无关紧要的新闻，但我相信人工智能代理的结果要么与今天相同，要么略有改善，这意味着运行人工智能代理的公司仍将为他们的代理所犯的错误付出代价。  代价高昂的认识是，这并不是真正的模型，而是自主运行的长度。一个代理运行的时间越长，它丢失的早期上下文就越多，并且复合的小错误就越多。领先的人工智能玩家正在通过扩展上下文窗口以处理多达 1 - 200 万个令牌、引入各种内存节省框架以及引入 RAG 等工具来解决这个问题。这个问题仍然存在，特别是对于需要 24/7 活动的较长时间运行的代理和工作流程。 这不是我出售的东西，但在生产中对我有用的东西实际上相当无聊但可靠。我不会把整个工作交给一个代理人。相反，我将整个工作分成几个狭窄的阶段，每个阶段一项工作，每个阶段之间进行纯文本切换，并设置一个检查点，我可以在下一个阶段运行之前验证输出。  一个研究的阶段，也不写。写入的阶段并不发送，并且代理永远不需要运行足够长的时间来漂移。在每个阶段，我都能够在不良输出复合之前识别出它们。 还有其他人发现每个阶段的范围界定上下文胜过即时设计一个大型代理吗？ “分成阶段”和“阶段”之间的界线在哪里？和“这可以端到端运行”？   由   提交 /u/Sensitive_Judge_5502   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttkqia/did_you_see_it_when_salesforces_run_their_own_ai/</guid>
+      <pubDate>Mon, 01 Jun 2026 07:22:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>这家伙在 Tiktok 检测系统上是对的吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttkdao/is_this_guy_right_on_tiktok_detection_systems/</link>
+      <description><![CDATA[我在 Twitter 上找到了这个人 https://x.com/ZackThompsonDev/status/2057491617263784197?s=20他说的话有道理   由   提交 /u/beeaniegeni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttkdao/is_this_guy_right_on_tiktok_detection_systems/</guid>
+      <pubDate>Mon, 01 Jun 2026 07:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在意识到分块一直是问题之前，花了太长时间调试 RAG</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tti9u3/spent_way_too_long_debugging_rag_before_realizing/</link>
+      <description><![CDATA[我遵循的每个教程可能都花了一​​段时间进行分块，然后继续。我认为这很简单。事实并非如此。 固定大小的分块根据标记计数进行分割，而不是根据想法实际结束的位置进行分割。因此，您检索了一个与正确事物相关的块，但具有实际答案的句子被切入了下一个没有进行检索截止的块。模型获得一半的上下文，并为其余的提供翅膀。花了几周的时间认为这是一个嵌入问题。 最终有帮助的是没有改变任何东西，只是实际读取失败的查询返回的内容。答案几乎总是在某个地方，只是分裂在错误的地方。 矢量搜索也不适用于精确的标识符，我发现了这一点。有人查询特定版本号或产品代码，语义搜索会返回“接近”的内容。关闭是错误的。 BM25 和向量一起修复了它，但我从未在我读过的任何介绍材料中看到过它。 陈旧索引是另一个。更新了文档，忘记重新索引，在我弄清楚发生了什么之前两天自信地给出了错误的答案。这不是一个难题，但没有人警告您。   由   提交 /u/SilverConcient9222   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tti9u3/spent_way_too_long_debugging_rag_before_realizing/</guid>
+      <pubDate>Mon, 01 Jun 2026 05:09:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何观看 Nvidia 首席执行官黄仁勋 (Jensen Huang) 的 Computex 2026 主题演讲 | PCMag</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tti4pr/how_to_watch_nvidia_ceo_jensen_huangs_computex/</link>
+      <description><![CDATA[如果没有业内最知名的公司，就不会有 Computex，而且到 2026 年，他们的规模也不会超过 Nvidia。首席执行官黄仁勋将在台北时间 6 月 1 日上午 11 点（美国东部夏令时间晚上 11 点/太平洋夏令时间 5 月 31 日晚上 8 点）在 Computex 主展之前出发。 还将举行一场赛前活动，讨论人工智能和个人计算的历史、它如何影响机器人技术的发展，以及黄仁勋稍后可能讨论的内容。该节目将于当地时间 6 月 1 日上午 9 点开始（美国东部时间晚上 9 点/太平洋夏令时间 5 月 31 日下午 6 点）。 如果幸运的话，N1X 可能会出现。但您可以在上面的视频中实时观看所有内容。它还将在 Nvidia 的 GTC 台北直播页面上播出。 Huang 将与 Marvell 首席执行官 Matt Murphy 一起上台谈论他们目前最喜欢的企业：人工智能及其基础设施扩展。这意味着我们可能会听到更多有关 Vera Rubin NVL72 Rack 系统以及连接它们的底层网络硬件的信息，该系统将成为 Nvidia 今年晚些时候向数据中心开发人员提供的主要产品。黄先生还可能解决这些重大建设项目中的一些痛点，包括智能电网管理，以更好地为新数据中心设施供电和更高效的空气冷却系统。   由   提交 /u/coinfanking   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tti4pr/how_to_watch_nvidia_ceo_jensen_huangs_computex/</guid>
+      <pubDate>Mon, 01 Jun 2026 05:02:28 GMT</pubDate>
+    </item>
     <item>
       <title>随着五角大楼推动战场人工智能，一些军事领导人敦促谨慎行事</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttcmkq/as_the_pentagon_pushes_for_battlefield_ai_some/</link>
@@ -13,39 +55,11 @@
       <pubDate>Mon, 01 Jun 2026 00:43:40 GMT</pubDate>
     </item>
     <item>
-      <title>关于线束和代理的意见。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tt9twk/an_opinion_on_harnesses_and_agents/</link>
-      <description><![CDATA[我正在熟悉不同的工具、代理、技能和模型。我对 Google 和 OpenAI 的经验最丰富。 Claude 模型似乎是最好的编码员，甚至 Sonnet 的表现也超过了 Gemini。反重力作为一种工具很好很方便，但它缺乏编码和认真研究的技能。我也找不到输入任何 api 密钥以增加使用率的方法。我已经为 claude 购买了 api 积分，但没有聊天机器人的子程序。与 Gemini 和 claude api 一起使用的好工具是什么？我还需要了解如何创建代理/技能。你们中有人在理解如何实施代理或技能方面遇到过任何困难吗？我对代理的理解是，它们只是项目/聊天所坚持的参数，技能是提示或您为代理或模型编写的要执行的脚本。   由   提交 /u/Lazyrecipe5264   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tt9twk/an_opinion_on_harnesses_and_agents/</guid>
-      <pubDate>Sun, 31 May 2026 22:41:31 GMT</pubDate>
-    </item>
-    <item>
       <title>电网能否跟上数据中心的人工智能需求？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tt9nqn/can_the_grid_keep_up_with_ai_demand_data_centers/</link>
       <description><![CDATA[即使所有新发电厂和可再生能源都已上线，电力市场似乎也无法跟上所有这些数据中心上线的需求。网格能否跟上所有这些数据中心的步伐，人工智能的发展是否会受到影响？   由   提交/u/FF430  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tt9nqn/can_the_grid_keep_up_with_ai_demand_data_centers/</guid>
       <pubDate>Sun, 31 May 2026 22:34:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>也许人工智能道德还不够</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tt4kha/maybe_ai_ethics_isnt_enough/</link>
-      <description><![CDATA[我开始认为人工智能道德对于正在发生的事情来说已经变得太小了。 公平、安全和透明度当然很重要。 但是如果人工智能成为我们学习、工作、思考、决策甚至了解自己的一部分，那么问题就比“这个工具安全吗？”更重要 我认为我们首先应该问自己：什么样的人我们每天都与它生活在一起吗？ 也许危险不仅仅在于人工智能变得太强大。 也许我们慢慢变得过于依赖。我们是否需要更像共存哲学的东西？ （如果您感兴趣，我尝试发展共存哲学的基本原则。我与 AI 合作写了共存哲学：扩展通用人工智能时代的哲学一书。）   由   提交/u/Philo167  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tt4kha/maybe_ai_ethics_isnt_enough/</guid>
-      <pubDate>Sun, 31 May 2026 19:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>当一位患有帕金森症的音乐家无法再弹吉他时，人工智能帮助他完成了他的新专辑</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tt3s5f/ai_helped_a_musician_with_parkinsons_finish_his/</link>
-      <description><![CDATA[Smith 在 2020 年被诊断出患有进行性神经系统疾病，最近发行了他的第二张专辑《The Art of Letting Go》。对于八首曲目中的一首名为“地平线”的器乐作品，他依靠使用人工智能生成音乐的平台来创建演示编曲，将他的愿景传达给录制歌曲的音乐家。    由   提交 /u/DavidtheLawyer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tt3s5f/ai_helped_a_musician_with_parkinsons_finish_his/</guid>
-      <pubDate>Sun, 31 May 2026 18:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能小说是新的快餐</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tt1t6v/ai_fiction_is_the_new_fast_food/</link>
-      <description><![CDATA[“许多人工智能批评家都认为它是落后的。如果人工智能写作的激增是一个问题，那并不是因为它是可怕的垃圾，不适合人类消费；而是因为它是一种不适合人类消费的垃圾。这是一个问题，因为在某些特定方面，它太好了。它相当于文学上的快餐：方便、便宜、高度一致，并且不断优化以刺激我们的快乐中心。”   由   提交 /u/CackleRooster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tt1t6v/ai_fiction_is_the_new_fast_food/</guid>
-      <pubDate>Sun, 31 May 2026 17:36:21 GMT</pubDate>
     </item>
     <item>
       <title>我构建了一个开源桌面应用程序，为您的 AI 提供跨所有平台的持久内存（100% 本地 SQLite、零 Docker）</title>
@@ -62,13 +76,6 @@
       <pubDate>Sun, 31 May 2026 16:01:46 GMT</pubDate>
     </item>
     <item>
-      <title>衡量人工智能的效益</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tsxot2/measuring_ai_benefit/</link>
-      <description><![CDATA[我最终来到了一家跨国公司的某个角落，我们的任务是证明人工智能解决方案的优势。到目前为止，人们一直在为自己的领域提出人工智能项目，并被迫评估收益（货币和非货币）作为优先顺序的手段。但还没有人回顾过去，看看所有这些乐观的估计是否真的实现了。  从一开始，我就对人工智能如何减少员工数量持怀疑态度。在大量人员中节省很少的时间并不意味着每次所有人员的总工作时间达到 2000 小时时就会有人被解雇。 我公司中很少有人意识到，您永远无法仅从成本/收入电子表格逐年看出收益，因为有太多的自变量影响部门的实际底线。 我认为您应该抛弃财务预测，而支持 KPI 预测。这些 KPI 可能包括“每个小部件的成本”或“每人的收入”衡量标准，但我更多地关注“我是否在更短的时间内生产了更多的小部件”效率。 我的总体方法是在各个团队中建立这些指标（如果尚不存在），然后在上线后 3 个月、6 个月和一年将它们与自己的基线进行比较。无论他们衡量自己的成功标准是什么，人们都会根据它来评判他们。 为了使这些收益在各个部门之间具有可比性，我将建议将它们降低到 Z 分数，以便改进及其改进率成为衡量成功的首要标准。 对我来说，这应该是每个项目的一个过程，而不仅仅是人工智能。但我的结论是，至少在我的公司里，当权者终于稍微踩了刹车，并意识到他们可能已经吞下了人工智能的热潮，并没有得到太多牛排。因此，他们来到世界各地像我这样的人的方阵，问我们他们的投入实际上得到了多少回报？ 还有其他人想出一种衡量人工智能成本/收益的好方法吗？员工人数承诺是否虚假？您是否在自己的空间中看到了管理层恐慌的初步迹象？   由   提交/u/Reds_PR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tsxot2/measuring_ai_benefit/</guid>
-      <pubDate>Sun, 31 May 2026 15:01:11 GMT</pubDate>
-    </item>
-    <item>
       <title>我们到底在和中国竞争什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tsxi68/what_exactly_are_we_competing_with_china_for/</link>
       <description><![CDATA[我是真诚地问这个问题。我是一个美国人，我正在努力弄清楚在人工智能方面“与中国竞争”意味着什么。 就我而言，人工智能是在计算机上运行的软件。我不能把它拿在手里，也不能吃它。如果中国计算机上的人工智能模型比美国更好，这对世界意味着什么。他们为什么以及如何统治我们？他们会制造一种杀死我们所有人的武器吗？他们会控制每个经济市场吗？他们已经在没有人工智能的情况下做到了这一点。我是真诚地问这些问题的。 我会阅读这个 Reddit 子版块上的帖子，其中关于人工智能竞赛，仅以“元”方式谈论它。我的意思是，我会看到有关中国如何拥有更好的工程师、更好的模型、他们如何更好地“创新”的参考，但这都是对技术本身的参考。永远不知道这项技术最终会被用来做什么。这让我觉得我们集体迷恋科技，却没有更广泛地认识到科技的用途。我们想要解决什么问题？ 我是一名工程师（不是软件），我使用 ChatGPT 来帮助自动化简单的编码过程，它对我来说绝对有实际用途（与 crypto/nfts 不同），但我觉得“太愚蠢”了，无法理解所有数据中心的用途，以及为什么这些激进的公司强迫我接受这一点。   由   提交 /u/Pickle_boy   [链接] [评论]]]></description>
@@ -83,16 +90,9 @@
       <pubDate>Sun, 31 May 2026 12:05:04 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 和 Claude 都给出了基督教“真正真实”的可能性百分比为 15%。双子座说0%。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tsnd29/chatgpt_and_claude_both_give_the_likelihood_of/</link>
-      <description><![CDATA[ 由   提交/u/Immobilesteelrims   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tsnd29/chatgpt_and_claude_both_give_the_likelihood_of/</guid>
-      <pubDate>Sun, 31 May 2026 06:26:00 GMT</pubDate>
-    </item>
-    <item>
       <title>真的是这样吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ts1zw5/is_this_really_like_this/</link>
-      <description><![CDATA[我一直摇摆不定，有时我完全相信人工智能可能不会超越人类智能，但有时该领域的一些惊人发现和重大发展同时让我感到困惑 作为一个已经做了三年人工智能工程师和早期职业的人 我很想知道前辈们对此有何看法和他们的看法   由   提交/u/Queserasera_q   [链接] [评论]]]></description>
+      <description><![CDATA[我一直摇摆不定，有时我完全相信人工智能可能不会超越人类智能，但有时该领域的一些惊人发现和重大发展同时让我感到困惑 作为一个已经做了三年的人工智能工程师和早期专业人士 我很想知道前辈们对此有何感想以及他们的看法   由   提交/u/Queserasera_q   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ts1zw5/is_this_really_like_this/</guid>
       <pubDate>Sat, 30 May 2026 14:50:12 GMT</pubDate>
     </item>

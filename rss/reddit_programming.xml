@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 01 Jun 2026 02:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 08:18:32 GMT</lastBuildDate>
+    <item>
+      <title>为 macOS 应用设计离线优先许可系统</title>
+      <link>https://www.reddit.com/r/programming/comments/1ttkrvf/designing_an_offlinefirst_license_system_for/</link>
+      <description><![CDATA[我一直在研究 Keylight，这是 macOS 应用程序的许可层，更有趣的技术问题之一是设计在线和离线工作的许可证检查。 基本问题听起来很简单： “这个应用程序允许运行吗？” 但在实践中，有很多边缘情况：  如果用户购买了该应用程序会发生什么情况应用程序，但当前处于离线状态？ 离线租约应保持多长时间有效？ 如何防止许可证被永久复制？ 如何处理设备限制而不让应用程序变得烦人？ 当应用程序离线时订阅过期会发生什么？ 如何在不破坏旧应用程序版本的情况下轮换 SDK/API 密钥？ 本地与服务器上应检查多少？   我使用的方法大致是：  应用程序在线时根据服务器进行验证 服务器返回已签名的本地许可证租约 应用程序可以在有限的时间内继续离线工作 服务器端跟踪设备激活 续订、升级和撤销会更新下一个租约 旧的 SDK 密钥可以逐渐停用，而不是破坏现有版本  它只是产品的一小部分，但它是迄今为止最有趣的工程决策之一。 好奇其他人会如何设计它。 您会将大多数许可逻辑保留在服务器端，还是允许使用签名的许可文件进行更多本地验证？ 对于桌面应用程序，您认为公平的离线宽限期是多少？   由   提交/u/nicolas1410  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ttkrvf/designing_an_offlinefirst_license_system_for/</guid>
+      <pubDate>Mon, 01 Jun 2026 07:24:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的进程的内存是一个文件：被低估的宝石 /proc/<pid>/mem</title>
+      <link>https://www.reddit.com/r/programming/comments/1ttjtwv/your_process_memory_is_a_file_the/</link>
+      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ttjtwv/your_process_memory_is_a_file_the/</guid>
+      <pubDate>Mon, 01 Jun 2026 06:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>DuckDB 的双重射击：矢量相似性搜索和庸医</title>
+      <link>https://www.reddit.com/r/programming/comments/1tti97b/a_double_shot_of_duckdb_vector_similarity_search/</link>
+      <description><![CDATA[ 由   提交/u/pdoherty926  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tti97b/a_double_shot_of_duckdb_vector_similarity_search/</guid>
+      <pubDate>Mon, 01 Jun 2026 05:08:41 GMT</pubDate>
+    </item>
     <item>
       <title>用 Jujutsu 回顾重大变化 - Ben Gesoff</title>
       <link>https://www.reddit.com/r/programming/comments/1tt9bs5/reviewing_large_changes_with_jujutsu_ben_gesoff/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[ 由   提交 /u/Happycodeine   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1trhw1m/pattern_detection_and_correlation_in_json_logs/</guid>
       <pubDate>Fri, 29 May 2026 22:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>排队请求也会导致容量问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1trdksd/queueing_requests_queues_your_capacity_problems/</link>
-      <description><![CDATA[ 由   提交/u/fagnerbrack  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1trdksd/queueing_requests_queues_your_capacity_problems/</guid>
-      <pubDate>Fri, 29 May 2026 19:50:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>评估 npm 包的实用清单</title>
-      <link>https://www.reddit.com/r/programming/comments/1trc1ar/a_practical_checklist_for_evaluating_npm_packages/</link>
-      <description><![CDATA[安装前评估第三方 npm 软件包的清单   由   提交 /u/OtherwisePush6424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1trc1ar/a_practical_checklist_for_evaluating_npm_packages/</guid>
-      <pubDate>Fri, 29 May 2026 19:00:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>深入研究 Kubernetes 网关 API</title>
-      <link>https://www.reddit.com/r/programming/comments/1tr8j9g/deep_dive_into_kubernetes_gateway_api/</link>
-      <description><![CDATA[我刚刚发表了对 Kubernetes Gateway API 的深入探讨。 博文涵盖：  Kubernetes 入口模式如何从 Service 资源发展到 Ingress 以及现在的 Gateway API 为什么 Ingress API 仅限于现代团队 Gateway API 的工作原理：GatewayClass， 网关、5x 路由、策略、ReferenceGrant 等 如果您仍在运行已弃用的 NGINX Ingress Controller，该怎么办 我会如何考虑选择网关 API 实现：Envoy Gateway、Istio、kgateway、Traefik、NGINX Gateway Fabric、Cilium、Kong 等  希望您发现这篇文章很有用，并祝您 Ingress 迁移好运🙏   由   提交/u/roma-glushko   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tr8j9g/deep_dive_into_kubernetes_gateway_api/</guid>
-      <pubDate>Fri, 29 May 2026 17:09:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
