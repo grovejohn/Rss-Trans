@@ -4,7 +4,56 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 01 Jun 2026 08:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:48:24 GMT</lastBuildDate>
+    <item>
+      <title>寻找无需连接互联网即可下载的离线写作软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1tttzbk/looking_for_offline_writing_software_that_can_be/</link>
+      <description><![CDATA[我正在寻找可以从物理来源（最好是 USB 或 CD）下载并且不需要连接到互联网即可安装的编写软件。 我刚刚开始写作，并且喜欢我目前的设置，但我正在使用的编写程序不太理想。 我有一台 Lenovo Yoga 2 11 笔记本电脑2013 年，它基本上作为一个离线文字处理器运行，一直运行得很好。 唯一的问题是写作软件。我目前正在使用写字板，它已经足够好用，我可以享受写作过程，但它缺少一些我开始怀念的简单功能。最烦人的可能是拼写检查，但我还想了解单词/页数，多层项目符号格式将是一个优点。 问题是，我害怕将其连接到互联网。我上次更新系统是在 2022 年（当前运行的是 Windows 10 家庭版），我担心仅仅建立连接就会引发更新或警告，或者谁知道会发生什么。 除此之外，即使我可以进行设置以防止任何事情自动发生，我也讨厌将其过时的安全系统暴露在互联网上，哪怕一次。 这可能是天真或过于谨慎，但这是我最喜欢的事情之一除了生产力方面之外，它的设置还在于它感觉安全和私密，就像日记一样。 我现在所做的工作非常个人化，以至于我不确定是否会将其展示给任何人。对我来说，这是关于学习写作的乐趣，并放弃通过别人的眼睛看待它而产生的自我意识判断，这真是太自由了。 在互联网隐私/安全方面，我一直处于更加偏执的一端，尤其是这些天，感觉没有什么可以达到的平静是100%值得写字板的轻微烦恼的。 不需要互联网连接是一个硬必须，如果这是唯一的选择，我绝对会继续使用写字板，但我认为在不检查是否有更好的选择的情况下就直接使用它是愚蠢的。 我对软件了解不够，无法确保这对于我正在使用的计算机来说是可能的（它很旧，但也很婴儿，如果添加其规格 lmk 会有所帮助），所以如果有人有一些想法，我很乐意提供一些想法。 我愿意付出一些努力如果需要在 eBay 或其他地方获得该程序，虽然我更喜欢可能不超过 30 美元的东西，但我仍然希望了解可能更昂贵的程序。  旧版本的 MicrosoftWord 如果兼容的话就可以了，只要它们不会压垮系统（当然，100% 离线）。 请不要试图说服我只连接一次互联网就可以了，也许可以，但我会牺牲一点内心的平静，这对我来说不值得为拼写检查而做。  如果任何其他详细信息有帮助，请告诉我（或者是否最好在其他 Reddit 帖子上询问），否则谢谢！   由   提交/u/onceilaymedown   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tttzbk/looking_for_offline_writing_software_that_can_be/</guid>
+      <pubDate>Mon, 01 Jun 2026 14:29:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个上下文感知的实时电视音量调节器 - 不是 AGC，不是压缩，而是不同的东西</title>
+      <link>https://www.reddit.com/r/software/comments/1ttsxwm/i_built_a_contextaware_realtime_tv_volume/</link>
+      <description><![CDATA[我一直致力于为电视音频开发一种实时的、上下文感知的音量调节器。它不会修改音频流，而是像一个拿着遥控器的人一样：单步执行，延迟，没有命令垃圾邮件，并且完全尊重手动覆盖。 系统实时监听房间并了解不同内容的“正常”响度。类型（对话、音乐、动作场景、AD 轨道、正常节目音频）。 它的主要目的是处理响亮的电视广告，因为它们具有非常独特、持续的响度配置文件，与自然内容动态不匹配。 它仅在模式与不自然、商业风格的跳跃匹配时进行干预。 动作场景、爆炸、混乱的混音等不会触发它，因为它们符合所学的内容模式。 我将引擎称为CEPA+（上下文事件模式分析）。 它本质上是位于音频流之上的一个小型决策层 - 不是 DSP，不是 AGC，而是一个上下文逻辑引擎。 好奇其他人将如何解决这个问题： DSP、ML、启发式、混合逻辑或完全不同的东西。   由   提交 /u/VolMaster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ttsxwm/i_built_a_contextaware_realtime_tv_volume/</guid>
+      <pubDate>Mon, 01 Jun 2026 13:53:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简单的开源 Windows 10/11 运行状况和修复工具，用于重复故障排除</title>
+      <link>https://www.reddit.com/r/software/comments/1ttsfwf/i_made_a_simple_open_source_windows_1011_health/</link>
+      <description><![CDATA[ 由   提交 /u/trask129   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ttsfwf/i_made_a_simple_open_source_windows_1011_health/</guid>
+      <pubDate>Mon, 01 Jun 2026 13:35:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否打开了 20 多个窗口却找不到任何东西？</title>
+      <link>https://www.reddit.com/r/software/comments/1ttoig7/do_you_have_20_windows_open_and_cant_find_anything/</link>
+      <description><![CDATA[ 由   提交 /u/Single_Art5049   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ttoig7/do_you_have_20_windows_open_and_cant_find_anything/</guid>
+      <pubDate>Mon, 01 Jun 2026 10:49:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在浏览器上打开任何完全免费的人工智能来帮助我编码吗？我使用 vscode 但我更喜欢在浏览器上打开 AI</title>
+      <link>https://www.reddit.com/r/software/comments/1ttobzv/any_absolutely_free_ai_that_i_can_open_on_my/</link>
+      <description><![CDATA[您好， 我最近停止为 ChatGPT 付费，因为它非常慢并且忽略我的请求。然后我切换到 Gemini，并惊讶地发现它是多么不可靠。即使在分享了我的整个代码之后，它仍然继续编写甚至没有被要求的代码。 您对完全免费且高度可靠的替代方案有什么建议吗？   由   提交 /u/Public-Shower7362   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ttobzv/any_absolutely_free_ai_that_i_can_open_on_my/</guid>
+      <pubDate>Mon, 01 Jun 2026 10:40:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>有趣的发现：同一电子邮件下的专业版和免费版工作区 - 其他人有这个吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1tto3wr/interesting_discovery_pro_and_free_workspace/</link>
+      <description><![CDATA[嘿r/ClaudeAI， 刚刚注意到我的帐户中有一些异常情况，我真的很好奇 是否有其他人看到过此内容。 在一封电子邮件下，我显示了两个工作区 - 一个标记为专业计划，一个标记为专业计划，另一个标记为专业计划标记为免费计划。我可以在它们之间自由切换。 我没有做任何特殊的设置，它只是看起来像这样。 还有其他人经历过这种情况吗？我一点也不抱怨—— 实际上我觉得这很酷。只是想了解它是如何工作的  https://preview.redd.it/0laeq6ofcu3h1.png?width=788&amp;format=png&amp;auto=webp&amp;s=d6e5c93d17c83a0431416f7e82f423110058da3e 以及其他人是否有相同的设置。   由   提交 /u/Known-Spray-2103   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tto3wr/interesting_discovery_pro_and_free_workspace/</guid>
+      <pubDate>Mon, 01 Jun 2026 10:29:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portabase v1.16 - 开源数据库备份和恢复工具，现在带有 REST API</title>
+      <link>https://www.reddit.com/r/software/comments/1ttlqce/portabase_v116_opensource_database_backup_restore/</link>
+      <description><![CDATA[大家好， 我是 Portabase 的维护者之一，我想分享最近的更新。 仓库：https://github.com/Portabase/portabase 明星总是值得赞赏的❤️ 现在 Portabase拥有 REST API 的第一个版本。 目前，该 API 专注于代理和数据库管理，包括备份和恢复操作。我们的想法是让 Portabase 更容易插入 CI 管道、内部工具、自动化工作流程或外部平台。 到目前为止，大多数操作都必须通过 Web UI 完成。使用 API，您可以开始以编程方式触发备份、恢复和相关操作。 OpenAPI 和 Swagger 文档可在此处获取： https://portabase.io/docs/dashboard/api/introduction 对于那些还不了解 Portabase 的人：它是一个开源、用于数据库备份和恢复的自托管平台。目标是保持设置简单，采用干净的 Web UI 和基于靠近数据库部署的中央服务器和边缘代理的分布式架构。 当您的数据库分布在不同的服务器、网络或环境中时，这非常有用。 当前支持的数据库包括 PostgreSQL、MySQL、MariaDB、Firebird SQL、SQLite、MongoDB、Redis、Valkey 和 MSSQL。 后续步骤：  ItemExtend逐步添加 REST API 添加 MCP 支持，使 Portabase 更容易与 AI 代理连接 发布官方 Unraid 模板以简化部署  欢迎反馈。如果您遇到错误、有建议或想要讨论用例，请随时提出问题。 谢谢！   由   提交/u/Dizzy-Message543  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ttlqce/portabase_v116_opensource_database_backup_restore/</guid>
+      <pubDate>Mon, 01 Jun 2026 08:19:05 GMT</pubDate>
+    </item>
     <item>
       <title>最好的插件是什么</title>
       <link>https://www.reddit.com/r/software/comments/1ttl888/what_are_the_best_plugins/</link>
@@ -60,55 +109,6 @@
       <description><![CDATA[嘿r/software！ 我构建了 SimpleDesktopFence - 一款适用于 Windows 的轻量级桌面面板应用程序， 受到 Fences 和 Nimi Places 的启发，但完全免费和开源。 **它的作用：** -创建浮动面板，在桌面上显示文件夹内容 - 文件更改时自动刷新 (FileSystemWatcher) - 本机 Windows 右键单击上下文菜单（与文件资源管理器相同） - 按名称、大小、类型或日期排序 - 就像文件资源管理器一样 - 同时最多 10 个面板，每个面板都完全可自定义 **自定义：** - 背景颜色和透明度 - 字体大小、列可见性 - 显示/隐藏文件扩展名 - 每个面板的自定义标签 **工具栏：** - 屏幕顶部的自动隐藏工具栏 - 单击以将任何面板置于前面 - 模式 2 锁定面板位置以实现干净的桌面布局 使用 WPF / 构建.NET 8 - 无需运行时，独立安装程序。 **GitHub：** https://github.com/AnTeCP100/SimpleDesktopFence 希望得到任何反馈或建议！   由   提交/u/T00T_ToOT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ttdgzo/i_made_a_free_opensource_fences_alternative_for/</guid>
       <pubDate>Mon, 01 Jun 2026 01:21:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacOS 将合法应用程序识别为恶意软件</title>
-      <link>https://www.reddit.com/r/software/comments/1ttdc0q/macos_is_identifying_legitimate_app_as_malware/</link>
-      <description><![CDATA[ https://preview.redd.it/ql5vja6wnk4h1.png?width=512&amp;format=png&amp;auto=webp&amp;s=2a3d79b5149334a00af74217d799388976014132 为什么 MacOS 会这样做？我之前也看到过类似的情况，ChatGTP 应用程序被标记为恶意软件...   由   提交 /u/ProfessionalEye5378   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ttdc0q/macos_is_identifying_legitimate_app_as_malware/</guid>
-      <pubDate>Mon, 01 Jun 2026 01:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>非常规文件格式转换器（OPUS/M4A➡️MP3、WAV、FLAC等</title>
-      <link>https://www.reddit.com/r/software/comments/1ttb9ax/unconventional_file_format_converter/</link>
-      <description><![CDATA[嘿，大家好，我正在为我下载用于家庭 DJ 练习的一些作品和 M4A 文件寻找文件转换器。我知道 VLC 有一个转换工具，但它在转换后不会保留元数据。我主要是在寻找一个转换工具，可以让我将这些文件转换为更传统的文件，如 mp3 或 flac，同时保留专辑封面等元数据。其他数据目前无关紧要。我可以在 VLC 上为此选择任何其他设置吗？    由   提交 /u/iamzanime   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ttb9ax/unconventional_file_format_converter/</guid>
-      <pubDate>Sun, 31 May 2026 23:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜索带有缩略图、组和标签的书签管理器</title>
-      <link>https://www.reddit.com/r/software/comments/1ttb7st/searching_for_a_bookmark_manager_with_thumbnails/</link>
-      <description><![CDATA[ 由   提交 /u/UnclearMango5534   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ttb7st/searching_for_a_bookmark_manager_with_thumbnails/</guid>
-      <pubDate>Sun, 31 May 2026 23:41:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>SD卡恢复</title>
-      <link>https://www.reddit.com/r/software/comments/1tt8r8r/sd_card_recover/</link>
-      <description><![CDATA[我在将 SD 卡导入手机时不小心删除了 700 张照片。我尝试了恢复，它有我所有的照片，但我不想支付 70 美元。我只有一台 MacBook Air，所以 dmde 不起作用，我尝试了 photorec，但似乎无法使其工作。免费将我的照片恢复到 MacBook Air 上的最佳方式是什么，还是我必须花费 70 美元   由   提交/u/Typical-Poet289  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tt8r8r/sd_card_recover/</guid>
-      <pubDate>Sun, 31 May 2026 21:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果出现这种情况可能是什么原因？</title>
-      <link>https://www.reddit.com/r/software/comments/1tt80hx/what_could_be_the_cause_if_this/</link>
-      <description><![CDATA[这更多的是一个网络工程问题。我最近使用Instagram的语音DM功能，我注意到在第一次收听语音消息时，速度是原来的2倍。现在事情是这样的，我以前从未使用过该特定功能，但它已经配置为我经常在 WhatsApp 上收听语音消息的精确速度，正如你所知，WhatsApp 是大 zuck 的 Meta 的“子公司”。 导致不同平台之间这种同步的底层代码实现是什么，每个平台都声称运行端到端加密消息服务？ 编辑：标题中的拼写错误*   由   提交 /u/Vexillum211202   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tt80hx/what_could_be_the_cause_if_this/</guid>
-      <pubDate>Sun, 31 May 2026 21:27:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了 Elevenlabs 学分，所以我使用基于 Elevenlabs Api 的 AI 制作了自己的 TTS Web 应用程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1tt7grp/got_tired_of_elevenlabs_credits_so_i_made_my_own/</link>
-      <description><![CDATA[顺便说一句，它不是已发布的网站。 这是链接：https://3000-ijc1rrtmow59u67chlamq-1a443938.us3.manus.computer/   由   提交 /u/TraditionalFerret975   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tt7grp/got_tired_of_elevenlabs_credits_so_i_made_my_own/</guid>
-      <pubDate>Sun, 31 May 2026 21:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件创意</title>
-      <link>https://www.reddit.com/r/software/comments/1tt4qm0/software_ideas/</link>
-      <description><![CDATA[你好，我是一名大学生，我需要一个项目的软件创意，令人惊讶的是，我脑子里唯一的想法是一个简单的自动更正软件，但我需要一些更具想象力的东西，所以任何想法都会受到赞赏   由   提交 /u/Puzzleheaded-Rip2024   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tt4qm0/software_ideas/</guid>
-      <pubDate>Sun, 31 May 2026 19:22:45 GMT</pubDate>
     </item>
     </channel>
 </rss>

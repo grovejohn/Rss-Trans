@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 01 Jun 2026 08:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:49:18 GMT</lastBuildDate>
+    <item>
+      <title>人工智能构建网站与雇用设计师/开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttttjn/ai_built_websites_vs_hiring_a_designerdeveloper/</link>
+      <description><![CDATA[我有兴趣为我的企业建立一个新网站，并正在考虑是否应该聘请专业人士或自己使用人工智能设计一个网站。我见过很多用 Claude 等人工智能工具构建的相当不错的网站，但我对它们是否构建得当持怀疑态度。如果有人对使用人工智能工具与雇用某人的利弊有意见，我将很高兴听到他们的意见。提前致谢！    由   提交 /u/HawgBandit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttttjn/ai_built_websites_vs_hiring_a_designerdeveloper/</guid>
+      <pubDate>Mon, 01 Jun 2026 14:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>每月入门/Web 开发职业主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttq11w/monthly_getting_started_web_dev_career_thread/</link>
+      <description><![CDATA[由于有关此主题的问题不断涌入，我们决定每月提交一个专门讨论此主题的帖子，以减少有关此主题的重复帖子的数量。这些类型的帖子将不再允许在主线程中发布。 其中许多问题也在子常见问题解答中得到解决，或者可能在以前的每月职业线程中提出。 专门针对这些类型的子问题问题包括针对一般性和开放式职业问题的 r/cscareerquestions 和针对早期学习问题的 r/learnprogramming。 学习为行业做好准备的主题的一般建议包括：  HTML/CSS/JS 训练营 版本控制 自动化 前端框架(React/Vue/Etc) API 和 CRUD 测试（单元和集成） 常见设计模式  您还需要包含您构建的 4-5 个个人项目的作品集，以及用于申请工作的简历。 在申请工作之前，为您的作品集计划 6-12 个月的自学和项目制作。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttq11w/monthly_getting_started_web_dev_career_thread/</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>人机交互剧作家自动化：流式传输后端浏览器以进行 OTP/CAPTCHA 处理的最佳方式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttpmv9/humanintheloop_playwright_automation_best_way_to/</link>
+      <description><![CDATA[大家好， 我们正在使用 Playwright 构建一个自动化平台，其中所有浏览器自动化都在后端运行。 对于需要手动干预（OTP、CAPTCHA、MFA、文档上传等）的门户，我们正在探索一种方法，让用户可以从我们的 React 应用程序临时查看正在运行的后端浏览器并与之交互，之后自动化将自动恢复。 我们的目标是：  将所有自动化逻辑保留在后端 仅在必要时支持人工干预 扩展到批量处理工作流程 在生产中可靠部署  我们目前正在评估 CDP 截屏、VNC/noVNC 和基于 WebRTC 的浏览器流式传输等方法。 有人在生产中构建过类似的东西吗？您选择了什么架构？可扩展性、延迟、安全性、会话管理和 CAPTCHA/OTP 工作流程方面面临的最大挑战是什么？ 此外，对于此用例，是否有比实时浏览器流式传输更好的替代方案？ 任何建议、经验或开源项目将不胜感激。   由   提交/u/Loud_Ice4487  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttpmv9/humanintheloop_playwright_automation_best_way_to/</guid>
+      <pubDate>Mon, 01 Jun 2026 11:43:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果人工智能在你编码时已经可以看到你的屏幕，那么你实际上会问哪些目前还没有问到的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttmio4/if_the_ai_could_already_see_your_screen_while_you/</link>
+      <description><![CDATA[我一直在考虑 AI 辅助调试的特定版本。不是问哪个工具更聪明，而是询问完全删除上下文设置步骤会带来的行为变化。现在我会自行选择哪些调试问题需要人工智能参与。门槛大致是：这是否足够复杂以至于值得支付设置成本？复制相关代码，复制错误，添加有关项目结构的上下文，问我的问题。需要几分钟才能做好。 如果 AI 可以直接看到我的 IDE，无需复制、无需粘贴，只需“看看这个并告诉我出了什么问题”，就可以了。我想我的门槛会大幅下降。我想问更多的事情。更小的事情。我目前只是自己推动这些事情，因为它们似乎不值得设置开销。 答案是否会更好，因为人工智能看到实际屏幕是一个单独的问题。但消除摩擦带来的行为改变可能比任何质量改进都更重要。 如果人工智能调试的设置成本为零，您会以不同的方式使用它吗？或者您认为当前的复制粘贴步骤实际上很有用，因为它迫使您在提出问题之前仔细考虑问题？    由   提交 /u/Professional-Peach-3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttmio4/if_the_ai_could_already_see_your_screen_while_you/</guid>
+      <pubDate>Mon, 01 Jun 2026 09:03:54 GMT</pubDate>
+    </item>
     <item>
       <title>需要职业建议：Java 还是 Python 全栈？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ttkq1v/need_career_advice_java_or_python_full_stack/</link>
@@ -36,7 +64,7 @@
     <item>
       <title>在实时聊天应用程序中处理大图像和文件</title>
       <link>https://www.reddit.com/r/webdev/comments/1tt5n6a/handling_large_images_files_in_a_real_time_chat/</link>
-      <description><![CDATA[嘿伙计们， 很想得到一些关于我的方法是否有意义的反馈。  我正在构建一个实时聊天应用程序，用户可以在其中上传和接收图像/文件。文件可能相当大（最大约 100MB）。  当前堆栈是：fastapi、websockets、tanstack、postgres 和 redis。我使用 GCP 作为我的云提供商。  我当前的流程是：  后端生成签名 URL  前端直接上传到 GCS 存储桶 云函数处理上传后处理  对于下载，前端使用重定向/签名 URL 直接从 GCS 获取，因此后端不会成为瓶颈 这种架构非常适合较小的文件（&lt;30MB），但是一旦我开始测试较大的上传（100MB 图像/视频），我注意到处理过程中的内存消耗非常高（顺便说一句，整个项目都使用分页和虚拟化）。 我试图找出聊天系统中大型媒体上传的最佳实践：压缩/缩小应该发生在客户端还是服务器端（目前根本没有压缩）？  另外，在保持原始图像不变的情况下单独生成缩略图/预览（图像）是否很常见？  我应该流式上传而不是缓冲它们吗？云函数是否是处理繁重文件的正确选择？ 对于图像，我正在考虑：上传前的客户端压缩、自动缩略图生成、存储多种分辨率、转换为 WebP/AVIF 等格式。 很想听听你们在生产系统中如何处理这个问题。谢谢！   由   提交/u/omry8880  [链接] [评论]]]></description>
+      <description><![CDATA[嘿伙计们， 很想得到一些关于我的方法是否有意义的反馈。  我正在构建一个实时聊天应用程序，用户可以在其中上传和接收图像/文件。文件可能相当大（最大约 100MB）。  当前堆栈是：fastapi、websockets、tanstack、postgres 和 redis。我使用 GCP 作为我的云提供商。  我当前的流程是：  后端生成签名 URL  前端直接上传到 GCS 存储桶 云函数处理上传后处理  对于下载，前端使用重定向/签名 URL 直接从 GCS 获取，因此后端不会成为瓶颈 这种架构非常适合较小的文件（&lt;30MB），但是当我开始测试较大的上传（100MB 图像/视频）时，我注意到处理过程中的内存消耗非常高（顺便说一句，整个项目都使用分页和虚拟化）。 我试图找出聊天系统中大型媒体上传的最佳实践：压缩/缩小应该发生在客户端还是服务器端（目前根本没有压缩）？  另外，在保持原始图像不变的情况下单独生成缩略图/预览（图像）是否很常见？  我应该流式上传而不是缓冲它们吗？云函数是否是处理繁重文件的正确选择？ 对于图像，我正在考虑：上传前的客户端压缩、自动缩略图生成、存储多种分辨率、转换为 WebP/AVIF 等格式。 很想听听你们在生产系统中如何处理这个问题。谢谢！   由   提交/u/omry8880  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tt5n6a/handling_large_images_files_in_a_real_time_chat/</guid>
       <pubDate>Sun, 31 May 2026 19:56:54 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[我在构建小行星项目中添加了更多小行星，突然我的 FPS 下降了。就像完全无法使用一样。 现在我正在查看我的代码，并意识到我的构建小行星循环基本上只是在没有真正优化的情况下重新绘制每一帧的所有内容。 我以为请求动画帧会自动处理它，但是是的......那是我太天真了。 人们在构建小行星时是否有一种正常的模式，这样当您添加更多对象时它就不会崩溃？   由   提交 /u/Tricky-Highway-7099   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tswl43/didnt_expect_build_asteroids_to_turn_into_a/</guid>
       <pubDate>Sun, 31 May 2026 14:17:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>sql.js-httpvfs - 在静态文件托管服务器上托管 SQLite 数据库，并从浏览器查询该数据库，而无需完全下载它。是否还有仍在维护的替代方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tss5g5/sqljshttpvfs_hosting_an_sqlite_database_on_a/</link>
-      <description><![CDATA[       由   提交/u/Wise_Stick9613   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tss5g5/sqljshttpvfs_hosting_an_sqlite_database_on_a/</guid>
-      <pubDate>Sun, 31 May 2026 10:57:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>DIY 网站建设者对网络开发行业有影响吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tsp5y1/have_diy_website_builders_had_an_effect_on_the/</link>
-      <description><![CDATA[在过去几年主要关注设计之后，我最近重新熟悉了前端开发。我计划从现在开始再次将两者结合起来。 我从事的最后一份全职工作我们使用了如今似乎很流行的拖放网站构建器。我不得不说，这是一次真正痛苦的经历。 我们要移交的网站将是一团糟，客户必须自己编辑栏目、小部件、布局，这感觉就像是一场灾难。 我们经常不得不复制各种小部件，例如图像滑块，一个用于移动设备，一个用于桌面设备。然后，我必须向客户解释，他们需要使用相同的内容更新两次。 此外，很多时候，由于软件的限制，我必须设置 HTML 小部件，因此我还必须向客户解释，他们有时需要在简单更新其网站上的内容时编辑实际的代码。 但令人担忧的是，我最近在营销机构进行了许多其他工作面试，似乎每个人都在做同样的事情。 我有时还会在播客上听到人们将默认的 WordPress 描述为“老式”，就好像 Web 开发的未来就是用这些可怕的网站构建器做所有事情 WTF 🤮 这些人是否主要只是进行基本/糟糕的 Web 开发项目，而将正确的项目留给那些知道如何正确执行的人？或者有很多开发人员因此而失去工作？   由   提交 /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tsp5y1/have_diy_website_builders_had_an_effect_on_the/</guid>
-      <pubDate>Sun, 31 May 2026 08:07:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 |创建了类似 leetcode 的应用程序，但重点是学习而不是解决问题 |规则代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tsk2zb/open_source_created_app_like_leetcode_but_with/</link>
-      <description><![CDATA[      大家好，我们创建此应用程序是为了学习目的，大多数问题都是免费的， 请在 rulcode.com 上查看并添加您的建议（如果有）。  谢谢   由   提交/u/Puzzleheaded-Net7258  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tsk2zb/open_source_created_app_like_leetcode_but_with/</guid>
-      <pubDate>Sun, 31 May 2026 03:36:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何：重新设计 <details><summary> 元素以创建分页类型布局 - 遍历页面/指南等...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tsj4m0/how_to_reengineer_detailssummary_element_to/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tsj4m0/how_to_reengineer_detailssummary_element_to/</guid>
-      <pubDate>Sun, 31 May 2026 02:50:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

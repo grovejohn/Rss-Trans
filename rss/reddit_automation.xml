@@ -4,20 +4,34 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 01 Jun 2026 08:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:46:33 GMT</lastBuildDate>
     <item>
-      <title>我们的管道完美运行了 6 个月。然后，一家提供商在周二早上出现了 2 小时的中断。</title>
-      <link>https://www.reddit.com/r/automation/comments/1ttl79b/our_pipeline_ran_perfectly_for_6_months_then_one/</link>
-      <description><![CDATA[内容处理管道。摄取数据，通过四个 LLM 步骤运行数据，输出结构化结果。六个月以来一直干净。然后，周二上午 9 点，一家提供商出现故障。管道停滞了。 Jobs backlogged. Support queue filled up.无技术原因失败的服务停机了两个小时。 问题在于单个提供商端点，背后没有任何内容。之后重建路由层。 MixRoute 现在位于所有 LLM 调用的前面。如果延迟超过阈值或提供程序出现故障，请求会自动重新路由到备份。此后没有发生管道中断。 如果您的自动化与一个没有后备的提供商联系在一起，那么您未计划的一次中断就会发现它。您的后备策略是什么样的？    由   提交 /u/chaotickudi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ttl79b/our_pipeline_ran_perfectly_for_6_months_then_one/</guid>
-      <pubDate>Mon, 01 Jun 2026 07:49:03 GMT</pubDate>
+      <title>在自动化流程中，哪个操作值得首先进行昂贵的第二次检查：客户消息、数据库写入或支付相关步骤？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tttqvt/in_an_automation_flow_which_action_deserves_the/</link>
+      <description><![CDATA[​ 我关心的 Ring-2.6-1T 问题是更重的推理实际上可以防止损坏，而不是听起来令人印象深刻的地方。 它是一个万亿参数推理模型，适用于具有高和 xhigh 推理工作模式的代理工作流程。如果我只为自动化流程中的一次昂贵的第二次查看付费，我会将其放在客户可见的消息、数据库写入或付款相邻步骤之前。 您会将额外的推理放在哪里？   由   提交 /u/weap0nizer11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tttqvt/in_an_automation_flow_which_action_deserves_the/</guid>
+      <pubDate>Mon, 01 Jun 2026 14:22:00 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年速度和隐私方面最好的浏览器是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ttjp0r/whats_the_best_browser_in_2026_for_speed_and/</link>
-      <description><![CDATA[我最近一直在比较几个选项，想看看每个人都在使用什么。 对于日常浏览，哪种浏览器提供性能、隐私和安全性的最佳平衡？ 此外，您认为 2026 年管理多个帐户的最佳反检测浏览器是什么？正在寻找稳定、高效且易于长期使用的东西。 您的首要建议是什么？为什么？   由   提交/u/spikyfins  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ttjp0r/whats_the_best_browser_in_2026_for_speed_and/</guid>
-      <pubDate>Mon, 01 Jun 2026 06:24:35 GMT</pubDate>
+      <title>最适合电子商务业务的自动化工具？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tts7k5/best_automation_tools_for_an_ecommerce_business/</link>
+      <description><![CDATA[大家好，我正在寻找更好地改进和自动化我的 Shopify 商店的方法。我认为自动化可以提供帮助的主要问题是：  1) 订单编辑（手动请求商品变体更改、地址拼写错误等）。2) 客户支持（聊天机器人？我不知道我从来没有尝试过）。3) 购买后优化（请求产品评论、个性化交叉销售等）。  我对任何事情都持开放态度，只是想听听你们如何使用自动化来实现这一点。谢谢大家。   由   提交 /u/LowPuzzleheaded1469   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tts7k5/best_automation_tools_for_an_ecommerce_business/</guid>
+      <pubDate>Mon, 01 Jun 2026 13:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>人机交互剧作家自动化：流式传输后端浏览器以进行 OTP/CAPTCHA 处理的最佳方式？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ttpfc5/humanintheloop_playwright_automation_best_way_to/</link>
+      <description><![CDATA[大家好， 我们正在使用 Playwright 构建一个自动化平台，其中所有浏览器自动化都在后端运行。 对于需要手动干预（OTP、CAPTCHA、MFA、文档上传等）的门户，我们正在探索一种方法，让用户可以从我们的 React 应用程序临时查看正在运行的后端浏览器并与之交互，之后自动化将自动恢复。 我们的目标是：  将所有自动化逻辑保留在后端 仅在必要时支持人工干预 扩展到批量处理工作流程 在生产中可靠部署  我们目前正在评估 CDP 截屏、VNC/noVNC 和基于 WebRTC 的浏览器流式传输等方法。 有人在生产中构建过类似的东西吗？您选择了什么架构？可扩展性、延迟、安全性、会话管理和 CAPTCHA/OTP 工作流程方面面临的最大挑战是什么？ 此外，对于此用例，是否有比实时浏览器流式传输更好的替代方案？ 任何建议、经验或开源项目将不胜感激。   由   提交/u/Loud_Ice4487  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ttpfc5/humanintheloop_playwright_automation_best_way_to/</guid>
+      <pubDate>Mon, 01 Jun 2026 11:33:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>PLC 系统是否正在慢慢成为更大的软件生态系统的一部分？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ttnrct/are_plc_systems_slowly_becoming_part_of_larger/</link>
+      <description><![CDATA[现代自动化设置似乎比旧系统更加互联。  PLC 现在比以往任何时候都更多地与云平台、分析工具、远程监控、数据库、边缘设备和人工智能/自动化层进行交互。  在某些时候，几乎感觉 PLC 正在成为更大的软件驱动基础设施中的一个组件。  很好奇从事自动化工作的其他人是否也看到了同样的趋势。    由   提交/u/RangerNew5346  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ttnrct/are_plc_systems_slowly_becoming_part_of_larger/</guid>
+      <pubDate>Mon, 01 Jun 2026 10:12:04 GMT</pubDate>
     </item>
     <item>
       <title>我们通过人工智能自动化了一半的内容管道，我们的每月成本在大约三周内从可管理变为完全失控</title>
@@ -69,25 +83,11 @@
       <pubDate>Sun, 31 May 2026 15:18:39 GMT</pubDate>
     </item>
     <item>
-      <title>Ep.002 - Ansible-Vault - 如何加密、解密、创建、查看和编辑</title>
-      <link>https://www.reddit.com/r/automation/comments/1tsy4ck/ep002_ansiblevault_how_to_encrypt_decrypt_create/</link>
-      <description><![CDATA[       由   提交 /u/Aspiring-Dev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tsy4ck/ep002_ansiblevault_how_to_encrypt_decrypt_create/</guid>
-      <pubDate>Sun, 31 May 2026 15:17:20 GMT</pubDate>
-    </item>
-    <item>
       <title>在自动化流程中，您会首先在哪里支付 Ring 的推理税：实时数据编辑、批准门还是异常分类？</title>
       <link>https://www.reddit.com/r/automation/comments/1tsxlpu/in_an_automation_flow_where_would_you_pay_rings/</link>
       <description><![CDATA[Ring-2.6-1T 对我来说最突出的一点并不是你在任何地方都需要更多的思考。这是一个较慢的第二次查看实际上值得付出代价的地方。 这是一个用于代理工作流程的万亿参数推理模型，具有高和极高推理努力模式。如果我只在自动化流程中首先给 Ring 一个停下来思考的点，我会把它放在实时数据编辑、批准门或异常分类上。 你会首先在哪里进行更繁重的推理？   由   提交 /u/babyb01   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tsxlpu/in_an_automation_flow_where_would_you_pay_rings/</guid>
       <pubDate>Sun, 31 May 2026 14:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于网页抓取的新免费开源 Android 自动化 - Damru</title>
-      <link>https://www.reddit.com/r/automation/comments/1tsx6hk/new_free_opensource_android_automation_for_web/</link>
-      <description><![CDATA[       由   提交 /u/NinjaAlaska   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tsx6hk/new_free_opensource_android_automation_for_web/</guid>
-      <pubDate>Sun, 31 May 2026 14:41:34 GMT</pubDate>
     </item>
     <item>
       <title>这个随机的周末自动化事情有点搞乱了我的数据混乱哈哈</title>
@@ -106,7 +106,7 @@
     <item>
       <title>让我免费帮助您实现自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1tsn1ej/let_me_help_you_to_automate_things_free/</link>
-      <description><![CDATA[需要人工智能、代理、RAG、自动化、聊天机器人、工作流程方面的帮助，或者只是想知道是否可以自动化某些东西？ 直接提问。 我免费帮助人们，因为我希望更多的建筑商、学生和小型企业了解人工智能在 2026 年的实际能力。 如果您陷入一个项目或有一个想法，我们来谈谈。   由   提交 /u/Delicious_Shower5188   [链接] [评论]]]></description>
+      <description><![CDATA[需要人工智能、代理、RAG、自动化、聊天机器人、工作流程方面的帮助，或者只是想知道是否可以自动化某些东西？ 直接提问。 我免费帮助人们，因为我希望更多的建筑商、学生和小型企业了解 2026 年人工智能的实际能力。 如果您陷入一个项目或有一个想法，我们来谈谈。   由   提交 /u/Delicious_Shower5188   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tsn1ej/let_me_help_you_to_automate_things_free/</guid>
       <pubDate>Sun, 31 May 2026 06:07:56 GMT</pubDate>
     </item>

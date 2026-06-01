@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 01 Jun 2026 08:19:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 14:49:37 GMT</lastBuildDate>
     <item>
       <title>打开咖啡因</title>
       <link>https://www.producthunt.com/products/open-caffeine</link>
@@ -18,20 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/open-caffeine</guid>
       <pubDate>Mon, 01 Jun 2026 03:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>米斯特拉尔氛围</title>
-      <link>https://www.producthunt.com/products/mistral-7b</link>
-      <description><![CDATA[
-            I 代理长时间运行、多步骤的工作和编码
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mistral-7b</guid>
-      <pubDate>Mon, 01 Jun 2026 03:25:48 GMT</pubDate>
     </item>
     <item>
       <title>天空直播</title>
@@ -60,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/stella-4</guid>
       <pubDate>Sun, 31 May 2026 21:46:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 JSON 绘制 | Figma API 客户端</title>
+      <link>https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma</link>
+      <description><![CDATA[
+            模型中的真实 API 数据就像 lorem ipsum 一样简单。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/paint-by-json-an-api-client-for-figma</guid>
+      <pubDate>Sun, 31 May 2026 21:45:07 GMT</pubDate>
     </item>
     <item>
       <title>代币明智</title>
@@ -118,18 +118,18 @@
       <pubDate>Fri, 29 May 2026 15:04:29 GMT</pubDate>
     </item>
     <item>
-      <title>艾米丽（Co-Desk）</title>
-      <link>https://www.producthunt.com/products/co-desk</link>
+      <title>社交回声2.0</title>
+      <link>https://www.producthunt.com/products/socialecho</link>
       <description><![CDATA[
-            面向联合办公和共享居住运营商的语音 AI 副驾驶
+            团队和代理的人工智能社交媒体副驾驶
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/co-desk</guid>
-      <pubDate>Fri, 29 May 2026 10:21:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/socialecho</guid>
+      <pubDate>Wed, 27 May 2026 16:57:27 GMT</pubDate>
     </item>
     <item>
       <title>三重俱乐部</title>
@@ -146,7 +146,7 @@
       <pubDate>Tue, 26 May 2026 19:17:42 GMT</pubDate>
     </item>
     <item>
-      <title>米娜 - 会议助理</title>
+      <title>米娜会议助理</title>
       <link>https://www.producthunt.com/products/mina-meeting-assistant</link>
       <description><![CDATA[
             您的 AI 队友现在可以在您通话期间做出响应并执行操作
@@ -174,20 +174,6 @@
       <pubDate>Mon, 25 May 2026 21:24:24 GMT</pubDate>
     </item>
     <item>
-      <title>沙丘键盘</title>
-      <link>https://www.producthunt.com/products/dune-4</link>
-      <description><![CDATA[
-            上下文感知 Mac 键盘，带有 Claude + 社区扩展 
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dune-4</guid>
-      <pubDate>Thu, 21 May 2026 13:04:56 GMT</pubDate>
-    </item>
-    <item>
       <title>约翰</title>
       <link>https://www.producthunt.com/products/joanium-2</link>
       <description><![CDATA[
@@ -200,6 +186,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/joanium-2</guid>
       <pubDate>Thu, 21 May 2026 10:19:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据盒MCP</title>
+      <link>https://www.producthunt.com/products/databox</link>
+      <description><![CDATA[
+            在 Claude、ChatGPT 等中与您的业务数据聊天
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/databox</guid>
+      <pubDate>Tue, 19 May 2026 11:05:48 GMT</pubDate>
     </item>
     <item>
       <title>呈现</title>
