@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>这个 Reddit 子版块面向的是后专业人士。您想成为职业选手吗？请随意使用我们的“询问专业人士”主题。副业？使用“询问专业人士”主题。爱好？为了好玩？我们的姐妹子/视频编辑正是您想要的！</description>
-    <lastBuildDate>Mon, 01 Jun 2026 19:50:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 22:55:34 GMT</lastBuildDate>
+    <item>
+      <title>Premiere：如何从时间轴创建子剪辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1tu4ziu/premiere_how_can_i_create_subclips_from_timeline/</link>
+      <description><![CDATA[我正在处理胶片，我在一个序列中的一个很长的拉卷上运行了场景编辑检测，这成功地在所有场景变化处创建了剪辑。我现在的目标是将这些单独的时间线段转换为子剪辑，以便稍后查看、标记和选择。 问题是，当我尝试使用入点/出点并创建剪辑时，Premiere 似乎会创建子序列，而不是源媒体的实际子剪辑。 有没有办法从时间轴上生成的所有剪辑自动创建子剪辑？或者是否有比手动匹配每个镜头并逐一制作子剪辑更快的工作流程？ 来自 Avid 背景，感觉非常简单，所以我想知道我是否错过了明显的 Premiere 工作流程。 谢谢！   由   提交 /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1tu4ziu/premiere_how_can_i_create_subclips_from_timeline/</guid>
+      <pubDate>Mon, 01 Jun 2026 20:37:02 GMT</pubDate>
+    </item>
     <item>
       <title>如果我的团队中有一位速度慢的编辑，而我必须为其完成工作，该怎么办？</title>
       <link>https://www.reddit.com/r/editors/comments/1tu1oyj/what_to_do_about_a_slow_editor_on_my_team_who_im/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[这似乎是一件毫无意义的事情，但我不确定何时应该为我的短片命名。这是一部 10-15 分钟的戏剧短片。它的标题并没有真正说明故事的任何深刻含义，它只是指主要事件（就像标题“盗梦空间”与电影的关系一样）。 我在预制作过程中研究了每个镜头角度、故事板和摄像机运动，因为我想为每个镜头赋予一个目的。每一个创造性的选择都以自己的方式推动故事的发展。很自然地，我对标题的位置也有同样的想法。也许这对大多数人来说并不重要，但我想它是否会对观众产生影响，以及是否应该以某种方式真正实现这一选择。 谁能告诉我他们是否更喜欢在电影开始前的开头看到标题，作为前几个镜头的叠加，还是在结尾？   由   提交 /u/Sherlock528491   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1tsd5ri/movie_title_at_beginning_or_end/</guid>
       <pubDate>Sat, 30 May 2026 22:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户录制的整个播客节目失去焦点，有什么快速解决办法吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1tsc1s0/client_recorded_an_entire_podcast_episode_out_of/</link>
-      <description><![CDATA[对技术过敏的客户搞砸了他精心安排的设置，录制了整整一个小时的播客节目，重点是他的背景而不是他的脸。这是一个匆忙的情节，一天的转变，我感到愤怒和绝望。有什么工具或修复程序可以保存素材吗？我在 Premiere Pro 中进行编辑。    由   提交 /u/getyourownthememusic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1tsc1s0/client_recorded_an_entire_podcast_episode_out_of/</guid>
-      <pubDate>Sat, 30 May 2026 21:27:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 01 Jun 2026 19:48:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 22:54:19 GMT</lastBuildDate>
+    <item>
+      <title>新手向子寻求有关下一步学习内容的指导。</title>
+      <link>https://www.reddit.com/r/automation/comments/1tu41tl/newbie_to_sub_looking_for_guidance_on_what_to/</link>
+      <description><![CDATA[嘿伙计们，我最近发现了这个子程序，正在寻求一些建议。  过去一年我一直在研究 Power Automate。它是从 osrs 上的机器人开始的（笑），因为我想学习和学习。到处玩。我还设置了一些简单的云 Power Automate 工作流程。  我喜欢摆弄它。我发现了解它的新功能非常令人满意。我想发展自己的技能和能力，有可能成为我未来职业生涯的一个组成部分。  我只知道 Power Automate，您会推荐哪些其他应用程序/网站/软件，为什么？我不一定想了解人工智能代理的炒作。我很欣赏它的强大功能，但我觉得它目前有点流行，目前不一定想深入了解它。  另外，有什么 YouTuber 推荐观看和获取想法吗？  TIA   由   提交/u/MrSam1998  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tu41tl/newbie_to_sub_looking_for_guidance_on_what_to/</guid>
+      <pubDate>Mon, 01 Jun 2026 20:05:15 GMT</pubDate>
+    </item>
     <item>
       <title>您可以使用 AI 代理和 200 美元的 Claude 订阅来运行“大部分”业务。我们是这样做的</title>
       <link>https://www.reddit.com/r/automation/comments/1tu2qo3/you_can_run_most_of_your_business_with_ai_agents/</link>
@@ -95,13 +102,6 @@
       <description><![CDATA[我负责一个大约 12 人的小型 SaaS 团队的增长。二月份左右，我们全力投入人工智能来实现内容和外展自动化。这个想法很简单，用一堆处理研究、起草、个性化和整个流程的人工智能工具取代两个兼职承包商。 前两周看起来令人难以置信。产量增加了两倍，质量足够好，而每件的成本几乎下降到零。我向我的联合创始人展示了这些数字，就像我们破解了一些代码一样。 然后发票开始收到。我们运行了大约七种不同的人工智能服务，每一项都在做自己的事情，所有这些服务的代币消耗远远超出了任何定价计算器的预测。到第三周，我们的人工智能支出已经悄悄超过了我们支付给这两个承包商的费用。承包商实际上理解了上下文，而无需消耗代币来弄清楚我们的意思。 我尝试优化。更短的提示、缓存、批处理请求。大概节省了 15%。根本问题是，任何有意义的数量的实际生产使用都会比预测显示的更快地消耗信用。每个供应商演示都会向您展示每单位成本，但没有人模拟当您实际上让这些东西在整个工作流程中无人监督地运行时会发生什么。 我们仍在使用人工智能，但我们已经大力撤退。运行的可能是我们自动化的三分之一。其余的都回到了人类身上，因为一旦你考虑到错误纠正和不断提示的调整，而没有人在他们的投资回报率计算中考虑到这一点，数学就不再起作用了。 感觉很多小团队正在悄悄地碰上同一堵墙，只是不谈论它。   由   提交 /u/Pristine_Rest_7912   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tth2bc/we_automated_half_our_content_pipeline_with_ai/</guid>
       <pubDate>Mon, 01 Jun 2026 04:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化作为可编辑文档 - Beta 测试人员？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ttecwk/automation_as_an_editable_document_beta_testers/</link>
-      <description><![CDATA[      大家好， 我刚刚在我的工具中发布了一项功能，人们可以使用 claude 代码创建可编辑文档的自动化（您可以添加许多不同的步骤 - bash 脚本、api、claude 会话等）。现在还为时过早，所以如果有人有兴趣测试并提供反馈，我很乐意提供一些许可证，谢谢。  要求：Claude 代码，MacOS   由   提交/u/croovies  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ttecwk/automation_as_an_editable_document_beta_testers/</guid>
-      <pubDate>Mon, 01 Jun 2026 02:02:21 GMT</pubDate>
     </item>
     <item>
       <title>人工智能呼叫中心代理平台到底值不值？</title>
