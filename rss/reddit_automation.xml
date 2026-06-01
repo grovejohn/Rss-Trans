@@ -4,7 +4,63 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Mon, 01 Jun 2026 14:46:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 19:48:45 GMT</lastBuildDate>
+    <item>
+      <title>您可以使用 AI 代理和 200 美元的 Claude 订阅来运行“大部分”业务。我们是这样做的</title>
+      <link>https://www.reddit.com/r/automation/comments/1tu2qo3/you_can_run_most_of_your_business_with_ai_agents/</link>
+      <description><![CDATA[因此，过去 3 个月我们一直在使用代理来推动我们网站流量的很大一部分。除了 Claude Max 订阅之外，我们基本上没有花费任何费用。 我们是这样做的。 设置 Claude Max 的价格为 200 美元/月。我们已经需要它来进行开发工作，所以对我们来说成本基本上为零。但即使你是新鲜付费，数学也是有效的。 架构很简单：  Claude Max 通过 Claude 例程或项目处理所有繁重的编排和推理工作 来自 OpenAI 或 Gemini 的廉价 API 密钥处理实际的内容生成或评分任务 Playwright 在云中运行浏览器自动化 GitHub Actions 处理每个任务的调度和凭据。代理  诀窍是让 Claude Max 进行大量代币思考工作，而只使用付费 API 来生成轻量级输出。我们已经以这种方式运行了 7 个代理，实际 API 代币花费不到 5 美元。 最有效的方法 低风险内容和参与渠道是最佳选择。例如：  Reddit 监控和评论 Quora 答案生成 YouTube 对相关视频的评论 子堆栈参与 博客文章草稿 跨平台内容重新利用  这些都是低风险、大批量的任务。持续运行这些措施所产生的 AEO 复合效果非常强大。法学硕士开始将您与您解决的问题联系起来自然流量无需您接触即可建立。 要避免什么 这是更重要的部分。 不要尝试在严格或敏感的平台上实现自动化。我们经历了惨痛的教训才明白了这一点。几个月前，Twitter/X 帐户被禁止。 4k 粉丝消失了。这是不值得的。 对于任何具有真正执行风险或关键业务基础设施的事情，我们都会付费购买专用工具。大约 300 美元/月涵盖通过 Instantly 的电子邮件基础设施，100 美元/月涵盖通过 ProspectZero 的 LinkedIn 外展服务。这些渠道对于 DIY 代理来说太重要了，不能冒险，而且这些工具是为了正确处理合规性而构建的。 我们使用的规则：如果在该平台上被禁止实际上会造成伤害，请不要自己将其自动化。付费购买合适的工具或手动完成。 全部成本明细  Claude Max：200 美元/月（开发人员已需要） 其他 API 令牌：低于 10 美元/月 电子邮件和 LinkedIn 专用工具：400 美元/月  7 个增长代理每天 24/7 运行，实际上没有任何费用代理方。 很高兴回答有关设置的任何问题，顺便说一句，我们是一家 B2B Saas 公司。   由   提交/u/GildedGazePart   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tu2qo3/you_can_run_most_of_your_business_with_ai_agents/</guid>
+      <pubDate>Mon, 01 Jun 2026 19:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们是怎么找到第一个客户的？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tu2in7/how_did_you_guys_land_your_first_client/</link>
+      <description><![CDATA[我最近学习了自动化，并且选择了兽医诊所利基市场，在那里我可以为诊所的预约客户提供审查请求自动化。预约后 3 小时，系统会自动向客户发送一封电子邮件，其中包含供 Google 审核的链接，以确保他们在家时收到电子邮件。 我使用 Google 地图，从我研究的 65 家诊所中选择了 26 家诊所进行联系。我目前正在前往纳什维尔（市）诊所。为了找到完美的诊所，我的方法是寻找评论数量，它们应该是 50-400 条并且不一致，例如本周 3 条评论，上周 0 条评论，上个月 8 条评论。由于我主要通过 Instagram 进行联系，因此我也会在 Instagram 上看到诊所的活动，如果他们最近有帖子，则意味着他们在社交上很活跃。  今天是我第一次联系诊所（其中有 26 个），到目前为止还没有人回复，但只过了几个小时。通过电子邮件联系没有 Instagram 个人资料的诊所。 有人提出一些建议来改进我的外展方法或改进我筛选最佳诊所的方法吗？  此外，如果我联系 100 家诊所，预计会达成多少交易？   由   提交 /u/CryptographerOwn4806   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tu2in7/how_did_you_guys_land_your_first_client/</guid>
+      <pubDate>Mon, 01 Jun 2026 19:12:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PNG 转 JPEG</title>
+      <link>https://www.reddit.com/r/automation/comments/1tu1yli/png_to_jpeg/</link>
+      <description><![CDATA[      Excel 中 PNG 转 JPEG 的 VBA 代码   由   提交/u/New-Length-9406  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tu1yli/png_to_jpeg/</guid>
+      <pubDate>Mon, 01 Jun 2026 18:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>2025 年自动化之旅</title>
+      <link>https://www.reddit.com/r/automation/comments/1tu13td/automation_journey_2025/</link>
+      <description><![CDATA[嘿 ​想写一篇关于我的自动化之旅的文章 - 自动化我的生活轻松 - 我做了什么，我在这里解释一下。但我无法在一篇文章中涵盖所有场景，所以将一一分享。 ​案例：1 - 文件整理 ​每天管理 1000 个文件确实很困难，我每天都需要面对这个挑战 - 所以我决定进行自动化。 ​自动化之前： ​需要 2-3 个人每天 8 小时才能处理 ​太多的手动错误，交付缓慢，每天都很困难。 ​构建： 一旦我开始，我就花了 1 个月的时间在第一次自动化上构建，以完成从规划到测试，然后在生产模块上的实现。 一切都是基于触发器或基于时间 - 无需手动运行 - 不使用任何付费工具。 ​自动化之后（结果）： ​现在几乎不是一个人每天工作 2-3 小时的工作。 ​成本为 0 bcz 我已经使用了现有的 Google 生态系统。 ​现在错误更少，交付速度更快，工作效率更高。 ​只是想分享第一个案例，以展示什么是可能的。我很快就会分享案例2。如果您有任何疑问，请告诉我！   由   提交/u/Cyber​​ReX92  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tu13td/automation_journey_2025/</guid>
+      <pubDate>Mon, 01 Jun 2026 18:26:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让团队交付人工智能构建的自动化，而不让 IT 承担所有的混乱</title>
+      <link>https://www.reddit.com/r/automation/comments/1ttz0qb/how_to_let_teams_ship_aibuilt_automations_without/</link>
+      <description><![CDATA[最近关于 IT 成为每个人的 ChatGPT 实验的清理人员的帖子让我思考了这个问题的解决方案。我认为问题不在于营销、运营、销售或财务人员正在使用人工智能来构建内部工具。这种情况将会发生，其中一些工具将会很有用。 问题是，当某人笔记本电脑上的有用脚本成为业务的一部分时，然后 IT 部门需要托管它、保护它、调试它并永远维护它。 您可以尝试禁止此操作，但与受控部署相比，这可能会对业务造成更大的伤害。我认为更好的模型是：  业务团队拥有他们创建的工具 IT 拥有这些工具运行的平台  我如何构建它：  Git 作为事实来源  任何内部工具都不应仅存在于 zip、聊天历史或随机笔记本电脑文件夹中。每个团队都会获得一个存储库。如果发生变化，就会有一个提交。如果它坏了，就会有历史。  团队沙箱  每个团队都有一个有限的地方来部署小型应用程序：私有 URL、SSO、日志、有限的秘密、有限的网络访问。很有用，但默认情况下不是生产访问。  自助部署，而不是自助基础设施  团队可以从 Git 部署到他们的沙箱中。他们不应该要求提供随机虚拟机、共享凭据、防火墙例外，或者“只是让其保持运行。”  根据爆炸半径进行审核  如果应用程序需要客户数据、写入访问权限、公共路由、生产凭据或外部电子邮件发送，则应触发审核。不是因为它是人工智能生成的，而是因为它会造成损害。  关键工具的升级  大多数工具可以留在沙箱中。如果它成为关键任务，请正确提升它：指定所有者、访问审查、日志/警报、回滚路径、支持期望。也许现在是 IT 部门负责这个工具的时候了。 这感觉像是缺失的中间部分：让团队自动化他们的工作，但明确所有权和边界。  我很想听听现在正在处理这个问题的人们的意见：这种方法看起来是否合理，或者在您的环境中会失败吗？ 我正在开发一个名为 Compartment 的开源项目，该项目遵循此模型。在我们围绕错误的假设进行太多构建之前，我想了解这是否真的是人们想要从这种工具中得到的。   由   提交/u/lugovsky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ttz0qb/how_to_let_teams_ship_aibuilt_automations_without/</guid>
+      <pubDate>Mon, 01 Jun 2026 17:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年最佳人工智能应用：完整类别细分以及价格和权衡</title>
+      <link>https://www.reddit.com/r/automation/comments/1ttwlck/best_ai_apps_for_2026_full_category_breakdown/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ttwlck/best_ai_apps_for_2026_full_category_breakdown/</guid>
+      <pubDate>Mon, 01 Jun 2026 15:58:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是否是一个真正的商机？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ttvi8a/is_this_a_real_business_opportunity_or_not/</link>
+      <description><![CDATA[ 由   提交/u/Beckagard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ttvi8a/is_this_a_real_business_opportunity_or_not/</guid>
+      <pubDate>Mon, 01 Jun 2026 15:22:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我自动化了我的人工智能视频测试过程，因为手动提示正在扼杀我的理智。这是工作流程和我学到的东西。</title>
+      <link>https://www.reddit.com/r/automation/comments/1ttva6w/i_automated_my_ai_video_testing_process_because/</link>
+      <description><![CDATA[所以上周我有了一个我认为很搞笑的人工智能视频创意。我手动运行了 4 次，调整了提示，再次运行，输出仍然完全无效。只是一个静态角色站在屏幕上，背景是移动的。 就在那一刻，我意识到手动照顾人工智能视频模型是一种巨大的时间浪费。处理单独的浏览器选项卡、每次生成等待 3 分钟、复制提示以及尝试在记事本中跟踪成本根本无法扩展。 为了解决此问题，我使用 Claude Code 和 Atlas Cloud 设置了一个轻量级批量测试脚本，以自动执行整个创意评估。 以下是我构建它的具体方式以及我从运行它中学到的实用内容。 管道的工作原理 逻辑非常简单，循环执行 5 个快速步骤：  种子：我将 5 个粗略的文本概念输入到本地 JSON 对象中。 提示扩展： Claude Code 获取每个概念并自动将其扩展为 5 个不同的提示变体。它使用严格的框架：设置、升级、视觉亮点以及摄像机运动矢量。这为我提供了一批 25 个结构化提示有效负载。 API 层：脚本循环遍历所有 25 个有效负载。为了避免为每个模型处理单独的 SDK 和不同的身份验证标头，我通过 Atlas Cloud 的统一 API 路由所有内容。这让我可以在 Seedance 2.0 和 Kling 3.0 之间即时拆分相同的批量测试。 处理异步循环：视频 API 不会立即为您提供视频文件。该脚本获取即时预测 ID，告诉工作线程休眠 15 秒，然后递归 ping 状态端点，直到返回“已完成”消息。状态。 日志：最终有效负载（模型 ID、生成时间、原始成本和输出链接）会自动附加到 Google 表格中。  25 次运行批次的实际数据 在跨越 25 次自动运行的 5 个初始概念中，只有 15 个片段实际可用。我所说的可用，是指角色没有变成怪物，动作与提示相符，视觉笑话真正落地。 有趣的部分是在工作表中查看并排基准数据：  Seedance 2.0：速度更快，平均每代大约 40 秒。它完美地处理了动态跟踪摄像机的记录，例如平移和倾斜。现在在 Atlas Cloud 上进行批量处理也非常便宜，每秒大约 0.059 美元。唯一的缺点是，它偶尔会在疯狂的高速运动场景中失去角色一致性。 Kling 3.0：在较慢的场景中，它具有更好的命中率，可以保持角色结构有机，但当服务器负载较高时，需要更长的时间来清除队列。  我个人最喜欢的概念在所有 5 个版本中立即失败了。消除这个坏主意花了我整整 3 秒的设置时间，而不是浪费一个小时的手动提示地狱。这就是自动化的真正价值。这不仅仅是为了更便宜的运行，还在于更快地拒绝想法。 如果您要自动化媒体 API，一些实用技巧  不要轮询太快。每 2 秒锤击一次视频预测端点只会阻塞您的日志。将轮询间隔设置为 15 或 20 秒。视频帧需要时间来烹饪。 先批处理，后轮询。同时触发所有 API 生成请求，首先获取预测 ID，然后启动轮询循环。不要提交一个提示，等待 2 分钟，然后提交下一个。 规范您的日志模式。我使用 Atlas Cloud 作为 API 层的主要原因是为了避免处理来自 Seedance 和 Kling 的不同 JSON 响应。让一个端点返回相同的数据结构意味着我的 Google Sheets 脚本需要零字段映射逻辑。 跟踪每个可用输出的成本。不要只查看每代的原始价格。如果模型 A 更便宜，但需要重试 8 次，而模型 B 更贵，但重试 2 次，则模型 B 获胜。  我附上了批处理结果和日志的一些屏幕截图，如果有人想将它们用作自己的跟踪器的参考。   由   提交/u/Code_016xHIRO   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ttva6w/i_automated_my_ai_video_testing_process_because/</guid>
+      <pubDate>Mon, 01 Jun 2026 15:14:40 GMT</pubDate>
+    </item>
     <item>
       <title>在自动化流程中，哪个操作值得首先进行昂贵的第二次检查：客户消息、数据库写入或支付相关步骤？</title>
       <link>https://www.reddit.com/r/automation/comments/1tttqvt/in_an_automation_flow_which_action_deserves_the/</link>
@@ -48,67 +104,11 @@
       <pubDate>Mon, 01 Jun 2026 02:02:21 GMT</pubDate>
     </item>
     <item>
-      <title>需要一个当我收到某些发件人的电子邮件时发出警报的工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1ttduxj/need_a_tool_that_sets_off_an_alarm_when_i_receive/</link>
-      <description><![CDATA[ 由   提交 /u/darkDknightt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ttduxj/need_a_tool_that_sets_off_an_alarm_when_i_receive/</guid>
-      <pubDate>Mon, 01 Jun 2026 01:39:23 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能呼叫中心代理平台到底值不值？</title>
       <link>https://www.reddit.com/r/automation/comments/1ttc3ht/whats_the_deal_with_ai_call_center_agent/</link>
       <description><![CDATA[所以我一直在研究自动化我们的一些客户服务电话，老实说整个 ai͏ 呼叫中心代理空间似乎有点被夸大了？就像每个平台都声称他们可以处理复杂的对话一样，但你看到的演示只是基本的常见问题解答。 我正在运行一个小型 Sa͏as，每周可能会接到 200-300 个支持电话。没有什么疯狂的复杂，​​但足以占用我们团队实际产品工作的时间。一半的电话都是非常标准的事情 - 密码重置、计费问题、基本故障排除。 问题是我不想实施一些会因为机器人响应或不断向人类转接而激怒我们客户的事情。但也不能继续让我的开发人员回答“我如何重置我的密码”整天打电话哈哈。 有人真正使用人工智能代理来接客户电话吗？与所有的营销炒作相比，我真正应该期待什么？   由   提交 /u/Pyschogasm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ttc3ht/whats_the_deal_with_ai_call_center_agent/</guid>
       <pubDate>Mon, 01 Jun 2026 00:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ep.003 Ansible-Vault - 如何使用 ansi 检索加密凭证...</title>
-      <link>https://www.reddit.com/r/automation/comments/1tt73ex/ep003_ansiblevault_how_to_retrieve_encrypted/</link>
-      <description><![CDATA[       由   提交 /u/Aspiring-Dev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tt73ex/ep003_ansiblevault_how_to_retrieve_encrypted/</guid>
-      <pubDate>Sun, 31 May 2026 20:51:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>88% 的房地产公司已经使用生成式人工智能——代理式人工智能现在正在运行维护呼叫、工作订单和端到端的供应商追踪</title>
-      <link>https://www.reddit.com/r/automation/comments/1tt1mwp/88_of_real_estate_firms_already_use_generative_ai/</link>
-      <description><![CDATA[ 由   提交 /u/moezsr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tt1mwp/88_of_real_estate_firms_already_use_generative_ai/</guid>
-      <pubDate>Sun, 31 May 2026 17:29:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>您不需要系统，只需聘请兼职 TC 即可。在批准实际的系统恢复构建之前，我经历了其中 6 个推介。</title>
-      <link>https://www.reddit.com/r/automation/comments/1tsy5j6/you_dont_need_a_system_just_hire_a_parttime_tc_i/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tsy5j6/you_dont_need_a_system_just_hire_a_parttime_tc_i/</guid>
-      <pubDate>Sun, 31 May 2026 15:18:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在自动化流程中，您会首先在哪里支付 Ring 的推理税：实时数据编辑、批准门还是异常分类？</title>
-      <link>https://www.reddit.com/r/automation/comments/1tsxlpu/in_an_automation_flow_where_would_you_pay_rings/</link>
-      <description><![CDATA[Ring-2.6-1T 对我来说最突出的一点并不是你在任何地方都需要更多的思考。这是一个较慢的第二次查看实际上值得付出代价的地方。 这是一个用于代理工作流程的万亿参数推理模型，具有高和极高推理努力模式。如果我只在自动化流程中首先给 Ring 一个停下来思考的点，我会把它放在实时数据编辑、批准门或异常分类上。 你会首先在哪里进行更繁重的推理？   由   提交 /u/babyb01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tsxlpu/in_an_automation_flow_where_would_you_pay_rings/</guid>
-      <pubDate>Sun, 31 May 2026 14:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个随机的周末自动化事情有点搞乱了我的数据混乱哈哈</title>
-      <link>https://www.reddit.com/r/automation/comments/1tsvv98/this_random_weekend_automation_thing_kinda_messed/</link>
-      <description><![CDATA[我的跟踪设置最近有点分散。 我有一些概念页面，我可以在不同时间记下随机的项目想法，三个 Google 表格用于跟踪同一事物的各个部分，但并不总是保持同步，还有一个黑曜石文件夹，里面有笔记和想法混合在一起。 它们都应该支持我的个人项目，但连接起来并不顺畅，所以我结束了它们之间的切换相当频繁。 上周末，我尝试用一些简单的提示将它们链接起来。它在工作表和笔记之间拉取更新做得非常好，这使得查看整体情况变得更容易。 每次仍然需要手动检查一个表，但总的来说，这感觉像是一个不错的小改进。 这不是一个完美的解决方案，但它确实使事情变得更加顺利。 还有其他人为您的项目使用类似的分散设置吗？ 我特别好奇您是否找到了一种将 Notion 页面与电子表格数据，而无需每次都手动重新输入信息。   由   提交/u/kikiteach  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tsvv98/this_random_weekend_automation_thing_kinda_messed/</guid>
-      <pubDate>Sun, 31 May 2026 13:48:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化泡沫的奇怪现状</title>
-      <link>https://www.reddit.com/r/automation/comments/1tsqeyc/the_weird_current_state_of_automation_bubble/</link>
-      <description><![CDATA[我注意到目前存在一种奇怪的不平衡现象，即构建工具和自动化比找到实际使用它们的人更容易。 现在这个子项目已经变成了一个流行词工厂。其他所有帖子都是“我构建了一个 AI 代理，它可以使用 MCP、n8n 长链、最新最奇特的 LLM 引擎等来编排 20 个工具”，这实际上是这个构建器泡沫内相同想象问题的相同包装器。 这个泡沫之外没有人关心。没有人！ 我住在德国。这里的大多数公司甚至不使用 Chatgpt。是的，你没听错。 2026 年在欧洲中心。由于合规性和数据保护问题。这里的公司仍然使用 Excel 和 VBA 宏。而你正在这里构建“完全自主”的系统插入六个数据收集器的胡言乱语，可能违反了午餐前 90% 的合规检查表。 真正的问题不再是缺乏自动化和代码。这是适应。我们不需要另一个自动化层。我们需要现实来赶上已经存在的事物。首先解决这个问题。   由   提交 /u/Puzzleheaded-War3790   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tsqeyc/the_weird_current_state_of_automation_bubble/</guid>
-      <pubDate>Sun, 31 May 2026 09:20:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我免费帮助您实现自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1tsn1ej/let_me_help_you_to_automate_things_free/</link>
-      <description><![CDATA[需要人工智能、代理、RAG、自动化、聊天机器人、工作流程方面的帮助，或者只是想知道是否可以自动化某些东西？ 直接提问。 我免费帮助人们，因为我希望更多的建筑商、学生和小型企业了解 2026 年人工智能的实际能力。 如果您陷入一个项目或有一个想法，我们来谈谈。   由   提交 /u/Delicious_Shower5188   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tsn1ej/let_me_help_you_to_automate_things_free/</guid>
-      <pubDate>Sun, 31 May 2026 06:07:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
