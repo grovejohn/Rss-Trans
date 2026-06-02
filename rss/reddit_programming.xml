@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 02 Jun 2026 18:29:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 22:54:41 GMT</lastBuildDate>
+    <item>
+      <title>默认 SaaS 的终结</title>
+      <link>https://www.reddit.com/r/programming/comments/1tv6kio/the_end_of_default_saas/</link>
+      <description><![CDATA[ 由   提交 /u/wineandcode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tv6kio/the_end_of_default_saas/</guid>
+      <pubDate>Tue, 02 Jun 2026 22:35:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>析取修剪和 Swift 编译器类型检查器的其他最新改进</title>
+      <link>https://www.reddit.com/r/programming/comments/1tuzzjl/disjunction_pruning_and_other_recent_improvements/</link>
+      <description><![CDATA[ 由   提交 /u/someone-very-cool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tuzzjl/disjunction_pruning_and_other_recent_improvements/</guid>
+      <pubDate>Tue, 02 Jun 2026 18:37:51 GMT</pubDate>
+    </item>
     <item>
       <title>使用小波和熵编码分析代码结构</title>
       <link>https://www.reddit.com/r/programming/comments/1tuxunf/using_wavelets_and_entropy_coding_to_analyze_code/</link>
@@ -83,13 +97,6 @@
       <pubDate>Tue, 02 Jun 2026 05:20:12 GMT</pubDate>
     </item>
     <item>
-      <title>strace-ui、Bonsai_term 和 TUI 复兴</title>
-      <link>https://www.reddit.com/r/programming/comments/1tufrrb/straceui_bonsai_term_and_the_tui_renaissance/</link>
-      <description><![CDATA[ 由   提交/u/mttd  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tufrrb/straceui_bonsai_term_and_the_tui_renaissance/</guid>
-      <pubDate>Tue, 02 Jun 2026 04:05:20 GMT</pubDate>
-    </item>
-    <item>
       <title>github 和针对软件的犯罪</title>
       <link>https://www.reddit.com/r/programming/comments/1tu6ayj/github_and_the_crime_against_software/</link>
       <description><![CDATA[ 由   提交 /u/CackleRooster   [link] [评论]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交 /u/SwoopsFromAbove   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tu463t/adding_microformat_tags_to_my_website_enabling_an/</guid>
       <pubDate>Mon, 01 Jun 2026 20:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件内变压器的训练+推理</title>
-      <link>https://www.reddit.com/r/programming/comments/1ttuxmh/training_inference_of_a_transformer_inside_an/</link>
-      <description><![CDATA[ 由   提交/u/kjndfsfdsjnksdf  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ttuxmh/training_inference_of_a_transformer_inside_an/</guid>
-      <pubDate>Mon, 01 Jun 2026 15:02:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
