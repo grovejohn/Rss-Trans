@@ -4,13 +4,48 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 02 Jun 2026 02:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 07:14:07 GMT</lastBuildDate>
     <item>
-      <title>我不知道自己需要的人工智能工具</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tud99b/the_ai_tool_i_didnt_know_i_needed/</link>
-      <description><![CDATA[您是否只是想看看 ChatGPT、Gemini、Claude 等会同时对您的提示说些什么？！？这些家伙想通了。他们在自己的专栏中对您给出的提示进行了所有回复。真是太神奇了。他们通过一家供应商提供折扣价。如果您想让我发布它，请告诉我。我不想删除这篇文章，所以我不会把它放在这篇主文章中。不过，请在他们的实际网站上查看。 AIfiesta.ai 我偶然发现了这个，我很高兴我做到了。这不是自我推销。除了每天使用之外，我与这个应用程序没有任何关系。   由   提交/u/ActiveUpstairs3238  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tud99b/the_ai_tool_i_didnt_know_i_needed/</guid>
-      <pubDate>Tue, 02 Jun 2026 02:08:21 GMT</pubDate>
+      <title>人工智能搜索购买行为与常规搜索有何不同</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuja7j/how_is_ai_search_buying_behavior_different_from/</link>
+      <description><![CDATA[这一直被认为是 SEO 的事情，但它实际上是一种消费者行为转变。向 chatgpt 询问产品推荐更接近于向知识渊博的朋友询问，而不是浏览 google 结果。 ”由   提交/u/yashBoii4958  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuja7j/how_is_ai_search_buying_behavior_different_from/</guid>
+      <pubDate>Tue, 02 Jun 2026 07:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>在实际业务中部署人工智能最困难的部分不是模型，而是谁拥有“这仍然是真的吗？”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuj044/the_hardest_part_of_deploying_ai_in_real/</link>
+      <description><![CDATA[我一直注意到实际业务中人工智能部署失败的一种模式，它几乎与模型质量无关。模型通常都很好。致命的是，模型所处的世界发生了变化，没有人能够保持其知识的最新性。 部署系统时需要了解业务规则、价格、时间和政策。然后现实就会发生变化：价格发生变化，政策被放弃，例外情况出现。模型仍然自信地回答，只是现在错了。自信和错误比“我不知道”更快地侵蚀信任。除非有人抱怨，否则失败是看不见的。 让这件事变得困难的是，很多相关知识并不存在于任何可以同步的系统中。它存在于某人的脑海中（“我们上个月停止这样做了”）。仅当数据库得到维护时，从数据库中提取数据才会有帮助，而从过时的数据库中提取数据可能会更糟糕，因为现在的答案看起来很权威。 我发现一个很有用的框架：过时的数据是一个易于处理的工程问题（同步它、对其进行版本控制、标记矛盾），但缺乏数据、从未在任何地方记录下来的知识是一个行为改变问题，而假装第二个是第一个是部署如何悄然消亡的。 我真的不确定并好奇其他人如何看待这些事情： • “无声漂移”（行为发生变化，但没有明显违反旧规则的情况）是否可以在人类抽查之外解决，或者现实的答案是否只是缩短人类注意到和系统更新之间的循环？ • 部署代理实际上是否会产生维护事实来源的压力，因为故障最终会变得可归因，而不是依赖于已经维护的故障？ • 对于在生产中从事此工作的任何人：您是否将部署的模型视为成品或需要所有者的持续运营服务？  这里不要求答案，只是应用人工智能中有趣的问题似乎更多的是组织和认知问题，而不是模型问题。   由   提交 /u/No-Zone-5060   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuj044/the_hardest_part_of_deploying_ai_in_real/</guid>
+      <pubDate>Tue, 02 Jun 2026 06:52:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么人工智能应用程序可以制作真正有趣的音乐视频吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuiuys/any_ai_app_that_makes_music_videos_thats_actually/</link>
+      <description><![CDATA[有点像在尝试每一个我能找到的制作音乐视频的应用程序，哈哈。他们中的大多数人要么制作与歌曲无关的酷炫剪辑，要么开始以超快的速度重复剪辑，前几天尝试过 freebeat，说实话，它比我想象的要酷。它实际上似乎有自己的想法，并且有点遵循歌曲的能量和结构，而不是简单地做它认为合适的事情。最酷的事情是，我会从硬盘中放入一些我 1000 年来没有听过的旧曲目，它会根据音频提出一个视频的想法。再次强调，并不是说这是一件完美的事情，但是当我试图快速制作音乐视频创意和可视化时，它比我使用的其他一些软件要好得多。你们对 rn 最感兴趣的 AI 是什么？   由   提交 /u/ConversationSuch8893   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuiuys/any_ai_app_that_makes_music_videos_thats_actually/</guid>
+      <pubDate>Tue, 02 Jun 2026 06:44:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>NPU使用帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuhrbw/help_on_using_npu/</link>
+      <description><![CDATA[NPU 的工作效率如何 ThinkPad E14 Gen 7 (21SX008FIG) 采用 Intel Core Ultra 7 255H，内置 NPU，可提供 14 TOPS。 我尝试使用一些型号，例如 Gemma、Qwen 2.5 7B、Llama 3.2 3B、 Phi-4 Mini 和其他一些软件，但与 gpt 或 include 相比，它的工作速度都非常慢，我已经在使用他们的付费版本，我如何在我的工作中使用 NPU。 我发现它有点花哨，因为可能会发生非常罕见的情况，我没有互联网，但仍然想使用 LLM。 可能是我做错了什么或在这项工作中没有经验，欢迎大家的反馈。    由   提交/u/mithileshjoshi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuhrbw/help_on_using_npu/</guid>
+      <pubDate>Tue, 02 Jun 2026 05:45:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nvidia 的 Vera CPU、DGX Station、Windows PC 都去同一个地方：本地运行的 AI 代理</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tugxmr/nvidias_vera_cpu_dgx_station_windows_pcs_all_go/</link>
+      <description><![CDATA[ 由   提交 /u/mpuchala   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tugxmr/nvidias_vera_cpu_dgx_station_windows_pcs_all_go/</guid>
+      <pubDate>Tue, 02 Jun 2026 05:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Ollama 构建了一个本地自主编码代理 — 微调的灵魂模型、40 轮代理循环、用于繁重工作的 MiniMax M3</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tudmo2/i_built_a_local_autonomous_coding_agent_with/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tudmo2/i_built_a_local_autonomous_coding_agent_with/</guid>
+      <pubDate>Tue, 02 Jun 2026 02:25:37 GMT</pubDate>
     </item>
     <item>
       <title>我们距离能够可靠地验证对话中身份的人工智能系统还有多远？</title>
@@ -20,25 +55,11 @@
       <pubDate>Tue, 02 Jun 2026 00:49:32 GMT</pubDate>
     </item>
     <item>
-      <title>Viral X 实验中莫奈被误认为人工智能艺术</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tu7dv6/monet_mistaken_for_ai_art_in_viral_x_experiment/</link>
-      <description><![CDATA[ 由   提交/u/QuantumQuicksilver  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tu7dv6/monet_mistaken_for_ai_art_in_viral_x_experiment/</guid>
-      <pubDate>Mon, 01 Jun 2026 22:03:29 GMT</pubDate>
-    </item>
-    <item>
       <title>2026 年了……AI NPC 都在哪里？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tu79m4/its_2026where_are_all_the_ai_npcs/</link>
       <description><![CDATA[ 由   提交/u/Chilly5  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tu79m4/its_2026where_are_all_the_ai_npcs/</guid>
       <pubDate>Mon, 01 Jun 2026 21:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>城市经济学可以帮助建模和改进代理人工智能系统吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tu5v0r/can_urban_economics_help_model_and_improve/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tu5v0r/can_urban_economics_help_model_and_improve/</guid>
-      <pubDate>Mon, 01 Jun 2026 21:08:14 GMT</pubDate>
     </item>
     <item>
       <title>自 GPT-2 以来的 AI 模型时间表。随着时间的推移，模​​型的发布速度正在加快。</title>
@@ -53,20 +74,6 @@
       <description><![CDATA[在某些高度受限且非常黑白分明的情况下（编码？），法学硕士可以以知识库的方式提供勉强过得去的答案。如果在高度具体的数据集（天体物理学论文）上进行训练，它们可以作为有用的索引，但即使在这种情况下，也很难记住论文是否以及何时被证明是错误的。 但在最一般的情况下，法学硕士并不比随机数生成器适合解决统计问题更适合回答事实问题。 公司应该知道这一点，但仍然在销售它们，就好像他们可以知道事情一样。 这怎么不呢？欺诈？   由   提交/u/thomasafine  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttzmak/thesis_selling_llms_as_general_knowledge_bases_is/</guid>
       <pubDate>Mon, 01 Jun 2026 17:38:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个完全自主的 LLM 代理网络攻击记录在案..NVIDIA 和 Microsoft 推出“RTX Spark”超级芯片</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttyul2/first_fully_autonomous_llm_agent_cyberattack/</link>
-      <description><![CDATA[在台北 GTC 上，NVIDIA 推出了 NVIDIA RTX Spark™ 超级芯片，这是一款 1 petaflop 处理器，专为运行本地、本机 Windows AI 代理而设计。  规格： 它支持高达 128GB 的统一内存，允许用户在本地运行大量 120B 参数 LLM 100 万个令牌上下文窗口。 生态系统支持：Microsoft 正在通过 NVIDIA OpenShell 集成本机代理安全原语。与此同时，Adobe 宣布正在从头开始彻底重新构建 Photoshop 和 Premiere Pro 架构，以充分利用该芯片，并宣称 Generative Fill 等功能的性能提升了 2 倍。华硕、戴尔、惠普和联想的高端轻薄笔记本电脑预计将于今年秋季上市。  安全公司 Sysdig 记录了有史以来第一次完全由 LLM 代理在零人为干预的情况下执行的端到端网络攻击，这是网络安全的一个令人毛骨悚然的里程碑。   由   提交 /u/Remarkable-Dark2840   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttyul2/first_fully_autonomous_llm_agent_cyberattack/</guid>
-      <pubDate>Mon, 01 Jun 2026 17:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>诚实的问题：是否有人真正使用人工智能代币，或者我们都只是在交易故事？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttv848/honest_question_is_anyone_actually_using_ai/</link>
-      <description><![CDATA[就像我持有一些 TAO 和 RNDR，但我不知道真正的 AI 公司是否正在为这种计算付费，或者是否只是我们在交易“AI 就是未来”？彼此的故事。 FET 谈论代理经济，但我从未见过人工智能代理对加密货币做过任何有用的事情，除了比我手动操作更快地赔钱。 请有人告诉我，实际采用正在发生，而不仅仅是 Nvidia 泵相关性   由   提交 /u/ChangeNOW_Community   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttv848/honest_question_is_anyone_actually_using_ai/</guid>
-      <pubDate>Mon, 01 Jun 2026 15:12:42 GMT</pubDate>
     </item>
     <item>
       <title>高级程序员设置本地人工智能助手所需的指南</title>
@@ -88,13 +95,6 @@
       <description><![CDATA[我们在炒作最响亮的时候购买了所有东西，为团队购买了 ChatGPT 企业版，为工程师提供了 Claude 通过 Anthropic API，为文档提供了 Notion AI、Mintlify，为工程师提供了 Cursor，为客户反馈提供了 BuildBetter，为会议记录提供了 Otter，为研究提供了 Perplexity... 公司卡上有 8 个项目，在我们的那一刻，没有一个项目是可选的。点击订阅。 我们取消了团队已停止开放的支出，ChatGPT 幸存了下来，Cursor 也幸免于难，我们与 CX 团队就一个较小的客户反馈工具进行了一场战斗，他们拒绝放弃，其他一切都消失了。 我不确定我们是否是白痴，购买了所有这些工具，或者 AI 类别现在是否只是结构性臃肿（可能两者都有） 很难大声说出来的是，我们尝试的大多数方法基本上与 ChatGPT 或 Claude 的工作相同，只是顶部有更薄的包装。 幸存下来的那些是那些做基础模型不做的事情的人。 我一直向小公司的初级产品经理提出的诚实看法是，如果供应商向您推销人工智能工具，请询问直接使用基础模型会损失什么。 如果答案是模糊该工具将出现在下一个切割列表中。   由   提交 /u/LauraBeth034   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttpvdv/i_work_in_product_at_a_series_b_and_we_cancelled/</guid>
       <pubDate>Mon, 01 Jun 2026 11:53:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有其他人觉得人工智能替代叙述被用作管理工具吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttosn7/anyone_else_feel_like_the_ai_replacement/</link>
-      <description><![CDATA[最近，我一直在想，有关人工智能取代工作的持续信息是否在一定程度上被用来在科技行业内制造压力。 公司总是经历招聘和裁员周期。团队进行重组，预算发生变化，人员离开，新人被聘用。这不是什么新鲜事。现在的不同之处在于讨论变得更加公开和频繁。每周都会有另一个关于人工智能消除工作岗位、减少员工人数或使整个角色变得过时的头条新闻。 与此同时，许多团队的人员数量似乎在减少，而期望却在不断增加。只有当团队配备充足且工作量合理时，工作与生活的平衡才会存在。 当员工人数减少时，剩下的员工往往最终会承担更多的责任。 令我感到奇怪的是，裁员越来越多地被视为人工智能的故事，即使原因也可能包括成本削减、市场条件或管理决策。它创造了一个让员工不断感到可替代的环境，并且更有可能出于恐惧而接受更重的工作量。 我并不是说人工智能不会改变这个行业。显然是的。但有时，人们感觉对人工智能的恐惧正在以一种有利于公司的方式被放大，因为员工会感到焦虑、有竞争力、愿意用更少的钱做更多的事情。   由   提交/u/_karthik_____   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttosn7/anyone_else_feel_like_the_ai_replacement/</guid>
-      <pubDate>Mon, 01 Jun 2026 11:03:37 GMT</pubDate>
     </item>
     <item>
       <title>这就是我们正在前往或已经到达的地方</title>

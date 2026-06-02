@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 02 Jun 2026 02:12:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 07:15:48 GMT</lastBuildDate>
+    <item>
+      <title>给我看看你的项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tugqu2/show_me_your_project/</link>
+      <description><![CDATA[在评论部分分享您的项目存储库并告诉我它解决了什么问题。我想检查一下并给您个人反馈。    由   提交/u/SaveAmerica2024   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tugqu2/show_me_your_project/</guid>
+      <pubDate>Tue, 02 Jun 2026 04:53:22 GMT</pubDate>
+    </item>
     <item>
       <title>向前一步，后退两步：CA 的 AB 1856 豁免开源但扩大了年龄限制</title>
       <link>https://www.reddit.com/r/opensource/comments/1tu6oyg/one_step_forward_two_steps_back_cas_ab_1856/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[      是什么让开源 npm 包比星星和下载次数更值得信赖：出处证明、OIDC 发布、变更日志质量、安全策略以及过去的漏洞处理方式。   由   提交 /u/OtherwisePush6424   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1trf8wf/a_checklist_for_evaluating_open_source_npm/</guid>
       <pubDate>Fri, 29 May 2026 20:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有多少人不会读或写代码并完全依赖代理？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tr2t78/how_many_people_here_cant_read_or_write_code_and/</link>
-      <description><![CDATA[我真的很好奇，现在是否有相当多的人经常光顾这个子站，他们都是专门的氛围编码器，并且不知道如何阅读和编写代码。如果您是其中之一，您是否也正在尝试学习如何编码或有任何尝试的计划？   由   提交 /u/classy_barbarian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tr2t78/how_many_people_here_cant_read_or_write_code_and/</guid>
-      <pubDate>Fri, 29 May 2026 14:01:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
