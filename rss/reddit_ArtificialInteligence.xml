@@ -4,34 +4,62 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Tue, 02 Jun 2026 12:32:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 18:28:14 GMT</lastBuildDate>
     <item>
-      <title>AI 直接在 DRAM 中：Float Detox – 纯逻辑如何释放学习的未来</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tup3c9/ai_directly_in_dram_the_float_detox_how_pure/</link>
-      <description><![CDATA[Float32 是真正的敌人 - 不是反向传播，也不是架构。 BIN16 用单个布尔运算替换每个浮点运算：popcount16(XNOR16(a,b))。结果：H=512 时 82% MNIST，零浮点、零梯度、零 AdamW 和零学习率调整。训练在第 1 轮中立即收敛 - 无需预热、无需衰减、无需超参数搜索。 两层都使用相同的 XNOR+popcount 操作 - 训练和推理直接在现成的 DRAM 中运行，每个单元仅 5 个晶体管。这是唯一一种由相同硬件无需修改即可执行训练和推理的神经架构。剩下的 18% 到 100% 是位质量限制——没有训练缺陷。 当我们停止与浮点作斗争并接受纯布尔计算时，突破性的见解出现了。当我们从架构中删除浮点数时，所有复杂性 - AdamW、反向传播、LR 调度、BLAS - 都消失了。 三个突破性的见解改变了一切。  浮点是真正的敌人：反向传播、AdamW 或动量从来都不是问题。 Float32 引入了数值噪声和不稳定性。 按位质心立即收敛：每个类运行的按位多数投票在单个 epoch 内达到最终精度。 随机投影完全足够：W0 不需要训练 - 随机布尔投影提供足够的分离。  整个训练仅由四个步骤和 220 行 C 组成 - 没有学习率，没有 GPU，没有任何传统的优化。 这种架构打开了神经网络直接在内存中计算的未来之门。不再需要昂贵的 GPU，不再需要无休止的超参数调整马拉松。相反，纯粹、高效的逻辑可以立即在任何地方使用。 想象一下：在现成的 DRAM 中进行训练和推理的人工智能系统 – 节能、快如闪电且每个人都可以使用。 BIN16 是进入这个新时代的第一步。  用于训练和推理的相同操作 16 位容器作为最小、高效的存储 随机投影作为完美的特征提取器  机器学习的未来从现在开始 - 用纯逻辑而不是浮点。 📎 来源 1：https://forward-prop.nhi1.de/   由   提交 /u/aotto1968_2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tup3c9/ai_directly_in_dram_the_float_detox_how_pure/</guid>
-      <pubDate>Tue, 02 Jun 2026 12:12:48 GMT</pubDate>
+      <title>构建了一个工具，显示您可以在 90 秒内在任何房产上构建什么（内含免费报告代码）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuyhs0/built_a_tool_that_shows_what_you_can_build_on_any/</link>
+      <description><![CDATA[完全披露，我是构建这个的团队的成员，所以我有偏见。但我希望得到诚实的反馈。 这是 Flipro.com。您输入一个地址，它会提取分区代码并在大约 90 秒内显示扩建潜力（最大单位、平方英尺、ADU、挫折、奖金等）。我们过去手动制作这些报告的费用为 150 美元，现在已实现自动化。 Code LAUNCH 可为您提供 1 份免费报告。对你有用吗？ 谢谢！ P.S.回应模组，这对人工智能社区很重要，因为分区代码过去有巨大的进入障碍。它极其复杂并且受到严格把关。去年，在人工智能的帮助下，我们能够将全国所有的分区代码编译到我们的数据库中。因此，现在借助新技术，每个人都可以访问有价值的房产信息。   由   提交/u/trynafinna  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuyhs0/built_a_tool_that_shows_what_you_can_build_on_any/</guid>
+      <pubDate>Tue, 02 Jun 2026 17:47:45 GMT</pubDate>
     </item>
     <item>
-      <title>基于浏览器的 3D AI 代理：技术可行性和企业潜力</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuoxyp/browserbased_3d_ai_agents_technical_feasibility/</link>
-      <description><![CDATA[我一直在探索具体人工智能代理的空间——超越文本/语音，包括具有实时动画和表达的视觉 3D 表示。大多数代理仍然是无形的，但一些平台正在尝试让它们在网络上更加“存在”。 以下是我遇到的一些示例： • Three.ws：使用 Three.js/WebGL 的浏览器原生方法。通过自拍或 GLB 快速创建 3D 头像、作为 Web 组件简单嵌入、LLM 集成、持久内存以及 Solana 上的一些链上身份功能。他们最近宣布了一项针对企业探索的 IBM Partner Plus 合作。 ￼ • NVIDIA 数字人类 AI 蓝图：用于创建支持 Omniverse 或 Unreal Engine 渲染的逼真 3D 化身的框架。与 NVIDIA ACE、Audio2Face 集成以实现动画，并针对客户服务和交互体验等用例。 ￼ • RAVATAR：实时交互式 3D AI 化身/数字人类平台。专注于企业/劳动力应用程序的逼真表达、多平台部署（Web、应用程序、全息）和对话功能。 ￼ 我对社区对此方向的看法很感兴趣，尤其是技术方面： • 在浏览器中大规模运行功能强大的 3D + LLM 代理客户端的实用性如何？主要的性能瓶颈是什么？ • 哪些企业用例似乎最可行（例如，客户支持、培训/教育、数字孪生）？ • 与纯粹专注于更好的推理、记忆和工具使用相比，视觉体现实际上能在多大程度上提高用户参与度或结果？ 希望了解其他项目、框架或基于体现/基于网络的代理的研究。这个领域是否取得了有意义的技术进步，或者它仍然主要是在现有法学硕士的基础上进行前端改进？   由   提交/u/amu4biz  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuoxyp/browserbased_3d_ai_agents_technical_feasibility/</guid>
-      <pubDate>Tue, 02 Jun 2026 12:06:25 GMT</pubDate>
+      <title>英伟达和微软研究人员表示人工智能代理不关心安全性或可靠性</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuwo1u/nvidia_and_microsoft_researchers_say_ai_agents/</link>
+      <description><![CDATA[ 由   提交/u/ThereWas  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuwo1u/nvidia_and_microsoft_researchers_say_ai_agents/</guid>
+      <pubDate>Tue, 02 Jun 2026 16:46:39 GMT</pubDate>
     </item>
     <item>
-      <title>Anthropic CCA-F（克劳德认证建筑师 - 基础）考试的详细分析：需要了解的关键建筑概念</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuow9y/detailed_breakdown_of_the_anthropic_ccaf_claude/</link>
-      <description><![CDATA[大家好， 我最近通过了人类克劳德认证建筑师 - 基础 (CCA-F) 考试。鉴于低音炮专注于高信号内容，我想避免通用的“我通过了”。发布并提供了考试实际测试的核心概念的具体架构细分，以及帮助我​​弥合理论和应用之间差距的资源。 CCA-F 超越了基本的提示工程；它重点评估您对如何围绕 Claude 生态系统构建可扩展、经济高效且有弹性的系统的理解。以下是高信号重点区域的细分： 上下文窗口架构和上下文窗口架构令牌优化 考试不只是问Claude 的上下文窗口有多大；它测试您如何围绕它构建架构。  需要了解：如何构建系统提示与用户提示以最大化缓存命中（提示缓存）。 关键见解：了解按顺序重新提交大型上下文块与构建架构以利用 Anthropic 特定缓存机制的财务和性能影响。  API 错误处理和性能弹性模式 您将面临基于场景的问题，其中依赖于 Claude 的应用程序面临速率限制或服务器错误。  需要了解：用于处理 429（请求过多）和 529（过载）错误的标准中间件模式。 关键见解：了解如何实现指数退避，并专门针对 Anthropic 量身定制的抖动速率限制层，以及何时构建更小/更快模型的回退机制（例如 Claude Haiku）以维持系统正常运行时间。  模型选择指标（Sonnet、Haiku 和 Opus） 构建解决方案需要平衡成本、延迟和功能。  需要了解：模型之间的具体权衡。您将受到业务约束（例如，“简单分类所需的高吞吐量、亚秒级延迟”），并且必须选择正确的部署策略。  使用的资源和资源。准备策略 如果您正在准备这次考试，仅依靠基础教程并不能解决情景问题。以下是我用来构建必要的心理框架的内容： 我使用 CertsTopic 上的练习题主要是为了理解场景问题的措辞。这里的价值不仅仅是找到正确的答案，而是分析为什么不正确的架构选择无法满足约束条件（例如，为什么特定的解决方案在技术上是可行的，但由于成本而在架构上效率低下）。 我不再关注高水平的人工智能炒作视频，而是严格专注于分解 Claude 的 API 实现、即时缓存基准测试和现实企业部署的技术渠道。了解其他工程师如何将他们的数据管道构建到 Anthropic API 中至关重要。 对于目前围绕 Claude 构建解决方案或为 CCA-F 做准备的任何人，您发现在优化延迟与上下文检索准确性时最大的瓶颈是什么？下面我们来讨论一下！   由   提交 /u/Cool-Chemistry-9453   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuow9y/detailed_breakdown_of_the_anthropic_ccaf_claude/</guid>
-      <pubDate>Tue, 02 Jun 2026 12:04:25 GMT</pubDate>
+      <title>您会信任人工智能代理在虚拟数据室中审查机密文件吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tutnyz/would_you_trust_an_ai_agent_to_review/</link>
+      <description><![CDATA[想听听实际使用虚拟数据室的人的意见。  人工智能开始出现在越来越多的 VDR 中。一方面，人工智能在一些日常耗时的任务中似乎非常有用。另一方面，考虑到数据泄露的风险，这看起来像是另一个可能的漏洞。  在 VDR 中，您将遇到法律协议、客户合同、财务报表、HIPAA 敏感数据和其他机密文档。错误的摘要、幻觉的引用或不明确的数据处理政策可能会导致严重的财务和法律问题。  那么，您会信任人工智能驱动的 VDR 来进行机密商业交易吗？或者这风险太大，最好还是留在非人工智能数据室？    由   提交/u/Mammoth_Ad2733  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tutnyz/would_you_trust_an_ai_agent_to_review/</guid>
+      <pubDate>Tue, 02 Jun 2026 15:04:36 GMT</pubDate>
     </item>
     <item>
-      <title>谁拥有什么</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuopj6/who_owns_what/</link>
-      <description><![CDATA[🚨 人工智能内容大战正在升级 CNN 针对 Perplexity AI 的新诉讼正在成为人工智能时代谁拥有价值之争的另一个主要导火索。 根据投诉，CNN 声称 Perplexity 在未经许可的情况下使用了超过 17,000 篇 CNN 文章、视频和图像来帮助支持人工智能生成的答案，直接与原始内容竞争。 Perplexity 的回应：“你不能对事实进行版权保护。” 虽然这一论点可能具有法律意义，但更大的商业问题变得不容忽视： 如果人工智能公司能够摄取、总结他人创建的内容并将其货币化，那么谁会获得经济价值？ 这不仅仅是媒体公司的问题。对于每一个产生专有知识、研究、数据、专业知识或知识产权的组织来说，这都是一个战略问题。 企业领导者应该问： ✅ 我们真正拥有哪些知识资产？ ✅ 如何保护或许可它们？ ✅ 哪些竞争优势无法通过人工智能轻松获得和复制？ CNN-Perplexity 案加入了越来越多涉及出版商、内容的纠纷名单。创造者和人工智能公司，强调了人工智能经济的一个根本挑战：信息的开放获取与创造信息的价值之间的紧张关系。 在人工智能时代蓬勃发展的公司可能不是那些拥有最多内容的公司，而是那些最了解、保护和货币化其独特知识资产的公司。 #AI #GenerativeAI #ArtificialIntelligence #BusinessStrategy #DigitalTransformation #Media #Innovation #IntellectualProperty   由   提交/u/Annual_Judge_7272   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuopj6/who_owns_what/</guid>
-      <pubDate>Tue, 02 Jun 2026 11:56:33 GMT</pubDate>
+      <title>IBM 首席执行官 Arvind Krishna 表示人工智能不是泡沫，但警告称存在数万亿美元的过度投资</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tusyan/ibm_ceo_arvind_krishna_says_ai_is_not_a_bubble/</link>
+      <description><![CDATA[ 由   提交 /u/Useful_Tangerine4340   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tusyan/ibm_ceo_arvind_krishna_says_ai_is_not_a_bubble/</guid>
+      <pubDate>Tue, 02 Jun 2026 14:39:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能助手如何决定推荐哪些公司？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuscbz/how_are_ai_assistants_deciding_which_companies_to/</link>
+      <description><![CDATA[我最近一直在关注人工智能生成的推荐，并注意到一些公司在不同的人工智能助手中一致出现，而另一些公司却很少出现，即使它们看起来同样相关。 我越深入地研究它，就越感觉这是一种新的可发现性挑战。对于传统搜索，有一些既定的方法来理解可见性。对于人工智能生成的答案，很难判断哪些信号真正影响一家公司是否被提及。 我注意到社区网站上的讨论、官方文档以及可信出版物上的提及似乎都发挥了作用，但模型之间的结果仍然非常显着。 对于那些探索过这一领域的人，您注意到人工智能助理如何决定在答案中显示哪些公司的模式？   由   提交 /u/UpsetProfession511   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuscbz/how_are_ai_assistants_deciding_which_companies_to/</guid>
+      <pubDate>Tue, 02 Jun 2026 14:18:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alphabet 正在筹集 $80B，伯克希尔押注 $10B，即使现金流为 $174B</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuqtzp/alphabet_is_raising_80b_and_berkshire_bet_10b/</link>
+      <description><![CDATA[ 由   提交/u/andix3  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuqtzp/alphabet_is_raising_80b_and_berkshire_bet_10b/</guid>
+      <pubDate>Tue, 02 Jun 2026 13:22:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>对人工智能说“谢谢”与它是否有意识无关</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuqtll/the_case_for_saying_thank_you_to_ai_has_nothing/</link>
+      <description><![CDATA[人们会向他们走进的门道歉，然后转身对刚刚为他们节省了三个小时的模型发出简短、恼怒的命令。我也做这个。我已经说过“不，是另一个”用我不会对客户服务代表使用的语气向聊天机器人发送消息。 我和一个非常聪明的朋友写了一篇关于它的短文。对于分工的记录：她提供论点和好句子，我提供热情和大部分逗号。我们得出的结论是，有趣的问题不在于该模型是否值得礼貌，或者它是否有任何感觉。没有人真正知道，任何一个方向上确定的人都在卖东西。问题是这个习惯对你有什么影响。当没有任何事情可以让你负起责任时，你所使用的语气就是你正在排练的语气。 我们不断遇到的反驳：这是带有额外步骤的拟人化，“请”是一种带有额外步骤的拟人化。只是浪费了代币，而将统计文本生成器视为道德患者正是我们应该避免的混乱。 因此，对于 sub 来说，真正的问题是：“对人工智能有礼貌”？对人类来说是有意义的实践，还是情感噪音混淆了人们对这些系统的实际理解？很好奇人们在哪里登陆，尤其是建设者。 完整文章，3 分钟阅读：https://medium.com/rogue-notes/address-to-the-proper-good-2dbe12428d3e   由   提交 /u/Rocinante95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuqtll/the_case_for_saying_thank_you_to_ai_has_nothing/</guid>
+      <pubDate>Tue, 02 Jun 2026 13:22:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>终端之星 - 编写代码的多巴胺机器。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuqkfx/the_terminal_star_the_dopamine_machine_that/</link>
+      <description><![CDATA[我想这里的人们可能会觉得这很有趣：我写了关于“上瘾”和“上瘾”之间的紧张关系。人工智能的多巴胺激增和平衡你从中获得的实际价值。完成任务和养成上瘾的感觉都很好。你如何区分它们？ 我很好奇其他人的想法。   由   提交/u/Tyleo  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuqkfx/the_terminal_star_the_dopamine_machine_that/</guid>
+      <pubDate>Tue, 02 Jun 2026 13:12:21 GMT</pubDate>
     </item>
     <item>
       <title>有人尝试过 PewDiePie 的 Odysseus 吗？为什么它感觉与本地 oLLama 模型的 HashCortx 应用程序相似，但有更多的贡献者和更多的预算</title>
@@ -43,37 +71,9 @@
     <item>
       <title>这正是人工智能让我感到沮丧的地方，它无法诚实且完全准确。星巴克人工智能代理出尔反尔！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tukz72/thats_exactly_what_frustrates_me_about_ai_this/</link>
-      <description><![CDATA[这是给 Google 以及即将上市的领先公司 Anthropic 和 OpenAI 的消息。给我们100%可以信赖的AI；在商业中，这很重要。   由   提交/u/SamLeCoyote_Fix_1   [链接] [评论]]]></description>
+      <description><![CDATA[这是给 Google 以及即将上市的领先公司 Anthropic 和 OpenAI 的消息。为我们提供可以在业务中 100% 信任的人工智能，这很重要。   由   提交/u/SamLeCoyote_Fix_1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tukz72/thats_exactly_what_frustrates_me_about_ai_this/</guid>
       <pubDate>Tue, 02 Jun 2026 08:44:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>单月 113,421 美元</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tukyi5/113421_in_a_single_month/</link>
-      <description><![CDATA[这是当无人观看时生产型 AI 的成本。  一个 4 人团队发布了他们的 Anthropic 发票。  代理系统不会对每个任务仅进行一次 API 调用。它们读取上下文、计划步骤、调用工具、命中错误、重试。  每一步都是以每百万输出代币 25 美元的价格单独调用 Opus。  一条用户指令在完成之前可能会触发 20 多个调用。  许多工程师不知道单个任务的端到端成本是多少。   - 他们不知道哪些提示会触发最长的循环 - 他们不知道后台发生了多少次静默重试 - 他们无法判断哪些任务可以在较小的模型上运行而不损失质量 前沿模型确实令人印象深刻。  但是代理系统不会发出一个呼叫。它们会发出几十个呼叫。 每一天。  大多数团队都没有注意计时。  如果您在生产中运行代理工作负载，请在下一张发票为您完成任务之前开始跟踪各个任务的实际成本。   由   提交/u/aipriyank  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tukyi5/113421_in_a_single_month/</guid>
-      <pubDate>Tue, 02 Jun 2026 08:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用 higgsfield 获得过真正好的结果吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tukvhk/has_anyone_gotten_any_real_good_results_using/</link>
-      <description><![CDATA[我正在考虑购买 Higgsfield 订阅，以制作 Ai 内容来营销我的旅行应用程序。只是人们访问国家基于病毒格式进行旅游活动的视频，没什么疯狂的 - 我知道它的好处之一是它几乎拥有最先进的 llms 上的所有最新内容，并为您提供了一个可以使用的武器库，但订阅非常昂贵，我不知道我看到的病毒式人工智能内容是否来自 Higgsfield 用户。不管怎样，希望有经验的人给一些建议。    由   提交 /u/According-Sign-9587   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tukvhk/has_anyone_gotten_any_real_good_results_using/</guid>
-      <pubDate>Tue, 02 Jun 2026 08:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在实际业务中部署人工智能最困难的部分不是模型，而是谁拥有“这仍然是真的吗？”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tuj044/the_hardest_part_of_deploying_ai_in_real/</link>
-      <description><![CDATA[我一直注意到实际业务中人工智能部署失败的一种模式，它几乎与模型质量无关。模型通常都很好。致命的是，模型所处的世界发生了变化，没有人能够保持其知识的最新性。 部署系统时需要了解业务规则、价格、时间和政策。然后现实就会发生变化：价格发生变化，政策被放弃，例外情况出现。模型仍然自信地回答，只是现在错了。自信和错误比“我不知道”更快地侵蚀信任。除非有人抱怨，否则失败是看不见的。 让这件事变得困难的是，很多相关知识并不存在于任何可以同步的系统中。它存在于某人的脑海中（“我们上个月停止这样做了”）。仅当数据库得到维护时，从数据库中提取数据才会有帮助，而从过时的数据库中提取数据可能会更糟糕，因为现在的答案看起来很权威。 我发现一个很有用的框架：过时的数据是一个易于处理的工程问题（同步它、对其进行版本控制、标记矛盾），但缺乏数据、从未在任何地方记录下来的知识是一个行为改变问题，而假装第二个是第一个是部署如何悄然消亡的。 我真的不确定并好奇其他人如何看待这些事情： • “无声漂移”（行为发生变化，但没有明显违反旧规则的情况）是否可以在人类抽查之外解决，或者现实的答案是否只是缩短人类注意到和系统更新之间的循环？ • 部署代理实际上是否会产生维护事实来源的压力，因为故障最终会变得可归因，而不是依赖于已经维护的故障？ • 对于在生产中从事此工作的任何人：您是否将部署的模型视为成品或需要所有者的持续运营服务？  这里不要求答案，只是应用人工智能中有趣的问题似乎更多的是组织和认知问题，而不是模型问题。   由   提交 /u/No-Zone-5060   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tuj044/the_hardest_part_of_deploying_ai_in_real/</guid>
-      <pubDate>Tue, 02 Jun 2026 06:52:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们距离能够可靠地验证对话中身份的人工智能系统还有多远？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tubh70/how_close_are_we_to_ai_systems_that_can_reliably/</link>
-      <description><![CDATA[随着法学硕士变得越来越像代理，我一直在思考人工智能系统中的身份验证。 目前，除非明确给出上下文，否则模型并不真正“知道”他们在与谁交谈。这会带来以下风险： 冒充攻击 与身份相关的提示注入 代理间通信 是否正在为“身份感知”人工智能系统研究任何严肃的方法，或者这仍然是早期研究？   由   提交 /u/Electrical_Mine1912   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tubh70/how_close_are_we_to_ai_systems_that_can_reliably/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:49:32 GMT</pubDate>
     </item>
     <item>
       <title>2026 年了……AI NPC 都在哪里？</title>
@@ -99,7 +99,7 @@
     <item>
       <title>我在 B 系列产品部门工作，本季度我们取消了大部分 AI 订阅</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ttpvdv/i_work_in_product_at_a_series_b_and_we_cancelled/</link>
-      <description><![CDATA[我们在炒作最响亮的时候购买了所有东西，为团队购买了 ChatGPT 企业版，为工程师提供了 Claude 通过 Anthropic API，为文档提供了 Notion AI、Mintlify，为工程师提供了 Cursor，为客户反馈提供了 BuildBetter，为会议记录提供了 Otter，为研究提供了 Perplexity... 公司卡上有 8 个项目，在我们的那一刻，没有一个项目是可选的。点击订阅。 我们取消了团队已停止开放的支出，ChatGPT 幸存了下来，Cursor 也幸免于难，我们与 CX 团队就一个较小的客户反馈工具进行了一场战斗，他们拒绝放弃，其他一切都消失了。 我不确定我们是否是白痴，购买了所有这些工具，或者 AI 类别现在是否只是结构性臃肿（可能两者都有） 很难大声说出来的是，我们尝试的大多数方法基本上与 ChatGPT 或 Claude 的工作相同，只是顶部有更薄的包装。 幸存下来的那些是那些做基础模型不做的事情的人。 我一直向小公司的初级产品经理提出的诚实看法是，如果供应商向您推销人工智能工具，请询问直接使用基础模型会损失什么。 如果答案是模糊该工具将出现在下一个切割列表中。   由   提交 /u/LauraBeth034   [链接] [评论]]]></description>
+      <description><![CDATA[我们在炒作最响亮的时候购买了所有东西，为团队购买了 ChatGPT enterprise，为工程师提供了 Claude，通过 Anthropic API 购买了 Claude，为文档提供了 Notion AI、Mintlify，为工程师提供了 Cursor，为客户反馈提供了 BuildBetter，为会议记录提供了 Otter，为研究提供了 Perplexity... 公司卡上有 8 个项目，在我们的那一刻，没有一个项目是可选的。点击订阅。 我们取消了支出并取消了团队已停止开放的项目，ChatGPT 幸存下来，Cursor 也幸存下来，我们与 CX 团队就一个较小的客户反馈工具进行了一场战斗，他们拒绝放弃，其他一切都消失了。 我不确定我们是否是白痴，购买了所有这些工具，或者 AI 类别现在是否只是结构性臃肿（可能两者都有） 很难大声说出来的是，我们尝试的大多数方法基本上与 ChatGPT 或 Claude 的工作相同，只是顶部有更薄的包装。 幸存下来的那些是那些做基础模型不做的事情的人。 我一直向小公司的初级产品经理提出的诚实看法是，如果供应商向您推销人工智能工具，请询问直接使用基础模型会损失什么。 如果答案是模糊该工具将出现在下一个切割列表中。   由   提交 /u/LauraBeth034   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ttpvdv/i_work_in_product_at_a_series_b_and_we_cancelled/</guid>
       <pubDate>Mon, 01 Jun 2026 11:53:44 GMT</pubDate>
     </item>
