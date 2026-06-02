@@ -4,20 +4,13 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 02 Jun 2026 07:15:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:33:20 GMT</lastBuildDate>
     <item>
       <title>每次我向小型分析仪表板添加新的向下钻取功能时，我的 Supabase 和 Snowflake 都会出现峰值...有什么建议吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tuj802/my_supabase_and_snowflake_has_a_spike_every_time/</link>
       <description><![CDATA[我一直在为 B2B 客户端构建嵌入式报告（我使用 next.js），随着我们用户群的增长，P95 延迟正在成为一场噩梦。每次用户更改日期过滤器时，都会触发仓库上的新计算旋转。 我目前正在重构堆栈，以在前端和数据库之间放置一个通用语义层（在我的例子中为立方体核心）。目标是将所有逻辑（例如多租户行级安全性 (RLS) 和复杂联接）从 React 代码本身移至声明性建模层 自从我开始以来，（迄今为止）最大的胜利是使用预聚合。现在，API 不再访问原始表，而是访问“cubestore”中的预热缓存层。对于在 SaaS 中进行高并发分析的人来说，这感觉更像是查询结构化 API，而不是数据库 ，这是一个问题！您只是在仓库计算上投入更多资金吗？您是否正在转向这种解耦架构？您还有哪些其他最佳实践？现在试图弄清楚我是否应该坚持这个，或者只是将所有内容移动到一个巨大的 ClickHouse 实例并希望得到最好的结果   由   提交/u/sivyh  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tuj802/my_supabase_and_snowflake_has_a_spike_every_time/</guid>
       <pubDate>Tue, 02 Jun 2026 07:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>文档·博客·搜索（无 Nodejs/NPM 依赖项）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tuj6ci/documentation_blog_search_no_nodejs_npm/</link>
-      <description><![CDATA[      灵感  构建一个简单且模块化的技术文档和博客。 在不使用node/npm或任何外部框架（CSS、JS、图标、字体）的情况下构建网站。 只需要GoHugo普通二进制文件+ pageFind二进制文件。  功能  [x] 响应式和自适应布局。 [x] 支持明暗模式。 [x] 支持多个文档集。 [x] 支持博客。 [x] 通过 Hugo 配置实现菜单。 [x] 使用 Hugo 数据模板可自定义侧边栏。 [x] 使用单独的partials/css/数据模板实现即插即用/可重复主页块。 [x] 通过 Pagefind 集成搜索。 [x] 基于 Google 的 Material Symbols 的内联 SVG 图标  GitHub 存储库：https://github.com/dumindu/E25DX 示例文档：https://github.com/dumindu/E25DX/tree/gh-pages/example 示例直播：https://dumindu.github.io/E25DX/   由   提交/u/dumindunuwan  [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tuj6ci/documentation_blog_search_no_nodejs_npm/</guid>
-      <pubDate>Tue, 02 Jun 2026 07:02:17 GMT</pubDate>
     </item>
     <item>
       <title>表情符号 - 感觉良好的游戏</title>
@@ -90,13 +83,6 @@
       <pubDate>Mon, 01 Jun 2026 16:58:40 GMT</pubDate>
     </item>
     <item>
-      <title>不要失去希望！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tty8vl/dont_lose_hope/</link>
-      <description><![CDATA[      你们中的许多人分享了伟大的项目，但没有真正的用例。我想鼓励你，即使到了 2026 年，你仍然可以取得伟大的成就。你只需要找到一个利基市场并且动作要快。该网站完全在没有广告的情况下达到了这些值。 Bewertiq.org  它接受评论并使用数学回归模型（OLS - 普通最小二乘法）来更准确地估计或细化评级。通过应用日志转换功能和基于类别的虚拟变量等技术，它试图减少原始用户评分中的噪音和偏差，并在不同实体之间产生更稳定、可比较的结果。 在该分析层之上，产品定位是： 库努努、Trustpilot 或 Google Reviews 等平台的以信任为中心的替代方案 强调无付费合作伙伴关系，无赞助排名，并且没有审查操纵或删除压力 围绕使用数据而不是商业影响力对公司进行独立评估的理念构建   由   提交/u/princessinsomnia  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tty8vl/dont_lose_hope/</guid>
-      <pubDate>Mon, 01 Jun 2026 16:53:40 GMT</pubDate>
-    </item>
-    <item>
       <title>GetClera 和 clera 匹配电子邮件域警告</title>
       <link>https://www.reddit.com/r/webdev/comments/1ttxwk8/getclera_and_cleramatch_email_domain_warning/</link>
       <description><![CDATA[      嘿伙计们，我只是想在这里分享这个。我最近收到一封来自 Clera 员工的电子邮件（第一封自动标记为垃圾邮件），询问“在某家公司的职位”以及我是否有兴趣。经过 1-2 次来回后，我意识到这些电子邮件主要是人工智能生成的，但仍然给了它一个机会并分享了我的简历，邀请进行现场演讲。之后我收到了一封来自“talent@getclera.com”的电子邮件像这样（与图片相关）。我从未同意与人才经纪人签约，从未同意存储我的简历或与人工智能模型共享它。 我分享我的简历的原因是因为电子邮件包含以下短语：  这是我的建议：如果您可以共享您的简历，团队将对其进行审核并从那里获取它。  因此，它的目的是转发给团队在提到的公司中，不要将其存储在人工智能代理的人才库中。 因此，只是提醒您在收到分享简历的邀请时查看电子邮件域的在线评论。不要像我一样。 对于经历过这种情况的其他人：我不熟悉这方面的法律，但如果你想聚集起来并为此做点什么，我可能会加入（取决于我是否可以，因为我不是来自美国）。 P.S.这个问题曾在 r/theprimegen 上提出过（通过搜索找到），但没有引起太多共鸣。   由   提交/u/Strict-Criticism7677  [链接] [评论] ]]></description>
@@ -109,6 +95,20 @@
       <description><![CDATA[我为我的公司制作了一个网站，一个多月前使用 wordpress 将其部署在托管商上。大约一周前出了点问题，开始出现很多问题。  当我用谷歌搜索公司名称，然后点击公司网站时，它会将我重定向到某个购物网站 如果我手动打开网址，它只会打开一个空白网页，源也是空的 所有文件都在托管服务器中，所有页面和详细信息都在 WordPress 中可见 不知何故，Google 在我的网站上抓取了 800 多个网址只有大约 25 页，现在当我用 google 搜索“site:companyname.com”时，会看到所有这些带有日文名称的奇怪 URL 都出现了  我尝试使用托管 AI 修复该网站，我自己查看了文件和数据库是否存在任何恶意活动，但我一无所获。 在本地主机中一切正常，我尝试在子域中创建一个所有内容都相同的暂存站点，也运行良好。 如果有人可以提供帮助那就太好了，我不想失去这次实习。为了我的安全，没有透露公司名称。   由   提交 /u/maybeamit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ttv00i/my_website_disappears_everyday_like_clockwork/</guid>
       <pubDate>Mon, 01 Jun 2026 15:04:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能构建网站与雇用设计师/开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttttjn/ai_built_websites_vs_hiring_a_designerdeveloper/</link>
+      <description><![CDATA[我有兴趣为我的企业建立一个新网站，并正在考虑是否应该聘请专业人士或自己使用人工智能设计一个网站。我见过很多用 Claude 等人工智能工具构建的相当不错的网站，但我对它们是否构建得当持怀疑态度。如果有人对使用人工智能工具与雇用某人的利弊有意见，我将很高兴听到他们的意见。提前致谢！    由   提交 /u/HawgBandit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttttjn/ai_built_websites_vs_hiring_a_designerdeveloper/</guid>
+      <pubDate>Mon, 01 Jun 2026 14:24:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>每月入门/Web 开发职业主题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ttq11w/monthly_getting_started_web_dev_career_thread/</link>
+      <description><![CDATA[由于有关此主题的问题不断涌入，我们决定每月提交一个专门讨论此主题的帖子，以减少有关此主题的重复帖子的数量。这些类型的帖子将不再允许在主线程中发布。 其中许多问题也在子常见问题解答中得到解决，或者可能在以前的每月职业线程中提出。 专门针对这些类型的子问题问题包括针对一般性和开放式职业问题的 r/cscareerquestions 和针对早期学习问题的 r/learnprogramming。 学习为行业做好准备的主题的一般建议包括：  HTML/CSS/JS 训练营 版本控制 自动化 前端框架(React/Vue/Etc) API 和 CRUD 测试（单元和集成） 常见设计模式  您还需要包含您构建的 4-5 个个人项目的作品集，以及用于申请工作的简历。 在申请工作之前，为您的作品集计划 6-12 个月的自学和项目制作。   由   提交 /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ttq11w/monthly_getting_started_web_dev_career_thread/</guid>
+      <pubDate>Mon, 01 Jun 2026 12:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

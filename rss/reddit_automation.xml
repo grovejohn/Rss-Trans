@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Tue, 02 Jun 2026 07:13:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 12:31:55 GMT</lastBuildDate>
+    <item>
+      <title>AI行政助理为我预订旅行</title>
+      <link>https://www.reddit.com/r/automation/comments/1tupbdk/ai_executive_assistant_booking_travel_for_me/</link>
+      <description><![CDATA[今天发生了一件非常神奇的事情：我使用人工智能代理预订了我的第一家酒店。 当我说“我的人工智能代理”时，我的意思是一个基于我正在使用的名为 catchagent.ai 的产品构建的代理。我用它来做很多事情，但是 - 今天是我第一次在旅行中使用它。我经常前往我们的一个站点，距离该站点大约需要三个小时的飞行时间。我一直想要一位行政助理来处理我的旅行安排，但直到现在我都必须自己做。 这是我的代理人第一次真正完成部分工作。它没有预订我的航班，我认为尚不支持该功能，但它成功预订了我的酒店，甚至找到了比我通常自己预订的价格更好的价格。 这是一个伟大的里程碑！！！   由   提交 /u/CartographerFeisty66   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tupbdk/ai_executive_assistant_booking_travel_for_me/</guid>
+      <pubDate>Tue, 02 Jun 2026 12:22:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>最终实现 e2e 视频自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1tumc38/finally_e2e_video_automated/</link>
+      <description><![CDATA[使用聊天 gpt 生成文本脚本 使用远程视频 API 中心创建视频 将所有内容与 n8n 拼接在一起并自动上传到 YouTube， 唯一的缺点是我必须每 7 天登录 YouTube 重新验证工作流程。   由   提交 /u/Few-Peach8924   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tumc38/finally_e2e_video_automated/</guid>
+      <pubDate>Tue, 02 Jun 2026 10:00:33 GMT</pubDate>
+    </item>
     <item>
       <title>我们花钱购买了自动化系统，以减少远程设置中的夜间工作量，结果适得其反，导致我们的 VA 退出</title>
       <link>https://www.reddit.com/r/automation/comments/1tuiy62/we_paid_for_automation_system_to_reduce_the/</link>
@@ -67,20 +81,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ttwlck/best_ai_apps_for_2026_full_category_breakdown/</guid>
       <pubDate>Mon, 01 Jun 2026 15:58:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是否是一个真正的商机？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ttvi8a/is_this_a_real_business_opportunity_or_not/</link>
-      <description><![CDATA[ 由   提交/u/Beckagard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ttvi8a/is_this_a_real_business_opportunity_or_not/</guid>
-      <pubDate>Mon, 01 Jun 2026 15:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我自动化了我的人工智能视频测试过程，因为手动提示正在扼杀我的理智。这是工作流程和我学到的东西。</title>
-      <link>https://www.reddit.com/r/automation/comments/1ttva6w/i_automated_my_ai_video_testing_process_because/</link>
-      <description><![CDATA[所以上周我有了一个我认为很搞笑的人工智能视频创意。我手动运行了 4 次，调整了提示，再次运行，输出仍然完全无效。只是一个静态角色站在屏幕上，背景是移动的。 就在那一刻，我意识到手动照顾人工智能视频模型是一种巨大的时间浪费。处理单独的浏览器选项卡、每次生成等待 3 分钟、复制提示以及尝试在记事本中跟踪成本根本无法扩展。 为了解决此问题，我使用 Claude Code 和 Atlas Cloud 设置了一个轻量级批量测试脚本，以自动执行整个创意评估。 以下是我构建它的具体方式以及我从运行它中学到的实用内容。 管道的工作原理 逻辑非常简单，循环执行 5 个快速步骤：  种子：我将 5 个粗略的文本概念输入到本地 JSON 对象中。 提示扩展： Claude Code 获取每个概念并自动将其扩展为 5 个不同的提示变体。它使用严格的框架：设置、升级、视觉亮点以及摄像机运动矢量。这为我提供了一批 25 个结构化提示有效负载。 API 层：脚本循环遍历所有 25 个有效负载。为了避免为每个模型处理单独的 SDK 和不同的身份验证标头，我通过 Atlas Cloud 的统一 API 路由所有内容。这让我可以在 Seedance 2.0 和 Kling 3.0 之间即时拆分相同的批量测试。 处理异步循环：视频 API 不会立即为您提供视频文件。该脚本获取即时预测 ID，告诉工作线程休眠 15 秒，然后递归 ping 状态端点，直到返回“已完成”消息。状态。 日志：最终有效负载（模型 ID、生成时间、原始成本和输出链接）会自动附加到 Google 表格中。  25 次运行批次的实际数据 在跨越 25 次自动运行的 5 个初始概念中，只有 15 个片段实际可用。我所说的可用，是指角色没有变成怪物，动作与提示相符，视觉笑话真正落地。 有趣的部分是在工作表中查看并排基准数据：  Seedance 2.0：速度更快，平均每代大约 40 秒。它完美地处理了动态跟踪摄像机的记录，例如平移和倾斜。现在在 Atlas Cloud 上进行批量处理也非常便宜，每秒大约 0.059 美元。唯一的缺点是，它偶尔会在疯狂的高速运动场景中失去角色一致性。 Kling 3.0：在较慢的场景中，它具有更好的命中率，可以保持角色结构有机，但当服务器负载较高时，需要更长的时间来清除队列。  我个人最喜欢的概念在所有 5 个版本中立即失败了。消除这个坏主意花了我整整 3 秒的设置时间，而不是浪费一个小时的手动提示地狱。这就是自动化的真正价值。这不仅仅是为了更便宜的运行，还在于更快地拒绝想法。 如果您要自动化媒体 API，一些实用技巧  不要轮询太快。每 2 秒锤击一次视频预测端点只会阻塞您的日志。将轮询间隔设置为 15 或 20 秒。视频帧需要时间来烹饪。 先批处理，后轮询。同时触发所有 API 生成请求，首先获取预测 ID，然后启动轮询循环。不要提交一个提示，等待 2 分钟，然后提交下一个。 规范您的日志模式。我使用 Atlas Cloud 作为 API 层的主要原因是为了避免处理来自 Seedance 和 Kling 的不同 JSON 响应。让一个端点返回相同的数据结构意味着我的 Google Sheets 脚本需要零字段映射逻辑。 跟踪每个可用输出的成本。不要只查看每代的原始价格。如果模型 A 更便宜，但需要重试 8 次，而模型 B 更贵，但重试 2 次，则模型 B 获胜。  我附上了批处理结果和日志的一些屏幕截图，如果有人想将它们用作自己的跟踪器的参考。   由   提交/u/Code_016xHIRO   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ttva6w/i_automated_my_ai_video_testing_process_because/</guid>
-      <pubDate>Mon, 01 Jun 2026 15:14:40 GMT</pubDate>
     </item>
     <item>
       <title>在自动化流程中，哪个操作值得首先进行昂贵的第二次检查：客户消息、数据库写入或支付相关步骤？</title>
