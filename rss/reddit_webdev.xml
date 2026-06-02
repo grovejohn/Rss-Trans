@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 01 Jun 2026 22:56:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jun 2026 02:12:34 GMT</lastBuildDate>
+    <item>
+      <title>第一个真正的客户项目，我担心我低估了它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tubdmh/first_real_client_project_and_im_worried_im/</link>
+      <description><![CDATA[我从事前端开发已经一年多了。大部分是个人项目，为朋友做一些自由职业，没什么大不了的。最近有人通过相互联系询问我是否可以为他们的业务建立一个网站。起初我以为这将是一个简单的小册子网站，但在我们通话后，听起来他们想要一些更自定义的东西。 网站本身听起来并不太复杂，但他们有一堆具体要求，这些要求并不真正适合现成的模板。截止日期约为两周。我的一部分认为，如果我想提高并开始从事更多的自由职业，这正是我需要的项目。我的另一部分是看着时间表，认为我很可能过于乐观了。 对于那些自由职业者或自己经营项目的人来说，如何判断客户的请求是否真正可以管理，或者是否让自己面临几周的压力？尝试弄清楚我是否想得太多，或者我的直觉是否试图警告我某些事情。   由   提交/u/avz008  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tubdmh/first_real_client_project_and_im_worried_im/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端开发人员是否对人工智能感到厌倦？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tubatl/are_front_end_devs_getting_done_dirty_with_ai/</link>
+      <description><![CDATA[我是一名全栈开发人员。在我目前的工作中，直到最近，我一直只做前端工作。这是由于同事（称为 C:A 和 C:B）占用了所有后端工作。他们表示他们不了解前端。然而他们使用人工智能。生成他们不理解的前端代码。 Tech Lead 并不关心它是否有效。 需要明确的是，这不是反人工智能。邮政。我将其视为一种工具并自己使用它。无论它生成什么，我都会仔细研究并了解它是如何工作的，以及它是否是最好的方法。 当我说“完成肮脏”时，我指的是人工智能。被人们用来做他们本来无法完成的前端工作。我经历过的例子。 我正在与同事 C:A 一起完成一项任务。我负责前端工作，他们负责后端工作。 C:A 从我的 Git 分支中分支出来，使用了 A.I.完成我和他们的部分。他们将其作为单独的工作提交给老板（非技术总监）。 我正在与 C:A 和 C:B 一起完成一项任务，我们已经完成了任务。那是交货的前一天，我正在尝试连接 U.I.对于他们的后端。我在后面跑。 C:B 决定使用 A.I.将他们的电话连接起来并告诉每个人他们已经完成了。第二天，我检查了所有东西，发现它没有接线。它正在显示我放入测试的嵌入数据。我必须通知 Tech Lead，但 C:B 的进展并不顺利。因为人工智能可以生成 U.I.元素并为那些对此一无所知的人做界面工作。还有其他人经历过类似的事情吗？不是在寻找反人工智能的言论。我真的很想知道专门从事这项工作的人是否正在受到人工智能的直接削弱。  TLDR：开发人员是否使用人工智能？生成前端代码，他们不明白削弱那些专门从事前端代码的人？   由   提交/u/wtfbigman24x7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tubatl/are_front_end_devs_getting_done_dirty_with_ai/</guid>
+      <pubDate>Tue, 02 Jun 2026 00:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google OAuth 在 localhost、Chrome 和 Brave 上工作，但在 Vercel 部署后在 Edge/Firefox 上失败</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tu9dk2/google_oauth_works_on_localhost_chrome_and_brave/</link>
+      <description><![CDATA[大家好， 部署 MERN 应用程序后，我遇到了 Google OAuth 的奇怪问题。 我的堆栈：  前端：React + Vite（部署在 Vercel 上） 后端：Express + MongoDB（部署在 Render 上） 身份验证：u/react-oauth/google 使用 useGoogleLogin  问题： Google 登录在我的本地开发环境 (localhost) 上完美运行。部署后，它在 Chrome 和 Brave 中也能正常工作，但在 Microsoft Edge 和 Firefox 中失败。 控制台错误显示：  GSI_LOGGER：无法打开弹出窗口。也许被浏览器阻止了？  似乎 Google OAuth 弹出窗口仅在部署后在某些浏览器中被阻止。 我已经验证的事情：  Google OAuth 客户端 ID 正确 我的 Vercel 域已添加到授权 JavaScript 源中 环境变量在 Vercel 上已正确配置 后端 API 正在运行 CORS 配置正确 正常的电子邮件/密码身份验证有效 在 Chrome/Brave 中也可以实现相同的实现  这看起来像是基于弹出窗口的 OAuth 流程而不是我的后端的问题。 有人在使用 useGoogleLogin 时遇到过此问题吗？   由   提交 /u/Healthy-Fee8116   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tu9dk2/google_oauth_works_on_localhost_chrome_and_brave/</guid>
+      <pubDate>Mon, 01 Jun 2026 23:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议围绕 Laravel 的网站和应用程序的技术堆栈。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tu9704/suggest_a_tech_stack_for_a_website_and_an/</link>
+      <description><![CDATA[仅提供背景信息。我们将制作一个带有 GIS 地图、机器学习模型的网站，然后是一个移动应用程序，该应用程序将具有相同的 GIS 地图，可能还有 ML 模型，但带有 GPS 跟踪，因为它也会显示在地图中。 我在 Laravel 方面的经验有限，因为我只搞乱了它的 HTML 和 CSS 部分，基本上主要是刀片部分，但我确实对路由在其中的工作原理有一些提示。  是的，我知道 Laravel 是一个 MVC 模型。 不，我在移动开发方面没有任何经验。 任何易于理解和使用的东西都会受到赞赏。 可以是 Laravel 之外的任何东西，只要它对于不真正喜欢编程的人来说是可行的。   由   提交/u/Axophyse  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tu9704/suggest_a_tech_stack_for_a_website_and_an/</guid>
+      <pubDate>Mon, 01 Jun 2026 23:12:41 GMT</pubDate>
+    </item>
     <item>
       <title>CICD 自托管运行器和指向部署的实时连接</title>
       <link>https://www.reddit.com/r/webdev/comments/1ttzvln/cicd_self_hosted_runner_and_with_live_junction/</link>
@@ -81,34 +109,6 @@
       <description><![CDATA[大家好， 我需要一些职业建议。 我来自非 IT 背景，过去 2.5 年一直在一家小公司工作，主要从事 HTML 和 WordPress 工作。我对现代开发了解不多，而且人工智能对行业的改变如此之快，我对未来的职业发展感到担忧。 我正在考虑参加钦奈的线下全栈开发课程，因为在线学习对我来说效果不佳。我对 **Java Full Stack** 和 **Python Full Stack** 感到困惑。 对于那些在该领域有经验的人： * 您会推荐哪个堆栈？ * 哪个学院更好：Besant Technologies、Greens Technology 或 FITA Academy？ * 金奈有更好的选择吗？ 我想学习实际项目并培养可以帮助我变得更好的技能机会。 我的职业生涯已经 2.5 年了，不想在这个阶段做出错误的决定。任何指导、个人经历都对我很有帮助。 任何建议将不胜感激。谢谢！   由   提交 /u/Best-Quantity-4749   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ttkq1v/need_career_advice_java_or_python_full_stack/</guid>
       <pubDate>Mon, 01 Jun 2026 07:21:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Akamai 仍然贵得离谱吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ttk9a9/is_akamai_still_crazy_expensive/</link>
-      <description><![CDATA[15 年前，Akamai 是每个电视台用来分发内容的 CDN 网络，但据我所知，它们也非常昂贵。 如今，我仍然注意到大多数大公司都使用 Akamai，但面临来自 AWS 的激烈竞争。 Akamai 是否变得更加价格友好，或者 AWS 是否变得拥有相同数量的本地节点？   由   提交/u/Sure-Guest1588  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ttk9a9/is_akamai_still_crazy_expensive/</guid>
-      <pubDate>Mon, 01 Jun 2026 06:56:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在语义和结构方面遇到困难</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ttja6p/having_a_hard_time_with_semantics_and_structure/</link>
-      <description><![CDATA[ 我最头痛的是学习如何正确分隔页面上的元素。我可以将所有东西居中，但不知道何时创建新部分或继续使用相同的部分，因为大多数东西我可以使用某些属性居中或调整。有什么地方可以让我了解类似的事情吗？  我试图通过浏览器中的检查来了解网站的结构（只是为了知道要采用的最佳实践是什么），但感觉很混乱。我是 webdev 的新手，这样做是为了学习如何分离页面上的 div，然后我要求 claude 生成一些随机站点，只是为了阅读代码，一切都是 div，就像所有东西一样，没有 h1，标题，什么都没有。据我了解，div 是最受欢迎的，因为它们没有任何设置属性，并且能够以不同的方式达到相同的结果。但这真的是最佳方式吗？   提前谢谢您。    由   提交 /u/SkullDriv3rr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ttja6p/having_a_hard_time_with_semantics_and_structure/</guid>
-      <pubDate>Mon, 01 Jun 2026 06:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需学习java即可构建android应用程序的最佳方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ttb36d/best_way_to_build_android_app_without_learning/</link>
-      <description><![CDATA[所以我已经把这个项目推迟了几个月了，但我真的需要为我的这个副业想法构建一个 android 应用程序。问题是我不懂java，老实说现在没有时间正确学习它。 我听说有一些方法可以构建应用程序，而无需从头开始实际编码所有内容，但不确定什么是合法的，什么只是营销废话。我可以处理基本的 Web 内容，但移动开发似乎完全不同。 这里有谁在不走传统 java 路线的情况下成功构建了 Android 应用程序吗？哪些工具或平台真正有效并且不会让您的应用看起来像垃圾？   由   提交 /u/Significant_Law5994   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ttb36d/best_way_to_build_android_app_without_learning/</guid>
-      <pubDate>Sun, 31 May 2026 23:35:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>在实时聊天应用程序中处理大图像和文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tt5n6a/handling_large_images_files_in_a_real_time_chat/</link>
-      <description><![CDATA[嘿伙计们， 很想得到一些关于我的方法是否有意义的反馈。  我正在构建一个实时聊天应用程序，用户可以在其中上传和接收图像/文件。文件可能相当大（最大约 100MB）。  当前堆栈是：fastapi、websockets、tanstack、postgres 和 redis。我使用 GCP 作为我的云提供商。  我当前的流程是：  后端生成签名 URL  前端直接上传到 GCS 存储桶 云函数处理上传后处理  对于下载，前端使用重定向/签名 URL 直接从 GCS 获取，因此后端不会成为瓶颈 这种架构非常适合较小的文件（&lt;30MB），但是当我开始测试较大的上传（100MB 图像/视频）时，我注意到处理过程中的内存消耗非常高（顺便说一句，整个项目都使用分页和虚拟化）。 我试图找出聊天系统中大型媒体上传的最佳实践：压缩/缩小应该发生在客户端还是服务器端（目前根本没有压缩）？  另外，在保持原始图像不变的情况下单独生成缩略图/预览（图像）是否很常见？  我应该流式上传而不是缓冲它们吗？云函数是否是处理繁重文件的正确选择？ 对于图像，我正在考虑：上传前的客户端压缩、自动缩略图生成、存储多种分辨率、转换为 WebP/AVIF 等格式。 很想听听你们在生产系统中如何处理这个问题。谢谢！   由   提交/u/omry8880  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tt5n6a/handling_large_images_files_in_a_real_time_chat/</guid>
-      <pubDate>Sun, 31 May 2026 19:56:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
