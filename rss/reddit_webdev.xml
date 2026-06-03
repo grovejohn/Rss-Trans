@@ -4,13 +4,20 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 03 Jun 2026 18:39:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 22:59:25 GMT</lastBuildDate>
     <item>
-      <title>构建完整的 ZATCA 第 1 阶段和第 2 阶段电子发票解决方案需要多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tvxi6d/how_much_would_you_charge_to_build_a_complete/</link>
-      <description><![CDATA[我正在尝试了解为沙特阿拉伯开发一个完整的基于 SaaS/基于 Web 且符合 ZATCA 标准的电子发票平台的市场价格，并且希望有类似项目经验的机构或开发人员提供估算。 范围包括： 核心发票 创建、编辑、删除发票 税务发票和简化税务发票 贷项票据 借项票据 形式发票 多币种支持 增值税计算 发票模板 PDF生成 QR代码生成 ZATCA第1阶段（生成） 完全兼容的发票格式 TLV QR代码生成 阿拉伯语和英语发票支持 必填发票字段和验证 可打印发票格式 ZATCA 第 2 阶段（集成） 与 ZATCA API 集成 合规 CSID 入门 生产 CSID 入门 发票加密标记 发票哈希 数字签名 根据 ZATCA 规范生成 XML 清关发票工作流程 报告发票工作流程 自动发票提交 实时状态跟踪 错误处理和重试机制 证书管理和续订 业务管理 客户管理 供应商管理 产品/服务目录 类别 计量单位 增值税配置 分支机构管理 公司资料管理 用户和信息安全性 多用户访问 基于角色的权限 活动日志 审核跟踪 双因素身份验证 第三方集成的API访问 报告和报告分析 销售报告 增值税报告 发票状态报告 ZATCA提交报告 导出到Excel/PDF 仪表板分析 其他功能 SaaS架构 多租户支持 REST API Webhooks 电子邮件发票发送 WhatsApp 共享 备份和恢复 本地化（阿拉伯语/英语） 响应式 Web 应用程序 云部署 技术要求 现代 Web 堆栈 安全架构 可扩展为每天数千张发票 生产就绪部署 文档 对于之前构建过 ZATCA 解决方案的机构： 对于这样的项目，您会收取多少费用？ 您预计需要多少开发时间？ 需要多大的团队？ 您期望什么时间表？ 实施的哪一部分通常是最复杂的？ 对两种固定价格估算都感兴趣以及每小时的粗略估计。   由   提交 /u/Zyberax   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tvxi6d/how_much_would_you_charge_to_build_a_complete/</guid>
-      <pubDate>Wed, 03 Jun 2026 18:06:57 GMT</pubDate>
+      <title>地址输入的反跳毫秒（mapbox）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tw1mls/debounce_ms_for_an_address_input_mapbox/</link>
+      <description><![CDATA[在我们的项目中，每次用户输入地址时，都会发出一个mapbox请求，去抖时间为400毫秒。这是您输入地址的输入之一，它会在下拉列表中建议地址。 我相信我们发出的请求比我们应该做的要多，对于这种情况，什么是最佳的去抖时间？ 500 毫秒？ 600 毫秒？   由   提交/u/leinad41  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tw1mls/debounce_ms_for_an_address_input_mapbox/</guid>
+      <pubDate>Wed, 03 Jun 2026 20:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个滑动菜单设置有什么问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tvyob4/what_is_wrong_with_this_sliding_menu_setup/</link>
+      <description><![CDATA[      我今天通过改变方法找到了这个问题的解决方案，但我仍然不清楚原来的设置出了什么问题，所以我想问问蜂巢思维。以此页面为例。   &lt;头&gt; &lt;元字符集=“UTF-8” &gt;&gt; &lt;元名称=“视口”内容=“宽度=设备宽度，初始比例=1.0” &gt;&gt; &lt;标题&gt;测试页 &lt;风格&gt;正文 { 显示：网格；网格模板行：75px 1fr 75px；高度：100vh；填充：0；保证金：0；溢出：隐藏； } #slidingMenu { 宽度：200px;高度：100vh；背景颜色：#333；位置：绝对；顶部：0；右：-300px； /* 开始隐藏 */ transition: right 0.3s escape; /* 平滑过渡 */ } #slidingMenu.open { right: 0; /* 滑入 */ } #top { 背景颜色: 红色; } #middle { 背景颜色：绿色； } #bottom { 背景颜色：蓝色； } &lt;/风格&gt; &lt;/头&gt; &lt;正文&gt;     &lt;按钮 id=“切换菜单” onClick=&#39;slidingMenu.classList.toggle(&quot;open&quot;)&#39;&#39;&gt;切换菜单   &lt;/正文&gt; &lt;/html&gt;  当您在平板电脑/手机屏幕上查看此页面时，页面滚动到底部之外。元素。如果您打开开发工具并启用设备预览模式，然后调整视口大小，一切都会崩溃。仅当菜单关闭时才会发生这种情况。打开菜单的那一刻，一切都会自行解决。  https://preview.redd.it/lcj5ycfy345h1.png?width=1918&amp;format=png&amp;auto=webp&amp;s=ad3a2ddb0813c4f8f7da28c7b018498be1c5ff26 &lt;一href=&quot;https://preview.redd.it/xrtiuuro445h1.png?width=1917&amp;format=png&amp;auto=webp&amp;s=f705b27e2c2dc7635e1ff1f783c917dd0c334f28&quot;&gt; https://preview.redd.it/xrtiuuro445h1.png?width=1917&amp;format=png&amp;auto=webp&amp;s=f705b27e2c2dc7635e1ff1f783c917dd0c334f28 我错过了什么？   由   提交 /u/Wotsits1984   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tvyob4/what_is_wrong_with_this_sliding_menu_setup/</guid>
+      <pubDate>Wed, 03 Jun 2026 18:44:32 GMT</pubDate>
     </item>
     <item>
       <title>理论上新公司里所有的技术工人都被解雇了？</title>
@@ -22,7 +29,7 @@
     <item>
       <title>您将如何构建 OTP 组件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tvuwos/how_would_you_build_otp_component/</link>
-      <description><![CDATA[大家好，前段时间我接受了 Stripe 前端工程师职位的面试，并在编码过程中遇到了这个问题： 开发具有 4 个输入的 OTP 组件： - 只接受数字 - 当填充一个输入时 =&gt;自动聚焦到下一个 - 输入时提交 - 应该支持退格键 - 应该可以访问 我正在使用React并试图通过4个独立的元素来实现它，严重依赖于内置的HTML验证属性（为了节省时间，面试官同意这是可以的）。我让它可以使用自动对焦和其他功能，但仍然被拒绝了。 现在我很好奇其他人会如何应对这样的挑战。 我将在评论中附上一张图像作为视觉参考。   由   提交 /u/truenapalm   [link] [评论]]]></description>
+      <description><![CDATA[大家好，前段时间我参加了 Stripe 前端工程师职位的面试，并在编码过程中遇到了这个问题： 开发具有 4 个输入的 OTP 组件： - 只接受数字 - 当填充一个输入时 =&gt;自动聚焦到下一个 - 输入时提交 - 应该支持退格键 - 应该可以访问 我正在使用React并试图通过4个独立的元素来实现它，严重依赖于内置的HTML验证属性（为了节省时间，面试官同意这是可以的）。我让它可以使用自动对焦和其他功能，但仍然被拒绝了。 现在我很好奇其他人会如何应对这样的挑战。 我将在评论中附上一张图像作为视觉参考。   由   提交 /u/truenapalm   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tvuwos/how_would_you_build_otp_component/</guid>
       <pubDate>Wed, 03 Jun 2026 16:39:30 GMT</pubDate>
     </item>
@@ -34,11 +41,11 @@
       <pubDate>Wed, 03 Jun 2026 16:26:46 GMT</pubDate>
     </item>
     <item>
-      <title>OSSurf – 发现开源项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tvu8iq/ossurf_discover_open_source_projects/</link>
-      <description><![CDATA[      OSSurf 是一个用于发现开源存储库和贡献机会的平台。 它可以让您：  探索趋势存储库 跟踪拉取请求和问题 按语言和类别浏览项目 发现适合贡献和 GSoC 的项目  寻求有关整体体验、实用性和 UI 的反馈。 https://ossurf.vercel.app/ https://github.com/OSSURF   由   提交/u/Direct_Sorbet_1631   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tvu8iq/ossurf_discover_open_source_projects/</guid>
-      <pubDate>Wed, 03 Jun 2026 16:16:51 GMT</pubDate>
+      <title>CMU 关于规范驱动开发的研究 — 寻找开源开发人员进行采访（45-60 分钟，Zoom）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tvud6m/cmu_research_study_on_specdriven_development/</link>
+      <description><![CDATA[大家好， 我是卡内基梅隆大学的一名研究员，正在进行一项关于开发人员如何在实践中实际使用规范驱动开发 (SDD) 的研究 - 例如在使用 Claude Code、Cursor、Kiro 等 AI 编码代理之前编写 SPEC.md 文件、PRD 或结构化自然语言规范。 有很多社会上有关于如何做好 SDD 的知识，但几乎没有对此进行学术研究。我正在努力改变这种状况。 研究内容：  通过 Zoom 进行一次 45-60 分钟的半结构化访谈 询问您的 SDD 工作流程、哪些有效、哪些无效以及它如何融入您的 SDLC 没有任务，没有测试 — 只是关于您的经验的对话  我在找谁for:  作为任何开源 GitHub 项目的贡献者或维护者，拥有至少一年的积极经验 在该项目中使用过 SDD 工具/工作流程（规范文件、结构化提示、计划模式工作流程等） 18 岁或以上，英语流利  你得到的： 老实说，没有任何金钱。但您的经验将直接塑造我将公开发布的 SDD 工作流程和实践的分类。很高兴与有需要的参与者分享调查结果。 道德/隐私：只有在您同意的情况下才会对采访进行录音。您的回答将被保密，并在任何已发布的调查结果中进行去识别化处理。 如果您有兴趣，请填写这份简短的筛选调查（5 分钟）：LINK 或者通过 DM 我/在下面提出问题进行评论。我也很高兴听到我是否应该在其他社区发帖。   由   提交/u/lost_researcher1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tvud6m/cmu_research_study_on_specdriven_development/</guid>
+      <pubDate>Wed, 03 Jun 2026 16:21:01 GMT</pubDate>
     </item>
     <item>
       <title>谷歌地址验证 API 奇怪的错误？</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[我正在尝试选择一个堆栈来用于我所有的自由 Web 开发工作。 我计划构建可扩展的电子商务网站。 我目前正在使用 Node、React 和 Docker/Cloudify 在 VPS 上进行部署。 数据库的最佳选择是什么？ 我目前正在使用 Supabase，但我听说它们有时会停用如果您未登录，那么我想探索其他选项吗？   由   提交 /u/wobowizard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tv6czt/best_database_provider/</guid>
       <pubDate>Tue, 02 Jun 2026 22:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wix 网站需要 15,000 美元？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tv52l4/15k_for_a_wix_site/</link>
-      <description><![CDATA[我在一家非营利组织工作，该组织的网站已经过时了几十年。高层管理人员有点绝望，左右报价。 Wix 网站花费 15,000 美元，其中包括：活动管理、志愿者管理、商店、捐赠者管理和一般博客等。 我认为 Wix 是质量较低的网站之一......尤其是因为我可以自己进去拖放元素。 我们是否被夸大了？我怎样才能让我的网站经验为零的管理层相信这不是我们在这个价格点上想要走的路线？ 编辑：哇，你们真的是为了血而来的。当我说“点击按钮”和“拖放”时，我没有任何不敬的意思，因为我知道网络开发并不容易，需要大量的技能和知识。我想说的是，如果我们要支付 15,000 美元以上（作为一个拥有超过 10,000 个数据库的小型非营利组织），那么像 Wix 这样的网站是不可接受的吗？我知道你们都同意我的观点！我感谢你们所有人的知识和建议。    由   提交/u/breezyb2310   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tv52l4/15k_for_a_wix_site/</guid>
-      <pubDate>Tue, 02 Jun 2026 21:38:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

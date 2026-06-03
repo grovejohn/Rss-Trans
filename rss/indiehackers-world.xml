@@ -4,7 +4,54 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 03 Jun 2026 18:40:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 23:00:06 GMT</lastBuildDate>
+    <item>
+      <title>如何自动将客户反馈转化为高转化的推荐</title>
+      <link>https://feed.indiehackers.world/post/cb5952e8b4</link>
+      <description><![CDATA[这让您有机会检查：
+
+措辞
+ 格式设置
+权限
+敏感详细信息
+
+为此，请在 Airtable 内添加：状态
+然后创建如下选项：
+
+新
+已审核
+已批准
+
+然后，在扎皮尔：
+
+ 选择 Airtable → 更新记录 
+添加过滤器：状态 = 已批准
+
+如果您不需要手动审核，可以跳过此步骤，并在 AI 清理步骤后自动将推荐发布到 Webflow。
+第 7 步 - 将批准的评价推送到 Webflow
+接下来，我们需要一种自动发布推荐的方法。打开Webflow。
+
+ 转至：CMS → 创建集合
+将其命名为：推荐
+
+然后，创建这些字段：
+
+客户姓名
+感言
+用例
+
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/cb5952e8b4</guid>
+      <pubDate>Wed, 03 Jun 2026 14:41:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>为成熟的数字资产论坛寻找营销/投资者联合创始人 FOROFOX</title>
+      <link>https://feed.indiehackers.world/post/b47e241e60</link>
+      <description><![CDATA[独立黑客们大家好，我经营 Forofox.com，这是一个致力于买卖数字资产的论坛。目前，我们在拉丁美洲（委内瑞拉、哥伦比亚、秘鲁、墨西哥、阿根廷和智利）拥有有机吸引力和活跃用户。我现在的目标是将其扩展为一个真正国际化的全球论坛。为了实现这一目标，我正在寻找一个能够投资付费广告和营销策略以推动全球流量的合作伙伴。如果您对数字资产利基市场感兴趣，并希望扩展具有经过验证的区域吸引力的现有平台，那么我们来谈谈！
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/b47e241e60</guid>
+      <pubDate>Tue, 02 Jun 2026 14:48:27 GMT</pubDate>
+    </item>
     <item>
       <title>尝试建立一个不会成为另一个死亡 Slack 的社区</title>
       <link>https://feed.indiehackers.world/post/9df98de2f9</link>
@@ -89,7 +136,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Mon, 01 Jun 2026 11:41:51 GMT</pubDate>
     </item>
     <item>
-      <title>您的内置公众受众不是您的市场。我慢慢地了解到了其中的区别。</title>
+      <title>你的内置公众受众不是你的市场。我慢慢地了解到了其中的区别。</title>
       <link>https://feed.indiehackers.world/post/2cbea1089d</link>
       <description><![CDATA[我降落的地方
 我还没有放弃公开构建。我已将其降级。这是我的观众频道，我将其产生的数字视为观众数量，而不是需求信号。当一篇文章表现良好时，我不再让它告诉我该产品正在发挥作用。它告诉我这个帖子很好。独立的仪表板。
@@ -173,26 +220,6 @@ https://recurflux.com/
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/13dbfeeff9</guid>
       <pubDate>Sun, 31 May 2026 04:40:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了自己的 SEO 工具，因为我厌倦了每月为我不使用或不理解的工具支付 200 美元以上。</title>
-      <link>https://feed.indiehackers.world/post/9014b09c28</link>
-      <description><![CDATA[干杯......构建尚不存在的东西。 ❤️
-—布里
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/9014b09c28</guid>
-      <pubDate>Sat, 30 May 2026 17:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>没人谈论早期牵引力的危险部分</title>
-      <link>https://feed.indiehackers.world/post/0bd964d5c2</link>
-      <description><![CDATA[显然还非常早。
-但我现在明白为什么经验丰富的创始人更关注重复行为而不是最初的增长。
-每周仍在学习，同时单独构建 VIDI。
-https://vidicontract.tech/
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/0bd964d5c2</guid>
-      <pubDate>Sat, 30 May 2026 06:07:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
