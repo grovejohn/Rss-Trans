@@ -4,7 +4,49 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 03 Jun 2026 02:29:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 07:29:42 GMT</lastBuildDate>
+    <item>
+      <title>我应该收取多少费用</title>
+      <link>https://www.reddit.com/r/software/comments/1tvhyke/what_amount_should_i_charge/</link>
+      <description><![CDATA[我在元广告上投入了大量资金，该网站需要处理从他们点击“立即购买”那一刻起的所有事情。直到交付合作伙伴拿起盒子的那一刻。 这正是我需要构建的：  3D 预览引擎  这是不容协商的。我不想要“在这里上传你的照片并等待”的提示。按钮。我需要一个交互式窗口，客户可以在其中上传图像并立即渲染到 3D 框架模型上。他们应该能够旋转它，看到 3D 效果的深度，并感觉自己已经购买了它。  广告到结账速度  如果网站在 4G 网络的中端手机上加载时间超过 3 秒，我就会赔钱。 登陆页面：我需要“周年纪念礼物”、“周年纪念礼物”等特定页面。 “生日特价”，等等，因此广告与页面完美匹配。 一键结帐：我的大部分流量将来自移动设备。我想要一个粘性的“立即购买”标签按钮和结账流程，不需要创建 10 步帐户。  智能重定向（“金钱”部分）  广告价格昂贵。如果有人上传照片但没有付款，我需要知道。 自动 WhatsApp 恢复：如果他们放弃了，系统应该自动在 WhatsApp 上对他们进行 ping 操作，并提供返回他们保存的设计的链接。 服务器端跟踪：标准浏览器 cookie 即将消亡。我需要后端直接与 Meta 的 API 对话，这样我的广告定位实际上保持准确。  零摩擦操作  我不应该手动检查付款或在运输门户中输入地址。 打印就绪文件：当订单命中时，系统应自动为我的制作团队生成高分辨率、大小正确的文件。 运输自动化：网站必须计算运输点击“批准”后，立即支付费用并生成 Shiprocket 或 Delhivery 等服务的标签。 交货日期：明确的“今天订购，在[日期]之前收到”基于他们的密码。这比其他任何方法都更快地完成销售。  有效的社交证明  视频评论：客户可以上传其到达的帧的 10 秒剪辑的一种方式。在 3D 礼品利基市场中，视频是展示质量的唯一方式。 WhatsApp 聊天：对于持怀疑态度的人来说，可以直接与我联系，但这样做不会阻止“添加到购物车”功能。按钮。 告诉我如何构建这个   由   提交/u/Electrical_Loan_8139   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tvhyke/what_amount_should_i_charge/</guid>
+      <pubDate>Wed, 03 Jun 2026 07:22:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的 Audiodg.exe 有此错误代码</title>
+      <link>https://www.reddit.com/r/software/comments/1tvhmhr/why_my_audiodgexe_have_this_error_code/</link>
+      <description><![CDATA[我在任务管理器中检查可疑正在运行的应用程序，刚刚发现我的 audiodg.exe 在详细命令行末尾有此错误代码 (0x000000000000044C)   由   提交/u/Treizesss113  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tvhmhr/why_my_audiodgexe_have_this_error_code/</guid>
+      <pubDate>Wed, 03 Jun 2026 07:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>超越 AI 聊天应用</title>
+      <link>https://www.reddit.com/r/software/comments/1tvgrww/beyond_chat_apps_with_ai/</link>
+      <description><![CDATA[寻找与应用程序更多集成的东西。 OpenAI 与我的一些应用程序（例如 Notion）的连接并没有像我想象的那样真正发挥作用，因为每次我要求它做某事时，我都会感觉存在可见性问题，并且它无法真正像我想象的那样访问我的应用程序上的内容。  有人有什么建议吗？    由   提交 /u/MeltingAnchovy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tvgrww/beyond_chat_apps_with_ai/</guid>
+      <pubDate>Wed, 03 Jun 2026 06:16:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看我的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1tvgjqo/check_out_my_app/</link>
+      <description><![CDATA[[LanderOS](http://lander-os.com) 终于把所有东西都连接起来了，所以如果一个人决定测试它并订阅，他们现在可以访问一个很酷的笔记应用程序，帮助排序一个人的笔记，而不必自己做。   由   提交/u/Okie-Criticism   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tvgjqo/check_out_my_app/</guid>
+      <pubDate>Wed, 03 Jun 2026 06:04:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个 Chrome 扩展！</title>
+      <link>https://www.reddit.com/r/software/comments/1tvg9z6/my_first_ever_chrome_extension/</link>
+      <description><![CDATA[ 由   提交/u/jack_lynch00  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tvg9z6/my_first_ever_chrome_extension/</guid>
+      <pubDate>Wed, 03 Jun 2026 05:50:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>让辛苦无聊的工作变得简单</title>
+      <link>https://www.reddit.com/r/software/comments/1tvfybb/just_made_pain_staking_boring_work_easy/</link>
+      <description><![CDATA[我有工作，我拍了很多照片并将它们上传到我的博客网站，这些照片最多可达 100-200 张。当我将它们上传到我的计算机时，它们会出现很长的名称，需要重命名或数字化和压缩大小 才能上传到我的博客。 当你每周发布博客 3 次时，这需要很长时间，我制作了网站，在几秒钟内完成这些步骤 以防有人需要免费使用。 https://renamee.com/   由   提交 /u/Spiritual-Sherbet607   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tvfybb/just_made_pain_staking_boring_work_easy/</guid>
+      <pubDate>Wed, 03 Jun 2026 05:33:21 GMT</pubDate>
+    </item>
     <item>
       <title>呃呃</title>
       <link>https://www.reddit.com/r/software/comments/1tvbyyp/nuh_uh/</link>
@@ -41,13 +83,6 @@
       <pubDate>Wed, 03 Jun 2026 00:42:26 GMT</pubDate>
     </item>
     <item>
-      <title>BetterStickies 48 小时内 50% 折扣（4.99 美元）</title>
-      <link>https://www.reddit.com/r/software/comments/1tv8172/betterstickies_is_50_off_for_48_hours_499/</link>
-      <description><![CDATA[什么是 BetterStickies？ BetterStickies 是一款桌面应用程序，可让您捕获并粘贴笔记、GIF、图像、清单、代码片段、PDF、文件和更多！ 它可以在 Windows 和 Linux 上运行，完全离线工作，无需帐户，无需安装。这是我自己对 2026 年便签应用程序的看法，具有以前从未开发过的新功能。 为什么 BetterStickies 促销？ 我想透明地说明为什么要进行这次促销，因为实际上有两个原因。  原因 1：我已经一周没有完成一笔销售了。起初我以为 LemonSqueezy 或我的结帐已损坏，但 Sentry 和 LS 都没有显示任何错误。因此，将价格从 7.49 美元提高到 9.99 美元可能会遭到反击。此次出售在一定程度上证实了这一点。  原因 2：我真心想找到人们愿意支付的合理价格，所以我正在测试 5 美元的点。  现在，在你因为我提高价格而责怪我之前，让我解释一下我的想法。  到目前为止，BetterStickies 即使不是最好的，也是 Windows 和 Linux 上最好的便签应用程序之一。这并不是我在炒作我自己的事情，而是基于我在 Reddit、Discord、GitHub 和电子邮件上获得的反馈。  作为比较，以 Notezella 为例，这是一款成熟且非常受欢迎的应用程序：购买价格为 29 美元，没有同步功能，用户界面已经过时，并且仅适用于 Windows。 BetterStickies 也可以在 Linux 上运行，因此如果您从 Windows 跳槽，您的笔记应用程序就会随之而来。 从这一点来看，我觉得 BetterStickies 被低估了。太便宜实际上会损害它，因为人们开始认为它只是随机的低质量软件或抢钱行为。  最重要的是，我正在努力赚取足够的销量，以便节省 500 美元购买一台 Mac Mini，这样我就可以构建 macOS 版本。 （顺便说一句，我使用 Arch） 我擅长工程和产品设计，但不擅长营销。所以如果这篇文章很笨拙，那就是原因。  没有音乐，没有编辑，只是快速（稍微加快）介绍所有功能：https://youtu.be/bVw4lGzyjJI 折扣：https://betterstickies.com/pricing   由   提交/u/HimaSphere  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tv8172/betterstickies_is_50_off_for_48_hours_499/</guid>
-      <pubDate>Tue, 02 Jun 2026 23:34:45 GMT</pubDate>
-    </item>
-    <item>
       <title>Snapcast：https://snapcast-nine.vercel.app/</title>
       <link>https://www.reddit.com/r/software/comments/1tv7afy/snapcast_httpssnapcastninevercelapp/</link>
       <description><![CDATA[ 由   提交 /u/chairmanofchill   [链接] [评论]]]></description>
@@ -74,41 +109,6 @@
       <description><![CDATA[ 由   提交/u/bambamamboole  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tv55pn/open_source_html_to_pdfua3_converter/</guid>
       <pubDate>Tue, 02 Jun 2026 21:42:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>无损剪辑从来不想为我正常工作。我在要删除的广告周围正确设置了进出，但它似乎忽略了它们并输出了广告完整的文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1tv45ez/lossless_cut_never_wants_to_work_properly_for_me/</link>
-      <description><![CDATA[我已经尝试过保留或删除选定片段的设置，但这并不重要。它要么只保留广告，要么不做任何事情，让一切保持原样。如果有一个简单的删除按钮，那么我可以单击所选的广告并在输出之前将其删除，这确实看起来会容易得多。  我做错了什么？   由   提交 /u/Enjoy_Life4219   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tv45ez/lossless_cut_never_wants_to_work_properly_for_me/</guid>
-      <pubDate>Tue, 02 Jun 2026 21:04:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我绝对拒绝再“租用”基本实用软件</title>
-      <link>https://www.reddit.com/r/software/comments/1tv3xod/i_absolutely_refuse_to_rent_basic_utility/</link>
-      <description><![CDATA[现在几乎所有标准桌面工具都要求每月缴纳什一税，这一事实让我发疯。昨天我正在处理我的小企业开支，每月 15-20 美元的基本离线任务订阅费用实际上是令人厌恶的 就像为什么我需要云连接和登录只是为了编辑本地合同或合并两张发票？不管怎样，adobe 已经变得如此令人难以置信的臃肿，它运行起来就像 6 个后台更新程序进程，即使应用程序关闭，也会无缘无故地耗尽我的电池 最后只是捕捉并清除所有实际上不需要在线的重复出现的 SaaS 垃圾。获得了 xodo 的永久许可证，这样我就有了一个普通的离线编辑器，再也不用再查看它的月度发票 感觉整个科技行业都忘记了我们过去只是购买一个程序，安装它，然后真正拥有它。整个“一切都是服务”模型此时已经很累了。   由   提交 /u/No-Communication1543   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tv3xod/i_absolutely_refuse_to_rent_basic_utility/</guid>
-      <pubDate>Tue, 02 Jun 2026 20:57:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于自动电视音量调节的小型 Windows 工具（音频分析 + 红外控制）</title>
-      <link>https://www.reddit.com/r/software/comments/1tv3mze/small_windows_tool_for_automatic_tv_volume/</link>
-      <description><![CDATA[我一直在开发一个小型 Windows 工具，通过检测突然的响度峰值（如广告）并向电视发送红外音量命令来保持电视音量稳定。 它使用： - Windows 上的实时音频监控 - 响度峰值检测 - 用于红外音量控制的 Broadlink RM4 / RM Mini - 自动当程序恢复时恢复正常音量 这是一个独立的实用程序，免费，无广告，对于任何因电视音量不一致而烦恼的人来说可能很有用。 下载（最新版本）： https://github.com/AdBusterOfficial/Adbuster--WinApp/releases/latest   由   提交 /u/VolMaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tv3mze/small_windows_tool_for_automatic_tv_volume/</guid>
-      <pubDate>Tue, 02 Jun 2026 20:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>有多少次您开始一个新项目只是为了从头开始重复相同的设置过程？</title>
-      <link>https://www.reddit.com/r/software/comments/1tv3lgs/how_many_times_have_you_started_a_new_project/</link>
-      <description><![CDATA[您有多少次开始一个新项目只是为了从头开始重复相同的设置过程？ 布局、合成系统、预设、出血和布局。安全区...一遍又一遍。 现在，Gridora 可以直接在 Photoshop 中在几秒钟内处理所有这些。 经过数月的开发、测试和基于设计师真实反馈的工作流程改进，Gridora 终于正式推出！ 🧡 Gridora 是一个专业的布局和设计工具。 Photoshop 的合成系统。 无需为每个项目手动重新创建相同的设置： • 画布设置 • 参考线 • 布局 • 合成系统 • 出血和出血安全区 Gridora 可帮助您更快、更高效、更有条理地生成所有内容。 主要功能： ✓ 智能画布创建器 ✓ 布局系统 ✓ 合成框架 ✓ 实时预览 ✓ 出血和出血安全区 ✓ 现成的预设 Gridora 背后的目标很简单： 花更少的时间设置文档，花更多的时间进行设计。 我会将链接留在我的简介中，为了庆祝正式发布，前 5 位用户可以完全免费获得 Gridora。 🧡 #GraphicDesign #GraphicDesigners #Photoshop #PhotoshopPlugin #DesignSystems #CreativeWorkflow #DesignTools #LayoutDesign #CompositionDesign #CreativeProfessionals #DesignProcess   由   提交/u/Global_Gas_4728   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tv3lgs/how_many_times_have_you_started_a_new_project/</guid>
-      <pubDate>Tue, 02 Jun 2026 20:44:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，可以按照雇主/签证官的方式审核您自己的社交媒体足迹：寻求反馈</title>
-      <link>https://www.reddit.com/r/software/comments/1tv3gn5/i_built_a_tool_to_audit_your_own_social_media/</link>
-      <description><![CDATA[我构建了一个工具，可以扫描您的足迹并显示其他人从中推断出的内容；就像雇主、招聘人员或签证官那样。坦白说这是我的。在我将其推广到更广泛的范围之前，寻找诚实的测试人员和反馈。给我发短信   由   提交/u/elonprimus42  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1tv3gn5/i_built_a_tool_to_audit_your_own_social_media/</guid>
-      <pubDate>Tue, 02 Jun 2026 20:39:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
