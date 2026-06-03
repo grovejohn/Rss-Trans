@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 03 Jun 2026 07:28:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:02:46 GMT</lastBuildDate>
+    <item>
+      <title>您的工作流程中实际上存在哪些无聊的自动化工具？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tvobzo/what_boring_automation_tools_actually_stuck_in/</link>
+      <description><![CDATA[我一直在尝试不同的 AI 工具来加快我的日常数据工作速度。 ChatGPT 非常适合绘制快速 Python 脚本，尽管它有时会解释每一行，就像我以前从未见过循环一样。当我需要重新审视逻辑时，克劳德会更好，尽管它可能会将简单的清理步骤变成过于复杂的事情。 我的大部分实际工作仍然发生在脚本、电子表格和人员之间的混乱间隙中。 VS Code 中的 Python 处理真正的工作。当我陷入转型困境时，GPT 或 Claude 会提供帮助。当我需要向不关心代码的人解释管道时，我还会录制简短的 Loom 视频。 最困难的部分通常是将各个部分连接起来并解释为什么该流程有意义。当我想排练如何解释自动化而不需要漫无目的地遍历每个功能时，我一直在后台使用一些练习工具，包括 Beyz 编码助手/ChatGPT。 很多工具似乎都是为庞大的工作流程而构建的。我的日常问题比较小：清理导出、在工作表之间移动数据、检查脚本损坏的原因以及使其他人可以理解结果。 哪些小型自动化工具已悄然成为您的堆栈中必不可少的？   由   提交 /u/Haunting_Month_4971   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tvobzo/what_boring_automation_tools_actually_stuck_in/</guid>
+      <pubDate>Wed, 03 Jun 2026 12:48:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Web] [$9.99 → 免费] GetItSigned – 15 个免费文档签名积分</title>
+      <link>https://www.reddit.com/r/automation/comments/1tvnnx7/web_999_free_getitsigned_15_free_document_signing/</link>
+      <description><![CDATA[       由   提交/u/Ok-Chocolate-9430   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tvnnx7/web_999_free_getitsigned_15_free_document_signing/</guid>
+      <pubDate>Wed, 03 Jun 2026 12:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢的机器人公司是哪家？</title>
+      <link>https://www.reddit.com/r/automation/comments/1tvkbcz/what_are_your_favorite_robotics_company/</link>
+      <description><![CDATA[       由   提交/u/Adept_Mountain9532   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tvkbcz/what_are_your_favorite_robotics_company/</guid>
+      <pubDate>Wed, 03 Jun 2026 09:38:10 GMT</pubDate>
+    </item>
     <item>
       <title>用于自动化/多账户工作的顶级云手机应用程序比较</title>
       <link>https://www.reddit.com/r/automation/comments/1tvgjus/top_cloud_phone_apps_comparison_for_automation/</link>
@@ -88,27 +109,6 @@
       <description><![CDATA[我已经与人工智能代理合作了很长一段时间，早在 2023 年，我就构建了 talk2arxiv，这是一个开源 RAG 应用程序，可以让用户与研究论文交谈，它非常受欢迎 从那时起，我基本上尝试了我能接触到的所有个人人工智能代理：OpenClaw、Tomo、Poke、Lindy、Noah、ChatGPT Pulse、Claude Cowork、Gemini Spark 和其他一些软件。 我想要从他们那里得到一件事：连接到我的电子邮件、日历、笔记和文档，然后主动帮助我管理我的生活，提醒我忘记的事情，注意模式，在某些事情看起来很重要时进行检查。  基本上表现得更像是行政助理，而不是聊天机器人 他们都没有真正做到这一点，他们非常有能力，但他们只需要你告诉他们该做什么。对我来说，助手的全部意义在于它能在你做之前注意到事情。 所以两个月前我开始为自己构建一个助手。我以《金装律师》中的唐娜为蓝本：高度主动、高度个性化，并在后台不断关注。 我认为它已经变得非常好，我每天都依赖它，所以现在我正在寻找 10-20 个人，他们对当前的人工智能助手有同样的挫败感，并且愿意测试它并提供残酷诚实的反馈   由   提交 /u/vandersenn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tubjzq/i_tried_every_single_personal_ai_assistant_for/</guid>
       <pubDate>Tue, 02 Jun 2026 00:52:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手向子寻求有关下一步学习内容的指导。</title>
-      <link>https://www.reddit.com/r/automation/comments/1tu41tl/newbie_to_sub_looking_for_guidance_on_what_to/</link>
-      <description><![CDATA[嘿伙计们，我最近发现了这个子程序，正在寻求一些建议。  过去一年我一直在研究 Power Automate。它是从 osrs 上的机器人开始的（笑），因为我想学习和学习。到处玩。我还设置了一些简单的云 Power Automate 工作流程。  我喜欢摆弄它。我发现了解它的新功能非常令人满意。我想发展自己的技能和能力，有可能成为我未来职业生涯的一个组成部分。  我只知道 Power Automate，您会推荐哪些其他应用程序/网站/软件，为什么？我不一定想了解人工智能代理的炒作。我很欣赏它的强大功能，但我觉得它目前有点流行，目前不一定想深入了解它。  另外，有什么 YouTuber 推荐观看和获取想法吗？  TIA   由   提交/u/MrSam1998  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tu41tl/newbie_to_sub_looking_for_guidance_on_what_to/</guid>
-      <pubDate>Mon, 01 Jun 2026 20:05:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们是怎么找到第一个客户的？</title>
-      <link>https://www.reddit.com/r/automation/comments/1tu2in7/how_did_you_guys_land_your_first_client/</link>
-      <description><![CDATA[我最近学习了自动化，并且选择了兽医诊所利基市场，在那里我可以为诊所的预约客户提供审查请求自动化。预约后 3 小时，系统会自动向客户发送一封电子邮件，其中包含供 Google 审核的链接，以确保他们在家时收到电子邮件。 我使用 Google 地图，从我研究的 65 家诊所中选择了 26 家诊所进行联系。我目前正在前往纳什维尔（市）诊所。为了找到完美的诊所，我的方法是寻找评论数量，它们应该是 50-400 条并且不一致，例如本周 3 条评论，上周 0 条评论，上个月 8 条评论。由于我主要通过 Instagram 进行联系，因此我也会在 Instagram 上看到诊所的活动，如果他们最近有帖子，则意味着他们在社交上很活跃。  今天是我第一次联系诊所（其中有 26 个），到目前为止还没有人回复，但只过了几个小时。通过电子邮件联系没有 Instagram 个人资料的诊所。 有人提出一些建议来改进我的外展方法或改进我筛选最佳诊所的方法吗？  此外，如果我联系 100 家诊所，预计会达成多少交易？   由   提交 /u/CryptographerOwn4806   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tu2in7/how_did_you_guys_land_your_first_client/</guid>
-      <pubDate>Mon, 01 Jun 2026 19:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们通过人工智能自动化了一半的内容管道，我们的每月成本在大约三周内从可管理变为完全失控</title>
-      <link>https://www.reddit.com/r/automation/comments/1tth2bc/we_automated_half_our_content_pipeline_with_ai/</link>
-      <description><![CDATA[我负责一个大约 12 人的小型 SaaS 团队的增长。二月份左右，我们全力投入人工智能来实现内容和外展自动化。这个想法很简单，用一堆处理研究、起草、个性化和整个流程的人工智能工具取代两个兼职承包商。 前两周看起来令人难以置信。产量增加了两倍，质量足够好，而每件的成本几乎下降到零。我向我的联合创始人展示了这些数字，就像我们破解了一些代码一样。 然后发票开始收到。我们运行了大约七种不同的人工智能服务，每一项都在做自己的事情，所有这些服务的代币消耗远远超出了任何定价计算器的预测。到第三周，我们的人工智能支出已经悄悄超过了我们支付给这两个承包商的费用。承包商实际上理解了上下文，而无需消耗代币来弄清楚我们的意思。 我尝试优化。更短的提示、缓存、批处理请求。大概节省了 15%。根本问题是，任何有意义的数量的实际生产使用都会比预测显示的更快地消耗信用。每个供应商演示都会向您展示每单位成本，但没有人模拟当您实际上让这些东西在整个工作流程中无人监督地运行时会发生什么。 我们仍在使用人工智能，但我们已经大力撤退。运行的可能是我们自动化的三分之一。其余的都回到了人类身上，因为一旦你考虑到错误纠正和不断提示的调整，而没有人在他们的投资回报率计算中考虑到这一点，数学就不再起作用了。 感觉很多小团队正在悄悄地碰上同一堵墙，只是不谈论它。   由   提交 /u/Pristine_Rest_7912   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1tth2bc/we_automated_half_our_content_pipeline_with_ai/</guid>
-      <pubDate>Mon, 01 Jun 2026 04:09:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

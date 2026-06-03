@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Tue, 02 Jun 2026 18:28:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:02:50 GMT</lastBuildDate>
+    <item>
+      <title>超越聊天机器人的直接偏好优化</title>
+      <link>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</guid>
+      <pubDate>Wed, 03 Jun 2026 12:55:11 GMT</pubDate>
+    </item>
     <item>
       <title>Holo3.1：快速且本地计算机使用代理</title>
       <link>https://huggingface.co/blog/Hcompany/holo31</link>
@@ -60,13 +67,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/agent-glossary</guid>
       <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>专业化战胜规模：大多数人工智能采购决策忽视的战略变量</title>
-      <link>https://huggingface.co/blog/Dharma-AI/specialization-beats-scale</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/Dharma-AI/specialization-beats-scale</guid>
-      <pubDate>Fri, 22 May 2026 15:25:59 GMT</pubDate>
     </item>
     <item>
       <title>OlmoEarth v1.1：更高效的地球观测模型系列</title>

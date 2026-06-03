@@ -4,7 +4,33 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 03 Jun 2026 07:30:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:05:27 GMT</lastBuildDate>
+    <item>
+      <title>尝试建立一个不会成为另一个死亡 Slack 的社区</title>
+      <link>https://feed.indiehackers.world/post/9df98de2f9</link>
+      <description><![CDATA[经过策划，基于申请，在加入之前进行简短的面试电话作为审核过程。每周两次电话会议，一次围绕构建的人性化方面，一次围绕业务、产品、增长和决策。
+它适合创始人、个体企业家、业主经营者、顾问、机构所有者以及想要以真实方式给予和接受的自己经营的人。
+我们还很早，对第一批加入的人要小心，因为他们比我们在网站上写的任何东西都更能塑造文化。但到目前为止，我们已经有了一些有趣的申请者，我们正在面试。
+希望得到 IH 的诚实反馈。
+什么让这样的社区真正值得您加入？什么会立即拒绝？
+P.S.：这张照片是我和搭档很久以前在办公室拍的。这感觉很合适，因为这是我们想要更多的简单的人类能量。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/9df98de2f9</guid>
+      <pubDate>Tue, 02 Jun 2026 11:00:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不断失去交易不是因为销售不佳，而是因为我忘记跟进</title>
+      <link>https://feed.indiehackers.world/post/8c8cb32360</link>
+      <description><![CDATA[我自己进行外展工作已经有一段时间了。没有使用 CRM — 对一个人来说感觉有点大材小用。
+问题不在于我的推销。因为我忘记了回去，所以交易就会变得冷淡。我会晚两周才想起潜在客户。
+尝试用 Notion 提醒来修复它。太手动了。 HubSpot 是为团队而不是为我而构建的。
+因此，我构建了 CloserKit — 一个简单的管道跟踪器，内置了后续提醒。重点是，您永远不会因为忘记而放弃交易。
+希望得到任何进行单独销售的人的反馈。您当前跟踪跟进的设置是什么？
+https://closerkit.app
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/8c8cb32360</guid>
+      <pubDate>Tue, 02 Jun 2026 08:16:58 GMT</pubDate>
+    </item>
     <item>
       <title>建立了“股票作为足球卡”的东西。 5 天后，我的发布推文获得了 7 次浏览。我缺少什么？</title>
       <link>https://feed.indiehackers.world/post/8e7640e096</link>
@@ -159,33 +185,6 @@ https://horog.app/beta
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/9484d2c6d4</guid>
       <pubDate>Fri, 29 May 2026 14:10:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>第 10+11 周：PDF 集群、博客发布、143 个索引和新的压缩功能</title>
-      <link>https://feed.indiehackers.world/post/5cba21c4fc</link>
-      <description><![CDATA[convertifyapp.net：Rust + libvips + Next.js SSG 第 11 周，共 52 周
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/5cba21c4fc</guid>
-      <pubDate>Fri, 29 May 2026 13:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>OnlyFans 克隆：如何以经济实惠的方式构建像 OnlyFans 这样的网站</title>
-      <link>https://feed.indiehackers.world/post/d7f8e09179</link>
-      <description><![CDATA[
-支付网关：每笔交易 2.9% 加 0.30 美元
-年龄验证软件：每个经过验证的用户 0.50 至 2.00 美元
-
-预计第一年固定成本
-
-OnlyFans 克隆脚本成本：1,500 美元
-托管：960 美元
-域名注册：30 至 100 美元
-
-总固定成本：2,490 美元至 2,560 美元
-注意：电子邮件和短信费用、付款处理费和年龄验证费用各不相同。它们根据平台上的用户数量、交易数量和验证数量而增长。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/d7f8e09179</guid>
-      <pubDate>Fri, 29 May 2026 13:50:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

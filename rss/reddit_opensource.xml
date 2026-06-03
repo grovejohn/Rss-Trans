@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 03 Jun 2026 07:30:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:05:01 GMT</lastBuildDate>
+    <item>
+      <title>我编写了“idb-ts”，一个以声明式方式使用的 IndexedDB 包装器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tvnokx/i_wrote_idbts_an_indexeddb_wrapper_to_be_used_in/</link>
+      <description><![CDATA[IndexedDB 功能强大，但我总是发现该 API 对于日常使用来说非常冗长。由于我的心态主要集中在后端，所以有时我发现做事很困难。然后我就想，为什么不解决这个问题呢？然后我写了这个库。如果您是从后端团队转为全栈团队，您就会感受到这种氛围。现在我们可以很容易地声明实体、版本、增删改查调用以及其他重复的事情。 快速浏览： @DataClass(“users”) class User { @KeyPath() id!: string; }名称！：字符串；电子邮件！：字符串； } ...等待 db.create(用户);等待db.read（用户，“123”）；等待 db.update(用户);等待db.delete(用户,“123”);  它还支持许多复杂的查询。例如：  const users = wait db.User.query() .where(&#39;age&#39;) .gte(20) .and(&#39;status&#39;) .equals(&#39;active&#39;) .orderBy(&#39;age&#39;, &#39;asc&#39;) .execute(); const users = wait db.User.query() .orderBy(&#39;createdAt&#39;, &#39;asc&#39;) .offset(1) .limit(2) .execute();  它还具有字段级别验证支持：  @Validate((value: string) =&gt; value.length &gt; 0, &#39;ID 不能为空&#39;) id!: string; @Validate((value: string) =&gt; value.includes(&#39;@&#39;), &#39;无效电子邮件&#39;) @Index({ unique: true }) email!: string; @Validate((value: number) =&gt; value &gt;= 0 &amp;&amp; value &lt;= 150, &#39;年龄必须为 0-150&#39;)age!: number;  它有更酷的功能，例如数据保留策略、自动清理、模式版本控制、回滚、原子事务 我只有不到五年的全职经验，但我正在努力学习。所以我绝对愿意接受评论和建议。  源代码可以在这里找到：https://github.com/maifeeulasad/idb-ts.git npm 包在这里：https://www.npmjs.com/package/idb-ts  希望得到经常使用 IndexedDB 和不经常使用 IndexedDB 的人的反馈。你现在会用它吗？它缺少什么。它是否过度设计？ 任何意见也会有帮助。期待您的来信。祝您度过愉快的夜晚！！   由   提交/u/maifee  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tvnokx/i_wrote_idbts_an_indexeddb_wrapper_to_be_used_in/</guid>
+      <pubDate>Wed, 03 Jun 2026 12:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌因在恋童癖邪教指控中“清理”涉及以色列部长女儿的虐待指控而受到批评</title>
+      <link>https://www.reddit.com/r/opensource/comments/1tvmcq5/google_under_fire_for_scrubbing_abuse_claims/</link>
+      <description><![CDATA[    /u/Goldenmentis   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1tvmcq5/google_under_fire_for_scrubbing_abuse_claims/</guid>
+      <pubDate>Wed, 03 Jun 2026 11:21:29 GMT</pubDate>
+    </item>
     <item>
       <title>您是否曾见过一个很酷的独立项目，但当开发商以 ARR 或付费方式将其开发出来时，您会感到非常沮丧？</title>
       <link>https://www.reddit.com/r/opensource/comments/1tvcbbd/you_ever_see_a_cool_independent_project_and/</link>
@@ -25,13 +39,6 @@
       <description><![CDATA[想到了一个网站的想法，但除了广告之外无法想出从中赚钱的方法，所以将其发布在这里 Idea 是一个跟踪“抵制”的网站。人们可以添加公司名称以及为什么要抵制它们，标记国家/地区，然后人们可以对它们进行投票并进行讨论等 不要认为在 Reddit 子版块中坚持下去会更好，直到原始发帖者标记为不再相关或在一定时间后超时   由   提交/u/ybot01  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1tuxa6o/idea_for_website/</guid>
       <pubDate>Tue, 02 Jun 2026 17:07:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个快速且可配置的媒体播放器多画面播放器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tuvpyn/i_made_a_fast_configurable_media_player/</link>
-      <description><![CDATA[      大家好，我制作了这个 C 项目来同时观看多个 Twitch 流（和其他媒体）。有一些网站可以这样做，但这种方法是无浏览器的（使用 mpv 和 Chatterino），并添加了大量的 QoL 功能和配置。 有很多组件是从头开始编写的：命令预览 (REPL)、自动完成、布局、标签、宏、配置文件、通过后缀数组和文件搜索的文件。 LCP 来自 libsais，许多数据结构。所有 MIT 许可的、纯 C11。 我最近将其移植到 posix（在带有 Windows 主机的 Arch Linux 虚拟机上进行了测试），并且似乎运行良好（有些东西仅限于 X11）。我没有 Mac 机器，所以我不允许让它在那里工作。 如果您发现任何令人困惑或缺少功能的内容，请告诉我，我会查看。这个项目背后的主要思想是拥有极小的摩擦（很多时候，您可能只运行一次可执行文件并用宏设置所有内容）。 非常感谢您检查它！   由   提交/u/Avioa  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tuvpyn/i_made_a_fast_configurable_media_player/</guid>
-      <pubDate>Tue, 02 Jun 2026 16:14:29 GMT</pubDate>
     </item>
     <item>
       <title>我开源了 Provenant：用于编码代理的自我修复架构内存层</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[在这里发表的第一篇文章，我真的很想避免被禁止进入 Reddit 子版块。我已阅读规则，但我在 Reddit 自我推销的第 2 点中没有找到任何有用的信息。如果不好，我会立即删除它！ 我是一名 Web 开发人员，在过去的几个月里，我一直在构建 RE-KORD，这是一个开源本地音乐中心，专注于真正拥有自己音乐收藏的人。 产生这个想法是因为我对流媒体平台的方向感到沮丧：订阅、消失的曲目、支离破碎的库以及对我自己的收藏的控制很少。 RE-KORD 完全在您自己的计算机上运行，让您： • 在网络上的设备上流式传输您的本地音乐库 • 组织和编辑元数据、封面和歌词 • 直接从应用程序内下载曲目、专辑和播放列表 • 跟踪收听统计数据和成绩 • 使用实时音频可视化工具 • 玩内置节奏游戏 (Plectr)，该游戏会自动根据您的音乐生成级别 该项目已完全开放来源和设计的理念是您的音乐应该属于您。 我仍在积极开发它，我希望得到自托管和音乐囤积社区中的人们的反馈。 网站：https://re-kord.com/ 存储库：https://github.com/Creiv/RE-KORD 欢迎提出问题、批评和功能请求。任何评论和建议都会对我有很大帮助！！   由   提交 /u/After-Lawativity9794   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ttu6cj/i_built_an_opensource_selfhosted_music_hub_after/</guid>
       <pubDate>Mon, 01 Jun 2026 14:36:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>AutoCAD 的替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1tt9dub/alternatives_to_autocad/</link>
-      <description><![CDATA[我是一名建筑系学生，自 2022 年以来一直在使用 AutoCAD 学生许可证，现在我厌倦了在我的许可证过期期间乞求 Autodesk 不要忽视我一个月，我尝试过 LibreCAD 和 FreeCAD，发现它们大多笨重且不直观，我不想从头开始学习所有内容。    由   提交/u/MenoryEstudiante   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1tt9dub/alternatives_to_autocad/</guid>
-      <pubDate>Sun, 31 May 2026 22:22:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

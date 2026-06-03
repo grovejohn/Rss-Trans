@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 03 Jun 2026 07:30:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 13:04:50 GMT</lastBuildDate>
+    <item>
+      <title>光锥一致性：我各取一勺</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tvndik/light_cone_consistency_ill_take_one_scoop_of_each/</link>
+      <description><![CDATA[       由   提交 /u/ReasonableLoss6814   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tvndik/light_cone_consistency_ill_take_one_scoop_of_each/</guid>
+      <pubDate>Wed, 03 Jun 2026 12:08:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何正确地从跨域提供 SVG 文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tvkfha/how_to_properly_serve_svg_files_from_crossorigin/</link>
+      <description><![CDATA[在我的网站上，我每页使用大约 50 个不同的小 SVG 图标 (1-2KB)，我将它们存储在一个单独的子域中，在该子域中托管我在多个网站上使用的所有静态文件。 我想知道提供这些服务的最佳方式是什么。  SVG 精灵（每个图标都包含在一个 svg 文件中）在符号标记中）：不支持跨域，除非使用奇怪的 javascript hack。 每个图标 1 个请求：对小文件执行 50 多个请求似乎有点疯狂？即使使用现代的 http2，这似乎也会减慢网站速度，并导致不必要的开销。 将 SVG 烘焙为 html：这感觉是最快的，但它会为每个 html 页面增加 50kb（gzip 压缩后会少一点），这似乎也是不必要的。  你是怎么做到的？什么是最佳实践？   由   提交 /u/Nonilol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tvkfha/how_to_properly_serve_svg_files_from_crossorigin/</guid>
+      <pubDate>Wed, 03 Jun 2026 09:44:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议：SaaS MVP 的最佳低成本技术堆栈（前端重度独立开发）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tvjiwp/advice_needed_best_lowcost_tech_stack_for_a_saas/</link>
+      <description><![CDATA[大家好， 我最近找到了一份自由职业，从头开始构建一个完整的 SaaS 平台。客户非常慷慨，并将其视为我在开发过程中学习和实施的机会。我想确保从第一天起就选择了正确的架构。 我无法透露确切的想法，但它作为连接服务提供商和最终用户的双向平台发挥作用。我需要选择一个能够发挥我的优势的技术堆栈，同时使基础设施成本尽可能接近于零。 这是我的个人资料和项目限制： - 我的背景：我是一名前端开发人员。我的后端知识只是“还可以”，因此，我正在寻找一个能够最大程度地减少复杂后端样板和开发运营难题的堆栈。 - 时间表：我最多需要 4 到 5 个月的时间来构建和完全部署 MVP。 - 严格预算：MVP 阶段的部署、数据库和任何必要的事务电子邮件的每月预算不能超过 40 美元/月。 - 预期规模：首先，Web 应用程序需要轻松维持100 个服务提供商和大约 1,000 个活跃用户。 - 付款和订阅：Stripe - 团队规模：只有我（独立开发者）。 根据当前趋势，我一直倾向于将元框架（如 Next.js）与 BaaS（如 Supabase 或 Firebase）搭配使用，但我很想听听最近发布了一些东西的人的意见类似。 向社区提出的问题：  您会推荐哪种特定的技术堆栈，让前端开发人员能够快速移动，而不会陷入后端设置的困境？  - 您建议是否有特定的数据库、ORM 或身份验证提供商，可以放心地将我的预期用户数控制在 40 美元/月的限制之下？ - 任何托管或部署“陷阱”在预算有限的情况下推出双面平台时我应该注意什么？ 感谢您分享的任何指导！ 注意：使用人工智能进行清晰度。   由   提交 /u/chutneypow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tvjiwp/advice_needed_best_lowcost_tech_stack_for_a_saas/</guid>
+      <pubDate>Wed, 03 Jun 2026 08:53:18 GMT</pubDate>
+    </item>
     <item>
       <title>您是否使用长时间运行的人工智能代理进行开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1tvguei/do_you_use_long_running_ai_agents_for_development/</link>
@@ -39,13 +60,6 @@
       <description><![CDATA[我在一家非营利组织工作，该组织的网站已经过时了几十年。高层管理人员有点绝望，左右报价。 Wix 网站花费 15,000 美元，其中包括：活动管理、志愿者管理、商店、捐赠者管理和一般博客等。 我认为 Wix 是质量较低的网站之一......尤其是因为我可以自己进去拖放元素。 我们是否被夸大了？我怎样才能让我的网站经验为零的管理层相信这不是我们在这个价格点上想要走的路线？ 编辑：哇，你们真的是为了血而来的。当我说“点击按钮”和“拖放”时，我没有任何不敬的意思，因为我知道网络开发并不容易，需要大量的技能和知识。我想说的是，如果我们要支付 15,000 美元以上（作为一个拥有超过 10,000 个数据库的小型非营利组织），那么像 Wix 这样的网站是不可接受的吗？我知道你们都同意我的观点！我感谢你们所有人的知识和建议。    由   提交/u/breezyb2310   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tv52l4/15k_for_a_wix_site/</guid>
       <pubDate>Tue, 02 Jun 2026 21:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>高级开发人员的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tv4g6s/advice_from_senior_devs/</link>
-      <description><![CDATA[我想听听经验丰富的开发人员给初级开发人员的一些建议   由   提交/u/Dizzy_External2549  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tv4g6s/advice_from_senior_devs/</guid>
-      <pubDate>Tue, 02 Jun 2026 21:15:48 GMT</pubDate>
     </item>
     <item>
       <title>网站还有背景音乐吗？</title>
@@ -95,20 +109,6 @@
       <description><![CDATA[      我没想到陀螺仪 API 会如此敏感，哈哈，但这是我实现中的一个微妙错误。 ps。我什至添加了绝对方向传感器来比较稳定性...  您可以在此处访问固定的实时演示 - https://ctx-0.github.io/gyrscope/（使用移动设备） 如果您想看一下，这里是存储库 - https://github.com/ctx-0/gyrscope   由   提交/u/goldbookleaf  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tuxkdj/back_when_i_was_creating_a_demo_for_gyroscope_api/</guid>
       <pubDate>Tue, 02 Jun 2026 17:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwind 刚刚放弃了克劳德创建的模板吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tut3r4/did_tailwind_just_drop_a_claudecreated_template/</link>
-      <description><![CDATA[      我让 Claude 为我制作了一些静态网站框架，我注意到了一些模式。 圆形按钮、衬线 H1 充满感情而不是描述性、英雄中有两个对比鲜明的按钮、大量破折号、“实际上”和英雄“滚动”向下”虽然这并没有检查所有的方框，但它检查了很多。阅读预览网站的文字会让它看起来像一个笑话。这是真的吗？？？ 另一方面，它缺少斜体和不同颜色的标志性强调词。    由   提交 /u/Adfarquhar   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tut3r4/did_tailwind_just_drop_a_claudecreated_template/</guid>
-      <pubDate>Tue, 02 Jun 2026 14:45:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>鉴于市场状况，您会建议从事网络开发工作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tus2hq/given_the_state_of_the_market_would_you_recommend/</link>
-      <description><![CDATA[我从事 webdev 工作已有十多年了。现在我感到精疲力尽，并对前景感到担忧。职业生涯中期，几乎没有得到面试机会。  我们不仅必须在全球舞台上竞争（我在美国），而且还必须应对定期裁员（人工智能加速了这种情况）。  曾经可靠的高薪工作，现在似乎在两方面都大幅下滑。 你同意吗？您会向朋友推荐此字段吗？   由   提交/u/hypercosm_dot_net   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tus2hq/given_the_state_of_the_market_would_you_recommend/</guid>
-      <pubDate>Tue, 02 Jun 2026 14:08:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
