@@ -4,13 +4,27 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 03 Jun 2026 13:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 18:39:32 GMT</lastBuildDate>
     <item>
-      <title>当指标成为目标时</title>
-      <link>https://www.reddit.com/r/programming/comments/1tvoa39/when_metrics_become_the_target/</link>
-      <description><![CDATA[指标和分析模型是一把双刃剑。它们使复杂的系统更容易比较、自动化和推理。但一旦某个指标变得重要，人们就会开始针对它进行优化。 而不是针对其背后的现实。对于数字本身。 这就是实践中的古德哈特定律：当一项措施成为目标时，它就不再是一个好的措施。   由   提交/u/Sad-Interaction2478  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tvoa39/when_metrics_become_the_target/</guid>
-      <pubDate>Wed, 03 Jun 2026 12:46:05 GMT</pubDate>
+      <title>在 Elixir 中生成 OG 图像</title>
+      <link>https://www.reddit.com/r/programming/comments/1tvsz1n/generating_og_images_in_elixir/</link>
+      <description><![CDATA[ 由   提交/u/joladev  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tvsz1n/generating_og_images_in_elixir/</guid>
+      <pubDate>Wed, 03 Jun 2026 15:34:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>每个字节都很重要</title>
+      <link>https://www.reddit.com/r/programming/comments/1tvrvv4/every_byte_matters/</link>
+      <description><![CDATA[ 由   提交 /u/lelanthran   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tvrvv4/every_byte_matters/</guid>
+      <pubDate>Wed, 03 Jun 2026 14:57:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Sebastian Lague] - 我尝试优化我的魔方解算器</title>
+      <link>https://www.reddit.com/r/programming/comments/1tvrg4k/sebastian_lague_i_tried_optimizing_my_rubiks_cube/</link>
+      <description><![CDATA[ 由   提交 /u/Pink401k   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tvrg4k/sebastian_lague_i_tried_optimizing_my_rubiks_cube/</guid>
+      <pubDate>Wed, 03 Jun 2026 14:42:39 GMT</pubDate>
     </item>
     <item>
       <title>在 Java 中解析 10 亿行的速度有多快？ – 疯狂速度测试 • Roy van Rijn</title>
@@ -32,13 +46,6 @@
       <description><![CDATA[ 由   提交 /u/ReasonableLoss6814   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tvncnr/light_cone_consistency_ill_take_one_scoop_of_each/</guid>
       <pubDate>Wed, 03 Jun 2026 12:07:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>延迟集装箱装载的工作原理</title>
-      <link>https://www.reddit.com/r/programming/comments/1tvmx6g/how_lazy_container_loading_works/</link>
-      <description><![CDATA[ 由   提交 /u/jrdi_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tvmx6g/how_lazy_container_loading_works/</guid>
-      <pubDate>Wed, 03 Jun 2026 11:48:06 GMT</pubDate>
     </item>
     <item>
       <title>Rockstar 如何将整个城市放入 PlayStation 2 内存中</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[ 由   提交/u/yangzhou1993  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1tuwjjf/modern_python_profiling_in_2026_from_cprofile_to/</guid>
       <pubDate>Tue, 02 Jun 2026 16:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>派生类型擦除</title>
-      <link>https://www.reddit.com/r/programming/comments/1tuvqp7/deriving_type_erasure/</link>
-      <description><![CDATA[曾经看过 std::any 并想知道幕后发生了什么吗？在令人生畏的界面之下是一种称为类型擦除的经典技术：隐藏在小型、统一的包装器后面的具体类型。 从虚拟函数和模板等熟悉的工具开始，我们将构建一个最小的 std::any。最后，您将清楚地了解类型擦除在幕后的工作原理。   由   提交/u/david-alvarez-rosa  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1tuvqp7/deriving_type_erasure/</guid>
-      <pubDate>Tue, 02 Jun 2026 16:15:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
