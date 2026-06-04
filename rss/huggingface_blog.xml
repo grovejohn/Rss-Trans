@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Wed, 03 Jun 2026 22:56:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 11:42:31 GMT</lastBuildDate>
+    <item>
+      <title>用于 Nemotron 预训练的任务种子综合问答生成</title>
+      <link>https://huggingface.co/blog/nvidia/task-seeded-sdg</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/nvidia/task-seeded-sdg</guid>
+      <pubDate>Thu, 04 Jun 2026 11:24:53 GMT</pubDate>
+    </item>
     <item>
       <title>超越聊天机器人的直接偏好优化</title>
       <link>https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots</link>
@@ -41,13 +48,6 @@
       <pubDate>Mon, 01 Jun 2026 13:51:18 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎 NVIDIA Cosmos 3：首个用于物理 AI 推理和行动的开放式全模型</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai</guid>
-      <pubDate>Mon, 01 Jun 2026 04:44:55 GMT</pubDate>
-    </item>
-    <item>
       <title>PyTorch 中的分析（第 1 部分）：torch.profiler 初学者指南</title>
       <link>https://huggingface.co/blog/torch-profiler</link>
       <description><![CDATA[]]></description>
@@ -55,7 +55,7 @@
       <pubDate>Fri, 29 May 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>Reachy Mini 完全本土化</title>
+      <title>Reachy Mini 完全本地化</title>
       <link>https://huggingface.co/blog/local-reachy-mini-conversation</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/local-reachy-mini-conversation</guid>

@@ -4,90 +4,62 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 04 Jun 2026 07:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 11:46:10 GMT</lastBuildDate>
     <item>
-      <title>点BGE</title>
-      <link>https://www.producthunt.com/products/dotbge</link>
+      <title>Windows 版困惑个人电脑</title>
+      <link>https://www.producthunt.com/products/perplexity-personal-computer-for-windows</link>
       <description><![CDATA[
-            适用于 iOS、CLI 和代理的本地优先文件加密
+            在 Windows 上跨本地文件和应用程序运行 AI 代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dotbge</guid>
-      <pubDate>Thu, 04 Jun 2026 06:40:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/perplexity-personal-computer-for-windows</guid>
+      <pubDate>Wed, 03 Jun 2026 16:32:40 GMT</pubDate>
     </item>
     <item>
-      <title>智能终端</title>
-      <link>https://www.producthunt.com/products/microsoft-terminal</link>
+      <title>谷歌杰玛 4 12B</title>
+      <link>https://www.producthunt.com/products/gemma-4-12b</link>
       <description><![CDATA[
-            具有本机代理集成的 Windows 终端
+            使用无编码器架构在本地运行多模式人工智能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/microsoft-terminal</guid>
-      <pubDate>Thu, 04 Jun 2026 04:39:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/gemma-4-12b</guid>
+      <pubDate>Wed, 03 Jun 2026 16:15:55 GMT</pubDate>
     </item>
     <item>
-      <title>聊天飞行员</title>
-      <link>https://www.producthunt.com/products/chatpilot-2</link>
+      <title>海象记忆</title>
+      <link>https://www.producthunt.com/products/walrus-memory</link>
       <description><![CDATA[
-            批量删除、存档您的 ChatGPT 对话并为其添加时间戳
+            使代理能够跨应用程序+会话保留上下文和工作
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/chatpilot-2</guid>
-      <pubDate>Wed, 03 Jun 2026 20:47:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/walrus-memory</guid>
+      <pubDate>Wed, 03 Jun 2026 15:40:08 GMT</pubDate>
     </item>
     <item>
-      <title>Baseash语义层</title>
-      <link>https://www.producthunt.com/products/basedash</link>
+      <title>敏锐的代码</title>
+      <link>https://www.producthunt.com/products/keen-code-a-cli-coding-agent</link>
       <description><![CDATA[
-            定义一次指标。到处使用它们。
+            由代理构建的上下文高效的 CLI 编码代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/basedash</guid>
-      <pubDate>Wed, 03 Jun 2026 18:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>西格纳拉</title>
-      <link>https://www.producthunt.com/products/cignara</link>
-      <description><![CDATA[
-            AI 代理为财富 500 强级客户提供支持
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/cignara</guid>
-      <pubDate>Wed, 03 Jun 2026 17:38:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkingMem — 图形原生 RAG 引擎</title>
-      <link>https://www.producthunt.com/products/linkingmem-graph-native-rag-engine</link>
-      <description><![CDATA[
-            LinkingMem — 图形原生 RAG 引擎
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/linkingmem-graph-native-rag-engine</guid>
-      <pubDate>Wed, 03 Jun 2026 16:50:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/keen-code-a-cli-coding-agent</guid>
+      <pubDate>Wed, 03 Jun 2026 14:44:19 GMT</pubDate>
     </item>
     <item>
       <title>克洛伊 (Chloe)</title>
@@ -188,6 +160,20 @@
       <pubDate>Mon, 01 Jun 2026 08:52:42 GMT</pubDate>
     </item>
     <item>
+      <title>用于 Chrome 的 Kai</title>
+      <link>https://www.producthunt.com/products/kai-for-chrome</link>
+      <description><![CDATA[
+            本地会议转录，无需帐户
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/kai-for-chrome</guid>
+      <pubDate>Tue, 26 May 2026 18:16:18 GMT</pubDate>
+    </item>
+    <item>
       <title>应用威兹</title>
       <link>https://www.producthunt.com/products/appwizzy</link>
       <description><![CDATA[
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/mailwarm</guid>
       <pubDate>Mon, 11 May 2026 08:28:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Extella.AI</title>
+      <link>https://www.producthunt.com/products/extella-ai</link>
+      <description><![CDATA[
+            发展和构建可重用系统的代理平台 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/extella-ai</guid>
+      <pubDate>Tue, 07 Apr 2026 11:12:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
