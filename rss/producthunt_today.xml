@@ -4,34 +4,62 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 03 Jun 2026 22:59:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 02:17:32 GMT</lastBuildDate>
     <item>
-      <title>复制品</title>
-      <link>https://www.producthunt.com/products/replicas</link>
+      <title>作曲家</title>
+      <link>https://www.producthunt.com/products/composer-3</link>
       <description><![CDATA[
-            在云中运行 Claude Code 和 Codex
+            为您、您的团队和您的经纪人提供多人游戏降价。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/replicas</guid>
-      <pubDate>Wed, 03 Jun 2026 02:10:40 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/composer-3</guid>
+      <pubDate>Wed, 03 Jun 2026 06:41:12 GMT</pubDate>
     </item>
     <item>
-      <title>镇</title>
-      <link>https://www.producthunt.com/products/town</link>
+      <title>文件夹加</title>
+      <link>https://www.producthunt.com/products/folderplus</link>
       <description><![CDATA[
-            助手会了解您的工作方式，然后开始工作。 
+            无需打开即可查看任何文件夹
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/town</guid>
-      <pubDate>Tue, 02 Jun 2026 22:26:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/folderplus</guid>
+      <pubDate>Tue, 02 Jun 2026 19:16:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>林克兹</title>
+      <link>https://www.producthunt.com/products/linkeezy</link>
+      <description><![CDATA[
+            LinkedIn 收件箱和提要没有混乱。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/linkeezy</guid>
+      <pubDate>Tue, 02 Jun 2026 18:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>回声流</title>
+      <link>https://www.producthunt.com/products/echoflow-2</link>
+      <description><![CDATA[
+            原生 Android AI 聊天，聊天内容存储在本地
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/echoflow-2</guid>
+      <pubDate>Tue, 02 Jun 2026 17:18:19 GMT</pubDate>
     </item>
     <item>
       <title>任务GPT</title>
@@ -48,18 +76,32 @@
       <pubDate>Tue, 02 Jun 2026 15:24:37 GMT</pubDate>
     </item>
     <item>
-      <title>向前</title>
-      <link>https://www.producthunt.com/products/forward-10</link>
+      <title>光采套件</title>
+      <link>https://www.producthunt.com/products/radiancekit</link>
       <description><![CDATA[
-            通过一条命令将您的 API 安装到客户的代码库中
+            在 Mac 上将照片转换为 3D 高斯斑点
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/forward-10</guid>
-      <pubDate>Tue, 02 Jun 2026 12:40:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/radiancekit</guid>
+      <pubDate>Tue, 02 Jun 2026 12:39:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理程序</title>
+      <link>https://www.producthunt.com/products/handler</link>
+      <description><![CDATA[
+            在生成时像堆叠 PR 一样审查 AI 编辑。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/handler</guid>
+      <pubDate>Tue, 02 Jun 2026 12:37:56 GMT</pubDate>
     </item>
     <item>
       <title>巴弗拉尔</title>
@@ -76,6 +118,20 @@
       <pubDate>Tue, 02 Jun 2026 10:51:35 GMT</pubDate>
     </item>
     <item>
+      <title>盒子盒子</title>
+      <link>https://www.producthunt.com/products/boxbox</link>
+      <description><![CDATA[
+            适用于 Linux 家庭实验室和 NAS 型服务器的文件管理器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/boxbox</guid>
+      <pubDate>Tue, 02 Jun 2026 09:49:52 GMT</pubDate>
+    </item>
+    <item>
       <title>品牌背景 API</title>
       <link>https://www.producthunt.com/products/brandfetch</link>
       <description><![CDATA[
@@ -90,46 +146,18 @@
       <pubDate>Tue, 02 Jun 2026 09:33:35 GMT</pubDate>
     </item>
     <item>
-      <title>超级日志</title>
-      <link>https://www.producthunt.com/products/superlog</link>
+      <title>啤酒射击</title>
+      <link>https://www.producthunt.com/products/beershot</link>
       <description><![CDATA[
-            让您的产品没有错误
+            Windows 屏幕录制工作室
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/superlog</guid>
-      <pubDate>Mon, 01 Jun 2026 23:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>弗兰兹6号</title>
-      <link>https://www.producthunt.com/products/franz-messenger</link>
-      <description><![CDATA[
-            您所有的消息应用程序都在一个窗口中 - 带有私人人工智能
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/franz-messenger</guid>
-      <pubDate>Mon, 01 Jun 2026 19:56:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用链接</title>
-      <link>https://www.producthunt.com/products/uselink</link>
-      <description><![CDATA[
-            托管您的 html、共享链接并获取评论
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/uselink</guid>
-      <pubDate>Mon, 01 Jun 2026 10:35:49 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/beershot</guid>
+      <pubDate>Tue, 02 Jun 2026 09:05:24 GMT</pubDate>
     </item>
     <item>
       <title>InsForge 后端分支</title>
@@ -160,20 +188,6 @@
       <pubDate>Sun, 31 May 2026 05:36:31 GMT</pubDate>
     </item>
     <item>
-      <title>音频</title>
-      <link>https://www.producthunt.com/products/audien-to</link>
-      <description><![CDATA[
-            将录音变成源链接的作品
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/audien-to</guid>
-      <pubDate>Sun, 31 May 2026 03:49:00 GMT</pubDate>
-    </item>
-    <item>
       <title>适合步行</title>
       <link>https://www.producthunt.com/products/walkable-2</link>
       <description><![CDATA[
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/walkable-2</guid>
       <pubDate>Thu, 28 May 2026 22:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>埃伦塔利亚</title>
-      <link>https://www.producthunt.com/products/elentaria</link>
-      <description><![CDATA[
-            您的 GTM：从诊断到执行
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/elentaria</guid>
-      <pubDate>Mon, 18 May 2026 10:10:10 GMT</pubDate>
     </item>
     <item>
       <title>光谱仪</title>
