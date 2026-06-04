@@ -4,13 +4,20 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Thu, 04 Jun 2026 11:42:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:25:49 GMT</lastBuildDate>
     <item>
-      <title>用于 Nemotron 预训练的任务种子综合问答生成</title>
-      <link>https://huggingface.co/blog/nvidia/task-seeded-sdg</link>
+      <title>如何针对您的语言、领域或口音微调 Nemotron 3.5 ASR</title>
+      <link>https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr</link>
       <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/nvidia/task-seeded-sdg</guid>
-      <pubDate>Thu, 04 Jun 2026 11:24:53 GMT</pubDate>
+      <guid>https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr</guid>
+      <pubDate>Thu, 04 Jun 2026 12:59:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>EVA-Bench Data 2.0：3个领域、121个工具、213个场景</title>
+      <link>https://huggingface.co/blog/ServiceNow-AI/eva-bench-data</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ServiceNow-AI/eva-bench-data</guid>
+      <pubDate>Thu, 04 Jun 2026 12:24:58 GMT</pubDate>
     </item>
     <item>
       <title>超越聊天机器人的直接偏好优化</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2</guid>
       <pubDate>Thu, 14 May 2026 18:55:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>解锁连续批处理中的异步性</title>
-      <link>https://huggingface.co/blog/continuous_async</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/continuous_async</guid>
-      <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

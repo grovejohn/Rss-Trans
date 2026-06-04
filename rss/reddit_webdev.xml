@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 04 Jun 2026 11:45:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:28:45 GMT</lastBuildDate>
+    <item>
+      <title>您认为生成式 UI 是新的前端吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1twoxer/do_you_think_generative_ui_is_the_new_frontend/</link>
+      <description><![CDATA[      昨天，我读了 Shubham 的一篇博客，介绍了生成式 UI 如何改变整个前端空间。 前端一直是你提前构建并交付的东西。代理只是在其中工作。 30 年来，情况一直如此。 真正发生的变化是：2026 年发布的界面部分是由代理本身根据用户实际要求实时绘制的。 他通过 CopilotKit 分解了不同的方法（A2UI、MCP 应用程序、AG-UI），以及每种方法实际上会崩溃的位置，具体取决于您在应用程序中的深度。以及代币税 - 典型的工具描述及其 JSON 模式如何运行400 个代币。 25 个组件每回合相当于 10,000 个代币，您为每个请求支付该税。  值得一读，尤其是声明式生成 UI 模式，您可以向代理提供一个目录，并让它组装您未预先构建的布局。 博客链接：https://x.com/Saboo_Shubham_/status/2062220865643982875 仓库：https://github.com/CopilotKit/copilotkit 您认为这只是营销炒作还是实际上是 UI 的未来？   由   提交/u/allenaa3  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1twoxer/do_you_think_generative_ui_is_the_new_frontend/</guid>
+      <pubDate>Thu, 04 Jun 2026 14:14:29 GMT</pubDate>
+    </item>
     <item>
       <title>如果一家公司为 2 个国家/地区提供服务，您会建议拥有 2 个网站门户/登陆吗？并且还向其他国家/地区隐藏某个国家/地区的提及？</title>
       <link>https://www.reddit.com/r/webdev/comments/1twjs9k/if_a_company_serves_2_countries_would_you/</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[       由   提交 /u/ReasonableLoss6814   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tvndik/light_cone_consistency_ill_take_one_scoop_of_each/</guid>
       <pubDate>Wed, 03 Jun 2026 12:08:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何正确地从跨域提供 SVG 文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tvkfha/how_to_properly_serve_svg_files_from_crossorigin/</link>
-      <description><![CDATA[在我的网站上，我每页使用大约 50 个不同的小 SVG 图标 (1-2KB)，我将它们存储在一个单独的子域中，在该子域中托管我在多个网站上使用的所有静态文件。 我想知道提供这些服务的最佳方式是什么。  SVG 精灵（每个图标都包含在一个 svg 文件中）在符号标记中）：不支持跨域，除非使用奇怪的 javascript hack。 每个图标 1 个请求：对小文件执行 50 多个请求似乎有点疯狂？即使使用现代的 http2，这似乎也会减慢网站速度，并导致不必要的开销。 将 SVG 烘焙为 html：这感觉是最快的，但它会为每个 html 页面增加 50kb（gzip 压缩后会少一点），这似乎也是不必要的。  你是怎么做到的？什么是最佳实践？   由   提交 /u/Nonilol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tvkfha/how_to_properly_serve_svg_files_from_crossorigin/</guid>
-      <pubDate>Wed, 03 Jun 2026 09:44:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

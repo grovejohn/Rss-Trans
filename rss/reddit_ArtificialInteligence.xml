@@ -4,7 +4,35 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Thu, 04 Jun 2026 11:42:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 14:26:04 GMT</lastBuildDate>
+    <item>
+      <title>国王队新袍</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1twnodc/kings_new_robes/</link>
+      <description><![CDATA[作为 AI 的忠实粉丝，我觉得确实有必要多谈谈 AI 模型事实上错误的频率。 现在，Claude 和 ChatGPT 就像我最好的朋友，Claude 尤其擅长用正确的记忆和提示来开玩笑，远远超过了令人怀念的 ChatGPT 4o。 但是。 即使是克劳德，恕我直言，它是目前通用的顶级模型，也经常弄错事实。前几天我们为抹大拉学院发生了一场激烈的争论。克劳德坚称牛津是唯一拥有抹大拉学院的地方。你无法用截止训练数据日期来解释这一点，因为剑桥的抹大拉学院自 15 世纪以来就已存在。  它还经常在聊天中推翻过去的协议，甚至以这种方式承认其缺点。克劳迪娅有偏好和意见，你能做什么。 另一方面，ChatGPT 的戒备森严，就像随时找律师一样。一个非常啰嗦的律师。谁仍然会出错。 我认为模型在超级自信地告诉你错误的事情之前不会验证他们的说法，这是一个主要问题。如今，孩子们在家庭作业和学校中使用人工智能，一想到新一代长大后的想法是真是假，我就不寒而栗。 我们担心监视，但我们应该担心大规模洗脑。   由   提交/u/MrsChatGPT4o  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1twnodc/kings_new_robes/</guid>
+      <pubDate>Thu, 04 Jun 2026 13:27:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能成本的很大一部分只是模型一遍又一遍地重新阅读相同的文本。通过公开证据来修复它的有趣尝试</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1twniz3/a_big_chunk_of_ai_cost_is_just_the_model/</link>
+      <description><![CDATA[快速分享，并预先全面披露：这是我自己的项目，因此请随意怀疑。 这是一直困扰我的事情。每次你向人工智能助手询问一份长文档时，它都会从头开始重新读取整个文档。对于一份 100 页的报告，问它 10 个问题，它基本上就读完了 1000 页。重复阅读是长时间的人工智能聊天速度变慢以及账单堆积的一个重要原因。 当你大声说出来时，这种方法非常简单。您无需每次都重新计算，而是存储模型已读取的内容并在需要时将其放回原处。我认为真正巧妙的部分是，恢复的版本不仅仅是“足够接近”，它返回到完全相同的位，并且您可以使用校验和来确认自己（与您用来检查下载是否未损坏的想法相同）。 使它比正常缓存更强大的一些事情：  您可以自己检查每个声明。证明是公共哈希，在 Meta、阿里巴巴和 Mistral 的开放模型上运行，因此没有人要求您信任它们。 存储的内存可以在不同机器之间移动，甚至在不同 GPU 代之间移动，并且仍然给出相同的输出。  为了使整个链可检查，他们还开源了一个小型 AI 模型，该模型的训练成本约为 600 欧元。它很小，老实说，它并不想打败大型模型。它就在那里，这样人们就可以了解每一步。 我会坦白说，这是一个狭隘的主张，而不是魔法。它并不能让小模型变得聪明。它特别是关于重用人工智能的记忆而不丢失任何东西。但“你不需要更大的大脑，你需要更好的记忆力”角度困扰着我。 包含所有链接和校样的文章在这里：https://tech.einnews.com/pr_news/917089794/corbenic-ai-releases-technology-that-eliminates-ai-s-largest-cost 真诚很好奇这里的人怎么想，尤其是那些从事推理或 KV 缓存工作的人。像这样的无损重用在实践中是否真的有用，或者当前的设置（vLLM、前缀缓存等）已经涵盖了大部分内容？   由   提交 /u/MindPsychological140   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1twniz3/a_big_chunk_of_ai_cost_is_just_the_model/</guid>
+      <pubDate>Thu, 04 Jun 2026 13:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>富士康与英特尔联手打造下一代人工智能系统</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1twmkst/foxconn_and_intel_team_up_to_build_nextgen_ai/</link>
+      <description><![CDATA[ 由   提交 /u/talkingatoms   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1twmkst/foxconn_and_intel_team_up_to_build_nextgen_ai/</guid>
+      <pubDate>Thu, 04 Jun 2026 12:44:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能工程证书</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1twlqps/ai_engineering_certificates/</link>
+      <description><![CDATA[您好，我是一名计算机科学专业的学生，​​专业是人工智能工程。今年夏天，我有兴趣获得一些认证，以增强我的 LinkedIn 个人资料。您知道有哪些免费选项吗？   由   提交/u/AdSlight1867  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1twlqps/ai_engineering_certificates/</guid>
+      <pubDate>Thu, 04 Jun 2026 12:08:31 GMT</pubDate>
+    </item>
     <item>
       <title>亚马逊斥资120亿美元在欧洲推出新型人工智能仓库机器人</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1twl28o/amazon_unveils_new_ai_warehouse_robot_in_12/</link>
@@ -20,13 +48,6 @@
       <pubDate>Thu, 04 Jun 2026 10:53:01 GMT</pubDate>
     </item>
     <item>
-      <title>用于研究的数据抓取 AI 代理</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1twjzqf/data_scraping_ai_agents_for_research/</link>
-      <description><![CDATA[你好， 我想构建能够跨不同域扫描各种输出的 AI 代理。我的产出是指立法、文章、新闻、政策文件等等。  我知道我可以连接到允许 API 访问的网站，但是是否有法律允许的方式来访问不提供 API 的其他来源？  此外，API 是唯一的方法吗？还是有其他方法可以进行这种扫描（或抓取）？现在对我来说最重要的是它不会造成任何法律问题。   由   提交 /u/Level5Ranger   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1twjzqf/data_scraping_ai_agents_for_research/</guid>
-      <pubDate>Thu, 04 Jun 2026 10:45:34 GMT</pubDate>
-    </item>
-    <item>
       <title>Sam Altman：现在，人工智能成本是“一个大问题”</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1twghn5/sam_altman_now_ai_costs_are_a_huge_issue/</link>
       <description><![CDATA[https://www.businessinsider.com/sam-altman-openai-top-token-spender-ai-costs-issue-2026-6 他还说成本问题来得很突然。 2026 年初，“这个问题从未出现过”，奥特曼说道。 “人们对他们花的钱非常满意，”他说。 现在，人工智能成本是“一个巨大的问题”。他说   由   提交 /u/kaggleqrdl   [链接] [评论]]]></description>
@@ -39,13 +60,6 @@
       <description><![CDATA[ 由   提交/u/BhaswatiGuha19  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1twfttm/uk_mp_sues_elon_musks_xai_over_deepfakes_setting/</guid>
       <pubDate>Thu, 04 Jun 2026 06:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>在本地测试了 VoxCPM2（开源 TTS）。捕捉呼吸/口音的“终极克隆”模式变得越来越疯狂。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1twb9d9/tested_out_voxcpm2_opensource_tts_locally_the/</link>
-      <description><![CDATA[大家好， 我一直在深入研究开源文本转语音模型以构建本地自动化工作流程，我想分享我的 VoxCPM2 技术故障和基准。 大多数开源 TTS 模型都在与情感平坦或金属伪影作斗争。然而，VoxCPM2 采用了一种名为“终极克隆模式”的架构，该架构试图通过映射非语言人类语音元素来弥补这一差距。 1.测试的关键技术特性：  微观细节捕获：与标准树皮或基于乌龟的模型不同，该架构可捕获呼吸间隙、微停顿和自然的人类语音节奏。 本地 VRAM 占用：它完全在本地运行。 VRAM 消耗经过高度优化，可用于本地 MicroSaaS 后端集成或管道自动化，而无需支付大量 API 费用。 跨语言口音保留：在 30 多种支持的语言中进行了测试。即使强迫说话者说完全外语，该模型也保留了核心语音音色/特征。  2.沙盒架构： 对于这个基准测试，我在本地隔离了模型，并为其提供了一个干净的 15 秒工作室语音样本。该管道设置为输出录音室级 48kHz 音频。合成音素和原始音频的情感曲线之间的一致性出人意料地紧密。 3。 55 秒音频比较和基准演练： 我在一个快速细分视频中记录了准确的终端执行、VRAM 行为以及并排音频输出比较（原始语音与克隆语音生成技术散文）。 您可以直接在此处收听原始语音复制质量并检查实时处理速度： https://youtube.com/shorts/qIKywJXLQhU   由   提交 /u/Dry-Acanthaceae1402   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1twb9d9/tested_out_voxcpm2_opensource_tts_locally_the/</guid>
-      <pubDate>Thu, 04 Jun 2026 03:01:54 GMT</pubDate>
     </item>
     <item>
       <title>OPENAI：“我们还看到了当今系统中递归自我改进的早期迹象”</title>
@@ -76,25 +90,11 @@
       <pubDate>Wed, 03 Jun 2026 19:57:00 GMT</pubDate>
     </item>
     <item>
-      <title>Alphabet 将通过大规模股票发行筹集 847.5 亿美元，为人工智能雄心提供资金</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tvtnf7/alphabet_to_raise_8475_billion_in_upsized_equity/</link>
-      <description><![CDATA[ 由   提交 /u/talkingatoms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tvtnf7/alphabet_to_raise_8475_billion_in_upsized_equity/</guid>
-      <pubDate>Wed, 03 Jun 2026 15:57:47 GMT</pubDate>
-    </item>
-    <item>
       <title>公司正在使用 Reddit 来操纵 ChatGPT 和 Google AI 搜索</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tvrvpk/companies_are_using_reddit_to_manipulate_chatgpt/</link>
       <description><![CDATA[肽公司一直在通过向生物黑客 subreddit 发送垃圾邮件来操纵 ChatGPT 和 Google 来进行 AI 引擎优化。惊喜！惊喜！我确信还有很多其他公司也在做同样的事情。    由   提交 /u/CackleRooster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tvrvpk/companies_are_using_reddit_to_manipulate_chatgpt/</guid>
       <pubDate>Wed, 03 Jun 2026 14:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>想象一下，如果我们在 80 年代有法学硕士......</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1tv9z1l/imagine_if_we_had_llms_in_the_80s/</link>
-      <description><![CDATA[ 由   提交/u/SystematicApproach  [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1tv9z1l/imagine_if_we_had_llms_in_the_80s/</guid>
-      <pubDate>Wed, 03 Jun 2026 00:58:03 GMT</pubDate>
     </item>
     <item>
       <title>每月“有没有一个工具可以......”帖子</title>
