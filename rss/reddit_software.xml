@@ -4,7 +4,35 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的东西。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 06 Jun 2026 13:03:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 16:01:36 GMT</lastBuildDate>
+    <item>
+      <title>我正在构建 Mnemo，一个免费的本地优先学习应用程序，并正在寻找一个小团队/反馈</title>
+      <link>https://www.reddit.com/r/software/comments/1tyimnq/im_building_mnemo_a_free_localfirst_study_app_and/</link>
+      <description><![CDATA[大家好。 我正在构建 Mnemo，一个免费开源的本地优先学习应用程序。 GitHub： https://github.com/onemnemo/mnemo 网站： https://www.mnemo.one/ 它是用C# / .NET / Avalonia构建的，专注于本地优先的学习工作流程、基于块的笔记、抽认卡、思维导图、自定义渲染、主题和 AI/RAG 功能。 大量工作已进入基础：  基于模块化异步的架构 自定义渲染逻辑 内部 LaTeX 渲染 自定义控件 按键绑定注册 模块注册 RAG 管道 AI 编排 跨平台支持  我现在正在寻找一些想要更密切地合作的人一个小团队。 GitHub 的贡献总是受欢迎的，但我对那些想要更多实践、讨论方向、掌握应用程序部分并帮助长期塑造它的人特别感兴趣。 我最需要帮助的领域是 UI/UX。我可以构建系统和架构，但我真的很想与喜欢产品设计、交互设计、布局、可访问性以及让复杂功能变得简单的人一起工作。尽管我对任何想要贡献的人持开放态度。 该项目目前没有资金。 Mnemo 是免费和开源的，核心应用程序旨在保持免费。 如果听起来有趣，请随意发表评论，打开 GitHub 讨论，通过 torstfugl 在 Discord 上与我联系，或发送电子邮件 team@mnemo.one。   由   提交 /u/CCVShadow   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tyimnq/im_building_mnemo_a_free_localfirst_study_app_and/</guid>
+      <pubDate>Sat, 06 Jun 2026 14:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以更改 Executor 3 上的狙击键 dpi</title>
+      <link>https://www.reddit.com/r/software/comments/1tyhi8u/can_i_change_the_sniper_key_dpi_on_the_executor_3/</link>
+      <description><![CDATA[其他软件（据我所知）有改变dpi的功能，但我似乎找不到标题中提到的鼠标，我是瞎了还是绊倒了？   由   提交 /u/Slava473277   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tyhi8u/can_i_change_the_sniper_key_dpi_on_the_executor_3/</guid>
+      <pubDate>Sat, 06 Jun 2026 13:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>RE-KORD 一款开源一体化音乐软件 - v3.5</title>
+      <link>https://www.reddit.com/r/software/comments/1tyhg9q/rekord_an_open_source_allinone_software_for_your/</link>
+      <description><![CDATA[大家早上好，今天我想向您介绍 RE-KORD，这是我几个月来开发的软件，用于以不同于其他应用程序的方式管理、下载、播放、游戏和体验音乐。今天我已将版本更新至 3.5！ 网站链接：https://re-kord.com 快速常见问题解答： - 没有 AI 功能 - 完全免费 - 它不是纯粹基于 AI 的；我是一名专业开发人员，使用 Cursor 来加快我的工作速度。事实上，第一次提交已经是一个工作版本。 - 我在 re-kord.com - 上的教程和常见问题解答部分解释了该软件的许多方面，为什么不是 Navidrome/其他？我在网站的常见问题解答中对此进行了解释。 我可以解答任何问题或请求。该软件仍在开发中。 3.5 版适用于 Windows 和 Linux（无需安装）。 请随意在 github 上为您发现的错误和/或您想要的功能创建问题，任何建议和反馈都非常有帮助！  P.S.  我正在寻找至少一名拥有大型音乐库（5000 首曲目或更多）的测试人员，所以如果您想尝试一下并给我有关大型库的反馈，这将是一个巨大的帮助！！！我正在寻找至少一名拥有大型音乐库（5000 首曲目或更多）的测试人员，所以如果您想尝试一下并给我关于大型库的反馈，这将是一个巨大的帮助！    由   提交/u/After-Lawativity9794   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tyhg9q/rekord_an_open_source_allinone_software_for_your/</guid>
+      <pubDate>Sat, 06 Jun 2026 13:35:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何运行同一游戏的多个副本以便我可以登录多个帐户？</title>
+      <link>https://www.reddit.com/r/software/comments/1tygzwe/how_to_run_multiple_copies_of_same_game_so_i_can/</link>
+      <description><![CDATA[我玩《Last War Survival》，这是一款 MMO 游戏，他们有一个 Windows/PC 应用程序，可以在我的计算机上正常运行。安装程序位于 https://www.lastwar.com/Download/Micro/LastWarDownloader.exe 。它可以免费下载和播放。 我想同时运行多个帐户。所以我需要 3 个游戏副本在同一台计算机上运行，​​并且全部登录到不同的帐户。在游戏中更改帐户并不容易（可能将其存储在注册表中，每次更改都需要电子邮件验证）。另外，我想同时运行它们，所以我需要在同一台计算机上同时打开游戏的 3 个副本。 关于可以帮助实现此目的的软件的想法？ 我尝试在 Sandboxie 和 PortableXE 中运行游戏的安装程序，但它们都产生了不好的结果：游戏在安装程序打开之前崩溃，并且游戏分别进入安装程序重新启动循环。 Windows 10   由   提交/u/AdmiralAdama99  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1tygzwe/how_to_run_multiple_copies_of_same_game_so_i_can/</guid>
+      <pubDate>Sat, 06 Jun 2026 13:14:48 GMT</pubDate>
+    </item>
     <item>
       <title>foob​​ar2000 的替代品</title>
       <link>https://www.reddit.com/r/software/comments/1tyg3c0/alternatives_to_foobar2000/</link>
@@ -22,14 +50,14 @@
     <item>
       <title>[WINDOWS] Reddit 壁纸更换器的替代品</title>
       <link>https://www.reddit.com/r/software/comments/1tyc0me/windows_alternatives_to_reddit_wallpaper_changer/</link>
-      <description><![CDATA[曾经有 Rawns 的令人惊叹的 Reddit-Wallpaper-Changer。它已停产。 然后是 Mamiglia 的 Reddit-Wallpaper。它在一年前就停产了，但直到一周前才工作。 有人建议 Display Fusion，但它主要是付费的，而不是我正在寻找的东西：一个来自 Reddit 的简单开源壁纸抓取器，允许添加尽可能多的社区并提供讨论的链接。 我感到被抛弃和失望。有人知道一些可行的替代方案吗？   由   提交/u/clamarcio  [链接] [评论]]]></description>
+      <description><![CDATA[曾经有过 Rawns 的令人惊叹的 Reddit-Wallpaper-Changer。它已停产。 然后是 Mamiglia 的 Reddit-Wallpaper。它在一年前就停产了，但直到一周前才工作。 有人建议 Display Fusion ，但它主要是付费的，而不是我正在寻找的东西：一个来自 Reddit 的简单开源壁纸抓取器，允许添加尽可能多的社区并提供讨论的链接。 我感到被抛弃和失望。有人知道一些可行的替代方案吗？   由   提交/u/clamarcio  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1tyc0me/windows_alternatives_to_reddit_wallpaper_changer/</guid>
       <pubDate>Sat, 06 Jun 2026 08:51:32 GMT</pubDate>
     </item>
     <item>
       <title>Windows Blazin IPTV 播放器</title>
       <link>https://www.reddit.com/r/software/comments/1ty788r/windows_blazin_iptv_player/</link>
-      <description><![CDATA[大家好， 您可能通过我的开源 IPTV 播放器认识了我，由于您的精彩反馈，该播放器已经获得了大约 45,000 次下载！我一直在努力开发新的东西，我很高兴与大家分享 Blazin IPTV 播放器现已在 Microsoft Store 上正式上线。 我还包含了之前的 IPTV 播放器开源文件这里  我想为 Windows 构建一个真正的一体化播放器，它可以处理您扔给它的任何设置，同时保持电视指南完全井然有序。 主要功能： 多重登录：完全支持 Xtream 代码、Stalker Portals、Stb Mac、和常规 M3U URL/播放列表文件。 下载：电影和连续剧并保存到您的电脑。 完整的 EPG 集成：无缝加载和查看您的电子节目指南，这样您就不会错过您喜欢的时间表。 灵活播放：使用本机内部媒体播放器或将流传输到您喜欢的外部媒体播放器。 干净UI：专门针对 Windows 桌面导航进行了优化。 我希望确保它完美适合您的特定播放列表，因此我启用了7 天免费试用，以便您可以无风险地测试每个功能。 👉 您可以直接通过官方Microsoft Store下载它链接。 我很想知道你的想法。请在下面的评论中留下任何反馈、功能请求或错误！   由   提交/u/cyogenus  [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 您可能通过我的开源 IPTV 播放器认识了我，由于您的精彩反馈，该播放器已经获得了大约 45,000 次下载！我一直在努力开发新的东西，我很高兴与大家分享 Blazin IPTV 播放器现已在 Microsoft Store 上正式上线。 我还包含了之前的 IPTV 播放器开源文件这里  我想为 Windows 构建一个真正的一体化播放器，它可以处理您扔给它的任何设置，同时保持您的电视指南完全井然有序。 主要功能： 多重登录：完全支持 Xtream 代码、Stalker Portals、Stb Mac、和常规 M3U URL/播放列表文件。 下载：电影和电视剧并保存到您的电脑。 完整的 EPG 集成：无缝加载和查看您的电子节目指南，这样您就不会错过您喜欢的时间表。 灵活播放：使用本机内部媒体播放器或将流传输到您喜欢的外部媒体播放器。 干净UI：专门针对 Windows 桌面导航进行了优化。 我希望确保它完美适合您的特定播放列表，因此我启用了7 天免费试用，以便您可以无风险地测试每个功能。 👉 您可以直接通过官方Microsoft Store下载它链接。 我很想知道你的想法。请在下面的评论中留下任何反馈、功能请求或错误！   由   提交/u/cyogenus  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ty788r/windows_blazin_iptv_player/</guid>
       <pubDate>Sat, 06 Jun 2026 04:24:11 GMT</pubDate>
     </item>
@@ -81,34 +109,6 @@
       <description><![CDATA[标题本身就说明了   由   提交 /u/FootballCorrect3793   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1txty5v/im_making_a_custom_os_does_anybody_have_a_custom/</guid>
       <pubDate>Fri, 05 Jun 2026 18:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我现在将开源截图工具EShot更新到v3.0.0，支持GIF+视频录制</title>
-      <link>https://www.reddit.com/r/software/comments/1txti98/i_updated_my_opensource_screenshot_tool_eshot_to/</link>
-      <description><![CDATA[嘿，几天前我在这里发布了 EShot 并得到了一些非常有用的反馈，所以我继续努力。 EShot 是一个用 C++/Qt 编写的免费/开源 Windows 屏幕截图工具。我最初构建它是因为我想要一些轻量级的注释、OCR、固定屏幕截图和自定义热键，而不需要走 Electron 路线。 v3.0.0 添加了： - 选定区域的 MP4 屏幕录制 - GIF 录制改进 - 桌面 + 麦克风音频支持 - 捕获屏幕内的快速设置抽屉 - 可自定义的注释快捷方式工具/动作 - 使用 Tesseract 提供更多 OCR 语言 - 更好地处理 OCR/FFmpeg 组件的安装程序 这仍然是一个个人开源项目，因此可能会发生错误，但我正在努力使其稳定且轻量级。 存储库：Github 希望得到反馈，尤其是关于新的视频/GIF 录制内容。   由   提交 /u/XBenoks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1txti98/i_updated_my_opensource_screenshot_tool_eshot_to/</guid>
-      <pubDate>Fri, 05 Jun 2026 18:38:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我一个小时前下载了这个 MPC，我想学习如何使用它。我认为它是MPC-HC，尽管我不确定也不知道如何检查。</title>
-      <link>https://www.reddit.com/r/software/comments/1txsmol/hey_guys_i_downloaded_this_mpc_an_hour_ago_and_i/</link>
-      <description><![CDATA[ https://preview.redd.it/tzaegf4s7i5h1.png?width=1272&amp;format=png&amp;auto=webp&amp;s=92fa2741448efb5fe379e8477f23e424982970e0 我需要一些帮助，不确定我到底在做什么，但我打开了这部老电影，我想看看最好的滤镜和着色器是什么，以帮助它获得尽可能最好的质量。字幕也很不合时宜...（它们是从 Fluxmovies 网站本地下载到我的电脑上的）-所以我想知道是否有任何方法可以使用此媒体播放器修复该问题？或者我是否可以通过此播放器下载它们？ P.S 你可以告诉我的任何内容都会有所帮助。我知道我不是棚子里最聪明的工具，但如果你告诉我基础知识或至少我可以在哪里学习，我愿意学习和尝试。对待我就像我基本上是 10 岁哈哈   由   提交 /u/ConcentrateUpper7450   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1txsmol/hey_guys_i_downloaded_this_mpc_an_hour_ago_and_i/</guid>
-      <pubDate>Fri, 05 Jun 2026 18:06:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>LaunchPad 已推出！</title>
-      <link>https://www.reddit.com/r/software/comments/1txsd48/launchpad_is_out/</link>
-      <description><![CDATA[ 由   提交 /u/SoloGameDev11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1txsd48/launchpad_is_out/</guid>
-      <pubDate>Fri, 05 Jun 2026 17:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种软件尽管看起来已经过时了 15 年，但您仍然每天使用？</title>
-      <link>https://www.reddit.com/r/software/comments/1txs1cp/which_software_do_you_still_use_daily_despite_it/</link>
-      <description><![CDATA[不是您每月启动一次的软件，而是您每天真正使用的软件。尽管有 UI，是什么让您无法切换？   由   提交 /u/Fit_Educator8969   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1txs1cp/which_software_do_you_still_use_daily_despite_it/</guid>
-      <pubDate>Fri, 05 Jun 2026 17:45:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
