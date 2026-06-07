@@ -4,20 +4,13 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 07 Jun 2026 11:01:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 13:16:00 GMT</lastBuildDate>
     <item>
-      <title>我构建了一个无服务器文件转换器和 OCR 工具，可以在浏览器中本地运行 100%。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tz908v/i_built_a_serverless_file_converter_and_ocr_tool/</link>
-      <description><![CDATA[厌倦了将您的私人文件上传到充满广告的粗略网站进行转换和 OCR？ EasyConvert 是一款无服务器媒体工具，它使用 FFmpeg WASM 在本地 100% 转换、压缩和 OCR 媒体文件。  链接：easy-convert.pages.dev Github：https://github.com/nihid7/easyconvert   由   提交/u/Fun-Time9529  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tz908v/i_built_a_serverless_file_converter_and_ocr_tool/</guid>
-      <pubDate>Sun, 07 Jun 2026 10:55:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>为浏览器构建了 DOM 注释层，团队可以在任何网页上的任何元素上留下类似概念的注释。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tz8vz7/built_a_dom_annotation_layer_for_the_browser/</link>
-      <description><![CDATA[   大家好！！分享我在过去一年中一直在构建的东西。 Leafy 允许您和您的团队对任何网页进行注释。您点击某个元素（或突出显示文本）、发表评论、@提及队友，他们就会收到通知。 评论锚定到页面的特定部分并在设备之间同步。 我见过人们使用它的用例： → 产品团队审查其产品的功能 → 设计师对实时原型留下反馈 → 研究人员一起注释源 → QA 标记登台环境中的错误 → 销售团队在 salesforce 上使用它 → 学生使用它在任何页面上标记有趣的内容以进行学习 您可以将团队组织成“花园” （我知道，奇怪的命名）。免费套餐最多支持 3 个花园，每个花园有 5 名成员。 我希望得到任何反馈！尤其是那些让人感觉破损或缺失的内容。 Chrome 网上应用店：https://chromewebstore.google.com/detail/leafy-annotate-the-web-to/doohbmfpjanoimbigjbjocanpenbfkkh  https://preview.redd.it/4riy4haubu5h1.png?width=908&amp;format=png&amp;auto=webp&amp;s=69ecac6f3bef7a4843c58095c3d8a5972ff2ceaa 产品页面：https://get-leafy.com    由   提交 /u/maxisrichtofen   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tz8vz7/built_a_dom_annotation_layer_for_the_browser/</guid>
-      <pubDate>Sun, 07 Jun 2026 10:48:32 GMT</pubDate>
+      <title>设置本地环境</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tzbrye/setting_local_environment/</link>
+      <description><![CDATA[这里是否有人有时会在设置和处理本地开发环境时遇到困难，尤其是当它需要大量基础设施（如 Redis、Postgres、rabbitmq 等）时。 每次出现依赖问题时，都会缺少环境变量。 你们是如何处理这个问题的？我个人转而使用 docker 容器，但我仍然不知道处理这个问题的理想方法一直   由   提交/u/yuvals41  [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tzbrye/setting_local_environment/</guid>
+      <pubDate>Sun, 07 Jun 2026 13:11:32 GMT</pubDate>
     </item>
     <item>
       <title>为每个运行时构建 FFmepg 二进制文件目录，安装简单且不会过期</title>
@@ -34,14 +27,7 @@
       <pubDate>Sun, 07 Jun 2026 09:33:40 GMT</pubDate>
     </item>
     <item>
-      <title>构建了一个简单的视频压缩器/修剪器，因为我的屏幕录制总是太大而无法共享。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1tz7j14/built_a_simple_video_compressortrimmer_because_my/</link>
-      <description><![CDATA[正如标题所示，在 macOS 或 Windows 上创建和分享短视频对我来说从来都不是一件顺利的事情。  我曾经使用 QuickTime 或 NVIDIA 进行屏幕截图。结果是巨大的 .mov 或 .mp4 文件。然后我要么需要上传一个 600 MB 的文件到在线压缩器，打开 Handbrake，要么从命令行使用 ffmpeg。 Ffmpeg 很棒，但对于日常快速使用来说，但我发现自己丢失了文本文件，其中保存了用于调整参数的最有用命令，并且当因为忘记参数而出现愚蠢错误时，它会很糟糕。如果我想修剪视频，我通常必须打开一个单独的视频编辑器，这需要时间才能打开，并且对于简单的修剪来说有点过分了。  所以我构建了Compress.mov。 基本流程很简单：拖放视频，选择是否要修剪它、压缩它或两者，然后将结果自动保存在计算机中。 随着时间的推移，我添加了更多功能：音频删除、视频旋转、编解码器选择、视频重新缩放、多种语言（德语、波斯语、日语...），还有一个小计数器，显示您使用压缩应用程序节省了多少兆字节。 我正在测试的最新功能是视频录制，所以我不必再使用 QuickTime！ 这最初是我业余时间的一个副项目，我没有人工智能助手构建它，所以它完全是手工制作的 😃 您可以在compress.mov 免费，如果您变得有趣，请在 Windows 商店或 App Store 购买它，以帮助我保持动力。    由   提交 /u/tino-latino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1tz7j14/built_a_simple_video_compressortrimmer_because_my/</guid>
-      <pubDate>Sun, 07 Jun 2026 09:30:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个小小的曼德尔布罗探险家，希望得到反馈</title>
+      <title>做了一个小小的曼德尔布罗探险家，希望得到反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/1tz5q1o/made_a_little_mandelbrot_explorer_would_love/</link>
       <description><![CDATA[       由   提交/u/MusicToThyEars   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tz5q1o/made_a_little_mandelbrot_explorer_would_love/</guid>
@@ -106,9 +92,23 @@
     <item>
       <title>规划国家公园旅行的更好方法</title>
       <link>https://www.reddit.com/r/webdev/comments/1tyqpg2/a_better_way_to_plan_national_park_trips/</link>
-      <description><![CDATA[我已经在 TrailVerse 上工作了一段时间，它正在慢慢成为我一直希望存在的那种国家公园规划工具。 这个想法很简单：查找公园、比较选项、检查有用的细节，然后使用 Trailie 将旅行想法变成日常计划。 仍在改进，仍在添加更多内容，但我对它的现状感到满意 如果您喜欢国家公园、公路旅行或只是探索新地方，请查看： https://www.nationalparksexplorerusa.com/explore   由   提交/u/peakpirate007  [链接] [评论]]]></description>
+      <description><![CDATA[我已经在 TrailVerse 上工作了一段时间，它正在慢慢成为我一直希望存在的那种国家公园规划工具。 这个想法很简单：找到公园，比较选项，检查有用的细节，然后使用 Trailie 将旅行想法变成日常计划。 仍在改进，仍在添加更多内容，但我对它的现状感到满意 如果您喜欢国家公园、公路旅行或只是探索新地方，请查看： https://www.nationalparksexplorerusa.com/explore   由   提交/u/peakpirate007  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1tyqpg2/a_better_way_to_plan_national_park_trips/</guid>
       <pubDate>Sat, 06 Jun 2026 19:38:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>内置行李雷达，了解机场对随身行李的严格程度</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tyqkum/built_bag_radar_to_see_how_strict_airports_are/</link>
+      <description><![CDATA[在厌倦了想知道我的随身行李是否真的会被检查后，建立了 bag-radar.com。 它让旅客真实体验到航空公司和机场对行李尺寸和重量检查的严格程度。 还为时过早，但我很想听听人们的想法。   由   提交/u/mub2010  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tyqkum/built_bag_radar_to_see_how_strict_airports_are/</guid>
+      <pubDate>Sat, 06 Jun 2026 19:33:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找社区</title>
+      <link>https://www.reddit.com/r/webdev/comments/1tyqgf7/looking_for_community/</link>
+      <description><![CDATA[作为一名独立开发者，我注意到一些优点和缺点，并希望解决其中的一些问题。例如，一些明显的好处是所有权和高产出节奏，但这些是以孤独为代价的，更重要的是：盲点。我不知道我不知道什么，当我要走错路时，没有人支持我（例如，在没有用户的情况下实施 Stripe）。这就是为什么我想找到志同道合的人。 你知道哪些社区？您在那里有什么经历？当我们参与其中时，有一些快乐的、相关的回忆可以分享吗？  很想听听您的想法。干杯。    由   提交/u/VehaMeursault   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1tyqgf7/looking_for_community/</guid>
+      <pubDate>Sat, 06 Jun 2026 19:28:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
