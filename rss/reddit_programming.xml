@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 07 Jun 2026 13:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 16:05:45 GMT</lastBuildDate>
+    <item>
+      <title>C 变得愚蠢，部分 &((int*)-8)[3]</title>
+      <link>https://www.reddit.com/r/programming/comments/1tzfefn/getting_silly_with_c_part_int83/</link>
+      <description><![CDATA[ 由   提交/u/f311a  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tzfefn/getting_silly_with_c_part_int83/</guid>
+      <pubDate>Sun, 07 Jun 2026 15:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>#JavaNext 语言特性</title>
+      <link>https://www.reddit.com/r/programming/comments/1tzeb9a/javanext_language_features/</link>
+      <description><![CDATA[ 由   提交/u/joemwangi  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1tzeb9a/javanext_language_features/</guid>
+      <pubDate>Sun, 07 Jun 2026 14:55:55 GMT</pubDate>
+    </item>
     <item>
       <title>致我的学生</title>
       <link>https://www.reddit.com/r/programming/comments/1tzaugj/to_my_students/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[ 由   提交 /u/syrusakbary   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1twww78/porting_our_django_backend_to_rust_improved_the/</guid>
       <pubDate>Thu, 04 Jun 2026 18:52:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>基本类型系统术语</title>
-      <link>https://www.reddit.com/r/programming/comments/1twoqch/basic_type_system_terminology/</link>
-      <description><![CDATA[ 由   提交/u/legoman25  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1twoqch/basic_type_system_terminology/</guid>
-      <pubDate>Thu, 04 Jun 2026 14:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>借鉴生物学家的经验来更快地编译 Haskell</title>
-      <link>https://www.reddit.com/r/programming/comments/1twnahx/stealing_from_biologists_to_compile_haskell_faster/</link>
-      <description><![CDATA[ 由   提交 /u/mooreds   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1twnahx/stealing_from_biologists_to_compile_haskell_faster/</guid>
-      <pubDate>Thu, 04 Jun 2026 13:12:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
