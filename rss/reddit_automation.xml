@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Sun, 07 Jun 2026 16:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 19:01:03 GMT</lastBuildDate>
+    <item>
+      <title>免费的职位发布 API（180 万个列表）可插入您的自动化系统</title>
+      <link>https://www.reddit.com/r/automation/comments/1tzhuz5/free_jobpostings_api_18m_listings_to_plug_into/</link>
+      <description><![CDATA[大家好。我构建了一个免费的托管 API，每天扫描 30 多个招聘网站，涵盖 6 万多家公司和大约 180 万个实时职位发布。 我需要为一个项目进行每日同步和事件警报，并想将其扩展并免费供其他人使用。 如果您需要更高的速率限制，或者有兴趣批量下载数据，请告诉我！   由   提交/u/imattractedtodcfs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tzhuz5/free_jobpostings_api_18m_listings_to_plug_into/</guid>
+      <pubDate>Sun, 07 Jun 2026 17:12:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>平淡无奇的“代理人工智能”版本实际上适用于小型企业（从一项你讨厌的任务开始）</title>
+      <link>https://www.reddit.com/r/automation/comments/1tzhagh/the_unglamorous_version_of_agentic_ai_that/</link>
+      <description><![CDATA[ 由   提交 /u/moezsr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1tzhagh/the_unglamorous_version_of_agentic_ai_that/</guid>
+      <pubDate>Sun, 07 Jun 2026 16:50:43 GMT</pubDate>
+    </item>
     <item>
       <title>使用 AI 自动化常见问题解答</title>
       <link>https://www.reddit.com/r/automation/comments/1tzc6rx/automating_faq_with_ai/</link>
@@ -88,20 +102,6 @@
       <description><![CDATA[大家好，家庭自动化新手，所以我需要帮助。 这里有 3 个我想要的东西（或场景）。 背景：我的书房有 3 个智能东西。智能灯、风扇和空调。  当我关闭门窗时，空调将打开，风扇将切换至 1 级。 - 我通过在门窗上放置 2 个接触式传感器来解决此问题。 当我进入书房时，风扇和灯将自动切换至 3 级。 当我离开房间时，风扇和灯将切换  我想只安装一个存在传感器，但我担心 2. 会与 1 发生冲突。 有什么建议吗？ 我正在使用带有 zigbee 网络的 SmartThings   由   提交/u/sgluxurycondo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1tyg577/need_advise_setting_automation_in_my_study_room/</guid>
       <pubDate>Sat, 06 Jun 2026 12:35:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码与无代码代理编排平台</title>
-      <link>https://www.reddit.com/r/automation/comments/1ty9r1r/code_vs_nocode_agent_orchestration_platforms/</link>
-      <description><![CDATA[ 由   提交 /u/milanadj   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ty9r1r/code_vs_nocode_agent_orchestration_platforms/</guid>
-      <pubDate>Sat, 06 Jun 2026 06:39:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>n8n 的小习惯让调试方式变得更容易</title>
-      <link>https://www.reddit.com/r/automation/comments/1ty8szm/small_n8n_habit_that_makes_debugging_way_easier/</link>
-      <description><![CDATA[ 由   提交 /u/Boring-Shop-9424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ty8szm/small_n8n_habit_that_makes_debugging_way_easier/</guid>
-      <pubDate>Sat, 06 Jun 2026 05:46:55 GMT</pubDate>
     </item>
     <item>
       <title>自动化可以被视为主要职业吗？</title>
