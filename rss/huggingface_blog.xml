@@ -4,13 +4,20 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Mon, 08 Jun 2026 12:54:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2026 17:41:25 GMT</lastBuildDate>
     <item>
-      <title>构建巴基斯坦通知助手：一个解决当地安全问题的小型人工智能工具</title>
-      <link>https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper</link>
+      <title>消失的崩溃：五种经济模式的控制和出现</title>
+      <link>https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3</link>
       <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper</guid>
-      <pubDate>Mon, 08 Jun 2026 11:46:56 GMT</pubDate>
+      <guid>https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3</guid>
+      <pubDate>Mon, 08 Jun 2026 13:10:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源社区支持 OpenEnv 用于 Agentic RL</title>
+      <link>https://huggingface.co/blog/openenv-agentic-rl</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/openenv-agentic-rl</guid>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Nemotron 3.5 内容安全：全球企业人工智能的可定制多模式安全</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/allenai/olmoearth-v1-1</guid>
       <pubDate>Tue, 19 May 2026 18:38:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ettin Reranker 系列简介</title>
-      <link>https://huggingface.co/blog/ettin-reranker</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/ettin-reranker</guid>
-      <pubDate>Tue, 19 May 2026 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
