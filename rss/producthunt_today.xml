@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Jun 2026 19:56:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 22:20:34 GMT</lastBuildDate>
     <item>
       <title>基米工作</title>
       <link>https://www.producthunt.com/products/kimi-ai-assistant</link>
@@ -32,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/agentos-run-agents-like-a-company</guid>
       <pubDate>Mon, 08 Jun 2026 21:45:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>宇宙设计</title>
+      <link>https://www.producthunt.com/products/uiverse-io</link>
+      <description><![CDATA[
+            消除人工智能生成的网站的问题
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/uiverse-io</guid>
+      <pubDate>Mon, 08 Jun 2026 20:01:02 GMT</pubDate>
     </item>
     <item>
       <title>Mac 版 Cove</title>
@@ -76,32 +90,18 @@
       <pubDate>Mon, 08 Jun 2026 12:52:49 GMT</pubDate>
     </item>
     <item>
-      <title>像素鲷鱼</title>
-      <link>https://www.producthunt.com/products/pixel-snapper</link>
+      <title>信号记录仪 SR-7</title>
+      <link>https://www.producthunt.com/products/signal-recorder-sr-7</link>
       <description><![CDATA[
-            编辑器清理人工智能生成的像素艺术 
+            可转录 + 导出 Markdown 的设备上录音机
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/pixel-snapper</guid>
-      <pubDate>Mon, 08 Jun 2026 07:58:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>索拉奇</title>
-      <link>https://www.producthunt.com/products/solarch</link>
-      <description><![CDATA[
-            与 AI 交互的图表，您的代码始终保持同步
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/solarch</guid>
-      <pubDate>Mon, 08 Jun 2026 01:48:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/signal-recorder-sr-7</guid>
+      <pubDate>Sun, 07 Jun 2026 00:20:50 GMT</pubDate>
     </item>
     <item>
       <title>特拉克麦克</title>
@@ -118,60 +118,60 @@
       <pubDate>Sat, 06 Jun 2026 00:12:50 GMT</pubDate>
     </item>
     <item>
-      <title>启示录2.0</title>
-      <link>https://www.producthunt.com/products/reve-2-0</link>
+      <title>零GPU</title>
+      <link>https://www.producthunt.com/products/zerogpu</link>
       <description><![CDATA[
-            通过基于布局的控制生成和编辑 4K 图像
+            AI 推理的计算高效层
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/reve-2-0</guid>
-      <pubDate>Fri, 05 Jun 2026 15:43:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/zerogpu</guid>
+      <pubDate>Fri, 05 Jun 2026 19:45:18 GMT</pubDate>
     </item>
     <item>
-      <title>布巴</title>
-      <link>https://www.producthunt.com/products/boobar</link>
+      <title>Krisp语音翻译API</title>
+      <link>https://www.producthunt.com/products/krisp</link>
       <description><![CDATA[
-            适用于 Mac 的 AI 动态岛
+            实时语音转语音翻译 API 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/boobar</guid>
-      <pubDate>Fri, 05 Jun 2026 09:36:52 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/krisp</guid>
+      <pubDate>Fri, 05 Jun 2026 09:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>日志记录仪</title>
-      <link>https://www.producthunt.com/products/log-cam-open-gate-by-raw-cam</link>
+      <title>风投热潮</title>
+      <link>https://www.producthunt.com/products/vcboom</link>
       <description><![CDATA[
-            在 iPhone 上从 RAW 帧录制日志和 ProRes 视频
+            为你的牌组评分，结识合适的投资者，并筹集更多资金
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/log-cam-open-gate-by-raw-cam</guid>
-      <pubDate>Wed, 03 Jun 2026 13:41:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/vcboom</guid>
+      <pubDate>Thu, 04 Jun 2026 15:28:52 GMT</pubDate>
     </item>
     <item>
-      <title>哨</title>
-      <link>https://www.producthunt.com/products/whistle-ai-workout-planner</link>
+      <title>巧克力棒</title>
+      <link>https://www.producthunt.com/products/chocolatebar</link>
       <description><![CDATA[
-            健身教练提供个性化计划
+            在菜单栏下添加一行以显示隐藏图标
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/whistle-ai-workout-planner</guid>
-      <pubDate>Wed, 27 May 2026 13:41:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/chocolatebar</guid>
+      <pubDate>Wed, 03 Jun 2026 09:07:06 GMT</pubDate>
     </item>
     <item>
       <title>诺德里克斯</title>
