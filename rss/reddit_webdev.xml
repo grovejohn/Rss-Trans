@@ -4,13 +4,34 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 09 Jun 2026 11:53:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 14:17:34 GMT</lastBuildDate>
     <item>
-      <title>我测试了我的网站的“AI 代理准备情况”，得分为 86/100</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u11xm1/i_tested_my_website_for_ai_agent_readiness_and/</link>
-      <description><![CDATA[我最近使用 Cloudflare 的“您的网站代理就绪了吗？”测试了我的代理网站检查器。 与该工具没有任何隶属关系。我很好奇“代理就绪”的实际含义。 我的网站得分 21/100 并达到级别 1：基本 Web 存在。 它通过了三项检查：  有效 robots.txt 工作站点地图 AI 爬虫规则  它未通过多项更新检查检查：  Markdown 内容协商 内容信号 HTTP 链接标头 代理技能发现 MCP 服务器卡 WebMCP API 和身份验证发现  有趣的是，这不是另一个 SEO 分数。 它检查 AI 代理是否可以发现、理解网站并与网站交互通过机器可读的标准。 例如，代理可以请求页面的干净 Markdown 版本，而不是处理完整的 HTML。应用程序还可以发布结构化信息，解释其 API、可用工具、身份验证过程和支持的操作。 一些检查在今天看来很实用，特别是 Markdown 响应、爬虫规则和结构化发现。 其他检查，例如代理支付协议和基于 DNS 的代理发现，对于正常的商业网站来说仍处于早期阶段。 我计划首先实现内容信号和 Markdown 协商，然后测试代理技能是否能提供任何实际价值。  有人在生产网站上实施了这些标准吗？ 他们除了扫描仪分数之外还有什么改进吗？   由   提交 /u/kelisshekhaliya   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u11xm1/i_tested_my_website_for_ai_agent_readiness_and/</guid>
-      <pubDate>Tue, 09 Jun 2026 11:11:00 GMT</pubDate>
+      <title>2026 年前端开发路线图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u165r9/front_end_development_roadmap_2026/</link>
+      <description><![CDATA[大家好， 我是计算机科学和用户体验设计专业的毕业生。我本来打算申请 UX/UI 职位，但似乎市场很小，尤其是对于初级设计师而言。我正在考虑回到前端开发，因为它有更多的职位空缺。所以我想问一下目前业内人士，2026 年成为前端开发人员的最佳路线图是什么？显然，首先要做的就是刷新我对 HTML、CSS 和 JS 的记忆。之后会发生什么？ Typescript 然后 React？然后呢？   由   提交/u/George-G661   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u165r9/front_end_development_roadmap_2026/</guid>
+      <pubDate>Tue, 09 Jun 2026 14:12:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 CSS 代码生成器的烦人部分</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u15ktr/annoying_parts_of_building_a_css_code_generator/</link>
+      <description><![CDATA[我最近一直在构建一套 CSS 生成器工具（只是我正在从事的一个名为 freereign.dev 的副项目的标准工具，例如渐变构建器、盒子阴影编辑器等），并且有些问题比预期的要困难得多。我想我会分享那些让我绊倒的东西。 没有库的语法突出显示.. 我想要零依赖，所以我编写了自己的 CSS 突出显示。事实证明，基于正则表达式的突出显示绝对是一个雷区。匹配 CSS 属性名称而不意外匹配恰好包含连字符的值是第一个令人头疼的问题。然后嵌套注释。然后尝试在不破坏所有内容的情况下突出显示 Tailwind 输出的内部模板文字。 最终得到了大约 30 行，可以处理 90% 的情况，并默默地屠宰其他 10%。足够好了，哈哈。 背景过滤器仍然有点糟糕 glassmorphism 工具应该很简单......它只有 4 个 CSS 属性。但是，background-filter 并不会按照您在堆叠元素时所期望的方式进行组合，Safari 仍然需要 -webkit 前缀，即使每个兼容性表都说不需要，而且“磨砂玻璃”也需要使用 -webkit 前缀。效果在浅色和深色背景上看起来完全不同。 尝试使生成的代码不像机器人 简单的版本是 box-shadow: ${x}px ${y}px ${blur}px ${color}。但没有人愿意粘贴它。他们希望它的格式就像他们实际编写的一样。正确的缩进、有意义的简写以及合理的变量名称（如果使用 SCSS）。 老实说，让输出看起来像“人类会编写的代码”是很重要的。而不是“生成生成器的代码”比构建实际工具花费的时间要长。 想知道是什么看似简单的 CSS 问题困扰了这里的其他人吗？总觉得我在最愚蠢的事情上与规范作斗争。   由   提交 /u/TheeSeaverShow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u15ktr/annoying_parts_of_building_a_css_code_generator/</guid>
+      <pubDate>Tue, 09 Jun 2026 13:50:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在您将下一个网站的设计交给 Claude 之前...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u14fr2/before_you_offload_your_next_sites_design_to/</link>
+      <description><![CDATA[在关于即将到来的小奖的博客文章中看到了这个奇妙的序列：  我认为人们没有意识到克劳德有一种独特的“房子风格”，人类在其文档中确认： “Claude Opus 4.8 具有强烈的设计本能，具有一致的默认房屋风格：温暖的奶油色/灰白色背景 (~#F4F1EA)、衬线显示类型（乔治亚州、弗朗西斯、普莱费尔）、斜体字口音和赤土色/琥珀色口音。” 我将添加以下内容：等宽字体的小全大写标题。一旦你开始看到它，你就无法忽视它。 有了所有这些网站，你就不可能分辨出法学硕士在哪里停止，人类在哪里开始。我无法再回答这个问题，您在这个项目上实际上做了什么？  如果您打算跳过聘请设计师或自己学习基本设计原则，请至少考虑提示 Claude 设计出一些其他东西，而不是带有焦橙色口音和微小的 JetBrains Mono“仪表板”的米色网站。除了每天抓取你页面的数以百万计的机器人之外，没有人能读懂这些 UI 元素。谢谢。现在随处可见这种设计几乎让我怀念紫色渐变。几乎。   由   提交 /u/RememberTheOldWeb   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u14fr2/before_you_offload_your_next_sites_design_to/</guid>
+      <pubDate>Tue, 09 Jun 2026 13:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026 年 Laravel 还值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u14b4w/is_laravel_still_worth_it_in_2026/</link>
+      <description><![CDATA[大家好， 让我向您快速介绍一下我自己。我是一名拥有 10 多年经验的软件工程师。我广泛使用过 React.js、Next.js、PostgreSQL、Redis、Node.js/Express、NestJS、Docker 和 Go。 最近，在空闲时间，我深入研究了系统设计、分布式系统，并学习如何构建高度可扩展的应用程序。 问题是，我一直在使用的堆栈主要以企业为中心，从我所见，它并不总是与典型的自由职业者保持一致。市场。因此，我决定开始认真学习 Laravel，并将其作为建立自由职业并直接与客户合作的一种方式。 当然，我知道我以前的经验仍然很有价值，但这是我的问题： 我不是在找工作。我希望开创自己的事业，吸引客户，并最终将其发展成为一家公司。所以我认为这将是询问已经进入市场的人的最佳场所之一。 Laravel 自由职业者市场的现状如何？值得我投入时间吗？那里有足够的机会和客户吗？ 就背景而言，我的目标是最终达到每月 5000 美元到 10000 美元之间的水平。 我很想听听在这个领域积极从事自由职业或经营代理机构的人的意见。   由   提交/u/MahmoudElattar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u14b4w/is_laravel_still_worth_it_in_2026/</guid>
+      <pubDate>Tue, 09 Jun 2026 13:00:30 GMT</pubDate>
     </item>
     <item>
       <title>假的 Sentry 问题是否可以欺骗您的编码代理运行恶意的 npm 包？</title>
@@ -20,9 +41,9 @@
       <pubDate>Tue, 09 Jun 2026 11:01:17 GMT</pubDate>
     </item>
     <item>
-      <title>内联代码完成比提示更好吗</title>
+      <title>内联代码补全比提示更好吗</title>
       <link>https://www.reddit.com/r/webdev/comments/1u11ovl/is_inline_code_completion_better_than_prompting/</link>
-      <description><![CDATA[我有一个假设，让 llm 完成几行代码（主要是样板文件）可能比通过它提示整个代码文件更好。 更好，因为它不完全是氛围编码，需要一些认知负荷来编码，并且开发人员对所编写的内容有更好的上下文。 你这么认为吗？   由   提交/u/GarrettSpot  [链接] [评论]]]></description>
+      <description><![CDATA[我有一个假设，让 llm 完成你的几行代码（主要是样板文件）可能比通过它提示整个代码文件更好。 更好，因为它不完全是氛围编码，并且需要一些认知负载来编码，并且开发人员对所编写的内容有更好的上下文。 你这么认为吗？   由   提交/u/GarrettSpot  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1u11ovl/is_inline_code_completion_better_than_prompting/</guid>
       <pubDate>Tue, 09 Jun 2026 10:58:59 GMT</pubDate>
     </item>
@@ -88,27 +109,6 @@
       <description><![CDATA[QR 码生成新功能。如何创建不会过期且可以在将来更新目标 URL 的代码？ 这是否需要收费服务？如果有的话有什么建议吗？   由   提交/u/tk2old  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1u0dl26/new_to_qr_code_generation_how_can_i_create_a_code/</guid>
       <pubDate>Mon, 08 Jun 2026 16:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 Spring Boot API 连接到普通 HTML/CSS/JS 前端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u0aklp/how_do_i_connect_a_spring_boot_api_to_a_vanilla/</link>
-      <description><![CDATA[我正在学习 Spring Boot，并且想了解如何首先仅使用普通 HTML、CSS 和 JavaScript 将后端 API 连接到前端。 什么是好的学习路径？我可以从哪里开始？   由   提交 /u/ThenParamedic4021   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u0aklp/how_do_i_connect_a_spring_boot_api_to_a_vanilla/</guid>
-      <pubDate>Mon, 08 Jun 2026 15:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Native Elm（这次是真正的那种）·cekrem.github.io</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u04buq/native_elm_the_real_kind_this_time_cekremgithubio/</link>
-      <description><![CDATA[       由   提交 /u/cekrem   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u04buq/native_elm_the_real_kind_this_time_cekremgithubio/</guid>
-      <pubDate>Mon, 08 Jun 2026 10:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助实施 Sellsy 集成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u01kve/help_implementing_sellsy_integration/</link>
-      <description><![CDATA[大家好，我正在我的应用程序上实现 Sellsy 集成，对于那些不知道的人来说，这是一项生成和发送发票、估算等的服务... 他们有一个我正在使用的 API。 现在我正在使用商业广告用于生成其文档的 API 密钥和帐户，但我添加了“测试”我在开发时正在处理的客户端的前缀，因此它不会与现有数据发生冲突。  我的问题更多的是一个架构实现问题：你们如何在开发和登台环境中不与生产数据发生冲突。 例如：如果我需要进行 API 集成，以防止生成和发送发票，或者如果我需要生成发票但防止与生产数据发生冲突。 我应该创建另一个 Sellsy 帐户吗？ DEV 或 STAGING 前缀？ 欢迎任何想法 PS：我已经问过人工智能，只寻找人类答案   由   提交 /u/armlesskid   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u01kve/help_implementing_sellsy_integration/</guid>
-      <pubDate>Mon, 08 Jun 2026 08:08:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
