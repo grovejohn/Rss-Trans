@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 09 Jun 2026 14:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 09 Jun 2026 17:21:01 GMT</lastBuildDate>
     <item>
       <title>基米工作</title>
       <link>https://www.producthunt.com/products/kimi-ai-assistant</link>
@@ -62,20 +62,6 @@
       <pubDate>Mon, 08 Jun 2026 13:12:55 GMT</pubDate>
     </item>
     <item>
-      <title>聚光灯</title>
-      <link>https://www.producthunt.com/products/limelight-4</link>
-      <description><![CDATA[
-            让您的屏幕录制易于理解
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/limelight-4</guid>
-      <pubDate>Mon, 08 Jun 2026 12:52:49 GMT</pubDate>
-    </item>
-    <item>
       <title>索拉奇</title>
       <link>https://www.producthunt.com/products/solarch</link>
       <description><![CDATA[
@@ -104,6 +90,20 @@
       <pubDate>Sun, 07 Jun 2026 10:53:08 GMT</pubDate>
     </item>
     <item>
+      <title>AGMSG</title>
+      <link>https://www.producthunt.com/products/agmsg</link>
+      <description><![CDATA[
+            停止在 AI 编码代理之间进行复制粘贴
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/agmsg</guid>
+      <pubDate>Sun, 07 Jun 2026 03:17:24 GMT</pubDate>
+    </item>
+    <item>
       <title>信号记录仪 SR-7</title>
       <link>https://www.producthunt.com/products/signal-recorder-sr-7</link>
       <description><![CDATA[
@@ -118,10 +118,38 @@
       <pubDate>Sun, 07 Jun 2026 00:20:50 GMT</pubDate>
     </item>
     <item>
+      <title>特拉克麦克</title>
+      <link>https://www.producthunt.com/products/trakmac</link>
+      <description><![CDATA[
+            适合健身爱好者的语音优先宏跟踪
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/trakmac</guid>
+      <pubDate>Sat, 06 Jun 2026 00:12:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>布巴</title>
+      <link>https://www.producthunt.com/products/boobar</link>
+      <description><![CDATA[
+            适用于 Mac 的 AI 动态岛
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/boobar</guid>
+      <pubDate>Fri, 05 Jun 2026 09:36:52 GMT</pubDate>
+    </item>
+    <item>
       <title>Krisp语音翻译API</title>
       <link>https://www.producthunt.com/products/krisp</link>
       <description><![CDATA[
-            实时语音转语音翻译 API 
+            实时语音转语音翻译API 
           
 
 讨论
@@ -135,7 +163,7 @@
       <title>风投热潮</title>
       <link>https://www.producthunt.com/products/vcboom</link>
       <description><![CDATA[
-            为你的牌组打分，结识合适的投资者，筹集更多资金。繁荣！
+            为你的牌组评分，结识合适的投资者，筹集更多资金。繁荣！
           
 
 讨论
@@ -160,32 +188,18 @@
       <pubDate>Wed, 03 Jun 2026 09:07:06 GMT</pubDate>
     </item>
     <item>
-      <title>哨</title>
-      <link>https://www.producthunt.com/products/whistle-ai-workout-planner</link>
+      <title>声音的传播</title>
+      <link>https://www.producthunt.com/products/prostir-zvuku</link>
       <description><![CDATA[
-            健身教练提供个性化计划
+            适用于 Mac 的空间自然混音器
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/whistle-ai-workout-planner</guid>
-      <pubDate>Wed, 27 May 2026 13:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>诺德里克斯</title>
-      <link>https://www.producthunt.com/products/nodrix</link>
-      <description><![CDATA[
-            您自己的 IoT 云，部署到您的 Cloudflare 帐户
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/nodrix</guid>
-      <pubDate>Wed, 27 May 2026 10:50:51 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/prostir-zvuku</guid>
+      <pubDate>Tue, 19 May 2026 16:08:24 GMT</pubDate>
     </item>
     <item>
       <title>过于</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/overly-smart-study-layer</guid>
       <pubDate>Fri, 15 May 2026 12:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>旅行心</title>
-      <link>https://www.producthunt.com/products/travelmind-city-discovery-reimagined</link>
-      <description><![CDATA[
-            基于品味而非评论的人工智能城市发现
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/travelmind-city-discovery-reimagined</guid>
-      <pubDate>Mon, 29 Dec 2025 10:18:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
