@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 10 Jun 2026 06:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 12:18:13 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找如何做</title>
+      <link>https://www.reddit.com/r/opensource/comments/1u1uubb/looking_for_how_to_do_it/</link>
+      <description><![CDATA[所以我一直在构建一个预测性多云 docker swarm 节点自动缩放器，就像带有 ML 的 Kubernetes ca... 我想将其变成一个开源项目，我已经完成了其中的多个部分，核心 api 正在测试中，现在我正在将它们转换为 docker 映像。 那么我应该做什么，以便人们可以为它做出贡献，我实际上有很好的自述文件每个工作步骤都通过图表和文本进行解释，每个文件夹（whixh 是一个 api）都有自己的自述文件（一个小文档）。 （这是我现在工作的地方）  https://github.com/Harshit10j2004/Trafficxsharper.git  注意一下   由   提交 /u/Successful_Tea4490   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1u1uubb/looking_for_how_to_do_it/</guid>
+      <pubDate>Wed, 10 Jun 2026 07:06:51 GMT</pubDate>
+    </item>
     <item>
       <title>像draw.io一样绘制你的代理</title>
       <link>https://www.reddit.com/r/opensource/comments/1u1smqx/draw_your_agents_like_drawio/</link>
@@ -27,13 +34,6 @@
       <pubDate>Wed, 10 Jun 2026 01:42:08 GMT</pubDate>
     </item>
     <item>
-      <title>我正在创建的网站 - 本地笔记+共享想法</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1mz01/a_website_im_creating_local_notekeeping_shared/</link>
-      <description><![CDATA[https://junolucidas.space 你觉得怎么样？ 现在单独构建它，只是为了分享。 存储桶想法/注释存储在浏览器本地。有些可以经过完善后提交给 Reactor，人们可以在 Reactor 上发表评论/进行构建。   由   提交 /u/Physical-Alfalfa7544   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1mz01/a_website_im_creating_local_notekeeping_shared/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:35:06 GMT</pubDate>
-    </item>
-    <item>
       <title>我应该如何开源自定义 Jetson 相机驱动程序？ （许可和 GitHub 建议）</title>
       <link>https://www.reddit.com/r/opensource/comments/1u1ipva/how_should_i_go_about_opensourcing_a_custom/</link>
       <description><![CDATA[大家好， 我为 Nvidia Jetson 主板开发了一个自定义摄像头驱动程序和 ISP 配置文件，我很乐意将其作为开源项目与社区分享。 为了避免这篇文章给人一种自我推销的感觉，我不会在这里详细介绍，但如果需要，我绝对可以提供更多背景信息。 我计划在 GitHub 上分享它，但我对开源许可的经验为零。我应该在自己的帐户下创建一个公共存储库并上传吗？在推送代码之前，我应该牢记哪些许可事项，以确保其受到适当保护，但仍然对社区有用？ 任何建议或最佳实践将不胜感激！   由   提交 /u/Upper_Difficulty3907   [链接] [评论]]]></description>
@@ -50,7 +50,7 @@
     <item>
       <title>我构建了一个工具，可以分析任何网站并提取其完整的设计系统（Tailwind、React 组件、设计令牌）</title>
       <link>https://www.reddit.com/r/opensource/comments/1u1c19x/i_built_a_tool_that_analyzes_any_website_and/</link>
-      <description><![CDATA[嘿 Reddit！ 我想分享一个我一直在做的项目。它是一个网站分析器，旨在拆除任何实时网站并提取其设计 DNA：颜色、排版、间距、组件和用户体验模式。 主要功能：   无缝导出到完整的 Tailwind 配置  根据提取的模式生成 React 组件  设计令牌提取  完成结构化DESIGN.md报告中的细分  技术堆栈： Next.js、TailwindCSS、FastAPI 和用于提取逻辑的 Playwright。 该项目完全开源，我正在寻找反馈、功能创意或贡献者！ 🔗 GitHub存储库： https://github.com/jomvick/design-oracle.git 如果您发现它有用，请随意投星⭐️或提出问题！   由   提交 /u/Substantial_Swim8440   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 Reddit！ 我想分享一个我一直在做的项目。它是一个网站分析器，旨在拆除任何实时网站并提取其设计 DNA：颜色、排版、间距、组件和用户体验模式。 主要功能：   无缝导出到完整的 Tailwind 配置  根据提取的模式生成 React 组件  设计标记提取  完成结构化DESIGN.md报告中的细分  技术堆栈： Next.js、TailwindCSS、FastAPI 和用于提取逻辑的 Playwright。 该项目完全开源，我正在寻找反馈、功能创意或贡献者！ 🔗 GitHub存储库： https://github.com/jomvick/design-oracle.git 如果您发现它有用，请随意投星⭐️或提出问题！   由   提交 /u/Substantial_Swim8440   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1u1c19x/i_built_a_tool_that_analyzes_any_website_and/</guid>
       <pubDate>Tue, 09 Jun 2026 17:38:02 GMT</pubDate>
     </item>
