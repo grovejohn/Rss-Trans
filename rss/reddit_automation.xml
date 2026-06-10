@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 10 Jun 2026 20:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 22:45:00 GMT</lastBuildDate>
+    <item>
+      <title>自动化并不能避免你做出错误的决定。这使得它们的重复成本更低、速度更快。</title>
+      <link>https://www.reddit.com/r/automation/comments/1u2dt5r/automation_doesnt_save_you_from_bad_decisions_it/</link>
+      <description><![CDATA[今年我已经看到了同一错误的三个版本。  有人自动化了他们的电子邮件跟进。后续就好了。报价已被破坏。现在，这是一个按计划按期大规模交付、带有格式良好的签名的破损报价。  有人自动化了他们的报告。报告每周一送达。没有人读它们。这些报告现在无法以机器速度读取。  有人自动化了他们的内容管道。内容每天发送 3 次。内容没说什么。日历已满。观众席上空无一人。  每种情况下的自动化都发挥了作用。这就是问题所在。  自动化是力量倍增器。不是质量过滤器。不是策略探测器。不是一个“这实际上是个好主意”的门。这些东西必须在自动化之前存在，而不是在自动化内部。  在我见过的每个自动化项目之前都会跳过的问题：这个任务是正确的，还是只是熟悉？  我们将我们已经做的事情自动化，因为这比停下来问我们是否应该继续这样做要便宜。自动化允许我们停止询问。  昂贵的错误并不是自动化破坏的错误。它们可以完美运行六个月。  您自动化过的最有用的事情是什么？您见过的最昂贵的自动化错误是什么？    由   提交 /u/Most-Agent-7566   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u2dt5r/automation_doesnt_save_you_from_bad_decisions_it/</guid>
+      <pubDate>Wed, 10 Jun 2026 20:24:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于代理和自动化的自托管决策/批准服务器</title>
+      <link>https://www.reddit.com/r/automation/comments/1u2dsuo/selfhosted_decisionapproval_server_for_agents_and/</link>
+      <description><![CDATA[ 由   提交/u/atrfx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1u2dsuo/selfhosted_decisionapproval_server_for_agents_and/</guid>
+      <pubDate>Wed, 10 Jun 2026 20:23:52 GMT</pubDate>
+    </item>
     <item>
       <title>用 1 个批量图像生成请求替换了 50 个连续 API 调用</title>
       <link>https://www.reddit.com/r/automation/comments/1u2cy6c/replaced_50_sequential_api_calls_with_1_batch/</link>
@@ -81,20 +95,6 @@
       <description><![CDATA[      我刚刚上传了 Ansible Vault 教程系列的 Ep.004。 该视频展示了如何运行需要 Ansible Vault 密码的 playbook，而无需输入 Vault 密码每次。我逐步使用： .vault_pass + ansible.cfg + .gitignore 目标是使保管库加密的 playbook 更易于运行，同时确保密码文件不会提交到 Git。 对于学习 Ansible、DevOps 自动化或管理 playbook 中的加密变量的人很有用。   由   提交 /u/Aspiring-Dev   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1u1mqw2/ep_004_save_vault_passwords_with_vault_pass/</guid>
       <pubDate>Wed, 10 Jun 2026 00:24:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>未来谁会获胜，为什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1u1mnr3/whos_going_to_win_in_the_future_and_why/</link>
-      <description><![CDATA[知道如何使用人工智能的人？ 构建人工智能的人？ 能够与之有效沟通的人？ 拥有强大网络和机会的人？ 或者完全是其他东西？ 我试图以更实际的方式超越理论来理解这一点。 因为大多数答案在原则上听起来都是正确的，但我很难理解 例如，如果有人说：“能够清理数据并与人工智能正确沟通的人将会获胜，”我希望将其具体分解。 这在实践中是什么样的？  数据清理实际上在哪里发生？ （公司数据库、应用程序、医疗记录、财务系统等） “做好”会在实际工作流程中改变什么？ 如果没有做好，具体会出现什么问题？  例如，在真实系统中：混乱或不一致的数据可能会导致重复用户、错误分析、糟糕的建议，甚至完全关闭自动决策 - 但我希望在实际用例中提供更多有关该链条的扎实示例。 其他答案也有同样的想法。 如果您认为“建设者获胜”，这到底意味着什么？如果您认为“网络获胜”，这种优势实际上在实际结果中体现在哪里？   由   提交/u/emprendorjoven   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u1mnr3/whos_going_to_win_in_the_future_and_why/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:20:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>编制免费 SaaS 网站列表</title>
-      <link>https://www.reddit.com/r/automation/comments/1u1miyg/compiling_a_list_of_free_tier_saas_websites/</link>
-      <description><![CDATA[如果您的网站提供不需要信用卡注册的免费套餐，并且是真正的免费套餐，而不是 7 天免费，然后切换到付费计划，请在此处列出您的网站。   由   提交 /u/Inknown-Increase92   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1u1miyg/compiling_a_list_of_free_tier_saas_websites/</guid>
-      <pubDate>Wed, 10 Jun 2026 00:15:08 GMT</pubDate>
     </item>
     <item>
       <title>我觉得人们不断地强行使用人工智能来做一些可以通过常规自动化完成的事情，但最终却是重新发明了轮子，松了几颗螺丝</title>
