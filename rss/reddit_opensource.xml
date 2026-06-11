@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 10 Jun 2026 22:48:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:11:45 GMT</lastBuildDate>
     <item>
       <title>新的开源项目（Better-PaaS）</title>
       <link>https://www.reddit.com/r/opensource/comments/1u2fmuf/new_opensource_project_betterpaas/</link>
@@ -78,7 +78,7 @@
     <item>
       <title>我构建了一个工具，可以分析任何网站并提取其完整的设计系统（Tailwind、React 组件、设计令牌）</title>
       <link>https://www.reddit.com/r/opensource/comments/1u1c19x/i_built_a_tool_that_analyzes_any_website_and/</link>
-      <description><![CDATA[嘿 Reddit！ 我想分享一个我一直在做的项目。它是一个网站分析器，旨在拆除任何实时网站并提取其设计 DNA：颜色、排版、间距、组件和用户体验模式。 主要功能：   无缝导出到完整的 Tailwind 配置  根据提取的模式生成 React 组件  设计标记提取  完成结构化DESIGN.md报告中的细分  技术堆栈： Next.js、TailwindCSS、FastAPI 和用于提取逻辑的 Playwright。 该项目完全开源，我正在寻找反馈、功能创意或贡献者！ 🔗 GitHub存储库： https://github.com/jomvick/design-oracle.git 如果您发现它有用，请随意投星⭐️或提出问题！   由   提交 /u/Substantial_Swim8440   [链接] [评论]]]></description>
+      <description><![CDATA[嘿 Reddit！ 我想分享一个我一直在做的项目。它是一个网站分析器，旨在拆除任何实时网站并提取其设计 DNA：颜色、排版、间距、组件和用户体验模式。 主要功能：   无缝导出到完整的 Tailwind 配置  根据提取的模式生成 React 组件  设计令牌提取  完成结构化DESIGN.md报告中的细分  技术堆栈： Next.js、TailwindCSS、FastAPI 和用于提取逻辑的 Playwright。 该项目完全开源，我正在寻找反馈、功能创意或贡献者！ 🔗 GitHub存储库： https://github.com/jomvick/design-oracle.git 如果您发现它有用，请随意投星⭐️或提出问题！   由   提交 /u/Substantial_Swim8440   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1u1c19x/i_built_a_tool_that_analyzes_any_website_and/</guid>
       <pubDate>Tue, 09 Jun 2026 17:38:02 GMT</pubDate>
     </item>

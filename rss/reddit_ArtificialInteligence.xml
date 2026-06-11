@@ -4,7 +4,28 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>人工智能的高信号枢纽！</description>
-    <lastBuildDate>Wed, 10 Jun 2026 22:45:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 02:10:17 GMT</lastBuildDate>
+    <item>
+      <title>成本很重要</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1u2l7je/costs_matter/</link>
+      <description><![CDATA[这篇 Citadel 证券报告（2026 年 6 月，Frank Flight）是一篇敏锐、及时的读物，它有力地验证了您所遇到的痛点。 报告的核心论点 前沿人工智能正在达到真正的经济极限：即使是最强大的模型也面临物理瓶颈 （计算、电源、冷却、内存、推理预算）。围绕无摩擦扩容的“不切实际的期望”正在被实际账单纠正。 最近引用的例子： 亚马逊取消了其 Claude Code 订阅。 关于意外的巨额代币账单的多份报告。 经济现实：价格开始发挥作用 - 表明稀缺性，激励替代（更便宜/更快的模型），并将容量分配给最高价值的用途。 分叉到来：大量前沿模型的使用将集中在少数解决真正难题的公司/团队中。日常工作流程将转向更高效、更便宜的模型。 图表：Silicon Data LLM 支出指数（价格 + 代币组合）在之前的峰值之后最近有所下降。这可能反映出，随着成本的增加，用户从最昂贵的型号转向更便宜的型号。 这与您的人类团队 → 企业跳跃（40 万美元 → 140 万美元）以及您未经过滤的想法几乎完全一致。 这与您的情况有何联系 您的观点非常准确，现在已成为宏观/战略圈的主流： 在业务增长的地方积极投入 - Citadel 认为这对于高边际生产力领域（工程、研究等）来说是有意义的。 可见性是先决条件 - 个人支出冲击（Claude Code 上 3 天 4000 美元）正是迫使做出更好决策的机制。 工程投资回报率很明确 - 前沿模型通常会收回成本速度/质量。 许多其他角色？可疑 - 低使用率应用程序和“有人已经构建了这个”场景正是加速替代更轻模型（甚至非人工智能工具）的地方。 代币最大化时代结束 - 是的。该报告明确表示，我们正在从补贴/炒作的使用转向成本曲线纪律。支出限制、审批、分层访问和模型组合优化已成为新常态。 底线 该行业正在快速成熟。随着实际边际成本大规模显现，“尝试一切最佳模型”阶段即将结束。将代币视为任何其他稀缺资源（包括仪表板、预算、投资回报率跟踪）的公司将拥有很大的优势。许多团队现在正在做您所暗示的事情：分层访问（仅适用于某些角色/工作流程的前沿） 大量监控+上限 针对 70-80% 的用例积极试验更便宜/开源或经过提炼的模型 与供应商加强谈判（年度承诺、席位费减免等） 这篇 Citadel 文章是一家大型金融机构对人工智能经济开始产生影响的更清晰的公开承认之一。您的 100 万美元以上的账单冲击并不是一个孤立的轶事，而是更广泛转型的一部分。 希望我提供有关 Anthropic/OpenAI 企业定价趋势的更多最新数据、其他公司如何处理层级跳跃的示例，或者对具体成本控制策略的想法？   由   提交/u/Annual_Judge_7272   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1u2l7je/costs_matter/</guid>
+      <pubDate>Thu, 11 Jun 2026 01:32:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>150座以下</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1u2kt9i/under_150_seats/</link>
+      <description><![CDATA[事实核查：基本准确（对核心机制的高度信任）。30 关键验证点 团队计划上限为 150 个席位：已确认。 Anthropic 的官方团队计划支持最多 150 个席位。除此之外，组织必须升级到企业版。30 企业版定价转变：在当前基于使用情况的企业版计划中，席位提供仅访问（Web、桌面、移动、Claude Code 等）。 包含的令牌使用量为零。除每个席位费用外，所有消费（聊天、Claude Code、Cowork 等）均按标准 API 费率计费。31 席位费：报告一致指出，企业席位约为 20 美元/用户/月（按年计费）。这与用户/销售代表的披露相符。0 跳跃：跨越 150 个席位迫使从捆绑的“包含使用”模式（团队）转变为席位费+完全计量的 API 计费（企业）。这很容易导致乘数效应，例如 3 倍以上，具体取决于使用量，尤其是在大量工程/编码使用的情况下。您的 40 万美元 → 140 万美元的示例与真实报告的案例相符（例如，组织中的类似数学扩展到数百名用户）。0 这种结构相对较新/最近在 Anthropic 的模型中得到强调，并且多家公司在扩展时都遇到了相同的“贴纸冲击”。11 未过滤的想法部分：精准观察 您的观点很现实，反映了更广泛的行业情绪，对吧现在： 积极的代币支出以促进增长 - 对于高投资回报率领域（工程、产品）的有效策略，但认知度较低。 可见性/冲击 - 极其常见。个人仪表板显示几天内收入数千美元（尤其是克劳德代码）可以推动更好的行为。 工程投资回报率 - 强烈共识：顶级模型通过开发人员的速度/质量为自己支付费用。 对其他角色有疑问 - 公平批评。许多非技术席位的利用率较低或可替换的工具。 支出限制传入 - 已经在企业中可用（组织/用户级别上限），并且执行更严格。 “代币最大化时代结束”：是的，这感觉像是过渡阶段。由于人工智能成本居高不下且使用规模庞大，供应商正在从补贴捆绑座位转向计量现实。谈判是关键 - 通过年度承诺获得许多安全的席位费减免或折扣。0 注意事项：确切的乘数取决于轻度用户与重度用户的组合、团队方面的高级/标准席位以及谈判。 “Claude Code”重团队感受最痛。这是 2026 年的一个常见痛点——你并不孤单。许多人正在探索分层访问、多个团队实例（解决方法、失去 SSO）或优化使用。需要帮助深入研究替代方案、谈判策略或与 OpenAI/Google 进行比较吗？   由   提交/u/Annual_Judge_7272   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1u2kt9i/under_150_seats/</guid>
+      <pubDate>Thu, 11 Jun 2026 01:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将 Andrej Karpathy 的 LLM Council 概念提升到了一个新的水平（Docker、MCP、技能、搜索、本地/云模型支持等等）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1u2epwk/i_took_andrej_karpathys_llm_council_concept_to/</link>
+      <description><![CDATA[ https://preview.redd.it/90dgpjg9ri6h1.png?width=3316&amp;format=png&amp;auto=webp&amp;s=5294bee2b5491b9270cdfa6928c78ab3f806cff8 我将 Andrej Karpathy 的 LLM 委员会概念提升到了一个新的水平（Docker、MCP 和本地模型支持） 我们希望从我们的 LLM 那里得到更好的答案，但依赖单一模型是不够的。 因此，我构建了 AI Counsel 来运行两种不同的审议模式： 首先，LLM 委员会模式。它运行一个 3 阶段的流程：个人回复、匿名同行评审和主席综合。这最适合事实性问题和直接答案。 第二，LLM 顾问模式。多个可定制的角色（如怀疑论者、战略家、伦理学家）在可配置的回合中辩论您的问题，达成共识以提供结构化的裁决。这最适合决策、策略和权衡。 我将该工具打包为 Docker 容器，并带有内置 MCP 服务器，以实现完整的 API 访问。 您可以将其连接到任何支持 MCP 的代理，例如 Hermes 或 OpenClaw。它具有专用技能，因此您的代理可以直接调用它。 您可以使用本地 Ollama 模型启动它，或连接来自 OpenCode Zen/Go 和 NVIDIA NIM 的免费模型。 我还内置了与 OpenAI、Anthropic、OpenCode、Mistral 和 DeepSeek 的直接连接。 为了对最新网络信息进行地面响应，我添加了一个搜索引擎。它支持 DuckDuckGo（免费，无 API 密钥）、Serper、Brave 和 TinyFish（均具有免费套餐）。 我还集成了 Jina AI，以获取完整的文章供法学硕士阅读。 该工具中的所有内容都是可配置的，从系统提示到模型温度。理事会有先进的辩论模型。 这个工具非常庞大。免费且完全开源。 查看 存储库：https://github.com/jacob-bd/the-ai-counsel   由   提交/u/KobyStam  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1u2epwk/i_took_andrej_karpathys_llm_council_concept_to/</guid>
+      <pubDate>Wed, 10 Jun 2026 20:58:34 GMT</pubDate>
+    </item>
     <item>
       <title>Google DeepMind 刚刚放弃了“DiffusionGemma”——通过图像式扩散模型生成文本</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1u298ix/google_deepmind_just_dropped_diffusiongemma_text/</link>
@@ -25,27 +46,6 @@
       <description><![CDATA[ 由   提交/u/Calvinball_24  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1u271pu/data_center_hate_is_the_great_unifier/</guid>
       <pubDate>Wed, 10 Jun 2026 16:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>影子人工智能与受制裁工具：你在哪里划清界限？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1u24mrb/shadow_ai_vs_sanctioned_tools_where_do_you_even/</link>
-      <description><![CDATA[我们几个月来一直在尝试在内部定义这一点，并一直在循环中进行。我们有一份认可的工具清单。 ChatGPT 企业就在上面。副驾驶在上面。企业特别要求并进行采购的其他一些工具。其他一切在技术上都没有得到批准。 问题是人工智能现在已经渗透到一切事物中。我们去年批准了Notion，Notion现在内置了人工智能助手。我们批准了Slack，Slack有人工智能摘要和内置人工智能工具。我们批准了一个项目管理平台，它在产品更新中推出了人工智能功能，但没有任何公告。当我们批准它们时，这些都没有被评估为人工智能工具。现在它们是这样的，流经它们的数据将进入我们从未审查过的外部模型。 然后就是浏览器扩展问题。员工正在将 AI 扩展直接安装到 Chrome 中。语法工具、写作助手、会议总结器、代码助手。他们中的一些人有权读取每个页面上的所有内容。我们发现大约 60 人安装了一个扩展程序，该扩展程序对所有浏览器内容（包括内部工具、CRM 数据、支持票证）具有完全读取权限。没有人注意到它。 影子人工智能的表面区域与影子IT完全不同。借助影子 IT，您可以在网络日志或云计费中找到信息。影子人工智能隐藏在批准的工具、浏览器、IDE 中。它不会产生新帐户或新支出。它只是静静地在那里移动数据。 其他团队在哪里划定界限以及您在实践中如何实际执行它？   由   提交/u/Constant-Angle-4777   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1u24mrb/shadow_ai_vs_sanctioned_tools_where_do_you_even/</guid>
-      <pubDate>Wed, 10 Jun 2026 14:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>🍔 麦当劳与谷歌合作在得来速车道上测试新的人工智能</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1u22ukh/mcdonalds_partners_with_google_to_test_new_ai_in/</link>
-      <description><![CDATA[ https://preview.redd.it/002gb6qing6h1.png?width=960&amp;format=png&amp;auto=webp&amp;s=67cefe414192bb82c780eb4d648c08e297b5152a 全球快餐连锁店麦当劳正在与 Google 合作，在其得来速车道上启动新型人工智能系统 ArchIQ 的测试。这标志着该公司第二次尝试自动化。 绰号为 Archy 的新数字助理最初将部署在五个地点。加盟商表示，该系统已经成功处理了超过一百万个订单，其中 90% 不需要人工干预。 然而，消费者仍然对这一举措持怀疑态度。许多人担心新系统会导致裁员和订购过程中出现大量错误，类似于之前实验中发生的情况。 此外，Wendy&#39;s 和 Taco Bell 正在进行类似的试验，而在 Checkers 的案例中，据透露，据称由人工智能处理的订单实际上是由离岸工人远程处理的。 来源：https://futurism.com/artificial-intelligence/mcdonalds-deploys-ai-powered-drive-thru   由   提交 /u/andrewaltair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1u22ukh/mcdonalds_partners_with_google_to_test_new_ai_in/</guid>
-      <pubDate>Wed, 10 Jun 2026 13:53:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>⚠️ ChatGPT 正在推荐诈骗在线商店和虚假网站</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1u22sja/chatgpt_is_recommending_scam_online_stores_and/</link>
-      <description><![CDATA[ https://preview.redd.it/jlgjz004ng6h1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=afce870cd151fb2033574eac8d553ad4909f537b 人工智能聊天机器人 ChatGPT 正在推荐诈骗者创建的虚假在线商店。根据 Ask Silver 的信息，该系统向用户提供了已不复存在品牌的克隆网站。 例如，聊天机器人建议破产零售商 Russell &amp; 的虚假网站。布罗姆利对用户说。专家怀疑 ChatGPT 的底层模型可能已被走私到其训练数据中的恶意内容所毒害。 这个问题令人担忧，因为包括亚马逊和谷歌在内的科技巨头正在积极致力于部署能够代表用户独立进行购买的专业数字助理。 国家贸易标准官员警告公众，诈骗者会使用任何新技术来接触受害者，因此应始终仔细检查聊天机器人的建议。 来源：https://futurism.com/artificial-intelligence/chatgpt-caught-recommending-scam-products   由   提交 /u/andrewaltair   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1u22sja/chatgpt_is_recommending_scam_online_stores_and/</guid>
-      <pubDate>Wed, 10 Jun 2026 13:50:54 GMT</pubDate>
     </item>
     <item>
       <title>🤖 阿根廷计划将人工智能管理的非人类公司合法化</title>
