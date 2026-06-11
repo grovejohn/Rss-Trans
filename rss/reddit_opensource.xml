@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 11 Jun 2026 12:36:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 18:03:59 GMT</lastBuildDate>
+    <item>
+      <title>用于 AI 线束输出的 FOSS Harness 甲板仪表板</title>
+      <link>https://www.reddit.com/r/opensource/comments/1u33gse/foss_harness_deck_dashboard_for_ai_harness_outputs/</link>
+      <description><![CDATA[我为 AI 编码工具构建了一个小型开源仪表板：目标是将分散的审核工件（聊天中的 Markdown 报告、HTML 模型、JSON 清单等）转变为单个“管理面板”报告。 存储库：https://github.com/TaylorFinklea/harness-deck 我希望获得有关报告格式/清单设计的反馈。   由   提交 /u/masterfink   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1u33gse/foss_harness_deck_dashboard_for_ai_harness_outputs/</guid>
+      <pubDate>Thu, 11 Jun 2026 16:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>omn​​ipackage - 一个使 RPM&DEB 打包和分发变得容易的工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1u2zy3p/omnipackage_a_tool_that_makes_rpmdeb_packaging/</link>
+      <description><![CDATA[       由   提交/u/oleg_antonyan  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1u2zy3p/omnipackage_a_tool_that_makes_rpmdeb_packaging/</guid>
+      <pubDate>Thu, 11 Jun 2026 14:02:07 GMT</pubDate>
+    </item>
     <item>
       <title>又嗨了</title>
       <link>https://www.reddit.com/r/opensource/comments/1u2xmed/hi_again/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>OwnTV — 适用于 Android TV 的免费开源 IPTV 播放器（自带 M3U/Xtream）</title>
       <link>https://www.reddit.com/r/opensource/comments/1u2oph8/owntv_a_free_opensource_iptv_player_for_android/</link>
-      <description><![CDATA[大家好👋 我在 Android TV 上使用 IPTV 已经很多年了，但老实说，大多数应用程序要么是付费的，要么就是不太好——甚至付费的应用程序也相当粗糙。因此，我决定在 AI 的大力帮助下构建自己的应用程序，结果比我预期的要好得多。 它被称为 OwnTV — 一款快速的原生 Android TV IPTV 播放器。它不附带任何频道；您只需添加自己的 M3U 或 Xtream 播放列表。它做了一些事情： 多个配置文件 - 每个配置文件都有自己的最爱、历史记录和内容。简历，以及可选的 PIN 锁和儿童模式 多个播放列表/来源 - 添加多个 M3U 或 Xtream 帐户并在个人资料中共享它们 直播电视、电影和电视节目带有完整EPG指南的系列（时间×频道网格） 电影和电视节目的离线下载剧集备份与备份恢复 — 移动您的个人资料和一个文件中的播放列表到另一台设备 由 libmpv (FFmpeg) 提供支持 — 基本上可以播放任何内容，并带有正确的字幕和字幕。音轨支持 原生 Android TV（Jetpack Compose、完整的 D-pad 导航）、干净的 Material 3 UI，即使有巨大的播放列表（50k+ 频道）也能保持快速 它始终是 100% 开源且免费 — 无广告、无订阅、无需付费。 在真正的 TCL Google TV 和 Android Studio 模拟器（Android TV 和 Google TV）上进行了测试，因此它应该可以运行大多数设置都很好。如果您有 Android TV 和自己的播放列表，请尝试一下 - 非常欢迎错误报告、想法和贡献 🙏 👉 github.com/ahXN00/OwnTV   由   提交/u/xiannero   [链接] [评论]]]></description>
+      <description><![CDATA[大家好👋 我在 Android TV 上使用 IPTV 已经很多年了，但老实说，大多数应用程序要么是付费的，要么就是不太好——甚至付费的应用程序也相当粗糙。因此，我决定在 AI 的大力帮助下构建自己的应用程序，结果比我预期的要好得多。 它被称为 OwnTV — 一款快速的原生 Android TV IPTV 播放器。它不附带任何频道；您只需添加自己的 M3U 或 Xtream 播放列表。它做了一些事情： 多个配置文件 - 每个配置文件都有自己的最爱、历史记录和内容。简历，以及可选的 PIN 锁和儿童模式 多个播放列表/来源 - 添加多个 M3U 或 Xtream 帐户并在个人资料中共享它们 直播电视、电影和电视节目带有完整EPG指南的系列（时间×频道网格） 电影和电视节目的离线下载剧集备份与备份恢复 — 移动您的个人资料和一个文件中的播放列表到另一台设备 由 libmpv (FFmpeg) 提供支持 — 基本上可以播放任何内容，并带有正确的字幕和字幕。音轨支持 原生 Android TV（Jetpack Compose、完整的 D-pad 导航）、干净的 Material 3 UI，即使有巨大的播放列表（50k+ 频道）也能保持快速 它始终是 100% 开源且免费 — 无广告、无订阅、无需付费。 在真正的 TCL Google TV 和 Android Studio 模拟器（Android TV 和 Google TV）上进行了测试，因此它应该可以运行大多数设置都很好。如果您有 Android TV 和自己的播放列表，请尝试一下 - 非常欢迎错误报告、想法和贡献 🙏 👉 github.com/ahXN00/OwnTV screesnhots: https://github.com/ahXN00/OwnTV/tree/main/extras/screenshots   由   提交/u/xiannero   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1u2oph8/owntv_a_free_opensource_iptv_player_for_android/</guid>
       <pubDate>Thu, 11 Jun 2026 04:17:39 GMT</pubDate>
     </item>
@@ -95,20 +109,6 @@
       <description><![CDATA[我正在构建 RedThread，这是一个用于可重复的 LLM/agent 红队活动的开源 CLI。 存储库：https://github.com/matheusht/redthread 该项目还处于早期阶段，但基本方向正在发挥作用：开展小型活动、评分结果、保留痕迹，以及使结果可重播。 粗略的演示结果：3 次运行，33.3% ASR，一次成功，一次部分成功，一次失败。 我会缩小范围。不是安全产品。不是预防层。更像是供人们构建或测试 LLM 应用程序和代理的实用工具。   由   提交/u/Appressive-Zone148  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1u1of9l/opensource_cli_for_replayable_llmagent_redteam/</guid>
       <pubDate>Wed, 10 Jun 2026 01:42:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何开源自定义 Jetson 相机驱动程序？ （许可和 GitHub 建议）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1ipva/how_should_i_go_about_opensourcing_a_custom/</link>
-      <description><![CDATA[大家好， 我为 Nvidia Jetson 主板开发了一个自定义摄像头驱动程序和 ISP 配置文件，我很乐意将其作为开源项目与社区分享。 为了避免这篇文章给人一种自我推销的感觉，我不会在这里详细介绍，但如果需要，我绝对可以提供更多背景信息。 我计划在 GitHub 上分享它，但我对开源许可的经验为零。我应该在自己的帐户下创建一个公共存储库并上传吗？在推送代码之前，我应该牢记哪些许可事项，以确保其受到适当保护，但仍然对社区有用？ 任何建议或最佳实践将不胜感激！   由   提交 /u/Upper_Difficulty3907   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1ipva/how_should_i_go_about_opensourcing_a_custom/</guid>
-      <pubDate>Tue, 09 Jun 2026 21:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Informity AI v0.14.0 — Mac 本地文档聊天和翻译 (MIT)</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1ciaz/informity_ai_v0140_local_document_chat_and/</link>
-      <description><![CDATA[已发布 Informity AI v0.14.0。此版本添加了完整的文档翻译工作流程，包括 OCR 提取、语气选择、导出为 Markdown 或纯文本等等 - 所有这些都在本地运行。 对于那些不熟悉的人：它是一款 Mac 应用程序，可以为您的文档建立索引，并让您可以通过引用来源的答案来提问。一切都在您的计算机上运行 - 没有云，没有帐户，没有遥测。 堆栈：Python 后端、Tauri/React 前端、用于矢量搜索的 sqlite-vec、默认情况下 Apple Silicon 上的 Qwen3 35B。 Ollama 支持任何本地模型。 GitHub：https://github.com/informity/informity-ai https://www.informity.ai   由   提交/u/informity  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1ciaz/informity_ai_v0140_local_document_chat_and/</guid>
-      <pubDate>Tue, 09 Jun 2026 17:54:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
