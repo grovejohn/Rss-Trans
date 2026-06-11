@@ -4,27 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>致力于所有 Web 开发的社区：前端和后端。有关更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 11 Jun 2026 07:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:36:18 GMT</lastBuildDate>
+    <item>
+      <title>谷歌发布了关于被人工智能引用的官方指南，有趣的部分与 GEO 机构销售的内容相矛盾（会让很多人感到不安）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2w59t/google_published_its_official_guide_on_getting/</link>
+      <description><![CDATA[免责声明：是的，我从事人工智能可见性工作，所以我对此肯定有偏见。但我想要进入的内容实际上与我自己的行业销售的内容有所不同，所以我认为它在这里有一席之地。 早在五月中旬，谷歌就发布了第一个关于如何出现在人工智能答案中的真正指南（人工智能概述、人工智能模式）。我看到了一堆关于它的评论，它总是同一首歌，构建你的标题，添加架构，通常的废话。除非有一个“流言”。文档中的部分我还没有看到有人接受，这是最有趣的部分。谷歌简单地说，著名的 llms.txt 文件没有任何作用，你应该停止沉迷于 Schema.org，而且分块是烟雾和镜子。让我笑了一下，因为这基本上是一些“GEO”的包装。代理机构现在正在收费。 他们所推动的其实是显而易见的。他们谈论“商品”与“非商品”内容。就像，如果人工智能可以自己写你的文章，它永远不会引用你，这是有道理的，它已经有了答案，为什么还要去找你。被引用的是对模型所没有的东西的满足。你实际测量的数字，你真正运行的测试，基本上是生活经验。 让我印象深刻的例子（不是在谷歌的指南中，在其他地方）是一个专门研究机器人吸尘器、垃圾领域权威的小博客，它在人工智能答案方面的排名超过了《纽约时报》。 《纽约时报》的域名强度比《纽约时报》强三倍。除了《纽约时报》发布了任何人都可以复制的附属列表文章之外，博客作者还用真实的测量结果拍摄了他的实际测试。猜猜谁被引用了。 我认为这就是它对你有用的地方。这意味着在大多数情况下您既不需要工具也不需要代理。拿你最通用的页面来说，问问自己“任何人都可以准确地写出这个”，如果答案是肯定的，请添加一些只有你知道的内容。您甚至不需要数据。一个简单的“每个客户问我的第一个问题就是这个”而你已经脱颖而出了。它是免费的，而且比所有技术调整的总和还要重要。 仍然让我困惑的一件事是测量。为什么法学硕士选择一个来源而不是另一个来源仍然相当不透明，而且它会随着每次更新而变化。很好奇是否有人真正看到来自 ChatGPT 或 Perplexity 的真实流量，因为到目前为止，每个月通常有 3 个访问者，即使这样，您也很难分辨出它登陆的是哪个页面。   由   提交/u/didiTonic  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2w59t/google_published_its_official_guide_on_getting/</guid>
+      <pubDate>Thu, 11 Jun 2026 11:16:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Agent、Claude CLI 和 Linear 一起工作。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2vroo/ai_agent_claude_cli_and_linear_all_working/</link>
+      <description><![CDATA[我在 Google Cloud VM 实例上设置了 Claude CLI 实例，克隆了我的所有项目存储库（我们运营一个开发机构），并将 Webhook 连接到 Linear。当工单被标记时，CLI 会自动审查相关的存储库，了解需要做什么，并将详细的技术故障直接放入工单中。 这缩短了工单完成时间，因为开发人员现在有更多的上下文可以输入 Claude 代码或游标并开始构建。 下一步：我试图让 Claude 根据该评估实际创建工作 PR，并端到端地淘汰整个工单。仍在弄清楚循环是否可以完全关闭。 有人研究过这样的系统吗？很想听听您的方法。   由   提交/u/theTbling  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2vroo/ai_agent_claude_cli_and_linear_all_working/</guid>
+      <pubDate>Thu, 11 Jun 2026 10:57:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于长时间在家编码的开发人员来说，工作环境有多重要？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2vi9z/how_important_is_the_work_environment_for_a/</link>
+      <description><![CDATA[作为初级 Web 开发人员，要能够高效地在线学习和工作，需要具备哪些最低要求？就像你应该在私人房间里编码吗？什么样的办公桌合适，什么不合适？屋内屋外的平静气氛有多重要？我知道有一种叫做人体工程学的东西，我想问问那些有在家学习和工作以及长时间在家编码经验的程序员，我们是否可以将工作环境分为三种类型：不合适、可接受、良好。每个类别应该包含哪些内容？ 请分享您在您拥有的任何工作环境中的经验。谢谢。   由   提交/u/DurianLongjumping329  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2vi9z/how_important_is_the_work_environment_for_a/</guid>
+      <pubDate>Thu, 11 Jun 2026 10:43:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何创造性地使用 CSS/HTML/JS 来制作故事板作品集？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2ttxu/how_can_i_creatively_use_csshtmljs_for_a/</link>
+      <description><![CDATA[让我们假设我们能够使用 CSS/HTML/JS 做任何可能的事情。 （由于托管限制，没有 typescript 或 node.js） 如何将其用于动画/故事板组合，与制作展示艺术墙之类的东西不同，如何以专业的方式使其具有交互性？  我对利用网络本身力量的想法更感兴趣，而不仅仅是装饰效果   由   提交/u/Enc7  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2ttxu/how_can_i_creatively_use_csshtmljs_for_a/</guid>
+      <pubDate>Thu, 11 Jun 2026 09:07:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Desktop 在每次启动时都会生成 1.8 GB Hyper-V 虚拟机，甚至仅用于聊天用途</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2t4ac/claude_desktop_spawns_18_gb_hyperv_vm_on_every/</link>
+      <description><![CDATA[       由   提交/u/techie_e  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2t4ac/claude_desktop_spawns_18_gb_hyperv_vm_on_every/</guid>
+      <pubDate>Thu, 11 Jun 2026 08:24:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>当流量高但转化率低时，如何区分真实用户和机器人？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1u2t32n/how_do_you_distinguish_real_users_from_bots_when/</link>
+      <description><![CDATA[      我正在开发一个名为 IconShelf 的免费 SVG 图标项目，最近发现一些令人困惑的事情。 分析显示流量不错，但注册和转化率远低于预期。为了进行调查，我开始在 Microsoft Clarity 中查看会话，发现的行为让我怀疑很大一部分访问可能来自机器人、爬网程序或自动流量。 我已经在使用 Cloudflare Bot Management 和多个 WAF 规则。 我很好奇其他开发人员如何处理此问题。  您使用哪些工具来识别机器人流量？ 您是否依赖分析、服务器日志、清晰度，还是其他什么？ 你如何衡量“真实”的效果？流量与原始综合浏览量的比较？ 您是否发现您的实际流量远低于分析建议的流量？  我很想听听什么对您有用，以及从跟踪用户行为和转化中吸取的经验教训。 从开发人员的角度来看，解决方案是什么？ 屏幕截图中 70% 是机器人？  https://preview.redd.it/19jsil0e5m6h1.png?width=2604&amp;format=png&amp;auto=webp&amp;s=70591a9e33c635cfbaacc64c9af1b5800b6e2e74   由   提交 /u/Parking_Pea5161   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1u2t32n/how_do_you_distinguish_real_users_from_bots_when/</guid>
+      <pubDate>Thu, 11 Jun 2026 08:22:34 GMT</pubDate>
+    </item>
     <item>
       <title>你的包管理器在骗你：npm、Yarn、pnpm、Bun 和 Deno 的权衡</title>
       <link>https://www.reddit.com/r/webdev/comments/1u2r0ac/your_package_manager_is_lying_to_you_npm_yarn/</link>
       <description><![CDATA[      将包管理器分解为不同的依赖模型，而不是“更快的 npm 替代品”。它通过再现性、兼容性、磁盘使用情况和迁移失败模式对 npm、Yarn、pnpm、Bun 和 Deno 进行比较。   由   提交 /u/OtherwisePush6424   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1u2r0ac/your_package_manager_is_lying_to_you_npm_yarn/</guid>
       <pubDate>Thu, 11 Jun 2026 06:20:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了一个 POC 框架，将验证、OpenAPI 和测试统一到一个地方</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u2qe7p/built_a_poc_framework_that_unifies_validation/</link>
-      <description><![CDATA[      保持验证架构、OpenAPI 文档和测试装置同步需要手动操作。我构建了 TriadJS 作为 POC，将它们整合到一个地方。 您可以使用 TypeScript DSL 定义一次 API。该框架派生以下内容：  运行时验证 OpenAPI 3.1 和 OpenAPI 3.1 AsyncAPI 规范 通过 Drizzle 进行数据库架构 边界测试（调用 scenario.auto() 读取架构约束以生成模糊测试）  这是一个 1.0 之前的项目，具有特定的架构妥协：  自动生成的测试抽象出边缘情况，这会使调试变得复杂。 专为 AI 设计：它优化对于单文件上下文，因此法学硕士可以读取 API，而无需遍历多个 YAML 和测试文件。这优先考虑脚手架而不是标准模块化。 内置的 claude 插件具有技能（架构 DSL、端点、通道、具有权威断言短语表的 BDD 行为、测试、适配器、Drizzle、CLI、DI）和 8 个斜杠命令（/triadjs:new、/triadjs:model、/triadjs:endpoint、 /triadjs:channel、/triadjs:scenario、/triadjs:test、/triadjs:docs、/triadjs:validate）。  我正在寻找有关此架构的反馈。这种程度的紧密耦合是一种反模式，还是单一事实来源值得 DSL 要求？ Repo：TriadJS   由   提交 /u/justhamade   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u2qe7p/built_a_poc_framework_that_unifies_validation/</guid>
-      <pubDate>Thu, 11 Jun 2026 05:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 API，可以将任何文件或 URL 转换为结构化数据 — 107 种格式，一个端点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u2ohbc/i_built_an_api_that_turns_any_file_or_url_into/</link>
-      <description><![CDATA[大家好 - 我一直在构建 Drive AI 一个文件智能 API，并想分享它。 问题： 如果您正在构建 AI 代理、RAG 管道或任何需要理解文档的应用程序，您最终会将 5-6 个不同的库绑在一起 - 一个用于 PDF，一份用于屏幕截图，一份用于 Office 文档，一份用于 Markdown 转换，一份用于 OCR。每个中断都不同，但没有一个会为您提供结构化输出。 它的作用：  发送任何文件或 URL，获取结构化 JSON。定义您需要的架构，API 使用键入字段、置信度分数和指向文档中数据来源的引用来提取它。 107+ 文件格式 - PDF、Office 文档（Word、Excel、PPT）、40 多种代码语言、图像、视频、网站。一个 API 即可处理所有这些问题。 不仅仅是提取。您还可以： 将任何内容转换为干净的 Markdown 生成 URL 屏幕截图（使用设备预设、深色模式、全页捕获） 询问有关文档的分析问题并获得合理的分步答案 获取 Open Graph 图像以进行链接预览   它与竞争对手有何不同？ 大多数“file to X” API 只做一件事——缩略图或降价或提取。这处理整个管道。提取不仅仅是 OCR 和转储 — 您定义一个 JSON 模式，它会返回带有置信度分数的键入数据。将其视为“文档的 SQL”。 简单的基于路径的 API 也是我在其他地方没有见过的东西：GET /md/example.com/report.pdf 为您提供 markdown。 GET /example.com 为您提供屏幕截图。基本使用无需授权。 免费套餐：100 个积分/月，无需银行卡。还有一个交互式游乐场，您可以在其中测试每个端点，而无需编写代码。 希望得到任何使用文档进行构建或进行 AI 代理工作的人的反馈。缺少什么？什么会让您改变当前的设置？ 尝试一下 https://dev.thedrive.ai   由   提交 /u/karkibigyan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u2ohbc/i_built_an_api_that_turns_any_file_or_url_into/</guid>
-      <pubDate>Thu, 11 Jun 2026 04:06:29 GMT</pubDate>
     </item>
     <item>
       <title>困惑是否为此聘请网络/应用程序开发人员或使用人工智能</title>
@@ -81,34 +109,6 @@
       <description><![CDATA[       由   提交/u/fagnerbrack  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1u23cmg/the_unwritten_laws_of_software_engineering/</guid>
       <pubDate>Wed, 10 Jun 2026 14:12:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>adidas.com 不就是一个纯粹的垃圾网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u229og/is_adidascom_not_just_the_absolute_garbage_of_a/</link>
-      <description><![CDATA[在阿迪达斯网站购物是错误的，现在我后悔了。我应该留意大量页面闪烁、抖动、随机滚动、弹出窗口以及它完全冻结了一台相当新的 iPhone 的事实所发出的警告信号。就是这么重。过滤和搜索只是调用一个随机生成器，它会输出您没有搜索到的任何内容。登录强制使用密钥而不是简单密码。哦，它也无法登录。跟踪您的订单只是他们用文字描述的海市蜃楼，但尚未进行振动编码。 您认为这种类型的网站是内部开发的还是外包的？   由   提交/u/GrumpyBitFlipper  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u229og/is_adidascom_not_just_the_absolute_garbage_of_a/</guid>
-      <pubDate>Wed, 10 Jun 2026 13:29:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>89 个 npm 包再次被泄露。删除软件包并不会删除恶意软件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u1zoi3/89_npm_packages_got_compromised_again_deleting/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u1zoi3/89_npm_packages_got_compromised_again_deleting/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>现代浏览器可以处理多少行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u1zhtu/how_many_rows_can_a_modern_browser_handle/</link>
-      <description><![CDATA[嗨， 您曾尝试通过  在 html 上呈现多少行？我可能需要在一页上显示超过 30 万行，并且想知道浏览器是否会死机？   由   提交 /u/Yha_Boiii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u1zhtu/how_many_rows_can_a_modern_browser_handle/</guid>
-      <pubDate>Wed, 10 Jun 2026 11:29:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>网格车道现场指南简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1u1vszy/introducing_the_field_guide_to_grid_lanes/</link>
-      <description><![CDATA[       由   提交/u/feross  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1u1vszy/introducing_the_field_guide_to_grid_lanes/</guid>
-      <pubDate>Wed, 10 Jun 2026 08:03:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

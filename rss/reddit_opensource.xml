@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>与开源相关的所有内容的 Reddit 子版块（对于此上下文，我们在此不再定义开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 11 Jun 2026 07:21:04 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 12:36:24 GMT</lastBuildDate>
+    <item>
+      <title>又嗨了</title>
+      <link>https://www.reddit.com/r/opensource/comments/1u2xmed/hi_again/</link>
+      <description><![CDATA[      我几天前发布了关于我的开源的帖子，如果您尝试过或愿意尝试，我想提出一点请求，请发送给我用它做什么，以便我可以作为示例来展示 ty ❤️  从上一篇文章👇 中，我为开发人员创建了一组免费的现代响应式网站模板，自由职业者、初创公司和小型企业。 该存储库包括登录页面、投资组合网站、业务模板以及其他使用 HTML、CSS 和 JavaScript 构建的即用型网页设计。一切都经过精心设计，易于定制并用于个人或商业项目。 我正在积极扩展集合，并希望听到您的反馈、建议或功能请求。 GitHub：https://github.com/Uniquekingai/web-templates-free 如果您发现它有用，将不胜感激。   由   提交/u/Acrobatic_Science_66  [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1u2xmed/hi_again/</guid>
+      <pubDate>Thu, 11 Jun 2026 12:26:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试建立自己的在线法官执行服务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1u2x2p9/tried_building_my_own_online_judge_execution/</link>
+      <description><![CDATA[过去几周我一直在从头开始构建一个在线代码执行平台，以了解沙箱、容器、安全性和后端系统。 它名为 Judex，它是开源的： https://github.com/Dharshan2208/judex 如果您能发现任何反馈、批评、功能想法或安全问题，我将不胜感激。我仍在学习中，并且很乐意改进它。 感谢您的浏览...   由   提交/u/pikahikmag   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1u2x2p9/tried_building_my_own_online_judge_execution/</guid>
+      <pubDate>Thu, 11 Jun 2026 12:01:12 GMT</pubDate>
+    </item>
     <item>
       <title>bast,用于构建高效、可扩展和生产服务器端应用程序的结构化Go框架,下载bast的源码_GitHub_帮酷</title>
       <link>https://www.reddit.com/r/opensource/comments/1u2qbyi/github_bastionframeworkbast_a_structured_go/</link>
@@ -95,20 +109,6 @@
       <description><![CDATA[已发布 Informity AI v0.14.0。此版本添加了完整的文档翻译工作流程，包括 OCR 提取、语气选择、导出为 Markdown 或纯文本等等 - 所有这些都在本地运行。 对于那些不熟悉的人：它是一款 Mac 应用程序，可以为您的文档建立索引，并让您可以通过引用来源的答案来提问。一切都在您的计算机上运行 - 没有云，没有帐户，没有遥测。 堆栈：Python 后端、Tauri/React 前端、用于矢量搜索的 sqlite-vec、默认情况下 Apple Silicon 上的 Qwen3 35B。 Ollama 支持任何本地模型。 GitHub：https://github.com/informity/informity-ai https://www.informity.ai   由   提交/u/informity  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1u1ciaz/informity_ai_v0140_local_document_chat_and/</guid>
       <pubDate>Tue, 09 Jun 2026 17:54:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，可以分析任何网站并提取其完整的设计系统（Tailwind、React 组件、设计令牌）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u1c19x/i_built_a_tool_that_analyzes_any_website_and/</link>
-      <description><![CDATA[嘿 Reddit！ 我想分享一个我一直在做的项目。它是一个网站分析器，旨在拆除任何实时网站并提取其设计 DNA：颜色、排版、间距、组件和用户体验模式。 主要功能：   无缝导出到完整的 Tailwind 配置  根据提取的模式生成 React 组件  设计令牌提取  完成结构化DESIGN.md报告中的细分  技术堆栈： Next.js、TailwindCSS、FastAPI 和用于提取逻辑的 Playwright。 该项目完全开源，我正在寻找反馈、功能创意或贡献者！ 🔗 GitHub存储库： https://github.com/jomvick/design-oracle.git 如果您发现它有用，请随意投星⭐️或提出问题！   由   提交 /u/Substantial_Swim8440   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u1c19x/i_built_a_tool_that_analyzes_any_website_and/</guid>
-      <pubDate>Tue, 09 Jun 2026 17:38:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tuta 和 Proton：开源客户端不会产生开源服务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1u19lms/tuta_proton_an_open_source_client_does_not_result/</link>
-      <description><![CDATA[       由   提交 /u/ssddanbrown   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1u19lms/tuta_proton_an_open_source_client_does_not_result/</guid>
-      <pubDate>Tue, 09 Jun 2026 16:13:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
