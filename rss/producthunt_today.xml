@@ -4,7 +4,35 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 16 Jun 2026 13:20:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:50:18 GMT</lastBuildDate>
+    <item>
+      <title>HTML部署器</title>
+      <link>https://www.producthunt.com/products/html-deployer-2</link>
+      <description><![CDATA[
+            将站点从 AI 聊天部署到已发布的 HTML 
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/html-deployer-2</guid>
+      <pubDate>Tue, 16 Jun 2026 05:00:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>藏</title>
+      <link>https://www.producthunt.com/products/stash-18</link>
+      <description><![CDATA[
+            一个隐藏的口袋，可容纳杂乱的 Dock 应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/stash-18</guid>
+      <pubDate>Tue, 16 Jun 2026 03:52:22 GMT</pubDate>
+    </item>
     <item>
       <title>查特伍德的语音通话</title>
       <link>https://www.producthunt.com/products/chatwoot</link>
@@ -18,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chatwoot</guid>
       <pubDate>Tue, 16 Jun 2026 02:51:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁伯恩德莫尔</title>
-      <link>https://www.producthunt.com/products/whoburnedmore</link>
-      <description><![CDATA[
-            Spotify 为 Claude、Codex 和公共排行榜做好了准备。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/whoburnedmore</guid>
-      <pubDate>Tue, 16 Jun 2026 00:36:06 GMT</pubDate>
     </item>
     <item>
       <title>寓言观察</title>
@@ -48,102 +62,60 @@
       <pubDate>Mon, 15 Jun 2026 20:25:22 GMT</pubDate>
     </item>
     <item>
-      <title>客户集会</title>
-      <link>https://www.producthunt.com/products/clientjam</link>
+      <title>友友工作室</title>
+      <link>https://www.producthunt.com/products/yoamigo-studio</link>
       <description><![CDATA[
-            为设计师和机构提供人工智能驱动的潜在客户开发
+            在您已经付费的人工智能上发布真正的应用程序。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/clientjam</guid>
-      <pubDate>Mon, 15 Jun 2026 17:54:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/yoamigo-studio</guid>
+      <pubDate>Mon, 15 Jun 2026 20:00:21 GMT</pubDate>
     </item>
     <item>
-      <title>土地</title>
-      <link>https://www.producthunt.com/products/kraina</link>
+      <title>牛油果</title>
+      <link>https://www.producthunt.com/products/avocado-studio</link>
       <description><![CDATA[
-            将您的户外活动变成一场领土游戏。
+            适用于任何 Next.js 网站的 AI 原生内容操作
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/kraina</guid>
-      <pubDate>Mon, 15 Jun 2026 16:43:32 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/avocado-studio</guid>
+      <pubDate>Mon, 15 Jun 2026 19:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>代理浏览</title>
-      <link>https://www.producthunt.com/products/agentbrowse</link>
+      <title>GlassKit 用户界面</title>
+      <link>https://www.producthunt.com/products/glasskit-ui</link>
       <description><![CDATA[
-            将网络作为命令行提供给您的 AI 编码代理
+            适用于 Meta 的 Ray-Ban Display 眼镜的 AI-ready React UI
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/agentbrowse</guid>
-      <pubDate>Mon, 15 Jun 2026 12:59:50 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/glasskit-ui</guid>
+      <pubDate>Mon, 15 Jun 2026 18:31:53 GMT</pubDate>
     </item>
     <item>
-      <title>简历写作网</title>
-      <link>https://www.producthunt.com/products/resumewriting-com</link>
+      <title>已发表</title>
+      <link>https://www.producthunt.com/products/publia</link>
       <description><![CDATA[
-            唯一专为简历撰写而设计的AI工具
+            AI 制造什么，Publia 就会运送什么。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/resumewriting-com</guid>
-      <pubDate>Mon, 15 Jun 2026 12:31:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>天篷</title>
-      <link>https://www.producthunt.com/products/canopy-5</link>
-      <description><![CDATA[
-            本机 macOS 上的并行沙盒 Claude Code 会话
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/canopy-5</guid>
-      <pubDate>Mon, 15 Jun 2026 08:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>情绪</title>
-      <link>https://www.producthunt.com/products/mood-5</link>
-      <description><![CDATA[
-            安静记录你的感受
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mood-5</guid>
-      <pubDate>Sun, 14 Jun 2026 22:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>闪烁</title>
-      <link>https://www.producthunt.com/products/glint-9</link>
-      <description><![CDATA[
-            克劳德代码活动，就在您想要的地方。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/glint-9</guid>
-      <pubDate>Sun, 14 Jun 2026 17:27:34 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/publia</guid>
+      <pubDate>Mon, 15 Jun 2026 06:27:16 GMT</pubDate>
     </item>
     <item>
       <title>鬼</title>
@@ -160,18 +132,32 @@
       <pubDate>Sat, 13 Jun 2026 13:23:50 GMT</pubDate>
     </item>
     <item>
-      <title>开发清理器</title>
-      <link>https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools</link>
+      <title>休曼你怎么样？</title>
+      <link>https://www.producthunt.com/products/how-hueman-are-you</link>
       <description><![CDATA[
-            释放您的开发工具和人工智能应用程序囤积的千兆字节
+            在时间耗尽之前找到奇数块
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/devcleaner-reclaim-gbs-from-dev-tools</guid>
-      <pubDate>Thu, 11 Jun 2026 19:25:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/how-hueman-are-you</guid>
+      <pubDate>Fri, 12 Jun 2026 20:14:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>维德行者</title>
+      <link>https://www.producthunt.com/products/lasso-5</link>
+      <description><![CDATA[
+            利用 AI 更快地发布 YouTube 视频
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/lasso-5</guid>
+      <pubDate>Fri, 12 Jun 2026 15:54:18 GMT</pubDate>
     </item>
     <item>
       <title>键盘副驾驶</title>
@@ -188,32 +174,46 @@
       <pubDate>Wed, 10 Jun 2026 15:06:51 GMT</pubDate>
     </item>
     <item>
-      <title>滕德尔</title>
-      <link>https://www.producthunt.com/products/tendlet</link>
+      <title>创客之爪</title>
+      <link>https://www.producthunt.com/products/makersclaw</link>
       <description><![CDATA[
-            了解、计划和分享对宠物和植物的护理
+            雇用居住在 Slack、Teams、Telegram 中的 AI 员工
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tendlet</guid>
-      <pubDate>Sat, 30 May 2026 21:46:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/makersclaw</guid>
+      <pubDate>Tue, 02 Jun 2026 13:31:42 GMT</pubDate>
     </item>
     <item>
-      <title>双摄像头人工智能</title>
-      <link>https://www.producthunt.com/products/dualcam-ai</link>
+      <title>苏博蒂兹</title>
+      <link>https://www.producthunt.com/products/subotiz</link>
       <description><![CDATA[
-              同时记录前后摄像头
+            更智能的货币化。订阅。卖。规模。 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dualcam-ai</guid>
-      <pubDate>Tue, 19 May 2026 14:14:39 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/subotiz</guid>
+      <pubDate>Thu, 28 May 2026 06:34:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>金鱼</title>
+      <link>https://www.producthunt.com/products/goldfish-early-access</link>
+      <description><![CDATA[
+            按选项。它了解您的工作并像您一样回复
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/goldfish-early-access</guid>
+      <pubDate>Sat, 23 May 2026 04:46:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
