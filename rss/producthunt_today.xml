@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 17 Jun 2026 12:43:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:40:45 GMT</lastBuildDate>
     <item>
       <title>Wolfram 语言 15</title>
       <link>https://www.producthunt.com/products/wolfram-mathematica</link>
@@ -18,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/wolfram-mathematica</guid>
       <pubDate>Wed, 17 Jun 2026 06:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>剪辑完成</title>
+      <link>https://www.producthunt.com/products/clipdone</link>
+      <description><![CDATA[
+            自动短视频编辑
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clipdone</guid>
+      <pubDate>Wed, 17 Jun 2026 04:57:46 GMT</pubDate>
     </item>
     <item>
       <title>安卓17</title>
@@ -62,6 +76,48 @@
       <pubDate>Tue, 16 Jun 2026 22:04:05 GMT</pubDate>
     </item>
     <item>
+      <title>瓦里奥合成器</title>
+      <link>https://www.producthunt.com/products/wario-style</link>
+      <description><![CDATA[
+            将歌曲转换为复古 Gameboy 风格的游戏机音乐
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/wario-style</guid>
+      <pubDate>Tue, 16 Jun 2026 14:20:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>超级目标</title>
+      <link>https://www.producthunt.com/products/supergoal</link>
+      <description><![CDATA[
+            菜单栏中的世界杯
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/supergoal</guid>
+      <pubDate>Tue, 16 Jun 2026 09:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>脑流</title>
+      <link>https://www.producthunt.com/products/brainflow-2</link>
+      <description><![CDATA[
+            将杂乱的想法变成连贯的笔记
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/brainflow-2</guid>
+      <pubDate>Tue, 16 Jun 2026 09:18:05 GMT</pubDate>
+    </item>
+    <item>
       <title>成帧器3.0</title>
       <link>https://www.producthunt.com/products/framer</link>
       <description><![CDATA[
@@ -76,32 +132,18 @@
       <pubDate>Tue, 16 Jun 2026 09:01:17 GMT</pubDate>
     </item>
     <item>
-      <title>点击签名</title>
-      <link>https://www.producthunt.com/products/tapsign</link>
+      <title>帕拉诺.ai</title>
+      <link>https://www.producthunt.com/products/parano-ai</link>
       <description><![CDATA[
-            轻松发送、签署和管理文档
+            永远不会错过竞争对手的举动
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tapsign</guid>
-      <pubDate>Tue, 16 Jun 2026 08:59:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tyto by ai-coustics 设计</title>
-      <link>https://www.producthunt.com/products/tyto</link>
-      <description><![CDATA[
-            预测语音 AI 性能的音频洞察
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/tyto</guid>
-      <pubDate>Tue, 16 Jun 2026 07:04:43 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/parano-ai</guid>
+      <pubDate>Tue, 16 Jun 2026 07:01:51 GMT</pubDate>
     </item>
     <item>
       <title>香菜</title>
@@ -118,20 +160,6 @@
       <pubDate>Mon, 15 Jun 2026 20:29:47 GMT</pubDate>
     </item>
     <item>
-      <title>西班牙语</title>
-      <link>https://www.producthunt.com/products/spanly</link>
-      <description><![CDATA[
-            查看 AI 代理在 MCP 服务器内执行哪些操作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/spanly</guid>
-      <pubDate>Mon, 15 Jun 2026 16:36:42 GMT</pubDate>
-    </item>
-    <item>
       <title>深度工作计划</title>
       <link>https://www.producthunt.com/products/deep-work-plan</link>
       <description><![CDATA[
@@ -146,46 +174,18 @@
       <pubDate>Mon, 15 Jun 2026 00:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>轨迹创始人</title>
-      <link>https://www.producthunt.com/products/locus-founder</link>
+      <title>观众提示</title>
+      <link>https://www.producthunt.com/products/audiencecue</link>
       <description><![CDATA[
-            给人工智能代理发短信，它会构建+运营您的业务
+            将 YouTube 评论转化为引用的见解和报告
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/locus-founder</guid>
-      <pubDate>Sun, 14 Jun 2026 19:19:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Swytchcode CLI</title>
-      <link>https://www.producthunt.com/products/swytchcode</link>
-      <description><![CDATA[
-            让代理能够可靠地访问 2,000 多个具有持久状态的 API
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/swytchcode</guid>
-      <pubDate>Sat, 13 Jun 2026 14:10:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>爪轻松</title>
-      <link>https://www.producthunt.com/products/clawease</link>
-      <description><![CDATA[
-            为中小企业预约的人工智能业务运营商。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/clawease</guid>
-      <pubDate>Tue, 09 Jun 2026 03:54:09 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/audiencecue</guid>
+      <pubDate>Sun, 14 Jun 2026 03:51:59 GMT</pubDate>
     </item>
     <item>
       <title>泰瑞诺</title>
@@ -202,18 +202,18 @@
       <pubDate>Mon, 01 Jun 2026 16:05:45 GMT</pubDate>
     </item>
     <item>
-      <title>内存</title>
-      <link>https://www.producthunt.com/products/memoire</link>
+      <title>文档农场</title>
+      <link>https://www.producthunt.com/products/docfarm</link>
       <description><![CDATA[
-            产品设计团队的人工智能代理工具
+            托管、共享和跟踪您的 AI 构建的所有内容
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/memoire</guid>
-      <pubDate>Sat, 09 May 2026 17:02:43 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/docfarm</guid>
+      <pubDate>Tue, 26 May 2026 13:42:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
