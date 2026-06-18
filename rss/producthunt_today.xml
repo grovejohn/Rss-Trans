@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 17 Jun 2026 22:27:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 02:11:08 GMT</lastBuildDate>
     <item>
       <title>安卓17</title>
       <link>https://www.producthunt.com/products/android</link>
@@ -20,46 +20,32 @@
       <pubDate>Wed, 17 Jun 2026 04:27:25 GMT</pubDate>
     </item>
     <item>
-      <title>贴纸字</title>
-      <link>https://www.producthunt.com/products/stickerwords</link>
+      <title>重新整理</title>
+      <link>https://www.producthunt.com/products/redactify</link>
       <description><![CDATA[
-            从周围的世界学习新单词
+            视频和音频的自动脏话审查
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/stickerwords</guid>
-      <pubDate>Wed, 17 Jun 2026 04:15:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/redactify</guid>
+      <pubDate>Wed, 17 Jun 2026 01:07:19 GMT</pubDate>
     </item>
     <item>
-      <title>无限</title>
-      <link>https://www.producthunt.com/products/infinite-the-growth-engineering-agent</link>
+      <title>伊德姆利</title>
+      <link>https://www.producthunt.com/products/idmly</link>
       <description><![CDATA[
-            操作系统运行时将 GA4、PostHog 和 Stripe 统一到本地数据库中
+            将任何 HTML/CSS 设计转换为可编辑的 InDesign 文件
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/infinite-the-growth-engineering-agent</guid>
-      <pubDate>Tue, 16 Jun 2026 22:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>展示柜</title>
-      <link>https://www.producthunt.com/products/vitrine</link>
-      <description><![CDATA[
-            将任何照片变成美丽的壁纸
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/vitrine</guid>
-      <pubDate>Tue, 16 Jun 2026 10:47:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/idmly</guid>
+      <pubDate>Tue, 16 Jun 2026 20:51:00 GMT</pubDate>
     </item>
     <item>
       <title>成帧器3.0</title>
@@ -76,20 +62,6 @@
       <pubDate>Tue, 16 Jun 2026 09:01:17 GMT</pubDate>
     </item>
     <item>
-      <title>黑鸟</title>
-      <link>https://www.producthunt.com/products/mirlo</link>
-      <description><![CDATA[
-            社交媒体带来真正的联系。没有点赞，没有算法。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mirlo</guid>
-      <pubDate>Tue, 16 Jun 2026 08:44:36 GMT</pubDate>
-    </item>
-    <item>
       <title>杜奥拉</title>
       <link>https://www.producthunt.com/products/dualora-dual-size-recorder</link>
       <description><![CDATA[
@@ -104,18 +76,32 @@
       <pubDate>Tue, 16 Jun 2026 07:38:31 GMT</pubDate>
     </item>
     <item>
-      <title>西班牙语</title>
-      <link>https://www.producthunt.com/products/spanly</link>
+      <title>帕拉诺.ai</title>
+      <link>https://www.producthunt.com/products/parano-ai</link>
       <description><![CDATA[
-            查看 AI 代理在 MCP 服务器内执行哪些操作
+            永远不会错过竞争对手的举动
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/spanly</guid>
-      <pubDate>Mon, 15 Jun 2026 16:36:42 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/parano-ai</guid>
+      <pubDate>Tue, 16 Jun 2026 07:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>窗格流</title>
+      <link>https://www.producthunt.com/products/paneflow</link>
+      <description><![CDATA[
+            让人工智能代理构建真正的动画幻灯片
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/paneflow</guid>
+      <pubDate>Mon, 15 Jun 2026 22:00:06 GMT</pubDate>
     </item>
     <item>
       <title>多普斯</title>
@@ -160,18 +146,18 @@
       <pubDate>Sun, 14 Jun 2026 19:19:27 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome 版 Tapfree</title>
-      <link>https://www.producthunt.com/products/tapfree-for-android-2</link>
+      <title>观众提示</title>
+      <link>https://www.producthunt.com/products/audiencecue</link>
       <description><![CDATA[
-            语音听写可适应屏幕上的内容
+            将 YouTube 评论转化为引用的见解和报告
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tapfree-for-android-2</guid>
-      <pubDate>Sat, 13 Jun 2026 15:07:03 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/audiencecue</guid>
+      <pubDate>Sun, 14 Jun 2026 03:51:59 GMT</pubDate>
     </item>
     <item>
       <title>Swytchcode CLI</title>
@@ -186,6 +172,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/swytchcode</guid>
       <pubDate>Sat, 13 Jun 2026 14:10:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Charlie Labs 的守护进程</title>
+      <link>https://www.producthunt.com/products/daemons-by-charlie-labs</link>
+      <description><![CDATA[
+            使用 AI 代理保持 PR、问题、CI 和文档的移动
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/daemons-by-charlie-labs</guid>
+      <pubDate>Fri, 05 Jun 2026 20:18:53 GMT</pubDate>
     </item>
     <item>
       <title>泰瑞诺</title>
