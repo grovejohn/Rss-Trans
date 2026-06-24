@@ -4,20 +4,34 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 24 Jun 2026 01:53:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 06:33:25 GMT</lastBuildDate>
     <item>
-      <title>蒸汽机</title>
-      <link>https://www.producthunt.com/products/steam-machine</link>
+      <title>密码</title>
+      <link>https://www.producthunt.com/products/sipcode</link>
       <description><![CDATA[
-            适合大屏幕游戏的小巧而强大的 PC
+            保持 Claude Code 的上下文干净，以获得更清晰的答案
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/steam-machine</guid>
-      <pubDate>Tue, 23 Jun 2026 00:12:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sipcode</guid>
+      <pubDate>Tue, 23 Jun 2026 00:11:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>纳米公司</title>
+      <link>https://www.producthunt.com/products/nanocorp</link>
+      <description><![CDATA[
+            一句话找到一家公司——从网站到广告
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/nanocorp</guid>
+      <pubDate>Mon, 22 Jun 2026 21:59:38 GMT</pubDate>
     </item>
     <item>
       <title>簇绒</title>
@@ -48,18 +62,32 @@
       <pubDate>Mon, 22 Jun 2026 17:41:48 GMT</pubDate>
     </item>
     <item>
-      <title>罗斯普利</title>
-      <link>https://www.producthunt.com/products/rosply</link>
+      <title>德克威斯</title>
+      <link>https://www.producthunt.com/products/deckwise</link>
       <description><![CDATA[
-            自主控制您的计算机的人工智能代理
+            用于可编辑套牌的 AI 演示代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/rosply</guid>
-      <pubDate>Mon, 22 Jun 2026 17:19:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/deckwise</guid>
+      <pubDate>Mon, 22 Jun 2026 16:13:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>猛烈的搜索引擎优化</title>
+      <link>https://www.producthunt.com/products/tregno</link>
+      <description><![CDATA[
+            以人工智能内容操作系统主导SEO
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/tregno</guid>
+      <pubDate>Mon, 22 Jun 2026 15:39:00 GMT</pubDate>
     </item>
     <item>
       <title>蓝轨探索</title>
@@ -76,46 +104,18 @@
       <pubDate>Mon, 22 Jun 2026 14:12:05 GMT</pubDate>
     </item>
     <item>
-      <title>坂名河豚</title>
-      <link>https://www.producthunt.com/products/sakana-fugu</link>
+      <title>神经代理3.0</title>
+      <link>https://www.producthunt.com/products/neuralagent</link>
       <description><![CDATA[
-            一种模型统领所有
+            AI 可在约 285 毫秒内在您的计算机上执行 UI 操作
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/sakana-fugu</guid>
-      <pubDate>Mon, 22 Jun 2026 09:47:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>纬度</title>
-      <link>https://www.producthunt.com/products/latitude-4</link>
-      <description><![CDATA[
-            修复 AI 代理中的问题
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/latitude-4</guid>
-      <pubDate>Mon, 22 Jun 2026 06:37:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>导管</title>
-      <link>https://www.producthunt.com/products/conduit-12</link>
-      <description><![CDATA[
-            修复工具列表膨胀导致 AI 代理变慢的问题
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/conduit-12</guid>
-      <pubDate>Sat, 20 Jun 2026 17:14:04 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/neuralagent</guid>
+      <pubDate>Sun, 21 Jun 2026 22:47:17 GMT</pubDate>
     </item>
     <item>
       <title>拇指魔法</title>
@@ -130,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/thumbmagic-3</guid>
       <pubDate>Sat, 20 Jun 2026 12:18:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳防御.io</title>
-      <link>https://www.producthunt.com/products/bestdefense-io</link>
-      <description><![CDATA[
-            使用 AI 进行渗透测试并修补每个部署
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/bestdefense-io</guid>
-      <pubDate>Fri, 19 Jun 2026 17:15:23 GMT</pubDate>
     </item>
     <item>
       <title>好友AI笔记</title>
@@ -202,18 +188,32 @@
       <pubDate>Tue, 16 Jun 2026 02:38:06 GMT</pubDate>
     </item>
     <item>
-      <title>嘘</title>
-      <link>https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee</link>
+      <title>打字员</title>
+      <link>https://www.producthunt.com/products/cotypist</link>
       <description><![CDATA[
-            用于语音 AI 代理的开源噪声抑制
+            在 Mac 上的任何位置，用您的声音进行本地 AI 自动补全
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hush-df34eafa-13f7-4d91-856f-162c2a9d81ee</guid>
-      <pubDate>Tue, 09 Jun 2026 07:39:08 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/cotypist</guid>
+      <pubDate>Mon, 15 Jun 2026 15:20:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放艺术总监</title>
+      <link>https://www.producthunt.com/products/openart</link>
+      <description><![CDATA[
+            通过聊天直接观看电影视频
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/openart</guid>
+      <pubDate>Tue, 09 Jun 2026 13:04:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
