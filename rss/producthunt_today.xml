@@ -4,21 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jun 2026 13:55:34 GMT</lastBuildDate>
-    <item>
-      <title>Figma 运动</title>
-      <link>https://www.producthunt.com/products/figma</link>
-      <description><![CDATA[
-            您的 Figma 画布现在有了时间线
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/figma</guid>
-      <pubDate>Thu, 25 Jun 2026 05:23:21 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 25 Jun 2026 17:01:18 GMT</lastBuildDate>
     <item>
       <title>Paybond CLI</title>
       <link>https://www.producthunt.com/products/paybond</link>
@@ -46,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/blop-ai</guid>
       <pubDate>Wed, 24 Jun 2026 18:41:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>纸标代理</title>
+      <link>https://www.producthunt.com/products/papermark-2</link>
+      <description><![CDATA[
+            让人工智能代理运行您的下一笔交易、筹款或数据室
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/papermark-2</guid>
+      <pubDate>Wed, 24 Jun 2026 14:35:21 GMT</pubDate>
     </item>
     <item>
       <title>侧剂</title>
@@ -76,20 +76,6 @@
       <pubDate>Wed, 24 Jun 2026 13:54:51 GMT</pubDate>
     </item>
     <item>
-      <title>符咒</title>
-      <link>https://www.producthunt.com/products/signspell</link>
-      <description><![CDATA[
-            py、pip install 和 go 中的实时 ASL 字母识别
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/signspell</guid>
-      <pubDate>Wed, 24 Jun 2026 13:43:37 GMT</pubDate>
-    </item>
-    <item>
       <title>草2.0</title>
       <link>https://www.producthunt.com/products/grass-claude-code-from-your-phone</link>
       <description><![CDATA[
@@ -102,6 +88,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/grass-claude-code-from-your-phone</guid>
       <pubDate>Wed, 24 Jun 2026 11:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>说工艺</title>
+      <link>https://www.producthunt.com/products/saycraft</link>
+      <description><![CDATA[
+            通过会议讨论构建 Web 应用程序
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/saycraft</guid>
+      <pubDate>Wed, 24 Jun 2026 07:58:20 GMT</pubDate>
     </item>
     <item>
       <title>测谎器</title>
@@ -174,6 +174,20 @@
       <pubDate>Tue, 16 Jun 2026 10:15:38 GMT</pubDate>
     </item>
     <item>
+      <title>发送消息</title>
+      <link>https://www.producthunt.com/products/sendtidings</link>
+      <description><![CDATA[
+            将您的分析变成精美的每月电子邮件报告
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/sendtidings</guid>
+      <pubDate>Mon, 15 Jun 2026 10:18:01 GMT</pubDate>
+    </item>
+    <item>
       <title>奥克斯洛.ai</title>
       <link>https://www.producthunt.com/products/oxlo-ai</link>
       <description><![CDATA[
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/tough-tongue-ai-2</guid>
       <pubDate>Mon, 25 May 2026 12:52:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>里程碑</title>
-      <link>https://www.producthunt.com/products/milestones-2</link>
-      <description><![CDATA[
-            原生项目规划应用程序，现已在 Mac 上运行且带有 MCP 服务器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/milestones-2</guid>
-      <pubDate>Thu, 30 Apr 2026 15:40:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
