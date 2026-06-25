@@ -4,20 +4,62 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jun 2026 11:30:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 13:55:34 GMT</lastBuildDate>
     <item>
-      <title>纸标代理</title>
-      <link>https://www.producthunt.com/products/papermark-2</link>
+      <title>Figma 运动</title>
+      <link>https://www.producthunt.com/products/figma</link>
       <description><![CDATA[
-            让人工智能代理运行您的下一笔交易、筹款或数据室
+            您的 Figma 画布现在有了时间线
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/papermark-2</guid>
-      <pubDate>Wed, 24 Jun 2026 14:35:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/figma</guid>
+      <pubDate>Thu, 25 Jun 2026 05:23:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paybond CLI</title>
+      <link>https://www.producthunt.com/products/paybond</link>
+      <description><![CDATA[
+            从终端安全地进行代理支出
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/paybond</guid>
+      <pubDate>Thu, 25 Jun 2026 01:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>布洛普</title>
+      <link>https://www.producthunt.com/products/blop-ai</link>
+      <description><![CDATA[
+            描述您的应用程序，然后 Blop 对其进行测试并修复损坏的测试
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/blop-ai</guid>
+      <pubDate>Wed, 24 Jun 2026 18:41:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>侧剂</title>
+      <link>https://www.producthunt.com/products/sidegent</link>
+      <description><![CDATA[
+            通过实际构建 AI 代理来学习构建它们
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/sidegent</guid>
+      <pubDate>Wed, 24 Jun 2026 14:34:41 GMT</pubDate>
     </item>
     <item>
       <title>扎拉</title>
@@ -62,6 +104,20 @@
       <pubDate>Wed, 24 Jun 2026 11:26:29 GMT</pubDate>
     </item>
     <item>
+      <title>测谎器</title>
+      <link>https://www.producthunt.com/products/polygraph</link>
+      <description><![CDATA[
+            让 AI 代理查看跨存储库并维护会话内存。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/polygraph</guid>
+      <pubDate>Wed, 24 Jun 2026 07:52:07 GMT</pubDate>
+    </item>
+    <item>
       <title>纳什拉</title>
       <link>https://www.producthunt.com/products/nashra-turn-followers-into-clients</link>
       <description><![CDATA[
@@ -74,34 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/nashra-turn-followers-into-clients</guid>
       <pubDate>Wed, 24 Jun 2026 06:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>配音忍者</title>
-      <link>https://www.producthunt.com/products/dub-ninja</link>
-      <description><![CDATA[
-            现场自主 AI DJ 24/7 进行挖掘、混音和解释
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/dub-ninja</guid>
-      <pubDate>Tue, 23 Jun 2026 21:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postproxy - 参与 API</title>
-      <link>https://www.producthunt.com/products/postproxy</link>
-      <description><![CDATA[
-            通过 API 发布、回复和分析社交媒体
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/postproxy</guid>
-      <pubDate>Tue, 23 Jun 2026 08:32:19 GMT</pubDate>
     </item>
     <item>
       <title>浏览器Bash</title>
@@ -132,20 +160,6 @@
       <pubDate>Fri, 19 Jun 2026 22:33:45 GMT</pubDate>
     </item>
     <item>
-      <title>同一页信号</title>
-      <link>https://www.producthunt.com/products/samepage-signals</link>
-      <description><![CDATA[
-            产品管理的第二大脑
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/samepage-signals</guid>
-      <pubDate>Tue, 16 Jun 2026 19:33:30 GMT</pubDate>
-    </item>
-    <item>
       <title>浏览器法案</title>
       <link>https://www.producthunt.com/products/browseract</link>
       <description><![CDATA[
@@ -158,20 +172,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/browseract</guid>
       <pubDate>Tue, 16 Jun 2026 10:15:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>发送消息</title>
-      <link>https://www.producthunt.com/products/sendtidings</link>
-      <description><![CDATA[
-            将您的分析变成精美的每月电子邮件报告
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/sendtidings</guid>
-      <pubDate>Mon, 15 Jun 2026 10:18:01 GMT</pubDate>
     </item>
     <item>
       <title>奥克斯洛.ai</title>
