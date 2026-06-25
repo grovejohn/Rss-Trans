@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>https://www.producthunt.com</link>
+    <link>http://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jun 2026 19:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 22:13:38 GMT</lastBuildDate>
     <item>
       <title>Paybond CLI</title>
       <link>https://www.producthunt.com/products/paybond</link>
@@ -20,60 +20,46 @@
       <pubDate>Thu, 25 Jun 2026 01:23:19 GMT</pubDate>
     </item>
     <item>
-      <title>布洛普</title>
-      <link>https://www.producthunt.com/products/blop-ai</link>
+      <title>纸标代理</title>
+      <link>https://www.producthunt.com/products/papermark-2</link>
       <description><![CDATA[
-            描述您的应用程序，然后 Blop 对其进行测试并修复损坏的测试
+            让人工智能代理运行您的下一笔交易、筹款或数据室
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/blop-ai</guid>
-      <pubDate>Wed, 24 Jun 2026 18:41:05 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/papermark-2</guid>
+      <pubDate>Wed, 24 Jun 2026 14:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>侧剂</title>
-      <link>https://www.producthunt.com/products/sidegent</link>
+      <title>根斯帕克设计</title>
+      <link>https://www.producthunt.com/products/genspark-design</link>
       <description><![CDATA[
-            通过实际构建 AI 代理来学习构建它们
+            使用 AI 生成 UI 原型、视频和海报
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/sidegent</guid>
-      <pubDate>Wed, 24 Jun 2026 14:34:41 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/genspark-design</guid>
+      <pubDate>Wed, 24 Jun 2026 14:18:16 GMT</pubDate>
     </item>
     <item>
-      <title>扎拉</title>
-      <link>https://www.producthunt.com/products/zaro</link>
+      <title>草2.0</title>
+      <link>https://www.producthunt.com/products/grass-claude-code-from-your-phone</link>
       <description><![CDATA[
-            通过一个提示，在您的上下文之上构建代理和应用程序。
+            为您的编码代理提供永远在线的计算机
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/zaro</guid>
-      <pubDate>Wed, 24 Jun 2026 13:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>符咒</title>
-      <link>https://www.producthunt.com/products/signspell</link>
-      <description><![CDATA[
-            py、pip install 和 go 中的实时 ASL 字母识别
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/signspell</guid>
-      <pubDate>Wed, 24 Jun 2026 13:43:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/grass-claude-code-from-your-phone</guid>
+      <pubDate>Wed, 24 Jun 2026 11:26:29 GMT</pubDate>
     </item>
     <item>
       <title>说工艺</title>
@@ -146,6 +132,20 @@
       <pubDate>Tue, 23 Jun 2026 07:54:57 GMT</pubDate>
     </item>
     <item>
+      <title>Brain² 由 ClickUp 提供</title>
+      <link>https://www.producthunt.com/products/clickup</link>
+      <description><![CDATA[
+            一种了解整个公司并对其采取行动的人工智能
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/clickup</guid>
+      <pubDate>Fri, 19 Jun 2026 22:33:45 GMT</pubDate>
+    </item>
+    <item>
       <title>同一页信号</title>
       <link>https://www.producthunt.com/products/samepage-signals</link>
       <description><![CDATA[
@@ -158,20 +158,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/samepage-signals</guid>
       <pubDate>Tue, 16 Jun 2026 19:33:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器法案</title>
-      <link>https://www.producthunt.com/products/browseract</link>
-      <description><![CDATA[
-            AI 代理的 Web 浏览器自动化
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/browseract</guid>
-      <pubDate>Tue, 16 Jun 2026 10:15:38 GMT</pubDate>
     </item>
     <item>
       <title>奥克斯洛.ai</title>
@@ -214,6 +200,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/tough-tongue-ai-2</guid>
       <pubDate>Mon, 25 May 2026 12:52:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>里程碑</title>
+      <link>https://www.producthunt.com/products/milestones-2</link>
+      <description><![CDATA[
+            原生项目规划应用程序，现已在 Mac 上运行且带有 MCP 服务器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/milestones-2</guid>
+      <pubDate>Thu, 30 Apr 2026 15:40:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
