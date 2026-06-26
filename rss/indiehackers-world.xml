@@ -4,7 +4,15 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 26 Jun 2026 13:53:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 16:54:05 GMT</lastBuildDate>
+    <item>
+      <title>两年来我一直选择错误的 SaaS 工具。这是我终于发现的错误。</title>
+      <link>https://feed.indiehackers.world/post/31dce369e0</link>
+      <description><![CDATA[提前欢迎您。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/31dce369e0</guid>
+      <pubDate>Fri, 26 Jun 2026 07:24:05 GMT</pubDate>
+    </item>
     <item>
       <title>每月收费 200 美元的人工智能代理工具是一个骗局。这是证据。</title>
       <link>https://feed.indiehackers.world/post/7cd003636f</link>
@@ -173,15 +181,6 @@ PBC 规范：https://github.com/stewie-sh/pbc-spec
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/431f505cc4</guid>
       <pubDate>Tue, 23 Jun 2026 14:54:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的 AppSumo 交易失败了，所以我构建了 v1 而不是等待</title>
-      <link>https://feed.indiehackers.world/post/0ef15ebb9b</link>
-      <description><![CDATA[我仍在思考的事情：我凭借一笔交易打造了很多产品，但后来就消失了。我一半的人认为强制功能是一份礼物，我有一个更强大的东西可以重新启动。另一半想知道这三周是否应该用于寻找客户 4、5 和 6，而不是发布功能。
-所以我会把它放在房间里：当发布失败时，你会建造，还是会去出售你已经拥有的东西？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/0ef15ebb9b</guid>
-      <pubDate>Tue, 23 Jun 2026 09:13:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
