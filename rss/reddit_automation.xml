@@ -4,111 +4,111 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 24 Jun 2026 06:33:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 11:36:24 GMT</lastBuildDate>
     <item>
-      <title>您对自动化专家/开发人员 5-10 年后的愿景是什么</title>
-      <link>https://www.reddit.com/r/automation/comments/1ue50fm/what_is_your_vision_510yrs_from_now_about/</link>
-      <description><![CDATA[人工智能的快速发展是否会完全消除对自动化专家（即从头开始设计、构建和优化自定义工作流程的专业人员）的需求？只需一个提示，企业就可以越来越多地生成定制的、优化的自动化。 这让我想知道我们的角色是否最终会过时。即使到了 2026 年，虽然人工智能尚未达到顶峰，也尚未完全可靠地实现复杂的自动化，但我们已经看到了极其强大的工具。未来5到10年会发生什么？随着我们越来越接近通用人工智能，自动化专家真的能够生存和发展吗？还是说每一个白领工作都可以争夺？我问这个问题是因为这是我真正热爱并喜欢做的职业，我真的希望我们在下一个科技时代有一个未来。   由   提交 /u/Successful_Muscle630   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ue50fm/what_is_your_vision_510yrs_from_now_about/</guid>
-      <pubDate>Wed, 24 Jun 2026 05:51:39 GMT</pubDate>
+      <title>Tasket++ - 适用于 Windows 的轻量级无代码自动化工具（免费且开源）</title>
+      <link>https://www.reddit.com/r/automation/comments/1ug0doe/tasket_lightweight_nocode_automation_tool_for/</link>
+      <description><![CDATA[      Tasket++ 是一款适用于 Windows 的轻量级无代码自动化工具，可在精确的时间执行重复的用户工作流程。它可以回放用户定义的光标位置和击键、安排静默屏幕截图、自动跨应用程序发送消息，以及运行一天结束的例程（关闭应用程序、淡入淡出音频、关机）。一切都通过简单的 UI 在本地运行，无需遥测。该项目是开源的。 主要功能 - 回放用户定义的光标移动和击键 - 在任何地方粘贴预定义的文本 - 在特定日期时间、启动时或通过桌面快捷方式安排任务 - 系统操作：打开文件/程序、改变音量、静默截图、关机、文件/文件夹操作 - 循环：运行任务一次、固定循环或无限期 -谨慎模式：仅在后台执行计划任务时从系统托盘运行 本地、便携式和开源。 隐私完全得到保护。 现已推出！ Microsoft Store：搜索“Tasket++” github 页面上提供的便携式版本：/AmirHammouteneEI/ScheduledPasteAndKeys/ 有关反馈、帮助、建议或其他查询：[contact@amirhammoutene.dev](mailto:contact@amirhammoutene.dev)   由   提交/u/AmirHammoutene  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ug0doe/tasket_lightweight_nocode_automation_tool_for/</guid>
+      <pubDate>Fri, 26 Jun 2026 07:57:19 GMT</pubDate>
     </item>
     <item>
-      <title>自动回复消息的 WhatsApp 机器人</title>
-      <link>https://www.reddit.com/r/automation/comments/1ue4vj5/whatsapp_bot_that_automatically_reacts_to_a/</link>
-      <description><![CDATA[ 由   提交 /u/Dhruv_DG   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ue4vj5/whatsapp_bot_that_automatically_reacts_to_a/</guid>
-      <pubDate>Wed, 24 Jun 2026 05:44:15 GMT</pubDate>
+      <title>如何在使用 pyautogui 时打开 Chrome 并将其保持在全屏模式？</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufyvoc/how_to_open_chrome_and_keep_it_in_fullscreen_mode/</link>
+      <description><![CDATA[仅供参考，我使用 AI 代理来编写代码，并且在软件开发方面没有太多背景。我了解构建自动化代理的流程并开发逻辑。  现在，我一直在使用 pyautogui + Playwright 构建一个浏览器自动化工具，并花费了太长时间进行调试。 假设我的 UI 在 Edge/mozilla 中运行，当我启动自动化过程时，它意味着打开 chrome 并输入 url。我面临的问题是，我通过 subprocess.Popen 和 --start-maximized 启动 Chrome，然后立即使用 pyautogui 键入 URL。但是 Chrome 会最小化打开，并且 pyautogui 在当前打开的任何窗口中键入。就我而言，它会在我正在使用的 Web 应用程序 UI 中输入 url。  我检查了以下内容，  --start-maximized 标志 - 当保存的配置文件状态覆盖它时被忽略 --window-position=0,0 --window-size=1920,1080 - 也被忽略 PowerShell SetForegroundWindow 通过 P/Invoke - 有时有效，有时有效事实并非如此，与 Chrome 自己的启动程序的竞争条件 CDP Browser.setWindowBounds — 实际上让事情变得更糟，因为它引入了 Cloudflare 的机器人检测拾取的可检测自动化信号  我正在使用 pyautogui 绕过 Cloudflare 检测（通过子进程启动 Chrome，无需附加 Playwright/CDP，以便 Cloudflare 看到真正的浏览器）。一旦绕过验证，我的剧作家将自动填充存储的所有详细信息。 请帮助我找到解决方案。作为初学者，我准备接受您的任何意见。    由   提交/u/doctorwhodoctorme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufyvoc/how_to_open_chrome_and_keep_it_in_fullscreen_mode/</guid>
+      <pubDate>Fri, 26 Jun 2026 06:31:25 GMT</pubDate>
     </item>
     <item>
-      <title>您最初是如何进入自动化领域的？</title>
-      <link>https://www.reddit.com/r/automation/comments/1udonin/how_did_you_first_get_into_automation/</link>
-      <description><![CDATA[ 由   提交 /u/SeparateResolve2075   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1udonin/how_did_you_first_get_into_automation/</guid>
-      <pubDate>Tue, 23 Jun 2026 18:05:34 GMT</pubDate>
+      <title>Whatsapp 自动化工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufxuhj/whatsapp_automation_tool/</link>
+      <description><![CDATA[在我最初的项目中，专注于 WhatsApp 自动化，我在尝试以开发人员身份登录 Meta 时遇到了问题。每次登录尝试都会提示短信验证，但我始终无法收到验证码。尽管确认我的电话号码是正确的，并且我正在收到来自其他网站的消息。 而且我无法找到他们的联系号码。或者发送电子邮件寻求帮助，这就是我在这里发帖的原因。   由   提交 /u/Party_Initiative_621   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufxuhj/whatsapp_automation_tool/</guid>
+      <pubDate>Fri, 26 Jun 2026 05:34:26 GMT</pubDate>
     </item>
     <item>
-      <title>使用 Excel VBA 通过 Adob​​e 将大型 PDF 拆分为较小的文件</title>
-      <link>https://www.reddit.com/r/automation/comments/1udnffp/split_large_pdf_into_smaller_files_with_adobe/</link>
-      <description><![CDATA[       由   提交/u/New-Length-9406  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1udnffp/split_large_pdf_into_smaller_files_with_adobe/</guid>
-      <pubDate>Tue, 23 Jun 2026 17:21:33 GMT</pubDate>
+      <title>我自动化了一项愚蠢的三分钟任务，它比任何“大型”自动化项目为我节省了更多时间</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufvd6u/i_automated_one_stupid_threeminute_task_and_it/</link>
+      <description><![CDATA[两年来，我每天都会忍受一件大约需要三分钟的事情。将一组数字从一个仪表板复制到电子表格中。就是这样。三分钟。我告诉自己这几乎不值得自动化。 同时，我会花周末构建复杂的管道，每周一次可以节省我二十分钟的时间，并且感觉很棒。 几个月前，我终于恼火到可以修复这个愚蠢的事情。一个Make场景，两个模块，不涉及AI。只是一个网络钩子、一个 Google 表格连接器和一些基本格式。我大概花了 45 分钟来设置。 这是我没想到的：这个微小的自动化在三个月内为我节省的累积时间比任何“令人印象深刻”的系统都多。我正在运行的项目。因为它每天都在运行，没有例外。每周管道运行一次。每天的事情每年运行 260 多次。 数学很无聊，但它证明了： - 令人印象深刻的大自动化：节省 20 分钟 × 52 周 = ~17 小时/年 - 愚蠢的小型自动化：节省 3 分钟 × 260 个工作日 = ~13 小时/年 它们几乎相同。而那个愚蠢的人花了 45 分钟而不是两个周末。 我不断重新学习的教训：频率每次都胜过范围。您每天执行的任务比您每月执行的任务更值得自动化，即使每月执行的任务在图表上看起来更酷。 您尚未自动化的最愚蠢的三分钟任务是什么？   由   提交 /u/Antique_Phrase9580   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufvd6u/i_automated_one_stupid_threeminute_task_and_it/</guid>
+      <pubDate>Fri, 26 Jun 2026 03:30:56 GMT</pubDate>
     </item>
     <item>
-      <title>使用 n8n 自动执行客户反馈</title>
-      <link>https://www.reddit.com/r/automation/comments/1udl3gc/automating_client_feedback_with_n8n/</link>
-      <description><![CDATA[      由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1udl3gc/automating_client_feedback_with_n8n/</guid>
-      <pubDate>Tue, 23 Jun 2026 15:57:09 GMT</pubDate>
+      <title>端到端自动化我的 LinkedIn 外展工作，但在发送任何内容之前保留人工审批门</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufk586/automated_my_linkedin_outreach_endtoend_but_kept/</link>
+      <description><![CDATA[我在 LinkedIn 上进行了大量的外展工作，并希望其自动化，而不必一直担心向错误的人发送错误的消息。因此，我围绕严格的人工审批门构建了一个工具。 它作为单独的阶段运行：通过关键字查找人员并建立联系，在他们接受后抓取个人资料，让人工智能为每个联系人起草一条个性化消息，然后 - 我最关心的部分 - 在发送任何内容之前进行人工审核步骤。您可以看到整个批次、编辑、批准，并且只有批准的消息才会发出。它基于云（无浏览器扩展），具有每日限制和类似人类的节奏，以保持在雷达之下。 在公共场合构建它。对于那些自动化推广的人来说：完全自动化和人工审批步骤之间的界限在哪里？ （很高兴在评论中添加演示链接。）   由   提交/u/LovizDE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufk586/automated_my_linkedin_outreach_endtoend_but_kept/</guid>
+      <pubDate>Thu, 25 Jun 2026 19:35:01 GMT</pubDate>
     </item>
     <item>
-      <title>你没有内容问题。你有分配问题。 （完整系统）</title>
-      <link>https://www.reddit.com/r/automation/comments/1udiecw/you_dont_have_a_content_problem_you_have_a/</link>
-      <description><![CDATA[ 由   提交 /u/abdulmejidshemsuawel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1udiecw/you_dont_have_a_content_problem_you_have_a/</guid>
-      <pubDate>Tue, 23 Jun 2026 14:17:01 GMT</pubDate>
+      <title>你的人工智能的判断并不总是与你的一致，我构建了一个 API 来告诉你什么时候</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufivw8/your_ais_judgement_doesnt_always_align_with_yours/</link>
+      <description><![CDATA[我在人工智能自动化中不断遇到相同的故障模式： 模型做出了看起来合理的判断，但与我标记它的方式不符。不是幻觉。不明确的边缘情况。 可以升级或忽略的支持票证。在结构化领域看起来很弱但在自由文本中很强大的领先优势。生成的答案听起来很完整，但错过了人类会关心的一件事。这些是我想要捕捉的情况。 我花了一些时间阅读有关置信度估计和机械解释性的论文，主要是因为我想要比问模型“你确定吗？”更好的东西。并接受带有小数的占星术。这变成了 modaic.dev。 它使用来自模型内部层的信号来估计判断调用的置信度，例如： - 此支持请求是否应该升级？ - 该潜在客户值得联系吗？ - 这个 AI 答案是否足够好，可以发送？ - 该代理是否真正完成了任务？ - 此内容是否应该被标记？ API 返回决策、推理和置信度分数。高可信度的通话可以继续进行。低可信度的呼叫会在悄然扰乱您的工作流程之前被路由至审核。 另一半是及时优化。当人类审查低置信度案例并纠正它时，该纠正就成为改进提示的反馈。抓住这个奇怪的案例，从中吸取教训，不要再犯同样的错误。 让我知道你的想法。这与您正在构建的任何内容相关吗？   由   提交 /u/Disneyskidney   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufivw8/your_ais_judgement_doesnt_always_align_with_yours/</guid>
+      <pubDate>Thu, 25 Jun 2026 18:49:07 GMT</pubDate>
     </item>
     <item>
-      <title>自动填写表格 *难​​度级别：印度</title>
-      <link>https://www.reddit.com/r/automation/comments/1udgdce/automate_form_filling_difficulty_level_indian/</link>
-      <description><![CDATA[      我有机会为一家向政府销售产品的公司自动填写表格。招标提供的表格不确定，并且是手工填写的。需要填写的细节对于人类来说可能很容易发现，但对于 QCR 或人工智能来说可能不容易发现。当需要填写数据的字段不明确并且即使对于人类也难以检测时，如何自动执行数据输入。所附图片是表单的示例。每个投标有20-30份表格，我们每天需要填写1-2份投标。  我不是技术背景的。因此，如果有解决方案，请像我 5 岁一样解释您的解决方案。 需要完成的工作： 检测表格中需要填写信息的位置 v 搜索数据以填写表格 v 在不更改表格格式的情况下填写数据 IMP INFO *表格必须保持投标提供的样子* 那么，我熟了吗？还是有办法自动化这种程度的不确定形式？   由   提交/u/No-Situation4626   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1udgdce/automate_form_filling_difficulty_level_indian/</guid>
-      <pubDate>Tue, 23 Jun 2026 12:54:46 GMT</pubDate>
+      <title>自动化我的投资组合答案</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufgf2h/automating_my_portfolio_answers/</link>
+      <description><![CDATA[       由   提交/u/Boring-Shop-9424   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufgf2h/automating_my_portfolio_answers/</guid>
+      <pubDate>Thu, 25 Jun 2026 17:21:20 GMT</pubDate>
     </item>
     <item>
-      <title>AI 代理机构 Upwork 每月收入 5,000 至 10,000 美元 — 您将如何实现潜在客户来源多元化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1udfyw2/ai_agency_doing_5k10kmonth_on_upwork_how_would/</link>
-      <description><![CDATA[大家好， 我经营一家小型人工智能机构，专注于为公司构建内部业务工具、工作流程自动化和人工智能驱动的系统。 现在，我所有的客户都来自 Upwork，我的平均每月收入约为 5000-10000 美元。它运作良好，但我不想长期依赖单一平台。 我开始在 LinkedIn 上发帖（目前几乎没有任何印象，但我知道这需要时间）。我的目标主要是建立可信度和信任。 我还没有付费广告的预算，所以我正在寻找其他获取渠道。 对于那些经营代理机构的人： 冷电子邮件在 2026 年是否仍然有效？ 我实际期望的回复率应该是多少？ 当您开始看到结果时，您每天发送多少电子邮件？ 您是否提供了免费的东西（审核、咨询、拆解等）来获得回复？ 除了 Upwork 之外，什么获取渠道可以为您提供最佳的投资回报率？ 我很想听听什么对您真正有效，以及如果您重新开始您会避免什么。 谢谢！   由   提交 /u/Lazy_Second7696   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1udfyw2/ai_agency_doing_5k10kmonth_on_upwork_how_would/</guid>
-      <pubDate>Tue, 23 Jun 2026 12:37:09 GMT</pubDate>
+      <title>将 GoLogin 与手机数据连接</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufg2hq/connecting_gologin_with_phone_data/</link>
+      <description><![CDATA[由于某种原因，它似乎无法连接，并且当它连接时，网站也无法打开，就像没有互联网一样， 有人可以帮忙吗？   由   提交 /u/Naive_Area6965   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufg2hq/connecting_gologin_with_phone_data/</guid>
+      <pubDate>Thu, 25 Jun 2026 17:09:10 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器搜索——三种工具，零成本，你的人工智能代理学会搜索和浏览网页</title>
-      <link>https://www.reddit.com/r/automation/comments/1udby3l/browsersearch_three_tools_zero_cost_and_your_ai/</link>
-      <description><![CDATA[我使用 OpenCode、Claude Code 和 Cursor 等 AI 代理已有几个月了。他们擅长编写代码，但当他们需要搜索或浏览网络时，事情就会变得复杂：Cloudflare 会阻止他们，大量 JavaScript 的网站无法加载，API 需要花钱。 因此我构建了浏览器搜索。 这是由一项技能编排的三个开源工具，完全自托管：  SearXNG - 元搜索引擎，可查询数十个立即搜索引擎 Camofox - 通过 REST API 的完整浏览器，始终温暖，用于浏览和交互 CloakBrowser - 当网站具有 Cloudflare、Akamai 或 DataDome 时的隐形浏览器  代理决定使用哪个工具。零人为干预。零 API 密钥。零订阅。 它的不同之处：  它是一项技能，而不是插件 - 适用于任何可以读取指令的代理 自动导航升级：如果 Camofox 被阻止，它会切换到 CloakBrowser 深度研究模式：指示代理超越表面答案，交叉验证来源，涵盖各个方面 集成用于干净文章提取的 Readability.js（约 70% 的令牌节省） SKILL.md 是纯文本 - 分叉它，调整它，使其成为您的  在 GitHub 上搜索 Johell1NS/browser-search 如果您尝试一下，请告诉我。如果你做得更好，那就更好了。如果您不需要它，请与可能需要的人分享。欢迎每一个星星、评论或拉取请求 - 这就是开源的伟大之处。   由   提交 /u/Ill-Tradition1362   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1udby3l/browsersearch_three_tools_zero_cost_and_your_ai/</guid>
-      <pubDate>Tue, 23 Jun 2026 09:05:29 GMT</pubDate>
+      <title>提供无偿/免费人工智能和自动化服务</title>
+      <link>https://www.reddit.com/r/automation/comments/1uffosh/offering_probononocharge_ai_and_automation/</link>
+      <description><![CDATA[您好， 希望您一切顺利。 上个月，我为中小型企业推出了人工智能和管理咨询服务。 迄今为止，我们已经为客户实施了多个人工智能和自动化解决方案：  N8N Automation - 潜在客户获取代理和自动化 N8N Automation - 潜在客户获取电子邮件跟进 N8N 自动化 - 入站电子邮件代理监控（客户工作和进行中） VPS 上的 N8N 设置 VPS 上的 Hermes 代理设置 Retell AI + Twilio AI 入站代理和电子邮件跟踪自动化后续序列 自定义 C++ 业务计划 使用自动潜在客户表单构建网站  为了继续构建我们的工作组合，我们将向 2 个无偿/免费客户开放我们的服务。自动化或解决方案必须面向商业环境（家庭或专业）内的客户。 如果有兴趣，请在帖子中发表评论，我将回复以协调与您的会面时间。 谢谢您，我期待与潜在客户联系。 谨致问候。   由   提交/u/elgwano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uffosh/offering_probononocharge_ai_and_automation/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:55:43 GMT</pubDate>
     </item>
     <item>
-      <title>构建本地 LLM：了解 n8n、PostgreSQL 和支持工具的作用</title>
-      <link>https://www.reddit.com/r/automation/comments/1udaqro/building_a_local_llm_understanding_the_role_of/</link>
-      <description><![CDATA[      大家好， 我目前正在为本地法学硕士整合概念，希望在开始之前得到您的意见。 我们的用例：  与供应商的电子邮件沟通：人工智能应该帮助通过电子邮件进行价格谈判。为此，它会通过我的邮箱（Exchange）查看之前与相应供应商的沟通情况，找出最近的报价，并在此基础上进一步谈判。基本上，它应该搜索供应商现有的电子邮件历史记录，并进行手动查找和回复。 内部聊天机器人：我们应该能够向它询问有关某些流程、产品等的问题。因此，本质上是一个了解我们内部知识的公司助理。 本地优先，并有云后备：这个想法是，默认情况下，一切都在 Ollama 本地运行。但是，当某些事情太复杂或需要本地模型没有的知识时，系统应该通过互联网联系外部人工智能（例如 Claude API），提取答案，并将其反馈到流程中。大部分工作都是本地的，外部仅作为受控异常，只有需要的特定片段才会离开服务器。  这是向我推荐的设置，全部通过 Docker 在本地服务器上运行：  服务器： 2× RTX 3090 Ti，每台 24 GB VRAM PostgreSQL： 作为数据库 n8n：用于自动化（例如阅读电子邮件→发送给Ollama→让它起草回复→返回n8n→通过电子邮件/IMAP发送） NocoDB：作为界面 Ollama：作为本地AI 外部AI（可选）： Claude API，仅在复杂情况或知识缺失时调用  据我了解，每个组件都有自己的工作。但我仍然不完全清楚：  我真的需要每个组件吗？据我了解，本地人工智能本身没有数据库 - 因此数据（例如我们的客户数据）必须存储在其他地方，对吧？这就是 PostgreSQL 存在的原因吗？ n8n 到底是做什么用的？ 我的理解：n8n 处理与外部世界的接口 – 电子邮件、Salesforce/ERP、其他提供商，并且它也是在需要时调用外部 AI 的东西。本地 AI / Ollama 本身无法做到这一点，还是我弄错了？ 公司聊天机器人：如果我也想构建一个聊天机器人，我可以使用相同的本地 AI，对吧？即使我只想直接与 AI 聊天，我是否还需要 n8n？ 本地优先 + 云后备： 首先将事物路由到本地模型，然后仅在困难情况下升级到外部 API（Claude 等）是明智的方法吗？您如何决定何时升级，以及如何防止敏感数据在这些调用中泄露？  我仍然不太确定我实际需要哪些组件，不需要哪些组件。 我的主要问题：您会推荐 n8n，或者您知道我可以在本地/自托管设置的其他工具吗？ 提前感谢您的想法！  https://preview.redd.it/e8sqbey6nz8h1.png?width=1572&amp;format=png&amp;auto=webp&amp;s=9e9b4cb1cf32de20f6e0c0731bda51d65af0dc8e   由   提交 /u/Syosse-CH   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1udaqro/building_a_local_llm_understanding_the_role_of/</guid>
-      <pubDate>Tue, 23 Jun 2026 07:53:29 GMT</pubDate>
+      <title>医疗保健中的实时人工智能通信</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufe8xe/realtime_ai_communication_in_healthcare/</link>
+      <description><![CDATA[在从事医疗保健沟通项目和案例研究后，我在其中一个项目中使用了 QuickBlox，我开始看到实时患者沟通和人工智能在其中的作用非常重要。当今的患者不仅仅需要应用程序或门户，他们想要即时答案实时更新并在需要时获得支持我已经看到人工智能被用于分诊聊天支持自动跟进并帮助护理团队更快地做出响应但真正的挑战不是人工智能本身，而是一切如何实时连接 像 QuickBlox Twilio Agora 和 Vonage 这样的公司在构建通信层方面都发挥着重要作用，但由于隐私工作流程和临床环境，医疗保健的复杂程度有所不同。根据我的经验，最大的差距仍然是系统之间以及护理团队和患者之间的实时协调之间。很好奇其他人如何看待这一点您认为实时人工智能通信实际上正在改善患者护理还是我们还处于旅程的早期阶段   由   提交/u/myoussef400  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufe8xe/realtime_ai_communication_in_healthcare/</guid>
+      <pubDate>Thu, 25 Jun 2026 16:03:24 GMT</pubDate>
     </item>
     <item>
-      <title>你仍然手动做并且一直想修复的最愚蠢的事情是什么</title>
-      <link>https://www.reddit.com/r/automation/comments/1ud8n23/whats_the_dumbest_thing_you_still_do_manually/</link>
-      <description><![CDATA[好奇每个人隐藏的手动时间都去哪儿了，不是那些大事，而是你一直说要自动化下一个冲刺但从未做过的小而愚蠢的重复任务。我的正在用相同的细节填充相同的网络表单，一次又一次，微不足道，频繁，在我的某天清单上坐了一年，而我围绕它构建了更精美的自动化，经典。由   提交 /u/Happy-Hand2841   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ud8n23/whats_the_dumbest_thing_you_still_do_manually/</guid>
-      <pubDate>Tue, 23 Jun 2026 05:51:08 GMT</pubDate>
+      <title>[包含工作流程] 我构建了一个 n8n 管道，将混乱的供应商文档转换为可发布的商店内容</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufc54m/workflow_included_i_built_an_n8n_pipeline_that/</link>
+      <description><![CDATA[       由   提交 /u/easybits_ai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufc54m/workflow_included_i_built_an_n8n_pipeline_that/</guid>
+      <pubDate>Thu, 25 Jun 2026 14:47:16 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个语音 AI 代理，可以立即从付费广告中呼叫您的潜在客户。只有重要的潜在客户才会进入您的 CRM。</title>
-      <link>https://www.reddit.com/r/automation/comments/1ud0wlr/i_built_a_voice_ai_agent_that_instantly_calls/</link>
-      <description><![CDATA[我构建了一个 AI 语音代理，用于处理潜在客户资格并确保您的代表正在寻找重要的潜在客户。这是针对房地产用例的。 其工作原理如下 每当潜在客户填写付费广告中的表格时，人工智能语音代理就会立即在 60 秒内给他们打电话。代理商确定潜在客户资格，预约，更新您的 CRM。 代理商无需等待销售代表追查他们，而是通过自然、人性化的对话来弄清楚：  他们当前所在的位置 他们何时想看房子。 他们是购买还是租赁 他们的时间表和预算 任何特殊需求（宠物、学区等）  结果  在 60 秒或更短的时间内立即呼叫潜在客户 不再有潜在客户说“我从未填写过表格”。 过滤掉虚假和垃圾邮件潜在客户。 潜在客户获得资格 您的团队只关注那些准备采取行动的认真潜在客户现在。  有人使用语音 AI 进行潜在客户资格认证吗？你尝试过吗？分享您的经验。 我正在寻找一些企业主来测试它。请分享有关获取客户的最佳方式的任何建议？   由   提交 /u/Clear_Performer_556   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ud0wlr/i_built_a_voice_ai_agent_that_instantly_calls/</guid>
-      <pubDate>Mon, 22 Jun 2026 23:40:55 GMT</pubDate>
+      <title>自动化的胜利！</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufbjr9/an_automation_win/</link>
+      <description><![CDATA[ 由   提交/u/Extreme-Chef3398  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufbjr9/an_automation_win/</guid>
+      <pubDate>Thu, 25 Jun 2026 14:25:23 GMT</pubDate>
     </item>
     <item>
-      <title>现在哪种自动化工具实际上值得学习？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucqg6a/which_automation_tool_is_actually_worth_learning/</link>
-      <description><![CDATA[我最近一直在测试一些自动化平台，包括 Zapier、Make、n8n 和一些较新的专注于 AI 的工具。每个似乎都有自己的优势，但对于积极构建的人们来说，在定价、灵活性、易用性或可扩展性方面也有一些权衡。自动化，哪个平台已成为您的首选，为什么？您优先考虑的是易于设置、人工智能功能、自托管、成本还是其他？ 好奇人们在最初的炒作消退后仍在使用哪些工具   由   提交/u/darshie  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucqg6a/which_automation_tool_is_actually_worth_learning/</guid>
-      <pubDate>Mon, 22 Jun 2026 17:06:00 GMT</pubDate>
+      <title>我厌倦了猜测我的代理出轨时在做什么，所以我构建了 Orchid，一个用于 AI 管道的本地记录/检查/重放工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1ufatuq/i_got_tired_of_guessing_what_my_agent_was_doing/</link>
+      <description><![CDATA[       由   提交 /u/brightmonkey   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ufatuq/i_got_tired_of_guessing_what_my_agent_was_doing/</guid>
+      <pubDate>Thu, 25 Jun 2026 13:58:38 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人从复杂的 Zapier 链转向小型、单一用途的工作流程工具吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucqf6t/anyone_else_shifting_away_from_complex_zapier/</link>
-      <description><![CDATA[我曾经有过这个极其脆弱的自动化设置：Webflow 表单 -&gt;扎皮尔 -&gt;气垫 -&gt;自定义脚本-&gt;邮箱。每隔几周，一次小的 API 更新就会破坏它，我会花半天时间进行故障排除。 最近，我一直在用小型、单一用途的跟踪器应用程序或基本的微工作流程替换这些多功能工具链，这些应用程序可以在一个地方处理接收和后续操作。它不那么“花哨”，但它不会崩溃。 你们是否已经开始将脆弱的多工具管道整合为更简单、单一用途的设置，还是仍然是 Zapier 团队？   由   提交 /u/MoodIn_Me   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucqf6t/anyone_else_shifting_away_from_complex_zapier/</guid>
-      <pubDate>Mon, 22 Jun 2026 17:04:57 GMT</pubDate>
+      <title>我最近尝试过的最佳人工智能网络抓取工具（以及我从每个工具中学到的东西）</title>
+      <link>https://www.reddit.com/r/automation/comments/1uf6g6v/best_ai_web_scraping_tools_ive_tried_recently_and/</link>
+      <description><![CDATA[在过去的几个月里，我一直在测试一堆人工智能网络抓取工具，看看一旦你超越了简单的例子，它们是否真的能减少开发时间。有些确实给我留下了深刻的印象，而另一些仍然感觉像是附加了法学硕士的传统抓取工具。 一些要点：  Firecrawl：可能是最容易上手的。基于提示的提取效果出奇地好，而且输出很干净。 ScrapeOps：可能是最接近生产就绪的 AI 抓取生成器的东西。它生成了完整的、可工作的抓取工具，只需最少的手动编辑，特别是对于常见的页面类型。 ScrapeGraphAI：提取质量出色且易于使用，尽管价格可能成为较大工作负载的一个因素。 Crawl4AI：我可能会关注的开源项目。它有潜力，但我仍然花时间调整提示和处理边缘情况。 LLM Scraper / Scrapy-LLM：如果您已经在使用这些生态系统，那就太好了，但它们仍然依赖于外部 LLM。 AutoScraper：非常适合快速原型，尽管我不会依赖它来完成更大的生产工作。  我注意到的一件事几乎所有工具都是“AI抓取”。还没有真正取代传统的抓取。他们中的大多数人仍然以通常的方式获取页面，然后使用 LLM 来构建数据。 对于在生产中运行抓取工具的任何人，我仍然认为可靠性、重试、速率限制和基础设施与提取模型一样重要。 好奇其他人都在使用什么。  AI 抓取工具是否真正取代了您现有的工作流程，或者它们主要是 Playwright、Scrapy、Selenium 或类似工具之上的另一层？   由   提交/u/Amitk2405  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uf6g6v/best_ai_web_scraping_tools_ive_tried_recently_and/</guid>
+      <pubDate>Thu, 25 Jun 2026 10:40:00 GMT</pubDate>
     </item>
     <item>
-      <title>初学者应该从哪里开始使用人工智能代理和工作流程自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ucp0l1/where_should_beginners_start_with_ai_agents/</link>
-      <description><![CDATA[我想开始构建人工智能驱动的工作流程和代理，但是有很多工具：n8n、Make、Zapier、Relevance AI 等等 对于从头开始的人来说，哪个平台可以帮助您最快地学习，同时仍然对实际项目有用？寻找既能教授基础知识又不会让人不知所措的东西   由   提交/u/juniperbush12  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ucp0l1/where_should_beginners_start_with_ai_agents/</guid>
-      <pubDate>Mon, 22 Jun 2026 16:14:28 GMT</pubDate>
+      <title>哪些人工智能工具可以解决 IT 问题？</title>
+      <link>https://www.reddit.com/r/automation/comments/1uf3h2b/which_ai_tools_can_solve_it_issues/</link>
+      <description><![CDATA[“回答问题的人工智能”和“回答问题的人工智能”之间的巨大差异与“真正解决问题的人工智能”。 我看过一些人工智能支持工具，大多数都可以总结票证......但实际上无法做任何事情。我正在寻找可以运行诊断、自动修复、安装软件、处理端点操作以及在失败时根据上下文升级的东西，基本上是试图减少重复的技术人员工作，而不需要创建更多的保姆服务。现在大家都用什么？有人找到了在生产中真正可靠的东西吗？   由   提交/u/GoldTap9957  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1uf3h2b/which_ai_tools_can_solve_it_issues/</guid>
+      <pubDate>Thu, 25 Jun 2026 07:44:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
