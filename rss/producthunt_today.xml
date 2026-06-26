@@ -2,9 +2,23 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 25 Jun 2026 22:13:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 01:59:03 GMT</lastBuildDate>
+    <item>
+      <title>Figma 运动</title>
+      <link>https://www.producthunt.com/products/figma</link>
+      <description><![CDATA[
+            您的 Figma 画布现在有了时间线
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/figma</guid>
+      <pubDate>Thu, 25 Jun 2026 05:23:21 GMT</pubDate>
+    </item>
     <item>
       <title>Paybond CLI</title>
       <link>https://www.producthunt.com/products/paybond</link>
@@ -18,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/paybond</guid>
       <pubDate>Thu, 25 Jun 2026 01:23:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>布洛普</title>
+      <link>https://www.producthunt.com/products/blop-ai</link>
+      <description><![CDATA[
+            描述您的应用程序，然后 Blop 对其进行测试并修复损坏的测试
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/blop-ai</guid>
+      <pubDate>Wed, 24 Jun 2026 18:41:05 GMT</pubDate>
     </item>
     <item>
       <title>纸标代理</title>
@@ -34,18 +62,32 @@
       <pubDate>Wed, 24 Jun 2026 14:35:21 GMT</pubDate>
     </item>
     <item>
-      <title>根斯帕克设计</title>
-      <link>https://www.producthunt.com/products/genspark-design</link>
+      <title>扎拉</title>
+      <link>https://www.producthunt.com/products/zaro</link>
       <description><![CDATA[
-            使用 AI 生成 UI 原型、视频和海报
+            通过一个提示，在您的上下文之上构建代理和应用程序。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/genspark-design</guid>
-      <pubDate>Wed, 24 Jun 2026 14:18:16 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/zaro</guid>
+      <pubDate>Wed, 24 Jun 2026 13:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>符咒</title>
+      <link>https://www.producthunt.com/products/signspell</link>
+      <description><![CDATA[
+            py、pip install 和 go 中的实时 ASL 字母识别
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/signspell</guid>
+      <pubDate>Wed, 24 Jun 2026 13:43:37 GMT</pubDate>
     </item>
     <item>
       <title>草2.0</title>
@@ -62,27 +104,13 @@
       <pubDate>Wed, 24 Jun 2026 11:26:29 GMT</pubDate>
     </item>
     <item>
-      <title>说工艺</title>
-      <link>https://www.producthunt.com/products/saycraft</link>
-      <description><![CDATA[
-            通过会议讨论构建 Web 应用程序
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/saycraft</guid>
-      <pubDate>Wed, 24 Jun 2026 07:58:20 GMT</pubDate>
-    </item>
-    <item>
       <title>测谎器</title>
       <link>https://www.producthunt.com/products/polygraph</link>
       <description><![CDATA[
             让 AI 代理查看跨存储库并维护会话内存。
           
 
-讨论
+Discussion
             |
             链接
 ]]></description>
@@ -104,32 +132,18 @@
       <pubDate>Wed, 24 Jun 2026 06:23:42 GMT</pubDate>
     </item>
     <item>
-      <title>配音忍者</title>
-      <link>https://www.producthunt.com/products/dub-ninja</link>
+      <title>Postproxy - 参与 API</title>
+      <link>https://www.producthunt.com/products/postproxy</link>
       <description><![CDATA[
-            现场自主 AI DJ 24/7 进行挖掘、混音和解释
+            通过 API 发布、回复和分析社交媒体
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/dub-ninja</guid>
-      <pubDate>Tue, 23 Jun 2026 21:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器Bash</title>
-      <link>https://www.producthunt.com/products/browserbash</link>
-      <description><![CDATA[
-            CLI 将简单的英语变成真正的浏览器测试
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/browserbash</guid>
-      <pubDate>Tue, 23 Jun 2026 07:54:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/postproxy</guid>
+      <pubDate>Tue, 23 Jun 2026 08:32:19 GMT</pubDate>
     </item>
     <item>
       <title>Brain² 由 ClickUp 提供</title>
@@ -146,18 +160,18 @@
       <pubDate>Fri, 19 Jun 2026 22:33:45 GMT</pubDate>
     </item>
     <item>
-      <title>同一页信号</title>
-      <link>https://www.producthunt.com/products/samepage-signals</link>
+      <title>浏览器法案</title>
+      <link>https://www.producthunt.com/products/browseract</link>
       <description><![CDATA[
-            产品管理的第二大脑
+            AI 代理的 Web 浏览器自动化
           
 
 讨论
             |
-            链接
+            Link
 ]]></description>
-      <guid>https://www.producthunt.com/products/samepage-signals</guid>
-      <pubDate>Tue, 16 Jun 2026 19:33:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/browseract</guid>
+      <pubDate>Tue, 16 Jun 2026 10:15:38 GMT</pubDate>
     </item>
     <item>
       <title>奥克斯洛.ai</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/oxlo-ai</guid>
       <pubDate>Thu, 11 Jun 2026 14:37:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac 版 VTT</title>
-      <link>https://www.producthunt.com/products/vtt-for-mac</link>
-      <description><![CDATA[
-            适用于 macOS 的语音转文本功能，具有完全设备上的选项
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/vtt-for-mac</guid>
-      <pubDate>Thu, 11 Jun 2026 03:45:53 GMT</pubDate>
     </item>
     <item>
       <title>强硬的舌头人工智能销售</title>
