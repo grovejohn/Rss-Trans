@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 29 Jun 2026 17:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 19:30:01 GMT</lastBuildDate>
     <item>
       <title>我的前 10 位用户中的一位成为了日常用户。其他9个人没有。</title>
       <link>https://feed.indiehackers.world/post/fe5752e9f7</link>
@@ -102,7 +102,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 竞争对手切换：site:reddit.com “替代” “竞争对手” “记笔记”
 
 黑客新闻（针对开发人员、高级用户和技术专业人士）
-HN 线程对于软件工具来说具有极高的意图，尤其是当用户讨论生产力工作流程或抱怨复杂的企业软件时。
+HN threads are incredibly high-intent for software tools, especially when users are discussing productivity workflows or complaining about complex enterprise software.
 
 显示 HN/询问 HN 讨论：site:news.ycombinator.com “推荐” “记笔记”
 竞争对手的挫败感：site:news.ycombinator.com “替代” “竞争对手1”或“竞争对手 2”
@@ -139,9 +139,9 @@ Discord Indiehackers 聊天广告此处]]></description>
 这是背景故事：我一直在列待办事项清单，但从来不知道今天实际要做什么。不是因为我懒——因为这个列表太长而且太模糊。
 所以我构建了 LifePilot。您输入一个目标。 AI 今天将其分解为 4 个具体行动。就是这样。无需项目管理，无需复杂的设置。
 这是一个 iOS 应用程序。免费试用。
-前两周我学到了什么：
+What I&#39;ve learned in the first 2 weeks:
 
-“我永远不知道今天要做什么”比“AI 生产力应用程序”更能引起共鸣
+&quot;I never know what to do today&quot;比“AI 生产力应用程序”更能引起共鸣
 最困难的部分不是构建 - 而是找出正确的词语
 目前已下载 9 次，正在不断增加
 
@@ -156,9 +156,9 @@ Discord Indiehackers 聊天广告此处]]></description>
       <description><![CDATA[灵活性
 较少的情绪压力
 当生活变得混乱时仍然有效的东西
-这就是我在 Dayleaf 中尝试的方向：
-更加冷静的计划系统更多地关注“今天”，而不是前几天积累的愧疚感。
-仍然从这些讨论中学到了很多东西，但看到有多少人与这个问题相关是很有趣的。
+That’s the direction I’ve been experimenting with in Dayleaf:
+a calmer planning system focused more on “today” and less on accumulated guilt from previous days.
+Still learning a lot from these discussions, but it’s been interesting seeing how many people relate to this problem.
 很好奇这里是否有其他人经历过生产力工具随着时间的推移慢慢变得精神疲惫。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/1c0bfa7457</guid>
@@ -170,7 +170,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <description><![CDATA[TL;DR：四个月。六个 AI 分发堆栈。高峰时每月 400 美元。其中任何一个都导致零注册。然后我打开了一个电子表格，列出了我在一周内采取的每一项分发操作（40 行），并为每一项标记为“AI 可以做到这一点”。或“人工智能无法在不杀死通道的情况下做到这一点。” 28 行进入 AI。 12 留在我的。产量翻倍，成本下降到每月 19 美元，而我保留的 12 颗是我转变的唯一原因。
 1,600 美元的错误
 四个月以来，我购买了所有“AI 发行版”在时间表上做出承诺。 Apollo 用于铅富集。序列的 Lemlist。一个在您睡觉时进行展望的自主代理平台。法学硕士领先得分手。人工智能调度程序。用于复制创始人语音的独立人工智能。
-六堆。高峰时每月 400 美元。 flowly.run 上的注册量提升为零，这是我为自由职业者和独立创始人提供的生产力工具。
+六堆。高峰时每月 400 美元。 flowly.run 上的可测量注册提升为零，这是我为自由职业者和独立创始人提供的生产力工具。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/fda9c0d2c9</guid>
       <pubDate>Wed, 20 May 2026 08:02:26 GMT</pubDate>
@@ -211,12 +211,12 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>互联网上的陌生人比我们更好地解释了我们的产品</title>
       <link>https://feed.indiehackers.world/post/f56fc317ec</link>
       <description><![CDATA[我们今天在 Product Hunt 上推出了 LifePilot。在发布当天的中间，发生了一些意想不到的事情。
-那些从未见过该应用程序的人（独立黑客和 Reddit 上的陌生人）开始比我更准确地描述该产品。
+从未见过该应用程序的人（独立黑客和 Reddit 上的陌生人）开始比我更准确地描述该产品。
 他们写的一些内容：
 “大多数应用程序都会变成内疚仪表板。这是不同的。”
 “约束是真实的产品，而不是人工智能。”
 “重要的是一致性，而不是生产力。”
-我的一切都是围绕 4 项日常行动的想法构建的。但我称其为“人工智能规划器”。社区立即看到了我没有大声说出来的东西：限制本身就是功能。
+我的一切都是围绕 4 个日常行动的想法构建的。但我称其为“人工智能规划器”。社区立即看到了我没有大声说出来的东西：限制本身就是功能。
 人工智能不是重点。约束条件是。
 因此，我们根据陌生人在评论中告诉我们的内容更新了所有内容 - 口号、描述、定位。几个小时内。
 Discord Indiehackers 聊天广告此处]]></description>
