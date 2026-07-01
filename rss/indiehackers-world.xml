@@ -4,11 +4,11 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 01 Jul 2026 02:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 07:00:26 GMT</lastBuildDate>
     <item>
       <title>我正在寻找非技术联合创始人</title>
       <link>https://feed.indiehackers.world/post/9d4bb28513</link>
-      <description><![CDATA[该项目已上线并已开始运行。我大约有 103 个用户，但我无法独自做到这一点，特别是因为我不太懂营销。您可以联系 hello@ozigi.app或 okolodumeb&amp;# x69;@gmail.com,或回复此帖子。
+      <description><![CDATA[该项目已上线并已开始运行。我大约有 103 个用户，但我无法独自做到这一点，特别是因为我不太懂营销。您可以联系 hello@ozigi.app或 okolodumeb 05;@gmail.com,或回复此帖子。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/9d4bb28513</guid>
       <pubDate>Tue, 30 Jun 2026 13:47:20 GMT</pubDate>
@@ -153,7 +153,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Sun, 28 Jun 2026 02:46:41 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>我构建了一个工具来检查人工智能代理是否真的可以使用网站。在23个知名SaaS网站上跑过，平均得分为35.7/100</title>
       <link>https://feed.indiehackers.world/post/60e0611a59</link>
       <description><![CDATA[警告我会先于其他人自愿提供：这是一个启发式扫描仪，而不是手动审核，并且它可能会错误计数。在一个网站上，其标记为“表单”的部分内容被显示为“表单”。实际上是一个 cookie 同意横幅。将分数视为方向性的，而不是福音性的。
 让扫描仪在你自己的网站上免费运行，无需注册——部分是因为我认为这个发现比宣传更有趣，部分是因为，是的，这也是人们找到 Hunch 的方式。不会假装否则。 https://hunchbank.com/agent-readiness-audit
