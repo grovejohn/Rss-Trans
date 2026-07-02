@@ -4,7 +4,7 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Wed, 01 Jul 2026 17:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 11:24:27 GMT</lastBuildDate>
     <item>
       <title>Hugging Face 和 Cerebras 将 Gemma 4 引入实时语音 AI</title>
       <link>https://huggingface.co/blog/cerebras-gemma4-voice-ai</link>
@@ -69,7 +69,7 @@
       <pubDate>Tue, 23 Jun 2026 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>在 Transformers.js 中试验建议的跨域存储 API</title>
+      <title>在 Transformers.js 中试验建议的跨源存储 API</title>
       <link>https://huggingface.co/blog/cross-origin-storage</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/cross-origin-storage</guid>
