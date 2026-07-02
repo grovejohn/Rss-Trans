@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 02 Jul 2026 19:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 21:55:52 GMT</lastBuildDate>
     <item>
       <title>侧门</title>
       <link>https://www.producthunt.com/products/sidedoor-2</link>
@@ -62,7 +62,7 @@
       <pubDate>Thu, 02 Jul 2026 01:00:26 GMT</pubDate>
     </item>
     <item>
-      <title>脚本式的</title>
+      <title>书面</title>
       <link>https://www.producthunt.com/products/scritty</link>
       <description><![CDATA[
             每个 AI 编码代理的共享、可搜索内存
@@ -116,6 +116,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/pieter-post</guid>
       <pubDate>Wed, 01 Jul 2026 20:19:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>像素健身</title>
+      <link>https://www.producthunt.com/products/pixfit</link>
+      <description><![CDATA[
+            立即将 1 个创意转化为各种广告格式
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/pixfit</guid>
+      <pubDate>Wed, 01 Jul 2026 19:00:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>回溯</title>
+      <link>https://www.producthunt.com/products/retrace-2</link>
+      <description><![CDATA[
+            通过重放和分叉运行来调试 AI 代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/retrace-2</guid>
+      <pubDate>Wed, 01 Jul 2026 16:12:07 GMT</pubDate>
     </item>
     <item>
       <title>马库塞</title>
@@ -172,34 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/needle-3</guid>
       <pubDate>Tue, 30 Jun 2026 13:17:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>流畅</title>
-      <link>https://www.producthunt.com/products/flowly-6</link>
-      <description><![CDATA[
-            在您的桌面和 iPhone 上运行的个人 AI 代理
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/flowly-6</guid>
-      <pubDate>Tue, 30 Jun 2026 02:35:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>宏</title>
-      <link>https://www.producthunt.com/products/macro-workspace</link>
-      <description><![CDATA[
-            将您的工作统一到一个具有共享内存的应用程序中
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/macro-workspace</guid>
-      <pubDate>Fri, 26 Jun 2026 19:41:09 GMT</pubDate>
     </item>
     <item>
       <title>菲普罗</title>
