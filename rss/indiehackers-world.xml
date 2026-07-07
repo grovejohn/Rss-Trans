@@ -4,17 +4,27 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 06 Jul 2026 22:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 01:45:10 GMT</lastBuildDate>
     <item>
       <title>我构建了一个 SaaS，在发布时获得了 0 付费客户。分配一直是真正的问题。</title>
       <link>https://feed.indiehackers.world/post/4b4ff41e74</link>
-      <description><![CDATA[这段经历实际上促使我构建了 clienthunter.ai - 一种工具，可以帮助企业在您的利基市场中积极寻找解决方案，这样您就不必猜测该向谁推销。它解决了我一直遇到的确切问题：如何找到真正想要您所销售产品的人，而不用将醒着的每一个小时都花在手动外展上？
+      <description><![CDATA[正是这种经验促使我构建了 clienthunter.ai - 一种工具，可以帮助企业在您的利基市场中积极寻找解决方案，这样您就不必猜测该向谁推销。它解决了我一直遇到的确切问题：如何找到真正想要您所销售产品的人，而不用将醒着的每一个小时都花在手动外展上？
 我并不是说建筑不重要——它确实重要。但如果您将 90% 的时间花在代码编辑器上，10% 的时间花在寻找客户上，那么请翻转这个比例。稍后你会感谢自己的。
 你呢？
 您是否曾经构建过因分发而失败的东西？为了扭转局面，你做了什么改变？我很想听听你的故事 - 我们正在一起解决这个问题。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/4b4ff41e74</guid>
       <pubDate>Sun, 05 Jul 2026 14:08:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我启动了一个 Windows 实用程序来解决一个每次占用 10 分钟时间的问题</title>
+      <link>https://feed.indiehackers.world/post/69185fed08</link>
+      <description><![CDATA[您是否发现，反复出现的小烦恼比更大、更雄心勃勃的想法更能转化，因为痛苦更容易立即识别？
+如果有用，产品就在这里：
+https://enlightpixel.gumroad.com/l/xopsr
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/69185fed08</guid>
+      <pubDate>Sun, 05 Jul 2026 11:45:03 GMT</pubDate>
     </item>
     <item>
       <title>您最确定的功能是您应该首先质疑的功能</title>
@@ -189,17 +199,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/1fa7c6c4b1</guid>
       <pubDate>Wed, 01 Jul 2026 10:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何通过改变竞争地点轻松获得更多客户</title>
-      <link>https://feed.indiehackers.world/post/66f065795f</link>
-      <description><![CDATA[可能有许多产品在一个市场看起来很普通，但在另一个市场却变得更有趣。
-我现在尝试少思考“我的产品足够好吗？”以及更多关于：
-“我是否向正确的市场展示了该产品？”
-很好奇这里是否有其他人看到产品在改变目标市场后表现更好。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/66f065795f</guid>
-      <pubDate>Wed, 01 Jul 2026 07:43:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
