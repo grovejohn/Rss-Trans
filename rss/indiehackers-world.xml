@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Fri, 10 Jul 2026 06:30:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 11:39:55 GMT</lastBuildDate>
     <item>
       <title>我构建了一个 macOS 应用程序来让移动 E2E 测试不再那么糟糕</title>
       <link>https://feed.indiehackers.world/post/26270ac4da</link>
@@ -67,6 +67,28 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/11cbec8bb7</guid>
       <pubDate>Thu, 09 Jul 2026 14:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我的一名代理暴露凭证后，我为人工智能代理建立了一个安全检查点</title>
+      <link>https://feed.indiehackers.world/post/e4e0af88b2</link>
+      <description><![CDATA[→ 代理继续或停止
+第一个用例很简单：
+
+阻止破坏性 shell 命令
+阻止 GitHub 存储库删除
+阻止数据库丢失
+阻止有风险的部署操作
+记录允许和阻止的工具调用
+
+它适用于 Node、Python、LangGraph、Claude Code 和自定义代理。
+我还处于早期阶段，正在尝试向在实际工作流程中使用代理的构建者学习。
+向其他创始人/建设者提出的问题：
+如果您的 AI 代理可以调用工具，您会默认阻止哪些操作？
+这是我正在测试的内容：
+https://relay-security-lemon.vercel.app/
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/e4e0af88b2</guid>
+      <pubDate>Thu, 09 Jul 2026 10:25:16 GMT</pubDate>
     </item>
     <item>
       <title>我建立了一位人工智能健身教练，然后意识到人工智能只能解决我漏斗的一半问题</title>
@@ -188,14 +210,6 @@ GitHub：https://github.com/Alfa-Dev404/GetPawsOff
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/dbd141b4bc</guid>
       <pubDate>Sun, 05 Jul 2026 09:31:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最确定的功能是您应该首先质疑的功能</title>
-      <link>https://feed.indiehackers.world/post/706afbd105</link>
-      <description><![CDATA[有哪些功能是您 100% 确定会失败的，或者是您差点没有构建但却成功的？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/706afbd105</guid>
-      <pubDate>Sun, 05 Jul 2026 09:20:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
