@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Mon, 13 Jul 2026 05:56:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 08:40:52 GMT</lastBuildDate>
     <item>
       <title>AI 紫色问题：为什么每个 AI 品牌看起来都一样</title>
       <link>https://feed.indiehackers.world/post/6cb0aa2a02</link>
@@ -38,6 +38,17 @@ https://statuspage.me/open
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/bf0d34a13f</guid>
       <pubDate>Sat, 11 Jul 2026 16:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>从意想不到的渠道获得了我们的第一批付费客户</title>
+      <link>https://feed.indiehackers.world/post/4a4067f803</link>
+      <description><![CDATA[我一边做全职工作，一边构建 Michii.dev (http://michii.dev/)。人工智能代理为非技术人员构建和运营在线业务。
+到目前为止，当我发布有关该产品的信息时，我们的大部分流量都来自 X 和 LinkedIn 上的用户。但问题是我的圈子技术性很强，他们可以直接启动 Claude Code 并自己构建它，而不用付钱给我们。
+然后我们在 Hacker News 上发帖，这可能是地球上技术含量最高的社区，老实说我并没有期待什么。但这正是我们第一批付费客户的来源。
+早期阶段的教训：不要假设您知道哪个渠道可以转化。测试一些，你可能会感到惊讶。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/4a4067f803</guid>
+      <pubDate>Sat, 11 Jul 2026 15:40:06 GMT</pubDate>
     </item>
     <item>
       <title>我的人工智能代理给客户报了几个月前我们杀掉的价格。所以我建造了印迹。</title>
@@ -195,17 +206,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/bd923009d7</guid>
       <pubDate>Thu, 09 Jul 2026 05:40:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Show IH：我为 iPhone 制作了一个离线 AI 音乐生成器。</title>
-      <link>https://feed.indiehackers.world/post/3b72eed924</link>
-      <description><![CDATA[老实说它的现状：生成仍然需要一段时间，而且对电池的消耗并不大，所以“在手机上运行”是最好的选择。并不意味着“跑得快”然而。该模型还必须在首次启动时下载，大小约为 1.5GB。到目前为止，我只在 iPhone 15 Pro 和 17 Pro 上真正验证过性能。较旧的硬件仍然是一个问号。
-链接：www.murmurapps.com
-想知道这里是否还有其他人努力让机器学习相关的东西完全在设备上运行？
-关于收入：这是一次 14.99 欧元的购买，不是订阅，但自 3 周前推出以来，已有 2 个人（不是我或朋友）支付了费用。小，但真实。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/3b72eed924</guid>
-      <pubDate>Wed, 08 Jul 2026 15:30:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
