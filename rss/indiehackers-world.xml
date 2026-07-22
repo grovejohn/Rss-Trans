@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 22 Jul 2026 18:52:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 21:52:55 GMT</lastBuildDate>
     <item>
       <title>如何利用人工智能自动获得合作机会并起草推广计划</title>
       <link>https://feed.indiehackers.world/post/d471304c36</link>
@@ -24,6 +24,16 @@
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/d471304c36</guid>
       <pubDate>Wed, 22 Jul 2026 13:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天在 Product Hunt 上推出我的纯 SaaS 买家数据库。这是我在定价上的赌注。</title>
+      <link>https://feed.indiehackers.world/post/396eb5bf31</link>
+      <description><![CDATA[它一键同步到 Salesforce 和 HubSpot，因此可以插入现有工作流程。
+早期信号良好。一些团队用它替换了 Apollo 订阅，其中一个团队将每次会议的费用降低了一半。
+很好奇这里的其他创始人对数据产品的无订阅定价有何看法。是鲁莽，还是与现任者作对？评论中的启动链接，非常欢迎反馈。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/396eb5bf31</guid>
+      <pubDate>Wed, 22 Jul 2026 07:20:59 GMT</pubDate>
     </item>
     <item>
       <title>我为独立创始人建立了一个竞争对手监视器</title>
@@ -87,7 +97,7 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>我构建了一个人工智能，可以在 10 分钟内将想法转变为实际业务。这是 1,000 次发布教会我的</title>
       <link>https://feed.indiehackers.world/post/4df62ca3f5</link>
-      <description><![CDATA[人工智能的采用无处不在。人工智能运营的企业仍然很少。在分析了 30 多个数据集并观察了 1,000 多家在 Leapd 上启动的企业后，我发现了哪些有效、哪些失败以及创始人仍需要继续参与的清晰模式。我在 2026 年 AI-Run 商业报告中详细阐述了这些经验教训，包括创始人如何使用 AI 来构建产品、推出网站、开展外展、创建广告以及开始寻找客户。 
+      <description><![CDATA[人工智能的采用无处不在。人工智能运营的企业仍然很少。在分析了 30 多个数据集并观察了 1,000 多家在 Leapd 上启动的企业后，我发现了哪些有效、哪些失败以及创始人仍需要继续参与的明确模式。我在 2026 年 AI-Run 商业报告中详细阐述了这些经验教训，包括创始人如何使用 AI 来构建产品、推出网站、开展外展、创建广告以及开始寻找客户。 
 报告：https://www.leapd.ai/resources/state-of-ai-run-businesses-2026 
 开始您的业务：https://www.leapd.ai/
 Discord Indiehackers 聊天广告此处]]></description>
@@ -174,16 +184,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/b2cab75373</guid>
       <pubDate>Fri, 17 Jul 2026 21:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建一个 iPhone 照片备份应用程序。这是发布前 3 个月教会我的内容。</title>
-      <link>https://feed.indiehackers.world/post/892fa3d75f</link>
-      <description><![CDATA[对于任何推出消费者移动应用的人来说，是什么真正推动了您的前 100 个真实用户？不是来自您网络中的 Beta 测试人员，而是找到您并留下来的陌生人。
-TestFlight 如果您想尝试一下：https://testflight.apple.com/join/VsZG8HWY
-网站：https://fotoback.app
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/892fa3d75f</guid>
-      <pubDate>Fri, 17 Jul 2026 19:59:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
