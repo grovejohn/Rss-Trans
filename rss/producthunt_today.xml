@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 31 Jul 2026 16:28:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:01:36 GMT</lastBuildDate>
     <item>
       <title>牡蛎</title>
       <link>https://www.producthunt.com/products/witr</link>
@@ -90,18 +90,18 @@
       <pubDate>Thu, 30 Jul 2026 07:18:31 GMT</pubDate>
     </item>
     <item>
-      <title>雅浦岛</title>
-      <link>https://www.producthunt.com/products/yap-5</link>
+      <title>索林</title>
+      <link>https://www.producthunt.com/products/sorinai</link>
       <description><![CDATA[
-            适用于 Mac 的开源语音听写，完全在设备上
+            用于会议的交互式 AI 记事本
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/yap-5</guid>
-      <pubDate>Wed, 29 Jul 2026 21:28:30 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sorinai</guid>
+      <pubDate>Thu, 30 Jul 2026 05:29:16 GMT</pubDate>
     </item>
     <item>
       <title>追踪法学硕士</title>
@@ -118,6 +118,20 @@
       <pubDate>Wed, 29 Jul 2026 14:43:16 GMT</pubDate>
     </item>
     <item>
+      <title>公关缺口</title>
+      <link>https://www.producthunt.com/products/prnotch</link>
+      <description><![CDATA[
+            Mac 上的 GitHub 拉取请求
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/prnotch</guid>
+      <pubDate>Wed, 29 Jul 2026 13:52:23 GMT</pubDate>
+    </item>
+    <item>
       <title>波思实验室</title>
       <link>https://www.producthunt.com/products/poth-labs</link>
       <description><![CDATA[
@@ -130,6 +144,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/poth-labs</guid>
       <pubDate>Wed, 29 Jul 2026 04:59:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>凯梅拉</title>
+      <link>https://www.producthunt.com/products/caimera-2</link>
+      <description><![CDATA[
+            时尚团队AI视觉制作平台
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/caimera-2</guid>
+      <pubDate>Tue, 28 Jul 2026 07:17:55 GMT</pubDate>
     </item>
     <item>
       <title>屏幕截图</title>
@@ -186,34 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/scam-ai</guid>
       <pubDate>Mon, 20 Jul 2026 16:18:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能搜索控制台</title>
-      <link>https://www.producthunt.com/products/ai-search-console</link>
-      <description><![CDATA[
-            AI 搜索的即时分析和引文映射
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/ai-search-console</guid>
-      <pubDate>Fri, 03 Jul 2026 12:43:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>妮娜</title>
-      <link>https://www.producthunt.com/products/agenq-nina-ai-product-assistant</link>
-      <description><![CDATA[
-            逐步引导用户进入您的产品。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/agenq-nina-ai-product-assistant</guid>
-      <pubDate>Fri, 19 Dec 2025 10:28:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
