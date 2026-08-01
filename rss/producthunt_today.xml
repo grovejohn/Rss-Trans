@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 01 Aug 2026 07:56:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 10:24:17 GMT</lastBuildDate>
     <item>
       <title>Basedash审计日志</title>
       <link>https://www.producthunt.com/products/basedash</link>
@@ -104,7 +104,35 @@
       <pubDate>Fri, 31 Jul 2026 08:27:23 GMT</pubDate>
     </item>
     <item>
-      <title>终端小部件</title>
+      <title>牡蛎</title>
+      <link>https://www.producthunt.com/products/witr</link>
+      <description><![CDATA[
+            这是为什么运行？跟踪进程、端口、容器或文件
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/witr</guid>
+      <pubDate>Fri, 31 Jul 2026 06:39:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>迷你最大H3</title>
+      <link>https://www.producthunt.com/products/minimax</link>
+      <description><![CDATA[
+            用于运动设计和品牌推广的统一视频生成
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/minimax</guid>
+      <pubDate>Fri, 31 Jul 2026 03:17:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>终端小工具</title>
       <link>https://www.producthunt.com/products/terminalwidget</link>
       <description><![CDATA[
             将脚本输出放入桌面/主屏幕小部件中。
@@ -116,20 +144,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/terminalwidget</guid>
       <pubDate>Thu, 30 Jul 2026 23:30:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>深度数据</title>
-      <link>https://www.producthunt.com/products/depthdata</link>
-      <description><![CDATA[
-            公司人工智能支出的记录系统。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/depthdata</guid>
-      <pubDate>Thu, 30 Jul 2026 20:00:35 GMT</pubDate>
     </item>
     <item>
       <title>指标</title>
@@ -172,20 +186,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/port22</guid>
       <pubDate>Wed, 29 Jul 2026 20:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>追踪法学硕士</title>
-      <link>https://www.producthunt.com/products/tracellm</link>
-      <description><![CDATA[
-            用于生产 AI 应用的 OpenTelemetry
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/tracellm</guid>
-      <pubDate>Wed, 29 Jul 2026 14:43:16 GMT</pubDate>
     </item>
     <item>
       <title>串联</title>
