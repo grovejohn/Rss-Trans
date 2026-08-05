@@ -2,50 +2,50 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 05 Aug 2026 01:15:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 05:34:26 GMT</lastBuildDate>
     <item>
-      <title>片段</title>
-      <link>https://www.producthunt.com/products/snipplet</link>
+      <title>视频有我</title>
+      <link>https://www.producthunt.com/products/video-ai-me</link>
       <description><![CDATA[
-            创建并分享您喜爱的地方的精美指南
+            只需一种工具即可制作视频并将其发布到任何地方
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/snipplet</guid>
-      <pubDate>Tue, 04 Aug 2026 06:15:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/video-ai-me</guid>
+      <pubDate>Mon, 03 Aug 2026 19:35:56 GMT</pubDate>
     </item>
     <item>
-      <title>斯蒂纳尔</title>
-      <link>https://www.producthunt.com/products/stynar</link>
+      <title>母亲</title>
+      <link>https://www.producthunt.com/products/mother-claude-code-terminal</link>
       <description><![CDATA[
-            为您运行出站的AI SDR
+            为 Claude Code 构建的终端，具有一键式会话恢复功能
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/stynar</guid>
-      <pubDate>Tue, 04 Aug 2026 04:49:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mother-claude-code-terminal</guid>
+      <pubDate>Mon, 03 Aug 2026 19:21:35 GMT</pubDate>
     </item>
     <item>
-      <title>凤凰</title>
-      <link>https://www.producthunt.com/products/finyuus</link>
+      <title>Glasp MCP 连接器</title>
+      <link>https://www.producthunt.com/products/glasp-mcp-connector</link>
       <description><![CDATA[
-            用于持久、受管控的 AI 工作流程的代码优先语言
+            在 Claude 和 ChatGPT 中搜索您的亮点和笔记
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/finyuus</guid>
-      <pubDate>Mon, 03 Aug 2026 18:14:47 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/glasp-mcp-connector</guid>
+      <pubDate>Mon, 03 Aug 2026 18:39:20 GMT</pubDate>
     </item>
     <item>
       <title>氛围好友</title>
@@ -90,6 +90,20 @@
       <pubDate>Mon, 03 Aug 2026 08:00:36 GMT</pubDate>
     </item>
     <item>
+      <title>ZapDigits MCP</title>
+      <link>https://www.producthunt.com/products/zapdigits</link>
+      <description><![CDATA[
+            用于营销数据的 MCP 服务器
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/zapdigits</guid>
+      <pubDate>Sun, 02 Aug 2026 18:39:13 GMT</pubDate>
+    </item>
+    <item>
       <title>防空人工智能</title>
       <link>https://www.producthunt.com/products/airproof-ai</link>
       <description><![CDATA[
@@ -132,18 +146,18 @@
       <pubDate>Thu, 30 Jul 2026 07:14:31 GMT</pubDate>
     </item>
     <item>
-      <title>成长手册5.0</title>
-      <link>https://www.producthunt.com/products/growthbook</link>
+      <title>克罗多人工智能</title>
+      <link>https://www.producthunt.com/products/crodo-ai</link>
       <description><![CDATA[
-            大规模构建、交付和改进
+            适用于 macOS 的语音优先 AI 助手
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/growthbook</guid>
-      <pubDate>Wed, 29 Jul 2026 15:58:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/crodo-ai</guid>
+      <pubDate>Mon, 27 Jul 2026 14:28:16 GMT</pubDate>
     </item>
     <item>
       <title>驱动</title>
@@ -160,20 +174,6 @@
       <pubDate>Wed, 22 Jul 2026 02:16:19 GMT</pubDate>
     </item>
     <item>
-      <title>文件翻转器</title>
-      <link>https://www.producthunt.com/products/fileflippers</link>
-      <description><![CDATA[
-            发送大文件并通过下载获得报酬
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/fileflippers</guid>
-      <pubDate>Mon, 20 Jul 2026 15:33:31 GMT</pubDate>
-    </item>
-    <item>
       <title>阿特拉斯</title>
       <link>https://www.producthunt.com/products/atlaso</link>
       <description><![CDATA[
@@ -188,18 +188,18 @@
       <pubDate>Sat, 18 Jul 2026 22:04:00 GMT</pubDate>
     </item>
     <item>
-      <title>Tixio 3.0</title>
-      <link>https://www.producthunt.com/products/tixio-io</link>
+      <title>艺术甲板</title>
+      <link>https://www.producthunt.com/products/artdeck</link>
       <description><![CDATA[
-            从聊天开始会议
+            内置视觉学习工具的参考板
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tixio-io</guid>
-      <pubDate>Wed, 20 May 2026 05:32:18 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/artdeck</guid>
+      <pubDate>Sun, 05 Jul 2026 19:50:43 GMT</pubDate>
     </item>
     <item>
       <title>嘿诺亚</title>
