@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 05 Aug 2026 11:10:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:08:08 GMT</lastBuildDate>
+    <item>
+      <title>您如何在大型自动化项目中对 PLC 逻辑进行版本控制？</title>
+      <link>https://www.reddit.com/r/automation/comments/1vgecr3/how_are_you_versioncontrolling_plc_logic_in_large/</link>
+      <description><![CDATA[对于拥有多名工程师处理 PLC 程序的团队，您的版本控制工作流程是怎样的？您是否以任何身份、特定于供应商的工具或其他方式使用 Git？ 我很好奇人们如何避免合并冲突、跟踪更改以及管理生产中的回滚。   由   提交/u/Top-Try419  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vgecr3/how_are_you_versioncontrolling_plc_logic_in_large/</guid>
+      <pubDate>Wed, 05 Aug 2026 17:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过将数据代理固定到 Slack 通道来跳过“给我一个号码”ping</title>
+      <link>https://www.reddit.com/r/automation/comments/1vgbcri/skip_the_pull_me_a_number_pings_by_pinning_a_data/</link>
+      <description><![CDATA[我使用 Databricks 设置自动化了很多 Slack 响应。当人们不断向您私信询问号码时，Slack 的 Databricks Genie 应用程序是自动完成此操作的好方法：您在频道中u/Genie，它会在线索中回答来源和后续提示。有用的一点是，频道所有者可以将一个特定的 Genie Agent 固定到该频道，这样每个人都可以从相同的数据集获得一致的答案，并且回复可以设置为公开或私有，仅对提问者开放。 就像我之前所说的，自动化电子邮件草稿/回复一直是我的第一自动化。如果您正在使用其他类似的东西，请告诉我，因为我正在尝试在所有表面上执行此操作。   由   提交 /u/pretzels90210   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vgbcri/skip_the_pull_me_a_number_pings_by_pinning_a_data/</guid>
+      <pubDate>Wed, 05 Aug 2026 15:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 连接器投资回报率：连接器与单独的法学硕士</title>
+      <link>https://www.reddit.com/r/automation/comments/1vga044/ai_connector_roi_connectors_vs_llms_alone/</link>
+      <description><![CDATA[       由   提交/u/stewofkc   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vga044/ai_connector_roi_connectors_vs_llms_alone/</guid>
+      <pubDate>Wed, 05 Aug 2026 15:08:01 GMT</pubDate>
+    </item>
     <item>
       <title>如何在生产中保持人工智能构建的管道的确定性？</title>
       <link>https://www.reddit.com/r/automation/comments/1vg2i7z/how_do_you_keep_an_aibuilt_pipeline_deterministic/</link>
@@ -83,32 +104,11 @@
       <pubDate>Mon, 03 Aug 2026 17:20:39 GMT</pubDate>
     </item>
     <item>
-      <title>自动化是一个脚本或一个项目</title>
-      <link>https://www.reddit.com/r/automation/comments/1vef4dy/automation_is_a_script_or_a_project/</link>
-      <description><![CDATA[不知何故，我最终被一家相当高价值的物理工程咨询公司聘用为数据处理实习生。在我被录用之前，我向老板提到我还可以帮助自动化一些工作。 但后来我实际上被分配到零实际数据处理工作，而是被分配到他们想要的这些定义模糊的脚本，因为他们认为可以实现自动化。 我一直在制作脚本，只是时不时地询问他们想要什么的细节。 已经过去了一个半月，我完成了12 个所需脚本中的 4 个。但我发现我的脚本（我打包为 .exe 文件）刚刚出现在电子邮件中，我不知道它是否用于任何用途。 您认为我应该更进一步，也许将其完全放在内部工具实现项目上，并具有明确的利益相关者、时间表和目标指标？我之前有过协助ERP工具实施的经验，我知道很难推动人们使用这些工具，并向供应商发送调整请求（好吧，在这种情况下是我自己）。 不过我又处于实习生的位置。任何建议都会有所帮助，谢谢！   由   提交 /u/Hot-Fan-1804   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vef4dy/automation_is_a_script_or_a_project/</guid>
-      <pubDate>Mon, 03 Aug 2026 14:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>您仍然不喜欢自动化哪一项任务？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vecszd/whats_one_task_you_still_you_dont_prefer_to/</link>
-      <description><![CDATA[即使人工智能和自动化变得更好，我认为仍然有一些任务最好由人来完成。 您仍然更喜欢手动做的一件事是什么？您遇到过任何挑战吗？   由   提交/u/MarchPlastic1650   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vecszd/whats_one_task_you_still_you_dont_prefer_to/</guid>
-      <pubDate>Mon, 03 Aug 2026 13:01:57 GMT</pubDate>
-    </item>
-    <item>
       <title>您见过的真正印钞的自动化设备是什么？</title>
       <link>https://www.reddit.com/r/automation/comments/1veb1kt/what_is_an_automation_that_you_have_seen_that/</link>
       <description><![CDATA[我最近在其中一个 Reddit 子版块上读到，一位 Shopify 创始人最近的设置完全错乱了。他们将 Midjourney 连接到按需打印的管道，因此 Twitter/X 上的流行表情包会在几分钟内自动变成 T 恤模型。在大多数品牌注意到模因存在之前，该系统就抓取了病毒式传播的帖子，生成了模仿衬衫的概念，创建了模型，并将产品直接推送到商店。疯狂的是，他们说大部分销售来自于早期，而不是来自令人惊叹的设计。 很好奇，你所见过的真正印钞的自动化是什么？   由   提交/u/emilyxhug  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1veb1kt/what_is_an_automation_that_you_have_seen_that/</guid>
       <pubDate>Mon, 03 Aug 2026 11:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要学习哪些技术才能进入自动化领域并获得客户</title>
-      <link>https://www.reddit.com/r/automation/comments/1ve5z13/what_are_the_techs_i_need_to_learn_to_get_into/</link>
-      <description><![CDATA[我听说 zapier 非常有名，我想知道我是否可以在不支付任何订阅的情况下学习和充分利用它的潜力？还有哪些其他工具真正受企业欢迎   由   提交/u/techlover1010  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ve5z13/what_are_the_techs_i_need_to_learn_to_get_into/</guid>
-      <pubDate>Mon, 03 Aug 2026 06:58:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
