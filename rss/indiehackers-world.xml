@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 05 Aug 2026 19:08:29 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:02:46 GMT</lastBuildDate>
     <item>
       <title>哪些客户真正盈利？这个工作流程给你答案</title>
       <link>https://feed.indiehackers.world/post/f1246358b9</link>
@@ -34,6 +34,20 @@
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/f1246358b9</guid>
       <pubDate>Wed, 05 Aug 2026 14:13:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的用户想要互动。您的路线图没有几周的空闲时间。</title>
+      <link>https://feed.indiehackers.world/post/8b7a26b8b4</link>
+      <description><![CDATA[如果您是独立创始人或小团队，您就会知道其中的痛苦：您的用户需要评论、点赞、提及、提要 - 但构建所有这些意味着在身份验证、审核、通知和跨平台支持方面花费数周的时间。
+您应该在核心产品上花费几周的时间。
+我构建 GossipStack 正是为了解决这个问题。它是一个嵌入式 SDK——原生于 iOS、Android 和 Web。与您的品牌相匹配的可自定义 UI 模板。
+您的数据归您所有。计划起价为 2.99 美元/月，并提供 15 天免费试用。
+停止建设基础设施。开始建立社区。
+👉https://gossipstack.com
+很想听听您的反馈 - 公开构建此项目。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/8b7a26b8b4</guid>
+      <pubDate>Tue, 04 Aug 2026 12:44:05 GMT</pubDate>
     </item>
     <item>
       <title>我如何构建一个有来源支持的英国和荷兰金融计算器平台</title>
@@ -132,6 +146,16 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Mon, 03 Aug 2026 07:59:38 GMT</pubDate>
     </item>
     <item>
+      <title>三周销售：16 名真实访客，0 名客户</title>
+      <link>https://feed.indiehackers.world/post/25d849c3f4</link>
+      <description><![CDATA[我现在在做什么
+我押注于 n8n 模板库，其中的模板正在接受审查，并且在自动化人员已经所在的地方始终如一地出现。这些目录继续按照自己的节奏自行工作。
+如果您曾经在其他人的帖子中读过这么小的数字并且它对您有所帮助，那么这是我的。一个月后我会写下它是如何进行的。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/25d849c3f4</guid>
+      <pubDate>Sun, 02 Aug 2026 15:50:50 GMT</pubDate>
+    </item>
+    <item>
       <title>“我只会在 Upwork 上发帖”不是客户策略。这是我构建的。</title>
       <link>https://feed.indiehackers.world/post/78ae781ab3</link>
       <description><![CDATA[这实际上是给谁的
@@ -188,31 +212,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/fae23ae6a4</guid>
       <pubDate>Sat, 01 Aug 2026 09:28:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Solo 创始人：您今天如何处理变更日志、维护通知和状态更新？</title>
-      <link>https://feed.indiehackers.world/post/2171f34adb</link>
-      <description><![CDATA[在构建更多功能之前，我试图了解小型 SaaS 产品如何处理发布后通信。
-对于您当前的产品：
-你们在哪里发布发行说明？
-您如何宣布定期维护？
-当出现服务中断或降级时，您会怎么做？
-您是使用单独的工具，自己构建这些功能，还是主要手动处理它们？
-我对那些尴尬的部分特别感兴趣——重复的更新、对于单独项目来说太昂贵的工具，或者从未得到维护的操作页面。
-我正在围绕这个问题构建一个轻量级工具，但我不想假设组合这些功能会自动有用。
-您今天使用什么，什么会让您改变？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/2171f34adb</guid>
-      <pubDate>Fri, 31 Jul 2026 13:47:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>为具有真正履行能力的商店构建 Shopify 捆绑应用程序：这就是楔子</title>
-      <link>https://feed.indiehackers.world/post/f2e73344cd</link>
-      <description><![CDATA[每月 29 美元，无收入上限。该类别基于使用的定价是其最令人讨厌的功能：当前对市场领导者的最高一星评论称其为“根据我们销售量征税。”
-起草此内容时的状态更新：批准电子邮件于今天早上到达。提交九天后，Solid Bundles 现已在 App Store 上架。大约 20 个小时的构建时间和 19 美元的花费，0 美元的 MRR，当我本周将列表翻转到完全可见时，60 天的杀戮阈值开始计时。本周，我还为受到下架影响的商店提供了迁移指南，以及采用孤立捆绑产品的功能，以便迁移的商家保留其产品 URL 和 SEO。寻找具有 3PL 或仓库设置的测试版商家：免费终身计划、个人培训、您的反馈引导路线图。如果这是您的堆栈，请发表评论或私信。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/f2e73344cd</guid>
-      <pubDate>Fri, 31 Jul 2026 13:00:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
