@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感兴趣？别再犹豫了！我们充满活力的 Reddit 社区是像您这样的爱好者的完美中心。作为我们社区的成员，您将获得丰富的资源，包括： 🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。 🌟 独家洞察最新进展和行业新闻</description>
-    <lastBuildDate>Wed, 05 Aug 2026 19:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 01:13:18 GMT</lastBuildDate>
+    <item>
+      <title>我厌倦了价格过高的剪辑工具，所以我制作了自己的（开源）视频短片生成器。包括 MCP 服务器</title>
+      <link>https://www.reddit.com/r/automation/comments/1vgmm3r/i_was_tired_of_overpriced_clip_tools_so_i_made_my/</link>
+      <description><![CDATA[      我只是想让你知道我对 openshorts 做了很多改进，特别是在 MCP 服务器方面，现在你可以连接你的代理并生成整整一周的剪辑。另外，还有许多新字体、剪辑系统的改进等。 github 存储库：mutonby/openshorts   由   提交 /u/mutonbini   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vgmm3r/i_was_tired_of_overpriced_clip_tools_so_i_made_my/</guid>
+      <pubDate>Wed, 05 Aug 2026 22:47:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>停止为 2 步问题构建 12 步 Webhook 摩天大楼</title>
+      <link>https://www.reddit.com/r/automation/comments/1vgibjj/stop_building_12step_webhook_skyscrapers_for/</link>
+      <description><![CDATA[自动化中最大的陷阱不是选择了错误的工具，而是选择了错误的工具。它正在建造一座脆弱的摩天大楼，而木凳就可以完成这项工作。早期，我陷入了尝试自动化工作流程中每个微小摩擦点的陷阱。我构建了庞大的十二步集成链，连接表单构建器、网络钩子、数据库和自定义人工智能摘要端点，只是为了处理简单的每周客户摄入量。直到 API 端点发生变化、达到速率限制或无声故障意味着三天的潜在客户数据丢失之前，这感觉就像魔法一样。我花在调试、监控和重建自动化上的时间比我自己实际完成手动工作的时间还要多。 当我开始将自动化视为一项需要缴纳高额维护税的投资时，转折点就来了。每个新节点、API 调用和条件分支都是您必须永远维护的技术债务。现在，在编写一行代码或在 Make 或 n8n 中删除单个块之前，我强迫自己遵循三个严格的规则。首先，在我手动完成至少二十次之前，我从来不会自动化某个流程。自动化不稳定或难以理解的流程只会加速混乱，并使边缘情况无法捕捉。 其次，我总是选择尽可能最低的技术堆栈来解决百分之八十的问题。如果标准的预定 Python 脚本或简单的本机集成有效，我将永远不会使用多个 Webhook 来实现复杂的多平台工作流程。第三，也是最重要的一点，我首先会为无声的失败而努力。如果自动化系统在不可避免地发生故障时没有干净、即时的警报机制，那么它还没有准备好投入生产。最好的自动化不是最复杂的，而是最复杂的。它们是看不见的、可靠的三步流程，在后台默默运行两年，无需进行任何调整。 您构建的最不必要的复杂自动化设置是什么，您最终将其拆除为非常简单的东西？   由   提交/u/Neighbourhoodplane17   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vgibjj/stop_building_12step_webhook_skyscrapers_for/</guid>
+      <pubDate>Wed, 05 Aug 2026 20:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有故障记录的自动化只是时间表的希望</title>
+      <link>https://www.reddit.com/r/automation/comments/1vgh923/automation_without_failure_logging_is_just_hope/</link>
+      <description><![CDATA[我见过的每一个自动化都不是因为糟糕的工作流程而死掉的。它死于无形的。 工作流程运行良好数周。然后一个 API 发生了变化，一个字段变成了空，直到客户注意到为止，没有人注意到。那是没有人演示的部分。演示始终是快乐的道路。第一个月总是幸福的道路。 解决办法很无聊：记录每一次失败。不仅仅是车祸。重试、超时、奇怪的响应仍然算作 200。然后每周对它们进行一次分类。三种类型将涵盖您的大部分失败，解决这三种问题就可以将脚本变成系统。 去年我一直在构建必须能够与现实接触的自动化。那些持续存在的那些我可以打开日志并准确查看损坏的原因、时间和原因。那些死去的人是我从别人那里发现的。 你在自动化中记录了什么，你通过艰难的方式学到了什么？   由   提交 /u/Grouchy-Conflict-211   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1vgh923/automation_without_failure_logging_is_just_hope/</guid>
+      <pubDate>Wed, 05 Aug 2026 19:25:21 GMT</pubDate>
+    </item>
     <item>
       <title>您如何在大型自动化项目中对 PLC 逻辑进行版本控制？</title>
       <link>https://www.reddit.com/r/automation/comments/1vgecr3/how_are_you_versioncontrolling_plc_logic_in_large/</link>
@@ -76,32 +97,11 @@
       <pubDate>Tue, 04 Aug 2026 14:13:34 GMT</pubDate>
     </item>
     <item>
-      <title>2026 年最好的浏览器代理堆栈是什么？与浏览器使用的创造者一起</title>
-      <link>https://www.reddit.com/r/automation/comments/1vf63d1/what_is_the_best_browser_agent_stack_in_2026_with/</link>
-      <description><![CDATA[      由   提交 /u/ian_k93   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vf63d1/what_is_the_best_browser_agent_stack_in_2026_with/</guid>
-      <pubDate>Tue, 04 Aug 2026 10:06:46 GMT</pubDate>
-    </item>
-    <item>
       <title>因为太复杂而放弃的最大自动化是什么？</title>
       <link>https://www.reddit.com/r/automation/comments/1vewd3t/whats_the_biggest_automation_youve_given_up_on/</link>
       <description><![CDATA[我一直在网上看到这些令人惊叹的自动化工作流程，但一旦我真正尝试构建它们，它们最终需要不断维护。 一个 API 更改。 一个步骤中断。 一个提示停止产生良好的结果。 不久之后，我花在修复自动化上的时间比从中受益更多的时间。 有人找到了构建 AI 的方法吗不需要一直需要保姆的工作流程？ 我目前正在测试的平台之一是 HeyMarcus.ai。因为我正在努力减少自动化的维护工作。这里有没有人使用过它或发现类似的东西？   由   提交 /u/OwlZealousideal4779   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1vewd3t/whats_the_biggest_automation_youve_given_up_on/</guid>
       <pubDate>Tue, 04 Aug 2026 01:30:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026 年最佳 AR 发票自动化设置？</title>
-      <link>https://www.reddit.com/r/automation/comments/1vemas1/best_ar_invoice_automation_setups_in_2026/</link>
-      <description><![CDATA[寻找发票自动化设置和建议，主要针对我们的应收账款。现在，我只有一个非常基本的 QBO + Stripe 设置，它依赖于大量的手动数据输入。我一直在尝试使用 n8n 进行自己的设置，但我无法让它执行我想要的操作。主要是，它经常遇到某些客户的问题，我们根据分层使用/自定义折扣有不同的价格。  我想要的主要东西就是任何能让我自动暂存发票草稿并保持 Stripe 和 QBO 更新的东西。现在，我正在考虑 LedgerUp、Kolleno 等自动化选项，或者只是重做 n8n 设置并找人帮忙。但会喜欢一些其他建议和其他一般建议。谢谢。   由   提交/u/Freshnner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vemas1/best_ar_invoice_automation_setups_in_2026/</guid>
-      <pubDate>Mon, 03 Aug 2026 18:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个完全自动化的视频管道，使用我自己的克隆化身和语音 (n8n + Claude + HeyGen + VidIQ) - 工作流程共享</title>
-      <link>https://www.reddit.com/r/automation/comments/1vejsqs/i_built_a_fully_automated_video_pipeline_that/</link>
-      <description><![CDATA[      最近我构建了一个免提视频自动化系统。我给它一个主题或一个脚本，它会处理其他所有事情。我自己不录制、编辑甚至发帖。 工作原理如下： 我向 Telegram 机器人发送一个主题。 Claude（运行 Claude Code 例程）拿起它，根据需要使用 VidIQ 研究关键字，并用我的声音和风格编写脚本。它通过 Telegram 将脚本发送回给我以供批准。我可以批准它或要求更改，它会不断修改，直到我满意为止。 一旦我批准，它就会将详细信息记录在电子表格中，并向 HeyGen 的视频代理发送指令。我在那里使用自己的克隆化身和声音，所以最终的视频听起来和看起来都像我，而不是通用的人工智能化身。 HeyGen 的视频代理还会自动生成视觉效果和字幕。 视频准备好后，另一个 n8n 工作流程会抓取它、下载它，然后将其直接上传到 YouTube。当它上线时，我会收到 Tele gram 通知。 整个过程运行在：  n8n，用于工作流程自动化 Claude，用于脚本和编排 HeyGen，用于头像和语音生成 Tele gram，用于审批和通知层 用于跟踪其间所有内容的电子表格 用于关键字研究和视频的 VidIQ优化  我开源了整个设置。 GitHub 存储库包含所有三个 n8n 工作流程，以及帮助您针对自己的用例进行设置的指南。 &gt;&gt; GitHub 存储库： https://github.com/indishmarketer/claude-n8n-youtube-automation &gt;&gt;&gt; 演示视频： https://www.youtube.com/watch?v=puM_wcS3jxk 如果有人想要构建类似的东西，很乐意回答问题。   由   提交 /u/indishmarketer   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1vejsqs/i_built_a_fully_automated_video_pipeline_that/</guid>
-      <pubDate>Mon, 03 Aug 2026 17:20:39 GMT</pubDate>
     </item>
     <item>
       <title>您见过的真正印钞的自动化设备是什么？</title>
