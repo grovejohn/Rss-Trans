@@ -4,68 +4,12 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 07 Aug 2026 06:55:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 09:46:14 GMT</lastBuildDate>
     <item>
-      <title>嘿明信片 - 数字明信片</title>
-      <link>https://www.producthunt.com/products/hey-postcard-slow-messaging</link>
-      <description><![CDATA[
-            明天早上 8 点 -10 点之间随机发送
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/hey-postcard-slow-messaging</guid>
-      <pubDate>Thu, 06 Aug 2026 05:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>盾星</title>
-      <link>https://www.producthunt.com/products/mistral-7b</link>
-      <description><![CDATA[
-            定义文本和图像运行时的安全性
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/mistral-7b</guid>
-      <pubDate>Thu, 06 Aug 2026 03:49:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Glyphi：快速阅读器</title>
-      <link>https://www.producthunt.com/products/glyphi-speed-reader</link>
-      <description><![CDATA[
-            书籍、PDF、文章和网页的 RSVP 阅读器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/glyphi-speed-reader</guid>
-      <pubDate>Thu, 06 Aug 2026 02:41:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>滑道</title>
-      <link>https://www.producthunt.com/products/chute-better-airdrop</link>
-      <description><![CDATA[
-            将任何内容发送到 iPhone 的最快方式
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/chute-better-airdrop</guid>
-      <pubDate>Wed, 05 Aug 2026 22:44:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare操作系统</title>
+      <title>风筝冲浪</title>
       <link>https://www.producthunt.com/products/cloudflare</link>
       <description><![CDATA[
-            为您的公司构建人工智能操作系统
+            为代理构建的浏览器，在 Cloudflare Workers 上运行
           
 
 讨论
@@ -73,147 +17,203 @@
             链接
 ]]></description>
       <guid>https://www.producthunt.com/products/cloudflare</guid>
-      <pubDate>Wed, 05 Aug 2026 18:52:07 GMT</pubDate>
+      <pubDate>Fri, 07 Aug 2026 04:59:49 GMT</pubDate>
     </item>
     <item>
-      <title>阿威罗</title>
-      <link>https://www.producthunt.com/products/aveiro</link>
+      <title>桌面版 Rescript</title>
+      <link>https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text</link>
       <description><![CDATA[
-            使用 AI 代理发布网站、新闻通讯和社交帖子
+            一个免费、开源、描述的替代方案。在设备上运行。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/aveiro</guid>
-      <pubDate>Wed, 05 Aug 2026 15:17:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/rescript-edit-videos-like-you-edit-text</guid>
+      <pubDate>Fri, 07 Aug 2026 04:56:04 GMT</pubDate>
     </item>
     <item>
-      <title>Brandfetch MCP</title>
-      <link>https://www.producthunt.com/products/brandfetch</link>
+      <title>AgentOne 桌面版</title>
+      <link>https://www.producthunt.com/products/agentone-desktop</link>
       <description><![CDATA[
-            阻止你的人工智能猜测品牌标志
+            自动化无聊的工作。可扩展且免费的桌面 AI 代理。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/brandfetch</guid>
-      <pubDate>Wed, 05 Aug 2026 11:55:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/agentone-desktop</guid>
+      <pubDate>Fri, 07 Aug 2026 03:57:52 GMT</pubDate>
     </item>
     <item>
-      <title>雷达</title>
-      <link>https://www.producthunt.com/products/ucp-radar</link>
+      <title>蓝莓</title>
+      <link>https://www.producthunt.com/products/blueberry-6</link>
       <description><![CDATA[
-            让 AI 购物代理可以看到您的产品 Feed
+            别再对你真正喜欢的人做鬼了
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ucp-radar</guid>
-      <pubDate>Wed, 05 Aug 2026 11:03:42 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/blueberry-6</guid>
+      <pubDate>Thu, 06 Aug 2026 22:25:45 GMT</pubDate>
     </item>
     <item>
-      <title>奥多多克</title>
-      <link>https://www.producthunt.com/products/ododok</link>
+      <title>BAP工作室</title>
+      <link>https://www.producthunt.com/products/bap-studio</link>
       <description><![CDATA[
-            使用 AirPods 计算每次咀嚼次数
+            在浏览器选项卡中运行的 MPC 风格鼓机
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ododok</guid>
-      <pubDate>Tue, 04 Aug 2026 20:17:00 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/bap-studio</guid>
+      <pubDate>Thu, 06 Aug 2026 20:55:58 GMT</pubDate>
     </item>
     <item>
-      <title>网站到 Markdown API</title>
-      <link>https://www.producthunt.com/products/website-to-markdown-api</link>
+      <title>索卢普</title>
+      <link>https://www.producthunt.com/products/soloop</link>
       <description><![CDATA[
-            将任何网站转变为 LLM 就绪的 Markdown
+            面向独立创始人的优先批准代理操作系统
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/website-to-markdown-api</guid>
-      <pubDate>Fri, 31 Jul 2026 20:45:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/soloop</guid>
+      <pubDate>Thu, 06 Aug 2026 10:36:29 GMT</pubDate>
     </item>
     <item>
-      <title>票务台人工智能</title>
-      <link>https://www.producthunt.com/products/ticketdesk-ai</link>
+      <title>内存0</title>
+      <link>https://www.producthunt.com/products/mem0-5</link>
       <description><![CDATA[
-            用于客户支持的人工智能代理
+            AI 代理的持久内存层
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/ticketdesk-ai</guid>
-      <pubDate>Fri, 31 Jul 2026 04:37:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mem0-5</guid>
+      <pubDate>Thu, 06 Aug 2026 09:55:43 GMT</pubDate>
     </item>
     <item>
-      <title>超级日志响应器</title>
-      <link>https://www.producthunt.com/products/superlog</link>
+      <title>全体人员</title>
+      <link>https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code</link>
       <description><![CDATA[
-            免费、开源的 AI 错误修复代理
+            克劳德代码特工的一小群怪物
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/superlog</guid>
-      <pubDate>Thu, 30 Jul 2026 12:17:59 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/crew-a-tiny-crew-for-claude-code</guid>
+      <pubDate>Thu, 06 Aug 2026 08:08:47 GMT</pubDate>
     </item>
     <item>
-      <title>令牌港</title>
-      <link>https://www.producthunt.com/products/token-harbor</link>
+      <title>哇哦 CLI</title>
+      <link>https://www.producthunt.com/products/whop-cli</link>
       <description><![CDATA[
-            访问前沿人工智能模型的最简单方法。
+            从终端运行您的整个业务
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/token-harbor</guid>
-      <pubDate>Thu, 23 Jul 2026 14:42:38 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/whop-cli</guid>
+      <pubDate>Thu, 06 Aug 2026 01:40:05 GMT</pubDate>
     </item>
     <item>
-      <title>CopilotKit 通道 SDK</title>
-      <link>https://www.producthunt.com/products/copilotkit</link>
+      <title>新的 Firecrawl MCP</title>
+      <link>https://www.producthunt.com/products/extract-by-firecrawl</link>
       <description><![CDATA[
-            将任何代理引入 Slack、Teams 等。
+            适用于任何 MCP 客户端的代理就绪 Web 上下文。
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/copilotkit</guid>
-      <pubDate>Wed, 15 Jul 2026 20:21:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/extract-by-firecrawl</guid>
+      <pubDate>Wed, 05 Aug 2026 22:49:34 GMT</pubDate>
     </item>
     <item>
-      <title>Rippling 的 AI 支出控制台</title>
-      <link>https://www.producthunt.com/products/rippling</link>
+      <title>人工智能可观测性进展</title>
+      <link>https://www.producthunt.com/products/progress-ai-observability</link>
       <description><![CDATA[
-            跟踪您的人工智能支出并将其与业务成果联系起来
+            跟踪、评估和改进生产中的 AI 代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/rippling</guid>
-      <pubDate>Tue, 14 Jul 2026 17:17:32 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/progress-ai-observability</guid>
+      <pubDate>Wed, 05 Aug 2026 14:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>步击</title>
+      <link>https://www.producthunt.com/products/stepshot-2</link>
+      <description><![CDATA[
+            人工智能将真实的工作流程转变为分步指南
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/stepshot-2</guid>
+      <pubDate>Wed, 05 Aug 2026 08:17:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>林德勒</title>
+      <link>https://www.producthunt.com/products/rindler</link>
+      <description><![CDATA[
+            自动化您团队手动执行的网络工作
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/rindler</guid>
+      <pubDate>Mon, 03 Aug 2026 22:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>硝基4.0</title>
+      <link>https://www.producthunt.com/products/alconost-localization</link>
+      <description><![CDATA[
+            第一个为人工智能代理构建的人工翻译平台
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/alconost-localization</guid>
+      <pubDate>Fri, 31 Jul 2026 12:24:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>冷茶.ai</title>
+      <link>https://www.producthunt.com/products/coldtea</link>
+      <description><![CDATA[
+            让您的软件交付自动驾驶
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/coldtea</guid>
+      <pubDate>Fri, 17 Jul 2026 08:59:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
