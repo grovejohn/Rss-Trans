@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 09 Aug 2026 00:40:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 04:06:52 GMT</lastBuildDate>
     <item>
       <title>基于ash订阅</title>
       <link>https://www.producthunt.com/products/basedash</link>
@@ -34,6 +34,48 @@
       <pubDate>Fri, 07 Aug 2026 20:20:13 GMT</pubDate>
     </item>
     <item>
+      <title>风筝冲浪</title>
+      <link>https://www.producthunt.com/products/cloudflare</link>
+      <description><![CDATA[
+            为代理构建的浏览器，在 Cloudflare Workers 上运行
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/cloudflare</guid>
+      <pubDate>Fri, 07 Aug 2026 04:59:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>蓝莓</title>
+      <link>https://www.producthunt.com/products/blueberry-6</link>
+      <description><![CDATA[
+            别再对你真正喜欢的人做鬼了
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/blueberry-6</guid>
+      <pubDate>Thu, 06 Aug 2026 22:25:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>BAP工作室</title>
+      <link>https://www.producthunt.com/products/bap-studio</link>
+      <description><![CDATA[
+            在浏览器选项卡中运行的 MPC 风格鼓机
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/bap-studio</guid>
+      <pubDate>Thu, 06 Aug 2026 20:55:58 GMT</pubDate>
+    </item>
+    <item>
       <title>头发</title>
       <link>https://www.producthunt.com/products/har</link>
       <description><![CDATA[
@@ -60,6 +102,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/datablur</guid>
       <pubDate>Thu, 06 Aug 2026 13:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>提示桥</title>
+      <link>https://www.producthunt.com/products/prompt-bridge-2</link>
+      <description><![CDATA[
+            保持 AI 上下文的可移植性
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/prompt-bridge-2</guid>
+      <pubDate>Thu, 06 Aug 2026 11:38:18 GMT</pubDate>
     </item>
     <item>
       <title>索卢普</title>
@@ -104,48 +160,6 @@
       <pubDate>Thu, 06 Aug 2026 03:18:25 GMT</pubDate>
     </item>
     <item>
-      <title>哇哦 CLI</title>
-      <link>https://www.producthunt.com/products/whop-cli</link>
-      <description><![CDATA[
-            从终端运行您的整个业务
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/whop-cli</guid>
-      <pubDate>Thu, 06 Aug 2026 01:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Troopr AI Scrum Master</title>
-      <link>https://www.producthunt.com/products/troopr</link>
-      <description><![CDATA[
-            根据实际工作撰写站立演讲。记住你的团队。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/troopr</guid>
-      <pubDate>Tue, 04 Aug 2026 09:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>林德勒</title>
-      <link>https://www.producthunt.com/products/rindler</link>
-      <description><![CDATA[
-            自动化您团队手动执行的网络工作
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/rindler</guid>
-      <pubDate>Mon, 03 Aug 2026 22:15:29 GMT</pubDate>
-    </item>
-    <item>
       <title>六边形</title>
       <link>https://www.producthunt.com/products/bevel-4</link>
       <description><![CDATA[
@@ -160,18 +174,18 @@
       <pubDate>Mon, 03 Aug 2026 16:15:36 GMT</pubDate>
     </item>
     <item>
-      <title>硝基4.0</title>
-      <link>https://www.producthunt.com/products/alconost-localization</link>
+      <title>拍摄剪辑</title>
+      <link>https://www.producthunt.com/products/shootclip</link>
       <description><![CDATA[
-            第一个为人工智能代理构建的人工翻译平台
+            利用 AI 编辑视频速度提高 10 倍
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/alconost-localization</guid>
-      <pubDate>Fri, 31 Jul 2026 12:24:54 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/shootclip</guid>
+      <pubDate>Sun, 02 Aug 2026 10:43:52 GMT</pubDate>
     </item>
     <item>
       <title>GTM联合创始人</title>
@@ -186,20 +200,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/the-gtm-co-founder</guid>
       <pubDate>Mon, 27 Jul 2026 13:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>平等的</title>
-      <link>https://www.producthunt.com/products/orite</link>
-      <description><![CDATA[
-            给你的人工智能代理钱。不是空白支票。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/orite</guid>
-      <pubDate>Fri, 10 Jul 2026 12:00:00 GMT</pubDate>
     </item>
     <item>
       <title>浏览器操作系统 Neo</title>
