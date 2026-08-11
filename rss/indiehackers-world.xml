@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 11 Aug 2026 15:45:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 18:41:49 GMT</lastBuildDate>
     <item>
       <title>也许我们没有生产力问题。也许我们有一个上下文问题。</title>
       <link>https://feed.indiehackers.world/post/6dc873feca</link>
@@ -48,6 +48,21 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Sun, 09 Aug 2026 19:39:16 GMT</pubDate>
     </item>
     <item>
+      <title>还有4个月。 Chrome 扩展已上线。集成网络搜索。 4 个用户。 0 美元收入。还在这里。</title>
+      <link>https://feed.indiehackers.world/post/c73b847c61</link>
+      <description><![CDATA[我的要求：
+如果您使用过 TruthScore，请诚实地告诉我您为什么不付款。是价格吗？信任？该产品没有足够清楚地解决您的问题？
+如果您已经解决了可用的免费工具和第一个付费客户之间的差距，请告诉我到底是什么推动了这一点。
+如果您现在正在构建具有相同零收入墙的东西，请在下面回复。我想听听你的消息。
+Chrome 扩展程序已上线。网络搜索已集成。该工具比以往任何时候都更好。
+总得有人成为第一。为什么不今天呢？
+truthscore.online
+#indiehackers #buildinpublic #saas #zerorevenue #chromeextension #indiemaker #startuplife #distribution #makemoneyonline
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/c73b847c61</guid>
+      <pubDate>Sun, 09 Aug 2026 18:33:17 GMT</pubDate>
+    </item>
+    <item>
       <title>29 天内 0 次真实注册——杀死 FacelessFlow（事后分析）</title>
       <link>https://feed.indiehackers.world/post/48746778cf</link>
       <description><![CDATA[我错了：
@@ -73,7 +88,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Sun, 09 Aug 2026 17:19:20 GMT</pubDate>
     </item>
     <item>
-      <title>从当地水管工到牙医：我使用 Lovable 自动化了 8 个领域的 SEO 博客。烤我的 MVP。</title>
+      <title>从当地水管工到牙医：我使用 Lovable 自动化了 8 个利基市场的 SEO 博客。烤我的 MVP。</title>
       <link>https://feed.indiehackers.world/post/0b50a77be1</link>
       <description><![CDATA[· 定价：49 欧元/月。
 · 我现在有 3 家本地企业免费测试它。
@@ -124,6 +139,14 @@ Discord Indiehackers 聊天广告此处]]></description>
       <pubDate>Sat, 08 Aug 2026 10:10:39 GMT</pubDate>
     </item>
     <item>
+      <title>我发现了 47 个我的 SaaS 缺少的反向链接机会</title>
+      <link>https://feed.indiehackers.world/post/c5346c243d</link>
+      <description><![CDATA[刚刚对我的 SaaS 进行了反向链接差距分析，发现有 47 个域名链接到竞争对手，但没有链接到我。这是我忽略的 47 条温暖线索。我使用了一个简单的工具，将我的域名与两个竞争对手进行比较，并找出丢失的链接。事实证明，其中大多数都是我从来不知道存在的利基目录和资源页面。花了一个下午的时间进行联系——已经获得了 3 个职位。如果你在没有这个的情况下进行手动外展，那么你就是盲目的。这是工具：https://serpspur.com/tool/backlink-gap/。免费，需要2分钟才能看到差距。困难的部分不是找到链接——它实际上是进行外展。但至少现在你知道目标在哪里。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/c5346c243d</guid>
+      <pubDate>Fri, 07 Aug 2026 15:59:41 GMT</pubDate>
+    </item>
+    <item>
       <title>为什么 vivi 编码的应用程序在 2026 年仍然会泄露用户数据</title>
       <link>https://feed.indiehackers.world/post/4a6ab2fbdd</link>
       <description><![CDATA[Notion、Figma 和 Canva 并没有通过更努力的提示来吸引数百万用户。他们已经运行了 10 到 15 年，真正的技术团队使真正的 
@@ -170,30 +193,6 @@ Enigma2 或映像更新后，包、路径或设置可能会发生变化。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/b250462bda</guid>
       <pubDate>Fri, 07 Aug 2026 10:01:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 4 个月内独自构建了 104 个免费工具。这是迄今为止的诚实旅程。</title>
-      <link>https://feed.indiehackers.world/post/671b2be76f</link>
-      <description><![CDATA[
-修复背景移除器删除后留下的重定向间隙
-设置适当的 GA4 关键事件，以便下一轮决策基于实际工具使用情况，而不是共鸣
-将我的南亚工具系列作为独立的 Product Hunt 列表推出，而不是第三次重新启动整个网站
-
-这里没有完善的结论，我真的仍在不断学习。如果有人浏览过“真正有用的内容仍然会被标记为垃圾邮件”特别是在 Reddit 或 Quora 上遇到的问题，或者对于什么时候真正值得启用 AdSense 还是等待更多流量有什么想法，我很想听听。
-如果您想浏览，请访问此处：dukotools.com
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/671b2be76f</guid>
-      <pubDate>Fri, 07 Aug 2026 06:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的广告真的能让我赚钱吗？</title>
-      <link>https://feed.indiehackers.world/post/56f518aa4b</link>
-      <description><![CDATA[我们有意将这个群体保持在较小规模，以便每一条反馈都会直接整合到 Xolora 的轨迹中。
-如果您运营元广告，希望完全清楚地了解您的广告系列决策，并希望帮助打造专门为个体企业家和小企业主构建的工具...
-抓住这里的 5 个地点之一：https://xolora.io/
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/56f518aa4b</guid>
-      <pubDate>Fri, 07 Aug 2026 06:31:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
