@@ -4,7 +4,19 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 18 Aug 2026 09:19:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 12:17:41 GMT</lastBuildDate>
+    <item>
+      <title>大多数平台将创始人视为数据。我们正在尝试一些令人不安的人类行为。</title>
+      <link>https://feed.indiehackers.world/post/d731289806</link>
+      <description><![CDATA[大多数工具都是为用户构建的。反馈循环贯穿指标和支持票证。我们正在尝试的，是在平台上与创始人一起构建，故意做小事，不承诺它会变成什么样子。
+这是一种不同类型的工程问题。老实说，这是一个更有趣的。
+&lt;小时/&gt;
+如果您已在 SoftRankings 上列出，请在此处请求 Slack 邀请：formsout.app/form/Founder-email-collection-for-slack
+还没有列出来？免费、24 小时审核，无需信用卡：softrankings.com/submit
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/d731289806</guid>
+      <pubDate>Mon, 17 Aug 2026 08:19:12 GMT</pubDate>
+    </item>
     <item>
       <title>我告诉一位创始人要在评论网站上列出。她的报告显示人工智能引用了她竞争对手的主页。</title>
       <link>https://feed.indiehackers.world/post/150af1e406</link>
@@ -17,7 +29,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>我支付了 149 美元购买了 1,000 个 B2B 潜在客户，但获得了 0 个客户。该修复不是我的副本。</title>
       <link>https://feed.indiehackers.world/post/d4ec1c7d58</link>
       <description><![CDATA[从那时起，我就完全不再在静态列表上浪费钱了。我寻找表现出积极意图的潜在客户：上周二发布问题的人比职位与旧数据库匹配的人有价值 10 倍。
-这实际上就是我构建 clienthunter.ai 的原因 - 我厌倦了每一个“AI 潜在客户”。该工具只是将过时的电子表格扔给我。我想根据潜在客户正在积极谈论的内容，而不是他们在 2025 年的样子来将他们放在一起。这不是灵丹妙药，但它是我使用的第一个工具，其中潜在客户质量实际上在与现实的接触中仍然存在。
+这实际上就是我建立 clienthunter.ai 的原因 - 我厌倦了每一个“AI 潜在客户”。该工具只是将过时的电子表格扔给我。我想根据潜在客户正在积极谈论的内容，而不是他们在 2025 年的样子来将他们放在一起。这不是灵丹妙药，但它是我使用的第一个工具，其中潜在客户质量实际上在与现实的接触中仍然存在。
 如果您曾经购买过潜在客户列表，我很想知道：您的实际回复率是多少 - 使用潜在客户是否超过了成本？我很好奇是否每个人都经历过这个阶段，或者我是否只是地球上最后一个知道冷酷列表和数学会让你付出两次代价的人。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/d4ec1c7d58</guid>
@@ -26,7 +38,7 @@ Discord Indiehackers 聊天广告此处]]></description>
     <item>
       <title>我建立了一个双向市场，但从未要求任何人使用它</title>
       <link>https://feed.indiehackers.world/post/6de9901e32</link>
-      <description><![CDATA[顺便说一句：它正在出售。一切正常并且正常运行。我宁愿它被一个有观众但没有产品的人——与我完全相反——而不是坐在这里作为一座纪念碑。它列在 Acquire 和 Little Exits 上，或者直接在这里回复并询问我任何问题。
+      <description><![CDATA[旁白：它正在出售。一切正常并且正常运行。我宁愿它被一个有观众但没有产品的人——与我完全相反——而不是坐在这里作为一座纪念碑。它列在 Acquire 和 Little Exits 上，或者直接在这里回复并询问我任何问题。
 也很高兴回答有关构建的技术问题。我不会过分夸大它——上面的数字就是数字。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/6de9901e32</guid>
@@ -43,7 +55,7 @@ Discord Indiehackers 聊天广告此处]]></description>
 这不是真正的比较，而是广告。
 很好奇这里是否有其他人自己进行过真正的面对面测试
 产品与竞争对手的比较。感觉更多的创始人应该做一些事情
-公开而不是仅仅声称“我们更好”。
+公开而不是仅仅声称“我们更好。”
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/5bbd6d273c</guid>
       <pubDate>Sun, 16 Aug 2026 08:51:44 GMT</pubDate>
@@ -81,7 +93,7 @@ Discord Indiehackers 聊天广告此处]]></description>
       <title>我无法判断 Google 的 AI 概述是否引用了我的网站，因此我建立了一种方法来检查</title>
       <link>https://feed.indiehackers.world/post/c6bba799af</link>
       <description><![CDATA[人们不断问我的两件事
-有人问我人工智能代理工作流程自动化在这里实际上意味着什么，因为它可以用于所有事情。在这种情况下，它的范围很窄：您创建一个代理可以调用​​的工具，然后代理处理获取和决定，而不是您单击 UI。我的调用了概述检查，阅读了引文，并告诉我自上周以来发生了什么变化。
+有人问我人工智能代理工作流程自动化在这里实际上意味着什么，因为它可以用于所有事情。在这种情况下，它的范围很窄：您创建一个代理可以调用​​的工具，代理处理获取和决定，而不是您单击 UI。我的调用了概述检查，阅读了引文，并告诉我自上周以来发生了什么变化。
 另一个问题是哪个平台可以让您在工作流程中链接多个人工智能代理。任何使用 MCP 的东西都会让代理直接调用这样的工具，如果您想让一个人了解情况，通常的自动化平台会涵盖预定的多步骤版本。
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/c6bba799af</guid>
@@ -165,15 +177,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/a2c1dd7970</guid>
       <pubDate>Thu, 13 Aug 2026 16:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Ads 327 欧元：99 次点击和 1 次跟踪注册</title>
-      <link>https://feed.indiehackers.world/post/01412e67f3</link>
-      <description><![CDATA[活动现已暂停。关键字列表围绕数据所说的内容而不是我们猜测的内容重建，从我们不知道的波兰市场开始。每天 18 欧元为我们带来的收购量比预期要少，而且比我们购买的任何工具都进行更多的市场研究。
-小型或失败的广告活动让您了解到的有关市场的最有用的信息是什么？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/01412e67f3</guid>
-      <pubDate>Thu, 13 Aug 2026 13:15:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
