@@ -4,7 +4,7 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Wed, 19 Aug 2026 15:19:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:14:52 GMT</lastBuildDate>
     <item>
       <title>477 人注册后，以下是用户获取方面令我惊讶的地方</title>
       <link>https://feed.indiehackers.world/post/043fd4ce67</link>
@@ -16,6 +16,26 @@
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/043fd4ce67</guid>
       <pubDate>Wed, 19 Aug 2026 06:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在为独立制造商构建一个 Product Hunt 替代方案——什么会让你真正使用它？</title>
+      <link>https://feed.indiehackers.world/post/a61816d1f9</link>
+      <description><![CDATA[我仍在改进这个平台，我宁愿构建创始人真正想要的东西，而不是猜测。
+所以我有两个问题要问独立黑客：
+
+什么会让您将产品提交到新的发布平台？
+
+交通？反向链接？反馈？排名？简讯曝光？分析？还有别的吗？
+
+您对现有产品发布平台有何不满？
+
+我希望得到非常有用的反馈。
+如果您当前正在构建一些东西，请随时提交它 - 我很乐意亲自查看第一个独立黑客的发布：
+👉https://indieneed.com/submit
+也很高兴回答有关我正在构建的内容的任何问题。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/a61816d1f9</guid>
+      <pubDate>Wed, 19 Aug 2026 05:56:14 GMT</pubDate>
     </item>
     <item>
       <title>700 次下载却卡住了——五个月后……</title>
@@ -54,6 +74,19 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/b37e10f39a</guid>
       <pubDate>Mon, 17 Aug 2026 12:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找合作伙伴 — 40% 以上的 AI SaaS 已构建？</title>
+      <link>https://feed.indiehackers.world/post/7ec9107817</link>
+      <description><![CDATA[所以：
+合作伙伴： 40%+ → 带来分销/客户 → 共同打造业务。
+获取：获取整个 SaaS → 拥有它 → 自定义它 → 让它成为您的。
+我特意在寻找合作伙伴中发布此内容，因为我不是在寻找随机买家。
+让我们停止谈论我们可以构建什么，并从已经构建的东西开始。
+私信我，我会向您展示产品。让我们看看我们可以从这里构建什么。
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/7ec9107817</guid>
+      <pubDate>Mon, 17 Aug 2026 11:01:34 GMT</pubDate>
     </item>
     <item>
       <title>寻找美国社交应用技术联合创始人/开发团队</title>
@@ -151,26 +184,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/a022fedc8c</guid>
       <pubDate>Sat, 15 Aug 2026 19:44:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个 Chrome 扩展，其中右键菜单项运行真正的 JavaScript</title>
-      <link>https://feed.indiehackers.world/post/825719af91</link>
-      <description><![CDATA[基本上，您将应用相同的规则粘贴到浏览器控制台中。
-如果您每天都会重复执行右键单击然后使用 alt-tab 操作，那么这可能需要五行脚本才能实现一次单击/快捷方式。
-快速演示 - https://www.youtube.com/watch?v=GQtmLrb1fF4
-Chrome 网上应用店 - https://chromewebstore.google.com/detail/menu-mod-right-click-menu/hidbgnneihkhinffhjbkkdacpgmdlcgj
-仍在积极构建此项目，因此如果您遇到困难或有一些想法，我会倾听。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/825719af91</guid>
-      <pubDate>Sat, 15 Aug 2026 12:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建了TermsGuard，以简单的英语解释合同——寻求反馈</title>
-      <link>https://feed.indiehackers.world/post/d07f75d947</link>
-      <description><![CDATA[大多数人从未阅读过他们接受的条款。我构建了TermsGuard，将合同、ToS 和隐私政策转换为简单的英语摘要、风险标记、问答和 PDF。该产品有效 - 困难的部分是“我同意”时的痛苦是否足以改变行为。
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/d07f75d947</guid>
-      <pubDate>Sat, 15 Aug 2026 07:34:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
