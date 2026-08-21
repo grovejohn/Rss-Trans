@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 21 Aug 2026 18:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:11:38 GMT</lastBuildDate>
     <item>
       <title>幕府将军AI</title>
       <link>https://www.producthunt.com/products/shogunai</link>
@@ -62,34 +62,6 @@
       <pubDate>Thu, 20 Aug 2026 21:21:51 GMT</pubDate>
     </item>
     <item>
-      <title>奴才</title>
-      <link>https://www.producthunt.com/products/flunkey</link>
-      <description><![CDATA[
-            适用于 Windows 的语音优先 AI 层（测试版）
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/flunkey</guid>
-      <pubDate>Thu, 20 Aug 2026 18:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>林科</title>
-      <link>https://www.producthunt.com/products/lynqo-your-local-nas-server</link>
-      <description><![CDATA[
-            您的机器是 P2P 服务器、审阅套件和剪贴板同步。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/lynqo-your-local-nas-server</guid>
-      <pubDate>Thu, 20 Aug 2026 17:40:39 GMT</pubDate>
-    </item>
-    <item>
       <title>埃福</title>
       <link>https://www.producthunt.com/products/epho-claude-code-in-the-cloud</link>
       <description><![CDATA[
@@ -132,18 +104,32 @@
       <pubDate>Thu, 20 Aug 2026 13:50:53 GMT</pubDate>
     </item>
     <item>
-      <title>当地的</title>
-      <link>https://www.producthunt.com/products/local-7</link>
+      <title>码头工</title>
+      <link>https://www.producthunt.com/products/dockhand</link>
       <description><![CDATA[
-            适用于 Mac 的零 (!) 摩擦本地 AI
+            适合所有人的 Docker 管理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/local-7</guid>
-      <pubDate>Thu, 20 Aug 2026 01:43:17 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/dockhand</guid>
+      <pubDate>Thu, 20 Aug 2026 12:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>fx（由 Vercel 提供）</title>
+      <link>https://www.producthunt.com/products/fx-by-vercel</link>
+      <description><![CDATA[
+            Vercel 的小型开源编码代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/fx-by-vercel</guid>
+      <pubDate>Thu, 20 Aug 2026 08:24:52 GMT</pubDate>
     </item>
     <item>
       <title>犁式闩锁</title>
@@ -172,6 +158,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/actx0</guid>
       <pubDate>Wed, 19 Aug 2026 22:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个CLI</title>
+      <link>https://www.producthunt.com/products/onecli</link>
+      <description><![CDATA[
+            为每位员工提供安全的沙盒专业助理代理
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/onecli</guid>
+      <pubDate>Wed, 19 Aug 2026 07:59:04 GMT</pubDate>
     </item>
     <item>
       <title>思维案例</title>
