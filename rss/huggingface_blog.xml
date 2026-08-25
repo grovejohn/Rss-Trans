@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱脸博客</description>
-    <lastBuildDate>Fri, 21 Aug 2026 15:20:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 03:37:40 GMT</lastBuildDate>
+    <item>
+      <title>连接、运行、部署：Gradio 中的 AI 工作流程</title>
+      <link>https://huggingface.co/blog/gradio-workflow-guide</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gradio-workflow-guide</guid>
+      <pubDate>Tue, 25 Aug 2026 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>测量语音识别中的基准优化</title>
       <link>https://huggingface.co/blog/asr-benchmark-optimization</link>
@@ -102,13 +109,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/baseten</guid>
       <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPU 管理：为什么空闲 GPU 成为新的停飞飞机</title>
-      <link>https://huggingface.co/blog/Dharma-AI/gpu-management</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/Dharma-AI/gpu-management</guid>
-      <pubDate>Thu, 30 Jul 2026 15:09:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
