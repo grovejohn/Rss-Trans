@@ -1,68 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
   <channel>
-    <title>Product Hunt——每天最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <title></title>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Aug 2026 12:22:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 16:07:07 GMT</lastBuildDate>
     <item>
-      <title>报复美国</title>
-      <link>https://www.producthunt.com/products/hevn-u-s-accounts-for-non-us-companies</link>
+      <title>开放计算机</title>
+      <link>https://www.producthunt.com/products/opencomputer</link>
       <description><![CDATA[
-            持有美元并通过美国赞助银行在全球范围内支付
+            Firebase 代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/hevn-u-s-accounts-for-non-us-companies</guid>
-      <pubDate>Wed, 26 Aug 2026 00:25:56 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/opencomputer</guid>
+      <pubDate>Wed, 26 Aug 2026 05:56:36 GMT</pubDate>
     </item>
     <item>
-      <title>鲍德巴迪</title>
-      <link>https://www.producthunt.com/products/baudbuddy-serial-terminal</link>
-      <description><![CDATA[
-            内置文件服务器的本机 macOS 串行终端
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/baudbuddy-serial-terminal</guid>
-      <pubDate>Tue, 25 Aug 2026 20:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>部署Hermes</title>
-      <link>https://www.producthunt.com/products/deployhermes</link>
-      <description><![CDATA[
-            雇用具有角色、记忆力和技能的持久爱马仕特工
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/deployhermes</guid>
-      <pubDate>Tue, 25 Aug 2026 19:40:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>麦克迷你电脑</title>
-      <link>https://www.producthunt.com/products/apple</link>
-      <description><![CDATA[
-            现在配备 M6 和 M5 Pro 芯片
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/apple</guid>
-      <pubDate>Tue, 25 Aug 2026 18:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>留言相册</title>
+      <title></title>
       <link>https://www.producthunt.com/products/message-album</link>
       <description><![CDATA[
             将一个 iMessage 对话保存为私人离线相册
@@ -74,6 +32,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/message-album</guid>
       <pubDate>Tue, 25 Aug 2026 15:37:50 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.producthunt.com/products/x1-2</link>
+      <description><![CDATA[
+            适合 iPhone 应用程序。从创意到 App Store
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/x1-2</guid>
+      <pubDate>Tue, 25 Aug 2026 05:52:16 GMT</pubDate>
     </item>
     <item>
       <title>任务外壳2.0</title>
@@ -90,21 +62,28 @@
       <pubDate>Tue, 25 Aug 2026 05:11:15 GMT</pubDate>
     </item>
     <item>
-      <title>Tellie 提示器 1.5</title>
-      <link>https://www.producthunt.com/products/tellie-2</link>
+      <title>iPad 版 Choclift</title>
+      <link>https://www.producthunt.com/products/choclift-workflow-sweetener</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.producthunt.com/products/choclift-workflow-sweetener</guid>
+      <pubDate>Mon, 24 Aug 2026 18:06:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCP-Builder.ai</title>
+      <link>https://www.producthunt.com/products/mcp-builder-ai</link>
       <description><![CDATA[
-            提词器知道你没说的话
+            将数据与 AI 工具连接的最快方式。 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tellie-2</guid>
-      <pubDate>Mon, 24 Aug 2026 21:07:48 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/mcp-builder-ai</guid>
+      <pubDate>Mon, 24 Aug 2026 08:54:22 GMT</pubDate>
     </item>
     <item>
-      <title>轻松切换</title>
+      <title></title>
       <link>https://www.producthunt.com/products/easyswitch</link>
       <description><![CDATA[
             一台鼠标、键盘和第二个屏幕适用于您的所有计算机
@@ -118,32 +97,11 @@
       <pubDate>Sat, 22 Aug 2026 19:07:18 GMT</pubDate>
     </item>
     <item>
-      <title>ChatCut 桌面</title>
+      <title></title>
       <link>https://www.producthunt.com/products/chatcut-ai-video-editor</link>
-      <description><![CDATA[
-            专为人类和人工智能打造的视频编辑器。使用 GPT 和 Claude 进行编辑。
-          
-
-讨论
-            |
-            链接
-]]></description>
+      <description><![CDATA[]]></description>
       <guid>https://www.producthunt.com/products/chatcut-ai-video-editor</guid>
       <pubDate>Sat, 22 Aug 2026 13:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能专业知识</title>
-      <link>https://www.producthunt.com/products/expertise-ai</link>
-      <description><![CDATA[
-            将您的 GTM 技能转化为经常性收入
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/expertise-ai</guid>
-      <pubDate>Sat, 22 Aug 2026 10:59:49 GMT</pubDate>
     </item>
     <item>
       <title>ReWeaver AI 漂移探测器</title>
@@ -160,18 +118,25 @@
       <pubDate>Sat, 22 Aug 2026 00:32:50 GMT</pubDate>
     </item>
     <item>
-      <title>Knack MCP 服务器</title>
-      <link>https://www.producthunt.com/products/knack</link>
+      <title>证据核心</title>
+      <link>https://www.producthunt.com/products/evidence</link>
       <description><![CDATA[
-            适合 AI 构建者的符合 HIPAA 要求的后端
+            使用编码代理构建实时分析 
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/knack</guid>
-      <pubDate>Thu, 20 Aug 2026 00:17:57 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/evidence</guid>
+      <pubDate>Wed, 19 Aug 2026 23:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有 GitHub 的 Arena 代理模式</title>
+      <link>https://www.producthunt.com/products/arena-5</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.producthunt.com/products/arena-5</guid>
+      <pubDate>Tue, 18 Aug 2026 23:22:18 GMT</pubDate>
     </item>
     <item>
       <title>绝杀机</title>
@@ -188,18 +153,25 @@
       <pubDate>Mon, 17 Aug 2026 19:16:34 GMT</pubDate>
     </item>
     <item>
-      <title>通话</title>
+      <title></title>
       <link>https://www.producthunt.com/products/playcall</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.producthunt.com/products/playcall</guid>
+      <pubDate>Fri, 14 Aug 2026 12:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title></title>
+      <link>https://www.producthunt.com/products/ify-2</link>
       <description><![CDATA[
-            替代Gong的开源人工智能
+            解决方案人工智能可在您现有的帮助台之上运行
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/playcall</guid>
-      <pubDate>Fri, 14 Aug 2026 12:30:11 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/ify-2</guid>
+      <pubDate>Wed, 12 Aug 2026 15:28:03 GMT</pubDate>
     </item>
     <item>
       <title>屏幕化工作室</title>
