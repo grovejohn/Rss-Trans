@@ -4,35 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Aug 2026 00:29:29 GMT</lastBuildDate>
-    <item>
-      <title>键位图</title>
-      <link>https://www.producthunt.com/products/keymap</link>
-      <description><![CDATA[
-            每一条捷径，都只差一个⌘⌘。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/keymap</guid>
-      <pubDate>Tue, 25 Aug 2026 02:20:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>分裂感知</title>
-      <link>https://www.producthunt.com/products/splitsense</link>
-      <description><![CDATA[
-            通过人工智能将用户行为转化为更高的转化
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/splitsense</guid>
-      <pubDate>Mon, 24 Aug 2026 19:04:41 GMT</pubDate>
-    </item>
+    <lastBuildDate>Wed, 26 Aug 2026 03:41:54 GMT</lastBuildDate>
     <item>
       <title>ChatGPT 广告库</title>
       <link>https://www.producthunt.com/products/chatgpt-ad-library</link>
@@ -48,18 +20,32 @@
       <pubDate>Mon, 24 Aug 2026 15:40:38 GMT</pubDate>
     </item>
     <item>
-      <title>祭坛二号</title>
-      <link>https://www.producthunt.com/products/electronic-materials-office-altar-i</link>
+      <title>会话索引器</title>
+      <link>https://www.producthunt.com/products/session-indexer</link>
       <description><![CDATA[
-            苹果从未制造过的机械键盘
+            对您自己的 Claude Code 会话历史记录进行语义搜索
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/electronic-materials-office-altar-i</guid>
-      <pubDate>Mon, 24 Aug 2026 12:11:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/session-indexer</guid>
+      <pubDate>Mon, 24 Aug 2026 09:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>好友视觉测试</title>
+      <link>https://www.producthunt.com/products/buddy</link>
+      <description><![CDATA[
+            每次 UI 更改都会在合并前进行审核
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/buddy</guid>
+      <pubDate>Mon, 24 Aug 2026 09:19:46 GMT</pubDate>
     </item>
     <item>
       <title>通过Agentcard购买API</title>
@@ -118,18 +104,18 @@
       <pubDate>Sat, 22 Aug 2026 13:13:26 GMT</pubDate>
     </item>
     <item>
-      <title>酷插头</title>
-      <link>https://www.producthunt.com/products/coolplugz</link>
+      <title>协助</title>
+      <link>https://www.producthunt.com/products/assistly-4</link>
       <description><![CDATA[
-            Claude 协调器可以为开发人员节省大量时间
+            实时 AI 会议叠加，无机器人，100% 私密
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/coolplugz</guid>
-      <pubDate>Thu, 20 Aug 2026 13:17:55 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/assistly-4</guid>
+      <pubDate>Thu, 20 Aug 2026 09:11:26 GMT</pubDate>
     </item>
     <item>
       <title>粒子工作室</title>
@@ -160,32 +146,46 @@
       <pubDate>Thu, 13 Aug 2026 15:09:36 GMT</pubDate>
     </item>
     <item>
-      <title>我不知道</title>
-      <link>https://www.producthunt.com/products/inquio</link>
+      <title>Jotform人工智能数据助手</title>
+      <link>https://www.producthunt.com/products/jotform</link>
       <description><![CDATA[
-            看看你的机器人出了什么问题
+            利用 AI 将表单数据转化为见解和行动
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/inquio</guid>
-      <pubDate>Wed, 05 Aug 2026 13:40:24 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/jotform</guid>
+      <pubDate>Tue, 11 Aug 2026 12:01:37 GMT</pubDate>
     </item>
     <item>
-      <title>记忆</title>
-      <link>https://www.producthunt.com/products/memoria-5</link>
+      <title>阿克塔专业版</title>
+      <link>https://www.producthunt.com/products/akta-pro</link>
       <description><![CDATA[
-            按文本、语音、物体和面孔搜索照片。 100%离线。
+            适用于代理经济的私营公司数据和信号 API
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/memoria-5</guid>
-      <pubDate>Thu, 23 Jul 2026 17:25:12 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/akta-pro</guid>
+      <pubDate>Thu, 06 Aug 2026 13:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>创创自动化</title>
+      <link>https://www.producthunt.com/products/hacktron</link>
+      <description><![CDATA[
+            关闭漏洞发现和修补之间的循环。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/hacktron</guid>
+      <pubDate>Wed, 29 Jul 2026 09:47:46 GMT</pubDate>
     </item>
     <item>
       <title>宁比亚</title>
