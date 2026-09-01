@@ -4,7 +4,21 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 01 Sep 2026 18:00:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 22:52:27 GMT</lastBuildDate>
+    <item>
+      <title>荣耀机器人手机</title>
+      <link>https://www.producthunt.com/products/honor-robot-phone</link>
+      <description><![CDATA[
+            真正内置万向节的手机
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/honor-robot-phone</guid>
+      <pubDate>Tue, 01 Sep 2026 05:16:36 GMT</pubDate>
+    </item>
     <item>
       <title>默梅尔</title>
       <link>https://www.producthunt.com/products/murmell</link>
@@ -18,20 +32,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/murmell</guid>
       <pubDate>Mon, 31 Aug 2026 22:39:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>EAS观察</title>
-      <link>https://www.producthunt.com/products/expo</link>
-      <description><![CDATA[
-            为 Expo 和 React Native 构建的性能监控
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/expo</guid>
-      <pubDate>Mon, 31 Aug 2026 17:29:51 GMT</pubDate>
     </item>
     <item>
       <title>可信路由器</title>
@@ -48,32 +48,18 @@
       <pubDate>Mon, 31 Aug 2026 16:38:25 GMT</pubDate>
     </item>
     <item>
-      <title>用于 BobCLI 的 BobVault</title>
-      <link>https://www.producthunt.com/products/bob-s-cli</link>
+      <title>纳西姆</title>
+      <link>https://www.producthunt.com/products/naseem-2</link>
       <description><![CDATA[
-            基于 CLI 的代码存储库零知识架构
+            可在您的 Mac 上真正发挥作用的本机 AI 代理
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/bob-s-cli</guid>
-      <pubDate>Mon, 31 Aug 2026 15:40:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>节点术语</title>
-      <link>https://www.producthunt.com/products/nodeterm-terminal-manager</link>
-      <description><![CDATA[
-            基于节点的免费开源终端管理器
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/nodeterm-terminal-manager</guid>
-      <pubDate>Mon, 31 Aug 2026 15:00:07 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/naseem-2</guid>
+      <pubDate>Mon, 31 Aug 2026 14:06:45 GMT</pubDate>
     </item>
     <item>
       <title>快乐虾</title>
@@ -90,18 +76,32 @@
       <pubDate>Mon, 31 Aug 2026 04:01:50 GMT</pubDate>
     </item>
     <item>
-      <title>Gauth人工智能课程</title>
-      <link>https://www.producthunt.com/products/gauth-ai-course</link>
+      <title>源剪辑2.0</title>
+      <link>https://www.producthunt.com/products/sourclip</link>
       <description><![CDATA[
-            您可以观看、测验和创建的 AI 课程
+            围绕 Gemini Notebook 构建的研究工作区
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/gauth-ai-course</guid>
-      <pubDate>Fri, 28 Aug 2026 16:09:15 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/sourclip</guid>
+      <pubDate>Sat, 29 Aug 2026 16:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>边代码</title>
+      <link>https://www.producthunt.com/products/sider-code-customize-any-website</link>
+      <description><![CDATA[
+            通过 Sider 扩展用简单的文字重塑任何网站
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/sider-code-customize-any-website</guid>
+      <pubDate>Fri, 28 Aug 2026 09:05:09 GMT</pubDate>
     </item>
     <item>
       <title>迅雷手机</title>
@@ -202,18 +202,18 @@
       <pubDate>Tue, 25 Aug 2026 20:34:36 GMT</pubDate>
     </item>
     <item>
-      <title>托维尔人工智能</title>
-      <link>https://www.producthunt.com/products/tovel-ai</link>
+      <title>早生五</title>
+      <link>https://www.producthunt.com/products/waseigo</link>
       <description><![CDATA[
-            从对话到行动，只需三步
+            学习 1,000 多个看起来像英语的日语单词
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/tovel-ai</guid>
-      <pubDate>Tue, 18 Aug 2026 02:18:35 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/waseigo</guid>
+      <pubDate>Mon, 17 Aug 2026 08:48:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
