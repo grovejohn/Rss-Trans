@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sat, 05 Sep 2026 22:23:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 01:27:46 GMT</lastBuildDate>
     <item>
       <title>马尾辫</title>
       <link>https://www.producthunt.com/products/ponytail</link>
@@ -48,18 +48,32 @@
       <pubDate>Fri, 04 Sep 2026 03:10:57 GMT</pubDate>
     </item>
     <item>
-      <title>天气下一个 3</title>
-      <link>https://www.producthunt.com/products/weathernext-3</link>
+      <title>发条</title>
+      <link>https://www.producthunt.com/products/clockwork-5</link>
       <description><![CDATA[
-            我们最先进、最准确的全球天气人工智能模型
+            您的人工智能代理上班的日历
           
 
 讨论
             |
             链接
 ]]></description>
-      <guid>https://www.producthunt.com/products/weathernext-3</guid>
-      <pubDate>Thu, 03 Sep 2026 15:17:27 GMT</pubDate>
+      <guid>https://www.producthunt.com/products/clockwork-5</guid>
+      <pubDate>Thu, 03 Sep 2026 15:55:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>奥马奇</title>
+      <link>https://www.producthunt.com/products/omarchy-3</link>
+      <description><![CDATA[
+            代理时代的可塑操作系统
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/omarchy-3</guid>
+      <pubDate>Thu, 03 Sep 2026 13:35:00 GMT</pubDate>
     </item>
     <item>
       <title>晚上 8 点</title>
@@ -74,20 +88,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/at8pm</guid>
       <pubDate>Thu, 03 Sep 2026 11:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Gemini 3.8 Flash 和网络</title>
-      <link>https://www.producthunt.com/products/gemini-3-8-flash</link>
-      <description><![CDATA[
-            用于代理、推理和网络安全的下一代 Gemini
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/gemini-3-8-flash</guid>
-      <pubDate>Wed, 02 Sep 2026 15:45:58 GMT</pubDate>
     </item>
     <item>
       <title>队列砖</title>
@@ -202,7 +202,7 @@
       <pubDate>Tue, 18 Aug 2026 17:23:32 GMT</pubDate>
     </item>
     <item>
-      <title>差异文件</title>
+      <title></title>
       <link>https://www.producthunt.com/products/dif-sh</link>
       <description><![CDATA[
             Markdown 功能会标记您安装的编码代理
