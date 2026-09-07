@@ -4,7 +4,7 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 07 Sep 2026 07:35:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 14:30:40 GMT</lastBuildDate>
     <item>
       <title>剪贴笔记</title>
       <link>https://www.producthunt.com/products/clipnote-2</link>
@@ -90,7 +90,7 @@
       <pubDate>Fri, 04 Sep 2026 21:26:52 GMT</pubDate>
     </item>
     <item>
-      <title>西普特利</title>
+      <title>脚本式的</title>
       <link>https://www.producthunt.com/products/sciptly</link>
       <description><![CDATA[
             由您的声音控制的 iOS 提词器应用程序
@@ -130,6 +130,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/google</guid>
       <pubDate>Wed, 02 Sep 2026 19:44:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Speakeasy 套件</title>
+      <link>https://www.producthunt.com/products/speakeasydev</link>
+      <description><![CDATA[
+            您的编码代理运行时。克劳德却速度快、成本低、简洁。
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/speakeasydev</guid>
+      <pubDate>Wed, 02 Sep 2026 14:23:38 GMT</pubDate>
     </item>
     <item>
       <title>Coldtea.ai 的 PR 镜头</title>
@@ -200,20 +214,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/chatgpt-toolbox</guid>
       <pubDate>Sat, 25 Jul 2026 13:16:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>醒来</title>
-      <link>https://www.producthunt.com/products/tadata</link>
-      <description><![CDATA[
-            Slack 中负责阅读房间的 AI 员工。
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/tadata</guid>
-      <pubDate>Tue, 16 Dec 2025 20:05:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
