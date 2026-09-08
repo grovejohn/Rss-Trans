@@ -4,7 +4,17 @@
     <title>帖子 独立黑客</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方提要</description>
-    <lastBuildDate>Tue, 08 Sep 2026 07:28:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 13:08:20 GMT</lastBuildDate>
+    <item>
+      <title>一位用户告诉我，我的产品的核心宣传并不是转换的真正原因。这就是我正在做的事情。</title>
+      <link>https://feed.indiehackers.world/post/c2046b864a</link>
+      <description><![CDATA[我一直在构建 Ideaact，这是一种人工智能，它会首先向创始人发送短信并检查他们正在构建的内容，这样事情就不会停滞不前。
+与一位尝试过该功能的用户通话，他很诚实：先发短信是一种不错的做法，但他已经将所有业务背景和数据保留在 Claude 内部，因此没有真正的理由仅仅因为有东西先联系到他就将其转移。他说，真正让他改变的事情是，它不仅仅只是说说而已，为他起草东西，连接到他的 Google 表格、日历、电子邮件、Instagram、LinkedIn，这样它就可以在他已经使用的工具中发挥作用，而不仅仅是提示他使用这些工具。
+这很受欢迎，这也是我现在努力的方向。好奇其他构建问责制或生产力工具的人是否也遇到过同样的事情，仅签入是否可以作为切换工具的真正原因，或者只有在其背后有集成层时才有效？
+Discord Indiehackers 聊天广告此处]]></description>
+      <guid>https://feed.indiehackers.world/post/c2046b864a</guid>
+      <pubDate>Tue, 08 Sep 2026 10:55:00 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个可以回答支持问题的人工智能。创始人仍然讨厌它。这是我学到的。</title>
       <link>https://feed.indiehackers.world/post/a2c1dd7970</link>
@@ -198,31 +208,6 @@ Trackly 的作用：
 Discord Indiehackers 聊天广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/b0d57c4b1b</guid>
       <pubDate>Sat, 04 Jul 2026 18:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的前 10 位用户中的一位成为了日常用户。其他9个人没有。</title>
-      <link>https://feed.indiehackers.world/post/fe5752e9f7</link>
-      <description><![CDATA[在重要的事情上取得稳步进展。
-不迷失在忙碌的工作中。
-因此，我开始构建一个以对齐为中心的工具，而不是构建一个以任务为中心的工具：
-
-您想要实现什么目标？
-你在做什么？
-这两件事真的有联系吗？
-
-我对用户的观察越多，我就越怀疑 Asheeve 并不适合所有人。
-这可能是一件好事。
-现在，我正在尝试理解：
-
-什么样的人会觉得这个问题很痛苦而需要关心？
-为什么有些人会点击该产品，而另一些人则不会点击该产品？
-是什么让人们坚持使用生产力工具，而不是在几天后就放弃它？
-
-我很想听听经历过类似阶段的创始人的意见。
-您如何识别真正需要您产品的用户？
-Discord Indiehackers 聊天广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/fe5752e9f7</guid>
-      <pubDate>Mon, 22 Jun 2026 09:05:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
