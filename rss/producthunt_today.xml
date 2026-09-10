@@ -4,12 +4,26 @@
     <title>Product Hunt——每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 10 Sep 2026 07:32:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 13:09:51 GMT</lastBuildDate>
+    <item>
+      <title>苏诺v6</title>
+      <link>https://www.producthunt.com/products/suno</link>
+      <description><![CDATA[
+            第一个与音乐行业合作的 Suno 模型
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/suno</guid>
+      <pubDate>Thu, 10 Sep 2026 05:13:30 GMT</pubDate>
+    </item>
     <item>
       <title>模式检查</title>
       <link>https://www.producthunt.com/products/modeinspect-1-0</link>
       <description><![CDATA[
-            在您的代码库中设计生产 UI
+            99 天免费 AI 积分 - 在代码库中设计产品 UI
           
 
 讨论
@@ -90,6 +104,20 @@
       <pubDate>Wed, 09 Sep 2026 15:57:03 GMT</pubDate>
     </item>
     <item>
+      <title>喜悦</title>
+      <link>https://www.producthunt.com/products/gojo</link>
+      <description><![CDATA[
+            本地听写和日常 Mac 工具尽在您的掌握
+          
+
+讨论
+            |
+            链接
+]]></description>
+      <guid>https://www.producthunt.com/products/gojo</guid>
+      <pubDate>Wed, 09 Sep 2026 03:41:05 GMT</pubDate>
+    </item>
+    <item>
       <title>语音标记</title>
       <link>https://www.producthunt.com/products/speechmark</link>
       <description><![CDATA[
@@ -102,34 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/products/speechmark</guid>
       <pubDate>Tue, 08 Sep 2026 17:47:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>财富组合</title>
-      <link>https://www.producthunt.com/products/wealthfolio</link>
-      <description><![CDATA[
-            本地优先的个人理财以及可选的经纪人同步
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/wealthfolio</guid>
-      <pubDate>Mon, 07 Sep 2026 20:39:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>类型新星</title>
-      <link>https://www.producthunt.com/products/typewise</link>
-      <description><![CDATA[
-            自我构建和改进的人工智能客户体验
-          
-
-讨论
-            |
-            链接
-]]></description>
-      <guid>https://www.producthunt.com/products/typewise</guid>
-      <pubDate>Thu, 03 Sep 2026 21:03:57 GMT</pubDate>
     </item>
     <item>
       <title>Subanana 的实时字幕</title>
@@ -202,7 +202,7 @@
       <pubDate>Tue, 11 Aug 2026 00:37:08 GMT</pubDate>
     </item>
     <item>
-      <title>模拟魔法预设</title>
+      <title>模拟魔术：视频预设</title>
       <link>https://www.producthunt.com/products/mockmagic</link>
       <description><![CDATA[
             使用保存的预设快速获取品牌设备视频
